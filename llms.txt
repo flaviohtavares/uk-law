@@ -18,5 +18,6 @@ Find a law in the index (one CSV row per law, with the path of its file), then o
 
 - [Nations](https://github.com/flaviohtavares/uk-law/tree/main/nations): laws made by each nation
 - [Catalogue](https://github.com/flaviohtavares/uk-law/tree/main/catalogue): laws available only as PDF
+- [MCP server](https://github.com/flaviohtavares/uk-law-mcp): `https://uk-law-mcp.uk-law-mcp.workers.dev/mcp`, tools to search and read every law
 - [Tools for Claude Code and Codex](https://github.com/flaviohtavares/uk-law-tools): a skill to search and read this repository
 - [Official source](https://www.legislation.gov.uk)

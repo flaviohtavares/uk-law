@@ -33,8 +33,11 @@ has one row per law with the path of its file, and [AGENTS.md](AGENTS.md) explai
   ```
 - **Codex and other agents:** install the same skill, or clone part of this repository and work
   inside it. Step-by-step instructions: [uk-law-tools](https://github.com/flaviohtavares/uk-law-tools).
-- **ChatGPT and other chat assistants:** give them the link to [`llms.txt`](llms.txt) or to a law's
-  file. They can read files at `https://raw.githubusercontent.com/flaviohtavares/uk-law/main/<path>`.
+- **ChatGPT, Claude.ai and any MCP client:** connect the free MCP server
+  `https://uk-law-mcp.uk-law-mcp.workers.dev/mcp` (no sign-in). How to add it in each app:
+  [uk-law-mcp](https://github.com/flaviohtavares/uk-law-mcp).
+- **Any chat assistant that reads the web:** give it the link to [`llms.txt`](llms.txt) or to a law's
+  file. Files can be read at `https://raw.githubusercontent.com/flaviohtavares/uk-law/main/<path>`.
 
 The full clone is about 4 GB. To get only part of it:
 
