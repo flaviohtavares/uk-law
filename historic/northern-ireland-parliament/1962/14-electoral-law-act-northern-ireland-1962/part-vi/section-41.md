@@ -1,0 +1,75 @@
+---
+title: Electoral Law Act (Northern Ireland) 1962, section 41
+act: Electoral Law Act (Northern Ireland) 1962
+section: '41'
+status: revised
+text_date: '2024-05-07'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/apni/1962/14/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Electoral Law Act (Northern Ireland) 1962, section 41
+
+> Text as at 2024-05-07.
+>
+> Extent: Northern Ireland.
+
+## 41. Prohibition of unauthorised expenses.
+
+*Extent: N.I.*
+
+(1) Subject to subsections (2) to (3)[^c21916671], no expenses shall, with a view to promoting or procuring the election of a candidate at an election, be incurred after a person becomes a candidate[^c21916691] by any person other than the candidate, his election agent and persons authorised in writing by the election agent on account—
+
+- (a) of holding public meetings or organising any public display; or
+- (b) of issuing advertisements, circulars or publications; or
+- (c) of otherwise presenting to the electors the candidate or his views or the extent or nature of his backing or disparaging another candidate; or
+- (d) of the hire or provision of vehicles for the conveyance of voters to or from the poll.
+
+(1A)[^c21916711] For the purposes of subsection (1) expenditure incurred before or on the date when a candidate becomes a candidate at a local election is to be treated as having been incurred after that date if it is incurred in connection with anything which is used or takes place after that date.
+
+(2) Paragraph ( *c*) of sub-section (1) shall not—
+
+- (i)[^c21916731] restrict the publication of any matter relating to the election in—
+  - (a) a newspaper or other periodical;
+  - (b) a broadcast made by the British Broadcasting Corporation; or
+  - (c) a programme included in any service licensed under Part 1 or 3 of the Broadcasting Act 1990 or Part 1 or 2 of the Broadcasting Act 1996; or
+- (ii) apply to any expenses incurred by any person which do not exceed in the aggregate the permitted sum (and are not incurred by that person as part of a concerted plan of action)[^c18657461], or to expenses incurred by any person in travelling or in living away from home or similar personal expenses.
+
+(2A) For the purposes of subsection (2)(ii)—
+
+- (a) the permitted sum means £50 together with an additional 0.5p for every entry in the register of local electors for the district electoral area in question as it has effect on the last day for publication of notice of the election; and
+- (b) expenses are to be regarded as incurred by a person as part of a concerted plan of action if they are incurred by that person in pursuance of any plan or other arrangement whereby that person and one or more other persons are to incur, with a view of promoting or procuring the election of the same candidate, expenses which (disregarding subsection (2)(ii)) might fall within subsection (1) above.
+
+(3) Paragraph ( *d*) of sub-section (1) shall not—
+
+- (i) apply to the provision or use by its owner, for the purpose of conveying voters to or from the poll, of any vehicle, not being a vehicle ordinarily used for letting or hiring, where no payment or reward is made or promised by any person to the owner of the vehicle in respect of its provision or use for such purpose;
+- (ii) apply to the letting, hiring, employing or using of a vehicle by a voter or several voters at their joint cost for the purpose of conveying him or them to or from the poll at any election.
+
+*Subs.(4) rep. by 1972 NI 13*
+
+(5) Every person authorised by the election agent under sub-section (1) to incur expenses at \[[^c18657501] an election\] shall—
+
+- (a) within seven days after the day on which the result of the election is declared, send to the election agent a written statement containing particulars of all expenses incurred by him and such expenses shall for all the purposes of this Act be regarded as expenses incurred by the election agent;
+- (b) within fourteen days after the day on which the result of the election is declared send to the returning officer a return of the amount of those expenses, stating the election at which and the candidate in whose support they were incurred, and the return shall be accompanied by a declaration made by the said person (or in the case of an association or body of persons, by a director, general manager, secretary or other like officer thereof) verifying the return and giving particulars of the matters for which the expenses were incurred:
+
+  Provided that paragraph (b) shall not apply to any person engaged or employed for payment or promise of payment by the candidate or his election agent. At a local election, paragraph (b) of this subsection shall have effect as if for the words fourteen and send there were substituted twenty‐one and deliver, respectively.[^c18657511]
+
+(6) The return and declaration under the foregoing provisions of this section shall be respectively in the forms numbered 2 and 3 in the Tenth Schedule, and the authority received from the election agent shall be annexed to and deemed to form part of the return.
+
+## Annotations
+
+[^c21916671]: Textual amendment: Words in [s. 41(1)](https://www.legislation.gov.uk/apni/1962/14/section/41/1) substituted (16.12.2010) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/10/2/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+
+[^c21916691]: Textual amendment: Words in [s. 41(1)](https://www.legislation.gov.uk/apni/1962/14/section/41/1) inserted (16.12.2010) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/10/2/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+
+[^c21916711]: Textual amendment: [S. 41(1A)](https://www.legislation.gov.uk/apni/1962/14/section/41/1A) inserted (16.12.2010) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/10/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+
+[^c21916731]: Textual amendment: [S. 41(2)(i)](https://www.legislation.gov.uk/apni/1962/14/section/41/2/i) substituted (16.12.2010) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/10/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+
+[^c18657461]: Textual amendment: SI 2001/417
+
+[^c18657501]: Textual amendment: [1972 NI 13](https://www.legislation.gov.uk/1972/ni13)
+
+[^c18657511]: Textual amendment: SI 1987/168

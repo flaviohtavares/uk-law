@@ -1,0 +1,55 @@
+---
+title: Fisheries Act (Northern Ireland) 1966, section 112
+act: Fisheries Act (Northern Ireland) 1966
+section: '112'
+status: revised-with-pending-changes
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/apni/1966/17/section/112
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Fisheries Act (Northern Ireland) 1966, section 112
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/apni/1966/17
+>
+> Extent: Northern Ireland.
+
+## 112. Restriction on purchase of salmon, trout and eels.
+
+*Extent: N.I.*
+
+(1) Subject to subsection (2), a person who is not the holder, or the agent duly authorised in writing in that behalf of the holder, of a dealer's licence issued under the succeeding provisions of this Part and for the time being in force, and who buys salmon, trout or eels, \[[^c16996061] or being the holder of such a licence, or the agent of such a holder, buys salmon, trout or eels elsewhere than at the place or vehicle in respect of which the licence is in force\], shall be guilty of an offence under this Part.
+
+(2) Subsection (1) shall not apply in relation to—
+
+- (a) the *bona fide* purchase by or on behalf of a person of salmon, trout or eels for use by the person in his own home; or
+- (b) the *bona fide* purchase of salmon, trout or eels by or on behalf of any person for use for catering purposes in premises in which he carries on the business of a hotel, restaurant or guest house or of providing board and lodging or meals for reward, if the purchase is made from—
+  - (i) the holder of a dealer's licence for the time being in force; or
+  - (ii) a fisherman who is lawfully engaged in taking and killing salmon, trout or eels, and who is the holder of a fishing licence which is for the time being in force and is available for use for the taking and killing of salmon or, as the case may be, trout or eels;
+
+  and, in the case of a purchase from a fisherman, the purchaser—
+
+  - (aa) obtains from the fisherman a statement in writing containing his name and address and the number of his fishing licence and stating that the salmon or, as the case may be, the trout or eels are of his own lawful capture, and
+  - (bb) retains the statement and keeps it at the premises in which he carries on the business[^c16996071] and produces it to an authorised officer when requested by the authorised officer to do so.
+
+(3) A person who is buying salmon, trout or eels and purports to be acting as an agent of the holder of a dealer's licence shall produce on demand by an authorised officer his authorisation to act as such agent and if he refuses or fails to produce his authorisation or, on the production thereof, refuses or fails to permit the authorised officer to read the authorisation there and then, he shall be guilty of an offence.
+
+(4) A person who when the production of the authorisation referred to in subsection (3) is lawfully demanded of him under this section does not produce the authorisation because he is not the holder of an authorisation shall be deemed to refuse or fail to produce his authorisation within the meaning of this section.
+
+(5) Where, pursuant to subsection (2), a person (in this subsection referred to as the vendor) selling salmon, trout or eels to another person gives to that person a statement in writing which, or any part of which, is, to the knowledge of the vendor, false or misleading, the vendor shall be guilty of an offence under this Part.
+
+(6) In this section authorised officer means
+
+- (a) an officer of the Ministry authorised by the Ministry to exercise the powers conferred by this section; or
+- (b) a member of the Royal Ulster Constabulary; or
+- (c) an inspector or fishery conservation officer appointed by the Department[^c21337381] .
+
+## Annotations
+
+[^c16996061]: Textual amendment: [1968 c.31 (NI)](https://www.legislation.gov.uk/apni/1968/31)
+
+[^c16996071]: Textual amendment: [1991 NI 13](https://www.legislation.gov.uk/1991/ni13)
+
+[^c21337381]: Textual amendment: [S. 112(6)(c)](https://www.legislation.gov.uk/apni/1966/17/section/112/6/c): words in Act substituted (1.6.2009) by [Public Authorities (Reform) Act (Northern Ireland) 2009 (c. 3)](https://www.legislation.gov.uk/nia/2009/3), [ss. 1(3)(b)](https://www.legislation.gov.uk/nia/2009/3/section/1/3/b), [7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1), [Sch. 1 Pt. 2 para. 3(1)(a)](https://www.legislation.gov.uk/nia/2009/3/schedule/1/part/2/paragraph/3/1/a) (with [Sch. 1 Pt. 1 para. 4(3)](https://www.legislation.gov.uk/nia/2009/3/schedule/1/part/1/paragraph/4/3)); [S.R. 2009/172](https://www.legislation.gov.uk/nisr/2009/172), [art. 2(a)(b)](https://www.legislation.gov.uk/nisr/2009/172/article/2/a/b)

@@ -1,0 +1,35 @@
+---
+title: Fisheries Act (Northern Ireland) 1966, section 14
+act: Fisheries Act (Northern Ireland) 1966
+section: '14'
+status: revised-with-pending-changes
+text_date: '2020-12-31'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/apni/1966/17/section/14
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Fisheries Act (Northern Ireland) 1966, section 14
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/apni/1966/17
+>
+> Extent: Northern Ireland.
+
+## 14. Exemptions for artificial propagation and scientific purposes.
+
+*Extent: N.I.*
+
+(1) The Ministry may, by permit in writing and subject to any conditions specified in the permit, authorise any named person to do, at any season of the year, such things as may be specified in the permit for the purpose of the artificial propagation of fish, for some scientific purpose or for the improvement of any fishery, and in particular, without prejudice to the generality of the foregoing,—
+
+- (a) to catch fish of any kind specified in the permit and to have in his possession fish of that kind or their ova for the purpose of artificial propagation, transplantation, the stocking, restocking or improvement of any fishery or for any scientific purpose, and for the purpose of so catching to have in his possession, erect and use any fishing engine of a kind specified in the permit or to have in his possession and use any substance of a kind so specified;
+- (b) to buy or sell ova or fry of fish of any kind specified in the permit for the purpose of stocking or restocking, or for any scientific purpose;
+- (c) to dispose of fish taken in accordance with the terms of the permit in such manner and on such terms as may be so authorised.
+
+(2) A permit under subsection (1) shall not authorise anything to be done in relation to a several fishery otherwise than with the consent of the owner of that fishery.
+
+(3) Notwithstanding anything contained in this Act or any instrument made thereunder, a person to whom a permit is issued under subsection (1) or any other person acting under the directions of such first-mentioned person may, subject to any conditions specified in the permit, do any of the things authorised by the permit without incurring any penalty under this Act.
+
+(4) A person to whom a permit has been given by the Ministry under this section shall, if when doing anything pursuant to the permit he is so requested by an authorised person, produce the permit to that person.
+
+(5) In subsection (4), “authorised person” has the same meaning as in section 166(1) and (2).

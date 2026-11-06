@@ -1,0 +1,312 @@
+---
+title: Employment and Training Act (Northern Ireland) 1950
+id: apni/1950/29
+type: NorthernIrelandParliamentAct
+category: primary
+status: revised
+made_date: '1950-12-21'
+text_date: '2021-09-20'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/apni/1950/29
+pdf_urls:
+- http://www.legislation.gov.uk/apni/1950/29/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Employment and Training Act (Northern Ireland) 1950
+
+> Text as at 2021-09-20.
+>
+> Extent: Northern Ireland.
+
+*Extent: N.I.*
+
+Employment and Training Act (Northern Ireland) 1950
+
+1950 Chapter 29
+
+An Act to make provision with respect to employment and the training of persons for employment; and for purposes connected therewith.
+
+\[21st December 1950\][^c11534361][^M_C_f086e549-4d55-4025-f64d-b8d4ca9ef16e]
+
+## 1. General functions of Department as to employment and training for employment.[^c11534371][^key-72d4ae446e11bbba098cd4195b4d3415]
+
+(1)[^c11534381] The Department[^key-013cb7b66500eb32315601613791299e] shall make such arrangements as it considers appropriate for the purpose of assisting persons to select, train for, obtain and retain employment suitable for their ages and capacities or of assisting persons to obtain suitable employees (including partners and other business associates).
+
+(1A) Arrangements under this section may—
+
+- (a) include arrangements for providing temporary employment for persons in Northern Ireland who are without employment;
+- (b) include arrangements for encouraging increases in the opportunities for employment and training that are available to women and girls or to disabled persons;
+- (c) subject to the restriction of paragraph (a) to persons in Northern Ireland, be made in respect of employment and training anywhere in the United Kingdom or elsewhere;
+- (d) include provision for the making of payments by any person[^c21929991], by way of grant or loan or otherwise, to persons who provide facilities in pursuance of the arrangements, to persons who use those facilities and to other persons specied in or determined under the arrangements;
+- (e) include provision for the making of payments to the Department by other parties to the arrangements and by persons who use those facilities;
+- (f) include arrangements for securing that assistance in relation to the matters mentioned in subsection (1) is provided by persons other than the Department.
+
+(1B) The payments for which arrangements under this section may provide—
+
+- (a) shall include the payment to a person by the Department of an allowance pending a time when payments will be or may be made to that person in respect of his use of facilities which will be or may be made available to him under any such arrangements;
+- (b) shall not include the payment of any such allowance to a person—
+  - (i) for any period after that person has attained the age of eighteen years; or
+  - (ii) for any period for which child benefit is payable in respect of that person; and
+- (c) shall not include any payment by any person to the Department, other than a payment for publications issued in pursuance of the arrangements, in respect of the seeking or obtaining for that person of any employment under a contract of service or apprenticeship.
+
+(1C) No payments shall be made by the Department by virtue of any power conferred by this section unless the Department of Finance and Personnel has approved—
+
+- (a) the amounts of the payments or the manner of determining those amounts; and
+- (b) the terms on which they are made or the manner of determining those terms.
+
+(2)[^c11534401] For the purpose of advising and assisting it in the performance of its functions under this Act, the Department may appoint such advisory bodies as it thinks fit.
+
+(3) The Department may by regulations make provision for—
+
+- (a) the constitution and functions of any such advisory body;
+- (b) the name by which any such advisory body is to be known.
+
+(4)[^key-361886812501ce1ba3c1a40fc861cc58] The Department must make arrangements under this section for providing careers guidance for such persons as the Department considers appropriate.
+
+(5) The guidance must—
+
+- (a) be provided in an impartial manner; and
+- (b) be in the best interests of the person receiving it.
+
+(6) The Department may by regulations make such provision concerning arrangements under subsection (4) as the Department considers appropriate, including provision requiring the guidance to be delivered or otherwise provided by a person who has such qualifications as the Department may determine.
+
+(7) In this section “**careers guidance**” means guidance on—
+
+- (a) what employments are available to and suitable for the persons receiving the guidance; and
+- (b) what education and training may be available to those persons to prepare them for those employments.
+
+(8)[^key-e3df1fe7eafb198b1d9a847fdad448d7] The Department may by regulations provide that arrangementsmust be made under this section for providing apprenticeships and traineeships for such persons as may be specified in the regulations subject to such conditions as may be so specified.
+
+(9) Regulations under subsection (8) may make provision as to the components of apprenticeships and traineeships.
+
+## 1A. Restriction on section 1 arrangements: sex industry[^key-ca48965b372d1e08a707a249df7497d7]
+
+(1) Arrangements made by the Department under section 1 may not include arrangements in respect of employment for sexual purposes.
+
+(2) For the purposes of this section employment is for sexual purposes if—
+
+- (a) it involves the employee engaging in an activity, and
+- (b) the employee's activity, or the way in which it is performed, may reasonably be assumed to be intended solely or principally to stimulate one or more other persons sexually (by whatever means).
+
+(3) The Department may by order subject to negative resolution specify exceptions to subsection (1).
+
+## 2. Employment exchanges and employment services.
+
+(1) The Department[^key-9d1be0ed82bcf5d4682057fa261a1404] may establish and maintain, in such places as it thinks fit, employment exchanges, that is to say, offices or places for the collection and furnishing of information, either by the keeping of registers or otherwise, respecting persons who seek to engage employees and persons who seek employment.
+
+(2) Without prejudice to the provisions of the last foregoing sub-section, the Department[^key-259752e8ca8c4869cfddae4300fd3a54] may make such arrangements[^c11534421] as it considers expedient, whether by means of employment exchanges or otherwise, for the collection and furnishing of information, and the provision of advice, guidance or other services for persons of any class (whether employed or not) for any of the purposes mentioned in section one of this Act.
+
+(3) Subject to the approval of the Ministry of Finance, the Department[^key-d3c89373543796a6a73f4eb7ff0103c6] may defray or contribute towards expenditure incurred by any local authority under any enactment other than this Act in the provision of any such services as are mentioned in the last foregoing sub-section, and may make such contributions as it may, with the consent of the Ministry of Finance, determine towards the funds of any voluntary association having among its objects the provision of any such services.
+
+(4) The Department[^key-1c0c173dfe1a724c4bb72da2525493aa] may make regulations with respect to the management of employment exchanges provided by it under this section, and otherwise with respect to the exercise of its functions thereunder.
+
+(5) No person shall be disqualified or otherwise prejudiced in respect of facilities provided at any employment exchange as aforesaid on account of his refusal to accept employment found for him through such an exchange if the ground of his refusal is that a trade dispute which affects his trade exists, or that the wages offered are lower than those current in the trade in the district where the employment is found.
+
+(6) Subject to the approval of the Ministry of Finance, the Department[^key-ccdcdf0664b4f729559031d6be525be0] may, in such cases and subject to such conditions as it thinks fit, make payments by way of grant or loan to persons travelling to or attending at any employment exchange or other place for the purpose of availing themselves of services provided under this section, and may pay to medical practitioners, in respect of the examination of persons availing themselves of such services, such fees as it may determine.
+
+(7) If any person, for the purpose of obtaining employment or procuring employees, knowingly or recklessly makes any false statement or false representation to an officer of any employment exchange provided by the Department[^key-ea302d1fc54a0eca63beb09de1bdd5d3] under this section, or to any person acting for or for the purposes of any such exchange, he shall (without prejudice to his liability under any other enactment) be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale[^c11534431].
+
+(8) The Department[^key-5674444cc7e7f3f5ce32dcc8bc68cb37] shall, so far as practicable, make arrangements with employers for the notification by them to employment exchanges of situations in their employment which are or are about to become vacant.
+
+## 3. Provisions as to training for employment.
+
+(1) The Department[^key-7a6afc97e5b5b51ea00fcf17374e6fe4] may provide such training courses for persons, whether employed or not, who are above the upper limit of compulsory school age as it thinks necessary or expedient for any of the purposes mentioned in section one of this Act.
+
+(2) For the purposes aforesaid, the Department[^key-5e26e9f8487ef69d96b1cfb6e7ee97c0] may, in such cases and subject to such conditions as it may with the approval of the Ministry of Finance determine, defray or contribute towards the cost of training courses provided (whether in Northern Ireland or elsewhere) by any other authority or person for any such persons as are mentioned in the last foregoing sub-section.
+
+(3) References in this section to the provision of a training course shall be construed as including references—
+
+- (a) to the making of payments to persons who attend at any such course, in respect of their maintenance or in respect of their travelling expenses;
+- (b) to the provision of residential accommodation, board and facilities for recreation and welfare for such persons;
+- (c) to the provision of any other facilities or services incidental to the purposes of the course.
+
+(4) Without prejudice to the foregoing provisions of this section, where, in pursuance of arrangements made with the Department[^key-abfcf190cbebd23e1e242ef414a6ab21] , provision is made by an employer for the training of persons in his employment, the Department may, with the approval of the Ministry of Finance, make any payment or provide any facility or service to or for the benefit of those persons which it could make or provide if they were attending at a training course provided by the Department under this section.
+
+*Subs. (5) rep. by 1984 NI 9; subs. (6) rep. by 1980 NI 8*
+
+## 4. Schemes for promoting regularity of employment.
+
+(1) Where any scheme for promoting greater regularity of employment in any industry is approved by the Department[^key-779608b040e16ee9ab6b2793436421dd] on the joint application of an organisation representing employers and an organisation representing workmen in that industry, the Department may, in accordance with arrangements made with the consent of the Ministry of Finance, assist the administration of the scheme by attaching officers of the Department to help in the administration thereof, and by such other means as the Department thinks fit.
+
+(2) The Department[^key-e865178725397e6b9d612b76aa8c711e] may, in accordance with such arrangements as aforesaid, issue on behalf of employers to persons to whom any such scheme applies any sums payable to those persons whether by way of wages or otherwise:
+
+Provided that any arrangements making provision for the issue of any such sums shall also make provision for paying to the Department any sums so issued by it and any expenses incurred by it which are attributable to the scheme.
+
+(3) If an organisation representing employers and an organisation representing workmen in any industry make to the Department[^key-f2ec2415e2f10510bc983d22aff986e4] a joint representation as to any difficulty in the operation of any scheme for promoting greater regularity of employment in the industry or in making any further scheme for that purpose for the industry, the Department may appoint one or more than one person to hold an inquiry into the circumstances giving rise to the difficulty and to make a report to the Department with respect thereto.
+
+(4) The fee to be paid by the Department[^key-dbb527996905403f1cf9b955d61cf7cc] to any person holding such an inquiry as aforesaid shall be such as the Department may with the consent of the Ministry of Finance direct.
+
+## 5. Payments towards cost of removal and resettlement of workers.
+
+(1) Subject to the approval of the Ministry of Finance, the Department[^key-05230cc57f45f90ba70c81eba5dfef74] may, for the purposes of its functions under section one of this Act, make provision by way of grant or loan or otherwise—
+
+- (a) for facilitating the removal of any persons, with or without their dependants, to or from any place in Northern Ireland for the purpose of obtaining employment;
+- (b) for the maintenance and welfare of persons so removed in the course of their removal or pending their resettlement, and, in the case of persons removed to any place in Northern Ireland, for their resettlement;
+- (c) where any persons removed as aforesaid for the purpose of obtaining employment fail to obtain employment, or employment obtained by persons so removed comes to an end, for facilitating the further removal of those persons, with or without their dependants, to any place whether in Northern Ireland or elsewhere.
+
+(2) Where an industrial undertaking (in this sub-section referred to as “the new undertaking”) is being established in Northern Ireland by way of extension of, or in connection with, or by way of the transfer of the whole or part of, another industrial undertaking, wherever carried on, and on an application made in that behalf the Department[^key-0c8dad41df804e5c1c0712e471b52c69] is satisfied—
+
+- (a) that the new undertaking is likely to create employment in Northern Ireland; and
+- (b) that the transfer of any person to employment in the new undertaking from employment in the other undertaking will facilitate the establishment of the new undertaking;
+
+the Department may for the purposes of this section treat—
+
+- (i) such transfer of employment as if it were the obtaining of employment; and
+- (ii) the cesser of employment of that person in the new undertaking as if it were the coming to an end of employment, notwithstanding that such cesser is for the purpose of enabling that person to continue in employment elsewhere.
+
+(3) Where any payment by way of loan has been made by the Department[^key-445575edb7453aea547010ddfd5a443f] under this section to or in respect of any person, \[[^c11534451] who satisfies the contribution conditions set out in paragraph 1 or 2 of Schedule 3 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^c11534461]\], on account of expenses of travelling to any place for the purpose of obtaining employment, \[[^c11534481] the Department of Health and Social Services\] may, whether or not that person obtains employment at that place, repay out of the Northern Ireland National Insurance Fund such part of the advance as may be prescribed by regulations made by \[[^c11534481] the Department of Health and Social Services\] with the consent of the Ministry of Finance; and except as provided by the following provisions of this section, any sum so repaid out of the Northern Ireland National Insurance Fund shall not be recoverable from the person to whom the loan was made.
+
+(4) If, in the event of employment being found for a person to or in respect of whom any such payment as is mentioned in the last foregoing sub-section has been made, that person either fails without reasonable excuse to enter on that employment, or within seven days of entering on it, leaves that employment without reasonable excuse, the sum repaid under the last foregoing sub-section out of the Northern Ireland National Insurance Fund may be recovered from him or deducted from any unemployment benefit, sickness benefit \[[^c11534451] invalidity benefit or retirement pension under the Social Security Contributions and Benefits (Northern Ireland) Act 1992\], which may thereafter become payable to him.
+
+(5) Any sums recoverable under the last foregoing sub-section may, without prejudice to any other remedy, be recovered by the Department[^key-1dff5e8108636d78eee0833b87790ca3] summarily as a civil debt and any sums recovered under that sub-section shall be paid into the Northern Ireland National Insurance Fund.
+
+*S. 5A rep. with saving by 1978 c. 6*
+
+## 6. Existing powers.
+
+(1) The powers conferred on the Department[^key-c94f23e59321eda51e3c04c88140b4fa] by this Act shall be additional to and not in substitution for any powers exercisable by the Department or by any other authority under any other enactment.
+
+*Subs. (2) spent*
+
+## 7. Expenses.
+
+(1) Subject to the provisions of this Act with respect to payments to be made out of the Northern Ireland National Insurance Fund, there shall be paid out of moneys provided by Parliament, to such amount as may be sanctioned by the Ministry of Finance—
+
+- (a) any expenditure of the Department[^key-6bf3a1082775c7baaa5180dd9cd28e55] under this Act;
+- (b) such expenses or allowances payable to the members of any advisory committee appointed under this Act, or of any sub-committee thereof, as the Department[^key-38a03e9196564be6b53e2a76a01a7214] may with the consent of the Ministry of Finance determine.
+
+(2) Any sums paid out of the Northern Ireland National Insurance Fund in respect of expenditure of the Department[^key-df4c58b9a38a950ffe41efaf455a913c] under this Act shall be paid as an appropriation in aid of moneys provided by Parliament for that expenditure.
+
+*Subs. (3) spent*
+
+## 8. Prosecution of offences.
+
+Proceedings for any offence under this Act shall not be instituted except by or with the consent of the Department[^key-3207474b63d9d897267fb5ecbe648bcc] or by an officer authorised in that behalf by special or general directions of the Department .
+
+## 9. Regulations.
+
+(1) The Department[^key-84c2d44e75147b7ba081051e8d0d48fe] may make regulations for prescribing anything which under this Act is to be prescribed.
+
+(2) All regulations made by the Department[^key-6c99b2e5a0f87d9a3b40d82130db2790] under this Act shall, as soon as may be after they are made, be laid before each House of Parliament. If either House of Parliament within the statutory period next after the day on which any such regulation has been laid before such House resolves that the regulation shall be annulled, the regulation shall after the date of the resolution become void, but without prejudice to the validity of anything previously done thereunder or to the making of a new regulation.
+
+## 10. Interpretation.
+
+(1) In this Act, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them, that is to say:—
+
+- “the Department” means—[^key-e675e570aeb1ba219f85d703b63007be]
+  - (a) except in section 4 and this subsection, the Department for Communities or the Department for the Economy;
+  - (b) in section 4 and this subsection, the Department for the Economy;
+- “industry” means any class or classes of establishments or undertakings or branches or departments of establishments, or undertakings, or any class or classes of such establishments, undertakings, branches or departments in any area, which the Department[^key-30436e24755afcebc034a5a9bc683318] may determine to be an industry for the purposes of this Act;
+- “training course” includes a course of instruction or course of occupation;
+- “upper limit of compulsory school age” means the age at which under the law for the time being in force the parents of a person cease to be under an obligation to cause him, unless there is some reasonable excuse, to attend school; and
+- “voluntary association” includes any company which is required by its constitution to apply its profits, if any, or other income in promoting its objects and prohibited thereby from paying any dividend or making any other distribution of funds or assets to its members.
+
+*Subs. (2)(3) rep. by 1954 c. 33 (NI)*
+
+## 11. Repeals.
+
+*Subs. (1) rep. by SLR (NI) 1954*
+
+(2) Any regulations made under the Labour Exchanges Act, 1909 [^m00001], and any rules or other instruments having effect by virtue of such regulations, shall, if in force immediately before the commencement of this Act, continue in force and have effect as if the regulations had been made under the corresponding provisions of this Act, and may be amended or revoked accordingly.
+
+*Subs. (3) rep. by 1962 c. 9 (NI)*
+
+## 12. Short title.
+
+This Act may be cited as the Employment and Training Act (Northern Ireland), 1950.
+
+*Schedule rep. by SLR (NI) 1954*
+
+## Annotations
+
+[^c11534361]: Modification: Functions transf. by SR 1999/481
+
+[^M_C_f086e549-4d55-4025-f64d-b8d4ca9ef16e]: Modification: Act (except ss. 4, 10(1)): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^c11534371]: Textual amendment: [1974 NI 7](https://www.legislation.gov.uk/nisi/1974)
+
+[^key-72d4ae446e11bbba098cd4195b4d3415]: Textual amendment: Word in s. 1 heading substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 26(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/26/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^c11534381]: Textual amendment: [1988 NI 10](https://www.legislation.gov.uk/nisi/1988)
+
+[^key-013cb7b66500eb32315601613791299e]: Textual amendment: Words in s. 1(1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 26(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/26/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^c21929991]: Textual amendment: Words in s. 1(1A)(d) substituted (3.8.2010) by [Employment Act (Northern Ireland) 2010 (c. 12)](https://www.legislation.gov.uk/nia/2010/12), [ss. 7(1)](https://www.legislation.gov.uk/nia/2010/12/section/7/1), [8(2)](https://www.legislation.gov.uk/nia/2010/12/section/8/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2010/12/schedule/1/paragraph/1)
+
+[^c11534401]: Textual amendment: [1990 NI 8](https://www.legislation.gov.uk/nisi/1990)
+
+[^key-361886812501ce1ba3c1a40fc861cc58]: Textual amendment: S. 1(4)-(7) inserted (20.9.2021) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 20](https://www.legislation.gov.uk/nia/2016/15/section/20), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(d)](https://www.legislation.gov.uk/nisr/2021/253/article/2/d)
+
+[^key-e3df1fe7eafb198b1d9a847fdad448d7]: Textual amendment: S. 1(8)(9) added (20.9.2021) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 21](https://www.legislation.gov.uk/nia/2016/15/section/21), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2021/253](https://www.legislation.gov.uk/nisr/2021/253), [art. 2(e)](https://www.legislation.gov.uk/nisr/2021/253/article/2/e)
+
+[^key-ca48965b372d1e08a707a249df7497d7]: Textual amendment: S. 1A inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [132](https://www.legislation.gov.uk/nisi/2015/2006/article/132); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/c)
+
+[^key-9d1be0ed82bcf5d4682057fa261a1404]: Textual amendment: Word in [s. 2(1)](https://www.legislation.gov.uk/apni/1950/29/section/2/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 27(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/27/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-259752e8ca8c4869cfddae4300fd3a54]: Textual amendment: Word in [s. 2(2)](https://www.legislation.gov.uk/apni/1950/29/section/2/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 27(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/27/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^c11534421]: Textual amendment: [1984 NI 9](https://www.legislation.gov.uk/nisi/1984)
+
+[^key-d3c89373543796a6a73f4eb7ff0103c6]: Textual amendment: Word in [s. 2(3)](https://www.legislation.gov.uk/apni/1950/29/section/2/3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 27(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/27/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-1c0c173dfe1a724c4bb72da2525493aa]: Textual amendment: Word in [s. 2(4)](https://www.legislation.gov.uk/apni/1950/29/section/2/4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 27(c)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/27/c) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-ccdcdf0664b4f729559031d6be525be0]: Textual amendment: Word in [s. 2(6)](https://www.legislation.gov.uk/apni/1950/29/section/2/6) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 27(d)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/27/d) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-ea302d1fc54a0eca63beb09de1bdd5d3]: Textual amendment: Word in [s. 2(7)](https://www.legislation.gov.uk/apni/1950/29/section/2/7) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 27(e)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/27/e) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^c11534431]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)
+
+[^key-5674444cc7e7f3f5ce32dcc8bc68cb37]: Textual amendment: Word in [s. 2(8)](https://www.legislation.gov.uk/apni/1950/29/section/2/8) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 27(e)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/27/e) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-7a6afc97e5b5b51ea00fcf17374e6fe4]: Textual amendment: Word in [s. 3(1)](https://www.legislation.gov.uk/apni/1950/29/section/3/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 28(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/28/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-5e26e9f8487ef69d96b1cfb6e7ee97c0]: Textual amendment: Word in [s. 3(2)](https://www.legislation.gov.uk/apni/1950/29/section/3/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 28(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/28/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-abfcf190cbebd23e1e242ef414a6ab21]: Textual amendment: Word in [s. 3(4)](https://www.legislation.gov.uk/apni/1950/29/section/3/4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 28(c)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/28/c) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-779608b040e16ee9ab6b2793436421dd]: Textual amendment: Word in [s. 4(1)](https://www.legislation.gov.uk/apni/1950/29/section/4/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 29(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/29/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-e865178725397e6b9d612b76aa8c711e]: Textual amendment: Word in [s. 4(2)](https://www.legislation.gov.uk/apni/1950/29/section/4/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 29(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/29/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-f2ec2415e2f10510bc983d22aff986e4]: Textual amendment: Word in [s. 4(3)](https://www.legislation.gov.uk/apni/1950/29/section/4/3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 29(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/29/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-dbb527996905403f1cf9b955d61cf7cc]: Textual amendment: Word in [s. 4(4)](https://www.legislation.gov.uk/apni/1950/29/section/4/4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 29(c)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/29/c) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-05230cc57f45f90ba70c81eba5dfef74]: Textual amendment: Word in [s. 5(1)](https://www.legislation.gov.uk/apni/1950/29/section/5/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 30(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/30/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-0c8dad41df804e5c1c0712e471b52c69]: Textual amendment: Word in [s. 5(2)](https://www.legislation.gov.uk/apni/1950/29/section/5/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 30(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/30/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-445575edb7453aea547010ddfd5a443f]: Textual amendment: Word in [s. 5(3)](https://www.legislation.gov.uk/apni/1950/29/section/5/3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 30(c)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/30/c) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^c11534451]: Textual amendment: [1973 c. 38](https://www.legislation.gov.uk/ukpga/1973/38)
+
+[^c11534461]: Textual amendment: [1992 c. 9](https://www.legislation.gov.uk/ukpga/1992/9)
+
+[^c11534481]: Textual amendment: [1974 c. 4 (NI)](https://www.legislation.gov.uk/mnia/1974/4)
+
+[^key-1dff5e8108636d78eee0833b87790ca3]: Textual amendment: Word in [s. 5(5)](https://www.legislation.gov.uk/apni/1950/29/section/5/5) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 30(d)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/30/d) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-c94f23e59321eda51e3c04c88140b4fa]: Textual amendment: Word in [s. 6](https://www.legislation.gov.uk/apni/1950/29/section/6) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 31](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/31) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-6bf3a1082775c7baaa5180dd9cd28e55]: Textual amendment: Word in [s. 7(1)(a)](https://www.legislation.gov.uk/apni/1950/29/section/7/1/a) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 32(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/32/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-38a03e9196564be6b53e2a76a01a7214]: Textual amendment: Word in [s. 7(1)(b)](https://www.legislation.gov.uk/apni/1950/29/section/7/1/b) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 32(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/32/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-df4c58b9a38a950ffe41efaf455a913c]: Textual amendment: Word in [s. 7(2)](https://www.legislation.gov.uk/apni/1950/29/section/7/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 32(c)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/32/c) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-3207474b63d9d897267fb5ecbe648bcc]: Textual amendment: Word in [s. 8](https://www.legislation.gov.uk/apni/1950/29/section/8) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 33](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/33) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-84c2d44e75147b7ba081051e8d0d48fe]: Textual amendment: Word in [s. 9(1)](https://www.legislation.gov.uk/apni/1950/29/section/9/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 34](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/34) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-6c99b2e5a0f87d9a3b40d82130db2790]: Textual amendment: Word in [s. 9(2)](https://www.legislation.gov.uk/apni/1950/29/section/9/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 34](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/34) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-e675e570aeb1ba219f85d703b63007be]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/apni/1950/29/section/10/1) inserted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 35(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/35/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^key-30436e24755afcebc034a5a9bc683318]: Textual amendment: Word in [s. 10(1)](https://www.legislation.gov.uk/apni/1950/29/section/10/1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 35(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/35/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+
+[^m00001]: Marginal citation: 1909 c.7

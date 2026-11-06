@@ -1,0 +1,37 @@
+---
+title: Error Act 1667
+id: aep/Cha2/19-20/9
+type: EnglandAct
+category: primary
+status: as-enacted
+made_date: null
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/aep/Cha2/19-20/9
+pdf_urls:
+- http://www.legislation.gov.uk/aep/Cha2/19-20/9/enacted/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Error Act 1667
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+Error Act 1667[^c400001]
+
+1667 CHAPTER 9 19 and 20 Cha 2
+
+An Act for proceeding to Judgement on Writs of Error brought in the Exchequer.
+
+## Recital of 16 C.II. c. 2.
+
+*31 E. III. St. 1. c. 12.; Judgment may be given in Writs of Error in presence of the Lord Keeper, notwithstanding the Vacancy of the Lord Treasurer.*
+
+Whereas by a Statute made in the Sixteenth yeare of the Kings most excellent Majestie It was enacted That the not coming of the Lord Chancellor and Lord Treasurer or either of them at the day of the Return of any Writ of Error to be sued forth by vertue of the Statute made in the One and thirtieth yeare of the Reigne of King Edward the Third shall not cause any abatement or discontinuance of any such Writt of Error But if both the Cheife Justices of either Bench or either of them or any one of the said Great Officers the Lord Chancellor or Lord Treasurer shall come to the Exchequer Chamber and there be present at the day of the Return of any such Writt of Error it shall be no abatement or discontinuance but the Suit shall proceed in Law to all intents and purposes as if both the Lord Chancellor and Lord Treasurer had come and beene present at the day and place of the Return of such Writt In which said Statute it is provided That no Judgement shall be given in such Suit or Writ of Error unlesse both the Lord Chancellor and Lord Treasurer be present thereat. And whereas at this present time there is no Lord Treasurer and therefore by reason of the said Proviso no Judgement can be had in any Writ or Writs of Error brought and yet depending or, to be brought to the great charges and p\[re\]judice of his Majesties Subjects and delay of Justice For remedy wherein Be it therefore enacted by the Kings most excellent Majestie by and with the advice and consent of the Lords Spiritual and Temporal and the Commons in Parliament assembled That Judgement shall or may be given in any Suit or Writ or Writs of Error now depending or hereafter to be brought in the Exchequer in the presence of the Lord Keeper of the Great Seal of England notwithstanding the vacancy of a Lord Treasurer in such manner as hath been accustomed when there was present the said two Great Officers The said Proviso in the said Statute or any thing else therein contained to the contrary in any wise notwithstanding.
+
+## Annotations
+
+[^c400001]: Editorial: Abbreviated title derived from *Chronological Table of the Statutes: Covering the Period from 1235 to the End of 1971* (London: Her Majesty's Stationery Office. 1972)

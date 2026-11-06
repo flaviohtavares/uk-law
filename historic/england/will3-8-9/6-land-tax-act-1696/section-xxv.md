@@ -1,0 +1,21 @@
+---
+title: Land Tax Act 1696, section XXV
+act: Land Tax Act 1696
+section: XXV
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/aep/Will3/8-9/6/section/XXV
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Tax Act 1696, section XXV
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## XXV. Where Persons liable for Wages, ready Money, or Debts, are to be taxed.
+
+*For Annuities, &c. payable at the Exchequer; For other yearly Payments not charged upon Land; For Offices; Lodgers; In what Case Rate may be stopped out of Salaries, \&c; Persons having Stock in Trade, Cattle, &c. where to be taxed; Tax paid on Agistment allowed by Owner; Persons out of the the Realm, and Persons having Manors, &c. where to be rated*.
+
+And be it further enacted by the Authority aforesaid That every Person who is or shall be charged with the said general Duty of Foure Pence per Month or with the said Rates or Duties for Wages or for ready Money or Debts shall be taxed in the Places respectively where they shall be resident att the time of the Execution of this Act And that every Person chargeable by this Act in respect of any Annuities Stipends or other yearely Payments payable att the Receipts of His Majesties Exchequer or issuing out of any the Branches of His Majesties Revenues shall and may be taxed and assessed in the respective Places where such Annuities Stipends Pensions or other yearely Payments are or shall be payable And that all other Pensions Stipends Annuities or other yearely Payments (not charged upon Lands) shall be charged and assessed in the Places where the Persons intitituled to receive the same doe reside And that every Person rated or assessed for his Office Imployment or Profession shall be rated and pay for his said Office Imployment or Profession in the County City or Place where the same shall be exercised And all Persons not being Housholders nor having a certaine Place of Residence shall be taxed att the Place where they shall be resident att the time of the Execution of this Act And that in all Cases where any Pensions Annuities Stipends or other Annual Payments or the Fees Salaries Wages or other Allowances or Profits shall be payable att the Receipt of His Majesties Exchequer or by the Cofferer of His Majesties Household or out of any other Publick Office or by any His Majesties Receivers or Paymasters the Tax Duty or Payment which in pursuance of this Act shall be charged for or in respect of such Pensions Annuities Stipends or other Annual Payments or for in respect of such Fees Salaries Wages or other Allowances or Profits shall and may in case of Non-payment thereof be detained and stopt out of the same and be applied to the Satisfaction of the Rates and Duties not otherwise paid as aforesaid And that where any Person or Persons Bodies Politick or Corporate shall have any Goods Wares or Merchandizes or other Stock in Trade or any Cattell or other Quick Stock upon Land it shall and may be lawfull to rate and assesse such Persons Bodies Politick or Corporate for the same in such County or Place where such Stock shall be att the time of the Execuc\[i\]on of this Act and all Persons having the Charge Custody Agistment or Keeping of any such Stock for the Use and Account of any other Person shall be taxed and pay for the same according to the true Intent & Meaning of this Act and shall be allowed such Tax or Payment upon his Accompts or shall be satisfied for the same out of such Goods or other things or by the Owner thereof And if any Person who ought to be taxed by virtue of this Act with any the Rates or Duties therein contained shall att the time of Assessment be out of the Realme such Person shall be rated therefore in such County City or Place where hee was last abiding in this Realme And every Person who shall be rated and assessed as aforesaid for or in respect of any Manors Messuages Lands Tenements or Hereditaments shall be rated and assessed in the Place where such Messuages Manors Lands Tenements and Premisses respectively doe lie and not elsewhere.

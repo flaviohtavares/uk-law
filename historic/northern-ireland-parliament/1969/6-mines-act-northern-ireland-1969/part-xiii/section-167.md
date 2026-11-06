@@ -1,0 +1,23 @@
+---
+title: Mines Act (Northern Ireland) 1969, section 167
+act: Mines Act (Northern Ireland) 1969
+section: '167'
+status: revised
+text_date: '2018-06-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/apni/1969/6/section/167
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Mines Act (Northern Ireland) 1969, section 167
+
+> Text as at 2018-06-01.
+>
+> Extent: Northern Ireland.
+
+## 167. Saving for common law rights of workmen, &c.
+
+*Extent: N.I.*
+
+No provisions of this Act, or any order made thereunder or of regulations shall be construed as derogating from any rule of law with respect to the duties owed by employers to their employees (including, in particular, but without prejudice to the generality of the foregoing words, the duty to provide a safe system of working), and section 1 shall not be construed as derogating from any obligation imposed by or by virtue of any other provision of this Act upon the owner of a mine.

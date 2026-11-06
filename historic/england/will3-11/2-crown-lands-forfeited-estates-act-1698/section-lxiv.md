@@ -1,0 +1,21 @@
+---
+title: Crown Lands (Forfeited Estates) Act 1698, section LXIV
+act: Crown Lands (Forfeited Estates) Act 1698
+section: LXIV
+status: as-enacted
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/aep/Will3/11/2/section/LXIV
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crown Lands (Forfeited Estates) Act 1698, section LXIV
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+## LXIV. Personal Estates (except desperate Debts, Stock on Land, Household Goods, and Debts due from His Majesty) to pay 2s. in the Pound.
+
+*Employments of Profit (except Military Officers of the Land Forces or Navy), 2s. in the Pound; Pensions and Annuities out of the Exchequer, &c. not issuing out of or charged upon Lands, &c., and not specially exempted by Act of Parliament, 2s. in the Pound*.
+
+And be it enacted by the Authority aforesaid, That towards the raiseing of the said severall and respective Summes of Money hereby charged upon the respective Counties, Cities, Boroughs, Townes and other Places as aforesaid, all and every Person and Persons, Bodies Politick and Corporate, Guilds and Fraternities within the same respectively, haveing any Estate in ready Money, or in any Debts whatsoever, owing to them within this Realme, or without, or haveing any Estate in Goods, Wares, Merchandizes, or other Chattells, or Personall Estate whatsoever within this Realme or without, belonging to, or in Trust for them (except, and out of the Premisses deducted, such Summes as he or they doe bona fide owe and such Debts owing to them as shall be adjudged desperate by the Commissioners appointed by this Act; and alsoe except the Stock upon Land, and such Goods as are used for Household stuffe; and alsoe except such Loans or Debts as are or shall be owing from His Majesty to any Person or Persons) shall yeild and pay unto His Majesty, the Summe of Two Shillings in the Pound, according to the true yearely Value thereof, for one Yeare, that is to say; For every hundred Pounds of such ready Money and Debts and for every Hundred Pounds worth of such Goods, Wares, Merchandizes, or other Chattells, or Personall Estate, the Summe of Twelve Shillings, and soe after that Rate for every greater or lesser Summe or Quantity, to be assessed levied & collected in manner hereafter mentioned; And that all and every Person and Persons, and all and every Commissioner or Commissioners, haveing, useing or exerciseing any Publick Office or Imployment of Profitt (such Military Officers who are or shall be in Muster by the Muster Master Generall of His Majesties Guards and Garrisons, or in pay in His Majesties Guards or Garrisons, or Navy, in respect of such Offices only excepted) and all and every their Agents, Clerks, Secondaries, Substitutes and other inferior Ministers whatsoever, shall yield and pay unto His Majesty the Summe of Two Shillings for every Twenty Shillings which he or they doe receive in One Yeare, by vertue of any Salaries, Gratuities, Bounty-Money, Reward, Fees or Profitts to him or them accrewing for or by reason or occasion of their severall Offices or Imployments; And that all and every Person and Persons Guilds, Fraternities, Bodies Politick or Corporate, haveing any Pension, Annuity, Stipend or other yearely Payment either out of the Receipt of His Majesties Exchequer, or out of any Branch of His Majesties Revenues, or payable or secured to be paid by any Person or Persons whatsoever (not being issueing out of any Lands, Tenements or Hereditaments charged upon the same, touching which other Directions are given by this Act, and not being Annuities or yearely Payments, which by any Act or Acts of Parliament made or to be made, are or shall be specially exempted from the Payment of Taxes or Aids) shall yield and pay to His Majesty, the Summe of Two Shillings for every Twenty Shillings by the Yeare, of every such Pension, Annuity, Stipend or yearely Payment respectively, and after that Rate for one whole Yeare; the said severall Rates and Summes of Money hereby granted to be assessed, imposed, levied and collected, in such Manner as hereafter is mentioned.

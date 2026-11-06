@@ -1,0 +1,34 @@
+---
+title: Transport Act (Northern Ireland) 1967, section 69
+act: Transport Act (Northern Ireland) 1967
+section: '69'
+status: revised
+text_date: '2025-04-01'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/apni/1967/37/section/69
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Transport Act (Northern Ireland) 1967, section 69
+
+> Text as at 2025-04-01.
+>
+> Extent: Northern Ireland.
+
+## 69. Transfer or letting of property of the Holding Company to the railway undertaking.
+
+*Extent: N.I.*
+
+(1) The Holding Company may, and if so required by the Minister shall,—
+
+- (a) transfer to the railway undertaking without requiring any payment therefor any vehicles, rolling stock, plant, machinery, fixtures, fittings or other equipment vested in the Holding Company by virtue of section 68 which the railway undertaking may reasonably require to operate the railway system as it exists at the date of the transfer of the equipment;
+- (b) let to the railway undertaking, at such rent and on such terms and conditions as the Holding Company and the railway undertaking may agree, any immovable property vested in the Holding Company by virtue of section 67B or[^c17019241] section 68 which the railway undertaking may reasonably require to operate the railway system as it exists at the date of the letting.
+
+(2) In determining the amount of any rent to be paid in respect of the letting under subsection (1)( *b*) of any property which comprises or includes railway track or associated signalling and communication equipment, that track and equipment shall be deemed not to have any letting value.
+
+(3) Any dispute arising between the Holding Company and the railway undertaking as to the property to be transferred or let under subsection (1) or as to the rent, terms or conditions at or upon which any property is to be let under subsection (1)( *b*), shall be referred to and determined by the Minister or, if he so directs, by the Lands Tribunal.
+
+## Annotations
+
+[^c17019241]: Textual amendment: [1984 NI 15](https://www.legislation.gov.uk/1984/ni15)

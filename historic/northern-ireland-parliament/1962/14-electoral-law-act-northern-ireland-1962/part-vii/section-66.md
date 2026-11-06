@@ -1,0 +1,34 @@
+---
+title: Electoral Law Act (Northern Ireland) 1962, section 66
+act: Electoral Law Act (Northern Ireland) 1962
+section: '66'
+status: revised
+text_date: '2024-05-07'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/apni/1962/14/section/66
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Electoral Law Act (Northern Ireland) 1962, section 66
+
+> Text as at 2024-05-07.
+>
+> Extent: Northern Ireland.
+
+## 66. Voting by post.
+
+*Extent: N.I.*
+
+(1) Subject to sub-section (2) a parliamentary elector who satisfies the electoral officer that he will be unable to vote at any election by reason—
+
+- (a) of absence from Northern Ireland; or
+- (b) of illness or other physical incapacity; or
+- (c) of his being a person to whom paragraph ( *a*) of sub-section (3) or sub-section (5) of section five applies;
+
+may vote by post in accordance with the Fourth Schedule.
+
+(2) An elector shall not vote by post at any election unless—
+
+- (a) on or after the date on which the election is initiated and not later than the hour of five o'clock in the afternoon of the second day after nomination day the electoral officer receives an application for a postal ballot paper either from that elector or on his behalf from a person registered as a parliamentary elector in a constituency in Northern Ireland who is the spouse, parent, grandparent, brother, sister, child or grandchild of that elector; and
+- (b) that application is accompanied by a postal address to which a postal ballot paper may be sent which address shall as respects an elector absent from Northern Ireland be outside Northern Ireland but within the postal voting area as defined in this Act.

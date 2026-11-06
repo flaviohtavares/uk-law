@@ -1,0 +1,55 @@
+---
+title: Local Government Act (Northern Ireland) 1972, section 131
+act: Local Government Act (Northern Ireland) 1972
+section: '131'
+status: revised-with-pending-changes
+text_date: '2024-05-07'
+extent: N.I.
+source_url: https://www.legislation.gov.uk/apni/1972/9/section/131
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Local Government Act (Northern Ireland) 1972, section 131
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/apni/1972/9
+>
+> Extent: Northern Ireland.
+
+## 131. Abolition of existing local government areas and dissolution of existing local authorities, with certain exceptions.
+
+*Extent: N.I.*
+
+(1) On \[[^c16964621] 1st October 1973\]—
+
+- (a) every county and every county borough shall cease to be an administrative area for local government purposes;
+- (b) every borough (other than a county borough), every urban district and every rural district shall be abolished;
+- (c) every united district within the meaning of section 12 of the Public Health (Ireland) Act 1878 [^m00018] or section 7 of the Water Supplies and Sewerage Act (Northern Ireland) 1945 [^m00019] shall be abolished.
+
+(2) Without prejudice to any provision of an order made under section 134(2)( *h*), on \[[^c16964621] 1st October 1973\]—
+
+- (a) the council of every county, county or other borough, urban district and rural district;
+- (b) the corporation of every borough other than a county borough or a borough to whose corporation section 132(3)( *b*) applies;
+- (c) the joint board constituted for every united district such as is mentioned in subsection (1)( *c*); and
+- (d) the Belfast City and District Water Commissioners;
+
+shall be dissolved.
+
+(3) A new town commission established under the New Towns Acts (Northern Ireland) 1965 to 1968 shall—
+
+- (a) if immediately before \[[^c16964621] 1st October 1973\] the commission were exercising municipal functions, cease to exercise those functions on that day;
+- (b) cease to exercise development functions, and be dissolved, on such day or days as the Ministry may by order appoint;
+
+and paragraph ( *a*), and any order under paragraph ( *b*), shall have effect notwithstanding section 33 of the New Towns Act (Northern Ireland) 1965 or any other provision of the said Acts of 1965 [^m00020] to 1968.
+
+(4) Any council, corporation or joint board to which subsection (2) applies, the corporation of any county borough or of any borough to whose corporation section 132(3)( *b*) applies, the Belfast City and District Water Commissioners, and any new town commission, is in this Part referred to as an “existing local authority” ; and in this Part “municipal functions” and “development functions” in relation to a new town commission have the same meanings as in section 7 of the New Towns Act (Northern Ireland) 1965.
+
+## Annotations
+
+[^c16964621]: Textual amendment: [1972 NI 21](https://www.legislation.gov.uk/1972/ni21)
+
+[^m00018]: Marginal citation: 1878 c.52
+
+[^m00019]: Marginal citation: 1945 c.17
+
+[^m00020]: Marginal citation: 1965 c.13
