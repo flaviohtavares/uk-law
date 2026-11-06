@@ -1,0 +1,182 @@
+---
+title: The Storage of Carbon Dioxide (Licensing etc.) (EU Exit) (Scotland) (Amendment) Regulations 2021
+id: ssi/2021/354
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-10-05'
+text_date: '2021-12-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2021/354
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/354/pdfs/ssipn_20210354_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/354/pdfs/ssi_20210354_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/354/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Storage of Carbon Dioxide (Licensing etc.) (EU Exit) (Scotland) (Amendment) Regulations 2021
+
+> Text as at 2021-12-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2021 No. 354
+
+Exiting The European Union
+
+Environmental Protection
+
+The Storage of Carbon Dioxide (Licensing etc.) (EU Exit) (Scotland) (Amendment) Regulations 2021
+
+Made
+
+5th October 2021
+
+Laid before the Scottish Parliament
+
+7th October 2021
+
+Coming into force
+
+1st December 2021
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act 2018[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement[^key-672fe82210d9d15c2787668a87090b64]
+
+These Regulations may be cited as the Storage of Carbon Dioxide (Licensing etc.) (EU Exit) (Scotland) (Amendment) Regulations 2021 and come into force on 1 December 2021.
+
+## 2. Amendment of the Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^key-9fe7ab14a62f76f0cea7b36bf2eb7fe2]
+
+The Storage of Carbon Dioxide (Licensing etc.) (Scotland) Regulations 2011[^f00002] are amended in accordance with regulations 3 to 9.
+
+**3.**[^key-95c64de539e2ccdcbc7ed70be5445471] In regulation 1 (citation, commencement and interpretation)—
+
+- (a) in paragraph (2)—
+  - (i) at the end of sub-paragraph (a) omit “and”, and
+  - (ii) omit sub-paragraph (b),
+- (b) in paragraph (3)—
+  - (i) after the definition of “the authority” insert—
+
+    > - “climate change legislation” means—
+    >   - (a) legislation which before IP completion day implemented the ETS Directive, or
+    >   - (b) legislation made under Part 3 of the Climate Change Act 2008[^f00003] on or after IP completion day, which imposes obligations similar to obligations which existed immediately before IP completion day under legislation which implemented the ETS Directive,
+
+    ,
+  - (ii) in the definition of “the Directive”, at the end insert “, as it had effect immediately before IP completion day”,
+  - (iii) after the definition of “the Directive” insert—
+
+    > - “emissions” (except in the definitions of “the ETS Directive” and “Monitoring Regulation”) has the meaning given by section 17 of the Climate Change (Scotland) Act 2009[^f00004],
+
+    ,
+  - (iv) in the definition of “the Environmental Liability Directive”, at the end insert “, as it had effect immediately before IP completion day”,
+  - (v) in the definition of “the ETS Directive”, at the end insert “, as it had effect immediately before IP completion day”,
+  - (vi) after the definition of “general exploration licence” insert—
+
+    > - “greenhouse gas” (except in the definitions of “the ETS Directive” and “Monitoring Regulation”) has the meaning given by section 10 of the Climate Change (Scotland) Act 2009,
+
+    , and
+  - (vii) after the definition of “monitoring plan” insert—
+
+    > - “Monitoring Regulation” means [Commission Regulation (EU) No 601/2012](https://www.legislation.gov.uk/european/regulation/2012/0601) on the monitoring and reporting of greenhouse gas emissions pursuant to [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council,
+
+    , and
+- (c) after paragraph (4) insert—
+
+  > (5) In these Regulations, for the purposes of any reference to Annex II to the Directive, Article 13(2) of the Directive shall be read as if for the words “guidelines established pursuant to Article 14 and Article 23(2) of [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087)” there were substituted “Monitoring Regulation”.
+
+  .
+
+**4.**[^key-c11c6ef85d251c0c42dd874486a4e6a0] In regulation 6 (applications for a storage permit)—
+
+- (a) in paragraph (3)—
+  - (i) in sub-paragraph (e), for the words after “under” substitute “the Monitoring Regulation”,
+  - (ii) in sub-paragraph (h), for “implementing” substitute “which before IP completion day implemented”, and
+- (b) omit paragraph (4).
+
+**5.**[^key-e1036d8b040870844a552b12f2ec0a5e] In regulation 7 (grant of storage permits)—
+
+- (a) in paragraph (1)(b)—
+  - (i) for “territories” substitute “territory”,
+  - (ii) for “member States” substitute “United Kingdom or another state which is party to an agreement with the United Kingdom concerning cross-boundary cooperation in relation to the complex”,
+- (b) in paragraph (2), for “member State” substitute “state”, and
+- (c) omit paragraph (7).
+
+**6.**[^key-5527413e3b3a241c9f3fd3605565a06f] In regulation 11(4) (consequences of revocation of a storage permit)—
+
+- (a) for sub-paragraph (d) substitute—
+
+  > - (d) in relation to the offset of emissions which are leakage under climate change legislation (if any), and
+
+  , and
+- (b) in sub-paragraph (e), after “under” insert “legislation which before IP completion day implemented”.
+
+**7.**[^key-c81a9a3a1c2c88b8881e9b0b7353b423] In regulation 13(5) (post-closure obligations)—
+
+- (a) in sub-paragraph (a), for “implementing” substitute “which before IP completion day implemented”, and
+- (b) for sub-paragraph (b) substitute—
+
+  > - (b) relating to the offset of emissions which are leakage under climate change legislation (if any).
+
+  .
+
+**8.**[^key-7b0d32210240acfc910ce62ce18d5394][^key-b772650825f2813d4c2af312b49b6d33] In paragraph 5(2) (interpretation) of schedule 1 (provisions to be included in a licence), after “Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013)” insert “as that Directive had effect immediately before IP completion day”.
+
+**9.**[^key-28bc6272a37da729ea45d1717ccba38e] In schedule 2 (provisions to be included in a storage permit)—
+
+- (a) in paragraph 3(7) (reporting and notification of leakages and significant irregularities)—
+  - (i) after “to” insert “emissions from”, and
+  - (ii) for “legislation implementing the ETS Directive” substitute “climate change legislation”, and
+- (b) in paragraph 7(5)(c) (financial security), for “legislation implementing the ETS Directive” substitute “climate change legislation”.
+
+MICHAEL MATHESON
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16). These Regulations make amendments to legislation concerning the licensing regime for the geological storage of carbon dioxide. The amendments address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(d) and (g) of that Act) arising from the withdrawal of the United Kingdom from the European Union.
+
+No Business and Regulatory Impact Assessment has been prepared in relation to these Regulations, as no impact upon business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), to which there are amendments not relevant to these Regulations.
+
+[^key-672fe82210d9d15c2787668a87090b64]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+
+[^key-9fe7ab14a62f76f0cea7b36bf2eb7fe2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/354/regulation/2) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+
+[^f00002]: Footnote: [S.S.I. 2011/24](https://www.legislation.gov.uk/ssi/2011/24), amended by [S.S.I. 2011/457](https://www.legislation.gov.uk/ssi/2011/457) and [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912).
+
+[^key-95c64de539e2ccdcbc7ed70be5445471]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/354/regulation/3) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+
+[^f00003]: Footnote: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27).
+
+[^f00004]: Footnote: [2009 asp 12](https://www.legislation.gov.uk/asp/2009/12), to which there are amendments not relevant to these Regulations.
+
+[^key-c11c6ef85d251c0c42dd874486a4e6a0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/354/regulation/4) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+
+[^key-e1036d8b040870844a552b12f2ec0a5e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/354/regulation/5) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+
+[^key-5527413e3b3a241c9f3fd3605565a06f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/354/regulation/6) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+
+[^key-c81a9a3a1c2c88b8881e9b0b7353b423]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/354/regulation/7) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+
+[^key-7b0d32210240acfc910ce62ce18d5394]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/354/regulation/8) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)
+
+[^key-b772650825f2813d4c2af312b49b6d33]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/354/regulation/8) substituted (30.11.2021) by [The Storage of Carbon Dioxide (Licensing etc.) (EU Exit) (Scotland) (Amendment) Amendment Regulations 2021 (S.S.I. 2021/383)](https://www.legislation.gov.uk/ssi/2021/383), [regs. 1](https://www.legislation.gov.uk/ssi/2021/383/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/383/regulation/2/2)
+
+[^key-28bc6272a37da729ea45d1717ccba38e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/354/regulation/9) in force at 1.12.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/354/regulation/1)

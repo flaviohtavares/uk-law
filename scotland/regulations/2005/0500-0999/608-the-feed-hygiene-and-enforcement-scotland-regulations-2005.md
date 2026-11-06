@@ -1,0 +1,1084 @@
+---
+title: The Feed (Hygiene and Enforcement) (Scotland) Regulations 2005
+id: ssi/2005/608
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-11-28'
+text_date: '2021-04-01'
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2005/608
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2005/608/pdfs/ssien_20050608_en.pdf
+- http://www.legislation.gov.uk/ssi/2005/608/pdfs/ssi_20050608_en.pdf
+- http://www.legislation.gov.uk/ssi/2005/608/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Feed (Hygiene and Enforcement) (Scotland) Regulations 2005
+
+> Text as at 2021-04-01.
+
+2005 No. 608
+
+AGRICULTURE
+
+The Feed (Hygiene and Enforcement) (Scotland) Regulations 2005
+
+Made
+
+28th November 2005
+
+Laid before the Scottish Parliament
+
+30th November 2005
+
+Coming into force
+
+1st January 2006
+
+The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c1253340], and of all other powers enabling them in that behalf, after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c1253341], hereby make the following Regulations:[^key-32a4fe57bc1df607c57f502fb5e036ec]
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Feed (Hygiene and Enforcement) (Scotland) Regulations 2005 and come into force on 1st January 2006.
+
+(2) These Regulations extend to Scotland only.
+
+### 2. Interpretation
+
+(1) In these Regulations–
+
+- “**the Act**” means the Agriculture Act 1970 [^c1253342];
+- [^key-4f0fdba9de2c4b70ba44c3d7721b8a63]...
+- “agricultural analyst” means an agricultural analyst appointed under section 67A(2)(a) of the Act, and includes a deputy analyst;[^key-963f3ebe1f2e4f987282e250979b7c85]
+- “[^key-abb607156cad40acc379a7adf55f7309]**the Animal Feed Regulations**” means the Animal Feed (Scotland) Regulations 2010;
+- “**authorised officer**”, in relation to an enforcement authority, means any person appointed by that authority under regulation 16(3)[^key-214880674e4be4ed91ad35f1454b4476];
+- “**enforcement authority**” means the body identified as having the duty to enforce under regulation 16(1);
+- “**excluded additive**” means any of the following feed additives–
+  - (a) coccidiostats;
+  - (b) histomonostats; or
+  - (c) a zootechnical additive falling within category (d) of Article 6(1) of Regulation 1831/2003 except an additive that is either–[^key-189392484af8c5391fd1ca1259e14054]
+    - (i) a digestibility enhancer;
+    - (ii) a gut flora stabiliser; or
+    - (iii) a substance incorporated with the intention of favourably affecting the environment
+- [^key-7fe34d316c0122248f13bb033e5c114c]...
+- [^key-f3eb17b7b952fa81ba5a7881856692a8]...
+- “**premises**” includes any establishment, any place, vehicle, stall or moveable structure and any ship or aircraft;
+- “**premixture**” has the meaning given by Article 2(2)(e) of Regulation 1831/2003 excluding any mixture consisting solely of a combination of more than one excluded additive;
+- “prescribed manner” means the manner prescribed by Regulation[^key-488f7b5822001337429751a05bd45919] [(EC) No. 152/2009](https://www.legislation.gov.uk/european/regulation/2009/0152) of the European Parliament and of the Council laying down the methods of sampling and analysis for the official control of feed or otherwise in accordance with Article 34 of Regulation 2017/625[^key-46bf93438df2584dca751ca8f63a2c3d];
+- “**Regulation 178/2002**” means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety as last amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c1253346];
+- “**Regulation 1831/2003**” means Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition [^c1253347];
+- [^key-0347bb6ab5fd6d5341f4adfcbf91ee69]...
+- “Regulation 183/2005” means Regulation[^key-63791e6a55224beacb02474b60a5442e] [(EC) No 183/2005](https://www.legislation.gov.uk/european/regulation/2005/0183) of the European Parliament and of the Council laying down requirements for feed hygiene;
+- “[^key-87dac2be011ba6f33fa4c01a6b968996]**Regulation 767/2009**” means Regulation [(EC) No. 767/2009](https://www.legislation.gov.uk/european/regulation/2009/0767) of the European Parliament and of the Council on the placing on the market and use of feed, amending European Parliament and Council Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) and repealing Council Directive [79/373/EEC](https://www.legislation.gov.uk/european/directive/1979/0373), Commission Directive [80/511/EEC](https://www.legislation.gov.uk/european/directive/1980/0511), Council Directives [82/471/EEC](https://www.legislation.gov.uk/european/directive/1982/0471), [83/228/EEC](https://www.legislation.gov.uk/european/directive/1983/0228), [93/74/EEC](https://www.legislation.gov.uk/european/directive/1993/0074), [93/113/EC](https://www.legislation.gov.uk/european/directive/1993/0113) and [96/25/EC](https://www.legislation.gov.uk/european/directive/1996/0025) and Commission Decision [2004/217/EC](https://www.legislation.gov.uk/european/decision/2004/0217);
+- “Regulation 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^key-ee59bb79019fc39a39ccd10fd558c4db] [(EC) No 999/2001](https://www.legislation.gov.uk/european/regulation/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/european/regulation/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/european/directive/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/european/directive/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/european/directive/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/european/directive/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/european/directive/1989/0608), [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662), [90/425/EEC](https://www.legislation.gov.uk/european/directive/1990/0425), [91/496/EEC](https://www.legislation.gov.uk/european/directive/1991/0496), [96/23/EC](https://www.legislation.gov.uk/european/directive/1996/0023), [96/93/EC](https://www.legislation.gov.uk/european/directive/1996/0093) and [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/european/decision/1992/0438),
+- “Regulation (EU) 2019/1793” means Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council and repealing Commission Regulations [(EC) No 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669), (EU) No 884/2014, (EU) 2015/175, (EU) 2017/186 and (EU) 2018/1660,
+- [^key-0012170c743a0d32f2ca2ad0112ce771]...
+- “**specified feed law**” means the provisions listed in Schedule 1 but does not include those provisions in so far as they may apply to excluded additives or to premixtures consisting solely of a combination of excluded additives.
+
+(2) Subject to paragraph (3), any other expression used both in these Regulations and in Regulation 178/2002, [^key-0e99ac2132400402d89a14113f31c894]... Regulation 183/2005 or Regulation 2017/625[^key-3ab4a951dcc4b814b75fcb367212f7ae] has the same meaning as it bears in Regulation 178/2002, [^key-0e99ac2132400402d89a14113f31c894]... Regulation 183/2005 or Regulation 2017/625 as the case may be.
+
+(3) In these Regulations “feed” or “**feeding stuff**” does not include any excluded additive or any premixtures consisting solely of a combination of more than one excluded additive.
+
+(4) Where, apart from this paragraph, any period of less than 7 days which is specified in these Regulations would include any day which is–
+
+- (a) a Saturday, a Sunday, Christmas Day or Good Friday; or
+- (b) a day which is a bank holiday in Scotland under the Banking and Financial Dealings Act 1971 [^c1253350],
+
+that day shall be excluded from the period.
+
+(5)[^key-e991c203dc65a645f72b45ec5c58978a] Any reference in these Regulations to an Annex to Regulation 183/2005 is a reference to that Annex as amended from time to time.
+
+## PART 2 — Enforcement of Regulation 183/2005
+
+### 3. Scope and interpretation of Part 2
+
+(1) This Part does not apply to the activities mentioned in Article 2(2) of Regulation 183/2005.
+
+(2) Any reference in this Part to a numbered Article is a reference to the Article so numbered in Regulation 183/2005.
+
+### 4. Competent authority[^key-815d537990dfca9c2f9fd7f9bbfbe388]
+
+The competent authority for the purposes of Regulation 183/2005 is Food Standards Scotland.
+
+### 5. Offences and penalties
+
+(1) Any person who contravenes or fails to comply with any of the provisions of Regulation 183/2005 set out in paragraph (2) is guilty of an offence and liable–
+
+- (a) in the case of paragraph (2)(d), (e), (g), (h), (i) and (j)–
+  - (i) on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding the statutory maximum, or both, or
+  - (ii) on conviction on indictment to a term of imprisonment not exceeding 2 years or to a fine, or both;
+- (b) in the case of paragraph (2)(a), (b), (c), and (f), on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding level 5 on the standard scale, or both.
+
+(2) The provisions referred to in paragraph (1) are–
+
+- (a) Article 5(1), (2), (3), (5) and (6) (specific obligations);
+- (b) Article 6(1), as read with (2) and (3) (HACCP system);
+- (c) Article 7(1) (documents concerning the HACCP system);
+- (d) Article 9(2) (official controls, notification and registration);
+- (e) Article 11 (prohibition on operating without approval or registration);
+- (f) Article 17(2) (exemption from on–site visits);
+- (g) Article 18(3) (declaration of compliance);
+- (h) Article 23(1) (conditions relating to imports);
+- (i) Article 24 (interim measures regarding third country establishments);
+- (j) Article 25 (feed produced for export to third countries).
+
+### 6. Form of notification with a view to registration
+
+Any person who is required under Article 9 (officials controls, notification and registration) to notify the competent authority of the information mentioned in paragraph (2)(a) or (b) of that Article must ensure that any such notification–
+
+- (a) is in writing and signed by that person or on that person's behalf;
+- (b) contains that person's name and, if different, business name;
+- (c) contains that person's address and, if different, the address of any establishment to which the notification relates;
+- (d) identifies the feed business activities in such form as may be required by the enforcement authority; and
+- (e) is properly addressed and sent to the enforcement authority in whose area the establishment is situated.
+
+### 7. Form of declaration in relation to transitional measures[^key-4f73ad55b8fbb50ac70f0b683ffdb816]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Form of application for approval
+
+Where approval of a feed business establishment is required pursuant to Article 10, an application to the competent authority [^key-3eaa30b5606734746668b58a96488802]... must be made which–
+
+- (a) is in writing and signed by or on behalf of the applicant;
+- (b) contains the name or business name and the address of the applicant and, if different, the address of the establishment;
+- (c) identifies which of the feed business activities specified in Article 10(1) or, as may be specified pursuant to Article 10(3), the applicant is exercising or intends to exercise and for which approval is sought;
+- (d) in the case of any person to whom Article 17(2) (exemption from on-site visits) applies, includes a statement to the effect that the establishment is one to which Article 17(1) applies and a declaration of compliance as required by paragraph (2) of that Article; and
+- (e) is properly addressed and sent to the competent authority [^key-e55f54fdea5cb9fd4e826722cbc5ce53]....
+
+### 9. Procedure for suspension of registration or approval
+
+(1) Where a competent authority proposes to take action pursuant to Article 14 (temporary suspension of registration or approval) it must serve on the feed business operator a notice in accordance with paragraph (2).
+
+(2)[^key-27a10b9ab3083c30f6180baf190b6097] The notice served by the enforcement authority under paragraph (1) must–
+
+- (a) specify the date from which the notice takes effect, (“**the operative date**”);
+- (b) state that it intends to suspend, on the operative date, approval or as the case may be registration pursuant to Article 14 and these Regulations;
+- (c) specify the feed business activity or activities to which the notice relates;
+- (d) identify the remedial action required;
+- (e) state that unless remedial action has been carried out to the satisfaction of the enforcement authority within 1 year from the operative date, the registration or approval will be revoked without further notice on the first anniversary of the operative date; and
+- (f) provide information on the time limits for appealing under regulation 13.
+
+### 10. Procedure for lifting of suspension
+
+(1) Where the competent authority which has served notice on a feed business operator under regulation 9 is satisfied that–
+
+- (a) the remedial action required under paragraph (2)(d) of that regulation has been carried out; and
+- (b) the period for action specified in paragraph 2(e) of that regulation has not expired,
+
+it shall immediately lift the suspension and notify the feed business operator to that effect.
+
+(2) On an application by a feed business operator, the competent authority shall determine whether or not it is satisfied as specified in paragraph (1) within 28 days of such an application being received and shall notify the feed business operator of that determination.
+
+### 11. Procedure for the revocation of registration or approval
+
+(1) Where a competent authority proposes to take action in the circumstances set out in Article 15 (revocation of registration or approval) it must serve on the feed business operator a notice in accordance with paragraph (2).
+
+(2) The notice served by the enforcement authority under paragraph (1) must–
+
+- (a) specify the date from which the notice takes effect;
+- (b) state that registration or approval as the case may be has been revoked;
+- (c) specify the feed business activity or activities to which the revocation relates;
+- (d) identify which of the conditions of revocation set out in Article 15 is applicable;
+- (e) provide information on the time limits for appealing under regulation 13.
+
+(3)[^key-0342bd2c362e55ace84b9c90da8f54a5] Where the competent authority has revoked a registration or approval pursuant to this regulation it must make the appropriate amendments to its own register of feed business establishments to ensure compliance with Article 19(3) (updating of national lists).
+
+### 12. Form of application for amendments to approval or registration
+
+(1) Where a feed business operator wishes to apply for any amendment to an approval or registration pursuant to Article 16 (amendments to registration or approval of an establishment), an application to the competent authority [^key-59c1dbd1ceda85e07651b339f8679e77]... must be made which–
+
+- (a) is signed by or on behalf of the applicant;
+- (b) contains the name or business name and address of the applicant and, if different, the address of the establishment;
+- (c) identifies the activities to which the application for amendments to approval or registration relates;
+- (d) is properly addressed to that authority.
+
+### 13. Right of appeal in connection with registration or approval
+
+(1) Any person who is aggrieved by the decision of a competent authority taken in respect of–
+
+- (a) the approval of an establishment under Article 13;
+- (b) suspension of the registration or approval of an establishment under Article 14;
+- (c) suspension in accordance with regulation 10(2);
+- (d) revocation of the registration or approval of an establishment under Article 15; or
+- (e) amendment of the approval of an establishment under Article 16,
+
+may appeal to the sheriff.
+
+(2) An appeal to the sheriff under paragraph (1) shall be by way of summary application.
+
+(3) The period within which an appeal under paragraph (1) may be brought shall be 1 month from the date on which notice of the decision was served on the person desiring to appeal.
+
+(4) Where on an appeal under paragraph (1) the sheriff determines that the decision of the competent authority is incorrect, the authority shall give effect to that determination.
+
+(5) Where a registration or approval is suspended or revoked, the feed business operator who, immediately before such suspension or revocation, had been using the establishment concerned may continue to use it, subject to any conditions imposed by the competent authority for the protection of public health, unless–
+
+- (a) the time limit for appealing against the decision to suspend or revoke the registration or approval has expired without an appeal having been lodged; or
+- (b) where an appeal against that decision has been lodged, the appeal has been finally disposed of or is withdrawn.
+
+(6) Nothing in paragraph (5) shall permit an establishment to be used as a feed business if a feed business prohibition order, a feed business emergency prohibition notice or a feed business emergency prohibition order (under regulations 21 or 22 as the case may be) has been imposed in relation to the establishment.
+
+### 14. Fees for approvals or amendments to approvals
+
+(1) Subject to paragraph (3), a feed business operator who applies to a competent authority under regulation 8 for approval or under regulation 12 for amendment to an approval must–
+
+- (a) pay the relevant fee to the competent authority when the application referred to in paragraph (1) is submitted; and
+- (b) reimburse the competent authority on demand the cost of any laboratory analysis incurred by it in connection with the application.
+
+(2) In relation to any application submitted to it under regulation 8 or 12, the competent authority need not–
+
+- (a) take any steps to approve an establishment in respect of one or more of its feed business activities until the relevant fee has been paid to it; or
+- (b) approve an establishment in respect of one or more of its feed business activities until, in accordance with paragraph (1)(b), it has been reimbursed the cost of any laboratory analysis incurred by it in connection with the application.
+
+(3) Where a feed business operator makes an application under regulation 8 or 12 seeking approval or as the case may be the amendment of approval of an establishment as one on which more than one feed business activity requiring approval may be exercised, the feed business operator is liable to pay a single relevant fee, which fee shall be the highest one otherwise payable.
+
+(4) In this regulation “**relevant fee**” means the fee specified in Schedule 2.
+
+## PART 3 — Enforcement of Regulation 178/2002
+
+### 15. Offences, penalties and enforcement
+
+(1) Any person who contravenes or fails to comply with any of the provisions of Regulation 178/2002 set out in paragraph (2) is guilty of an offence and liable–
+
+- (a) in the case of paragraph (2)(a) and (b)–
+  - (i) on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding the statutory maximum, or both; or
+  - (ii) on conviction on indictment to a term of imprisonment not exceeding 2 years or to a fine, or both;
+- (b) in the case of paragraph (2)(c), (d) and (e) on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding level 5 on the standard scale, or both.
+
+(2) The provisions referred to in paragraph (1) are–
+
+- (a) Article 12 in so far as it relates to feed (export or re-export to third countries);
+- (b) Article 15(1) (prohibition on the placing on the market or feeding to any [^key-36a40522f8bd2e47e5da5b8588c72eee]... animal of unsafe feed);
+- (c) Article 16 in so far as it relates to feed (prohibition on misleading labelling, advertising or presentation);
+- (d) Article 18(2) and (3) (requirements of traceability) in so far as relating to feed business operators;
+- (e) Article 20 (responsibilities of feed business operators).
+
+(3)[^key-3398a9248342cfde5f7cb0acd8248867] The competent authority for the purposes of Articles 15, 18 and 20 of Regulation 178/2002 is Food Standards Scotland.
+
+(4) In this regulation “**feed**” means feed for food-producing animals.
+
+## PART 4 — Administration and Enforcement Generally
+
+### 16. Enforcement[^key-4f26478aaea2159c9f844b5aca10d82c]
+
+(1)[^key-1d2ffcd6778c881c6c34313190f529c6] The relevant provisions are to be executed and enforced by Food Standards Scotland.
+
+(2)[^key-b591312d4d0ef3b953f8aede5cf40bde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Food Standards Scotland[^key-346fbda0a9878809e440b8d7092321f1] may in writing appoint as authorised officers, either generally or specifically, such persons as it considers necessary to act in matters arising under the relevant provisions.
+
+(4) A person appointed under paragraph (3) need not be an officer of the appointing body.
+
+(5) In this regulation, “the relevant provisions” are—
+
+- ((a)) these Regulations;
+- ((b)) the provisions of Regulation 178/2002 set out in regulation 15(2); and
+- ((c)) Regulation 183/2005.
+
+### 17. Feed business improvement notices
+
+(1) An authorised officer who has reasonable grounds for believing that a feed business operator is failing to comply with specified feed law, may by a notice served on that person (in these Regulations referred to as a “**feed business improvement notice**”)–
+
+- (a) state the officer's grounds for believing that the feed business operator is failing to comply with specified feed law;
+- (b) specify the matters which constitute the feed business operator's failure to comply;
+- (c) specify the measures which, in the officer's opinion, the feed business operator must take in order to secure compliance; and
+- (d) require the feed business operator to take those measures, or measures which are at least equivalent to them, within such period (not being less than 14 days) as may be specified in the notice.
+
+(2) Any person who fails to comply with a feed business improvement notice is guilty of an offence.
+
+(3) A feed business improvement notice must state the right to appeal under regulation 18 and the appropriate time limit for bringing any such appeal.
+
+### 18. Right of appeal against feed business improvement notices
+
+(1) Any person who is aggrieved by a decision of an authorised officer to serve a feed business improvement notice may appeal to the sheriff.
+
+(2) An appeal to the sheriff under paragraph (1) shall be by way of summary application.
+
+(3) The period within which an appeal under paragraph (1) may be brought is–
+
+- (a) 1 month from the date on which notice of the decision was served on the person desiring to appeal; or
+- (b) if it is shorter, the period specified in the notice pursuant to regulation 17(1)(d).
+
+### 19. Appeals to the Sheriff Appeal Court[^key-fa512824a38468fc925c098e792331eb]
+
+A person who is aggrieved by–
+
+- (a) the dismissal of an appeal under regulation 13(1) or 18(1); or
+- (b) any decision of the sheriff to make a feed business prohibition order or a feed business emergency prohibition order,
+
+may appeal to the Sheriff Appeal Court[^key-98a5a1679f2b7b700de89afd30c337e4].
+
+### 20. Actions resulting from appeals
+
+(1) On an appeal against a feed business improvement notice under regulations 18(1) or 19(a) the sheriff or the Court, as the case may be, may cancel or affirm the notice and, if affirming the notice, may do so either in its original form or with such modifications as the sheriff or the Court may in the circumstances think fit.
+
+(1) Where any period specified in a feed business improvement notice pursuant to regulation 17(1)(d) would otherwise include any day on which an appeal against that notice is pending, that day shall be excluded from that period.
+
+(2) Any appeal shall be regarded as pending for the purposes of paragraph (2) until it is finally disposed of or is withdrawn.
+
+### 21. Feed business prohibition orders
+
+(1) If–
+
+- (a) a feed business operator is convicted of an offence under specified feed law; and
+- (b) the court by or before which the feed business operator is so convicted is satisfied that the health risk condition is fulfilled with respect to the feed business concerned,
+
+the court shall by an order impose the appropriate prohibition.
+
+(2) The health risk condition is fulfilled with respect to any feed business if any of the following involves risk of injury to health (including any impairment, whether permanent or temporary), namely–
+
+- (a) the use for the purposes of the business of any process or treatment;
+- (b) the construction of any premises used for the purposes of the business, or the use for those purposes of any equipment; and
+- (c) the state or condition of any premises or equipment used for the purposes of the business;
+
+and health means the health of an animal or, through the consumption of the products of such animal, human health.
+
+(3) The appropriate prohibition is–
+
+- (a) in a case falling within paragraph (2)(a), a prohibition on the use of the process or treatment for the purposes of the business;
+- (b) in a case falling within paragraph (2)(b), a prohibition on the use of the premises or equipment for the purposes of the business or any other feed business of the same class or description; and
+- (c) in a case falling within paragraph (2)(c), a prohibition on the use of the premises or equipment for the purposes of any feed business.
+
+(4) If–
+
+- (a) a feed business operator is convicted of an offence under specified feed law; and
+- (b) the court by or before which the food business operator is so convicted thinks it proper to do so in all the circumstances of the case,
+
+the court may, by an order, impose a prohibition on the feed business operator participating in the management of any feed business, or any feed business of a class or description specified in the order.
+
+(5) As soon as practicable after the making of an order under paragraph (1) or (4) (in these Regulations referred to as a “**feed business prohibition order**”), the enforcement authority shall–
+
+- (a) serve a copy of the order on the relevant feed business operator; and
+- (b) in the case of an order made under paragraph (1), affix a copy of the order in a conspicuous position on such premises used for the purposes of the feed business as the enforcement authority considers appropriate,
+
+and any person who knowingly contravenes such an order is guilty of an offence.
+
+(6) A feed business prohibition order shall cease to have effect–
+
+- (a) in the case of an order made under paragraph (1), on the issue by the enforcement authority of a certificate to the effect that it is satisfied that the feed business operator has taken sufficient measures to secure that the health risk condition is no longer fulfilled with respect to the feed business; and
+- (b) in the case of an order made under paragraph (4), on the giving by the court of a direction to that effect.
+
+(7) The enforcement authority must issue a certificate under paragraph (6)(a) within 3 days of its being satisfied as mentioned in that paragraph; and on an application by the feed business operator for such a certificate, the authority must–
+
+- (a) determine, as soon as is reasonably practicable and in any event within 14 days, whether or not it is so satisfied; or
+- (b) if it determines that it is not so satisfied, give notice to the feed business operator of the reasons for that determination.
+
+(8) The court shall give a direction under paragraph (6)(b) if, on an application by the feed business operator, the court thinks it proper to do so having regard to all the circumstances of the case, including in particular the conduct of the feed business operator since the making of the order; but no such application shall be competent–
+
+- (a) within 6 months of the making of the feed business prohibition order; or
+- (b) within 3 months of the making by the feed business operator of a previous application for such a direction.
+
+(9) Where the sheriff makes an order under regulation 22(2) with respect to any feed business, paragraph (1) shall apply as if the feed business operator had been convicted by the sheriff of an offence under specified feed law.
+
+(10) Where the commission of an offence by a feed business operator leads to the conviction of another person pursuant to regulation 34(1), paragraph (4) shall apply in relation to that other person as it applies in relation to the feed business operator and any reference in paragraph (5) or (8) to the feed business operator shall be construed accordingly.
+
+### 22. Feed business emergency prohibition notices and orders
+
+(1) An authorised officer of an enforcement authority who is satisfied that the health risk condition is fulfilled with respect to any feed business may by a notice served on the relevant feed business operator (in these Regulations referred to as a “**feed business emergency prohibition notice**”) impose the appropriate prohibition.
+
+(2) If the sheriff is satisfied, on the application of such an officer, that the health risk condition is fulfilled with respect to any feed business, the sheriff shall, by an order (in these Regulations referred to as a “**feed business emergency prohibition order**”), impose the appropriate prohibition.
+
+(3) Such an officer shall not apply for a feed business emergency prohibition order unless, at least 1 day before the date of the application, a notice has been served on the relevant feed business operator stating the intention to apply for the order.
+
+(4) Paragraphs (2) and (3) of regulation 21 apply for the purposes of this regulation as they apply for the purposes of that regulation, but as if the reference in paragraph (2) to risk of injury to health were a reference to imminent risk of injury.
+
+(5) As soon as practicable after the service of a feed business emergency prohibition notice, an authorised officer of an enforcement authority shall affix a copy of the notice in a conspicuous position on such premises used for the purposes of the feed business as that officer considers appropriate; and any person who knowingly contravenes such a notice is guilty of an offence.
+
+(6) As soon as practicable after the making of a feed business emergency prohibition order, an authorised officer of an enforcement authority shall–
+
+- (a) serve a copy of the order on the relevant feed business operator; and
+- (b) affix a copy of the order in a conspicuous position on such premises used for the purposes of the feed business as that officer considers appropriate,
+
+and any person who knowingly contravenes such an order is guilty of an offence.
+
+(7) A feed business emergency prohibition notice shall cease to have effect–
+
+- (a) if no application for a feed business emergency prohibition order is made within the period of 3 days beginning with the service of the notice, at the end of that period; or
+- (b) if such an application is so made, on the determination or abandonment of the application.
+
+(8) A feed business emergency prohibition notice or a feed business emergency prohibition order shall cease to have effect on the issue by the enforcement authority of a certificate to the effect that it is satisfied that the feed business operator has taken sufficient measures to secure that the health risk condition is no longer fulfilled with respect to the feed business.
+
+(9) The enforcement authority must issue a certificate under paragraph (8) within 3 days of being satisfied as mentioned in that paragraph; and on an application by the feed business operator for such a certificate, the authority shall–
+
+- (a) determine as soon as is reasonably practicable and in any event within 14 days whether or not it is so satisfied; or
+- (b) if it determines that it is not so satisfied, give notice to the feed business operator of the reasons for that determination.
+
+(10) Where a feed business emergency prohibition notice is served on a feed business operator, the enforcement authority shall compensate the feed business operator in respect of any loss suffered by reason of compliance with the notice unless–
+
+- (a) an application for a feed business emergency prohibition order is made within the period of 3 days beginning with the service of the notice; and
+- (b) the sheriff is satisfied, on the hearing of the application, that the health risk condition was fulfilled with respect to the feed business at the time when the notice was served,
+
+and any disputed question as to the right to or the amount of any compensation payable under this paragraph shall be determined by a single arbiter appointed, failing agreement between the parties, by the sheriff.
+
+### 23. Penalties for offences in relation to improvement notices, prohibition orders etc
+
+Any person guilty of an offence under regulation 17(2), 21(5) or 22(5) or (6) is liable–
+
+- (a) on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding the statutory maximum or both; or
+- (b) on conviction on indictment to a term of imprisonment not exceeding 2 years or to a fine or both.
+
+### 24. Powers of entry for authorised officers
+
+(1) For the purposes of executing and enforcing specified feed law an authorised officer may at all reasonable times, and on producing, if requested to do so, some duly authenticated document showing the officer's authority, enter–
+
+- (a) any premises on which the officer has reasonable cause to believe that feed has been, or is being, manufactured or produced, or is being kept for the purpose of being placed on the market, incorporated in another product or used; or
+- (b) any premises (not being premises used only as a dwelling) on which the officer has reasonable cause to believe that there is any feed which is in the possession, or under the control, of the occupier of the premises.
+
+(2) If a sheriff, magistrate, or a justice of the peace on sworn information in writing, is satisfied that there is reasonable ground for entry into any such premises as are mentioned in paragraph (1), and either–
+
+- (a) that admission to the premises has been refused, or a refusal is apprehended, and that notice of the intention to apply for a warrant has been given to the occupier; or
+- (b) that an application for admission or the giving of such a notice would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier temporarily absent,
+
+the sheriff, magistrate or justice may by signed warrant authorise the authorised officer to enter the premises, if need be by reasonable force.
+
+(3) Every warrant granted under this regulation shall continue in force for a period of 1 month.
+
+(4) An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, may be accompanied by such other persons and take such equipment as the officer considers to be necessary, and on leaving any unoccupied premises entered by virtue of such a warrant, shall leave them as effectively secured against unauthorised entry as they were found.
+
+(5) An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, has the right to inspect–
+
+- (a) any material appearing to the officer to be feed;
+- (b) any article appearing to the officer to be a container or package used or intended to be used to store, wrap or package any feed, or to be a label or advertisement used or intended to be used in connection with feed; or
+- (c) any vehicle, plant or equipment appearing to the officer to be used, or intended to be used, in connection with the manufacture, production, storage, transport or use of feed, and any process of manufacture, production, storage, transport or use of feed.
+
+(6) Subject to paragraph (8), an authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, may take on those premises, in the prescribed manner, a sample of any material appearing to the officer to be a feed manufactured, produced, placed on the market or intended to be placed on the market or to be material used, or intended to be used, as feed.
+
+(7) Without prejudice to an authorised officer's powers and duties as to the taking of samples in the prescribed manner, the officer may take a sample in a manner other than that prescribed of any material which has been sold for use as feed or which the officer has reasonable cause to believe to be intended for sale as such.
+
+(8) Where, for the purpose of taking a sample pursuant to paragraph (6) or (7), an authorised officer takes some of it from each of one or more containers, which are exposed for sale by retail, and none of which weighs more than 6 kilograms, the owner of the container or containers may require the authorised officer to purchase the container or containers on behalf of the enforcement authority.
+
+(9) An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, may–
+
+- (a) require any person carrying on, or appearing to the officer to be carrying on, a feed business, or any person employed in connection with such a business, to produce any record (in whatever form it is held) relating to or arising out of the exercise in the course of that business of any such activity, and which is in that person's possession or under that person's control; and
+- (b) inspect and take copies of any record, or of any entry in any record produced in pursuance of the preceding sub paragraph.
+
+(10) An authorised officer exercising the power conferred by paragraph (9) in respect of a record held by means of a computer–
+
+- (a) is entitled at any reasonable time to have access to, and inspect and check the operation of, any computer and associated apparatus or material which is or has been, or which it appears to the officer is or has been, in use in connection with the record in question;
+- (b) may require–
+  - (i) the person by whom or on whose behalf the computer is or has been so used, or
+  - (ii) any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material,
+
+  to afford the authorised officer such reasonable assistance as the officer may require for that purpose; and
+- (c) may require the record, or an extract from the record, to be produced in a form in which it may be taken away.
+
+(11) Where (in the case of a person carrying on, or appearing to carry on, a business which consists of or includes the manufacture of a compound feeding stuff)–
+
+- (a) a requirement is made under paragraph (9)(a) in relation to any feeding stuff which is, or appears to be, intended for a particular nutritional purpose; and
+- (b) at the time the requirement is made, the record in respect of which it is made has been published and is available in accessible form for public use,
+
+the person of whom the requirement is made shall be deemed to comply with it if, at the time it is made, that person supplies the authorised officer making it with correct and adequate details of the publication concerned, and of where a copy of it may be obtained.
+
+(12) An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, may seize and detain any record which the officer has reasonable cause to believe to be a record which may be required as evidence in proceedings under specified feed law.
+
+(13)[^key-2bbcc21733f68744787721238a7efbf0] In this regulation—
+
+- (a) “compound feeding stuff” bears the same meaning as “**compound feed**” as defined in Article 3(2)(h) of Regulation 767/2009;
+- (b) “feeding stuff which is intended for a particular nutritional purpose” bears the same meaning as “**feed intended for particular nutritional purposes**” as defined in Article 3(2)(o) of that Regulation; and
+- (c)[^key-5d4c5158b50153e231fc9a7cde5fc230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(14) Nothing in this regulation authorises any person, except with the permission of the local authority under the Animal Health Act 1981 [^c1253352], to enter any premises–
+
+- (a) on which an animal or bird affected with any disease to which that Act applies is kept; and
+- (b) which is situated in a place declared under that Act to be infected with such a disease.
+
+**24A.**[^key-2cdf15f8607c1ec51852cfb777c50058] (1) For the purpose of carrying out investigations, in accordance with Article 4.2 of Directive 2002/32, to determine the source of those undesirable substances listed in Annex II to that Directive where action thresholds specified in that Annex have been reached, an authorised officer may, at all reasonable times and on producing if requested some duly authenticated document showing that officer’s authority, enter any premises (not being premises used only as a dwelling) on which that officer has reasonable cause to believe that feed has been or is being manufactured or produced, has been placed on the market or is being kept for the purpose of being placed on the market, incorporated into another product or used.
+
+(2) An authorised officer entering any premises by virtue of this regulation may–
+
+- (a) take such other persons and such equipment as may appear to be necessary;
+- (b) inspect anything that officer would have had the right to inspect under regulation 24(5); and
+- (c) take on those premises a sample of any material appearing to be a feed manufactured, produced, placed on the market or intended to be placed on the market or to be material used or intended for use as feed.
+
+(3) Where for the purpose of taking a sample pursuant to paragraph (2)(c) an authorised officer takes material from one or more containers, each of which weighs no more than six kilograms and which are exposed for sale by retail, the owner of the container or containers may require the authorised officer to purchase the container or containers on behalf of the authority for which that officer acts.
+
+(4) An authorised officer entering any premises by virtue of this regulation has the same rights to production, inspection and copying of records, including records kept on or produced by a computer, as are specified in regulation 24(9)(a) and (b) and (10)(c).
+
+(5) Regulation 24(14) applies to the power of entry under this regulation as it does to such powers under that regulation.
+
+(6) Directive 2002/32 means Directive [2002/32/EC](https://www.legislation.gov.uk/european/directive/2002/0032) of the European Parliament and of the Council on undesirable substances in animal feed, as amended by Commission Directive [2003/57/EC](https://www.legislation.gov.uk/european/directive/2003/0057), Commission Directive [2003/100/EC](https://www.legislation.gov.uk/european/directive/2003/0100), Commission Directive [2005/8/EC](https://www.legislation.gov.uk/european/directive/2005/0008), Commission Directive [2005/86/EC](https://www.legislation.gov.uk/european/directive/2005/0086), Commission Directive [2005/87/EC](https://www.legislation.gov.uk/european/directive/2005/0087) and Commission Directive [2006/13/EC](https://www.legislation.gov.uk/european/directive/2006/0013).
+
+### 25. Inspection, seizure and detention of suspect feed
+
+(1) Where an authorised officer has inspected or sampled any material under regulation 24, paragraphs (2) to (7) shall apply where, on such an inspection, or upon analysis of samples taken, it appears to that officer that the material fails to comply with the requirements of specified feed law.
+
+(2) The authorised officer may either–
+
+- (a) give notice to the person in charge of the material that, until the notice is withdrawn, the material or any specified portion of it–
+  - (i) is not to be used as feed; and
+  - (ii) either is not to be removed or is not to be removed except to some place specified in the notice; or
+- (b) seize the material in order to have it dealt with by the sheriff,
+
+and any person who knowingly contravenes the requirements of a notice under sub–paragraph (a) above is guilty of an offence.
+
+(3) Where the authorised officer exercises the powers conferred by paragraph (2)(a), that officer must, as soon as is reasonably practicable and in any event within 21 days, determine whether or not the officer is satisfied that the material complies with the requirements mentioned in paragraph (1) and–
+
+- (a) if so satisfied, forthwith withdraw the notice; or
+- (b) if not so satisfied, proceed to have the matter dealt with by the sheriff under paragraph (5).
+
+(4) Where the authorised officer exercises the powers conferred by paragraph (2)(b) or takes action under paragraph (3)(b), the officer must inform the person in charge of the material of the intention to have it dealt with by the sheriff and any person who might be liable under the provisions of specified feed law to a prosecution in respect of the material shall, if that person attends before the sheriff by whom the material falls to be dealt with, be entitled to be heard and to call witnesses.
+
+(5) If it appears to the sheriff, on the basis of such evidence as the sheriff considers appropriate in the circumstances, that any material falling to be dealt with under this regulation fails to comply with the requirements of specified feed law then the sheriff shall condemn the material and order–
+
+- (a) the material to be destroyed or to be so disposed of as to prevent it from being used as food for human consumption, or for feed; and
+- (b) any expenses reasonably incurred in connection with the destruction or disposal to be defrayed by the feed business operator.
+
+(6) If a notice under paragraph (2)(a) is withdrawn, or the sheriff by whom any material falls to be dealt with under this regulation refuses to condemn it, the enforcement authority shall compensate the owner of the material for any depreciation in its value resulting from the action taken by the authorised officer.
+
+(7) Any disputed question as to the right to or the amount of any compensation payable under paragraph (6) shall be determined by a single arbiter appointed, failing agreement between the parties, by the sheriff.
+
+(8) Any person guilty of an offence under paragraph (2) is liable–
+
+- (a) on summary conviction to a term of imprisonment not exceeding 3 months or to a fine not exceeding the statutory maximum or both; or
+- (b) on conviction on indictment to a term of imprisonment not exceeding 2 years or to a fine or both.
+
+### 26. Service of notices
+
+(1) Any notice to be given by an enforcement authority under regulation 9, 10, 11, 17, 22 or 25–
+
+- (a) must be in writing and signed by an authorised officer acting on behalf of the enforcement authority;
+- (b) if purporting to bear the signature (which includes a facsimile of a signature by whatever means reproduced) of a person who is expressed to be an authorised officer, shall be deemed, unless the contrary is proven, to have been duly issued by such an authorised officer;
+- (c) subject to paragraph (2), must be given to the feed business operator or, in the case of a notice given under regulation 25, to the person mentioned in regulation 25(2)(a) by —
+  - (i) delivering it to that person; or
+  - (ii) by leaving it, or sending it in a prepaid letter addressed to that person at that person's office; or
+  - (iii) in the case of an incorporated company or body, by delivering the notice to its secretary or clerk at its registered or principal office, or by sending it in a prepaid letter addressed to that person at that office; or
+  - (iv) in the case of any other person by leaving it or sending it in a prepaid letter addressed to that person at that person's usual or last known residence.
+
+(2) Where it is not practicable after reasonable enquiry to ascertain the name and address of the person on whom the notice should be served, or where the premises in which a feed business is carried on are unoccupied, the notice may be addressed to the “owner” or “occupier” of the premises in which the feed business is carried on, and delivered to some person on those premises, or if there is no person on the premises to whom it can be delivered, by affixing it or a copy of it to some conspicuous part of the premises.
+
+### 27. Offences relating to the exercise of powers by authorised officers
+
+(1) Any person who wilfully obstructs an authorised officer in the exercise of the officer's functions under these Regulations or fails to comply with any requirement lawfully made by an authorised officer in the exercise of such functions is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to a term of imprisonment not exceeding 3 months or both.
+
+(2) Any person not being an authorised officer who purports to act as such under these Regulations is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale or to a term of imprisonment not exceeding 3 months or to both.
+
+(3) Subject to paragraph (4), if any person discloses to any other person–
+
+- (a) any information in relation to any manufacturing process or trade secret which has been obtained by the person making the disclosure on premises entered by virtue of these Regulations, or
+- (b) any other any such information otherwise obtained in pursuance of these Regulations,
+
+that person is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale unless the disclosure was made in and for the purpose of the performance by that person or any other person of functions under these Regulations.
+
+(4) Paragraph (3) does not apply to prevent an authorised officer who has taken a sample under regulation 24 or regulation 24A[^key-36d3cca7ae1db3487cbbe8b411da8a9a] from disclosing–
+
+- (a) to the manufacturer or to the last seller of the material, information as to the place where and the person from whom the sample was taken;
+- (b) to that manufacturer or last seller or to any person on whose premises that material was kept, information as to the results of any analysis of that sample; or
+- (c) any information which it is necessary to disclose in order to prevent the occurrence of a serious risk to human or animal health or to the environment.
+
+### 28. Liability for expenditure[^key-5597f753259f3fc5b7aac9ccdb4a83b6]
+
+Any sums due to the enforcement authority by virtue of Article 138(4) of Regulation 2017/625 must be paid by the feed business operator to the enforcement authority on demand.
+
+### 29. Appointment of agricultural analysts[^key-17fec560749566f73604309c9f14bddf]
+
+(1) Subject to paragraph (3), an enforcement authority must appoint one or more agricultural analysts in connection with the performance of its duty under regulation 16 (enforcement).
+
+(2) An agricultural analyst appointed under paragraph (1) must have the qualifications prescribed in relation to the Act by regulation 5 of the Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010.
+
+(3)[^key-1d01ec42530f84f13865446de5719847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Procedure relating to samples for analysis
+
+(1) Where in accordance with regulation 24(6) or Article 36 of Regulation 2017/625[^key-e296f076a5dde934e3b86fbf06ce8622] an authorised officer obtains a sample and decides to have it analysed for the purpose of ascertaining whether there is or has been any contravention of specified feed law, that officer must divide the sample into 3 parts of as near as may be equal size and–
+
+- (a) cause each part to be marked, sealed and fastened in the prescribed manner;
+- (b)[^key-d0010cf75e8231b1aa974ad3a280c1ed] send one part for analysis to the agricultural analyst [^key-515a829a1d08aff5d2ea82df2fca449f]...;
+- (c)[^key-a6f1ae208f433759154b6efcae6bbd95] send another part to the person—
+  - (i) on whose premises the material was sampled or to that person’s agent, or
+  - (ii) who offered the material for sale by means of distance communication if the material was ordered from such a person or to that person’s agent, and
+- (d) retain and preserve the remaining part as an officially sealed reference sample.
+
+(2) If the person who manufactured any material sampled under these Regulations is not a person to whom part of the sample should be sent under paragraph (1), that paragraph shall have effect as if for the reference to 3 parts there were substituted a reference to 4 parts, and the authorised officer must within 14 days of the date of sampling send the fourth part to the manufacturer, unless the officer does not know and is unable to ascertain after making reasonable enquiries the identity of the manufacturer or the manufacturer's address in the United Kingdom.
+
+(3)[^key-48b3d3318444d62bd81313f0f70efe07] The part of the sample sent to the agricultural analyst must be accompanied by a statement signed by the authorised officer confirming that the sample was taken in the manner prescribed by law.
+
+(4) The agricultural analyst [^key-7c5716d944abe88977d2f25dfb150d9c]... shall analyse the part of the sample received under paragraph (1), and send a certificate of analysis to the authorised officer, who must send a copy to–
+
+- (a)[^key-82a6d2b506acb7549768ca1115fd7528] the person—
+  - (i) on whose premises the material was sampled or that person’s agent, or
+  - (ii) who offered the material for sale by means of distance communication if the material was ordered from such a person or to that person’s agent, and
+- (b) if part of the sample was sent under paragraph (2), the person to whom that part was sent.
+
+(5) If the agricultural analyst to whom the sample was sent under paragraph (1)(b)(i) determines that an effective analysis of the sample cannot be performed by that analyst or under that analyst's direction that analyst shall send it to the agricultural analyst for another area, together with any documents received with the sample, and paragraph (4) shall then apply as if the sample had originally been sent to that other analyst.
+
+### 31. Additional provisions relating to sampling and analysis
+
+(1) Any person who–
+
+- (a) tampers with any material so as to procure that any sample of it taken or submitted for analysis under these Regulations does not correctly represent the material; or
+- (b) tampers or interferes with any sample taken or submitted for analysis under these Regulations,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding 3 months or both.
+
+(2) Any analysis required to be made under regulation 30(4) may be performed by any person acting under the direction of the agricultural analyst [^key-19d313d0d0d9c2fb2241467c408090f6]....
+
+(3) A certificate of analysis by an agricultural analyst [^key-fc6337f34383cd4742c691f52162b5fb]... shall in any legal proceedings be received as evidence of the facts stated in the certificate if the party against whom it is to be given in evidence–
+
+- (a) has been served with a copy of it not less than 21 days before the hearing; and
+- (b) has not, before the seventh day preceding the hearing, served on the other party a notice requiring the attendance of the person who made the analysis.
+
+(4) Any document purporting to be a certificate of analysis for the purposes of paragraph (3) shall be deemed to be such a certificate unless the contrary is proved.
+
+### 31A. Secondary analysis by the Government Chemist[^key-22c295f8d65c01ede594c2b3fafa5155]
+
+(1) Paragraphs (2) to (10) apply where a part of a sample sent by an authorised officer for analysis under regulation 30(1)(b) has been analysed and–
+
+- (a) proceedings are intended to be or have been commenced against a person for an offence under specified feed law; and
+- (b) the prosecution intends to adduce evidence of the result of the analysis of that part of the sample.
+
+(2) The authorised officer–
+
+- (a) may of the officer’s own volition;
+- (b) must if requested by the prosecutor; or
+- (c) must (subject to paragraphs (5) and (6)) if requested by the accused,
+
+send the retained part of the sample to the Government Chemist for analysis.
+
+(3) The Government Chemist shall analyse the part of the sample received under paragraph (2) in the manner prescribed by any provision referred to in regulation 29 and send a certificate of analysis to the authorised officer which is–
+
+- (a)[^key-7c5b8e3236458867420f243983a55d0f] completed in the form set out in Schedule 1 to the Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 and in accordance with the notes to that Schedule;
+- (b) signed by the Government Chemist or by a person authorised by the Government Chemist to sign such a certificate.
+
+(4) The authorised officer shall immediately on receipt of the Government Chemist’s certificate of analysis supply the prosecutor and the accused with a copy.
+
+(5) Where a request is made under paragraph (2)(c), the authorised officer may give notice in writing to the accused requesting payment of a fee specified in the notice in respect of the functions mentioned in paragraph (3).
+
+(6) The authorised officer may, in the absence of agreement by the accused to pay the fee referred to in paragraph (5), refuse to comply with the request made under paragraph (2)(c) if the specified fee does not exceed either–
+
+- (a) the cost of performing those functions; or
+- (b) the appropriate fee for the performance of any similar function under section 78 of the Act.
+
+(7) In this regulation–
+
+- (a) “accused” includes a person against whom proceedings are intended to be commenced; and
+- (b) “the appropriate fee” means such fee as may be fixed in accordance with the provisions of section 78(10) of the Act.
+
+(8) Any analysis required to be made under paragraph (3) may be performed by any person acting under the direction of the Government Chemist.
+
+(9) A certificate of analysis by the Government Chemist shall in any legal proceedings be received as evidence of the facts stated in the certificate if the party against whom it is to be given in evidence–
+
+- (a) has been served with a copy of it at least 21 days before the hearing; and
+- (b) has not served on the other party a notice requiring the attendance of the Government Chemist at least 7 days before the hearing.
+
+(10) Any document purporting to be a certificate of analysis for the purposes of paragraph (9) shall be deemed to be such a certificate unless the contrary is proved.
+
+### 32. Delegation by the competent authority[^key-fd866f124b61ac19487b82ccfb610c6a]
+
+(1) Where Food Standards Scotland may delegate any function under these Regulations, it may delegate the function to any person.
+
+(2) Before delegating, Food Standards Scotland must consult the person to whom any delegation is to be made.
+
+(3) Where Food Standards Scotland delegates any function, it must specify the function and the area within which that function is to be performed.
+
+(4) Where Food Standards Scotland has delegated any of its functions Food Standards Scotland may vary, suspend or cancel that delegation, in whole or in part.
+
+(5) Food Standards Scotland must publish and maintain an up to date register containing the details and operative date of any delegation.
+
+### 33. Protection of authorised officers acting in good faith
+
+(1) An authorised officer is not personally liable in respect of any act done–
+
+- (a) in the execution or purported execution of these Regulations; and
+- (b) within the scope of that officer's duties,
+
+if that act was done in the honest belief that these Regulations required or entitled it to be done.
+
+(2) Nothing in paragraph (1) shall be construed as relieving any enforcement authority of any liability in respect of the acts of its officers.
+
+(3) Where an action has been brought against an authorised officer in respect of an act done by that officer–
+
+- (a) in the execution or purported execution of these Regulations; but
+- (b) outside the scope of that officer's duties,
+
+the authority may indemnify the officer against the whole or a part of any damages which are ordered to be paid or any expenses which the officer may have incurred if it is satisfied that the officer honestly believed that the act complained of was within the scope of the officer's duties.
+
+(4) An agricultural analyst is to be treated for the purposes of this regulation as being an authorised officer, whether or not that analyst's appointment is a whole–time one.
+
+### 34. Defences of fault of another person, mistake etc and export
+
+(1) Where the commission by any person of an offence under these Regulations or the Animal Feed Regulations[^key-4ffacb7df034985f4005fcb0f8d792fe] is due to the act or default of some other person, that other person is guilty of the offence and may be convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
+
+(2) In any proceedings for an offence under these Regulations or the Animal Feed Regulations it shall, subject to paragraph (3), be a defence to prove–
+
+- (a) that the commission of the offence was due to a mistake, or to reliance on information supplied by another person, or to the act or default of another person, or to an accident or some other cause beyond the accused's control; and
+- (b) that the accused took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence by the accused or any other person under the accused's control.
+
+(3) If in any case the defence provided by paragraph (2) involves the allegation that the commission of the offence was due to the act or default of another person or to reliance on information supplied by another person, the accused shall not, without leave of the court, be entitled to rely on that defence unless–
+
+- (a) at least 7 days before the trial diet (not being a notional trial diet); or
+- (b) a date 28 days after the first appearance of the accused before a court in connection with the alleged offence,
+
+the accused has served on the prosecutor a notice in writing giving such information as the accused may have to identify or assist in identifying that other person.
+
+(4) In any proceedings in which it is alleged that a material has contravened or failed to comply with the requirements of specified feed law it is a defence for the accused to prove that the material in respect of which the offence was alleged to have been committed–
+
+- (a) was feed to which Article 25 of Regulation 183/2005 applies; and
+- (b) could lawfully be exported in accordance with the requirements of Article 12 of Regulation 178/2002.
+
+### 35. Offences by corporate bodies or Scottish partnerships
+
+(1) Where an offence under these Regulations or the Animal Feed Regulations[^key-7ec4d7958765e7a42cd53d4f07a41dab] which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of–
+
+- (a) any director, manager, secretary or other similar officer of the body corporate; or
+- (b) any person who was purporting to act in any such capacity,
+
+that person as well as the body corporate is to be deemed to be guilty of that offence and liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1) “**director**” in relation to any body corporate established by or under any enactment for the purpose of carrying on under national ownership any undertaking, being a body corporate whose affairs are managed by its members, means a member of that body corporate.
+
+(3) Where an offence under these Regulations or the Animal Feed Regulations which has been committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is to be deemed to be guilty of that offence and liable to be proceeded against and punished accordingly.
+
+### 36. Time limit for prosecutions
+
+(1) No prosecution for an offence under these Regulations or the Animal Feed Regulations[^key-68dc335331895a5e6f89182ad93058f4] may be begun after the expiry of–
+
+- (a) 3 years from the commission of the offence; or
+- (b) 1 year from the date on which evidence sufficient in the opinion of the prosecutor to warrant proceedings came to the knowledge of the prosecutor,
+
+whichever is the earlier.
+
+(2) For the purposes of this regulation, a certificate signed by or on behalf of the prosecutor, and stating the date on which evidence sufficient in the prosecutor's opinion to warrant the proceedings came to the knowledge of the prosecutor, shall be conclusive evidence of that fact.
+
+(3) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
+
+### 37. Revocations
+
+The Regulations or parts thereof listed in Schedule 3 to these Regulations are revoked except in so far as they may apply to excluded additives or to premixtures consisting solely of a combination of excluded additives.
+
+### 38. Transitional and savings provisions[^key-6a1573f56cfbdefeae905e0d9a9a2a6d]
+
+(1) The validity, effect or consequences of anything done under these Regulations as they had effect immediately before Food Standards Scotland becomes the enforcement authority is not affected by Food Standards Scotland becoming the enforcement authority.
+
+(2) Any inspection, investigation or legal proceedings commenced prior to Food Standards Scotland becoming the enforcement authority is not affected by Food Standards Scotland becoming the enforcement authority.
+
+(3) Any inspection, investigation or legal proceeding commenced prior to Food Standards Scotland becoming the enforcement authority may be continued after that date as if the amendments to these Regulations coming into force on that day had not been made.
+
+(4) Any liability to a penalty for an offence committed before Food Standards Scotland becoming the enforcement authority is not affected by Food Standards Scotland becoming the enforcement authority.
+
+(5) Despite Food Standards Scotland becoming the enforcement authority, these Regulations as they had effect before that day continue to have effect for the purposes of investigating any offence referred in paragraph (4).
+
+LEWIS MACDONALD
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House, Edinburgh
+
+28th November 2005
+
+## SCHEDULE 1 — SPECIFIED FEED LAW
+
+Regulations 2, 17, 21, 24, 25, 30 and 34
+
+Part IV of the Agriculture Act 1970, in so far as it relates to animal feeding stuffs
+
+The Animal Feed (Basic Safety Standards) (Scotland) Regulations 2018[^key-9d47ddb7f82bc79cf084fc3ce49f6b62]
+
+[^key-42836332ceb1f382d62b3663431c5c1c]...
+
+The Animal Feed (Scotland) Regulations 2010[^key-f75414bfc60c72ee6e7282340a204588]
+
+The Feed (Hygiene and Enforcement) (Scotland) Regulations 2005
+
+The Official Feed and Food Controls (Scotland) Regulations 2005[^key-45ca63504cd446d5d2ed10f638ae194c]
+
+The Official Feed and Food Controls (Scotland) Regulations 2009[^key-41cd573d91dd2a7b1a31001ad5adf28e]
+
+Regulation 178/2002 in so far as it relates to feed for food producing animals
+
+Regulation 1831/2003
+
+[^key-3ef5c5f9ae1595d2cb16d167f574f3c1]...
+
+Regulation 183/2005
+
+[^key-5996c57af728e686ee1698481fe924a9]...
+
+Regulation 767/2009[^key-4df3558ad99937fca88ecbcbcaea54c8]
+
+Regulation 2017/625[^key-ac0734342f4801a4e67a399b6d1e8f4b]
+
+Regulation 2019/1793.
+
+## SCHEDULE 2 — FEES PAYABLE FOR APPROVALS[^key-6283f9f3a2ffa915dfb356c39fe77861]
+
+Regulation 14
+
+| *Activity requiring approval of establishment* | *Fee (£)* |
+| --- | --- |
+| Manufacture only, or manufacture and placing on the market, of substances referred to in Article 10(1)(a) or (b) of Regulation 183/2005 other than those feed additives specified in regulation 2(3) of these Regulations, or of premixtures of such additives | 451.00 |
+| Placing on the market of substances referred to in Article 10(1)(a) or (b) of Regulation 183/2005 other than those feed additives specified in regulation 2(3) of these Regulations, or of premixtures of such additives | 226.00 |
+| Any of the activities referred to at Point 10 of the Section headed “Facilities and Equipment” in Annex II to Regulation 183/2005 | 451.00 |
+
+## SCHEDULE 3 — REVOCATIONS
+
+Regulation 37
+
+The Feeding Stuffs (Establishments and Intermediaries) Regulations 1999 [^c1253356], (“**the Establishments and Intermediaries Regulations**”).
+
+The Feeding Stuffs (Enforcement) Regulations 1999 [^c1253357], (“**the Enforcement Regulations**”).
+
+Regulation 4(2) and (3) of, Parts II and III of Schedule 2 to and the entries for the Establishments and Intermediaries Regulations and the Enforcement Regulations in the table contained in Schedule 9 to the Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 [^c1253358].
+
+The Feeding Stuffs (Sampling and Analysis) Amendment (Scotland) Regulations 2001 [^c1253359], in so far as they amend the Enforcement Regulations.
+
+The Feeding Stuffs and the Feeding Stuffs (Enforcement) Amendment (Scotland) Regulations 2001 [^c1253360], in so far as they amend the Enforcement Regulations.
+
+The Feeding Stuffs Amendment (Scotland) Regulations 2002 [^c1253361], in so far as they amend the Enforcement Regulations.
+
+The Feeding Stuffs (Scotland) Amendment Regulations 2003 [^c1253362], in so far as they amend the Establishments and Intermediaries Regulations and the Enforcement Regulations.
+
+Regulations 7 to 12 and 14 of the Feeding Stuffs (Amendment) Regulations 2003 [^c1253363].
+
+The Feeding Stuffs (Miscellaneous Amendments) (Scotland) Regulations 2003 [^c1253364], in so far as they amend the Establishments and Intermediaries Regulations and the Enforcement Regulations.
+
+The Feeding Stuffs (Safety Requirements for Feed for Food-Producing Animals) Regulations 2004 [^c1253365].
+
+The Feeding Stuffs (Establishments and Intermediaries) Amendment (Scotland) Regulations 2005 [^c1253366].
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which apply in relation to Scotland only, provide for the execution and enforcement of Regulation [(EC) No 183/2005](https://www.legislation.gov.uk/european/regulation/2005/0183) of the European Parliament and of the Council laying down requirements for feed hygiene (O.J. No. L 35, 8.2.05, p.1), (“Regulation 183/2005”) and Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (O.J. No. L 31, 1.2. 02, p.1), (“Regulation 178/2002”), and also make provision as to administration generally, in particular so as to give effect to Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules (O.J. No. L191, 28.5.04, p.1), (“Regulation 882/2004”) in respect of official controls on feed hygiene and feed safety.
+
+These Regulations do not apply to zootechnical feed additives, coccidiostats or histomonostats or premixtures consisting solely of a combination of those substances.
+
+Part 2 of these Regulations deals with the execution and enforcement of Regulation 183/2005, which repeals Council Directive [95/69/EC](https://www.legislation.gov.uk/european/directive/1995/0069) and Commission Directive [98/51/EC](https://www.legislation.gov.uk/european/directive/1998/0051). (Those Directives were implemented in the United Kingdom by the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999 (S.I. 1999/1872)). Regulation 183/2005 provides that almost all businesses producing, trading in or using animal feed should be either registered, or as the case may be approved, by the competent authorities. The activities to which Regulation 183/2005, and consequently Part 2 of these Regulations, do not apply, are set out in Article 2 of Regulation 183/2005 and include–
+
+- (a) the private domestic production of feed for animals not kept for consumption, or kept for private domestic consumption only;
+- (b) the feeding of non food-producing animals;
+- (c) the feeding of animals kept for private domestic consumption or for direct supply, by the producer, of small quantities of primary products to the final consumer or to local retailers;
+- (d) the direct supply, by the producer, of small quantities of primary produced feed to local farms for use on those farms;
+- (e) the retailing of pet food (regulation 3).
+
+In particular provision is made in Part 2 to–
+
+- (a) designate the competent authorities for the purposes of the various functions mentioned in Regulation 183/2005 (regulation 4);
+- (b) identify those provisions of Regulation 183/2005 where failure to comply gives rise to an offence, and attach penalties to those offences (regulation 5);
+- (c) set out the requirements which must be observed by anyone–
+  - (i) notifying the enforcement authority with a view to registering a feed business establishment (regulation 6);
+  - (ii) making a declaration of compliance with the conditions of Regulation 183/2005 (regulation 7); or
+  - (iii) applying for approval of a feed business establishment (regulation 8);
+- (d) lay down the procedures to be followed by an enforcement authority when–
+  - (i) suspending the registration or approval of a feed business establishment (regulation 9);
+  - (ii) lifting the suspension of a registration or approval (regulation 10); or
+  - (iii) revoking the registration or approval of a feed business establishment (regulation 11);
+- (e) set out the requirements to be observed by anyone applying for an amendment to a registration or approval (regulation 12);
+- (f) provide for a right of appeal against decisions relating to registrations or approvals taken by enforcement authorities (regulation 13); and
+- (g) specify the fees payable by an applicant for approval or amendment to an approval (regulation 14 and Schedule 2).
+
+Part 3 of these Regulations revokes and re-enacts with minor amendments the provisions formerly contained in the Feeding Stuffs (Safety Requirements for Feed for Food-Producing Animals) Regulations 2004 (S.I. 2004/3254) which provided for the execution and enforcement of the feed safety requirements of Regulation 178/2002.
+
+Part 3 applies only to feed for food-producing animals, and makes contravention of various specified provisions of Regulation 178/2002 an offence (regulation 15). The specified provisions are–
+
+- (a) Article 12, which specifies the conditions under which feed may be exported from member States to countries outside the European Community;
+- (b) Article 15, which prohibits the marketing or feeding of unsafe feed;
+- (c) Article 16, which stipulates that feed must not be advertised, labelled, packaged or otherwise presented in such a way as to mislead consumers;
+- (d) Article 18, which requires feed businesses to have systems in place that enable them to identify the person from whom they acquired a product and the person to whom they supplied any product; and
+- (e) Article 20, which sets out the various responsibilities of feed business operators, including the duty to withdraw or recall unsafe feed, to destroy it if considered necessary by the competent authority, and to pass on all relevant information and co-operate generally with the competent authority and others in the interests of feed safety.
+
+Part 4 of these Regulations provides for the administration and enforcement of the law relating to animal feed listed in Schedule 1. In so doing these Regulations revoke the Feeding Stuffs (Enforcement) Regulations 1999 (S.I. 1999/2325), re-enact with amendments most of the provisions contained in those Regulations and introduce further provisions needed to comply with the requirements of Regulation 882/2004. Regulation 882/2004 repealed Council Directive [95/53/EC](https://www.legislation.gov.uk/european/directive/1995/0053) fixing the principles governing the organisation of official inspections in the field of animal nutrition. That Directive was implemented in part by S.I. 1999/2325.
+
+In particular Part 4–
+
+- (a) makes provision for the serving of an improvement notice where a feed business appears to the enforcement authority to be failing to comply with feed law (regulation 17);
+- (b) provides for a right of appeal to the sheriff against an improvement notice, and sets out the procedures to be followed (regulation 18);
+- (c) allows for the decision of a sheriff under certain provisions of these Regulations to be appealed to the Court of Session (regulation 19);
+- (d) specifies that where an appeal is lodged against an improvement notice, the period specified in the notice ceases to run while the appeal is in progress (regulation 20);
+- (e) provides for the circumstances in which a feed business prohibition order may be imposed by a court, and the procedures to be followed (regulation 21);
+- (f) provides for the service of emergency prohibition notices by the enforcement authority and emergency prohibition orders by the sheriff in certain circumstances(regulation 22);
+- (g) specifies the penalties applicable to offences in relation to improvement notices, prohibition orders, emergency prohibition notices and emergency prohibition orders (regulation 23);
+- (h) makes provision for the necessary powers to enable authorised officers of enforcement authorities to enter premises, inspect feed, plant and equipment, documentary records etc, and take samples of feed and copies of records (regulation 24);
+- (i) provides authorised officers with the power to seize and detain feed which appears not to comply with feed law, and sets out the procedure to be followed in bringing the matter before the sheriff (regulation 25);
+- (j) specifies the procedures to be followed when serving notice under these Regulations (regulation 26);
+- (k) sets out certain offences relating to the exercise of an authorised officer's powers, including obstruction or impersonation of an officer, or disclosure of confidential information by an officer (regulation 27); and
+- (l) makes provision for the recovery by an enforcement authority of expenditure incurred in consequence of a feed business's non-compliance with feed law (regulation 28).
+
+Additionally, in Part 4 these Regulations–
+
+- (m) apply, as modified, various provisions of the Feeding Stuffs (Sampling and Analysis) Regulations 1999 (S.I. 1999/1663), (regulation 29);
+- (n) lay down procedures relating to the analysis of a feed sample taken by an authorised officer (regulation 30);
+- (o) make further general provisions relating to sampling and analysis including the offence of tampering with a sample (regulation 31);
+- (p) specify additional circumstances in which the Scottish Ministers may appoint persons to act as authorised officers (regulation 32(1)), and place conditions on an authorised officer acting outside the area of the enforcement authority by which the officer is appointed (regulation 32(2));
+- (q) provide for limitations on the liability of an authorised officer or agricultural analyst (regulation 33);
+- (r) make provisions relating to various defences to offences under these Regulations (regulation 34);
+- (s) provide for the potential personal liability of officers of corporate bodies or partners in Scottish partnerships that contravene these Regulations (regulation 35);
+- (t) specify time limits for the initiation of prosecutions (regulation 36); and
+- (u) revoke those Regulations or parts of Regulations listed in Schedule 3 (regulation 37).
+
+A full regulatory impact assessment, which includes a compliance cost assessment of the effect that these Regulations will have on business costs has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Food Standards Agency (Scotland), 6th Floor, St Magnus House, 25 Guild Street, Aberdeen AB11 6NJ.
+
+## Annotations
+
+[^c1253340]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), Schedule 8, paragraph 15(3). The function conferred on a Minister of the Crown under section 2(2) of the 1972 Act, so far as within devolved competence, was transferred to the Scottish Ministers by section 53 of the 1998 Act.
+
+[^c1253341]: Marginal citation: O.J. No. L 31, 1.2.02, p.1. That Regulation was last amended by Regulation (EC) No. 1642/2003 of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4).
+
+[^key-32a4fe57bc1df607c57f502fb5e036ec]: Modification: Regulations applied (with modifications) (3.1.2006) by [The Feeding Stuffs (Application to Zootechnical Additives etc.) (Scotland) Regulations 2005 (S.I. 2005/3362)](https://www.legislation.gov.uk/uksi/2005/3362), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2005/3362/regulation/1/c), [5](https://www.legislation.gov.uk/uksi/2005/3362/regulation/5)
+
+[^c1253342]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
+
+[^key-4f0fdba9de2c4b70ba44c3d7721b8a63]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/2/a)
+
+[^key-963f3ebe1f2e4f987282e250979b7c85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/2/c)
+
+[^key-abb607156cad40acc379a7adf55f7309]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) inserted (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [regs. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [15(2)(a)](https://www.legislation.gov.uk/ssi/2010/373/regulation/15/2/a)
+
+[^key-214880674e4be4ed91ad35f1454b4476]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) substituted (20.9.2009) by [The Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/263)](https://www.legislation.gov.uk/ssi/2009/263), [regs. 1](https://www.legislation.gov.uk/ssi/2009/263/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/263/regulation/2/2)
+
+[^key-189392484af8c5391fd1ca1259e14054]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) inserted (20.6.2008) by [The Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/201)](https://www.legislation.gov.uk/ssi/2008/201), [regs. 1](https://www.legislation.gov.uk/ssi/2008/201/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/201/regulation/2/2) (with [reg. 4(1)](https://www.legislation.gov.uk/ssi/2008/201/regulation/4/1))
+
+[^key-7fe34d316c0122248f13bb033e5c114c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/2/b)
+
+[^key-f3eb17b7b952fa81ba5a7881856692a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) omitted (15.11.2010) by virtue of [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [21(2)(a)](https://www.legislation.gov.uk/ssi/2010/354/regulation/21/2/a)
+
+[^key-488f7b5822001337429751a05bd45919]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) substituted (15.11.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [21(2)(b)](https://www.legislation.gov.uk/ssi/2010/354/regulation/21/2/b)
+
+[^key-46bf93438df2584dca751ca8f63a2c3d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/2/a/i)
+
+[^c1253346]: Marginal citation: O.J. No. L 245, 29.9.03, p.4.
+
+[^c1253347]: Marginal citation: O.J. No. L 268, 18.10.03, p.29. That Regulation was last amended by Commission Regulation (EC) No. 378/2005 on detailed rules for the implementation of Regulation (EC) No. 1831/2003 of the European Parliament and of the Council as regards the duties and tasks of the Community Reference Laboratory concerning applications for authorisations of feed additives.
+
+[^key-0347bb6ab5fd6d5341f4adfcbf91ee69]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/2/a/ii)
+
+[^key-63791e6a55224beacb02474b60a5442e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) substituted (12.1.2014) by [The Feed (Hygiene and Enforcement) and Animal Feed (Scotland) Amendment Regulations 2013 (S.S.I. 2013/340)](https://www.legislation.gov.uk/ssi/2013/340), [regs. 1](https://www.legislation.gov.uk/ssi/2013/340/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2013/340/regulation/2/2/a)
+
+[^key-87dac2be011ba6f33fa4c01a6b968996]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) inserted (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [regs. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [15(2)(b)](https://www.legislation.gov.uk/ssi/2010/373/regulation/15/2/b)
+
+[^key-ee59bb79019fc39a39ccd10fd558c4db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) inserted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/2/a/iii)
+
+[^key-0012170c743a0d32f2ca2ad0112ce771]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/1) omitted (15.11.2010) by virtue of [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [21(2)(c)](https://www.legislation.gov.uk/ssi/2010/354/regulation/21/2/c)
+
+[^key-0e99ac2132400402d89a14113f31c894]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/2) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/2/b/i)
+
+[^key-3ab4a951dcc4b814b75fcb367212f7ae]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/2) inserted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/2/b/ii)
+
+[^c1253350]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-e991c203dc65a645f72b45ec5c58978a]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/ssi/2005/608/regulation/2/5) inserted (12.1.2014) by [The Feed (Hygiene and Enforcement) and Animal Feed (Scotland) Amendment Regulations 2013 (S.S.I. 2013/340)](https://www.legislation.gov.uk/ssi/2013/340), [regs. 1](https://www.legislation.gov.uk/ssi/2013/340/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2013/340/regulation/2/2/b)
+
+[^key-815d537990dfca9c2f9fd7f9bbfbe388]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2005/608/regulation/4) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/3)
+
+[^key-4f73ad55b8fbb50ac70f0b683ffdb816]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2005/608/regulation/7) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/4)
+
+[^key-3eaa30b5606734746668b58a96488802]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/ssi/2005/608/regulation/8) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/5/a)
+
+[^key-e55f54fdea5cb9fd4e826722cbc5ce53]: Textual amendment: Words in [reg. 8(e)](https://www.legislation.gov.uk/ssi/2005/608/regulation/8/e) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/5/b)
+
+[^key-27a10b9ab3083c30f6180baf190b6097]: Textual amendment: Words renumbered as reg. 9(2) (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(6)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/6)
+
+[^key-0342bd2c362e55ace84b9c90da8f54a5]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/ssi/2005/608/regulation/11/3) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(7)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/7)
+
+[^key-59c1dbd1ceda85e07651b339f8679e77]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/12/1) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(8)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/8)
+
+[^key-36a40522f8bd2e47e5da5b8588c72eee]: Textual amendment: Words in [reg. 15(2)(b)](https://www.legislation.gov.uk/ssi/2005/608/regulation/15/2/b) omitted (23.11.2010) by virtue of [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [regs. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [15(3)](https://www.legislation.gov.uk/ssi/2010/373/regulation/15/3)
+
+[^key-3398a9248342cfde5f7cb0acd8248867]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/ssi/2005/608/regulation/15/3) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(9)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/9)
+
+[^key-4f26478aaea2159c9f844b5aca10d82c]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2005/608/regulation/16) substituted (20.9.2009) by [The Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/263)](https://www.legislation.gov.uk/ssi/2009/263), [regs. 1](https://www.legislation.gov.uk/ssi/2009/263/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2009/263/regulation/2/4)
+
+[^key-1d2ffcd6778c881c6c34313190f529c6]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/16/1) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(10)(a)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/10/a)
+
+[^key-b591312d4d0ef3b953f8aede5cf40bde]: Textual amendment: [Reg. 16(2)](https://www.legislation.gov.uk/ssi/2005/608/regulation/16/2) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(10)(b)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/10/b)
+
+[^key-346fbda0a9878809e440b8d7092321f1]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/ssi/2005/608/regulation/16/3) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(10)(c)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/10/c)
+
+[^key-fa512824a38468fc925c098e792331eb]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/ssi/2005/608/regulation/19) heading substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(11)(a)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/11/a)
+
+[^key-98a5a1679f2b7b700de89afd30c337e4]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/ssi/2005/608/regulation/19) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(11)(b)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/11/b)
+
+[^key-2bbcc21733f68744787721238a7efbf0]: Textual amendment: [Reg. 24(13)](https://www.legislation.gov.uk/ssi/2005/608/regulation/24/13) substituted (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [regs. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [15(4)](https://www.legislation.gov.uk/ssi/2010/373/regulation/15/4)
+
+[^key-5d4c5158b50153e231fc9a7cde5fc230]: Textual amendment: [Reg. 24(13)(c)](https://www.legislation.gov.uk/ssi/2005/608/regulation/24/13/c) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/3)
+
+[^c1253352]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^key-2cdf15f8607c1ec51852cfb777c50058]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/ssi/2005/608/regulation/24A) inserted (26.12.2006) by [The Feeding Stuffs (Scotland) and the Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/578)](https://www.legislation.gov.uk/ssi/2006/578), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/578/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2006/578/regulation/3/2)
+
+[^key-36d3cca7ae1db3487cbbe8b411da8a9a]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/ssi/2005/608/regulation/27/4) inserted (26.12.2006) by [The Feeding Stuffs (Scotland) and the Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/578)](https://www.legislation.gov.uk/ssi/2006/578), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/578/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2006/578/regulation/3/3)
+
+[^key-5597f753259f3fc5b7aac9ccdb4a83b6]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/ssi/2005/608/regulation/28) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/4)
+
+[^key-17fec560749566f73604309c9f14bddf]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/ssi/2005/608/regulation/29) substituted (15.11.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [21(3)](https://www.legislation.gov.uk/ssi/2010/354/regulation/21/3)
+
+[^key-1d01ec42530f84f13865446de5719847]: Textual amendment: [Reg. 29(3)](https://www.legislation.gov.uk/ssi/2005/608/regulation/29/3) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(12)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/12)
+
+[^key-e296f076a5dde934e3b86fbf06ce8622]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/30/1) inserted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(5)(a)(i)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/5/a/i)
+
+[^key-d0010cf75e8231b1aa974ad3a280c1ed]: Textual amendment: [Reg. 30(1)(b)](https://www.legislation.gov.uk/ssi/2005/608/regulation/30/1/b) substituted (15.11.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [21(4)(a)](https://www.legislation.gov.uk/ssi/2010/354/regulation/21/4/a)
+
+[^key-515a829a1d08aff5d2ea82df2fca449f]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/ssi/2005/608/regulation/30/1/b) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(13)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/13)
+
+[^key-a6f1ae208f433759154b6efcae6bbd95]: Textual amendment: [Reg. 30(1)(c)](https://www.legislation.gov.uk/ssi/2005/608/regulation/30/1/c) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/5/a/ii)
+
+[^key-48b3d3318444d62bd81313f0f70efe07]: Textual amendment: [Reg. 30(3)](https://www.legislation.gov.uk/ssi/2005/608/regulation/30/3) substituted (15.11.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [21(4)(b)](https://www.legislation.gov.uk/ssi/2010/354/regulation/21/4/b)
+
+[^key-7c5716d944abe88977d2f25dfb150d9c]: Textual amendment: Words in [reg. 30(4)](https://www.legislation.gov.uk/ssi/2005/608/regulation/30/4) omitted (15.11.2010) by virtue of [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [21(4)(c)](https://www.legislation.gov.uk/ssi/2010/354/regulation/21/4/c)
+
+[^key-82a6d2b506acb7549768ca1115fd7528]: Textual amendment: [Reg. 30(4)(a)](https://www.legislation.gov.uk/ssi/2005/608/regulation/30/4/a)[(b)](https://www.legislation.gov.uk/ssi/2005/608/regulation/30/4/b) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/5/b)
+
+[^key-19d313d0d0d9c2fb2241467c408090f6]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/ssi/2005/608/regulation/31/2) omitted (15.11.2010) by virtue of [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [21(5)(a)](https://www.legislation.gov.uk/ssi/2010/354/regulation/21/5/a)
+
+[^key-fc6337f34383cd4742c691f52162b5fb]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/ssi/2005/608/regulation/31/3) omitted (15.11.2010) by virtue of [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [21(5)(b)](https://www.legislation.gov.uk/ssi/2010/354/regulation/21/5/b)
+
+[^key-22c295f8d65c01ede594c2b3fafa5155]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/ssi/2005/608/regulation/31A) inserted (20.6.2008) by [The Feed (Hygiene and Enforcement) (Scotland) Amendment Regulations 2008 (S.S.I. 2008/201)](https://www.legislation.gov.uk/ssi/2008/201), [regs. 1](https://www.legislation.gov.uk/ssi/2008/201/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2008/201/regulation/2/3)
+
+[^key-7c5b8e3236458867420f243983a55d0f]: Textual amendment: [Reg. 31A(3)(a)](https://www.legislation.gov.uk/ssi/2005/608/regulation/31A/3/a) substituted (15.11.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) (Scotland) Regulations 2010 (S.S.I. 2010/354)](https://www.legislation.gov.uk/ssi/2010/354), [regs. 1](https://www.legislation.gov.uk/ssi/2010/354/regulation/1), [21(6)](https://www.legislation.gov.uk/ssi/2010/354/regulation/21/6)
+
+[^key-fd866f124b61ac19487b82ccfb610c6a]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/ssi/2005/608/regulation/32) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(14)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/14)
+
+[^key-4ffacb7df034985f4005fcb0f8d792fe]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/34/1)[(2)](https://www.legislation.gov.uk/ssi/2005/608/regulation/34/2) inserted (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [regs. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [15(5)](https://www.legislation.gov.uk/ssi/2010/373/regulation/15/5)
+
+[^key-7ec4d7958765e7a42cd53d4f07a41dab]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/35/1)[(3)](https://www.legislation.gov.uk/ssi/2005/608/regulation/35/3) inserted (23.11.2010) by virtue of [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [regs. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [15(5)](https://www.legislation.gov.uk/ssi/2010/373/regulation/15/5)
+
+[^key-68dc335331895a5e6f89182ad93058f4]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/ssi/2005/608/regulation/36/1) inserted (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [regs. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [15(5)](https://www.legislation.gov.uk/ssi/2010/373/regulation/15/5)
+
+[^key-6a1573f56cfbdefeae905e0d9a9a2a6d]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/ssi/2005/608/regulation/38) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [5(15)](https://www.legislation.gov.uk/ssi/2020/467/regulation/5/15)
+
+[^key-9d47ddb7f82bc79cf084fc3ce49f6b62]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/608/schedule/1) inserted (6.2.2018) by [The Animal Feed (Basic Safety Standards) (Scotland) Regulations 2018 (S.S.I. 2018/15)](https://www.legislation.gov.uk/ssi/2018/15), [regs. 1](https://www.legislation.gov.uk/ssi/2018/15/regulation/1), [9](https://www.legislation.gov.uk/ssi/2018/15/regulation/9)
+
+[^key-42836332ceb1f382d62b3663431c5c1c]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/608/schedule/1) omitted (23.11.2010) by virtue of [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [regs. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [15(6)(a)](https://www.legislation.gov.uk/ssi/2010/373/regulation/15/6/a)
+
+[^key-f75414bfc60c72ee6e7282340a204588]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/608/schedule/1) substituted (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [regs. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [15(6)(b)](https://www.legislation.gov.uk/ssi/2010/373/regulation/15/6/b)
+
+[^key-45ca63504cd446d5d2ed10f638ae194c]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/608/schedule/1) inserted (1.1.2006) by [The Official Feed and Food Controls (Scotland) Regulations 2005 (S.S.I. 2005/616)](https://www.legislation.gov.uk/ssi/2005/616), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2005/616/regulation/1/b), [48(2)](https://www.legislation.gov.uk/ssi/2005/616/regulation/48/2)
+
+[^key-41cd573d91dd2a7b1a31001ad5adf28e]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/608/schedule/1) substituted (25.1.2010) by [The Official Feed and Food Controls (Scotland) Regulations 2009 (S.S.I. 2009/446)](https://www.legislation.gov.uk/ssi/2009/446), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2009/446/regulation/1/b), [51(a)](https://www.legislation.gov.uk/ssi/2009/446/regulation/51/a)
+
+[^key-3ef5c5f9ae1595d2cb16d167f574f3c1]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/608/schedule/1) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/6/a)
+
+[^key-5996c57af728e686ee1698481fe924a9]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/608/schedule/1) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/6/b)
+
+[^key-4df3558ad99937fca88ecbcbcaea54c8]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/608/schedule/1) inserted (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [regs. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [15(6)(c)](https://www.legislation.gov.uk/ssi/2010/373/regulation/15/6/c)
+
+[^key-ac0734342f4801a4e67a399b6d1e8f4b]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2005/608/schedule/1) inserted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [3(6)(c)](https://www.legislation.gov.uk/ssi/2019/407/regulation/3/6/c)
+
+[^key-6283f9f3a2ffa915dfb356c39fe77861]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2005/608/schedule/2) substituted (12.1.2014) by [The Feed (Hygiene and Enforcement) and Animal Feed (Scotland) Amendment Regulations 2013 (S.S.I. 2013/340)](https://www.legislation.gov.uk/ssi/2013/340), [reg. 1](https://www.legislation.gov.uk/ssi/2013/340/regulation/1), [sch. 1](https://www.legislation.gov.uk/ssi/2013/340/schedule/1)
+
+[^c1253356]: Marginal citation: [S.I. 1999/1872](https://www.legislation.gov.uk/uksi/1999/1872) as amended by [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62) and 453, 2003/101 and 277 and 2005/116.
+
+[^c1253357]: Marginal citation: [S.I. 1999/2325](https://www.legislation.gov.uk/uksi/1999/2325) as amended by [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62) and 453, 2001/104 and 334, 2002/285, [S.I. 2003/1026](https://www.legislation.gov.uk/uksi/2003/1026) and [S.S.I. 2003/277](https://www.legislation.gov.uk/ssi/2003/277).
+
+[^c1253358]: Marginal citation: [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62), as amdended by [S.S.I. 2002/255](https://www.legislation.gov.uk/ssi/2002/255).
+
+[^c1253359]: Marginal citation: [S.S.I. 2001/104](https://www.legislation.gov.uk/ssi/2001/104).
+
+[^c1253360]: Marginal citation: [S.S.I. 2001/334](https://www.legislation.gov.uk/ssi/2001/334).
+
+[^c1253361]: Marginal citation: [S.S.I. 2002/285](https://www.legislation.gov.uk/ssi/2002/285).
+
+[^c1253362]: Marginal citation: [S.S.I. 2003/101](https://www.legislation.gov.uk/ssi/2003/101).
+
+[^c1253363]: Marginal citation: [S.I. 2003/1026](https://www.legislation.gov.uk/uksi/2003/1026).
+
+[^c1253364]: Marginal citation: [S.S.I. 2003/277](https://www.legislation.gov.uk/ssi/2003/277).
+
+[^c1253365]: Marginal citation: [S.I. 2004/3254](https://www.legislation.gov.uk/uksi/2004/3254).
+
+[^c1253366]: Marginal citation: [S.S.I. 2005/116](https://www.legislation.gov.uk/ssi/2005/116).

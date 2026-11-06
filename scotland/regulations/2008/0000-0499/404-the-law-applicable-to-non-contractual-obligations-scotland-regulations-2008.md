@@ -1,0 +1,133 @@
+---
+title: The Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008
+id: ssi/2008/404
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-12-03'
+text_date: '2024-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2008/404
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2008/404/pdfs/ssien_20080404_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/404/pdfs/ssi_20080404_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/404/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008
+
+> Text as at 2024-01-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2008 No. 404
+
+PRIVATE INTERNATIONAL LAW
+
+The Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008
+
+Made
+
+3rd December 2008
+
+Laid before the Scottish Parliament
+
+4th December 2008
+
+Coming into force
+
+11th January 2009
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and extent[^key-d9ecec37668382ed34b1fc4ed6d894fc]
+
+(1) These Regulations may be cited as the Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008 and come into force on 11th January 2009.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Restriction on the application of existing choice of law rules in delict cases[^key-0b568bc57a4fe10e22a31abefb0ae138]
+
+In the Private International Law (Miscellaneous Provisions) Act 1995[^f00002]–
+
+- (a) after section 15A[^f00003] insert–
+
+  > **15B. Disapplication of Part III where the rules in the Rome II Regulation apply: Scotland**
+  >
+  > (1) Nothing in this Part applies to affect the determination of issues relating to delict which fall to be determined under the Rome II Regulation.
+  >
+  > (2) In subsection (1) “the Rome II Regulation” means Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations (Rome II)[^f00004], including that Regulation as applied by regulation 4 of the Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008 (conflicts falling within Article 25(2) of Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864)).
+  >
+  > (3) This section extends to Scotland only.
+
+  ; and
+- (b) at the beginning of section 18(3)(extent) insert “Except where otherwise provided,”.
+
+## 3. Restriction on the application of existing choice of law rules on prescription and limitation[^key-87e78bba4226ba7101bd93e8a174cf7f]
+
+In section 23A (private international law application) of the Prescription and Limitation (Scotland) Act 1973[^f00005] after subsection (3) insert–
+
+> (4) This section shall not apply in any case where the law of a country other than Scotland falls to be applied by virtue of any choice of law rule contained in the Rome II Regulation.
+>
+> (5) In subsection (4) “the Rome II Regulation” means Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations (Rome II), including that Regulation as applied by regulation 4 of the Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008 (conflicts falling within Article 25(2) of Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864)).
+
+.
+
+## 4. Application of Regulation [(EC) No 864/2007](https://www.legislation.gov.uk/eur/2007/864)[^key-abb0d5d2b9773f6b4605d1a362a2ab91][^key-87879c66fc8be0189b505e383ee5e014]
+
+[^key-b51f0d588693631f4291520569eda5f0]... Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations (Rome II) as that Regulation has effect as[^key-a05482a63e171a8d18d4e0f61a28f076] assimilated direct[^key-3dcf537f71343295a57f1134ae8182eb] legislation, shall apply in the case of conflicts between–
+
+- (a) the laws of different parts of the United Kingdom; or
+- (b) between the laws of one or more parts of the United Kingdom and Gibraltar,
+
+as it applies in the case of conflicts between the laws of other countries.
+
+KENNY MACASKILL
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+(This note is not part of the Regulations)
+
+These Regulations concern Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations (Rome II) (“Rome II”). Rome II establishes uniform choice of law rules in the field of non-contractual obligations, principally in the context of proceedings in delict, but also in relation to proceedings for unjust enrichment and some other non-contractual obligations. Rome II enables courts in the European Community to determine the national laws to be applied in cases with a cross-border dimension.
+
+These Regulations amend the Private International Law (Miscellaneous Provisions) Act 1995 and the Prescription and Limitation (Scotland) Act 1993 so that they do not apply to cases which fall to be determined under Rome II (regulations 2 and 3).
+
+These Regulations also extend the application of Rome II to conflicts between the laws of Scotland, England and Wales and Northern Ireland and Gibraltar (regulation 4).
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3) and section 27 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51). The functions conferred upon the Minister of the Crown under section 2(2) of the 1972 Act, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^key-d9ecec37668382ed34b1fc4ed6d894fc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
+
+[^key-0b568bc57a4fe10e22a31abefb0ae138]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2008/404/regulation/2) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
+
+[^f00002]: Footnote: [1995 c. 42](https://www.legislation.gov.uk/ukpga/1995/42).
+
+[^f00003]: Footnote: Section 15A (disapplication of Part III where the rules in the Rome II Regulation apply) was inserted for England and Wales and Northern Ireland by S.I. [2008/2986](https://www.legislation.gov.uk/uksi/2008/2986).
+
+[^f00004]: Footnote: O.J. L 199, 31.7.2007, p.40.
+
+[^key-87e78bba4226ba7101bd93e8a174cf7f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2008/404/regulation/3) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
+
+[^f00005]: Footnote: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52). Section 23A was inserted by the Prescription and Limitation (Scotland) Act [1984 (c. 45)](https://www.legislation.gov.uk/ukpga/1984/45).
+
+[^key-abb0d5d2b9773f6b4605d1a362a2ab91]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
+
+[^key-87879c66fc8be0189b505e383ee5e014]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) heading substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b51f0d588693631f4291520569eda5f0]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/834/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a05482a63e171a8d18d4e0f61a28f076]: Textual amendment: Words in reg. 4 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/8/c) (as substituted by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(10)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3dcf537f71343295a57f1134ae8182eb]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/12)

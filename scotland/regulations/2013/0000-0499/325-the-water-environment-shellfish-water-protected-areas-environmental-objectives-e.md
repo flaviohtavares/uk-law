@@ -1,0 +1,216 @@
+---
+title: 'The Water Environment (Shellfish Water Protected Areas: Environmental Objectives etc.) (Scotland) Regulations 2013'
+id: ssi/2013/325
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-11-12'
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/325
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/325/pdfs/ssipn_20130325_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/325/pdfs/ssi_20130325_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/325/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Environment (Shellfish Water Protected Areas: Environmental Objectives etc.) (Scotland) Regulations 2013
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 325
+
+Environmental Protection
+
+Shellfish
+
+Water
+
+The Water Environment (Shellfish Water Protected Areas: Environmental Objectives etc.) (Scotland) Regulations 2013
+
+Made
+
+12th November 2013
+
+Laid before the Scottish Parliament
+
+14th November 2013
+
+Coming into force
+
+22nd December 2013
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 8(5), 9(4) to (6), 10(2)(b), 19(1) and 36(2) and (3) of the Water Environment and Water Services (Scotland) Act 2003[^f00001] (“the Act”) and all other powers enabling them to do so.
+
+## 1. Citation and commencement[^key-ed3b88060c177e853c6c823b979f4947]
+
+These Regulations may be cited as the Water Environment (Shellfish Water Protected Areas: Environmental Objectives etc.) (Scotland) Regulations 2013 and come into force on 22nd December 2013.
+
+## 2. Interpretation[^key-782f4ed752c3c9343587d6c5600441d4]
+
+In these Regulations—
+
+- “the Act” means the Water Environment and Water Services (Scotland) Act 2003;
+- “environmental objective” means an objective set under section 9(1)(a)(ii) of the Act;
+- “pollution” includes pollution by any substance or heat liable to cause pollution, and for the purposes of this definition “substance” includes bacteria and other pathogens;
+- “shellfish water protected area” means the coastal water or transitional water within an area of coastal water or transitional water designated under section 5A(1) of the Act; and
+- “shellfish water quality” means the quality of a shellfish water protected area, assessed in accordance with any quality standards and criteria which the Scottish Ministers direct (in exercise of powers conferred by the Act or any other enactment) SEPA to apply for those purposes.
+
+## 3. Setting of environmental objectives[^key-be3d27e82d0a9d3e7e9e11f90ce819e9]
+
+The objectives set under section 9(1)(a)(ii) of the Act must, subject to the application of regulations 4 to 7—
+
+- (a) prevent deterioration of the shellfish water quality of each shellfish water protected area; and
+- (b) protect and improve each shellfish water protected area with the aim of achieving good shellfish water quality by 22nd December 2015.
+
+## 4. Environmental objectives: phased achievement[^key-0dca69d65d63a831883c580c3869b3fb]
+
+The deadline by which an environmental objective set pursuant to regulation 3(b) must be achieved may be extended for the purposes of the phased achievement of the environmental objectives for a shellfish water protected area, if the following conditions are met—
+
+- (a) no further deterioration occurs in the shellfish water quality of the area;
+- (b) SEPA determines that all necessary improvements in the shellfish water quality of the area cannot reasonably be achieved within the timescale set out in regulation 3(b) for at least one of the following reasons—
+  - (i) the scale of improvements required can only be achieved in phases exceeding the timescale, for reasons of technical feasibility;
+  - (ii) completing the improvements within the timescale would be disproportionately expensive; or
+  - (iii) natural conditions do not allow timely improvement in the shellfish water quality of the area;
+- (c) extensions are limited to a maximum of two updates (or, as the case may be, further updates) of the river basin management plan or the update of it which first sets out the information required by paragraph (d) (except in cases where the natural conditions are such that the environmental objectives set pursuant to regulation 3(b) cannot be achieved within that period);
+- (d) the river basin management plan (or the next update of it) sets out—
+  - (i) the extension of the deadline, and explains the reasons for it;
+  - (ii) a summary of the measures which are envisaged as necessary to bring the area progressively to the required quality by the extended deadline; and
+  - (iii) the reasons for any significant delay in making these measures operational, and the expected timetable for their implementation; and
+- (e) a review of the implementation of the measures referred to in paragraph (d) and a summary of any additional measures is included in updates of the river basin management plan.
+
+## 5. Environmental objectives: human activity or natural condition[^key-ffb69e7de3d01450251d40b53cb79b91]
+
+Less stringent environmental objectives may be set under section 9(1)(a)(ii) of the Act for a shellfish water protected area instead of those required pursuant to regulation 3 when the area is so affected by human activity, or the natural condition of the area is such that the achievement of the environmental objectives required pursuant to regulation 3 would be infeasible or disproportionately expensive, and the following conditions are met—
+
+- (a) the environmental and socio-economic needs served by such human activity cannot be achieved by other means which are a significantly better environmental option not entailing disproportionate costs;
+- (b) the highest shellfish water quality possible is achieved, given impacts that could not reasonably have been avoided due to the nature of the human activity or pollution;
+- (c) no further deterioration occurs in the shellfish water quality of the affected area; and
+- (d) the establishment of less stringent environmental objectives, and the reasons for it, are set out in the river basin management plan (or the next update of it) and those objectives are reviewed every 6 years.
+
+## 6. Environmental objectives: natural cause or force majeure[^key-ab5ca95f88e28c4c98189d5e7796a5f8]
+
+For the purposes of these Regulations and Part 1 of the Act (in particular section 9(7)(b)), a temporary deterioration in the shellfish water quality of a shellfish water protected area is not a breach of the environmental objectives set pursuant to regulation 3 if the deterioration is the result of circumstances of natural cause or force majeure which are exceptional or could not reasonably have been foreseen, or the result of circumstances due to accidents which could not reasonably have been foreseen, and the following conditions are met—
+
+- (a) all practicable steps are taken—
+  - (i) to prevent further deterioration in shellfish water quality of the area; and
+  - (ii) so as not to compromise the achievement of the objectives set under section 9(1)(a)(i) of the Act for any body of water not affected by the circumstances;
+- (b) all practicable measures are taken with the aim of restoring the area to the shellfish water quality it had before the effects of the circumstances as soon as reasonably practicable; and
+- (c) a summary of the effects of the circumstances and of such measures taken or to be taken in accordance with paragraphs (a) and (b) are included in the next update of the river basin management plan.
+
+## 7. Environmental objectives: application of regulations 4 to 6[^key-7fffa619c35e078138b8cca8b83dae2a]
+
+Regulations 4 to 6 must not be applied in a way that—
+
+- (a) permanently excludes or compromises the achievement of the objectives set pursuant to section 9(1)(a)(i) of the Act in relation to any body of water in a river basin district; or
+- (b) is inconsistent with the implementation of any assimilated[^key-317176bcd14b2dce4510550abdecd5f5][^key-d5c07db22c951e49a5c3fa763971d47c] law relating to the environment.
+
+## 8. Content of monitoring programme[^key-c144af3c4187aac3c6040c0013a94306]
+
+(1) The monitoring programme prepared by SEPA under section 8(2) of the Act must (without prejudice to any other requirement of the programme) for each shellfish water protected area in a river basin district—
+
+- (a) cover monitoring of the quality of the area;
+- (b) enable a reliable assessment of—
+  - (i) the shellfish water quality of the area;
+  - (ii) the extent to which each environmental objective set for the area pursuant to regulation 3 has been, or is likely to be, achieved; and
+  - (iii) any risks to the achievement of those environmental objectives; and
+- (c) enable the area to be classified by reference to its shellfish water quality in accordance with any relevant directions given to SEPA by the Scottish Ministers (in exercise of powers conferred by the Act or any other relevant enactment).
+
+(2) Monitoring in relation to each shellfish water protected area pursuant to paragraph (1) must be commenced within the period of 3 months beginning with the date on which the area is designated under section 5A(1) of the Act (instead of the date specified in section 8(3) of the Act).
+
+## 9. Preparation of programme of measures[^key-1f833d3f68d8da148bcc7e290d84cab8]
+
+(1) Each programme of measures under section 9(1)(b) of the Act must include measures to achieve the environmental objectives set for each shellfish water protected area pursuant to regulation 3.
+
+(2) Where monitoring or other data indicate that any such environmental objective set for the shellfish water protected area is unlikely to be achieved, SEPA must take steps to ensure that—
+
+- (a) the causes of the possible failure are investigated;
+- (b) any relevant permits and authorisations are examined and reviewed as appropriate;
+- (c) the associated monitoring programme is reviewed and adjusted as appropriate; and
+- (d) any additional measures needed to achieve those objectives (subject to the application of regulations 4 to 7) are included in the programme of measures applying to that area.
+
+(3) Each measure in the programme of measures to be applied to achieve an environmental objective set pursuant to regulation 3, must be implemented, so far as may be applicable, by—
+
+- (a) the Scottish Ministers in exercising their functions under the relevant enactments;
+- (b) SEPA in exercising its functions under the relevant enactments; and
+- (c) each responsible authority in exercising its designated functions.
+
+(4) Each programme of measures, in so far as it comprises measures to achieve an environmental objective, must be reviewed and, if necessary, updated by 22nd December 2015 and every 6 years after that.
+
+(5) Where a programme of measures is updated under paragraph (4), any new or revised measure to achieve an environmental objective which is included in the updated programme must be implemented within 3 years of the date on which that measure was added or revised.
+
+## 10. Content of river basin management plans[^key-ff63c2484b2d77857323c516fa1ec6bb]
+
+(1) In addition to the matters in Part 1 of schedule 1 to the Act, the river basin management plan (or the next update of it) must include—
+
+- (a) along with the list of environmental objectives required by paragraph 5 of the schedule (for each body of surface water and each body of groundwater in the district)—
+  - (i) a list of the environmental objectives set pursuant to regulation 3 for each shellfish water protected area in a river basin district; and
+  - (ii) in addition to the information which is required to be included by regulations 4, 5 and 6, identification of instances where use has been made of those regulations; and
+- (b) along with the summary of the programme required by paragraph 6 of the schedule—
+  - (i) the ways in which the environmental objectives set pursuant to regulation 3 are to be achieved;
+  - (ii) a summary of the measures taken in relation to any shellfish water protected area which is unlikely to achieve the environmental objectives set pursuant to regulation 3; and
+  - (iii) details of any supplementary measures identified as necessary in order to meet the environmental objectives set pursuant to regulation 3.
+
+(2) In addition to the matters in Part 2 of schedule 1 to the Act, updates of the river basin management plan must include, along with the summary required by paragraph 12 of that schedule, a summary of any reviews carried out under regulations 4(e) and 5(d).
+
+## 11. Modification of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-b95e236e1aa68c0886367907029fef44]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+PAUL WHEELHOUSE
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make further provision in relation to shellfish water protected areas within the Scotland River Basin District in order to support shellfish life and growth and to contribute to the high quality of shellfish products suitable for human consumption.
+
+Section 5A of the Water Environment and Water Services (Scotland) Act 2003 (“the Act”) provides for the designation of any area of coastal water or transitional water as a shellfish water protected area where this is considered necessary or desirable for the protection or development of significant shellfish production. Section 9 of the Act requires the Scottish Environment Protection Agency to set environmental objectives for each shellfish water protected area, and to prepare a programme of measures to be applied to achieve those environmental objectives.
+
+These Regulations make further provision in relation to, in particular, the setting of those environmental objectives and the programme of measures to be applied, together with further provision as regards monitoring requirements and the associated river basin management plan.
+
+These provisions have effect only in relation to shellfish water protected areas within a river basin district designated under section 4 of the Act. The Water Environment and Water Services (Scotland) Act 2003 (Designation of Scotland River Basin District) Order 2003 ([S.S.I. 2003/610](https://www.legislation.gov.uk/ssi/2003/610)) designates a single area (covering most of Scotland) known as the “Scotland River Basin District”.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3); section 9 was amended by section 47(4) of the Aquaculture and Fisheries (Scotland) Act [2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7).
+
+[^key-ed3b88060c177e853c6c823b979f4947]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+
+[^key-782f4ed752c3c9343587d6c5600441d4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/325/regulation/2) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+
+[^key-be3d27e82d0a9d3e7e9e11f90ce819e9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/325/regulation/3) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+
+[^key-0dca69d65d63a831883c580c3869b3fb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/325/regulation/4) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+
+[^key-ffb69e7de3d01450251d40b53cb79b91]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/325/regulation/5) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+
+[^key-ab5ca95f88e28c4c98189d5e7796a5f8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/325/regulation/6) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+
+[^key-7fffa619c35e078138b8cca8b83dae2a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/325/regulation/7) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+
+[^key-317176bcd14b2dce4510550abdecd5f5]: Textual amendment: Word in [reg. 7(b)](https://www.legislation.gov.uk/ssi/2013/325/regulation/7/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 25(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/25/2)
+
+[^key-d5c07db22c951e49a5c3fa763971d47c]: Textual amendment: Words in [reg. 7(b)](https://www.legislation.gov.uk/ssi/2013/325/regulation/7/b) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [5](https://www.legislation.gov.uk/ssi/2022/138/regulation/5)
+
+[^key-c144af3c4187aac3c6040c0013a94306]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/325/regulation/8) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+
+[^key-1f833d3f68d8da148bcc7e290d84cab8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/325/regulation/9) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+
+[^key-ff63c2484b2d77857323c516fa1ec6bb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/325/regulation/10) in force at 22.12.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/325/regulation/1)
+
+[^key-b95e236e1aa68c0886367907029fef44]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/325/regulation/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

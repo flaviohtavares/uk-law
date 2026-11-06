@@ -1,0 +1,212 @@
+---
+title: The Conference of the Parties to the United Nations Framework Convention on Climate Change (Immunities and Privileges) (Scotland) Order 2021
+id: ssi/2021/346
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-09-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2021/346
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/346/pdfs/ssipn_20210346_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/346/pdfs/ssi_20210346_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/346/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Conference of the Parties to the United Nations Framework Convention on Climate Change (Immunities and Privileges) (Scotland) Order 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 346
+
+International Immunities And Privileges
+
+The Conference of the Parties to the United Nations Framework Convention on Climate Change (Immunities and Privileges) (Scotland) Order 2021
+
+Made
+
+29th September 2021
+
+Coming into force in accordance with article 1
+
+At the Court at Balmoral, the 29th day of September 2021
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+This Order is made in exercise of the powers conferred by sections 1 and 5A of the International Organisations Act 1968[^f00001] and all other powers enabling Her Majesty to do so.
+
+In accordance with section 10(1) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament[^f00002].
+
+Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council, to order as follows.
+
+## 1. Citation, commencement, extent and application
+
+(1) This Order may be cited as the Conference of the Parties to the United Nations Framework Convention on Climate Change (Immunities and Privileges) (Scotland) Order 2021.
+
+(2) This Order comes into force on—
+
+- (a) the day after the day on which it is made, or
+- (b) if later, the day after the day on which the Host Country Agreement[^f00003] between the United Kingdom of Great Britain and Northern Ireland and the UNFCCC secretariat enters into force for the United Kingdom.
+
+(3) This Order extends to Scotland only.
+
+(4) This Order applies only to the extent that the privileges and immunities conferred by it are not conferred by any other enactment.
+
+## 2. Interpretation
+
+In this Order—
+
+- “the Conference” means the conference convened by the COP comprising—
+  - (a) the 26th session of the COP,
+  - (b) the 16th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol,
+  - (c) the third session of the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement, and
+  - (d) all related pre-sessional meetings, sessions of subsidiary bodies and additional meetings, convened in the United Kingdom,
+- “the 1961 Convention Articles” means the Articles (being certain of the Articles of the Vienna Convention of Diplomatic Relations signed in 1961) which are set out in schedule 1 of the Diplomatic Privileges Act 1964[^f00004],
+- “the COP” means the organisation of the Conference of the Parties to the UNFCCC being an organisation to which section 1 of the International Organisations Act 1968 applies[^f00005],
+- “devolved and local taxes” means devolved taxes and local taxes to fund local authority expenditure (within the meaning of the exceptions to Section A1 (fiscal, economic and monetary policy) of Part 2 of schedule 5 of the Scotland Act 1998[^f00006]),
+- “the Kyoto Protocol” means the protocol to the UNFCCC signed in Kyoto on 11 December 1997[^f00007],
+- “the Paris Agreement” means the agreement adopted at the 21st Conference of the Parties of the UNFCCC, signed in Paris on 12 December 2015[^f00008],
+- “the UNFCCC” means the United Nations Framework Convention on Climate Change, adopted in New York on 9 May 1992[^f00009],
+- “the UNFCCC secretariat” means the secretariat of the UNFCCC, the Kyoto Protocol and the Paris Agreement established under Article 8 of the UNFCCC.
+
+## 3. Immunities and privileges for representatives of parties to the UNFCCC, Kyoto Protocol and Paris Agreement
+
+(1) Except in so far as in any particular case any privilege or immunity is expressly waived by the respective party, representatives of parties to the UNFCCC, parties to the Kyoto Protocol and parties to the Paris Agreement who are, or are to be, representatives at the Conference enjoy—
+
+- (a) immunity from suit and legal process in respect of things done by them or omitted to be done by them while exercising their official functions in connection with the Conference,
+- (b) while exercising their official functions in connection with the Conference and during their journeys to and from the Conference, the like inviolability of any private residence used by the representative, the like immunity from personal arrest or detention and the like exemption or relief from all devolved and local taxes as are accorded to the head of a diplomatic mission,
+- (c) while exercising their official functions in connection with the Conference and during their journeys to and from the Conference, the like exemptions and privileges in respect of their personal baggage as, in accordance with paragraph 2 of Article 36 of the 1961 Convention Articles, are accorded to a diplomatic agent, and
+- (d) while exercising their official functions in connection with the Conference and during their journeys to and from the Conference, exemptions whereby, for the purposes of the requirements of any enactment relating to social security—
+  - (i) services rendered for the party by the representative are deemed excepted from any class of employment in respect of which contributions or premiums under those enactments are payable, but
+  - (ii) the representative may not be rendered liable to pay any contribution or premium which the person would not be required to pay if those services were not deemed to be so excepted.
+
+(2) Where the incidence of any form of devolved or local tax depends upon residence, a representative referred to in paragraph (1) is deemed not to be resident in the United Kingdom during any period when the representative is present in the United Kingdom for the exercise of their official functions in connection with the Conference.
+
+## 4. Immunities and privileges for representatives of observer states
+
+(1) Except in so far as in any particular case any privilege or immunity is expressly waived by the respective observer state, representatives of observer states, who are, or are to be, representatives at the Conference, enjoy—
+
+- (a) immunity from suit and legal process in respect of things done by them or omitted to be done by them while exercising their official functions in connection with the Conference,
+- (b) while exercising their official functions in connection with the Conference and during their journeys to and from the Conference, the like inviolability of any private residence used by the representative, the like immunity from personal arrest or detention and the like exemption or relief from all devolved and local taxes as are accorded to the head of a diplomatic mission,
+- (c) while exercising their official functions in connection with the Conference and during their journeys to and from the Conference, the like exemptions and privileges in respect of their personal baggage as in accordance with paragraph 2 of Article 36 of the 1961 Convention Articles are accorded to a diplomatic agent, and
+- (d) while exercising their official functions in connection with the Conference and during their journeys to and from the Conference, exemptions whereby, for the purposes of the requirements of any enactment relating to social security—
+  - (i) services rendered for the observer state by the representative are deemed excepted from any class of employment in respect of which contributions or premiums under those enactments are payable, but
+  - (ii) the representative may not be rendered liable to pay any contribution or premium which the person would not be required to pay if those services were not deemed to be so excepted.
+
+(2) Where the incidence of any form of devolved or local tax depends upon residence, a representative referred to in paragraph (1) is deemed not to be resident in the United Kingdom during any period when the representative is present in the United Kingdom for the exercise of their official functions in connection with the Conference.
+
+(3) In this article, “observer states” means the observer states referred to in—
+
+- (a) paragraph 6 of Article 7 of the UNFCCC,
+- (b) paragraph 8 of Article 13 of the Kyoto Protocol, or
+- (c) paragraph 8 of Article 16 of the Paris Agreement.
+
+## 5. Immunity from suit and legal process for representatives of the Executive Board of the Clean Development Mechanism
+
+Except in so far as in any particular case such immunity is expressly waived by the Secretary General of the United Nations, representatives of the Executive Board of the Clean Development Mechanism, who are, or are to be, representatives at a meeting hosted by the Executive Board forming part of the Conference, enjoy immunity from suit and legal process in respect of things done or omitted to be done by them while exercising their official functions in connection with the meeting.
+
+## 6. Immunities and privileges for officials of the specialized agencies of the United Nations
+
+(1) Except in so far as in any particular case any privilege or immunity is waived by or on behalf of the specialized agency concerned, the executive heads of the specialized agencies of the United Nations, who are, or are to be, representatives at the Conference and are participating in or performing functions in relation to the Conference enjoy in connection with the Conference—
+
+- (a) the like immunity from suit and legal process as is accorded to the head of a diplomatic mission,
+- (b) the like inviolability of any private residence used by the executive head and the like exemption or relief from all devolved and local taxes as are accorded to the head of a diplomatic mission,
+- (c) the like exemption and privileges in respect of their personal baggage as, in accordance with paragraph 2 of Article 36 of the 1961 Convention Articles, are accorded to a diplomatic agent, and
+- (d) exemptions whereby, for the purposes of the requirements of any enactment relating to social security—
+  - (i) services rendered for the specialized agency by the executive head in connection with the Conference are deemed excepted from any class of employment in respect of which contributions or premiums under those enactments are payable, but
+  - (ii) the executive head may not be rendered liable to pay any contribution or premium which they would not be required to pay if those services were not deemed to be so excepted.
+
+(2) Except in so far as in any particular case any privilege or immunity is expressly waived by or on behalf of the specialized agency concerned, officers of the specialized agencies of the United Nations (other than those who are locally recruited and assigned to hourly rates of pay) and experts performing missions for a specialized agency, who are, or are to be, representatives at the Conference and are participating in or performing official functions in connection with the Conference, enjoy immunity from suit and legal process in respect of things done by them or omitted to be done by them in their official capacity.
+
+(3) In paragraph (1), references to an executive head of a specialized agency includes an official acting on behalf of an executive head during an absence from duty.
+
+(4) In this article, “specialized agencies of the United Nations” means—
+
+- (a) the Food and Agriculture Organization,
+- (b) the International Civil Aviation Organization,
+- (c) the International Fund for Agricultural Development,
+- (d) the International Labour Organization,
+- (e) the International Monetary Fund,
+- (f) the International Maritime Organization,
+- (g) the International Telecommunications Union,
+- (h) the United Nations Educational, Scientific and Cultural Organization,
+- (i) the United Nations Industrial Development Organization,
+- (j) the Universal Postal Union,
+- (k) the World Bank, comprising—
+  - (i) the International Bank for Reconstruction and Development,
+  - (ii) the International Development Association,
+  - (iii) the International Finance Corporation,
+  - (iv) the International Centre for Settlement of Investment Disputes, and
+  - (v) the Multilateral Investment Guarantee Agency,
+- (l) the World Health Organization,
+- (m) the World Intellectual Property Organization,
+- (n) the World Meteorological Organization,
+- (o) the World Tourism Organization.
+
+## 7. Immunity from suit and legal process for other representatives
+
+(1) Except in so far as in any particular case such immunity is expressly waived by the Secretary General of the United Nations, core officials of the Adaptation Fund, the Green Climate Fund or the Global Environment Facility who are, or are to be, representatives at the Conference, enjoy immunity from suit and legal process in respect of things done by them or omitted to be done by them while exercising their official functions in connection with the Conference.
+
+(2) In this article a “core official” is an official who is essential to the participation of their organisation in the Conference in order to enable their organisation to discharge, and report on, its mandate to—
+
+- (a) the 26th session of the COP,
+- (b) the 16th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol, or
+- (c) the third session of the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement.
+
+## 8. Disapplication in respect of members of the official staffs and families of persons referred to in articles 3 to 7
+
+Part 4 of schedule 1 of the International Organisations Act 1968[^f00010] does not operate so as to confer any privilege or immunity on—
+
+- (a) a member of the official staff of any person referred to in articles 3 to 7,
+- (b) the family of any person referred to in articles 3 to 7, or
+- (c) the family of a member of the official staff of any person referred to in articles 3 to 7.
+
+## 9. Disapplication in respect of representatives of the United Kingdom, members of official staff and citizens and permanent residents of the United Kingdom
+
+Neither this Order nor Part 4 of schedule 1 of the International Organisations Act 1968 operates so as to confer any privilege or immunity—
+
+- (a) on any person as the representative of the United Kingdom or as a member of the official staff of such a representative, or
+- (b) on any person referred to in article 3, 4 or 7 who is a British citizen, British overseas territories citizen, British Overseas citizen, British National (Overseas) or a permanent resident of the United Kingdom.
+
+Ceri King
+
+Deputy Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order confers immunities and privileges, in so far as they are within devolved competence, in relation to the Conference of the Parties to the United Nations Framework Convention on Climate Change (“the COP”).
+
+Privileges and immunities are conferred on representatives of its members and other representatives in attendance at the 26th Conference of the Parties to the United Nations Framework Convention on Climate Change to be held in Glasgow between 31 October and 12 November 2021 (“the 26th Conference”). This includes the 16th session of the Conference of the Parties serving as the meeting of the Parties to the Kyoto Protocol, the third session of the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement, and all pre-sessional and other additional meetings convened in the United Kingdom in connection with the 26th Conference.
+
+These privileges and immunities are conferred in accordance with a Host Country Agreement (published as CP 454 and accessible on UK Treaties Online at http://www.gov.uk/uk-treaties), which has been negotiated between Her Majesty’s Government and the UNFCCC secretariat (as defined in article 2). This Order will give effect to that agreement. It should be read together with the Conference of the Parties to the United Nations Framework Convention on Climate Change (Immunities and Privileges) Order 2021 ([S.I. 2021/1090](https://www.legislation.gov.uk/uksi/2021/1090)) which confers additional immunities and privileges.
+
+## Annotations
+
+[^f00001]: Footnote: [1968 c. 48](https://www.legislation.gov.uk/ukpga/1968/48). Section 1 was amended by section 1(2) of the International Organisations Act [1981 (c. 9)](https://www.legislation.gov.uk/ukpga/1981/9) and [S.I. 2005/3542](https://www.legislation.gov.uk/uksi/2005/3542). Section 5A was inserted by section 3 of the International Organisations Act [1981 (c. 9)](https://www.legislation.gov.uk/ukpga/1981/9).
+
+[^f00002]: Footnote: The function of approving a draft of an Order in Council under section 10 of that Act has transferred to the Scottish Parliament under section 118 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) in so far as the function is exercisable within devolved competence. Section 118(4) of that Act provides that any reference in a pre-commencement enactment to a requirement for a draft instrument to be approved by either or both Houses of Parliament (as specified in section 118(2)) is to be taken to be, in relation to the exercise of a devolved function by a person other than a Minister of the Crown, a member of the Scottish Government or a Scottish public authority with mixed functions or no reserved functions, a reference to the Scottish Parliament. Section 118(4) accordingly includes the powers exercisable by Her Majesty in Council.
+
+[^f00003]: Footnote: The text of the draft Host Country Agreement is published as CP 454 and can be accessed on UK Treaties Online at this link: http://www.gov.uk/uk-treaties.
+
+[^f00004]: Footnote: [1964 c. 81](https://www.legislation.gov.uk/ukpga/1964/81). Schedule 1 was amended by the Diplomatic and Consular Premises Act [1987 (c. 46)](https://www.legislation.gov.uk/ukpga/1987/46).
+
+[^f00005]: Footnote: The COP is declared an organisation of which the United Kingdom and another sovereign power are members by Article 3 of [S.I. 2021/1090](https://www.legislation.gov.uk/uksi/2021/1090).
+
+[^f00006]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). The exception for devolved taxes was added by section 23(5) of the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11).
+
+[^f00007]: Footnote: The Kyoto Protocol is published as Cm. 6485 and can be accessed on UK Treaties Online at this link: http://www.gov.uk/uk-treaties.
+
+[^f00008]: Footnote: The Paris Agreement is published as Cm. 9338 on UK Treaties Online.
+
+[^f00009]: Footnote: The UNFCCC is published as Cm. 2833 on UK Treaties Online.
+
+[^f00010]: Footnote: [1968 c. 48](https://www.legislation.gov.uk/ukpga/1968/48). Part 4 of schedule 1 was amended by paragraph 90 of schedule 3(3) of the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), paragraph 103 of schedule 8(2) of the Taxation (Cross-border Trade) Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22) and [S.I. 1988/1298](https://www.legislation.gov.uk/uksi/1988/1298), [S.I. 1988/1299](https://www.legislation.gov.uk/uksi/1988/1299) and [S.I. 1991/757](https://www.legislation.gov.uk/uksi/1991/757).

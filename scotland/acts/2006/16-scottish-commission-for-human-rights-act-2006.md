@@ -1,0 +1,853 @@
+---
+title: Scottish Commission for Human Rights Act 2006
+id: asp/2006/16
+type: ScottishAct
+category: primary
+status: revised
+made_date: '2006-12-08'
+text_date: '2024-07-16'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2006/16
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2006/16/pdfs/aspen_20060016_en.pdf
+- http://www.legislation.gov.uk/asp/2006/16/pdfs/asp_20060016_en.pdf
+- http://www.legislation.gov.uk/asp/2006/16/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Scottish Commission for Human Rights Act 2006
+
+> Text as at 2024-07-16.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Scottish Commission for Human Rights Act 2006
+
+2006 asp 16
+
+An Act of the Scottish Parliament to provide for the establishment and functions of the Scottish Commission for Human Rights.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 2nd November 2006 and received Royal Assent on 8th December 2006
+
+## Scottish Commission for Human Rights
+
+### 1. Scottish Commission for Human Rights[^c2034977]
+
+(1) There is established a body corporate to be known as the Scottish Commission for Human Rights (and referred to in this Act as the “Commission”).
+
+(2) Schedule 1 makes further provision about the Commission.
+
+## General functions
+
+### 2. General duty to promote human rights
+
+(1) The Commission's general duty is, through the exercise of its functions under this Act, to promote human rights and, in particular, to encourage best practice in relation to human rights.
+
+(2) In this Act, “**human rights**” means—
+
+- (a) the Convention rights within the meaning of section 1 of the Human Rights Act 1998 (c. 42), and
+- (b) other human rights contained in any international convention, treaty or other international instrument ratified by the United Kingdom.
+
+(3) In this section, “**promote**”, in relation to human rights, means promote awareness and understanding of, and respect for, those rights.
+
+(4) In deciding what action to take under this Act in pursuance of its general duty, the Commission must have regard, in particular, to the importance of exercising its functions under this Act in relation to—
+
+- (a) the Convention rights, and
+- (b) human rights of those groups in society whose human rights are not, in the Commission's opinion, otherwise being sufficiently promoted.
+
+### 3. Information, guidance, education etc.
+
+(1) For the purposes of its general duty, the Commission may—
+
+- (a) publish or otherwise disseminate information or ideas,
+- (b) provide advice or guidance,
+- (c) conduct research,
+- (d) provide education or training.
+
+(2) The Commission may charge reasonable fees in connection with anything done by it or on its behalf under subsection (1).
+
+(3) Sums paid to the Commission in respect of fees charged under subsection (2) are to be retained by it and applied to meet expenses incurred by it in doing anything under subsection (1).
+
+### 4. Monitoring of law, policies and practices
+
+(1) For the purposes of its general duty, the Commission may review and recommend changes to—
+
+- (a) any area of the law of Scotland, or
+- (b) any policies or practices of any Scottish public authorities.
+
+(2) The Commission must consult the Scottish Law Commission before undertaking a review of any area of the law under subsection (1)(a).
+
+### 4A. Proceedings under the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024[^key-c3f6c95786ff32115f239dd2980db09b]
+
+For the purposes of its general duty, the Commission may—
+
+- (a) bring proceedings under section 7(1)(a) of the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024,
+- (b) intervene in proceedings in which a person claims that a public authority has acted (or proposes to act) in a way which is made unlawful by section 6(1) of that Act.
+
+### 5. Power to co-operate etc. with others
+
+(1) The Commission may, in the exercise of any of its functions—
+
+- (a) consult,
+- (b) act jointly with,
+- (c) co-operate with, or
+- (d) assist,
+
+any other person.
+
+(2) The Commission must seek to ensure, so far as practicable, that any activity undertaken by it under this Act does not duplicate unnecessarily any activity undertaken by any other person under any other enactment.
+
+### 6. No power to assist in claims or legal proceedings
+
+(1) The Commission may not provide assistance to or in respect of any person in connection with any claim or legal proceedings to which that person is or may become a party.
+
+(2) In subsection (1), “**assistance**” includes advice, guidance and grants.
+
+(2A)[^key-a315707567e9b4d1cc3c7e93b009814f] Subsections (1) and (2) do not apply to proceedings brought or intervened in by the Commission under section 4A.
+
+### 6A. Subsequent appointments[^key-0ebfd3bacf3fbf08ce7686954b487558]
+
+(1) A person who has ceased to be a member of the Commission may not, without the approval of the Parliamentary corporation—
+
+- (a) be employed or appointed in any other capacity by the Commission,
+- (b) hold office in or be an employee or appointee of any Scottish public authority in relation to which the Commission conducted an inquiry under section 8(1)(a) while that person was a member of the Commission, or
+- (c) hold any other office, employment or appointment or engage in any other occupation, being an office, employment, appointment or occupation which, by virtue of paragraph 5(9)(a), that person could not have held or, as the case may be, engaged in when a member of the Commission.
+
+(2) The restriction in sub-paragraph (1)—
+
+- (a) starts when the person ceases to be a member of the Commission, and
+- (b) ends on the expiry of the financial year next following the one in which it started.
+
+## Strategic plans
+
+### 7. Strategic plans[^c2034937]
+
+(1) The Commission must, before the beginning of each 4 year period, lay before the Parliament a plan (referred to in this section as a “**strategic plan**”) setting out information as to how the Commission proposes to fulfil its general duty during that period.
+
+(2) The plan must, in particular, set out—
+
+- (a) the Commission's objectives and priorities for the period to which the plan relates,
+- (b) a statement of any areas of the law which it proposes to review under section 4(1)(a) during that period,
+- (c) details of the other activities or kinds of activities which it proposes to undertake during that period, [^key-91830341ebbacbd1d630df244ce6d990]...
+- (d) a timetable for each review and other activity or kind of activity referred to in paragraphs (b) and (c) and
+- (e)[^key-b155183d0234ed8e0382c696a5cfde0b] estimates of the costs of achieving those objectives and priorities and undertaking those reviews and activities.
+
+(3) Before laying a strategic plan before the Parliament, the Commission must provide a draft of it to, and invite comments on it from—
+
+- (a) the Parliamentary corporation, and
+- (b) such other persons as the Commission considers appropriate.
+
+(4) The Commission must arrange for the publication of each strategic plan laid before the Parliament.
+
+(5) The Commission may, at any time during a 4 year period, review the strategic plan for the period and lay a revised plan for the period before the Parliament.
+
+(6) Subsections (3) to (5) apply to a revised plan as they apply to a strategic plan.
+
+(6A)[^key-0066dd9afbe117722aea664308e972e7] In that application, the reference in subsection (5) to the 4 year period is a reference to the period to which the revised strategic plan relates.
+
+(7) In this section, “**4 year period**” means—
+
+- (a) the period of 4 years beginning with the day on which section 2 comes into force, and
+- (b) each subsequent period of 4 years.
+
+## Inquiries
+
+### 8. Power to conduct inquiries
+
+(1) The Commission may, in relation to any matter relevant to its general duty, conduct an inquiry into the policies or practices of—
+
+- (a) a particular Scottish public authority,
+- (b) Scottish public authorities generally, or
+- (c) Scottish public authorities of a particular description,
+
+in connection with the matter.
+
+(2) Subsection (1) is subject to section 9.
+
+(3) The matter in relation to which an inquiry is conducted is referred to in this Act as the “subject matter” of the inquiry.
+
+(4) Before taking any step in the conduct of an inquiry, the Commission must—
+
+- (a) draw up—
+  - (i) terms of reference for the proposed inquiry, and
+  - (ii) a summary of the procedure to be followed in the conduct of the inquiry,
+- (b) give notice of—
+  - (i) the proposed inquiry,
+  - (ii) its terms of reference, and
+  - (iii) the summary of procedure,
+
+  to each relevant Scottish public authority, and
+- (c) publicise—
+  - (i) the proposed inquiry,
+  - (ii) its terms of reference, and
+  - (iii) the summary of procedure,
+
+  in such manner as it considers appropriate to bring them to the attention of any other persons likely to be affected by the inquiry.
+
+(5) An inquiry is to be conducted in public except to the extent that the Commission considers it necessary or expedient that any part of the inquiry should be conducted in private.
+
+(6) Otherwise, the procedure to be followed in the conduct of an inquiry is to be such as the Commission may determine.
+
+(7) In subsection (4)(b), “**relevant Scottish public authority**” means, in relation to a proposed inquiry, any Scottish public authority—
+
+- (a) which the Commission considers is likely to be required under section 10(1) to give evidence, produce documents or provide information for the purposes of the inquiry, or
+- (b) any of whose members, officers or staff the Commission considers is likely to be so required.
+
+### 9. Restrictions as to scope of inquiry
+
+(1) The Commission may not, in the course of an inquiry (including the report of the inquiry), question the findings of any court or tribunal.
+
+(2) The Commission may conduct an inquiry into the policies and practices of a particular Scottish public authority only if—
+
+- (a) the authority is the only Scottish public authority with functions in relation to the subject matter of the inquiry, or
+- (b) the subject matter of the inquiry is about whether the human rights specified in subsection (6) are being respected by the authority.
+
+(3) The Commission may not conduct an inquiry into the policies and practices of any Scottish public authority in relation to a particular case.
+
+(4) However, subsection (3) does not prevent the Commission taking such policies and practices into account in the course of an inquiry.
+
+(5) The Commission may conduct an inquiry in relation to the management or operation of a particular institution only if—
+
+- (a) the institution is the only one of its kind in Scotland, or
+- (b) the subject matter of the inquiry is about whether the human rights specified in subsection (6) are being respected at the institution.
+
+(6) The human rights referred to in subsections (2)(b) and (5)(b) are those contained in the following, so far as ratified by the United Kingdom, namely—
+
+- (a) the United Nations Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment adopted by Resolution 39/46 (10th December 1984) of the General Assembly of the United Nations,
+- (b) the European Convention for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment, done at Strasbourg on 26th November 1987,
+- (c) any protocol to those Conventions, and
+- (d) such other international conventions, treaties or other international instruments as Her Majesty may by Order in Council specify for the purposes of this section.
+
+(7) No recommendation to make an Order in Council under subsection (6)(d) is to be made to Her Majesty in Council unless a draft of the Order has been laid before and approved by resolution of the Parliament.
+
+(8) In this section, “**institution**” means a prison, hospital, school, college, care home or other such establishment.
+
+### 10. Evidence
+
+(1) For the purposes of an inquiry, the Commission may require any person specified in subsection (2) to—
+
+- (a) give oral evidence,
+- (b) produce documents, or
+- (c) otherwise provide information,
+
+relevant to the subject matter of the inquiry.
+
+(2) Those persons are—
+
+- (a) any Scottish public authority,
+- (b) any member, officer or member of staff of a Scottish public authority who, in the opinion of the Commission, is able to give the evidence, supply the information or produce the documents.
+
+(3) The Commission may, in the course of an inquiry, take into account any evidence, information or document which it has obtained otherwise than by virtue of a requirement imposed under subsection (1), provided the evidence, information or document is relevant to the subject matter of the inquiry.
+
+(4) A person is not required under this section to answer any question, produce any document or provide any information which the person would be entitled to refuse to answer, produce or provide in proceedings in a court in Scotland.
+
+(5) In section 34(2) of the Legal Aid (Scotland) Act 1986 (c. 47) (which specifies the purposes for which the restriction in section 34(1) of that Act on disclosure of information furnished to the Scottish Legal Aid Board does not apply), after paragraph (d) insert—
+
+> - (e) for the purposes of an inquiry by the Scottish Commission for Human Rights under section 8 of the Scottish Commission for Human Rights Act 2006 (asp 16).
+
+.
+
+(6) Schedule 2 makes further provision in connection with requirements under subsection (1).
+
+### 11. Places of detention: powers of entry, inspection and interview
+
+(1) For the purposes of an inquiry, the Commission may—
+
+- (a) enter any place of detention for the purpose of exercising any power under paragraph (b) or (c),
+- (b) inspect the place of detention, and
+- (c) conduct interviews in private with any person detained there, with that person's consent.
+
+(2) In this section, “**place of detention**” means any premises, vehicle or other place in or at which an individual is or may be detained by, or with the authority or consent of, a Scottish public authority.
+
+(3) For the purposes of subsection (2), an individual is detained in or at a place if he or she is imprisoned there or otherwise deprived (to any extent) of his or her liberty to leave the place.
+
+(4) For the purposes of subsection (1)(c), an interview is in private if it is outwith the hearing of any person involved in the management or control of the place of detention or working at the place of detention.
+
+(5) Schedule 3 makes further provision in connection with the exercise of the powers under subsection (1).
+
+### 11A. Advisers and other services[^key-bda43db4b97acd9447b65838d6d71552]
+
+(1) The Commission may obtain advice, assistance or any other service from any person who, in the opinion of the Commission, is qualified to give it.
+
+(2) The Commission may pay to that person such fees and allowances as it determines.
+
+(3) Any payment under sub-paragraph (2) is subject to the approval of the Parliamentary corporation.
+
+### 12. Report of inquiry
+
+(1) After completing an inquiry other than an excepted inquiry, the Commission must lay before the Parliament a report of the inquiry.
+
+(2) The report must, in particular, include—
+
+- (a) the Commission's findings as a result of the inquiry, and
+- (b) any recommendations of the Commission in the light of those findings.
+
+(3) The report must not make reference to the activities of a specified or identifiable person unless the Commission considers that it is necessary to do so in order for the report adequately to reflect the results of the inquiry.
+
+(4) Before finalising a report containing such a reference, the Commission must—
+
+- (a) provide the person concerned with—
+  - (i) a draft of the proposed report, and
+  - (ii) an opportunity to make representations concerning the proposed report, and
+- (b) consider any representations made.
+
+(5) In subsection (1), “**excepted inquiry**” means an inquiry the subject matter of which falls within section 9(2)(b) or (5)(b).
+
+### 13. Confidentiality of information
+
+(1) Subsection (2) applies to a person who is or has been—
+
+- (a) a member of the Commission,
+- (b) a member of the Commission's staff, or
+- (c) otherwise an agent of the Commission.
+
+(2) The person must not disclose any information which—
+
+- (a) has been obtained by or on behalf of the Commission for the purposes of an inquiry, and
+- (b) is not at the time of the disclosure, and has not previously been, in the public domain,
+
+unless the disclosure is authorised by subsection (3).
+
+(3) Disclosure is authorised for the purposes of subsection (2) only so far as—
+
+- (a) it is made with the consent of the person from whom the information was obtained,
+- (b) it is necessary for the purpose of enabling or assisting the exercise by the Commission of any of its functions under this Act, or
+- (c) it is made for the purposes of legal proceedings, whether criminal or civil (including the purposes of the investigation of any offence or suspected offence).
+
+(4) A person who knowingly contravenes subsection (2) commits an offence.
+
+(5) A person guilty of an offence under subsection (4) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum, or
+- (b) on conviction on indictment, to a fine.
+
+### 13A. Budget[^key-82b89d0702edfe73a3cb67a267afc553]
+
+(1) The Commission must, before the start of each financial year, prepare proposals for its use of resources and expenditure during the year (a “budget”) and, by such date as the Parliamentary corporation determines, send the budget to the Parliamentary corporation for approval.
+
+(2) The Commission may, in the course of a financial year, prepare a revised budget for the remainder of the year and send it to the Parliamentary corporation for approval.
+
+(3) In preparing a budget or a revised budget, the Commission must ensure that the resources of the Commission will be used economically, efficiently and effectively.
+
+(4) A budget or revised budget must contain a statement that the Commission has complied with the duty under subsection (3).
+
+## Intervention in civil proceedings
+
+### 14. Power to intervene
+
+(1) Subsection (2) applies to civil proceedings before a court, except children's hearing proceedings.
+
+(2) The Commission may—
+
+- (a) with leave of the court, or
+- (b) at the invitation of the court,
+
+intervene in the proceedings for the purpose of making a submission to the court on an issue arising in the proceedings.
+
+(3) The Commission may intervene under subsection (2) only if it appears to the Commission that the issue arising in the proceedings—
+
+- (a) is relevant to its general duty, and
+- (b) raises a matter of public interest.
+
+(4) An application by the Commission for leave under subsection (2)(a) must set out—
+
+- (a) the issue arising in the proceedings which the Commission intends to address, and
+- (b) a summary of the submission that the Commission intends to make.
+
+(5) An invitation under subsection (2)(b) must set out the issue arising in the proceedings upon which the court seeks a submission.
+
+(6) The court may grant leave for or invite the Commission to intervene under subsection (2) only if it is satisfied that the intervention of the Commission is likely to assist the court.
+
+(7) Further provision as to the procedure in any intervention under subsection (2), including in particular provision as to the form that any submission by the Commission is to take, may be prescribed by Act of Sederunt.
+
+(8) Subsection (2) is without prejudice to the Commission's capacity to intervene in any proceedings before any court or tribunal under an enactment or in accordance with the practice of the court or tribunal.
+
+(9) In subsection (1)—
+
+- “**civil proceedings**” includes inquiries instituted under the Inquiries into Fatal Accidents and Sudden Deaths[^key-914e6effa3432917ffbc91a2ccbade5b] etc. (Scotland) Act 2016 ,
+- “**children's hearing proceedings**” means any proceedings on an application made to the sheriff, and any other proceedings before the sheriff court or Court of Session (whether on appeal or otherwise) or in the Sheriff Appeal Court[^key-e52186fbae718b3a9a7327440097bbeb], under any provision of the Children’s Hearings (Scotland) Act[^key-4a89afab263f9c4c274310b8cce9d5e2] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1) in relation to a children's hearing,
+- “**court**” means the Court of Session and sheriff court, both as courts of first instance and appeal, the Sheriff Appeal Court[^key-29cd2bd2a4cc12e179e01aaf1a1aef31] and the Land Court.
+
+## Reports
+
+### 15. Annual report
+
+(1) The Commission must lay before the Parliament annually a general report on the exercise of its functions during the reporting year[^key-84111f8ce1d6994e211e8f3a210c8f4c].
+
+(2) The report must, in particular, include—
+
+- (a) a summary of any inquiries conducted by the Commission during the reporting year, and
+- (b) a summary of any other activities undertaken by it during that year in pursuance of its general duty.
+
+(2A)[^key-3c2e137630e15027cffc743438233f8f] The report must be laid before the Parliament within 7 months after the end of the reporting year.
+
+(3) In preparing a report under this section, the Commission must comply with any directions given by the Parliamentary corporation as to the form and content of the report.
+
+(4)[^key-ea940ecfdad9ba1eaaa9847a01b075c6] In this section “ **reporting year** ” means the year beginning on 1 April.
+
+### 16. Publication of reports
+
+(1) The Commission must arrange for the publication of reports laid by it before the Parliament.
+
+(2) The Commission may publish other reports on matters relevant to its general duty.
+
+## General
+
+### 17. Protection from actions for defamation
+
+(1) For the purposes of the law of defamation—
+
+- (a) any statement made by the Commission—
+  - (i) in conducting an inquiry,
+  - (ii) in communicating with any person for the purposes of an inquiry, or
+  - (iii) in a report of an inquiry,
+
+  has absolute privilege,
+- (b) any other statement made by it in pursuance of the purposes of this Act has qualified privilege, and
+- (c) any statement made to it in pursuance of those purposes has qualified privilege.
+
+(2) In subsection (1), “**statement**” has the same meaning as in the Defamation Act 1996 (c. 31).
+
+### 18. Giving of notice
+
+(1) Any notice to be given to any person under any provision of this Act must be given—
+
+- (a) in writing, and
+- (b) by one of the means specified in subsection (2).
+
+(2) Those means are—
+
+- (a) delivering the notice to the person,
+- (b) sending it by registered post or recorded delivery service addressed to the person at—
+  - (i) in the case of an individual, the person's usual or last known address or the person's place of business or work,
+  - (ii) in any other case, the person's registered or principal office,
+- (c) sending it to the person by some other means (including electronic means) which the person giving the notice considers likely to cause it to be delivered on the same or next day.
+
+(3) A notice which is given by electronic means is to be treated as being in writing if it is received in a form which is legible and capable of being used for subsequent reference.
+
+(4) A notice given by a means specified in subsection (2)(c) is, unless the contrary is proved, to be presumed to be delivered on the next working day following the day on which it is sent.
+
+(5) In subsection (4), “**working day**” means any day other than a Saturday, a Sunday or a day which, under the Banking and Financial Dealings Act 1971 (c. 80), is a bank holiday in Scotland.
+
+### 19. Meaning of “Scottish public authority”
+
+In this Act, “**Scottish public authority**” means—
+
+- (a) any body or office which, or office-holder who, is—
+  - (i) a part of the Scottish Administration, or
+  - (ii) a Scottish public authority with mixed functions or no reserved functions, and
+- (b) any other person who is a public authority within the meaning of the Human Rights Act 1998 (c. 42), but only in so far as the public functions exercisable by the person—
+  - (i) are exercisable in or as regards Scotland, and
+  - (ii) do not relate to reserved matters.
+
+### 20. Interpretation
+
+In this Act, except where the context requires otherwise—
+
+- “**the Commission**” means the Scottish Commission for Human Rights (established by section 1(1)),
+- “**Convention rights**” has the meaning given in section 1 of the Human Rights Act 1998 (c. 42),
+- “**human rights**” has the meaning given in section 2(2),
+- “**inquiry**” means an inquiry under section 8,
+- “**Parliament**” means the Scottish Parliament,
+- “**Parliamentary corporation**” means the Scottish Parliamentary Corporate Body,
+- “**Scottish public authority**” has the meaning given in section 19,
+- “**subject matter**”, in relation to an inquiry, is to be construed in accordance with section 8(3).
+
+### 21. Preparation for the Commission
+
+(1) The Parliamentary corporation may do anything that it considers necessary or expedient in preparation for the establishment of the Commission.
+
+(2) In particular, the Parliamentary corporation may determine the initial location of the Commission's office premises.
+
+(3) Her Majesty may, by Order in Council, provide for the transfer to the Commission of any—
+
+- (a) property belonging to the Parliamentary corporation,
+- (b) liabilities to which the Parliamentary corporation is subject.
+
+(4) An Order in Council under subsection (3)—
+
+- (a) may make supplementary, incidental, consequential and transitional provision,
+- (b) is subject to annulment in pursuance of a resolution of the Parliament.
+
+### 22. Short title, Crown application and commencement
+
+(1) This Act may be cited as the Scottish Commission for Human Rights Act 2006.
+
+(2) This Act binds the Crown.
+
+(3)[^c2034974][^c2035008] This Act (except section 21 and this section) comes into force on such day as Her Majesty may by Order in Council appoint.
+
+(4)[^c2034974] An Order in Council under subsection (3) may—
+
+- (a) appoint different days for different purposes, and
+- (b) contain transitional and transitory provision.
+
+## SCHEDULE 1 — Scottish Commission for Human Rights
+
+(introduced by section 1(2))
+
+### Membership
+
+**1.** (1) The Commission consists of the following members—
+
+- (a) a member appointed to chair the Commission, and
+- (b) not more than 4 other members.
+
+(2) The member appointed to chair the Commission is to be an individual appointed by Her Majesty on the nomination of the Scottish Parliament.
+
+(3) The other members are to be individuals appointed by the Parliamentary corporation.
+
+### Status
+
+**2.** The Commission—
+
+- (a) is not a servant or agent of the Crown, and
+- (b) has no status, immunity or privilege of the Crown.
+
+### Independence
+
+**3.** (1) The Commission, in the exercise of its functions, is not to be subject to the direction or control of—
+
+- (a) any member of the Parliament,
+- (b) any member of the Scottish Executive, or
+- (c) the Parliamentary corporation.
+
+(2) Sub-paragraph (1) is subject to section 15(3), paragraphs 8(3)[^key-ac05d408180e5f6f221bcf270837d389], 10, 11, 11A(3), 12(3), 13A[^key-bfe37d785c2fceaab463724c6b4be918] and 15(1) of this schedule and paragraph 5 of schedule 2.
+
+### Disqualification
+
+**4.** (1) A person is disqualified from appointment, and from holding office, as a member of the Commission if that person is—
+
+- (a) a member of the House of Commons,
+- (b) a member of the Scottish Parliament, or
+- (c) a member of the European Parliament.
+
+(2) A person is also disqualified from such appointment if that person has, in the relevant period, held any of the offices set out in sub-paragraph (1)(a) to (c).
+
+(3) The relevant period is—
+
+- (a) in relation to the appointment of a member to chair the Commission, the year preceding the date of nomination,
+- (b) in relation to the appointment of any other member of the Commission, the year preceding the proposed date of appointment.
+
+### Terms of office and remuneration
+
+**5.** (1) Each member of the Commission—
+
+- (a) holds office for such period not exceeding eight[^key-611a359c6efa02e61cac80573c886a02] years as the Parliamentary corporation, at the time of appointment, may determine,
+
+  but[^key-9e00f4e29e0b8ebe6decf74e9557667b]
+- (b) is ineligible for reappointment at any time.
+
+(2) The member appointed to chair the Commission may be—
+
+- (a) relieved of office by Her Majesty at the member's request, or
+- (b) removed from office by Her Majesty if condition A or B is satisfied.
+
+(3) Any other member of the Commission may be—
+
+- (a) relieved of office by the Parliamentary corporation at the member's request, or
+- (b) removed from office by the Parliamentary corporation if condition A or B is satisfied.
+
+(4) Condition A is that—
+
+- (a) the Parliamentary corporation is satisfied that the member has breached the member's terms of appointment, and
+- (b) the Parliament resolves that the member should be removed from office for that reason
+
+(5) Condition B is that the Parliament resolves that it has lost confidence in the member's willingness, suitability or ability to perform that member's functions[^key-f9f219bf3b9cbe97411036ea371857d0]
+
+(6) A resolution under sub-paragraph (4)(b) or (5), must be voted for by a number of members not fewer than two thirds of the total number of seats for members of the Parliament[^key-3b751672d39e0377af500bd48947ba7d].
+
+(7) Each member of the Commission is entitled to—
+
+- (a) such remuneration, and
+- (b) such allowances,
+
+as the Parliamentary corporation may determine.
+
+(8) In other respects, each member of the Commission holds office on such terms and conditions as the Parliamentary corporation may determine.
+
+(9)[^key-d3ec68cb60e266a46e509be32e198e45] Those terms and conditions may, without prejudice to paragraph 4—
+
+- (a) prohibit the member from holding any other specified office, employment or appointment or engaging in any other specified occupation,
+- (b) provide that a member's holding of any such office, employment or appointment or engagement in any such occupation is subject to the approval of the Parliamentary corporation,
+- (c) for the purposes of this sub-paragraph, provide differently for the member appointed to chair the Commission and the other members.
+
+(10) In sub-paragraph (9), “ **specified** ” means specified in the terms and conditions or within a description so specified.
+
+### Pensions etc.
+
+**6.** (1) The Commission may, with the approval of the Parliamentary corporation, make arrangements for the payment of pensions, allowances or gratuities to, or in respect of, any person who has ceased to be a member of the Commission and such arrangements may include, in particular—
+
+- (a) the making of contributions or payments towards provision for such pensions, allowances, or gratuities, and
+- (b) the establishing and administering of one or more pension schemes.
+
+(2) References in sub-paragraph (1) to pensions, allowances and gratuities include references to, as the case may be, pensions, allowances or gratuities by way of compensation for loss of office.
+
+### Proceedings etc.
+
+**7.** (1) The Commission may regulate its own procedure (including any quorum).
+
+(2) Where the member appointed to chair the Commission is not present at a meeting of the Commission, any other member of the Commission may chair the meeting.
+
+(3) The validity of any acts of the Commission is not affected by any—
+
+- (a) defect in the appointment of a member of the Commission,
+- (b) disqualification from appointment as a member of the Commission, or
+- (c) vacancy in the membership of the Commission.
+
+### General powers
+
+**8.** (1) The Commission may do anything which appears necessary or expedient for the purpose of, or in connection with, or which appears conducive to, the exercise of its functions.
+
+(2) In particular, the Commission may—
+
+- (a) enter into contracts, and
+- (b)[^key-dff3e7e0b3736e7e6b3ccb91b26e0657] acquire and dispose of land and other property,
+
+(3)[^key-99998f655ddd673fb6dd9dd4faca51fe] The exercise of the power to acquire or dispose of land is subject to the approval of the Parliamentary corporation.
+
+### Delegation
+
+**9.** (1) Any function of the Commission may be exercised on its behalf—
+
+- (a) by any person (whether or not a member of the Commission or its staff) authorised by the Commission to do so, and
+- (b) to the extent so authorised.
+
+(2) Sub-paragraph (1) does not affect the Commission's responsibility for the exercise of its functions.
+
+### Location of office[^key-0e4c99fec05afd788b1ad5c40389f051]
+
+**10.** The Commission must comply with any direction given by the Parliamentary corporation as to the location of the Commission's office.
+
+### Staff
+
+**11.** (1) The Commission may, with the consent of the Parliamentary corporation as to numbers, appoint staff.
+
+(2) The appointment of staff is to be on such terms and conditions as the Commission may, with the approval of the Parliamentary corporation, determine.
+
+(3) The Commission may, with the approval of the Parliamentary corporation, make arrangements for the payment of pensions, allowances or gratuities to, or in respect of, any person who has ceased to be a member of staff.
+
+(4) References in sub-paragraph (3) to pensions, allowances and gratuities include references to, as the case may be, pensions, allowances or gratuities by way of compensation for loss of employment.
+
+### Sharing of premises, staff, services and other resources
+
+**12.** (1) The Commission may enter into arrangements with any other public body or office-holder for the sharing of premises, staff, services or other resources.
+
+(2) In considering its requirements as to premises, staff, services and other resources, the Commission must have regard, with a view to ensuring the economic, efficient and effective use of resources, to the desirability of entering into arrangements under sub-paragraph (1).
+
+(3)[^key-a5da4ca0696c77426d1f3a1ad4fd6005] The exercise of the power in sub-paragraph (1) is subject to the approval of the Parliamentary corporation.
+
+### Accountable officer
+
+**13.** (1) The Parliamentary corporation must designate a member of the Commission or of the Commission's staff as the accountable officer for the purposes of this paragraph.
+
+(2) The functions of the accountable officer are—
+
+- (a) signing the accounts of the expenditure and receipts of the Commission,
+- (b) ensuring the propriety and regularity of the finances of the Commission,
+- (c) ensuring that the resources of the Commission are used economically, efficiently and effectively, and
+- (d) the duty set out in sub-paragraph (3),
+
+and the accountable officer is answerable to the Parliament for the exercise of those functions.
+
+(3) Where the accountable officer is required to act in some way but considers that to do so would be inconsistent with the proper performance of the functions specified in sub-paragraph (2)(a) to (c), the accountable officer must—
+
+- (a) obtain written authority from the Commission before taking the action, and
+- (b) send a copy of the authority as soon as possible to the Auditor General for Scotland.
+
+### Finance
+
+**14.** (1)[^key-038bb49ba656eeef61e76cddc8e074cf] The Parliamentary corporation is to—
+
+- (a) pay the remuneration and allowances of each member of the Commission,
+- (b) pay any expenses properly incurred by the Commission in the exercise of its functions, so far as those expenses are not met out of sums retained and applied by it under section 3(3), and
+- (c) indemnify the Commission in respect of any liabilities incurred by it in the exercise of its functions.
+
+(2) The Commission must, before the start of each financial year, prepare proposals for its use of resources and expenditure during the year and send the proposals to the Parliamentary corporation for approval by such date as the Parliamentary corporation may determine.
+
+(3) The Commission may, in the course of a financial year, prepare revised proposals for its use of resources and expenditure during the remainder of the year and send the proposals to the Parliamentary corporation for approval.
+
+(4) The proposals or, as the case may be, revised proposals must include a statement that the Commission has complied with the duty in paragraph 12(2) in preparing the proposals.
+
+(5) Sub-paragraph (1)(b) does not require the Parliamentary corporation to pay any expenses incurred by the Commission which exceed, or are otherwise not covered by, any proposals approved under sub-paragraph (2) or (3).
+
+(6) However, the Parliamentary corporation may pay those expenses.
+
+(7) The financial year of the Commission is—
+
+- (a) the period beginning with the date on which the Commission is established and ending with 31st March next following that date, and
+- (b) each successive period of 12 months ending with 31st March.
+
+### Accounts and audit
+
+**15.** (1) The Commission must, in accordance with such directions as the Scottish Ministers may give—
+
+- (a) keep proper accounts and accounting records,
+- (b) prepare annual accounts in respect of each financial year, and
+- (c) send a copy of the annual accounts to the Auditor General for Scotland for auditing.
+
+(2) If requested by any person, the Commission must make available at any reasonable time, and without charge, in printed or electronic form, the audited accounts, so that they may be inspected by that person.
+
+### Scottish Public Services Ombudsman
+
+**16.** In the Scottish Public Services Ombudsman Act 2002 (asp 11), in schedule 2 (which lists the authorities subject to investigation under that Act), in Part 2 (entries amendable by Order in Council), before paragraph 38 insert—
+
+> **37B.** The Scottish Commission for Human Rights.
+
+.
+
+### Freedom of information
+
+**17.** In the Freedom of Information (Scotland) Act 2002 (asp 13), in schedule 1 (which lists the Scottish public authorities subject to that Act), in Part 7 (other authorities), before paragraph 81 insert—
+
+> **80B.** The Scottish Commission for Human Rights.
+
+.
+
+## SCHEDULE 2 — Inquiries: supplementary provision as to evidence
+
+(introduced by section 10(6))
+
+### Requirements to give evidence etc.
+
+**1.** The Commission may impose a requirement on a person under section 10(1) by giving notice to the person specifying—
+
+- (a) where the person is required to give oral evidence—
+  - (i) the time and place at which the person is to attend to give evidence, and
+  - (ii) the particular matter or matters about which the person is required to give evidence,
+- (b) where the person is required to produce a document or documents—
+  - (i) the document, or types of documents, which the person is to produce,
+  - (ii) the date by which it or they must be produced, and
+  - (iii) the particular matter or matters in connection with which they are required,
+- (c) where the person is required otherwise to provide information—
+  - (i) the nature of the information required,
+  - (ii) the date by which it must be provided, and
+  - (iii) the particular matter or matters in connection with which the information is required.
+
+### Cancellation of requirements notified under paragraph 1
+
+**2.** (1) A person to whom notice has been given under paragraph 1 may apply to the sheriff for cancellation of any requirement imposed by the notice.
+
+(2) On such an application, the sheriff may cancel the requirement if satisfied that the requirement is—
+
+- (a) unnecessary having regard to the purposes of the inquiry to which the notice relates,
+- (b) undesirable for reasons of national security, or
+- (c) otherwise unreasonable.
+
+### Administration of oaths
+
+**3.** The Commission may—
+
+- (a) administer an oath to any person giving evidence to it for the purposes of an inquiry, and
+- (b) require any such person to take an oath.
+
+### Obstruction and contempt
+
+**4.** (1) Sub-paragraph (3) applies where any person to whom notice has been given under paragraph 1—
+
+- (a) refuses or fails, without reasonable excuse, to comply with any requirement specified in the notice,
+- (b) refuses or fails, without reasonable excuse, when attending to give evidence as required by the notice—
+  - (i) to take an oath on being required to do so under paragraph 3(b), or
+  - (ii) to answer any question relevant to any matter specified in the notice, or
+- (c) deliberately alters, suppresses, conceals or destroys any document which the person is required by the notice to produce.
+
+(2) Sub-paragraph (3) also applies where the Commission considers that any such person as is mentioned in sub-paragraph (1) is likely to do any of the things specified in paragraphs (a) to (c) of that sub-paragraph.
+
+(3) Where this sub-paragraph applies, the Commission may report the matter to the Court of Session.
+
+(4) On such a report, the Court may, after hearing any evidence or representations on the matter, (either or both)—
+
+- (a) make such order for enforcement as it sees fit,
+- (b) deal with the matter as if it were a contempt of the Court.
+
+### Allowances and expenses
+
+**5.** The Commission may pay to persons giving evidence, producing documents or providing information pursuant to a notice given under paragraph 1 such allowances and expenses as it may, with the approval of the Parliamentary corporation, determine.
+
+## SCHEDULE 3 — Places of detention: powers of entry, inspection and interview
+
+(introduced by section 11(5))
+
+### Evidence of authority
+
+**1.** The Commission or any other person entitled to exercise any power under section 11(1) (referred to in this schedule as “an authorised person”) must, if required to do so, produce written evidence of that entitlement.
+
+**2.** A person required to produce written evidence of entitlement under paragraph 1 cannot exercise the power under section 11(1) to which the entitlement relates until the person produces such evidence.
+
+### Obstruction and contempt
+
+**3.** (1) Where any person intentionally obstructs the Commission or an authorised person acting in the exercise of a power under section 11(1), the Commission may report the matter to the Court of Session.
+
+(2) On such a report, the Court may, after hearing any evidence or representations on the matter, (either or both)—
+
+- (a) make such order for enforcement as it sees fit,
+- (b) deal with the matter as if it were a contempt of the Court.
+
+## Annotations
+
+[^c2034977]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2006/16/section/1) wholly in force at 1.4.2008; [s. 1](https://www.legislation.gov.uk/asp/2006/16/section/1) not in force at Royal Assent see [s. 22(3)(4)](https://www.legislation.gov.uk/asp/2006/16/section/22/3/4); [s. 1](https://www.legislation.gov.uk/asp/2006/16/section/1) partly in force for certain purposes at 8.11.2007 by [S.S.I. 2007/448](https://www.legislation.gov.uk/ssi/2007/448), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/448/article/2/a); [s. 1](https://www.legislation.gov.uk/asp/2006/16/section/1) in force, in so far as not already in force, at 1.4.2008 by [S.I. 2008/112](https://www.legislation.gov.uk/uksi/2008/112), [art. 2](https://www.legislation.gov.uk/uksi/2008/112/article/2)
+
+[^key-c3f6c95786ff32115f239dd2980db09b]: Textual amendment: S. 4A inserted (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 12(2)](https://www.legislation.gov.uk/asp/2024/1/section/12/2), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+
+[^key-a315707567e9b4d1cc3c7e93b009814f]: Textual amendment: S. 6(2A) inserted (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 12(3)](https://www.legislation.gov.uk/asp/2024/1/section/12/3), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+
+[^key-0ebfd3bacf3fbf08ce7686954b487558]: Textual amendment: Sch. 1 para. 6A inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 6](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/6) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c2034937]: Subordinate legislation: S. 7 power fully exercised: 8.11.2007 appointed by {[S.S.I. 2007/448](https://www.legislation.gov.uk/ssi/2007/448)}, art. 2
+
+[^key-91830341ebbacbd1d630df244ce6d990]: Textual amendment: Word in s. 7(2) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 6 para. 1(a)(i)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/1/a/i) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-b155183d0234ed8e0382c696a5cfde0b]: Textual amendment: S. 7(2)(e) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 6 para. 1(a)(ii)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/1/a/ii) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-0066dd9afbe117722aea664308e972e7]: Textual amendment: S. 7(6A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 6 para. 1(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/1/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-bda43db4b97acd9447b65838d6d71552]: Textual amendment: Sch. 1 para. 11A inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 9](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/9) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-82b89d0702edfe73a3cb67a267afc553]: Textual amendment: Sch. 1 para. 13A inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-914e6effa3432917ffbc91a2ccbade5b]: Textual amendment: Words in s. 14(9) substituted (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 12](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/12); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+
+[^key-e52186fbae718b3a9a7327440097bbeb]: Textual amendment: Words in s. 14(9) inserted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/6/a) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/402/article/5))
+
+[^key-4a89afab263f9c4c274310b8cce9d5e2]: Textual amendment: Words in s. 14(9) substituted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/16)
+
+[^key-29cd2bd2a4cc12e179e01aaf1a1aef31]: Textual amendment: Words in s. 14(9) inserted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [Sch. para. 6(b)](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/6/b) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/402/article/5))
+
+[^key-84111f8ce1d6994e211e8f3a210c8f4c]: Textual amendment: Words in s. 15(1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 2(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/2/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-3c2e137630e15027cffc743438233f8f]: Textual amendment: S. 15(2A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 2(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/2/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-ea940ecfdad9ba1eaaa9847a01b075c6]: Textual amendment: S. 15(4) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 2(c)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/2/c) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c2034974]: Subordinate legislation: [S. 22(3)(4)](https://www.legislation.gov.uk/asp/2006/16/section/22/3/4) power partly exercised: 8.11.2007 appointed for specified provisions by {[S.S.I. 2007/448](https://www.legislation.gov.uk/ssi/2007/448)}, art. 2
+
+[^c2035008]: Subordinate legislation: [S. 22(3)](https://www.legislation.gov.uk/asp/2006/16/section/22/3) power partly exercised: 1.4.2008 appointed for specified provisions by {[S.S.I. 2008/112](https://www.legislation.gov.uk/ssi/2008/112)}, art. 2
+
+[^key-ac05d408180e5f6f221bcf270837d389]: Textual amendment: Word in Sch. 1 para. 3(2) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 4(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/4/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-bfe37d785c2fceaab463724c6b4be918]: Textual amendment: Words in Sch. 1 para. 3(2) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 4(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/4/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-611a359c6efa02e61cac80573c886a02]: Textual amendment: Word in Sch. 1 para. 5(1)(a) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11) , [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5) , [sch. 6 para. 5(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/5/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6) , [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7) )
+
+[^key-9e00f4e29e0b8ebe6decf74e9557667b]: Textual amendment: Sch. 1 para. 5(1)(b) and word substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11) , [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5) , [sch. 6 para. 5(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/5/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6) , [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7) )
+
+[^key-f9f219bf3b9cbe97411036ea371857d0]: Textual amendment: Words in Sch. 1 para. 5(5) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 5(c)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/5/c) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-3b751672d39e0377af500bd48947ba7d]: Textual amendment: Words in Sch. 1 para. 5(6) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11) , [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5) , [sch. 6 para. 5(d)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/5/d) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6) , [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7) )
+
+[^key-d3ec68cb60e266a46e509be32e198e45]: Textual amendment: Sch. 1 para. 5(9)(10) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 5(e)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/5/e) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-dff3e7e0b3736e7e6b3ccb91b26e0657]: Textual amendment: Sch. 1 para. 8(2)(b) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 7(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/7/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-99998f655ddd673fb6dd9dd4faca51fe]: Textual amendment: Sch. 1 para. 8(3) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 7(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/7/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-0e4c99fec05afd788b1ad5c40389f051]: Textual amendment: Sch. 1 para. 10 and cross-heading substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 6 para. 8](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/8) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-a5da4ca0696c77426d1f3a1ad4fd6005]: Textual amendment: Sch. 1 para. 12(3) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 10](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/10) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-038bb49ba656eeef61e76cddc8e074cf]: Textual amendment: Sch. 1 para. 14(1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 6 para. 12](https://www.legislation.gov.uk/asp/2010/11/schedule/6/paragraph/12) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))

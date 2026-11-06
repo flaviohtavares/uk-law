@@ -1,0 +1,126 @@
+---
+title: The Tuberculosis (Miscellaneous Amendments) (Scotland) (No. 2) Order 2018
+id: ssi/2018/333
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-10-30'
+text_date: '2023-05-18'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2018/333
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2018/333/pdfs/ssipn_20180333_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/333/pdfs/ssi_20180333_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/333/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tuberculosis (Miscellaneous Amendments) (Scotland) (No. 2) Order 2018
+
+> Text as at 2023-05-18.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2018 No. 333
+
+Animals
+
+Animal Health
+
+The Tuberculosis (Miscellaneous Amendments) (Scotland) (No. 2) Order 2018
+
+Made
+
+30th October 2018
+
+Laid before the Scottish Parliament
+
+1st November 2018
+
+Coming into force
+
+12th December 2018
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1, 8(1), 28, 32(2) and (3), 34(7) and 83(2) of the Animal Health Act 1981[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement[^key-2b09c46f7641c7aa088c2c9b988608ca]
+
+This Order may be cited as the Tuberculosis (Miscellaneous Amendments) (Scotland) (No. 2) Order 2018 and comes into force on 12 December 2018.
+
+## 2. Amendment of the Tuberculosis (Scotland) Order 2007[^key-50abc7789fe14a7edc625b99d7d21d66]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Tuberculosis in Specified Animals (Scotland) Order 2015[^key-b7dc0ce2677cf9d7414891d7ea83040d]
+
+In article 2(1) of the Tuberculosis in Specified Animals (Scotland) Order 2015[^f00009], omit the definition of “authorised veterinary inspector”.
+
+MAIRI GOUGEON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+30th October 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Tuberculosis (Scotland) Order 2007 (“the 2007 Order”) and the Tuberculosis in Specified Animals (Scotland) Order 2015 (“the 2015 Order”).
+
+Article 2(2) amends the definition of ‘high incidence area’ in article 2(1) of the 2007 Order to reflect routine tuberculin testing carried out at intervals of no more than two years in such an area.
+
+Article 2(3) substitutes a new article 9 in the 2007 Order. This provides that where a bovine animal has been moved to premises in Scotland from premises in a high incidence area, the keeper of the bovine animal must ensure a diagnostic test for tuberculosis is applied to the animal within a specified period of time and must not allow the animal to be moved from the premises before such a test is completed unless the move is authorised under applicable exceptions.
+
+Article 2(4) makes a consequential amendment to article 10(1) of the 2007 Order.
+
+Article 2(5) amends article 12 of the 2007 Order to extend the obligation to report tests results to include any test for tuberculosis.
+
+Article 2(6) substitutes a new article 18 in the 2007 Order which makes general provision for compensation by the Scottish Ministers reflecting the market value of a bovine animal, where they cause a bovine animal to be slaughtered under section 32 of the Animal Health Act 1981, provided the animal is identified by means of ear tags and a cattle passport in accordance with the requirements of the Cattle Identification (Scotland) Regulations 2007. This is subject to the exceptions under the new articles 19A to 19C of the 2007 Order.
+
+Article 2(7) makes a consequential amendment to article 19(1) of the 2007 Order.
+
+Article 2(8) inserts new articles 19A, 19B, 19C and 19D in the 2007 Order.
+
+Article 19A establishes the maximum compensation payable for any slaughtered animals which are reactors (under article 2(1) of the 2007 Order, those are animals which produce a reaction consistent with their being affected with tuberculosis when tested for that disease) which have been slaughtered as £5,000 in the case of bovine animals other than pedigree bovine animals and £7,500 in the case of pedigree bovine animals, irrespective of the market value of the animal as ascertained in accordance with article 19 of the 2007 Order. Where the animal is not identified by means of eartags and a cattle passport in accordance with the requirements of the Cattle Identification (Scotland) Regulations 2007 the compensation payable is £1.
+
+Article 19B provides for compensation of £1 for slaughtered animals which are reactors, where those animals were moved on to premises in breach of a relevant movement restriction or prohibition under the 2007 Order.
+
+Article 19C provides for reduced compensation for slaughtered animals which are reactors where the keeper of those animals has failed to timeously comply with a notice to test under article 21(1) of the 2007 Order. The amount of any compensation payable as a proportion of the market value of the animals depends on the length of any delay in testing.
+
+Article 19D provides a right of review to a person appointed by the Scottish Ministers in relation to any decision by the Scottish Ministers to pay £1 or reduced compensation under articles 18(4), 19B(4) and 19C(2) respectively.
+
+Article 2(9) substitutes a new article 21 in the 2007 Order. This enables the Scottish Ministers to serve on the keeper a test notice requiring the keeper to apply a diagnostic test for tuberculosis on the bovine animal before a date specified in the notice. This article also requires a keeper to comply with all reasonable requirements of an inspector or approved veterinary surgeon for facilitating any examination, testing, valuation or slaughter of any bovine animals.
+
+Article 2(10) substitutes a new article 22 in the 2007 Order. This provides that if the keeper fails to comply with a testing notice or any requirements under article 21 of the 2007 Order—
+
+- (a) the Scottish Ministers may take steps or arrange for steps to be taken to facilitate the examination, valuation, movement or slaughter of the bovine animal, or
+- (b) serve a notice on the keeper of the bovine animal prohibiting the movement of any bovine animal on to or off the premises.
+
+The Scottish Ministers may recover any reasonable expenses from exercising powers under this provision.
+
+Article 2(11) substitutes a new article 26(a) in the 2007 Order. The amended provision extends the prohibition on testing without the written consent of the Scottish Ministers to include the application of any diagnostic test for tuberculosis.
+
+Article 3 revokes a redundant definition of ‘authorised veterinary inspector’ in article 2(1) of the 2015 Order.
+
+A Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government Directorate for Agriculture, Food and Rural Communities, Animal Health and Welfare Division, Saughton House, Broomhouse Drive, Edinburgh EH11 3XG and online at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). The functions of the Secretary of State in so far as within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). See section 86 of the Animal Health Act 1981 for the exercise of functions in relation to tuberculosis. The requirement to obtain Treasury consent in section 32(3) of the Animal Health Act 1981 was removed by section 55 of the Scotland Act 1998.
+
+[^key-2b09c46f7641c7aa088c2c9b988608ca]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1) in force at 12.12.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1)
+
+[^key-50abc7789fe14a7edc625b99d7d21d66]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2018/333/article/2) revoked (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/93/schedule)
+
+[^key-b7dc0ce2677cf9d7414891d7ea83040d]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2018/333/article/3) in force at 12.12.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/333/article/1)
+
+[^f00009]: Footnote: [S.S.I. 2015/327](https://www.legislation.gov.uk/ssi/2015/327).

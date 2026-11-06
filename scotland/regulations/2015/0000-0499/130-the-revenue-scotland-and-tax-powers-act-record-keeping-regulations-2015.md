@@ -1,0 +1,138 @@
+---
+title: The Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015
+id: ssi/2015/130
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-03-17'
+text_date: '2025-12-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/130
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/130/pdfs/ssipn_20150130_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/130/pdfs/ssi_20150130_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/130/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015
+
+> Text as at 2025-12-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 130
+
+Taxes
+
+The Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015
+
+Made
+
+17th March 2015
+
+Coming into force
+
+1st April 2015
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 74(9) to (11) and 81 of, and paragraph 3(3) to (5) of schedule 3 to, the Revenue Scotland and Tax Powers Act 2014[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 254(3)(f) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement[^key-34c4e80ffeeb169da525f8dacc032f71]
+
+These Regulations may be cited as the Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015 and come into force on 1st April 2015.
+
+## 2. Interpretation[^key-cd7fb44e39cc09f7d48fc9db263f0638]
+
+In these Regulations—
+
+- “the Act” means the Revenue Scotland and Tax Powers Act 2014;
+- “the Administration Regulations” means the Scottish Landfill Tax (Administration) Regulations 2015[^f00002];
+- “landfill invoice” has the meaning given in regulation 2(1) of the Administration Regulations;
+- “relevant transaction” means a disposal of anything that would be a disposal but for the fact that the material is not disposed of as waste; and
+- “transfer note” has the meaning given in regulation 2(1) of the Administration Regulations.
+
+## 3. Records in respect of landfill tax[^key-fa13a6df6bf84cea750ccb038d778624]
+
+(1) Every person referred to in section 74(1) and (3) of the Act shall, for the purpose of accounting for landfill tax under the LT(S) Act 2014, preserve the following—
+
+- (a) the person’s business and accounting records;
+- (b) a landfill tax account in such form and containing such particulars as may be specified in a notice published by Revenue Scotland (and not subsequently withdrawn);
+- (c) transfer notes and any other original or copy records in relation to material brought on to or removed from the landfill site;
+- (d) all invoices (including landfill invoices) and similar documents issued to the person and copies of such invoices and similar documents issued by the person;
+- (e) all credit or debit notes or other documents received by the person which evidence an increase or decrease in the amount of any consideration for a relevant transaction, and copies of such documents that are issued by the person;
+- (f) such other records as may be specified in a notice published by Revenue Scotland (and not subsequently withdrawn).
+
+(2) The evidence required in support of a claim detailed in regulation 21 of the Administration Regulations and records required to be kept detailed in regulation 22 of those Regulations are supporting documents specified as required to be kept under section 74 of the Act or, as the case may be, records included in records required to be kept and preserved under that section.
+
+(3) The evidence required in support of a claim detailed in regulation 21 of the Administration Regulations and records required to be kept detailed in regulation 22 of those Regulations are supporting documents specified as required to be kept under paragraph 3 of schedule 3 to the Act or, as the case may be, records included in records required to be kept and preserved under that paragraph.
+
+## 4. Records in respect of land and buildings transaction tax[^key-6eac294e0a8fda37d4c0e64899ce8528]
+
+(1) The buyer in a land transaction which is not notifiable must keep such records as may be needed to enable the buyer to demonstrate that the transaction is not notifiable.
+
+(2) Subject to paragraph (3), sections 74(2), (5), (7) and (8), and 76 to 79 of the Act apply to a buyer mentioned in paragraph (1) as those sections apply to a person mentioned in section 74(1) of the Act.
+
+(3) In paragraph (2) the reference to section 74(5) of the Act is a reference to that subsection, with the following substituted for paragraph (a)—
+
+> - (a) the fifth anniversary of the day by which a return would have been required to have been made, had the land transaction been notifiable,
+
+.
+
+## 5. Records in respect of Scottish aggregates tax[^key-b5a7cc4a9663750003f90bfa6c09213e]
+
+A registrable person (as defined in section 18(7) of the Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024) is obliged to keep the following records—
+
+- (a) the person’s business and accounting records (including stock records);
+- (b) an aggregates tax account in such form and containing such particulars as may be specified in a notice published by Revenue Scotland (and not subsequently withdrawn);
+- (c) all invoices (including aggregates invoices as defined in the Scottish Aggregates Tax (Administration) Regulations 2025) and similar documents issued to the person and copies of such invoices and similar documents issued by the person;
+- (d) all credit or debit notes or other documents received by the person which evidence an increase or decrease in the amount of any consideration for a relevant transaction, and copies of such documentation as are issued by the person;
+- (e) documentary evidence (including the workings and all relevant background documents) necessary to explain and support any calculation of the weight of taxable or exempt aggregate;
+- (f) transfer notes, haulage slips or other documentation that relates to material that is brought into or taken from a site;
+- (g) documentary evidence regarding the adjustment of an entry concerning the amount of Scottish aggregates tax for which the person is liable to account;
+- (h) documentary evidence regarding amounts of aggregate which have been dumped or disposed of to landfill;
+- (i) documentary evidence regarding any claim by the registrable person for any tax credit claimed in respect of Scottish aggregates tax including, wherever relevant, evidence of insolvency and liquidation or export and end use and, in each case, regarding any relevant surrounding circumstances; and
+- (j) any other such other records as may be specified by a notice published by Revenue Scotland (and not subsequently withdrawn).
+
+**6.** A person who is exempt from registration by virtue of regulations under section 18(5) of the Aggregates and Devolved Taxes Administration (Scotland) Act 2024 is obliged to keep the following records—
+
+- (a) such records as are necessary to demonstrate eligibility for that exempt status; and
+- (b) any other such other records as may be specified by a notice published by Revenue Scotland (and not subsequently withdrawn).
+
+JOHN SWINNEY
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+17th March 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provisions about records which must be kept in relation to landfill tax. They also provide for records which must be kept in relation to land and buildings transaction tax, in relation to transactions that are not notifiable.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 16](https://www.legislation.gov.uk/asp/2014/16).
+
+[^key-34c4e80ffeeb169da525f8dacc032f71]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
+
+[^key-cd7fb44e39cc09f7d48fc9db263f0638]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
+
+[^f00002]: Footnote: [S.S.I. 2015/3](https://www.legislation.gov.uk/ssi/2015/3).
+
+[^key-fa13a6df6bf84cea750ccb038d778624]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
+
+[^key-6eac294e0a8fda37d4c0e64899ce8528]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1)
+
+[^key-b5a7cc4a9663750003f90bfa6c09213e]: Textual amendment: [Regs. 5](https://www.legislation.gov.uk/ssi/2015/130/regulation/5), [6](https://www.legislation.gov.uk/ssi/2015/130/regulation/6) inserted (1.12.2025) by [The Revenue Scotland and Tax Powers Act (Record Keeping) Amendment Regulations 2025 (S.S.I. 2025/375)](https://www.legislation.gov.uk/ssi/2025/375), [regs. 1](https://www.legislation.gov.uk/ssi/2025/375/regulation/1), [3](https://www.legislation.gov.uk/ssi/2025/375/regulation/3)

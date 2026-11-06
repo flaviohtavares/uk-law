@@ -1,0 +1,160 @@
+---
+title: The Equality Act 2010 (Specific Duties) (Scotland) Amendment Regulations 2016
+id: ssi/2016/159
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-17'
+text_date: '2024-02-08'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/159
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/159/pdfs/ssipn_20160159_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/159/pdfs/ssi_20160159_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/159/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Equality Act 2010 (Specific Duties) (Scotland) Amendment Regulations 2016
+
+> Text as at 2024-02-08.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2016 No. 159
+
+Equality
+
+The Equality Act 2010 (Specific Duties) (Scotland) Amendment Regulations 2016
+
+Made
+
+17th March 2016
+
+Coming into force
+
+18th March 2016
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 153(3) and 207(4) of the Equality Act 2010[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 153(4) of that Act, the Scottish Ministers have consulted the Commission for Equality and Human Rights.
+
+In accordance with section 210(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement[^key-6e6959acb038ad60e702d194666c94e4]
+
+These Regulations may be cited as the Equality Act 2010 (Specific Duties) (Scotland) Amendment Regulations 2016 and come into force on the day after the day on which they are made.
+
+## 2. Amendment of the Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012[^key-6b31bea99e67bf427172e7b8616d2cc5]
+
+The Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012[^f00002] are amended as follows.
+
+## 3. Regulation 2A[^key-2f4de1954a23b2a3b46d2464ef584576]
+
+In regulation 2A (further listed authorities)—
+
+- (a) in paragraph (2), for “to (6)” substitute “and (4)”;
+- (b) omit paragraphs (5) and (6); and
+- (c) in paragraph (7)—
+  - (i) omit sub-paragraph (a) and the word “and” immediately after it; and
+  - (ii) in sub-paragraph (b)(i), for “, 4(1)(a), 7(2)(a) and 8(1)(a)” substitute “and 4(1)(a)”.
+
+## 4. New regulation 6A[^key-74f120f5f43d60a69677dbf3d371f165]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Regulation 7[^key-eafdf73cde88ea9482d02b36ab59ac7c]
+
+In regulation 7 (duty to publish gender pay gap information)—
+
+- (a) in paragraph (1), after “must” insert “, in accordance with regulation 8A,”;
+- (b) omit paragraphs (2), (4) and (5); and
+- (c) in paragraph (3), for “150” substitute “20”.
+
+## 6. Regulation 8[^key-4032da4e4b9d77932ac35853b0e47586]
+
+In regulation 8 (duty to publish statements on equal pay, etc.)—
+
+- (a) in paragraph (1)—
+  - (i) after “must”, insert “, in accordance with regulation 8A,”; and
+  - (ii) omit the words after “paragraph (2)”;
+- (b) in paragraph (3), for “150” substitute “20”;
+- (c) omit paragraph (4);
+- (d) in paragraph (5), for “paragraph (1)” substitute “this regulation”; and
+- (e) in paragraph (7), omit “and the figure of “150” in paragraphs (3) and (4)”.
+
+## 7. New regulation 8A[^key-b4b26f0466befe6b4233a23553e240c2]
+
+After regulation 8, insert—
+
+> **8A. Publication under regulations 7 and 8**
+>
+> (1) Publication under regulations 7(1) and 8(1) is to take place no later than—
+>
+> - (a) 30th April 2016 in the case of Food Standards Scotland;
+> - (b) 30th April 2017 in the case of Historic Environment Scotland or an authority listed in the Schedule;
+> - (c) 30th April 2018 in the case of an authority listed in sub-paragraphs (a) and (d) to (f) of regulation 2A(1).
+>
+> (2) Publication is also to take place—
+>
+> - (a) under regulation 7(1), no later than 30th April in each second year after the year specified in paragraph (1) in relation to the authority in question;
+> - (b) under regulation 8(1), no later than 30th April in each fourth year after the year specified in paragraph (1) in relation to the authority in question.
+>
+> (3) An authority need not effect publication under regulations 7(1) and 8(1) by the end of a relevant period if, during that period, the authority has at no time had 20 or more employees.
+>
+> (4) Each of the following is a “relevant period” for the purposes of paragraph (3)—
+>
+> - (a) in relation to publication under regulation 7(1) by an authority listed in the Schedule, the period from 1st May 2015 to 30th April 2017;
+> - (b) in relation to publication under regulation 8(1) by an authority listed in the Schedule, the period from 1st May 2013 to 30th April 2017;
+> - (c) in relation to publication by Food Standards Scotland, the period from 11th June 2015 to 30th April 2016;
+> - (d) in relation to publication by Historic Environment Scotland, the period from 11th June 2015 to 30th April 2017;
+> - (e) in relation to publication by an authority listed in sub-paragraphs (a) and (d) to (f) of regulation 2A(1), the period from 11th June 2015 to 30th April 2018;
+> - (f) in relation to any listed authority, the period from the day after publication by that authority is due under paragraph (1) (ignoring paragraph (3)) to the day by which publication is next due under paragraph (2);
+> - (g) in relation to any listed authority, the period from the day after publication by that authority is due under paragraph (2) (ignoring paragraph (3)) to the day by which publication is next due under that paragraph.
+
+.
+
+ALEX NEIL
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+17th March 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012 (“the 2012 Regulations”).
+
+A new regulation 6A is inserted into the 2012 Regulations. This requires the Scottish Ministers to gather information on the relevant protected characteristics of members of an authority listed for the purposes of those Regulations and to provide that information to the authority. An authority must use information received to better perform the equality duty set out in section 149(1) of the Equality Act 2010 and must set out certain relevant details in any report on progress on mainstreaming the equality duty (under regulation 3 of the 2012 Regulations).
+
+These Regulations also insert a new regulation 8A into the 2012 Regulations. This sets out revised timescales for publishing gender pay gap information and statements on equal pay under regulations 7 and 8 of the 2012 Regulations. Whilst at present publication under those regulations is not required where an authority has under 150 employees, these Regulations require publication except where an authority has less than 20 employees.
+
+## Annotations
+
+[^f00001]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15); Part 3 of Schedule 19 to the Equality Act 2010 makes provision relevant to the exercise of these powers and was amended by section 61(3) of the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [S.S.I. 2011/233](https://www.legislation.gov.uk/ssi/2011/233), [S.S.I. 2012/55](https://www.legislation.gov.uk/ssi/2012/55), [S.S.I. 2013/170](https://www.legislation.gov.uk/ssi/2013/170), [S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602) and [S.S.I. 2015/83](https://www.legislation.gov.uk/ssi/2015/83).
+
+[^key-6e6959acb038ad60e702d194666c94e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+
+[^key-6b31bea99e67bf427172e7b8616d2cc5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+
+[^f00002]: Footnote: [S.S.I. 2012/162](https://www.legislation.gov.uk/ssi/2012/162), amended by [S.S.I. 2015/254](https://www.legislation.gov.uk/ssi/2015/254).
+
+[^key-2f4de1954a23b2a3b46d2464ef584576]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+
+[^key-74f120f5f43d60a69677dbf3d371f165]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/159/regulation/4) omitted (8.2.2024) by virtue of [The Equality Act 2010 (Specific Duties) (Use of Member Information) (Scotland) Revocation Regulations 2023 (S.S.I. 2023/375)](https://www.legislation.gov.uk/ssi/2023/375), [regs. 1](https://www.legislation.gov.uk/ssi/2023/375/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/375/regulation/3)
+
+[^key-eafdf73cde88ea9482d02b36ab59ac7c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+
+[^key-4032da4e4b9d77932ac35853b0e47586]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+
+[^key-b4b26f0466befe6b4233a23553e240c2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)

@@ -1,0 +1,63 @@
+---
+title: Air Weapons and Licensing (Scotland) Act 2015, section 29
+act: Air Weapons and Licensing (Scotland) Act 2015
+section: '29'
+status: revised
+text_date: '2021-01-27'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2015/10/section/29
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Air Weapons and Licensing (Scotland) Act 2015, section 29
+
+> Text as at 2021-01-27.
+>
+> Extent: Scotland.
+
+## 29. Forfeiture and disposal of air weapons[^M_I_37cac56d-9989-40eb-d356-aae483a0d8b0]
+
+*Extent: S*
+
+(1) Subsection (2) applies where a person (“A”) is convicted of an air weapon offence.
+
+(2) Where this subsection applies, the court by or before which A is convicted may make such order as to the forfeiture or disposal of any air weapon found in A's possession as the court thinks fit.
+
+(3) A constable may seize and detain an air weapon which may be the subject of an order for forfeiture under this section or which, but for subsection (5), could be the subject of such an order.
+
+(4) A sheriff may, on an application of the chief constable, order the disposal (by any means the chief constable thinks fit) of any air weapon seized and detained by a constable under this Part.
+
+(5) No order is to be made under subsection (2) or (4) for the forfeiture or disposal of an air weapon which is possessed for the purposes of a museum.
+
+(6) Subsection (7) applies where—
+
+- (a) an air weapon is surrendered in pursuance of—
+  - (i) a notice given under section 11(3) which revokes an individual's air weapon certificate, or
+  - (ii) a notice given under section 16(1) which revokes an individual's police permit or visitor permit, and
+- (b) the individual appeals against the decision to revoke the individual's air weapon certificate, police permit or, as the case may be, visitor permit (and does not withdraw that appeal prior to its determination).
+
+(7) Where this subsection applies—
+
+- (a) if the appeal is successful, the air weapon must be returned,
+- (b) if the appeal is dismissed, the sheriff may make such order for the disposal of the air weapon as the sheriff considers appropriate.
+
+(8) Subsection (9) applies where—
+
+- (a) an air weapon is surrendered in pursuance of—
+  - (i) a notice given under section 11(3) which revokes an individual's air weapon certificate, or
+  - (ii) a notice given under section 16(1) which revokes an individual's police permit or visitor permit, and
+- (b) the individual—
+  - (i) does not appeal against the decision to revoke the individual's air weapon certificate, police permit or, as the case may be, visitor permit, or
+  - (ii) makes and subsequently withdraws an appeal against such a decision.
+
+(9) Where this subsection applies, the air weapon is to be disposed of—
+
+- (a) in such manner as the chief constable and the owner of the weapon may agree, or
+- (b) in default of such agreement, in such manner as the chief constable may decide.
+
+(10) Where the chief constable decides to dispose of an air weapon under subsection (9)(b), the chief constable must give the owner notice of the decision.
+
+## Annotations
+
+[^M_I_37cac56d-9989-40eb-d356-aae483a0d8b0]: Commencement: S. 29 in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

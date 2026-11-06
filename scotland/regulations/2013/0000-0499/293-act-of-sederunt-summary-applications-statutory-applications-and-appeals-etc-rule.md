@@ -1,0 +1,185 @@
+---
+title: Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Miscellaneous) 2013
+id: ssi/2013/293
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-10-17'
+text_date: '2013-11-11'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/293
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/293/pdfs/ssi_20130293_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/293/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Miscellaneous) 2013
+
+> Text as at 2013-11-11.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 293
+
+Sheriff Court
+
+Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Miscellaneous) 2013
+
+Made
+
+17th October 2013
+
+Laid before the Scottish Parliament
+
+21st October 2013
+
+Coming into force
+
+11th November 2013
+
+The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001], section 446 of the Proceeds of Crime Act 2002[^f00002] and of all other powers enabling them in that behalf, having approved with such modifications as they think appropriate draft rules submitted to them by the Scottish Civil Justice Council in accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013[^f00003], do hereby enact and declare:
+
+## 1. Citation, commencement and interpretation[^key-ea6b9d089851c264903dc1d767dc7840]
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Miscellaneous) 2013.
+
+(2) It comes into force on 11th November 2013.
+
+(3) A certified copy of this Act of Sederunt is to be inserted in the Books of Sederunt.
+
+(4) In this Act of Sederunt the “Summary Application Rules” means the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999[^f00004].
+
+## 2. Adults with Incapacity[^key-99a8d6230e69748329d1f54d19aee052]
+
+(1) The Summary Application Rules are amended in accordance with the following subparagraphs.
+
+(2) In rule 3.16.1 (Interpretation)[^f00005], for the definition of “guardianship order” substitute—
+
+> - “guardianship order” means an order made under—
+>   - (a) section 57(2)(c) or section 58(1A) of the Criminal Procedure (Scotland) Act 1995; or
+>   - (b) section 58(4) of the 2000 Act;
+
+.
+
+(3) In rule 3.16.4 (Service of application and renewal proceedings)[^f00006]—
+
+- (a) in paragraph (1) at the end of head (ii) of subparagraph (i), insert “and”;
+- (b) in paragraph (4)—
+  - (i) at the beginning of subparagraph (a), insert “immediately”;
+  - (ii) in subparagraph (b) before “complete”, insert “, and in any event before the date of the hearing specified in Form 20,”.
+
+(4) In rule 3.16.8 (Subsequent applications)[^f00007]—
+
+- (a) after paragraph (1), insert—
+
+  > (1ZA) Where a guardianship order has been made under section 57(2)(c) or section 58(1A) of the Criminal Procedure (Scotland) Act 1995, an application to renew it shall be made—
+  >
+  > - (a) on the first such application, in Form 23;
+  > - (b) on any subsequent application, in the form of a minute lodged in the process.
+
+  ;
+- (b) in paragraph (1A) for “any such minute” substitute “any minute lodged under this rule”.
+
+(5) In Form 21 (Form of notice to managers)[^f00008] after “You are requested”, insert “immediately on receipt”.
+
+## 3. Civil Recovery: external investigations[^key-988da9969bc5fbd2ed02170b2928d8cd]
+
+After Part XLII (Regulation of Investigatory Powers Act 2000)[^f00009] of the Summary Application Rules, insert—
+
+> **PART XLIII — PROCEEDS OF CRIME ACT 2002 (EXTERNAL INVESTIGATIONS) ORDER 2013**
+>
+> **3.43.1. Application of this Part**
+>
+> This Part applies to applications to the sheriff under Part 2 of the Proceeds of Crime Act 2002 (External Investigations) Order 2013[^f00010].
+>
+> **3.43.2. Applications**
+>
+> (1) An application under the following provisions shall be made by summary application—
+>
+> - (a) article 40(1) (production orders);
+> - (b) article 47(1) (search warrants);
+> - (c) article 56(1) (customer information orders);
+> - (d) article 63(1) (account monitoring orders).
+>
+> (2) An application under the following provisions shall be made by minute in the process of the original application—
+>
+> - (a) article 46(2) (discharge or variation of a production order or an order to grant entry);
+> - (b) article 62(2) (discharge or variation of a customer information order);
+> - (c) article 67(2) (discharge or variation of an account monitoring order).
+>
+> (3) An application under article 42(2) (order to grant entry) shall be made—
+>
+> - (a) in the application for the production order; or
+> - (b) where the application is made after a production order is made, by minute in the process of the application for the production order.
+
+.
+
+## 4. Saving provision[^key-6c0a640e4b4af0d4e895099326181f39]
+
+The amendments made to the Summary Application Rules by paragraph 2 have no effect in respect of any application or proceedings raised but not yet determined by 11th November 2013.
+
+BRIAN GILL
+
+Lord President
+
+I.P.D.
+
+Edinburgh
+
+17th October 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt makes amendments to the Summary Application Rules in respect of proceedings under the Adults with Incapacity (Scotland) Act 2000 and under the Proceeds of Crime Act 2002 (External Investigations) Order 2013.
+
+Paragraph 2 amends Part XVI of the Summary Application Rules, which relates to proceedings under the Adults with Incapacity (Scotland) Act 2000.
+
+Paragraph 2(2) substitutes a new definition of “guardianship order” so that it refers expressly to guardianship orders granted under section 57(2)(c) or section 58(1A) of the Criminal Procedure (Scotland) Act 1995, as well as those under section 58(4) of the Adults with Incapacity (Scotland) Act 2000.
+
+Paragraph 2(3)(a) makes a minor correction to rule 3.16.4(1), which specifies the persons on whom service of an application or other proceedings must be effected.
+
+Paragraph 2(3)(b) amends rule 3.16.4(4), which requires the managers of authorised establishments (within the meaning of section 35(2) of the Adults with Incapacity (Scotland) Act 2000) to deliver Form 20 (notice of hearing) to an adult who is in an authorised establishment. It clarifies the timescales within which that delivery is to take place. Paragraph 2(5) makes a corresponding amendment to Form 21.
+
+Paragraph 2(4) inserts a new paragraph (1ZA) into rule 3.16.8 in order to provide for the situation where a guardianship order was first made by a criminal court under the Criminal Procedure (Scotland) Act 1995. In those circumstances, there is no civil process in which to lodge a minute seeking renewal of the order, and so the new provision provides for applications to be made in Form 23 in the first instance and thereafter by minute in the process. It makes a consequential amendment to paragraph (1A).
+
+Paragraph 3 inserts a new Part XLIII of Chapter 3 which prescribes the form in which applications under the provisions of the Proceeds of Crime Act 2002 (External Investigations) Order 2013 are to be made.
+
+The Act of Sederunt comes into force on 11th November 2013. Paragraph 4 provides that the amendments in paragraph 2 do not apply to applications or other proceedings raised but not determined by that date.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58). Section 32 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73), Schedule 2, paragraph 12; the Civil Evidence (Scotland) Act [1988 (c. 32)](https://www.legislation.gov.uk/ukpga/1988/32), section 2(4); the Children (Scotland) Act [1995 (c. 36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 18(2); the Adults with Incapacity (Scotland) Act [2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), schedule 5, paragraph 13; the Debt Arrangement and Attachment (Scotland) Act [2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), section 43; the Vulnerable Witnesses (Scotland) Act [2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(2); the Consumer Credit Act [2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), section 16(4); the Bankruptcy and Diligence (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), section 33 and Schedule 5, paragraph 10 (in part); the Legal Services (Scotland) Act [2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), section 127(a); the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), section 185; and the Scottish Civil Justice Council and Criminal Legal Assistance Act [2013 (asp 3)](https://www.legislation.gov.uk/asp/2013/3), section 15(2).
+
+[^f00002]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29).
+
+[^f00003]: Footnote: [2013 asp 3](https://www.legislation.gov.uk/asp/2013/3).
+
+[^key-ea6b9d089851c264903dc1d767dc7840]: Commencement: Para. 1 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)
+
+[^f00004]: Footnote: [S.I.1999/929](https://www.legislation.gov.uk/uksi/1999/929), amended by [S.S.I. 2000/148](https://www.legislation.gov.uk/ssi/2000/148) and [387](https://www.legislation.gov.uk/ssi/2000/387); [2001/142](https://www.legislation.gov.uk/ssi/2001/142); [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [129](https://www.legislation.gov.uk/ssi/2002/129), [130](https://www.legislation.gov.uk/ssi/2002/130), [146](https://www.legislation.gov.uk/ssi/2002/146), and [563](https://www.legislation.gov.uk/ssi/2002/563); [2003/26](https://www.legislation.gov.uk/ssi/2003/26), [27](https://www.legislation.gov.uk/ssi/2003/27), [98](https://www.legislation.gov.uk/ssi/2003/98), [261](https://www.legislation.gov.uk/ssi/2003/261), [319](https://www.legislation.gov.uk/ssi/2003/319), [346](https://www.legislation.gov.uk/ssi/2003/346) and [556](https://www.legislation.gov.uk/ssi/2003/556); [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [222](https://www.legislation.gov.uk/ssi/2004/222), [334](https://www.legislation.gov.uk/ssi/2004/334) and [455](https://www.legislation.gov.uk/ssi/2004/455); [2005/61](https://www.legislation.gov.uk/ssi/2005/61), [445](https://www.legislation.gov.uk/ssi/2005/445), [473](https://www.legislation.gov.uk/ssi/2005/473), [504](https://www.legislation.gov.uk/ssi/2005/504) and [648](https://www.legislation.gov.uk/ssi/2005/648); [2006/198](https://www.legislation.gov.uk/ssi/2006/198), [410](https://www.legislation.gov.uk/ssi/2006/410), [437](https://www.legislation.gov.uk/ssi/2006/437) and [509](https://www.legislation.gov.uk/ssi/2006/509); [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [233](https://www.legislation.gov.uk/ssi/2007/233), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463); [2008/9](https://www.legislation.gov.uk/ssi/2008/9), [41](https://www.legislation.gov.uk/ssi/2008/41), [111](https://www.legislation.gov.uk/ssi/2008/111), [223](https://www.legislation.gov.uk/ssi/2008/223), [335](https://www.legislation.gov.uk/ssi/2008/335), [365](https://www.legislation.gov.uk/ssi/2008/365) and [375](https://www.legislation.gov.uk/ssi/2008/375); [2009/107](https://www.legislation.gov.uk/ssi/2009/107), [109](https://www.legislation.gov.uk/ssi/2009/109), [164](https://www.legislation.gov.uk/ssi/2009/164), [294](https://www.legislation.gov.uk/ssi/2009/294), [320](https://www.legislation.gov.uk/ssi/2009/320) and [402](https://www.legislation.gov.uk/ssi/2009/402); [2010/324](https://www.legislation.gov.uk/ssi/2010/324), [340](https://www.legislation.gov.uk/ssi/2010/340) and [416](https://www.legislation.gov.uk/ssi/2010/416); [2011/193](https://www.legislation.gov.uk/ssi/2011/193) and [386](https://www.legislation.gov.uk/ssi/2011/386); [2012/188](https://www.legislation.gov.uk/ssi/2012/188) and [271](https://www.legislation.gov.uk/ssi/2012/271); [2013/91](https://www.legislation.gov.uk/ssi/2013/91), [135](https://www.legislation.gov.uk/ssi/2013/135), [171](https://www.legislation.gov.uk/ssi/2013/171) and [241](https://www.legislation.gov.uk/ssi/2013/241).
+
+[^key-99a8d6230e69748329d1f54d19aee052]: Commencement: Para. 2 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)
+
+[^f00005]: Footnote: Rule 3.16.1 was inserted by [S.S.I. 2001/142](https://www.legislation.gov.uk/ssi/2001/142), and amended by [S.S.I. 2002/146](https://www.legislation.gov.uk/ssi/2002/146), [2005/445](https://www.legislation.gov.uk/ssi/2005/445) and [2008/111](https://www.legislation.gov.uk/ssi/2008/111).
+
+[^f00006]: Footnote: Rule 3.16.4 was inserted by [S.S.I. 2001/142](https://www.legislation.gov.uk/ssi/2001/142), and amended by [S.S.I. 2002/146](https://www.legislation.gov.uk/ssi/2002/146) and [2013/171](https://www.legislation.gov.uk/ssi/2013/171).
+
+[^f00007]: Footnote: Rule 3.16.8 was inserted by [S.S.I. 2001/142](https://www.legislation.gov.uk/ssi/2001/142), and amended by [S.S.I. 2002/146](https://www.legislation.gov.uk/ssi/2002/146), [2008/111](https://www.legislation.gov.uk/ssi/2008/111) and [2013/171](https://www.legislation.gov.uk/ssi/2013/171).
+
+[^f00008]: Footnote: Form 21 was inserted by [S.S.I. 2001/142](https://www.legislation.gov.uk/ssi/2001/142).
+
+[^key-988da9969bc5fbd2ed02170b2928d8cd]: Commencement: Para. 3 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)
+
+[^f00009]: Footnote: Part XLII was inserted by [S.S.I. 2012/271](https://www.legislation.gov.uk/ssi/2012/271).
+
+[^f00010]: Footnote: [S.I. 2013/2605](https://www.legislation.gov.uk/uksi/2013/2605).
+
+[^key-6c0a640e4b4af0d4e895099326181f39]: Commencement: Para. 4 in force at 11.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/293/paragraph/1/2)

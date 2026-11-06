@@ -1,0 +1,85 @@
+---
+title: The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2024
+id: ssi/2024/142
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2024-05-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2024/142
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2024/142/pdfs/ssipn_20240142_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2024/142/pdfs/ssi_20240142_en.pdf
+- http://www.legislation.gov.uk/ssi/2024/142/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2024
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2024 No. 142
+
+Social Care
+
+The Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2024
+
+Made
+
+9th May 2024
+
+Coming into force
+
+3rd June 2024
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 78(2) and (3) and 104(1) of the Public Services Reform (Scotland) Act 2010[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 78(5) of that Act, they have consulted such persons, or groups of persons, as they consider appropriate.
+
+In accordance with section 104(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Registration of Social Workers and Social Service Workers in Care Services (Scotland) Amendment Regulations 2024 and come into force on 3 June 2024.
+
+(2) In these Regulations “**the 2013 Regulations**” means the Registration of Social Workers and Social Service Workers in Care Services (Scotland) Regulations 2013[^f00002].
+
+## 2. Amendment of the 2013 Regulations
+
+(1) The 2013 Regulations are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 4(2) of those Regulations, for “as soon as reasonably practicable” substitute “before the expiry of a period of 3 months”.
+
+(3) In regulation 5(2) of those Regulations, for “as soon as reasonably practicable” substitute “before the expiry of a period of 3 months”.
+
+## 3. Saving provision
+
+The amendments made to regulations 4 and 5 of the 2013 Regulations by these Regulations have no effect in relation to a person who starts work (or, in the case of a social service worker, who starts work as a different description of social service worker) before 3 June 2024.
+
+NATALIE DON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+9th May 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend regulations 4(2) and 5(2) of the Registration of Social Workers and Social Service Workers in Care Services (Scotland) Regulations 2013 (“**the 2013 Regulations**”) to amend the time within which (respectively) social workers and social services workers starting work must apply to register with the Scottish Social Services Council.
+
+Such workers must now apply for registration within 3 months (rather than “as soon as possible”) after starting work. The 2013 Regulations still provide for a period of grace of 6 months from starting work for registration to take place. In the case of social service workers, the obligation to register also applies where they start work as a different description of social service worker (the descriptions of social service worker being prescribed by the Regulation of Care (Social Service Workers) (Scotland) Order 2024).
+
+## Annotations
+
+[^f00001]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
+
+[^f00002]: Footnote: [S.S.I. 2013/227](https://www.legislation.gov.uk/ssi/2013/227).

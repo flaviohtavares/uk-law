@@ -1,0 +1,36 @@
+---
+title: Nature Conservation (Scotland) Act 2004, section 5
+act: Nature Conservation (Scotland) Act 2004
+section: '5'
+status: revised-with-pending-changes
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2004/6/section/5
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Nature Conservation (Scotland) Act 2004, section 5
+
+> **Warning: changes not yet applied to this text (11).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/asp/2004/6
+>
+> Extent: Scotland.
+
+## 5. Enlargement of sites of special scientific interest[^key-024a81e2faed1e1dfbc09c96ae78d5d0]
+
+*Extent: S*
+
+(1) Where SNH considers that if land (“extra land”) which is contiguous to or which it considers to be otherwise associated with a site of special scientific interest were combined with the site, the combined land would be of special interest by reason of any of its natural features, it may notify that fact to the persons who are the interested parties in relation to the extra land.
+
+(2) Subsection (3) of section 3 applies for the purposes of subsection (1) of this section as it applies for the purposes of subsection (1) of that section.
+
+(3) Sections 3(4) and 4(1) and (2) apply in relation to a notification of extra land under subsection (1) of this section as they apply to a notification under section 3(1), but as if—
+
+- (a) in section 3(4)(a)(ii), the reference to the land were a reference to the combined land,
+- (b) in section 4(2), the references to a site of special scientific interest were references to the combined land.
+
+(4) Representations under schedule 1 with respect to a notification under subsection (1) are not competent so far as they relate to the original SSSI notification.
+
+## Annotations
+
+[^key-024a81e2faed1e1dfbc09c96ae78d5d0]: Commencement: S. 5 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

@@ -1,0 +1,69 @@
+---
+title: Regulation of Legal Services (Scotland) Act 2025, section 8
+act: Regulation of Legal Services (Scotland) Act 2025
+section: '8'
+status: revised-with-pending-changes
+text_date: '2026-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2025/8/section/8
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulation of Legal Services (Scotland) Act 2025, section 8
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/asp/2025/8
+>
+> Extent: Scotland.
+
+## 8. Exercise of regulatory functions[^key-7ab496794ba8c5a0f1030c559838f65a][^key-a1256006d82a2320f54974240697139f]
+
+*Extent: S*
+
+(1) A category 1 regulator must exercise its regulatory functions—
+
+- (a) independently of its other functions or activities (if any),
+- (b) properly in all respects (in particular, with a view to achieving public confidence).
+
+(2) Where a category 1 regulator has functions other than regulatory functions, it must—
+
+- (a) establish and maintain a regulatory committee to discharge its regulatory functions,
+- (b) ensure that the governing body of the regulator does not interfere with the committee’s discharge of those functions,
+- (c) when consulted on a matter relating to its regulatory functions, delegate responsibility for responding to the committee (in so far as the matter relates to those functions).
+
+(3) A category 1 regulator must—
+
+- (a) consult its regulatory committee before making decisions affecting the committee’s funding and resources, and
+- (b) ensure that the committee is adequately funded and resourced to be able to discharge its functions.
+
+(4) A regulatory committee—
+
+- (a) must (in accordance with this Act or any other enactment) determine its composition, governance arrangements and priorities,
+- (b) may arrange for the exercise of its functions by a sub-committee or an individual (which may be a member of staff of the regulator).
+
+(5) But, an arrangement under subsection (4)(b)—
+
+- (a) may not delegate—
+  - (i) the regulatory committee’s function of making regulatory rules under this Act or any other enactment,
+  - (ii) to an individual, the committee’s function of determining what action it proposes to take in respect of a conduct or regulatory complaint remitted under section 6 or 7A of the 2007 Act or, as the case may be, initiated in accordance with section 33A or 33B of that Act, and
+- (b) does not affect or limit the regulatory committee’s—
+  - (i) responsibility for the exercise of the delegated functions, or
+  - (ii) ability to exercise those functions.
+
+(6) A regulatory committee must maintain and publish a document setting out its—
+
+- (a) composition, membership and governance arrangements,
+- (b) regulatory functions (including powers and duties) and procedures,
+- (c) arrangements (if any) for the delegation of functions.
+
+(7) A regulatory committee of a category 1 regulator must consult the governing body of the regulator before making any material change to its governance arrangements.
+
+(8) Except where provided for in an enactment, the governing body and regulatory committee of a category 1 regulator are to agree arrangements for resolving any disputes that may arise between them.
+
+(9) In this Part, a reference to the governing body of a category 1 regulator is a reference to the group of persons (however described) who are responsible for the direction, management and control of the regulator and the exercise of its statutory functions.
+
+## Annotations
+
+[^key-7ab496794ba8c5a0f1030c559838f65a]: Commencement: S. 8 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+
+[^key-a1256006d82a2320f54974240697139f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/8/section/8) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

@@ -1,0 +1,38 @@
+---
+title: Debt Arrangement and Attachment (Scotland) Act 2002, section 36
+act: Debt Arrangement and Attachment (Scotland) Act 2002
+section: '36'
+status: revised-with-pending-changes
+text_date: '2024-01-04'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2002/17/section/36
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Debt Arrangement and Attachment (Scotland) Act 2002, section 36
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/asp/2002/17
+>
+> Extent: Scotland.
+
+## 36. Procedure where articles in common ownership are sold at auction
+
+*Extent: S*
+
+(1) This subsection applies where—
+
+- (a) a third party claimed, before an attached article was auctioned, to own the article in common with the debtor;
+- (b) the debtor’s interest in the article has not transferred to the third party under section 35(2) above;
+- (c) the attachment of the article has not, by virtue of an order made under section 35(3) above, ceased to have effect;
+- (d) the third party’s interest in the article has, following the auction of the article, been transferred to another person; and
+- (e) either—
+  - (i) the third party’s claim is, after that transfer of interest, admitted by the creditor and the debtor; or
+  - (ii) where the third party’s claim is not so admitted, the sheriff, on an application by the third party after that transfer of interest, is satisfied that the claim is valid.
+
+(2) Where subsection (1) above applies, the creditor shall—
+
+- (a) where the article has been sold at the auction, pay to the third party the fraction of the proceeds of the sale of the article which corresponded to the third party’s interest in the article; or
+- (b) where the ownership of the article has passed to the creditor under section 31(2)(a) above, pay to the third party the fraction of the value of the article which corresponded to the third party’s interest in the article.
+
+(3) The reference in subsection (2)(b) above to the value of an article is a reference to the value of the article as fixed under subsection (2) or (3) of section 15 above or, as the case may be, section 51 or 54(1) below.

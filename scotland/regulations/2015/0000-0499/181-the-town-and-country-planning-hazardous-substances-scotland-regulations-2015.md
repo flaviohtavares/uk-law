@@ -1,0 +1,1855 @@
+---
+title: The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015
+id: ssi/2015/181
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-04-28'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/181
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/181/pdfs/ssipn_20150181_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/181/pdfs/ssi_20150181_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/181/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 181
+
+Town And Country Planning
+
+The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015
+
+Made
+
+28th April 2015
+
+Laid before the Scottish Parliament
+
+30th April 2015
+
+Coming into force
+
+1st June 2015
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c22521841], sections 252(1) and 267(1) of the Town and Country Planning (Scotland) Act 1997 [^c22521851] and sections 2(4) and (5), 3, 5, 6(1), 15(2), 16(7), 19(2) and (3), 22(4)(b), 23(1) and (3), 27(1), 30(1) and 39(1) of the Planning (Hazardous Substances) (Scotland) Act 1997) [^c22521861] and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for references in these Regulations to Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures [^c22521871] to be construed as references to that instrument as amended from time to time.
+
+## PART 1 — General
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 and come into force on 1st June 2015.
+
+### 2. Interpretation
+
+(1) In these Regulations, unless the context requires otherwise—
+
+- “**the 1993 Regulations**” means the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 1993 [^c22521881];
+- “**the 1997 Act**” means the Town and Country Planning (Scotland) Act 1997;
+- “**the 2013 Regulations**” means the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 [^c22521891];
+- “[^key-5e9082df8e2393f07bd8ce6cbb741105]**the 2015 Regulations**” means the Control of Major Accident Hazards Regulations 2015;
+- “appellant” in Part 5 means a person who gives notice of appeal under section 19 of the principal Act and in Part 7 a person who gives notice of appeal under regulation 43(2);
+- “**appointed person**” means a person appointed under paragraph 1 of the Schedule to the principal Act or paragraph 1 of Schedule 4 to the 1997 Act (as applied by virtue of regulation 43), as the case may be, to determine an appeal instead of the Scottish Ministers;
+- “**the CLP Regulation**” means Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045), and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907);
+- “**commencement date**” means 1st June 2015;
+- “**decision notice**” means a notice issued under regulation 18;
+- “**the Directive**” means Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) , as Directive 2012/18/EU had effect immediately before IP completion day[^key-e316007025f9487e0c3605f2d3fd4038];
+- “**Hazardous Substances Inquiry Session Rules**” means the Town and Country Planning (Hazardous Substances Inquiry Session Procedure) (Scotland) Rules 2015 [^c22521911];
+- “**hearing session**” means a hearing held or to be held into matters specified in a procedure notice given under rule 1(1) of the Hearing Session Rules;
+- “**Hearing Session Rules**” means the rules set out in Schedule 7;
+- “**inquiry session**” means a local inquiry held or to be held under—
+  - (a) section 265 of the 1997 Act as applied by section 36(1) of the principal Act; or
+  - (b) paragraph 6 of the Schedule to the principal Act;
+- “**interested party**” means in relation to an appeal under section 19 of the principal Act—
+  - (a) any person consulted by the planning authority in accordance with regulation 14 and from whom the planning authority received representations (which were not subsequently withdrawn) in connection with the application to which the appeal relates; and
+  - (b) any other person from whom the planning authority received representations (which were not subsequently withdrawn) in connection with the application to which the appeal relates;
+- “notice of appeal” in Part 5 means a notice of appeal given under regulation 24(1) and in Part 7 a notice of appeal given under regulation 43(2);
+- “**the principal Act**” means the Planning (Hazardous Substances) (Scotland) Act 1997;
+- “**procedure notice**” means a notice given (whether separately or in combination) under regulation 32(1), rule 1(1) of the Hearing Session Rules or rule 4(1) of the Hazardous Substances Inquiry Session Rules;
+- “**relevant consent**” means—
+  - (a) the consent, in the case of a hazardous substances consent granted on an application for such consent;
+  - (b) the relevant claim, in the case of a consent deemed to be granted under section 9 or 10A of the principal Act [^c22521921] (deemed hazardous substances consent: established presence); and
+  - (c) the relevant direction, in the case of a consent deemed to be granted, or having effect as if deemed to be granted, by virtue of section 10 of the principal Act (deemed hazardous substances consent: government authorisation) [^c22521931],
+
+  and includes any continuation of a consent referred to in paragraphs (a) to (c) which is granted or deemed to be granted under section 16 of the principal Act (determination of applications for continuation of hazardous substances consent);
+- “**safety regulator**” has the same meaning as in section 38(1) of the principal Act [^c22521941]; and
+- “validation date” is the date on which an application under regulation 6, 7 or 8 as the case may be, is taken to have been made in terms of regulation 11.
+
+(2) References in these Regulations to the CLP Regulation are references to that Regulation as it had effect immediately before IP completion day[^key-cd64e33f4b0eb07125590156e978c50e].
+
+(3) Schedule 1 (hazardous substances and controlled quantities) is to be construed in accordance with the notes to that Schedule.
+
+(4) Any requirement that a form is to be as set out in a specified Schedule is to be construed as meaning a form as so specified or a form substantially to the like effect.
+
+## PART 2 — Hazardous substances, controlled quantities and exemptions
+
+### 3. Hazardous substances and controlled quantities
+
+(1) For the purposes of the principal Act [^c22521951] a hazardous substance is any substance or mixture, present as a raw material, product, by-product, residue or intermediate—
+
+- (a) falling within a category in column 1 of Part 1 of Schedule 1;
+- (b) specified in column 1 of Part 2 of that Schedule; or
+- (c) meeting the description in column 1 of Part 3 of that Schedule.
+
+(2) For the purposes of the principal Act, the quantity specified in column 2 of Schedule 1 is the controlled quantity of the corresponding hazardous substance or category of hazardous substance, as the case may be, in column 1 of that Schedule.
+
+### 4. Exemptions
+
+Schedule 2 has effect.
+
+## PART 3 — Applications
+
+### 5. Notice to owner by applicants
+
+(1) Before submitting an application under regulation 6, 7 or 8 an applicant must give notice in the form set out in Schedule 3 to any person (other than the applicant) who at the beginning of the period of 21 days ending on the date of submission of the application (“**the relevant period**”) is the owner of any land to which the application relates.
+
+(2) The applicant must complete a certificate certifying, as the case may be—
+
+- (a) that at the beginning of the relevant period no person (other than the applicant) was the owner of any of the land to which the application relates;
+- (b) that the applicant has given notice to every person (other than the applicant) who at the beginning of the relevant period was the owner of any land to which the application relates; or
+- (c) that—
+  - (i) the applicant has given notice to every person (other than the applicant) whose name and address was known to the applicant who was at the beginning of the relevant period the owner of any land to which the application relates; and
+  - (ii) the applicant is unable to give notice to every owner.
+
+(3) A certificate completed under—
+
+- (a) paragraph (2)(b) or (c) must set out the name of every person to whom notice was given and the address at and date on which notice was given; and
+- (b) paragraph (2)(c) must also certify that the applicant has taken reasonable steps (specifying them) to ascertain the names and addresses of those owners to whom the applicant has been unable to give notice.
+
+### 6. Applications for hazardous substances consent
+
+(1) Subject to regulation 7, an application to a planning authority for hazardous substances consent is to be made in accordance with this regulation.
+
+(2) The application must contain—
+
+- (a) the name and address of the applicant;
+- (b) the name and address of any agent acting on behalf of the applicant and whether any notice or other correspondence which is required by these Regulations to be sent to the applicant should be sent to the agent instead of the applicant;
+- (c) the postal address of the land to which the application relates or, if the land in question has no postal address, a description of the location of the land;
+- (d) details of—
+  - (i) the person in control of the land to which the application relates;
+  - (ii) each hazardous substance for which consent is sought (“relevant substance”), including the maximum quantity of each relevant substance to be present on, over or under the land to which the application relates;
+  - (iii) the main activities carried out or proposed to be carried out on, over or under the land to which the application relates;
+  - (iv) how and where each relevant substance is to be kept and used;
+  - (v) how each relevant substance is proposed to be transported to and from the land to which the application relates;
+  - (vi) the vicinity of the land to which the application relates, where such details are relevant to the risks or consequences of a major accident;
+  - (vii) the measures taken or proposed to be taken to limit the consequences of a major accident; and
+- (e) where applicable, a statement that the proposal is a project, or part of a project, that is subject to a national or transboundary environmental impact assessment or to a requirement to provide information by virtue of regulation 20 of the 2015 Regulations[^key-8a5eb9e21f9fe95fdbbc9cc7a645ecd6].
+
+(3) The application must be accompanied by—
+
+- (a) a site map;
+- (b) a substance location plan;
+- (c) the certificate completed in accordance with regulation 5(2) (notice to owner by applicant); and
+- (d) the fee payable under regulation 55.
+
+(4) The site map required by paragraph (3)(a) is a map reproduced from, or based upon, an Ordnance Survey map with a scale of not less than 1 to 10,000, which identifies the land to which the application relates and shows National Grid lines and reference numbers.
+
+(5) The substance location plan required by paragraph (3)(b) is a plan of the land to which the application relates, drawn to a scale of not less than 1 to 2,500, which identifies—
+
+- (a) any area of the land intended to be used for the storage of a relevant substance;
+- (b) where a relevant substance is to be used in a manufacturing, treatment or other industrial process, the location of the major items of plant involved in that process in which the relevant substance will be present; and
+- (c) access points to and from the land.
+
+### 7. Applications for removal of conditions
+
+(1) An application to a planning authority for hazardous substances consent under section 11 of the principal Act (applications for removal of conditions attached to a hazardous substances consent) is to be made in accordance with this regulation.
+
+(2) The application must contain—
+
+- (a) the name and address of the applicant;
+- (b) the name and address of any agent acting on behalf of the applicant and whether any notice or other correspondence which is required by these Regulations to be sent to the applicant should be sent to the agent instead of the applicant;
+- (c) the postal address of the land to which the application relates or, if the land in question has no postal address, a description of the location of the land;
+- (d) a description of each condition previously imposed on the relevant consent which—
+  - (i) should no longer be imposed on the consent; or
+  - (ii) should be imposed in a modified form;
+- (e) for any condition to which paragraph (d)(i) applies, the reasons why it should no longer be imposed;
+- (f) for any condition to which paragraph (d)(ii) applies—
+  - (i) a description of the proposed modification; and
+  - (ii) the reasons why the condition should be imposed in a modified form; and
+- (g) information about any relevant changes in circumstances since the relevant consent was granted.
+
+(3) The application must be accompanied by—
+
+- (a) a copy of the relevant consent;
+- (b) where any condition which is the subject of the application restricts the location of a hazardous substance, a change of location plan;
+- (c) the certificate completed in accordance with regulation 5(2) (notice to owner by applicant); and
+- (d) the fee payable under regulation 55.
+
+(4) For the purposes of paragraph (3)(b) a change of location plan is a plan of the land to which the application relates, drawn to a scale of not less than 1 to 2,500, which identifies—
+
+- (a) the location of each hazardous substance to which the application relates, at the date of the application; and
+- (b) the proposed location of the hazardous substance.
+
+### 8. Applications for continuation of hazardous substances consent where there has been a change in the person in control of part of the land
+
+(1) An application to a planning authority under section 15(1) of the principal Act (continuation of a hazardous substances consent where there has been a change in the person in control of part of the land to which the consent relates) is to be made in accordance with this regulation.
+
+(2) The application must contain—
+
+- (a) the name and address of the applicant;
+- (b) the name and address of any agent acting on behalf of the applicant and whether any notice or other correspondence which is required by these Regulations to be sent to the applicant should be sent to the agent instead of the applicant;
+- (c) the postal address of the land to which the relevant consent relates or, if the land in question has no postal address, a description of the location of the land;
+- (d) a description of the use of each area of the land identified in the accompanying change of control plan;
+- (e) a description of any relevant changes in circumstances since the relevant consent was granted; and
+- (f) the date on which the change in the person in control of part of the land to which the relevant consent relates is to take place, where known.
+
+(3) The application must be accompanied by—
+
+- (a) a copy of the relevant consent;
+- (b) a change of control plan;
+- (c) the certificate completed in accordance with regulation 5(2) (notice to owner by applicant); and
+- (d) the fee payable under regulation 55.
+
+(4) The change of control plan referred to in paragraph (3)(b) is a plan of the land to which the relevant consent relates, drawn to a scale of not less than 1 to 2,500, which identifies each area of the land which is to be under separate control after the proposed change in the person in control.
+
+### 9. Neighbour notification by planning authorities
+
+(1) Where an application under regulation 6, 7 or 8, as the case may be, has been made the planning authority must give notice in accordance with this regulation.
+
+(2) Notice is to be given where there are premises situated on the neighbouring land to which the notice can be sent to the owner, lessee or occupier of such premises, by sending a notice addressed to “the Owner, Lessee or Occupier” to such premises.
+
+(3) The notice must—
+
+- (a) state the date on which the notice is sent;
+- (b) state the name of the applicant and, where an agent is acting on behalf of the applicant, the name of that agent;
+- (c) include the reference number given to the application by the planning authority;
+- (d) include a description of the proposal to which the application relates;
+- (e) include the postal address of the land to which the application relates, or if the land in question has no postal address, a description of the location of the land;
+- (f) state where and when the application and any map or plan relating to it may be inspected;
+- (g) state that representations (including comments or questions) may be made to the planning authority and contain details of how representations should be made and the date by which any representations must be made (being a date not earlier than 21 days after the date on which the notice is sent);
+- (h) where applicable, state that the proposal is a project, or part of a project, that is subject to a national or transboundary environmental impact assessment or to a requirement to provide information by virtue of regulation 20 of the 2015 Regulations[^key-ef0607ae6c7ca32c40eabc7031437a9e];
+- (i) state that the application may be granted (either unconditionally or subject to conditions) or refused; and
+- (j) be accompanied by a plan showing the situation of the land to which the application relates in relation to neighbouring land.
+
+(4) In this regulation, “**neighbouring land**” means—
+
+- (a) land (other than land forming part of a road) which, or part of which, is conterminous with or within 20 metres of the boundary of the land to which the application relates; and
+- (b) where storage or use of hazardous substances is to take place within a building, every other separately owned or separately occupied unit within that building,
+
+and “**land**” includes any building on the land.
+
+### 10. Publication of receipt of application by planning authorities
+
+When an application under regulation 6, 7 or 8, as the case may be, has been made the planning authority must publish a notice in the form set out in Schedule 4 in a newspaper circulating in the locality in which the land to which the application relates is situated.
+
+### 11. Validation date
+
+An application under regulation 6, 7 or 8 is to be taken to have been made on the date on which the last of the information, plans, other documents or fee required to be contained in or accompany the application in accordance with those regulations is received by the planning authority.
+
+### 12. Acknowledgment of applications
+
+(1) When a planning authority receives—
+
+- (a) an application under regulation 6, 7 or 8; or
+- (b) an application for any consent, agreement or approval required by a condition imposed on a grant of hazardous substances consent,
+
+they must send to the applicant, or where an agent is acting on behalf of the applicant that agent, an acknowledgement of receipt of that application.
+
+(2) The acknowledgement referred to in paragraph (1) must—
+
+- (a) include an explanation of the timescales within which the planning authority are to give notice to the applicant of their decision on the application; and
+- (b) inform the applicant of any right to appeal to the Scottish Ministers under section 19 of the principal Act.
+
+(3) Where the application does not comply with regulation 6, 7 or 8, as the case may be, the planning authority must send to the applicant, or where an agent is acting on behalf of the applicant that agent, a notice identifying any information, plan, other documents or fee the applicant must submit in order to comply with regulation 6, 7 or 8, as the case may be.
+
+### 13. Further information
+
+A planning authority may require from the applicant further information, plans or other documents which they consider that they require to enable them to deal with the application and in respect of an application under regulation 6, 7 or 8, may do so in addition to the information, plans and other documents which must be contained in or accompany an application in accordance with regulation 6, 7 or 8, as the case may be.
+
+### 14. Consultation before determination of applications
+
+(1) Subject to paragraph (2), a planning authority must, before determining an application under regulation 6, 7 or 8, consult—
+
+- (a) the safety regulator;
+- (b) the Police Service of Scotland;
+- (c) Scottish Natural Heritage;
+- (d) a community council established in accordance with the provisions of Part IV of the Local Government (Scotland) Act 1973 [^c22521961], any part of whose area is within or adjoins the land to which the application relates;
+- (e) the Scottish Fire and Rescue Service;
+- (f) the Scottish Environment Protection Agency;
+- (g) a person to whom a licence has been granted under section 7(2) of the Gas Act 1986 [^c22521971] (licence to convey gas through pipes) whose apparatus is situated on, over or under the land to which the application relates or on, over or under adjoining land;
+- (h) a person to whom a licence has been granted under section 6(1)(b) or (c) of the Electricity Act 1989 [^c22521981] (transmission and distribution licences) whose apparatus is situated on, over or under the land to which the application relates or on, under or over adjoining land;
+- (i) where the land to which the application relates, or any part of that land, is within 2 kilometres of a royal palace, park or residence, the Scottish Ministers;
+- (j) where the land to which the application relates, or any part of that land, is within 2 kilometres of the area of any other planning authority or a hazardous substances authority within the meaning of section 39(1) of the Planning (Hazardous Substances) Act 1990 [^c22521991], that authority;
+- (k) where the land to which the application relates, or any part of that land, is land in an area of coal working or former or proposed coal working notified to the planning authority by the British Coal Corporation or the Coal Authority, the Coal Authority;
+- (l) where the land to which the application relates, or any part of that land, is land which is used for disposal or storage of controlled waste, the relevant waste disposal authority (where that authority is not also the planning authority);
+- (m) where it appears to the planning authority that the development is likely to affect land in the area of the Cairngorms National Park Authority, that Authority; and
+- (n) where it appears to the planning authority that the development is likely to affect land in the area of the Loch Lomond and Trossachs National Park, any local authority who would have been responsible for exercising the functions of a planning authority under the principal Act in relation to the application were it not for article 7 of the Loch Lomond and The Trossachs National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2002 [^c22522001].
+
+(2) The planning authority need not consult a body or person referred to in paragraph (1) if that body or person has notified the planning authority in writing that it does not wish to be consulted, but this paragraph does not apply in respect of the safety regulator, Scottish Natural Heritage or the Scottish Environment Protection Agency.
+
+(3) The planning authority must also, before determining an application under regulation 6, 7 or 8, consult any other persons of whom the authority are aware, including any non-governmental organisation promoting environmental protection, who are affected or likely to be affected by, or have an interest in, the application, and who in the authority's opinion are unlikely to become aware of the application through the notices published in accordance with regulation 5 (notice to owner by applicants), 9 (neighbour notification by planning authorities) or 10 (publication of receipt of application by planning authorities).
+
+(4) Where a planning authority is required to consult in accordance with this regulation they must within 7 days of receiving the application—
+
+- (a) give notice in writing to the body or person concerned containing—
+  - (i) a statement of the fact that an application under regulation 6, 7 or 8, as the case may be, has been received;
+  - (ii) a description of the proposal to which the application relates;
+  - (iii) the postal address of the land to which the application relates or, if the land in question has no postal address, a description of the location of the land;
+  - (iv) where applicable, a statement that the proposal is a project, or part of a project, that is subject to a national or transboundary environmental impact assessment or to a requirement to provide information by virtue of regulation 20 of the 2015 Regulations[^key-d62104cc11d94519c308457c42060a21];
+  - (v) a statement that the application may be granted (either unconditionally or subject to conditions) or refused;
+  - (vi) a statement that representations (including comments or questions) may be made to the planning authority and details of how representations should be made and the period for making representations (which must not be less than 28 days beginning with the day after the day on which notice is given in accordance with this regulation; and
+  - (vii) an indication of the times and places where, and means by which, relevant information is available; and
+- (b) ensure that a copy of the application and any information, plans and other documents contained in or accompanying it is available for inspection at their offices during the period allowed for making representations.
+
+(5) In this regulation—
+
+- “**controlled waste**” has the meaning given by section 75(4) of the Environmental Protection Act 1990 [^c22522011]; and
+- “**waste disposal authority**” means a local authority exercising their functions under Part II of the Environmental Protection Act 1990.
+
+### 15. Representations
+
+When determining an application under regulation 6, 7 or 8 a planning authority must take into account any representations made in connection with the application (which were not subsequently withdrawn).
+
+### 16. Duty to notify the Scottish Ministers of applications
+
+(1) Where a planning authority proposes to grant an application under regulation 6, 7 or 8, as the case may be, and the safety regulator or the Scottish Environment Protection Agency has advised against that or has recommended that conditions be imposed on the grant which the authority does not propose to impose, the authority must notify the Scottish Ministers, in writing, of the application and provide them with a copy of the application and any information, plans and other documents contained in or accompanying it.
+
+(2) The planning authority must not grant the application before—
+
+- (a) the expiry of the period of 28 days beginning with the date of the notification given under paragraph (1) or such longer period notified in writing to the planning authority by the Scottish Ministers; or
+- (b) the Scottish Ministers notify the authority that they do not intend to require that the application be referred to them under section 18 of the principal Act.
+
+### 17. Time period for determination
+
+(1) Subject to paragraph (2), where a planning authority has received an application under regulation 6, 7 or 8, as the case may be, the authority must give notice to the applicant of their determination or referral of the application to the Scottish Ministers under section 18 of the principal Act within a period of 2 months after the validation date or such extended period as may be agreed in writing between the applicant and the planning authority.
+
+(2) An application under regulation 6, 7 or 8, as the case may be, is not to be determined until after the latest of the date of expiry of—
+
+- (a) the period allowed for the making of representations specified in the notice given in accordance with regulation 5(1) (notice to owner by applicants);
+- (b) the period allowed for the making of representations specified in the notice given in accordance with regulation 9(1) (neighbour notification by planning authorities);
+- (c) the period allowed for the making of representations specified in the notice given in accordance with regulation 10 (publication of receipt of application by planning authorities); or
+- (d) the period of notice given by the planning authority in accordance with regulation 14(4)(a)(vi).
+
+(3) The period of notice referred to in paragraph (2)(d) begins with the date on which all bodies and other persons who the planning authority are required to consult under regulation 14 have been given notice in accordance with that regulation.
+
+(4) The period prescribed for the purposes of section 16(7) of the principal Act (determination of applications for continuation of hazardous substances consent) is the period of 2 months after the validation date.
+
+### 18. Decision notices on applications under regulation 6, 7 or 8
+
+(1) The planning authority must within the period referred to in regulation 17(1)—
+
+- (a) give to the applicant, or where an agent is acting on behalf of the applicant that agent, a notice of their decision on an application under regulation 6, 7 or 8, as the case may be (“decision notice”);
+- (b) give a copy of the decision notice to—
+  - (i) the safety regulator; and
+  - (ii) the Scottish Environment Protection Agency; and
+- (c) inform every other body or other person who made written representations in respect of the application (and provided an address) of their decision on the application and where a copy of the decision notice is available for inspection.
+
+(2) A decision notice relating to an application under regulation 6 or 7 must include—
+
+- (a) a description of the hazardous substances for which hazardous substances consent has been granted or, as the case may be, refused;
+- (b) the postal address of the land in relation to which hazardous substances consent has been granted or, as the case may be, refused or, if the land in question has no postal address, a description of the location of the land;
+- (c) where hazardous substances consent is granted, any condition to which the consent is subject; and
+- (d) the reference number given to the application by the planning authority.
+
+(3) A decision notice relating to an application under regulation 8 must include—
+
+- (a) details of the relevant consent to which the application relates;
+- (b) the postal address of the land in relation to which hazardous substances consent has been continued, modified or revoked, as the case may be, or, if the land in question has no postal address, a description of the location of the land;
+- (c) the planning authority's decision on the application, including a description of any modification of the relevant consent made by the authority;
+- (d) the reference number given to the application by the planning authority; and
+- (e) where the relevant consent is modified or revoked, information about the right of compensation provided for in section 17 of the principal Act.
+
+(4) A decision notice must also—
+
+- (a) identify the bodies and other persons consulted by the planning authority in respect of the application;
+- (b) contain a statement of the number of representations made in respect of the application, a summary of the main issues raised by such representations and an explanation of how they were taken into account in the decision;
+- (c) explain the reasons on which the decision is based; and
+- (d) contain information regarding the right to challenge the validity of the decision and the procedures for doing so.
+
+(5) Where an application is refused or granted subject to conditions the decision notice must be accompanied by—
+
+- (a) a notice in the form set out in Schedule 5; and
+- (b) a statement—
+  - (i) explaining how the applicant may obtain information on how to appeal to the Scottish Ministers under section 19 of the principal Act; and
+  - (ii) advising that the applicant may, if they wish, have an opportunity of appearing before and being heard by a person appointed for that purpose.
+
+(6) Where representations in respect of the application are made by 3 or more persons in the same document, it is sufficient for the purposes of paragraph (1)(c) that the planning authority notify—
+
+- (a) only the person who sent that document to the planning authority, where it is possible for the planning authority to identify that person; or
+- (b) where it is not possible to do so, only the first named person on the document for whom an address is provided.
+
+### 19. Notices of decision on applications for approval of matters specified in conditions
+
+(1) Where a planning authority receives an application for approval, consent or agreement required by a condition imposed on a grant of hazardous substances consent the planning authority must give to the applicant, or where an agent is acting for the applicant that agent, a notice of their decision on the application.
+
+(2) The notice referred to in paragraph (1) must include—
+
+- (a) a description of the matter in respect of which approval, consent or agreement has been granted or, as the case may be, refused;
+- (b) an explanation of the reasons on which the decision is based;
+- (c) the reference number given to the application by the planning authority; and
+- (d) the reference number given to the application in respect of which the condition requiring the approval, consent or agreement of the planning authority was imposed.
+
+(3) Where an application referred to in paragraph (1) is refused or is granted subject to conditions the notice of decision must be accompanied by—
+
+- (a) a notice in the form set out in Schedule 6; and
+- (b) a statement explaining how the applicant may obtain information on how to appeal to the Scottish Ministers under section 19 of the principal Act.
+
+### 20. Notice of reference of applications to the Scottish Ministers
+
+On referring an application under regulation 6, 7 or 8 to the Scottish Ministers in accordance with a direction given under section 18 of the principal Act a planning authority must serve on the applicant a notice—
+
+- (a) advising that the application has been referred to the Scottish Ministers;
+- (b) setting out the reasons given by the Scottish Ministers for giving the direction; and
+- (c) advising that the applicant may, if they wish, have an opportunity of appearing before and being heard by a person appointed for that purpose.
+
+## PART 4 — Policies and public participation
+
+### 21. Policies
+
+(1) In formulating any relevant policy, the Scottish Ministers must ensure that the following matters are taken into account:—
+
+- (a) the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment; and
+- (b) the matters referred to in Article 13(2) of the Directive (with the reference in that Article to Article 5 of the Directive being read as a reference to regulation 5 of the 2015 Regulations)[^key-b6220fa1fdc783505668c55b1d464452].
+
+(2) In this regulation “**relevant policy**” means—
+
+- (a) the National Planning Framework referred to in section 3A of the 1997 Act [^c22522021]; and
+- (b) Scottish Planning Policy [^c22522031].
+
+(3) Expressions appearing in this regulation and in the Directive have the same meaning for the purposes of this regulation as they have for the purposes of the Directive.
+
+### 22. Plans and programmes
+
+(1) Subject to paragraph (3), this regulation applies where a responsible authority proposes to prepare, modify or review a relevant plan or programme.
+
+(2) Where this regulation applies, the responsible authority must—
+
+- (a) take such measures as they consider appropriate to ensure that public consultees are given early and effective opportunities to participate in the preparation, modification or review of the relevant plan or programme; and
+- (b) in doing so, take such measures as they consider appropriate to ensure that—
+  - (i) public consultees are informed of any proposals to prepare, modify or review a relevant plan or programme;
+  - (ii) relevant information about such proposals is made available to public consultees, including information about the right to participate in decision-making and about the authority to which comments or questions may be submitted;
+  - (iii) public consultees are entitled to express comments and opinions when all options are open before decisions on the relevant plan or programme are made; and
+  - (iv) any periods provided for public participation under this regulation allow public consultees sufficient time to prepare and participate in decision-making in relation to the relevant plan or programme;
+- (c) take into account the results of the public participation in making those decisions; and
+- (d) take such measures as it considers appropriate to inform the public consultees about the decisions taken and the reasons on which those decisions are based, including information about the public participation process.
+
+(3) This regulation does not apply to a relevant plan or programme in relation to which a public participation procedure is carried out under the Environmental Assessment (Scotland) Act 2005 [^c22522041].
+
+(4) In this regulation—
+
+- “**public consultees**” means persons of whom the responsible authority is aware, including any non-governmental organisation promoting environmental protection, who are affected or likely to be affected by, or have an interest in, the relevant plan or programme in question;
+- “**relevant plan or programme**” means a general plan or programme relating to—
+  - (a) planning for new establishments pursuant to any provision of[^key-12ece5c7f64769e06873d7b6f69e611e] assimilated[^key-6abb2ecaca9d628b76b75ed9815d71e5] law which implemented Article 13 of the Directive; or
+  - (b) new developments around establishments where the siting or developments may increase the risk or consequences of a major accident pursuant to any provision of assimilated[^key-d80e2d7befc37c743b9e180f9c3072de] law which implemented Article 13 of the Directive; and
+- “**responsible authority**” means—
+  - (a) the authority by which or on whose behalf a relevant plan or programme is prepared; and
+  - (b) where, at any particular time, that authority ceases to be responsible, or solely responsible, for taking steps in relation to the plan or programme, the person who, at that time, is responsible (solely or jointly with the authority) for taking those steps.
+
+(5) This regulation applies to a relevant plan or programme relating solely to the whole or any part of Scotland.
+
+(6) Any steps taken before the commencement date in relation to a relevant plan or programme may be treated as steps taken for the purposes of this regulation.
+
+### 23. Other planning approvals for projects
+
+(1) Subject to paragraph (4), this regulation applies where a consent, permission or other authorisation for a relevant project is sought from a planning authority or the Scottish Ministers.
+
+(2) A planning authority or the Scottish Ministers, as the case may be, must, before deciding to give any consent, permission or other authorisation for a relevant project, take such measures as they consider appropriate to ensure that—
+
+- (a) the public is informed by public notices or other appropriate means, including electronic media where available, of the following matters early in the procedure for the taking of a decision or, at the latest, as soon as the information can reasonably be provided:—
+  - (i) the subject of the relevant project;
+  - (ii) where applicable, the fact that a project, or part of a project, is subject to a national or transboundary environmental impact assessment or to a requirement to provide information by virtue of regulation 20 of the 2015 Regulations[^key-0d096dea809a16ebbd5c2f977f6f4488];
+  - (iii) details of the planning authority or Scottish Ministers responsible for taking the decision, from whom relevant information can be obtained and to whom comments or questions can be submitted;
+  - (iv) an indication of the times and places where, or means by which, the relevant information will be made available;
+  - (v) details of the period for transmitting comments or questions; and
+  - (vi) the nature of possible decisions or, where there is one, the draft decision;
+- (b) they consult the—
+  - (i) Scottish Environment Protection Agency; and
+  - (ii) in relation to a nuclear site, the Office for Nuclear Regulation and, in any other case, the Health and Safety Executive;
+- (c) the main reports and advice issued to the planning authority or the Scottish Ministers, as the case may be, at the time when the public concerned was informed pursuant to sub-paragraph (a) are made available to the public concerned at that time;
+- (d) the public concerned is entitled to express comments and opinions to the competent authority before a decision is taken; and
+- (e) the results of the consultations held pursuant to this regulation are taken into account in the taking of a decision.
+
+(3) After deciding whether to give any consent, permission or other authorisation for a relevant project, the planning authority or the Scottish Ministers, as the case may be, must make available to the public—
+
+- (a) the content of the decision and the reasons on which it is based, including any subsequent updates;
+- (b) the results of the consultations held before the decision was taken and an explanation of how they were taken into account in that decision; and
+- (c) information regarding the right to challenge the validity of the decision and the procedures for doing so.
+
+(4) To the extent that the planning authority or the Scottish Ministers, as the case may be, are already required by any enactment to take any of the actions set out in paragraphs (2) and (3), those paragraphs do not apply.
+
+(5) In this regulation—
+
+- “**enactment**” includes an Act of the Scottish Parliament and subordinate legislation made under such an Act;
+- “**the public concerned**” means persons of whom the planning authority or the Scottish Ministers, as the case may be, are aware, including any non-governmental organisation promoting environmental protection, who are affected or likely to be affected by, or have an interest in, the taking of a decision to give a consent, permission or other authorisation referred to in paragraph (1); and
+- “**relevant project**” means development falling within paragraphs 3, 3A or 4 of Schedule 5 (consultation by the planning authority) to the 2013 Regulations [^c22522051].
+
+(6) In this regulation, a reference to giving consent, permission or other authorisation means—
+
+- (a) granting planning permission on an application under Part 3 of the 1997 Act (control over development);
+- (b) granting planning permission on an application under section 242A of the 1997 Act (urgent Crown development) [^c22522061];
+- (c) granting planning permission on review under section 43A of the 1997 Act (local developments: schemes of delegation) [^c22522071] or on an appeal under section 47 of the 1997 Act (right to appeal against planning decisions);
+- (d) granting planning permission under section 92(2)(a) of the 1997 Act (action in relation to purchase notice);
+- (e) directing that planning permission is deemed to be granted under section 57(1) to (2B) of the 1997 Act (development with government authorisation);
+- (f) making—
+  - (i) a special development order under section 30(2)(b) of the 1997 Act [^c22522081];
+  - (ii) a simplified planning zone scheme under section 50 of the 1997 Act;
+  - (iii) an order designating an enterprise zone under section 179 of, and paragraph 5(1) of Schedule 32 to, the Local Government, Planning and Land Act 1980 [^c22522091];
+  - (iv) an order under section 71 of the 1997 Act (order by planning authority requiring discontinuance of use or alteration or removal of buildings or works) [^c22522101], including an order made under that section by virtue of section 73 of that Act (order by Scottish Ministers) which grants planning permission, or confirming any such order under section 72 of that Act (confirmation of section 71 order by Scottish Ministers); or
+  - (v) an order under paragraph 1 of Schedule 8 to the 1997 Act (order by planning authority requiring discontinuance of mineral working), including an order made under that paragraph by virtue of paragraph 12 of that Schedule (order by Scottish Ministers) which grants planning permission;
+- (g) directing under the following provisions that if an application is made for planning permission it must be granted:—
+  - (i) section 92(3) of the 1997 Act (action in relation to purchase notice); or
+  - (ii) section 31(5) of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 (action in relation to listed building purchase notice) [^c22522111]; or
+- (h) directing under section 10(1) to (2A) of the principal Act that hazardous substances consent is deemed to be granted.
+
+(7) In relation to a consent, permission or other authorisation referred to in paragraph (6) which is capable of being varied or modified, the variation or modification is to be treated as if it is a consent, permission or other authorisation for a relevant project for the purposes of this regulation where that variation or modification authorises development falling within paragraph 4 of Schedule 5 to the 2013 Regulations.
+
+## PART 5 — Appeals under section 19 of the principal Act
+
+### 24. Notice of appeal
+
+(1) An appeal to the Scottish Ministers under section 19 of the principal Act (appeals against decisions or failure to take decisions relating to hazardous substances) is to be made by giving notice in writing in accordance with this regulation.
+
+(2) The period prescribed for the purposes of section 19(2) of the principal Act (appeals against failure to take decisions) is the period of 2 months after the validation date.
+
+(3) The notice of appeal must be served on the Scottish Ministers within the period of 3 months beginning with, in the case of an appeal under—
+
+- (a) section 19(1) of the principal Act, the date of the decision notice or the notice of decision given under regulation 19 (notices on decisions on applications for approval of matters specified in conditions), as the case may be; and
+- (b) section 19(2) of the principal Act, the date of expiry of the period prescribed under paragraph (2) or such extended period as may be agreed upon in writing between the applicant and the planning authority.
+
+(4) The notice of appeal (on a form obtained from the Scottish Ministers) must include—
+
+- (a) the name and address of the appellant;
+- (b) the date of the notice and the reference number given by the planning authority to the application in respect of which the appeal is made;
+- (c) the name and address of any agent acting on behalf of the appellant and whether any notice or other correspondence which is required by these Regulations to be sent to the appellant should be sent to the agent instead of the appellant;
+- (d) a statement setting out full particulars of the appeal, including a note of the matters which the appellant considers require to be taken into account in determining the appeal and by what, if any, procedure (or combination of procedures) referred to in regulation 30(3) (decisions as to further procedure) the appellant considers the appeal should be conducted, and in particular—
+  - (i) a statement of whether or not the appellant wishes the opportunity to appear before and be heard by a person appointed for that purpose; and
+  - (ii) if the appellant so wishes, a statement of the matters on which the appellant wishes the opportunity to be heard; and
+- (e) where the appeal is made under section 19(1) of the principal Act, a copy of the decision notice or a copy of the notice of decision given under regulation 19, as the case may be.
+
+(5) Subject to paragraph (6)—
+
+- (a) all matters which the appellant intends to raise in the appeal must be set out in the notice of appeal or in the documents which accompany the notice of appeal; and
+- (b) all documents, materials and evidence which the appellant intends to rely on in the appeal must accompany the notice of appeal.
+
+(6) In addition to matters set out in the notice of appeal and documents which accompany the notice of appeal, the appellant may raise matters and submit further documents, materials or evidence only in accordance with and to the extent permitted by regulations 25 (intimation to planning authority and planning authority's response), 26 (notification to interested parties) and 32 (written submissions procedure), the Hearing Session Rules or, as the case may be, the Hazardous Substances Inquiry Session Rules.
+
+### 25. Intimation to planning authority and planning authority's response
+
+(1) The appellant must at the same time as giving the notice of appeal to the Scottish Ministers send to the planning authority—
+
+- (a) a copy of the notice of appeal;
+- (b) a list of all documents, materials and evidence which the appellant intends to rely on in the appeal and which accompanied the notice of appeal in accordance with regulation 24(5)(b); and
+- (c) a copy of all documents, materials and evidence specified on such list which the appellant has not already provided to the planning authority in connection with the application to which the appeal relates.
+
+(2) The planning authority must, not later than 21 days beginning with the date of receipt of the notification of appeal given under paragraph (1), send to the Scottish Ministers and the appellant—
+
+- (a) a note (“the planning authority's response”) of the matters which the planning authority consider require to be taken into account in determining the appeal and by what, if any, procedure (or combination of procedures) referred to in regulation 30(3) the planning authority consider the appeal should be conducted and in particular—
+  - (i) a statement of whether or not the planning authority wish the opportunity to appear before and be heard by a person appointed for that purpose; and
+  - (ii) if the planning authority so wish, a statement of the matters on which the planning authority wish the opportunity to be heard;
+- (b) a copy of the documents (other than those specified on the list referred to in paragraph (1)(b)) which were before the planning authority and which were taken into account in reaching their decision; and
+- (c) the conditions (if any) which the planning authority presently consider should be imposed in the event that consent is granted.
+
+(3) The appellant may, within 14 days beginning with the date of receipt of the planning authority's response, send to the Scottish Ministers and the planning authority—
+
+- (a) comments on any matters raised in the planning authority's response which had not been raised in the decision notice or notice of decision given under regulation 19, as the case may be; and
+- (b) any documents, materials or evidence on which the appellant intends to rely in relation to such comments.
+
+### 26. Notification to interested parties
+
+(1) The planning authority must not later than 14 days following the date of receipt of the notification of appeal given under regulation 25(1) give notice of the appeal to each interested party.
+
+(2) Notice under paragraph (1) may be given—
+
+- (a) by post to any interested party notified or consulted under these Regulations other than by newspaper advertisement; and
+- (b) by post or by advertisement in a newspaper circulating in the locality in which the land to which the appeal relates is situated, to any other interested party.
+
+(3) Notice under paragraph (1) must—
+
+- (a) state the name of the appellant;
+- (b) include a description of the proposal to which the appeal relates;
+- (c) include the postal address of the land to which the appeal relates, or if the land in question has no postal address, a description of the location of the land;
+- (d) state that a copy of any representation previously made to the planning authority, other than a representation which the interested party who made it has asked to be treated as confidential, will be sent to the Scottish Ministers and the appellant and will be taken into consideration in the determination of the appeal;
+- (e) state that further representations may be made to the Scottish Ministers and include information as to how representations may be made and by what date they must be made; and
+- (f) state where and when a copy of the notice of appeal and other documents related to the appeal may be inspected.
+
+(4) An interested party may, within a period of 14 days beginning with the date on which notice is given under paragraph (1), make representations in respect of the appeal to the Scottish Ministers.
+
+(5) The Scottish Ministers must send a copy of any representations received under paragraph (4) to the appellant and to the planning authority and inform them how and by what date (being a date not less than 14 days after the date on which such copy is sent under this paragraph) they may make comments to the Scottish Ministers on such representations.
+
+(6) The appellant and the planning authority may, on or before that date, make comments on such representations to the Scottish Ministers.
+
+### 27. Publication of appeal documents
+
+The planning authority must, in relation to an appeal under section 19 of the principal Act, until such time as the appeal is determined, make available for inspection at an office of the planning authority copies of—
+
+- (a) the notice of appeal;
+- (b) the planning authority's response and any comments sent under regulation 25(3)(a);
+- (c) the documents—
+  - (i) specified on the list referred to in regulation 25(1)(b);
+  - (ii) sent in accordance with regulation 25(2)(b) and (3)(b);
+- (d) the notice given under regulation 26(1); and
+- (e) any representations or comments made under regulation 26(4) or (6).
+
+### 28. Determination without further procedure
+
+(1) This regulation applies only where neither the appellant nor the planning authority wish to be given an opportunity to appear before and be heard by the appointed person on any matter in relation to the appeal.
+
+(2) Where this regulation applies and the appointed person considers that no further representations are, or information is, required to enable the appeal to be determined, the appointed person may determine the appeal without further procedure.
+
+### 29. Opt-in notice to interested parties
+
+(1) Where the appointed person does not determine the appeal without further procedure, the appointed person may (but is not required to) invite, by notice given in accordance with this regulation, any or all interested parties to confirm if they wish to participate in any further procedure.
+
+(2) The notice given under paragraph (1) is to—
+
+- (a) state that if the interested party wishes to participate in any further procedure conducted in relation to the appeal they must send a notice (“an opt-in notice”) to the appointed person informing the appointed person of that wish;
+- (b) include information as to how the opt-in notice may be given and specify the date (being not less than 14 days after the date on which the notice under paragraph (1) is given) by which the opt-in notice must be given to the appointed person; and
+- (c) inform the interested party that if they do not give an opt-in notice to the appointed person before the specified date they may lose the opportunity to participate in any further procedure.
+
+(3) Where notice is given under paragraph (1) any reference in regulations 31 (pre-examination meetings) and 33 (site inspections), the Hearing Session Rules and the Hazardous Substances Inquiry Session Rules to an interested party is to be treated as including only those interested parties who have given an opt-in notice to the appointed person in accordance with this regulation.
+
+### 30. Decisions as to further procedure
+
+(1) Subject to paragraph (3)—
+
+- (a) where the appointed person does not determine the appeal without further procedure, the appointed person may determine the manner in which the appeal is to be conducted;
+- (b) the appointed person may determine at any stage of the appeal that further representations should be made or further information should be made available or provided to enable the appeal to be determined;
+- (c) where the appointed person so determines the appeal or stage of the appeal is to be conducted by one of, or by a combination of, the procedures referred to in paragraph (3).
+
+(2) Where either the appellant or the planning authority wish to be given an opportunity to appear before and be heard by the appointed person on any matter then that matter is, to the extent that the appellant or planning authority, as the case may be, wish to make oral submissions on that matter, to be considered by means of, or a combination of, the procedures referred to in paragraph (4)(b) and (c).
+
+(3) The procedures are—
+
+- (a) by means of written submissions;
+- (b) by the holding of one or more hearing sessions;
+- (c) by the holding of one or more inquiry sessions;
+- (d) by means of an inspection of the land to which the appeal relates.
+
+(4) Where the appointed person considers that further representations should be made or further information should be made available or provided by means of—
+
+- (a) written submissions, regulation 32 applies;
+- (b) a hearing session, the Hearing Session Rules apply;
+- (c) an inquiry session, the Hazardous Substances Inquiry Session Rules apply;
+- (d) an inspection of the land, regulation 33 applies.
+
+(5) Notices given under regulation 32(1), rule 1(1) of the Hearing Session Rules or rule 3(1) of the Hazardous Substances Inquiry Session Rules may be given separately or combined into a single notice.
+
+### 31. Pre-examination meetings
+
+(1) The appointed person may hold a meeting (“a pre-examination meeting”) to consider the manner in which the appeal or any stage of the appeal is to be conducted with a view to securing that the appeal or any stage of the appeal is conducted efficiently and expeditiously.
+
+(2) The appointed person is to determine (and may subsequently vary) the date, time and place for the holding of a pre-examination meeting.
+
+(3) The appointed person must give such notice of the holding of a pre-examination meeting and of the date, time and place where it is to be held (and any subsequent variation thereof) as may appear to the appointed person to be reasonable in the circumstances—
+
+- (a) where a pre-examination meeting is to be held in connection only with the conduct of a particular hearing session or inquiry session, to those persons entitled to appear at that hearing session or inquiry session; and
+- (b) in any other case, to the appellant, the planning authority and any interested party.
+
+(4) The appointed person is to determine the matters to be discussed and the procedure to be followed at the pre-examination meeting.
+
+### 32. Written submissions procedure
+
+(1) Where an appointed person has determined that further representations should be made or further information should be provided by means of written submissions, the appointed person may request such further representations or information and is to do so by giving written notice to that effect to—
+
+- (a) the appellant;
+- (b) the planning authority; and
+- (c) any other person from whom the appointed person wishes to receive further representations or information.
+
+(2) The procedure notice given under paragraph (1) is to—
+
+- (a) set out the matters on which such further representations or information is requested;
+- (b) specify the date by which such further representations or information are to be sent to the appointed person; and
+- (c) state the name and address of any person to whom the procedure notice is given.
+
+(3) Any further representations made or information provided in response to the procedure notice (“procedure notice response”) must be sent to the appointed person on or before the date specified for that purpose in the procedure notice and a copy of any procedure notice response is to be sent on or before that date to any other person to whom the procedure notice was given.
+
+(4) Within a period of 14 days from receipt of a copy of the procedure notice response, any person to whom the procedure notice was given—
+
+- (a) may send comments to the appointed person in reply to the procedure notice response; and
+- (b) must, when doing so, send a copy of such comments to any other person to whom the procedure notice was given.
+
+(5) A copy of any procedure notice response or any comments required to be sent to a person under this regulation is to be sent to the person at the address stated for that person in the procedure notice.
+
+### 33. Site inspections
+
+(1) The appointed person may at any time make—
+
+- (a) an unaccompanied inspection of the land to which an appeal relates; or
+- (b) an inspection of the land in the company of such of the persons notified under paragraph (3) as wishes to attend the inspection.
+
+(2) Where the appointed person intends to make an unaccompanied inspection, the appointed person is to inform the appellant and the planning authority of such intention.
+
+(3) Where the appointed person intends to make an accompanied inspection, the appointed person is to give such notice of the date and time of the proposed inspection as may appear to the appointed person to be reasonable in the circumstances to—
+
+- (a) the appellant;
+- (b) the planning authority; and
+- (c) any interested party.
+
+(4) The appointed person is not bound to defer an inspection if any person to whom notice was given under paragraph (3) is not present at the time appointed.
+
+### 34. New evidence
+
+(1) If, after the conclusion of any further procedure conducted by virtue of regulation 30, the appointed person proposes to take into consideration any new evidence which is material to the determination of the appeal, the appointed person must not reach a decision on the appeal without affording the appellant, the planning authority and any other relevant party an opportunity of making representations on such new evidence.
+
+(2) In this regulation “**relevant party**” means—
+
+- (a) where the new evidence relates to a specified matter considered at a hearing session or inquiry session, any person entitled to appear at that hearing session or inquiry session; and
+- (b) where the new evidence relates to matters in respect of which further written representations or information was sought by a procedure notice under regulation 32, any person to whom such notice was sent.
+
+### 35. Further copies of documents etc.
+
+(1) The appointed person may require any person who has submitted documents, materials or evidence under these Regulations in connection with the appeal to—
+
+- (a) provide to the appointed person such number of additional copies of such of those documents, materials or evidence as the appointed person may specify; or
+- (b) provide to such other persons as the appointed person may specify such copies or additional copies of any document, materials or evidence as the appointed person may specify.
+
+(2) The appointed person may require the planning authority to make copies of such documents, materials or evidence as the appointed person may specify available for inspection at an office of that planning authority until such time as the appeal is determined.
+
+### 36. Compliance with notification and consultation procedures
+
+(1) The appointed person must, to the extent not already done so by the appellant or the planning authority, as the case may be, comply with—
+
+- (a) regulation 5 (notice to owner by applicants);
+- (b) regulation 9 (neighbour notification by planning authorities);
+- (c) regulation 10 (publication of receipt of application by planning authorities); and
+- (d) regulation 14 (consultation before determination of applications).
+
+(2) Where the appointed person notifies or consults with any body or person in accordance with paragraph (1) references in these Regulations to an interested party (other than in regulation 26 (notification to interested parties)) includes any such body or person from whom the appointed person received representations (which are not subsequently withdrawn) in connection with the appeal.
+
+### 37. Appointment of assessor
+
+(1) The Scottish Ministers may appoint a person to sit with the appointed person at a hearing session to advise the appointed person on such matters arising as the Scottish Ministers may specify (“an assessor”) and where they do so they are to notify every person entitled to appear at the hearing session of the name of the assessor and of the matters on which the assessor is to advise the appointed person.
+
+(2) Where an assessor has been appointed, the assessor may (and if so required by the appointed person, must), after the close of the hearing session, make a report in writing to the appointed person in respect of the matters on which the assessor was appointed to advise.
+
+### 38. Notice of decision on appeal
+
+(1) The appointed person must—
+
+- (a) give notice of the decision on an appeal under section 19 of the principal Act (“notice of decision”) to—
+  - (i) the appellant, or where an agent is acting on behalf of the appellant that agent;
+  - (ii) the planning authority;
+  - (iii) the safety regulator; and
+  - (iv) the Scottish Environment Protection Agency; and
+- (b) notify every person who has made (and did not subsequently withdraw) representations in respect of the appeal that a decision on the appeal has been made and where a copy of the notice given under sub-paragraph (a) is available for inspection.
+
+(2) The notice of decision must include the appointed person's decision on the appeal, including a description of any variation or reversal of any part of the decision of the planning authority.
+
+(3) The notice of decision must also—
+
+- (a) identify the bodies and other persons consulted by the appointed person in respect of the application;
+- (b) explain the reasons on which the decision is based;
+- (c) contain a statement of the number of representations made in respect of the appeal, a summary of the main issues raised by such representations and an explanation of how they were taken into account in the decision; and
+- (d) contain information regarding the right to challenge the validity of the decision and the procedures for doing so.
+
+### 39. Called-in applications
+
+(1) This Part (other than regulations 24 (notice of appeal), 25 (intimation to planning authority and planning authority's response), 26 (notification to interested parties) and 27 (publication of appeal documents)) and the Hearing Session Rules apply to an application referred to the Scottish Ministers following a direction under section 18(1) of the principal Act (reference of applications to Scottish Ministers) with the modifications specified in paragraph (2).
+
+(2) The modifications are—
+
+- (a) references to the appeal and the appellant are to be treated, respectively, as references to the application and the applicant;
+- (b) references to the appointed person—
+  - (i) in this Part (other than in regulation 37 (appointment of assessor)) and rule 1(1) of the Hearing Session Rules are to be treated as references to the Scottish Ministers; and
+  - (ii) in regulation 37 and the Hearing Session Rules (other than in rule 1(1)) are to be treated as references to the person appointed to hold the hearing session;
+- (c) in—
+  - (i) regulation 28(2) (determination without further procedure) and 30(4) (decisions as to further procedure), “considers” is to be read as “consider”;
+  - (ii) regulation 30(1)(a), “does” is to be read as “do”;
+  - (iii) regulation 30(1)(c), “determines” is to be read as “determine”;
+  - (iv) regulation 29(1) (opt-in notice to interested parties), regulation 31(2) and (4) (pre-examination meetings), 32(1) (written submissions procedure) and 33(2), (3) and (4) (where it first appears) (site inspections), “is” is to be read as “are”;
+  - (v) regulation 32(1), “has” is to be read as “have”;
+  - (vi) regulation 32(1)(c), “wishes” is to be read as “wish”;
+  - (vii) regulation 33(2) and (3), “intends” is to be read as “intend”;
+  - (viii) regulation 34(1) (new evidence), “proposes” is to be read as “proposed”; and
+  - (ix) regulation 36(2) (compliance with notification and consultation procedures) “notifies or consults” is to be read as “notify or consult”; and
+- (d) where the direction requiring the application to be referred to the Scottish Ministers is given under section 18(1) of the principal Act, regulation 36 (compliance with notification and consultation procedures) applies as in the case of an appeal under section 19 of the principal Act.
+
+### 40. Non-delegated appeals
+
+(1) This Part and the Hearing Session Rules apply to a non-delegated appeal as they apply to a delegated appeal with the modifications specified in regulation 39(2)(b) and (c).
+
+(2) In this regulation—
+
+- “**delegated appeal**” means an appeal to the Scottish Ministers which falls to be determined by a person appointed by the Scottish Ministers for that purpose by virtue of powers contained in the Schedule to the principal Act;
+- “**non-delegated appeal**” means—
+  - (a) a recalled appeal;
+  - (b) an appeal within such classes of case as may be—
+    - (i) for the time being prescribed; or
+    - (ii) specified in directions given,
+
+    under paragraph 1(2) of the Schedule to the principal Act; and
+- “**recalled appeal**” means an appeal which is to be determined by the Scottish Ministers in accordance with a direction under paragraph 3(1) of the Schedule to the principal Act.
+
+## PART 6 — Register of hazardous substances consents
+
+### 41. Register of hazardous substances consents
+
+(1) The register which every planning authority is required to keep under section 27 of the principal Act is to be kept in accordance with this regulation.
+
+(2) Part 1 of the register is to contain in respect of each application submitted under regulation 6, 7 or 8 and not finally disposed of—
+
+- (a) a copy of the application;
+- (b) copies of any information, plans and other documents submitted in respect of the application; and
+- (c) particulars of any direction given under the principal Act in respect of the application.
+
+(3) Part 2 of the register is to contain—
+
+- (a) in respect of each application under regulation 6, 7 or 8 determined by the planning authority—
+  - (i) a copy of the decision notice; and
+  - (ii) copies of any information, plans and other documents considered by the planning authority in determining the application;
+- (b) a copy of any notice of decision issued by the Scottish Ministers on an application—
+  - (i) referred to them in accordance with a direction under section 18 of the principal Act; or
+  - (ii) by a planning authority under regulation 56; and
+- (c) a copy of any notice of decision issued by the Scottish Ministers on an appeal under section 19 of the principal Act.
+
+(4) Part 3 of the register is to contain a copy of any order revoking or modifying hazardous substances consent made by the planning authority under section 12 of the principal Act (general power by order to revoke or modify hazardous substances consent) and the date and effect of any confirmation by the Scottish Ministers under section 13 of the principal Act (confirmation by the Scottish Ministers of section 12 orders).
+
+(5) Part 4 of the register is to contain a copy of any direction made under section 10 of the principal Act (deemed hazardous substances consent: government authorisation).
+
+(6) Part 5 of the register is to contain a copy of any direction under section 26 of the principal Act (temporary exemption directions) sent to the planning authority by the Scottish Ministers.
+
+(7) Part 6 of the register is to contain a copy of any notice received by the planning authority by virtue of regulation 63(2).
+
+(8) The register must contain in relation to each hazardous substances consent—
+
+- (a) information about any subsequent decision made by the planning authority or the Scottish Ministers in relation to that consent (including the content of the decision and the reasons on which it is based); and
+- (b) a copy of any notice received by the planning authority under paragraph 17(a) of Schedule 2.
+
+(9) The register is to include an index to enable any person to trace an entry in the register.
+
+(10) The register is to be kept at the principal office of the planning authority.
+
+(11) The register is to be available for inspection by the public at all reasonable hours.
+
+## PART 7 — Enforcement
+
+### 42. Hazardous substances contravention notices
+
+(1) A hazardous substances contravention notice served under section 22 of the principal Act must identify the land to which the notice relates, whether by reference to a plan or otherwise.
+
+(2) The persons prescribed under section 22(4)(b) of the principal Act as other persons on whom a copy of a hazardous substances contravention notice must be served are all persons having an interest in the land to which the notice relates who in the opinion of the planning authority are materially affected by the notice.
+
+(3) Every copy of a hazardous substances contravention notice served under section 22(4) of the principal Act must be accompanied by a statement setting out—
+
+- (a) the planning authority's reasons for issuing the notice; and
+- (b) the right of appeal to the Scottish Ministers against the notice, and the persons by whom, grounds upon which and time within which such an appeal may be brought under regulation 43.
+
+### 43. Appeals against hazardous substances contravention notices
+
+(1) A person on whom a hazardous substances contravention notice is served or any other person having an interest in the land to which the notice relates, may appeal to the Scottish Ministers against the notice on the grounds that—
+
+- (a) the matters alleged to constitute a contravention of hazardous substances control have not occurred;
+- (b) those matters (if they occurred) do not constitute a contravention of hazardous substances control;
+- (c) copies of the hazardous substances contravention notice were not served in accordance with section 22 of the principal Act;
+- (d) the steps required by the notice to be taken exceed what is necessary to remedy any contravention of hazardous substances control; or
+- (e) any period specified in the notice in accordance with section 22(5) of the principal Act falls short of what should reasonably be allowed.
+
+(2) An appeal under this regulation is to be made to the Scottish Ministers by giving them notice in writing in accordance with this regulation.
+
+(3) The notice of appeal must be served before the date specified in the hazardous substances contravention notice as the date on which it is to take effect.
+
+(4) The notice of appeal must contain—
+
+- (a) the grounds of appeal;
+- (b) all matters which the appellant intends to raise in the appeal;
+- (c) a note of the matters which the appellant considers require determination and by what, if any, procedure (or combination of procedures) referred to in regulation 30(3) (decisions as to further procedure) the appellant considers the appeal should be conducted and in particular—
+  - (i) a statement of whether or not the appellant wishes the opportunity to appear before and be heard by a person appointed for that purpose; and
+  - (ii) if the appellant so wishes, a statement of the matters on which the appellant wishes the opportunity to be heard;
+- (d) the name and address of the appellant; and
+- (e) the name and address of any agent acting on behalf of the appellant and whether any notice or other correspondence which is required by these Regulations to be sent to the appellant should be sent to the agent instead of the appellant.
+
+(5) The notice of appeal must be accompanied by—
+
+- (a) a copy of the hazardous substances contravention notice to which the appeal relates;
+- (b) a copy of any hazardous substances consent to which the hazardous substances contravention notice relates; and
+- (c) copies of all documents, materials and evidence which the appellant intends to rely on in the appeal.
+
+(6) In addition to matters set out in the notice of appeal and the documents accompanying it the appellant may raise matters only in accordance with regulation 32 (written submissions procedure) and 44 (intimation of appeal to planning authority and planning authority's response), the Hearing Session Rules and the Hazardous Substances Inquiry Session Rules.
+
+(7) Part 5 (appeals under section 19 of the principal Act) (other than regulations 24 (notice of appeal), 25 (intimation to planning authority and planning authority's response), 26 (notification to interested parties) and 27 (publication of appeal documents), 36 (compliance with notification and consultation procedures) and 39 (called-in applications)) and the Hearing Session Rules apply to appeals under this regulation with the modification that references to the Schedule to the principal Act in regulation 40 (non-delegated appeals) are to be treated as references to Schedule 4 to the 1997 Act as applied by virtue of regulation 54 (application of provisions of the 1997 Act).
+
+### 44. Intimation of appeal to planning authority and planning authority's response
+
+(1) The appellant must at the same time as giving the notice of appeal under regulation 43(2) send to the planning authority a copy of—
+
+- (a) the notice of appeal; and
+- (b) all documents, materials and evidence which the appellant intends to rely on in the appeal and which accompanied the notice of appeal in accordance with regulation 43(5)(c).
+
+(2) The planning authority must, not later than 21 days beginning with the date of receipt of the notice of appeal, send to the Scottish Ministers and the appellant—
+
+- (a) a statement (“the planning authority's response”) incorporating a response to each ground of appeal and stating the matters which the planning authority consider require determination and by what, if any, procedure (or combination of procedures) referred to in regulation 30(3) the planning authority consider the appeal should be conducted and in particular—
+  - (i) a statement of whether or not the planning authority wish the opportunity to appear before and be heard by a person appointed for that purpose; and
+  - (ii) if the planning authority so wish, a statement of the matters on which the planning authority wish the opportunity to be heard; and
+- (b) copies of documents which were before the planning authority and which were taken into account in reaching their decision to issue the notice which is the subject of the appeal.
+
+(3) The appellant may, within 14 days beginning with the date of receipt of the planning authority's response, send to the Scottish Ministers and the planning authority comments on any matters raised in the planning authority's response.
+
+(4) The planning authority must until such time as the appeal is determined make available for inspection at an office of the planning authority copies of—
+
+- (a) the notice of appeal;
+- (b) the planning authority's response and any comments made under paragraph (3); and
+- (c) any documents, material and evidence which accompanied the notice of appeal or which were sent with the planning authority's response.
+
+### 45. Notification to other parties
+
+(1) The planning authority must not later than 14 days after notification of the appeal under regulation 44 give notice of the appeal to each person (other than the appellant) on whom the hazardous substances contravention notice was served.
+
+(2) Notice under paragraph (1) is to—
+
+- (a) state the name of the appellant and the address of the land to which the appeal relates;
+- (b) describe the steps required by the hazardous substances contravention notice to which the appeal relates;
+- (c) state that representations may be made to the Scottish Ministers and provide information as to how and by when such representations may be made; and
+- (d) state where a copy of the notice of appeal and the planning authority's response may be inspected.
+
+(3) The period allowed for making representations is to be not less than 14 days after the date on which notice is given under paragraph (1).
+
+### 46. Determination of an appeal against a hazardous substances contravention notice
+
+(1) On the determination of an appeal under regulation 43 the Scottish Ministers are to give directions for giving effect to the determination, including, where appropriate, directions for quashing the hazardous substances contravention notice.
+
+(2) On such an appeal—
+
+- (a) if they are satisfied that the correction or variation will not cause injustice to the appellant or the planning authority the Scottish Ministers may—
+  - (i) correct any defect, error or misdescription in the hazardous substances contravention notice; or
+  - (ii) vary the terms of the hazardous substances contravention notice.
+- (b) the Scottish Ministers may—
+  - (i) dismiss the appeal if the appellant fails to comply with regulation 43(3) to (5); or
+  - (ii) allow the appeal and quash the hazardous substances contravention notice if the planning authority fail to comply with regulation 44(2) and (4).
+
+(3) In a case where it would otherwise be a ground for determining the appeal in favour of the appellant that a person required by section 22(4) of the principal Act to be served with the hazardous substances contravention notice was not served, the Scottish Ministers may disregard that fact if neither the appellant nor that person has been substantially prejudiced by the failure to serve the notice.
+
+### 47. Appeals against hazardous substances contravention notices: supplementary
+
+Section 131(4) of the 1997 Act applies to appeals under regulation 43 as it applies to appeals under section 130 of that Act.
+
+### 48. Validity of a hazardous substances contravention notice
+
+Section 134 of the 1997 Act applies in relation to hazardous substances contravention notices with the following modifications:—
+
+- (a) for “enforcement notice” substitute “ hazardous substances contravention notice ”;
+- (b) for “section 130(1)(b) to (e)” substitute “ regulation 43(1)(a) to (c) of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 ”; and
+- (c) for “that section” substitute “ that regulation ”.
+
+### 49. Execution and cost of works required by hazardous substances contravention notice
+
+Section 135 of the 1997 Act has effect in relation to hazardous substances contravention notices with the following modifications:—
+
+- (a) for “enforcement notice” in each place where those words appear substitute “ hazardous substances contravention notice ”; and
+- (b) in subsection (4), for “breach of planning control” in each place where those words appear substitute “ contravention of hazardous substances control ”.
+
+### 50. Offence where hazardous substances contravention notice not complied with
+
+Section 136 of the 1997 Act has effect in relation to hazardous substances contravention notices with the following modifications:—
+
+- (a) for subsection (1) substitute—
+
+  > (1) Where, at any time after the end of the period for compliance with a hazardous substances contravention notice, any step required by the notice to be taken has not been taken, the person who is then the owner of the land and any person other than the owner who is in control of the land are in breach of the notice.
+
+  ;
+- (b) in subsection (2), for “the owner of the land” substitute “ a person ”;
+- (c) omit subsections (4) and (5);
+- (d) in subsection (6), omit “or (5)”; and
+- (e) in subsection (7),
+  - (i) in paragraph (a), for “enforcement notice” substitute “ hazardous substances contravention notice ”;
+  - (ii) in paragraph (b), omit “appropriate” and after “section 147” insert “ (as applied by regulation 53 of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015) ”.
+
+### 51. Effect of hazardous substances consent on hazardous substances contravention notice
+
+Section 137 of the 1997 Act has effect in relation to hazardous substances contravention notices with the following modifications:—
+
+- (a) for subsection (1) substitute—
+
+  > Where, after the service of a copy of a hazardous substances contravention notice, hazardous substances consent is granted for the presence of a hazardous substance on, over or under the land to which the notice relates, the notice ceases to have effect so far as inconsistent with that consent.
+
+  ;
+- (b) omit subsection (2); and
+- (c) in subsection (3), for “an enforcement notice or breach of condition notice” substitute “ a hazardous substances contravention notice ”.
+
+### 52. Hazardous substances contravention notice to have effect against the subsequent presence of hazardous substances
+
+(1) Section 138 of the 1997 Act has effect in relation to hazardous substances contravention notices with the following modifications:—
+
+- (a) for subsections (1) to (3) substitute—
+
+  > (1) Compliance with a hazardous substances contravention notice does not discharge that notice.
+  >
+  > (2) Without prejudice to subsection (1), where a provision of a hazardous substances contravention notice requires a hazardous substance to be removed from the land to which the notice relates, the presence on, over or under that land of a quantity of that substance equal to or exceeding its controlled quantity at any time after the substance has been removed in compliance with the hazardous substances contravention notice is in contravention of that notice.
+  >
+  > (3) Without prejudice to subsection (1), where a provision of a hazardous substances contravention notice requires the quantity of a hazardous substance on, over or under the land to which the notice relates to be reduced below a specified quantity (being greater than the controlled quantity), the presence on, over or under that land of a quantity of that substance equal to or in excess of the specified quantity at any time after the quantity of that substance has been reduced below the specified quantity in compliance with the hazardous substances contravention notice, is in contravention of that notice.
+
+  ; and
+- (b) in subsection (4)—
+  - (i) for “planning permission” substitute “ hazardous substances consent ”; and
+  - (ii) for “carries out any development on land by way of reinstating or restoring buildings or works which have been removed or altered in compliance with an enforcement notice” substitute “ is responsible for the presence of a hazardous substance on land in contravention of the requirements of a hazardous substances contravention notice as described in subsection (2) or (3) ”.
+
+### 53. Register of hazardous substances contravention notices
+
+(1) Section 147 of the 1997 Act has effect in relation to hazardous substances contravention notices with the modification specified in paragraph (2).
+
+(2) For subsection (1) substitute—
+
+> (1) Every planning authority must, in respect of each hazardous substances contravention notice issued by them, keep an enforcement register containing—
+>
+> - (a) the postal address of the land to which the notice relates or, if there is no postal address, a description of the land;
+> - (b) the date on which copies of the notice were served under section 22(4);
+> - (c) a statement of the alleged contravention of hazardous substances control, the steps required by the notice to remedy the contravention and the period within which such steps are to be taken;
+> - (d) the date specified in the notice as the date on which it is to take effect;
+> - (e) the date and effect of any variation of the notice;
+> - (f) the date of any appeal to the Scottish Ministers against the notice and the date of the final determination of the appeal; and
+> - (g) particulars of any direction given under regulation 46(1) of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015.
+>
+> (1A) The entry relating to the hazardous substances contravention notice and everything relating to the notice is to be removed from the register if the notice is quashed by the Scottish Ministers or withdrawn.
+>
+> (1B) The register—
+>
+> - (a) is to include an index to enable any person to trace an entry in the register; and
+> - (b) is to be kept at the principal office of the planning authority.
+
+.
+
+### 54. Proceedings for questioning the validity of other orders, decisions and directions
+
+(1) Sections 237(3) and 239 of the 1997 Act apply to appeals under regulation 43 with the modifications specified in paragraphs (2) and (3).
+
+(2) After section 237(3)(f) insert—
+
+> - (ff) any decision of the Scottish Ministers on an appeal to them against a hazardous substances contravention notice;
+
+.
+
+(3) In section 239(1)(b)(i), (5)(b) and (9), for “this Act” substitute “ the Planning (Hazardous Substances) (Scotland) Act 1997 ”.
+
+## PART 8 — Miscellaneous
+
+### 55. Fees for applications
+
+(1) Subject to paragraph (3), the fee which is payable to a planning authority with—
+
+- (a) an application under regulation 6 (applications for hazardous substances consent) where the quantity specified in the application as the maximum quantity proposed to be present exceeds twice the controlled quantity is £1,484[^key-ca38b392aea62256eb285b9635d0cc68] and
+- (b) an application under—
+  - (i) regulation 6 (other than an application referred to in sub-paragraph (a));
+  - (ii) regulation 7 (applications for removal of conditions attached to hazardous substances consent); or
+  - (iii) regulation 8 (application for continuation of hazardous substances consent where there has been a change in the person in control of any part of the land),
+
+  is £742[^key-f53c5c15cf089f10eabd2f011477bedf].
+
+(2) Where applications relating to the same site are made to 2 or more planning authorities, a fee is payable only to the authority in whose area the largest part of the site is situated and the amount payable is the amount that would have been payable if the application had fallen to be made to one authority in relation to the whole site.
+
+(3) Any fee paid pursuant to this regulation must be refunded if the application to which it relates is rejected as invalidly made.
+
+### 55A. Fees for Appeals[^key-377b80164b1460f9a14e5f7a2099bd86]
+
+(1) Where an appeal to is made to the Scottish Ministers under section 19(1) of the principal Act a fee is payable to the Scottish Ministers in accordance with the provisions of this regulation.
+
+(2) The fee—
+
+- (a) for an appeal in respect of an application under regulation 6 (applications for hazardous substances consent) where the quantity specified in the application as the maximum quantity proposed to be present exceeds twice the controlled quantity is £594[^key-604d6c28ea82c958b0dd7f3d448c35a1],
+- (b) for an appeal in respect of an application under—
+  - (i) regulation 6 (applications for hazardous substances consent) (other than an application referred to in sub-paragraph (a)),
+  - (ii) regulation 7 (applications for removal of conditions attached to hazardous substances consent), or
+  - (iii) regulation 8 (application for continuation of hazardous substances consent where there has been a change in the person in control of any part of the land),
+
+  is £297[^key-f2117ccf9226c3ee632bf7bb046eb8ce].
+
+(3) Any fee payable under this regulation must—
+
+- (a) accompany the appeal, and
+- (b) be refunded if the appeal is rejected as invalidly made.
+
+### 56. Applications by planning authorities
+
+(1) An application by a planning authority for hazardous substances consent, or an application by a planning authority under section 11 (applications for removal of conditions attached to hazardous substances consent) or 15 (revocation of hazardous substances consent on change of control of part of land) of the principal Act is to be made to the Scottish Ministers.
+
+(2) Regulations 5 (notice to owner by applicants), 6 (applications for hazardous substances consent), 7 (applications for removal of conditions), 8 (applications for continuation of hazardous substances consent where there has been a change in the person in control of part of the land), 9 (neighbour notification by planning authorities) and 10 (publication of receipt of applications by planning authorities), 13 (further information), 14 (consultation before determination of applications), 15 (representations) and 18(1) to (4) and (6) (decision notices on applications under regulation 6, 7 or 8) apply to applications made to the Scottish Ministers by a planning authority as they apply to applications made to a planning authority, with the modification that “a planning authority” and “the planning authority” are to be read as “the Scottish Ministers”.
+
+(3) For the purpose of regulation 41 (register of hazardous substances consents) an application under regulation 6, 7 or 8 made to the Scottish Ministers by a planning authority is to be treated as an application made to the planning authority and referred to the Scottish Ministers under section 18 of the principal Act.
+
+(4) Section 7 of the principal Act (determination of applications for hazardous substances consent) applies in relation to an application made to the Scottish Ministers by a planning authority as it applies in relation to an application made to a planning authority.
+
+(5) For the purpose of section 20 of the principal Act (validity of decisions as to applications) a decision of the Scottish Ministers on an application made to them by a planning authority is to be treated as a decision under section 18.
+
+### 57. Access to review procedure before a court
+
+Any non-governmental organisation promoting environmental protection and meeting any requirements under the law is deemed to have sufficient interest, and rights capable of being impaired, for the purposes of access to any review procedures before a court of law in respect of the giving of consent, permission or other authorisation in relation to a project referred to in Article 15(1) of the Directive as it had effect immediately before IP completion day[^key-38bc77d6ee3249791d1d017f58bfb55d].
+
+### 58. Electronic communications
+
+(1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communications and any requirement in these Regulations that any document is to be in writing is fulfilled.
+
+(2) The criteria are—
+
+- (a) the recipient consents, or is deemed to have agreed under paragraph (3), to receive it electronically; and
+- (b) that the document transmitted by the electronic communication is—
+  - (i) capable of being accessed by the recipient;
+  - (ii) legible in all material respects; and
+  - (iii) sufficiently permanent to be used for subsequent reference.
+
+(3) Any person sending a document using electronic communications is to be taken to have agreed—
+
+- (a) to the use of such communications for all purposes relating to the application which are capable of being carried out electronically; and
+- (b) that the address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, that communication.
+
+(4) Deemed agreement under paragraph (3) subsists until that person gives notice to revoke the agreement.
+
+(5) Notice of withdrawal of consent to the use of electronic communications or of revocation of agreement under paragraph (4) takes effect on a date specified by the person in the notice, but not less than 7 days after the date on which the notice is given.
+
+(6) In this regulation—
+
+- “**address**” includes any number or address used for the purpose of such communications or storage;
+- “**document**” includes any notice, consent, decision, representation, statement, list, report, form, plan, certificate or other information or communication;
+- “**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000 [^c22522121] (general interpretation);
+- “**legible in all material respects**” means that the information contained in the document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form; and
+- “**sent**” includes served, submitted or given and cognate expressions are to be construed accordingly.
+
+### 59. Service of notices
+
+Section 271 of the 1997 Act (service of notices) applies to notices or other documents required or authorised to be served or given under these Regulations on the owners or occupiers of land as it applies to notices or other documents required or authorised to be served or given under the 1997 Act.
+
+### 60. Applications made before the commencement date
+
+(1) In respect of an application for hazardous substances consent or an application under section 15(1) of the principal Act made before the commencement date but in respect of which no notice of the decision of the planning authority is given to the applicant before the commencement date the provisions of—
+
+- (a) Part 3 of the 1993 Regulations (other than regulations 12(3) and (4) (determination of applications for hazardous substances consent), 13 (notice of reference of applications to the Scottish Ministers) and 14 (appeals)) continue to apply as those provisions had effect immediately before the commencement date; and
+- (b) these Regulations (other than regulations 5 (notice to owner by applicants), 6 (applications for hazardous substances consent), 7 (applications for removal of conditions), 8 (applications for continuation of hazardous substances consent where there has been a change in the person in control of part of the land), 9 (neighbour notification by planning authorities), 10 (publication of receipt of applications by planning authorities), 11 (validation date), 12 (acknowledgement of applications) and 17(1) to (3) (time period for determination)) apply as they apply to an application made under regulation 6, 7 or 8 on or after the commencement date.
+
+(2) Where the proposal in respect of which such an application is made is a project, or part of a project, that is subject to a national or transboundary environmental impact assessment or to a requirement to provide information by virtue of Article 14(3) of the Directive as it had effect immediately before IP completion day[^key-08f68015876e328c531ecbf918689f5b] and the notice published in accordance with regulation 7 of the 1993 Regulations did not state that fact, the planning authority must publish a notice in a newspaper circulating in the locality in which the land to which the application relates is situated.
+
+(3) The notice to be published under paragraph (2) is to be in the same terms as the notice set out in Schedule 4.
+
+### 61. Interpretation of existing consents
+
+(1) In this regulation “**existing consent**” means—
+
+- (a) a consent, in the case of a hazardous substances consent granted on an application under the 1993 Regulations;
+- (b) a claim, in the case of a consent deemed to be granted under section 9 or 10A of the principal Act [^c22522131] (deemed hazardous substances consent: established presence);
+- (c) a direction, in the case of a consent deemed to be granted, or having effect as if deemed to be granted, by virtue of section 10 of the principal Act (deemed hazardous substances consent: government authorisation),
+
+granted or made before the commencement date under which the presence of a category of substance listed in column 1 of Part B of Schedule 1 to the 1993 Regulations or the presence of a hazardous substance named in column 1 of Part A of Schedule 1 to the 1993 Regulations is expressly authorised.
+
+(2) This regulation applies to an existing consent where the category or substance referred to in paragraph (1)—
+
+- (a) is not contained in Schedule 1 to these Regulations; or
+- (b) is differently named or defined under Schedule 1 to these Regulations.
+
+(3) Where this regulation applies any reference in an existing consent to a category or substance referred to in paragraph (1) is to be interpreted as if these Regulations had not come into force.
+
+(4) In paragraph (1)(a) to (c) a reference to a consent includes any continuation of that consent which is granted or deemed to be granted under section 16 of the principal Act.
+
+### 62. Saving provision for deemed consent conditions
+
+(1) This regulation applies to any consent that was deemed to be granted under section 10A or 30D of the principal Act [^c22522141] before the commencement date.
+
+(2) In relation to any consent to which this regulation applies—
+
+- (a) the conditions in Schedule 3 to the 1993 Regulations continue to apply (unless any condition was removed following an application under section 11 of the principal Act); and
+- (b) those conditions continue to be interpreted in accordance with regulation 17 of the 1993 Regulations.
+
+### 63. Notification of other establishments
+
+(1) This regulation applies where hazardous substances consent would be required but for the exemption in paragraph 12 of Schedule 2 (presence of established substances).
+
+(2) Where this regulation applies the person in control of the land to which the exemption relates must give the planning authority notice in writing containing—
+
+- (a) details of the person in control of the land;
+- (b) details of the location of the land;
+- (c) the maximum amount of any hazardous substances which is subject to the exemption which was held on, over or under the land in the period of 12 months ending on 31st May 2015; and
+- (d) an explanation of why paragraph 12 of Schedule 2 applies.
+
+(3) The planning authority must, as soon as practicable after receiving the notice given under paragraph (2), send a copy to the Scottish Environment Protection Agency and the safety regulator.
+
+### 64. Appeals made after the commencement date
+
+(1) Subject to paragraph (2), these Regulations apply to an appeal under section 19 of the principal Act where notice of the appeal is given on or after the commencement date.
+
+(2) In the case of an appeal under section 19 of the principal Act where the relevant date is before the commencement date, the notice of appeal must be served on the Scottish Ministers within a period of 6 months from the relevant date.
+
+(3) In this regulation “**relevant date**” means in the case of an appeal under—
+
+- (a) section 19(1) of the principal Act, the date of the notice of the decision giving rise to the appeal; and
+- (b) section 19(2) of the principal Act, the date on which the applicant first becomes entitled to appeal under that subsection.
+
+### 65. Appeals made before the commencement date
+
+(1) This regulation applies in respect of—
+
+- (a) an appeal under section 19 of the principal Act; and
+- (b) an appeal against a hazardous substances contravention notice,
+
+where notice of the appeal is given before the commencement date.
+
+(2) The 1993 Regulations continue to apply to an appeal to which this regulation applies as those Regulations had effect immediately before the commencement date.
+
+(3) Regulation 38 (notice of decision on appeal) applies in respect of an appeal to which this regulation applies.
+
+### 66. Applications referred to the Scottish Ministers before the commencement date
+
+Part 5, other than regulation 38 (notice of decision on appeal), does not apply in respect of the procedure for dealing with an application for hazardous substances consent or an application under section 15(1) of the principal Act referred to the Scottish Ministers by virtue of a direction under section 18(1) of the principal Act given before the commencement date.
+
+### 67. Amendments
+
+Schedule 8 has effect.
+
+### 68. Revocations
+
+Subject to regulations 60 (applications made before the commencement date) and 65 (appeals made before the commencement date), the instruments listed in column 1 of the table in Schedule 9 are revoked to the extent described in column 3 of that table.
+
+MARCO BIAGI
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — Hazardous substances and controlled quantities
+
+Regulation 3
+
+Where a hazardous substance is covered by Part 1 of this Schedule and is also listed in Part 2, the qualifying quantities set out in column 2 of Part 2 apply.
+
+### PART 1 — Categories of substances
+
+This Part covers all hazardous substances falling under the hazard categories listed in column 1:
+
+<table>
+<tbody>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th></tr>
+<tr><th><em>Hazard categories in accordance with the CLP Regulation</em></th><th><em>Controlled quantity in tonnes of hazardous substances</em></th></tr>
+<tr><th colspan="2"><strong>Section ‘H’ – HEALTH HAZARDS</strong></th></tr>
+<tr><td>H1 ACUTE TOXIC Category 1, all exposure routes</td><td>5</td></tr>
+<tr><td>H2 ACUTE TOXIC<br>— Category 2, all exposure routes<br>— Category 3, inhalation exposure route (see note 8)</td><td>50</td></tr>
+<tr><td>H3 STOT SPECIFIC TARGET ORGAN TOXICITY – SINGLE EXPOSURE STOT SE Category 1</td><td>50</td></tr>
+<tr><th colspan="2"><strong>Section ‘P’ – PHYSICAL HAZARDS</strong></th></tr>
+<tr><td>P1a EXPLOSIVES (see note 9)<br>— Unstable explosives, or<br>— Explosives, Division 1.1, 1.2, 1.3, 1.5 or 1.6, or<br>— Substances or mixtures having explosive properties according to method A.14 of Council Regulation <a href="https://www.legislation.gov.uk/european/regulation/2008/0440">(EC) No 440/2008</a> laying down test methods pursuant to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2006/1907">(EC) No 1907/2006</a> of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (see note 10) and do not belong to the hazard classes Organic peroxides or Self-reactive substances and mixtures</td><td>10</td></tr>
+<tr><td>P1b EXPLOSIVES (see note 9)<br>Explosives, Division 1.4 (see note 11)</td><td>50</td></tr>
+<tr><td>P2 FLAMMABLE GASES Flammable gases, Category 1 or 2</td><td>10</td></tr>
+<tr><td>P3a FLAMMABLE AEROSOLS (see note 12(1)) ‘Flammable’ aerosols Category 1 or 2, containing flammable gases Category 1 or 2 or flammable liquids Category 1</td><td>150 (net)</td></tr>
+<tr><td>P3b FLAMMABLE AEROSOLS (see note 12(1)) ‘Flammable’ aerosols Category 1 or 2, not containing flammable gases Category 1 or 2 nor flammable liquids category 1 (see note 12(2))</td><td>5,000 (net)</td></tr>
+<tr><td>P4 OXIDISING GASES<br>Oxidising gases, Category 1</td><td>50</td></tr>
+<tr><td>P5a FLAMMABLE LIQUIDS<br>— Flammable liquids, Category 1, or<br>— Flammable liquids Category 2 or 3 maintained at a temperature above their boiling point, or<br>— Other liquids with a flash point ≤ 60 °C, maintained at a temperature above their boiling point (see note 13)</td><td>10</td></tr>
+<tr><td>P5b FLAMMABLE LIQUIDS<br>— Flammable liquids Category 2 or 3 where particular processing conditions, such as high pressure or high temperature, may create major-accident hazards, or<br>— Other liquids with a flash point ≤ 60 °C where particular processing conditions, such as high pressure or high temperature, may create major-accident hazards (see note 13)</td><td>50</td></tr>
+<tr><td>P5c FLAMMABLE LIQUIDS<br>Flammable liquids, Categories 2 or 3 not covered by P5a and P5b</td><td>5,000</td></tr>
+<tr><td>P6a SELF-REACTIVE SUBSTANCES AND MIXTURES and ORGANIC PEROXIDES<br>Self-reactive substances and mixtures, Type A or B or organic peroxides, Type A or B</td><td>10</td></tr>
+<tr><td>P6b SELF-REACTIVE SUBSTANCES AND MIXTURES and ORGANIC PEROXIDES<br>Self-reactive substances and mixtures, Type C, D, E or F or organic peroxides, Type C, D, E, or F</td><td>50</td></tr>
+<tr><td>P7 PYROPHORIC LIQUIDS AND SOLIDS<br>Pyrophoric liquids, Category 1<br>Pyrophoric solids, Category 1</td><td>50</td></tr>
+<tr><td>P8 OXIDISING LIQUIDS AND SOLIDS<br>Oxidising Liquids, Category 1, 2 or 3, or<br>Oxidising Solids, Category 1, 2 or 3</td><td>50</td></tr>
+<tr><th colspan="2"><strong>Section ‘E’ – ENVIRONMENTAL HAZARDS</strong></th></tr>
+<tr><td>E1 Hazardous to the Aquatic Environment in Category Acute 1 or Chronic 1</td><td>100</td></tr>
+<tr><td>E2 Hazardous to the Aquatic Environment in Category Chronic 2</td><td>200</td></tr>
+<tr><th colspan="2"><strong>Section ‘O’ – OTHER HAZARDS</strong></th></tr>
+<tr><td>O1 Substances or mixtures with hazard statement EUH014</td><td>100</td></tr>
+<tr><td>O2 Substances and mixtures which in contact with water emit flammable gases, Category 1</td><td>100</td></tr>
+<tr><td>O3 Substances or mixtures with hazard statement EUH029</td><td>50</td></tr>
+</tbody>
+</table>
+
+### PART 2 — Named hazardous substances
+
+<table>
+<tbody>
+<tr><th colspan="6"><em>Column 1</em></th><th colspan="2"><em>CAS number<sup>(1)</sup></em></th><th colspan="2"><em>Column 2</em></th></tr>
+<tr><th colspan="6"><em>Hazardous substances</em></th><th colspan="2"></th><th colspan="2"><em>Controlled quantity (tonnes)</em></th></tr>
+<tr><td colspan="6">1. Ammonium nitrate (see note 14)</td><td colspan="2">-</td><td colspan="2">5,000</td></tr>
+<tr><td colspan="6">2. Ammonium nitrate (see note 15)</td><td colspan="2">-</td><td colspan="2">1,250</td></tr>
+<tr><td colspan="6">3. Ammonium nitrate (see note 16)</td><td colspan="2">-</td><td colspan="2">350</td></tr>
+<tr><td colspan="6">4. Ammonium nitrate (see note 17)</td><td colspan="2">-</td><td colspan="2">10</td></tr>
+<tr><td colspan="6">5. Potassium nitrate (see note 18)</td><td colspan="2">-</td><td colspan="2">5,000</td></tr>
+<tr><td colspan="6">6. Potassium nitrate (see note 19)</td><td colspan="2">-</td><td colspan="2">1,250</td></tr>
+<tr><td colspan="6">7. Arsenic pentoxide, arsenic (V) acid and/or salts</td><td colspan="2">1303-28-2</td><td colspan="2">1</td></tr>
+<tr><td colspan="6">8. Arsenic trioxide, arsenious (III) acid and/or salts</td><td colspan="2">1327-53-3</td><td colspan="2">0.1</td></tr>
+<tr><td colspan="6">9. Bromine</td><td colspan="2">7726-95-6</td><td colspan="2">20</td></tr>
+<tr><td colspan="6">10. Chlorine</td><td colspan="2">7782-50-5</td><td colspan="2">10</td></tr>
+<tr><td colspan="6">11. Nickel compounds in inhalable powder form: nickel monoxide, nickel dioxide, nickel sulphide, trinickel disulphide, dinickel trioxide</td><td colspan="2">-</td><td colspan="2">1</td></tr>
+<tr><td colspan="6">12. Ethyleneimine</td><td colspan="2">151-56-4</td><td colspan="2">10</td></tr>
+<tr><td colspan="6">13. Fluorine</td><td colspan="2">7782-41-4</td><td colspan="2">10</td></tr>
+<tr><td colspan="6">14. Formaldehyde (concentration ≥ 90%)</td><td colspan="2">50-00-0</td><td colspan="2">5</td></tr>
+<tr><td colspan="6">15. Hydrogen</td><td colspan="2">1333-74-0</td><td colspan="2">2*</td></tr>
+<tr><td colspan="6">16. Hydrogen chloride (liquefied gas)</td><td colspan="2">7647-01-0</td><td colspan="2">25</td></tr>
+<tr><td colspan="6">17. Lead alkyls</td><td colspan="2">-</td><td colspan="2">5</td></tr>
+<tr><td colspan="6">18. Liquefied flammable gases, Category 1 or 2 (including LPG) and natural gas (see note 20)</td><td colspan="2">-</td><td colspan="2">Natural Gas (including liquefied natural gas): 15*<br>Liquefied Petroleum Gas (LPG): 25*<br>Any other liquefied flammable gases: 50</td></tr>
+<tr><td colspan="6">19. Acetylene</td><td colspan="2">74-86-2</td><td colspan="2">5</td></tr>
+<tr><td colspan="6">20. Ethylene oxide</td><td colspan="2">75-21-8</td><td colspan="2">5</td></tr>
+<tr><td colspan="6">21. Propylene oxide</td><td colspan="2">75-56-9</td><td colspan="2">5</td></tr>
+<tr><td colspan="6">22. Methanol</td><td colspan="2">67-56-1</td><td colspan="2">500</td></tr>
+<tr><td colspan="6">23. 4, 4′-Methylene bis (2-chloraniline) and/or salts, in powder form</td><td colspan="2">101-14-4</td><td colspan="2">0.01</td></tr>
+<tr><td colspan="6">24. Methylisocyanate</td><td colspan="2">624-83-9</td><td colspan="2">0.15</td></tr>
+<tr><td colspan="6">25. Oxygen</td><td colspan="2">7782-44-7</td><td colspan="2">200</td></tr>
+<tr><td colspan="6">26. 2,4 -Toluene diisocyanate</td><td colspan="2">584-84-9</td><td colspan="2" rowspan="2">10</td></tr>
+<tr><td colspan="6">2,6 -Toluene diisocyanate</td><td colspan="2">91-08-7</td></tr>
+<tr><td colspan="6">27. Carbonyl dichloride (phosgene)</td><td colspan="2">75-44-5</td><td colspan="2">0.3</td></tr>
+<tr><td colspan="6">28. Arsine (arsenic trihydride)</td><td colspan="2">7784-42-1</td><td colspan="2">0.2</td></tr>
+<tr><td colspan="6">29. Phosphine (phosphorus trihydride)</td><td colspan="2">7803-51-2</td><td colspan="2">0.2</td></tr>
+<tr><td colspan="6">30. Sulphur dichloride</td><td colspan="2">10545-99-0</td><td colspan="2">1</td></tr>
+<tr><td colspan="6">31. Sulphur trioxide</td><td colspan="2">7446-11-9</td><td colspan="2">15</td></tr>
+<tr><td colspan="6">32. Polychlorodibenzofurans and polychlorodibenzodioxins (including TCDD), calculated in TCDD equivalent (see note 21)</td><td colspan="2">-</td><td colspan="2">0.001</td></tr>
+<tr><td colspan="6">33. The following CARCINOGENS or the mixtures containing the following carcinogens at concentrations above 5% by weight: 4-Aminobiphenyl and/or its salts, Benzotrichloride, Benzidine and/or salts, Bis (chloromethyl) ether, Chloromethyl methyl ether, 1,2-Dibromoethane, Diethyl sulphate, Dimethyl sulphate, Dimethylcarbamoyl chloride, 1,2-Dibromo-3-chloropropane, 1,2-Dimethylhydrazine, Dimethylnitrosamine, Hexamethylphosphoric triamide, Hydrazine, 2- Naphthylamine and/or salts, 4-Nitrodiphenyl, and 1,3 Propanesultone</td><td colspan="2">-</td><td colspan="2">0.5</td></tr>
+<tr><td colspan="6">34. Petroleum products and alternative fuels (a) gasolines and naphthas, (b) kerosenes (including jet fuels), (c) gas oils (including diesel fuels, home heating oils and gas oil blending streams) (d) heavy fuel oils (e) alternative fuels serving the same purposes and with similar properties as regards flammability and environmental hazards as the products referred to in points (a) to (d)</td><td colspan="2">-</td><td colspan="2">2,500</td></tr>
+<tr><td colspan="6">35. Anhydrous Ammonia</td><td colspan="2">7664-41-7</td><td colspan="2">50</td></tr>
+<tr><td colspan="6">36. Boron trifluoride</td><td colspan="2">7637-07-2</td><td colspan="2">5</td></tr>
+<tr><td colspan="6">37. Hydrogen sulphide</td><td colspan="2">7783-06-4</td><td colspan="2">5</td></tr>
+<tr><td colspan="6">38. Piperidine</td><td colspan="2">110-89-4</td><td colspan="2">50</td></tr>
+<tr><td colspan="6">39. Bis(2-dimethylaminoethyl) (methyl)amin</td><td colspan="2">3030-47-5</td><td colspan="2">50</td></tr>
+<tr><td colspan="6">40. 3-(2-Ethylhexyloxy)propylamin</td><td colspan="2">5397-31-9</td><td colspan="2">50</td></tr>
+<tr><td colspan="6">41. Mixtures (*) of sodium hypochlorite classified as Aquatic Acute Category 1 [H400] containing less than 5 % active chlorine and not classified under any of the other hazard categories in Part 1 of Schedule 1.<br>(*) Provided that the mixture in the absence of sodium hypochlorite would not be classified as Aquatic Acute Category 1 [H400].</td><td colspan="2">-</td><td colspan="2">200</td></tr>
+<tr><td colspan="6">42. Propylamine (see note 22)</td><td colspan="2">107-10-8</td><td colspan="2">500</td></tr>
+<tr><td colspan="6">43. Tert-butyl acrylate (see note 22)</td><td colspan="2">1663-39-4</td><td colspan="2">200</td></tr>
+<tr><td colspan="6">44. 2-Methyl-3-butenenitrile (see note 22)</td><td colspan="2">16529-56-9</td><td colspan="2">500</td></tr>
+<tr><td colspan="6">45. Tetrahydro-3,5-dimethyl-1,3,5,-thiadiazine-2-thione (Dazomet) (see note 22)</td><td colspan="2">533-74-4</td><td colspan="2">100</td></tr>
+<tr><td colspan="6">46. Methyl acrylate (see note 22)</td><td colspan="2">96-33-3</td><td colspan="2">500</td></tr>
+<tr><td colspan="6">47. 3-Methylpyridine (see note 22)</td><td colspan="2">108-99-6</td><td colspan="2">500</td></tr>
+<tr><td colspan="6">48. 1-Bromo-3-chloropropane (see note 22)</td><td colspan="2">109-70-6</td><td colspan="2">500</td></tr>
+<tr><td colspan="10"><sup>(1)</sup> The CAS number is shown only for indication.</td></tr>
+<tr><td colspan="10"><strong>NOTES TO PARTS 1 AND 2</strong></td></tr>
+<tr><td colspan="10">1. Substances and mixtures are classified in accordance with the CLP Regulation.</td></tr>
+<tr><td colspan="10">2. Mixtures are to be treated in the same way as pure substances provided they remain within concentration limits set according to their properties under the CLP Regulation, or its latest adaptation to technical progress, unless a percentage composition or other description is specifically given.</td></tr>
+<tr><td colspan="10">3. Expressions appearing in this Schedule and the Directive have the same meaning for the purposes of this Schedule as they have for the purposes of the Directive.</td></tr>
+<tr><td colspan="10">4.—(1) The controlled quantities set out above relate to each establishment.</td></tr>
+<tr><td colspan="10">(2) The quantities to be considered for the application of these Regulations are the maximum quantities which are present or are likely to be present at any one time.</td></tr>
+<tr><td colspan="10">5. In the case of an establishment where two or more below-threshold substances in the same hazard group are present, the rule in paragraph (3) applies to those substances.</td></tr>
+<tr><td colspan="10">In this note—<br>“below-threshold substances” are substances falling within Part 1 or 2 of this schedule which are present in quantities below the quantities corresponding to those substances specified in column 2 of those Parts,<br>“<strong>hazard group</strong>” means each of the following groups of substances—<br>(a) substances listed in Part 2 of this schedule which fall within acute toxicity category 1, 2 or 3 (inhalation route) or STOT SE category 1 and substances which fall within section H, entries H1 to H3, of Part 1,<br>(b) substances listed in Part 2 of this schedule that are explosives, flammable gases, flammable aerosols, oxidising gases, flammable liquids, self-reactive substances and mixtures, organic peroxides, pyrophoric liquids and solids, oxidising liquids and solids and substances which fall within section P, entries P1a to P8, of Part 1,<br>(c) substances listed in Part 2 of this schedule which fall within hazardous to the aquatic environment acute category 1, chronic category 1 or chronic category 2 and substances which fall within section E, entries E1 and E2, of Part 1.</td></tr>
+<tr><td colspan="10">Where, in relation to the below-threshold substances in the same hazard group, the sum produced by the formula in paragraph (4) is greater than or equal to 1, the controlled quantity of each substance shall be the value q used in that formula.</td></tr>
+<tr><td colspan="10">The formula is—<br><a href="https://www.legislation.gov.uk/ssi/2015/181">formula: see source</a><br>where<br>q<sub>n</sub> = the quantity of a below-threshold substance which is present at the establishment,<br>CQn = the quantity corresponding to that substance specified in column 2 of Part 1 or 2 of this schedule (except for Hydrogen where CQ is to be 5, and for liquefied petroleum gas and natural gas (including liquefied natural gas) where CQ is to be 50)</td></tr>
+<tr><td rowspan="2"></td><td colspan="9"></td></tr>
+<tr><td colspan="9"></td></tr>
+<tr><td rowspan="3"></td><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="2"></td><td colspan="7"></td></tr>
+<tr><td colspan="10"></td></tr>
+<tr><td colspan="10">6. In the case of hazardous substances which are not covered by the CLP Regulation, including waste, but which nevertheless are present, or are likely to be present, in an establishment and which possess or are likely to possess, under the conditions found at the establishment, equivalent properties in terms of major accident potential, these must be provisionally assigned to the most analogous category or named hazardous substance falling within the scope of these Regulations.</td></tr>
+<tr><td colspan="10">7. In the case of hazardous substances with properties giving rise to more than one classification, for the purposes of these Regulations the lowest controlled quantities apply. However, for the application of the rule in Note 5, the lowest controlled quantity for each hazard group under Note 5 corresponding to the classification concerned must be used.</td></tr>
+<tr><td colspan="10">8. Hazardous substances that fall within Acute Toxic Category 3 via the oral route (H 301) fall under entry H2 ACUTE TOXIC in those cases where neither acute inhalation toxicity classification nor acute dermal toxicity classification can be derived, for example due to lack of conclusive inhalation and dermal toxicity data.</td></tr>
+<tr><td colspan="10">9. The hazard class Explosives includes explosive articles (see Section 2.1 of Annex I to the CLP Regulation). If the quantity of the explosive substance or mixture contained in the article is known, that quantity must be considered for the purposes of these Regulations. If the quantity of the explosive substance or mixture contained in the article is not known, then, for the purposes of these Regulations, the whole article must be treated as explosive.</td></tr>
+<tr><td colspan="10">10. Testing for explosive properties of substances and mixtures is only necessary if the screening procedure according to Appendix 6, Part 3 of the UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria (UN Manual of Tests and Criteria) identifies the substance or mixture as potentially having explosive properties.</td></tr>
+<tr><td colspan="10">11. If Explosives of Division 1.4 are unpacked or repacked, they must be assigned to the entry P1a, unless the hazard is shown to still correspond to Division 1.4, in accordance with the CLP Regulation.</td></tr>
+<tr><td colspan="10">12.—(1). Flammable aerosols are classified in accordance with Council Directive <a href="https://www.legislation.gov.uk/european/directive/1975/0324">75/324/EEC</a> on the approximation of the laws of the Member States relating to aerosol dispensers , as that Directive had effect immediately before IP completion day (Aerosol Dispensers Directive). “Extremely flammable” and “Flammable” aerosols of Directive <a href="https://www.legislation.gov.uk/european/directive/1975/0324">75/324/EEC</a> correspond to Flammable Aerosols Category 1 or 2 respectively of the CLP Regulation.</td></tr>
+<tr><td colspan="10">(2). In order to use this entry, it must be documented that the aerosol dispenser does not contain Flammable Gas Category 1 or 2 nor Flammable Liquid Category 1.</td></tr>
+<tr><td colspan="10">13. According to paragraph 2.6.4.5 in Annex I to the CLP Regulation, liquids with a flash point of more than 35 °C need not be classified in Category 3 if negative results have been obtained in the sustained combustibility test L.2, Part III, section 32 of the UN Manual of Tests and Criteria. This is, however, not valid under elevated conditions such as high temperature or pressure, and therefore such liquids are included in this entry.</td></tr>
+<tr><td colspan="10">14. Ammonium nitrate (5,000/10,000): fertilisers capable of self-sustaining decomposition<br>This applies to ammonium nitrate-based compound/composite fertilisers (compound/composite fertilisers contain ammonium nitrate with phosphate and/or potash) which are capable of self-sustaining decomposition according to the UN Trough Test (see UN Manual of Tests and Criteria, Part III, subsection 38.2), and in which the nitrogen content as a result of ammonium nitrate is—</td></tr>
+<tr><td colspan="2" rowspan="2"></td><td colspan="2">(a)</td><td colspan="6">between 15.75% and 24.5% by weight, and either with not more than 0.4% total combustible/organic materials or which fulfil the requirements of Annex III-2 to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2003">(EC) No 2003/2003</a> of the European Parliament and of the Council relating to fertilisers ;</td></tr>
+<tr><td colspan="2">(b)</td><td colspan="6">15.75% by weight or less and unrestricted combustible materials.</td></tr>
+<tr><td colspan="10">15. Ammonium nitrate (1,250/5,000): fertiliser grade<br>This applies to straight ammonium nitrate-based fertilisers and to ammonium nitrate-based compound/composite fertilisers which fulfil the requirements of Annex III-2 to said Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2003">(EC) No 2003/2003</a> and in which the nitrogen content as a result of ammonium nitrate is—</td></tr>
+<tr><td colspan="2" rowspan="3"></td><td colspan="2">(a)</td><td colspan="6">more than 24.5% by weight, except for mixtures of straight ammonium nitrate based fertilisers with dolomite, limestone and/or calcium carbonate with a purity of at least 90%;</td></tr>
+<tr><td colspan="2">(b)</td><td colspan="6">more than 15.75% by weight for mixtures of ammonium nitrate and ammonium sulphate;</td></tr>
+<tr><td colspan="2">(c)</td><td colspan="6">more than 28% by weight for mixtures of straight ammonium nitrate-based fertilisers with dolomite, limestone and/or calcium carbonate with a purity of at least 90%.</td></tr>
+<tr><td colspan="10">16. Ammonium nitrate (350/2,500): technical grade<br>This applies to ammonium nitrate and mixtures of ammonium nitrate in which the nitrogen content as a result of the ammonium nitrate is—</td></tr>
+<tr><td colspan="2" rowspan="2"></td><td colspan="2">(a)</td><td colspan="6">between 24.5% and 28% by weight, and which contain not more than 0.4% combustible substances;</td></tr>
+<tr><td colspan="2">(b)</td><td colspan="6">more than 28% by weight, and which contain not more than 0.2% combustible substances.</td></tr>
+<tr><td colspan="10">It also applies to aqueous ammonium nitrate solutions in which the concentration of ammonium nitrate is more than 80% by weight.</td></tr>
+<tr><td colspan="10">17. Ammonium nitrate (10/50): ‘off-specs’ material and fertilisers not fulfilling the detonation test.</td></tr>
+<tr><td colspan="10">This applies to—</td></tr>
+<tr><td colspan="2"></td><td colspan="2">(a)</td><td colspan="6">material rejected during the manufacturing process and to ammonium nitrate and mixtures of ammonium nitrate, straight ammonium nitrate-based fertilisers and ammonium nitrate-based compound/composite fertilisers referred to in Notes 15 and 16, that are being or have been returned from the final user to a manufacturer, temporary storage or reprocessing plant for reworking, recycling or treatment for safe use, because they no longer comply with the specifications of Notes 15 and 16;</td></tr>
+<tr><td colspan="2"></td><td colspan="2">(b)</td><td colspan="6">fertilisers referred to in Notes 14(a) and 15 to this Schedule which do not fulfil the requirements of Annex III-2 to Regulation <a href="https://www.legislation.gov.uk/european/regulation/2003/2003">(EC) No 2003/2003</a>.</td></tr>
+<tr><td colspan="10">18. Potassium nitrate (5,000/10,000)</td></tr>
+<tr><td colspan="10">This applies to those composite potassium-nitrate based fertilisers (in prilled/granular form) which have the same hazardous properties as pure potassium nitrate.</td></tr>
+<tr><td colspan="10">19. Potassium nitrate (1,250/5,000)</td></tr>
+<tr><td colspan="10">This applies to those composite potassium-nitrate based fertilisers (in crystalline form) which have the same hazardous properties as pure potassium nitrate.</td></tr>
+<tr><td colspan="10">20. Upgraded biogas</td></tr>
+<tr><td colspan="10">For the purpose of the implementation of these Regulations, upgraded biogas may be classified under entry 18 of Part 2 of Schedule 1 where it has been processed in accordance with applicable standards for purified and upgraded biogas ensuring a quality equivalent to that of natural gas, including the content of Methane, and which has a maximum of 1% Oxygen.</td></tr>
+<tr><td colspan="10">21. Polychlorodibenzofurans and polychlorodibenzodioxins</td></tr>
+<tr><td colspan="10">The quantities of polychlorodibenzofurans and polychlorodibenzodioxins are calculated using the factors in Table 1—</td></tr>
+<tr><td colspan="10"><strong>Table 1</strong></td></tr>
+<tr><td colspan="10"><strong>WHO 2005 TEF(*)</strong></td></tr>
+<tr><td colspan="5">2,3,7,8-TCDD</td><td colspan="2">1</td><td colspan="2">2,3,7,8-TCDF</td><td>0.1</td></tr>
+<tr><td colspan="5">1,2,3,7,8-PeCDD</td><td colspan="2">1</td><td colspan="2">2,3,4,7,8-PeCDF</td><td>0.3</td></tr>
+<tr><td colspan="5"></td><td colspan="2"></td><td colspan="2">1,2,3,7,8-PeCDF</td><td>0.03</td></tr>
+<tr><td colspan="5">1,2,3,4,7,8-HxCDD</td><td colspan="2">0.1</td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="5">1,2,3,6,7,8-HxCDD</td><td colspan="2">0.1</td><td colspan="2">1,2,3,4,7,8-HxCDF</td><td>0.1</td></tr>
+<tr><td colspan="5">1,2,3,7,8,9-HxCDD</td><td colspan="2">0.1</td><td colspan="2">1,2,3,7,8,9-HxCDF</td><td>0.1</td></tr>
+<tr><td colspan="5"></td><td colspan="2"></td><td colspan="2">1,2,3,6,7,8-HxCDF</td><td>0.1</td></tr>
+<tr><td colspan="5">1,2,3,4,6,7,8-HpCDD</td><td colspan="2">0.01</td><td colspan="2">2,3,4,6,7,8-HxCDF</td><td>0.1</td></tr>
+<tr><td colspan="5">OCDD</td><td colspan="2">0.0003</td><td colspan="2">1,2,3,4,6,7,8-HpCDF</td><td>0.01</td></tr>
+<tr><td colspan="5"></td><td colspan="2"></td><td colspan="2">1,2,3,4,7,8,9-HpCDF</td><td>0.01</td></tr>
+<tr><td colspan="5"></td><td colspan="2"></td><td colspan="2">OCDF</td><td>0.0003</td></tr>
+<tr><td colspan="10">(T = tetra, P = penta, Hx = hexa, Hp = hepta, O = octa)<br>*Van den Berg et al: The 2005 World Health Organisation Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds.</td></tr>
+<tr><td colspan="10">22. In cases where this hazardous substance falls within category P5a Flammable liquids or P5b Flammable liquids, then for the purposes of these Regulations the lower controlled quantity applies.</td></tr>
+</tbody>
+</table>
+
+[^key-87fcf6ad3d303f5a49ccf2a89a3efded][^key-dca842ebf7120c4c9d2b6ec4ecadaa00][^c22522151][^key-fe0fa4a5ddbd3cc70024858351f7401e][^c22522171][^c22522181][^c22522191][^c22522201]
+
+### PART 3 — Substances used in processes
+
+<table>
+<tbody>
+<tr><th><em>Column 1 Hazardous Substances</em></th><th><em>Column 2 Controlled quantity</em></th></tr>
+<tr><td>Where it is reasonable to foresee that a substance falling within Part 1 or Part 2 (“HS”) may be generated during loss of control of the processes, including storage activities in any installation within an establishment, any substance which is used in that process (“S”).</td><td>The amount of S which it is believed may generate (on its own or in combination with other substances used in the relevant process) an amount equal to or exceeding the controlled quantity of the HS in question.</td></tr>
+<tr><th colspan="2"><strong>NOTES TO PART 3</strong></th></tr>
+<tr><td colspan="2">1. Expressions used in this Part and in the Directive have the same meaning as in the Directive.</td></tr>
+<tr><td colspan="2">2. The controlled quantity referred to in column 2 relates to each establishment.</td></tr>
+<tr><td colspan="2">3. Where S also falls within Part 1 or 2, the classification with the lowest controlled quantity applies. Where S also falls within Part 1 and Part 2, the controlled quantity which is lowest when the controlled quantities under Part 2 and Part 3 are compared applies.</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — Exemptions
+
+Regulation 4
+
+### 1. Military establishments
+
+Hazardous substances consent is not required for the presence of a hazardous substance on, over or under land at military establishments, installations or storage facilities.
+
+### 2. Nuclear sites
+
+Hazardous substances consent is not required for the presence of a hazardous substance which creates a hazard from ionising radiation if present on, over or under land in respect of which a nuclear site licence has been granted or is required for the purposes of section 1 of the Nuclear Installations Act 1965 [^c22522211].
+
+### 3. Intermediate presence related to the transport of hazardous substances
+
+Hazardous substances consent is not required for the intermediate temporary presence of a hazardous substance on, over or under land where that presence is directly related to the transport of hazardous substances by road, rail, internal waterways, sea or air, outside establishments covered by these Regulations, including loading and unloading and transport to and from another means of transport at docks, wharves or marshalling yards.
+
+### 4. Pipelines
+
+Hazardous substances consent is not required for the presence of a hazardous substance where it is being transported in a pipeline, including a pumping station, outside establishments.
+
+### 5. Minerals
+
+Hazardous substances consent is not required for the presence of a hazardous substance in the exploitation, namely the exploration, extraction and processing, of minerals in mines and quarries, including by means of boreholes.
+
+**6.** Paragraph 5 does not apply to a hazardous substance present in connection with the matters referred to in paragraph 8(b) to (d).
+
+### 7. Land-fill sites
+
+Hazardous substances consent is not required for the presence of a hazardous substance at a waste land-fill site, including underground waste storage.
+
+**8.** Paragraph 7 does not apply to a hazardous substance present in—
+
+- (a) a site used for the storage of metallic mercury pursuant to Article 3(1)(b) of Regulation [(EC) No 1102/2008](https://www.legislation.gov.uk/european/regulation/2008/1102) of the European Parliament and of the Council on the banning of exports of metallic mercury and certain mercury compounds and mixtures and the safe storage of metallic mercury [^c22522221];
+- (b) onshore underground gas storage in natural strata, aquifers, salt cavities and disused mines;
+- (c) chemical and thermal processing operations and storage related to the those operations; or
+- (d) operational tailings disposal facilities, including tailing ponds or dams.
+
+### 9. Emergency unloading from ships
+
+Hazardous substances consent is not required for the presence of a hazardous substance which has been unloaded from a ship or other sea going craft in an emergency until the expiry of the period of 14 days beginning with the day it was unloaded, and a substance is to be treated as having been unloaded from a craft in an emergency if—
+
+- (a) it was unloaded from a craft to which a direction under section 3(1) of the Dangerous Vessels Act 1985 [^c22522231] (directions by Scottish Ministers to harbour master) applied; or
+- (b)[^key-6630ef1c1dfeb455004c8b86343a9de0] it was unloaded from a craft after having been brought into a harbour area, within the meaning of regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016 without requiring notification under regulation 6(1) of those regulations by virtue of an exemption under regulation 6(6).
+
+### 10. Explosives
+
+Hazardous substances consent is not required for the presence of an explosive within the meaning of regulation 2(1) of the Explosives Regulations 2014 [^c22522251] in relation to which—
+
+- (a) a licence is required and has been granted under those Regulations by the Health and Safety Executive where it is the licensing authority by virtue of—
+  - (i) paragraph 1(b) of Schedule 1 to those Regulations in cases where the assent of the local authority was required pursuant to regulation 13(3) of those Regulations or would have been required but for regulation 13(4)(b), (c), (d), (e), (f) or (g) of those Regulations; or
+  - (ii) paragraph 1(d) of Schedule 1 to those Regulations; or
+- (b) a licence is required and has been granted under those Regulations by the Office for Nuclear Regulation in cases where the assent of the local authority was required pursuant to regulation 13(3) of those Regulations or would have been required but for regulation 13(4)(b), (c), (d), (e), (f) or (g) of those Regulations.
+
+**11.** Hazardous substance consent is not required where an explosives licence within the meaning of regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016[^key-285850d8660c468a2a9d524eec36477a] [^c22522261] has been issued.
+
+### 12. Presence of established substances
+
+Hazardous substances consent is not required for the presence of a hazardous substance on, over or under land (“the relevant substance”) if—
+
+- (a) the relevant substance was present on, over or under the land at any time during the establishment period;
+- (b) hazardous substances consent was not required for the presence of the relevant substance at the time it was present during the establishment period; and
+- (c) hazardous substances consent would have been required for the presence of the relevant substance had these Regulations been in force at that time.
+
+**13.** Paragraph 12 does not apply where the quantity of the relevant substance exceeds the maximum quantity of the relevant substance which was present on, over or under the land at any time during the establishment period.
+
+### 14. Presence of exempted substances
+
+The presence of a substance for which an exemption is provided under paragraphs 1 to 13 is not to be taken into account when calculating the quantity of a hazardous substance present on, over or under land for any purpose of the principal Act or these Regulations.
+
+### 15. Presence of small quantities of substances
+
+The presence of a quantity of a hazardous substance is not to be taken into account when calculating the quantity of a hazardous substance present on, over or under land for any purpose of the principal Act or these Regulations if it is present—
+
+- (a) in a location where it cannot act as an initiator of a major accident elsewhere on the relevant site; and
+- (b) in a quantity which is equal to or less than 2% of the relevant controlled quantity for that substance.
+
+### 16. Minor changes to types and quantities of substances
+
+Where the conditions in paragraph 17 are met, hazardous substances consent is not required for a relevant minor change.
+
+**17.** The conditions are that—
+
+- (a) before the relevant minor change occurs the planning authority receives from, in relation to a nuclear site, the Office for Nuclear Regulation and the Scottish Environment Protection Agency and, in any other case, the Health and Safety Executive and the Scottish Environment Protection Agency, notice in writing (a copy of which has been sent to the person in control of the land to which the hazardous substances consent in question relates) with—
+  - (i) details of the relevant minor change, including details of how hazardous substances are to be kept and used in consequence of that change;
+  - (ii) confirmation that the relevant minor change will not result in a safety hazard change; and
+  - (iii) confirmation that the relevant minor change will not result in a lower-tier establishment becoming an upper-tier establishment or vice versa; and
+- (b) any hazardous substance that is held without hazardous substances consent in reliance on this exemption is kept and used in accordance with the details referred to in sub-paragraph (a)(i).
+
+### 18. Interpretation
+
+In this Schedule—
+
+- “**establishment period**” means the period of 12 months ending on 31st May 2015;
+- “**relevant minor change**” means a change to the quantity or type of hazardous substances present in, on or under land in relation to which there is a hazardous substances consent, where hazardous substances consent would be required for that change but for paragraph 16;
+- “**safety hazard change**” means a change to an area notified to a planning authority by the Health and Safety Executive or the Office for Nuclear Regulation for the purposes of paragraphs 3 or 3A of Schedule 5 to the 2013 Regulations where that change results in—
+  - (a) that area encompassing an area which it did not previously encompass; or
+  - (b) where the notification of that area included the identification of zones within that area corresponding to levels of risk, the expansion of any such zone.
+
+**19.** Expressions appearing in this Schedule and in the Directive have the same meaning for the purposes of this Schedule as they have for the purposes of the Directive.
+
+## SCHEDULE 3 — Notice to owner by applicant
+
+Regulation 5(1)
+
+> [image: see source](https://www.legislation.gov.uk/ssi/2015/181/images/ssi_20150181_en_sld_001)
+
+## SCHEDULE 4 — Notice for publication in newspaper
+
+Regulation 10
+
+> [image: see source](https://www.legislation.gov.uk/ssi/2015/181/images/ssi_20150181_en_sld_002)
+
+## SCHEDULE 5 — Notice to be attached to decision notice given under regulation 18
+
+Regulation 18(5)(a)
+
+> [image: see source](https://www.legislation.gov.uk/ssi/2015/181/images/ssi_20150181_en_sld_003)
+
+## SCHEDULE 6 — Notice to be attached to notice of decision on an application for approval, consent or agreement required by a condition imposed on a grant of hazardous substances consent
+
+Regulation 19(3)(a)
+
+> [image: see source](https://www.legislation.gov.uk/ssi/2015/181/images/ssi_20150181_en_sld_004)
+
+## SCHEDULE 7 — Hearing Session Rules
+
+Regulation 2(1)
+
+### 1. Notice of hearing session and specified matters
+
+(1) Where the appointed person has determined that a hearing session should be held the appointed person is to give written notice to that effect to—
+
+- (a) the appellant;
+- (b) the planning authority;
+- (c) any interested party who made representations in relation to specified matters; and
+- (d) any person who the appointed person wishes to make further representations or to provide further information on specified matters at the hearing session.
+
+(2) The notice given under paragraph (1) is to specify the matters to be considered at the hearing session.
+
+(3) Only specified matters are to be considered at the hearing session.
+
+(4) A person given notice under paragraph (1) and who intends to appear at the hearing session must within 14 days of the date of such notice inform the appointed person in writing of that intention.
+
+### 2. Appearances at hearing session
+
+The persons entitled to appear at a hearing session are—
+
+- (a) the appellant;
+- (b) the planning authority; and
+
+any other person who, in response to a procedure notice, has informed the appointed person of their intention to appear at the hearing session in accordance with rule 1(4).
+
+### 3. Date and notification of hearing session
+
+(1) The date, time and place at which the hearing session is to be held is to be determined (and may subsequently be varied) by the appointed person.
+
+(2) The appointed person is to give to those persons entitled to appear at the hearing session such notice of the date, time and place fixed for the holding of a hearing session (and any subsequent variation thereof) as may appear to the appointed person to be reasonable in the circumstances.
+
+### 4. Service of hearing statements and documents
+
+(1) Where required to do so by notice given by the appointed person, a person entitled to appear at the hearing session must, by such date as is specified in the notice, send to—
+
+- (a) the appointed person—
+  - (i) a hearing statement; and
+  - (ii) where that person intends to refer to or rely on any documents when presenting their case a copy of every document (or the relevant part of a document) on the list of such documents comprised in that hearing statement; and
+- (b) the appellant and the planning authority and to such other persons entitled to appear at the hearing session as the appointed person may specify in such notice—
+  - (i) a hearing statement; and
+  - (ii) where that person intends to refer to or rely on any documents when presenting their case a copy of every document (or the relevant part of a document) on the list comprised in that hearing statement which is not already available for inspection under regulation 27 (publication of appeal documents), 35(2) (further copies of documents etc.) or 44(4) (intimation of appeal to planning authority and planning authority's response) or paragraph (2) of this rule.
+
+(2) The planning authority are, until such time as the appeal is determined, to afford to any person who so requests a reasonable opportunity to inspect any hearing statement or other document (or any part thereof) which, or a copy of which, has been sent to them in accordance with this rule.
+
+(3) Any person who has served a hearing statement in accordance with this rule must—
+
+- (a) when required by notice in writing from the appointed person provide such further information about the matters contained in the statement as the appointed person may specify; and
+- (b) at the same time send a copy of such further information to any other person on whom the hearing statement has been served.
+
+(4) Different dates and different persons may be specified for the purposes of paragraph (1).
+
+(5) In this rule, “**hearing statement**” means, and is comprised of—
+
+- (a) a written statement which fully sets out the case relating to the specified matters which a person proposes to put forward to a hearing session;
+- (b) a list of documents (if any) which the person putting forward such case intends to refer to or rely on; and
+- (c) a list of any other persons who are to speak at the hearing session in respect of such case, any matters which such persons are particularly to address and any relevant qualifications of such persons to do so.
+
+### 5. Procedure at hearing
+
+(1) Except as otherwise provided in these Hearing Session Rules, the procedure at a hearing session is to be as the appointed person determines.
+
+(2) The appointed person is, having considered any submission by the persons entitled to appear at the hearing session, to state at the commencement of the hearing session the procedure the appointed person proposes to adopt.
+
+(3) Any person entitled to appear may do so on that person's own behalf or be represented by another person.
+
+(4) Where there are 2 or more persons having a similar interest in the issues being considered at the hearing session, the appointed person may allow one or more persons to appear on behalf of some or all of any persons so interested.
+
+(5) A hearing is to take the form of a discussion led by the appointed person and cross‑examination is not permitted.
+
+(6) The appointed person may proceed with a hearing session in the absence of any person entitled to appear at the hearing session.
+
+(7) The appointed person may from time to time adjourn the hearing session and, if the date, time and place of the adjourned hearing session are announced before the adjournment, no further notice is required otherwise rule 3 applies as it applies to the variation of the date, time or place at which a hearing session is to be held.
+
+## SCHEDULE 8 — Consequential amendments
+
+Regulation 67
+
+### 1. Amendment of the Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Rules 2007
+
+(1) The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Rules 2007 [^c22522311] is amended in accordance with this paragraph.
+
+(2) In rule 8(7) (documents accompanying application), for sub-paragraphs (a) and (b) substitute—
+
+> - (a) an application for hazardous substances consent under regulation 6(1), 7(1) or 8(1), as the case may, of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015; and
+> - (b) the information and documentation specified in regulations 6(3)(a) and (b), 7(3)(a) and (b) (if required) or 8(3)(a) and (b), as the case may be, of those Regulations.
+
+.
+
+(3) In Schedule 3 (those to be served with a copy of the application and documents)—
+
+- (a) in entry 22, for the text in in column 2 substitute—
+
+  > |  |
+  > | --- |
+  > | **22.** the relevant planning authority; |
+  > | the Scottish Environment Protection Agency; |
+  > | where the operation is to take place on a nuclear site (within the meaning of section 112(1) of the Energy Act 2013 [^c22522321]) (“a nuclear site”), the Office for Nuclear Regulation and, in any other case, the Health and Safety Executive; |
+  > | where the operation is to take place on land in the area of the Cairngorms National Park Authority, that Authority; |
+  > | the Scottish Fire and Rescue Service. |
+
+  ;
+- (b) after entry 22 insert—
+
+  <table>
+  <tbody>
+  <tr><td rowspan="3"><strong>22A.</strong> A relevant project as defined in regulation 23(5) of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015.</td><td><strong>22A.</strong> the Scottish Environment Protection Agency;</td></tr>
+  <tr><td>where the relevant project is to take place on a nuclear site, the Office for Nuclear Regulation and, in any other case, the Health and Safety Executive;</td></tr>
+  <tr><td>Scottish Natural Heritage.</td></tr>
+  </tbody>
+  </table>
+
+(4) In Schedule 5 (proposals for orders by virtue of section 6), in paragraph 16(l), for “Form 1” to the end substitute—
+
+> an application referred to in regulation 6, 7 or 8 of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015, as the case may require, duly completed by or on behalf of the Scottish Ministers, together with a copy of the documents referred to in regulation 6(3)(a) and (b), 7(3)(a) and (b) (if required) or 8(3)(a) and (b) of those Regulations, as the case may require.
+
+.
+
+### 2. Amendment of the Town and Country Planning (Development Planning) (Scotland) Regulations 2008[^key-a94dc226029fffb3fbd2779875515185]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Amendment of the 2013 Regulations
+
+(1) The 2013 Regulations [^c22522371] are amended in accordance with this paragraph.
+
+(2) In regulation 20—
+
+- (a) in paragraph (1), for “(5)” substitute “ (6) and regulation 20A ”;
+- (b) after paragraph (2)(d) insert—
+
+  > - (e) the application is made under regulation 9, 10 or 11 and relates to development falling within paragraphs 3, 3A or 4 of Schedule 5.
+
+  ;
+- (c) after paragraph (5) insert—
+
+  > (6) Where any of paragraph (2)(a) to (d) apply the planning authority need not publish a notice if they must publish a notice by virtue of paragraph (2)(e).
+  >
+  > (7) Where paragraph (2)(e) applies paragraph (4) does not apply.
+
+  .
+
+(3) After regulation 20 insert—
+
+> **20A.** (1) A notice published by virtue of regulation 20(1) and (2)(e) must be published with the following modifications—
+>
+> - (a) for “Written comments may be made to” substitute “ Written comments or questions may be submitted to ”;
+> - (b) after “\[Note 7\]” insert—
+>
+>   > \[Note 8\]
+>   >
+>   > An application may be granted (either unconditionally or subject to conditions) or refused.
+>
+>   ;
+> - (c) after Note 7 insert—
+>
+>   > Note 8 – If the proposal is a project, or part of a project, that is subject to a national or transboundary environmental impact assessment or to consultations between Member States in accordance with Article 14(3) of Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) (OJ L 197, 24.7.2012, p.1), state that fact.
+
+.
+
+(4) For paragraph 4 of Schedule 5 (consultation by the planning authority) substitute—
+
+> **4.** Scottish Natural Heritage, the Health and Safety Executive and SEPA where the development—
+>
+> - (a) involves the siting of new establishments;
+> - (b) consists of modifications to establishments covered by Article 11 of Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) (OJ L 197, 24.7.2012, p.1); or
+> - (c) includes transport routes, locations of public use and residential areas in the vicinity of an establishment, where the siting or development may be the source of or increase the risk or consequences of a major accident, and, in relation to development falling within paragraph (c), any person who is, according to the register held by the planning authority under regulation 41 of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015, the person who is in control of the land on which the establishment is located.
+
+.
+
+## SCHEDULE 9 — Revocations
+
+Regulation 68
+
+| *Instrument* | *Citation* | *Extent of revocation* |
+| --- | --- | --- |
+| The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 | S.I. 2014/469 | Schedule 3, paragraphs 183 to 186 |
+| The Town and Country Planning (Hazardous Substances) (Scotland) Amendment Regulations 2014 | S.S.I. 2014/51 | The whole instrument |
+| The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 | S.S.I. 2013/119 | Schedule 2, paragraph 11 |
+| The Town and Country Planning (Hazardous Substances) (Scotland) Amendment Regulations 2010 | S.S.I. 2010/171 | The whole instrument |
+| The Planning (Control of Major-Accident Hazards) (Scotland) Regulations 2009 | S.S.I. 2009/378 | Regulations 1(2) and 3 to 5 |
+| The Town and Country Planning (Application of Subordinate Legislation to the Crown) (Scotland) Order 2006 | S.S.I. 2006/270 | Article 14 |
+| The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) (No. 2) Order 2005 | S.S.I. 2005/344 | Schedule 1, paragraph 14 |
+| The Cairngorm National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 | S.S.I. 2003/1 | Article 7(13) and (14) |
+| Planning (Control of Major-Accident Hazards) (Scotland) Regulations 2000 | S.S.I. 2000/179 | Regulation 4, Schedule 1 and forms 1, 2 and 12 in Schedule 2 |
+| The Gas Act 1995 (Consequential Modifications of Subordinate Legislation) Order 1996 | S.I. 196/252 | The entry for the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 1993 |
+| The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 1993 | S.I. 1993/323 | The whole instrument |
+
+*(This note is not part of the Regulations)*
+
+These Regulations consolidate the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 1993 and subsequent amendments to those Regulations and make further amendments. They also implement the land-use planning aspects of Directive 2012/18/EU on the control of major-accident hazards involving dangerous substances (“Seveso III”).
+
+Part 2 and Schedule 1 sets out the substances which are hazardous substances for the purpose of the Planning (Hazardous Substances) (Scotland) Act 1997 (“**the principal Act**”), the controlled quantities of those substances and exemptions from the need for hazardous substances consent.
+
+Part 3 sets out the processes for applying for, and determining, applications for hazardous substances consent and related applications.
+
+Part 4 implements provisions in Seveso III regarding preparation of policy, plans and programmes and land-use planning around establishments to which that Directive applies.
+
+Part 5 contains provisions on making, and determining, appeals and on the processing of applications referred to the Scottish Ministers under section 18 of the principal Act.
+
+Part 6 provides for the keeping of a register of hazardous substances consents.
+
+Part 7 deals with hazardous substances contravention notices and appeals against such notices.
+
+Part 8 contains miscellaneous provision, including provision on fees and applications by planning authorities. It also contains savings and transitional provisions.
+
+A Business and Regulatory Impact Assessment and transposition note have been prepared and placed in the Scottish Parliament Information Centre. They can be obtained free of charge from the Scottish Government Planning Directorate, Area 2H, Victoria Quay, Edinburgh, EH6 6QQ.
+
+## Annotations
+
+[^c22521841]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by paragraph 15(3) of Schedule 8 to the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“**the 2008 Act**”). Paragraph 1A of Schedule 2 was inserted by the section 28 of the 2006 Act and was amended by Part 1 of the Schedule to the 2008 Act. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^c22521851]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8) (“**the 1997 Act**”). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Section 252 is applied by section 29(3) of the Planning (Hazardous Substances) (Scotland) Act 1997 (“**the principal Act**”). Section 267(1) was amended by section 19(5)(a) of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) and is applied by section 36(1) of the principal Act.
+
+[^c22521861]: Marginal citation: [1997 c.10](https://www.legislation.gov.uk/ukpga/1997/10). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Under section 38(2) of the principal Act “**prescribed**” has the same meaning as in section 277 of the 1997 Act. Section 27 was amended by [S.S.I. 2006/269](https://www.legislation.gov.uk/ssi/2006/269).
+
+[^c22521871]: Marginal citation: OJ No L 353, 31.12.2008, p.1.
+
+[^c22521881]: Marginal citation: [S.I. 1993/323](https://www.legislation.gov.uk/uksi/1993/323) as amended by [S.I. 1994/2567](https://www.legislation.gov.uk/uksi/1994/2567), [S.I](https://www.legislation.gov.uk/uksi/1994/2567/section/I). 1996/252, [S.S.I. 2000/179](https://www.legislation.gov.uk/ssi/2000/179), [S.S.I. 2003/1](https://www.legislation.gov.uk/ssi/2003/1), [S.S.I. 2006/270](https://www.legislation.gov.uk/ssi/2006/270), [S.S.I. 2009/378](https://www.legislation.gov.uk/ssi/2009/378), [S.S.I. 2010/171](https://www.legislation.gov.uk/ssi/2010/171), [S.S.I. 2013/119](https://www.legislation.gov.uk/ssi/2013/119), [S.S.I. 2014/51](https://www.legislation.gov.uk/ssi/2014/51) and [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469).
+
+[^c22521891]: Marginal citation: [S.S.I. 2013/155](https://www.legislation.gov.uk/ssi/2013/155).
+
+[^key-5e9082df8e2393f07bd8ce6cbb741105]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/181/regulation/2/1) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/2/a/i) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e316007025f9487e0c3605f2d3fd4038]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/181/regulation/2/1) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/2/a/ii) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22521911]: Marginal citation: [S.S.I. 2015/182](https://www.legislation.gov.uk/ssi/2015/182)
+
+[^c22521921]: Marginal citation: [Section 9](https://www.legislation.gov.uk/ssi/2015/181/section/9) provides that hazardous substances consent deemed to be granted by a planning authority under section 38 of the Housing and Planning Act 1986 shall continue to have effect notwithstanding the repeal of that section and shall be deemed to be granted by the authority under said section 9, and the relevant claim is the claim submitted under said section 38. Section 10A was inserted by [S.S.I. 2000/179](https://www.legislation.gov.uk/ssi/2000/179).
+
+[^c22521931]: Marginal citation: [Section 10](https://www.legislation.gov.uk/ssi/2015/181/section/10) was amended by paragraph 62 of Schedule 2 to the [Planning Act 2008 (c.29)](https://www.legislation.gov.uk/ukpga/2008/29) and [S.S.I. 2007/569](https://www.legislation.gov.uk/ssi/2007/569).
+
+[^c22521941]: Marginal citation: The definition of “safety regulator” was inserted by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469).
+
+[^key-cd64e33f4b0eb07125590156e978c50e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2015/181/regulation/2/2) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/2/b) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22521951]: Marginal citation: [Section 2(1)](https://www.legislation.gov.uk/ssi/2015/181/section/2/1) of the Planning (Hazardous Substances) (Scotland) Act 1997 provides that the presence of a hazardous substance on, over or under land requires the consent of the planning authority.
+
+[^key-8a5eb9e21f9fe95fdbbc9cc7a645ecd6]: Textual amendment: Words in [reg. 6(2)(e)](https://www.legislation.gov.uk/ssi/2015/181/regulation/6/2/e) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/3) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^key-ef0607ae6c7ca32c40eabc7031437a9e]: Textual amendment: Words in [reg. 9(3)(h)](https://www.legislation.gov.uk/ssi/2015/181/regulation/9/3/h) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/4) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22521961]: Marginal citation: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^c22521971]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was substituted by section 5 of the [Gas Act 1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45) and subsection (2) was amended by sections 3(2), 76(3) and 108 of, and paragraph 4 of Schedule 6 to, the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704).
+
+[^c22521981]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the Utilities Act 2000, subsection (1)(b) was substituted by section 136(1) of the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20) (“**the 2004 Act**”) and subsection (1)(c) was amended by section 197(9) of, and Part 1 of Schedule 23 to, the 2004 Act.
+
+[^c22521991]: Marginal citation: [1990 c.10](https://www.legislation.gov.uk/ukpga/1990/10). Section 39(1) was relevantly amended by paragraph 2(7) of Schedule 13 to the [Environmental Protection Act 1990 (c.43)](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^c22522001]: Marginal citation: [S.S.I. 2002/201](https://www.legislation.gov.uk/ssi/2002/201). The effect of Article 7 is that the functions exercisable by a planning authority under the Planning (Hazardous Substances) (Scotland) Act 1997, are, in relation to the Loch Lomond and The Trossachs National Park transferred to and exercisable by the Park Authority.
+
+[^key-d62104cc11d94519c308457c42060a21]: Textual amendment: Words in [reg. 14(4)(a)(iv)](https://www.legislation.gov.uk/ssi/2015/181/regulation/14/4/a/iv) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/5) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22522011]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^key-b6220fa1fdc783505668c55b1d464452]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/ssi/2015/181/regulation/21/1/b) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/6) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22522021]: Marginal citation: [Section 3A](https://www.legislation.gov.uk/ssi/2015/181/section/3A) was inserted by section 1 of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17).
+
+[^c22522031]: Marginal citation: Scottish Planning Policy is a statement of the policy of the Scottish Government on land use planning.
+
+[^c22522041]: Marginal citation: [2005 asp 15](https://www.legislation.gov.uk/asp/2005/15).
+
+[^key-12ece5c7f64769e06873d7b6f69e611e]: Textual amendment: Words in [reg. 22(4)](https://www.legislation.gov.uk/ssi/2015/181/regulation/22/4) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(7)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/7) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6abb2ecaca9d628b76b75ed9815d71e5]: Textual amendment: Word in [reg. 22(4)](https://www.legislation.gov.uk/ssi/2015/181/regulation/22/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 27(2)(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/27/2/a)
+
+[^key-d80e2d7befc37c743b9e180f9c3072de]: Textual amendment: Word in [reg. 22(4)](https://www.legislation.gov.uk/ssi/2015/181/regulation/22/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 27(2)(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/27/2/b)
+
+[^key-0d096dea809a16ebbd5c2f977f6f4488]: Textual amendment: Words in [reg. 23(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/181/regulation/23/2/a/ii) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(8)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/8) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22522051]: Marginal citation: [Paragraph 3](https://www.legislation.gov.uk/ssi/2015/181/paragraph/3) was amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469) and paragraph 3A was inserted by that instrument.
+
+[^c22522061]: Marginal citation: [Section 242A](https://www.legislation.gov.uk/ssi/2015/181/section/242A) was inserted by section 92(1) of the [Planning and Compulsory Purchase Act 2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5) and amended by section 54(13) of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17).
+
+[^c22522071]: Marginal citation: [Section 43A](https://www.legislation.gov.uk/ssi/2015/181/section/43A) was inserted by section 17 of the Planning etc. (Scotland) Act 2006 and amended by [S.S.I. 2013/24](https://www.legislation.gov.uk/ssi/2013/24) and [S.S.I. 2013/26](https://www.legislation.gov.uk/ssi/2013/26).
+
+[^c22522081]: Marginal citation: [Section 30(2)(b)](https://www.legislation.gov.uk/ssi/2015/181/section/30/2/b) was amended by section 54(3)(b) of the Planning etc. (Scotland) Act 2006 (“**the 2006 Act**”).
+
+[^c22522091]: Marginal citation: [1980 c.65](https://www.legislation.gov.uk/ukpga/1980/65).
+
+[^c22522101]: Marginal citation: [Section 71](https://www.legislation.gov.uk/ssi/2015/181/section/71) was amended by [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243) and section 22(3) of the 2006 Act.
+
+[^c22522111]: Marginal citation: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9).
+
+[^key-ca38b392aea62256eb285b9635d0cc68]: Textual amendment: Sum in reg. 55(1)(a) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2026/49/regulation/6/2/a) (with [reg. 6(3)](https://www.legislation.gov.uk/ssi/2026/49/regulation/6/3))
+
+[^key-f53c5c15cf089f10eabd2f011477bedf]: Textual amendment: Sum in reg. 55(1)(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2026/49/regulation/6/2/b) (with [reg. 6(3)](https://www.legislation.gov.uk/ssi/2026/49/regulation/6/3))
+
+[^key-377b80164b1460f9a14e5f7a2099bd86]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/ssi/2015/181/regulation/55A) inserted (9.6.2025) by [The Town and Country Planning (Fees for Appeals) (Scotland) Regulations 2025 (S.S.I. 2025/124)](https://www.legislation.gov.uk/ssi/2025/124), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/124/regulation/1/1), [10(2)](https://www.legislation.gov.uk/ssi/2025/124/regulation/10/2) (with [reg. 10(3)](https://www.legislation.gov.uk/ssi/2025/124/regulation/10/3)) (as amended (8.6.2025) by [S.S.I. 2025/166](https://www.legislation.gov.uk/ssi/2025/166), [regs. 1](https://www.legislation.gov.uk/ssi/2025/166/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/166/regulation/2/3))
+
+[^key-604d6c28ea82c958b0dd7f3d448c35a1]: Textual amendment: Sum in reg. 55A(2)(a) substituted (1.4.2026) by [The Town and Country Planning (Fees for Appeals) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/47)](https://www.legislation.gov.uk/ssi/2026/47), [regs. 1](https://www.legislation.gov.uk/ssi/2026/47/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2026/47/regulation/6/2/a) (with [reg. 6(3)](https://www.legislation.gov.uk/ssi/2026/47/regulation/6/3))
+
+[^key-f2117ccf9226c3ee632bf7bb046eb8ce]: Textual amendment: Sum in reg. 55A(2)(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Appeals) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/47)](https://www.legislation.gov.uk/ssi/2026/47), [regs. 1](https://www.legislation.gov.uk/ssi/2026/47/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2026/47/regulation/6/2/b) (with [reg. 6(3)](https://www.legislation.gov.uk/ssi/2026/47/regulation/6/3))
+
+[^key-38bc77d6ee3249791d1d017f58bfb55d]: Textual amendment: Words in [reg. 57](https://www.legislation.gov.uk/ssi/2015/181/regulation/57) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(9)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/9) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22522121]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-08f68015876e328c531ecbf918689f5b]: Textual amendment: Words in [reg. 60(2)](https://www.legislation.gov.uk/ssi/2015/181/regulation/60/2) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(10)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/10) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22522131]: Marginal citation: [Section 9](https://www.legislation.gov.uk/ssi/2015/181/section/9) provides that hazardous substances consent deemed to be granted by a planning authority under section 38 of the Housing and Planning Act 1986 shall continue to have effect notwithstanding the repeal of that section and shall be deemed to be granted by the authority under said section 9, and the relevant claim is the claim submitted under said section 38. Section 10A was inserted by [S.S.I. 2000/179](https://www.legislation.gov.uk/ssi/2000/179).
+
+[^c22522141]: Marginal citation: [Section 30D](https://www.legislation.gov.uk/ssi/2015/181/section/30D) was added by [S.S.I. 2006/269](https://www.legislation.gov.uk/ssi/2006/269).
+
+[^key-87fcf6ad3d303f5a49ccf2a89a3efded]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2015/181/schedule/1) substituted (1.12.2022) by [The Town and Country Planning (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/286)](https://www.legislation.gov.uk/ssi/2022/286), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/286/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2022/286/regulation/3/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/286/regulation/4))
+
+[^key-dca842ebf7120c4c9d2b6ec4ecadaa00]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2015/181/schedule/1) substituted (1.12.2022) by [The Town and Country Planning (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/286)](https://www.legislation.gov.uk/ssi/2022/286), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/286/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2022/286/regulation/3/2/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/286/regulation/4))
+
+[^c22522151]: Marginal citation: More guidance on waiving of the test can be found in the A.14 method description, see Commission Regulation (EC) No 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration Evaluation, Authorisation and Restriction of Chemicals (REACH) (O.J. L 142, 31.5.2008, p.1)
+
+[^key-fe0fa4a5ddbd3cc70024858351f7401e]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2015/181/schedule/1/part/2) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [4(11)](https://www.legislation.gov.uk/ssi/2019/80/regulation/4/11) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22522171]: Marginal citation: 15.75% nitrogen content by weight as a result of ammonium nitrate corresponds to 45% ammonium nitrate.
+
+[^c22522181]: Marginal citation: 24.5% nitrogen content by weight as a result of ammonium nitrate corresponds to 70% ammonium nitrate.
+
+[^c22522191]: Marginal citation: O.J. L 304, 21.11.2003, p.1.
+
+[^c22522201]: Marginal citation: 28% nitrogen content by weight as a result of ammonium nitrate corresponds to 80% ammonium nitrate.
+
+[^c22522211]: Marginal citation: [1965 c.57](https://www.legislation.gov.uk/ukpga/1965/57). Section 1 was substituted by paragraph 17 of Schedule 12 to the [Energy Act 2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32).
+
+[^c22522221]: Marginal citation: OJ No L 304, 14.11.2008, p.75.
+
+[^c22522231]: Marginal citation: [1985 c.22](https://www.legislation.gov.uk/ukpga/1985/22).
+
+[^key-6630ef1c1dfeb455004c8b86343a9de0]: Textual amendment: [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/ssi/2015/181/schedule/2/paragraph/9/b) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 14(a)](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/14/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
+
+[^c22522251]: Marginal citation: [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638).
+
+[^key-285850d8660c468a2a9d524eec36477a]: Textual amendment: Words in [sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2015/181/schedule/2/paragraph/11) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 14(b)](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/14/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
+
+[^c22522261]: Marginal citation: The definition of “explosives licence” was amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469).
+
+[^c22522311]: Marginal citation: [S.S.I. 2007/570](https://www.legislation.gov.uk/ssi/2007/570).
+
+[^c22522321]: Marginal citation: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
+
+[^key-a94dc226029fffb3fbd2779875515185]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/2) revoked (19.5.2023) by [The Town and Country Planning (Development Planning) (Scotland) Regulations 2023 (S.S.I. 2023/101)](https://www.legislation.gov.uk/ssi/2023/101), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2023/101/schedule/4)
+
+[^c22522371]: Marginal citation: [S.S.I. 2013/155](https://www.legislation.gov.uk/ssi/2013/155).

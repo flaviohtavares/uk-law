@@ -1,0 +1,267 @@
+---
+title: The Pupils' Educational Records (Scotland) Regulations 2003
+id: ssi/2003/581
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-11-26'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2003/581
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2003/581/pdfs/ssi_20030581_en.pdf
+- http://www.legislation.gov.uk/ssi/2003/581/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Pupils' Educational Records (Scotland) Regulations 2003
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2003 No. 581
+
+EDUCATION
+
+The Pupils' Educational Records (Scotland) Regulations 2003
+
+Made
+
+26th November 2003
+
+Laid before the Scottish Parliament
+
+27th November 2003
+
+Coming into force
+
+5th January 2004
+
+The Scottish Ministers in exercise of the powers conferred by section 4(1) and (2) of the Education (Disability Strategies and Pupils' Educational Records) (Scotland) Act 2002[^f00001] and of all other powers enabling them in that behalf, after consultation with such persons as appeared to them to be appropriate, in accordance with section 5(3) of the said Act, hereby make the following Regulations:
+
+## 1. Citation and commencement[^key-307600cdd78a483deb3543392247d13a]
+
+These Regulations may be cited as the Pupils' Educational Records (Scotland) Regulations 2003 and shall come into force on 5th January 2004.
+
+## 2. Interpretation[^key-ab11144a44acfb7c3b8125ae38a182e6]
+
+In these Regulations–
+
+- “the 1980 Act” means the Education (Scotland) Act 1980[^f00002] ;
+- [^key-35228b29b0041153c64e04a87d0dd4c2]...
+- “co-ordinated support plan” has the meaning as in the Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4);[^M_F_81e2454e-041c-44af-8081-9a5ff0c2f88f]
+- “education authority” has the same meaning as in section 135 of the 1980 Act;
+- [^key-985abeea8153f9f9dec62503d8106810]...
+- “parent” has the same meaning as in section 135 of the 1980 Act;
+- “pupil” means a person who receives, or has received, school education provided by the responsible body;
+- “Record of Needs” has the same meaning as in section 60 of the 1980 Act;
+- “school” has the same meaning as in section 135 of the 1980 Act;
+- “school day” means any day on which there is a school session; and
+- “school education” has the same meaning as in section 1(5) of the 1980 Act;
+- “[^key-8b12acaf6e5d5ceaa9f59cf1378e55bd]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act).
+
+## 3. Meaning of educational record[^key-c182686b0b067f264da1161dc0f73c11]
+
+(1) In these Regulations “educational records” means any records of information, excluding information contained in a Record of Needs or a co ordinated support plan[^M_F_c5063ac8-a4fa-4e30-ee94-30509f976e8d], which–
+
+- (a) are processed by or on behalf of the responsible body;
+- (b) relate to any person who is or has been a pupil at the school;
+- (c) relate to the school education of that person; and
+- (d) originated from or was supplied by any of the persons specified in paragraph (2) below,
+
+other than information which is kept and intended to be kept by a teacher or by an employee of the responsible body solely for their own use.
+
+(2) The persons referred to in paragraph (l)(d) are–
+
+- (a) a teacher;
+- (b) any other employee of the responsible body;
+- (c) the pupil to whom the information relates; or
+- (d) a parent of that pupil.
+
+## 4. Preservation of education records[^key-74bcc8666fb79601b9adebb8d05e9df1]
+
+The educational records relating to a pupil shall be preserved by the responsible body for a period of five years following the pupil having ceased receiving school education.
+
+## 5. Requirement to disclose pupils' educational records[^key-3291a670f55f123e35e2643de8fb4517]
+
+(1) Subject to paragraphs (3) to (7) below and to regulations 6 and 7, the responsible body, upon receiving a request by a parent for disclosure of their child’s educational records, shall within 15 school days, make them available for inspection, free of charge, to that parent.
+
+(2) Subject to paragraphs (3) to (7) below and to regulations 6 and 7, the responsible body, upon receiving a request by a parent for a copy of their child’s educational records, or of information forming part of those records as may be specified in the request, shall provide such a copy within 15 school days to that parent on payment of any fee that may be required under regulation 9.
+
+(3) The responsible body is not obliged to comply with the requirements of paragraphs (1) and (2) above unless they are supplied, on request, with such information as they may reasonably require in order to satisfy themselves as to the identity of the person making the request and to locate the information which that person seeks.
+
+(4) The requirements of paragraphs (1) and (2) above apply to information held at the date of receipt of the request, but if any correction, addition or erasure is made between that time and the time when the information is supplied, the parent shall also be supplied with the information as so amended.
+
+(5) Where the responsible body has previously complied with a request made by a parent under paragraph (1) or (2) above, that body is not obliged to comply with a subsequent identical or similar request by that parent unless, in the opinion of the responsible body, there has been a change in circumstances or a reasonable interval has elapsed since compliance with the previous request.
+
+(6) In determining for the purposes of paragraph (5) whether requests made under paragraph (1) or (2) are made at reasonable intervals, regard shall be had to the nature of the information requested and the frequency with which the information is altered.
+
+(7) Where a pupil transfers to another school, the responsible body shall transmit a copy of the pupil’s educational records to the body responsible for the management of that school, free of charge, if that body so requests, and within 15 school days of receiving the request.
+
+## 6. Circumstances where information should not be disclosed[^key-9697fe79cf42f881b57723c1472ffc46]
+
+When complying with a request for disclosure of information in a pupil’s educational record under regulation 5(1) or 5(2) above, the responsible body shall not disclose any information to the extent that any of the following conditions are satisfied[^key-5a496808b3c667f87983bda9aa5f7b60]–
+
+- (aa)[^key-c55adde24c610d5ecd600dc9fc74ca47] the pupil to whom the information relates would have no right of access to the information under the UK GDPR[^key-01c15a3a447e2bf2c235c3d9bcc7cc05];
+- (ab) the information is personal data described in Article 9(1) or 10 of the UK GDPR[^key-0504c159832b0bfdd749b3f92e044817] (special categories of personal data and personal data relating to criminal convictions and offences);
+- (d) the disclosure of the information[^key-ff17c78dfb6e73df38fa963f13874cd6] would in the opinion of the responsible body, be likely to cause significant distress or harm to the pupil or any other person; or
+- (e) the information[^key-c90bbe478a9435567aff07707621906d] consists of a reference given or to be given in confidence by the responsible body for the purposes of the education, training or employment, or prospective education, training or employment, of the pupil.
+
+## 7. Requesting information[^key-2c35b2db3342c78b847002057d4ba797]
+
+(1) Any reference in these Regulations to a request by a parent is a reference to a request which–
+
+- (a) is in writing or in another form which, by reason of its having some permanency, is capable of being used for subsequent reference (as, for example, a recording made on audio or video tape);
+- (b) states the name of the applicant and an address for correspondence; and
+- (c) describes the information requested.
+
+(2) For the purposes of sub-paragraph (a) of paragraph (1) (and without prejudice to the generality of that sub paragraph), a request is to be treated as made in writing where the text of the request is–
+
+- (a) transmitted by electronic means;
+- (b) received in legible form; and
+- (c) capable of being used for subsequent reference.
+
+## 8. Translation[^key-d5a465ded827123dd8fe916bfdfd7f7a]
+
+Where a parent makes a request under regulation 5(2) and requests that the information is supplied in an alternative language or form, it shall be so supplied unless, in the opinion of the responsible body, the request for supply in that alternative language or form is not reasonable.
+
+## 9. Fees[^key-2174aa25fe6236a265bf861ee922fd56]
+
+(1A)[^key-8b16c2fac52601bc3876640cef9459a9] In complying with a request made under regulation 5(2), the responsible body may only charge a fee where Article 12(5) or Article 15(3) of the UK GDPR[^key-26dcc62461cd6cca147265a32bd303df] would permit the charging of a fee if the request had been made by the pupil to whom the information relates under Article 15 of the UK GDPR.
+
+(1B) Where paragraph (1A) permits the charging of a fee, the responsible body may not charge a fee that—
+
+- (a) exceeds the cost of supply, or
+- (b) exceeds any limit in regulations made under section 12 of the Data Protection Act 2018 that would apply if the request had been made by the pupil to whom the information relates under Article 15 of the UK GDPR[^key-eefd08c67e854c08a9200bb0b93da90a].
+
+(2) Where a fee is charged for supplying a copy of the requested information in its original format, no greater charge shall be made for supplying a copy of that information in an alternative language or form under regulation 8.
+
+## 10. Rectification and erasure of inaccurate information[^key-bbc3c62d8b9f975e73e1c28193ba3674]
+
+(1) This regulation applies where a parent makes a request to the responsible body to rectify or erase any of the information in educational records, to which that parent would be entitled to make a request for disclosure under regulation 5(1) or 5(2), which that parent regards as inaccurate.
+
+(2) A responsible body shall not be required to take any action in response to a request under paragraph (1) unless the parent making that request–
+
+- (a) supplies sufficient information for the responsible body to locate the information regarded as inaccurate;
+- (b) specifies in what respect the information is inaccurate; and
+- (c) specifies in what manner the parent considers the responsible body should rectify the information or what part of the information should be erased.
+
+(3) If the responsible body is satisfied that the information to which the request under paragraph (1) relates is inaccurate, they shall–
+
+- (a) rectify or erase the inaccurate information;
+- (b) rectify or erase any expression of opinion which appears to the responsible body to be based on the inaccurate information; and
+- (c) provide to the parent who made the request a copy of the rectified information.
+
+(4) If the responsible body is not satisfied that the information to which the request under paragraph (1) relates is inaccurate, they shall notify the parent who made the request with reasons for their decision.
+
+## 11. Amendment of the Schools General (Scotland) Regulations 1975[^key-d0cd053ce96e0892de90d2fbfecfa5b4]
+
+(1) The Schools General (Scotland) Regulations 1975[^f00004] are amended as follows.
+
+(2) Regulation 10(2) is repealed.
+
+(3) In Regulation 10(3) for “School Pupil Records (Scotland) Regulations 1990” there shall be substituted “Pupils' Educational Records (Scotland) Regulations 2003[^f00005]”.
+
+## 12. Revocation[^key-5c60ff0a7b5e71b93550f09afdf38891]
+
+The School Pupil Records (Scotland) Regulations 1990[^f00006] are hereby repealed.
+
+PETER PEACOCK
+
+Member of the Scottish Executive
+
+Victoria Quay, Edinburgh
+
+26th November 2003
+
+(This note is not part of the Regulations)
+
+These Regulations require bodies responsible for schools to give a parent access to information in records held by them relating to school pupils, past and present. They also provide for certain exemptions from these requirements.
+
+Regulation 3 defines the information to which the Regulations apply.
+
+Regulation 4 imposes an obligation on the responsible body to preserve the records for a period after the pupil has left school.
+
+Regulation 5 imposes an obligation to give access to information where a parent makes a request and supplies any necessary information to identify himself or herself and to locate the information sought. It also lays down the time limits within which the responsible body must comply with a request.
+
+Regulation 6 provides for circumstances where information is exempt from disclosure. Regulation 7 provides for the form in which a request is to be made.
+
+Regulation 8 makes provision for information to be provided in another language or form.
+
+Regulation 9 permits a responsible body to impose a fee for supplying copies of information.
+
+Regulation 10 provides for requests to be made where a parent considers that information is inaccurate, and what the responsible body must do on receipt of a such a request.
+
+Regulation 11 makes consequential amendments to the Schools General (Scotland) Regulations 1975 (S.I. [1975/1135](https://www.legislation.gov.uk/uksi/1975/1135)).
+
+Regulation 12 revokes the School Pupil Records (Scotland) Regulations 1990 (S.I. [1990/1551](https://www.legislation.gov.uk/uksi/1990/1551)).
+
+## Annotations
+
+[^f00001]: Footnote: [2002 asp 12](https://www.legislation.gov.uk/asp/2002/12).
+
+[^key-307600cdd78a483deb3543392247d13a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^key-ab11144a44acfb7c3b8125ae38a182e6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2003/581/regulation/2) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^f00002]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-35228b29b0041153c64e04a87d0dd4c2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2003/581/regulation/2) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 298(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/298/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^M_F_81e2454e-041c-44af-8081-9a5ff0c2f88f]: Textual amendment: Words in reg. 2 inserted (14.11.2005) by [The Education (Additional Support for Learning) (Scotland) Act 2004 (Consequential Modifications of Subordinate Legislation) Order 2005 (S.S.I. 2005/517)](https://www.legislation.gov.uk/ssi/2005/517), [art. 1](https://www.legislation.gov.uk/ssi/2005/517/article/1), [Sch. para. 10(a)](https://www.legislation.gov.uk/ssi/2005/517/schedule/paragraph/10/a)
+
+[^key-985abeea8153f9f9dec62503d8106810]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2003/581/regulation/2) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 49(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/49/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8b12acaf6e5d5ceaa9f59cf1378e55bd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2003/581/regulation/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 49(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/49/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c182686b0b067f264da1161dc0f73c11]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2003/581/regulation/3) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^M_F_c5063ac8-a4fa-4e30-ee94-30509f976e8d]: Textual amendment: Words in reg. 3(1) added (14.11.2005) by [The Education (Additional Support for Learning) (Scotland) Act 2004 (Consequential Modifications of Subordinate Legislation) Order 2005 (S.S.I. 2005/517)](https://www.legislation.gov.uk/ssi/2005/517), [art. 1](https://www.legislation.gov.uk/ssi/2005/517/article/1), [Sch. para. 10(b)](https://www.legislation.gov.uk/ssi/2005/517/schedule/paragraph/10/b)
+
+[^key-74bcc8666fb79601b9adebb8d05e9df1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2003/581/regulation/4) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^key-3291a670f55f123e35e2643de8fb4517]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2003/581/regulation/5) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^key-9697fe79cf42f881b57723c1472ffc46]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2003/581/regulation/6) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^key-5a496808b3c667f87983bda9aa5f7b60]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2003/581/regulation/6) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 299(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/299/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-c55adde24c610d5ecd600dc9fc74ca47]: Textual amendment: [Reg. 6(aa)(ab)](https://www.legislation.gov.uk/ssi/2003/581/regulation/6/aa/ab) substituted for reg. 6(a)-(c) (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 299(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/299/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-01c15a3a447e2bf2c235c3d9bcc7cc05]: Textual amendment: Words in [reg. 6(aa)](https://www.legislation.gov.uk/ssi/2003/581/regulation/6/aa) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 50](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/50) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0504c159832b0bfdd749b3f92e044817]: Textual amendment: Words in [reg. 6(ab)](https://www.legislation.gov.uk/ssi/2003/581/regulation/6/ab) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 50](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/50) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ff17c78dfb6e73df38fa963f13874cd6]: Textual amendment: Words in [reg. 6(d)](https://www.legislation.gov.uk/ssi/2003/581/regulation/6/d) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 299(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/299/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-c90bbe478a9435567aff07707621906d]: Textual amendment: Words in [reg. 6(e)](https://www.legislation.gov.uk/ssi/2003/581/regulation/6/e) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 299(5)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/299/5) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-2c35b2db3342c78b847002057d4ba797]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2003/581/regulation/7) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^key-d5a465ded827123dd8fe916bfdfd7f7a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2003/581/regulation/8) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^key-2174aa25fe6236a265bf861ee922fd56]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2003/581/regulation/9) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^key-8b16c2fac52601bc3876640cef9459a9]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/ssi/2003/581/regulation/9/1A)[(1B)](https://www.legislation.gov.uk/ssi/2003/581/regulation/9/1B) substituted for reg. 9(1) (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 300](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/300) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-26dcc62461cd6cca147265a32bd303df]: Textual amendment: Words in [reg. 9(1A)](https://www.legislation.gov.uk/ssi/2003/581/regulation/9/1A) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 51](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/51) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eefd08c67e854c08a9200bb0b93da90a]: Textual amendment: Words in [reg. 9(1B)](https://www.legislation.gov.uk/ssi/2003/581/regulation/9/1B) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 51](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/51) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bbc3c62d8b9f975e73e1c28193ba3674]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2003/581/regulation/10) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^key-d0cd053ce96e0892de90d2fbfecfa5b4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2003/581/regulation/11) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^f00004]: Footnote: S.I. [1975/1135](https://www.legislation.gov.uk/uksi/1975/1135), amended by S.I. [1982/56](https://www.legislation.gov.uk/uksi/1982/56) and [1735](https://www.legislation.gov.uk/uksi/1982/1735), S.I. [1987/290](https://www.legislation.gov.uk/uksi/1987/290), S.I. [1993/1604](https://www.legislation.gov.uk/uksi/1993/1604) and S.I. [1994/351](https://www.legislation.gov.uk/uksi/1994/351).
+
+[^f00005]: Footnote: [S.S.I. 2003/581](https://www.legislation.gov.uk/ssi/2003/581).
+
+[^key-5c60ff0a7b5e71b93550f09afdf38891]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2003/581/regulation/12) in force at 5.1.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/581/regulation/1)
+
+[^f00006]: Footnote: S.I. [1990/1551](https://www.legislation.gov.uk/uksi/1990/1551).

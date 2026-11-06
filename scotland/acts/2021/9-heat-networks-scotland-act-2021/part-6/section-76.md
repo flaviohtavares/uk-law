@@ -1,0 +1,44 @@
+---
+title: Heat Networks (Scotland) Act 2021, section 76
+act: Heat Networks (Scotland) Act 2021
+section: '76'
+status: not-yet-in-force
+text_date: '2026-01-27'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2021/9/section/76
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Heat Networks (Scotland) Act 2021, section 76
+
+> This provision is not yet in force.
+>
+> Extent: Scotland.
+
+## 76. Requirement to remove apparatus when notified
+
+*Extent: S*
+
+**Not yet in force.**
+
+(1) This section applies where—
+
+- (a) a person (the “right holder”) has a right to remove (or require the removal of) any heat network apparatus installed in the land by a licence holder, and
+- (b) the right holder seeks the removal of all or part of the heat network apparatus.
+
+(2) The right holder must give written notice to the licence holder who is operating (or who has most recently operated) the heat network of which the heat network apparatus forms part requiring the licence holder to remove such part of the heat network apparatus as may be specified in the notice.
+
+(3) The licence holder must comply with the notice given under subsection (2) by no later than the end of the period of 3 months beginning with the day on which the notice is given unless subsection (4) applies.
+
+(4) This subsection applies if, before the end of the period of 3 months mentioned in subsection (3), the licence holder—
+
+- (a) applies to the Scottish Ministers for the grant of a necessary wayleave, or
+- (b) by virtue of section 68(1), submits a compulsory purchase order in respect of the land to the Scottish Ministers for confirmation by them.
+
+(5) If subsection (4) applies and the Scottish Ministers—
+
+- (a) refuse the application for the grant of a necessary wayleave, or (as the case may be)
+- (b) decide not to confirm the compulsory purchase order,
+
+the licence holder must comply with the notice given under subsection (2) by no later than the end of the period of 3 months beginning with the day on which the licence holder receives notice of the Scottish Ministers' decision.

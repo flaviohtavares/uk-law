@@ -1,0 +1,27 @@
+---
+title: Abolition of Feudal Tenure etc. (Scotland) Act 2000, section 21
+act: Abolition of Feudal Tenure etc. (Scotland) Act 2000
+section: '21'
+status: revised-with-pending-changes
+text_date: '2025-06-16'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2000/5/section/21
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Abolition of Feudal Tenure etc. (Scotland) Act 2000, section 21
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2025-06-16. See https://www.legislation.gov.uk/changes/affected/asp/2000/5
+>
+> Extent: Scotland.
+
+## 21. Manner of dealing with application under section 20
+
+*Extent: S*
+
+(1) On receiving an application under section 20 of this Act the Lands Tribunal shall give such notice of that application, whether by way of advertisement or otherwise, as may be prescribed for the purposes of that section by the Scottish Ministers by rules under section 3 of the Lands Tribunal Act 1949 (c.42) to any person who has right to the feu which is subject to the real burden in question and, if the Lands Tribunal thinks fit, to any other person.
+
+(2) Any person who, whether or not he has received notice under subsection (1) above, has right to the feu which is subject to the real burden in question (or as the case may be has right to the servient tenement) or is affected by that real burden or by its proposed reallotment shall be entitled, within such time as may be so prescribed, to oppose or make representations in relation to the application; and the Lands Tribunal shall allow any such person, and may allow any other person who appears to it to be affected by that real burden or by its proposed reallotment, to be heard in relation to the application.
+
+(3) Without prejudice to subsections (1) and (2) above, the Scottish Ministers may, in rules under the said section 3, make special provision in relation to any matter pertaining to proceedings in applications under section 20 of this Act (or in any class of such applications).

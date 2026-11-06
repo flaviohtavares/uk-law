@@ -1,0 +1,55 @@
+---
+title: Children (Care, Care Experience and Services Planning) (Scotland) Act 2026, section 59
+act: Children (Care, Care Experience and Services Planning) (Scotland) Act 2026
+section: '59'
+status: not-yet-in-force
+text_date: '2026-09-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2026/16/section/59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children (Care, Care Experience and Services Planning) (Scotland) Act 2026, section 59
+
+> This provision is not yet in force.
+>
+> Extent: Scotland.
+
+## 59. Power to require that arrested children be taken to a place other than a police station, etc.[^key-d847d977dfd56a9fd234092107891a28]
+
+*Extent: S*
+
+**Not yet in force.**
+
+(1) The Scottish Ministers may by regulations modify Part 1 of the Criminal Justice (Scotland) Act 2016—
+
+- (a) so that where, following arrest, a child is to be taken to a place in accordance with section 4(1) of the Act, that place is not a police station,
+- (b) so that section 4(1) of the Act does not require a child to be taken anywhere if the child is arrested at a place that—
+  - (i) is not a police station, but
+  - (ii) is a place to which a child may be taken in accordance with section 4(1) of the Act by virtue of provision made under paragraph (a),
+- (c) for the purpose of having provisions of the Part—
+  - (i) apply in relation to a child who, in accordance with section 4(1) of the Act, has been or is to be taken to a place other than a police station as they would apply in relation to a person who has been or is to be taken to a police station in accordance with that section,
+  - (ii) apply in relation to a child who has been arrested at a place of the kind described by paragraph (b)(i) and (ii) as they would in relation to a person arrested at a police station,
+- (d) to require the recording and reporting of information connected to the operation of provision made under the other paragraphs of this subsection.
+
+(2) The power under subsection (1)(a) may be exercised only for the purpose of requiring children to be taken to places that the Scottish Ministers consider to be more suitable for children than police stations.
+
+(3) Provision made under subsection (1)(a) may identify the places to which a child is to be taken by reference to a document that is not an enactment only if the following conditions are met—
+
+- (a) the Scottish Ministers are under a duty to make the document publicly available,
+- (b) if the document does not exist on the day the provision is made, the Scottish Ministers are under a duty to consult the following persons before finalising the document’s content—
+  - (i) the Police Service of Scotland,
+  - (ii) local authorities,
+  - (iii) any other persons that the Scottish Ministers consider appropriate.
+
+(4) For the purposes of subsection (3), a new version of a document (for example, an updated version of a web page) is a different document from any prior version.
+
+(5) Without prejudice to the generality of section 68(1)—
+
+- (a) the powers conferred by subsection (1) include the power to make different provision for different areas,
+- (b) the power conferred by subsection (1)(a) need not be exercised so that there is no case in which a child is to be taken to a police station under section 4(1) of the Criminal Justice (Scotland) Act 2016.
+
+## Annotations
+
+[^key-d847d977dfd56a9fd234092107891a28]: Commencement: S. 59 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

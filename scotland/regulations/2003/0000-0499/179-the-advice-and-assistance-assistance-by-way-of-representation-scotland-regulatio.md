@@ -1,0 +1,687 @@
+---
+title: The Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 2003
+id: ssi/2003/179
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2003-03-07'
+text_date: '2026-06-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2003/179
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2003/179/pdfs/ssi_20030179_en.pdf
+- http://www.legislation.gov.uk/ssi/2003/179/data.pdf
+pending_changes: 4
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 2003
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/ssi/2003/179
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2003 No. 179
+
+LEGAL AID AND ADVICE
+
+The Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 2003
+
+Made
+
+7th March 2003
+
+Coming into force
+
+24th March 2003
+
+The Scottish Ministers, in exercise of the powers conferred by sections 9 and 37(1) of the Legal Aid (Scotland) Act 1986 [^c5119781], and of all other powers enabling them in that behalf, hereby make the following Regulations, a draft of which has, in accordance with section 37(2) of that Act, been laid before and approved by resolution of the Scottish Parliament:
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 2003 and shall come into force on 24th March 2003.
+
+(2) In these Regulations–
+
+- “**the Act**” means the Legal Aid (Scotland) Act 1986;
+- [^key-85d8dc191969438c9c7cdf5ebab78721]...
+- “**the 1995 Act**” means the Criminal Procedure (Scotland) Act 1995 [^c5119821];
+- “the[^key-6788ce9f196f1a4fca46d1013164b7b1] 2011 Act” means the Children’s Hearings (Scotland) Act 2011;
+- “the 2018 Act” means the Historical Sexual Offences (Pardons and Disregards) (Scotland) Act 2018[^key-224afcb9d67b06b0fc43d5a8ec07b3b8];
+- [^key-c9930ad63bcaba4495ad2883e336d531]...
+- “**the chairman of a tribunal**”, in relation to a Parole Board case, has the same meaning as in Rule 2(1) of the Parole Board (Scotland) Rules 2001[^key-86e80f3cb6bb2858abb4edeb927a6128];
+- “[^key-92d08c0ed5db77c4e2efdeb9efb767e2]**child**” means a person who is under the age of 18;
+- “children’s hearing” has the meaning given in section 5 of the[^key-9b16c7ca22b609f5e6ae3ef6b53d1b12] 2011 Act;
+- “compulsory supervision order” has the meaning given in section 83 of the 2011 Act;
+- “**disciplinary proceedings**”, in relation to a prisoner, means an inquiry before a governor held in pursuance of rules 97 and 98 of the Prisons and Young Offenders Institutions (Scotland) Rules 1994 [^c5119851] in respect of a breach of discipline which the prisoner is alleged to have committed;
+- “**employment tribunal**” means a tribunal established under section 1 of the Employment Tribunals Act 1996 [^c5119861];
+- “**governor**” means any of the following persons:–
+  - (a) the person who is appointed by the Scottish Ministers under section 3(1) of the Prisons (Scotland) Act 1989 [^c5119871] as the Governor-in-Charge of a prison;
+  - (b) the officer who is the Deputy Governor of a prison;
+  - (c) any officer who is appointed to manage a function or group of functions within a prison and is known as a Unit Manager and who has been authorised to adjudicate disciplinary proceedings; and
+  - (d) where there is no officer as mentioned in sub-paragraphs (a) to (c) above present for the time being in a prison, the most senior officer who is present in the prison at that time.
+- [^key-74c5862dcf509507f0d84a07d2529aaf]...
+- “Mental Health Tribunal for Scotland” means the tribunal established under Part 3 of the Mental Health (Care and Treatment) (Scotland) Act 2003;[^key-3424fb7d1d151d208aad2805201ed100]
+- “**officer**” means an officer of the prison appointed by the Scottish Ministers;
+- “**Parole Board case**” means a case of a prisoner to which Part IV of the Parole Board (Scotland) Rules 2001 applies;
+- “[^key-bb2f17ab93ebabf1033a9dc5947eacc4]**pre-hearing panel**” has the meaning given in section 79 of the 2011 Act;
+- [^key-259e28493865a3158929f2b2506baac9]...
+- “**prison**” has the same meaning as in section 43(1) of the Prisons (Scotland) Act 1989 [^c5119881] and also includes a young offenders institution;
+- “**prisoner**”–
+  - (a) in relation to disciplinary proceedings, has the same meaning as in section 43(1) of the Prisons (Scotland) Act 1989 and also includes a person serving a sentence of detention in a young offenders institution; and
+  - (b) in relation to a Parole Board case, has the same meaning as in Rule 2(1) of the Parole Board (Scotland) Rules 2001;
+- “recovery proceedings” means proceedings relating to an application for an order for recovery of documents, in connection with criminal proceedings, in which—[^key-46590739680145e78b117fb92eb5fc0f]
+  - (a) the documents sought include medical or other sensitive documents relating to a client;
+  - (b) the application has been intimated to the client; and
+  - (c) the client wishes to oppose recovery of the documents on the basis that the granting of the order would infringe their rights under Article 8 of the European Convention on Human Rights;
+- “relevant person” has the meaning given in section 200 of the[^key-aee2a0eed89ee149ceace36adf48e274] 2011 Act and includes a person deemed to be a relevant person by virtue of section 81(3), 160(4)(b) or 164(3)(a) of that Act;
+- “**tribunal**” in relation to a Parole Board case, means a tribunal formed under Rule 18 of the Parole Board (Scotland) Rules 2001, and includes a preliminary hearing before the chairman of a tribunal under Rule 19 of those Rules; and
+- “**young offenders institution**” has the same meaning as in section 19(1) of the Prisons (Scotland) Act 1989.
+
+## 2. Revocation
+
+The Regulations specified in the Schedule to these Regulations are hereby revoked.
+
+## 3. Application of Part II of the Act to assistance by way of representation: miscellaneous proceedings
+
+Part II of the Act shall apply to assistance by way of representation in relation to–
+
+- (a) summary criminal proceedings;
+- (b) petitions for the appointment of an executor to a deceased person under the Act of Sederunt (Confirmation of Executors) 1964 [^c5119891];
+- (c) proceedings under section 17 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 [^c5119901];
+- (d)[^key-e0fb7367f753a805e858eba295e963fe] proceedings before the Mental Health Tribunal for Scotland;
+- (e) petitions by a debtor for the sequestration of that debtor’s estate under section 5(2)(a) of the Bankruptcy (Scotland) Act 1985 [^c5119921];
+- (f) disciplinary proceedings before a governor in relation to a prisoner, where the prisoner has been permitted by the governor to be legally represented;
+- (g) proceedings in Parole Board cases;
+- (h) applications under section 42 of the Road Traffic Offenders Act 1988 [^c5119931] for the removal of a disqualification;
+- (i) proceedings under section 66(6) of the Criminal Justice and Public Order Act 1994 [^c5119941] for the return of sound equipment;
+- (j) civil proceedings arising from a failure by a person to–
+  - (i) pay a fine or other sum; or
+  - (ii) obey an order of the court;
+- (k) applications, by someone other than the accused, under section 31(6) of the Criminal Law (Consolidation) (Scotland) Act 1995 [^c5119951];
+- (l)[^key-15036e89232b41db5dde62449d58c77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m) proceedings before an employment tribunal;
+- (n) proceedings in connection with an application for a warrant of further detention, or for an extension of such a warrant, made to the sheriff under paragraph 29 or 36 of Schedule 8 to the Terrorism Act 2000 [^c5119961] , or under paragraph 37 or 44 of schedule 6 of the National Security Act 2023[^key-d69170147a89c3e3600bd9852caaee69];
+- (na)[^key-a2212ce6a3d8cc7b8501587347f25bb3] proceedings in connection with—
+  - (i) an application under section 11 of the Counter-Terrorism and Security Act 2015 (review of decisions relating to temporary exclusion orders); or
+  - (ii) an application under paragraph 8 of Schedule 1 to that Act (seizure of passports etc.; extension of 14-day period by judicial authority);
+- (o) proceedings before a hearing established under–
+  - (i) paragraph 12 or paragraph 59 of the schedule to the Convention Rights (Compliance) (Scotland) Act 2001 [^c5119971]; or
+  - (ii) section 10(2F) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 [^c5119981];
+- (p) proceedings under section 5 of the Protection from Abuse (Scotland) Act 2001 [^c5119991]; [^key-abf3d8605c1407d9a7f74b63e74a8950]...
+- (q)[^key-15036e89232b41db5dde62449d58c77b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (r)[^key-4784e2fdee17f429026c103d94c5d5f8] applications under section 57 or 58 of the Police, Public Order and Criminal Justice (Scotland) Act 2006 in relation to the variation or termination of a football banning order made under section 51 of that Act ; and[^key-b46183a97469ee1846a7dcff0ee283d6]
+- (s) any claim made to the First-tier Tribunal for Scotland[^key-47e54a505da5da53b299ba39481ed9c8] in accordance with Part 3 of Schedule 17 to the Equality Act 2010 (which provides for claims to be made to the First-tier Tribunal for Scotland[^key-b4598a46372c55650da4b0a797dc9741] that a responsible body of a school has contravened Chapter 1 of Part 6 of that Act because of a person’s disability) ;[^key-c791097351fcc819b728840c970cbd17] [^key-b06425f7e0eb3ef245735fca07004c4b]...
+- (t) applications under sections 2(2), 3(3)(b), 4(3)(b), 11(3) and 12(3) of the Double Jeopardy (Scotland) Act 2011 ;[^key-891504bcef21935619afaada2ed0fe21] [^key-eba58aa2546107d2d85300565a1b511c]...
+- (u) recovery proceedings ;[^key-b2f9f4b385b79fe7680b9cd01b94a989] [^key-369293101a0bbab5dba85339bb9e3086]...
+- (v)[^key-b2a30b1e486ff6abdbad1968466eff97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (w)[^key-a3997abfcb1b5b9024e0ac3c0dde9a9e] appeal proceedings under section 8 of the 2018 Act.
+
+## 3A. Application of Part II of the Act to assistance by way of representation: hearings or proceedings under the Children’s Hearings (Scotland) Act 2011 and proceedings under the Age of Criminal Responsibility (Scotland) Act 2019[^key-846091703f4854c710ce587152b71def]
+
+(1) Part II of the Act applies to assistance by way of representation in relation to—
+
+- (a) a child in respect of—
+  - (i) the circumstances set out in section 28C(1) and (2) of the Act;
+  - (ii) a children’s hearing under the 2011 Act other than in the circumstances set out in section 28C(1) and (2) of that Act;
+  - (iii) a pre-hearing panel[^key-83dbb9c3447a6f7388180f0f35a6e8b4] at which a determination under section 81 of the 2011 Act is to be made as regards an individual to whom section 79(2)(a)(i) of the 2011 Act refers;
+  - (iiia)[^key-5c8985b4b8a0e62c5ae55cc54a146472] a pre-hearing panel at which a determination under section 81A of the 2011 Act is to be made as regards an individual to whom section 79(5A)(a)(i) of the 2011 Act refers;
+  - (iiib)[^key-dfbc4b859807eecf5d831618acec1085] an application to the sheriff as regards that child for a child assessment order under section 35 of the 2011 Act or a child protection order under section 38 of the 2011 Act;
+- (b) a relevant person in respect of—
+  - (i) the circumstances set out in section 28C(1)(a)-(d) and (2)(a)-(c)[^key-906a046ee4e432508a6408fd880979fc] of the Act;
+  - (ii) a children’s hearing under the Act other than in the circumstances set out in section 28C(1)(a)-(d) and (2)(a)-(c)[^key-94d9ea8c06323383f96dcd3bd5c6dfa3] of that Act;
+  - (iii) a pre-hearing panel at which a determination under section 81 of the 2011 Act is to be made as regards an individual to whom section 79(2)(a)(i) of the 2011 Act refers;
+  - (iiia)[^key-ac13f279ca6aa9de19f205d90d60546c] a pre-hearing panel at which a determination under section 81A of the 2011 Act is to be made as regards an individual to whom section 79(5A)(a)(i) of the 2011 Act refers;
+  - (iiib)[^key-53125d35e47689da24e112048f87caa3] an application to the sheriff for a child assessment order under section 35 of the 2011 Act or a child protection order under section 38 of the 2011 Act;
+- (c) an individual to whom section 126 of the 2011 Act refers, in respect of any hearing under that section which relates to that individual;
+- (d) an individual to whom section 79(2)(a)(i) of the 2011 Act refers, in respect of a pre-hearing panel or children’s hearing at which a determination under section 81 of the 2011 Act is to be made as regards that individual.
+- (e)[^key-422984df5639acd54f42b1ee120f9469] an individual who has been afforded the rights mentioned in section 79(5ZA) of the 2011 Act in relation to the children’s hearing;
+- (f) an individual to whom section 79(2)(ba) of the 2011 Act refers, in respect of a pre-hearing panel or children’s hearing at which a determination under section 80 of the 2011 Act is to be made as regards that individual.
+
+(2) The assistance by way of representation described in paragraph 1[^key-f6e4edba92c481d21dbe7fd8e841904d] is available without reference to the financial limits under section 8 of the Act (availability of advice and assistance) where the applicant is a child[^key-d36e0e5f0d906a0f2db8d0b91e9c962d].
+
+(3) Except where the applicant is a child,[^key-3f5e180a5aa45a9d53bc5970dea1fae0] the assistance by way of representation described in paragraph (1)(b)(i) and (iv) is to be provided under Part II of the Act only if the solicitor to whom the application has been made is satisfied that legal representation is required to allow the relevant person to participate effectively.
+
+(4)[^key-d23da7bf3f5bad4aab46ebc7a94b21bb] Where a solicitor approves an application by a client to provide them with assistance by way of representation in accordance with this regulation in relation to one or more of the proceedings under the 2011 Act listed in paragraph (5), subject to paragraph (6) they may by virtue of that approval provide such assistance to that client also in relation to any of the other proceedings listed in that paragraph without requiring the client to make any further application.
+
+(5) The proceedings under the 2011 Act for the purposes of paragraph (4) are—
+
+- (a) an application for a child protection order made under section 38 (consideration by sheriff: application by local authority only) or section 39 (consideration by sheriff: application by local authority or other person),
+- (b) a children’s hearing arranged by virtue of section 45 (review by children’s hearing where child in place of safety) or of section 46 (review by children’s hearing where order prevents removal of child),
+- (c) an application under section 48 (application for variation or termination),
+- (d) a children’s hearing arranged under section 69(2) (determination under section 66: referral to children’s hearing) following receipt by the Reporter of a notice under section 43 (notice of child protection order) where that hearing is to be held no later than either 8 working days from the date the child was removed to a place of safety or from the date the order was made.
+
+(6) The assistance by way of representation mentioned in paragraph (4) may be provided until a determination is made as to the making of a compulsory supervision order in respect of any of the proceedings listed in paragraph (5).
+
+## 4. Application of Part II of the Act to assistance by way of representation: proceedings under the Criminal Procedure (Scotland) Act 1995
+
+(1) Any reference in this regulation to a numbered section, paragraph or Schedule is to a section, paragraph or Schedule bearing that number in the 1995 Act.
+
+(2) Part II of the Act shall apply to assistance by way of representation in relation to proceedings–
+
+- (a)[^key-dae55d1fb865401c6d0d56a28c166a26] under section 229A or 232 in relation to a probation progress review, or, as the case may be, failure to comply with the requirements of a probation order;
+- (b) under section 233 [^c5120041] in relation to the conviction of a probationer by a court in Great Britain of an offence committed during his or her probation period;
+- (c) under section 239(4) to (6) in relation to failure to comply with the requirements of a community service order;
+- (d) under section 240(1) and (3) in relation to amendment or revocation of a community service order;
+- (e) under paragraph 4 of Schedule 7 in relation to failure to comply with the requirements of a supervised attendance order;
+- (f) under paragraph 5(1) and (3) of Schedule 7 in relation to amendment or revocation of a supervised attendance order;
+- (fa)[^key-95af0714e628e388ef54deaf689ecbd1]  under—
+  - (i) section 227X (periodic review of community payback orders);
+  - (ii) section 227Y (applications to vary, revoke and discharge community payback orders); and
+  - (iii) section 227ZC (breach of community payback order);
+- (g) under section 234A(6) [^c5120051] in relation to revocation or variation of a non-harassment order;
+- (h) under section 234E, 234F or 234G [^c5120061] in relation to the variation or revocation of a drug treatment and testing order, the review of a drug treatment and testing order, or, as the case may be, the failure to comply with any requirement of a drug treatment and testing order; and
+- (i) under section 245E or 245F [^c5120071] in relation to the variation or revocation of a restriction of liberty order, or, as the case may be, the failure to comply with any of the requirements of a restriction of liberty order;
+- (j)[^key-175197f4cf635ec0898a31191fddcfdc] under section 90B, 90C, 90D or 90E in relation to orders made in respect of witnesses apprehended under section 90A, breach of bail, the review of orders made, or, as the case may be, appeals in respect of orders made.
+
+(3) Sub-paragraphs (a), (b), (c), (d), (e), (f), (fa),[^key-c6c240a75ad014723f0ff8c8a9f128ed] (h) and (i) of paragraph (2) of this regulation shall not apply to proceedings before a court which has been designated as a drug court by the sheriff principal.
+
+## 4A. Application of Part II of the Act to assistance by way of representation: proceedings under sections 19, 30 and 36(1)(a) of the Criminal Justice (Scotland) Act 2016[^key-3153221c3fb76992338bcde793d99408]
+
+Part II of the Act shall apply to assistance by way of representation in relation to proceedings under sections 19, 30 and 36(1)(a) of the Criminal Justice (Scotland) Act 2016.
+
+## 5. Application of Part II of the Act to assistance by way of representation: proceedings under the Proceeds of Crime (Scotland) Act 1995 and the Proceeds of Crime Act 2002
+
+(1) Any reference in paragraph (2)(a) to (h) to a numbered section is to a section bearing that number in the Proceeds of Crime (Scotland) Act 1995 [^c5120081].
+
+(2) Part II of the Act shall apply to assistance by way of representation in relation to–
+
+- (a) applications under section 5(3) [^c5120091] in relation to an application for property not to be treated as a gift;
+- (b) appeals under section 5(4) in relation to an appeal against a refusal of an application under section 5(3);
+- (c) applications under section 6(3) in relation to an application for property not to be treated as an implicative gift;
+- (d) appeals under section 6(4) in relation to an appeal against a refusal of an application under section 6(3);
+- (e) applications, by someone other than the accused, under section 18(7) in relation to a discharge or variation of an order under section 18(2);
+- (f) applications under section 25 [^c5120101] in relation to a recall or variation of a suspended forfeiture order or section 26 in relation to property wrongly forfeited: return or compensation;
+- (g) appeals under section 27 in relation to an appeal against a court decision under section 25(1) or 26(1);
+- (h) applications under section 45(2)(b) in relation to the disposal of a family home where representations are made to the court by someone other than the accused; and
+- (i) representations made to the court under section 92 of the Proceeds of Crime Act 2002 [^c5120111] by any person, other than the accused, who is likely to be affected by a confiscation order.
+
+## 5A. Application of Part II of the Act to assistance by way of representation: proceedings before the First-tier Tribunal and the Upper Tribunal[^key-3b556098ee750311dd2f58cf1247ac62]
+
+Part II of the Act shall apply to assistance by way of representation in relation to proceedings before—
+
+- (a) the Immigration and Asylum Chamber of the First-tier Tribunal;
+- (b) the Immigration and Asylum Chamber of the Upper Tribunal;
+- (c) the First-tier Tribunal or the Upper Tribunal, which consist of an appeal against a penalty imposed under—
+  - (i) section 60 of the Value Added Tax Act 1994;
+  - (ii) section 8 of the Finance Act 1994;
+  - (iii) Schedule 24 to the Finance Act 2007; or
+  - (iv) Schedule 41 to the Finance Act 2008;
+- (d) the Upper Tribunal, which consist of an appeal against a decision made under or by virtue of—
+  - (i) any of sections 1 to 5A of the Pensions Appeal Tribunal Act 1943 by a Pensions Appeal Tribunal or the First-tier Tribunal;
+  - (ii) section 4 of the Vaccine Damage Payments Act 1979;
+  - (iii) section 20 of the Child Support Act 1991;
+  - (iv) section 12 of the Social Security (Recovery of Benefits) Act 1997;
+  - (v) section 12 or 13 of the Social Security Act 1998;
+  - (vi) paragraph 6 or 7 of Schedule 7 to the Child Support, Pensions and Social Security Act 2000;
+  - (vii) section 39 of, or paragraph 3 of Schedule 2 to, the Tax Credits Act 2002;
+  - (viii) section 158 of the Health and Social Care (Community Health and Standards) Act 2003;
+  - (ix) section 23 of the Child Trust Funds Act 2004; [^key-41c83cb2ff7a99bc253e466c91081c38]...
+  - (x) section 50 of the Child Maintenance and Other Payments Act 2008; [^key-53483b9218c13cf22cbbacfe17ddafc5]... or[^key-26e27978a21bcb758b7d6704e3e883a8]
+  - (xi)[^key-8440f8a1c6998803081231f0358dd64c] regulation 31 of the Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) Regulations 2013; and
+- (e) the First-tier Tribunal or the Upper Tribunal, which consist of an appeal against a decision of the Pensions Regulator.
+
+## 5B.
+
+(1) Assistance by way of representation in relation to proceedings described in regulation 5A(a) shall be provided only where the solicitor to whom application has been made is satisfied that the tribunal deciding the case will do so sitting in Scotland.
+
+(2) Assistance by way of representation in relation to proceedings described in regulation 5A(b) shall be provided only where—
+
+- (a) the solicitor to whom application has been made is satisfied that the tribunal deciding the case will do so sitting in Scotland; and
+- (b) either—
+  - (i) the First-tier Tribunal has given permission to appeal to the Upper Tribunal; or
+  - (ii) the solicitor is satisfied as to the matters set out in regulation 13(2)(a), (b) and (taking into account the factors set out in regulation 13(3)) (c).
+
+## 6. Summary criminal proceedings
+
+(1) The assistance by way of representation which may be provided under Part II of the Act in relation to summary criminal proceedings shall be representation of an accused person who is not in custody–
+
+- (a) at any diet (other than a diet which has been preceded by a plea of not guilty) at which a plea to the competency or relevancy of the complaint or proceedings, or a plea in bar of trial, is tendered on the accused person’s behalf, and thereafter until that plea has been determined by the court and any related appeal [^key-220a2bdb00d0b55b9b54f54ad17491d7]... under section 174(1) of the 1995 Act has been disposed of or withdrawn;
+- (b) at any diet (other than a diet which has been preceded by a plea of not guilty) at which a question within the meaning of rule 31.1(1) of the Act of Adjournal (Criminal Procedure Rules) 1996 [^c5120121] is raised and thereafter until that question has been determined by the court;
+- (ba)[^key-dedb333b7d60af521f46be33296d8915] in relation to any diet[^key-79b4dbf172607e628fb1d31c353736c1] to which the case has been adjourned under section 145 of the 1995 Act;
+- (c)[^key-5e09c9c5fce226c1c9543f2e2d9d4f98] in relation to any diet (including ancillary work prior to that diet) in a case in which no plea has previously been tendered, where—
+  - (i) at the diet a plea of guilty to the charges against the accused is tendered, or a plea of guilty to part thereof which partial plea is accepted by the prosecutor, and thereafter until the case has been finally disposed of;
+  - (ii) at the diet the prosecutor accepts a plea of not guilty to the charges to the effect that the case is then concluded; or
+  - (iii) prior to calling the case at that diet the prosecutor accepts a plea of not guilty to the charges or otherwise makes a final determination that the case is not to proceed whether at that time or thereafter, and does not call the case at that diet;
+- (d) at any diet at which the court is considering the accused’s plea of guilty to the charges and where there has been no change of plea, and thereafter until final disposal of the case;
+- (e) at any diet at which the court is considering the accused’s changed plea of guilty to the charges, provided that no application for criminal legal aid has been made, and thereafter until final disposal of the case; and
+- (f) at any diet where the judge orders a proof in mitigation, and thereafter until final disposal of the case.
+
+(2)[^key-bd22bd43725f60a0c3698ae9e5f8c172] The assistance by way of representation which may be provided under Part II of the Act in relation to summary criminal proceedings in a sheriff court which has been designated by the sheriff principal–
+
+- (a) as a youth court; or[^key-5f07f0680e6d96bbf9b3a77a0b505e71]
+- (b) as a domestic abuse court; [^key-e7143b8bda0ae23ff2200e382c854e1f]...
+- (c)[^key-e7143b8bda0ae23ff2200e382c854e1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+shall include representation of an accused person following a finding of guilt but only where criminal legal aid has not been granted to that person in terms of section 24 of the Act.
+
+## 6A.[^key-20fcb2e1a94acea3e4782ff113a47073]
+
+(1) The assistance by way of representation which may be provided under Part II of the Act in relation to summary criminal proceedings in any court[^key-2d4e97f9fa09ffc267ed969ab5ed8058] shall include the attending upon, advising and acting for any person who appears from custody on the day when that person is first brought to a court to answer to any complaint and thereafter–
+
+- (i) until the conclusion of the first diet at which he is called upon to plead and in connection with any application for liberation following upon that diet; and
+- (ii) where he has tendered a plea of guilty at that diet, until his case is finally disposed of.
+
+(1A)[^key-ba1477bc4d57e817fb3e93dbcdf9d637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1B)[^key-ba1477bc4d57e817fb3e93dbcdf9d637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1C)[^key-ba1477bc4d57e817fb3e93dbcdf9d637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1D)[^key-ba1477bc4d57e817fb3e93dbcdf9d637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1E)[^key-ba1477bc4d57e817fb3e93dbcdf9d637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The references to “attending upon, advising and acting” in paragraph (1) above shall include the services of the solicitor at any preliminary plea to the competency or relevancy of the complaint and at any plea in bar of trial or any mental health proof.
+
+## 6B.[^key-79344a59b7722264d1d3ccf6de9ae1e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7.[^key-1e11270dad5948b4ed4c2045e1a15606]
+
+(2A) The assistance by way of representation described in regulation 6(1) above is to be provided under Part II of the Act only if the solicitor to whom the application has been made is satisfied that it is in the interests of justice for the assistance to be provided.
+
+(2B) The factors to be taken into account in determining whether it is in the interests of justice for the assistance to be provided include those listed in section 24(3)(a) to (c) of the Act.
+
+(3)[^key-80b5c412dfff444f40ba0cab05c61ca2] This regulation[^key-af10f009b2998b8b351702f4b81c893f] shall not apply in relation to summary criminal proceedings in a sheriff court which has been designated as a youth court, or as a domestic abuse court, by the sheriff principal.
+
+## 8. Petitions for the appointment of an executor
+
+The assistance by way of representation which may be provided under Part II of the Act in relation to petitions for the appointment of an executor shall be for representation of the petitoner in all stages of an unopposed petition until the petitioner be decerned executor and extract decree dative obtained.
+
+## 9. Prescribed proceedings
+
+In relation to the following, assistance by way of representation shall be available without reference to the financial limits under section 8 of the Act (availability of advice and assistance), and section 11(2) of the Act (client’s contributions) shall not apply as respects assistance by way of representation:–
+
+- (a) proceedings under section 17 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981;
+- (b)[^key-c803a7adc844c67b2371754d4eec847e] proceedings before the Mental Health Tribunal for Scotland;
+- (c) proceedings in connection with an application for a warrant of further detention, or for an extension of such a warrant, made to the sheriff under paragraph 29 or 36 of Schedule 8 to the Terrorism Act 2000 , or under paragraph 37 or 44 of schedule 6 of the National Security Act 2023[^key-554c039c9dc50271e9d8bf6443f87305];
+- (d) proceedings before a hearing established under–
+  - (i) paragraph 12 or paragraph 59 of the schedule to the Convention Rights (Compliance) (Scotland) Act 2001; or
+  - (ii) section 10(2F) of the Prisoners and Criminal Proceedings (Scotland) Act 1993; and
+- (e) proceedings under section 5 of the Protection from Abuse (Scotland) Act 2001;
+- (f)[^key-052b9653ba3b519005442f2da4a5b186] proceedings under sections 90B to 90E of the Criminal Procedure (Scotland) Act 1995;
+- (g)[^key-fbe707974007aef74d5660fdb8969e48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^key-03f010d60ab429ff1d638896e0648a0f] applications under sections 2(2), 3(3)(b), 4(3)(b), 11(3) and 12(3) of the Double Jeopardy (Scotland) Act 2011 ;[^key-d73df2a47a82875916a6a0f9640bfaa4] [^key-3002e37ec08c9edbc9158a0e5c0b9cfe]...
+- (i) recovery proceedings ;[^key-4971b6fc23b8e6a79450db1b69bd167f] [^key-9cc37822c33117ca957df99dcdb329f0]...
+- (j)[^key-1946d7f12092c32b6a80da6e542ac085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^key-c1e01b0cd0b50f8f4dcd9b248aa3f02b] appeal proceedings under section 8 of the 2018 Act.
+
+## 10. Disciplinary proceedings
+
+The assistance by way of representation which may be provided under Part II of the Act in relation to disciplinary proceedings shall be for representation of the prisoner at all stages of the proceedings before the governor.
+
+## 11. Parole Board cases
+
+The assistance by way of representation which may be provided under Part II of the Act in relation to a Parole Board case shall be for representation of the prisoner at all stages of the proceedings before a tribunal relating to that case.
+
+## 12. Civil proceedings where there is a risk of imprisonment
+
+The assistance by way of representation described in regulation 3(j) shall be provided under Part II of the Act only where the solicitor to whom application has been made is satisfied that–
+
+- (a) it is reasonable in the particular circumstances of the case that assistance by way of representation be made available; and
+- (b) it is likely that the court will deprive the applicant of his or her liberty.
+
+## 13. Assistance by way of representation requiring approval of the Board
+
+(1) Subject to paragraph (1A),[^key-b86f64ffe346224aeff3f08aa0e710c7] the approval of the Board shall be required as a pre-condition of the provision of assistance by way of representation in relation to the proceedings described in regulations 3(h), (k), (m) , (s)[^key-c3c94db9a3db47fa559cae34113bf65e] , (u) and (w)[^key-736981ff1bad8d55d8929bf1f59e3aa2] ,[^key-720d46a240a1e01aea326928891750c3] 3A(1)[^key-6df9a18b6eda50747f1d1da9342ad0c2][^key-e00b4aea08a06b57bb06949c36b58e49]... (b)(ii), (iii) , (iiia) and (iiib)[^key-3c51d16f0c39f13881a4b7430d15af8b] , (c) to (f)[^key-4f78517a001b3580edf70a9fe9f603f1] , 4A, 5[^key-a0a6ac403d56481a593d9b8a35ae13ff] and 5A(c) to (e)[^key-1743bc5cd413f181d8c0316468c3d233] above.
+
+(1A)[^key-49801f3b79556037d1d37904dab0f4fc] Paragraph (1) does not apply in relation to proceedings described in regulation 3A where the applicant is a child.
+
+(2) The Board shall only approve the provision of assistance by way of representation in relation to the proceedings described in regulation 3(m) and (s)[^key-0397934ba179632f7290fb40b4e85322] where it is satisfied that–
+
+- (a) the case is arguable;
+- (b) it is reasonable in the particular circumstances of the case that assistance by way of representation be made available; and
+- (c) the case is too complex to allow the applicant to present it to a minimum standard of effectiveness in person.
+
+(3) The factors to be taken into account by the Board in determining whether paragraph (2)(c) above applies shall include–
+
+- (a) the determination of the issue may involve procedural difficulty or consideration of a substantial question of law, or of evidence of a complex or difficult nature;
+- (b) the applicant may be unable to understand the proceedings or to state the applicant’s own case because of age, inadequate knowledge of English, mental illness, other mental or physical disability, or otherwise.
+
+(3A)[^key-cf4d3974f820f78530a368304d5c4da0] Except where the applicant is a child,[^key-71e59529233188756adfe6be5bdfc7a7] the Board must only approve the provision of assistance by way of representation in relation to the hearings described in regulation 3A(1)[^key-4b878b1236923714444096bba80ce0a3][^key-e15b3d8d981141252e69d0f80c4d1792]... (b)(ii), (iii) , (iiia) and (iiib)[^key-52b1a76e9fec8917ec2a27720a8dfb2a], and (c) to (f)[^key-f142a59e283b835ade6319fe31d3e938] where it is satisfied that the legal representation is required to allow [^key-c54b3f361bbfd01da12dd4e00d588b5d]... the relevant person or individual (as the case may be) to participate effectively.
+
+(3B)[^key-8448528c19150dfd7a5298d6c06daf0e] The Board must only approve the provision of assistance by way of representation in relation to recovery proceedings where it is satisfied that the legal representation is required to allow the client to participate effectively in the proceedings.
+
+(3C)[^key-a7faf2a0406e67cc608628f1ff44aa14] The Board must only approve the provision of assistance by way of representation in relation to the proceedings in regulation 4A where it is satisfied that it is in the interests of justice.
+
+(3D) The factors to be taken into account by the Board in determining whether it is in the interests of justice for the purposes of paragraph (3C) that assistance by way of representation be made available include whether—
+
+- (a) it is reasonable in the particular circumstances of the case that assistance by way of representation is made available;
+- (b) the case is too complex to allow the applicant to present it to the minimum standard of effectiveness in person; and
+- (c) it is in the interests of someone other than the applicant that the applicant be legally represented.
+
+(4) The Board shall only approve the provision of assistance by way of representation in relation to the proceedings described in regulations[^key-1de6137c624eb00b162dca2d401b38cc] 5A(c) and (e)[^key-d995825125550eb65ebb28bcc0d70383] where it is satisfied that the tribunal deciding the case will do so sitting in Scotland and[^key-be4d60def40e5ed5c6464f184ccd3c73] in all the circumstances of the case it is–
+
+- (a) in the interests of justice; and
+- (b) reasonable,
+
+that assistance by way of representation be made available.
+
+(5) The factors to be taken into account by the Board in determining whether it is in the interests of justice for the purposes of paragraph (4)(a) and (7)[^key-0e7248d6ff9dc724d63ea6fed2832ed3] that assistance by way of representation be made available shall include the factors set out at paragraph (3)(a) and (b).
+
+(6)[^key-e5b46411348f8f8f9c186c0fc38404ea] The Board shall only approve the provision of assistance by way of representation in relation to the proceedings described in regulation 5A(d) where it is satisfied—
+
+- (a) that the tribunal deciding the case will do so sitting in Scotland; and
+- (b) as to the matters set out in paragraph (2)(a) to (c).
+
+(7)[^key-c34b4246710cd21d12f7d4e7e918f75e] The Board must only approve the provision of assistance by way of representation in relation to the proceedings described in regulation 3(w) where it is satisfied that in all the circumstances of the case it is—
+
+- (a) in the interests of justice, and
+- (b) reasonable,
+
+that assistance by way of representation be made available.
+
+## 14. Effective participation in proceedings[^key-65ab01440398bfefec120160defc1428][^key-986ee3cacf376c3aa8a747745ca8b376]
+
+When determining for the purposes of regulations 3A(3) or 13(3A) or (3B)[^key-4c7131f26af3e25688991b4a799213ef] whether legal representation is required to allow a person to participate effectively, the solicitor or Board (as the case may be) must take into account the following matters—
+
+- (a) the complexity of the case, including the existence and difficulty of any points of law in issue;
+- (b) the nature of the legal issues involved;
+- (c) the ability of the person to consider and challenge any document or information in the hearings or proceedings without the assistance of a solicitor; and
+- (d) the ability of the person to present his or her views in an effective manner without the assistance of a solicitor.
+
+JAMES WALLACE
+
+A member of the Scottish Executive
+
+St Andrew’s House, Edinburgh
+
+## SCHEDULE — REGULATIONS REVOKED
+
+Regulation 2
+
+| *Title* | *Reference* |
+| --- | --- |
+| The Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 1997 | S.I. 1997/3070 |
+| The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 1998 | S.I. 1998/972 |
+| The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 1999 | S.I. 1999/214 |
+| The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2000 | S.S.I. 2000/109 |
+| The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2001 | S.S.I. 2001/2 |
+| The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2001 | S.S.I. 2001/43 |
+| The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 3) Regulations 2001 | S.S.I. 2001/382 |
+| The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2002 | S.S.I. 2002/37 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations consolidate with amendments and revoke the Advice and Assistance (Assistance by Way of Representation) (Scotland) Regulations 1997 and subsequent amending instruments.
+
+The main amendments provide for assistance by way of representation to be made available for certain proceedings–
+
+- before the VAT and Duties tribunals for Scotland, where the Scottish Legal Aid Board considers that this is reasonable and in the interests of justice (regulations 3(q) and 13(4)); and
+- relating to confiscation orders under the Proceeds of Crime Act 2002 (regulation 5(2)(i)).
+
+The Regulations also make various minor and drafting amendments.
+
+## Annotations
+
+[^c5119781]: Marginal citation: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47); [section 9(2)(dd)](https://www.legislation.gov.uk/ssi/2003/179/section/9/2/dd) and (de) was inserted by the Access to [Justice Act 1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), [section 32](https://www.legislation.gov.uk/ukpga/1999/22/section/32). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-85d8dc191969438c9c7cdf5ebab78721]: Textual amendment: Words in reg. 1(2) omitted (4.4.2005) by virtue of [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2005 (S.S.I. 2005/165)](https://www.legislation.gov.uk/ssi/2005/165), [regs. 2](https://www.legislation.gov.uk/ssi/2005/165/regulation/2), [4(a)](https://www.legislation.gov.uk/ssi/2005/165/regulation/4/a)
+
+[^c5119821]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^key-6788ce9f196f1a4fca46d1013164b7b1]: Textual amendment: Words in reg. 1(2) inserted (24.6.2013) by [The Childrens Legal Assistance (Scotland) Regulations 2013 (S.S.I. 2013/200)](https://www.legislation.gov.uk/ssi/2013/200), [regs. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2013/200/regulation/3/2/a)
+
+[^key-224afcb9d67b06b0fc43d5a8ec07b3b8]: Textual amendment: Words in reg. 1(2) inserted (25.9.2020) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/296)](https://www.legislation.gov.uk/ssi/2020/296), [regs. 1](https://www.legislation.gov.uk/ssi/2020/296/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/296/regulation/2/2)
+
+[^key-c9930ad63bcaba4495ad2883e336d531]: Textual amendment: Words in reg. 1(2) omitted (4.4.2005) by virtue of [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2005 (S.S.I. 2005/165)](https://www.legislation.gov.uk/ssi/2005/165), [regs. 2](https://www.legislation.gov.uk/ssi/2005/165/regulation/2), [4(b)](https://www.legislation.gov.uk/ssi/2005/165/regulation/4/b)
+
+[^key-86e80f3cb6bb2858abb4edeb927a6128]: Textual amendment: Word in reg. 1 substituted (22.12.2006) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2006 (S.S.I. 2006/615)](https://www.legislation.gov.uk/ssi/2006/615), [regs. 1](https://www.legislation.gov.uk/ssi/2006/615/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2006/615/regulation/3/a)
+
+[^key-92d08c0ed5db77c4e2efdeb9efb767e2]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/ssi/2003/179/regulation/1) substituted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2))
+
+[^key-9b16c7ca22b609f5e6ae3ef6b53d1b12]: Textual amendment: Words in reg. 1(2) inserted (24.6.2013) by [The Childrens Legal Assistance (Scotland) Regulations 2013 (S.S.I. 2013/200)](https://www.legislation.gov.uk/ssi/2013/200), [regs. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2013/200/regulation/3/2/b)
+
+[^c5119851]: Marginal citation: [S.I. 1994/1931](https://www.legislation.gov.uk/uksi/1994/1931); relevant amending instruments are [S.I. 1996/32](https://www.legislation.gov.uk/uksi/1996/32), 1997/2007 and 1998/1589.
+
+[^c5119861]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17). Section 1 of the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) provides that the Industrial Tribunals Act 1996 may be cited as the Employment Tribunals Act 1996, and substitutes the term “industrial tribunal” with “employment tribunal” wherever it occurs in any enactment.
+
+[^c5119871]: Marginal citation: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45). Section 3(1) was modified by the [Criminal Justice and Public Order Act 1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), [section 110](https://www.legislation.gov.uk/ukpga/1994/33/section/110) and amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 27](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/27) and the [Crime and Punishment (Scotland) Act 1997 (c. 48)](https://www.legislation.gov.uk/ukpga/1997/48), [section 43](https://www.legislation.gov.uk/ukpga/1997/48/section/43).
+
+[^key-74c5862dcf509507f0d84a07d2529aaf]: Textual amendment: Words in reg. 1(2) omitted (4.4.2005) by virtue of [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2005 (S.S.I. 2005/165)](https://www.legislation.gov.uk/ssi/2005/165), [regs. 2](https://www.legislation.gov.uk/ssi/2005/165/regulation/2), [4(c)](https://www.legislation.gov.uk/ssi/2005/165/regulation/4/c)
+
+[^key-3424fb7d1d151d208aad2805201ed100]: Textual amendment: Words in reg. 1(2) inserted (5.10.2005) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2005 (S.S.I. 2005/482)](https://www.legislation.gov.uk/ssi/2005/482), [regs. 1](https://www.legislation.gov.uk/ssi/2005/482/regulation/1), [4](https://www.legislation.gov.uk/ssi/2005/482/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/482/regulation/2))
+
+[^key-bb2f17ab93ebabf1033a9dc5947eacc4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2003/179/regulation/1/2) substituted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2023/11/regulation/4/2)
+
+[^key-259e28493865a3158929f2b2506baac9]: Textual amendment: Words in reg. 1(2) omitted (9.6.2010) by virtue of [The Advice and Assistance and Civil Legal Aid (Transfer of Tribunal Functions) (No.2) (Scotland) Regulations 2010 (S.S.I. 2010/239)](https://www.legislation.gov.uk/ssi/2010/239), [regs. 1](https://www.legislation.gov.uk/ssi/2010/239/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2010/239/regulation/4/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2010/239/regulation/2))
+
+[^c5119881]: Marginal citation: Section 43(1) was amended by the [Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40)](https://www.legislation.gov.uk/ukpga/1995/40), [Schedule 4](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4) and the [Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)](https://www.legislation.gov.uk/ukpga/1993/9), [Schedule 5](https://www.legislation.gov.uk/ukpga/1993/9/schedule/5).
+
+[^key-46590739680145e78b117fb92eb5fc0f]: Textual amendment: Words in reg. 1(2) inserted (13.9.2017) by [The Advice and Assistance (Proceedings for Recovery of Documents) (Scotland) Regulations 2017 (S.S.I. 2017/291)](https://www.legislation.gov.uk/ssi/2017/291), [regs. 1](https://www.legislation.gov.uk/ssi/2017/291/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2017/291/regulation/5/2) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/291/regulation/2/2))
+
+[^key-aee2a0eed89ee149ceace36adf48e274]: Textual amendment: Words in reg. 1(2) inserted (24.6.2013) by [The Childrens Legal Assistance (Scotland) Regulations 2013 (S.S.I. 2013/200)](https://www.legislation.gov.uk/ssi/2013/200), [regs. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2013/200/regulation/3/2/d)
+
+[^c5119891]: Marginal citation: [S.I. 1964/1143](https://www.legislation.gov.uk/uksi/1964/1143).
+
+[^c5119901]: Marginal citation: [1981 c. 59](https://www.legislation.gov.uk/ukpga/1981/59); section 17 was amended by the [Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40)](https://www.legislation.gov.uk/ukpga/1995/40), [Schedule 4](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4), [paragraph 37](https://www.legislation.gov.uk/ukpga/1995/40/paragraph/37).
+
+[^key-e0fb7367f753a805e858eba295e963fe]: Textual amendment: Reg. 3(d) substituted (5.10.2005) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2005 (S.S.I. 2005/482)](https://www.legislation.gov.uk/ssi/2005/482), [regs. 1](https://www.legislation.gov.uk/ssi/2005/482/regulation/1), [5](https://www.legislation.gov.uk/ssi/2005/482/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/482/regulation/2))
+
+[^c5119921]: Marginal citation: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66); section 5(2) was substituted by the [Bankruptcy (Scotland) Act 1993 (c. 6)](https://www.legislation.gov.uk/ukpga/1993/6), [section 3(2)](https://www.legislation.gov.uk/ukpga/1993/6/section/3/2).
+
+[^c5119931]: Marginal citation: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); section 42 was amended by the [Road Traffic Act 1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), [Schedule 4](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4), [paragraph 98](https://www.legislation.gov.uk/ukpga/1991/40/paragraph/98), and [S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144), 1996/2824 and 1999/2864.
+
+[^c5119941]: Marginal citation: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33).
+
+[^c5119951]: Marginal citation: [1995 c. 39](https://www.legislation.gov.uk/ukpga/1995/39).
+
+[^key-15036e89232b41db5dde62449d58c77b]: Textual amendment: Reg. 3(l)(q) omitted (9.6.2010) by virtue of [The Advice and Assistance and Civil Legal Aid (Transfer of Tribunal Functions) (No.2) (Scotland) Regulations 2010 (S.S.I. 2010/239)](https://www.legislation.gov.uk/ssi/2010/239), [regs. 1](https://www.legislation.gov.uk/ssi/2010/239/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2010/239/regulation/4/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2010/239/regulation/2))
+
+[^c5119961]: Marginal citation: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
+
+[^key-d69170147a89c3e3600bd9852caaee69]: Textual amendment: Words in [reg. 3(n)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3/n) inserted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2023/313/regulation/7/2)
+
+[^key-a2212ce6a3d8cc7b8501587347f25bb3]: Textual amendment: Reg. 3(na) inserted (1.4.2015) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2015 (S.S.I. 2015/155)](https://www.legislation.gov.uk/ssi/2015/155), [regs. 1](https://www.legislation.gov.uk/ssi/2015/155/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2015/155/regulation/2/1)
+
+[^c5119971]: Marginal citation: [2001 asp 7](https://www.legislation.gov.uk/asp/2001/7).
+
+[^c5119981]: Marginal citation: [1993 c. 9](https://www.legislation.gov.uk/ukpga/1993/9); section 10(2F) was inserted by section 3(1)(b) of the Convention Rights (Compliance) (Scotland) Act 2001.
+
+[^c5119991]: Marginal citation: [2001 asp 14](https://www.legislation.gov.uk/asp/2001/14).
+
+[^key-abf3d8605c1407d9a7f74b63e74a8950]: Textual amendment: Word in reg. 3(p) omitted (22.12.2006) by virtue of [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2006 (S.S.I. 2006/615)](https://www.legislation.gov.uk/ssi/2006/615), [regs. 1](https://www.legislation.gov.uk/ssi/2006/615/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2006/615/regulation/4/a)
+
+[^key-4784e2fdee17f429026c103d94c5d5f8]: Textual amendment: Reg. 3(r)(s) inserted (22.12.2006) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2006 (S.S.I. 2006/615)](https://www.legislation.gov.uk/ssi/2006/615), [regs. 1](https://www.legislation.gov.uk/ssi/2006/615/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2006/615/regulation/4/b)
+
+[^key-b46183a97469ee1846a7dcff0ee283d6]: Textual amendment: Reg. 3(s) and word inserted (18.3.2011) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/216)](https://www.legislation.gov.uk/ssi/2011/216), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/216/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/216/regulation/2/2)
+
+[^key-47e54a505da5da53b299ba39481ed9c8]: Textual amendment: Words in reg. 3(s) substituted (12.1.2018) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4)](https://www.legislation.gov.uk/ssi/2018/4), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/4/regulation/1/1), [sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/ssi/2018/4/schedule/2/paragraph/8/2/a)
+
+[^key-b4598a46372c55650da4b0a797dc9741]: Textual amendment: Words in reg. 3(s) substituted (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4)](https://www.legislation.gov.uk/ssi/2018/4), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/4/regulation/1/1), [sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/ssi/2018/4/schedule/2/paragraph/8/2/b)
+
+[^key-c791097351fcc819b728840c970cbd17]: Textual amendment: Reg. 3(t) and word inserted (6.3.2012) by [The Advice and Assistance (Assistance By Way of Representation) (Scotland) Amendment Regulations 2012 (S.S.I. 2012/84)](https://www.legislation.gov.uk/ssi/2012/84), [regs. 1](https://www.legislation.gov.uk/ssi/2012/84/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/84/regulation/2/2)
+
+[^key-b06425f7e0eb3ef245735fca07004c4b]: Textual amendment: Word in reg. 3(s) omitted (13.9.2017) by virtue of [The Advice and Assistance (Proceedings for Recovery of Documents) (Scotland) Regulations 2017 (S.S.I. 2017/291)](https://www.legislation.gov.uk/ssi/2017/291), [regs. 1](https://www.legislation.gov.uk/ssi/2017/291/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2017/291/regulation/5/3/a)
+
+[^key-891504bcef21935619afaada2ed0fe21]: Textual amendment: Reg. 3(u) and word inserted (13.9.2017) by [The Advice and Assistance (Proceedings for Recovery of Documents) (Scotland) Regulations 2017 (S.S.I. 2017/291)](https://www.legislation.gov.uk/ssi/2017/291), [regs. 1](https://www.legislation.gov.uk/ssi/2017/291/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2017/291/regulation/5/3/b)
+
+[^key-eba58aa2546107d2d85300565a1b511c]: Textual amendment: Word in reg. 3 omitted (1.7.2020) by virtue of [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/191)](https://www.legislation.gov.uk/ssi/2020/191), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/191/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/ssi/2020/191/regulation/6/2/a)
+
+[^key-b2f9f4b385b79fe7680b9cd01b94a989]: Textual amendment: Reg. 3(v) and word substituted for full stop (1.7.2020) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/191)](https://www.legislation.gov.uk/ssi/2020/191), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/191/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/ssi/2020/191/regulation/6/2/b)
+
+[^key-369293101a0bbab5dba85339bb9e3086]: Textual amendment: Word in [reg. 3(u)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3/u) omitted (25.9.2020) by virtue of [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/296)](https://www.legislation.gov.uk/ssi/2020/296), [regs. 1](https://www.legislation.gov.uk/ssi/2020/296/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2020/296/regulation/2/3/a)
+
+[^key-b2a30b1e486ff6abdbad1968466eff97]: Textual amendment: [Reg. 3(v)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3/v) omitted (1.10.2022) by virtue of [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2022 (S.S.I. 2022/229)](https://www.legislation.gov.uk/ssi/2022/229), [regs. 1](https://www.legislation.gov.uk/ssi/2022/229/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2022/229/regulation/6/2)
+
+[^key-a3997abfcb1b5b9024e0ac3c0dde9a9e]: Textual amendment: [Reg. 3(w)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3/w) and preceding word inserted (25.9.2020) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/296)](https://www.legislation.gov.uk/ssi/2020/296), [regs. 1](https://www.legislation.gov.uk/ssi/2020/296/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2020/296/regulation/2/3/b)
+
+[^key-846091703f4854c710ce587152b71def]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A) heading substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/368/regulation/6/2)
+
+[^key-83dbb9c3447a6f7388180f0f35a6e8b4]: Textual amendment: Words in [reg. 3A](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A) substituted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2023/11/regulation/4/3/a)
+
+[^key-5c8985b4b8a0e62c5ae55cc54a146472]: Textual amendment: Reg. 3A(1)(a)(iiia) inserted (26.1.2015) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/13)](https://www.legislation.gov.uk/ssi/2015/13), [regs. 1](https://www.legislation.gov.uk/ssi/2015/13/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/13/regulation/2/2/a)
+
+[^key-dfbc4b859807eecf5d831618acec1085]: Textual amendment: [Reg. 3A(1)(a)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/1/a)[(iiib)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/1/iiib) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2023/11/regulation/4/3/b)
+
+[^key-906a046ee4e432508a6408fd880979fc]: Textual amendment: Words in [reg. 3A(1)(b)(i)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/1/b/i) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2021/368/regulation/6/3)
+
+[^key-94d9ea8c06323383f96dcd3bd5c6dfa3]: Textual amendment: Words in [reg. 3A(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/1/b/ii) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2021/368/regulation/6/3)
+
+[^key-ac13f279ca6aa9de19f205d90d60546c]: Textual amendment: Reg. 3A(1)(b)(iiia) inserted (26.1.2015) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/13)](https://www.legislation.gov.uk/ssi/2015/13), [regs. 1](https://www.legislation.gov.uk/ssi/2015/13/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/13/regulation/2/2/b)
+
+[^key-53125d35e47689da24e112048f87caa3]: Textual amendment: [Reg. 3A(1)(b)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/1/b)[(iiib)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/1/iiib) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2023/11/regulation/4/3/b)
+
+[^key-422984df5639acd54f42b1ee120f9469]: Textual amendment: [Reg. 3A(1)(e)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/1/e)[(f)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/1/f) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/ssi/2023/11/regulation/4/3/c)
+
+[^key-f6e4edba92c481d21dbe7fd8e841904d]: Textual amendment: Words in [reg. 3A(2)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/2) substituted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(3)(a)(i)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/3/a/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2))
+
+[^key-d36e0e5f0d906a0f2db8d0b91e9c962d]: Textual amendment: Words in [reg. 3A(2)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/2) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/3/a/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2))
+
+[^key-3f5e180a5aa45a9d53bc5970dea1fae0]: Textual amendment: Words in [reg. 3A(3)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/3) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/3/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2))
+
+[^key-d23da7bf3f5bad4aab46ebc7a94b21bb]: Textual amendment: [Reg. 3A(4)-(6)](https://www.legislation.gov.uk/ssi/2003/179/regulation/3A/4) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(3)(c)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/3/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2))
+
+[^key-dae55d1fb865401c6d0d56a28c166a26]: Textual amendment: Reg. 4(2)(a) substituted (12.6.2006) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/345)](https://www.legislation.gov.uk/ssi/2006/345), [regs. 1](https://www.legislation.gov.uk/ssi/2006/345/regulation/1), [3](https://www.legislation.gov.uk/ssi/2006/345/regulation/3)
+
+[^c5120041]: Marginal citation: Section 233 was amended by the [Crime and Punishment (Scotland) Act 1997 (c. 48)](https://www.legislation.gov.uk/ukpga/1997/48), [section 26](https://www.legislation.gov.uk/ukpga/1997/48/section/26) and Schedule 1, paragraph 1.
+
+[^key-95af0714e628e388ef54deaf689ecbd1]: Textual amendment: Reg. 4(2)(fa) inserted (1.2.2011) by [The Advice and Assistance (Assistance By Way of Representation) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/13)](https://www.legislation.gov.uk/ssi/2011/13), [regs. 1](https://www.legislation.gov.uk/ssi/2011/13/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2011/13/regulation/2/a)
+
+[^c5120051]: Marginal citation: Section 234A was inserted by the Protection from [Harassment Act 1997 (c. 40)](https://www.legislation.gov.uk/ukpga/1997/40), [section 11](https://www.legislation.gov.uk/ukpga/1997/40/section/11).
+
+[^c5120061]: Marginal citation: Sections 234E to 234G were inserted by the [Crime and Disorder Act 1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), [sections 92](https://www.legislation.gov.uk/ukpga/1998/37/section/92) and 93.
+
+[^c5120071]: Marginal citation: Sections 245E and 245F were inserted by the [Crime and Punishment (Scotland) Act 1997 (c. 48)](https://www.legislation.gov.uk/ukpga/1997/48), [section 5](https://www.legislation.gov.uk/ukpga/1997/48/section/5).
+
+[^key-175197f4cf635ec0898a31191fddcfdc]: Textual amendment: Reg. 4(2)(j) inserted (1.4.2005) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2005 (S.S.I. 2005/165)](https://www.legislation.gov.uk/ssi/2005/165), [regs. 2](https://www.legislation.gov.uk/ssi/2005/165/regulation/2), [6](https://www.legislation.gov.uk/ssi/2005/165/regulation/6)
+
+[^key-c6c240a75ad014723f0ff8c8a9f128ed]: Textual amendment: Word in reg. 4(3)(fa) inserted (1.2.2011) by [The Advice and Assistance (Assistance By Way of Representation) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/13)](https://www.legislation.gov.uk/ssi/2011/13), [regs. 1](https://www.legislation.gov.uk/ssi/2011/13/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2011/13/regulation/2/b)
+
+[^key-3153221c3fb76992338bcde793d99408]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2003/179/regulation/4A) inserted (25.1.2018) by [The Criminal Legal Assistance (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/466)](https://www.legislation.gov.uk/ssi/2017/466), [regs. 1](https://www.legislation.gov.uk/ssi/2017/466/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2017/466/regulation/7/2)
+
+[^c5120081]: Marginal citation: [1995 c. 43](https://www.legislation.gov.uk/ukpga/1995/43).
+
+[^c5120091]: Marginal citation: Sections 5, 6 and 18 were modified by [S.I. 1999/673](https://www.legislation.gov.uk/uksi/1999/673).
+
+[^c5120101]: Marginal citation: Sections 25, 26, 27 and 45 were modified by [S.I. 1999/675](https://www.legislation.gov.uk/uksi/1999/675).
+
+[^c5120111]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
+
+[^key-3b556098ee750311dd2f58cf1247ac62]: Textual amendment: Regs. 5A, 5B inserted (9.6.2010) by [The Advice and Assistance and Civil Legal Aid (Transfer of Tribunal Functions) (No.2) (Scotland) Regulations 2010 (S.S.I. 2010/239)](https://www.legislation.gov.uk/ssi/2010/239), [regs. 1](https://www.legislation.gov.uk/ssi/2010/239/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2010/239/regulation/4/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2010/239/regulation/2))
+
+[^key-41c83cb2ff7a99bc253e466c91081c38]: Textual amendment: Word in reg. 5A(d)(ix) omitted (29.6.2013) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) Regulations 2013 (S.I. 2013/1389)](https://www.legislation.gov.uk/uksi/2013/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1389/regulation/1/1), [47(a)](https://www.legislation.gov.uk/uksi/2013/1389/regulation/47/a) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1389/schedule/1))
+
+[^key-53483b9218c13cf22cbbacfe17ddafc5]: Textual amendment: Word in reg. 5A(d)(x) omitted (29.6.2013) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) Regulations 2013 (S.I. 2013/1389)](https://www.legislation.gov.uk/uksi/2013/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1389/regulation/1/1), [47(b)](https://www.legislation.gov.uk/uksi/2013/1389/regulation/47/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1389/schedule/1))
+
+[^key-26e27978a21bcb758b7d6704e3e883a8]: Textual amendment: Word in reg. 5A(d)(x) inserted (29.6.2013) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) Regulations 2013 (S.I. 2013/1389)](https://www.legislation.gov.uk/uksi/2013/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1389/regulation/1/1), [47(b)](https://www.legislation.gov.uk/uksi/2013/1389/regulation/47/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1389/schedule/1))
+
+[^key-8440f8a1c6998803081231f0358dd64c]: Textual amendment: Reg. 5A(d)(xi) inserted (29.6.2013) by [The Electricity and Gas (Market Integrity and Transparency) (Enforcement etc.) Regulations 2013 (S.I. 2013/1389)](https://www.legislation.gov.uk/uksi/2013/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1389/regulation/1/1), [47(c)](https://www.legislation.gov.uk/uksi/2013/1389/regulation/47/c) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1389/schedule/1))
+
+[^key-220a2bdb00d0b55b9b54f54ad17491d7]: Textual amendment: Words in reg. 6(1)(a) omitted (1.1.2016) by virtue of [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [sch. para. 8](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/8)
+
+[^c5120121]: Marginal citation: [S.I. 1996/513](https://www.legislation.gov.uk/uksi/1996/513); rule 31.1 was amended by [S.I. 1999/1282](https://www.legislation.gov.uk/uksi/1999/1282).
+
+[^key-dedb333b7d60af521f46be33296d8915]: Textual amendment: Reg. 6(1)(ba) inserted (30.6.2008) by [The Advice and Assistance (Limits, Conditions and Representation) (Scotland) Regulations 2008 (S.S.I. 2008/251)](https://www.legislation.gov.uk/ssi/2008/251), [regs. 1](https://www.legislation.gov.uk/ssi/2008/251/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2008/251/regulation/4/2/a)
+
+[^key-79b4dbf172607e628fb1d31c353736c1]: Textual amendment: Words in reg. 6(1)(ba) substituted (17.12.2014) by [The Criminal Legal Aid (Fixed Payments and Assistance by Way of Representation) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/366)](https://www.legislation.gov.uk/ssi/2014/366), [regs. 1](https://www.legislation.gov.uk/ssi/2014/366/regulation/1), [12](https://www.legislation.gov.uk/ssi/2014/366/regulation/12) (with [reg. 2](https://www.legislation.gov.uk/ssi/2014/366/regulation/2))
+
+[^key-5e09c9c5fce226c1c9543f2e2d9d4f98]: Textual amendment: [Reg. 6(1)(c)](https://www.legislation.gov.uk/ssi/2003/179/regulation/6/1/c) substituted (4.11.2022) by [The Advice and Assistance (Summary Criminal Proceedings) (Miscellaneous Amendment) (Scotland) Regulations 2022 (S.S.I. 2022/292)](https://www.legislation.gov.uk/ssi/2022/292), [regs. 1](https://www.legislation.gov.uk/ssi/2022/292/regulation/1), [4](https://www.legislation.gov.uk/ssi/2022/292/regulation/4)
+
+[^key-bd22bd43725f60a0c3698ae9e5f8c172]: Textual amendment: Reg. 6(2) substituted (12.6.2006) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/345)](https://www.legislation.gov.uk/ssi/2006/345), [regs. 1](https://www.legislation.gov.uk/ssi/2006/345/regulation/1), [4](https://www.legislation.gov.uk/ssi/2006/345/regulation/4)
+
+[^key-5f07f0680e6d96bbf9b3a77a0b505e71]: Textual amendment: Word in reg. 6(2) inserted (30.6.2008) by [The Advice and Assistance (Limits, Conditions and Representation) (Scotland) Regulations 2008 (S.S.I. 2008/251)](https://www.legislation.gov.uk/ssi/2008/251), [regs. 1](https://www.legislation.gov.uk/ssi/2008/251/regulation/1), [4(2)(b)(i)](https://www.legislation.gov.uk/ssi/2008/251/regulation/4/2/b/i)
+
+[^key-e7143b8bda0ae23ff2200e382c854e1f]: Textual amendment: Reg. 6(2)(c) and word omitted (30.6.2008) by virtue of [The Advice and Assistance (Limits, Conditions and Representation) (Scotland) Regulations 2008 (S.S.I. 2008/251)](https://www.legislation.gov.uk/ssi/2008/251), [regs. 1](https://www.legislation.gov.uk/ssi/2008/251/regulation/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2008/251/regulation/4/2/b/ii)
+
+[^key-20fcb2e1a94acea3e4782ff113a47073]: Textual amendment: Regs. 6A, 6B inserted (12.6.2006) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/345)](https://www.legislation.gov.uk/ssi/2006/345), [regs. 1](https://www.legislation.gov.uk/ssi/2006/345/regulation/1), [5](https://www.legislation.gov.uk/ssi/2006/345/regulation/5)
+
+[^key-2d4e97f9fa09ffc267ed969ab5ed8058]: Textual amendment: Words in reg. 6A(1) substituted (30.6.2008) by [The Advice and Assistance (Limits, Conditions and Representation) (Scotland) Regulations 2008 (S.S.I. 2008/251)](https://www.legislation.gov.uk/ssi/2008/251), [regs. 1](https://www.legislation.gov.uk/ssi/2008/251/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2008/251/regulation/4/3/a)
+
+[^key-ba1477bc4d57e817fb3e93dbcdf9d637]: Textual amendment: Regs. 6A(1A)-(1E) revoked (6.6.2011) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/216)](https://www.legislation.gov.uk/ssi/2011/216), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/216/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2011/216/regulation/2/3)
+
+[^key-79344a59b7722264d1d3ccf6de9ae1e3]: Textual amendment: Reg. 6B omitted (30.6.2008) by virtue of [The Advice and Assistance (Limits, Conditions and Representation) (Scotland) Regulations 2008 (S.S.I. 2008/251)](https://www.legislation.gov.uk/ssi/2008/251), [regs. 1](https://www.legislation.gov.uk/ssi/2008/251/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2008/251/regulation/4/4)
+
+[^key-1e11270dad5948b4ed4c2045e1a15606]: Textual amendment: Reg. 7(2A)(2B) substituted for reg. 7(1)(2) (30.6.2008) by [The Advice and Assistance (Limits, Conditions and Representation) (Scotland) Regulations 2008 (S.S.I. 2008/251)](https://www.legislation.gov.uk/ssi/2008/251), [regs. 1](https://www.legislation.gov.uk/ssi/2008/251/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2008/251/regulation/4/5/a)
+
+[^key-80b5c412dfff444f40ba0cab05c61ca2]: Textual amendment: Reg. 7(3) substituted (28.6.2004) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2004 (S.S.I. 2004/307)](https://www.legislation.gov.uk/ssi/2004/307), [regs. 1](https://www.legislation.gov.uk/ssi/2004/307/regulation/1), [4](https://www.legislation.gov.uk/ssi/2004/307/regulation/4)
+
+[^key-af10f009b2998b8b351702f4b81c893f]: Textual amendment: Words in reg. 7(3) substituted (30.6.2008) by [The Advice and Assistance (Limits, Conditions and Representation) (Scotland) Regulations 2008 (S.S.I. 2008/251)](https://www.legislation.gov.uk/ssi/2008/251), [regs. 1](https://www.legislation.gov.uk/ssi/2008/251/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2008/251/regulation/4/5/b)
+
+[^key-c803a7adc844c67b2371754d4eec847e]: Textual amendment: Reg. 9(b) substituted (5.10.2005) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2005 (S.S.I. 2005/482)](https://www.legislation.gov.uk/ssi/2005/482), [regs. 1](https://www.legislation.gov.uk/ssi/2005/482/regulation/1), [6](https://www.legislation.gov.uk/ssi/2005/482/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/482/regulation/2))
+
+[^key-554c039c9dc50271e9d8bf6443f87305]: Textual amendment: Words in [reg. 9(c)](https://www.legislation.gov.uk/ssi/2003/179/regulation/9/c) inserted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2023/313/regulation/7/3)
+
+[^key-052b9653ba3b519005442f2da4a5b186]: Textual amendment: Reg. 9(f) inserted (1.4.2005) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2005 (S.S.I. 2005/165)](https://www.legislation.gov.uk/ssi/2005/165), [regs. 2](https://www.legislation.gov.uk/ssi/2005/165/regulation/2), [7](https://www.legislation.gov.uk/ssi/2005/165/regulation/7)
+
+[^key-fbe707974007aef74d5660fdb8969e48]: Textual amendment: Reg. 9(g) omitted (30.6.2008) by virtue of [The Advice and Assistance (Limits, Conditions and Representation) (Scotland) Regulations 2008 (S.S.I. 2008/251)](https://www.legislation.gov.uk/ssi/2008/251), [regs. 1](https://www.legislation.gov.uk/ssi/2008/251/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2008/251/regulation/4/6)
+
+[^key-03f010d60ab429ff1d638896e0648a0f]: Textual amendment: Reg. 9(h) inserted (26.6.2015) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 3) Regulations 2015 (S.S.I. 2015/279)](https://www.legislation.gov.uk/ssi/2015/279), [regs. 1](https://www.legislation.gov.uk/ssi/2015/279/regulation/1), [2](https://www.legislation.gov.uk/ssi/2015/279/regulation/2)
+
+[^key-d73df2a47a82875916a6a0f9640bfaa4]: Textual amendment: Reg. 9(i) and word inserted (13.9.2017) by [The Advice and Assistance (Proceedings for Recovery of Documents) (Scotland) Regulations 2017 (S.S.I. 2017/291)](https://www.legislation.gov.uk/ssi/2017/291), [regs. 1](https://www.legislation.gov.uk/ssi/2017/291/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2017/291/regulation/5/4/b)
+
+[^key-3002e37ec08c9edbc9158a0e5c0b9cfe]: Textual amendment: Word in reg. 9 omitted (1.7.2020) by virtue of [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/191)](https://www.legislation.gov.uk/ssi/2020/191), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/191/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/ssi/2020/191/regulation/6/3/a)
+
+[^key-4971b6fc23b8e6a79450db1b69bd167f]: Textual amendment: Reg. 9(j) and word substituted for full stop (1.7.2020) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/191)](https://www.legislation.gov.uk/ssi/2020/191), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/191/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/ssi/2020/191/regulation/6/3/b)
+
+[^key-9cc37822c33117ca957df99dcdb329f0]: Textual amendment: Word in [reg. 9(i)](https://www.legislation.gov.uk/ssi/2003/179/regulation/9/i) omitted (25.9.2020) by virtue of [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/296)](https://www.legislation.gov.uk/ssi/2020/296), [regs. 1](https://www.legislation.gov.uk/ssi/2020/296/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/296/regulation/2/4/a)
+
+[^key-1946d7f12092c32b6a80da6e542ac085]: Textual amendment: [Reg. 9(j)](https://www.legislation.gov.uk/ssi/2003/179/regulation/9/j) omitted (1.10.2022) by virtue of [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2022 (S.S.I. 2022/229)](https://www.legislation.gov.uk/ssi/2022/229), [regs. 1](https://www.legislation.gov.uk/ssi/2022/229/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2022/229/regulation/6/3)
+
+[^key-c1e01b0cd0b50f8f4dcd9b248aa3f02b]: Textual amendment: [Reg. 9(k)](https://www.legislation.gov.uk/ssi/2003/179/regulation/9/k) and preceding word inserted (25.9.2020) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/296)](https://www.legislation.gov.uk/ssi/2020/296), [regs. 1](https://www.legislation.gov.uk/ssi/2020/296/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/296/regulation/2/4/b)
+
+[^key-b86f64ffe346224aeff3f08aa0e710c7]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/1) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(4)(a)(i)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/4/a/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2))
+
+[^key-c3c94db9a3db47fa559cae34113bf65e]: Textual amendment: Word in reg. 13(1) inserted (18.3.2011) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/216)](https://www.legislation.gov.uk/ssi/2011/216), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/216/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2011/216/regulation/2/4/a)
+
+[^key-736981ff1bad8d55d8929bf1f59e3aa2]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/1) substituted (25.9.2020) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/296)](https://www.legislation.gov.uk/ssi/2020/296), [regs. 1](https://www.legislation.gov.uk/ssi/2020/296/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2020/296/regulation/2/5/a)
+
+[^key-720d46a240a1e01aea326928891750c3]: Textual amendment: Words in reg. 13(1) inserted (24.6.2013) by virtue of [The Childrens Legal Assistance (Scotland) Regulations 2013 (S.S.I. 2013/200)](https://www.legislation.gov.uk/ssi/2013/200), [regs. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2013/200/regulation/3/4/a)
+
+[^key-6df9a18b6eda50747f1d1da9342ad0c2]: Textual amendment: Words in reg. 13(1) substituted (26.1.2015) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/13)](https://www.legislation.gov.uk/ssi/2015/13), [regs. 1](https://www.legislation.gov.uk/ssi/2015/13/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2015/13/regulation/2/3/a)
+
+[^key-e00b4aea08a06b57bb06949c36b58e49]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/1) omitted (1.6.2026) by virtue of [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/4/a/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2))
+
+[^key-3c51d16f0c39f13881a4b7430d15af8b]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/1) substituted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [4(4)(a)(i)](https://www.legislation.gov.uk/ssi/2023/11/regulation/4/4/a/i)
+
+[^key-4f78517a001b3580edf70a9fe9f603f1]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/1) substituted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [4(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/11/regulation/4/4/a/ii)
+
+[^key-a0a6ac403d56481a593d9b8a35ae13ff]: Textual amendment: Words in reg. 13(1) substituted (25.1.2018) by [The Criminal Legal Assistance (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/466)](https://www.legislation.gov.uk/ssi/2017/466), [regs. 1](https://www.legislation.gov.uk/ssi/2017/466/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2017/466/regulation/7/3/a)
+
+[^key-1743bc5cd413f181d8c0316468c3d233]: Textual amendment: Words in reg. 13(1) substituted (9.6.2010) by [The Advice and Assistance and Civil Legal Aid (Transfer of Tribunal Functions) (No.2) (Scotland) Regulations 2010 (S.S.I. 2010/239)](https://www.legislation.gov.uk/ssi/2010/239), [regs. 1](https://www.legislation.gov.uk/ssi/2010/239/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2010/239/regulation/4/5/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2010/239/regulation/2))
+
+[^key-49801f3b79556037d1d37904dab0f4fc]: Textual amendment: [Reg. 13(1A)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/1A) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/4/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2)) (as amended by [S.S.I. 2026/144](https://www.legislation.gov.uk/ssi/2026/144), [reg. 10](https://www.legislation.gov.uk/ssi/2026/144/regulation/10))
+
+[^key-0397934ba179632f7290fb40b4e85322]: Textual amendment: Words in reg. 13(2) inserted (18.3.2011) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2011 (S.S.I. 2011/216)](https://www.legislation.gov.uk/ssi/2011/216), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/216/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2011/216/regulation/2/4/b)
+
+[^key-cf4d3974f820f78530a368304d5c4da0]: Textual amendment: Reg. 13(3A) inserted (24.6.2013) by [The Childrens Legal Assistance (Scotland) Regulations 2013 (S.S.I. 2013/200)](https://www.legislation.gov.uk/ssi/2013/200), [regs. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2013/200/regulation/3/4/b)
+
+[^key-71e59529233188756adfe6be5bdfc7a7]: Textual amendment: Words in [reg. 13(3A)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/3A) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(4)(c)(i)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/4/c/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2))
+
+[^key-4b878b1236923714444096bba80ce0a3]: Textual amendment: Words in reg. 13(3A) substituted (26.1.2015) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/13)](https://www.legislation.gov.uk/ssi/2015/13), [regs. 1](https://www.legislation.gov.uk/ssi/2015/13/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2015/13/regulation/2/3/b)
+
+[^key-e15b3d8d981141252e69d0f80c4d1792]: Textual amendment: Words in [reg. 13(3A)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/3A) omitted (1.6.2026) by virtue of [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/4/c/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2))
+
+[^key-52b1a76e9fec8917ec2a27720a8dfb2a]: Textual amendment: Words in [reg. 13(3A)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/3A) substituted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [4(4)(b)(i)](https://www.legislation.gov.uk/ssi/2023/11/regulation/4/4/b/i)
+
+[^key-f142a59e283b835ade6319fe31d3e938]: Textual amendment: Words in [reg. 13(3A)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/3A) substituted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [4(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/11/regulation/4/4/b/ii)
+
+[^key-c54b3f361bbfd01da12dd4e00d588b5d]: Textual amendment: Words in [reg. 13(3A)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/3A) omitted (1.6.2026) by virtue of [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [6(4)(c)(iii)](https://www.legislation.gov.uk/ssi/2026/117/regulation/6/4/c/iii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/117/regulation/2))
+
+[^key-8448528c19150dfd7a5298d6c06daf0e]: Textual amendment: Reg. 13(3B) inserted (13.9.2017) by [The Advice and Assistance (Proceedings for Recovery of Documents) (Scotland) Regulations 2017 (S.S.I. 2017/291)](https://www.legislation.gov.uk/ssi/2017/291), [regs. 1](https://www.legislation.gov.uk/ssi/2017/291/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/ssi/2017/291/regulation/5/5/b)
+
+[^key-a7faf2a0406e67cc608628f1ff44aa14]: Textual amendment: Reg. 13(3C)(3D) inserted (25.1.2018) by [The Criminal Legal Assistance (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/466)](https://www.legislation.gov.uk/ssi/2017/466), [regs. 1](https://www.legislation.gov.uk/ssi/2017/466/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2017/466/regulation/7/3/b)
+
+[^key-1de6137c624eb00b162dca2d401b38cc]: Textual amendment: Words in reg. 13(4) substituted (22.12.2006) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment (No. 2) Regulations 2006 (S.S.I. 2006/615)](https://www.legislation.gov.uk/ssi/2006/615), [regs. 1](https://www.legislation.gov.uk/ssi/2006/615/regulation/1), [5](https://www.legislation.gov.uk/ssi/2006/615/regulation/5)
+
+[^key-d995825125550eb65ebb28bcc0d70383]: Textual amendment: Words in reg. 13(4) substituted (9.6.2010) by [The Advice and Assistance and Civil Legal Aid (Transfer of Tribunal Functions) (No.2) (Scotland) Regulations 2010 (S.S.I. 2010/239)](https://www.legislation.gov.uk/ssi/2010/239), [regs. 1](https://www.legislation.gov.uk/ssi/2010/239/regulation/1), [4(5)(b)(i)](https://www.legislation.gov.uk/ssi/2010/239/regulation/4/5/b/i) (with [reg. 2](https://www.legislation.gov.uk/ssi/2010/239/regulation/2))
+
+[^key-be4d60def40e5ed5c6464f184ccd3c73]: Textual amendment: Words in reg. 13(4) inserted (9.6.2010) by [The Advice and Assistance and Civil Legal Aid (Transfer of Tribunal Functions) (No.2) (Scotland) Regulations 2010 (S.S.I. 2010/239)](https://www.legislation.gov.uk/ssi/2010/239), [regs. 1](https://www.legislation.gov.uk/ssi/2010/239/regulation/1), [4(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2010/239/regulation/4/5/b/ii) (with [reg. 2](https://www.legislation.gov.uk/ssi/2010/239/regulation/2))
+
+[^key-0e7248d6ff9dc724d63ea6fed2832ed3]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/5) inserted (25.9.2020) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/296)](https://www.legislation.gov.uk/ssi/2020/296), [regs. 1](https://www.legislation.gov.uk/ssi/2020/296/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2020/296/regulation/2/5/b)
+
+[^key-e5b46411348f8f8f9c186c0fc38404ea]: Textual amendment: Reg. 13(6) inserted (9.6.2010) by [The Advice and Assistance and Civil Legal Aid (Transfer of Tribunal Functions) (No.2) (Scotland) Regulations 2010 (S.S.I. 2010/239)](https://www.legislation.gov.uk/ssi/2010/239), [regs. 1](https://www.legislation.gov.uk/ssi/2010/239/regulation/1), [4(5)(c)](https://www.legislation.gov.uk/ssi/2010/239/regulation/4/5/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2010/239/regulation/2))
+
+[^key-c34b4246710cd21d12f7d4e7e918f75e]: Textual amendment: [Reg. 13(7)](https://www.legislation.gov.uk/ssi/2003/179/regulation/13/7) inserted (25.9.2020) by [The Advice and Assistance (Assistance by Way of Representation) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/296)](https://www.legislation.gov.uk/ssi/2020/296), [regs. 1](https://www.legislation.gov.uk/ssi/2020/296/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2020/296/regulation/2/5/c)
+
+[^key-65ab01440398bfefec120160defc1428]: Textual amendment: Reg. 14 inserted (24.6.2013) by [The Childrens Legal Assistance (Scotland) Regulations 2013 (S.S.I. 2013/200)](https://www.legislation.gov.uk/ssi/2013/200), [regs. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2013/200/regulation/3/5)
+
+[^key-986ee3cacf376c3aa8a747745ca8b376]: Textual amendment: Reg. 14 heading substituted (13.9.2017) by [The Advice and Assistance (Proceedings for Recovery of Documents) (Scotland) Regulations 2017 (S.S.I. 2017/291)](https://www.legislation.gov.uk/ssi/2017/291), [regs. 1](https://www.legislation.gov.uk/ssi/2017/291/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/ssi/2017/291/regulation/5/6/a)
+
+[^key-4c7131f26af3e25688991b4a799213ef]: Textual amendment: Words in reg. 14 inserted (13.9.2017) by [The Advice and Assistance (Proceedings for Recovery of Documents) (Scotland) Regulations 2017 (S.S.I. 2017/291)](https://www.legislation.gov.uk/ssi/2017/291), [regs. 1](https://www.legislation.gov.uk/ssi/2017/291/regulation/1), [5(6)(b)](https://www.legislation.gov.uk/ssi/2017/291/regulation/5/6/b)

@@ -1,0 +1,260 @@
+---
+title: The Registration of Establishments Keeping Laying Hens (Scotland) Regulations 2003
+id: ssi/2003/576
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2003-11-26'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2003/576
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2003/576/pdfs/ssi_20030576_en.pdf
+- http://www.legislation.gov.uk/ssi/2003/576/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Registration of Establishments Keeping Laying Hens (Scotland) Regulations 2003
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2003 No. 576
+
+ANIMALS
+
+The Registration of Establishments Keeping Laying Hens (Scotland) Regulations 2003
+
+Made
+
+26th November 2003
+
+Laid before the Scottish Parliament
+
+27th November 2003
+
+Coming into force
+
+31st December 2003
+
+The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c5135541] and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Registration of Establishments Keeping Laying Hens (Scotland) Regulations 2003 and shall come into force on 31st December 2003.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Interpretation
+
+(1) In these Regulations–
+
+- [^key-0ab514ef6b52830552398e6bb48a5a51]...
+- “**establishment**” means any premises, including land and buildings, at which laying hens are kept;
+- “**laying hens**” means hens of the species *Gallus, gallus* which have reached maturity and are kept for production of eggs not intended for hatching;
+- “local authority” means a council constituted under section 2 of the Local Government[^key-dc65097f10c9e57f58f0144703979c64] etc. (Scotland) Act 1994;
+- “**register**” means the register of establishments kept by the Scottish Ministers by virtue of regulation 4 below.
+
+(2) Any reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication as defined in the Electronic Communications Act 2000 [^c5135571], which has been recorded and is consequently capable of being reproduced.
+
+## 3. Application
+
+These Regulations shall apply to establishments other than–
+
+- (a) those having fewer than 350 laying hens;
+- (b) those rearing breeding laying hens.
+
+## 4. Register of establishments and provision of distinguishing number
+
+(1) The Scottish Ministers shall set up and maintain a register of establishments.
+
+(2)[^key-9162e9bfc141bd9ef44c5a6f5a4c8d4c] The Scottish Ministers shall, within 21 days of receipt of an application which complies with regulation 5(1) below, record the establishment to which the application refers on the register, allocate to that establishment a distinguishing number in accordance with paragraph (4)[^key-062b49efa9d064a2c88bd667a082cf2a], record that number on the register and intimate that number in writing to the owner or keeper who made the application.
+
+(3)[^key-0034eb47f045a85a3f9903a6f83eabe7] Where, prior to 31st December 2003, the Scottish Ministers have allocated a distinguishing number (which meets the requirements of paragraph (4)[^key-bd095c31672cd1c1eb6e1a94e0e7ca88]) to an establishment–
+
+- (a) the Scottish Ministers shall record the establishment and, in relation to that establishment, that number on the register of establishments; and
+- (b) unless that establishment is removed from the register of establishments and the owner or keeper subsequently seeks to re-apply, no further application for registration is required in respect of that establishment.
+
+(4)[^key-bc49fbbe896f5259f297d4f751454985] The distinguishing number must be composed of the appropriate farming method code, determined in accordance with paragraphs (6) to (8), followed by the letters “UK”, followed by a unique identification number allocated to the establishment by the Scottish Ministers.
+
+(5) Where it appears appropriate to the Scottish Ministers to do so, the Scottish Ministers may add further characters to the unique identification number required by paragraph (4), including characters which identify single flocks kept in separate buildings of an establishment.
+
+(6) Except where paragraph (7) applies, when the farming method in column A is used, the appropriate farming method code is the corresponding number in column B.
+
+| *Column A* | *Column B* |
+| --- | --- |
+| Free range | 1 |
+| Barn | 2 |
+| Cages | 3 |
+
+(7) Where the farming method used in the establishment produces eggs under the conditions set out in Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) on organic production and labelling of organic products and repealing Regulation [(EEC) No 2092/91](https://www.legislation.gov.uk/european/regulation/1991/2092), the appropriate farming method code is “0”.
+
+(8) For the purposes of paragraph (6), the farming method used in an establishment is to be determined in accordance with Commission Regulation [(EC) No 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) laying down detailed rules for implementing Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs.
+
+## 5. Procedure for application for registration
+
+(1) An application for registration shall be made in writing by the owner or the keeper of an establishment, in such form as the Scottish Ministers may require and shall contain the information set out in the schedule[^key-328364adaaa0cf30f96762e8b8336145].
+
+(2) Any change to the information submitted in the application for registration under paragraph (1) above shall be notified to the Scottish Ministers by the person who submitted the application for registration in such form as the Scottish Ministers may require within 28 days of the change to that information ; except where that person is no longer the owner or keeper of the establishment, in which case any such change shall be so notified by the person who is the owner or keeper[^key-73d162561312eac5e8f8915dbc9d8955].
+
+## 6. Exchange of information
+
+The Scottish Ministers shall afford access to the register to–
+
+- (a) the Food Standards Scotland[^key-321a7194383e15b79e96cc6d73637cfe] for the purposes of tracing eggs put on the market for human consumption; and
+- (b) local authorities for the purpose of tracing eggs put on the market for human consumption and, where a direction has been made by the Scottish Ministers under regulation 13(2) below, for the purpose of enforcement of these Regulations.
+
+## 7. Removal from Register
+
+(1) If an establishment ceases to be used for the keeping of laying hens, the Scottish Ministers shall remove that establishment from the register and shall notify the person registered as the owner and, where appropriate, the person registered as the keeper of that establishment of their decision to do so.
+
+(2) If a person is required by regulation 5(2) to notify a change of information and fails to do so,[^key-53be1cef54288722e7a6e031f58bf332] the Scottish Ministers may remove the relevant establishment from the register and shall notify the person registered as the owner, and, where appropriate, the person registered as the keeper of that establishment of their decision to do so.
+
+(3)[^key-4afec6e8610e828a631dce1bb3a5ade0] It shall be an offence for a person to use an establishment for the keeping of laying hens following removal of that establishment from the register of establishments unless subsequent to that removal the establishment has been registered in accordance with these Regulations and a distinguishing number has been allocated to that establishment.
+
+## 8. Prohibition on operation or bringing into use of establishments
+
+(1) It shall be an offence for a person to continue to use an establishment for the keeping of laying hens after 31 December 2003 unless an application has been made by that date to the Scottish Ministers for registration in accordance with regulation 5 above in respect of that establishment.
+
+(2) It shall be an offence for a person to commence to use premises as an establishment for the keeping of laying hens after 31 December 2003 unless those premises have been registered in accordance with the provisions of these Regulations, and the Scottish Ministers have allocated to that establishment[^key-aff3fe87565220629b6256bdd8923c9b] a distinguishing number under regulation 4(2) above.
+
+## 9. Review of decisions
+
+(1) Any person affected by any decision made by the Scottish Ministers under these Regulations may, no later than 14 days following the date of that decision, apply in writing to the Scottish Ministers in such form and in such manner as they think fit to have that decision reviewed by persons appointed by the Scottish Ministers, but an application for review under this paragraph shall not have the effect of suspending the decision which is the subject of the application for review.
+
+(2) Where an application is made under paragraph (1) above, the Scottish Ministers shall appoint such persons as they consider appropriate to review the decision and the persons so appointed shall review the decision and may consider any document or evidence produced by the affected person or the Scottish Ministers and may hear any representations from the affected person (in person or through a representative) and on behalf of the Scottish Ministers.
+
+(3) Following that review, the persons appointed under paragraph (2) above shall report to the Scottish Ministers with their findings on the matter and their recommendations as to the determination of the application for review and the Scottish Ministers may, having considered that report–
+
+- (a) confirm their decision;
+- (b) amend their decision in any respect; or
+- (c) revoke their decision in its entirety and, if appropriate, substitute a new decision.
+
+(4) In coming to a decision in accordance with paragraph (3) above, the Scottish Ministers must have regard to the finding and recommendation reported to them by the persons appointed under paragraph (2) above and give their decision in writing.
+
+## 10. Powers of authorised officers
+
+(1) An officer authorised by the Scottish Ministers or a local authority subject to a direction of the Scottish Ministers under regulation 13(2) below shall, on producing if required to do so some duly authenticated document showing the authority of that officer, have the right at all reasonable hours to enter any land or premises (other than dwelling houses not being used in connection with these Regulations) for the purposes of ascertaining whether there is or has been on or in respect of the land or premises any contravention of these Regulations.
+
+(2) Such an officer shall have powers to carry out all checks and examinations necessary for the enforcement of these Regulations, and in particular may examine documentary or data processing material.
+
+## 11. Obstruction, reasonable assistance and information
+
+(1) Any person who–
+
+- (a) intentionally obstructs any person acting in the execution of these Regulations;
+- (b) without reasonable cause, fails to give to any person acting in the execution of these Regulations any assistance or information which that person may reasonably require for the purpose of carrying out the functions of that person under these Regulations;
+- (c) furnishes to any person acting in the execution of these Regulations any information which is known to be false or misleading in a material particular; or
+- (d) fails to produce a record when required to do so by any person acting in the execution of these Regulations,
+
+shall be guilty of an offence.
+
+(2) Nothing in paragraph (1)(b) above shall be construed as requiring any person to answer any question or give any information if to do so might incriminate that person.
+
+## 12. Penalties and offences by bodies corporate
+
+(1)[^key-00e56190e4123b5c243a8f043c1e78ba] A person guilty of an offence under these Regulations, except regulation 11, shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(1A) A person guilty of an offence under regulation 11 shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Where an offence under these Regulations is committed by a body corporate or a partnership and is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of any director, manager, secretary or similar officer of the body corporate, or any person who was purporting to act in any such capacity (or in the case of a partnership, a partner or a person who was purporting to act as such), that officer or person as well as the body corporate or the partnership, as the case may be, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(3) Where the affairs of a body corporate are managed by its members, the provisions of paragraph (2) above shall apply in relation to the acts and defaults of a member in connection with the members' functions of management as if the member were a director of the body corporate.
+
+## 13. Enforcement
+
+(1) Subject to paragraph (2) below, these Regulations shall be enforced by the Scottish Ministers.
+
+(2) The Scottish Ministers may direct, in relation to cases of a particular description or a particular case, that any duty imposed on them under paragraph (1) above shall be discharged by a local authority.
+
+ROSS FINNIE
+
+A member of the Scottish Executive
+
+Edinburgh
+
+## SCHEDULE — Information required for registration of each establishment[^key-01f58a93cddefb18e2e7ac4ebb00774f]
+
+Regulation 5(1)
+
+**1.** In respect of the establishment—
+
+- (a) the name of the establishment, and
+- (b) the address of the establishment.
+
+**2.** In respect of the natural person responsible for the laying hens (“**the keeper**”)—
+
+- (a) the name of the keeper,
+- (b) the address of the keeper, and
+- (c) where the keeper is the owner or keeper of any other establishment registered under these Regulations, the registration number of each such establishment.
+
+**3.** In respect of the owner of the establishment, if different from the keeper—
+
+- (a) the name of the owner,
+- (b) the address of the owner, and
+- (c) where the owner is the owner or keeper of any other establishment registered under these Regulations, the registration number of each such establishment.
+
+**4.** In respect of further information on the establishment—
+
+- (a) the farming method or methods used, according to the definitions in regulation 4(6) to (8) of these Regulations, and
+- (b) the maximum capacity of the establishment in number of birds present at one time, and if different farming methods are used, the maximum number of birds present at one time per farming method.
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement for Scotland Commission Directive [2002/4/EC](https://www.legislation.gov.uk/european/directive/2002/0004) on the registration of establishments keeping laying hens, covered by Council Directive [1999/74/EC](https://www.legislation.gov.uk/european/directive/1999/0074).
+
+The Regulations apply to establishments keeping 350 or more laying hens, other than those rearing breeding laying hens (regulation 3). The Scottish Ministers are required to set-up and maintain a register of such establishments recording the details listed in the Schedule and to allocate a distinguishing number to each establishment (regulation 4). Keepers and owners of establishments shall apply for registration and must supply to the Scottish Ministers with the appropriate information (regulation 5(1)). Changes to that information must be notified to the Scottish Ministers (regulation 5(2)).
+
+The information in the register will be made available to the Food Standards Agency and local authorities where this is necessary to trace eggs put on the market for human consumption (regulation 6). Local authorities will also have access to the register for the purpose of enforcement of the Regulations.
+
+Scottish Ministers will remove from the register any establishment which no longer keeps laying hens (regulation 7).
+
+Establishments may not continue in operation after these Regulations come into force if an application for registration has not been made by that date, and new establishments may not be brought into operation after that date until a distinguishing number has been communicated (regulation 8).
+
+Regulation 9 affords any person affected by a decision of the Scottish Ministers under these Regulations with an opportunity to apply for a review of the decision.
+
+Regulations 10 to 13 create offences and provide for enforcement.
+
+No Regulatory Impact Assessment has been prepared in respect of these Regulations.
+
+## Annotations
+
+[^c5135541]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^key-0ab514ef6b52830552398e6bb48a5a51]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/576/regulation/2/1) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2019/347/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dc65097f10c9e57f58f0144703979c64]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/576/regulation/2/1) inserted (1.3.2004) by [The Registration of Establishments Keeping Laying Hens (Scotland) Amendment Regulations 2004 (S.S.I. 2004/27)](https://www.legislation.gov.uk/ssi/2004/27), [regs. 1](https://www.legislation.gov.uk/ssi/2004/27/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2004/27/regulation/2/2)
+
+[^c5135571]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-9162e9bfc141bd9ef44c5a6f5a4c8d4c]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/ssi/2003/576/regulation/4/2) substituted (1.3.2004) by [The Registration of Establishments Keeping Laying Hens (Scotland) Amendment Regulations 2004 (S.S.I. 2004/27)](https://www.legislation.gov.uk/ssi/2004/27), [regs. 1](https://www.legislation.gov.uk/ssi/2004/27/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2004/27/regulation/2/3/a)
+
+[^key-062b49efa9d064a2c88bd667a082cf2a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2003/576/regulation/4/2) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0034eb47f045a85a3f9903a6f83eabe7]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/ssi/2003/576/regulation/4/3) inserted (1.3.2004) by [The Registration of Establishments Keeping Laying Hens (Scotland) Amendment Regulations 2004 (S.S.I. 2004/27)](https://www.legislation.gov.uk/ssi/2004/27), [regs. 1](https://www.legislation.gov.uk/ssi/2004/27/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2004/27/regulation/2/3/b)
+
+[^key-bd095c31672cd1c1eb6e1a94e0e7ca88]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/ssi/2003/576/regulation/4/3) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/347/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bc49fbbe896f5259f297d4f751454985]: Textual amendment: [Reg. 4(4)-(8)](https://www.legislation.gov.uk/ssi/2003/576/regulation/4/4) inserted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/ssi/2019/347/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-328364adaaa0cf30f96762e8b8336145]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2003/576/regulation/5/1) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [2(4)](https://www.legislation.gov.uk/ssi/2019/347/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-73d162561312eac5e8f8915dbc9d8955]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2003/576/regulation/5/2) inserted (1.3.2004) by [The Registration of Establishments Keeping Laying Hens (Scotland) Amendment Regulations 2004 (S.S.I. 2004/27)](https://www.legislation.gov.uk/ssi/2004/27), [regs. 1](https://www.legislation.gov.uk/ssi/2004/27/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2004/27/regulation/2/4)
+
+[^key-321a7194383e15b79e96cc6d73637cfe]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/ssi/2003/576/regulation/6/a) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 9](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/9)
+
+[^key-53be1cef54288722e7a6e031f58bf332]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/ssi/2003/576/regulation/7/2) substituted (1.3.2004) by [The Registration of Establishments Keeping Laying Hens (Scotland) Amendment Regulations 2004 (S.S.I. 2004/27)](https://www.legislation.gov.uk/ssi/2004/27), [regs. 1](https://www.legislation.gov.uk/ssi/2004/27/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2004/27/regulation/2/5/a)
+
+[^key-4afec6e8610e828a631dce1bb3a5ade0]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/ssi/2003/576/regulation/7/3) inserted (1.3.2004) by [The Registration of Establishments Keeping Laying Hens (Scotland) Amendment Regulations 2004 (S.S.I. 2004/27)](https://www.legislation.gov.uk/ssi/2004/27), [regs. 1](https://www.legislation.gov.uk/ssi/2004/27/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2004/27/regulation/2/5/b)
+
+[^key-aff3fe87565220629b6256bdd8923c9b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2003/576/regulation/8/2) substituted (1.3.2004) by [The Registration of Establishments Keeping Laying Hens (Scotland) Amendment Regulations 2004 (S.S.I. 2004/27)](https://www.legislation.gov.uk/ssi/2004/27), [regs. 1](https://www.legislation.gov.uk/ssi/2004/27/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2004/27/regulation/2/6)
+
+[^key-00e56190e4123b5c243a8f043c1e78ba]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/ssi/2003/576/regulation/12/1)[(1A)](https://www.legislation.gov.uk/ssi/2003/576/regulation/12/1A) substituted for [reg. 12(1)](https://www.legislation.gov.uk/ssi/2003/576/regulation/12/1) (1.3.2004) by [The Registration of Establishments Keeping Laying Hens (Scotland) Amendment Regulations 2004 (S.S.I. 2004/27)](https://www.legislation.gov.uk/ssi/2004/27), [regs. 1](https://www.legislation.gov.uk/ssi/2004/27/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2004/27/regulation/2/7)
+
+[^key-01f58a93cddefb18e2e7ac4ebb00774f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2003/576/schedule) inserted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [sch.](https://www.legislation.gov.uk/ssi/2019/347/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

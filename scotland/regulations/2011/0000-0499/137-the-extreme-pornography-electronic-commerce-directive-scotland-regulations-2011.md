@@ -1,0 +1,164 @@
+---
+title: The Extreme Pornography (Electronic Commerce Directive) (Scotland) Regulations 2011
+id: ssi/2011/137
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2011-02-21'
+text_date: '2026-05-07'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/137
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/137/pdfs/ssi_20110137_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/137/data.pdf
+pending_changes: 6
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Extreme Pornography (Electronic Commerce Directive) (Scotland) Regulations 2011
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-05-07. See https://www.legislation.gov.uk/changes/affected/ssi/2011/137
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 137
+
+Criminal Law
+
+Electronic Communications
+
+The Extreme Pornography (Electronic Commerce Directive) (Scotland) Regulations 2011
+
+Made
+
+21st February 2011
+
+Laid before the Scottish Parliament
+
+23rd February 2011
+
+Coming into force
+
+28th March 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c20716061] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Extreme Pornography (Electronic Commerce Directive) (Scotland) Regulations 2011 and come into force on 28th March 2011.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1982 Act**” means the Civic Government (Scotland) Act 1982 [^c20716071];
+- “**the Directive**” means Directive [2000/31/EC](https://www.legislation.gov.uk/european/directive/2000/0031) of the European Parliament and of the Council of 8th June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce) [^c20716081];
+- “information society services”—
+  - (a) has the meaning given in Article 2(a) of the Directive (which refers to Article 1(2) of Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and of the Council of 22nd June 1988 laying down a procedure for the provision of information in the field of technical standards and regulations [^c20716091]); and
+  - (b) is summarised in recital 17 of the Directive as covering “any service normally provided for remuneration, at a distance, by means of electronic equipment for the processing (including digital compression) and storage of data, and at the individual request of a recipient of a service”;
+- “**recipient of the service**” means any person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible;
+- “**relevant offence**” means an offence under section 51A of the 1982 Act (extreme pornography) [^c20716101];
+- “**service provider**” means a person providing an information society service.
+
+(2)[^key-7dc6a98e2a6a3112847b1b3cd46ae9aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-39f204b27051f7c44a3e56798cd3ccdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Non-UK service providers: restriction on institution of proceedings[^key-c82d2e5726d494c8def6de0579fedaf2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Exception for mere conduits
+
+(1) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in—
+
+- (a) the provision of access to a communication network; or
+- (b) the transmission in a communication network of information provided by a recipient of the service,
+
+if the transmission condition is satisfied.
+
+(2) The transmission condition is that the service provider does not—
+
+- (a) initiate the transmission;
+- (b) select the recipient of the transmission; and[^key-c93c36dd41b2ea2766b77dee79f8b17d]
+- (c) select or modify the information contained in the transmission.
+
+(3) Paragraph (1)(b) does not apply if the information is information to which regulation 5 applies.
+
+(4) For the purposes of this regulation, the provision of access to a communication network and the transmission of information in the network includes the automatic, intermediate and transient storage of information for the purpose of carrying out the transmission in the network.
+
+(5) Paragraph (4) does not apply if the information is stored for longer than is reasonably necessary for the transmission.
+
+## 5. Exception for caching
+
+(1) This regulation applies to information which—
+
+- (a) is provided by a recipient of the service; and
+- (b) is the subject of automatic, intermediate and temporary storage which is solely for the purpose of making the onward transmission of the information to other recipients of the service at their request more efficient.
+
+(2) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in the transmission in a communication network of information to which this regulation applies if—
+
+- (a) the service provider does not modify the information;
+- (b) the service provider complies with any conditions attached to having access to the information;
+- (c) in a case to which paragraph (3) applies, the service provider expeditiously removes the information or disables access to it.
+
+(3) This paragraph applies if the service provider obtains actual knowledge that—
+
+- (a) the information at the initial source of the transmission has been removed from the network;
+- (b) access to such information has been disabled; or
+- (c) a court or administrative authority has ordered the removal from the network of, or the disablement of access to, such information.
+
+## 6. Exception for hosting
+
+(1) A service provider is not capable of being guilty of a relevant offence in respect of anything done in the course of providing so much of an information society service as consists in the storage of information provided by a recipient of the service if—
+
+- (a) the service provider had no actual knowledge when the information was provided that it contained offending material; or
+- (b) on obtaining actual knowledge that the information contained offending material, the service provider expeditiously removed the information or disabled access to it.
+
+(2) “**Offending material**” means material the possession of which constitutes a relevant offence.
+
+(3) Paragraph (1) does not apply if the recipient of the service is acting under the authority or control of the service provider.
+
+KENNY MACASKILL
+
+A member of the Scottish Executive
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations give effect to Directive [2000/31/EC](https://www.legislation.gov.uk/european/directive/2000/0031) of the European Parliament and of the Council of 8th June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce) (“**the Directive**”) in relation to the offence of possessing an extreme pornographic image. This offence is contained in section 51A of the Civic Government (Scotland) Act 1982 (“section 51A of the 1982 Act”).
+
+The Directive (which has been incorporated into the EEA agreement) seeks to contribute to the proper functioning of the internal market by ensuring the free movement of information society services (“ISS”) between EEA states. In particular, Articles 12 to 14 require EEA states to limit, in specified circumstances, the liability of intermediary ISS providers when they provide mere conduit, caching or hosting services.
+
+Regulation 3 means that service providers who are established in an EEA state other than the UK can only be prosecuted for this offence where the conditions laid down in Article 3(4) of the Directive are satisfied.
+
+Regulations 4, 5 and 6 create exceptions from liability for the offence under section 51A of the 1982 Act for intermediary ISS providers when they provide mere conduit, caching or hosting services in the circumstances specified by Articles 12 to 14 of the Directive.
+
+## Annotations
+
+[^c20716061]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by paragraph 15(3) of Schedule 8 to the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [section 27(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/27/1) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The functions conferred on a Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, were transferred to Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^c20716071]: Marginal citation: [1982 c.64](https://www.legislation.gov.uk/ukpga/1982/64).
+
+[^c20716081]: Marginal citation: O.J. No. L 178, 17.7.2000, p.1. The Directive has been incorporated into the EEA agreement by Decision 91/2000 of the EEA Joint Committee (O.J. No. L 7, 11.1.2001, p.13).
+
+[^c20716091]: Marginal citation: O.J. No. L 24, 21.7.1998, p.37, as amended by Directive 98/48/EC (O.J. No. L 217, 5.8.1998, p.18); there are other amendments but none are relevant.
+
+[^c20716101]: Marginal citation: [Section 51A](https://www.legislation.gov.uk/ssi/2011/137/section/51A) to C were inserted into the 1982 Act by section 42(2) of the [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13).
+
+[^key-7dc6a98e2a6a3112847b1b3cd46ae9aa]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2011/137/regulation/2/2) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/4/2)
+
+[^key-39f204b27051f7c44a3e56798cd3ccdb]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2011/137/regulation/2/3) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/4/2)
+
+[^key-c82d2e5726d494c8def6de0579fedaf2]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/137/regulation/3) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/407/regulation/4/3)
+
+[^key-c93c36dd41b2ea2766b77dee79f8b17d]: Textual amendment: Word in [reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2011/137/regulation/4/2/b) substituted (28.3.2011) by [The Extreme Pornography (Electronic Commerce Directive) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/170)](https://www.legislation.gov.uk/ssi/2011/170), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/170/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2011/170/regulation/3)

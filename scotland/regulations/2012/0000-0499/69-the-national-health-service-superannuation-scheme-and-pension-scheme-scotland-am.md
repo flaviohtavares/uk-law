@@ -1,0 +1,174 @@
+---
+title: The National Health Service (Superannuation Scheme and Pension Scheme) (Scotland) Amendment Regulations 2012
+id: ssi/2012/69
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-02-28'
+text_date: '2013-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2012/69
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2012/69/pdfs/ssien_20120069_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/69/pdfs/ssi_20120069_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/69/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Superannuation Scheme and Pension Scheme) (Scotland) Amendment Regulations 2012
+
+> Text as at 2013-07-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2012 No. 69
+
+National Health Service
+
+The National Health Service (Superannuation Scheme and Pension Scheme) (Scotland) Amendment Regulations 2012
+
+Made
+
+28th February 2012
+
+Laid before the Scottish Parliament
+
+1st March 2012
+
+Coming into force
+
+1st April 2012
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 10 of, and Schedule 3 to, the Superannuation Act 1972[^f00001], and of all other powers enabling them to do so.
+
+In accordance with section 10(1) of that Act, these Regulations are made with the consent of the Treasury[^f00002].
+
+In accordance with section 10(4) of that Act, the Scottish Ministers have consulted with such representatives of persons likely to be affected by these Regulations as appear to them to be appropriate.
+
+## PART 1 — General
+
+### 1. Citation, commencement and effect[^key-c45068a379523ec30da57189f7ca4b7d]
+
+(1) These Regulations may be cited as the National Health Service (Superannuation Scheme and Pension Scheme) (Scotland) Amendment Regulations 2012.
+
+(2) These Regulations come into force on 1st April 2012.
+
+## PART 2 — Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 2011
+
+**2.**[^key-6befbf415785c74bccccc368638f7d3c] The National Health Service Superannuation Scheme (Scotland) Regulations 2011[^f00003] are amended in accordance with this Part.
+
+**3.**[^key-71a584afdc722919a93be6163de5bf18] In regulation D1 (contribution by members)—
+
+- (a) for paragraph (2) substitute—
+
+  > (2) A member whose pensionable pay falls into a pay band specified in column 1 of the table below must contribute the percentage of the member’s pensionable pay specified in column 2 of that table in respect of that amount.
+  >
+  > Scheme Year 2012-2013
+  >
+  > | *Column 1*<br>*Pensionable Pay band* | *Column 2*<br>*Contribution percentage rate* |
+  > | --- | --- |
+  > | Up to £15,000 | 5% |
+  > | £15,001 to £21,175 | 5% |
+  > | £21,176 to £26,557 | 6.5% |
+  > | £26,558 to £48,982 | 8% |
+  > | £48,983 to £69,931 | 8.9% |
+  > | £69,932 to £110,273 | 9.9% |
+  > | £110,274 to any higher amount | 10.9% |
+- (b) in paragraph (3) for the “relevant table “ substitute “table in paragraph (2)”;
+- (c) in paragraph (5) omit sub-paragraph (c); and
+- (d) in paragraphs (8) to (21) and (25), for “relevant table” substitute “table in paragraph (2)”.
+
+**4.**[^key-dcf15a1a4e7340de4dbf4eef74882bfd] In paragraph 14 of Schedule 1 (contributions to this section of the scheme) for sub‑paragraph (2) substitute—
+
+> (2) For the purposes of this paragraph, the “relevant table” means—
+>
+> - (a) in respect of the 2010-2011 and the 2011-2012 scheme years, table 1;
+> - (b) in respect of the 2012-2013 scheme year, table 2.
+>
+>   Table 1
+>
+>   Scheme Years 2010-2011 and 2011-2012
+>
+>   | *Column 1*<br>*Pensionable earnings band* | *Column 2*<br>*Contribution percentage rate* |
+>   | --- | --- |
+>   | Up to £21,175 | 5% |
+>   | £21,176 to £69,931 | 6.5% |
+>   | £69,932 to £110,273 | 7.5% |
+>   | £110,274 to any higher amount | 8.5% |
+>
+>   Table 2
+>
+>   Scheme Year 2012-2013
+>
+>   | *Column 1*<br>*Pensionable earnings band* | *Column 2*<br>*Contribution percentage rate* |
+>   | --- | --- |
+>   | Up to £15,000 | 5% |
+>   | £15,001 to £21,175 | 5% |
+>   | £21,176 to £26,557 | 6.5% |
+>   | £26,558 to £48,982 | 8% |
+>   | £48,983 to £69,931 | 8.9% |
+>   | £69,932 to £110,273 | 9.9% |
+>   | £110,274 to any higher amount | 10.9% |
+
+## PART 3 — Amendment of the National Health Service Pension Scheme(Scotland) Regulations 2008
+
+**5.**[^key-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-308ef4766cbf690d2537b57d6b42ff78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+JOHN SWINNEY
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+23rd February 2012
+
+We consent
+
+MICHAEL FABRICANT
+
+ANGELA WATKINSON
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+28th February 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations further amend the National Health Service Superannuation Scheme (Scotland)Regulations 2011 (“the 1995 Section”) and the National Health Service Pension Scheme (Scotland) Regulations 2008 (“the 2008 Section”).
+
+These Regulations amend various provisions of the 1995 and 2008 Section Regulations to provide for changes to pensionable pay bands or earnings bands and employee contribution percentage rates for the 2012 Scheme Year which is the period of one year beginning on 1st April 2012 and ending on 31st March 2013.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11). Section 10 was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) sections 4(2), 8(5) and (6), the Pension Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), Schedule 8, paragraph 7 and the Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 ([S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)), article 108. The functions of the Secretary of State, in or as regards Scotland, were transferred to Scottish Ministers by virtue of article 2 of and Schedule 1 to the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
+
+[^f00002]: Footnote: See the Superannuation Act 1972, section 10(1). This function was transferred to the Treasury by virtue of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)), article 2 and is still exercisable by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and Schedule 1.
+
+[^key-c45068a379523ec30da57189f7ca4b7d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/69/regulation/1) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
+
+[^key-6befbf415785c74bccccc368638f7d3c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/69/regulation/2) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
+
+[^f00003]: Footnote: )[S.S.I. 2011/117](https://www.legislation.gov.uk/ssi/2011/117) as amended by [S.S.I. 2011/173](https://www.legislation.gov.uk/ssi/2011/173) and [364](https://www.legislation.gov.uk/ssi/2011/364).
+
+[^key-71a584afdc722919a93be6163de5bf18]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/69/regulation/3) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
+
+[^key-dcf15a1a4e7340de4dbf4eef74882bfd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/69/regulation/4) in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/69/regulation/1/2)
+
+[^key-308ef4766cbf690d2537b57d6b42ff78]: Textual amendment: [Regs. 5-9](https://www.legislation.gov.uk/ssi/2012/69/regulation/5) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/1/chapter/1.A/regulation/1n1), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/5/chapter/5.B/regulation/5))

@@ -1,0 +1,48 @@
+---
+title: Arbitration (Scotland) Act 2010, section 31
+act: Arbitration (Scotland) Act 2010
+section: '31'
+status: revised-with-pending-changes
+text_date: '2023-11-24'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2010/1/section/31
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Arbitration (Scotland) Act 2010, section 31
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2023-11-24. See https://www.legislation.gov.uk/changes/affected/asp/2010/1
+>
+> Extent: Scotland.
+
+## 31. Interpretation
+
+*Extent: S*
+
+(1) In this Act, unless the contrary intention appears—
+
+- “**arbitral appointments referee**” means a person authorised under section 24,
+- “**arbitration**” has the meaning given by section 2,
+- “**arbitration agreement**” has the meaning given by section 4,
+- “**arbitrator**” has the meaning given by section 2,
+- “**claim**” includes counterclaim,
+- “**Convention award**” has the meaning given by section 18,
+- “**court**” means the Outer House or the sheriff (except in sections 1, 3, 10, 13 and 15, where it means any court),
+- “**default rule**” has the meaning given by section 9(1),
+- “**dispute**” has the meaning given by section 2,
+- “**Inner House**” means the Inner House of the Court of Session,
+- “**mandatory rule**” has the meaning given by section 8,
+- “**Ministers**” means the Scottish Ministers,
+- “**New York Convention**” means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted by the United Nations Conference on International Commercial Arbitration on 10 June 1958,
+- “**Outer House**” means the Outer House of the Court of Session,
+- “**party**” is to be construed in accordance with section 2 and subsection (2) below,
+- “**rule**” means one of the Scottish Arbitration Rules,
+- “**Scottish Arbitration Rules**” means the rules set out in schedule 1,
+- “**seated in Scotland**” has the meaning given by section 3,
+- “**statutory arbitration**” has the meaning given by section 16(1),
+- “**tribunal**” has the meaning given by section 2,
+- “**UNCITRAL Arbitration Rules**” means the arbitration rules adopted by UNCITRAL on 28 April 1976, and
+- “**UNCITRAL Model Law**” means the UNCITRAL Model Law on International Commercial Arbitration as adopted by the United Nations Commission on International Trade Law on 21 June 1985 (as amended in 2006).
+
+(2) This Act applies in relation to arbitrations and disputes between three or more parties as it applies in relation to arbitrations and disputes between two parties (with references to both parties being read in such cases as references to all the parties).

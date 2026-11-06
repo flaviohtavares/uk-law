@@ -1,0 +1,82 @@
+---
+title: Children's Hearings (Scotland) Act 2011, section 83
+act: Children's Hearings (Scotland) Act 2011
+section: '83'
+status: revised-with-pending-changes
+text_date: '2026-03-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2011/1/section/83
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children's Hearings (Scotland) Act 2011, section 83
+
+> **Warning: changes not yet applied to this text (266).** Text as at 2026-03-30. See https://www.legislation.gov.uk/changes/affected/asp/2011/1
+>
+> Extent: Scotland.
+
+## 83. Meaning of “compulsory supervision order”[^key-ad7880cdc6cf16990d5edd67658821e8]
+
+*Extent: S*
+
+(1) In this Act, “**compulsory supervision order**”, in relation to a child, means an order—
+
+- (a) including any of the measures mentioned in subsection (2),
+- (b) specifying a local authority which is to be responsible for giving effect to the measures included in the order (the “implementation authority”), and
+- (c) having effect for the relevant period.
+
+(2) The measures are—
+
+- (a) a requirement that the child reside at a specified place,
+- (b) a direction authorising the person who is in charge of a place specified under paragraph (a) to restrict the child's liberty to the extent that the person considers appropriate having regard to the measures included in the order,
+- (c) a prohibition on the disclosure (whether directly or indirectly) of a place specified under paragraph (a),
+- (d) a movement restriction condition,
+- (e) a secure accommodation authorisation,
+- (f) subject to section 186, a requirement that the implementation authority arrange—
+  - (i) a specified medical or other examination of the child, or
+  - (ii) specified medical or other treatment for the child,
+- (g) a direction regulating contact between the child and a specified person or class of person,
+- (h) a requirement that the child comply with any other specified condition,
+- (i) a requirement that the implementation authority carry out specified duties in relation to the child.
+
+(3)[^key-19ed9c198a88d7fb869b2652599f0715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A compulsory supervision order may include a movement restriction condition only if—
+
+- (a) one or more of the conditions mentioned in subsection (6) applies, and
+- (b) the children's hearing or, as the case may be, the sheriff is satisfied that it is necessary to include a movement restriction condition in the order.
+
+(5) A compulsory supervision order may include a secure accommodation authorisation only if—
+
+- (a) the order contains a requirement of the type mentioned in subsection (2)(a) which requires the child to reside at—
+  - (i) a residential establishment which contains both secure accommodation and accommodation which is not secure accommodation, or
+  - (ii) two or more residential establishments, one of which contains accommodation which is not secure accommodation,
+- (b) one or more of the conditions mentioned in subsection (6) applies, and
+- (c) having considered the other options available (including a movement restriction condition) the children's hearing or, as the case may be, the sheriff is satisfied that it is necessary to include a secure accommodation authorisation in the order.
+
+(6) The conditions are—
+
+- (a) that the child has previously absconded and is likely to abscond again and, if the child were to abscond, it is likely that the child's physical, mental or moral welfare would be at risk,
+- (b) that the child is likely to engage in self-harming conduct,
+- (c) that the child is likely to cause injury to another person.
+
+(7) In subsection (1), “**relevant period**” means the period beginning with the making of the order and ending with—
+
+- (a) where the order has not been continued, whichever of the following first occurs—
+  - (i) the day one year after the day on which the order is made,
+  - (ii) the day on which the child attains the age of 18 years,
+- (b) where the order has been continued, whichever of the following first occurs—
+  - (i) the end of the period for which the order was last continued,
+  - (ii) the day on which the child attains the age of 18 years.
+
+(8) In subsection (2)—
+
+- “**medical**” includes psychological,
+- “**specified**” means specified in the order.
+
+## Annotations
+
+[^key-ad7880cdc6cf16990d5edd67658821e8]: Commencement: S. 83 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+
+[^key-19ed9c198a88d7fb869b2652599f0715]: Textual amendment: S. 83(3) repealed (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)

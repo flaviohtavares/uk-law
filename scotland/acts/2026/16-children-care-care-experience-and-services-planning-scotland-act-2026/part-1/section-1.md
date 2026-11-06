@@ -1,0 +1,75 @@
+---
+title: Children (Care, Care Experience and Services Planning) (Scotland) Act 2026, section 1
+act: Children (Care, Care Experience and Services Planning) (Scotland) Act 2026
+section: '1'
+status: not-yet-in-force
+text_date: '2026-09-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2026/16/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children (Care, Care Experience and Services Planning) (Scotland) Act 2026, section 1
+
+> This provision is not yet in force.
+>
+> Extent: Scotland.
+
+## 1. Aftercare[^key-4d2e40a0574aca74c6b6b7fd5d6175c6]
+
+*Extent: S*
+
+**Not yet in force.**
+
+(1) The responsible local authority in relation to a person must, unless satisfied that the person’s welfare does not require it, provide advice, guidance and assistance to the person if—
+
+- (a) the person falls within subsection (2), or
+- (b) the person—
+  - (i) falls within subsection (3), and
+  - (ii) has made an application to the authority requesting that the authority provide the person with advice, guidance and assistance under this subsection.
+
+(2) The person falls within this subsection if the person—
+
+- (a) is aged 16, 17 or 18,
+- (b) ceased to be looked after by the responsible local authority on or after the person’s 16th birthday, and
+- (c) has not, since ceasing to be looked after by the responsible local authority, been looked after elsewhere in the UK.
+
+(3) The person falls within this subsection if—
+
+- (a) the person’s 16th birthday is on or after the date on which this section comes into force, and
+- (b) the person—
+  - (i) is aged 16, 17 or 18,
+  - (ii) was, at any time before the person’s 16th birthday, looked after by the responsible local authority, and
+  - (iii) has not, since ceasing to be looked after by the responsible local authority, been looked after elsewhere in the UK.
+
+(4) Subsection (5) applies in relation to a person who—
+
+- (a) falls within subsection (6), and
+- (b) has made an application to the responsible authority in relation to the person requesting that the authority provide the person with advice, guidance and assistance under subsection (5).
+
+(5) The responsible local authority in relation to the person—
+
+- (a) must, if satisfied that the person has eligible needs which cannot be met other than by taking action under this subsection, provide the person with such advice, guidance and assistance as the authority considers necessary for the purpose of meeting those needs,
+- (b) otherwise, may provide under this subsection such advice, guidance and assistance as the authority considers appropriate having regard to the person’s welfare.
+
+(6) A person falls within this subsection if the person—
+
+- (a) is aged 19 to 25, and
+- (b) fell within subsection (2) or (3) on the day before the person’s 19th birthday.
+
+(7) For the purposes of subsection (5)(a), a person has “eligible needs” if the person needs care, attention or support of such type as the Scottish Ministers may by regulations specify.
+
+(8) A local authority may (but is not required to) continue to provide advice, guidance and assistance to a person in pursuance of subsection (5) after the person reaches the age of 26.
+
+(9) A person is not to be provided with advice, guidance and assistance under subsection (1) or (5) (including by virtue of subsection (8)) in respect of any time when the person is being provided with continuing care under section 26A of the Children (Scotland) Act 1995.
+
+(10) The Scottish Ministers may by regulations amend this section to provide that specified descriptions of person who, for the time being, fall within any of subsections (2), (3) or (5) are instead to fall within another of those subsections.
+
+(11) The Scottish Ministers may by regulations modify subsection (3)(a) to substitute, for the date for the time being specified there (however expressed), an earlier date.
+
+(12) In subsection (10), “**specified**” means specified in the regulations made under that subsection.
+
+## Annotations
+
+[^key-4d2e40a0574aca74c6b6b7fd5d6175c6]: Commencement: S. 1 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

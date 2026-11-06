@@ -1,0 +1,205 @@
+---
+title: The Air Quality (Scotland) Regulations 2000
+id: ssi/2000/97
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-03-31'
+text_date: '2016-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2000/97
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2000/97/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Quality (Scotland) Regulations 2000
+
+> Text as at 2016-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2000 No. 97
+
+ENVIRONMENTAL PROTECTION
+
+The Air Quality (Scotland) Regulations 2000
+
+Made
+
+31st March 2000
+
+Coming into force in accordance with regulation 1(1)
+
+The Scottish Ministers, in exercise of the powers conferred upon them by sections 87(1), (2)(b) and (h), (3) and (5) and 91(1) of the Environment Act 1995[^f00001] and of all other powers enabling them in that behalf having, in accordance with section 87(7) of that Act, consulted the Scottish Environment Protection Agency, such bodies or persons appearing to them to be representative of the interests of local government and of industry as they consider appropriate, and such other bodies or persons as they consider appropriate, hereby make the following Regulations, a draft of which has been laid before and has been approved by the Scottish Parliament:
+
+## 1. Citation, commencement and extent[^key-142f44e988385e1adc5fc25945dfcdc8]
+
+(1) These Regulations may be cited as the Air Quality (Scotland) Regulations 2000 and shall come into force on the seventh day after the day on which they are made.
+
+(2) These Regulations shall extend to Scotland only.
+
+## 2. Interpretation[^key-183331b5f5eb6083fba9d1f421e75c68]
+
+(1) In these Regulations–
+
+- “the 1995 Act” means the Environment Act 1995;
+- “level” means the measured ambient concentration of a pollutant in the air, expressed as milligrams or micrograms per cubic metre.
+
+(2) The provisions of the Schedule to these Regulations which follow the Table in that Schedule shall have effect for the purpose of the interpretation of that Schedule.
+
+## 3. Relevant periods[^key-b3d17d1a195e440502089366ff4befa2]
+
+(1)[^key-2ce3124a9803ab333edb253d3004f21b] The relevant period for the purposes of Part IV of the 1995 Act shall , subject to[^key-6612b9ffc08112d4e4673f48042b99d2] paragraphs (2) and (3)[^key-6a95b20479364969847741203f09f7a4] below, be, in relation to an air quality objective, the period beginning with the date on which these Regulations come into force and ending, in respect of the substance specified in column 1 of the Table in the Schedule to these Regulations and the objective relating to that substance specified in column 2 of that Table, on the date set out in the corresponding entry relative to that substance and that objective in column 3 of that Table.
+
+(2)[^key-34b8fc60f8fcfe11074f8b306d280a4c] The relevant period for the purposes of Part IV of the 1995 Act in relation to an air quality objective prescribed or amended by the Air Quality (Scotland) Amendment Regulations 2002 shall be the period beginning with the date on which those regulations come into force.
+
+(3)[^key-f703c756b660685eec0746b215852822] The relevant period for the purposes of Part IV of the 1995 Act in relation to the air quality objective specified in entry number 7A of the Table in the Schedule (relating to PM<sub>2.5</sub>) is the period beginning on 1st April 2016 and ending on 31st December 2020.
+
+## 4. Air quality objectives[^key-ec3bdfb1b3d001e5875f75afc6399740]
+
+(1) The air quality objective, in respect of a substance specified in column 1 of the Table in the Schedule to these Regulations shall be to restrict the level at which that substance is present in the air to the level set out in the corresponding entry relative to that substance in column 2 of that Table, by no later than the date set out in the corresponding entry relative to that substance and that objective in column 3 of that Table.
+
+(2) The achievement or likely achievement of an air quality objective prescribed by paragraph (1) above shall be determined by reference to the quality of air at locations–
+
+- (a) which are situated outside of buildings or other natural or man-made structures; and
+- (b) where members of the public are regularly present.
+
+## 5. Revocation[^key-53642900e57cea02f8bac239468c499a]
+
+The Air Quality Regulations 1997[^f00002] are revoked, in so far as they extend to Scotland.
+
+SARAH BOYACK
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+31st March 2000
+
+## SCHEDULE — AIR QUALITY OBJECTIVES TABLE[^key-430581e899429d98264f3e33286ac0bd]
+
+Regulations 2(2), 3 and 4
+
+<table>
+<thead>
+<tr><th></th><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+<tr><th></th><th>Substance</th><th>Air Quality Objectives</th><th>Prescribed Date</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>Benzene</td><td>16.25 micrograms per cubic metre or less, when expressed as running annual mean</td><td>31st December 2003</td></tr>
+<tr><td>1A</td><td>Benzene</td><td>3.25 micrograms per cubic metre or less, when expressed as a running annual mean</td><td>31st December 2010</td></tr>
+<tr><td>2</td><td>1,3-Butadiene</td><td>2.25 micrograms per cubic metre or less, when expressed as a running annual mean</td><td>31st December 2003</td></tr>
+<tr><td>3</td><td>Carbon monoxide</td><td>10 milligrams per cubic metre or less, when expressed as a running 8 hour mean</td><td>31st December 2003</td></tr>
+<tr><td>4</td><td>Lead</td><td>0.5 micrograms per cubic metre or less, when expressed as an annual mean</td><td>31st December 2004</td></tr>
+<tr><td>5</td><td>Lead</td><td>0.25 micrograms per cubic metre or less, when expressed as an annual mean</td><td>31st December 2008</td></tr>
+<tr><td>6</td><td>Nitrogen dioxide</td><td>200 micrograms per cubic metre, when expressed as an hourly mean, not to be exceeded more than 18 times a year</td><td>31st December 2005</td></tr>
+<tr><td>7</td><td>Nitrogen dioxide</td><td>40 micrograms per cubic metre or less, when expressed as an annual mean</td><td>31st December 2005</td></tr>
+<tr><td>7A</td><td>PM<sub>2.5</sub></td><td>10 micrograms per cubic metre or less, when expressed as an annual mean</td><td>31st December 2020</td></tr>
+<tr><td>8</td><td>PM<sub>10</sub></td><td>50 micrograms per cubic metre or less, when expressed as a 24 hour mean, not to be exceeded more than 35 times a year</td><td>31st December 2004</td></tr>
+<tr><td>8A</td><td>PM10</td><td>50 micrograms per cubic metre or less when expressed as a 24 hour mean, not to be exceeded more than 7 times a year</td><td>31st December 2010</td></tr>
+<tr><td>9</td><td>PM<sub>10</sub></td><td>40 micrograms per cubic metre or less, when expressed as an annual mean</td><td>31st December 2004</td></tr>
+<tr><td>9A</td><td>PM10</td><td>18 micrograms per cubic metre or less, when expressed as an annual mean</td><td>31st December 2010</td></tr>
+<tr><td>10</td><td>Sulphur dioxide</td><td>350 micrograms per cubic metre or less, when expressed as an hourly mean, not to be exceeded more than 24 times a year</td><td>31st December 2004</td></tr>
+<tr><td>11</td><td>Sulphur dioxide</td><td>125 micrograms per cubic metre or less, when expressed as a 24 hour mean, not to be exceeded more than 3 times a year</td><td>31st December 2004</td></tr>
+<tr><td>12</td><td>Sulphur dioxide</td><td>266 micrograms per cubic metre or less, when expressed as a 15 minute mean, not to be exceeded more than 35 times a year.</td><td>31st December 2005</td></tr>
+</tbody>
+</table>
+
+[^key-fc7ff5d858cdb49611eb37868459ac17][^key-a011a56976af25dd25905b601f64e9a7][^key-58442dea6b0367d59a197da8f2372393][^key-bf3e6a0ed6bf333c000647b9b1a16df8][^key-3a119b2d93969b2174491321b48b7bd5]
+
+### 1. Interpretation
+
+[^key-430581e899429d98264f3e33286ac0bd]
+
+For the purposes of this Schedule–
+
+“PM<sub>10</sub>” means particulate matter which passes through a size-selective inlet with 50% efficient cut-off at 10 μm aerodynamic diameter.
+
+**1A.**[^key-dd5e2f2cf2ce341f0b0c81064a058368] “PM<sub>2.5</sub>” means particulate matter which passes through a size-selective inlet with a 50% efficiency cut-off at 2.5μm aerodynamic diameter.
+
+**2.** (1) A running annual mean is a mean which is calculated on an hourly basis, yielding one running annual mean per hour and the running annual mean for a particular substance at a particular location for a particular hour is the mean of the hourly levels for that substance at that location for that hour and the preceding 8,759 hours.
+
+(2) For the purpose of the calculation of a running annual mean, the hourly level for a particular substance at a particular location is either–
+
+- (a) the level at which that substance is recorded as being present in the air at that location during the hour on the basis of a continuous sample of air taken during that hour for at least 30 minutes; or
+- (b) the mean of the levels recorded at that location on the basis of 2 or more samples of air taken during the hour for an aggregate period of at least 30 minutes.
+
+**3.** A running 8 hour mean is a mean which is calculated on an hourly basis, yielding one running 8 hour mean per hour and the running 8 hour mean for a particular substance at a particular location for a particular hour is the mean of the hourly means for that substance at that location for that hour and the preceding 7 hours.
+
+**4.** (1) Subject to sub paragraph (2) below, an annual mean is a mean which is calculated on a yearly basis, yielding one annual mean per calendar year.
+
+(2) The annual mean for a particular substance at a particular location for a particular calendar year is–
+
+- (a) in the case of lead, the mean of the daily levels for that year;
+- (b) in the case of nitrogen dioxide, the mean of the hourly means for that year;
+- (c) in the case of PM<sub>10</sub>, the mean of the 24 hour means for that year.
+
+(3) For the purpose of the calculation of an annual mean for lead, the daily level for lead at a particular location for a particular day is the level at which lead is recorded as being present in the air at that location during the week in which the day occurs on the basis of a continuous sample of air taken throughout that week (each day in that week therefore being attributed with the same daily level).
+
+(4) For the purpose of sub paragraph (3) above, “week” means a complete week beginning on a Monday, except that it also includes any period of less than seven days from the beginning of the calendar year until the first Monday in that year or from the beginning of the last Monday in the calendar year to the end of that year.
+
+**5.** An hourly mean is a mean calculated every hour and the hourly mean for a particular substance at a particular location for a particular hour is the mean of the levels recorded, at a frequency of not less than once every 10 seconds, for that substance at that location during that hour.
+
+**6.** A 24 hour mean is a mean calculated every 24 hours and the 24 hour mean for a particular substance at a particular location for a particular 24 hour period is the level at which that substance is recorded as being present in the air at that location on the basis of a continuous sample of air taken throughout the period.
+
+**7.** A 15 minute mean is a mean calculated every 15 minutes and the 15 minute mean for a particular substance at a particular location for a particular 15 minute period is the mean of the levels recorded, at a frequency of not less than once every 10 seconds, for that substance at that location during that 15 minute period.
+
+**8.** The reference to a number of micrograms or milligrams per cubic metre of a substance is a reference to the number of micrograms or milligrams per cubic metre of that substance when measured with the volume standardised at a temperature of 293(K and at a pressure of 101.3 kilopascals.
+
+(This note is not part of the Regulations)
+
+Part IV of the Environment Act 1995 requires local authorities in Scotland to conduct a review of the quality of air within their area. That review has to consider the air quality for the time being and the likely future air quality within the “relevant period” (a period to be prescribed by Regulations). Such reviews have to be accompanied by an assessment of whether any prescribed air quality standards or objectives are being achieved or are likely to be achieved within the relevant period.
+
+These Regulations prescribe the relevant period for the purpose of that review (regulation 3) and sets the air quality objectives to be achieved by the end of that period (regulation 4 and the Schedule). The objectives are the same as those set out in the Air Quality Strategy for England, Scotland, Wales and Northern Ireland (SE 2000/3, January 2000), published by the Scottish Executive in accordance with section 80 of the 1995 Act. Guidance entitled “Review and Assessment: Pollutant Specific Guidance LAQM TG4” has been issued in respect of the appropriate methodology to be used by local authorities in undertaking their air quality review and assessment. The Strategy and the Guidance are available from the Scottish Executive, Air Climate & Engineering Unit (Air Quality Team), Victoria Quay, Edinburgh, EH6 6QQ.
+
+Where any of the prescribed objectives are not likely to be achieved within any part of the area of a local authority within the relevant period, the local authority concerned requires to designate that part of its area as an air quality management area (section 83(1) of the 1995 Act). An action plan covering the designated area will then have to be prepared setting out how the local authority intends to exercise its powers in relation to the designated area so as to achieve the prescribed objectives (section 84(2) of the 1995 Act).
+
+These Regulations replace the provisions of the Air Quality Regulations 1997 in relation to Scotland, which are therefore revoked to that extent.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). See the definitions of “prescribed”, “regulations” and “relevant period” in section 91(1) of that Act. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-142f44e988385e1adc5fc25945dfcdc8]: Commencement: Reg. 1 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+
+[^key-183331b5f5eb6083fba9d1f421e75c68]: Commencement: Reg. 2 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+
+[^key-b3d17d1a195e440502089366ff4befa2]: Commencement: Reg. 3 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+
+[^key-2ce3124a9803ab333edb253d3004f21b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2000/97/regulation/3) renumbered as reg. 3(1) (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/2)
+
+[^key-6612b9ffc08112d4e4673f48042b99d2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/1) inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/3/a)
+
+[^key-6a95b20479364969847741203f09f7a4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/1) substituted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/2)
+
+[^key-34b8fc60f8fcfe11074f8b306d280a4c]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/2) inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/3/b)
+
+[^key-f703c756b660685eec0746b215852822]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/3) inserted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/3)
+
+[^key-ec3bdfb1b3d001e5875f75afc6399740]: Commencement: Reg. 4 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+
+[^key-53642900e57cea02f8bac239468c499a]: Commencement: Reg. 5 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+
+[^f00002]: Footnote: S.I. [1997/3043](https://www.legislation.gov.uk/uksi/1997/3043).
+
+[^key-430581e899429d98264f3e33286ac0bd]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+
+[^key-fc7ff5d858cdb49611eb37868459ac17]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/a)
+
+[^key-a011a56976af25dd25905b601f64e9a7]: Textual amendment: Word in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table substituted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/b)
+
+[^key-58442dea6b0367d59a197da8f2372393]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/4)
+
+[^key-bf3e6a0ed6bf333c000647b9b1a16df8]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/c)
+
+[^key-3a119b2d93969b2174491321b48b7bd5]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/d)
+
+[^key-dd5e2f2cf2ce341f0b0c81064a058368]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/ssi/2000/97/schedule/paragraph/1A) inserted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/5)

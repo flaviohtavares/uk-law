@@ -1,0 +1,142 @@
+---
+title: Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adult Support and Protection (Scotland) Act 2007) 2008
+id: ssi/2008/111
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-03-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2008/111
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2008/111/pdfs/ssi_20080111_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/111/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adult Support and Protection (Scotland) Act 2007) 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 111
+
+SHERIFF COURT
+
+Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adult Support and Protection (Scotland) Act 2007) 2008
+
+Made
+
+4th March 2008
+
+Coming into force
+
+1st April 2008
+
+The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001], and of all other powers enabling them in that behalf, having approved draft rules submitted to them by the Sheriff Court Rules Council in accordance with section 34 of the said Act of 1971, do hereby enact and declare:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adult Support and Protection (Scotland) Act 2007) 2008 and shall come into force on 1st April 2008.
+
+(2) This Act of Sederunt shall be inserted in the Books of Sederunt.
+
+(3) In this Act of Sederunt, “the Rules” means the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999[^f00002].
+
+## 2. Named person of the adult
+
+(1) In rule 3.16.1 of the Rules (interpretation)[^f00003] after the definition of “Mental Welfare Commission” insert–
+
+> - “named person” has the meaning ascribed to it by section 329 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00004];
+
+.
+
+(2) In rule 3.16.4 of the Rules (service of application)[^f00005] after subparagraph (c) insert–
+
+> - (ca) the named person of the adult (if any);
+
+.
+
+(3) After paragraph (2)(b) in each of Forms 23 and 24[^f00006] in Schedule 1 to the Rules insert–
+
+> - (ba) *the adult’s named person*;
+
+.
+
+## 3. Guardianship
+
+(1) For the definition of “adult” in rule 3.16.1 of the Rules (interpretation) substitute–
+
+> - “adult” means a person who is the subject of an application under the 2000 Act and–
+>   - (a) has attained the age of 16 years; or
+>   - (b) in relation to an application for a guardianship order, will attain the age of 16 years within 3 months of the date of the application;
+
+.
+
+(2) In rule 3.16.8 of the Rules (subsequent applications)[^f00007]–
+
+- (a) in paragraph (4) for “copies of the reports in accordance with section 57(3)” substitute–
+
+  > - a copy of any report lodged under section 60 of the 2000 Act
+
+  ; and
+- (b) after paragraph (4) insert–
+
+  > (5) Where the application is for renewal of a guardianship order, a copy shall be served on the local authority and, where it relates to the adult’s personal welfare where incapacity is by reason of mental disorder, on the Mental Welfare Commission.
+
+  .
+
+## 4. Caution and other security
+
+(1) In rule 3.16.10 of the Rules (caution)[^f00008]–
+
+- (a) after paragraph (1) insert–
+
+  > (1A) The amount of caution specified by the sheriff in paragraph (1) may be calculated and expressed as a percentage of the value of the adult’s estate.
+
+  ; and
+- (b) after paragraph (5) insert–
+
+  > (6) Where the sheriff requires the person referred to in paragraph (1) to give security other than caution, the rules of Chapter 27 of the Ordinary Cause Rules shall apply with the necessary modifications.
+
+  .
+
+(2) The heading of rule 3.16.10 becomes “**Caution and Other Security**”.
+
+A. C. Hamilton
+
+Lord President I.P.D.
+
+Edinburgh
+
+4th March 2008
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt makes amendments to Part XVI of the Summary Applications Rules (“the Rules”) in consequence of the [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10).
+
+Paragraph (2) amends the Rules to insert a definition of the adult’s named person by reference to the Mental Health (Care and Treatment) (Scotland) Act 2003, provides that applications under the 2000 Act should be served on any named person and inserts reference to the named person into Forms 23 and 24 in Schedule 1.
+
+Paragraph (3) amends the Rules in relation to applications for guardianship orders by amending the definition of “adult” to include persons who will reach age 16 within 3 months of the date of the application. It also provides that applications for renewal of such orders should be served on the local authority and, where relevant, on the Mental Welfare Commission.
+
+Paragraph (4) amends rule 3.16.10 (caution) to provide that, where caution is ordered, it may be calculated as a percentage of the adult’s estate. It also provides that where a sheriff requires a party to give security other than caution, chapter 27 of the Ordinary Cause Rules will apply and the heading is changed to “Caution and other security”.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58); section 32 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73), Schedule 2, paragraph 12, the Civil Evidence (Scotland) Act [1988 (c. 32)](https://www.legislation.gov.uk/ukpga/1988/32), section 2(4), the Children (Scotland) Act [1995 (c. 36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 18(2), the [Adults with Incapacity (Scotland) Act 2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), schedule 5, paragraph 13, the [Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), section 43 and the [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(2) and was extended by the Child Support Act [1991 (c. 48)](https://www.legislation.gov.uk/ukpga/1991/48), sections 39(2) and 49.
+
+[^f00002]: Footnote: S.I. [1999/929](https://www.legislation.gov.uk/uksi/1999/929), amended by [S.S.I. 2000/18](https://www.legislation.gov.uk/ssi/2000/18) and [387](https://www.legislation.gov.uk/ssi/2000/387), [2001/142](https://www.legislation.gov.uk/ssi/2001/142), [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [129](https://www.legislation.gov.uk/ssi/2002/129), [130](https://www.legislation.gov.uk/ssi/2002/130), [146](https://www.legislation.gov.uk/ssi/2002/146) and [583](https://www.legislation.gov.uk/ssi/2002/583), [2003/26](https://www.legislation.gov.uk/ssi/2003/26), [27](https://www.legislation.gov.uk/ssi/2003/27), [98](https://www.legislation.gov.uk/ssi/2003/98), [261](https://www.legislation.gov.uk/ssi/2003/261), [319](https://www.legislation.gov.uk/ssi/2003/319), [346](https://www.legislation.gov.uk/ssi/2003/346) and [556](https://www.legislation.gov.uk/ssi/2003/556), [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [222](https://www.legislation.gov.uk/ssi/2004/222), [334](https://www.legislation.gov.uk/ssi/2004/334) and [455](https://www.legislation.gov.uk/ssi/2004/455), [2005/61](https://www.legislation.gov.uk/ssi/2005/61), [473](https://www.legislation.gov.uk/ssi/2005/473), [504](https://www.legislation.gov.uk/ssi/2005/504) and [648](https://www.legislation.gov.uk/ssi/2005/648), [2006/410](https://www.legislation.gov.uk/ssi/2006/410), [437](https://www.legislation.gov.uk/ssi/2006/437) and [509](https://www.legislation.gov.uk/ssi/2006/509) and [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [233](https://www.legislation.gov.uk/ssi/2007/233), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463) and [2008/9](https://www.legislation.gov.uk/ssi/2008/9) and [41](https://www.legislation.gov.uk/ssi/2008/41).
+
+[^f00003]: Footnote: Rule 3.16.1 was inserted by [S.S.I. 2001/142](https://www.legislation.gov.uk/ssi/2001/142) and amended by S.S.I [2002/146](https://www.legislation.gov.uk/ssi/2002/146) and [2005/445](https://www.legislation.gov.uk/ssi/2005/445).
+
+[^f00004]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
+
+[^f00005]: Footnote: Rule 3.16.4 was inserted by [S.S.I. 2001/142](https://www.legislation.gov.uk/ssi/2001/142) and amended by [S.S.I. 2002/146](https://www.legislation.gov.uk/ssi/2002/146).
+
+[^f00006]: Footnote: Forms 23 and 24 were inserted by [S.S.I. 2001/142](https://www.legislation.gov.uk/ssi/2001/142).
+
+[^f00007]: Footnote: Rule 3.16.8 was inserted by [S.S.I. 2001/142](https://www.legislation.gov.uk/ssi/2001/142) and amended by [S.S.I. 2002/146](https://www.legislation.gov.uk/ssi/2002/146).
+
+[^f00008]: Footnote: Rule 3.16.10 was inserted by [S.S.I. 2002/146](https://www.legislation.gov.uk/ssi/2002/146).

@@ -1,0 +1,106 @@
+---
+title: The UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (Commencement No. 3) Regulations 2023
+id: ssi/2023/310
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-10-31'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2023/310
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2023/310/pdfs/ssi_20230310_en.pdf
+- http://www.legislation.gov.uk/ssi/2023/310/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (Commencement No. 3) Regulations 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 310 (C. 22)
+
+Constitutional Law
+
+Exiting The European Union
+
+Environmental Protection
+
+The UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (Commencement No. 3) Regulations 2023
+
+Made
+
+31st October 2023
+
+Laid before the Scottish Parliament
+
+2nd November 2023
+
+Coming into force
+
+15th November 2023
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 51(2) and 51(3)(b) of the UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (Commencement No. 3) Regulations 2023 and come into force on 15 November 2023.
+
+## 2. Appointed days
+
+15 November 2023 is the day appointed for the coming into force of section 17 (guidance) of the UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021.
+
+**3.** 16 November 2023 is the day appointed for the coming into force of the following provisions of the UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021—
+
+- (a) section 14 (Ministers’ duties to have due regard to the guiding principles),
+- (b) section 15 (other authorities’ duty to have due regard to the guiding principles), so far as not already in force,
+- (c) section 16 (purpose of the duties under sections 14 and 15).
+
+MAIRI MCALLAN
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+31st October 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are the third set of commencement regulations made by the Scottish Ministers under section 51 of the UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (“**the Act**”). Regulation 2 brings into force the following provisions of the Act:
+
+- Section 14,
+- Section 15 (so far as not already in force),
+- Section 16 and
+- Section 17.
+
+Sections 14 and 15 provide for a new duty upon the Scottish Ministers, Ministers of the Crown and other public authorities to have due regard to the guiding principles on the environment contained in section 13 of the Act when they exercise certain functions. Section 16 sets out the purpose of the duties contained in sections 14 and 15. Section 17 obliges the Scottish Ministers to publish guidance on the guiding principles on the environment and on the various duties contained in sections 14 and 15, and sets out certain requirements for that guidance.
+
+The Bill for the Act received Royal Assent on 29 January 2021. In accordance with section 51(1) of the Act, sections 48 to 53 came into force the following day.
+
+NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+
+(This note is not part of the Regulations)
+
+The following provisions of the UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 have been brought into force by commencement regulations made before the date of these Regulations.
+
+| Provision | Date of Commencement | Instrument Number |
+| --- | --- | --- |
+| Part 1 | 29 March 2021 | [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141) |
+| Section 13 | 29 March 2021 | [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141) |
+| Section 15 (partially) | 29 March 2021 | [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141) |
+| Section 18 | 29 March 2021 | [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141) |
+| Section 47 | 29 March 2021 | [S.S.I. 2021/141](https://www.legislation.gov.uk/ssi/2021/141) |
+| Sections 19 – 46 | 1 October 2021 | [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304) |
+| Schedule 1 | 1 October 2021 | [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304) |
+| Schedule 2 | 1 October 2021 | [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304) |
+
+## Annotations
+
+[^f00001]: Footnote: [2021 asp 4](https://www.legislation.gov.uk/asp/2021/4).

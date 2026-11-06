@@ -1,0 +1,573 @@
+---
+title: The Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010
+id: ssi/2010/233
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-06-10'
+text_date: '2016-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/233
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/233/pdfs/ssi_20100233_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/233/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010
+
+> Text as at 2016-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 233
+
+Pensions
+
+The Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010
+
+Made
+
+10th June 2010
+
+Laid before the Scottish Parliament
+
+11th June 2010
+
+Coming into force
+
+5th July 2010
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 7 of, and Schedule 3 to, the Superannuation Act 1972[^f00001] and of all other powers enabling them to do so.
+
+In accordance with section 7(5) of that Act, they have consulted such associations of local authorities as appeared to them to be concerned, such local authorities with whom consultation appeared to them to be desirable, and such representatives of other persons likely to be affected by the proposed regulations as appeared to them to be appropriate.
+
+## Preliminary
+
+### 1. Citation and commencement[^key-a67d54baa2a7e3dd4debb7d7a5dd6511]
+
+(1) These Regulations may be cited as the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010.
+
+(2) These Regulations come into force on 5th July 2010.
+
+### 2. General definitions[^key-6d0f33bb02fe1eacc85faf900f33fd4a]
+
+(1) In these Regulations—
+
+- “the 2000 Act” means the Financial Services and Markets Act 2000[^f00002];
+- “administering authority” means a body required to maintain a pension fund under the Administration Regulations;
+- “the Administration Regulations” means the Local Government Pension Scheme (Administration) (Scotland) Regulations 2008[^f00003];
+- “fund money” means money in the pension fund maintained by an administering authority;
+- “proper advice”, in relation to an administering authority, means the advice of a person (including any suitable officer of the administering authority) whom the authority reasonably believes to be qualified by that person’s ability in and practical experience of financial matters;
+- “recognised stock exchange” has the same meaning as in section 1005(1) of the Income Tax Act 2007[^f00004];
+- “securities” includes shares, stock and debentures;
+- “statement of investment principles” means the statement referred to in regulation 12(1) or any revision of it, as appropriate;
+- “stock lending arrangement” means an arrangement such as is mentioned in section 263B of the Taxation of Chargeable Gains Act 1992[^f00005];
+- “sub-underwriting contract” means a contract with a person who is underwriting a share issue to acquire shares from that person if that person requires it.
+
+(2) Paragraphs (5) to (7) of regulation 3, paragraphs (2)(a) and (2)(b) of regulation 6, regulation 7 and item 4 of the table and the definition of “relevant institution” in Schedule 1, must be read with—
+
+- (a) section 22 of the 2000 Act (classes of activity and categories of investment);
+- (b) any relevant order under that section; and
+- (c) Schedule 2 to that Act[^f00006] (regulated activities).
+
+### 3. Definition of “investment”[^key-33cab5973f22b73dbdf7b0caff9ff0e4]
+
+(1) In these Regulations “investment” and similar expressions have their normal meaning.
+
+(2) But the following provisions of this regulation specify things which count as investments for these Regulations, although they might not otherwise do so, and exclude things which might otherwise count.
+
+(3) A contract entered into in the course of dealing in financial futures or traded options is an investment.
+
+(4) Prior to 1st April 2011, if the administering authority uses fund money for any purpose for which it may borrow money, that use counts as an investment.
+
+(5) A contract of insurance is an investment only if it is a contract of a relevant class and is entered into with a person who falls within paragraph (6) for whom entering into the contract constitutes the carrying on of a regulated activity within the meaning of the 2000 Act.
+
+(6) The persons who fall within this paragraph are—
+
+- (a) a person who has permission under Part 4 of the 2000 Act (permission to carry out regulated activities) to effect or carry out contracts of insurance of a relevant class;
+- (b) an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to the 2000 Act[^f00007] (EEA passport rights), which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule[^f00008]) to effect or carry out contracts of insurance of a relevant class; or
+- (c) a person who does not fall within sub-paragraph (a) or (b) and who, because that person’s head office is in an EEA State within the meaning of the 2000 Act other than the United Kingdom, is permitted by the law of that State to effect or carry out contracts of insurance of a relevant class.
+
+(7) A contract of insurance is of a relevant class for the purposes of paragraphs (5) and (6) if it is—
+
+- (a) a contract of insurance on human life or a contract to pay an annuity on human life where the benefits are wholly or partly to be determined by reference to the value of, or the income from, property of any description (whether or not specified in the contract) or by reference to fluctuations in, or in an index of, the value of property of any description (whether or not so specified); or
+- (b) a contract to manage the investments of pension funds, whether or not combined with contracts of insurance covering either conservation of capital or payment of a minimum interest.
+
+(8) A stock lending arrangement is an investment only if, in respect of it, the conditions in rules 5.4.4R and 5.4.6R, modified as specified in paragraph (9) of this regulation[^f00009] in the Collective Investment Schemes Sourcebook made by the Financial Conduct Authority[^key-22b9e8235c29d53498231af25e0a763f] are fulfilled in relation to that arrangement.
+
+(9) The modifications mentioned in paragraph (8) are that—
+
+- (a) in rules 5.4.4R and 5.4.6R references to the depositary must be read as if they were references to the administering authority;
+- (b) in paragraph 1 of rule 5.4.4R the words “An ICVC, or the depositary at the request of the ICVC, or the trustee at the request of the manager, may enter into a repo contract, or” are substituted with the words “The administering authority may enter into”;
+- (c) in paragraph 1(a) of rule 5.4.4R the words “for the account of the ICVC or by the trustee,” and the words “or to the trustee” are omitted;
+- (d) sub-paragraphs 1(b)(iii) and 1(b)(iv) of rule 5.4.4R are not applicable;
+- (e) paragraph 1A of rule 5.4.6R is not applicable;
+- (f) in paragraph 5 of rule 5.4.6R the words “, under COLL 6.3 (valuation and pricing) or this chapter,” are omitted and the reference to the authorised fund must be read as if it were a reference to fund money; and
+- (g) in paragraph 6 of rule 5.4.6R references to scheme property must be read as if they were references to fund money, and the words in sub-paragraph (a) “for the purposes of COLL 6.3 or this chapter” and in sub-paragraph (b) “of this chapter” are not applicable.
+
+(10) It is an investment to contribute to a limited partnership in an unquoted securities investment partnership.
+
+(11) A sub-underwriting contract is an investment.
+
+(12) For the purposes of this regulation—
+
+- “limited partnership” means a partnership where the partners are not liable for the debts or obligations of the partnership beyond the amount which they contributed at the time of becoming a partner;
+- “traded option” means an option quoted on a recognised stock exchange or on the London International Financial Futures Exchange; and
+- “unquoted securities investment partnership” means a partnership for investing in securities which are normally not quoted on a recognised stock exchange when the partnership buys them.
+
+## Management of pension fund
+
+### 4. Management of pension fund[^key-c93cc5ccdf5c08fc2aee51d18e8dbd52]
+
+(1) This regulation is about the sums which an administering authority must pay or credit to, and may pay from, the pension fund which it administers.
+
+(2) In addition to any other sum which the Benefits Regulations, the Transitional Regulations or the Administration Regulations specify must be paid or credited to the authority’s pension fund, an authority must pay or credit to the fund—
+
+- (a) the amounts payable by it or paid to it for the credit of the fund by any other authority under regulations 35 to 37 of the Administration Regulations (employers’ contributions and payments);
+- (b) all members’ contributions including those made by virtue of the Transitional Regulations, except contributions payable under regulation 22 of the Administration Regulations (additional voluntary contributions and shared cost additional voluntary contributions);
+- (c) all income arising during the year from investment of the fund;
+- (d) all capital money deriving from such investment; and
+- (e) all additional payments received by the authority under the Benefits Regulations, the Transitional Regulations or the Administration Regulations.
+
+(3) In the case of an administering authority which maintains more than one pension fund, as respects sums which relate to specific members the references in paragraph (2) to the authority’s fund are to the fund which is the appropriate fund for the members in question in accordance with Schedule 4 to the Administration Regulations (appropriate funds).
+
+(4) Interest under regulation 16(1) must be credited and paid to the fund to which repayment is due.
+
+(5) Interest under regulation 39(1) of the Administration Regulations (interest) must be credited and paid to the fund to which the overdue payment is due.
+
+(6) Any costs, charges and expenses incurred administering a pension fund may be paid from it except those costs and charges prescribed by regulations made by the Secretary of State under section 23 (supply of pension information in connection with divorce etc.), 24 (charges by pension arrangements in relation to earmarking orders), or 41 (charges in respect of pension sharing costs) of the Welfare Reform and Pensions Act 1999[^f00011] which the administering authority is enabled to recover by or under any such regulations.
+
+(7) In this regulation—
+
+- “member” has the same meaning as in section 124(1) of the Pensions Act 1995[^f00012] but does not include a person who has rights to future benefits under the scheme which are attributable (directly or indirectly) to a credit under section 29(1)(b) of the Welfare Reform and Pension Act 1999[^f00013] or corresponding Northern Ireland legislation;
+- “the Benefits Regulations” means the Local Government Pension Scheme (Benefits, Membership and Contributions) (Scotland) Regulations 2008[^f00014]; and
+- “the Transitional Regulations” means the Local Government Pension Scheme (Transitional Provisions) (Scotland) Regulations 2008[^f00015].
+
+### 5. Power to borrow[^key-9eadb28b151861e8f0e35f63542ff6ed]
+
+(1) Except as provided in this regulation, an administering authority must not borrow money where the borrowing is liable to be repaid out of its pension fund.
+
+(2) An administering authority may borrow by way of temporary loan or overdraft from a bank or otherwise any sums which it may require for the purpose of—
+
+- (a) paying benefits due under the scheme; or
+- (b) to meet investment commitments arising from the implementation of a decision by it to change the balance between different types of investment.
+
+(3) An administering authority may only borrow money under paragraph (2) if, at the time of borrowing, the authority reasonably believes that the sum borrowed and any interest to be charged in respect of that sum can be repaid out of its pension fund within 90 days from the date of borrowing.
+
+### 6. Separate bank account[^key-39ed3efd420d6f8b942fe39a3628b2cf]
+
+(1) On or after 1st April 2011, an administering authority must hold in a separate account kept by it with a deposit taker in accordance with this regulation—
+
+- (a) all monies held by the authority on that date; and
+- (b) all monies received by it on or after that date,
+
+  for the purpose of its pension fund.
+
+(2) “Deposit taker” for the purposes of paragraph (1) means—
+
+- (a) a person who has permission under Part 4 of the 2000 Act (permission to carry on regulated activities) to accept deposits;
+- (b) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to the 2000 Act (EEA passport rights) which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule[^f00016]) to accept deposits;
+- (c) the Bank of England or the central bank of an EEA state other than the United Kingdom; or
+- (d) the National Savings Bank.
+
+(3) The deposit taker must not, in relation to the account referred to in paragraph (1), exercise any right of set-off it may have in respect of any other account held by the administering authority or any party connected to the administering authority.
+
+## Investment managers
+
+### 7. Definition of “investment manager”[^key-f2c0416354a610ae0b7884e91a06b361]
+
+For the purposes of regulations 8 to 10, an “investment manager” is—
+
+- (a) someone who has permission under Part 4 of the 2000 Act (permission to carry on regulated activities) to manage investments and may lawfully manage the assets of occupational pension schemes;
+- (b) an EEA firm of the kind mentioned in sub-paragraph (a), (b) or (c) of paragraph 5 of Schedule 3 to that Act[^f00017] (EEA passport rights), which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to manage investments and lawfully manage the assets of occupational pension schemes; or
+- (c) a person—
+  - (i) who does not carry on regulated activities (within the meaning of the 2000 Act) from a permanent place of business maintained by that person in the United Kingdom;
+  - (ii) whose head office is situated in an EEA State (within the meaning of the 2000 Act) other than the United Kingdom;
+  - (iii) who is recognised by the law of that EEA State as a national of that or another EEA State;
+  - (iv) who is authorised under that law to carry on one or more regulated activities (within the meaning of the 2000 Act); and
+  - (v) who is not prevented by that law from managing the assets of occupational pension schemes or assets belonging to another person.
+
+### 8. Choice of investment managers[^key-ae143472fa096f554c3ace1ebe51faf2]
+
+(1) Instead of managing and investing fund money for itself, an administering authority may appoint one or more investment managers to manage and invest fund money, or any part of such money, on its behalf.
+
+(2) But the authority may only appoint an investment manager if the authority complies with paragraphs (3) to (6).
+
+(3) The authority must reasonably believe that the investment manager’s ability in and practical experience of financial matters makes that investment manager suitably qualified to make investment decisions for it.
+
+(4) The investment manager must not be an employee of the authority.
+
+(5) The authority must be satisfied—
+
+- (a) that the fund, or the relevant part of it, is managed by an adequate number of investment managers; and
+- (b) that where there is more than one investment manager, the value of fund money to be managed by any one of them will not be disproportionate in comparison with the value of fund money managed by other investment managers.
+
+(6) The authority must have taken proper advice in relation to the appointment.
+
+### 9. Terms of appointment of investment managers[^key-500f63210e8989b2d1bb6fe79a9d8c91]
+
+(1) An investment manager must be appointed on the terms set out in paragraphs (2) to (7).
+
+(2) The administering authority must be able to terminate the appointment by giving not more than one month’s notice.
+
+(3) The investment manager must report to the authority at least once every three months on the action the investment manager has taken on behalf of the authority.
+
+(4) The investment manager must comply with all of the authority’s instructions, except in circumstances permitted by the investment manager’s terms of appointment.
+
+(5) In managing the fund the investment manager must take into account—
+
+- (a) that fund money must be invested in a wide variety of investments;
+- (b) the suitability for the fund of particular types of investment, or of any particular investment; and
+- (c) the administering authority’s statement of investment principles.
+
+(6) But paragraph (5)(a) does not apply where the investment manager only manages part of the fund and the terms of the investment manager’s appointment provide that it does not apply.
+
+(7) The investment manager must not make investments which would contravene the authority’s statement of investment principles or regulation 14.
+
+(8) In determining the investment manager’s terms of appointment, the authority must take proper advice.
+
+### 10. Review of investment manager’s performance[^key-c8a501934480ab60c7890fcb2735f968]
+
+(1) Where an administering authority has appointed an investment manager it must keep the investment manager’s performance under review.
+
+(2) At least once every three months the authority must review the investments which the investment manager has made for the fund and any other action that has been taken by the manager in relation to it.
+
+(3) Periodically the authority must consider whether or not to retain the investment manager.
+
+(4) In reviewing an investment manager’s decisions and appointment, the authority must take proper advice—
+
+- (a) if regulation 9(5)(a) applies, about the variety of investments the investment manager has made; and
+- (b) about the suitability of those investments for the fund generally and as investments of their type.
+
+## Investment and use of pension fund money
+
+### 11. Investment policy and investment of pension fund money[^key-9c43d6c23795b289ee7fb374432e0144]
+
+(1) An administering authority must formulate a policy for the investment of its fund money.
+
+(2) The authority’s investment policy must be formulated with a view—
+
+- (a) to the advisability of investing fund money in a wide variety of investments; and
+- (b) to the suitability of particular investments and types of investments.
+
+(3) The authority must invest, in accordance with its investment policy, any fund money that is not needed immediately to make payments from the fund.
+
+(4) The authority may vary its investments.
+
+(5) The authority must obtain proper advice at reasonable intervals about its investments.
+
+(6) The authority must consider such advice in taking any steps in relation to its investments.
+
+### 12. Statement of investment principles[^key-8ed0f4ee6d553bee112c040026e15d04]
+
+(1) An administering authority must, after consultation with such persons as it considers appropriate, prepare, maintain (in accordance with paragraph (5)) and publish a written statement of the principles governing its decisions about the investment of fund money.
+
+(2) The statement must cover its policy on—
+
+- (a) the types of investments to be held;
+- (b) the balance between different types of investments;
+- (c) risk, including the ways in which risks are to be measured and managed;
+- (d) the expected return on investments;
+- (e) the realisation of investments;
+- (f) the extent to which social, environmental or ethical considerations are taken into account in the selection, retention and realisation of investments;
+- (g) the exercise of the rights (including voting rights) attaching to investments, if it has any such policy; and
+- (h) stock lending.
+
+(3) The statement must also cover the extent to which the authority complies with guidance given by the Scottish Ministers and, to the extent it does not so comply, the reasons for not complying.
+
+(4) The first statement must be published no later than 1st December 2010.
+
+(5) The statement must be reviewed, and if necessary, revised, by the authority from time to time and, in the case of any material change in the authority’s policy on the matters referred to in paragraphs (2) and (3), before the end of a period of six months beginning with the date of that change.
+
+(6) A statement revised under paragraph (5) must be published.
+
+### 13. Investments under section 11 of the Trustee Investments Act 1961[^key-69585669782af9173cd0fecdc808fe87]
+
+An administering authority may invest, without any restriction as to quantity, in any investment made in accordance with a scheme under section 11 of the Trustee Investments Act 1961[^f00018] (which enables the Treasury to approve schemes for local authorities to invest in collectively).
+
+### 14. Restrictions on investments[^key-49a48636ea1fd24b4f8e8411fe1dd239]
+
+(1) The table in Part 1 of Schedule 1 and the exceptions specified in Part 2 of that Schedule (“the exceptions”) shall have effect for the purpose of limiting the making of investments of the types described in the table[^f00019].
+
+(2) Subject to paragraph (3), and where relevant the exceptions, the percentage listed in Column (1) of the table in relation to a type of investment so described is the limit on the proportion of fund money which may be invested in that type of investment.
+
+(3) An administering authority may, in accordance with regulation 15, decide to increase the limit in relation to a particular type of investment so described, but only where a percentage is shown in relation to that type of investment in Column (2) of the table, and any increase must not exceed that percentage.
+
+(4) The percentages mentioned in paragraphs (2) and (3) are percentages of the total value of all existing investments of fund money immediately before the making of the investment concerned.
+
+(5) Paragraph (2), and if applicable paragraph (3), apply only at the time the investment is made.
+
+(6) Part 3 of Schedule 1 applies for interpreting Parts 1 and 2.
+
+### 15. Requirements for increased limits[^key-f9e9cf0eb394c92c389b359f7238edb1]
+
+(1) An administering authority which decides to increase a limit by virtue of regulation 14(3) must comply with the requirements of this regulation.
+
+(2) The authority must take proper advice.
+
+(3) The authority must take account of the matters set out in regulation 11(2).
+
+(4) Where there is a decision to use the increased limits under regulation 14(3) in relation to item 13 of the table in Part 1 of Schedule 1, the additional risks of the increased limit must be taken into account in addition to those matters set out in regulation 11(2).
+
+(5) The decision must specify in writing—
+
+- (a) the description of investment to which it applies;
+- (b) the limit on the amount of the investment;
+- (c) the reason for the decision;
+- (d) the period for which the decision will apply;
+- (e) if the authority intend to review the decision before the end of the period in (d), the date when the decision will be reviewed; and
+- (f) that the decision complies with these Regulations.
+
+(6) Where the period for which the decision will apply comes to an end, the limit is that which is set out in Column (1) of the table in Part 1 of Schedule 1 unless before the end of that period the authority reviews the decision in accordance with this regulation.
+
+(7) A decision, following a review, to continue to use a limit increased by virtue of regulation 14(3), whether or not the increased limit has been altered, must—
+
+- (a) take account of the matters set out in paragraphs (2), (3) and (4); and
+- (b) specify the matters set out in paragraph (5).
+
+(8) Before a decision under regulation 14(3) or under paragraph (7) of this regulation can take effect, the administering authority must revise and publish the written statement of investment principles which it is required to maintain under regulation 12 so as to include the matters specified in paragraph (5) of this regulation.
+
+### 16. Use of fund money by an administering authority[^key-f4c831b463ba5c4cd51266f8b9ef5a42]
+
+(1) An administering authority must pay interest on the total from day to day of any fund money used by them under regulation 3(4) and not repaid.
+
+(2) That interest must not be paid at a rate lower than the lowest rate at which the authority could have obtained a commercial loan of that amount at 7 days’ notice (otherwise than by bank overdraft).
+
+## Supplementary
+
+### 17. Consequential amendments and revocations[^key-2f10d9645d4b8e85b8390e6f7dfce9a2]
+
+(1) The provisions in Schedule 2 are amended as set out in that Schedule.
+
+(2) The enactments specified in column (1) of the table in Schedule 3 are revoked to the extent stated, in relation to each, in column (3) of that table.
+
+JOHN SWINNEY
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+10th June 2010
+
+## SCHEDULE 1 — LIMITS ON INVESTMENTS
+
+Regulation 14(1)
+
+### PART 1 — Table[^key-e9e2864490e18b3254630354aa0c6822]
+
+<table>
+<thead>
+<tr><th colspan="4"></th><th><strong>Column</strong></th><th><strong>Column</strong></th></tr>
+<tr><th colspan="4"></th><th><strong><em>(1)</em></strong></th><th><strong><em>(2)</em></strong></th></tr>
+<tr><th colspan="4"></th><th><strong><em>Limits under regulation 14(2)</em></strong></th><th><strong><em>Increased limits under regulation 14(3)</em></strong></th></tr>
+</thead>
+<tbody>
+<tr><td colspan="4"><strong>1.</strong> Any single sub-underwriting contract.</td><td>1%</td><td>5%</td></tr>
+<tr><td colspan="4"><strong>2.</strong> All contributions to any single partnership.</td><td>2%</td><td>5%</td></tr>
+<tr><td colspan="4"><strong>3.</strong> All contributions to partnerships.</td><td>5%</td><td>30%</td></tr>
+<tr><td colspan="4"><strong>4.</strong> The sum of—</td><td>10%</td><td>—</td></tr>
+<tr><td></td><td>(a)</td><td colspan="2">all loans (but see paragraph 14 of Part 2); and</td><td></td><td></td></tr>
+<tr><td></td><td>(b)</td><td colspan="2">any deposits with—</td><td></td><td></td></tr>
+<tr><td colspan="2"></td><td>(i)</td><td>any local authority; or</td><td></td><td></td></tr>
+<tr><td colspan="2"></td><td>(ii)</td><td>any body with power to issue a precept or requisition to a local authority, or to the expenses of which a local authority can be required to contribute, which is an exempt person (within the meaning of the 2000 Act) in respect of accepting deposits as a result of an order made under section 38(1) of that Act (exemption orders).</td><td></td><td></td></tr>
+<tr><td colspan="4"><strong>5</strong>. All investments in unlisted securities of companies.</td><td>10%</td><td>15%</td></tr>
+<tr><td colspan="4"><strong>6.</strong> Any single holding (but see paragraphs 15 and 16 of Part 2).</td><td>10%</td><td>—</td></tr>
+<tr><td colspan="4"><strong>7.</strong> All deposits with any single bank, institution or person (other than the National Savings Bank).</td><td>10%</td><td>—</td></tr>
+<tr><td colspan="4"><strong>8.</strong> All sub-underwriting contracts.</td><td>15%</td><td>—</td></tr>
+<tr><td colspan="4"><strong>9.</strong> All investments in units or shares of the investments subject to the trusts of unit trust schemes managed by any one body (but see paragraph 16 of Part 2).</td><td>25%</td><td>35%</td></tr>
+<tr><td colspan="4"><strong>10.</strong> All investments in open-ended investment companies where the collective investment schemes constituted by the companies are managed by one body.</td><td>25%</td><td>35%</td></tr>
+<tr><td colspan="4"><strong>11.</strong> All investments in units or other shares of the investments subject to the trusts of unit trust schemes and all investments in open-ended investment companies where the unit trust schemes and the collective investment schemes constituted by those companies are managed by any one body (but see paragraph 16 of Part 2).</td><td>25%</td><td>35%</td></tr>
+<tr><td colspan="4"><strong>12.</strong> Any single insurance contract.</td><td>25%</td><td>35%</td></tr>
+<tr><td colspan="4"><strong>13.</strong> All securities transferred (or agreed to be transferred) by the administering authority under stock lending arrangements.</td><td>25%</td><td>35%</td></tr>
+</tbody>
+</table>
+
+[^key-40dcf77381be101ff4cf4d1ad6d3f7df]
+
+### PART 2 — Exceptions to limits in the table in Part 1
+
+**14.**[^key-acbe1ed03ef32ef16923fa4aa36ade72] The limit in paragraph 4 of the table does not apply to a Government loan.
+
+**15.**[^key-f5d7020c4573972777dad5f359d5c252] The limit in paragraph 6 of the table does not apply if—
+
+- (a) the investment is made by an investment manager appointed under regulation 8; and
+- (b) the single holding is in units or other shares of the investments subject to the trusts of any one unit trust scheme.
+
+**16.**[^key-08cd4b60b12bc7cdecdb48cd8a4bc4a0] The limits in paragraphs 6, 9 and 11 of the table do not apply to—
+
+- (a) National Savings Certificates;
+- (b) fixed-interest securities issued by Her Majesty’s Government in the United Kingdom, the Government of Northern Ireland or the Government of the Isle of Man and registered in the United Kingdom or the Isle of Man or Treasury Bills;
+- (c) any securities the payment of interest on which is guaranteed by Her Majesty’s Government in the United Kingdom or the Government of Northern Ireland; or
+- (d) a deposit with a relevant institution.
+
+### PART 3 — Interpretation
+
+**17.**[^key-dbf7ee7514964d8687f05262341b025c] In this Schedule—
+
+- “collective investment scheme” has the meaning given in section 235 of the 2000 Act;
+- “companies” includes companies established under the law of any territory outside the United Kingdom;
+- “government loan” means a loan—
+  - (a) to Her Majesty’s Government in the United Kingdom; or
+  - (b) to the Government of the Isle of Man;
+- “listed securities” means securities quoted on a recognised stock exchange;
+- “loan” does not include—
+  - (a) investing money in registered securities to which section 1 of the Stock Transfer Act 1963[^f00020] applies (transfer by stock transfer forms) or in listed securities; or
+  - (b) depositing money with a relevant institution,
+
+  and “lent” must be understood in that way;
+- “open-ended investment company” means an open-ended investment company as defined in section 236 of the 2000 Act which is an undertaking for collective investment schemes to which Council Directive No. [85/611/EEC](https://www.legislation.gov.uk/european/directive/1985/0611) co-ordinating the laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities, as last amended by European Parliament and Council Directive No. [2001/108/EC](https://www.legislation.gov.uk/european/directive/2001/0108)[^f00021] applies;
+- “relevant institution” means—
+  - (a) a person who has permission under Part 4 of the 2000 Act (permission to carry on regulated activities) to accept deposits;
+  - (b) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 (EEA passport rights) to that Act[^f00022] which has permission under paragraph 15(1) of that Schedule[^f00023] (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to accept deposits; or
+  - (c) a person who is an exempt person in respect of accepting deposits as a result of an order made under section 38(1) of that Act (exemption orders);
+- “single holding” means investments—
+  - (a) in securities of, or in loans to or deposits with, any one body;
+  - (b) in units or other shares of the investments subject to the trust of any one unit trust scheme; or
+  - (c) in transactions involving any one piece of land or other property;
+- “unlisted securities” means securities which are not quoted on a recognised stock exchange.
+
+## SCHEDULE 2 — CONSEQUENTIAL AMENDMENTS
+
+Regulation 17(1)
+
+**1.**[^key-097c83c09aa34bc298ec6ad064cd3052] In the Local Government Pension Scheme (Administration) (Scotland) Regulations 2008[^f00024]—
+
+- (a) in regulation 31(2)(b)(ii) (funding strategy statement), for “regulation 9A of the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 1998” substitute “regulation 12 of the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010”; and
+- (b) in regulation 38(2)(b) (payment by employing authorities to appropriate administering authorities), for “regulation 5(6) of the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 1998” substitute “regulation 4(6) of the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 2010”.
+
+## SCHEDULE 3 — REVOCATIONS[^key-d1cc04fd8e3abe393fe97c4b61be2ef3]
+
+Regulation 17(2)
+
+| *Column (1)*<br>*Regulations revoked* | *Column (2)*<br>*References* | *Column (3)*<br>*Extent of Revocation* |
+| --- | --- | --- |
+| Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 1998 | [S.I. 1998/2888](https://www.legislation.gov.uk/uksi/1998/2888) | The whole Regulations |
+| Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Amendment Regulations 2000 | [S.S.I. 2000/74](https://www.legislation.gov.uk/ssi/2000/74) | The whole Regulations |
+| Local Government Pension Scheme (Pension Sharing on Divorce) (Scotland) Regulations 2001 | [S.S.I. 2001/23](https://www.legislation.gov.uk/ssi/2001/23) | Regulation 2 |
+| Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Amendment Regulations 2003 | [S.S.I. 2003/138](https://www.legislation.gov.uk/ssi/2003/138) | The whole Regulations |
+| Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Amendment Regulations 2004 | [S.S.I. 2004/134](https://www.legislation.gov.uk/ssi/2004/134) | The whole Regulations |
+| Local Government Pension Scheme (Scotland) Amendment Regulations 2007 | [S.S.I. 2007/514](https://www.legislation.gov.uk/ssi/2007/514) | Regulations 19, 20 and 21 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations consolidate the Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Regulations 1998 as amended. In addition to minor and drafting changes, the following changes of substance have been made.
+
+Regulation 3(4) (definition of “investment”) provides that the use of pension fund money for any purpose for which the local authority may borrow money shall count as an investment for the purposes of these Regulations prior to 1st April 2011, after which it will cease to count as an investment.
+
+Regulation 5 (power to borrow) sets out the circumstances in which the administering authority may borrow money for the purposes of its pension fund and the rules applying to the repayment of any such borrowing.
+
+Regulation 6 (separate bank account) provides that pension fund money must, by 1st April 2011, be kept in a separate bank account held by the administering authority for that purpose.
+
+Other provisions provide for: general definitions (regulation 2), what counts as an investment (regulation 3), the sums which an administering authority must pay to and pay from its pension fund (regulation 4), the power to appoint an investment manager including the terms of such appointment and the requirement to keep the performance of any such manager under review (regulations 7 to 10), general provisions concerning investments including the requirement to prepare and maintain an investment policy (regulation 11), the requirement to prepare, maintain and publish a statement of investment principles (regulation 12), the limits which apply to certain types of investments and the requirements which apply if such limits are to be increased (regulations 14 and 15) and the requirement to pay interest on fund money used by the administering authority (regulation 16). Schedule 2 makes consequential amendments and Schedule 3 revokes the enactments which these Regulations replace.
+
+Tables of Derivations and Destinations have been prepared identifying individual regulations in these Regulations with the equivalent provisions in the superseded Regulations and vice versa. Copies of the Tables may be obtained from David Lauder, Scottish Public Pensions Agency, 7 Tweedside Park, Galashiels, TD1 3TE. The Tables have been prepared to assist readers of these Regulations and do not have any legal effect.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11). The functions of the Secretary of State exercised in the making of these Regulations were transferred to the Scottish Ministers as regards Scotland by virtue of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
+
+[^key-a67d54baa2a7e3dd4debb7d7a5dd6511]: Commencement: Reg. 1 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-6d0f33bb02fe1eacc85faf900f33fd4a]: Commencement: Reg. 2 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^f00002]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
+
+[^f00003]: Footnote: [S.S.I. 2008/228](https://www.legislation.gov.uk/ssi/2008/228); as amended by [S.S.I. 2009/93](https://www.legislation.gov.uk/ssi/2009/93), [S.S.I. 2009/187](https://www.legislation.gov.uk/ssi/2009/187) and [S.S.I. 2010/234](https://www.legislation.gov.uk/ssi/2010/234).
+
+[^f00004]: Footnote: [2007 c.3](https://www.legislation.gov.uk/ukpga/2007/3); as amended by the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11), Schedule 26.
+
+[^f00005]: Footnote: [1992 c.12](https://www.legislation.gov.uk/ukpga/1992/12); section 263B was inserted by Finance Act [1997 (c.16)](https://www.legislation.gov.uk/ukpga/1997/16), Schedule 10, paragraph 5(1).
+
+[^f00006]: Footnote: Amended by the Regulation of Financial Services (Land Transactions) Act [2005 (c.24)](https://www.legislation.gov.uk/ukpga/2005/24), section 1 and the Dormant Bank and Building Society Accounts Act [2008 (c.31)](https://www.legislation.gov.uk/ukpga/2008/31), Schedule 2, paragraph 1.
+
+[^key-33cab5973f22b73dbdf7b0caff9ff0e4]: Commencement: Reg. 3 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^f00007]: Footnote: Amended by [S.I. 2004/3379](https://www.legislation.gov.uk/uksi/2004/3379).
+
+[^f00008]: Footnote: Amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [3253](https://www.legislation.gov.uk/uksi/2007/3253).
+
+[^f00009]: Footnote: The Department for Communities and Local Government has produced a document setting out rules 5.4.4R and 5.4.6R of the Collective Investment Schemes Sourcebook, modified as specified in regulation 3(9). A copy of this document may be obtained by contacting the Departments Workforce Pay and Pensions Division (tel. 0303 444 2167 or e-mail robert.holloway@communities.gsi.gov.uk).
+
+[^key-22b9e8235c29d53498231af25e0a763f]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/ssi/2010/233/regulation/3/8) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 183](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/183)
+
+[^key-c93cc5ccdf5c08fc2aee51d18e8dbd52]: Commencement: Reg. 4 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^f00011]: Footnote: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30); sections 23 and 24 were amended by the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 27, paragraphs 157 and 158 and Schedule 30.
+
+[^f00012]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
+
+[^f00013]: Footnote: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^f00014]: Footnote: [S.S.I. 2008/230](https://www.legislation.gov.uk/ssi/2008/230), as amended by [S.S.I. 2009/93](https://www.legislation.gov.uk/ssi/2009/93), [2009/187](https://www.legislation.gov.uk/ssi/2009/187) and [2010/234](https://www.legislation.gov.uk/ssi/2010/234).
+
+[^f00015]: Footnote: [S.S.I. 2008/229](https://www.legislation.gov.uk/ssi/2008/229), as amended by [S.S.I. 2009/93](https://www.legislation.gov.uk/ssi/2009/93) and [2009/187](https://www.legislation.gov.uk/ssi/2009/187).
+
+[^key-9eadb28b151861e8f0e35f63542ff6ed]: Commencement: Reg. 5 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-39ed3efd420d6f8b942fe39a3628b2cf]: Commencement: Reg. 6 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^f00016]: Footnote: Amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253).
+
+[^key-f2c0416354a610ae0b7884e91a06b361]: Commencement: Reg. 7 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^f00017]: Footnote: Amended by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473), [S.I. 2006/3221](https://www.legislation.gov.uk/uksi/2006/3221) and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
+
+[^key-ae143472fa096f554c3ace1ebe51faf2]: Commencement: Reg. 8 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-500f63210e8989b2d1bb6fe79a9d8c91]: Commencement: Reg. 9 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-c8a501934480ab60c7890fcb2735f968]: Commencement: Reg. 10 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-9c43d6c23795b289ee7fb374432e0144]: Commencement: Reg. 11 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-8ed0f4ee6d553bee112c040026e15d04]: Commencement: Reg. 12 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-69585669782af9173cd0fecdc808fe87]: Commencement: Reg. 13 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^f00018]: Footnote: [1961 c.62](https://www.legislation.gov.uk/ukpga/1961/62).
+
+[^key-49a48636ea1fd24b4f8e8411fe1dd239]: Commencement: Reg. 14 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^f00019]: Footnote: [The Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378](https://www.legislation.gov.uk/uksi/2005/3378), amended by [S.I. 2007/814](https://www.legislation.gov.uk/uksi/2007/814), [2009/615](https://www.legislation.gov.uk/uksi/2009/615)) which, in particular, prescribe certain investments as employer-related investments in addition to those specified in section 40(2) of the Pensions Act 1995, set out restrictions on employer-related investments and make provision as regards the application of the restrictions to schemes in relation to which there is more than one employer, may further restrict or limit investment of fund money.
+
+[^key-f9e9cf0eb394c92c389b359f7238edb1]: Commencement: Reg. 15 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-f4c831b463ba5c4cd51266f8b9ef5a42]: Commencement: Reg. 16 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-2f10d9645d4b8e85b8390e6f7dfce9a2]: Commencement: Reg. 17 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-e9e2864490e18b3254630354aa0c6822]: Commencement: Sch. 1 Pt. 1 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-40dcf77381be101ff4cf4d1ad6d3f7df]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2010/233/schedule/1) substituted (1.4.2016) by [The Local Government Pension Scheme (Management and Investment of Funds) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/74)](https://www.legislation.gov.uk/ssi/2016/74), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/74/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2016/74/regulation/2)
+
+[^key-acbe1ed03ef32ef16923fa4aa36ade72]: Commencement: Sch. 1 para. 14 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-f5d7020c4573972777dad5f359d5c252]: Commencement: Sch. 1 para. 15 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-08cd4b60b12bc7cdecdb48cd8a4bc4a0]: Commencement: Sch. 1 para. 16 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^key-dbf7ee7514964d8687f05262341b025c]: Commencement: Sch. 1 para. 17 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^f00020]: Footnote: [1963 c.18](https://www.legislation.gov.uk/ukpga/1963/18).
+
+[^f00021]: Footnote: [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066).
+
+[^f00022]: Footnote: Amended by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and [S.I. 2006/3221](https://www.legislation.gov.uk/uksi/2006/3221).
+
+[^f00023]: Footnote: Amended by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253).
+
+[^key-097c83c09aa34bc298ec6ad064cd3052]: Commencement: Sch. 2 para. 1 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)
+
+[^f00024]: Footnote: [S.S.I. 2008/228](https://www.legislation.gov.uk/ssi/2008/228).
+
+[^key-d1cc04fd8e3abe393fe97c4b61be2ef3]: Commencement: Sch. 3 in force at 5.7.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/233/regulation/1/2)

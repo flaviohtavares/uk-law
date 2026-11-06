@@ -1,0 +1,45 @@
+---
+title: Land Reform (Scotland) Act 2016, section 68
+act: Land Reform (Scotland) Act 2016
+section: '68'
+status: revised-with-pending-changes
+text_date: '2026-03-16'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/18/section/68
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Reform (Scotland) Act 2016, section 68
+
+> **Warning: changes not yet applied to this text (63).** Text as at 2026-03-16. See https://www.legislation.gov.uk/changes/affected/asp/2016/18
+>
+> Extent: Scotland.
+
+## 68. Grants towards liabilities to pay compensation[^key-33c39d2e887d1eea6e3adce947dd7d5a]
+
+*Extent: S*
+
+(1) The Scottish Ministers may, in the circumstances set out in subsection (2), pay a grant to a Part 5 community body or a third party purchaser.
+
+(2) Those circumstances are—
+
+- (a) that after settlement of its other liabilities connected with the exercise of its right to buy land or, as the case may be, a tenant's interest under this Part, the Part 5 community body or, as the case may be, the third party purchaser has insufficient money to pay, or to pay in full, the amount of compensation it has to pay under section 67,
+- (b) that the Part 5 community body or, as the case may be, the third party purchaser has taken all reasonable steps to obtain money in order to pay, or to pay in full, that amount (other than applying for a grant under this section) but has been unable to obtain the money, and
+- (c) that it is in the public interest that the Scottish Ministers pay the grant.
+
+(3) The fact that all the circumstances set out in subsection (2) are applicable in a particular case does not prevent the Scottish Ministers from refusing to pay a grant in that case.
+
+(4) A grant under this section may be made subject to conditions which may stipulate repayment in the event of breach.
+
+(5) The Scottish Ministers may pay a grant under this section only on the application of a Part 5 community body or third party purchaser.
+
+(6) An application for such a grant must be made in such form and in accordance with such procedure as the Scottish Ministers may by regulations specify.
+
+(7) The Scottish Ministers must issue their decision on an application under this section in writing accompanied by, in the case of a refusal, a statement of the reasons for it.
+
+(8) The Scottish Ministers' decision on an application under this section is final.
+
+## Annotations
+
+[^key-33c39d2e887d1eea6e3adce947dd7d5a]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2016/18/section/68) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

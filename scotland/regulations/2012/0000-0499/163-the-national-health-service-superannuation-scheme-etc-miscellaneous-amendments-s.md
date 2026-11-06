@@ -1,0 +1,377 @@
+---
+title: The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2012
+id: ssi/2012/163
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-05-21'
+text_date: '2013-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2012/163
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2012/163/pdfs/ssien_20120163_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/163/pdfs/ssi_20120163_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/163/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2012
+
+> Text as at 2013-07-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2012 No. 163
+
+National Health Service
+
+The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2012
+
+Made
+
+21st May 2012
+
+Laid before the Scottish Parliament
+
+24th May 2012
+
+Coming into force
+
+28th June 2012
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 10 and 12 of, and Schedule 3 to, the Superannuation Act 1972[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 10(1) of that Act, these Regulations are made with the consent of the Treasury[^f00002].
+
+In accordance with section 10(4) of that Act, the Scottish Ministers have consulted with such representatives of persons likely to be affected by these Regulations as appear to them to be appropriate.
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and effect[^key-28f18a5133070772915bee04c19c48a8]
+
+(1) These Regulations may be cited as the National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2012.
+
+(2) These Regulations come into force on 28th June 2012 and, except as provided in paragraphs (3) to (10), have effect from that date[^f00003].
+
+(3) Regulations 13(a), 18, 20, 21(a) and (b) and 27 have effect from 1st April 2008.
+
+(4) Regulations 4 and 10 (except regulation 10(b)(iii)) have effect from 1st April 2011.
+
+(5) Regulations 7(c) (except inserted paragraphs (12) and (13)), 9, 16, 17, 24 and 25 have effect from 6th April 2011.
+
+(6) Regulation 29 has effect from 11th August 2011.
+
+(7) Regulation 3 has effect from 1st October 2011.
+
+(8) Regulation 26 has effect from 28th November 2011.
+
+(9) Regulations 5, 6, 10(b)(iii), 13(b), 14, 19, 21(c) and 22 have effect from 1st April 2012.
+
+(10) Regulations 7(a) and (b), and 12(a) have effect from 6th April 2012.
+
+## PART 2 — AMENDMENT OF THE NATIONAL HEALTH SERVICE SUPERANNUATION SCHEME (SCOTLAND) REGULATIONS 2011
+
+**2.**[^key-9772e273deb128cc8d48ee85368b1aa4] The National Health Service Superannuation Scheme (Scotland) Regulations 2011[^f00004] are amended in accordance with this Part.
+
+**3.**[^key-9b6a34fa62fe3479d55276554786bdf4] In regulation D2 (contributions and other payments by employing authorities), after paragraph (5) insert—
+
+> (5A) In paragraph (5)(a), the cost of providing the pension excludes any increase in the benefits payable to the member which are attributable to the purchase by the member of additional service or additional pension under Part Q of this Section of the scheme.
+
+.
+
+**4.**[^key-59bab5ab5bdb95e5d55fdf4af82dfa26] In regulation N4 (transfers that are not made under the Public Sector Transfer Arrangements), in paragraph (1) for “N2” substitute “N3”.
+
+**5.**[^key-bf27c933fac8b2b82df1b714ab9a19c0] In regulation R7 (former members of health service schemes), in paragraph (1)—
+
+- (a) in sub-paragraph (b), omit from “or a scheme” to the end;
+- (b) after sub-paragraph (b), insert—
+
+  > - (ba) in the case of a member whose pensionable employment commenced on or before 31st March 2012, a superannuation scheme made under section 2 of the Superannuation Act 1984 (an Act of Tynwald)[^f00005], or
+
+  .
+
+**6.**[^key-e3ca9a44e786550858c80ce9550652f4] In regulation S1 (suspension of pension on return to NHS employment), for paragraph (5) substitute—
+
+> (5) For the purposes of this regulation “NHS employment” includes—
+>
+> - (a) employment in respect of which regulations made under section 10 of the Superannuation Act 1972, and having effect in England and Wales, apply;
+> - (b) employment to which regulations made under Article 12 of the Superannuation (Northern Ireland) Order 1972 apply; and
+> - (c) employment commencing on or before 31st March 2012 to which a scheme made under section 2 of the Superannuation Act 1984 (an Act of Tynwald) applies.
+
+.
+
+**7.**[^key-7359007eb57aec67cfe27f301147cbf9] In regulation T3 (deduction of tax: further provisions)—
+
+- (a) in paragraph (4) after “entitlement to” insert “transitional protection against a lifetime allowance charge,”;
+- (b) after paragraph (5) insert—
+
+  > (5A) If a person claiming a benefit under these Regulations intends to rely on entitlement to transitional protection against a lifetime allowance charge in accordance with paragraph 14 of Schedule 18 to the Finance Act 2011[^f00006], that person must give to the scheme administrator—
+  >
+  > - (a) the reference number issued by the Commissioners under the Registered Pension Schemes (Lifetime Allowance Transitional Protection) Regulations 2011[^f00007] in respect of that entitlement; and
+  > - (b) the information referred to in paragraph (4).
+
+  ; and
+- (c) for paragraph (9), substitute—
+
+  > (9) This paragraph applies to a member who—
+  >
+  > - (a) is liable to an annual allowance charge in accordance with section 237A of the 2004 Act; and
+  > - (b) meets the conditions specified in paragraph (1) of section 237B of that Act.
+  >
+  > (10) Subject to section 237C of the 2004 Act, a member to whom paragraph (9) applies may give notice in writing to the scheme administrator specifying that the scheme administrator and the member are to be jointly and severally liable for the payment of the annual allowance charge due in respect of that member in accordance with section 237B of the 2004 Act.
+  >
+  > (11) Unless the scheme administrator’s liability to an annual allowance charge referred to in paragraph (10) is discharged in accordance with section 237D of the 2004 Act—
+  >
+  > - (a) that annual allowance charge will be paid by the scheme administrator on behalf of the member; and
+  > - (b) that member’s present or future benefits in respect of which that charge arises are to be adjusted in accordance with section 237E of the 2004 Act and calculated by reference to advice provided by the Scheme Actuary for that purpose.
+  >
+  > (12) Paragraph (13) applies to members who are practitioners or non-GP providers.
+  >
+  > (13) The members referred to in paragraph (12) must provide the information required by regulation 15A of the Registered Pension Schemes (Provision of Information) Regulations 2006[^f00008] in respect of their benefits under the scheme, in a manner prescribed from time to time by the Scottish Ministers.
+  >
+  > (14) “Enhanced lifetime allowance” and “enhanced protection” are to be construed in accordance with the 2004 Act.
+
+  .
+
+**8.**[^key-5dc4852f21be2f9604d4c865c9a5f542] In regulation T8 (commutation of trivial pensions), for paragraph (3)(b) substitute—
+
+> - (b) either—
+>   - (i) the lump sum rule and lump sum death benefit rule; or
+>   - (ii) the requirements of regulation 12 of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00009] (payments by larger pension schemes).
+
+.
+
+**9.**[^key-97f633da568ee9cf32ea7aea9989b32f] In regulation U2 (determination of questions)—
+
+- (a) in paragraph (3), after “paragraph (4)” insert “or in making a decision referred to in paragraph (5),”;
+- (b) in paragraph (4)(e), for “and E12” substitute “, E12 and V17”; and
+- (c) after paragraph (4), insert—
+
+  > (5) The decision referred to for the purposes of paragraph (3) is a decision as to whether a person is able to satisfy the severe ill-health condition for the purposes of section 229(3)(a) of the 2004 Act (total pension input amount).
+
+  .
+
+**10.**[^key-cf2620580f2c149a731d382f465902d8] Schedule 1 (medical and dental practitioners) is amended as follows—
+
+- (a) for paragraph 5(2)(a)(viii) substitute—
+
+  > - (viii) payments made to a principal practitioner by a Health Board with whom that practitioner has an arrangement to provide general dental services or general ophthalmic services or pharmaceutical services for the provision of such services;
+
+  ;
+- (b) in paragraph 14—
+  - (i) in sub-paragraph (8) after “Health Board” insert “(or, in the case of dentists or ophthalmic medical practitioners, the Health Board with whom they have an arrangement to provide general dental services or general ophthalmic services)”;
+  - (ii) in sub-paragraph (12), after “Health Board” (in each place where it occurs) insert “(or, in the case of dentists or ophthalmic medical practitioners, the Health Board with whom they have an arrangement to provide general dental services or general ophthalmic services)”;
+  - (iii) omit sub-paragraph (13);
+  - (iv) in sub-paragraph (20)(b), after “Health Board” insert “(or, in the case of dentists or ophthalmic medical practitioners, the Health Board with whom they have an arrangement to provide general dental services or general ophthalmic services)”; and
+  - (v) in sub-paragraph (21), after “Health Board” (in each place where it occurs) insert “(or, in the case of dentists or ophthalmic medical practitioners, the Health Board with whom they have an arrangement to provide general dental services or general ophthalmic services)”.
+
+## PART 3 — AMENDMENT OF THE NATIONAL HEALTH SERVICE PENSION SCHEME (SCOTLAND) REGULATIONS 2008
+
+**11.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.** [^key-2af5937a4c568714bd636c3df20eeda6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**25.**[^key-2af5937a4c568714bd636c3df20eeda6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — AMENDMENT OF THE NATIONAL HEALTH SERVICE SUPERANNUATION SCHEME (SCOTLAND) (ADDITIONAL VOLUNTARY CONTRIBUTIONS) REGULATIONS 1998
+
+**26.**[^key-b327aff45ae3ef2324c1e89b514c55aa] In regulation 10 (outward transfers) of the National Health Service Superannuation Scheme (Scotland) (Additional Voluntary Contributions) Regulations 1998[^f00012]—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) Subject to—
+  >
+  > - (a) paragraphs (4) to (7); and
+  > - (b) the cancellation, pursuant to regulation 5(1) or (2), of any election made under regulation 3(1),
+  >
+  > the Scottish Ministers must, as soon as reasonably practicable after having received a notice in writing from an eligible person requesting a transfer of the value of that person’s investments made in relation to that person under regulation 7(1), 8(2) or 9(4), pay a transfer value representing the value of all such investments at that person’s option to any other registered pension scheme in which the person may be participating.
+
+  ; and
+- (b) omit paragraph (3).
+
+## PART 5 — AMENDMENT OF THE NATIONAL HEALTH SERVICE (SCOTLAND) (INJURY BENEFITS) REGULATIONS 1998
+
+**27.**[^key-e2208a7290c145316a45eb711414549b] The National Health Service (Scotland) (Injury Benefits) Regulations 1998[^f00013] are amended in accordance with this Part.
+
+**28.**[^key-a69d272c1a82c11f6d2f450030b3658e] In regulation 2(1) (interpretation), for the definition of “section 17C agreement provider” substitute—
+
+> - “section 17C agreement provider” has the same meaning as in the 2011 Regulations;
+
+.
+
+**29.**[^key-dab256e403e8ddfd446cd7f31a0711ff] In regulation 4 (scale of benefits)—
+
+- (a) omit “and” at the end of paragraph (6)(a)(ii); and
+- (b) after paragraph (6)(a)(iii) insert—
+
+  > ; and
+  >
+  > - (iv) reduction in the amount of that pension under paragraph (11)(b) of regulation T3 of the 2011 Regulations (deduction of tax: further provisions) or paragraph (6)(b) of regulation 2.J.8 or 3.J.8 of the 2008 Regulations (deductions of tax).
+
+  .
+
+## PART 6 — MISCELLANEOUS
+
+### 30. Option to persons detrimentally affected by these Regulations[^key-7dc65953260cef39931424f7971e6593]
+
+(1) This regulation applies in relation to any benefit which is being paid or may become payable under the regulations amended by these Regulations to or in respect of a person who, having served in an employment or office, service in which qualified the person to participate in the benefits provided under the regulations amended by these Regulations, ceased to serve therein before the provisions of these Regulations, applying to the person, have effect.
+
+(2) Where, in a case to which this regulation applies, any provision of these Regulations would operate in relation to any person so as to place that person in a worse position than that person would have been if that provision had not applied, that person may elect that the provision shall not apply by giving notice in accordance with paragraph (3).
+
+(3) A notice given pursuant to paragraph (2) must be in writing and is to be delivered to the Scottish Ministers within 6 months of the date of coming into force of these Regulations or such longer period as the Scottish Ministers may allow.
+
+JOHN SWINNEY
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+15th May 2012
+
+We consent
+
+JEREMY WRIGHT
+
+JAMES DUDDRIDGE
+
+Two of the Lord’s Commissioners of Her Majesty’s Treasury
+
+21st May 2012
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service Superannuation Scheme (Scotland) Regulations 2011 (“the 2011 Regulations”), the National Health Service Pension Scheme (Scotland) Regulations 2008 (“the 2008 Regulations”), the National Health Service Superannuation Scheme (Scotland) (Additional Voluntary Contributions) Regulations 1998 (“the Additional Voluntary Contributions Regulations”) and the National Health Service (Scotland) (Injury Benefits) Regulations 1998 (“the Injury Benefits Regulations”).
+
+Regulation 1 provides for citation, commencement and effect, including that certain provisions of this instrument are to take effect from a date before the Regulations come into force.
+
+## Amendments in connection with changes made by the Finance Act 2011
+
+Regulations 7 (part), 9, 12(a), 16, 17, 24 and 25 amend the 2011 Regulations and the 2008 Regulations in connection with changes made by the Finance Act [2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11) in relation to—
+
+- (a) an individual’s annual allowance in respect of year on year increases to pension savings before those savings incur a tax charge (“an annual allowance charge”);
+- (b) a new requirement that, in certain circumstances, requires a scheme to pay an annual allowance charge and reduce an individual’s benefits accordingly;
+- (c) an individual’s lifetime allowance in respect of total pension savings before those savings incur a tax charge, and the process by which an individual can protect that allowance at the current value; and
+- (d) the determination advice by medical advisors as to whether an individual meets the severe ill-health condition referred to in section 229 of the Finance Act 2004.
+
+## Amendments in connection with the introduction of the Isle of Man Unified Public Service Pension Scheme on 1st April 2012
+
+Regulations 5, 13(b) and 19 amend the 2011 Regulations and the 2008 Regulations so that the dedicated pension transfer arrangements for staff moving from the National Health Service in the Isle of Man to the National Health Service in Scotland are discontinued in respect of staff joining on or after 1st April 2012. Provisions that abate and suspend pensions on re-employment in the Isle of Man after retirement are also discontinued by virtue of regulations 6, 14 and 22.
+
+## Other amendments
+
+Regulation 3 amends regulation D2 of the 2011 Regulations to make it clear that employers do not pick up the cost, on redundancy, of additional service or pension purchased by the member.
+
+Regulation 4 corrects a reference in regulation N4 of the 2011 Regulations.
+
+Regulation 8 amends regulation T8 (commutation of trivial pensions) of the 2011 Regulations as a result of the provisions of the Registered Pension Schemes (Authorised Payments) Regulations 2009 in relation to the circumstances in which a small National Health Service pension can be regarded as a trivial amount for permissive commutation to a one-off lump sum payment.
+
+Regulation 9 amends regulation U2 (determination of questions) of the 2011 Regulations so that, in making a decision as to whether a person is able to satisfy the severe ill-health condition for the purposes of subsection (3)(a) of section 229 of the 2004 Act (total pension input amount), the Scottish Ministers may require a person who requests that determination to submit to a medical examination. It also adds regulation V17 of the 2011 Regulations to the list of regulations in relation to which the Scottish Ministers may require a person seeking a determination (in relation to life expectancy) under that regulation to submit to a medical examination.
+
+Regulations 10 and 21 amend paragraphs 5(2)(a)(viii) and 14 of Schedule 1 (medical and dental practitioners) to the 2011 Regulations and also regulation 3.C.2 of the 2008 Regulations to clarify the meaning of “practitioner income” and the flow of contributions in respect of dentists and ophthalmic medical practitioners.
+
+Regulation 13(a) corrects a reference in regulation 2.A.1 of the 2008 Regulations.
+
+Regulations 15 and 23 amend regulations 2.J.5 and 3.J.5 of the 2008 Regulations relating to the commutation of small pensions under the provisions of the Registered Pension Schemes (Authorised Payments) Regulations 2009 and the circumstances in which a small National Health Service pension can be regarded as a trivial amount for permissive commutation to a one-off payment.
+
+Regulation 18 restates regulation 2.K.4(4)(a) of the 2008 Regulations to clarify a previous amendment.
+
+Regulation 20 amends regulation 3.A.7 of the 2008 Regulations to clarify the meaning of “pensionable earnings” in the case of principal practitioners who are not in receipt of salary, wages or fees or any regular payments in respect of their employment as an officer.
+
+Regulation 26 amends regulation 10 (outward transfers) of the Additional Voluntary Contributions Regulations to enable all members to transfer the value of their Additional Voluntary Contributions to any registered pension scheme.
+
+Regulation 28 restates the definition of “section 17C agreement provider” in regulation 2 of the Injury Benefits Regulations to clarify a previous amendment.
+
+Regulation 29 amends the Injury Benefits Regulations so that where a person authorises a deduction from their pension scheme benefits in respect of an annual allowance charge, the amount of the deduction is disregarded for the purposes of regulation 4(6)(a) of those Regulations.
+
+Regulation 30 provides that certain persons who may be detrimentally affected by these Regulations may elect for the provisions not to apply to them.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11). Section 10 was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) sections 4(2), 8(5) and (6), the Pension Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), Schedule 8, paragraph 7 and the Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 ([S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)), article 108. The functions of the Secretary of State, so far as they are exercisable in or as regards Scotland, were transferred to Scottish Ministers by virtue of article 2 of and Schedule 1 to the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
+
+[^f00002]: Footnote: See the Superannuation Act 1972, section 10(1). This function was transferred to the Treasury by virtue of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)), article 2 and is still exercisable by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and Schedule 1.
+
+[^key-28f18a5133070772915bee04c19c48a8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/163/regulation/1) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^f00003]: Footnote: Section 12(1) of the Superannuation Act 1972 provides that regulations may be framed so as to have effect from a date earlier than that of their making.
+
+[^key-9772e273deb128cc8d48ee85368b1aa4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/163/regulation/2) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^f00004]: Footnote: [S.S.I. 2011/117](https://www.legislation.gov.uk/ssi/2011/117), amended by [S.S.I. 2011/173](https://www.legislation.gov.uk/ssi/2011/173) and [364](https://www.legislation.gov.uk/ssi/2011/364) and [2012/69](https://www.legislation.gov.uk/ssi/2012/69).
+
+[^key-9b6a34fa62fe3479d55276554786bdf4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/163/regulation/3) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^key-59bab5ab5bdb95e5d55fdf4af82dfa26]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/163/regulation/4) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^key-bf27c933fac8b2b82df1b714ab9a19c0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/163/regulation/5) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^f00005]: Footnote: [1984 c.8](https://www.legislation.gov.uk/ukpga/1984/8) (Tynwald).
+
+[^key-e3ca9a44e786550858c80ce9550652f4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2012/163/regulation/6) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^key-7359007eb57aec67cfe27f301147cbf9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/163/regulation/7) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^f00006]: Footnote: [2011 c.11](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^f00007]: Footnote: [S.I. 2011/1752](https://www.legislation.gov.uk/uksi/2011/1752).
+
+[^f00008]: Footnote: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567), amended by [S.I. 2006/1961](https://www.legislation.gov.uk/uksi/2006/1961) and [2004](https://www.legislation.gov.uk/uksi/2006/2004), [2008/720](https://www.legislation.gov.uk/uksi/2008/720), [2010/581](https://www.legislation.gov.uk/uksi/2010/581), [2011/301](https://www.legislation.gov.uk/uksi/2011/301) and [1797](https://www.legislation.gov.uk/uksi/2011/1797) and [2012/884](https://www.legislation.gov.uk/uksi/2012/884).
+
+[^key-5dc4852f21be2f9604d4c865c9a5f542]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2012/163/regulation/8) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^f00009]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171), amended by [S.I. 2011/1751](https://www.legislation.gov.uk/uksi/2011/1751) and [2012/522](https://www.legislation.gov.uk/uksi/2012/522).
+
+[^key-97f633da568ee9cf32ea7aea9989b32f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2012/163/regulation/9) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^key-cf2620580f2c149a731d382f465902d8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2012/163/regulation/10) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^key-2af5937a4c568714bd636c3df20eeda6]: Textual amendment: [Regs. 11-25](https://www.legislation.gov.uk/ssi/2012/163/regulation/11) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/1.A.01/2), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/5.B.01/2))
+
+[^key-b327aff45ae3ef2324c1e89b514c55aa]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2012/163/regulation/26) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^f00012]: Footnote: [S.I. 1998/1451](https://www.legislation.gov.uk/uksi/1998/1451); relevant amending instruments are [S.S.I. 2004/62](https://www.legislation.gov.uk/ssi/2004/62) and [2006/307](https://www.legislation.gov.uk/ssi/2006/307).
+
+[^key-e2208a7290c145316a45eb711414549b]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2012/163/regulation/27) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^f00013]: Footnote: [S.I. 1998/1594](https://www.legislation.gov.uk/uksi/1998/1594); relevant amending instruments are [S.S.I. 2005/512](https://www.legislation.gov.uk/ssi/2005/512), [2009/19](https://www.legislation.gov.uk/ssi/2009/19) and [2011/364](https://www.legislation.gov.uk/ssi/2011/364).
+
+[^key-a69d272c1a82c11f6d2f450030b3658e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2012/163/regulation/28) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^key-dab256e403e8ddfd446cd7f31a0711ff]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2012/163/regulation/29) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)
+
+[^key-7dc65953260cef39931424f7971e6593]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2012/163/regulation/30) in force at 28.6.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/163/regulation/1/2)

@@ -1,0 +1,1201 @@
+---
+title: Hunting with Dogs (Scotland) Act 2023
+id: asp/2023/1
+type: ScottishAct
+category: primary
+status: revised
+made_date: '2023-03-07'
+text_date: '2023-10-03'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2023/1
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2023/1/pdfs/aspen_20230001_en.pdf
+- http://www.legislation.gov.uk/asp/2023/1/pdfs/asp_20230001_en.pdf
+- http://www.legislation.gov.uk/asp/2023/1/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Hunting with Dogs (Scotland) Act 2023
+
+> Text as at 2023-10-03.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Hunting with Dogs (Scotland) Act 2023
+
+2023 asp 1
+
+An Act of the Scottish Parliament to make provision about the prohibition of hunting wild mammals using dogs; to make provision about the prohibition of trail hunting; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 24th January 2023 and received Royal Assent on 7th March 2023
+
+## Part 1 — Hunting a wild mammal using a dog
+
+### Offences
+
+#### 1. Offence of hunting a wild mammal using a dog[^key-e252debffcc3172dd441729edb3f9e86][^key-e7a65a9b287462fca13544285acd5692]
+
+(1) A person commits an offence if—
+
+- (a) the person hunts a wild mammal using a dog, and
+- (b) none of the exceptions in sections 3, 5, 6, 7, 8 or 9 apply.
+
+(2) A person who commits an offence under subsection (1) is liable—
+
+- (a) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding £40,000 (or both),
+- (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or a fine (or both).
+
+(3) In this Act—
+
+- “**hunting**” includes, in particular, searching for and coursing (and related expressions are to be construed accordingly),
+- “**wild mammal**” means any mammal (other than a human)—
+  - (a) which—
+    - (i) is living in a wild state,
+    - (ii) is of a species recognised as living in a wild state in the British Islands (as defined in schedule 1 of the Interpretation Act 1978), or
+    - (iii) has been deliberately released from temporary or permanent human control, and
+  - (b) which is not—
+    - (i) a rat,
+    - (ii) a mouse, or
+    - (iii) living under temporary or permanent human control.
+
+(4) In this Part, a person is “using a dog” when the hunting of a wild mammal by that person involves the use of a dog, even if the dog is not under that person’s control or direction (and related expressions are to be construed accordingly).
+
+#### 2. Offences of knowingly causing or permitting another person to hunt using a dog[^key-c05828a5519b7732db627789e0680d05][^key-6b490685b696954be9696c636286e762]
+
+(1) A person commits an offence if—
+
+- (a) the person—
+  - (i) is an owner or occupier of land, and
+  - (ii) knowingly causes or permits another person to hunt a wild mammal using a dog on that land, and
+- (b) none of the exceptions in sections 3, 5, 6, 7, 8 or 9 apply to the hunting.
+
+(2) A person commits an offence if—
+
+- (a) the person—
+  - (i) owns or is responsible for a dog, and
+  - (ii) knowingly causes or permits another person to hunt a wild mammal using that dog, and
+- (b) none of the exceptions in sections 3, 5, 6, 7, 8 or 9 apply to the hunting.
+
+(3) A person who commits an offence under subsection (1) or (2) is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding £40,000 (or both).
+
+(4) It is a defence for a person charged with an offence under subsection (1) or (2) to show that the person reasonably believed that any of the exceptions in sections 3, 5, 6, 7, 8 or 9 applied to the hunting.
+
+(5) In this Part, an “owner” of land includes a person who—
+
+- (a) manages or controls that land, or
+- (b) is authorised to give permission for that land to be used for hunting.
+
+(6) In this Act, a person “is responsible for” a dog where the person—
+
+- (a) is responsible for the dog on a temporary or permanent basis,
+- (b) is in charge of the dog, or
+- (c) has actual care and control of a person under the age of 16 years who is responsible for the dog under paragraph (a) or (b).
+
+### Exceptions to the offences
+
+#### 3. Exception: management of wild mammals above ground[^key-d19f612f5f0e2f3183a6b5bd5ca79c05][^key-61123a24a550585c8fd24745cc317880]
+
+(1) This section applies if—
+
+- (a) a person is using a dog above ground to—
+  - (i) search for, stalk or flush from cover a wild mammal, with the intention of killing it for one or more of the purposes set out in subsection (2),
+  - (ii) search for and retrieve a wild mammal which has been killed as a result of the activity mentioned in sub-paragraph (i), and
+- (b) the conditions set out in subsection (3) are met.
+
+(2) The purposes referred to in subsection (1)(a)(i) are—
+
+- (a) preventing serious damage to livestock, woodland or crops,
+- (b) preventing the spread of disease,
+- (c) protecting human health.
+
+(3) The conditions referred to in subsection (1)(b) are that—
+
+- (a) either—
+  - (i) the activity mentioned in subsection (1)(a) does not involve the use of more than two dogs, or
+  - (ii) the activity is carried out in accordance with a licence granted under section 4,
+- (b) any dog used in the activity is under control,
+- (c) unless paragraph (a)(ii) applies, reasonable steps are taken to ensure that any dog used in the activity does not join with others to form a pack of more than two dogs,
+- (d) permission for the activity has been given by the owner of the land on which the activity takes place,
+- (e) the wild mammal which is being searched for, stalked or flushed is shot dead, or killed by a bird of prey, as soon as reasonably possible,
+- (f) if an attempt to kill the wild mammal, as mentioned in paragraph (e), results in it being injured but not killed, reasonable steps are taken to kill it in a way (other than by using a dog) that causes it the minimum possible suffering.
+
+#### 4. Licence for use of more than two dogs in connection with section 3[^key-f41d532c4cd46eebeb1f9b15ec557690][^key-73fcfb8792c6cf366e409e4263ac0378]
+
+(1) A person may apply for a licence permitting the use of more than two dogs for the activity mentioned in section 3(1)(a).
+
+(2) An application for a licence under subsection (1) must—
+
+- (a) be made to the relevant authority,
+- (b) be in such form as the relevant authority may require,
+- (c) contain or be accompanied by such information as the relevant authority may require, which may in particular include—
+  - (i) the number of dogs for which permission is being sought,
+  - (ii) the number of guns intended to be deployed,
+- (d) be accompanied by payment of such reasonable fee as the relevant authority may require.
+
+(3) The relevant authority must publicise any requirements which are for the time being set under subsection (2)(b), (c) or (d).
+
+(4) A licence under subsection (1)—
+
+- (a) may be granted to a particular person or to a category of persons,
+- (b) must relate to a particular species of wild mammal,
+- (c) must not be granted unless the relevant authority is satisfied that there is no other solution which would be effective in achieving the purpose set out in section 3(2) in relation to which the application for a licence is being made,
+- (d) may only permit the use of the minimum number of dogs which the relevant authority is satisfied would be effective in achieving the purpose set out in section 3(2) in relation to which the application for a licence is being made,
+- (e) must require the deployment of the minimum number of guns which the relevant authority is satisfied would be effective for compliance with the conditions set out in section 3(3)(e) and (f) in relation to the activity for which the application for a licence is being made,
+- (f) may be subject to compliance with such conditions as the relevant authority considers appropriate, which may include, in particular, reporting requirements in relation to activities carried out under the licence,
+- (g) may be granted for a maximum period of 14 days, which must fall within a period of 6 consecutive months,
+- (h) may be modified or revoked by the relevant authority at any time.
+
+(5) A licence under subsection (1) must specify—
+
+- (a) the person or category of persons to whom it is granted,
+- (b) the species of wild mammal to which it relates,
+- (c) the area within which the searching for, stalking or flushing of that species of wild mammal may take place under the licence,
+- (d) the maximum number of dogs which are permitted to be used,
+- (e) the minimum number of guns (if any) which are required to be deployed,
+- (f) any conditions to which the licence is subject,
+- (g) the period of time for which the licence is valid.
+
+(6) In this section, “**relevant authority**” means—
+
+- (a) the Scottish Ministers, or
+- (b) where the Scottish Ministers have delegated their functions in relation to licences, Scottish Natural Heritage.
+
+#### 5. Exception: management of foxes below ground[^key-6cd7a2130bb5591e51fe639bc4b9db6f][^key-102a0c8c603f4be5e79201aa8447f907]
+
+(1) This section applies if—
+
+- (a) a person is using a dog to—
+  - (i) search for a fox below ground, or
+  - (ii) flush a fox from below ground,
+
+  with the intention of killing it for one or more of the purposes set out in subsection (2), and
+- (b) the conditions set out in subsection (3) are met.
+
+(2) The purposes referred to in subsection (1)(a) are—
+
+- (a) preventing serious damage to livestock, woodland or crops,
+- (b) preventing the spread of disease,
+- (c) protecting human health,
+- (d) relieving the suffering of an injured or dependent fox.
+
+(3) The conditions referred to in subsection (1)(b) are that—
+
+- (a) the activity mentioned in subsection (1)(a) does not involve the use of more than one dog,
+- (b) the dog used in the activity is—
+  - (i) under control,
+  - (ii) fitted with a device to allow tracking of the position of the dog below ground,
+- (c) reasonable steps are taken—
+  - (i) to prevent the dog becoming trapped below ground, and
+  - (ii) if the dog becomes trapped below ground, to ensure that it is rescued as soon as reasonably possible,
+- (d) permission for the activity has been given by the owner of the land on which the activity takes place,
+- (e) no steps are taken to prevent the fox from being flushed or emerging from below ground,
+- (f) if the fox which is being searched for or flushed is found or emerges from below ground, it is shot dead, or killed by a bird of prey, as soon as reasonably possible,
+- (g) if an attempt to kill the fox, as mentioned in paragraph (f), results in it being injured but not killed, reasonable steps are taken to kill it in a way (other than by using a dog) that causes it the minimum possible suffering.
+
+(4) In this section, “**dependent**” means that the mother of a fox is dead and it is too young to survive on its own.
+
+#### 6. Exception: falconry, game shooting and deer stalking[^key-6214ea39cf873a9a48b01ec914a7fdd7][^key-9945c60169d8691436c17c75cd898e61]
+
+(1) This section applies if—
+
+- (a) a person is using a dog above ground to—
+  - (i) search for, stalk or flush from cover a wild mammal, with the intention of providing quarry for falconry, game shooting or deer stalking,
+  - (ii) search for and retrieve a wild mammal which has been killed as a result of the activity mentioned in sub-paragraph (i), and
+- (b) the conditions set out in subsection (2) are met.
+
+(2) The conditions referred to in subsection (1)(b) are that—
+
+- (a) the activity mentioned in subsection (1)(a) does not involve the use of more than two dogs,
+- (b) any dog used in the activity is under control,
+- (c) reasonable steps are taken to ensure that any dog used in the activity does not join with others to form a pack of more than two dogs,
+- (d) permission for the activity has been given by the owner of the land on which the activity takes place,
+- (e) the wild mammal which is being searched for, stalked or flushed is shot dead, or killed by a bird of prey, as soon as reasonably possible,
+- (f) if an attempt to kill the wild mammal, as mentioned in paragraph (e), results in it being injured but not killed, reasonable steps are taken to kill it in a way (other than by using a dog) that causes it the minimum possible suffering.
+
+(3) In this section—
+
+- “**deer stalking**” means the stealthy approach of a deer in order to shoot it for sport,
+- “**falconry**” means the use of a bird of prey to hunt for sport,
+- “**game shooting**” means shooting wild mammals for sport,
+- “**quarry**” means the wild mammal intended to be killed by a bird of prey or shot.
+
+#### 7. Exception: relieving the suffering of injured wild mammals[^key-e1175e3442d8ee2abc2ce2ddb0f527ac][^key-86105cfbad954aff1869ebc19dcd2823]
+
+(1) This section applies if—
+
+- (a) a person is using a dog above ground to search for, stalk or flush from cover a wild mammal which the person has reasonable grounds for believing is injured, with the intention of treating, capturing or killing it for the purpose of relieving its suffering,
+- (b) the wild mammal was not deliberately injured for the purpose of allowing the activity mentioned in paragraph (a) to take place, and
+- (c) the conditions set out in subsection (2) are met.
+
+(2) The conditions referred to in subsection (1)(c) are that—
+
+- (a) the activity mentioned in subsection (1)(a) does not involve the use of more than two dogs,
+- (b) any dog used in the activity is under control,
+- (c) reasonable steps are taken to ensure that any dog used in the activity does not join with others to form a pack of more than two dogs,
+- (d) either—
+  - (i) permission for the activity has been given by the owner of the land on which the activity takes place,
+  - (ii) the person carrying out the activity is a constable exercising a power of entry,
+  - (iii) the person carrying out the activity is exercising a power of entry under section 14M or 14N of the Wildlife and Countryside Act 1981, or
+  - (iv) the person carrying out the activity is exercising a power of entry under section 15 of the Deer (Scotland) Act 1996,
+- (e) the wild mammal which is being searched for, stalked or flushed is, as soon as reasonably possible, either—
+  - (i) given treatment to reduce or alleviate its pain or discomfort before being allowed to escape without being pursued or killed,
+  - (ii) captured for the purpose of being given treatment to reduce or alleviate its pain or discomfort (whether at that place or at another place),
+  - (iii) shot dead, or
+  - (iv) observed and allowed to escape without being pursued or killed,
+- (f) if an attempt to kill the wild mammal, as mentioned in paragraph (e)(iii), results in it being injured but not killed, reasonable steps are taken to kill it in a way (other than by using a dog) that causes it the minimum possible suffering.
+
+#### 8. Exception: searching for dead wild mammals[^key-e3260ade13fabb7f587459794d70724c][^key-420455ef585c1ebfadee2c104ea508fe]
+
+(1) This section applies if—
+
+- (a) a person is using a dog above ground to search for and retrieve a dead wild mammal, and
+- (b) the conditions set out in subsection (2) are met.
+
+(2) The conditions referred to in subsection (1)(b) are that—
+
+- (a) the activity mentioned in subsection (1)(a) does not involve the use of more than two dogs,
+- (b) any dog used in the activity is under control,
+- (c) reasonable steps are taken to ensure that any dog used in the activity does not join with others to form a pack of more than two dogs,
+- (d) either—
+  - (i) permission for the activity has been given by the owner of the land on which the activity takes place,
+  - (ii) the person carrying out the activity is a constable exercising a power of entry,
+  - (iii) the person carrying out the activity is exercising a power of entry under section 14M or 14N of the Wildlife and Countryside Act 1981, or
+  - (iv) the person carrying out the activity is exercising a power of entry under section 15 of the Deer (Scotland) Act 1996,
+- (e) reasonable steps are taken to ensure that no wild mammal is pursued, injured or killed.
+
+#### 9. Exception: environmental benefit[^key-5a8855a08e6e211f14e35f822b2f9714][^key-47704ab606397795aecc7c94c02d46be]
+
+(1) This section applies if—
+
+- (a) the person is using a dog above ground to—
+  - (i) search for, stalk or flush from cover a wild mammal, with the intention of killing, capturing or observing it as part of a scheme or plan for one or more of the purposes set out in subsection (2),
+  - (ii) search for and retrieve a wild mammal which has been killed as a result of the activity referred to in sub-paragraph (i), and
+- (b) the conditions set out in subsection (3) are met.
+
+(2) The purposes referred to in subsection (1)(a)(i) are—
+
+- (a) preserving, protecting or restoring a particular species (which may include controlling the number of a species for its welfare) for environmental benefit,
+- (b) preserving, protecting or restoring the diversity of animal or plant life,
+- (c) eradicating an invasive non-native species of wild mammal from an area.
+
+(3) The conditions referred to in subsection (1)(b) are that—
+
+- (a) either—
+  - (i) the activity mentioned in subsection (1)(a) does not involve the use of more than two dogs, or
+  - (ii) the activity is carried out in accordance with a licence granted under section 10,
+- (b) any dog used in the activity is under control,
+- (c) unless paragraph (a)(ii) applies, reasonable steps are taken to ensure that any dog used in the activity does not join with others to form a pack of more than two dogs,
+- (d) either—
+  - (i) permission for the activity has been given by the owner of the land on which the activity takes place,
+  - (ii) the person carrying out the activity is exercising a power of entry under section 14M or 14N of the Wildlife and Countryside Act 1981, or
+  - (iii) the person carrying out the activity is exercising a power of entry under section 15 of the Deer (Scotland) Act 1996,
+- (e) the wild mammal which is being searched for, stalked or flushed is either—
+  - (i) captured (whether or not with the intention of subsequently releasing or relocating it) as soon as reasonably possible,
+  - (ii) shot dead, or killed by a bird of prey, as soon as reasonably possible, or
+  - (iii) observed and allowed to escape without being pursued, injured or killed,
+- (f) if an attempt to kill the wild mammal, as mentioned in paragraph (e)(ii), results in it being injured but not killed, reasonable steps are taken to kill it in a way (other than by using a dog) that causes it the minimum possible suffering.
+
+(4) In this section—
+
+- “**invasive non-native species**” means a species—
+  - (a) which is included on the Scottish list of species of special concern, or
+  - (b) which is—
+    - (i) not native to the area in which the activity mentioned in subsection (1)(a) takes place, and
+    - (ii) having or likely to have a significant adverse impact on biodiversity, the environment, social or economic interests or human or animal health,
+- “**Scottish list of species of special concern**” means the list of species in the Annex to [Commission Implementing Regulation (EU) 2016/1141](https://www.legislation.gov.uk/european/regulation/2016/1141) adopting a list of invasive alien species of Union concern pursuant to [Regulation (EU) No 1143/2014](https://www.legislation.gov.uk/european/regulation/2014/1143) of the European Parliament and of the Council, as amended from time to time.
+
+#### 10. Licence for use of more than two dogs in connection with section 9[^key-778424a9e27688e7a4bf014867e6693d][^key-0f195abf6d40c958e0e2ea17c7677c96]
+
+(1) A person may apply for a licence permitting the use of more than two dogs for the activity mentioned in section 9(1)(a).
+
+(2) An application for a licence under subsection (1) must—
+
+- (a) be made to the relevant authority,
+- (b) be in such form as the relevant authority may require,
+- (c) contain or be accompanied by such information as the relevant authority may require, which may in particular include—
+  - (i) the number of dogs for which permission is being sought,
+  - (ii) the number of guns intended to be deployed,
+- (d) be accompanied by payment of such reasonable fee as the relevant authority may require.
+
+(3) The relevant authority must publicise any requirements which are for the time being set under subsection (2)(b), (c) or (d).
+
+(4) A licence under subsection (1)—
+
+- (a) may be granted to a particular person or to a category of persons,
+- (b) must relate to a particular species of wild mammal,
+- (c) must not be granted unless the relevant authority is satisfied—
+  - (i) that killing, capturing or observing the wild mammal will contribute towards a significant or long-term environmental benefit, and
+  - (ii) that there is no other solution which would be effective in achieving the purpose set out in section 9(2) in relation to which the application for a licence is being made,
+- (d) may only permit the use of the minimum number of dogs which the relevant authority is satisfied would be effective in achieving the purpose set out in section 9(2) in relation to which the application for a licence is being made,
+- (e) must require the deployment of the minimum number of guns which the relevant authority is satisfied would be effective for compliance with the conditions set out in section 9(3)(e) and (f) in relation to the activity for which the application for a licence is being made,
+- (f) may be subject to compliance with such conditions as the relevant authority considers appropriate, which may include, in particular, reporting requirements in relation to activities carried out under the licence,
+- (g) may be granted for a maximum period of two years, which must fall within a period of two consecutive years,
+- (h) may be modified or revoked at any time by the relevant authority.
+
+(5) A licence under subsection (1) must specify—
+
+- (a) the person or category of persons to whom it is granted,
+- (b) the species of wild mammal to which it relates,
+- (c) the area within which the searching for, stalking or flushing of that species of wild mammal may take place under the licence,
+- (d) the maximum number of dogs which are permitted to be used,
+- (e) the minimum number of guns (if any) which are required to be deployed,
+- (f) any conditions to which the licence is subject,
+- (g) the period of time for which the licence is valid.
+
+(6) In this section, “**relevant authority**” has the same meaning as in section 4(6).
+
+### General provision on licences
+
+#### 11. Delegation of functions in relation to licences[^key-4e080043e6c251b5dde0ba5878be7947][^key-d5b8c50458427457d22ab8c94d4261a6]
+
+(1) The Scottish Ministers may delegate their functions in relation to licences under sections 4 and 10 to Scottish Natural Heritage.
+
+(2) Any delegation must be made by written direction.
+
+(3) A direction may include provision allowing Scottish Natural Heritage to modify or revoke licences that were granted before the direction.
+
+(4) The Scottish Ministers may modify or revoke a direction.
+
+(5) If a direction is revoked, any licence granted while the direction was in force continues to have effect unless the revocation provides otherwise.
+
+#### 12. Offence of providing false information to obtain a licence[^key-7e06705b252e0ea944df9c069306e62e][^key-fd9d92f9302fe1fd5d11a5e4f752ac17]
+
+(1) A person commits an offence if the person knowingly or recklessly makes a false or misleading statement for the purposes of obtaining (either personally or for another person) a licence under section 4 or 10.
+
+(2) A person who commits an offence under subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+#### 13. Review of operation of sections 4 and 10[^key-0355db0c6e0b81fb75d18bcde7425ff9][^key-8575f1f743ed246095974a9d4a8e6910]
+
+(1) The Scottish Ministers must review the operation of sections 4 and 10.
+
+(2) The first review under subsection (1) must be carried out no later than 31 December 2028.
+
+(3) The second and each subsequent review must be carried out no later than the expiry of the period of 5 years beginning with the date on which the last report on a review was published under subsection (5).
+
+(4) In carrying out a review, the Scottish Ministers must consult—
+
+- (a) such persons as they consider have an interest in the operation of sections 4 and 10, and
+- (b) such other persons as they consider appropriate.
+
+(5) As soon as reasonably possible after carrying out a review, the Scottish Ministers must—
+
+- (a) lay a report on the review before the Scottish Parliament, and
+- (b) publish the report in such manner as they consider appropriate.
+
+(6) A report under subsection (5) must set out—
+
+- (a) the action (if any) that the Scottish Ministers intend to take as a result of the review (for example, proposing a change to the law), and
+- (b) where the Scottish Ministers do not intend to take any action, their reasons for this.
+
+## Part 2 — Trail hunting
+
+### Offences
+
+#### 14. Offences relating to trail hunting[^key-b774fdb81892bf59574733953690c5fb][^key-cb8418475d6fc3766a3411f5dfd116a0]
+
+(1) A person commits an offence if—
+
+- (a) the person engages or participates in trail hunting, and
+- (b) the exception in section 16 does not apply.
+
+(2) In this Part—
+
+- “**trail hunting**” is the activity in which a dog is directed to find and follow an animal-based scent which has been laid for that purpose,
+- “**animal-based scent**” means—
+  - (a) a scent which is derived from a wild mammal, or
+  - (b) a scent which mimics, replicates or resembles the scent of a wild mammal (or which is designed to do so), whether or not that scent is derived wholly or in part from artificial ingredients.
+
+(3) A person commits an offence if—
+
+- (a) the person—
+  - (i) is an owner or occupier of land, and
+  - (ii) knowingly causes or permits another person to engage or participate in trail hunting on that land, and
+- (b) the exception in section 16 does not apply to the trail hunting.
+
+(4) A person commits an offence if—
+
+- (a) the person—
+  - (i) owns or is responsible for a dog, and
+  - (ii) knowingly causes or permits another person to use the dog for trail hunting, and
+- (b) the exception in section 16 does not apply to the trail hunting.
+
+(5) A person who commits an offence under subsection (1), (3) or (4) is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding £40,000 (or both).
+
+(6) It is a defence for a person charged with an offence under subsection (3) or (4) to show that the person reasonably believed that the exception in section 16 applied to the trail hunting.
+
+(7) In this Part, an “owner” of land includes, in particular, a person who—
+
+- (a) manages or controls that land, or
+- (b) is authorised to give permission for that land to be used for trail hunting.
+
+#### 15. Power to modify meaning of trail hunting[^key-294c404e135d94d3fe74422e4156f789][^key-cffe538031972b34abb15165880905c0]
+
+(1) The Scottish Ministers may by regulations modify section 14 so as to include in the definition of trail hunting a scent other than an animal-based scent.
+
+(2) The Scottish Ministers may make regulations under subsection (1) only if they consider that modifying the definition of trail hunting would contribute towards the protection of wild mammals from unlawful hunting using dogs.
+
+(3) Regulations under subsection (1) are subject to the affirmative procedure.
+
+(4) Before laying a draft of a Scottish statutory instrument containing regulations under subsection (1) before the Scottish Parliament, the Scottish Ministers must consult such persons as they consider appropriate.
+
+(5) Regulations under subsection (1) may—
+
+- (a) make different provision for different purposes,
+- (b) modify—
+  - (i) this Part,
+  - (ii) section 19(1), 21(10), 22(13) or paragraph 1 of the schedule where such modification is consequential to the modification of this Part,
+- (c) make incidental, supplementary, consequential, transitional, transitory or saving provision (including provision for exceptions to the offences in section 14).
+
+### Exception to the offences
+
+#### 16. Exception: training dogs to follow an animal-based scent[^key-b14b2ea63c6d46d848bcda81c16f0151][^key-2d54ed96bc3d2b8dba9a69327bfc4670]
+
+(1) This section applies if—
+
+- (a) a person—
+  - (i) directs a dog to find and follow an animal-based scent which has been laid for that purpose, or
+  - (ii) lays an animal-based scent for a dog to find and follow,
+
+  in order to train a dog for a lawful purpose, and
+- (b) all of the conditions set out in subsection (2) are met.
+
+(2) The conditions are that—
+
+- (a) the activity mentioned in subsection (1)(a) does not involve more than two dogs,
+- (b) any dog involved in the activity is under control,
+- (c) reasonable steps are taken to ensure that any dog involved in the activity does not join with others to form a pack of more than two dogs,
+- (d) permission for the activity has been given by the owner of the land on which the activity takes place,
+- (e) reasonable steps are taken to ensure that no wild mammal is pursued, injured or killed.
+
+## Part 3 — Further provision relating to offences
+
+### Enforcement
+
+#### 17. Search of a person without warrant[^key-5833b53095b35711c36f562273a82a65][^key-d1c140bd7ebda4c56c5cf15063e54b81]
+
+If a constable has reasonable grounds for suspecting that a person has committed or is committing an offence under this Act, the constable may—
+
+- (a) search that person without warrant, and detain the person for such time as is reasonably required to permit the search to be carried out,
+- (b) search or examine any thing found in the course of a search, if the constable has reasonable grounds for suspecting that evidence of the commission of the offence is to be found in or on that thing,
+- (c) seize any thing found in the course of a search which may be relevant to the commission of the offence.
+
+#### 18. Powers of enforcement[^key-c529a2610603ba932c9a17c287e0ec6d][^key-769a03d991d1f14580231c7571ec1bba]
+
+The schedule makes further provision about the powers of constables for the purposes of and in connection with this Act.
+
+### Proceedings
+
+#### 19. Time limit for summary proceedings[^key-f563d87569205119ea6a4375ddce0560][^key-1c8a4c7819178bda226fe12830d06ccd]
+
+(1) Proceedings for an offence under section 2(1) or (2) or section 14(1), (3) or (4) may be brought within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings came to the prosecutor’s knowledge.
+
+(2) But no such proceedings may be brought more than 3 years—
+
+- (a) after the commission of the offence, or
+- (b) in the case of an offence involving a continuous contravention, after the last date on which the offence was committed.
+
+(3) A certificate signed by or on behalf of the prosecutor which states the date on which evidence referred to in subsection (1) came to the prosecutor’s knowledge is conclusive evidence of that fact, and such a certificate which purports to be so signed is to be treated as being so signed unless the contrary is proved.
+
+#### 20. Individual culpability where organisation commits an offence[^key-0c19bf95fa07da8035052f8559feaed0][^key-24de3bedcd7002381dbbdb60b2f9d50f]
+
+(1) This section applies where—
+
+- (a) an offence under this Act is committed by a relevant organisation, and
+- (b) the commission of the offence—
+  - (i) involves consent or connivance on the part of a responsible individual, or
+  - (ii) is attributable to neglect on the part of a responsible individual.
+
+(2) The responsible individual (as well as the relevant organisation) commits the offence.
+
+(3) For the purposes of this section—
+
+- “**relevant organisation**” means an organisation listed in the first column of the table in subsection (4),
+- “**responsible individual**” means, in relation to a relevant organisation—
+  - (a) an individual falling within the corresponding entry in the second column of the table in subsection (4),
+  - (b) an individual purporting to act in the capacity of an individual falling within the corresponding entry.
+
+(4) The table is as follows—
+
+| **Organisation** | **Individual** |
+| --- | --- |
+| Company as mentioned in section 1 of the Companies Act 2006 | Director, manager, secretary or other similar officer, or, where the company’s affairs are managed by its members, member |
+| Limited liability partnership | Member |
+| Other partnership | Partner |
+| Any other body or association | Individual who is concerned in the management or control of its affairs |
+
+### Court orders
+
+#### 21. Deprivation orders[^key-f60b41910d80893dd4c7d47590fcae94][^key-4494fd1bcdf55ea934844cb9adac7167]
+
+(1) Where a person is convicted of a relevant offence, the convicting court may make an order (in this Part referred to as a “**deprivation order**”) in respect of any dog or horse used in or present at the commission of the offence.
+
+(2) A deprivation order is an order—
+
+- (a) depriving a person of possession or ownership (or both) of a dog or horse, and
+- (b) for—
+  - (i) the destruction,
+  - (ii) the sale, or
+  - (iii) another disposal,
+
+  of the dog or horse.
+
+(3) The court may not make—
+
+- (a) a deprivation order which involves the destruction of a dog or horse unless it is satisfied, on evidence provided (orally or in writing) by a veterinary surgeon, that destruction would be in the interests of the dog or horse,
+- (b) any other deprivation order unless it has considered the need to ensure the welfare of the dog or horse.
+
+(4) Where the court decides not to make a deprivation order in relation to a relevant offence, it must state its reasons unless it makes a disqualification order under section 22 in relation to the offence.
+
+(5) A deprivation order may be made in addition to, or instead of, any other penalty or order which may be imposed in relation to a relevant offence.
+
+(6) A deprivation order may make provision in respect of any dependent offspring of a dog or horse to which it applies.
+
+(7) A deprivation order may include—
+
+- (a) provision—
+  - (i) appointing a person who is to secure that the order is carried out,
+  - (ii) requiring any person possessing a dog or horse to which the order applies to give it up to a person appointed under sub-paragraph (i),
+- (b) provision authorising—
+  - (i) a person appointed under paragraph (a)(i), and
+  - (ii) any person acting on that person’s behalf,
+
+  to enter any premises where a dog or horse to which the order applies is kept, for the purposes of securing that the order is carried out,
+- (c) such other provision as the court considers appropriate in connection with the order.
+
+(8) Provision under subsection (7)(c) may in particular—
+
+- (a) require reimbursement of—
+  - (i) any expenses reasonably incurred in carrying out the order,
+  - (ii) if the dog or horse was seized by a constable under paragraph 4(b) or 5(2)(b) of the schedule, any expenses reasonably incurred in relation to it since it was seized,
+- (b) relate to the retention of the proceeds of any sale.
+
+(9) Before making a deprivation order, the court must give the owner of the dog or horse concerned an opportunity to make representations unless it is not practicable for the court to do so.
+
+(10) In this section, “**relevant offence**” means—
+
+- (a) an offence under section 1(1),
+- (b) an offence under section 2(2),
+- (c) an offence under section 14(1) or (4),
+- (d) an offence under section 22(10) committed by reason of owning or keeping a dog.
+
+#### 22. Disqualification orders[^key-0a21497ae28eb3a0130f9fa031f64685][^key-b386d384912ac789f8d7a23b3c5a0cbb]
+
+(1) Where a person is convicted of a relevant offence, the convicting court may make an order (in this Part referred to as a “**disqualification order**”) which imposes on the person one or more of the disqualifications specified in subsection (2).
+
+(2) Those are disqualification from—
+
+- (a) owning or keeping a dog (or both),
+- (b) transporting a dog,
+- (c) working with or using a dog (or both),
+- (d) providing any service relating to dogs (including, in particular, for their care) which involves taking possession of a dog,
+- (e) taking possession of a dog for the purpose of an activity in respect of which a disqualification mentioned in paragraphs (a) to (d) is imposed,
+- (f) taking charge of a dog for any, or any other, purpose.
+
+(3) For the purposes of subsections (1) and (2), disqualification in respect of an activity includes disqualification from any participation in the activity including in particular—
+
+- (a) making arrangements in connection with the activity,
+- (b) being party to arrangements under which the activity may be controlled or influenced,
+- (c) being concerned (so far as relating to the activity) in the management or control of a body whose business involves the activity.
+
+(4) However, disqualification by reference to subsection (2)(f) does not include disqualification from taking charge of a dog for so long as is necessary in the circumstances for the purpose of alleviating any suffering of the dog, if no alternative arrangements for its care are reasonably available.
+
+(5) Where the court decides—
+
+- (a) to make a disqualification order in relation to an offender’s first conviction for a relevant offence, or
+- (b) not to make a disqualification order in relation to a relevant offence,
+
+it must state its reasons.
+
+(6) A disqualification order may be made in addition to any other penalty or order which may be imposed in relation to a relevant offence.
+
+(7) A disqualification order which imposes disqualification from owning or keeping a dog may be framed so as to provide that the disqualification is from owning or keeping—
+
+- (a) more than a specified number of dogs,
+- (b) dogs of a specified kind.
+
+(8) A disqualification order—
+
+- (a) has effect for such period as may be specified in the order,
+- (b) may specify a period within which an application under section 24 for termination or variation of the order may not be made.
+
+(9) The court may suspend the operation of a disqualification order—
+
+- (a) for such period as it considers necessary for enabling arrangements to be made for the keeping of any dog to which the order applies,
+- (b) pending an appeal.
+
+(10) A person commits an offence if the person breaches a disqualification order.
+
+(11) A person who commits an offence under subsection (10) is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+(12) If a disqualification order framed as described in subsection (7)(a) is breached, the breach is to be regarded as having occurred in relation to all of the dogs concerned (that is, without restriction by reference to the maximum number specified) for the purpose of—
+
+- (a) any proceedings for an offence under subsection (10),
+- (b) the making of—
+  - (i) a deprivation order,
+  - (ii) a seizure order under section 23.
+
+(13) In this section, a “relevant offence” is—
+
+- (a) an offence under section 1(1),
+- (b) an offence under section 2(2),
+- (c) an offence under section 14(1) or (4),
+- (d) an offence under subsection (10).
+
+#### 23. Seizure orders where disqualification breached[^key-36ac9daf8f94f985061caf08534c1cb0][^key-e00603c6b6f39df30b809ce0fa9e6a36]
+
+(1) Where the court is satisfied that a person who is subject to a disqualification order owns or keeps a dog in breach of the order, the court may make an order (in this Part referred to as a “**seizure order**”) in respect of any dog which the person owns or keeps in breach of the disqualification order.
+
+(2) A seizure order may be made—
+
+- (a) on summary application by a constable or prosecutor,
+- (b) even if proceedings have not been, or are not likely to be, taken against the person for an offence under section 22(10).
+
+(3) A seizure order is an order—
+
+- (a) depriving a person of possession or ownership (or both) of a dog, and
+- (b) for—
+  - (i) the destruction,
+  - (ii) the sale, or
+  - (iii) another disposal,
+
+  of the dog.
+
+(4) The court may not make—
+
+- (a) a seizure order which involves the destruction of a dog unless it is satisfied, on evidence provided (orally or in writing) by a veterinary surgeon, that destruction would be in the interests of the dog,
+- (b) any other seizure order unless it has considered the need to ensure the welfare of the dog.
+
+(5) A seizure order may include—
+
+- (a) provision—
+  - (i) appointing a person who is to secure that the order is carried out,
+  - (ii) requiring any person possessing a dog to which the order applies to give it up to a person appointed under sub-paragraph (i),
+- (b) provision authorising—
+  - (i) a person appointed under paragraph (a)(i), and
+  - (ii) any person acting on that person’s behalf,
+
+  to enter any premises where a dog to which the order applies is kept, for the purposes of securing that the order is carried out,
+- (c) such other provision as the court considers appropriate in connection with the order.
+
+(6) Provision under subsection (5)(c) may in particular—
+
+- (a) require reimbursement of—
+  - (i) any expenses reasonably incurred in carrying out the order,
+  - (ii) if the dog was seized by a constable under paragraph 4(b) or 5(2)(b) of the schedule, any expenses reasonably incurred in relation to it since it was seized,
+- (b) relate to the retention of the proceeds of any sale.
+
+(7) Before making a seizure order, the court must give the owner of the dog concerned an opportunity to make representations unless it is not practicable for the court to do so.
+
+(8) In determining whether or how to make a seizure order, the court must have regard to the desirability of—
+
+- (a) protecting the value of any dog to which the order applies, and
+- (b) avoiding increasing any expenses which a person may be required to reimburse.
+
+(9) When an application is made under subsection (2)(a), the court may make an order under this subsection (an “interim order”) containing such provision as the court considers appropriate in relation to the keeping of a dog until the application is finally determined.
+
+(10) Subsections (5), (6)(a) and (8) apply in relation to an interim order as they apply in relation to a seizure order.
+
+#### 24. Termination or variation of disqualification[^key-4700130323824c07cd73c8ab281be0ae][^key-6fb0c9a21a17068ab318c7bcea0edbff]
+
+(1) A person who is subject to a disqualification order may request the court which made the order to terminate or vary the order.
+
+(2) An application under subsection (1) may not be made—
+
+- (a) before the expiry of the period of one year beginning with the date on which the order was made,
+- (b) where there has been a previous application under that subsection in relation to the same order, before the expiry of the period of one year beginning with the date on which the previous application was determined, or
+- (c) within any period specified under—
+  - (i) section 22(8)(b), or
+  - (ii) subsection (5).
+
+(3) On an application under subsection (1), the court may—
+
+- (a) refuse the application,
+- (b) terminate the disqualification order, or
+- (c) vary the disqualification order so as to relax any disqualification imposed by it.
+
+(4) In considering the application, the court must have particular regard to—
+
+- (a) the nature of the offence in relation to which the disqualification order was made,
+- (b) the character of the applicant, and
+- (c) the applicant’s conduct since the order was made.
+
+(5) Where the court refuses an application made under subsection (1), the court may specify a period within which the applicant may not make a further application under that subsection in relation to the same order.
+
+#### 25. Appeals against orders[^key-d20cc2d5b1749fa802eeac18ce4d94bf][^key-32cdd1331eac91f71fca33843ef59f5b]
+
+(1) Any deprivation order or disqualification order is, for the purposes of any appeal under the Criminal Procedure (Scotland) Act 1995, to be treated as a sentence.
+
+(2) Where a deprivation order is made, any person (apart from a person who may appeal against the order by virtue of subsection (1)) who has an interest in any dog or horse to which the order applies may appeal to the Sheriff Appeal Court against the order by the same procedure as applies under subsection (1) in relation to a deprivation order.
+
+(3) The disqualified person by reference to whom a seizure order is made, or any person (apart from that disqualified person) who entered the process prior to the making of the order, may appeal to the Sheriff Appeal Court against the order.
+
+(4) The operation of any deprivation order or seizure order is suspended until—
+
+- (a) any period for an appeal against the order has expired,
+- (b) the period for an appeal against the conviction on which the order depends has expired, and
+- (c) any appeal against the order or that conviction has been withdrawn or finally determined.
+
+(5) Where the operation of a deprivation order or seizure order is suspended under subsection (4), or such an order cannot be carried out because decree has not been extracted, the court which made the order may make an order under this subsection (an “interim order”) containing such provision as the court considers appropriate in relation to the keeping of a dog or horse for so long as the deprivation order or seizure order remains suspended or incapable of being carried out.
+
+(6) An interim order may in particular—
+
+- (a) make provision—
+  - (i) appointing a person who is to secure that the interim order is carried out,
+  - (ii) requiring any person possessing a dog or horse to which the interim order applies to give it up to a person appointed under sub-paragraph (i),
+- (b) make provision authorising—
+  - (i) a person appointed under paragraph (a)(i), and
+  - (ii) any person acting on that person’s behalf,
+
+  to enter any premises where a dog or horse to which the interim order applies is kept, for the purposes of securing that the interim order is carried out,
+- (c) for reimbursement of—
+  - (i) any expenses reasonably incurred in carrying out the interim order,
+  - (ii) if the dog or horse was seized by a constable under paragraph 4(b) or 5(2)(b) of the schedule, any expenses reasonably incurred in relation to it since it was seized.
+
+(7) In determining whether or how to make an interim order, the court must have regard to the desirability of—
+
+- (a) protecting the value of any dog or horse to which the order applies, and
+- (b) avoiding increasing any expenses which a person may be required to reimburse.
+
+(8) Where the operation of a deprivation order is suspended under subsection (4), a person commits an offence if the person sells or otherwise parts with a dog or horse to which the order applies.
+
+(9) A person who commits an offence under subsection (8) is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
+
+## Part 4 — General provisions
+
+### 26. Ancillary provision[^key-e076be836abb31f0507da220cf985313]
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
+
+(2) Regulations under this section may—
+
+- (a) make different provision for different purposes,
+- (b) modify any enactment (including this Act).
+
+(3) Regulations under this section—
+
+- (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of this or any other Act,
+- (b) otherwise, are subject to the negative procedure.
+
+### 27. Interpretation[^key-1f2d9588ba8a289b72527c4f74ede983][^key-8daf4baf961bb3d0d0afa586e7b95a48]
+
+In this Act—
+
+- “**animal**” means a vertebrate (other than a human) or an invertebrate,
+- “**carcase**” means the carcase of an animal and includes part of a carcase, and the meat, bones, hide, skin, hooves, offal or other part of an animal, separately or otherwise, or any portion of such a thing,
+- “**constable**” has the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act 2012,
+- “**cover**” means a place above ground in which a wild mammal may be concealed from sight, but does not include an enclosed place from which a wild mammal could not be flushed,
+- “**deprivation order**” has the meaning given by section 21(1),
+- “**disqualification order**” has the meaning given by section 22(1),
+- “**hunting**” is to be construed in accordance with section 1(3),
+- “**livestock**” means cattle, sheep, goats, swine, horses, camelids, ratites, farmed deer, enclosed game birds or poultry, and for the purposes of this definition—
+  - (a) “**cattle**” means bulls, cows, oxen, buffalo, heifers or calves,
+  - (b) “**horses**” includes donkeys and mules,
+  - (c) “**farmed deer**” means deer of any species which are on agricultural land enclosed by a deer-proof barrier and kept by way of business for the primary purpose of meat production,
+  - (d) “**enclosed game birds**” means any pheasant, partridge, grouse (or moor game), black (or heath) game or ptarmigan that are being kept enclosed prior to their release for sporting purposes,
+  - (e) “**poultry**” means domestic fowls, turkeys, geese or ducks,
+- “**premises**” has the meaning given by paragraph 1 of the schedule,
+- “**relevant authority**” has the meaning given by section 4(6),
+- “**responsible for**”, in relation to a dog, is to be construed in accordance with section 2(6),
+- “**seizure order**” has the meaning given by section 23(1),
+- “**under control**”, in relation to a dog, means that a person who is responsible for the dog is able to direct the dog’s activity by physical contact or verbal or audible command,
+- “**veterinary surgeon**” means a person registered in the register of veterinary surgeons, or the supplementary veterinary register, kept under the Veterinary Surgeons Act 1966,
+- “**wild mammal**” has the meaning given by section 1(3),
+- “**woodland**” means land on which trees are grown, whether or not commercially, and includes any such trees and any vegetation planted or growing naturally among such trees on that land.
+
+### 28. Repeal of the Protection of Wild Mammals (Scotland) Act 2002 and consequential modifications[^key-cf4dac2b513fb9dae5b1e1dc9a8669d7][^key-e2399fc0bd969a020af10ab1154a79cc]
+
+(1) The Protection of Wild Mammals (Scotland) Act 2002 is repealed.
+
+(2) In section 17(4) of the Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (information sharing report) after paragraph (h) insert—
+
+> - (i) the Hunting with Dogs (Scotland) Act 2023.
+
+.
+
+### 29. Crown application: criminal offences[^key-b6ddc54f1c24cd11a80bd073924eb92c][^key-b038bcbf4e10b80a100979a19957d245]
+
+(1) Nothing in this Act makes the Crown criminally liable.
+
+(2) The Court of Session may, on an application by the Lord Advocate, declare unlawful any act or omission for which the Crown would be criminally liable if it were not for subsection (1).
+
+(3) Subsection (1) does not affect the criminal liability of persons in the service of the Crown.
+
+### 30. Crown application: powers of entry[^key-a1e29e2cb4519e5cf6a0ac991a52eebe][^key-be00a939a063d75ad3b5c78d40c33828]
+
+(1) A power of entry conferred by or under this Act is exercisable in relation to Crown land specified in column 1 of the following table only with the consent of the person specified in the corresponding entry in column 2 of the table (the “appropriate authority”).
+
+| **Crown land** | **Appropriate authority** |
+| --- | --- |
+| Land an interest in which belongs to His Majesty in right of the Crown and which forms part of the Crown Estate (that is, the property, rights and interests under the management of the Crown Estate Commissioners) | The Crown Estate Commissioners |
+| Land an interest in which belongs to His Majesty in right of the Crown and which forms part of the Scottish Crown Estate | The person managing the land |
+| Land an interest in which belongs to His Majesty in right of the Crown other than land forming part of the Crown Estate or the Scottish Crown Estate | The office-holder in the Scottish Administration or, as the case may be, the Government department managing the land |
+| Land an interest in which belongs to His Majesty in right of His private estates | The person appointed by His Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Scottish Ministers |
+| Land an interest in which belongs to an office-holder in the Scottish Administration | The office-holder in the Scottish Administration |
+| Land an interest in which belongs to a Government department | The Government department |
+| Land an interest in which is held in trust for His Majesty by an office-holder in the Scottish Administration for the purposes of the Scottish Administration | The office-holder in the Scottish Administration |
+| Land an interest in which is held in trust for His Majesty for the purposes of a Government department | The Government department |
+
+(2) In subsection (1)—
+
+- (a) the reference to His Majesty’s private estates is to be construed in accordance with section 1 of the Crown Private Estates Act 1862,
+- (b) “**Government department**” means a department of the Government of the United Kingdom,
+- (c) “**Scottish Crown Estate**” means the property, rights and interests to which section 90B(5) of the Scotland Act 1998 applies.
+
+(3) It is for the Scottish Ministers to determine any question that arises as to who in accordance with subsection (1) is the appropriate authority in relation to any land, and their decision is final.
+
+### 31. Commencement[^key-1af70940f51792164b757b95cca95733]
+
+(1) This section and sections 26 and 32 come into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint.
+
+(3) Regulations under subsection (2) may—
+
+- (a) include transitional, transitory or saving provision,
+- (b) make different provision for different purposes.
+
+### 32. Short title[^key-b08111e91afeb9797aecbdaf95869cc9]
+
+The short title of this Act is the Hunting with Dogs (Scotland) Act 2023.
+
+## Schedule — Enforcement powers
+
+(introduced by section 18)
+
+### 1. Interpretation[^key-a7b1792cfe0fdaf9dc38c0e35708fc9a][^key-ce5d5e758a0bdee8d99167972155c505]
+
+In this schedule—
+
+- “**domestic premises**”—
+  - (a) means premises, or a part of premises, used (or used for the time being) exclusively as a dwelling-house, and
+  - (b) includes any land or structure—
+    - (i) belonging to or usually enjoyed with the dwelling-house, or
+    - (ii) adjacent to and for the time being enjoyed with the dwelling-house,
+- “**premises**” includes—
+  - (a) land,
+  - (b) any other place, including—
+    - (i) a vehicle or vessel,
+    - (ii) a tent or other moveable structure,
+- “**relevant offence**” means—
+  - (a) an offence under section 1(1),
+  - (b) an offence under section 2(1) or (2),
+  - (c) an offence under section 12(1),
+  - (d) an offence under section 14(1), (3) or (4),
+  - (e) an offence under section 22(10),
+  - (f) an offence under section 25(8),
+- “**relevant power**” means a power conferred on a constable by—
+  - (a) a provision of this schedule, or
+  - (b) a warrant granted under a provision of this schedule.
+
+### 2. Entry and associated powers[^key-c2af017ffec4b76dfe1a6389d84c44c2][^key-b32d0815d4fe476cc632328daef42b40]
+
+A constable may enter any premises (other than domestic premises)—
+
+- (a) if there are reasonable grounds for suspecting that a relevant offence has been or is being committed at the premises, and
+- (b) for the purpose of ascertaining whether or not a relevant offence has been or is being committed at the premises.
+
+**3.**[^key-cc089213eb8ce381beb0676fe89c736f][^key-f9762cb63134f4736cb44641a92fbba2] (1) A sheriff or justice of the peace may grant a warrant under this sub-paragraph if satisfied—
+
+- (a) that there are reasonable grounds for suspecting—
+  - (i) that a relevant offence has been or is being committed at any premises, or
+  - (ii) that evidence of the commission of, or participation in, a relevant offence is to be found at any premises, and
+- (b) that sub-paragraph (2) or (3) applies.
+
+(2) This sub-paragraph applies if—
+
+- (a) admission to the premises has been refused or such a refusal may reasonably be expected, and
+- (b) either—
+  - (i) notice of the intention to seek a warrant has been given to the occupier of the premises, or
+  - (ii) the giving of such notice would frustrate the purpose for which the warrant is sought.
+
+(3) This sub-paragraph applies if—
+
+- (a) the premises are unoccupied, or
+- (b) the occupier is temporarily absent.
+
+**4.**[^key-dae8a2469c0a715c1f3c7445c4fbc73e][^key-aef225a89d283e7c9b12242c583b64bb] A warrant under paragraph 3(1) authorises a constable—
+
+- (a) to enter the premises,
+- (b) to search for, examine and seize any animal (including the carcase of an animal), vehicle, equipment, document or other thing tending to provide evidence of the commission of, or participation in, a relevant offence.
+
+**5.**[^key-cc37daec78caef563737bdbb186269c1][^key-758d1cbc298bb83f471c3081e317e35c] (1) A constable may exercise the powers in sub-paragraph (2) without a warrant under paragraph 3(1) if—
+
+- (a) it appears to the constable that any delay would frustrate the purpose for which the powers are to be exercised, and
+- (b) the premises are not domestic premises.
+
+(2) The powers are—
+
+- (a) to enter premises,
+- (b) to search for, examine and seize any animal (including the carcase of an animal), vehicle, equipment, document or other thing tending to provide evidence of the commission of, or participation in, a relevant offence.
+
+**6.**[^key-0ee2d279e86e19e310e27d3284d32b64][^key-5f3c13095af2a97d610588f4625497e6] The power to seize an animal or vehicle under paragraph 4(b) or 5(2)(b) may only be exercised—
+
+- (a) where the animal or vehicle is in the possession or control of a person who the constable has reasonable grounds for suspecting has committed or is committing a relevant offence, and
+- (b) where the constable considers it appropriate to seize the animal or vehicle for the purposes of—
+  - (i) enabling the animal or vehicle to be used in proceedings for a relevant offence, or
+  - (ii) enabling the animal or vehicle to be forfeited in accordance with Part 2 of the Proceeds of Crime (Scotland) Act 1995.
+
+**7.**[^key-2b9766abb8c9d7737a5d63b313af92df][^key-3630968edd917fc00677d96880e1ca3b] (1) A thing seized in exercise of the power in paragraph 4(b) or 5(2)(b) must be returned when retention of it is no longer justified for the purposes of—
+
+- (a) enabling it to be used in proceedings for a relevant offence, or
+- (b) enabling it to be forfeited in accordance with Part 2 of the Proceeds of Crime (Scotland) Act 1995.
+
+(2) Sub-paragraph (1) does not apply to perishable things which no longer have any commercial value.
+
+### 8. Stopping and detaining vehicles or vessels[^key-ec71be87e91308b6d63eb899ff142f76][^key-30b82ff068115528ea9cb9333ada9322]
+
+(1) A constable in uniform may stop and detain a vehicle or vessel for the purpose of the exercise of a relevant power.
+
+(2) A vehicle or vessel may be detained under sub-paragraph (1) for so long as it is reasonably required for the purpose of the exercise of the power concerned.
+
+(3) The power concerned may be exercised either at the place where the vehicle or vessel was first detained or nearby.
+
+(4) In this paragraph, “**vehicle**” includes caravan (within the meaning of section 29(1) of the Caravan Sites and Control of Development Act 1960).
+
+### 9. Entry and associated powers: supplementary[^key-b288e95f1ac60704749495a82ef62f55][^key-1ca83c865b7ce8a1dfc36b9e023bf356]
+
+A warrant granted under paragraph 3(1) expires when it is no longer required for the purpose for which it is granted.
+
+**10.**[^key-7ad6a1d3d1823dc9356a7990beb50407][^key-6fbf46cbb457d183b23506504c832e68] A constable exercising a relevant power must do so at a reasonable time unless it appears to the constable that the purpose of exercising the power would be frustrated by exercising it at such a time.
+
+**11.**[^key-fee8e285f207636963b4357b8feae544][^key-23a6ea6446df332d2abd6e86ce3099f0] A constable may, if necessary, use reasonable force when exercising a relevant power.
+
+**12.**[^key-3b2fd7b15c688cea44735e1bedf72694][^key-d1bd1269cdd29bd491c86299826f3b9f] A constable exercising a relevant power must produce evidence of the constable’s authority if asked to do so.
+
+**13.**[^key-c22a176799ea2b0fb164dc08d1bfaba8][^key-8ee2fb5558573bc41c243947e3adeb76] (1) A relevant power includes power to take onto premises—
+
+- (a) such persons for assistance as are required for the purpose of exercising the power, and
+- (b) such equipment as is required for that purpose.
+
+(2) A relevant power includes power to do or secure the doing of any of the following—
+
+- (a) the carrying out of tests on, and taking of samples from—
+  - (i) an animal (including the carcase of an animal),
+  - (ii) any equipment, substance or thing,
+- (b) the identifying of an animal by use of a mark, microchip or any other method of identification.
+
+**14.**[^key-04b90d510ee185ce2bf5b5f23d2904be][^key-7c96187491fec63ac884734ac975c7e8] (1) A person mentioned in sub-paragraph (2) must—
+
+- (a) comply with any reasonable direction made by a constable exercising a relevant power, and
+- (b) in particular, give the constable such information and assistance as the constable may reasonably require.
+
+(2) The persons are—
+
+- (a) the occupier of premises in relation to which a relevant power is being exercised,
+- (b) a person who, in relation to an animal at the premises, appears—
+  - (i) to be the owner of the animal,
+  - (ii) to be responsible for the animal on a temporary or permanent basis,
+  - (iii) to be in charge of the animal,
+  - (iv) to have actual care and control of a person under the age of 16 years who is responsible for the animal,
+- (c) a person who appears to be under the direction or control of a person mentioned in paragraph (a) or (b).
+
+**15.**[^key-2fa73911b86327695f166b87c60a8a4c][^key-e55068c471a17f8cdbd9da1fd4e2b220] A constable exercising a relevant power in relation to unoccupied premises must leave the premises as effectively secured against entry as the constable found them.
+
+### 16. Offences[^key-ba0fa8e03f093419425587d8980b58ce][^key-9be8203ee47022bee7ebae37b3f6d2a4]
+
+(1) A person commits an offence if the person contravenes paragraph 14(1) without reasonable excuse.
+
+(2) A person commits an offence if the person intentionally obstructs a constable in the exercise of a relevant power.
+
+(3) A person who commits an offence under sub-paragraph (1) or (2) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 17. Powers of constables under this schedule[^key-3591292ee8a6db84d6790c383585471c][^key-d16e6436b65171c8cb771f942353fd98]
+
+The powers conferred on constables by this schedule do not affect any powers conferred on constables apart from this schedule.
+
+## Annotations
+
+[^key-e252debffcc3172dd441729edb3f9e86]: Commencement: S. 1 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-e7a65a9b287462fca13544285acd5692]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2023/1/section/1) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-c05828a5519b7732db627789e0680d05]: Commencement: S. 2 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-6b490685b696954be9696c636286e762]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2023/1/section/2) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-d19f612f5f0e2f3183a6b5bd5ca79c05]: Commencement: S. 3 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-61123a24a550585c8fd24745cc317880]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2023/1/section/3) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-f41d532c4cd46eebeb1f9b15ec557690]: Commencement: S. 4 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-73fcfb8792c6cf366e409e4263ac0378]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/1/section/4) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-6cd7a2130bb5591e51fe639bc4b9db6f]: Commencement: S. 5 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-102a0c8c603f4be5e79201aa8447f907]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2023/1/section/5) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-6214ea39cf873a9a48b01ec914a7fdd7]: Commencement: S. 6 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-9945c60169d8691436c17c75cd898e61]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2023/1/section/6) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-e1175e3442d8ee2abc2ce2ddb0f527ac]: Commencement: S. 7 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-86105cfbad954aff1869ebc19dcd2823]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2023/1/section/7) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-e3260ade13fabb7f587459794d70724c]: Commencement: S. 8 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-420455ef585c1ebfadee2c104ea508fe]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2023/1/section/8) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-5a8855a08e6e211f14e35f822b2f9714]: Commencement: S. 9 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-47704ab606397795aecc7c94c02d46be]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2023/1/section/9) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-778424a9e27688e7a4bf014867e6693d]: Commencement: S. 10 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-0f195abf6d40c958e0e2ea17c7677c96]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2023/1/section/10) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-4e080043e6c251b5dde0ba5878be7947]: Commencement: S. 11 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-d5b8c50458427457d22ab8c94d4261a6]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2023/1/section/11) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-7e06705b252e0ea944df9c069306e62e]: Commencement: S. 12 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-fd9d92f9302fe1fd5d11a5e4f752ac17]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2023/1/section/12) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-0355db0c6e0b81fb75d18bcde7425ff9]: Commencement: S. 13 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-8575f1f743ed246095974a9d4a8e6910]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2023/1/section/13) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-b774fdb81892bf59574733953690c5fb]: Commencement: S. 14 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-cb8418475d6fc3766a3411f5dfd116a0]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2023/1/section/14) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-294c404e135d94d3fe74422e4156f789]: Commencement: S. 15 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-cffe538031972b34abb15165880905c0]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2023/1/section/15) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-b14b2ea63c6d46d848bcda81c16f0151]: Commencement: S. 16 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-2d54ed96bc3d2b8dba9a69327bfc4670]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2023/1/section/16) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-5833b53095b35711c36f562273a82a65]: Commencement: S. 17 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-d1c140bd7ebda4c56c5cf15063e54b81]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2023/1/section/17) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-c529a2610603ba932c9a17c287e0ec6d]: Commencement: S. 18 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-769a03d991d1f14580231c7571ec1bba]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2023/1/section/18) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-f563d87569205119ea6a4375ddce0560]: Commencement: S. 19 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-1c8a4c7819178bda226fe12830d06ccd]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2023/1/section/19) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-0c19bf95fa07da8035052f8559feaed0]: Commencement: S. 20 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-24de3bedcd7002381dbbdb60b2f9d50f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2023/1/section/20) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-f60b41910d80893dd4c7d47590fcae94]: Commencement: S. 21 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-4494fd1bcdf55ea934844cb9adac7167]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2023/1/section/21) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-0a21497ae28eb3a0130f9fa031f64685]: Commencement: S. 22 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-b386d384912ac789f8d7a23b3c5a0cbb]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2023/1/section/22) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-36ac9daf8f94f985061caf08534c1cb0]: Commencement: S. 23 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-e00603c6b6f39df30b809ce0fa9e6a36]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2023/1/section/23) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-4700130323824c07cd73c8ab281be0ae]: Commencement: S. 24 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-6fb0c9a21a17068ab318c7bcea0edbff]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2023/1/section/24) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-d20cc2d5b1749fa802eeac18ce4d94bf]: Commencement: S. 25 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-32cdd1331eac91f71fca33843ef59f5b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2023/1/section/25) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-e076be836abb31f0507da220cf985313]: Commencement: S. 26 in force at 8.3.2023, see [s. 31(1)](https://www.legislation.gov.uk/asp/2023/1/section/31/1)
+
+[^key-1f2d9588ba8a289b72527c4f74ede983]: Commencement: S. 27 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-8daf4baf961bb3d0d0afa586e7b95a48]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2023/1/section/27) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-cf4dac2b513fb9dae5b1e1dc9a8669d7]: Commencement: S. 28 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-e2399fc0bd969a020af10ab1154a79cc]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2023/1/section/28) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-b6ddc54f1c24cd11a80bd073924eb92c]: Commencement: S. 29 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-b038bcbf4e10b80a100979a19957d245]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2023/1/section/29) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-a1e29e2cb4519e5cf6a0ac991a52eebe]: Commencement: S. 30 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-be00a939a063d75ad3b5c78d40c33828]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2023/1/section/30) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-1af70940f51792164b757b95cca95733]: Commencement: S. 31 in force at 8.3.2023, see [s. 31(1)](https://www.legislation.gov.uk/asp/2023/1/section/31/1)
+
+[^key-b08111e91afeb9797aecbdaf95869cc9]: Commencement: S. 32 in force at 8.3.2023, see [s. 31(1)](https://www.legislation.gov.uk/asp/2023/1/section/31/1)
+
+[^key-a7b1792cfe0fdaf9dc38c0e35708fc9a]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-ce5d5e758a0bdee8d99167972155c505]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/1) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-c2af017ffec4b76dfe1a6389d84c44c2]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-b32d0815d4fe476cc632328daef42b40]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/2) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-cc089213eb8ce381beb0676fe89c736f]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-f9762cb63134f4736cb44641a92fbba2]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/3) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-dae8a2469c0a715c1f3c7445c4fbc73e]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-aef225a89d283e7c9b12242c583b64bb]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/4) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-cc37daec78caef563737bdbb186269c1]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-758d1cbc298bb83f471c3081e317e35c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/5) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-0ee2d279e86e19e310e27d3284d32b64]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-5f3c13095af2a97d610588f4625497e6]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/6) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-2b9766abb8c9d7737a5d63b313af92df]: Commencement: Sch. para. 7 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-3630968edd917fc00677d96880e1ca3b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/7) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-ec71be87e91308b6d63eb899ff142f76]: Commencement: Sch. para. 8 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-30b82ff068115528ea9cb9333ada9322]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/8) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-b288e95f1ac60704749495a82ef62f55]: Commencement: Sch. para. 9 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-1ca83c865b7ce8a1dfc36b9e023bf356]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/9) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-7ad6a1d3d1823dc9356a7990beb50407]: Commencement: Sch. para. 10 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-6fbf46cbb457d183b23506504c832e68]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/10) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-fee8e285f207636963b4357b8feae544]: Commencement: Sch. para. 11 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-23a6ea6446df332d2abd6e86ce3099f0]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/11) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-3b2fd7b15c688cea44735e1bedf72694]: Commencement: Sch. para. 12 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-d1bd1269cdd29bd491c86299826f3b9f]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/12) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-c22a176799ea2b0fb164dc08d1bfaba8]: Commencement: Sch. para. 13 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-8ee2fb5558573bc41c243947e3adeb76]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/13) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-04b90d510ee185ce2bf5b5f23d2904be]: Commencement: Sch. para. 14 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-7c96187491fec63ac884734ac975c7e8]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/14) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-2fa73911b86327695f166b87c60a8a4c]: Commencement: Sch. para. 15 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-e55068c471a17f8cdbd9da1fd4e2b220]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/15) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-ba0fa8e03f093419425587d8980b58ce]: Commencement: Sch. para. 16 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-9be8203ee47022bee7ebae37b3f6d2a4]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/16) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)
+
+[^key-3591292ee8a6db84d6790c383585471c]: Commencement: Sch. para. 17 not in force at Royal Assent, see [s. 31(2)](https://www.legislation.gov.uk/asp/2023/1/section/31/2)
+
+[^key-d16e6436b65171c8cb771f942353fd98]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2023/1/schedule/paragraph/17) in force at 3.10.2023 by [S.S.I. 2023/262](https://www.legislation.gov.uk/ssi/2023/262), [reg. 2](https://www.legislation.gov.uk/ssi/2023/262/regulation/2)

@@ -1,0 +1,207 @@
+---
+title: The Loch Ewe, Isle of Ewe, Wester Ross, Scallops Several Fishery Order 2015
+id: ssi/2015/30
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-01-27'
+text_date: '2017-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/30
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/30/pdfs/ssipn_20150030_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/30/pdfs/ssi_20150030_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/30/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Loch Ewe, Isle of Ewe, Wester Ross, Scallops Several Fishery Order 2015
+
+> Text as at 2017-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 30
+
+Sea Fisheries
+
+Shellfish
+
+The Loch Ewe, Isle of Ewe, Wester Ross, Scallops Several Fishery Order 2015
+
+Made
+
+27th January 2015
+
+Laid before the Scottish Parliament
+
+29th January 2015
+
+Coming into force
+
+9th March 2015
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1 and 7(4)(a)(iii) of the Sea Fisheries (Shellfish) Act 1967[^f00001] (as read with section 2 of, and Schedule 1 to, that Act) and all other powers enabling them to do so.
+
+In accordance with paragraphs 1 and 6 of that Schedule[^f00002], they have prepared a draft of this Order, served a copy of it on the applicant, and had regard to the powers and duties of the Crown Estate Commissioners under the Crown Estate Act 1961[^f00003].
+
+In accordance with paragraph 2 of that Schedule, the applicant caused a draft of this Order to be published and circulated and gave notice of the application.
+
+With regard to paragraph 3 of that Schedule, no objections were received and no representations were made in writing to the Scottish Ministers in respect of the draft of this Order.
+
+## 1. Citation and commencement[^key-3b024f44419b5f328cb7501bed52e879]
+
+This Order may be cited as the Loch Ewe, Isle of Ewe, Wester Ross, Scallops Several Fishery Order 2015 and comes into force on 9th March 2015.
+
+## 2. Interpretation[^key-4233d23d254afc71e53ae9b8fa8f8a92]
+
+(1) In this Order—
+
+- “the applicant” means Scot-Hatch Limited, a company limited by guarantee and having its registered office at No. 2 Isle-Ewe, Aultbea, Achnasheen IV22 2JW;
+- “creel” means a basket, small cage, pot, receptacle or container with one or more openings or entrances which may be baited and is placed on the seabed for the purpose of catching shellfish;
+- “the fishery” means that part of the bed of the sea in Loch Ewe, Wester Ross, described in the Schedule to this Order; and
+- “the grantee” means the applicant or such other person as is for the time being entitled to the right of several fishery conferred by this Order.
+
+(2) A reference in this Order to anything produced in written form includes a reference to an electronic communication, as defined in section 15(1) of the Electronic Communications Act 2000[^f00004], which has been recorded and is consequently capable of being reproduced.
+
+## 3. Right of several fishery[^key-a9b3009ad080be1f75d9ec3110070bb2]
+
+Subject to the following provisions of this Order, the right of several fishery for scallops with respect to the whole area of the fishery is conferred on the applicant until 9th March 2025.
+
+## 4. Restriction on harvesting and deposits[^key-0284092b01956dc98917a866fa3b6163]
+
+The right of several fishery granted by article 3 is subject to the following restrictions—
+
+- (a) that the harvesting of scallops must be carried out manually by divers;
+- (b) that the grantee must not without the written consent of the Scottish Ministers deposit within the boundaries of the fishery any juvenile scallop taken from outwith the fishery and must comply with any condition subject to which the Scottish Ministers give such consent.
+
+## 5. Permitted fishing implements[^key-85be8db4dae86c1b0b87a313bb453f83]
+
+For the purposes of section 7(4)(a)(iii) of the Sea Fisheries (Shellfish) Act 1967 (protection of fisheries: offences), a creel is specified as an implement of fishing the use of which is permitted within the fishery.
+
+## 6. Assignation[^key-27e393d6c4e9fa2083698ec0396b189b]
+
+The grantee must not without the prior written consent of the Scottish Ministers assign or in any other way transfer the right of several fishery to any other person.
+
+## 7. Marking of limits of fishery[^key-dc8e22178df3e2531923b8864a160dac]
+
+The grantee must cause to be clearly marked the limits of the fishery on the bed and on the surface of the sea and must maintain the marks in position and in good repair.
+
+## 8. Rights of the Crown[^key-d72215c23be5e6d6f24c710b7de66eba]
+
+(1)[^key-890c81c871ed34bf5b0e1f7a770fbc19] Nothing in this Order shall affect prejudicially any estate, right, power, privilege, authority or exemption of the Crown and, in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the applicant to take, use, enter upon or, in any manner interfere with any land, or interest in land, any rights of whatever description (including any portion of the shore or bed of the sea, or of any river, channel, creek, bay or estuary) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^key-9dd2bda806ba200385b743af5c26a804].
+
+(2)[^key-3ab0f86ce7a89ffda2c916dd8602cf75] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+
+## 9. Revocations[^key-bcae923b09f0a43d310883b769c827ff]
+
+The following Orders are revoked—
+
+- (a) the Loch Ewe, Isle of Ewe, Wester Ross, Scallops Several Fishery Order 1997[^f00005]; and
+- (b) the Loch Ewe, Isle of Ewe, Wester Ross, Scallops Several Fishery (Variation) Order 2002[^f00006].
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+27th January 2015
+
+## SCHEDULE — DESCRIPTION OF THE FISHERY
+
+Article 2(1)
+
+### 1. Interpretation[^key-b05c45f4585c2d1a706d38f2613aa63b]
+
+In this Schedule—
+
+- “co-ordinate” means a co-ordinate defined on the World Geodetic System 1984 Datum[^f00007];
+- co-ordinate “A” is 57°50.858′ North latitude and 005°37.994′ West longitude;
+- co-ordinate “B” is 57°50.214′ North latitude and 005°36.514′ West longitude; and
+- co-ordinate “C” is 57°50.112′ North latitude and 005°36.614′ West longitude.
+
+### 2. Description of the fishery[^key-4b4a3eb685673009233f25ddc06ecbb6]
+
+That part of the bed of the sea in Loch Ewe, Wester Ross, extending to 56 hectares or thereby which is bounded by the lines (the topographical descriptions of which are listed in the third column of the following table) which join in the order given the co-ordinates listed in the second column.
+
+| Boundary line | Co-ordinates between which the boundary line extends | Topographical description of the boundary line |
+| --- | --- | --- |
+| 1\. | A and B | Geodesic line |
+| 2\. | B and C | Geodetic line |
+| 3\. | C and A | By Mean Low Water Springs |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order confers on Scot-Hatch Limited (“the applicant”) for a period of 10 years the right of several fishery for scallops in part of Loch Ewe (article 3). The part of Loch Ewe to which the Order applies is described in the Schedule to the Order. The location of the area to which the Order applies is also shown on an indicative map, one copy of which is held in the principal office of Marine Scotland, Victoria Quay, Leith, Edinburgh EH6 6QQ and another of which is held by the applicant at No. 2, Isle-Ewe, Aultbea, Achnasheen IV22 2JW. A representation of the indicative map is appended to this note for illustrative purposes.
+
+By virtue of section 2 of the Sea Fisheries (Shellfish) Act 1967, article 3 of this Order confers on the applicant the exclusive right to deposit, propogate, fish for and take scallops within the area, subject to certain restrictions.
+
+Article 4 of the Order requires the harvesting of scallops under the right of several fishery to be carried out manually by divers and restricts the deposit of juvenile scallops taken from outside the fishery within the boundaries of the fishery.
+
+Article 5 of the Order specifies creels as implements of fishing the use of which is permitted within the fishery.
+
+Article 6 of the Order prohibits the assignation or other transfer of the right of several fishery without the prior written consent of the Scottish Ministers.
+
+Article 7 of the Order requires the limits of the area to be clearly marked and maintained on the bed and surface of the sea.
+
+Article 8 provides that the effect of the Order does not prejudicially affect the rights of the Crown.
+
+Article 9 revokes the Loch Ewe, Isle of Ewe, Wester Ross, Scallops Several Fishery Order 1997 and the Loch Ewe, Isle of Ewe, Wester Ross, Scallops Several Fishery (Variation) Order 2002.
+
+A Business and Regulatory Impact Assessment has been prepared in relation to this Order and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government, Marine Scotland, Victoria Quay, Leith, Edinburgh EH6 6QQ and online at www.legislation.gov.uk.
+
+[image: see source](https://www.legislation.gov.uk/ssi/2015/30/images/ssi_20150030_en_001)
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c.83](https://www.legislation.gov.uk/ukpga/1967/83) (“the 1967 Act”). Section 1 was amended by the Sea Fisheries Act [1968 (c.77)](https://www.legislation.gov.uk/ukpga/1968/77) (“the 1968 Act”), section 15(2); the Fishery Limits Act [1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86), section 9 and Schedule 2, paragraph 15; the Sea Fisheries (Shellfish) (Amendment) Act [1997 (c.3)](https://www.legislation.gov.uk/ukpga/1997/3), section 1; the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 ([S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), article 4 and Schedule 2, paragraph 42(2)(a) and (b); the Marine (Scotland) Act [2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5) (“the 2010 Act”), sections 160(1) and (2) and 161(2); and the Aquaculture and Fisheries (Scotland) Act [2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7) (“the 2013 Act”), section 55(1). Section 7(4)(a)(iii) was inserted by the Sea Fisheries (Shellfish) Amendment (Scotland) Act [2000 (asp 12)](https://www.legislation.gov.uk/asp/2000/12), section 1. Schedule 1 to the 1967 Act was amended by the 1968 Act, section 15(7) and by the 2010 Act, sections 160(3), 161(1)(g) and (h) and 161(5). The reference to the “appropriate Minister” in section 22(1) of the 1967 Act is to be read as a reference to the Scottish Ministers by virtue of [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Schedule 2, paragraph 42(10).
+
+[^f00002]: Footnote: Paragraph 6(1) of Schedule 1 to the 1967 Act was amended by the 2013 Act, section 58(1). Paragraph 6(2) of Schedule 1 to the 1967 Act was inserted by the 2010 Act, section 160(3), and requires the Scottish Ministers to have regard to the powers and duties of the Crown Estate Commissioners under the Crown Estate Act 1961 where a proposed Order under section 1 of the 1967 Act relates to any portion of the sea shore which belongs to Her Majesty in right of the Crown, as is the case here. “Sea shore” is described in section 1(1) of the 1967 Act, as read with section 1(1A).
+
+[^f00003]: Footnote: [1961 c.55](https://www.legislation.gov.uk/ukpga/1961/55).
+
+[^key-3b024f44419b5f328cb7501bed52e879]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+
+[^key-4233d23d254afc71e53ae9b8fa8f8a92]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/30/article/2) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+
+[^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-a9b3009ad080be1f75d9ec3110070bb2]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2015/30/article/3) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+
+[^key-0284092b01956dc98917a866fa3b6163]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/30/article/4) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+
+[^key-85be8db4dae86c1b0b87a313bb453f83]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/30/article/5) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+
+[^key-27e393d6c4e9fa2083698ec0396b189b]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/30/article/6) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+
+[^key-dc8e22178df3e2531923b8864a160dac]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2015/30/article/7) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+
+[^key-d72215c23be5e6d6f24c710b7de66eba]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2015/30/article/8) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+
+[^key-890c81c871ed34bf5b0e1f7a770fbc19]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/ssi/2015/30/article/8/1) renumbered as art. 8(1) (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 138(1)(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/138/1/a)
+
+[^key-9dd2bda806ba200385b743af5c26a804]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/ssi/2015/30/article/8/1) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 138(1)(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/138/1/b)
+
+[^key-3ab0f86ce7a89ffda2c916dd8602cf75]: Textual amendment: [Art. 8(2)](https://www.legislation.gov.uk/ssi/2015/30/article/8/2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 138(1)(c)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/138/1/c)
+
+[^key-bcae923b09f0a43d310883b769c827ff]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2015/30/article/9) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+
+[^f00005]: Footnote: [S.I. 1997/830](https://www.legislation.gov.uk/uksi/1997/830).
+
+[^f00006]: Footnote: [S.S.I. 2002/185](https://www.legislation.gov.uk/ssi/2002/185).
+
+[^key-b05c45f4585c2d1a706d38f2613aa63b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/30/schedule/paragraph/1) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)
+
+[^f00007]: Footnote: Definitions of the World Geodetic System 1984 datum and co-ordinate reference system are available via EPSG Geodetic Parameter Registry as EPSG:6326 (http://epsg.io/6326-datum) and EPSG:4326 (http://epsg.io/4326).
+
+[^key-4b4a3eb685673009233f25ddc06ecbb6]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2015/30/schedule/paragraph/2) in force at 9.3.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/30/article/1)

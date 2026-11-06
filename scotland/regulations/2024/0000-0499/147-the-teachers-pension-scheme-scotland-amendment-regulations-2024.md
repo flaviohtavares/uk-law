@@ -1,0 +1,122 @@
+---
+title: The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2024
+id: ssi/2024/147
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2024-05-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2024/147
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2024/147/pdfs/ssipn_20240147_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2024/147/pdfs/ssi_20240147_en.pdf
+- http://www.legislation.gov.uk/ssi/2024/147/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2024
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2024 No. 147
+
+Public Service Pensions
+
+The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2024
+
+Made
+
+16th May 2024
+
+Laid before the Scottish Parliament
+
+20th May 2024
+
+Coming into force
+
+29th June 2024
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 1(1) and 3 of, and paragraph 4(b) of schedule 2 of, the Public Service Pensions Act 2013[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 21(1) of that Act, the Scottish Ministers consulted the representatives of such persons as appeared to them likely to be affected by these Regulations.
+
+In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.
+
+## 1. Citation, commencement and effect
+
+These Regulations may be cited as the Teachers’ Pension Scheme (Scotland) Amendment Regulations 2024, come into force on 29 June 2024 and have effect from 1 April 2024.
+
+## 2. Amendment of the Teachers’ Pension Scheme (Scotland) (No. 2) Regulations 2014
+
+The Teachers’ Pension Scheme (Scotland) (No. 2) Regulations 2014[^f00002] are amended in accordance with regulations 3 and 4.
+
+**3.** In regulation 179 (contributions for standard earned pension)—
+
+- (a) for the table in paragraph (2), substitute—
+
+  > | *Column 1*<br>*Annual Salary rate for the eligible*<br>*employment* | *Column 2*<br>*Standard contributions rate* |
+  > | --- | --- |
+  > | Up to and including £34,286 | 7.35% |
+  > | £34,287 to £46,155 | 8.88% |
+  > | £46,156 to £54,278 | 9.90% |
+  > | £54,279 to £67,975 | 10.61% |
+  > | £67,976 to £92,693 | 11.73% |
+  > | £92,694 and above | 12.14% |
+
+  .
+- (b) in paragraph (3), after “bands in” insert “the first, second and third rows in”,
+- (c) after paragraph (3) insert—
+
+  > (3A) The lower threshold of the annual salary rate band in the fourth row in Column 1 is increased for each financial year, if there is a relevant increase in the consumer prices index for that financial year, by the appropriate percentage for the financial year, rounding up to the nearest £1.
+
+  .
+
+**4.** In regulation 186 (employers’ contributions), for paragraphs (c) and (d) substitute—
+
+> - (c) 23% from 1 September 2019 to 31 March 2024;
+> - (d) 26% from 1 April 2024;
+> - (e) at the rate determined in each successive valuation report under paragraph 1 of Schedule 4 with effect from a date to be notified to employers by the scheme manager.
+
+.
+
+IVAN MCKEE
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+16th May 2024
+
+We consent
+
+AMANDA MILLING
+
+JOY MORRISSEY
+
+Two of the Lords Commissioners of His Majesty’s Treasury
+
+14th May 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Teachers’ Pension Scheme (Scotland) (No. 2) Regulations 2014 with effect from 1 April 2024. Section 3(3)(b) of the Public Service Pensions Act 2013 provides that scheme regulations may make retrospective provision.
+
+Firstly, they substitute the table of employee contribution rates in regulation 179 with an updated table.
+
+Secondly, they amend regulation 179 so that only the first three salary rate bands in the table of employee contribution rates will be increased annually in line with inflation.
+
+Thirdly, they amend regulation 186 to provide for a new rate of employers’ contributions.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25). Section 3 was relevantly amended by section 94 of the Public Service Pensions and Judicial Offices Act [2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7).
+
+[^f00002]: Footnote: [S.S.I. 2014/292](https://www.legislation.gov.uk/ssi/2014/292), relevantly amended by [S.S.I. 2015/97](https://www.legislation.gov.uk/ssi/2015/97) and [S.S.I. 2019/48](https://www.legislation.gov.uk/ssi/2019/48).

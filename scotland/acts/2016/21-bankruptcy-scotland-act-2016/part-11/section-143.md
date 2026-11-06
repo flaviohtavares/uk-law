@@ -1,0 +1,56 @@
+---
+title: Bankruptcy (Scotland) Act 2016, section 143
+act: Bankruptcy (Scotland) Act 2016
+section: '143'
+status: revised-with-pending-changes
+text_date: '2025-06-25'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/21/section/143
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Bankruptcy (Scotland) Act 2016, section 143
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2016/21
+>
+> Extent: Scotland.
+
+## 143. Debtor not traced: subsequent debtor contact[^key-b404f651b3893a63712d82ef3e792c5f]
+
+*Extent: S*
+
+(1) This section applies where—
+
+- (a) a certificate is issued under section 141(4)(b) or (6)(b), and
+- (b) the trustee ascertains the whereabouts of the debtor or the debtor makes contact with the trustee.
+
+(2) Where AiB is the trustee, AiB may discharge the debtor at any time after the date which is 12 months after that on which—
+
+- (a) the whereabouts of the debtor were ascertained, or
+- (b) the debtor made contact with the trustee.
+
+(3) Where AiB is not the trustee, the trustee must prepare and send a report to AiB without delay after the date which is 10 months after the earlier of—
+
+- (a) the date on which the whereabouts of the debtor were ascertained by the trustee, and
+- (b) the date on which the debtor made contact with the trustee.
+
+(4) If the trustee sends a report to AiB under subsection (3)—
+
+- (a) the report must include the matters which, in a report sent to AiB, are included in accordance with subsection (5) of section 137, and
+- (b) subsection (6) of that section applies to a report sent under this section as it applies to a report sent in accordance with subsection (4) of that section.
+
+(5) After receiving a report under subsection (3), AiB may discharge the debtor by granting a certificate of discharge in the prescribed form.
+
+(6) Before deciding whether to discharge the debtor under subsection (5), AiB must—
+
+- (a) consider the report prepared under subsection (3), and
+- (b) take into account any representations received during the 28 days mentioned in subsection (6)(b) of section 137 (as applied in accordance with subsection (4)).
+
+(7) Discharge under subsection (2) or (5) is not to take effect before the expiry of 14 days beginning with the day of notification of the decision to discharge.
+
+(8) Discharge under subsection (2) or (5) is deemed for the purposes of section 145 to have been given under section 137(2).
+
+## Annotations
+
+[^key-b404f651b3893a63712d82ef3e792c5f]: Commencement: [S. 143](https://www.legislation.gov.uk/asp/2016/21/section/143) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -1,0 +1,42 @@
+---
+title: Referendums (Scotland) Act 2020, section 14
+act: Referendums (Scotland) Act 2020
+section: '14'
+status: revised
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2020/2/section/14
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Referendums (Scotland) Act 2020, section 14
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+## 14. Monitoring and securing compliance with the campaign rules
+
+*Extent: S*
+
+(1) The Electoral Commission must—
+
+- (a) monitor compliance with the restrictions and other requirements imposed by schedule 3, and
+- (b) take such steps as they consider appropriate with a view to securing compliance with those restrictions and requirements.
+
+(2) The Electoral Commission may prepare and publish guidance setting out, in relation to any restriction or requirement imposed by schedule 3, their opinion on any of the following matters—
+
+- (a) what it is necessary, or is sufficient, to do (or avoid doing) in order to comply with the restriction or requirement,
+- (b) what it is desirable to do (or avoid doing) in view of the purpose of the restriction or requirement.
+
+(3) Subsection (2) does not affect the generality of section 26(4).
+
+(4) Schedule 4 makes provision about the investigatory powers of the Electoral Commission for the purpose of subsection (1).
+
+(5) Schedule 5 makes provision for civil sanctions in relation to—
+
+- (a) the commission of campaign offences,
+- (b) the failure to comply with certain requirements imposed by schedule 3.
+
+(6) In this section, “**restriction**” includes a prohibition.

@@ -1,0 +1,162 @@
+---
+title: Act of Sederunt (Rules of the Court of Session 1994 and Summary Application Rules 1999 Amendment) (Miscellaneous) 2017
+id: ssi/2017/242
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2017-07-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2017/242
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2017/242/pdfs/ssi_20170242_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/242/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Rules of the Court of Session 1994 and Summary Application Rules 1999 Amendment) (Miscellaneous) 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 242
+
+Court Of Session
+
+Sheriff Court
+
+Act of Sederunt (Rules of the Court of Session 1994 and Summary Application Rules 1999 Amendment) (Miscellaneous) 2017
+
+Made
+
+11th July 2017
+
+Laid before the Scottish Parliament
+
+12th July 2017
+
+Coming into force
+
+18th September 2017
+
+In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013[^f00001], the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council.
+
+The Court of Session therefore makes this Act of Sederunt under the powers conferred by sections 103(1) and 104(1) of the Courts Reform (Scotland) Act 2014[^f00002] and all other powers enabling it to do so.
+
+## 1. Citation and commencement, etc.
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 and Summary Application Rules 1999 Amendment) (Miscellaneous) 2017.
+
+(2) It comes into force on 18th September 2017.
+
+(3) A certified copy is to be inserted in the Books of Sederunt.
+
+## 2. Amendment of the Rules of the Court of Session 1994
+
+(1) The Rules of the Court of Session 1994[^f00003] are amended in accordance with this paragraph.
+
+(2) After rule 49.32 (abandonment by pursuer), insert—
+
+> **49.32A. Case management hearing**
+>
+> (1) When defences are lodged, the court must fix a date for a case management hearing.
+>
+> (2) The date fixed for the case management hearing must be not less than 4 weeks and not more than 8 weeks after the date on which defences were lodged.
+>
+> (3) At the case management hearing, each party must address the court on—
+>
+> - (a) any matters that are capable of agreement;
+> - (b) the matters that are in dispute between the parties;
+> - (c) any matters of potential complexity or difficulty;
+> - (d) any documents likely to be relevant to the matters in dispute;
+> - (e) any valuations that are likely to be required;
+> - (f) any expert evidence that is likely to be required;
+> - (g) whether steps require to be taken to give a child an opportunity to express views;
+> - (h) whether steps require to be taken to investigate any facts or circumstances relating to a child;
+> - (i) the estimated duration of the proof;
+> - (j) further procedure;
+> - (k) any other issues that the court considers appropriate.
+>
+> (4) At the case management hearing, the court may—
+>
+> - (a) order and fix a date for a further case management hearing;
+> - (b) order and fix a date for a pre-proof hearing not less than 6 weeks and not more than 8 weeks before the date fixed for the proof;
+> - (c) make such other orders as it considers appropriate for the expeditious progress of the cause.
+>
+> **49.32B. Pre-proof hearing**
+>
+> (1) The purpose of a pre-proof hearing is to ascertain, so far as is reasonably practicable, whether the cause is likely to proceed to proof on the date fixed.
+>
+> (2) Where the court appoints a pre-proof hearing, the parties must provide the court with sufficient information to enable it to conduct the hearing as provided for in this rule.
+>
+> (3) At the pre-proof hearing, the court must consider—
+>
+> - (a) the state of preparation of the parties;
+> - (b) whether the proof has been fixed for an appropriate number of days;
+> - (c) the extent to which the parties have complied with any orders made by the court;
+> - (d) whether special measures will be required for the purposes of taking the evidence of any vulnerable witnesses;
+> - (e) whether a live link may be required.
+>
+> (4) At the pre-proof hearing, the court may—
+>
+> - (a) discharge the proof and fix a new date for it;
+> - (b) continue the pre-proof hearing;
+> - (c) order parties to lodge joint minutes, affidavits, and expert reports within such period as it considers appropriate;
+> - (d) direct how evidence is to be given by expert witnesses;
+> - (e) make an order authorising the use of special measures for the purposes of taking the evidence of any vulnerable witnesses;
+> - (f) make an order authorising the use of a live link;
+> - (g) make such other orders as it considers appropriate to secure the expeditious progress of the cause.
+
+.
+
+## 3. Amendment of the Summary Application Rules 1999
+
+(1) The Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999[^f00004] is amended in accordance with this paragraph.
+
+(2) In rule 3.45.2(a)(iii) of Part XLV (mutual recognition of protection measures in civil matters)[^f00005] of Chapter 3 after “order” insert “or an interim trafficking and exploitation prevention order”.
+
+## 4. Amendment of the Act of Sederunt (Summary Application Rules 1999 Amendment) (Trafficking and Exploitation Orders) 2017
+
+(1) The Act of Sederunt (Summary Applications Rules 1999 Amendment) (Trafficking and Exploitation Orders) 2017[^f00006] is amended in accordance with this paragraph.
+
+(2) For paragraph 2(2)(b)(ii) substitute—
+
+> - (ii) in paragraph (a)(iii) after “order” where it second occurs insert “or a trafficking and exploitation risk order or an interim trafficking and exploitation risk order”.
+
+.
+
+CJM SUTHERLAND
+
+Lord President
+
+I.P.D.
+
+Edinburgh
+
+11th July 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt amends Chapter 49 (Family Actions) of the Rules of the Court of Session 1994. Paragraph 2 inserts new rules 49.32A and 49.32B, which make provision for a case management hearing and a pre-proof hearing respectively.
+
+Paragraph 3 amends Chapter 3 of Part XLV (Mutual Recognition of Protection Measures in Civil Matters) of the Summary Application Rules 1999 to make provision for interim trafficking and exploitation prevention orders.
+
+Paragraph 4 amends the Act of Sederunt (Summary Applications Rules 1999 Amendment) (Trafficking and Exploitation Orders) 2017 to make provision for interim trafficking and exploitation risk orders.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 asp 3](https://www.legislation.gov.uk/asp/2013/3). Section 4 was amended by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), schedule 5, paragraph 31(3) and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act [2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), schedule 1, paragraph 1(4).
+
+[^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
+
+[^f00003]: Footnote: The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2017/202](https://www.legislation.gov.uk/ssi/2017/202)).
+
+[^f00004]: Footnote: [S.I. 1999/929](https://www.legislation.gov.uk/uksi/1999/929), last amended by [S.S.I. 2017/211](https://www.legislation.gov.uk/ssi/2017/211).
+
+[^f00005]: Footnote: Rule 3.45.2(a)(iii) was inserted by [S.S.I. 2017/211](https://www.legislation.gov.uk/ssi/2017/211).
+
+[^f00006]: Footnote: [S.S.I. 2017/211](https://www.legislation.gov.uk/ssi/2017/211).

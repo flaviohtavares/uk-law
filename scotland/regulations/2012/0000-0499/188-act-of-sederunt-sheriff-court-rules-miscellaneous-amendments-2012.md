@@ -1,0 +1,746 @@
+---
+title: Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012
+id: ssi/2012/188
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-06-06'
+text_date: '2012-08-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2012/188
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2012/188/pdfs/ssi_20120188_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/188/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012
+
+> Text as at 2012-08-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2012 No. 188
+
+Sheriff Court
+
+Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012
+
+Made
+
+6th June 2012
+
+Laid before the Scottish Parliament
+
+8th June 2012
+
+Coming into force
+
+1st August 2012
+
+The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001] and section 114 of the Adoption and Children (Scotland) Act 2007[^f00002] as modified and applied in relation to parental orders under section 54 of the Human Fertilisation and Embryology Act 2008[^f00003] and applications for such orders by regulation 4 of, and Schedule 3 to, the Human Fertilisation and Embryology (Parental Orders) Regulations 2010[^f00004] and of all other powers enabling them in that behalf, having approved draft rules submitted to them by the Sheriff Court Rules Council in accordance with section 34 of the said Act of 1971, do hereby enact and declare:
+
+## 1. Citation, commencement and interpretation[^key-9de9142e57b74ffd3ec67bbb18926652]
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 and subject to paragraph 15, comes into force on 1st August 2012.
+
+(2) A certified copy of this Act of Sederunt is to be inserted in the Books of Sederunt.
+
+(3) In this Act of Sederunt the “Ordinary Cause Rules” means the Ordinary Cause Rules in Schedule 1 to the Sheriff Courts (Scotland) Act 1907[^f00005].
+
+## 2. Ordinary Cause Rules: pronouncement of decision[^key-d1746938aead9ac9bfe82e37f8636676]
+
+(1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
+
+(2) For rule 12.2 (further provisions in relation to interlocutors)[^f00006] substitute—
+
+> **12.2.** (1) The sheriff may sign an interlocutor when outwith his or her sheriffdom.
+>
+> (2) At any time before extract, the sheriff may correct any clerical or incidental error in an interlocutor or note attached to it.
+>
+> (3) Paragraphs (4) and (5) apply in any cause other than—
+>
+> - (a) an undefended family action within the meaning of rule 33.1(1); or
+> - (b) an undefended civil partnership action within the meaning of rule 33A.1(1).
+>
+> (4) At the conclusion of any hearing in which evidence has been led, the sheriff shall either—
+>
+> - (a) pronounce an extempore judgment in accordance with rule 12.3; or
+> - (b) reserve judgment in accordance with rule 12.4.
+>
+> (5) In circumstances other than those mentioned in paragraph (4), the sheriff may, and must when requested by a party, append to the interlocutor a note setting out the reasons for the decision.
+>
+> (6) A party must make a request under paragraph (5) in writing within 7 days of the date of the interlocutor.
+>
+> (7) Where a party requests a note of reasons other than in accordance with paragraph (6), the sheriff may provide such a note.
+>
+> **12.3. Extempore judgments**
+>
+> (1) This rule applies where a sheriff pronounces an extempore judgment in accordance with rule 12.2(4)(a).
+>
+> (2) The sheriff must state briefly the grounds of his or her decision, including the reasons for his or her decision on any questions of fact or law or of admissibility of evidence.
+>
+> (3) The sheriff may, and must if requested to do so by a party, append to the interlocutor a note setting out the matters referred to in paragraph (2) and his or her findings in fact and law.
+>
+> (4) A party must make a request under paragraph (3) in writing within 7 days of the date of the extempore judgment.
+>
+> (5) Where a party requests a note of reasons other than in accordance with paragraph (4), the sheriff may provide such a note.
+>
+> **12.4. Reserved judgments**
+>
+> (1) This rule applies where a sheriff reserves judgment in accordance with rule 12.2(4)(b).
+>
+> (2) The sheriff must give to the sheriff clerk—
+>
+> - (a) an interlocutor giving effect to the sheriff’s decision and incorporating findings in fact and law; and
+> - (b) a note stating briefly the grounds of his or her decision, including the reasons for his or her decision on any questions of fact or law or of admissibility of evidence.
+>
+> (3) The date of the interlocutor is the date on which it is received by the sheriff clerk.
+>
+> (4) The sheriff clerk must forthwith send a copy of the documents mentioned in paragraph (2) to each party.
+
+.
+
+## 3. Ordinary Cause Rules: summary decree[^key-b6d60090bf6a19b93d6b4fd0e02eb872]
+
+(1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
+
+(2) For rule 17.2 (applications for summary decree) and rule 17.3 (application of summary decree to counterclaims, etc.) substitute—
+
+> **17.2. Applications for summary decree**
+>
+> (1) Subject to paragraphs (2) to (4), a party to an action may, at any time after defences have been lodged, apply by motion for summary decree in accordance with rule 15.1(1)(b) (lodging of motions).
+>
+> (2) An application may only be made on the grounds that—
+>
+> - (a) an opposing party’s case (or any part of it) has no real prospect of success; and
+> - (b) there exists no other compelling reason why summary decree should not be granted at that stage.
+>
+> (3) The party enrolling the motion may request the sheriff—
+>
+> - (a) to grant decree in terms of all or any of the craves of the initial writ or counterclaim;
+> - (b) to dismiss a cause or to absolve any party from any crave directed against him or her;
+> - (c) to pronounce an interlocutor sustaining or repelling any plea-in-law; or
+> - (d) to dispose of the whole or part of the subject-matter of the cause.
+>
+> (4) The sheriff may—
+>
+> - (a) grant the motion in whole or in part, if satisfied that the conditions in subparagraph (2) are met,
+> - (b) ordain any party, or a partner, director, officer or office-bearer of any party—
+>   - (i) to produce any relevant document or article; or
+>   - (ii) to lodge an affidavit in support of any assertion of fact made in the pleadings or at the hearing of the motion.
+>
+> (5) Notwithstanding the refusal of all or part of a motion for summary decree, a subsequent motion may be made where there has been a change in circumstances.
+
+.
+
+(3) Rule 40.11 (applications for summary decree in a commercial action) is omitted.
+
+## 4. Family actions: financial information[^key-5ba59fe6dcf4b228cff85caa8d1d4e99]
+
+(1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
+
+(2) In rule 33.9 (productions in action of divorce or where section 11 order may be made)[^f00007]—
+
+- (a) after subparagraph (b), insert—
+
+  > - (c) in an action which includes a crave for an order for financial provision, the pursuer must lodge a completed Form F13A signed by the pursuer with the initial writ or minute of amendment as the case may be.
+
+  ;
+- (b) the heading of that rule becomes “Productions in action of divorce or where a section 11 order or order for financial provision may be made”.
+
+(3) In rule 33.34 (notice of intention to defend and defences)[^f00008]—
+
+- (a) after paragraph (3) insert—
+
+  > (4) Where a defender opposes a crave for an order for financial provision or makes a claim in accordance with paragraph (1)(b)(ii) [^key-cafd2cfacb29e6876b23093c6676801f]..., the defender must lodge a completed Form F13A signed by the defender with the defences, minute of amendment or answers as the case may be.
+
+  ;
+- (b) the heading of that rule becomes “Notice of intention to defend and defences etc.”.
+
+(4) In rule 33A.9 (productions in action of dissolution of civil partnership or where section 11 order may be made)[^f00009]—
+
+- (a) after paragraph (4), insert—
+
+  > (5) In a civil partnership action which includes a crave for an order for financial provision, the pursuer must lodge a completed Form CP13A signed by the pursuer with the initial writ or minute of amendment as the case may be.
+
+  ;
+- (b) the heading of that rule becomes “Productions in action of dissolution of civil partnership or where a section 11 order or order for financial provision may be made”.
+
+(5) In rule 33A.34 (notice of intention to defend and defences)—
+
+- (a) after paragraph (3) insert—
+
+  > (4) Where a defender opposes a crave for an order for financial provision or makes a claim in accordance with paragraph (1)(b)(ii) [^key-df1cfcd1931107912b0c4cb1514b1a25]..., the defender must lodge a completed Form CP13A signed by the defender with the defences, minute of amendment or answers as the case may be.
+
+  ;
+- (b) the heading of that rule becomes “Notice of intention to defend and defences etc.”.
+
+(6) In Appendix 1, insert the Forms set out in Schedule 1 to this Act of Sederunt in the following places—
+
+- (a) after Form F13 (Form of intimation to person with whom an improper association is alleged to have occurred) insert Form F13A (Form of statement of matrimonial property);
+- (b) after Form CP13 (Form of intimation to person with whom an association is alleged to have occurred in a civil partnership action)[^f00010] insert Form CP13A (Form of statement of civil partnership property).
+
+## 5. Ordinary Cause Rules: Applications under section 28 or 29 of the Family Law (Scotland) Act 2006[^key-74f321ddd351af4b954b88b87b949c0d]
+
+(1) Chapter 33 (family actions)[^f00011] of the Ordinary Cause Rules is amended in accordance with the following subparagraphs.
+
+(2) In rule 33.1 (interpretation of Chapter 33: family actions)[^f00012]—
+
+- (a) after paragraph (1)(p) insert—
+
+  > - (q) an application under section 28 or 29 of the Act of 2006 (financial provision for former co-habitants)[^f00013].
+
+  ;
+- (b) in paragraph (2) after the definition of “the Act of 1995” insert—
+
+  > - “the Act of 2006” means the Family Law (Scotland) Act 2006;
+
+  .
+
+(3) After rule 33.6 (averments where aliment or financial provision sought)[^f00014]—
+
+> **33.6A. Application by survivor for provision on intestacy**
+>
+> (1) In an action for an order under section 29(2) of the Act of 2006 (application by survivor for provision on intestacy), the pursuer shall call the deceased’s executor as a defender.
+>
+> (2) An application under section 29(9) of the Act of 2006 for variation of the date or method of payment of the capital sum shall be made by minute in the process of the action to which the application relates.
+>
+> (3) Words and expressions used in this rule shall have the same meaning as in section 29 of the Act of 2006.
+
+.
+
+(4) In rule 33.7 (warrants and forms for intimation)[^f00015]—
+
+- (a) in paragraph (1)(a)(i), for “every child of the marriage” substitute “every person who is a child of the family (as defined in section 12(4)(a) of the Act of 1995)”;
+- (b) in paragraph (1)(b), for “in an action” substitute “in an action of divorce”;
+- (c) after paragraph (1)(o), insert—
+
+  > - (p) in an action where a pursuer makes an application for an order under section 29(2) of the Act of 2006 (application by survivor for provision on intestacy) to any person having an interest in the deceased’s net estate, and a notice of intimation in Form F12E shall be attached to the initial writ intimated to any such person.
+
+  ;
+- (d) for paragraph (2) substitute—
+
+  > (2) Expressions used in—
+  >
+  > - (a) paragraph (1)(k) which are also used in the Act of 1981; and
+  > - (b) paragraph (1)(p) which are also used in section 29 of the Act of 2006,
+  >
+  > shall have the same meanings as in that Act or section, as the case may be.
+
+  ;
+- (e) in paragraph (5), for “or (m)” substitute “, (m) or (p)”.
+
+(5) In rule 33.16(1) (appointment of *curators ad litem* to defenders)[^f00016], for “This rule applies to an action of divorce, separation or declarator of nullity of marriage” substitute “This rule applies to a family action”.
+
+(6) In rule 33.26 (joint minutes)[^f00017]—
+
+- (a) at the end of subparagraph (b) omit “or”;
+- (b) after subparagraph (c), insert—
+
+  > or
+  >
+  > - (d) an order under section 28 or 29 of the Act of 2006.
+
+  .
+
+(7) In rule 33.28 (evidence in certain undefended family actions)[^f00018], after paragraph (1)(a)(v) insert—
+
+> - (vi) for an order under section 28 or 29 of the Act of 2006;
+
+.
+
+(8) In rule 33.33A(1) (late appearance and application for recall by defenders)[^f00019] for “(n) to (p)” substitute “(n) to (q)”.
+
+(9) In rule 33.34 (notice of intention to defend and defences)—
+
+- (a) at the end of paragraph (1)(b)(ii) and (iii) omit “or” in each case;
+- (b) after paragraph (1)(b)(iii) insert—
+
+  > - (iv) an order for financial provision under section 28 or 29 of the Family Law (Scotland) Act 2006; or
+
+  .
+
+(10) In rule 33.37(2)(b) (decree by default)[^f00020] after “(m)” insert “or (q)”.
+
+## 6.[^key-a99178fd8c113f020ee111f18bc33537]
+
+(1) Chapter 33A of the Ordinary Cause Rules (civil partnership actions)[^f00021] is amended in accordance with the following subparagraph.
+
+(2) In rule 33A.16 (appointment of *curators ad litem* to defenders)[^f00022], for “This rule applies to an action of dissolution or declarator of nullity of civil partnership or separation of civil partners” substitute “This rule applies to a civil partnership action”.
+
+## 7.[^key-f0a07ff0f8d57e4fbf5cd097ac49b82d]
+
+Chapter 33B of the Ordinary Cause Rules (financial provision for former cohabitants)[^f00023] is omitted.
+
+## 8.[^key-709145e04578fe8b2b7925fa50b82187]
+
+(1) Appendix 1 to the Ordinary Cause Rules is amended in accordance with the following subparagraphs.
+
+(2) In Form CO1 (Form of intimation of application for financial provision on intestacy under section 29(2) of the Family Law (Scotland) Act 2006—
+
+- (a) the Form is renumbered “Form F12E”;
+- (b) for “Rule 33B.2(2)(b)” substitute “Rule 33.7(1)(p)”.
+
+(3) The order of the Forms is changed so that Form F12E appears after Form F12D (Form of intimation to Board of the Pension Protection Fund in relation to an order under section 12B(2) of the Family Law (Scotland) Act 1985)[^f00024].
+
+## 9. Simplified dissolution of civil partnership applications[^key-df6de5b9e894e24ee5ccba2813844e88]
+
+(1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
+
+(2) In rule 33A.66(1)(d) (application and interpretation of this Part)[^f00025] for “in section 101(7) of the Act of 2004” substitute “in section 12(4)(b) of the Act of 1995”.
+
+(3) In rule 33A.70(1)(b)(i) (citation where address not known)[^f00026] for “of section 101(7) of the Act of 2004” substitute “of section 12(4)(b) of the Act of 1995”.
+
+## 10. Ordinary Cause Rules: Admiralty actions[^key-266469a32d165e9666e3f70c370d676c]
+
+(1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
+
+(2) In rule 5.1 (signature of warrants)[^f00027]—
+
+- (a) in subparagraph (2)(b), at the end, insert “(including the arrestment of a ship)”;
+- (b) after subparagraph (2)(d) insert—
+
+  > - (e) a warrant for arrestment of a ship to found jurisdiction;
+  > - (f) a warrant for arrestment of a ship or cargo *in rem*;
+  > - (g) a warrant for arrestment of cargo.
+
+  .
+
+(3) Rule 6.3 (movement of arrested property) is omitted.
+
+(4) After Chapter 48 (reporting restrictions under the Contempt of Court Act 1981)[^f00028] insert—
+
+> **CHAPTER 49 — ADMIRALTY ACTIONS**
+>
+> **49.1. Interpretation of this Chapter**
+>
+> In this Chapter—
+>
+> - “Admiralty action” means an action having a crave appropriate for the enforcement of a claim to which section 47(2) of the Administration of Justice Act 1956[^f00029] applies;
+> - “ship” has the meaning assigned in section 48(f) of that Act[^f00030].
+>
+> **49.2. Forms of action**
+>
+> (1) An Admiralty action against the owners or demise charterers of, or other parties interested in, a ship or the owners of the cargo may be brought—
+>
+> - (a) *in rem*, where the crave of the initial writ is directed to recovery in respect of a maritime lien against the ship or cargo or the proceeds of it as sold under order of the sheriff or where arrestment *in rem* may be made under section 47(3) of the Administration of Justice Act 1956;
+> - (b) *in personam*, where the crave of the initial writ is directed to a decree against the defender; or
+> - (c) both *in rem* and *in personam*, where sub-paragraphs (a) and (b) apply.
+>
+> (2) When bringing an Admiralty action, the pursuer shall use Form G1 (initial writ) and insert the words “Admiralty Action *in rem*”, “Admiralty Action *in personam*” or “Admiralty Action *in rem* and *in personam*”, as the case may be, immediately below where the Sheriffdom and court are designed, above the instance.
+>
+> **49.3. Actions in rem**
+>
+> (1) In an Admiralty action *in rem*—
+>
+> - (a) where the owners or demise charterers of, or other parties interested in, the ship or the owners of the cargo against which the action is directed are known to the pursuer, they shall be called as defenders by name;
+> - (b) where such owners or demise charterers or other parties are unknown to the pursuer—
+>   - (i) the pursuer may call them as defenders as “the owners of or parties interested in the ship (*name and identify by its port of registry*) or the owners of the cargo”; and
+>   - (ii) the master, if known, shall also be called as a defender representing the owners or demise charterers.
+>
+> (2) In an Admiralty action *in rem*, the ship or cargo shall be arrested *in rem* and a warrant for such arrestment may include warrant to dismantle where craved in the initial writ.
+>
+> **49.4. Actions in personam**
+>
+> (1) In an Admiralty action *in personam* directed against the owners or demise charterers, or other parties, interested in a ship, or the owners of cargo, the defenders shall, if known to the pursuer, be called as defenders by name.
+>
+> (2) In such an action, where—
+>
+> - (a) the vessel is not a British ship, and
+> - (b) the names of the owners or demise charterers are not known to the pursuer,
+>
+> the master of the ship may be called as the defender representing the owners or demise charterers.
+>
+> (3) In an action to which paragraph (2) applies, any warrant to arrest to found jurisdiction shall be executed against the master of the ship in his or her representative capacity.
+>
+> (4) In an action to which paragraph (2) applies, any decree shall be pronounced against the master in his or her representative capacity.
+>
+> (5) A decree in an Admiralty action *in personam* may be pronounced against an owner or demise charterer of, or other party interested in, the ship or the owner of the cargo only where that owner or demise charterer or other party interested, as the case may be, has been called or added as a defender.
+>
+> **49.5. Sale of ship or cargo**
+>
+> (1) This rule shall not apply to the sale of a cargo arrested on the dependence of an Admiralty action *in personam*.
+>
+> (2) Where, in an Admiralty action or an action of declarator and sale of a ship—
+>
+> - (a) the sheriff makes a finding that the pursuer has a claim which falls to be satisfied out of an arrested ship or cargo, or
+> - (b) a decree for a sum of money has been granted in an action in which a ship has been arrested on the dependence,
+>
+> the pursuer may apply by motion for an order for the sale of that ship or a share in it, or the cargo, as the case may be, by public auction or private bargain.
+>
+> (3) Before making such an order, the sheriff shall remit to a reporter for the purpose of obtaining—
+>
+> - (a) an inventory of,
+> - (b) a valuation and recommendation upset price for, and
+> - (c) any recommendation as to the appropriate advertisement for the sale of, the ship, share or cargo.
+>
+> (4) Where a remit is made under paragraph (3), the pursuer shall instruct the reporter within 14 days after the date of the interlocutor making the remit and be responsible, in the first instance, for payment of his or her fee.
+>
+> (5) On completion of a report following a remit under paragraph (3), the reporter shall send the report and a copy for each party to the sheriff clerk.
+>
+> (6) On receipt of such a report, the sheriff clerk shall—
+>
+> - (a) give written intimation to each party of receipt of the report;
+> - (b) request the pursuer to show to him or her a discharge in respect of the fee for which the pursuer is responsible under paragraph (4); and
+> - (c) after sight of such a discharge—
+>   - (i) lodge the report in process;
+>   - (ii) give written intimation to each party that this has been done and that he or she may uplift a copy of the report from process; and
+>   - (iii) cause the action to call for a procedural hearing.
+>
+> (7) Where the sheriff orders the sale of a ship, share or cargo, the conduct of the sale, including any advertisement of it, shall be under the direction of the sheriff clerk.
+>
+> (8) Where such a sale is the sale of a ship or a share in it, the interlocutor ordering the sale shall include a declaration that the right to transfer the ship or share to the purchaser is vested in the sheriff clerk.
+>
+> (9) Where, in such a sale, no offer to purchase the ship, share or cargo, as the case may be, has reached the upset price, the pursuer may apply by motion for authority to expose such ship, share or cargo for sale at a reduced upset price.
+>
+> (10) The proceeds of such a sale shall be consigned into court, under deduction of all dues to the date the sheriff adjudges the ship, share or cargo to belong to the purchaser under paragraph (11)(a), payable to Her Majesty’s Revenue and Customs or to the port or harbour authority within the jurisdiction of which the ship or cargo lies and in respect of which such port or harbour authority has statutory power to detain the ship or cargo.
+>
+> (11) On consignation being made under paragraph (10), the sheriff shall—
+>
+> - (a) adjudge the ship, share or cargo, as the case may be, declaring the same to belong to the purchaser, freed and disburdened of all bonds, mortgages, liens, rights of retention and other incumbrances affecting it and ordering such ship, share or cargo to be delivered to the purchaser on production of a certified copy of the interlocutor pronounced under this subparagraph; and
+> - (b) order such intimation and advertisement, if any, for claims on the consigned fund as the sheriff thinks fit.
+>
+> (12) The sheriff shall, after such hearing or inquiry as the sheriff thinks fit—
+>
+> - (a) determine all questions of expenses;
+> - (b) rank and prefer any claimants in order of preference; and
+> - (c) make such other order, if any, as the sheriff thinks fit.
+>
+> **49.6. Ship collisions and preliminary acts**
+>
+> (1) Subject to rule 49.7 (applications to dispense with preliminary acts), this rule applies to an Admiralty action of damages arising out of a collision between ships at sea.
+>
+> (2) An action to which this rule applies may be brought *in rem*, *in personam* or *in rem* and *in personam*.
+>
+> (3) An initial writ in such an action shall not contain a condescendence or pleas-in-law.
+>
+> (4) Where such an action is brought *in personam*, the crave of the initial writ shall contain sufficient detail to enable the defender to identify the date and place of and the ships involved in the collision.
+>
+> (5) Where a notice of intention to defend has been lodged Rule 9.2 shall, subject to paragraph 11 of this rule, not apply.
+>
+> (6) Within 7 days after the expiry of the period of notice, the pursuer shall lodge in process a sealed envelope containing—
+>
+> - (a) a preliminary act in Form 49.6; and
+> - (b) a brief condescendence and appropriate pleas-in-law.
+>
+> (7) Within 28 days after the preliminary act for the pursuer has been lodged under paragraph (6), the defender shall lodge in process a sealed envelope containing a preliminary act in Form 49.6.
+>
+> (8) A party who lodges a preliminary act under paragraph (6) or (7) shall not send a copy of it to any other party.
+>
+> (9) On the lodging of a preliminary act by the defender under paragraph (7) the sheriff clerk shall—
+>
+> - (a) open both sealed envelopes;
+> - (b) mark the contents of those envelopes with appropriate numbers of process; and
+> - (c) give written intimation to each party that subparagraphs (a) and (b) have been complied with.
+>
+> (10) On receipt of the written intimation under paragraph (9)(c), the pursuer and defender shall exchange copies of the contents of their respective envelopes.
+>
+> (11) Within 7 days after the sealed envelopes have been opened up under paragraph (9), the sheriff clerk shall fix a date and time for an Options Hearing and send parties Form G5 in terms of Rule 9.2.
+>
+> (12) When the pursuer lodges a record in terms of Rule 9.11 he or she shall do so with a copy of each of the preliminary acts appended to it.
+>
+> (13) No amendment, adjustment or alteration may be made to a preliminary act except by order of the sheriff.
+>
+> **49.7. Applications to dispense with preliminary acts**
+>
+> (1) Within 7 days after the expiry of the period of notice, any party may apply for an order to dispense with preliminary acts in an action to which rule 49.6 applies.
+>
+> (2) An application under paragraph (1) shall be made by minute craving the sheriff to dispense with preliminary acts and setting out the grounds on which the application is made.
+>
+> (3) Before lodging such a minute in process, the party making the application shall intimate a copy of the minute, and the date on which it will be lodged, to every other party.
+>
+> (4) Any other party may lodge in process answers to such a minute within 14 days after such a minute has been lodged.
+>
+> (5) After the expiry of the period mentioned in paragraph (4), the sheriff may, on the motion of any party, after such further procedure, if any, as the sheriff thinks fit, dispense with preliminary acts.
+>
+> (6) Where the sheriff dispenses with preliminary acts, the pursuer shall lodge a condescendence with appropriate pleas-in-law within such period as the sheriff thinks fit; and the action shall thereafter proceed in the same way as an ordinary action.
+>
+> (7) Where the sheriff refuses to dispense with preliminary acts, the sheriff shall ordain a party or parties, as the case may be, to lodge preliminary acts under rule 49.6 within such period as the sheriff thinks fit.
+>
+> (8) An interlocutor dispensing or refusing to dispense with preliminary acts shall be final and not subject to review.
+>
+> **49.8. Ship collision and salvage actions**
+>
+> (1) Without prejudice to rule 29.11 (lodging productions), in an Admiralty action arising out of a collision between ships at sea or salvage, the parties shall—
+>
+> - (a) within 4 days after the interlocutor allowing proof,
+> - (b) within 4 days before the taking of evidence on commission, or
+> - (c) on or before such other date as the sheriff, on special cause shown, shall determine,
+>
+> lodge in process the documents, if any, mentioned in paragraph (2).
+>
+> (2) The documents to be lodged under paragraph (1) are—
+>
+> - (a) the log books, including scrap log books, of the ships concerned;
+> - (b) all *de recenti* written reports in connection with the collision or salvage, as the case may be, by the masters or mates of the vessels concerned to their respective owners; and
+> - (c) reports of any surveys of the ship in respect of which damage or salvage is claimed.
+>
+> **49.9. Arrestment of ships and arrestment in rem of cargo on board ship**
+>
+> (1) An arrestment of a ship *in rem* or on the dependence, or an arrestment *in rem* of cargo on board ship, may be executed on any day by a sheriff officer who shall affix the schedule of arrestment—
+>
+> - (a) to the mainmast of the ship;
+> - (b) to the single mast of the ship; or
+> - (c) where there is no mast, to some prominent part of the ship.
+>
+> (2) In the execution of an arrestment of a ship on the dependence, the sheriff officer shall, in addition to complying with paragraph (1), mark the initials “ER” above the place where the schedule of arrestment is fixed.
+>
+> (3) On executing an arrestment under paragraph (1), the sheriff officer shall deliver a copy of the schedule of arrestment and a copy of the certificate of execution of it to the master of the ship, or other person on board in charge of the ship or cargo, as the case may be, as representing the owners or demise charterers of, or parties interested in, the ship or the owners of the cargo, as the case may be.
+>
+> (4) Where the schedule of arrestment and the copy of the certificate of execution of it cannot be delivered as required under paragraph (3)—
+>
+> - (a) the certificate of execution shall state that fact; and
+> - (b) either—
+>   - (i) the arrestment shall be executed by serving it on the harbour master of the port where the ship lies; or
+>   - (ii) where there is no harbour master, or the ship is not in a harbour, the pursuer shall enrol a motion for such further order as to intimation and advertisement, if any, as may be necessary.
+>
+> (5) A copy of the schedule of arrestment and a copy of the certificate of execution of it shall be delivered by the sheriff officer to the harbour master, if any, of any port where the ship lies.
+>
+> **49.10. Arrestment of cargo**
+>
+> (1) An arrestment of cargo on board a ship shall be executed by a sheriff officer who shall serve the schedule of arrestment on—
+>
+> - (a) the master of the ship;
+> - (b) any other person in charge of the ship or cargo; or
+> - (c) other proper arrestee.
+>
+> (2) Where the schedule of arrestment cannot be executed in accordance with paragraph (1), the arrestment may be executed as provided for in rule 49.9(4) and (5).
+>
+> **49.11. Forms for diligence in admiralty actions**
+>
+> (1) In the execution of diligence in an Admiralty action, the following forms shall be used—
+>
+> - (a) in the case of—
+>   - (i) an arrestment to found jurisdiction (other than the arrestment of a ship), a schedule in Form 49.11-A and a certificate of execution in Form 49.11-E;
+>   - (ii) an arrestment of a ship to found jurisdiction, a schedule in Form 49.11-AA and a certificate of execution in Form 49.11-F;
+> - (b) subject to subparagraph (e), in the case of an arrestment on the dependence, a schedule in Form G4B and a certificate of execution in Form 49.11-E;
+> - (c) in the case of an arrestment *in rem* of a ship, cargo or other maritime *res* to enforce a maritime hypothec or lien, a schedule in Form 49.11-B and a certificate of execution in Form 49.11-G;
+> - (d) in the case of an arrestment *in rem* of a ship to enforce a non-pecuniary claim, a schedule in Form 49.11-C and a certificate of execution in Form 49.11-G;
+> - (e) in the case of an arrestment on the dependence of—
+>   - (i) a cargo on board a ship, a schedule in Form G4B;
+>   - (ii) a ship, a schedule in Form 49.11-D,
+>
+>   and a certificate of execution in Form 49.11-H.
+>
+> (2) Where two or more of the arrestments mentioned in paragraph (1)(a), (b) and (c) are to be executed, they may be combined in one schedule of arrestment.
+>
+> **49.12. Movement of arrested property**
+>
+> (1) Any person who has an interest in a ship or cargo which is the subject of an arrestment under this Chapter may apply by motion for a warrant authorising the movement of the ship or cargo.
+>
+> (2) Where the sheriff grants a warrant sought under paragraph (1), the sheriff may make such further order as the sheriff thinks fit to give effect to that warrant.
+>
+> **49.13. Arrestment before service**
+>
+> Before the service of an Admiralty action, where it is craved in the initial writ, the pursuer may apply by motion for warrant for arrestment of any of the types of arrestment mentioned in this Chapter.
+
+.
+
+(5) In Appendix 1, after Form OFT1 (Form of notice of intimation to the Office of Fair Trading)[^f00031], insert the Forms set out in Schedule 2 to this Act of Sederunt.
+
+## 11. Summary Cause Rules: Housing (Scotland) Act 2001[^key-6ab3af173ce9f49ee24c670fc017609d]
+
+(1) Appendix 1 of Schedule 1 to the Act of Sederunt (Summary Cause Rules) 2002[^f00032] is amended in accordance with the following subparagraphs.
+
+(2) In Form 28B for the heading substitute “Form of extract decree – recovery of possession of heritable property (no rent arrears)”.
+
+(3) After Form 28B insert Form 28BA (Form of extract decree – recovery of possession of heritable property in accordance with section 16(5A) of the Housing (Scotland) Act 2001[^f00033] (non-payment of rent)) set out in Schedule 3 to this Act of Sederunt.
+
+## 12. Other minor amendments[^key-5f8f1ca3a75b07b5a13e8852201259d7]
+
+(1) The Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999[^f00034] is amended in accordance with the following subparagraphs.
+
+(2) The title of Chapter XLI (Reporting restrictions under the Contempt of Court Act 1981)[^f00035] becomes “Part XLI (Reporting restrictions under the Contempt of Court Act 1981)”.
+
+(3) In rule 3.41.1 (interpretation and application of this Chapter)—
+
+- (a) for “Chapter” substitute “Part”;
+- (b) the heading becomes “(Interpretation and application of this Part)”.
+
+## 13.[^key-446b03d2140fc15e842fa562ddd8fec6]
+
+(1) The Act of Sederunt (Child Care and Maintenance Rules) 1997[^f00036] is amended in accordance with the following subparagraph.
+
+(2) In Schedule 1, in paragraph numbered 7 of Form 22 (Form of petition for parental order under section 54 of the Human Fertilisation and Embryology Act 2008) for “other than the female petitioner” substitute “who is not one of the petitioners”.
+
+## 14.[^key-aa9c4aef446ad755345ada7a644f3050]
+
+(1) The Act of Sederunt (Summary Cause Rules Amendment) (Personal Injuries Actions) 2012[^f00037] is amended in accordance with the following subparagraph.
+
+(2) In Schedule 1, in Form 1f (Summary Cause Summons – Personal Injuries Action) for the sub-heading substitute “DEFENDER’S COPY: Claim for payment of money in a personal injuries action (where time to pay direction may not be applied for)”.
+
+## 15. Transitional and saving[^key-1a69d819c8f89ebec9bed549ca884533]
+
+The amendments made to the Ordinary Cause Rules by paragraphs 2 to 9 inclusive shall only have effect in respect of actions raised on or after 1st August 2012.
+
+A.C. HAMILTON
+
+Lord President
+
+I.P.D.
+
+Edinburgh
+
+6th June 2012
+
+## SCHEDULE 1[^key-782bbef60602c047ef0c9d9354e65133]
+
+Paragraph 4(6)
+
+## SCHEDULE 2[^key-a7ae7a8286e5b0970350b3ff9677e6a6]
+
+Paragraph 10(5)
+
+## SCHEDULE 3[^key-b82663cb4da86a6118f5a270d988b338]
+
+Paragraph 11(3)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt makes various amendments to the Ordinary Cause Rules; and some minor amendments to other sets of sheriff court rules.
+
+Paragraphs 2, 3 and 4 amend the Ordinary Cause Rules in furtherance of the recommendations of the Rt Hon Lord Gill in the *Report of the Scottish Civil Courts Review*, which was published in September 2009.
+
+Paragraph 2 amends existing rule 12.2 and provides new rules in relation to *ex tempore* judgments.
+
+Paragraph 3 amends the existing rules in relation to summary decree.
+
+Paragraph 4 provides that in family actions where a crave for an order for financial provision is made, the party must lodge Form F13A setting out the statement of assets and liabilities of the parties at the relevant date, as defined by reference to section 10(3) of the Family Law (Scotland) Act 1985. A similar requirement is introduced for civil partnership actions. The relevant forms are set out in Schedule 1.
+
+Paragraphs 5 to 8 amend the Ordinary Cause Rules so as to include actions for claims under sections 28 and 29 of the Family Law (Scotland) Act 2006 in the definition of “family actions” in Chapter 33. Consequential changes are made to the remainder of Chapter 33 and Chapter 33B is repealed. A minor amendment is also made to Chapter 33A.
+
+Paragraph 9 amends references in rules 33A.66 and 33A.70 of the Ordinary Cause Rules to “a child of the family” to ensure that the definition given is consistent with equivalent rules in the Rules of the Court of Session.
+
+Paragraph 10 amends the Ordinary Cause Rules in respect of admiralty actions in the sheriff court. These are largely based on the equivalent rules for the Court of Session, set out in Chapter 46 of the Rules of the Court of Session. The relevant forms are set out in Schedule 2.
+
+Paragraph 11 amends the Summary Cause Rules in consequence of the changes made to the Housing (Scotland) Act 2001 by the Housing (Scotland) Act 2010. The relevant form is set out in Schedule 3.
+
+Paragraphs 12 to 14 make minor amendments to the Summary Application Rules, the Act of Sederunt (Child Care and Maintenance Rules) 1997 ([S.I. 1997/291](https://www.legislation.gov.uk/uksi/1997/291)) and the Act of Sederunt (Summary Cause Rules Amendment) (Personal Injuries Actions) 2012 ([S.S.I. 2012/144](https://www.legislation.gov.uk/ssi/2012/144)) to correct errors. The latter instrument is due to come into force on 1st September 2012 and this instrument comes into force on 1st August 2012. Accordingly, Form 1f is amended so that it is correct at the time that it comes into force on 1st September 2012.
+
+Paragraph 15 contains a transitional and saving provision.
+
+The Act of Sederunt comes into force on 1st August 2012.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c.58](https://www.legislation.gov.uk/ukpga/1971/58). Section 32 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c.73)](https://www.legislation.gov.uk/ukpga/1985/73), Schedule 2, paragraph 12; the Civil Evidence (Scotland) Act [1988 (c.32)](https://www.legislation.gov.uk/ukpga/1988/32), section 2(4); the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 18(2); the Adults with Incapacity (Scotland) Act [2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4) (the “2000 asp”), schedule 5, paragraph 13; the Debt Arrangement and Attachment (Scotland) Act [2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), section 43; the Vulnerable Witnesses (Scotland) Act [2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(2); the Consumer Credit Act [2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14), section 16(4); the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (the “2007 asp”) section 33; and the Legal Services (Scotland) Act [2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16) section 127(a). Section 32 is amended prospectively by the 2007 asp, schedule 5, paragraph 10; and the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), section 185. Section 32 was extended by the Debtors (Scotland) Act [1987 (c.18)](https://www.legislation.gov.uk/ukpga/1987/18), section 97; the Child Support Act [1991 (c.48)](https://www.legislation.gov.uk/ukpga/1991/48), sections 39(2) and 49; and section 2(4) of the 2000 asp.
+
+[^f00002]: Footnote: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^f00003]: Footnote: [2008 c.22](https://www.legislation.gov.uk/ukpga/2008/22).
+
+[^f00004]: Footnote: [S.I. 2010/985](https://www.legislation.gov.uk/uksi/2010/985).
+
+[^key-9de9142e57b74ffd3ec67bbb18926652]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00005]: Footnote: [1907 c.51](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and amended by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167) and [2445](https://www.legislation.gov.uk/uksi/1996/2445); [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239) and [408](https://www.legislation.gov.uk/ssi/2000/408); [2001/8](https://www.legislation.gov.uk/ssi/2001/8) and [144](https://www.legislation.gov.uk/ssi/2001/144); [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [128](https://www.legislation.gov.uk/ssi/2002/128) and [560](https://www.legislation.gov.uk/ssi/2002/560); [2003/25](https://www.legislation.gov.uk/ssi/2003/25), [26](https://www.legislation.gov.uk/ssi/2003/26) and [601](https://www.legislation.gov.uk/ssi/2003/601); [2004/197](https://www.legislation.gov.uk/ssi/2004/197) and [350](https://www.legislation.gov.uk/ssi/2004/350); [2005/20](https://www.legislation.gov.uk/ssi/2005/20), [189](https://www.legislation.gov.uk/ssi/2005/189), [638](https://www.legislation.gov.uk/ssi/2005/638) and [648](https://www.legislation.gov.uk/ssi/2005/648); [2006/198](https://www.legislation.gov.uk/ssi/2006/198), [207](https://www.legislation.gov.uk/ssi/2006/207), [293](https://www.legislation.gov.uk/ssi/2006/293), [410](https://www.legislation.gov.uk/ssi/2006/410) and [509](https://www.legislation.gov.uk/ssi/2006/509); [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463); [2008/121](https://www.legislation.gov.uk/ssi/2008/121), [223](https://www.legislation.gov.uk/ssi/2008/223) and [365](https://www.legislation.gov.uk/ssi/2008/365); [2009/107](https://www.legislation.gov.uk/ssi/2009/107), [164](https://www.legislation.gov.uk/ssi/2009/164), [284](https://www.legislation.gov.uk/ssi/2009/284), [285](https://www.legislation.gov.uk/ssi/2009/285), [294](https://www.legislation.gov.uk/ssi/2009/294) and [402](https://www.legislation.gov.uk/ssi/2009/402); [2010/120](https://www.legislation.gov.uk/ssi/2010/120), [279](https://www.legislation.gov.uk/ssi/2010/279), [324](https://www.legislation.gov.uk/ssi/2010/324), [340](https://www.legislation.gov.uk/ssi/2010/340) and [416](https://www.legislation.gov.uk/ssi/2010/416); and [2011/193](https://www.legislation.gov.uk/ssi/2011/193), [289](https://www.legislation.gov.uk/ssi/2011/289) and [386](https://www.legislation.gov.uk/ssi/2011/386).
+
+[^key-d1746938aead9ac9bfe82e37f8636676]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/188/paragraph/2) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00006]: Footnote: Rule 12.2 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^key-b6d60090bf6a19b93d6b4fd0e02eb872]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2012/188/paragraph/3) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^key-5ba59fe6dcf4b228cff85caa8d1d4e99]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00007]: Footnote: Rule 33.9 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^f00008]: Footnote: Rule 33.34 was amended by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167).
+
+[^key-cafd2cfacb29e6876b23093c6676801f]: Textual amendment: Words in [para. 4(3)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/3/a) omitted (31.7.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2012 (S.S.I. 2012/221)](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/2/2/a)
+
+[^f00009]: Footnote: Rule 33A.9 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^key-df1cfcd1931107912b0c4cb1514b1a25]: Textual amendment: Words in [para. 4(5)(a)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/4/5/a) omitted (31.7.2012) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2012 (S.S.I. 2012/221)](https://www.legislation.gov.uk/ssi/2012/221), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/221/paragraph/2/2/b)
+
+[^f00010]: Footnote: Form CP13 was inserted by [S.S.I. 2005/638](https://www.legislation.gov.uk/ssi/2005/638).
+
+[^key-74f321ddd351af4b954b88b87b949c0d]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2012/188/paragraph/5) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00011]: Footnote: Chapter 33 was last amended by [S.S.I. 2011/386](https://www.legislation.gov.uk/ssi/2011/386).
+
+[^f00012]: Footnote: Rule 33.1 was last amended by [S.S.I. 2011/193](https://www.legislation.gov.uk/ssi/2011/193).
+
+[^f00013]: Footnote: [2006 asp 2](https://www.legislation.gov.uk/asp/2006/2).
+
+[^f00014]: Footnote: Rule 33.6 was last amended by [S.S.I. 2003/26](https://www.legislation.gov.uk/ssi/2003/26).
+
+[^f00015]: Footnote: Rule 33.7 was last amended by [S.S.I. 2011/193](https://www.legislation.gov.uk/ssi/2011/193).
+
+[^f00016]: Footnote: Rule 33.16 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^f00017]: Footnote: Rule 33.26 was last amended by [S.I. 1996/2167](https://www.legislation.gov.uk/uksi/1996/2167).
+
+[^f00018]: Footnote: Rule 33.28 was last amended by [S.S.I. 2010/416](https://www.legislation.gov.uk/ssi/2010/416).
+
+[^f00019]: Footnote: Rule 33.33A was last amended by [S.S.I. 2010/416](https://www.legislation.gov.uk/ssi/2010/416).
+
+[^f00020]: Footnote: Rule 33.37 was last amended by [S.S.I. 2010/416](https://www.legislation.gov.uk/ssi/2010/416).
+
+[^key-a99178fd8c113f020ee111f18bc33537]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2012/188/paragraph/6) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00021]: Footnote: Chapter 33A was inserted by [S.S.I. 2005/638](https://www.legislation.gov.uk/ssi/2005/638) and last amended by [S.S.I. 2011/386](https://www.legislation.gov.uk/ssi/2011/386).
+
+[^f00022]: Footnote: Rule 33A.16 was amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^key-f0a07ff0f8d57e4fbf5cd097ac49b82d]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2012/188/paragraph/7) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00023]: Footnote: Chapter 33B was inserted by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^key-709145e04578fe8b2b7925fa50b82187]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2012/188/paragraph/8) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00024]: Footnote: Form F12D was inserted by [S.S.I. 2011/193](https://www.legislation.gov.uk/ssi/2011/193).
+
+[^key-df6de5b9e894e24ee5ccba2813844e88]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2012/188/paragraph/9) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00025]: Footnote: Rule 33A.66 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^f00026]: Footnote: Rule 33A.70 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^key-266469a32d165e9666e3f70c370d676c]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2012/188/paragraph/10) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00027]: Footnote: Rule 5.1 was last amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^f00028]: Footnote: Chapter 48 was inserted by [S.S.I. 2011/386](https://www.legislation.gov.uk/ssi/2011/386).
+
+[^f00029]: Footnote: [1956 c. 46](https://www.legislation.gov.uk/ukpga/1956/46). Section 47 was amended for Scotland by the 2007 asp, schedule 4.
+
+[^f00030]: Footnote: Section 48 was amended for Scotland by the 2007 asp, schedule 4.
+
+[^f00031]: Footnote: Form OFT1 was inserted by [S.S.I. 2006/293](https://www.legislation.gov.uk/ssi/2006/293).
+
+[^key-6ab3af173ce9f49ee24c670fc017609d]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2012/188/paragraph/11) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00032]: Footnote: [S.S.I. 2002/132](https://www.legislation.gov.uk/ssi/2002/132), amended by [S.S.I. 2002/516](https://www.legislation.gov.uk/ssi/2002/516); [2003/26](https://www.legislation.gov.uk/ssi/2003/26) and [601](https://www.legislation.gov.uk/ssi/2003/601); [2004/197](https://www.legislation.gov.uk/ssi/2004/197); [2005/648](https://www.legislation.gov.uk/ssi/2005/648); [2006/509](https://www.legislation.gov.uk/ssi/2006/509); [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463); [2008/121](https://www.legislation.gov.uk/ssi/2008/121), [223](https://www.legislation.gov.uk/ssi/2008/223) and [365](https://www.legislation.gov.uk/ssi/2008/365); [2009/107](https://www.legislation.gov.uk/ssi/2009/107), [164](https://www.legislation.gov.uk/ssi/2009/164), [294](https://www.legislation.gov.uk/ssi/2009/294) and [402](https://www.legislation.gov.uk/ssi/2009/402); [2010/279](https://www.legislation.gov.uk/ssi/2010/279), [340](https://www.legislation.gov.uk/ssi/2010/340) and [416](https://www.legislation.gov.uk/ssi/2010/416); [2011/193](https://www.legislation.gov.uk/ssi/2011/193) and [289](https://www.legislation.gov.uk/ssi/2011/289); and [2012/144](https://www.legislation.gov.uk/ssi/2012/144).
+
+[^f00033]: Footnote: [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10). Section 16(5A) is inserted by the Housing (Scotland) Act [2010 asp 17](https://www.legislation.gov.uk/asp/2010/17), section 153 and comes into force on 1st August 2012.
+
+[^key-5f8f1ca3a75b07b5a13e8852201259d7]: Commencement: [Para. 12](https://www.legislation.gov.uk/ssi/2012/188/paragraph/12) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00034]: Footnote: [S.I. 1999/929](https://www.legislation.gov.uk/uksi/1999/929), amended by [S.S.I. 2000/148](https://www.legislation.gov.uk/ssi/2000/148) and [387](https://www.legislation.gov.uk/ssi/2000/387); [2001/142](https://www.legislation.gov.uk/ssi/2001/142); [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [129](https://www.legislation.gov.uk/ssi/2002/129), [130](https://www.legislation.gov.uk/ssi/2002/130), [146](https://www.legislation.gov.uk/ssi/2002/146) and [563](https://www.legislation.gov.uk/ssi/2002/563); [2003/26](https://www.legislation.gov.uk/ssi/2003/26), [27](https://www.legislation.gov.uk/ssi/2003/27), [98](https://www.legislation.gov.uk/ssi/2003/98), [261](https://www.legislation.gov.uk/ssi/2003/261), [319](https://www.legislation.gov.uk/ssi/2003/319), [346](https://www.legislation.gov.uk/ssi/2003/346) and [556](https://www.legislation.gov.uk/ssi/2003/556); [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [222](https://www.legislation.gov.uk/ssi/2004/222), [334](https://www.legislation.gov.uk/ssi/2004/334) and [455](https://www.legislation.gov.uk/ssi/2004/455); [2005/61](https://www.legislation.gov.uk/ssi/2005/61), [445](https://www.legislation.gov.uk/ssi/2005/445), [473](https://www.legislation.gov.uk/ssi/2005/473), [504](https://www.legislation.gov.uk/ssi/2005/504) and [648](https://www.legislation.gov.uk/ssi/2005/648); [2006/198](https://www.legislation.gov.uk/ssi/2006/198), [410](https://www.legislation.gov.uk/ssi/2006/410), [437](https://www.legislation.gov.uk/ssi/2006/437) and [509](https://www.legislation.gov.uk/ssi/2006/509); [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [233](https://www.legislation.gov.uk/ssi/2007/233), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463); [2008/9](https://www.legislation.gov.uk/ssi/2008/9), [41](https://www.legislation.gov.uk/ssi/2008/41), [111](https://www.legislation.gov.uk/ssi/2008/111), [223](https://www.legislation.gov.uk/ssi/2008/223), [335](https://www.legislation.gov.uk/ssi/2008/335), [365](https://www.legislation.gov.uk/ssi/2008/365) and [375](https://www.legislation.gov.uk/ssi/2008/375); [2009/107](https://www.legislation.gov.uk/ssi/2009/107), [109](https://www.legislation.gov.uk/ssi/2009/109), [164](https://www.legislation.gov.uk/ssi/2009/164), [294](https://www.legislation.gov.uk/ssi/2009/294), [320](https://www.legislation.gov.uk/ssi/2009/320) and [402](https://www.legislation.gov.uk/ssi/2009/402); [2010/324](https://www.legislation.gov.uk/ssi/2010/324), [340](https://www.legislation.gov.uk/ssi/2010/340) and [416](https://www.legislation.gov.uk/ssi/2010/416); and [2011/193](https://www.legislation.gov.uk/ssi/2011/193) and [386](https://www.legislation.gov.uk/ssi/2011/386).
+
+[^f00035]: Footnote: Chapter XLI was inserted by [S.S.I. 2011/386](https://www.legislation.gov.uk/ssi/2011/386).
+
+[^key-446b03d2140fc15e842fa562ddd8fec6]: Commencement: [Para. 13](https://www.legislation.gov.uk/ssi/2012/188/paragraph/13) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00036]: Footnote: [S.I. 1997/291](https://www.legislation.gov.uk/uksi/1997/291). Amended by [S.I. 1998/2130](https://www.legislation.gov.uk/uksi/1998/2130); and by [S.S.I. 2000/388](https://www.legislation.gov.uk/ssi/2000/388); [2002/560](https://www.legislation.gov.uk/ssi/2002/560); [2003/44](https://www.legislation.gov.uk/ssi/2003/44), [2005/190](https://www.legislation.gov.uk/ssi/2005/190); [2006/75](https://www.legislation.gov.uk/ssi/2006/75) and [411](https://www.legislation.gov.uk/ssi/2006/411); [2007/468](https://www.legislation.gov.uk/ssi/2007/468); [2009/29](https://www.legislation.gov.uk/ssi/2009/29), [284](https://www.legislation.gov.uk/ssi/2009/284) and [449](https://www.legislation.gov.uk/ssi/2009/449); [2010/137](https://www.legislation.gov.uk/ssi/2010/137) and [279](https://www.legislation.gov.uk/ssi/2010/279); and [2011/386](https://www.legislation.gov.uk/ssi/2011/386).
+
+[^key-aa9c4aef446ad755345ada7a644f3050]: Commencement: [Para. 14](https://www.legislation.gov.uk/ssi/2012/188/paragraph/14) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^f00037]: Footnote: [S.S.I. 2012/144](https://www.legislation.gov.uk/ssi/2012/144).
+
+[^key-1a69d819c8f89ebec9bed549ca884533]: Commencement: [Para. 15](https://www.legislation.gov.uk/ssi/2012/188/paragraph/15) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^key-782bbef60602c047ef0c9d9354e65133]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2012/188/schedule/1) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^key-a7ae7a8286e5b0970350b3ff9677e6a6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/188/schedule/2) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)
+
+[^key-b82663cb4da86a6118f5a270d988b338]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2012/188/schedule/3) in force at 1.8.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1)

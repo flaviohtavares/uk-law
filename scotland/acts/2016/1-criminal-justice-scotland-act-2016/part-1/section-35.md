@@ -1,0 +1,59 @@
+---
+title: Criminal Justice (Scotland) Act 2016, section 35
+act: Criminal Justice (Scotland) Act 2016
+section: '35'
+status: revised-with-pending-changes
+text_date: '2026-03-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/1/section/35
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice (Scotland) Act 2016, section 35
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-03-30. See https://www.legislation.gov.uk/changes/affected/asp/2016/1
+>
+> Extent: Scotland.
+
+## 35. Authorisation for questioning[^key-562b1e32a3ac62cabcc4b6cf402c3398]
+
+*Extent: S*
+
+(1) The court may authorise a constable to question a person about an offence after the person has been officially accused of committing the offence.
+
+(2) The court may grant authorisation only if it is satisfied that allowing the person to be questioned about the offence is necessary in the interests of justice.
+
+(3) In deciding whether to grant authorisation, the court must take into account—
+
+- (a) the seriousness of the offence,
+- (b) the extent to which the person could have been questioned earlier in relation to the information which the applicant believes may be elicited by the proposed questioning,
+- (c) where the person could have been questioned earlier in relation to that information, whether it could reasonably have been foreseen at that time that the information might be important to proving or disproving that the person has committed an offence.
+
+(4) Where subsection (5) applies, the court must give the person an opportunity to make representations before deciding whether to grant authorisation.
+
+(5) This subsection applies where—
+
+- (a) a warrant has been granted to arrest the person in respect of the offence, or
+- (b) the person has appeared before a court in relation to the offence.
+
+(6) Where granting authorisation, the court—
+
+- (a) must specify the period for which questioning is authorised, and
+- (b) may specify such other conditions as the court considers necessary to ensure that allowing the proposed questioning is not unfair to the person.
+
+(7) A decision of the court—
+
+- (a) to grant or refuse authorisation, or
+- (b) to specify, or not to specify, conditions under subsection (6)(b),
+
+is final.
+
+(8) In this section, “**the court**” means—
+
+- (a) where an indictment has been served on the person in respect of the High Court, a single judge of that court,
+- (b) in any other case, the sheriff.
+
+## Annotations
+
+[^key-562b1e32a3ac62cabcc4b6cf402c3398]: Commencement: S. 35 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/345/article/8))

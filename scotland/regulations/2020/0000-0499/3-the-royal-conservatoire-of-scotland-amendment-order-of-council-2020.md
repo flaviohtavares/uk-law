@@ -1,0 +1,243 @@
+---
+title: The Royal Conservatoire of Scotland Amendment Order of Council 2020
+id: ssi/2020/3
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-01-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2020/3
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/3/pdfs/ssipn_20200003_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/3/pdfs/ssi_20200003_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/3/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Royal Conservatoire of Scotland Amendment Order of Council 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 3
+
+Education
+
+The Royal Conservatoire of Scotland Amendment Order of Council 2020
+
+Made
+
+7th January 2020
+
+Laid before the Scottish Parliament
+
+9th January 2020
+
+Coming into force
+
+28th February 2020
+
+At the Council Chamber, Whitehall, the 7th day of January 2020
+
+By the Lords of Her Majesty’s Most Honourable Privy Council
+
+Their Lordships make the following Order in exercise of the powers conferred by sections 45 and 60(3) of the Further and Higher Education (Scotland) Act 1992[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Royal Conservatoire of Scotland Amendment Order of Council 2020 and comes into force on 28 February 2020.
+
+(2) In this Order, “the 2014 Order” means the Royal Conservatoire of Scotland Order of Council 2014[^f00002].
+
+## 2. Amendment of the 2014 Order
+
+(1) The 2014 Order is amended in accordance with paragraphs (2) to (14).
+
+(2) In article 2 (interpretation)—
+
+- (a) after the definition of “the 2006 Act”, insert—
+
+  > - “the 2016 Act” means the Higher Education Governance (Scotland) Act 2016[^f00003],
+
+  ,
+- (b) after the definition of “the Board”, insert—
+
+  > - “the Chair” means the person referred to in article 3(a),
+
+  ,
+- (c) omit the definition of “Deputy Principal”,
+- (d) before the definition of “the Institution”, insert—
+
+  > - “Governor” means a member of the Board referred to in article 3,
+
+  ,
+- (e) omit the definition of “the Office”,
+- (f) after the definition of “the Secretary” insert—
+- (g) “student” means a matriculated student of the Institution and includes all persons holding sabbatical office in a students’ association of the Institution (whether or not they remain as students of the Institution during their period of office),
+- (h) omit the definition of “Senior Academic Manager”.
+
+(3) For articles 3 (membership of the board of governors) and 4 (election of certain governors), substitute—
+
+> **3. Membership of the Board**
+>
+> The membership of the Board is to be composed of—
+>
+> - (a) the Chair, being the person appointed by the Board to the position of senior lay member by virtue of section 8(1) (appointment and tenure) of the 2016 Act,
+> - (b) the Principal,
+> - (c) one Governor having the role of Assistant Principal or any other executive office as the Board considers to be of at least equivalent standing, however named, appointed by being nominated by the Principal,
+> - (d) two Governors appointed by being elected by the staff of the Institution from among their own number,
+> - (e) one Governor appointed by being nominated by a trade union from among the academic staff of the Institution who are members of a branch of a trade union that has a connection with the Institution, in accordance with section 10(2) (composition of governing body) of the 2016 Act,
+> - (f) one Governor appointed by being nominated by a trade union from among the support staff of the Institution who are members of a branch of a trade union that has a connection with the Institution, in accordance with section 10(2) of the 2016 Act,
+> - (g) two Governors appointed by being nominated by the students’ association of the Institution from among the students of the Institution,
+> - (h) one Governor appointed by being nominated by the Academic Board from among its members, and
+> - (i) 11 to 19 Governors appointed by the Board from time to time, in accordance with its rules and procedures, from among persons appearing to the Board to have experience in, and to have shown capacity in, industrial, commercial, employment or government matters, the performing arts or any other profession and who may not be members of staff or students of the Institution.
+>
+> **4. Appointment of the Chair**
+>
+> (1) The Chair is to be appointed in accordance with sections 3 to 8 (senior lay member of governing body) of the 2016 Act and an appointment process prescribed by the Board.
+>
+> (2) Subject to article 6 (period of office of governors), the Board is to prescribe the duties, responsibilities and terms and conditions of the Chair, which may include such remuneration and allowances as the Board considers to be reasonable in accordance with section 9 (remuneration and conditions) of the 2016 Act.
+>
+> **4A. Elections to Board**
+>
+> (1) The Governors referred to in article 3(d) are to be elected in accordance with rules made by the Board in accordance with section 11 (elections to governing body) of the 2016 Act.
+>
+> (2) Before making or modifying rules under paragraph (1), the Board is to consult with the staff of the Institution.
+>
+> (3) The Board is responsible for the holding and conduct of any election referred to in paragraph (1).
+>
+> **4B. Nominations to Board**
+>
+> (1) The Governors referred to in article 3(e), (f) and (g) are to be nominated in accordance with rules made by the Board in accordance with section 12 (nominations to governing body) of the 2016 Act.
+>
+> (2) Before making or modifying rules under paragraph (1), the Board must consult the representatives of anyone with a right of nomination under and affected by the proposed rules or (as the case may be) modification.(3) The Governor referred to in article 3(h) is to be nominated in accordance with rules made by the Academic Board and approved by the Board.
+
+.
+
+(4) In article 5 (appointment of chair and vice-chair)—
+
+- (a) in paragraph (1)—
+  - (i) omit “a Chair and”,
+  - (ii) for “article 3(1)(a)”, substitute “article 3(i)”,
+- (b) in paragraph (2)—
+  - (i) omit “Chair or”,
+  - (ii) omit subparagraph (c),
+  - (iii) in subparagraph (e), for “deemed to have vacated”, substitute “that Governor has resigned or been removed from”,
+- (c) omit paragraph (3), and
+- (d) in paragraph (5), for “article 3(1)(a)”, substitute “article 3(i)”.
+
+(5) The heading of article 5 is renamed “**Appointment and role of Vice-Chair**”.
+
+(6) In article 6 (period of office of governors)—
+
+- (a) in paragraph (1)—
+  - (i) for “Any”, substitute “The”,
+  - (ii) for “article 3(1)(b)”, substitute “article 3(b)”,
+- (b) in paragraph (2), for “article (3)(1)(a) or (c)”, substitute “article 3(a) or (d) to (i)”,
+- (c) after paragraph (2), insert—
+
+  > (2A) The Governor appointed under article 3(c) may be further appointed to the Board on expiry of that person’s term of office, if still eligible in accordance with this Order.
+
+  ,
+- (d) in paragraph (4)—
+  - (i) for “article 3(1)(a) or (c)”, substitute “article 3(a) or (c) to (i)”,
+  - (ii) for “article 3(1)(b)”, substitute “article 3(b)”, and
+- (e) in paragraph (5), for “article 3(1)(a) or (c)”, substitute “article 3(1)(a) or (c) to (i)”.
+
+(7) Omit article 7 (ineligibility of staff to be governors).
+
+(8) For article 8 (vacation of office of governor), substitute—
+
+> **8. Resignation and removal of a Governor from office**
+>
+> The Board may make rules about the procedure for the resignation and removal of a Governor in accordance with section 13 (resignation or removal from body) of the 2016 Act.
+
+.
+
+(9) Omit articles 9 (filling of vacancies) and 12 (reserved areas of business).
+
+(10) In article 14 (allowances to members of the board), for “of its members”, substitute “Governor appointed under article 3(b) to (i)”.
+
+(11) In article 17(18) (proceedings of the board)—
+
+- (a) for “Chair” in both places where it appears, substitute “chair”, and
+- (b) for “Chair’s” substitute “chair’s”.
+
+(12) For article 19(1) (academic board), substitute—
+
+> (1) Subject to paragraphs (1A) and (1B), the Board is to appoint and maintain by further appointment an Academic Board constituted and appointed in accordance with Chapter 2 of Part 1 (academic boards) of the 2016 Act.
+>
+> (1A) The Board is to make rules relating to the term of office of members of the Academic Board and the rules may make different provision for different categories of member.
+>
+> (1B) Rules made under paragraph (1A) must include provision about (in particular)—
+>
+> - (a) term of office, but no term is to be longer than 3 years,
+> - (b) eligibility for re-appointment.
+>
+> (1C) The Principal is the chair of the Academic Board.
+
+.
+
+(13) Omit article 20 (variation and revocation of articles) and schedule 2 (variations and revocations).
+
+(14) In schedule 1 (academic board)—
+
+- (a) omit Part I (appointment), and
+- (b) omit paragraph 5(b).
+
+## 3. Transitional provision
+
+(1) The Governor who is appointed as Chair of the Board under article 5(1) of the 2014 Order who is in office immediately before 28 February 2020 is to be regarded, for the remainder of that Governor’s period in office as Chair, as if appointed to the position of Chair in accordance with articles 3(a) and 4(1) of the 2014 Order as amended by this Order.
+
+(2) The persons who are appointed as Governors under article 3(1)(b)(iii) of the 2014 Order who are in office immediately before 28 February 2020 are to be regarded, for the remainder of their periods in office, as if appointed in accordance with article 3(g) of the 2014 Order as amended by this Order.
+
+Ceri King
+
+Deputy Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Royal Conservatoire of Scotland Order of Council 2014 (“the 2014 Order”).
+
+Article 1 of the Order provides that the Order comes into force on 28 February 2020 and provides a definition of the 2014 Order for the purposes of this Order.
+
+Article 2 of the Order amends the 2014 Order. Paragraph (2) amends article 2 of the 2014 Order which sets out relevant definitions. It omits the definitions of “Deputy Principal”, “the Office” and “Senior Academic Manager”. It also inserts definitions of “the 2016 Act”, “the Chair”, “Governor” and “student”.
+
+Article 2(3) omits articles 3 and 4 of the 2014 Order, and inserts new articles 3 (membership of the board), 4 (appointment of the Chair), 4A (elections to board) and 4B (nominations to board) into the 2014 Order. The new article 3 sets out the composition of the Board. The new article 4 provides that the Chair must be appointed in accordance with sections 3 to 8 of the Higher Education Governance (Scotland) Act 2016 (“the 2016 Act”) and an appointment process prescribed by the Board. Article 4A provides that elected Governors are elected in accordance with rules made by the Board and in accordance with section 11 of the 2016 Act. Article 4B provides that nominated Governors are to be nominated in accordance with rules made by the Board and in accordance with section 12 of the 2016 Act.
+
+Article 2(4) of the Order amends article 5 of the 2014 Order (appointment of chair and vice chair) so that the article makes provisions for the Vice Chair only, and not for the Chair. It also makes amendments that are consequential to changes made by the insertion of article 4 by article 2(3) of this Order and the insertion of article 8 by article 2(8) of this Order.
+
+Article 2(5) amends the heading of article 5 of the 2014 Order.
+
+Article 2(6) amends article 6 of the 2014 Order (period of office of governor). Sub-paragraphs (a), (b), (d) and (e) are consequential to the changes to the composition of the Board. Sub-paragraph (c) inserts a new paragraph (2A), which provides that the Assistant Principal may be further appointed to the Board on expiry of that person’s term of office, if still eligible in accordance with the Order.
+
+Article 2(7) omits article 7 of the 2014 Order (ineligibility of staff to be governors).
+
+Article 2(8) omits article 8 of the 2014 Order (vacation of office of governor), and substitutes a new article 8 into the 2014 Order (resignation and removal of a governor from office), which provides the Board with the power to make rules about the resignation and removal of Governors in accordance with section 13 of the 2016 Act.
+
+Article 2(9) omits article 9 (filling of vacancies) and article 12 (reserved areas of business) of the 2014 Order.
+
+Article 2(10) makes amendments to article 14 of the 2014 Order (allowances to members of the board) which are consequential to the changes to the composition of the Board.
+
+Article 2(11) makes amendments to article 17 of the 2014 Order (proceedings of the board), which are consequential to the changes to the composition to the Board, and to the insertion of article 4 by article 2(3) of this Order.
+
+Article 2(12) of the Order amends article 19(1) of the 2014 Order to provide that the Academic Board is to be constituted in accordance with Chapter 2 of Part 1 of the 2016 Act. Membership of the Academic Board includes certain persons appointed by being elected by the academic staff or students of the institution from among their own number. It also inserts paragraphs (1A) and (1B) into article 19, relating to rules which the Board must make for the term of office of members of the Academic Board. Paragraph (1C) is also inserted and provides that the Principal is the chair of the Academic Board.
+
+Article 2(13) of the Order omits article 20 and schedule 2 which amended the Articles of Association of the Royal Conservatoire of Scotland.
+
+Article 2(14) of the Order omits Part I of schedule 1 and paragraph 5(b) of Part II of schedule 1 of the 2014 Order.
+
+Article 3(1) of the Order makes transitional provision to provide that the Chair appointed under article 5(1) of the 2014 Order who is in office immediately before commencement of this Order is treated as if appointed in accordance with articles 3(a) and 4(1) of the 2014 Order as amended by this Order. Article 3(2) makes transitional provision to ensure that student Governors appointed under article 3(1)(b)(iii) of the 2014 Order who are in office immediately before commencement of this Order are treated as if appointed in accordance with article 3(g) of the 2014 Order as amended by this Order.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.37](https://www.legislation.gov.uk/ukpga/1992/37).
+
+[^f00002]: Footnote: [S.S.I. 2014/268](https://www.legislation.gov.uk/ssi/2014/268).
+
+[^f00003]: Footnote: [2016 asp 15](https://www.legislation.gov.uk/asp/2016/15).

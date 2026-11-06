@@ -1,0 +1,108 @@
+---
+title: The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2018
+id: ssi/2018/68
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2018-02-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2018/68
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2018/68/pdfs/ssipn_20180068_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/68/pdfs/ssi_20180068_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/68/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2018
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2018 No. 68
+
+National Health Service
+
+The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2018
+
+Made
+
+15th February 2018
+
+Laid before the Scottish Parliament
+
+19th February 2018
+
+Coming into force
+
+1st April 2018
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 27(1)(cc) and (1A)(a) of the National Health Service (Scotland) Act 1978[^f00001], and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2018 and come into force on 1st April 2018.
+
+## 2. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009
+
+The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00002] are amended as follows.
+
+**3.** In regulation 2(1) (interpretation and application)—
+
+- (a) for the definition of “advanced electronic signature” substitute—
+
+  > - “advanced electronic signature” means an advanced electronic signature within the meaning given in Article 3(11) of Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing [Directive 1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093)[^f00003];
+
+  ;
+- (b) after the definition of “electronic prescription form” insert—
+
+  > - “electronic signature” has the meaning given to it by section 7(2) of the Electronic Communications Act 2000[^f00004];
+
+  ;
+- (c) after the definition of “optometrist independent prescriber” insert—
+
+  > - “paramedic independent prescriber” means a person—
+  >   - (a) registered in Part 8 of the register maintained under article 5 of the Health and Social Work Professions Order 2001[^f00005]; and
+  >   - (b) against whose name in that register is recorded an annotation signifying that the person is qualified to order drugs, medicines and appliances as a paramedic independent prescriber;
+
+  ; and
+- (d) in the definition of “prescriber”—
+  - (i) at the end of paragraph (fa) omit “or”; and
+  - (ii) after paragraph (fa) insert—
+
+    > - (fb) a paramedic independent prescriber, or
+
+    .
+
+AILEEN CAMPBELL
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+15th February 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009 (“the 2009 Regulations”). Regulation 3 extends the definition of “prescriber” in regulation 2(1) of the 2009 Regulations by the insertion of a new category of independent prescriber, namely paramedic independent prescribers and also adds into that regulation a definition of “paramedic independent prescriber”.
+
+Regulation 3 additionally amends the definition of “advanced electronic signature” also in regulation 2(1) of the 2009 Regulations to reflect the definition in article 3(11) of Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23rd July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing [Directive 1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) and makes a consequential change by adding a new definition of “electronic signature”.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29); section 27(1)(cc) was inserted by the Medicinal Products: Prescription by Nurses etc. Act [1992 (c.28)](https://www.legislation.gov.uk/ukpga/1992/28), section 3, and amended by the Health and Social Care Act [2001 (c.15)](https://www.legislation.gov.uk/ukpga/2001/15) (“the 2001 Act”), section 44(2); section 27(1A)(a) was inserted by the 2001 Act, section 44(3), and amended by the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), section 213(7) and [S.I. 2003/1590](https://www.legislation.gov.uk/uksi/2003/1590); section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183); relevant amending instruments are [S.S.I. 2014/73](https://www.legislation.gov.uk/ssi/2014/73) and [S.S.I. 2016/393](https://www.legislation.gov.uk/ssi/2016/393).
+
+[^f00003]: Footnote: OJ L 257, 28.8.2014, p.73.
+
+[^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); section 7(2) was amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696).
+
+[^f00005]: Footnote: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254); the citation and title of the Order were substituted by the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), section 213(4) and (6), and article 5 was amended by [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).

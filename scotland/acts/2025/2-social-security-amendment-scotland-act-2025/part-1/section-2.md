@@ -1,0 +1,94 @@
+---
+title: Social Security (Amendment) (Scotland) Act 2025, section 2
+act: Social Security (Amendment) (Scotland) Act 2025
+section: '2'
+status: revised-with-pending-changes
+text_date: '2026-11-02'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2025/2/section/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Social Security (Amendment) (Scotland) Act 2025, section 2
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/asp/2025/2
+>
+> Extent: Scotland.
+
+## 2. Care experience assistance[^key-144853f982981e273d9d66db871cd28d][^key-46e6d18a30ea4497ffce848615d1022c]
+
+*Extent: S*
+
+(1) The 2018 Act is modified as follows.
+
+(2) After section 93 insert—
+
+> **Part 5A — Care experience assistance**
+>
+> **93A. Scheme to provide care experience assistance**
+>
+> (1) The Scottish Ministers may by regulations establish one or more schemes to give financial assistance to individuals who have had experience of being in the care system.
+>
+> (2) In this Act, assistance given by virtue of subsection (1) is known as “**care experience assistance**”.
+>
+> (3) The power conferred by subsection (1) includes the power to make provision about—
+>
+> - (a) who is to give the assistance,
+> - (b) determining entitlement to the assistance (including specifying further eligibility rules that are to be used to determine whether an individual is entitled to the assistance),
+> - (c) the amount of assistance,
+> - (d) applications for assistance,
+> - (e) the making of payments to entitled individuals or their representatives,
+> - (f) obtaining information,
+> - (g) reviews, re-determinations and appeals,
+> - (h) the recovery of assistance given in error,
+> - (i) offences,
+> - (j) applying the provisions of this Act to schemes established by virtue of subsection (1) subject to such modifications as the Scottish Ministers consider appropriate.
+>
+> (4) The maximum penalty that may be provided for in care experience assistance regulations in respect of an offence under those regulations is—
+>
+> - (a) on summary conviction—
+>   - (i) imprisonment for a term not exceeding 12 months,
+>   - (ii) a fine not exceeding the statutory maximum, or
+>   - (iii) both,
+> - (b) on conviction on indictment—
+>   - (i) imprisonment for a term not exceeding 5 years,
+>   - (ii) a fine, or
+>   - (iii) both.
+>
+> (5) Sections 71 to 73 (which establish offences) apply in connection with care experience assistance as they apply in connection with assistance given under section 24.
+>
+> (6) But subsection (5) is subject to any contrary provision in the care experience assistance regulations.
+>
+> (7) Where they apply by virtue of subsection (5), sections 71 to 73 apply subject to the following modifications—
+>
+> - (a) a reference to assistance is to be read as a reference to care experience assistance,
+> - (b) a reference to giving notice in accordance with section 56 is to be read as a reference to giving notice in accordance with the care experience assistance regulations,
+> - (c) sections 72(3) and 73(3) do not apply unless, in accordance with the care experience assistance regulations, the Scottish Ministers have informed the person in question about the way in which notification of a change of circumstances is to be given.
+>
+> (8) For the avoidance of doubt, the reference in section 74 to an offence under this Act or any regulations made under it includes—
+>
+> - (a) an offence under any of sections 71 to 73 as applied by virtue of subsection (5),
+> - (b) an offence under the care experience assistance regulations.
+>
+> (9) The Scottish Ministers—
+>
+> - (a) may give directions in relation to the giving of assistance under schemes established by virtue of subsection (1) to the persons responsible for giving it (which those persons must comply with), and
+> - (b) must make publicly available any directions they give under paragraph (a).
+>
+> (10) Before laying a draft of a Scottish statutory instrument containing care experience assistance regulations before the Scottish Parliament for approval by resolution, the Scottish Ministers must consult—
+>
+> - (a) such persons as they consider representative of individuals who have had experience of being in the care system, and
+> - (b) such other persons as they consider appropriate.
+>
+> (11) For the purpose of subsection (10), it is immaterial that anything done by way of consultation was done before section 2(2) of the Social Security (Amendment) (Scotland) Act 2025 comes into force.
+>
+> (12) In this section, “**care experience assistance regulations**” means regulations under subsection (1).
+
+.
+
+## Annotations
+
+[^key-144853f982981e273d9d66db871cd28d]: Commencement: S. 2 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+
+[^key-46e6d18a30ea4497ffce848615d1022c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/2/section/2) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)

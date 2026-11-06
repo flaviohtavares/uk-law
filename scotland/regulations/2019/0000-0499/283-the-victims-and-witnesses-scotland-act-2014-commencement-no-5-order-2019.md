@@ -1,0 +1,109 @@
+---
+title: The Victims and Witnesses (Scotland) Act 2014 (Commencement No. 5) Order 2019
+id: ssi/2019/283
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-09-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2019/283
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2019/283/pdfs/ssipn_20190283_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/283/pdfs/ssi_20190283_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/283/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Victims and Witnesses (Scotland) Act 2014 (Commencement No. 5) Order 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 283 (C. 11)
+
+Criminal Law
+
+The Victims and Witnesses (Scotland) Act 2014 (Commencement No. 5) Order 2019
+
+Made
+
+10th September 2019
+
+Laid before the Scottish Parliament
+
+12th September 2019
+
+Coming into force
+
+25th November 2019
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 34(2) of the Victims and Witnesses (Scotland) Act 2014[^f00001].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Victims and Witnesses (Scotland) Act 2014 (Commencement No. 5) Order 2019 and comes into force on 25 November 2019.
+
+## 2. Day appointed
+
+25 November 2019 is the day appointed for the coming into force of section 26 of the Victims and Witnesses (Scotland) Act 2014 (victim surcharge), so far as not already in force, only in so far as it inserts the following provisions into the Criminal Procedure (Scotland) Act 1995—
+
+- (a) section 253F,
+- (b) section 253G, with the exception of subsection (4)(a) and (b),
+- (c) section 253H,
+- (d) section 253J.
+
+HUMZA YOUSAF
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+10th September 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order partly commences section 26 (victim surcharge) of the Victims and Witnesses (Scotland) Act 2014 (“the 2014 Act”). It commences section 26, so far as not already in force, for the limited purposes of inserting sections 253F to 253J into the Criminal Procedure (Scotland) Act 1995 (“the 1995 Act”), with the exception of section 253G(4)(a) and (b).
+
+Section 26 of the 2014 Act inserts sections 253F to 253J into the 1995 Act and those sections make provision for the introduction of the victim surcharge and the creation of the victim surcharge fund (“the Fund”). Section 253G(4) provides that any payment out of the Fund may be made to a victim, a prescribed relative of a victim or a person who provides or secures the provision of support services for victims. Payments may also be made to the operator of the Fund in respect of administrative expenses. This Order does not insert paragraphs (a) and (b) of section 253G(4) into the 1995 Act and these paragraphs provide that payments may be made out of the Fund to victims of crime and the prescribed relatives of victims respectively.
+
+This restricted commencement of section 26 of the 2014 Act means that only paragraphs (c) and (d) of section 253G(4) will be inserted into the 1995 Act. Accordingly, until the full commencement of section 26, payments from the Fund may only be made to (1) persons who provide or secure the provision of support services for victims; or (2) the operator of the Fund in respect of administrative expenses. Payments from the Fund cannot be made directly to victims of crime or the prescribed relatives of victims until the remainder of section 26 is brought into force.
+
+The Bill for the 2014 Act received Royal Assent on 17 January 2014. The following sections of the 2014 Act came into force on the following day: sections 30 (in part), 31 (in part), 32, 33, 34 and 35.
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+The following provisions of the 2014 Act have been brought into force by commencement order made before the date of this Order.
+
+| Provision | Date of Commencement | S.S.I. No. |
+| --- | --- | --- |
+| Section 1 | 30 January 2015 | [2014/359](https://www.legislation.gov.uk/ssi/2014/359) |
+| Section 2 (in part) | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Section 2 (in so far as not already in force) | 30 January 2015 | [2014/359](https://www.legislation.gov.uk/ssi/2014/359) |
+| Section 3 | 30 January 2015 | [2014/359](https://www.legislation.gov.uk/ssi/2014/359) |
+| Section 4 | 1 July 2015 | [2015/200](https://www.legislation.gov.uk/ssi/2015/200) |
+| Section 6 (in part) | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Section 6 (in part) | 30 January 2015 | [2014/359](https://www.legislation.gov.uk/ssi/2014/359) |
+| Section 7 | 1 September 2015 | [2015/200](https://www.legislation.gov.uk/ssi/2015/200) |
+| Section 8 | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Sections 10 to 22 | 1 September 2015 | [2015/200](https://www.legislation.gov.uk/ssi/2015/200) |
+| Section 23 (in part) | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Section 26 (in part) | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Sections 27 to 29 | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Section 30 (in so far as not already in force) | 1 July 2014 | [2014/117](https://www.legislation.gov.uk/ssi/2014/117) |
+| Section 31(2) (in part) | 16 May 2014 | [2014/117](https://www.legislation.gov.uk/ssi/2014/117) |
+| Section 31 (in so far as not already in force) | 1 July 2014 | [2014/117](https://www.legislation.gov.uk/ssi/2014/117) |
+
+Sections 1A, 3A to 3J, 9A to 9E, 27A, 29A and 29B were added to the 2014 Act by the Victims Rights (Scotland) Regulations 2015 ([S.S.I. 2015/444](https://www.legislation.gov.uk/ssi/2015/444)) which came into force on 23 December 2015.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 1](https://www.legislation.gov.uk/asp/2014/1).

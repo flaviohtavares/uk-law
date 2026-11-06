@@ -1,0 +1,285 @@
+---
+title: The Healthcare Improvement Scotland (Inspections) Regulations 2011
+id: ssi/2011/184
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-08'
+text_date: '2024-06-19'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/184
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/184/pdfs/ssien_20110184_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/184/pdfs/ssi_20110184_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/184/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Healthcare Improvement Scotland (Inspections) Regulations 2011
+
+> Text as at 2024-06-19.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 184
+
+National Health Service
+
+Public Health
+
+The Healthcare Improvement Scotland (Inspections) Regulations 2011
+
+Made
+
+8th March 2011
+
+Coming into force
+
+1st April 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 10O of the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 105(3) of that Act[^f00002], a draft of the instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement[^key-a308a6024cb79662e16d0500a4897289]
+
+These Regulations may be cited as the Healthcare Improvement Scotland (Inspections) Regulations 2011 and come into force on 1st April 2011.
+
+## 2. Interpretation[^key-5e7a95077f29ffda8bd075ddfdbd686e]
+
+(1) In these Regulations—
+
+- “the Act” means the National Health Service (Scotland) Act 1978;
+- “authorised person” means a person authorised by HIS to carry out an inspection under—
+  - (a) section 10I (inspections of services provided under the health service);
+  - (b) section 10K (authorised persons); or
+  - (c) section 10M (inspections at request of Scottish Ministers);
+- “information” includes any document, record (including personal records), or item or any part of a document, record or item;
+- “independent health care service” has the same meaning as in section 10F (meaning of “independent health care service”);
+- “inspection” means, unless otherwise stated, an inspection under—
+  - (a) section 10J (inspections of independent health care services); or
+  - (b) section 10M (inspections at request of Scottish Ministers) if that inspection relates to an independent health care service;
+- “HIS” means Healthcare Improvement Scotland established by section 10A (Healthcare Improvement Scotland);
+- “medical records” has the meaning given in section 10O(4) (regulations relating to inspections);
+- “personal records” includes health records as defined in section 10O(4);
+- “pharmacist” means a person registered as a pharmacist in Part 1 or 4 of the register maintained under article 19 (establishment, maintenance of and access to the register) of the Pharmacy Order 2010[^f00003] or the register maintained in pursuance of articles 6 (the register) and 9 (the registrars) of the Pharmacy (Northern Ireland) Order 1976[^f00004];
+- “registered dentist” means a person registered in the register maintained under section 14 (the dentists register and the registrar) of the Dentists Act 1984[^f00005];
+- “registered nurse” means an individual registered in the register maintained under article 5 (establishment and maintenance of the register) of the Nursing and Midwifery[^key-79f9447d8420f703075ed9a9e6b95e91] Order 2001[^f00006] by virtue of qualifications in nursing;
+- “service user” means a person cared for, by or accommodated in the premises of an independent healthcare service.
+
+(2) Any reference in these Regulations—
+
+- (a) to the provision of a service includes the management, organisation or co-ordination of a service; and
+- (b) to a section is a reference to that section of the Act except where otherwise indicated.
+
+## 3. Authorised persons[^key-1db4731735f7a8a6689df4530b4c725f]
+
+(1) A person may be authorised by HIS to carry out inspections under section 10I and 10M.
+
+(2) If the inspection relates to an independent healthcare service, a person authorised by HIS to carry out inspections under section 10M may at any time enter and inspect premises which are used or which the person has reasonable cause to believe are used to provide the independent health care service being inspected.
+
+(3) HIS will determine the qualifications required for the role of an authorised person.
+
+## 4. Assistance with inspections and the taking of measurements photographs and recordings[^key-c00a4ab94165cd64c5dced147c1bbb43]
+
+An authorised person may, in carrying out an inspection—
+
+- (a) require any person to afford such facilities and assistance with respect to matters within the person’s control as are necessary to enable the authorised person to carry out the inspection; and
+- (b) take such measurements and photographs and take such recordings as the authorised person considers necessary.
+
+## 5. Power to require information[^key-61f496da624935ce1f3b418ad6f56310]
+
+(1) Subject to paragraph (4), if an authorised person considers it necessary or expedient for the purposes of an inspection the authorised person may—
+
+- (a) inspect, remove from the premises and take copies of any information; or
+- (b) request delivery of any information and make copies of that information,
+
+if the information relates to the provision of an independent health care service.
+
+(2) The power in paragraph (1) includes—
+
+- (a) power to require any person holding or accountable for information to produce it; and
+- (b) in relation to electronically stored information, power to require the information to be produced in a form which is acceptable to the authorised person and can be removed from the premises.
+
+(3) When inspecting information under paragraph (1) an authorised person is entitled to have access to any computer and associated apparatus or material which is or has been used in connection with that information.
+
+(4) Nothing in this regulation allows an authorised person to inspect medical records unless that person is a health professional or a person authorised by HIS to carry out an inspection under section 10K (authorised persons)[^key-df77a71b4463f27036e66efb8f356083].
+
+(5) For the purposes of this regulation a “health professional” means—
+
+- (a) a medical practitioner;
+- (b) a registered nurse;
+- (c) a pharmacist; or
+- (d) a registered dentist.
+
+## 6. Explanation of information[^key-ad8c43e2ec14e99200501eb95dc39885]
+
+(1) If an authorised person considers it necessary or expedient for the purposes of an inspection, the authorised person may require an individual falling within the description in paragraph (2) to explain any information inspected, copied, removed or provided in the course of the inspection.
+
+(2) An individual falls within the description in this paragraph if the authorised person considers that individual to be, or to have been—
+
+- (a) responsible for compiling or holding the information or any part of it; or
+- (b) making use of the information, or any part of it.
+
+## 7. Interviews and examinations[^key-9def8974103c7c7a532d1ee1414c6c05]
+
+(1) An authorised person may conduct any examination or interview with regard to the following matters if that authorised person thinks it necessary or expedient for the purposes of carrying out an inspection:—
+
+- (a) the provision, organisation or co-ordination of the independent health care service;
+- (b) the premises from which the independent health care service is provided; and
+- (c) the treatment of service users.
+
+(2) Without prejudice to the generality of paragraph (1), an authorised person may in private interview—
+
+- (a) the manager of the service or the premises;
+- (b) any person involved in the provision, co-ordination or organisation of the service;
+- (c) any person otherwise connected with the provision of the service;
+- (d) any person employed by the service or the premises;
+- (e) any service user who consents to be interviewed;
+- (f) any carer, relative or representative of a service user who consents to be interviewed.
+
+(3) An interview is in private for the purposes of paragraph (2) even if conducted in the presence of—
+
+- (a) a guardian, continuing attorney or welfare attorney of the person interviewed; or
+- (b) some other person, provided that the person interviewed so wishes and the authorised person does not object.
+
+(4) If the authorised person is a medical practitioner or a registered nurse and has reasonable cause to believe that a service user is not receiving proper care, the authorised person may—
+
+- (a) in private, and only with the consent of the service user, conduct an examination of the service user;
+- (b) inspect any medical records relating to the treatment of the service user.
+
+(5) If the authorised person is a registered dentist and has reasonable cause to believe that a service user is not receiving proper dental care, the authorised person may—
+
+- (a) in private, and only with the consent of the service user, conduct an examination of the service user;
+- (b) inspect any medical records relating to the treatment of the service user.
+
+(6) An examination is in private for the purposes of paragraphs (4) and (5) of this regulation even if conducted in the presence of a third party provided that—
+
+- (a) the person examined so wishes and the authorised person does not object; or
+- (b) the authorised person so wishes and the person examined consents.
+
+(7) In this regulation—
+
+- “continuing attorney” has the same meaning as in section 15 (creation of continuing power of attorney) of the Adults with Incapacity (Scotland) Act 2000[^f00007];
+- “guardian” means a guardian appointed under section 58 (disposal of application) of the Adults with Incapacity (Scotland) Act 2000;
+- “welfare attorney” has the same meaning as in section 16 (creation and exercise of welfare power of attorney) of the Adults with Incapacity (Scotland) Act 2000.
+
+## 8. Authorised persons: duty to prove authorisation[^key-1c216b280a0e567caf4105d73f242dfc]
+
+An authorised person must, on request, produce a document from HIS which confirms the person is authorised to carry out inspections.
+
+## 9. Disposal of personal records[^key-1adf7b89b974dd8300275259933a5c37]
+
+(1) If an authorised person is in possession of personal records obtained for the purposes of an inspection which are no longer required for those purposes, the authorised person shall, not later than the date specified in paragraph (2)—
+
+- (a) in the case of original records, return the records to the person or body from which they were obtained; or
+- (b) in any other case, destroy them securely.
+
+(2) The date specified for the purposes of paragraph (1) is the later of one year after—
+
+- (a) the date upon which the report of the inspection is submitted to the Scottish Ministers;
+- (b) if the report is published, the date of publication; or
+- (c) the final determination of any proceedings taken.
+
+(3) For the purposes of paragraph (2)(c) “proceedings” means proceedings under the Act or any other enactment, before any court or tribunal if those proceedings are connected to a service subject to the inspection mentioned in paragraph (1).
+
+## 10. Information sharing[^key-5fe207417a21ddd55aa564ec79e6c2e7]
+
+(1) Subject to section 10K(4), if an authorised person has obtained information for the purpose of an inspection under section 10J, that person may disclose to a person prescribed in paragraph (2) so much of that information as the authorised person considers would assist the person with whom the information is shared in carrying out that person’s functions.
+
+(2) The prescribed persons are—
+
+- (a) an authorised person as defined in regulation 3 (authorised persons) of the Public Services Reform (Joint Inspections) (Scotland) Regulations 2011[^f00008]; or
+- (b) an authorised person as defined in regulation 2(1) (interpretation) of the Public Services Reform (Social Services Inspections) Regulations 2011[^f00009].
+
+## 11. Offences[^key-12375f5c6f43fc6079d7c9db3afa5f8b]
+
+Any person who—
+
+- (a) intentionally obstructs the exercise of any power conferred by these Regulations; or
+- (b) fails, without reasonable excuse, to comply with any requirement imposed by these Regulations,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+SHONA ROBISON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+8th March 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision concerning inspections carried out under section 10I, 10J and 10M of the National Health Services (Scotland) Act 1978 (“the Act”). Such inspections in terms of section 10K of the Act and these Regulations may only be carried out by persons authorised to do so by Healthcare Improvement Scotland (“HIS”).
+
+Regulation 3 provides for powers of entry for authorised persons carrying out inspections of independent healthcare services under section 10M of the Act and also provides that the qualifications of an authorised person will be determined by HIS.
+
+Regulations 4, 5 and 6 provide detail on the power of inspection of independent health care services given to authorised persons, requiring persons to assist authorised persons, including producing documents and providing an explanation of such documents, and giving authorised persons the power to take photographs, recordings or measurements as necessary for the purposes of an inspection.
+
+Regulation 7 provides for interviews and examinations carried out within an inspection, setting out the circumstances in which an interview or examination may be carried out, who may interviewed, and restrictions on the examination of health records, which may only be carried out by a medically qualified person.
+
+Regulation 8 places a duty upon authorised persons to produce authentication of authority to carry out inspections.
+
+Regulation 9 concerns the disposal of personal records held by an authorised person in consequence of an inspection.
+
+Regulation 10 provides that the information gathered for one inspection under section 10J may be shared for the purposes of an inspection carried out by Social Care and Social Work Improvement Scotland under Part 5 of the Public Services Reform (Scotland) Act 2010 or an inspection carried out by an authorised person carrying out a joint inspection under section 115 of that Act.
+
+Regulation 11 creates criminal offences in respect of obstructing an authorised person or failing to comply with certain requirements in the Regulations.
+
+A Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies are available from www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29). Sections 10A to 10Z19 were inserted by the Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), section 108.
+
+[^f00002]: Footnote: Section 105(3) was relevantly amended by the Public Services Reform (Scotland) Act 2010, schedule 17, paragraph 21(a).
+
+[^key-a308a6024cb79662e16d0500a4897289]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+
+[^key-5e7a95077f29ffda8bd075ddfdbd686e]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+
+[^f00003]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^f00004]: Footnote: [S.I. 1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213) to which there are amendments not relevant to these Regulations.
+
+[^f00005]: Footnote: [1984 c.24](https://www.legislation.gov.uk/ukpga/1984/24).
+
+[^key-79f9447d8420f703075ed9a9e6b95e91]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/184/regulation/2/1) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 38](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/38)
+
+[^f00006]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253).
+
+[^key-1db4731735f7a8a6689df4530b4c725f]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+
+[^key-c00a4ab94165cd64c5dced147c1bbb43]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+
+[^key-61f496da624935ce1f3b418ad6f56310]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+
+[^key-df77a71b4463f27036e66efb8f356083]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2011/184/regulation/5/4) inserted (19.6.2024) by [The Healthcare Improvement Scotland (Inspections) Amendment Regulations 2024 (S.S.I. 2024/171)](https://www.legislation.gov.uk/ssi/2024/171), [regs. 1](https://www.legislation.gov.uk/ssi/2024/171/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/171/regulation/2/2)
+
+[^key-ad8c43e2ec14e99200501eb95dc39885]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+
+[^key-9def8974103c7c7a532d1ee1414c6c05]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+
+[^f00007]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
+
+[^key-1c216b280a0e567caf4105d73f242dfc]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+
+[^key-1adf7b89b974dd8300275259933a5c37]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+
+[^key-5fe207417a21ddd55aa564ec79e6c2e7]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)
+
+[^f00008]: Footnote: [S.S.I. 2011/183](https://www.legislation.gov.uk/ssi/2011/183).
+
+[^f00009]: Footnote: [S.S.I. 2011/185](https://www.legislation.gov.uk/ssi/2011/185).
+
+[^key-12375f5c6f43fc6079d7c9db3afa5f8b]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/184/regulation/1)

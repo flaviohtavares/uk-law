@@ -1,0 +1,125 @@
+---
+title: Land Reform (Scotland) Act 2003, section 37
+act: Land Reform (Scotland) Act 2003
+section: '37'
+status: revised-with-pending-changes
+text_date: '2026-10-26'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2003/2/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Reform (Scotland) Act 2003, section 37
+
+> **Warning: changes not yet applied to this text (50).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/asp/2003/2
+>
+> Extent: Scotland.
+
+## 37. Registration of interest in land
+
+*Extent: S*
+
+(1) A community interest in land may be registered only upon an application made by a community body to Ministers in the prescribed form and accompanied by information of the prescribed kind, including information (provided, where appropriate, by or by reference to maps or drawings) about the location and boundaries of the land.
+
+(2) Where there is a standard security over an interest in any land to which the application relates the community body shall, at the same time as it applies, provide Ministers with notice, in the prescribed form, of that fact.
+
+(3) Where an applicant community body satisfies Ministers that the owner of the land in which a community interest is sought to be registered or, as the case may be, a creditor in a standard security over any part of that land is unknown or cannot be found, Ministers shall be relieved of their duties under subsections (5) to (10), and paragraphs (b) and (c) of subsection (17), below in so far as those duties relate to the owner or, as the case may be, creditor.
+
+(4) Ministers shall not be satisfied under subsection (3) above unless the community body has given public notice of the proposed application by—
+
+- (a) placing an advertisement, in two consecutive weeks, in a local newspaper circulating in the area where the land in which a community interest is sought to be registered[^key-d21eab1326eb8fda291b2c4f08ec4f89] is situated; and
+- (b) (except in the case of a proposed application of the type mentioned in subsection (4B))[^key-5ca3466b9b9386e1b6e3af6108ecaee2] affixing a conspicuous notice in the prescribed form to a part of that land.
+
+(4A)[^key-f8ec653b874efcf2974aeb89cb9a4f3c] Ministers are not to be satisfied under subsection (3) in relation to a proposed application of the type mentioned in subsection (4B) unless the applicant community body has given public notice of the proposed application by advertising it in such manner as may be prescribed.
+
+(4B) The type of proposed application is one to register a community interest in land consisting of salmon fishings, or mineral rights, which are owned separately from the land in respect of which they are exigible.
+
+(5) On receipt of an application, Ministers shall—
+
+- (a) send a copy of the application and the accompanying information to the owner of the land and to any creditor in a standard security over an interest in the land;
+- (b) invite the owner of the land to send them, so as to be received not later than 21 days after the sending of the invitation, views in writing on the application;
+- (c) where there is a standard security over an interest in any land to which the application relates, invite the creditor in the security—
+  - (i) to notify the community body and Ministers, within 21 days of receipt of the invitation, if any of the circumstances set out in subsection (6) below has arisen (or arises within 21 days of receipt of the invitation); and
+  - (ii) if such notice is given, to provide Ministers, within that time, with the creditor’s views in writing on the application;
+- (d) send a copy of the invitation under paragraph (b) above and a copy of any invitation under paragraph (c) above to the community body; and
+- (e) by notice sent to—
+  - (i) the owner of the land; and
+  - (ii) any creditor in a standard security over an interest in the land,
+
+  prohibit the owner and any such creditor from taking, during the period beginning with the date on which the owner or, as the case may be, the creditor receives the notice and ending on the date on which Ministers determine whether an interest is to be registered, any action which, if the interest had been registered, would be prohibited under section 40(1) below.
+
+(6) The circumstances referred to in subsection (5)(c) above are that—
+
+- (a) a calling-up notice has been served by the creditor under section 19 of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35) in relation to the land in which the community body is seeking to register an interest or any part of that land and that notice has not been complied with;
+- (b) a notice of default served by the creditor under section 21 of that Act in relation to that land or any part of that land has not been complied with and the person on whom the notice was served has not, within the period specified in section 22 of that Act, objected to the notice by way of application to the court;
+- (c) where that person has so objected, the court has upheld or varied the notice of default; and
+- (d) the court has granted the creditor a warrant under section 24 of that Act in relation to that land or any part of that land.
+
+(7) Ministers shall send a copy of—
+
+- (a) each application received by them, together with a copy of the accompanying information;
+- (b) each notice sent under subsection (5)(e) above, and[^key-b50857ccaf8a7816ffb72fc63f6a36d8]
+- (c) any notice sent under section 44A,
+
+to the Keeper.
+
+(8) A transfer in breach of a prohibition imposed under subsection (5)(e) above is of no effect.
+
+(9) Ministers shall—
+
+- (a) send a copy of any timeous response to an invitation given under subsection (5)(b) or (c) above to the community body; and
+- (b) invite it to send them, so as to be received not later than 21 days after the invitation under this subsection, its views in writing on that response.
+
+(10) Ministers shall take any views timeously sent to them under this section into account when considering whether the community interest to which those views relate should be entered in the Register.
+
+(11) Ministers shall decline to consider an application that—
+
+- (a) does not comply with the requirements of or imposed under this section;
+- (b) is otherwise incomplete;
+- (c) discloses that any land to which it relates is excluded land as defined in section 33(2) above[^key-e1ffca9a8e9b59683769ea8cd9e3d441]; or
+- (d) otherwise indicates that it is one which Ministers would be bound to reject;
+
+and Ministers shall be relieved of their duties under subsections (5) to (10) above, and paragraphs (b) and (c) of subsection (17) below, in relation to such an application.
+
+(12) Declinature of an application is, for the purposes of subsection (17) below, to be regarded as a decision not to enter the community interest in the Register.
+
+(13) More than one community interest may be registered in respect of the same land.
+
+(14) A community body may, subject to subsection (15) below, register an interest in more than one holding of land.
+
+(15) An application under subsection (1) above may relate to only one holding of land.
+
+(16) In subsections (14) and (15) above, a “holding” of land is land in the ownership of one person or in common or joint ownership.
+
+(17) Ministers shall, within 63 days of receiving an application under subsection (1) above, send notice of their decision whether or not the community interest is to be entered in the Register together with a statement of their reasons—
+
+- (a) to the applicant community body;
+- (b) to the owner of the land; and
+- (c) where a creditor in a standard security has notified Ministers timeously in response to an invitation given under subsection (5)(c)(i) above, to the creditor.
+
+(18) A notice under subsection (17) above shall—
+
+- (a) contain information about the effect of registration of a community interest or, as the case may be, of Ministers' decision that such an interest is not to be entered in the Register and about the rights of appeal under section 61 below; and
+- (aa)[^key-80ef0b9446e89127a75fbf2e9d8f45b9] where the decision is that such an interest is to be entered in the Register, contain information about the duties imposed under section 44A,
+- (b) be in the prescribed form.
+
+(19) Any failure to comply with the time limit specified in subsection (17) above , including that subsection as modified by section 39(2)(b) below,[^key-c4b0b7f41c5498e729dd51d70bcd41a1] does not affect the validity of anything done under this section.
+
+(20) Where Ministers decide that a community interest is to be entered in the Register they shall direct the Keeper to so enter the interest with effect from the date on which Ministers made the decision.
+
+## Annotations
+
+[^key-d21eab1326eb8fda291b2c4f08ec4f89]: Textual amendment: Words in s. 37(4)(a) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [Sch. 4 para. 8(2)(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/8/2/a); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+
+[^key-5ca3466b9b9386e1b6e3af6108ecaee2]: Textual amendment: Words in s. 37(4)(b) inserted (13.11.2015 for specified purposes, 15.4.2016 in so far as not already in force) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 40(a)](https://www.legislation.gov.uk/asp/2015/6/section/40/a), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+
+[^key-f8ec653b874efcf2974aeb89cb9a4f3c]: Textual amendment: S. 37(4A)(4B) inserted (13.11.2015 for specified purposes, 15.4.2016 in so far as not already in force) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 40(b)](https://www.legislation.gov.uk/asp/2015/6/section/40/b), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+
+[^key-b50857ccaf8a7816ffb72fc63f6a36d8]: Textual amendment: S. 37(7)(c) and word inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [Sch. 4 para. 8(2)(b)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/8/2/b); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+
+[^key-e1ffca9a8e9b59683769ea8cd9e3d441]: Textual amendment: Words in s. 37(11)(c) substituted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [Sch. 4 para. 8(2)(c)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/8/2/c); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+
+[^key-80ef0b9446e89127a75fbf2e9d8f45b9]: Textual amendment: S. 37(18)(aa) inserted (13.11.2015 for specified purposes, 15.4.2016 in so far as not already in force) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [Sch. 4 para. 8(2)(d)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/8/2/d); [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+
+[^key-c4b0b7f41c5498e729dd51d70bcd41a1]: Textual amendment: Words in s. 37(19) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [Sch. 4 para. 8(2)(e)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/8/2/e); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

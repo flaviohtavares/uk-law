@@ -1,0 +1,138 @@
+---
+title: The Scottish Water (Unapool Burn) Water Order 2006
+id: ssi/2006/153
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-03-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2006/153
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2006/153/pdfs/ssi_20060153_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/153/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scottish Water (Unapool Burn) Water Order 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 153
+
+WATER SUPPLY
+
+The Scottish Water (Unapool Burn) Water Order 2006
+
+Made
+
+13th March 2006
+
+Coming into force
+
+14th March 2006
+
+The Scottish Ministers, in exercise of the powers conferred by sections 17(1), 29(1) and 107(1)(b) of the Water (Scotland) Act 1980[^f00001] and of all other powers enabling them in that behalf, on the application of Scottish Water, hereby make the following Order:–
+
+## 1. Citation and commencement
+
+This Order may be cited as the Scottish Water (Unapool Burn) Water Order 2006 and shall come into force on 14th March 2006.
+
+## 2. Interpretation
+
+In this Order–
+
+- “the Act” means the Water (Scotland) Act 1980;
+- “approved” means approved by the Scottish Ministers;
+- “day” means a period of 24 hours reckoned from midnight;
+- “deposited plan” means the plan, prepared in triplicate, docqueted and signed as relative to this Order and marked “The Scottish Water (Unapool Burn) Water Order 2006”, one copy of which is deposited in the office of the Scottish Executive, Victoria Quay, Edinburgh, one in the head office of Scottish Water at Castle House, 6 Castle Drive, Carnegie Campus, Dunfermline, Fife, and one in the Scottish Water area office at 31 Henderson Drive, Longman North, Inverness;
+- “gauge” includes a gauge, weir or other apparatus for measuring the flow of water;
+- “intake” includes any work by which water is taken by Scottish Water for the purpose of the undertaking;
+- “Scottish Water” means the body corporate established by section 20(1) of the Water Industry (Scotland) Act 2002[^f00002];
+- “undertaking” means the water undertaking for the time being of Scottish Water; and
+- “works” means the works described in Schedule 1 to this Order and shown on the deposited plan.
+
+## 3. Incorporation and application of provisions of Schedule 4 to the Act
+
+The provisions of paragraphs 2 and 10(3) of Schedule 4 to the Act[^f00003], modified and adapted to read as set out in Schedule 2 to this Order, shall apply to the undertaking insofar as affected by the provisions of this Order, and the terms used in the provisions of those paragraphs, as so modified and adapted, which are defined in this Order, shall have the same meaning as in this Order.
+
+## 4. Water rights
+
+Subject to the provisions of this Order, Scottish Water may, for the purposes of the undertaking and by means of an intake shown on the deposited plan and located at Ordnance Survey National Grid Reference NC 23453 30997, take water from the Unapool Burn in the area of the Highland Council.
+
+**5.** (1) During the construction of the works, Scottish Water may take from the Unapool Burn, such water as it may require for such construction.
+
+(2) After completion of the works, Scottish Water may, in any day, take from the Unapool Burn a quantity of water not greater than 120 cubic metres, as measured and recorded by an approved gauge (Work No. 2).
+
+**6.** If the power to take water conferred by this Order has not been exercised by 31st December 2007 the said power shall cease.
+
+## 7. Revocation
+
+The Sutherland County Council (Unapool Burn) Water Order 1967[^f00004] is revoked with effect from 31st December 2007.
+
+R IRVINE
+
+A member of the staff of the Scottish Ministers
+
+Victoria Quay,
+
+Edinburgh
+
+13th March 2006
+
+## SCHEDULE 1
+
+Article 2
+
+The works referred to in this Order and shown on the deposited plan are–
+
+- Work No. 1:
+
+  Installation of a Rundown Screen on the existing raw water pipeline located at Ordnance Survey National Grid Reference NC 23450 31030.
+- Work No. 2:
+
+  Installation of an approved gauge housed within a new water treatment works, located at Ordnance Survey National Grid Reference NC 23405 31039 (the construction of which treatment works is not authorised hereunder).
+
+## SCHEDULE 2
+
+Article 3
+
+The modifications and adaptations of Schedule 4 to the Act referred to in this Order are–
+
+**1.** For paragraph 2 of Schedule 4 substitute–
+
+> In the construction of the works described in Schedule 1 to the Scottish Water (Unapool Burn) Water Order 2006, Scottish Water may deviate laterally to any extent not exceeding the limits of deviation shown on the deposited plan and it may deviate vertically from the levels shown on the deposited plan to any extent:
+>
+> Provided that–
+>
+> - (a) no control building shall be constructed at a greater height above the general surface of the ground than that shown on the deposited plan and 2 metres in addition thereto; and
+> - (b) except for the purposes of crossing a stream, canal, dyke, watercourse or railway, or of crossing any lands where the consent of all persons interested in those lands has been obtained, no pipe or other conduit or aqueduct shall be raised above the surface of the ground otherwise than in accordance with the deposited plan.
+
+.
+
+**2.** For paragraph 10(3) of Schedule 4 substitute–
+
+> If Scottish Water–
+>
+> - (a) fails to construct or maintain in good order any such gauge as is mentioned in the Scottish Water (Unapool Burn) Water Order 2006, or refuses to allow any person interested to inspect and examine any such gauge or any records made thereby or kept by it in connection therewith or to take copies of any such records; or
+> - (b) takes any water contrary to the provisions of the Scottish Water (Unapool Burn) Water Order 2006,
+>
+> it shall, without prejudice to its civil liability, if any, to a person aggrieved, be liable, in the case of an offence under paragraph (a) of this subparagraph, on summary conviction to a fine not exceeding level 3 on the standard scale, and, in the case of an offence under paragraph (b) of this subparagraph–
+>
+> - (i) on summary conviction, to a fine not exceeding the statutory maximum; and
+> - (ii) on conviction on indictment to a fine.
+
+.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 45](https://www.legislation.gov.uk/ukpga/1980/45). Section 17(1) was amended by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), section 180(1) and (2), Schedule 13, paragraph 119(10)(a) and Schedule 14, and by the [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3) Schedule 6, paragraph 14(1) and (2). Section 29(1) was amended by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), section 180(1) and (2), Schedule 13, paragraph 19(a) and (b) and Schedule 14, and by the [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3) Schedule 6, paragraph 3(a), (b) and (c). Section 107(1)(b) was amended by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), section 180(1) and (2), Schedule 13, paragraph 52(a) and by the [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3) Schedule 6, paragraph 61(a) and (b). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3), as amended by the [Water Services, etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3).
+
+[^f00003]: Footnote: Paragraph 2 of Schedule 4 was amended by the Roads (Scotland) Act [1984 (c. 54)](https://www.legislation.gov.uk/ukpga/1984/54), Schedule 9, paragraph 81(15)(a); paragraph 10(3) of Schedule 4 was amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), Schedule 15, paragraph 27, and by the Criminal Procedure (Consequential Provisions) (Scotland) Act [1995 (c. 40)](https://www.legislation.gov.uk/ukpga/1995/40), Schedule 2.
+
+[^f00004]: Footnote: S.I. [1967/730](https://www.legislation.gov.uk/uksi/1967/730).

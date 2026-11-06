@@ -1,0 +1,458 @@
+---
+title: The National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013
+id: ssi/2013/292
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-10-14'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/292
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/292/pdfs/ssipn_20130292_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/292/pdfs/ssi_20130292_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/292/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 292
+
+National Health Service
+
+The National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013
+
+Made
+
+14th October 2013
+
+Coming into force
+
+25th October 2013
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c21918771] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013 and come into force on 25th October 2013.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Interpretation[^key-73e96c9ac55b76bb3bcee20c4c917d49]
+
+In these Regulations—
+
+- “**the Directive**” means Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients' rights in cross-border healthcare [^c21918781];
+- [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083)[^key-123d024ad9db4e2c9f218338b5de5099]” means [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) of the European Parliament and of the Council of 6th November 2001 on the Community Code relating to medicinal products for human use;
+- “**health care**” means health services provided by health professionals to patients to assess, maintain or restore their state of health, and includes the prescription, dispensing and provision of medicinal products and medical devices;
+- “**health care provider**” means a person providing health care;
+- “**health professional**” means a person who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c21918791] (the Professional Standards Authority for Health and Social Care);
+- “**medical device**” means any instrument, apparatus, appliance, material or other article, whether used alone or in combination, including the software necessary for its proper application, intended by the manufacturer to be used for human beings for the purpose of—
+  - (a) the diagnosis, prevention, monitoring, treatment or alleviation of disease;
+  - (b) the diagnosis, monitoring, treatment, alleviation or compensation for an injury or handicap;
+  - (c) the investigation, replacement or modification of the anatomy or of a physiological process;
+  - (d) the control of conception,
+
+  and which does not achieve its principal intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its function by such means;
+- “**medicinal product**” means any substance or combination of substances—
+  - (a) presented for treating or preventing disease in human beings; or
+  - (b) which may be administered to human beings with a view to making a medical diagnosis or to restoring, correcting or modifying physiological functions in human beings;
+- “[^key-2af838bb90974abf1916c3a1d75fa35b]**Member State**” means a State that is a member of the European Union or the European Economic Area,
+- “**the NCP**” means the national contact point designated under regulation 3;
+- “**the NHS Act**” means the National Health Service (Scotland) Act 1978 [^c21918801];
+- “**prescription**” means a prescription for a medicinal product or for a medical device issued by a member of a regulated health profession within the meaning of Article 3(1)(a) of Directive [2005/36/EC](https://www.legislation.gov.uk/european/directive/2005/0036) of the European Parliament and the Council of 7 September 2005 on the recognition of professional qualifications [^c21918811] who is legally entitled to do so in the member state in which the prescription is issued;
+- [^key-2f110da23528970fdf0a47b70efd4208]...
+- [^key-eb81238d2537a357f74f8855038c49d0]...
+
+## 3. National contact point: designation
+
+The national contact point for the purposes of the Directive is NHS 24 [^c21918821].
+
+## 4. NCP: information about treatment in Scotland
+
+(1) The NCP must ensure that information about each of the following is available or accessible by whatever means it thinks appropriate—
+
+- (a) health care providers;
+- (b) patients' rights;
+- (c) complaints procedures and methods of seeking remedies;
+- (d) legal and administrative options available to settle disputes, including in the event of harm arising from the provision of health care;
+- (e) Contact details of national contact points in [^key-a2b3ed85ea0260e02323eee5f140bd90]... Member States.
+
+(2) The NCP must also ensure that information about each of the following is made available by whatever means it thinks appropriate to a relevant person[^key-b83bb4022ebeee2f8bab7b97288a2df3], on request—
+
+- (a) a specific health care provider's right to provide services;
+- (b) any restrictions on a specific health care provider's right to provide services;
+- (c) standards and guidelines on quality and safety;
+- (d) provision about the supervision and assessment of health care providers;
+- (e) health care providers who are subject to the standards mentioned in sub-paragraph (c);
+- (f) accessibility of hospitals for persons with disabilities.
+
+(3) Information provided under this regulation and regulation 5 must—
+
+- (a) be easily accessible; and
+- (b) be available by electronic means including fax and e-mail.
+
+(4)[^key-6ec53872b7ff54e5fbfe6fc366e17167] In paragraph (2), “relevant person” means a person to whom health care may be, or has been, provided in Scotland as a consequence of an exercise of the person’s rights in relation to access to health care under the Directive.
+
+## 5. NCP: information about treatment in another Member State
+
+The NCP must ensure that information about each of the following is available to or accessible by persons ordinarily resident in Scotland[^key-3d13bf3de81374af27995e0f47a12e50] and health professionals—
+
+- (a) the rights and entitlements of persons ordinarily resident in Scotland to receive health care in a[^key-60191d46df4d745c17de5e652b6ee1bd] member state;
+- (b) the procedures for accessing and determining those entitlements;
+- (c) the procedures for appeal and redress if patients consider that their rights have not been respected;
+- (d) the terms and conditions for reimbursement of costs.
+
+## 5A. NCP: information about prescriptions intended to be used in another Member State[^key-dc672c4b44b60a6407712c4f44932f98]
+
+(1) The NCP must make available to patients information about the elements, specified in the Schedule, to be included in a prescription which is—
+
+- (a) issued in one Member State; and
+- (b) intended to be used in another Member State.
+
+## 6. NCP: cross border co-operation
+
+(1) For the purposes of the Directive, the NCP must co-operate with—
+
+- (a) the national contact points in [^key-6c646ef99cb4d481f05c9f85f198a8fe]... member states;
+- (b) the national contact points established for the purposes of the Directive in England, Wales and Northern Ireland;
+- (c) the Commission of the EU.
+
+(2) In particular, the NCP must—
+
+- (a) co-operate on standards and guidelines on quality and safety;
+- (b) facilitate the exchange of information mentioned in regulation 4(1) and (2);
+- (c) co-operate on the clarification of the content of invoices.
+
+## 7. NCP: Duty to consult
+
+For the purposes of the exercise of its functions the NCP must consult with—
+
+- (a) organisations representing the interests of patients;
+- (b) health care providers or organisations representing health care providers;
+- (c) persons providing insurance in relation to health care or organisations representing such persons.
+
+## 8. Reimbursement of cost of services provided in another EEA state
+
+(1) The NHS Act is amended in accordance with this regulation.
+
+(2) Section 2CA [^c21918831] (functions of Health Boards outside Scotland) is renumbered as “2CB”.
+
+(3) In section 75B [^c21918841] (reimbursement of the cost of services provided in another EEA state) after subsection (1) insert—
+
+> (1A) But the duty in subsection (1) does not apply where section 75BA applies.
+
+.
+
+(4) After section 75B insert—
+
+> **75BA. Reimbursement of the cost of services provided in another EEA State where expenditure is incurred on or after 25 October 2013.**
+>
+> (1) This section applies where qualifying EEA expenditure is incurred by a person on or after 25<sup></sup>October 2013 (but see subsections (9) and (14)).
+>
+> (2) A Health Board must, on an application made by the person, reimburse to that person the amount of the qualifying EEA expenditure incurred by that person, but this is subject to subsections (8) and (9), to any limit applicable under subsection (11) and to any deduction applicable under section 75D.
+>
+> (3) For the purpose of this section, “qualifying EEA expenditure” is expenditure incurred on the provision by an authorised provider, in an EEA State other than the United Kingdom, to a person ordinarily resident in Scotland (“the patient”) of services as respects which condition A or condition B is met.
+>
+> (4) Condition A is that the services—
+>
+> - (a) are necessary to treat or diagnose a medical condition of the patient, and
+> - (b) are the same as or equivalent to services that a Health Board in whose area a patient resides would make or have made available to a patient under this Act in the circumstances of the patient's case.
+>
+> (5) But in the case of services which, although meeting the requirements in paragraphs (a) and (b) of subsection (4), fall within subsection (6), condition A is only met if, before the services were provided, the Health Board had given authorisation under section 75BB for the provision of the services to the patient.
+>
+> (6) Services fall within this subsection if—
+>
+> - (a) they are subject to planning requirements relating to the objective of ensuring sufficient and permanent access to a balanced range of high quality treatment or to the wish to control costs and avoid, as far as possible, any waste of financial, technical and human resources, and—
+>   - (i) involve a stay in hospital accommodation for at least one night, or
+>   - (ii) require the use of highly specialised and cost-intensive medical infrastructure or medical equipment,
+> - (b) they involve treatments presenting a particular risk for the patient or the population, or
+> - (c) they are provided by a healthcare provider in circumstances that, on a case-by-case basis, could give rise to serious and specific concerns relating to the quality or safety of the care, with the exception of healthcare services which are subject to European Union legislation ensuring a minimum level of safety and quality throughout the European Union.
+>
+> (7) Condition B is that before the services were provided the Health Board had given authorisation under section 75BB(4)(b) for the provision of the services to the patient.
+>
+> (8) The duty in subsection (2) does not apply where the applicant for reimbursement incurred the qualifying EEA expenditure in connection with an arrangement which was entered into by or on behalf of the applicant in the course of business and under which the applicant has gained or might be expected to gain any financial benefit.
+>
+> (9) This section does not apply in circumstances where Article 20 or 27(3) of Regulation [(EC) No. 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) apply.
+>
+> (10) Subsection (11) applies where the services are the same as or equivalent to services that the Health Board in whose area a patient resides would have made available to that patient under this Act in the circumstances of the patient's case.
+>
+> (11) The Health Board may limit the amount of any reimbursement under this section to the cost that the Board would have incurred if the same or an equivalent service had been made available by the Board to a patient resident in the Board's area.
+>
+> (12) A Health Board may, on an application made by a person who receives reimbursement of qualifying expenditure under paragraph (2), reimburse to that person travelling expenses (including the travelling expenses of companions) incurred or to be incurred for the purpose of their obtaining any services reimbursed under this section.
+>
+> (13) The Scottish Ministers may determine—
+>
+> - (a) the form in which an application under this section must be made, and
+> - (b) the information to be provided in support of the application.
+>
+> (14) This section does not apply where expenditure is incurred in Iceland, Liechtenstein or Norway before Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients' rights in cross-border healthcare applies to that state in accordance with the EEA Agreement.
+>
+> (15) In this section and section 75BB, “authorised provider”, and “services” have the meaning given in section 75B.
+>
+> **75BB. Prior authorisation for the purposes of section 75BA**
+>
+> (1) A person may apply to a Health Board under this section for prior authorisation for the purposes of section 75BA in relation to the provision of services (“the requested services”) to a person ordinarily resident in Scotland (“the patient”).
+>
+> (2) The requested services must be—
+>
+> - (a) services which fall within section 75BA(6) and meet the requirements in paragraphs (a) and (b) of section 75BA(4), or
+> - (b) services that are neither the same as nor equivalent to services that a Health Board in whose area the patient resides would make available to the patient under this Act in the circumstances of the patient's case.
+>
+> (3) The Scottish Ministers may determine—
+>
+> - (a) the form in which an application under this section must be made, and
+> - (b) the information to be provided in support of the application.
+>
+> (4) A Health Board—
+>
+> - (a) must authorise the provision of the requested services if they are services mentioned in subsection (2)(a) (but see subsection (5)), and
+> - (b) may authorise the provision of the requested services in any case where—
+>   - (i) the requested services are necessary to treat or diagnose a medical condition of the patient, and
+>   - (ii) the duty in paragraph (a) does not apply.
+>
+> (5) The duty in subsection (4)(a) does not apply if at least one of the following conditions is met—
+>
+> - (a) by receiving the requested services the patient would, according to a clinical evaluation, be exposed with reasonable certainty to a patient-safety risk that cannot be regarded as acceptable, taking into account the potential benefit for the patient of the requested service,
+> - (b) the general public will be exposed with reasonable certainty to a substantial safety hazard as a result of the requested service,
+> - (c) the requested service is to be provided by a healthcare provider that raises serious and specific concerns relating to the respect of standards and guidelines on quality of care and patient safety, including provisions on supervision, whether these standards and guidelines are laid down by laws or regulations or through accreditation systems established by the state in which the requested services will be provided,
+> - (d) the Health Board can provide to the patient services that are the same as or equivalent to the requested services within a period of time that is medically justifiable, taking into account the patient's state of health at the time the decision under this section is made and the probable course of the medical condition to which the requested services relate.
+>
+> (6) The matters to which a Health Board is to have regard in determining for the purpose of subsection (5)(d) whether the length of any delay is medically justifiable include—
+>
+> - (a) the patient's medical history,
+> - (b) the extent of any pain, disability, discomfort or other suffering that is attributable to the medical condition to which the requested services are to relate,
+> - (c) whether any such pain, disability, discomfort or suffering makes it impossible or extremely difficult for the patient to carry out ordinary daily tasks, and
+> - (d) the extent to which the provision of the requested services would be likely to alleviate, or enable the alleviation of, the pain, disability, discomfort or suffering.
+>
+> (7) In section 75D [^c21918851] (deduction of NHS charges)—
+>
+> - (a) in subsection (1) after “75B(1)” insert “ or 75BA ”;
+> - (b) in subsection (2) after “75C” insert “ or 75BA and 75BB ”.
+>
+> (8) Any authorisation or refusal of authorisation in part or full under this section must be in writing.
+>
+> (9) In this section and section 75C “**writing**” includes an electronic communication as defined in section 15 of the Electronic Communications Act 2000 [^c21918861]which has been recorded and is capable of being reproduced.
+
+.
+
+## 9. Information on rights and entitlements
+
+For the purpose of enabling the Scottish Ministers to comply with the obligation under Article 5(b) of the Directive, a Health Board must ensure that information on the rights and entitlements mentioned in that Article is provided for persons ordinarily resident in Scotland[^key-8f631e5a753bc431278809fdc05447e3].
+
+## 10. Exemption from NHS charges for certain persons who reside in another member State
+
+(1) Where a person (P) is provided with a cross-border healthcare service which is a service prescribed by the Scottish Ministers pursuant to section 98 of the NHS Act (charges in respect of non-residents) [^c21918871] as a service for which a charge must be made, P is exempt from a charge if P is within paragraph (2) and the cross-border healthcare service is within paragraph (3).
+
+(2) P is within this paragraph if, when the cross-border healthcare service began to be provided, P was[^key-b263fc0b479a03eee281811436ab3756]—
+
+- (a) an insured person or a member of the family of an insured person residing in a Member State [^key-50adaf5e361b6c324d3d4c5b765dcd76]...; and[^key-f82410cc8fc027f7ec113cac7edf4af7]
+- (b) a person[^key-913c77052cd1455852aaeb043d9df1a8] for whom the United Kingdom is the competent Member State under Regulation [(EC) No. 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883).
+
+(3) The cross-border healthcare service is within this paragraph if—
+
+- (a)[^key-7ca475e9dae4c6faa417c5286ebc3e10] it is not a service of the kind that falls within section 75BA(6) of the NHS Act, and
+- (b) it is not provided in accordance with Chapter 1 of Title III of Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) (sickness, maternity and equivalent paternity benefits).
+
+(3A)[^key-f85eed24b38fbcca185aa1899be98b3e] But a cross-border healthcare service is not within paragraph (3) insofar as it is provided after the cut-off day.
+
+(3B) For the purpose of paragraph (3A), the cut-off day is, in a case where the service is provided as a consequence of an exercise of P’s rights under the Directive, the day falling 1 year after IP completion day.
+
+(4) In this regulation—
+
+- (a) “competent Member State” “**insured person**” and “**member of the family**” have the same meaning as they have for the purposes of Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883);
+- (aa) “cross-border healthcare service” means healthcare that is provided to a person in Scotland as a consequence of an exercise of the person’s rights in relation to access to healthcare under the Directive,[^key-89c844b84c56c21d87002d7aa8d5a738]
+- (b) “**Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883)**” means Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems.
+
+(5)[^key-913223cf72d1b022fe44d7403dd9ef70] The modifications made to the preceding paragraphs of this regulation by regulation 5(7) of the Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 do not apply in relation to any service that began to be provided before IP completion day (which is the day that those modifications came into force).
+
+## 10A. Exemption from NHS charges for certain pensioners after EU withdrawal[^key-4757edf7883a566da60069e6ec7a3311]
+
+(1) A person to whom paragraph (3) applies is exempt from any charge provided for by regulations under section 98 of the NHS Act in respect of a relevant service.
+
+(2) A service is relevant, for the purpose of paragraph (1), insofar as it is provided during the period of 1 year beginning with IP completion day.
+
+(3) This paragraph applies to—
+
+- (a) a person who, immediately before IP completion day—
+  - (i) was resident in a Member State, and
+  - (ii) was in receipt of—
+    - (aa) a state pension under Part 1 of the Pensions Act 2014 or Part 1 of the Pensions Act (Northern Ireland) 2015, or
+    - (bb) a retirement pension under the Social Security Contributions and Benefits Act 1992 or the Social Security Contributions and Benefits (Northern Ireland) Act 1992, and
+- (b) a person who, immediately before IP completion day, was a member of the family of a person described by sub-paragraph (a).
+
+(4) In this regulation—
+
+- “member of the family” has the meaning it had for the purposes of Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/eur/2004/0883) immediately before IP completion day.
+
+## 11. NHS charges
+
+(1) Where a [^key-c2fb510f39fa1052d81dcc951781493e]... patient is provided with a cross border healthcare service which is a service prescribed by the Scottish Ministers under section 98 of the NHS Act (charges in respect of non-residents) the amount of the charge to the [^key-c2fb510f39fa1052d81dcc951781493e]... patient for that service must not exceed the amount the person or body responsible for providing the service would assess as the cost of the service if it had been provided to a British citizen who is ordinarily resident in Scotland[^key-4739f7a448d9632b824247688f1fda99].
+
+(1A)[^key-b15a721a0a99e9cc5874a8581c4c6f69] But paragraph (1) does not apply to a cross-border healthcare service insofar as it is provided after the cut-off day.
+
+(1B) For the purpose of paragraph (1A), the cut-off day in a case where the service is provided as a consequence of an exercise of the patient’s rights under the Directive, the day falling 1 year after IP completion day.
+
+(2) In this regulation “**cross-border healthcare service**” means healthcare—
+
+- (a) provided in Scotland to or prescribed for a [^key-4583e0d7be9daea2e34632517b97b1d8]... patient as a consequence of that patient exercising their rights in relation to access to healthcare under the Directive or a cross-border arrangement with an EEA State[^key-9e61281920654a486340c1c87d79e512]; and
+- (b) provided by a Health Board.
+
+ALEX NEIL
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE — Elements that must be included in a prescription issued in a Member State other than the Member State where it is intended to be used[^key-88b9307bda70c65e82b6217574b1cc25]
+
+Regulation 5A
+
+**1.** The patient’s—
+
+- (a) surname(s);
+- (b) first name(s) (written out in full); and
+- (c) date of birth.
+
+**2.** The date on which the prescription is issued.
+
+**3.** The prescribing professional’s—
+
+- (a) surname(s);
+- (b) first name(s) (written out in full);
+- (c) professional qualification;
+- (d) direct contact details including—
+  - (i) email address;
+  - (ii) telephone or fax number with the appropriate international prefix;
+  - (iii) work address;
+  - (iv) Member State in which the professional works; and
+  - (v) signature (either written or electronic depending on the medium chosen for issuing the prescription).
+
+**4.** The details of the prescribed product, including where applicable the—
+
+- (a) common name as defined by Article 1 of [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083);
+- (b) brand name if—
+  - (i) the prescribed product is a biological medicinal product as referred to in point 3.2.1.1.(b) of Annex 1 (Part 1) to [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083); or
+  - (ii) the prescribing professional deems it medically necessary for that product to be dispensed and, in that case, the prescribing professional’s reasons justifying the use of the brand name;
+- (c) pharmaceutical formulation (such as tablet, solution etc.);
+- (d) quantity;
+- (e) strength as defined in Article 1 of [Directive 2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083); and
+- (f) dosage regimen.
+
+*(This note is not part of the Regulations)*
+
+These Regulations which extend to Scotland, implement the requirements for national contact points and the reimbursement of charges set out in the Directive 2011/24/EU of the European Parliament and of the Council on the application of patients' rights in cross-border healthcare (“**the Directive**”).
+
+The Regulations amend the National Health Service (Scotland) Act 1978 (“**the NHS Act**”) to insert new sections 75BA and 75BB which will apply to the reimbursement of the cost of EEA treatment incurred on and after 25th October 2013.
+
+The EEA (European Economic Area) consists of the member states of the European Union together with Norway, Iceland and Liechtenstein.
+
+Regulation 3 designates NHS 24 as the national contact point for the purposes of the Directive.
+
+Regulation 4 requires the national contact point to make specified information available or accessible to patients from another Member State seeking to purchase a healthcare service in Scotland (“a visiting patient”). Regulation 5 requires the national contact point to make specified information about the rights and entitlements to obtain a healthcare service in another Member State available or accessible to NHS patients (“resident patients”).
+
+Regulation 6 requires the national contact point to cooperate with national contact points and the Commission of the EU.
+
+Regulation 7 requires the national contact point to consult patients, health providers and insurers.
+
+Regulation 8 amends the NHS Act by inserting new sections 75BA and 75BB.
+
+The new section 75BA of the NHS Act sets out the conditions for reimbursement for qualifying EEA expenditure (defined in subsection (3)) incurred on or after 25th October 2013, the services subject to the conditions of prior authorisation, limitations that may be imposed on the reimbursement and the NHS charges that may be deducted. Subsection (14) provides that section 75BA does not apply where expenditure is incurred on the provision of a service provided by an authorised provider in Iceland, Liechtenstein or Norway before the Directive applies to those states in accordance with the EEA Agreement. The new section 75BB of the NHS Act provides for an application for prior authorisation and sets out when authorisation must be granted and when it may be refused.
+
+Regulation 9 requires a Health Board to ensure that information about their rights and entitlements is available to patients.
+
+Regulation 10 implements article 7(2)(b) of the Directive by requiring a Health Board to provide healthcare, except healthcare which is subject to a condition of prior authorisation, to an individual (“the insured person”) who is in receipt of a pension under the legislation of the United Kingdom and resides in another EU Member State and to the family member of that insured person.
+
+Regulation 11 makes provision for the charges where NHS service is provided to a visiting patient.
+
+## Annotations
+
+[^c21918771]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act 1998 Act (c.46) (“**the 1998 Act**”), Schedule 8, paragraph 15(3), (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”), section 2(2) was also amended by section 27(1)(a) of the 2006 [Act and the European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [section 3(3)](https://www.legislation.gov.uk/ukpga/2008/7/section/3/3) and Schedule Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^key-73e96c9ac55b76bb3bcee20c4c917d49]: Modification: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/292/regulation/2) modified (31.12.2020) by [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4S](https://www.legislation.gov.uk/uksi/2002/618/regulation/4S) (as inserted by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^c21918781]: Marginal citation: OJ L 88, 4.4.2011, p.45.
+
+[^key-123d024ad9db4e2c9f218338b5de5099]: Textual amendment: Words in reg. 2 inserted (31.3.2015) by [The National Health Service (Cross-Border Health Care) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/91)](https://www.legislation.gov.uk/ssi/2015/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/91/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/ssi/2015/91/regulation/2/1/a)
+
+[^c21918791]: Marginal citation: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17). Section 25 has been amended by the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), [section 113](https://www.legislation.gov.uk/ukpga/2008/14/section/113), [Schedule 10](https://www.legislation.gov.uk/ukpga/2008/14/schedule/10), [paragraph 17](https://www.legislation.gov.uk/ukpga/2008/14/paragraph/17) and Schedule 15, Part 2; and by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and further amended by the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), [sections 220 to 224](https://www.legislation.gov.uk/ukpga/2012/7/section/220).
+
+[^key-2af838bb90974abf1916c3a1d75fa35b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/292/regulation/2) inserted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(2)(b)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21918801]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^c21918811]: Marginal citation: OJ L 255, 30.9.2005, p.22.
+
+[^key-2f110da23528970fdf0a47b70efd4208]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/292/regulation/2) omitted (31.12.2020) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(2)(c)(i)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/2/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-eb81238d2537a357f74f8855038c49d0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/292/regulation/2) omitted (31.12.2020) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/2/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21918821]: Marginal citation: NHS 24 is a special Health Board constituted by the NHS 24 (Scotland) Order 2001, S.S.I 2001/137.
+
+[^key-a2b3ed85ea0260e02323eee5f140bd90]: Textual amendment: Word in [reg. 4(1)(e)](https://www.legislation.gov.uk/ssi/2013/292/regulation/4/1/e) omitted (31.12.2020) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(3)(a)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b83bb4022ebeee2f8bab7b97288a2df3]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2013/292/regulation/4/2) substituted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(3)(b)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6ec53872b7ff54e5fbfe6fc366e17167]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/ssi/2013/292/regulation/4/4) inserted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(3)(c)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/3/c); (as amended by [S.S.I. 2020/478](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+
+[^key-3d13bf3de81374af27995e0f47a12e50]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2013/292/regulation/5) substituted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(4)(a)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-60191d46df4d745c17de5e652b6ee1bd]: Textual amendment: Word in [reg. 5(a)](https://www.legislation.gov.uk/ssi/2013/292/regulation/5/a) substituted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(4)(b)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dc672c4b44b60a6407712c4f44932f98]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/ssi/2013/292/regulation/5A) inserted (31.3.2015) by [The National Health Service (Cross-Border Health Care) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/91)](https://www.legislation.gov.uk/ssi/2015/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/91/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/ssi/2015/91/regulation/2/1/b)
+
+[^key-6c646ef99cb4d481f05c9f85f198a8fe]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/ssi/2013/292/regulation/6/1/a) omitted (31.12.2020) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(5)(b)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21918831]: Marginal citation: Inserted by National Health Service (Reimbursement) of the Cost of EEA Treatment (Scotland) Regulations 2010 [S.S.I. 2010/283](https://www.legislation.gov.uk/ssi/2010/283). A section 2CA was also inserted by the Smoking Health and Social Care (Scotland) Act [2005 asp 13](https://www.legislation.gov.uk/asp/2005/13).
+
+[^c21918841]: Marginal citation: Section 75B was inserted by [S.S.I. 2010/283](https://www.legislation.gov.uk/ssi/2010/283).
+
+[^c21918851]: Marginal citation: Section 75D was inserted by [S.S.I. 2010/283](https://www.legislation.gov.uk/ssi/2010/283).
+
+[^c21918861]: Marginal citation: 2000 (c.7).
+
+[^key-8f631e5a753bc431278809fdc05447e3]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/ssi/2013/292/regulation/9) substituted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(6)(c)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21918871]: Marginal citation: [The National Health Service (Charges to Overseas Visitors) (Scotland) Regulations 1989 (S.I. 1989/364)](https://www.legislation.gov.uk/uksi/1989/364) were made under section 98 of the NHS Act. Regulation 4A which was added by [S.S.I. 2004/369](https://www.legislation.gov.uk/ssi/2004/369) already makes limited provision for exemption from charges for certain pensioners and their family members.
+
+[^key-b263fc0b479a03eee281811436ab3756]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/ssi/2013/292/regulation/10/2) substituted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(7)(a)(i)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-50adaf5e361b6c324d3d4c5b765dcd76]: Textual amendment: Words in [reg. 10(2)(a)](https://www.legislation.gov.uk/ssi/2013/292/regulation/10/2/a) omitted (31.12.2020) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(7)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f82410cc8fc027f7ec113cac7edf4af7]: Textual amendment: Word in [reg. 10(2)(a)](https://www.legislation.gov.uk/ssi/2013/292/regulation/10/2/a) inserted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(7)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/7/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-913c77052cd1455852aaeb043d9df1a8]: Textual amendment: Words in [reg. 10(2)(b)](https://www.legislation.gov.uk/ssi/2013/292/regulation/10/2/b) inserted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(7)(a)(iv)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/7/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7ca475e9dae4c6faa417c5286ebc3e10]: Textual amendment: [Reg. 10(3)(a)](https://www.legislation.gov.uk/ssi/2013/292/regulation/10/3/a) substituted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(7)(b)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f85eed24b38fbcca185aa1899be98b3e]: Textual amendment: [Reg. 10(3A)(3B)](https://www.legislation.gov.uk/ssi/2013/292/regulation/10/3A/3B) inserted by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(7)(c)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/7/c) (as substituted by [S.S.I. 2020/478](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(e)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-89c844b84c56c21d87002d7aa8d5a738]: Textual amendment: [Reg. 10(4)(aa)](https://www.legislation.gov.uk/ssi/2013/292/regulation/10/4/aa) inserted by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(7)(d)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/7/d) (as substituted by [S.S.I. 2020/478](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(e)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-913223cf72d1b022fe44d7403dd9ef70]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/ssi/2013/292/regulation/10/5) inserted by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(7)(e)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/7/e) (as substituted by [S.S.I. 2020/478](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(e)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4757edf7883a566da60069e6ec7a3311]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2013/292/regulation/10A) inserted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(8)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/8) (as amended by [S.S.I. 2020/478](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(f)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c2fb510f39fa1052d81dcc951781493e]: Textual amendment: Word in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2013/292/regulation/11/1) omitted (31.12.2020) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(9)(a)(i)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/9/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4739f7a448d9632b824247688f1fda99]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2013/292/regulation/11/1) substituted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(9)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b15a721a0a99e9cc5874a8581c4c6f69]: Textual amendment: [Reg. 11(1A)(1B)](https://www.legislation.gov.uk/ssi/2013/292/regulation/11/1A/1B) inserted by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(9)(b)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/9/b) (as substituted by [S.S.I. 2020/478](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(g)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/g)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4583e0d7be9daea2e34632517b97b1d8]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/ssi/2013/292/regulation/11/2/a) omitted (31.12.2020) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(9)(c)(i)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/9/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9e61281920654a486340c1c87d79e512]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/ssi/2013/292/regulation/11/2/a) inserted (31.12.2020) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [5(9)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/131/regulation/5/9/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-88b9307bda70c65e82b6217574b1cc25]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/292/schedule) inserted (31.3.2015) by [The National Health Service (Cross-Border Health Care) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/91)](https://www.legislation.gov.uk/ssi/2015/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/91/regulation/1/1), [2(1)(c)](https://www.legislation.gov.uk/ssi/2015/91/regulation/2/1/c)

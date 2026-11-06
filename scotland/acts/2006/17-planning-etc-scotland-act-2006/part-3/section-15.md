@@ -1,0 +1,67 @@
+---
+title: Planning etc. (Scotland) Act 2006, section 15
+act: Planning etc. (Scotland) Act 2006
+section: '15'
+status: revised
+text_date: '2021-06-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2006/17/section/15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning etc. (Scotland) Act 2006, section 15
+
+> Text as at 2021-06-30.
+>
+> Extent: Scotland.
+
+## 15. Additional grounds for declining to determine application for planning permission[^key-015f51f7cceb5b4eabfe9c4dc59da55a][^key-d4d7c5a98920eaeef800d44cc6118b8e]
+
+*Extent: S*
+
+Section 39 of the principal Act (power of planning authority to decline to determine application) is amended as follows—
+
+- (a) for subsection (1) substitute—
+
+  > (1) A planning authority may decline to determine an application (in this subsection referred to as the “**current application**”) for planning permission for the development of any land—
+  >
+  > - (a) if—
+  >   - (i) in the period of two years ending with the date on which the current application is received, the Scottish Ministers have refused a similar application referred to them under section 46 or have dismissed an appeal against the refusal of, or an appeal under section 47(2) in respect of, a similar application, and
+  >   - (ii) in the opinion of the authority there has not, since the Scottish Ministers refused the similar application or dismissed the appeal, been any significant change in the development plan (so far as material to the current application) or in any other material consideration,
+  > - (b) if—
+  >   - (i) in that period of two years the planning authority have refused more than one similar application,
+  >   - (ii) there has been no appeal to the Scottish Ministers against either (or as the case may be any) of those refusals, and
+  >   - (iii) in the opinion of the authority there has not, since the more (or as the case may be most) recent of the refusals, been any significant change in the development plan (so far as material to the current application) or in any other material consideration,
+  > - (c) if—
+  >   - (i) in that period of two years the planning authority have refused more than one similar application,
+  >   - (ii) there has been an appeal to the Scottish Ministers against either (or as the case may be any) of those refusals but as at the time the current application is received no such appeal has yet been determined, and
+  >   - (iii) in the opinion of the authority there has not, since the more (or as the case may be most) recent of the refusals, been any significant change in the development plan (so far as material to the current application) or in any other material consideration,
+  > - (d) if—
+  >   - (i) in that period of two years there have been appeals under section 47(2) in respect of more than one similar application but as at the time the current application is received no such appeal has yet been determined, and
+  >   - (ii) in the opinion of the authority there has not, since the more (or as the case may be most) recent of the appeals was made, been any significant change in the development plan (so far as material to the current application) or in any other material consideration, or
+  > - (e) if—
+  >   - (i) in that period of two years two similar applications have been made to the planning authority,
+  >   - (ii) the planning authority have refused one of those applications and there has been an appeal under section 47(2) in respect of the other but as at the time the current application is received the appeal under that section has yet to be determined as has the appeal (if any) against the refusal, and
+  >   - (iii) in the opinion of the authority there has not, since the refusal or since the appeal was made (whichever was the more recent), been any significant change in the development plan (so far as material to the current application) or in any other material consideration.
+  >
+  > (1A) A planning authority or the Scottish Ministers must decline to determine an application for planning permission for the development of any land if, in their opinion—
+  >
+  > - (a) compliance with section 35B was required as respects the development, and
+  > - (b) there has not been such compliance.
+  >
+  > (1B) But before deciding whether, under subsection (1A), an application must be declined the authority or as the case may be the Scottish Ministers may request the applicant to provide such additional information as they may specify.
+  >
+  > (1C) Where, under subsection (1A), a planning authority or the Scottish Ministers decline to determine an application they are to advise the applicant of the reason for their being of the opinion mentioned in that subsection.
+  >
+  > (1D) Subsection (1A) is subject to section 35A(9).
+
+  ,
+- (b) “ subsection (3) ” is repealed, and
+- (c) the title of the section becomes “**Declining to determine an application**”.
+
+## Annotations
+
+[^key-015f51f7cceb5b4eabfe9c4dc59da55a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2006/17/section/15) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+
+[^key-d4d7c5a98920eaeef800d44cc6118b8e]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2006/17/section/15) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

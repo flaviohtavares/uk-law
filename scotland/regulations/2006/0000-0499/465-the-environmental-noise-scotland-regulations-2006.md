@@ -1,0 +1,837 @@
+---
+title: The Environmental Noise (Scotland) Regulations 2006
+id: ssi/2006/465
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-09-12'
+text_date: '2022-06-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2006/465
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2006/465/pdfs/ssien_20060465_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/465/pdfs/ssi_20060465_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/465/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Noise (Scotland) Regulations 2006
+
+> Text as at 2022-06-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2006 No. 465
+
+ENVIRONMENTAL PROTECTION
+
+The Environmental Noise (Scotland) Regulations 2006
+
+Made
+
+12th September 2006
+
+Laid before the Scottish Parliament
+
+13th September 2006
+
+Coming into force
+
+5th October 2006
+
+The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and extent[^key-72c9184a22daf70448e4ea38ca69fe97]
+
+(1) These Regulations may be cited as the Environmental Noise (Scotland) Regulations 2006 and shall come into force on 5th October 2006.
+
+(2) These Regulations extend to Scotland only.
+
+(3) Nothing in paragraph (2) means that strategic noise maps made or revised under these Regulations must be limited to Scotland.
+
+### 2. Application[^key-bf269ca1fb7a9db507a6dbf741254c00]
+
+(1) These Regulations apply to environmental noise to which humans are exposed in particular in built up areas, in public parks or other quiet areas in an agglomeration, near schools, hospitals and other noise sensitive buildings and areas.
+
+(2) These Regulations do not apply to noise that is caused by the person exposed to the noise, noise from domestic activities, noise created by neighbours, noise at work places or noise inside means of transport or due to military activities in military areas.
+
+### 3. Interpretation[^key-25169c6bb2f13ae35617bd6bf142d2dd]
+
+(1) Unless otherwise defined in these Regulations, words and terms used in these Regulations and in the Directive shall have the meaning given in the Directive.
+
+(2) In these Regulations–
+
+- “agglomeration” means an urbanised area having a population in excess of 100,000 people and a population density equal to or greater than 500 people per km2 and which is shown on a map or plan prepared and published by the Scottish Ministers in accordance with regulation 4;
+- “airport” means a civil airport;
+- “airport operator” means the person for the time being having, in relation to a particular airport, the management of that airport;
+- “calendar year” means a period of a year beginning on the 1st January;
+- “dB(A)” is a measure of sound pressure level (“A” weighted) in decibels as specified in British Standard BS EN 61672 2:2003[^f00002];
+- “Directive” means[^key-0b0670ddc1fac3bb540e0e17c0b2b328] [Directive 2002/49/EC](https://www.legislation.gov.uk/european/directive/2002/0049) of the European Parliament and of the Council relating to the assessment and management of environmental noise
+- “first round agglomeration” means an urbanised area having a population in excess of 250,000 people and a population density equal to or greater than 500 people per km2 and which is shown on a map or plan prepared and published by the Scottish Ministers in accordance with regulation 4;
+- “first round major railway” means a railway having more than 60,000 train passages per year and which is shown on a map or plan prepared and published by the Scottish Ministers in accordance with regulation 4;
+- “first round major road” means a road having more than 6 million vehicle passages per year which is–
+  - (a) designated by the letter “A” followed by a number; or
+  - (b) a special road within the meaning of section 7 of the Roads (Scotland) Act 1984[^f00004],
+
+  and which is shown on a map or plan prepared and published by the Scottish Ministers in accordance with regulation 4;
+- “L<sub>day</sub>” has the meaning given in Article 3 and Annex I to the Directive and covers the period 0700 – 1900 hours in any 24 hour period;
+- “L<sub>evening</sub>” has the meaning given in Article 3 and Annex I to the Directive and covers the period 1900 – 2300 hours in any 24 hour period;
+- “L<sub>night</sub>” has the meaning given in Article 3 and Annex I to the Directive and covers the period 2300 – 0700 hours in any 24 hour period;
+- “L<sub>den</sub>” has the meaning given in Article 3 and Annex I to the Directive;
+- “major airport” means a civil airport having more than 50,000 movements per year (a movement being a take off or a landing) excluding those purely for training purposes on light aircraft, and which is shown on a map or plan prepared and published by the Scottish Ministers in accordance with regulation 4;
+- “major road” means a road having more than 3 million vehicle passages per year which is–
+  - (a) designated by the letter “A” followed by a number; or
+  - (b) a special road within the meaning of section 7 of the Roads (Scotland) Act 1984,
+
+  and which is shown on a map or plan prepared and published by the Scottish Ministers in accordance with regulation 4;
+- “major railway” means a railway having more than 30,000 train passages per year and which is shown on a map or plan prepared and published by the Scottish Ministers in accordance with regulation 4;
+- “quiet area in an agglomeration” and “quiet area in a first round agglomeration” mean an area shown on a map or plan prepared and published by the Scottish Ministers in accordance with regulation 4.
+
+### 4. Maps identifying noise sources and quiet areas[^key-a3e6ca346f8086508d6181e4a0bfb3a5]
+
+(1) The Scottish Ministers shall prepare maps or plans showing–
+
+- (a) first round agglomerations;
+- (b) first round major roads;
+- (c) first round major railways;
+- (d) major airports;
+- (e) agglomerations;
+- (f) major roads;
+- (g) major railways; and
+- (h) quiet areas in first round agglomerations and in agglomerations.
+
+(2) Every 5 years the Scottish Ministers–
+
+- (a) shall review maps or plans prepared pursuant to paragraph (1); and
+- (b) where they consider that such maps or plans are no longer appropriate, shall modify them as necessary.
+
+(3) Certified copies of maps or plans prepared pursuant to paragraph (1) or modified pursuant to paragraph (2)–
+
+- (a) shall be made available for inspection at such times and in such places as the Scottish Ministers may determine, and information on when and where such copies may be inspected shall be published by the Scottish Ministers in such a manner as they may determine;
+- (b) may be published on a website and in such other manner as the Scottish Ministers consider appropriate; and
+- (c) shall be provided by the Scottish Ministers, on request and for a reasonable charge.
+
+## PART 2 — STRATEGIC NOISE MAPS
+
+### CHAPTER 1 — GENERAL REQUIREMENTS FOR STRATEGIC NOISE MAPS
+
+#### 5. Strategic noise maps: general requirements[^key-55936e4937dcc91061008380c0a38f47]
+
+(1) Any strategic noise map made or revised under this Part shall satisfy the applicable requirements in Schedule 1.
+
+(2) A competent authority under regulation 6 or 8 shall apply–
+
+- (a) the noise indicators L<sub>den</sub> and <sub>night</sub> in accordance with Annex I to the Directive; and
+- (b) the supplementary noise indicators [^key-4388044a6ca7233857f5e8a9235d2f0c]...,
+
+when making or revising strategic noise maps under this Part.
+
+(3) The values of L<sub>den</sub>, <sub>night</sub> and the supplementary noise indicators shall be determined by computation (at the assessment position) and by means of the assessment methods set out in the Annex[^key-1866d253a7e3727dcdb7d388a23f352c] II to the Directive.
+
+(3A)[^key-ed221ffb2903393e4d53f35602f76402] In paragraph (3), “assessment position” means the assessment height in paragraph 7 of Annex IV to the Directive
+
+(4)[^key-e6004620c3d42b8bb16b0548134687c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-e6004620c3d42b8bb16b0548134687c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) “Supplementary noise indicator” means a noise indicator as defined in Schedule 3.
+
+### CHAPTER 2 — STRATEGIC NOISE MAPS – NOISE SOURCES OTHER THAN AIRPORTS
+
+#### 6. Application and Competent Authority[^key-361e78cb123ec3a7d873e8c050ae87ae]
+
+This Chapter does not apply to noise from airports and the competent authority for this Chapter is the Scottish Ministers.
+
+#### 7. Duty to make, review and revise strategic noise maps[^key-057906d436baff8b00bf7fc16be36fbb]
+
+(1) No later than 30th June 2007 the competent authority shall make and, in accordance with regulation 21, adopt strategic noise maps showing the situation in the preceding calendar year for all–
+
+- (a) first round agglomerations;
+- (b) first round major roads; and
+- (c) first round major railways.
+
+(2) No later than 30th June 2012, and thereafter every 5 years, the competent authority shall make and, in accordance with regulation 21, adopt strategic noise maps showing the situation in the preceding calendar year for all–
+
+- (a) agglomerations;
+- (b) major roads; and
+- (c) major railways.
+
+(3) Every 5 years, and whenever a major development occurs affecting the existing noise situation, the competent authority shall–
+
+- (a) review; and
+- (b) if necessary, revise
+
+any strategic noise map made pursuant to paragraphs (1) or (2) and adopted pursuant to regulation 21.
+
+### CHAPTER 3 — STRATEGIC NOISE MAPS – AIRPORTS
+
+#### 8. Application and Competent Authority[^key-f4ef773ff07c2a80961f3de3f9a0e802]
+
+This Chapter applies to noise from airports and the competent authority for this Chapter is the airport operator.
+
+#### 9. Interpretation[^key-0ae073372b3ad3df6d50d7e8f909e994]
+
+(1) In this Chapter–
+
+- “input data” means all the data and related information used to produce the numerical data in electronic form required by paragraph 3(2)(b) or 4(2)(b) (as appropriate) of Schedule 1;
+- “metadata” means such elements of Section 2 of the “SPIRE Data Standard, Version 1.0” (DEFRA, 25th November 2004)[^f00005] as are required to describe the–
+  - (a) input data; and
+  - (b) information and data required by paragraph 3(2) or 4(2) (as appropriate) of Schedule 1.
+
+(2) Any requirement in this Chapter to submit input data to the Scottish Ministers is a requirement to submit that input data in a format that–
+
+- (a) is electronic;
+- (b) allows electronic manipulation; and
+- (c) does not require manipulation in order to reproduce the numerical data in electronic form required by paragraph 3(2)(b) or 4(2)(b) (as appropriate) of Schedule 1.
+
+#### 10. Duty to make, review and revise strategic noise maps: major airports[^key-7514a7484eaa193e1653675370d94e9e]
+
+(1) This regulation applies to major airports.
+
+(2) No later than 31st March 2007, and thereafter every 5 years, the competent authority shall–
+
+- (a) make a strategic noise map showing the situation in the preceding calendar year for the airport; and
+- (b) submit that map with input data and metadata to the Scottish Ministers.
+
+(3) Every 5 years, and whenever a major development occurs affecting the existing noise situation, the competent authority shall–
+
+- (a) review; and
+- (b) if necessary, revise
+
+any strategic noise map made pursuant to paragraph (2) and adopted pursuant to regulation 21.
+
+(4) The competent authority shall submit any strategic noise map revised pursuant to paragraph (3)(b), with input data and metadata, to the Scottish Ministers within 3 working days of its revision.
+
+#### 11. Duty to make, review and revise strategic noise maps: other airports[^key-5261dd86ff67ad8ee9daaf7cdeae7132]
+
+(1) This regulation applies to airports other than major airports.
+
+(2) Where air traffic from the airport results in air traffic noise anywhere within a first round agglomeration, no later than 31st March 2007 the competent authority shall, in relation to that noise–
+
+- (a) make a strategic noise map showing the situation in the preceding calendar year for the first round agglomeration; and
+- (b) submit that map with input data and metadata to the Scottish Ministers.
+
+(3) Where air traffic from the airport results in air traffic noise anywhere within an agglomeration, no later than 31st March 2012 and thereafter every 5 years, the competent authority shall, in relation to that noise–
+
+- (a) make a strategic noise map showing the situation in the preceding calendar year for the agglomeration; and
+- (b) submit that map with input data and metadata to the Scottish Ministers.
+
+(4) Every 5 years, and whenever a major development occurs affecting the existing noise situation, the competent authority shall–
+
+- (a) review; and
+- (b) if necessary, revise
+
+any strategic noise map made pursuant to paragraphs (2) or (3) and adopted pursuant to regulation 21.
+
+(5) The competent authority shall submit any strategic noise map revised pursuant to paragraph (4)(b), with input data and metadata, to the Scottish Ministers within 3 working days of its revision.
+
+## PART 3 — ACTION PLANS
+
+### CHAPTER 1 — GENERAL
+
+#### 12. Duty to issue guidance on action plans and consolidated noise maps[^key-e28cea62a1e26cdf69700c12fc31cd2b]
+
+(1) No later than 18th July 2007 the Scottish Ministers shall issue guidance on the preparation and content of action plans.
+
+(2) The Scottish Ministers shall compile a consolidated noise map comprising all strategic noise maps that are adopted from time to time pursuant to regulation 21.
+
+#### 13. Action plans: general requirements[^key-a4d1a364c82dd21a4e38df4f2cd55e54]
+
+(1) Any action plan drawn up or revised under this Part shall–
+
+- (a) meet the objectives of–
+  - (i) preventing and reducing environmental noise where necessary and in particular where exposure levels can induce harmful effects on human health; and
+  - (ii) preserving environmental noise quality where it is good;
+- (b) be designed to manage noise issues and effects, including noise reduction if necessary;
+- (c) aim to protect quiet areas in first round agglomerations and agglomerations, as appropriate, against an increase in noise;
+- (d) identify and address priorities for meeting the objectives set out in sub-paragraph (a);
+- (e) apply in particular to the most important areas as established by strategic noise maps adopted pursuant to regulation 21; and
+- (f) meet the requirements in Schedule 4.
+
+(2) Paragraph (3) applies to–
+
+- (a) any action plan; and
+- (b) any revision of an action plan,
+
+drawn up under this Part for a first round agglomeration or an agglomeration.
+
+(3) Any action plan and any revision of an action plan shall be based upon and apply in particular to the most important areas as established by–
+
+- (a) all strategic noise maps that–
+  - (i) are adopted pursuant to regulation 21; and
+  - (ii) concern any part of the area addressed by the action plan; and
+- (b) a consolidated noise map compiled pursuant to regulation 12(2) to the extent that it concerns any part of the area addressed by the action plan.
+
+### CHAPTER 2 — ACTION PLANS – NOISE SOURCES OTHER THAN AIRPORTS
+
+#### 14. Competent Authority[^key-a222d2e6631013ffbeae494c69bc4090]
+
+The competent authority for this Chapter is the Scottish Ministers.
+
+#### 15. Duty to draw up, review and revise action plans[^key-1bf38f54d8256cbc4e2a627f7fc31b78]
+
+(1) No later than 18th July 2008 the competent authority shall draw up action plans for–
+
+- (a) places near first round major roads;
+- (b) places near first round major railways; and
+- (c) first round agglomerations.
+
+(2) No later than 18th July 2013 the competent authority shall draw up action plans for–
+
+- (a) places near major roads;
+- (b) places near major railways; and
+- (c) agglomerations.
+
+(3) Every 5 years, and whenever a major development occurs affecting the existing noise situation, the competent authority shall–
+
+- (a) review; and
+- (b) if necessary, revise,
+
+action plans drawn up pursuant to paragraphs (1) or (2) and adopted pursuant to regulation 22.
+
+### CHAPTER 3 — ACTION PLANS – AIRPORTS
+
+#### 16. Application and Competent Authority[^key-fd8740d4e96badcb3d68c965926d30b6]
+
+This Chapter applies to noise from–
+
+- (a) major airports; and
+- (b) other airports where air traffic from the airport results in air traffic noise of an L<sub>den</sub> value of 55 dB(A) or greater or an <sub>night</sub> value of 50 dB(A) or greater anywhere in first round agglomerations or agglomerations,
+
+and the competent authority is the airport operator.
+
+#### 17. Duty to draw up, review and revise action plans[^key-5fe9d138aa8c2a6fc26e9aebae2eedfe]
+
+(1) No later than 30th April 2008 the competent authority shall–
+
+- (a) draw up an action plan for places near the airport; and
+- (b) submit that action plan to the Scottish Ministers.
+
+(2) If the competent authority was not required to draw up an action plan pursuant to paragraph (1), no later than 30th April 2013 the competent authority shall–
+
+- (a) draw up an action plan for places near the airport; and
+- (b) submit that action plan to the Scottish Ministers.
+
+(3) Every 5 years, and whenever a major development occurs affecting the existing noise situation, the competent authority shall–
+
+- (a) review; and
+- (b) if necessary, revise,
+
+action plans drawn up pursuant to paragraphs (1) or (2) and adopted pursuant to regulation 22.
+
+(4) An action plan revised pursuant to paragraph (3) shall be submitted to the Scottish Ministers within 3 working days of its revision.
+
+### CHAPTER 4 — ACTION PLANS – PUBLIC PARTICIPATION
+
+#### 18. Public participation[^key-19e97c44ea0252eb4c1e17688c370ac4]
+
+In preparing and revising action plans the competent authorities under regulations 14 and 16 shall ensure that–
+
+- (a) the public is consulted about proposals for action plans;
+- (b) the public is given early and effective opportunities to participate in the preparation and review of the action plans;
+- (c) the results of that public participation are taken into account;
+- (d) the public is informed of the decisions taken; and
+- (e) reasonable time frames are provided allowing sufficient time for each stage of public participation.
+
+### CHAPTER 5 — IMPLEMENTATION OF ACTION PLANS
+
+#### 19. Implementation of action plans[^key-3510eef690f662e94e7428e0038faad4]
+
+(1) Subject to paragraphs (2) and (3), where an action plan–
+
+- (a) has been adopted pursuant to regulation 22; and
+- (b) identifies a particular public authority as responsible for a particular action,
+
+that public authority shall use all reasonable endeavours to take that action.
+
+(2) Paragraph (1) shall not have effect where a public authority, other than the Scottish Ministers–
+
+- (a) provides the Scottish Ministers and the competent authority (if not the Scottish Ministers) responsible for preparation of the action plan with written reasons for being unable to take the action for which it has been designated as responsible; and
+- (b) it publishes those reasons.
+
+(3) Paragraph (1) shall not have effect where the Scottish Ministers–
+
+- (a) are the public authority identified in an action plan as responsible for a particular action; and
+- (b) publish reasons for being unable to take the action for which they have been identified as responsible.
+
+(4) In this regulation “public authority” includes any person who exercises functions of a public nature, but does not include–
+
+- (a) the Scottish Parliament or a person exercising functions in connection with proceedings in the Scottish Parliament; or
+- (b) any person discharging or purporting to discharge any responsibilities of a judicial nature vested in that person, or a person discharging responsibilities in connection with the execution of judicial process.
+
+## PART 4 — COOPERATION WITH EXTERNAL COMPETENT AUTHORITIES
+
+### 20. Co operation with external competent authorities[^key-58389cb82e13719b5bef217b55ee487c]
+
+(1) A competent authority under these Regulations (which shall include the Scottish Ministers for the purposes of their functions under Part 5 of these Regulations) shall co operate with an external competent authority–
+
+- (a) when necessary in order to meet its obligations under these Regulations; [^key-48b5a87b775dab537289c0a410674721]...
+- (b)[^key-1bc2f281703cb82a0f116d8f27617e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-bde8ab40aca82d03bbcbd3b33ea542e0] In this Part, “**external competent authority**” means a competent authority specified in relation to England, Northern Ireland or Wales in accordance with—
+
+- (a) the Environmental Noise (England) Regulations 2006,
+- (b) the Environmental Noise Regulations (Northern Ireland) 2006, or
+- (c) the Environmental Noise (Wales) Regulations 2006.
+
+## PART 5 — ADOPTION OF STRATEGIC NOISE MAPS AND ACTION PLANS
+
+### 21. Adoption of strategic noise maps[^key-0876c8688cc735b7730f40e5bd99ea54]
+
+(1) If the Scottish Ministers consider that a strategic noise map–
+
+- (a) submitted to them pursuant to regulation 10 or 11;
+- (b) submitted to them pursuant to paragraph (4); or
+- (c) made or revised by them,
+
+meets the requirements of regulation 5, they shall adopt the map.
+
+(2) If the Scottish Ministers consider that a strategic noise map submitted to them pursuant to regulation 10 or 11 or paragraph (4) does not meet the requirements of regulation 5 they shall–
+
+- (a) amend and adopt the map; or
+- (b) reject the map.
+
+(3) If a strategic noise map is rejected pursuant to paragraph (2)(b) the Scottish Ministers shall notify the competent authority that submitted it of–
+
+- (a) the reasons why the map was not adopted; and
+- (b) the date by which the map shall be revised and resubmitted.
+
+(4) The recipient of a notification under paragraph (3) shall submit the revised strategic noise map to the Scottish Ministers by the date specified in the notification.
+
+(5) If the Scottish Ministers amend a strategic noise map–
+
+- (a) submitted to them pursuant to regulation 10 or 11; or
+- (b) submitted to them pursuant to paragraph (4),
+
+they shall take such steps as they consider appropriate for ensuring that the map complies with the requirements of regulation 5.
+
+### 22. Adoption of action plans[^key-d56ae0f1a67752855c4a6849940252a4]
+
+(1) If the Scottish Ministers consider that an action plan–
+
+- (a) submitted to them pursuant to regulation 17(1)(b), 17(2)(b) or 17(4);
+- (b) submitted to them pursuant to paragraph (5); or
+- (c) drawn up or revised by them,
+
+meets the requirements of regulation 13, they may adopt the action plan.
+
+(2) Paragraph (3) applies if–
+
+- (a) the Scottish Ministers consider that an action plan submitted to them pursuant to regulation 17(1)(b), 17(2)(b) or 17(4) does not meet the requirements of regulation 13; or
+- (b) an action plan is not adopted pursuant to paragraph (1).
+
+(3) Where this paragraph applies the Scottish Ministers shall–
+
+- (a) amend and adopt the plan; or
+- (b) reject the plan.
+
+(4) If an action plan is rejected pursuant to paragraph (3)(b) the Scottish Ministers shall notify the competent authority that submitted it of–
+
+- (a) the reasons why the plan was not adopted; and
+- (b) the date by which the plan shall be revised and resubmitted.
+
+(5) The recipient of a notification under paragraph (4) shall submit the revised action plan to the Scottish Ministers by the date specified in the notification.
+
+(6) If the Scottish Ministers amend an action plan–
+
+- (a) submitted to them pursuant to regulation 17(1)(b), 17(2)(b) or 17(4); or
+- (b) submitted to them pursuant to paragraph (5),
+
+they shall take such steps as they consider appropriate for ensuring that the action plan complies with the requirements of these Regulations.
+
+## PART 6 — POWERS OF THE SCOTTISH MINISTERS IN RELATION TO THE FUNCTIONS OF OTHER COMPETENT AUTHORITIES
+
+### 23. Application[^key-c1e0caa273f08e81e0be85d91abc9012]
+
+This Part applies to any functions under these Regulations exercised by a competent authority other than the Scottish Ministers.
+
+### 24. Powers of the Scottish Ministers[^key-6d3341401a4b61b073224f674a71cb1d]
+
+(1) The Scottish Ministers may at any time require a competent authority to provide information in relation to its functions under these Regulations.
+
+(2) A request for information pursuant to paragraph (1)–
+
+- (a) shall be made in writing;
+- (b) may specify the format in which information shall be provided; and
+- (c) may specify the period of time within which a response shall be received.
+
+(3) If a competent authority receives a request pursuant to paragraph (1) it shall respond–
+
+- (a) within the time period specified pursuant to paragraph (2)(c); or
+- (b) if no such period is specified, within 14 days of receipt of the request.
+
+(4) Where–
+
+- (a) the Scottish Ministers have consulted the competent authority; and
+- (b) they consider that by reason of any act or omission, or any likely act or omission, by the competent authority–
+  - (i) a requirement of these Regulations; [^key-8b94a525cd8662ac5a2bc2c98f05b6b6]...
+  - (ii)[^key-409d77a82730ec78d02576878fa65418] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+  is unlikely to be met, the Scottish Ministers may exercise such of the functions of the competent authority as they consider appropriate.
+
+### 25. Recovery of expenses[^key-792889a8e289474d4ed674a2d991baac]
+
+(1) Where the Scottish Ministers incur expenses pursuant to–
+
+- (a) regulation 21(2);
+- (b) regulation 22(3);
+- (c) regulation 24(1); or
+- (d) regulation 24(4),
+
+they may recover those expenses from the relevant competent authority.
+
+(2) In this regulation “relevant competent authority” means–
+
+- (a) in relation to regulation 21(2), the competent authority that submitted the strategic noise map pursuant to regulation 10 or 11;
+- (b) in relation to regulation 22(3), the competent authority that submitted the action plan pursuant to regulation 17;
+- (c) in relation to regulation 24(1), the competent authority required to provide information to the Scottish Ministers pursuant to that regulation; and
+- (d) in relation to regulation 24(4), the competent authority whose functions the Scottish Ministers exercise pursuant to that regulation.
+
+## PART 7 — INFORMATION TO THE PUBLIC AND GUIDANCE
+
+### 26. Availability of strategic noise maps, consolidated noise maps and action plans[^key-64bb7c533c0af2102de94608f2412b4f]
+
+(1) Any–
+
+- (a) strategic noise map that is made available to the public before it is adopted pursuant to regulation 21; or
+- (b) action plan that is made available to the public before it is adopted pursuant to regulation 22,
+
+shall include prominently displayed wording identifying it as a draft subject to adoption by the Scottish Ministers.
+
+(2) Any–
+
+- (a) strategic noise map adopted pursuant to regulation 21;
+- (b) consolidated noise map compiled pursuant to regulation 12(2); or
+- (c) action plan adopted pursuant to regulation 22,
+
+shall be published by the Scottish Ministers in accordance with the requirements of paragraph (3).
+
+(3) Any strategic noise map, consolidated noise map or action plan published pursuant to paragraph (2) shall be accompanied by a summary setting out the most important points.
+
+(4) Certified copies of such strategic noise maps, consolidated noise maps and action plans–
+
+- (a) shall be made available for inspection at such times and in such places as the Scottish Ministers may determine, and information on when and where such copies may be inspected shall be published by the Scottish Ministers in such a manner as they may determine;
+- (b) may be published on a website and in such other manner as the Scottish Ministers consider appropriate; and
+- (c) shall be provided by the Scottish Ministers, on request and for a reasonable charge.
+
+### 27. Guidance[^key-70f1b9d85114e600b21821c414715260]
+
+(1) The Scottish Ministers may from time to time issue such guidance as they consider appropriate in relation to the operation of these Regulations.
+
+(2) Any person having functions under these Regulations shall have regard to such guidance.
+
+RHONA BRANKIN
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE 1 — MINIMUM REQUIREMENTS FOR STRATEGIC NOISE MAPPING
+
+Regulations 5 and 9
+
+### 1. Interpretation[^key-815c8883bf7a98ca5bc1f91ec937620e]
+
+In this Schedule–
+
+- “editable” means in a format that allows (without the need for manipulation) the electronic production of–
+  - (a) numerical data in tables; and
+  - (b) graphical plots,
+
+  to display the information described in paragraphs 1.5, 1.6, 1.7, 2.5, 2.6 and 2.7 of Annex VI to the Directive;
+- “grid” means a grid of vector points which are–
+  - (a) at 10 metre by 10 metre intervals;
+  - (b) spatially referenced to the British National Grid reference system used by the Ordnance Survey as a pair of integers to show Eastings then Northings in metres from the origin; and
+  - (c) aligned with the 10 metre vertices of the British National Grid reference system used by the Ordnance Survey so that references finish with the number 0.
+
+### 2. General requirements for strategic noise maps[^key-f05697939b68e6c0d79e322b5b1b0885]
+
+(1) Strategic noise maps and their revisions shall–
+
+- (a) satisfy the minimum requirements laid down in Annex IV to the Directive; and
+- (b) be clear and comprehensible.
+
+(2)[^key-f290e253bd0a31014b6327ba2e1789b4] In applying sub-paragraph (1)(a)—
+
+- (a) any reference in Annex IV to the Directive to—
+  - (i) Article 8 of the Directive is to be read as a reference to regulations 13, 15 and 17 of these Regulations,
+  - (ii) Article 9 of the Directive is to be read as a reference to regulation 26 of these Regulations,
+- (b) in paragraph 4 of Annex IV to the Directive, the words “the provision of the data to be sent to the Commission in accordance with Article 10(2) and Annex VI” are to be disregarded, and
+- (c) paragraph 5 of Annex IV to the Directive is to be disregarded.
+
+### 3. Requirements for strategic noise maps for agglomerations[^key-c33e28b597c7f387c1aad89c8f58a153]
+
+(1) This paragraph applies only to–
+
+- (a) a strategic noise map made under regulation 7(1)(a), 7(2)(a), 11(2) or 11(3); or
+- (b) a revision of such a strategic noise map.
+
+(2) Strategic noise maps shall–
+
+- (a) include the information (in electronic format) described in paragraphs 1.1 to 1.4 inclusive of Annex VI to the Directive; and
+- (b) include editable numerical data in electronic form containing the values of L<sub>den</sub>, <sub>night</sub> and the supplementary noise indicators on a grid.
+
+### 4. Requirements for strategic noise maps for major roads, major railways and major airports[^key-cb8327927c82d1be176ec41f08579427]
+
+(1) This paragraph applies only to–
+
+- (a) any strategic noise map made under–
+  - (i) regulation 7(1)(b) or (c),
+  - (ii) regulation 7(2)(b) or (c),
+  - (iii) regulation 10(2); or
+- (b) any revision of such a map.
+
+(2) Strategic noise maps shall–
+
+- (a) include the information (in electronic format) described in paragraphs 2.1 to 2.4 inclusive of Annex VI to the Directive; and
+- (b) include editable numerical data in electronic form containing the values of L<sub>den</sub>, <sub>night</sub> and the supplementary noise indicators on a grid.
+
+## SCHEDULE 2 — ASSESSMENT METHODS FOR THE NOISE INDICATORS[^key-4ae662a62934085eef0ab0ee87510ccc]
+
+**No longer in force.**
+
+Regulation 5
+
+### 1. Introduction[^key-4ae662a62934085eef0ab0ee87510ccc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Assessment method for road traffic noise indicators[^key-4ae662a62934085eef0ab0ee87510ccc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Assessment method for railway noise indicators[^key-4ae662a62934085eef0ab0ee87510ccc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Assessment methods for aircraft noise indicators[^key-4ae662a62934085eef0ab0ee87510ccc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Assessment methods for industrial noise indicators and port noise indicators[^key-4ae662a62934085eef0ab0ee87510ccc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — SUPPLEMENTARY NOISE INDICATORS
+
+Regulation 5
+
+### 1. Interpretation[^key-8efe05606636148ec8879a517ce83c22]
+
+In this Schedule–
+
+- [^key-85b27c74ada7c2080d09b3872fd5bb6a]...<sub></sub>
+- “L<sub>Aeq,16h</sub>” is the equivalent continuous sound level in dB(A) that, over the period 07:00 – 23:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period;
+- “L<sub>Aeq,18h</sub>” is the equivalent continuous sound level in dB(A) that, over the period 06:00 – 24:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period; and
+- “L<sub>Aeq,6h</sub>” is the equivalent continuous sound level in dB(A) that, over the period 24:00 – 06:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period.
+
+### 2. Road Traffic Noise[^key-d42029bc3c73d57ccbd43891f0bd1e16]
+
+The supplementary noise indicators in relation to road traffic noise are–
+
+- (a)[^key-01567598f7c3ac7bca99a684dc8508a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) L<sub>Aeq,16h</sub>;
+- (c) L<sub>day</sub>; and
+- (d) L<sub>evening</sub>.
+
+### 3. Railway Noise[^key-4a1cb561673cfcc6a82a2083478d4d0c]
+
+The supplementary noise indicators in relation to railway noise are–
+
+- (a) L<sub>Aeq,16h</sub>;
+- (b) L<sub>Aeq,18h</sub>;
+- (c) L<sub>Aeq,6h</sub>;
+- (d) L<sub>day</sub>; and
+- (e) L<sub>evening</sub>.
+
+### 4. Aircraft Noise[^key-b4cbde9d2f5a4eed529bb3d5e1b335fa]
+
+The supplementary noise indicators in relation to aircraft noise are–
+
+- (a) L<sub>Aeq,16h</sub>;
+- (b) L<sub>day</sub>; and
+- (c) L<sub>evening</sub>.
+
+### 5. Industrial Noise and Port Noise[^key-bde0417508362d30eb763981b2a3c74d]
+
+The supplementary noise indicators in relation to industrial noise and port noise are–
+
+- (a) L<sub>Aeq,16h</sub>;
+- (b) L<sub>day</sub>; and
+- (c) L<sub>evening</sub>.
+
+## SCHEDULE 4 — MINIMUM REQUIREMENTS FOR ACTION PLANS
+
+Regulation 13
+
+### 1. General[^key-ff28610107e11ef699183ed291f4e9ad]
+
+(1) An action plan shall–
+
+- (a) meet the minimum requirements of Annex V to the Directive;
+- (b) contain a summary covering all the important aspects referred to in Annex V to the Directive, not exceeding 10 pages in length; and
+- (c) be clear and comprehensible.
+
+(2) In applying sub-paragraph (1) any reference in Annex V to the Directive to–
+
+- (a) Article 5 of the Directive shall be taken to be a reference to regulation 5 of these Regulations;
+- (b) Article 8(7) of the Directive shall be taken to be a reference to regulation 18 of these Regulations.
+
+(This note is not part of the Regulations)
+
+These Regulations implement Directive [2002/49/EC](https://www.legislation.gov.uk/european/directive/2002/0049) of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise (O.J. No. L 189, 18.07.02, p. 12) (“the Directive”). They extend to Scotland only.
+
+Regulation 4 requires the Scottish Ministers to prepare maps or plans showing the noise sources for which strategic noise maps shall be made, and showing quiet areas in first round agglomerations and in agglomerations. Regulation 7 requires the Scottish Ministers to make strategic noise maps for agglomerations, major roads and major railways for noise sources other than airports. Every 5 years and whenever a major development occurs, the Scottish Ministers shall review (and if necessary, revise) those strategic noise maps.
+
+Regulations 10 and 11 require airport operators to make strategic noise maps for airports. Strategic noise maps shall be made for: (i) all major airports; and (ii) air traffic noise in agglomerations arising from other airports. Those strategic noise maps shall be reviewed (and revised if necessary) every 5 years and whenever a major development occurs. Once made, strategic noise maps (or their revisions) shall be submitted to the Scottish Ministers for adoption.
+
+All strategic noise maps shall meet the requirements set out in regulation 5.
+
+Regulation 5 and Schedule 3 specify which noise indicators and supplementary noise indicators shall be used in making the strategic noise maps. Schedule 2 sets out the assessment methods to be used in calculating the values of noise indicators. Different methods are specified for each noise source.
+
+Regulation 12 requires the Scottish Ministers to publish guidance on the preparation and content of action plans. It also requires the Scottish Ministers to compile and publish a consolidated noise map.
+
+Regulation 13 sets out the requirements for action plans.
+
+Regulation 15 requires the Scottish Ministers to draw up action plans for places near to major roads and major railways, and for first round agglomerations and agglomerations. The Scottish Ministers shall review (and revise, if necessary) such action plans every 5 years, or sooner if a major development occurs.
+
+Regulation 17 requires airport operators to draw up action plans in relation to major airports and other airports (if air traffic noise from those airports results in a value of 55 L<sub>den</sub> or 50 <sub>night</sub> anywhere in agglomerations). The airport operator shall review (and revise, if necessary) such action plans every 5 years, or sooner if a major development occurs. Once drawn up or revised, action plans shall be submitted to the Scottish Ministers for adoption.
+
+Regulation 18 specifies the public participation required during the preparation and revision of action plans.
+
+Regulation 19 requires public authorities to use all reasonable endeavours to take actions for which they have been identified as responsible in action plans. Where they are unable to take such actions, they shall provide written reasons for being unable to do so.
+
+Regulation 20 requires competent authorities in Scotland to co-operate with their counterparts in England, Northern Ireland and Wales when necessary to do so in order to meet obligations under these Regulations or the Directive.
+
+Regulations 21 and 22 set out the mechanism by which the Scottish Ministers adopt strategic noise maps and action plans respectively.
+
+Regulation 24 provides the Scottish Ministers with the power to require competent authorities to provide information in relation to their functions under the Regulations or to step in and carry out the functions of competent authorities under specified circumstances.
+
+Regulation 25 gives the Scottish Ministers power to reclaim certain expenses from competent authorities.
+
+Regulation 26 sets out requirements for the publication of consolidated noise maps compiled by and strategic noise maps and action plans approved by the Scottish Ministers.
+
+Regulation 27 gives the Scottish Ministers power to issue guidance relating to the operation of the Regulations, and requires any person having functions under the Regulations to have regard to such guidance.
+
+A Regulatory Impact Assessment has been prepared and placed in the library of the Scottish Parliament. A copy can be obtained from the Climate Change and Air Division, Scottish Executive Environment and Rural Affairs Department (SEERAD), Victoria Quay, Leith, Edinburgh, EH6 6QQ.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) of the 1972 Act was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8 paragraph 15(3). The function conferred on the Minister of the Crown was, in so far as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^key-72c9184a22daf70448e4ea38ca69fe97]: Commencement: Reg. 1 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-bf269ca1fb7a9db507a6dbf741254c00]: Commencement: Reg. 2 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-25169c6bb2f13ae35617bd6bf142d2dd]: Commencement: Reg. 3 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^f00002]: Footnote: ISBN 0-580-42224-0.
+
+[^key-0b0670ddc1fac3bb540e0e17c0b2b328]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2006/465/regulation/3/2) substituted (31.12.2018) by [The Environmental Noise (Scotland) Amendment Regulations 2018 (S.S.I. 2018/342)](https://www.legislation.gov.uk/ssi/2018/342), [regs. 1](https://www.legislation.gov.uk/ssi/2018/342/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2018/342/regulation/2/1)
+
+[^f00004]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54). There are amendments to section 7 not relevant to these Regulations.
+
+[^key-a3e6ca346f8086508d6181e4a0bfb3a5]: Commencement: Reg. 4 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-55936e4937dcc91061008380c0a38f47]: Commencement: Reg. 5 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-4388044a6ca7233857f5e8a9235d2f0c]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/ssi/2006/465/regulation/5/2/b) omitted (31.12.2018) by virtue of [The Environmental Noise (Scotland) Amendment Regulations 2018 (S.S.I. 2018/342)](https://www.legislation.gov.uk/ssi/2018/342), [regs. 1](https://www.legislation.gov.uk/ssi/2018/342/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2018/342/regulation/2/2/a)
+
+[^key-1866d253a7e3727dcdb7d388a23f352c]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2006/465/regulation/5/3) substituted (31.12.2018) by [The Environmental Noise (Scotland) Amendment Regulations 2018 (S.S.I. 2018/342)](https://www.legislation.gov.uk/ssi/2018/342), [regs. 1](https://www.legislation.gov.uk/ssi/2018/342/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2018/342/regulation/2/2/b)
+
+[^key-ed221ffb2903393e4d53f35602f76402]: Textual amendment: [Reg. 5(3A)](https://www.legislation.gov.uk/ssi/2006/465/regulation/5/3A) inserted (31.12.2018) by [The Environmental Noise (Scotland) Amendment Regulations 2018 (S.S.I. 2018/342)](https://www.legislation.gov.uk/ssi/2018/342), [regs. 1](https://www.legislation.gov.uk/ssi/2018/342/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2018/342/regulation/2/2/c)
+
+[^key-e6004620c3d42b8bb16b0548134687c0]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/ssi/2006/465/regulation/5/4)[(5)](https://www.legislation.gov.uk/ssi/2006/465/regulation/5/5) omitted (31.12.2018) by virtue of [The Environmental Noise (Scotland) Amendment Regulations 2018 (S.S.I. 2018/342)](https://www.legislation.gov.uk/ssi/2018/342), [regs. 1](https://www.legislation.gov.uk/ssi/2018/342/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2018/342/regulation/2/2/d)
+
+[^key-361e78cb123ec3a7d873e8c050ae87ae]: Commencement: Reg. 6 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-057906d436baff8b00bf7fc16be36fbb]: Commencement: Reg. 7 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-f4ef773ff07c2a80961f3de3f9a0e802]: Commencement: Reg. 8 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-0ae073372b3ad3df6d50d7e8f909e994]: Commencement: Reg. 9 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^f00005]: Footnote: SPIRE Programme, Product Reference: SIP–DP– 011.
+
+[^key-7514a7484eaa193e1653675370d94e9e]: Commencement: Reg. 10 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-5261dd86ff67ad8ee9daaf7cdeae7132]: Commencement: Reg. 11 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-e28cea62a1e26cdf69700c12fc31cd2b]: Commencement: Reg. 12 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-a4d1a364c82dd21a4e38df4f2cd55e54]: Commencement: Reg. 13 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-a222d2e6631013ffbeae494c69bc4090]: Commencement: Reg. 14 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-1bf38f54d8256cbc4e2a627f7fc31b78]: Commencement: Reg. 15 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-fd8740d4e96badcb3d68c965926d30b6]: Commencement: Reg. 16 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-5fe9d138aa8c2a6fc26e9aebae2eedfe]: Commencement: Reg. 17 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-19e97c44ea0252eb4c1e17688c370ac4]: Commencement: Reg. 18 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-3510eef690f662e94e7428e0038faad4]: Commencement: Reg. 19 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-58389cb82e13719b5bef217b55ee487c]: Commencement: Reg. 20 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-48b5a87b775dab537289c0a410674721]: Textual amendment: Word in [reg. 20(1)(a)](https://www.legislation.gov.uk/ssi/2006/465/regulation/20/1/a) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [8(2)(a)(i)](https://www.legislation.gov.uk/ssi/2022/138/regulation/8/2/a/i)
+
+[^key-1bc2f281703cb82a0f116d8f27617e82]: Textual amendment: [Reg. 20(1)(b)](https://www.legislation.gov.uk/ssi/2006/465/regulation/20/1/b) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [8(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/138/regulation/8/2/a/ii)
+
+[^key-bde8ab40aca82d03bbcbd3b33ea542e0]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/ssi/2006/465/regulation/20/2) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/ssi/2022/138/regulation/8/2/b)
+
+[^key-0876c8688cc735b7730f40e5bd99ea54]: Commencement: Reg. 21 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-d56ae0f1a67752855c4a6849940252a4]: Commencement: Reg. 22 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-c1e0caa273f08e81e0be85d91abc9012]: Commencement: Reg. 23 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-6d3341401a4b61b073224f674a71cb1d]: Commencement: Reg. 24 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-8b94a525cd8662ac5a2bc2c98f05b6b6]: Textual amendment: Word in [reg. 24(4)(b)(i)](https://www.legislation.gov.uk/ssi/2006/465/regulation/24/4/b/i) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/ssi/2022/138/regulation/8/3/a)
+
+[^key-409d77a82730ec78d02576878fa65418]: Textual amendment: [Reg. 24(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2006/465/regulation/24/4/b/ii) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/ssi/2022/138/regulation/8/3/b)
+
+[^key-792889a8e289474d4ed674a2d991baac]: Commencement: Reg. 25 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-64bb7c533c0af2102de94608f2412b4f]: Commencement: Reg. 26 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-70f1b9d85114e600b21821c414715260]: Commencement: Reg. 27 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-815c8883bf7a98ca5bc1f91ec937620e]: Commencement: Sch. 1 para. 1 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-f05697939b68e6c0d79e322b5b1b0885]: Commencement: Sch. 1 para. 2 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-f290e253bd0a31014b6327ba2e1789b4]: Textual amendment: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ssi/2006/465/schedule/1/paragraph/2/2) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [8(4)](https://www.legislation.gov.uk/ssi/2022/138/regulation/8/4)
+
+[^key-c33e28b597c7f387c1aad89c8f58a153]: Commencement: Sch. 1 para. 3 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-cb8327927c82d1be176ec41f08579427]: Commencement: Sch. 1 para. 4 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-4ae662a62934085eef0ab0ee87510ccc]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2006/465/schedule/2) omitted (31.12.2018) by virtue of [The Environmental Noise (Scotland) Amendment Regulations 2018 (S.S.I. 2018/342)](https://www.legislation.gov.uk/ssi/2018/342), [regs. 1](https://www.legislation.gov.uk/ssi/2018/342/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2018/342/regulation/2/3)
+
+[^key-8efe05606636148ec8879a517ce83c22]: Commencement: Sch. 3 para. 1 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-85b27c74ada7c2080d09b3872fd5bb6a]: Textual amendment: Words in [sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2006/465/schedule/3/paragraph/1) omitted (31.12.2018) by virtue of [The Environmental Noise (Scotland) Amendment Regulations 2018 (S.S.I. 2018/342)](https://www.legislation.gov.uk/ssi/2018/342), [regs. 1](https://www.legislation.gov.uk/ssi/2018/342/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2018/342/regulation/2/4/a)
+
+[^key-d42029bc3c73d57ccbd43891f0bd1e16]: Commencement: Sch. 3 para. 2 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-01567598f7c3ac7bca99a684dc8508a9]: Textual amendment: [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/ssi/2006/465/schedule/3/paragraph/2/a) omitted (31.12.2018) by virtue of [The Environmental Noise (Scotland) Amendment Regulations 2018 (S.S.I. 2018/342)](https://www.legislation.gov.uk/ssi/2018/342), [regs. 1](https://www.legislation.gov.uk/ssi/2018/342/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2018/342/regulation/2/4/b)
+
+[^key-4a1cb561673cfcc6a82a2083478d4d0c]: Commencement: Sch. 3 para. 3 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-b4cbde9d2f5a4eed529bb3d5e1b335fa]: Commencement: Sch. 3 para. 4 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-bde0417508362d30eb763981b2a3c74d]: Commencement: Sch. 3 para. 5 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)
+
+[^key-ff28610107e11ef699183ed291f4e9ad]: Commencement: Sch. 4 para. 1 in force at 5.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/465/regulation/1/1)

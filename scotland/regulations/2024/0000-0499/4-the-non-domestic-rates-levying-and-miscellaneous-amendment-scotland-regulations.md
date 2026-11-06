@@ -1,0 +1,295 @@
+---
+title: The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024
+id: ssi/2024/4
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-01-09'
+text_date: '2025-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2024/4
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2024/4/pdfs/ssipn_20240004_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2024/4/pdfs/ssi_20240004_en.pdf
+- http://www.legislation.gov.uk/ssi/2024/4/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024
+
+> Text as at 2025-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2024 No. 4
+
+Rating And Valuation
+
+The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024
+
+Made
+
+9th January 2024
+
+Laid before the Scottish Parliament
+
+11th January 2024
+
+Coming into force
+
+1st April 2024
+
+The Scottish Ministers make the following Regulations in exercise of the power conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.
+
+## PART 1 — General
+
+### 1. Citation and commencement[^key-f8183fb244bfe2d54c60231785a6b4c7]
+
+These Regulations may be cited as the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024 and come into force on 1 April 2024.
+
+## PART 2 — Levying Regulations
+
+### 2. Interpretation of Part 2[^key-d7f0ed8d5aa15c0915817a7ea79d616d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Amount payable as rates – lands and heritages with rateable value of less than £20,000 (single entries)[^key-d7f0ed8d5aa15c0915817a7ea79d616d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Amount payable as rates – lands and heritages with rateable value of £35,000 or less (multiple entries)[^key-d7f0ed8d5aa15c0915817a7ea79d616d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Amount payable as rates – lands and heritages with rateable value exceeding £51,000 but not exceeding £100,000[^key-d7f0ed8d5aa15c0915817a7ea79d616d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Amount payable as rates – lands and heritages with rateable value exceeding £100,000[^key-d7f0ed8d5aa15c0915817a7ea79d616d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Amount payable as rates – newly re-occupied lands and heritages with rateable value of £100,000 or less[^key-d7f0ed8d5aa15c0915817a7ea79d616d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Exemptions and discretionary reductions and remissions[^key-991169de7920a0d55fa12ca682b45d0c]
+
+Nothing in this Part of these Regulations—
+
+- (a) requires rates to be paid in respect of lands and heritages for any day where those lands and heritages are under any enactment entirely exempt from rates for that day,
+- (b) prejudices the power of a rating authority to grant a reduction or remission of rates under section 3A or 4(5) of the 1962 Act[^f00023] or paragraph 4 of schedule 2 of the 1997 Act[^f00024], or
+- (c) prejudices the power of a local authority to give notice to a ratepayer under section 20 of the Non-Domestic Rates (Scotland) Act 2020[^f00025].
+
+### 9. Revocation and saving[^key-9cf82d5efebf47d304a9b2216ab4c373]
+
+(1) Subject to paragraph (2), regulations 2 to 7 of the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023[^f00026] are revoked.
+
+(2) Nothing in paragraph (1) affects the continuing operation of regulations 2 to 7 of the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 as regards the financial year 2023-2024.
+
+## PART 3 — Miscellaneous Non-Domestic Rating Amendments
+
+### 10. Amendment of the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016[^key-b94513b4e304d3f1235325f2929be5dd]
+
+(1) The Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016[^f00027] are amended in accordance with paragraphs (2) to (5).
+
+(2) After regulation 3 (lands and heritages in enterprise areas) insert—
+
+> **3A. Lands and heritages in enterprise areas – financial year 2024-2025**
+>
+> Regulation 5A(1) applies in the period beginning with 1 April 2024 and ending with 31 March 2025 in the circumstances set out in regulation 4 to a person who is liable to pay rates on a day in that period where that person occupies lands and heritages in—
+>
+> - (a) the General Manufacturing and Growth Sectors Enterprise Area,
+> - (b) the Life Sciences Enterprise Area,
+> - (c) the Low Carbon/Renewables East Enterprise Area, or
+> - (d) the Low Carbon/Renewables North Enterprise Area,
+>
+> for the sole or main purpose of carrying on an activity listed in that Part of the schedule relating to that Enterprise Area or, in the case of the General Manufacturing and Growth Sectors Enterprise Area, to a site within that Enterprise Area.
+>
+> **3B. Lands and heritages in enterprise areas – financial year 2025-2026**
+>
+> Regulation 5B(1) applies in the period beginning with 1 April 2025 and ending with 31 March 2026 in the circumstances set out in regulation 4 to a person who is liable to pay rates on a day in that period where that person occupies lands and heritages in—
+>
+> - (a) the General Manufacturing and Growth Sectors Enterprise Area,
+> - (b) the Life Sciences Enterprise Area,
+> - (c) the Low Carbon/Renewables East Enterprise Area, or
+> - (d) the Low Carbon/Renewables North Enterprise Area,
+>
+> for the sole or main purpose of carrying on an activity listed in that Part of the schedule relating to that Enterprise Area or, in the case of the General Manufacturing and Growth Sectors Enterprise Area, to a site within that Enterprise Area.
+
+.
+
+(3) In regulation 4 (availability of relief)—
+
+- (a) for “regulation 3” where it first occurs, substitute “regulations 3, 3A and 3B”,
+- (b) for “regulation 3” where it occurs in paragraph (a)(ii), substitute “regulation 3, 3A or 3B”.
+
+(4) In regulation 5 (relief granted)—
+
+- (a) for the heading substitute “Relief granted in relation to the financial years beginning with 1 April 2016 and ending with 31 March 2024”,
+- (b) in paragraph (1) for “Where” substitute “In relation to any day in the financial years beginning with 1 April 2016 and ending with 31 March 2024, where”.
+
+(5) After regulation 5 insert—
+
+> **5A. Relief granted -financial year 2024-2025**
+>
+> (1) In relation to the financial year 2024-2025, where the rateable value of lands and heritages falls within one of the ranges specified in the column headed “Rateable value” in the table below, the amount of rates payable is to be reduced by the percentage specified in the corresponding entry in the column headed “Percentage of rates relief”.
+>
+> | Rateable value | Percentage of rates relief |
+> | --- | --- |
+> | £120, 000 or less | 66.7% |
+> | More than £120,000 but not exceeding £240,000 | 33.3% |
+> | More than £240,000 but not exceeding £480,000 | 16.7% |
+> | More than £480,000 but not exceeding £1,200,000 | 6.7% |
+> | More than £1,200,000 but not exceeding £2,400,000 | 3.3% |
+> | More than £2,400,000 | 1.7% |
+>
+> (2) the amount of relief calculated under paragraph (1) is to be applied before the calculation of any other relief.
+>
+> **5B. Relief granted – financial year 2025-2026**
+>
+> (1) In relation to the financial year 2025-2026, where the rateable value of lands and heritages falls within one of the ranges specified in the column headed “Rateable value” in the table below, the amount of rates payable is to be reduced by the percentage specified in the corresponding entry in the column headed “Percentage of rates relief.”
+>
+> | Rateable value | Percentage of rates relief |
+> | --- | --- |
+> | £120, 000 or less | 33.3% |
+> | More than £120,000 but not exceeding £240,000 | 16.7% |
+> | More than £240,000 but not exceeding £480,000 | 8.3% |
+> | More than £480,000 but not exceeding £1,200,000 | 3.3% |
+> | More than £1,200,000 but not exceeding £2,400,000 | 1.7% |
+> | More than £2,400,000 | 0.8% |
+>
+> (2) The amount of relief calculated under paragraph (1) is to be applied before the calculation of any other relief.
+
+.
+
+### 11. Amendment of the Non-Domestic Rates (Telecommunication Installations) (Scotland) Regulations 2016[^key-3ca6bb8f21dbcf9d14f6ff371f3d02c7]
+
+(1) The Non-Domestic Rates (Telecommunication Installations) (Scotland) Regulations 2016[^f00028] are amended in accordance with paragraph (2).
+
+(2) In regulation 3 (amount payable as rates – lands and heritages comprising tower or mast sites) for “2029” substitute “2031”.
+
+### 12. Amendment of the Non-Domestic Rates (District Heating Relief) (Scotland) Regulations 2017[^key-73b0b3e4ae2ebe4022b300a0e937eed0]
+
+(1) The Non-Domestic Rates (District Heating Relief) (Scotland) Regulations 2017[^f00029] are amended in accordance with paragraphs (2) to (4).
+
+(2) In regulation 3 (amount payable as rates – lands and heritages used for the purposes of a district heating network)—
+
+- (a) for the heading substitute “Amount payable as rates – lands and heritages used for the purposes of a district heating network powered otherwise than by renewable generation”,
+- (b) in paragraph (3)(a) for “3A,” substitute “3A or 3B,”.
+
+(3) In regulation 3A[^f00030] (amount payable as rates-lands and heritages used for the purpose of a district heating network powered by renewable generation), for the heading substitute “Amount payable as rates -lands and heritages used for the purpose of a district heating network powered by renewable generation in the financial years 2021-2022 to 2023-2024”.
+
+(4) After regulation 3A insert—
+
+> **3B. Amount payable as rates – lands and heritages used for the purpose of a district heating network powered by renewable generation in the financial years 2024-2025 to 2026-2027**
+>
+> (1) This regulation grants relief to a person who is liable to pay rates levied under section 7B of the 1975 Act in respect of lands and heritages on a day in a particular financial year where—
+>
+> - (a) that person uses the lands and heritages wholly or mainly for the purposes of a district heating network,
+> - (b) at least 80% of the thermal energy generated by that network in the particular financial year derives from renewable generation, whether sourced from the same lands and heritages or different lands and heritages, and
+> - (c) application for relief is made in accordance with regulation 5.
+>
+> (2) The relief granted under paragraph (1) is a reduction of the amount of rates payable by 90%.
+>
+> (3) This regulation applies for any day in the financial years beginning with 1 April 2024 and ending with 31 March 2027.
+
+.
+
+(5) In regulation 4 (relief – further provisions)—
+
+- (a) in paragraph (1)—
+  - (i) in sub-paragraph (a) for “regulation 3(1) or 3A(1)” substitute “regulation 3(1), 3A(1) or 3B(1)”,
+  - (ii) in sub-paragraph (c) after “3A(1)” insert “or 3B(1)”,
+- (b) in paragraph (2) for sub-paragraph (e) substitute—
+
+  > - (e) regulation 3 or 4 of the Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2024[^f00031]
+
+  .
+
+TOM ARTHUR
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+9th January 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the amount payable as non-domestic rates in certain circumstances in respect of certain non-domestic properties in Scotland. The non-domestic rate for properties not covered by these Regulations is fixed by Order made under the Local Government (Scotland) Act 1975. For the financial year 2024-2025, the rate is fixed by the Non-Domestic Rate (Scotland) Order 2024 ([S.S.I. 2024/3](https://www.legislation.gov.uk/ssi/2024/3)).
+
+These Regulations also make miscellaneous amendments to the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016, the Non-Domestic Rates (Telecommunication Installations) (Scotland) Regulations 2016 and the Non-Domestic Rates (District Heating Relief) (Scotland) Regulations 2017.
+
+Part 1 provides the title of these Regulations and for their commencement.
+
+Part 2 contains provisions in respect of the levying of non-domestic rates. Regulations 3 to 7 apply to the financial year 2024-2025.
+
+Regulation 3 provides for the general reduction in rates liability of a ratepayer in relation to non-domestic properties which comprise only one entry in the valuation roll and have a rateable value of less than £20,000. However, where the enactments listed in regulation 3(4)(a) or a determination mentioned in regulation 3(4)(b) also provide for a reduction in rates liability, the rate relief provided under regulation 3(3) is reduced by a corresponding amount. Regulation 3(5) provides that regulation 3 does not apply to, and therefore no relief is granted in respect of, lands and heritages that are receiving relief on account of being unoccupied or that are wholly or mainly used for certain purposes, including as parking spaces or for payday lending.
+
+Regulation 4 provides for the general reduction in rates liability of a ratepayer in relation to non-domestic properties which comprise more than one entry in the valuation roll, and cumulatively have a rateable value of no more than £35,000. In a similar way to regulation 3(4), regulation 4(4) provides for a reduction in the rate relief provided under regulation 4(3) if the enactments listed in regulation 4(4)(a) or a determination mentioned in regulation 3(4)(b) also provide for a reduction. Regulation 4(5) makes similar provision to regulation 3(5) excluding certain properties from relief.
+
+Regulation 5 provides for an additional amount to be payable as rates for lands and heritages with a rateable value exceeding £51,000, but not exceeding £100,000, and sets out a formula for the calculation of that amount. It also sets out certain situations where no additional amount is payable.
+
+Regulation 6 provides for an additional amount to be payable as rates for lands and heritages with a rateable value exceeding £100,000, and sets out a formula for the calculation of that amount. As with regulation 5, regulation 6 also sets out certain situations where no additional amount is payable. This is the case where the amount of rates payable is the transitional limit, in accordance with regulation 7 of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024, or where regulations 10 or 10A of the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2022 apply and the rateable value of the lands and heritages does not exceed £51,000. Regulations 10 and 10A relate to lands and heritages in respect of which a relevant increase has been made within the previous 12 months, and whose rateable value does not exceed £51,000. Circumstances giving rise to relevant increases include the carrying out of refurbishment or expansion of properties and the installation of certain plant and machinery.
+
+Regulations 5(6) and 6(7) make clear that the provision for an additional amount does not over-ride any provision for non-domestic rates relief.
+
+Regulation 7 provides for 100% relief on non-domestic rates liability, for a period of 12 months, on non-domestic properties which become re-occupied immediately after having been unoccupied for a period of at least 6 months and where the rateable value does not exceed £100,000. The relief will, though, cease to apply where the lands and heritages become unoccupied again during the 12 month period. And it will not apply where the lands and heritages are used wholly or mainly for payday lending.
+
+Regulation 8 allows for exemptions and discretionary reductions and remissions. It makes clear that nothing provided for in relation to levying in Part 2 cuts across any complete exemption from liability to pay rates, nor prevents a rating authority from granting a discretionary reduction or remission of rates under specified provisions. Similarly, it makes clear that a local authority is not prevented from issuing a ratepayer with a notice under section 20 of the Non-Domestic Rates (Scotland) Act 2020.
+
+Regulation 9 revokes the provisions in regulations 2 to 7 of the Non-Domestic Rates (Levying and Miscellaneous Amendment (Scotland) Regulations 2023, with a saving provision to preserve their operation in respect of the financial year 2023-24.
+
+Part 3 contains miscellaneous amendments in respect of Non-Domestic Rating Regulations.
+
+Regulation 10 amends the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016 which provide relief from non-domestic rates in specified enterprise areas. The relief granted under those Regulations was due to expire on 31 March 2023, but regulation 10 extends the relief until 31 March 2026, albeit with different rates relief percentages.
+
+Regulation 11 amends the Non-Domestic Rates (Telecommunication Installations) (Scotland) Regulations 2016 to change the end date for relief for lands and heritages comprising the sites of mobile telecommunications masts. The relief was due to end on 31 March 2029 but will now end on 31 March 2031.
+
+Regulation 12 amends the Non-Domestic Rates (District Heating Relief) (Scotland) Regulations 2017. With effect from 1 April 2024, until 31 March 2027, in order to qualify for 90% relief on any day in the financial year, lands and heritages used for the purposes of district heating must rely on renewable energy sources for the production of at least 80% of the combined thermal energy generated through the district heating network in that particular financial year. The renewable energy may be sourced from the lands and heritages used for the purposes of the district heating network, or other lands and heritages.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 153 was amended by section 67 of the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), section 15 of the Non-Domestic Rates (Scotland) Act [2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4) and paragraph 7 of schedule 4 of the Coronavirus (Scotland) (No. 2) Act [2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-f8183fb244bfe2d54c60231785a6b4c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1)
+
+[^key-d7f0ed8d5aa15c0915817a7ea79d616d]: Textual amendment: Regs. 2-7 revoked (1.4.2025) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/38)](https://www.legislation.gov.uk/ssi/2025/38), [regs. 1](https://www.legislation.gov.uk/ssi/2025/38/regulation/1), [9(1)](https://www.legislation.gov.uk/ssi/2025/38/regulation/9/1) (with [reg. 9(2)](https://www.legislation.gov.uk/ssi/2025/38/regulation/9/2))
+
+[^key-991169de7920a0d55fa12ca682b45d0c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2024/4/regulation/8) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1)
+
+[^f00023]: Footnote: Section 3A was inserted by section 140(1) of the Community Empowerment (Scotland) Act [2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6). Section 4(5) was amended by paragraph 57 of schedule 13 of the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), paragraph 2(a) of schedule 3 of the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29) and section 98(3) of the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10).
+
+[^f00024]: Footnote: Paragraph 4 was amended by section 28(4) of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1).
+
+[^f00025]: Footnote: [2020 asp 4](https://www.legislation.gov.uk/asp/2020/4).
+
+[^key-9cf82d5efebf47d304a9b2216ab4c373]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2024/4/regulation/9) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1)
+
+[^f00026]: Footnote: [S.S.I. 2023/30](https://www.legislation.gov.uk/ssi/2023/30).
+
+[^key-b94513b4e304d3f1235325f2929be5dd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2024/4/regulation/10) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1)
+
+[^f00027]: Footnote: [S.S.I. 2016/119](https://www.legislation.gov.uk/ssi/2016/119), which was amended by [S.S.I. 2020/391](https://www.legislation.gov.uk/ssi/2020/391) and [S.S.I. 2023/30](https://www.legislation.gov.uk/ssi/2023/30).
+
+[^key-3ca6bb8f21dbcf9d14f6ff371f3d02c7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2024/4/regulation/11) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1)
+
+[^f00028]: Footnote: [S.S.I. 2016/122](https://www.legislation.gov.uk/ssi/2016/122), relevantly amended by [S.S.I. 2018/63](https://www.legislation.gov.uk/ssi/2018/63), [S.S.I. 2019/41](https://www.legislation.gov.uk/ssi/2019/41) and [S.S.I. 2023/30](https://www.legislation.gov.uk/ssi/2023/30).
+
+[^key-73b0b3e4ae2ebe4022b300a0e937eed0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2024/4/regulation/12) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/4/regulation/1)
+
+[^f00029]: Footnote: [S.S.I. 2017/61](https://www.legislation.gov.uk/ssi/2017/61), relevantly amended by [S.S.I. 2021/64](https://www.legislation.gov.uk/ssi/2021/64).
+
+[^f00030]: Footnote: Regulation 3A was inserted by [S.S.I. 2021/64](https://www.legislation.gov.uk/ssi/2021/64).
+
+[^f00031]: Footnote: [S.S.I. 2024/4](https://www.legislation.gov.uk/ssi/2024/4).

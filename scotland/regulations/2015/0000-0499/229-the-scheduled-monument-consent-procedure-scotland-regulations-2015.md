@@ -1,0 +1,341 @@
+---
+title: The Scheduled Monument Consent Procedure (Scotland) Regulations 2015
+id: ssi/2015/229
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-06-02'
+text_date: '2017-11-30'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/229
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/229/pdfs/ssipn_20150229_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/229/pdfs/ssi_20150229_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/229/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scheduled Monument Consent Procedure (Scotland) Regulations 2015
+
+> Text as at 2017-11-30.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 229
+
+Ancient Monuments
+
+The Scheduled Monument Consent Procedure (Scotland) Regulations 2015
+
+Made
+
+2nd June 2015
+
+Laid before the Scottish Parliament
+
+4th June 2015
+
+Coming into force
+
+1st October 2015
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 2(11), 3A(2), 3C and 60 of, and paragraphs 1, 2(2), (2A) and (3), 3(2) and 11(3)(a) of Schedule 1 to the Ancient Monuments and Archaeological Areas Act 1979[^f00001] and all other powers enabling them to do so.[^key-9ad9ccedcd429f52fa4dd56c38f14434]
+
+## 1. Citation, commencement and interpretation[^key-0a260a3713dca30337432fdbb78e62b1]
+
+(1) These Regulations may be cited as the Scheduled Monument Consent Procedure (Scotland) Regulations 2015 and come into force on 1st October 2015.
+
+(2) In these Regulations—
+
+- “the Act” means the Ancient Monuments and Archaeological Areas Act 1979; and
+- “application for variation or discharge of conditions” means an application under section 3A of the Act for the variation or discharge of conditions subject to which scheduled monument consent has been granted.
+
+## 2. Extent and application[^key-a7d7003e87c9a7176e8d25e29bc76a0b]
+
+(1) These Regulations extend to Scotland only.
+
+(2) These Regulations apply to—
+
+- (a) applications for scheduled monument consent; and
+- (b) applications for variation or discharge of conditions,
+
+made on or after 1st October 2015.
+
+## 3. Application for scheduled monument consent[^key-373efd80f0ae5fdff9e4517321556c5e]
+
+(1) An application for scheduled monument consent is to be made on a form obtained from Historic Environment Scotland and must include—
+
+- (a) a written description of the works to which it relates;
+- (b) the name or location of the scheduled monument to which the works relate or a description of the location of the land; and
+- (c) the name and address of the applicant and, where an agent is acting on behalf of the applicant, the name and address of that agent.
+
+(2) The application must be accompanied by—
+
+- (a) a plan or drawing, sufficient to identify the area of land to which the works relate;
+- (b) such other plans and drawings as are necessary to describe the works to which it relates; and
+- (c) one or other of the certificates required under regulation 5.
+
+## 4. Application for variation or discharge of conditions attached to scheduled monument consent[^key-5e566da818a7cfa877e06d2894b72cf6]
+
+(1) An application for variation or discharge of conditions attached to a scheduled monument consent granted in respect of a scheduled monument is to be made on a form obtained from Historic Environment Scotland and must include—
+
+- (a) particulars of the applicant’s interest in the monument; and
+- (b) the name and address of the applicant and, where an agent is acting on behalf of the applicant, the name and address of that agent.
+
+(2) The application must be accompanied by—
+
+- (a) any related plans and drawings; and
+- (b) one or other of the certificates required under regulation 5.
+
+(3) Regulation 5 applies in relation to an application for variation or discharge of conditions as it applies to an application for scheduled monument consent as if—
+
+- (a) references to an applicant for scheduled monument consent were references to the person making an application for variation or discharge of conditions; and
+- (b) the reference in paragraph (1) to Form 1 set out in the Schedule (forms of notices) were a reference to Form 2 set out in the Schedule.
+
+## 5. Certificates and notices[^key-f4efe51a70821469a97aa4e79f118baf]
+
+(1) An applicant for scheduled monument consent is to give notice in terms of Form 1 set out in the Schedule to any other person who at the beginning of the prescribed period is the owner of the monument to which the application relates.
+
+(2) The applicant is to issue a certificate stating, as appropriate, that—
+
+- (a) at the beginning of the prescribed period no person (other than the applicant) was the owner of the monument to which the application relates;
+- (b) the applicant has given notice in accordance with paragraph (1);
+- (c) the applicant—
+  - (i) is unable to issue a certificate in accordance with sub-paragraph (a) or (b); and
+  - (ii) has given notice to at least one person entitled to receive notice under paragraph (1) but, having taken reasonable steps to ascertain the names and addresses of other such persons, was unable to give notice to those other persons; and
+- (d) the applicant—
+  - (i) is unable to issue a certificate in accordance with sub-paragraph (a); and
+  - (ii) having taken reasonable steps to ascertain the names and addresses of any person entitled to receive notice under paragraph (1), was unable to give notice to any such person.
+
+(3) A certificate issued—
+
+- (a) under paragraph (2)(b) or (c) must set out the name of every person to whom notice was given and the address at and the date on which such notice was given; and
+- (b) under paragraph (2)(c) or (d) must specify the steps taken to ascertain the names and addresses of those persons to whom the applicant has been unable to give notice.
+
+(4) For the purposes of this regulation—
+
+- “the 1911 Act” means the Small Landholders (Scotland) Act 1911[^f00002];
+- “the 1991 Act” means the Agricultural Holdings (Scotland) Act 1991[^f00003];
+- “the 2003 Act” means the Agricultural Holdings (Scotland) Act 2003[^f00004];
+- “agricultural tenant” means—
+  - (a) in the case of an agricultural lease constituting a 1991 Act tenancy within the meaning of the 2003 Act, the tenant within the meaning of section 85 of the 1991 Act;
+  - (b) in the case of a lease constituting a short limited duration tenancy , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^key-1ae4b88864ee451581b5ff49d5515d66] under the 2003 Act, the tenant within the meaning of section 93 of that Act;
+  - (c) in the case of a holding within the meaning of the 1911 Act to which the 1991 Act does not apply, the landholder within the meaning of section 2(2) of the 1911 Act;
+- “owner of the monument” is—
+  - (a) any person who, in respect of any part of the land in, on or under which there is a scheduled monument, is under the Lands Clauses Acts enabled to sell and convey that land to promoters of an undertaking;
+  - (b) any person who is entitled to possession of that land as a tenant under a lease the unexpired period of which is not less than 10 years;
+  - (c) any tenant of a croft within the meaning of section 3, or any owner-occupier crofter of an owner-occupied croft under section 19B(5), of the Crofters (Scotland) Act 1993[^f00005] where any part of that croft is comprised in that land to which the application relates; or
+  - (d) any agricultural tenant of land any part of which is comprised in that land to which the application relates; and
+- “prescribed period” means the period of 21 days ending with the date of the application.
+
+## 6. Acknowledgment of applications[^key-3ce21e27c9a8e1303004e45d6585bea6]
+
+(1) When Historic Environment Scotland are in receipt of an application made in accordance with, and accompanied by the information and documents required by, regulation 3 or 4, as the case may be, Historic Environment Scotland must send an acknowledgement of receipt of the application to the applicant.
+
+(2) The acknowledgement sent under paragraph (1) must inform the applicant of the right to appeal to the Scottish Ministers under section 4B of the Act.
+
+(3) Where the application is not made in accordance with and accompanied by the information and documents required by regulation 3 or 4, as the case may be, Historic Environment Scotland must send the applicant a notice identifying the information or documentation which the applicant still requires to submit in order to comply with such regulation.
+
+## 7. Publication of applications[^key-be25c604b689b24cda35cc835d695ab8]
+
+(1) Historic Environment Scotland is to make a copy of any of the applications specified in paragraph (2) available for public inspection at its principal office and through publication by means of the internet.
+
+(2) The applications are—
+
+- (a) any application for scheduled monument consent; and
+- (b) any application for variation or discharge of conditions,
+
+made to Historic Environment Scotland.
+
+## 8. Decision notice[^key-29faf37bfa5622547faa8b89fa734d4a]
+
+(1) The notice of the decision (the decision notice) served under paragraph 3(4) of Schedule 1 to the Act is to include—
+
+- (a) a statement of—
+  - (i) the terms of the decision;
+  - (ii) any conditions to which that decision is subject; and
+  - (iii) the reasons for the decision;
+- (b) a description of the location of the monument to which the application relates including, where applicable, a postal address;
+- (c) the reference number allocated to the application by Historic Environment Scotland;
+- (d) a description of—
+  - (i) in the case of an application for scheduled monument consent, the works (including identification of the plans and drawings showing the proposed works) for which consent has been granted or, as the case may be, refused; or
+  - (ii) in the case of an application for variation or discharge of conditions, the nature of the variation or discharge, for which consent has been granted or, as the case may be, refused.
+
+(2) Where Historic Environment Scotland refuse an application or grant scheduled monument consent subject to conditions the decision notice must be accompanied by a statement explaining how the applicant may obtain information on how to appeal to the Scottish Ministers under section 4B of the Act and—
+
+- (a) in the case of an application for scheduled monument consent, a notice in terms of Form 3 set out in the Schedule; or
+- (b) in the case of an application for variation or discharge of conditions, a notice in terms of Form 4 set out in the Schedule.
+
+(3) Historic Environment Scotland must make a copy of the decision notice available for public inspection at its principal office and through publication by means of the internet.
+
+## 9. Procedure for referrals of applications to the Scottish Ministers[^key-a6e37c7ff625be2eee2efec939cf016e]
+
+Where the Scottish Ministers give a direction under section 3B of the Act (referral of certain applications to the Scottish Ministers), Historic Environment Scotland is to send the application to which the direction relates to the Scottish Ministers together with a copy of—
+
+- (a) all documents submitted in support of the application; and
+- (b) any representations made in respect of the application and all other relevant correspondence.
+
+## 10. Notification of referral of the application to the Scottish Ministers[^key-ba332bfe7b13e25b495dbad85faa8168]
+
+On referring any application to the Scottish Ministers following a direction under section 3B of the Act, Historic Environment Scotland is to serve on the applicant notice—
+
+- (a) of the terms of the direction;
+- (b) of any reasons given by the Scottish Ministers for requiring the application to be referred to them;
+- (c) that the application has been referred to the Scottish Ministers; and
+- (d) that the decision of the Scottish Ministers on the application is final.
+
+## 11. Applications – national security[^key-812bf27a8daa53c6b627aba449a52ab6]
+
+The validity of an application shall not be affected by the failure to disclose information as to—
+
+- (a) national security; and
+- (b) the measures taken or to be taken to ensure the security of any premises or property,
+
+where the application is accompanied by a written statement from the applicant that, in the opinion of the applicant, the information relates to matters mentioned in (a) or (b) above, and that public disclosure of that information would be contrary to the national interest.
+
+## 12. Service of documents[^key-5543abba77301d8f9b5957f1671eb17e]
+
+(1) Any document required or authorised to be sent by these Regulations may be sent to or given to a person—
+
+- (a) by being delivered personally to the person;
+- (b) by leaving it at the proper address of the person;
+- (c) by being sent to the proper address of the person—
+  - (i) by a registered post-service (as defined in section 125(1) of the Postal Services Act 2000); or
+  - (ii) by a postal service which provides for the delivery of the document to be recorded; or
+- (d) by being sent by an electronic communication where the criteria in paragraph (5) are met.
+
+(2) For the purposes of paragraph (1), the proper address of a person is—
+
+- (a) in the case of a body corporate, the address of the registered or principal office of the body;
+- (b) in the case of a partnership, the address of the principal office of the partnership;
+- (c) in any other case, the last known address of the person, or in the case where an address for service has been given by that person, that address.
+
+(3) Where, after reasonable inquiry, it is not practicable to ascertain either or both—
+
+- (a) the name;
+- (b) the address,
+
+of a person to be notified, the document is taken to be served if the requirements of paragraph (4) are met.
+
+(4) The requirements are that the document is addressed to the person either by name or by the description of “the owner” or “the occupier” of the monument; and—
+
+- (a) it is delivered or sent in the manner specified in paragraph (1)(a), (b) or (c); or
+- (b) it is plainly identifiable as a document of importance and is displayed on the land in, on or under which the monument is situated or on the monument (except where doing so might damage it).
+
+(5) The criteria are—
+
+- (a) the recipient consents, or is deemed to have agreed under paragraph (6), to receive it electronically; and
+- (b) that the document is—
+  - (i) capable of being accessed by the recipient;
+  - (ii) legible in all material respects; and
+  - (iii) in a form sufficiently permanent to be used for subsequent reference.
+
+(6) Any person sending a document using an electronic communication is to be taken to have agreed—
+
+- (a) to the use of such communications for all purposes relating to the application which are capable of being carried out electronically; and
+- (b) that the address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, that communication.
+
+(7) Deemed agreement under paragraph (6) subsists until that person gives notice to revoke the agreement.
+
+(8) Notice of withdrawal of consent to the use of an electronic communication or of revocation of agreement under paragraph (7) takes effect on a date specified by the person in the notice, but not less than 7 days after the date on which the notice is given.
+
+(9) In this regulation—
+
+- “document” includes any notice, decision, form, plan, certificate or other information or communication;
+- “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00006] (general interpretation);
+- “legible in all material respects” means that the information contained in the document is available to that person to no lesser extent than it would be if served or given by means of a document in printed form; and
+- “sent” includes served, made, submitted or given and cognate expressions are to be construed accordingly.
+
+## 13. Advertisement of unopposed revocation or modification order[^key-939e8da1df2a1303131076787e82f59a]
+
+Advertisement for the purposes of paragraph 11(3)(a) of Schedule 1 to the Act (advertisement of unopposed revocation or modification orders) is to be by publication of notice of the fact that an order under section 4 of the Act has been made—
+
+- (a) in the Edinburgh Gazette; and
+- (b) in a local newspaper circulating in the area in which the monument is situated.
+
+## 14. Revocation of the Ancient Monuments and Archaeological Areas (Applications for Scheduled Monument Consent) (Scotland) Regulations 2011[^key-fb1189b84362cadebe681321c9419e15]
+
+(1) Subject to paragraph (2), the Ancient Monuments and Archaeological Areas (Applications for Scheduled Monument Consent) (Scotland) Regulations 2011[^f00007] are revoked.
+
+(2) Those Regulations continue to have effect as they had effect immediately before 1st<sup> </sup>October 2015 in relation to an application for scheduled monument consent made before that date.
+
+FIONA HYSLOP
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+2nd June 2015
+
+## SCHEDULE — NOTICES[^key-bbb90c265bafd58950724b7b39a3d444]
+
+Regulations 4(3)(b), 5(1)and 8(2)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in respect of applications for scheduled monument consent and applications for variation or discharge of conditions attached to scheduled monument consent.
+
+The Regulations also make provision as to the certificates which must accompany certain applications and prescribe the forms of notice which must be given by the applicant to owners of the monument to which the application relates (regulation 5). The Regulations also prescribe the forms of decision notices to be given to the applicant (regulation 8).
+
+In addition, the Regulations make provision as to the person who is to be treated as the owner of the monument for the purposes of such notices and certificates (regulation 5).
+
+Regulation 14 revokes the Ancient Monuments and Archaeological Areas (Applications for Scheduled Monument Consent) (Scotland) Regulations 2011 but provides that these Regulations continue to apply to applications for scheduled monument consent made before 1st October 2015.
+
+## Annotations
+
+[^f00001]: Footnote: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46). The functions of the Secretary of State transferred to the Scottish Ministers by section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 2(11) gives effect to Schedule 1 which makes provision with respect to applications for, the manner of granting, and the form, content and effect of, scheduled monument consent. Section 3A applies Schedule 1 to applications for variation or discharge of conditions. Section 2 and Schedule 1 were amended by the Historic Environment (Amendment) (Scotland) Act [2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3). Section 3A(2) is inserted by paragraph 6 and section 3C is inserted by paragraph 35 of Schedule 2 to the Historic Environment Scotland Act 2014 (“the 2014 Act”). Paragraph 1 of Schedule 1 is amended by paragraph 14(2) of Schedule 2 to the 2014 Act. Paragraph 3(2) is inserted by paragraph 14(6)(b) and paragraph 11(3)(a) is inserted by paragraph 15(b) of Schedule 2 to the 2014 Act.
+
+[^key-9ad9ccedcd429f52fa4dd56c38f14434]: Modification: Regulations modified (10.10.2015) by [S.S.I. 2007/569](https://www.legislation.gov.uk/ssi/2007/569), [reg. 6(2)](https://www.legislation.gov.uk/ssi/2007/569/regulation/6/2) (as amended by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2015/328/regulation/2/3/a) (with [reg. 2(4)(5)](https://www.legislation.gov.uk/ssi/2015/328/regulation/2/4/5)))
+
+[^key-0a260a3713dca30337432fdbb78e62b1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/229/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-a7d7003e87c9a7176e8d25e29bc76a0b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/229/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-373efd80f0ae5fdff9e4517321556c5e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/229/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-5e566da818a7cfa877e06d2894b72cf6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/229/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-f4efe51a70821469a97aa4e79f118baf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/229/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^f00002]: Footnote: [1911. c.49](https://www.legislation.gov.uk/ukpga/1911/49).
+
+[^f00003]: Footnote: [1991 c.55](https://www.legislation.gov.uk/ukpga/1991/55).
+
+[^f00004]: Footnote: [2003 asp 11](https://www.legislation.gov.uk/asp/2003/11).
+
+[^key-1ae4b88864ee451581b5ff49d5515d66]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2015/229/regulation/5/4) substituted (30.11.2017) by [The Agricultural Holdings (Modern Limited Duration Tenancies and Consequential etc. Provisions) (Scotland) Regulations 2017 (S.S.I. 2017/300)](https://www.legislation.gov.uk/ssi/2017/300), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1), [sch. 1 para. 4(2)](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/4/2) (with [sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2017/300/schedule/2/paragraph/6)) (as amended by [S.S.I. 2017/370](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [7](https://www.legislation.gov.uk/ssi/2017/370/regulation/7))
+
+[^f00005]: Footnote: 1993\. c.44; section 19B(5) was inserted by section 34 of the Crofting Reform (Scotland) Act [2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14).
+
+[^key-3ce21e27c9a8e1303004e45d6585bea6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/229/regulation/6) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-be25c604b689b24cda35cc835d695ab8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/229/regulation/7) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-29faf37bfa5622547faa8b89fa734d4a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/229/regulation/8) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-a6e37c7ff625be2eee2efec939cf016e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/229/regulation/9) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-ba332bfe7b13e25b495dbad85faa8168]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/229/regulation/10) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-812bf27a8daa53c6b627aba449a52ab6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/229/regulation/11) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-5543abba77301d8f9b5957f1671eb17e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/229/regulation/12) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^f00006]: Footnote: As amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-939e8da1df2a1303131076787e82f59a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/229/regulation/13) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^key-fb1189b84362cadebe681321c9419e15]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/229/regulation/14) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)
+
+[^f00007]: Footnote: [S.S.I. 2011/375](https://www.legislation.gov.uk/ssi/2011/375).
+
+[^key-bbb90c265bafd58950724b7b39a3d444]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2015/229/schedule) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/229/regulation/1/1)

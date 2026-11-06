@@ -1,0 +1,229 @@
+---
+title: The Scottish Tribunals (Eligibility for Appointment) Regulations 2015
+id: ssi/2015/381
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-11-05'
+text_date: '2021-11-23'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/381
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/381/pdfs/ssipn_20150381_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/381/pdfs/ssi_20150381_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/381/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scottish Tribunals (Eligibility for Appointment) Regulations 2015
+
+> Text as at 2021-11-23.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 381
+
+Tribunals And Inquiries
+
+The Scottish Tribunals (Eligibility for Appointment) Regulations 2015
+
+Made
+
+5th November 2015
+
+Laid before the Scottish Parliament
+
+9th November 2015
+
+Coming into force
+
+1st January 2016
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 32(1) and (3) of, paragraphs 1(2), 5(2), 6 and 7(1) of schedule 3 to, and paragraphs 5(2), 6 and 7(1) of schedule 5 to, the Tribunals (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation[^key-27041f6a4baac05bd2ea860a213cb4f5]
+
+(1) These Regulations may be cited as the Scottish Tribunals (Eligibility for Appointment) Regulations 2015 and come into force on 1st January 2016.
+
+(2)[^key-8c18c81fd2e73560d66d8c2e59fcef94] In these Regulations—
+
+- “the Act” means the Tribunals (Scotland) Act 2014,
+- “RICS” means the Royal Institution of Chartered Surveyors or any successor body.
+
+## 2. Eligibility for appointment as an ordinary member of the First-tier Tribunal for Scotland (tax experience)[^key-ae27074396d223a058ed9adfa04cb026]
+
+(1) A person is eligible for appointment as an ordinary member of the First-tier Tribunal for Scotland if paragraph (2), (3) or (4) applies to the person.
+
+(2) This paragraph applies to a person who is a member of the Chartered Institute of Taxation.
+
+(3) This paragraph applies to a person who is a member of—
+
+- (a) the Institute of Chartered Accountants of Scotland;
+- (b) the Institute of Chartered Accountants in England and Wales;
+- (c) the Institute of Chartered Accountants in Ireland;
+- (d) the Institute of Certified Public Accountants in Ireland;
+- (e) the Association of Chartered Certified Accountants;
+- (f) the Chartered Institute of Management Accountants; or
+- (g) the Chartered Institute of Public Finance and Accountancy.
+
+(4) Subject to paragraph (5), this paragraph applies to a person who has substantial experience in tax matters and related tax procedures (whether obtained in a business, trade, charity or not-for-profit organisation, or in a profession or in academia).
+
+(5) Paragraph (4) does not apply where a person is a former member of any of the professional bodies listed in paragraphs (2) and (3), if the person has been debarred from the person’s professional body or if the person has been subject to any sanction that would have led to such debarment had the person not ceased to belong to the professional body.
+
+## 3. Eligibility for appointment as an ordinary member of the First-tier Tribunal for Scotland (housing, property or surveying experience)[^key-a26e9b2782dec297cd0681a73165be6f]
+
+(1) A person is eligible for appointment as an ordinary member of the First-tier Tribunal for Scotland if paragraph (2) or (3) applies to the person.
+
+(2) This paragraph applies to a person who has substantial relevant housing or property experience.
+
+(3) This paragraph applies to a person who has substantial relevant surveying experience.
+
+(4) Paragraph (2) or (3) applies to a person, whether the person has obtained the substantial relevant housing, property or surveying experience in a business, trade, charity or not-for-profit organisation, or in a profession or in academia.
+
+(5) In this regulation—
+
+- “relevant housing or property experience” means experience in—
+  - (a) matters relating to landlord and tenant relationships;
+  - (b) housing matters (including as regards private rented sector, letting agency and factoring matters); or
+  - (c) land and property management matters; and
+- “relevant surveying experience” means experience in surveying related to housing and building conditions as a member or fellow (or former member or fellow) of RICS[^key-ba51d48799da116badad541d552d315f], but such experience does not count as relevant experience where a person is a former member or fellow of RICS, if the person has been debarred from RICS or if the person has been subject to any sanction that would have led to such debarment had the person not ceased to belong to RICS.
+
+## 3A. Eligibility for appointment as an ordinary member of the First-tier Tribunal for Scotland (health and education experience)[^key-e3fcc3594487051eecf0f1c2fb8a1b6b]
+
+A person is eligible for appointment as an ordinary member of the First-tier Tribunal for Scotland if the person has knowledge and experience of children or young persons with—
+
+- (a) additional support needs within the meaning of section 1(1) of the Education (Additional Support for Learning) (Scotland) Act 2004; or
+- (b) a disability within the meaning of section 6 of the Equality Act 2010.
+
+## 3B. Eligibility for appointment as an ordinary member of the First-tier Tribunal for Scotland (charity regulatory experience)
+
+A person is eligible for appointment as an ordinary member of the First-tier Tribunal for Scotland if the person has knowledge and experience in accounting or governance of public or private bodies or charities.
+
+## 3C. Eligibility for appointment as an ordinary member of the First-tier Tribunal for Scotland (medical experience)[^key-75f0b24960df838efcf8251de9842c7c]
+
+A person is eligible for appointment as an ordinary member of the First-tier Tribunal for Scotland if the person is a fully registered person within the meaning of the Medical Act 1983, whether or not that person holds a licence to practise.
+
+## 3D. Eligibility for appointment as an ordinary member of the First-tier Tribunal for Scotland (disability experience)
+
+A person is eligible for appointment as an ordinary member of the First-tier Tribunal for Scotland if the person is experienced in dealing with the needs of persons who have a disability within the meaning of section 6 of the Equality Act 2010 because the person supports or has supported in a professional or voluntary capacity[^key-82c0512fdfdd1827c3796b1bff33f98d] a person with a disability, provides or has provided[^key-03ca686bcc474d46034978600c9235d0] care to a person with a disability, or is a person who has or has had[^key-b1a8553b32c8f3d0c71425d435191b98] a disability.
+
+## 3E. Eligibility for appointment as an ordinary member of the First-tier Tribunal for Scotland (valuation experience)[^key-e5be2adac7a45ba949f3181e4b028c0b]
+
+(1) A person is eligible for appointment as an ordinary member of the First-tier Tribunal for Scotland if the person—
+
+- (a) has knowledge of a valuation area, and
+- (b) has substantial experience of the valuation of domestic or non-domestic properties.
+
+(2) In this regulation—
+
+- (a) “substantial experience of the valuation of domestic or non-domestic properties” means either—
+  - (i) demonstrable knowledge and understanding of relevant valuation matters, whether obtained in a business, trade, charity or not-for-profit organisation, profession or academia (but such experience does not count as relevant experience where a person is a former member of professional body, board or academic institution if the person has been debarred from that body, board or institution or has been subject to any sanction that would have led to such debarment had the person not ceased to belong to it), or
+  - (ii) at least 3 years’ experience regularly sitting as a member of a valuation appeals committee constituted under section 29(1) of the Local Government etc. (Scotland) Act 1994,
+- (b) “a valuation area” has the meaning given in section 27(1) of the Local Government etc. (Scotland) Act 1994,
+- (c) “regularly” means at least 4 times per year.
+
+## 3F. Eligibility for appointment as an ordinary member of the First-tier Tribunal for Scotland (surveyor rating experience)
+
+(1) A person is eligible for appointment as an ordinary member of the First-tier Tribunal for Scotland if the person—
+
+- (a) is, or has within the last 5 years been, a member or fellow of RICS, and
+- (b) has substantial experience as a surveyor in rating matters.
+
+(2) In this regulation, “substantial experience as a surveyor in rating matters” means at least 5 years’ experience as a member or fellow of RICS in matters relating to valuation for rating, but such experience does not count as relevant experience where a person is a former member or fellow of RICS, if the person has been debarred from RICS or if the person has been subject to any sanction that would have led to such debarment had the person not ceased to belong to RICS.
+
+## 4. Eligibility for appointment as a legal member of the First-tier Tribunal for Scotland[^key-c03971f56dd27df028b7e9ded0ce28db]
+
+(1) A person is eligible for appointment as a legal member of the First-tier Tribunal for Scotland under paragraph 5(2) of schedule 3 to the Act if the person qualifies under paragraph (2).
+
+(2) Subject to paragraph (5), a person qualifies under this paragraph, if the person has had—
+
+- (a) previous engagement in practice for a period of not less than 5 years as a solicitor or advocate in Scotland; and
+- (b) subsequent engagement in any of the activities listed in paragraph (3).
+
+(3) The activities are—
+
+- (a) exercising judicial functions in any court or tribunal;
+- (b) practice or employment as a lawyer of any kind;
+- (c) teaching or researching law at or for an educational institution.
+
+(4) The 5 year period referred to in paragraph (2)(a) (and the 5 year period referred to in paragraph 5(1) of schedule 3 to the Act) may be calculated on a cumulative or a continuous basis.
+
+(5) A person is not to be treated as having satisfied paragraph (2)(a), if the person has been debarred from the person’s professional body or if the person has been subject to any sanction that would have led to such debarment had the person not ceased to belong to the professional body.
+
+## 5. Eligibility for appointment as a legal member of the Upper Tribunal for Scotland[^key-f6e920057f1157a2b6b9d2ea1b9d758f]
+
+(1) A person is eligible for appointment as a legal member of the Upper Tribunal for Scotland under paragraph under paragraph 5(2) of schedule 5 to the Act if the person qualifies under paragraph (2).
+
+(2) Subject to paragraph (5), a person qualifies under this paragraph, if the person has had—
+
+- (a) previous engagement in practice for a period of not less than 7 years as a solicitor or advocate in Scotland; and
+- (b) subsequent engagement in any of the activities listed in paragraph (3).
+
+(3) The activities are—
+
+- (a) exercising judicial functions in any court or tribunal;
+- (b) practice or employment as a lawyer of any kind.
+
+(4) The 7 year period referred to in paragraph (2)(a) (and the 7 year period referred to in paragraph 5(1) of schedule 5 to the Act) may be calculated on a cumulative or a continuous basis.
+
+(5) A person is not to be treated as having satisfied paragraph (2)(a), if the person has been debarred from the person’s professional body or if the person has been subject to any sanction that would have led to such debarment had the person not ceased to belong to the professional body.
+
+## 6. Eligibility for appointment as an ordinary member of the Upper Tribunal for Scotland (surveyor experience)[^key-8ba9d963e8325392694f25dd5a0c9921]
+
+A person is eligible for appointment as an ordinary member of the Upper Tribunal for Scotland if the person —
+
+- (a) is a member or fellow of RICS, and
+- (b) has at least 10 years’ experience as such a member or fellow in matters relating to valuation for rating.
+
+PAUL WHEELHOUSE
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+5th November 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations set eligibility criteria for appointments as legal members of the First-tier Tribunal for Scotland and Upper Tribunal for Scotland. They also provide eligibility criteria for appointment of ordinary members of the First-tier Tribunal. In the case of the ordinary members the criteria cover experience in tax matters (regulation 2) and experience in housing, property or surveying matters (regulation 3).
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
+
+[^key-27041f6a4baac05bd2ea860a213cb4f5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/381/regulation/1) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/381/regulation/1/1)
+
+[^key-8c18c81fd2e73560d66d8c2e59fcef94]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/381/regulation/1/2) substituted (23.11.2021) by [The Scottish Tribunals (Eligibility for Appointment) Amendment Regulations 2021 (S.S.I. 2021/341)](https://www.legislation.gov.uk/ssi/2021/341), [regs. 1](https://www.legislation.gov.uk/ssi/2021/341/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/341/regulation/2/2)
+
+[^key-ae27074396d223a058ed9adfa04cb026]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/381/regulation/2) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/381/regulation/1/1)
+
+[^key-a26e9b2782dec297cd0681a73165be6f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/381/regulation/3) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/381/regulation/1/1)
+
+[^key-ba51d48799da116badad541d552d315f]: Textual amendment: Word in [reg. 3(5)](https://www.legislation.gov.uk/ssi/2015/381/regulation/3/5) substituted (23.11.2021) by [The Scottish Tribunals (Eligibility for Appointment) Amendment Regulations 2021 (S.S.I. 2021/341)](https://www.legislation.gov.uk/ssi/2021/341), [regs. 1](https://www.legislation.gov.uk/ssi/2021/341/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/341/regulation/2/3)
+
+[^key-e3fcc3594487051eecf0f1c2fb8a1b6b]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/ssi/2015/381/regulation/3A), [3B](https://www.legislation.gov.uk/ssi/2015/381/regulation/3B) inserted (2.10.2017) by [The Scottish Tribunals (Eligibility for Appointment) Amendment Regulations 2017 (S.S.I. 2017/274)](https://www.legislation.gov.uk/ssi/2017/274), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/274/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/274/regulation/2/2)
+
+[^key-75f0b24960df838efcf8251de9842c7c]: Textual amendment: [Regs. 3C](https://www.legislation.gov.uk/ssi/2015/381/regulation/3C), [3D](https://www.legislation.gov.uk/ssi/2015/381/regulation/3D) inserted (22.11.2018) by [The Scottish Tribunals (Eligibility for Appointment) Amendment Regulations 2018 (S.S.I. 2018/276)](https://www.legislation.gov.uk/ssi/2018/276), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/276/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/276/regulation/2/2)
+
+[^key-82c0512fdfdd1827c3796b1bff33f98d]: Textual amendment: Words in [reg. 3D](https://www.legislation.gov.uk/ssi/2015/381/regulation/3D) substituted (10.1.2020) by [The Scottish Tribunals (Eligibility for Appointment) Amendment Regulations 2019 (S.S.I. 2019/384)](https://www.legislation.gov.uk/ssi/2019/384), [regs. 1](https://www.legislation.gov.uk/ssi/2019/384/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2019/384/regulation/2/a)
+
+[^key-03ca686bcc474d46034978600c9235d0]: Textual amendment: Words in [reg. 3D](https://www.legislation.gov.uk/ssi/2015/381/regulation/3D) inserted (10.1.2020) by [The Scottish Tribunals (Eligibility for Appointment) Amendment Regulations 2019 (S.S.I. 2019/384)](https://www.legislation.gov.uk/ssi/2019/384), [regs. 1](https://www.legislation.gov.uk/ssi/2019/384/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2019/384/regulation/2/b)
+
+[^key-b1a8553b32c8f3d0c71425d435191b98]: Textual amendment: Words in [reg. 3D](https://www.legislation.gov.uk/ssi/2015/381/regulation/3D) substituted (10.1.2020) by [The Scottish Tribunals (Eligibility for Appointment) Amendment Regulations 2019 (S.S.I. 2019/384)](https://www.legislation.gov.uk/ssi/2019/384), [regs. 1](https://www.legislation.gov.uk/ssi/2019/384/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2019/384/regulation/2/c)
+
+[^key-e5be2adac7a45ba949f3181e4b028c0b]: Textual amendment: [Regs. 3E](https://www.legislation.gov.uk/ssi/2015/381/regulation/3E), [3F](https://www.legislation.gov.uk/ssi/2015/381/regulation/3F) inserted (23.11.2021) by [The Scottish Tribunals (Eligibility for Appointment) Amendment Regulations 2021 (S.S.I. 2021/341)](https://www.legislation.gov.uk/ssi/2021/341), [regs. 1](https://www.legislation.gov.uk/ssi/2021/341/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/341/regulation/2/4)
+
+[^key-c03971f56dd27df028b7e9ded0ce28db]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/381/regulation/4) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/381/regulation/1/1)
+
+[^key-f6e920057f1157a2b6b9d2ea1b9d758f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/381/regulation/5) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/381/regulation/1/1)
+
+[^key-8ba9d963e8325392694f25dd5a0c9921]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/381/regulation/6) inserted (23.11.2021) by [The Scottish Tribunals (Eligibility for Appointment) Amendment Regulations 2021 (S.S.I. 2021/341)](https://www.legislation.gov.uk/ssi/2021/341), [regs. 1](https://www.legislation.gov.uk/ssi/2021/341/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/341/regulation/2/5)

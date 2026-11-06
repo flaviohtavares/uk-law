@@ -1,0 +1,422 @@
+---
+title: The Home Energy Assistance Scheme (Scotland) Regulations 2013
+id: ssi/2013/148
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-05-14'
+text_date: '2025-03-21'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/148
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/148/pdfs/ssipn_20130148_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/148/pdfs/ssi_20130148_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/148/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Home Energy Assistance Scheme (Scotland) Regulations 2013
+
+> Text as at 2025-03-21.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 148
+
+Energy Conservation
+
+The Home Energy Assistance Scheme (Scotland) Regulations 2013
+
+Made
+
+14th May 2013
+
+Laid before the Scottish Parliament
+
+16th May 2013
+
+Coming into force
+
+1st July 2013
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 15 of the Social Security Act 1990[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement[^key-2a94bf5e89a7e0db8984c028c080f2b5]
+
+These Regulations may be cited as the Home Energy Assistance Scheme (Scotland) Regulations 2013 and come into force on 1st July 2013.
+
+## 2. Interpretation[^key-e98c852ff94b1d722c0bd46fca1d98cb]
+
+In these Regulations—
+
+- “the 1992 Act” means the Social Security Contributions and Benefits Act 1992[^f00002];
+- “the 2009 Regulations” mean the Home Energy Assistance Scheme (Scotland) Regulations 2009[^f00003];
+- “administering agency” means a person or a body of persons appointed under regulation 3(1);
+- “armed forces independence payment” means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00004];
+- “central heating system” means a system which provides warmth to 2 or more rooms in a dwelling through a series of connected radiators or ducts linked to a central boiler or some other heat source or from a series of electric storage heaters and controlled from one central point;
+- “council tax reduction” means a reduction in liability for council tax calculated in accordance with either—[^key-195134c541f99fc817ab7a0fbf955b4e]
+  - (a) the Council Tax Reduction (Scotland) Regulations 2021[^key-a90435562e85f948866e991b86ccd862]; or
+  - (b) the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012;
+- “dwelling” includes any self-contained part of a building which is occupied as a separate dwelling, and includes mobile homes that have been permanently fixed to a site;
+- “electric storage heater” means—
+  - (a) a free‑standing electric storage heater;
+  - (b) an electric fan‑assisted storage warm air system;
+  - (c) an electric wired underfloor heating system, set in a solid floor or floors; or
+  - (d) an electric ceiling heating system;
+- “energy inefficient dwelling” means—
+  - (a) a dwelling, other than a mobile home permanently fixed to a site, which does not attain a Standard Assessment Procedure rating of 55 or above using the Reduced Data SAP calculation; or
+  - (b) a mobile home permanently fixed to a site where—
+    - (i) the U-value of the walls of the mobile home exceeds 0.5 W/m<sup>2</sup>K;
+    - (ii) the U-value of the floor of the mobile home exceeds 0.5 W/m<sup>2</sup>K;
+    - (iii) the U-value of the roof of the mobile home exceeds 0.3 W/m<sup>2</sup>K;
+    - (iv) the mobile home does not have a central heating system; or
+    - (v) the mobile home has a central heating system comprising a non-condensing boiler fuelled by liquid petroleum gas;
+  - (c) in paragraph (b) of this definition “the U-value” means the measure in W/m<sup>2</sup>K of heat transmission through the walls, floor or roof;
+- “maternity certificate” means a maternity certificate which accords with the requirements of regulation 2(3) of the Social Security (Medical Evidence) Regulations 1976[^f00005] or regulation 2 of the Statutory Maternity Pay (Medical Evidence) Regulations 1987[^f00006];
+- “network installer” has the meaning given in section 15 of the Social Security Act 1990;
+- “owner” includes any person who under the Lands Clauses Acts[^f00007] would be enabled to sell and convey land to the promoters of an undertaking;
+- “partner” means a spouse or civil partner or any person who lives with the applicant as husband or wife or in a relationship which has the characteristics of the relationship between husband and wife except that the persons are of the same sex;
+- “Standard Assessment Procedure” refers to the Government’s Standard Assessment Procedure for Energy Rating of Dwellings, 2009 Edition, as updated in March 2011[^f00008] and “Reduced Data SAP calculation” refers to methodology in Appendix S of that Edition;
+- “tenant” includes a sub-tenant and a person who—
+  - (a) occupies a dwelling in terms of a contract of employment;
+  - (b) has a licence to occupy a dwelling; or
+  - (c) is a cottar within the meaning of section 12(5) of the Crofters (Scotland) Act 1993[^f00009],
+
+  but excludes a tenant of a local authority or a body registered as a social landlord in the register kept under section 20(1) of the Housing (Scotland) Act 2010[^f00010]; and
+- “terminally ill” has the meaning given in section 66(2)(a) of the 1992 Act.
+
+## 3. Administering agencies[^key-d2f76db245b3070499a4f1b5c8a4b548]
+
+(1) The Scottish Ministers must appoint one or more persons or bodies of persons, known as administering agencies, to perform in an area specified in the appointment such functions as the Scottish Ministers may determine for the purpose of, or otherwise in connection with, the making of grants towards the cost of works specified in regulation 7.
+
+(2) In any period the Scottish Ministers may allocate sums to an administering agency for the purpose of making grants to persons whose applications for grants are eligible to be entertained and may re‑allocate any sums so allocated.
+
+(3) An appointment made under paragraph (1) may be terminated by the Scottish Ministers.
+
+(4) The appointment of, or the conferring of functions upon, an administering agency may be effected in whole or in part by or under a written contract entered into between the Scottish Ministers and the administering agency.
+
+(5) An administering agency may in accordance with criteria laid down from time to time by the Scottish Ministers select and register network installers.
+
+## 4. Conditions of grant[^key-4cae0bf547d6ccee8c1903745fb5857d]
+
+(1) Works for which a grant is made must only be carried out by network installers.
+
+(2) If access is not made available to the dwelling or the applicant for a grant fails to co‑operate with an administering agency or its agents to allow works to be carried out, a grant may be withdrawn.
+
+(3) If the applicant occupies a dwelling as a tenant, the grant may only be made if the landlord consents to the work.
+
+(4) No grant may be made unless the dwelling is suitable for the proposed works.
+
+(5) If the applicant resides in a dwelling which has been assessed as[^key-dfdde31ce6a0e6ac826b55e107602504] eligible to receive any heating qualifying action under article 15 of the Electricity and Gas (Energy Companies Obligation) Order 2012[^f00011], no grant may be made.
+
+(6) Subject to paragraph (7), no grant may be made in respect of any dwelling for which a grant under these Regulations or the 2009 Regulations has been made within the previous ten years.
+
+(7) Where the circumstances in paragraph (8) are met in respect of a dwelling, paragraph (6) will apply to that dwelling from the date on which a second grant is made under these Regulations in respect of it.
+
+(8) The circumstances are that—
+
+- (a) a grant of an amount not exceeding £750 has been made under these Regulations or the 2009 Regulations in respect of the dwelling; and
+- (b) prior to the making of that grant, no grant had been made under these Regulations or the 2009 Regulations in respect of the dwelling.
+
+(9) All works must comply with such standards as to materials and quality of work as may be laid down from time to time by an administering agency with the consent of the Scottish Ministers.
+
+(10) The offer of a grant may be made conditional on the carrying out of other works.
+
+## 5. Applications for grant[^key-61d007c86295a47ef71e41358d46134d]
+
+An application for a grant must be made to an administering agency and must contain such particulars as are required by the administering agency.
+
+## 6. Person eligible to apply for a grant[^key-b79f912bccb70b60e6f601384b2c5ae8]
+
+(1) Persons from whom an application for a grant may be entertained must—
+
+- (a) be the owner or tenant of the dwelling to which the application relates, either alone or jointly with others;
+- (b) have occupied the dwelling as their only or main residence for at least one year, except where the circumstances in paragraph (2) apply;
+- (c) not expect to cease to occupy the dwelling within the period of twelve months beginning with the date on which the works are completed, except where that person, or a partner living with that person, is terminally ill; and
+- (d) meet the criteria in all or any of paragraphs (3) to (8).
+
+(2) The circumstances are that—
+
+- (a) the person making the application, or a partner living with that person, is terminally ill; and
+- (b) no applicant has previously been excepted from the condition in paragraph (1)(b) in respect of any other dwelling by virtue of that person being terminally ill.
+
+(3) The criteria are that the person–
+
+- (a) has attained or lives with a partner who has attained the age of 60; and
+- (b) lives in a dwelling which does not have a central heating system.
+
+(4) The criteria are that the person—
+
+- (a) is or lives with a partner who is in receipt of carer’s allowance under section 70 of the 1992 Act[^f00012]; and
+- (b) lives in an energy inefficient dwelling.
+
+(5) The criteria are that the person—
+
+- (a) is or lives with a partner who is in receipt of council tax reduction or[^key-110273fbdcbeef5bd6fde3744f2113c8] a benefit listed in paragraph (9);
+- (b) lives in an energy inefficient dwelling; and
+- (c) either—
+  - (i) has a child living in the dwelling, or lives with a partner who has a child living in the dwelling, who is under the age of 16; or
+  - (ii) furnishes a maternity certificate with the application confirming that the applicant or the applicant’s partner is pregnant; or
+  - (iii) has attained or lives with a partner who has attained the age of 60.
+
+(6) The criteria are that the person—
+
+- (a) either—
+  - (i) is or lives with a partner who is in receipt of the highest rate of the care component of disability living allowance as mentioned in section 72(4)(a) of the 1992 Act or the higher rate of the mobility component of disability living allowance as mentioned in section 73(11)(a) of the 1992 Act; [^key-8c6fa7aa67e84d65229ad10be0fb3e28]...
+  - (ii) is or lives with a partner who is in receipt of the enhanced rate of the daily living component of a personal independence payment (payable under section 78(2) of the Welfare Reform Act 2012[^f00013]) or the enhanced rate of a mobility component of such a payment (payable under section 79(2) of that Act); [^key-437d009217a1de57a81fe941f5dd7fff]...
+  - (iia)[^key-8f7d4e83fddeb3c45227a1a4bc688a76] is or lives with a partner who is in receipt of the highest rate of the care component of child disability payment in accordance with regulation 11 (care component criterion: lowest, middle or highest rate care component) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021 or the higher rate of the mobility component of child disability payment in accordance with regulation 13 (mobility requirements: higher rate mobility component) of those Regulations, [^key-58e58bd435962f5877ae29d0a1bbc395]...
+  - (iib)[^key-ad508076cfe137ac6a1251114da2c6d0] is or lives with a partner who is in receipt of the enhanced rate of the daily living component of adult disability payment in accordance with regulation 5 (daily living component) of the Disability Assistance for Working Age People (Scotland) Regulations 2022 or the enhanced rate of the mobility component of adult disability payment in accordance with regulation 6 (mobility component) of those Regulations, or
+  - (iic)[^key-ee5ae528ed19f3e917f7544a561b33da] is or lives with a partner who is in receipt of the highest rate of the care component of Scottish adult disability living allowance in accordance with regulation 6 (care component criterion: lowest, middle or highest rate care component) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025 or the higher rate of the mobility component of Scottish adult disability living allowance in accordance with regulation 8 (mobility requirements: higher rate mobility component) of those Regulations, or
+  - (iii) is or lives with a partner who is in receipt of armed forces independence payment;
+- (b) is or lives with a partner who is in receipt of council tax reduction or[^key-937db6c9bfbfb9b4d817373a401d5c92] a benefit listed in paragraph (9) other than disability living allowance , Scottish adult disability living allowance[^key-efaf646f12e3f9474cbd708ab92fc185], a personal independence payment , child disability payment[^key-af0f7504f619ad4e02742e4ba8a7a145] , adult disability payment[^key-d7ea0eb7798e0af0c77422a8c4462783] or armed forces independence payment; and
+- (c) lives in an energy inefficient dwelling.
+
+(7) The criteria are that the person—
+
+- (a) is or lives with a partner who is in receipt of a mobility supplement of the type described in paragraph (9)(e) or who is in receipt of the intermediate rate or exceptional rate of a constant attendance allowance as described in that paragraph;
+- (b) is or lives with a partner who is in receipt of council tax reduction or[^key-839109f8fd11414d4b19d23f1ae7a6fd] a benefit listed in paragraph (9), other than those set out in sub-paragraph (e); and
+- (c) lives in an energy inefficient dwelling.
+
+(8) The criteria are that the person—
+
+- (a) is or lives with a partner who is terminally ill;
+- (b) is or lives with a partner who is in receipt of council tax reduction or[^key-994b352c24894fcf7f021dc8aa1ee9d6] a benefit in paragraph (9) other than armed forces independence payment, disability living allowance , Scottish adult disability living allowance[^key-f9563ed0902f8117901ce28725d83867], a personal independence payment , child disability payment[^key-fdf1a1a93e016d56ba147650cc905071] , adult disability payment,[^key-173748cf2ea44287aa13ab46c411a253], or the benefits set out in sub-paragraph (e) of that paragraph; and
+- (c) lives in an energy inefficient dwelling.
+
+(9) This paragraph applies to—
+
+- (a) guarantee credit as mentioned in section 1 of the State Pension Credit Act 2002[^f00014];
+- (b) child tax credit or working tax credit under the Tax Credits Act 2002[^f00015] where—
+  - (i) in the case of a child tax credit, the applicant is in receipt of the family element as well as an amount of the individual element which is greater than zero following the operation of steps 1 to 6 in regulation 8 of the Tax Credits (Income Thresholds and Determination of Rates) Regulations 2002[^f00016], and for these purposes the expressions “the family element” and “the individual element” are to be construed in accordance with section 9(3) of that Act; or
+  - (ii) in the case of working tax credit, the relevant income is no more than £18,165 and for these purposes “relevant income” has the same meaning as in Part 1 of that Act;
+- (c) attendance allowance, that is to say—
+  - (i) attendance allowance under section 64 of the 1992 Act[^f00017];
+  - (ii) an increase of an allowance which is payable in respect of constant attendance under the Industrial Injuries Benefit (Injuries arising before 5th July 1948) Regulations 2012[^f00018];
+  - (iii) a payment made under article 14, 15, 16, 43 or 44 of the Personal Injuries (Civilians) Scheme 1983[^f00019] or any analogous payment;
+  - (iv) any payment based on need for attendance which is paid with a war disablement pension; or
+  - (v) any payment intended to compensate for the non‑payment of a payment, allowance or pension mentioned in any of sub‑paragraphs (i) to (iv);
+- (ca)[^key-02bf9d0c057a4e16eaa25edaf3f001c8] pension age disability payment given in accordance with the Disability Assistance for Older People (Scotland) Regulations 2024,
+- (d) disability living allowance (within the meaning of section 71 of the 1992 Act)[^f00020], a personal independence payment (within the meaning of section 77 of the Welfare Reform Act 2012), armed forces independence payment, housing benefit and income support (each as provided for in Part VII of the 1992 Act)[^f00021], industrial injuries disablement benefit under sections 103 to 105 of the 1992 Act (where it includes constant attendance allowance) and an income‑based jobseeker’s allowance (within the meaning of the Jobseekers Act 1995[^f00022]);
+- (da)[^key-91449d8b40143556e6559216736cbe30] child disability payment given in accordance with the Disability Assistance for Children and Young People (Scotland) Regulations 2021,
+- (db)[^key-5972d55447463a84292bc860d8dc907f] adult disability payment given in accordance with the Disability Assistance for Working Age People (Scotland) Regulations 2022,
+- (dc)[^key-16273ece4c5e9ba77082c790b700bb95] Scottish adult disability living allowance given in accordance with the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
+- (e) a mobility supplement under article 20 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006[^f00023] (including such a supplement payable by virtue of the application of that article by any other scheme or order) or under article 25A of the Personal Injuries (Civilians) Scheme 1983[^f00024] (including that article as applied by article 48A of that Scheme), or a payment intended to compensate for the non-payment of such a supplement, or a payment of constant attendance allowance under article 8 of that Order[^f00025];
+- (f) employment and support allowance within the meaning of Part 1 of the Welfare Reform Act 2007[^f00026];[^key-0a93e8556d73ac6aa7ed5191f119c546]
+- (g) universal credit under Part 1 of the Welfare Reform Act 2012, where in any of the assessment periods for which universal credit is payable in accordance with section 7 of that Act that precede the application for a grant—
+  - (i) the earned income of the individual to whom universal credit is awarded, or in the case of an award to a couple their combined earned income, does not exceed £1,260, or
+  - (ii) the award of universal credit includes an amount in respect of a child under section 10 of that Act, an amount in respect of housing costs under section 11 of that Act, or an amount in respect of childcare costs under section 12 of that Act.
+
+## 7. Works for which a grant may be made[^key-68fb0a146a4b4ff1d229d79260372bab]
+
+A grant may be made towards the cost of carrying out work to improve the thermal insulation and the energy efficiency of a dwelling and providing advice to reduce or prevent the wastage of energy in a dwelling, including, but not limited to—
+
+- (a) the installation or renewal of a central heating system;
+- (b) the replacement of a boiler;
+- (c) draught proofing together with provision of additional means of ventilation, if necessary;
+- (d) internal and external wall insulation;
+- (e) insulation in any accessible roof space in the dwelling, including the insulation of the cold water tank and any water supply, overflow and expansion pipes in such a space;
+- (f) insulation between the internal and external leaves of cavity walls of the dwelling;
+- (g) insulation to a water heating system or part of such system.
+
+## 8. Amount of grant[^key-f3ae31b903e4d49d41bd1f728d48c7f2]
+
+(1) Subject to paragraph (4), the maximum amount of grant which may be made in respect of an application is—
+
+- (a) £4,000; or
+- (b) where paragraph (2) applies, £6,500.
+
+(2) This paragraph applies where─
+
+- (a) the dwelling, other than a mobile home permanently fixed to a site, cannot be improved to a Standard Assessment Procedure rating of 55 or above using the Reduced Data SAP calculation within the £4,000 limit;
+- (b) the dwelling is a mobile home permanently fixed to a site and would remain an energy inefficient dwelling after completion of works funded by a grant of £4,000; or
+- (c) the works for which a grant is made include the installation of an air source heat pump.
+
+(3) In paragraph (2)(c) “air source heat pump” means an electrically driven refrigeration system that transfers heat from outside air into a water-based heating system.
+
+(4) Where, in respect of any dwelling—
+
+- (a) the circumstances in regulation 4(8) apply; and
+- (b) an application for a further grant under these Regulations is made within 10 years of the date of the grant referred to in regulation 4(8)(a),
+
+the maximum amount of grant which may be made in respect of that application is to be calculated in accordance with paragraph (5).
+
+(5) The maximum amount of grant in paragraph (1) is reduced by the amount of the previous grant.
+
+## 9. Revocations and savings provision[^key-dcf6f14702bcb6929775773a71c82f08]
+
+(1) Subject to paragraph (2), the following instruments are revoked—
+
+- (a) the 2009 Regulations;
+- (b) the Home Energy Assistance Scheme (Scotland) Amendment Regulations 2009[^f00027];
+- (c) the Home Energy Assistance Scheme (Scotland) Amendment Regulations 2010[^f00028];
+- (d) the Home Energy Assistance Scheme (Scotland) Amendment Regulations 2011[^f00029];
+- (e) the Home Energy Assistance Scheme (Scotland) Amendment (No. 2) Regulations 2011[^f00030];
+- (f) the Home Energy Assistance Scheme (Scotland) Amendment Regulations 2012[^f00031]; and
+- (g) paragraph 10 of the Schedule to the Housing (Scotland) Act 2010 (Consequential Modifications) Order 2012[^f00032].
+
+(2) The instruments listed in paragraph (1) continue to apply in any case where an application for a grant was made in accordance with regulation 5 of the 2009 Regulations before 1st July 2013.
+
+M J BURGESS
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+14th May 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the making of grants to improve the thermal insulation and energy efficiency of dwellings and to provide advice to reduce or prevent the wastage of energy in a dwelling.
+
+Regulation 3 provides that the Scottish Ministers may appoint persons or bodies as administering agencies for the grants.
+
+Regulation 4 lists the conditions of grant and regulation 5 provides that application for grant must be made to an administering agency.
+
+Regulation 6 provides a description of persons from whom an application for grant may be entertained. These are owners or tenants who meet certain conditions described in regulation 6(1). Applicants must satisfy the criteria in paragraphs (3) to (8) of that regulation before an application can be considered.
+
+Regulation 7 describes the types of work for which grants may be made.
+
+Regulation 8 provides for a maximum amount of grant of £4,000 and £6,500 in particular cases.
+
+Regulations which make provision for similar grants are revoked by regulation 9 with a saving provision for applications already made.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c.27](https://www.legislation.gov.uk/ukpga/1990/27); section 15 was amended by section 142 of the Housing Grants, Construction and Regeneration Act [1996 (c.53)](https://www.legislation.gov.uk/ukpga/1996/53). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The requirement to obtain Treasury consent was removed by section 55 of that Act.
+
+[^key-2a94bf5e89a7e0db8984c028c080f2b5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/148/regulation/1) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/148/regulation/1)
+
+[^key-e98c852ff94b1d722c0bd46fca1d98cb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/148/regulation/2) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/148/regulation/1)
+
+[^f00002]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00003]: Footnote: [S.S.I. 2009/48](https://www.legislation.gov.uk/ssi/2009/48) as amended by [S.S.I. 2009/392](https://www.legislation.gov.uk/ssi/2009/392), [2010/110](https://www.legislation.gov.uk/ssi/2010/110), [2011/56](https://www.legislation.gov.uk/ssi/2011/56), [2011/350](https://www.legislation.gov.uk/ssi/2011/350), [2012/34](https://www.legislation.gov.uk/ssi/2012/34) and [2012/38](https://www.legislation.gov.uk/ssi/2012/38).
+
+[^f00004]: Footnote: [S.I. 2011/2552](https://www.legislation.gov.uk/uksi/2011/2552), as relevantly amended by [S.I. 2013/436](https://www.legislation.gov.uk/uksi/2013/436).
+
+[^key-195134c541f99fc817ab7a0fbf955b4e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/148/regulation/2) inserted (1.11.2013) by [The Home Energy Assistance Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/253)](https://www.legislation.gov.uk/ssi/2013/253), [regs. 1](https://www.legislation.gov.uk/ssi/2013/253/regulation/1), [4](https://www.legislation.gov.uk/ssi/2013/253/regulation/4)
+
+[^key-a90435562e85f948866e991b86ccd862]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/148/regulation/2) substituted (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 5 para. 6(2)](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/6/2) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+
+[^f00005]: Footnote: [S.I. 1976/615](https://www.legislation.gov.uk/uksi/1976/615); regulation 2(3) was amended by [S.I. 1987/409](https://www.legislation.gov.uk/uksi/1987/409) and [2001/2931](https://www.legislation.gov.uk/uksi/2001/2931).
+
+[^f00006]: Footnote: [S.I. 1987/235](https://www.legislation.gov.uk/uksi/1987/235); regulation 2 was amended by [S.I. 2001/2931](https://www.legislation.gov.uk/uksi/2001/2931).
+
+[^f00007]: Footnote: Defined in Schedule 1 to the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
+
+[^f00008]: Footnote: Published by the Building Research Establishment.
+
+[^f00009]: Footnote: [1993 c.44](https://www.legislation.gov.uk/ukpga/1993/44).
+
+[^f00010]: Footnote: [2010 asp 17](https://www.legislation.gov.uk/asp/2010/17).
+
+[^key-d2f76db245b3070499a4f1b5c8a4b548]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/148/regulation/3) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/148/regulation/1)
+
+[^key-4cae0bf547d6ccee8c1903745fb5857d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/148/regulation/4) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/148/regulation/1)
+
+[^key-dfdde31ce6a0e6ac826b55e107602504]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/ssi/2013/148/regulation/4/5) substituted (1.4.2014) by [The Home Energy Assistance Scheme (Scotland) Amendment Regulations 2014 (S.S.I. 2014/40)](https://www.legislation.gov.uk/ssi/2014/40), [regs. 1](https://www.legislation.gov.uk/ssi/2014/40/regulation/1), [3](https://www.legislation.gov.uk/ssi/2014/40/regulation/3)
+
+[^f00011]: Footnote: [S.I. 2012/3018](https://www.legislation.gov.uk/uksi/2012/3018).
+
+[^key-61d007c86295a47ef71e41358d46134d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/148/regulation/5) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/148/regulation/1)
+
+[^key-b79f912bccb70b60e6f601384b2c5ae8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/148/regulation/6) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/148/regulation/1)
+
+[^f00012]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 70 was amended by [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556), [2002/1457](https://www.legislation.gov.uk/uksi/2002/1457), [2011/2426](https://www.legislation.gov.uk/uksi/2011/2426) and [2013/388](https://www.legislation.gov.uk/uksi/2013/388).
+
+[^key-110273fbdcbeef5bd6fde3744f2113c8]: Textual amendment: Words in [reg. 6(5)(a)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/5/a) inserted (1.11.2013) by [The Home Energy Assistance Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/253)](https://www.legislation.gov.uk/ssi/2013/253), [regs. 1](https://www.legislation.gov.uk/ssi/2013/253/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2013/253/regulation/5/a)
+
+[^key-8c6fa7aa67e84d65229ad10be0fb3e28]: Textual amendment: Word in [reg. 6(6)(a)(i)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/a/i) omitted (21.3.2025) by virtue of [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [15(2)(a)](https://www.legislation.gov.uk/ssi/2024/311/regulation/15/2/a)
+
+[^f00013]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-437d009217a1de57a81fe941f5dd7fff]: Textual amendment: Word in [reg. 6(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/a/ii) omitted (26.7.2021) by virtue of [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [15(2)(a)](https://www.legislation.gov.uk/ssi/2021/73/regulation/15/2/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+
+[^key-8f7d4e83fddeb3c45227a1a4bc688a76]: Textual amendment: [Reg. 6(6)(a)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/a)[(iia)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/iia) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [15(2)(b)](https://www.legislation.gov.uk/ssi/2021/73/regulation/15/2/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+
+[^key-58e58bd435962f5877ae29d0a1bbc395]: Textual amendment: Word in [reg. 6(6)(a)(iia)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/a) omitted (21.3.2022) by virtue of [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [15(a)(i)](https://www.legislation.gov.uk/ssi/2022/31/regulation/15/a/i) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+
+[^key-ad508076cfe137ac6a1251114da2c6d0]: Textual amendment: [Reg. 6(6)(a)(iib)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/a) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [15(a)(ii)](https://www.legislation.gov.uk/ssi/2022/31/regulation/15/a/ii) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+
+[^key-ee5ae528ed19f3e917f7544a561b33da]: Textual amendment: [Reg. 6(6)(a)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/a)[(iic)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/iic) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [15(2)(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/15/2/b)
+
+[^key-937db6c9bfbfb9b4d817373a401d5c92]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/b) inserted (1.11.2013) by [The Home Energy Assistance Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/253)](https://www.legislation.gov.uk/ssi/2013/253), [regs. 1](https://www.legislation.gov.uk/ssi/2013/253/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2013/253/regulation/5/b)
+
+[^key-efaf646f12e3f9474cbd708ab92fc185]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/b) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [15(3)](https://www.legislation.gov.uk/ssi/2024/311/regulation/15/3)
+
+[^key-af0f7504f619ad4e02742e4ba8a7a145]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/b) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [15(3)](https://www.legislation.gov.uk/ssi/2021/73/regulation/15/3) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+
+[^key-d7ea0eb7798e0af0c77422a8c4462783]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/6/b) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [15(b)](https://www.legislation.gov.uk/ssi/2022/31/regulation/15/b) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+
+[^key-839109f8fd11414d4b19d23f1ae7a6fd]: Textual amendment: Words in [reg. 6(7)(b)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/7/b) inserted (1.11.2013) by [The Home Energy Assistance Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/253)](https://www.legislation.gov.uk/ssi/2013/253), [regs. 1](https://www.legislation.gov.uk/ssi/2013/253/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2013/253/regulation/5/c)
+
+[^key-994b352c24894fcf7f021dc8aa1ee9d6]: Textual amendment: Words in [reg. 6(8)(b)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/8/b) inserted (1.11.2013) by [The Home Energy Assistance Scheme (Scotland) Amendment Regulations 2013 (S.S.I. 2013/253)](https://www.legislation.gov.uk/ssi/2013/253), [regs. 1](https://www.legislation.gov.uk/ssi/2013/253/regulation/1), [5(d)](https://www.legislation.gov.uk/ssi/2013/253/regulation/5/d)
+
+[^key-f9563ed0902f8117901ce28725d83867]: Textual amendment: Words in [reg. 6(8)(b)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/8/b) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [15(3)](https://www.legislation.gov.uk/ssi/2024/311/regulation/15/3)
+
+[^key-fdf1a1a93e016d56ba147650cc905071]: Textual amendment: Words in [reg. 6(8)(b)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/8/b) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [15(4)](https://www.legislation.gov.uk/ssi/2021/73/regulation/15/4) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+
+[^key-173748cf2ea44287aa13ab46c411a253]: Textual amendment: Words in [reg. 6(8)(b)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/8/b) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [15(c)](https://www.legislation.gov.uk/ssi/2022/31/regulation/15/c) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+
+[^f00014]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^f00015]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21); section 1 makes provision for child tax credit and working tax credit.
+
+[^f00016]: Footnote: [S.I. 2002/2008](https://www.legislation.gov.uk/uksi/2002/2008); as relevantly amended by [S.I. 2008/796](https://www.legislation.gov.uk/uksi/2008/796), [2009/800](https://www.legislation.gov.uk/uksi/2009/800), [2011/1035](https://www.legislation.gov.uk/uksi/2011/1035), [2012/849](https://www.legislation.gov.uk/uksi/2012/849) and [2013/750](https://www.legislation.gov.uk/uksi/2013/750).
+
+[^f00017]: Footnote: Section 64 was amended by section 66(1) of the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) and paragraph 5 of schedule 9 to the Welfare Reform Act [2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^f00018]: Footnote: [S.I. 2012/2743](https://www.legislation.gov.uk/uksi/2012/2743), as amended by [S.I. 2012/2812](https://www.legislation.gov.uk/uksi/2012/2812).
+
+[^f00019]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686); articles 14, 15 and 16 were amended by [S.I. 2001/420](https://www.legislation.gov.uk/uksi/2001/420) and article 16 by [S.I. 1984/1675](https://www.legislation.gov.uk/uksi/1984/1675).
+
+[^key-02bf9d0c057a4e16eaa25edaf3f001c8]: Textual amendment: [Reg. 6(9)(ca)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/9/ca) inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [10](https://www.legislation.gov.uk/ssi/2024/141/regulation/10) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+
+[^f00020]: Footnote: Section 71 was amended by section 67 of the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^f00021]: Footnote: Section 124, which deals with income support, and section 130, which deals with housing benefit, were repealed by paragraph 1 of part 1 of Schedule 14 of the Welfare Reform Act [2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5), with savings provided by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358).
+
+[^f00022]: Footnote: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18). There are amendments not relevant to these Regulations.
+
+[^key-91449d8b40143556e6559216736cbe30]: Textual amendment: [Reg. 6(9)(da)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/9/da) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [15(5)](https://www.legislation.gov.uk/ssi/2021/73/regulation/15/5) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+
+[^key-5972d55447463a84292bc860d8dc907f]: Textual amendment: [Reg. 6(9)(db)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/9/db) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [15(d)](https://www.legislation.gov.uk/ssi/2022/31/regulation/15/d) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+
+[^key-16273ece4c5e9ba77082c790b700bb95]: Textual amendment: [Reg. 6(9)(dc)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/9/dc) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [15(4)](https://www.legislation.gov.uk/ssi/2024/311/regulation/15/4)
+
+[^f00023]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606). Article 20 is amended by [S.I.2013/388](https://www.legislation.gov.uk/uksi/2013/388).
+
+[^f00024]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686); article 25A was added by [S.I. 1983/1164](https://www.legislation.gov.uk/uksi/1983/1164) and amended by [S.I. 1983/1540](https://www.legislation.gov.uk/uksi/1983/1540), [1986/628](https://www.legislation.gov.uk/uksi/1986/628), [1990/1300](https://www.legislation.gov.uk/uksi/1990/1300), [1991/708](https://www.legislation.gov.uk/uksi/1991/708), [1992/702](https://www.legislation.gov.uk/uksi/1992/702), [1995/445](https://www.legislation.gov.uk/uksi/1995/445), [1997/812](https://www.legislation.gov.uk/uksi/1997/812) and [2001/420](https://www.legislation.gov.uk/uksi/2001/420). Article 48A was added by [S.I. 1984/1289](https://www.legislation.gov.uk/uksi/1984/1289). There are other amendments to [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686) not relevant to these Regulations.
+
+[^f00025]: Footnote: Article 8 was amended by [S.I. 2009/706](https://www.legislation.gov.uk/uksi/2009/706).
+
+[^f00026]: Footnote: [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5) as amended by the Welfare Reform Act [2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24) and the Welfare Reform Act [2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-0a93e8556d73ac6aa7ed5191f119c546]: Textual amendment: [Reg. 6(9)(g)](https://www.legislation.gov.uk/ssi/2013/148/regulation/6/9/g) inserted (1.4.2014) by [The Home Energy Assistance Scheme (Scotland) Amendment Regulations 2014 (S.S.I. 2014/40)](https://www.legislation.gov.uk/ssi/2014/40), [regs. 1](https://www.legislation.gov.uk/ssi/2014/40/regulation/1), [4](https://www.legislation.gov.uk/ssi/2014/40/regulation/4)
+
+[^key-68fb0a146a4b4ff1d229d79260372bab]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/148/regulation/7) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/148/regulation/1)
+
+[^key-f3ae31b903e4d49d41bd1f728d48c7f2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/148/regulation/8) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/148/regulation/1)
+
+[^key-dcf6f14702bcb6929775773a71c82f08]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/148/regulation/9) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/148/regulation/1)
+
+[^f00027]: Footnote: [S.S.I. 2009/392](https://www.legislation.gov.uk/ssi/2009/392).
+
+[^f00028]: Footnote: [S.S.I. 2010/110](https://www.legislation.gov.uk/ssi/2010/110).
+
+[^f00029]: Footnote: [S.S.I. 2011/56](https://www.legislation.gov.uk/ssi/2011/56).
+
+[^f00030]: Footnote: [S.S.I. 2011/350](https://www.legislation.gov.uk/ssi/2011/350).
+
+[^f00031]: Footnote: [S.S.I. 2012/34](https://www.legislation.gov.uk/ssi/2012/34).
+
+[^f00032]: Footnote: [S.S.I. 2012/38](https://www.legislation.gov.uk/ssi/2012/38).

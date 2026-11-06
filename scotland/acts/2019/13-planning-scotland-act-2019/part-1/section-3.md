@@ -1,0 +1,58 @@
+---
+title: Planning (Scotland) Act 2019, section 3
+act: Planning (Scotland) Act 2019
+section: '3'
+status: revised-with-pending-changes
+text_date: '2026-11-02'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2019/13/section/3
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Planning (Scotland) Act 2019, section 3
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/asp/2019/13
+>
+> Extent: Scotland.
+
+## 3. Open space strategy[^key-d5b624a391f0109e949f698be3e2e0db]
+
+*Extent: S*
+
+(1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
+
+(2) After section 3F insert—
+
+> **3G. Open space strategy**
+>
+> (1) A planning authority is to prepare and publish an open space strategy.
+>
+> (2) An open space strategy is to set out a strategic framework of the planning authority's policies and proposals as to the development, maintenance and use of green infrastructure in their district, including open spaces and green networks.
+>
+> (3) An open space strategy must contain—
+>
+> - (a) an audit of existing open space provision,
+> - (b) an assessment of current and future requirements,
+> - (c) any other matter which the planning authority consider appropriate.
+>
+> (4) In this section—
+>
+> - “**green infrastructure**” means features of the natural and built environments that provide a range of ecosystem and social benefits,
+> - “**green networks**” means connected areas of green infrastructure and open space,
+> - “**open space**” means space within and on the edge of settlements comprising green infrastructure or civic areas such as squares, market places and other paved or hard landscaped areas with a civic function.
+>
+> (5) The Scottish Ministers may by regulations—
+>
+> - (a) make provision about how planning authorities are to discharge their functions under this section including, in particular—
+>   - (i) how they conduct an audit under subsection (3)(a), and
+>   - (ii) how they assess current and future requirements for the purposes of subsection (3)(b),
+> - (b) amend subsection (4) by adding a definition or amending or omitting a definition for the time being specified there.
+>
+> (6) For the purposes of this section a national park authority is not a planning authority.
+
+.
+
+## Annotations
+
+[^key-d5b624a391f0109e949f698be3e2e0db]: Commencement: S. 3 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)

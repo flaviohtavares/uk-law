@@ -1,0 +1,201 @@
+---
+title: The Mutual Recognition of Supervision Measures in the European Union (Scotland) Regulations 2014
+id: ssi/2014/337
+type: ScottishStatutoryInstrument
+category: secondary
+status: repealed
+made_date: '2014-12-01'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2014/337
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2014/337/pdfs/ssipn_20140337_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/337/pdfs/ssi_20140337_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/337/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mutual Recognition of Supervision Measures in the European Union (Scotland) Regulations 2014
+
+> This law has been repealed or revoked.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**No longer in force.**
+
+2014 No. 337
+
+Criminal Procedure
+
+The Mutual Recognition of Supervision Measures in the European Union (Scotland) Regulations 2014 (revoked)[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+Made
+
+1st December 2014
+
+Laid before the Scottish Parliament
+
+1st December 2014
+
+Coming into force
+
+1st December 2014
+
+[^key-ac3f547f2c98bfb749fdeadcc3e65e41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## 1. Citation and commencement[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Interpretation[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Monitoring of Scottish bail conditions in another State[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Monitoring of another State’s supervision measures in Scotland[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-ac3f547f2c98bfb749fdeadcc3e65e41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**No longer in force.**
+
+## SCHEDULE 1 — Monitoring of Scottish bail conditions in another State[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+Regulation 3
+
+### 1. Interpretation of this Schedule[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Request to executing State for recognition of a bail order[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Notification to executing State where bail modified or withdrawn or trial date changes[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Notification to parties on receipt of information from executing State[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Bail review in light of information from executing State[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Bail review: further provision[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Requirement to apply for bail review before maximum monitoring period ends[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Bail review required by paragraph 7: further provision[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Dialogue with the executing State[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Monitoring of another State’s supervision measures in Scotland[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+Regulation 4
+
+### 1. Interpretation of this Schedule[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Receipt of a request to forward a decision on supervision measures[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Receipt of a request for recognition of a decision on supervision measures[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Recognition of a decision on supervision measures[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Further procedure where recognition may be refused[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-ac3f547f2c98bfb749fdeadcc3e65e41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Grounds on which recognition may be refused[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Adaptation of supervision measure in Scotland[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Modification of recognised supervision measure by issuing State[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Withdrawal of recognised supervision measures[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. End of period for monitoring supervision measures[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Police responsibilities[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Arrest on suspicion of supervision measure breach[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Interpretation of paragraphs 12 and 13[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Procedure following arrest[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Detention of arrested children[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Court’s power to order detention[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Court-ordered detention of children and young persons[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Reporting breach to issuing State[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Dialogue with the issuing State, police and others[^key-ac3f547f2c98bfb749fdeadcc3e65e41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-ac3f547f2c98bfb749fdeadcc3e65e41]: Textual amendment: Regulations revoked (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [8](https://www.legislation.gov.uk/ssi/2020/339/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/339/regulation/9))

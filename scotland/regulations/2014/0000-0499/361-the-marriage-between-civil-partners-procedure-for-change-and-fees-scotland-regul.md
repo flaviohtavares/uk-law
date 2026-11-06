@@ -1,0 +1,262 @@
+---
+title: The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Regulations 2014
+id: ssi/2014/361
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-12-15'
+text_date: '2023-04-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2014/361
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2014/361/pdfs/ssipn_20140361_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/361/pdfs/ssi_20140361_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/361/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Regulations 2014
+
+> Text as at 2023-04-24.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2014 No. 361
+
+Marriage
+
+Civil Partnership
+
+The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Regulations 2014
+
+Made
+
+15th December 2014
+
+Coming into force
+
+16th December 2014
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 10 of the Marriage and Civil Partnership (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 10(4) of that Act they have consulted with the Registrar General of Births, Deaths and Marriages for Scotland.
+
+In accordance with section 10(6) of that Act, a draft of these Regulations has been laid before, and approved by resolution of, the Scottish Parliament.
+
+## 1. Citation and commencement[^key-97e6fa6c6a6e006d11e8aeccc76c9fb6]
+
+These Regulations may be cited as the Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Regulations 2014 and come into force on the day after the day on which they are made**.**
+
+## 2. Interpretation[^key-a278bc8dc9e3e38b224b0091007c96b7]
+
+In these Regulations—
+
+- “the 1965 Act” means the Registration of Births, Deaths and Marriages (Scotland) Act 1965[^f00002];
+- “application form” means the form set out in the Schedule to these Regulations;
+- “district registrar” has the meaning given in section 7(12) of the 1965 Act;
+- “marriage register” means the register of marriages provided by the Registrar General of Births, Deaths and Marriages for Scotland under section 32(1) of the 1965 Act[^f00003];
+- “registration district” has the meaning given in section 5 of the 1965 Act[^f00004].
+
+## 3. Procedure to change a civil partnership into marriage[^key-1f2a32d60927eaac12c4b8a517ebc72d]
+
+(1) Where the parties to a qualifying civil partnership wish to change their civil partnership into a marriage, the parties must—
+
+- (a) make an application by completing sections 1 to 12 of the form set out in the Schedule to these Regulations (the “application form”); and
+- (b) appear before a district registrar in any registration district with the fee payable.
+
+(2) The parties must provide the following information and evidence in support of the application—
+
+- (a) an extract from the entry in the civil partnership register relating to their civil partnership; and
+- (b) any evidence of their identity requested by the district registrar.
+
+(3) Where an application is made under paragraph (1), the district registrar must, where satisfied with the information and evidence under paragraph (2)—
+
+- (a) in the presence of the parties to the qualifying civil partnership—
+  - (i) witness the signing of section 13 of the application form by each party;
+  - (ii) sign section 14 of the application form; [^key-96b3ec9725b55d19b01b3010f9839e02]...
+- (b)[^key-ce9d646a7560e1c2e3d6df600567eab4] enter the information from section 1 and sections 4 to 10 of the application form in the marriage register, and
+- (c) enter in the marriage register as the date and place of the marriage the date on, and the place at, which the district registrar signs section 14 of the application form in accordance with sub-paragraph (a).
+
+(4) Paragraph (3)(c) is without prejudice to section 11(2)(b) of the Marriage and Civil Partnership (Scotland) Act 2014 (effect of marriage between civil partners in a qualifying civil partnership).
+
+## 4. Date of change into marriage[^key-72e671d11e56ed0f39773e5aa0cfa9b4]
+
+The change from a civil partnership into a marriage takes effect when the district registrar signs section 14 of the application form in accordance with regulation 3(3)(a)(ii).
+
+## 5. Fee in respect of making an application[^key-e52a7cdf9904a30e64682072c10fafe3]
+
+The fee payable in respect of making an application under regulation 3(1) is £45.00.
+
+## 6. Applications for which no fee payable[^key-fbb3f8e57da12c34a45ac9f7cc093a7f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Modification of the Marriage (Scotland) Act 1977[^key-5aa041795b3f238b7102001922f8b88c]
+
+(1) In their application to civil partnerships changed into marriages in accordance with these Regulations, the following provisions of the Marriage (Scotland) Act 1977[^f00005] have effect subject to the following modifications.
+
+(2) For section 5 (objections to marriage) there was substituted—
+
+> (1) Any person may at any time before a civil partnership is changed into a marriage under section 10 regulations submit an objection in writing to any district registrar on the ground that one or both of the parties is or are incapable of understanding the procedure or of consenting to marriage.
+>
+> (2) For the purposes of subsection (1)—
+>
+> - (a) an objection shall not be treated as submitted until there has also been produced to the registrar a supporting certificate attested in the prescribed manner by a registered medical practitioner;
+> - (b) an objection which is submitted to the registrar by electronic means is to be treated as in writing if it is received in a form which is legible and capable of being used for subsequent reference.
+>
+> (3) Upon receipt of an objection in accordance with subsection (1), the district registrar must notify the Registrar General of the objection.
+>
+> (4) If the Registrar General is satisfied, on consideration of an objection of which notification under subsection (3) was received, that—
+>
+> - (a) there is a legal impediment to the marriage, he or she must direct the district registrar to take all reasonable steps to ensure that the procedure to change the civil partnership into a marriage does not take place and must notify, or direct the district registrar to notify, the parties to the intended marriage accordingly;
+> - (b) there is no legal impediment to the marriage, he or she must inform the district registrar to that effect.
+>
+> (5) For the purposes of this section there is a legal impediment to a marriage where one or both of the parties is or are incapable of understanding the nature of the procedure to change the civil partnership into a marriage or of consenting to marriage.
+>
+> (6) A person who has submitted an objection in accordance with subsection (1) may at any time withdraw it. The Registrar General is entitled to have regard to that objection notwithstanding such withdrawal.
+
+.
+
+(3) For section 20A[^f00006] (grounds on which marriage void) there was substituted—
+
+> (1) Where subsection (2) or (3)[^key-1aac5b9fc453c0b9675ab199a845beee] applies in relation to a civil partnership changed into a marriage under section 10 regulations, the marriage will be void.
+>
+> (2) This subsection applies if at the time an application form was signed by the parties, a party who was capable of consenting to the marriage purported to give consent but did so by reason only of duress or error.
+>
+> (3) This subsection applies if at the time an application form was signed by the parties, a party to the application was incapable of—
+>
+> - (a) understanding the nature of marriage; and
+> - (b) consenting to the marriage.
+>
+> (4) If a party to the marriage purported to give consent to the marriage other than by reason only of duress or error, the marriage will not be void by reason only of that party’s having tacitly withheld consent to the marriage at the time when the application form was signed by the parties.
+>
+> (5) In this section “error” means error as to the nature of the procedure to change the civil partnership into a marriage.
+
+.
+
+(4) For section 22 there was substituted—
+
+> ***Interpreters at the procedure to change the civil partnership into a marriage***
+>
+> (1) At the procedure to change a civil partnership into a marriage under section 10 regulations, if the district registrar considers it necessary or desirable, he or she may use the services of an interpreter (not being a party to the marriage).
+>
+> (2) The interpreter must—
+>
+> - (a) before the procedure to change the civil partnership into a marriage, sign a written statement that he or she understands, and is able to converse in, any language in respect of which he or she is to act as interpreter at that procedure; and
+> - (b) immediately after the application form is signed, provide the district registrar with a certificate written in English and signed by the interpreter that he or she has faithfully acted as interpreter at the procedure to change the civil partnership into a marriage.
+>
+> (3) Any fee for the services of the interpreter shall be paid by the parties to the marriage.
+
+.
+
+(5) In section 23A (validity of a registered marriage)—
+
+- (a) subsection (1) has effect as if—
+  - (i) the words “at the ceremony” were omitted;
+  - (ii) for the words “an appropriate” there was substituted the words “the district”; and
+  - (iii) the words “or section 10 regulations” were added at the end; and
+- (b) subsection (2) was omitted.
+
+(6) In section 24 (offences)—
+
+- (a) for subsection (1) there was substituted—
+
+  > (1) Any person who—
+  >
+  > - (a) falsifies or forges the application form issued or made, or purporting to be issued or made in relation to the procedure to change a civil partnership into a marriage under section 10 regulations;
+  > - (b) knowingly uses, or gives or sends to any person as genuine, any false or forged application form issued or made, or purporting to be issued or made under section 10 regulations;
+  > - (c) as the district registrar signs the application form, without both parties to the marriage being present,
+  >
+  > is guilty of an offence and is liable—
+  >
+  > - (i) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 2 years or to both;
+  > - (ii) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding 3 months or to both.
+
+  ; and
+- (b) subsection (2) is omitted.
+
+(7) In section 26(2) (interpretation)—
+
+- (a) after the definition of “annulment” there was inserted—
+
+  > - “application form” means the form in relation to the procedure to change a civil partnership into a marriage under section 10 regulations;
+
+  and
+- (b) after the definition of “Scottish waters” there was inserted—
+
+  > - “section 10 regulations” means regulations made under section 10 of the Marriage and Civil Partnership (Scotland) Act 2014;
+
+  .
+
+## 8. Modification of the Gender Recognition Act 2004[^key-fab6ccc6f906823ce554dad24c876f88]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+MARCO BIAGI
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+15th December 2014
+
+## SCHEDULE — APPLICATION FORM TO CHANGE A CIVIL PARTNERSHIP INTO A MARRIAGE[^key-0e93846042d5cd2ee04bbf2a0c5d94a9]
+
+Regulation 3
+
+[image: see source](https://www.legislation.gov.uk/ssi/2014/361/images/ssi_20140361_en_001)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2014/361/images/ssi_20140361_en_002)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations establish the procedure for changing an existing qualifying civil partnership into a marriage under section 10 of the Marriage and Civil Partnership (Scotland) Act 2014. A qualifying civil partnership is any existing civil partnership which was registered in Scotland and has not been dissolved, annulled or ended by death. A civil partnership which was registered outside the United Kingdom under an Order in Council made under Chapter 1 of Part 5 of the Civil Partnership Act 2004, where the parties to the civil partnership elected Scotland as the relevant part of the United Kingdom under the Order and details of the civil partnership were sent to the Registrar General of Births, Deaths and Marriages for Scotland, is treated as having been registered in Scotland.
+
+The Regulations also make appropriate modifications to the Marriage (Scotland) Act 1977 and the Gender Recognition Act 2004 in consequence of the procedure.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 5](https://www.legislation.gov.uk/asp/2014/5).
+
+[^key-97e6fa6c6a6e006d11e8aeccc76c9fb6]: Commencement: Reg. 1 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
+
+[^key-a278bc8dc9e3e38b224b0091007c96b7]: Commencement: Reg. 2 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
+
+[^f00002]: Footnote: [1965 c.49](https://www.legislation.gov.uk/ukpga/1965/49).
+
+[^f00003]: Footnote: Section 32(1) was amended by paragraph 8 of Schedule 2 to the Marriage (Scotland) Act [1977 (c.15)](https://www.legislation.gov.uk/ukpga/1977/15).
+
+[^f00004]: Footnote: Section 5 was substituted by section 37(2) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14).
+
+[^key-1f2a32d60927eaac12c4b8a517ebc72d]: Commencement: Reg. 3 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
+
+[^key-96b3ec9725b55d19b01b3010f9839e02]: Textual amendment: Word in [reg. 3(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/a/ii) omitted (24.4.2023) by virtue of [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/2/a)
+
+[^key-ce9d646a7560e1c2e3d6df600567eab4]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/b)[(c)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/c)[(4)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/4) substituted for [reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2014/361/regulation/3/3/b) (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/2/b)
+
+[^key-72e671d11e56ed0f39773e5aa0cfa9b4]: Commencement: Reg. 4 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
+
+[^key-e52a7cdf9904a30e64682072c10fafe3]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/361/regulation/5) substituted (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/3)
+
+[^key-fbb3f8e57da12c34a45ac9f7cc093a7f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/361/regulation/6) revoked (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/4)
+
+[^key-5aa041795b3f238b7102001922f8b88c]: Commencement: Reg. 7 in force at 16.12.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/361/regulation/1)
+
+[^f00005]: Footnote: [1977 c.15](https://www.legislation.gov.uk/ukpga/1977/15).
+
+[^f00006]: Footnote: Section 20A was inserted by section 2 of the Family Law (Scotland) Act [2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2).
+
+[^key-1aac5b9fc453c0b9675ab199a845beee]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/ssi/2014/361/regulation/7/3) substituted (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/5)
+
+[^key-fab6ccc6f906823ce554dad24c876f88]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/361/regulation/8) revoked (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [regs. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/55/regulation/2/4)
+
+[^key-0e93846042d5cd2ee04bbf2a0c5d94a9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2014/361/schedule) form substituted (24.4.2023) by [The Marriage Between Civil Partners (Procedure for Change and Fees) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/55)](https://www.legislation.gov.uk/ssi/2023/55), [reg. 1](https://www.legislation.gov.uk/ssi/2023/55/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2023/55/schedule)

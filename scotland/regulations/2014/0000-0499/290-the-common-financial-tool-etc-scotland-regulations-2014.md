@@ -1,0 +1,275 @@
+---
+title: The Common Financial Tool etc. (Scotland) Regulations 2014
+id: ssi/2014/290
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2014-11-05'
+text_date: '2016-11-30'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2014/290
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2014/290/pdfs/ssipn_20140290_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/290/pdfs/ssi_20140290_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/290/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Common Financial Tool etc. (Scotland) Regulations 2014
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2016-11-30. See https://www.legislation.gov.uk/changes/affected/ssi/2014/290
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2014 No. 290
+
+Insolvency
+
+Bankruptcy
+
+Debt
+
+The Common Financial Tool etc. (Scotland) Regulations 2014
+
+Made
+
+5th November 2014
+
+Coming into force
+
+1st April 2015
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 5D, 71C and 72(1A) of and paragraph 5 of Schedule 5 to the Bankruptcy (Scotland) Act 1985[^f00001] (“the 1985 Act”), section 7(2)(bd) of the Debt Arrangement and Attachment (Scotland) Act 2002[^f00002] (“the 2002 Act”) and all other powers enabling them to do so.
+
+In accordance with section 72(2) and (3)(a)(iic) and (b) of the 1985 Act and section 62(4) of the 2002 Act[^f00003], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement[^key-5bc346f8d5d6cd1d53a7d0f83abcd380]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Interpretation[^key-5bc346f8d5d6cd1d53a7d0f83abcd380]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Common Financial Tool
+
+### 3. Common financial tool[^key-5bc346f8d5d6cd1d53a7d0f83abcd380]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3A. Common financial tool: contingency allowance[^key-5bc346f8d5d6cd1d53a7d0f83abcd380]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Common financial tool: supporting statements and evidence[^key-5bc346f8d5d6cd1d53a7d0f83abcd380]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Money Advice Trust licence requirements: report[^key-5bc346f8d5d6cd1d53a7d0f83abcd380]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Protected Trust Deeds
+
+#### 6. Amendments to Protected Trust Deeds (Scotland) Regulations 2013[^key-9f90dca62d21c25afd55459ec8ed41ab]
+
+The Protected Trust Deeds (Scotland) Regulations 2013[^f00011] are amended in accordance with regulations 7 to 10.
+
+#### 7. Common Financial Tool: consequential amendments[^key-cd41f6554dad12c293a83d5c81257562]
+
+(1) After the definition of “Common Financial Statement” in regulation 2 (interpretation), insert—
+
+> - “common financial tool” has the meaning given by section 5D(1) of the 1985 Act;
+
+.
+
+(2) In regulation 7(1)(c) (statements in relation to trust deed) after “benefit of creditors” insert “, including any contribution required by the common financial tool where the debtor is a living individual,”.
+
+(3) In regulation 8 (payment of debtor’s contribution)—
+
+- (a) at the end of paragraph (1), insert “, as required by the common financial tool where the debtor is a living individual”; and
+- (b) in paragraph (5), for “paragraph (4)” substitute “paragraphs (1) and (4)”.
+
+(4) In regulation 10(1)(d)(ii) (documents to be sent to creditors), for “in the style and format of the Common Financial Statement” substitute “, in Form 2A where the debtor is a living individual”.
+
+(5) For regulation 11(1)(h) (registration of the trust deed etc.) substitute—
+
+> - (h)[^key-468f1c561f5cd767babdca2d65ef3bd4] where a debtor who is a living individual makes a contribution from income,—
+>   - (i) a statement that the amount of that contribution is in accordance with the common financial tool as assessed by the trustee; and
+>   - (ii) any evidence or explanation required in applying the common financial tool.
+
+(6) For regulation 11(2)(c) substitute—
+
+> - (c) the Accountant is satisfied in accordance with the common financial tool with the amount of the contribution determined.
+
+.
+
+#### 8. Administration[^key-65360ba3f7f0c56f796616f480054b03]
+
+(1) After regulation 21(2) (administration of trust), insert—
+
+> (2A)[^key-fc2d7db9c7e8389eabfe946958127b76] If the trustee receives within 21 days after the date on which the Form 4 was sent notification in writing from—
+>
+> - (a) a majority in number; or
+> - (b) not less than one third in value,
+>
+> of creditors that they object to the recommended course of action in the Form 4 where the expected final dividend to ordinary creditors is 20% lower than the expected dividend to ordinary creditors set out in the Form 3, the trustee must request a direction under regulation 19(3) as to how the trust must be administered.
+
+.
+
+(2) In regulation 23(3)(a) (approval of increase in fixed fee), for “majority in number” substitute “majority in value”.
+
+(3) In regulation 24(8) (refusal of trustee to apply for debtor’s discharge), for “at the end of the period of 48 months beginning with the day on which the trust deed was granted” substitute “as soon as reasonably practicable after the end of the period for which payments are required under the trust deed”.
+
+#### 9. Remuneration for outlays before grant of trust deed[^key-0c4dfe5f0a21b2911e3d426c6079fb25]
+
+At the end of regulation 23(1)(c) (remuneration to which trustee entitled), insert “or before that date on a single valuation of any item of the debtor’s heritable estate specified or valued in such a valuation[^key-cc8656e4b72acb631dde6efea13a1be1]”.
+
+#### 10. Minor amendments[^key-0b70b9994340544b657b7fc57469b8a9]
+
+(1) In regulation 19(5) (directions to trustee under protected trust deed: period of compliance), for “regulation 27(1)(b)” substitute “regulation 27(1)(c)”.
+
+(2) In regulation 23(1) (remuneration to which trustee entitled) after “consist” insert “only”.
+
+(3) In regulation 23(7) (remuneration: audit fee) for “Bankruptcy Fees etc. (Scotland) Regulations 2012” substitute “Bankruptcy Fees (Scotland) Regulations 2014[^f00012]”.
+
+(4) In regulation 24(5) (discharge of debtor), after “later” insert “than”.
+
+(5) In the Schedule (forms to be used in connection with protected trust deeds)—
+
+- (a) in the table of forms, after the entry for Form 2, insert—
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | 2A | Income and expenditure | Regulation 10(1)(d)(ii) |
+
+  ;
+- (b) after Form 2 insert Form 2A set out in the Schedule to these Regulations; and
+- (c) for—
+  - (i) Form 3 (trust deed protection proposal);
+  - (ii) Form 4 (trustee’s statement of status of a protected trust deed);
+  - (iii) Form 6 (application to creditors for discharge of trustee); and
+  - (iv) Form 7 (trustee statement of realisation and distribution),
+
+substitute respectively Forms 3, 4, 6 and 7 set out in the Schedule to these Regulations.
+
+#### 11. Trust deeds granted before 1st April 2015[^key-d4c119bf07ba69ea4c189ebdd0013262]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+FERGUS EWING
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+5th November 2014
+
+## SCHEDULE — Forms[^key-7356c3d47fbd06ff517edaca53425e54]
+
+Regulations 7(4) and 10(5)
+
+Form 2A
+
+INCOME AND EXPENDITURE
+
+[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_001)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_002)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_003)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_004)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_005)
+
+[^key-fe1cbad3f8215bee3c96ed0fee2585d6]Form 3
+
+PROTECTED TRUST DEED
+
+TRUST DEED PROTECTION PROPOSAL AND TRUSTEE'S APPLICATION
+
+[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_006)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_007)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_008)
+
+Form 4[^key-885e3d7ec78a09bdd262b6e4f4f4c13a]
+
+TRUSTEE'S STATEMENT OF STATUS OF A PROTECTED TRUST DEED
+
+[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_epp_002.gif)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_epp_004.gif)
+
+Form 6
+
+APPLICATION TO CREDITORS FOR DISCHARGE OF THE TRUSTEE OF A PROTECTED TRUST DEED
+
+[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_012)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_013)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_014)
+
+Form 7
+
+TRUSTEE STATEMENT OF REALISATION AND DISTRIBUTION OF ESTATE UNDER A PROTECTED TRUST DEED
+
+[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_015)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_016)[image: see source](https://www.legislation.gov.uk/ssi/2014/290/images/ssi_20140290_en_017)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision about the method for determining an appropriate amount of a living debtor’s income to be paid to a trustee after sequestration of the debtor’s estate, known as the “common financial tool” in the Bankruptcy (Scotland) Act 1985 (“the 1985 Act”), as amended by the Bankruptcy and Debt Advice (Scotland) Act 2014.
+
+The Regulations also make a number of other amendments to related legislation in the Protected Trust Deeds (Scotland) Regulations 2013 (“the PTD Regulations”).
+
+The common financial tool is to be used in making debtor contribution orders under sections 32A to 32H of the 1985 Act, which fix the contribution which a debtor must pay from income received after sequestration for the benefit of creditors. Those orders replace income payment orders under section 32(2) of the 1985 Act. The common financial tool may also be taken into account on variation of an income payment order, though the sheriff may have regard to other factors too.
+
+Regulations 3 and 4 provide for the common financial tool, providing for how income and expenditure of the debt is established by reference principally to the Common Financial Statement published by the Money Advice Trust (the “CFS”).
+
+The debtor’s surplus income in excess of the lower of the debtor’s expenditure, or the “trigger figures” which are part of the CFS for a reasonable amount of expenditure is the basis of the contribution, and an amount of reasonable expenditure may be allowed to the debtor which exceeds those trigger figures. Guidance is also to be set out by the Accountant in Bankruptcy on types of income and expenditure, verifying income and expenditure and money advisers’ functions.
+
+Supporting statements, explanation and evidence is required (regulation 4). The Accountant in Bankruptcy can in some cases related to debtor applications notify the Money Advice Trust where it appears money advisers have breached licence restrictions (regulation 5).
+
+Regulations 6 to 10 make changes to the PTD Regulations arrangements to protect debtors entering into trust deed arrangements with their creditors from other creditors. Consequential changes are made for the introduction of the common financial tool under the powers in paragraph 5 of Schedule 5 to the 1985 Act (regulation 7), building on the fact that the PTD Regulations already require users to use the Common Financial Statement.
+
+Other miscellaneous and minor amendments are made to the PTD Regulations, including to require trustees to seek a direction from the Accountant in Bankruptcy where creditors object to a recommended course of action where a trustee proposes a lower dividend in Form 4 submitted under the PTD Regulations (regulation 8(1)). A single valuation of specified heritable estate before a trust deed was granted is allowed as an outlay of the trust deed (regulation 9).
+
+These Regulations do not apply to trust deeds granted before 1st April 2015 (regulation 11).
+
+A Business and Regulatory Impact Assessment has been prepared for these Regulations. Copies can be obtained from the Accountant in Bankruptcy’s website: http://www.aib.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66) (“the 1985 Act”). Section 5D was inserted by section 3 of the Bankruptcy and Debt Advice (Scotland) Act [2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11) (“the 2014 Act”). Section 71C was inserted by section 36 of the 2014 Act. Section 72(1A) was inserted by the 2014 Act, schedule 3, paragraph 34(a). Paragraph 5 of Schedule 5 to the 1985 Act was amended by section 20 of the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (“the 2007 Act”) and section 13(2) of the Home Owner and Debtor Protection (Scotland) Act [2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6). Section 73(1) of the 1985 Act contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [2002 asp 17](https://www.legislation.gov.uk/asp/2002/17), as amended by the 2007 Act, sections 173, 209(1), 211 and 212 and schedule 4, paragraph 10, schedule 5, paragraph 30 and schedule 6, Part 1. Section 7(2)(bd) was inserted by the 2014 Act, section 3(2).
+
+[^f00003]: Footnote: Section 72(3) was amended by the 2014 Act, paragraph 34 of schedule 3 and schedule 4. Section 62(4) was amended by the 2014 Act, paragraph 38(b) of schedule 3. Sections 72(2) and (3)(a)(iic) and (b) and 62(4) have been modified by paragraph 5(2) of schedule 3 to the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) (“the 2010 Act”). The powers to make these Regulations are exercised together by virtue of section 33(2) of the 2010 Act.
+
+[^key-5bc346f8d5d6cd1d53a7d0f83abcd380]: Textual amendment: [Regs. 1-5](https://www.legislation.gov.uk/ssi/2014/290/regulation/1) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
+
+[^key-9f90dca62d21c25afd55459ec8ed41ab]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/290/regulation/6) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1)
+
+[^f00011]: Footnote: [S.S.I. 2013/318](https://www.legislation.gov.uk/ssi/2013/318).
+
+[^key-cd41f6554dad12c293a83d5c81257562]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/290/regulation/7) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1)
+
+[^key-468f1c561f5cd767babdca2d65ef3bd4]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/ssi/2014/290/regulation/7/5) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4/5)
+
+[^key-65360ba3f7f0c56f796616f480054b03]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/290/regulation/8) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1)
+
+[^key-fc2d7db9c7e8389eabfe946958127b76]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2014/290/regulation/8/1) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4/6)
+
+[^key-0c4dfe5f0a21b2911e3d426c6079fb25]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/290/regulation/9) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1)
+
+[^key-cc8656e4b72acb631dde6efea13a1be1]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/ssi/2014/290/regulation/9) substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(7)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4/7)
+
+[^key-0b70b9994340544b657b7fc57469b8a9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/290/regulation/10) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1)
+
+[^f00012]: Footnote: [S.S.I. 2014/227](https://www.legislation.gov.uk/ssi/2014/227).
+
+[^key-d4c119bf07ba69ea4c189ebdd0013262]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/290/regulation/11) revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3)
+
+[^key-7356c3d47fbd06ff517edaca53425e54]: Commencement: Sch. in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/290/regulation/1)
+
+[^key-fe1cbad3f8215bee3c96ed0fee2585d6]: Textual amendment: Sch. Form 3: words “or engaged” inserted after “employed” (1.4.2015) by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [regs. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [4(8)(a)](https://www.legislation.gov.uk/ssi/2015/149/regulation/4/8/a)
+
+[^key-885e3d7ec78a09bdd262b6e4f4f4c13a]: Textual amendment: Sch. Form 4 substituted (1.4.2015) by [The Common Financial Tool etc. (Scotland) Amendment Regulations 2015 (S.S.I. 2015/149)](https://www.legislation.gov.uk/ssi/2015/149), [reg. 1](https://www.legislation.gov.uk/ssi/2015/149/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2015/149/schedule)

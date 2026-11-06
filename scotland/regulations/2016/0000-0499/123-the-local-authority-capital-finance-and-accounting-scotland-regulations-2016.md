@@ -1,0 +1,377 @@
+---
+title: The Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016
+id: ssi/2016/123
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-02-22'
+text_date: '2024-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/123
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/123/pdfs/ssipn_20160123_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/123/pdfs/ssi_20160123_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/123/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016
+
+> Text as at 2024-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2016 No. 123
+
+Local Government
+
+The Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016
+
+Made
+
+22nd February 2016
+
+Coming into force
+
+1st April 2016
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 165 of the Local Government etc. (Scotland) Act 1994[^f00001], paragraph 5(1) of Schedule 3 to the Local Government (Scotland) Act 1975[^f00002] and all other powers enabling them to do so.
+
+In accordance with section 165(5) of the Local Government etc. (Scotland) Act 1994 a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## PART 1 — General
+
+### 1. Citation, commencement and interpretation[^key-2d5c0dcdf714aaf230cc393983fd26a2]
+
+(1) These Regulations may be cited as the Local Authority (Capital Finance and Accounting) (Scotland) Regulations 2016 and come into force on 1st April 2016.
+
+(2) In these Regulations—
+
+- “the 1973 Act” means the Local Government (Scotland) Act 1973[^f00003];
+- “authorised limit” means the limit for external debt as determined by a local authority in accordance with regulation 6;
+- “capital expenditure” is expenditure of a local authority which, in accordance with proper accounting practices, falls to be capitalised;
+- “credit arrangement” means a transaction—
+  - (a) where an asset and liability is recognised by the local authority; and
+  - (b) of a type which is recognised, in accordance with proper accounting practices, as a lease or an arrangement akin to a lease, or as a service concession arrangement;
+- “debt amounts” means the two amounts determined by a local authority in accordance with regulation 6(2), that together comprise the authorised limit;
+- “enactment” includes an Act of the Scottish Parliament and an instrument made under such an Act;
+- “external debt” comprises the amount of money borrowed and not repaid, plus the liability that requires to be recognised as arising from credit arrangements in accordance with regulation 5(2);
+- “integration joint board” means an integration joint board established under section 9 of the Public Bodies (Joint Working) (Scotland) Act 2014[^f00004];
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00005], a joint board within the meaning of section 235 of the 1973 Act and the Strathclyde Partnership for Transport, but does not include an integration joint board or the Tay Road Bridge Joint Board;
+- “proper accounting practices” is to be construed in accordance with section 12 of the Local Government in Scotland Act 2003[^f00006];
+- “Strathclyde Partnership for Transport” means the Regional Transport Partnership for the West of Scotland, established under section 1 of the Transport (Scotland) Act 2005[^f00007];
+- “Tay Road Bridge Joint Board” means the joint board established by the Tay Road Bridge Order Confirmation Act 1991[^f00008].
+
+## PART 2 — Borrowing by local authorities
+
+### 2. Borrowing of money by a local authority[^key-a8500e1a673cb2e66716e1f8fabe4bc2]
+
+(1) A local authority may borrow money—
+
+- (a) for financing capital expenditure of the local authority;
+- (b) to give a grant to any person, whether for use by that person or by a third party, towards expenditure which would be capital expenditure of the local authority if incurred by it;
+- (c) for expenditure incurred on works to any land or building in which the local authority does not have an interest, which would be capital expenditure of the local authority if it had an interest in that land or building;
+- (d) for treasury management activities;
+- (e) to lend to other statutory bodies and its common good funds, all as set out in Part 3; and
+- (f) for any other purpose for which the local authority is authorised under any enactment to borrow.
+
+(2) A local authority may borrow money for a purpose other than those described in paragraph (1), but only—
+
+- (a) with the consent of the Scottish Ministers;
+- (b) for expenditure or lending that the authority has power to incur in the exercise of any of its functions;
+- (c) for expenditure or lending of such a nature that the Scottish Ministers are satisfied should be met by such borrowing; and
+- (d) on such terms and conditions as to repayment as the Scottish Ministers allow.
+
+(3) A local authority may not borrow otherwise than in sterling, except with the consent of the Scottish Ministers.
+
+### 3.[^key-064c257876eea0df57154208ff116ee7]
+
+Two or more local authorities may combine to exercise their powers of borrowing money jointly, and where they do so these Regulations shall apply to the amount each authority receives from the joint loan.
+
+### 4.[^key-ad00ed9b01a89330381a642dfe90693f]
+
+When exercising its power to borrow money, a local authority must have regard to generally recognised codes of practice and guidance in relation to capital finance and treasury management.
+
+### 5. Borrowing by way of a credit arrangement[^key-92587ef4d0be550162e5df9d7bbcf159]
+
+(1) A local authority may incur debt through borrowing by way of a credit arrangement for financing capital expenditure of the authority.
+
+(2) The amount of external debt to be recognised by a local authority in respect of a credit arrangement is the liability that requires to be recognised as arising from the credit arrangement in accordance with proper accounting practices.
+
+### 6. The authorised limit for external debt[^key-8a52d4e5ef64a8ad1374d78e2fc98ebb]
+
+(1) A local authority must determine before the start of each financial year how much external debt it can afford during that financial year and each of the subsequent two financial years (its “authorised limit” for each of those years).
+
+(2) The authorised limit for each financial year must identify separately the amount of debt from borrowing money and the amount of debt from credit arrangements (its “debt amounts”).
+
+(3) A local authority may—
+
+- (a) vary its authorised limits during a financial year, if it considers it prudent to do so;
+- (b) exceed either of the debt amounts during a financial year, if in doing so it does not exceed its authorised limit for that year.
+
+(4) For the purposes of section 56(6) of the 1973 Act[^f00009] the determination and any variation of the authorised limits are functions of the local authority with respect to borrowing money (and therefore are functions that may be discharged only by the local authority itself).
+
+(5) In complying with its duty to determine its authorised limits, and in varying its authorised limits, a local authority must have regard to generally recognised codes of practice and guidance in relation to capital finance and treasury management.
+
+(6) The officer with responsibility for administration of the financial affairs of the local authority, in terms of section 95 of the 1973 Act, must report to that authority where—
+
+- (a) a debt amount has been exceeded; or
+- (b) there is a likelihood that the authorised limit for a financial year will prove inadequate, in that officer’s opinion.
+
+(7) On receipt of a report required by paragraph (6) the local authority must consider whether to vary its authorised limit and debt amounts.
+
+### 7. Security for money borrowed[^key-331ac45948d4e02484a9b1b1b4dc3120]
+
+(1) All money borrowed by a local authority (whether before or after the coming into force of these Regulations), together with any interest on the money borrowed, must be secured on all the revenues of the authority and may not be secured in any other way.
+
+(2) For the purposes of paragraph (1), “revenues” does not include revenues of—
+
+- (a) a superannuation fund which the local authority is required to keep by virtue of the Superannuation Act 1972[^f00010];
+- (b) a pension fund which the local authority is required to keep by virtue of the Public Service Pensions Act 2013[^f00011];
+- (c) a trust fund of which the authority is a trustee;
+- (d) a common good fund.
+
+(3) A local authority must not mortgage or charge any of its property as security for money it has borrowed.
+
+(4) All securities for borrowing created by a local authority are to rank equally without any priority.
+
+(5) Any security granted in breach of this regulation is unenforceable.
+
+### 8. Protection for lenders[^key-189cedd0a5b76a0df937a47ffba17145]
+
+A person lending money to a local authority is not bound to enquire whether that authority has power to borrow the money and is not prejudiced by the absence of such power.
+
+### 9. External funds[^key-61c523a5499efbf9c0b214348a42e388]
+
+(1) Borrowing of money by a local authority for the purposes of the following funds is not to be treated as borrowing by the authority for the purposes of these Regulations—
+
+- (a) a superannuation fund which the authority is required to keep by virtue of the Superannuation Act 1972;
+- (b) a pension fund which the local authority is required to keep by virtue of the Public Service Pensions Act 2013;
+- (c) a trust fund of which the authority is a trustee;
+- (d) a common good fund.
+
+(2) Entry into a credit arrangement by a local authority for the purposes of a fund mentioned in paragraph (1) is not to be treated as being entry into a credit arrangement by the authority for the purposes of these Regulations.
+
+(3) The temporary use by a local authority of money forming part of a fund mentioned in paragraph (1), otherwise than for the purposes of the fund, is to be treated as borrowing by the authority for the purposes of these Regulations.
+
+## PART 3 — Borrowing in respect of lending by local authorities
+
+### 10. Borrowing to lend and advance money[^key-64461a2e1eecd13e389b14bbe85eae25]
+
+A local authority may borrow to lend to the following statutory bodies on such terms as may be agreed between them, subject to those bodies being authorised to borrow by these Regulations or by any other enactment—
+
+- (a) any other local authority;
+- (b) the Tay Road Bridge Joint Board;
+- (c) an integration joint board;
+- (d) a Transport Partnership created under the Transport (Scotland) Act 2005[^f00012];
+- (e) a community council established in accordance with the provisions of Part 4 of the 1973 Act;
+- (f) a harbour authority within the meaning of section 57(1) of the Harbours Act 1964[^f00013] for a harbour (within the meaning of that section) that is wholly or partly situated within the area of the local authority.
+
+### 11.[^key-568b657456f1de0797cb358e6083de1a]
+
+A local authority may borrow to advance money to any of its common good funds, but only in respect of expenditure by such a fund which would be capital expenditure of the local authority if incurred directly by the authority.
+
+## PART 4 — Loans funds
+
+### 12. Duty to maintain a loans fund[^key-b9abe4a1bc73bcc339604d0bf3c42e96]
+
+(1) A local authority must maintain a loans fund.
+
+(2) A loans fund must be administered in accordance with these Regulations, proper accounting practices and prudent financial management.
+
+### 13. Loans fund advances[^key-f8bb1cdfa3d2eeaae99eb54e5b382f26]
+
+(1) Subject to paragraph (2), for each financial year a local authority must make loans fund advances in respect of the amount of—
+
+- (a) expenditure that the authority has incurred; and
+- (b) lending that the authority has made,
+
+that it has determined is to be financed by borrowing, as permitted by regulation 2, in that financial year.
+
+(2) A loans fund advance may not be made for any expenditure or lending financed by—
+
+- (a) borrowing that relates to treasury management activities; or
+- (b) a credit arrangement.
+
+(3)[^key-4e9cd06e888cc203c4566130bc339e3e] Except for an advance to which regulation 14 applies, a local authority must repay a loans fund advance in accordance with proper accounting practices.
+
+### 14. Duty to make a statutory repayment of loans fund advances[^key-3bd1fbf516eeabdb423f0425be898b96]
+
+(1) This regulation applies to any loans fund advance made prior to 1 April 2023.
+
+(2) A local authority may, if it considers it prudent to do so, vary—
+
+- (a) the period over which the advance is to be repaid to the loans fund,
+- (b) the amount of any of the statutory repayments it is due to make to the loans fund in each financial year in that period, or
+- (c) both (a) and (b).
+
+(3) Paragraph (2)—
+
+- (a) applies whether the period or amount referred to in that paragraph was determined under these Regulations or prior to them, but
+- (b) does not apply to any borrowing for which the consent of the Scottish Ministers was required, whether under regulation 2(2) or otherwise [^key-f23ab511757b65216474dc71b1d30769]....
+
+(4)[^key-513d3ff81d50166131dbfca0a2f0230f] Subject to paragraph (5), a variation under paragraph (2) must—
+
+- (a) not result in the repayment period exceeding the useful life of the asset in relation to which the loans fund advance was made,
+- (b) not result in the repayment period exceeding 50 years beginning with the date on which the loans fund advance was made, if the loans fund advance does not relate to an asset for which a useful asset life can reasonably be determined,
+- (c) only be calculated on the balance of the loans fund advance as it applies on the first day of the financial year in which the variation is made, and
+- (d) never give rise to a nil or negative repayment.
+
+(5) A variation may result in a repayment period exceeding the useful life of an asset, or in the repayment period exceeding 50 years, with the consent of the Scottish Ministers.
+
+(6) For the purposes of paragraphs (4) and (5), the useful life of an asset is to be determined in accordance with proper accounting practices.
+
+### 14A. Deferral of statutory repayments in 2020-21, 2021-22 or 2022-23[^key-138a62877f075360448d0014d9e090c3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Consequential and supplemental provision
+
+### 15. Consequential amendments[^key-6866810be083ec7418a55148f31f91d5]
+
+(1) In section 37(1) (general interpretation) of the Local Government (Scotland) Act 1975[^f00014], in the definition of “prescribed” the words “, except in paragraph 6 of Schedule 3,” are repealed.
+
+(2) In Schedule 3 to that Act—
+
+- (a) in paragraph 22(3) (operation of capital, renewal and repair, and insurance funds)[^f00015], for “advanced to the loans fund” substitute “used for any purpose for which a local authority may borrow money”; and
+- (b) in paragraph 25(2)(b) (repayment of fund advances)—
+  - (i) the word “earlier” is repealed; and
+  - (ii) the words from “within”, where it first occurs, to “period”, where it second occurs, are repealed.
+
+(3) In section 33(1) of the Order in the Schedule to the Tay Road Bridge Order Confirmation Act 1991 (advances by councils to Tay Road Bridge Joint Board) [^f00016], the words from “, in” to “1975,” are repealed.
+
+### 16. Consequential revocations[^key-350ba31d4f1786b5778a8a7e404a0038]
+
+The following instruments are revoked—
+
+- (a) the Local Authority Stocks and Bonds (Scotland) Regulations 1975[^f00017];
+- (b) the Local Authority Mortgages (Scotland) Regulations 1975[^f00018];
+- (c) the Local Authority Stocks and Bonds (Scotland) Amendment Regulations 1984[^f00019]; and
+- (d) the Local Authority Stocks and Bonds (Scotland) Amendment Regulations 1991[^f00020].
+
+### 17. Supplemental provision[^key-0a26922999cbe6adf8b50276e1fe1076]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+JOHN SWINNEY
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+22nd February 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision with respect to the powers of local authorities to borrow money, to incur debt through borrowing by way of credit arrangements and to maintain loans funds. They are made under the Local Government etc. (Scotland) Act 1994 (“the principal Act”). They will replace much of the provision in relation to local authority borrowing that is contained in Schedule 3 to the Local Government (Scotland) Act 1975 (“the 1975 Act”).
+
+Part 1 contains general provisions concerning the citation, commencement and interpretation of the Regulations.
+
+Part 2 (regulations 2 to 9) makes provision about local authority borrowing. Regulation 2 sets out purposes for which a local authority may borrow money. Borrowing for other purposes requires the consent of the Scottish Ministers, as does any borrowing that is not in sterling. Regulation 3 enables local authorities to borrow jointly and sets out how these Regulations apply to such borrowing. Regulation 5 enables borrowing through credit arrangements, as defined by regulation 1(3), and provides for calculation of the amount of external debt that a local authority needs to recognise in respect of borrowing through such arrangements.
+
+When a local authority exercises the power to borrow, regulation 4 requires it to have regard to generally recognised codes of practice and to guidance, such as the CIPFA Prudential Code and CIPFA Treasury Management Code. Compliance with the CIPFA Prudential Code would mean a local authority had to set an authorised limit for its external debt; regulation 6 makes this a requirement and provides for the determination and variation of the authorised limit. Transitional provision is made by regulation 17 for the introduction of this requirement.
+
+Regulation 7 requires that all money borrowed, and interest on it, must be secured over all the revenues of the local authority, and can only be secured in that way. All securities must have equal ranking, which is a continuation of requirements under the 1975 Act. Existing protection for lenders under the 1975 Act is continued by regulation 8.
+
+Regulation 9 provides that borrowing by a local authority for the purposes of the funds specified in that regulation is not to be classed as borrowing by that authority for the purposes of these Regulations.
+
+Part 3 (regulations 10 and 11) enables a local authority to borrow to lend to other local authorities, specified other bodies and any common good fund of that authority.
+
+Part 4 deals with loans funds. All local authorities that did not already have a loans fund were required to establish one by paragraph 12 of Schedule 3 to the 1975 Act. Regulation 12 requires that these funds are maintained, though they will operate more flexibly than as provided for by the 1975 Act, and sets out how they are to be administered. Regulations 13 and 14 provide for advances from loans funds and their repayment.
+
+Part 5 (regulations 15 to 17) makes consequential amendments to other legislation, revokes some instruments that are no longer required and makes supplemental provision in relation to regulation 6. In particular, regulation 15 makes consequential changes to the 1975 Act and the Tay Road Bridge Order Confirmation Act 1991. Some other provisions of Schedule 3 to the 1975 Act will be repealed separately, by commencement of provisions of the principal Act that provide for their repeal.
+
+Regulation 15 also amends provision in paragraphs 22 and 25 of Schedule 3 to the 1975 Act about use of money in certain funds that is not immediately needed for fund purposes. There is no longer a requirement to recognise the internal borrowing of these funds by advancing them to the loans fund. Instead these funds can be used for any purpose that may be funded by borrowing, as set out in regulation 2, which includes financing capital expenditure and treasury management. Paragraph 22 of that Schedule continues to allow these funds to be invested externally.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 165 was amended by Schedule 24 to the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The requirement to obtain Treasury consent was removed by section 55 of that Act.
+
+[^f00002]: Footnote: [1975 c.30](https://www.legislation.gov.uk/ukpga/1975/30). Paragraph 5 of Schedule 3 was amended by section 5(2) of the Stock Transfer Act [1982 (c.41)](https://www.legislation.gov.uk/ukpga/1982/41).
+
+[^key-2d5c0dcdf714aaf230cc393983fd26a2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/123/regulation/1) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^f00003]: Footnote: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^f00004]: Footnote: [2014 asp 9](https://www.legislation.gov.uk/asp/2014/9).
+
+[^f00005]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00006]: Footnote: [2003 asp 1](https://www.legislation.gov.uk/asp/2003/1).
+
+[^f00007]: Footnote: [2005 asp 12](https://www.legislation.gov.uk/asp/2005/12).
+
+[^f00008]: Footnote: [1991 c.iv](https://www.legislation.gov.uk/ukla/1991/4).
+
+[^key-a8500e1a673cb2e66716e1f8fabe4bc2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/123/regulation/2) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^key-064c257876eea0df57154208ff116ee7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/123/regulation/3) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^key-ad00ed9b01a89330381a642dfe90693f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/123/regulation/4) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^key-92587ef4d0be550162e5df9d7bbcf159]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/123/regulation/5) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^key-8a52d4e5ef64a8ad1374d78e2fc98ebb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/123/regulation/6) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^f00009]: Footnote: There are amendments to section 56 that are not relevant to these Regulations.
+
+[^key-331ac45948d4e02484a9b1b1b4dc3120]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/123/regulation/7) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^f00010]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
+
+[^f00011]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
+
+[^key-189cedd0a5b76a0df937a47ffba17145]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/123/regulation/8) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^key-61c523a5499efbf9c0b214348a42e388]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/123/regulation/9) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^key-64461a2e1eecd13e389b14bbe85eae25]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/123/regulation/10) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^f00012]: Footnote: [2005 asp 12](https://www.legislation.gov.uk/asp/2005/12).
+
+[^f00013]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40). Section 57(1) is relevantly amended by Schedule 29 to the 1973 Act and paragraph 33(a) of Schedule 13 to the Merchant Shipping Act [1995 (c.21)](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^key-568b657456f1de0797cb358e6083de1a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/123/regulation/11) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^key-b9abe4a1bc73bcc339604d0bf3c42e96]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/123/regulation/12) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^key-f8bb1cdfa3d2eeaae99eb54e5b382f26]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/123/regulation/13) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^key-4e9cd06e888cc203c4566130bc339e3e]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/ssi/2016/123/regulation/13/3) inserted (1.4.2023) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3), [6(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/2) (as amended by [S.S.I. 2022/122](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/4/2))
+
+[^key-3bd1fbf516eeabdb423f0425be898b96]: Textual amendment: Reg. 14 substituted (1.4.2023) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3), [6(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/3) (as amended by [S.S.I. 2022/122](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/1), 4(2)(3))
+
+[^key-f23ab511757b65216474dc71b1d30769]: Textual amendment: Words in reg. 14(3)(b) omitted (1.4.2024) by virtue of [The Local Authority (Capital Finance and Accounting) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/90)](https://www.legislation.gov.uk/ssi/2024/90), [regs. 1](https://www.legislation.gov.uk/ssi/2024/90/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/90/regulation/2/2/a)
+
+[^key-513d3ff81d50166131dbfca0a2f0230f]: Textual amendment: Reg. 14(4)-(6) inserted (1.4.2024) by [The Local Authority (Capital Finance and Accounting) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/90)](https://www.legislation.gov.uk/ssi/2024/90), [regs. 1](https://www.legislation.gov.uk/ssi/2024/90/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/90/regulation/2/2/b)
+
+[^key-138a62877f075360448d0014d9e090c3]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/ssi/2016/123/regulation/14A) revoked (1.4.2023) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/3), [6(4)](https://www.legislation.gov.uk/ssi/2021/119/regulation/6/4) (as amended by [S.S.I. 2022/122](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/3), 4(2)(4))
+
+[^key-6866810be083ec7418a55148f31f91d5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/123/regulation/15) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^f00014]: Footnote: [1975 c.30](https://www.legislation.gov.uk/ukpga/1975/30).
+
+[^f00015]: Footnote: Paragraph 22(3) is amended by [S.S.I. 2010/122](https://www.legislation.gov.uk/ssi/2010/122).
+
+[^f00016]: Footnote: There are amendments to section 33 that are not relevant to these Regulations.
+
+[^key-350ba31d4f1786b5778a8a7e404a0038]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/123/regulation/16) in force at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/123/regulation/1/1)
+
+[^f00017]: Footnote: [S.I. 1975/825](https://www.legislation.gov.uk/uksi/1975/825).
+
+[^f00018]: Footnote: [S.I. 1975/827](https://www.legislation.gov.uk/uksi/1975/827).
+
+[^f00019]: Footnote: [S.I. 1984/1652](https://www.legislation.gov.uk/uksi/1984/1652).
+
+[^f00020]: Footnote: [S.I. 1991/385](https://www.legislation.gov.uk/uksi/1991/385).
+
+[^key-0a26922999cbe6adf8b50276e1fe1076]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/123/regulation/17) revoked (5.3.2021) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2021/119/regulation/4)

@@ -1,0 +1,156 @@
+---
+title: The Cleaner Road Transport Vehicles (Scotland) Regulations 2010
+id: ssi/2010/390
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-11-08'
+text_date: '2023-12-25'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/390
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/390/pdfs/ssien_20100390_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/390/pdfs/ssi_20100390_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/390/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Cleaner Road Transport Vehicles (Scotland) Regulations 2010
+
+> Text as at 2023-12-25.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 390
+
+Public Procurement
+
+The Cleaner Road Transport Vehicles (Scotland) Regulations 2010
+
+Made
+
+8th November 2010
+
+Laid before the Scottish Parliament
+
+10th November 2010
+
+Coming into force
+
+4th December 2010
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c20574821] and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for the references to certain EU instruments in these Regulations to be construed as references to those instruments as amended from time to time.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Cleaner Road Transport Vehicles (Scotland) Regulations 2010 and come into force on 4th December 2010.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “**contracting authority**” means a contracting authority as defined in regulation 2(1) of the Public Contracts (Scotland) Regulations 2015[^key-c1357672b31a049f8d371caca9a33819];
+- “**contracting entity**” means a utility as defined in regulation 4 of the Utilities Contracts (Scotland) Regulations 2016[^key-474f0c0c4f12461f2c0ce208ae6abc07];
+- “**Directive [2009/33/EC](https://www.legislation.gov.uk/european/directive/2009/0033)**” means Directive [2009/33/EC](https://www.legislation.gov.uk/european/directive/2009/0033) of the European Parliament and of the Council on the promotion of clean and energy-efficient road transport vehicles [^c20574851];
+- “**operator**” means an operator for the discharge of public service obligations under a public service contract within the meaning of regulation 2 of the Public Service Obligations in Transport Regulations 2023[^key-c959913ff5a84753b534a9519bad0325], the value of which is not less than the threshold, applicable to that contract, as defined in regulation 5 of the Public Contracts (Scotland) Regulations 2015[^key-c1e31c626d33eb03d826ca511fa0f741] or regulation 15 of the Utilities Contracts (Scotland) Regulations 2016;
+- “**road transport vehicle**” means a vehicle in the vehicle categories listed in Table 3 of the Annex to Directive [2009/33/EC](https://www.legislation.gov.uk/european/directive/2009/0033).
+
+## 3. Scope of these Regulations
+
+(1) Subject to paragraph (2), these Regulations apply to contracts for the purchase of road transport vehicles by contracting authorities, contracting entities or operators.
+
+(2) These Regulations do not apply to contracts for the purchase of road transport vehicles that are set out in Article 2(3) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-828647944fc46e708bb44af141d28d4e], as amended from time to time, provided those vehicles are not subject to type approval or individual approval.
+
+## 4. Purchase of clean and energy-efficient road transport vehicles
+
+(1) Any contracting authority, contracting entity or operator when purchasing road transport vehicles must take into account the operational lifetime energy and environmental impacts referred to in paragraph (2) in respect of the vehicle to be purchased.
+
+(2) The operational lifetime energy and environmental impacts include—
+
+- (a) energy consumption;
+- (b) emissions of—
+  - (i) carbon dioxide;
+  - (ii) oxides of nitrogen;
+  - (iii) non-methane hydrocarbons; and
+  - (iv) particulate matter.
+
+(3) The contracting authority, contracting entity or operator may also take into account other relevant environmental impacts.
+
+(4) The contracting authority, contracting entity or operator must satisfy the requirements of paragraph (1) by applying one of the options set out in paragraph (5).
+
+(5) The options are—
+
+- (a) setting technical specifications for energy and environmental performance in the documentation for the purchase of road transport vehicles for the impacts listed in paragraph (2), together with any additional environmental impacts being considered by virtue of paragraph (3);
+- (b) including energy and environmental impacts in the purchase decision by—
+  - (i) including these impacts as award criteria where a procurement procedure is applied; or
+  - (ii) applying the methodology prescribed in regulation 5 to convert these impacts into monetary values for inclusion in the purchase decision.
+
+## 5. Methodology for the calculation of operational lifetime costs
+
+For the purpose of regulation 4(5)(b)(ii), the operational lifetime costs for the matters identified in regulation 4(2) are to be monetised and calculated by using the methodology set out in Article 6 to Directive [2009/33/EC](https://www.legislation.gov.uk/european/directive/2009/0033).
+
+## 6. Enforcement of duties
+
+(1) For the purposes of ensuring compliance with the requirements of these Regulations—
+
+- (a) Chapter 6 of Part 3 of the Public Contracts (Scotland) Regulations 2015[^key-fa57667ff6265b84d99e9bf76e23498f] has effect—
+  - (i) in relation to a contracting authority and an operator as it has effect in relation to a contracting authority for the purposes of ensuring compliance with the requirements of those Regulations; and
+  - (ii) as if any reference in that Part to an economic operator included a reference to an operator; and
+- (b) Chapter 2 of Part 5 of the Utilities Contracts (Scotland) Regulations 2016[^key-05461207f376c9b7e9516be51f91f488] has effect—
+  - (i) in relation to a contracting entity and an operator as it has effect in relation to a utility for the purposes of ensuring compliance with the requirements of those Regulations; and
+  - (ii) as if any reference in that Part to an economic operator included a reference to an operator.
+
+STEWART STEVENSON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement, for Scotland, Directive [2009/33/EC](https://www.legislation.gov.uk/european/directive/2009/0033) (“**the Directive**”) of the European Parliament and of the Council of 23rd April 2009 on the promotion of clean and energy-efficient road transport vehicles (O.J. L 120, 15.5.2009, p.5).
+
+Regulation 2 defines terms used in the Regulations.
+
+Regulation 3(1) specifies the authorities to which the Regulations will apply when contracting to purchase motor vehicles. Regulation 3(2) provides that the Regulations will not apply to certain categories of vehicles that are not subject to type approval or individual approval.
+
+Regulation 4 sets out the obligation imposed on authorities when purchasing motor vehicles. The authorities are required to take into account operational lifetime energy and environmental impacts (set out in regulation 4(2)). Such impacts must be included in the purchasing decision either by way of award criteria (where a procurement procedure is used) or by applying a prescribed methodology to calculate the monetary values of the impacts for inclusion in the decision (regulation 4(4) to (5)).
+
+Regulation 5 prescribes the methodology for the calculation of the operational lifetime costs by way of cross reference to Article 6 of the Directive.
+
+Regulation 6 cross-refers to Part 9 in the Public Contracts Regulations (Scotland) 2006 and the Utilities Contracts (Scotland) Regulations 2006 respectively to ensure compliance with the requirements imposed under the Directive.
+
+A Business and Regulatory Impact Assessment and Transposition Note have been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government, Transport Policy Directorate, Transport Scotland, Area 2D North, Victoria Quay, EH6 6QQ, and online at www.legislation.gov.uk.
+
+A copy of Directive [2009/33/EC](https://www.legislation.gov.uk/european/directive/2009/0033) may be obtained from the Stationary Office or viewed in the Official Journal of the European Union via the EU website at http://europa.eu.int/eur-lex.
+
+## Annotations
+
+[^c20574821]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3) and section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by Part 1 of Schedule 1 to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The functions conferred upon the Minister of the Crown under section 2(2) in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^key-c1357672b31a049f8d371caca9a33819]: Textual amendment: Words in reg. 2 substituted (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [sch. 6 para. 5(2)(a)](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/5/2/a) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
+
+[^key-474f0c0c4f12461f2c0ce208ae6abc07]: Textual amendment: Words in reg. 2 substituted (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/1/2)
+
+[^c20574851]: Marginal citation: O.J. L 120, 15.5.2009, p.9.
+
+[^key-c959913ff5a84753b534a9519bad0325]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/390/regulation/2) substituted (25.12.2023) by [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2023/1369/schedule/3/paragraph/4/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2023/1369/regulation/28))
+
+[^key-c1e31c626d33eb03d826ca511fa0f741]: Textual amendment: Words in reg. 2 substituted (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [sch. 6 para. 5(2)(b)](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/5/2/b) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
+
+[^key-828647944fc46e708bb44af141d28d4e]: Textual amendment: Words in reg. 3(2) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 24(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/24/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+
+[^key-fa57667ff6265b84d99e9bf76e23498f]: Textual amendment: Words in reg. 6(1)(a) substituted (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [sch. 6 para. 5(3)](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/5/3) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
+
+[^key-05461207f376c9b7e9516be51f91f488]: Textual amendment: Words in reg. 6(1)(b) substituted (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 1(3)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/1/3)

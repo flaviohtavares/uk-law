@@ -1,0 +1,413 @@
+---
+title: Prescription (Scotland) Act 2018
+id: asp/2018/15
+type: ScottishAct
+category: primary
+status: revised
+made_date: '2018-12-18'
+text_date: '2025-02-28'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2018/15
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2018/15/pdfs/aspen_20180015_en.pdf
+- http://www.legislation.gov.uk/asp/2018/15/pdfs/asp_20180015_en.pdf
+- http://www.legislation.gov.uk/asp/2018/15/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Prescription (Scotland) Act 2018
+
+> Text as at 2025-02-28.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Prescription (Scotland) Act 2018
+
+2018 asp 15
+
+An Act of the Scottish Parliament to amend the law relating to the extinction of rights and obligations by the passage of time.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 8th November 2018 and received Royal Assent on 18th December 2018
+
+## 5-year negative prescription
+
+### 1. Obligations to pay damages and delictual obligations[^key-02b3c86443df5093d0eb78c2ee83930b]
+
+(1) The Prescription and Limitation (Scotland) Act 1973 (“**the 1973 Act**”) is amended as follows.
+
+(2) In schedule 1 (obligations affected by prescriptive periods of five years under section 6), in paragraph 1, for sub-paragraph (d) substitute—
+
+> - (d) to any obligation to pay damages (whatever the source of the obligation);
+> - (da) to any obligation arising from delict, not being an obligation falling within any other provision of this paragraph;
+
+.
+
+(3) In section 11 (obligations to make reparation)—
+
+- (a) in subsection (1), for the words from “(whether” to “reparation” substitute “ to pay damages (whatever the source of the obligation) ”,
+- (b) the section title becomes “ Obligations to pay damages ”.
+
+### 2. Obligations related to contract[^key-9918beb4754f47f2c7cca75f0ec89310]
+
+(1) Schedule 1 (obligations affected by prescriptive periods of five years under section 6) of the 1973 Act is amended as follows.
+
+(2) In paragraph 1, after sub-paragraph (f) insert—
+
+> - (fa) to any obligation relating to the validity of a contract, not being an obligation falling within any other provision of this paragraph;
+> - (fb) to any obligation to reimburse expenditure incurred in reliance on a representation about the existence of a contract;
+
+.
+
+### 3. Statutory obligations[^key-ced0d97419fe78d48aa22d34fe65acec]
+
+(1) Schedule 1 (obligations affected by prescriptive periods of five years under section 6) of the 1973 Act is amended as follows.
+
+(2) In paragraph 1—
+
+- (a) the following sub-paragraphs are repealed—
+  - (i) sub-paragraphs (aa) (both),
+  - (ii) sub-paragraphs (aca) to (ae), and
+  - (iii) sub-paragraph (dd),
+- (b) after sub-paragraph (g) insert—
+
+  > - (h) to any obligation to make a payment arising under an enactment (whenever passed or made), not being an obligation falling within any other provision of this paragraph.
+
+  .
+
+(3) In paragraph 2—
+
+- (a) for sub-paragraph (e) substitute—
+
+  > - (e) except as provided in paragraph 1(a), (ab), (ac) and (h) of this Schedule, to any obligation relating to land (including an obligation to recognise a servitude);
+  > - (ea) to any obligation of the Keeper of the Registers of Scotland to pay compensation by virtue of section 77 or 94 of the Land Registration etc. (Scotland) Act 2012;
+
+  ,
+- (b) after sub-paragraph (f) insert—
+
+  > - (fa) to any obligation to pay taxes or duties that are recoverable by the Crown, or to pay any penalty, interest or other sum that is recoverable as if it were an amount of such taxes or duties;
+  > - (fb) to any obligation to pay a sum recoverable under—
+  >   - (i) Part 3 (overpayments and adjustments of benefit) of the Social Security Administration Act 1992;
+  >   - (ii) section 127(c) (recovery of income support in certain circumstances) of the Social Security Contributions and Benefits Act 1992; or
+  >   - (iii) Part 1 (tax credits) of the Tax Credits Act 2002;
+  > - (fc) to any obligation to pay child support maintenance under the Child Support Act 1991;
+  > - (fd) to any obligation to pay—
+  >   - (i) council tax under Part 2 of the Local Government Finance Act 1992;
+  >   - (ii) non-domestic rates levied under section 7B(2) of the Local Government (Scotland) Act 1975; or
+  >   - (iii) any surcharge, fees, expenses or other sum recoverable in connection with the enforcement of an obligation to pay such council tax or rates;
+
+  .
+
+### 4. Effect of fraud or error on computation of prescriptive period[^key-4a1759d61ecc78cab6651df9c3069db2]
+
+(1) Section 6 (extinction of obligations by prescriptive periods of five years) of the 1973 Act is amended as follows.
+
+(2) In subsection (4), for “was induced to refrain from making” substitute “ failed to make ”.
+
+(3) After subsection (4) insert—
+
+> (4A) For the purposes of subsection (4)(a), it does not matter whether the debtor, or the person acting on the debtor's behalf, intended the fraud or the words or conduct to cause the creditor to fail to make a relevant claim.
+
+.
+
+### 5. Start point of prescriptive period for obligations to pay damages[^key-caa6f586a0654739768a4435624d0dfe]
+
+(1) Section 11 (obligations to make reparation) of the 1973 Act is amended as follows.
+
+(2) In subsection (1), for “act, neglect or default” substitute “ act or omission ”.
+
+(3) In subsection (2), for “act, neglect or default”, in each place those words appear substitute “ act or omission ”.
+
+(4) In subsection (3), for the words “that loss, injury or damage caused as aforesaid had occurred” substitute “ of each of the facts mentioned in subsection (3A) ”.
+
+(5) After subsection (3) insert—
+
+> (3A) The facts referred to in subsection (3) are—
+>
+> - (a) that loss, injury or damage has occurred,
+> - (b) that the loss, injury or damage was caused by a person's act or omission, and
+> - (c) the identity of that person.
+>
+> (3B) It does not matter for the purposes of subsections (3) and (3A) whether the creditor is aware that the act or omission that caused the loss, injury or damage is actionable in law.
+
+.
+
+## 20-year negative prescription
+
+### 6. Obligations: 20-year prescriptive period and extension[^key-49180e281d98b1da60dca05575be5435]
+
+(1) The 1973 Act is amended as follows.
+
+(2) In section 7 (extinction of obligations by prescriptive periods of twenty years)—
+
+- (a) for subsection (1) substitute—
+
+  > (1) An obligation to which this section applies is extinguished on the expiry of the continuous period of 20 years after the date on which the obligation became enforceable.
+
+  ,
+- (b) after subsection (2) insert—
+
+  > (3) Subsection (4) applies if—
+  >
+  > - (a) a relevant claim is made in relation to an obligation to which this section applies,
+  > - (b) the claim is made before the time at which the prescriptive period mentioned in subsection (1) would, but for subsection (4), expire, and
+  > - (c) at that time—
+  >   - (i) the claim has not been finally disposed of, and
+  >   - (ii) the proceedings in which the claim is made have not otherwise come to an end.
+  >
+  > (4) The prescriptive period is extended so that it expires—
+  >
+  > - (a) when the claim is finally disposed of, or
+  > - (b) when the proceedings in which the claim is made come to an end (where the proceedings come to an end without the claim having been finally disposed of).
+  >
+  > (5) In subsections (3) and (4), the references to proceedings in which a relevant claim is made include references to any other process in or by which a relevant claim is made.
+
+  .
+
+(3) In section 10 (relevant acknowledgement for purposes of sections 6 and 7)—
+
+- (a) in each of subsections (1), (2)(a) and (3), for “sections 6 7 and 8A” substitute “ sections 6 and 8A ”,
+- (b) in the section title, for “7” substitute “ 8A ”.
+
+### 7. Property rights: 20-year prescriptive period and extension[^key-d85b5767fa11e7cfa0982b7cdab93703]
+
+(1) Section 8 (extinction of other rights relating to property by prescriptive periods of twenty years) of the 1973 Act is amended as follows.
+
+(2) In subsection (1), the words “, and without any relevant claim in relation to it having been made,” are repealed.
+
+(3) After subsection (1) insert—
+
+> (1A) Subsection (1B) applies if—
+>
+> - (a) a relevant claim is made in relation to a right to which this section applies,
+> - (b) the claim is made before the time at which the prescriptive period mentioned in subsection (1) would, but for subsection (1B), expire, and
+> - (c) at that time—
+>   - (i) the claim has not been finally disposed of, and
+>   - (ii) the proceedings in which the claim is made have not otherwise come to an end.
+>
+> (1B) The prescriptive period is extended so that it expires—
+>
+> - (a) when the claim is finally disposed of, or
+> - (b) when the proceedings in which the claim is made come to an end (where the proceedings come to an end without the claim having been finally disposed of).
+>
+> (1C) If the relevant claim (as finally disposed of) is successful, the right is to be treated for the purposes of subsection (1) as having been exercised or enforced by the creditor at the time when the claim was made.
+
+.
+
+### 8. Start point of prescriptive period for obligations to pay damages[^key-63072bc6973ac6eff345df40509d8a9f]
+
+In section 11 (obligations to make reparation) of the 1973 Act, for subsection (4) substitute—
+
+> (4) For the purposes of section 7 of this Act, any obligation referred to in subsection (1) of this section is to be regarded as having become enforceable on—
+>
+> - (a) the date on which the act or omission occurred (or the last such date, where there was more than one act or omission), or
+> - (b) where the act or omission was a continuing one, the date on which it ceased.
+
+.
+
+## Miscellaneous
+
+### 9. Saving for other statutory provisions about prescription or limitation[^key-90dd3468e475ea985ccdd7cd0e09ace2]
+
+(1) The 1973 Act is amended as follows.
+
+(2) After section 7 insert—
+
+> **7A. Saving for other statutory provisions about prescription or limitation**
+>
+> (1) Sections 6 and 7 of this Act do not apply to an obligation if, and so far as, an enactment other than this Act makes provision to the effect that—
+>
+> - (a) the obligation is imprescriptible,
+> - (b) the obligation is extinguished after a specified period of time, or
+> - (c) the making of a claim or the bringing of proceedings in respect of the obligation—
+>   - (i) is not subject to any period of limitation, or
+>   - (ii) may be done only within a specified period of time.
+>
+> (2) In this section—
+>
+> - “**enactment**” means any enactment whenever passed or made,
+> - “**specified**” means specified in, or determined in accordance with, any enactment other than one contained in this Act.
+
+.
+
+(3) In section 15(1) (interpretation of Part 1), in the definition of “enactment”, after “Act” insert “ and includes an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament ”.
+
+### 10. Definition of “relevant claim”[^key-5af54d425f9460929e7fbc91eee0c83a]
+
+(1) The 1973 Act is amended as follows.
+
+(2) In section 9(1) (definition of “relevant claim”)—
+
+- (a) the word “or” after each of paragraphs (a), (b) and (c) is repealed,
+- (b) after paragraph (d) insert—
+
+  > - (e) by the appointment, or the submission of an application for the appointment, of a receiver under section 51 of the Insolvency Act 1986;
+  > - (f) by the submission of an application for an administration order under paragraph 12 of Schedule B1 of the Insolvency Act 1986;
+  > - (g) by the appointment of an administrator under paragraph 14 of Schedule B1 of the Insolvency Act 1986; or
+  > - (h) by the submission of a claim in an administration under Part 2, or a receivership under Part 3, of the Insolvency Act 1986 in accordance with rules made under section 411 of that Act;
+
+  .
+
+(3) In section 22A(3), in the definition of “relevant claim”—
+
+- (a) the word “or” after each of paragraphs (a) and (b) is repealed,
+- (b) after paragraph (c) insert—
+
+  > - (d) by the appointment, or the submission of an application for the appointment, of a receiver under section 51 of the Insolvency Act 1986;
+  > - (e) by the submission of an application for an administration order under paragraph 12 of Schedule B1 of the Insolvency Act 1986;
+  > - (f) by the appointment of an administrator under paragraph 14 of Schedule B1 of the Insolvency Act 1986; or
+  > - (g) by the submission of a claim in an administration under Part 2, or a receivership under Part 3, of the Insolvency Act 1986 in accordance with rules made under section 411 of that Act;
+
+  .
+
+### 11. Prescriptive periods under sections 6 and 8A: interruption by relevant claim[^key-c416ea71345b69f6f9ca3c58b36d0abe]
+
+(1) Section 9 (definition of “**relevant claim**” for the purposes of sections 6, 7 and 8) of the 1973 Act is amended as follows.
+
+(2) After subsection (2) insert—
+
+> (2A) Where a relevant claim is made in relation to an obligation to which section 6 or 8A applies, the claim is to be treated for the purposes of that section as being made continuously until the claim is finally disposed of.
+
+.
+
+(3) In the section title, for “and 8” substitute “ , 8 and 8A ”.
+
+### 12. Definition of “final disposal” of relevant claim[^key-f1cec4028293c06d76f2fedda0384aca]
+
+After section 9 of the 1973 Act insert—
+
+> **9A. Definition of “final disposal” of relevant claim for purposes of sections 7, 8 and 9**
+>
+> (1) For the purposes of sections 7, 8 and 9, a relevant claim is finally disposed of—
+>
+> - (a) when a decision disposing of the claim is made, if there is no right of appeal against the decision,
+> - (b) if there is a right of appeal with leave or permission against such a decision—
+>   - (i) when the time period for seeking leave or permission to appeal has expired without an application for leave or permission having been made, or
+>   - (ii) when leave or permission to appeal is refused,
+> - (c) if leave or permission to appeal against such a decision has been granted or is not required, when the time period for making an appeal has expired without an appeal having been made, or
+> - (d) when the claim is withdrawn or abandoned.
+>
+> (2) In subsection (1)(a), the reference to a decision disposing of the claim includes a reference to a decision made in an appeal against an earlier decision.
+
+.
+
+### 13. Restrictions on contracting out[^key-31b2fbe07fa55b5bba831b8b6c891239]
+
+For section 13 (prohibition of contracting out) of the 1973 Act substitute—
+
+> **13. Restrictions on contracting out**
+>
+> (1) The creditor and debtor in an obligation to which a prescriptive period under section 6 or 8A applies may agree to extend the prescriptive period under section 6 or, as the case may be, 8A in relation to the obligation.
+>
+> (2) A prescriptive period may be extended by agreement under subsection (1) only—
+>
+> - (a) after the period has commenced (and before it would, but for this section, expire),
+> - (b) by a period of no more than one year, and
+> - (c) once in relation to the same obligation.
+>
+> (3) Where there is an agreement under subsection (1) in relation to an obligation—
+>
+> - (a) the prescriptive period which is the subject of the agreement expires, in relation to the parties to the agreement, on the date specified in or determined in accordance with the agreement, but
+> - (b) that does not otherwise affect the operation of this Act in relation to the obligation or the prescriptive period.
+>
+> (4) Except as provided for in subsections (1) to (3), a provision in an agreement is of no effect so far as the provision would (apart from this subsection) have the effect, in relation to a right or obligation to which section 6, 7, 8 or 8A (the “section in question”) applies, of—
+>
+> - (a) disapplying the section in question in relation to the right or obligation, or
+> - (b) otherwise altering the operation of the section in question in relation to the right or obligation.
+
+.
+
+### 14. Burden of proof[^key-d14074c1944e07844b122a98c048e5d2]
+
+(1) The 1973 Act is amended as follows.
+
+(2) After section 13 insert—
+
+> **13A. Burden of proof**
+>
+> (1) This section applies in relation to—
+>
+> - (a) an obligation to which a prescriptive period under section 6, 7 or 8A applies, and
+> - (b) a right to which the prescriptive period under section 8 applies.
+>
+> (2) If a question arises as to whether the obligation or right has been extinguished by the expiry of the applicable prescriptive period, it is to be presumed that the obligation or right has been so extinguished unless the contrary is proved by the creditor.
+
+.
+
+(3) In section 22A (prescription of obligations under Part 1 of the Consumer Protection Act 1987), after subsection (7) insert—
+
+> (7A) Section 13A of this Act applies in relation to an obligation to which the prescriptive period under this section applies as it applies in relation to the obligations and rights referred to in subsection (1) of that section.
+
+.
+
+## General
+
+### 15. Ancillary provision
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
+
+(2) Regulations under this section may—
+
+- (a) make different provision for different purposes,
+- (b) modify any enactment (including this Act).
+
+(3) Regulations under this section containing provision that adds to, replaces or omits any part of the text of an Act are subject to the affirmative procedure.
+
+(4) Otherwise, regulations under this section are subject to the negative procedure.
+
+### 16. Consequential modifications[^key-732de01e97b2c7e985146ba96991fd36]
+
+(1) In the 1973 Act, in schedule 1 (obligations affected by prescriptive periods of five years), paragraph 1(ba) is repealed.
+
+(2) In the Social Security (Scotland) Act 2018, section 66 (which inserts paragraph 1(ba) into schedule 1 of the 1973 Act) is repealed.
+
+### 17. Commencement
+
+(1) This section and sections 15 and 18 come into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint.
+
+(3) Regulations under subsection (2) may—
+
+- (a) include transitional, transitory or saving provision,
+- (b) make different provision for different purposes.
+
+### 18. Short title
+
+The short title of this Act is the Prescription (Scotland) Act 2018.
+
+## Annotations
+
+[^key-02b3c86443df5093d0eb78c2ee83930b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/15/section/1) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-9918beb4754f47f2c7cca75f0ec89310]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/15/section/2) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-ced0d97419fe78d48aa22d34fe65acec]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/15/section/3) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-4a1759d61ecc78cab6651df9c3069db2]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/15/section/4) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-caa6f586a0654739768a4435624d0dfe]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/15/section/5) in force at 1.6.2022 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/2))
+
+[^key-49180e281d98b1da60dca05575be5435]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/15/section/6) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-d85b5767fa11e7cfa0982b7cdab93703]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/15/section/7) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-63072bc6973ac6eff345df40509d8a9f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/15/section/8) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-90dd3468e475ea985ccdd7cd0e09ace2]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/15/section/9) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-5af54d425f9460929e7fbc91eee0c83a]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/15/section/10) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-c416ea71345b69f6f9ca3c58b36d0abe]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/15/section/11) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-f1cec4028293c06d76f2fedda0384aca]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/15/section/12) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-31b2fbe07fa55b5bba831b8b6c891239]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/15/section/13) in force at 1.6.2022 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2))
+
+[^key-d14074c1944e07844b122a98c048e5d2]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/15/section/14) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+
+[^key-732de01e97b2c7e985146ba96991fd36]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2018/15/section/16) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))

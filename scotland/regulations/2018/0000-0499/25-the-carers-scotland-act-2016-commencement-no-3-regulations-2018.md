@@ -1,0 +1,102 @@
+---
+title: The Carers (Scotland) Act 2016 (Commencement No. 3) Regulations 2018
+id: ssi/2018/25
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2018-01-25'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2018/25
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2018/25/pdfs/ssi_20180025_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/25/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Carers (Scotland) Act 2016 (Commencement No. 3) Regulations 2018
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2018 No. 25 (C. 3)
+
+Social Care
+
+The Carers (Scotland) Act 2016 (Commencement No. 3) Regulations 2018
+
+Made
+
+25th January 2018
+
+Laid before the Scottish Parliament
+
+26th January 2018
+
+Coming into force
+
+9th February 2018
+
+The Scottish Ministers make the following Regulations in exercise of the power conferred by section 45(2) of the Carers (Scotland) Act 2016[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Carers (Scotland) Act 2016 (Commencement No. 3) Regulations 2018 and come into force on 9th February 2018.
+
+## 2. Appointed day
+
+9th February 2018 is the day appointed for the coming into force of the following provisions of the Carers (Scotland) Act 2016:—
+
+- (a) section 8 (adult carers: identification of outcomes and needs for support); and
+- (b) section 14 (young carers: identification of outcomes and needs for support).
+
+AILEEN CAMPBELL
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+25th January 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations bring into force certain provisions of the Carers (Scotland) Act 2016 (“the Act”). The Bill for the Act received Royal Assent on 9th March 2016. Sections 41 to 43, 45 and 46 came into force on the day after Royal Assent.
+
+Regulation 2 appoints 9th February 2018 as the day for the coming into force of sections 8 and 14 of the Act.
+
+NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+
+(This note is not part of the Regulations)
+
+The following provisions of the Carers (Scotland) Act 2016 (“the Act”) have been brought into force by commencement regulations made before the date of these Regulations. Regulation 4 of the Carers (Scotland) Act 2016 (Commencement No. 2 and Savings Provision) Regulations 2017 provides that the remainder of the Act comes into force on 1st April 2018, in so far as not already in force.
+
+| Provisions of the Act | Date of Commencement | Instrument. No. |
+| --- | --- | --- |
+| Section 1(3)(a) (partially) | 31st May 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 1 (so far as not already in force) | 1st October 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 2 | 1st October 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 3 | 1st October 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 4 | 1st October 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 5 | 1st October 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 10 | 31st May 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 16 | 31st May 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 21 | 1st October 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 22(1) | 1st October 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 22(2) and (3) (partially) | 31st May 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 22(2) (so far as not already in force) | 1st October 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 25(2)(a) | 31st May 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 26 | 31st May 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 35(4) | 31st May 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 37 | 1st October 2017 | [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152) |
+| Section 44 (for limited purposes) | 24th April 2017 | [S.S.I. 2017/94](https://www.legislation.gov.uk/ssi/2017/94) |
+| Paragraph 6(1) and (2)(c) of the schedule | 24th April 2017 | [S.S.I. 2017/94](https://www.legislation.gov.uk/ssi/2017/94) |
+
+## Annotations
+
+[^f00001]: Footnote: [2016 asp 9](https://www.legislation.gov.uk/asp/2016/9).

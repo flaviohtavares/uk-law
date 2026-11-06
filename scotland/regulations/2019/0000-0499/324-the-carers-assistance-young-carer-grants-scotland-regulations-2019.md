@@ -1,0 +1,477 @@
+---
+title: The Carer's Assistance (Young Carer Grants) (Scotland) Regulations 2019
+id: ssi/2019/324
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-10-15'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2019/324
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2019/324/pdfs/ssipn_20190324_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/324/pdfs/ssi_20190324_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/324/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Carer's Assistance (Young Carer Grants) (Scotland) Regulations 2019
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2019 No. 324
+
+Social Security
+
+The Carer's Assistance (Young Carer Grants) (Scotland) Regulations 2019
+
+Made
+
+15th October 2019
+
+Coming into force in accordance with regulation 1
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 28, 41(4)(a), 43(5) and 52 of the Social Security (Scotland) Act 2018 [^c23899481] and all other powers enabling them to do so.
+
+In accordance with section 96(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+In accordance with section 97(2) of that Act, the Scottish Ministers have consulted the Scottish Commission on Social Security.
+
+## PART 1 — Introductory and interpretation
+
+### 1. Citation and commencement[^key-81bf28d69f69c051f123062b7a28706b]
+
+These Regulations may be cited as the Carer's Assistance (Young Carer Grants) (Scotland) Regulations 2019 and come into force on the first Monday after the day on which they are made.
+
+### 2. Interpretation[^key-421f4e7427187f5f14bb947574eef0fb]
+
+In these Regulations—
+
+- “**applicant**” means a person who has applied for a young carer grant,
+- “**determination**” means a determination of an individual's entitlement under section 37 of the Social Security (Scotland) Act 2018,
+- “**the qualifying period**” means the period of 13 weeks described in regulation 5(1),
+- “**young carer grant**” means the grant provided for by these Regulations.
+
+## PART 2 — Eligibility
+
+### 3. Overview[^key-613729ce2f6c1f88936367c9632d49ea]
+
+(1) A person who applies for a young carer grant is entitled to receive it if that person meets the conditions prescribed in these Regulations.
+
+(2) Regulation 4 provides for the making of applications, including providing conditions related to the age of the applicant.
+
+(3) Regulation 5 provides conditions relating to the care being provided and regulation 6 provides conditions relating to the person or persons being cared for.
+
+(4) Regulation 7 provides further conditions relating to receipt of assistance and the status of the applicant.
+
+(5) Regulation 8 provides conditions relating to the applicant's residence.
+
+(6) Part 3 provides timescales for some procedural matters, including situations that involve multiple applications relating to care of the same person, and provides for when the Scottish Ministers must determine that an individual is entitled to a young carer grant without an application.
+
+(7) Regulation 12 makes provision about the assistance that an applicant is entitled to receive.
+
+### 4. Making of applications[^key-6f50a5bf22f558d1ebcfb5d7ef0acd19]
+
+(1) A person is entitled to a young carer grant if, on the day their application for that assistance is made, they are aged at least 16 and are under the age of 20[^key-d1976eaba49efe0c5d8978146449a7ff].
+
+(2) In a non-leap year, the birthday of a person born on 29 February is to be taken to be 28 February.
+
+(3)[^key-c39cabfda26c86c5b687b0b00a7ac7b7] An application is to be treated as made—
+
+- (a) in a case where paragraph (7) applies, on the day after the end of the 13 week period to which the application relates,
+- (b) in any other case, on the day it is received by the Scottish Ministers.
+
+(4) In a case where, by virtue of a regulation 11, a determination is to be, or has been, made without an application, references in these Regulations to the day the application is made are to be read in accordance with paragraph (3) of that regulation.
+
+(5) For the avoidance of doubt, a thing that purports to be an application is not an application unless it is—
+
+- (a) made in the form, and
+- (b) accompanied by the evidence,
+
+required by the Scottish Ministers under section 38(1) of the Social Security (Scotland) Act 2018.
+
+(6) For the purposes of determining assistance, the period of an application is the period of 13 weeks ending with the day before the day of the application for a grant and an application in respect of any other period of 13 weeks is to be regarded as an application for a different period, despite any overlap between the two periods.
+
+(7)[^key-47d034173a5f9c8e5d701365ede02ecf] This paragraph applies where—
+
+- (a) an application for a young carer grant is made on or after the day on which the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 came into force,
+- (b) the application relates to a period of 13 weeks beginning after 22 July 2019[^key-85b8a1583f8983ba110311187c149ec8] and ending before the day mentioned in sub-paragraph (a), and
+- (c) it appears to the Scottish Ministers that the applicant would be likely to have been entitled to a young carer grant on making an application on the day after the end of that 13 week period were it not for the requirement in regulation 8(3)(a) of these Regulations to have previously been properly paid a young carer grant, as it had effect immediately before the date on which the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 came into force.
+
+### 5. Conditions relating to the care being provided[^key-793d0bb74248b9d065181cdccfd9e735]
+
+(1) To qualify for a young carer grant the applicant must have provided care, over the period of 13 weeks ending with the day before the day on which their application for a grant is made (“**the qualifying period**”)—
+
+- (a) to a person or persons described in regulation 6,
+- (b) for the number of hours, and in the number of weeks, described in paragraph (2),
+- (c) as described in paragraph (3), and
+- (d) which was not provided in the manner described in paragraph (4).
+
+(2) The care must have been provided—
+
+- (a) for at least 208 hours during the qualifying period, and
+- (b) in at least 10 weeks during that period.
+
+(3) The care provided must involve activity that promotes the physical, mental or emotional well-being of the person being cared for.
+
+(4) The care must not have been provided by the applicant—
+
+- (a) under or by virtue of a contract, unless the contract is of a kind specified by regulations under section 1(3)(a) of the Carers (Scotland) Act 2016 [^c23899491] as not to be regarded as a contract for the purposes of that Act, or
+- (b) as voluntary work.
+
+### 6. Conditions relating to the person or persons being cared for[^key-e446918eed632ff5d21945f6fcf7f187]
+
+(1) To qualify for a young carer grant the person or persons being cared for must, throughout the qualifying period and on the day the application for assistance is made, each be a person to whom a qualifying disability benefit is normally payable.
+
+(2) An applicant may combine hours caring for up to three persons during the qualifying period.
+
+(3) In paragraph (1), “**qualifying disability benefit**” means a disability benefit, or where applicable a component of a disability benefit, which is of a type, and being paid at a rate, that would entitle a person who cares for the recipient of that benefit and who meets the relevant qualifying conditions to—
+
+- (a)[^key-681d9173a6e924f2b3a27c02ef4cf522] the Carer Support Payment component of Carer Support payable under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023, or
+- (b) carer's allowance, payable under section 70 of the Social Security Contributions and Benefits Act 1992 [^c23899501] or section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c23899511].
+
+### 7. Further eligibility conditions[^key-5067b3d77c13efc5afc282016b58d2af]
+
+(1) An applicant is not entitled to a young carer grant if, at any point in the qualifying period or[^key-7ea32c9c636735990bf76a19d9b07630] on the day their application is made, the applicant is in receipt of a benefit named in regulation 6(3)(a) or (b) [^key-5a6bb213a5c50057b984b10f472f928e]....
+
+(2) An applicant is not entitled to a young carer grant if they have applied for a benefit named in regulation 6(3)(a) or (b) in respect of a period that includes the day their application is made, unless it has already been determined that the applicant is ineligible for that benefit in respect of that day.
+
+(3)[^key-95df53b543e4118ceba12296146ed7a5] An applicant is not entitled to a young carer grant if they have previously received a young carer grant, unless—
+
+- (a) the day their application is made is at least one year after the day of the application in respect of which that grant was paid, or
+- (b) in a case where regulation 4(7) applies, the day their application is made is at least one year either before or after the application in respect of which the grant was paid.
+
+(4)[^key-0c7886db604263b0bcbdfd70c5b56825] Paragraph (5) applies if—
+
+- (a) any other person has been paid a young carer grant in respect of care of any of the persons being cared for in an application for a young carer grant, and
+- (b) either—
+  - (i) that grant was paid as a result of an application made during the year immediately preceding the day the applicant makes his or her application, or
+  - (ii) in a case where regulation 4(7) applies, that grant was paid as a result of an application made during the year immediately preceding or following the day the applicant makes his or her application.
+
+(5) The applicant is not entitled to a young carer grant unless—
+
+- (a) the other person who was paid a young carer grant has died, or
+- (b) the Scottish Ministers have concluded that a young carer grant should not have been paid to the other person.
+
+(6) If an applicant has already received 4[^key-d36dec7ec8a21d69135164b8875e7aa1] young carer grants, they are not entitled to a further young carer grant.
+
+(7)[^key-dd28b63566f9656bb4e16c0b9ff332f1] In paragraph (5)(a), in a case where regulation 4(7) applies, the reference to the other person who was paid a young carer grant having died is to be read as a reference to that other person having died before the day on which the applicant’s application was made.
+
+(7)[^key-be886f870b1333a2ad4b64ca1b016169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Conditions relating to residence[^key-647291f8cd8cde4fa460a170fc34ed0c]
+
+(1) Subject to paragraphs (2) and (3), to qualify for a young carer grant the applicant must, on the day their application is made for that assistance, be—
+
+- (a) habitually resident in the United Kingdom, the Channel Islands, the Isle of Man, the European Economic Area or Switzerland, and
+- (b) ordinarily resident in Scotland.
+
+(2) Paragraph (1)(a) does not apply to the following persons (if they meet the condition in paragraph (1)(b) of being ordinarily resident in Scotland)—
+
+- (a) a refugee within the definition in Article 1 of the Convention relating to the status of refugees done at Geneva on 28 July 1951, as extended by article 1(2) of the Protocol relating to the status of refugees done at New York on 31 January 1967,
+- (aa)[^key-785c1c777fe9c41a12d901dc604605f6] a person who—
+  - (i) has leave to enter or remain in the United Kingdom granted under the immigration rules made under section 3(2) of the Immigration Act 1971, by virtue of—
+    - (ia) the Afghan Relocations and Assistance Policy, or
+    - (ib) previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme),
+  - (ii) has been granted discretionary leave outside the immigration rules as a dependant of a person referred to in sub-head (i), or
+  - (iii) has leave granted under the Afghan Citizens Resettlement Scheme,
+- (ab)[^key-518c9f494fe5cdc8843e7a631469b6f1] a person who was residing in Ukraine immediately before 1 January 2022, left Ukraine in connection with the Russian invasion which took place on 24 February 2022 and—
+  - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971, [^key-9cbf387aeaa5486676b3ede04b46804d]...
+  - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or[^key-1fc346dfc38b7619b478f1b7fc8807e7]
+  - (iii)[^key-85254c97dffd6382df2f38ff4466931e] does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
+- (ac)[^key-35ccacfc31f9647ac9fee3948cf438f3] a person who was residing in Sudan before 15 April 2023, left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan and—
+  - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971,
+  - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
+  - (iii) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act
+- (ad)[^key-55d2ec97fa75f73646f63d82de8214cf] a person in Great Britain who was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack and—
+  - (i) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971,
+  - (ii) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
+  - (iii) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
+- (ae)[^key-5d2462911c088ae15e65557abe7e9998] a person who—
+  - (i) was residing in Israel, the Occupied Palestinian Territories (the West Bank, including East Jerusalem, and Gaza) or the occupied Golan Heights immediately before 13 June 2025,
+  - (ii) left Israel, the Occupied Palestinian Territories or the occupied Golan Heights in connection with the escalation of violence between Israel and Iran that began on that date,
+  - (iii) arrived in the United Kingdom on or before 13 December 2025, and
+  - (iv) satisfies one of the following criteria—
+    - (aa) has been granted leave to enter or remain in the United Kingdom under or outside the immigration rules made under section 3(2) of the Immigration Act 1971,
+    - (bb) has a right of abode in the United Kingdom within the meaning given in section 2 of that Act, or
+    - (cc) does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act,
+- (af)[^key-8bea5882060514beec5a760f98ab894c] a person who has leave to enter or remain in the United Kingdom granted under or outside the immigration rules made under section 3(2) of the Immigration Act 1971, a right of abode in the United Kingdom within the meaning given in section 2 of that Act or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act and—
+  - (i) was residing in a country or territory outside of the United Kingdom,
+  - (ii) left that country or territory when His Majesty’s Government provided public information to advise British nationals to leave that country or territory immediately or arranged the evacuation of British nationals from that country or territory, and
+  - (iii) arrived in the United Kingdom in the first 26 weeks beginning on the date on which—
+    - (aa) the public information is issued, or
+    - (bb) the evacuation is started,
+- (ag) a person who, as part of a safe and legal humanitarian immigration route, has leave to enter or remain in the United Kingdom in accordance with immigration rules made under section 3(2) of the Immigration Act 1971 or leave on a discretionary basis outside of those rules,
+- (b) a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971 [^c23899541], [^key-2f304fa147291968e4ea0f58d4374b56]...
+- (c) a person who has humanitarian protection granted under the rules made under section 3(2) of the Immigration Act 1971, or
+- (d) a person who—
+  - (i) is not subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999 [^c23899561], and
+  - (ii) is in the United Kingdom as a result of deportation, expulsion or other removal by compulsion of law from another country to the United Kingdom.
+
+(3)[^key-4c2df531f38c8f83e8fc6805b597dcc0] An applicant who is not ordinarily resident in the United Kingdom does not have to meet the condition in paragraph (1)(b) (and therefore is entitled to a young carer grant) if—
+
+- (a) they satisfy the conditions in paragraph (4) on the day on which the application is made, if the application is made before IP completion day,
+- (b) they satisfy the conditions in paragraph (5) on the day the application is made, if the application is made after IP completion day and the individual has rights arising from a relevant EU regulation, or
+- (c) they satisfy the conditions in paragraph (6) on the day the application is made, if the application is made after IP completion day and the individual has rights arising from the UK-Ireland convention mentioned in that paragraph.
+
+(4) The conditions referred to in paragraph (3)(a) are that the applicant must—
+
+- (a) be an individual—
+  - (i) to whom a relevant EU Regulation applies, and
+  - (ii) in respect of whom the United Kingdom is competent for payment of sickness benefits in cash for the purposes of Chapter 1 of Title III of the Regulation in question,
+- (b) be resident in—
+  - (i) Switzerland, or
+  - (ii) an EEA State other than the United Kingdom,
+- (c) have a genuine and sufficient link to Scotland, and
+- (d) meet the other conditions prescribed in these Regulations.
+
+(5) The conditions referred to in paragraph (3)(b) are that the applicant must—
+
+- (a) be an individual—
+  - (i) to whom the rules set out in a relevant EU regulation apply by virtue of—
+    - (aa) Title III of Part 2 of the EU withdrawal agreement,
+    - (bb) Part 3 or Article 23(4) of the Swiss citizens’ rights agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020),
+    - (cc) Title III of the EEA EFTA separation agreement (as defined in that section), [^key-ca1d7ca69f0d36da5d91d7bf23d2ac9c]...
+    - (dd) the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974, or[^key-ac00c9f36bfa9d6634d5c6e614ab1ab2]
+    - (ee)[^key-e8f50f64a2b823cc226d924dc9cb9e7a] the agreement constituted by the exchange of letters set out in the schedule of the Social Security (Gibraltar) Order 2024 between the United Kingdom and Gibraltar, and
+  - (ii) in respect of whom the United Kingdom is, as a result, competent for payment of sickness benefits in cash,
+- (b) be resident in—
+  - (i) Switzerland,
+  - (ii) an EEA state, or
+  - (iii) Gibraltar,
+- (c) have a genuine and sufficient link to Scotland, and
+- (d) meet the other conditions prescribed in these Regulations.
+
+(6) The conditions referred to in paragraph (3)(c) are that the applicant must—
+
+- (a) be an individual—
+  - (i) to whom the convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1 February 2019, as modified from time to time in accordance with any provision of it, applies, and
+  - (ii) in respect of whom the United Kingdom is, as a result, competent for payment of long term care benefits,
+- (b) be resident in Ireland,
+- (c) have a genuine and sufficient link to Scotland, and
+- (d) meet the other conditions prescribed in these Regulations.
+
+(7) The reference in paragraph (4)(c) to an individual’s link to Scotland being sufficient is to it being sufficiently close that if the individual were not entitled to a young carer grant paragraph (4)—
+
+- (a) would be incompatible with EU law, or
+- (b) would have been incompatible with EU law immediately preceding IP completion day.
+
+(8) The reference in paragraph (5)(c) to an individual’s link to Scotland being sufficient is to it being sufficiently close that if the individual where not entitled to a young carer grant, paragraph (5) would be incompatible with the applicable agreement referred to in that paragraph.
+
+(9) The reference in paragraph (6)(c) to an individual’s link to Scotland being sufficient is to its being sufficiently close that if the individual were not entitled to a young carer grant, paragraph (6) would be incompatible with the convention mentioned in that paragraph.
+
+(10) In this regulation—
+
+- “the Afghan Citizens Resettlement Scheme” means the scheme announced by the United Kingdom Government on 18 August 2021[^key-6d388d6da4f7fc8075382c970a008ea8];
+- “EEA State” means—
+  - (a) any member state of the European Union or
+  - (b) any other state that is party to the agreement on the European Economic Area signed at Oporto on 2 May 1992, together with the Protocol adjusting that Agreement signed at Brussels on 17 March 1993, as modified or supplemented from time to time,
+- “EU law” has the meaning given by subsection (9) of section 126 of the Scotland Act 1998 or, if that subsection has been repealed, the meaning given by that subsection immediately before its repeal,
+- “relevant EU Regulation” means—
+  - (a) one of the following Regulations—
+    - (i) Council Regulation [(EC) No 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408) of 14 June 1971 on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community,
+    - (ii) Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems, or
+  - (b) in relation to an individual to whom the exchange of letters mentioned in paragraph (5)(a)(i)(dd) or paragraph (5)(a)(i)(ee)[^key-88f12e09f27294fbae444a7d63c5a116] applies, a Regulation mentioned in paragraph (a) as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018.
+
+## PART 3 — Procedural matters
+
+### 9. Periods for redetermination requests[^key-d9802606615ca035f16caf203ccabc9b]
+
+(1) The period for requesting a re-determination of entitlement to a young carer grant, under section 41 of the Social Security (Scotland) Act 2018, is 31 days beginning with the day that the applicant is informed, in accordance with section 40 of that Act, of the right to make the request.
+
+(2) The period allowed for re-determination (within the meaning of section 43 of that Act) is 16 working days beginning with—
+
+- (a) the day that the request for a re-determination is received by the Scottish Ministers, [^key-c6010e11536c1a7997ef16e1fab3ee2d]...
+- (b) where the request for a re-determination is received by the Scottish Ministers later than the period prescribed by paragraph (1), the day on which the Scottish Ministers, or on appeal the First-tier Tribunal for Scotland, decide that the applicant has a good reason for not requesting the re-determination sooner , or[^key-d38f8513c60cfe8eb21e90c7ff1eee2c]
+- (c) in a case where the Scottish Ministers have informed the applicant of their decision that the request for a re-determination was not made in such form as the Scottish Ministers require, the day on which it is subsequently decided by the First-Tier Tribunal for Scotland that the applicant in question has made the request in such form as the Scottish Ministers require.
+
+(3) For the purpose of paragraph (2), a “working day” is a day other than—
+
+- (a) a Saturday,
+- (b) a Sunday, or
+- (c) a bank holiday in Scotland under the Banking and Financial Dealings Act 1971 [^c23899571].
+
+### 10. Multiple applications involving care of the same person[^key-99e665807397e6df56e4a542bd4957a2]
+
+(1) Paragraphs (2) and (3) apply where two or more applicants state that they are caring for the same person.
+
+(2) The Scottish Ministers must determine which (if any) of the applicants is to be entitled to receive a young carer grant.
+
+(3) Where the applications were made at different times, the Scottish Ministers must determine the application made first before determining any other application.
+
+### 11. Determination following backdated award of assistance[^key-fed0b2346abd210996ef64c4e71fcc88]
+
+(1) The Scottish Ministers are to make a determination of an individual's entitlement to a young carer grant without receiving an application where—
+
+- (a) an application has previously been made for a young carer grant (“**the application**”),
+- (b) the determination made in respect of the application was that the applicant was not entitled to a young carer grant,
+- (c) the only reason for the applicant not being entitled to a young carer grant was that a person being cared for was not in receipt of a qualifying disability benefit as required by regulation 6 throughout the qualifying period for the application and on the day of the application,
+- (d) the Scottish Ministers establish that—
+  - (i) an award of a qualifying disability benefit has been made to the person being cared for that is a backdated award,
+  - (ii) had that award been made before the day of the application, a determination that the individual is entitled to a young carer grant would have been made instead, and
+- (e) no other person has received a young carer grant since the day of the application, in respect of care of the person being cared for.
+
+(2) In making a determination required by paragraph (1) the Scottish Ministers are to use—
+
+- (a) the information provided in the application that led to the original determination, and
+- (b) any other information they have obtained in connection with that application.
+
+(3) Where a determination is to be, or has been, made without an application by virtue of this regulation, references in these Regulations to the day the application is made are to be read as references to the day the application that led to the original determination was made.
+
+(4) In this regulation a “**backdated award**” means an award of assistance for a day, or a period that begins on a day, that falls before the day the decision to make that award was taken.
+
+## PART 4 — Assistance to be given
+
+### 12. Amount and form of young carer grants[^key-e5ac73006c9524ecd6f16ee2d043f5f0]
+
+(1) Subject to paragraph (1A), a young carer grant[^key-3ce9b21ed2c8ef35e34b9c86ac16a941] is to be given as a payment of £405.10[^key-f84ce0ef720c756fb06f340b7dad667b].
+
+(1A)[^key-269adfe1754960342046dba381ab66ac] Where the application for a young carer grant relates to a qualifying period which ended before the date on which the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 came into force, the amount of young carer grant to be given is the amount specified in paragraph (1) as it had effect on the day on which the application was made.
+
+(2) A young carer grant is to be given as money (subject to paragraph (3)).
+
+(3) If—
+
+- (a) the Scottish Ministers offer to give an applicant some or all of the value of a young carer grant in a form other than money, and
+- (b) the applicant agrees to be given the grant in that form,
+
+the grant is to be given in that form, unless the applicant withdraws agreement before the grant is given.
+
+SHIRLEY-ANNE SOMERVILLE
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision under section 28 of the Social Security (Scotland) Act 2018 for payments to be made to help young persons who care for disabled persons.
+
+Part 1 is formal and contains commencement and interpretation provisions.
+
+Regulations 3 and 4 provide that applications are required and make provision in respect of the age limits for applicants.
+
+Regulations 5 to 7 set out entitlement rules. These are based on the amount of care provided over a 13 week period, the activity involved, the persons to whom care is provided and rules relating to receipt of social security assistance and immigration status. Regulation 8 describes residence requirements.
+
+Regulation 9 prescribes periods for making requests for redetermination of decisions on applications and for responding to those requests.
+
+Regulation 10 describes what is to happen where applications are made by more than one person.
+
+Regulation 11 prescribes a situation in which the Scottish Ministers are required to determine, without receiving an application, that a person is entitled to a young carer grant. This is to be done where a person being cared for receives a backdated award of a social security benefit, that would have altered a previous determination had the award been made before that determination was made, where certain conditions are met.
+
+Regulation 12 sets out the amount of a young carer grant that is to be given to persons who qualify for the grant.
+
+## Annotations
+
+[^c23899481]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9). The powers to make these Regulations are exercised together by virtue of section 33(2) of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
+
+[^key-81bf28d69f69c051f123062b7a28706b]: Commencement: Reg. 1 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-421f4e7427187f5f14bb947574eef0fb]: Commencement: Reg. 2 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-613729ce2f6c1f88936367c9632d49ea]: Commencement: Reg. 3 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-6f50a5bf22f558d1ebcfb5d7ef0acd19]: Commencement: Reg. 4 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-d1976eaba49efe0c5d8978146449a7ff]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2019/324/regulation/4/1) substituted (16.11.2025) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/2/2) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+
+[^key-c39cabfda26c86c5b687b0b00a7ac7b7]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/ssi/2019/324/regulation/4/3) substituted (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [regs. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/ssi/2020/475/regulation/11/2/a)
+
+[^key-47d034173a5f9c8e5d701365ede02ecf]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/ssi/2019/324/regulation/4/7) inserted (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [regs. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/ssi/2020/475/regulation/11/2/b)
+
+[^key-85b8a1583f8983ba110311187c149ec8]: Textual amendment: Words in [reg. 4(7)(b)](https://www.legislation.gov.uk/ssi/2019/324/regulation/4/7/b) substituted (1.4.2021) by [The Social Security (Up-rating) (Miscellaneous Amendment) (Scotland) Regulations 2021 (S.S.I. 2021/170)](https://www.legislation.gov.uk/ssi/2021/170), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/170/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/170/regulation/3/2)
+
+[^key-793d0bb74248b9d065181cdccfd9e735]: Commencement: Reg. 5 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^c23899491]: Marginal citation: [2016 asp 9](https://www.legislation.gov.uk/asp/2016/9).
+
+[^key-e446918eed632ff5d21945f6fcf7f187]: Commencement: Reg. 6 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-681d9173a6e924f2b3a27c02ef4cf522]: Textual amendment: [Reg. 6(3)(a)](https://www.legislation.gov.uk/ssi/2019/324/regulation/6/3/a) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/2/3) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+
+[^c23899501]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 70 was amended to provide for carer's allowance by articles 2 and 3 of, and paragraph 2 of the schedule of, [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457). There are other amendments to section 70 that are not relevant to these Regulations.
+
+[^c23899511]: Marginal citation: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7). Section 70 was amended to provide for carer's allowance by articles 2 and 3 of [S.R. 2002/321](https://www.legislation.gov.uk/nisr/2002/321). There are other amendments to section 70 that are not relevant to these Regulations.
+
+[^key-5067b3d77c13efc5afc282016b58d2af]: Commencement: Reg. 7 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-7ea32c9c636735990bf76a19d9b07630]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2019/324/regulation/7/1) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (S.S.I. 2023/302)](https://www.legislation.gov.uk/ssi/2023/302), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2), [sch. 1 para. 11(2)(a)](https://www.legislation.gov.uk/ssi/2023/302/schedule/1/paragraph/11/2/a)
+
+[^key-5a6bb213a5c50057b984b10f472f928e]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2019/324/regulation/7/1) omitted (19.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (S.S.I. 2023/302)](https://www.legislation.gov.uk/ssi/2023/302), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/302/regulation/1/2), [sch. 1 para. 11(2)(b)](https://www.legislation.gov.uk/ssi/2023/302/schedule/1/paragraph/11/2/b)
+
+[^key-95df53b543e4118ceba12296146ed7a5]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/ssi/2019/324/regulation/7/3) substituted (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [regs. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [11(3)(a)](https://www.legislation.gov.uk/ssi/2020/475/regulation/11/3/a)
+
+[^key-0c7886db604263b0bcbdfd70c5b56825]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/ssi/2019/324/regulation/7/4) substituted (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [regs. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [11(3)(b)](https://www.legislation.gov.uk/ssi/2020/475/regulation/11/3/b)
+
+[^key-d36dec7ec8a21d69135164b8875e7aa1]: Textual amendment: Word in [reg. 7(6)](https://www.legislation.gov.uk/ssi/2019/324/regulation/7/6) substituted (16.11.2025) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3), [2(4)](https://www.legislation.gov.uk/ssi/2025/340/regulation/2/4) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+
+[^key-dd28b63566f9656bb4e16c0b9ff332f1]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/ssi/2019/324/regulation/7/7) inserted (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [regs. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [11(3)(c)](https://www.legislation.gov.uk/ssi/2020/475/regulation/11/3/c)
+
+[^key-be886f870b1333a2ad4b64ca1b016169]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/ssi/2019/324/regulation/7/7) omitted (1.4.2020) by virtue of [The Funeral Expense Assistance and Young Carer Grants (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/99)](https://www.legislation.gov.uk/ssi/2020/99), [regs. 1](https://www.legislation.gov.uk/ssi/2020/99/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/99/regulation/3/2)
+
+[^key-647291f8cd8cde4fa460a170fc34ed0c]: Commencement: Reg. 8 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-785c1c777fe9c41a12d901dc604605f6]: Textual amendment: [Reg. 8(2)(aa)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/aa) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2021/320/regulation/5/2)
+
+[^key-518c9f494fe5cdc8843e7a631469b6f1]: Textual amendment: [Reg. 8(2)(ab)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/ab) inserted (22.3.2022 at 5.40 p.m.) by [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2022/108/regulation/6/2)
+
+[^key-9cbf387aeaa5486676b3ede04b46804d]: Textual amendment: Word in [reg. 8(2)(ab)(i)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/ab/i) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2022/336/regulation/7/a)
+
+[^key-1fc346dfc38b7619b478f1b7fc8807e7]: Textual amendment: Word in [reg. 8(2)(ab)(ii)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/ab/ii) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2022/336/regulation/7/b)
+
+[^key-85254c97dffd6382df2f38ff4466931e]: Textual amendment: [Reg. 8(2)(ab)(iii)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/ab/iii) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [7(c)](https://www.legislation.gov.uk/ssi/2022/336/regulation/7/c)
+
+[^key-35ccacfc31f9647ac9fee3948cf438f3]: Textual amendment: [Reg. 8(2)(ac)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/ac) inserted (17.5.2023 at 5.54 p.m.) by [The Social Security (Residence Requirements) (Sudan) (Scotland) Regulations 2023 (S.S.I. 2023/149)](https://www.legislation.gov.uk/ssi/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/149/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2023/149/regulation/6/2)
+
+[^key-55d2ec97fa75f73646f63d82de8214cf]: Textual amendment: [Reg. 8(2)(ad)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/ad) inserted (26.10.2023 at 5.38 p.m.) by [The Social Security (Residence and Presence Requirements) (Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights and Lebanon) (Scotland) Regulations 2023 (S.S.I. 2023/309)](https://www.legislation.gov.uk/ssi/2023/309), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2023/309/regulation/6/2)
+
+[^key-5d2462911c088ae15e65557abe7e9998]: Textual amendment: [Reg. 8(2)(ae)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/ae) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/4/2)
+
+[^key-8bea5882060514beec5a760f98ab894c]: Textual amendment: [Reg. 8(2)(af)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/af)[(ag)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/ag) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2026/139/regulation/8/2)
+
+[^c23899541]: Marginal citation: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^key-2f304fa147291968e4ea0f58d4374b56]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/2/b) omitted (22.3.2022 at 5.40 p.m.) by virtue of [The Social Security (Residence Requirements) (Ukraine) (Scotland) Regulations 2022 (S.S.I. 2022/108)](https://www.legislation.gov.uk/ssi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/108/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2022/108/regulation/6/3)
+
+[^c23899561]: Marginal citation: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-4c2df531f38c8f83e8fc6805b597dcc0]: Textual amendment: [Reg. 8(3)-(10)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/3) substituted for [reg. 8(3)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/3) (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [regs. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [11(4)(a)](https://www.legislation.gov.uk/ssi/2020/475/regulation/11/4/a)
+
+[^key-ca1d7ca69f0d36da5d91d7bf23d2ac9c]: Textual amendment: Word in [reg. 8(5)(a)(i)(cc)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/5/a/i/cc) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [6(2)(a)(i)](https://www.legislation.gov.uk/ssi/2025/336/regulation/6/2/a/i)
+
+[^key-ac00c9f36bfa9d6634d5c6e614ab1ab2]: Textual amendment: Word in [reg. 8(5)(a)(i)(dd)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/5/a/i/dd) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [6(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/336/regulation/6/2/a/ii)
+
+[^key-e8f50f64a2b823cc226d924dc9cb9e7a]: Textual amendment: [Reg. 8(5)(a)(i)(ee)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/5/a/i/ee) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [6(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2025/336/regulation/6/2/a/iii)
+
+[^key-6d388d6da4f7fc8075382c970a008ea8]: Textual amendment: Words in [reg. 8(10)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/10) inserted (15.9.2021) by [The Social Security (Residence Requirements) (Afghanistan) (Scotland) Regulations 2021 (S.S.I. 2021/320)](https://www.legislation.gov.uk/ssi/2021/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/320/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2021/320/regulation/5/3)
+
+[^key-88f12e09f27294fbae444a7d63c5a116]: Textual amendment: Words in [reg. 8(10)](https://www.legislation.gov.uk/ssi/2019/324/regulation/8/10) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/6/2/b)
+
+[^key-d9802606615ca035f16caf203ccabc9b]: Commencement: Reg. 9 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-c6010e11536c1a7997ef16e1fab3ee2d]: Textual amendment: Word in [reg. 9(2)(a)](https://www.legislation.gov.uk/ssi/2019/324/regulation/9/2/a) omitted (9.2.2022) by virtue of [The Social Security (Period for Re-determination Requests) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/469)](https://www.legislation.gov.uk/ssi/2021/469), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/469/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2021/469/regulation/4/2/a)
+
+[^key-d38f8513c60cfe8eb21e90c7ff1eee2c]: Textual amendment: [Reg. 9(2)(c)](https://www.legislation.gov.uk/ssi/2019/324/regulation/9/2/c) and word inserted (9.2.2022) by [The Social Security (Period for Re-determination Requests) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/469)](https://www.legislation.gov.uk/ssi/2021/469), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/469/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2021/469/regulation/4/2/b)
+
+[^c23899571]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Schedule 1, paragraph 2 sets out the Scottish bank holidays; it is amended by the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2), [section 1](https://www.legislation.gov.uk/asp/2007/2/section/1).
+
+[^key-99e665807397e6df56e4a542bd4957a2]: Commencement: Reg. 10 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-fed0b2346abd210996ef64c4e71fcc88]: Commencement: Reg. 11 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-e5ac73006c9524ecd6f16ee2d043f5f0]: Commencement: Reg. 12 in force at 21.10.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/324/regulation/1)
+
+[^key-3ce9b21ed2c8ef35e34b9c86ac16a941]: Textual amendment: Words in reg. 12(1) substituted (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [regs. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [11(5)(a)](https://www.legislation.gov.uk/ssi/2020/475/regulation/11/5/a)
+
+[^key-f84ce0ef720c756fb06f340b7dad667b]: Textual amendment: Sum in reg. 12(1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2026/170/regulation/6) (with [sch. para. 4](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/4))
+
+[^key-269adfe1754960342046dba381ab66ac]: Textual amendment: Reg. 12(1A) inserted (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [regs. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [11(5)(b)](https://www.legislation.gov.uk/ssi/2020/475/regulation/11/5/b)

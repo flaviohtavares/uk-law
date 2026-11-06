@@ -1,0 +1,92 @@
+---
+title: Disclosure (Scotland) Act 2020, section 49
+act: Disclosure (Scotland) Act 2020
+section: '49'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2020/13/section/49
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Disclosure (Scotland) Act 2020, section 49
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/asp/2020/13
+>
+> Extent: Scotland.
+
+## 49. Suitable persons to have access to disclosure information[^key-ed84ef166d80753ae26296b5407a7876][^key-b6c8a3f8bbe953c35403db9a2f965f4c]
+
+*Extent: S*
+
+(1) In determining, for the purposes of section 47(5) or 48(2) whether an individual is a suitable person to have access to disclosure information, the Scottish Ministers may have regard in particular to—
+
+- (a) such details as may be prescribed under section 8(1)(a) of every criminal disposal incurred by the individual that is recorded in central records,
+- (b) whether the individual is—
+  - (i) barred from regulated roles with children,
+  - (ii) barred from regulated roles with adults,
+- (c) whether the Scottish Ministers are considering whether to list the individual in the children's list or the adults' list,
+- (d) whether—
+  - (i) an application for registration in the register of accredited bodies by the individual has been refused,
+  - (ii) the individual has been removed from the register of accredited bodies,
+  - (iii) the individual's nomination as lead signatory or countersignatory of an accredited body has been refused,
+  - (iv) all of the prescribed details relating to the individual as a lead signatory or countersignatory of an accredited body have been removed from the entry for the accredited body in the register of accredited bodies,
+
+  and the reason for the refusal of the application, the removal of the individual (or all of the individual's prescribed details) from the register or the refusal of the nomination (as the case may be),
+- (e) any information provided to them under subsection (2),
+- (f) any representations made by the applicant or the accredited body concerned,
+- (g) any other information held by the Scottish Ministers.
+
+(2) Before making a determination mentioned in subsection (1), the Scottish Ministers may request the chief officer of any relevant police force to provide them with information which—
+
+- (a) is available to the chief officer,
+- (b) relates to—
+  - (i) an applicant for registration in the register of accredited bodies,
+  - (ii) an accredited body, or
+  - (iii) an individual nominated as lead signatory or countersignatory of an accredited body,
+- (c) the chief officer considers—
+  - (i) is relevant to the determination of the suitability of individuals to have access to disclosure information, and
+  - (ii) ought to be provided to the Scottish Ministers.
+
+(3) Where a request is made under subsection (2) to the chief constable, the chief constable must comply, as soon as practicable after receiving it, with the request.
+
+(4) The chief constable must not provide information by virtue of a request under subsection (2) if the chief constable thinks that disclosing the information would be contrary to the interests of the prevention or detection of crime.
+
+(5) In this section—
+
+- “**criminal disposal**” has the same meaning as in section 8(3),
+- “**relevant police force**” means such police force as may be prescribed.
+
+(6) In subsection (1)(d), references to—
+
+- (a) the refusal of an application for registration,
+- (b) removal from the register of accredited bodies (of an accredited body or all of the prescribed details of a lead signatory or countersignatory from the entry for an accredited body in the register of accredited bodies), and
+- (c) refusal of nomination as lead signatory or countersignatory,
+
+include references to any process applying in England and Wales or Northern Ireland which appears to the Scottish Ministers to be equivalent to such a refusal or removal.
+
+(7) For the purposes of this section—
+
+- (a) references to a police force include—
+  - (i) the Royal Navy Police,
+  - (ii) the Royal Military Police,
+  - (iii) the Royal Air Force Police,
+  - (iv) the Ministry of Defence Police,
+  - (v) the British Transport Police,
+  - (vi) the Civil Nuclear Constabulary,
+  - (vii) the States of Jersey Police Force,
+  - (viii) the salaried police force of the Island of Guernsey,
+  - (ix) the Isle of Man Constabulary,
+  - (x) a body with functions in any country or territory outside the United Kingdom, the Channel Islands and the Isle of Man that correspond to those of a police force in any part of the United Kingdom,
+- (b) references to the chief officer of a police force include the person responsible for the direction of a body mentioned in paragraph (a),
+- (c) each of the following is to be treated as if it were a police force—
+  - (i) the Commissioners for Her Majesty's Revenue and Customs (and for this purpose a reference to the chief officer of a police force is to be taken to be a reference to any of the Commissioners),
+  - (ii) the National Crime Agency (and for this purpose a reference to the chief officer of a police force is to be taken to be a reference to the Director General of the Agency), and
+  - (iii) such other department or body as may be prescribed (and regulations may prescribe in relation to the department or body the person to whom a reference to the chief officer of a police force is to be taken to be).
+
+## Annotations
+
+[^key-ed84ef166d80753ae26296b5407a7876]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2020/13/section/49) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+
+[^key-b6c8a3f8bbe953c35403db9a2f965f4c]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2020/13/section/49) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

@@ -1,0 +1,696 @@
+---
+title: The Upper Tribunal for Scotland (Social Security Rules of Procedure) Regulations 2018
+id: ssi/2018/274
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-09-11'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2018/274
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2018/274/pdfs/ssipn_20180274_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/274/pdfs/ssi_20180274_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/274/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Upper Tribunal for Scotland (Social Security Rules of Procedure) Regulations 2018
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2018 No. 274
+
+Tribunals And Inquiries
+
+The Upper Tribunal for Scotland (Social Security Rules of Procedure) Regulations 2018
+
+Made
+
+11th September 2018
+
+Laid before the Scottish Parliament
+
+13th September 2018
+
+Coming into force
+
+22nd November 2018
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 4(2) of schedule 9 of the Tribunals (Scotland) Act 2014 [^c23386611] and all other powers enabling them to do so.
+
+In accordance with paragraph 4(3) of schedule 9 of that Act, the Scottish Ministers have consulted the President of the Scottish Tribunals and such other persons as they considered appropriate.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Upper Tribunal for Scotland (Social Security Rules of Procedure) Regulations 2018 and the Rules contained in the schedule may be cited as the Upper Tribunal for Scotland Social Security Rules of Procedure 2018.
+
+(2) These Regulations come into force on 22nd November 2018.
+
+(3) In these Regulations, “**the 2018 Act**” means the Social Security (Scotland) Act 2018 [^c23386621].
+
+## 2. Disapplication of the Upper Tribunal for Scotland Rules 2016
+
+The Upper Tribunal for Scotland Rules of Procedure 2016 [^c23386631] do not apply to proceedings before the Upper Tribunal relating to the exercise by the Scottish Ministers of functions conferred on them by the 2018 Act or by regulations made under that Act.
+
+## 3. Application of Rules in schedule
+
+The Rules in the schedule of these Regulations apply to all proceedings before the Upper Tribunal relating to the exercise by the Scottish Ministers of functions conferred on them by —[^key-ab50e1a84235fbadab249cb399d4969e]
+
+- (a) the 2018 Act;
+- (b) regulations made under the 2018 Act; or
+- (c) the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020.
+
+S SOMERVILLE
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE — The Upper Tribunal for Scotland Social Security Rules of Procedure 2018
+
+Regulation 3
+
+### PART 1 — Interpretation
+
+#### 1. Interpretation
+
+(1) In these Rules—
+
+- “**the 2014 Act**” means the Tribunals (Scotland) Act 2014 [^c23386641];
+- “**the 2018 Act**” means the Social Security (Scotland) Act 2018 [^c23386651];
+- “[^key-877546bcddd49001d97fb4e0ebd97582]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
+- “**the 2016 Regulations**” means the Scottish Tribunals (Time Limits) Regulations 2016 [^c23386661];
+- “**Appeal Appendix**” means all the documents and authorities to be relied on for the purpose of the appeal along with an inventory of those documents and authorities;
+- “**appellant**” means—
+  - (a) a person who makes an appeal to the Upper Tribunal; or
+  - (b) a person substituted as an appellant under rule 12 (addition, substitution and removal of parties);
+- “[^key-6dc6341f8088999db177c29a909fe312]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
+- “ **the Convention rights**” has the meaning given to it in section 1 of the Human Rights Act 1998 [^c23386671];
+- “**document**” means anything in which information is recorded in any form;
+- “**electronic communication**” has the meaning given to it by section 15(1) of the Electronic Communications Act 2000 [^c23386681];
+- “**excluded decision**” means a decision falling under section 51 of the 2014 Act;
+- “**the First-tier Tribunal**” means the First-tier Tribunal for Scotland Social Security Chamber;
+- “**hearing**” means an oral hearing and includes a hearing conducted in whole or in part by video link, telephone or other means of instantaneous two-way electronic communication;
+- “**party**” means a person who is (or was at the time that the Upper Tribunal disposed of the proceedings) an appellant or respondent in proceedings before the Upper Tribunal;
+- “**practice direction**” means a practice direction issued in terms of section 74 of the 2014 Act;
+- “**President**” means the President of the Scottish Tribunals;
+- “**proceedings**” includes a part of the proceedings;
+- “[^key-23b31ecb16ec81759da33d828d270547]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
+- “**representative**” means a lay representative or a legal representative;
+- “**respondent**” means—
+  - (a) in an appeal against a decision of the First-tier Tribunal, that Tribunal and any person other than the appellant who was a party before the First-tier Tribunal; or
+  - (b) a person substituted or added as a respondent under rule 12 (addition, substitution and removal of parties);
+- “**review period**” means the time period between the day of an application by a party for a review under rule 28(1) or, as the case may be, the Upper Tribunal's decision to review a decision under that rule, and the receipt by each party of a notice sent under rule 28(5);
+- “**the Upper Tribunal**” means the Upper Tribunal for Scotland; and
+- “**witness statement**” means a written statement of a witness ordered by the Upper Tribunal to stand for the evidence-in-chief of the witness.
+
+(2) For the purposes of these Rules, where information is sent—
+
+- (a) via the postal service to the last known address held for an individual; or
+- (b) by email to the last known email address held for the individual,
+
+the individual is presumed to have received the information 48 hours after it is sent, unless the contrary is shown.
+
+### PART 2 — Role of the Upper Tribunal
+
+#### 2. Purpose of the Upper Tribunal and overriding objective
+
+(1) The Upper Tribunal hears and decides cases referred to it from the First-tier Tribunal for Scotland and hears and decides appeals from the First-tier Tribunal.
+
+(2) The overriding objective of these Rules is to secure that proceedings before the Upper Tribunal to which the Rules apply are handled fairly and justly.
+
+(3) Dealing with a case fairly and justly includes—
+
+- (a) dealing with the case in ways which are transparent, proportionate to the importance of the case, the complexity of the issues, the anticipated expenses and the resources of the parties;
+- (b) avoiding unnecessary formality and seeking flexibility in the proceedings;
+- (c) ensuring, so far as practicable, that the parties are able to participate fully in the proceedings and are treated with dignity and respect;
+- (d) using any special expertise of the Upper Tribunal effectively; and
+- (e) avoiding delay, so far as compatible with proper consideration of the issues.
+
+(4) The Upper Tribunal must seek to give effect to the overriding objective when it—
+
+- (a) exercises any power under these Rules; or
+- (b) interprets any rule or practice direction.
+
+(5) Parties must, insofar as reasonably possible—
+
+- (a) help the Upper Tribunal to further the overriding objective; and
+- (b) co-operate with the Upper Tribunal generally.
+
+### PART 3 — Procedure for Cases in the Upper Tribunal
+
+#### 3. Application for permission to appeal against a decision of the First-tier Tribunal
+
+(1) A person may lodge with the Upper Tribunal an application for permission to appeal against a decision of the First-tier Tribunal, where the First-tier Tribunal has refused permission to appeal in whole or in part.
+
+(2) An application for permission to appeal must—
+
+- (a) identify the decision of the First-tier Tribunal to which it relates; and
+- (b) identify the alleged point or points of law in relation to the decision.
+
+(3) The appellant must provide with the application for permission a copy of—
+
+- (a) any written record of the decision being challenged;
+- (b) any separate written statement of reasons for that decision; and
+- (c) the notice of refusal of permission to appeal from the First-tier Tribunal.
+
+(4) If the appellant lodges the application for permission to appeal with the Upper Tribunal after the expiry of the 30 day period referred to in regulation 3(1) of the 2016 Regulations—
+
+- (a) the application for permission to appeal must—
+  - (i) include a request for an extension of time;
+  - (ii) explain why the application for permission to appeal was not made in time; and
+  - (iii) state why it is said to be in the interests of justice that the time be extended.
+- (b) unless the Upper Tribunal extends the time for lodging an application for permission to appeal the Upper Tribunal must not admit the application for permission to appeal.
+
+(5) The Upper Tribunal may, where the First-tier Tribunal has refused permission to appeal—
+
+- (a) refuse permission to appeal;
+- (b) give permission to appeal; or
+- (c) give permission to appeal on limited grounds or subject to conditions,
+
+and must send a notice of its decision to each party including reasons for a refusal of permission or for limitations or conditions on any grant of permission.
+
+(6) Where the Upper Tribunal, without a hearing—
+
+- (a) refuses permission to appeal; or
+- (b) gives permission to appeal on limited grounds or subject to conditions,
+
+the appellant may make a written application (within the period of 14 days beginning with the day on which the appellant is presumed to have received notice of refusal of permission, sent under paragraph (5)) to the Upper Tribunal for the decision to be reconsidered at a hearing.
+
+(7) An application under paragraph (6) must be heard and decided by a member or members of the Upper Tribunal different from the member or members who refused permission without a hearing.
+
+(8) Where the Upper Tribunal gives permission to appeal against a decision of the First-tier Tribunal, a valid notice of appeal will be deemed to have been provided to the Upper Tribunal, for the purposes of rule 4 (notice of appeal against a decision of the First-tier Tribunal).
+
+#### 4. Notice of appeal against a decision of the First-tier Tribunal
+
+(1) Where the First-tier Tribunal sends a notice of permission to appeal to a party who has sought permission to appeal, that party, if intending to appeal, must provide a notice of appeal to the Upper Tribunal within the period of 30 days beginning with the day on which the party is presumed to have received the notice of permission.
+
+(2) A notice of appeal must —
+
+- (a) identify the decision of the First-tier Tribunal to which it relates;
+- (b) identify the alleged point or points of law in relation to the decision; and
+- (c) include any views of the appellant on whether the matter should be dealt with at a hearing or without a hearing.
+
+(3) The appellant must provide with the notice of appeal a copy of—
+
+- (a) any written record of the decision being challenged;
+- (b) any separate written statement of reasons for that decision; and
+- (c) the notice of permission to appeal.
+
+(4) When the Upper Tribunal receives a notice of appeal it must send a copy of the notice and any accompanying documents to each respondent.
+
+(5) If the appellant lodges the notice of appeal with the Upper Tribunal after the end of the period mentioned in paragraph (1)—
+
+- (a) the notice of appeal must—
+  - (i) include a request for an extension of time;
+  - (ii) explain why the notice of appeal was not provided in time; and
+  - (iii) state why it is said to be in the interests of justice that the time be extended; and
+- (b) unless the Upper Tribunal extends the time for lodging a notice of appeal the Upper Tribunal must not admit the notice of appeal.
+
+#### 5. Response to the notice of appeal
+
+(1) Subject to any order given by the Upper Tribunal, a respondent may provide a written response to a notice of appeal.
+
+(2) Any response provided under paragraph (1) must be sent or delivered to the Upper Tribunal so that it is received before the end of the period of 30 days beginning with the day on which the respondent is presumed to have received the copy of the notice of appeal as sent by the Upper Tribunal.
+
+(3) The response must state—
+
+- (a) the name and address of the respondent;
+- (b) the name and address of the representative (if any) of the respondent;
+- (c) an address where documents for the respondent may be sent or delivered;
+- (d) whether the respondent opposes the appeal;
+- (e) the grounds on which the respondent relies, including any grounds on which the respondent was unsuccessful in the proceedings which are the subject of the appeal, but intends to rely on in the appeal.
+
+(4) The response may include a request that the case be dealt with at a hearing or without a hearing.
+
+(5) If the respondent provides the response to the Upper Tribunal later than the time required by paragraph (2) or by an extension of time allowed under rule 8(3)(a) (power to extend time), the response must include a request for an extension of time and the reason why the response was not provided in time.
+
+(6) When the Upper Tribunal receives the response it must send a copy of the response and any accompanying documents to the appellant.
+
+#### 6. Appellant's reply
+
+(1) Subject to any order given by the Upper Tribunal, the appellant may provide a written reply to any response provided under rule 5 (response to the notice of appeal).
+
+(2) Any reply provided under paragraph (1) must be sent or delivered to the Upper Tribunal so that it is received within the period of 30 days beginning with the day on which the appellant is presumed to have received a copy of the response as sent by the Upper Tribunal.
+
+(3) If the appellant provides the reply to the Upper Tribunal later than the time required by paragraph (2) or by an extension of time allowed under rule 8(3)(a) (power to extend time), the reply must include a request for an extension of time and the reason why the reply was not provided in time.
+
+(4) When the Upper Tribunal receives the reply it must send a copy of the reply and any accompanying documents to each respondent.
+
+### PART 4 — General Powers and Provisions
+
+#### 7. Delegation to staff
+
+(1) Staff of the Scottish Courts and Tribunals Service may, with the approval of the President, carry out functions of a judicial nature permitted or required to be undertaken by the Upper Tribunal, provided that they are of a preliminary or an incidental nature.
+
+(2) The approval referred to in paragraph (1) may apply generally to the carrying out of specified functions by members of staff of a specified description in specified circumstances.
+
+(3) Where the Upper Tribunal sends notice of a decision made by a member of staff pursuant to an approval under paragraph (1) to a party, that party may, within the period of 14 days beginning with the day on which the party is presumed to have received the notice, make a written application to the Upper Tribunal for that decision to be considered afresh by a member of the Upper Tribunal.
+
+#### 8. Case management
+
+(1) Subject to the provisions of the 2014 Act and these Rules, the Upper Tribunal may regulate its own procedure.
+
+(2) The Upper Tribunal may give an order in relation to the conduct of proceedings before it at any time, including an order amending, suspending or setting aside an earlier order.
+
+(3) In particular, and without restricting the general powers in paragraphs (1) and (2), the Upper Tribunal may—
+
+- (a) extend or shorten the time for complying with any rule or order;
+- (b) conjoin or take concurrently two or more sets of proceedings or parts of proceedings raising common issues;
+- (c) specify one or more cases as a lead case or lead cases where—
+  - (i) two or more cases are before the Upper Tribunal;
+  - (ii) in each such case the proceedings have not been finally determined; and
+  - (iii) the cases give rise to common or related issues of fact or law,
+
+  and sist the other cases until the common or related issues have been determined;
+- (d) permit or require a party to amend a document;
+- (e) permit or require a party or another person to provide documents, information, evidence or submissions to the Upper Tribunal or a party;
+- (f) deal with an issue in the proceedings as a preliminary issue;
+- (g) hold a hearing to consider any matter, including a case management issue;
+- (h) decide the form of any hearing;
+- (i) adjourn or postpone a hearing;
+- (j) require a party to produce or lodge documents including but not confined to a note of argument and the Appeal Appendix;
+- (k) sist proceedings;
+- (l) transfer proceedings to another court or tribunal if that other court or tribunal has jurisdiction in relation to the proceedings and—
+  - (i) because of a change of circumstances since the proceedings were started, the Upper Tribunal no longer has jurisdiction in relation to the proceedings; or
+  - (ii) the Upper Tribunal considers that the other court or tribunal is a more appropriate forum for the determination of the case;
+- (m) suspend the effect of its own decision pending an appeal of that decision;
+- (n) in an appeal against the decision of the First-tier Tribunal, suspend the effect of that decision pending the determination of any permission to appeal or any appeal;
+- (o) require the First-tier Tribunal to provide reasons for the decision, or other information or documents in relation to the decision or any proceedings before the First-tier Tribunal.
+
+#### 8A. Compatibility question under the 2024 Act - raising, intimation and notice[^key-09401cf22fddae8fed6e29c5880a324b]
+
+(1) This rule applies to—
+
+- (a) raising a compatibility question,
+- (b) intimation of a compatibility question to the relevant authorities under section 34(1) of the 2024 Act,
+- (c) notice by a relevant authority of their intention to intervene in proceedings under section 34(2) of that Act.
+
+(2) A compatibility question may be raised by a party at any stage in the proceedings.
+
+(3) Where a party raises a compatibility question, they must, so far as the party is able to do so, set out in sufficient detail—
+
+- (a) the facts and circumstances, and
+- (b) the contentions of law
+
+on the basis of which it is claimed that the compatibility question arises.
+
+(4) On receiving a compatibility question under paragraph (3), the Upper Tribunal must—
+
+- (a) if it considers that the basis on which a compatibility question is said to have arisen is not set out in sufficient detail, to meet the overriding objective, direct the party to set out the facts and circumstances and contentions of law on the basis of which it is alleged the compatibility question arises to the Upper Tribunal, within such period as it may determine,
+- (b) determine if considers that the compatibility question is frivolous or vexatious with reference to section 31(3) of the 2024 Act,
+- (c) if satisfied as to the basis of the compatibility question, intimate under section 34(1) of the 2024 Act in writing to each relevant authority the matters specified in paragraph (5).
+
+(5) The matters to be intimated to each relevant authority are—
+
+- (a) the fact that a compatibility question has arisen in proceedings before the Upper Tribunal,
+- (b) the details of the matters raised in the proceedings,
+- (c) the details of the compatibility question that has arisen and, if known at the time of intimation, the position of each party to proceedings in respect of the compatibility question,
+- (d) that to take part in the proceedings as a party the relevant authority must—
+  - (i) give notice to the Upper Tribunal of their intention to do so within 14 days of receipt of the intimation made under this rule, or within such other period as the Upper Tribunal may specify, should it be satisfied there are exceptional circumstances which require the time period to be adjusted,
+  - (ii) within 7 days after the date of such notice, provide written submissions to the Upper Tribunal in respect of the compatibility question in such form, and in accordance with such intimation requirements on other parties to proceedings (including any other relevant authorities) as the Upper Tribunal may specify.
+
+(6) The Upper Tribunal must provide each relevant authority with all documents relevant to the consideration of the compatibility question.
+
+(7) The Upper Tribunal must, if those submissions under paragraph (5)(d)(ii) are provided, take steps to allow a relevant authority to take part as a party to proceedings so far as the proceedings relate to the compatibility question.
+
+(8) The Upper Tribunal may fix a hearing to consider a compatibility question as a separate hearing from any other hearing in the proceedings.
+
+(9) The Upper Tribunal may sist the proceedings under rule 8(3)(k) (case management) if it considers it necessary to do so while the compatibility question is being determined.
+
+(10) Where a relevant authority does not take part as a party to proceedings before the Upper Tribunal, it is not precluded from intervening in any subsequent appeal to the Court of Session, so far as those proceedings relate to a compatibility question.
+
+(11) Where a relevant authority does not take part as a party to proceedings and that relevant authority requests to be notified of the outcome of proceedings in respect of the compatibility question, including regarding any subsequent appeal which relates to the determination of the compatibility question, the Upper Tribunal must notify the relevant authority of this as soon as practicable.
+
+#### 9. Procedure for applying for and giving orders
+
+(1) The Upper Tribunal may give an order on the application of one or more of the parties or on its own initiative.
+
+(2) An application for an order may be made—
+
+- (a) by sending or delivering a written application to the Upper Tribunal; or
+- (b) orally during the course of a hearing.
+
+(3) An application for an order must include the reasons for making that application.
+
+(4) The Tribunal must send written notice of any order to each party to the case.
+
+(5) If a party sent a notice of the order under paragraph (4) wishes to challenge the order, the party may do so by applying for another order which amends, suspends or sets aside the first order.
+
+#### 10. Failure to comply with rules etc.
+
+(1) An irregularity resulting from a failure to comply with any requirement in these Rules, a practice direction or an order, does not of itself render void the proceedings or any step taken in the proceedings.
+
+(2) If a party has failed to comply with a requirement in these Rules, a practice direction or an order, the Upper Tribunal may take such action as it considers just, which may include—
+
+- (a) waiving the requirement;
+- (b) requiring the failure to be remedied; or
+- (c) exercising its power under rule 11 (dismissal of a party's case).
+
+#### 11. Dismissal of a party's case
+
+(1) The Upper Tribunal must dismiss the whole or a part of the proceedings if the Upper Tribunal—
+
+- (a) does not have jurisdiction in relation to the proceedings or that part of them; and
+- (b) does not exercise its power under rule 8(3)(l) (transfer to another court or tribunal) in relation to the proceedings or that part of them.
+
+(2) The Upper Tribunal may dismiss the whole or a part of the proceedings if—
+
+- (a) the appellant has failed to comply with an order which stated that failure by the appellant to comply with the order could lead to the dismissal of the proceedings or part of them; or
+- (b) the appellant has failed to co-operate with the Upper Tribunal to such an extent that the Upper Tribunal considers that it cannot deal with the proceedings fairly.
+
+(3) The Upper Tribunal may not dismiss the whole or a part of the proceedings under paragraph (1) or (2)(b) without first giving the appellant an opportunity to make representations in relation to the proposed dismissal.
+
+(4) If the proceedings, or part of them, have been dismissed under paragraph (2)(a), the appellant may apply for the proceedings, or part of them, to be reinstated, where the appellant can satisfy the Upper Tribunal that the appellant has good reason to apply for reinstatement.
+
+(5) An application under paragraph (4) must be made in writing and received by the Upper Tribunal within the period of 31 days beginning with the day on which the notification sent to the appellant under paragraph (8) is presumed to have been received.
+
+(6) An application under paragraph (4) must set out the reasons on which the appellant relies in applying for reinstatement.
+
+(7) This rule applies to a respondent as it does to an appellant except that-
+
+- (a) a reference to the dismissal of the proceedings is to be read as a reference to the barring of the respondent from taking further part in the proceedings; and
+- (b) a reference to an application for the reinstatement of proceedings which have been dismissed is to be read as a reference to an application for the lifting of the bar on the respondent taking further part in the proceedings.
+
+(8) The Upper Tribunal must notify each party in writing that dismissal has taken place.
+
+#### 12. Addition, substitution and removal of parties
+
+(1) The Upper Tribunal may give an order adding, substituting or removing a party as an appellant or a respondent including where—
+
+- (a) the wrong person has been named as a party; or
+- (b) the addition, substitution or removal has become necessary because of a change in circumstances since the start of proceedings.
+
+(2) If the Upper Tribunal gives an order under paragraph (1) it may give such consequential orders as it considers appropriate.
+
+(3) A person who is not a party may make a written application to the Upper Tribunal to be added or substituted as a party under this rule.
+
+(4) If the Upper Tribunal refuses an application under paragraph (3) it must consider whether to permit the person who made the application to provide submissions or evidence to the Upper Tribunal.
+
+#### 13. Representatives
+
+(1) A party may be represented in any proceedings by a representative whose details may be communicated to the Upper Tribunal prior to any hearing.
+
+(2) A party may show any document or communicate any information about the proceedings to that party's representative without contravening any prohibition or restriction on disclosure of the document or information.
+
+(3) Where a document or information is disclosed under paragraph (2), the representative is subject to any prohibition or restriction on disclosure in the same way that the party is.
+
+(4) For the avoidance of doubt, a party may be represented at a hearing by a person other than any person whose details have been communicated to the Upper Tribunal under paragraph (1).
+
+#### 14. Supporters
+
+A party who is an individual may be accompanied by another person, who is not a representative, to act as a supporter.
+
+#### 15. Calculating time
+
+(1) An act required by these Rules, a practice direction or an order to be done on or by a particular day must be done by 5 pm on that day.
+
+(2) If the time specified by these Rules, a practice direction or an order for doing any act ends on a day other than a working day, the act is done in time if it is done on the next working day.
+
+(3) In this rule and in rule 28 (reviews), “**working day**” means any day except a Saturday, a Sunday, or a bank holiday in Scotland under section 1 of the Banking and Financial Dealings Act 1971 [^c23386691].
+
+#### 16. Sending and delivery of documents
+
+(1) Any document to be provided to the Upper Tribunal under these Rules, a practice direction or an order must be—
+
+- (a) sent by pre-paid post or by document exchange, or delivered to, the address of the Upper Tribunal; or
+- (b) sent or delivered by such other method as the Upper Tribunal may permit or direct.
+
+(2) Subject to paragraph (3), if a party provides a fax number, email address or other details for the electronic transmission of documents to them, that party must accept delivery of documents by that method.
+
+(3) If a party informs the Upper Tribunal and all other parties that a particular form of communication, other than post, should not be used to provide documents to that party, that form of communication must not be so used.
+
+(4) If the Upper Tribunal or a party sends a document to a party or the Upper Tribunal by email or any other electronic means of communication, the recipient may request that the sender provides a hard copy of the document to the recipient, and the recipient must make any such a request as soon as reasonably practicable after receiving the document electronically.
+
+(5) The Upper Tribunal and each party may assume that the address provided by a party or its representative is and remains the address to which documents should be sent or delivered until receiving written notification to the contrary.
+
+#### 17. Disclosure of documents and information
+
+(1)[^key-9146e707e689fda56fd3c1680a4c37c4] The Upper Tribunal may at any stage of the proceedings, on its own initiative or on application by one or more of the parties, make an order with a view to preventing or restricting the public disclosure of any aspect of those proceedings so far as it considers necessary in the interests of justice or in order to protect the Convention rights of any person.
+
+(2)[^key-6a0f2b6e471ee5fd044b3714bad12c6a] The Upper Tribunal may at any stage of proceedings, on its own initiative or on the request of one or more of the parties, give a direction prohibiting disclosure of a document or information to a person (“**the recipient**”) if—
+
+- (a) the document or information relates to the physical or mental health of a person,
+- (b) a registered medical practitioner or registered nurse has informed either the Upper Tribunal, or one or more of the parties, that disclosure of the information would be likely to cause serious harm to the physical or mental health of the recipient or some other person,
+- (c) the Upper Tribunal is satisfied that such disclosure would be likely to cause serious harm to the physical or mental health of the recipient or some other person, and
+- (d) the Upper Tribunal is satisfied, having regard to the interests of justice, that it is proportionate to give such a direction.
+
+(3) If a party considers that the Upper Tribunal should give a direction under paragraph (2) prohibiting the disclosure of a document or information to a person (“**the recipient**”), the party must provide to the Upper Tribunal the document or information, and the reason the party is requesting that it be withheld, so that the Upper Tribunal may decide whether the document or information should be disclosed to the recipient or should be subject of a direction under paragraph (2).
+
+(4) The Upper Tribunal must conduct proceedings as appropriate in order to give effect to a direction given under paragraph (2).
+
+(5) If the Upper Tribunal gives a direction under paragraph (2) which prevents disclosure to a party who has a representative, or any other person acting on their behalf, the Upper Tribunal may give a direction that the document or information be disclosed to that representative or person if the Upper Tribunal is satisfied that—
+
+- (a) disclosure to the representative or person would be in the interests of the party, and
+- (b) the representative or person will act in accordance with paragraph (6).
+
+(6) Documents or information disclosed to a representative or person in accordance with a direction under paragraph (5) must not be disclosed either directly or indirectly to any other person without the Upper Tribunal’s consent.
+
+#### 18. Evidence and submissions
+
+(1) Without restriction on the general powers in rule 8(1) and (2) (case management powers), the Upper Tribunal may give orders as to—
+
+- (a) issues on which parties may lead fresh evidence or make submissions;
+- (b) the nature of any such evidence;
+- (c) whether the parties are permitted to provide expert evidence, and if so whether the parties must jointly appoint a single expert to provide such evidence;
+- (d) any limit on the number of witnesses whose evidence a party may put forward, whether in relation to a particular issue or generally;
+- (e) the manner in which any evidence or submissions are to be provided, which may include an order for them to be given—
+  - (i) orally at a hearing; or
+  - (ii) by written submissions or witness statement; and
+- (f) the time at which any evidence or submissions are to be provided.
+
+(2) The Upper Tribunal may exclude evidence that would otherwise be admissible where—
+
+- (a) the evidence was not, without reasonable excuse, provided within the time allowed by an order or a practice direction;
+- (b) the evidence was otherwise, without reasonable excuse, provided in a manner that did not comply with an order or a practice direction; or
+- (c) it would otherwise be unfair to admit the evidence.
+
+(3) The Upper Tribunal may consent to a witness giving, or require any witness to give, evidence on oath or affirmation, and may administer an oath or affirmation for that purpose.
+
+#### 19. Citation of witnesses and orders to answer questions or produce documents
+
+(1) On the application of a party or on its own initiative, the Upper Tribunal may—
+
+- (a) by citation require any person to attend as a witness at a hearing at the time and place specified in the citation; or
+- (b) order any person to answer any questions or produce any documents in that person's possession or control which relate to any issue in the proceedings.
+
+(2) A citation under paragraph (1)(a) must—
+
+- (a) give the person required to attend 14 days' notice prior to the day of the hearing or such other period as the Upper Tribunal may order;
+- (b) where the person is not a party, state how expenses of attendance necessarily incurred may be recovered;
+- (c) state that the person on whom the requirement is imposed may apply to the Upper Tribunal to vary or set aside the citation or order, if the person did not have an opportunity to object to it before it was made or issued; and
+- (d) state the consequences of failure to comply with the citation or order.
+
+(3) A person making an application referred to in sub-paragraph (2)(c) must do so as soon as reasonably practicable after receiving notice of the citation or order.
+
+(4) No person may be compelled to give any evidence or produce any document that the person could not be compelled to give or produce at a civil trial of an action in a court of law in Scotland.
+
+#### 20. Withdrawal
+
+(1) Subject to paragraph (2), a party may give notice to the Upper Tribunal of the withdrawal of the party's case, or any part of that case—
+
+- (a) by sending or delivering to the Upper Tribunal a notice of withdrawal; or
+- (b) orally at a hearing.
+
+(2) Notice of withdrawal will not take effect unless the Upper Tribunal consents to the withdrawal except in relation to an application for permission to appeal.
+
+(3) Unless satisfied that a party has already been notified, the Upper Tribunal must notify each party in writing that a withdrawal has taken effect under this rule.
+
+(4) Where a case has been withdrawn in accordance with paragraphs (1) and (2), the party which has withdrawn its case may apply to the Upper Tribunal for the case to be reinstated, where the party can satisfy the Tribunal that the party has good reason to apply for reinstatement.
+
+(5) An application under paragraph (4) must be made in writing and be received by the Upper Tribunal within the period of 31 days beginning with the earlier of—
+
+- (a) the day on which the party which has withdrawn its case is presumed to have received the notification sent under paragraph (3) that the withdrawal has taken effect; or
+- (b) if the party which has withdrawn its case was present at the hearing when the case was withdrawn orally under paragraph (1)(b), the day of that hearing.
+
+(6) An application under paragraph (4) must set out the reasons on which the applicant relies in applying for reinstatement of the case.
+
+#### 21. Chairing member
+
+Where a matter is to be decided by two or more members of the Upper Tribunal, the President must determine the chairing member.
+
+### PART 5 — Hearings
+
+#### 22. Decision with or without a hearing
+
+(1) Subject to paragraph (2), the Upper Tribunal may make any decision without a hearing.
+
+(2) The Upper Tribunal must have regard to any view expressed by any party when deciding whether to hold a hearing to consider any matter, and the form of any such hearing.
+
+#### 23. Entitlement to attend a hearing
+
+Subject to the power to exclude persons in rule 25(4) (public and private hearings), each party is entitled to participate at a hearing together with any representatives and supporters permitted by rules 13 (representatives) and 14 (supporters).
+
+#### 24. Notice of hearings
+
+(1) The Upper Tribunal must give each party entitled to attend a hearing reasonable notice of the time and place of the hearing (including any adjourned or postponed hearing) and any change to the time and place of the hearing.
+
+(2) The period of notice under paragraph (1) must be at least 14 days prior to the day of the hearing except that the Upper Tribunal may give shorter notice—
+
+- (a) with the consent of the parties; or
+- (b) in urgent or exceptional circumstances.
+
+#### 25. Public and private hearings
+
+(1) Subject to the following paragraphs, all hearings must be held in public.
+
+(2) The Upper Tribunal may give an order that a hearing, or part of it, is to be held in private if the Upper Tribunal considers that restricting access to the hearing is justified—
+
+- (a) in the interests of public order;
+- (b) in order to protect a person's right to respect for their private and family life;
+- (c) in order to maintain the confidentiality of sensitive information;
+- (d) in order to avoid serious harm to the public interest; or
+- (e) because to hold it in public would prejudice the interests of justice.
+
+(3) Where a hearing, or any part of it, is to be held in private, the Upper Tribunal may determine who is entitled to attend the hearing or part of it.
+
+(4) The Upper Tribunal may give an order excluding from any hearing, or part of it—
+
+- (a) any person whose conduct the Upper Tribunal considers is disrupting or is likely to disrupt the hearing;
+- (b) any person whose presence the Upper Tribunal considers is likely to prevent another person from giving evidence or making submissions freely; or
+- (c) any person where the purpose of the hearing would be defeated by the attendance of that person.
+
+(5) The Upper Tribunal may give a direction excluding a witness from a hearing until that witness gives evidence.
+
+(6) When publishing a decision in terms of rule 27(4) (notice of decisions and reasons) following a hearing which was held wholly or partly in private, the Upper Tribunal must, so far as practicable, ensure that the decision does not disclose information which was referred to in a part of the hearing that was held in private.
+
+#### 26. Hearings in a party's absence
+
+If a party fails to attend a hearing, the Upper Tribunal may proceed with the hearing if the Upper Tribunal—
+
+- (a) is satisfied that the party has been notified of the hearing or that reasonable steps have been taken to notify the party of the hearing; and
+- (b) considers that it is in the interests of justice to proceed with the hearing.
+
+### PART 6 — Decisions
+
+#### 27. Notice of decisions and reasons
+
+(1) Subject to the remainder of this rule, the Upper Tribunal may give a decision orally at a hearing.
+
+(2) The Upper Tribunal must provide to each party as soon as reasonably practicable after making a decision (other than a decision under Part 7 (appealing decisions of the Upper Tribunal)) which finally disposes of all issues in the proceedings or on a preliminary issue dealt with following an order under rule 8(3)(f) (dealing with an issue as a preliminary issue)—
+
+- (a) a decision notice stating the Upper Tribunal's decision; and
+- (b) notification of any rights of appeal against the decision and the time and manner in which such rights of appeal may be exercised.
+
+(3) If the Upper Tribunal does not provide written reasons for a decision, a party may request written reasons, within the period of 14 days beginning with the day of the decision.
+
+(4) The Upper Tribunal may publish any of its decisions if it considers it in the public interest so to do, with the manner of publication also at the discretion of the Upper Tribunal.
+
+#### 28. Reviews
+
+(1) The Upper Tribunal may at its own instance or at the request of a party review a decision (except an excluded decision) made by it if it considers it necessary in the interests of justice to do so and on review it may confirm, set aside, or set aside and re-decide the decision.
+
+(2) An application under paragraph (1) must be made in writing within the period of 14 days beginning with the day of the decision and must state the reasons for making the application.
+
+(3) The Upper Tribunal must send a copy of the application to any other party involved in the proceedings within the period of 10 working days beginning with the day of receipt of the application.
+
+(4) The review must be decided as soon as reasonably practicable by the Upper Tribunal, with insofar as practicable the same members that decided the case, or where this is not practicable with members selected by the President.
+
+(5) A notice of the decision on a review under paragraph (1) must as soon as reasonably practicable be sent by the Upper Tribunal to each party.
+
+(6) The 30 days referred to in regulation 3(1) of the 2016 Regulations in respect of an application to the Upper Tribunal is extended by any review period.
+
+### PART 7 — Appealing Decisions of the Upper Tribunal
+
+#### 29. Interpretation
+
+In this Part, “**appeal**” means the exercise of a right of appeal under section 48(1) of the 2014 Act.
+
+#### 30. Application for permission to appeal a decision of the Upper Tribunal
+
+(1) A party seeking permission to appeal must make a written application to the Upper Tribunal.
+
+(2) An application under paragraph (1) must—
+
+- (a) identify the decision of the Upper Tribunal to which it relates;
+- (b) identify the alleged point or points of law raised in relation to the decision; and
+- (c) state in terms of section 50(4) of the 2014 Act what important point of principle or practice would be raised by a second appeal or what other compelling reason there is that shows the appeal should be allowed to proceed.
+
+#### 31. Upper Tribunal's consideration of application for permission to appeal
+
+(1) The Upper Tribunal must consider whether to give permission to appeal in relation to the decision or part of it.
+
+(2) The Upper Tribunal must provide a record of its decision to the parties as soon as practicable.
+
+(3) If the Upper Tribunal refuses permission to appeal it must provide with the record of its decision—
+
+- (a) a statement of its reasons for such a refusal; and
+- (b) notification of the right to make an application to the Court of Session for permission to appeal and the time within which, and the method by which, such application must be made.
+
+(4) The Upper Tribunal may give permission to appeal on limited grounds, but must comply with paragraph (3) in relation to any grounds on which it has refused permission.
+
+#### 31A. Reference of compatibility question to the Court of Session[^key-ea1a5b97fa956005b7fc659ee8c30c2b]
+
+(1) When the Upper Tribunal refers a compatibility question which arises in proceedings before it to the Inner House of the Court of Session for determination, it must intimate this in writing to all parties and the relevant authorities.
+
+(2) The intimation in writing to relevant authorities under paragraph (1) who have not previously joined proceedings as a party must include—
+
+- (a) the details of the matters raised in the proceedings,
+- (b) the details of the compatibility question that has arisen,
+- (c) if known at the time of intimation, the position of each party to proceedings in respect of the compatibility question.
+
+(3) The Upper Tribunal must provide each relevant authority under paragraph (1) which has not previously joined proceedings as a party with all documents relevant to the consideration of the compatibility question.
+
+(4) Where a relevant authority does not take part as a party to proceedings before the Upper Tribunal, that relevant authority is not precluded from taking part as a party in any subsequent reference to the Inner House of the Court of Session.
+
+### PART 8 — Legal Aid
+
+#### 32. Legal aid
+
+If a party is granted legal aid by the Scottish Legal Aid Board in respect of a case before the Upper Tribunal that party must as soon as practicable send a copy of the legal aid certificate to the Upper Tribunal.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make the Upper Tribunal for Scotland Social Security Rules of Procedure 2018 regulating the practice and procedure to be followed in the Upper Tribunal for Scotland when dealing with proceedings relating to Scottish Ministers' exercise of functions under the Social Security (Scotland) Act 2018 or regulations made under it which confer a right of appeal. All other proceedings are subject to the Upper Tribunal for Scotland Rules of Procedure 2016, unless specific rules of procedure are made which apply to the proceedings.
+
+These Rules will apply until such time as the powers of the Scottish Civil Justice Council and the Court of Session to make Tribunal Rules (under paragraph 13(2) and (5) of schedule 9 of the Tribunals (Scotland) Act 2014) come into force and are exercised.
+
+The Upper Tribunal for Scotland, set up by section 1 of the Tribunals (Scotland) Act 2014, hears appeals from the First-tier Tribunal for Scotland, which is divided into chambers based on the subject-matter of the cases before it. In terms of section 46(3) of that Act, an appeal to the Upper Tribunal requires first the permission of the First-tier Tribunal, or, if that permission is refused, the permission of the Upper Tribunal. An appeal may be on a point of law only in terms of section 46(2) of that Act.
+
+A Partial Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government Social Security Directorate.
+
+## Annotations
+
+[^c23386611]: Marginal citation: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
+
+[^c23386621]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
+
+[^c23386631]: Marginal citation: The Rules are contained in schedule 1 of [S.S.I. 2016/232](https://www.legislation.gov.uk/ssi/2016/232). The Rules were amended by [S.S.I. 2016/333](https://www.legislation.gov.uk/ssi/2016/333).
+
+[^key-ab50e1a84235fbadab249cb399d4969e]: Textual amendment: Reg. 3(a)-(c) substituted for words in reg. 3 (24.12.2020) by The First-tier [Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/476/regulation/3/2)
+
+[^c23386641]: Marginal citation: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
+
+[^c23386651]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
+
+[^key-877546bcddd49001d97fb4e0ebd97582]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/a/i)
+
+[^c23386661]: Marginal citation: [S.S.I. 2016/231](https://www.legislation.gov.uk/ssi/2016/231).
+
+[^key-6dc6341f8088999db177c29a909fe312]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/a/ii)
+
+[^c23386671]: Marginal citation: [1998 c.42](https://www.legislation.gov.uk/ukpga/1998/42).
+
+[^c23386681]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); [section 15(1)](https://www.legislation.gov.uk/ssi/2018/274/section/15/1) was amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [schedule 17](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17), [paragraph 158](https://www.legislation.gov.uk/ukpga/2003/21/paragraph/158).
+
+[^key-23b31ecb16ec81759da33d828d270547]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/a/iii)
+
+[^key-09401cf22fddae8fed6e29c5880a324b]: Textual amendment: [Sch. rule 8A](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/8A) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/b)
+
+[^c23386691]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-9146e707e689fda56fd3c1680a4c37c4]: Textual amendment: [Sch. rule 17](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/17) renumbered as sch. rule 17(1) (21.6.2022) by The First-tier [Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Rules of Procedure) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/162)](https://www.legislation.gov.uk/ssi/2022/162), [regs. 1](https://www.legislation.gov.uk/ssi/2022/162/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2022/162/regulation/3/2/a)
+
+[^key-6a0f2b6e471ee5fd044b3714bad12c6a]: Textual amendment: [Sch. rule 17(2)-(6)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/17/2) inserted (21.6.2022) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Rules of Procedure) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/162)](https://www.legislation.gov.uk/ssi/2022/162), [regs. 1](https://www.legislation.gov.uk/ssi/2022/162/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2022/162/regulation/3/2/b)
+
+[^key-ea1a5b97fa956005b7fc659ee8c30c2b]: Textual amendment: [Sch. rule 31A](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/31A) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/c)

@@ -1,0 +1,139 @@
+---
+title: Act of Sederunt (Challenges to Validity of EU Instruments (EU Exit) in the Court of Session) 2019
+id: ssi/2019/328
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-10-21'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2019/328
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2019/328/pdfs/ssi_20190328_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/328/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Challenges to Validity of EU Instruments (EU Exit) in the Court of Session) 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2019 No. 328
+
+Court Of Session
+
+Act of Sederunt (Challenges to Validity of EU Instruments (EU Exit) in the Court of Session) 2019
+
+Made
+
+21st October 2019
+
+Laid before the Scottish Parliament
+
+22nd October 2019
+
+Coming into force in accordance with paragraph 1(2)
+
+The Court of Session makes this Act of Sederunt under the powers conferred by section 103(1) of the Courts Reform (Scotland) Act 2014 [^c23910611] and all other powers enabling it to do so.
+
+## 1. Citation and commencement etc.[^key-5e14d40e87d1f41300977b18f11bf414]
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Challenges to Validity of EU Instruments (EU Exit) in the Court of Session) 2019.
+
+(2) It comes into force on exit day.
+
+(3) A certified copy is to be inserted in the Books of Sederunt.
+
+## 2. Amendment of the Rules of the Court of Session 1994[^key-6ec5480db0091418af3e231fe8715c76]
+
+(1) The Rules of the Court of Session 1994 [^c23910621] are amended in accordance with this paragraph.
+
+(2) After Chapter 107 (Counter-Terrorism and Security Act 2015 – Temporary Exclusion Orders) [^c23910631], insert—
+
+> **CHAPTER 108 — CHALLENGES TO VALIDITY OF EU INSTRUMENTS (EU EXIT)**
+>
+> **108.1. Interpretation and application**
+>
+> (1) In this Chapter—
+>
+> - “**the 2019 Regulations**” means the Challenges to Validity of EU Instruments (EU Exit) Regulations 2019 [^c23910641];
+> - “**EU instrument**” has the meaning provided in schedule 1 of the Interpretation Act 1978 [^c23910651];
+> - “**TFEU**” means the Treaty on the Functioning of the European Union including the Protocols thereto [^c23910661];
+> - “**the proceedings**” means any proceedings to which regulation 3 of the 2019 Regulations applies;
+> - “**the relevant UK authorities**” has the meaning provided by regulation 2 of the 2019 Regulations.
+>
+> (2) This Chapter applies to challenges to the validity of an EU instrument, as provided for by regulation 3 of the 2019 Regulations.
+>
+> **108.2. Declarations from the court that an EU instrument was invalid – notices**
+>
+> Where a party to the proceedings seeks a declaration from the court that an EU instrument was invalid on any of the grounds set out in the second paragraph of Article 263 TFEU as it has effect immediately before IP completion day[^key-30d0429118cbb22e8d7555bdb09ccf48], or the court is considering whether to make such a declaration at its own instance in the proceedings—
+>
+> - (a) notice in Form 108.2-A is to be given to the relevant UK authorities no later than 21 days, or such other period as the court may direct, before the date on which the declaration is to be made—
+>   - (i) by the party seeking the declaration; or
+>   - (ii) by the clerk of court,
+>
+>   as the case may be; and
+> - (b) where notice is given by the party seeking the declaration, the party must lodge a certificate of notification in process.
+>
+> **108.3.**
+>
+> Where any of the relevant UK authorities wish to be joined as a party to the proceedings they must serve notice in Form 108.3-A to that effect on the Deputy Principal Clerk of Session and must serve a copy of the notice on all other parties in the proceedings.
+
+.
+
+(3) In the appendix (forms), after Form 106.12 (form of certificate of sending of documents to chief constable) [^c23910671], insert Forms 108.2-A and 108.3-A set out in the schedule of this Act of Sederunt.
+
+CJM SUTHERLAND
+
+Lord President
+
+I.P.D.
+
+Edinburgh
+
+## SCHEDULE[^key-636886757bae47cb13511b21fb332bd9]
+
+Paragraph 2(3)
+
+[^key-636886757bae47cb13511b21fb332bd9]
+
+[image: see source](https://www.legislation.gov.uk/ssi/2019/328/images/ssi_20190328_en_sld_001)
+
+[^key-636886757bae47cb13511b21fb332bd9]
+
+[image: see source](https://www.legislation.gov.uk/ssi/2019/328/images/ssi_20190328_en_sld_002)
+
+*(This note is not part of the Act of Sederunt)*
+
+This Act of Sederunt amends the Rules of the Court of Session 1994 by inserting new Chapter 108 which provides court rules, and accompanying forms, which are required in consequence of the Challenges to Validity of EU Instruments (EU Exit) Regulations 2019 (S.I. 2019/673).
+
+## Annotations
+
+[^c23910611]: Marginal citation: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
+
+[^key-5e14d40e87d1f41300977b18f11bf414]: Commencement: Para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see para. 1(2)
+
+[^key-6ec5480db0091418af3e231fe8715c76]: Commencement: Para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see para. 1(2)
+
+[^c23910621]: Marginal citation: The Rules of the Court of Session 1994 are in schedule 2 of the [Act of Sederunt (Rules of the Court of Session 1994) 1994 (S.I. 1994/1443)](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2019/293](https://www.legislation.gov.uk/ssi/2019/293).
+
+[^c23910631]: Marginal citation: Chapter 107 was inserted by [S.S.I. 2017/26](https://www.legislation.gov.uk/ssi/2017/26).
+
+[^c23910641]: Marginal citation: [S.I. 2019/673](https://www.legislation.gov.uk/uksi/2019/673).
+
+[^c23910651]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30). Schedule 1 of the Interpretation Act 1978 defines words and expressions, as amended by, and prospectively relevantly amended by, the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16), [schedule 8](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8), [paragraph 22](https://www.legislation.gov.uk/ukpga/2018/16/paragraph/22).
+
+[^c23910661]: Marginal citation: OJ C 202, 7.6.2016, p.1-388.
+
+[^key-30d0429118cbb22e8d7555bdb09ccf48]: Textual amendment: Words in para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [Act of Sederunt (Challenges to Validity of EU Instruments (EU Exit)) (Amendment) 2020 (S.S.I. 2020/472)](https://www.legislation.gov.uk/ssi/2020/472), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/472/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2020/472/paragraph/2/2)
+
+[^c23910671]: Marginal citation: Form 106.12 was inserted by [S.S.I. 2014/371](https://www.legislation.gov.uk/ssi/2014/371).
+
+[^key-636886757bae47cb13511b21fb332bd9]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2019/328/schedule) in force at 31.12.2020 on IP completion day (in accordance with 2020 c.1, Sch. 5 para. 1(1)), see [para. 1(2)](https://www.legislation.gov.uk/ssi/2019/328/paragraph/1/2)

@@ -1,0 +1,38 @@
+---
+title: Freedom of Information (Scotland) Act 2002, section 1
+act: Freedom of Information (Scotland) Act 2002
+section: '1'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2002/13/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Freedom of Information (Scotland) Act 2002, section 1
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/asp/2002/13
+>
+> Extent: Scotland.
+
+## 1. General entitlement
+
+*Extent: S*
+
+(1) A person who requests information from a Scottish public authority which holds it is entitled to be given it by the authority.
+
+(2) The person who makes such a request is in this Part and in Parts 2 and 7 referred to as the “**applicant**”.
+
+(3) If the authority—
+
+- (a) requires further information in order to identify and locate the requested information; and
+- (b) has told the applicant so (specifying what the requirement for further information is),
+
+then, provided that the requirement is reasonable, the authority is not obliged to give the requested information until it has the further information.
+
+(4) The information to be given by the authority is that held by it at the time the request is received, except that, subject to subsection (5), any amendment or deletion which would have been made, regardless of the receipt of the request, between that time and the time it gives the information may be made before the information is given.
+
+(5) The requested information is not, by virtue of subsection (4), to be destroyed before it can be given (unless the circumstances are such that it is not reasonably practicable to prevent such destruction from occurring).
+
+(6) This section is subject to sections 2, 9, 12 and 14.

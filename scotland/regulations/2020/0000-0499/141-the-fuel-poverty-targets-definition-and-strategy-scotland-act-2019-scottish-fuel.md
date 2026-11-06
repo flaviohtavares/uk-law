@@ -1,0 +1,221 @@
+---
+title: The Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Scottish Fuel Poverty Advisory Panel and Consequential Amendments) Regulations 2020
+id: ssi/2020/141
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-05-05'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2020/141
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/141/pdfs/ssipn_20200141_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/141/pdfs/ssi_20200141_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/141/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Scottish Fuel Poverty Advisory Panel and Consequential Amendments) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 141
+
+Energy
+
+Housing
+
+The Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Scottish Fuel Poverty Advisory Panel and Consequential Amendments) Regulations 2020
+
+Made
+
+5th May 2020
+
+Coming into force in accordance with regulation 1
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 14(7)(a) and section 17(1)(b) of the Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 17(1)(a) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Scottish Fuel Poverty Advisory Panel and Consequential Amendments) Regulations 2020 and come into force on the day after the day on which they are made.
+
+(2) In these Regulations—
+
+- “the Act” means the Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019,
+- “member” means an individual who is appointed as a member of the Panel in accordance with regulation 2, and
+- “the Panel” means the Scottish Fuel Poverty Advisory Panel.
+
+(3) In regulation 2(3), “fuel poverty” means the condition when a person has too little money to be able to keep their home warm, and does not have the meaning specified in section 3(1) of the Act.
+
+## 2. Membership
+
+(1) The Panel is to consist of the following members—
+
+- (a) an individual appointed by the Scottish Ministers to chair the Panel, and
+- (b) no fewer than 3 nor more than 5 other members appointed by the Scottish Ministers.
+
+(2) Each member is—
+
+- (a) to be appointed for a period of no longer than 4 years,
+- (b) eligible to be re-appointed for one further period of no longer than 4 years (which period may commence immediately after the expiry of the initial period of appointment or on a later date, as may be determined by the Scottish Ministers).
+
+(3) The Scottish Ministers, in appointing members, must have regard to the desirability of securing that the Panel—
+
+- (a) taken as a whole, has experience in and knowledge of—
+  - (i) the formulation, implementation and evaluation of policy relating to fuel poverty,
+  - (ii) academic research in connection with fuel poverty,
+  - (iii) working with persons who experience fuel poverty, and
+- (b) includes at least one member who has experienced fuel poverty.
+
+(4) A member holds and vacates office in accordance with the terms and conditions of appointment by the Scottish Ministers, but may resign office as a member by giving notice in writing to the Scottish Ministers.
+
+## 3. Disqualification
+
+An individual is disqualified from appointment, and from holding office, as a member if the individual—
+
+- (a) is—
+  - (i) a member of the Scottish Parliament,
+  - (ii) a member of the House of Commons,
+  - (iii) a member of the House of Lords,
+  - (iv) a member of the National Assembly for Wales,
+  - (v) a member of the Northern Ireland Assembly,
+  - (vi) a member of the European Parliament,
+  - (vii) a member of any local authority,
+  - (viii) the holder of any other “relevant elective office” within the meaning of paragraph 1(8) of schedule 7 of the Political Parties, Elections and Referendums Act 2000[^f00002],
+  - (ix) a member of the Scottish Government,
+  - (x) a Minister of the Crown,
+  - (xi) an office-holder of the Crown in right of Her Majesty’s Government in the United Kingdom,
+  - (xii) an office-holder in the Scottish Administration, or
+  - (xiii) a civil servant,
+- (b) is or has been disqualified from being a company director under the Company Directors Disqualification Act 1986[^f00003],
+- (c) is or has been disqualified from being a charity trustee under the Charities and Trustee Investment (Scotland) Act 2005[^f00004], or
+- (d) is or has been disqualified under any disqualification provision analogous to either of those mentioned in sub-paragraphs (b) or (c), anywhere in the world.
+
+## 4. Removal from office
+
+The Scottish Ministers may remove a member from office by giving the member notice in writing, if the Scottish Ministers are satisfied that the member is—
+
+- (a) unable to perform the member’s functions,
+- (b) absent from three consecutive meetings of the Panel, or
+- (c) otherwise unfit to continue to be a member.
+
+## 5. Remuneration and expenses
+
+(1) The members are entitled to such remuneration as the Scottish Ministers may determine.
+
+(2) The Scottish Ministers are to pay or reimburse any expenses which have been reasonably incurred by the members.
+
+## 6. Independence and exclusion of Crown status
+
+(1) In performing its functions, the Panel is not subject to the direction or control of any member of the Scottish Government.
+
+(2) Paragraph (1) is subject to any contrary provision in this or any other enactment.
+
+(3) The Panel is not to be regarded as the servant or agent of the Crown, or as enjoying any status, privilege or immunity of the Crown.
+
+## 7. Preparation and publication of reports
+
+(1) In relation to the obligation of the Panel to make each report in accordance with section 14(4) of the Act, the Panel must give its report to the Scottish Ministers in writing as soon as reasonably practicable and no later than 6 months after the publication under section 11 of the Act of each periodic report that the Panel is reporting on.
+
+(2) Each report must be published by the Scottish Ministers within one month from the date on which the report is given to the Scottish Ministers in accordance with paragraph (1).
+
+## 8. Consequential amendments
+
+The amendments specified in the schedule have effect.
+
+AILEEN CAMPBELL
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+5th May 2020
+
+## SCHEDULE — Consequential Amendments
+
+Regulation 8
+
+### 1. Ethical Standards in Public Life etc. (Scotland) Act 2000
+
+In the Ethical Standards in Public Life etc. (Scotland) Act 2000[^f00005], in schedule 3 (devolved public bodies), after the entry relating to the Scottish Fiscal Commission[^f00006] insert—
+
+> - The Scottish Fuel Poverty Advisory Panel
+
+.
+
+### 2. Freedom of Information (Scotland) Act 2002
+
+In the Freedom of Information (Scotland) Act 2002[^f00007], in Part 7 of schedule 1 (others), after paragraph 85ZA[^f00008] insert—
+
+> **85ZB.** The Scottish Fuel Poverty Advisory Panel.
+
+.
+
+### 3. Public Appointments and Public Bodies etc. (Scotland) Act 2003
+
+In the Public Appointments and Public Bodies etc. (Scotland) Act 2003[^f00009], in schedule 2 (the specified authorities), under the heading “Advisory bodies”, after the entry relating to the Public Transport Users’ Committee for Scotland[^f00010] insert—
+
+> - Scottish Fuel Poverty Advisory Panel
+
+.
+
+### 4. Public Services Reform (Scotland) Act 2010
+
+In the Public Services Reform (Scotland) Act 2010[^f00011], in schedule 5 (improvement of public functions: listed bodies), under the heading “Scottish public authorities with mixed functions or no reserved functions”, after the entry relating to the Scottish Fire and Rescue Service[^f00012] insert—
+
+> - Scottish Fuel Poverty Advisory Panel
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in relation to the composition of the Scottish Fuel Poverty Advisory Panel (“the Panel”) and further provisions about the Panel, under section 14(7) and (8) and section 17(1)(b) of the Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (“the Act”).
+
+Regulation 2 provides for the appointment of the chair and other members of the Panel by the Scottish Ministers, and a minimum and maximum number of members. The regulation also provides for the period of appointment and possible re-appointment of members, and the matters which the Scottish Ministers must have regard to in making the appointments.
+
+Regulation 3 sets out the circumstances in which an individual is disqualified from appointment, and from holding office, as a member of the Panel.
+
+Regulation 4 provides for the circumstances in which the Scottish Ministers may remove a member of the Panel from office.
+
+Regulation 5 provides for the entitlement of members of the Panel to remuneration and reimbursement of expenses, and that the Scottish Ministers pay such remuneration and expenses.
+
+Regulation 6 provides for the independence of the Panel from the direction or control of the Scottish Ministers. It also provides that the Panel does not have Crown status.
+
+Regulation 7 contains further provisions in connection with the requirement of the Panel to make periodic reports in accordance with section 14(4) of the Act. The regulation sets out how the Panel must give the reports to the Scottish Ministers and makes provision about publication of the reports.
+
+Regulation 8 introduces the schedule. The schedule contains some consequential amendments of four Acts of the Scottish Parliament, to insert reference to the Panel within the relevant schedules of those Acts.
+
+## Annotations
+
+[^f00001]: Footnote: [2019 asp 10](https://www.legislation.gov.uk/asp/2019/10).
+
+[^f00002]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41). Paragraph 1(8) of schedule 7 has been amended by [S.I. 2004/366](https://www.legislation.gov.uk/uksi/2004/366) and [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917).
+
+[^f00003]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46).
+
+[^f00004]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
+
+[^f00005]: Footnote: [2000 asp 7](https://www.legislation.gov.uk/asp/2000/7).
+
+[^f00006]: Footnote: The entry relating to the Scottish Fiscal Commission was inserted by section 29(1) of the Scottish Fiscal Commission Act [2016 (asp 17)](https://www.legislation.gov.uk/asp/2016/17).
+
+[^f00007]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
+
+[^f00008]: Footnote: Paragraph 85ZA relating to the Scottish Fire and Rescue Service was inserted by paragraph 63(b) of schedule 7 of the Police and Fire Reform (Scotland) Act [2012 (asp 6)](https://www.legislation.gov.uk/asp/2012/6).
+
+[^f00009]: Footnote: [2003 asp 4](https://www.legislation.gov.uk/asp/2003/4).
+
+[^f00010]: Footnote: The entry relating to the Public Transport Users’ Committee for Scotland was inserted by [S.S.I. 2006/363](https://www.legislation.gov.uk/ssi/2006/363).
+
+[^f00011]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
+
+[^f00012]: Footnote: The entry relating to the Scottish Fire and Rescue Service was inserted by paragraph 72(2) of schedule 7 of the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8).

@@ -1,0 +1,658 @@
+---
+title: The Landfill Allowances Scheme (Scotland) Regulations 2005
+id: ssi/2005/157
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-03-16'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2005/157
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2005/157/pdfs/ssi_20050157_en.pdf
+- http://www.legislation.gov.uk/ssi/2005/157/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Landfill Allowances Scheme (Scotland) Regulations 2005
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2005 No. 157
+
+ENVIRONMENTAL PROTECTION
+
+The Landfill Allowances Scheme (Scotland) Regulations 2005
+
+Made
+
+16th March 2005
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Scottish Ministers, in exercise of the powers conferred on them by sections 6, 7, 10 to 13, 15, 16, 26 and 36 of the Waste and Emissions Trading Act 2003[^f00001] (“the Act”) and all other powers enabling them in that behalf, having consulted in accordance with section 27(2) of the Act such bodies or persons appearing to them to be representative of the interests of–
+
+- a waste disposal authorities in Scotland;
+- b persons concerned in the operation of landfills in Scotland;
+- c any other affected persons;
+
+as they consider appropriate, hereby make the following Regulations, a draft of which has in accordance with section 28(4) of the Act (since these Regulations include the first regulations to be made by the Scottish Ministers under sections 6, 7 and 11 of the Act), been laid before, and approved by a resolution of, the Scottish Parliament:
+
+## PART 1 — General
+
+### 1. Citation, commencement and extent[^key-43892009e9ddc2419dd087056731be74]
+
+(1) These Regulations may be cited as the Landfill Allowances Scheme (Scotland) Regulations 2005.
+
+(2) Except as specified in paragraph (3) below, these Regulations shall come into force on 1st April 2005.
+
+(3) Regulation 8 shall come into force on 1st April 2008.
+
+(4) These Regulations extend to Scotland only.
+
+### 2. Interpretation[^key-6a947ff5eb656a875bf344dcd66a2620]
+
+(1) In these Regulations–
+
+- “the Act” means the Waste and Emissions Trading Act 2003;
+- “collected municipal waste” means municipal waste which is recovered or disposed of in pursuance of arrangements made by a waste disposal authority or a waste collection authority;
+- “[^key-4945d66ff88aaa8659b29ba332961797]**disposal**” has the meaning given by regulation 2(1) of the Waste Management Licensing (Scotland) Regulations 2011;
+- “electronic communication” has the same meaning as in section 15(1) of the Electronic Communications Act 2000[^f00003];
+- “European Waste Catalogue” has the same meaning as in regulation 1(4) of the Special Waste Regulations 1996[^key-8d5323d9a64762cc26f31bbbd12bc28b][^M_F_aa51cf59-9b1e-430e-db69-48873f1a5e55],
+- “landfill allowance account” means the landfill allowance account contained in the landfill allowances register under regulation 16(2);
+- “Landfill Directive” means Council[^key-b113e515a23874f7ad62b306d3f8f90b] [Directive 99/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste[^M_F_4e5fa872-1d93-4ecc-d780-b6ce3db82fc9] as last amended by Directive (EU) 2018/850 of the European Parliament and of the Council[^M_F_44753f46-8050-4e9d-f4ad-e8894bd7d008],
+- “operator of a landfill” means the person who has control over the operation of the landfill;
+- “reconciliation period” means the period of 6 months following the end of a scheme year;
+- “[^key-947ab94f22775ffd446e5aa18575f913]**recovery**” has the same meaning as in Article 3 of, and Annex II to, Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste and repealing certain Directives, as amended by Commission Regulation (EU) 1357/2014 replacing Annex III to Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
+- “relevant authority” means–
+  - (a) the monitoring authority;
+  - (b) the Scottish Ministers;
+- “scheme year” means a year beginning with 1st April in any of 2005 to 2019[^f00007];
+- “treatment” has the same meaning as in section 22(4) of the Act;
+- “vintage” means in respect of landfill allowances allocated for–
+  - (a) different scheme years, the chronological order in which those allowances were allocated;
+  - (b) for the same scheme year, the order in which those landfill allowances were allocated for that year; and
+- “waste facility” means a facility for the disposal or recovery of waste other than a landfill;.
+
+(2) In these Regulations references to waste being sent by a waste disposal authority to a landfill or a waste facility are references to waste being sent to such a landfill or facility in pursuance of arrangements made by the authority.
+
+(3) In these Regulations a landfill allowance is available to a waste disposal authority for a scheme year if–
+
+- (a) for the purposes of regulation 7 it has–
+  - (i) been allocated to the authority for that scheme year, and
+  - (ii) not subsequently been transferred or withdrawn;
+- (b) for all other purposes it has been–
+  - (i) allocated to the authority for that scheme year, or
+  - (ii) banked, borrowed or transferred to that scheme year,
+
+  and not subsequently been banked, borrowed, transferred or withdrawn.
+
+### 3. Giving notices and notifications, and the submission of forms and returns[^key-59baeff665760ff0f76efd62062a3f3d]
+
+(1) Subject to paragraph (2), where under these Regulations a person is required or authorised to–
+
+- (a) submit a form, notice or return to another person; or
+- (b) notify another person of any matter;
+
+the form, notice, return or notification must be in writing.
+
+(2) Where–
+
+- (a) that other person has an address for the purposes of electronic communications–
+  - (i) any return may be submitted, or
+  - (ii) any notice or notification may be given,
+
+  by way of such communications;
+- (b) regulation 4(3)(a) applies, the form may be submitted to the monitoring authority by way of electronic communications to the address specified in the form;
+- (c) regulation 4(3)(b) applies, the form may be submitted to the monitoring authority via the website;
+- (d) a relevant authority maintains a website for the purpose of enabling returns to be submitted to the monitoring authority, any return which is enabled to be so submitted may be submitted to the monitoring authority via the website.
+
+### 4. Electronic registers and forms[^key-37e5c837285566db0b998b2c79b5e779]
+
+(1) The register established or maintained under regulation 16 may be in electronic form.
+
+(2) Where that register is in electronic form, that authority may make it available for inspection by the public on a website maintained by the authority for that purpose.
+
+(3) Any form provided by the monitoring authority under these Regulations may be provided–
+
+- (a) in an electronic form, or
+- (b) for completion and submission to the monitoring authority on a website maintained by a relevant authority for that purpose.
+
+## PART 2 — Allocation and the banking, borrowing and transfer of landfill allowances
+
+### 5. Allocation of allowances[^key-4c4a118558bd4ef0a560c0ffab101787]
+
+As soon as reasonably practicable after the Scottish Ministers have complied with section 4(4) of the Act, the monitoring authority must assign all landfill allowances allocated to a waste disposal authority under that section–
+
+- (a) to the waste disposal authority’s landfill allowance account;
+- (b) a unique reference number (which may include any letter) from which the following information may be ascertained–
+  - (i) the waste disposal authority to which the allowance is allocated,
+  - (ii) the year for which the allowance is allocated,
+  - (iii) the vintage of the allowance for that year.
+
+### 6. Banking landfill allowances[^key-525c27fb9144778679fd1ed244ed4f72]
+
+(1) All landfill allowances which–
+
+- (a) are available to a waste disposal authority for a scheme year, and
+- (b) have not been utilised for that scheme year after the monitoring authority complies with regulation 15,
+
+must be banked for use in the following scheme year.
+
+(2) Paragraph (1) does not apply–
+
+- (a) in a target year,
+- (b) where the following scheme year is a target year.
+
+### 7. Borrowing of landfill allowances[^key-7dba20fe8e8ab7c18fb7321e323891cc]
+
+(1) Subject to paragraphs (2) and (3), a waste disposal authority may borrow for use in a scheme year (other than the scheme years mentioned in paragraph (3)) up to 5% of the landfill allowances available to it for the following scheme year (rounded down to the nearest whole allowance).
+
+(2) Paragraph (1) does not apply–
+
+- (a) in a target year,
+- (b) where the following scheme year is a target year;
+
+(3) In respect of a scheme year which begins on 1st April 2005, 1st April 2006 or 1st April 2007, a waste disposal authority may borrow for use in the relevant scheme year up to 10% of the landfill allowances available to it for the following scheme year (rounded down to the nearest whole allowance).
+
+(4) Where a waste disposal authority intends to borrow a landfill allowance it must submit a borrowing request to the monitoring authority before the end of the reconciliation period for the scheme year.
+
+(5) A borrowing request must–
+
+- (a) be made on the form provided by the monitoring authority;
+- (b) specify–
+  - (i) the name of the waste disposal authority,
+  - (ii) the number of landfill allowances which it intends to borrow.
+
+(6) The monitoring authority is not required to consider a borrowing request unless it is made in accordance with paragraph (5).
+
+(7) If the conditions in paragraph (9) are satisfied the monitoring authority must–
+
+- (a) remove the number of landfill allowances specified in the borrowing request from the part of the waste disposal authority’s landfill allowance account relating to the following scheme year;
+- (b) include those allowances in the part of the account relating to the scheme year;
+- (c) notify the waste disposal authority which made the request–
+  - (i) that its request has been accepted,
+  - (ii) of the amendments that have been made to its landfill allowance account.
+
+(8) If the conditions in paragraph (9) are not satisfied the monitoring authority must notify the waste disposal authority–
+
+- (a) that its request has not been accepted,
+- (b) of the reasons why.
+
+(9) The conditions referred to in paragraphs (7) and (8) are that–
+
+- (a) the borrowing request complies with paragraphs (1), (2) or, as the case may be, (3);
+- (b) the number of landfill allowances specified in the request are available to the waste disposal authority for the following scheme year;
+- (c) accepting the borrowing request would not cause the waste disposal authority to exceed the limit on borrowing under paragraph (1) or, as the case may be, paragraph (3); and
+- (d) the authority is not suspended from borrowing landfill allowances under regulation 9.
+
+### 8. Transfer of landfill allowances[^key-6a0d46d7aa03eccc4bebd6e41d84739a]
+
+(1) Subject to paragraph (2) a waste disposal authority may transfer to any other waste disposal authority, whether by way of trade or otherwise, landfill allowances which–
+
+- (a) are available to the waste disposal authority for a scheme year, and
+- (b) have not been utilised.
+
+(2) A waste disposal authority must not transfer an allowance from any scheme year for which the allowance is available to the authority unless the transfer is to that same scheme year.
+
+(3) Where a waste disposal authority (“the transferor”) agrees to transfer a landfill allowance to another waste disposal authority (“the transferee”) the transferor must submit a transfer request to the monitoring authority before the end of the reconciliation period for the scheme year in which the agreement is made.
+
+(4) A transfer request must–
+
+- (a) be made on the form provided by the monitoring authority;
+- (b) specify–
+  - (i) the names of the transferor and transferee,
+  - (ii) the number of landfill allowances to be transferred,
+  - (iii) for each landfill allowance the scheme year for which the allowance is available to the transferor,
+  - (iv) the date the transfer was agreed,
+  - (v) the price (if any) to be paid.
+
+(5) The monitoring authority is not required to consider a transfer request unless it is made in accordance with paragraph (4).
+
+(6) If the conditions in paragraph (8) are satisfied, the monitoring authority must–
+
+- (a) delete the landfill allowances from the transferor’s landfill allowance account;
+- (b) add each landfill allowance to the transferee’s landfill allowance account for the scheme year for which, immediately before the transfer, it was available to the transferor;
+- (c) notify the transferor and transferee–
+  - (i) that the request has been accepted,
+  - (ii) of the amendments that have been made to their landfill allowance accounts.
+
+(7) If the conditions in paragraph (8) are not satisfied the monitoring authority must notify the transferor and transferee–
+
+- (a) that the request has not been accepted,
+- (b) of the reasons why.
+
+(8) The conditions referred to in paragraphs (6) and (7) are that–
+
+- (a) the agreement complies with paragraphs (1) and (2),
+- (b) all landfill allowances are available to the transferor for the scheme years specified pursuant to paragraph (4)(b)(iii), and
+- (c) neither the transferor nor the transferee is suspended from transferring allowances under regulation 9.
+
+### 9. Suspension of banking, borrowing and transferring of landfill allowances[^key-171fb103f0bd81af81793d8c689d61b3]
+
+(1) The Scottish Ministers may suspend any or all waste disposal authorities from banking, borrowing and transferring landfill allowances if they consider–
+
+- (a) in a scheme year occurring between target years that there is a risk that the total amount of biodegradable municipal waste sent to landfills by waste disposal authorities in Scotland will exceed the maximum amount for Scotland which is specified under (or pursuant to section 3(1) of the Act is treated as having been specified under) section 2(1)(a) of the Act, or
+- (b) it necessary to exercise their power under section 5 of the Act (alteration of allocations under section 4).
+
+(2) The Scottish Ministers may suspend a waste disposal authority from banking, borrowing and transferring landfill allowances if they have reason to believe that–
+
+- (a) the waste disposal authority has failed to comply with–
+  - (i) its duty under section 9 of the Act (duty not to exceed allowances), or
+  - (ii) any requirement under these Regulations; or
+- (b) an unauthorised person may attempt, or has attempted, to submit a borrowing or transfer request to the monitoring authority on behalf of the waste disposal authority.
+
+(3) If the Scottish Ministers suspend a waste disposal authority from banking, borrowing and transferring landfill allowances under paragraphs (1) or (2), at the same time they must notify the monitoring authority and the waste disposal authority of–
+
+- (a) that fact,
+- (b) the reasons for the suspension.
+
+(4) The Scottish Ministers may lift a suspension if in any case falling within–
+
+- (a) paragraph (1)(a), they are satisfied that there is no significant continuing risk that the total amount of biodegradable municipal waste sent to landfills by waste disposal authorities in Scotland will exceed the maximum amount mentioned in that paragraph;
+- (b) paragraph (1)(b)–
+  - (i) the allocation of landfill allowances has been altered, or
+  - (ii) they no longer consider that an alteration is necessary;
+- (c) paragraph (2)(a), they are satisfied that the failure to comply is unlikely to recur;
+- (d) paragraph (2)(b), they are satisfied that there is no further risk of the unauthorised submission of a borrowing or transfer request.
+
+(5) If the Scottish Ministers lift a suspension under paragraph(4), at the same time they must notify the monitoring authority and any waste disposal authority which, as a consequence, is no longer suspended from banking borrowing and transferring landfill allowances of–
+
+- (a) that fact,
+- (b) the reasons for lifting the suspension.
+
+(6) The effect of suspending a waste disposal authority from banking, borrowing and transferring landfill allowances is that no landfill allowances may be–
+
+- (a) transferred to or from the waste disposal authority’s landfill allowance account under regulation 8,
+- (b) banked or borrowed within that account under regulation 6 or 7.
+
+(7) In paragraph (2)(b) “unauthorised person” means a person who is not authorised by a waste disposal authority to submit borrowing or transfer requests on the authority’s behalf.
+
+## PART 3 — Monitoring
+
+### 10. Monitoring authority[^key-590fa70b879cce66c9f316b0633977cd]
+
+SEPA is the monitoring authority for Scotland.
+
+### 11. Obligation for waste disposal authorities to keep records and make returns[^key-1cbc3607e10923e001b12421b3252971]
+
+(1) A waste disposal authority must keep records containing the following information for each scheme year–
+
+- (a) the amount by weight of collected municipal waste;
+- (b) the amount by weight of municipal waste sent to landfills by the authority; and
+- (c) the amount by weight of municipal waste sent to waste facilities by the authority.
+
+(2) In relation to municipal waste mentioned in paragraph (1)(b) and (c) the records must contain details of–
+
+- (a) the total amount of waste by weight sent to each landfill or waste facility,
+- (b) the description of, and the appropriate code in the European Waste Catalogue for, the waste referred to in sub-paragraph (a).
+
+(3) The records under paragraph (1) must be kept for a period of 3 years beginning on the day after the day on which the reconciliation period for the scheme year ends.
+
+(4) A waste disposal authority must submit to the monitoring authority a return containing the information in paragraphs (1) and (2) for each 3 month period in a scheme year ending on 31 March, 30 June, 30 September and 31 December within 3 months of the end of that period in such form and to such extent as specified by the monitoring authority.
+
+(5) The monitoring authority, or a person authorised in writing by the monitoring authority, may by notice require a waste disposal authority to–
+
+- (a) produce for inspection or for removal for inspection elsewhere, records it is required to keep under paragraph (1);
+- (b) supply the monitoring authority with information about, or evidence as to, matters connected with the sending of biodegradable municipal waste to landfills;
+
+and to do so in such form, at such reasonable place and within such reasonable time as is specified in the notice.
+
+(6) The monitoring authority, or a person authorised in writing by the monitoring authority, may make copies of any records produced or information or evidence supplied under paragraph (5).
+
+### 12. Obligation for operators of landfills to keep records and make returns[^key-498e7904531edc498a38861627aea12e]
+
+(1) An operator of a landfill must, if required to do so by the monitoring authority, keep records containing the following information for each scheme year–
+
+- (a) the amount by weight of each load of municipal waste accepted at the landfill;
+- (b) the description of, and the appropriate code in the European Waste Catalogue for, the waste;
+- (c) the area in which the municipal waste originated and the waste disposal authority for that area;
+- (d) any treatment applied to the waste at the landfill before it was landfilled.
+
+(2) The records under paragraph (1) must be kept for a period of 3 years beginning on the day after the day on which the reconciliation period for the scheme year ends.
+
+(3) An operator of a landfill must, if requested to do so by the monitoring authority, submit to that authority a return in such form as is specified in the request containing the information in paragraph (1) for each scheme year within 3 months of the end of that scheme year.
+
+(4) The monitoring authority, or a person authorised in writing by the monitoring authority, may by notice require an operator of a landfill to produce for inspection or for removal for inspection elsewhere, records the operator is required to keep under paragraph (1), in such form, at such reasonable place and within such reasonable time as is specified in the notice.
+
+(5) The monitoring authority, or a person authorised in writing by the monitoring authority, may make copies of records produced under paragraph (4).
+
+(6) A person authorised in writing by the monitoring authority may enter at any reasonable time (and, if need be, by reasonable force) premises other than premises used as a dwelling, occupied by a person concerned in the operation of a landfill for the purposes of–
+
+- (a) finding records which are required to be kept under paragraph (1),
+- (b) inspecting them or removing them for inspection elsewhere,
+- (c) copying them.
+
+(7) A person entering any premises under paragraph (6), may be accompanied by–
+
+- (a) any other person duly authorised by the monitoring authority;
+- (b) if the authorised person has reasonable cause to apprehend any serious obstruction in gaining entry to the premises, a constable;
+- (c) any equipment or materials required for any purpose for which the power of entry is being exercised.
+
+(8) The power of the monitoring authority, or a person authorised by the monitoring authority, under paragraphs (5) to (7) includes power to require any person to afford to them such reasonable facilities and assistance–
+
+- (a) within the person’s control, or
+- (b) in relation to which the person has responsibilities,
+
+as are necessary to enable the monitoring authority or an authorised person to exercise the power.
+
+### 13. Determining the amount of biodegradable municipal waste in amounts of waste[^key-a415019750cabf8ab7dfb351a062eb36]
+
+(1) The provisions in this regulation apply for the purposes of–
+
+- (a) determining whether a waste disposal authority is liable to a penalty under section 9 of the Act;
+- (b) the provisions in–
+  - (i) section 10(2)(a), (b) and (d) of the Act,
+  - (ii) regulation 14.
+
+(2) For the purposes mentioned in paragraph (1) it must be assumed that–
+
+- (a) the amount of biodegradable municipal waste in an amount of collected municipal waste is 63% by weight (rounded up to the nearest tonne);
+- (b) an amount of separated municipal waste is comprised only of those types of waste which it is the purpose of the process of separation to separate;
+- (c) where an amount of separated municipal waste is comprised of a type of waste which is listed in the first column of the table in the Schedule to these Regulations, the amount of biodegradable municipal waste by weight in that type of waste is the corresponding amount in the second column of that table (rounded up to the nearest relevant amount).
+
+(3) In paragraph (2)–
+
+- “amount of collected municipal waste” means the amount of collected municipal waste for any period of time, but such period must not be less than three months;
+- “nearest relevant amount means”
+  - (a) the nearest tonne, or
+  - (b) where the amount of biodegradable municipal waste referred to in paragraph (2)(c) is–
+    - (i) less than 10 tonnes, the nearest 100 kilograms,
+    - (ii) less than 1 tonne, the nearest 10 kilograms; and
+- “separated municipal waste” means waste which has been separated from other municipal waste, whether the separation occurs before or after the waste comes into the possession or under the control of a waste disposal authority or a waste collection authority.
+
+### 14. Calculation of the amount of biodegradable municipal waste sent to landfills[^key-ae4a4ff3a04a6c8be4d74235ff7eaedb]
+
+(1) No later than 5 months after the end of a scheme year, in relation to each waste disposal authority the monitoring authority must–
+
+- (a) calculate in accordance with paragraphs (3) and (4), the amount of biodegradable municipal waste sent to landfills by the authority during the scheme year;
+- (b) prepare, in accordance with regulation 15, a draft reconciliation for the authority by reconciling the allowances available to the authority for the scheme year with the amount of biodegradable municipal waste sent to landfills by the authority as calculated under sub-paragraph (a); and
+- (c) notify the authority of–
+  - (i) the calculation under sub-paragraph (a),
+  - (ii) the draft reconciliation under sub-paragraph (b).
+
+(2) Paragraph (1) only applies where, in accordance with regulation 11(4), the waste disposal authority has submitted a return for each 3 month period in the scheme year.
+
+(3) In making the calculation referred to in paragraph (1)(a) the monitoring authority shall carry out the following steps–
+
+- (a) calculate the amount of biodegradable municipal waste by weight in the amount of collected municipal waste for the scheme year;
+- (b) if any municipal waste is sent to any waste facilities, subtract from the amount calculated under sub-paragraph (a) the amount of biodegradable municipal waste by weight which is sent to those waste facilities;
+- (c) if any of the municipal waste mentioned in sub-paragraph (b) is sent to landfills after treatment at the waste facilities mentioned in the same paragraph, add to the amount calculated under sub paragraph (b) the amount of biodegradable municipal waste by weight which is sent to those landfills.
+
+(4) The monitoring authority must round the amount calculated in accordance with paragraph (3) up to the nearest tonne.
+
+### 15. Utilisation of landfill allowances[^key-ae2f7a0dcfacc98c264e12cadbf7be63]
+
+(1) As soon as reasonably practicable after the end of the reconciliation period the monitoring authority must reconcile the allowances available to each waste disposal authority with the amount of biodegradable municipal waste sent to landfills by the waste disposal authority, as calculated under regulation 14(1)(a), by deeming allowances to have been utilised in accordance with paragraphs (2) and (3).
+
+(2) Landfill allowances available to a waste disposal authority for the scheme year must be utilised in the following order–
+
+- (a) allowances originally allocated to another waste disposal authority which have been transferred to the landfill allowance account;
+- (b) allowances banked from an earlier scheme year;
+- (c) allowances borrowed from a later scheme year;
+- (d) any other allowances.
+
+(3) Within each category in paragraph (2), allowances must be utilised according to the order of their vintage.
+
+(4) The monitoring authority must deem allowances to have been utilised until–
+
+- (a) the number of allowances deemed to have been utilised is equal to the number of allowances needed to authorise the amount of biodegradable municipal waste sent to landfills by the waste disposal authority, as calculated under regulation 14(1)(a); or
+- (b) no more allowances are available to that authority for the scheme year.
+
+## PART 4 — Landfill Allowances Register
+
+### 16. Landfill allowances register[^key-415a84f4e6287f1df93a5d9c6b4a7ca9]
+
+(1) The monitoring authority must maintain a landfill allowances register.
+
+(2) In relation to each waste disposal authority the landfill allowances register must contain–
+
+- (a) a landfill allowance account recording for each scheme year–
+  - (i) the number and reference numbers of allowances allocated to the waste disposal authority under section 4 of the Act;
+  - (ii) any alteration of allocations under section 5 of the Act;
+  - (iii) the number and reference numbers of allowances banked, borrowed, or transferred to or from the account;
+  - (iv) the total number of allowances available to the authority;
+  - (v) after the monitoring authority has complied with regulation 14(1)–
+    - (aa) the amount of biodegradable municipal waste sent to landfills by the authority,
+    - (bb) the number of landfill allowances needed to authorise the sending to landfills of that amount; and
+  - (vi) after the monitoring authority has complied with regulation 15–
+    - (aa) the number and reference number of any allowances which have been utilised,
+    - (bb) the number (if any) of landfill allowances which were available for the scheme year and were not utilised,
+    - (cc) the amount (if any) in tonnes by which biodegradable waste sent to landfills by the waste disposal authority exceeded the landfill allowances available to the authority;
+- (b) a transaction log detailing the following information in relation to the allocation, banking, borrowing, transfer, and withdrawal of landfill allowances–
+  - (i) the date that the transaction is included in the register;
+  - (ii) the reference numbers of the landfill allowances allocated, banked, borrowed, transferred or withdrawn;
+  - (iii) in the case of a transfer the waste disposal authorities involved; and
+  - (iv) in the case of any banking or borrowing, the year–
+    - (aa) for which the landfill allowances were originally allocated,
+    - (bb) to which they have been banked or borrowed.
+
+(3) At the end of the reconciliation period for a scheme year the landfill allowances register must record for that scheme year the total price (if any) paid by waste disposal authorities for the transfer of landfill allowances to that scheme year.
+
+### 17. Amendment of information on registers[^key-6db129d1552777d57ed5e3467f006842]
+
+(1) Where a relevant authority has reason to believe that any information on the landfill allowances register is incorrect, the authority may amend the register so as to correct that information.
+
+(2) Before a relevant authority amends a register under paragraph (1) it must–
+
+- (a) consult any waste disposal authority which would be affected by the amendment, and
+- (b) have regard to any representations made by a waste disposal authority.
+
+(3) Where a relevant authority amends a register under paragraph (1) it must notify any waste disposal authority which is affected by the amendment of the amendment which has been made.
+
+### 18. Availability of register[^key-3776fe5e0743f7bc3cbd81225cfd01df]
+
+A relevant authority must–
+
+- (a) make the landfill allowances register available for inspection by members of the public at its principal office free of charge at all reasonable times; and
+- (b) afford to members of the public, facilities for obtaining copies of entries in the register on payment of a reasonable charge.
+
+## PART 5 — Penalties
+
+### 19. Penalties: exceeding allowances[^key-e204fad11c9d0232196c54ebe99de26b]
+
+(1) The penalty to which a waste disposal authority is liable under section 9(2) of the Act is the excess landfill for that waste disposal authority multiplied by:–
+
+- (a) £10 in respect of the scheme year which begins on 1st April 2005;
+- (b) £25 in respect of the scheme year which begins on 1st April 2006;
+- (c) £50 in respect of the scheme year which begins on 1st April 2007; and
+- (d) £150 in respect of all subsequent scheme years.
+
+(2) For the purposes of paragraph (1) “excess landfill” means, for a scheme year, the amount in tonnes by which biodegradable municipal waste sent to landfills by the waste disposal authority, as calculated under regulation 14(1)(a), exceeds the landfill allowances available to the authority.
+
+(3) The supplementary penalty (“SP”) to which a waste disposal authority is liable under section 9(3) of the Act is the greater of–
+
+- (a) [formula: see source](https://www.legislation.gov.uk/ssi/2005/157)
+
+  where for the target year–
+
+  - F is the amount of any fine imposed on the United Kingdom in respect of the United Kingdom’s obligations under Article 5(2) of the Landfill Directive,
+  - T1 is the amount in tonnes by which biodegradable municipal waste sent to landfills by the waste disposal authority, as calculated under regulation 14(1)(a), exceeds the landfill allowances available to the authority,
+  - T2 is the amount in tonnes by which biodegradable municipal waste sent to landfills in the United Kingdom exceeds the maximum amount specified under section 1(1)(a) of the Act, and
+  - P is the amount of any penalty already paid by a waste disposal authority under regulation 21 in respect of that year; or
+- (b) £1000.
+
+(4) The supplementary penalty (“SP”) to which a waste disposal authority is liable under section 9(4) of the Act is the greater of–
+
+- (a) [formula: see source](https://www.legislation.gov.uk/ssi/2005/157)
+
+  where–
+
+  - F is, for the scheme year, the amount of any fine imposed on the United Kingdom in respect of the United Kingdom’s obligations under Article 5(2) of the Landfill Directive,
+  - T1 is, for the scheme year, the amount in tonnes by which biodegradable municipal waste sent to landfills by the waste disposal authority, as calculated under regulation 14(1)(a), exceeds the landfill allowances available to the authority,
+  - T2 is the amount in tonnes by which biodegradable municipal waste sent to landfills in the United Kingdom in the scheme year exceeds the maximum amount specified under section 1(1)(a) of the Act in respect of the last target year before the scheme year, and
+  - P is the amount of any penalty already paid by a waste disposal authority under regulation 21 in respect of that year; or
+- (b) £1000.
+
+### 20. Penalties: failure to comply with requirements imposed by regulation 11[^key-46dc4bc89d97b58545802deeb950567b]
+
+The penalty to which a waste disposal authority is liable under section 12(3) of the Act is £1000 for each requirement imposed on the authorities by regulation 11 with which the authority fails to comply.
+
+### 21. Penalties: general[^key-329f97e1c76c0bed6c59add90a82b52c]
+
+(1) Where a waste disposal authority is liable to a penalty, the Scottish Ministers may–
+
+- (a) assess the amount of the penalty, and
+- (b) notify the authority of that amount.
+
+(2) Before issuing a notification under paragraph (1)(b), the Scottish Ministers shall consult the waste disposal authority and have regard to any representations made by it.
+
+(3) The penalty is due one month after the date on which the waste disposal authority is notified by the Scottish Ministers under paragraph (1)(b) (“the due date”).
+
+(4) Where a waste disposal authority does not pay a penalty in full by the due date, the waste disposal authority is liable to pay interest on any outstanding amount of the penalty for the period which–
+
+- (a) begins on the due date; and
+- (b) ends on the day before the day on which the penalty is paid in full.
+
+(5) Interest under this regulation shall be payable at a rate of one percentage point above LIBOR on a day to day basis.
+
+(6) Where an amount has been assessed and notified to a waste disposal authority under paragraph (1)(b), the amount and any interest incurred under paragraph (4) shall be recoverable by civil diligence.
+
+(7) In paragraph (5), “LIBOR” means the sterling three month London interbank offered rate in force during the period between–
+
+- (a) the due date, and
+- (b) the date on which the penalty is paid in full.
+
+## PART 6 — Guidance
+
+### 22. Guidance to waste disposal authorities[^key-555fb07c3b32a8eddf3c721743209f9b]
+
+A waste disposal authority, in exercising functions in relation to waste that is or contains biodegradable municipal waste, must have regard to any guidance issued by the Scottish Ministers under this regulation.
+
+ROSS FINNIE
+
+A member of the Scottish Executive
+
+St Andrew’s House, Edinburgh
+
+## SCHEDULE — Amount of biodegradable municipal waste in certain types of waste[^key-b09bd715be894de208cc9e03639c40d9]
+
+Regulation 13(2)(c)
+
+[^key-b09bd715be894de208cc9e03639c40d9]In this Schedule–
+
+- “inert construction and demolition waste”–
+  - (a) means any waste from construction or demolition activities which is not capable of undergoing anaerobic or aerobic decomposition, but
+  - (b) does not include any of the other types of waste which are listed in the first column of the table in this Schedule; and
+- “putrescible waste”–
+  - (a) means any animal or vegetable waste (including wood) which is capable of undergoing anaerobic or aerobic decomposition, but
+  - (b) does not include any of the other types of waste which are listed in the first column of the table in this Schedule.
+
+    TABLE
+
+    | Type of waste | Amount of biodegradable municipal waste (expressed as a percentage by weight) |
+    | --- | --- |
+    | Card | 100% |
+    | Paper | 100% |
+    | Putrescible waste | 100% |
+    | Vegetable oil | 100% |
+    | Footwear | 50% |
+    | Furniture | 50% |
+    | Textiles | 50% |
+    | Batteries | 0% |
+    | Electrical and electronic equipment | 0% |
+    | End-of-life vehicles | 0% |
+    | Fluorescent tubes | 0% |
+    | Glass | 0% |
+    | Inert construction and demolition waste | 0% |
+    | Metal | 0% |
+    | Mineral oil | 0% |
+    | Plastic | 0% |
+    | Soil | 0% |
+
+(This note is not part of the Regulations)
+
+These Regulations are made under the Waste and Emissions Trading Act 2003 (“the Act”) for the purpose of implementing Articles 5(1) and (2) of Council Directive [99/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste (O.J. No. L 182, 16.7.1999, p.1) in Scotland. They make provision for implementing Chapter 1 of Part 1 of the Act (waste sent to landfills) including the landfill allowances scheme under that Part. The Regulations, apart from Regulation 8 (transfer of landfill allowances); (which comes into force on 1st April 2008) come into force on 1st April 2005.
+
+Part 1 sets out the general provisions. Regulation 1 concerns the citation, commencement and extent of the Regulations and regulation 2 deals with interpretation. Regulation 3 is concerned with the giving and submission of various documents and provision is made for electronic communications and the use of websites. Regulation 4 also enables the use of electronic registers (for the purpose of regulation 16) and the provision of electronic forms.
+
+Part 2 includes provisions on the allocation, banking, borrowing and transfer of landfill allowances. After the Scottish Ministers have made an allocation of landfill allowances under section 4 of the Act, regulation 5 requires the monitoring authority to assign reference numbers to those allowances and to allocate them to the landfill allowance accounts of waste disposal authorities.
+
+Regulations 6 to 8 concern the banking, borrowing and transfer of landfill allowances. Subject to certain exceptions, landfill allowances which are not utilised in one scheme year are automatically banked to the next (regulation 6). Under regulations 7 and 8, requests must be submitted to the monitoring authority before landfill allowances can be borrowed or transferred. Provided the relevant conditions in regulations 7(9) and 8(8) are satisfied these requests will be accepted. Regulation 9 enables the Scottish Ministers to suspend waste disposal authorities from banking, borrowing and transferring landfill allowances in the circumstances specified in regulation 9(1) and (2).
+
+Part 3 concerns the monitoring of the landfill allowances scheme. Regulation 10 provides that SEPA is the monitoring authority for Scotland, and consequently that authority is subject to the duties in section 10(2) of the Act. Regulation 14 requires the monitoring authority to calculate how much biodegradable municipal waste is sent to landfill by each waste disposal authority in a scheme year, and regulation 15 requires the monitoring authority to reconcile this amount with the waste disposal authority’s allowances for that year. Assumptions about the amount of biodegradable municipal waste in amounts of waste apply in relation to specified functions of the monitoring authority (regulation 13 and the Schedule to the Regulations).
+
+Regulations 11 and 12 impose obligations on waste disposal authorities and landfill operators respectively to keep specified records and make specified returns to the monitoring authority. The information in the returns is necessary to enable the monitoring authority to carry out its functions under the Act and the Regulations.
+
+Part 4 contains provisions on the landfill allowances register. The monitoring authority must maintain that register (regulation 16), and either the Scottish Ministers or the monitoring authority may, subject to certain conditions, amend incorrect information on the register (regulation 17). Under regulation 18 the register must be made available for inspection by members of the public, who may also obtain copies of any entries on payment of a reasonable charge.
+
+Part 5 contains provisions on penalties. Regulations 19 and 20 specify how penalties under sections 9 (failure to comply with duty not to exceed allowances) and 12(3) (failure to comply with requirements imposed under regulation 11 of these Regulations) of the Act are calculated. Regulation 21 makes provision for when penalties are due and for interest in the event of late payment.
+
+Part 6 concerns guidance. Regulation 22 requires waste disposal authorities to have regard to any guidance issued by the Scottish Ministers in exercising functions in relation to biodegradable municipal waste.
+
+A regulatory impact assessment in relation to these Regulations has been placed in the library of the Scottish Parliament. Copies can be obtained from the SEPA Sponsorship and Waste Unit, Scottish Executive Environment and Rural Affairs Department (SEERAD), Victoria Quay, Leith, EH6 6QQ.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33). The relevant powers in sections 6, 7, 10 to 13, 15, 16 and 26 are expressed to be exercisable by the allocating authority. In relation to Scotland, the Scottish Ministers are an allocating authority under section 24(1) of the Act.
+
+[^key-43892009e9ddc2419dd087056731be74]: Commencement: Reg. 1 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-6a947ff5eb656a875bf344dcd66a2620]: Commencement: Reg. 2 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-4945d66ff88aaa8659b29ba332961797]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 17(a)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/17/a)
+
+[^f00003]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-8d5323d9a64762cc26f31bbbd12bc28b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/436/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_aa51cf59-9b1e-430e-db69-48873f1a5e55]: Textual amendment: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), as relevantly amended by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
+
+[^key-b113e515a23874f7ad62b306d3f8f90b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (10.12.2019) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/356)](https://www.legislation.gov.uk/ssi/2019/356), [regs. 1](https://www.legislation.gov.uk/ssi/2019/356/regulation/1), [2](https://www.legislation.gov.uk/ssi/2019/356/regulation/2)
+
+[^M_F_4e5fa872-1d93-4ecc-d780-b6ce3db82fc9]: Textual amendment: OJ L 182, 16.7.1999, p.1.
+
+[^M_F_44753f46-8050-4e9d-f4ad-e8894bd7d008]: Textual amendment: OJ L 150, 14.6.2018, p.100.
+
+[^key-947ab94f22775ffd446e5aa18575f913]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (8.6.2015) by [The Waste (Meaning of Hazardous Waste and European Waste Catalogue) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/188)](https://www.legislation.gov.uk/ssi/2015/188), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/188/regulation/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2015/188/regulation/5/b)
+
+[^f00007]: Footnote: The definition of “scheme year” in section 23(1) of the Act was amended by S.I. [2004/1936](https://www.legislation.gov.uk/uksi/2004/1936), regulation 2(2).
+
+[^key-59baeff665760ff0f76efd62062a3f3d]: Commencement: Reg. 3 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-37e5c837285566db0b998b2c79b5e779]: Commencement: Reg. 4 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-4c4a118558bd4ef0a560c0ffab101787]: Commencement: Reg. 5 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-525c27fb9144778679fd1ed244ed4f72]: Commencement: Reg. 6 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-7dba20fe8e8ab7c18fb7321e323891cc]: Commencement: Reg. 7 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-6a0d46d7aa03eccc4bebd6e41d84739a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/157/regulation/8) in force at 1.4.2008, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/3)
+
+[^key-171fb103f0bd81af81793d8c689d61b3]: Commencement: Reg. 9 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-590fa70b879cce66c9f316b0633977cd]: Commencement: Reg. 10 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-1cbc3607e10923e001b12421b3252971]: Commencement: Reg. 11 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-498e7904531edc498a38861627aea12e]: Commencement: Reg. 12 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-a415019750cabf8ab7dfb351a062eb36]: Commencement: Reg. 13 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-ae4a4ff3a04a6c8be4d74235ff7eaedb]: Commencement: Reg. 14 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-ae2f7a0dcfacc98c264e12cadbf7be63]: Commencement: Reg. 15 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-415a84f4e6287f1df93a5d9c6b4a7ca9]: Commencement: Reg. 16 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-6db129d1552777d57ed5e3467f006842]: Commencement: Reg. 17 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-3776fe5e0743f7bc3cbd81225cfd01df]: Commencement: Reg. 18 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-e204fad11c9d0232196c54ebe99de26b]: Commencement: Reg. 19 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-46dc4bc89d97b58545802deeb950567b]: Commencement: Reg. 20 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-329f97e1c76c0bed6c59add90a82b52c]: Commencement: Reg. 21 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-555fb07c3b32a8eddf3c721743209f9b]: Commencement: Reg. 22 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+
+[^key-b09bd715be894de208cc9e03639c40d9]: Commencement: Sch. in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)

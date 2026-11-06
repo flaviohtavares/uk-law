@@ -1,0 +1,321 @@
+---
+title: The Council Tax Reduction (Scotland) Amendment Regulations 2015
+id: ssi/2015/46
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-03'
+text_date: '2022-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/46
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/46/pdfs/ssipn_20150046_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/46/pdfs/ssi_20150046_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/46/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax Reduction (Scotland) Amendment Regulations 2015
+
+> Text as at 2022-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 46
+
+Council Tax
+
+The Council Tax Reduction (Scotland) Amendment Regulations 2015
+
+Made
+
+3rd February 2015
+
+Laid before the Scottish Parliament
+
+5th February 2015
+
+Coming into force
+
+1st April 2015
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 80 and 113(1) of, and paragraph 1 of Schedule 2 to, the Local Government Finance Act 1992[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement[^key-55cdcfc7523a2ab1ab38e9bfd90e90e2]
+
+These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment Regulations 2015 and come into force on 1st April 2015.
+
+## Amendment of the Council Tax Reduction (Scotland) Regulations 2012
+
+**2.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-288d5b756fd2218bab2a2e7bf3484764]
+
+The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00017] are amended in accordance with regulations 15 to 23.
+
+**15.**[^key-27ac97c55c78670e549d9afedd073271] In regulation 2(1) (interpretation)[^f00018], for the definition of “couple”, substitute—
+
+> - “couple” means—
+>   - (a) two people who are married to each other and are members of the same household, but not if the marriage is a polygamous marriage;
+>   - (b) two people who are civil partners of each other and are members of the same household; or
+>   - (c) two people who are neither married to each other nor civil partners of each other but who are living together as if they were married to each other;
+
+.
+
+**16.**[^key-8ebc7bbb34cf0093ed4b03952ee9524b] Regulation 16 (persons treated as not being in Great Britain) is amended as follows—
+
+- (a) for paragraph (5)(e) substitute—
+
+  > - (e) a person who has been granted, or who is deemed to have been granted, leave outside the rules made under section 3(2) of the Immigration Act 1971[^f00019] where that leave is—
+  >   - (i) discretionary leave to enter or remain in the United Kingdom;
+  >   - (ii) leave to remain under the Destitution Domestic Violence concession[^f00020]; or
+  >   - (iii) leave deemed to have been granted by virtue of regulation 3 of the Displaced Persons (Temporary Protection) Regulations 2005[^f00021];
+
+  ;
+- (b) omit “or” after paragraph (5)(f); and
+- (c) after paragraph (5)(g) insert—
+
+  > ;
+  >
+  > - (h) in receipt of income support, an income-based jobseeker’s allowance or on an income-related employment and support allowance; or
+  > - (i) a person who is treated as a worker for the purpose of the definition of “qualified person” in regulation 6(1) of the 2006 Regulations pursuant to regulation 5 of the Accession of Croatia (Immigration and Worker Authorisation) Regulations 2013 (right of residence of a Croatian who is an accession State national subject to worker authorisation)[^f00022].
+
+  .
+
+**17.**[^key-c55b091c7705e8a65aaabdea8644b499] Regulation 19 (persons subject to immigration control) is amended as follows—
+
+- (a) the existing text becomes paragraph (1);
+- (b) in that paragraph omit “within the meaning given in section 115(9) of the Immigration and Asylum Act 1999”; and
+- (c) after paragraph (1) insert—
+
+  > (2) In paragraph (1) “a person subject to immigration control” has the meaning given in section 115(9) of the Immigration and Asylum Act 1999[^f00023], but does not include a person who—
+  >
+  > - (a) is a national of a state which has ratified the European Convention on Social and Medical Assistance (done in Paris on 11th December 1953) or a state which has ratified the Council of Europe Social Charter (signed in Turin on 18th October 1961); and
+  > - (b) is lawfully present in the United Kingdom.
+
+  .
+
+**18.**[^key-e251713fe82fe2fb7538ae7fa927b61c] In regulation 48 (non-dependant deductions)[^f00024]—
+
+- (a) in paragraph (1)—
+  - (i) in sub-paragraph (a) for “£11.35” substitute “£11.70”; and
+  - (ii) in sub-paragraph (b) for “£3.75” substitute “£3.85”; and
+- (b) in paragraph (2)—
+  - (i) in sub-paragraph (a) for “£188.00” substitute “£189.00”;
+  - (ii) in sub-paragraph (b) for—
+    - (aa) “£188.00” substitute “£189.00”;
+    - (bb) “£326.00” substitute “£328.00”; and
+    - (cc) “£7.50” substitute “£7.70”; and
+  - (iii) in sub-paragraph (c) for—
+    - (aa) “£326.00” substitute “£328.00”;
+    - (bb) “£406.00” substitute “£408.00”; and
+    - (cc) “£9.50” substitute “£9.80”.
+- (c) in paragraph (7)—
+  - (i) omit “or” after sub-paragraph (c); and
+  - (ii) after sub-paragraph (d) insert—
+
+    > ; or
+    >
+    > - (e) the non-dependant is not residing with the applicant because the non-dependant is a member of the regular forces or the reserve forces (within the meaning of section 374 of the Armed Forces Act 2006[^f00025]) who is absent, while on operations, from the dwelling usually occupied as that person’s home.
+
+    .
+
+**19.**[^key-64baba24b95102fb10379265b7d0d8e7] Regulation 70C (conduct of further reviews)[^f00026] is amended as follows—
+
+- (a) in paragraph (5), for “member of the panel who is undertaking that review” substitute “senior reviewer appointed under regulation 90C(1) of the Council Tax Reduction Regulations”;
+- (b) in paragraph (6)(a), after “review” insert “, having regard to any guidance issued by the senior reviewer appointed under regulation 90C(1) of the Council Tax Reduction Regulations”;
+- (c) omit “and” after paragraph (6)(d);
+- (d) after paragraph (6)(e) insert—
+
+  > ; and
+  >
+  > - (f) must give full reasons for the decision to uphold or reject the request for review, if asked to do so by a party to that review within 14 days of the date on which the decision was given.
+
+  ; and
+- (e) after paragraph (6) insert—
+
+  > (6A) A member of the panel may set aside a decision disposing of a request for further review if satisfied that it is in the interests of justice to do so.
+  >
+  > (6B) Where a decision is set aside the further review must be undertaken again.
+  >
+  > (6C) A request to set aside a decision must—
+  >
+  > - (a) be made within 14 days of the date on which the decision was given, and
+  > - (b) give reasons for the request.
+
+  .
+
+**20.**[^key-b35e482016bde145cf1f2058496917ad] In Schedule 1 (applicable amount)[^f00027]—
+
+- (a) in the table in paragraph 2 (personal allowances)—
+  - (i) in entry (1)(a) “£148.35” substitute “£151.20”;
+  - (ii) in entry (1)(b) for “£165.15” substitute “£166.05”;
+  - (iii) in entry (2)(a) for “£226.50” substitute “£230.85”;
+  - (iv) in entry (2)(b) for “£247.20” substitute “£248.30”;
+  - (v) in entry (3)(a) for “£226.50” substitute “£230.85”;
+  - (vi) in entry (3)(b) for “£78.15” substitute “£79.65”;
+  - (vii) in entry (4)(a) for “£247.20” substitute “£248.30”; and
+  - (viii) in entry (4)(b) for “£82.05” substitute “£82.25”;
+- (b) in the table in paragraph 3 (personal allowances), in entries (a) and (b) for “£66.33” substitute “£66.90”; and
+- (c) in the table in paragraph 13 (amount of disability premium)—
+  - (i) in entry (1) (severe disability premium)—
+    - (aa) for “£61.10” on both occasions where it appears substitute “£61.85”; and
+    - (bb) for “£122.20” substitute “£123.70”;
+  - (ii) in entry (2) (enhanced disability premium) for “£24.08” substitute “£24.43”;
+  - (iii) in entry (3) (disabled child premium) for “£59.50” substitute “£60.06”; and
+  - (iv) in entry (4) (carer premium) for “£34.20” substitute “£34.60”.
+
+**21.**[^key-14d4d348a5a1bec006faefc94ec087f6] In paragraph 3 (disregard of earnings) of Schedule 2, for sub-paragraph (2)(b) substitute—
+
+> - (b) as a part-time fire-fighter employed by the Scottish Fire and Rescue Service established under section 1A of the Fire (Scotland) Act 2005[^f00028];
+
+.
+
+**22.**[^key-6f83ee648899d00278b8428c2a152473] Schedule 4 (capital disregards) is amended as follows—
+
+- (a) in paragraph 21(2) (benefits to be disregarded)[^f00029]—
+  - (i) at the end of sub-paragraph (m) omit “or”; and
+  - (ii) after sub-paragraph (n) insert—
+
+    > ; or
+    >
+    > - (o) any social fund payment made pursuant to Part 8 of the 1992 Act.
+
+    ;
+- (b) in paragraph 22 (payments to be disregarded)—
+  - (i) at the end of sub-paragraph (2)(c) omit “or”;
+  - (ii) after sub-paragraph (1)(d) insert—
+
+    > ; or
+    >
+    > - (e) paragraph 18 of Schedule 10 to the Universal Credit Regulations 2013[^f00030],
+
+    ;
+  - (iii) in sub-paragraph (4), in the definition of “the relevant date” omit paragraph (a) and, in paragraph (b) the words “in any other case,”; and
+- (c) in paragraph 29 (payments to be disregarded)[^f00031], before “sections 12A to 12D”, insert “under”.
+
+**23.**[^key-43d145d2398add62401b0a2ad3ca48b0] In Schedule 5 (amount of alternative maximum council tax reduction), in the table in paragraph 1[^f00032]—
+
+- (a) in entry (b)(i) for “£185.00” substitute “£186.00”; and
+- (b) in entry (b)(ii)—
+  - (i) for “£185.00” substitute “£186.00”; and
+  - (ii) for “£241.00” substitute “£242.00”.
+
+JOHN SWINNEY
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+3rd February 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Council Tax Reduction (Scotland) Regulations 2012 (“the CTR Regulations”) and the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012.
+
+Regulation 3 amends the definition of “couple” in the CTR Regulations to take account of the introduction of same sex marriage.
+
+Regulation 4 amends provision at regulation 16 of the CTR Regulations to extend the classes of persons who do not need to be habitually resident in the United Kingdom in order to qualify for a council tax reduction.
+
+Regulation 5 amends the definition of persons who are not entitled to council tax reduction. The effect is that persons who are nationals of states which have ratified the specified Convention or Charter will no longer be excluded from qualifying for a council tax reduction, if they are lawfully present in the United Kingdom.
+
+In addition to uprating figures that are used to calculate the amount of council tax reduction that a claimant is entitled to receive, the amendment made by regulation 6 provides that no deduction is to be made in respect of a non-dependant who is not residing with the applicant for a council tax reduction as a result of being in the armed forces and who is absent from home on operations.
+
+Regulations 7 and 8 amend provision for review of a determination on an application for a council tax reduction. Specifically, regulation 7 provides for one member of the panel of persons who conduct further reviews to be nominated as senior reviewer, with regulation 8 providing for the senior reviewer to determine whether an application can be withdrawn and, more generally, for other members to have regard to any procedural guidance issued by the senior reviewer. Regulation 8 also enables parties to a review to request full reasons for a decision, and to ask that it be set aside, in both cases within a prescribed timescale.
+
+Regulations 9 and 10 uprate figures that are used to calculate the amount of council tax reduction that a claimant is entitled to receive.
+
+Regulations 11 to 13 make minor amendments to update and correct references in Schedules 3, 4 and 5 to the CTR Regulations.
+
+Regulations 15 to 23 make amendments with similar effect to the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012. In addition, regulation 22(a) provides that any social fund payment is to be disregarded in the calculation of an applicant’s capital and, in consequence, in the calculation of income. Such provision is already made in the CTR Regulations, which have a different scheme of capital disregards.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 was amended by paragraph 176 of Schedule 13 to the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and section 113(1) that are not relevant to these Regulations. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-55cdcfc7523a2ab1ab38e9bfd90e90e2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^key-0374cc3771a77d05567e16c2c59ed5fb]: Textual amendment: [Regs. 2-13](https://www.legislation.gov.uk/ssi/2015/46/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+
+[^key-288d5b756fd2218bab2a2e7bf3484764]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/46/regulation/14) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^f00017]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218), [S.S.I. 2013/287](https://www.legislation.gov.uk/ssi/2013/287), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35) and [S.S.I. 2014/90](https://www.legislation.gov.uk/ssi/2014/90), and by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
+
+[^key-27ac97c55c78670e549d9afedd073271]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/46/regulation/15) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^f00018]: Footnote: There are amendments to regulation 2, but they are not relevant to these Regulations.
+
+[^key-8ebc7bbb34cf0093ed4b03952ee9524b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/46/regulation/16) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^f00019]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^f00020]: Footnote: The Destitution Domestic Violence concession is published by the Home Office at http://www.gov.uk.
+
+[^f00021]: Footnote: [S.I. 2005/1379](https://www.legislation.gov.uk/uksi/2005/1379).
+
+[^f00022]: Footnote: [S.I. 2013/1460](https://www.legislation.gov.uk/uksi/2013/1460). Regulation 5 is substituted by [S.I. 2014/530](https://www.legislation.gov.uk/uksi/2014/530).
+
+[^key-c55b091c7705e8a65aaabdea8644b499]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/46/regulation/17) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^f00023]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33).
+
+[^key-e251713fe82fe2fb7538ae7fa927b61c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/46/regulation/18) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^f00024]: Footnote: Regulation 48 is amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142) and [S.S.I 2014/35](https://www.legislation.gov.uk/ssi/2014/35).
+
+[^f00025]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
+
+[^key-64baba24b95102fb10379265b7d0d8e7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/46/regulation/19) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^f00026]: Footnote: Regulation 70C was inserted by regulation 13 of [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218).
+
+[^key-b35e482016bde145cf1f2058496917ad]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/46/regulation/20) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^f00027]: Footnote: Schedule 1 is relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49) and [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35).
+
+[^key-14d4d348a5a1bec006faefc94ec087f6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/46/regulation/21) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^f00028]: Footnote: [2005 asp 5](https://www.legislation.gov.uk/asp/2005/5). Section 1A was added by the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), section 101.
+
+[^key-6f83ee648899d00278b8428c2a152473]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/46/regulation/22) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^f00029]: Footnote: Paragraph 21 is amended by [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142).
+
+[^f00030]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
+
+[^f00031]: Footnote: Paragraph 29 is amended by [S.S.I. 2014/90](https://www.legislation.gov.uk/ssi/2014/90).
+
+[^key-43d145d2398add62401b0a2ad3ca48b0]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/46/regulation/23) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+
+[^f00032]: Footnote: Paragraph 1 of Schedule 5 is amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/287](https://www.legislation.gov.uk/ssi/2013/287) and [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35).

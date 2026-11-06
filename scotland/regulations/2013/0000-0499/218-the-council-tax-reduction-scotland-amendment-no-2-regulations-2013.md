@@ -1,0 +1,260 @@
+---
+title: The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2013
+id: ssi/2013/218
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-06-25'
+text_date: '2022-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/218
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/218/pdfs/ssipn_20130218_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/218/pdfs/ssi_20130218_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/218/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2013
+
+> Text as at 2022-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 218
+
+Council Tax
+
+The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2013
+
+Made
+
+25th June 2013
+
+Laid before the Scottish Parliament
+
+27th June 2013
+
+Coming into force
+
+1st October 2013
+
+The Scottish Ministers make the following Regulations in exercise of the powers in sections 80 and 113(1) and (2) of, and paragraph 1 of Schedule 2 to, the Local Government Finance Act 1992[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement[^key-9c01892d2e0358e4f131ddce5bd9fc86]
+
+These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2013 and come into force on 1st October 2013.
+
+## 2. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-3e9214e1e3704e054c26a4dee1fba225]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3.[^key-3e9214e1e3704e054c26a4dee1fba225]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4.[^key-3e9214e1e3704e054c26a4dee1fba225]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.[^key-3e9214e1e3704e054c26a4dee1fba225]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6.[^key-3e9214e1e3704e054c26a4dee1fba225]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7.[^key-3e9214e1e3704e054c26a4dee1fba225]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8.[^key-3e9214e1e3704e054c26a4dee1fba225]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-632cbae1dcd6e6d024b26b9c801274f8]
+
+The Council Tax Reduction (State Pension Credit)[^key-431bc487fe13258580cc838ec7033220] (Scotland) Regulations 2012[^f00006] are amended in accordance with regulations 10 to 16.
+
+## 10.[^key-6423922b2804aa2c96a935b67dc1b6a2]
+
+In regulation 14(3)(a) (conditions of entitlement to council tax reduction), after “resides” insert “as their sole or main residence”.
+
+## 11.[^key-01a034c754528679a1da0f21112056a5]
+
+In regulation 27 (meaning of “income”) omit paragraph (1)(j)(vi).
+
+## 12.[^key-94dc374b8d2d94327abe8575daedb46b]
+
+In regulation 29(11)(g) (treatment of child care charges) after “(iv),” insert “(v),”.
+
+## 13.[^key-06dcb9b04fe30b40fa2adc66d59c1fe1]
+
+After regulation 70 (alternative means of notifying changes of circumstances) insert—
+
+> **PART 10A — Reviews**
+>
+> **70A. Review of determination on an application**
+>
+> (1) A determination on an application may not be appealed to a valuation appeal committee.
+>
+> (2) An applicant who is aggrieved by a determination on an application may serve a written notice on the relevant authority requesting that it review its determination.
+>
+> (3) The notice under paragraph (2) must be served within two months of the determination it relates to and must state the matter by which, and the grounds on which, the applicant is aggrieved.
+>
+> (4) Where a notice under paragraph (2) is served on a relevant authority, that authority must—
+>
+> - (a) consider the matter to which the notice relates;
+> - (b) within two months of receipt of the notice, redetermine the application or decide that no alteration of the determination is to be made;
+> - (c) notify the applicant in writing of its decision and that if the applicant remains aggrieved then a request for further review may be made within 42 days of the notification, with the address to which any such a request is to be sent.
+>
+> **70B. Request for further review**
+>
+> (1) A request for further review of a determination on an application must be made in writing within 42 days of the notification by the relevant authority under sub-paragraph (c) of regulation 70A(4) and be served at the address notified under that sub-paragraph.
+>
+> (2) A request for further review of a determination on an application may also be made where a relevant authority has not notified the applicant of a decision on a request for review under regulation 70A(2) and more than two months have elapsed since the notice requesting review was served.
+>
+> (3) A request under paragraph (2)—
+>
+> - (a) must be made in writing and be served on the relevant authority; and
+> - (b) prevents the relevant authority from notifying a decision on the request for review under regulation 70A(2).
+>
+> (4) A request for further review must state the matter by which, and the grounds on which, the applicant is aggrieved.
+>
+> (5) Where a relevant authority is served with a notice requesting further review it must, as soon as possible, forward it to the panel appointed by the Scottish Ministers under regulation 90C of the Council Tax Reduction Regulations[^f00007].
+>
+> **70C. Conduct of further reviews**
+>
+> (1) A further review of a determination on an application is to be undertaken by one member of the panel appointed under regulation 90C(1) of the Council Tax Reduction Regulations, except as set out in paragraph (8).
+>
+> (2) A further review is to include an oral hearing unless the parties and the member of the panel who is undertaking the review agree that the review is to be disposed of by written representations.
+>
+> (3) A party to a further review must, if requested, advise the member of the panel who is undertaking the review—
+>
+> - (a) whether that party agrees that the review may be disposed of by written representations;
+> - (b) whether the applicant has appealed any application for housing benefit that may be relevant to the consideration of the further review, and if so whether that appeal has been determined (insofar as these matters are within the party’s knowledge).
+>
+> (4) Where either party to a further review is requested by the member of the panel who is undertaking the further review to provide documents or information and fails to respond to that request within such timescale as the member considers reasonable, such inferences may be drawn from the failure as the member sees fit, including the inference that the further review should be allowed or refused.
+>
+> (5) A request for further review that has been validly made in accordance with regulation 70B may not be withdrawn other than with leave of the member of the panel who is undertaking that review.
+>
+> (6) The member of the panel who is undertaking the further review—
+>
+> - (a) is to decide the procedure for that review;
+> - (b) may hold any oral hearing in public or private, as the member sees fit;
+> - (c) may request, but has no power to require, the production of documents or the attendance of any person as a witness;
+> - (d) if satisfied that there are good and sufficient reasons for doing so, may refuse to permit a particular person to represent a party at an oral hearing; and
+> - (e) may uphold or reject the request for that review, in full or in part, but must remit any calculation of the amount of an applicant’s entitlement to a council tax reduction to the relevant authority.
+>
+> (7) The relevant authority must implement the decision of the member of the panel disposing of a request for further review of a determination as soon as is reasonably practicable, including any calculation of the amount of an applicant’s entitlement to a council tax reduction that is required.
+>
+> (8) In the circumstances of a particular case the Scottish Ministers may consider it appropriate for three members of the panel appointed under regulation 90C(1) of the Council Tax Reduction Regulations to undertake the further review, and in such a case references in this regulation to anything being done or decided by a member of the panel refer to it being done or decided by all three members, or by two of them should they not be agreed.
+
+.
+
+## 14.[^key-133ecf36db02074a6ea28d7a1cfec646]
+
+In Schedule 1, in each of heads (a) and (b) of paragraph 6(1) (disability premiums) for “the applicant” substitute “the person”.
+
+## 15.[^key-09aca4eefa9306ce8ac740e0b680c17f]
+
+In Schedule 2, in paragraph 5(1)(d) (sum to be disregarded in the calculation of earnings) for “capacity” substitute “capability”.
+
+## 16.[^key-9455f9062c365788e588762fa5982861]
+
+In Schedule 5, in definition of “council tax due in respect of that day” in paragraph 4 for sub-paragraph (a) substitute—
+
+> - (a) any reductions in liability for council tax under regulations made under section 80 of the Act or under a scheme established under section 80A of the Act, other than a reduction under these Regulations;
+
+.
+
+## 17. Transitional provisions[^key-28338184c5d244bfea7ac89e68ef4bf2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18.[^key-458af25aaa9584b66c7c104eb524a711]
+
+Regulation 70A (review of determination on an application) of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00010] applies to a determination made before the date that these Regulations come into force, and for such purposes—
+
+- (a) the two month period referred to in paragraph (3) is deemed to commence on that date; and
+- (b) any notice of appeal relating to an application under those Regulations that has been served on the relevant authority under section 81 of the Local Government Finance Act 1992 before that date, and has not been disposed of, is to be progressed as if it were a notice served under paragraph (2) on that date.
+
+JOHN SWINNEY
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+25th June 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Council Tax Reduction (Scotland) Regulations 2012 (“the principal CTR Regulations”) and the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012 (“the SPC CTR Regulations”).
+
+Regulation 3 amends the principal CTR Regulations to clarify that a person must be residing in a dwelling as their sole or main residence for them to be entitled to a council tax reduction. Section 99 of the Local Government Finance Act 1992 already gives “resides” that meaning, except where otherwise provided, but the amendment removes potential for doubt.
+
+Regulation 4 amends the principal CTR Regulations in respect of some students who are 21 years of age, who are currently unable to obtain a council tax reduction.
+
+Regulation 5 corrects an error in the principal CTR Regulations relating to the treatment of child care charges, and regulation 6 amends the rules for calculating income based on an applicant’s capital.
+
+Regulation 7 provides for a review by a local authority of its determination on an application for council tax reduction, where an applicant requests such a review. Such a request must be made within two months of a determination. It will no longer be possible to appeal such a determination to a valuation appeal committee.
+
+The amendments also provide for further review if an applicant for a council tax reduction remains dissatisfied following a review. A request for such a review will be forwarded to a panel of persons appointed by the Scottish Ministers, who will conduct the review.
+
+Provision is made for the qualifications that panel members must have to be appointed and for their powers in undertaking further reviews. Provision is also made for implementation of panel decisions.
+
+Regulation 8 clarifies how a calculation is to be undertaken in certain cases where an appeal has been made against a benefit award.
+
+Regulations 10, 12 and 13 make similar provision in respect of the SPC CTR Regulations to that made by regulations 3, 5 and 7.
+
+Regulations 11, 14 and 15 make minor corrections to the SPC CTR Regulations.
+
+Regulation 16 amends Schedule 5 to the SPC CTR Regulations to ensure that a calculation of council tax due calculates the tax that is due before any reduction under those Regulations.
+
+Regulations 17 and 18 make transitional provision for determinations made prior to the commencement of these Regulations. Such determinations may be reviewed as provided for by these Regulations, and any appeal lodged, but not yet determined, will be progressed as such a review, rather than an appeal.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 was amended by paragraph 176 of Schedule 13 to the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-9c01892d2e0358e4f131ddce5bd9fc86]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1)
+
+[^key-3e9214e1e3704e054c26a4dee1fba225]: Textual amendment: [Regs. 2-8](https://www.legislation.gov.uk/ssi/2013/218/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+
+[^key-632cbae1dcd6e6d024b26b9c801274f8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/218/regulation/9) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1)
+
+[^key-431bc487fe13258580cc838ec7033220]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/ssi/2013/218/regulation/9) inserted (1.10.2013) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2013 (S.S.I. 2013/239)](https://www.legislation.gov.uk/ssi/2013/239), [regs. 1](https://www.legislation.gov.uk/ssi/2013/239/regulation/1), [2](https://www.legislation.gov.uk/ssi/2013/239/regulation/2)
+
+[^f00006]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49) and [2013/142](https://www.legislation.gov.uk/ssi/2013/142).
+
+[^key-6423922b2804aa2c96a935b67dc1b6a2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/218/regulation/10) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1)
+
+[^key-01a034c754528679a1da0f21112056a5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/218/regulation/11) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1)
+
+[^key-94dc374b8d2d94327abe8575daedb46b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/218/regulation/12) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1)
+
+[^key-06dcb9b04fe30b40fa2adc66d59c1fe1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2013/218/regulation/13) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1)
+
+[^f00007]: Footnote: [S.S.I. 2012/303](https://www.legislation.gov.uk/ssi/2012/303). Regulation 90C is inserted by regulation 7 of these Regulations.
+
+[^key-133ecf36db02074a6ea28d7a1cfec646]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2013/218/regulation/14) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1)
+
+[^key-09aca4eefa9306ce8ac740e0b680c17f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/218/regulation/15) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1)
+
+[^key-9455f9062c365788e588762fa5982861]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2013/218/regulation/16) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1)
+
+[^key-28338184c5d244bfea7ac89e68ef4bf2]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2013/218/regulation/17) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+
+[^key-458af25aaa9584b66c7c104eb524a711]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2013/218/regulation/18) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/218/regulation/1)
+
+[^f00010]: Footnote: Regulation 70A is inserted by regulation 13 of these Regulations.

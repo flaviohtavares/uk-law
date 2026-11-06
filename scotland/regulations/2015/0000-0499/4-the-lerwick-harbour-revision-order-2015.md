@@ -1,0 +1,393 @@
+---
+title: The Lerwick Harbour Revision Order 2015
+id: ssi/2015/4
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-01-09'
+text_date: '2019-04-12'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/4
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/4/pdfs/ssi_20150004_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/4/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Lerwick Harbour Revision Order 2015
+
+> Text as at 2019-04-12.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 4
+
+Harbours, Docks, Piers And Ferries
+
+The Lerwick Harbour Revision Order 2015
+
+Made
+
+9th January 2015
+
+Coming into force
+
+10th January 2015
+
+The Scottish Ministers (the “Ministers”) make the following Order in exercise of the powers conferred by section 14(1), (2) and (2A) of the Harbours Act 1964[^f00001] and all other powers enabling Ministers to do so.
+
+In accordance with section 14(1) of that Act, this Order is made in relation to a harbour which is being improved, maintained or managed by a harbour authority in the exercise and performance of statutory powers and duties, for achieving objects specified in Schedule 2 to that Act[^f00002].
+
+In accordance with section 14(2) of that Act—
+
+- (a) this Order is made following a written application to Ministers by Lerwick Port Authority being the authority engaged in improving, maintaining or managing the harbour; and
+- (b) except in so far this Order is made for achieving objects mentioned in section 14(2A) of the Act, Ministers are satisfied that the making of this Order is desirable in the interests of securing the improvement, maintenance or management of the harbour in an efficient and economical manner and of facilitating the efficient and economic transport of goods or passengers by sea.
+
+In accordance with section 14(2A) of that Act, the objects for achieving which this Order is made include repealing superseded, obsolete or otherwise unnecessary statutory provisions of local application affecting the harbour.
+
+In accordance with section 14(2)(b) of that Act, Ministers are satisfied that the making of this Harbour Revision Order is desirable in the interests of securing the improvement, maintenance or management of the harbour in an efficient and economical manner and of facilitating the efficient and economic transport of goods or passengers by sea.
+
+In accordance with paragraph 4 of Schedule 3 to that Act[^f00003], Ministers have decided that the application relates to a project which falls within Annex II to Council [Directive 85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337)[^f00004] as relevantly amended by Council [Directive 97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011)[^f00005] and Council [Directive 2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035)[^f00006] on the assessment of the effects of certain public and private projects on the environment and, taking into account the criteria set out in Annex III to that Directive, that the project is a relevant project.
+
+In accordance with paragraph 6 of that Schedule[^f00007], Ministers have—
+
+- (a) informed the applicant of that decision, and the reasons for it; and
+- (b) given an opinion to the applicant about the extent of the information referred to in Annex IV to that Directive which the applicant would be required to supply in the environmental statement and—
+  - (i) in giving that opinion Ministers have taken into account the matters in sub-paragraph (3) of that paragraph; and
+  - (ii) before giving that opinion Ministers have consulted the applicant and such bodies with environmental responsibilities as Ministers thought appropriate.
+
+In accordance with paragraph 8 of that Schedule[^f00008], Ministers have directed the applicant to supply them with an environmental statement and as required by paragraph 9 of that Schedule[^f00009] the applicant has complied with that direction.
+
+Notices have been published by the applicant in accordance with the requirements of paragraphs 10, and 10A of that Schedule[^f00010].
+
+In accordance with paragraph 15 of that Schedule[^f00011], Ministers have—
+
+- (a) consulted; and
+- (b) sent the environmental statement, and any further information falling within paragraph 10A(2) of that Schedule, to,
+
+such bodies who were likely to have an interest in the project by reason of their environmental responsibilities as Ministers thought appropriate.
+
+The provisions of paragraph 17 of that Schedule[^f00012] have been satisfied. No objections to the application have been made.
+
+In accordance with paragraph 19(1) of that Schedule[^f00013], Ministers have considered—
+
+- (a) the environmental statement;
+- (b) the result of the consultations under paragraph 15 of that Schedule;
+- (c) any representations made under paragraph 10(2)(f), of that Schedule;
+
+In accordance with paragraph 19(2) of that Schedule[^f00014]. Ministers have decided to make this Order with modifications which do not appear to Ministers substantially to affect the character of the order
+
+## PART I — PRELIMINARY
+
+### 1. Citation and commencement[^key-a3462f86aee9d7289a7d31f117b0caa3]
+
+(1) This Order may be cited as the Lerwick Harbour Revision Order 2015 and comes into force on the day after the day on which it was made.
+
+(2) This Order and the Lerwick Harbour Acts and Orders 1877 to 2010 may be cited together as the Lerwick Harbour Acts and Orders 1877 to 2015[^key-bf92ce4cb69c97de587a0dcc63f6bdd1] (hereinafter referred to as “the Harbour Acts and Orders”).
+
+### 2. Interpretation[^key-0b73e2d308b9be344da0d4845bfdbbfd]
+
+(1) In this Order—
+
+- “the Authority” means Lerwick Port Authority;
+- “deposited plans and sections” means the plans and sections which are bound together and signed in duplicate with reference to this Order and marked the “Lerwick Harbour Revision Order 2014 plans and sections” and which are deposited at the offices of the Scottish Ministers at Victoria Quay, Edinburgh, EH6 6QQ, and at the offices of the Authority situated at Albert Building, Esplanade, Lerwick, Shetland, ZE1 0LL; and a reference to a numbered sheet is a reference to that numbered sheet bound in the deposited plans and sections;
+- “enactment” includes an Act of the Scottish Parliament and an instrument made under such an Act;
+- “government department” includes any part of, or any member of the staff of, the Scottish Administration which shall have the same meaning as in section 126(6) of the Scotland Act 1998[^f00015];
+- “harbour” means the Port and Harbour of Lerwick as defined by the Harbour Acts and Orders and, in particular, the Lerwick Harbour Order Confirmation Act 1994[^f00016] and shall include the works authorised by this Order;
+- “levels of high water” means the level of mean high-water springs;
+- “limits of deviation” means the limits of deviation shown on the deposited plans and sections;
+- “tidal work” means so much of any works authorised by this Order as is on, under or over tidal waters or tidal lands below the level of high water; and
+- “works” means the works authorised by this Order or, as the case may require, any part of the works authorised by this Order.
+
+(2) All areas, dimensions, directions, distances, lengths, points, widths, heights and other measurements stated in any plan or description of the works, powers or lands, other than article 5 (power to deviate), shall be construed as if the words “or thereby” were inserted after each such area, dimension, direction, distance, length, point, width, height and other measurement.
+
+(3) Reference points specified in this Order shall be construed as references to Ordnance Survey National Grid Map reference points.
+
+## PART II — WORKS
+
+### 3. Power to construct works[^key-c166b9a08128b074df46f0aaa0e24e49]
+
+The Authority may in the lines and situations and within the limits of deviation and according to the levels shown on the deposited plans and sections construct and maintain the following works—
+
+- Work No. 1 - The construction at Dales Voe of a solid quay adjoining and extending the existing Dales Voe jetty and comprising: (First) a steel sheet pile wall as shown on Sheet No. 2 on the deposited plan and extending as follows:- along the southern perimeter of the existing jetty from Point 1A to Point 1B for a distance of fourteen metres, from there for a distance of twenty two metres in north westerly direction to Point 1C, from there continuing in a south westerly direction for a distance of seventy five metres to Point 1D, from there in a south easterly direction for a distance of twenty eight and a half metres to Point 1E, from there in a south westerly direction for a distance of six and half metres to Point 1F, and from there in a south easterly direction for a distance of twenty metres and terminating at Point 1G; and (Second) a rock armour revetment shown delineated in black and in shaded by a network of small open hexagons as shown on Sheet No. 2 on the deposited plan commencing at Point 1G on the said steel sheet pile wall and extending as follows:- in a north westerly direction for a distance of twenty metres to Point 1F, from there in a north easterly direction for a distance of six and a half metres to Point 1E, from there in a north westerly direction for a distance of twenty three metres and thirty centimetres to Point 1H, from there in a south westerly direction for a distance of twenty one metres to Point 1J, from there in a south easterly direction for a distance of twenty eight metres to Point 1K, from there a south easterly direction for a distance of twenty metres and then terminating at Point 1L where the new revetment meets the existing shore mooring point.
+- Work No. 2 - The construction of a reclamation area and slope protection with a mixture of concrete slab, bitmac and hardcore surfacing shown delineated in black and inshaded by a network of small open hexagons as shown on Sheet No. 4 on the deposited plan and extending as follows:- along the north western perimeter of the existing jetty from Point 2A to Point 2B for a distance of six metres, from there north for a distance of fourteen metres to Point 2C, from there in a north easterly direction for a distance of ninety four metres to Point 2D, from there in a south easterly direction for a distance of ninety one metres to Point 2E, from there in a westerly direction for a distance of sixteen metres to Point 2F, from there in a north westerly direction for a distance of fifty eight metres to Point 2G, from there in a south westerly direction for a distance of eighty four metres and then terminating at Point 2A.
+
+### 4. Power to renew, etc. works[^key-6402c5db88e0d333de2dd1e219d2f076]
+
+Subject to the provisions of this Order the Authority may, within the limits of deviation, renew, replace, extend or otherwise alter temporarily or permanently the works authorised by article 3 of this Order.
+
+### 5. Power to deviate[^key-6f2267282508dd6f811bf36b38de2e68]
+
+Subject to the provisions of this Order, in the construction or execution of the renewal, replacement, extension or alteration of the works the Authority may deviate laterally from the lines or situations shown on the deposited plans and sections to any extent not exceeding the limits of deviation and may deviate vertically from the levels of the works shown on the deposited plans and sections to any extent not exceeding 3 metres upwards and to such extent downwards as may be necessary or convenient.
+
+### 6. Rights of navigation to be interfered with[^key-f36d0bc53f7937520550381d51339e3b]
+
+On the day on which this Order comes into force any rights of navigation within the harbour shall be extinguished to the extent only that the exercise of such rights would be prevented or hindered by the construction, presence, use or maintenance of the works authorised by article 3 (power to construct works) or the following works—
+
+- Work No. 3 – Area A - the portion of the existing quay and the portion of the existing rock armour revetment as shown shaded pink on the deposited plan Sheet No. 6 extending to one thousand and fifty metres squared constructed with a rock infill with a hardcore top surface area being bounded on the north east by the adjoining portion of the existing rock armour revetment and extending as follows: - along the existing rock armour revetment and quay from Point 3A to Point 3B for a distance of forty five and half metres, from there in a south westerly direction for a distance of thirty three and a half metres to Point 3C, from there north for a distance of eighteen metres sixty centimetres to Point 3D, from there in a north westerly direction for a distance of thirty six metres seventy centimetres to Point 3E and from there in north easterly direction for a distance of twenty five metres seventy centimetres and then terminating at Point 3A.
+- Work No. 3 – Area B - the portion of the existing rock armour revetment as shown shaded blue on the deposited plan Sheet No. 6 extending to sixty metres squared constructed with a rock infill with a hardcore top surface area being bounded on the north west by the adjoining portion of the existing rock armour revetment and the existing shore mooring point and centred on Point 3F.
+- Work No. 3 – Area C **-** the portion of the existing rock armour revetment as shown shaded yellow on the deposited plan Sheet No. 6 extending to one hundred and twenty five metres squared constructed with a rock infill with a hardcore top surface area being bounded on the north west by the adjoining portion of the existing rock armour revetment and centred on Point 3G.
+
+### 7. Subsidiary works[^key-277c3299644e4a96eece886ac1aaecf1]
+
+The Authority may from time to time within the limits of deviation construct, maintain and operate, whether temporarily or permanently, such other works as may be necessary or convenient for the purposes, or in connection with or in consequence of the construction, maintenance or use of the works of the port; including works for the accommodation or convenience of vessels or for the loading and unloading of goods and the embarking and landing of passengers.
+
+### 8. Power to dredge[^key-4f7471bcb5d0c8fa3b4c7101a6303d50]
+
+(1) Without prejudice to any other powers which may be exercisable by the Authority within the harbour, the Authority may, for the purposes of constructing and maintaining the works, the existing works or the harbour undertaking, and of affording access to the works, the existing works and the harbour undertaking by vessels, from time to time deepen, dredge, scour, cleanse, alter and improve so much of the bed, shores and channels of the harbour as lie within the limits of the harbour and within the approaches and the channels leading to those limits may blast any rock in the area so described and may use, appropriate or dispose of the materials (other than wreck within the meaning of Part IX of the Merchant Shipping Act 1995), from time to time dredged by them.
+
+(2) No such materials shall be laid down or deposited—
+
+- (a) in contravention of the provisions of any enactment as respect to the disposal of waste; or
+- (b) in any place below the level of high water otherwise than in such a position and under such conditions and restrictions as may be approved or prescribed by the Scottish Ministers.
+
+(3) The Authority shall not blast any rock except with the consent of the Scottish Ministers, and in accordance with any conditions and restrictions imposed by the Scottish Ministers before blasting operations have begun or while blasting operations are still in progress.
+
+### 9. Fine for obstructing works[^key-0b796e1ebd342dee61e95fd5efb2fec8]
+
+Any person who intentionally obstructs any person acting under the authority of the Authority in setting out the lines of or constructing the works or who damages, moves or removes any pole, stake, station point or bench mark established for the purpose of such setting out, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 10. Tidal works not to be executed without approval of the Scottish Ministers[^key-d66ee2db047ab2590e88621766a32101]
+
+(1) A tidal work shall not be constructed, executed, renewed, replaced, extended, altered or demolished except in accordance with plans and sections approved by the Scottish Ministers and subject to any conditions and restrictions imposed by the Scottish Ministers before the work is begun.
+
+(2) If a tidal work is constructed, executed, renewed, replaced, extended, altered or demolished in contravention of this Article or of any condition or restriction under this article—
+
+- (a) the Scottish Ministers may by notice in writing require the Authority at its own expense to remove the tidal work or any part of it and restore the site of the tidal work to its former condition; and if, on the expiration of 30 days from the date when the notice is served upon the Authority it has failed to comply with the requirements of the notice, the Scottish Ministers may execute the works specified in the notice; or
+- (b) if it appears to the Scottish Ministers urgently necessary to do so, they may themselves remove the tidal works or part of it and restore the site to its former condition;
+
+and any expenditure incurred by the Scottish Ministers in so doing shall be recoverable from the Authority as a debt.
+
+(3) Paragraph (1) shall not apply to any work authorised by article 3 (power to construct works) and any related works authorised by article 7 (subsidiary works).
+
+(4) Subject to paragraph (3), the works referred to in paragraph (1) shall be deemed to be “harbour works” within the meaning and for the purposes of the Marine Works (Environmental Impact Assessment) Regulations 2007[^f00017].
+
+### 11. Lights on tidal works during construction[^key-c32209c70f3045e7f0a4c8656ec05dff]
+
+(1) During the whole time of demolition, construction, renewal, replacement, extension or alteration of any tidal work the Authority shall at the outer extremity of that work every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
+
+(2) If the Authority fail to comply in any respect with a direction given under paragraph (1) it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+### 12. Permanent lights on tidal works[^key-af9d733efc4ace7c1e5a8269292c7f00]
+
+(1) After the completion of a tidal work the Authority shall at the outer extremity thereof exhibit every night from sunset to sunrise such lights, if any, and take such steps for preventing danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
+
+(2) If the Authority fails to comply in any respect with a direction given under this article it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+### 13. Survey of tidal works[^key-1cff833054cb0bc82d9e810da56fc5de]
+
+The Scottish Ministers may at any time they deem it expedient order a survey and examination of a tidal work or of the site upon which it is proposed to construct and execute the work and any expenditure incurred by them in such survey or examination shall be recoverable from the Authority as a debt.
+
+### 14. Provision against danger to navigation[^key-577c506afa80b8c15af30c32d1926807]
+
+(1) In case of injury to or destruction or decay of a tidal work or any part of it the Authority shall as soon as reasonably practicable notify the Commissioners of Northern Lighthouses and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
+
+(2) If the Authority fails to comply with the provisions of this Article it shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+### 15. Abatement of works abandoned and decayed[^key-da54a8abafc9d7906b09fd2d956ab10b]
+
+(1) Where a tidal work is abandoned or has fallen into decay the Scottish Ministers may by notice in writing require the Authority at its own expense either to repair and restore the work or any part of it, or to remove the work and restore the site of it to its former condition, to such an extent and within such limits as the Scottish Ministers think proper.
+
+(2) Where a work authorised by this Order and consisting partly of a tidal work and partly of works on or over land above the level of high water is abandoned or has fallen into decay and that part of the work on or over the land above the level of high water is in such condition as to interfere or to cause reasonable apprehension that it may interfere with the right of navigation or other public rights over the foreshore, the Scottish Ministers may include that part of the work, or any portion of it, in any notice under this Article.
+
+(3) If, on the expiration of 60 days from the date when a notice under this Article is served upon the Authority it has failed to comply with the requirements of the notice, the Scottish Ministers may execute the works specified in the notice and any expenditure incurred by them in so doing shall be recoverable from the Authority as a debt.
+
+### 16. Period for completion of works[^key-4cfadaaabc4666b694e3c640dc188793]
+
+(1) Subject to paragraph (2), if the works are not substantially completed within five years from the coming into force of this Order or such extended time as the Scottish Ministers may on the application of the Authority allow by consent in writing, then on the expiration of that period or such extended time (as the case may be) the powers granted by this Order to the Authority for making and maintaining the works shall cease except as to those works as are at that time substantially commenced.
+
+(2) Nothing in paragraph (1) shall apply to any works carried out under article 4 (power to renew works) or article 7 (subsidiary works).
+
+(3) A consent given under paragraph (1) may be given unconditionally or subject to terms and conditions.
+
+(4) As soon as reasonably practicable after a consent is given under paragraph (1), the Authority shall arrange for a notice to be published in the Edinburgh Gazette and in a local newspaper circulating in the area where the harbour is situated and the notice shall contain a concise summary of that consent.
+
+(5) During the period of one month beginning with the date on which any notice is published in a local newspaper under paragraph (4), a copy of the consent referred to in that notice shall be kept by the Authority at the office of the Authority situated at the harbour and shall at reasonable hours be open to public inspection without payment.
+
+## PART III — MISCELLANEOUS AND GENERAL
+
+### 17. Defence of due diligence[^key-4cbfaf18b38ea717f207c9d220f1e2b4]
+
+(1) In proceedings for an offence under any provision of this Order mentioned in paragraph (2) it shall be a defence for the Authority to prove that it took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence.
+
+(2) The provisions referred to in paragraph (1) are—
+
+- (a) article 11 (lights on tidal works during construction);
+- (b) article 12 (permanent lights on tidal works); and
+- (c) article 14 (provision against danger to navigation).
+
+(3) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, the Authority shall not, without leave of the court, be entitled to rely on that defence unless, within a period of 7 clear days before the hearing, it has served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, that other person as was then in its possession.
+
+### 18. Defence to proceedings in respect of statutory nuisance[^key-96b1b17590214bf91b94aeccc710200a]
+
+(1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990 (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraph (g) of section 79 (1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order shall be made under section 82(2) of that Act if the defender shows—
+
+- (a) that the nuisance relates to premises used by the Authority for the purposes of or in connection with the exercise of the powers conferred by this order with respect to the construction or maintenance of the work; and
+- (b) that the nuisance is—
+  - (i) attributable to the carrying out of works which are being carried out in accordance with a notice served under section 60 (control of noise on construction site), or a consent given under section 61 (prior consent for work on construction site) or section 65 (noise exceeding registered level), of the Control of Pollution Act 1974; or
+  - (ii) a consequence of the construction, maintenance or use of the work and that it cannot be reasonably avoided.
+
+(2) Section 61(9) (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) shall not apply where the consent relates to the use of premises by the Authority for the purposes of or in connection with the exercise of the powers conferred by this Order with respect to the construction or maintenance of the work.
+
+### 19. Environmental requirements[^key-855f2ed72bbfeb002fbd8170e4bbe6f5]
+
+(1) No work shall be commenced until the Scottish Ministers have, following consultation with the Scottish Environment Protection Agency and Scottish Natural Heritage, approved an environmental management plan for the work.
+
+(2) Subject to paragraph (3) in constructing the works, the Authority shall act in accordance with—
+
+- (a) the commitments given in the Environmental Statement being the Environmental Statement dated October 2014 together with the Non-technical summary and the Appendices to the Environmental Statement, a copy of which was submitted with the application made for this Order to the Scottish Ministers and a further copy of which has been deposited at the principal office of the Authority situated at the port; and
+- (b) the approved environmental management plan for the works.
+
+(3) Nothing in paragraph (2) shall exempt the Authority from fulfilling any requirement imposed on the Authority by any rule of law or which arises from any commitment which is binding on the Authority.
+
+### 20. Borrowing powers[^key-80ceb0490151033cdbfa73e4d2ada3b2]
+
+(1) The Authority may from time to time borrow, by any methods and on such terms as it sees fit, such sums of money as it thinks necessary for the purposes of meeting its obligations in carrying out its statutory powers, duties and functions; and where moneys are borrowed by the Authority under this Article, the Authority may, if it sees fit, borrow those moneys upon the security of some or all of its assets or of some or all of its revenues or of some or all of both its assets and revenues; and the Authority may effect such arrangements as it sees fit to mitigate against any financial risk incurred for the purposes of meeting such obligations.
+
+(2) The provisions of sections 3, 4 and 5 of the Lerwick Harbour Revision Order 1982 are hereby repealed.
+
+### 21. Amendment of the Lerwick Harbour (Miscellaneous Provisions) Order Confirmation Act 1975[^key-26594d885d9adc34c65a9268d8e19dc1]
+
+The provisions of sections 7 and 11 of the Lerwick Harbour (Miscellaneous Provisions) Order Confirmation Act 1975[^f00018] are hereby repealed.
+
+### 22. Saving for Commissioners of Northern Lighthouses[^key-c80161714bbde74504a3336a69413882]
+
+Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
+
+### 23. Saving for other consents etc.[^key-1f27aa094503ce656fb6267631acadc2]
+
+The carrying out of any works or operations pursuant to this Order is subject to the Authority obtaining any consent, permission or licence required under any other enactment.
+
+### 24. Crown Rights[^key-1fdb32811df5caa7adbcbe7bf31fc66c]
+
+(1) Nothing in this Order shall affect prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to that generality nothing contained in the Order shall authorise the Authority to take, use, enter upon or in any manner interfere with any land or interest in land, or any rights of whatsoever description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
+
+- (a) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners or a relevant person[^key-46cde578b0c22d6a6751c37128904751], without the consent in writing of those Commissioners or (as the case may be) that person[^key-420dc38c665ee468533f8aac25cdf9f9]; or
+- (b) belonging to a government department, or held in trust for Her Majesty for the purposes of a government department without the consent in writing of that government department.
+
+(1A)[^key-7c4190fba9a1c817ac235b57e3c99618] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+
+(2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions.
+
+JOHN NICHOLLS
+
+A member of the staff of the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+9th January 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order empowers Lerwick Port Authority to construct and maintain works in the Port and Harbour of Lerwick.
+
+The Order extends the Authority’s borrowing powers.
+
+The Order amends the Lerwick Harbour (Miscellaneous Provisions) Order Confirmation Act 1975.
+
+Copies of the Environmental Statement for the project and the deposited plans and sections can be inspected free of charge at the Offices of the Scottish Ministers at Victoria Quay, Edinburgh, EH6 6QQ between 09:00 and 16:30 (Monday to Friday, excluding public holidays).
+
+Copies of the Environmental Statement and the deposited plans and sections may also be inspected free of charge at the Office of Lerwick Port Authority, Albert Building, Lerwick, Shetland, ZE1 0LL, between 09:00 and 13:00 and 14:00 and 16:30 (Monday to Friday, excluding public holidays).
+
+## Annotations
+
+[^f00001]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40); section 14 was relevantly amended by the Transport Act [1981 (c.56)](https://www.legislation.gov.uk/ukpga/1981/56), Schedule 6, paragraphs 2, 3, 4(1) and 14 and Schedule 12 and the Transport and Works Act [1992 (c.42)](https://www.legislation.gov.uk/ukpga/1992/42), Schedule 3, paragraph 1. See sections 14(7) and 57(1) of the Harbours Act 1964 for the definitions of “the appropriate Minister” and “the Minister”. The functions of the Minister of the Crown were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: Schedule 2 was relevantly amended by the Transport and Works Act [1992 (c.42)](https://www.legislation.gov.uk/ukpga/1992/42), Schedule 3, paragraph 9.
+
+[^f00003]: Footnote: Paragraph 4 of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445).
+
+[^f00004]: Footnote: O.J. L 73, 5.7 1985, p.40.
+
+[^f00005]: Footnote: O.J. L 73, 14.3.1997, p.5.
+
+[^f00006]: Footnote: O.J. L 156, 25.6.2003, p.17.
+
+[^f00007]: Footnote: Paragraph 6 of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445).
+
+[^f00008]: Footnote: Paragraph 8 of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445).
+
+[^f00009]: Footnote: Paragraph 9 of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445).
+
+[^f00010]: Footnote: Paragraph 10 of Schedule 3 was substituted by [S.I. 1999/3345](https://www.legislation.gov.uk/uksi/1999/3345) and is amended by the Transport and Works (Scotland) Act [2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), section 25(5)(b) and (c) Paragraph 10A of Schedule 3 was inserted by the Transport and Works (Scotland) Act [2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), section 25(5)(d).
+
+[^f00011]: Footnote: Paragraph 15 of Schedule 3 was substituted by [S.I. 1999/3345](https://www.legislation.gov.uk/uksi/1999/3345) and is amended by the Transport and Works (Scotland) Act [2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), section 25(5)(e).
+
+[^f00012]: Footnote: Paragraph 17 of Schedule 3 was substituted by [S.I. 1999/3345](https://www.legislation.gov.uk/uksi/1999/3345) and is amended by the Transport and Works (Scotland) Act [2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), section 25(5)(g).
+
+[^f00013]: Footnote: Paragraph 19(1) of Schedule 3 was substituted by [S.I. 1999/3345](https://www.legislation.gov.uk/uksi/1999/3345) and is amended by the Transport (Scotland) Act [2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), section 46 and the Transport and Works (Scotland) Act [2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), section 25(5)(i).
+
+[^f00014]: Footnote: Paragraph 19(2) of Schedule 3 was substituted by [S.I. 1999/3345](https://www.legislation.gov.uk/uksi/1999/3345).
+
+[^key-a3462f86aee9d7289a7d31f117b0caa3]: Commencement: Art. 1 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-bf92ce4cb69c97de587a0dcc63f6bdd1]: Textual amendment: Word in [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/4/article/1/2) substituted (12.4.2019) by [The Lerwick Harbour Revision (Constitution) Order 2019 (S.S.I. 2019/136)](https://www.legislation.gov.uk/ssi/2019/136), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/136/article/1/1), [17](https://www.legislation.gov.uk/ssi/2019/136/article/17)
+
+[^key-0b73e2d308b9be344da0d4845bfdbbfd]: Commencement: Art. 2 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^f00015]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00016]: Footnote: [1994 c.x](https://www.legislation.gov.uk/ukla/1994/10).
+
+[^key-c166b9a08128b074df46f0aaa0e24e49]: Commencement: Art. 3 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-6402c5db88e0d333de2dd1e219d2f076]: Commencement: Art. 4 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-6f2267282508dd6f811bf36b38de2e68]: Commencement: Art. 5 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-f36d0bc53f7937520550381d51339e3b]: Commencement: Art. 6 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-277c3299644e4a96eece886ac1aaecf1]: Commencement: Art. 7 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-4f7471bcb5d0c8fa3b4c7101a6303d50]: Commencement: Art. 8 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-0b796e1ebd342dee61e95fd5efb2fec8]: Commencement: Art. 9 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-d66ee2db047ab2590e88621766a32101]: Commencement: Art. 10 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^f00017]: Footnote: [S.I. 2007/1518](https://www.legislation.gov.uk/uksi/2007/1518); “harbour works” is defined in regulation 2(1).
+
+[^key-c32209c70f3045e7f0a4c8656ec05dff]: Commencement: Art. 11 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-af9d733efc4ace7c1e5a8269292c7f00]: Commencement: Art. 12 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-1cff833054cb0bc82d9e810da56fc5de]: Commencement: Art. 13 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-577c506afa80b8c15af30c32d1926807]: Commencement: Art. 14 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-da54a8abafc9d7906b09fd2d956ab10b]: Commencement: Art. 15 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-4cfadaaabc4666b694e3c640dc188793]: Commencement: Art. 16 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-4cbfaf18b38ea717f207c9d220f1e2b4]: Commencement: Art. 17 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-96b1b17590214bf91b94aeccc710200a]: Commencement: Art. 18 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-855f2ed72bbfeb002fbd8170e4bbe6f5]: Commencement: Art. 19 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-80ceb0490151033cdbfa73e4d2ada3b2]: Commencement: Art. 20 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-26594d885d9adc34c65a9268d8e19dc1]: Commencement: Art. 21 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^f00018]: Footnote: [1975 c.xxv](https://www.legislation.gov.uk/ukla/1975/25).
+
+[^key-c80161714bbde74504a3336a69413882]: Commencement: Art. 22 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-1f27aa094503ce656fb6267631acadc2]: Commencement: Art. 23 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-1fdb32811df5caa7adbcbe7bf31fc66c]: Commencement: Art. 24 in force at 10.1.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/4/article/1/1)
+
+[^key-46cde578b0c22d6a6751c37128904751]: Textual amendment: Words in [art. 24(1)(a)](https://www.legislation.gov.uk/ssi/2015/4/article/24/1/a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/paragraph/1/2), [Sch. 5 para. 136(a)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/136/a/i)
+
+[^key-420dc38c665ee468533f8aac25cdf9f9]: Textual amendment: Words in [art. 24(1)(a)](https://www.legislation.gov.uk/ssi/2015/4/article/24/1/a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/paragraph/1/2), [Sch. 5 para. 136(a)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/136/a/ii)
+
+[^key-7c4190fba9a1c817ac235b57e3c99618]: Textual amendment: [Art. 24(1A)](https://www.legislation.gov.uk/ssi/2015/4/article/24/1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/paragraph/1/2), [Sch. 5 para. 136(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/136/b)

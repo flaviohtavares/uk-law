@@ -1,0 +1,91 @@
+---
+title: The Nutritional Requirements for Food and Drink in Schools (Scotland) Amendment Regulations 2023
+id: ssi/2023/267
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-09-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2023/267
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2023/267/pdfs/ssipn_20230267_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2023/267/pdfs/ssi_20230267_en.pdf
+- http://www.legislation.gov.uk/ssi/2023/267/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Nutritional Requirements for Food and Drink in Schools (Scotland) Amendment Regulations 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 267
+
+Education
+
+The Nutritional Requirements for Food and Drink in Schools (Scotland) Amendment Regulations 2023
+
+Made
+
+19th September 2023
+
+Laid before the Scottish Parliament
+
+21st September 2023
+
+Coming into force
+
+16th November 2023
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by sections 56A and 56D of the Education (Scotland) Act 1980[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Nutritional Requirements for Food and Drink in Schools (Scotland) Amendment Regulations 2023 and come into force on 16 November 2023.
+
+## 2. Amendment of the Nutritional Requirements for Food and Drink in Schools (Scotland) Regulations 2020
+
+In the Nutritional Requirements for Food and Drink in Schools (Scotland) Regulations 2020[^f00002]—
+
+- (a) in regulation 2 (interpretation and application)[^f00003], omit paragraphs (3) and (4),
+- (b) in schedule 3 (nutrient standards – school meals), for paragraph 5 substitute—
+
+  > **5.** The energy and nutrient content of the average school meal as calculated on a weekly basis must be calculated in accordance with the following formula
+  >
+  > [image: see source](https://www.legislation.gov.uk/ssi/2023/267/images/ssi_20230267_en_001)
+  >
+  > Where—
+  >
+  > - “C” is the total amount of energy and nutrient content provided in all school meals served in the course of a school week,
+  > - “D” is the estimated number of school meals served to pupils during that school   week.
+
+  .
+
+JENNY GILRUTH
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+19th September 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Nutritional Requirements for Food and Drink in Schools (Scotland) Regulations 2020 (“**the 2020 Regulations**”).
+
+The 2020 Regulations specify the nutritional requirements that education authorities and managers of grant aided schools must comply with in relation to the provision of food and drink in schools. Regulation 2(a) amends regulation 2 of the 2020 Regulations to omit paragraphs (3) and (4). Those paragraphs provide that where, in the event of shortages in the supply of food, an education authority is, or the managers of a grant aided school are, unable to provide food or drink to pupils which complies with the requirements, they may provide food or drink that does not so comply. Regulation 2(b) of these Regulations substitutes a new paragraph 5 of schedule 3 of the 2020 Regulations which provides a formula for calculating the energy and nutrient content of the average school meal on a weekly basis.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). Sections 56A and 56D were inserted by section 3 of the Schools (Health Promotion and Nutrition) (Scotland) Act [2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15) and section 56A was amended by section 22 of the Education (Scotland) Act [2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8).
+
+[^f00002]: Footnote: [S.S.I. 2020/153](https://www.legislation.gov.uk/ssi/2020/153), amended by [S.S.I. 2021/31](https://www.legislation.gov.uk/ssi/2021/31) and [S.S.I. 2021/481](https://www.legislation.gov.uk/ssi/2021/481).
+
+[^f00003]: Footnote: Paragraphs (3) and (4) of regulation 2 were inserted by [S.S.I. 2021/481](https://www.legislation.gov.uk/ssi/2021/481).

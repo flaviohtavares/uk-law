@@ -1,0 +1,60 @@
+---
+title: Arbitration (Scotland) Act 2010, section 15
+act: Arbitration (Scotland) Act 2010
+section: '15'
+status: revised-with-pending-changes
+text_date: '2023-11-24'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2010/1/section/15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Arbitration (Scotland) Act 2010, section 15
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2023-11-24. See https://www.legislation.gov.uk/changes/affected/asp/2010/1
+>
+> Extent: Scotland.
+
+## 15. Anonymity in legal proceedings[^key-dd2bf7b9914cbcafd947a42e90480157][^key-d951df313ecaa4c457604f60efb302da][^key-fda6ae51542b62c5367e17955fd388e2][^key-7426c16fe56d6caf2bc32d0c8f02b358][^key-be839cdb228f1bde56c1f75b2d83ebbf][^key-0c935d86ae5e3e565492f723330c7b5a][^key-eb637c33d293805350f6f1d47823dd2b][^key-cea12aff4466baa0a8fee8d471c58bcb][^key-d60de578e089b453630cbca4d7e9cc27][^key-88ad9a8bfca863df10f7632925eac8b8][^key-9e1203cc577f4a2a7da0129c9d00eb23][^key-3fdd85f8d07e8fca83cee23e34966aa5]
+
+*Extent: S*
+
+(1) A party to any civil proceedings relating to an arbitration (other than proceedings under section 12) may apply to the court for an order prohibiting the disclosure of the identity of a party to the arbitration in any report of the proceedings.
+
+(2) On such an application, the court must grant the order unless satisfied that disclosure—
+
+- (a) is required—
+  - (i) for the proper performance of the discloser's public functions, or
+  - (ii) in order to enable any public body or office-holder to perform public functions properly,
+- (b) can reasonably be considered as being needed to protect a party's lawful interests,
+- (c) would be in the public interest, or
+- (d) would be necessary in the interests of justice.
+
+(3) The court's determination of an application for an order is final.
+
+## Annotations
+
+[^key-dd2bf7b9914cbcafd947a42e90480157]: Modification: Ss. 1-15 excluded by 1962 c. 46, s. 74(6)(f) (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 4(2)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/4/2))
+
+[^key-d951df313ecaa4c457604f60efb302da]: Modification: Ss. 1-15 excluded by 1949 c. 87, s. 67(4) (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 2](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/2))
+
+[^key-fda6ae51542b62c5367e17955fd388e2]: Modification: Ss. 1-15 excluded by 1977 c. 37, s. 130(8) (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 5](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/5))
+
+[^key-7426c16fe56d6caf2bc32d0c8f02b358]: Modification: Ss. 1-15 excluded by 1992 c. 52, s. 263(6) (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 6(3)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/6/3))
+
+[^key-be839cdb228f1bde56c1f75b2d83ebbf]: Modification: Ss. 1-15 excluded by 1996 c. 17, s. 6(2) (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 7](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/7))
+
+[^key-0c935d86ae5e3e565492f723330c7b5a]: Modification: Ss. 1-15 excluded by 1962 c. 46, s. 81(7) (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 4(3)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/4/3))
+
+[^key-eb637c33d293805350f6f1d47823dd2b]: Modification: Ss. 1-15 excluded by 1961 c. 34, s. 171 (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 3](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/3))
+
+[^key-cea12aff4466baa0a8fee8d471c58bcb]: Modification: Ss. 1-15: power to exclude or restrict conferred by 2007 c. 15, Sch. 5 para. 14 (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 8](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/8))
+
+[^key-d60de578e089b453630cbca4d7e9cc27]: Modification: Ss. 1-15 excluded by 1949 c. 39, s. 8(2) (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/1))
+
+[^key-88ad9a8bfca863df10f7632925eac8b8]: Modification: Ss. 1-15 excluded by 1992 c. 52, s. 212(5) (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 6(2)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/6/2))
+
+[^key-9e1203cc577f4a2a7da0129c9d00eb23]: Modification: Ss. 1-15 excluded by 1962 c. 46, Sch. 7 para. 17(5) (as amended (5.6.2010) by [The Arbitration (Scotland) Act 2010 (Consequential Amendments) Order 2010 (S.S.I. 2010/220)](https://www.legislation.gov.uk/ssi/2010/220), [art. 1](https://www.legislation.gov.uk/ssi/2010/220/article/1), [sch. para. 4(4)](https://www.legislation.gov.uk/ssi/2010/220/schedule/paragraph/4/4))
+
+[^key-3fdd85f8d07e8fca83cee23e34966aa5]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2010/1/section/15) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

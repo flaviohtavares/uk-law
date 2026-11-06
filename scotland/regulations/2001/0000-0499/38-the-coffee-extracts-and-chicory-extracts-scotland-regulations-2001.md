@@ -1,0 +1,267 @@
+---
+title: The Coffee Extracts and Chicory Extracts (Scotland) Regulations 2001
+id: ssi/2001/38
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-02-15'
+text_date: '2023-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2001/38
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2001/38/pdfs/ssi_20010038_en.pdf
+- http://www.legislation.gov.uk/ssi/2001/38/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Coffee Extracts and Chicory Extracts (Scotland) Regulations 2001
+
+> Text as at 2023-10-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2001 No. 38
+
+FOOD
+
+The Coffee Extracts and Chicory Extracts (Scotland) Regulations 2001
+
+Made
+
+15th February 2001
+
+Laid before the Scottish Parliament
+
+15th February 2001
+
+Coming into force
+
+17th March 2001
+
+The Scottish Ministers, in exercise of the powers conferred by sections 6(4), 16(1)(a) and (e), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^c15970221] and of all other powers enabling them in that behalf, after having regard in accordance with section 48(4A)[^c15970231] of that Act to relevant advice given by the Food Standards Agency and after consultation in accordance with section 48(4) and (4B)[^c15970241] of that Act, hereby make the following Regulations:[^key-28a3b372f87b7a57592860826a5e413e]
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Coffee Extracts and Chicory Extracts (Scotland) Regulations 2001 and shall come into force on 17th March 2001.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Interpretation
+
+(1) In these Regulations–
+
+- “the Act” means the Food Safety Act 1990;
+- “chicory” means the roots of*Cichorium Intybus L.,* other than the roots of plants used for the production of witloof chicory, and which have been suitably cleaned, dried and roasted;
+- “chicory extracts” means the concentrated product obtained by extraction from roasted chicory using only water as the medium of extraction (excluding any process of hydrolysis involving the addition of an acid or a base);
+- “coffee extracts” means the concentrated product obtained by extraction from roasted coffee beans using only water as the medium of extraction (excluding any process of hydrolysis involving the addition of an acid or a base) and which contains only the soluble and aromatic constituents of coffee, apart from those insoluble substances which it is technically impossible to remove and insoluble oils derived from coffee;
+- “designated product” means any food specified in column 2 of Part I or II of the Schedule (as read with any Note in those columns relating to that food) but does not include any product which contains such a food as an ingredient and which is sold, consigned or delivered as a compound product;
+- [^key-cb70bfa94691de78d2aff5cdd0bdd929]...
+- “[^key-e50bdc708517660df7fe898451044550]**Regulation (EU) No 1169/2011**” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/eudr/1987/250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/eudr/1990/496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/eudr/1999/10), Directive [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) and [2008/5/EC](https://www.legislation.gov.uk/eudr/2008/5) and Commission Regulation (EC) No 608/2004 , as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods[^key-65983b0308fdea2746d79b5e7912fe93];
+- “reserved description”, as respects any designated product, means any description specified in relation to that product in column 1 of Part I or II of the Schedule and the use of any such description in these Regulations shall be construed as meaning the designated product specified in relation to that description in column 2 of the respective Part;
+- “sell” includes offer or expose for sale or have in possession for sale, and “sale” and “sold” shall be construed accordingly.
+
+(2) All proportions mentioned in these Regulations are proportions calculated by weight and are calculated on the total weight of the product.
+
+(3) Any reference in these Regulations to the Schedule shall be construed as a reference to the Schedule to these Regulations.
+
+## 3. Scope of Regulations
+
+(1) Subject to paragraph (2) below, these Regulations apply to coffee extracts and chicory extracts which are ready for delivery to the ultimate consumer or to a catering establishment.
+
+(2) These Regulations do not apply to the product known as*café torrefacto soluble.*
+
+(3) In this regulation–
+
+- “catering establishment” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the ultimate consumer and is ready for consumption without further preparation;
+- “preparation” includes manufacture and any form of processing or treatment; and
+- “ultimate consumer” means any person who buys otherwise than–
+  - (a) for the purpose of resale;
+  - (b) for the purposes of a catering establishment; or
+  - (c) for the purposes of a manufacturing business.
+
+## 4. Reserved descriptions
+
+No person shall give with any food sold by that person, or display with any food offered or exposed by that person for sale or in that person’s possession for the purpose of sale, a label, whether or not attached to or printed on the wrapper or container, which bears, comprises or includes any reserved description or any derivative thereof or any word or description substantially similar thereto unless–
+
+- (a) such food is the designated product to which the reserved description relates;
+- (b) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that the substance to which it relates is only an ingredient of that food; or
+- (c) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that such food is not and does not contain a designated product.
+
+## 5. Labelling and description of designated products
+
+(1) Without prejudice to Regulation ([^key-c381e44865b1cb93509b56a7135ffc25]EU) No 1169/2011, no person shall sell any designated product unless it is marked or labelled with the following particulars–
+
+- (a) subject to paragraph (2) below, a reserved description of the product which shall be the name prescribed by law for that product for the purposes of Article 17 of Regulation ([^key-a88917c73a5b396d70d46072c7ee3c3c]EU) No 1169/2011;
+- (b) the word “decaffeinated” in the case of a product specified in column 2 of Part I of the Schedule which has been subjected to a decaffeination process and in which the residual anhydrous caffeine content does not exceed 0.30% of its coffee-based dry matter content;
+- (c) in the case of a product specified in item 3 of column 2 of Part I or II of the Schedule in which sugar has been used, the words “with X”, “preserved with X”, “with added X” or “roasted with X”, as appropriate, “X” being the name of the sugar product used, which name shall be the reserved description of that product specified in relation thereto in the Specified Sugar Products (Scotland) Regulations 2003[^key-f3abfa2f7adff5c7c03cfc3db05f3038] or, if the sugar product has no such reserved description, the name of the product which if the sugar product were itself being sold as a food would be used, pursuant to Article 17 of Regulation ([^key-e2f2eb4f13cc72929db00b94e4083859]EU) No 1169/2011, as the name of the food;
+- (d) in the case of a product specified in item 2 or 3 of column 2 of Part I of the Schedule, a declaration of the minimum coffee–based dry matter content expressed as a percentage; and
+- (e) in the case of a product specified in item 2 or 3 of column 2 of Part II of the Schedule, a declaration of the minimum chicory–based dry matter content expressed as a percentage.
+
+(2) The information required by paragraph (1)(b) and (c) above shall be in the same field of vision as the reserved description required by paragraph (1)(a) above.
+
+(3) In the case of a product specified in item 3 of column 2 of Part I of the Schedule containing more than 25% coffee–based dry matter and of a product specified in item 3 of column 2 of Part II of the Schedule containing more than 45% chicory–based dry matter, the word “concentrated” may be added to the reserved description.
+
+## 6. Manner of marking or labelling[^key-03b738fb6a5a5ef3f0c6ebb2fc9eea2f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Penalties and enforcement
+
+(1) Any person who contravenes or fails to comply with any of the provisions of these Regulations shall be guilty of an offence.
+
+(2) A person found guilty of an offence under paragraph (1) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(3) Each food authority shall enforce and execute these Regulations in its area.
+
+(4) The methods used to determine the free and soluble carbohydrate content of coffee extracts shall be in conformity with Annex 3 to[^key-1544e5856be16dd7c5c820713faaf7c9] Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^key-0e8fc921b32993b0ccf2d24cc40fc158] [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/58), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/74), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/43), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eud/1992/0438) and shall be validated or standardised.
+
+## 8. Transitional provision[^key-0a938ca2c8d0a55858d5ae9eacfc90ed]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Defence in relation to exports[^key-20291942520f610d02568532c2fde976]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Application of various provisions of the Food Safety Act 1990
+
+The following provisions of the Act shall apply for the purposes of these Regulations and any reference in those provisions to the Act or Part thereof shall be construed for the purposes of these Regulations as a reference to these Regulations–
+
+- (a) section 2 (extended meaning of sale etc.);
+- (b) section 3 (presumptions that food is intended for human consumption);
+- (c) section 20 (offences due to fault of another person);
+- (d) section 21 (defence of due diligence) as it applies for the purposes of section 8, 14 or 15 of the Act;
+- (e) section 22 (defence of publication in the course of business);
+- (f) section 30(8) (which relates to documentary evidence);
+- (g) section 33 (obstruction etc. of officers);
+- (h) section 35(1) to (3) (punishment of offences) in so far as it relates to offences under section 33(1) and (2) as applied by paragraph (g) above;
+- (i) section 36 (offences by bodies corporate);
+- (j) section 36A (offences by Scottish partnerships); and
+- (k) section 44 (protection of officers acting in good faith).
+
+## 11. Amendments and revocation
+
+(1)[^key-df5638f3ec944d199458f2379f68994c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The following entries relating to the Coffee and Coffee Products (Scotland) Regulations 1979 shall be omitted–
+
+- (a) in the Food and Drugs (Scotland) Act 1956 (Transfer of Enforcement Functions) Regulations 1983 [^c15970291], in Schedule 1;
+- (b) in the Food (Revision of Penalties and Mode of Trial) (Scotland) Regulations 1985 [^c15970301], in Schedules 1 and 2;
+- (c) in the Food Safety Act 1990 (Consequential Modifications) (Scotland) Order 1990 [^c15970311], in Schedule 1, Part I, Schedule 2, Schedule 3, Part II and Schedules 5 and 8;
+- (d) in the Food Safety (Exports) Regulations 1991 [^c15970321], in Schedule 2;
+- (e) in the Food (Forces Exemptions) (Revocations) Regulations 1992 [^c15970331], in the Schedule, Part I;
+- (f) in the Miscellaneous Food Additives Regulations 1995 [^c15970341], in Schedule 9; and
+- (g)[^key-bd54d157d64b71813eecc159788cf116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The Coffee and Coffee Products (Scotland) Regulations 1979, the Coffee and Coffee Products (Scotland) (Amendment) Regulations 1982 [^c15970351] and the Coffee and Coffee Products (Scotland) (Amendment) Regulations 1987 [^c15970361] are hereby revoked.
+
+SUSAN C DEACON
+
+A member of the Scottish Executive
+
+St Andrew’s House, Edinburgh
+
+## SCHEDULE
+
+Regulations 2 and 5
+
+### PART I — COFFEE EXTRACTS AND THEIR RESERVED DESCRIPTIONS
+
+<table>
+<tbody>
+<tr><th colspan="2"><em>Column 1</em></th><th><em>Column 2</em></th></tr>
+<tr><th colspan="2"><em>Reserved descriptions</em></th><th><em>Coffee Extract Products</em></th></tr>
+<tr><td colspan="2">1.Coffee extract<em>or</em> Soluble coffee extract<em>or</em> Instant coffee<em>or</em> Soluble coffee</td><td>Coffee extract in powder, granular, flake, cube or other solid form, of which the coffee–based dry matter content is not less than 95%, containing no substances other than those derived from the extraction of coffee.</td></tr>
+<tr><td>2.Coffee extract<em>or</em> Soluble coffee extract<em>or</em> Instant coffee<em>or</em> Soluble coffee</td><td>supplemented in each case by the word “paste” or the words “in paste form”</td><td>Coffee extract in paste form, of which the coffee–based dry matter content is not more than 85% and not less than 70%, containing no substances other than those derived from the extraction of coffee.</td></tr>
+<tr><td>3.</td><td>Coffee extract<em>or</em> Soluble coffee extract<em>or</em> Instant coffee<em>or</em> Soluble coffee supplemented in each case by the word “liquid” or the words “in liquid form”</td><td>Coffee extract in liquid form, of which the coffee–based dry matter content is not more than 55% and not less than 15%.<br>NOTE:<br>The product may contain added sugar products, whether or not roasted, in a proportion not exceeding 12%.</td></tr>
+</tbody>
+</table>
+
+### PART II — CHICORY EXTRACTS AND THEIR RESERVED DESCRIPTIONS
+
+<table>
+<tbody>
+<tr><th colspan="2"><em>Column 1</em></th><th><em>Column 2</em></th></tr>
+<tr><th colspan="2"><em>Reserved descriptions</em></th><th><em>Chicory Extract Products</em></th></tr>
+<tr><td colspan="2">1.Chicory extract<em>or</em> Instant chicory<em>or</em> Soluble chicory</td><td>Chicory extract in powder, granular, flake, cube or other solid form, of which the chicory–based dry matter content is not less than 95%.<br>NOTE:<br>This product may contain not more than 1% of substances not derived from chicory.</td></tr>
+<tr><td>2.Chicory extract<em>or</em> Instant chicory<em>or</em> Soluble chicory</td><td>supplemented in each case by the word “paste” or the words “in paste form”</td><td>Chicory extract in paste form, of which the chicory–based dry matter content is not more than 85% and not less than 70%.<br>NOTE:<br>This product may contain not more than 1% of substances not derived from chicory.</td></tr>
+<tr><td>3.Chicory extract<em>or</em> Instant chicory<em>or</em> Soluble chicory</td><td>supplemented in each case by the word “liquid” or the words “in liquid form”</td><td>Chicory extract in liquid form, of which the chicory–based dry matter content is not more than 55% and not less than 25%.<br>NOTE:<br>This product may contain added sugar products, whether or not roasted, in a proportion not exceeding 35%.</td></tr>
+</tbody>
+</table>
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which extend to Scotland only, implement Directive [1999/4/EC](https://www.legislation.gov.uk/european/directive/1999/0004) of the European Parliament and the Council relating to coffee extracts and chicory extracts (OJ No. L 66,13.3.1999, p.26) They revoke and replace the Coffee and Coffee Products (Scotland) Regulations 1979, as amended.
+
+The Regulations–
+
+**a)** prescribe definitions and reserved descriptions for coffee extracts and chicory extracts (regulation 2 and the Schedule);
+
+**b)** provide for the Regulations to apply to coffee extracts and chicory extracts ready for delivery to the ultimate consumer or to a catering establishment, except for the product known as*café torrefacto soluble* (regulation 3);
+
+**c)** prohibit the labelling of food with a reserved description other than food to which the description relates (regulation 4);
+
+**d)** require reserved descriptions and specified declarations to be applied to designated products, and prescribe the manner of marking or labelling to be employed; certain provisions of the Food Labelling Regulations 1996, which govern the labelling of coffee extract and chicory extract products except so far as specifically provided for in these Regulations, are applied to these specific requirements (regulations 5 and 6);
+
+**e)** provide for penalties and enforcement, include a transitional provision and a defence in relation to exports (in accordance with Articles 2 and 3 of Council Directive [89/397/EEC](https://www.legislation.gov.uk/european/directive/1989/0397) (OJ No. L 186, 30.6.89, p. 23) on the official control of foodstuffs), apply various provisions of the Food Safety Act 1990 and make amendments and revocations (regulations 7 to 11).
+
+A Regulatory Impact Assessment, which includes a compliance cost assessment of the effect that these Regulations would have on business costs, has been prepared and has been placed in the Scottish Parliament Information Centre. Copies may be obtained from the Food Standards Agency, 6th Floor, St Magnus House, 25 Guild Street, Aberdeen AB11 6NJ.
+
+## Annotations
+
+[^c15970221]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16); [section 6(4)](https://www.legislation.gov.uk/ssi/2001/38/section/6/4) was amended by the [Deregulation and Contracting Out Act 1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), [Schedule 9](https://www.legislation.gov.uk/ukpga/1994/40/schedule/9), [paragraph 6](https://www.legislation.gov.uk/ukpga/1994/40/paragraph/6) and by the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28) (“the 1999 Act”), Schedule 5, paragraph 10(3). Sections 16(1) and 48(1) were amended by the 1999 Act, Schedule 5, paragraph 8; [section 17(1)](https://www.legislation.gov.uk/ssi/2001/38/section/17/1) was amended by the 1999 Act, Schedule 5, paragraphs 8 and 12; amendments made by the 1999 Act shall be taken as pre-commencement enactments for the purposes of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) by virtue of section 40(2) of the 1999 Act. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^c15970231]: Marginal citation: [Section 48(4A)](https://www.legislation.gov.uk/ssi/2001/38/section/48/4A) was inserted by paragraph 21 of Schedule 5 to the Food Standards Act 1999.
+
+[^c15970241]: Marginal citation: [Section 48(4B)](https://www.legislation.gov.uk/ssi/2001/38/section/48/4B) was inserted by paragraph 21 of Schedule 5 to the Food Standards Act 1999. 1999.
+
+[^key-28a3b372f87b7a57592860826a5e413e]: Modification: Regulations applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-cb70bfa94691de78d2aff5cdd0bdd929]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 6(a)(i)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/6/a/i)
+
+[^key-e50bdc708517660df7fe898451044550]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 6(a)(ii)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/6/a/ii)
+
+[^key-65983b0308fdea2746d79b5e7912fe93]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/33/regulation/3/2)
+
+[^key-c381e44865b1cb93509b56a7135ffc25]: Textual amendment: Words in reg. 5(1) substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 6(b)(i)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/6/b/i)
+
+[^key-a88917c73a5b396d70d46072c7ee3c3c]: Textual amendment: Words in reg. 5(1)(a) substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 6(b)(ii)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/6/b/ii)
+
+[^key-f3abfa2f7adff5c7c03cfc3db05f3038]: Textual amendment: Words in reg. 5(1)(c) substituted (28.11.2003) by [The Specified Sugar Products (Scotland) Regulations 2003 (S.S.I. 2003/527)](https://www.legislation.gov.uk/ssi/2003/527), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/527/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2003/527/schedule/2) (with [reg. 10](https://www.legislation.gov.uk/ssi/2003/527/regulation/10))
+
+[^key-e2f2eb4f13cc72929db00b94e4083859]: Textual amendment: Words in reg. 5(1)(c) substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 6(b)(iii)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/6/b/iii)
+
+[^key-03b738fb6a5a5ef3f0c6ebb2fc9eea2f]: Textual amendment: Reg. 6 omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 6(c)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/6/c)
+
+[^key-1544e5856be16dd7c5c820713faaf7c9]: Textual amendment: Words in reg. 7(4) substituted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2019/33/regulation/3/3)
+
+[^key-0e8fc921b32993b0ccf2d24cc40fc158]: Textual amendment: Words in reg. 7(4) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [2](https://www.legislation.gov.uk/ssi/2019/407/regulation/2)
+
+[^key-0a938ca2c8d0a55858d5ae9eacfc90ed]: Textual amendment: Reg. 8 omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [3(4)](https://www.legislation.gov.uk/ssi/2019/33/regulation/3/4)
+
+[^key-20291942520f610d02568532c2fde976]: Textual amendment: Reg. 9 revoked (1.1.2006) by [The Official Feed and Food Controls (Scotland) Regulations 2005 (S.S.I. 2005/616)](https://www.legislation.gov.uk/ssi/2005/616), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/616/regulation/1/b), [sch. 6](https://www.legislation.gov.uk/ssi/2005/616/schedule/6)
+
+[^key-df5638f3ec944d199458f2379f68994c]: Textual amendment: Reg. 11(1) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+
+[^c15970291]: Marginal citation: [S.I. 1983/270](https://www.legislation.gov.uk/uksi/1983/270), to which there are amendments not relevant to these Regulations.
+
+[^c15970301]: Marginal citation: [S.I. 1985/1068](https://www.legislation.gov.uk/uksi/1985/1068), to which there are amendments not relevant to these Regulations.
+
+[^c15970311]: Marginal citation: [S.I. 1990/2625](https://www.legislation.gov.uk/uksi/1990/2625), to which there are amendments not relevant to these Regulations.
+
+[^c15970321]: Marginal citation: [S.I. 1991/1476](https://www.legislation.gov.uk/uksi/1991/1476), to which there are amendments not relevant to these Regulations.
+
+[^c15970331]: Marginal citation: [S.I. 1992/2596](https://www.legislation.gov.uk/uksi/1992/2596), to which there are amendments not relevant to these Regulations.
+
+[^c15970341]: Marginal citation: [S.I. 1995/3187](https://www.legislation.gov.uk/uksi/1995/3187), to which there are amendments not relevant to these Regulations.
+
+[^key-bd54d157d64b71813eecc159788cf116]: Textual amendment: Reg. 11(2)(g) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+
+[^c15970351]: Marginal citation: [S.I. 1982/409](https://www.legislation.gov.uk/uksi/1982/409).
+
+[^c15970361]: Marginal citation: [S.I. 1987/2014](https://www.legislation.gov.uk/uksi/1987/2014), as amended by [S.I. 1996/1499](https://www.legislation.gov.uk/uksi/1996/1499).

@@ -1,0 +1,919 @@
+---
+title: The Materials and Articles in Contact with Food (Scotland) Regulations 2012
+id: ssi/2012/318
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-11-22'
+text_date: '2025-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2012/318
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2012/318/pdfs/ssipn_20120318_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/318/pdfs/ssi_20120318_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/318/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Materials and Articles in Contact with Food (Scotland) Regulations 2012
+
+> Text as at 2025-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2012 No. 318
+
+Food
+
+The Materials and Articles in Contact with Food (Scotland) Regulations 2012
+
+Made
+
+22nd November 2012
+
+Laid before the Scottish Parliament
+
+23rd November 2012
+
+Coming into force
+
+22nd December 2012
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 16(2), 17(1) and (2), 26(1)(a), (2)(a) and (3), 31 and 48(1) of the Food Safety Act 1990 [^c21450331], paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c21450341] and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for certain references, to Commission Regulation [(EC) No. 2023/2006](https://www.legislation.gov.uk/european/regulation/2006/2023) on good manufacturing practice for materials and articles intended to come into contact with food [^c21450351] or to any Annex to the EU instruments specified in regulation 2(3), to be construed as references to that Regulation or that Annex as amended from time to time.
+
+In accordance with section 48(4A) of the Food Safety Act 1990, the Scottish Ministers have had regard to relevant advice given by the Food Standards Agency [^c21450361].
+
+There has been consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21450371].
+
+## PART 1 — Preliminary[^key-582c6855a1f3eef797aaff829307b2f4]
+
+### 1. Citation, extent and commencement
+
+These Regulations may be cited as the Materials and Articles in Contact with Food (Scotland) Regulations 2012, extend to Scotland only and come into force on 22nd December 2012.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Food Safety Act 1990;
+- [^key-ac57381a18f0f2f796e4ff908ed5240f]...
+- [^key-b75b2410838e36f51ec9a0f0b4eb78ea]...
+- “**Regulation 1935/2004**” means Regulation (EC) No. 1935/2004 of the European Parliament and of the Council on materials and articles intended to come into contact with food and repealing Directives [80/590/EEC](https://www.legislation.gov.uk/european/directive/1980/0590) and [89/109/EEC](https://www.legislation.gov.uk/european/directive/1989/0109) [^c21450401];
+- “**Regulation 1895/2005**” means Commission Regulation [(EC) No. 1895/2005](https://www.legislation.gov.uk/european/regulation/2005/1895) on the restriction of use of certain epoxy derivatives in materials and articles intended to come into contact with food [^c21450411];
+- “**Regulation 2023/2006**” means Commission Regulation [(EC) No. 2023/2006](https://www.legislation.gov.uk/european/regulation/2006/2023) on good manufacturing practice for materials and articles intended to come into contact with food;
+- “**Regulation 450/2009**” means Commission Regulation [(EC) No. 450/2009](https://www.legislation.gov.uk/european/regulation/2009/0450) on active and intelligent materials and articles intended to come into contact with food [^c21450421];
+- “**Regulation 10/2011**” means Commission Regulation (EU) No. 10/2011 on plastic materials and articles intended to come into contact with food [^c21450431], as amended by Commission Regulation (EU) 2016/1416[^key-7d5073da5fa3dd43d5347694873acfcc];
+- “Regulation 2018/213” means[^key-4a25d87f34a347b36848daf8b98b02d4] [Commission Regulation (EU) No. 2018/21](https://www.legislation.gov.uk/european/regulation/1921/2018)3 on the use of bisphenol A in varnishes and coatings intended to come into contact with food and amending Regulation (EU) No. 10/2011 as regards the use of that substance in plastic food contact materials;
+- “**authorised officer**” means any person, whether or not an officer of the authority concerned, who is authorised in writing by an authority having responsibility for execution and enforcement under regulation 20 to act in matters arising under these Regulations;
+- “**food authority**” means an authority in terms of section 5(2) of the Act; and
+- “**preparation**” includes manufacture and any form of treatment or process, and “**prepare**” is to be construed accordingly.
+
+(2)[^key-806517146984ffb01022640736e1cf42] Expressions used in these Regulations and in Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 450/2009, Regulation 10/2011, or Regulation 2018/213 bear the same meaning in these Regulations as they bear in those Regulations.
+
+(3) Any reference in these Regulations to Regulation 2023/2006 [^key-e0043d63b8a346c76c8c8fbed96e0c0d]... or Regulation 10/2011 is a reference to that Regulation [^key-b1924f07bbc44d752857912962be386e]... as amended from time to time.
+
+### 3. Scope
+
+These Regulations do not apply in relation to those materials and articles specified in Article 1(3) (purpose and subject-matter) of Regulation 1935/2004.
+
+## PART 2 — General requirements for materials and articles
+
+### 4. Offences of contravening specified provisions of Regulation 1935/2004
+
+(1) No person may place on the market or use, in the course of a business in connection with the storage, preparation, packaging, sale or service of food any material or article that does not comply with the requirements of Article 3(1) (general requirements) or Article 4(1), (2), (3) or (4) (special requirements for active and intelligent materials and articles).
+
+(2) No person may place on the market any material or article that does not comply with the requirements of Article 3(2), 4(5) or (6) or 15(1), (3), (4), (7) or (8) as read with Article 15(2) (labelling).
+
+(3) Any person who contravenes paragraph (1) or (2) or Article 11(4) or (5) ([^key-e7f6806069bfe2a64d01e4c91fc2d053]... authorisation) or 17(2) (traceability) commits an offence.
+
+(4) In this regulation a reference to a numbered Article is a reference to that Article in Regulation 1935/2004.
+
+### 5. Offence of contravening Article 4 of Regulation 2023/2006
+
+Any person who fails to comply with the requirements of Article 4 (conformity with good manufacturing practice) of Regulation 2023/2006 commits an offence.
+
+### 6. Competent authorities for the purposes of Regulation 1935/2004 and Regulation 2023/2006
+
+(1) The following bodies are designated as the competent authorities for the purposes of the provisions of Regulation 1935/2004 specified below—
+
+- (a) in respect of Article[^key-ac512bd22f190035ca5c400112c60058] 9 (application for authorisation of a new substance) [^key-bcd75837c018209d27ff09ef0254da3a]..., Food Standards Scotland[^key-75aad039bb593e5f55da27aa1a3db48f]; and
+- (b) in respect of Articles 16[^key-c5f67be37bda953faa10fba2357fe100] (declaration of compliance) and 17(2) (traceability), Food Standards Scotland[^key-996270112578c79598309bd4af4c4d15] and each food authority in its area.
+
+(2) The competent authority for the purposes of Articles 6(2) (quality control system) and 7(3) (documentation) of Regulation 2023/2006 is each food authority in its area.
+
+## PART 3 — Requirements for active and intelligent materials and articles
+
+### 7. Offences of contravening specified provisions of Regulation 450/2009
+
+(1) Subject to the transitional provisions contained in Article 14 (entry into force and application) of Regulation 450/2009, any person who places on the market any active or intelligent material or article which does not comply with the requirements of Article 4 of that Regulation commits an offence [^c21450441].
+
+(2) Any person who fails to comply with the requirements of Article 13 (supporting documentation) of Regulation 450/2009 commits an offence.
+
+### 8. Competent authorities for the purposes of Regulation 450/2009
+
+The competent authorities for the purposes of Article 13 of Regulation 450/2009 are Food Standards Scotland[^key-05e03018b52adbf7a55b53e824b552a6] and each food authority in its area.
+
+## PART 4 — Requirements for ceramic articles[^key-49a9c9be9a1e0dc5eef124d0198e84a4]
+
+### 9. Interpretation of this Part
+
+In this Part—
+
+- (a) “**ceramic article**” means an article, to which Regulation 1935/2004 applies by virtue of its Article 1(2) as read with its Article 1(3), which—
+  - (i) is manufactured from a mixture of inorganic materials with a generally high argillaceous or silicate content to which small quantities of organic materials may have been added;
+  - (ii) is first shaped with the shape thus obtained having been permanently fixed by firing; and
+  - (iii) may be glazed, enamelled and/or decorated; and
+- (b)[^key-3628f47c23c1e45a87a61ca2b09df6f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Limits for lead and cadmium and declaration of compliance[^key-6dd38715b8d780cb27d42246b3d0a03d]
+
+(1) The quantities of lead and cadmium transferred from a ceramic article must not exceed the limits set out in paragraph (5) as read with paragraphs (4) and (6).
+
+(2) Unless it is demonstrated that the materials used to make the ceramic article did not contain lead or cadmium, the quantities of lead and cadmium transferred from a ceramic article must be determined by means of a test, the conditions of which are specified in Schedule 3, using the method of analysis described in Schedule 4.
+
+(3) No person may place on the market a ceramic article that does not comply with the requirements of paragraph (1) as read with paragraph (2).
+
+(4) Where a ceramic article consists of a vessel fitted with a ceramic lid, the lead or cadmium limits (or both) which may not be exceeded (mg/dm<sup>2</sup> or mg/litre) must be that which applies to the vessel alone. The vessel alone and the inner surface of the lid must be tested separately and under the same conditions. The sum of the two lead or cadmium extraction levels obtained by this method must be related as appropriate to the surface area or the volume of the vessel alone.
+
+(5) A ceramic article is to be recognised as satisfying the requirements of these Regulations relating to such articles if the quantities of lead or cadmium (or both) extracted during the test carried out under the conditions laid down in Schedule 3 and Schedule 4 do not exceed the following limits—
+
+|  | *Pb* | *Cd* |
+| --- | --- | --- |
+| Category 1— Articles which cannot be filled and articles which can be filled, the internal depth of which, measured from the lowest point to the horizontal plane passing through the upper rim, does not exceed 25 mm. | 0,8 mg/dm<sup>2</sup> | 0,07 mg/dm<sup>2</sup> |
+| Category 2— All other articles which can be filled. | 4,0 mg/l | 0,3 mg/l |
+| Category 3— Cooking ware; packaging and storage vessels having a capacity of more than three litres. | 1,5 mg/l | 0,1 mg/l |
+
+(6) However, where a ceramic article does not exceed the above quantities by more than 50%, that article is nevertheless to be recognised as satisfying the requirements of these Regulations relating to such articles if at least three other articles with the same shape, dimensions, decoration and glaze are subjected to a test carried out under the conditions laid down in Schedule 3 and Schedule 4 and the average quantities of lead or cadmium (or both) extracted from those articles do not exceed the limits set, with none of those articles exceeding those limits by more than 50%.
+
+### 10A.[^key-0a522065330c405736bd7db5d8506e17]
+
+(1) A person who places on the market a ceramic article which is not yet in contact with foodstuffs must provide a written declaration in accordance with Article 16 of Regulation 1935/2004 to accompany the article at the marketing stages up to and including the retail stage.
+
+(2) The declaration must be issued by the manufacturer or by a seller in Great Britain and must contain the information laid down in Schedule 5.
+
+(3) A person who manufactures or, in the course of a business, imports into Great Britain a ceramic article must on request make available to an authorised officer appropriate documentation to demonstrate that the ceramic article complies with the migration limits for lead and cadmium set out in regulation 10 including—
+
+- (a) the results of the analysis carried out,
+- (b) the test conditions, and
+- (c) the name and the address of the laboratory that performed the testing.
+
+(4) Paragraphs (1), (2) and (3) do not apply in relation to a ceramic article which is second-hand.
+
+(5) The documentation specified in paragraph (3)(a), (b) and (c) is not required where documentary evidence is provided to show that the materials used to make the ceramic article did not contain lead or cadmium.
+
+## PART 5 — Requirements for regenerated cellulose film
+
+### 11. Interpretation of this Part
+
+(1) In this Part—
+
+- (a) “**regenerated cellulose film**” means a thin sheet material obtained from refined cellulose derived from unrecycled wood or cotton, with or without the addition of suitable substances, either in the mass or on one or both surfaces, but does not include synthetic casings of regenerated cellulose;
+- (b) “**URCF**” means uncoated regenerated cellulose film;
+- (c) “**CRCF**” means coated regenerated cellulose film with coating derived from cellulose; and
+- (d) “**PRCF**” means coated regenerated cellulose film with coating consisting of plastics.
+
+(2) This Part applies to regenerated cellulose film which—
+
+- (a) constitutes a finished product in itself; or
+- (b) is part of a finished product containing other materials,
+
+and is intended to come into contact with food or, by being used for that purpose, does come into contact with food.
+
+(3)[^key-8c05c8606c78b14010dca55bd0b79b52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Controls and limits
+
+(1) URCF and CRCF may be manufactured using only the substances or groups of substances listed in schedule 6[^key-03c09ed29740ed22bb3c44c47c4ee834] (list of substances authorised in the manufacture of regenerated cellulose film) and subject to the restrictions set out in that schedule[^key-de107d6bfef27d93b986d65b0a3c8aa6] but, by way of derogation, substances other than those listed in schedule 6 may be used when these substances are employed either as—
+
+- (a) dyes and pigments; or
+- (b) adhesives,
+
+provided that there is no trace of migration of the substances, detectable by a validated method, into or on to foodstuffs.
+
+(2) PRCF may be manufactured, prior to coating, using only substances or groups of substances listed in the first part of schedule 6[^key-25f44ccb05eaed85ce0cab0b13f703c2] and subject to the restrictions set out in that part.
+
+(3) The coating to be applied to PRCF may be manufactured using only substances or groups of substances authorised under[^key-29228b8d049db014809405848d50cbf7] Regulation 10/2011 and subject to the restrictions in the authorisations concerned[^key-c0b47a67646b908cdf7efa4d8b6391b7].
+
+(4) Materials and articles made of PRCF must comply with Article 12 (overall migration limit) as read with Article 17 (expression of migration test results) and Article 18 (rules for assessing compliance with migration limits) of Regulation 10/2011.
+
+(5) Printed surfaces of regenerated cellulose film must not come into contact with foodstuffs.
+
+(6) Any material or article made of regenerated cellulose film that is not by its nature clearly intended to come into contact with food must, at a marketing stage other than the retail stage, be accompanied by a written declaration attesting that it complies with the legislation applicable to it.
+
+(7) Where special conditions of use are indicated, the material or article made of regenerated cellulose film must be labelled accordingly.
+
+(8) No person may place on the market any regenerated cellulose film which has been manufactured in contravention of the requirements of paragraphs (1) to (4), or which fails to comply with paragraphs (5), (6) or (7).
+
+## PART 6 — Requirements for plastic materials and articles
+
+### 13. Interpretation of Part 6 and Schedule 1
+
+In this Part and in Schedule 1 any reference to a numbered Article or Annex is a reference to that Article of or Annex to Regulation 10/2011.
+
+### 14. Offences of contravening specified provisions of Regulation 10/2011
+
+(1) Subject to the transitional arrangements set out in Article 22(5)[^key-f2313de48e5bf3f395357f3f958ee5ce] and Article 23 [^c21450451], any person who places on the market a plastic material or article that fails to comply with a requirement of Regulation 10/2011 specified in column 1 of Schedule 1 commits an offence.
+
+(2) Any person who fails to comply with the second sentence of Article 8 (general requirements on substances) or, subject to transitional arrangements set out in Article 22(1), (2) and (3) [^c21450461], with Article 16 (supporting documents) commits an offence.
+
+### 15. Competent authorities for the purposes of Regulation 10/2011[^key-23370739222fd91c1ab675e487f63c26]
+
+The competent authorities for the purposes of Regulation 10/2011—
+
+- (a) Article 8 (general requirement on substances), and
+- (b) Article 16(1) (supporting documents),
+
+are Food Standards Scotland and each food authority in its area.
+
+## PART 7 — Requirements for certain epoxy derivatives
+
+### 16. Restrictions on the use of certain epoxy derivatives (BADGE, BFDGE and NOGE)
+
+(1) In this Part—
+
+- (a) any reference to a numbered Article or Annex is a reference to that Article or Annex in Regulation 1895/2005; and
+- (b) paragraphs (2) and (3) are subject to Article 1(3) (scope) [^c21450471].
+
+(2) Subject to Article 6(1), (2) and (4) (transitional provisions) [^c21450481], no person may place on the market or use, in the course of a business in connection with the storage, preparation, packaging, sale or service of food—
+
+- (a) any material or article in contravention of Article 3 (prohibition on use or presence of BFDGE) or Article 4 (prohibition on use or presence of NOGE); or
+- (b) any material or article that fails to comply with the restrictions contained in Article 2 (BADGE) as read with Annex I (specific migration limit for BADGE and certain of its derivatives).
+
+(3) Subject to Article 6(3) [^c21450491], no person may place on the market any material or article which fails to comply with the requirements of Article 5 (written declaration) [^c21450501].
+
+(4) Any person who contravenes paragraph (2) or (3) commits an offence.
+
+### 17. Competent authorities for the purposes of Regulation 1895/2005
+
+The competent authority for the purpose of Article 6(4) is each food authority in its area.
+
+## PART 7A — Requirements for bisphenol A[^key-a0916e3f022d4d180bfd128b9d405bee]
+
+### 17A. Interpretation of Part 7A
+
+In this Part any reference to a numbered Article is a reference to that Article so numbered in Regulation 2018/213.
+
+### 17B. Offences of contravening specified provisions of Regulation 2018/213
+
+Subject to Article 6, no person shall place on the market any varnished or coated material or article that does not comply with the requirements of Article 2.
+
+### 17C. Competent authorities for the purposes of Regulation 2018/213
+
+The national competent authority for the purposes of Article 4(3) is Food Standards Scotland and each food authority in its area.
+
+## PART 8 — Requirements for vinyl chloride
+
+### 18. Requirements for vinyl chloride
+
+(1) Materials and articles, other than those materials and articles controlled by Regulation 10/2011, which are manufactured with vinyl chloride polymers or copolymers—
+
+- (a) must not contain vinyl chloride monomer in a quantity exceeding 1 milligram per kilogram of the material or article; and
+- (b) must be manufactured in such a way that they do not transfer to foods with which they are in contact any quantity of vinyl chloride exceeding 0.01 milligrams of vinyl chloride per kilogram of food.
+
+(2) No person may—
+
+- (a) place on the market; or
+- (b) use in the course of a business in connection with the storage, preparation, packaging, selling or service of food,
+
+any material or article that does not comply with paragraph (1).
+
+## PART 9 — Enforcement
+
+### 19. Offences and penalties
+
+(1) Any person who contravenes the provisions of regulation 10(3) or (4), 12(8) , 17B[^key-fae0dbf22703ff6b2a64340d2b09c30f] or 18(2) commits an offence.
+
+(2) Any person who intentionally obstructs any person acting in the execution of Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 450/2009, Regulation 10/2011 , Regulation 2018/213[^key-afbed4f8a2a32c7c87dd790ab06d01f3] or these Regulations commits an offence.
+
+(3) Any person who, without reasonable excuse, fails to provide any assistance or information that a[^key-791e39038a76d7d62777826ecdbc83ff] person may reasonably require for the performance of their functions under the Regulations mentioned in paragraph (2) or fails to comply with regulation 10(6) commits an offence.
+
+(4) Any person who, in purported compliance with any requirement mentioned in paragraph (3), knowingly or recklessly supplies information that is false or misleading in any material particular, commits an offence.
+
+(5) Any person who commits an offence under these Regulations is liable—
+
+- (a) in the case of an offence created by paragraph (1) or (4) or regulation 4(3), 5, 7(1), 14(1) or 16(4)—
+  - (i) on conviction on indictment to a fine or to imprisonment for a term not exceeding two years or both; or
+  - (ii) on summary conviction to a fine not exceeding the statutory maximum; and
+- (b) in the case of an offence created by paragraph (2) or (3) or regulation 7(2) or 14(2), on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(6) Nothing in paragraph (2) or (3) is to be construed as requiring any person to answer any question or give any information if to do so might incriminate them.
+
+### 20. Execution and enforcement[^key-b152513b55dbe06a51cdd995980deba1]
+
+(1) Each food authority in its area must execute and enforce—
+
+- (a) Regulation 1935/2004, Regulation 1895/2005, Regulation 450/2009 , Regulation 10/2011 and Regulation 2018/213[^key-4afa25a051e58505eb6e66f815588680];
+- (b) the provisions of Regulation 2023/2006 specified in regulation 5; and
+- (c) these Regulations.
+
+(2) Food Standards Scotland[^key-668474af68728379f734b865d3eecc5c] may also execute and enforce—
+
+- (a) Articles  16[^key-2a1c864b156aec61fe0587eebc925994] and 17(2) of Regulation 1935/2004; [^key-1a2928655615ce615baa7b6b3ad93db6]...
+- (b) Article 13 of Regulation 450/2009,[^key-cad625c742b61eea077909a6501fb08b]
+- (c)[^key-6b88b200efd7233240c7fc8ca9ca6666] Article 16(1) of Regulation 10/2011, and
+- (d) Article 4(3) of Regulation 2018/213.
+
+### 21. Offences by corporate bodies or Scottish partnerships
+
+(1) Where an offence under these Regulations which has been committed by a body corporate is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of—
+
+- (a) any director, manager, secretary or other similar officer of the body corporate; or
+- (b) any person purporting to act in such a capacity,
+
+that individual as well as the body corporate is deemed to have committed that offence and liable to be proceeded against and punished accordingly.
+
+(2) Where an offence under these Regulations which has been committed by a Scottish partnership is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of a partner, that partner as well as the partnership shall be deemed to have committed that offence and liable to be proceeded against and punished accordingly.
+
+### 22. Offences due to the act or default of a third party
+
+Where the commission by any person of an offence under these Regulations is due to the act or default of some other person, that other person has also committed the offence; and a person may be charged with and convicted of the offence whether or not proceedings are taken against the first mentioned person.
+
+### 23. Time limit for prosecutions
+
+(1) No prosecution for an offence under these Regulations is to be begun after the expiry of 3 years from the commission of the offence or one year from its discovery by the prosecutor, whichever is the earlier.
+
+(2) Paragraph (1) does not apply to an offence under regulation 7(2), 14(2) , 19(2), (3) or (4)[^key-566590265314b2f2add28ac1a602c03a].
+
+### 24. General defences
+
+(1) In any proceedings for an offence under these Regulations it is, subject to paragraph (5), a defence to prove that the person accused (“the accused”) took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by the accused or by a person under the control of the accused.
+
+(2) Without prejudice to the generality of paragraph (1), a person accused of an offence under regulation 4(3), 7(1), 14(1), 16(4) , 17B[^key-b1a000fb1f340207c59fa5ed621cbfcc] or 19(1) who did not import or prepare the material or article in respect of which the offence is alleged to have been committed is to be taken to have established the defence provided by paragraph (1) if the requirements of paragraphs (3) or (4) are satisfied.
+
+(3) The requirements of this paragraph are satisfied if it is proved that—
+
+- (a) the commission of the offence was due to the act or default of some other person who was not under the control of the accused, or to reliance on information supplied by such a person;
+- (b) either—
+  - (i) the accused carried out all such checks of the material or article in question as were reasonable in all the circumstances, or
+  - (ii) it was reasonable in all the circumstances for the accused to rely on checks carried out by the person who supplied the accused with that material or article; and
+- (c) the accused did not know and had no reason to suspect at the time the offence was committed that the act or omission would amount to an offence under these Regulations.
+
+(4) The requirements of this paragraph are satisfied if the offence is one of placing on the market and it is proved that—
+
+- (a) the commission of the offence was due to the act or default of some other person who was not under the control of the accused, or to reliance on information supplied by such a person;
+- (b) the placing on the market of which the offence consisted was not done under the name or mark of the accused; and
+- (c) the accused did not know and could not reasonably be expected to know at the time the offence was committed that the act or omission would amount to an offence under these Regulations.
+
+(5) If in any case the defence provided by this regulation involves the allegation that the commission of the offence was due to the act or default of another person, or to reliance on information supplied by another person, the accused is not without leave of the court entitled to rely on that defence unless—
+
+- (a) at least 7 clear days before the hearing; and
+- (b) where the accused has previously appeared before the court in connection with the alleged offence, within one month of the first such appearance,
+
+the accused has served on the prosecutor a written notice giving such information identifying or assisting in the identification of that other person as was then in the possession of the accused.
+
+### 25. Procedure where a sample is to be analysed
+
+(1) An authorised officer who has procured a sample under section 29 of the Act and who considers it should be analysed must divide the sample into 3 parts.
+
+(2) If the sample consists of sealed containers and opening them would, in the opinion of the authorised officer, impede a proper analysis, the authorised officer must divide the sample into parts by putting the containers into 3 lots, and each lot is to be treated as being a part.
+
+(3) The authorised officer must—
+
+- (a) if necessary place each part in a suitable container and seal it;
+- (b) mark each part or container;
+- (c) as soon as is reasonably practicable, give one part to the owner and notify the owner in writing that the sample will be analysed;
+- (d) submit one part for analysis in accordance with section 30 of the Act; and
+- (e) retain one part for future submission under regulation 26.
+
+### 26. Secondary analysis by the Government Chemist
+
+(1) Where a sample has been retained under regulation 25(3)(e) and—
+
+- (a) a decision has been made to send a report to the procurator fiscal or proceedings have been commenced against a person for an offence under these Regulations; and
+- (b) the result of the analysis carried out in accordance with regulation 25(3)(d) is to be adduced as evidence,
+
+paragraphs (2) to (8) apply.
+
+(2) The authorised officer—
+
+- (a) may of the officer's own volition; or
+- (b) must—
+  - (i) if requested by the prosecutor;
+  - (ii) if the court so orders; or
+  - (iii) (subject to paragraph (6)) if requested by the accused,
+
+send the retained part of the sample to the Government Chemist for analysis.
+
+(3) The Government Chemist must analyse the part sent under paragraph (2) and send to the authorised officer a certificate specifying the results of the analysis.
+
+(4) Any certificate of the results of analysis transmitted by the Government Chemist must be signed by or on behalf of the Government Chemist, but the analysis may be carried out by any person under the direction of the person who signs the certificate.
+
+(5) The authorised officer must immediately on receipt supply the prosecutor and the accused with a copy of the Government Chemist's certificate of analysis.
+
+(6) Where a request is made under paragraph (2)(b)(iii) the authorised officer may give notice in writing to the accused requesting payment of a fee specified in the notice to defray some or all of the Government Chemist's charges for performing the functions under paragraph (3), and in the absence of agreement by the accused to pay the fee specified in the notice the authorised officer may refuse to comply with the request.
+
+(7) Any certificate transmitted by or on behalf of the Government Chemist in accordance with paragraph (4) is to be taken as sufficient evidence of the facts stated therein unless any party to the proceedings requests that the person by whom the certificate is signed be called as a witness.
+
+(8) In this regulation, “**the accused**” includes a person in respect of whom an authorised officer intends to submit a report to the procurator fiscal.
+
+### 27. Application of various provisions of the Act
+
+(1) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations—
+
+- (a) section 2 (extending meaning of “sale” etc); and
+- (b) section 30(8) (analysis etc. of samples) [^c21450511].
+
+(2) In the application of section 32 of the Act (powers of entry) for the purposes of these Regulations, the reference to the Act in subsection (1) is to be construed as including a reference to Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 450/2009 , Regulation 10/2011 or Regulation 2018/213[^key-61cd6ae81e3edcb65b6ea9a0d1dcaf81], as appropriate.
+
+(3) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act is to be construed as including a reference to Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 450/2009 , Regulation 10/2011 or Regulation 2018/213[^key-3c8cd7abc06ae3f859656edc428a8cc7], as appropriate, and to these Regulations—
+
+- (a) section 3 (presumptions that food intended for human consumption) with the modifications that the references to “sold” and “sale” are to be deemed to include references to “placed on the market” and “placing on the market” respectively; and
+- (b) section 44 (protection of officers acting in good faith).
+
+## PART 10 — General and supplementary
+
+### 28. Consequential amendment to the Food Safety (Sampling and Qualifications) Regulations 1990[^key-b975fc525a28538f3dc669c8892b1b2a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Amendment to the Food Labelling Regulations 1996[^key-cc017495196a811fbe4c791584bda8e5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Revocations
+
+The Regulations specified in Schedule 2 are revoked.
+
+MICHAEL MATHESON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — SPECIFIED PROVISIONS OF REGULATION 10/2011
+
+Regulation 14(1)
+
+| *Specified provision* | *Subject matter* |
+| --- | --- |
+| Article 4(e) as read with Articles 17 and 18 | Prohibition on placing on the market plastic materials or articles if they do not meet specified compositional and declaration requirements |
+| Article 5(1) [^key-bf4f05e71e4dfa8ec77f38cb3db36bf9]..., as read with Article 6 | Requirement, subject to certain derogations, to use only authorised substances in the manufacture of plastic layers in plastic materials and articles |
+| Article 8, first sentence | General quality and purity standards that must be observed for substances used in the manufacture of plastic layers in plastic materials and articles |
+| Article 9 [^key-b0189cc33c0bfcc03ca4bdde088347d3]... | Particular restrictions and specifications for substances used in the manufacture of plastic layers in plastic materials and articles |
+| Article 10 as read with Annex II | General restrictions on plastic materials and articles |
+| Article 11(1)[^key-12095e83c98bfb4c1e7cd5078b43e05e] [^key-bf4f05e71e4dfa8ec77f38cb3db36bf9]..., as read with Article 11(3) and (4) | Specific limits on the degree to which constituents of plastic materials and articles are permitted to migrate into foods |
+| Article 12 | Overall limits on the permitted level of migration of the constituents of plastic materials and articles into food simulants |
+| Article 13(1),(3),(4) and (5) [^key-bf4f05e71e4dfa8ec77f38cb3db36bf9]..., as read with Article 13(2) | Particular restrictions and specifications for the composition of each plastic layer in plastic multi-layer materials and articles |
+| Article 14(1) and (5) [^key-bf4f05e71e4dfa8ec77f38cb3db36bf9]..., as read with Article 14(2), (3) and (4) | Particular restrictions and specifications for the composition of each plastic layer in multi-material multi-layer materials and articles |
+| Article 15 and Annex IV | Requirements that written declaration of compliance for plastic materials and articles, for products from the intermediate stages of their manufacture and for substances intended for the manufacture of those materials or articles should be available at the marketing stages other than the retail stage |
+
+## SCHEDULE 2 — REVOCATIONS
+
+Regulation 30
+
+| *Regulations revoked* | *References* |
+| --- | --- |
+| The Ceramic Articles in Contact with Food (Scotland) Regulations 2006 | S.S.I. 2006/230 |
+| The Plastic Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2008 | S.S.I. 2008/261 |
+| The Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2009 | S.S.I. 2009/30 |
+| The Materials and Articles in Contact with Food (Scotland) Regulations 2010 | S.S.I. 2010/327 |
+| The Plastic Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2011 | S.S.I. 2011/100 |
+
+## SCHEDULE 3 — BASIC RULES FOR DETERMINING THE MIGRATION OF LEAD AND CADMIUM[^key-06f7d790dc18c5b269bd67b1e0540c56][^key-70c52561a90502200138b4d96140c550]
+
+Regulation 10
+
+**1.** **Test liquid (‘simulant’)** 4 % (v/v) acetic acid, in a freshly prepared aqueous solution.
+
+**2.** **Test conditions**
+
+- (a) Carry out the test at a temperature of 22 ± 2 °C for a duration of 24 ± 0,5 hours
+- (b) When the migration of lead is to be determined, cover the sample by an appropriate means of protection and expose it to the usual lighting conditions in a laboratory. When the migration of cadmium or of lead and cadmium is to be determined, cover the sample so as to ensure that the surface to be tested is kept in total darkness.
+
+**3.** **Filling**
+
+- (a) Samples which can be filled—
+
+  Fill the article with a 4 % (v/v) acetic acid solution to a level no more than 1 mm from the overflow point; the distance is measured from the upper rim of the sample. Samples with a flat or slightly sloping rim should be filled so that the distance between the surface of the liquid and the overflow point is no more than 6 mm measured along the sloping rim.
+- (b) Samples which cannot be filled—
+
+  The surface of the sample which is not intended to come into contact with foodstuffs is first covered with a suitable protective layer able to resist the action of the 4 % (v/v) acetic acid solution. The sample is then immersed in a recipient containing a known volume of acetic acid solution in such a way that the surface intended to come into contact with foodstuffs is completely covered by the test liquid.
+
+**4.** **Determination of the surface area** The surface area of the articles in category 1 in regulation 10(5) is equal to the surface area of the meniscus formed by the free liquid surface obtained by complying with the filling requirements set out in paragraph 3.
+
+## SCHEDULE 4 — METHODS OF ANALYSIS FOR DETERMINATION OF THE MIGRATION OF LEAD AND CADMIUM[^key-007a7cea3fb60337aff876d22a7eb412]
+
+Regulation 10
+
+### 1. Object and field of application[^key-007a7cea3fb60337aff876d22a7eb412]
+
+The method allows the specific migration of lead or cadmium (or both) to be determined.
+
+### 2. Principle[^key-007a7cea3fb60337aff876d22a7eb412]
+
+The determination of the specific migration of lead or cadmium (or both) is carried out by an instrumental method of analysis that fulfils the performance criteria of paragraph 4.
+
+### 3. Reagents[^key-007a7cea3fb60337aff876d22a7eb412]
+
+All reagents must be of analytical quality, unless otherwise specified.
+
+Where reference is made to water, it shall always mean distilled water or water of equivalent quality.
+
+- (a) 4 % (v/v) acetic acid, in aqueous solution.
+
+Add 40 ml of glacial acetic acid to water and make up to 1 000 ml.
+
+- (b) Stock solutions.
+
+Prepare stock solutions containing 1 000 mg/litre of lead and at least 500 mg/litre of cadmium respectively in a 4 % acetic acid solution, as referred to in paragraph 3(a).
+
+**4.** **Performance criteria of the instrumental method of analysis**
+
+- (a) The detection limit for lead and cadmium must be equal to or lower than— 0,1 mg/litre for lead, 0,01 mg/litre for cadmium.
+
+  The detection limit is defined as the concentration of the element in the 4 % acetic acid solution, as referred to in paragraph 3(a) which gives a signal equal to twice the background noise of the instrument.
+- (b) The limit of quantification for lead and cadmium must be equal to or lower than— 0,2 mg/litre for lead, 0,02 mg/litre for cadmium.
+- (c) Recovery - the recovery of lead and cadmium added to the 4 % acetic acid solution, as referred to in paragraph 3(a) must lie within 80-120 % of the added amount.
+- (d) Specificity - the instrumental method of analysis used must be free from matrix and spectral interferences.
+
+**5.** **Method**
+
+- (a) Preparation of the sample
+
+  The sample must be clean and free from grease or other matter likely to affect the test.
+
+  Wash the sample in a solution containing a household liquid detergent at a temperature of approximately 40 °C. Rinse the sample first in tap-water and then in distilled water or water of equivalent quality. Drain and dry so as to avoid any stain. The surface to be tested is not to be handled after it has been cleaned.
+- (b) Determination of lead or cadmium (or both)
+
+  The sample prepared in accordance with paragraph 5(a) is tested under the conditions laid down in schedule 3.
+
+  Before taking the test solution for determining lead or cadmium (or both), homogenise the content of the sample by an appropriate method, which avoids any loss of solution or abrasion of the surface being tested.
+
+  Carry out a blank test on the reagent used for each series of determinations.
+
+  Carry out determinations for lead or cadmium (or both) under appropriate conditions.
+
+## SCHEDULE 5 — DECLARATION OF COMPLIANCE[^key-6e1af8c420dc27b4763b496d17bc2c91]
+
+Regulation 10
+
+**1.** The declaration referred to in regulation 10A must contain the following information—
+
+- (a) the identity and address of the company which manufactures the finished ceramic article and of the importer who imports it into the United Kingdom,
+- (b) the identity of the ceramic article,
+- (c) the date of the declaration, and
+- (d) the confirmation that the ceramic article meets relevant requirements in these Regulations and Regulation [(EC) No 1935/2004](https://www.legislation.gov.uk/eur/2004/1935).
+
+**2.** The declaration must permit an easy identification of the goods for which it is issued and shall be renewed when substantial changes in the production bring about changes in the migration of lead and cadmium.
+
+## SCHEDULE 6 — LIST OF SUBSTANCES AUTHORISED IN THE MANUFACTURE OF REGENERATED CELLULOSE FILM[^key-7771458dce66b14e63644d5e96486c0c]
+
+Regulation 12(1)
+
+**1.** In this schedule “**regenerated cellulose film**” means a thin sheet material obtained from a refined cellulose derived from unrecycled wood or cotton. To meet technical requirements, suitable substances may be added either in the mass or on the surface. Regenerated cellulose film may be coated on one or both sides.
+
+**2.** Notes—
+
+—The percentages in this schedule, in the first and second parts, are expressed in weight/weight (w/w) and are calculated in relation to the quantity of anhydrous uncoated regenerated cellulose film.
+
+—The usual technical denominations are given in square brackets.
+
+—The substances used shall be of good technical quality as regards the purity criteria.
+
+First Part: Uncoated regenerated cellulose film
+
+<table>
+<thead>
+<tr><th><strong>Denominations</strong></th><th><strong>Restrictions</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>A. Regenerated cellulose</td><td>Not less than 72% (w/w).</td></tr>
+<tr><td colspan="2">B. Additives</td></tr>
+<tr><td>1. Softeners</td><td>Not more than 27% (w/w) in total.</td></tr>
+<tr><td>—Bis (2-hydroxyethyl) ether [= diethyleneglycol]</td><td>Only for films intended to be coated and then used for foodstuffs which are not moist, namely which do not contain water which is physically free at the surface. The total amount of bis(2-hydroxyethyl)ether and ethanediol present in foodstuffs that have been in contact with film of this type may not exceed 30 mg/kg of the foodstuff.</td></tr>
+<tr><td>—Ethanediol [= monoethyleneglycol]</td><td></td></tr>
+<tr><td>—1.3-butanediol</td><td></td></tr>
+<tr><td>—Glycerol</td><td></td></tr>
+<tr><td>—1.2-propanediol [= 1.2 propyleneglycol]</td><td></td></tr>
+<tr><td>—Polyethylene oxide [= polyethyleneglycol]</td><td>Average molecular weight between 250 and 1200.</td></tr>
+<tr><td>—1.2-polypropylene oxide [= 1.2 polypropyleneglycol]</td><td>Average molecular weight not greater than 400 and free 1.3-propanediol content not greater than 1% (w/w) in substance.</td></tr>
+<tr><td>—Sorbitol</td><td></td></tr>
+<tr><td>—Tetraethyleneglycol</td><td></td></tr>
+<tr><td>—Triethyleneglycol</td><td></td></tr>
+<tr><td>—Urea</td><td></td></tr>
+<tr><td><em>2.</em> Other additives</td><td>Not more than 1% (w/w) in total.</td></tr>
+<tr><td>First class</td><td>The quantity of the substance or group of substances in each indent may not exceed 2 mg/dm<sup>2</sup> of the uncoated film.</td></tr>
+<tr><td>—Acetic acid and its NH4, Ca, Mg, K and Na salts</td><td></td></tr>
+<tr><td>—Ascorbic acid and its NH4, Ca, Mg, K and Na salts</td><td></td></tr>
+<tr><td>—Benzoic acid and sodium benzoate</td><td></td></tr>
+<tr><td>—Formic acid and its NH4, Ca, Mg, K and Na salts</td><td></td></tr>
+<tr><td>—Linear fatty acids, saturated or unsaturated, with an even number of carbon atoms from 8 to 20 inclusive and also behenic and ricinoleic acids and the NH4, Ca, Mg, K, Na, Al, Zn salts of these acids</td><td></td></tr>
+<tr><td>—Citric, d- and l-lactic, maleic, l-tartaric acids and their Na and K salts</td><td></td></tr>
+<tr><td>—Sorbic acid and its NH4, Ca, Mg, K and Na salts</td><td></td></tr>
+<tr><td>—Amides of linear fatty acids, saturated or unsaturated, with an even number of carbon atoms from 8 to 20 inclusive and also the amides of behenic and ricinoleic acids</td><td></td></tr>
+<tr><td>—Natural edible starches and flours</td><td></td></tr>
+<tr><td>—Edible starches and flours modified by chemical treatment</td><td></td></tr>
+<tr><td>—Amylose</td><td></td></tr>
+<tr><td>—Calcium and magnesium carbonates and chlorides</td><td></td></tr>
+<tr><td>—Esters of glycerol with linear fatty acids, saturated or unsaturated, with an even number of carbon atoms from 8 to 20 inclusive and/or with adipic, citric, 12-hydroxystearic (oxystearin), ricinoleic acids</td><td></td></tr>
+<tr><td>—Esters of polyoxyethylene (8 to 14 oxyethylene groups) with linear fatty acids, saturated or unsaturated, with an even number of carbon atoms from 8 to 20 inclusive</td><td></td></tr>
+<tr><td>—Esters of sorbitol with linear fatty acids, saturated or unsaturated, with an even number of carbon atoms from 8 to 20 inclusive</td><td></td></tr>
+<tr><td>—Mono-and/or di-esters of stearic acid with ethanediol and/or bis (2-hydroxyethyl) ether and/or triethylene glycol</td><td></td></tr>
+<tr><td>—Oxides and hydroxides of aluminium, calcium, magnesium and silicon and silicates and hydrated silicates of aluminium, calcium, magnesium and potassium</td><td></td></tr>
+<tr><td>—Polyethylene oxide [= polyethyleneglycol]</td><td>Average molecular weight between 1200 and 4000.</td></tr>
+<tr><td>—Sodium propionate</td><td></td></tr>
+<tr><td>Second class</td><td>The total quantity of the substances may not exceed 1 mg/dm<sup>2</sup> of the uncoated film and the quantity of the substance or group of substances in each indent may not exceed 0.2 mg/dm<sup>2</sup> (or a lower limit where one is specified) of the uncoated film.</td></tr>
+<tr><td>—Sodium alkyl (C8-C18) benzene sulphonate</td><td></td></tr>
+<tr><td>—Sodium isopropyl naphthalene sulphonate</td><td></td></tr>
+<tr><td>—Sodium alkyl (C8-C18) sulphate</td><td></td></tr>
+<tr><td>—Sodium alkyl (C8-C18) sulphonate</td><td></td></tr>
+<tr><td>—Sodium dioctylsulphosuccinate</td><td></td></tr>
+<tr><td>—Distearate of dihydroxyethyl diethylene triamine monoacetate</td><td>Not more than 0.05 mg/dm<sup>2</sup> of the uncoated film.</td></tr>
+<tr><td>—Ammonium, magnesium and potassium lauryl sulphates</td><td></td></tr>
+<tr><td>—N,N′-distearoyl diaminoethane, N,N′-dipalmitoyl diaminoethane and N,N′-dioleoyl diaminoethane</td><td></td></tr>
+<tr><td>—2-heptadecyl-4.4-bis(methylene-stearate) oxazoline</td><td></td></tr>
+<tr><td>—Polyethylene-aminostearamide ethylsulphate</td><td>Not more than 0.1 mg/dm<sup>2</sup> of the uncoated film.</td></tr>
+<tr><td>Third class — Anchoring agent</td><td>The total quantity of substances may not exceed 1 mg/dm<sup>2</sup> of the uncoated film.</td></tr>
+<tr><td>—Condensation product of melamine-formaldehyde unmodified, or which may be modified with one or more of the following products:<br>butanol, diethylenetriamine, ethanol, triethylenetetramine, tetraethylenepentamine, tri-(2-hydroxyethyl) amine, 3.3′-diaminodipropylamine, 4.4′-diaminodibutylamine</td><td>Free formaldehyde content not greater than 0.5 mg/dm<sup>2</sup> of the uncoated film.<br>Free melamine content not greater than 0.3 mg/dm<sup>2</sup> of the uncoated film.</td></tr>
+<tr><td>—Condensation product of melamine-urea-formaldehyde modified with tris-(2-hydroxyethyl)amine</td><td>Free formaldehyde content not greater than 0.5 mg/dm<sup>2</sup> of the uncoated film.<br>Free melamine content not greater than 0.3 mg/dm<sup>2</sup> of the uncoated film.</td></tr>
+<tr><td>—Cross-linked cationic polyalkyleneamines:<br>(a) polyamide-epichlorhydrin resin based on diaminopropylmethylamine and epichlorhydrin,<br>(b) polyamide-epichlorhydrin resin based on epichlorhydrin, adipic acid, caprolactam, diethylenetriamine and/or ethylenediamine,<br>(c) polyamide-epichlorhydrin resin based on adipic acid, diethylenetriamine and epichlorhydrin, or a mixture of epichlorhydrin and ammonia,<br>(d) polyamide-polyamine-epichlorhydrin resin based on epichlorhydrin, dimethyl adipate and diethylenetriamine,<br>(e) polyamide-polyamine-epichlorhydrin resin based on epichlorhydrin, adipamide and diaminopropylmethylamine</td><td>In accordance with relevant legislation.</td></tr>
+<tr><td>—Polyethyleneamines and polyethyleneimines</td><td>Not more than 0.75 mg/dm<sup>2</sup> of the uncoated film.</td></tr>
+<tr><td>—Condensation product of urea-formaldehyde unmodified, or which may be modified with one or of the following products:<br>aminomethylsulphonic acid, sulphanilic acid, butanol, diaminobutane, diaminodiethylamine, diaminodipropylamine, diaminopropane, diethylenetriamine, ethanol, guanidine, methanol, tetraethylenepentamine, triethylenetetramine, sodium sulphite</td><td>Free formaldehyde content not greater than 0.5 mg/dm<sup>2</sup> of the uncoated film.</td></tr>
+<tr><td>Fourth class</td><td>The total quantity of substances may not exceed 0.01 mg/dm<sup>2</sup> of the uncoated film.</td></tr>
+<tr><td>—Products resulting from the reaction of the amines of edible oils with polyethylene oxide,</td><td></td></tr>
+<tr><td>—Monoethanolamine lauryl sulphate</td><td></td></tr>
+</tbody>
+</table>
+
+Second Part: Coated regenerated cellulose film
+
+<table>
+<thead>
+<tr><th><strong>Denominations</strong></th><th><strong>Restrictions</strong></th></tr>
+<tr><th></th><th></th></tr>
+</thead>
+<tbody>
+<tr><td>A. Regenerated cellulose</td><td>See first part.</td></tr>
+<tr><td>B. Additives</td><td>See first part.</td></tr>
+<tr><td>C. Coating</td><td></td></tr>
+<tr><td>1. Polymers</td><td>The total quantity of substances may not exceed 50 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>—Ethyl, hydroxyethyl, hydroxypropyl and methyl ethers of cellulose</td><td></td></tr>
+<tr><td>—Cellulose nitrate</td><td>Not more than 20 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs; nitrogen content between 10.8% (w/w) and 12.2% (w/w) in the cellulose nitrate.</td></tr>
+<tr><td>2. Resins</td><td>The total quantity of substances may not exceed 12.5 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs and solely for the preparation of regenerated cellulose films with cellulose nitrate based coatings.</td></tr>
+<tr><td>—Casein</td><td></td></tr>
+<tr><td>—Colophony and/or its products of polymerization, hydrogenation, or disproportionation and their esters of methyl, ethyl or C2 to C6 polyvalent alcohols, or mixtures of these alcohols</td><td></td></tr>
+<tr><td>—Colophony and/or its products of polymerization, hydrogenation, or disproportionation condensed with acrylic, maleic, citric, fumaric and/or phthalic acids and/or 2.2 bis (4-hydroxyphenyl) propane formaldehyde and esterified with methyl ethyl or C2 to C6 polyvalent alcohols or mixtures of these alcohols</td><td></td></tr>
+<tr><td>—Esters derived from bis(2-hydroxyethyl) ether with addition products of betapinene and/or dipentene and/or diterpene and maleic anhydride</td><td></td></tr>
+<tr><td>—Edible gelatine</td><td></td></tr>
+<tr><td>—Castor oil and its products of dehydration or hydrogenation and its condensation products with polyglycerol, adipic, citric, maleic, phthalic and sebacic acids</td><td></td></tr>
+<tr><td>—Natural gum [= damar]</td><td></td></tr>
+<tr><td>—Poly-beta-pinene [= terpenic resins]</td><td></td></tr>
+<tr><td>—Urea-formaldehyde resins (see anchoring agents)</td><td></td></tr>
+<tr><td>3. Plasticisers</td><td>The total quantity of substances may not exceed 6 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>—Acetyl tributyl citrate</td><td></td></tr>
+<tr><td>—Acetyl tri(2-ethylhexyl) citrate</td><td></td></tr>
+<tr><td>—Di-isobutyl adipate</td><td></td></tr>
+<tr><td>—Di-n-butyl adipate</td><td></td></tr>
+<tr><td>—Di-n-hexyl azelate</td><td></td></tr>
+<tr><td>—Dicyclohexyl phthalate</td><td>Not more than 4.0 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>—2-ethylhexyl diphenyl phosphate (synonym: phosphoric acid diphenyl 2 ethylhexyl ester)</td><td>The amount of 2-ethylhexyl diphenyl phosphate is not to exceed:<br>(a) 2.4 mg/kg of the foodstuff in contact with this type of film, or<br>(b) 0.4 mg/dm<sup>2</sup> in the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>—Glycerol monoacetate [= monoacetin]</td><td></td></tr>
+<tr><td>—Glycerol diacetate [= diacetin]</td><td></td></tr>
+<tr><td>—Glycerol triacetate [= triacetin]</td><td></td></tr>
+<tr><td>—Di-butyl sebacate</td><td></td></tr>
+<tr><td>—Di-n-butyl tartrate</td><td></td></tr>
+<tr><td>—Di-isobutyl tartrate</td><td></td></tr>
+<tr><td>4. Other additives</td><td>The total quantity of substances are not to exceed 6 mg/dm<sup>2</sup> in the uncoated regenerated cellulose film, inclusive of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>4.1. Additives listed in the first part</td><td>Same restrictions as in the first part (however the quantities in mg/dm<sup>2</sup> refer to the uncoated regenerated cellulose film, inclusive of the coating on the side in contact with foodstuffs).</td></tr>
+<tr><td>4.2. Specific coating additives</td><td>The quantity of the substance or group of substances in each indent may not exceed 2 mg/dm<sup>2</sup> (or a lower limit where one is specified) of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>—1-hexadecanol and 1-octadecanol</td><td></td></tr>
+<tr><td>—Esters of linear fatty acids, saturated or unsaturated, with an even number of carbon atoms from 8 to 20 inclusive and of ricinoleic acid with ethyl, butyl, amyl and oleyl linear alcohols</td><td></td></tr>
+<tr><td>—Montan waxes, comprising purified montanic (C26 to C32) acids and/or their esters with ethanediol and/or 1.3 butanediol and/or their calcium and potassium salts</td><td></td></tr>
+<tr><td>—Carnauba wax</td><td></td></tr>
+<tr><td>—Beeswax</td><td></td></tr>
+<tr><td>—Esparto wax</td><td></td></tr>
+<tr><td>—Candelilla wax</td><td></td></tr>
+<tr><td>—Dimethylpolysiloxane</td><td>Not more than 1 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>—Epoxidised soya-bean oil (oxirane content 6 to 8%)</td><td></td></tr>
+<tr><td>—Refined paraffin and microcrystalline waxes</td><td></td></tr>
+<tr><td>—Pentaerythritol tetrastearate</td><td></td></tr>
+<tr><td>—Mono and bis(octadecyldiethyleneoxide)-phosphates</td><td>Not more than 0.2 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>—Aliphatic acids (C8 to C20) esterified with mono- or di-(2-hydroxyethyl)amine</td><td></td></tr>
+<tr><td>—2- and 3-tert.butyl-4-hydroxyanisole [= butylated hydroxyanisole — BHA]</td><td>Not more than 0.06 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>—2.6-di-tert.butyl-4-methylphenol [= butylated hydroxytoluene — BHT]</td><td>Not more than 0.06 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>—Di-n-octyltin-bis(2-ethylhexyl) maleate</td><td>Not more than 0.06 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>5.Solvents</td><td>The total quantity of substances may not exceed 0.6 mg/dm<sup>2</sup> of the coating on the side in contact with foodstuffs.</td></tr>
+<tr><td>—Butyl acetate</td><td></td></tr>
+<tr><td>—Ethyl acetate</td><td></td></tr>
+<tr><td>—Isobutyl acetate</td><td></td></tr>
+<tr><td>—Isopropyl acetate</td><td></td></tr>
+<tr><td>—Propyl acetate</td><td></td></tr>
+<tr><td>—Acetone</td><td></td></tr>
+<tr><td>—1-butanol</td><td></td></tr>
+<tr><td>—Ethanol</td><td></td></tr>
+<tr><td>—2-butanol</td><td></td></tr>
+<tr><td>—2-propanol</td><td></td></tr>
+<tr><td>—1-propanol</td><td></td></tr>
+<tr><td>—Cyclohexane</td><td></td></tr>
+<tr><td>—Ethyleneglycol monobutyl ether</td><td></td></tr>
+<tr><td>—Ethyleneglycol monobutyl ether acetate</td><td></td></tr>
+<tr><td>—Methyl ethyl ketone</td><td></td></tr>
+<tr><td>—Methyl isobutyl ketone</td><td></td></tr>
+<tr><td>—Tetrahydrofuran</td><td></td></tr>
+<tr><td>—Toluene</td><td>Not more than 0.06 mg/dm <sup>2</sup> of the coating on the side in contact with foodstuffs.</td></tr>
+</tbody>
+</table>
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for the implementation of the following Directives and the enforcement of the following EU Regulations—
+
+- (a) Council Directive [78/142/EEC](https://www.legislation.gov.uk/european/directive/1978/0142) on the approximation of the laws of the Member States relating to materials and articles which contain vinyl chloride monomer and are intended to come into contact with foodstuffs (OJ No. L 44, 15.2.1978, p.15) (“Directive 78/142”);
+- (b) Council Directive [84/500/EEC](https://www.legislation.gov.uk/european/directive/1984/0500) on the approximation of the laws of the Member States relating to ceramic articles intended to come into contact with foodstuffs (“Directive 84/500”);
+- (c) Commission Directive [2007/42/EC](https://www.legislation.gov.uk/european/directive/2007/0042) relating to materials and articles made of regenerated cellulose film intended to come into contact with foodstuffs (“Directive 2007/42”);
+- (d) Regulation (EC) No. 1935/2004 of the European Parliament and of the Council on materials and articles intended to come into contact with food and repealing Directives [80/590/EEC](https://www.legislation.gov.uk/european/directive/1980/0590) and [89/109/EEC](https://www.legislation.gov.uk/european/directive/1989/0109) (“Regulation 1935/2004”);
+- (e) Commission Regulation [(EC) No. 1895/2005](https://www.legislation.gov.uk/european/regulation/2005/1895) on the restriction of use of certain epoxy derivatives in materials and articles intended to come into contact with food (“Regulation 1895/2005”);
+- (f) Commission Regulation [(EC) No. 2023/2006](https://www.legislation.gov.uk/european/regulation/2006/2023) on good manufacturing practice for materials and articles intended to come into contact with food (“Regulation 2023/2006”);
+- (g) Commission Regulation [(EC) No. 450/2009](https://www.legislation.gov.uk/european/regulation/2009/0450) on active and intelligent materials and articles intended to come into contact with food (“Regulation 450/2009”); and
+- (h) Commission Regulation (EU) No. 10/2011 on plastic materials and articles intended to come into contact with food (“Regulation 10/2011”).
+
+These Regulations revoke the Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2009 and related instruments. They also revoke and re-enact with certain amendments the provisions of the Ceramic Articles in Contact with Food (Scotland) Regulations 2006 and the Materials and Articles in Contact with Food (Scotland) Regulations 2010.
+
+These Regulations provide that references to a specified EU instrument or specified parts of it are to be construed as references to the instrument or parts of it as they may be amended from time to time (regulation 2(3)).
+
+These Regulations do not apply to materials or articles outside the scope of Regulation 1935/2004 (regulation 3). The materials identified in that Regulation as being outside its scope are materials and articles supplied as antiques, covering or coating materials forming part of the food and which may be consumed with it and fixed public or private water supply equipment.
+
+Part 2 of these Regulations contains provisions which make it an offence to contravene certain requirements of Regulation 1935/2004 (regulation 4) and Regulation 2023/2006 (regulation 5). Regulation 1935/2004 is the principal framework Regulation on materials and articles in contact with food.
+
+Part 2 also provides for designation of the competent authorities for the various purposes identified in Regulations 1935/2004 and 2023/2006 (regulation 6).
+
+Part 3 provides for the enforcement of specified provisions of Regulation 450/2009 (regulation 7) and designates the competent authorities for the purposes of that Regulation (regulation 8).
+
+Part 4 implements Directive 84/500, and the definition of a ceramic article is set out in regulation 9. It provides that no person may place on the market a ceramic article that does not meet the specifications set out in the Directive (regulation 10). This regulation additionally contains requirements relating to documentary proof of compliance which apply to new but not to second hand ceramic articles.
+
+Part 5 of these Regulations, which implements Directive 2007/42, contains requirements relating to regenerated cellulose film and identifies the various types of such film to which the provisions apply (regulation 11). Regulation 12 contains conditions relating to the substances that may be used for the manufacture of regenerated cellulose film (paragraphs (1) to (4)), specifies that the printed surface of regenerated film must not come into contact with food (paragraph (5)) and specifies certain documentation and labelling requirements (paragraphs (6) and (7)).
+
+Part 6 of these Regulations provides for the enforcement of Regulation 10/2011 and identifies those provisions of the EU Regulation which it constitutes an offence to contravene (regulation 14 and Schedule 1). The competent authorities for the purposes of certain provisions of Regulation 10/2011 are designated in regulation 15.
+
+Part 7 provides for the continuing enforcement of Regulation 1895/2005 which maintains a ban on the epoxy derivatives BFDGE and NOGE and restrictions on the use of BADGE (regulation 16). The competent authorities for the purpose of this EU Regulation are designated in regulation 17.
+
+Part 8 maintains the controls on the use of vinyl chloride put in place by Directive 78/142 to the extent that those controls are not now effected by Regulation 10/2011 (regulation 18).
+
+Part 9 contains enforcement and associated provisions that—
+
+- (a) penalise contravention of these Regulations or obstruction of those enforcing them (regulation 19);
+- (b) designate enforcement authorities for various functions under the Regulations (regulation 20);
+- (c) provide that individuals responsible for the actions of a corporate body or a Scottish partnership may be co-prosecuted for offences committed by that body or partnership (regulation 21);
+- (d) provide for the prosecution of a person who causes the commission of an offence by another person, whether or not proceedings are taken against the original offender (regulation 22);
+- (e) specify a time limit for commencing a prosecution (regulation 23);
+- (f) provide for a defence of due diligence to an offence under these Regulations (regulation 24);
+- (g) specify the procedure to be followed when sending a sample for analysis (regulation 25);
+- (h) make provision for a reference sample to be analysed by the Laboratory of the Government Chemist (regulation 26); and
+- (i) apply certain provisions of the Food Safety Act 1990 for the purposes of these Regulations (regulation 27).
+
+Part 10 contains general and supplementary provisions which—
+
+- (a) make consequential amendments to Schedule 1 to the Food Safety (Sampling and Qualifications) Regulations 1990 (regulation 28);
+- (b) maintain an amendment to the Food Labelling Regulations 1996 (S.I. 1996/1499) and provide for that amendment to expire on a date when directly applicable EU food labelling provisions take effect (regulation 29); and
+- (c) provide for the revocation of specified Regulations (regulation 30 and Schedule 2).
+
+A Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Food Standards Agency (Scotland), 6th Floor, St Magnus House, 25 Guild Street, Aberdeen AB11 6NJ and online at www.legislation.gov.uk.
+
+## Annotations
+
+[^c21450331]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16). Section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Sections 16(2), 17, 31 and 48(1) were amended by paragraph 8 of Schedule 5 to the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28). Section 17 was also amended by paragraph 12 of Schedule 5 to the 1999 Act. Section 26(3) was amended by Schedule 6 to the 1999 Act. Section 48(4) is disapplied in respect of these Regulations by virtue of section 48(4C) which was inserted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). By virtue of section 40(2) of the 1999 Act, amendments made by Schedule 5 to that Act are to be taken as pre-commencement enactments for the purposes of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not transferred, and in so far as relating to food (including drink) including the primary production of food, relevant functions were transferred to the Scottish Ministers by the [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849).
+
+[^c21450341]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and amended by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The functions conferred on the Minister of the Crown under section 2(2), in so far as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not transferred, and in so far as relating to food (including drink) including the primary production of food, relevant functions were transferred to the Scottish Ministers by the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005.
+
+[^c21450351]: Marginal citation: OJ No L 384, 29.12.2006, p.75, amended by Commission Regulation (EC) No. 282/2008 (OJ No L 86, 28.3.2008, p.9).
+
+[^c21450361]: Marginal citation: [Section 48(4A)](https://www.legislation.gov.uk/ssi/2012/318/section/48/4A) was inserted by paragraph 21 of Schedule 5 to the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
+
+[^c21450371]: Marginal citation: OJ No L 31, 1.2.2002, p.1. That Regulation was last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468/EC with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No L 188, 18.7.2009, p.14).
+
+[^key-582c6855a1f3eef797aaff829307b2f4]: Modification: [Pt. 1](https://www.legislation.gov.uk/ssi/2012/318/part/1) extended (N.I.) (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-ac57381a18f0f2f796e4ff908ed5240f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/318/regulation/2/1) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2022/373/regulation/7/2/a/i)
+
+[^key-b75b2410838e36f51ec9a0f0b4eb78ea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/318/regulation/2/1) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/373/regulation/7/2/a/ii)
+
+[^c21450401]: Marginal citation: OJ No L 338, 13.11.2004, p.4, amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council (OJ No L 188, 18.7.2009, p.14).
+
+[^c21450411]: Marginal citation: OJ No L 302, 19.11.2005, p.28.
+
+[^c21450421]: Marginal citation: OJ No L 135, 30.5.2009, p.3.
+
+[^c21450431]: Marginal citation: OJ No L 12, 15.1.2011, p.1, last amended by Commission Regulation (EU) No. 1282/2011 (OJ No. L 328, 10.12.2011, p.22).
+
+[^key-7d5073da5fa3dd43d5347694873acfcc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/318/regulation/2/1) added (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2019/32/regulation/3/a/i)
+
+[^key-4a25d87f34a347b36848daf8b98b02d4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/318/regulation/2/1) inserted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2019/32/regulation/3/a/ii)
+
+[^key-806517146984ffb01022640736e1cf42]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2012/318/regulation/2/2) substituted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2019/32/regulation/3/b)
+
+[^key-e0043d63b8a346c76c8c8fbed96e0c0d]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2012/318/regulation/2/3) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [7(2)(b)(i)](https://www.legislation.gov.uk/ssi/2022/373/regulation/7/2/b/i)
+
+[^key-b1924f07bbc44d752857912962be386e]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2012/318/regulation/2/3) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [7(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/373/regulation/7/2/b/ii)
+
+[^key-e7f6806069bfe2a64d01e4c91fc2d053]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/ssi/2012/318/regulation/4/3) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [10(2)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ac512bd22f190035ca5c400112c60058]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/ssi/2012/318/regulation/6/1/a) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [10(3)(a)(i)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bcd75837c018209d27ff09ef0254da3a]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/ssi/2012/318/regulation/6/1/a) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-75aad039bb593e5f55da27aa1a3db48f]: Textual amendment: Words in reg. 6(1)(a) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 32](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/32)
+
+[^key-c5f67be37bda953faa10fba2357fe100]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/ssi/2012/318/regulation/6/1/b) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [10(3)(b)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-996270112578c79598309bd4af4c4d15]: Textual amendment: Words in reg. 6(1)(b) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 32](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/32)
+
+[^c21450441]: Marginal citation: Article 4(e) does not apply until the date of application of the EU list of authorised substances that may be used in active and intelligent components.
+
+[^key-05e03018b52adbf7a55b53e824b552a6]: Textual amendment: Words in reg. 8 substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 32](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/32)
+
+[^key-49a9c9be9a1e0dc5eef124d0198e84a4]: Modification: [Pt. 4](https://www.legislation.gov.uk/ssi/2012/318/part/4) extended (N.I.) (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-3628f47c23c1e45a87a61ca2b09df6f7]: Textual amendment: [Reg. 9(b)](https://www.legislation.gov.uk/ssi/2012/318/regulation/9/b) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [10(4)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6dd38715b8d780cb27d42246b3d0a03d]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2012/318/regulation/10) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [10(5)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0a522065330c405736bd7db5d8506e17]: Textual amendment: Reg. 10A inserted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [10(6)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/6) (as amended by [S.S.I. 2019/52](https://www.legislation.gov.uk/ssi/2019/52), [reg. 10(6)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8c05c8606c78b14010dca55bd0b79b52]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/ssi/2012/318/regulation/11/3) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [7(3)](https://www.legislation.gov.uk/ssi/2022/373/regulation/7/3)
+
+[^key-03c09ed29740ed22bb3c44c47c4ee834]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2012/318/regulation/12/1) substituted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [7(4)(a)(i)](https://www.legislation.gov.uk/ssi/2022/373/regulation/7/4/a/i)
+
+[^key-de107d6bfef27d93b986d65b0a3c8aa6]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2012/318/regulation/12/1) substituted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [7(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/373/regulation/7/4/a/ii)
+
+[^key-25f44ccb05eaed85ce0cab0b13f703c2]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2012/318/regulation/12/2) substituted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/ssi/2022/373/regulation/7/4/b)
+
+[^key-29228b8d049db014809405848d50cbf7]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2012/318/regulation/12/3) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/3/2/a)
+
+[^key-c0b47a67646b908cdf7efa4d8b6391b7]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2012/318/regulation/12/3) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/3/2/b)
+
+[^key-f2313de48e5bf3f395357f3f958ee5ce]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/ssi/2012/318/regulation/14/1) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 3(3)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/3/3)
+
+[^c21450451]: Marginal citation: Article 22(4) provides that until 31st December 2015 certain additives used in glass fibre sizing must be assessed under Article 19. Article 22(5) provides that materials and articles lawfully placed on the market before 1st May 2011 may be placed on the market until 31st December 2012. Article 23 provides that as regards certain uses of additives Article 5 applies from 31st December 2015 and that the provisions of Articles 18(2) and (4) and Article 20 apply from 31st December 2012.
+
+[^c21450461]: Marginal citation: Paragraphs (1), (2) and (3) of Article 22 provide that the supporting documents referred to in Article 16 must, until 31st December 2012, be based on the rules in Directive 82/711/EEC; that from 1st January 2013 until 31st December 2015 such documents may be based on the rules in Directive 82/711/EEC or Article 18 of Regulation 10/2011 and that from 1st January 2016 such documents must be based on the rules in Article 18 of that Regulation.
+
+[^key-23370739222fd91c1ab675e487f63c26]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2012/318/regulation/15) substituted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [4](https://www.legislation.gov.uk/ssi/2019/32/regulation/4)
+
+[^c21450471]: Marginal citation: Article 1(3) contains an exception relating to certain containers and storage tanks and pipelines belonging to them.
+
+[^c21450481]: Marginal citation: Article 6(1) and (2) provide for transitional arrangements for the application of Articles 2, 3 and 4 to specified materials and articles; Article 6(4) allows the marketing of specified materials and articles if certain labelling requirements are met.
+
+[^c21450491]: Marginal citation: Article 6(3) provides for a transitional provision in relation to the application of Article 5 to specified materials and articles that were brought into contact with food before 1st January 2007.
+
+[^c21450501]: Marginal citation: Article 5 requires materials and articles containing BADGE and its derivatives to be accompanied by specified written material when being marketed at the pre-retail stages.
+
+[^key-a0916e3f022d4d180bfd128b9d405bee]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ssi/2012/318/part/7A) inserted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [5](https://www.legislation.gov.uk/ssi/2019/32/regulation/5)
+
+[^key-fae0dbf22703ff6b2a64340d2b09c30f]: Textual amendment: Word in reg. 19(1) inserted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2019/32/regulation/6/a)
+
+[^key-afbed4f8a2a32c7c87dd790ab06d01f3]: Textual amendment: Words in reg. 19(2) inserted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2019/32/regulation/6/b)
+
+[^key-791e39038a76d7d62777826ecdbc83ff]: Textual amendment: Word in reg. 19(3) inserted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [6(c)](https://www.legislation.gov.uk/ssi/2019/32/regulation/6/c)
+
+[^key-b152513b55dbe06a51cdd995980deba1]: Textual amendment: Reg. 20 substituted (6.4.2013) by [The Food (Miscellaneous Amendment and Revocation) (Scotland) Regulations 2013 (S.S.I. 2013/83)](https://www.legislation.gov.uk/ssi/2013/83), [regs. 1](https://www.legislation.gov.uk/ssi/2013/83/regulation/1), [2](https://www.legislation.gov.uk/ssi/2013/83/regulation/2)
+
+[^key-4afa25a051e58505eb6e66f815588680]: Textual amendment: Words in reg. 20(1)(a) substituted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2019/32/regulation/7/a)
+
+[^key-668474af68728379f734b865d3eecc5c]: Textual amendment: Words in reg. 20(2) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 32](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/32)
+
+[^key-2a1c864b156aec61fe0587eebc925994]: Textual amendment: Word in [reg. 20(2)(a)](https://www.legislation.gov.uk/ssi/2012/318/regulation/20/2/a) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [10(7)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1a2928655615ce615baa7b6b3ad93db6]: Textual amendment: Word in reg. 20(2) omitted (28.3.2019) by virtue of [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/ssi/2019/32/regulation/7/b/i)
+
+[^key-cad625c742b61eea077909a6501fb08b]: Textual amendment: Words in reg. 20(2)(b) substituted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/ssi/2019/32/regulation/7/b/ii)
+
+[^key-6b88b200efd7233240c7fc8ca9ca6666]: Textual amendment: Reg. 20(2)(c)(d) added (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [7(b)(iii)](https://www.legislation.gov.uk/ssi/2019/32/regulation/7/b/iii)
+
+[^key-566590265314b2f2add28ac1a602c03a]: Textual amendment: Words in reg. 23(2) substituted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [8](https://www.legislation.gov.uk/ssi/2019/32/regulation/8)
+
+[^key-b1a000fb1f340207c59fa5ed621cbfcc]: Textual amendment: Word in reg. 24(2) inserted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [9](https://www.legislation.gov.uk/ssi/2019/32/regulation/9)
+
+[^c21450511]: Marginal citation: Section 30(8) sets out the evidential status of certificates of analysis and examination provided by food analysts and examiners.
+
+[^key-61cd6ae81e3edcb65b6ea9a0d1dcaf81]: Textual amendment: Words in reg. 27(2) substituted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [10(a)](https://www.legislation.gov.uk/ssi/2019/32/regulation/10/a)
+
+[^key-3c8cd7abc06ae3f859656edc428a8cc7]: Textual amendment: Words in reg. 27(3) substituted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2019/32/regulation/10/b)
+
+[^key-b975fc525a28538f3dc669c8892b1b2a]: Textual amendment: Reg. 28 revoked (6.4.2013) by [The Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013 (S.S.I. 2013/84)](https://www.legislation.gov.uk/ssi/2013/84), [reg. 1](https://www.legislation.gov.uk/ssi/2013/84/regulation/1), [sch. 4](https://www.legislation.gov.uk/ssi/2013/84/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/84/regulation/3))
+
+[^key-cc017495196a811fbe4c791584bda8e5]: Textual amendment: Reg. 29 revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+
+[^key-bf4f05e71e4dfa8ec77f38cb3db36bf9]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2012/318/schedule/1) Table omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 3(4)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/3/4/a)
+
+[^key-b0189cc33c0bfcc03ca4bdde088347d3]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2012/318/schedule/1) Table omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 3(4)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/3/4/b)
+
+[^key-12095e83c98bfb4c1e7cd5078b43e05e]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2012/318/schedule/1) substituted (28.3.2019) by [The Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2019 (S.S.I. 2019/32)](https://www.legislation.gov.uk/ssi/2019/32), [regs. 1](https://www.legislation.gov.uk/ssi/2019/32/regulation/1), [11](https://www.legislation.gov.uk/ssi/2019/32/regulation/11)
+
+[^key-06f7d790dc18c5b269bd67b1e0540c56]: Modification: [Sch. 3](https://www.legislation.gov.uk/ssi/2012/318/schedule/3) extended (N.I.) (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-70c52561a90502200138b4d96140c550]: Textual amendment: [Schs. 3-5](https://www.legislation.gov.uk/ssi/2012/318/schedule/3) inserted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [10(8)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-007a7cea3fb60337aff876d22a7eb412]: Modification: [Sch. 4](https://www.legislation.gov.uk/ssi/2012/318/schedule/4) extended (N.I.) (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-6e1af8c420dc27b4763b496d17bc2c91]: Modification: [Sch. 5](https://www.legislation.gov.uk/ssi/2012/318/schedule/5) extended (N.I.) (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-7771458dce66b14e63644d5e96486c0c]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ssi/2012/318/schedule/6) inserted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/373/schedule/2/paragraph/1)

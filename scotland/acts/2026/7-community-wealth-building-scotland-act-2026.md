@@ -1,0 +1,477 @@
+---
+title: Community Wealth Building (Scotland) Act 2026
+id: asp/2026/7
+type: ScottishAct
+category: primary
+status: revised
+made_date: '2026-03-25'
+text_date: '2026-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2026/7
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2026/7/pdfs/aspen_20260007_en.pdf
+- http://www.legislation.gov.uk/asp/2026/7/pdfs/asp_20260007_en.pdf
+- http://www.legislation.gov.uk/asp/2026/7/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Community Wealth Building (Scotland) Act 2026
+
+> Text as at 2026-10-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Community Wealth Building (Scotland) Act 2026
+
+2026 asp 7
+
+An Act of the Scottish Parliament to require the Scottish Ministers to prepare and publish a statement about community wealth building; to require local authorities and relevant public bodies to prepare and publish a community wealth building action plan, and to implement that plan; to require certain public bodies to have due regard to community wealth building guidance produced by the Scottish Ministers; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 10th February 2026 and received Royal Assent on 25th March 2026
+
+## Community wealth building statement
+
+### 1. Community wealth building statement[^key-6c9d335ab57bdddba8c4f4c204f33fdb][^key-7ba41aba03d99f0e0b11a7ecdeec04d3]
+
+(1) The Scottish Ministers must prepare a community wealth building statement.
+
+(2) The community wealth building statement must set out the measures that the Scottish Ministers are taking or intend to take to—
+
+- (a) reduce economic and wealth inequality between individuals and communities in and across Scotland, and
+- (b) support sustainable and inclusive economic growth in line with the United Nations sustainable development goals,
+
+by facilitating and supporting the generation, circulation and retention of wealth in local and regional economies.
+
+(3) The measures must include—
+
+- (a) using public procurement to facilitate or support such generation, circulation and retention,
+- (b) promoting—
+  - (i) employment opportunity,
+  - (ii) workforce development,
+  - (iii) equality in the workplace,
+- (c) diversifying ownership of land, energy or other assets by facilitating or supporting community ownership,
+- (d) bringing vacant and derelict land back into use in a way that provides financial, social or environmental benefit to the community,
+- (e) encouraging local business start-ups or entrepreneurship,
+- (f) promoting or supporting the development of—
+  - (i) employee-owned businesses,
+  - (ii) co-operatives, including co-operative financial institutions,
+  - (iii) social enterprises,
+  - (iv) supported businesses, as defined by section 11(3) of the Procurement Reform (Scotland) Act 2014,
+- (g) promoting access to investment opportunities that provide a benefit to the community and to local businesses,
+- (h) supporting local climate resilience and mitigation of the effects of climate change,
+- (i) such other measures as the Scottish Ministers consider appropriate.
+
+(4) The community wealth building statement must set out the steps the Scottish Ministers will take to encourage and support—
+
+- (a) the Scottish National Investment Bank p.l.c.,
+- (b) Scottish Enterprise,
+- (c) South of Scotland Enterprise,
+- (d) Highlands and Islands Enterprise,
+
+to increase the number, and promote the development, of employee-owned businesses.
+
+(5) In preparing the community wealth building statement, the Scottish Ministers must—
+
+- (a) review the extent to which the goals of the statement, as set out in subsection (2), are facilitated by existing policies and practices within the public sector, whether set out in an enactment or otherwise, in relation to—
+  - (i) procurement,
+  - (ii) community empowerment,
+- (b) consider whether the measures in the community wealth building statement should include the implementation of changes to the policies and practices mentioned in paragraph (a), whether to enactments or otherwise, arising as a result of that review,
+- (c) have regard to the just transition principles set out in section 35C of the Climate Change (Scotland) Act 2009,
+- (d) publish a draft statement,
+- (e) consult with—
+  - (i) local authorities,
+  - (ii) such persons as they consider representative of the interests of—
+    - (A) the community,
+    - (B) businesses,
+    - (C) social enterprises, and
+  - (iii) such other persons as they consider appropriate.
+
+(6) The Scottish Ministers may by regulations modify the list of measures in subsection (3) so as to—
+
+- (a) add a measure,
+- (b) remove a measure listed in it,
+- (c) amend a measure listed in it.
+
+(7) Regulations under subsection (6) are subject to the affirmative procedure.
+
+### 2. Publication and laying of statement[^key-66df53286a5d4ccb3397d89e3b38a99f][^key-52cde8102aefa34faed4c7b7cee3dfeb]
+
+(1) The Scottish Ministers must—
+
+- (a) publish the community wealth building statement in such manner as they consider appropriate, and
+- (b) lay a copy of the statement before the Scottish Parliament.
+
+(2) The Scottish Ministers may by regulations specify further details about the format of the statement to be published under subsection (1)(a).
+
+(3) Regulations under subsection (2) are subject to the affirmative procedure.
+
+(4) Subsection (1) must be complied with within the period of 18 months beginning with the day on which this section comes into force.
+
+(5) As soon as reasonably practicable after complying with subsection (1), the Scottish Ministers must—
+
+- (a) prepare and publish, in such manner as they consider appropriate, a report setting out—
+  - (i) the consultation process undertaken in order to comply with section 1(5)(e), and
+  - (ii) the ways in which, in preparing the community wealth building statement, they have taken account of views expressed in the course of that process, and
+- (b) lay a copy of the report before the Scottish Parliament.
+
+### 3. Review and revision of statement[^key-74fd2549626478cb143454a24633547f][^key-8cae885819c781804097d452133e3353]
+
+(1) The Scottish Ministers—
+
+- (a) must keep the community wealth building statement under review, and
+- (b) may revise it as they consider appropriate.
+
+(2) If the Scottish Ministers have not revised the community wealth building statement within the period of 5 years beginning with the day on which the community wealth building statement was last published, they must revise the statement.
+
+(3) Section 1(2), (3) and (5) and section 2(1) and (5) apply in relation to revising the community wealth building statement as they apply in relation to preparing the first community wealth building statement.
+
+### 4. Reporting on statement[^key-9b0dafd2e639ecc0ee179628ff59fdae][^key-5adddbcb943a37dc86ba034ad314b36b]
+
+(1) The Scottish Ministers must, as soon as reasonably practicable after the end of each reporting period—
+
+- (a) prepare a report setting out—
+  - (i) the steps they have taken in the reporting period in respect of each measure included in the community wealth building statement,
+  - (ii) the impact of the community wealth building statement and the measures set out in the statement in delivering the aims specified in section 1(2),
+  - (iii) the steps they have taken in the reporting period to keep the community wealth building statement under review,
+- (b) publish the report in such manner as they consider appropriate, and
+- (c) lay a copy of the report before the Scottish Parliament.
+
+(2) The Scottish Ministers may by regulations specify further details about the format of the report to be published under subsection (1)(b).
+
+(3) Regulations under subsection (2) are subject to the affirmative procedure.
+
+(4) In this section, “**reporting period**” means—
+
+- (a) the period of 5 years beginning with the day on which the community wealth building statement was first published,
+- (b) each subsequent period of 5 years.
+
+## Community wealth building action plan
+
+### 5. Community wealth building action plan[^key-74587357d2cacf1edb4e06d7190f5e45][^key-73ab99ea758fa062876d485200099651]
+
+(1) Each local authority, working jointly with the relevant public bodies relating to it, must prepare a community wealth building action plan for the area of the local authority in question within the period of 3 years beginning with the day on which this section comes into force.
+
+(2) Each local authority must publish the community wealth building action plan prepared in accordance with subsection (1) as soon as reasonably practicable following its preparation.
+
+(3) The Scottish Ministers may by regulations specify further details about the format of the plan to be published under subsection (2) or the revised plan to be published under section 7(3).
+
+(4) Regulations under subsection (3) are subject to the affirmative procedure.
+
+(5) In relation to the functions conferred on them by this Act—
+
+- (a) a local authority and the relevant public bodies relating to it are collectively referred to in this Act as a “community wealth building partnership”,
+- (b) a local authority and each relevant public body relating to it are individually referred to in this Act as a “community wealth building partner”.
+
+(6) A community wealth building action plan must set out the measures the community wealth building partnership is taking, or intends to take, to facilitate and support the generation, circulation and retention of wealth in the local economy.
+
+(7) The measures referred to in subsection (6) may include—
+
+- (a) using public procurement and commissioning to facilitate or support such generation, circulation and retention,
+- (b) supporting local economic operators to access public sector contracts,
+- (c) promoting—
+  - (i) employment opportunity,
+  - (ii) workforce development,
+  - (iii) equality in the workplace,
+- (d) diversifying ownership of land, energy or other assets by facilitating or supporting community ownership,
+- (e) utilising common good property to provide financial, social or environmental benefit to the community, including the transfer of ownership to community organisations,
+- (f) bringing vacant and derelict land back into use in a way that provides financial, social or environmental benefit to the community,
+- (g) encouraging local business start-ups or entrepreneurship,
+- (h) promoting or supporting the development of—
+  - (i) employee-owned businesses,
+  - (ii) co-operatives, including co-operative financial institutions,
+  - (iii) social enterprises,
+  - (iv) supported businesses, as defined by section 11(3) of the Procurement Reform (Scotland) Act 2014,
+- (i) promoting access to investment opportunities that provide a benefit to the community and to local businesses,
+- (j) measures to support local climate resilience and mitigation of the effects of climate change,
+- (k) such other measures as the community wealth building partnership considers appropriate.
+
+(8) A community wealth building action plan must set an indicative target for the percentage of the total expenditure incurred pursuant to public contracts entered into by the community wealth building partners which is to go to local economic operators.
+
+(9) A community wealth building action plan—
+
+- (a) must set out indicators by reference to which the community wealth building partnership intends to assess progress made in relation to the implementation of the measures set out in the action plan,
+- (b) may set targets in relation to the implementation of the measures set out in the action plan.
+
+(10) The indicators mentioned in subsection (9)(a) may include—
+
+- (a) the performance of businesses, including—
+  - (i) the number of new businesses established,
+  - (ii) the total number of businesses,
+  - (iii) the total business output,
+- (b) employment outcomes, including—
+  - (i) average wage,
+  - (ii) availability of skills development programmes,
+- (c) the diversity of ownership models, including the number of businesses that are—
+  - (i) employee-owned,
+  - (ii) co-operatives,
+- (d) the variety of land use, including—
+  - (i) use of the community right to buy,
+  - (ii) such other use of land as the community wealth building partnership considers relevant,
+- (e) the proportion of pension funds of the community wealth building partners invested locally and regionally,
+- (f) the growth of local financial institutions, including co-operative financial institutions,
+- (g) such other indicators as the community wealth building partnership considers appropriate.
+
+(11) In preparing a community wealth building action plan, a community wealth building partnership must consider how the use or disposal of common good land and assets would further the aims of this Act.
+
+(12) In contributing to the preparation of a community wealth building action plan, a local authority must consult—
+
+- (a) such persons as it considers likely to be directly affected by the community wealth building action plan,
+- (b) such persons as it considers representative of the interests of—
+  - (i) the community,
+  - (ii) businesses,
+  - (iii) third sector bodies (as defined by section 37(1) of the Community Justice (Scotland) Act 2016),
+  - (iv) social enterprises,
+
+  within the area of the local authority, and
+- (c) such other persons as it considers appropriate.
+
+(13) As soon as reasonably practicable after complying with subsection (2), the local authority must prepare and publish, in such manner as it considers appropriate, a report setting out—
+
+- (a) the consultation process undertaken in order to comply with subsection (12), and
+- (b) the ways in which, in contributing to the preparation of the community wealth building action plan, it has taken account of views expressed in the course of that process.
+
+(14) In preparing a community wealth building action plan, a community wealth building partnership must have due regard to guidance issued under section 10(1)(a).
+
+(15) In this section and in section 8, “**public contract**” means a contract for pecuniary interest concluded in writing between one or more economic operators and one or more community wealth building partners and having as its object the execution of works, the supply of products or the provision of services.
+
+(16) In this section and in sections 6 and 10, “**relevant public bodies**” in relation to a local authority are—
+
+- (a) the board of management of a regional college designated by order under [section 7A](https://www.legislation.gov.uk/asp/2005/6/section/7A) of the [Further and Higher Education (Scotland) Act 2005](https://www.legislation.gov.uk/asp/2005/6/contents) which is situated wholly or partly in the area of the local authority,
+- (b) a regional strategic body specified in schedule 2A of the Further and Higher Education (Scotland) Act 2005 which is situated wholly or partly in the area of the local authority,
+- (c) a Health Board constituted under [section 2](https://www.legislation.gov.uk/ukpga/1978/29/section/2)[(1)](https://www.legislation.gov.uk/ukpga/1978/29/section/2)[(a)](https://www.legislation.gov.uk/ukpga/1978/29/section/2) of the [National Health Service (Scotland) Act 1978](https://www.legislation.gov.uk/ukpga/1978/29/contents) whose area includes, or is the same as, the area of the local authority,
+- (d) Scottish Enterprise,
+- (e) South of Scotland Enterprise where all or part of the area of the local authority is within the South of Scotland as defined by [section 21](https://www.legislation.gov.uk/asp/2019/9/section/21) of the [South of Scotland Enterprise Act 2019](https://www.legislation.gov.uk/asp/2019/9/contents),
+- (f) Highlands and Islands Enterprise where the area within which, or in relation to which, it exercises functions in accordance with [section 21](https://www.legislation.gov.uk/ukpga/1990/35/section/21)[(1)](https://www.legislation.gov.uk/ukpga/1990/35/section/21) of the [Enterprise and New Towns (Scotland) Act 1990](https://www.legislation.gov.uk/ukpga/1990/35/contents) includes the whole or part of the area of the local authority,
+- (g) the Skills Development Scotland Co. Limited,
+- (h) a regional Transport Partnership established by virtue of [section 1](https://www.legislation.gov.uk/asp/2005/12/section/1)[(1)](https://www.legislation.gov.uk/asp/2005/12/section/1)[(b)](https://www.legislation.gov.uk/asp/2005/12/section/1) of the [Transport (Scotland) Act 2005](https://www.legislation.gov.uk/asp/2005/12/contents) whose region includes, or is the same as, the area of the local authority.
+
+(17) The Scottish Ministers may by regulations modify the list in subsection (16) so as to—
+
+- (a) add a person or description of person,
+- (b) remove an entry listed in it,
+- (c) amend an entry listed in it.
+
+(18) Regulations under subsection (17) are subject to the affirmative procedure.
+
+### 6. Local authorities acting jointly[^key-712d16d42f39f19d83dd1345506261e9][^key-94256cd16e188c96f5cf38dcd368def1]
+
+(1) Two or more local authorities may act jointly, with the relevant public bodies relating to them, to prepare and publish a community wealth building action plan for the areas of the local authorities in question.
+
+(2) Where two or more local authorities act jointly under subsection (1)—
+
+- (a) they must continue to act jointly in relation to the community wealth building action plan in all respects,
+- (b) unless the context requires otherwise, a reference in this Act to—
+  - (i) a local authority, in relation to a community wealth building action plan or community wealth building partnership, is a reference to the authorities acting jointly, and
+  - (ii) the area of a local authority is a reference to the combined areas of those authorities.
+
+### 7. Review and revision of action plan[^key-cb42a6c85b9cdb20c5c5b83c5a9bf91c][^key-306f62776a092b0792d1c29bd5a4f5d2]
+
+(1) Each community wealth building partnership—
+
+- (a) must keep its community wealth building action plan under review,
+- (b) may revise the plan as it considers appropriate.
+
+(2) If the community wealth building partnership has not revised its community wealth building action plan within the period of 5 years beginning with the day on which the plan was last published, it must revise the plan.
+
+(3) Where a community wealth building partnership revises its community wealth building action plan under subsection (1)(b) or (2), the local authority must publish the revised plan.
+
+(4) Subsection (1) and section 5(6), (7), (12), and (14) apply in relation to a revised community wealth building action plan published under subsection (3) as they apply in relation to a community wealth building action plan published under section 5.
+
+### 8. Reporting on action plan[^key-c8bd694fea42898a893ceb7599218656][^key-33d555dd6a467a6e06284b5551bd23da]
+
+(1) Each community wealth building partnership must, as soon as reasonably practicable after the end of each reporting period, prepare a report setting out—
+
+- (a) the steps it has taken in the reporting period in respect of each measure included in the community wealth building action plan,
+- (b) the steps it has taken in the reporting period to keep the community wealth building action plan under review,
+- (c) in relation to the total expenditure incurred pursuant to public contracts entered into by the community wealth building partners, the percentage given to local economic operators during the reporting period in accordance with section 5(8),
+- (d) an assessment of progress made with reference to the indicators set out in the action plan in accordance with section 5(9)(a).
+
+(2) Each local authority must publish the report prepared in accordance with subsection (1)—
+
+- (a) as soon as reasonably practicable following its preparation,
+- (b) in such manner as the local authority considers appropriate.
+
+(3) In this section, “**reporting period**” means—
+
+- (a) the period of 5 years beginning with the day on which the community wealth building action plan is first published,
+- (b) each subsequent period of 5 years.
+
+### 9. Implementation of action plan[^key-46b331d380c8eb891cb1358d654bf691][^key-1d17e574d7e5c6f7bbf77016984e60df]
+
+During the period to which a community wealth building action plan relates, the community wealth building partners must, so far as reasonably practicable, implement the measures set out in the plan in the area of the local authority.
+
+## Guidance about community wealth building
+
+### 10. Guidance about community wealth building[^key-8fdb7051df7f6dcb8cdb76ef316b7560][^key-9d6986f90057105c88310215855db667]
+
+(1) The Scottish Ministers must issue guidance about—
+
+- (a) community wealth building action plans, including all measures under section 5(7),
+- (b) facilitating and supporting the generation, circulation and retention of wealth in local and regional economies, including through the development of community-owned renewable energy, and skills and supply chains associated with renewable energy.
+
+(2) Subsection (1) must be complied with within the period of 18 months beginning with the day on which this section comes into force.
+
+(3) Before issuing any guidance under subsection (1), the Scottish Ministers—
+
+- (a) must consult—
+  - (i) the relevant public bodies in relation to each local authority,
+  - (ii) the specified public bodies,
+- (b) may consult such other persons as the Scottish Ministers consider appropriate.
+
+(4) In this section and in section 11, “**the specified public bodies**” means the persons listed in the schedule.
+
+(5) The Scottish Ministers must from time to time review guidance published under this section and may revise the guidance.
+
+(6) The Scottish Ministers must, as soon as reasonably practicable after issuing—
+
+- (a) guidance under subsection (1), or
+- (b) revised guidance under subsection (5),
+
+publish the guidance in such manner as they consider appropriate (including as part of another document).
+
+(7) References in section 5(14) and section 11(1) to guidance under this section include references to guidance revised under subsection (5).
+
+### 11. Duty to have due regard to guidance[^key-4e29f153519c847fd39978ad24d52073][^key-86104ac641e29b26edca5ed51f8c0c98]
+
+(1) The specified public bodies must have due regard to guidance issued under section 10(1)(b) when developing—
+
+- (a) that body’s corporate plan,
+- (b) delivery strategies in relation to that plan.
+
+(2) The Scottish Ministers may by regulations modify the list in the schedule so as to—
+
+- (a) add a person or description of a person,
+- (b) remove an entry listed in it,
+- (c) amend an entry listed in it.
+
+(3) Regulations under subsection (2) are subject to the affirmative procedure.
+
+## General
+
+### 12. Ancillary provision[^key-a1ab6cab371835f23d4fcf40258a1492]
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary or consequential provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
+
+(2) Regulations made under this section may—
+
+- (a) make different provision for different purposes,
+- (b) modify any enactment (including this Act).
+
+(3) Regulations under this section—
+
+- (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
+- (b) are otherwise subject to the negative procedure.
+
+### 13. Interpretation[^key-8db9a2430a353b0987e0c1037c7a4744]
+
+In this Act—
+
+- “**community wealth building partner**” has the meaning given by section 5(5)(b),
+- “**community wealth building partnership**” has the meaning given by section 5(5)(a),
+- “**economic operators**” means any person who offers the execution of works, the supply of products or the provision of services on the market,
+- “**relevant public bodies**” has the meaning given by section 5(16),
+- “**specified public bodies**” has the meaning given by section 10(4),
+- “**United Nations sustainable development goals**” has the meaning given by section 98 of the Climate Change (Scotland) Act 2009.
+
+### 14. Commencement[^key-94cc64d6f16479abfb473cf922f614c0]
+
+(1) This section and sections 12, 13 and 15 come into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint.
+
+(3) Regulations under this section may make different provision for different purposes.
+
+### 15. Short title[^key-42632299d207ef27fe951f8c8a7524eb]
+
+The short title of this Act is the Community Wealth Building (Scotland) Act 2026.
+
+## Schedule — Specified public bodies[^key-1df3b45433979442fb31dac1a023600a][^key-81778678ff6fe0833e9ec9673386d919]
+
+(introduced by section 11)
+
+[^key-81778678ff6fe0833e9ec9673386d919]
+
+- British Waterways Board
+- Creative Scotland
+- The Crofting Commission
+- Crown Estate Scotland
+- Highlands and Islands Airports Limited (company number SC097647)
+- Historic Environment Scotland
+- An integration joint board established by virtue of section 9 of the Public Bodies (Joint Working) (Scotland) Act 2014 to which functions of a local authority and Health Board are delegated
+- A National Park authority established by virtue of a designation order under section 6 of the National Parks (Scotland) Act 2000
+- The chief constable of the Police Service of Scotland
+- The Scottish Courts and Tribunals Service
+- The Scottish Environment Protection Agency
+- The Scottish Fire and Rescue Service
+- The Scottish Further and Higher Education Funding Council
+- Scottish Futures Trust Limited
+- Scottish Land Commission
+- Scottish National Investment Bank plc
+- Scottish Natural Heritage
+- Scottish Sports Council
+- Scottish Water
+- A Special Health Board constituted under section 2(1)(b) of the NHS (Scotland) Act 1978
+- VisitScotland
+
+## Annotations
+
+[^key-6c9d335ab57bdddba8c4f4c204f33fdb]: Commencement: S. 1 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-7ba41aba03d99f0e0b11a7ecdeec04d3]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2026/7/section/1) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-66df53286a5d4ccb3397d89e3b38a99f]: Commencement: S. 2 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-52cde8102aefa34faed4c7b7cee3dfeb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2026/7/section/2) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-74fd2549626478cb143454a24633547f]: Commencement: S. 3 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-8cae885819c781804097d452133e3353]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/7/section/3) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-9b0dafd2e639ecc0ee179628ff59fdae]: Commencement: S. 4 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-5adddbcb943a37dc86ba034ad314b36b]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2026/7/section/4) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-74587357d2cacf1edb4e06d7190f5e45]: Commencement: S. 5 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-73ab99ea758fa062876d485200099651]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2026/7/section/5) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-712d16d42f39f19d83dd1345506261e9]: Commencement: S. 6 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-94256cd16e188c96f5cf38dcd368def1]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2026/7/section/6) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-cb42a6c85b9cdb20c5c5b83c5a9bf91c]: Commencement: S. 7 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-306f62776a092b0792d1c29bd5a4f5d2]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2026/7/section/7) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-c8bd694fea42898a893ceb7599218656]: Commencement: S. 8 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-33d555dd6a467a6e06284b5551bd23da]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2026/7/section/8) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-46b331d380c8eb891cb1358d654bf691]: Commencement: S. 9 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-1d17e574d7e5c6f7bbf77016984e60df]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2026/7/section/9) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-8fdb7051df7f6dcb8cdb76ef316b7560]: Commencement: S. 10 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-9d6986f90057105c88310215855db667]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2026/7/section/10) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-4e29f153519c847fd39978ad24d52073]: Commencement: S. 11 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-86104ac641e29b26edca5ed51f8c0c98]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2026/7/section/11) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+
+[^key-a1ab6cab371835f23d4fcf40258a1492]: Commencement: S. 12 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
+
+[^key-8db9a2430a353b0987e0c1037c7a4744]: Commencement: S. 13 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
+
+[^key-94cc64d6f16479abfb473cf922f614c0]: Commencement: S. 14 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
+
+[^key-42632299d207ef27fe951f8c8a7524eb]: Commencement: S. 15 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
+
+[^key-1df3b45433979442fb31dac1a023600a]: Commencement: Sch. not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+
+[^key-81778678ff6fe0833e9ec9673386d919]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2026/7/schedule) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)

@@ -1,0 +1,88 @@
+---
+title: Land Registration etc. (Scotland) Act 2012, section 113
+act: Land Registration etc. (Scotland) Act 2012
+section: '113'
+status: revised-with-pending-changes
+text_date: '2024-03-04'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2012/5/section/113
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Registration etc. (Scotland) Act 2012, section 113
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2024-03-04. See https://www.legislation.gov.uk/changes/affected/asp/2012/5
+>
+> Extent: Scotland.
+
+## 113. Interpretation
+
+*Extent: S*
+
+(1) In this Act, unless the context otherwise requires—
+
+- “**1995 Act**” means the Requirements of Writing (Scotland) Act 1995 (c.7),
+- “**advance notice**” has the meaning given by section 56(1),
+- “**application for registration**” means an application under section 21 or 27,
+- “**application record**” has the meaning given by section 15,
+- “**archive record**” has the meaning given by section 14(1),
+- “**the base map**” has the meaning given by section 11(6),
+- “**benefited property**” has the meaning given by section 122(1) of the Title Conditions (Scotland) Act 2003 (asp 9),
+- “**burdened property**” has the meaning given by section 122(1) of the Title Conditions (Scotland) Act 2003 (asp 9),
+- “**cadastral map**” has the meaning given by section 11(1),
+- “**cadastral unit**” has the meaning given by section 12,
+- “date of application” (in relation to an application for registration) has the meaning given by section 36,
+- “**date of registration**” has the meaning given by 37(1),
+- “**deed**” means a document (and includes a decree which is registrable under an enactment),
+- “**designation**” includes—
+  - (a) where the person designated is not a natural person—
+    - (i) the legal system under which the person is incorporated or otherwise established,
+    - (ii) if a number has been allocated to the person under section 1066 of the Companies Act 2006 (c.46), that number, and
+    - (iii) any other identifier (whether or not a number) peculiar to the person, and
+  - (b) if the person designated has a right in land in a special capacity, a description of that capacity,
+- “**the designated day**” has the meaning given by section 122,
+- “**enactment**” includes—
+  - (a) an enactment comprised in, or in an instrument made under, this Act, and
+  - (b) a local and personal or private Act,
+- “**existing title sheet**” means a title sheet which is in existence immediately before the commencement of the designated day,
+- “**flat**” has the meaning given by section 29(1) of the Tenements (Scotland) Act 2004 (asp 11),
+- “**flatted building**” has the meaning given by section 16(4),
+- “**heritable creditor**” means the holder of a heritable security,
+- “**heritable security**” means—
+  - (a) a standard security, or
+  - (b) any other right in security over heritable property provided that it is not a right in security created as a floating charge,
+- “**the Keeper**” means the Keeper of the Registers of Scotland,
+- “**land**” includes—
+  - (a) buildings and other structures,
+  - (b) the seabed of the territorial sea of the United Kingdom adjacent to Scotland (including land within the ebb and flow of the tide at ordinary spring tides), and
+  - (c) other land covered with water,
+- “**land register rules**” means rules made under section 115(1),
+- “**lease**” includes sub-lease,
+- “**lease title sheet**” means a title sheet for a registered lease,
+- “**personal real burden**” has the meaning given by section 122(1) of the Title Conditions (Scotland) Act 2003 (asp 9),
+- “**plot of land**” has the meaning given by section 3(4) and (5),
+- “**possession**” includes civil possession (analogous expressions being construed accordingly),
+- “**proprietor**” means a person who has a valid completed title as proprietor to a plot of land,
+- “**protected period**” has the meaning given by section 58(3),
+- “**the register**” means the Land Register of Scotland,
+- “**registrable deed**” is to be construed in accordance with section 49,
+- “sharing plot” and “shared plot” are to be construed in accordance with section 17(3),
+- “**tenement**” has the meaning given by section 26 of the Tenements (Scotland) Act 2004 (asp 11),
+- “**title condition**” has the meaning given by section 122(1) of the Title Conditions (Scotland) Act 2003 (asp 9),
+- “**title sheet record**” has the meaning given by section 3(3).
+
+(2) A deed on which an application under section 21 is based is “**valid**” for the purposes of this Act if—
+
+- (a) by the registration applied for, a right would be acquired, varied or extinguished, or
+- (b) the deed is certificatory of an acquisition, variation or extinction which has taken place.
+
+(3) In relation to a lease title sheet, any reference in this Act—
+
+- (a) to a proprietor is (except in section 66) to be read as a reference to the tenant,
+- (b) to a proprietorship section is to be construed as a reference to a tenancy section, and
+- (c) to ownership in common is to be construed as a reference to tenancy in common.
+
+(4) The Scottish Ministers may, by order, amend paragraph (b) of the definition of “designation” in subsection (1).
+
+(5) Before making such an order, the Scottish Ministers must consult the Keeper.

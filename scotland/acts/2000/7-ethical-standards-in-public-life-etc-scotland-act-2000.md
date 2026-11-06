@@ -1,0 +1,1641 @@
+---
+title: Ethical Standards in Public Life etc. (Scotland) Act 2000
+id: asp/2000/7
+type: ScottishAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2000-07-24'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2000/7
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2000/7/pdfs/aspen_20000007_en.pdf
+- http://www.legislation.gov.uk/asp/2000/7/pdfs/asp_20000007_en.pdf
+- http://www.legislation.gov.uk/asp/2000/7/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Ethical Standards in Public Life etc. (Scotland) Act 2000
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/asp/2000/7
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Ethical Standards in Public Life etc. (Scotland) Act 2000
+
+2000 asp 7
+
+[^c21057931]An Act of the Scottish Parliament to establish a framework for securing the observance of high standards of conduct by councillors and other persons holding public appointments; and to repeal section 2A of the Local Government Act 1986 and make provision as to how councils are to exercise functions which relate principally to children.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 21st June 2000 and received Royal Assent on 24th July 2000
+
+## PART 1 — CODES OF CONDUCT ETC.
+
+### 1. Code of conduct for councillors
+
+(1) The Scottish Ministers (“**Ministers**”) shall issue a code of conduct for councillors (the “**councillors’ code**”).
+
+(2) There shall be set out in the councillors’ code principles and rules governing the conduct of councillors.
+
+(3) These principles and rules shall include provision about the registration and declaration of the interests of councillors and their ineligibility to discuss or vote upon council business affecting these interests.
+
+(4) Ministers may, in order to assist themselves in carrying out their duty under subsection (1) above, invite such association of councils as seems appropriate to them to draw up and send them a suggested councillors’ code.
+
+(5) Ministers shall issue a councillors’ code only after it has been laid before and approved by a resolution of the Scottish Parliament.
+
+(6) The councillors’ code shall have effect as from such date (not earlier than its issue) as Ministers fix.
+
+(7) Ministers may revise or re-issue the councillors’ code; and subsections (4) to (6) above apply to any revisal or re-issue of the councillors’ code as they apply to its issue.
+
+(8) In subsection (3) above—
+
+- “**interests**” means pecuniary and non-pecuniary interests;
+- “**council business**” includes matters under consideration by any body on which a councillor is a representative or nominee of a council.
+
+### 2. Model code of conduct for members of devolved public bodies
+
+(1) Ministers shall issue a model code of conduct for members of devolved public bodies (the “**members’ model code**”).
+
+(2) There shall be set out in the members’ model code principles and rules governing the conduct of members of devolved public bodies.
+
+(3) These principles and rules shall include provision about the registration and declaration of the interests of members of devolved public bodies and their ineligibility to discuss or vote upon business of these bodies affecting these interests.
+
+(4) Ministers shall issue the members’ model code only after it has been laid before and approved by a resolution of the Scottish Parliament.
+
+(5) Ministers may revise or re-issue the members’ model code; and subsection (4) above applies to any revisal or re-issue of the members’ model code as it applies to the issue of the code.
+
+(6) The members’ model code may, for the purposes of sections 3(5) and 25(5) below, distinguish between those of its provisions which are mandatory and those which are optional.
+
+(7) In subsection (3) above, “**interests**” means pecuniary and non-pecuniary interests and the reference to the business of devolved public bodies shall, in relation to a member of such a body, be construed as including a reference to matters under consideration by any other body on which the member is a representative or nominee of the devolved public body.
+
+### 3. Codes of conduct for members of devolved public bodies
+
+(1) Each devolved public body shall, within the stipulated time limit, submit to Ministers a draft of a code of conduct for its members (a “**draft members’ code**”).
+
+(2) In subsection (1) above, the “**stipulated time limit**” is such time limit, being not earlier than three months after the making of the order under this subsection, as is stipulated in relation to each devolved public body by order made by Ministers.
+
+(3) Such an order shall be made by statutory instrument.
+
+(4) A statutory instrument made under this section shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(5) A draft members’ code—
+
+- (a) shall incorporate such mandatory provisions of the members’ model code as apply to the body submitting it;
+- (b) may incorporate any optional provisions of the members’ model code;
+- (c) may include such other provisions as are consistent with that code.
+
+(6) Ministers—
+
+- (a) may, with or without modifications made by them, approve a draft members’ code submitted to them;
+- (b) may substitute for a draft members’ code submitted to them a code of their own devising;
+- (c) shall, if a body fails to submit a draft members’ code in accordance with subsection (1) above, devise a code for that body.
+
+(7) Ministers shall, when approving, substituting or devising a code under subsection (6) above, have regard to the members’ model code.
+
+(8) Once a code has been approved, substituted or devised under subsection (6) above, it shall be called a “**members’ code**”.
+
+(9) Any reference in the following provisions of this Act to the members’ code is, in relation to a devolved public body, a reference to the members’ code applicable to members of that body.
+
+(10) A members’ code shall have effect as from such date as Ministers fix.
+
+(11) Ministers shall, prior to the date fixed for the coming into effect of a members’ code, intimate that date to the devolved public body.
+
+### 4. Revisal etc. of members’ codes
+
+(1) A devolved public body—
+
+- (a) may; and
+- (b) on being so required by Ministers and within such time as they direct, shall,
+
+submit to them a draft revisal or re-issue of the members’ code.
+
+(2) Ministers—
+
+- (a) may, with or without modifications made by them, approve a draft revisal or re-issue submitted to them under subsection (1) above;
+- (b) may substitute for a draft revisal or reissue submitted to them a revisal or re-issue of their own devising;
+- (c) shall, if a body fails to submit a draft revisal or re-issue in accordance with a requirement under subsection (1)(b) above, themselves revise or re-issue the members’ code.
+
+(3) Ministers shall impose a requirement under subsection (1)(b) above on a devolved public body if it appears to them that the members’ code is not, or is no longer, consistent with the members’ model code (or that code as revised or re-issued) as it applies to the body.
+
+(4) Where, however, in the case mentioned in subsection (3) above, Ministers consider it expedient in the public interest to do so, they may, without previously imposing the requirement under subsection (1)(b) above, themselves revise or re-issue the members’ code.
+
+(5) Ministers shall, when approving, substituting, revising or re-issuing a code under subsection (2) or revising or re-issuing a code under subsection (4) above, have regard to the members’ model code.
+
+(6) Subsections (9) to (11) of section 3 above apply in relation to the coming into effect of a revisal or re-issue of a members’ code as they apply to the coming into effect of the members’ code.
+
+### 5. Duties of councils and devolved public bodies
+
+(1) Every council shall, in accordance with any guidance issued for the purposes of this section by the Standards Commission for Scotland established by section 8 below—
+
+- (a) promote the observance by its councillors of high standards of conduct; and
+- (b) assist them to observe the councillors’ code.
+
+(2) Every devolved public body shall, in accordance with any such guidance—
+
+- (a) promote the observance by its members of high standards of conduct; and
+- (b) assist them to observe the members’ code.
+
+### 6. Issue of guidance by Standards Commission
+
+(1) The Commission shall issue guidance to councils and devolved public bodies on its relationship with them in the carrying out of its functions under this Act.
+
+(2) Before issuing any such guidance, the Commission shall consult such association of local authorities and any such other bodies or persons as it thinks fit.
+
+### 7. Register of interests[^c21051001]
+
+(1) Every council and every devolved public body shall set up, maintain and make available for public inspection a register of such interests as, respectively—
+
+- (a) under the councillors’ code, its councillors; and
+- (b) under the members’ code, its members,
+
+are required to register.
+
+(2) The duties under subsection (1) above shall be carried out in accordance with such regulations as may be made by Ministers for the purposes of this section and such guidance as may be issued by the Standards Commission for Scotland for those purposes.
+
+(3) In the event of any conflict between those regulations and that guidance, the regulations shall prevail.
+
+(4) Those regulations shall be made by statutory instrument.
+
+(5) A statutory instrument made under this section shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+## PART 2 — ENFORCEMENT
+
+### 8. Standards Commission for Scotland
+
+(1) There shall be a Standards Commission for Scotland (“**the Commission**”).
+
+(2) Its functions shall be—
+
+- (a) those functions given to it by this Act; and
+- (b) any others relating to the conduct of councillors and members of devolved public bodies given to it by order made by Ministers.
+
+(3) Its members, of whom there shall be not fewer than three, shall be appointed by the Parliamentary corporation—[^c21057941]
+
+- (a) after consulting such association of councils and such other persons as the Parliamentary corporation thinks appropriate; and
+- (b) with the agreement of the Parliament.
+
+(4) Schedule 1 to this Act provides further about the Commission.
+
+(4A)[^c21057961] Ministers shall consult the Parliamentary corporation and the Commission before making an order under subsection (2)(b).
+
+(5) An order under subsection (2)(b) above shall be made by statutory instrument.
+
+(6)[^c21058001] No statutory instrument may be made under this section unless a draft of it has been laid before and approved by the Parliament.
+
+(7) Different provision may be made under subsection (2)(b) above as respects councillors and as respects members of devolved public bodies.
+
+(8) The Commission shall, in relation to those of its functions which affect matters within the functions of—
+
+- (a) the Accounts Commission for Scotland; or
+- (b)[^c17781481] the Scottish Public Services Ombudsman,
+
+consult that other Commission or, as the case may be, that Ombudsman[^c17781501] .
+
+### 9. Commissioner for Ethical Standards in Public Life in Scotland to investigate breaches of codes[^c21058031][^key-3e08c0e8ff663575b4d05f964ca5a213]
+
+It is the duty of the Commissioner for Ethical Standards in Public Life in Scotland[^key-3b6ba8adce41fa8ed31cd517c18d7efc] (the “Commissioner”) to investigate and report to the Commission on cases in which a councillor or member of a devolved public body has, might have or is alleged to have contravened the councillors' or, as the case may be, the members' code.
+
+### 10. Relationship between Commission and Commissioner for Ethical Standards in Public Life in Scotland[^key-6c246dcf691ac4f88fb115c0cd218860]
+
+(1) The Commissioner[^c21058221] shall, subject to subsection (2) below, in carrying out the Commissioner's functions under this Act[^c21058241], comply with any directions given by the Commission.
+
+(2) The Commission shall not, however, direct the Commissioner as to how the Commissioner[^c21058251] carries out any investigation.
+
+### 11. Commissioner for Ethical Standards in Public Life in Scotland to provide Commission with information[^key-1225c300556bcba20ade32cbf5c5e701]
+
+The Commissioner[^c21058281] shall provide the Commission with such information concerning the discharge of the Commissioner's[^c21058331] functions under this Act[^c21058291] as the Commission requires.
+
+### 12. Conduct of ... Commissioner's investigations[^key-11fb4d12cf219881b8c3bf959a6c9a8e][^c21058671]
+
+(1) Subject to section 10 above and subsection (2) below, it is for the Commissioner[^c21058591] to decide whether, when and how to carry out any investigation.
+
+(2) Investigations shall, so far as possible, be conducted confidentially.
+
+(3) An investigation may take place notwithstanding that the person whose conduct is to be investigated is no longer a councillor or, as the case may be, a member of a devolved public body.
+
+(4)[^key-facabb5bdfbd537b472796bcfc74e963] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) If it appears to the Commissioner that an investigation being carried out under this section will not be completed within three months of the date on which it began, the Commissioner[^c21058641] shall, in writing, inform—
+
+- (a) the Commission;
+- (b) the councillor or member whose contravention, or possible or alleged contravention, of the councillors’ or, as the case may be, members’ code is the subject of the investigation; and
+- (c) the council or devolved public body,
+
+of that fact.
+
+(6) Investigations shall, so far as is possible, only be undertaken in response to allegations of misconduct which are made in writing and signed by the complainant.
+
+### 13. ... Commissioner's powers[^key-d9bf1e5034edb2f1da2517e8326b4654][^c21058901]
+
+(1) For the purposes of an investigation, the Commissioner[^c21058711]—
+
+- (a) may require any person who, in the opinion of the Commissioner[^c21058871], is able to give relevant information or produce relevant documents to do so; and
+- (b) shall have the same powers as the Court of Session to enforce the attendance and examination of witnesses and the production of documents.
+
+(2) No person, however, shall be compelled to give any evidence or produce any documents which that person could not be compelled to give or produce in civil proceedings in the Court of Session.
+
+(3) If, without reasonable excuse, any person obstructs the Commissioner in the performance of the Commissioner's[^c21058891] functions or does anything in relation to an investigation which, had that investigation been proceedings in the Court of Session, would be contempt of court, the Chief Investigating Officer may certify that conduct to the Court of Session.
+
+(4) Where a person’s conduct is so certified, the Court of Session may deal with the person as if any such conduct as occurred had taken place in relation to that Court.
+
+(5) In this section “**documents**” includes information held by means of a computer or in any other electronic form.
+
+### 14. ... Commissioner's reports[^key-5f2dc4330092ecdeebc6197b6aac5e3e][^c21058941]
+
+(1) Subject to section 10 above, it is for the Commissioner[^c21058911] to decide whether to report to the Commission on the outcome of any investigation.
+
+(2) No report concluding that a councillor or a member of a devolved public body has contravened the councillors’ or, as the case may be, the members’ code shall be submitted to the Commission unless the councillor or member has been given a copy of the proposed report and an opportunity to make representations on the alleged contravention and on the proposed report.
+
+(3) At the same time as the Commissioner gives a copy of a proposed report to a councillor or a member of a devolved public body for the purposes of subsection (2) above, the Commissioner[^c21058931] shall give a further copy to the council or, as the case may be, the devolved public body.
+
+### 15. Publication of reports
+
+The Commission may publish a report submitted to it under section 14 above, and may do so in whatever way and send it to whomever it thinks fit.
+
+### 16. Action on receipt of reports
+
+On receiving a report from the Commissioner[^c21060121], the Commission may—
+
+- (a) direct the Commissioner[^c21060161] to carry out further investigations;
+- (b) hold a hearing; or
+- (c) do neither,
+
+and, where it acts under paragraph (a) or (b) above, may do so at any time.
+
+### 17. Hearings before Commission
+
+(1) Subject to subsections (2) to (10) below, the procedure at a hearing held under section 16(b) above shall be such as the Commission determines.
+
+(2) The Commission may, at any one hearing, consider alleged contraventions of the councillors’ code by more than one councillor or of the members’ code by more than one member of a devolved public body.
+
+(3) A hearing shall be conducted by not fewer than three members of the Commission selected by the convener of the Commission.
+
+(4) A councillor or member of a devolved public body whose conduct is being considered by a hearing is entitled to be heard there either in person or represented by counsel or a solicitor or any other person.
+
+(5) The members of the Commission conducting a hearing may—
+
+- (a) require any person to attend the hearing, give evidence and produce documents;
+- (b) administer oaths.
+
+(6) A person shall not, however, be compelled to give any evidence or produce any documents which that person could not be compelled to give or produce in civil proceedings in the Court of Session.
+
+(7) A person who, without reasonable excuse, fails to comply with a requirement imposed under subsection (5)(a) above is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(8) The Commission may pay persons appearing at a hearing or attending it for the purpose of giving evidence or producing documents such expenses or allowances as it , with the approval of the Parliamentary corporation, determines[^c21060191].
+
+(9) A hearing shall be held in public unless the members of the Commission conducting it determine that it is in the public interest that it, or such part of it as they specify for the purposes of this subsection, be not so held.
+
+(10) In this section, “**documents**” shall be construed as in section 13 above.
+
+### 18. Findings of hearings
+
+(1) The members of the Commission conducting a hearing shall state their findings in writing and give a copy to—
+
+- (a) the councillor or member of a devolved public body whose contravention, or possible or alleged contravention, of the councillors’ or, as the case may be, the members’ code was the subject of the hearing;
+- (b) the council or the devolved public body;
+- (c) any person the Commission considers should, under this paragraph, receive a copy; and
+- (d) any other person seeking a copy who has paid the Commission’s reasonable charge for providing it.
+
+(2) A council or devolved public body receiving a copy of findings under subsection (1) above shall consider those findings within three months of receiving them or within such longer period as the Commission may specify in writing.
+
+(3) The duty imposed on a council or devolved public body by subsection (2) above shall be discharged only by that council or body and not by a committee or sub-committee or an officer.
+
+### 19. Action on finding of contravention
+
+(1) Where the members of the Commission conducting a hearing find that a councillor has contravened the councillors’ code or a member of a devolved public body the members’ code, they shall impose one of the following sanctions—
+
+- (a) censuring, but otherwise taking no action against, the councillor or member;
+- (b) suspending, for a period not exceeding one year, the councillor’s or member’s entitlement to attend one or more but not all of the following—
+  - (i) all meetings of the council or body;
+  - (ii) all meetings of one or more committees or sub-committees of the council or body;
+  - (iii) all meetings of any other body on which the councillor or member is a representative or nominee of the council or body;
+- (c) suspending, for a period not exceeding one year, the councillor’s or member’s entitlement to attend meetings of the council or body and of any committee or sub-committee thereof and of any other body on which the councillor or member is a representative or nominee of the council or body;
+- (d) in the case of a councillor, disqualifying the councillor for a period not exceeding five years, from being, or from being nominated for election as, or from being elected, a councillor;
+- (e) in the case of a member of a devolved public body, removing the member from membership of the body and disqualifying the member, for a period not exceeding five years, from membership of the body.
+
+(2) A period of suspension imposed under subsection (1)(b) or (c) above which would continue until or after the day of the next following ordinary election of councillors shall end at the beginning of that day.
+
+(3) Disqualification imposed under subsection (1)(d) above—
+
+- (a) has the effect of vacating the councillor’s office; and
+- (b) extends to the councillor’s membership of committees and sub-committees of the council of which the councillor was a member and any joint committee, joint board or other body on which the councillor is a representative or nominee of the council.
+
+(4) Where the members of the Commission disqualify, under subsection (1)(d) above, a councillor who is also a member of a devolved public body otherwise than as a representative or nominee of the council, they may also, in respect of that membership, remove and disqualify that person under subsection (1)(e) above [^c21052061]. . . .
+
+(5) The members of the Commission, on removing and disqualifying a member of a devolved public body under subsection (1)(e) above, may—
+
+- (a) where the member is a councillor, disqualify that person under subsection (1)(d) above;
+- (b) direct that the removal from membership and disqualification apply also in respect of any other devolved public body of which the member is a member; [^c21052101]. . .
+- (c) [^c21052101]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The members of the Commission may, on imposing a suspension under subsection (1)(b) or (c) above on a member of a devolved public body, direct that any remuneration or allowance deriving from membership of the body that would be payable to the member be not paid or be reduced as they direct.
+
+(7) The powers to remove and disqualify a person from membership of a devolved public body under subsections (4) and (5)(b) above are exercisable as respects that body only after the members’ code applicable to that body first has effect.
+
+(8) The Commission shall, after consulting such association of local authorities and any such other bodies or persons as it thinks fit, issue guidance to councils on the extent to which a councillor should engage in activities (other than those mentioned in subsection (1)(c) above) which are, or may be perceived to be, the activities of a councillor during a period of suspension.
+
+### 20. Duty of Commission to provide information
+
+The members of the Commission who are to conduct a hearing under section 16(b) above, shall, before doing so, give written notice to the councillor or member of the devolved public body whose contravention, or possible or alleged contravention, of the councillors’ or, as the case may be, the members’ code is to be the subject of the hearing, of—
+
+- (a) the procedure to be followed at the hearing; and
+- (b) the sanctions which may be imposed following a finding of a contravention of the councillors’ or, as the case may be, the members’ code by that councillor or member.
+
+### 21. Interim reports on investigations and action thereon
+
+(1) The Commissioner[^c21060221] may, and, if so directed by the Commission, shall, submit an interim report on an investigation being conducted by the Commissioner[^c21060231].
+
+(2) On receiving an interim report, the Commission, if it is satisfied—
+
+- (a) that the further conduct of the investigation is likely to be prejudiced if the sanction mentioned in subsection (3) below is not imposed; or
+- (b) that otherwise it would be in the public interest to impose that sanction,
+
+then it may impose that sanction.
+
+(3) That sanction is suspending the councillor or member of the devolved public body whose alleged contravention of the councillors’ code or, as the case may be, the members’ code was the subject of the interim report from the entitlement set out in section 19(1)(c) above for a period not exceeding three months.
+
+(4) The Commission shall not require to hold a hearing before proceeding to impose that sanction, but shall give the councillor or member an opportunity to make representations on the alleged contravention of the councillors’ code or, as the case may be, the members’ code and on the interim report.
+
+(5) The Commission shall put its decision under this section in writing and shall give a copy to—
+
+- (a) the councillor or member;
+- (b) the council or devolved public body of which that person is a member; and
+- (c) any other person seeking a copy of the decision who has paid the Commission’s reasonable charges for providing such a copy.
+
+(6) A period of suspension imposed under this section ends upon—
+
+- (a) the issue of findings under section 18 above that the councillor or member has not contravened the councillors’ code or, as the case may be, the members’ code;
+- (b) the imposition of a sanction under section 19 above; or, as the case may be,
+- (c) a decision by the Commission under section 16(c) above not to hold a hearing.
+
+(7) A period of suspension imposed upon a councillor under this section which would continue until or after the day of the next following ordinary election of councillors ends at the beginning of that day.
+
+(8) If, however, the councillor is re-elected at that election, the Commission may re-impose the suspension.
+
+(9) The period for which suspension may be re-imposed under subsection (8) above is that for which it would have continued to apply but for subsection (7) above.
+
+(10) On the expiry (otherwise than by operation of subsection (6) or (7) above) of a period of suspension, it may be renewed by the Commission for a period not exceeding three months and a renewed period may likewise be further renewed.
+
+(11) Where, but for suspension under this section—
+
+- (a) a councillor would be entitled to receive basic allowance and special responsibility allowance from the council; or
+- (b) a member of a devolved public body would be entitled to receive a salary or daily or other periodic allowance or other payment having the character of remuneration or an honorarium from the devolved public body,
+
+the suspension under this section shall not affect that entitlement; but nothing in this subsection authorises the payment or reimbursement of travelling, subsistence or other allowances or expenses.
+
+(12) In subsection (11) above “**basic allowance**” and “**special responsibility allowance**” are the respective allowances referred to in section 18(1)(a) and (c) of the Local Government and Housing Act 1989 (c.42).
+
+### 22. Appeals from Commission
+
+(1) A councillor or member of a devolved public body—
+
+- (a) who is the subject of a finding under section 18 above of a contravention of the councillors’ or, as the case may be, the members’ code;
+- (b) on whom a sanction under section 19(1)(b) to (e), (4) or (5) above has been imposed; or
+- (c) who has been suspended under section 21(2) above,
+
+may appeal to the sheriff principal of the sheriffdom in which the relevant council or devolved public body has its principal office.
+
+(2) The relevant council or, as the case may be, devolved public body is—
+
+- (a) in the case, where—
+  - (i) a finding of a contravention of the councillors’ or the members’ code has been made under section 18 above;
+  - (ii) a sanction under section 19(1) above has been imposed following such a finding;
+  - (iii) a sanction under section 19(4) or (5) above has been imposed following such a finding,
+
+  the council or devolved public body to which the finding relates;
+- (b) where suspension under section 21(2) above has been imposed, the council or devolved public body from which the councillor or member has been suspended;
+- (c) where the appeal is in respect of findings which relate to more than one council or devolved public body, any one of those councils or devolved public bodies.
+
+(3) An appeal—
+
+- (a) under subsection (1)(a) above may be made on one or more of the following grounds—
+  - (i) that the Commission’s finding was based on an error of law;
+  - (ii) that there has been procedural impropriety in the conduct of any hearing held under section 16(b) above;
+  - (iii) that the Commission has acted unreasonably in the exercise of its discretion;
+  - (iv) that the Commission’s finding was not supported by the facts found to be proved by the Commission;
+- (b) under subsection (1)(b) above, may be made on one or both of the following grounds—
+  - (i) that the sanction imposed was excessive;
+  - (ii) that the Commission has acted unreasonably in the exercise of its discretion;
+- (c) under subsection (1)(c) above, may be made only on the ground that the Commission has acted unreasonably in the exercise of its discretion.
+
+(4) An appeal under subsection (1) above shall be lodged within 21 days of—
+
+- (a) the sending of the finding under section 18 above to the councillor or member;
+- (b) the imposition of the sanction under section 19(1) above; or, as the case may be,
+- (c) the imposition of the suspension under section 21(2) above.
+
+(5) A finding made or sanction imposed by the Commission continues to have effect notwithstanding the lodging of an appeal under subsection (1) above.
+
+(6) The sheriff principal may—
+
+- (a) in an appeal under subsection (1)(a) above—
+  - (i) confirm the finding under section 18 above;
+  - (ii) quash the finding;
+  - (iii) quash the finding and remit the matter to the Commission to reconsider its decision;
+- (b) in an appeal under subsection (1)(b) above—
+  - (i) confirm the sanction;
+  - (ii) quash the sanction and either substitute a lesser sanction or remit the matter back to the Commission;
+- (c) in an appeal under subsection (1)(c) above, quash the suspension;
+- (d) award expenses.
+
+(7) The decision of the sheriff principal under subsection (1) above is a final judgment for the purposes of section 114(1) (appeal from the sheriff principal to the Court of Session) of the Courts Reform (Scotland) Act 2014[^key-baf5fe3bb0e52c712c284bec5648920c].
+
+(8) In an appeal from the sheriff principal by virtue of subsection (7) above, the Court of Session has the powers specified in subsection (6) above.
+
+(9) The Commission may be a party to any appeal under subsection (1) above and in any appeal from the decision of the sheriff principal.
+
+### 23. Special provision for enforcement and suspension in case of Crown appointments
+
+(1) Sections 19, 21(2) and 22 above do not apply in the case of members of devolved public bodies who have been appointed by Her Majesty.
+
+(2) Where the members of the Commission conducting a hearing under section 16(b) above find that a member of a devolved public body so appointed has contravened the members’ code they shall submit to the First Minister a recommendation under subsection (3) below.
+
+(3) That recommendation is that there be imposed on the member such sanction as is specified in the recommendation (being one of those which may be imposed under subsection (1) of section 19 above on a member of a devolved public body who has been appointed otherwise than by Her Majesty) together with any such direction as is so specified (being one of those which may be made under that section in respect of such a member).
+
+(4) A recommendation under subsection (3) above having been made, Her Majesty may, on the advice of the First Minister—
+
+- (a) impose on the member who is the subject of the recommendation any sanction; and
+- (b) in that respect, make any direction,
+
+which could, under section 19 above, be imposed on or made in respect of a member of a devolved public body who was appointed otherwise than by Her Majesty.
+
+(5) Where the Commissioner[^c21060261] submits an interim report under section 21(1) above in respect of a contravention of the members’ code by a member of a devolved public body who has been appointed by Her Majesty, the Commission may submit to the First Minister a recommendation under subsection (6) below.
+
+(6) That recommendation is that the member be suspended from the entitlement set out in section 19(1)(c) above for a period not exceeding three months.
+
+(7) A recommendation under subsection (6) above having been made, Her Majesty may, on the advice of the First Minister, impose any suspension on a member who is the subject of the recommendation which could, under section 21 above, be imposed on a member of a devolved public body who was appointed otherwise than by Her Majesty.
+
+(8) A period of suspension imposed under subsection (7) above ends upon—
+
+- (a) the issue of findings under section 18 above that the member has not contravened the members’ code;
+- (b) the imposition of a sanction under this section; or, as the case may be,
+- (c) a decision by the Commission under section 16(c) above not to hold a hearing.
+
+(9) On the expiry (otherwise than by operation of subsection (8) above) of a period of suspension it may be renewed by Her Majesty, on the advice of the First Minister, for a period not exceeding three months and a renewed period may likewise be further renewed.
+
+### 24. Special provision for employee and ex officio members of devolved public bodies
+
+(1) Sections 16 to 19, 21 (other than subsection (1)) and 22 of this Act do not apply in the case of a member of a devolved public body—
+
+- (a) who is also an employee; or
+- (b) who is an ex officio member,
+
+of the body.
+
+(2) On receiving—
+
+- (a) a report under section 14 above; or
+- (b) an interim report under section 21(1) above,
+
+relating to such a member, the Commission shall send it to the devolved public body.
+
+### 25. Special provision for the Water Industry Commissioner
+
+[^c21052111]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Appeals by Water Industry Commissioner
+
+[^c21052131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Protection from actions of defamation[^key-bc0d02825c3969afd92660af0e89f960]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — GENERAL AND MISCELLANEOUS PROVISIONS RELATING TO PARTS 1 TO 3
+
+### 28. Definitions
+
+(1) In Parts 1 and 2 and this Part of this Act—
+
+- “Commissioner” means the Commissioner for Ethical Standards in Public Life in Scotland;[^key-4cd96531f0b3a6f2df4aa738f0651100]
+- “**the Commission**” means the Standards Commission for Scotland set up by section 8 above;
+- “**council**” means a council constituted by section 2 of the Local Government etc. (Scotland) Act 1994 (c.39);
+- “**councillor**” shall be construed accordingly;
+- “**councillors’ code**” means the code of conduct for councillors for which provision is made in section 1 above;
+- “**devolved public body**” means a body listed in schedule 3 to this Act;
+- “[^c21060351]**investigation**” means an investigation under this Act;
+- “**joint board**” and “**joint committee**” have the meanings respectively given by section 235 of the Local Government (Scotland) Act 1973 (c.65);
+- “[^key-34700d790dbb477fea30dfe07a43f84c]**member**”, in relation to the Scottish National Investment Bank p.l.c., means that company's directors (and “**membership**” is to be construed accordingly);
+- “**members’ code**” means a code of conduct for members of a devolved public body for which code provision is made in section 3 above;
+- “**members’ model code**” means the model code for members of devolved public bodies issued under section 2(1) above;
+- “**Ministers**” means the Scottish Ministers.
+
+(2) Ministers may by order modify schedule 3 to this Act by—
+
+- (a) adding to the bodies listed there any Scottish public authority with mixed functions or no reserved functions;
+- (b) deleting the entry relating to any body listed there.
+
+(3) An order under subsection (2) above may contain such provisions as appear to Ministers to be necessary or expedient in connection with the addition or deletion effected by the order, including provisions modifying the application of this Act or any other enactment to the body to which the order relates.
+
+(4) An order under subsection (2) above shall be made by statutory instrument.
+
+(5) A statutory instrument made under this section shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+### 29. Suspension and disqualification of councillors: supplementary and consequential provisions
+
+(1) In section 35 (vacation of office by failure to attend meetings) of the Local Government (Scotland) Act 1973 (c.65)—
+
+- (a) in subsection (1) for “(2) and (3)” there is substituted “ (2) to (4) ”; and
+- (b) at the end there is added—
+
+  > (4) The absence of a member of a local authority from a meeting of the authority during a period of suspension imposed on the member under section 103F or 103G of this Act or section 19 or 21(2) of the Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7) is not, for the purposes of this section, a failure to attend the meeting.
+
+  .
+
+(2) In section 36 (casual vacancies) of that Act, in paragraph (c), after the word “principal” there is inserted “ or become vacant by operation of section 19(3)(a) (effect of disqualification) of the Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7). ”.
+
+### 30. Modification of enactments etc.
+
+(1) Ministers may, by order, make such modification as they consider necessary or expedient of any enactment or instrument governing the conduct of a councillor or a member of a devolved public body [^c21052141]. . . or the tenure of office, suspension, removal from office, disqualification or discipline of any such person in order to make that enactment or instrument consistent with this Act and with the provisions of any code under it applicable to that person.
+
+(2) An order under subsection (1) above shall be made by statutory instrument.
+
+(3) No such order shall be made unless a draft of the statutory instrument has been laid before, and approved by a resolution of, the Scottish Parliament.
+
+### 31. Preservation of previous law and rules in relation to members of devolved public bodies
+
+Subject to sections 30 above and 36 below, nothing in this Act or in any code under it affects the continued operation in relation to a member of a devolved public body of any enactment or other provision governing the conduct of that member or that member’s tenure of office or the suspension, removal from membership, disqualification or discipline of that member.
+
+## PART 4 — CODES OF CONDUCT FOR MEMBERS OF OTHER BODIES
+
+### 32. Codes of conduct for members of certain Scottish public authorities
+
+(1) Ministers shall issue (and may revise or reissue) a code or codes in respect of the conduct of members of such Scottish public authorities as are specified by Ministers by order.
+
+(2) Where Ministers issue more than one such code, those codes may provide differently in respect of the members of different such authorities.
+
+(3) Ministers shall, when preparing provisions for a code under this section, have regard to the members’ model code.
+
+(4) Ministers shall not, in an order under this section, specify any authority which is a devolved public body.
+
+(5) Ministers may, in such an order, define “member” for the purposes of this section and may do so differently in relation to different authorities.
+
+(6) It is the duty of a member of an authority to which a code under this section applies to have regard to the provisions of the code in the carrying out of the member’s functions and activities as such.
+
+(7) An order under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(8) In this section, “**Ministers**”, “**devolved public body**” and “**members’ model code**” have the same meanings as in Parts 1 to 3 of this Act.
+
+## PART 5 — FUNCTIONS OF CONTROLLER OF AUDIT AND ACCOUNTS COMMISSION FOR SCOTLAND
+
+### 33. Procedure for special reports and modification of surcharge provisions[^c8876211]
+
+(1) In section 102 (reports to Accounts Commission for Scotland by Controller of Audit) of the Local Government (Scotland) Act 1973 (c.65)—
+
+- (a) in subsection (3), for “shall” there is substituted “ may ”;
+- (b) after subsection (3) there is inserted—
+
+  > (3A) No such special report shall, however, be so made unless—
+  >
+  > - (a) the authority; and
+  > - (b) any person named or referred to in the report—
+  >   - (i) as being to blame in connection with an item of account being contrary to law; or
+  >   - (ii) whose failure, negligence or misconduct is a subject of the report,
+  >
+  >   has been given a copy of the proposed report and an opportunity to make representations to the Controller on the proposed report and on any of the matters dealt with in it.
+
+  .
+
+(2) In section 103 (action by Accounts Commission for Scotland on reports by Controller of Audit) of that Act—
+
+- (a) in subsection (1)—
+  - (i) the words “Subject to subsection (2) below,” are repealed; and
+  - (ii) after the words “any report” there is inserted “ , except a special report under section 102(3) of this Act, ”;
+- (b) subsections (2) to (5) are repealed.
+
+(3) After section 103 of that Act there are inserted the following sections—
+
+> **103A. Publication of special reports**
+>
+> The Commission may publish a special report made to it under section 102(3) of this Act, and may do so in whatever way and send it to whomever it thinks fit.
+>
+> **103B. Action by Commission on receipt of special reports**
+>
+> (1) On receiving a special report under section 102(3) of this Act from the Controller of Audit, the Commission may—
+>
+> - (a) direct the Controller to carry out further investigations;
+> - (b) hold a hearing;
+> - (c) state a case on any question of law arising on the special report for the opinion of the Court of Session;
+> - (d) subject to subsections (2) and (3) below, do none of the above.
+>
+> (2) The Commission shall hold a hearing if requested to so in writing by—
+>
+> - (a) the local authority which was sent a copy of the report under section 102(3A) of this Act;
+> - (b) any person, named or referred to in the report—
+>   - (i) as being to blame in connection with an item of account being contrary to law;
+>   - (ii) whose failure, negligence or misconduct is a subject of the report; or
+>   - (iii) who was sent a copy of the report under section 102(3A) of this Act.
+>
+> (3) The Commission shall state a case under subsection (1)(c) above if directed to do so by the Court of Session.
+>
+> **103C. Hearings on special reports**
+>
+> (1) Subject to subsections (2) to (12) below, the procedure at a hearing held under section 103B(1)(b) of this Act shall be such as the Commission determines.
+>
+> (2) The Commission may, at any one hearing, consider—
+>
+> - (a) allegations of blame, in connection with an item of account being contrary to law, against; and
+> - (b) failures, negligence or misconduct by,
+>
+> more than one officer or member of a local authority.
+>
+> (3) A hearing shall be conducted by not fewer than three members of the Commission selected by the chairman of the Commission.
+>
+> (4) Notwithstanding paragraph 4(1) of Schedule 8 to this Act, for the purposes of this section, the quorum for a meeting of the Commission shall be three.
+>
+> (5) The following—
+>
+> - (a) an officer or member—
+>   - (i) as to whom the question of blame in connection with an item of account being contrary to law is; or
+>   - (ii) whose alleged failure, negligence or misconduct is being considered by a hearing, is; and
+> - (b) the local authority are,
+>
+> entitled to be heard at the hearing.
+>
+> (6) An officer or member entitled to be heard at a hearing shall be entitled to be heard either in person or represented by counsel or a solicitor or any other person.
+>
+> (7) The members of the Commission conducting a hearing may—
+>
+> - (a) require any person, including officers or members or former officers or members of any local authority, to attend the hearing, give evidence and produce documents;
+> - (b) administer oaths.
+>
+> (8) A person shall not, however, be compelled to give any evidence or produce any documents which that person could not be compelled to give or produce in civil proceedings in the Court of Session.
+>
+> (9) A person who, without reasonable excuse, fails to comply with a requirement imposed under subsection (7)(a) above is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+>
+> (10) The Commission may pay persons appearing at a hearing or attending it for the purpose of giving evidence or producing documents such expenses or allowances as it thinks fit.
+>
+> (11) A hearing shall be held in public unless the members of the Commission conducting it determine that it is in the public interest that it, or such part of it as they specify for the purposes of this subsection, be not so held.
+>
+> (12) In this section, “**documents**” includes information held by means of a computer or in any other electronic form.
+>
+> **103D. Findings of hearings**
+>
+> The members of the Commission conducting a hearing under section 103B(1)(b) of this Act shall state their findings in writing and give a copy to—
+>
+> - (a) any officer or member of the local authority who is or was blamed in connection with an item of account being contrary to law or whose failure, negligence or misconduct, or alleged failure, negligence or misconduct, was a subject of the hearing;
+> - (b) the local authority;
+> - (c) any other person the Commission considers should, under this paragraph, receive such a copy; and
+> - (d) any other person seeking a copy of those findings who has paid the Commission’s reasonable charge for providing such a copy.
+>
+> **103E. Action by local authorities on receipt of findings under section 103D**
+>
+> (1) A local authority receiving a copy of findings under section 103D of this Act shall consider those findings at a meeting of the authority within three months of receiving them or within such longer period as the Commission may specify in writing.
+>
+> (2) The duty imposed on a local authority by subsection (1) above shall be discharged only by that authority and not by a committee or sub-committee or an officer.
+>
+> (3) Where findings received by a local authority contain recommendations under section 103F(3)(b) of this Act, the authority shall decide—
+>
+> - (a) whether to accept any or all of those recommendations;
+> - (b) what, if any, action to take in response to those recommendations.
+>
+> (4) A meeting under subsection (1) above shall not be held unless, at least seven clear days before the meeting, there has been published, in a newspaper circulating in the area of the local authority concerned, a notice which—
+>
+> - (a) states the time and place of the meeting;
+> - (b) indicates that the meeting is to be held in order to consider the findings of the Commission and any recommendations in those findings; and
+> - (c) describes the nature of those findings and of any such recommendations.
+>
+> (5) The local authority shall, as soon as practicable after that meeting—
+>
+> - (a) notify the Commission of any decisions made in pursuance of subsection (3) above; and
+> - (b) publish, in a newspaper circulating in the area of the local authority, a notice containing a summary, approved by the Commission, of any such decisions.
+>
+> (6) A notice under subsection (5)(b) above shall not need to summarise any decision made while the public were excluded from the meeting—
+>
+> - (a) under section 50A(2) of this Act (confidential matters) or in pursuance of a resolution under section 50A(4) of this Act (exempt information); but
+> - (b) in a case where sections 50C and 50D of this Act (availability for inspection after meetings of minutes, background papers and other documents) apply in relation to the meeting, shall indicate the documents which, in relation to that meeting, are open for inspection in accordance with those sections.
+>
+> (7) This section is without prejudice to any other duties (so far as they relate to the subject-matter of findings or recommendations sent to the authority) which are imposed by or under Part VII of this Act, section 5 of the Local Government and Housing Act 1989 (c.42) (functions of monitoring officers) or any other enactment.
+>
+> **103F. Action on finding of failure, negligence or misconduct**
+>
+> (1) Where the members of the Commission conducting a hearing under section 103B(1)(b) of this Act find that—
+>
+> - (a) any item of account is contrary to law;
+> - (b) there has been a failure on the part of any person to bring into account any sum which ought to have been brought into account;
+> - (c) any loss has been incurred or deficiency caused by the negligence or misconduct of any person or by the failure of the local authority to carry out any duty imposed on them by any enactment;
+> - (d) any sum which ought to have been credited or debited to one account of the local authority has been credited or, as the case may be, debited to another account of the authority and the Commission are not satisfied that the authority has taken or is taking such steps as may be necessary to remedy the matter,
+>
+> they may, as appropriate, impose one of the sanctions specified in subsection (2) or make any of the recommendations in subsection (3) below.
+>
+> (2) The sanctions which may be imposed under subsection (1) above are—
+>
+> - (a) censuring, but otherwise taking no action against, an officer or member of the authority;
+> - (b) suspending, for a period not exceeding one year, the entitlement of a member of a local authority to attend one or more but not all of the following—
+>   - (i) all meetings of the local authority;
+>   - (ii) all meetings of one or more committees or sub-committees of the local authority;
+>   - (iii) all meetings of any other body on which the member is a representative or nominee of the local authority;
+> - (c) suspending, for a period not exceeding one year, the entitlement of a member of a local authority to attend meetings of the local authority and of any committee or sub-committee thereof and of any other body on which the member is a representative or nominee of the local authority;
+> - (d) disqualifying a member of a local authority for a period not exceeding five years, from being, or from being nominated for election as, or from being elected, such a member.
+>
+> (3) In the case of a local authority, the Commission may—
+>
+> - (a) make recommendations to the Scottish Ministers that they make an order directing the authority to make such rectification of their accounts as appears to the Commission necessary;
+> - (b) include in its findings any recommendations arising from those findings which the Commission think fit.
+>
+> (4) A period of suspension imposed under subsection (2)(b) or (c) above which would continue until or after the day of the next following ordinary election of members shall end at the beginning of that day.
+>
+> (5) Disqualification imposed under subsection (2)(d) above—
+>
+> - (a) has the effect of vacating the member’s office; and
+> - (b) extends to membership of committees and sub-committees of the local authority of which the member was a member and any joint committee, joint board or other body on which the member is a representative or nominee of the local authority.
+>
+> (6) The Commission shall, on making a recommendation under subsection (3)(a) above, forthwith send a copy of that recommendation to the local authority and to any person whom the Commission thinks fit.
+>
+> (7) Where the Commission make recommendations to the Scottish Ministers under subsection (3)(a) above, Ministers may make an order giving effect to any recommendation, with or without modifications, or may decline to make such an order.
+>
+> (8) A local authority shall give effect to any direction to them made in an order under subsection (7) above.
+>
+> **103G. Interim reports on investigations and action thereon**
+>
+> (1) The Controller of Audit may submit an interim report on an investigation being conducted by that Controller under section 102(3) of this Act.
+>
+> (2) On receiving an interim report, the Commission, if it is satisfied—
+>
+> - (a) that the further conduct of the investigation is likely to be prejudiced if the sanction mentioned in subsection (3) below is not imposed; or
+> - (b) that otherwise it would be in the public interest to impose that sanction,
+>
+> then it may impose that sanction.
+>
+> (3) That sanction is suspending the member of the local authority whose alleged blame in connection with an item of account being contrary to law or whose alleged failure, negligence or misconduct was the subject of the interim report from the entitlement set out in section 103F(2)(c) of this Act for a period not exceeding three months.
+>
+> (4) The Commission shall not require to hold a hearing before proceeding to impose that sanction, but shall give the member an opportunity to make representations on the allegations of blame, failure, negligence or misconduct and on the interim report.
+>
+> (5) The Commission shall put its decision under this section in writing and shall give a copy to—
+>
+> - (a) the member;
+> - (b) the authority; and
+> - (c) any other person seeking a copy of the decision who has paid the Commission’s reasonable charges for providing such a copy.
+>
+> (6) A period of suspension imposed under this section ends upon—
+>
+> - (a) the issue of findings under section 103D of this Act that the member was not to blame or has not failed, been negligent or been guilty of misconduct;
+> - (b) the imposition of a sanction under section 103F of this Act or a decision not to impose such a sanction; or, as the case may be,
+> - (c) a decision by the Commission under section 103B of this Act not to hold a hearing.
+>
+> (7) A period of suspension imposed under subsection (2) above which would continue until or after the day of the next following ordinary election of members ends at the beginning of that day.
+>
+> (8) If, however, the member is re-elected at that election, the Commission may re-impose the suspension.
+>
+> (9) The period for which suspension may be re-imposed under subsection (8) above is that for which it would have continued to apply but for subsection (7) above.
+>
+> (10) On the expiry (otherwise than by operation of subsection (6) or (7) above) of a period of suspension, it may be renewed by the Commission for a period not exceeding three months and a renewed period may likewise be further renewed.
+>
+> (11) Where, but for the suspension under this section, a member would be entitled to receive basic allowance and special responsibility allowance from the authority, the suspension shall not affect that entitlement; but nothing in this subsection authorises the payment or reimbursement of travelling, subsistence or other allowances or expenses.
+>
+> (12) In subsection (11) above, “**basic allowance**” and “**special responsibility allowance**” are the respective allowances referred to in section 18(1)(a) and (c) of the Local Government and Housing Act 1989 (c.42).
+>
+> **103H. Protection from actions of defamation**
+>
+> (1) For the purposes of the law of defamation, any statement made by the Commission or any of its agents or staff of Audit Scotland provided for the Commission under section 10(3) of the Public Finance and Accountability (Scotland) Act 2000 (asp 1) or by the Controller of Audit shall be absolutely privileged.
+>
+> (2) In subsection (1) above “**statement**” has the same meaning as in the Defamation Act 1996 (c.31).
+>
+> **103J. Appeals from Commission**
+>
+> (1) An officer or member of a local authority—
+>
+> - (a) who is the subject of a finding under section 103F(1) of this Act;
+> - (b) on whom a sanction under section 103F(2)(a), (b) or (c) of this Act has been imposed;
+> - (c) who has been suspended under section 103G(2) of this Act,
+>
+> may appeal to the sheriff principal of the sheriffdom in which the authority has its principal office.
+>
+> (2) An appeal—
+>
+> - (a) under subsection (1)(a) above may be made on one or more of the following grounds—
+>   - (i) that the Commission’s finding was based on an error of law;
+>   - (ii) that there has been procedural impropriety in the conduct of any hearing held under section 103B(1)(b) of this Act;
+>   - (iii) that the Commission has acted unreasonably in the exercise of its discretion;
+>   - (iv) that the Commission’s finding was not supported by the facts found to be proved by the Commission;
+> - (b) under subsection (1)(b) above may be made on one or more of the following grounds—
+>   - (i) that the sanction imposed was excessive;
+>   - (ii) that the Commission has acted unreasonably in the exercise of its discretion;
+> - (c) under subsection (1)(c) above may be made only on the ground that the Commission has acted unreasonably in the exercise of its discretion.
+>
+> (3) An appeal under subsection (1) above shall be lodged within 21 days of—
+>
+> - (a) the sending of the finding under section 103F(1) of this Act to the officer or member;
+> - (b) the imposition of the sanction under section 103F(2) of this Act; or, as the case may be,
+> - (c) the imposition of suspension under section 103G(2) of this Act.
+>
+> (4) A finding made or sanction imposed by the Commission continues to have effect notwithstanding the lodging of an appeal under subsection (1) above.
+>
+> (5) The sheriff principal may—
+>
+> - (a) in an appeal under subsection (1)(a) above—
+>   - (i) confirm the finding under section 103F(1) of this Act;
+>   - (ii) quash the finding;
+>   - (iii) quash the finding and remit the matter to the Commission to reconsider its decision;
+> - (b) in an appeal under subsection (1)(b) above—
+>   - (i) confirm the sanction;
+>   - (ii) quash the sanction and either substitute a lesser sanction or remit the matter back to the Commission;
+> - (c) in an appeal under subsection (1)(c) above, quash the suspension;
+> - (d) award expenses.
+>
+> (6) The decision of the sheriff principal under subsection (1) above is a final judgment for the purposes of section 28 (appeals to the Court of Session) of the Sheriff Courts (Scotland) Act 1907 (c.51).
+>
+> (7) In an appeal from the sheriff principal by virtue of subsection (6) above, the Court of Session has the powers specified in subsection (5) above.
+>
+> (8) The Commission may be a party to an appeal under subsection (1) above and in any appeal from the decision of the sheriff principal.
+
+.
+
+(4) Section 104 (action by Scottish Ministers on recommendation by Commission) of that Act is repealed.
+
+## PART 6 — TEACHING AND WELFARE OF CHILDREN
+
+### 34. Repeal of section 2A of Local Government Act 1986
+
+Section 2A (prohibition on local authorities’ activities in connection with same-sex relationships) of the Local Government Act 1986 (c.10) is repealed.
+
+### 35. Councils’ duties to children
+
+(1) It is the duty of a council, in the performance of those of its functions which relate principally to children, to have regard to—
+
+- (a) the value of stable family life in a child’s development; and
+- (b) the need to ensure that the content of instruction provided in the performance of those functions is appropriate, having regard to each child’s age, understanding and stage of development.
+
+(2) In this section—
+
+- “**children**” means persons of school age within the meaning of section 31 of the Education (Scotland) Act 1980 (c.44) and “**child’s**” in subsection (1)(b) is to be construed accordingly;
+- “**council**” has the same meaning as in Parts 1 and 2 of this Act.
+
+## PART 7 — GENERAL AND MISCELLANEOUS PROVISIONS RELATING TO PARTS 1 TO 6
+
+### 36. Other repeals[^c8876221]
+
+(1) The enactments specified in the left hand column of schedule 4 to this Act are repealed to the extent specified in the right hand column.
+
+(2) The repeal of section 39 (meaning of pecuniary interests) of the Local Government (Scotland) Act 1973 (c.65) does not, however, extend to that section as it has effect for the purposes of section 68(1) (disclosure by local government officers of their pecuniary interests) of that Act.
+
+### 37. Short title, commencement and transitional provision
+
+(1) This Act may be cited as the Ethical Standards in Public Life etc. (Scotland) Act 2000.
+
+(2)[^c8876231][^c8876241][^c21051381][^c21051391] This Act (other than this section) comes into force on such day as Ministers may by order made by statutory instrument appoint; and different days may be so appointed for different purposes.
+
+(3)[^c8876231] An order under subsection (2) above may include such transitional provisions and savings as appear to Ministers to be necessary or expedient in connection with the provisions brought into force by the order.
+
+## SCHEDULE 1 — THE STANDARDS COMMISSION FOR SCOTLAND
+
+*(introduced by section 8)*
+
+### 1. Status
+
+(1) The Commission shall be a body corporate.
+
+(2) It shall not be regarded as the servant or agent of the Crown or have any status, immunity or privilege of the Crown, nor shall its members and employees be regarded as civil servants nor its property as property of or held on behalf of the Crown.
+
+### 2. General powers
+
+(1) The Commission may do such things and enter into such transactions as are calculated to facilitate, or are incidental or conducive to, the exercise of —
+
+- (a) its functions; or
+- (b) the functions under this Act[^c21060381] of the Commissioner[^c21060371].
+
+(2) The power under sub-paragraph (1)(a) above includes in particular power to acquire and dispose of land , or other property[^c21060401].
+
+(3)[^c21060421] The exercise of the power to acquire or dispose of land is subject to the approval of the Parliamentary corporation.
+
+(4) The Commission may determine and charge reasonable sums for anything done or provided by it or on its behalf in the exercise of, or in connection with, its functions.
+
+(5) The Commission shall retain any sums received by it by virtue of sub-paragraph (4) and apply them to meet expenditure incurred in doing or providing whatever is charged for.
+
+### 2A. Location of office[^c22565211]
+
+The Commission shall comply with any direction given by the Parliamentary corporation as to the location of the Commission's office.
+
+### 2B. Sharing of premises, staff, services and other resources[^c22565231]
+
+The Commission shall comply with any direction given by the Parliamentary corporation as to the sharing of premises, staff, services or other resources with any other public body or any officeholder.
+
+### 3. Disqualification
+
+A person is disqualified from being appointed as, or from being, a member of the Commission if the person is disqualified under any enactment, including this Act, from being elected, or being, a councillor or under this Act from being a member of any devolved public body [^c21052161]. . . .
+
+### 4. Convener
+
+The Parliamentary corporation[^c21060481] shall appoint one member of the Commission as its convener.
+
+### 5. Tenure of office, remuneration etc.[^key-a355cdfed5dbb2d37d861cb65432ddee]
+
+(1) Each member of the Commission shall hold office for such period, not exceeding eight years, as the Parliamentary corporation determines at the time of appointment.
+
+(2) A person who has ceased to be a member is ineligible for reappointment at any time.
+
+(3) A member may resign office at any time by notice in writing given to the Parliamentary corporation.
+
+(4) A member may be removed from office by the Parliamentary corporation if sub-paragraph (5) applies.
+
+(5) This sub-paragraph applies if—
+
+- (a) the Parliamentary corporation is satisfied that the member has breached the member's terms and conditions of office and the Parliament resolves that the member should be removed from office for that breach; or
+- (b) the Parliament resolves that it has lost confidence in the member's willingness, suitability or ability to exercise that member's functions,
+
+and, in either case, the resolution is voted for by a number of members not fewer than two thirds of the total number of seats for members of the Parliament.
+
+(6) The Parliamentary corporation may, in the terms and conditions of office of a member, specify the minimum period of notice for the purposes of sub-paragraph (3).
+
+(7) Each member is entitled to—
+
+- (a) such remuneration; and
+- (b) such allowances,
+
+as the Parliamentary corporation determines.
+
+(8) In other respects, each member holds office on such terms and conditions as the Parliamentary corporation determines.
+
+(9) Those terms and conditions may, without prejudice to paragraph 3—
+
+- (a) prohibit the member from holding any other specified office, employment or appointment or engaging in any other specified occupation;
+- (b) provide that the member's holding of any such office, employment or appointment or engagement in any such occupation is subject to the approval of the Parliamentary corporation;
+- (c) for the purposes of this sub-paragraph, provide differently for the member appointed as convener and the other members.
+
+(10) In sub-paragraph (9), “**specified**” means specified in the terms and conditions of office or within a description so specified.
+
+### 5A. Subsequent appointments etc.[^c22565251]
+
+(1) A person who has ceased to be a member may not, without the approval of the Parliamentary corporation—
+
+- (a) be employed or appointed in any other capacity by the Commission;
+- (b) be, or be an employee or appointee of, the Commissioner[^key-c966078eeea93fed5e5de525afeaa38a] or be, or be an employee or appointee of, the Scottish Public Services Ombudsman;
+- (c) hold any other office, employment or appointment or engage in any other occupation, being an office, employment, appointment or occupation which, by virtue of paragraph 5(9)(a), that person could not have held or, as the case may be, engaged in when a member.
+
+(2) The restriction in sub-paragraph (1)—
+
+- (a) starts when the person ceases to be a member; and
+- (b) ends on the expiry of the financial year following the one in which it started.
+
+### 6. Remuneration and allowances[^key-a355cdfed5dbb2d37d861cb65432ddee]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Employees
+
+(1) The Commission shall appoint such staff as it considers necessary for the purpose of enabling it to exercise its functions.[^key-d33902bf3f32a27fb81512567990f118]
+
+(2) It shall pay to the members of its staff so appointed (referred to in this paragraph as “**employees**”) such remuneration and allowances as it[^c21060551] may determine.
+
+(3) Its employees shall be appointed on such other terms and conditions of service as it thinks fit.
+
+(4) It shall—
+
+- (a) pay such pensions, allowances or gratuities to or in respect of any persons who have been or are employees as it may determine; and
+- (b) make such payments as it may determine towards the provision of pensions, allowances or gratuities to or in respect of any such persons.
+
+(4A)[^c21060591] The exercise of a power in this paragraph requires the approval of the Parliamentary corporation.
+
+(5) References in sub-paragraph (4) above to pensions, allowances or gratuities to or in respect of any such persons as are mentioned in that sub-paragraph include pensions, allowances or gratuities by way of compensation to or in respect of any employees of the Commission who suffer loss of office or employment.
+
+### 8. Chief Investigating Officer
+
+[^c21060611]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8A. Advisers and other services[^c22565271]
+
+(1) The Commission may obtain advice, assistance or any other service from any person who, in the opinion of the Commission, is qualified to give it.
+
+(2) The Commission may pay to that person such fees and allowances as the Commission determines.
+
+(3) Any payment under sub-paragraph (2) is subject to the approval of the Parliamentary corporation.
+
+### 9. Proceedings
+
+(1) The Commission may regulate its own procedure (and in particular may specify a quorum for meetings).
+
+(2) The validity of its proceedings is not affected—
+
+- (a) by any vacancy among its members or in the office of its convener;
+- (b) by any defect in the appointment of any person as convener or member; or
+- (c) by a contravention of paragraph 4 above or 10 below.
+
+### 10. Members’ interests
+
+Any member of the Commission who is directly or indirectly interested in any matter being considered at a meeting of the Commission—
+
+- (a) must disclose the nature of that interest to the meeting; and
+- (b) must not take part in any deliberation or decision of the Commission with respect to that matter.
+
+### 10A. Strategic plans[^c22565291]
+
+(1) The Commission shall, in respect of each 4 year period, lay before the Parliament a plan (referred to in this section as a “**strategic plan**”) setting out how the Commission proposes to exercise the Commission's functions during the 4 year period.
+
+(2) A strategic plan shall, in particular, set out—
+
+- (a) the Commission's objectives and priorities during the 4 year period;
+- (b) how the Commission proposes to achieve them;
+- (c) a timetable for doing so; and
+- (d) estimates of the costs of doing so.
+
+(3) Before laying a strategic plan before the Parliament, the Commission shall provide a draft of it to and invite, and (if any are given) consider, comments on it from—
+
+- (a) the Parliamentary corporation; and
+- (b) such other persons as the Commission thinks appropriate.
+
+(4) The reference in sub-paragraph (3)(b) to other persons includes a committee of the Parliament.
+
+(5) The Commission shall lay each strategic plan before the Parliament not later than the beginning of the 4 year period to which the plan relates.
+
+(6) The Commission shall arrange for the publication of each strategic plan laid before the Parliament.
+
+(7) The Commission may, at any time during a 4 year period, review the strategic plan for the period and lay a revised strategic plan before the Parliament.
+
+(8) Sub-paragraphs (2) to (7) apply to a revised strategic plan as they apply to a strategic plan.
+
+(9) In that application, the reference in sub-paragraph (5) to the 4 year period is a reference to the period to which the revised strategic plan relates.
+
+(10) In this section, “**4 year period**” means the period of 4 years beginning on 1 April next following the coming into force of this paragraph and each subsequent period of 4 years.
+
+### 10B. Accountable officer[^c22565311]
+
+(1) The Parliamentary corporation shall designate a member or employee of the Commission as the accountable officer for the purposes of this paragraph.
+
+(2) The functions of the accountable officer are—
+
+- (a) signing the accounts of the expenditure and receipts of the Commission;
+- (b) ensuring the propriety and regularity of the finances of the Commission;
+- (c) ensuring that the resources of the Commission are used economically, efficiently and effectively; and
+- (d) the duty set out in sub-paragraph (3).
+
+(3) Where the accountable officer is required to act in some way but considers that to do so would be inconsistent with the proper exercise of the functions specified in sub-paragraph (2)(a) to (c), the accountable officer shall—
+
+- (a) obtain written authority from the Commission before taking the action; and
+- (b) send a copy of the authority as soon as possible to the Auditor General for Scotland.
+
+(4) The accountable officer is answerable to the Parliament for the performance of the functions in sub-paragraph (2).
+
+### 10C. Budget[^c22565151]
+
+(1) The Commission shall, before the start of each financial year, prepare proposals for its use of resources and expenditure during the year (a “**budget**”) and, by such date as the Parliamentary corporation determines, send the budget to the Parliamentary corporation for approval.
+
+(2) The Commission may, in the course of a financial year, prepare a revised budget for the remainder of the year and send it to the Parliamentary corporation for approval.
+
+(3) In preparing a budget or a revised budget, the Commission shall ensure that the resources of the Commission will be used economically, efficiently and effectively.
+
+(4) A budget or revised budget shall contain a statement that the Commission has complied with the duty under sub-paragraph (3).
+
+### 10D. Commission's expenses and liabilities[^c22565331]
+
+(1) The Parliamentary corporation shall pay any expenses properly incurred by the Commission in the exercise of its functions so far as not met out of sums received and applied by it under paragraph 2(5).
+
+(2) Sub-paragraph (1) does not require the Parliamentary corporation to pay any expenses incurred by the Commission which exceed or are otherwise not covered by a budget or, as the case may be, revised budget approved under paragraph 10C.
+
+(3) However, the Parliamentary corporation may pay those expenses.
+
+(4) The Parliamentary corporation shall indemnify the Commission in respect of any liability incurred by it in the exercise of its functions.
+
+### 10E. Accounts and audit[^c22565351]
+
+(1) The Commission shall, in accordance with such directions in that regard as the Scottish Ministers may give—
+
+- (a) keep proper accounts and accounting records;
+- (b) prepare annual accounts in respect of each financial year; and
+- (c) send a copy of the annual accounts to the Auditor General for Scotland for auditing.
+
+(2) If requested by any person, the Commission shall make the audited accounts available, at any reasonable time, without charge and in printed or electronic form, so that they may be inspected by that person.
+
+### 10F. Annual reports[^c22565371]
+
+(1) The Commission shall lay before the Parliament annually a general report on the exercise of its functions during the reporting year.
+
+(2) The report shall, in particular, include—
+
+- (a) a summary of any hearings held by the Commission during the reporting year; and
+- (b) a summary of any other activities undertaken by it during that year in pursuance of its functions.
+
+(3) The report shall be laid before the Parliament within seven months after the end of the reporting year.
+
+(4) The Commission shall arrange for the publication of each report laid before the Parliament under this paragraph.
+
+(5) In preparing a report under this paragraph, the Commission shall comply with any direction given by the Parliamentary corporation as to the form and content of the report.
+
+(6) In this section “**reporting year**” means the year beginning on 1 April.
+
+### 11. Expenses
+
+[^c21060741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2[^c21060761]
+
+### 1. Appointment
+
+[^c21060781]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Staff
+
+[^c21060791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Status
+
+[^c21060801]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — DEVOLVED PUBLIC BODIES
+
+*(introduced by section 28)*
+
+The Accounts Commission for Scotland
+
+Bòrd na Gàidhlig[^c21052551]
+
+The British Waterways Board[^key-c27b4c3bdc26c1cdc7b9a961e518a478]
+
+[^key-117fb22f38738d226cb684833de169be]...
+
+The Cairngorms National Park Authority[^c21051521]
+
+Children’s Hearings Scotland[^key-ad0527ff1a9b4ce732bca6bfcfa20ebe]
+
+[^c21052791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c21054131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The Common Services Agency for the Scottish Health Service, constituted under section 10 of the National Health Service (Scotland) Act 1978 (c.29)
+
+[^key-f8dadf3c7879911f0f10e0ca7655dca5]...
+
+Community Justice Scotland[^key-590a4d8d25f1535cb287a8a42c2373ec]
+
+Consumer Scotland[^key-150f5d8e262c0e88f449cae4297dd163]
+
+Creative Scotland[^c21053541]
+
+The Crofting Commission[^key-f157644bfee97594f1ab3ba8534f4e9b]
+
+Crown Estate Scotland[^key-0e32c56763c47348149d39634911788d]
+
+Environmental Standards Scotland[^key-711de988018f43dcf170a53c1a1e2e98]
+
+Food Standards Scotland[^key-0f169c274beca1d9df1718e034d2fe8a]
+
+[^c21053591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c17781551]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The board of management within the meaning of subsection (1) of section 36 of the Further and Higher Education (Scotland) Act 1992 (c.37) of a college of further education within the meaning of that subsection
+
+A health board, constituted under section 2 of the National Health Service (Scotland) Act 1978 (c.29)
+
+Healthcare Improvement Scotland[^M_F_96c037bc-bf42-4b7c-c8ad-3d6737c881de]
+
+[^key-cb4f4f01367c5c2d5489085357bc4a47]...
+
+[^c21054131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Highlands and Islands Enterprise
+
+An integration joint board established under section 9(2) of the Public Bodies (Joint Working) (Scotland) Act 2014[^key-e368e53625b8375f4c63c9fac079466b]
+
+Historic Environment Scotland[^key-6629191249bd8db886a0115b5772b882]
+
+ILF Scotland[^key-0f5493a7071d8c69d880dc7e9aac06ae]
+
+The Judicial Appointments Board for Scotland[^c21053411]
+
+The Loch Lomond and The Trossachs National Park Authority[^c17782401]
+
+The Mental Welfare Commission for Scotland
+
+The Board of Trustees for the National Galleries of Scotland, established under section 3 of the National Galleries of Scotland Act 1906 (c.50)
+
+A National Health Service trust
+
+National Waiting Times Centre Board[^c21053451]
+
+NHS 24[^c21053471]
+
+The National Library of Scotland[^key-349e359d36356e3c9fc5f952d7a4f11e]
+
+The Board of Trustees of the National Museums of Scotland
+
+The Poverty and Inequality Commission[^key-827ff3ea994a88b03887aa393ae625ec]
+
+Public Health Scotland[^key-e43f73d072974c6660360819d7a44368]
+
+[^key-dafd5bd87ba44cd99b8b2ca8fd7ae88a]...
+
+Redress Scotland[^key-05e6cc125c2e58460fc8b145c59aef02]
+
+Revenue Scotland[^key-6339b7268dc86711f600c1c6dac2d231]
+
+[^M_F_208cf03c-d611-4d24-859f-256c9e3b7591]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c17781551]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c21053431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Risk Management Authority[^c21051751]
+
+Qualifications Scotland[^key-9d104104ce8e98a5b6b67b59c3ff0ce2]
+
+Quality Meat Scotland[^c21053481]
+
+A regional board (within the meaning of the Further and Higher Education (Scotland) Act 2005)[^key-913c1e58079cd0888aaa065a2b61fc10]
+
+The Board of Trustees of the Royal Botanic Garden, Edinburgh
+
+Scottish Agricultural Wages Board
+
+Scottish Ambulance Service Board
+
+[^c21053561]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The Scottish Charity Regulator[^c21052591]
+
+Scottish Children’s Reporter Administration
+
+The Scottish Commission on Social Security[^key-7c00809153cb9d9149ef1ed8e6380987]
+
+[^c21051461]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^key-b37b4625af01438c83ac0a6b65913007]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c21054131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The Scottish Criminal Cases Review Commission
+
+Scottish Enterprise
+
+The Scottish Environment Protection Agency
+
+The Scottish Fire and Rescue Service[^key-ecad8089626cc460a24d4c478fb55df8]
+
+The Scottish Fiscal Commission[^key-a35603720d59a706815841ac64f9c562]
+
+The Scottish Food Commission[^key-73c45f7f123294f4f1b12463ae4f932c]
+
+The Scottish Fuel Poverty Advisory Panel[^key-7521787c58ea77672a35ee2cd14d78c7]
+
+The Scottish Further and Higher Education Funding Council[^c21052251]
+
+The Scottish Housing Regulator[^key-b5923298f98f6ca72fa32660e015db38]
+
+[^c21052271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c21052271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Scottish Homes
+
+The Scottish Land Commission[^key-89452dec3657695f0ae920745dde2c43]
+
+[^c21052301]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The Scottish Legal Aid Board
+
+The Scottish Legal Complaints Commission[^c21052921]
+
+[^c21051481]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+The Scottish National Investment Bank p.l.c.[^key-a9f3d22245ce75f2c9574ac3bc124649]
+
+Scottish Natural Heritage
+
+Scottish Police Authority[^key-e4382766902321a84dc955ff564a86fa]
+
+[^key-ad5271af09b2d66c339ce50dddbd6c7e]...
+
+[^key-9ad06f9960efc72553319de69526184a]...
+
+Scottish Social Services Council[^c21051811]
+
+The Scottish Sports Council
+
+[^c21052791]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Scottish Water[^c17781591]
+
+Social Care and Social Work Improvement Scotland[^M_F_b12a0407-bb7a-4144-fc8d-85d1ac2f3778]
+
+South of Scotland Enterprise[^key-b8705bb0249853343dbcd64baee86ed5]
+
+The State Hospitals Board for Scotland
+
+A Transport Partnership created under the Transport (Scotland) Act 2005 (asp 12)[^c21052231]
+
+VisitScotland[^c21052771]
+
+The Water Industry Commission for Scotland[^c21052181]
+
+Zero Waste Scotland[^key-2683e3f0ef349ab26351136ed81cbf45].
+
+## SCHEDULE 4 — REPEALS[^c8876271]
+
+*(introduced by section 36)*
+
+| *Enactment* | *Extent of repeal* |
+| --- | --- |
+| Local Government (Scotland) Act 1973 (c.65) | Sections 38 to 42. |
+|  | Section 60. |
+| Local Government (Scotland) Act 1975 (c.30) | In section 28, subsection (3), the words “except where subsection (3A) below applies”; and subsection (3A). |
+| Local Government and Planning (Scotland) Act 1982 (c.43) | In Schedule 3, paragraph 14. |
+| Financial Services Act 1986 (c.60) | In Schedule 16, paragraph 9. |
+| Local Government Act 1988 (c.9) | Section 28. |
+| Local Government and Housing Act 1989 (c.42) | Section 19. |
+|  | Section 32(2). |
+|  | In Schedule 6, paragraph 23. |
+|  | In Schedule 11, paragraph 33. |
+| Local Government Finance Act 1992 (c.14) | In Schedule 13, paragraph 35. |
+| Local Government etc. (Scotland) Act 1994 (c.39) | In Schedule 13, paragraphs 92(9) and 161(9). |
+
+## Annotations
+
+[^c21057931]: Modification: Act: functions transferred (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(1)(a)](https://www.legislation.gov.uk/asp/2010/11/section/2/1/a), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21051001]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2000/7/section/7) wholly in force at 1.5.2003; [s. 7](https://www.legislation.gov.uk/asp/2000/7/section/7) not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2); [s. 7(2)](https://www.legislation.gov.uk/asp/2000/7/section/7/2) in force at 21.2.2003 for specified purposes and s. 7 otherwise in force at 1.5.2003 by [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(1)(b)(2)(a)](https://www.legislation.gov.uk/ssi/2003/74/article/2/1/b/2/a)
+
+[^c21057941]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/asp/2000/7/section/8/3) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 1(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/1/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21057961]: Textual amendment: [S. 8(4A)](https://www.legislation.gov.uk/asp/2000/7/section/8/4A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 1(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/1/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058001]: Textual amendment: [S. 8(6)](https://www.legislation.gov.uk/asp/2000/7/section/8/6) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 1(c)](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/1/c) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c17781481]: Textual amendment: [S. 8(8)(b)](https://www.legislation.gov.uk/asp/2000/7/section/8/8/b) substituted (23.10.2002) by [Scottish Public Services Ombudsman Act 2002 (asp 11)](https://www.legislation.gov.uk/asp/2002/11), [s. 25(1)](https://www.legislation.gov.uk/asp/2002/11/section/25/1), [sch. 6 para. 21(a)](https://www.legislation.gov.uk/asp/2002/11/schedule/6/paragraph/21/a); [S.S.I. 2002/467](https://www.legislation.gov.uk/ssi/2002/467), [art. 2](https://www.legislation.gov.uk/ssi/2002/467/article/2)
+
+[^c17781501]: Textual amendment: Word in [s. 8(8)](https://www.legislation.gov.uk/asp/2000/7/section/8/8) substituted (23.10.2002) by [Scottish Public Services Ombudsman Act 2002 (asp 11)](https://www.legislation.gov.uk/asp/2002/11), [s. 25(1)](https://www.legislation.gov.uk/asp/2002/11/section/25/1), [sch. 6 para. 21(b)](https://www.legislation.gov.uk/asp/2002/11/schedule/6/paragraph/21/b); [S.S.I. 2002/467](https://www.legislation.gov.uk/ssi/2002/467), [art. 2](https://www.legislation.gov.uk/ssi/2002/467/article/2)
+
+[^c21058031]: Textual amendment: S. 9 substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 1](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/1) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-3e08c0e8ff663575b4d05f964ca5a213]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/asp/2000/7/section/9) heading substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 2(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/2/b) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^key-3b6ba8adce41fa8ed31cd517c18d7efc]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/asp/2000/7/section/9) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 2(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/2/a) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^key-6c246dcf691ac4f88fb115c0cd218860]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/asp/2000/7/section/10) heading substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/3) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^c21058221]: Textual amendment: Words in s. 10(1)(2) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058241]: Textual amendment: Words in s. 10(1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 3](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/3) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058251]: Textual amendment: Words in s. 10(2) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 4](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/4) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-1225c300556bcba20ade32cbf5c5e701]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/asp/2000/7/section/11) heading substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/3) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^c21058281]: Textual amendment: Words in s. 11 substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058331]: Textual amendment: Words in s. 11 substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 6](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/6) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058291]: Textual amendment: Words in s. 11 inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 5](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/5) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-11fb4d12cf219881b8c3bf959a6c9a8e]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/asp/2000/7/section/12) heading omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 4(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/4/b) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^c21058671]: Textual amendment: Words in s. 12 title substituted (1.4.2011) by virtue of [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 9](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/9) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058591]: Textual amendment: Words in s. 12(1)(4)(5) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-facabb5bdfbd537b472796bcfc74e963]: Textual amendment: [S. 12(4)](https://www.legislation.gov.uk/asp/2000/7/section/12/4) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 4(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/4/a) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^c21058641]: Textual amendment: Words in s. 12(4)(5) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 4](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/4) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-d9bf1e5034edb2f1da2517e8326b4654]: Textual amendment: Words in s. 13 heading omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/5) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^c21058901]: Textual amendment: Words in s. 13 title substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 9](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/9) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058711]: Textual amendment: Words in s. 13(1)(4) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058871]: Textual amendment: Words in s. 13(1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 4](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/4) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058891]: Textual amendment: Words in s. 13(3) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 6](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/6) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-5f2dc4330092ecdeebc6197b6aac5e3e]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/asp/2000/7/section/14) heading omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/5) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^c21058941]: Textual amendment: Words in s. 14 title substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 9](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/9) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058911]: Textual amendment: Words in s. 14(1)(3) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21058931]: Textual amendment: Words in s. 14(3) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 4](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/4) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060121]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/asp/2000/7/section/16) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060161]: Textual amendment: Words in [s. 16(a)](https://www.legislation.gov.uk/asp/2000/7/section/16/a) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 4](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/4) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060191]: Textual amendment: Words in [s. 17(8)](https://www.legislation.gov.uk/asp/2000/7/section/17/8) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 2](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21052061]: Textual amendment: Words in [s. 19(4)](https://www.legislation.gov.uk/asp/2000/7/section/19/4) repealed (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 32](https://www.legislation.gov.uk/asp/2005/3/section/32), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 6(a)(i)](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/6/a/i) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+
+[^c21052101]: Textual amendment: [S. 19(5)(c)](https://www.legislation.gov.uk/asp/2000/7/section/19/5/c) and preceding word repealed (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 32](https://www.legislation.gov.uk/asp/2005/3/section/32), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 5(6)(a)(ii)](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/5/6/a/ii) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+
+[^c21060221]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/asp/2000/7/section/21/1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060231]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/asp/2000/7/section/21/1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 4](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/4) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-baf5fe3bb0e52c712c284bec5648920c]: Textual amendment: Words in [s. 22(7)](https://www.legislation.gov.uk/asp/2000/7/section/22/7) substituted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [sch. para. 4](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/4) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/402/article/5))
+
+[^c21060261]: Textual amendment: Words in [s. 23(5)](https://www.legislation.gov.uk/asp/2000/7/section/23/5) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21052111]: Textual amendment: [S. 25](https://www.legislation.gov.uk/asp/2000/7/section/25) repealed (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 32](https://www.legislation.gov.uk/asp/2005/3/section/32), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 6(b)](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/6/b) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+
+[^c21052131]: Textual amendment: [S. 26](https://www.legislation.gov.uk/asp/2000/7/section/26) repealed (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 32](https://www.legislation.gov.uk/asp/2005/3/section/32), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 6(b)](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/6/b) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+
+[^key-bc0d02825c3969afd92660af0e89f960]: Textual amendment: [S. 27](https://www.legislation.gov.uk/asp/2000/7/section/27) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/6) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^key-4cd96531f0b3a6f2df4aa738f0651100]: Textual amendment: Words in s. 28(1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/7) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^c21060351]: Textual amendment: S. 28(1): definition of "investigation" inserted after "devolved public body" (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/7) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-34700d790dbb477fea30dfe07a43f84c]: Textual amendment: Words in s. 28(1) inserted (16.9.2020) by [Scottish National Investment Bank Act 2020 (asp 3)](https://www.legislation.gov.uk/asp/2020/3), [s. 35(2)](https://www.legislation.gov.uk/asp/2020/3/section/35/2), [sch. para. 1(2)](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/1/2); [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+
+[^c21052141]: Textual amendment: Words in [s. 30](https://www.legislation.gov.uk/asp/2000/7/section/30) repealed (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 32](https://www.legislation.gov.uk/asp/2005/3/section/32), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 6(c)](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/6/c) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+
+[^c8876211]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2000/7/section/33) wholly in force at 1.1.2002; [s. 33](https://www.legislation.gov.uk/asp/2000/7/section/33) not in force at Royal Assent see [s. 37](https://www.legislation.gov.uk/asp/2000/7/section/37); [s. 33](https://www.legislation.gov.uk/asp/2000/7/section/33) in force by [S.S.I. 2001/474](https://www.legislation.gov.uk/ssi/2001/474), [arts. 2](https://www.legislation.gov.uk/ssi/2001/474/article/2), [3](https://www.legislation.gov.uk/ssi/2001/474/article/3) (subject to [art. 4](https://www.legislation.gov.uk/ssi/2001/474/article/4))
+
+[^c8876221]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2000/7/section/36) wholly in force at 1.5.2003; [s. 36](https://www.legislation.gov.uk/asp/2000/7/section/36) not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2); [s. 36(1)](https://www.legislation.gov.uk/asp/2000/7/section/36/1) in force for specified purposes at 29.3.2001 by [S.S.I. 2001/113](https://www.legislation.gov.uk/ssi/2001/113), [art. 2(c)](https://www.legislation.gov.uk/ssi/2001/113/article/2/c); [s. 36](https://www.legislation.gov.uk/asp/2000/7/section/36) in force so far as not already in force at 1.5.2003 by [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2003/74/article/2/2/e)
+
+[^c8876231]: Subordinate legislation: [S. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2) power partly exercised: 1.1.2002 appointed for specific provision by [S.S.I. 2001/474](https://www.legislation.gov.uk/ssi/2001/474), [arts. 2](https://www.legislation.gov.uk/ssi/2001/474/article/2), [3](https://www.legislation.gov.uk/ssi/2001/474/article/3), (subject to art. 4)
+
+[^c8876241]: Subordinate legislation: [S. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2) power partly exercised: 29.3.2001 appointed for specified provisions by [S.S.I. 2001/113](https://www.legislation.gov.uk/ssi/2001/113), [art. 2](https://www.legislation.gov.uk/ssi/2001/113/article/2)
+
+[^c21051381]: Subordinate legislation: [S. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2) power partly exercised: 21.2.3003 appointed for specified provisions and purposes by {[S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74)}, art. 2(1)
+
+[^c21051391]: Subordinate legislation: [S. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2) power fully exercised: 1.5.2003 appointed for remaining provisions by {[S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74)}, art. 2
+
+[^c21060381]: Textual amendment: Words in sch. 1 para. 2(1)(b) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 8](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/8) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060371]: Textual amendment: Words in sch. 1 para. 2(1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 2(5)](https://www.legislation.gov.uk/asp/2010/11/section/2/5), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/2) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060401]: Textual amendment: Words in sch. 1 para. 2(2) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 5(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/5/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060421]: Textual amendment: Sch. 1 para. 2(3)-(5) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 5(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/5/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c22565211]: Textual amendment: Sch. 1 para. 2A inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/6) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c22565231]: Textual amendment: Sch. 1 para. 2B inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/6) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21052161]: Textual amendment: Words in sch. 1 para. 3 repealed (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 32](https://www.legislation.gov.uk/asp/2005/3/section/32), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 6(d)](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/6/d) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+
+[^c21060481]: Textual amendment: Words in sch. 1 para. 4 substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/7) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-a355cdfed5dbb2d37d861cb65432ddee]: Textual amendment: Sch. 1 para. 5 substituted for Sch. 1 paras. 5, 6 (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 8](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/8) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c22565251]: Textual amendment: Sch. 1 para. 5A inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 9](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/9) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^key-c966078eeea93fed5e5de525afeaa38a]: Textual amendment: Words in [sch. 1 para. 5A(1)(b)](https://www.legislation.gov.uk/asp/2000/7/schedule/1/paragraph/5A/1/b) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 8(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/8/a) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^key-d33902bf3f32a27fb81512567990f118]: Textual amendment: Words in [sch. 1 para. 7(1)](https://www.legislation.gov.uk/asp/2000/7/schedule/1/paragraph/7/1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [sch. 2 para. 8(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/8/b) (with [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+
+[^c21060551]: Textual amendment: Words in sch. 1 para. 7(2)(4) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 10(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/10/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060591]: Textual amendment: Sch. 1 para. 7(4A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 10(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/10/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060611]: Textual amendment: Sch. 1 para. 8 repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c22565271]: Textual amendment: Sch. 1 para. 8A inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 12](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/12) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c22565291]: Textual amendment: Sch. 1 para. 10A inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 13](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/13) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c22565311]: Textual amendment: Sch. 1 paras. 10B-10E inserted (1.8.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(3)](https://www.legislation.gov.uk/asp/2010/11/section/31/3), [sch. 2 para. 14](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/14) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c22565151]: Textual amendment: Sch. 1 paras. 10B-10E inserted (1.8.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(3)](https://www.legislation.gov.uk/asp/2010/11/section/31/3), [sch. 2 para. 14](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/14) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c22565331]: Textual amendment: Sch. 1 paras. 10B-10E inserted (1.8.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(3)](https://www.legislation.gov.uk/asp/2010/11/section/31/3), [sch. 2 para. 14](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/14) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c22565351]: Textual amendment: Sch. 1 paras. 10B-10E inserted (1.8.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(3)](https://www.legislation.gov.uk/asp/2010/11/section/31/3), [sch. 2 para. 14](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/14) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c22565371]: Textual amendment: Sch. 1 para. 10F inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 16](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/16) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060741]: Textual amendment: Sch. 1 para. 11 repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 15](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/15) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060761]: Textual amendment: Sch. 2 repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 17](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/17) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060781]: Textual amendment: Sch. 2 repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 17](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/17) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060791]: Textual amendment: Sch. 2 repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 17](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/17) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21060801]: Textual amendment: Sch. 2 repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(2)](https://www.legislation.gov.uk/asp/2010/11/section/29/2), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 2 para. 17](https://www.legislation.gov.uk/asp/2010/11/schedule/2/paragraph/17) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+
+[^c21052551]: Textual amendment: Sch. 3; entry for "Bòrd na Gàidhlig" inserted (13.2.2006) by [Gaelic Language (Scotland) Act 2005 (asp 7)](https://www.legislation.gov.uk/asp/2005/7), [ss. 12](https://www.legislation.gov.uk/asp/2005/7/section/12), [13(2)](https://www.legislation.gov.uk/asp/2005/7/section/13/2), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2005/7/schedule/2/paragraph/1); [S.S.I. 2006/31](https://www.legislation.gov.uk/ssi/2006/31), [art. 2](https://www.legislation.gov.uk/ssi/2006/31/article/2)
+
+[^key-c27b4c3bdc26c1cdc7b9a961e518a478]: Textual amendment: Words in sch. 3 inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/23) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+
+[^key-117fb22f38738d226cb684833de169be]: Textual amendment: Words in sch. 3 repealed (1.10.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 6 para. 1(a)](https://www.legislation.gov.uk/asp/2014/19/schedule/6/paragraph/1/a) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+
+[^c21051521]: Textual amendment: Sch. 3: entry for "The Cairngorms National Park Authority" inserted (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [art. 15(1)](https://www.legislation.gov.uk/ssi/2003/1/article/15/1)
+
+[^key-ad0527ff1a9b4ce732bca6bfcfa20ebe]: Textual amendment: Words in sch. 3 inserted (18.4.2011) by [The Ethical Standards in Public Life etc. (Scotland) Act 2000 (Devolved Public Bodies and Stipulated Time Limit) and the Freedom of Information (Scotland) Act 2002 (Scottish Public Authorities) Amendment Order 2011 (S.S.I. 2011/113)](https://www.legislation.gov.uk/ssi/2011/113), [arts. 1](https://www.legislation.gov.uk/ssi/2011/113/article/1), [2](https://www.legislation.gov.uk/ssi/2011/113/article/2)
+
+[^c21052791]: Textual amendment: Sch. 3: entries relating to "the controlling body of an area tourist board established under section 172 of the [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39)" and "the Scottish Tourist Board" repealed (1.4.2007) by [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), [ss. 4](https://www.legislation.gov.uk/asp/2006/15/section/4), [5(1)](https://www.legislation.gov.uk/asp/2006/15/section/5/1), [sch. 2 para. 6(a)(i)(ii)](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/6/a/i/ii); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+
+[^c21054131]: Textual amendment: Sch. 3: entries relating to "The Clinical Standards Board for Scotland", "The Health Technology Board for Scotland" and "The Scottish Council for Post Graduate Medical and Dental Education" omitted (1.5.2003) by virtue of The Ethical Standards in [Public Life etc. (Scotland) Act 2000 (Devolved Public Bodies) Order 2003 (S.S.I. 2003/119)](https://www.legislation.gov.uk/ssi/2003/119), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2003/119/article/2/2/a)
+
+[^key-f8dadf3c7879911f0f10e0ca7655dca5]: Textual amendment: Words in sch. 3 repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/3); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+
+[^key-590a4d8d25f1535cb287a8a42c2373ec]: Textual amendment: Words in sch. 3 inserted (1.4.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 1 para. 14(1)](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/14/1); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+
+[^key-150f5d8e262c0e88f449cae4297dd163]: Textual amendment: Words in sch. 3 inserted (1.4.2022) by [Consumer Scotland Act 2020 (asp 11)](https://www.legislation.gov.uk/asp/2020/11), [s. 29(2)](https://www.legislation.gov.uk/asp/2020/11/section/29/2), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/1); [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+
+[^c21053541]: Textual amendment: Sch. 3: entry relating to "Creative Scotland" inserted after the entry relating to "A community justice authority" (1.7.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 43](https://www.legislation.gov.uk/asp/2010/8/section/43), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 10 para. 1](https://www.legislation.gov.uk/asp/2010/8/schedule/10/paragraph/1); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+
+[^key-f157644bfee97594f1ab3ba8534f4e9b]: Textual amendment: Words in sch. 3 substituted (1.4.2012) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 4](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/4) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+
+[^key-0e32c56763c47348149d39634911788d]: Textual amendment: Words in sch. 3 substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/2); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-711de988018f43dcf170a53c1a1e2e98]: Textual amendment: Words in sch. 3 inserted (1.10.2021) by [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (asp 4)](https://www.legislation.gov.uk/asp/2021/4), [s. 51(2)](https://www.legislation.gov.uk/asp/2021/4/section/51/2), [sch. 1 para. 15(1)](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/15/1) (with [s. 48(2)](https://www.legislation.gov.uk/asp/2021/4/section/48/2)); [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+
+[^key-0f169c274beca1d9df1718e034d2fe8a]: Textual amendment: Words in sch. 3 inserted (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 17(1)](https://www.legislation.gov.uk/asp/2015/1/section/17/1), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+
+[^c21053591]: Textual amendment: Sch. 3: entry relating to "The Deer Commission for Scotland" repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 1(5)](https://www.legislation.gov.uk/asp/2010/8/section/1/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 1 para. 28](https://www.legislation.gov.uk/asp/2010/8/schedule/1/paragraph/28); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+
+[^c17781551]: Textual amendment: Sch. 3: entries repealed (1.4.2002) by [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [s. 71(2)](https://www.legislation.gov.uk/asp/2002/3/section/71/2), [sch. 7 para. 28(a)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/28/a) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3)
+
+[^M_F_96c037bc-bf42-4b7c-c8ad-3d6737c881de]: Textual amendment: Words in sch. 3 inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 17 para. 24(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/24/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+
+[^key-cb4f4f01367c5c2d5489085357bc4a47]: Textual amendment: Words in sch. 3 omitted (1.4.2020) by virtue of [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/1/2/a) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+
+[^key-e368e53625b8375f4c63c9fac079466b]: Textual amendment: Words in sch. 3 inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [sch. para. 5](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/5)
+
+[^key-6629191249bd8db886a0115b5772b882]: Textual amendment: Words in sch. 3 inserted (27.2.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 6 para. 1(b)](https://www.legislation.gov.uk/asp/2014/19/schedule/6/paragraph/1/b) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+
+[^key-0f5493a7071d8c69d880dc7e9aac06ae]: Textual amendment: Words in sch. 3 inserted (28.6.2018) by [The Ethical Standards in Public Life etc. (Scotland) Act 2000 (ILF Scotland) Order 2018 (S.S.I. 2018/148)](https://www.legislation.gov.uk/ssi/2018/148), [arts. 1](https://www.legislation.gov.uk/ssi/2018/148/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/148/article/2/2)
+
+[^c21053411]: Textual amendment: Sch. 3: entry in respect of "The Judicial Appointments Board for Scotland" inserted (1.6.2009) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 19(4)](https://www.legislation.gov.uk/asp/2008/6/section/19/4), [76(1)](https://www.legislation.gov.uk/asp/2008/6/section/76/1), [sch. 1 para. 19](https://www.legislation.gov.uk/asp/2008/6/schedule/1/paragraph/19); [S.S.I. 2009/192](https://www.legislation.gov.uk/ssi/2009/192), [art. 2](https://www.legislation.gov.uk/ssi/2009/192/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/192/schedule)
+
+[^c17782401]: Textual amendment: Sch. 3: entry inserted (25.4.2002) by [The Loch Lomond and The Trossachs National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2002 (S.S.I. 2002/201)](https://www.legislation.gov.uk/ssi/2002/201), [arts. 1](https://www.legislation.gov.uk/ssi/2002/201/article/1), [15(1)](https://www.legislation.gov.uk/ssi/2002/201/article/15/1)
+
+[^c21053451]: Textual amendment: Entry in respect of "National Waiting Times Centre Board" inserted (9.10.2009) by The Ethical Standards in [Public Life etc. (Scotland) Act 2000 (Devolved Public Bodies) Order 2009 (S.S.I. 2009/286)](https://www.legislation.gov.uk/ssi/2009/286), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2009/286/article/2/2/b)
+
+[^c21053471]: Textual amendment: Entry relating to "NHS 24" inserted (9.10.2009) by The Ethical Standards in [Public Life etc. (Scotland) Act 2000 (Devolved Public Bodies) Order 2009 (S.S.I. 2009/286)](https://www.legislation.gov.uk/ssi/2009/286), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2009/286/article/2/2/b)
+
+[^key-349e359d36356e3c9fc5f952d7a4f11e]: Textual amendment: Words in sch. 3 substituted (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/4); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+
+[^key-827ff3ea994a88b03887aa393ae625ec]: Textual amendment: Words in sch. 3 inserted (1.7.2019) by [Child Poverty (Scotland) Act 2017 (asp 6)](https://www.legislation.gov.uk/asp/2017/6), [s. 16(2)](https://www.legislation.gov.uk/asp/2017/6/section/16/2), [sch. para. 13(1)](https://www.legislation.gov.uk/asp/2017/6/schedule/paragraph/13/1)
+
+[^key-e43f73d072974c6660360819d7a44368]: Textual amendment: Words in sch. 3 inserted (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/1/2/b) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+
+[^key-dafd5bd87ba44cd99b8b2ca8fd7ae88a]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/asp/2000/7/schedule/3) repealed (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-05e6cc125c2e58460fc8b145c59aef02]: Textual amendment: Words in sch. 3 inserted (28.6.2021) by [Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15)](https://www.legislation.gov.uk/asp/2021/15), [s. 109(2)](https://www.legislation.gov.uk/asp/2021/15/section/109/2), [sch. 1 para. 18](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/18); [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+
+[^key-6339b7268dc86711f600c1c6dac2d231]: Textual amendment: Words in sch. 3 inserted (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [sch. 4 para. 4](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/4) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+
+[^M_F_208cf03c-d611-4d24-859f-256c9e3b7591]: Textual amendment: Sch. 3: entry relating to "NHS Quality Improvement Scotland" repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 110(2)](https://www.legislation.gov.uk/asp/2010/8/section/110/2), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 17 para. 24(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/24/a); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+
+[^c21053431]: Textual amendment: Sch. 3: entry in respect of "The Parole Board for Scotland" repealed (9.10.2009) by The Ethical Standards in [Public Life etc. (Scotland) Act 2000 (Devolved Public Bodies) Order 2009 (S.S.I. 2009/286)](https://www.legislation.gov.uk/ssi/2009/286), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/286/article/2/2/a)
+
+[^c21051751]: Textual amendment: Sch. 3: entry for "Risk Management Authority" inserted (24.1.2005) by The Ethical Standards in [Public Life etc. (Scotland) Act 2000 (Devolved Public Bodies) Order 2004 (S.S.I. 2004/543)](https://www.legislation.gov.uk/ssi/2004/543), [art. 2(2)(i)](https://www.legislation.gov.uk/ssi/2004/543/article/2/2/i)
+
+[^key-9d104104ce8e98a5b6b67b59c3ff0ce2]: Textual amendment: Words in sch. 3 inserted (1.12.2025) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/1/2/a); [S.S.I. 2025/351](https://www.legislation.gov.uk/ssi/2025/351), [reg. 2](https://www.legislation.gov.uk/ssi/2025/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/351/schedule)
+
+[^c21053481]: Textual amendment: Entry in respect of "Quality Meat Scotland" inserted before the entry relating to "The Board of Trustees of the Royal Botanic Garden, Edinburgh" (9.10.2009) by The Ethical Standards in [Public Life etc. (Scotland) Act 2000 (Devolved Public Bodies) Order 2009 (S.S.I. 2009/286)](https://www.legislation.gov.uk/ssi/2009/286), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2009/286/article/2/2/c)
+
+[^key-913c1e58079cd0888aaa065a2b61fc10]: Textual amendment: Words in sch. 3 inserted (1.5.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 4](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/4); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+
+[^c21053561]: Textual amendment: Sch. 3: entry relating to "The Scottish Arts Council" repealed (1.7.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 43](https://www.legislation.gov.uk/asp/2010/8/section/43), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 10 para. 1](https://www.legislation.gov.uk/asp/2010/8/schedule/10/paragraph/1); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+
+[^c21052591]: Textual amendment: Sch. 3: entry for "The Scottish Charity Regulator" inserted before the entry relating to the "Scottish Children's Reporter Administration" (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [ss. 104](https://www.legislation.gov.uk/asp/2005/10/section/104), [107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [sch. 4 para. 12](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/12), [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+
+[^key-7c00809153cb9d9149ef1ed8e6380987]: Textual amendment: Words in sch. 3 inserted (21.1.2019) by [Social Security (Scotland) Act 2018 (asp 9)](https://www.legislation.gov.uk/asp/2018/9), [s. 99(2)](https://www.legislation.gov.uk/asp/2018/9/section/99/2), [sch. 1 para. 18](https://www.legislation.gov.uk/asp/2018/9/schedule/1/paragraph/18); [S.S.I. 2018/393](https://www.legislation.gov.uk/ssi/2018/393), [reg. 2](https://www.legislation.gov.uk/ssi/2018/393/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/393/regulation/3))
+
+[^c21051461]: Textual amendment: Sch. 3: entry relating to the Scottish Conveyancing and Executry Services Board repealed (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [ss. 17](https://www.legislation.gov.uk/asp/2003/4/section/17), [21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [sch. 4 para. 15(b)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/15/b); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+
+[^key-b37b4625af01438c83ac0a6b65913007]: Textual amendment: Sch. 3 entry repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 1(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/1/a); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+
+[^key-ecad8089626cc460a24d4c478fb55df8]: Textual amendment: Words in sch. 3 inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 61](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/61); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+
+[^key-a35603720d59a706815841ac64f9c562]: Textual amendment: Words in sch. 3 inserted (1.4.2017) by [Scottish Fiscal Commission Act 2016 (asp 17)](https://www.legislation.gov.uk/asp/2016/17), [ss. 29(1)](https://www.legislation.gov.uk/asp/2016/17/section/29/1), [31(2)](https://www.legislation.gov.uk/asp/2016/17/section/31/2); [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-73c45f7f123294f4f1b12463ae4f932c]: Textual amendment: Words in sch. 3 inserted (15.2.2024) by [Good Food Nation (Scotland) Act 2022 (asp 5)](https://www.legislation.gov.uk/asp/2022/5), [s. 28(2)](https://www.legislation.gov.uk/asp/2022/5/section/28/2), [sch. para. 21(1)](https://www.legislation.gov.uk/asp/2022/5/schedule/paragraph/21/1); [S.S.I. 2024/29](https://www.legislation.gov.uk/ssi/2024/29), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2024/29/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/29/schedule/1)
+
+[^key-7521787c58ea77672a35ee2cd14d78c7]: Textual amendment: Words in sch. 3 inserted (6.5.2020) by [The Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (Scottish Fuel Poverty Advisory Panel and Consequential Amendments) Regulations 2020 (S.S.I. 2020/141)](https://www.legislation.gov.uk/ssi/2020/141), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/141/regulation/1/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2020/141/schedule/paragraph/1)
+
+[^c21052251]: Textual amendment: Sch. 3: entry for "the Scottish Further and Higher Education Funding Council" inserted after the entry relating to "the Scottish Environment Protection Agency" (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [ss. 32](https://www.legislation.gov.uk/asp/2005/6/section/32), [36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [sch. 3 para. 9(a)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/9/a); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+
+[^key-b5923298f98f6ca72fa32660e015db38]: Textual amendment: Words in sch. 3 inserted (1.4.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/6); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+
+[^c21052271]: Textual amendment: Sch. 3: entries relating to "the Scottish Further Education Funding Council" and "the Scottish Higher Education Funding Council" repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [ss. 32](https://www.legislation.gov.uk/asp/2005/6/section/32), [36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [sch. 3 para. 9(b)](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/9/b); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+
+[^key-89452dec3657695f0ae920745dde2c43]: Textual amendment: Words in sch. 3 inserted (1.11.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 21(1)](https://www.legislation.gov.uk/asp/2016/18/section/21/1), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))
+
+[^c21052301]: Textual amendment: Sch. 3: entry relating to "the Scottish Hospital Endowments Research Trust" repealed (1.11.2005) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [ss. 42(2)](https://www.legislation.gov.uk/asp/2005/13/section/42/2), [43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3); [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3](https://www.legislation.gov.uk/ssi/2005/492/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+
+[^c21052921]: Textual amendment: Sch. 3: entry relating to "Scottish Legal Complaints Commission" inserted after the entry relating to the "Scottish Legal Aid Board" (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 81](https://www.legislation.gov.uk/asp/2007/5/section/81), [82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2), [sch. 5 para. 4](https://www.legislation.gov.uk/asp/2007/5/schedule/5/paragraph/4) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(i)](https://www.legislation.gov.uk/ssi/2008/311/article/2/i)
+
+[^c21051481]: Textual amendment: Sch. 3: entry relating to the Scottish Medical Practices Committee repealed (1.4.2004) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [ss. 17](https://www.legislation.gov.uk/asp/2003/4/section/17), [21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [sch. 4 para. 15(a)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/15/a); [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+
+[^key-a9f3d22245ce75f2c9574ac3bc124649]: Textual amendment: Words in sch. 3 inserted (16.9.2020) by [Scottish National Investment Bank Act 2020 (asp 3)](https://www.legislation.gov.uk/asp/2020/3), [s. 35(2)](https://www.legislation.gov.uk/asp/2020/3/section/35/2), [sch. para. 1(3)](https://www.legislation.gov.uk/asp/2020/3/schedule/paragraph/1/3); [S.S.I. 2020/272](https://www.legislation.gov.uk/ssi/2020/272), [reg. 2](https://www.legislation.gov.uk/ssi/2020/272/regulation/2)
+
+[^key-e4382766902321a84dc955ff564a86fa]: Textual amendment: Words in sch. 3 inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(1)(a)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/a), [sch. 1 para. 14](https://www.legislation.gov.uk/asp/2012/8/schedule/1/paragraph/14)
+
+[^key-ad5271af09b2d66c339ce50dddbd6c7e]: Textual amendment: Words in sch. 3 repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+
+[^key-9ad06f9960efc72553319de69526184a]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/asp/2000/7/schedule/3) repealed (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/1/2/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+
+[^c21051811]: Textual amendment: Sch. 3: entry for "Scottish Social Service Council" inserted (24.1.2005) by The Ethical Standards in [Public Life etc. (Scotland) Act 2000 (Devolved Public Bodies) Order 2004 (S.S.I. 2004/543)](https://www.legislation.gov.uk/ssi/2004/543), [art. 2(2)(iii)](https://www.legislation.gov.uk/ssi/2004/543/article/2/2/iii)
+
+[^c17781591]: Textual amendment: Sch. 3: entry inserted (1.4.2002) by [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [s. 71(2)](https://www.legislation.gov.uk/asp/2002/3/section/71/2), [sch. 7 para. 28(b)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/28/b) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3)
+
+[^M_F_b12a0407-bb7a-4144-fc8d-85d1ac2f3778]: Textual amendment: Words in sch. 3 inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 1(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/1/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+
+[^key-b8705bb0249853343dbcd64baee86ed5]: Textual amendment: Words in sch. 3 inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/1); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+
+[^c21052231]: Textual amendment: Sch. 3: entry for "Transport Partnership created under the [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12)" inserted after the entry for "The State Hospitals Board for Scotland" (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 4](https://www.legislation.gov.uk/asp/2005/12/section/4), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 1 para. 17](https://www.legislation.gov.uk/asp/2005/12/schedule/1/paragraph/17); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+
+[^c21052771]: Textual amendment: Sch. 3: entry for "VisitScotland" inserted after the entry relating to a "Transport Partnership created under the [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12)" (1.4.2007) by [Tourist Boards (Scotland) Act 2006 (asp 15)](https://www.legislation.gov.uk/asp/2006/15), [ss. 4](https://www.legislation.gov.uk/asp/2006/15/section/4), [5(1)](https://www.legislation.gov.uk/asp/2006/15/section/5/1), [sch. 2 para. 6(b)](https://www.legislation.gov.uk/asp/2006/15/schedule/2/paragraph/6/b); [S.S.I. 2007/47](https://www.legislation.gov.uk/ssi/2007/47), [art. 2](https://www.legislation.gov.uk/ssi/2007/47/article/2)
+
+[^c21052181]: Textual amendment: Sch. 3: entry for "The Water Industry Commission for Scotland" inserted after the entry for "The State Hospitals Board for Scotland" (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 32](https://www.legislation.gov.uk/asp/2005/3/section/32), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 6(e)](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/6/e) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+
+[^key-2683e3f0ef349ab26351136ed81cbf45]: Textual amendment: Words in sch. 3 inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [s. 27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2), [sch. para. 1(2)](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/1/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+
+[^c8876271]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) wholly in force at 1.5.2003; [Sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) not in force at Royal Assent, see [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2); [Sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) in force for specified purposes at 29.3.2001 by [S.S.I. 2001/113](https://www.legislation.gov.uk/ssi/2001/113), [art. 2(d)](https://www.legislation.gov.uk/ssi/2001/113/article/2/d); [Sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) in force insofar as not already in force at 1.5.2003 by [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2003/74/article/2/2/e)

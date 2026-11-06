@@ -1,0 +1,529 @@
+---
+title: The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013
+id: ssi/2013/173
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-05-28'
+text_date: '2023-05-18'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/173
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/173/pdfs/ssipn_20130173_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/173/pdfs/ssi_20130173_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/173/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013
+
+> Text as at 2023-05-18.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 173
+
+Animals
+
+Animal Health
+
+The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013
+
+Made
+
+28th May 2013
+
+Laid before the Scottish Parliament
+
+30th May 2013
+
+Coming into force
+
+28th June 2013
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c21799781] and sections 1, 8(1), 8A, 15(3), (4) and (5), 17(1), 23, 35(3) and 83(2) of the Animal Health Act 1981 [^c21799791], and all other powers enabling them to do so [^c21799801].
+
+## 1. Citation, commencement and extent
+
+(1) This Order may be cited as the Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 and comes into force on 28th June 2013.
+
+(2) This Order extends to Scotland only.
+
+## 2. The Export of Horses (Veterinary Examination) Order 1966
+
+(1) The Export of Horses (Veterinary Examination) Order 1966 [^c21799811] is amended in accordance with this article.
+
+(2) In article 2(1) (interpretation), for the definition of “Divisional Veterinary Manager” substitute—
+
+> “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive notification about the shipment of horses from ports and aerodromes;
+
+.
+
+(3) In article 3 (notice requesting veterinary examination for horses to be exported), for “the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”.
+
+## 3. The Rabies (Control) Order 1974
+
+(1) The Rabies (Control) Order 1974 [^c21799821] is amended in accordance with this article.
+
+(2) In article 2(1) (interpretation)—
+
+- (a) omit the definition of “Divisional Veterinary Manager”; and
+- (b) insert after the definition of “ animal ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about animals and carcases affected or suspected of being affected with specified diseases;
+
+  .
+
+(3) In article 4(3)(a) and (b) (notice of rabies or suspected rabies), for “the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”.
+
+(4) In article 5(5) (declaration of infected place), for “the Secretary, Ministry of Agriculture, Fisheries and Food, Hook Rise South, Tolworth, Surrey, KT6 7NF, to the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”.
+
+(5) In Schedule 2 (form of notice declaring and defining the limits of an infected place), omit the second Note (beginning with “The Inspector is with all practicable speed”).
+
+## 4. The Importation of Animals Order 1977
+
+(1) The Importation of Animals Order 1977 [^c21799831] is amended in accordance with this article.
+
+(2) In article 2(1) (interpretation)—
+
+- (a) omit the definition of “Divisional Veterinary Manager”; and
+- (b) insert after the definition of “ approved reception centre ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about animals and carcases affected with, or suspected of being affected with, specified diseases;
+
+  .
+
+(3) In articles 4(2), (3)(b), (4) and (5)(a) (provisions relating to the carriage of imported animals to Great Britain) and 5(4) (provisions relating to the unloading of animals, etc., at ports and airports), for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”.
+
+## 5. The Warble Fly (Scotland) Order 1982
+
+(1) The Warble Fly (Scotland) Order 1982 [^c21799841] is amended in accordance with this article.
+
+(2) In article 2(1) (interpretation)—
+
+- (a) omit the definition of “Divisional Veterinary Manager”; and
+- (b) insert after the definition of “ animal ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about warbled or suspected animals or carcases;
+
+  .
+
+(3) In the following provisions, for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”
+
+- (a) article 4(1)(a) and (3) (notification of disease);
+- (b) article 11(3) and (4)(b) (infected area movement restrictions);
+- (c) article 12(3) (restrictions relating to markets, farm sales and places of exhibition);
+- (d) article 14(1) and (3) (notice of intention to treat);
+- (e) article 15 (statement of treatment); and
+- (f) in the Schedule (forms), in Form F, in paragraph 2 of the Notes.
+
+(4) In article 4(4) (notification of disease), for “the Divisional Veterinary Officer” substitute “ an authorised veterinary inspector ”.
+
+(5) In the Schedule (forms), in the address box of Forms F and G, for “Divisional Veterinary Manager” substitute “ authorised veterinary inspector ”.
+
+## 6. The Aujeszky's Disease Order 1983
+
+(1) The Aujeszky's Disease Order 1983 [^c21799851] is amended in accordance with this article.
+
+(2) In article 19(2) (enforcement), for the words from “the Divisional Veterinary Manager” to the end of that paragraph substitute “ a veterinary inspector authorised by the Scottish Ministers to receive information about affected or suspected animals or carcases. ”.
+
+(3) In the Schedule, omit the Notes to Forms A, B, C, D and E.
+
+## 7. The Infectious Diseases of Horses Order 1987
+
+(1) The Infectious Diseases of Horses Order 1987 [^c21799861] is amended in accordance with this article.
+
+(2) In article 3(1) (interpretation)—
+
+- (a) omit the definition of “Divisional Veterinary Manager”; and
+- (b) insert after the definition of “ approved disinfectant ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about horses and carcases affected or suspected of being affected with disease;
+
+  .
+
+(3) In the following provisions, for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”
+
+- (a) article 4(1), (2)(a) and (b), (3)(a), (b) and (c) (notification of disease);
+- (b) Rules 8 and 9 in article 7(1) (rules to be observed in an infected place);
+- (c) article 9 (disposal of carcases); and
+- (d) Rules 8 and 9 in Form A in Schedule 1 (forms).
+
+(4) In Schedule 1 (forms), omit the Notes to Forms A, B, C and D.
+
+## 8. The Tuberculosis (Deer) Order 1989[^key-d02add5b658f65e626b3745b4353f685]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. The Anthrax Order 1991
+
+(1) The Anthrax Order 1991 [^c21799881] is amended in accordance with this article.
+
+(2) In article 2(1) (interpretation)—
+
+- (a) omit the definition of “Divisional Veterinary Manager”; and
+- (b) insert after the definition of “ the Act ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about diseased or suspected animals, or the carcases of such animals;
+
+  .
+
+(3) In articles 4 (notice of suspected disease), 7(2) (declaration of infected place) and 9 (disposal of carcases), for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”.
+
+## 10. The Equine Viral Arteritis Order 1995
+
+(1) The Equine Viral Arteritis Order 1995 [^c21799891] is amended in accordance with this article.
+
+(2) In article 3 (interpretation)—
+
+- (a) omit the definition of “Divisional Veterinary Manager”; and
+- (b) insert as the first definition—
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised for the time being by the Scottish Ministers to receive information about diseased or suspected horses;
+
+  .
+
+(3) In the following provisions, for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”
+
+- (a) article 4(1), (3)(i) and (ii) and (4)(a) (notification of disease in horses); and
+- (b) in the Schedule (restrictions and requirements on stallions and semen), in paragraphs 3, 5 and 7.
+
+(4) In article 6(2) (veterinary inquiry as to the existence of disease)—
+
+- (a) for the first reference to “the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”; and
+- (b) for the second and third references to “the Divisional Veterinary Manager” substitute “ that authorised veterinary inspector ”.
+
+## 11. The Specified Diseases (Notification) Order 1996
+
+(1) The Specified Diseases (Notification) Order 1996 [^c21799901] is amended in accordance with this article.
+
+(2) In article 2 (interpretation), for the definition of “Divisional Veterinary Manager” substitute—
+
+> “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about diseased or suspected animals, or the carcases of such animals;
+
+.
+
+(3) In article 5(1)(a) (notice), for “the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”.
+
+## 12. The Enzootic Bovine Leukosis (Scotland) Regulations 2000
+
+(1) The Enzootic Bovine Leukosis (Scotland) Regulations 2000 [^c21799911] are amended in accordance with this article.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “Divisional Veterinary Manager”; and
+- (b) insert after the definition of “ affected animal ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about affected or suspected animals, or the carcases of such animals;
+
+  .
+
+(3) In regulation 3(1)(b) (notification of disease in bovine animals), for “the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”.
+
+(4) In regulations 3(2) (notification of disease in bovine animals) and 4(1) (notification of disease in carcases), for “the Divisional Veterinary Manager responsible for that area” in each place where those words occur substitute “ an authorised veterinary inspector ”.
+
+(5) In regulation 5(1) (notification of disease in laboratory samples) for “notify the Divisional Veterinary Manager of the area from which the sample was taken or in which the laboratory is situated,” substitute “ , notify an authorised veterinary inspector ”.
+
+## 13. The Disease Control (Interim Measures) (Scotland) Order 2002
+
+(1) The Disease Control (Interim Measures) (Scotland) Order 2002 [^c21799921] is amended in accordance with this article.
+
+(2) In article 2(1) (interpretation), insert after the definition of “ approved disinfectant ”
+
+> “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about diseased animals or carcases, or animals or carcases suspected of being diseased;
+
+.
+
+(3) In the following provisions for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”
+
+- (a) article 7(1) and (2) (regulation of shows and exhibitions);
+- (b) in Schedule 1 (movements not subject to standstill), in paragraph 3(b); and
+- (c) in Schedule 3 (requirements on markets), in paragraph 7.
+
+## 14. The Diseases of Poultry (Scotland) Order 2003
+
+(1) The Diseases of Poultry (Scotland) Order 2003 [^c21799931] is amended in accordance with this article.
+
+(2) In article 3(1) (interpretation)—
+
+- (a) in the definition of “Chief Veterinary Officer”, for “of Great Britain” substitute “ for Scotland ”;
+- (b) omit the definition of “Divisional Veterinary Manager”; and
+- (c) insert after the definition of “ avian influenza ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about diseased birds or carcases, or birds or carcases suspected of being diseased;
+
+  .
+
+(3) In article 4(1)(a) and (2) (notification procedures and precautions to be taken where the presence of a designated disease is suspected), for “the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”.
+
+## 15. The Classical Swine Fever (Scotland) Order 2003
+
+(1) The Classical Swine Fever (Scotland) Order 2003 [^c21799941] is amended in accordance with this article.
+
+(2) In article 2(1) (interpretation)—
+
+- (a) in the definition of “the Chief Veterinary Officer”, for “of Great Britain” substitute “ for Scotland ”;
+- (b) omit the definition of “Divisional Veterinary Manager”; and
+- (c) insert as the first definition—
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about pigs or carcases infected with the disease, or pigs or carcases suspected of being infected with the disease;
+
+  .
+
+(3) In the following provisions, for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”
+
+- (a) article 4(1) and (2) (notification of the disease);
+- (b) article 13(3) (feral pig investigation zones);
+- (c) in Schedule 1 (measures which apply in protection and surveillance zones), paragraphs 8 and 20; and
+- (d) in Schedule 2 (measures which apply in an infected area established under article 14), paragraph 5.
+
+(4) In article 13(4) (feral pig investigation zones)—
+
+- (a) for the first reference to “the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”; and
+- (b) for the second reference to “the Divisional Veterinary Manager” substitute “ that authorised veterinary inspector ”.
+
+(5) In Schedule 2 (measures which apply in an infected area established under article 14), in paragraph 8—
+
+- (a) for the first and second references to “the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”; and
+- (b) for the third reference to “the Divisional Veterinary Manager” substitute “ that authorised veterinary inspector ”.
+
+## 16. The African Swine Fever (Scotland) Order 2003
+
+(1) The African Swine Fever (Scotland) Order 2003 [^c21799951] is amended in accordance with this article.
+
+(2) In article 2(1) (interpretation and extension of definitions)—
+
+- (a) in the definition of “the Chief Veterinary Officer” for “of Great Britain” substitute “ for Scotland ”;
+- (b) omit the definition of “Divisional Veterinary Manager”; and
+- (c) insert as the first definition—
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about pigs or carcases infected with the disease, or pigs or carcases suspected of being infected with the disease;
+
+  .
+
+(3) In the following provisions, for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”
+
+- (a) article 4(1) and (2) (notification of the disease);
+- (b) article 13(3) (feral pig investigation zones);
+- (c) in Schedule 1 (measures which apply in protection and surveillance zones), paragraphs 9 and 22; and
+- (d) in Schedule 2 (measures which apply in an infected area established under article 14), paragraph 5.
+
+(4) In article 13(4) (feral pig investigation zones)—
+
+- (a) for the first reference to “the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”; and
+- (b) for the second reference to “the Divisional Veterinary Manager” substitute “ that authorised veterinary inspector ”.
+
+(5) In Schedule 2 (measures which apply in an infected area established under article 14), in paragraph 8—
+
+- (a) for the first and second references to “the Divisional Veterinary Manager” substitute “ an authorised veterinary inspector ”; and
+- (b) for the third reference to “the Divisional Veterinary Manager” substitute “ that authorised veterinary inspector ”.
+
+## 17. The Foot-and-Mouth Disease (Scotland) Order 2006
+
+(1) The Foot-and-Mouth Disease (Scotland) Order 2006 [^c21799961] is amended in accordance with this article.
+
+(2) In article 2(1) (interpretation)—
+
+- (a) omit the definition of “Divisional Veterinary Manager”; and
+- (b) insert after the definition of “ associated protection zone ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about animals or carcases infected or suspected of being infected;
+
+  .
+
+(3) In the following provisions, for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”
+
+- (a) article 8(1), (2), (3) and (4) (notification of disease or suspected disease);
+- (b) in Schedule 2 (measures applicable to premises on suspicion or confirmation of disease), paragraph 1(1); and
+- (c) in Schedule 7 (measures applicable in a wild animal infected zone), paragraph 1.
+
+(4) In article 8(5) (notification of disease or suspected disease), for “any Divisional Veterinary Manager” substitute “ any authorised veterinary inspector ”.
+
+## 18. The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006
+
+(1) The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006 [^c21799971] are amended in accordance with this article.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “Chief Veterinary Officer (Scotland)”;
+- (b) omit the definition of “Divisional Veterinary Manager”; and
+- (c) insert after the definition of “ animal product ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about animals or carcases infected with the disease or suspected of being infected;
+
+  .
+
+(3) In regulations 24(4) (removal of eartags and missing or illegible eartags) and 26(1) (failure to vaccinate animals specified for vaccination), for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”.
+
+## 19. The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006
+
+(1) The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006 [^c21799981] is amended in accordance with this article.
+
+(2) In article 2 (interpretation)—
+
+- (a) omit the definition of “Chief Veterinary Officer (Scotland)”;
+- (b) omit the definition of “the Divisional Veterinary Manager”; and
+- (c) insert after the definition of “ the Act ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about birds or carcases infected with avian influenza or suspected of being infected with avian influenza;
+
+  .
+
+(3) In articles 9(1)(a) and (2) (notification procedures and precautions to be taken where avian influenza is suspected), 63(1) (records at premises to which things are moved) and 68(3) (additional measures at restocked commercial poultry premises) for “the Divisional Veterinary Manager” in each place where it occurs substitute “ an authorised veterinary inspector ”.
+
+## 20. The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006
+
+(1) The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006 [^c21799991] are amended in accordance with this article.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) omit the definition of “Chief Veterinary Officer (Scotland)”;
+- (b) omit the definition of “the Divisional Veterinary Manager”; and
+- (c) insert after the definition of “ the Act ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about birds or carcases infected with avian influenza or suspected of being infected with avian influenza;
+
+  .
+
+(3) In regulation 17(1) (failure to vaccinate birds specified for vaccination) for “the Divisional Veterinary Manager for the area in which that bird is located” substitute “ an authorised veterinary inspector ”.
+
+## 21. The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007
+
+In article 2 (interpretation) of the Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007 [^c21800001], omit the definition of “the Chief Veterinary Officer (Scotland)”.
+
+## 22. The Tuberculosis (Scotland) Order 2007[^key-f012e08a0149f824e1e9b88362b9f827]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 23. The Disease Control (Interim Measures) (Scotland) Amendment Order 2007
+
+In the Disease Control (Interim Measures) (Scotland) Amendment Order 2007 [^c21800021], omit article 2(6) (amendment).
+
+## 24. The Disease Control (Interim Measures) (Scotland) Amendment (No. 2) Order 2007
+
+In the Disease Control (Interim Measures) (Scotland) Amendment (No. 2) Order 2007 [^c21800031], omit article 2(8) (amendment).
+
+## 25. The Swine Vesicular Disease (Scotland) Order 2009
+
+(1) The Swine Vesicular Disease (Scotland) Order 2009 [^c21800041] is amended in accordance with this article.
+
+(2) In article 2 (interpretation)—
+
+- (a) omit the definition of “Divisional Veterinary Manager”; and
+- (b) insert as the first definition—
+
+  > “**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive a notification under article 16;
+
+  .
+
+(3) In articles 16(1) and (2) (notification of suspicion), 36(1)(a) (notification of suspicion at a slaughterhouse) and 37(1) (control measures at a slaughterhouse), for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”.
+
+## 26. The Sheep Scab (Scotland) Order 2010
+
+(1) The Sheep Scab (Scotland) Order 2010 [^c21800051] is amended in accordance with this article.
+
+(2) In article 2(1) (interpretation)—
+
+- (a) omit the definition of “Divisional Veterinary Manager”; and
+- (b) insert after the definition of “ affected ”
+
+  > “**authorised veterinary inspector**” means a veterinary inspector appointed by the Scottish Ministers to receive information about affected sheep and carcases;
+
+  .
+
+(3) In the following provisions, for “the Divisional Veterinary Manager” in each place where those words occur substitute “ an authorised veterinary inspector ”
+
+- (a) article 4(1) and (2) (notification of sheep scab or suspected sheep scab);
+- (b) article 5(5) and (6) (restrictions on the movement of sheep); and
+- (c) article 6(6) and (7) (service of notice requiring veterinary enquiry).
+
+(4) In article 4(3) (notification of sheep scab or suspected sheep scab), for “the Divisional Veterinary Manager” substitute “ the authorised veterinary inspector ”.
+
+## 27. Revocation
+
+The Animal Health Orders (Divisional Veterinary Manager Amendment) Order 1995 [^c21800061] is revoked.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Order)*
+
+This Order amends specified Orders and Regulations to remove definitions of, and references to, “Divisional Veterinary Manager”, and replaces them with definitions of, and references to, “authorised veterinary inspector”.
+
+Further amendments remove references to the Ministry of Agriculture, Fisheries and Food, and clarify that references to the Chief Veterinary Officer refer to the Chief Veterinary Officer for Scotland.
+
+No business and regulatory impact assessment has been prepared for this Order as no impact upon business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^c21799781]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) (“**the 1972 Act**”). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1) of the 2006 Act and by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2) of the 1972 Act, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. The powers in section 2(2) are exercised in relation to articles 12, 18 and 20 of this Order.
+
+[^c21799791]: Marginal citation: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22) (“**the 1981 Act**”). Section 8 was amended by paragraph 1 of schedule 2 to the [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11). Powers to make Orders under these sections were originally conferred on “the Ministers” (as defined in section 86(1) of the 1981 Act). The functions of the Ministers were, insofar as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^c21799801]: Marginal citation: The powers to make this Order are exercised together by virtue of section 33(2) of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Order is subject to the negative procedure by virtue of section 33(4) of that Act.
+
+[^c21799811]: Marginal citation: [S.I. 1966/507](https://www.legislation.gov.uk/uksi/1966/507), amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
+
+[^c21799821]: Marginal citation: [S.I. 1974/2212](https://www.legislation.gov.uk/uksi/1974/2212), amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
+
+[^c21799831]: Marginal citation: [S.I. 1977/944](https://www.legislation.gov.uk/uksi/1977/944), relevantly amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
+
+[^c21799841]: Marginal citation: [S.I. 1982/207](https://www.legislation.gov.uk/uksi/1982/207), amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
+
+[^c21799851]: Marginal citation: [S.I. 1983/344](https://www.legislation.gov.uk/uksi/1983/344), amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
+
+[^c21799861]: Marginal citation: [S.I. 1987/790](https://www.legislation.gov.uk/uksi/1987/790), amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
+
+[^key-d02add5b658f65e626b3745b4353f685]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/ssi/2013/173/article/8) omitted (9.10.2015) by virtue of [The Tuberculosis in Specified Animals (Scotland) Order 2015 (S.S.I. 2015/327)](https://www.legislation.gov.uk/ssi/2015/327), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1), [23(2)](https://www.legislation.gov.uk/ssi/2015/327/article/23/2)
+
+[^c21799881]: Marginal citation: [S.I. 1991/2814](https://www.legislation.gov.uk/uksi/1991/2814), amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
+
+[^c21799891]: Marginal citation: [S.I. 1995/1755](https://www.legislation.gov.uk/uksi/1995/1755), amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
+
+[^c21799901]: Marginal citation: [S.I. 1996/2628](https://www.legislation.gov.uk/uksi/1996/2628), to which there are amendments not relevant to this Order.
+
+[^c21799911]: Marginal citation: [S.S.I. 2000/365](https://www.legislation.gov.uk/ssi/2000/365), to which there are amendments not relevant to this Order.
+
+[^c21799921]: Marginal citation: [S.S.I. 2002/34](https://www.legislation.gov.uk/ssi/2002/34), relevantly amended by [S.S.I. 2007/387](https://www.legislation.gov.uk/ssi/2007/387),
+
+    400 and
+
+    423\.
+
+[^c21799931]: Marginal citation: [S.S.I. 2003/354](https://www.legislation.gov.uk/ssi/2003/354), amended by [S.S.I. 2004/453](https://www.legislation.gov.uk/ssi/2004/453).
+
+[^c21799941]: Marginal citation: [S.S.I. 2003/426](https://www.legislation.gov.uk/ssi/2003/426).
+
+[^c21799951]: Marginal citation: [S.S.I. 2003/586](https://www.legislation.gov.uk/ssi/2003/586).
+
+[^c21799961]: Marginal citation: [S.S.I. 2006/44](https://www.legislation.gov.uk/ssi/2006/44), to which there are amendments not relevant to this Order.
+
+[^c21799971]: Marginal citation: [S.S.I. 2006/45](https://www.legislation.gov.uk/ssi/2006/45), to which there are amendments not relevant to this Order.
+
+[^c21799981]: Marginal citation: [S.S.I. 2006/336](https://www.legislation.gov.uk/ssi/2006/336).
+
+[^c21799991]: Marginal citation: [S.S.I. 2006/337](https://www.legislation.gov.uk/ssi/2006/337).
+
+[^c21800001]: Marginal citation: [S.S.I. 2007/62](https://www.legislation.gov.uk/ssi/2007/62), to which there are amendments not relevant to this Order.
+
+[^key-f012e08a0149f824e1e9b88362b9f827]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/ssi/2013/173/article/22) revoked (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/93/schedule)
+
+[^c21800021]: Marginal citation: [S.S.I. 2007/387](https://www.legislation.gov.uk/ssi/2007/387), relevantly amended by [S.S.I. 2007/400](https://www.legislation.gov.uk/ssi/2007/400) and 423.
+
+[^c21800031]: Marginal citation: [S.S.I. 2007/400](https://www.legislation.gov.uk/ssi/2007/400), relevantly amended by [S.S.I. 2007/423](https://www.legislation.gov.uk/ssi/2007/423).
+
+[^c21800041]: Marginal citation: [S.S.I. 2009/173](https://www.legislation.gov.uk/ssi/2009/173), to which there are amendments not relevant to this Order.
+
+[^c21800051]: Marginal citation: [S.S.I. 2010/419](https://www.legislation.gov.uk/ssi/2010/419), relevantly amended by [S.S.I. 2011/77](https://www.legislation.gov.uk/ssi/2011/77).
+
+[^c21800061]: Marginal citation: [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922), to which there are amendments not relevant to this Order.

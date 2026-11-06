@@ -1,0 +1,318 @@
+---
+title: The Sea Fishing (Prohibition on the Removal of Shark Fins) (Scotland) Order 2007
+id: ssi/2007/39
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-02-01'
+text_date: '2019-03-28'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2007/39
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2007/39/pdfs/ssien_20070039_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/39/pdfs/ssi_20070039_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/39/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fishing (Prohibition on the Removal of Shark Fins) (Scotland) Order 2007
+
+> Text as at 2019-03-28.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2007 No. 39
+
+SEA FISHERIES
+
+The Sea Fishing (Prohibition on the Removal of Shark Fins) (Scotland) Order 2007
+
+Made
+
+1st February 2007
+
+Laid before the Scottish Parliament
+
+2nd February 2007
+
+Coming into force
+
+1st March 2007
+
+The Scottish Ministers, in exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^f00001], and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Citation, commencement and extent[^key-bd710383b13ff69d8204a3b3065cf19f]
+
+(1) This Order may be cited as the Sea Fishing (Prohibition on the Removal of Shark Fins) (Scotland) Order 2007 and shall come into force on 1st March 2007.
+
+(2) Subject to paragraph (3), this Order extends to Scotland and the Scottish zone only, and insofar as it extends beyond Scotland and the Scottish zone it does so only as a matter of Scots law.
+
+(3) Nothing in paragraph (2) shall be treated as prejudicing the effect of section 30(2A) of the Fisheries Act 1981[^f00002] in the rest of the United Kingdom in relation to, or for purposes incidental to, any provision which creates an offence.
+
+## 2. Interpretation[^key-5e4f9c53d622cd5fb2a652f06540f60c]
+
+(1) In this Order–
+
+- [^key-1e221deb9210642ee9f27d1c9ac4bd24]...
+- “premises” includes land;
+- “the Regulation” means Council Regulation [(EC) No. 1185/2003](https://www.legislation.gov.uk/european/regulation/2003/1185) of 26 June 2003 on the removal of fins of sharks on board vessels[^f00003] , as amended by Council Regulation (EU) No. 605/2013[^key-11381f34c1b0f3cbe9f9db4a6d47563b];
+- [^key-1e221deb9210642ee9f27d1c9ac4bd24]...
+- “relevant document” means a document relating to the catching of sharks or the landing, transportation, transhipment, sale or disposal of sharks, shark fins or remaining parts of sharks;
+- “relevant fishing boat” means—[^key-b6d0f40e938d60dbf311f1c9eba3756c]
+  - (a) a Scottish fishing boat wherever it may be; and
+  - (b) any other fishing boat which is within the Scottish zone;
+- “relevant offence” means an offence under–
+  - (a) article 3 of this Order or
+  - (b) any equivalent provision extending to any other part of the United Kingdom made for the purposes of implementing the Regulation, being a provision in respect of which, by virtue of section 30(2A) of the Fisheries Act 1981, proceedings may be commenced in any place in the United Kingdom;
+- “Scotland” and “the Scottish zone” have the same meaning as in section 126(1) of the Scotland Act 1998[^f00004];
+- “Scottish fishing boat” means a fishing vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995[^f00005] and whose entry in the register specifies a port in Scotland as the port to which the vessel is to be treated as belonging.
+
+(2) Expressions used in this Order which are not defined in this Order and which appear in the Regulation have the same meaning in this Order as they have for the purposes of the Regulation.
+
+## 3. Offences[^key-5bbb22667bc35aa979d17f569451b72a]
+
+(1) A person in charge of a relevant fishing boat in relation to which there is a contravention of, or failure to comply with, a provision of the Regulation referred to in column 1 of Part 1 of the Schedule, commits an offence.
+
+(2) A person who contravenes the provision of the Regulation referred to in column 1 of Part 2 of the Schedule commits an offence.
+
+(3)[^key-083149cab07d6aee09835cce0c281c03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-083149cab07d6aee09835cce0c281c03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Penalties[^key-2a182752d48029012b61ceea4f564ff0]
+
+(1) A person guilty of a relevant offence shall be liable–
+
+- (a) on summary conviction to a fine not exceeding £50,000; or
+- (b) on conviction on indictment to a fine.
+
+(2) The court by or before which a person is convicted of a relevant offence may also order the forfeiture of any shark fins or remaining parts of sharks in relation to which the offence was committed or, if they have been sold, a sum equal to their value.
+
+(3) Section 221 (recovery of fines by civil diligence) of the Criminal Procedure (Scotland) Act 1995[^f00006] applies to the recovery of any sums ordered to be forfeited under paragraph (2) as it applies to fines to be recovered by Civil diligence in pursuance of that Act.
+
+## 5. Recovery of fines[^key-8e28879bc41b1b88630eda6b70d4f31e]
+
+(1) Without prejudice to the provisions of section 221 of the Criminal Procedure (Scotland) Act 1995, where a court has imposed a fine on any person in respect of a relevant offence, that court may for the purposes of recovering the fine–
+
+- (a) order any boat involved in the commission of the offence and its gear and catch to be detained for a period not exceeding three months from the date–
+  - (i) of the conviction or until the fine is paid;
+  - (ii) the order is renewed for a further period (not exceeding three months); or
+  - (iii) on which a warrant is issued under sub-paragraph (b),
+
+  whichever first occurs;
+- (b) subject to paragraph (2), at any time after the imposition of the fine, issue a warrant for the arrestment and sale of any such boat, its gear and catch.
+
+(2) The court shall not issue a warrant under paragraph (1)(b) without first affording the owner of the boat, gear or catch liable to be included in the warrant an opportunity to be heard on the issue of such warrant.
+
+(3) A warrant issued under paragraph (1)(b), whatever the amount of the fine imposed, may be executed in the same manner as if the proceedings were on an extract decree of the sheriff in a summary cause.
+
+(4) Where in relation to a fine in respect of a relevant offence a transfer of fine order under section 222 of the Criminal Procedure (Scotland) Act 1995, section 90 of the Magistrates' Courts Act 1980[^f00007] or Article 95 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00008] specifies a court of summary jurisdiction in Scotland, this article shall apply as if the fine were a fine imposed by that court.
+
+## 6. Powers of sea-fishery officers in relation to fishing boats[^key-833d84c98799dc32dd4ea4156c02d310]
+
+(1) For the purpose of enforcing article 3 of this Order, a British sea-fishery officer may exercise the powers conferred by paragraphs (2) to (6) in relation to a relevant fishing boat.
+
+(2) The officer may go on board the boat, with or without persons assigned to assist in the duties of that officer, and may, for that purpose or for the purpose of disembarking from the boat, require the boat to stop, and anything else to be done which will facilitate the boarding of, or as the case may be, disembarking from, the boat.
+
+(3) The officer may require the attendance of the master and any other person on board the boat and may make any examination and inquiry which appears to the officer to be necessary for the purpose of enforcing this Order.
+
+(4) In particular under subsection (3) the officer may–
+
+- (a) search the boat for sharks, shark fins and remaining parts of sharks;
+- (b) examine any sharks, shark fins and remaining parts of sharks on the boat and the equipment (including the fishing gear) of the boat, and require persons on board the boat to do any thing which appears to the officer to be necessary for facilitating the examination;
+- (c) require any person on the boat to produce any relevant document in the person’s custody or possession;
+- (d) for the purpose of ascertaining whether an offence under this Order has been committed, search the boat for any relevant document and may require any person on board the boat to do anything which appears to the officer to be necessary for facilitating the search;
+- (e) inspect, take copies of and retain possession of, while any search, examination or inspection provided for under this article is being carried out, any relevant document produced to the officer or found on board;
+- (f) require the master or any other person for the time being in charge of the boat to render any relevant document on a computer system into visible and legible form and to produce it in a form in which it may be taken away; and
+- (g) where the boat is one in relation to which the officer has reason to suspect that a relevant offence has been committed, seize and detain any relevant document produced to the officer or found on board, for the purpose of enabling the document to be used as evidence in proceedings for the offence.
+
+(5) But paragraph (4)(g) does not permit any document required by law to be carried on a boat to be seized and detained except while the boat is detained in a port.
+
+(6) Where it appears to a British sea-fishery officer that an offence under this Order has at any time been committed the officer–
+
+- (a) may take, or require the master of any boat in relation to which the offence took place to take the boat and its crew to the port which appears to the officer to be the nearest convenient port; and
+- (b) may detain, or require the master to detain, the boat in the port.
+
+(7) Where a British sea-fishery officer detains or requires the detention of a boat under paragraph (6)(b), the officer must serve notice in writing on the master stating that the boat is or, as the case may be, is required to, be detained until the time mentioned in paragraph (8).
+
+(8) That time is when the master is served with a notice in writing signed by a British sea-fishery officer stating that the previous notice ceases to have effect.
+
+## 7. Powers of sea-fishery officers on land[^key-3c02e33d294099c3120ffa9ae3c5de0e]
+
+(1) For the purpose of enforcing article 3 of this Order, a British sea fishery officer may exercise the powers conferred by paragraphs (2) to (11) of this article in relation to–
+
+- (a) any premises (other than a dwelling-house) used for–
+  - (i) carrying on any business in connection with the operation of fishing boats;
+  - (ii) an activity connected with or ancillary to the operation of fishing boats; or
+  - (iii) the treatment, storage or sale of sharks, shark fins or remaining parts of sharks;
+- (b) any vehicle which the officer has reasonable cause to believe is being used to transport sharks, shark fins or remaining parts of sharks.
+
+(2) The officer may enter and inspect, at any reasonable time, the premises or vehicle (and, in the case of a vehicle, for that purpose require the vehicle to stop or require the operator to take the vehicle to a particular place).
+
+(3) The officer may, in exercising the power conferred by paragraph (2), take with the officer such other persons as appear to the officer to be necessary and any equipment or materials.
+
+(4) The officer may examine any sharks, shark fins or remaining parts of sharks on the premises or vehicle and require persons on the premises or vehicle to do anything which appears to the officer to be necessary for facilitating the examination.
+
+(5) The officer may on the premises or vehicle carry out such other inspections and tests as may reasonably be necessary.
+
+(6) The officer may require any person not to remove or cause to be removed any sharks, shark fins or remaining parts of sharks from the premises or vehicle for such a period as may be reasonably necessary for the purposes of establishing whether an offence under this Order has at any time been committed.
+
+(7) The officer may require any person on the premises or vehicle to produce any relevant document in the person’s custody or possession.
+
+(8) The officer may, for the purpose of establishing whether an offence under this Order has been committed, search the premises or vehicle for any relevant document, and may require any person on the premises or vehicle to do anything which appears to the officer to be necessary for facilitating the search.
+
+(9) The officer may inspect and take copies of any relevant document produced or found on the premises or vehicle.
+
+(10) The officer may require any person to render any relevant document on a computer system into a visible and legible form and to produce it in a form in which it may be taken away.
+
+(11) If the officer has reasonable grounds to suspect that an offence under this Order has been committed, the officer may seize and detain any relevant document produced or found on the premises or vehicle, for the purpose of enabling the document to be used as evidence in proceedings for the offence.
+
+(12) A sheriff may, if satisfied by evidence on oath as to the matters mentioned in paragraph (13), grant a warrant authorising a British sea-fishery officer to enter premises (if necessary using reasonable force), accompanied by such persons as appear to the officer to be necessary.
+
+(13) Those matters are–
+
+- (a) that there are reasonable grounds to believe that the examination or inspection is likely to disclose evidence of the commission of an offence under this Order; and
+- (b) that any of the following is the case–
+  - (i) admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant under paragraph (12) has been given to the occupier;
+  - (ii) an application for admission, or the giving of such notice, would defeat the object of entry;
+  - (iii) the premises are unoccupied or the occupier is temporarily absent and it might defeat the object of entry to await the return of the occupier.
+
+(14) A warrant under paragraph (12) is valid for the period of one month beginning with the date on which it is granted or for such shorter period as the sheriff may specify.
+
+## 8. Powers of British sea-fishery officers to seize shark fins etc.[^key-81dc5ad3c441deb25c0c933536bea8c6]
+
+A British sea-fishery officer may seize–
+
+- (a) in Scotland or in the Scottish zone; or
+- (b) on a Scottish fishing boat wherever it may be,
+
+any shark fins or remaining parts of sharks in respect of which the officer has reasonable grounds to suspect that an offence under this Order has been committed.
+
+## 9. Powers of sea-fishery officers: supplementary[^key-0ad0972ded89b9c6b588b2c16382b1e1]
+
+(1) A British sea-fishery officer, or a person assisting such an officer by virtue of article 6(2) or 7(3) or (12), is not liable in any civil or criminal proceedings for anything done in the purported exercise of a power conferred by article 6, 7 or 8 if the court is satisfied–
+
+- (a) that the act was done in good faith;
+- (b) that there were reasonable grounds for doing it; and
+- (c) that it was done with reasonable skill and care.
+
+(2) A person who–
+
+- (a) fails without reasonable excuse to comply with any requirement imposed on the person by a British sea-fishery officer under a power conferred by article 6 or 7;
+- (b) without reasonable excuse prevents, or attempts to prevent, any other person from complying with such a requirement; or
+- (c) obstructs such an officer in the exercise of any of those powers or the powers conferred by article 8,
+
+commits an offence.
+
+(3) A person who commits an offence under paragraph (2) is liable–
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum;
+- (b) on conviction on indictment, to a fine.
+
+## 10. Offences committed by bodies corporate and Scottish partnerships[^key-a106c47dba131f6733824a43f29ab742]
+
+(1) Where an offence under this Order has been committed by a body corporate and the contravention in question is proved to have occurred with the consent or connivance of, or to be attributable to any neglect on the part of–
+
+- (a) a director, manager, secretary or other similar officer of the body corporate, or
+- (b) any person who was purporting to act in any such capacity,
+
+that person as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1) “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(3) Where an offence under this Order has been committed by a Scottish partnership and the contravention in question is proved to have occurred with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+## 11. Admissibility in evidence of logbooks and other documents[^key-f481b27d4c2966301064fdad3200dfbb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ROSS FINNIE
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE — SPECIFIED PROVISIONS OF THE REGULATION, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^key-64dc400823ee06bc37e32adfaa55b092]
+
+Article 3
+
+### PART 1
+
+| *Column 1*<br>*Provision of Regulation* | *Column 2*<br>*Subject Matter* |
+| --- | --- |
+| 1\. Article 3.1, as read with Article 3.1a | Prohibition on the removal of or retention of shark fins on board vessels, and the transhipment or landing of shark fins. |
+
+### PART 2
+
+| *Column 1*<br>*Provision of Regulation* | *Column 2*<br>*Subject Matter* |
+| --- | --- |
+| 1\. Article 3.2 | Prohibition on the purchase, offer for sale or sale of shark fins which have been removed on board, transhipped or landed in contravention of the Regulation. |
+
+(This note is not part of the Order)
+
+This Order makes provision for the enforcement of Community restrictions and other obligations relating to the removal of shark fins on board vessels as set out in Commission Regulation [(EC) No. 1185/2003](https://www.legislation.gov.uk/european/regulation/2003/1185) of 26th June 2003 (“the Regulation”).
+
+This Order applies to Scottish fishing boats wherever they may be, to other fishing boats in Scotland or the Scottish zone and, in relation to the prohibition on the purchase, offer for sale or sale of certain shark fins imposed by Article 3.2 of the Regulation, to all persons within Scotland and the Scottish zone. This Order comes into force on \[1st March\] 2007.
+
+Article 3 of the Order creates offences in respect of contraventions of, or failures to comply with, the provisions of the Regulation referred to in Column 1 of the Schedule to the Order, and of recklessly or knowingly making false logbook entries or furnishing false information in purported compliance with Article 5 of the Regulation. Article 4 specifies the penalties which apply in relation to offences under article 3. Article 5 makes provision for the recovery of fines.
+
+The Order confers powers of enforcement on British sea fishery officers (articles 6, 7 and 8), and article 9 makes supplementary provision regarding the protection of such officers and their assistants and the obstruction of such officers in the exercise of their powers under the Order. Article 10 makes provision in relation to offences committed by bodies corporate and Scottish partnerships, and article 11 provides that any records kept under Article 5 of the Regulation shall be received in evidence in any proceedings for a relevant offence and be sufficient evidence of the matters referred to therein.
+
+A Regulatory Impact Assessment in relation to this Order has been prepared and placed in SPICE. Copies can be obtained from the Scottish Executive Environment and Rural Affairs Department, Robb’s Loan, Edinburgh, EH14 1TY.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29). Section 30 was amended by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68.
+
+[^key-bd710383b13ff69d8204a3b3065cf19f]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2007/39/article/1) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+
+[^f00002]: Footnote: Section 30(2A) was inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68.
+
+[^key-5e4f9c53d622cd5fb2a652f06540f60c]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2007/39/article/2) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+
+[^key-1e221deb9210642ee9f27d1c9ac4bd24]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/39/article/2/1) omitted (5.10.2015) by virtue of [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(2)(a)](https://www.legislation.gov.uk/ssi/2015/320/article/25/2/a) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+
+[^f00003]: Footnote: O.J.L. 167, 4.7.2003, p.1.
+
+[^key-11381f34c1b0f3cbe9f9db4a6d47563b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/39/article/2/1) inserted (28.3.2019) by [The Fisheries (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/69)](https://www.legislation.gov.uk/ssi/2019/69), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/ssi/2019/69/regulation/5/2)
+
+[^key-b6d0f40e938d60dbf311f1c9eba3756c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/39/article/2/1) substituted (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(2)(b)](https://www.legislation.gov.uk/ssi/2015/320/article/25/2/b) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+
+[^f00004]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). The part of the internal waters and territorial sea of the United Kingdom which is adjacent to Scotland is determined by the Scottish Adjacent Waters Boundaries Order 1999 (S.I. [1999/1126](https://www.legislation.gov.uk/uksi/1999/1126)).
+
+[^f00005]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^key-5bbb22667bc35aa979d17f569451b72a]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2007/39/article/3) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+
+[^key-083149cab07d6aee09835cce0c281c03]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2007/39/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2007/39/article/3/4) omitted (5.10.2015) by virtue of [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(3)](https://www.legislation.gov.uk/ssi/2015/320/article/25/3) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+
+[^key-2a182752d48029012b61ceea4f564ff0]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2007/39/article/4) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+
+[^f00006]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^key-8e28879bc41b1b88630eda6b70d4f31e]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2007/39/article/5) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+
+[^f00007]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^f00008]: Footnote: S.I. [1981/1675](https://www.legislation.gov.uk/uksi/1981/1675).
+
+[^key-833d84c98799dc32dd4ea4156c02d310]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2007/39/article/6) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+
+[^key-3c02e33d294099c3120ffa9ae3c5de0e]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2007/39/article/7) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+
+[^key-81dc5ad3c441deb25c0c933536bea8c6]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2007/39/article/8) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+
+[^key-0ad0972ded89b9c6b588b2c16382b1e1]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2007/39/article/9) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+
+[^key-a106c47dba131f6733824a43f29ab742]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2007/39/article/10) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+
+[^key-f481b27d4c2966301064fdad3200dfbb]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/ssi/2007/39/article/11) omitted (5.10.2015) by virtue of [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(4)](https://www.legislation.gov.uk/ssi/2015/320/article/25/4) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+
+[^key-64dc400823ee06bc37e32adfaa55b092]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2007/39/schedule) substituted (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(5)](https://www.legislation.gov.uk/ssi/2015/320/article/25/5) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))

@@ -1,0 +1,60 @@
+---
+title: Abolition of Feudal Tenure etc. (Scotland) Act 2000, section 18A
+act: Abolition of Feudal Tenure etc. (Scotland) Act 2000
+section: 18A
+status: revised-with-pending-changes
+text_date: '2025-06-16'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2000/5/section/18A
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Abolition of Feudal Tenure etc. (Scotland) Act 2000, section 18A
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2025-06-16. See https://www.legislation.gov.uk/changes/affected/asp/2000/5
+>
+> Extent: Scotland.
+
+## 18A. Personal pre-emption burdens and personal redemption burdens[^c21083191]
+
+*Extent: S*
+
+(1) Without prejudice to section 18 of this Act, where a feudal estate of *dominium utile* of land is subject to a real burden which comprises a right of pre-emption or redemption and is enforceable by a superior of the feu or would be so enforceable were the person in question to complete title to the *dominium directum* the superior may, before the appointed day, by duly executing and registering against the *dominium utile* a notice in, or as nearly as may be in, the form contained in schedule 5A to this Act, prospectively convert that burden into a personal pre-emption burden or as the case may be into a personal redemption burden.
+
+(2) The notice shall—
+
+- (a) set out the title of the superior;
+- (b) describe, sufficiently to enable identification by reference to the Ordnance Map, the land the *dominium utile* of which is subject to the real burden (or any part of that land);
+- (c) set out the terms of the real burden; and
+- (d) set out the terms of any counter-obligation to the real burden if it is a counter-obligation enforceable against the superior.
+
+(3) Before submitting any notice for registration under this section, the superior shall swear or affirm as is mentioned in subsection (4) of section 18 of this Act.
+
+(4) Subsection (5) of that section applies for the purposes of subsection (3) above as it applies for the purposes of subsection (4) of that section.
+
+(5) If subsections (1) to (3) above are, with subsection (4) of that section, complied with and immediately before the appointed day the real burden is still enforceable by the superior (or his successor) or would be so enforceable, or still so enforceable, were the person in question to complete title to the *dominium directum* then, on that day—
+
+- (a) the real burden shall be converted into a real burden in favour of that person, to be known as a “personal pre-emption burden” or as the case may be as a “personal redemption burden”; and
+- (b) the land the *dominium utile* of which was subject to the real burden (or if part only of that land is described in pursuance of subsection (2)(b) above, that part) shall become the servient tenement.
+
+(6) Title to enforce the burden against the land to which the notice relates shall be subject to any such counter-obligation as was set out by virtue of subsection (2)(d) above.
+
+(7) The right to a personal pre-emption burden or personal redemption burden may be assigned or otherwise transferred to any person; and any such assignation or transfer shall take effect on registration.
+
+(8) Where the holder of a personal pre-emption burden or personal redemption burden does not have a completed title—
+
+- (a) title may be completed by the holder registering a notice of title; or
+- (b) without completing title, the holder may grant a deed—
+  - (i) assigning the right to; or
+  - (ii) discharging, in whole or in part,
+
+  the burden; but unless the deed is one to which section 101 of the Land Registration[^key-bb94a822bdc14fc7d688fed9f45bfe55] etc. (Scotland) Act 2012 (asp 5) (circumstances where unnecessary to deduce title) applies, it shall be necessary, in the deed, to deduce title to the burden through the midcouples linking the holder to the person who had the last completed title.
+
+(9) This section is subject to sections 41 and 42 of this Act.
+
+## Annotations
+
+[^c21083191]: Textual amendment: Ss. 18A-18C inserted (4.4.2003) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 114(2)](https://www.legislation.gov.uk/asp/2003/9/section/114/2), [129(3)](https://www.legislation.gov.uk/asp/2003/9/section/129/3) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121))
+
+[^key-bb94a822bdc14fc7d688fed9f45bfe55]: Textual amendment: Words in [s. 18A(8)(b)](https://www.legislation.gov.uk/asp/2000/5/section/18A/8/b) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 39(3)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/39/3) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

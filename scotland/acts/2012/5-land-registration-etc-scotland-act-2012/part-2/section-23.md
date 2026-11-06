@@ -1,0 +1,49 @@
+---
+title: Land Registration etc. (Scotland) Act 2012, section 23
+act: Land Registration etc. (Scotland) Act 2012
+section: '23'
+status: revised-with-pending-changes
+text_date: '2024-03-04'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2012/5/section/23
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Registration etc. (Scotland) Act 2012, section 23
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2024-03-04. See https://www.legislation.gov.uk/changes/affected/asp/2012/5
+>
+> Extent: Scotland.
+
+## 23. Conditions of registration: transfer of unregistered plot[^key-c81a72d03cac81cfc1f3e8631bede87f]
+
+*Extent: S*
+
+(1) The conditions are that—
+
+- (a) the application is made by the grantee of the disposition or as the case may be the person in whose favour is the notice of title,
+- (b) the deed is valid,
+- (c) the deed so describes the plot as to enable the Keeper to delineate its boundaries on the cadastral map,
+- (d) where within the plot there is a lesser area in respect of which a registrable encumbrance is constituted there is included in, or submitted with, the application a plan or description sufficient to enable the Keeper to delineate the boundaries of the lesser area on the cadastral map,
+- (e) there is included in the application a description of every public right of way (by whatever means) over or through the plot in so far as known to the applicant.
+
+(2) Subsection (1)(c) and (d) do not apply—
+
+- (a) if the plot to which the application relates is a flat in a flatted building, and
+- (b) either—
+  - (i) the flatted building is, by virtue of section 16, represented as a single cadastral unit on the cadastral map, or
+  - (ii) the Keeper has indicated that the flatted building is, by virtue of that section, to be so represented.
+
+(3) Despite subsection (2), subsection (1)(c) and (d) apply in so far as the plot includes a pertinent outwith the flatted building, being a pertinent only of the plot.
+
+(4) Subsection (1)(d) does not apply in relation to an encumbrance which consists of—
+
+- (a) a right to lead a pipe, cable, wire or other such enclosed unit over or under land,
+- (b) a servitude created other than by registration.
+
+(5) In this section, “**the deed**” means the disposition or as the case may be the notice of title.
+
+## Annotations
+
+[^key-c81a72d03cac81cfc1f3e8631bede87f]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2012/5/section/23) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

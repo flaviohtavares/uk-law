@@ -1,0 +1,140 @@
+---
+title: The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2015
+id: ssi/2015/113
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-03-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2015/113
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/113/pdfs/ssipn_20150113_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/113/pdfs/ssi_20150113_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/113/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 113
+
+Environmental Protection
+
+Fish Farming
+
+Licensing (marine)
+
+Sea Fisheries
+
+Shellfish
+
+The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2015
+
+Made
+
+11th March 2015
+
+Laid before the Scottish Parliament
+
+13th March 2015
+
+Coming into force
+
+27th April 2015
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 26(5), 27(1) and (3), 29(2)(b) and 43(1)(b) of the Aquaculture and Fisheries (Scotland) Act 2007[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2015 and comes into force on 27th April 2015.
+
+(2) In this Order “the Act” means the Aquaculture and Fisheries (Scotland) Act 2007.
+
+## 2. Specification of shorter period for paying fixed penalty notice
+
+The period specified for the purposes of section 26(4) of the Act is 7 days in relation to a person to whom a notice[^f00002] is issued who is domiciled or resident outside the United Kingdom.
+
+## 3. Scale of fixed penalties
+
+The scale of fixed penalties for the purposes of sections 25 to 31 of the Act is as prescribed in the Schedule to this Order.
+
+## 4. Address at which and method by which fixed penalty is payable
+
+(1) The address specified for the purposes of section 27(3) of the Act is the Scottish Government, Banking and Reconciliation Team, Treasury and Banking Branch, Victoria Quay, Edinburgh, EH6 6QQ.
+
+(2) The methods of payment specified for the purposes of section 27(3) of the Act are payment by—
+
+- (a) cheque;
+- (b) transfer using the Bankers Automated Clearing Service; and
+- (c) debit card.
+
+## 5. Person to whom and address to which intimation of non-payment of fixed penalty to be sent
+
+The person and address specified for the purposes of section 29(2)(b) of the Act is the Enforcement Team Leader, Marine Scotland Compliance, Victoria Quay, Edinburgh, EH6 6QQ.
+
+## 6. Revocations
+
+The following Orders are revoked—
+
+- (a) the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008[^f00003]; and
+- (b) the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Amendment Order 2011[^f00004].
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+11th March 2015
+
+## SCHEDULE — Scale of fixed penalties
+
+Article 3
+
+| Penalty Level | Amount |
+| --- | --- |
+| 1 | £500 |
+| 2 | £1,000 |
+| 3 | £2,000 |
+| 4 | £4,000 |
+| 5 | £5,000 |
+| 6 | £8,000 |
+| 7 | £10,000 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision for fixed penalty notices which are provided for in sections 25 to 31 of the Aquaculture and Fisheries (Scotland) Act 2007 (“the Act”).
+
+In terms of section 25(1) of the Act, if a fixed penalty officer has reasonable grounds for suspecting that a person has committed a relevant offence then the officer may issue a fixed penalty notice. Section 25(2) of the Act sets out relevant offences.
+
+Article 2 of the Order prescribes a shorter period for paying a fixed penalty notice where the person to whom the notice is issued is domiciled or resident outside the United Kingdom. In such cases the period for paying is 7 days.
+
+Article 3 and the Schedule to the Order prescribe the scale of fixed penalties from £500 up to a maximum of £10,000.
+
+Article 4 specifies the address at which and the methods by which payment of the fixed penalty is to be made.
+
+Before the expiry of the period for paying the fixed penalty, a person to whom notice has been issued may intimate that they intend not to pay. Article 5 specifies where such an intimation should be sent.
+
+Article 6 revokes previous orders which made provision for fixed penalty notices.
+
+A Business and Regulatory Impact Assessment in relation to this Order has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government, Marine Scotland, Area 1A North, Victoria Quay, Edinburgh EH6 6QQ and online at www.legislation.gov.uk .
+
+## Annotations
+
+[^f00001]: Footnote: [2007 asp 12](https://www.legislation.gov.uk/asp/2007/12). Section 27(1) was amended by the Aquaculture and Fisheries (Scotland) Act [2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), section 60(3)(a).
+
+[^f00002]: Footnote: “Notice” is defined in section 25(3) of the Act to mean a fixed penalty notice issued under section 25(1) of the Act.
+
+[^f00003]: Footnote: [S.S.I. 2008/101](https://www.legislation.gov.uk/ssi/2008/101).
+
+[^f00004]: Footnote: [S.S.I. 2011/60](https://www.legislation.gov.uk/ssi/2011/60).

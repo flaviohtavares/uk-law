@@ -1,0 +1,293 @@
+---
+title: The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Regulations 2011
+id: ssi/2011/237
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-22'
+text_date: '2014-01-06'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/237
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/237/pdfs/ssien_20110237_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/237/pdfs/ssi_20110237_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/237/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Regulations 2011
+
+> Text as at 2014-01-06.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 237
+
+Charities
+
+The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Regulations 2011
+
+Made
+
+22nd March 2011
+
+Coming into force
+
+1st April 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 64(d) and 103(2) of the Charities and Trustee Investment (Scotland) Act 2005[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 103(5)(c) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation, commencement and interpretation[^key-1089c6b597521358947e0b1e8c8448cd]
+
+(1) These Regulations may be cited as the Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Regulations 2011 and come into force on 1st April 2011.
+
+(2) In these Regulations “the 2005 Act” means the Charities and Trustee Investment (Scotland) Act 2005.
+
+(3) In these Regulations, words used have the same meaning as in the 2005 Act, unless the context indicates otherwise.
+
+## 2. Application of 2005 Act[^key-fa9edd99a731ca3f5517ea07964402cb]
+
+(1) Section 16(1) of the 2005 Act does not apply in relation to any action taken by a SCIO of the type described in paragraphs (b) and (c) of section 16(2) of that Act.
+
+(2) A SCIO may apply to be removed from the Register only in accordance with regulations 3 or 4 (and sections 12(5) and 18 of the 2005 Act accordingly do[^key-15d76ea85f2da3797f5a7a8a5c6c7d3e] not apply in relation to a SCIO).
+
+## 3. Dissolution of a solvent SCIO[^key-5419403c1c249488d87320af8b89e32e]
+
+(1) A SCIO may make an application to OSCR for the SCIO to be removed from the Register and dissolved.
+
+(2) An application must be accompanied by a copy, certified by either at least two thirds of the charity trustees of the SCIO or by one trustee only if authorised to sign on behalf of the other trustees, of a resolution of the members of the SCIO that it, subject to the consent of OSCR—
+
+- (a) wind up its affairs;
+- (b) transfer any surplus assets after settlement of all outstanding debts and liabilities to another named body (or bodies) which has purposes which are the same as or which resemble closely the purposes of the SCIO set out in its constitution; and
+- (c) be removed from the Register and dissolved.
+
+(3) A resolution must be passed by at least two-thirds of its members voting at a general meeting or otherwise than at a general meeting of the SCIO (including those voting by proxy or by post, if voting that way is permitted) and must have been passed not more than 21 days before the making of the application.
+
+(4) The application must also be accompanied by—
+
+- (a) a copy of the constitution of the SCIO including any amendment;
+- (b) a copy of the register of the charity trustees of the SCIO;
+- (c) a declaration of solvency of the SCIO signed by at least two thirds of the charity trustees of the SCIO or by one trustee only if authorised to sign on behalf of the other trustees in the form of the form set out in Schedule 1;
+- (d) notice of application for dissolution of the solvent SCIO in the form of the form set out in Schedule 2; and
+- (e) a statement outlining the proposed dissolution of the SCIO, which must include details of all the assets and liabilities of the SCIO at the time the application is made, including liabilities to return funds to a funding body or any other body under contractual or other terms, and proposals for how the outstanding stated liabilities will be met and specifying the named body (or bodies) to which surplus assets will be transferred.
+
+(5) Immediately after the making of the application, the SCIO shall write to all creditors of the SCIO known to it, notifying them of the application.
+
+(6) Within 14 days of receipt of the application, OSCR shall publish on its website the notice of proposed dissolution referred to in paragraph (4)(d).
+
+(7) If on receipt of the application, OSCR requires more information to enable it to proceed with the application, OSCR may require further information from the SCIO; in which case the date of receipt of the application for the purposes of paragraph (6) shall be the date of receipt of the further information required.
+
+(8) The notice of proposed dissolution shall remain on OSCR’s website for 28 days, during which time any person may make representations to OSCR about the proposed dissolution.
+
+(9) Within 21 days of the expiry of the 28 days referred to in paragraph (8) OSCR must—
+
+- (a) consent to the application;
+- (b) consent to the application subject to any condition; or
+- (c) refuse the application.
+
+(10) Chapter 10 of Part 1 of the 2005 Act applies to a decision to refuse an application under paragraph (9)(c) as it applies to a decision listed in section 71 of that Act.
+
+(11) If OSCR consents to the application, then subject to any condition mentioned in paragraph (9) being accepted in writing and met by the SCIO and the surplus assets of the SCIO being transferred to the named body (or bodies) in accordance with the resolution referred to in paragraph (2)—
+
+- (a) OSCR must remove from the Register the entry for the SCIO as soon as OSCR receives from the SCIO notification in writing that any condition mentioned in paragraph (9) has been met and the surplus assets of the SCIO have been transferred to the named body (or bodies) in accordance with the resolution referred to in paragraph (2); and
+- (b) the SCIO is dissolved.
+
+## 4. Application for dissolution of an insolvent SCIO[^key-2e6b0f1aa8d45265d9ff6b35b56e4074]
+
+A SCIO may make an application to OSCR for the SCIO to be removed from the Register and dissolved on the grounds that the SCIO is insolvent, having outstanding debts of at least £1500.
+
+## 5. Accompanying documents[^key-134b3e7ba922a7a592554475e9f1cc7d]
+
+(1) The application referred to in regulation 4 must be accompanied by a copy, certified by either at least two thirds of the charity trustees of the SCIO or by one trustee only if authorised to sign on behalf of the other trustees, of a resolution of the members of the SCIO that, subject to OSCR being satisfied that the application meets the requirements of these Regulations—
+
+- (a) the SCIO’s estate be sequestrated;
+- (b) in the event of the SCIO having any surplus assets after settlement of all outstanding debts and liabilities, the surplus assets be transferred to another named body (or bodies) which has purposes which are the same as or which resemble closely the purposes of the SCIO set out in its constitution; and
+- (c) the SCIO be removed from the Register and dissolved.
+
+(2) A resolution referred to in paragraph (1) must be passed by at least two-thirds of its members voting at a general meeting or otherwise than at a general meeting of the SCIO (including those voting by proxy or by post, if voting that way is permitted) and must have been passed not more than 21 days before the making of the application.
+
+(3) The application referred to in regulation 4 must also be accompanied by the following documents:—
+
+- (a) a copy of the constitution of the SCIO including any amendment;
+- (b) a copy of the register of the charity trustees of the SCIO;
+- (c) a declaration of insolvency of the SCIO signed by at least two thirds of the charity trustees of the SCIO or by one trustee only if authorised to sign on behalf of the other trustees in the form of the form set out in Schedule 3;
+- (d) an application by the SCIO (for onward transmission by OSCR) to the Accountant in Bankruptcy for sequestration of the estate of the SCIO signed by at least two thirds of the charity trustees of the SCIO or by one trustee only if authorised to sign on behalf of the other trustees in the form of the application set out in Schedule 4; and
+- (e) a notice of application for dissolution of the SCIO in the form of the form set out in Schedule 5.
+
+## 6. Accountant in Bankruptcy and sequestration of estate of SCIO[^key-6d6f7bb4f147bd359c2232bc817506c5]
+
+(1) Within 14 days of receipt of an application under regulation 4, OSCR shall publish on its website the notice of application for dissolution listed in regulation 5(3)(e).
+
+(2) If within 14 days of publication of the notice referred to in paragraph (1), OSCR is satisfied that the SCIO has complied with the requirements of regulation 5, OSCR shall transmit the application and all accompanying documents to the Accountant in Bankruptcy.
+
+(3) The Accountant in Bankruptcy shall, subject to paragraph (4), award sequestration of the estate of the SCIO, if satisfied that the SCIO is insolvent having outstanding debts of at least £1500, and send a copy of the award of sequestration to OSCR, who shall publish the award of sequestration in relation to the SCIO on its website.
+
+(4) The Accountant in Bankruptcy may only award sequestration if they are in receipt of—
+
+- (a) the application;
+- (b) the accompanying documents from OSCR; and
+- (c) the fee for the determination of a debtor application as laid down in the Bankruptcy Fees (Scotland) Regulations 1993[^f00002].
+
+(5) The fee payable to the Accountant in Bankruptcy by virtue of paragraph (4) must be paid to the Accountant in Bankruptcy not later than 21 days from the receipt by the Accountant in Bankruptcy from OSCR of the application and accompanying documents referred to in paragraph (4); otherwise the Accountant in Bankruptcy must refuse to award sequestration in respect of the application.
+
+(6) In the case of an award of sequestration of the estate of a SCIO—
+
+- (a) the award of sequestration shall be treated as an award of sequestration of the estate of a body corporate by the Accountant in Bankruptcy following a debtor application by the body corporate (but without the need for the concurrence of a qualified creditor or qualified creditors and without the debtor being able to nominate the trustee in terms of section 2(1A)(a) of the Bankruptcy (Scotland) Act 1985[^f00003]);
+- (b) the provisions of the Bankruptcy (Scotland) Act 1985 in respect of the sequestration of the estate of a body corporate following a debtor application shall apply to the sequestration of the estate of a SCIO as a body corporate; and
+- (c) the Accountant in Bankruptcy shall have the same powers and duties in relation to the estate of a SCIO as the Accountant in Bankruptcy has in relation to the sequestration of the estate of a body corporate following a debtor application.
+
+(7) On completion of the sequestration of the estate of a SCIO in terms of this regulation, the Accountant in Bankruptcy shall transfer any surplus assets that emerge to the named body (or bodies) specified in the resolution of the SCIO referred to in regulation 5(1).
+
+(8) Having transferred any assets under paragraph (7), the Accountant in Bankruptcy shall send notification to OSCR that the sequestration of the SCIO is completed and include copies of the final accounts of the Accountant in Bankruptcy’s intromissions with the SCIO’s estate and a determination of the fees and outlays calculated in accordance with regulations made under section 69A[^f00004] of the Bankruptcy (Scotland) Act 1985.
+
+(9) On receipt of the notification and final accounts referred to in paragraph (8)—
+
+- (a) OSCR must remove from the Register the entry for the SCIO; and
+- (b) the SCIO is dissolved.
+
+(10) Subject to regulation 7, the estate of a SCIO may not be sequestrated except in terms of regulations 4 to 6.
+
+## 7. Right of qualified creditor and others to petition for sequestration of SCIO[^key-e7b083b4237efb9c23fbb6453e220099]
+
+(1) Subject to paragraphs (2) to (6), a qualified creditor or qualified creditors, a temporary administrator or a member State liquidator appointed in main proceedings may petition for the sequestration of the estate of a SCIO as a body corporate under section 6(6)(b) of the Bankruptcy (Scotland) Act 1985.
+
+(2) At least 7 days but not more than 14 days before a petition is lodged under paragraph (1), the prospective petitioner must notify OSCR and the SCIO that a petition is to be lodged and proof of the notification must be lodged with any subsequent petition, without which proof of notification the sheriff shall not award sequestration in respect of the petition.
+
+(3) If following the lodging of a petition, sequestration is awarded by the court, the trustee must immediately notify OSCR of the award of sequestration, and OSCR shall publish on its website a notice of the sequestration of the SCIO and intimate that following the completion of the sequestration the SCIO shall be removed from the Register by OSCR and dissolved.
+
+(4) On completion of the sequestration, and having transferred any surplus assets to another body (or bodies) which has purposes which are the same as or which resemble closely the purposes of the SCIO set out in its constitution, the trustee shall send notification to OSCR that the sequestration of the SCIO is completed and include copies of the final accounts of his intromissions with the SCIO’s estate and a determination of his fees and outlays calculated in accordance with regulations made under section 69A of the Bankruptcy (Scotland) Act 1985.
+
+(5) On receipt of the notification and final accounts referred to in paragraph (4)—
+
+- (a) OSCR must remove from the Register the entry for the SCIO; and
+- (b) the SCIO is dissolved.
+
+(6) In this regulation the terms “qualified creditor”, “qualified creditors”, “temporary administrator”, “member State liquidator” and “main proceedings” have the meanings they have in section 73(1) of the Bankruptcy (Scotland) Act 1985.
+
+## 8. SCIOs no longer meeting charity test or failing to comply with direction[^key-40ef5a4e8c00421681f941dc502f20aa]
+
+(1) Where it appears to OSCR, as a result of inquiries under section 28 of the 2005 Act or otherwise, that a SCIO no longer meets the charity test OSCR must direct the SCIO—
+
+- (a) to take, within such period as may be specified in the direction, such steps as OSCR considers necessary for the purposes of meeting the charity test, including applying to OSCR for approval under section 39 of the 2005 Act for a reorganisation scheme in relation to the SCIO’s constitution; or
+- (b) to make, within such period as may be specified in the direction, an application to OSCR under regulation 3 or regulation 4 of these Regulations to be removed from the Register and dissolved,
+
+(and, subject to paragraph (5), section 30 of the 2005 Act does not accordingly apply to a SCIO).
+
+(2) Where it appears to OSCR that a SCIO has failed to comply with a direction under paragraph (1)(a), OSCR must direct the SCIO, within such period as may be specified in the direction, to make an application to OSCR under regulation 3 or regulation 4 of these Regulations to be removed from the Register and dissolved.
+
+(2A)[^key-c9e8f347162acb966fae8d220a97d89f] Where it appears to OSCR that a SCIO has failed to comply with a direction under section 12(2) or (3) of the 2005 Act, OSCR must direct the SCIO to make, within such period as may be specified in the direction, an application to OSCR under regulation 3 or regulation 4 of these Regulations to be removed from the Register and dissolved.
+
+(3) If within the period specified in a direction under paragraphs (1)(b) , (2) or (2A)[^key-e2a30de00b70eebf5e51d54e7282cad6], a SCIO has failed to comply with the direction, OSCR must make an application for an order under paragraph (4) to the Court of Session under this regulation.
+
+(4) On an application by OSCR under paragraph (3), the Court of Session may—
+
+- (a) inquire into the matter and, after hearing any witness who may be produced against or on behalf of the SCIO, and after hearing any statement as to why the order of OSCR has not been complied with, deal with the SCIO and its charity trustees in any way the court thinks fit;
+- (b) make any other order it thinks appropriate in the circumstances including but not limited to ordering the SCIO to comply with the direction under paragraphs (1)(a) or (b) , (2) or (2A)[^key-92888cdd4a7ad6972d26b353953203af], making any of the orders listed in section 34(5) of the 2005 Act and exercising any of its other powers under that Act.
+
+(5) The power of OSCR to direct under paragraphs (1) , (2) or (2A)[^key-ab90e545737b7292b2e821b518f30776] shall—
+
+- (a) include a power to vary or revoke the direction; and
+- (b) be subject to reviews and appeals under Chapter 10 of Part 1 of the 2005 Act, as if it were a direction under section 30(1)(a) of the 2005 Act[^f00005].
+
+FERGUS EWING
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+22nd March 2011
+
+## SCHEDULE 1[^key-a1596117f1cf96635a0457cc9505b073]
+
+Regulation 3(4)(c)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_001)
+
+## SCHEDULE 2[^key-ddb57c07338603d0d9c2e882aa2d5ff5]
+
+Regulation 3(4)(d)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_002)
+
+## SCHEDULE 3[^key-5111a2d60eed8d034cb8be6fdf0a32f2]
+
+Regulation 5(3)(c)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_003)
+
+## SCHEDULE 4[^key-ec559398fa8c8e1d4ad1cf81936858d7]
+
+Regulation 5(3)(d)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_004) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_005) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_006) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_007) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_008) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_009) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_010) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_011) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_012) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_013) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_014) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_015) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_016) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_017) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_018) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_019) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_020) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_021) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_022) [image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_023)
+
+## SCHEDULE 5[^key-7d7e9fe4c993f62d57914a1c16cd4e73]
+
+Regulation 5(3)(e)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2011/237/images/ssi_20110237_en_024)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations set out a machinery for the dissolution of Scottish Charitable Incorporated Organisations (“SCIOs”). Applications by a SCIO must be made to the Office of the Scottish Charity Regulator (“OSCR”) who must publish a statutory notice of proposed dissolution or dissolution on its website. Applications may be made by a solvent SCIO (regulation 3), or by an insolvent SCIO (regulation 4). In the case of insolvent SCIOs the ground of dissolution is that the SCIO is insolvent having outstanding debts of at least £1500. The process commences in the case of insolvent SCIOs with OSCR being satisfied that the application complies with statutory requirements as regards documentation. If these are met, OSCR refers the application to the Accountant in Bankruptcy (AiB), who awards sequestration of the SCIO’s estate if the AiB finds it insolvent. The AiB then sequestrates the estate of the SCIO as a body corporate as on a debtor application. The AiB, after finalising sequestration, refers the application back to OSCR and OSCR removes the SCIO from the Scottish Charity Register and the SCIO is then dissolved. A qualified creditor or qualified creditors, a temporary administrator and a member State liquidator appointed in main proceedings as defined in section 73(1) of the Bankruptcy (Scotland) Act 1985 are entitled to sequestrate a SCIO by petitioning the court for sequestration (regulation 7). This must first be intimated to OSCR and the SCIO. If sequestration is awarded this process also leads to the dissolution of the SCIO (regulation 7).
+
+A SCIO failing to meet the charity test may be ordered by OSCR to meet the test or alternatively OSCR may order the SCIO to apply for dissolution. If this order is not obeyed OSCR can take the matter to the Court of Session (regulation 8), which can order the application for dissolution to proceed or make any other order it considers appropriate in the circumstances.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
+
+[^key-1089c6b597521358947e0b1e8c8448cd]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-fa9edd99a731ca3f5517ea07964402cb]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-15d76ea85f2da3797f5a7a8a5c6c7d3e]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2011/237/regulation/2/2) substituted (6.1.2014) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Amendment Regulations 2013 (S.S.I. 2013/362)](https://www.legislation.gov.uk/ssi/2013/362), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2013/362/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/2))
+
+[^key-5419403c1c249488d87320af8b89e32e]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-2e6b0f1aa8d45265d9ff6b35b56e4074]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-134b3e7ba922a7a592554475e9f1cc7d]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-6d6f7bb4f147bd359c2232bc817506c5]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^f00002]: Footnote: [S.I. 1993/486](https://www.legislation.gov.uk/uksi/1993/486), as amended by [S.I. 1999/752](https://www.legislation.gov.uk/uksi/1999/752), [S.S.I.s 2007/220](https://www.legislation.gov.uk/ssi/2007/220), [2008/5](https://www.legislation.gov.uk/ssi/2008/5) and [79](https://www.legislation.gov.uk/ssi/2008/79), [2009/97](https://www.legislation.gov.uk/ssi/2009/97) and [2010/76](https://www.legislation.gov.uk/ssi/2010/76).
+
+[^f00003]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66). Section 2(1A) was inserted by the [Bankruptcy and Diligence etc. (Scotland) Act 2007, (asp 3)](https://www.legislation.gov.uk/asp/2007/3), section 14(2).
+
+[^f00004]: Footnote: Section 69A was inserted by the Bankruptcy (Scotland) Act [1993 (c.6)](https://www.legislation.gov.uk/ukpga/1993/6) section 8.
+
+[^key-e7b083b4237efb9c23fbb6453e220099]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-40ef5a4e8c00421681f941dc502f20aa]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-c9e8f347162acb966fae8d220a97d89f]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/ssi/2011/237/regulation/8/2A) inserted (6.1.2014) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Amendment Regulations 2013 (S.S.I. 2013/362)](https://www.legislation.gov.uk/ssi/2013/362), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2013/362/regulation/2/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/2))
+
+[^key-e2a30de00b70eebf5e51d54e7282cad6]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/ssi/2011/237/regulation/8/3) substituted (6.1.2014) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Amendment Regulations 2013 (S.S.I. 2013/362)](https://www.legislation.gov.uk/ssi/2013/362), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2013/362/regulation/2/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/2))
+
+[^key-92888cdd4a7ad6972d26b353953203af]: Textual amendment: Words in [reg. 8(4)(b)](https://www.legislation.gov.uk/ssi/2011/237/regulation/8/4/b) substituted (6.1.2014) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Amendment Regulations 2013 (S.S.I. 2013/362)](https://www.legislation.gov.uk/ssi/2013/362), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2013/362/regulation/2/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/2))
+
+[^key-ab90e545737b7292b2e821b518f30776]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/ssi/2011/237/regulation/8/5) substituted (6.1.2014) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Amendment Regulations 2013 (S.S.I. 2013/362)](https://www.legislation.gov.uk/ssi/2013/362), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2013/362/regulation/2/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/2))
+
+[^f00005]: Footnote: Sections 30, 71 and 73 of the 2005 Act were amended by the Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), section 121.
+
+[^key-a1596117f1cf96635a0457cc9505b073]: Commencement: Sch. 1 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-ddb57c07338603d0d9c2e882aa2d5ff5]: Commencement: Sch. 2 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-5111a2d60eed8d034cb8be6fdf0a32f2]: Commencement: Sch. 3 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-ec559398fa8c8e1d4ad1cf81936858d7]: Commencement: Sch. 4 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)
+
+[^key-7d7e9fe4c993f62d57914a1c16cd4e73]: Commencement: Sch. 5 in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1)

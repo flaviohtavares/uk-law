@@ -1,0 +1,69 @@
+---
+title: Criminal Justice (Scotland) Act 2016, section 80
+act: Criminal Justice (Scotland) Act 2016
+section: '80'
+status: revised-with-pending-changes
+text_date: '2026-03-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/1/section/80
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice (Scotland) Act 2016, section 80
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-03-30. See https://www.legislation.gov.uk/changes/affected/asp/2016/1
+>
+> Extent: Scotland.
+
+## 80. Duty of parties to communicate[^key-9462a1052fe9313409a366f21c95a57d]
+
+*Extent: S*
+
+(1) The 1995 Act is amended as follows.
+
+(2) In section 71 (first diet), after subsection (1) there is inserted—
+
+> (1ZA) If a written record has been lodged in accordance with section 71C, the court must have regard to the written record when ascertaining the state of preparation of the parties.
+
+.
+
+(3) Before section 72 there is inserted—
+
+> **71C. Written record of state of preparation: sheriff court**
+>
+> (1) Subsection (2) applies where—
+>
+> - (a) the accused is indicted to the sheriff court, and
+> - (b) a solicitor—
+>   - (i) has notified the court under section 72F(1) that the solicitor has been engaged by the accused for the purposes of conducting the accused's defence, and
+>   - (ii) has not subsequently been dismissed by the accused or withdrawn.
+>
+> (2) The prosecutor and the accused's legal representative must, within the period described in subsection (3), communicate with each other and jointly prepare a written record of their state of preparation with respect to their cases (referred to in this section as “**the written record**”).
+>
+> (3) The period referred to in subsection (2) begins on the day the accused is served with an indictment and expires at the end of the day falling 14 days later.
+>
+> (4) The written record must—
+>
+> - (a) be in such form, or as nearly as may be in such form,
+> - (b) contain such information, and
+> - (c) be lodged in such manner,
+>
+> as may be prescribed by act of adjournal.
+>
+> (5) The written record must state the manner in which the communication required by subsection (2) was conducted (for example, by telephone, email or a meeting in person).
+>
+> (6) In subsection (2), “**the accused's legal representative**” means—
+>
+> - (a) the solicitor referred to in subsection (1), or
+> - (b) where the solicitor has instructed counsel for the purposes of the conduct of the accused's case, either the solicitor or that counsel, or both of them.
+>
+> (7) In subsection (6)(b), “**counsel**” includes a solicitor who has a right of audience in the High Court of Justiciary under section 25A of the Solicitors (Scotland) Act 1980.
+
+.
+
+(4) In section 75 (computation of certain periods), after the words “67(3),” there is inserted “ 71C(3) ”.
+
+## Annotations
+
+[^key-9462a1052fe9313409a366f21c95a57d]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2016/1/section/80) in force at 29.5.2017 for specified purposes by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 3(1)](https://www.legislation.gov.uk/ssi/2017/99/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2017/99/article/3/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))

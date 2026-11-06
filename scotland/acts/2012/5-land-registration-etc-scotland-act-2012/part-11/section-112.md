@@ -1,0 +1,70 @@
+---
+title: Land Registration etc. (Scotland) Act 2012, section 112
+act: Land Registration etc. (Scotland) Act 2012
+section: '112'
+status: revised-with-pending-changes
+text_date: '2024-03-04'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2012/5/section/112
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Registration etc. (Scotland) Act 2012, section 112
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2024-03-04. See https://www.legislation.gov.uk/changes/affected/asp/2012/5
+>
+> Extent: Scotland.
+
+## 112. Offence relating to applications for registration[^key-fa96b777a6d2a100b4fdd30a4756abd4]
+
+*Extent: S*
+
+(1) A person mentioned in subsection (2) commits an offence if the person—
+
+- (a) makes a materially false or misleading statement in relation to an application for registration knowing that, or being reckless as to whether, the statement is false or misleading, or
+- (b) intentionally fails to disclose material information in relation to such an application or is reckless as to whether all material information is disclosed.
+
+(2) The persons are—
+
+- (a) a person making an application for registration, or
+- (b) a person who, in connection with such an application, acts as solicitor or other legal adviser to the applicant.
+
+(3) It is a defence for a person charged with an offence under subsection (1) (the “accused”) that the accused took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(4) The defence is established if the accused—
+
+- (a) acted in reliance on information supplied by another person, and
+- (b) did not know and had no reason to suppose that—
+  - (i) the information was false or misleading, or
+  - (ii) all material information had not been disclosed.
+
+(5) Subsection (4) does not exclude other ways of establishing the defence mentioned in subsection (3).
+
+(6) An accused may not rely on a defence involving the allegation that the commission of the offence was due to reliance on information supplied by another person unless—
+
+- (a) the accused has complied with subsection (7), or
+- (b) the court grants leave.
+
+(7) The accused must serve on the prosecutor a notice giving such information identifying or assisting in the identification of the other person as is in the accused's possession—
+
+- (a) in proceedings on indictment, at least 14 clear days before the preliminary hearing (where the case is to be tried in the High Court) or the first diet (where the case is to be tried in the sheriff court),
+- (b) in summary proceedings—
+  - (i) where an intermediate diet is held, at or before that diet,
+  - (ii) where no such diet is held, at least 10 clear days before the trial diet.
+
+(8) Subsection (6) does not apply where—
+
+- (a) the accused lodges a defence statement—
+  - (i) under section 70A of the Criminal Procedure (Scotland) Act 1995 (c.46), or
+  - (ii) under section 125 of the Criminal Justice and Licensing (Scotland) Act 2010 (asp 13) in accordance with the time limits mentioned in subsection (7)(b), and
+- (b) the accused's defence involves an allegation that the commission of the offence was due to reliance on information supplied by another person.
+
+(9) A person guilty of an offence under subsection (1) is liable—
+
+- (a) on summary conviction, to imprisonment for a period not exceeding 12 months, to a fine not exceeding the statutory maximum, or to both,
+- (b) on conviction on indictment, to imprisonment for a period not exceeding 2 years, to a fine, or to both.
+
+## Annotations
+
+[^key-fa96b777a6d2a100b4fdd30a4756abd4]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2012/5/section/112) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

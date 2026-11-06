@@ -1,0 +1,156 @@
+---
+title: The Food (Animal Products from Belgium) (Emergency Control) (Scotland) Order 2000
+id: ssi/2000/15
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2000-01-24'
+text_date: '2000-02-17'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2000/15
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2000/15/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food (Animal Products from Belgium) (Emergency Control) (Scotland) Order 2000
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2000-02-17. See https://www.legislation.gov.uk/changes/affected/ssi/2000/15
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2000 No. 15
+
+FOOD
+
+The Food (Animal Products from Belgium) (Emergency Control) (Scotland) Order 2000
+
+Made
+
+24th January 2000
+
+Laid before the Scottish Parliament
+
+27th January 2000
+
+Coming into force
+
+17th February 2000
+
+The Scottish Ministers, in exercise of the powers conferred on them by sections 6(4), 13(1) and 48(1) of the Food Safety Act 1990[^f00001],and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Citation, commencement, extent and interpretation[^key-4f6175bdc9e9dd273a5aa233b5ad5257]
+
+(1) This Order may be cited as the Food (Animal Products from Belgium) (Emergency Control) (Scotland) Order 2000 and shall come into force on 17th February 2000.
+
+(2) This Order extends to Scotland only.
+
+(3) In this Order–
+
+- “the Act” means the Food Safety Act 1990;
+- “the Commission Decision” means Commission Decision [1999/788/EC](https://www.legislation.gov.uk/european/decision/1999/0788) on protective measures with regards to contamination by dioxins of certain products of porcine and poultry origin intended for human or animal consumption[^f00002];
+- “free circulation” shall be construed in accordance with Article 23.2 of the Treaty establishing the European Community;
+- “member State” means a member State of the European Community other than Belgium or the United Kingdom; and
+- “relevant animal product” means an entity coming within any of the following descriptions—
+  - (a) products of Belgian origin covered by Article 1.3 of the Commission Decision, and
+  - (b) products which contain any of the products referred to in sub-paragraph (a) above,
+
+  but only includes food.
+
+(4) Other expressions used both in this Order and in the Commission Decision have, in so far as the context admits, the same meaning in this Order as they bear in that Decision.
+
+## 2. Exemptions[^key-3127dee61b55ad020ab91d685eb82580]
+
+(1) Article 3 below does not apply to–
+
+- (a) the importation into Scotland of any food if, when imported, that food is accompanied by valid certification relating to it, as specified in paragraph (3) below;
+- (b) any commercial operations in Scotland in relation to food imported into the United Kingdom if it can be proved by the person carrying out the operation that at the time of importation it was so accompanied; or
+- (c) the return to Belgium, in accordance with Article 4 of the Commission Decision, of any product covered by this Order.
+
+(2) Article 5 below does not, save for sub-paragraphs (a) and (b) of paragraph (1) thereof, apply to any imported food which is accompanied by valid certification relating to it as specified in paragraph (3) below.
+
+(3) The certification to which paragraphs (1)(a) and (b) and (2) above apply is an official certificate signed by the Belgian competent authority in the form called for by Article 2 of that Decision.
+
+## 3. Prohibitions[^key-f7a37be8236d341cbb1320a0de3afbe4]
+
+(1) Subject to paragraph (2) below, no person may carry out commercial operations with respect to any relevant animal product.
+
+(2) Paragraph (1) above does not prohibit the bringing into Scotland, from a member State, of any relevant animal product in free circulation in that member State.
+
+## 4. Enforcement[^key-138e94cb5c011859081e08f3984f2adf]
+
+(1) This Order is to be enforced and executed by the Scottish Ministers and by each food authority within its area or district as appropriate.
+
+(2) For the purposes of the return to Belgium of any product as specified in article 2(1)(c) above, the competent authority for the purposes of the official certificate is the Scottish Ministers or any authorised officer of a food authority.
+
+(3) Each food authority shall give such assistance and information to the Scottish Ministers as they may request for the purpose of their duties under section 13 of the Act in connection with the implementation of the Commission Decision in relation to food.
+
+## 5. Application and modification of various provisions of the Act[^key-7451daf9cf3f68f995ab0c93fba7884c]
+
+(1) Section 9 of the Act (inspection and seizure of suspected food) applies for the purposes of this Order, subject to the following modifications–
+
+- (a) the references in subsections (1) and (2) to “food authority” shall be construed as including reference to the Scottish Ministers;
+- (b) subsections (1) and (2) extend to food which appears to an authorised officer to come within the definition of “relevant animal product”;
+- (c) subsections (3), (4), (5)(a) and (6) to (9) thereof apply–
+  - (i) to any food falling within sub paragraph (b) above as it applies to food which appears to an authorised officer to fail to comply with food safety requirements or to be likely to cause food poisoning or any disease communicable to human beings, and
+  - (ii) to any relevant animal product as if it were food which failed to comply with food safety requirements,
+
+  provided that a court shall decline to condemn food falling within sub-paragraph (b) above under sub-section (6) thereof if and only if it is proved that it does not come within the definition of “relevant animal product”, or that it is to be returned to Belgium as specified in article 2(1)(c) above.
+
+(2) The following provisions of the Act apply for the purposes of this Order and any reference in those provisions to the Act shall be construed for the purposes of this Order as a reference to this Order–
+
+- (a) section 33 (obstruction etc. of officers);
+- (b) section 35(1) (punishment of offences) in so far as it relates to offences under section 33 as applied by sub-paragraph (a) above; and
+- (c) section 44 (protection of officers acting in good faith).
+
+## 6. Revocation[^key-e6b207e46d26780ec874800ed08d1b30]
+
+The Food (Animals and Animal Products for Belgium) (Emergency Control) (No. 2) (Scotland) Order 1999[^f00003] is hereby revoked.
+
+Susan C Deacon
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+24th January 2000
+
+(This note is not part of the Order)
+
+This Order, which applies to Scotland, revokes and re-enacts with certain changes, the Food (Animals and Animal Products from Belgium) (Emergency Control) (No. 2) (Scotland) Order 1999 ([S.S.I. 1999/32](https://www.legislation.gov.uk/ssi/1999/32)) (“the revoked Order”) and implements in Scotland, in relation to food and food sources, Commission Decision [1999/788/EC](https://www.legislation.gov.uk/european/decision/1999/0788) on protective measures with regard to contamination by dioxins of certain products of porcine and poultry origin intended for human or animal consumption (OJ No. L310, 4.12.1999, p.62).
+
+The Order defines ‘relevant animal product’ (article 1(3)), prohibits (with exceptions (article 2)) the carrying out of commercial operations relating to them (article 3), specifies the enforcement authorities (article 4) and applies with modifications provisions of the Food Safety Act 1990 (article 5).
+
+In addition to making minor changes to the revoked Order, this Order, by referring to Decision [1999/788/EC](https://www.legislation.gov.uk/european/decision/1999/0788), makes the following changes of substance–
+
+- (a) it narrows the coverage of the revoked Order in that it does not apply to pigs, poultry and hatching eggs, but only to products derived from pigs and poultry;
+- (b) the controls do not apply in the case of products derived from poultry or pigs slaughtered after 20th September 1999 or from eggs laid after that date;
+- (c) it amends the certification requirements for importation of animal products from Belgium; and
+- (d) it amends the requirements as to return to Belgium by applying them only to products derived from animals slaughtered, or eggs laid, before 20th September 1999.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16); section 6(4) of the Act was amended by paragraph 6 of Schedule 9 to the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40). The functions of the Secretary of State so far as within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-4f6175bdc9e9dd273a5aa233b5ad5257]: Commencement: Art. 1 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+
+[^f00002]: Footnote: O.J. No. L310, 4.12.1999, p.62.
+
+[^key-3127dee61b55ad020ab91d685eb82580]: Commencement: Art. 2 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+
+[^key-f7a37be8236d341cbb1320a0de3afbe4]: Commencement: Art. 3 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+
+[^key-138e94cb5c011859081e08f3984f2adf]: Commencement: Art. 4 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+
+[^key-7451daf9cf3f68f995ab0c93fba7884c]: Commencement: Art. 5 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+
+[^key-e6b207e46d26780ec874800ed08d1b30]: Commencement: Art. 6 in force at 17.2.2000, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2000/15/article/1/1)
+
+[^f00003]: Footnote: [S.S.I. 1999/32](https://www.legislation.gov.uk/ssi/1999/32)

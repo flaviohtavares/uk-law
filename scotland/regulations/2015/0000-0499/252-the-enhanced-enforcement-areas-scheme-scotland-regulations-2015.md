@@ -1,0 +1,216 @@
+---
+title: The Enhanced Enforcement Areas Scheme (Scotland) Regulations 2015
+id: ssi/2015/252
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-06-09'
+text_date: '2025-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/252
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/252/pdfs/ssipn_20150252_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/252/pdfs/ssi_20150252_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/252/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Enhanced Enforcement Areas Scheme (Scotland) Regulations 2015
+
+> Text as at 2025-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 252
+
+Housing
+
+The Enhanced Enforcement Areas Scheme (Scotland) Regulations 2015
+
+Made
+
+9th June 2015
+
+Coming into force
+
+10th June 2015
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 28(1) and 101(1) of the Housing (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 28(3) of that Act, the Scottish Ministers have consulted with local authorities, persons or bodies who appear to them to represent the interests of landlords and of tenants and such other persons or bodies as the Scottish Ministers considered appropriate.
+
+In accordance with section 101(2) of that Act, a draft of these Regulations has been laid before, and approved by resolution of, the Scottish Parliament.
+
+## 1. Citation, commencement and interpretation[^key-496b06af173afd159ade1a4694b199fc]
+
+(1) These Regulations may be cited as the Enhanced Enforcement Areas Scheme (Scotland) Regulations 2015 and come into force on the day after the day on which they are made.
+
+(2) In these Regulations—
+
+- “EEA” means Enhanced Enforcement Area;
+- “house” means any house which is specified in an application in terms of section 83(1) of the 2004 Act or which the local authority considers should be so specified;
+- “landlord” and “tenant” include the persons who are to be the landlord and the tenant under a tenancy that is being created.
+
+## 2. Local authority which may apply for approval[^key-961260efe1ea6f001ce35843402afbc1]
+
+A local authority may apply to the Scottish Ministers for an area to be designated as an EEA where it considers that the area is characterised by—
+
+- (a) an overprovision or a concentration of private rented housing that appears to the local authority to be—
+  - (i) of a poor environmental standard;
+  - (ii) overcrowded; and
+- (b) a prevalence of antisocial behaviour, as defined by section 81(4) of the 2004 Act.
+
+## 3. Application for approval[^key-c02b78ba2637dc52d02e2c0335bfa2a7]
+
+An application under regulation 2 must be made in writing and include—
+
+- (a) a description or plan of the area sufficient to identify it;
+- (b) a summary of the evidence that the local authority has had regard to in making its decision to apply;
+- (c) details of the actions that the local authority has taken, prior to the application, to improve the poor environmental standard of the private rented housing in the area;
+- (d) information about the local authority’s general strategy for promoting compliance with legislation and good practice by landlords in the area;
+- (e) information about which of the powers specified in regulation 4 are being sought, how they will be used and how they will enhance that general strategy; and
+- (f) an indication of the steps that will be taken, should the application be successful, to advertise to relevant persons that the area has been designated as an EEA.
+
+## 4. Additional discretionary powers[^key-36bfac5ed6dbb5f262ba30465fe3b40a]
+
+(1) Where the Scottish Ministers agree to designate an area as an EEA the local authority will acquire such of the additional discretionary powers as the Scottish Ministers consider necessary or expedient, to be exercised for prescribed purposes.
+
+(2) The additional discretionary powers referred to in paragraph (1) are that—
+
+- (a) the local authority may require a relevant person in terms of section 83(8) of the 2004 Act to provide the local authority with a Level 2 Disclosure within the meaning of section 8(1) of the Disclosure (Scotland) Act 2020[^key-8665557c1cd511cc1ca1370f9010fb92];
+- (b) the local authority may require any person appearing to it to fall within paragraph (4) to provide it with, or make available for inspection, any of the following documents or evidence—
+  - (i) evidence of the policy in respect of any contract of insurance which the landlord is required to have or effect in terms of section 18 of the Tenements (Scotland) Act 2004[^f00003] and evidence of the payment of the premium for any such policy; and
+  - (ii) a copy of the acknowledgement from the tenant in terms of article 5 of the Tenant Information Packs (Assured Tenancies) (Scotland) Order 2013[^f00004] or other evidence to confirm that the landlord has complied with section 30A of the Housing (Scotland) Act 1988[^f00005];
+  - (iii) evidence that regulation 5 of the Energy Performance of Buildings (Scotland) Regulations 2008[^f00006] has been complied with;
+  - (iv) a copy of the record made and retained in terms of regulation 36(3)(c) of the Gas Safety (Installation and Use) Regulations 1998[^f00007];
+- (c) any person authorised by a local authority is entitled to enter the house and any building of which it forms part.
+
+(3) The prescribed purposes referred to in paragraph (1) are—
+
+- (a) in relation to paragraph (2)(a) deciding for the purposes of section 84(3) or (4) of the 2004 Act whether the relevant person is a fit and proper person;
+- (b) in relation to paragraph (2)(b)—
+  - (i) enabling and assisting the local authority to exercise any function under Part 8 of the 2004 Act;
+  - (ii) ensuring the safety and upkeep of the house; or
+  - (iii) ensuring that information is available for tenants;
+- (c) in relation to paragraph (2)(c) enabling or assisting the local authority to decide whether the house and building are safe, well managed and of good quality.
+
+(4) A person falls within this paragraph if the person—
+
+- (a) is the landlord of a house within the local authority’s area; or
+- (b) represents a landlord in relation to a lease or occupancy arrangement to which a house within the local authority’s area is subject.
+
+(5) A right to enter any house or building conferred under paragraph (2)(c) may be exercised only at a reasonable time.
+
+(6) A person authorised to exercise any right conferred under paragraph (2)(c) must, if required to do so, produce written evidence of the person’s authorisation by the local authority.
+
+## 5. Warrants for entry[^key-dc87363c6da3d0d58036f6a8a3cd1377]
+
+(1) Where the Scottish Ministers have designated an area as an EEA, a sheriff, justice of the peace or stipendiary magistrate may by warrant authorise any person entitled to exercise a right conferred by regulation 4(2)(c) to do so, if necessary using reasonable force, in accordance with the warrant.
+
+(2) A warrant may be granted under paragraph (1) only if the sheriff, justice or magistrate is satisfied by evidence on oath—
+
+- (a) that there are reasonable grounds for the exercise of the right in relation to the house and any building; and
+- (b) that—
+  - (i) entry to the house or building has been or is likely to be refused and that notice of intention to apply for a warrant has been given to the occupier;
+  - (ii) a request for entry, or the giving of such notice would defeat the object of the proposed entry;
+  - (iii) the house is, or building is, unoccupied;
+  - (iv) the occupier is temporarily absent; or
+  - (v) the case is one of urgency.
+
+## 6. Notification of approval or rejection[^key-2fd91a9272fc22db1f982f0e22d023aa]
+
+(1) The Scottish Ministers must notify the local authority of the approval or rejection of an application for the designation of an area as an EEA.
+
+(2) Where the application is rejected the Scottish Ministers must specify the reason for the rejection.
+
+## 7. Advertisement and duration of designation[^key-fe977fed69079a803ca48994f23d8da0]
+
+Where the Scottish Ministers have designated an area as an EEA—
+
+- (a) the local authority must take steps to advertise the fact that the designation has been granted;
+- (b) the designation will apply for a period of 5 years commencing from the date on which the Scottish Ministers notify the approval under regulation 6(1);
+- (c) the local authority must provide a report, within 3 months of receipt of a request by the Scottish Ministers to do so, setting out—
+  - (i) how the powers specified in regulation 4 have been used; and
+  - (ii) the impacts those powers have had on the local authority’s general strategy for promoting compliance with legislation and good practice by landlords in the area;
+- (d) the local authority may make a further application for the area to be designated as an EEA before the expiry of its first designation.
+
+## 8. Amendment of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2010[^key-d79c52208d60b7da9f66b4704e34220d]
+
+After regulation 9(2)(d) of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2010[^f00008] insert—
+
+> ;
+>
+> - (e) being entered in the register maintained by a local authority under section 82(1) of the Antisocial Behaviour etc. (Scotland) Act 2004[^f00009] where the application for entry in that register specifies the address of a house situated in an Enhanced Enforcement Area designated by the Scottish Ministers under the Enhanced Enforcement Areas Scheme (Scotland) Regulations 2015.
+
+.
+
+M J BURGESS
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+9th June 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision to enable a local authority to apply to the Scottish Ministers for an area to be designated as an Enhanced Enforcement Area (“EEA”).
+
+Regulation 2 specifies the circumstances where a local authority may make an application.
+
+Regulation 3 sets out what must be included in the application.
+
+Regulation 4 specifies the additional discretionary powers that the local authority may acquire where an area has been designated as an EEA and the purposes for which they may be exercised.
+
+Regulation 5 makes provision about a warrant for entry to supplement the right of entry in regulation 4(2)(c).
+
+Regulation 6 provides that the Scottish Ministers must notify the local authority of the approval or rejection of the application and that in the case of rejection a reason must be given.
+
+Regulation 7 makes further provision about the designation. Regulations 7(a) and (b) make provision about the advertisement and duration of the designation. Regulation 7(c) requires a local authority to provide a report about the use of the additional discretionary powers if asked to do so by the Scottish Ministers. Regulation 7(d) allows a local authority to make a further application providing it is made before the expiry of the first designation.
+
+Regulation 8 amends the Police Act 1997 (Criminal Records) (Scotland) Regulations 2010 to enable an enhanced record certificate to be required for the purpose of landlord registration.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 14](https://www.legislation.gov.uk/asp/2014/14).
+
+[^key-496b06af173afd159ade1a4694b199fc]: Commencement: Reg. 1 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+
+[^key-961260efe1ea6f001ce35843402afbc1]: Commencement: Reg. 2 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+
+[^key-c02b78ba2637dc52d02e2c0335bfa2a7]: Commencement: Reg. 3 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+
+[^key-36bfac5ed6dbb5f262ba30465fe3b40a]: Commencement: Reg. 4 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+
+[^key-8665557c1cd511cc1ca1370f9010fb92]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/ssi/2015/252/regulation/4/2/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 18](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/18) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^f00003]: Footnote: [2004 asp 11](https://www.legislation.gov.uk/asp/2004/11).
+
+[^f00004]: Footnote: [S.S.I. 2013/20](https://www.legislation.gov.uk/ssi/2013/20).
+
+[^f00005]: Footnote: [1988 c.43](https://www.legislation.gov.uk/ukpga/1988/43); section 30A was inserted by section 33 of the Private Rented Housing (Scotland) Act [2011 (asp 4)](https://www.legislation.gov.uk/asp/2011/4).
+
+[^f00006]: Footnote: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309); Regulations 5 and 9 were substituted by regulations 5 and 11 of the Energy Performance of Buildings (Scotland) Amendment (No. 2) Regulations 2012/208.
+
+[^f00007]: Footnote: [S.I. 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
+
+[^key-dc87363c6da3d0d58036f6a8a3cd1377]: Commencement: Reg. 5 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+
+[^key-2fd91a9272fc22db1f982f0e22d023aa]: Commencement: Reg. 6 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+
+[^key-fe977fed69079a803ca48994f23d8da0]: Commencement: Reg. 7 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+
+[^key-d79c52208d60b7da9f66b4704e34220d]: Commencement: Reg. 8 in force at 10.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/252/regulation/1/1)
+
+[^f00008]: Footnote: [S.S.I. 2010/168](https://www.legislation.gov.uk/ssi/2010/168).
+
+[^f00009]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8).

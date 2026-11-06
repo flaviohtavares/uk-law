@@ -1,0 +1,140 @@
+---
+title: The Part-Time Sheriffs (Removal Tribunal) Regulations 2001
+id: ssi/2001/205
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-05-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2001/205
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2001/205/pdfs/ssi_20010205_en.pdf
+- http://www.legislation.gov.uk/ssi/2001/205/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Part-Time Sheriffs (Removal Tribunal) Regulations 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 205
+
+SHERIFF COURT
+
+The Part-Time Sheriffs (Removal Tribunal) Regulations 2001
+
+Made
+
+23rd May 2001
+
+Coming into force
+
+24th May 2001
+
+The Scottish Ministers, in exercise of the powers conferred by section 11C(4) of the Sheriff Courts (Scotland) Act 1971[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations, a draft of which has, in accordance with section 11D(2) of the Act, been laid before, and approved by a resolution of the Scottish Parliament:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Part-Time Sheriffs (Removal Tribunal) Regulations 2001 and shall come into force on the day after the day on which they are made.
+
+## 2. Interpretation
+
+In these Regulations–
+
+- “the Act” means the Sheriff Courts (Scotland) Act 1971;
+- “investigation” means an investigation carried out under section 11C(2) of the Act;
+- “sheriff” means the part-time sheriff who is the subject of the investigation;
+- “tribunal” means the tribunal constituted by and under section 11C(3) of the Act.
+
+## 3. Commencement of investigation
+
+Prior to an investigation by the tribunal commencing, the Scottish Ministers shall give the sheriff written notice of the investigation and of their reasons for requesting the investigation.
+
+## 4. Payments to members
+
+The Scottish Ministers may pay to a member of the tribunal such sums as they consider appropriate in respect of the performance of that person’s duties as a member.
+
+## 5. Change in membership of tribunal
+
+(1) This regulation shall apply where, after commencement of an investigation, any member of the tribunal–
+
+- (a) dies;
+- (b) resigns; or
+- (c) is, in the opinion of the Lord President, unable to act.
+
+(2) Subject to paragraph (3), the Lord President shall appoint a new member to replace the member referred to in paragraph (1).
+
+(3) Where the member referred to in paragraph (1) is not the person presiding over the tribunal, a new member need not be appointed under paragraph (2) unless the sheriff so wishes.
+
+(4) On a new member being appointed under paragraph (2), the tribunal may (but need not) commence the investigation again.
+
+## 6. Procedure - general
+
+Other than as specified in these Regulations, the procedure to be followed by and before the tribunal shall be that determined by the tribunal.
+
+## 7. Procedure – further provisions
+
+(1) The tribunal may receive oral or written evidence from such persons as it thinks fit.
+
+(2) The tribunal shall give the sheriff the opportunity to make written and, if the sheriff wishes, oral representations regarding the matters which are the subject of the investigation.
+
+(3) Representations under paragraph (2) may be made by the sheriff personally or by anyone acting on his or her behalf.
+
+(4) The tribunal shall sit in private and no member shall disclose information received in the course of an investigation other than for the purposes of carrying out the functions conferred on the tribunal by the Act and these Regulations.
+
+## 8. Suspension
+
+(1) At any time during an investigation, the tribunal may suspend the sheriff from office.
+
+(2) A suspension imposed under paragraph (1) shall terminate–
+
+- (a) on the tribunal deciding not to order removal of the sheriff from office; or
+- (b) before then, on the tribunal deciding to bring the suspension to an end.
+
+(3) If the tribunal so directs, a sheriff suspended under this regulation may remain in office as a part-time sheriff but only for the purpose of continuing to deal with proceedings commenced prior to the suspension taking effect.
+
+## 9. Draft findings to be sent to sheriff
+
+(1) The tribunal shall send to the sheriff a draft of its findings on the investigation and shall give the sheriff an opportunity to make comments on the draft by such date as the tribunal may specify.
+
+(2) The tribunal shall have regard to any comments made under paragraph (1), but need not give the sheriff an opportunity to comment on any alterations made to the draft prior to submission of the final report under regulation 10.
+
+## 10. Report and decisions
+
+(1) On completion of its investigation, the tribunal shall submit a written report to the Scottish Ministers specifying–
+
+- (a) its findings on the investigation;
+- (b) its decision on whether to order removal of the sheriff from office; and
+- (c) where appropriate, the date of removal from office.
+
+(2) At the same time as submitting its report under paragraph (1), the tribunal shall send a copy of it to the sheriff.
+
+JAMES R WALLACE
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+23rd May 2001
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the procedure to be followed by and before a tribunal constituted under section 11C of the Sheriff Courts (Scotland) Act 1971. Such a tribunal is constituted to carry out an investigation at the request of the Scottish Ministers in order to ascertain whether a part-time sheriff is unfit for office by reason of inability, neglect of duty or misbehaviour.
+
+Before any investigation by a tribunal commences, the Scottish Ministers must give the sheriff written notice of the investigation and of the reasons why the investigation has been requested (regulation 3). The Scottish Ministers are given the power to pay the members of the tribunal for carrying out their duties (regulation 4).
+
+Subject to the specific provisions made by the Regulations, the tribunal is free to regulate its own procedure (regulation 6). The Regulations make provision for the tribunal to receive oral or written evidence; for the sheriff to make written or oral representations; for such representations to be made personally by the sheriff or anyone acting on behalf of the sheriff, and for the confidentiality of proceedings before the tribunal (regulation 7). The Regulations also make provision for the procedure to be followed where there is a change in the membership of the tribunal after an investigation has commenced (regulation 5).
+
+The Regulations make provision allowing the tribunal to suspend the sheriff from office during the investigation. The tribunal may direct that a sheriff so suspended may remain in office for the limited purpose of continuing to deal with proceedings commenced before the suspension took effect (regulation 8).
+
+The tribunal must send a draft of its findings on the investigation to the sheriff and must give the sheriff the opportunity to make comments on the draft (regulation 9). On completion of the investigation, the tribunal must submit a written report to the Scottish Ministers and send a copy of it to the sheriff. The report must specify the tribunal’s findings on the investigation and its decision on whether to order removal of the sheriff from office (regulation 10).
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58); sections 11C and 11D were inserted by the [Bail, Judicial Appointments etc. (Scotland) Act 2000 (asp 9)](https://www.legislation.gov.uk/asp/2000/9), section 7.

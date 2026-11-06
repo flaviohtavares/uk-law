@@ -1,0 +1,109 @@
+---
+title: The Burial and Cremation (Scotland) Act 2016 (Commencement No. 4) Regulations 2021
+id: ssi/2021/126
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-03-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2021/126
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/126/pdfs/ssi_20210126_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/126/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Burial and Cremation (Scotland) Act 2016 (Commencement No. 4) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 126 (C. 10)
+
+Burial
+
+Cremation
+
+The Burial and Cremation (Scotland) Act 2016 (Commencement No. 4) Regulations 2021
+
+Made
+
+8th March 2021
+
+Laid before the Scottish Parliament
+
+10th March 2021
+
+Coming into force
+
+24th March 2021
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 112(2) of the Burial and Cremation (Scotland) Act 2016[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Burial and Cremation (Scotland) Act 2016 (Commencement No. 4) Regulations 2021 and come into force on 24 March 2021.
+
+## 2. Appointed Day
+
+The day appointed for the coming into force of section 97 (funeral director: code of practice) of the Burial and Cremation (Scotland) Act 2016 is 24 March 2021.
+
+BEN MACPHERSON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+8th March 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations bring into force section 97 (funeral director: code of practice) of the Burial and Cremation (Scotland) Act 2016 (“the Act”) on 24 March 2021.
+
+Section 97(1) provides that a funeral director must comply with any code of practice issued by the Scottish Ministers about the carrying out of a funeral director’s functions. Section 97(2) requires the Scottish Ministers, before issuing such a code, to consult persons appearing to the Scottish Ministers to be representative of the interests of funeral directors in Scotland, and other persons appearing to the Scottish Ministers to have an interest. Section 97(3) and (4) require that a draft code must be laid before, and approved by resolution of, the Scottish Parliament. Section 97(5) and (6) require Scottish Ministers to publish a code in such manner as they consider appropriate and to keep a code under review.
+
+The Bill for the Act received Royal Assent on 28 April 2016. By virtue of section 112(1) of the Act, sections 100 (power to suspend or modify certain enactments), 106 (regulations: parliamentary procedure), 107 (interpretation), 108 (ancillary provision), 112 (commencement) and 113 (short title) came into force on the day after Royal Assent.
+
+NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+
+(This note is not part of the Regulations)
+
+The following provisions of the Burial and Cremation (Scotland) Act 2016 have been brought into force by commencement regulations made before the date of these Regulations:—
+
+| Provision | Date of Commencement | Instrument No. |
+| --- | --- | --- |
+| Sections 1 to 7 | 28 December 2016 | [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417) |
+| Section 17 | 28 December 2016 | [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417) |
+| Section 20 | 28 December 2016 | [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417) |
+| Sections 45 to 60 | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Section 63 | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Sections 65 to 85 | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Sections 87 and 88 | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Section 89(1)(a) and (c) and (2) to (6) | 28 December 2016 | [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417) |
+| Section 89(1)(b) | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Section 93 (partially) | 28 December 2016 | [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417) |
+| Section 93 (so far as not already in force) | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Section 98 | 1 June 2018 | [S.S.I. 2018/157](https://www.legislation.gov.uk/ssi/2018/157) |
+| Section 99 | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Section 101 | 28 December 2016 | [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417) |
+| Section 103 | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Section 104(1) (partially) | 28 December 2016 | [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417) |
+| Section 104 (so far as not already in force) | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Section 109 | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Schedule 1 | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Section 110 (partially) | 28 December 2016 | [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417) |
+| Section 110 (so far as not already in force) | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Schedule 2 (partially) | 28 December 2016 | [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417) |
+| Schedule 2 (so far as not already in force) | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+| Section 111 | 4 April 2019 | [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380) |
+
+## Annotations
+
+[^f00001]: Footnote: [2016 asp 20](https://www.legislation.gov.uk/asp/2016/20).

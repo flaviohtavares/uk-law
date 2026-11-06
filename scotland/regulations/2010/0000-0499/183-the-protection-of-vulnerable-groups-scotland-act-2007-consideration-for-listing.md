@@ -1,0 +1,529 @@
+---
+title: The Protection of Vulnerable Groups (Scotland) Act 2007 (Consideration for Listing) Regulations 2010
+id: ssi/2010/183
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2010-05-05'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/183
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/183/pdfs/ssien_20100183_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/183/pdfs/ssi_20100183_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/183/data.pdf
+pending_changes: 22
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Protection of Vulnerable Groups (Scotland) Act 2007 (Consideration for Listing) Regulations 2010
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2010/183
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 183
+
+Children And Young Persons
+
+Protection Of Vulnerable Adults
+
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Consideration for Listing) Regulations 2010
+
+Made
+
+5th May 2010
+
+Laid before the Scottish Parliament
+
+6th May 2010
+
+Coming into force in accordance with regulation 1
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 42(1)(c) and (2) and 100(2) of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00001] and of all other powers enabling them to do so.
+
+## 1. Citation and commencement[^key-6e8076695e3f9d2e7e8014cf179378cb]
+
+These Regulations may be cited as the Protection of Vulnerable Groups (Scotland) Act 2007 (Consideration for Listing) Regulations 2010 and come into force on the same day as section 1 of the Protection of Vulnerable Groups (Scotland) Act 2007.
+
+## 2. Interpretation[^key-1636ad32b61995519355677c9d984c57]
+
+In these Regulations—
+
+- “the Act” means the Protection of Vulnerable Groups (Scotland) Act 2007;
+- “electronic communication” means an electronic communication as defined in section 15(1) of the Electronic Communications Act 2000[^f00002];
+- “individual” is the person—
+  - (a) who is the subject of prescribed information given to Ministers under sections 3(1), 3(2), 4, 5, 6(2) , 6A[^key-794bd19aa6c35c2f5cede495dd2b6ed8] [^key-40c5c65ffd1af5fb43c091c940e1b558]... or 8(1) of the Act or, as the case may be, of information given to Ministers by the Independent Safeguarding Authority under section[^key-0db7c7a1cfbcc8e28fb04bf3e6366554] 10(1)(b) of the Act;
+  - (b) to whom vetting information or other information under section 12 of the Act relates; [^key-13b07618b8a16b64196df8ac528674dd]...
+  - (c) who is named in a relevant inquiry report; or[^key-08519625cdbf09519d6fe12f5cc8d7d5]
+  - (d) who—
+    - (i) has not applied to renew their membership of the Scheme in relation to a type of regulated role before the end of their discretionary membership period (as defined in section 45B(3)(b)(iii) of the Act), and
+    - (ii) Ministers have reasonable grounds to believe is carrying out a regulated role;
+- “referring body” means the organisation or person which has given prescribed information to Ministers under sections 3(1), 3(2), 4, 5, 6(2) , 6A[^key-55eec1ee58f32e6f303ee4551e108893] or 8(1) of the Act; and
+- “working day” means a day which is not a Saturday, Sunday, a bank holiday in Scotland under the Banking and Financial Dealings Act 1971[^f00003], or a day appointed for public thanksgiving or mourning.
+
+## 3. Procedure for consideration under sections 10, 12, 13 or 45B(7) of the Act whether to list[^key-d8c0b2dc20bb129527e98131ef0ca624][^key-d208e7d1d192aefb34160282f5cc7450]
+
+(1) Part 1 of the Schedule applies when Ministers are considering, under section 10, [^key-85190fae2ebc8015f0fab6e636f540d0]... 12, or 13 of the Act, whether to list an individual in the children’s list, in the adults’ list or, where applicable, in both lists.
+
+(2) The procedure set out in Part 2 of the Schedule applies when Ministers are considering, under section 10(2) or (3) of the Act, whether to list an individual in the children’s list, in the adults’ list or, where applicable, in both lists.
+
+(3)[^key-359730c9298f9d70a9a79499c0e50bbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The procedure set out in Part 4 of the Schedule applies when Ministers are considering, under section 12(1) or (2) of the Act, whether to list an individual in the children’s list, in the adults’ list or, where applicable, in both lists.
+
+(5) The procedure set out in Part 5 of the Schedule applies when Ministers are considering, under section 13(2) or (3) of the Act, whether to list an individual in the children’s list, in the adults’ list or, where applicable, in both lists.
+
+(5A)[^key-48b35059d444141b7ef2e29e7594e65c] The procedure set out in Part 5A of the Schedule applies when Ministers are considering, under section 45B(7) of the Act, whether to list an individual in the children’s list, in the adults’ list or, where applicable, in both lists.
+
+(6) The procedure set out in Part 6 of the Schedule applies in relation to the appointment of expert advisers or suitably qualified individuals to prepare reports when Ministers are considering, under section 10, [^key-8b4bf167a80042bd3dd8c8ba5bea4140]... 12, or 13 of the Act, whether to list an individual in the children’s list, in the adults’ list or, where applicable, in both lists.
+
+(7) The procedure set out in Part 7 of the Schedule applies when Ministers have decided whether to list an individual in the children’s list, in the adults’ list or, where applicable, in both lists.
+
+## 4. Extension of time[^key-d248f077009a08c08f5c5bff372cc44b]
+
+(1) Where these Regulations require or authorise an individual, a referring body or any other person to do something within a specified period, the individual, the referring body or other person may apply to Ministers for further time within which to comply.
+
+(2) On receipt of an application under paragraph (1), Ministers may, on cause shown or otherwise where they consider it reasonable to do so, grant any further period or periods of time as they consider appropriate.
+
+(3) Where Ministers have granted a further period of time, any reference in these Regulations to that period of time is to be construed as a reference to the period of time as so extended.
+
+## 5. Manner and time of service of notices[^key-a0c660a33ba8a8cc4c6aa746534fcc66]
+
+(1) Any notice required to be given by Ministers to an individual under these Regulations must be given in accordance with section 30(8) of the Act.
+
+(2) Any other communication required to be given by Ministers to an individual under these Regulations may be given in accordance with section 30(8) of the Act or may be sent by electronic communication, provided that the individual has consented to the use of electronic communication and has provided Ministers with an email address for the purposes of these Regulations.
+
+(3) Any notice required to be given by Ministers to the referring body or to any organisation or other person under these Regulations must be given in accordance with section 30(8) of the Act.
+
+(4) Any other communication required to be given by Ministers to the referring body or to any organisation or other person under these Regulations may be given in accordance with section 30(8) of the Act or may be sent by electronic communication, provided that the referring body, organisation or person has consented to the use of electronic communication and has provided Ministers with an email address for the purposes of these Regulations.
+
+(5) Where an individual or any organisation, body or other person is required to make any representations or submit any information or comments to Ministers under these Regulations, such representations, information or comments may be sent by electronic communication to an e-mail address specified by Ministers for that purpose.
+
+(6) Where any communication is sent by electronic communication, it is to be treated as received the day after the day of its transmission.
+
+(7) If a period of notice expires on a day which is not a working day, the period of notice is to be treated as expiring on the next working day after that day.
+
+  ADAM INGRAM 
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+5th May 2010
+
+## SCHEDULE — Procedure for consideration under sections 10, 12 or 13 of the Act whether to list[^key-dc6cafe5c1f2da1d953fd7d726f41f0b]
+
+Regulation 3
+
+### PART 1 — GENERAL
+
+#### 1. Notification of date of decision under sections 10, 12, 13 or 45B(7)[^key-8e2f79bed8f0c0d732a30889dd51d3c1][^key-d51885d82c9ff7680d820be8b3841957]
+
+(1) Where Ministers decide to consider whether to list an individual in the children’s list, in the adults’ list or, where applicable, in both lists under section 10, 12, 13 or 45B(7) of the Act[^key-be976724c70e76232fc4de9cc309004b], Ministers must record the date on which they made that decision.
+
+(2) When Ministers notify an individual in accordance with section 30(2) and (3) of the Act that Ministers are considering whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists, Ministers must also notify the individual of the date on which Ministers made that decision to consider whether to list the individual.
+
+### PART 2 — CONSIDERATION PROCEDURE WHERE CONSIDERATION IS UNDER SECTION 10(2) or (3) OF THE ACT (Consideration whether to list: organisational referrals etc.)
+
+#### 2. Notification of case giving rise to consideration for listing[^key-497d4996cbf66d0498b592aed02631c6]
+
+Ministers must give to the individual—
+
+- (a) a copy of the prescribed information sent to Ministers under sections 3 to , 6A[^key-bb5c55ad925b5e8937167dbbd8fa0f97] or 8 of the Act or, as the case may be, of the information given to Ministers by the Independent Safeguarding Authority under section 10(1)(b) of[^key-86dd220b28a1a1fb9ad9c67e8137a270] the Act, upon which Ministers have decided that it may be appropriate for the individual to be included in the children’s list, in the adults’ list or, where applicable, in both lists;
+- (b) details of any vetting information relating to the individual; and
+- (c) a notice inviting the individual to—
+  - (i) make representations as to why the individual should not be listed in the children’s list, in the adults’ list or, where applicable, in both lists;
+  - (ii) submit any comments on the information provided to the individual under sub-paragraph (a) and (b)[^key-c43337af6a057293890e9227a8e0586c]; and
+  - (iii) submit any further information to Ministers which the individual wishes to be taken into account by Ministers in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists,
+
+  within 28 days of the date of receipt of that notice.
+
+#### 3. Comments by the referring body[^key-25389067e289c8b1cb9a7e05282ca7b9]
+
+Where Ministers receive any representations, comments or information from the individual under paragraph 2 they must—
+
+- (a) notify the referring body of that fact;
+- (b) provide the referring body with details of any representations made and any comments or information submitted by the individual under paragraph 2; and
+- (c) invite the referring body to provide to Ministers within 28 days of the date of receipt of that notice—
+  - (i) any comments; and
+  - (ii) any further information that the referring body may wish to supply.
+
+#### 4. Further representations, comments or information to be sent to Ministers[^key-d604242c952cf3d5873643d6aa76adf3]
+
+(1) For the purpose of enabling or assisting Ministers to decide whether to list an individual, Ministers may, by notice, invite—
+
+- (a) any further representations, comments or information from the individual;
+- (b) any further comments or information from the referring body or, as the case may be, the Independent Safeguarding Authority[^key-8fa11dd90736794b7fc99f455204fe2d]; or
+- (c) any information from any other person as Ministers may consider appropriate.
+
+(2) Any representations, comments or information in response to a notice sent under sub-paragraph (1) are to be supplied in the manner and within such time as Ministers may specify in the notice.
+
+#### 5. Notification of any further information on which Ministers intend to rely in deciding whether to list the individual[^key-8121616fba8848dbc72fb6f5cef610a9]
+
+Ministers must give to the individual—
+
+- (a) details of any comments or further information supplied to Ministers under sections 3 to , 6A[^key-056abe9b9d5020015143bbec8ad655ef] or 8 of the Act or paragraphs 3(c) or 4(1)(b) and (c) on which they intend to rely in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists;
+- (b) details of any other information on which they intend to rely including—
+  - (i) information which they obtain in pursuance of a requirement made under section 18, 19 or 20 of the Act;
+  - (ii) information which they obtain by performing their functions in relation to the Scheme;
+  - (iii) any reports provided to Ministers under paragraphs 17(2) or 18(2); and
+- (c) a notice inviting the individual to—
+  - (i) make any further representations as to why the individual should not be listed in the children’s list, in the adults’ list or, where applicable, in both lists;
+  - (ii) submit comments on the information provided under sub-paragraphs (a) or (b); and
+  - (iii) submit any further supporting information which the individual wishes to be taken into account by Ministers in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists,
+
+  in such manner and within such time as Ministers may specify in that notice.
+
+### PART 3 — CONSIDERATION PROCEDURE WHERE CONSIDERATION IS UNDER SECTION 11(2), (3) or (4) OF THE ACT (Consideration whether to list: court referrals)[^key-89150a821fcade1045a2912ea615831c]
+
+**No longer in force.**
+
+#### 6. Notification of case giving rise to consideration for listing[^key-89150a821fcade1045a2912ea615831c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Further representations, comments or information to be sent to Ministers[^key-89150a821fcade1045a2912ea615831c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Notification of any further information on which Ministers intend to rely in deciding whether to list the individual[^key-89150a821fcade1045a2912ea615831c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — CONSIDERATION PROCEDURE WHERE CONSIDERATION IS UNDER SECTION 12(1) or (2) OF THE ACT (Consideration whether to list: vetting information etc.)
+
+#### 9. Notification of case giving rise to consideration for listing[^key-b0189099e585d3565fb0c1cdbbdfa598]
+
+Ministers must give to the individual—
+
+- (a) details of—
+  - (i) any vetting information relating to the individual or any information received when considering whether to list the individual in the adults’ list upon which Ministers have decided under section 12(1) of the Act that it may be appropriate for the individual to be included in the children’s list; or
+  - (ii) any vetting information relating to the individual or any information received when considering whether to list the individual in the children’s list upon which Ministers have decided under section 12(2) of the Act that it may be appropriate for the individual to be included in the adults’ list;
+- (b) details of any vetting information relating to the individual; and
+- (c) a notice inviting the individual to—
+  - (i) make representations as to why the individual should not be listed in the children’s list, in the adults’ list or, where applicable, in both lists;
+  - (ii) submit any comments on the information provided to the individual under sub-paragraph (a) or (b); and
+  - (iii) submit any further information to Ministers which the individual wishes to be taken into account by Ministers in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists,
+
+  within 28 days of the date of receipt of that notice.
+
+#### 10. Further representations, comments or information to be sent to Ministers[^key-63c4ea1a9cb2eab66152ec9cabffde31]
+
+(1) For the purpose of enabling or assisting Ministers to decide whether to list an individual, Ministers may, by notice, invite—
+
+- (a) any further representations, comments or information from the individual; or
+- (b) any information from any other person as Ministers may consider appropriate.
+
+(2) Any representations, comments or information in response to a notice sent under sub‑paragraph (1) are to be supplied to Ministers in such manner and within such time as Ministers may specify in the notice.
+
+#### 11. Notification of any further information on which Ministers intend to rely in deciding whether to list the individual[^key-7f046dbf2f286e5ee8f422db06f1592c]
+
+Ministers must give to the individual—
+
+- (a) details of any information received under paragraph 10(1)(b) on which they intend to rely when making their decision whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists;
+- (b) details of any other information on which they intend to rely including—
+  - (i) information which they obtain in pursuance of a requirement made under section 18, 19 or 20 of the Act; or
+  - (ii) information which they obtain by performing their functions in relation to the Scheme;
+  - (iii) any reports provided to Ministers under paragraphs 17(2) or 18(2); and
+- (c) a notice inviting the individual to—
+  - (i) make any further representations as to why the individual should not be listed in the children’s list, in the adults’ list or, where applicable, in both lists;
+  - (ii) submit comments on any of the information provided under sub-paragraphs (a) or (b); and
+  - (iii) submit any further supporting information which the individual wishes to be taken into account by Ministers in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists,
+
+  in such manner and within such time as Ministers may specify in that notice.
+
+### PART 5 — CONSIDERATION PROCEDURE WHERE CONSIDERATION IS UNDER SECTION 13(2) or (3) OF THE ACT (Consideration whether to list: inquiries)
+
+#### 12. Notification of case giving rise to consideration for listing[^key-781f90a6bac168bf92b3e2f3b9f8fee9]
+
+Ministers must give to the individual—
+
+- (a) a copy of the relevant inquiry report, or relevant sections from that report, upon which Ministers have decided under section 13(2) or (3) of the Act that it may be appropriate for the individual to be included in the children’s list, in the adults’ list or, where applicable, in both lists; and
+- (b) a notice inviting the individual to—
+  - (i) make representations as to why the individual should not be listed in the children’s list, in the adults’ list or, where applicable, in both lists;
+  - (ii) submit any comments on the information provided to the individual under sub‑paragraph (a); and
+  - (iii) submit any further information to Ministers which the individual wishes to be taken into account by Ministers in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists,
+
+  within 28 days of the date of receipt of that notice.
+
+#### 13. Comments by other persons relating to any relevant inquiry report[^key-24312438b5ee948e82519310c1ece023]
+
+Where Ministers receive any representations, comments or information from the individual under paragraph 12, Ministers must—
+
+- (a) notify the person for whom that individual worked at the time when the act or omission which gave rise to the finding in the relevant inquiry report that the individual’s conduct had met the referral ground;
+- (b) provide the person with details of any representations made and any comments or information submitted by the individual under paragraph 12; and
+- (c) invite the person to provide to Ministers within 28 days of the date of receipt of that notice—
+  - (i) any comments; and
+  - (ii) any further information that the person may wish to supply.
+
+#### 14. Further representations, comments or information to be sent to Ministers[^key-c2c28b60d0df5321d73c877f20bfc4d2]
+
+(1) For the purpose of enabling or assisting Ministers to decide whether to list an individual, Ministers may, by notice, invite—
+
+- (a) any further representations, comments or information from the individual; or
+- (b) any information from any other person as Ministers may consider appropriate.
+
+(2) Any representations, comments or information in response to a notice sent under sub‑paragraph (1) are to be supplied to Ministers in such manner and within such time as Ministers may specify in the notice.
+
+#### 15. Notification of any further information on which Ministers intend to rely in deciding whether to list the individual[^key-341684ad441c1fe78411971b6e9d3f27]
+
+Ministers must give to the individual—
+
+- (a) details of any comments or further information supplied to Ministers under paragraphs 13 (c) or 14(1)(b) on which they intend to rely in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists;
+- (b) details of any other information on which they intend to rely including—
+  - (i) information which they obtain in pursuance of a requirement made under section 18, 19 or 20 of the Act;
+  - (ii) information which they obtain by performing their functions in relation to the Scheme;
+  - (iii) any reports provided to Ministers under paragraphs 17(2) or 18(2); and
+- (c) a notice inviting the individual to—
+  - (i) make any further representations as to why the individual should not be listed in the children’s list, in the adults’ list or, where applicable, in both lists;
+  - (ii) submit comments on any of the information provided under sub-paragraphs (a) or (b); and
+  - (iii) submit any further supporting information which the individual wishes to be taken into account by Ministers in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists,
+
+  in such manner and within such time as Ministers may specify in that notice.
+
+### Part 5A — CONSIDERATION PROCEDURE WHERE CONSIDERATION IS UNDER SECTION 45B(7) OF THE ACT (Failure to apply for renewal of Scheme membership)[^key-469eb2bf92d10654bca15cb6b14b7270]
+
+#### 15A. Notification of case giving rise to consideration for listing
+
+Ministers must give to the individual—
+
+- (a) details of the date on which the individual’s membership period (within the meaning of section 45A(2) of the Act) commenced, or was renewed, for the type of regulated role in relation to which the individual participates in the Scheme;
+- (b) a copy of any notification, sent by Ministers, to the individual setting out the date on which the individual’s membership period (including any extended membership period (as defined in section 45B(2) of the Act) or discretionary membership period (as defined in section 45B(3)(b)(iii)) expired;
+- (c) a notice inviting the individual to—
+  - (i) make representations as to why the individual should not be listed in the children’s list, in the adults’ list or, where applicable, in both lists;
+  - (ii) submit any comments on the information provided to the individual under sub-paragraph (a) or (b); and
+  - (iii) submit any further information to Ministers which the individual wishes to be taken into account by Ministers in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists,
+
+  within 28 days of the date of receipt of that notice.
+
+#### 15B. Further representations, comments or information to be sent to Ministers
+
+(1) For the purpose of enabling or assisting Ministers to decide whether to list an individual, Ministers may, by notice, invite—
+
+- (a) any further representations, comments or information from the individual; or
+- (b) any information from any other person as Ministers may consider appropriate.
+
+(2) Any representations, comments or information in response to a notice sent under sub-paragraph (1) are to be supplied to Ministers in such manner and within such time as Ministers may specify in the notice.
+
+#### 15C. Notification of any further information on which Ministers intend to rely in deciding whether to list the individual
+
+Ministers must give to the individual—
+
+- (a) details of any information supplied to Ministers under paragraph 15B(1)(b) on which they intend to rely in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists;
+- (b) details of any other information on which they intend to rely including—
+  - (i) information which they obtain in pursuance of a requirement made under section 18, 19 or 20 of the Act;
+  - (ii) information which they obtain by performing their functions in relation to the Scheme;
+  - (iii) any reports provided to Ministers under paragraphs 17(2) or 18(2); and
+- (c) a notice inviting the individual to—
+  - (i) make any further representations as to why the individual should not be listed in the children’s list, in the adults’ list or, where applicable, in both lists;
+  - (ii) submit comments on any of the information provided under sub-paragraphs (a) or (b); and
+  - (iii) submit any further supporting information which the individual wishes to be taken into account by Ministers in deciding whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists,
+
+  in such manner and within such time as Ministers may specify in that notice.
+
+### PART 6 — APPOINTMENT OF EXPERT ADVISERS OR SUITABLY QUALIFIED INDIVIDUALS TO PROVIDE REPORTS TO MINISTERS
+
+#### 16. Notification of further procedure[^key-705b613b7ea341bce181c6483b37e5ff]
+
+(1) During the consideration procedure under Parts 2, 4, 5 and 5A of this Schedule[^key-7e5fd794c645087fa58388f63ccb6a3f], Ministers may, if they consider it appropriate, appoint—
+
+- (a) an expert adviser to prepare a report to Ministers on such matters within the expert’s area of expertise as Ministers consider appropriate for the purpose of assisting Ministers in their assessment of the individual’s unsuitability to carry out a regulated role[^key-0d4873d8cbe8d117637d127b7aa7b9a7] with children, protected adults or, where applicable, both groups; or
+- (b) one or more such suitably qualified individuals as Ministers consider appropriate to prepare a report to Ministers providing an assessment of the individual’s unsuitability to carry out a regulated role[^key-83f89fb95cf05aa123dfa2c5bdde76bd] with children, protected adults or, where applicable, both groups.
+
+(2) Where Ministers decide to appoint an expert adviser or suitably qualified individuals under sub-paragraph (1)(a) or (b) or both, they must notify the individual of that decision.
+
+(3) For the avoidance of doubt, Ministers may decide to make appointments under either or both of sub-paragraphs (1)(a) and (b) and may do so at the same time or at different times during the consideration procedure.
+
+#### 17. Report by expert adviser[^key-a4f158fc4edbc4ee4a60c3324866b58d]
+
+(1) Where Ministers appoint an expert adviser under paragraph 16(1)(a) they must give to that person all relevant information, which they have obtained in carrying out their functions under the Act or these Regulations and which is reasonably required by the expert adviser, and such information may include—
+
+- (a) where the consideration procedure is under—
+  - (i) Part 2 of this Schedule, a copy of the prescribed information given to Ministers under sections 3(1), 3(2), 4, 5, 6(2) , 6A[^key-144644c86a3dc9a12a26d4e991dc4d13] or 8(1) of the Act or, as the case may be, of the information given to Ministers by the Independent Safeguarding Authority under section 10(1)(b) of[^key-be310340aae0490834c6f8d672de111c] the Act;
+  - (ii)[^key-7711baa9e51e67ad6bbe9a5315c8cb92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) Part 4 of this Schedule, details of any vetting information relating to the individual or any information received when Ministers were considering whether to list the individual;
+  - (iv) Part 5 of this Schedule, a copy of the relevant inquiry report or relevant sections from that report;
+  - (v)[^key-62bbfc1c157e0e54fc894205d7279fbc] Part 5A of this Schedule, a copy of the information described in paragraph 15A(a) and (b) of this Schedule;
+- (b) details of any vetting information relating to the individual (or where sub-paragraph (1)(a)(iii) applies, any other vetting information);
+- (c) details of any information relating to the individual which Ministers obtain by performing their functions in relation to the Scheme;
+- (d) details of any information relating to the individual which Ministers obtain in pursuance of a requirement made under section 18, 19 or 20 of the Act; and
+- (e) details of any representations, comments and information received by Ministers under these Regulations.
+
+(2) The person appointed under paragraph 16(1)(a) must provide their report to Ministers, in such manner and within such time as Ministers may specify.
+
+#### 18. Assessment by suitably qualified individuals[^key-265934570155efc12e93bcad51d88825]
+
+(1) Where Ministers appoint one or more suitably qualified individuals to assess the individual’s unsuitability to carry out a regulated role[^key-1c1938fd41a7fbbeeb2e48c22781a07a] with children, protected adults or, where applicable, both groups under paragraph 16(1)(b), they must give to that person or persons all information upon which Ministers intend to rely when making their decision whether to list the individual in the children’s list, in the adults’ list or, where applicable, in both lists and such information may include—
+
+- (a) where the consideration procedure is under—
+  - (i) Part 2 of this Schedule, a copy of the prescribed information given to Ministers under sections 3(1), 3(2), 4, 5, 6(2) , 6A[^key-64cf55dc2c95e8d708c953cc83331a49] or 8(1) of the Act or, as the case may be, of the information given to Ministers by the Independent Safeguarding Authority under section 10(1)(b) of[^M_F_ca9b2131-d00c-4845-b0d5-733e1400f155] the Act;
+  - (ii)[^key-8253d5bc36633d5f5c9746e06ddd45c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) Part 4 of this Schedule, details of any vetting information relating to the individual or any information received when Ministers were considering whether to list the individual;
+  - (iv) Part 5 of this Schedule, a copy of the relevant inquiry report or relevant sections from that report;
+  - (v)[^key-740da0e2f95b113bca1bfc72b5bfe493] Part 5A of this Schedule, a copy of the information described in paragraph 15A(a) and (b) of this Schedule;
+- (b) details of any vetting information relating to the individual (or where sub‑paragraph(1)(a)(iii) applies, any other vetting information);
+- (c) details of any information relating to the individual which Ministers obtain by performing their functions in relation to the Scheme;
+- (d) details of any information relating to the individual which Ministers obtain in pursuance of a requirement made under section 18, 19 or 20 of the Act;
+- (e) details of all representations, comments and information received by Ministers under these Regulations;
+- (f) a copy of any report provided to Ministers under paragraph 17(2).
+
+(2) The person or persons appointed under paragraph 16(1)(b) must review the information supplied to them under sub-paragraph (1) and, based on that information, provide to Ministers a report containing their assessment as to the individual’s unsuitability to carry out a regulated role[^key-cb8273e184fc158b779c4d86eb597cd1] with children, protected adults or, where applicable, both groups, in such manner and within such time as Ministers may specify.
+
+### PART 7 — DECISION TO LIST AN INDIVIDUAL
+
+#### 19. Notification of decision to list[^key-9f045a667955f61abc2da285c4e0a1d3]
+
+Notification under section 30 of the Act to an individual of the decision to list must be given as soon as reasonably practicable and Scottish Ministers must give to the individual with that notification—
+
+- (a) the reasons for their decision;
+- (b) information as to the individual’s right of appeal under section 21 or 22 of the Act against the Ministers’ decision to include the individual in the children’s list, in the adults’ list, or, where applicable, in both lists; and
+- (c) information as to the individual’s right to apply for removal from the children’s list, from the adults’ list, or, where applicable, from both lists under section 25 of the Act.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under sections 42(1)(c) and (2) and 100(2) of the Protection of Vulnerable Groups (Scotland) Act [2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14) (“the Act”).
+
+The Act provides that Scottish Ministers must keep a children’s list and an adults’ list (section 1(1)) and that an individual may be listed in one or both of those lists (section 1(2)). A listed person is barred from undertaking regulated work with children (if listed in the children’s list) or protected adults (if listed in the adults’ list) (see section 92 of the Act). “Regulated work” is defined at section 91 of, and schedules 2 and 3 to, the Act. A “child” is anyone under eighteen years of age and a “protected adult” is defined at section 94 of the Act.
+
+Sections 10, 11, 12, and 13 of the Act provide that Scottish Ministers must consider listing an individual in the children’s list, in the adults’ list or both lists, if they are satisfied that it may be appropriate for the individual to be included in one, or both, of those lists. Sections 15 and 16 provide that Scottish Ministers must list the individual in the children’s or adults’ list, respectively, if, after considering whether to do so, they are satisfied by information relating to the individual’s conduct that the individual is unsuitable to work with children, or protected adults (or both groups).
+
+Regulation 3 (and the Schedule) set out the procedures which Scottish Ministers must follow when considering under sections 10, 11, 12 and 13 of the Act whether to list an individual in either list (or both lists). Regulation 4 allows Scottish Ministers to grant extensions of time within which to comply with the requirements of the Regulations. Regulation 5 specifies the manner and time of service of notices and other communications under the Regulations; in particular, regulation 5 allows for electronic communication where the individual, the referring body, other organisation or person has consented to the use of electronic communication and has provided Scottish Ministers with an email address for the purposes of these Regulations.
+
+The Schedule contains the detailed procedure for Scottish Ministers’ consideration whether to list an individual. Part 1 of the Schedule requires Scottish Ministers to record the date of their decision to consider whether to list an individual and to notify the individual of that date.
+
+Part 2 of the Schedule sets out the procedure where consideration whether to list is under section 10(2) or (3) of the Act. Part 3 sets out the procedure where consideration is under section 11(2), (3) or (4) of the Act; Part 4 sets out the procedure where consideration is under section 12(1) or (2) of the Act and Part 5 sets out the procedure where consideration is under section 13(2) or (3) of the Act. Although the procedures under each Part are similar, there are some differences depending on the types of information which Scottish Ministers are considering. The procedure under each Part commences with the individual who is under consideration for listing receiving notification of the consideration process and being invited to make representations and submit any comments or information. Such representations, comments and information will be passed to the referring body, if there is one. Scottish Ministers may seek further representations, information or comments from the individual, from the referring body (if any) and from any other person at any time during the consideration procedure. The final step in the consideration procedure is to provide the individual with a copy of all information on which Scottish Ministers intend to rely in making their decision whether to list an individual.
+
+Part 6 of the Schedule deals with the appointment of expert advisers and suitably qualified individuals to prepare reports to Scottish Ministers as part of the procedure for considering whether to list an individual. Scottish Ministers may appoint an expert adviser to prepare a report on matters within the expert’s area of expertise for the purpose of assisting Ministers in their assessment of an individual’s unsuitability to work with children or protected adults (or both groups). Scottish Ministers may also appoint one or more suitably qualified individuals to prepare a report providing an assessment of an individual’s unsuitability to work with children or protected adults (or both groups). Scottish Ministers may provide information which they have received during the consideration procedure to these experts or suitably qualified individuals for the purpose of the preparation of the reports. Scottish Ministers must take account of such reports when they decide whether to list an individual, but are not bound to follow the reports.
+
+Part 7 of the Schedule sets out what must be provided to an individual when notification of listing is sent in accordance with section 30 of the Act. Scottish Ministers must give reasons for their decision and provide details of the individual’s right to appeal or apply for removal from the list.
+
+It is an offence for an individual to do, or seek to, or agree to do, any regulated work from which the individual is barred (section 34 of the Act). It is also an offence for an organisation to offer regulated work to an individual who is barred from that work (section 35) and for a personnel supplier to offer, or supply, an individual who is barred from doing regulated work to an organisation where the personnel supplier knows, or has reason to believe, that the organisation will make arrangements for the individual to do regulated work from which the individual is barred (section 36).
+
+A person guilty of an offence under section 34, 35 or 36 is liable, on summary conviction, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum, or to both, and on indictment, to imprisonment for a term not exceeding 5 years or to a fine, or to both (section 37).
+
+## Annotations
+
+[^f00001]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
+
+[^key-6e8076695e3f9d2e7e8014cf179378cb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-1636ad32b61995519355677c9d984c57]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/183/regulation/2) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^f00002]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7), section 15 is amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-794bd19aa6c35c2f5cede495dd2b6ed8]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2010/183/regulation/2) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 6(2)(a)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/6/2/a) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^key-40c5c65ffd1af5fb43c091c940e1b558]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/183/regulation/2) omitted (12.1.2026) by virtue of [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/5/2)
+
+[^key-0db7c7a1cfbcc8e28fb04bf3e6366554]: Textual amendment: Words in reg. 2 inserted (18.4.2010) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010 (S.S.I. 2010/446)](https://www.legislation.gov.uk/ssi/2010/446), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2), [22(a)](https://www.legislation.gov.uk/ssi/2010/446/article/22/a)
+
+[^key-13b07618b8a16b64196df8ac528674dd]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2010/183/regulation/2) omitted (1.4.2026) by virtue of [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [6(2)(a)](https://www.legislation.gov.uk/ssi/2025/352/regulation/6/2/a)
+
+[^key-08519625cdbf09519d6fe12f5cc8d7d5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/183/regulation/2) inserted (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [6(2)(b)](https://www.legislation.gov.uk/ssi/2025/352/regulation/6/2/b)
+
+[^key-55eec1ee58f32e6f303ee4551e108893]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2010/183/regulation/2) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 6(2)(b)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/6/2/b) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^f00003]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Schedule 1 was amended by the St Andrew’s Day Bank Holiday (Scotland) Act 2007 **(**asp 2).
+
+[^key-d8c0b2dc20bb129527e98131ef0ca624]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/183/regulation/3) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-d208e7d1d192aefb34160282f5cc7450]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/183/regulation/3) heading substituted (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [6(4)](https://www.legislation.gov.uk/ssi/2025/352/regulation/6/4)
+
+[^key-85190fae2ebc8015f0fab6e636f540d0]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2010/183/regulation/3/1) omitted (12.1.2026) by virtue of [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/ssi/2025/352/regulation/5/3/a)
+
+[^key-359730c9298f9d70a9a79499c0e50bbf]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2010/183/regulation/3/3) omitted (12.1.2026) by virtue of [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/ssi/2025/352/regulation/5/3/b)
+
+[^key-48b35059d444141b7ef2e29e7594e65c]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/ssi/2010/183/regulation/3/5A) inserted (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [6(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/6/3)
+
+[^key-8b4bf167a80042bd3dd8c8ba5bea4140]: Textual amendment: Word in [reg. 3(6)](https://www.legislation.gov.uk/ssi/2010/183/regulation/3/6) omitted (12.1.2026) by virtue of [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/ssi/2025/352/regulation/5/3/a)
+
+[^key-d248f077009a08c08f5c5bff372cc44b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/183/regulation/4) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-a0c660a33ba8a8cc4c6aa746534fcc66]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/183/regulation/5) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-dc6cafe5c1f2da1d953fd7d726f41f0b]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2010/183/schedule) heading substituted (12.1.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/2), [5(6)](https://www.legislation.gov.uk/ssi/2025/352/regulation/5/6)
+
+[^key-8e2f79bed8f0c0d732a30889dd51d3c1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/1) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-d51885d82c9ff7680d820be8b3841957]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/1) heading substituted (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [6(5)(b)](https://www.legislation.gov.uk/ssi/2025/352/regulation/6/5/b)
+
+[^key-be976724c70e76232fc4de9cc309004b]: Textual amendment: Words in [sch. para. 1(1)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/1/1) substituted (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [6(5)(a)](https://www.legislation.gov.uk/ssi/2025/352/regulation/6/5/a)
+
+[^key-497d4996cbf66d0498b592aed02631c6]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/2) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-bb5c55ad925b5e8937167dbbd8fa0f97]: Textual amendment: Word in [sch. para. 2(a)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/2/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 6(3)(a)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/6/3/a) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^key-86dd220b28a1a1fb9ad9c67e8137a270]: Textual amendment: Words in [sch. 2 para. 2(a)](https://www.legislation.gov.uk/ssi/2010/183/schedule/2/paragraph/2/a) inserted (18.4.2010) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010 (S.S.I. 2010/446)](https://www.legislation.gov.uk/ssi/2010/446), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2), [22(b)(i)](https://www.legislation.gov.uk/ssi/2010/446/article/22/b/i)
+
+[^key-c43337af6a057293890e9227a8e0586c]: Textual amendment: Words in [sch. para. 2(c)(ii)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/2/c/ii) substituted (18.4.2010) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010 (S.S.I. 2010/446)](https://www.legislation.gov.uk/ssi/2010/446), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2), [22(b)(ii)](https://www.legislation.gov.uk/ssi/2010/446/article/22/b/ii)
+
+[^key-25389067e289c8b1cb9a7e05282ca7b9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/3) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-d604242c952cf3d5873643d6aa76adf3]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/4) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-8fa11dd90736794b7fc99f455204fe2d]: Textual amendment: Words in [sch. para. 4(1)(b)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/4/1/b) inserted (18.4.2010) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010 (S.S.I. 2010/446)](https://www.legislation.gov.uk/ssi/2010/446), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2), [22(b)(iii)](https://www.legislation.gov.uk/ssi/2010/446/article/22/b/iii)
+
+[^key-8121616fba8848dbc72fb6f5cef610a9]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/5) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-056abe9b9d5020015143bbec8ad655ef]: Textual amendment: Word in [sch. para. 5(a)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/5/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 6(3)(a)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/6/3/a) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^key-89150a821fcade1045a2912ea615831c]: Textual amendment: [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2010/183/schedule/part/3) omitted (12.1.2026) by virtue of [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/2), [5(5)(c)](https://www.legislation.gov.uk/ssi/2025/352/regulation/5/5/c)
+
+[^key-b0189099e585d3565fb0c1cdbbdfa598]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/9) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-63c4ea1a9cb2eab66152ec9cabffde31]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/10) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-7f046dbf2f286e5ee8f422db06f1592c]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/11) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-781f90a6bac168bf92b3e2f3b9f8fee9]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/12) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-24312438b5ee948e82519310c1ece023]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/13) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-c2c28b60d0df5321d73c877f20bfc4d2]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/14) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-341684ad441c1fe78411971b6e9d3f27]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/15) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-469eb2bf92d10654bca15cb6b14b7270]: Textual amendment: [Sch. Pt. 5A](https://www.legislation.gov.uk/ssi/2010/183/schedule/part/5A) inserted (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [6(5)(c)](https://www.legislation.gov.uk/ssi/2025/352/regulation/6/5/c)
+
+[^key-705b613b7ea341bce181c6483b37e5ff]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/16) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-7e5fd794c645087fa58388f63ccb6a3f]: Textual amendment: Words in [sch. para. 16(1)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/16/1) substituted (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [6(5)(d)](https://www.legislation.gov.uk/ssi/2025/352/regulation/6/5/d)
+
+[^key-0d4873d8cbe8d117637d127b7aa7b9a7]: Textual amendment: Words in [sch. para. 16(1)(a)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/16/1/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 6(3)(b)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/6/3/b) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^key-83f89fb95cf05aa123dfa2c5bdde76bd]: Textual amendment: Words in [sch. para. 16(1)(b)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/16/1/b) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 6(3)(b)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/6/3/b) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^key-a4f158fc4edbc4ee4a60c3324866b58d]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/17) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-144644c86a3dc9a12a26d4e991dc4d13]: Textual amendment: Word in [sch. para. 17(1)(a)(i)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/17/1/a/i) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 6(3)(c)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/6/3/c) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^key-be310340aae0490834c6f8d672de111c]: Textual amendment: Words in [sch. para. 17(1)(a)(i)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/17/1/a/i) inserted (18.4.2010) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010 (S.S.I. 2010/446)](https://www.legislation.gov.uk/ssi/2010/446), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2), [22(c)](https://www.legislation.gov.uk/ssi/2010/446/article/22/c)
+
+[^key-7711baa9e51e67ad6bbe9a5315c8cb92]: Textual amendment: [Sch. para. 17(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/17/1/a/ii) omitted (12.1.2026) by virtue of [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/2), [5(5)(e)](https://www.legislation.gov.uk/ssi/2025/352/regulation/5/5/e)
+
+[^key-62bbfc1c157e0e54fc894205d7279fbc]: Textual amendment: [Sch. para. 17(1)(a)(v)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/17/1/a/v) inserted (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [6(5)(e)](https://www.legislation.gov.uk/ssi/2025/352/regulation/6/5/e)
+
+[^key-265934570155efc12e93bcad51d88825]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/18) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)
+
+[^key-1c1938fd41a7fbbeeb2e48c22781a07a]: Textual amendment: Words in [sch. para. 18(1)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/18/1) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 6(3)(d)(i)(aa)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/6/3/d/i/aa) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^key-64cf55dc2c95e8d708c953cc83331a49]: Textual amendment: Word in [sch. para. 18(1)(a)(i)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/18/1/a/i) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 6(3)(d)(i)(bb)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/6/3/d/i/bb) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^M_F_ca9b2131-d00c-4845-b0d5-733e1400f155]: Textual amendment: Words in [sch. para. 18(1)(a)(i)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/18/1/a/i) inserted (18.4.2010) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010 (S.S.I. 2010/446)](https://www.legislation.gov.uk/ssi/2010/446), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2), [22(c)](https://www.legislation.gov.uk/ssi/2010/446/article/22/c)
+
+[^key-8253d5bc36633d5f5c9746e06ddd45c2]: Textual amendment: [Sch. para. 18(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/18/1/a/ii) omitted (12.1.2026) by virtue of [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/2), [5(5)(f)](https://www.legislation.gov.uk/ssi/2025/352/regulation/5/5/f)
+
+[^key-740da0e2f95b113bca1bfc72b5bfe493]: Textual amendment: [Sch. para. 18(1)(a)(v)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/18/1/a/v) inserted (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [6(5)(f)](https://www.legislation.gov.uk/ssi/2025/352/regulation/6/5/f)
+
+[^key-cb8273e184fc158b779c4d86eb597cd1]: Textual amendment: Words in [sch. para. 18(2)](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/18/2) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 6(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/6/3/d/ii) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^key-9f045a667955f61abc2da285c4e0a1d3]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ssi/2010/183/schedule/paragraph/19) in force at 28.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/183/regulation/1)

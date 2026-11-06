@@ -1,0 +1,149 @@
+---
+title: The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2020
+id: ssi/2020/44
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-02-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2020/44
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/44/pdfs/ssipn_20200044_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/44/pdfs/ssi_20200044_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/44/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 44
+
+Rating And Valuation
+
+The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2020
+
+Made
+
+19th February 2020
+
+Laid before the Scottish Parliament
+
+21st February 2020
+
+Coming into force
+
+1st April 2020
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 6A(1)(aa) and (1B) of the Valuation and Rating (Scotland) Act 1956[^f00001], section 27(6A) and (6B) of the Local Government etc. (Scotland) Act 1994[^f00002] and all other powers enabling them to do so.
+
+In accordance with section 6A(1D) of the Valuation and Rating (Scotland) Act 1956[^f00003] they have consulted such associations of local authorities and such other persons as they think appropriate.
+
+In accordance with section 27(6D) of the Local Government etc. (Scotland) Act 1994[^f00004] they have consulted such associations of local authorities and such other persons as they think appropriate.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2020 and comes into force on 1 April 2020.
+
+## 2. Amendment of the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005
+
+(1) The Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005[^f00005] is amended as follows.
+
+(2) For article 7A(2) (fixed line telecommunications) substitute—
+
+> (2) A “fixed line operator”, for the purposes of this article, is any of the companies registered with the following names and registration numbers—
+>
+> | Company name | Registration number |
+> | --- | --- |
+> | AtlasConnect Limited | SC241790 |
+> | Axione UK Limited | 08434202 |
+> | British Telecommunications Public Limited Company | 01800000 |
+> | Centurylink Communications UK Limited | 02495998 |
+> | Cityfibre Limited | 09759465 |
+> | Cogent Communications UK Ltd | 04014628 |
+> | Daisy Group Holdings Limited | 09162741 |
+> | EE Limited | 02382161 |
+> | Entanet International Limited | 03274237 |
+> | Everything Everywhere Limited | 08263590 |
+> | Fibrenest Limited | 06962197 |
+> | Gamma Telecom Ltd | 04340834 |
+> | Hutchison 3G UK Limited | 03885486 |
+> | Hyperoptic Ltd | 07222543 |
+> | Interoute Communications Holdings Limited | 04927540 |
+> | Interoute Communications Limited | 04472687 |
+> | Interoute Vtesse Limited | 03900836 |
+> | JISC | 05747339 |
+> | JISC Services Limited | 02881024 |
+> | NEOS Networks Limited | 03477297 |
+> | NTL Business Limited | 03076222 |
+> | Oath (UK) Limited | 03462696 |
+> | Pipex Communications Services Limited | 03059016 |
+> | Pulsant (Scotland) Limited | SC236128 |
+> | Sky Home Communications Limited | 05262862 |
+> | Sky Telecommunications Services Limited | 02883980 |
+> | SSE Telecommunications Limited | SC213457 |
+> | Talktalk Communications Limited | 03849133 |
+> | Telefonica UK Limited | 01743099 |
+> | Thus Group Holdings Limited | SC192666 |
+> | Tiscali UK Limited | 03408171 |
+> | Verizon UK Limited | 02776038 |
+> | Virgin Media Limited | 02591237 |
+> | Vodafone Enterprise U.K. | 01541957 |
+> | Vodafone Limited | 01471587 |
+> | Zayo Group UK Limited | 03726666\. |
+
+.
+
+(3) After article 9 (powers of assessors), insert—
+
+> **9A. Entries otherwise than as directed by this Order**
+>
+> (1) The entering of lands and heritages in a valuation roll otherwise than as directed by this Order does not affect the validity of the entry or any action taken in consequence of that entry.
+>
+> (2) Where it comes to the attention of the assessor designated to value lands and heritages under article 8 that lands and heritages have not been entered as directed by this Order in the valuation roll for which that assessor is responsible, that assessor must—
+>
+> - (a) where the lands and heritages are not entered in the valuation roll for that assessor’s valuation area—
+>   - (i) make arrangements with the assessor for the valuation area of the roll in which the lands and heritages have been entered for that entry to be altered or removed, and
+>   - (ii) enter the lands and heritages in the valuation roll as directed by this Order with effect from the same date as the alteration or removal of the other entry takes effect,
+> - (b) where the lands and heritages are entered in the valuation roll for that assessor’s valuation area, but are not the subject of a single entry in that roll—
+>   - (i) alter or remove the entry, and
+>   - (ii) enter the lands and heritages as directed by this Order with effect from the same date as the alteration or removal of the other entry takes effect.
+
+.
+
+BEN MACPHERSON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+19th February 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005 ([S.S.I. 2005/127](https://www.legislation.gov.uk/ssi/2005/127), “the principal Order”).
+
+Article 2(2) replaces a table in the principal Order which details companies to be regarded as “fixed line operators” for the purposes of entries in the valuation roll. The effect is that lands and heritages occupied by those operators are entered as a single entry in the valuation roll, despite being situated in different rating authority areas.
+
+Article 2(3) makes provision for entries that have not been made in accordance with the provisions of the principal Order. It provides that the entry is valid, as is anything done in consequence of it, but requires the assessor designated by the principal Order to arrange to rectify the entry or entries.
+
+## Annotations
+
+[^f00001]: Footnote: [1956 c.60](https://www.legislation.gov.uk/ukpga/1956/60). Section 6A was inserted by section 161 of the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39) and subsections (1)(aa) and (1B) were inserted by section 32(1) of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1) (“the 2003 Act”). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Subsections (6A) and (6B) were inserted by section 32(2)(a) of the 2003 Act.
+
+[^f00003]: Footnote: Section 6A(1D) was inserted by section 32(1)(b) of the 2003 Act.
+
+[^f00004]: Footnote: Section 27(6D) was inserted by section 32(2)(a) of the 2003 Act.
+
+[^f00005]: Footnote: [S.S.I. 2005/127](https://www.legislation.gov.uk/ssi/2005/127), amended by [S.S.I. 2005/320](https://www.legislation.gov.uk/ssi/2005/320), [S.S.I. 2009/196](https://www.legislation.gov.uk/ssi/2009/196), [S.S.I. 2010/78](https://www.legislation.gov.uk/ssi/2010/78), [S.S.I. 2011/75](https://www.legislation.gov.uk/ssi/2011/75), [S.S.I. 2013/36](https://www.legislation.gov.uk/ssi/2013/36), [S.S.I. 2014/64](https://www.legislation.gov.uk/ssi/2014/64), [S.S.I. 2015/50](https://www.legislation.gov.uk/ssi/2015/50), [S.S.I. 2017/42](https://www.legislation.gov.uk/ssi/2017/42), [S.S.I. 2019/42](https://www.legislation.gov.uk/ssi/2019/42), [S.S.I. 2019/45](https://www.legislation.gov.uk/ssi/2019/45) and [S.S.I 2019/77](https://www.legislation.gov.uk/ssi/2019/77).

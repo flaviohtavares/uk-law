@@ -1,0 +1,44 @@
+---
+title: Children's Hearings (Scotland) Act 2011, section 198
+act: Children's Hearings (Scotland) Act 2011
+section: '198'
+status: revised-with-pending-changes
+text_date: '2026-03-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2011/1/section/198
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children's Hearings (Scotland) Act 2011, section 198
+
+> **Warning: changes not yet applied to this text (266).** Text as at 2026-03-30. See https://www.legislation.gov.uk/changes/affected/asp/2011/1
+>
+> Extent: Scotland.
+
+## 198. Super-affirmative procedure
+
+*Extent: S*
+
+(1) Subsections (2) to (6) apply where subordinate legislation under this Act is subject to the super-affirmative procedure.
+
+(2) The subordinate legislation must not be made unless a draft of the statutory instrument containing the subordinate legislation has been laid before, and approved by resolution of, the Scottish Parliament.
+
+(3) Before laying a draft instrument before the Parliament under subsection (2), the Scottish Ministers must consult—
+
+- (a) such persons who are under 21 years of age as they consider appropriate, and
+- (b) such other persons as they consider appropriate.
+
+(4) For the purposes of such a consultation, the Scottish Ministers must—
+
+- (a) lay a copy of the proposed draft instrument before the Parliament,
+- (b) publish in such a manner as the Scottish Ministers consider appropriate a copy of the proposed draft instrument, and
+- (c) have regard to any representations about the proposed draft instrument that are made to them within 60 days of the date on which the copy of the proposed draft instrument is laid before the Parliament.
+
+(5) In calculating any period of 60 days for the purposes of subsection (4)(c), no account is to be taken of any time during which the Parliament is dissolved or is in recess for more than 4 days.
+
+(6) When laying a draft instrument before the Parliament under subsection (2), the Scottish Ministers must also lay before the Parliament an explanatory document giving details of—
+
+- (a) the consultation carried out under subsection (3),
+- (b) any representations received as a result of the consultation, and
+- (c) the changes (if any) made to the proposed draft instrument as a result of those representations.

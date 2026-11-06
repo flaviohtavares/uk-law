@@ -1,0 +1,679 @@
+---
+title: The First-tier Tribunal for Scotland General Regulatory Chamber Parking and Bus Lane Appeals (Rules of Procedure) Regulations 2020
+id: ssi/2020/98
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-03-24'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2020/98
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/98/pdfs/ssipn_20200098_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/98/pdfs/ssi_20200098_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/98/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The First-tier Tribunal for Scotland General Regulatory Chamber Parking and Bus Lane Appeals (Rules of Procedure) Regulations 2020
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2020 No. 98
+
+Tribunals And Inquiries
+
+The First-tier Tribunal for Scotland General Regulatory Chamber Parking and Bus Lane Appeals (Rules of Procedure) Regulations 2020
+
+Made
+
+24th March 2020
+
+Coming into force
+
+1st April 2020
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 43(3)(b)(ii), section 67(1) and paragraph 4(2) of schedule 9 of the Tribunals (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 67(3) of that Act, the Scottish Ministers have obtained the Lord President’s approval. In accordance with paragraph 4(3) of schedule 9 of that Act, the Scottish Ministers have consulted the President of the Scottish Tribunals and such other persons as they considered appropriate.
+
+In accordance with section 79(2)(d) of that Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+
+## 1. Citation and commencement[^key-f8b78dd5a5436d634896fc1d1d94db72]
+
+(1) These Regulations may be cited as the First-tier Tribunal for Scotland General Regulatory Chamber Parking and Bus Lane Appeals (Rules of Procedure) Regulations 2020 and the Rules set out in the schedule may be cited as the First-tier Tribunal for Scotland General Regulatory Chamber Parking and Bus Lane Appeals Rules of Procedure 2020.
+
+(2) These Regulations come into force on 1 April 2020.
+
+## 2. Application of the Rules set out in the schedule[^key-4bcc496b454f0aa97a6821751921e421]
+
+The Rules in the schedule apply to proceedings before the First-tier Tribunal for Scotland General Regulatory Chamber when exercising the functions conferred on it by—
+
+- (a) regulation 3 of the First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020,
+- (b) regulation 3 of the First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020, and
+- (c) regulations 2 to 4 of the First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023.
+
+ASH DENHAM
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+24th March 2020
+
+## SCHEDULE — THE FIRST-TIER TRIBUNAL FOR SCOTLAND GENERAL REGULATORY CHAMBER PARKING AND BUS LANE APPEALS RULES OF PROCEDURE 2020
+
+Regulation 2
+
+### 1. Interpretation[^key-ff53ca95e52eba1401e5e4ec51b3f9db]
+
+In these Rules—
+
+- “the 1991 Act” means the Road Traffic Act 1991[^f00005],
+- “the 2011 Regulations” means the Bus Lane Contraventions (Charges, Adjudication and Enforcement) (Scotland) Regulations 2011[^f00006],
+- “the 2014 Act” means the Tribunals (Scotland) Act 2014[^f00007],
+- “[^key-017f880106143ca5064fec72fc784b12]**the 2019 Act**” means the Transport (Scotland) Act 2019,
+- “[^key-2315623fc336d843264baa3a4135c87f]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
+- “**the 2021 Regulations**” means the Low Emission Zones (Emission Standards, Exemptions and Enforcement) (Scotland) Regulations 2021,
+- “**the 2022 Workplace Regulations**” means the Workplace Parking Licensing (Scotland) Regulations 2022,
+- “appeal” means an appeal under—[^key-de5e8f895ce9390781bc4488733da58a]
+  - (a) section 72 (appeals to parking adjudicator in relation to decisions under section 71) or paragraph 5 of schedule 6 (parking penalties) of the 1991 Act,
+  - (b) regulation 12 (appeal against a charge notice) of the 2011 Regulations,
+  - (c) regulation 10 (appeal to the First-tier Tribunal) of the 2021 Regulations,
+  - (d) regulation 32 (appeal to the First-tier Tribunal) of the 2022 Workplace Regulations,
+  - (e) any regulations made under section 59 (enforcement of parking prohibitions) of the 2019 Act,
+- “appellant” means the person bringing the appeal,
+- “authorised representative” means a person who is entitled to sign documents on behalf of the appellant and to send and receive documents on the appellant’s behalf,
+- “[^key-f57a90eead7c2cfbbb12724e9b4fb592]**bus lane case**” means proceedings before the First-tier Tribunal when exercising functions transferred to it by regulation 3 of the First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020,
+- “bus lane charge notice” means a charge notice as defined in regulation 8(1) of the 2011 Regulations,
+- “case management system” means the electronic system used by the First-tier Tribunal in the management of parking cases, bus lane cases and low emission zone cases[^key-bf68673bebb6df1927810d3d79398987] and to which parties may be permitted limited access via a secure, dedicated website to view case-specific information or submit documentation,
+- “Chamber President” means the Chamber President of the First-tier Tribunal,
+- “[^key-32e053995842664a19109a4f8b194d95]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
+- “electronic communication” has the meaning given to it by section 15(1) of the Electronic Communications Act 2000[^f00008] and “electronic signature” has the same meaning as in section 7 of that Act[^f00009],
+- “First-tier Tribunal” means the General Regulatory Chamber[^f00010] of the First-tier Tribunal for Scotland as defined by section 1(1) of the 2014 Act,
+- “hearing” means an oral hearing and includes a form of hearing conducted in whole or in part by video link, telephone or other means of instantaneous multi-party electronic communication,
+- “[^key-be2fb8bcb79f6d26435c195b5b83a687]**low emission zone case**” means proceedings before the First-tier Tribunal when exercising functions allocated to it by regulation 2 of the First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023,
+- “[^key-5f48f11b25b825c39eaba57935b09e8f]**notice of rejection**” means a notice served by the respondent authority under—
+  - (a) subsection (6)(b) of section 71 (representations in relation to removal or immobilisation of vehicles) of the 1991 Act that they do not accept that a ground on which representations were made under that section has been established,
+  - (b) paragraph 2(7) of schedule 6 (parking penalties) of the 1991 Act that they do not accept that a ground under that paragraph has been established,
+  - (c) regulation 10(3) (response to representations) of the 2011 Regulations that they do not accept that a ground under that regulation has been established,
+  - (d) regulation 9(3) (response to representations) of the 2021 Regulations that they do not accept that a ground on which representations were made under that regulation has been established,
+  - (e) regulation 31(3) (response to representations) of the 2022 Workplace Regulations that they do not accept that a ground on which representations were made under that regulation has been established,
+  - (f) any regulations made under section 59 of the 2019 Act,
+- “[^key-1591405d21e5d669b4016475e9e1e1ac]**original representations**” means the representations made to the respondent authority under—
+  - (a) section 71 (representations in relation to removal or immobilisation of vehicles) or paragraph 2 of schedule 6 (parking penalties) of the 1991 Act,
+  - (b) regulation 9(1) (representations in respect of charges) of the 2011 Regulations,
+  - (c) regulation 8(1) (representations in respect of penalty charges) of the 2021 Regulations,
+  - (d) regulation 30(1) (representations in respect of penalty charges) of the 2022 Workplace Regulations,
+  - (e) any regulations made under section 59 of the 2019 Act,
+- “[^key-d5ebb6456d6a86ef510829edb0bdfe89]**parking case**” means proceedings before the First-tier Tribunal when exercising functions—
+  - (a) transferred to it by regulation 3 of the First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020,
+  - (b) allocated to it by regulation 3 or 4 of the First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023.
+- “party” means the appellant or the respondent authority,
+- “[^key-b1dff410210dd83b46ebcc35379feb7f]**penalty charge notice**” means—
+  - (a) the notice issued under section 66 (parking penalties) of the 1991 Act,
+  - (b) the notice issued under sections 7(3) (proving contraventions and issue of a penalty charge notice) or 58(2) (imposition of penalty charges) of the 2019 Act,
+  - (c) the notice served under regulation 28(1) (penalty charge notices) of the 2022 Workplace Regulations;
+  - (d) the notification (or notice) of a penalty charge issued under regulations made under section 59 of the 2019 Act,
+- “proceedings” means proceedings before the First-tier Tribunal when convened to hear appeals,
+- “register” means the register of appeals and decisions kept in accordance with rule 24 (the register), and
+- “[^key-e48196aac37220dc4561017d3ded7d23]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
+- “[^key-f03484dc44380317614414bbcb0f56e5]**respondent authority**” means—
+  - (a) an approved local authority in terms of section 44(2) (civil penalties for bus lane contraventions) of the Transport (Scotland) Act 2001,
+  - (b) in relation to a parking place which was provided or authorised under section 32(1) (power of local authorities to provide parking places) of the Road Traffic Regulation Act 1984, the local authority as defined by section 32(4)(a) of that Act in relation to the parking place,
+  - (c) the relevant authority in respect of—
+    - (i) a low emission zone scheme which was made or modified by a local authority under section 9 (power to make or modify a low emission zone scheme) of the 2019 Act,
+    - (ii) a workplace parking licensing scheme which was made or modified by a local authority under section 72 (power to make or modify schemes) of the 2019 Act, or
+    - (iii) a penalty charge notice issued by a local authority under section 58(2) (imposition of penalty charges) of the 2019 Act,
+  - (d) in any other case, the traffic authority (other than the Scottish Ministers) as defined by section 121A of the Road Traffic Regulation Act 1984,
+- “review” means the internal review provided for by section 43(1) of the 2014 Act, and
+- “Upper Tribunal” means the Upper Tribunal for Scotland as defined by section 1(1) of the 2014 Act.
+
+### 2. Overriding objective[^key-4ae9953caf7d03cfef1b5b7ac56feeab]
+
+(1) The overriding objective of the First-tier Tribunal is to deal with the proceedings fairly and justly.
+
+(2) Dealing with proceedings fairly and justly includes—
+
+- (a) dealing with the proceedings in a manner which is proportionate to the complexity of the issues and the resources of the parties,
+- (b) avoiding unnecessary formality and seeking flexibility in the proceedings,
+- (c) ensuring, so far as practicable, that the parties are able to participate fully in proceedings,
+- (d) using any special expertise of the First-tier Tribunal effectively, and
+- (e) avoiding delay, so far as compatible with proper consideration of the issues.
+
+(3) The First-tier Tribunal must seek to give effect to the overriding objective when it—
+
+- (a) exercises any power under these Rules, or
+- (b) interprets any rule or practice direction.
+
+(4) In particular, the First-tier Tribunal must actively manage proceedings in accordance with the overriding objective.
+
+### 3. Delegation to staff[^key-9321a60b4e54abbbcbe84ec15e9312da]
+
+(1) Staff of the Scottish Courts and Tribunals Service[^f00014] may, with the approval of the Chamber President, carry out functions of a judicial nature permitted or required to be undertaken by the First-tier Tribunal, provided the functions are of a preliminary or an incidental nature.
+
+(2) The approval referred to in paragraph (1) may apply generally to the carrying out of specified functions by members of staff of a specified description in specified circumstances.
+
+### 4. Case management powers[^key-6a39b6126640a71aa356be8484264a4d]
+
+(1) Subject to the provisions of the 2014 Act and these Rules, the First-tier Tribunal may regulate its own procedure.
+
+(2) The First-tier Tribunal may give an order in relation to the conduct or disposal of proceedings at any time, including an order amending, suspending or setting aside an earlier order.
+
+(3) In particular, and without restricting the general powers in paragraphs (1) and (2), the First-tier Tribunal may by order—
+
+- (a) extend or shorten the time for complying with any rule, practice direction or order,
+- (b) conjoin or hear together two or more sets of proceedings or parts of proceedings raising common issues,
+- (c) permit or require a party to amend a document,
+- (d) permit or require a party to provide documents, information, evidence or submissions to the First-tier Tribunal or a party,
+- (e) deal with an issue in the proceedings as a preliminary issue,
+- (f) hold a hearing to consider any matter, including a case management hearing,
+- (g) decide the form of any hearing having considered both parties’ preferences,
+- (h) adjourn or postpone a hearing,
+- (i) with the agreement of both or all of the parties, bring forward a hearing,
+- (j) require a party to produce a file of documents for a hearing,
+- (k) sist proceedings, and
+- (l) suspend the effect of its own decision pending the determination by the First-tier Tribunal or the Upper Tribunal, as the case may be, of an application for permission to appeal against, and any appeal or review of, that decision.
+
+### 4A. Compatibility question under the 2024 Act - raising, intimation and notice[^key-8f613a388e237eec9d60bdcf43183201]
+
+(1) This rule applies to—
+
+- (a) raising a compatibility question before the First-tier Tribunal,
+- (b) intimation of a compatibility question to the relevant authorities under section 34(1) of the 2024 Act,
+- (c) notice by a relevant authority of their intention to intervene in proceedings under section 34(2) of that Act.
+
+(2) A compatibility question may be raised by a party at any stage in the proceedings.
+
+(3) Where a party raises a compatibility question, they must, so far as the party is able to do so, set out in sufficient detail—
+
+- (a) the facts and circumstances, and
+- (b) the contentions of law
+
+on the basis of which it is claimed that the compatibility question arises.
+
+(4) On receiving a compatibility question under paragraph (3), the First-tier Tribunal must—
+
+- (a) if it considers that the basis on which a compatibility question is said to have arisen is not set out in sufficient detail, in order to meet the overriding objective, direct the party to set out the facts and circumstances and contentions of law on the basis of which it is alleged the compatibility question arises to the First-tier Tribunal, within such period as it may determine,
+- (b) determine if it considers that a compatibility question is frivolous or vexatious with reference to section 31(3) of the 2024 Act,
+- (c) if satisfied as to the basis of the compatibility question, intimate under section 34(1) in writing to each relevant authority the matters specified in paragraph (5).
+
+(5) The matters to be intimated to each relevant authority are—
+
+- (a) the fact that a compatibility question has arisen in proceedings before the First-tier Tribunal,
+- (b) the details of the matters raised in the proceedings,
+- (c) the details of the compatibility question that has arisen and, if known at the time of intimation, the position of each party to proceedings in respect of the compatibility question,
+- (d) that to take part in the proceedings as a party the relevant authority must—
+  - (i) give notice to the First-tier Tribunal of their intention to do so within 14 days of receipt of the intimation made under this rule, or within such other period as the First-tier Tribunal may specify, should it be satisfied there are exceptional circumstances which require the time period to be adjusted,
+  - (ii) within 7 days after the date of such notice, provide written submissions to the First-tier Tribunal in respect of the compatibility question in such form, and in accordance with such intimation requirements on other parties to proceedings (including any other relevant authorities) as the First-tier Tribunal may specify.
+
+(6) The First-tier Tribunal must provide each relevant authority with all documents relevant to the consideration of the compatibility question.
+
+(7) The First-tier Tribunal must, if those submissions under paragraph (5)(d)(ii) are provided, take steps to allow a relevant authority to take part as a party to proceedings so far as the proceedings relate to a compatibility question.
+
+(8) The First-tier Tribunal may fix a hearing to consider a compatibility question as a separate hearing from any other hearing in the proceedings.
+
+(9) The First-tier Tribunal may sist the proceedings under rule 4(3)(k) if it considers it necessary to do so while the compatibility question is being determined.
+
+(10) Where a relevant authority does not take part as a party to proceedings at first instance, the relevant authority is not precluded from intervening in any subsequent appeal to the Upper Tribunal, so far as those proceedings relate to a compatibility question.
+
+(11) Where a relevant authority does not take part as a party to proceedings and that relevant authority requests to be notified of the outcome of proceedings in respect of the compatibility question, including regarding any subsequent appeal which relates to the determination of the compatibility question, the First-tier Tribunal must notify the relevant authority of this as soon as practicable.
+
+### 5. Dismissal of a case[^key-23bb04ed6af099bc25ee76c8997ebbd4]
+
+(1) The First-tier Tribunal must dismiss the whole or a part of the proceedings if—
+
+- (a) the First-tier Tribunal does not have jurisdiction in relation to the proceedings or that part of them,
+- (b) the appellant has failed to comply with an order which stated that failure by the appellant to comply with the order could lead to the dismissal of the proceedings or part of them, or
+- (c) the appellant has failed to co-operate with the First-tier Tribunal to such an extent that the First-tier Tribunal cannot deal with the proceedings fairly and justly.
+
+(2) The First-tier Tribunal may dismiss the whole or a part of the proceedings if the First-tier Tribunal considers there is no reasonable prospect of the appellant’s case, or part of it, succeeding.
+
+(3) The First-tier Tribunal may not dismiss the whole or a part of the proceedings under paragraphs (1) or (2) without first giving the appellant an opportunity to make representations in relation to the proposed dismissal.
+
+### 6. Notice of appeal[^key-4fedebb3f609d762b078ad496d4b7fe0]
+
+(1) An appeal to the First-tier Tribunal is to be made by giving written notice in accordance with the following paragraphs.
+
+(2) A notice of appeal must include—
+
+- (a) the full name and address of the appellant,
+- (b) the full name and address of any authorised representative,
+- (c) any other specified address as being the address of the appellant for receipt of any documents from the First-tier Tribunal in connection with the appeal,
+- (d) the date and reference number of the notice of rejection,
+- (e) any additional representations on any of the statutory grounds of appeal which the appellant wishes to make (but need not include the original representations),
+- (f) the name of the respondent authority,
+- (g) a statement that the notice is a notice of appeal, and
+- (h) the signature of the appellant or the authorised representative.
+
+(3) A notice of appeal is to be received by the First-tier Tribunal within the period of 28 days beginning with the date of service by the respondent authority of a notice of rejection on the appellant.
+
+(4) If the appellant sends the notice of appeal after the end of the 28-day period in paragraph (3), the notice of appeal must include a statement of the reasons on which the appellant relies for justifying the delay, and the First-tier Tribunal must treat any such statement as a request for extending that time limit.
+
+### 7. Confirmation of receipt of appeal by the First-tier Tribunal[^key-15ef2d72313fbacec5a42c79a40ec11f]
+
+(1) Within 14 days of receipt of the notice of appeal, the First-tier Tribunal must—
+
+- (a) send an acknowledgement of receipt of the notice of appeal to the appellant,
+- (b) enter the particulars of the appeal in the register, and
+- (c) send to the respondent authority a copy of the notice of appeal and any order extending the time limit for appealing.
+
+(2) Upon receiving a copy of the notice of appeal in accordance with paragraph (1)(c), the respondent authority must within 21 days—
+
+- (a) send to the First-tier Tribunal a copy of—
+  - (i) the original representations,
+  - (ii) the penalty charge notice or the bus lane charge notice, and
+  - (iii) the notice of rejection, and
+- (b) notify the First-tier Tribunal as to the respondent authority’s preferred form for a hearing or, if no preference, notification of such, and
+- (c) send to the appellant—
+  - (i) notification that the documents set out in paragraph 7(2)(a) are available to view electronically through the case management system, or
+  - (ii) in cases where the appellant is not conducting the appeal through the case management system, a paper copy of those documents.
+
+(3) Upon receiving a copy of the documents in paragraph (2)(a), the First-tier Tribunal must within 14 days invite the appellant’s views as to the appellant’s preferred form for a hearing.
+
+### 8. Withdrawal of appeal[^key-2e118f1c3109f8e99024b89c392b9c43]
+
+(1) The appellant may withdraw the appeal—
+
+- (a) at any time before the hearing of the appeal by sending a notice of withdrawal in writing to the First-tier Tribunal, or
+- (b) at the hearing of the appeal.
+
+(2) Where an appeal is withdrawn, no further appeal may be made in relation to the same matter.
+
+### 9. Further representations[^key-16aea1c34328ed43a4c4f56b93d38ec4]
+
+(1) Either party to an appeal may send representations to the First-tier Tribunal at any time before that appeal is determined.
+
+(2) The First-tier Tribunal may invite either party to send to the First-tier Tribunal representations dealing with any matter relating to an appeal within such time, and in such a manner, as may be specified.
+
+(3) Where a party fails to respond to an invitation under paragraph (2), the First-tier Tribunal may draw such inferences as appear to it proper.
+
+(4) Any representations sent under this rule must be signed by the party concerned or the authorised representative.
+
+(5) Where the appellant sends representations to the First-tier Tribunal under this rule, the First-tier Tribunal must thereafter send, or make electronically available, a copy of the representations to the respondent authority.
+
+(6) Where the respondent authority sends representations to the First-tier Tribunal under this rule, the respondent authority must at the same time send, or make electronically available, a copy of the representations to the appellant.
+
+### 10. Attendance of witnesses[^key-d2ae9d40f9026d9694ab0262bcfab7bf]
+
+(1) The First-tier Tribunal may—
+
+- (a) by citation require any person to attend, at a time and place specified in the citation, to answer any questions as a witness, or
+- (b) order any person to produce any document in the person’s custody or control which relates to any matter in the proceedings.
+
+(2) A person receiving a citation under paragraph (1) may apply to the First-tier Tribunal to vary or set aside the citation.
+
+(3) A person is not bound to comply with a citation unless the person has been given at least 7 clear days’ notice of the hearing or, if given less than 7 clear days’ notice, the person has informed the First-tier Tribunal that they accept the notice period given.
+
+(4) A person, other than the parties, is not bound to comply with a citation under paragraph (1) unless the necessary expenses of the person’s attendance are paid or tendered to them.
+
+(5) No person is required under paragraph (1) to give any evidence or produce any document which that person would be entitled to refuse to give or produce in proceedings in a court.
+
+(6) If any person required under paragraph (1) to attend a hearing by the First-tier Tribunal, or to produce any document to the First-tier Tribunal, fails without reasonable excuse to do so, that person will be guilty of an offence and is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+### 11. Decision of an appeal without a hearing[^key-066742f3b4471e96cd74db2435a966f6]
+
+(1) Subject to paragraph (2), the First-tier Tribunal may decide an appeal without a hearing.
+
+(2) The First-tier Tribunal must not decide an appeal without a hearing if either party has requested a hearing unless—
+
+- (a) the party who made the request withdraws said request before notice of a hearing has been sent to the other party under rule 12 (notice of time and place of hearing),
+- (b) the party who made the request fails to attend or be represented at the hearing,
+- (c) where both parties have been sent a notice of the hearing of an appeal in accordance with rule 12, both parties fail to attend or be represented at the hearing, or
+- (d) both parties have subsequently consented to the appeal being decided without a hearing.
+
+(3) Unless both parties consent to the decision taking place on an earlier date, the First-tier Tribunal must not decide an appeal without a hearing until after the expiry of 28 days beginning on the day an acknowledgement is sent in accordance with rule 7(1) (confirmation of receipt of appeal by the First-tier Tribunal).
+
+### 12. Notice of time and place of hearing[^key-ed1edeb62396282e2fa9e14a82b3887b]
+
+(1) This rule has effect where a hearing is to be held for the purpose of deciding an appeal.
+
+(2) The First-tier Tribunal must give each party entitled to attend a hearing reasonable notice of the time and place of any hearing and not less than 28 days (or such shorter time as the parties may agree) before the date so fixed, send to each party a notice of hearing or notify the parties in such other manner as it thinks fit.
+
+(3) The First-tier Tribunal may alter the time and place of any hearing and must, not less than 7 days (or such shorter time as the parties may agree) before the date of the hearing, send to the parties a notice of the time and place of the hearing as altered or notify the parties in such other manner as it thinks fit.
+
+(4) This rule applies to an adjourned hearing but where the parties are present, if the time and place of the adjourned hearing are announced before the adjournment, no further notice is required.
+
+### 13. Procedure at hearing[^key-a8fe97bd1255ce765670537ec904540d]
+
+(1) At the beginning of the hearing the First-tier Tribunal must explain the procedure which it proposes to adopt.
+
+(2) A hearing must be held in public unless the First-tier Tribunal, on its own initiative or on an application by an appellant, decides that it is necessary to do otherwise to ensure a fair hearing.
+
+(3) The First-tier Tribunal may, with the agreement of both parties, receive evidence by telephone, through a video link or by using any other method of communication if the First-tier Tribunal is satisfied that this would not prejudice the administration of justice and that there is no important public interest consideration which requires a hearing in person.
+
+(4) The First-tier Tribunal may, with the agreement of both parties, permit any other person to attend the hearing of an appeal which is held in private.
+
+(5) The First-tier Tribunal may exclude from the hearing of an appeal, or part of it, any person whose conduct has disrupted or is likely, in the opinion of the First-tier Tribunal, to disrupt the hearing.
+
+(6) Subject to paragraph (7), at the hearing of an appeal a party may conduct the case themselves (with the assistance of any person the party may wish) or may appear and be represented by any person whether or not legally qualified.
+
+(7) If the First-tier Tribunal is satisfied that there are good and sufficient reasons for doing so, it may refuse to permit a particular person to assist or represent a party at the hearing.
+
+(8) At the hearing of an appeal—
+
+- (a) the parties are entitled to give evidence, to call witnesses, to question any witnesses and to address the First-tier Tribunal both on the evidence and generally on the subject matter of the appeal, and
+- (b) the First-tier Tribunal may receive, and take account of, evidence of any fact which appears to it to be relevant notwithstanding that such evidence would be inadmissible in civil proceedings in Scotland.
+
+### 14. Evidence and submissions[^key-90d29ff4185fea02f201d99faf5c5ad8]
+
+(1) Without restriction on the general powers in rule 4(1) and (2) (case management powers), the First-tier Tribunal may give orders as to—
+
+- (a) any issue on which it requires evidence or submission, and
+- (b) the nature of the evidence or submission it requires.
+
+(2) The First-tier Tribunal may permit evidence of a bus lane contravention or low emission zone contravention[^key-4e0254ccf488f562480132ee4ab2e83c] to be given by the production of—
+
+- (a) a record produced by an approved device, and
+- (b) in the same or another document, a certificate as to the circumstances in which the record was produced, signed by a person authorised to do so by the relevant[^key-52164d936aa8799a9faad6057118ddac] respondent authority.
+
+(3)[^key-bed32de9d37fe8ffda66e7ccde84d403] For the purposes of this rule, an “**approved device**” means—
+
+- (a) in the case of a bus lane contravention, a device certified by the Scottish Ministers under article 2 (approved devices) of the Bus Lanes (Approved Devices) (Scotland) Order 2011,
+- (b) in the case of a low emission zone contravention, a device approved for use in connection with the operation of a low emission zone scheme in accordance with regulation 20 (approved devices) of the Low Emission Zones (Scotland) Regulations 2021.
+
+(4) A document stated in evidence to be such a record as is mentioned in paragraph (2)(b), or such a certificate as is mentioned in paragraph (2)(b), is to be treated as such a record or certificate, unless the contrary is proved.
+
+### 15. Decision of the First-tier Tribunal[^key-82db141aafb6fc30381e3ae9bbef0d80]
+
+(1) Where an appeal is decided at a hearing, the decision of the First-tier Tribunal may be given orally at the end of the hearing or reserved until a later date.
+
+(2) Where, in advance of a decision being made by the First-tier Tribunal the parties reach agreement in writing, the First-tier Tribunal may make such a decision as it thinks fit.
+
+(3) Where, in advance of a decision being made by the First-tier Tribunal the respondent authority agrees to concede their position in writing, the First-tier Tribunal may make such a decision as it thinks fit.
+
+(4) As soon as possible after making a decision, the First-tier Tribunal must issue the decision in writing including a statement of facts and the findings and reasons for the decision to the parties.
+
+(5) The decision referred to in paragraph (4) must be—
+
+- (a) signed and dated by a legal member of the First-tier Tribunal, and
+- (b) accompanied by a notice explaining the parties’ right to request a review of the decision or to request permission to appeal on a point of law, and which is to include the time within which, and the manner in which, such right to request a review or permission to appeal may be exercised.
+
+(6) A record of the decision referred to in paragraph (4) must be recorded as soon as possible in the register, and a copy of the entry in the register sent by the First-tier Tribunal to the parties.
+
+(7) Except where a decision is given orally at the end of the hearing, it is treated as having been made on the date on which a legal member signs the decision referred to in paragraph (4).
+
+### 16. Publication of decisions[^key-d324cb08e9de7f0e5bf8b139d6972dbf]
+
+(1) The First-tier Tribunal must make arrangements for the public pronouncement of its decisions, whether by giving its decisions orally at a public hearing or by publishing its decisions in writing.
+
+(2) A record of decisions will be published in the register and may be published electronically.
+
+(3) Where any decision refers to any evidence that has been heard in private, the reference to that evidence must be omitted from the decision and the First-tier Tribunal may make any necessary amendments to the text of the decision for the purposes of publication.
+
+(4) A decision may be published in edited form, or subject to such deletion or redaction of sensitive data and information as the First-tier Tribunal considers appropriate, bearing in mind any representations on the matter which any person has provided in writing to the First-tier Tribunal at any time prior to publication.
+
+### 17. Review of a decision[^key-4662d5114e6228515c596012a1e968b8]
+
+(1) The First-tier Tribunal may, at its own instance or at the request of a party, review a decision made by it.
+
+(2) The grounds on which a decision may be reviewed are that—
+
+- (a) the decision was wrongly made as a result of an error on the part of its administrative staff,
+- (b) an appellant who had failed to appear or be represented at a hearing had good and sufficient reason for the appellant’s failure to appear,
+- (c) where the decision was made after a hearing, new evidence has become available since the conclusion of the hearing, the existence of which could not have been reasonably known about or foreseen by the parties,
+- (d) where the decision was made without a hearing, new evidence has become available since the decision was made, the existence of which could not have been reasonably known about or foreseen, or
+- (e) the interests of justice require such a review.
+
+(3) A request for a review by a party must—
+
+- (a) be made in writing and copied to the other party,
+- (b) be made within 14 days of the date on which the decision is made or within 14 days of the date that the written reasons (if any) were sent to parties, and
+- (c) set out why a review of the decision is necessary.
+
+(4) If the First-tier Tribunal considers the request is wholly without merit, the First-tier Tribunal must refuse the request and inform the parties of the reasons for refusal.
+
+(5) Except where the request is rejected under paragraph (4), the First-tier Tribunal must send a notice to the parties—
+
+- (a) setting a time limit for any response to the request by the parties and seek the views of the parties on whether the request is to be determined without a hearing, and
+- (b) setting out, if the First-tier Tribunal considers it appropriate to do so, its provisional views on the request for review.
+
+(6) Where the First-tier Tribunal proposes to review a decision at its own instance, it must—
+
+- (a) inform the parties in writing within 14 days of the date on which the decision is made or within 14 days of the date that the written reasons (if any) were sent to the parties, of the reasons why the decision is being reviewed, and
+- (b) review the decision as if a request for a review has been made and not refused.
+
+(7) In accordance with rule 11 (decision of an appeal without a hearing), the decision may be reviewed without a hearing.
+
+(8) Where practicable, the review must be undertaken by a different member of the First-tier Tribunal from the member who made the original decision to which the review relates.
+
+### 18. Consideration of application for permission to appeal to the Upper Tribunal[^key-65cfffeec49879eee201bf03b76ac21b]
+
+(1) A party seeking permission to appeal under section 46(3)(a) of the 2014 Act must make a written application to the First-tier Tribunal.
+
+(2) For the purposes of this rule, the definition of “appeal” set out in rule 1 (interpretation) is not to apply.
+
+(3) An application under paragraph (1) must—
+
+- (a) identify the decision of the First-tier Tribunal to which it relates,
+- (b) identify the alleged point or points of law on which the party making the application wishes to appeal, and
+- (c) state the result the party making the application is seeking.
+
+(4) The First-tier Tribunal must decide whether to give permission to appeal to the Upper Tribunal on any point of law.
+
+(5) The First-tier Tribunal must issue its decision in writing as soon as reasonably practicable to the parties.
+
+(6) If the First-tier Tribunal refuses permission to appeal, it must provide the parties with its decision under paragraph (5)—
+
+- (a) a statement of its findings and reasons for the refusal, and
+- (b) notification of the right to make an application to the Upper Tribunal for permission to appeal and the time within which, and the method by which, such an application must be made.
+
+(7) The time limits[^f00016] within which an application under paragraph (1) can be made exclude any review period in terms of rule 17 (review of a decision).
+
+(8) For the purposes of this rule, a review period—
+
+- (a) starts on the day the request for review under rule 17 is received by the First-tier Tribunal or, if the review is at the instance of the First-tier Tribunal, the day on which notice is sent to the parties, and
+- (b) ends on the day that the First-tier Tribunal decision on the review is sent to the parties.
+
+### 18A. Reference of compatibility question to the Court of Session[^key-b725ccc16a888a32c7586e4096bad13d]
+
+(1) If the First-tier Tribunal refers a compatibility question which arises in proceedings before it to the Inner House of the Court of Session for determination, it must intimate this in writing to all parties and the relevant authorities.
+
+(2) The intimation in writing to relevant authorities under paragraph (1) who have not previously joined proceedings as a party must include—
+
+- (a) the details of the matters raised in the proceedings,
+- (b) the details of the compatibility question that has arisen,
+- (c) if known at the time of intimation, the position of each party to proceedings in respect of the compatibility question.
+
+(3) The First-tier Tribunal must provide each relevant authority under paragraph (1) which has not previously joined proceedings as a party with all documents relevant to the consideration of the compatibility question.
+
+(4) Where a relevant authority does not take part as a party to proceedings at first instance, that relevant authority is not precluded from taking part as a party in any subsequent reference to the Inner House of the Court of Session.
+
+### 19. Conjoining of appeals[^key-705fae964c5ca81d06651344f9d22f67]
+
+(1) Where there are pending two or more appeals before the First-tier Tribunal and at any time it appears to the First-tier Tribunal that—
+
+- (a) some common question of law or fact arises in both or all of the appeals, or
+- (b) for some other reason it is desirable to make an order under this rule,
+
+the First-tier Tribunal may order that some or all of the appeals as may be specified in the order are to be considered together and may give such consequential orders as it may consider necessary.
+
+(2) An order is not to be made under this rule unless all parties concerned have been given an opportunity to make representations about the making of such an order.
+
+### 20. Expenses[^key-f5166d706319681747329b8473235162]
+
+(1) The First-tier Tribunal may, subject to paragraph (2), make an award of expenses by way of an order but only in the following circumstances—
+
+- (a) where it considers that a party has acted frivolously or vexatiously or that the party’s conduct in making, pursuing or resisting an appeal was wholly unreasonable, or
+- (b) where it considers that the respondent authority’s original decision was wholly unreasonable.
+
+(2) An order is not to be made under paragraph (1) against a party unless that party has been given an opportunity to make representations.
+
+(3) An order under paragraph (1) is to require the party against whom it is made to pay to the other party a specified sum in respect of the expenses incurred by that other party in connection with the proceedings.
+
+### 21. Correction of clerical mistakes or accidental slips or omissions[^key-a22ccbfde6d0d980c97789f3ef97ec1a]
+
+The First-tier Tribunal may at any time correct any clerical mistake or other accidental slip or omission contained in a decision, order or any other document of the First-tier Tribunal, or any document produced by it, by—
+
+- (a) sending notification of the amended decision or order, or a copy of the amended document, to all parties, and
+- (b) making any necessary amendment to any information published in relation to the decision, order or document.
+
+### 22. Signature of documents[^key-1d0fd67008180124b58bdfeeb629204f]
+
+Where any of these Rules requires a document to be signed, that requirement will be satisfied—
+
+- (a) if the signature is written, or
+- (b) in the case of a document which is communicated electronically in accordance with these Rules—
+  - (i) by the electronic signature of the individual who is required to sign it, or
+  - (ii) by authentication through the case management system, including by way of the unique personal identification number issued by the respondent authority in respect of the charge notice.
+
+### 23. Sending and delivery of notices and documents[^key-7782d3aa8064154a626a480ebc2a3d01]
+
+(1) This regulation has effect in relation to any notice or other document required or authorised to be provided under a practice direction, an order or these Rules.
+
+(2) Any such notice or document must be—
+
+- (a) sent by pre-paid post properly addressed, delivered by hand or transmitted by electronic communication including through the electronic case management system, or
+- (b) sent or delivered by such other method as the First-tier Tribunal may permit or direct.
+
+(3) Subject to paragraph (4), where a party or authorised representative provides an email address (or other details for the electronic transmission of documents to them) and agreement in writing that they will accept notices and documents transmitted in that manner to that specified email address, that party or authorised representative must accept delivery of documents by that method.
+
+(4) If a party informs the First-tier Tribunal and all other parties that a particular form of communication (other than pre-paid post or delivery by hand) should not be used to provide documents to that party, that form of communication must not be so used.
+
+(5) If the First-tier Tribunal or a party sends by email, or any other means of electronic communication, to a party or the First-tier Tribunal—
+
+- (a) a document, or
+- (b) notification of a document’s availability for electronic viewing including through the case management system,
+
+the recipient may request that the sender provide a paper copy of the document to the recipient provided that such a request is made by the recipient within 14 days of receiving said document or notification electronically.
+
+(6) The First-tier Tribunal and each party may assume that the address provided by a party or its authorised representative is and remains the address to which documents should be sent or delivered until receiving notification to the contrary.
+
+### 24. The register[^key-deb73bc33aa132863e28b8a87bce55d9]
+
+(1) A register must be kept by the First-tier Tribunal and must be open for inspection during reasonable hours by any person without charge.
+
+(2) The register may be kept in electronic form via a dedicated website.
+
+(3) If the register is kept in electronic form, the duty to allow inspection is to be treated as a duty to allow inspection of a reproduction in legible form of the recording of the entry the inspection of which is being sought.
+
+(4) A document purporting to be certified by the First-tier Tribunal to be a true copy of any entry of a decision in a register is to be evidence of the entry and of the matters contained in it.
+
+EXPLANATORY NOTE
+
+(This note does not form part of the Regulations)
+
+The Tribunals (Scotland) Act 2014 created a new structure for tribunals dealing with devolved matters under the judicial leadership of the Lord President of the Court of Session as head of the Scottish Tribunals.
+
+It provided for a First-tier Tribunal and an Upper Tribunal and for the First-tier Tribunal to be divided into chambers dependent on the subject-matter of the case before it and similarly for the Upper Tribunal to be divided into divisions. The First-tier Tribunal has been divided into chambers, one of which is the General Regulatory Chamber.
+
+Paragraph 4 of schedule 9 of the Tribunals (Scotland) Act 2014 enables the Scottish Ministers, by regulations, to make Tribunal Rules until such time as the provisions of the 2014 Act conferring responsibility on the Scottish Civil Justice Council and the Court of Session for the making of Tribunal Rules are commenced.
+
+These Regulations provide for the rules of procedure which are to apply in the General Regulatory Chamber when hearing appeals against decisions of a local authority to issue parking penalty charge notices or bus lane charge notices. The rules of procedure are set out in the schedule of the Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
+
+[^key-f8b78dd5a5436d634896fc1d1d94db72]: Commencement: Reg. 1 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-4bcc496b454f0aa97a6821751921e421]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/98/regulation/2) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/2)
+
+[^key-ff53ca95e52eba1401e5e4ec51b3f9db]: Commencement: Sch. para. 1 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^f00005]: Footnote: [1991 c.40](https://www.legislation.gov.uk/ukpga/1991/40).
+
+[^f00006]: Footnote: [S.S.I. 2011/442](https://www.legislation.gov.uk/ssi/2011/442).
+
+[^f00007]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
+
+[^key-017f880106143ca5064fec72fc784b12]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/i)
+
+[^key-2315623fc336d843264baa3a4135c87f]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/a/i)
+
+[^key-de5e8f895ce9390781bc4488733da58a]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/ii)
+
+[^key-f57a90eead7c2cfbbb12724e9b4fb592]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/iii)
+
+[^key-bf68673bebb6df1927810d3d79398987]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/iv)
+
+[^key-32e053995842664a19109a4f8b194d95]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/a/ii)
+
+[^f00008]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00009]: Footnote: Section 7 was amended by paragraph 1 of schedule 3 of the Electronic Identification and Trust Services for Electronic Transactions Regulations 2016/696.
+
+[^f00010]: Footnote: The First-tier Tribunal for Scotland General Regulatory Chamber was brought into being by [S.S.I. 2016/341](https://www.legislation.gov.uk/ssi/2016/341).
+
+[^key-be2fb8bcb79f6d26435c195b5b83a687]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(v)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/v)
+
+[^key-5f48f11b25b825c39eaba57935b09e8f]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(vi)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/vi)
+
+[^key-1591405d21e5d669b4016475e9e1e1ac]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(vii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/vii)
+
+[^key-d5ebb6456d6a86ef510829edb0bdfe89]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(viii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/viii)
+
+[^key-b1dff410210dd83b46ebcc35379feb7f]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(ix)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/ix)
+
+[^key-e48196aac37220dc4561017d3ded7d23]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/a/iii)
+
+[^key-f03484dc44380317614414bbcb0f56e5]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(a)(x)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/a/x)
+
+[^key-4ae9953caf7d03cfef1b5b7ac56feeab]: Commencement: Sch. para. 2 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-9321a60b4e54abbbcbe84ec15e9312da]: Commencement: Sch. para. 3 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^f00014]: Footnote: The Scottish Courts and Tribunals Service was established by section 60 of the Judiciary and Courts (Scotland) Act 2008 ([2008 asp 6](https://www.legislation.gov.uk/asp/2008/6)).
+
+[^key-6a39b6126640a71aa356be8484264a4d]: Commencement: Sch. para. 4 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-8f613a388e237eec9d60bdcf43183201]: Textual amendment: [Sch. rule 4A](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/4A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/b)
+
+[^key-23bb04ed6af099bc25ee76c8997ebbd4]: Commencement: Sch. para. 5 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-4fedebb3f609d762b078ad496d4b7fe0]: Commencement: Sch. para. 6 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-15ef2d72313fbacec5a42c79a40ec11f]: Commencement: Sch. para. 7 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-2e118f1c3109f8e99024b89c392b9c43]: Commencement: Sch. para. 8 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-16aea1c34328ed43a4c4f56b93d38ec4]: Commencement: Sch. para. 9 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-d2ae9d40f9026d9694ab0262bcfab7bf]: Commencement: Sch. para. 10 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-066742f3b4471e96cd74db2435a966f6]: Commencement: Sch. para. 11 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-ed1edeb62396282e2fa9e14a82b3887b]: Commencement: Sch. para. 12 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-a8fe97bd1255ce765670537ec904540d]: Commencement: Sch. para. 13 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-90d29ff4185fea02f201d99faf5c5ad8]: Commencement: Sch. para. 14 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-4e0254ccf488f562480132ee4ab2e83c]: Textual amendment: Words in [sch. rule 14(2)](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/14/2) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/b/i/aa)
+
+[^key-52164d936aa8799a9faad6057118ddac]: Textual amendment: Word in [sch. rule 14(2)(b)](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/14/2/b) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(b)(i)(bb)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/b/i/bb)
+
+[^key-bed32de9d37fe8ffda66e7ccde84d403]: Textual amendment: [Sch. rule 14(3)](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/14/3) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/159/regulation/3/3/b/ii)
+
+[^key-82db141aafb6fc30381e3ae9bbef0d80]: Commencement: Sch. para. 15 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-d324cb08e9de7f0e5bf8b139d6972dbf]: Commencement: Sch. para. 16 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-4662d5114e6228515c596012a1e968b8]: Commencement: Sch. para. 17 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-65cfffeec49879eee201bf03b76ac21b]: Commencement: Sch. para. 18 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^f00016]: Footnote: The time limits for applying for permission to appeal are set out in regulation 2(1) of [S.S.I. 2016/231](https://www.legislation.gov.uk/ssi/2016/231).
+
+[^key-b725ccc16a888a32c7586e4096bad13d]: Textual amendment: [Sch. rule 18A](https://www.legislation.gov.uk/ssi/2020/98/schedule/rule/18A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/7/2/c)
+
+[^key-705fae964c5ca81d06651344f9d22f67]: Commencement: Sch. para. 19 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-f5166d706319681747329b8473235162]: Commencement: Sch. para. 20 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-a22ccbfde6d0d980c97789f3ef97ec1a]: Commencement: Sch. para. 21 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-1d0fd67008180124b58bdfeeb629204f]: Commencement: Sch. para. 22 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-7782d3aa8064154a626a480ebc2a3d01]: Commencement: Sch. para. 23 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)
+
+[^key-deb73bc33aa132863e28b8a87bce55d9]: Commencement: Sch. para. 24 in force at 1.4.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/98/regulation/1/2)

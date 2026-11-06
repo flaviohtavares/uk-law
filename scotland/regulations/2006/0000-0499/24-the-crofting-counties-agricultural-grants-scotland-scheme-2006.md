@@ -1,0 +1,465 @@
+---
+title: The Crofting Counties Agricultural Grants (Scotland) Scheme 2006
+id: ssi/2006/24
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-01-18'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2006/24
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2006/24/pdfs/ssien_20060024_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/24/pdfs/ssi_20060024_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/24/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Crofting Counties Agricultural Grants (Scotland) Scheme 2006
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2006 No. 24
+
+CROFTERS, COTTARS AND SMALL LANDHOLDERS
+
+The Crofting Counties Agricultural Grants (Scotland) Scheme 2006
+
+Made
+
+18th January 2006
+
+Laid before the Scottish Parliament
+
+24th January 2006
+
+Coming into force
+
+25th January 2006
+
+The Scottish Ministers, in exercise of the powers conferred by sections 42(1), (2) and (3) and 46(4) of the Crofters (Scotland) Act 1993[^f00001] and of all other powers enabling them in that behalf, and after consultation with the Crofters Commission in accordance with section 42(1) of that Act, hereby make the following Scheme:
+
+## PART 1 — INTRODUCTORY
+
+### 1. Citation and commencement[^key-8d27d8daffbb00fbd38bfa4734080e35]
+
+This Scheme may be cited as the Crofting Counties Agricultural Grants (Scotland) Scheme 2006 and shall come into force on 25th January 2006.
+
+### 2. Interpretation[^key-19943aea3f45d8d88b9cbfaae4a08f91]
+
+(1)[^key-09e66affceb114c1b0fbd8d27b242f92] In this Scheme–
+
+- “the Act of 1993” means the Crofters (Scotland) Act 1993;
+- “application” means an application for grant under this Scheme and “applicant” is to be construed accordingly;[^key-f05e9b69f27b10a85ca309845b2cf1fe]
+- “approved” means approved by the Scottish Ministers in writing and “approve” and “approval” shall be construed accordingly;
+- “authorised person” means a person who is authorised by the Scottish Ministers, either generally or specifically, to act in relation to matters arising under this Scheme;[^key-edd8a52d674a097737e82c7e46a46595]
+- “[^key-e893ad0ea4bf96cad2bfeb46435793a0]**Commission Regulation 65/2011**” means Commission Regulation (EU) No 65/2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1698/2005, as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures, as amended from time to time (except in relation to paragraph 6(4)(c))[^key-a6ec958d230e810a4e6e657f7b150da6];
+- [^key-34bf3bdf914f938118991ed38034bf10]...
+- “Commission Implementing Regulation 809/2014” means Commission Implementing Regulation ([^key-039f0a1da983f50bdca4f14a1a22d0ea]EU) No 809/2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance, as amended from time to time;
+- “crofter” includes any grazings committee or grazings constable appointed under section 47 of the Act of 1993 and in the application of this Scheme to a grazings committee or a grazings constable any reference to a croft shall be construed as a reference to the common grazings for the management of which the committee or, as the case may be, the grazings constable is responsible;
+- “designated maps” means the four maps numbered 1 to 4, each such map being marked “Map of less-favoured farming areas in Scotland”, dated 5th May 1991, signed by the Secretary of State for Scotland and deposited at the offices of the Scottish Government Rural Payments and Inspections Directorate, Saughton House, Broomhouse Drive, Edinburgh EH11 3XD;[^key-f35e51bf158ffc78dff5446fc5fac42e]
+- “eligible occupier” means—[^key-5cbd412c185304fb77bd2bcaaa57280d]
+  - (a) an owner-occupier crofter;
+  - (b) the subtenant of a croft or part of a croft occupying under a sublease granted by a crofter with the written consent of the Crofters Commission under section 27(2) of the Act of 1993 and in accordance with any conditions imposed by them under section 27(5) of that Act; or
+  - (c) the tenant under a short lease of an owner-occupied croft (or any part of it) granted by an owner-occupier crofter with the consent of the Crofters Commission under section 29A(1) of the Act of 1993 and in accordance with any conditions imposed by them under section 29A(4) of that Act;
+- “Less Favoured Area” means the land shown coloured in blue or in pink on the designated maps–
+  - (a) which is situated in an area included in the list of less favoured farming areas adopted by Council Directive [84/169/EEC](https://www.legislation.gov.uk/european/directive/1984/0169) concerning the Community list of less favoured farming areas[^f00002] within the meaning of Directive [75/268/EEC](https://www.legislation.gov.uk/european/directive/1975/0268)[^f00003] (United Kingdom) \[11\]; and
+  - (b) which is, in the opinion of the Scottish Ministers, inherently suitable for extensive livestock production but not for the production of crops in quantity materially greater than that necessary to feed such livestock as are capable of being maintained on such land, and whose agricultural production is, in the opinion of the Scottish Ministers, restricted in its range by, or any combination of, soil, relief, aspect or climate;
+- “livestock” includes any creature kept for the production of food, wool, skins, or fur or for the purpose of its use in the farming of land; [^key-4a4e7b64d74b057d2b030ed2380673d9]...
+- “operation” means any of the operations specified in the Schedule to this Scheme;
+- “Regulation 1305/2013” means Regulation ([^key-2384d1c6b9ec55d9ff29d5b50aa1c1d8]EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698); and
+- “young farmer” has the same meaning as in point (n) of Article 2(1) of Regulation 1305/2013 as read with Annex II of that Regulation.
+
+(2)[^key-d03eb3d897f7fbadc4414b78c6164882] A reference in this Scheme to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in section 15 of the Electronic Communications Act 2000 which has been recorded and is consequently capable of being reproduced.
+
+## PART 2 — GRANTS IN RESPECT OF OPERATIONS
+
+### 3. Grants to be made[^key-bccc707e9053468e1b44144e43adedad]
+
+(1) Subject to the provisions of this Scheme, the Scottish Ministers may make a grant under this Part of this Scheme to a crofter or eligible occupier towards the approved cost of any operation or part of an operation[^key-67182982c83d8e5bd314f0ff2136c68b] of a kind specified in the Schedule to this Scheme (except where the purpose of an operation[^key-b5f3d795d0ba2a7f9cd1279a9db1e695] is to replace an existing asset) carried out for the purpose of aiding and developing agricultural production for one of the following purposes:–
+
+- (a) to reduce production costs;
+- (b) to improve and redeploy production;
+- (c) to increase quality;
+- (d) to preserve and improve the natural environment, hygiene conditions and animal welfare standards;
+- (e) to promote the diversification of agricultural activities
+
+in the case of a crofter or on behalf of a crofter, on the croft and, in the case of an eligible occupier, on the croft [^key-269095e72784d226db9e0915c173fa89]... or part of a croft, as the case may be, occupied by that eligible occupier.
+
+(2) The Scottish Ministers may determine in each financial year the amount of grant payable–
+
+- (a) nationally;
+- (b) for specific areas as determined by the Scottish Ministers; or
+- (c) for specific activities as defined by the Scottish Ministers.
+
+(3) The Scottish Ministers may refuse an application for grant solely on the grounds that to approve that application would result in the amount determined under paragraph (2) nationally, for the specific area or for the specific activity being exceeded.
+
+(4) For the purpose of this paragraph, “approved cost” shall mean the cost approved for the purposes of a grant under this Part of this Scheme and comprising the aggregate of–
+
+- (a) the expenditure reasonably incurred by the crofter or eligible occupier in respect of materials required for the purpose of carrying out the relevant operation; and
+- (b) such other sum as the Scottish Ministers may deem reasonable.
+
+### 4. Application for and conditions of grant[^key-b18952b003f65b00525c82a6dac09890]
+
+(1) Any application by a crofter or eligible occupier for approval of the cost of any such operation for the purpose of obtaining a grant shall be submitted by the crofter or eligible occupier, and approved by the Scottish Ministers prior to incurring costs, or to the commencement of any work, on the operation.
+
+(2) The Scottish Ministers may, as they think fit, either refuse to approve the cost of any operation or approve it in whole or in part for the purposes of a grant under this Part of this Scheme, and any such approval may be given and any such grant may be made, subject to such conditions as the Scottish Ministers think fit.
+
+(3) Any approval of approved cost as specified in paragraph 3(4) of this Scheme for the purposes of a grant under this Part of this Scheme may be varied or withdrawn by the Scottish Ministers with the written consent of the applicant.
+
+(4) The Scottish Ministers may specify in approvals for applications referred to in paragraph 4(1) the date on which work may start on the operation, the date on which the first payment of grant shall be paid and the date on which the final payment shall be made.
+
+### 5. Claims[^key-53a7b57ee3a6cb20a76371cd609d2bf2]
+
+The applicant shall make a claim for the grant in such form as the Scottish Ministers may direct and shall afford to the Scottish Ministers or their duly authorised officer all such facilities as are reasonably necessary to enable the Scottish Ministers to satisfy themselves that any conditions subject to which approval was given have been complied with.
+
+### 6. Restrictions on payment of grant[^key-a053562332015fb396cca5bc1efa04ce]
+
+(1) Subject to sub-paragraph (3), the amount of grant paid, payable or approved by the Scottish Ministers under paragraph 4(1), whether for an operation or part of an operation in any two year period, must not exceed—
+
+- (a) in the case of a grant to a crofter or eligible occupier, £25,000; or
+- (b) in the case of a grant to a grazings committee or to a group approved by the Scottish Ministers consisting of crofters and eligible occupiers or any of these, £125,000.
+
+(2) The two year period referred to in sub-paragraph (1) runs from a date two years before the date on which the current application for grant was received by the Scottish Ministers.
+
+(3) Where the grant referred to in sub-paragraph (1) is for part of an operation and the maximum amount of grant has been paid, no further grant is payable for the same operation.
+
+(4) The Scottish Ministers must not pay a grant where—
+
+- (a) they are satisfied that the use of the land in accordance with an operation or part of an operation would frustrate the purposes of any assistance previously given out of money provided by, or under, any statutory provision or by the European Union;
+- (b) they are satisfied that any payment under this Scheme would duplicate any assistance previously given, or to be given, out of money provided by, or under, any statutory provision or by the European Union; or
+- (c) the crofter or eligible occupier is excluded from support under Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) on support for rural development by the European Agricultural Fund for Rural Development pursuant to Article 30(2) of Commission Regulation 65/2011 as that Article of that Commission Regulation had effect immediately before IP completion day[^key-802fe424d199edbbd638f2a65170c95f].
+
+(5) Where the amount of grant a crofter or eligible occupier has claimed exceeds, by more than 10%, the amount of grant that person is eligible to receive, the amount of grant payable shall be reduced by the difference between those two amounts, pursuant to Article 63(1) of Commission Implementing Regulation 809/2014.
+
+(6) Sub-paragraph (5) does not apply where the Scottish Ministers are satisfied that the crofter or eligible occupier was not at fault.
+
+### 7. Amount of grant
+
+(1) The amount of grant payable under this Part of this Scheme towards the approved cost of any operation specified in paragraph 1 of the Schedule is the relevant percentage of the approved cost of that operation as determined in accordance with this paragraph and subject to the total amount of grant specified in paragraph 6(1).
+
+(2) In the case of a grant to a crofter or eligible occupier—
+
+- (a) in respect of an operation in a Less Favoured Area—
+  - (i) 60%; or
+  - (ii) where sub-paragraph (4) applies, 80%; or
+- (b) in respect of an operation in an area other than a Less Favoured Area—
+  - (i) 40%; or
+  - (ii) where sub-paragraph (4) applies, 60%.
+
+(3) In the case of a grant to a grazings committee or to a group referred to in paragraph 6(1)(b)—
+
+- (a) in respect of an operation in a Less Favoured Area—
+  - (i) 80%; or
+  - (ii) where sub-paragraph (4) applies, 90%; or
+- (b) in respect of an operation in an area other than a Less Favoured Area—
+  - (i) 60%; or
+  - (ii) where sub-paragraph (4) applies, 80%.
+
+(4) This sub-paragraph applies where the applicant crofter, eligible occupier or each member of the grazings committee or group referred to in paragraph 6(1)(b) is a young farmer who has set up for the first time as the head of an agricultural holding within the period beginning five years before, and ending on, the date of submission of the application for grant.
+
+(5) If the Scottish Ministers are satisfied that any condition subject to which a grant under this Part of this Scheme may be made has not been complied with in carrying out the relevant operation, they may, notwithstanding paragraph 7(1), either withhold payment of the grant or make payment of a grant of such amount as they may in all the circumstances of the case consider reasonable.
+
+## PART 3 — GRANTS IN RESPECT OF CONTRIBUTIONS
+
+### 8. Grants to be made[^key-77b8b6baa5e49ba6addbc8296d875c91]
+
+Subject to the provisions of this Scheme, the Scottish Ministers may make a grant under this Part of this Scheme to a crofter or eligible occupier in respect of any contribution made by him under any such agreement as is referred to in section 47 of the Roads (Scotland) Act 1984[^f00004] towards the expenses of the provision of a cattle grid for the purpose of aiding and developing agricultural production, in the case of a crofter, on his croft and, in the case of an eligible occupier, on the croft [^key-871ce6668d974268f8387d85ccad9186]... or part of a croft, as the case may be, in respect of which he is the eligible occupier.
+
+### 9. Application for and conditions of grant[^key-f6608cacfc255bdc86031e5b3c35b368]
+
+(1) Any application by a crofter or eligible occupier for a grant under this Part of this Scheme shall be made in such form and manner and at such time as the Scottish Ministers may from time to time require and the applicant shall furnish all such particulars and information relating to the cattle grid provided or proposed to be provided as the Scottish Ministers may require.
+
+(2) Any grant which may be made under this Part of this Scheme shall be subject to such conditions as may be intimated in writing to the applicant by the Scottish Ministers at the time of the making of the grant.
+
+### 10. Amount of grant[^key-ff1ba1956ac87aba15b1603f3bc6c2f5]
+
+(1) The amount of grant payable under this Part of this Scheme in respect of a contribution must not exceed the relevant percentage of the contribution, as determined in accordance with this paragraph, and the total amount of grant specified in paragraph 6(1).
+
+(2) In the case of a grant to a crofter or eligible occupier—
+
+- (a) where the croft or, as the case may be, part of the croft is in a Less Favoured Area—
+  - (i) 60%; or
+  - (ii) where sub-paragraph (4) applies, 80%; or
+- (b) where the croft or, as the case may be, part of the croft is in an area other than a Less Favoured Area—
+  - (i) 40%; or
+  - (ii) where sub-paragraph (4) applies, 60%.
+
+(3) In the case of a grant to a grazings committee or to a group referred to in paragraph 6(1)(b)—
+
+- (a) where the croft or, as the case may be, part of the croft is in a Less Favoured Area—
+  - (i) 80%; or
+  - (ii) where sub-paragraph (4) applies, 90%; or
+- (b) where the croft or, as the case may be, part of the croft is in an area other than a Less Favoured Area-
+  - (i) 60%; or
+  - (ii) where sub-paragraph (4) applies, 80%.
+
+(4) This sub-paragraph applies where the applicant crofter, eligible occupier or each member of the grazings committee or group referred to in paragraph 6(1)(b) is a young farmer who has set up for the first time as the head of an agricultural holding within the period beginning five years before, and ending on, the date of submission of the application for grant.
+
+## PART 3A — GRANTS IN RESPECT OF THE ESTABLISHMENT OF GRAZING COMMITTEES[^key-2af2d0f99ab9dd77dfbe3fbc21c423f5]
+
+### 10A. Grants to be made
+
+(1) Subject to the provisions of this Scheme, the Scottish Ministers may make a grant under this Part of this Scheme to a crofter or eligible occupier who shares in a common grazing in respect of the establishment of a grazings committee to be appointed under section 47(1) of the Act of 1993.
+
+(2) A grant may be made under this Part of this Scheme provided that no grazing committee was appointed in respect of the common grazing during the period beginning three years before, and ending on, the date on which the current application for grant was received by the Scottish Ministers.
+
+### 10B. Application for and conditions of grant
+
+(1) Any application for a grant under this Part of this Scheme is to be made in such form and manner and at such time as the Scottish Ministers may from time to time require and, in particular, must be submitted with the consent of a majority of those persons who share in the common grazing.
+
+(2) Any grant which may be made under this Part of this Scheme is subject to such conditions as may be intimated in writing to the applicant by the Scottish Ministers at the time of the making of the grant.
+
+### 10C. Amount of grant
+
+The amount of any grant payable under this Part of this Scheme must not exceed £500.
+
+## PART 4 — GENERAL
+
+### 11. Crofters Commission to be agent[^key-7f71fa0f01cb13a52cb54738acaa171c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11A. Power of authorised persons[^key-015c9870307358f5f60942398772c87b]
+
+(1) An authorised person may, at all reasonable hours and on producing if so required, their authorisation, enter on any land or premises–
+
+- (a) in respect of which an application under paragraph 4 or Part 3 or Part 3A[^key-f53d1ad1a97d035bd2cb66fc8e97ccab], or a claim under paragraph 5, has been made; or
+- (b) on which the authorised person has reasonable grounds to believe that documents relating to that application or claim are being kept for any of the purposes specified in sub-paragraph (2).
+
+(2) The purposes in sub-paragraph (1) are–
+
+- (a) inspecting the land to which the application under paragraph 4 or Part 3 or Part 3A[^key-508f3adb51405ec11f4e8375635352ff] or claim under paragraph 5 relates;
+- (b) verifying the accuracy of any information provided by a crofter or eligible occupier or on their behalf, relating to such an application or claim; and
+- (c) determining whether or not a crofter or eligible occupier has complied with any condition upon which an application has been approved or grant paid.
+
+(3) An authorised person who has entered any land in terms of sub-paragraph (1) may–
+
+- (a) inspect the land and any premises, plant, machinery, equipment, document or record on it which that person reasonably believes relates to an application or claim;
+- (b) require the crofter or eligible occupier, or their employee or agent, to produce, or secure the production of, any document or supply any additional information in their possession or under their control relating to their application or claim, as the case may be;
+- (c) where any information referred to in sub-paragraph (3)(b) is kept by means of a computer, have access to any computer and any associated apparatus or material which is or has been used for storing that information, and require that information to be reproduced in a visible and legible form in which it may be taken away;
+- (d) require copies of, or extracts from, any such document or other record referred to in sub-paragraphs (3)(a) or (b) to be produced;
+- (e) retain a copy of any document produced to the authorised person;
+- (f) seize and retain any document or other record which an authorised person reasonably believes may be required as evidence in proceedings under this Scheme; and
+- (g) in so far as may be necessary for the purposes of sub-paragraph (2)(b) or (c), inspect and count livestock on the land and may, for this purpose, require the applicant to arrange for the collection, penning and securing of such livestock.
+
+(4) A crofter or eligible occupier and their employee or agent shall give an authorised person all reasonable assistance in relation to the matters mentioned in sub-paragraphs (1) and (3).
+
+(5)[^key-6823aa46c2bfa4c7e35499d5ccf8d0ae] An authorised person entering any land under sub-paragraph (1) may be accompanied by such other person as the authorised person considers necessary, and sub-paragraphs (3) and (4) shall apply to that person when acting under the instructions of an authorised person as they apply to an authorised person.
+
+(6) The powers of an authorised person under sub-paragraph (1) apply to any land used for the purposes of a dwellinghouse only where reasonable notice of their intended exercise has been given to all residents of that dwellinghouse.
+
+(7) Where a crofter or eligible occupier or their employee or agent intentionally obstructs an authorised person (or any person accompanying that person and acting under that person’s instructions) in the exercise of the powers under sub-paragraphs (1) and (3), the Scottish Ministers may–
+
+- (a) withhold the whole or any part of the grant payable to the crofter or eligible occupier;
+- (b) recover from the crofter or eligible occupier the amount of grant, or any instalment of grant, paid to them, or such part thereof, as they consider reasonable, in like manner as if it were a debt due by the crofter or eligible occupier to them;
+- (c) require the crofter or eligible occupier to pay to them an additional sum equal to no more than 10% of the grant paid or payable.
+
+### 12. Payment of grant in instalments[^key-a9c70e387d6dd2cb7fd7b2bc529596a3]
+
+The Scottish Ministers may, at the request of the applicant, make payment of any grant under this Scheme in instalments, which instalments may be paid in such amounts, at such times, either during or after the carrying out of the relevant operation or work, and subject to such conditions as the Scottish Ministers may specify.
+
+### 13. Recovery of grant, etc.[^key-be03d83a179e1f49a9e83ff8e8a80abf]
+
+(1) Where, after the date upon which any grant, or any instalment of grant, has been paid under this Scheme, the Scottish Ministers are satisfied that the applicant has not complied, or is not complying, with a condition imposed on the applicant–
+
+- (a) under paragraph 4(2) of this Scheme, [^key-2bfb09744b1453d7c3b3bffe410d0b70]... in relation to the approval of the cost of an operation;
+- (b) under paragraph 4(1) of this Scheme, or paragraph 9(2), or paragraph 10B(2) of[^key-6e9ea6ac2997d7c063b29b836de0f2b4] this Scheme, in relation to a grant; or
+- (c) under paragraph 12 of this Scheme in relation to an instalment of grant,
+
+they may–
+
+- (aa)[^key-9fc697442ae086d1f51467046cf06013] recover from the applicant the amount of grant, or any instalment of grant, paid to the applicant, or such part thereof, as they consider reasonable, in like manner as if it were a debt due by the applicant to them; and[^key-8e34de948cb1414e41d1a9acb725919a]
+- (bb) where, in their view the conduct of the applicant was reckless or was carried out with the intention of breaching any condition imposed in the grant, require the applicant to pay to them an additional sum equal to no more than 10% of the grant paid or payable.
+
+(2) The Scottish Ministers may terminate an award of grant under paragraph 8 of this Scheme and if they do so, they may also prohibit the applicant from submitting any new grant application for such period from the date of termination as the Scottish Ministers may specify.
+
+(3) The powers conferred on the Scottish Ministers by sub-paragraphs (1) and (2) shall be exercisable by a notice served on the applicant by post at his last known address and in sub-paragraph (2), “specify” means specify in such notice.
+
+(4)
+
+- (a) Where the Scottish Ministers exercise the power to recover conferred by this paragraph of this Scheme they may also recover on demand interest on the sum to be recovered at a rate of interest one per centum above the sterling three month London interbank offered rate on a day to day basis from the date of discovery of the non compliance with, or breach of, any condition imposed on the applicant[^key-c87de8f73ecc0fc69b1cf11ac8e637e3] until the date of recovery.
+- (b) In any proceedings for recovery under this Scheme, a certificate issued by the Scottish Ministers stating the rate or rates of interest, the amount of such interest recoverable and the period for which such interest is calculated, shall unless the contrary is shown, be conclusive of those matters.
+
+### 13A. Record keeping[^key-4d18adf0e7473a8690b2e87050f04cd7]
+
+(1) A crofter or eligible occupier must keep any invoice, account or other document relating to a claim for grant for a period of four years after the payment of any grant is made, or for such other period as the Scottish Ministers specify in the grant.
+
+(2) If the crofter or eligible occupier transfers the original of any such document to another person in the normal course of business, the crofter or eligible occupier must instead keep a copy of that document for the period referred to in sub-paragraph (1).
+
+(3) Sub-paragraph (1) shall not apply where the document has been removed by any person lawfully authorised to remove it.
+
+### 14. Revocation[^key-282dd28fc6942a4c59facc0595407c04]
+
+The Crofting Counties Agricultural Grants (Scotland) Scheme 1988[^f00005], the Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 1992[^f00006] and the Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 1994[^f00007] are hereby revoked.
+
+### 15. Transitional Provisions[^key-f7523efdcc7addfbf71936b3d4f4e754]
+
+(1) Notwithstanding the revocation of the Schemes referred to in paragraph 14, and subject to the provisions of sub-paragraph (2), any application made before 1st April 2006 for payment of grant under those Schemes shall be administered under those Schemes and grant shall be paid under those Schemes.
+
+(2) In the case of any operation referred to in paragraph 5(1)(b) of the Crofting Counties Agricultural Grants (Scotland) Scheme 1988[^f00008], any claim for grant made by 31st December 2006 may be administered and paid under that Scheme.
+
+(3) Paragraph 7 of the Crofting Counties Agricultural Grants (Scotland) Scheme 1988 shall not apply to any claim for grant referred to in sub-paragraph (2).
+
+RHONA BRANKIN
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE — ELIGIBLE OPERATIONS
+
+Paragraphs 3(1) and 12
+
+**1.**[^key-382cc6b4ab59f89462d956ab8f7fc34d] Subject to the provisions of this Schedule and of paragraph 7 of this Scheme, the approved cost of any operation specified in the following list is an operation under this Scheme—
+
+- 1\. Erection or improvement of agricultural buildings and shelters for the temporary housing and sheltering of out-wintered livestock.
+- 2\. Works associated with agricultural buildings, including yards, hard standings, dungsteads, and silos (other than grain silos).
+- 3\. Investment in land management, including initial grassland improvement works for the restoration of degraded land and the control of bracken.
+- 4\. Slurry stores.
+- 5\. Arterial drainage and field drainage.
+- 6\. All other forms of general drainage including under drainage, hill drainage and ditching.
+- 7\. Provision or improvement of facilities for the organised feeding of out-wintered livestock, including permanently fixed troughs and feed barriers, and associated concrete bases.
+- 8\. Provision or improvement of equipment for the handling and treatment of livestock.
+- 9\. Planting of shelter belts and the provision of fences, hedges, walls, gates or stock-grids.
+- 10\. Provision or improvement of amenities, including water supplies, mains electricity connections, electricity generators or gas supplies.
+- 11\. Provision of electrical equipment.
+- 12\. Provision or improvement of access tracks to land improvement areas, roads, bridges, culverts or boat slips.
+
+**2.**[^key-560054657d5b9b202e9f2dde32739ab3] The amount of any grant payable under this Scheme towards the approved cost of carrying out any work[^key-ec79a91642322c73e05904dc33ff1205] which is incidental to the carrying out of an operation of any kind specified in this Schedule or necessary or proper in the carrying out of that operation or for securing the full benefit thereof shall be calculated at the rate of grant appropriate to that in accordance with paragraph 7(1) of this Scheme[^key-9e6f4e6d3c90a952d04d65cf943bd706].
+
+**3.**[^key-699768821fc52c17da1a4f28cd124bb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(This note is not part of the Scheme)
+
+This Scheme replaces the Crofting Counties Agricultural Grants (Scotland) Scheme 1988, the Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 1992 and the Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 1994. It provides that the Scottish Ministers may make grants to crofters and to certain other occupiers of land in the crofting counties–
+
+- (a) in respect of specified operations carried out by them for the purpose of aiding and developing agricultural production on crofts or holdings (paragraphs 3–7 and the Schedule); and
+- (b) in respect of contributions made by them under such agreements as are referred to in section 47 of the Roads (Scotland) Act 1984 towards the expenses of providing cattle grids for the said purpose (paragraphs 8–10).
+
+This Scheme differs from the 1998 Scheme in that it sets grant rates at 50% in Less Favoured Areas and 40% in other areas of the Crofting Counties. It also provides that the maximum amount of grant is £25,000 for an individual and £125,000 for groups of individuals, in any two year period.
+
+All applications have to be made and approved before work on the project commences and the Scottish Ministers have been given the power to specify in approvals of Schemes the relevant dates by which work may start and grant payments may be claimed.
+
+The Scottish Ministers are given the additional power to set budgets nationally or for specific activities and also the power to refuse applications if the national or specific activity budget limit has been reached.
+
+## Annotations
+
+[^f00001]: Footnote: [1993 c. 44](https://www.legislation.gov.uk/ukpga/1993/44). The functions of the Secretary of State transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). The requirement to obtain the approval of the Treasury was removed by section 55 of that Act.
+
+[^key-8d27d8daffbb00fbd38bfa4734080e35]: Commencement: Para. 1 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^key-19943aea3f45d8d88b9cbfaae4a08f91]: Commencement: Para. 2 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^key-09e66affceb114c1b0fbd8d27b242f92]: Textual amendment: Para. 2 renumbered as para. 2(1) (17.3.2008) by virtue of [The Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 2008 (S.S.I. 2008/58)](https://www.legislation.gov.uk/ssi/2008/58), [paras. 1](https://www.legislation.gov.uk/ssi/2008/58/paragraph/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2008/58/paragraph/2/2/a)
+
+[^key-f05e9b69f27b10a85ca309845b2cf1fe]: Textual amendment: Words in para. 2(1) inserted (1.4.2011) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/2/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))
+
+[^key-edd8a52d674a097737e82c7e46a46595]: Textual amendment: Words in para. 2(1) inserted (17.3.2008) by [The Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 2008 (S.S.I. 2008/58)](https://www.legislation.gov.uk/ssi/2008/58), [paras. 1](https://www.legislation.gov.uk/ssi/2008/58/paragraph/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2008/58/paragraph/2/2/b)
+
+[^key-e893ad0ea4bf96cad2bfeb46435793a0]: Textual amendment: Words in para. 2(1) inserted (1.7.2011) by [The Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 2011 (S.S.I. 2011/262)](https://www.legislation.gov.uk/ssi/2011/262), [paras. 1](https://www.legislation.gov.uk/ssi/2011/262/paragraph/1), [3(2)](https://www.legislation.gov.uk/ssi/2011/262/paragraph/3/2)
+
+[^key-a6ec958d230e810a4e6e657f7b150da6]: Textual amendment: Words in para. 2(1) inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [3(2)](https://www.legislation.gov.uk/ssi/2019/60/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-34bf3bdf914f938118991ed38034bf10]: Textual amendment: Words in para. 2(1) omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [18](https://www.legislation.gov.uk/ssi/2018/391/regulation/18)
+
+[^key-039f0a1da983f50bdca4f14a1a22d0ea]: Textual amendment: Words in para. 2(1) inserted (6.4.2015) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/2/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-f35e51bf158ffc78dff5446fc5fac42e]: Textual amendment: Words in para. 2(1) inserted (1.4.2011) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/2/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))
+
+[^key-5cbd412c185304fb77bd2bcaaa57280d]: Textual amendment: Words in para. 2(1) substituted (1.4.2011) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/2/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))
+
+[^f00002]: Footnote: O.J. L 82, 26.3.84, p.67.
+
+[^f00003]: Footnote: O.J. L 128, 19.5.75, p.8.
+
+[^key-4a4e7b64d74b057d2b030ed2380673d9]: Textual amendment: Word in para. 2(1) omitted (6.4.2015) by virtue of [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/2/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-2384d1c6b9ec55d9ff29d5b50aa1c1d8]: Textual amendment: Words in para. 2(1) inserted (6.4.2015) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/2/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-d03eb3d897f7fbadc4414b78c6164882]: Textual amendment: Para. 2(2) inserted (17.3.2008) by [The Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 2008 (S.S.I. 2008/58)](https://www.legislation.gov.uk/ssi/2008/58), [paras. 1](https://www.legislation.gov.uk/ssi/2008/58/paragraph/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2008/58/paragraph/2/2/c)
+
+[^key-bccc707e9053468e1b44144e43adedad]: Commencement: Para. 3 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^key-67182982c83d8e5bd314f0ff2136c68b]: Textual amendment: Words in para. 3(1) substituted (1.4.2011) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/3/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))
+
+[^key-b5f3d795d0ba2a7f9cd1279a9db1e695]: Textual amendment: Words in para. 3(1) substituted (1.4.2011) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/3/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))
+
+[^key-269095e72784d226db9e0915c173fa89]: Textual amendment: Words in para. 3(1) omitted (1.4.2011) by virtue of [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(3)(c)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/3/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))
+
+[^key-b18952b003f65b00525c82a6dac09890]: Commencement: Para. 4 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^key-53a7b57ee3a6cb20a76371cd609d2bf2]: Commencement: Para. 5 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^key-a053562332015fb396cca5bc1efa04ce]: Textual amendment: Paras. 6, 7 substituted (6.4.2015) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(3)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/3) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-802fe424d199edbbd638f2a65170c95f]: Textual amendment: Words in para. 6(4)(c) inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [3(3)](https://www.legislation.gov.uk/ssi/2019/60/regulation/3/3) (as amended by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-77b8b6baa5e49ba6addbc8296d875c91]: Commencement: Para. 8 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^f00004]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
+
+[^key-871ce6668d974268f8387d85ccad9186]: Textual amendment: Words in para. 8 omitted (1.4.2011) by virtue of [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(6)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/6) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))
+
+[^key-f6608cacfc255bdc86031e5b3c35b368]: Commencement: Para. 9 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^key-ff1ba1956ac87aba15b1603f3bc6c2f5]: Textual amendment: Para. 10 substituted (6.4.2015) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(4)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/4) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-2af2d0f99ab9dd77dfbe3fbc21c423f5]: Textual amendment: Pt. 3A inserted (6.4.2015) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(5)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/5) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-7f71fa0f01cb13a52cb54738acaa171c]: Textual amendment: Para. 11 revoked (1.4.2011) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(8)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/8) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))
+
+[^key-015c9870307358f5f60942398772c87b]: Textual amendment: Para. 11A inserted (17.3.2008) by [The Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 2008 (S.S.I. 2008/58)](https://www.legislation.gov.uk/ssi/2008/58), [paras. 1](https://www.legislation.gov.uk/ssi/2008/58/paragraph/1), [2(4)](https://www.legislation.gov.uk/ssi/2008/58/paragraph/2/4)
+
+[^key-f53d1ad1a97d035bd2cb66fc8e97ccab]: Textual amendment: Words in para. 11A(1)(a) inserted (6.4.2015) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(6)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/6) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-508f3adb51405ec11f4e8375635352ff]: Textual amendment: Words in para. 11A(2)(a) inserted (6.4.2015) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(6)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/6) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-6823aa46c2bfa4c7e35499d5ccf8d0ae]: Textual amendment: Para. 11A(5) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [3(4)](https://www.legislation.gov.uk/ssi/2019/60/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a9c70e387d6dd2cb7fd7b2bc529596a3]: Commencement: Para. 12 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^key-be03d83a179e1f49a9e83ff8e8a80abf]: Commencement: Para. 13 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^key-2bfb09744b1453d7c3b3bffe410d0b70]: Textual amendment: Words in para. 13(1)(a) omitted (6.4.2015) by virtue of [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(7)(a)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/7/a) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-6e9ea6ac2997d7c063b29b836de0f2b4]: Textual amendment: Words in para. 13(1)(b) substituted (6.4.2015) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(7)(b)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/7/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-9fc697442ae086d1f51467046cf06013]: Textual amendment: Para. 13(1)(aa)(bb) substituted for words (17.3.2008) by virtue of [The Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 2008 (S.S.I. 2008/58)](https://www.legislation.gov.uk/ssi/2008/58), [paras. 1](https://www.legislation.gov.uk/ssi/2008/58/paragraph/1), [2(5)(a)(i)(ii)](https://www.legislation.gov.uk/ssi/2008/58/paragraph/2/5/a/i)
+
+[^key-8e34de948cb1414e41d1a9acb725919a]: Textual amendment: Word in para. 13(1)(aa) substituted (6.4.2015) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(7)(c)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/7/c) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-c87de8f73ecc0fc69b1cf11ac8e637e3]: Textual amendment: Words in para. 13(4)(a) substituted (17.3.2008) by virtue of [The Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 2008 (S.S.I. 2008/58)](https://www.legislation.gov.uk/ssi/2008/58), [paras. 1](https://www.legislation.gov.uk/ssi/2008/58/paragraph/1), [2(5)(b)(i)(ii)](https://www.legislation.gov.uk/ssi/2008/58/paragraph/2/5/b/i)
+
+[^key-4d18adf0e7473a8690b2e87050f04cd7]: Textual amendment: Para. 13A inserted (17.3.2008) by [The Crofting Counties Agricultural Grants (Scotland) Amendment Scheme 2008 (S.S.I. 2008/58)](https://www.legislation.gov.uk/ssi/2008/58), [paras. 1](https://www.legislation.gov.uk/ssi/2008/58/paragraph/1), [2(6)](https://www.legislation.gov.uk/ssi/2008/58/paragraph/2/6)
+
+[^key-282dd28fc6942a4c59facc0595407c04]: Commencement: Para. 14 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^f00005]: Footnote: S.I. [1988/559](https://www.legislation.gov.uk/uksi/1988/559), amended by S.I. [1992/3291](https://www.legislation.gov.uk/uksi/1992/3291) and [1994/1013](https://www.legislation.gov.uk/uksi/1994/1013).
+
+[^f00006]: Footnote: [S.I.1992/3291](https://www.legislation.gov.uk/uksi/1992/3291).
+
+[^f00007]: Footnote: S.I. [1994/1013](https://www.legislation.gov.uk/uksi/1994/1013).
+
+[^key-f7523efdcc7addfbf71936b3d4f4e754]: Commencement: Para. 15 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^f00008]: Footnote: S.I. [1988/559](https://www.legislation.gov.uk/uksi/1988/559); paragraph 5(1)(b) was inserted by S.I. [1994/1013](https://www.legislation.gov.uk/uksi/1994/1013), paragraph 3.
+
+[^key-382cc6b4ab59f89462d956ab8f7fc34d]: Textual amendment: Sch. para. 1 substituted (6.4.2015) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2015 (S.S.I. 2015/105)](https://www.legislation.gov.uk/ssi/2015/105), [paras. 1](https://www.legislation.gov.uk/ssi/2015/105/paragraph/1), [3(8)](https://www.legislation.gov.uk/ssi/2015/105/paragraph/3/8) (with [para. 4](https://www.legislation.gov.uk/ssi/2015/105/paragraph/4))
+
+[^key-560054657d5b9b202e9f2dde32739ab3]: Commencement: Sch. para. 2 in force at 25.1.2006, see [para. 1](https://www.legislation.gov.uk/ssi/2006/24/paragraph/1)
+
+[^key-ec79a91642322c73e05904dc33ff1205]: Textual amendment: Word in sch. para. 2 substituted (1.4.2011) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(9)(a)(i)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/9/a/i) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))
+
+[^key-9e6f4e6d3c90a952d04d65cf943bd706]: Textual amendment: Words in sch. para. 2 substituted (1.4.2011) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(9)(a)(ii)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/9/a/ii) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))
+
+[^key-699768821fc52c17da1a4f28cd124bb1]: Textual amendment: Sch. para. 3 revoked (1.4.2011) by [The Crofting Counties Agricultural Grants (Scotland) Variation Scheme 2011 (S.S.I. 2011/72)](https://www.legislation.gov.uk/ssi/2011/72), [paras. 1](https://www.legislation.gov.uk/ssi/2011/72/paragraph/1), [3(9)(b)](https://www.legislation.gov.uk/ssi/2011/72/paragraph/3/9/b) (with [para. 4](https://www.legislation.gov.uk/ssi/2011/72/paragraph/4))

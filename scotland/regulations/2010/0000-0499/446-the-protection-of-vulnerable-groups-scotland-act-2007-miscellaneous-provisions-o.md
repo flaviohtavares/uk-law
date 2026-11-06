@@ -1,0 +1,503 @@
+---
+title: The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010
+id: ssi/2010/446
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-12-14'
+text_date: '2025-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/446
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/446/pdfs/ssien_20100446_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/446/pdfs/ssi_20100446_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/446/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010
+
+> Text as at 2025-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 446
+
+Children And Young Persons
+
+Protection Of Vulnerable Adults
+
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010
+
+Made
+
+14th December 2010
+
+Coming into force in accordance with article 1(2)
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 87(1), (2) and (3) and 98(1) and (2) of, and paragraph 28 of schedule 2 and paragraph 13 of schedule 3 to, the Protection of Vulnerable Groups (Scotland) Act 2007[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 100(4) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-6828f486b3a10b06d349cf233cf77923]
+
+(1) This Order may be cited as the Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Order 2010.
+
+(2) This Order comes into force on the same day as section 92 of the Protection of Vulnerable Groups (Scotland) Act 2007.
+
+### 2. Interpretation[^key-62278ad3af3ac87dd5989477738cfa71]
+
+In this Order—
+
+- “the 2006 Act” means the Safeguarding Vulnerable Groups Act 2006[^f00002];
+- “the 2007 Act” means the Protection of Vulnerable Groups (Scotland) Act 2007; and
+- “the SVG (NI) Order 2007” means the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00003].
+
+## PART 2 — Amendment of the 2007 Act
+
+### 3. Amendment of the 2007 Act[^key-4a0ac03fabce3f6996d451cc71db17ba]
+
+The 2007 Act is amended in accordance with articles 4 to 13.
+
+### 4. Amendment of section 10 (organisational referrals etc.) of the 2007 Act[^key-383d4a161289e2ce51208341d005b39c]
+
+(1) Section 10 (organisational referrals etc.) of the 2007 Act is amended as follows.
+
+(2) In subsection (1)—
+
+- (a) the words from “where” to the end of the subsection become paragraph (a) (with existing paragraphs (a) and (b) being re-numbered as sub-paragraphs (i) and (ii)); and
+- (b) at the end of the subsection insert—
+
+  > , or
+  >
+  > - (b) where information relating to an individual has been given to Ministers by the Independent Safeguarding Authority
+
+  .
+
+(3) In subsection (4) after “work” insert “(if any)”.
+
+### 5. Amendment of section 18 (police information etc.) of the 2007 Act[^key-1999dbf01be32c51b89ca4254b64c426]
+
+(1) Section 18 (police information etc.) of the 2007 Act is amended as follows.
+
+(2) In subsection (1) after “force”, and after “constable” where it appears for the second time, insert “or the Scottish Crime and Drug Enforcement Agency”.
+
+(3) In subsection (2) “for chief constable” where it appears each time substitute “person”.
+
+(4) In subsection (3) after the word “authority” insert “or the Scottish Police Services Authority”.
+
+### 6. Amendment of section 38 (police access to lists) of the 2007 Act[^key-be7cf09527f0c472cd9317f6cf1100a9]
+
+(1) Section 38 (police access to lists) is amended as follows.
+
+(2) In subsection (1) after “forces” insert “, the Scottish Police Services Authority and the Scottish Crime and Drug Enforcement Agency”.
+
+(3) In subsection (2) after “forces” insert “, the Scottish Police Services Authority and the Scottish Crime and Drug Enforcement Agency”.
+
+### 7. Amendment of section 39 (restrictions on listing in children’s list) of the 2007 Act[^key-219caf4e532a6095c84b31bc952aa301]
+
+(1) Section 39 (restrictions on listing in children’s list) of the 2007 Act is amended as follows.
+
+(2) In subsection (1), the words from “by” to the end of the subsection are repealed.
+
+(3) In subsection (2)(a), for “considered” substitute “dealt with”.
+
+(4) In subsection (3)—
+
+- (a) for paragraph (a) substitute—
+
+  > - (a) the individual’s case has been dealt with in pursuance of relevant corresponding legislation, and
+
+  ; and
+- (b) in paragraph (b), for “by ISA before it made its decision” substitute “before, or when, the individual’s case was last dealt with in pursuance of the relevant corresponding legislation”.
+
+(5) In subsection (4)(b), for “considers” substitute “deals with”.
+
+(6) In subsection (5)—
+
+- (a) after “if” insert “they consider that it would be more appropriate for the individual’s case to be dealt with by ISA.”; and
+- (b) paragraphs (a) and (b) are repealed.
+
+(7) After subsection (5) insert—
+
+> (6) Where—
+>
+> - (a) in pursuance of subsection (5), Ministers do not list an individual in the children’s list under section 14, and
+> - (b) ISA deals with the individual’s case,
+>
+> section 30 applies (with any necessary modifications) as if Ministers had listed the individual in the children’s list under section 14.
+>
+> (7) In this section “relevant corresponding legislation” means—
+>
+> - (a) the Protection of Children Act [1999 (c.14)](https://www.legislation.gov.uk/ukpga/1999/14),
+> - (b) the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43),
+> - (c) sections 142 to 144 of the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32),
+> - (d) the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003,
+> - (e) the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47),
+> - (f) regulations made under Article 70(1) and (2)(e) or 88A(1) and (2)(b) of the Education and Libraries (Northern Ireland) Order 1986,
+> - (g) the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
+
+.
+
+### 8. Amendment of section 40 (restrictions on listing in adults’ list) of the 2007 Act[^key-8dabab928d67c8c77c09bde64e376c50]
+
+(1) Section 40 (restrictions on listing in adults’ list) of the 2007 Act is amended as follows.
+
+(2) In subsection (1), the words from “by” to the end of the subsection are repealed.
+
+(3) In subsection (2)(a), for “considered” substitute “dealt with”.
+
+(4) In subsection (3)—
+
+- (a) for paragraph (a) substitute—
+
+  > - (a) the individual’s case has been dealt with in pursuance of relevant corresponding legislation, and
+
+  ; and
+- (b) in paragraph (b), for “by ISA before it made its decision” substitute “before, or when, the individual’s case was last dealt with in pursuance of the relevant corresponding legislation”.
+
+(5) In subsection (4)(b), for “considers” substitute “deals with”.
+
+(6) In subsection (5)—
+
+- (a) after “if” insert “they consider that it would be more appropriate for the individual’s case to be dealt with by ISA.”; and
+- (b) paragraphs (a) and (b) are repealed.
+
+(7) After subsection (5) insert—
+
+> (6) Where—
+>
+> - (a) in pursuance of subsection (5), Ministers do not list an individual in the adults’ list under section 14, and
+> - (b) ISA deals with the individual’s case,
+>
+> section 30 applies (with any necessary modifications) as if Ministers had listed the individual in the adults’ list under section 14.
+>
+> (7) In this section “relevant corresponding legislation” means—
+>
+> - (a) Part 7 of the Care Standards Act [2000 (c.14)](https://www.legislation.gov.uk/ukpga/2000/14),
+> - (b) the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003,
+> - (c) the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47),
+> - (d) the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
+
+.
+
+### 9. Amendment of section 41 (proceedings from actions for damages) of the 2007 Act[^key-f1d9041ec3a126ed6e078fb5d8e1b458]
+
+In section 41(1)(c) and (2)(b) of the 2007 Act, after the words “18 to 20” insert in each place “(or of any other power or duty to provide information to Ministers in relation to their functions under this Part)”.
+
+### 10. Amendment of section 75 (sources of information) of the 2007 Act[^key-50d2fcc45702b481674d83dbd7dbfa8b]
+
+(1) Section 75 (sources of information) of the 2007 Act is amended as follows.
+
+(2) In subsection (2) after “chief constable” insert “or the Scottish Crime and Drug Enforcement Agency”.
+
+(3) In subsection (3) for “chief constable” where it appears each time substitute “person”.
+
+(4) In subsection (4) after “authority” insert “or the Scottish Police Services Authority”.
+
+(5) In subsection (5) after “63(4)” insert “(or in pursuance of any other power or duty to provide information to Ministers in relation to their functions under this Part)”.
+
+### 11. Amendment of section 76 (police access to scheme information) of the 2007 Act[^key-68b90151c5835a300df1c50250f4325d]
+
+(1) Section 76 (police access to scheme information) is amended as follows.
+
+(2) In subsection (1) for “and the Scottish Police Services Authority” where it appears first substitute “, the Scottish Police Services Authority and the Scottish Crime and Drug Enforcement Agency”;
+
+(3) In subsection (1)(c) for “ or the Scottish Police Services Authority” substitute “, the Scottish Police Services Authority or the Scottish Crime and Drug Enforcement Agency”; and
+
+(4) In subsection (2) for “and the Scottish Police Services Authority” substitute “, the Scottish Police Services Authority and the Scottish Crime and Drug Enforcement Agency”.
+
+### 12. Modification of schedule 2 (regulated work with children) to the 2007 Act[^key-e0305f034b93a897b6c3528f8118551a]
+
+In paragraph 1 of schedule 2 (regulated work with children) to the 2007 Act for “work” where it appears for the second time substitute “work done in Scotland”.
+
+### 13. Modification of schedule 3 (regulated work with adults) to the 2007 Act[^key-c225475d825ef6cf81e3aa5f2a7de1fd]
+
+In paragraph 1 of schedule 3 (regulated work with adults) to the 2007 Act for “work” where it appears for the second time substitute “work done in Scotland”.
+
+## PART 3 — Provision of Information by Ministers and Double Barring
+
+### 14. Provision of information by Ministers to the Independent Safeguarding Authority, the Secretary of State and the Department of Justice in Northern Ireland[^key-19ba2cfdb00825473baae76c235893b6]
+
+(1) Ministers may provide to a person specified in paragraph (2) (for the purposes specified in paragraph (2) in relation to such a person) any information specified in paragraph (3).
+
+(2) The persons specified are—
+
+- (a) the Independent Safeguarding Authority for the purposes of its functions under paragraphs 6 and 12 of Schedule 3 to the 2006 Act or under paragraphs 6 and 12 of Schedule 1 to the SVG (NI) Order 2007;
+- (b) the Secretary of State for the purposes of the Secretary of State’s functions under—
+  - (i) Part 5 of the Police Act 1997;
+  - (ii) the 2006 Act; or
+  - (iii) the SVG (NI) Order 2007; and
+- (c) the Department of Justice in Northern Ireland for the purposes of its functions under Part 5 of the Police Act 1997.
+
+(3) The information specified is—
+
+- (a) the fact that an individual is included in the children’s list or adults’ list or both lists, as the case may be;
+- (b) the fact that an individual has been removed from the children’s list, adults’ list or both lists, as the case may be;
+- (c) the fact that Ministers are considering whether to include an individual in the children’s list, adults’ list or both lists, as the case may be;
+- (d) the fact that Ministers have decided not to list an individual in the children’s list, adults’ list or both lists, as the case may be;
+- (e) such information held by Ministers which they consider would enable or assist a person specified in paragraph (2) to be satisfied as to the identity of an individual referred to in subparagraphs (a) to (d).
+
+### 15. Provision of further information by Ministers to Independent Safeguarding Authority[^key-45c475abb7ce4ce05efbcf5e34c88dc8]
+
+(1) Ministers may, for the purposes specified in paragraph (2), provide to the Independent Safeguarding Authority any information relating to an individual that they hold or have obtained by virtue of performing their functions under the Protection of Children (Scotland) Act 2003[^f00004] or under Parts 1 and 2 of the 2007 Act as they consider appropriate.
+
+(2) The purposes are—
+
+- (a) to enable or assist ISA to determine whether to include an individual in, or remove an individual from, the children’s barred list or adults’ barred list maintained under section 2 of the 2006 Act; or
+- (b) to enable or assist ISA to determine whether to include an individual in, or remove an individual from, the children’s barred list or adults’ barred list maintained under Article 6 of the SVG (NI) Order 2007.
+
+### 16. Provision of lists by Ministers to police[^key-8cbdc4402af2aff49ffe5cbaa77ed911]
+
+(1) Ministers may provide to a person specified in paragraph (2)—
+
+- (a) the name of each individual included in the children’s list;
+- (b) the name of each individual included in the adults’ list; and
+- (c) any other information contained in those lists which Ministers consider should be disclosed for any purpose mentioned in paragraph (3).
+
+(2) The persons specified are—
+
+- (a) the chief officer of a police force in England and Wales;
+- (b)[^key-b17a86f4c7d149d7be7745931f73608c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the Chief Constable of the Police Service of Northern Ireland;
+- (d) the Royal Navy Police;
+- (e) the Royal Military Police;
+- (f) the Royal Air Force Police;
+- (g) the Ministry of Defence Police;
+- (h) the British Transport Police;
+- (i) the Civil Nuclear Constabulary;
+- (j)[^key-f3790e73ca678c2789ea06612d7cfb3d] the National Crime Agency;
+- (k)[^key-1b5f1e71c6e2e124fb6aeab72412f33b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l) the States of Jersey Police Force;
+- (m) the salaried police force of the Island of Guernsey;
+- (n) the Isle of Man Constabulary; and
+- (o) the Garda Síochána.
+
+(3) Information may only be provided to a person specified in paragraph (2) for the purposes of—
+
+- (a) the prevention or detection of crime; or
+- (b) the apprehension or prosecution of offenders.
+
+**16A.**[^key-1d025bf516dcb20b1d2625a3afc0cda8] (1) Where the United Kingdom Central Authority requests the information specified in paragraph (2) in relation to any individual, Scottish Ministers must provide that information to the United Kingdom Central Authority if they hold that information by virtue of performing their functions under Part 1 of the 2007 Act.
+
+(2) The information specified is the fact that an individual is included in the children’s list (kept by Scottish Ministers under section 1(1)(a) of the 2007 Act) as a result of a conviction for any of the offences referred to in Articles 3 to 7 of the Directive.
+
+(3) In this article—
+
+- (a) “the Directive” means Directive 2011/93/EU of the European Parliament and of the Council on combating the sexual abuse and sexual exploitation of children and child pornography, and replacing Council Framework Decision 2004/68/JHA; and
+- (b) “United Kingdom Central Authority” means the person designated as the United Kingdom Central Authority under Article 3 of Council Framework Decision 2009/315/JHA on the organisation and content of the exchange of information extracted from the criminal record between Member States.
+
+### 17. Provision of Scheme information by Ministers to police[^key-f2b43d86eb4007bcdde664c997047ed6]
+
+(1) Ministers may provide to a person specified in paragraph (2)—
+
+- (a) the name of each individual participating in the Scheme;
+- (b) confirmation of whether each individual participates in the Scheme in relation to regulated roles[^key-b6e96ace5e7fc69206f0ceca1b7775d1] with—
+  - (i) children;
+  - (ii) adults; or
+  - (iii) both;
+- (c) any other information held by Ministers by virtue of their administration of the Scheme which Ministers consider would enable or assist the persons to whom the information is provided to satisfy themselves as to the identity of such individuals.
+
+(2) The persons specified are—
+
+- (a) the chief officer of a police force in England and Wales;
+- (b)[^key-6f838b55e4e6f93c61b7ad6624d57b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the Chief Constable of the Police Service of Northern Ireland;
+- (d) the Royal Navy Police;
+- (e) the Royal Military Police;
+- (f) the Royal Air Force Police;
+- (g) the Ministry of Defence Police;
+- (h) the British Transport Police;
+- (i) the Civil Nuclear Constabulary;
+- (j)[^key-549f04fcfc96d93f9e814354d3e60b06] the National Crime Agency;
+- (k)[^key-318471fe1549dc9ddcdadf88f8e6fe33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l) the States of Jersey Police Force;
+- (m) the salaried police force of the Island of Guernsey;
+- (n) the Isle of Man Constabulary; and
+- (o) the Garda Síochána.
+
+(3) Information may only be provided to a person specified in paragraph (2) for the purposes of—
+
+- (a) enabling or assisting that person to provide vetting information to Ministers for the performance of Ministers’ functions in relation to the Scheme;
+- (b) the prevention or detection of crime; or
+- (c) the apprehension or prosecution of offenders.
+
+### 18. Double barring in England and Wales[^key-d0ebc5e1fc3100b3ac7c275c5f817d2d]
+
+(1) Ministers may remove an individual from the children’s list where—
+
+- (a) an individual is included in both the children’s list and the children’s barred list maintained under section 2 of the 2006 Act; and
+- (b) Ministers consider that it would be more appropriate for the individual to be included in the children’s barred list maintained under section 2 of the 2006 Act than in the children’s list.
+
+(2) Ministers may remove an individual from the adults’ list where—
+
+- (a) an individual is included in both the adult’s list and the adults’ barred list maintained under section 2 of the 2006 Act; and
+- (b) Ministers consider that it would be more appropriate for the individual to be included in the adults’ barred list maintained under section 2 of the 2006 Act than in the adults’ list.
+
+### 19. Double barring in Northern Ireland[^key-c98343398effd4cc865cf7674d620240]
+
+(1) Ministers may remove an individual from the children’s list where—
+
+- (a) an individual is included in both the children’s list and the children’s barred list maintained under Article 6 of the SVG (NI) Order 2007; and
+- (b) Ministers consider that it would be more appropriate for the individual to be included in the children’s barred list maintained under Article 6 of the SVG (NI) Order 2007 than in the children’s list.
+
+(2) Ministers may remove an individual from the adults’ list where—
+
+- (a) an individual is included in both the adults’ list and the adults’ barred list maintained under Article 6 of the SVG (NI) Order 2007; and
+- (b) Ministers consider that it would be more appropriate for the individual to be included in the adults’ barred list maintained under Article 6 of the SVG (NI) Order 2007 than in the adults’ list.
+
+## PART 4 — Minor Amendments and Repeals
+
+### 20. Amendment to the Teaching Council (Scotland) Act 1965[^key-76de832c6d845ab6e2b39badff716c8f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Repeal of paragraph 2 of schedule 4 to the 2007 Act[^key-748f5c7d97a8a61050a23adb4831d208]
+
+Paragraph 2 of schedule 4 (minor and consequential amendments to the Teaching Council (Scotland) Act 1965) to the 2007 Act is repealed.
+
+### 22. Amendment of the Protection of Vulnerable Groups (Scotland) Act 2007 (Consideration for Listing) Regulations 2010[^key-9a05444d7168894cfbdf929043ef69d6]
+
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Consideration for Listing) Regulations 2010[^f00006] are amended as follows—
+
+- (a) in regulation 2, in the definition of “individual”, in paragraph (a) after the word “Act” insert “or, as the case may be, of information given to Ministers by the Independent Safeguarding Authority under section 10(1)(b) of the Act”;
+- (b) in Part 2 of the Schedule—
+  - (i) in paragraph 2(a) after the word “Act” insert “or, as the case may be, of the information given to Ministers by the Independent Safeguarding Authority under section 10(1)(b) of the Act
+  - (ii) in paragraph 2(c)(ii), for “to (c)” substitute “and (b)”; and
+  - (iii) in paragraph 4(1)(b) after the word “body” insert, “or, as the case may be, the Independent Safeguarding Authority”; and
+- (c) in Part 6 of the Schedule, in paragraph 17(1)(a)(i) and in paragraph 18(1)(a)(i) after the word “Act” insert “or, as the case may be, of the information given to Ministers by the Independent Safeguarding Authority under section 10(1)(b) of the Act.
+
+ADAM INGRAM
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+14th December 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is made under sections 87(1), (2) and (3) and 98(1) and (2) of, and paragraph 28 of schedule 2 and paragraph 13 of schedule 3 to, the Protection of Vulnerable Groups (Scotland) Act [2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14) (“the Act”).
+
+The Act establishes a Scheme (under section 44) for vetting and disclosure in relation to individuals who wish to do regulated work with children or protected adults (referred to as the “PVG Scheme”). The Act also provides that Scottish Ministers must keep a children’s list and an adults’ list (section 1(1)). An individual may be listed in one or both of those lists (section 1(2)). A listed person is barred from undertaking regulated work with children (if listed in the children’s list) or protected adults (if listed in the adults’ list). “Regulated work” is defined at section 91 of, and schedules 2 and 3 to, the Act
+
+The Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47) (“the 2006 Act”) and the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 ([SI 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351) (“the 2007 Order”) establish a similar vetting and barring scheme (“the VBS”) for England, Wales and Northern Ireland. The 2006 Act establishes the Independent Safeguarding Authority (“the ISA”) which makes decisions to bar individuals from working with children or vulnerable adults for England and Wales and Northern Ireland. It also establishes the SVG children’s barred list and SVG adults’ barred list for England and Wales. The 2007 Order establishes the SVG NI children’s barred list and SVG NI adults’ barred list for Northern Ireland.
+
+The purpose of this Order, using the powers in section 87 and 98 of the Act, is to make provision to ensure the proper operation and cross-border interaction of the Act, the 2006 Act and the 2007 Order and the various lists set up under that legislation across the United Kingdom. This Order makes provisions in consequence of provisions made by virtue of the 2006 Act and by virtue of the 2007 Order (which is the Northern Irish legislation corresponding to the Act). The Safeguarding Vulnerable Groups Act 2006 (Specified Lists: Scotland) Order 2010 ([SI 2010/2342](https://www.legislation.gov.uk/uksi/2010/2342)) specifies the children’s list and the adults’ list as lists corresponding to the children’s barred list and the adults’ barred list maintained under section 2 of the 2007 Act. The Safeguarding Vulnerable Groups (Barred Lists: Scotland) Order (Northern Ireland) 2010 ([SR 2010/336](https://www.legislation.gov.uk/nisr/2010/336)) makes similar provision to specify the children’s list and the adults’ list under the 2007 Order.
+
+Article 4 amends section 10 of the Act to allow the ISA to provide information about an individual to the Scottish Ministers so that Scottish Ministers can consider that individual for listing in either the children’s list or the adults’ list or both lists.
+
+Article 5(2) and (3) amend section 18 of the Act to allow Scottish Ministers to request information from the Scottish Crime and Drug Enforcement Agency when they are considering whether to list an individual. Article 5(4) makes provision to allow for payment to go to the Scottish Police Services Authority for such information.
+
+Article 6 amends section 38 of the Act to allow the Scottish Ministers to provide information about individuals on the children’s list or the adults’ list to the Scottish Police Services Authority and the Scottish Crime and Drug Enforcement Agency.
+
+Article 7 amends section 39 of the Act. The purpose of section 39 is to cover the cross-border interaction with the ISA and its functions under the 2006 Act in relation to regulated work with children. Article 7(2) amends section 39(1) so that this section now covers the cross-border interaction in relation to all individuals who are barred from doing regulated work with children (as defined in section 92 of the Act), whether under the 2006 Act, the 2007 Order or otherwise. Article 7(3) extends the effect of section 39(2) so that Scottish Ministers need not consider listing an individual in the children’s list if the individual’s case is being or has been dealt with by the ISA. Article 7(6) similarly extends section 39(5) so that Scottish Ministers need not automatically list an individual in the children’s list under section 14 of the Act if the individual’s case has been dealt with by the ISA. Article 7(4) amends section 39(3) to cover all cases where an individual’s case has been dealt with under any “relevant corresponding legislation” which is defined in the new section 39(7) inserted by article 7(7) as being the English and Welsh and Northern Irish legislation under which individuals can currently be listed and consequently barred from doing regulated work with children. Article 7(5) and the new section 39(6) inserted by article 7(7) make consequential provision to ensure that notices are properly issued under section 30 of the Act.
+
+Article 8 amends section 40 of the Act. The purpose of section 40 is to cover the cross-border interaction with the ISA and its functions under the 2006 Act in relation to regulated work with adults. Article 8(2) amends section 40(1) so that this section now covers the cross-border interaction in relation to all individuals who are barred from doing regulated work with adults (as defined in section 92 of the Act), whether under the 2006 Act, the 2007 Order, or otherwise. Article 8(3) to (7) extend the effect of section 40 in the same way as has been done for section 39 of the Act by virtue of article 7(3) to (7).
+
+Article 9 amends section 41 of the Act to extend the provision that no proceedings are competent against Scottish Ministers to cover information provided to them in pursuance of any other power or duty to provide information to them.
+
+Article 10(2) and (3) amend section 75 of the Act to allow Scottish Ministers to request information from the Scottish Crime and Drug Enforcement Agency for their functions under Part 2 of the Act. Article 10(4) makes provision to allow for payment to go to the Scottish Police Services Authority for such information. Article 10(5) extends the provision in section 75(5) that no proceedings are competent against Scottish Ministers to cover information provided to them in pursuance of any other power or duty to provide information to them.
+
+Article 11 amends section 76 of the Act to allow the Scottish Ministers to provide information about individuals who are members of the PVG Scheme to the Scottish Crime and Drug Enforcement Agency.
+
+Articles 12 and 13 amend paragraph 1 of both schedules 2 and 3 to the Act to make it clear, for the avoidance of doubt, that regulated work with children or with protected adults is work which is done in Scotland.
+
+Article 14 allows Scottish Ministers to provide information to the ISA, to the Secretary of State or the Department of Justice in Northern Ireland for the purposes of their functions under the 2006 Act or the 2007 Order or Part 5 of the Police Act 1997. Scottish Ministers may provide information about whether an individual is listed in the children’s list or the adults’ list (or both), whether an individual has been removed from one of those lists, whether an individual is under consideration for listing in one of those lists or whether Scottish Ministers have decided not to list the individual in one of those lists. Scottish Ministers may also provide information to assist with identifying such individuals.
+
+Article 15 allows Scottish Ministers to provide information to the ISA which they hold or have obtained by virtue performing their functions under the Act or under the Protection of Children (Scotland) Act [2003 (asp 5)](https://www.legislation.gov.uk/asp/2003/5). The information can be provided to the ISA to assist them in determining whether to list an individual in the children’s barred lists or adults’ barred lists kept under the 2006 Act or the 2007 Order.
+
+Article 16 makes provision which is similar to section 38 of the Act so that Scottish Ministers can provide information about individuals listed in the children’s list and the adults’ list to police bodies outwith Scotland. Those bodies may only use the information for the purposes of the prevention or detection of crime or the apprehension or prosecution of offenders.
+
+Article 17 makes provision which is similar to section 76 of the Act so that Scottish Ministers can provide information about individuals who are members of the PVG Scheme to police bodies outwith Scotland. Those bodies may only use the information for the purposes of providing vetting information to Scottish Ministers for the performance of Ministers’ functions in relation to the PVG Scheme, of the prevention or detection of crime or the apprehension or prosecution of offenders.
+
+Articles 18 and 19 make provision to prevent an individual who is listed in the children’s list or in the adults’ list from also being included in the children’s barred lists or adults’ barred lists kept under the 2006 Act or the 2007 Order. If an individual is listed in a list in Scotland and in a list in another part of the United Kingdom, Scottish Ministers can remove the individual from the children’s list or the adults’ list if they think that it would be more appropriate for the individual to be listed in the corresponding list in another part of the United Kingdom.
+
+Article 20 amends section 6 of the Teaching Council (Scotland) Act 1965 to replace the reference about being listed on the list kept under the Protection of Children (Scotland) Act 2003 with a reference to being barred from doing regulated work with children within the meaning of section 92 of the Act. This ensures that an individual who is barred from regulated work with children by virtue of being included in a corresponding list in another part of the United Kingdom cannot be registered as a teacher in Scotland.
+
+Article 21 repeals paragraph 2 of schedule 4 to the 2007 Act so as to remove the previous amendment (not yet in force) to section 6 of the Teaching Council (Scotland) Act 1965.
+
+Article 22 makes minor consequential amendments to the Protection of Vulnerable Groups (Scotland) Act 2007 (Consideration for Listing) Regulations 2010 ([SSI 2010/183](https://www.legislation.gov.uk/ssi/2010/183)) following the amendments made to section 10 of the Act (by article 4 of this Order).
+
+## Annotations
+
+[^f00001]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
+
+[^key-6828f486b3a10b06d349cf233cf77923]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2010/446/article/1) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-62278ad3af3ac87dd5989477738cfa71]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2010/446/article/2) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^f00002]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
+
+[^f00003]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
+
+[^key-4a0ac03fabce3f6996d451cc71db17ba]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2010/446/article/3) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-383d4a161289e2ce51208341d005b39c]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2010/446/article/4) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-1999dbf01be32c51b89ca4254b64c426]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2010/446/article/5) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-be7cf09527f0c472cd9317f6cf1100a9]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2010/446/article/6) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-219caf4e532a6095c84b31bc952aa301]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2010/446/article/7) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-8dabab928d67c8c77c09bde64e376c50]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2010/446/article/8) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-f1d9041ec3a126ed6e078fb5d8e1b458]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2010/446/article/9) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-50d2fcc45702b481674d83dbd7dbfa8b]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2010/446/article/10) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-68b90151c5835a300df1c50250f4325d]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2010/446/article/11) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-e0305f034b93a897b6c3528f8118551a]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2010/446/article/12) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-c225475d825ef6cf81e3aa5f2a7de1fd]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2010/446/article/13) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-19ba2cfdb00825473baae76c235893b6]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2010/446/article/14) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-45c475abb7ce4ce05efbcf5e34c88dc8]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2010/446/article/15) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^f00004]: Footnote: [2003 asp 5](https://www.legislation.gov.uk/asp/2003/5).
+
+[^key-8cbdc4402af2aff49ffe5cbaa77ed911]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2010/446/article/16) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-b17a86f4c7d149d7be7745931f73608c]: Textual amendment: [Art. 16(2)(b)](https://www.legislation.gov.uk/ssi/2010/446/article/16/2/b) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 122(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/122/a)
+
+[^key-f3790e73ca678c2789ea06612d7cfb3d]: Textual amendment: [Art. 16(2)(j)](https://www.legislation.gov.uk/ssi/2010/446/article/16/2/j) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 122(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/122/b)
+
+[^key-1b5f1e71c6e2e124fb6aeab72412f33b]: Textual amendment: [Art. 16(2)(k)](https://www.legislation.gov.uk/ssi/2010/446/article/16/2/k) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 122(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/122/a)
+
+[^key-1d025bf516dcb20b1d2625a3afc0cda8]: Textual amendment: [Art. 16A](https://www.legislation.gov.uk/ssi/2010/446/article/16A) inserted (16.3.2014) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Amendment Order 2014 (S.S.I. 2014/33)](https://www.legislation.gov.uk/ssi/2014/33), [arts. 1](https://www.legislation.gov.uk/ssi/2014/33/article/1), [2](https://www.legislation.gov.uk/ssi/2014/33/article/2)
+
+[^key-f2b43d86eb4007bcdde664c997047ed6]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2010/446/article/17) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-b6e96ace5e7fc69206f0ceca1b7775d1]: Textual amendment: Word in [art. 17(1)(b)](https://www.legislation.gov.uk/ssi/2010/446/article/17/1/b) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/7) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^key-6f838b55e4e6f93c61b7ad6624d57b0a]: Textual amendment: [Art. 17(2)(b)](https://www.legislation.gov.uk/ssi/2010/446/article/17/2/b) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 123(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/123/a)
+
+[^key-549f04fcfc96d93f9e814354d3e60b06]: Textual amendment: [Art. 17(2)(j)](https://www.legislation.gov.uk/ssi/2010/446/article/17/2/j) substituted (7.10.2013) by [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 123(b)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/123/b)
+
+[^key-318471fe1549dc9ddcdadf88f8e6fe33]: Textual amendment: [Art. 17(2)(k)](https://www.legislation.gov.uk/ssi/2010/446/article/17/2/k) omitted (7.10.2013) by virtue of [The Crime and Courts Act 2013 (Consequential Amendments and Saving Provision) Order 2013 (S.I. 2013/2318)](https://www.legislation.gov.uk/uksi/2013/2318), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2318/article/1/2), [Sch. para. 123(a)](https://www.legislation.gov.uk/uksi/2013/2318/schedule/paragraph/123/a)
+
+[^key-d0ebc5e1fc3100b3ac7c275c5f817d2d]: Commencement: [Art. 18](https://www.legislation.gov.uk/ssi/2010/446/article/18) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-c98343398effd4cc865cf7674d620240]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2010/446/article/19) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-76de832c6d845ab6e2b39badff716c8f]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/ssi/2010/446/article/20) revoked (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+
+[^key-748f5c7d97a8a61050a23adb4831d208]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2010/446/article/21) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^key-9a05444d7168894cfbdf929043ef69d6]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2010/446/article/22) in force at 28.2.2011, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/446/article/1/2)
+
+[^f00006]: Footnote: [S.S.I. 2010/183](https://www.legislation.gov.uk/ssi/2010/183).

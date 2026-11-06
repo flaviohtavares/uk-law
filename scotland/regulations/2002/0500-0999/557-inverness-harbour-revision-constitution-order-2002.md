@@ -1,0 +1,300 @@
+---
+title: Inverness Harbour Revision (Constitution) Order 2002
+id: ssi/2002/557
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2002-12-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2002/557
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2002/557/pdfs/ssi_20020557_en.pdf
+- http://www.legislation.gov.uk/ssi/2002/557/made/data.pdf
+pending_changes: 5
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Inverness Harbour Revision (Constitution) Order 2002
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2002 No. 557
+
+HARBOURS, DOCKS, PIERS AND FERRIES
+
+Inverness Harbour Revision (Constitution) Order 2002
+
+Made
+
+12th December 2002
+
+Coming into force
+
+13th December 2002
+
+Whereas the Trustees of The Harbour of Inverness have applied in writing to The Scottish Ministers for a Harbour Revision order under section 14 of The Harbours Act 1964[^f00001].
+
+And whereas the making of this Order is not opposed.
+
+Now therefore, the Scottish Ministers in exercise of the powers conferred upon them by section 14 of the said Act[^f00002], and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## PRELIMINARY
+
+### 1. Citation and Commencement
+
+(1) This Order may be cited as The Inverness Harbour Revision (Constitution) Order 2002 and shall come into force on 13th December 2002.
+
+(2) The Inverness Harbour Acts and Orders 1808 to 1997 and this order may be cited together as The Inverness Harbour Acts and Orders 1808 to 2002 (hereinafter referred to as “The Harbour Acts and Orders”).
+
+### 2. Interpretation
+
+In this Order unless the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively:–
+
+- “Order of 1911” means the Inverness Harbour Order 1911;
+- “Trust” means Inverness Harbour Trust (otherwise the Trustees of the Harbour of Inverness);
+- “Trustees” means the Trustees of the Harbour of Inverness;
+- “the new constitution date” means 1st February 2003 or the date when this order comes into force, whichever is the later.
+
+## CONSTITUTION
+
+### 3. Constitution of Trust
+
+(1) On and after the new constitution date the Trust shall consist of eleven members all of whom shall be appointed by the Trustees. These shall be:–
+
+- (a) ten Trustees appointed by the Trustees of The Harbour of Inverness; and
+- (b) the senior salaried official of the Trust as long as he remains in the employment of the Trustees.
+
+(2) Each Trustee appointed under paragraph (1)(a) shall be a person who appears to have a special knowledge, experience or ability appropriate to the efficient and economic discharge by the Trust of their function including in particular (but without prejudice to the generality of the foregoing) special knowledge, experience or ability in one or more of the following matters:–
+
+- (a) management of harbours;
+- (b) shipping or other forms of transport;
+- (c) financial management;
+- (d) safety or personnel management;
+- (e) commercial marketing or information technology;
+- (f) environmental matters affecting harbours; and
+- (g) any other skills and abilities considered from time to time by the Trustees to be relevant to the discharge by them of their functions,
+
+and the Trustees shall secure, so far as reasonably practicable, that the Trustees appointed will, between them, have special knowledge experience and ability in a broad and complementary range of matters relevant to the efficient and economic discharge by them of their functions.
+
+(3) In making any appointment under paragraph (1)(a) above the Trustees shall act in accordance with any guidance issued by the Scottish Ministers from time to time with respect to the exercise of such functions.
+
+### 4. Rights of Highland Council regarding appointments
+
+Notwithstanding the provisions of Article 3 The Highland Council shall be invited to have considered for appointment up to five candidates all of whom shall conform to the requirements of Article 3(2) and Article 3(3) above.
+
+### 5. Appointment and terms of office of first members
+
+(1) The first appointments under article 3(1) above shall be made before 1st February 2003 and of the Trustees so appointed–
+
+- (a) three shall hold office from the new constitution date until 1st February 2004;
+- (b) three shall hold office from the new constitution date until 1st February 2005;
+- (c) four shall hold office from the new constitution date until 1st February 2006;
+
+as the Trustees shall specify when the appointments are made.
+
+(2) Provided that such person satisfies the requirements set out in Article 3(2), the Trustees shall appoint the person who is, at the date when they make the first appointments under paragraph (1) above the chairman of the Trust to be one of the first such appointed members and he shall hold office as a member from the new constitution date until 1st February 2006, and on or after the new constitution date shall be the Chairman of the Trust.
+
+### 6. Terms of office of subsequent members
+
+A member appointed under article 3(1)(a) (other than a member appointed under article 5 above) shall, unless appointed to fill a casual vacancy and subject to the provisions of this Order, hold office for the period of three years from 1st February next following his appointment.
+
+### 7. Declaration to be made by members
+
+No person shall be capable of acting as a member until he has made the declaration set out in Schedule 1 to this Order; and a person shall cease to be a member if he fails to make that declaration within (three) months of the date of his appointment.
+
+### 8. Casual Vacancies
+
+(1) A casual vacancy arising in the office of a member appointed by the Trustees shall, where reasonably practicable, be filled by the appointment of a member in accordance with article 3 above:–
+
+(2) A member appointed to fill a casual vacancy under this article shall hold office (unless he previously dies or otherwise ceases to be a member) during the remainder of the term for which the member whom he replaces was appointed.
+
+### 9. Disqualification of members
+
+If the Trustees are satisfied that a member:–
+
+- (a) has without permission of the Trustees been absent from meetings of the Trust
+  - (i) for a period during which three such meeting have been held; or
+  - (ii) for a period of three consecutive months;
+
+  whichever of these periods is the longer; or
+- (b) has had an award of sequestration made against his estate; or
+- (c) is incapacitated by physical or mental illness from discharging the functions of a member; or
+- (d) is otherwise unable, unwilling or unfit to discharge the functions of a member;
+
+the Trustees may declare his office as a member to be vacant and thereupon his office shall become vacant.
+
+### 10. Indemnity Insurance for Trustees
+
+The Trustees may enter into, and pay premiums for, a contract of insurance to indemnify the members jointly or severally against personal liability arising from any act or omission of the members or of any of them, not being an act or omission which the member or members in question knew to be a breach of his or their duty or, concerning which, he or they were reckless as to whether it was such a breach.
+
+### 11. Incidental provisions relating to the Trust
+
+On and after the new constitution date the provisions of Schedule 3 to this Order shall have effect with respect to the administrative arrangements and proceedings of the Trustees in addition to those provisions of the Inverness Harbour Acts and Orders 1808 to 1997 which are in force at the date when this Order comes into force and are not repealed by this Order.
+
+### 12. Borrowing Powers
+
+(1) The Trustees may from time to time borrow upon the security of their assets for the time being or of their revenues or both their assets and revenues, by any methods they see fit such sums of money as they think necessary.
+
+(2) Moneys borrowed by the Trustees under this article shall be applied only to purposes to which capital money is properly applicable.
+
+(3) For the purposes of paragraph (2) above, but without prejudice to the generality of that paragraph, purposes to which capital money is properly applicable shall be deemed to be include:–
+
+- (a) the payment of any interest, falling due within five years immediately following the date of borrowing, on any sum of money borrowed by the Trustees under this article; and
+- (b) the repayment, within twelve months from the date of borrowing of any sum for the time being outstanding by way of principal on any amount previously borrowed.
+
+### 13. Application of provisions of Order of 1911
+
+The following provisions of the order of 1911 shall extend and apply to the exercise of the powers of this order as if the same were with all necessary modifications expressly re-enacted in this order, namely:–
+
+|  |  |
+| --- | --- |
+| Section 96 | (Corporation may guarantee loan) |
+| Section 97 | (Corporation may guarantee instalments etc. on security of guarantee rate); |
+| Section 98 | (Payment of corporation under the guarantee to be made on requisition by the Trustees); |
+| Section 99 | (Harbour Guarantee rate); |
+| Section 100 | (Assessment and levying rate); |
+| Section 101 | (Payments by corporation to be a debt owing by Trustees) |
+
+Provided that:–
+
+- (a) in the application of the said sections, 96, 97, 98, 99, 100 and 101 for references to “the corporation” there shall be substituted references to “the Highland Council”;
+- (b) in the application of the said section 96 in place of words “Act of 1899” there shall be inserted the words “section 154 of the Local Government (Scotland) Act 1973”(a); and
+- (c) in the application of the said section 100–
+  - (i) in place of the word “Burgh” where first occurring there shall be substituted the words “Inverness City and Area of the Highland Council”;
+  - (ii) the words “according to the Valuation Role in force therein for the time being” shall be omitted; and
+  - (iii) in place of the words “Burgh Police (Scotland) Acts 1892 to 1903” and the words “Burgh Police Acts” there shall be inserted the words “Local Government Finance Act 1992”[^f00003].
+
+### 14. Audit and publication of annual statement of accounts
+
+The Trustees shall have their accounts audited by a firm of registered auditors who shall present audited accounts to members within six months of the end of the financial year and as soon as reasonably practicable after their annual statement of accounts is audited the Trustees shall make available a copy of the statement for a period of twelve months at the offices of the Trustees for inspection free of charge by members of the public and shall, subject to the payment of a reasonable charge, supply a copy of the statement to any person who requests to be supplied with a copy.
+
+### 15. Revocations
+
+On the new constitution date the enactments mentioned in the first and second columns of schedule 3 to this Order shall be revoked to the extent specified.
+
+DAVID M HART
+
+A member of the staff of the Scottish Ministers
+
+Victoria Quay,
+
+Edinburgh
+
+12th December 2002
+
+## SCHEDULE 1 — FORM OF DECLARATION BY MEMBERS
+
+Article 7
+
+[image: see source](https://www.legislation.gov.uk/ssi/2002/557/images/ssi_20020557_en_001)
+
+## SCHEDULE 2 — INCIDENTAL PROVISIONS RELATING TO THE TRUST
+
+Article 11
+
+### Appointment of chairman and vice-chairman of the Trust
+
+**1.** There shall be a chairman of the Trust who shall be appointed by the Trustees from among their number.
+
+**2.** The chairman in office at the new constitution date shall, subject to paragraph 7 below, and unless he resigns his office as chairman, or ceases to be a member, continue in office as chairman until his initial term of office as a member has expired.
+
+**3.** Subject to paragraph 7 below, every chairman subsequently appointed under paragraph 1 above, shall, unless he resigns his office as chairman or ceases to be a member hold office for a period of three years.
+
+**4.** There shall be a vice-chairman of the Trust who shall be appointed by the Trustees from among their number.
+
+**5.** The first vice-chairman holding office after the new constitution date shall be appointed as soon as practicable after that date and, subject to paragraph 7 below shall, unless he resigns his office as vice-chairman or ceases to be a member, continue in that office until his term of office has expired.
+
+**6.** Subject to paragraph 7 below, every vice chairman subsequently appointed under paragraph 4 above shall, unless he resigns his office or ceases to be a member, hold office for a period of three years.
+
+**7.** If the Trustees are satisfied that the chairman or vice-chairman should cease to hold his office as such, they may terminate his office as such and appoint another member to be the chairman or vice-chairman during the remainder of the term for which the former chairman or vice-chairman was appointed.
+
+**8.** (1) On a casual vacancy occurring in the office of chairman or vice-chairman of the Trust, the vacancy shall be filled by the Trustees of a meeting held as soon as practicable after the vacancy occurs.
+
+(2) A member appointed under this paragraph to fill a casual vacancy in the office of chairman or vice-chairman shall, unless he resigns that office or cease to be a member, hold that office during the remainder of the term for which the chairman or vice chairman whom he replaces was appointed.
+
+### Meetings of Trustees
+
+**9.** (1) The first meeting of the Trust after the new constitution date shall be convened as soon as practicable by the Chairman for such date as he may fix, and he shall make arrangements for notice of that meeting to be sent by post to each of the other members.
+
+(2) The Trust shall meet on at least a minimum of ten times during the year in accordance with an agreed schedule of meetings which shall endeavour to evenly space these meetings throughout the year.
+
+### Vacation of office by members
+
+**10.** A member (other than an ex-officio member referred to in article 3(1)(b) above) may resign his office at any time by notice in writing given to the chairman of the Trust or, if that member is the chairman, the vice-chairman.
+
+### Re-appointment of members
+
+**11.** (1) Subject to the provisions of this Schedule, a vacating member shall be eligible for re-appointment as a member unless he has been disqualified from office under article 9 above.
+
+(2) A vacating member shall not be eligible for re-appointment as a member where, immediately before that date in question, he has held office for three consecutive terms unless he is chairman of the Authority.
+
+(3) A chairman of the Trust shall not be eligible for re-appointment as a member where immediately before the date in question, he has held office as a member for four consecutive terms.
+
+(4) For the purposes of this paragraph “term” does not include:–
+
+- (a) a term referred to in article 5(1)(a) or (b) above;
+- (b) the remainder of a term during which the member was appointed to fill a casual vacancy under article 8 above; or
+- (c) any term served by the member prior to the new constitution date.
+
+### Re-appointment of Chairman
+
+**12.** (1) Chairman of the Trust shall not be eligible for re-appointment as the chairman where, immediately before the date in question, he has served as a chairman for three consecutive terms.
+
+(2) For the purposes of this paragraph, “term” does not include:–
+
+- (a) the remainder of a term during which the member was appointed to fill a casual vacancy in the office of chairman under paragraph 8 above, or
+- (b) any term served by the member as a chairman prior to the new constitution date.
+
+### Committees
+
+**13.** The Trustees may, consistent with their duties and subject to such conditions as they think fit, delegate any of their functions to a committee of the Trust.
+
+**14.** The acts and proceedings of the Trust, or of any committee of the Trust, shall not be invalidated by any vacancy in their number or by any defect in the appointment, or the qualification for appointment, of any person as a member, or as a chairman or vice-chairman, of the Trust or committee.
+
+**15.** The quorum required for a meeting of the Trust shall be five.
+
+**16.** If a member is in any way directly or indirectly interested in any contract or proposed contract to which the Trustees are, or would be, a party and is present at a meeting of the Trust or of any committee of the Trust at which that contract is the subject of consideration, he shall as soon as practicable after the commencement of the meeting disclose that fact at the meeting and shall not take part in any deliberation or decision of the Trustees or committee with respect to that contract.
+
+**17.** The person for the time being holding office as vice-chairman shall have and may exercise in the absence or incapacity of the chairman all powers of the chairman.
+
+**18.** If at any meeting of the Trust neither the chairman nor the vice-chairman are present the members present at the meeting shall choose one of their number to be the chairman of the meeting.
+
+**19.** (1) Every question at a meeting of the Trustees or of a committee of the Trust shall be decided by a majority vote of the members present and voting.
+
+(2) If at any meeting of the Trust or of a committee of the Trustees there is an equality of votes on any question the chairman of the meeting shall have a second or casting vote which he may exercise for or against the status quo.
+
+### Authentication of documents
+
+**20.** Deeds and documents requiring to be executed on behalf of the Trustees shall be executed in accordance with the Requirements of Writing (Scotland) Act 1995, Schedule 2, paragraph 5.
+
+### Remuneration of members
+
+**21.** The Trust may pay to the chairman and other members such salary, allowances and expenses as the Trustees from time to time determine.
+
+### General
+
+**22.** Subject to the provisions of this Schedule, the procedure and business of the Trust and of any committee of the Trust shall be regulated in such manner as the Trustees may from time to time determine.
+
+## SCHEDULE 3 — REVOCATIONS
+
+| *Chapter or number* | *Title* | *Extent of Revocation* |
+| --- | --- | --- |
+| 1899 – (Chc) | Inverness Harbour Act, 1899 | Section 39 |
+| 1911 – 1&2 Geo5 (Ch.Cxxi) | Inverness Harbour Order | Sections 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 34, 35, 41, 91, Last sentence of 92, 94, 95, 105 |
+
+(This note is not part of the Order)
+
+This Order reconstitutes the Inverness Harbour Trustees in line with the recommendations of the Trust Ports Review, published by the Department of the Environment, Transport and the Regions in January 2002 and endorsed by the Scottish Executive.
+
+The Order amends certain existing statutory requirements and revokes certain statutory provisions.
+
+## Annotations
+
+[^f00001]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40); section 14 was amended by the Transport Act [1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56) section 18 and Schedule 6, paragraphs 2 to 4 and 14, and by the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42) section 63 and Schedule 3, paragraphs 1 and 10.
+
+[^f00002]: Footnote: Section 14(7) contains a definition of “the appropriate minister” relevant to the exercise of the process under which this order is made. The functions of The Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of The Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00003]: Footnote: Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14).

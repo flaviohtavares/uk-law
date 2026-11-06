@@ -1,0 +1,49 @@
+---
+title: Regulatory Reform (Scotland) Act 2014, section 58
+act: Regulatory Reform (Scotland) Act 2014
+section: '58'
+status: revised
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2014/3/section/58
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulatory Reform (Scotland) Act 2014, section 58
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+## 58. Subordinate legislation
+
+*Extent: S*
+
+(1) Any power of the Scottish Ministers to make an order or regulations under this Act includes power to make—
+
+- (a) different provision for different purposes,
+- (b) incidental, supplemental, consequential, transitional, transitory or saving provision.
+
+(2) The power to make regulations under section 1 includes power to modify any enactment (including this Act other than that section and sections 2, 3 and 7).
+
+(3) The following orders are subject to the affirmative procedure—
+
+- (a) an order under section 9, 12, 20 or 23,
+- (b) an order under section 7 that contains provision such as is mentioned in subsection (1)(a) of that section,
+- (c) an order under that section that specifies under subsection (2) of that section—
+  - (i) that a function is to be a regulatory function for the purposes of section 1, 4 or 5,
+  - (ii) the extent to which a function is to be a regulatory function for such purposes,
+- (d) an order under section 59(1) which contains provisions that add to, replace or omit any part of the text of an Act.
+
+(4) The following regulations are subject to the affirmative procedure—
+
+- (a) regulations under section 1,
+- (b) regulations under section 18 which contain provisions that add to, replace or omit any part of the text of an Act.
+
+(5) All other orders and regulations under this Act are subject to the negative procedure.
+
+(6) This section does not apply to an order under—
+
+- (a) section 61(2), or
+- (b) paragraph 30 of schedule 2.

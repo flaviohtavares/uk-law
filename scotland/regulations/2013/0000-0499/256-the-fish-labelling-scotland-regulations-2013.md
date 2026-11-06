@@ -1,0 +1,216 @@
+---
+title: The Fish Labelling (Scotland) Regulations 2013
+id: ssi/2013/256
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-09-04'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/256
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/256/pdfs/ssipn_20130256_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/256/pdfs/ssi_20130256_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/256/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Fish Labelling (Scotland) Regulations 2013
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 256
+
+Food
+
+The Fish Labelling (Scotland) Regulations 2013
+
+Made
+
+4th September 2013
+
+Laid before the Scottish Parliament
+
+6th September 2013
+
+Coming into force
+
+5th October 2013
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 6(4), 16(1), 17(2), 26(1)(a) and (3) and 48(1) of the Food Safety Act 1990 [^c21889531], paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c21889541] and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 [^c21889551], and it appears to the Scottish Ministers that it is expedient for references to the EU Regulations defined in regulation 2(2) to be references to those EU Regulations as amended from time to time.
+
+In accordance with section 48(4A) of the Food Safety Act 1990 [^c21889561], the Scottish Ministers have had regard to relevant advice given by the Food Standards Agency.
+
+There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21889571].
+
+## 1. Citation, extent and commencement
+
+These Regulations may be cited as the Fish Labelling (Scotland) Regulations 2013, extend to Scotland only and come into force on 5th October 2013.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- (a) references to the EU Regulations are references to the EU Regulations as amended from time to time; and
+- (b) terms used have the same meaning as in the EU Regulations.
+
+(2)[^key-a56547165fe63509237f8287981c3a3f] In these Regulations—
+
+- “the Act” means the Food Safety Act 1990;
+- “consumer information requirement” has the meaning given in regulation 3(1)(a);
+- “the EU Regulations” means Regulation 1224/2009, Regulation 404/2011 and Regulation 1379/2013;
+- “Regulation 1224/2009” means Council Regulation [(EC) No. 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy;
+- “Regulation 404/2011” means Commission Implementing Regulation (EU) No. 404/2011 laying down detailed rules for the implementation of Council Regulation [(EC) No. 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy;
+- “Regulation 1379/2013” means Regulation (EU) No. 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products; and
+- “traceability requirement” has the meaning given in regulation 3(1)(b).
+
+## 3. Consumer information and traceability requirements
+
+(1) In these Regulations—
+
+- (a) “**consumer information requirement**” means a requirement referred to in paragraph (2), except where disapplied or modified by virtue of paragraph [^key-3097c5f6588dad9c2417c06b8d246915]... (6) or (7); and
+- (b) “**traceability requirement**” means a requirement referred to in paragraph (3), except where disapplied by virtue of paragraph (7).
+
+(2) Paragraph (1)(a) refers to—
+
+- (a)[^key-7687882f34d1346a2902c3d17a9aa8d9] a requirement specified in any of the following Articles of Regulation 1379/2013—
+  - (i) Article 35 (mandatory information) as read with Article 38 (indication of the catch or production area); and
+  - (ii) Article 39(3) or (4) (additional voluntary information) as read with paragraph (1) of that Article; and
+- (b) a requirement specified in Article 58(6) of Regulation 1224/2009 as read with Articles 67(13) and 68 of Regulation 404/2011.
+
+(3) Paragraph (1)(b) refers to a requirement specified in Article 58(2), (3) and (5) of Regulation 1224/2009 as read with Article 58(7) of that Regulation ,[^key-1f1369b1a767cc16f67e3dd632ba7524] Article 67(1) to (3), (5) to (7) and (9) to (13) of Regulation 404/2011[^key-c414341c7b72cd252e261bbe1201e782] and Articles 35(1)(c) and 38 of Regulation 1379/2013.
+
+(4)[^key-90e77840b50119f9c023f825e7256c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-90e77840b50119f9c023f825e7256c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-ab342b51125dcd0fa2481e420c598a4d] The requirements referred to in paragraph (2)(a) do not apply in circumstances described in Article 35(4) of Regulation 1379/2013 as read with Article 58(8) (traceability) of Regulation 1224/2009, where the sale does not exceed £45[^key-74c5df7cd7c56fa56aaf040f8f53de77] per day.
+
+(7) The requirements referred to in paragraphs (2)(b) and (3) do not apply in circumstances described in Article 58(8) of Regulation 1224/2009, as read with Article 67(14) of Regulation 404/2011, where the sale does not exceed £45[^key-02032be19a0c3c8dc8f1c46b80177cab] per day.
+
+## 4. Obligation to keep and produce records
+
+(1) For the purposes of Article 58(4) of Regulation 1224/2009, an operator must keep a record of the information referred to in that Article as read with Article 67(4) of Regulation 404/2011.
+
+(2) The record referred to in paragraph (1) must be kept for three years from the date the transaction is completed.
+
+(3) An operator must comply with the second sentence of Article 58(4) of Regulation 1224/2009.
+
+## 5. Offences
+
+(1) A person who fails to comply with a consumer information requirement commits an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) A person who fails to comply with a traceability requirement commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) A person who fails to comply with an obligation in regulation 4 commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(4) A person who at any stage of marketing fails to comply with Article 58 of[^key-1b39c0eaee4c3ea5ea394914b0a2a02e] Regulation 1224/2009 (traceability) commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+## 6. Enforcement
+
+(1) Each food authority must enforce and execute these Regulations in its area.
+
+(2) Each food authority is the competent authority in its area for the purposes of Article 58(4) of Regulation 1224/2009 and Article 67(5) of Regulation 404/2011.
+
+## 7. Application of various provisions of the Act
+
+(1) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of the Act is to be construed as a reference to these Regulations, and to those provisions of the EU Regulations to which these Regulations relate—
+
+- (a) section 3 (presumptions that food intended for human consumption);
+- (b) section 20 (offences due to fault of another person);
+- (c) section 21 (defence of due diligence) [^c21889621] with the modification that subsections (2) to (4) apply in relation to an offence under regulation 5 as they apply in relation to an offence under section 14 or 15;
+- (d) section 29 (procurement of samples) with the modification that the reference in paragraph (b)(ii), to “under section 32 below”, is deemed to be a reference to that section as applied and modified by paragraph (2);
+- (e) section 30(8) (which relates to evidence of certificates given by a food analyst or examiner);
+- (f) section 33(1) (obstruction etc. of officers);
+- (g) section 33(2), with the modification that the reference to “subsection (1)(b) above” is deemed to be a reference to section 33(1)(b) as applied by sub-paragraph (f);
+- (h) section 33(3), with the modification that the reference to “subsection (1)(b) above” is deemed to be a reference to section 33(1)(b) as applied by sub-paragraph (f);
+- (i) section 35(1) (punishment of offences) insofar as it relates to offences under section 33(1) as applied by sub-paragraph (f);
+- (j) section 35(2) and (3) [^c21889631] insofar as it relates to offences under section 33(2) as applied by sub-paragraph (g);
+- (k) section 36 (offences by bodies corporate);
+- (l) section 36A (offences by Scottish partnerships) [^c21889641]; and
+- (m) section 44 (protection of officers acting in good faith).
+
+(2) In the application of section 32 [^c21889651] of the Act (powers of entry) for the purposes of these Regulations, the references in subsection (1) to the Act are to be construed as including references to the EU Regulations and the purposes mentioned in subsections (1) and (2) are to be taken to include any purpose connected with the execution or enforcement of the consumer information requirements or the traceability requirements.
+
+(3) Section 34 of the Act (time limit for prosecutions) applies to offences under these Regulations as it applies to offences punishable under section 35(2) of the Act.
+
+## 8. Revocation
+
+The Fish Labelling (Scotland) Regulations 2010 [^c21889661] are revoked.
+
+MICHAEL MATHESON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations enforce, in Scotland, the consumer information requirements of Chapter 2 of Title 1 of Council Regulation [(EC) No 104/2000](https://www.legislation.gov.uk/european/regulation/2000/0104) on the common organisation of the markets in fishery and aquaculture products and Commission Regulation [(EC) No 2065/2001](https://www.legislation.gov.uk/european/regulation/2001/2065) laying down detailed rules for the application of Council Regulation [(EC) No 104/2000](https://www.legislation.gov.uk/european/regulation/2000/0104) as regards informing consumers about fishery and aquaculture products.
+
+They also enforce the traceability requirements of Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy and Commission Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy.
+
+References in these Regulations to certain EU instruments, which are defined in regulation 2(2), are references to those instruments as amended from time to time (regulation 2(1)(a)).
+
+The Regulations set out the consumer information requirements and the traceability requirements (regulation 3) and obligations to keep and produce certain records of information (regulation 4).
+
+They provide that it is an offence to: fail to comply with consumer information requirements and traceability requirements (regulation 5(1) and (2)); fail to keep or produce certain records (regulation 5(3)); and fail to comply with certain marketing requirements (regulation 5(4)). They provide for fines on summary conviction on the standard scale of up to level 5 for an offence under regulation 5(1) and up to level 3 for an offence under regulation 5(2), (3) or (4).
+
+The Regulations provide for food authorities to execute and enforce these Regulations, and to be the competent authority for specified purposes (regulation 6). They provide for certain provisions of the Food Safety Act 1990 to be applied, and in some cases modified, for the purposes of these Regulations (regulation 7).
+
+Regulation 8 revokes the Fish Labelling (Scotland) Regulations 2010.
+
+A partial business regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Food Standards Agency (Scotland), 6th Floor, St Magnus House, 25 Guild Street, Aberdeen AB11 6NJ and online at www.legislation.gov.uk.
+
+## Annotations
+
+[^c21889531]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16). Section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Section 6(4) was amended by section 31 of, and paragraph 6 of Schedule 9 to, the [Deregulation and Contracting Out Act 1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), [section 40(1)](https://www.legislation.gov.uk/ukpga/1994/40/section/40/1) of, and paragraphs 7 and 10(1) and (3) of Schedule 5 to, the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28) (“**the 1999 Act**”), section 40(4) of, and Schedule 6 to, the 1999 Act and Schedule 2 to, the [Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794). Section 16(1) was amended by section 40(1) of, and paragraphs 7 and 8 of Schedule 5 to, the 1999 Act. Section 17(2) was amended by section 40(1) of, and paragraphs 7, 8 and 12 of Schedule 5 to, the 1999 Act and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 26(3) was amended by, and partially repealed by, section 40(4) of, and Schedule 6 to, the 1999 Act. Section 48(1) was amended by section 40(1) of, and paragraphs 7 and 8 of Schedule 5 to, the 1999 Act. By virtue of section 40(2) of the 1999 Act, amendments made by Schedule 5 to the 1999 Act which extend to Scotland are to be taken as pre-commencement enactments for the purposes of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”). The functions of the Secretary of State, so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not transferred, those functions were transferred to the Scottish Ministers by the [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849).
+
+[^c21889541]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”) and amended by Part 1 of Schedule 1 to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The functions conferred on the Minister of the Crown under section 2(2), in so far as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not transferred, and in so far as relating to food (including drink) including the primary production of food, relevant functions were transferred to the Scottish Ministers by the [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849).
+
+[^c21889551]: Marginal citation: [Section 2(2)](https://www.legislation.gov.uk/ssi/2013/256/section/2/2) was amended by section 27(1) of the 2006 Act and section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The functions conferred on the Minister of the Crown under section 2(2) of the 1972 Act, so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not transferred, those functions were transferred to the Scottish Ministers by [S.I. 2005/849](https://www.legislation.gov.uk/uksi/2005/849).
+
+[^c21889561]: Marginal citation: [Section 48(4A)](https://www.legislation.gov.uk/ssi/2013/256/section/48/4A) was inserted by section 40(1) of, and paragraphs 7 and 21 of Schedule 5 to, the 1999 Act.
+
+[^c21889571]: Marginal citation: OJ L 31, 1.2.2002, p.1, as last amended by Commission Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ L 188, 18.7.2009, p.14).
+
+[^key-a56547165fe63509237f8287981c3a3f]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2013/256/regulation/2/2) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/2)
+
+[^key-3097c5f6588dad9c2417c06b8d246915]: Textual amendment: Words in reg. 3(1)(a) omitted (15.3.2015) by virtue of [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/a)
+
+[^key-7687882f34d1346a2902c3d17a9aa8d9]: Textual amendment: Reg. 3(2)(a) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/b)
+
+[^key-1f1369b1a767cc16f67e3dd632ba7524]: Textual amendment: Words in reg. 3(3) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/c)
+
+[^key-c414341c7b72cd252e261bbe1201e782]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2013/256/regulation/3/3) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2019/53/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-90e77840b50119f9c023f825e7256c56]: Textual amendment: Reg. 3(4)(5) omitted (15.3.2015) by virtue of [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/d)
+
+[^key-ab342b51125dcd0fa2481e420c598a4d]: Textual amendment: Reg. 3(6) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/3/e)
+
+[^key-74c5df7cd7c56fa56aaf040f8f53de77]: Textual amendment: Word in reg. 3(6) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2019/53/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-02032be19a0c3c8dc8f1c46b80177cab]: Textual amendment: Word in reg. 3(7) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2019/53/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1b39c0eaee4c3ea5ea394914b0a2a02e]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2013/256/regulation/5/4) substituted (15.3.2015) by [The Fish Labelling (Scotland) Amendment Regulations 2015 (S.S.I. 2015/48)](https://www.legislation.gov.uk/ssi/2015/48), [regs. 1](https://www.legislation.gov.uk/ssi/2015/48/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/48/regulation/2/4)
+
+[^c21889621]: Marginal citation: [Section 21](https://www.legislation.gov.uk/ssi/2013/256/section/21) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c21889631]: Marginal citation: [Section 35(3)](https://www.legislation.gov.uk/ssi/2013/256/section/35/3) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c21889641]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/ssi/2013/256/section/36A) was inserted by paragraphs 7 and 16 of Schedule 5 to the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
+
+[^c21889651]: Marginal citation: [Section 32](https://www.legislation.gov.uk/ssi/2013/256/section/32) was amended by section 70 of, and paragraph 18 of Part 2 of Schedule 2 to, the [Criminal Justice and Police Act 2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16).
+
+[^c21889661]: Marginal citation: [S.S.I. 2010/90](https://www.legislation.gov.uk/ssi/2010/90) as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).

@@ -1,0 +1,1375 @@
+---
+title: The Environmental Regulation (Enforcement Measures) (Scotland) Order 2015
+id: ssi/2015/383
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-11-11'
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/383
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/383/pdfs/ssipn_20150383_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/383/pdfs/ssi_20150383_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/383/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environmental Regulation (Enforcement Measures) (Scotland) Order 2015
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 383
+
+Environmental Protection
+
+Enforcement
+
+The Environmental Regulation (Enforcement Measures) (Scotland) Order 2015
+
+Made
+
+11th November 2015
+
+Coming into force
+
+12th November 2015
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 20 to 32, 53, 58(1), and 59 of the Regulatory Reform (Scotland) Act 2014[^f00001] and section 107 of the Courts Reform (Scotland) Act 2014[^f00002] and all other powers enabling them to do so.
+
+In accordance with section 58(3) of the Regulatory Reform (Scotland) Act 2014, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament[^f00003].
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-f53d699379717535507240b0f6b71b94]
+
+This Order may be cited as the Environmental Regulation (Enforcement Measures) (Scotland) Order 2015 and comes into force on the day after the day on which it is made.
+
+### 2. Interpretation[^key-6823ba6f188199d637ac7c548dcfe46f]
+
+(1) In this Order—
+
+- “the Act” means the Regulatory Reform (Scotland) Act 2014;
+- “certificate of non-compliance” has the meaning given in paragraph 4(2) of Schedule 3;
+- “costs recovery notice” has the meaning given in paragraph 9(1) of Schedule 2;
+- “enforcement measure” has the meaning given in article 9(5);
+- “enforcement undertaking” has the meaning given in paragraph 1(3) of Schedule 3;
+- “fixed monetary penalty” has the meaning given in paragraph 1(3) of Schedule 1;
+- “late payment interest” has the meaning given in paragraph 18(1) of Schedule 2; and
+- “late payment penalty” has the meaning given in paragraph 10 of Schedule 1;
+- “non-compliance penalty” has the meaning given in paragraph 14(2) of Schedule 2;
+- “notice of intent”—
+  - (a) in relation to a fixed monetary penalty, has the meaning given in paragraph 4(1) of Schedule 1; and
+  - (b) in relation to a variable monetary penalty, has the meaning given in paragraph 3(1) of Schedule 2;
+- “relevant offence”—
+  - (a) in relation to a fixed monetary penalty, has the meaning given in paragraph 2 of Schedule 1;
+  - (b) in relation to a variable monetary penalty, has the meaning given in paragraph 2 of Schedule 2; and
+  - (c) in relation to an enforcement undertaking, has the meaning given in paragraph 2 of Schedule 3;
+- “variable monetary penalty” has the meaning given in paragraph 1(3) of Schedule 2;
+- “VMP undertaking” has the meaning given in paragraph 12(2) of Schedule 2.
+
+(2) Where anything under this Order is to be done “in writing” that includes an electronic communication, as defined in section 15(1) of the Electronic Communications Act 2000[^f00004], which is capable of being reproduced (and “written” is to be construed accordingly).
+
+## PART 2 — Enforcement measures
+
+### 3. The enforcement measures[^key-1a49e1a646eef5a5548aab28b0745e00]
+
+(1) Schedule 1 makes provision for and about the imposition by SEPA of a fixed monetary penalty on a person in relation to a relevant offence.
+
+(2) Schedule 2 makes provision for and about the imposition by SEPA of a variable monetary penalty on a person in relation to a relevant offence.
+
+(3) Schedule 3 makes provision for and about enabling SEPA to accept an enforcement undertaking from a person in a case where SEPA has reasonable grounds to suspect that the person has committed a relevant offence.
+
+### 4. Combination of sanctions[^key-20dc7ee51048613505b6f149edfab799]
+
+(1) SEPA may not impose a fixed monetary penalty on a person in relation to an offence constituted by an act or omission if a fixed monetary penalty has already been imposed on that person in respect of the same offence constituted by the same act or omission.
+
+(2) SEPA may not impose a variable monetary penalty on a person in relation to an offence constituted by an act or omission if a variable monetary penalty has already been imposed on that person in respect of the same offence constituted by the same act or omission.
+
+(3) SEPA may not serve a notice of intent relating to a fixed monetary penalty on a person in relation to any act or omission where a variable monetary penalty has been imposed on that person in relation to the act or omission.
+
+(4) SEPA may not serve a notice of intent relating to a variable monetary penalty on a person in relation to any act or omission where a fixed monetary penalty has been imposed on the person in relation to the act or omission.
+
+(5) Where a fixed monetary penalty is imposed on a person, SEPA may not impose a variable monetary penalty on the person in respect of the act or omission giving rise to the penalty.
+
+(6) Where a variable monetary penalty is imposed on a person, SEPA may not impose a fixed monetary penalty on the person in respect of the act or omission giving rise to the penalty.
+
+(7) SEPA may not impose on a person a fixed monetary penalty or variable monetary penalty in respect of an offence constituted by an act or omission if, in respect of that offence as constituted by that act or omission—
+
+- (a) criminal proceedings have been commenced against the person;
+- (b) the person has been given a warning by the procurator fiscal;
+- (c) the person has been sent a conditional offer (within the meaning of section 302 of the Criminal Procedure (Scotland) Act 1995 (fixed penalty: conditional offer by procurator fiscal)[^f00005];
+- (d) the person has accepted, or is deemed to have accepted, a compensation offer issued under section 302A of that Act (compensation offer by procurator fiscal)[^f00006];
+- (e) the person has accepted, or is deemed to have accepted, a combined offer issued under section 302B of that Act (combined fixed penalty and compensation offer)[^f00007]; or
+- (f) a work order has been made against the person under section 303ZA of that Act (work orders)[^f00008].
+
+## PART 3 — Administration and Enforcement
+
+### 5. Recovery of payments[^key-8554bd7650da60cc2b5100b3189b3302]
+
+(1) SEPA may recover as a civil debt any—
+
+- (a) fixed monetary penalty;
+- (b) variable monetary penalty;
+- (c) non-compliance penalty;
+- (d) costs required to be paid under a costs recovery notice;
+- (e) late payment interest; or
+- (f) late payment penalty.
+
+(2) The amount is recoverable as if it were payable under an extract registered decree arbitral bearing a warrant for execution issued by a sheriff of any sheriffdom.
+
+### 6. Withdrawal of notice etc.[^key-49faf96359cb8aa380880ccc440ec23f]
+
+SEPA may by notice at any time—
+
+- (a) withdraw a fixed monetary penalty notice; or
+- (b) withdraw a variable monetary penalty notice, a non-compliance penalty notice or a costs recovery notice or reduce the amount specified in the notice.
+
+### 7. Appeals[^key-b7f2cfcb9cacbcede97411e43209afa8]
+
+(1) This article applies to any appeal under this Order.
+
+(2) An appeal is to the Scottish Land Court[^f00009].
+
+(3) An appeal shall be in such form as may be prescribed from time to time by the Scottish Land Court.
+
+(4) In any appeal where the commission of an offence is an issue requiring determination, SEPA must prove the offence according to the balance of probabilities.
+
+(5) The Scottish Land Court may determine a case, or any part of a case, on the basis of written submissions and without a hearing where—
+
+- (a) both parties agree; or
+- (b) subject to paragraph (6), the Court considers that it can justly determine the matter without a hearing.
+
+(6) Where paragraph (5)(b) applies, the Court must not determine the appeal without a hearing without first giving the parties notice of its intention to do so, and an opportunity to make written representations as to whether there should be a hearing.
+
+### 8. Powers of the Court[^key-cca1caa56ac76c754db1c62a1366c09f]
+
+(1) On an appeal under paragraph 8(1) of Schedule 1 (fixed monetary penalties) the Court may quash or confirm the penalty.
+
+(2) On an appeal under paragraph 7(1) (variable monetary penalties), 10(1) (costs recovery notices) or 15(1) (non-compliance penalties) of Schedule 2, the Court may do one or more of the following:—
+
+- (a) quash, confirm or vary the penalty, requirement or notice (in whole or in part);
+- (b) take such steps as SEPA could take under this Order in relation to the act or omission giving rise to the penalty, requirement or notice; or
+- (c) remit the matter, or any aspect of it, to SEPA for further consideration.
+
+(3) On an appeal under paragraph 6(1) of Schedule 3 (certificates of non-compliance), the Court may quash or confirm the certificate.
+
+(4) Subject to paragraphs (5) and (6), on an appeal under this Order the Scottish Land Court may not make an order in respect of expenses.
+
+(5) The Court may make an order awarding expenses for the court fees paid or payable.
+
+(6) The Court may make an order in respect of expenses where the Court considers that a party or their representatives has acted unreasonably in bringing, defending or conducting the proceedings.
+
+### 9. Guidance[^key-c6c600852fbce5906faa5cb75af9a248]
+
+(1) Where power is conferred on SEPA by this Order to impose an enforcement measure in relation to an offence, SEPA must publish guidance about—
+
+- (a) how the offence is enforced;
+- (b) the sanctions (including criminal sanctions) to which a person who commits the offence may be liable;
+- (c) the action which SEPA may take to enforce the offence, whether by virtue of this Order or otherwise;
+- (d) the circumstances in which SEPA is likely to take any such action;
+- (e) SEPA’s use of the enforcement measure; and
+- (f) in the case of guidance relating to a fixed monetary penalty or variable monetary penalty, the guidance must contain the relevant information provided for in paragraph (2) or (3) as the case may be.
+
+(2) In the case of guidance relating to a fixed monetary penalty, the relevant information referred to in paragraph (1)(f) is information as to—
+
+- (a) the circumstances in which the penalty is likely to be imposed;
+- (b) the circumstances in which it may not be imposed;
+- (c) the amount of the penalty; and
+- (d) rights to make representations and rights of appeal.
+
+(3) In the case of guidance relating to a variable monetary penalty, the relevant information referred to in paragraph (1)(f) is information as to—
+
+- (a) the circumstances in which the penalty is likely to be imposed;
+- (b) the circumstances in which it may not be imposed;
+- (c) the matters likely to be taken into account by SEPA in determining the amount of the penalty (including, where relevant, any discounts for voluntary reporting of non-compliance);
+- (d) rights to make representations and rights of appeal; and
+- (e) SEPA’s use of non-compliance penalties.
+
+(4) SEPA must have regard to the guidance in exercising its functions.
+
+(5) An “enforcement measure” means a fixed monetary penalty, variable monetary penalty or enforcement undertaking (and any references to the imposition of an enforcement measure include acceptance of an enforcement measure).
+
+(6) In this article, any references to guidance include references to any guidance revised by virtue of section 31(8) of the Act.
+
+### 10. Additional guidance[^key-2ea8e4cfe36455f67e36d03f7f51acc2]
+
+(1) SEPA must publish guidance about how SEPA will use costs recovery notices, including information as to—
+
+- (a) the circumstances in which they are likely to be used;
+- (b) the circumstances in which they may not be used;
+- (c) matters to be taken into account in establishing the amount involved; and
+- (d) rights of appeal.
+
+(2) SEPA must have regard to the guidance in exercising its functions.
+
+### 11. Publication of enforcement action[^key-0a44f7d1536ac02bd36b115f36540d05]
+
+(1) SEPA must from time to time publish information about—
+
+- (a) the number and type of cases in which fixed monetary penalties, variable monetary penalties, non-compliance penalties and costs recovery notices have been imposed; and
+- (b) the number and type of cases in which a VMP undertaking or enforcement undertaking has been accepted by SEPA.
+
+(2) Where SEPA—
+
+- (a) imposes a fixed monetary penalty, variable monetary penalty or non-compliance penalty; or
+- (b) accepts an enforcement undertaking or VMP undertaking,
+
+SEPA may publish the final notice, non-compliance penalty notice or undertaking (as the case may be) in any manner SEPA thinks fit.
+
+(3) In paragraph (1)(a) or (2)(a) the references to cases in which penalties have been imposed do not include cases where the penalty has been imposed but overturned on appeal.
+
+### 12. Payment of penalties etc to the Scottish Ministers[^key-36bb56f4fb8f5694640aaf4177fb9e5c]
+
+Where, by virtue of this Order, SEPA receive any sum in respect of—
+
+- (a) a fixed monetary penalty, a variable monetary penalty or a non-compliance penalty; or
+- (b) any interest or other financial penalty for late payment of such a penalty,
+
+SEPA must pay it to the Scottish Ministers.
+
+## PART 4 — Consequential Amendments
+
+### 13. Amendment of the Scottish Land Court Act 1993[^key-e3dbc764909f030089a675c335dc1831]
+
+In section 1(7) of the Scottish Land Court Act 1993[^f00010] (determination by Court of Session of point of law), after “enactment” insert “, or under the Environmental Regulation (Enforcement Measures) (Scotland) Order 2015”.
+
+### 14. Amendment of Fees Order[^key-15873abf6a82b35eaf7184fa7513b3bd]
+
+(1) The Scottish Land Court (Fees) Order 1996[^f00011] is amended as follows.
+
+(2) At the end of article 3 insert “, subject to article 3A”.
+
+(3) After article 3 insert—
+
+> **3A. Exemptions**
+>
+> The fees specified under heading (3)(b) of the Table of Fees in the Schedule (miscellaneous; applications not otherwise specified) are not payable in respect of appeals made under the Environmental Regulation (Enforcement Measures) (Scotland) Order 2015.
+
+.
+
+AILEEN MCLEOD
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+11th November 2015
+
+## SCHEDULE 1 — Fixed monetary penalties
+
+Articles 2(1), 3(1)
+
+### 1. Power to impose fixed monetary penalties[^key-f045b49bce23727e30ca3a95c15ccd37]
+
+(1) SEPA may by notice impose a fixed monetary penalty on a person in relation to a relevant offence.
+
+(2) Before doing so SEPA must be satisfied on the balance of probabilities that the person has committed the offence to which the penalty relates.
+
+(3) A “fixed monetary penalty” is a requirement to pay to SEPA a penalty of the amount specified in paragraph 3.
+
+### 2. Relevant offences for fixed monetary penalties[^key-e45f8d8324540f4c6bb2f453bdf078fa]
+
+(1) For the purposes of this Schedule and section 20 of the Act (fixed monetary penalties), “relevant offence” means an offence specified in Schedule 4, if the table in that Schedule indicates that a fixed monetary penalty may be imposed.
+
+(2) In relation to a relevant offence (“the principal offence”), the following offences are also relevant offences for those purposes—
+
+- (a) any attempt, conspiracy or incitement to commit the principal offence; and
+- (b) an offence under section 293(2) of the Criminal Procedure (Scotland) Act 1995 (statutory offences: art and part and aiding or abetting) as it applies in relation to the principal offence.
+
+(3) For the purposes of sub-paragraph (1), the table in Schedule 4—
+
+- (a) indicates that, in relation to an offence, a fixed monetary penalty may be imposed if the second column of the table contains the word “YES” in the row relating to the offence; and
+- (b) does not so indicate if that column contains the word “NO” in the row relating to the offence.
+
+### 3. Specified amount[^key-2fe83226a305c9044b1f8ba6af981148]
+
+(1) The amount of a fixed monetary penalty in relation to a relevant offence is—
+
+- (a) £300 if the fifth column of the table in Schedule 4 indicates that the level of penalty is “LOW” for that offence;
+- (b) £600 if the fifth column of the table in Schedule 4 indicates that the level of penalty is “MEDIUM” for that offence; or
+- (c) £1000 if the fifth column of the table in Schedule 4 indicates that the level of penalty is “HIGH” for that offence.
+
+(2) Where an offence is a relevant offence by virtue of paragraph 2(2), the amount of the fixed penalty is the same as the amount indicated in the table in Schedule 4 in relation to the principal offence (within the meaning of that paragraph).
+
+### 4. Notice of intent[^key-cbc70e32124efcab961bbefc1555b042]
+
+(1) Where SEPA proposes to impose a fixed monetary penalty on a person, it must serve on the person a notice of what is proposed (a “notice of intent”).
+
+(2) The notice of intent must include information as to—
+
+- (a) the grounds for the proposal to impose the fixed monetary penalty;
+- (b) the amount of the penalty;
+- (c) the right to make written representations; and
+- (d) the period within which written representations may be made.
+
+### 5. Right to make written representations[^key-ac64e9b8e6276a434e50b58cb1e93999]
+
+(1) A person on whom a notice of intent is served may, within 28 days beginning with the day on which the notice was served, make written representations to SEPA in relation to the proposed imposition of the fixed monetary penalty.
+
+(2) Written representations may in particular include representations that the person would not, by reason of any defence, be liable to be convicted of the offence to which the penalty relates.
+
+(3) The period mentioned in sub-paragraph (1) may be extended by agreement in writing between SEPA and the person on whom the notice was served.
+
+### 6. Decision to impose fixed monetary penalty[^key-826f0ac6d4272577cf653f17ed302b1d]
+
+(1) SEPA must, after the end of the period for making representations, decide whether to impose a fixed monetary penalty.
+
+(2) In making that decision, SEPA must have regard to any representations made in accordance with paragraph 5.
+
+### 7. Final notice[^key-96b7303976ded39d26d63771c1d558f9]
+
+(1) Where a decision is taken to impose a fixed monetary penalty, SEPA may do so by serving a final notice.
+
+(2) A final notice must include information as to—
+
+- (a) the grounds for imposing the penalty;
+- (b) how payment may be made;
+- (c) the period within which payment must be made;
+- (d) late payment penalties;
+- (e) rights of appeal; and
+- (f) the consequences of non-payment.
+
+(3) SEPA may not serve a final notice after a period of six months beginning with the day which is the final day on which written representations may be made in relation to the notice of intent.
+
+(4) The period mentioned in sub-paragraph (3) may be extended by agreement in writing between SEPA and the person on whom the notice was served.
+
+### 8. Appeals against a fixed monetary penalty[^key-838605eef87b209019675907490b33a7]
+
+(1) A person on whom a fixed monetary penalty is imposed may appeal against the decision of SEPA to impose it.
+
+(2) The appeal may be made on one or more of the following grounds:—
+
+- (a) the decision was based on an error of fact;
+- (b) the decision was wrong in law;
+- (c) the decision was unreasonable; or
+- (d) any other reason.
+
+(3) The grounds on which a person may appeal under this paragraph do not include the ground that SEPA failed to comply with guidance issued to it by the Lord Advocate under section 31(1) of the Act.
+
+(4) An appeal under this paragraph must be made within the period of 28 days beginning with the day on which the final notice under paragraph 7(1) was served.
+
+(5) Where an appeal is made under this paragraph, the fixed monetary penalty is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
+
+### 9. Payment requirements[^key-1ad255c76f1fa25163561319f587924a]
+
+(1) Subject to sub-paragraph (2), the fixed monetary penalty must be paid within 56 days beginning with the day the final notice was served.
+
+(2) In the case of an appeal, any penalty which falls to be paid (whether because the penalty was upheld or because the appeal was withdrawn) is payable within—
+
+- (a) the period referred to in sub-paragraph (1); or
+- (b) the period of 28 days beginning with the day the appeal is determined or withdrawn,
+
+whichever ends later.
+
+### 10. Late payment penalties[^key-013ae475bfa7c3b700cb9de697b0246b]
+
+(1) If a person fails to pay a fixed monetary penalty in full by the payment date the amount payable is increased by 40% (the “late payment penalty”).
+
+(2) “the payment date” means the date payment is due in accordance with paragraph 9(1) or, in the case of an appeal, paragraph 9(2).
+
+### 11. Fixed monetary penalties: effect on criminal proceedings etc.[^key-7857aa056470e47d368dbcf19ff96256]
+
+(1) Where a notice of intent relating to a fixed monetary penalty is served on a person in respect of an offence constituted by an act or omission, the period mentioned in sub-paragraph (2) is not to be counted in calculating any period within which criminal proceedings in respect of that offence constituted by that act or omission must be commenced.
+
+(2) The period is that beginning with the day on which the notice of intent is served and ending with the day which is the final day on which written representations may be made in relation to the notice.
+
+(3) Where a fixed monetary penalty is imposed on a person in respect of an offence constituted by an act or omission, no criminal proceedings may be commenced against the person in respect of that offence constituted by that act or omission.
+
+(4) The reference in sub-paragraph (3) to criminal proceedings being commenced is to be read as if it includes a reference to—
+
+- (a) a warning being given by the procurator fiscal;
+- (b) a conditional offer (within the meaning of section 302 of the Criminal Procedure (Scotland) Act 1995[^f00012]) being sent;
+- (c) a compensation offer under section 302A[^f00013] of that Act being sent;
+- (d) a combined offer under section 302B[^f00014] of that Act being sent; and
+- (e) a work order under section 302ZA[^f00015] of that Act being made.
+
+## SCHEDULE 2 — Variable monetary penalties etc.
+
+Articles 2(1), 3(2)
+
+### CHAPTER 1 — Variable Monetary Penalties
+
+#### 1. Power to impose variable monetary penalties[^key-56e531d852ca4d64f2412a8e9a0e9864]
+
+(1) SEPA may by notice impose a variable monetary penalty on a person in relation to a relevant offence.
+
+(2) Before doing so SEPA must be satisfied on the balance of probabilities that the person has committed the offence to which the penalty relates.
+
+(3) A “variable monetary penalty” is, subject to sub-paragraph (4), a requirement to pay SEPA a penalty of such an amount as SEPA may in each case determine.
+
+(4) SEPA may not impose a variable monetary penalty that exceeds the following maximum amounts—
+
+- (a) in the case mentioned in sub-paragraph (5), the maximum amount of the fine that may be imposed on summary conviction in such a case; and
+- (b) in any other case, £40,000.
+
+(5) The case is one where the offence in respect of which the variable monetary penalty is imposed is—
+
+- (a) triable summarily (whether or not it is also triable on indictment); and
+- (b) is punishable on summary conviction by a fine (whether or not it is also punishable by a term of imprisonment).
+
+#### 2. Relevant offences for variable monetary penalties[^key-0174b3990adec058dab73e6ae134f7aa]
+
+(1) For the purposes of this Schedule and section 23 of the Act (variable monetary penalties), “relevant offence” means an offence specified in Schedule 4, if the table in that Schedule indicates that a variable monetary penalty may be imposed.
+
+(2) In relation to a relevant offence (“the principal offence”), the following offences are also relevant offences for those purposes—
+
+- (a) any attempt, conspiracy or incitement to commit the principal offence; and
+- (b) an offence under section 293(2) of the Criminal Procedure (Scotland) Act 1995 (statutory offences: art and part and aiding or abetting) as it applies in relation to the principal offence.
+
+(3) For the purposes of sub-paragraph (1), the table in Schedule 4—
+
+- (a) indicates that, in relation to an offence, a variable monetary penalty may be imposed if the third column of the table contains the word “YES” in the row relating to the offence; and
+- (b) does not so indicate if that column contains the word “NO” in the row relating to the offence.
+
+#### 3. Notice of intent[^key-9d65980eeb92fcc94d281fa8af117b2e]
+
+(1) Where SEPA proposes to impose a variable monetary penalty on a person, it must serve on the person a notice of what is proposed (a “notice of intent”).
+
+(2) The notice of intent must include information as to—
+
+- (a) the proposed amount of the penalty;
+- (b) the grounds for the proposal to impose the variable monetary penalty;
+- (c) the right to make written representations;
+- (d) the period within which representations may be made; and
+- (e) the option to offer a VMP undertaking within the period for making written representations.
+
+#### 4. Right to make written representations[^key-c6976a531fb8038eab949908ee13bf82]
+
+(1) A person on whom a notice of intent is served may, within 28 days beginning with the day on which the notice was served, make written representations to SEPA in relation to the proposed imposition of the variable monetary penalty.
+
+(2) Written representations may in particular include representations that the person would not, by reason of any defence, be liable to be convicted of the offence to which the penalty relates.
+
+(3) The period mentioned in sub-paragraph (1) may be extended by agreement in writing between SEPA and the person on whom the notice was served.
+
+#### 5. Decision to impose a variable monetary penalty[^key-af8ff82e7f62c516361b87efe1f4cd6e]
+
+(1) SEPA must, after the end of the period for making written representations, decide whether to impose a variable monetary penalty and, if so, the amount of the penalty.
+
+(2) In making that decision, SEPA must—
+
+- (a) have regard to any representations made in accordance with paragraph 4; and
+- (b) take into account any VMP undertaking accepted by it.
+
+#### 6. Final notice[^key-3ad20139ba138e551dd606e7a79ba10d]
+
+(1) Where a decision is taken to impose a variable monetary penalty, SEPA may do so by serving a final notice.
+
+(2) A final notice must include information as to—
+
+- (a) the amount of the penalty;
+- (b) the grounds for imposing the penalty;
+- (c) how payment may be made;
+- (d) the period within which payment must be made;
+- (e) late payment interest;
+- (f) rights of appeal; and
+- (g) the consequences of non-payment.
+
+(3) SEPA may not serve a final notice after a period of six months beginning with the day which is the final day on which written representations may be made in relation to the notice of intent.
+
+(4) The period mentioned in sub-paragraph (3) may be extended by agreement in writing between SEPA and the person on whom the notice was served.
+
+#### 7. Appeals against variable monetary penalties[^key-53742d7c6c530a6a3f2d1649656a7f16]
+
+(1) A person on whom a variable monetary penalty is imposed may appeal against the decision as to the imposition or amount of the penalty.
+
+(2) An appeal under this paragraph may be made on one or more of the following grounds:—
+
+- (a) the decision was based on an error of fact;
+- (b) the decision was wrong in law;
+- (c) the amount of the penalty is unreasonable;
+- (d) the decision was unreasonable for any other reason; or
+- (e) any other reason.
+
+(3) The grounds on which a person may appeal under this paragraph do not include the ground that SEPA failed to comply with guidance issued to it by the Lord Advocate under section 31(1) of the Act.
+
+(4) An appeal under this paragraph must be made within the period of 28 days beginning with the day on which the final notice under paragraph 6(1) is served.
+
+(5) Where an appeal is made under this paragraph, the variable monetary penalty is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
+
+#### 8. Payment requirements for variable monetary penalties[^key-e667070bc041996c3ede21621490191e]
+
+(1) Subject to paragraph (2), the variable monetary penalty must be paid within 56 days beginning with the day the final notice was served or such longer period as SEPA may specify in the final notice.
+
+(2) In the case of an appeal, any penalty which falls to be paid (whether because the penalty was upheld or because the appeal was withdrawn) is payable within—
+
+- (a) the period referred to in sub-paragraph (1);
+- (b) the period of 28 days beginning with the day the appeal is determined or withdrawn; or
+- (c) such period as the Scottish Land Court may, in determining the appeal, specify,
+
+whichever ends later.
+
+#### 9. Costs recovery notices[^key-3d25248980eb8a150b200f403dedf3f3]
+
+(1) SEPA may serve a notice on a person on whom a variable monetary penalty has been imposed, requiring that person to pay the costs incurred by SEPA in relation to the imposition of the penalty up to the time of its imposition (a “costs recovery notice”) .
+
+(2) In this paragraph, “costs” include in particular—
+
+- (a) investigation costs (including the costs of monitoring the environment to determine the harm caused by the relevant offence to which the penalty relates);
+- (b) administration costs; and
+- (c) costs of obtaining expert advice (including legal advice).
+
+(3) The costs recovery notice must specify—
+
+- (a) the amount required to be paid;
+- (b) how payment may be made;
+- (c) the period within which payment must be made;
+- (d) that SEPA may be required to provide a detailed breakdown of the amount (unless such a breakdown is provided by SEPA with the notice itself);
+- (e) the rights of appeal; and
+- (f) consequences of non-payment.
+
+(4) The person on whom the notice is served may require SEPA to provide a detailed breakdown of the amount required to be paid (unless such a breakdown has already been provided).
+
+(5) SEPA must take such steps as are reasonable to ensure that the detailed breakdown is sent to the person requesting it within a period of 21 days from the date of the request.
+
+#### 10. Appeals against costs recovery notices[^key-bf2bf4a50ef5f3d22faa537af6b1b62d]
+
+(1) The person required to pay costs may appeal against—
+
+- (a) the decision of SEPA to impose the requirement; and
+- (b) the decision of SEPA as to the amount of the costs (including that some or all of the costs were unnecessarily incurred).
+
+(2) An appeal under this paragraph must be made within the period of 28 days beginning with—
+
+- (a) the day on which the costs recovery notice under paragraph 9(1) is served; or
+- (b) where a person requests a detailed breakdown of the costs recovery notice, the day on which that breakdown is sent by SEPA.
+
+(3) Where an appeal is made under this paragraph, the costs recovery notice is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
+
+#### 11. Payment requirements for costs recovery notices[^key-a62f9001eddedf080d40ea7d6cf16587]
+
+(1) Subject to sub-paragraph (2), the amount required to be paid under the costs recovery notice must be paid within 56 days beginning with the day the notice was served or such longer period as SEPA may specify in the notice.
+
+(2) In the case of an appeal, any costs which fall to be paid (whether because the penalty was upheld or because the appeal was withdrawn) are payable within—
+
+- (a) the period referred to in sub-paragraph (1);
+- (b) the period of 28 days beginning with the day the appeal is determined or withdrawn; or
+- (c) such period as the Scottish Land Court may, in determining the appeal, specify,
+
+whichever ends later.
+
+### CHAPTER 2 — VMP Undertakings
+
+#### 12. VMP undertakings[^key-1e176c9ea50e5488b2297c037af45333]
+
+(1) A person on whom a notice of intent to issue a variable monetary penalty is served may offer a VMP undertaking, which SEPA may accept or reject.
+
+(2) A “VMP undertaking” is an undertaking by the person on whom the notice of intent is served as to action to be taken by that person, within such period as may be specified in the undertaking, for all or any of the following purposes—
+
+- (a) to secure that the position is, so far as possible, restored to what it would have been if the offence had not been committed;
+- (b) to benefit the environment to the extent that the commission of the offence has harmed the environment;
+- (c) to secure that no financial benefit arising from the commission of the offence accrues to the person.
+
+(3) A person offering a VMP undertaking must do so in writing within the period for making written representations.
+
+(4) A VMP undertaking must include—
+
+- (a) information as to—
+  - (i) the notice of intent to which the undertaking relates;
+  - (ii) the act or omission giving rise to the relevant offence to which the notice of intent relates;
+  - (iii) the action to be taken under the undertaking;
+  - (iv) the period within which that action must be taken; and
+  - (v) how and when the person is considered to have fulfilled the undertaking; and
+- (b) a statement that the undertaking is made in accordance with this Schedule.
+
+(5) A VMP undertaking accepted by SEPA may be varied (including by extending the period within which the action must be taken) if both parties agree in writing.
+
+#### 13. Inaccurate, incomplete and misleading information[^key-964e9195130947a2e37ce10506bc06b8]
+
+(1) SEPA may serve a notice on a person from whom SEPA has accepted a VMP undertaking, requiring that person to provide, within such period as SEPA may consider reasonable, sufficient information to determine whether the VMP undertaking has been complied with.
+
+(2) A person who fails to provide such information, or provides inaccurate, misleading or incomplete information in relation to a VMP undertaking may be regarded by SEPA as not having complied with the undertaking.
+
+#### 14. Non-compliance penalties[^key-b4f03549854c7711e18bcdc6b6f3a67b]
+
+(1) SEPA may impose a non-compliance penalty on a person who fails to comply with a VMP undertaking which is accepted from the person.
+
+(2) A “non-compliance penalty” is a requirement to pay SEPA an amount calculated in accordance with sub-paragraph (3).
+
+(3) The amount of the non-compliance penalty is to be determined by SEPA and, subject to sub-paragraph (4), must be—
+
+- (a) an amount equivalent to 140% of the variable monetary penalty which SEPA would have imposed by final notice had the undertaking not been accepted; or
+- (b) a lesser amount, where SEPA considers there are exceptional circumstances justifying it.
+
+(4) The maximum amount of the non-compliance penalty that may be imposed in any case is the same as the maximum amount of a variable monetary penalty which would apply in that case in accordance with paragraph 1(4).
+
+(5) Where a decision is taken to impose a non-compliance penalty, SEPA may do so by serving a non-compliance penalty notice.
+
+(6) A non-compliance penalty notice must include information as to—
+
+- (a) the grounds for imposing the non-compliance penalty;
+- (b) the amount of the penalty;
+- (c) how payment may be made;
+- (d) the period within which payment must be made;
+- (e) late payment interest;
+- (f) rights of appeal; and
+- (g) the consequences of non-payment.
+
+#### 15. Appeals against non-compliance penalties[^key-547ebda1cd1da7123a7983c1cd391072]
+
+(1) A person on whom a non-compliance penalty is imposed may appeal against the notice.
+
+(2) An appeal under this paragraph may be made on one or more of the following grounds:—
+
+- (a) the decision to serve the notice was based on an error of fact;
+- (b) the decision was wrong in law;
+- (c) the decision was unreasonable for any other reason (including that the amount of the penalty was unreasonable); or
+- (d) any other reason.
+
+(3) An appeal under this paragraph must be made within the period of 28 days beginning with the day on which the non-compliance penalty notice under paragraph 14 is served.
+
+(4) Where an appeal is made under this paragraph, the non-compliance penalty is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
+
+#### 16. Payment requirements for non-compliance penalties[^key-dac3c186900299157de25587c451e1bc]
+
+(1) Subject to sub-paragraph (2), the non-compliance penalty must be paid within 56 days beginning with the day the non-compliance penalty notice was served or such longer period as SEPA may specify in the notice.
+
+(2) In the case of an appeal, any penalty which falls to be paid (whether because the penalty was upheld or because the appeal was withdrawn) is payable within—
+
+- (a) the period referred to in sub-paragraph (1);
+- (b) the period of 28 days beginning with the day the appeal is determined or withdrawn; or
+- (c) such period as the Scottish Land Court may, in determining the appeal, specify,
+
+whichever ends later.
+
+### CHAPTER 3 — Effect on criminal proceedings etc. and late payment interest
+
+#### 17. Variable monetary penalties: effect on criminal proceedings etc.[^key-c9f2274e33965234a350c057f80dde1d]
+
+(1) Sub-paragraph (2) applies where—
+
+- (a) a variable monetary penalty is imposed on a person;
+- (b) a VMP undertaking is accepted from a person; or
+- (c) both such a penalty is imposed, and such an undertaking is accepted from, a person.
+
+(2) No criminal proceedings may be commenced against the person for an offence constituted by an act or omission if the variable monetary penalty or, as the case may be, the VMP undertaking related to that offence constituted by that act or omission.
+
+(3) Where a notice of intent relating to a variable monetary penalty is served on a person in respect of an offence constituted by an act or omission, the period mentioned in sub-paragraph (4) is not to be counted in calculating any period within which criminal proceedings in respect of that offence constituted by that act or omission must be commenced.
+
+(4) The period is that beginning with the day on which the notice of intent is served and ending with the day which is the final day on which written representations may be made in relation to the notice.
+
+(5) The reference in sub-paragraph (2) to criminal proceedings being commenced includes a reference to—
+
+- (a) a warning being given by the procurator fiscal;
+- (b) a conditional offer (within the meaning of section 302 of the Criminal Procedure (Scotland) Act 1995[^f00016]) being sent;
+- (c) a compensation offer under section 302A[^f00017] of that Act being sent;
+- (d) a combined offer under section 302B[^f00018] of that Act being sent; and
+- (e) a work order under section 302ZA[^f00019] of that Act being made.
+
+#### 18. Late payment interest[^key-c2edb6ca3863ce99cab74d10cfb5e1bc]
+
+(1) If a person fails to pay in full—
+
+- (a) a variable monetary penalty;
+- (b) a non-compliance penalty; or
+- (c) a costs recovery notice,
+
+by the payment date, interest is payable on the amount outstanding (“late payment interest”) in accordance with the following sub-paragraphs.
+
+(2) Interest falls to be paid at a rate of 8 per cent per annum calculated on a daily basis for the period beginning with the day after the payment date and ending on the day payment is made or recovered.
+
+(3) The total amount of interest payable is not to exceed the amount of the variable monetary penalty, non-compliance penalty or costs recovery notice to which the interest relates.
+
+(4) In this article, “payment date” means—
+
+- (a) in relation to a variable monetary penalty, the date payment is due in accordance with paragraph 8(1) or, in the case of an appeal, 8(2);
+- (b) in relation to a costs recovery notice, the date payment is due in accordance with paragraph 11(1) or, in the case of an appeal, 11(2); and
+- (c) in relation to a non-compliance penalty, the date payment is due in accordance with paragraph 16(1) or, in the case of an appeal, 16(2).
+
+## SCHEDULE 3 — Enforcement undertakings
+
+Articles 2(1), 3(3)
+
+### 1. Enforcement undertakings[^key-71da0fae9199896f85acbb878fcbc360]
+
+(1) Where a person offers SEPA an enforcement undertaking, SEPA may accept it in accordance with sub-paragraph (2) or reject it.
+
+(2) SEPA may only accept an enforcement undertaking from a person where SEPA has reasonable grounds to suspect that the person has committed a relevant offence.
+
+(3) An “enforcement undertaking” is an undertaking to take such action of a type mentioned in sub-paragraph (4) and specified in the undertaking within such period as may be so specified.
+
+(4) The types of action are—
+
+- (a) action to secure that the offence does not continue or recur;
+- (b) action to secure that the position is, so far as possible, restored to what it would have been if the offence had not been committed; and
+- (c) any other action that will secure benefits or improvements to the environment (including the payment of a sum of money to a third party).
+
+(5) In this Schedule, references to taking action specified in an enforcement undertaking include references to refraining from taking such action.
+
+### 2. Relevant offences for enforcement undertakings[^key-3be1f9d0b2fe1798d44652d64d36b642]
+
+(1) For the purposes of this Schedule and section 27 of the Act (enforcement undertakings), “relevant offence” means an offence specified in Schedule 4, if the table in that Schedule indicates that an enforcement undertaking may be accepted.
+
+(2) In relation to a relevant offence (“the principal offence”), the following offences are also relevant offences for those purposes—
+
+- (a) any attempt, conspiracy or incitement to commit the principal offence; and
+- (b) an offence under section 293(2) of the Criminal Procedure (Scotland) Act 1995 (statutory offences: art and part and aiding or abetting) as it applies in relation to the principal offence.
+
+(3) For the purposes of sub-paragraph (1), the table in Schedule 4—
+
+- (a) indicates that, in relation to an offence, an enforcement undertaking may be accepted, if the fourth column of the table contains the word “YES” in the row relating to the offence; and
+- (b) does not so indicate if that column contains the word “NO” in the row relating to the offence.
+
+### 3. Contents of an enforcement undertaking[^key-5cfe1182e66a875615e0766b0caa3810]
+
+(1) An enforcement undertaking must be made in writing.
+
+(2) An enforcement undertaking must include—
+
+- (a) information as to—
+  - (i) the act or omission giving rise to the relevant offence to which the undertaking relates;
+  - (ii) the action to be taken under the undertaking;
+  - (iii) the period within which that action must be taken;
+  - (iv) how and when the person is considered to have fulfilled the undertaking; and
+- (b) a statement that the undertaking is made in accordance with this Schedule.
+
+(3) An enforcement undertaking accepted by SEPA may be varied (including by extending the period within which the action must be taken) if both parties agree in writing.
+
+### 4. Consequences of an enforcement undertaking and certificates of non-compliance[^key-a7a37bb02809dafd8dafd1c7f74e6bd1]
+
+(1) If SEPA accepts an enforcement undertaking and has not issued a certificate of non-compliance in relation to it—
+
+- (a) no criminal proceedings may be commenced against the person from whom the enforcement undertaking is accepted in respect of an offence constituted by an act or omission if the undertaking relates to that offence constituted by that act or omission; and
+- (b) SEPA may not impose on that person a fixed monetary penalty or variable monetary penalty in respect of the act or omission.
+
+(2) If SEPA is satisfied that an enforcement undertaking, or any part of it, has not been complied with it may issue a certificate to that effect (a “certificate of non-compliance”).
+
+(3) For the purpose of enabling criminal proceedings in respect of an act or omission in relation to which SEPA has accepted an enforcement undertaking to be commenced against a person who has not complied with the undertaking or any part of it, the period mentioned in sub-paragraph (4) is not to be counted in calculating any period within which such proceedings must be commenced.
+
+(4) The period is that beginning with the day on which the enforcement undertaking is accepted and ending with—
+
+- (a) the day on which SEPA issues a certificate of non-compliance; or
+- (b) where an appeal against such a certificate is taken, the day on which the appeal is finally determined.
+
+(5) SEPA may revoke a certificate of non-compliance by notice at any time.
+
+(6) Where SEPA revokes a certificate of non-compliance, this paragraph applies as if the certificate had not been issued.
+
+(7) The reference in subparagraph (1)(a) to criminal proceedings being commenced is to be read as if it included a reference to—
+
+- (a) a warning being given by the procurator fiscal;
+- (b) a conditional offer (within the meaning of section 302 of the Criminal Procedure (Scotland) Act 1995) being sent;
+- (c) a compensation offer under section 302A of that Act being sent;
+- (d) a combined offer under section 302B of that Act being sent; and
+- (e) a work order under section 302ZA of that Act being made.
+
+### 5. Inaccurate, incomplete or misleading information[^key-b899aabe1b5306fa60584377bcf150a0]
+
+(1) SEPA may serve a notice on a person from whom SEPA has accepted an enforcement undertaking requiring that person to provide, within such period as SEPA may consider reasonable, sufficient information to determine whether the undertaking has been complied with.
+
+(2) A person who fails to provide such information, or provides inaccurate, misleading or incomplete information in relation to an enforcement undertaking, is to be regarded as not having complied with the undertaking.
+
+### 6. Appeal against a certificate of non-compliance[^key-b9646976ed38d8b1a0ca9727288c77d0]
+
+(1) A person who is issued a certificate of non-compliance may appeal against it.
+
+(2) An appeal under this paragraph may be made on one or more of the following grounds:—
+
+- (a) the decision was based on an error of fact;
+- (b) the decision was wrong in law;
+- (c) the decision was unreasonable; or
+- (d) any other reason.
+
+(3) An appeal under this paragraph must be made within the period of 28 days beginning with the day on which the certificate of non-compliance is issued.
+
+(4) Where an appeal is made under this paragraph, the certificate of non-compliance has no effect from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
+
+## SCHEDULE 4 — Relevant offences and fixed penalty amounts[^key-338112ed5e41701f4dae2401f7ea2981]
+
+Schedule 1, paragraphs 2 and 3
+
+[^key-338112ed5e41701f4dae2401f7ea2981]
+
+In the following table—
+
+- “FMP” is a fixed monetary penalty;
+- “VMP” is a variable monetary penalty;
+- “EU” is an enforcement undertaking; and
+- “FMP amount” is the level of fixed monetary penalty specified in accordance with paragraph 3 of Schedule 1.
+
+  <table>
+  <thead>
+  <tr><th colspan="2">Provision creating offence</th><th>FMP</th><th>VMP</th><th>EU</th><th>FMP amount</th></tr>
+  </thead>
+  <tbody>
+  <tr><th colspan="6">The Control of Pollution Act 1974</th></tr>
+  <tr><td colspan="2">Section 30Z(3) (failure to give notice of proposed abandonment of a mine timeously)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><th colspan="6">The Wildlife and Countryside Act 1981</th></tr>
+  <tr><td colspan="2">Section 14K(1) (failing to comply with a species control order)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Section 14K(2) (obstruction)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 14K(3) (carrying out an excluded operation)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><th colspan="6">...</th></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><th colspan="6">...</th></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><th colspan="6">The Environmental Protection Act 1990</th></tr>
+  <tr><td colspan="2">Section 33(6) (unauthorised or harmful depositing, treatment or disposal etc. of waste; breaching conditions of a waste management licence)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Section 34(6) (failure to comply with duty of care requirements)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">Section 57(5) (failure to comply with ministerial direction relating to waste acceptance etc.)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 59(5) (failure to comply with notice requiring removal of waste)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">Section 78M(1) (failure to comply with a remediation notice)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><th colspan="6">The Radioactive Substances Act 1993</th></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td></td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><th colspan="6">The Environment Act 1995</th></tr>
+  <tr><td colspan="2">Section 27(3)(a) (failure to comply with information notices)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 27(3)(b) (false statements)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 110(1) (obstruction)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 110(2)(a) (failure to comply with a requirement imposed under enforcement powers)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 110(2)(b) (failure to provide facilities or assistance)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 110(2)(c) (preventing answers)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 110(3) (pretending to be an authorised person)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><th colspan="6">The Special Waste Regulations 1996</th></tr>
+  <tr><td colspan="2">Regulation 18(1) (failure to comply with regulations)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 18(3) (false or misleading statements)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 18(4) (false entries in records)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><th colspan="6">The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000</th></tr>
+  <tr><td colspan="2">Regulation 13(1) (holding contaminated equipment without registration)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 13(2) (offences relating to holding, disposing and decontaminating of equipment)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 13(3) (failure to comply with labelling requirements)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 13(4)(a) (false or misleading registration information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 13(4)(b) (failure to provide inventories information)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 13(4)(c) (false or misleading information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><th colspan="6">The Waste and Emissions Trading Act 2003</th></tr>
+  <tr><td colspan="2">Section 13(2) (failure to maintain records, gather information, or make returns etc.)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 13(4)(a) (obstruction)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 13(4)(b) (failure to comply with investigatory powers conferred under section 13(3))</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><th colspan="6">The Water Environment and Water Services (Scotland) Act 2003</th></tr>
+  <tr><td colspan="2">Section 18(9)(a) (failure to comply with information notice etc.)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 18(9)(b) (altering, supressing or destroying documents)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><th colspan="6">...</th></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><th colspan="6">...</th></tr>
+  <tr><td colspan="2">. . .</td><td colspan="4"></td></tr>
+  <tr><td></td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td></td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><th colspan="6">The Producer Responsibility Obligations (Packaging Waste) Regulations 2007</th></tr>
+  <tr><td colspan="2">Regulation 40(1)(a) (breaching the producer registration obligation)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 40(1)(b) (breaching producer recovery and recycling obligations)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 40(1)(c) (breaching the certifying obligation)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 40(3) (breaching operator recovery and recycling obligations)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 40(4) (contravening requirements or conditions of accreditation)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 40(5) (false or misleading information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 40(6) (failure to comply with notice requirements)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 40(7) (obstruction)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 40(8)(a) (holding companies; failure to comply with recovery and recycling obligations)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 40(8)(b) (holding companies; failure to furnish a certificate of compliance)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><th colspan="6">The Environmental Liability (Scotland) Regulations 2009</th></tr>
+  <tr><td colspan="2">Regulation 10(6) (failure by operator to take preventive measures, etc.)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 11(7) (failure by operator to identify potential remedial measures, etc.)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 12(5) (failure by operator to take remedial action, etc.)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 18(4) (failure to provide required information)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><th colspan="6">The Waste Batteries and Accumulators Regulations 2009</th></tr>
+  <tr><td colspan="2">Regulation 89(1)(a)(i) to (xx) (producer failing to comply with requirements etc.)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 89(1)(a)(xxi) (failure to declare battery producer registration number)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 89(1)(b) (false or misleading information), insofar as it relates to information furnished under regulation 11 (information provided to operators of battery compliance schemes), 27 (application by a small producer to register) or 29 (notification of changes to registration details)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 89(1)(c) (false or misleading information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 89(1)(d) (false or misleading information) insofar as it relates to reports furnished under regulation 13 (reporting: portable batteries placed on the market by a small producer) or 16(5) or (6) (reporting: portable batteries)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 89(2)(a)(scheme operator failing to comply with requirements etc.)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 89(2)(b) (false or misleading information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 89(2)(c) (false or misleading declaration of compliance by scheme operator)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 89(4)(a) (approved battery treatment operator failing to comply with requirements etc.)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 89(4)(b) (false or misleading report by approved battery treatment operator)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 89(6)(a) (disposing of waste automotive and industrial batteries in landfill or by incineration)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 89(6)(b) (failure to comply with requirement for approval of battery treatment operators and exporters)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 89(6)(c) (disclosing information in contravention of regulation 82) insofar as the information disclosed under or by virtue of regulation 82(1) was disclosed by SEPA</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 89(6)(d) (failure to comply with an enforcement notice) insofar as enforcement notice was served by SEPA</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 89(6)(e) (failure to comply with a requirement; powers of entry and inspection) insofar as the requirement was imposed by an enforcement officer authorised by SEPA</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 89(6)(f) (obstruction) insofar as the enforcement officer was authorised by SEPA</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 89(6)(g) (failure to provide assistance or information) insofar as the requirement was imposed by an enforcement officer authorised by SEPA</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 89(6)(h) (failure to produce records or information) insofar as the requirement to produce a record or information was imposed by an enforcement officer authorised by SEPA</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 89(6)(i) (false or misleading information to an enforcement officer) insofar as the information was provided to an enforcement officer authorised by SEPA</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><th colspan="6">The Flood Risk Management (Scotland) Act 2009</th></tr>
+  <tr><td colspan="2">Section 47(1)(a) (failure to provide information or documents required by notice)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 47(1)(b) (disposal, altering etc. of documents)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 80(5) (obstruction)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><th colspan="6">The Waste Information (Scotland) Regulations 2010</th></tr>
+  <tr><td colspan="2">Regulation 6(1)(a) (offences related to waste information requests)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 6(1)(b) (false or misleading statements)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><th colspan="6">The Reservoirs (Scotland) Act 2011</th></tr>
+  <tr><td colspan="2">Section 5(2) (failure to comply: duty of multiple reservoir managers to co-operate)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 17(1) or (2) (failure to comply with registration requirements)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 42(1)(a) (failure to give notice of proposed construction or alteration works), in so far as—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(a) it relates to a controlled reservoir subject to alteration, where—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(i) the reservoir is a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">(i) the reservoir is a not a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">(a) it relates to a controlled reservoir being constructed.</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Section 42(1)(b) (failure to appoint a construction engineer), in so far as—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(a) it relates to a controlled reservoir subject to alteration, where—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(i) the reservoir is a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">(i) the reservoir is a not a high-risk reservoir.</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">(a) it relates to a controlled reservoir being constructed.</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 42(1)(c) (failure to notify SEPA of the appointment of construction engineer), in so far as—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(a) it relates to a controlled reservoir subject to alteration, where—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(i) the reservoir is a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">(i) the reservoir is a not a high-risk reservoir.</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">(a) it relates to a controlled reservoir being constructed.</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Section 42(1)(d) (failure to comply with direction as to the taking of safety measures in safety report)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 42(1)(e) (failure to comply with preliminary certificate or final certificate), where—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(a) the reservoir is a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">(a) the reservoir is a not a high-risk reservoir.</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Section 52(1)(a) (failure to appoint inspecting engineer and carry out required inspections)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 52(1)(b) (failure to notify SEPA of appointment of inspecting engineer)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Section 52(1)(c) (failure to comply with direction as to the taking of measures in inspection report)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 52(1)(d) (failure to appoint supervising engineer)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 52(1)(e) (failure to notify SEPA of appointment of supervising engineer)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Section 52(1)(f) (failure to comply with direction of supervising engineer as to carrying out of visual inspection), where—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(a) the reservoir is a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">(a) the reservoir is a not a high-risk reservoir.</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Section 52(1)(g) (failure to comply with notice of identification of something which might affect the safety of the reservoir)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 52(1)(h) (failure to keep record of water levels etc.), where—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(a) the reservoir is a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">(a) the reservoir is a not a high-risk reservoir.</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 52(2) (failure to give inspection engineer copy of final certificate and latest inspection report), where—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(a) the reservoir is a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">(a) the reservoir is a not a high-risk reservoir.</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 58(1)(a) (failure to maintain records etc.), where—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(a) the reservoir is a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">(a) the reservoir is a not a high-risk reservoir.</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 58(1)(b) (failure to display emergency response information), where—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(a) the reservoir is a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">(a) the reservoir is a not a high-risk reservoir.</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 66(1) (failure to comply with a notice regarding appointment of engineer or to notify appointment)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 70(1) (failure to comply with enforcement notice)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 94(1) (obstruction or preventing access to land)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Section 99(1) (failure to provide reasonable facilities to engineers or information or assistance to SEPA)</td><td>YES</td><td>YES</td><td>NO</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Section 99(2) (altering, suppressing or destroying documents)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Section 103(4) (failure to provide notice of revocation of appointment or resignation of engineer), where—</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">(a) the reservoir is a high-risk reservoir;</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">(a) the reservoir is a not a high-risk reservoir.</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><th colspan="6">...</th></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td colspan="4"></td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><th colspan="6">...</th></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><th colspan="6">...</th></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><td colspan="2">. . .</td><td>. . .</td><td>. . .</td><td>. . .</td><td>. . .</td></tr>
+  <tr><th colspan="6">The CRC Energy Efficiency Scheme Order 2013</th></tr>
+  <tr><td colspan="2">Article 82(1) (false or misleading statements) insofar as the statement is made in purported compliance with article 45, or Parts 9 to 12 of that Order</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Article 82(2) (failure to comply with enforcement notice) insofar as the enforcement notice was served by SEPA or the Scottish Ministers</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Article 82(4) (pretending to be an unauthorised person) insofar as pretending to be a person authorised by SEPA.</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Article 82(5) (refusing access to premises) insofar as the administrator is SEPA.</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><th colspan="6">The Waste Electrical and Electronic Equipment Regulations 2013</th></tr>
+  <tr><td colspan="2">Regulation 90(1)(a) (failure to comply with producer obligations etc. under regulations 11 to 20)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 90(1)(b) or (c) (false or misleading information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 90(2) (failure to comply with producer obligations etc. under regulations 21 to 24)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 90(3)(b) or (c) (false or misleading information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 90(4) (failure of an operator to ensure that systems are set up to prioritise the reuse of whole appliances)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 90(6) (record keeping: distribution)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 90(7)(a) (failure of an operator of an approved treatment facility or approved exporter to comply with requirements) insofar as it relates to regulation 54(2), 66 or 67</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 90(7)(a) (failure of an operator of an approved treatment facility or approved exporter to comply with requirements) insofar as it relates to regulation 54(1) or 63</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 90(7)(b) (false or misleading information: report by operator of authorised treatment facility or approved exporter)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 90(8)(a) (miscellaneous offences) insofar as it relates to regulations 47 and 51</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 90(8)(a) (miscellaneous offences) insofar as it relates to regulation 60</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 90(8)(b) (failure to comply with an enforcement notice)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 90(8)(c) (entry and inspection powers; failure to comply)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 90(8)(d) (obstruction)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 90(8)(e) (failure to give assistance or information)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 90(8)(f) (failure to produce information when required)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 90(8)(g) (false or misleading information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 90(9) (failure to collect or transport waste electrical and electronic equipment in a way that optimises reuse and recycling)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><th colspan="6">The Ozone-Depleting Substances Regulations 2015</th></tr>
+  <tr><td colspan="2">Regulation 8(1) (qualifications and supervision)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 8(2) (offences related to training)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 15(a) (preventing a person from appearing or answering questions)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 15(b) (obstruction)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 15(c) (false or misleading information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 15(d) (failure to produce records)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><th colspan="6">The Reservoirs (Enforcement etc.) (Scotland) Order 2016</th></tr>
+  <tr><td colspan="2">Paragraph 6 of Schedule 1 (failure to comply with stop notice)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><th colspan="6">The Control of Mercury (Enforcement) Regulations 2017</th></tr>
+  <tr><td colspan="2">Regulation 41(1) (non-compliance with a relevant provision)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 41(2) (non-compliance with an enforcement notice)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 41(3) (non-compliance with an information notice)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 41(4) (giving information which is false or misleading)</td><td>YES</td><td>NO</td><td>NO</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 41(5) (failing to produce a document or record)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><th colspan="6">Environmental Authorisations (Scotland) Regulations 2018</th></tr>
+  <tr><td colspan="2">Regulation 69(1)(a) (contravention of regulation 7 (carrying on an activity otherwise than in accordance with an authorisation))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(b) (contravention of regulation 8)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(c) (failure to comply with or contravention of a general binding rule</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(d) (failure to comply with or contravention of a condition of a registration)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(e) (failure to comply with or contravention of a condition of a permit)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(f) (failure to comply with the requirements of a regulatory notice)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(g) (failure to comply with the requirements of a revocation notice)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(h) (failure to comply with an information notice)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(i) (failure to comply with an order of a court)</td><td>NO</td><td>NO</td><td>NO</td><td></td></tr>
+  <tr><td colspan="2">Regulation 69(1)(j) (making of a false, misleading or reckless statement)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(k) (making a false entry)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(l) (forging a document)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 69(1)(m) (causing or permitting any other person to commit an offence), where the person caused or permitted a person to commit an offence—</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td colspan="2">(a) regulation 69(1)(a), (b), (c), (d), (e), (f) or (g)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">(b) regulation 69(1)(h)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">(c) regulation 69(1)(j), (k), or (l).</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><th colspan="6">The Deposit and Return Scheme for Scotland Regulations 2020</th></tr>
+  <tr><td colspan="2">Regulation 31(1)(a) (contravention of regulation 4(1) (requirement to fulfil certain conditions in order to market, offer for sale or sell a scheme article))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(1)(b) (contravention of regulation 4(2) (requirement to fulfil certain conditions in order to market, offer for sale or sell a scheme article))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(1)(c) (contravention of regulation 5(2)(a) (requirement to charge a deposit when marketing, offering for sale or selling a scheme article in Scotland))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(1)(d) (contravention of regulation 5(2)(b) (requirement to display certain information when marketing, offering for sale or selling a scheme article))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(1)(e) (contravention of regulation 5(3) (requirement to communicate certain information when marketing, offering for sale or selling a scheme article))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(1)(f) (contravention of regulation 5(3A) (requirement to communicate certain information when marketing, offering for sale, or selling a non-scheme article to a purchaser other than a consumer))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(2) (offences in relation to knowingly or recklessly supplying of false information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 31(3)(a) (contravention of regulation 9(7)(a) (failure to comply with certain obligations of a producer whose registration has been cancelled))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(3)(b) (contravention of regulation 9(7)(b) (failure to comply with certain obligations of a producer whose registration has been cancelled))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(4) (contravention of regulation 10(1)(b) and (c) (failure to provide certain information to SEPA))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(5)(a) (failure to comply with certain obligations of a directly registered producer under regulation 11(1)(a) and (b))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(5)(b) (failure to comply with certain obligations of a directly registered producer under regulation 11(1)(c) to (h))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(6) (failure to comply with certain obligations of a producer registered through a scheme administrator)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(7)(a) (failure by a scheme administrator to comply with the obligations in regulation 16(1)(a)(i))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(7)(b) (failure by a scheme administrator to comply with the obligation in regulation 16(1)(a)(ii))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(7)(c) (failure by a scheme administrator to comply with the obligations in regulation 16(1)(b))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(7)(d) (failure by a scheme administrator to comply with the obligation in regulation 16(1)(c))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(8)(a)(i) (failure by a retailer to comply with regulation 19(1)(b))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(8)(a)(ii) (failure by a retailer to comply with regulation 21(2))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(8)(a)(iii) (failure by a retailer to comply with regulation 22(4)(b))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(8)(b) (failure by a retailer to comply with regulation 19(1)(c))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(8)(c) (failure by a retailer to comply with regulation 21(4))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(8)(d) (failure by a retailer to comply with regulation 22(4)(a))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(9)(a) (failure by a return point operator to comply with regulation 20(2))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(9)(b) (failure by a return point operator to comply with regulation 20(3))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(10) (failure by a voluntary return point operator to comply with regulation 25(8)(b))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 31(11) (obstruction of, or failure to assist an authorised person exercising enforcement powers under regulation 30(4))</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(12) (failure to comply with a notice under regulation 30(4)(l))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 31(13) (purporting to act as a scheme administrator without approval under regulation 15)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><th colspan="6">The Packaging Waste (Data Reporting) (Scotland) Regulations 2023</th></tr>
+  <tr><td colspan="2">Regulation 28(1) (contravention of regulation 14(3) (incapacity reporting obligation))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 28(2)(a) (contravention of regulation 16 (data collection obligations))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 28(2)(b) (contravention of regulation 17 (data reporting obligations))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 28(2)(c) (contravention of regulation 18 (notification of winding-up, receivership, administration etc.)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 28(3)(a) (contravention of regulation 20(1) (data reporting obligations))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 28(3)(b) (contravention of regulation 20(2) (data collection obligation))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 28(4)(a) (knowingly furnishing false or misleading information to SEPA)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 28(4)(b) (recklessly furnishing false or misleading information to SEPA)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 28(5) (failing to comply with any requirement imposed in a notice under regulation 23(3))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 28(6) (intentionally delaying or obstructing a person authorised by SEPA in the exercise of powers referred to in regulation 26)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><th colspan="6">The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024</th></tr>
+  <tr><td colspan="2">Regulation 115(1)(a) (carrying on business as a producer without being registered as required by regulation 25(1)(a))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 115(1)(b) (failure to apply for registration by the date specified in regulation 28(1), (2) or (3))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 115(1)(c) (failure to keep records as required by regulation 25(1)(b))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 115(1)(d) (failure to report information as required by regulation 25(1)(c) or (d), or (3)(c))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 115(1)(e) (failure to report information as required by regulation 25(1)(c) or (d), or (3)(c) by the required date under regulation 35, 36, 37 or 38)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 115(3)(a) (failure to comply with producer’s recycling obligation under regulation 25(2)(a))</td><td>NO</td><td>YES</td><td>YES</td><td>NOT APPLICABLE</td></tr>
+  <tr><td colspan="2">Regulation 115(3)(b) (failure to keep evidence as required by regulation 25(2)(b))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 115(3)(c) (failure to furnish a certificate of compliance as required by regulation 25(2)(c))</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 115(4) (failure of a registered producer to comply with a condition of registration in regulation 31(b) or (c))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 116(a) (operating a compliance scheme without registering under regulation 43(1)(b) and 51(1))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 116(b) (breach of a condition of a compliance scheme’s registration in regulation 53)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 116(c) (failure to carry out the obligation to apply for the registration of a compliance scheme member under regulation 43(3)(a))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 116(d) (failure to make an application for registration of a compliance scheme member by the required date under regulation 44(1)(a))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 116(e) (failure to report information as required in relation to a compliance scheme member under regulations 43(3)(b) and 44(2))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 116(f) (failure to report information in relation to a member of a compliance scheme under regulations 43(3)(b) and 44(2) by the required date under regulations 35, 36, 37 or 38)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 116(g) (failure to carry out the recycling obligations under regulation 43(3)(c) and 44(3))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 116(h) (failure to keep records and make returns to SEPA as required by regulations 43(6)(a) and 55)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 116(i) (failure to submit a statement of compliance to SEPA as required by regulation 56)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 116(j) (failure to give notice as required under regulations 49(5) or 54(4))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 117(1)(a) (operating a reprocessing site for a category of packaging waste without being registered with SEPA in accordance with regulation 85)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 117(1)(b) (exporting a category of packaging waste without being registered with SEPA in accordance with regulation 86)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 117(2)(a) (failure to comply with a condition of registration in regulation 88)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 117(2)(b) (contravention of a requirement in regulation 91 or in Part 2 of schedule 8)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 117(3)(a) (issuing a PRN otherwise in accordance with regulation 92(1))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 117(3)(b) (issuing a PERN otherwise than in accordance with regulation 92(2))</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 117(3)(c) (knowingly or recklessly issuing a PRN or PERN pursuant to false or misleading information)</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 117(4) (failure to comply with a condition of accreditation to issue PRNs or PERNs in regulation 98 or Part 3 of schedule 8)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 118(1) (knowingly or recklessly providing false or misleading information to SEPA in connection with its functions under the Regulations, or to a scheme operator in respect of any information referred to in regulation 45(1))</td><td>YES</td><td>YES</td><td>YES</td><td>HIGH</td></tr>
+  <tr><td colspan="2">Regulation 118(2) (failing without reasonable excuse, to comply with any requirement imposed in a notice under regulation 110(1) or to give an officer any assistance or information reasonably required in connection with the exercise of their powers under regulation 112)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 118(3) (intentionally delaying or obstructing an authorised person carrying out monitoring under regulation 109, or in the exercise of their powers under regulation 112)</td><td>YES</td><td>NO</td><td>NO</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 118(4) (failure of a holding company to comply with reporting, record-keeping or recycling obligations under paragraph 5(1)(b) or (c) or (2)(a) of schedule 9)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  <tr><td colspan="2">Regulation 118(4) (failure of a holding company to comply with the certification obligation in paragraph 5(2)(b) of schedule 9)</td><td>YES</td><td>YES</td><td>YES</td><td>LOW</td></tr>
+  <tr><td colspan="2">Regulation 118(5) (failure to comply with a compliance notice imposed under regulation 121)</td><td>YES</td><td>YES</td><td>YES</td><td>MEDIUM</td></tr>
+  </tbody>
+  </table>
+
+  [^f00020][^f00021][^key-0ab6c904ed4a451d663a631442834e51][^key-0ab6c904ed4a451d663a631442834e51][^key-0ab6c904ed4a451d663a631442834e51][^key-0ab6c904ed4a451d663a631442834e51][^key-0ab6c904ed4a451d663a631442834e51][^key-0ab6c904ed4a451d663a631442834e51][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^f00024][^f00025][^f00026][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^f00030][^f00031][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^f00034][^f00035][^f00036][^f00037][^key-94f423ac37edfa2f03edc20020d2775f][^f00038][^f00039][^f00040][^f00041][^key-c7bce5f225427fb70e077ca92156ccdf][^key-c7bce5f225427fb70e077ca92156ccdf][^key-c7bce5f225427fb70e077ca92156ccdf][^key-c7bce5f225427fb70e077ca92156ccdf][^key-c7bce5f225427fb70e077ca92156ccdf][^key-c7bce5f225427fb70e077ca92156ccdf][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^f00044][^f00045][^f00046][^f00047][^f00048][^f00049][^f00050][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^f00054][^f00055][^f00056][^f00057][^key-a8e4bf52d8da43ceab5ddd40f550fe4b][^key-f3169c5f830c0cecd393bb943f1e4e22][^key-16fd482fd57f322b8f2ffe6b9a28ab8b][^key-c529f68c66cdbaa836416efdc9f8feb6][^key-20b8db42d0c857349253c7ccdb905f1e][^key-51833fcf2870ab4b123e43151451097b][^key-abc2cb6fcd594f8efbf792a27f41f778]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is made under the powers in Chapter 2 of Part 3 of the Regulatory Reform (Scotland) Act 2014. It provides the Scottish Environment Protection Agency (“SEPA”) with powers to impose civil enforcement measures on persons in relation to the offences specified in Schedule 4 to the Order (“relevant offences”). The enforcement measures are fixed monetary penalties, variable monetary penalties and enforcement undertakings.
+
+The Order makes provision for fixed monetary penalties at Schedule l. SEPA may impose a fixed penalty notice when satisfied, on the balance of probabilities, that a person has committed a relevant offence (paragraph 1). The amount of the fixed monetary penalties are £300, £600 or £1000 depending on the offence (the amounts are prescribed by paragraph 3 of Schedule 1 and Schedule 4). The procedure for imposing the penalty is provided for at paragraphs 4 to 7. Paragraph 8 makes provision for appeals. Paragraphs 9 and 10 provide for the payment requirements and for a late payment penalty which may be imposed if those are not met. The effect of being served a fixed monetary penalty on criminal proceedings is provided for at paragraph 11.
+
+The Order makes provision for variable monetary penalties at Schedule 2. Variable monetary penalties are penalties of an amount which SEPA may in each case determine up to a statutory maximum (paragraph 1). They can be imposed where SEPA is satisfied, on the balance of probabilities, that a person has committed a relevant offence (paragraph 1). The procedure for imposing such a penalty is provided for at paragraphs 3 to 6. Paragraph 7 provides for an appeal against the imposition of the penalty or the amount. Under paragraph 9, SEPA may recover costs incurred by them in relation to imposing a variable monetary penalty.
+
+Schedule 2 also provides that SEPA may accept a VMP undertaking (paragraph 12 of Schedule 2). This is an undertaking which may be offered by a person who has been served with a notice of intent relating to a variable monetary penalty. SEPA may impose a non-compliance penalty on a person who fails to comply with such an undertaking (paragraphs 14 to 16 of Schedule 2).
+
+Paragraph 18 of Schedule 2 provides for late payment interest for late payment of variable monetary penalties, non-compliance penalties or costs recovery notices.
+
+Schedule 3 makes provision for and about enforcement undertakings. These are voluntary undertakings to take certain types of action, for example to secure the offence does not recur, or restore, benefit or improve the environment. SEPA may accept an offer of an undertaking if it has reasonable grounds to suspect that the person offering it has committed a relevant offence (paragraph 1). The requirements of what an enforcement undertaking must contain are provided for in paragraph 3 of that Schedule. The consequences of SEPA accepting such an undertaking are, unless SEPA has issued a certificate of non-compliance, that no criminal proceedings can be commenced against the person for the relevant offence and no other enforcement measures can be imposed in relation to it (paragraph 4 of Schedule 3). Certificates of non-compliance are provided for at paragraph 4, and can be appealed against (paragraph 6 of Schedule 3).
+
+Article 5 of the Order permits SEPA to recover any of the penalties under the Order as a civil debt. Articles 7 and 8 provide for an appeals mechanism to the Scottish Land Court. It provides that appeals may be made by written representations and without an oral hearing in certain circumstances. It also makes provision for expenses.
+
+Articles 9 and 10 provide that guidance must be prepared by SEPA and had regard to when exercising their functions. Article 11 makes provision for the publication of information on enforcement action. Article 12 provides that any sums received by SEPA in respect of enforcement action under the Order must be paid to the Scottish Ministers.
+
+The Order makes consequential amendment to the Scottish Land Court Act 1993 to ensure that the Court of Session can hear appeals from the Land Court in relation to this Order. It also amends the Scottish Land Court (Fees) Order 1996 to ensure that appeals made under this Order are exempt from the requirement to pay a fee for lodging an application to appeal to the Scottish Land Court.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 3](https://www.legislation.gov.uk/asp/2014/3).
+
+[^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
+
+[^f00003]: Footnote: The powers to make this Order are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). This Order is subject to the affirmative procedure by virtue of section 33(3) of that Act.
+
+[^key-f53d699379717535507240b0f6b71b94]: Commencement: Art. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-6823ba6f188199d637ac7c548dcfe46f]: Commencement: Art. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-1a49e1a646eef5a5548aab28b0745e00]: Commencement: Art. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-20dc7ee51048613505b6f149edfab799]: Commencement: Art. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^f00005]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 302 was amended by section 50(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) (“the 2007 Act”) and section 70(3) of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) (“the 2010 Act”).
+
+[^f00006]: Footnote: Section 302A was added by section 50(2) of the 2007 Act and amended by section 70(4) of the 2010 Act.
+
+[^f00007]: Footnote: Section 302B was added by section 50(2) of the 2007 Act.
+
+[^f00008]: Footnote: Section 302ZA was added by section 51 of the 2007 Act and amended by section 70(5) of the 2007 Act.
+
+[^key-8554bd7650da60cc2b5100b3189b3302]: Commencement: Art. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-49faf96359cb8aa380880ccc440ec23f]: Commencement: Art. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-b7f2cfcb9cacbcede97411e43209afa8]: Commencement: Art. 7 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^f00009]: Footnote: The Scottish Land Court was established by section 3 of the Small Landholders (Scotland) Act 1911, and continued in being under section 1 of the Scottish Land Court Act [1993 (c.45)](https://www.legislation.gov.uk/ukpga/1993/45).
+
+[^key-cca1caa56ac76c754db1c62a1366c09f]: Commencement: Art. 8 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-c6c600852fbce5906faa5cb75af9a248]: Commencement: Art. 9 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-2ea8e4cfe36455f67e36d03f7f51acc2]: Commencement: Art. 10 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-0a44f7d1536ac02bd36b115f36540d05]: Commencement: Art. 11 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-36bb56f4fb8f5694640aaf4177fb9e5c]: Commencement: Art. 12 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-e3dbc764909f030089a675c335dc1831]: Commencement: Art. 13 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^f00010]: Footnote: [1993 c.45](https://www.legislation.gov.uk/ukpga/1993/45). Section 1(7) was amended by the Land Reform (Scotland) Act [2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), section 97(2) and the Nature Conservation (Scotland) Act [2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), Schedule 7, paragraph 9.
+
+[^key-15873abf6a82b35eaf7184fa7513b3bd]: Commencement: Art. 14 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^f00011]: Footnote: [S.I. 1996/680](https://www.legislation.gov.uk/uksi/1996/680).
+
+[^key-f045b49bce23727e30ca3a95c15ccd37]: Commencement: Sch. 1 para. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-e45f8d8324540f4c6bb2f453bdf078fa]: Commencement: Sch. 1 para. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-2fe83226a305c9044b1f8ba6af981148]: Commencement: Sch. 1 para. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-cbc70e32124efcab961bbefc1555b042]: Commencement: Sch. 1 para. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-ac64e9b8e6276a434e50b58cb1e93999]: Commencement: Sch. 1 para. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-826f0ac6d4272577cf653f17ed302b1d]: Commencement: Sch. 1 para. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-96b7303976ded39d26d63771c1d558f9]: Commencement: Sch. 1 para. 7 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-838605eef87b209019675907490b33a7]: Commencement: Sch. 1 para. 8 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-1ad255c76f1fa25163561319f587924a]: Commencement: Sch. 1 para. 9 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-013ae475bfa7c3b700cb9de697b0246b]: Commencement: Sch. 1 para. 10 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-7857aa056470e47d368dbcf19ff96256]: Commencement: Sch. 1 para. 11 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^f00012]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 302 was amended by section 50(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) (“the 2007 Act”) and amended by section 70(3) of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) (“the 2010 Act”).
+
+[^f00013]: Footnote: Section 302A was added by section 50(2) of the 2007 Act and amended by section 70(4) of the 2010 Act.
+
+[^f00014]: Footnote: Section 302B was added by section 50(2) of the 2007 Act.
+
+[^f00015]: Footnote: Section 302ZA was added by section 51 of the 2007 Act and amended by section 70(5) of the 2010 Act.
+
+[^key-56e531d852ca4d64f2412a8e9a0e9864]: Commencement: Sch. 2 para. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-0174b3990adec058dab73e6ae134f7aa]: Commencement: Sch. 2 para. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-9d65980eeb92fcc94d281fa8af117b2e]: Commencement: Sch. 2 para. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-c6976a531fb8038eab949908ee13bf82]: Commencement: Sch. 2 para. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-af8ff82e7f62c516361b87efe1f4cd6e]: Commencement: Sch. 2 para. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-3ad20139ba138e551dd606e7a79ba10d]: Commencement: Sch. 2 para. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-53742d7c6c530a6a3f2d1649656a7f16]: Commencement: Sch. 2 para. 7 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-e667070bc041996c3ede21621490191e]: Commencement: Sch. 2 para. 8 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-3d25248980eb8a150b200f403dedf3f3]: Commencement: Sch. 2 para. 9 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-bf2bf4a50ef5f3d22faa537af6b1b62d]: Commencement: Sch. 2 para. 10 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-a62f9001eddedf080d40ea7d6cf16587]: Commencement: Sch. 2 para. 11 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-1e176c9ea50e5488b2297c037af45333]: Commencement: Sch. 2 para. 12 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-964e9195130947a2e37ce10506bc06b8]: Commencement: Sch. 2 para. 13 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-b4f03549854c7711e18bcdc6b6f3a67b]: Commencement: Sch. 2 para. 14 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-547ebda1cd1da7123a7983c1cd391072]: Commencement: Sch. 2 para. 15 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-dac3c186900299157de25587c451e1bc]: Commencement: Sch. 2 para. 16 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-c9f2274e33965234a350c057f80dde1d]: Commencement: Sch. 2 para. 17 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^f00016]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 302 was amended by section 50(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) (“the 2007 Act”) and section 70(3) of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) (“the 2010 Act”).
+
+[^f00017]: Footnote: Section 302A was added by the 2007 Act, section 50(2) and amended by the 2010 Act, section 70(4).
+
+[^f00018]: Footnote: Section 302B was added by the 2007 Act, section 50(2).
+
+[^f00019]: Footnote: Section 302ZA was added by the 2007 Act, section 51 and amended by the 2007 Act, section 70(5).
+
+[^key-c2edb6ca3863ce99cab74d10cfb5e1bc]: Commencement: Sch. 2 para. 18 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-71da0fae9199896f85acbb878fcbc360]: Commencement: Sch. 3 para. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-3be1f9d0b2fe1798d44652d64d36b642]: Commencement: Sch. 3 para. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-5cfe1182e66a875615e0766b0caa3810]: Commencement: Sch. 3 para. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-a7a37bb02809dafd8dafd1c7f74e6bd1]: Commencement: Sch. 3 para. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-b899aabe1b5306fa60584377bcf150a0]: Commencement: Sch. 3 para. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-b9646976ed38d8b1a0ca9727288c77d0]: Commencement: Sch. 3 para. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^key-338112ed5e41701f4dae2401f7ea2981]: Commencement: Sch. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+
+[^f00020]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40); section 30Z was inserted by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 59.
+
+[^f00021]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69); section 14K was inserted by the Wildlife and Natural Environment (Scotland) Act [2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), section 16.
+
+[^key-0ab6c904ed4a451d663a631442834e51]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(i)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-8d1ba057d88b1b02562a66e86447e33d]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^f00024]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^f00025]: Footnote: Section 33 was relevantly amended by [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247) and [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
+
+[^f00026]: Footnote: Section 34 was relevantly amended by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I. 2012/148](https://www.legislation.gov.uk/ssi/2012/148), [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360) and [S.S.I. 2005/22](https://www.legislation.gov.uk/ssi/2005/22).
+
+[^key-1c381b9df22dcda3a4a058c51d295e8b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^f00030]: Footnote: Section 78M was inserted by section 57 of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) and extended by regulation 2 of [S.S.I. 2007/179](https://www.legislation.gov.uk/ssi/2007/179) so that it has effect in relation to harm or, subject to an exception in regulation 2(2), pollution of the water environment, so far as attributable to radioactivity possessed by any substance.
+
+[^f00031]: Footnote: [1993 c.12](https://www.legislation.gov.uk/ukpga/1993/12).
+
+[^key-ec31f0f01c433ebec1397a6e21554ec2]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table omitted (1.9.2018) by virtue of [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 16(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/16/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+
+[^f00034]: Footnote: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^f00035]: Footnote: Section 27 was amended by paragraph 43(2) of schedule 3 to the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3) (“the 2014 Act”).
+
+[^f00036]: Footnote: Section 110 was amended by paragraph 29(6) of schedule 3 to the 2014 Act.
+
+[^f00037]: Footnote: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), to which there are amendments not relevant to this Order.
+
+[^key-94f423ac37edfa2f03edc20020d2775f]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^f00038]: Footnote: [S.S.I. 2000/95](https://www.legislation.gov.uk/ssi/2000/95). Regulation 17A was added by [S.S.I. 2005/112](https://www.legislation.gov.uk/ssi/2005/112).
+
+[^f00039]: Footnote: [2003 c.33](https://www.legislation.gov.uk/ukpga/2003/33).
+
+[^f00040]: Footnote: The power to make regulations under section 13(1) of the Waste and Emissions Trading Act 2003 was exercised in [S.S.I. 2005/157](https://www.legislation.gov.uk/ssi/2005/157).
+
+[^f00041]: Footnote: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3). Section 18 is applied with modifications to as much of the Northumbria River Basin District as lies within Scotland by [S.I. 2003/3245](https://www.legislation.gov.uk/uksi/2003/3245), and to as much as the Solway Tweed River Basin District as lies within Scotland by [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99).
+
+[^key-c7bce5f225427fb70e077ca92156ccdf]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/iv) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-00d462508dca11d61e83259e822c6063]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table revoked (1.1.2022) by [The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/412)](https://www.legislation.gov.uk/ssi/2021/412), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/412/regulation/1/2), [sch. para. 1](https://www.legislation.gov.uk/ssi/2021/412/schedule/paragraph/1)
+
+[^f00044]: Footnote: [S.I. 2007/871](https://www.legislation.gov.uk/uksi/2007/871), to which there are amendments not relevant to this Order.
+
+[^f00045]: Footnote: [S.S.I. 2009/266](https://www.legislation.gov.uk/ssi/2009/266), to which there are amendments not relevant to this Order.
+
+[^f00046]: Footnote: [S.I. 2009/890](https://www.legislation.gov.uk/uksi/2009/890), to which there are amendments not relevant to this Order.
+
+[^f00047]: Footnote: [2009 asp 6](https://www.legislation.gov.uk/asp/2009/6).
+
+[^f00048]: Footnote: [S.S.I. 2010/435](https://www.legislation.gov.uk/ssi/2010/435).
+
+[^f00049]: Footnote: [2011 asp 9](https://www.legislation.gov.uk/asp/2011/9).
+
+[^f00050]: Footnote: Reservoirs may be designated as “high-risk reservoirs” under section 19, 21, 23 or, as the case may be, 24 of the Reservoirs (Scotland) Act [2011 (asp 9)](https://www.legislation.gov.uk/asp/2011/9).
+
+[^key-848b39312f650076073a0712d96e5b82]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(v)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/v) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-9dd4a4abcb82aeb4952496ac9a3f8263]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/vi) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-a801c87821778433228b2c19c2361ce8]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/vii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^f00054]: Footnote: [S.I. 2013/1119](https://www.legislation.gov.uk/uksi/2013/1119), to which there are amendments not relevant to this Order.
+
+[^f00055]: Footnote: Regulation 9 of [S.I. 2013/1119](https://www.legislation.gov.uk/uksi/2013/1119) provides for the meaning of “administrator”.
+
+[^f00056]: Footnote: [S.I. 2013/3113](https://www.legislation.gov.uk/uksi/2013/3113), to which there are amendments not relevant to this Order.
+
+[^f00057]: Footnote: [S.I. 2015/168](https://www.legislation.gov.uk/uksi/2015/168).
+
+[^key-a8e4bf52d8da43ceab5ddd40f550fe4b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (1.4.2016) by [The Reservoirs (Enforcement etc.) (Scotland) Order 2016 (S.S.I. 2016/161)](https://www.legislation.gov.uk/ssi/2016/161), [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2016/161/schedule/4)
+
+[^key-f3169c5f830c0cecd393bb943f1e4e22]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (1.1.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/32/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
+
+[^key-16fd482fd57f322b8f2ffe6b9a28ab8b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 16(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/16/3) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+
+[^key-c529f68c66cdbaa836416efdc9f8feb6]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (20.5.2020) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2020 (S.S.I. 2020/155)](https://www.legislation.gov.uk/ssi/2020/155), [arts. 1](https://www.legislation.gov.uk/ssi/2020/155/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/155/article/2/2)
+
+[^key-20b8db42d0c857349253c7ccdb905f1e]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (3.3.2023) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2023 (S.S.I. 2023/69)](https://www.legislation.gov.uk/ssi/2023/69), [arts. 1](https://www.legislation.gov.uk/ssi/2023/69/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/69/article/2/2)
+
+[^key-51833fcf2870ab4b123e43151451097b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (3.3.2023) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2023 (S.S.I. 2023/69)](https://www.legislation.gov.uk/ssi/2023/69), [arts. 1](https://www.legislation.gov.uk/ssi/2023/69/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/69/article/2/3)
+
+[^key-abc2cb6fcd594f8efbf792a27f41f778]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (26.6.2025) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2025 (S.S.I. 2025/199)](https://www.legislation.gov.uk/ssi/2025/199), [arts. 1](https://www.legislation.gov.uk/ssi/2025/199/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/199/article/2/2)

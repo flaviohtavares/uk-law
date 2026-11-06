@@ -1,0 +1,159 @@
+---
+title: The Public Services Reform (Social Work Complaints Procedure) (Scotland) Order 2016
+id: ssi/2016/157
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2016-03-16'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2016/157
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/157/pdfs/ssi_20160157_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/157/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Services Reform (Social Work Complaints Procedure) (Scotland) Order 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 157
+
+Regulatory Reform
+
+Social Care
+
+The Public Services Reform (Social Work Complaints Procedure) (Scotland) Order 2016
+
+Made
+
+16th March 2016
+
+Coming into force
+
+1st April 2017
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 14(1) and (7) and 17(1) and (9) of the Public Services Reform (Scotland) Act 2010[^f00001] (“the Act”) and all other powers enabling them to do so.
+
+The Scottish Ministers consider that the relevant conditions in sections 16(2) and 18(2) of the Act are satisfied.
+
+The Scottish Ministers have consulted in accordance with section 26 of the Act.
+
+In accordance with section 19(2) of the Act, the Scottish Parliamentary Corporate Body has consented to the laying of a draft of this Order.
+
+The Scottish Ministers have laid a draft of this Order and an explanatory document before the Scottish Parliament in accordance with section 25(2)(b) of the Act.
+
+In accordance with section 25(2)(c) of the Act, the draft of this Order has been approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Public Services Reform (Social Work Complaints Procedure) (Scotland) Order 2016 and comes into force on 1st April 2017.
+
+## 2. Amendment of the Scottish Public Services Ombudsman Act 2002
+
+The Scottish Public Services Ombudsman Act 2002[^f00002] is amended in accordance with articles 3 and 4.
+
+**3.** In section 7 (matters which may be investigated: restrictions), before subsection (3) insert—
+
+> (2C) Subsection (1) does not apply to the merits of a decision taken by or on behalf of a person mentioned in subsection (2D) in pursuance of a social work function to the extent that the decision was taken in consequence of the exercise of the professional judgment of the social worker or other person discharging the function.
+>
+> (2D) The persons are—
+>
+> - (a) a local authority, or
+> - (b) the holder of an office established by or under any enactment to which appointments are made by a local authority.
+>
+> (2E) In subsection (2C), “social work function” means a function conferred by or under—
+>
+> - (a) the Social Work (Scotland) Act 1968[^f00003],
+> - (b) an enactment mentioned in section 5(1B) of that Act, or
+> - (c) an enactment listed in the schedule to the Public Bodies (Joint Working) (Scotland) Act 2014[^f00004].
+
+.
+
+**4.** At the end of schedule 5 (disclosure of information by the Ombudsman) insert—
+
+> <table>
+> <tbody>
+> <tr><td rowspan="3">The Scottish Social Services Council</td><td>A matter in respect of which the Scottish Social Services Council could exercise any power conferred by—</td></tr>
+> <tr><td>(a) section 46 (grant or refusal of registration),<br>(b) section 47 (variation etc. of conditions in relation to registration),<br>(c) section 49 (removal etc. from the register),</td></tr>
+> <tr><td>of the Regulation of Care (Scotland) Act 2001</td></tr>
+> <tr><td rowspan="3">Social Care and Social Work Improvement Scotland</td><td>A matter in respect of which Social Care and Social Work Improvement Scotland could exercise any power conferred by—</td></tr>
+> <tr><td>(a) chapter 2 (social services: inspections),<br>(b) chapter 3 (care services; registration etc.),<br>(c) chapter 4 (local authority adoption and fostering services etc.),</td></tr>
+> <tr><td>of Part 5 of the Public Services Reform (Scotland) Act 2010</td></tr>
+> </tbody>
+> </table>
+>
+> [^f00005][^f00006]
+
+.
+
+## 5. Amendment of the Public Services Reform (Scotland) Act 2010
+
+In section 56 of the Public Services Reform (Scotland) Act 2010 (inspections: authorised persons), in subsection (4)—
+
+- (a) at the end of paragraph (c) omit “or”;
+- (b) after “offenders” in paragraph (d) insert—
+
+  > , or
+  >
+  > - (e) to the extent considered necessary by the authorised person for the purpose of assisting the Scottish Public Services Ombudsman in connection with the Ombudsman’s investigatory functions under the Scottish Public Services Ombudsman Act 2002[^f00007]
+
+  .
+
+## 6. Repeal, revocation and saving
+
+(1) Section 5B of the Social Work (Scotland) Act 1968[^f00008] (complaints procedure) is repealed subject to the saving in paragraph (3).
+
+(2) The Social Work (Representations Procedure) (Scotland) Order 1990 (“the 1990 Order”)[^f00009] is revoked subject to the saving in paragraph (3).
+
+(3) Where paragraph (4) applies, section 5B of the Social Work (Scotland) Act 1968 and the 1990 Order continue to have effect on and after 1st April 2017 as they had effect immediately before that date.
+
+(4) This paragraph applies in the case of any representations (including complaints) made before 1st April 2017 through a procedure established in accordance with the 1990 Order.
+
+SHONA ROBISON
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+16th March 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Scottish Public Services Ombudsman Act 2002 (“the 2002 Act”) to allow the Ombudsman to consider the merits of certain social work decisions taken in the exercise of professional judgment in the course of an investigation under section 2 of the 2002 Act.
+
+Section 7(1) of the 2002 Act generally precludes the Ombudsman from questioning the merits of discretionary decisions when carrying out investigations. New section 7(2C) of the 2002 Act, inserted by article 3 of this Order, creates an exception to this rule. The exception applies to decisions taken in pursuance of functions conferred by the enactments referred to in new section 7(2E) of the 2002 Act, to the extent that those decisions are taken in consequence of the exercise of professional judgment. The functions in question may be conferred on the local authority itself or on particular office holders appointed by the local authority. The latter group would cover, in particular, chief social work officers, mental health officers and council officers acting under the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10).
+
+Article 4 amends schedule 5 to the 2002 Act. Schedule 5 sets out the bodies with whom, and the matters relating to which, the Ombudsman is permitted under section 20 of the 2002 Act to disclose certain information. The amendment permits the Ombudsman to disclose to the Scottish Social Services Council information which appears to the Ombudsman to relate to the Council’s professional regulatory functions. It also permits the Ombudsman to disclose to Social Care and Social Work Improvement Scotland (“the Care Inspectorate”) information which appears to the Ombudsman to relate to the Care Inspectorate’s inspection and registration functions.
+
+Article 5 amends section 56 of the Public Services Reform (Scotland) Act 2010. The effect of this amendment is to authorise a Care Inspectorate inspector to disclose confidential information obtained in the course of an inspection to the Ombudsman where the inspector considers this necessary to assist the Ombudsman in connection with its investigatory functions.
+
+Article 6 repeals section 5B of the Social Work (Scotland) Act 1968 and revokes the Social Work (Representations Procedure) (Scotland) Order 1990 (“the 1990 Order”). This repeal and revocation are subject to saving provision such that any representations (including complaints) made under the 1990 Order before 1st April 2017 are unaffected by the repeal and revocation.
+
+## Annotations
+
+[^f00001]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8). The effect of sections 14 to 30 and schedules 5 to 7 of the Act has been extended by virtue of section 134(4) and [S.S.I. 2015/234](https://www.legislation.gov.uk/ssi/2015/234). Section 25 was modified by paragraph 5 of schedule 3 to the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
+
+[^f00002]: Footnote: [2002 asp 11](https://www.legislation.gov.uk/asp/2002/11).
+
+[^f00003]: Footnote: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49). Section 5(1B) was inserted by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 76(3)(b) and amended by the Criminal Procedure (Consequential Provisions) (Scotland) Act [1995 (c.40)](https://www.legislation.gov.uk/ukpga/1995/40), Schedule 4, paragraph 6(2); the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 15(4)(b); the Regulation of Care (Scotland) Act [2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8), schedule 4, paragraph 1; the Mental Health (Care and Treatment) (Scotland) Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), schedule 4, paragraph 1(3); the Adoption and Children (Scotland) Act [2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), schedule 2 paragraph 2(2)(a) and schedule 3, paragraph 1; the Social Care (Self-directed Support) (Scotland) Act [2013 (asp 1)](https://www.legislation.gov.uk/asp/2013/1), section 21(b); the Children and Young People (Scotland) Act [2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), schedule 5, paragraph 1(b) and [S.S.I. 2013/211](https://www.legislation.gov.uk/ssi/2013/211).
+
+[^f00004]: Footnote: [2014 asp 9](https://www.legislation.gov.uk/asp/2014/9).
+
+[^f00005]: Footnote: [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8).
+
+[^f00006]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
+
+[^f00007]: Footnote: [2002 asp 11](https://www.legislation.gov.uk/asp/2002/11).
+
+[^f00008]: Footnote: Section 5B was inserted by the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), section 52, and amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 76(5) and the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 15(5)(a) and Schedule 5, paragraph 1.
+
+[^f00009]: Footnote: [S.I. 1990/2519](https://www.legislation.gov.uk/uksi/1990/2519).

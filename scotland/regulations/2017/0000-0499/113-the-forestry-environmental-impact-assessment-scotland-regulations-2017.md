@@ -1,0 +1,1353 @@
+---
+title: The Forestry (Environmental Impact Assessment) (Scotland) Regulations 2017
+id: ssi/2017/113
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-04-11'
+text_date: '2024-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2017/113
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2017/113/pdfs/ssipn_20170113_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/113/pdfs/ssi_20170113_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/113/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Forestry (Environmental Impact Assessment) (Scotland) Regulations 2017
+
+> Text as at 2024-01-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2017 No. 113
+
+Forestry
+
+The Forestry (Environmental Impact Assessment) (Scotland) Regulations 2017
+
+Made
+
+11th April 2017
+
+Laid before the Scottish Parliament
+
+13th April 2017
+
+Coming into force
+
+16th May 2017
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c23230521], section 56(1) of the Finance Act 1973 [^c23230531], and all other powers enabling them to do so.
+
+They have taken into account the selection criteria in Annex III to Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c23230541].[^key-70858d4d985d66074f367c1bcc213eb3]
+
+## PART 1 — INTRODUCTORY
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Forestry (Environmental Impact Assessment) (Scotland) Regulations 2017 and come into force on 16th May 2017.
+
+(2) These Regulations extend to Scotland only.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1999 Regulations**” means the Environmental Impact Assessment (Forestry) (Scotland) Regulations 1999 [^c23230551];
+- “**additional information**” means—
+  - (a) supplementary information required in accordance with regulation 21(2); or
+  - (b) any other information provided by the applicant which is substantive information about a matter to be included in the EIA report in accordance with regulation 6(3);
+- “**afforestation**” means initial afforestation for the purpose of conversion to another type of land use (within the meaning of paragraph 1(d) of Annex II to the Directive);
+- “applicant” means a person applying for EIA consent under regulation 6(1) and includes, for the purposes of screening opinions, scoping opinions, and regulation 17, a prospective applicant[^key-39a800a34898edc56c941ecbd9b210ee];
+- “**application website**” means a website maintained by the Scottish Ministers[^key-d5e2e9837240b96037bedef47d968bcd], for the purpose of making publicly available information relating to applications to which these Regulations apply;
+- [^key-b8aec2768504405b7b48c8cb6ee7e6bb]...
+- “**the consultation bodies**” means—
+  - (a) the local authority (or local authorities, as the case may be) for the area where the forestry project is, or is proposed to be, situated;
+  - (b) the Scottish Environment Protection Agency, established under section 20 of the Environment Act 1995 [^c23230571];
+  - (c) Scottish Natural Heritage, established under section 1 of the Natural Heritage (Scotland) Act 1991 [^c23230581];
+  - (d) Historic Environment Scotland, established by section 1 of the Historic Environment Scotland Act 2014 [^c23230591]; and
+  - (e) any other body designated by any enactment (including an Act of the Scottish Parliament or an instrument made under any such Act) as having specific environmental responsibilities;
+- “**decision notice**” has the meaning given in regulation 24;
+- “**deforestation**” means deforestation for the purposes of conversion to another type of land use (within the meaning of paragraph 1(d) of Annex II to the Directive);
+- “**development**” means development within the meaning of section 26 of the Town and Country Planning Act 1997 [^c23230601];
+- “**the Directive**” means Directive 2011/92/EU of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c23230611];
+- “**EIA application**” means an application under regulation 6(1) for consent to carry out an EIA forestry project;
+- “**EIA consent**” means consent given under regulation 7(1)(a) [^key-242bd7c97ea81a0d041ba731e55d57ad]... to carry out an EIA forestry project;
+- “**EIA forestry project**” means a forestry project which, subject to regulations 8 and 10 and schedule 1, is likely to have significant effects on the environment by virtue of factors such as its nature, size or location and which—
+  - (a) does not involve development; or
+  - (b) involves development—
+    - (i) which is not EIA development within the meaning of regulation 2(1) of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 [^c23230621]; or
+    - (ii) in respect of which planning permission is granted by Part 7 of schedule 1 to the Town and Country Planning (General Permitted Development) (Scotland) Order 1992 [^c23230631];
+- “**EIA report**” has the meaning given in regulation 6(3) and, where an applicant submits a revised, updated or supplementary EIA report (or a report which the applicant refers to as such) includes the revised, updated or supplementary EIA report;
+- “**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000 [^c23230641];
+- “**enforcement notice**” means an enforcement notice served under paragraph 3(1) of schedule 4 and includes, as the case may be, an enforcement notice as varied by service of a notice under paragraph 3(6) of schedule 4;
+- “**environmental impact assessment**” has the meaning given in regulation 5(1);
+- “**environmental information**” means any EIA report and any additional information, any representations made by any consultation body required by these Regulations to be invited to make representations and any representations duly made by any other person about the environmental effects of the forestry project;
+- “**forestry project**” means a project which includes any of the following activities:—
+  - (a) afforestation;
+  - (b) deforestation;
+  - (c) forest quarry works; or
+  - (d) forest road works;
+- “**forest quarry works**” means operations on land used or to be used for the purposes of forestry, or on land held or occupied with that land, to obtain the materials required for forest road works;
+- “**forest road works**” means the formation, alteration or maintenance of private ways on land used or to be used for the purposes of forestry;
+- “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c23230651];
+- “**mandatory conditions**” means the conditions specified in regulation 4;
+- “**prospective applicant**” means a person who is minded to carry out a forestry project in Scotland but who has not made an EIA application in respect of that forestry project;
+- “**register**” means a register kept by the Scottish Ministers[^key-ee7814ea8a4dcdc6f2b0f380f4eb096a] at a Conservancy office for the purposes of public inspection of the following (so far as they relate to the area of that particular Conservancy):—
+  - (a) directions given under regulation 9;
+  - (b) screening opinions;
+  - (c) [^key-6074da4a849119b0c57ccd49c5c4feae]...
+  - (d) scoping opinions;
+  - (e) [^key-6074da4a849119b0c57ccd49c5c4feae]...
+  - (f) decision notices;
+  - (g) [^key-6074da4a849119b0c57ccd49c5c4feae]...
+  - (h) EIA reports, including any additional information relevant to them; and
+  - (i) statements of reasons which accompanied any of the above;
+- “**relevant assessment**” means, in relation to a forestry project, an assessment, or verification, of effects on the environment carried out pursuant to national legislation which is relevant to the assessment of the environmental impacts of the forestry project;
+- [^key-1a4091c3fcd5b16ad9f6fed0d810193b]...
+- “**scoping opinion**” means an opinion adopted by the Scottish Ministers[^key-94150bc062f4caf38cf1ab41863a321d] under regulation 15 as to the scope and level of detail of information to be provided in the EIA report;
+- [^key-9169235b277f64ab0a518041141239fa]...
+- “**screening opinion**” means an opinion adopted by the Scottish Ministers[^key-0d2478cef89fa15d00d69d8a20c55465] under regulation 13 as to whether a project is, or is not, an EIA forestry project;
+- “**sensitive area**” means any of the following:—
+  - (a) a site of special scientific interest;
+  - (b) land in respect of which an order has been made under section 23 of the Nature Conservation (Scotland) Act 2004 [^c23230661];
+  - (c) a European site within the meaning of regulation 10 of the Conservation (Natural Habitats, &c.) Regulations 1994 [^c23230671];
+  - (d) a property appearing in the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention Concerning the Protection of the World Cultural and Natural Heritage [^c23230681];
+  - (e) a scheduled monument within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 [^c23230691];
+  - (f) a National Scenic Area as designated by a direction made by the Scottish Ministers under section 263A of the Town and Country Planning (Scotland) Act 1997 [^c23230701]; and
+  - (g) an area designated as a National Park by a designation order made by the Scottish Ministers under section 6(1) of the National Parks (Scotland) Act 2000 [^c23230711];
+- “**site of special scientific interest**” has the same meaning as in section 58(1) of the Nature Conservation (Scotland) Act 2004 [^c23230721]; and
+- “**Union legislation**” means any enactment in national legislation giving effect to rights, powers, liabilities, obligations and restrictions under[^key-33576271f6433ab7715c52cc2f53f7e3] assimilated[^key-89ec3f1db9a0159f508910f02b9beb54] law.
+
+(2)[^key-d0ddfaff50fb012f8748e500608f17ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Prohibitions relating to EIA forestry projects
+
+(1) Subject to a direction made under regulation 9, no person may carry out any work or operation relating to an EIA forestry project unless—
+
+- (a) EIA consent has been granted in respect of that EIA forestry project; and
+- (b) the EIA forestry project is carried out in accordance with the EIA consent.
+
+(2) The Scottish Ministers[^key-42d16fb1bef44a5962f49e21d7f4bcd0] may not grant EIA consent in relation to an EIA forestry project unless—
+
+- (a) an environmental impact assessment has been carried out in respect of that EIA forestry project;
+- (b) they take into account the environmental information in carrying out such an environmental impact assessment;
+- (c) the mandatory conditions are attached to the EIA consent;
+- (d) they comply with the requirements of regulation 25; and
+- (e) they determine the application in accordance with regulation 7(2) and (3).
+
+### 4. Mandatory conditions
+
+The mandatory conditions are—
+
+- (a) work in relation to the EIA forestry project must be started within such period as is specified in the EIA consent (being a period of no more than 5 years beginning with the date on which EIA consent is granted); and
+- (b) no work may be carried out in relation to the EIA forestry project after the expiration of such period as is specified in the EIA consent (being a period of no more than 10 years beginning with the date on which the EIA consent is granted).
+
+### 5. Environmental impact assessment
+
+(1) An environmental impact assessment is a process consisting of—
+
+- (a) the preparation of an EIA report by the applicant;
+- (b) the carrying out of consultation, publication and notification as required by Parts 4, 5 and 6[^key-a0f7c9ffff34994a0c833f3fea5825ea];
+- (c) the examination by the Scottish Ministers[^key-6a0cfe53336e2310e891073cdb1ca0f2] of the information presented in the EIA report and any other environmental information;
+- (d) the reasoned conclusion by the Scottish Ministers on the significant effects of the EIA forestry project on the environment, taking into account the results of the examination referred to in sub-paragraph (c) and, where appropriate, their own supplementary examination; and
+- (e) the integration of the Scottish Ministers' reasoned conclusion into the decision notice in accordance with regulation 24.
+
+(2) The environmental impact assessment must identify, describe and assess in an appropriate manner, in light of the circumstances relating to the forestry project, the direct and indirect significant effects of the forestry project on the factors specified in paragraph (3) and the interaction between those factors.
+
+(3) The factors are—
+
+- (a) population and human health;
+- (b) biodiversity, and in particular species and habitats protected under Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora [^c23230731] and Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds [^c23230741];
+- (c) land, soil, water, air and climate; and
+- (d) material assets, cultural heritage and the landscape.
+
+(4) The effects to be identified, described and assessed under paragraph (2) include the expected effects deriving from the vulnerability of the forestry project to risks of major accidents and disasters, so far as relevant to the project concerned.
+
+(5) The Scottish Ministers must ensure that they have, or have access as necessary to, sufficient expertise to examine the EIA report.
+
+### 6. Application for EIA consent
+
+(1) An application for EIA consent under regulation 7 must be made in writing to the Scottish Ministers[^key-1226fbb8747f21e748dae134cc335953].
+
+(2) An EIA application must be accompanied by an environmental impact assessment report (in these Regulations referred to as “**EIA report**”).
+
+(3) An EIA report is a report prepared in accordance with this regulation by the applicant which assesses the environmental impact of the EIA forestry project and which includes (at least)—
+
+- (a) a description of the EIA forestry project comprising information on the site, design, size and other relevant features of the project;
+- (b) a description of the likely significant effects of the EIA forestry project on the environment;
+- (c) a description of the features of the EIA forestry project and any measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment;
+- (d) a description of the reasonable alternatives studied by the applicant, which are relevant to the EIA forestry project and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the EIA forestry project on the environment;
+- (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d); and
+- (f) any other information specified in schedule 3 relevant to the specific characteristics of the EIA forestry project or of the type of EIA forestry project in question and to the environmental features likely to be affected.
+
+(4) Where a scoping opinion is adopted [^key-192d773e533dad26de211fbff89eca2e]..., the EIA report must be based on that scoping opinion [^key-c93877b8f6c8eca1bb2a941ddabd8b14]... and must include the information that may reasonably be required for reaching a reasoned conclusion on the significant effects of the EIA forestry project on the environment, taking into account current knowledge and methods of assessment.
+
+(5) With a view to avoiding duplication of assessments, account is to be taken of the available results of other relevant assessments in preparing the EIA report.
+
+(6) In order to ensure the completeness and quality of the EIA report—
+
+- (a) the applicant must ensure that the EIA report is prepared by competent experts; and
+- (b) the EIA report must be accompanied by a statement from the applicant outlining the relevant expertise or qualifications of those experts.
+
+(7) An applicant must supply to the Scottish Ministers[^key-3263d8e92240dac040876cc7d14ec4fa] such number of copies of the application, the EIA report and any other documents accompanying the application, as the Scottish Ministers may reasonably require.
+
+### 7. Determination of applications for EIA consent
+
+(1) Where an EIA application is made to the Scottish Ministers[^key-3461a14051151f170b4d818e7c693f1a], they may (subject to regulation 3(2) and regulation 25)—
+
+- (a) grant EIA consent subject only to the mandatory conditions or also subject to such further conditions as they think fit; or
+- (b) refuse to grant EIA consent.
+
+(2) The Scottish Ministers must determine an EIA application before the expiry of the period of 6 months beginning with the date on which the Scottish Ministers receive the EIA application or within such other period as may be agreed with the applicant.
+
+(3) Despite paragraph (2), the Scottish Ministers must not determine an EIA application before the expiry of any period referred to in regulation 18(2)(f) or 19(1)(b)[^key-07f9963167871ccd485aba84cbfe87b3].
+
+(4) For the purposes of paragraph (2), the date on which the Scottish Ministers receive the EIA application is the date on which the Scottish Ministers are in receipt of—
+
+- (a) the EIA application;
+- (b) the accompanying EIA report;
+- (c) any supplementary information requested by the Scottish Ministers under regulation 21(2);
+- (d) any evidence requested by the Scottish Ministers under regulation 21(4); and
+- (e) any other additional information provided by the applicant.
+
+## PART 2 — DETERMINING WHETHER EIA IS REQUIRED
+
+### 8. EIA forestry project
+
+(1) Subject to regulation 9 [^key-79942758c40a1c8cb6456907c4a45831]..., the occurrence of an event mentioned in paragraph (2) will determine for the purposes of these Regulations that a forestry project is an EIA forestry project.
+
+(2) The events are—
+
+- (a) the adoption by the Scottish Ministers[^key-f4b0f0fb5670ebb1941613edc83854e8] of a screening opinion to the effect that the forestry project is an EIA forestry project;
+- (b) the giving of a statement of reasons by the Scottish Ministers[^key-3eafbf9b566be8a73674f8a68c1aa04b] under paragraph 3(5) of schedule 4; or[^key-4d991f4d6ba5f26fc39d72fa23a047ff]
+- (c)[^key-7adc25658abcb51d66022228c6fbfd99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) if none of the events in sub-paragraph (a) or (b)[^key-99f78f91d47534a625f2e73386b7517f] has occurred, the submission by the applicant, in relation to the forestry project, of a report referred to by the applicant as an EIA report.
+
+### 9. Exemptions
+
+(1) The Scottish Ministers[^key-3dc1cb6c1a19cc3d83807b911e637232] may [^key-70bde849909f91466e2a19916664ea24]... direct that these Regulations do not apply in relation to a forestry project specified in the direction where, in the opinion of the Scottish Ministers, compliance with these Regulations would have an adverse effect on the purpose of the forestry project.
+
+(2) Where such a direction is given under paragraph (1), the Scottish Ministers must—
+
+- (a) make available to the public concerned the information considered in making the direction and the reasons for making the direction;
+- (b) consider whether another form of assessment would be appropriate; and
+- (c) if in the opinion of the Scottish Ministers another form of assessment would be appropriate, take such steps as are considered appropriate to bring the information obtained under the other form of assessment to the attention of the public concerned.
+
+(3) The Scottish Ministers may direct that these Regulations do not apply in relation to a forestry project specified in the direction if the forestry project comprises a project having the response to civil emergencies as its sole purpose and where, in the opinion of the Scottish Ministers, compliance with these Regulations would have an adverse effect on that purpose.
+
+(4) The Scottish Ministers may [^key-dd71dbd9b530ffaf8ded5d268e3e5c93]... direct that the provisions relating to public consultation in regulation 18 do not apply in cases where a forestry project specified in the direction is adopted pursuant to an enactment (including an Act of the Scottish Parliament or any instrument made under such an Act) provided that the objectives of the Directive are met.
+
+### 10. EIA forestry project thresholds
+
+Subject to regulation 11(2), a forestry project is to be taken as not likely to have significant effects on the environment if the area covered, or to be covered, by the project does not exceed any relevant threshold in schedule 1.
+
+### 11. General provisions relating to screening
+
+(1) When making a determination as to whether a forestry project is an EIA forestry project, [^key-0c78f9df32dc844850d6bfdba593655f]... the Scottish Ministers must—
+
+- (a) in all cases take into account—
+  - (i) such of the selection criteria set out in schedule 2 as are relevant to the forestry project proposed; and
+  - (ii) the available results of any relevant assessment of the effects of the forestry project proposed; and
+- (b) where information is provided to them by virtue of regulation 12(2) or (3) [^key-b30646914662f4e8ae1e36d1685ef538]..., base their determination on that information.
+
+(2) In a case where the forestry project proposed does not exceed any relevant threshold set out in schedule 1, the Scottish Ministers must adopt their opinion[^key-bdf191f25c810871f96b607cf3e6a6c1], in accordance with regulation 10 unless there are exceptional circumstances which, taking account of the selection criteria in schedule 2, make it likely that the forestry project will have significant effects on the environment.
+
+(3) Where the Scottish Ministers adopt a screening opinion[^key-11b11f1da98280a0994505ae2bfbb746]—
+
+- (a) that screening opinion [^key-84fc904b4da673622dc06b92e493d0af]... must be accompanied by a written statement giving, with reference to such criteria set out in schedule 2 which are relevant to the forestry project proposed, the main reasons for their conclusion as to whether the forestry project proposed is, or is not, an EIA forestry project; and
+- (b) where the screening opinion [^key-36752dea7fb3bc91d2c43eebc615392b]... is to the effect that the forestry project proposed is not an EIA forestry project, the statement referred to in sub-paragraph (a) must state any features of the forestry project or proposed measures envisaged to avoid or prevent significant adverse effects on the environment.
+
+(4) As soon as possible after adopting a screening opinion, the Scottish Ministers[^key-c7761b5536b89ff425c23c19d091d8ef] must send a copy of the screening opinion and a copy of the written statement referred to in paragraph (3)(a) to the applicant.
+
+(5)[^key-2f44f52a5fa57056cc9cf09b70d2f991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-3a8a3ba04da19bcf0866d6d5b2409f3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-073a5e160eb5dee3afae14c784eaeca8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In paragraph (2), the reference to circumstances which are, in the opinion of [^key-4a1ede23dccb3bac2951463cfdab8cb9]... the Scottish Ministers, exceptional circumstances must be construed in accordance with paragraph 6 of schedule 1.
+
+### 12. Requests for screening opinions[^key-d8dcb2dd7629795c5c839e43b1ac9be8]
+
+(1) An applicant may, in writing, request the Scottish Ministers[^key-5adb6059b5b6be461480faae9880af2e] to adopt a screening opinion.
+
+(2) A request for a screening opinion under paragraph (1) must be accompanied by—
+
+- (a) a plan sufficient to identify the land;
+- (b) a description of the forestry project proposed, including in particular—
+  - (i) a description of the physical characteristics of the forestry project and, where relevant, of demolition works;
+  - (ii) a description of the location of the forestry project, with particular regard to the environmental sensitivity of geographical areas likely to be affected;
+- (c) a description of the aspects of the environment likely to be significantly affected by the forestry project proposed; and
+- (d) a description of any likely significant effects, to the extent of the information available on such effects, of the forestry project proposed on the environment resulting from—
+  - (i) the expected residues and emissions and the production of waste, where relevant;
+  - (ii) the use of natural resources, in particular soil, land, water and biodiversity.
+
+(3) A request for a screening opinion may, in addition to the information required in accordance with paragraph (2), also be accompanied by a description of any features of the forestry project, or proposed measures, envisaged to avoid or prevent significant adverse effects on the environment.
+
+(4) The information referred to in paragraph (2) is to be compiled taking into account, were relevant—
+
+- (a) the selection criteria set out in schedule 2; and
+- (b) the available results of any relevant assessment.
+
+### 13. Screening opinions – time period for decision
+
+(1) Where the Scottish Ministers[^key-6ede4fcf5217b4caa0dd8fdb926e3d67] receive a request for a screening opinion under regulation 12(1), they must [^key-346706ac5f82df0b0c364bd3ac78afe9]... adopt a screening opinion on or before—
+
+- (a) the expiry of the period of 28 days beginning with the date of receipt of the request;
+- (b) the expiry of such longer period, not exceeding the period of 90 days beginning with the date of receipt of the request, as may be agreed in writing between the Scottish Ministers and the applicant; or
+- (c) where notice is given under paragraph (2), the date specified in the notice as the date by which the Scottish Ministers are to adopt a screening opinion.
+
+(2) Where the Scottish Ministers[^key-45c494674c5499cac9c0300a0367ee23] consider that due to exceptional circumstances relating to the nature, complexity, location or size of the forestry project proposed that it is not practicable for them to adopt a screening opinion within the period of 90 days beginning with the date of receipt of the request, the Scottish Ministers may extend that period by notice in writing given to the applicant.
+
+(3) Notice under paragraph (2) must state the Scottish Ministers’[^key-f20b166d8778d604aef04ab38ef9eecd] justification for the extension and specify the date by which they[^key-9660c9e4015e88c6766a2f1c09d2bcaa] are to adopt a screening opinion pursuant to the request.
+
+(4) The Scottish Ministers[^key-aadc0999d37deea90de4c01e64a1e299] must, if they consider that they have not been provided with sufficient information to adopt a screening opinion, notify the applicant in writing of the points on which they require further information.
+
+(5)[^key-8e3e5ea5f168390eaadb235e8c4b32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-8e3e5ea5f168390eaadb235e8c4b32f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) For the purposes of paragraphs (1) and (2), the date on which a request for a screening opinion under regulation 12(1) is to be taken to have been received is the date on which the last of the items or information required to be contained in or accompany a request for a screening opinion in accordance with regulation 12(2) is received by the Scottish Ministers[^key-de879b8791ad0c63b779b0151f0ed38e].
+
+### 14. Requests for screening directions by the Scottish Ministers[^key-9a5c3ab88aadc59c3582b4a120d1eee1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — PREPARATION OF ENVIRONMENTAL IMPACT ASSESSMENT REPORTS
+
+### 15. Requests for scoping opinions[^key-cb7d7e2dc50b17f2ce63df4f254c92c4]
+
+(1) An applicant may request the Scottish Ministers[^key-742dfc411b5b68188e967c1dfe403579] to adopt a scoping opinion.
+
+(2) A request under paragraph (1) must include—
+
+- (a) a description of the location of the forestry project, including[^key-293c6f15b09758bb51a2db681886a232] a plan sufficient to identify the land;
+- (b) a brief description of the nature and purpose of the forestry project and its likely effects on the environment; and
+- (c) such other information or representations as the applicant making the request may wish to provide or make.
+
+(3) If the Scottish Ministers consider that they have not been provided with sufficient information to adopt a scoping opinion, they must, within the period of 28 days beginning with the date of receipt of the request under paragraph (1), notify the applicant of the points on which they require further information.
+
+(4) The Scottish Ministers must not adopt a scoping opinion in response to a request under paragraph (1) until they have consulted—
+
+- (a) the applicant; and
+- (b) the consultation bodies.
+
+(5) Before adopting a scoping opinion, the Scottish Ministers must take into account—
+
+- (a) the specific characteristics of the particular forestry project , including its location and technical capacity[^key-08d3abd3e0c7f4e7874cdcd79e187f7f];
+- (b) the specific characteristics of forestry projects of the type concerned; and
+- (c) the environmental features likely to be affected by the forestry project.
+
+(6) Subject to paragraph (7), the Scottish Ministers must within the period of 35 days beginning with the date of receipt of a request under paragraph (1) or such longer period as may be agreed in writing with the applicant, adopt a scoping opinion and send a copy to the applicant.
+
+(7) Where—
+
+- (a) an applicant has, at the same time as making a request for a screening opinion under regulation 12(1), made a request for an opinion under paragraph (1); and
+- (b) the Scottish Ministers have adopted a screening opinion to the effect that the forestry project is an EIA forestry project,
+
+the Scottish Ministers must within the period of 35 days beginning with the date on which that screening opinion was adopted or such longer period as may be agreed in writing with the applicant, adopt a scoping opinion and send a copy to the applicant.
+
+(8)[^key-acfb380e74e145029b337016f6f63cef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-acfb380e74e145029b337016f6f63cef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) Where a request has been made to the Scottish Ministers under regulation 12(1) to adopt a screening opinion but no request has been made under paragraph (1), the Scottish Ministers may of their own volition adopt a scoping opinion and paragraphs (3) to (6) and (11) apply in relation to such a scoping opinion as if a request had been made under paragraph (1) on the date on which the Scottish Ministers adopt the screening opinion.
+
+(11) Where the Scottish Ministers have adopted a scoping opinion, in response to a request under paragraph (1), they are not[^key-31150af46c8c299b8322a7720aa0ac88] precluded from requiring the applicant to submit additional information in connection with any EIA report that may be submitted by the applicant pursuant to an EIA application relating to the same forestry project.
+
+(12) A later scoping opinion supersedes the terms of an earlier scoping opinion.
+
+### 16. Requests for scoping directions by the Scottish Ministers[^key-4e0d8d8ab5f1f631929dab96740f585e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Procedure to facilitate preparation of EIA reports
+
+(1) An applicant who intends to submit an EIA report to the Scottish Ministers[^key-47a422d492af78997a325da657045229] in connection with an application for EIA consent under these Regulations may give notice of that intention, in writing, to Scottish Ministers under this paragraph.
+
+(2) A notice under paragraph (1) must include the information necessary to identify the land and the nature and purpose of the forestry project, and must indicate the main environmental consequences to which the applicant proposes to refer in the EIA report.
+
+(3) Where the Scottish Ministers[^key-cfbbeb54af8477cc2c2c14d27770ab73] receive notice under paragraph (1) from an applicant, they must—
+
+- (a) notify the consultation bodies in writing of the name and address of the applicant and of the duty imposed on those bodies by paragraph (4) to make information available to the applicant; and
+- (b) inform the applicant in writing of the names and addresses of the bodies so notified.
+
+(4) Subject to paragraphs (5) and (6), [^key-836dfeb86297e52a6e9ccd40c2c45c0d]... any body notified in accordance with paragraph (3) must, if requested by the applicant, enter into consultation with the applicant to determine whether [^key-dee54458c704e6f2bb6e1aebca0d066f]... the body has in its[^key-c6e8efbb44571b7cbdbcbc9168bd3cc2] possession any information which the applicant or [^key-dee54458c704e6f2bb6e1aebca0d066f]... the body consider relevant to the preparation of the EIA report, and [^key-dee54458c704e6f2bb6e1aebca0d066f]... the body must make any such information available to the applicant.
+
+(5) Paragraph (4) does not require disclosure of information which the Scottish Ministers[^key-a78ba731a9cb14a556f3e8e030d78d83] or any body notified in accordance with paragraph (3)—
+
+- (a) may refuse to disclose under regulation 10(1) of the Environmental Information (Scotland) Regulations 2004 [^c23230751]; or
+- (b) are prevented from disclosing by regulation 11(2) of those Regulations.
+
+(6) Paragraph (4) does not require disclosure of information which the Scottish Ministers[^key-1479d30919c207334112d9b70f440f51] or any body notified in accordance with paragraph (3)—
+
+- (a) may refuse to disclose under regulation 12(1) of the Environmental Information Regulations 2004 [^c23230761]; or
+- (b) are prevented from disclosing by regulation 13(1) of those Regulations.
+
+(7) A reasonable charge reflecting the cost of making the relevant information available may be made by the Scottish Ministers[^key-bcc88a8d979e228501863f786adaa229] or any body notified in accordance with paragraph (3) when making information available in accordance with paragraph (4).
+
+## PART 4 — PUBLICITY AND PROCEDURES ON SUBMISSION OF ENVIRONMENTAL IMPACT ASSESSMENT REPORTS
+
+### 18. Publication of EIA report
+
+(1) Where, in relation to an EIA application, the applicant submits to the Scottish Ministers[^key-38031fd76125282855706a8e08f30993] a report which the applicant refers to as an EIA report, the Scottish Ministers must publish, as soon as possible, a notice in accordance with this regulation.
+
+(2) Notice under paragraph (1) must—
+
+- (a) describe the application and the EIA forestry project to which the report relates;
+- (b) state that the EIA forestry project is subject to an environmental impact assessment; [^key-7529d498ced6c515200de76d5a4990da]...
+- (c) state that the report is available for inspection free of charge and the times and places at which, and the means by which, the report is available for inspection;
+- (d) state how copies of the report may be obtained;
+- (e) state the cost of a copy of the report;
+- (f) state how and by what date representations may be made (being a date not earlier than 30 days after the[^key-651cd1f333fc53abbb2f652fbb11300c] last date on which the notice is published);
+- (g) provide details of the arrangements for public participation in the decision making procedure including a description of how notice is to be given of any subsequent submission by the applicant of additional information and how representations in relation to that additional information may be made; and
+- (h) state the nature of possible decisions to be taken in relation to the application and provide details of the authority by whom such decisions are to be taken.
+
+(3) Notice under paragraph (1) must be published—
+
+- (a) on the application website;
+- (b) in The Edinburgh Gazette; and
+- (c) in a newspaper circulating in the locality in which the EIA forestry project is situated.
+
+(4) The applicant must, at the time of submitting the report, pay the cost to be incurred by the Scottish Ministers in arranging publication of the notice in accordance with paragraph (3)(b) and (c).
+
+(5) The Scottish Ministers must make copies of the report and other documents submitted with the application available for inspection—
+
+- (a) on the application website; and
+- (b) at an office of the Scottish Ministers at which the register may be inspected.
+
+### 19. Consultation where EIA report received ...[^key-6283370977ef46dd5f4706603f398bae]
+
+(1) Where the Scottish Ministers[^key-518717af8faa7fce6de268fb20332278] receive in connection with an EIA application, a report which the applicant refers to as an EIA report, they must—
+
+- (a) send a copy of the report to the consultation bodies; and
+- (b) consult the consultation bodies about the report and inform them how and by what date representations may be made (being a date not earlier than 30 days after the date on which the copy of the report was sent under paragraph (a)).
+
+(2) Where any body whom the Scottish Ministers[^key-aec063614200749f4757f752e125cb64] are required to consult under this regulation considers that consultation with that body is not required in respect of any report relating to any case or class of case or relating to any specified area and so informs the Scottish Ministers in writing, then the Scottish Ministers are not required to consult that body under this regulation.
+
+### 20. Copies of EIA report for the public
+
+(1) Where a report which the applicant refers to as an EIA report is provided in relation to an EIA application, the applicant must ensure that a reasonable number of copies of the report are available at any address named in the notice published under regulation 18(1) as an address at which copies may be obtained.
+
+(2) A reasonable charge reflecting printing and distribution costs may be made to a member of the public for a copy of a report made available in accordance with paragraph (1).
+
+## PART 5 — ADDITIONAL INFORMATION
+
+### 21. Additional information and evidence relating to EIA reports
+
+(1)[^key-0589af775096042915ad3800f6ba36a9] This regulation applies where the Scottish Ministers are dealing with an EIA application.
+
+(2) In order to ensure the completeness and quality of the EIA report, [^key-b8de7124145b5017b8e1e08981a61ec2]... the Scottish Ministers must (having regard in particular to current knowledge and methods of assessment) seek from the applicant supplementary information about any matter to be included in the EIA report in accordance with regulation 6(3) which in the opinion of [^key-b8de7124145b5017b8e1e08981a61ec2]... the Scottish Ministers, is directly relevant to reaching a reasoned conclusion on the significant effects of the forestry project on the environment (and such information is referred to in these Regulations as “**supplementary information**”).
+
+(3)[^key-c627312e15e1bb6621b45271093ca1bd] The applicant must provide supplementary information within such reasonable period as the Scottish Ministers may specify and if the applicant does not provide the supplementary information within such a period the Scottish Ministers may treat the EIA application as withdrawn.
+
+(4) The [^key-cfc36e6d2f05a012deba8070d2cfbd31]... Scottish Ministers may, in writing, require evidence to be produced to them to verify information contained in an EIA report or in any additional information which has been provided to them.
+
+### 22. Publication of additional information
+
+Where additional information is provided to [^key-57eeeee67662b2bd1c74318e87b5a78b]... the Scottish Ministers, regulations 18, 19 and 20 apply to the provision of such additional information as they apply to the submission of an EIA report as if references to the EIA report were references to that additional information.
+
+## PART 6 — AVAILABILITY OF DIRECTIONS ETC. AND NOTIFICATION OF DECISIONS
+
+### 23. Availability of opinions, directions etc. for inspection
+
+(1) Where any document mentioned in paragraph (2) is received, issued or adopted by the Scottish Ministers[^key-ab8da15f41c43fc12c2d2e2ea1e8567f], the Scottish Ministers must make copies of that document available for inspection—
+
+- (a) on a website (or by other electronic means); and
+- (b) at all reasonable hours at an office of the Scottish Ministers where the register may be inspected.
+
+(2) The documents are any—
+
+- (a) request under regulation 15(1);
+- (b)[^key-3aaa0b4d7121962e950e8ac1b3cf53ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) direction given under regulation 9;
+- (d) screening opinion;
+- (e)[^key-4541f5dff20eb0222d9b8791ab3d05e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) scoping opinion;
+- (g)[^key-ab7153cf1f3a4a62f0e160c1c8bd9e96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) EIA report and any additional information;
+- (i) reports or advice issued to the Scottish Ministers at the time when notice is given under regulation 18(1); and
+- (j) statement of reasons accompanying any of the above.
+
+### 24. Decision notice
+
+(1) Where an EIA application is determined by the Scottish Ministers[^key-003a52d0496e66d85ca934692815ea50] the notification of the decision to be given to the applicant, (referred to in these Regulations as “**the decision notice**”) must include the information specified in paragraph (2).
+
+(2) The information is—
+
+- (a) a description of the forestry project;
+- (b) the terms of the decision;
+- (c) the main reasons and considerations on which the decision is based;
+- (d) information about the arrangements taken to ensure the public had the opportunity to participate in the decision making procedures;
+- (e) a summary of—
+  - (i) the environmental information; and
+  - (ii) the results of the consultations and information gathered pursuant to Parts 4, 5 and 6 [^key-07b0e4c1cd6cd89cad6f218efbc19a5d]... and how those results [^key-e97e416dd230611b19b3bccbb2021d96]... have been incorporated or otherwise addressed;
+- (f) if the decision is to grant EIA consent—
+  - (i) a statement of the mandatory conditions;
+  - (ii) a statement of any further conditions to which the decision is subject including—
+    - (aa) a description of any monitoring measures which may be required in accordance with regulation 25; and
+    - (bb) a description of any mitigation measures which may be required;
+  - (iii) the reasoned conclusion referred to in regulation 5(1)(d); and
+  - (iv) a statement that the Scottish Ministers are satisfied that the reasoned conclusion is still up to date; and
+- (g) information regarding the right to challenge the validity of the decision and the procedures for doing so.
+
+(3) For the purposes of paragraph (2)(f)(iv), the reasoned conclusion referred to in regulation 5(1)(d) is still up to date if the Scottish Ministers are satisfied, having regard to current knowledge and methods of assessment, that the reasoned conclusion addresses the likely significant effects of the forestry project on the environment.
+
+(4) In this regulation and in regulation 25—
+
+- “**mitigation measures**” means any features of the EIA forestry project and any measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment; and
+- “**monitoring measures**” means measures requiring the monitoring of any significant adverse effects on the environment of the EIA forestry project.
+
+### 25. Monitoring measures
+
+(1) Where an EIA application is determined by the Scottish Ministers[^key-4f5d10eef64c4ed711a039827346f67e] and the decision is to grant EIA consent, the Scottish Ministers[^key-bc2aada383bff8c5a6241f8a16f5912a] must consider whether it is appropriate to require monitoring measures to be carried out.
+
+(2) When considering whether to require monitoring measures to be carried out, and the nature of any such monitoring measures, the Scottish Ministers[^key-3fb98ce08a6fb13b51b3c2d36be8445b] must consider—
+
+- (a) whether monitoring measures are proportionate to the nature, location and size of the EIA forestry project and the significance of its effects on the environment having regard in particular to the type of parameters to be monitored and the duration of the monitoring;
+- (b) in order to avoid duplication of monitoring, whether monitoring arrangements required under Union legislation (other than legislation implementing the requirements of the Directive) or other legislation applicable in Scotland are more appropriate; and
+- (c) if monitoring measures are to be required, whether provision should be made to require appropriate remedial action.
+
+(3) Where [^key-3c62d972dc672fe039d2137ade3e49b6]... the Scottish Ministers consider that it is appropriate to require monitoring measures they must do so.
+
+(4) Where mitigation measures or monitoring measures are required, the Scottish Ministers[^key-d161653221335993055c270e8dcf14fa] must take steps to ensure that those measures are implemented.
+
+### 26. Duties to inform the applicant and public of final decisions
+
+(1) Where an EIA application is determined by the Scottish Ministers[^key-a68b1c014aa9a9f3759271d4d3a869ee], the Scottish Ministers must—
+
+- (a) notify the applicant of the decision;
+- (b) notify those bodies consulted in accordance with regulation 19(1)(b) of the decision by sending a copy of the decision notice to such bodies;
+- (c) notify the public of the decision, and of where a copy of decision notice may be inspected, by publishing a notice in a newspaper circulating in the locality in which the land is situated, or by such other means as are reasonable in the circumstances; and
+- (d) make a copy of the decision notice available for public inspection—
+  - (i) at an office of the Scottish Ministers where the register may be inspected; and
+  - (ii) on the application website.
+
+(2)[^key-df2663a803aa4c427ea659b42a03de1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-2b84ced381d9a365e913f98e22129e01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — FORESTRY PROJECT WITH SIGNIFICANT TRANSBOUNDARY EFFECTS[^key-f36df89a57209fc835af42653ee35c77]
+
+**No longer in force.**
+
+### 27. Forestry project in Scotland likely to have significant effects in an EEA State other than the United Kingdom[^key-f36df89a57209fc835af42653ee35c77]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Projects in another EEA State likely to have significant transboundary effects[^key-f36df89a57209fc835af42653ee35c77]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — ENFORCEMENT
+
+### 29. Enforcement provisions
+
+Schedule 4 has effect in relation to the enforcement of these Regulations.
+
+## PART 9 — ... APPLICATIONS TO COURT[^key-17071c1698fcf9833168601942f91fdb]
+
+### 30. Appeals against the decisions of the Commissioners[^key-deabbb18c586223339a3e297f3e352d8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Application to the Court of Session by person aggrieved
+
+(1) On application from a person with sufficient interest or whose rights have been impaired by the grant of EIA consent, the court may make an order to reduce the EIA consent where it is satisfied—
+
+- (a) having regard to the environmental information available, that the grant of EIA consent by [^key-1690dd845a94f736b5a86a85d0f80bb4]... the Scottish Ministers, was given contrary to the requirements of the Directive; or
+- (b) that the interests of the applicant have been substantially prejudiced by a failure to comply with any procedural requirement of these Regulations.
+
+(2) An application to the court under this regulation must be made before the expiry of 6 weeks from the date of publication of the decision under regulation 26.
+
+(3) The court may by interim order, pending the determination of the application under this regulation, suspend the operation of the EIA consent on such terms as it may think fit.
+
+(4) For the purposes of this regulation, any non-governmental organisation promoting environmental protection and meeting any requirements under the law is deemed to have an interest for the purposes of Article 11(1)(a) of the Directive and rights capable of being impaired for the purposes of Article 11(1)(b) of the Directive.
+
+(4A)[^key-04f40f3ac25d05fed87a198aac80b667] For the purpose of paragraph (4), Article 11(1) of the Directive is to be read as if—
+
+- (a) the reference to “Member States” were to “The Scottish Ministers”,
+- (b) the reference to “a Member State” were to “Scotland”.
+
+(5) In this regulation “**court**” means the Court of Session.
+
+## PART 10 — MISCELLANEOUS
+
+### 32. Electronic communications – general
+
+(1) In these Regulations, and in relation to the use of electronic communications for any purpose in these Regulations which is capable of being effected electronically—
+
+- (a) the expression “**address**” includes any number or address used for the purposes of such communications, except that where these Regulations impose an obligation on any person to provide a name and address to any other person, the obligation will not be fulfilled unless the person on whom it is imposed provides a postal address; and
+- (b) references to applications, reports, statements, notices [^key-d0e94d219b9a1e8a3c2c0cb03f83c2e6]... or other documents, or to copies of such documents, include references to such documents or copies of them in electronic form.
+
+(2) Paragraphs (3) to (8) apply where an electronic communication is used by a person for the purpose of fulfilling any requirement in these Regulations to give or send any report, statement, notice or other document to any other person (“**the recipient**”).
+
+(3) The requirement is deemed to be fulfilled [^key-dc1eef5132504aa31d185b75fce67833]... where the notice or other document transmitted by means of the electronic communication is—
+
+- (a) capable of being accessed by the recipient;
+- (b) legible in all material respects; and
+- (c) sufficiently permanent to be used for subsequent reference.
+
+(4)[^key-cd6d0b5e72ed9f6816f0456a235faf6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In paragraph (3), “**legible in all material respects**” means that the information contained in the notice or other document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form.
+
+(6) Where the electronic communication is received by the recipient—
+
+- (a) at any time before the end of a day which is a working day, it is deemed to have been received on that day;
+- (b) at any time during a day which is not working day, it is deemed to have been received on the next working day,
+
+and for these purposes, “**working day**” means a day which is not a Saturday, Sunday, Christmas Eve, a bank holiday in Scotland under section 1 and paragraph 2 of schedule 1 of the Banking and Financial Dealings Act 1971 [^c23230771], a day appointed for public thanksgiving or mourning or any other day which is a local or public holiday in an area in which the electronic communication is received.
+
+(7) A requirement in these Regulations that any document should be in writing is fulfilled where that document meets the criteria in paragraph (3), and “written” and cognate expressions are to be construed accordingly.
+
+(8) Where electronic communication is used by a person for the purpose of fulfilling any requirement in these Regulations to give or send any report, statement or document, any such requirement may be complied with by sending one copy only of the report, statement or other document in question.
+
+### 33. Electronic communications – deemed agreement
+
+(1) Any person sending a document using electronic communications is to be taken to have agreed—
+
+- (a) to the use of such communication for all purposes relating to the application which are capable of being carried out electronically; and
+- (b) that the address for the purpose of such communication is the address incorporated into, or otherwise logically associated with, that communication.
+
+(2) Deemed agreement under paragraph (1) subsists until that person gives notice under regulation 34 to revoke the agreement.
+
+### 34. Withdrawal of consent to use of electronic communications
+
+Where a person is no longer willing to accept the use of electronic communications for any purpose which, under these Regulations, is capable of being carried out using such communications, that person must give notice in writing—
+
+- (a) withdrawing any address notified [^key-22ef100168552a4cd01aea9e876a34bf]... to the Scottish Ministers for that purpose; or
+- (b) revoking any agreement entered into or deemed to have been entered into [^key-6e0f328e988ba03acf58aca144bd679c]... with the Scottish Ministers for that purpose,
+
+and such withdrawal or revocation will be final, and will take effect on a date specified by the person in the notice, being a date occurring after the period of 7 days, beginning with the date on which the notice is given.
+
+### 35. Service of notices etc.
+
+(1) Any notice required to be given to any person [^key-fe098564b6cd45474cf43a6fee01c7e9]... by the Scottish Ministers, by virtue of these Regulations may be given by—
+
+- (a) delivering it to that person;
+- (b) leaving it at that person's proper address;
+- (c) sending it by post or fax to that person's proper address; or
+- (d) sending it by email to that person's last known email address.
+
+(2) For the purposes of paragraph (1)(a), a notice is delivered to—
+
+- (a) a body corporate where it is given to a relevant individual within that body;
+- (b) a partnership where it is given to a partner or a person having control or management of the partnership; and
+- (c) an unincorporated association where it is given to an officer or a member of the governing body of the association or any other person having management responsibilities in respect of the association.
+
+(3) For the purposes of paragraph (1)(b) and (c) and section 7 of the Interpretation Act 1978 [^c23230781] (service of documents by post) in its application to this regulation, “**proper address**” means—
+
+- (a) in the case of a body corporate, the registered office (if it is in the United Kingdom) or the principal office of the body in the United Kingdom;
+- (b) in the case of a partnership, the principal office of the partnership;
+- (c) in the case of an unincorporated association, the principal office of the association; or
+- (d) in any other case, a person's last known address.
+
+(4) For the purposes of paragraph (1)(d), a notice is sent to an email address of—
+
+- (a) a body corporate, where it is sent to an email address of—
+  - (i) the body corporate; or
+  - (ii) a relevant individual within that body,
+
+  where that address is supplied by that body for the conduct of the affairs of that body;
+- (b) a partnership, where it is sent to an email address of—
+  - (i) the partnership; or
+  - (ii) a partner or person having control or management of that partnership,
+
+  where that address is supplied by that partnership for the conduct of the affairs of the partnership;
+- (c) an unincorporated association, where it is sent to an email address of—
+  - (i) an officer or member of the governing body of the association; or
+  - (ii) any other person having management responsibilities in respect of the association,
+
+  where that address is supplied by that association for the conduct of the affairs of that association; and
+- (d) a person other than a person mentioned in sub-paragraph (a), (b) or (c), where it is sent to an email address supplied by that person for the conduct of the affairs of that person.
+
+(5) In this regulation—
+
+- (a) “**partnership**” includes a Scottish partnership; and
+- (b) “**relevant individual**” means—
+  - (i) a director, manager, secretary or other similar officer of the body corporate; or
+  - (ii) where the affairs of the body corporate are managed by its members, a member.
+
+### 36. Competent authority – avoidance of conflict of interest
+
+(1) The [^key-596d5722a17dc9cb039a8dd62c6bbe86]... Scottish Ministers are to perform their duties arising under these Regulations in an objective manner and so as not to find themselves in a situation giving rise to a conflict of interest.
+
+(2) Where the Scottish Ministers[^key-125fc38cbba60673dc1153c7d43e7958] are to consider an application for EIA consent made by the Scottish Ministers they are to implement within their organisation of administrative competences an appropriate separation between conflicting functions when performing their duties under these Regulations.
+
+(3)[^key-9f5c99fe59b4be3c2932ba8311b83eb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Co-ordination of assessments
+
+(1) Where in relation to an EIA forestry project there is, in addition to the requirement for an environmental impact assessment to be carried out in accordance with these Regulations, also a requirement to carry out a habitats regulation assessment, the Scottish Ministers[^key-dce97aef7628ec0e6e11fce755ca727b] must, where appropriate, ensure that the habitats regulation assessment and the environmental impact assessment are co-ordinated.
+
+(2) In this regulation, a “**habitats regulation assessment**” means an assessment under regulation 48 of the Conservation (Natural Habitats, &c.) Regulations 1994 [^c23230791].
+
+### 38. Offence - false or misleading statements
+
+(1) A person commits an offence if that person, for the purpose of procuring a particular decision on an EIA application to which these Regulations apply—
+
+- (a) knowingly or recklessly makes a statement which is false or misleading in a material particular;
+- (b) with intent to deceive, uses any document which is false or misleading in a material particular; or
+- (c) with intent to deceive, withholds any material information.
+
+(2) A person who commits an offence under paragraph (1) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+(3) No act or omission of the Crown constitutes an offence under this regulation.
+
+(4) The Court of Session may, on the application of [^key-9fd1d3f8f99e8f69b2bb0a39c63d88b9]... the Scottish Ministers, the chief constable or any other public body or office-holder having responsibility for enforcing these Regulations, declare unlawful any act or omission of the Crown which would, but for paragraph (3) be an offence under this regulation.
+
+(5) Despite paragraph (3), this regulation applies to a person in the public service of the Crown as it applies to other persons.
+
+### 39. Offences - non-compliance with enforcement notices
+
+(1) A person commits an offence if that person carries out work in relation to an EIA forestry project in contravention of a requirement to discontinue that work in an enforcement notice served upon that person pursuant to paragraph 3(2)(b) of schedule 4.
+
+(2) A person who commits an offence under paragraph (1) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+(3) A person commits an offence if that person fails to carry out any measure required by an enforcement notice, pursuant to paragraph 3(2)(a), (c) or (d) of schedule 4, within the time period which is specified in that notice, pursuant to paragraph 3(3) of that schedule.
+
+(4) A person who commits an offence under paragraph (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(5) No act or omission of the Crown constitutes an offence under this regulation.
+
+(6) The Court of Session may, on the application of [^key-b288c6108f170fa341495463f4b7ca80]... the Scottish Ministers, the chief constable or any other public body or office-holder having responsibility for enforcing these Regulations, declare unlawful any act or omission of the Crown which would, but for paragraph (5) be an offence under this regulation.
+
+(7) Despite paragraph (5), this regulation applies to a person in the public service of the Crown as it applies to other persons.
+
+### 40. Offences by bodies corporate etc.
+
+(1) Paragraph (2) applies where—
+
+- (a) an offence under regulation 38 or 39 has been committed by—
+  - (i) a body corporate;
+  - (ii) a Scottish partnership; or
+  - (iii) an unincorporated association other than a Scottish partnership; and
+- (b) it is proved that the offence was committed with the consent or connivance of, or was attributable to neglect on the part of—
+  - (i) a relevant individual; or
+  - (ii) an individual purporting to act in the capacity of a relevant individual.
+
+(2) The individual (as well as the body corporate, partnership or (as the case may be) association) commits the offence and is liable to be proceeded against and punished accordingly.
+
+(3) In paragraph (1), “**relevant individual**” means—
+
+- (a) in relation to a body corporate (other than a limited liability partnership)—
+  - (i) a director, manager, secretary or similar officer of the body;
+  - (ii) where the affairs of the body are managed by its members, a member;
+- (b) in relation to a limited liability partnership, a member;
+- (c) in relation to a Scottish partnership, a partner; or
+- (d) in relation to an unincorporated association other than a Scottish partnership, an individual who is concerned in the management or control of the association.
+
+### 41. Revocation and savings
+
+(1) The 1999 Regulations are revoked.
+
+(2) The 1999 Regulations continue to have effect as they did immediately before 16th May 2017 in relation to any relevant project in connection with which the Commissioners have before 16th May 2017—
+
+- (a) granted consent under regulation 15 of the 1999 Regulations; or
+- (b) received—
+  - (i) an application for an opinion under regulation 5(1) of the 1999 Regulations;
+  - (ii) a request for an opinion under regulation 9(1) of the 1999 Regulations; or
+  - (iii) an application for consent under regulation 10 of the 1999 Regulations.
+
+(3) In this regulation, “relevant project” and “consent” have the meanings given to them in regulation 2 of the 1999 Regulations.
+
+(4)[^key-c286afd2208edbe52594f5c964dd2f95] Where paragraph (2) applies, the 1999 Regulations are to be read, where appropriate, as if references to “the Forestry Commissioners” or “the Commissioners” were references to “the Scottish Ministers”.
+
+(5) For the purpose of this regulation, “the Commissioners” means the Forestry Commissioners constituted under the Forestry Acts 1919 to 1945 and continued in existence by section 1 of the Forestry Act 1967.
+
+R CUNNINGHAM
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+11th April 2017
+
+## SCHEDULE 1 — THRESHOLDS FOR THE IDENTIFICATION OF PROJECTS LIKELY TO HAVE SIGNIFICANT EFFECTS ON THE ENVIRONMENT
+
+Regulations 2(1), 10 and 11
+
+### 1. Interpretation
+
+In this schedule—
+
+- “**AMPP area**” means the accumulated material past project area, being, in relation to an extending project, the total area covered by—
+  - (a) all material past projects; and
+  - (b) every other forestry project which—
+    - (i) is on land adjoining or near to the area of any material past project; and
+    - (ii) fulfils the conditions in paragraphs (a) to (c) of the definition of material past project;
+- “deep peaty soil” is organic soil which contains more than 60 per cent of organic matter and exceeds 50 centimetres in thickness;
+- “**extending project**” means any forestry project on, or proposed to be on, land which adjoins land on which one or more material past projects has, or have, been carried out;
+- “**material past project**”, in relation to a particular extending project, means a forestry project which—
+  - (a) is of the same type as that of the extending project;
+  - (b) was completed after the coming into force of these Regulations; and
+  - (c) was completed no more than 5 years before the proposed date for beginning work on the extending project;
+- “**sensitive area**” has the same meaning as in regulation 2(1) but includes, for the purposes of this schedule only, any area of deep peaty soil;
+- “**type**”, in relation to a forestry project, extending project or material past project means one of the following types of forestry project:
+  - (a) afforestation;
+  - (b) deforestation;
+  - (c) forest road works; or
+  - (d) forest quarry works.
+
+### 2. Thresholds for projects in sensitive areas
+
+(1) This paragraph applies to projects other than extending projects where part of the land covered or proposed to be covered by the forestry project is in a sensitive area.
+
+(2) Subject to the exceptions in sub-paragraph (3), there is no threshold in relation to forestry projects where any part of the land covered or proposed to be covered by the forestry project is in a sensitive area.
+
+(3) Where the land covered by a forestry project includes all or part of a National Scenic Area (and no other sensitive area) the threshold in relation to—
+
+- (a) forestry projects of afforestation is 2 hectares; and
+- (b) forestry projects of deforestation is 0.5 hectares.
+
+### 3. Thresholds for projects outside sensitive areas
+
+(1) This paragraph applies to projects, other than extending projects, where no part of the land covered or proposed to be covered by the project is in a sensitive area.
+
+(2) The threshold in relation to forestry projects of—
+
+- (a) afforestation is 20 hectares;
+- (b) deforestation is 1 hectare;
+- (c) forest road works is 1 hectare; and
+- (d) forest quarry works is 1 hectare.
+
+### 4. Thresholds for extending projects in sensitive areas
+
+(1) This paragraph applies to extending projects where part of the land covered or proposed to be covered by the extending project is in a sensitive area.
+
+(2) Subject to the exceptions in sub-paragraphs (3) and (4), there is no threshold where any part of the land covered or proposed to be covered by the forestry project is in a sensitive area.
+
+(3) Subject to sub-paragraph (5), where the land covered by an extending project of afforestation includes all or part of a National Scenic Area (and no other sensitive area), the threshold is the balance in hectares of 2 hectares minus the AMPP area.
+
+(4) Subject to sub-paragraph (5), where the land covered by an extending project of deforestation includes all or part of a National Scenic Area (and no other sensitive area), the threshold is the balance in hectares of 0.5 hectares minus the AMPP area.
+
+(5) Where the balance referred to in sub-paragraph (3) or (4) is zero or less, there is no threshold for the extending project concerned.
+
+### 5. Thresholds for extending projects outside sensitive areas
+
+(1) This paragraph applies to extending projects where no part of the land covered by the extending project is in a sensitive area.
+
+(2) Subject to sub-paragraph (3), the threshold in relation to extending projects of—
+
+- (a) afforestation is the balance in hectares of 20 hectares minus the AMPP area;
+- (b) deforestation is the balance in hectares of 1 hectare minus the AMPP area;
+- (c) forest road works is the balance in hectares of 1 hectare minus the AMPP area; and
+- (d) forest quarry works is the balance in hectares of 1 hectare minus the AMPP area.
+
+(3) Where the balance referred to in sub-paragraph (2)(a), (b), (c) or (d) is zero or less, there is no threshold for the extending project concerned.
+
+### 6. Exceptional circumstances in relation to forestry projects near to or adjoining other projects
+
+(1) Subject to sub-paragraph (2) and for the purposes of regulation 11(2) and (8), the circumstances of a forestry project may be regarded by the Scottish Ministers[^key-5cc99a616dec61f37fd5d5d1dcfff6f8] as exceptional circumstances where the forestry project in question—
+
+- (a) is, in the opinion of [^key-48699cd8f030d8217845623a91431221]... the Scottish Ministers, adjoining or near to the area of another forestry project of any type; and
+- (b) does not, for whatever reason, fall within the scope of paragraph 4 or 5.
+
+(2) This paragraph—
+
+- (a) does not affect the application of regulation 11(2) in relation to forestry projects which are within the scope of paragraph 4 or 5; and
+- (b) does not limit the generality of the circumstances which may be regarded [^key-dde91e250011fd61778ea015daf8ab70]... by the Scottish Ministers, as exceptional circumstances.
+
+## SCHEDULE 2 — SELECTION CRITERIA FOR SCREENING FORESTRY PROJECTS
+
+Regulations 11 and 12(4)
+
+### 1. Characteristics of forestry projects
+
+The characteristics of the forestry project must be considered having regard, in particular, to—
+
+- (a) the size and design of the forestry project;
+- (b) cumulation with other existing forestry projects and/or approved forestry projects;
+- (c) the use of natural resources, in particular land, soil, water and biodiversity;
+- (d) the production of waste;
+- (e) pollution and nuisances;
+- (f) the risk of major accidents and/or disasters which are relevant to the forestry project concerned, including those caused by climate change, in accordance with scientific knowledge;
+- (g) the risks to human health (for example due to water contamination or air pollution).
+
+### 2. Location of forestry project
+
+The environmental sensitivity of geographical areas likely to be affected by the forestry project must be considered having regard, in particular, to—
+
+- (a) the existing and approved land use;
+- (b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water and biodiversity) in the area and its underground;
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas—
+  - (i) wetlands, riparian areas, river mouths;
+  - (ii) coastal zones and the marine environment;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) European sites and other areas classified or protected under national legislation;
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in Union legislation and relevant to the project, or in which it is considered that there is such a failure;
+  - (vii) densely populated areas;
+  - (viii) landscapes and sites of historical, cultural or archaeological significance.
+
+### 3. Characteristics of the potential impact
+
+The likely significant effects of the forestry project on the environment must be considered in relation to criteria set out in paragraphs 1 and 2 above, with regard to the impact of the forestry project on the factors specified in regulation 5(3), taking into account—
+
+- (a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+- (b) the nature of the impact;
+- (c) the transboundary nature of the impact;
+- (d) the intensity and complexity of the impact;
+- (e) the probability of the impact;
+- (f) the expected onset, duration, frequency and reversibility of the impact;
+- (g) the cumulation of the impact with the impact of other existing and/or approved forestry projects;
+- (h) the possibility of effectively reducing the impact.
+
+## SCHEDULE 3 — INFORMATION FOR INCLUSION IN ENVIRONMENTAL IMPACT ASSESSMENT REPORTS
+
+Regulation 6(3)(f)
+
+**1.** A description of the forestry project, including in particular:
+
+- (a) a description of the location of the forestry project;
+- (b) a description of the physical characteristics of the whole forestry project, including, where relevant, requisite demolition works, and the land-use requirements during the construction and operational phases;
+- (c) a description of the main characteristics of the operational phase of the forestry project (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
+- (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+**2.** A description of the reasonable alternatives (for example in terms of forestry project design, technology, location, size and scale) studied by the applicant, which are relevant to the proposed forestry project and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+**3.** A description of the relevant aspects of the current state of the environment (the “baseline scenario”) and an outline of the likely evolution thereof without implementation of the forestry project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+
+**4.** A description of the factors specified in regulation 5(3) likely to be significantly affected by the forestry project: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+
+**5.** A description of the likely significant effects of the forestry project on the environment resulting from, inter alia:
+
+- (a) the construction and existence of the forestry project, including, where relevant, demolition works;
+- (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+- (c) the emission of pollutants, noise, vibration, light, heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+- (d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+- (e) the cumulation of effects with other existing and/or approved forestry projects, taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+- (f) the impact of the forestry project on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the project to climate change;
+- (g) the technologies and the substances used.
+
+**6.** The description of the likely significant effects on the factors specified in regulation 5(3) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the forestry project. This description should take into account the environmental protection objectives established in[^key-61adc90cb901e1534146314faa29e0ce] assimilated[^key-18e87116a55e2f68cb08e2d3ac9b01a0] law or under other national enactments (including under an Act of the Scottish Parliament and an instrument made under such an Act).
+
+**7.** A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+
+**8.** A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-project analysis). That description should explain the extent to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+
+**9.** A description of the expected significant adverse effects of the forestry project on the environment deriving from the vulnerability of the forestry project to risks of major accidents and/or disasters which are relevant to the project concerned. Relevant information available and obtained through risk assessments pursuant to[^key-f797a16bcfb14461aad2763aac6133e0] assimilated[^key-0c1d09c0ede8f8d93fa9028cc7f134af] law or Scottish environmental assessments may be used for this purpose provided that the requirements of any law that implemented the Directive are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+**10.** A non-technical summary of the information provided under paragraphs 1 to 9.
+
+**11.** A reference list detailing the sources used for the descriptions and assessments included in the EIA report.
+
+## SCHEDULE 4 — ENFORCEMENT POWERS
+
+Regulations 8(2)(b) and 29
+
+### 1. Interpretation of schedule 4
+
+In this schedule—
+
+- “**authorised person**” means a person authorised in writing by the Scottish Ministers[^key-a01a740b86377be72e17860609bd3153] for the purposes of this schedule; and
+- “**notified person**” means a person on whom an enforcement notice has been served under paragraph 3(1) of this schedule.
+
+### 2. Powers of entry
+
+(1) Subject to sub-paragraph (4), where an authorised person reasonably suspects, or the Scottish Ministers[^key-13d94c25ad8f558ca4c21d50b5b709cc] reasonably suspect, that work is being, or has been, carried out on land in relation to a forestry project and EIA consent has not been granted in respect of that project, an authorised person may, at any reasonable time, enter that land for the purposes of determining—
+
+- (a) that such work is being or has been carried out; and
+- (b) whether the forestry project is an EIA forestry project in respect of which EIA consent is required by virtue of regulation 3(1).
+
+(2) Subject to sub-paragraph (4), where work is being, or has been, carried out on land in relation to an EIA forestry project and EIA consent has been granted in respect of that project, an authorised person may at any reasonable time enter that land for the purposes of determining whether there is compliance with any condition subject to which EIA consent is granted, including (where applicable) any condition to take mitigation measures or monitoring measures.
+
+(3) Subject to sub-paragraph (4) where an enforcement notice served under paragraph 3(1) requires measures to be taken (other than the discontinuance of the forestry project) within a specified time period and those measures have not been taken within that time period—
+
+- (a) an authorised person may enter the land to which the enforcement notice relates and take the measures; and
+- (b) where the authorised person takes those measures pursuant to head (a), the Scottish Ministers[^key-30e9e2cf3af954654cdb39639c84f8ad] may recover from the notified person any reasonable expenses incurred by the taking of them.
+
+(4) An authorised person must, if so requested, produce evidence of authorisation before entering land for the purposes of this paragraph.
+
+### 3. Enforcement notices
+
+(1) The Scottish Ministers[^key-e48a75e9c9e869fecc80059a7f22e59f] may serve an enforcement notice on a person who is carrying out, or has carried out, work in connection with a forestry project, where it appears to them that the forestry project is an EIA forestry project and that the work is being, or has been, carried out—
+
+- (a) without EIA consent, where such consent is required by virtue of regulation 3(1); or
+- (b) (where EIA consent has been granted) in breach of a condition subject to which the EIA consent was granted.
+
+(2) An enforcement notice may require the notified person to take one or more of the following measures:—
+
+- (a) apply to the Scottish Ministers for EIA consent;
+- (b) discontinue work in relation to the EIA forestry project;
+- (c) restore the land to its condition before any work in relation to the EIA forestry project was carried out;
+- (d) carry out on the land any works or operations specified in the enforcement notice which the Scottish Ministers reasonably consider to be necessary in order to—
+  - (i) secure compliance with a condition, subject to which EIA consent was granted; or
+  - (ii) prevent, reduce or off-set any significant adverse effects on the environment as a result of the EIA forestry project.
+
+(3) An enforcement notice must specify the time period during which any of the measures in sub-paragraph (2)(a), (c) or (d) must be taken and may specify different time periods for different measures.
+
+(4)[^key-19b0832eff9c80ae149edf7d9af852f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Where an enforcement notice is served pursuant to sub-paragraph (1)(a), the Scottish Ministers must [^key-798f599effb2cc108420ba25024715b8]... serve the notified person with a written statement of their reasons for considering that the forestry project is an EIA forestry project either—
+
+- (a) in, or accompanying, the enforcement notice; or
+- (b) separately but as soon as practicable after service of the enforcement notice.
+
+(6) The Scottish Ministers may, at any time—
+
+- (a) withdraw an enforcement notice; or
+- (b) vary an enforcement notice by means of a further notice served on the notified person.
+
+### 4. Appeals against enforcement notices[^key-423f6781b8f8587ebf3efd019c5d5df9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace, with amendments and saving provision, the Environmental Impact Assessment (Forestry) (Scotland) Regulations 1999 (S.S.I. 1999/43). These Regulations apply in relation to Scotland, and in relation to projects of afforestation, deforestation, forest road works and forest quarry works (“forestry projects”).
+
+The Regulations transpose Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment (OJ L 26, 28.1.2012, p.1), as it is amended by Directive 2014/52/EU of the European Parliament and of the Council (OJ L 124, 25.4.2014, p.1). The Regulations impose procedural requirements in relation to the consideration of applications to carry out certain forestry projects.
+
+Regulation 3(1) provides that forestry projects which are likely to have significant effects on the environment (“EIA forestry projects”) require the consent of the Forestry Commissioners (“EIA consent”) and must be carried out in accordance with that EIA consent. Regulation 3(2) sets out the conditions under which such EIA consent may be granted, which includes the performance of an environmental impact assessment (“EIA”) and the requirement for the Forestry Commissioners to take into account environmental information (which is defined in regulation 2(1)). Regulation 4 sets out mandatory conditions for every EIA consent, to the effect that every EIA forestry project must be started within 5 years and completed within 10 years of the relevant EIA consent being granted
+
+Regulation 5 sets out what the EIA process comprises and regulation 6 makes provision for applications for EIA consent and sets out the content of a EIA report. Regulation 7 confers on the Forestry Commissioners the functions of granting and refusing EIA consent and sets out requirements relating to the period in which their determination may be made.
+
+Part 2 sets out procedures for determining whether a forestry project is an EIA forestry project. Regulation 8 sets out which events will establish that a forestry project is an EIA forestry project. Regulation 9 confers certain powers of exemption on the Forestry Commissioners. Regulation 10 introduces schedule 1, which contains the thresholds for forestry projects. By virtue of regulation 11(2) most forestry projects which do not exceed the relevant threshold in schedule 1 will not be considered to be EIA forestry projects.
+
+Regulation 12 enables a request to be made to the Forestry Commissioners for a “screening opinion”. Regulation 11 makes general provision in relation to such an opinion, including that any screening opinion must be made by reference to the criteria in schedule 2. Regulation 13 sets the time period for the adoption of such a screening opinion. If the time period is exceeded, regulation 14 provides that the person who sought the screening opinion may apply to the Scottish Ministers for a “screening direction”. The Scottish Ministers may also make a screening direction at their own volition (regulation 11(5)(a))
+
+Part 3 sets out procedures for the preparation of EIA reports. Regulation 15 enables an applicant for EIA consent to seek a “scoping opinion” from the Forestry Commissioners on the information to be included in an EIA report. The types of information which may be required are set out in schedule 3. The Forestry Commissioners must consult bodies with environmental responsibilities before adopting a scoping opinion. Where the Forestry Commissioners fail to adopt a scoping opinion with the time period specified in regulation 15(6) or (7), the applicant may apply to the Scottish Ministers for a scoping direction (regulation 16(1)(b)). The Scottish Ministers may also make a scoping direction of their own volition (regulation 16(1)(a)). Regulation 17 requires consultation bodies, if requested, to assist the preparation of an EIA report by making information available to the applicant.
+
+Part 4 sets out the requirements relating to publicity of the EIA report and the procedures to be carried out by the Forestry Commissioners when an EIA report is received by them. Regulation 18 requires publication of notice of the lodging of an EIA report to be given. Regulation 19 provides for consultation where an EIA report is received by the Scottish Ministers. Regulation 20 is concerned with the provision of copies of an EIA report to the public.
+
+Part 5 sets out the procedure in relation to additional information (which is defined in regulation 2(1)) Regulation 21 contains procedures for requiring the provision by the applicant of supplementary information over and above that contained in the EIA report. The applicant may also submit information relating to the EIA report voluntarily. Such information is together referred to as “**additional information**”. Regulation 21 provides that notice of the receipt and availability of additional information provided by the applicant after the initial gathering of information for an EIA report has taken place will require to be publicised.
+
+Part 6 makes provisions for the availability of information relating to EIA applications and also sets out the requirements in relation to decision notices. Regulation 23 requires certain information (such as screening opinions, scoping opinions and EIA reports) to be made available for inspection. Regulation 24 sets out what information is to be contained in the decision notice following determination of EIA application. Regulation 25 requires consideration to be given to the inclusion of monitoring measures. Regulation 26 requires the Forestry Commissioners to notify the applicant, consultation bodies and the public of their decision.
+
+Part 7 (regulations 27 and 28) provide for consultation between EEA States where a forestry project is likely to have significant effects on the environment in another EEA State.
+
+Part 8 (regulation 29) introduces schedule 4 on enforcement.
+
+Part 9 deals with appeals to the Scottish Ministers and applications to the Court of Session. Regulation 30 allows an applicant to appeal to the Scottish Ministers in relation to the refusal of EIA consent or in relation to a condition subject to which EIA consent has been granted. Regulation 31 allows a person with sufficient interest or whose rights have been impaired by the grant of EIA consent to make an application to the Court of Session.
+
+Part 10 contains miscellaneous provisions, including offence provisions. Regulations 32 to 34 make provision for the use of electronic communication. Regulation 35 provides for the service of notices under the Regulations. Regulation 36 provides for the avoidance of conflicts of interest and regulation 37 provides for co-ordination of assessments. Regulation 38 makes it an offence knowingly or recklessly to provide a false or misleading statement or to use a document which is false in a material particular, in order to procure a decision or (with intent to deceive) to withhold material information to that end. Regulation 39 makes it an offence to breach an enforcement notice served under paragraph 3 of schedule 4. Regulation 40 provides for how these offences apply in the context of offences committed by bodies corporate, Scottish partnerships or other unincorporated associations. Regulation 41 revokes (with savings) the Environmental Impact Assessment (Forestry) (Scotland) Regulations 1999.
+
+A business and regulatory impact assessment has been prepared in relation to these Regulations and placed in the Scottish Parliament Information Centre. A copy of this can be obtained from the Forestry Commission Scotland, Silvan House, 231 Corstorphine Road, Edinburgh, EH12 7AT.
+
+## Annotations
+
+[^c23230521]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), schedule 8, paragraph 15(3) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), so far as they are exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^c23230531]: Marginal citation: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51). Section 56(1) was amended by [S.S.I. 2011/1043](https://www.legislation.gov.uk/ssi/2011/1043). The reference to a Government department in section 56(1) is to be read as a reference to the Scottish Administration by virtue of [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) and the functions conferred upon the Minister of the Crown under section 56, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. The requirement to obtain Treasury consent was removed by section 55 of the 1998 Act.
+
+[^c23230541]: Marginal citation: OJ L 26, 28.1.2012, p.1 amended by Directive 2014/52/EU (OJ L 124, 25.4.2014, p.1).
+
+[^key-70858d4d985d66074f367c1bcc213eb3]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+
+[^c23230551]: Marginal citation: [S.S.I. 1999/43](https://www.legislation.gov.uk/ssi/1999/43), as amended by S.S.I 2006/614, [S.S.I. 2010/460](https://www.legislation.gov.uk/ssi/2010/460) and [S.S.I. 2013/177](https://www.legislation.gov.uk/ssi/2013/177).
+
+[^key-39a800a34898edc56c941ecbd9b210ee]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/113/regulation/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/2/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-d5e2e9837240b96037bedef47d968bcd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/113/regulation/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/2/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-b8aec2768504405b7b48c8cb6ee7e6bb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/113/regulation/2) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/2/c) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^c23230571]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c23230581]: Marginal citation: [1991 c.28](https://www.legislation.gov.uk/ukpga/1991/28).
+
+[^c23230591]: Marginal citation: [2014 asp 19](https://www.legislation.gov.uk/asp/2014/19).
+
+[^c23230601]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Section 26 was last amended by section 63(2) of the [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5).
+
+[^c23230611]: Marginal citation: O J L 26, 28.1.2012, p.1 as amended by Directive 2014/52/EU (OJ L 124, 25.4.2014, p.1).
+
+[^key-242bd7c97ea81a0d041ba731e55d57ad]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/113/regulation/2) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(2)(d)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/2/d) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^c23230621]: Marginal citation: [S.S.I. 2017/102](https://www.legislation.gov.uk/ssi/2017/102).
+
+[^c23230631]: Marginal citation: [S.I. 1992/223](https://www.legislation.gov.uk/uksi/1992/223). Part 7 was amended by [S.I. 1992/1078](https://www.legislation.gov.uk/uksi/1992/1078), [S.I](https://www.legislation.gov.uk/uksi/1992/1078/section/I). 1994/3294, [S.S.I. 2014/142](https://www.legislation.gov.uk/ssi/2014/142) and [S.S.I. 2014/300](https://www.legislation.gov.uk/ssi/2014/300).
+
+[^c23230641]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). The definition of “electronic communication” was amended by paragraph 158 of schedule 17 of the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^c23230651]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by section 120 and schedule 22, paragraph 232(1) of the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^key-ee7814ea8a4dcdc6f2b0f380f4eb096a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/113/regulation/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(2)(e)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/2/e/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-6074da4a849119b0c57ccd49c5c4feae]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/113/regulation/2) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(2)(e)(ii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/2/e/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-1a4091c3fcd5b16ad9f6fed0d810193b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/113/regulation/2) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(2)(f)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/2/f) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-94150bc062f4caf38cf1ab41863a321d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/113/regulation/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(2)(g)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/2/g) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-9169235b277f64ab0a518041141239fa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/113/regulation/2) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(2)(h)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/2/h) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-0d2478cef89fa15d00d69d8a20c55465]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2017/113/regulation/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(2)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/2/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^c23230661]: Marginal citation: [2004 asp 6](https://www.legislation.gov.uk/asp/2004/6).
+
+[^c23230671]: Marginal citation: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716), relevantly amended by [S.S.I. 2007/80](https://www.legislation.gov.uk/ssi/2007/80).
+
+[^c23230681]: Marginal citation: See Command Paper 9424.
+
+[^c23230691]: Marginal citation: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46).
+
+[^c23230701]: Marginal citation: [Section 263A](https://www.legislation.gov.uk/ssi/2017/113/section/263A) was inserted by section 50 of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17).
+
+[^c23230711]: Marginal citation: [2000 asp 10](https://www.legislation.gov.uk/asp/2000/10).
+
+[^c23230721]: Marginal citation: In section 58(1) the definition of “site of special scientific interest” was amended by section 37(4)(a) of the [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6).
+
+[^key-33576271f6433ab7715c52cc2f53f7e3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/2/1) substituted (31.12.2020) by [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [70](https://www.legislation.gov.uk/ssi/2019/130/regulation/70); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-89ec3f1db9a0159f508910f02b9beb54]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 33(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/33/2)
+
+[^key-d0ddfaff50fb012f8748e500608f17ae]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/113/regulation/2/2) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/ssi/2020/466/regulation/9/2) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+
+[^key-42d16fb1bef44a5962f49e21d7f4bcd0]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2017/113/regulation/3/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(3)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-a0f7c9ffff34994a0c833f3fea5825ea]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/ssi/2017/113/regulation/5/1/b) substituted (31.12.2020) by [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [71](https://www.legislation.gov.uk/ssi/2019/130/regulation/71); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6a0cfe53336e2310e891073cdb1ca0f2]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2017/113/regulation/5) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(4)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/4) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^c23230731]: Marginal citation: OJ L 206, 22.7.1992, p.7.
+
+[^c23230741]: Marginal citation: OJ L 20, 26.1.2010, p.7.
+
+[^key-1226fbb8747f21e748dae134cc335953]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/6/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(5)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/5/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-192d773e533dad26de211fbff89eca2e]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/6/4) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(5)(b)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/5/b/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-c93877b8f6c8eca1bb2a941ddabd8b14]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/6/4) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/5/b/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-3263d8e92240dac040876cc7d14ec4fa]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/ssi/2017/113/regulation/6/7) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(5)(c)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/5/c) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-3461a14051151f170b4d818e7c693f1a]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/ssi/2017/113/regulation/7) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(6)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/6) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-07f9963167871ccd485aba84cbfe87b3]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/ssi/2017/113/regulation/7/3) substituted (31.12.2020) by [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [72](https://www.legislation.gov.uk/ssi/2019/130/regulation/72); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-79942758c40a1c8cb6456907c4a45831]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/8/1) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(7)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/7/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-f4b0f0fb5670ebb1941613edc83854e8]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/ssi/2017/113/regulation/8/2/a) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(7)(b)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/7/b/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-3eafbf9b566be8a73674f8a68c1aa04b]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/ssi/2017/113/regulation/8/2/b) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(7)(b)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/7/b/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-4d991f4d6ba5f26fc39d72fa23a047ff]: Textual amendment: Word in [reg. 8(2)(b)](https://www.legislation.gov.uk/ssi/2017/113/regulation/8/2/b) inserted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(7)(b)(ii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/7/b/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-7adc25658abcb51d66022228c6fbfd99]: Textual amendment: [Reg. 8(2)(c)](https://www.legislation.gov.uk/ssi/2017/113/regulation/8/2/c) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(7)(b)(iii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/7/b/iii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-99f78f91d47534a625f2e73386b7517f]: Textual amendment: Words in [reg. 8(2)(d)](https://www.legislation.gov.uk/ssi/2017/113/regulation/8/2/d) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(7)(b)(iv)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/7/b/iv) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-3dc1cb6c1a19cc3d83807b911e637232]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/ssi/2017/113/regulation/9) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(8)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/8) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-70bde849909f91466e2a19916664ea24]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/9/1) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [9(3)(a)](https://www.legislation.gov.uk/ssi/2020/466/regulation/9/3/a) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+
+[^key-dd71dbd9b530ffaf8ded5d268e3e5c93]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/9/4) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [9(3)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/9/3/b) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+
+[^key-0c78f9df32dc844850d6bfdba593655f]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/1) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(a)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/a/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-b30646914662f4e8ae1e36d1685ef538]: Textual amendment: Words in [reg. 11(1)(b)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/1/b) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(a)(ii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/a/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-bdf191f25c810871f96b607cf3e6a6c1]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-11b11f1da98280a0994505ae2bfbb746]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/3) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(c)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/c/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-84fc904b4da673622dc06b92e493d0af]: Textual amendment: Words in [reg. 11(3)(a)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/3/a) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(c)(ii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/c/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-36752dea7fb3bc91d2c43eebc615392b]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/3/b) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(c)(iii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/c/iii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-c7761b5536b89ff425c23c19d091d8ef]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/4) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(d)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/d) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-2f44f52a5fa57056cc9cf09b70d2f991]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/5) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(e)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/e) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-3a8a3ba04da19bcf0866d6d5b2409f3f]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/6) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(e)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/e) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-073a5e160eb5dee3afae14c784eaeca8]: Textual amendment: [Reg. 11(7)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/7) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(e)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/e) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-4a1ede23dccb3bac2951463cfdab8cb9]: Textual amendment: Words in [reg. 11(8)](https://www.legislation.gov.uk/ssi/2017/113/regulation/11/8) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(9)(f)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/9/f) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-d8dcb2dd7629795c5c839e43b1ac9be8]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2017/113/regulation/12) heading substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(10)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/10/a) (with [regs. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13), [14](https://www.legislation.gov.uk/ssi/2021/44/regulation/14))
+
+[^key-5adb6059b5b6be461480faae9880af2e]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/12/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(10)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/10/b) (with [regs. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13), [14](https://www.legislation.gov.uk/ssi/2021/44/regulation/14))
+
+[^key-6ede4fcf5217b4caa0dd8fdb926e3d67]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/13/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(11)(a)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/11/a/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-346706ac5f82df0b0c364bd3ac78afe9]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/13/1) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/11/a/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-45c494674c5499cac9c0300a0367ee23]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/ssi/2017/113/regulation/13/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(11)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/11/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-f20b166d8778d604aef04ab38ef9eecd]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/ssi/2017/113/regulation/13/3) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(11)(c)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/11/c/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-9660c9e4015e88c6766a2f1c09d2bcaa]: Textual amendment: Word in [reg. 13(3)](https://www.legislation.gov.uk/ssi/2017/113/regulation/13/3) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(11)(c)(ii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/11/c/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-aadc0999d37deea90de4c01e64a1e299]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/13/4) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(11)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/11/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-8e3e5ea5f168390eaadb235e8c4b32f0]: Textual amendment: [Reg. 13(5)](https://www.legislation.gov.uk/ssi/2017/113/regulation/13/5)[(6)](https://www.legislation.gov.uk/ssi/2017/113/regulation/13/6) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(11)(d)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/11/d) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-de879b8791ad0c63b779b0151f0ed38e]: Textual amendment: Words in [reg. 13(7)](https://www.legislation.gov.uk/ssi/2017/113/regulation/13/7) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(11)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/11/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-9a5c3ab88aadc59c3582b4a120d1eee1]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/113/regulation/14) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(12)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/12) (with [regs. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13), [15](https://www.legislation.gov.uk/ssi/2021/44/regulation/15))
+
+[^key-cb7d7e2dc50b17f2ce63df4f254c92c4]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/113/regulation/15) heading substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(13)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/13/a) (with [regs. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13), [16](https://www.legislation.gov.uk/ssi/2021/44/regulation/16))
+
+[^key-742dfc411b5b68188e967c1dfe403579]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/ssi/2017/113/regulation/15) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(13)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/13/b) (with [regs. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13), [16](https://www.legislation.gov.uk/ssi/2021/44/regulation/16))
+
+[^key-293c6f15b09758bb51a2db681886a232]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/ssi/2017/113/regulation/15/2/a) inserted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2017/168/regulation/4/3/a)
+
+[^key-08d3abd3e0c7f4e7874cdcd79e187f7f]: Textual amendment: Words in [reg. 15(5)(a)](https://www.legislation.gov.uk/ssi/2017/113/regulation/15/5/a) inserted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2017/168/regulation/4/3/b)
+
+[^key-acfb380e74e145029b337016f6f63cef]: Textual amendment: [Reg. 15(8)](https://www.legislation.gov.uk/ssi/2017/113/regulation/15/8)[(9)](https://www.legislation.gov.uk/ssi/2017/113/regulation/15/9) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(13)(c)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/13/c) (with [regs. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13), [16](https://www.legislation.gov.uk/ssi/2021/44/regulation/16))
+
+[^key-31150af46c8c299b8322a7720aa0ac88]: Textual amendment: Words in [reg. 15(11)](https://www.legislation.gov.uk/ssi/2017/113/regulation/15/11) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(13)(d)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/13/d) (with [regs. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13), [16](https://www.legislation.gov.uk/ssi/2021/44/regulation/16))
+
+[^key-4e0d8d8ab5f1f631929dab96740f585e]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/113/regulation/16) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(14)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/14) (with [regs. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13), [17](https://www.legislation.gov.uk/ssi/2021/44/regulation/17))
+
+[^key-47a422d492af78997a325da657045229]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/17/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(15)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/15/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-cfbbeb54af8477cc2c2c14d27770ab73]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/ssi/2017/113/regulation/17/3) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(15)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/15/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-836dfeb86297e52a6e9ccd40c2c45c0d]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/17/4) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(15)(b)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/15/b/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-dee54458c704e6f2bb6e1aebca0d066f]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/17/4) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(15)(b)(ii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/15/b/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-c6e8efbb44571b7cbdbcbc9168bd3cc2]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/17/4) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(15)(b)(iii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/15/b/iii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-a78ba731a9cb14a556f3e8e030d78d83]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/ssi/2017/113/regulation/17/5) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(15)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/15/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^c23230751]: Marginal citation: [S.S.I. 2004/520](https://www.legislation.gov.uk/ssi/2004/520), as amended by [S.S.I. 2013/127](https://www.legislation.gov.uk/ssi/2013/127).
+
+[^key-1479d30919c207334112d9b70f440f51]: Textual amendment: Words in [reg. 17(6)](https://www.legislation.gov.uk/ssi/2017/113/regulation/17/6) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(15)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/15/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^c23230761]: Marginal citation: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391).
+
+[^key-bcc88a8d979e228501863f786adaa229]: Textual amendment: Words in [reg. 17(7)](https://www.legislation.gov.uk/ssi/2017/113/regulation/17/7) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(15)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/15/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-38031fd76125282855706a8e08f30993]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/ssi/2017/113/regulation/18) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(16)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/16) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-7529d498ced6c515200de76d5a4990da]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/ssi/2017/113/regulation/18/2/b) omitted (31.12.2020) by virtue of [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [73](https://www.legislation.gov.uk/ssi/2019/130/regulation/73); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-651cd1f333fc53abbb2f652fbb11300c]: Textual amendment: Word in [reg. 18(2)(f)](https://www.legislation.gov.uk/ssi/2017/113/regulation/18/2/f) inserted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2017/168/regulation/4/4)
+
+[^key-6283370977ef46dd5f4706603f398bae]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/ssi/2017/113/regulation/19) heading omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(17)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/17/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-518717af8faa7fce6de268fb20332278]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/19/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(17)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/17/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-aec063614200749f4757f752e125cb64]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/ssi/2017/113/regulation/19/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(17)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/17/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-0589af775096042915ad3800f6ba36a9]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/21/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(18)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/18/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-b8de7124145b5017b8e1e08981a61ec2]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/ssi/2017/113/regulation/21/2) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(18)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/18/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-c627312e15e1bb6621b45271093ca1bd]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/ssi/2017/113/regulation/21/3) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(18)(c)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/18/c) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-cfc36e6d2f05a012deba8070d2cfbd31]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/21/4) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(18)(d)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/18/d) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-57eeeee67662b2bd1c74318e87b5a78b]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/ssi/2017/113/regulation/22) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(19)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/19) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-ab8da15f41c43fc12c2d2e2ea1e8567f]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/ssi/2017/113/regulation/23) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(20)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/20/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-3aaa0b4d7121962e950e8ac1b3cf53ce]: Textual amendment: [Reg. 23(2)(b)](https://www.legislation.gov.uk/ssi/2017/113/regulation/23/2/b) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(20)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/20/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-4541f5dff20eb0222d9b8791ab3d05e8]: Textual amendment: [Reg. 23(2)(e)](https://www.legislation.gov.uk/ssi/2017/113/regulation/23/2/e) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(20)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/20/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-ab7153cf1f3a4a62f0e160c1c8bd9e96]: Textual amendment: [Reg. 23(2)(g)](https://www.legislation.gov.uk/ssi/2017/113/regulation/23/2/g) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(20)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/20/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-003a52d0496e66d85ca934692815ea50]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/ssi/2017/113/regulation/24) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(21)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/21) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-07b0e4c1cd6cd89cad6f218efbc19a5d]: Textual amendment: Words in [reg. 24(2)(e)(ii)](https://www.legislation.gov.uk/ssi/2017/113/regulation/24/2/e/ii) omitted (31.12.2020) by virtue of [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [74(a)](https://www.legislation.gov.uk/ssi/2019/130/regulation/74/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e97e416dd230611b19b3bccbb2021d96]: Textual amendment: Words in [reg. 24(2)(e)(ii)](https://www.legislation.gov.uk/ssi/2017/113/regulation/24/2/e/ii) omitted (31.12.2020) by virtue of [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [74(b)](https://www.legislation.gov.uk/ssi/2019/130/regulation/74/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4f5d10eef64c4ed711a039827346f67e]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/25/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(22)(a)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/22/a/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-bc2aada383bff8c5a6241f8a16f5912a]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/25/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(22)(a)(ii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/22/a/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-3fb98ce08a6fb13b51b3c2d36be8445b]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/ssi/2017/113/regulation/25/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(22)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/22/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-3c62d972dc672fe039d2137ade3e49b6]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/ssi/2017/113/regulation/25/3) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(22)(c)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/22/c) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-d161653221335993055c270e8dcf14fa]: Textual amendment: Words in [reg. 25(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/25/4) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(22)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/22/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-a68b1c014aa9a9f3759271d4d3a869ee]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/26/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(23)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/23/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-df2663a803aa4c427ea659b42a03de1c]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/ssi/2017/113/regulation/26/2) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(23)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/23/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-2b84ced381d9a365e913f98e22129e01]: Textual amendment: [Reg. 26(3)](https://www.legislation.gov.uk/ssi/2017/113/regulation/26/3) omitted (31.12.2020) by virtue of [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [75](https://www.legislation.gov.uk/ssi/2019/130/regulation/75); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f36df89a57209fc835af42653ee35c77]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ssi/2017/113/part/7) omitted (31.12.2020) by virtue of [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [76](https://www.legislation.gov.uk/ssi/2019/130/regulation/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-17071c1698fcf9833168601942f91fdb]: Textual amendment: Words in [Pt. 9](https://www.legislation.gov.uk/ssi/2017/113/part/9) heading omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(24)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/24) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-deabbb18c586223339a3e297f3e352d8]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/ssi/2017/113/regulation/30) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(25)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/25) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-1690dd845a94f736b5a86a85d0f80bb4]: Textual amendment: Words in [reg. 31(1)(a)](https://www.legislation.gov.uk/ssi/2017/113/regulation/31/1/a) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(26)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/26) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-04f40f3ac25d05fed87a198aac80b667]: Textual amendment: Reg. 31(4A) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [9(4)](https://www.legislation.gov.uk/ssi/2020/466/regulation/9/4) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+
+[^key-d0e94d219b9a1e8a3c2c0cb03f83c2e6]: Textual amendment: Word in [reg. 32(1)(b)](https://www.legislation.gov.uk/ssi/2017/113/regulation/32/1/b) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(27)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/27) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-dc1eef5132504aa31d185b75fce67833]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/ssi/2017/113/regulation/32/3) omitted (31.12.2020) by virtue of [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [77(a)](https://www.legislation.gov.uk/ssi/2019/130/regulation/77/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cd6d0b5e72ed9f6816f0456a235faf6c]: Textual amendment: [Reg. 32(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/32/4) omitted (31.12.2020) by virtue of [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [77(b)](https://www.legislation.gov.uk/ssi/2019/130/regulation/77/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23230771]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Paragraph 2 of schedule 1 was amended by section 1 of the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
+
+[^key-22ef100168552a4cd01aea9e876a34bf]: Textual amendment: Words in [reg. 34(a)](https://www.legislation.gov.uk/ssi/2017/113/regulation/34/a) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(28)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/28/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-6e0f328e988ba03acf58aca144bd679c]: Textual amendment: Words in [reg. 34(b)](https://www.legislation.gov.uk/ssi/2017/113/regulation/34/b) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(28)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/28/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-fe098564b6cd45474cf43a6fee01c7e9]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/35/1) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(29)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/29) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^c23230781]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-596d5722a17dc9cb039a8dd62c6bbe86]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/36/1) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(30)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/30/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-125fc38cbba60673dc1153c7d43e7958]: Textual amendment: Words in [reg. 36(2)](https://www.legislation.gov.uk/ssi/2017/113/regulation/36/2) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(30)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/30/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-9f5c99fe59b4be3c2932ba8311b83eb3]: Textual amendment: [Reg. 36(3)](https://www.legislation.gov.uk/ssi/2017/113/regulation/36/3) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(30)(c)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/30/c) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-dce97aef7628ec0e6e11fce755ca727b]: Textual amendment: Words in [reg. 37(1)](https://www.legislation.gov.uk/ssi/2017/113/regulation/37/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(31)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/31) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^c23230791]: Marginal citation: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716) as relevantly amended by [S.S.I. 2007/80](https://www.legislation.gov.uk/ssi/2007/80) and [S.I. 2007/1843](https://www.legislation.gov.uk/uksi/2007/1843).
+
+[^key-9fd1d3f8f99e8f69b2bb0a39c63d88b9]: Textual amendment: Words in [reg. 38(4)](https://www.legislation.gov.uk/ssi/2017/113/regulation/38/4) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(32)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/32) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-b288c6108f170fa341495463f4b7ca80]: Textual amendment: Words in [reg. 39(6)](https://www.legislation.gov.uk/ssi/2017/113/regulation/39/6) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(33)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/33) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-c286afd2208edbe52594f5c964dd2f95]: Textual amendment: Reg. 41(4)(5) inserted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(34)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/34) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-5cc99a616dec61f37fd5d5d1dcfff6f8]: Textual amendment: Words in [sch. 1 para. 6(1)](https://www.legislation.gov.uk/ssi/2017/113/schedule/1/paragraph/6/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(35)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/35/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-48699cd8f030d8217845623a91431221]: Textual amendment: Words in [sch. 1 para. 6(1)(a)](https://www.legislation.gov.uk/ssi/2017/113/schedule/1/paragraph/6/1/a) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(35)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/35/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-dde91e250011fd61778ea015daf8ab70]: Textual amendment: Words in [sch. 1 para. 6(2)(b)](https://www.legislation.gov.uk/ssi/2017/113/schedule/1/paragraph/6/2/b) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(35)(c)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/35/c) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-61adc90cb901e1534146314faa29e0ce]: Textual amendment: Words in [sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2017/113/schedule/3/paragraph/6) substituted (31.12.2020) by [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [78(a)](https://www.legislation.gov.uk/ssi/2019/130/regulation/78/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-18e87116a55e2f68cb08e2d3ac9b01a0]: Textual amendment: Word in [sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2017/113/schedule/3/paragraph/6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 33(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/33/3)
+
+[^key-f797a16bcfb14461aad2763aac6133e0]: Textual amendment: Words in [sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2017/113/schedule/3/paragraph/9) substituted (31.12.2020) by [The Forestry (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/130)](https://www.legislation.gov.uk/ssi/2019/130), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/130/regulation/1/1), [78(b)](https://www.legislation.gov.uk/ssi/2019/130/regulation/78/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0c1d09c0ede8f8d93fa9028cc7f134af]: Textual amendment: Word in [sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2017/113/schedule/3/paragraph/9) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 33(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/33/4)
+
+[^key-a01a740b86377be72e17860609bd3153]: Textual amendment: Words in [sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2017/113/schedule/4/paragraph/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(36)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/36/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-13d94c25ad8f558ca4c21d50b5b709cc]: Textual amendment: Words in [sch. 4 para. 2(1)](https://www.legislation.gov.uk/ssi/2017/113/schedule/4/paragraph/2/1) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(36)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/36/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-30e9e2cf3af954654cdb39639c84f8ad]: Textual amendment: Words in [sch. 4 para. 2(3)(b)](https://www.legislation.gov.uk/ssi/2017/113/schedule/4/paragraph/2/3/b) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(36)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/36/b) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-e48a75e9c9e869fecc80059a7f22e59f]: Textual amendment: Words in [sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2017/113/schedule/4/paragraph/3) substituted (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(36)(c)(i)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/36/c/i) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-19b0832eff9c80ae149edf7d9af852f4]: Textual amendment: [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/ssi/2017/113/schedule/4/paragraph/3/4) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(36)(c)(ii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/36/c/ii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-798f599effb2cc108420ba25024715b8]: Textual amendment: Words in [sch. 4 para. 3(5)](https://www.legislation.gov.uk/ssi/2017/113/schedule/4/paragraph/3/5) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(36)(c)(iii)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/36/c/iii) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))
+
+[^key-423f6781b8f8587ebf3efd019c5d5df9]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2017/113/schedule/4/paragraph/4) omitted (18.3.2021) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [10(36)(d)](https://www.legislation.gov.uk/ssi/2021/44/regulation/10/36/d) (with [reg. 13](https://www.legislation.gov.uk/ssi/2021/44/regulation/13))

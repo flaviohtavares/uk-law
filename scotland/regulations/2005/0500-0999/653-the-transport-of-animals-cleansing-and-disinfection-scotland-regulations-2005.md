@@ -1,0 +1,313 @@
+---
+title: The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2005
+id: ssi/2005/653
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2005-12-20'
+text_date: '2016-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2005/653
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2005/653/pdfs/ssien_20050653_en.pdf
+- http://www.legislation.gov.uk/ssi/2005/653/pdfs/ssi_20050653_en.pdf
+- http://www.legislation.gov.uk/ssi/2005/653/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2005
+
+> Text as at 2016-01-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2005 No. 653
+
+ANIMALS
+
+ANIMAL HEALTH
+
+The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2005
+
+Made
+
+20th December 2005
+
+Laid before the Scottish Parliament
+
+20th December 2005
+
+Coming into force
+
+27th January 2006
+
+The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c12537771], and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation, commencement, extent and interpretation
+
+(1) These Regulations may be cited as the Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2005 and shall come into force on 27th January 2006.
+
+(2) These Regulations extend to Scotland only.
+
+(3) In these Regulations, unless the context otherwise requires–
+
+- “**animal**” includes bird;
+- “**inspector**” means an inspector appointed by a local authority under the Animal Health Act 1981 [^c12537781];
+- “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c12537791];
+- “**means of transport**” includes road vehicle, vessel, rail wagon or aircraft in which animals are transported and includes any receptacle in which animals are transported on to another means of transport and any fitting, accessory or equipment (whether detachable or not);
+- “**sale premises**” means premises at which animals are brought together for the purpose of sale; and
+- “**transport of a non-commercial nature**” means transport not in the course of a trade or business.
+
+(4) In these Regulations, any reference to a numbered regulation or Schedule is a reference to the regulation or Schedule so numbered in these Regulations.
+
+## 2. Cleansing and disinfection in relation to the transport of hoofed animals other than horses, racing pigeons and poultry
+
+(1) This regulation applies (other than in the circumstances specified in Schedule 1) to the transport of–
+
+- (a) hoofed animals, other than horses;
+- (b) racing pigeons; and
+- (c) domestic fowl, turkeys, geese, ducks, guinea fowl, quails, pigeons, pheasants, partridges and ratites, if they are reared or kept in captivity for breeding, the production of meat or eggs for consumption, or for restocking supplies of game.
+
+(2) Where a means of transport has been used to transport any animal to which this regulation applies or anything which may give rise to the transmission of a disease affecting animals, the user of the means of transport shall, as soon as reasonably practicable and not more than 24 hours after the journey is completed, ensure that it is cleansed and disinfected in accordance with Schedule 2, or, where appropriate, destroyed.
+
+(3) No person shall use, or cause or permit the use of, any means of transport to transport any animal to which this regulation applies, unless it has been cleansed and disinfected in accordance with Schedule 2 since it was last used to transport any animal or anything which may give rise to the transmission of a disease affecting animals.
+
+(4) Without prejudice to the provisions of paragraphs (2) and (3) above, if a means of transport has become soiled so as to give rise to a risk of transmission of a disease affecting animals since being cleansed and disinfected in accordance with paragraphs (2) and (3) above, the user shall cleanse and disinfect it in accordance with paragraphs (1), (3) and (4) of Schedule 2 before loading animals to which this regulation applies into the means of transport.
+
+(5) Any person transporting any animal to which this regulation applies shall remove any dead animal, parts of animals, soiled bedding and excreta from the means of transport as soon as practicable.
+
+## 3. Cleansing and disinfection in relation to the transport of other mammals and birds, and hoofed animals other than horses, racing pigeons and poultry in certain circumstances
+
+(1) Subject to paragraph (2) below, this regulation applies to the transport of–
+
+- (a) all mammals other than hoofed animals;
+- (b) all birds not included in regulation 2; and
+- (c) animals and birds specified in regulation 2 in the circumstances specified in Schedule 1.
+
+(2) This regulation does not apply in the case of–
+
+- (a) transport of a non-commercial nature;
+- (b) a single animal accompanied by a person having the care of, or responsibility for, the animal during transport; or
+- (c) a pet animal accompanied by its owner on a journey.
+
+(3) Any person transporting, or causing or permitting the transport of an animal to which this regulation applies shall ensure that–
+
+- (a) its means of transport has been cleansed and disinfected in accordance with paragraphs (1), (3) and (4) of Schedule 2; and
+- (b) any dead animal, parts of animals, soiled bedding and excreta are removed from its means of transport as soon as practicable.
+
+## 4. Cleansing and disinfection in relation to the transport of horses
+
+(1) Any person transporting, or causing or permitting the transport of, horses shall ensure that–
+
+- (a) they are loaded onto a means of transport which has been cleansed and, where necessary, disinfected; and
+- (b) any dead animal, parts of animals, soiled bedding and excreta are removed from the means of transport as soon as practicable.
+
+(2) This regulation shall not apply in the circumstances set out in regulation 3(2) unless the means of transport was last used to transport an animal to which regulation 2 applies.
+
+(3) No person shall use, cause or permit the use of any means of transport to transport any animal to which regulation 2 applies unless the means of transport and any equipment have been cleansed and disinfected in accordance with Schedule 2 since they were last used to transport a horse.
+
+(4) Except insofar as otherwise specified, cleansing and disinfection under this regulation shall be carried out in accordance with paragraphs (1), (3) and (4) of Schedule 2.
+
+## 5. Disposal of material after cleansing
+
+(1) Everything removed from the means of transport in accordance with Schedule 2 shall either be–
+
+- (a) destroyed;
+- (b) treated so as to remove the risk of transmission of a disease affecting animals; or
+- (c) disposed of so that animals have no access to it.
+
+(2)[^key-04acfca5be9b455d340cd5eeeaf93c7d] This regulation shall not apply to any material required to be disposed of in accordance with—
+
+- (a) Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (Animal by-products Regulation);
+- (b) Commission Regulation (EU) No 142/2011 implementing Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council [Directive 97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive; and
+- (c) the Animal By-Products (Enforcement) (Scotland) Regulations 2013.
+
+## 6. Notices
+
+Any notice served under these Regulations shall be in writing, may be made subject to conditions and may be amended, suspended or revoked in writing at any time.
+
+## 7. Powers of inspectors
+
+(1) An inspector shall have, for the purpose of enforcing these Regulations, power to–
+
+- (a) enter, at any reasonable time, any place other than a dwelling house at which a means of transport is kept;
+- (b) enter, at any reasonable time, any means of transport and carry out such inspection of it or enquiry in relation to it as appears to the inspector to be appropriate;
+- (c) require the assistance of the user of the means of transport, or of any person appearing to the inspector to be in charge of it, to facilitate such inspection or enquiry;
+- (d) inspect, and take copies of, any document relating to the carriage of animals in the means of transport; and
+- (e) inspect and check the operation of any computer and any associated apparatus or material which is or has been in use in connection with any record relating to the carriage of animals in the means of transport; and for this purpose may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford to the inspector such assistance as the inspector may reasonably require (including providing any necessary passwords) and, where a record is kept by means of a computer, may require the record to be produced in a form in which they may be taken away.
+
+(2) Where an inspector is satisfied that a means of transport either–
+
+- (a) has not been cleansed and disinfected in accordance with these Regulations; or
+- (b) requires to be cleansed and disinfected to prevent a risk of transmission of a disease affecting animals,
+
+that inspector may serve a notice on any person appearing to the inspector to be in charge of that means of transport–
+
+- (i) prohibiting the use of the means of transport for either the transport or keeping of animals or both until it has been cleansed and disinfected;
+- (ii) requiring that person to carry out the cleansing and disinfection as set out in the notice within a period specified in the notice; or
+- (iii) requiring that person to dispose of all feeding stuffs to which animals have had access, bedding, excreta and other material of animal origin in the way set out in the notice.
+
+(3) Cleansing and disinfection required by a notice under this regulation shall be carried out in accordance with Schedule 2 unless an inspector is satisfied that it is necessary for animal health purposes for the cleansing and disinfection to be carried out in a manner specified in a notice.
+
+## 8. Enforcement
+
+(1) These Regulations shall be enforced by the local authority in its area.
+
+(2) The Scottish Ministers may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority under this regulation shall be discharged by the Scottish Ministers and not by the local authority.
+
+## 9. Offences and penalties
+
+(1) Any person who–
+
+- (a) contravenes, or fails to comply with–
+  - (i) any of the provisions of these Regulations; or
+  - (ii) a notice or requirement contained in a notice served under these Regulations; or
+- (b) fails without reasonable excuse to comply with any requirement imposed by an inspector in exercise of powers under regulation 7(1) or obstructs any such inspector in the exercise of any of those powers,
+
+shall be guilty of an offence.
+
+(2) A person found guilty of an offence under paragraph (1) above shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 10. Powers of inspectors in case of default
+
+(1) If a person fails to comply with a requirement of these Regulations or a requirement contained in a notice served under them, an inspector may take any steps that the inspector considers necessary to ensure the requirement is met.
+
+(2) Any steps taken are without prejudice to proceedings for an offence arising out of the default.
+
+(3) The person in default shall reimburse any reasonable expenses incurred by the Scottish Ministers or a local authority in taking such steps and any such reimbursement is recoverable as a civil debt.
+
+## 11. Revocation and amendments
+
+(1) The Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000 are hereby revoked [^c12537811].
+
+(2) The Order specified in Schedule 3 is amended in accordance with that Schedule.
+
+RHONA BRANKIN
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House, Edinburgh
+
+## SCHEDULE 1 — Circumstances in which regulation 3 applies
+
+Regulations 2 and 3
+
+### 1. Journey made on a single farming enterprise
+
+Regulation 3, rather than regulation 2, shall apply in relation to the transport of all animals if the journey is made within a single farming enterprise in one ownership.
+
+### 2. Journeys between the same two points
+
+(1) If a means of transport is used exclusively in the course of a single day for the transport of animals between the same two points, regulation 3, rather than regulation 2, shall apply, except before the first journey and after the last journey of the day.
+
+(2) In this paragraph, the transport of animals takes place in the course of a single day even if–
+
+- (a) the last journey is begun but not completed before midnight on the day in question; and
+- (b) in the case of a hoofed animal which has been participating in an event taking place during, or continuing into, the evening of the day in question, the last journey begins as soon as practicable after the end of that event, whether or not it begins before midnight.
+
+(3) This paragraph shall not apply to journeys between two sets of sale premises.
+
+### 3. Journeys to and from livestock shows not in the course of a single day
+
+If a means of transport is used for the transport of animals from their premises of origin to a livestock show and back, and paragraph 2 does not apply, regulation 3 rather than regulation 2 shall apply, except before the journey to the show and after the journey from the show, provided that–
+
+- (a) the means of transport goes directly from the premises of origin to the show;
+- (b) the means of transport does not leave the show before the return journey;
+- (c) the only animals on the means of transport while it is at the show are animals that it transported to the show;
+- (d) the means of transport only transports on the return journey animals that it transported to the show; and
+- (e) the means of transport returns from the show directly to the premises of origin.
+
+### 4. Temporary unloading
+
+Regulation 3, rather than regulation 2, shall apply in the case of a means of transport from which animals have been unloaded solely to be fed or watered, or for some other temporary purpose, and then reloaded.
+
+## SCHEDULE 2 — Methods of cleansing and disinfection
+
+Regulations 2, 3, 4, 5 and 7
+
+### CLEANSING AND DISINFECTION OF MEANS OF TRANSPORT
+
+#### 1. Level of cleansing and disinfection
+
+All cleansing and disinfection shall be carried out so as to reduce so far as reasonably practicable the risk of transmission of disease.
+
+#### 2. Parts of the means of transport required to be cleansed
+
+(1) In the case of animals not transported in a container–
+
+- (a) the following shall be cleansed whether or not they are soiled:
+  - (i) all the inside surfaces of those parts of the means of transport in which the animals are transported,
+  - (ii) all parts of the means of transport to which the animals may have had access during the journey; and
+- (b) the following shall be cleansed if they are soiled–
+  - (i) any detachable fittings not used during the journey;
+  - (ii) any other part of the means of transport; and
+  - (iii) any equipment.
+
+(2) In the case of animals transported in a container, the interior of the container shall be cleansed whether or not it is soiled, and the exterior of the container and any parts of the means of transport carrying the container shall be cleansed if they are soiled.
+
+(3) The wheels, mudguards and wheel arches of the means of transport shall be cleansed whether or not they are soiled and whether or not the animals were transported in a container.
+
+(4) For the purposes of regulation 2, every part of a means of transport required to be cleansed shall also be disinfected.
+
+#### 3. Method of cleansing
+
+Cleansing shall be by removing any feeding stuffs to which animals have had access, litter, excreta and other material of animal origin, mud and other contaminants using any appropriate means, and then cleansing with water, steam or where appropriate chemicals or chemical compounds (or, if necessary, any combination of these) until free of material which could spread disease.
+
+#### 4. Method of disinfection
+
+Anything to be disinfected under these Regulations shall be disinfected after cleansing has been completed, using a disinfectant approved for the purpose under the Diseases of Animals (Approved Disinfectants) Order 1978 [^c12537821] at the concentration required under that Order for “General Orders”, or, where an inspector has required the use of a particular cleansing agent under regulation 7, that cleansing agent.
+
+## SCHEDULE 3 — AMENDMENTS
+
+Regulation 11
+
+In the Pigs (Records, Identification and Movement) Order 1995 (S.I. 1995/11), for:
+
+- (a) condition 4 of Schedule 2;
+- (b) condition 3 of Schedule 3;
+- (c) condition 3 of Schedule 4;
+- (d) condition 4 of Schedule 6; and
+- (e) condition 4 of Schedule 7,
+
+there shall in each case be substituted the following:– “ Means of transport must be cleansed and disinfected in accordance with the Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2005 ”.
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace, with changes, the Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000. The principal changes are the making of specific provision as to horses, requiring inspector's powers of entry to be exercised at a reasonable time and enabling inspectors to inspect certain computer equipment.
+
+They implement paragraph 8 of Chapter I, and part implement paragraphs 30 of Chapter II, 32 of Chapter III, and 34 of Chapter IV, of the Annex to Council Directive [91/628/EEC](https://www.legislation.gov.uk/european/directive/1991/0628) on the protection of animals during transport (O.J. No. L 340, 11.12.91, p.17) which was previously implemented by the Transport of Animals (Cleansing and Disinfection) (Scotland) Regulations 2000.
+
+They also implement Article 12.1(a), second indent, of Council Directive [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) on health problems affecting intra-Community trade in bovine animals and swine (that Directive was consolidated in the Annex to Council Directive [97/12/EC](https://www.legislation.gov.uk/european/directive/1997/0012) (O.J. No. L 109, 25.4.97, p.1).
+
+Regulation 2 applies to any hoofed animals (other than horses); racing pigeons; and any domestic fowl, turkeys, geese, ducks, guinea-fowl, quails, pigeons, pheasants, partridges and ratites that are kept in captivity for breeding, the production of meat or eggs for consumption, or for restocking supplies of game. It specifies that after the transport of such animals (except in the case of journeys on a single farming enterprise, journeys between the same two points, journeys to and from livestock shows, and temporary unloading as described Schedule 1), the means of transport must be cleansed and disinfected in accordance with Schedule 2.
+
+This must be done before the means of transport is used again to transport animals, and within 24 hours of the journey end (regulation 2(2) and (3)). In addition, the means of transport must be cleansed and disinfected before those animals are transported if the means of transport has become soiled so as to cause a risk of transmission of disease (regulation 2(4)). Any person transporting such animals is required to remove dead animals, parts of animals, soiled bedding and excreta from the means of transport as soon as practicable (regulation 2(5)).
+
+Subject to exemptions listed in regulation 3(2), for all other animals and birds (except horses), whilst the same conditions generally apply, there is no requirement to ensure cleansing and disinfecting in accordance with paragraph 2 of Schedule 2 (regulation 3). Schedule 1 sets out the circumstances in which regulation 3 is to apply to hoofed animals other than horses, racing pigeons and poultry in place of regulation 2.
+
+Regulation 4 makes provision in relation to the transport of horses, which can act as a physical carrier of disease (i.e. via mud, bedding, etc.). Regulation 5 sets out requirements for disposal of material removed from a means of transport in accordance with Schedule 2.
+
+Regulation 6 makes provision as to notices. Regulation 7 makes provision as to powers of inspectors (such as entry, examination, and enforcement etc.). Regulation 8 provides that the Regulations shall be enforced by the local authority, subject to the power of the Scottish Ministers to direct otherwise. Regulation 9 makes provision as to offences and penalties. Regulation 10 makes provision as to powers of inspectors in case of default.
+
+Regulation 11 and Schedule 3 make provision as to revocations and amendments.
+
+Schedule 2 sets out the methods of cleansing and disinfection of means of transport.
+
+## Annotations
+
+[^c12537771]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) Schedule 8, paragraph 15(3). The functions conferred upon a Minister of the Crown under section 2(2) of the European Communities Act 1972, so far as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^c12537781]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
+
+[^c12537791]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-04acfca5be9b455d340cd5eeeaf93c7d]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/ssi/2005/653/regulation/5/2) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2015/393/regulation/3)
+
+[^c12537811]: Marginal citation: [S.S.I. 2000/167](https://www.legislation.gov.uk/ssi/2000/167).
+
+[^c12537821]: Marginal citation: [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32) as amended by [S.I. 1978/934](https://www.legislation.gov.uk/uksi/1978/934), [S.I](https://www.legislation.gov.uk/uksi/1978/934/section/I). 1997/2347 and [S.I. 1999/919](https://www.legislation.gov.uk/uksi/1999/919), and [S.S.I. 2001/45](https://www.legislation.gov.uk/ssi/2001/45), [S.S.I. 2003/334](https://www.legislation.gov.uk/ssi/2003/334), [S.S.I. 2004/537](https://www.legislation.gov.uk/ssi/2004/537) and [S.S.I. 2005/99](https://www.legislation.gov.uk/ssi/2005/99).

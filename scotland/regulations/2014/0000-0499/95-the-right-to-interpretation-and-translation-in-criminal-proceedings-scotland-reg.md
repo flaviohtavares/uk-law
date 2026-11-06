@@ -1,0 +1,325 @@
+---
+title: The Right to Interpretation and Translation in Criminal Proceedings (Scotland) Regulations 2014
+id: ssi/2014/95
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-04-01'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2014/95
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2014/95/pdfs/ssipn_20140095_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/95/pdfs/ssi_20140095_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/95/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Right to Interpretation and Translation in Criminal Proceedings (Scotland) Regulations 2014
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2014 No. 95
+
+Criminal Law
+
+The Right to Interpretation and Translation in Criminal Proceedings (Scotland) Regulations 2014
+
+Made
+
+1st April 2014
+
+Laid before the Scottish Parliament
+
+3rd April 2014
+
+Coming into force
+
+19th May 2014
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c22073711] and all other powers enabling them to do so.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Right to Interpretation and Translation in Criminal Proceedings (Scotland) Regulations 2014 and come into force on 19th May 2014.
+
+(2) These Regulations extend to Scotland only.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**appropriate constable**” means a constable who—
+  - (a) is of the rank of inspector or above; and
+  - (b) has not been involved in the investigation in connection with which a person is in police custody or is attending voluntarily at a police station or other premises or place for the purpose of being questioned by a constable;
+- “**communications technology**” includes video conference, telephone and the internet;
+- “**constable**” means a constable of the Police Service of Scotland as defined by section 99(1) of the Police and Fire Reform (Scotland) Act 2012 [^c22073721];
+- “**enactment**” means any enactment, whenever passed or made, comprised in—
+  - (a) an Act of Parliament;
+  - (b) an Act of the Scottish Parliament; or
+  - (c) an instrument made under any such Act;
+- “**essential document**” has the meaning given by—
+  - (a) regulation 4(4), for the purposes of Parts 2 and 4 in so far as Part 4 applies to a person who is in police custody; or
+  - (b) regulation 9(4), for the purposes of Parts 3 and 4 in so far as Part 4 applies to a person who is the subject of criminal proceedings;
+- “**interpretation assistance**” means—
+  - (a) in relation to a person who does not speak or understand English, an oral translation of—
+    - (i) the police proceedings or criminal proceedings into the person's native language or any other language which the person speaks or understands; and
+    - (ii) any communication by the person into English; or
+  - (b) in relation to a person who has a hearing or speech impediment, such appropriate assistance as the person requires to be able to understand the police proceedings or criminal proceedings and communicate effectively;
+- “**oral translation or oral summary**” means a translation or summary provided orally in a person's native language or any other language which the person understands;
+- “**police proceedings**” means proceedings for dealing with—
+  - (a) a person in police custody; or
+  - (b) a person attending voluntarily at a police station or other premises or place for the purpose of being questioned by a constable about an offence which the constable has reasonable grounds to suspect the person of committing;
+- “**prosecutor**” has the meaning given by section 307(1) of the Criminal Procedure (Scotland) Act 1995 [^c22073731];
+- “**the Directive**” means Directive 2010/64/EU of the European Parliament and of the Council on the right to interpretation and translation in criminal proceedings [^c22073741];
+- “**written translation**” means a translation provided, in writing, in a person's native language or any other language which the person understands.
+
+(2)[^key-133866e8afae7370e7822817b74f92ee] For the purposes of these Regulations, a person is in police custody if the person has been arrested by a constable in connection with an offence, except where arrested under the Extradition Act 2003, and is in custody in a police station or other premises.
+
+(3) In these Regulations, any reference to criminal proceedings—
+
+- (a) means court proceedings for dealing with any of the following:—
+  - (i) a person accused of committing an offence;
+  - (ii) a person convicted of, or found to have committed, an offence (including proceedings in respect of a sentence, a disposal or an order);
+  - (iii) an appeal or procedural application in connection with the proceedings mentioned in sub-paragraph (i) or (ii);
+- (b) does not include proceedings for dealing with a person under the Extradition Act 2003.
+
+## PART 2 — Police custody and police questioning
+
+### 3. Right to interpretation assistance in police custody and during police questioning
+
+(1) Paragraph (2) applies where a person is—
+
+- (a) in police custody; or
+- (b) attending voluntarily at a police station or other premises or place for the purpose of being questioned by a constable about an offence which the constable has reasonable grounds to suspect the person of committing.
+
+(2) A constable must take all reasonable steps to determine whether the person requires any interpretation assistance because the person—
+
+- (a) does not speak English;
+- (b) does not understand English;
+- (c) has a hearing impediment; or
+- (d) has a speech impediment.
+
+(3) Where the constable determines that the person requires interpretation assistance, the constable must ensure that arrangements are made for the person to be provided with that assistance—
+
+- (a) as soon as reasonably practicable after arrival at the police station or other premises or place;
+- (b) for the purpose of safeguarding the fairness of the police proceedings in accordance with the requirements placed on member States by[^key-5b38980866cffa40093df6601a48ba12] the Directive.
+
+(4) A constable may arrange for interpretation assistance to be provided from a remote location by means of communications technology, only if the constable considers that to do so would be appropriate in the circumstances and would not prejudice the fairness of the police proceedings.
+
+### 4. Right to translation of essential documents in police custody
+
+(1) Where a person is in police custody, a constable must take all reasonable steps to determine whether the person requires a translation of all essential documents (if any) because the person does not understand English.
+
+(2) Where the constable determines that the person requires such a translation, the constable must ensure that arrangements are made for the person to be provided with a written translation of all essential documents—
+
+- (a) within a reasonable period of time;
+- (b) for the purpose of safeguarding the fairness of the police proceedings in accordance with the requirements placed on member States by[^key-1de17c56817049a0e84c983eca2dc132] the Directive.
+
+(3) Despite paragraph (2), the person may be provided with—
+
+- (a) a written translation only of such part or parts of an essential document as are relevant for the purpose mentioned in that paragraph; or
+- (b) an oral translation or oral summary of an essential document, instead of a written translation, unless this would prejudice the fairness of the police proceedings.
+
+(4) In this regulation, “**essential document**” means any document relating to the person being in police custody which—
+
+- (a) authorises the deprivation of the person's liberty by a constable or charges the person with having committed an offence; and
+- (b) is required by any enactment to be provided to the person in writing.
+
+### 5. Review of a determination made under regulation 3 or 4
+
+(1) Paragraph (2) applies where a constable has determined—
+
+- (a) under regulation 3(2), that a person does not require any interpretation assistance; or
+- (b) under regulation 4(1), that a person does not require a translation of all essential documents.
+
+(2) The person may ask for a review of the determination by an appropriate constable.
+
+(3) If, on reviewing the determination, an appropriate constable determines that the person requires interpretation assistance or a translation of all essential documents, the constable must give such direction as the constable considers necessary to safeguard the fairness of the police proceedings.
+
+### 6. Complaints about interpretation assistance and translation of essential documents in police custody, etc.
+
+(1) A person entitled under this Part to be provided with interpretation assistance, or a translation of all essential documents, may complain to an appropriate constable if—
+
+- (a) the person is not provided with interpretation assistance, or (as the case may be) a written translation or oral translation or oral summary of all essential documents, within a reasonable period of time; or
+- (b) the interpretation assistance or (as the case may be) any written translation or oral translation or oral summary of an essential document provided, is of insufficient quality to safeguard the fairness of the police proceedings.
+
+(2) On determining a complaint made under paragraph (1), an appropriate constable must give such direction as the constable considers necessary to safeguard the fairness of the police proceedings.
+
+### 7. Information to be recorded by the police
+
+A record must be made of any of the following which apply—
+
+- (a) the fact that interpretation assistance is provided under this Part, including whether it is provided during a constable's questioning of a person about an offence;
+- (b) the fact that an oral translation or oral summary of an essential document is provided under this Part;
+- (c) the fact that a waiver is given under regulation 15(1) by a person in police custody.
+
+## PART 3 — Court proceedings
+
+### 8. Right to interpretation assistance in court proceedings
+
+(1) Where a person is the subject of criminal proceedings, the court hearing those proceedings must take all reasonable steps to determine whether the person requires any interpretation assistance because the person—
+
+- (a) does not speak English;
+- (b) does not understand English;
+- (c) has a hearing impediment; or
+- (d) has a speech impediment.
+
+(2) Where the court determines that the person requires interpretation assistance, it must ensure that arrangements are made for the person to be provided with that assistance—
+
+- (a) at every diet in the proceedings at which the person is due to appear;
+- (b) for the purpose of safeguarding the fairness of the proceedings in accordance with the requirements placed on member States by[^key-7bbc2d03ab92767971561c31146bc51f] the Directive.
+
+(3) The court may arrange for interpretation assistance to be provided from a remote location by means of communications technology, only if it considers that to do so would be appropriate in the circumstances and would not prejudice the fairness of the proceedings.
+
+### 9. Right to translation of essential documents in court proceedings
+
+(1) Where a person is the subject of criminal proceedings, the court hearing those proceedings must take all reasonable steps to determine whether the person requires a translation of all essential documents because the person does not understand English.
+
+(2) Where the court determines that the person requires such a translation, it must ensure that arrangements are made (or, as the case may be, have been made) for the person to be provided with a written translation of all essential documents—
+
+- (a) within a reasonable period of time;
+- (b) for the purpose of safeguarding the fairness of the proceedings in accordance with the requirements placed on member States by[^key-13db5529261bed747aa34a22d90ab782] the Directive.
+
+(3) Despite paragraph (2), the person may be provided with—
+
+- (a) a written translation only of such part or parts of an essential document as are relevant for the purpose mentioned in that paragraph; or
+- (b) an oral translation or oral summary of an essential document, instead of a written translation, unless this would prejudice the fairness of the proceedings.
+
+(4) In this regulation, “**essential document**” means—
+
+- (a) any of the following in so far as they are required by any enactment to be provided to the person in writing—
+  - (i) a document authorising the deprivation of the person's liberty;
+  - (ii) a document charging the person with having committed an offence;
+  - (iii) a court judgment relating to the proceedings; and
+- (b) any other document which the court hearing the proceedings determines to be essential for the purpose of safeguarding their fairness.
+
+### 10. Power under regulation 9(4)(b) to determine any document to be essential: further provision
+
+(1) The court may make a determination under regulation 9(4)(b)—
+
+- (a) on the application of a person entitled under this Part to be provided with a translation of all essential documents; or
+- (b) of its own accord.
+
+(2) An application under paragraph (1)(a)—
+
+- (a) is to be made orally;
+- (b) must be made as soon as reasonably practicable and may be made at a trial diet only if the court, on cause shown, allows it; and
+- (c) (without prejudice to any right of appeal in relation to a determination that a document is not essential for the purpose of regulation 9(4)(b)) may be made on one occasion only in relation to a particular document.
+
+(3) Before making a determination under regulation 9(4)(b), the court must give the following persons an opportunity to make representations—
+
+- (a) the prosecutor; and
+- (b) where the court is considering making a determination of its own accord, the person mentioned in paragraph (1)(a).
+
+### 11. Application for a review of a determination made under regulation 8 or 9
+
+(1) Paragraph (2) applies where a court has determined—
+
+- (a) under regulation 8(1), that a person does not require any interpretation assistance; or
+- (b) under regulation 9(1), that a person does not require a translation of all essential documents.
+
+(2) The person may (on one occasion only) apply to the court which made the determination for a review of its determination.
+
+(3) If, on reviewing its determination, the court determines that the person requires interpretation assistance or a translation of all essential documents, it must give such direction as it considers necessary to safeguard the fairness of the proceedings.
+
+(4) Nothing in this regulation affects any right of appeal in relation to the determination being reviewed.
+
+### 12. Application for a direction in relation to interpretation assistance and translation of essential documents in court proceedings
+
+(1) A person entitled under this Part to be provided with interpretation assistance, or a translation of all essential documents, may apply to the court to give a direction if—
+
+- (a) the person is not provided with interpretation assistance or the interpretation assistance provided is of insufficient quality to safeguard the fairness of the proceedings; or
+- (b) (as the case may be) the person is not provided with a written translation, oral translation or oral summary of all essential documents within a reasonable period of time, or any written translation, oral translation or oral summary provided is of insufficient quality to safeguard the fairness of the proceedings.
+
+(2) On determining an application made under paragraph (1), the court must give such direction as it considers necessary to safeguard the fairness of the proceedings.
+
+(3) In this regulation, “**the court**” means the court hearing the criminal proceedings in connection with which the application is made.
+
+### 13. Applications under regulations 11 and 12: further provision
+
+(1) An application under regulation 11(2) or 12(1)—
+
+- (a) is to be made orally; and
+- (b) must be made as soon as reasonably practicable and an application under regulation 11(2) or 12(1)(b) may be made at a trial diet only if the court, on cause shown, allows it.
+
+(2) Before determining an application made under regulation 11(2) or 12(1), the court must give the prosecutor an opportunity to make representations.
+
+### 14. Information to be recorded by the clerk of court
+
+The clerk of court must make a record of any of the following which apply—
+
+- (a) the fact that interpretation assistance is provided under this Part;
+- (b) the fact that an oral translation or oral summary of an essential document is provided under this Part;
+- (c) the fact that a waiver is given to the court under regulation 15(1) by a person who is the subject of criminal proceedings.
+
+## PART 4 — General
+
+### 15. Waiving of the right to translation of essential documents
+
+(1) A person entitled under these Regulations to be provided with a translation of all essential documents may waive that right in respect of any or all of the documents.
+
+(2) A waiver given under paragraph (1) must be—
+
+- (a) voluntary and unequivocal; and
+- (b) informed by legal advice, unless the person otherwise fully understands the consequences of waiving the right.
+
+### 16. Provision of interpretation assistance and translation of essential documents free of charge
+
+Any interpretation assistance or any written translation, oral translation or oral summary of an essential document provided to a person under these Regulations must be provided free of charge.
+
+KENNY MACASKILL
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement, in part, Directive 2010/64/EU of the European Parliament and of the Council on the right to interpretation and translation in criminal proceedings (OJ L 280, 26.10.2010, p.1) (“**the Directive**”). They do not implement Articles 2(7) and 3(6) of the Directive, which relate to a reserved matter (extradition) under Section B11 of Part II of Schedule 5 to the Scotland Act 1998 (c.46). The Regulations extend to Scotland only.
+
+The Regulations—
+
+- (a) require interpretation assistance to be provided to a person who does not speak or understand English or has a hearing or speech impediment, when the person is in police custody, attending voluntarily at a police station or other premises or place for police questioning, or is the subject of criminal proceedings before a court (regulations 3 and 8);
+- (b) provide that interpretation assistance (where required) is to be provided for the purpose of safeguarding the fairness of the police proceedings or criminal proceedings in accordance with the Directive (including ensuring that, where necessary, it is available for communication between the person and his or her legal representative in direct connection with any questioning or hearing during the proceedings or with the lodging of an appeal or other procedural application) (regulations 3(3)(b) and 8(2)(b));
+- (c) require a written translation of all essential documents to be provided to a person who does not understand English, when the person is in police custody or is the subject of criminal proceedings before a court (regulations 4 and 9);
+- (d) allow for a person to be provided with a written translation only of the relevant part(s) of an essential document, or with an oral translation or oral summary of an essential document instead of a written translation, where this is sufficient to safeguard the fairness of the police proceedings or criminal proceedings in accordance with the Directive (regulations 4(3) and 9(3));
+- (e) give the court a power, in criminal proceedings, to determine any document (other than those specified as essential documents) to be essential (regulations 9(4)(b) and 10);
+- (f) provide for the review of a constable's, or (as the case may be) a court's, determination that a person does not require any interpretation assistance or a translation of all essential documents (regulations 5, 11 and 13);
+- (g) enable a person to complain to an appropriate constable, or (as the case may be) apply to the court to give a direction, if interpretation assistance or a translation of all essential documents is not provided as required, or the interpretation assistance or translation provided is of insufficient quality to safeguard the fairness of the police proceedings or criminal proceedings (regulations 6, 12 and 13);
+- (h) require the police and the clerk of court to record certain information relating to the provision of interpretation assistance and translation of essential documents under Parts 2 and 3 respectively (regulations 7 and 14);
+- (i) enable a person to waive the right to be provided with a translation of all essential documents (regulation 15); and
+- (j) require any interpretation assistance or any written translation, oral translation or oral summary of an essential document provided to a person under the Regulations to be provided free of charge (regulation 16).
+
+A Business and Regulatory Impact Assessment and Transposition Note have been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Criminal Justice Division, Justice Directorate, Scottish Government, St Andrew's House, Regent Road, Edinburgh, EH1 3DG and online at www.legislation.gov.uk.
+
+## Annotations
+
+[^c22073711]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^c22073721]: Marginal citation: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
+
+[^c22073731]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). There are amendments to section 307(1) which are not relevant to these Regulations.
+
+[^c22073741]: Marginal citation: OJ L 280, 26.10.2010, p.1.
+
+[^key-133866e8afae7370e7822817b74f92ee]: Textual amendment: Reg. 2(2) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 18](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/18) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2)).
+
+[^key-5b38980866cffa40093df6601a48ba12]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/3/3/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)
+
+[^key-1de17c56817049a0e84c983eca2dc132]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/4/2/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)
+
+[^key-7bbc2d03ab92767971561c31146bc51f]: Textual amendment: Words in [reg. 8(2)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/8/2/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)
+
+[^key-13db5529261bed747aa34a22d90ab782]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/ssi/2014/95/regulation/9/2/b) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [18(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/18/2)

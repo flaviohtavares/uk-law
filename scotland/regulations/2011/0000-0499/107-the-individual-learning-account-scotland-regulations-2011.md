@@ -1,0 +1,703 @@
+---
+title: The Individual Learning Account (Scotland) Regulations 2011
+id: ssi/2011/107
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-02-15'
+text_date: '2026-03-15'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/107
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/107/pdfs/ssien_20110107_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/107/pdfs/ssi_20110107_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/107/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Individual Learning Account (Scotland) Regulations 2011
+
+> Text as at 2026-03-15.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 107
+
+Education
+
+The Individual Learning Account (Scotland) Regulations 2011
+
+Made
+
+15th February 2011
+
+Laid before the Scottish Parliament
+
+17th February 2011
+
+Coming into force
+
+1st April 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 1, 2 and 3(2) of the Education and Training (Scotland) Act 2000[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation[^key-a69544980ea633e1960d241ca34a5259]
+
+(1) These Regulations may be cited as the Individual Learning Account (Scotland) Regulations 2011 and come into force on 1st April 2011.
+
+(2) In these Regulations—
+
+- “the 1992 Act” means the Social Security Contributions and Benefits Act 1992[^f00002];
+- “Account Holder’s Year” means the period commencing upon the date on which the Training Account[^key-6a41783108c9786a578b4f4330af0545] is opened, and expiring on the first day of the same month in the following year, and each subsequent period of 12 months;
+- “the Act” means the Education and Training (Scotland) Act 2000;
+- “Approved Training” has the meaning given by regulation 10(1);[^key-8909de6f3560f2b256abfb942db50ccb]
+- “European Economic Area” means the EU and, subject to the conditions laid down in the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00003], as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00004], the area comprised by the Republic of Iceland, the Kingdom of Norway and the Principality of Liechtenstein;
+- “ITA Scotland” means the arrangements specified in regulation 2;[^key-8f6aa4c3ed1950a24ff0a1c66100ba21]
+- [^key-38a194833fc6cc9adf2d318dc1049e7f]...
+- [^key-38a194833fc6cc9adf2d318dc1049e7f]...
+- [^key-38a194833fc6cc9adf2d318dc1049e7f]...
+- [^key-38a194833fc6cc9adf2d318dc1049e7f]...
+- [^key-38a194833fc6cc9adf2d318dc1049e7f]...
+- [^key-38a194833fc6cc9adf2d318dc1049e7f]...
+- “Operational Rules” means those rules, compliance with which shall be terms of payment of grants under the Scheme, as such rules are determined by the Scottish Ministers from time to time in accordance with section 1(2)(c) of the Act and notified to Training Providers[^key-cb0aec445706bfa2f6fad90eaca864cf] by the Scottish Ministers;
+- “Qualifying Arrangements” means the arrangements which qualify under section 2 of the Act by virtue of regulation 2;
+- “Qualifying Person” has, in relation to Training Account Holders[^key-55bd210bef2dbbc5e5b09bc54e21ebbc], the meaning given in regulation 3 and, in relation to Training Providers[^key-58babc298515cc0c26393b21144b9960], the meaning given in regulation 5;
+- “Quality Standards” means those standards, stipulated by a Training Account Administrator[^key-2455e740f65abeeba3be4017cc88f440], which have been accepted by a Training Provider[^key-a8338298ab09f159b02b713dffeb15e8] as part of the Training Provider Agreement[^key-44aa59c059d8340725be6b070fc5b6ab] and any subsequent standards notified to the Training Provider[^key-cf3af6079ef2357ac00f4d38d924f427] by the Training Account Administrator;
+- “Scheme” means the Training Account scheme[^key-3b29ed845b2dea4aea29d3882d2b223f] established under these Regulations;
+- “Switzerland Agreement” means the Agreement between the European Community and its member States, of the one part, and the Swiss Confederation, of the other, on the Free Movement of Persons signed at Luxembourg on 21st June 1999[^f00005] and which came into force on 1st June 2002;
+- “Training Account” means an account opened and maintained by the Scottish Ministers in the name of the Training Account Holder which records the amount of grant available to be credited in the Account Holder’s Year;[^key-164330978e9d7cd8fec4bd120e261f90]
+- “Training Account Administrator” means a person or body which has been designated by the Scottish Ministers in terms of section 1(4) and (5) of the Act where that designated status has not been withdrawn;
+- “Training Account Holder” means a person who is party to Qualifying Arrangements;
+- “Training Provider” means a person or body which is a Qualifying Person as specified in regulation 5 and which provides Approved Training;
+- “Training Provider Agreement” means the formal agreement to be entered into between the Training Account Administrator and the Training Provider specifying the obligations of the parties, including the maintenance of the Quality Standards;
+- “Training Provider Payment Agreement” means the formal agreement to be entered into between the Scottish Ministers and the Training Provider specifying the obligations of the parties as regards the application for, and payment of, grants; and
+- “Turkish Worker” means a Turkish national who is ordinarily resident in Scotland and is, or has been, lawfully employed in the United Kingdom.
+
+## 2. Qualifying arrangements (Training Account Holders)[^key-b1fdd19e8ec692164b84f391396ec3be][^key-a591a282554b2aaf7f6974eb1506e3a4]
+
+For the purposes of section 2 of the Act, arrangements qualify under that section if—
+
+- (a) they take the form of registration by a Qualifying Person, as a Training Account Holder[^key-d833630682a349a79c4e6683e3e54162], with the Scottish Ministers in accordance with regulation 4; and
+- (b) the registration has not been cancelled or withdrawn in accordance with regulation 4(6) to (8).
+
+## 3. Qualifying persons (Training Account Holders)[^key-c5b1aedd32030d5de65dfecf251306f1][^key-5f62cebcd4af333775baf78a795872a4]
+
+(1) A Training Account Holder[^key-9dd6b54864f58b9d6e9dace2c0380483] is a Qualifying Person for the purposes of entering ITA Scotland[^key-c647c8d29705e86c3d96dac575a21c00] if—
+
+- (a) the person has registered with the Scottish Ministers under regulation 4; and
+- (b) at the date of registration satisfies the conditions specified in paragraphs (2), (3), (4), (5A),[^key-ba8b1b4a42056539531dcbaf70b16520] [^key-1b0795f554d01ed332f16d0bacc7a42b]... (5C), (5D) , (5E)[^key-87ec3024568b39706cebff8b43fbef08] , (6) and (6A)[^key-45747cfcc7ee9c956785217f6c7b96ca] below.
+
+(2) The condition in this paragraph is that the person has attained the age of 16.
+
+(3) The condition in this paragraph is that the person—
+
+- (a) is a British citizen;
+- (b) is settled in the United Kingdom within the meaning of section 33(2A) of the Immigration Act 1971[^f00006];
+- (c) is a refugee, ordinarily resident in the United Kingdom who has not ceased to be so resident since that person was recognised as a refugee;
+- (d) is a person who—
+  - (i) has been informed by a person acting under the authority of the Secretary of State for the Home Department that, although that person is considered not to qualify for recognition as a refugee, it is thought right to allow that person to remain in the United Kingdom;
+  - (ii) has been granted leave to enter or remain accordingly; and
+  - (iii) has been ordinarily resident in the United Kingdom throughout the period since that person was granted leave to enter or remain;
+- (e) is a person not falling within paragraphs (a) to (d) but is a national of a member state of the European Economic Area;
+- (f) is a person not falling within paragraphs (a) to (d) but is a national of Switzerland and who is entitled to become a Training Account Holder[^key-fed3db4b2fac2ed2a772b9761876c903] by virtue of Article 3(6) or Article 9(3) of Annex I to the Switzerland Agreement; or
+- (g) is the child of a Turkish Worker ; or[^key-8ec5fca616878ba1b5ff0d932362974b]
+- (h) is a person not falling within sub-paragraphs (a) to (g) but—
+  - (i) is under the age of 18 and has lived in the United Kingdom throughout the seven-year period preceding the date of registration; or
+  - (ii) is aged 18 years old or above and, preceding the date of registration, has lived in the United Kingdom throughout either half of his or her life or a period of twenty years.
+
+(4) The condition in this paragraph is that the person is either—
+
+- (a) resident in Scotland; or
+- (b) subject to subsection (5), temporarily resident outside Scotland but ordinarily resident in Scotland.
+
+(5) For the purposes of paragraph (4)(b) the residence of a member of the naval, military or air force of the Crown (“a member of the armed forces”) is to be determined as follows:—
+
+- (a) unless sub-paragraph (b) applies, a member of the armed forces must be treated as being resident at the establishment where that member is for the time being serving; and
+- (b) where the member of the armed forces is serving at an establishment outside the United Kingdom, that member must be treated as being resident at the establishment in the United Kingdom where that member most recently served, disregarding any establishment at which that member served for a period of less than one month.
+
+(5A)[^key-46b72f19e0f6a293c4236e8d8f9b0986] The condition in this paragraph is that the person is not undertaking secondary education within the meaning of section 135(2)(b) of the Education (Scotland) Act 1980.
+
+(5B)[^key-e8954f3868274f9d3e422ec3abb3eded] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5C) The condition in this paragraph is that the person is not undertaking—
+
+- (a) a course of further education (that is to say education provided by means of a course of any description mentioned in section 6(1) of the Further and Higher Education (Scotland) Act 1992); or
+- (b) a course of higher education (that is to say education provided by means of a course of any description mentioned in section 38(2) of that Act).
+
+(5D) The condition in this paragraph is that the person is not participating in a [^key-020c6c80df7f2d7beecee57f73d16466]... training programme secured by The Skills Development Scotland Co. Limited.
+
+(5E)[^key-0e585d8c8f6331f684d158226ddfc4d0] The condition in this paragraph is that the person is not participating in the training programme known as Community Jobs Scotland established pursuant to arrangements made by the Scottish Ministers under section 2 of the Employment and Training Act 1973.
+
+(6) The condition in this paragraph is that the person is either—
+
+- (a) a person with a gross income from earnings and pension income not exceeding £22,000 in the Account Holder’s Year; or
+- (b) a person in receipt of any one of the following:—
+  - (i) a jobseeker’s allowance payable under Part I of the Jobseekers Act 1995[^f00007];
+  - (ii) income support payable under section 124 of the 1992 Act[^f00008];
+  - (iii) invalid care allowance payable under section 70 of the 1992 Act[^f00009];
+  - (iiia)[^M_F_7e980683-9dd3-4586-b33b-712d1d505c26] carer support payment component of Carer Support[^key-65a27a5c6bf3c83e095a41762cd42a6e] payable under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+  - (iv) incapacity benefit payable under section 30A of the 1992 Act[^f00010];
+  - (v) the maximum rate of child tax credit payable under section 9 of the Tax Credits Act 2002[^f00011];
+  - (vi) state pension credit payable under section 1 of the State Pension Credit Act 2002[^f00012]; [^key-0fc69e758bbff4dcc8aa0b5ff81272bd]...
+  - (vii) employment and support allowance payable under Part I of the Welfare Reform Act 2007[^f00013] ; or[^key-5a984e1db67ae0b74102dd381504b991]
+  - (viii) universal credit payable under Part 1 of the Welfare Reform Act 2012.
+
+(6A)[^key-3a4da5cd50bd50ac3d01aabda0c4f26f] The condition in this paragraph is that the person is in employment or actively seeking employment.
+
+(7) For the purposes of paragraph (6)—
+
+- (a) a person’s gross income from earnings includes the amount of income tax and social security contributions payable in respect of it;
+- (b) “earnings”, in the case of employed earners, has the same meaning as in regulation 35 of the Income Support (General) Regulations 1987[^f00014] and, in the case of self-employed earners, has the same meaning as in regulation 37 of those Regulations; and
+- (c) “pension income” has the meaning given to it in section 566(2) of the Income Tax (Earnings and Pensions) Act 2003[^f00015].
+
+## 4. Registration (Training Account Holders)[^key-cce0faf162e75089877bf8cec3704f19][^key-56fff5453ea8ca8f7f12145d3ca1dd67]
+
+(1) An application for registration as a Training Account Holder[^key-ce0a5be00bdbd56c65246884e8a794d7] must be made in such form and in such manner as the Scottish Ministers may, from time to time, determine and different forms of application may be determined for renewal of applications.
+
+(2) An application for registration as a Training Account Holder[^key-79f910b085d9000901b3afdd257efcd3] for the purposes of entering ITA Scotland[^key-3fe0424394c2f3345f7c69caa115d705] must not be submitted prior to the date determined by the Scottish Ministers.
+
+(3) An application for registration as a Training Account Holder[^key-95446faec858042225e9172297254bc0] must be made in respect of the period from the date of registration for one Account Holder’s Year only, but upon expiry of the Account Holder’s Year, a further application for such registration may be made for the following Account Holder’s Year, and so on for successive Account Holder’s Years.
+
+(4) The Scottish Ministers may require an applicant for registration as a Training Account Holder[^key-a1e28f60e578a5259c2ab3bc459437f0] to provide such information or documents as the Scottish Ministers may require, in order for the Scottish Ministers to determine whether the person is eligible to become a Training Account Holder, and may decline to accept an application for registration unless such information or documents are provided.
+
+(5) A registered Training Account Holder[^key-140e34ceca22489b439932493bddcab8] may, from time to time, be required to provide to a Training Account Administrator[^key-4e4c7ccd3a3f311237ca3ae4f82ef618] such information, details and documents as may be required for the purpose of assessing the quality and effectiveness of the Approved Training[^key-f44edece90aa3a21d8ffaef4e5f15308] in respect of which a grant has been paid.
+
+(6) The Scottish Ministers may at any time cancel the registration of a Training Account Holder[^key-c9f8e7fe2d4f29ee59ae08f534e24d26] if—
+
+- (a) it appears to the Scottish Ministers that the person does not satisfy the conditions specified in regulation 3 (2), (3), (4), (5A),[^key-14c353b892b38498bd44ee5129076a83] [^key-0ba6bb7e99c81999de47c6752ff00374]... (5C), (5D) , (5E)[^key-7c862a6b72a4d9aa6b31b3db41cb4119] , (6) and (6A)[^key-8aea90dc054c9d23981062573f701a5e];
+- (b) it appears to the Scottish Ministers that any information provided under paragraphs (1) to (5) by or on behalf of the Training Account Holder was false, or if the Training Account Holder has failed to provide any other information or documents which were requested by the Training Account Administrator[^key-f3a9e83de6eb666d623159b99eb0afd3] under paragraph (5); or
+- (c) the Training Account Holder has been convicted of an offence involving dishonesty or fraud in relation to ITA Scotland[^key-0c948a418b4648ef020952eb8c83cb92].
+
+(7) A Training Account Holder[^key-c0f285e32a2d1b3cfdc454b4454c7de1] may at any time withdraw the Training Account Holder’s registration[^key-6cb7d0f8c8ea3718257bc62406c664f5] with the Scottish Ministers by notifying the Scottish Ministers in a form to be determined by the Scottish Ministers.
+
+(8) Where registration is cancelled or withdrawn, the Scottish Ministers must close the relevant Training Account[^key-203a6bdf8efa324bbb7d0fbddc0d7f79] and shall advise the Training Account Administrator[^key-6f8c126c8c9a81e9b71f1868ef6f2d4a] of that fact.
+
+(9) While a person is a party to Qualifying Arrangements, that person may not become a party to other Qualifying Arrangements and any subsequent registration with the Scottish Ministers is of no effect.
+
+(10) A Training Account Holder[^key-3fdcf713db14f8bb6a83bff46135ffbd] must as soon as reasonably practicable notify the Scottish Ministers of any change of circumstances which may affect his or her status as a Qualifying Person.
+
+## 5. Qualifying Persons (Training Providers)[^key-9acb833c0d2ce73333fc80c79896f9b7][^key-a4a9a5f678e43638d1d2366f270717be]
+
+In relation to qualification as a Training Provider[^key-43bbb66fb2706089a0a4dd96538235ee], subject to regulation 7, a person or body shall be a qualifying person if—
+
+- (a) that person or body has registered with a Training Account Administrator[^key-a08fb8b17494276c68ae18410db60172] in terms of regulation 6; and
+- (b) that registration has not been suspended, withdrawn or cancelled.
+
+## 6. Registration (Training Providers)[^key-663df0d13a17e1f4a7867cbdf073020c][^key-126e84d8e27d985a0ae9b742bee2e389]
+
+(1) An application for registration as a Training Provider[^key-bbe652fb2b60563ab135868ab711a340] must be made in a form and manner to be determined by the Training Account Administrator[^key-460a1425f340313fb97702eb8a17d962].
+
+(2) A Training Account Administrator[^key-106bc2be9546dec63e110642599b4446] may require an applicant for registration as a Training Provider[^key-00559ba090798ad99bc42c9ec86e3a78] to provide such information or documents as the Training Account Administrator may require to enable it to determine whether the applicant is suitable to become a Training Provider for the purposes of the Scheme and the Training Account Administrator may decline to accept an application for registration unless such information and documents are provided.
+
+(3) A Training Account Administrator[^key-9908689092ba849e63e0826a98150c1c] may grant an application for registration as a Training Provider[^key-57a07498e02cbd269aa7b579bbb92ff6] only if—
+
+- (a) the Training Account Administrator considers that the applicant is a suitable person to deliver [^key-4501c4747263e3ed0ee80d509248e957]... training in conformity with the Quality Standards for the purposes of the Scheme; and
+- (b) the applicant has delivered a validly executed Training Provider Registration Agreement[^key-fa8af3bb948df3fc08f992655e40fed4] to the Training Account Administrator.
+
+(4) Where an application for registration has been granted, the Training Account Administrator[^key-abd7131fe7dbabb886f89e085b24b051] must notify the Scottish Ministers of that fact in such a manner as the Scottish Ministers may, from time to time, determine.
+
+(5)[^key-1af2a77a6db347b0b25a286679cc7971] During the operation of the Scheme, a Training Account Administrator must monitor and assess a Training Provider’s compliance with the Quality Standards.
+
+(6) A Training Account Administrator may require a Training Provider to—
+
+- (a) immediately inform the Training Account Administrator where the Training Provider becomes aware that it is not complying with the Quality Standards; and
+- (b) provide such information and documents and at such intervals as the Training Account Administrator requires in order to enable the Training Account Administrator to assess the Training Provider’s compliance with the Quality Standards.
+
+## 7. Suspension, cancellation and withdrawal of registration (Training Providers)[^key-3cc8b201950fecdcf287d5f6a5bd97d5][^key-421303517a036040913e39ae7af6da87]
+
+(1) The Training Account Administrator[^key-7e401506cda4884c644f33e005079e86] may suspend or cancel the registration of a Training Provider[^key-1a2803b4084f3f4fa399ea30c0f614c4] in the event that—
+
+- (za)[^key-c2e32edb04885db6ce871483b99dca86] the Training Account Administrator considers that the Training Provider has failed to comply with the Training Account Administrator’s requirements under regulation 6(6);
+- (a) the Training Account Administrator considers that the Training Provider[^key-97ccb09f4cc0dc6ab4531a41a65c436a] has failed to comply with the Quality Standards;
+- (b) the Training Account Administrator considers that the Training Provider has failed to comply with the Operational Rules;
+- (c) the Training Provider has not delivered a validly executed Training Provider Payment Agreement[^key-d2ad3b07b0cc5f95f9c6cfec6b1936ef] to the Scottish Ministers;
+- (d) the Training Provider has otherwise breached any of the terms of the Training Provider Registration Agreement[^key-1d90d98d38369ce18d95b442887620ef] or the Training Provider Payment Agreement;
+- (e) in respect of the Training Provider—
+  - (i) an administration order is made;
+  - (ii) a voluntary arrangement is proposed;
+  - (iii) a resolution is passed or an order made for its winding up (other than a resolution or a members’ voluntary winding up for the purpose of reconstruction in terms approved by the Scottish Ministers);
+  - (iv) a receiver, administrative receiver or liquidator is appointed over the whole or any part of its undertaking or assets; or
+  - (v) the Training Provider makes or seeks to make any composition or arrangement with its creditors, becomes bankrupt or apparently insolvent or has a Trustee appointed over any of its assets or, where the Training Provider is a partnership, any of its partners suffers any of the foregoing;
+- (f) there is a change of control (where control has the meaning given in section 1124 of the Corporation Tax Act 2010[^f00016]) of the Training Provider or any other material change in its management which the Training Account Administrator considers may adversely affect the operation of the Scheme; or
+- (g) the Training Account Administrator reasonably considers that an act or omission of the Training Provider may bring the Scheme into disrepute.
+
+(2) In the event that a Training Provider’s registration[^key-770b15912936ed5f390115129cb9c6ed] is suspended—
+
+- (a) the Training Account Administrator[^key-8b359113a68013eb25eaabaef4700e34] must advise the Scottish Ministers of that fact; and
+- (b) the suspension continues until the Training Account Administrator is satisfied that the default situation in question has been rectified.
+
+(3) If the Training Account Administrator[^key-5ed4710cdf28f79d21176d8edab5be36] is not satisfied within 6 months after the date of suspension, the Training Account Administrator may cancel the Training Provider’s registration[^key-60fd7ac1e99c242d703f84efa0e9d626] at any time after the expiry of that 6 month period.
+
+(4) The Training Provider[^key-5818abb39e8ba75d0cd2513713049aa7] may, at any time, withdraw its registration by giving the Training Account Administrator[^key-0c77d02b661cb7999fa000abdde745c6] not less than 3 months’ prior written notice.
+
+(5) Where a Training Provider’s registration[^key-f7727aeb82213efc3c651dccf2f927fd] is cancelled or withdrawn, the Training Account Administrator[^key-4f97b3ee0abfc03f50b7c1461d684339] must advise the Scottish Ministers of that fact.
+
+## 8. Review[^key-5ae01eba780ccf4edd6fe1c4db4aac37]
+
+(1) Where a Training Provider[^key-6cb746738b5de9ed47f1fc025babecd8] is aggrieved by a decision of the Training Account Administrator[^key-2b0623d4e6e4fa7c3d8c4317f84d43cc] to suspend or cancel the Training Provider’s registration[^key-7a605fceb3b3c7c3ea4f170407927560], that Training Provider[^key-1c8d7c89d227e5780d4f5ccf9ceca5ff] may, within 21 days of the date that the Training Provider is[^key-557a5ad78d3751e234e5e5e5ef854aee] notified of that decision, request that the decision be reviewed.
+
+(2) Where a Training Provider[^key-b9eeae9c0cd2aa1d3411b46d4523fd01] has submitted a request for the review of a decision of the Training Account Administrator[^key-6e933d08ec7cb33e105ba46d3aafcd59], that decision must be reviewed in accordance with the ITA Scotland[^key-a6d217b658911682b81e796e5f247ac6] review process applying at the time of the request for the review, such review process for Training Providers[^key-0fa6926ee436d954c38f8caa21b4cdf1] to be published by the Scottish Ministers.
+
+## 9. Grants in respect of Training Account Holders[^key-4f78cab86b043622c95507f2be302d2f][^key-5ac40becdf281dc5aa7282cd8e9e56fe]
+
+(1) Grants may be paid, in accordance with regulations 11 and 12, in respect of Training Account Holders[^key-0faa1965594b857679bc6fc162c04248] in connection with Approved Training[^key-16bea1855816e35a1cf3f029e9c820cd] where the Training Account Holder[^key-40f2797a5bc360f30388c6e77270644e] at the time of payment of the grant is not eligible for any scholarship, grant or other allowance paid out of public funds in respect of that part of the cost of the [^key-99421e3f5120c30de7232de0da4d3797]... training in question to be paid from Training Account funds[^key-bfdd7673c1dac3bd54b3a08e7a3d42ce], and that [^key-99421e3f5120c30de7232de0da4d3797]... training constitutes Approved Training.
+
+(2) Any entitlement to payment of grant held by a Training Provider[^key-923042287d99d80cc4f425bc773a9313] is an entitlement of that Training Provider only and may not be transferred to another Training Provider.
+
+(3) Where a person—
+
+- (a) is a party to Qualifying Arrangements; and
+- (b) holds an account which qualifies under section 104 of the Learning and Skills Act 2000[^f00017],
+
+a grant is not payable in respect of the Qualifying Arrangements in relation to any period of time where a grant is payable in respect of such an account.
+
+## 10. Training for which grants can be paid[^key-23054a1f9650b0dba3dbbf86db5f4514]
+
+(1) “Approved Training” means any form of training which—
+
+- (a) has been approved by a Training Account Administrator; and
+- (b) is provided by a Training Provider that has been registered by a Training Account Administrator for the purposes of regulation 6 and that registration has not been suspended, withdrawn or cancelled.
+
+(2) A Training Account Administrator may only approve a form of training for the purposes of paragraph (1)(a) if it is satisfied that—
+
+- (a) the purpose of the training is to equip a person undertaking the training for employment; and
+- (b) it is not a form of training which the Scottish Ministers have determined is excluded from being approved by a Training Account Administrator.
+
+## 11. Amount of grant[^key-d42b034d112ee33d3a49ebc5e3603049]
+
+(1) The Scottish Ministers may determine, from time to time, the amount of grant for which a Training Account Holder[^key-60bb7b435d856a36ac13aa864a26c08a] is eligible in an Account Holder’s Year, it being a requirement however that the Training Account Holder has first paid, or secured the making of payment, to the Training Provider[^key-c249339a739888a169bb24bf701a4ca4] (and not received by way of discount or vouchers) the amount of the balance, after deducting the applicable grant allowed, towards the cost of the Approved Training[^key-d9c72bf338bdc6e70b99f79a93f4da99].
+
+(2) The amount of grant may vary depending upon—
+
+- (a) the kind of Approved Training[^key-892440cdd8d39ba021d211e35c6b997f] undertaken by the Training Account Holder[^key-bc8b9514a54375c08a39bfa13431865a];
+- (b) the amount of time spent by the Training Account Holder in the Approved Training in that Account Holder’s Year.
+
+(3) The costs of Approved Training[^key-0e8718d4b5d0b0096028e97c37c1d359] which are eligible for grant in accordance with paragraph (1) are the direct costs of the Approved Training, including course registration, assessment fees, qualification and examination fees, the provision of professional advice and guidance, or such other costs as may be determined by the Scottish Ministers.
+
+(4)[^key-f26eadf78a920347a845b3ae6b626c9f] A Training Account Holder may only receive one award of grant in each Account Holder’s Year.
+
+## 12. Grant: supplementary provision[^key-fd639e06b45142b1468bf8cf657e4d2a]
+
+(1) Grants are to be paid at such times and in such instalments as the Scottish Ministers may determine.
+
+(2) Grants are to be paid to the person who has entered into a Training Provider Registration Agreement[^key-98ffe88d44dfe5dd4fe90a24a1f2c40a] with a Training Account Administrator[^key-1ace0a802a936baf1b88175e1d68588a] and a Training Provider Payment Agreement[^key-0df80dc6f2fbacfcca50676ff8d72d46] with the Scottish Ministers and is the person providing the Approved Training[^key-3702e979fabdecc4c048a391800fa47b].
+
+(3) Grants are to be paid on such terms as the Scottish Ministers may determine which may include terms requiring repayment of the whole or part of the grant—
+
+- (a) by the Training Provider[^key-8889149f4c32f57582c77422de144f7f] if—
+  - (i) the Approved Training[^key-7f8c050f127bd058a37a0285b3754742] in question is not provided;
+  - (ii) the Training Account Holder[^key-81c75356310aba5255743c6a94b10359] does not commence the Approved Training;
+  - (iii) any other terms on which the grant was paid are not complied with; or
+  - (iv) any funds have been paid to the Training Provider in error; or
+- (b) by the Training Account Holder if—
+  - (i) his or her registration is cancelled or at the time of payment of the grant the registration is capable of being cancelled in accordance with regulation 4(6);
+  - (ii) any of the conditions contained in regulation 3 (2), (3), (4), (5A),[^key-8c2066a2301617068ac717993ed4fc27] [^key-def814205e4c84f152048ac145f07375]... (5C), (5D) , (5E)[^key-937b45a8a254979bd8fceda529b9b0b7] , (6) and (6A)[^key-80d9ca04b52ee45d78f6969a5078e155] were not satisfied at the time of registration with the Scottish Ministers;
+  - (iii) the condition contained in regulation 9(1) was not satisfied at the time of payment of the grant; or
+  - (iv) any funds have been paid to the Training Account Holder in error.
+
+(4)[^key-af594fb11a237d014e2267c39040ebee] For the purposes of paragraph (3)(a)(ii) the Approved Training is deemed to have commenced on the date on which the Training Account Holder first attends to receive the training concerned or, if attendance is not necessary for the commencement of the training, on the date on which the Training Account Holder first receives any training instructions or materials.
+
+(5) Without prejudice to paragraph (3) above, no grant is to be paid to a Training Provider[^key-2d7a33b23a678a0b6df5263a4dec0da5] unless the Scottish Ministers are satisfied that—
+
+- (a) in respect of each claim submitted for learning account funds, the Training Provider[^key-33397ff5dc5c4d4696f8b3cf7fb6f394] has complied with the Operational Rules, applicable at the time each claim is submitted;
+- (b) that the Training Provider has complied with the terms of the relevant Training Provider Payment Agreement[^key-397163f289e2e1bc8ff78ef7fed399b6]; and
+- (c) that the Training Provider has been registered by a Training Account Administrator[^key-0aa725494e988a9c4ff169f33c82dbe9] in terms of regulation 6 and that the registration has not been withdrawn, suspended or cancelled.
+
+(6) The Scottish Ministers may vary, supplement, replace or otherwise amend the Operational Rules from time to time and must notify any such changes to the Training Account Administrator[^key-f7ea3238a6d5cb5b32156f3426fe0b9e].
+
+(7) Where the Training Account Administrator[^key-e0e06b033fd8219855c16f8b5c14ae55] is notified under paragraph (6) the Training Account Administrator must notify the changes to Training Providers[^key-26d61934e3525aa7047a2a3cc735c7b3].
+
+(8) It shall be a condition of the payment of all grants that Training Providers[^key-c47ce7f1d2b73cd2a291cadd7af7f66f] comply at all times with the Operational Rules as they apply from time to time.
+
+## 13. Suspension or termination of the Scheme[^key-480cba7b8142a242b9a4f61652ec6ff5]
+
+The Scheme may be suspended or terminated upon Scottish Ministers giving written notice to that effect to Learning Account Holders and Learning Providers.
+
+## 14. Savings provisions[^key-fb0581f8766bcbaff6515f6c81be57da]
+
+Any payments which are due in terms of the Individual Learning Accounts (Scotland) Regulations 2004[^f00021], as amended, shall continue to be payable in accordance with those Regulations notwithstanding revocation of said Regulations.
+
+## 15. Revocations[^key-aa8821f25bd67aa50b876ff1c46fa7b8]
+
+The Regulations specified in the Schedule to these Regulations are revoked.
+
+ANGELA CONSTANCE
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+15th February 2011
+
+## SCHEDULE — REVOCATIONS[^key-21bfdf449ba70a91fc5d34e221ced89b]
+
+Regulation 15
+
+| *Regulations revoked* | *References* |
+| --- | --- |
+| The Individual Learning Account (Scotland) Regulations 2004 | [S.S.I. 2004/83](https://www.legislation.gov.uk/ssi/2004/83) |
+| The Individual Learning Account (Scotland) Amendment Regulations 2004 | [S.S.I. 2004/270](https://www.legislation.gov.uk/ssi/2004/270) |
+| The Education (Graduate Endowment, Student Fees and Support) Switzerland (Scotland) Amendment Regulations 2004 (so far as not already revoked)[^f00022] | [S.S.I. 2004/469](https://www.legislation.gov.uk/ssi/2004/469) |
+| The Individual Learning Account (Scotland) Amendment Regulations 2007 | [S.S.I. 2007/164](https://www.legislation.gov.uk/ssi/2007/164) |
+| The Individual Learning Account (Scotland) Amendment Regulations 2008 | [S.S.I. 2008/1](https://www.legislation.gov.uk/ssi/2008/1) |
+| The Individual Learning Account (Scotland) Amendment (No. 2) Regulations 2008 | [S.S.I. 2008/204](https://www.legislation.gov.uk/ssi/2008/204) |
+| The Individual Learning Account (Scotland) Amendment Regulations 2009 | [S.S.I. 2009/176](https://www.legislation.gov.uk/ssi/2009/176) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations consolidate the provisions of the Individual Learning Account (Scotland) Regulations 2004 and certain amending instruments. In addition to minor and drafting alterations, these Regulations now confer eligibility for an individual learning account on the children of Turkish workers (regulation 3(3)(g)).
+
+They define “arrangements” which qualify under section 2 of the Education and Training (Scotland) Act 2000 (“the Act”). They provide for payment of grants in respect of persons who are parties to such qualifying arrangements (those persons being defined in these Regulations as “Learning Account Holders”). They also set out the qualifying requirements in regard to persons or bodies providing education or training under the Regulations (those persons being defined in the Regulations as “Learning Providers”).
+
+Regulations 2 to 4 deal with qualifying arrangements for, and registration of, Learning Account Holders. The arrangements take the form of registration by a qualifying person (defined in regulation 3) with a body approved by the Scottish Ministers (referred to in these Regulations as a “Learning Account Administrator”). The qualifying arrangements are identified as “ILA Scotland”. Regulation 4 deals with general matters in connection with registration of Learning Account Holders.
+
+Regulations 5 and 6 deal with qualifying arrangements for, and registration of, Learning Providers.
+
+Regulation 5 sets out the general requirements for qualification as a Learning Provider.
+
+Regulation 6 sets out requirements in relation to the registration of a Learning Provider, including that the Learning Account Administrator may grant an application for registration as a Learning Provider only if the applicant is suitable to deliver education and training in conformity with the Quality Standards (as defined in regulation 1(2)) of the ILA Scotland scheme, and that the applicant has delivered a validly executed Learning Provider Registration Agreement (as defined in regulation 1(2)) to the Learning Account Administrator.
+
+Regulation 7 provides that the Learning Account Administrator may suspend or cancel the registration of a Learning Provider in certain defined circumstances, and that the Learning Provider may withdraw its registration upon at least 3 months’ prior notice. The provisions for suspension or cancellation include where the Learning Provider has failed to comply with either the Quality Standards of the learning account scheme, or the Operational Rules of the scheme (as defined in regulation 1(2)), or where the Learning Provider has breached any of the terms of the ancillary documentation (the Learning Provider Registration Agreement and the Learning Provider Payment Agreement and as defined in regulation 1(2)) that it requires to enter in relation to the learning account scheme.
+
+Regulation 8 provides for the ability of the Learning Provider to request a review by the Scottish Ministers of a decision of the Learning Account Administrator to suspend or cancel the Learning Provider’s registration.
+
+Regulations 9 to 12 provide for the conditions of payment of grants in respect of Learning Account Holders. Regulation 9 provides for the power to pay grants, and imposes restrictions on entitlement to receive grant. Regulation 10 provides for the kind of education or training (defined in these Regulations as “Approved Learning”) in respect of which grant is payable. Regulation 11 provides for requirements in relation to the amount of grant payable under the learning account scheme. These include that the amount shall be from time to time determined by the Scottish Ministers, and that the amount may vary depending on the kind of Approved Learning undertaken by the Learning Account Holder and the amount of time spent by the Learning Account Holder in the Approved Learning. Regulation 12 contains various supplementary provisions including provision for the grant to be paid on such terms as the Scottish Ministers may determine, and provision for payment of grants to the person providing the education or training. Provision is also made for grant to be repaid in specified circumstances, by the person providing the education or training, or by the Learning Account Holder.
+
+Regulation 13 provides for suspension or termination of the learning account scheme by the Scottish Ministers.
+
+Regulation 14 makes savings provisions in relation to payments due under the Individual Learning Account (Scotland) Regulations 2004.
+
+Regulation 15 revokes the Individual Learning Account (Scotland) Regulations 2004, together with , the Individual Learning Account (Scotland) Amendment Regulations 2004, the Education (Graduate Endowment, Student Fees and Support) Switzerland (Scotland) Amendment Regulations 2004 (so far as not already revoked), the Individual Learning Account (Scotland) Amendment Regulations 2007, the Individual Learning Account (Scotland) Amendment Regulations 2008, the Individual Learning Account (Scotland) Amendment (No. 2) Regulations 2008 and the Individual Learning Account (Scotland) Amendment Regulations 2009.
+
+## Annotations
+
+[^f00001]: Footnote: [2000 asp 8](https://www.legislation.gov.uk/asp/2000/8). Section 1 was amended by regulation 10 of the Education and Training (Scotland) Regulations ([S.S.I. 2000/292](https://www.legislation.gov.uk/ssi/2000/292)).
+
+[^key-a69544980ea633e1960d241ca34a5259]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/107/regulation/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4)
+
+[^key-6a41783108c9786a578b4f4330af0545]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-8909de6f3560f2b256abfb942db50ccb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^f00003]: Footnote: Cm 2073.
+
+[^f00004]: Footnote: Cm 2183.
+
+[^key-8f6aa4c3ed1950a24ff0a1c66100ba21]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-38a194833fc6cc9adf2d318dc1049e7f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) omitted (15.10.2017) by virtue of [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/d) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-cb0aec445706bfa2f6fad90eaca864cf]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(e)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/e) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-55bd210bef2dbbc5e5b09bc54e21ebbc]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(f)(i)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/f/i) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-58babc298515cc0c26393b21144b9960]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(f)(ii)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/f/ii) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-2455e740f65abeeba3be4017cc88f440]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(g)(i)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/g/i) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-a8338298ab09f159b02b713dffeb15e8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(g)(ii)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/g/ii) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-44aa59c059d8340725be6b070fc5b6ab]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(g)(iii)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/g/iii) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-cf3af6079ef2357ac00f4d38d924f427]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(g)(iv)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/g/iv) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-3b29ed845b2dea4aea29d3882d2b223f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(h)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/h) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^f00005]: Footnote: Cm. 5639.
+
+[^key-164330978e9d7cd8fec4bd120e261f90]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/2) inserted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [3(i)](https://www.legislation.gov.uk/ssi/2017/288/regulation/3/i) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-b1fdd19e8ec692164b84f391396ec3be]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/107/regulation/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-a591a282554b2aaf7f6974eb1506e3a4]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/107/regulation/2) heading substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2017/288/regulation/4/2) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-d833630682a349a79c4e6683e3e54162]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2011/107/regulation/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2017/288/regulation/4/3) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-c5b1aedd32030d5de65dfecf251306f1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/107/regulation/3) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-5f62cebcd4af333775baf78a795872a4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/107/regulation/3) heading substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2017/288/regulation/5/2) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-9dd6b54864f58b9d6e9dace2c0380483]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/5/3/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-c647c8d29705e86c3d96dac575a21c00]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/5/3/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-ba8b1b4a42056539531dcbaf70b16520]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/1/b) substituted (1.7.2012) by [The Individual Learning Account (Scotland) Amendment Regulations 2012 (S.S.I. 2012/172)](https://www.legislation.gov.uk/ssi/2012/172), [regs. 1](https://www.legislation.gov.uk/ssi/2012/172/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/172/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/172/regulation/3))
+
+[^key-1b0795f554d01ed332f16d0bacc7a42b]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/1/b) omitted (15.10.2017) by virtue of [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [5(3)(c)(i)](https://www.legislation.gov.uk/ssi/2017/288/regulation/5/3/c/i) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-87ec3024568b39706cebff8b43fbef08]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/1/b) inserted (1.4.2013) by [The Individual Learning Account (Scotland) Amendment Regulations 2013 (S.S.I. 2013/75)](https://www.legislation.gov.uk/ssi/2013/75), [regs. 1](https://www.legislation.gov.uk/ssi/2013/75/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2013/75/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/75/regulation/3))
+
+[^key-45747cfcc7ee9c956785217f6c7b96ca]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/1/b) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [5(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2017/288/regulation/5/3/c/ii) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^f00006]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 33(2A) was inserted by section 39(6) and Schedule 4, paragraph 7(b) of the British Nationality Act [1981 (c.61)](https://www.legislation.gov.uk/ukpga/1981/61).
+
+[^key-fed3db4b2fac2ed2a772b9761876c903]: Textual amendment: Words in [reg. 3(3)(f)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/3/f) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/5/4/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-8ec5fca616878ba1b5ff0d932362974b]: Textual amendment: [Reg. 3(3)(h)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/3/h) and word inserted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/5/4/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-46b72f19e0f6a293c4236e8d8f9b0986]: Textual amendment: [Reg. 3(5A)-(5D)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/5A) inserted (1.7.2012) by [The Individual Learning Account (Scotland) Amendment Regulations 2012 (S.S.I. 2012/172)](https://www.legislation.gov.uk/ssi/2012/172), [regs. 1](https://www.legislation.gov.uk/ssi/2012/172/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/172/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/172/regulation/3))
+
+[^key-e8954f3868274f9d3e422ec3abb3eded]: Textual amendment: [Reg. 3(5B)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/5B) omitted (15.10.2017) by virtue of [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [5(5)](https://www.legislation.gov.uk/ssi/2017/288/regulation/5/5) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-020c6c80df7f2d7beecee57f73d16466]: Textual amendment: Word in [reg. 3(5D)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/5D) deleted (1.4.2013) by [The Individual Learning Account (Scotland) Amendment Regulations 2013 (S.S.I. 2013/75)](https://www.legislation.gov.uk/ssi/2013/75), [regs. 1](https://www.legislation.gov.uk/ssi/2013/75/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2013/75/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/75/regulation/3))
+
+[^key-0e585d8c8f6331f684d158226ddfc4d0]: Textual amendment: [Reg. 3(5E)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/5E) inserted (1.4.2013) by [The Individual Learning Account (Scotland) Amendment Regulations 2013 (S.S.I. 2013/75)](https://www.legislation.gov.uk/ssi/2013/75), [regs. 1](https://www.legislation.gov.uk/ssi/2013/75/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2013/75/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/75/regulation/3))
+
+[^f00007]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00008]: Footnote: Section 124 was amended by paragraph 30 of Schedule 2, and Schedule 3, to the Jobseekers Act [1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18); paragraph 28 of Schedule 8 to the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30); paragraph 2 of Schedule 2, and Schedule 3, to the State Pension Credit Act [2002 (c.16)](https://www.legislation.gov.uk/ukpga/2002/16); paragraph 42 of Schedule 24 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and paragraph 9 of Schedule 3, and Schedule 8, to the Welfare Reform Act [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^f00009]: Footnote: Section 70 was amended by regulation 2 of the Social Security (Severe Disablement Allowance and Invalid Care Allowance) Amendment Regulations ([S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556)) and article 3 of, and paragraph 2 of the Schedule to, the Regulatory Reform (Carer’s Allowance) Order ([S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457)).
+
+[^M_F_7e980683-9dd3-4586-b33b-712d1d505c26]: Textual amendment: Reg. 3(6)(b)(iiia) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Consequential and Miscellaneous Amendments and Transitional Provision) (Scotland) Regulations 2023 (S.S.I. 2023/258)](https://www.legislation.gov.uk/ssi/2023/258), [regs. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2023/258/regulation/5/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2023/258/regulation/9)) (as amended (23.6.2024) by [S.S.I. 2024/173](https://www.legislation.gov.uk/ssi/2024/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2024/173/regulation/3/2))
+
+[^key-65a27a5c6bf3c83e095a41762cd42a6e]: Textual amendment: Words in [reg. 3(6)(b)(iiia)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/6/b) inserted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [sch. 1 para. 7(2)](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/7/2) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+
+[^f00010]: Footnote: Section 30A was inserted by section 1 of the Social Security (Incapacity for Work) Act [1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18) and was amended by section 64 of the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) and paragraph 14 of Schedule 24 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
+
+[^f00011]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
+
+[^f00012]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^key-0fc69e758bbff4dcc8aa0b5ff81272bd]: Textual amendment: Word in [reg. 3(6)(b)(vi)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/6/b/vi) omitted (29.4.2013) by virtue of [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [21(a)](https://www.legislation.gov.uk/ssi/2013/137/regulation/21/a)
+
+[^f00013]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^key-5a984e1db67ae0b74102dd381504b991]: Textual amendment: [Reg. 3(6)(b)(viii)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/6/b/viii) and word inserted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [21(b)](https://www.legislation.gov.uk/ssi/2013/137/regulation/21/b)
+
+[^key-3a4da5cd50bd50ac3d01aabda0c4f26f]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/ssi/2011/107/regulation/3/6A) inserted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [5(6)](https://www.legislation.gov.uk/ssi/2017/288/regulation/5/6) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^f00014]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
+
+[^f00015]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1). Section 566 was amended by paragraph 3 of Schedule 31 to the Finance Act [2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12).
+
+[^key-cce0faf162e75089877bf8cec3704f19]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/107/regulation/4) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-56fff5453ea8ca8f7f12145d3ca1dd67]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/107/regulation/4) heading substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/2) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-ce0a5be00bdbd56c65246884e8a794d7]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/3) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-79f910b085d9000901b3afdd257efcd3]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/4/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-3fe0424394c2f3345f7c69caa115d705]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/4/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-95446faec858042225e9172297254bc0]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(5)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/5) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-a1e28f60e578a5259c2ab3bc459437f0]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/4) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(5)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/5) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-140e34ceca22489b439932493bddcab8]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(6)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/6/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-4e4c7ccd3a3f311237ca3ae4f82ef618]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(6)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/6/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-f44edece90aa3a21d8ffaef4e5f15308]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(6)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/6/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-c9f8e7fe2d4f29ee59ae08f534e24d26]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/6) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(7)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/7/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-14c353b892b38498bd44ee5129076a83]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/6/a) substituted (1.7.2012) by [The Individual Learning Account (Scotland) Amendment Regulations 2012 (S.S.I. 2012/172)](https://www.legislation.gov.uk/ssi/2012/172), [regs. 1](https://www.legislation.gov.uk/ssi/2012/172/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/172/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/172/regulation/3))
+
+[^key-0ba6bb7e99c81999de47c6752ff00374]: Textual amendment: Word in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/6) omitted (15.10.2017) by virtue of [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(7)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/7/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-7c862a6b72a4d9aa6b31b3db41cb4119]: Textual amendment: Word in [reg. 4(6)(a)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/6/a) inserted (1.4.2013) by [The Individual Learning Account (Scotland) Amendment Regulations 2013 (S.S.I. 2013/75)](https://www.legislation.gov.uk/ssi/2013/75), [regs. 1](https://www.legislation.gov.uk/ssi/2013/75/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2013/75/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/75/regulation/3))
+
+[^key-8aea90dc054c9d23981062573f701a5e]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/6) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(7)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/7/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-f3a9e83de6eb666d623159b99eb0afd3]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/6) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(7)(d)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/7/d) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-0c948a418b4648ef020952eb8c83cb92]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/6) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(7)(e)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/7/e) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-c0f285e32a2d1b3cfdc454b4454c7de1]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/7) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(8)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/8/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-6cb7d0f8c8ea3718257bc62406c664f5]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/7) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(8)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/8/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-203a6bdf8efa324bbb7d0fbddc0d7f79]: Textual amendment: Words in [reg. 4(8)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/8) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(9)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/9/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-6f8c126c8c9a81e9b71f1868ef6f2d4a]: Textual amendment: Words in [reg. 4(8)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/8) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(9)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/9/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-3fdcf713db14f8bb6a83bff46135ffbd]: Textual amendment: Words in [reg. 4(10)](https://www.legislation.gov.uk/ssi/2011/107/regulation/4/10) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [6(10)](https://www.legislation.gov.uk/ssi/2017/288/regulation/6/10) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-9acb833c0d2ce73333fc80c79896f9b7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/107/regulation/5) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-a4a9a5f678e43638d1d2366f270717be]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/107/regulation/5) heading substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2017/288/regulation/7/2) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-43bbb66fb2706089a0a4dd96538235ee]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2011/107/regulation/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2017/288/regulation/7/3) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-a08fb8b17494276c68ae18410db60172]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2011/107/regulation/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2017/288/regulation/7/4) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-663df0d13a17e1f4a7867cbdf073020c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/107/regulation/6) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-126e84d8e27d985a0ae9b742bee2e389]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/107/regulation/6) heading substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/2) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-bbe652fb2b60563ab135868ab711a340]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/3/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-460a1425f340313fb97702eb8a17d962]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/3/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-106bc2be9546dec63e110642599b4446]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/4/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-00559ba090798ad99bc42c9ec86e3a78]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/4/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-9908689092ba849e63e0826a98150c1c]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(5)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/5/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-57a07498e02cbd269aa7b579bbb92ff6]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(5)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/5/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-4501c4747263e3ed0ee80d509248e957]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/3) omitted (15.10.2017) by virtue of [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(5)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/5/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-fa8af3bb948df3fc08f992655e40fed4]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(5)(d)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/5/d) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-abd7131fe7dbabb886f89e085b24b051]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/4) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(6)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/6) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-1af2a77a6db347b0b25a286679cc7971]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/5)[(6)](https://www.legislation.gov.uk/ssi/2011/107/regulation/6/6) inserted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [8(7)](https://www.legislation.gov.uk/ssi/2017/288/regulation/8/7) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-3cc8b201950fecdcf287d5f6a5bd97d5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/107/regulation/7) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-421303517a036040913e39ae7af6da87]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/107/regulation/7) heading substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/2) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-7e401506cda4884c644f33e005079e86]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/3/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-1a2803b4084f3f4fa399ea30c0f614c4]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/3/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-c2e32edb04885db6ce871483b99dca86]: Textual amendment: [Reg. 7(1)(za)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/1/za) inserted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(3)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/3/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-97ccb09f4cc0dc6ab4531a41a65c436a]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(3)(d)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/3/d) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-d2ad3b07b0cc5f95f9c6cfec6b1936ef]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(3)(e)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/3/e) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-1d90d98d38369ce18d95b442887620ef]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(3)(f)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/3/f) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^f00016]: Footnote: [2010 c.4](https://www.legislation.gov.uk/ukpga/2010/4).
+
+[^key-770b15912936ed5f390115129cb9c6ed]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/4/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-8b359113a68013eb25eaabaef4700e34]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/4/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-5ed4710cdf28f79d21176d8edab5be36]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/5/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-60fd7ac1e99c242d703f84efa0e9d626]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(5)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/5/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-5818abb39e8ba75d0cd2513713049aa7]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/4) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(6)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/6/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-0c77d02b661cb7999fa000abdde745c6]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/4) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(6)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/6/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-f7727aeb82213efc3c651dccf2f927fd]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(7)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/7/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-4f97b3ee0abfc03f50b7c1461d684339]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/ssi/2011/107/regulation/7/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [9(7)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/9/7/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-5ae01eba780ccf4edd6fe1c4db4aac37]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/107/regulation/8) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-6cb746738b5de9ed47f1fc025babecd8]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/8/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/10/2/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-2b0623d4e6e4fa7c3d8c4317f84d43cc]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/8/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/10/2/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-7a605fceb3b3c7c3ea4f170407927560]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/8/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [10(2)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/10/2/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-1c8d7c89d227e5780d4f5ccf9ceca5ff]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/8/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [10(2)(d)](https://www.legislation.gov.uk/ssi/2017/288/regulation/10/2/d) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-557a5ad78d3751e234e5e5e5ef854aee]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/8/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [10(2)(e)](https://www.legislation.gov.uk/ssi/2017/288/regulation/10/2/e) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-b9eeae9c0cd2aa1d3411b46d4523fd01]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/8/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/10/3/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-6e933d08ec7cb33e105ba46d3aafcd59]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/8/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/10/3/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-a6d217b658911682b81e796e5f247ac6]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/8/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/10/3/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-0fa6926ee436d954c38f8caa21b4cdf1]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/8/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [10(3)(d)](https://www.legislation.gov.uk/ssi/2017/288/regulation/10/3/d) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-4f78cab86b043622c95507f2be302d2f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/107/regulation/9) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-5ac40becdf281dc5aa7282cd8e9e56fe]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/107/regulation/9) heading substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [11(2)](https://www.legislation.gov.uk/ssi/2017/288/regulation/11/2) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-0faa1965594b857679bc6fc162c04248]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/9/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [11(3)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/11/3/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-16bea1855816e35a1cf3f029e9c820cd]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/9/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [11(3)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/11/3/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-40f2797a5bc360f30388c6e77270644e]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/9/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [11(3)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/11/3/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-99421e3f5120c30de7232de0da4d3797]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/9/1) omitted (15.10.2017) by virtue of [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [11(3)(d)](https://www.legislation.gov.uk/ssi/2017/288/regulation/11/3/d) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-bfdd7673c1dac3bd54b3a08e7a3d42ce]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/9/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [11(3)(e)](https://www.legislation.gov.uk/ssi/2017/288/regulation/11/3/e) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-923042287d99d80cc4f425bc773a9313]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/9/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [11(4)](https://www.legislation.gov.uk/ssi/2017/288/regulation/11/4) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^f00017]: Footnote: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21).
+
+[^key-23054a1f9650b0dba3dbbf86db5f4514]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/107/regulation/10) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [12](https://www.legislation.gov.uk/ssi/2017/288/regulation/12) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-d42b034d112ee33d3a49ebc5e3603049]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2011/107/regulation/11) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-60bb7b435d856a36ac13aa864a26c08a]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/11/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/13/2/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-c249339a739888a169bb24bf701a4ca4]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/11/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/13/2/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-d9c72bf338bdc6e70b99f79a93f4da99]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/11/1) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [13(2)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/13/2/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-892440cdd8d39ba021d211e35c6b997f]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/11/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/13/3/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-bc8b9514a54375c08a39bfa13431865a]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/11/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/13/3/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-0e8718d4b5d0b0096028e97c37c1d359]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/11/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [13(4)](https://www.legislation.gov.uk/ssi/2017/288/regulation/13/4) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-f26eadf78a920347a845b3ae6b626c9f]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/ssi/2011/107/regulation/11/4) inserted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [13(5)](https://www.legislation.gov.uk/ssi/2017/288/regulation/13/5) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-fd639e06b45142b1468bf8cf657e4d2a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2011/107/regulation/12) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-98ffe88d44dfe5dd4fe90a24a1f2c40a]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/2/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-1ace0a802a936baf1b88175e1d68588a]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/2/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-0df80dc6f2fbacfcca50676ff8d72d46]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(2)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/2/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-3702e979fabdecc4c048a391800fa47b]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/2) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(2)(d)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/2/d) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-8889149f4c32f57582c77422de144f7f]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(3)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/3/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-7f8c050f127bd058a37a0285b3754742]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(3)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/3/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-81c75356310aba5255743c6a94b10359]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(3)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/3/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-8c2066a2301617068ac717993ed4fc27]: Textual amendment: Words in [reg. 12(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/3/b/ii) substituted (1.7.2012) by [The Individual Learning Account (Scotland) Amendment Regulations 2012 (S.S.I. 2012/172)](https://www.legislation.gov.uk/ssi/2012/172), [regs. 1](https://www.legislation.gov.uk/ssi/2012/172/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/172/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/172/regulation/3))
+
+[^key-def814205e4c84f152048ac145f07375]: Textual amendment: Word in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/3) omitted (15.10.2017) by virtue of [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(3)(d)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/3/d) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-937b45a8a254979bd8fceda529b9b0b7]: Textual amendment: Word in [reg. 12(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/3/b/ii) inserted (1.4.2013) by [The Individual Learning Account (Scotland) Amendment Regulations 2013 (S.S.I. 2013/75)](https://www.legislation.gov.uk/ssi/2013/75), [regs. 1](https://www.legislation.gov.uk/ssi/2013/75/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2013/75/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/75/regulation/3))
+
+[^key-80d9ca04b52ee45d78f6969a5078e155]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/3) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(3)(e)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/3/e) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-af594fb11a237d014e2267c39040ebee]: Textual amendment: [Reg. 12(4)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/4) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(4)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/4) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-2d7a33b23a678a0b6df5263a4dec0da5]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(5)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/5/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-33397ff5dc5c4d4696f8b3cf7fb6f394]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(5)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/5/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-397163f289e2e1bc8ff78ef7fed399b6]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(5)(c)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/5/c) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-0aa725494e988a9c4ff169f33c82dbe9]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/5) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(5)(d)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/5/d) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-f7ea3238a6d5cb5b32156f3426fe0b9e]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/6) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(6)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/6) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-e0e06b033fd8219855c16f8b5c14ae55]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/7) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(7)(a)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/7/a) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-26d61934e3525aa7047a2a3cc735c7b3]: Textual amendment: Words in [reg. 12(7)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/7) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(7)(b)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/7/b) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-c47ce7f1d2b73cd2a291cadd7af7f66f]: Textual amendment: Words in [reg. 12(8)](https://www.legislation.gov.uk/ssi/2011/107/regulation/12/8) substituted (15.10.2017) by [The Individual Learning Account (Scotland) Amendment Regulations 2017 (S.S.I. 2017/288)](https://www.legislation.gov.uk/ssi/2017/288), [regs. 1](https://www.legislation.gov.uk/ssi/2017/288/regulation/1), [14(8)](https://www.legislation.gov.uk/ssi/2017/288/regulation/14/8) (with [reg. 15](https://www.legislation.gov.uk/ssi/2017/288/regulation/15))
+
+[^key-480cba7b8142a242b9a4f61652ec6ff5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2011/107/regulation/13) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-fb0581f8766bcbaff6515f6c81be57da]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2011/107/regulation/14) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^f00021]: Footnote: [S.S.I. 2004/83](https://www.legislation.gov.uk/ssi/2004/83), as amended by [S.S.I. 2004/270](https://www.legislation.gov.uk/ssi/2004/270), [S.S.I. 2004/469](https://www.legislation.gov.uk/ssi/2004/469), [S.S.I. 2007/164](https://www.legislation.gov.uk/ssi/2007/164), [S.S.I. 2008/1](https://www.legislation.gov.uk/ssi/2008/1), [S.S.I. 2008/204](https://www.legislation.gov.uk/ssi/2008/204) and [S.S.I. 2009/176](https://www.legislation.gov.uk/ssi/2009/176).
+
+[^key-aa8821f25bd67aa50b876ff1c46fa7b8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2011/107/regulation/15) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^key-21bfdf449ba70a91fc5d34e221ced89b]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2011/107/schedule) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1)
+
+[^f00022]: Footnote: Regulations 2 to 7 and 9 of these Regulations were revoked by regulation 2(2) of and Schedule 2 to the Education (Graduate Endowment, Student Fees and Support) (Scotland) Revocation Regulations ([S.S.I. 2007/148](https://www.legislation.gov.uk/ssi/2007/148)).

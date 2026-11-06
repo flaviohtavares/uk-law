@@ -1,0 +1,1288 @@
+---
+title: The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019
+id: ssi/2019/26
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-01-31'
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2019/26
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2019/26/pdfs/ssipn_20190026_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/26/pdfs/ssi_20190026_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/26/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2019 No. 26
+
+Exiting The European Union
+
+Environmental Protection
+
+Waste
+
+Water
+
+Water Industry
+
+The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019
+
+Made
+
+31st January 2019
+
+Laid before the Scottish Parliament
+
+1st February 2019
+
+Coming into force in accordance with regulation 1.
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2, and paragraph 21(b) of schedule 7, of the European Union (Withdrawal) Act 2018 [^c23546461], and all other powers enabling them to do so.
+
+In accordance with paragraph 4 of schedule 2 of that Act they have consulted with the Secretary of State.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement[^key-f81254930456d916a3514b3bd32c3592]
+
+These Regulations may be cited as the Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 and come into force on exit day.
+
+## PART 2 — Amendments to legislation concerning the water environment
+
+### 2. Water Environment and Water Services (Scotland) Act 2003[^key-21b9e7f0ffe2d55434556a4ac27851a6]
+
+(1) The Water Environment and Water Services (Scotland) Act 2003 [^c23546471] is amended as follows.
+
+(2) In section 1(1) (general purpose of Part 1), after “water policy” insert “ , as last amended by Commission Directive 2014/101/EU [^c23546481], ”.
+
+(3) In section 2 (the general duties), in subsections (1) and (2), after “Directive” insert “ , the Groundwater Directive and the Priority Substances Directive ”.
+
+(4) In section 28(1) (interpretation of Part 1)—
+
+- (a) after the definition of “groundwater”, insert the following definition—
+
+  > “**the Groundwater Directive**” means Directive [2006/118/EC](https://www.legislation.gov.uk/eudr/2006/118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration [^c23546491], as amended by Commission Directive 2014/80/EU [^c23546501],
+
+  ,
+- (b) after the definition of “loch”, insert the following definition—
+
+  > “**the Priority Substances Directive**” means Directive [2008/105/EC](https://www.legislation.gov.uk/eudr/2008/105) of the European Parliament and of the Council on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives [82/176/EEC](https://www.legislation.gov.uk/eudr/1982/176), [83/513/EEC](https://www.legislation.gov.uk/eudr/1983/513), [84/156/EEC](https://www.legislation.gov.uk/eudr/1984/156), [84/491/EEC](https://www.legislation.gov.uk/eudr/1984/491), [86/280/EEC](https://www.legislation.gov.uk/eudr/1986/280) and amending Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council [^c23546511], as amended by Directive 2013/39/EU of the European Parliament and of the Council [^c23546521],
+
+  .
+
+(5) After section 28, insert—
+
+> **28A. Interpretation of Directives for the purposes of Part 1**
+>
+> For the purposes of this Part—
+>
+> - (a) the Directive is to be interpreted in accordance with Part 1 of schedule 5,
+> - (b) the Groundwater Directive is to be interpreted in accordance with Part 2 of that schedule, and
+> - (c) the Priority Substances Directive is to be interpreted in accordance with Part 3 of that schedule.
+
+(6) After schedule 4 (modifications of Part III of the 1980 Act), insert—
+
+> **SCHEDULE 5 — INTERPRETATION OF DIRECTIVES FOR THE PURPOSES OF PART 1**
+>
+> Section 28A
+>
+> **PART 1 — The Directive**
+>
+> **Introduction**
+>
+> **1.** (1) When interpreting the Directive for the purposes of Part 1 of this Act—
+>
+> - (a) a reference to one or more member States in a provision imposing an obligation, or conferring a discretion, on a member State or member States is to be read as a reference to the relevant authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or able to exercise that discretion, in respect of Scotland,
+> - (b) a reference to Community legislation is to be read as a reference to retained EU law,
+> - (c) the Directive is to be read subject to the following rules.
+>
+> (2) In sub-paragraph 1(a)—
+>
+> - “**exit day**” has the meaning given by section 20 of the European Union (Withdrawal) Act 2018,
+> - “**relevant authority**” means—
+>   - (a) the Scottish Ministers,
+>   - (b) SEPA,
+>   - (c) any responsible authority.
+>
+> **Modifications to the Articles**
+>
+> **2.** Article 2 is to be read as if—
+>
+> - (a) in paragraph 24, for the words from “in Annex IX” to the end, there were substituted “ by the Priority Substances Directive, and under relevant retained EU law which sets environmental quality standards ”,
+> - (b) in paragraph 37, for the words from “Directive [80/778/EEC](https://www.legislation.gov.uk/eudr/1980/778)” to the end, there were substituted “ Council Directive [98/83/EC](https://www.legislation.gov.uk/eudr/1998/83) on the quality of water intended for human consumption [^c23546531] ”.
+>
+> **3.** Article 3(9) is to be ignored.
+>
+> **4.** Article 4 is to be read as if—
+>
+> - (a) in paragraph 1—
+>   - (i) in sub-paragraph (a)(iv), for “Article 16(1) and (8)” there were substituted “ the Priority Substances Directive ”,
+>   - (ii) in sub-paragraph (b)(iii), for “paragraphs 2, 4 and 5 of Article 17” there were substituted “ the Groundwater Directive ”,
+> - (b) in paragraph 8, the reference to “other Community environmental legislation” were a reference to “retained EU law relating to the environment”,
+> - (c) in paragraph 9, the reference to “the existing Community legislation” were a reference to “other relevant retained EU law”.
+>
+> **5.** Article 7(2) is to be read as if—
+>
+> - (a) for “at Community level under Article 16” there were substituted “ by the Priority Substances Directive ”,
+> - (b) for “Directive [80/778/EEC](https://www.legislation.gov.uk/eudr/1980/778) as amended by Directive [98/83/EC](https://www.legislation.gov.uk/eudr/1998/83)” there were substituted “ the retained EU law which implemented Council Directive [98/83/EC](https://www.legislation.gov.uk/eudr/1998/83) on the quality of water intended for human consumption ”.
+>
+> **6.** Article 10 is to be ignored.
+>
+> **7.** Article 11(3) is to be read as if—
+>
+> - (a) in sub-paragraph (a), for the words from “to implement” to the end, there were substituted “ under retained EU law for the protection of water ”,
+> - (b) in sub-paragraph (j), in the fourth indent, for the words from “Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31)” to the end, there were substituted “ the retained EU law which implemented Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) of the European Parliament and of the Council on the geological storage of carbon dioxide [^c23546541] ”,
+> - (c) in sub-paragraph (k)—
+>   - (i) for “action taken pursuant to Article 16,” there were substituted “ the Priority Substances Directive ”,
+>   - (ii) for “agreed pursuant to Article 16(2)” there were substituted “ in Annex X ”.
+>
+> **8.** Article 12 is to be ignored.
+>
+> **9.** Article 15 is to be ignored.
+>
+> **10.** Article 24 is to be ignored.
+>
+> **11.** Annex II is to be read as if, in section 1.4—
+>
+> - (a) in the second paragraph—
+>   - (i) after “gathered under” there were inserted “ the retained EU law which implemented ”,
+>   - (ii) in sub-paragraph (ii), the reference to information gathered under Articles 9 and 15 of Directive [96/61/EC](https://www.legislation.gov.uk/eudr/1996/61) were a reference to relevant information gathered under the retained EU law which implemented Articles 5(3), 14 and 24 of Directive [2010/75/EC](https://www.legislation.gov.uk/eudr/2010/75) of the European Parliament and of the Council on industrial emissions [^c23546551]”,
+> - (b) in the third paragraph—
+>   - (i) at the start of sub-paragraph (i), there were inserted “retained EU law which implemented”,
+>   - (ii) in sub-paragraph (ii), the reference to information gathered under Articles 7 and 17 of Directive [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414) were a reference to relevant information gathered under Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414)”,
+>   - (iii) in sub-paragraph (iii), for “Directive [98/8/EC](https://www.legislation.gov.uk/eudr/1998/8)” there were substituted “ Regulation (EU) No 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products ”.
+>
+> **12.** Annex IV is to be read as if—
+>
+> - (a) in paragraph 1—
+>   - (i) in sub-paragraph (iii), for “Directive [76/160/EEC](https://www.legislation.gov.uk/eudr/1976/160)” there were substituted “ retained EU law which implemented Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council concerning the management of bathing water quality and repealing Directive [76/160/EEC](https://www.legislation.gov.uk/eudr/1976/160) [^c23546561] ”,
+>   - (ii) in sub-paragraph (iv), after “under”, in both places it occurs, there were inserted “ the retained EU law which implemented ”,
+>   - (iii) in sub-paragraph (v)—
+>     - (A) after “under”, there were inserted “ the retained EU law which implemented ”,
+>     - (B) for “Directive [79/409/EEC](https://www.legislation.gov.uk/eudr/1979/409)” there were substituted “ the retained EU law which implemented Directive [2009/147/EC](https://www.legislation.gov.uk/eudr/2009/147) of the European Parliament and of the Council on the conservation of wild birds [^c23546571] ”,
+> - (b) in paragraph 2, the words “Community, national or local” were omitted.
+>
+> **13.** Annex V is to be read as if—
+>
+> - (a) references in tables 1.2.1 to 1.2.5 to Directive [91/414/EC](https://www.legislation.gov.uk/eudr/1991/414), in each place they occur, were references to Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414),
+> - (b) references in tables 1.2.1 to 1.2.5 to Directive [98/8/EC](https://www.legislation.gov.uk/eudr/1998/8), in each place they occur, were references to Regulation (EU) No 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products,
+> - (c) in section 1.3.1, in the unnumbered paragraph headed “Selection of monitoring points”, the fourth indent (referring to “the Information Exchange Decision [77/795/EEC](https://www.legislation.gov.uk/eudn/1977/795)”) were omitted,
+> - (d) in section 1.3.5, for “Drinking Water Directive” there were substituted “ retained EU law which implemented Council Directive [98/83/EC](https://www.legislation.gov.uk/eudr/1998/83) on the quality of water intended for human consumption [^c23546581] ”,
+> - (e) in section 1.4.3, for “Annex IX, Article 16 and under other relevant Community legislation” there were substituted “ the Priority Substances Directive and under relevant retained EU law ”,
+> - (f) in the table in section 2.3.2, in the column for “good status”, for “other relevant Community legislation in accordance with Article 17” there were substituted “ the Groundwater Directive ”,
+> - (g) in section 2.4.5, for “the Directives concerned” there were substituted “ the Priority Substances Directive and the Groundwater Directive ”.
+>
+> **14.** Annex VI is to be read as if Part A were omitted.
+>
+> **15.** Annex VII is to be read as if, in Part A, in point 7.1, for “to implement Community legislation” there were substituted “ under retained EU law ”.
+>
+> **Definition of retained EU law**
+>
+> **16.** For the purposes of this Part, “**retained EU law**” has the meaning given by section 6(7) of the European Union (Withdrawal) Act 2018 [^c23546591].
+>
+> **PART 2 — The Groundwater Directive**
+>
+> **Introduction**
+>
+> **17.** (1) When interpreting the Groundwater Directive for the purposes of Part 1 of this Act—
+>
+> - (a) a reference to one or more member States in a provision imposing an obligation, or conferring a discretion, on a member State or member States is to be read as a reference to the relevant authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or able to exercise that discretion, in respect of Scotland,
+> - (b) a reference to Community legislation is to be read as a reference to retained EU law,
+> - (d) the Groundwater Directive is to be read subject to the following rules.
+>
+> (2) In sub-paragraph 1(a)—
+>
+> - “**exit day**” has the meaning given by section 20 of the European Union (Withdrawal) Act 2018,
+> - “**relevant authority**” means—
+>   - (a) the Scottish Ministers,
+>   - (b) SEPA,
+>   - (c) any responsible authority.
+>
+> **Modifications to the Articles**
+>
+> **18.** Article 3(5) is to be read as if for “submitted” there were substituted “ produced ”.
+>
+> **19.** Article 5(4) and (5) is[^key-371aed386e73ba30b504f4e20cd74d3b] to be read as if for “submitted” there were substituted “ produced ”.
+>
+> **20.** Article 6(4) is to be read as if the words from “for the” to the end were omitted.
+>
+> **21.** Article 12 is to be ignored.
+>
+> **22.** Annex I is to be read as if—
+>
+> - (a) in footnote 1 to the table in paragraph 1, for “Article 2 of Directive [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414) and in Article 2 of Directive [98/8/EC](https://www.legislation.gov.uk/eudr/1998/8)” there were substituted “ Article 2 of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414) and in Article 3 of Regulation (EU) No 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products ”,
+> - (b) in paragraph 2, for “Directive [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414) or Directive [98/8/EC](https://www.legislation.gov.uk/eudr/1998/8)” there were substituted “ Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414) or Regulation (EU) No 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products ”.
+>
+> **23.** Annex II is to be read as if, in Part C—
+>
+> - (a) in the first paragraph, for “submitted” there were substituted “ produced ”,
+> - (b) in the second paragraph—
+>   - (i) in the opening words, for “provide” there were substituted “ include ”,
+>   - (ii) in point (c)(iii), for “at national, Union or” there were substituted “ in retained EU law or other national legislation, or at ”.
+>
+> **Definition of retained EU law**
+>
+> **24.** For the purposes of this Part, “**retained EU law**” has the meaning given by section 6(7) of the European Union (Withdrawal) Act 2018.
+>
+> **PART 3 — The Priority Substances Directive**
+>
+> **Introduction**
+>
+> **25.** (1) When interpreting the Priority Substances Directive for the purposes of Part 1 of this Act—
+>
+> - (a) a reference to one or more member States in a provision imposing an obligation, or conferring a discretion, on a member State or member States is to be read as a reference to the relevant authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or able to exercise that discretion, in respect of Scotland,
+> - (b) the Priority Substances Directive is to be read subject to the following rules.
+>
+> (2) In sub-paragraph (1)(a)—
+>
+> - “**exit day**” has the meaning given by section 20 of the European Union (Withdrawal) Act 2018,
+> - “**relevant authority**” means—
+>   - (a) the Scottish Ministers,
+>   - (b) SEPA,
+>   - (c) any responsible authority.
+>
+> **Modifications to Articles**
+>
+> **26.** (1) A reference in Article 3 to a provision of the relevant Directive is to be read as a reference to that provision subject to the modification described by paragraph 25(1)(a) of this schedule.
+>
+> (2) Article 3(5a) is to be ignored.
+>
+> (3) In sub-paragraph (1), “**the relevant Directive**” means Commission Directive [2009/90/EC](https://www.legislation.gov.uk/eudr/2009/90) laying down, pursuant to Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council, technical specifications for chemical analysis and monitoring of water status [^c23546601].
+>
+> **27.** Article 4 is to be read as if—
+>
+> - (a) in paragraph 2(b), the words from “, such as” to the end were omitted,
+> - (b) in paragraph 3(b), the reference to “Community law” were a reference to retained EU law.
+>
+> **28.** Article 5 is to be read as if—
+>
+> - (a) references to Directive [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414) were references to Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414),
+> - (b) paragraph 3 were omitted.
+>
+> **29.** The following are to be ignored—
+>
+> - (a) Article 6(2),
+> - (b) Article 7a(3),
+> - (c) in Article 8a(1), the final sentence of the second sub-paragraph,
+> - (d) Article 8b(4),
+> - (e) Article 8c,
+> - (f) Article 13.
+>
+> **Definition of retained EU law**
+>
+> **30.** For the purposes of this Part, “**retained EU law**” has the meaning given by section 6(7) of the European Union (Withdrawal) Act 2018.
+
+.
+
+### 3. The Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-a569660c2df947394a256b27bde05e47]
+
+(1) The Water Environment (Controlled Activities) (Scotland) Regulations 2011 [^c23546611] are amended as follows.
+
+(2) In regulation 2 (interpretation), after paragraph (2), insert—
+
+> (3) For the purposes of these Regulations—
+>
+> - (a) the Water Framework Directive is to[^key-5ef7efab3fc0716c4802f40d3bea41e4] be interpreted in accordance with Part 1 (the Directive) of schedule 5 (interpretation of Directives for the purposes of Part 1) of the Act,
+> - (b) the Groundwater Directive is to[^key-88b137dcdc082688ceaa33d75b77d09d] be interpreted in[^key-9c944294e3567da4576d9671f8f82f04] accordance with Part 2 (the Groundwater Directive) of schedule 5 of the Act,
+> - (c) the Priority Substances Directive is to be interpreted in accordance with Part 3 (the Priority Substances Directive) of schedule 5 of the Act.
+>
+> (4) For the purposes of paragraph (3), schedule 5 of the Act is to be read as if—
+>
+> - (a) references to “the Directive” are to “the Water Framework Directive”,
+> - (b) references to “Part 1 of this Act” are to “these Regulations”.
+
+(3) In schedule 3 (general binding rules), omit Part 3 (mutual recognition) [^c23546621].
+
+### 4. The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^key-b947c2ebfe972f083436ea811d26b766]
+
+(1) The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013 [^c23546631] are amended as follows.
+
+(2) In regulation 2(interpretation)—
+
+- (a) in paragraph (1)—
+  - (i) after the definition of “environmental objective”, insert—
+
+    > “**the Groundwater Directive**” means Directive [2006/118/EC](https://www.legislation.gov.uk/eudr/2006/118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration [^c23546641], as amended by Commission Directive 2014/80/EU [^c23546651],
+
+    ,
+  - (ii) after the definition of “pollutant”, insert—
+
+    > “**the Priority Substances Directive**” means Directive [2008/105/EC](https://www.legislation.gov.uk/eudr/2008/105) of the European Parliament and of the Council on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives [82/176/EEC](https://www.legislation.gov.uk/eudr/1982/176), [83/513/EEC](https://www.legislation.gov.uk/eudr/1983/513), [84/156/EEC](https://www.legislation.gov.uk/eudr/1984/156), [84/491/EEC](https://www.legislation.gov.uk/eudr/1984/491), [86/280/EEC](https://www.legislation.gov.uk/eudr/1986/280) and amending Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council [^c23546661], as amended by Directive 2013/39/EU of the European Parliament and of the Council [^c23546671],
+
+    ,
+  - (iii) after the definition of “programme of measures”, insert—
+
+    > “**retained EU law**” has the meaning given by section 6(7) of the European Union (Withdrawal) Act 2018,
+
+    ,
+- (b) after paragraph (2), insert—
+
+  > (3) For the purposes of these Regulations—
+  >
+  > - (a) the Water Framework Directive is to be interpreted in accordance with Part 1 (the Directive) of schedule 5 (interpretation of Directives for the purposes of Part 1) of the Act,
+  > - (b) the Groundwater Directive is to be interpreted in accordance with Part 2 (the Groundwater Directive) of schedule 5 of the Act,
+  > - (c) the Priority Substances Directive is to be interpreted in accordance with Part 3 (the Priority Substances Directive) of schedule 5 of the Act.
+  >
+  > (4) For the purposes of paragraph (3), schedule 5 of the Act is to be read as if—
+  >
+  > - (a) references to “the Directive” are to “the Water Framework Directive”,
+  > - (b) references to “Part 1 of this Act” are to “these Regulations”.
+
+(3) In regulation 3(1)(c) (setting of environmental objectives)—
+
+- (a) for “EU instrument” substitute “ retained EU law ”,
+- (b) for “EU legislation” substitute “ retained EU law ”.
+
+(4) In regulation 10(b) (environmental objectives: application of regulations 4 to 9), for “EU environmental legislation” substitute “ retained EU law relating to the environment ”.
+
+(5) In regulation 13(1) (preparation of programme of measures)—
+
+- (a) in sub-paragraph (a), for “to implement EU legislation” substitute “ under retained EU law ”,
+- (b) in sub-paragraph (j)(iv)—
+  - (i) after “in accordance with” insert “ the retained EU law which implemented ”,
+  - (ii) omit the words from “or excluded” to the end.
+
+(6) In regulation 14(1)(f)(ii) (content of river basin management plans), for “to implement EU legislation” substitute “ under retained EU law ”.
+
+(7) In regulation 16 (interpretation of Part 3)—
+
+- (a) in paragraph (1), omit the definition of “Priority Substances Directive”,
+- (b) after paragraph (2), insert—
+
+  > (3) When interpreting Directive [2009/90/EC](https://www.legislation.gov.uk/eudr/2009/90) for the purposes of this Part, a reference to one or more member States in a provision imposing an obligation, or conferring a discretion, on a member State or member States is to be read as a reference to SEPA.
+
+(8) In regulation 17(15) (environmental quality standards for bodies of surface water)—
+
+- (i) after sub-paragraph (a), omit “and”,
+- (ii) omit sub-paragraph (b).
+
+(9) Omit regulation 19A (coordination).
+
+(10) In regulation 20(1) (interpretation of Part 4), omit the definition of “the Groundwater Directive”.
+
+(11) In regulation 24(3) (measures to prevent or limit inputs of pollutants into groundwater), for “EU legislation” substitute “ retained EU law ”.
+
+### 5. Revocation[^key-1a38db331f3ac4482ca0322d570aed43]
+
+The Water Environment and Water Services (Scotland) Act 2003 (Modification of Part 1) Regulations 2015 [^c23546681] are revoked.
+
+## PART 3 — Amendments to legislation concerning the water industry
+
+### 6. The Urban Waste Water Treatment (Scotland) Regulations 1994[^key-7c9a0e47e90f3818bdbca24572af6a8f]
+
+(1) The Urban Waste Water Treatment (Scotland) Regulations 1994 [^c23546691] are amended as follows.
+
+(2) In regulation 5 (requirements as to provision of treatment)—
+
+- (a) in paragraph (1)(a)—
+  - (i) for “such” substitute “ a ”, and
+  - (ii) omit the words from “as” to “Directive”,
+- (b) in paragraph (5), omit the words from “and with” to “Directive”,
+- (c) in paragraph (6), omit the words from “for the purpose” to the end,
+- (d) in paragraph (8)(a), for “the Directive and other Community Directives” substitute “ retained EU law ”.
+
+(3) After regulation 12 (deposit of maps and certificates), insert—
+
+> **12A. Reporting**
+>
+> (1) The Scottish Ministers must prepare and publish a situation report on the disposal of urban waste water and sludge in Scotland.
+>
+> (2) The Scottish Ministers must review and assess compliance with these Regulations in each agglomeration and prepare and publish a report on—
+>
+> - (a) the level of that compliance,
+> - (b) identified reasons for non-compliance where applicable,
+> - (c) proposed measures to achieve compliance with these Regulations.
+>
+> (3) The reports under paragraphs (1) and (2) must be published in such manner as the Scottish Ministers consider appropriate.
+>
+> (4) The first reports under those paragraphs must be published by 31 December 2020.
+>
+> (5) Subsequent reports under those paragraphs must be published at intervals not exceeding two years.
+
+.
+
+(4) In regulation 13 (information required in connection with implementation of the Directive)—
+
+- (a) in the heading, for “in connection with implementation of the Directive” substitute “ for reports ”,
+- (b) for paragraph (1) substitute—
+
+  > (1) Scottish Water and SEPA must give to the Scottish Ministers such information as the Scottish Ministers may direct for the purpose of fulfilling the obligations to publish a report under regulation 12A (reporting).
+
+  ,
+- (c) in paragraph (2), for “notice” substitute “ direction ”.
+
+(5) In Part 1 (criteria for identification of sensitive areas) of schedule 1, in paragraph (c), for “Council Directives” substitute “ retained EU law ”.
+
+(6) In Part 1 (requirements for discharges from treatment plants) of schedule 3, in paragraph 4, for “any other relevant Community Directives” substitute “ retained EU law ”.
+
+(7) In schedule 4, for “other Community Directives” substitute “ retained EU law ”.
+
+## PART 4 — Amendments to legislation concerning waste
+
+### 7. The Special Waste Regulations 1996[^key-c772ca7e61cf1ded4554e99507ef29e2]
+
+(1) The Special Waste Regulations 1996 [^c23546701] are amended as follows.
+
+(2) In regulation 1(4) (interpretation)—
+
+- (a) in the definition of “European Waste Catalogue” for “set out in” to the end substitute “ as defined in regulation 1B, ”,
+- (b) for the definition of “waste”, substitute—
+
+  > “**waste**” has the same meaning as in section 75(2) of the Environmental Protection Act 1990 [^c23546711] as read with section 75A of that Act,
+
+  .
+
+(3) After Regulation 1 insert—
+
+> **1A. Annex III to the Waste Directive**
+>
+> A reference in these Regulations to—
+>
+> - (a) Annex III is a reference to Annex III (properties of waste which render it hazardous) to the Waste Directive, and
+> - (b) hazardous properties is a reference to the properties in Annex III, as read in accordance with regulation 2ZF.
+>
+> **1B. The List of Wastes**
+>
+> (1) In these Regulations, “**the List of Wastes**” means the list of wastes established by Commission Decision [2000/532/EC](https://www.legislation.gov.uk/eudn/2000/532) replacing Decision [94/3/EC](https://www.legislation.gov.uk/eudn/1994/3) establishing a list of wastes pursuant to Article 1(a) of Council Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442) on waste and Council Decision [94/904/EC](https://www.legislation.gov.uk/eudn/1994/904) establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive [91/689/EEC](https://www.legislation.gov.uk/eudn/1991/689) on hazardous waste [^c23546721], as last amended by Commission Decision 2014/955/EU [^c23546731].
+>
+> (2) A reference in these Regulations in relation to any waste—
+>
+> - (a) being “listed as a waste” and “**listed as a hazardous waste**” refers to that waste being listed as a waste, or as a hazardous waste, as the case may be, in the List of Wastes, provided, in the case of a waste listed as a hazardous waste, it shall only be considered to be listed as a hazardous waste where any relevant limit value of concentration is met,
+> - (b) being “**not listed as hazardous**” refers to that waste being not listed as a hazardous waste in the List of Wastes, whether or not it is listed as a waste, and whether or not it is otherwise a hazardous or special waste pursuant to these Regulations,
+>
+> and cognate expressions shall be construed accordingly.
+
+.
+
+(4) For regulation 2 (meaning of special waste) substitute—
+
+> **2. Meaning of special waste**
+>
+> (1) Subject to paragraph (2), “special waste” is waste that, for the time being—
+>
+> - (a) is listed as hazardous in the List of Wastes provided that any relevant limit value of concentration is met,
+> - (b) is determined to be hazardous waste pursuant to regulation 2ZA, or
+> - (c) is a specific batch of waste which is determined to be hazardous waste pursuant to regulation 2ZB.
+>
+> (2) For the purposes of paragraph (1), where a determination pursuant to regulation 2ZC has been made in respect of a specific batch of waste, that waste is not “special waste” even where it is of a type listed as hazardous in the List of Wastes.
+
+.
+
+(5) After regulation 2 (meaning of special waste) insert—
+
+> **2ZA. Determination that a waste is hazardous waste**
+>
+> (1) Subject to the following provisions of this regulation, where it appears to the Scottish Ministers that, having regard to the List of Wastes and the limit values of concentration set out in Annex III, there are reasonable grounds to suspect that a waste of a type listed, or falling within a type listed, in the List of Wastes as non-hazardous displays one or more hazardous properties, they may determine that, in Scotland, such waste is hazardous waste.
+>
+> (2) The Scottish Ministers may revoke a determination made under paragraph (1).
+>
+> (3) Before making a determination under paragraph (1) or revoking a determination under paragraph (2), the Scottish Ministers must consult the requisite bodies, except where they consider it inappropriate to do so in any case on account of the nature of an emergency or grave danger.
+>
+> (4) In making a determination under paragraph (1) or revoking a determination under paragraph (2), the Scottish Ministers must take account of the relevant waste management objectives referred to in paragraphs 6(1)(a) and (b), (2) and (3) of schedule 4 of the Waste Management Licensing (Scotland) Regulations 2011 [^c23546741].
+>
+> (5) The Scottish Ministers must publish, in such manner as they consider appropriate for the purpose of informing persons likely to be affected, a notice of any determination made under paragraph (1) or revocation under paragraph (2), and the notice must include—
+>
+> - (a) the date and time at which the determination or revocation, as the case may be, is to take effect (which may be immediately upon publication), and
+> - (b) a description of the waste sufficient to identify it,
+>
+> and must send a copy of the notice to the requisite bodies.
+>
+> (6) The notice must give reasons for the determination or revocation, as the case may be.
+>
+> (7) Where waste enters Scotland from England, Wales or Northern Ireland, a determination in force under this regulation shall apply to it notwithstanding that a determination to like effect is not in force in respect of England, Wales or Northern Ireland, as the case may be.
+>
+> **2ZB. Specific waste to be treated as hazardous waste**
+>
+> (1) The Scottish Ministers, having regard to the List of Wastes and the limit values of concentration set out in Annex III, may determine, in exceptional cases, that a specific batch of waste in Scotland which—
+>
+> - (a) is not listed as hazardous in the List of Wastes, or
+> - (b) though of a type listed as hazardous waste in the List of Wastes, is treated as non-hazardous pursuant to regulation 2ZC,
+>
+> displays one or more of the hazardous properties, and accordingly that it shall be treated for all purposes as hazardous waste.
+>
+> (2) A specific batch of waste produced in Wales, England or Northern Ireland and not listed as hazardous in the List of Wastes, which is for the time being determined to be hazardous as referred to in paragraph (3) shall, subject to any determination made under regulation 2ZC, be treated for all purposes as hazardous waste in Scotland.
+>
+> (3) For the purposes of paragraph (2), a specific batch of waste may be determined to be hazardous—
+>
+> - (a) in relation to Wales—
+>   - (i) if listed in regulations made under section 62A(2) of the 1990 Act, or
+>   - (ii) if so determined by the Welsh Assembly under regulation 8 of the Hazardous Waste (Wales) Regulations 2005 [^c23546751],
+> - (b) in relation to England—
+>   - (i) if listed in regulations made under section 62A(1) of the 1990 Act, or
+>   - (ii) if so determined by the Secretary of State under regulation 8 of the Hazardous Waste (England and Wales) Regulations 2005 [^c23546761], or
+> - (c) in relation to Northern Ireland, if so determined by the Department of Agriculture, Environment and Rural Affairs under regulation 8 or 9 of the Hazardous Waste Regulations (Northern Ireland) 2005 [^c23546771].
+>
+> **2ZC. Specific waste to be treated as non-hazardous**
+>
+> (1) The Scottish Ministers may determine, in exceptional cases, on the basis of documentary evidence provided by the holder, and having regard to the List of Wastes and the limit values of concentration set out in Annex III, that a specific batch of waste in Scotland which—
+>
+> - (a) is listed as hazardous in the List of Wastes, or
+> - (b) though of a type not listed as hazardous waste in the List of Wastes, is treated as hazardous pursuant to regulation 2ZB(2),
+>
+> does not display any of the hazardous properties listed in Annex III and accordingly that it shall be treated for all purposes as non-hazardous in Scotland.
+>
+> (2) The Scottish Ministers must not determine that waste shall be treated as non-hazardous under paragraph (1) if it has been diluted or mixed with the aim of lowering the initial concentrations of hazardous substances to a level below the thresholds for defining waste as hazardous.
+>
+> (3) A specific batch of waste produced in Wales, England or Northern Ireland and listed as a hazardous waste in the List of Wastes, and which is for the time being determined to be non-hazardous as referred to in paragraph (4) shall, subject to any determination made under regulation 2ZB, be treated for all purposes as non-hazardous in Scotland.
+>
+> (4) For the purposes of paragraph (3), a specific batch of waste may be determined to be non-hazardous—
+>
+> - (a) in relation to Wales, by the Welsh Ministers under regulation 9 of the Hazardous Waste (Wales) Regulations 2005,
+> - (b) in relation to England, by the Secretary of State under regulation 9 of the Hazardous Waste (England and Wales) Regulations 2005, or
+> - (c) in relation to Northern Ireland by the Department of Agriculture, Environment and Rural Affairs under regulation 10 of the Hazardous Waste Regulations (Northern Ireland) 2005.
+>
+> **2ZD. Provisions common to regulations 2ZB and 2ZC**
+>
+> (1) The Scottish Ministers may revoke a determination made under regulation 2ZB or 2ZC.
+>
+> (2) The Scottish Ministers must, before making a determination under regulation 2ZB or 2ZC or revoking such a determination, except where they consider it inappropriate to do so on account of the nature of any emergency or grave danger, consult—
+>
+> - (a) the requisite bodies,
+> - (b) the holder of the specific batch of waste, and
+> - (c) any other person appearing to them—
+>   - (i) to have an interest in the specific waste, or
+>   - (ii) to be otherwise directly affected by the determination.
+>
+> (3) In making a determination under regulation 2ZB or 2ZC or revoking such a determination, the Scottish Ministers must take account of the relevant waste management objectives referred to in paragraphs 6(1)(a) and (b), (2) and (3) of schedule 4 of the Waste Management Licensing (Scotland) Regulations 2011.
+>
+> (4) The Scottish Ministers must give notice of any determination made under regulation 2ZB or 2ZC or revocation of such a determination to—
+>
+> - (a) the requisite bodies,
+> - (b) the holder of the specific batch of waste concerned, and
+> - (c) any person they have consulted pursuant to paragraph (2)(c).
+>
+> (5) The notice must give reasons for the determination or revocation, as the case may be.
+>
+> **2ZE. Requisite bodies**
+>
+> For the purposes of these regulations, the “requisite bodies” are—
+>
+> - (a) the Scottish Environmental Protection Agency,
+> - (b) the Secretary of State,
+> - (c) the Environment Agency,
+> - (d) the National Assembly for Wales,
+> - (e) the Natural Resources Body for Wales,
+> - (f) the Department of Agriculture, Environment and Rural Affairs, Northern Ireland,
+> - (g) the Health and Safety Executive, and
+> - (h) any organisation appearing to the Scottish Ministers to be representative of persons likely to be affected by the relevant determination or revocation of a determination, as the case may be.
+>
+> **2ZF. Modification of the Waste Directive**
+>
+> (1) For the purposes of these regulations, the Waste Directive is to be read in accordance with this regulation.
+>
+> (2) Annex III (properties of waste which render it hazardous) is to be read as if—
+>
+> - (a) in entry HP 9, in the second sentence, “in the Member States” were omitted, and
+> - (b) in entry HP 15, in the text following the table, for the words “Member States” there were substituted “ the Scottish Ministers ”.
+
+.
+
+(6) In regulation 15(9)(registers), omit the words “having regard to” to the end.
+
+(7)[^key-6df7b2aa8e0bcce261e801eb386d8698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-6df7b2aa8e0bcce261e801eb386d8698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000[^key-e3393cd87c38ff63a473a175f68da424]
+
+(1) The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000 [^c23546781] are amended as follows.
+
+(2) In Regulation (2) (interpretation and notices)—
+
+- (a) in paragraph (1)—
+  - (i) omit the definition of “the Directive”,
+  - (ii) in the definition of “disposal” for “Annex I of Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) as amended” substitute “ Part II of schedule 4 of the Waste Management Licensing (Scotland) Regulations 2011 [^c23546791] ”,
+  - (iii) in the definition of “used PCBs” for “Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98)” substitute “ section 75(2)(a) of the Environmental Protection Act 1990 [^c23546801] as read with section 75A of that Act ”,
+- (b) omit paragraph (2).
+
+(3) In the heading for schedule 1, for “Annex I of Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) on Waste” substitute “ Part II of schedule 4 of the Waste Management Licensing (Scotland) Regulations 2011 ”.
+
+### 9. The Landfill (Scotland) Regulations 2003[^key-1eac99d673f2e83389914bd5ff3fdc15]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. The End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^key-1eac99d673f2e83389914bd5ff3fdc15]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. The Waste Management Licensing (Scotland) Regulations 2011[^key-1eac99d673f2e83389914bd5ff3fdc15]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Amendments to legislation concerning environmental protection
+
+### 12. Environmental Protection Act 1990[^key-f7743966ee9a89e4685e202d3bcee272]
+
+(1) The Environmental Protection Act 1990 [^c23546941] is amended as follows.
+
+(2) After section 33(2C) (prohibition on unauthorised or harmful deposit, treatment or disposal etc. of waste) insert—
+
+> (2D) When interpreting the Batteries Directive for the purposes of this section, Article 2(2) is to be read as though for the words “Member States'” there were substituted “the United Kingdom's”.
+
+.
+
+### 13. The Pollution Prevention and Control (Scotland) Regulations 2012[^key-b936b53c6ac6ee5afaf8d85aa137c4bf]
+
+(1) The Pollution Prevention and Control (Scotland) Regulations 2012 [^c23546951] are amended as follows.
+
+(2) In regulation 2(1) (interpretation: general)—
+
+- (a) for the definition of “battery” substitute—
+
+  > “**battery**” means any source of electrical energy generated by direct conversion of chemical energy and consisting of one or more primary battery cells (non-rechargeable) or one or more secondary battery cells (rechargeable; an accumulator) but does not include—
+  >
+  > - (a) equipment connected with the protection of essential security interests, arms, munitions and war material, with the exclusion of products that are not intended for specifically military purposes, or
+  > - (b) equipment designed to be sent into space,
+
+  ,
+- (b) after the definition of “enforcement notice” insert—
+
+  > “**environmental impact assessment**” means the process described in regulation 4 of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 [^c23546961],
+
+  ,
+- (c) for the definition of “environmental quality standard” substitute—
+
+  > “**environmental quality standard**” means the set of requirements which must be fulfilled at a given time in respect of a particular environment as required under retained EU law,
+
+  .
+
+(3) In regulation 3(1) (interpretation: enactments etc.), omit the definition of “EIA Directive”.
+
+(4) In regulation 3A(1) (interpretation: medium combustion plant)—
+
+- (a) before the definition of “existing medium combustion plant”, insert—
+
+  > “**Chapter III combustion plant**” means a combustion plant, the total thermal input of which is equal to or greater than 50 megawatts, irrespective of the type of fuel used, other than—
+  >
+  > - (a) a plant in which the products of combustion are used for the direct heating, drying, or any other treatment of objects or materials,
+  > - (b) a post-combustion plant designed to purify the waste gases by combustion which is not operated as an independent combustion plant,
+  > - (c) a facility for the regeneration of catalytic cracking catalysts,
+  > - (d) a facility for the conversion of hydrogen sulphide into sulphur,
+  > - (e) a reactor used in the chemical industry,
+  > - (f) a coke battery furnace,
+  > - (g) a cowper,
+  > - (h) any technical apparatus used in the propulsion of a vehicle, ship or aircraft,
+  > - (i) a gas turbine or gas engine used on an offshore platform,
+  > - (j) a plant which uses any solid or liquid waste as a fuel other than—
+  >   - (i) vegetable waste from agriculture and forestry,
+  >   - (ii) vegetable waste from the food processing industry, if the heat generated is recovered,
+  >   - (iii) fibrous vegetable waste from virgin pulp production and from production of paper from pulp, if it is co-incinerated at the place of production and the heat generated is recovered,
+  >   - (iv) cork waste,
+  >   - (v) wood waste, [^key-26a2103525e13dc879e72359643dc345]... with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood preservatives or coating,
+  >
+  > “**Chapter IV plant**” means an incineration plant or co-incineration plant which incinerates or co-incinerates solid or liquid waste other than—
+  >
+  > - (a) a gasification or pyrolysis plant, if the gases resulting from the gasification or pyrolysis are purified to such an extent that they are no longer a waste prior to their incineration and can cause emissions no higher than those resulting from the burning of natural gas,
+  > - (b) a plant treating only the following wastes—
+  >   - (i) vegetable waste from agriculture and forestry,
+  >   - (ii) vegetable waste from the food processing industry, if the heat generated is recovered,
+  >   - (iii) fibrous vegetable waste from virgin pulp production and from production of paper from pulp, if it is co-incinerated at the place of production and the heat generated is recovered,
+  >   - (iv) cork waste,
+  >   - (v) wood waste, [^key-dd9199ae61bb6c7d0a0b27fac98c93cb]... with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood preservatives or coating,
+  >   - (vi) radioactive waste,
+  >   - (vii) animal carcasses regulated by Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774) as it forms part of retained EU law,
+  >   - (viii) waste resulting from the exploration for, and the exploitation of, oil and gas resources from off-shore installations and incinerated on board the installations,
+  > - (c) experimental plants used for research, development and testing in order to improve the incineration process which treat less than 50 tonnes of waste per year,
+  >
+  > “**co-incineration**” has the meaning given in Section 5.1 of Chapter 5 of schedule 1, and related expressions are to be construed accordingly,
+  >
+  > “**co-incineration plant**” has the meaning given in Section 5.1 of Chapter 5 of schedule 1,
+
+  ,
+- (b) after the definition of “existing medium combustion plant” insert—
+
+  > “**incineration plant**” has the meaning given in Section 5.1 of Chapter 5 of schedule 1,
+
+  ,
+- (c) in the definition of “medium combustion plant”—
+  - (i) for sub-paragraph (a) substitute—
+
+    > - (a) a Chapter III combustion plant,
+
+    ,
+  - (ii) after sub-paragraph (a) insert—
+
+    > - (aa) a Chapter IV plant,
+
+    .
+
+(5) In regulation 4 (interpretation: best available techniques, etc.), for the definition of “BAT conclusions” substitute—
+
+> “**BAT conclusions**” means a document annexed to a Decision establishing best available techniques which has been amended by the Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 [^c23546971] or included in regulations made in exercise of the power in regulation 9 of the Environment and Wildlife (Legislative Functions) (EU Exit) Regulations 2019 [^c23546981] laying down the conclusions on best available techniques, their description, information to assess their applicability, the emission levels associated with the best available techniques, associated monitoring, associated consumption levels and, where appropriate, relevant site remediation measures,
+
+.
+
+(6) In regulation 26 (schedule 1 conditions: large combustion plants) [^c23546991], after paragraph (2), insert—
+
+> (3) When interpreting the Industrial Emissions Directive for the purposes of these Regulations—
+>
+> - (a) Article 31(1) is to be read as if the words from “and with prior validation” to the end were omitted,
+> - (b) Articles 31(1) and (2), 37(1) and 38(1) are to be read as if each of the references to “Member States” were a reference to “SEPA”.
+
+.
+
+(7) In regulation 27 (schedule 1 conditions: titanium dioxide)—
+
+- (a) the existing text becomes paragraph (1),
+- (b) after that paragraph, insert—
+
+  > (2) When interpreting the Industrial Emissions Directive for the purposes of this regulation, in Articles 67 and 70(1) and (2), each of the references to “Member States” is to be read as if it were a reference to “SEPA”.
+
+  .
+
+(8) In regulation 29 (schedule 1 conditions: incineration and co-incineration of waste), after paragraph (2), insert—
+
+> (3) For the purposes of these Regulations, the Industrial Emissions Directive is to be read as if in that Directive—
+>
+> - (a) in point (d) of Article 44, for “national and Union law” there were substituted “ retained EU law ”,
+> - (b) in Articles 48(1) and 50(7), for “Member States” there were substituted “ SEPA ”,
+> - (c) in Article 51—
+>   - (i) in paragraph 1, the second sentence were omitted,
+>   - (ii) paragraph 4 were omitted,
+> - (d) in Article 52(4), in point (a) after “documents required by” there were inserted “ retained EU law which implemented ”,
+> - (e) in Article 55(2) for “the report referred to in Article 72 shall include” there were substituted “ the operator must keep and provide to SEPA ”,
+> - (f) in paragraph 1 of Part 4 of Annex VI, in the definition of “V proc”, for “Union or national law” there were substituted “ retained EU law ”,
+> - (g) in Part 8 of Annex VI—
+>   - (i) in paragraph 1.1(d), for “Member States” there were substituted “ SEPA ”,
+>   - (ii) in paragraph 2(b), for “the Member State” there were substituted “ SEPA ”.
+
+.
+
+(9) In regulation 30(2)(b) (schedule 1 conditions: incineration of batteries), for “Union legislation” substitute “ retained EU law ”.
+
+(10) After regulation 32(3) (schedule 1 conditions: volatile organic compounds) [^c23547001], insert—
+
+> (4) For the purposes of these Regulations, Directive [94/63/EC](https://www.legislation.gov.uk/eudr/1994/63) [^c23547011] is to be read as if in that Directive—
+>
+> - (a) in Article 4(1)—
+>   - (i) for “Member States”, at each place it occurs, there were substituted “ the Scottish Ministers ”,
+>   - (ii) the fifth subparagraph were omitted,
+> - (b) in paragraph 1 of Annex I, for “Member States may grant a derogation from this provision where required for the protection of special landscape areas which have been designated by national authority” there were substituted “ SEPA may grant a derogation from this provision where required for the protection of National Parks or areas which are subject to local landscape designations ”,
+> - (c) in paragraph 2 of Annex II—
+>   - (i) for “the United Kingdom” there were substituted “ SEPA ”,
+>   - (ii) for “the Commission” there were substituted “ the Scottish Ministers ”,
+>   - (iii) for “The Member States' competent authorities” there were substituted “ SEPA ”,
+> - (d) in paragraphs 3 and 4 of Annex II for “the Member States' competent authorities” there were substituted “ SEPA ”.
+>
+> (5) For the purposes of these Regulations, Directive [2009/126/EC](https://www.legislation.gov.uk/eudr/2009/126) [^c23547021], as last amended by Commission Directive 2014/99/EU [^c23547031], is to be read as if in Directive [2009/126/EC](https://www.legislation.gov.uk/eudr/2009/126)—
+>
+> - (a) in paragraphs 1, 2 and 3 of Article 3, the words “Member States shall ensure that”, at each place they occur, were omitted,
+> - (b) in Article 4—
+>   - (i) in paragraph 1, for the words from “Member States” to “such systems is” there were substituted “ The petrol vapour capture efficiency of Stage II petrol vapour recovery systems must be ”,
+>   - (ii) in paragraph 2 the words from “With effect from” to “Article 3,” were omitted,
+> - (c) in Article 5—
+>   - (i) in paragraph 1—
+>     - (aa) the words “Member States shall ensure that” were omitted,
+>     - (bb) for “vapour recovery systems is” there were substituted “ vapour recovery systems must be ”,
+>   - (ii) in paragraph 2—
+>     - (aa) the words “Member States shall ensure that” were omitted,
+>     - (bb) for “the petrol vapour capture efficiency is” there were substituted “ the petrol vapour capture efficiency must be ”,
+>   - (iii) in paragraph 3 for “Member States shall ensure that it displays” there were substituted “ it must display ”.
+
+.
+
+(11) In regulation 34(a) (solvents: conditions) for “Chapter V of and Annex VII to the Industrial Emissions Directive” substitute “ Parts 2 and 3 of schedule 2 ”.
+
+(12) In regulation 35(2) (solvents: installations abatement equipment) for “Articles 59 to 62 of and, Annex VII to, the Industrial Emissions Directive” substitute “ Part 2 of schedule 2 ”.
+
+(13) In regulation 36 (standard rules)—
+
+- (a) in paragraph 2(b), for “Articles 14 and 15 of that Directive” substitute “ regulations 23 and 25 ”,
+- (b) in paragraph 4(b)(ii), after “compliance with” insert “ retained EU law implementing ”,
+- (c) omit paragraph (5).
+
+(14) In regulation 44 (permits: review of conditions)—
+
+- (a) in paragraph 1(c), omit “in accordance with Article 18 of the Industrial Emissions Directive”,
+- (b) for paragraph (2) substitute—
+
+  > (2) A review under paragraph (1)(d) or (e) must take into account all the BAT conclusions which have been amended by the Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 or included in regulations made in exercise of the power in regulation 9 of the Environment and Wildlife (Legislative Functions) (EU Exit) Regulations 2019 since the permit was granted, or last reviewed.
+
+  ,
+- (c) in paragraph 5(b), for “the Industrial Emissions Directive” substitute “ these Regulations ”.
+
+(15) In regulation 59 (interest for the purposes of the Industrial Emissions Directive)—
+
+- (a) the existing text becomes paragraph (1),
+- (b) after that paragraph insert—
+
+  > (2) For the purposes of paragraph (1), Article 25(1) of the Industrial Emissions Directive is to be read as if—
+  >
+  > - (i) in the opening words for “Member States” there were substituted “ The Scottish Ministers ”,
+  > - (ii) in point (b), for “a Member State” there were substituted “ Scotland ”.
+
+  .
+
+(16) In regulation 60(3) (Scottish Ministers: directions to SEPA) for “under Article 26(1) of the Industrial Emissions Directive” substitute “ from an EEA state ”.
+
+(17) In regulation 63(3) (Scottish Ministers and SEPA: powers in respect of information) for “the Union Treaties” substitute “ retained EU law ”.
+
+(18) In chapter 5 of schedule 1 (activities and installations and mobile plant), for the opening words substitute—
+
+> This chapter is to be interpreted in accordance with Article 3 of the Waste Framework Directive and the Special Waste Regulations 1996 [^c23547041].
+
+.
+
+(19) In section 5.4 (disposal etc. of non-hazardous waste) of chapter 5 of schedule 1, for “Council Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271) of 21st May 1991 concerning urban waste-water treatment (“Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271)”)” substitute “ the Urban Waste Water Treatment (Scotland) Regulations 1994 [^c23547051] ”.
+
+(20) In section 5.7 (treatment of waste water) of chapter 5 of schedule 1 for “Directive [91/271/EEC](https://www.legislation.gov.uk/eudr/1991/271)” substitute “ the Urban Waste Water Treatment (Scotland) Regulations 1994 ”.
+
+(21) In Part A of section 6.10 (carbon capture and storage) of chapter 6 of schedule 1—
+
+- (a) for “pursuant to” substitute “ to which ”,
+- (b) insert at the end “ would have applied immediately prior to exit day ”.
+
+(22) In schedule 1A (energy efficiency directive)—
+
+- (a) in paragraph 3(c), for “approved under” to the end substitute “ for which a licence has been granted under section 18 of the Energy Act 2008 [^c23547061] ”,
+- (b) in paragraph 12(b), for “required by” substitute “ carried out in compliance with ”,
+- (c) in paragraph 15, for “the Energy Efficiency Directive” substitute “ this schedule ”,
+- (d) in paragraph 18—
+  - (i) the existing text becomes sub-paragraph (1),
+  - (ii) after that sub-paragraph, insert—
+
+    > (2) For the purposes of sub-paragraph (1), Annex II of the Energy Efficiency Directive is to be read as if —
+    >
+    > - (a) in the seventh subparagraph of point (b) (beginning “CHP Eη”), the last sentence were omitted,
+    > - (b) in point (c), for “Member States may” there were substituted “ It is permissible to ”,
+    > - (c) in point (d)—
+    >   - (i) the words “Member States may use” were omitted,
+    >   - (ii) after “one year” there were inserted the words “ may be used ”.
+    >
+    > (3) For the purposes of paragraphs 11 and 18(1), Part 2 of Annex IX of the Energy Efficiency Directive is to be read as if—
+    >
+    > - (a) in the heading, for “Article 14(5) and (7)” there were substituted “ paragraphs 11, 13 and 14 ”,
+    > - (b) in the first paragraph, for “the measures in Article 14(5) and (7)” there were substituted “ paragraphs 11, 13 and 14 of schedule 1A of the Pollution Prevention and Control (Scotland) Regulations 2012 [^c23547071] ”,
+    > - (c) in the eighth paragraph, the words “for the purposes of Article 14(5)” were omitted,
+    > - (d) in the tenth and eleventh paragraphs, for “Member States”, at each place it occurs, there were substituted “ the Scottish Ministers ”.
+
+    .
+
+(23) In schedule 1B (medium combustion plant directive)—
+
+- (a) in paragraph 1(7)(b), after “set out in” insert “ retained EU law implementing ”,
+- (b) in paragraph 10—
+  - (i) for sub-paragraph (b) substitute—
+
+    > - (b) “**micro isolated system**” means any system with consumption of less than 500 gigawatt hours in the year 1996, where there is no interconnection with other systems,
+
+    ,
+  - (ii) for sub-paragraph (c) substitute—
+
+    > - (c) “**small isolated system**” means any system with consumption of less than 3000 gigawatt hours in the year 1996, where less than 5% of annual consumption is obtained through interconnection with other systems,
+
+    .
+
+(24) In schedule 2 (solvent emissions)—
+
+- (a) in paragraph 7 [^c23547081]—
+  - (i) after sub-paragraph (1)(d) insert—
+
+    > - (dd) Article 58,
+
+    ,
+  - (ii) after sub-paragraph (2) insert—
+
+    > (3) For the purposes of this schedule, the Industrial Emissions Directive is to be read as if—
+    >
+    > - (a) in Article 5(1) “or Union [^key-d89ae9c36adb205e276223d615c7e89d]...” were omitted,
+    > - (b) in Article 5(3) for—
+    >   - (i) the words “where Article 4 of Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337) applies” there were substituted “in relation to which an environmental impact assessment is required”,
+    >   - (ii) the words “Articles 5, 6, 7 and 9 of that Directive” there were substituted “an environmental impact assessment”,
+    > - (c) in Article 7—
+    >   - (i) the words from “Without prejudice” to “environmental damage” were omitted,
+    >   - (ii) for “Member States” there were substituted “ SEPA ”,
+    > - (d) in Article 8, for “Member States”, at each place it occurs, there were substituted “ SEPA ”,
+    > - (e) in Article 9(2), for “Member States” there were substituted “ SEPA ”,
+    > - (f) in Article 59—
+    >   - (i) in paragraph 1 for “Member States”, at each place it occurs, there were substituted “ SEPA ”,
+    >   - (ii) in paragraph 1 the last subparagraph were omitted,
+    >   - (iii) paragraph 4 were omitted,
+    > - (g) in Article 60, for “Member States” there were substituted “ SEPA ”,
+    > - (h) in Article 65(3), for the words “restrictions laid down in Article 4(1) and (2) of Directive [2003/4/EC](https://www.legislation.gov.uk/eudr/2003/4)” there were substituted “ exceptions set out in regulation 10 of the Environmental Information (Scotland) Regulations 2004 [^c23547091] ”
+
+    ,
+- (b) in paragraph 8, for the words “subparagraph (a) of Article 59 of the Industrial Emissions Directive” substitute “ paragraph 7(1)(e) ”,
+- (c) in paragraph 9, for “paragraph 1 of Article 59(1) of the Industrial Emissions Directive” substitute “ paragraph 7(1)(e) ”,
+- (d) in paragraph 10 (data reporting)—
+  - (i) in sub-paragraph (1), for “Part 8 of Annex VII to the Industrial Emissions Directive” substitute “ sub-paragraphs 3 to 6 ”,
+  - (ii) in sub-paragraph (2), after “provided in a” insert “ plan equivalent to a ”,
+  - (iii) after sub-paragraph (2), insert—
+
+    > (3) In the case of continuous measurements the emission limit values must be considered to be complied with if—
+    >
+    > - (a) none of the arithmetic averages of all valid readings taken during any 24 hour period of operation of an installation or activity except start-up and shut-down operations and maintenance of equipment exceeds the emission limit values,
+    > - (b) none of the hourly averages exceeds the emission limit values by more than a factor of 1.5.
+    >
+    > (4) In the case of periodic measurements the emission limit values must be considered to be complied with if, in one monitoring exercise—
+    >
+    > - (a) the average of all the measurement values does not exceed the emission limit values,
+    > - (b) none of the hourly averages exceeds the emission limit values by more than a factor of 1.5.
+    >
+    > (5) Compliance with requirements derived from Part 4 of Annex VII to the Industrial Emissions Directive must be verified on the basis of the sum of the mass concentrations of the individual volatile organic compounds concerned. For all other cases, compliance must be verified on the basis of the total mass of organic carbon emitted unless otherwise based on a limit derived from Part 2 of Annex VII to the Industrial Emissions Directive.
+    >
+    > (6) Gas volumes may be added to the waste gas for cooling or dilution purposes where technically justified but must not be considered when determining the mass concentration of the pollutant in the waste gas.
+
+    ,
+- (e) in paragraph 11 (monitoring of emissions)—
+  - (i) the existing paragraph becomes sub-paragraph (1),
+  - (ii) in sub-paragraph (1) for “Part 6 of Annex VII to the Industrial Emissions Directive” substitute “ sub-paragraphs (2) to (4) ”,
+  - (iii) after sub-paragraph (1) insert—
+
+    > (2) Channels to which abatement equipment is connected, and which at the final point of discharge emit more than an average of 10 kilogrammes per hour of total organic carbon, must be monitored continuously for compliance.
+    >
+    > (3) In other cases, SEPA must ensure that either continuous or periodic measurements are carried out. For periodic measurements at least three measurement values must be obtained during each measurement exercise.
+    >
+    > (4) Measurements are not required where end-of-pipe abatement equipment is not needed to comply with these Regulations.
+
+    .
+
+(25) In schedule 4 (grant of permits)—
+
+- (a) in paragraph 1(1)(n), for the words “Articles 5, 6, 7 and 9 of the EIA Directive” substitute “ an environmental impact assessment ”,
+- (b) in paragraph 3(a), after “Industrial Emissions Directive” insert “ , as read with regulation 29(3), ”,
+- (c) in paragraph 3(d), for the words “national and Union legislation” substitute “ national legislation and retained EU law ”,
+- (d) in paragraph 4, for the words “Chapter V and Annex VII of the Industrial Emissions Directive” substitute “ of parts 2 and 3 of schedule 2 ”,
+- (e) in paragraph 9(h)(ii), for the words “consultations between Member States in accordance with Article 26 of the Industrial Emissions Directive” substitute “ consultation with a Member State ”,
+- (f) in paragraph 18—
+  - (i) for sub-paragraph (a)(i) substitute—
+
+    > - (i) an environmental impact assessment,
+
+    ,
+  - (ii) in sub-paragraph (b) for “those Articles of the EIA Directive” substitute “ an environmental impact assessment ”,
+- (g) in paragraph 22(2), for “another” substitute “ a ”,
+- (h) in paragraph 23—
+  - (i) in sub-paragraph (1)(a)(ii), for “BAT reference document” substitute “ BAT conclusions ”,
+  - (ii) in sub-paragraph (2), for “another” substitute “ a ”,
+- (i) in paragraph 26—
+  - (i) in sub-paragraph (1)(a) and (b), for “another”, at each place it occurs, substitute “ a ”,
+  - (ii) in sub-paragraph (2)—
+    - (aa) omit “other”,
+    - (bb) omit the words “for the purposes of Article 26 of the Industrial Emissions Directive”,
+    - (cc) omit the words “having regard for that purpose to Article 26”,
+- (j) in paragraph 27(a)—
+  - (i) in head (i), omit the words “under Article 26 of the Industrial Emissions Directive”,
+  - (ii) in head (ii), omit “other”,
+- (k) in paragraph 28(2)(b), omit “other”.
+
+(26) In schedule 7 (variation of permits)—
+
+- (a) in paragraph 1(d), for the words “Articles 5, 6, 7 and 9 of the EIA Directive” substitute “ an environmental impact assessment ”,
+- (b) in paragraph 4(9)(g)(iii), for the words “between Member States” substitute “ with a Member State ”,
+- (c) in paragraph 4(13), for the words “Articles 5, 6, 7 and 9 of the EIA Directive” substitute “ an environmental impact assessment ”,
+- (d) in paragraph 7(2), for “another” substitute “ a ”,
+- (e) in paragraph 9(2), for “another” substitute “ a ”,
+- (f) in paragraph 10(1)(a)(ii), for the words “BAT reference document” substitute “ BAT conclusions ”,
+- (g) in paragraph 13—
+  - (i) in sub-paragraph (1)(a), for “another” substitute “ a ”,
+  - (ii) in sub-paragraph (2), omit the following words—
+    - (aa) “other”,
+    - (bb) “for the purposes of Article 26 of the Industrial Emissions Directive”,
+    - (cc) “having regard for that purpose to Article 26”,
+- (h) in paragraph 14, omit the following words—
+  - (i) “under Article 26 of the Industrial Emissions Directive”,
+  - (ii) “other”,
+- (i) in paragraph 15(2)(b), omit “other”.
+
+(27) In schedule 10 (savings and transitional provisions)—
+
+- (a) in paragraph 11(3), for the words “give effect to Article 7 of the Industrial Emissions Directive” substitute “ include either the condition specified in sub-paragraph (2) or a condition having equivalent effect ”,
+- (b) in paragraph 12(3), for the words “Article 14(1)(d)(i) of the Industrial Emissions Directive” substitute “ regulation 23(2)(g) (schedule 1 conditions: general provisions) ”,
+- (c) in paragraph 13—
+  - (i) in sub-paragraph (1), for from “at which an” to the end substitute “ which is a Chapter III combustion plant ”,
+  - (ii) in sub-paragraph (5)(a), after “Directive” insert “ as read with regulation 26 (schedule 1 conditions: large combustion plants) ”.
+
+### 14. The Sulphur Content of Liquid Fuels (Scotland) Regulations 2014[^key-67ed894e58f6312aaff353cf4fc56c16]
+
+(1) The Sulphur Content of Liquid Fuels (Scotland) Regulations 2014 [^c23547101] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), after the definition of “the 2007 Regulations” insert—
+
+> “**Chapter III combustion plant**” means a combustion plant, the total thermal input of which is equal to or greater than 50 megawatts, irrespective of the type of fuel used, other than—
+>
+> - (a) a plant in which the products of combustion are used for the direct heating, drying, or any other treatment of objects or materials,
+> - (b) a post-combustion plant designed to purify the waste gases by combustion which is not operated as an independent combustion plant,
+> - (c) a facility for the regeneration of catalytic cracking catalysts,
+> - (d) a facility for the conversion of hydrogen sulphide into sulphur,
+> - (e) a reactor used in the chemical industry,
+> - (f) a coke battery furnace,
+> - (g) a cowper,
+> - (h) any technical apparatus used in the propulsion of a vehicle, ship or aircraft,
+> - (i) a gas turbine or gas engine used on an offshore platform,
+> - (j) a plant which uses any solid or liquid waste as a fuel other than—
+>   - (i) vegetable waste from agriculture and forestry,
+>   - (ii) vegetable waste from the food processing industry, if the heat generated is recovered,
+>   - (iii) fibrous vegetable waste from virgin pulp production and from production of paper from pulp, if it is co-incinerated at the place of production and the heat generated is recovered,
+>   - (iv) cork waste,
+>   - (v) wood waste, [^key-71fdf65ada0e1afb818a91bb650a06d8]... with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood preservatives or coating,
+>
+> “**co-incinerated**” means used as a regular or additional fuel or thermally treated for the purpose of disposal through the incineration by oxidation as well as other thermal treatment processes such as pyrolysis, gasification or plasma process, if the substances resulting from the treatment are subsequently incinerated,
+
+.
+
+(3) In regulation 4 (maximum sulphur content of heavy fuel oil)—
+
+- (a) for paragraph (3)(a)(i), substitute—
+
+  > - (i) is a Chapter III combustion plant,
+
+  ,
+- (b) for paragraph 3(b)(i), substitute—
+
+  > - (i) is a Chapter III combustion plant,
+
+  .
+
+### 15. The Environmental Authorisations (Scotland) Regulations 2018[^key-f4bd076a73df9809dac2ca3cc087ac07]
+
+(1) The Environmental Authorisations (Scotland) Regulations 2018 [^c23547111] are amended as follows.
+
+(2) In regulation 2(1) (interpretation), after the definition of “relevant function” insert—
+
+> “**retained EU law**” has the same meaning as in section 6(7) of the European Union (Withdrawal) Act 2018 [^c23547121],
+
+.
+
+(3) In regulation 37(2)(a) (power to require the provision of information), for “the EU Treaties” substitute “ any retained EU law ”.
+
+## PART 6 — Amendments to legislation concerning bathing waters
+
+### 16. The Bathing Waters (Scotland) Regulations 2008[^key-a392ce5353adc6f865e88ce788b6969d]
+
+(1) The Bathing Waters (Scotland) Regulations 2008 [^c23547131] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) the existing text becomes paragraph (1),
+- (b) after that paragraph insert—
+
+  > (2) For the purposes of these Regulations, a reference to an EU Directive is to be read as if any reference in that Directive to one or more member States or a competent authority in a provision imposing an obligation on, or providing a discretion to, a member State or competent authority were to the relevant authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or exercise of that discretion, in Scotland.
+  >
+  > (3) In paragraph (2), “**relevant authority**” means—
+  >
+  > - (a) the Scottish Ministers,
+  > - (b) SEPA,
+  > - (c) a local authority.
+
+  .
+
+(3) In regulation 4 (general duties), at the end insert—
+
+> (5) When interpreting the bathing water directive for the purposes of this regulation, the bathing water directive is to be read subject to the following rules.
+>
+> (6) The following are to be ignored—
+>
+> - (a) Article 3(8),
+> - (b) in Article 3(9), the final sentence,
+> - (c) in Article 4(2), the words from “If it so decides” to “four bathing seasons”.
+>
+> (7) Article 6(3) is to be read as if the reference to Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to Article 8 of that Directive.
+>
+> (8) The following are to be ignored—
+>
+> - (a) Article 13,
+> - (b) Article 14,
+> - (c) Article 15(2),
+> - (d) Article 18,
+> - (e) in Annex III, paragraph 1(a), the words “and as provided for in Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)”.
+>
+> (9) For the purposes of paragraph 7, Article 8 of Council Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
+>
+> - (a) in paragraph 1, in the final indent, for “Community legislation” there were substituted “ retained EU law ”,
+> - (b) in paragraph 2, the reference in the second sentence to Annex V to Council Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Annex as modified by Part 1 of schedule 5 of the Water Environment and Water Services (Scotland) Act 2003 [^c23547141].
+
+.
+
+ROSEANNA CUNNINGHAM
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made in exercise of the powers in paragraph 1(1) and (3) of schedule 2, and paragraph 21(b) of schedule 7, of the European Union (Withdrawal Act 2018 (c.16) to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(d) and (g) of that Act) arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations make amendments to legislation in the fields of environmental protection, water, water industry, waste and bathing waters. Part 2 amends legislation concerning the water environment, and revokes the Water Environment and Water Services (Scotland) Act 2003 (Modification of Part 1) Regulations 2015. Part 3 amends legislation concerning the water industry. Part 4 amends legislation concerning waste. Part 5 amends legislation concerning environmental protection. Part 6 amends legislation concerning bathing waters.
+
+No Business and Regulatory Impact Assessment has been prepared in relation to these Regulations, as no impact upon business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^c23546461]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-f81254930456d916a3514b3bd32c3592]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^key-21b9e7f0ffe2d55434556a4ac27851a6]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23546471]: Marginal citation: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3).
+
+[^c23546481]: Marginal citation: OJ L 311, 31.10.2014, p.32.
+
+[^c23546491]: Marginal citation: OJ L 372, 27.12.2006, p.19.
+
+[^c23546501]: Marginal citation: OJ L 182, 21.6.2014, p.52.
+
+[^c23546511]: Marginal citation: OJ L 348, 24.12.2008, p.84.
+
+[^c23546521]: Marginal citation: OJ L 226, 24.8.2013, p.1.
+
+[^c23546531]: Marginal citation: OJ L 330, 5.12.1998, p.32, as last amended by Commission Directive (EU) 2015/1787 (OJ L 260, 7.10.2015, p.6.)
+
+[^c23546541]: Marginal citation: OJ L 140 5.6.2009, p.114, as last amended by Decision (EU) 2018/853 of the European Parliament and of the Council (OJ L 150, 14.6.2018, p.155).
+
+[^c23546551]: Marginal citation: OJ L 334, 17.12.2010, p.17, as last corrected by a corrigendum (OJ L 158, 19.6.2012, p.25).
+
+[^c23546561]: Marginal citation: OJ L 64, 4.3.2006, p.37, as last relevantly amended by Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ L 188, 18.7.2009, p.14).
+
+[^c23546571]: Marginal citation: OJ L 20, 26.1.2010, p.7, as last amended by Council Directive 2013/17/EU (OJ L 158, 10.6.2013, p.193).
+
+[^c23546581]: Marginal citation: OJ L 330, 5.12.1998, p.32, as last amended by Commission Directive (EU) 2015/1787 (OJ L 260, 7.10.2015, p.6).
+
+[^c23546591]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-371aed386e73ba30b504f4e20cd74d3b]: Textual amendment: Word in reg. 2(6) substituted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(2)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23546601]: Marginal citation: OJ L 201, 1.8.2009, p.36.
+
+[^key-a569660c2df947394a256b27bde05e47]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23546611]: Marginal citation: [S.S.I. 2011/209](https://www.legislation.gov.uk/ssi/2011/209), relevantly amended by [S.S.I. 2015/211](https://www.legislation.gov.uk/ssi/2015/211) and [S.S.I. 2017/389](https://www.legislation.gov.uk/ssi/2017/389).
+
+[^key-5ef7efab3fc0716c4802f40d3bea41e4]: Textual amendment: Word in reg. 3(2) inserted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(3)(a)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-88b137dcdc082688ceaa33d75b77d09d]: Textual amendment: Word in reg. 3(2) inserted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9c944294e3567da4576d9671f8f82f04]: Textual amendment: Word in reg. 3(2) inserted (31.12.2020) by [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23546621]: Marginal citation: Part 3 of schedule 3 was inserted by [S.S.I. 2017/389](https://www.legislation.gov.uk/ssi/2017/389).
+
+[^key-b947c2ebfe972f083436ea811d26b766]: Commencement: Reg. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23546631]: Marginal citation: [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323), as amended by [S.S.I. 2015/211](https://www.legislation.gov.uk/ssi/2015/211).
+
+[^c23546641]: Marginal citation: OJ L 372, 27.12.2006, p.19.
+
+[^c23546651]: Marginal citation: OJ L 182, 21.6.2014, p.52.
+
+[^c23546661]: Marginal citation: OJ L 348, 24.12.2008, p.84.
+
+[^c23546671]: Marginal citation: OJ L 226, 24.8.2013, p.1.
+
+[^key-1a38db331f3ac4482ca0322d570aed43]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23546681]: Marginal citation: [S.S.I. 2015/270](https://www.legislation.gov.uk/ssi/2015/270).
+
+[^key-7c9a0e47e90f3818bdbca24572af6a8f]: Commencement: Reg. 6 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23546691]: Marginal citation: [S.I. 1994/2842](https://www.legislation.gov.uk/uksi/1994/2842), as amended by [S.I. 1996/973](https://www.legislation.gov.uk/uksi/1996/973), [S.S.I. 2003/273](https://www.legislation.gov.uk/ssi/2003/273), S.S.I 2011/202 and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^key-c772ca7e61cf1ded4554e99507ef29e2]: Commencement: Reg. 7 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23546701]: Marginal citation: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), relevant amending instruments are [S.S.I. 2004/112](https://www.legislation.gov.uk/ssi/2004/112), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^c23546711]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43), relevant amending instrument is S.S.I 2011/226.
+
+[^c23546721]: Marginal citation: OJ L 226, 6.9.2000, p.3.
+
+[^c23546731]: Marginal citation: OJ L 370, 30.12.2014, p.44.
+
+[^c23546741]: Marginal citation: [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228), relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^c23546751]: Marginal citation: [S.I. 2005/1806](https://www.legislation.gov.uk/uksi/2005/1806) (W. 138), relevant amending instruments are [S.I. 2011/971](https://www.legislation.gov.uk/uksi/2011/971) (W. 141) and 2015/1417 (W. 141).
+
+[^c23546761]: Marginal citation: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), amendments have been made by the [Wales Act 2014 (c.29)](https://www.legislation.gov.uk/ukpga/2014/29) and [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), [S.I](https://www.legislation.gov.uk/uksi/2011/988/section/I). 2015/1360.
+
+[^c23546771]: Marginal citation: S.R. [2005 No.300](https://www.legislation.gov.uk/ukcm/2005/300), relevant amending instruments are S.R (NI) 2011 No 127 and S.R (NI) 2015 No 288.
+
+[^key-6df7b2aa8e0bcce261e801eb386d8698]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/ssi/2019/26/regulation/7/7)[(8)](https://www.legislation.gov.uk/ssi/2019/26/regulation/7/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-e3393cd87c38ff63a473a175f68da424]: Commencement: Reg. 8 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23546781]: Marginal citation: [S.S.I. 2000/95](https://www.legislation.gov.uk/ssi/2000/95), relevant amending instrument is [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
+
+[^c23546791]: Marginal citation: [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228), relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^c23546801]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43), relevant amending instrument is S.S.I 2011/226.
+
+[^key-1eac99d673f2e83389914bd5ff3fdc15]: Textual amendment: [Regs. 9-11](https://www.legislation.gov.uk/ssi/2019/26/regulation/9) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-f7743966ee9a89e4685e202d3bcee272]: Commencement: Reg. 12 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23546941]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Section 33 is relevantly amended by [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25), [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), and [2014 asp 3](https://www.legislation.gov.uk/asp/2014/3).
+
+[^key-b936b53c6ac6ee5afaf8d85aa137c4bf]: Commencement: Reg. 13 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23546951]: Marginal citation: [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360), as relevantly amended by [S.S.I. 2014/267](https://www.legislation.gov.uk/ssi/2014/267) and [S.S.I. 2017/446](https://www.legislation.gov.uk/ssi/2017/446).
+
+[^c23546961]: Marginal citation: [S.S.I. 2017/102](https://www.legislation.gov.uk/ssi/2017/102), as relevantly amended by [S.S.I. 2017/168](https://www.legislation.gov.uk/ssi/2017/168).
+
+[^key-26a2103525e13dc879e72359643dc345]: Textual amendment: Words in reg. 13(4)(a) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(4)(a)(i)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dd9199ae61bb6c7d0a0b27fac98c93cb]: Textual amendment: Words in reg. 13(4)(a) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23546971]: Marginal citation: [S.I. 2018/1407](https://www.legislation.gov.uk/uksi/2018/1407).
+
+[^c23546981]: Marginal citation: [S.I. 2019/473](https://www.legislation.gov.uk/uksi/2019/473).
+
+[^c23546991]: Marginal citation: Regulation 26(2) was inserted by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^c23547001]: Marginal citation: Regulation 32(3) was inserted by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^c23547011]: Marginal citation: OJ L 365, 31.12.1994, p.24; as amended by Regulation (EC) No. 1882/2003 (OJ L 284, 31.10.2003, p.1) Regulation (EC) No. 1137/2008 (OJ L 311, 31.11.2008, p.1), Directive 2009/126/EC (285, 31.10.2009, p. 36) and Decision (EU) 2018/853 (OJ L 150, 14.6.2018, p. 155).
+
+[^c23547021]: Marginal citation: OJ L 285, 31.10.2009, p.36.
+
+[^c23547031]: Marginal citation: OJ L 304, 23.10.2014, p.89.
+
+[^c23547041]: Marginal citation: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972); relevant amending instruments are [S.S.I. 2004/112](https://www.legislation.gov.uk/ssi/2004/112), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^c23547051]: Marginal citation: [S.I. 1994/2842](https://www.legislation.gov.uk/uksi/1994/2842), as amended by [S.I. 1996/973](https://www.legislation.gov.uk/uksi/1996/973) , [S.S.I. 2003/273](https://www.legislation.gov.uk/ssi/2003/273) and [S.S.I. 2011/202](https://www.legislation.gov.uk/ssi/2011/202).
+
+[^c23547061]: Marginal citation: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32), as amended by [S.S.I. 2011/224](https://www.legislation.gov.uk/ssi/2011/224), [S.I](https://www.legislation.gov.uk/ssi/2011/224/section/I). 2011/2453 [2016 c.20](https://www.legislation.gov.uk/ukpga/2016/20) and [S.I. 2017/524](https://www.legislation.gov.uk/uksi/2017/524).
+
+[^c23547071]: Marginal citation: [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360), as amended by [S.S.I. 2014/267](https://www.legislation.gov.uk/ssi/2014/267), [S.I](https://www.legislation.gov.uk/ssi/2014/267/section/I). 2014/469, [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100), [S.S.I. 2015/101](https://www.legislation.gov.uk/ssi/2015/101), [S.S.I. 2015/188](https://www.legislation.gov.uk/ssi/2015/188), [S.S.I. 2015/438](https://www.legislation.gov.uk/ssi/2015/438), [S.I](https://www.legislation.gov.uk/ssi/2015/438/section/I). 2015/483 [S.I. 2015/1973](https://www.legislation.gov.uk/uksi/2015/1973), [S.S.I. 2016/39](https://www.legislation.gov.uk/ssi/2016/39) [S.S.I. 2017/446](https://www.legislation.gov.uk/ssi/2017/446) and [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219).
+
+[^c23547081]: Marginal citation: Paragraph 79(2) was inserted by [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^key-d89ae9c36adb205e276223d615c7e89d]: Textual amendment: Word in reg. 13(24)(a)(ii) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(4)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c23547091]: Marginal citation: [S.S.I. 2004/520](https://www.legislation.gov.uk/ssi/2004/520), to which there are amendments not relevant to these Regulations.
+
+[^key-67ed894e58f6312aaff353cf4fc56c16]: Commencement: Reg. 14 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23547101]: Marginal citation: [S.S.I. 2014/258](https://www.legislation.gov.uk/ssi/2014/258).
+
+[^key-71fdf65ada0e1afb818a91bb650a06d8]: Textual amendment: Words in reg. 14(2) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/175)](https://www.legislation.gov.uk/ssi/2019/175), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/175/regulation/1/1/b), [8(5)](https://www.legislation.gov.uk/ssi/2019/175/regulation/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f4bd076a73df9809dac2ca3cc087ac07]: Commencement: Reg. 15 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23547111]: Marginal citation: [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219).
+
+[^c23547121]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^key-a392ce5353adc6f865e88ce788b6969d]: Commencement: Reg. 16 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+
+[^c23547131]: Marginal citation: [S.S.I. 2008/170](https://www.legislation.gov.uk/ssi/2008/170). Regulation 2 is relevantly amended by [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88), [S.S.I. 2012/243](https://www.legislation.gov.uk/ssi/2012/243) and [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446).
+
+[^c23547141]: Marginal citation: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3). Schedule 5 is inserted by regulation 2(6) of these Regulations.

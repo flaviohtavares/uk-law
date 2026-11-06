@@ -1,0 +1,385 @@
+---
+title: The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019
+id: ssi/2019/209
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-06-12'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2019/209
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2019/209/pdfs/ssipn_20190209_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/209/pdfs/ssi_20190209_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/209/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2019 No. 209
+
+Exiting The European Union
+
+Agriculture
+
+Horticulture
+
+The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019
+
+Made
+
+12th June 2019
+
+Laid before the Scottish Parliament
+
+14th June 2019
+
+Coming into force in accordance with regulation 1
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) and paragraph 1A of schedule 2 of the European Communities Act 1972 [^c23777341], paragraph 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act 2018 [^c23777351] and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for the references in these Regulations to Regulation (EU) No 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations [(EEC) No 352/78](https://www.legislation.gov.uk/european/regulation/1978/0352), [(EC) No 165/94](https://www.legislation.gov.uk/european/regulation/1994/0165), [(EC) No 2799/98](https://www.legislation.gov.uk/european/regulation/1998/2799), [(EC) No 814/2000](https://www.legislation.gov.uk/european/regulation/2000/0814), [(EC) No 1290/2005](https://www.legislation.gov.uk/european/regulation/2005/1290) and [(EC) No 485/2008](https://www.legislation.gov.uk/european/regulation/2008/0485) [^c23777361], Commission Delegated Regulation (EU) No 640/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance [^c23777371] and Commission Implementing Regulation (EU) No 809/2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance [^c23777381], to be construed as references to those Regulations as amended from time to time.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and extent[^key-affd390ee25fbe3467fde20b650c63b3]
+
+(1) These Regulations may be cited as the Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 and come into force as follows—
+
+- (a) as regards this Part, Part 2 and Part 4, on 26 September 2019,
+- (b) as regards Part 3, on exit day.
+
+(2) These Regulations extend to Scotland only.
+
+## PART 2 — Amendments in reliance of section 2(2) and paragraph 1A of schedule 2 of the European Communities Act 1972
+
+### 2. The Rural Development (Scotland) Regulations 2015[^key-9662f56db60d7c63ed5bca4b7d5ea04a]
+
+(1) The Rural Development (Scotland) Regulations 2015 [^c23777391] are amended as follows.
+
+(2) In regulation 22 (revocations and saving)—
+
+- (a) in paragraph (1)—
+  - (i) for “the Schedule” substitute “ schedule 1 ”,
+  - (ii) for “paragraph (2)” substitute “ paragraphs (2) and (3) ”,
+- (b) after paragraph (2), insert—
+
+  > (3) For the purposes of the application of paragraph (2) to the Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008 [^c23777401] and the Rural Development Contracts (Land Managers Options) (Scotland) Regulations 2008 [^c23777411], those Regulations are to be read as if the amendments set out in schedule 2 had been made.
+
+  .
+
+(3) In the schedule (revocations), for “Schedule” substitute “ Schedule 1 ”.
+
+(4) After schedule 1 (revocations), insert—
+
+> **SCHEDULE 2 — Amendments for the purpose of the application of regulation 22(2)**
+>
+> Regulation 22(3)
+>
+> **1. The Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008**
+>
+> (1) In regulation 2(1) (interpretation)—
+>
+> - (a) in the definition of “Commission Regulation 1974/2006”—
+>   - (i) omit “, as amended by Commission Regulations [(EC) No. 434/2007](https://www.legislation.gov.uk/european/regulation/2007/0434) and [(EC) 1236/2007](https://www.legislation.gov.uk/european/regulation/2007/1236)”,
+>   - (ii) at the end insert “ , as last amended by Commission Implementing Regulation (EU) No 335/2013 [^c23777421] ”,
+> - (b) in the definition of “Commission Regulation 1122/2009”, at the end insert “ , as last amended by Commission Regulation (EU) No 426/2013 [^c23777431] ”,
+> - (c) in the definition of “Commission Regulation 65/2011”, at the end insert “ , as last amended by Commission Implementing Regulation (EU) No 937/2012 [^c23777441] ”,
+> - (d) in the definition of “Council Regulation 1698/2005”, at the end insert “ , as last amended by Regulation (EU) No 1312/2011 [^c23777451] ”,
+> - (e) in the definition of “Council Regulation 73/2009”, at the end insert “ , as last amended by Commission Delegated Regulation (EU) No 994/2014 [^c23777461] ”,
+> - (f) after the definition of “Crofting Commission”, insert—
+>
+>   > “**Cross-Compliance Regulations**” means the Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014 [^c23777471],
+>
+>   ,
+> - (g) after the definition of “regional priorities”, insert—
+>
+>   > “**Regulation (EU) No 1306/2013**” means Regulation (EU) No 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations [(EEC) No 352/78](https://www.legislation.gov.uk/european/regulation/1978/0352), [(EC) No 165/94](https://www.legislation.gov.uk/european/regulation/1994/0165), [(EC) No 2799/98](https://www.legislation.gov.uk/european/regulation/1998/2799), [(EC) No 814/2000](https://www.legislation.gov.uk/european/regulation/2000/0814), [(EC) No 1290/2005](https://www.legislation.gov.uk/european/regulation/2005/1290) and [(EC) No 485/2008](https://www.legislation.gov.uk/european/regulation/2008/0485), as amended from time to time,
+>
+>   .
+>
+> (2) In regulation 9(5) (undertakings)—
+>
+> - (a) in sub-paragraph (a), at the end insert “ or Article 93 and Annex II of Regulation (EU) No 1306/2013 ”,
+> - (b) in sub-paragraph (b), at the end insert “ or regulation 3(2) and the schedule of the Cross-Compliance Regulations ”.
+>
+> (3) In regulation 12(3)(a) (claims and payment)—
+>
+> - (a) in head (i), after “the IACS Regulations” insert “ or regulation 6 of the Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015 [^c23777481] ”,
+> - (b) for head (ii), substitute—
+>
+>   > - (ii) contain the information specified in—
+>   >   - (aa) Article 12 of Commission Regulation 1122/2009, or
+>   >   - (bb) Article 14 of Commission Implementing Regulation (EU) No 809/2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance, as amended from time to time,
+>   >
+>   >   in relation to single applications, and
+>
+>   ,
+> - (c) for head (iii), substitute—
+>
+>   > - (iii) specify the unique identification number for each reference parcel of land under or compatible with the identification system for agricultural parcels referred to in—
+>   >   - (aa) Article 17 of Council Regulation 73/2009 and Article 6 of Commission Regulation 1122/2009, or
+>   >   - (bb) Article 70 of Regulation (EU) No 1306/2013 and Article 5 of Commission Delegated Regulation (EU) No 640/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance, as that Commission Delegated Regulation is amended from time to time, and
+>
+>   .
+>
+> (4) In regulation 14(4) (powers of authorised persons), after “2004” insert “ or regulation 5(4) of the Cross-Compliance Regulations ”.
+>
+> **2. The Rural Development Contracts (Land Managers Options) (Scotland) Regulations 2008**
+>
+> (1) In regulation 2(1) (interpretation)—
+>
+> - (a) in the definition of “Commission Regulation 1122/2009”, at the end insert “ , as last amended by Commission Regulation (EU) No 426/2013 ”,
+> - (b) in the definition of “Commission Regulation 1974/2006”—
+>   - (i) omit “as amended by Commission Regulations [(EC) No. 434/2007](https://www.legislation.gov.uk/european/regulation/2007/0434) and [(EC) No. 1236/2007](https://www.legislation.gov.uk/european/regulation/2007/1236)”,
+>   - (ii) at the end insert “ , as last amended by Commission Implementing Regulation (EU) No 335/2013 ”,
+> - (c) in the definition of “Commission Regulation 65/2011”, at the end insert “ , as last amended by Commission Implementing Regulation (EU) No 937/2012 ”,
+> - (d) in the definition of “Council Regulation 1698/2005”, at the end insert “ , as last amended by Regulation (EU) No 1312/2011 ”,
+> - (e) in the definition of “Council Regulation 73/2009”, at the end insert “ , as last amended by Commission Delegated Regulation (EU) No 994/2014 ”,
+> - (f) after the definition of “Crofting Commission”, insert—
+>
+>   > “**Cross-Compliance Regulations**” means the Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014,
+>
+>   ,
+> - (g) after the definition of “landlord”, insert—
+>
+>   > “**Regulation (EU) No 1306/2013**” means Regulation (EU) No 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations [(EEC) No 352/78](https://www.legislation.gov.uk/european/regulation/1978/0352), [(EC) No 165/94](https://www.legislation.gov.uk/european/regulation/1994/0165), [(EC) No 2799/98](https://www.legislation.gov.uk/european/regulation/1998/2799), [(EC) No 814/2000](https://www.legislation.gov.uk/european/regulation/2000/0814), [(EC) No 1290/2005](https://www.legislation.gov.uk/european/regulation/2005/1290) and [(EC) No 485/2008](https://www.legislation.gov.uk/european/regulation/2008/0485), as amended from time to time,
+>
+>   .
+>
+> (2) In regulation 5 (maximum amount of aid payable), for “Article 19” to “table:” substitute—
+>
+> > - (a) Article 19 of Council Regulation 73/2009 and Article 12(1)(d) of Commission Regulation 1122/2009, or
+> > - (b) Article 72 of Regulation (EU) No 1306/2013 and Article 14(1)(d) of Commission Implementing Regulation (EU) No 809/2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance, as that Commission Implementing Regulation is amended from time to time,
+> >
+> > as set out in the following table:
+>
+> .
+>
+> (3) In regulation 10(5) (undertakings)—
+>
+> - (a) in sub-paragraph (a), after “Council Regulation 73/2009” insert “ or Article 93 and Annex II of Regulation (EU) No 1306/2013 ”,
+> - (b) in sub-paragraph (b), after “2004” insert “ or regulation 3(2) and the schedule of the Cross-Compliance Regulations ”.
+>
+> (4) In regulation 13(4) (powers of authorised persons), after “2004” insert “ or regulation 5(4) of the Cross-Compliance Regulations ”.
+
+.
+
+## PART 3 — Amendment of secondary legislation relating to withdrawal from the European Union
+
+### 3. The Marketing of Horticultural Produce (Scotland) Regulations 2009[^key-c28f678cfdbda1b1735d94f36e4a98d1]
+
+After regulation 24 (disapplication) of the Marketing of Horticultural Produce (Scotland) Regulations 2009 [^c23777491] insert—
+
+> **25. Transitional provisions: withdrawal from the EU**
+>
+> (1) An authorised officer must not exercise the powers under regulation 8(1) in relation to a failure to comply with Article 7 of Commission Implementing Regulation 543/2011 if the matter constituting the alleged contravention—
+>
+> - (a) relates to a product that was placed on the market before the end of the period of 21 months beginning on IP completion day[^key-dffa8dd1597eba0f43f7703cfbc1ee8b], and
+> - (b) would not have constituted a contravention of that Regulation as it applied immediately before IP completion day.
+>
+> (2) Regulation 15 does not apply in relation to a failure to comply with Article 7 of Commission Implementing Regulation 543/2011 if the matter constituting the alleged contravention—
+>
+> - (a) relates to a product that was placed on the market before the end of the period of 21 months beginning on IP completion day, and
+> - (b) would not have constituted a contravention of that Regulation as it applied immediately before IP completion day.
+
+.
+
+### 4. The Rural Development (Scotland) Regulations 2015[^key-858c2f77246a92f70686117c81a107d0]
+
+(1) The Rural Development (Scotland) Regulations 2015 are amended as follows.
+
+(2) In regulation 16(1)(d) (breaches of conditions of grant/undertakings etc), at the end insert “ or under any enactment, including an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament ”.
+
+(3) In regulation 22(3) [^c23777501]—
+
+- (a) after “paragraph (2) to” insert “ the Leader Grants (Scotland) Regulations 2008 [^c23777511], ”,
+- (b) for “schedule 2” substitute “ schedules 2 and 3 ”.
+
+(4) After schedule 2 (amendments for the purpose of the application of regulation 22(2)), insert—
+
+> **SCHEDULE 3 — Amendments for the purpose of the application of regulation 22(2) – in relation to withdrawal from the European Union**
+>
+> Regulation 22(3)
+>
+> **1. The Leader Grants (Scotland) Regulations 2008**
+>
+> (1) In regulation 2(1) (interpretation), in the definition of “authorised person”—
+>
+> - (a) for “official of the Commission” substitute “ person ”,
+> - (b) at the end insert “ in accordance with regulation 15(5) ”.
+>
+> (2) In regulation 15 (powers of authorised persons)—
+>
+> - (a) in paragraph (1)(c), at the end insert “ as it had effect immediately before IP completion day[^key-cc7a527a44fe7a819c9689d5be2d9a4a] ”,
+> - (b) for paragraph (5) substitute—
+>
+>   > (5) An authorised person entering any land under paragraph (1) may be accompanied by such other persons as the responsible body considers necessary for any of the purposes mentioned in paragraph (1).
+>
+>   ,
+> - (c) in paragraph (6) omit “(b)”.
+>
+> **2. The Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008**
+>
+> (1) In regulation 2 (interpretation)—
+>
+> - (a) in paragraph (1), for “In these Regulations” substitute “ Subject to paragraphs (1A) and (1B), in these Regulations ”,
+> - (b) after paragraph (1) insert—
+>
+>   > (1A) Any reference in the relevant provisions to Council Regulation 1698/2005, Commission Regulation 1974/2006 or Commission Regulation 65/2011 is a reference to those EU instruments to the extent that they continue to apply on or after IP completion day as construed in accordance with the Rural Development (Amendment) (EU Exit) Regulations 2019 [^c23777521].
+>   >
+>   > (1B) For the purposes of paragraph (1A) “**relevant provisions**” means any of the following provisions of these Regulations—
+>   >
+>   > - (a) regulation 10(2)(c),
+>   > - (b) regulation 12(6),
+>   > - (c) regulation 13(12),
+>   > - (d) regulation 15(1)(c),
+>   > - (e) regulation 17(4).
+>
+>   .
+>
+> (2) In regulation 10(2)(c) (restrictions on approval of applications and payment of aid), for “Article 18, 21 or 30” substitute “ Article 18 or 21 ”.
+>
+> (3) In regulation 14 (powers of authorised persons)—
+>
+> - (a) in paragraph (2)(d), at the end insert “ as it had effect immediately before IP completion day ”,
+> - (b) for paragraph (6) substitute—
+>
+>   > (6) An authorised person entering any land under paragraph (1) may be accompanied by such other person as the authorised person considers necessary, and paragraphs (3) and (4) apply to that person when acting under the instructions of an authorised person as they apply to an authorised person.
+>
+>   .
+>
+> (4) In schedule 2 (rural priorities options), in Part 1 (option, activities and eligibility conditions and rates of payment)—
+>
+> - (a) in the entry for option 13 (provision and upgrading of infrastructure related to access to farm and forest land, energy supplies and water management), in sub-paragraph (1)(b) of column 2, for “European Union” substitute “ United Kingdom ”,
+> - (b) in the entry for option 63 (support for diversification out with agriculture), in sub-paragraph (1) of column 2, after “1974/2006” insert “ as it had effect immediately before IP completion day ”.
+>
+> **3. The Rural Development Contracts (Land Managers Options) (Scotland) Regulations 2008**
+>
+> (1) In regulation 2 (interpretation)—
+>
+> - (a) in paragraph (1), for “In these Regulations” substitute “ Subject to paragraphs (1A) and (1B), in these Regulations ”,
+> - (b) after paragraph (1) insert—
+>
+>   > (1A) Any reference in the relevant provisions to Council Regulation 1698/2005, Commission Regulation 1974/2006 or Commission Regulation 65/2011 is a reference to those EU instruments to the extent that they continue to apply on or after IP completion day as construed in accordance with the Rural Development (Amendment) (EU Exit) Regulations 2019.
+>   >
+>   > (1B) For the purposes of paragraph (1A) “**relevant provisions**” means any of the following provisions of these Regulations—
+>   >
+>   > - (a) regulation 7(2)(c),
+>   > - (b) regulation 11(6),
+>   > - (c) regulation 12(12),
+>   > - (d) regulation 14(1)(c),
+>   > - (e) regulation 16(4).
+>
+>   .
+>
+> (2) In regulation 7(2)(c) (restrictions on acceptance of applications and payment of aid), for “Article 18, 21 or 30” substitute “ Article 18 or 21 ”.
+>
+> (3) In regulation 13 (powers of authorised persons)—
+>
+> - (a) in paragraph (2)(d), at the end insert “ as it had effect immediately before IP completion day ”,
+> - (b) for paragraph (6) substitute—
+>
+>   > (6) An authorised person entering any land under paragraph (1) may be accompanied by such other person as the authorised person considers necessary, and paragraphs (3) and (4) apply to that person when acting under the instructions of an authorised person as they apply to an authorised person.
+>
+>   .
+
+.
+
+## PART 4 — Revocations[^key-f364c9cc8651c4d68d91d268a76cedbe]
+
+**No longer in force.**
+
+### 5. The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019[^key-f364c9cc8651c4d68d91d268a76cedbe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. The Marketing of Horticultural Produce and Bananas (EU Exit) (Scotland) (Amendment) Regulations 2019[^key-f364c9cc8651c4d68d91d268a76cedbe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+FERGUS EWING
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations are principally made in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act 2018 (c.16) in order to address failures of retained EU law to operate effectively and other deficiencies (in particular under section 8(2)(d) and (g)) arising from the withdrawal of the United Kingdom from the European Union.
+
+These Regulations make amendments to legislation in the field of the common agricultural policy, including in relation to the marketing of horticultural produce.
+
+Part 2 (regulation 2), made in exercise of powers under the European Communities Act 1972 (c.68), updates references in relation to secondary legislation.
+
+Part 3 (regulations 3 and 4) makes amendments to secondary legislation consequential on the withdrawal of the United Kingdom from the European Union.
+
+Part 4 (regulations 5 and 6) makes revocations. Regulation 5 revokes regulation 7(4) of the Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 in consequence of the amendment to regulation 16(1)(d) of the Rural Development (Scotland) Regulations 2015 made by regulation 4 of this instrument. Regulation 6 revokes regulation 3(13) of the Marketing of Horticultural Produce and Bananas (EU Exit) (Scotland) (Amendment) Regulations 2019 in consequence of the amendment to the Marketing of Horticultural Produce (Scotland) Regulations 2009 made by regulation 3 of this instrument.
+
+No Business and Regulatory Impact Assessment has been prepared in relation to these Regulations, as no, or no significant, impact upon business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^c23777341]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by paragraph 15(3) of schedule 8 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by section 3(3) and Part 1 of the schedule of the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“**the 2008 Act**”). The functions conferred upon the Minister of the Crown under section 2(2), insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of schedule 2 was inserted by section 28 of the 2006 Act and was relevantly amended by Part 1 of the schedule of the 2008 Act. Section 2(2) and paragraph 1A of schedule 2 are prospectively repealed by section 1 of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16) from exit day (see [section 20](https://www.legislation.gov.uk/ukpga/2018/16/section/20) of that Act). The powers in section 2(2) and paragraph 1A of schedule 2 are exercised in relation to Part 2 of these Regulations.
+
+[^c23777351]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
+
+[^c23777361]: Marginal citation: OJ L 347, 20.12.2013, p.549.
+
+[^c23777371]: Marginal citation: OJ L 181, 20.6.2014, p.48.
+
+[^c23777381]: Marginal citation: OJ L 227, 31.7.2014, p.69.
+
+[^key-affd390ee25fbe3467fde20b650c63b3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/209/regulation/1) in force at 26.9.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a)
+
+[^key-9662f56db60d7c63ed5bca4b7d5ea04a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/209/regulation/2) in force at 26.9.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a)
+
+[^c23777391]: Marginal citation: [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
+
+[^c23777401]: Marginal citation: [S.S.I. 2008/100](https://www.legislation.gov.uk/ssi/2008/100), amended by the [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [S.S.I. 2008/233](https://www.legislation.gov.uk/ssi/2008/233), [S.S.I. 2009/1](https://www.legislation.gov.uk/ssi/2009/1), [S.S.I. 2009/233](https://www.legislation.gov.uk/ssi/2009/233), [S.S.I. 2009/335](https://www.legislation.gov.uk/ssi/2009/335), [S.S.I. 2009/411](https://www.legislation.gov.uk/ssi/2009/411), [S.S.I. 2010/87](https://www.legislation.gov.uk/ssi/2010/87), [S.S.I. 2010/222](https://www.legislation.gov.uk/ssi/2010/222), [S.S.I. 2010/322](https://www.legislation.gov.uk/ssi/2010/322), [S.S.I. 2010/460](https://www.legislation.gov.uk/ssi/2010/460), [S.S.I. 2011/106](https://www.legislation.gov.uk/ssi/2011/106), [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228), [S.I](https://www.legislation.gov.uk/ssi/2011/228/section/I). 2011/1043, [S.S.I. 2012/215](https://www.legislation.gov.uk/ssi/2012/215), [S.S.I. 2012/307](https://www.legislation.gov.uk/ssi/2012/307), [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360) and [S.S.I. 2014/373](https://www.legislation.gov.uk/ssi/2014/373). [S.S.I. 2008/100](https://www.legislation.gov.uk/ssi/2008/100) was revoked subject to savings by [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
+
+[^c23777411]: Marginal citation: [S.S.I. 2008/159](https://www.legislation.gov.uk/ssi/2008/159), amended by the [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [S.S.I. 2009/155](https://www.legislation.gov.uk/ssi/2009/155), [S.S.I. 2011/85](https://www.legislation.gov.uk/ssi/2011/85), [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228), [S.I](https://www.legislation.gov.uk/ssi/2011/228/section/I). 2011/1043, [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360), [S.S.I. 2013/309](https://www.legislation.gov.uk/ssi/2013/309) and [S.S.I. 2014/373](https://www.legislation.gov.uk/ssi/2014/373). [S.S.I. 2008/159](https://www.legislation.gov.uk/ssi/2008/159) was revoked subject to savings by [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
+
+[^c23777421]: Marginal citation: OJ L 105, 13.4.2013, p.1. Commission Regulation 1974/2006 was repealed subject to savings by Commission Delegated Regulation (EU) No 807/2014 (OJ L 227, 31.7.2014, p.1).
+
+[^c23777431]: Marginal citation: OJ L 127, 9.5.2013, p.17. Commission Regulation 1122/2009 was repealed subject to savings by Commission Delegated Regulation (EU) No 640/2014 (OJ L 181, 20.6.2014, p.48).
+
+[^c23777441]: Marginal citation: OJ L 280, 13.10.2012, p.1. Commission Regulation 65/2011 was repealed subject to savings by Commission Delegated Regulation (EU) No 640/2014 (OJ L 181, 20.6.2014, p.48).
+
+[^c23777451]: Marginal citation: OJ L 339, 21.12.2011, p.1. Council Regulation 1698/2005 was repealed subject to savings by Regulation (EU) No 1305/2013 (OJ L 347, 20.12.2013, p.487).
+
+[^c23777461]: Marginal citation: OJ L 280, 24.9.2014, p.1. Council Regulation 73/2009 was repealed by Regulation (EU) No 1307/2013 (OJ L 347, 20.12.2013, p.608).
+
+[^c23777471]: Marginal citation: [S.S.I. 2014/325](https://www.legislation.gov.uk/ssi/2014/325), relevant amending instruments are [S.S.I. 2015/58](https://www.legislation.gov.uk/ssi/2015/58), [S.S.I. 2015/215](https://www.legislation.gov.uk/ssi/2015/215), [S.S.I. 2018/122](https://www.legislation.gov.uk/ssi/2018/122) and [S.S.I. 2019/60](https://www.legislation.gov.uk/ssi/2019/60).
+
+[^c23777481]: Marginal citation: [S.S.I. 2015/58](https://www.legislation.gov.uk/ssi/2015/58), relevant amending instruments are [S.S.I. 2015/215](https://www.legislation.gov.uk/ssi/2015/215) and [S.S.I. 2016/178](https://www.legislation.gov.uk/ssi/2016/178)***.***
+
+[^key-c28f678cfdbda1b1735d94f36e4a98d1]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+
+[^c23777491]: Marginal citation: [S.S.I. 2009/225](https://www.legislation.gov.uk/ssi/2009/225), amended by [S.S.I. 2011/324](https://www.legislation.gov.uk/ssi/2011/324), [S.I](https://www.legislation.gov.uk/ssi/2011/324/section/I). 2011/1043, [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235), [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) and [S.S.I. 2019/169](https://www.legislation.gov.uk/ssi/2019/169).
+
+[^key-dffa8dd1597eba0f43f7703cfbc1ee8b]: Textual amendment: Words in reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/5/2)
+
+[^key-858c2f77246a92f70686117c81a107d0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+
+[^c23777501]: Marginal citation: Regulation 22(3) is inserted by regulation 2(2)(b) of this instrument.
+
+[^c23777511]: Marginal citation: [S.S.I. 2008/66](https://www.legislation.gov.uk/ssi/2008/66), amended by [S.S.I. 2011/260](https://www.legislation.gov.uk/ssi/2011/260), [S.I](https://www.legislation.gov.uk/ssi/2011/260/section/I). 2011/1043 and [S.S.I. 2012/182](https://www.legislation.gov.uk/ssi/2012/182). [S.S.I. 2008/66](https://www.legislation.gov.uk/ssi/2008/66) was revoked subject to savings by [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
+
+[^key-cc7a527a44fe7a819c9689d5be2d9a4a]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/4) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/5/3)
+
+[^c23777521]: Marginal citation: [S.I. 2019/764](https://www.legislation.gov.uk/uksi/2019/764).
+
+[^key-f364c9cc8651c4d68d91d268a76cedbe]: Textual amendment: Pt. 4 revoked (31.12.2020 immediately before IP completion day) by [The Seed, Propagating Material and Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/289)](https://www.legislation.gov.uk/ssi/2019/289), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/1/b), [9](https://www.legislation.gov.uk/ssi/2019/289/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

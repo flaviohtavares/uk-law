@@ -1,0 +1,218 @@
+---
+title: The Town and Country Planning (Modification and Discharge of Good Neighbour Agreement) (Scotland) Regulations 2010
+id: ssi/2010/433
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-12-02'
+text_date: '2015-09-14'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/433
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/433/pdfs/ssien_20100433_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/433/pdfs/ssi_20100433_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/433/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Modification and Discharge of Good Neighbour Agreement) (Scotland) Regulations 2010
+
+> Text as at 2015-09-14.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 433
+
+Town And Country Planning
+
+The Town and Country Planning (Modification and Discharge of Good Neighbour Agreement) (Scotland) Regulations 2010
+
+Made
+
+2nd December 2010
+
+Laid before the Scottish Parliament
+
+6th December 2010
+
+Coming into force
+
+1st February 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 75E, 75F, 267, 275 and 275A of the Town and Country Planning (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and application[^key-250edc400272f7daebee85c55ed842db]
+
+(1) These Regulations may be cited as the Town and Country Planning (Modification and Discharge of Good Neighbour Agreement) (Scotland) Regulations 2010 and come into force on 1st February 2011.
+
+(2) These Regulations apply to applications made under section 75E of the Act and to appeals made under section 75F of the Act.
+
+### 2. Interpretation[^key-97f7085227c951e5bea5153e26fa8717]
+
+In these Regulations—
+
+- “the Act” means the Town and Country Planning (Scotland) Act 1997;
+- “application” means an application for modification or discharge of an obligation entered into under a good neighbour agreement;
+- “community body” means the community body (within the meaning of section 75D(2) of the Act) which entered into the good neighbour agreement to which the application relates; and
+- “interested party” means, other than where such a person is the applicant—
+  - (a) the community body;
+  - (b) the owner of the land to which the obligation in respect of which the application is made relates; and
+  - (c) any other person against whom the obligation is enforceable.
+
+## PART 2 — Applications for modification or discharge of an obligation
+
+### 3. Form and content of an application for modification or discharge of an obligation[^key-113be63d19121da73f5ed967752f75af]
+
+(1) An application to a planning authority for modification or discharge of an obligation entered into under a good neighbour agreement is to be made in accordance with this regulation.
+
+(2) An application is to be made in writing and is to—
+
+- (a) contain the postal address of the land to which the obligation relates, or if the land in question has no postal address, a description of the location of the land;
+- (b) be accompanied by a plan sufficient to identify that land;
+- (c) be accompanied by a copy of the good neighbour agreement containing the obligation to which the application relates or otherwise contain sufficient information to identify that obligation;
+- (d) contain the name and address of the applicant and, where an agent is acting on behalf of the applicant, the name and address of that agent;
+- (e) state if the applicant is a community body and, if not, state the relationship of the applicant to the land to which the obligation relates and why the obligation is enforceable against the applicant;
+- (f) state whether the applicant seeks the modification or discharge of the obligation and, if modification of the obligation is sought, set out the changes which the applicant wishes to be made to the obligation;
+- (g) set out the grounds on which the applicant seeks modification or discharge of the obligation;
+- (h) be accompanied by, a statement setting out (to the extent known to the applicant)—
+  - (i) the names of the other parties to the good neighbour agreement and of other interested parties; and
+  - (ii) the address at which such parties may be contacted; and
+- (i) be accompanied by evidence that the applicant has attempted to reach agreement regarding the modification or discharge of the obligation but has been unable to do so.
+
+### 4. Validation date[^key-cf8829c4292d465503e0940040327a93]
+
+An application under regulation 3 is to be taken to have been made on the date on which the last of the items or information required in accordance with that regulation is received by the planning authority.
+
+### 5. Notification of application[^key-f04b0aececd4b2811f6387d8ddc6b230]
+
+(1) Subject to paragraph (3), a planning authority must notify every interested party in accordance with this regulation that an application has been made.
+
+(2) The notice to be given in accordance with paragraph (1) must—
+
+- (a) state the name of the applicant;
+- (b) describe the obligation and the good neighbour agreement within which it is contained and state that an application for modification or discharge of the obligation has been made;
+- (c) be accompanied by a copy of the application; and
+- (d) state that representations may be made to the planning authority and include information as to how any representations may be made and by which date they must be made (being a date not earlier than 21 days after service of the notice).
+
+(3) The planning authority are not required to make any investigation as to the identity or whereabouts of an interested party and it shall be sufficient for the purposes of this regulation that notice is given to those persons detailed in the statement referred to in regulation 3(2)(h) at the address given in that statement.
+
+### 6. Further information[^key-63a43a148405bc0aac876398ddb5a051]
+
+A planning authority may, in addition to the particulars, documents, materials or information which are to be included in or accompany an application in accordance with regulation 3, require from the applicant further particulars, documents, materials or information which they consider that they require to enable them to deal with the application.
+
+### 7. Determination of application[^key-599015963e47cc7766481a9f5e6e7597]
+
+(1) The[^key-19ff5356f19e999201ae12fcbfebd22c] planning authority are to give notice of their determination to an applicant under section 75E(6) of the Act within the period of two months after the date on which the application is taken to have been made in accordance with regulation 4.
+
+(2) The planning authority must when giving notice of their determination to the applicant send a copy of that notice to every interested party.
+
+(3)[^key-1bee0bf3a5840ae24e4a7f82babefcd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Notice of determination[^key-d309e82d8c70d373fdf5cb8541d6fd22]
+
+A notice of determination must include—
+
+- (a) a statement of the terms of the planning authority’s decision and the reasons on which the authority based that decision;
+- (b) the reference number of the application;
+- (c) where the good neighbour agreement was entered into in connection with the grant of planning permission, the reference number given to the application for such permission by the planning authority; and
+- (d) information regarding the right to appeal under section 75F in the terms set out in the Schedule to these Regulations.
+
+## PART 3 — Appeals
+
+### 9. Application of Town and Country Planning (Appeals) (Scotland) Regulations 2008[^key-b7fc8b7b0903149b7da623e2f7653bc8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — General
+
+### 10. Electronic communications[^key-0a5aaeb5ef2c4f677ff920933356c042]
+
+(1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communications and any requirement in these Regulations that any document is to be in writing is fulfilled.
+
+(2) The criteria are—
+
+- (a) the recipient consents, or is deemed to have agreed under paragraph (3), to receive it electronically; and
+- (b) the document transmitted by the electronic communication is—
+  - (i) capable of being accessed by the recipient;
+  - (ii) legible in all material respects; and
+  - (iii) sufficiently permanent to be used for subsequent reference.
+
+(3) Any person sending a document using electronic communications is to be taken to have agreed—
+
+- (a) to the use of such communications for all purposes relating to the application or appeal, as the case may be, which are capable of being carried out electronically; and
+- (b) that the address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, that communication.
+
+(4) Deemed agreement under paragraph (3) shall subsist until that person gives notice to revoke the agreement.
+
+(5) Notice of withdrawal of consent to the use of electronic communications or of revocation of agreement under paragraph (4) takes effect on a date specified by the person in the notice, but not less than seven days after the date on which the notice is given.
+
+(6) In this regulation—
+
+- “document” includes any notice, consent, agreement, decision, representation, statement or other information or communication;
+- “legible in all material respects” means that the information contained in the document is available to the recipient to no lesser extent than it would be if sent by means of a document in printed form; and
+- “sent” includes given and, in relation to representations or an application, includes made cognate expressions are to be construed accordingly.
+
+STEWART STEVENSON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+2nd December 2010
+
+## SCHEDULE — INFORMATION REGARDING APPEAL UNDER SECTION 75F[^key-aacaf0fa3b2d45db5d6367d4358b6783]
+
+Regulation 8(d)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2010/433/images/ssi_20100433_en_001)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision in connection with applications for the modification and discharge of obligations entered into good neighbour agreements under section 75D of the Town and Country Planning (Scotland) Act 1997 (“the Act”) and related appeals.
+
+Regulation 3 specifies how an application under section 75E for the modification or discharge of an obligation is to be made. Regulation 4 sets out when it will be taken to have been made. This date is the beginning of the two month period prescribed in regulation 7 within which a planning authority is to determine an application. Regulation 5 provides for the notification of an application to the community body and to the owner of the land to which the planning obligation relates and other parties against whom the obligation is enforceable. Regulation 6 provides that the planning authority may seek further information to enable them to deal with the application. Regulation 8 sets out the content of the notice of determination to be given to the applicant and regulation 7(2) requires a copy of the notice to be sent to interested parties.
+
+Section 75F(1) of the Act enables an applicant to appeal to the Scottish Ministers in certain circumstances. Regulation 9 applies the procedures contained in the Town and Country Planning (Appeals) (Scotland) Regulations 2008 (“the 2008 Regulations”) to appeals made under section 75F as they apply to appeals under section 47 of the Act with certain modifications. In addition to applying such procedures, the modifications made to regulation 3 of the 2008 Regulations have the effect that the prescribed period within which an appeal under section 75F may be made is three months from (and including) the date of the planning authority’s notice of decision in respect of the application or, where the planning authority fail to issue a decision, the period allowed for determination of the application under regulation 7(1).
+
+Regulation 10 allows for the use of electronic communications.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). The functions of the Secretary of State under that Act transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). Sections 75E and 75F were inserted by section 24 of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17). Section 275 (2A) was inserted by section 54(16)(f) of that Act. Section 267 was amended by section 19(5) of that Act. Section 275A was inserted by section 52(1) of that Act.
+
+[^key-250edc400272f7daebee85c55ed842db]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/433/regulation/1) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/1/1)
+
+[^key-97f7085227c951e5bea5153e26fa8717]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/433/regulation/2) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/1/1)
+
+[^key-113be63d19121da73f5ed967752f75af]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/433/regulation/3) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/1/1)
+
+[^key-cf8829c4292d465503e0940040327a93]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/433/regulation/4) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/1/1)
+
+[^key-f04b0aececd4b2811f6387d8ddc6b230]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/433/regulation/5) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/1/1)
+
+[^key-63a43a148405bc0aac876398ddb5a051]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/433/regulation/6) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/1/1)
+
+[^key-599015963e47cc7766481a9f5e6e7597]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/433/regulation/7) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/1/1)
+
+[^key-19ff5356f19e999201ae12fcbfebd22c]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/7/1) substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/4/2/a)
+
+[^key-1bee0bf3a5840ae24e4a7f82babefcd1]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/ssi/2010/433/regulation/7/3) omitted (14.9.2015) by virtue of [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2015/249/regulation/4/2/b)
+
+[^key-d309e82d8c70d373fdf5cb8541d6fd22]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2010/433/regulation/8) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/1/1)
+
+[^key-b7fc8b7b0903149b7da623e2f7653bc8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/433/regulation/9) revoked (30.6.2013) by [The Town and Country Planning (Appeals) (Scotland) Regulations 2013 (S.S.I. 2013/156)](https://www.legislation.gov.uk/ssi/2013/156), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) (with [reg. 1(2)-(10)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/2))
+
+[^key-0a5aaeb5ef2c4f677ff920933356c042]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2010/433/regulation/10) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/1/1)
+
+[^key-aacaf0fa3b2d45db5d6367d4358b6783]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2010/433/schedule) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/433/regulation/1/1)

@@ -1,0 +1,819 @@
+---
+title: The Letting Agent Code of Practice (Scotland) Regulations 2016, SCHEDULE
+act: The Letting Agent Code of Practice (Scotland) Regulations 2016
+section: schedule
+status: revised
+text_date: '2018-01-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/133/schedule
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Letting Agent Code of Practice (Scotland) Regulations 2016, SCHEDULE
+
+> Text as at 2018-01-31.
+>
+> Extent: Scotland.
+
+## SCHEDULE — Letting Agent Code of Practice
+
+*Extent: S*
+
+Regulation 2
+
+<table>
+<thead>
+<tr><th colspan="2">CONTENTS</th></tr>
+</thead>
+<tbody>
+<tr><th>1.</th><th>Introduction</th></tr>
+<tr><td></td><td>Background</td></tr>
+<tr><td></td><td>Who does the Code apply to?</td></tr>
+<tr><td></td><td>What if a letting agent does not comply with the Code?</td></tr>
+<tr><td></td><td>How do the requirements of professional bodies and other legislation relate to the Code?</td></tr>
+<tr><td></td><td>Using the Code</td></tr>
+<tr><th>2.</th><th>Overarching standards of practice</th></tr>
+<tr><th>3.</th><th>Engaging landlords</th></tr>
+<tr><td></td><td>Before taking instructions</td></tr>
+<tr><td></td><td>Terms of business</td></tr>
+<tr><td></td><td>Ending the agreement</td></tr>
+<tr><th>4.</th><th>Lettings</th></tr>
+<tr><td></td><td>Marketing and advertising</td></tr>
+<tr><td></td><td>Giving correct information to prospective tenants</td></tr>
+<tr><td></td><td>Charging fees</td></tr>
+<tr><td></td><td>Viewings</td></tr>
+<tr><td></td><td>Applications</td></tr>
+<tr><td></td><td>References and checks</td></tr>
+<tr><td></td><td>Tenancy agreement</td></tr>
+<tr><td></td><td>Tenancy deposits</td></tr>
+<tr><td></td><td>Moving in (inventory/check-in)</td></tr>
+<tr><th>5.</th><th>Management and maintenance</th></tr>
+<tr><td></td><td>Rent collection</td></tr>
+<tr><td></td><td>Property access and visits</td></tr>
+<tr><td></td><td>Carrying out repairs and maintenance</td></tr>
+<tr><td></td><td>Contractors and third parties</td></tr>
+<tr><th>6.</th><th>Ending the tenancy</th></tr>
+<tr><td></td><td>Bringing the tenancy to an end</td></tr>
+<tr><td></td><td>Inventory/check-out</td></tr>
+<tr><td></td><td>Tenancy deposits</td></tr>
+<tr><th>7.</th><td><strong>Communications and resolving complaints</strong><br>Communications<br>Complaints resolution</td></tr>
+<tr><th>8.</th><th>Handling landlords’ and tenants’ money, and insurance arrangements</th></tr>
+<tr><td></td><td>Client accounts</td></tr>
+<tr><td></td><td>Debt recovery</td></tr>
+<tr><td></td><td>Professional indemnity arrangements</td></tr>
+<tr><td></td><td>Provision of insurance products<br>Criminal activity</td></tr>
+</tbody>
+</table>
+
+### SECTION 1 — Introduction
+
+#### 1. Background[^key-1cd598c0b362d63c758fdb67703092e8]
+
+This Letting Agent Code of Practice (the “Code”) sets out the standards expected of letting agents operating in Scotland in how they manage their business and provide their services.
+
+**2.**[^key-98c82be1495140f796d2f07446395049] Section 46 of the Housing (Scotland) Act 2014 (“the 2014 Act”) allows Scottish Ministers to set out a code of practice that all letting agents must comply with that covers:
+
+- the standards of practice for those carrying out letting agency work;
+- the handling of tenants’ and landlords’ money; and
+- the professional indemnity arrangements to be kept in place.
+
+**3.**[^key-43e6ff3be83f287141900bb1c8caf9d8] The Code forms part of a broader regulatory framework for letting agents, which the 2014 Act also introduced. The framework’s main features are:
+
+- a mandatory register for letting agents with an associated ‘fit and proper’ person test;
+- powers for Scottish Ministers to set training requirements that must be met before an applicant can be accepted on to the register;
+- a means of redress for breaches of the Code to the First-tier Tribunal for landlords and tenants; and
+- powers for Scottish Ministers to obtain information, and powers of inspection to help them monitor compliance.
+
+**4.**[^key-51a9eae4a84b6d12818d0bf83acc5c93] These measures strengthen regulation of the letting-agent industry in Scotland. Letting agents are important in ensuring the private rented sector is professional and well managed, and they help to provide the good-quality homes our communities need. The Code reflects much of the existing good practice in the industry. It will help raise standards (where this is needed), and help build a more effective private rented sector that meets the needs of tenants, landlords and letting agents.
+
+#### 5. Who does the Code apply to?[^key-b95749c21e5c8359b2d38b74d2ddfc94]
+
+The Code applies to every person who carries out letting agency work in Scotland, which is defined in section 61(1) of the 2014 Act as:
+
+> things done by a person in the course of that person’s business in response to relevant instructions which are—
+>
+> - (a) carried out with a view to a landlord who is a relevant person entering into, or seeking to enter into a lease or occupancy agreement by virtue of which an unconnected person may use the landlord’s house as a dwelling, or
+> - (b) for the purposes of managing a house (including in particular collecting rent, inspecting the house and making arrangements for the repair, maintenance, improvement or insurance of the house) which is, or is to be, subject to a lease or arrangement mentioned in paragraph (a).
+
+**6.**[^key-3a5ed9d20f710a6172866b4be52daeaa] The Code will also help landlords and tenants understand the standards of practice they can expect from a letting agent; whether these standards have been met; and, where necessary, help to resolve problems through the First-tier tribunal if they believe a letting agent has failed to comply with the Code.
+
+#### 7. What if a letting agent does not comply with the Code?[^key-62cce1e51bf16aa1fbb4a4461ff3a102]
+
+If a landlord or tenant (including former landlord or tenant) believes that a letting agent they have let a property through or from has failed to comply with the Code, they must notify the letting agent of this in writing (this includes electronic communications), so the letting agent can take action to resolve the issue. Some letting agents may also offer access to an independent alternative dispute resolution (ADR) service if they cannot resolve a complaint internally. If the landlord or tenant remains dissatisfied after raising their complaint with the agent, they can apply to the First-tier Tribunal (the “Tribunal”). In addition, Scottish Ministers may also apply to the Tribunal where they have concerns that a letting agent has failed to comply with the Code.
+
+**8.**[^key-e72fa42f4622bb82877b4628abbc6844] The 2014 Act enables the Tribunal to decide whether a letting agent has failed to comply with the Code. To help with this, the Tribunal will consider a variety of evidence from, for example, the letting agent, landlord, tenant, Scottish Ministers and other relevant organisations (such as trading standards). Depending on the nature of the complaint, the Tribunal may look at whether the agent’s own terms of business, policies and procedures comply with the Code and whether they have kept to them. A letting agent should therefore keep and maintain appropriate records to help demonstrate how they have complied with the Code.
+
+**9.**[^key-edf0ade67762fa4b20dd04d696ca99da] If the Tribunal decides a letting agent has failed to comply with the Code, it must issue an enforcement order setting out the steps the letting agent must take to rectify the problem and by when. These steps may include issuing revised documents and making changes to previously agreed terms of business. An enforcement order may also require a letting agent to pay compensation.
+
+**10.**[^key-e0fcc5e3d9d3f85879bb7909a6add675] If the Tribunal decides that a letting agent has failed to comply with the enforcement order, it must notify Scottish Ministers. Failure to comply with an enforcement order will be taken into account in considering whether a letting agent should be removed from the register. It is a criminal offence for a person who is not a registered letting agent to carry out letting agency work.
+
+#### 11. How do the requirements of professional bodies and other legislation relate to the Code?[^key-46f1e10c9ab09418e6f8eee30aa79814]
+
+There is a range of legislation that letting agents must comply with in how they do business. This includes Scottish, UK and European legislation and covers areas such as housing, consumer protection, financial services, consumer credit licences, contracts, title conditions, health and safety, data protection, immigration and equalities amongst others.
+
+**12.**[^key-9492613ed726e148a5b6126e8c7728cc] All letting agents must comply with the Code but some may also have specific commitments to meet the regulatory requirements of other bodies, such as the Financial Conduct Authority and Law Society of Scotland. In addition, letting agents may also have to comply with other codes if they belong to or are registered with other voluntary or industry bodies.
+
+#### 13. Using the Code[^key-557a1a718263fdea7abf1bbece1748c6]
+
+The Code has been structured to follow the lettings process – from taking instructions from a landlord, letting and managing the property to the ending of a tenancy (including any arrangements that follow).
+
+**14.**[^key-43707900ee6e2621c3e55e14ad9c9c2d] Most letting agents offer a wide range of services to their customers. Where a letting agent provides a service set out in this Code they must ensure it is delivered in a way that meets these requirements and those of any other relevant legislation. This Code does not comprise legal advice to any party.
+
+**15.**[^key-7b6b7ba406c02cb7aa0028068d83c0b2] In the Code “you” means a letting agent.
+
+### SECTION 2 — Section 2: Overarching standards of practice
+
+**16.**[^key-de921ada1a8973c1463909e491082229] You must conduct your business in a way that complies with all relevant legislation.
+
+**17.**[^key-f27794963cefec83203b6ca28d7d908e] You must be honest, open, transparent and fair in your dealings with landlords and tenants (including prospective and former landlords and tenants).
+
+**18.**[^key-8ac04ad60e9707b413e68c2dcbae781e] You must provide information in a clear and easily accessible way.
+
+**19.**[^key-452cf8d7fe73d560aa79061f645c578a] You must not provide information that is deliberately or negligently misleading or false.
+
+**20.**[^key-c8cb3025cbbb46ac094cd7b3dc0d9b9b] You must apply your policies and procedures consistently and reasonably.
+
+**21.**[^key-67f5b85898f34eed1a15b6508e0cc421] You must carry out the services you provide to landlords or tenants using reasonable care and skill and in a timely way.
+
+**22.**[^key-26ff4cec3aef38dfc99341d8a8f9e744] You must not unlawfully discriminate against a landlord, tenant or prospective tenant on the basis of their age, disability, sex, gender reassignment, marriage or civil partnership, pregnancy or maternity, race, religion or belief or sexual orientation.
+
+**23.**[^key-a514e0fe8a744633052217a0baebc769] You must ensure all staff and any sub-contracting agents are aware of, and comply with, the Code and your legal requirements on the letting of residential property.
+
+**24.**[^key-52599ec83d5b871f2cec2ca62bc90d57] You must maintain appropriate records of your dealings with landlords, tenants and prospective tenants. This is particularly important if you need to demonstrate how you have met the Code’s requirements.
+
+**25.**[^key-2f9e9f9e199e64bc9eeda7fd3218715f] You must ensure you handle all private information sensitively and in line with legal requirements.
+
+**26.**[^key-f61fd094c566d02d50cff58c5b5b3425] You must respond to enquiries and complaints within reasonable timescales and in line with your written agreement.
+
+**27.**[^key-ec537eff2e926793e1ad810d2fe25194] You must inform the appropriate person, the landlord or tenant (or both) promptly of any important issues or obligations on the use of the property that you become aware of, such as a repair or breach of the tenancy agreement.
+
+**28.**[^key-02b334aa6ccf53b55941c7e65548e8db] You must not communicate with landlords or tenants in any way that is abusive, intimidating or threatening.
+
+Some of these points are expanded in the later sections of the Code.
+
+### SECTION 3 — Engaging landlords
+
+#### 29. Before taking instructions[^key-f13c0a6c67cf9d231d40cc02bf0340d2]
+
+In your dealings with potential landlord clients you must:
+
+*Services provided and fee charges*
+
+- (a) provide clear and up-to-date written information about the services you provide and the charges (inclusive of taxes) for them;
+
+*Advice*
+
+- (b) offer accurate and unbiased advice on the rental valuation and appraisal of the property. You must not knowingly misrepresent the potential rental valuation;
+- (c) inform the landlord that they need to get consent or delegated authority from all owners, mortgage lenders or other relevant parties before letting the property and the need to ensure relevant insurance cover is in place;
+- (d) if you become aware in the course of your business that a property does not meet appropriate letting standards (e.g. repairing standard, houses in multiple occupation and health and safety requirements), inform the landlord of this;
+- (e) if a landlord is not already registered, inform them of the landlord registration requirements under the Antisocial Behaviour etc. (Scotland) Act 2004[^f00002] and, where necessary, the requirements under the Housing (Scotland) Act 2006[^f00003] relating to houses in multiple occupation;
+
+*Conflict of interest*
+
+- (f) if you intend to act for clients who have competing interests or your personal interests conflict, or could potentially conflict, inform the clients as soon as you become aware of it;
+
+*Identity checks*
+
+- (g) take reasonable steps to check the identity of each landlord to ensure that they are who they say they are and that they are the legal owners of the property or have permission from the owner or power of attorney – for instance, asking for an official form of identification; proof of address; proof of ownership and, where applicable, landlord registration number or company registration number.
+
+#### 30. Terms of business[^key-c75c6309ccb0c79c9675b7e3c24fa1f1]
+
+You must agree with the landlord what services you will provide and any other specific terms of engagement. This should include the minimum service standards they can expect and the target times for taking action in response to requests from them and their tenants.
+
+**31.**[^key-76c49a9877d793c97846417ea431647f] If you know that a client is not meeting their legal obligations as a landlord and is refusing or unreasonably delaying complying with the law, you must not act on their behalf. In these circumstances, you must inform the appropriate authorities, such as the local authority, that the landlord is failing to meet their obligations.
+
+**32.**[^key-20cf5e475ea1b2faa7b5a0997a17134f] Your terms of business must be written in plain language and, alongside any other reasonable terms you wish to include, must clearly set out:
+
+*Core services*
+
+- (a) the services you will provide to that landlord and the property they relate to. For example, tenant introduction, lettings service and full management service;
+
+*Duration*
+
+- (b) the duration of the agreement and the date it commences;
+
+*Authority to act*
+
+- (c) a statement about the basis of your authority to act on the landlord’s behalf;
+- (d) where applicable, a statement of any level of delegated authority, for example financial thresholds for instructing repairs to the property and the purchase of replacement goods;
+- (e) situations in which you may act without checking with the landlord first, for example urgent repairs;
+
+*Fees, charges and financial arrangements*
+
+- (f) your management fees and charges (including taxes) for your services, and your processes for reviewing and increasing or decreasing this fee;
+- (g) how you will collect payment including timescales and methods and any charges for late payment;
+- (h) that where applicable, a statement setting out details of any financial interest in providing third-party services (for example, commission for using certain companies, products or services) is available from you on request;
+
+*Tenancy deposits*
+
+- (i) if a tenancy deposit is to be taken, who will lodge the deposit with one of the approved schemes;
+
+*Communication and complaints*
+
+- (j) that you are subject to this Code and give your clients a copy on request. This may be provided electronically;
+- (k) how you will communicate (including the use of electronic communication[^f00004] with landlords and tenants, and the timescales within which you could be reasonably expected to respond to enquiries;
+- (l) your procedures for handling complaints and disputes between you and the landlord and tenants and the timescales within which you could be reasonably expected to respond;
+- (m) how a landlord and tenant may apply to the Tribunal if they remain dissatisfied after your complaints process has been exhausted, or if you do not process the complaint within a reasonable timescale through your complaints handling procedure;
+
+*Conflict of interest*
+
+- (n) a declaration of any conflict or potential conflict of interest;
+
+*Professional indemnity insurance*
+
+- (o) confirmation that you hold professional indemnity insurance or equivalent protection through another body or membership organisation and that further details (such as the name of your provider, your policy number and a summary of the policy) are available from you on request;
+
+*Handling client money*
+
+- (p) if you hold client money,[^M_F_1dcea9fc-ba67-4904-f987-1ff4e305301d] how you handle clients’ money; confirmation that you hold client money protection insurance or equivalent protection through another body or membership organisation and that further details (such as the name of your provider, your policy number and a summary of the policy) are available from you on request;
+
+*How to change or end the terms of business*
+
+- (q) clear information on how to change or end the agreement and any fees or charges (inclusive of taxes) that may apply and in what circumstances. Termination charges and related terms must not be unreasonable or excessive.
+
+**33.**[^key-681b1e0adadd2e5dee55c3f9d588ec5f] You and the landlord must both sign and date your agreed terms of business and you must give the landlord a copy for their records. If you and the landlord agree, this can be done using electronic communication including an electronic signature[^f00005].
+
+**34.**[^key-1ea47d6e79dc63ba374182e0a3b71082] In line with the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013[^f00006], in most cases you must give landlords 14 calendar days in which to cancel if the agreement is signed away from your premises.
+
+**35.**[^key-583990cd6db7d608af057d80165fc506] Any subsequent changes to your terms of business should be agreed by both parties and confirmed in line with your agreement (see paragraph 32 (q)).
+
+**36.**[^key-e43234894cac8886d66d8f43a2ccce2b] If a landlord or tenant (including former landlord and tenant) applies to the Tribunal because they think you have failed to meet your Code obligations, the Tribunal may, depending on the nature of the circumstances, expect you to show how your actions meet your agreed terms of business as part of complying with the Code.
+
+#### 37. Ending the agreement[^key-7ba001697dd810cb8d8fd4daaf16fe83]
+
+When either party ends the agreement, you must:
+
+- (a) give the landlord written confirmation you are no longer acting for them. It must set out the date the agreement ends; any fees or charges owed by the landlord and any funds owed to them; and the arrangements including timescales for returning the property to the landlord – for example, the handover of keys, relevant certificates and other necessary documents. Unless otherwise agreed, you must return any funds due to the landlord (less any outstanding debts) automatically at the point of settlement of the final bill.
+- (b) if tenants are still living in the managed property or properties, inform the tenants you will no longer be acting as an agent for the landlord and inform them of the landlord’s name and contact details if these have not already been provided, or where relevant, those of any new agent. You must also inform the tenants of any resulting changes that affect them.
+
+### SECTION 4 — Lettings
+
+#### 38. Marketing and advertising[^key-8e6ea2592735487446ca2504f6e52466]
+
+[^key-da1f5192e8d3a4ccb66fc1322faab8db]
+
+Your advertising and marketing must be clear, accurate and not knowingly or negligently misleading.
+
+**39.**[^key-964899dbc0429ad8c9a80de403c7c6c3] You must get the landlord’s permission for advertising and marketing a property, including the erection of a lettings board.
+
+**40.**[^key-1143b464d693baec134696024c375213] You must take all reasonable steps to ensure your letting agent registration number is included in all property advertisements or communications.
+
+**41.**[^key-82a764a8d35634e7e05887cdd69be22c] You must comply with relevant legislation on the marketing and advertising of properties for rent. For example, you must include a landlord’s registration number (or clearly state ‘landlord registration pending’) and the energy performance indicator from the property’s energy performance certificate (EPC) in your property advertisements and remove lettings boards within 14 days of the property being let.
+
+**42.**[^key-718cbfd8b74e3689b2e662b23f9ab5f3] You must not advertise in a way that unlawfully discriminates on the basis of a person’s age, disability, sex, gender reassignment, marriage or civil partnership, pregnancy or maternity, race, religion or belief or sexual orientation.
+
+#### 43. Giving correct information to prospective tenants[^key-bfe4877d5137c9907b2e054b39e03c27]
+
+You must give prospective tenants all relevant information about renting the property – for example, the [^M_F_6a00e65c-03d4-4795-902b-cd5bfc095930]... type of tenancy; the rent; the deposit; other financial obligations such as council tax; any guarantor requirements and what pre-tenancy checks will be required at the outset.
+
+**44.**[^key-09cf27024c42d4adeb21641a85114c2a] You must also inform prospective tenants how to apply and, where appropriate, the arrangements for viewing the property.
+
+**45.**[^key-822e3fa8680461d151ee31584029106b] You must make prospective tenants aware of the Code and give them a copy on request, this may be provided electronically.
+
+**46.**[^key-8eb9cedba6110bf2e22519df4e936699] You must not knowingly omit relevant information or evade questions from prospective tenants relating to the letting of the property in line with consumer protection legislation.
+
+#### 47. Charging fees[^key-fb2ff2bc8dda09b2b69216b3b5b81600]
+
+You must comply with all relevant legislation on the charging of fees and premiums or making loans to tenants and prospective tenants in the private rented sector.
+
+**48.**[^key-da1f5192e8d3a4ccb66fc1322faab8db] In particular you must comply with section 82 of the Rent (Scotland) Act 1984[^f00007], which prohibits any person, as a condition of the grant, renewal or continuance of an assured or short assured tenancy or private residential tenancy[^key-98305d3853c632487c85d0ef64b442f0], from requiring a tenant or prospective tenant to pay any charges except rent and a refundable deposit of no more than two months’ rent.
+
+**49.**[^key-0ec9c15b6f2f365598e8b5868b021985] You must not, as a condition of granting the tenancy, require tenants to use a third-party service that charges them a fee.
+
+#### 50. Viewings[^key-2eaf3ca8d794680f13096995f3ca77ec]
+
+You must agree with the landlord how prospective tenants will view their property and who will conduct the viewings.
+
+**51.**[^key-6924e3bf741a5ce1ffe6554583710edd] In deciding how you will conduct viewings on the landlord’s behalf, you should make sure you do not unlawfully discriminate against a person protected by the Equality Act 2010[^f00008] (also see paragraph 22).
+
+**52.**[^key-51ce126a1a68ae399a26c07211c023ce] If you are to conduct viewings on the landlord’s behalf, you must ensure the keys to the property are kept secure and maintain detailed records of their use by staff – for instance, the date the keys were issued, who to and when they were returned. You must take all reasonable steps to ensure the property is left secure after viewings.
+
+**53.**[^key-b2b015a315746e66d748d1eea8d23489] If a tenant lives at the property, you must give them reasonable notice of appointments (at least 24 hours in line with your statutory requirements), unless other arrangements for viewings have been agreed with them. You must ensure the tenant is present, unless otherwise agreed (see also paragraphs 80 to 84 on property access).
+
+#### 54. Applications[^key-c74f98730ff7715b24107d1a4165e9ec]
+
+You must agree with the landlord the criteria and process for managing and approving tenancy applications from prospective tenants.
+
+**55.**[^key-2589059600ebf0236b217c4d36418efe] You must inform the landlord in writing of all applications made on the property as soon as possible, unless agreed otherwise with the landlord, along with all relevant information about the offer and the applicant.
+
+**56.**[^key-cee1aa148f8183db04700c39575b139a] Applicants must be informed as soon as possible about the outcome of their application.
+
+#### 57. References and checks[^key-a27d7f32afc7a806fa1540c3ce6d74a6]
+
+You must agree with the landlord what references you will take and checks you will make on their behalf.
+
+**58.**[^key-9bd0f788579e709f0f9c809e52fe8e50] If you are to check references and make other checks, you must explain to the applicant and any guarantor what information you will check and who will do the checking, and get their written permission.
+
+**59.**[^key-87d33319f6f1c3caa8a82519bc386e4d] If you have contracted a third party to check references, or require prospective tenants to use a specific third party, the third party referencing service must not charge the tenant a fee (see also paragraphs 47 to 49 on charging fees).
+
+**60.**[^key-bf31f1ee95b0635042f5987095806bd0] You must ensure you handle all private information sensitively and in line with legal requirements such as the law relating to data protection.
+
+**61.**[^key-7d6bcfa6fb1d39129b4c23dcd6097d57] You must take all reasonable steps to confirm the applicant’s identity and to verify references, in line with your agreement with the landlord.
+
+#### 62. Tenancy agreement[^key-471630ee8f5d86fc4652db3cee00b01a]
+
+If you prepare a tenancy agreement on the landlord’s behalf, you must ensure it meets all relevant legal requirements and includes all relevant information (such as the name and address of the landlord or name and address of the letting agent and the identity of the landlord; type; length of tenancy where it is a short assured tenancy; amount of rent and deposit and how and when they will be paid; whether it is a house in multiple occupation; as well as any other responsibilities on taking care of the property, such as upkeep of communal areas and the cleaning required at the end of the tenancy); and any specifically negotiated clauses (for instance whether there will be landlord or agent inspections/visits) agreed between the landlord and the prospective tenant. The agreement must also include the landlord’s registration number.
+
+**63.**[^key-820cbecdd1e2b6da1c8a8750c21e285a] If you arrange for the tenancy agreement to be signed, you must give prospective tenants enough time to familiarise themselves with the agreement; give them the opportunity to raise any questions about their rights and obligations under the agreement; give them the opportunity and time to seek independent advice; and give them any other formal documents required before they sign the agreement.
+
+**64.**[^key-2c4572ece7ec8223b146864e5639968a] At the start of the tenancy, you must give the tenant a [^M_F_cd1b44fd-e67a-459a-a91e-5c4156fb400f]... copy of the tenancy agreement along with any other relevant statutory documents.
+
+#### 65. Tenancy deposits[^key-aac5a2246c79fd6e904ff7bef7376ac6]
+
+You must inform the landlord of the statutory requirements on tenancy deposits under the Housing (Scotland) Act 2006 and the Tenancy Deposit Schemes (Scotland) Regulations 2011[^f00009].
+
+**66.**[^key-05afc6188b499171b7fc87bd13694bf9] If you lodge tenancy deposits on a landlord’s behalf, you must ensure compliance with the legislation.
+
+#### 67. Moving in (inventory/check-in)[^key-36606e82795a92e0d542cf9d067d208e]
+
+If there is delay in handing over the property to the tenant on the agreed date, you must inform them of this and explain why as soon as possible.
+
+**68.**[^key-6fdd79748ec37dcf846b719e45e63684] If you are responsible for managing the check-in process, you must produce an inventory (which may include a photographic record) of all the things in the property (for example, furniture and equipment) and the condition of these and the property (for example marks on walls, carpets other fixtures) unless otherwise agreed in writing by the landlord. Where an inventory and schedule of condition is produced, you and the tenant must both sign the inventory confirming it is correct.
+
+**69.**[^key-eda5b10febc9d57d61be8a292182ef39] If the tenant is not present for the making of the inventory, you should ask them to check it and to raise, in writing, any changes or additions within a specific reasonable timescale. Once agreed, the inventory should be signed and returned.
+
+**70.**[^key-1a4936ed049422c35649b1f58183fe34] You must take reasonable steps to remind the tenant to sign and return the inventory. If the tenant does not, you must inform them, in writing, that you will nevertheless regard it as correct.
+
+**71.**[^key-b7f5e7af25dcc85affdcf0b516e27a3f] You must provide the tenant with a signed copy of the inventory for their records.
+
+**72.**[^key-ccb0d373453b40224151ce8266b11112] If the tenant asks in writing for the landlord’s name and address, you must tell them free of charge within 21 days.
+
+### SECTION 5 — Management and maintenance
+
+**73.**[^key-95e62269b85e9af2c7c3f3b76a44b697] If you have said in your agreed terms of business with a landlord that you will fully or partly manage the property on their behalf, you must provide these services in line with relevant legal obligations, the relevant tenancy agreement and sections of this Code.
+
+**74.**[^key-ca88b49c4a48a57b29d4cb5628e59416] If you carry out routine visits/inspections, you must record any issues identified and bring these to the tenant’s and landlord’s attention where appropriate (see also paragraphs 80 to 84 on property access and visits, and paragraphs 85 to 94 on repairs and maintenance).
+
+**75.**[^key-f58bca6bfcaed4978b4b341c7f8864f7] Breaches of the tenancy agreement must be dealt with promptly and appropriately and in line with the tenancy agreement and your agreement with the landlord.
+
+#### 76. Rent collection[^key-d2dcb935887b4ade4ff2e0ecc3b28fcd]
+
+You must have appropriate written procedures and processes in place for collecting and handling rent on the landlord’s behalf. These must set out how the late payment of rent will be handled and the legal requirements on tax deductions from rent received on behalf of non-resident or overseas landlords and the subsequent payment and reporting requirements. This should outline the steps you will follow and be clearly, consistently and reasonably applied.
+
+**77.**[^key-a354eba148e425c7ebc55aee4c2082ed] If you collect rent on the landlord’s behalf, you must, as a minimum, give the tenant a statement of their rent account on request. Where a tenant pays in cash they must be provided with a receipt which states the date of payment, the amount paid and either the amount which remains outstanding or confirmation that no further amount remains outstanding[^M_F_eb66098a-d605-480a-d3d2-64f2fcd034bc].
+
+**78.**[^key-d52f44ff907cc7c428e3b8032f5666f9] You should inform the landlord in writing of the late payment of rent, in line with your written procedures or agreement with the landlord.
+
+**79.**[^key-2ac3ce46e6df959510ab1875dda3efd8] In managing any rent arrears, you must be able to demonstrate you have taken all reasonable steps to recover any unpaid rent owed to the landlord (see also section 8).
+
+#### 80. Property access and visits[^key-6d3a062a798aa78a815a72aa93a7b0ff]
+
+If you hold keys to the properties you let, you must ensure they are kept secure and maintain detailed records of their use by staff and authorised third parties – for instance, by keeping keys separate from property information and holding a record of the date the keys were used, who they were issued to and when they were returned.
+
+**81.**[^key-669b97f3a21c13fb123d69baabf5082f] You must take reasonable steps to ensure keys are only given to suitably authorised people.
+
+**82.**[^key-9467db2a6535f7ae5f3667d82a793c76] You must give the tenant reasonable notice of your intention to visit the property and the reason for this. [^M_F_c862c5a5-9d90-42b9-8fd7-85ade03ea7b7]... At least 24 hours’ notice must be given , or 48 hours’ notice where the tenancy is a private residential tenancy,[^key-e5bc56b90aa5611b0805916e7219c597] unless the situation is urgent or you consider that giving such notice would defeat the object of the entry. You must ensure the tenant is present when entering the property and visit at reasonable times of the day unless otherwise agreed with the tenant.
+
+**83.**[^key-faeac3a90856837a73c394e9d5746632] If the tenant refuses access, you, the landlord or any third party have no right to enter the property using retained keys without a warrant.
+
+**84.**[^key-5b38b3fc3d6a2f92fd58e60605c0578b] You must make it clear to the tenant or occupier beforehand if a third party will visit the property unaccompanied.
+
+#### 85. Carrying out repairs and maintenance[^key-5e1696f5495c2c677d0e882f6fc54e95]
+
+If you are responsible for pre-tenancy checks, managing statutory repairs, maintenance obligations or safety regulations (e.g. electrical safety testing; annual gas safety inspections; Legionella risk assessments) on a landlord’s behalf, you must have appropriate systems and controls in place to ensure these are done to an appropriate standard within relevant timescales. You must maintain relevant records of the work.
+
+**86.**[^key-6f223eab2457244acb2bafdc1f162ab4] You must put in place appropriate written procedures and processes for tenants and landlords to notify you of any repairs and maintenance (including common repairs and maintenance) required, if you provide this service directly on the landlord’s behalf. Your procedure should include target timescales for carrying out routine and emergency repairs.
+
+**87.**[^key-c6e5956833cb7ef46ecbe2e19e9b597c] If emergency arrangements are part of your service, you must have in place procedures for dealing with emergencies (including dealing with out-of-hours incidents, if that is part of the service) and for giving contractors access to properties for emergency repairs.
+
+**88.**[^key-88a4bccb05f87c014100ee0b06eaff9e] You must give the tenant clear information about who will manage any repairs or maintenance, as agreed with the landlord and set out in the tenancy agreement. This includes giving them relevant contact details (e.g. you, the landlord or any third party) and informing them of any specific arrangements for dealing with out-of-hours emergencies.
+
+**89.**[^key-ecf141da099da597f45f0d127ed8ee17] When notified by a tenant of any repairs needing attention, you must manage the repair in line with your agreement with the landlord. Where the work required is not covered by your agreement you should inform the landlord in writing of the work required and seek their instructions on how to proceed.
+
+**90.**[^key-ffcb63aaae1ff4d7de5326da2dbb6b8a] Repairs must be dealt with promptly and appropriately having regard to their nature and urgency and in line with your written procedures.
+
+**91.**[^key-b55e512ca27fa1036d71487c34af7c49] You must inform the tenant of the action you intend to take on the repair and its likely timescale.
+
+**92.**[^key-fe2b09aedaea3fd03e5a4c3caa10967d] Where access is needed for repairs you must give the tenant reasonable notice of when access is required unless other arrangements have been agreed. Section 184 of the Housing (Scotland) Act 2006 is also relevant here and paragraph 6 of the schedule of the Private Residential Tenancies (Statutory Terms) (Scotland) Regulations 2017 is relevant in respect of a private residential tenancy[^key-ecc2d74a69035c7427a0533553f97291].
+
+**93.**[^key-7844bdbd38a46d3c78f09c99251cacda] If there is any delay in carrying out the repair and maintenance work, you must inform the landlords, tenants or both as appropriate about this along with the reason for it as soon as possible.
+
+**94.**[^key-57a9bbf13f35a3f902261722858f0102] You must pursue the contractor or supplier to remedy the defects in any inadequate work or service provided.
+
+#### 95. Contractors and third parties[^key-02bc78eb955adbef7e001eb0b3a9f8bf]
+
+If you use a contractor or a third party, you must take reasonable steps to ensure they hold appropriate professional qualifications and the necessary public and professional liability insurance. You should hold copies of all relevant documents.
+
+**96.**[^key-1c30a85bc8f8eda20774dca5b48d1dc7] On request, you must disclose to landlords, in writing, whether you receive any commission, fee, rebate or other payment or benefit and any financial or other interest you receive from a contractor/third party you appoint.
+
+### SECTION 6 — Ending the tenancy
+
+#### 97. Bringing the tenancy to an end[^key-605d80174727ee08524068d72bbaed52]
+
+The correct procedure for ending a tenancy depends on such factors as the type of tenancy and the reason it is ending. But in all circumstances you must comply with relevant tenancy law and ensure you follow appropriate legal procedures when seeking to end a tenancy.
+
+**98.**[^key-2b24d64eff91471b677b0a9bee251798] You must have clear written procedures in place for managing the ending of the tenancy (including where the tenancy is brought to an end by the landlord, or by the tenant or joint tenant; the landlord intends to seek eviction and where a tenancy has been abandoned); the serving of appropriate legal notices; and giving the landlord and tenant all relevant information.
+
+**99.**[^key-b77ab21ef8db09e16d25f3554e7098f4] You must apply your policy and procedures consistently and reasonably.
+
+**100.**[^key-6014216320a1299fa5806a05a4a3cb26] You must not try to persuade or force the tenant to leave without following the correct legal process.
+
+#### 101. Inventory/check-out[^key-4f8af6cd290cf47a29e070e8ae7f834b]
+
+Before they leave the property you must clearly inform the tenant of their responsibilities such as the standard of cleaning required; the closing of utility accounts and other administrative obligations, e.g. council tax, in line with their tenancy agreement. You must offer them the opportunity to be present at the check-out visit unless there is good reason not to. For example, evidence of violent behaviour.
+
+**102.**[^key-b8315519d678206d5a35f714cc2acbd4] If you are responsible for managing the check-out process, you must ensure it is conducted thoroughly and, if appropriate, prepare a sufficiently detailed report (this may include a photographic record) that makes relevant links to the inventory/schedule of condition where one has been prepared before the tenancy began.
+
+**103.**[^key-101bc1c5c497500fed8d11aa7d0e56ca] If the tenant wishes to be present during the check-out visit, you must give them reasonable notice of the arrangements unless there is good reason not to be present (see also paragraph 101).
+
+**104.**[^key-69c7b7d434576fce5530cffa6d2eed75] You must give the tenant clear written information (this may be supported by photographic evidence) about any damage identified during the check-out process and the proposed repair costs with reference to the inventory and schedule of condition if one was prepared.
+
+#### 105. Tenancy deposits[^key-a11ced1b982efaccf8577ee69e279c5d]
+
+Where you manage the tenancy deposit on behalf of a landlord you must take reasonable steps to come to an agreement with the tenant about deposit repayment. Where agreement is reached you must make a claim to the relevant Tenancy Deposit Scheme.
+
+**106.**[^key-3c2c6c1262b0d4c11faaa7020180200b] In the event of a dispute, the agent and tenant will be required to follow the relevant scheme’s rules for disputes.
+
+### SECTION 7 — Communications and resolving complaints
+
+#### 107. Communications[^key-42dc2d3d2a098ecba00a8fdfab2c1790]
+
+You must take all reasonable steps to ensure your letting agent registration number is included in all relevant documents and communications in line with your legal requirements under the 2014 Act.
+
+**108.**[^key-4fef6faf0118b76454835503bbf1022c] You must respond to enquiries and complaints within reasonable timescales. Overall, your aim should be to deal with enquiries and complaints as quickly and fully as possible and to keep those making them informed if you need more time to respond.
+
+**109.**[^key-d985e9d1f7332d2535d565024425e49c] You must provide landlords and tenants with your contact details including a current telephone number.
+
+**110.**[^key-4344d1aa0e6c5e976a7d849540a75e15] You must make landlords and tenants aware of the Code and give them a copy on request, electronically if you prefer.
+
+**111.**[^key-377f463008b4579b3aadbaaa1aba9ca0] You must not communicate with landlords or tenants in any way that is abusive, intimidating, or threatening.
+
+#### 112. Complaints resolution[^key-56748cc4b08d67a2396376d03a490e50]
+
+You must have a clear written complaints procedure that states how to complain to your business and, as a minimum, make it available on request. It must include the series of steps that a complaint may go through, with reasonable timescales linked to those set out in your agreed terms of business.
+
+**113.**[^key-2891d6c22a238d853afe018f6ee8ffb7] The procedure must also set out how you will handle complaints against contractors and third parties; any recourse to the complaints procedures of a professional or membership body you belong to; whether you provide access to alternative dispute resolution services; if you are also subject to another regulatory body (for example the Scottish Legal Complaints Commission); and that a landlord or tenant (including former landlord or tenant) may apply to the Tribunal if they remain dissatisfied once your complaints process has been exhausted, or if you do not process the complaint within a reasonable timescale through your complaints handling procedure.
+
+**114.**[^key-dff0b809644d7df9a5084b4d2556e2a0] You must not charge for handling a complaint.
+
+**115.**[^key-4570127aedac23b88414a99a73f468a1] You must retain (in electronic or paper form) all correspondence about a landlord’s or tenant’s complaint for five years as the Tribunal may need this information.
+
+**116.**[^key-71ccb366603caef97f78f22fa043b9df] You must comply with any Tribunal request to provide information about an application made to it from a landlord or tenant.
+
+### SECTION 8 — Handling landlords’ and tenants’ money, and insurance arrangements
+
+**117.**[^M_I_50c57457-94d7-4347-df02-d4a71b563626] In this section “client money” means money held or rent collected on behalf of a prospective tenant, tenant or landlord (including former tenant or landlord). This section only applies if you hold and handle client money.[^M_F_0b0bdaf7-6d2d-4621-b519-cbd0e2328f32]
+
+#### 118. Client accounts[^key-737caf632977f44b89ba9ebbd1486192]
+
+You must have robust and transparent written procedures for handling client money.
+
+**119.**[^key-c585c2e7153ebfb049fc76ab87e53abd] You must keep adequate records and accounts to show all dealings with client money.
+
+**120.**[^key-a3e256c50bd4ffbeb13296efeca55b92] You must be able to account immediately to them for all money held on behalf of clients.
+
+**121.**[^key-78f50139d5305979f3e5230d0b68c3de] You must ensure you hold client money in one or more separate and dedicated client bank accounts with a bank or building society authorised by the Financial Conduct Authority, separate from your main business or private accounts.
+
+**122.**[^key-d38962a658d554c07cd5e01dc8c76385] You must have written confirmation from any bank or building society where a client account is held that the following conditions apply:
+
+- (a) that all money standing to the credit of that account is client money; and
+- (b) that the bank or building society is not entitled to combine the account with any other account or exercise any right to set-off or counterclaim against money in that account for any sum owed to the bank or building society on any other of your accounts it holds.
+
+**123.**[^key-437d9246efa37f92db5812a67b28a76d] You must regularly record and monitor all transactions and reconcile these monthly as a minimum.
+
+**124.**[^key-b5979da83ceef039877b209de56725e5] You must ensure clients’ money is available to them on request and is given to them without unnecessary delay or penalties, unless agreed otherwise in writing (for example to take account of any money outstanding for agreed works undertaken).
+
+**125.**[^key-057195f51615550da3e5053311172fcf] You must pay or repay client money as soon as there is no longer any need to retain that money. Unless agreed otherwise in writing by the client, you should where feasible credit interest earned on any client account to the appropriate client.
+
+**126.**[^key-bd754591eb51199c61e752c083f8b60d] You must hold a client money protection insurance policy unless you can demonstrate equivalent or greater protection through another body or membership organisation. You must give further details (such as the name of your provider, your policy number and a summary of the policy) to them on request.
+
+#### 127. Debt recovery[^key-e1d3be15e0621f169f5020127e521187]
+
+You must have a clear written policy and procedure for debt recovery that lists a series of steps you will follow unless there is good reason not to. This should include setting out at what point you will contact any guarantor. The procedure must be clearly, proportionately and reasonably applied. It must set out how you will deal with disputed debts.
+
+**128.**[^key-e5c012aa3670e9daa93aa76de62d4cc4] Any charges you impose on late payment must not be unreasonable or excessive.
+
+**129.**[^key-a206c6ef5bf44e1f2146682362d44e9b] When you contact landlords, tenants or guarantors who owe you money, you or any third party acting on your behalf must not act intimidatingly or threateningly. Nor must you knowingly or carelessly misrepresent your authority and/or the correct legal position.
+
+#### 130. Professional indemnity arrangements[^key-779e31c728aa7042d76c717d14a0a4e8]
+
+You must have, and maintain, adequate professional indemnity insurance that is appropriate for your agency’s level of income and type of work unless you can demonstrate equivalent or greater protection through another body or membership organisation.
+
+**131.**[^key-5c4e887bcf9af8b999cd709dc429412b] Cover must be on a full civil liability basis and if feasible, this insurance should be fully retroactive.
+
+**132.**[^key-a7989d98f77859b58d637c57a48d18a7] You must give further details (such as the name of your provider, your policy number and a summary of your policy) to them on request.
+
+#### 133. Provision of insurance products[^key-976d87cb990fd3dee5ff406db3c6b75f]
+
+If you are lawfully authorised to offer insurance products to landlords and tenants as part of your services, related costs must be clearly explained and itemised on all relevant documents.
+
+**134.**[^key-c285de329bd01a98ce82c9d40b245707] On request you must disclose to landlords and tenants, in writing, whether you receive any commission, fee, rebate or other payment or benefit from the company arranging or providing insurance cover and any financial or other interest you have with the insurance provider before they enter into an agreement. You must also disclose on request any other charge you make for providing the insurance.
+
+**135.**[^key-a4005d0c8ee09c150335a7f33ae63aff] If applicable, you must have a procedure in place for making insurance claims on a landlord’s behalf and for liaising with the insurer to check that claims are dealt with promptly and correctly. If landlords are responsible for submitting claims on their own behalf, you must supply all information they reasonably need to do so.
+
+**136.**[^key-9f06417ad575e020fc9fac068e46b2ae] You must keep the insurance claimant informed of the progress of their claim or give them enough information to allow them to pursue the matter themselves.
+
+#### 137. Criminal activity[^key-9789081c0e115256f3e89d5706964ecd]
+
+You must notify the appropriate authorities, such as the Police or National Crime Agency, if you suspect any person using your services is engaged in money laundering, human trafficking, or another criminal activity.
+
+## Annotations
+
+[^key-1cd598c0b362d63c758fdb67703092e8]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/1) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-98c82be1495140f796d2f07446395049]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/2) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-43e6ff3be83f287141900bb1c8caf9d8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/3) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-51a9eae4a84b6d12818d0bf83acc5c93]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/4) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-b95749c21e5c8359b2d38b74d2ddfc94]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/5) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-3a5ed9d20f710a6172866b4be52daeaa]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/6) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-62cce1e51bf16aa1fbb4a4461ff3a102]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/7) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-e72fa42f4622bb82877b4628abbc6844]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/8) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-edf0ade67762fa4b20dd04d696ca99da]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/9) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-e0fcc5e3d9d3f85879bb7909a6add675]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/10) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-46f1e10c9ab09418e6f8eee30aa79814]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/11) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-9492613ed726e148a5b6126e8c7728cc]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/12) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-557a1a718263fdea7abf1bbece1748c6]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/13) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-43707900ee6e2621c3e55e14ad9c9c2d]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/14) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-7b6b7ba406c02cb7aa0028068d83c0b2]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/15) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-de921ada1a8973c1463909e491082229]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/16) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-f27794963cefec83203b6ca28d7d908e]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/17) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-8ac04ad60e9707b413e68c2dcbae781e]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/18) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-452cf8d7fe73d560aa79061f645c578a]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/19) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-c8cb3025cbbb46ac094cd7b3dc0d9b9b]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/20) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-67f5b85898f34eed1a15b6508e0cc421]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/21) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-26ff4cec3aef38dfc99341d8a8f9e744]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/22) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-a514e0fe8a744633052217a0baebc769]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/23) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-52599ec83d5b871f2cec2ca62bc90d57]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/24) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-2f9e9f9e199e64bc9eeda7fd3218715f]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/25) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-f61fd094c566d02d50cff58c5b5b3425]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/26) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-ec537eff2e926793e1ad810d2fe25194]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/27) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-02b334aa6ccf53b55941c7e65548e8db]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/28) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-f13c0a6c67cf9d231d40cc02bf0340d2]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/29) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^f00002]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8).
+
+[^f00003]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
+
+[^key-c75c6309ccb0c79c9675b7e3c24fa1f1]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/30) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-76c49a9877d793c97846417ea431647f]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/31) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-20cf5e475ea1b2faa7b5a0997a17134f]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/32) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^f00004]: Footnote: See sections 7 and 15 of the Electronic Communications Act [2000 (c.7)](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^M_F_1dcea9fc-ba67-4904-f987-1ff4e305301d]: Textual amendment: Words in sch. para. 32(p) inserted (31.1.2018) by [The Letting Agent (Registration and Code of Practice) (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/428)](https://www.legislation.gov.uk/ssi/2017/428), [regs. 1](https://www.legislation.gov.uk/ssi/2017/428/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2017/428/regulation/3/2/a)
+
+[^key-681b1e0adadd2e5dee55c3f9d588ec5f]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/33) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^f00005]: Footnote: See sections 7 and 15 of the Electronic Communications Act 2000.
+
+[^key-1ea47d6e79dc63ba374182e0a3b71082]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/34) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^f00006]: Footnote: [S.I. 2013/3134](https://www.legislation.gov.uk/uksi/2013/3134); to which there are amendments not relevant to this instrument.
+
+[^key-583990cd6db7d608af057d80165fc506]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/35) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-e43234894cac8886d66d8f43a2ccce2b]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/36) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-7ba001697dd810cb8d8fd4daaf16fe83]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/37) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-8e6ea2592735487446ca2504f6e52466]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/38) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-da1f5192e8d3a4ccb66fc1322faab8db]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/48) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-964899dbc0429ad8c9a80de403c7c6c3]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/39) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-1143b464d693baec134696024c375213]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/40) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-82a764a8d35634e7e05887cdd69be22c]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/41) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-718cbfd8b74e3689b2e662b23f9ab5f3]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/42) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-bfe4877d5137c9907b2e054b39e03c27]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/43) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^M_F_6a00e65c-03d4-4795-902b-cd5bfc095930]: Textual amendment: Words in sch. para. 43 omitted (31.1.2018) by [The Letting Agent (Registration and Code of Practice) (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/428)](https://www.legislation.gov.uk/ssi/2017/428), [regs. 1](https://www.legislation.gov.uk/ssi/2017/428/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2017/428/regulation/3/2/b)
+
+[^key-09cf27024c42d4adeb21641a85114c2a]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/44) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-822e3fa8680461d151ee31584029106b]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/45) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-8eb9cedba6110bf2e22519df4e936699]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/46) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-fb2ff2bc8dda09b2b69216b3b5b81600]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/47) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^f00007]: Footnote: [1984 c.58](https://www.legislation.gov.uk/ukpga/1984/58); section 82 was amended by section 32(1) of the Private Rented Housing (Scotland) Act [2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14).
+
+[^key-98305d3853c632487c85d0ef64b442f0]: Textual amendment: Words in [sch. para. 48](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/48) inserted (1.12.2017) by [The Private Housing (Tenancies) (Scotland) Act 2016 (Consequential Provisions) Regulations 2017 (S.S.I. 2017/405)](https://www.legislation.gov.uk/ssi/2017/405), [regs. 1](https://www.legislation.gov.uk/ssi/2017/405/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2017/405/regulation/5/2/a)
+
+[^key-0ec9c15b6f2f365598e8b5868b021985]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/49) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-2eaf3ca8d794680f13096995f3ca77ec]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/50) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-6924e3bf741a5ce1ffe6554583710edd]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/51) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^f00008]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^key-51ce126a1a68ae399a26c07211c023ce]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/52) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-b2b015a315746e66d748d1eea8d23489]: Commencement: [Sch. para. 53](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/53) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-c74f98730ff7715b24107d1a4165e9ec]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/54) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-2589059600ebf0236b217c4d36418efe]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/55) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-cee1aa148f8183db04700c39575b139a]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/56) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-a27d7f32afc7a806fa1540c3ce6d74a6]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/57) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-9bd0f788579e709f0f9c809e52fe8e50]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/58) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-87d33319f6f1c3caa8a82519bc386e4d]: Commencement: [Sch. para. 59](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/59) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-bf31f1ee95b0635042f5987095806bd0]: Commencement: [Sch. para. 60](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/60) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-7d6bcfa6fb1d39129b4c23dcd6097d57]: Commencement: [Sch. para. 61](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/61) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-471630ee8f5d86fc4652db3cee00b01a]: Commencement: [Sch. para. 62](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/62) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-820cbecdd1e2b6da1c8a8750c21e285a]: Commencement: [Sch. para. 63](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/63) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-2c4572ece7ec8223b146864e5639968a]: Commencement: [Sch. para. 64](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/64) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^M_F_cd1b44fd-e67a-459a-a91e-5c4156fb400f]: Textual amendment: Word in sch. para. 64 omitted (31.1.2018) by [The Letting Agent (Registration and Code of Practice) (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/428)](https://www.legislation.gov.uk/ssi/2017/428), [regs. 1](https://www.legislation.gov.uk/ssi/2017/428/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2017/428/regulation/3/2/c)
+
+[^key-aac5a2246c79fd6e904ff7bef7376ac6]: Commencement: [Sch. para. 65](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/65) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^f00009]: Footnote: [S.S.I. 2011/176](https://www.legislation.gov.uk/ssi/2011/176).
+
+[^key-05afc6188b499171b7fc87bd13694bf9]: Commencement: [Sch. para. 66](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/66) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-36606e82795a92e0d542cf9d067d208e]: Commencement: [Sch. para. 67](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/67) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-6fdd79748ec37dcf846b719e45e63684]: Commencement: [Sch. para. 68](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/68) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-eda5b10febc9d57d61be8a292182ef39]: Commencement: [Sch. para. 69](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/69) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-1a4936ed049422c35649b1f58183fe34]: Commencement: [Sch. para. 70](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/70) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-b7f5e7af25dcc85affdcf0b516e27a3f]: Commencement: [Sch. para. 71](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/71) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-ccb0d373453b40224151ce8266b11112]: Commencement: [Sch. para. 72](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/72) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-95e62269b85e9af2c7c3f3b76a44b697]: Commencement: [Sch. para. 73](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/73) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-ca88b49c4a48a57b29d4cb5628e59416]: Commencement: [Sch. para. 74](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/74) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-f58bca6bfcaed4978b4b341c7f8864f7]: Commencement: [Sch. para. 75](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/75) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-d2dcb935887b4ade4ff2e0ecc3b28fcd]: Commencement: [Sch. para. 76](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/76) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-a354eba148e425c7ebc55aee4c2082ed]: Commencement: [Sch. para. 77](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/77) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^M_F_eb66098a-d605-480a-d3d2-64f2fcd034bc]: Textual amendment: Words in sch. para. 77 inserted (31.1.2018) by [The Letting Agent (Registration and Code of Practice) (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/428)](https://www.legislation.gov.uk/ssi/2017/428), [regs. 1](https://www.legislation.gov.uk/ssi/2017/428/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2017/428/regulation/3/2/d)
+
+[^key-d52f44ff907cc7c428e3b8032f5666f9]: Commencement: [Sch. para. 78](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/78) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-2ac3ce46e6df959510ab1875dda3efd8]: Commencement: [Sch. para. 79](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/79) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-6d3a062a798aa78a815a72aa93a7b0ff]: Commencement: [Sch. para. 80](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/80) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-669b97f3a21c13fb123d69baabf5082f]: Commencement: [Sch. para. 81](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/81) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-9467db2a6535f7ae5f3667d82a793c76]: Commencement: [Sch. para. 82](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/82) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^M_F_c862c5a5-9d90-42b9-8fd7-85ade03ea7b7]: Textual amendment: Words in sch. para. 82 omitted (31.1.2018) by [The Letting Agent (Registration and Code of Practice) (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/428)](https://www.legislation.gov.uk/ssi/2017/428), [regs. 1](https://www.legislation.gov.uk/ssi/2017/428/regulation/1), [3(2)(e)](https://www.legislation.gov.uk/ssi/2017/428/regulation/3/2/e)
+
+[^key-e5bc56b90aa5611b0805916e7219c597]: Textual amendment: Words in [sch. para. 82](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/82) inserted (1.12.2017) by [The Private Housing (Tenancies) (Scotland) Act 2016 (Consequential Provisions) Regulations 2017 (S.S.I. 2017/405)](https://www.legislation.gov.uk/ssi/2017/405), [regs. 1](https://www.legislation.gov.uk/ssi/2017/405/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2017/405/regulation/5/2/b)
+
+[^key-faeac3a90856837a73c394e9d5746632]: Commencement: [Sch. para. 83](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/83) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-5b38b3fc3d6a2f92fd58e60605c0578b]: Commencement: [Sch. para. 84](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/84) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-5e1696f5495c2c677d0e882f6fc54e95]: Commencement: [Sch. para. 85](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/85) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-6f223eab2457244acb2bafdc1f162ab4]: Commencement: [Sch. para. 86](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/86) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-c6e5956833cb7ef46ecbe2e19e9b597c]: Commencement: [Sch. para. 87](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/87) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-88a4bccb05f87c014100ee0b06eaff9e]: Commencement: [Sch. para. 88](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/88) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-ecf141da099da597f45f0d127ed8ee17]: Commencement: [Sch. para. 89](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/89) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-ffcb63aaae1ff4d7de5326da2dbb6b8a]: Commencement: [Sch. para. 90](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/90) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-b55e512ca27fa1036d71487c34af7c49]: Commencement: [Sch. para. 91](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/91) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-fe2b09aedaea3fd03e5a4c3caa10967d]: Commencement: [Sch. para. 92](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/92) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-ecc2d74a69035c7427a0533553f97291]: Textual amendment: Words in [sch. para. 92](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/92) inserted (1.12.2017) by [The Private Housing (Tenancies) (Scotland) Act 2016 (Consequential Provisions) Regulations 2017 (S.S.I. 2017/405)](https://www.legislation.gov.uk/ssi/2017/405), [regs. 1](https://www.legislation.gov.uk/ssi/2017/405/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2017/405/regulation/5/2/c)
+
+[^key-7844bdbd38a46d3c78f09c99251cacda]: Commencement: [Sch. para. 93](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/93) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-57a9bbf13f35a3f902261722858f0102]: Commencement: [Sch. para. 94](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/94) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-02bc78eb955adbef7e001eb0b3a9f8bf]: Commencement: [Sch. para. 95](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/95) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-1c30a85bc8f8eda20774dca5b48d1dc7]: Commencement: [Sch. para. 96](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/96) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-605d80174727ee08524068d72bbaed52]: Commencement: [Sch. para. 97](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/97) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-2b24d64eff91471b677b0a9bee251798]: Commencement: [Sch. para. 98](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/98) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-b77ab21ef8db09e16d25f3554e7098f4]: Commencement: [Sch. para. 99](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/99) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-6014216320a1299fa5806a05a4a3cb26]: Commencement: [Sch. para. 100](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/100) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-4f8af6cd290cf47a29e070e8ae7f834b]: Commencement: [Sch. para. 101](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/101) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-b8315519d678206d5a35f714cc2acbd4]: Commencement: [Sch. para. 102](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/102) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-101bc1c5c497500fed8d11aa7d0e56ca]: Commencement: [Sch. para. 103](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/103) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-69c7b7d434576fce5530cffa6d2eed75]: Commencement: [Sch. para. 104](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/104) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-a11ced1b982efaccf8577ee69e279c5d]: Commencement: [Sch. para. 105](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/105) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-3c2c6c1262b0d4c11faaa7020180200b]: Commencement: [Sch. para. 106](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/106) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-42dc2d3d2a098ecba00a8fdfab2c1790]: Commencement: [Sch. para. 107](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/107) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-4fef6faf0118b76454835503bbf1022c]: Commencement: [Sch. para. 108](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/108) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-d985e9d1f7332d2535d565024425e49c]: Commencement: [Sch. para. 109](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/109) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-4344d1aa0e6c5e976a7d849540a75e15]: Commencement: [Sch. para. 110](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/110) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-377f463008b4579b3aadbaaa1aba9ca0]: Commencement: [Sch. para. 111](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/111) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-56748cc4b08d67a2396376d03a490e50]: Commencement: [Sch. para. 112](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/112) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-2891d6c22a238d853afe018f6ee8ffb7]: Commencement: [Sch. para. 113](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/113) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-dff0b809644d7df9a5084b4d2556e2a0]: Commencement: [Sch. para. 114](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/114) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-4570127aedac23b88414a99a73f468a1]: Commencement: [Sch. para. 115](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/115) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-71ccb366603caef97f78f22fa043b9df]: Commencement: [Sch. para. 116](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/116) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^M_I_50c57457-94d7-4347-df02-d4a71b563626]: Commencement: Sch. para. 117 in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^M_F_0b0bdaf7-6d2d-4621-b519-cbd0e2328f32]: Textual amendment: Words in sch. para. 117 inserted (31.1.2018) by [The Letting Agent (Registration and Code of Practice) (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/428)](https://www.legislation.gov.uk/ssi/2017/428), [regs. 1](https://www.legislation.gov.uk/ssi/2017/428/regulation/1), [3(2)(f)](https://www.legislation.gov.uk/ssi/2017/428/regulation/3/2/f)
+
+[^key-737caf632977f44b89ba9ebbd1486192]: Commencement: [Sch. para. 118](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/118) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-c585c2e7153ebfb049fc76ab87e53abd]: Commencement: [Sch. para. 119](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/119) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-a3e256c50bd4ffbeb13296efeca55b92]: Commencement: [Sch. para. 120](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/120) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-78f50139d5305979f3e5230d0b68c3de]: Commencement: [Sch. para. 121](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/121) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-d38962a658d554c07cd5e01dc8c76385]: Commencement: [Sch. para. 122](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/122) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-437d9246efa37f92db5812a67b28a76d]: Commencement: [Sch. para. 123](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/123) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-b5979da83ceef039877b209de56725e5]: Commencement: [Sch. para. 124](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/124) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-057195f51615550da3e5053311172fcf]: Commencement: [Sch. para. 125](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/125) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-bd754591eb51199c61e752c083f8b60d]: Commencement: [Sch. para. 126](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/126) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-e1d3be15e0621f169f5020127e521187]: Commencement: [Sch. para. 127](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/127) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-e5c012aa3670e9daa93aa76de62d4cc4]: Commencement: [Sch. para. 128](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/128) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-a206c6ef5bf44e1f2146682362d44e9b]: Commencement: [Sch. para. 129](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/129) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-779e31c728aa7042d76c717d14a0a4e8]: Commencement: [Sch. para. 130](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/130) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-5c4e887bcf9af8b999cd709dc429412b]: Commencement: [Sch. para. 131](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/131) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-a7989d98f77859b58d637c57a48d18a7]: Commencement: [Sch. para. 132](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/132) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-976d87cb990fd3dee5ff406db3c6b75f]: Commencement: [Sch. para. 133](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/133) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-c285de329bd01a98ce82c9d40b245707]: Commencement: [Sch. para. 134](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/134) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-a4005d0c8ee09c150335a7f33ae63aff]: Commencement: [Sch. para. 135](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/135) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-9f06417ad575e020fc9fac068e46b2ae]: Commencement: [Sch. para. 136](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/136) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+
+[^key-9789081c0e115256f3e89d5706964ecd]: Commencement: [Sch. para. 137](https://www.legislation.gov.uk/ssi/2016/133/schedule/paragraph/137) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)

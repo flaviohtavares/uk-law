@@ -1,0 +1,67 @@
+---
+title: Trusts and Succession (Scotland) Act 2024, section 59
+act: Trusts and Succession (Scotland) Act 2024
+section: '59'
+status: not-yet-in-force
+text_date: '2024-06-26'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2024/2/section/59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trusts and Succession (Scotland) Act 2024, section 59
+
+> This provision is not yet in force.
+>
+> Extent: Scotland.
+
+## 59. Agreement or approval for purposes of section 58(2)[^key-85a932969607b5cf6df2757a23180c36]
+
+*Extent: S*
+
+**Not yet in force.**
+
+(1) In this section “**agreement**” means agreement for the purposes of section 58(2) and “**approval**” means approval for those purposes.
+
+(2) Agreement may be given by a beneficiary if the beneficiary either—
+
+- (a) has attained the age of 18 years and is capable, or
+- (b) is not a natural person.
+
+(3) Approval may be given by a potential beneficiary if that person falls within subsection (7).
+
+(4) Approval on behalf of a person who is incapable may be given by any person authorised to give it and having powers relating to the matter—
+
+- (a) under the Adults with Incapacity (Scotland) Act 2000, or
+- (b) under the law of a country other than Scotland.
+
+(5) Approval may be given by the court on behalf of—
+
+- (a) a person who has not attained the age of 18 years,
+- (b) a person who is incapable,
+- (c) a potential beneficiary who does not fall within subsection (7),
+- (d) an unborn person, or
+- (e) a person who is untraceable.
+
+(6) The powers of the court under subsection (5) are exercisable on the application of the trustees or of any of the beneficiaries.
+
+(7) A potential beneficiary falls within this subsection where—
+
+- (a) the potential beneficiary either—
+  - (i) has attained the age of 18 years and is capable, or
+  - (ii) is not a natural person, and
+- (b) the potential beneficiary would be of the specified description, or as the case may be a member of the specified class, if—
+  - (i) the future date were the date of the hearing of the application for approval, or
+  - (ii) the future event had happened at the date of that hearing.
+
+(8) In subsection (7)(b), “specified description”, “specified class”, “future date” and “future event” are to be construed by reference to the definition, in section 81(1), of “potential beneficiary”.
+
+(9) This section—
+
+- (a) applies irrespective of when the trust was created, but
+- (b) does not apply as respects a private purpose trust or a public trust.
+
+## Annotations
+
+[^key-85a932969607b5cf6df2757a23180c36]: Commencement: S. 59 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

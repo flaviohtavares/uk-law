@@ -1,0 +1,169 @@
+---
+title: The Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Scotland) Regulations 2010
+id: ssi/2010/467
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-12-21'
+text_date: '2015-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/467
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/467/pdfs/ssien_20100467_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/467/pdfs/ssi_20100467_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/467/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Scotland) Regulations 2010
+
+> Text as at 2015-10-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 467
+
+Town And Country Planning
+
+The Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Scotland) Regulations 2010
+
+Made
+
+21st December 2010
+
+Laid before the Scottish Parliament
+
+23rd December 2010
+
+Coming into force
+
+1st February 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1 of Schedule 4 to the Town and Country Planning (Scotland) Act 1997[^f00001], paragraph 1 of Schedule 3 to the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997[^f00002] and paragraph 1 of the Schedule to the Planning (Hazardous Substances) (Scotland) Act 1997[^f00003] and all other powers enabling them to do so.
+
+## 1. Citation and commencement[^key-4938e1183e067064eb442914abca2906]
+
+These Regulations may be cited as the Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Scotland) Regulations 2010 and come into force on 1st February 2011.
+
+## 2. Interpretation[^key-c690cae9e17b12ef194c0ddf229ab1a2]
+
+(1) In these Regulations—
+
+- “the Act” means the Town and Country Planning (Scotland) Act 1997;
+- “the Listed Buildings Act” means the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997; and
+- “the Hazardous Substances Act” means the Planning (Hazardous Substances) (Scotland) Act 1997.
+
+## 3. Classes of appeal for determination by appointed persons – Schedule 4 to the Act[^key-0f823b0f3fecf70a481c40d66ff8a41e]
+
+Subject to regulation 6, the classes of appeal prescribed for the purposes of paragraph 1(1) of Schedule 4 to the Act (determination of appeals by appointed person) are appeals under—
+
+- (a) section 47(1) of the Act (appeals against planning decisions);
+- (b) section 47(2) of the Act (appeals in default of planning decisions);
+- (c) section 47 of the Act as applied by—
+  - (i) an order made under section 160 of the Act (appeals in relation to consent to felling etc of trees subject to a tree preservation order); or
+  - (ii) regulations made under section 182 of the Act (appeals in relation to consent to display of advertisements);
+- (d) section 75B of the Act (appeals relating to the modification or discharge of planning obligations);
+- (e) section 75F of the Act (appeals relating to the modification or discharge of good neighbour agreements);
+- (f) section 130 of the Act (appeals against enforcement notices);
+- (g) section 130 of the Act as applied by—
+  - (i) regulations made under section 182 of the Act (appeals in relation to enforcement of advertisement controls); or
+  - (ii) regulations made under section 23 of the Hazardous Substances Act (appeals against hazardous substances contravention notices);
+- (h) section 154(1) of the Act (appeals against refusal of certificate of lawful use or development);
+- (i) section 169 of the Act (appeals against an enforcement notice requiring the replacement of trees); and
+- (j) section 180 of the Act (appeals against notices under section 179 of the Act).
+
+## 4. Classes of appeal for determination by appointed persons – Schedule 3 to the Listed Buildings Act[^key-3402fddd5433c8a252df058b5baec0c9]
+
+The classes of appeal prescribed for the purposes of paragraph 1(1) of Schedule 3 to the Listed Buildings Act (determination of appeals by appointed person) are appeals under—
+
+- (za)[^key-3b00ce4ce3eb58baa88d3bb77adfe60e] section 5B of the Listed Buildings Act (appeal against listing of buildings);
+- (a) section 18(1) of the Listed Buildings Act (appeals against refusal of or conditional consent to applications for listed building consent or against refusal of approval required by a condition);
+- (b) section 18(2) of the Listed Buildings Act (appeals in default of decision on application for listed building consent or for approval required by a condition);
+- (c) section 18(1) and (2) of the Listed Buildings Act as applied by—
+  - (i) section 17 of that Act (applications for variation or discharge of conditions); or
+  - (ii) section 66 of that Act (control of demolition of buildings in conservation areas);
+- (d) section 35 of the Listed Buildings Act (appeals against listed building enforcement notices); and
+- (e) section 35 of the Listed Buildings Act as applied by section 66 of that Act (appeals against enforcement notices in respect of the demolition of buildings in conservation areas).
+
+## 5. Classes of appeal for determination by appointed persons – Schedule to the Hazardous Substances Act[^key-a8e4d7d86f214b222772d169223d9d5f]
+
+The classes of appeal prescribed for the purposes of paragraph 1(1) of the Schedule to the Hazardous Substances Act (determination of appeals by appointed person) are appeals under—
+
+- (a) section 19(1) of the Hazardous Substances Act (appeals against refusal of or conditional consent to applications for hazardous substance consent or against refusal of approval required by a condition or against refusal of applications for continuation of consent); and
+- (b) section 19(2) of the Hazardous Substances Act (appeals in default of decision on application for hazardous substance consent).
+
+## 6. Classes of appeal reserved for determination by the Scottish Ministers[^key-ddcbbc2bbe959c68a9c59071f882bdb9]
+
+The classes of appeal prescribed for the purposes of paragraph 1(2)(a) of Schedule 4 to the Act (appeals which are not to be determined by a person appointed by the Scottish Ministers) are appeals under sections 47 and 130 of the Act by persons who are, or are deemed to be, statutory undertakers for the purposes of section 214 of the Act.
+
+## 7. Publicity for directions[^key-bedbd786dedfb6c6286abb393e040e7d]
+
+(1) As soon as may be after making a direction under—
+
+- (a) paragraph 1(2)(b) of Schedule 4 to the Act;
+- (b) paragraph 1(2)(b) of Schedule 3 to the Listed Buildings Act; or
+- (c) paragraph 1(2)(b) of the Schedule to the Hazardous Substances Act,
+
+the Scottish Ministers are to send a copy of the direction to every planning authority in respect of which the direction has effect.
+
+(2) The planning authority must as soon as may be after receipt of the copy direction publish a notice in at least one newspaper circulating in the area of the planning authority—
+
+- (a) containing a concise statement of the effect of the direction; and
+- (b) specifying how a copy of the direction may be inspected.
+
+## 8. Revocation[^key-50469d8cb7e28c6af595ccb86ce4661d]
+
+The Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Scotland) Regulations 1987[^f00004] and the Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Scotland) Amendment Regulations 1989[^f00005] are revoked.
+
+K BROWN
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+21st December 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations repeal and replace with amendments the provisions of the Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Scotland) Regulations 1987. Regulations 3, 4 and 5 prescribe the classes of appeal which are to be determined by persons appointed for the purpose by the Scottish Ministers instead of being determined by the Scottish Ministers. Regulation 6 prescribes certain classes of appeal within those prescribed under regulation 3 which are to continue to be determined by the Scottish Ministers. Regulation 7 provides for publication by planning authorities of any direction made by the Scottish Ministers specifying classes of case within the prescribed classes which are to be determined by the Scottish Ministers.
+
+Regulation 3 also extends the classes of delegated appeals to cover the determination of appeals under section 75B and 75F of the Town and Country Planning (Scotland) Act [1997 (c.8)](https://www.legislation.gov.uk/ukpga/1997/8) relating, respectively, to the variation or discharge of planning obligations and good neighbour agreements.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Paragraph 1(1) was amended by the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), section 54(18)(a). Section 277(1) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9). Section 81(1) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^f00003]: Footnote: [1997 c.10](https://www.legislation.gov.uk/ukpga/1997/10). Section 38(2) applies the definition of “prescribed” given in section 277(1) of the Town and Country Planning (Scotland) Act 1997. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^key-4938e1183e067064eb442914abca2906]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/467/regulation/1) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/467/regulation/1)
+
+[^key-c690cae9e17b12ef194c0ddf229ab1a2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/467/regulation/2) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/467/regulation/1)
+
+[^key-0f823b0f3fecf70a481c40d66ff8a41e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/467/regulation/3) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/467/regulation/1)
+
+[^key-3402fddd5433c8a252df058b5baec0c9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/467/regulation/4) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/467/regulation/1)
+
+[^key-3b00ce4ce3eb58baa88d3bb77adfe60e]: Textual amendment: [Reg. 4(za)](https://www.legislation.gov.uk/ssi/2010/467/regulation/4/za) inserted (1.10.2015) by [The Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/236)](https://www.legislation.gov.uk/ssi/2015/236), [regs. 1](https://www.legislation.gov.uk/ssi/2015/236/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/236/regulation/2/2)
+
+[^key-a8e4d7d86f214b222772d169223d9d5f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/467/regulation/5) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/467/regulation/1)
+
+[^key-ddcbbc2bbe959c68a9c59071f882bdb9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/467/regulation/6) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/467/regulation/1)
+
+[^key-bedbd786dedfb6c6286abb393e040e7d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/467/regulation/7) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/467/regulation/1)
+
+[^key-50469d8cb7e28c6af595ccb86ce4661d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2010/467/regulation/8) in force at 1.2.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/467/regulation/1)
+
+[^f00004]: Footnote: [S.I. 1987/1531](https://www.legislation.gov.uk/uksi/1987/1531), amended by [S.I. 1989/577](https://www.legislation.gov.uk/uksi/1989/577); [S.I. 1990/526](https://www.legislation.gov.uk/uksi/1990/526); [S.I. 1996/252](https://www.legislation.gov.uk/uksi/1996/252); and [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149).
+
+[^f00005]: Footnote: [S.I. 1989/577](https://www.legislation.gov.uk/uksi/1989/577).

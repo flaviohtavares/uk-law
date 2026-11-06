@@ -1,0 +1,682 @@
+---
+title: Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2008
+id: ssi/2008/223
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-06-03'
+text_date: '2025-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2008/223
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2008/223/pdfs/ssi_20080223_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/223/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2008
+
+> Text as at 2025-01-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2008 No. 223
+
+SHERIFF COURT
+
+Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2008
+
+Made
+
+3rd June 2008
+
+Coming into force
+
+1st July 2008
+
+The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001], section 14(7) of the Scottish Commission for Human Rights Act 2006[^f00002], section 5 of the Judicial Factors (Scotland) Act 1880[^f00003], and, these rules making provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appearing to the Lords of Council and Session that it is expedient for the reference to Council Regulation (E.C.) No. 1346/2000 of 29th May 2000 on insolvency proceedings to be construed as a reference to that instrument as amended from time to time, under and by virtue of the powers conferred by paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00004], and under and by virtue of all other powers enabling them in that behalf, having approved draft rules submitted to them by the Sheriff Court Rules Council in accordance with section 34 of the said Act of 1971, do hereby enact and declare:
+
+## 1. Citation, commencement and interpretation[^key-00d2ab121544315888e1f99570f9a8d3]
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2008 and shall come into force on 1st July 2008.
+
+(2) This Act of Sederunt shall be inserted in the Books of Sederunt.
+
+(3) In this Act of Sederunt–
+
+- “the Ordinary Cause Rules” means the Ordinary Cause Rules in Schedule 1 to the Sheriff Courts (Scotland) Act 1907[^f00005];
+- “the Summary Application Rules” means the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc Rules) 1999[^f00006];
+- “the Summary Cause Rules” means the Act of Sederunt (Summary Cause Rules) 2002[^f00007]
+- “the Small Claim Rules” means the Act of Sederunt (Small Claim Rules) 2002[^f00008];
+- “the Judicial Factor Rules” means the Act of Sederunt (Judicial Factors Rules) 1992[^f00009];
+- “the Company Insolvency Rules” means the Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986[^f00010].
+
+## 2. Late appearance in family actions and civil partnership actions[^key-bc8ff5f9b71ec37e100d5ebdd9a49178]
+
+(1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
+
+(2) After rule 33.33 insert–
+
+> **33.33A. Late appearance and application for recall by defenders**
+>
+> (1) In a cause mentioned in rule 33.1(a) to (h), (n) or (o), the sheriff may, at any stage of the action before the granting of final decree, make an order with such conditions, if any, as he thinks fit–
+>
+> - (a) directing that a defender who has not lodged a notice of intention to defend be treated as if he had lodged such a notice and the period of notice had expired on the date on which the order was made; or
+> - (b) allowing a defender who has not lodged a notice of intention to defend to appear and be heard at a diet of proof although he has not lodged defences, but he shall not, in that event, be allowed to lead evidence without the pursuer’s consent.
+>
+> (2) Where the sheriff makes an order under paragraph (1), the pursuer may recall a witness already examined or lead other evidence whether or not he closed his proof before that order was made.
+>
+> (3) Where no order under paragraph (1) has been sought by a defender who has not lodged a notice of intention to defend and decree is granted against him, the sheriff may, on an application made within 14 days of the date of the decree, and with such conditions, if any, as he thinks fit, make an order recalling the decree.
+>
+> (4) Where the sheriff makes an order under paragraph (3), the cause shall thereafter proceed as if the defender had lodged a notice of intention to defend and the period of notice had expired on the date on which the decree was recalled.
+>
+> (5) An application under paragraph (1) or (3) shall be made by note setting out the proposed defence and explaining the defender’s failure to appear.
+>
+> (6) An application under paragraph (1) or (3) shall not affect any right of appeal the defender may otherwise have.
+>
+> (7) A note lodged in an application under paragraph (1) or (3) shall be served on the pursuer and any other party.
+
+.
+
+(3) After rule 33A.33[^f00011] insert–
+
+> **33A.33A. Late appearance and application for recall by defenders**
+>
+> (1) In a cause mentioned in rule 33A.1(a), (b) or (f), the sheriff may, at any stage of the action before the granting of final decree, make an order with such conditions, if any, as he thinks fit–
+>
+> - (a) directing that a defender who has not lodged a notice of intention to defend be treated as if he had lodged such a notice and the period of notice had expired on the date on which the order was made; or
+> - (b) allowing a defender who has not lodged a notice of intention to defend to appear and be heard at a diet of proof although he has not lodged defences, but he shall not, in that event, be allowed to lead evidence without the pursuer’s consent.
+>
+> (2) Where the sheriff makes an order under paragraph (1), the pursuer may recall a witness already examined or lead other evidence whether or not he closed his proof before that order was made.
+>
+> (3) Where no order under paragraph (1) has been sought by a defender who has not lodged a notice of intention to defend and decree is granted against him, the sheriff may, on an application made within 14 days of the date of the decree, and with such conditions, if any, as he thinks fit, make an order recalling the decree.
+>
+> (4) Where the sheriff makes an order under paragraph (3), the cause shall thereafter proceed as if the defender had lodged a notice of intention to defend and the period of notice had expired on the date on which the decree was recalled.
+>
+> (5) An application under paragraph (1) or (3) shall be made by note setting out the proposed defence and explaining the defender’s failure to appear.
+>
+> (6) An application under paragraph (1) or (3) shall not affect any right of appeal the defender may otherwise have.
+>
+> (7) A note lodged in an application under paragraph (1) or (3) shall be served on the pursuer and any other party.
+
+.
+
+## 3. Pension Protection Fund notification in family actions and civil partnership actions[^key-95b2c8cc45b49340ba7c414a14c67c01]
+
+(1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
+
+(2) After rule 33.51 insert–
+
+> **33.51A. Pension Protection Fund notification**
+>
+> (1) In this rule–
+>
+> - “assessment period” shall be construed in accordance with section 132 of the Pensions Act 2004[^f00012];
+> - “pension arrangement” shall be construed in accordance with the definition in section 27 of the Act of 1985; and
+> - “valuation summary” shall be construed in accordance with the definition in Schedule 2 to the Pension Protection Fund (Provision of Information) Regulations 2005[^f00013].
+>
+> (2) This rule applies where a party at any stage in the proceedings applies for an order under section 8 or section 16 of the Act of 1985.
+>
+> (3) Where the party against whom an order referred to in paragraph (2) is sought has received notification in compliance with the Pension Protection Fund (Provision of Information) Regulations 2005 or does so after the order is sought–
+>
+> - (a) that there is an assessment period in relation to his pension arrangement; or
+> - (b) that the Board of the Pension Protection Fund has assumed responsibility for all or part of his pension arrangement,
+>
+> he shall comply with paragraph (4).
+>
+> (4) The party shall–
+>
+> - (a) lodge the notification; and
+> - (b) obtain and lodge as soon as reasonably practicable thereafter–
+>   - (i) a valuation summary; and
+>   - (ii) a forecast of his compensation entitlement.
+>
+> (5) Subject to paragraph (6), the notification referred to in paragraph (4)(a) requires to be lodged–
+>
+> - (a) where the notification is received before the order is sought, within 7 days of the order being sought;
+> - (b) where the notification is received after the order is sought, within 7 days of receiving the notification.
+>
+> (6) Where an order is sought against the defender before the defences are lodged, and the notification is received before that step occurs, the notification shall be lodged with the defences.
+>
+> (7) At the same time as lodging documents under paragraph (4), copies shall be sent to the other party to the proceedings.
+
+.
+
+(3) After rule 33A.48[^f00014] insert–
+
+> **33A.48A. Pension Protection Fund notification**
+>
+> (1) In this rule–
+>
+> - “assessment period” shall be construed in accordance with section 132 of the Pensions Act 2004;
+> - “pension arrangement” shall be construed in accordance with the definition in section 27 of the Act of 1985; and
+> - “valuation summary” shall be construed in accordance with the definition in Schedule 2 to the Pension Protection Fund (Provision of Information) Regulations 2005.
+>
+> (2) This rule applies where a party at any stage in the proceedings applies for an order under section 8 or section 16 of the Act of 1985.
+>
+> (3) Where the party against whom an order referred to in paragraph (2) is sought has received notification in compliance with the Pension Protection Fund (Provision of Information) Regulations 2005 or does so after the order is sought–
+>
+> - (a) that there is an assessment period in relation to his pension arrangement; or
+> - (b) that the Board of the Pension Protection Fund has assumed responsibility for all or part of his pension arrangement,
+>
+> he shall comply with paragraph (4).
+>
+> (4) The party shall–
+>
+> - (a) lodge the notification; and
+> - (b) obtain and lodge as soon as reasonably practicable thereafter–
+>   - (i) a valuation summary; and
+>   - (ii) a forecast of his compensation entitlement.
+>
+> (5) Subject to paragraph (6), the notification referred to in paragraph (4)(a) requires to be lodged–
+>
+> - (a) where the notification is received before the order is sought, within 7 days of the order being sought;
+> - (b) where the notification is received after the order is sought, within 7 days of receiving the notification.
+>
+> (6) Where an order is sought against the defender before the defences are lodged, and the notification is received before that step occurs, the notification shall be lodged with the defences.
+>
+> (7) At the same time as lodging documents under paragraph (4), copies shall be sent to the other party to the proceedings.
+
+.
+
+## 4. Interventions in proceedings[^key-c4454442d3f7d6f5034c17007b503ef4]
+
+(1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
+
+(2)[^key-010fa23359d919f3f7ee49ef1339d2d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Chapter 44[^f00016]–
+
+- (a) after rule 44.1(2) there is inserted–
+
+  > (3) In this Chapter “the Commission” means the Commission for Equality and Human Rights.
+
+  .
+- (b) for rule 44.2 (relevant Commission) there is substituted–
+
+  > **44.2. Intimation to Commission**
+  >
+  > The pursuer shall send a copy of the initial writ to the Commission by registered or recorded delivery post.
+
+  .
+- (c) rule 44.4 (taxation of Commission expenses) is omitted.
+
+(4)[^key-757f899525505d904b90e587282e6f7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.[^key-26ee65a6f9260cb5456fa314df39fb8f]
+
+(1) The Summary Application Rules are amended in accordance with the following subparagraphs.
+
+(2)[^key-ccf1748149998e018d06d061eaa3c824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Part XXXIII (equality enactments)[^f00017]–
+
+- (a) after rule 3.33.1(3) (application and interpretation) insert–
+
+  > (4) In this Part “the Commission” means the Commission for Equality and Human Rights.
+
+  .
+- (b) for rule 3.33.2 (relevant Commission) substitute–
+
+  > **3.33.2. Intimation to Commission**
+  >
+  > The applicant shall, except where the applicant is the Commission, send a copy of the initial writ to the Commission by registered or recorded delivery post.
+
+  ;
+- (c) rule 3.33.4 (taxation of Commission expenses) is omitted.
+
+(4)[^key-66a2723ecabd5c4d9cda0926529c6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6.[^key-c5485005faabba69ecf4f6bea02ea2fb]
+
+(1) The Summary Cause Rules are amended in accordance with the following subparagraphs.
+
+(2)[^key-1ea49a37ec91ee968815420176bed355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Chapter 36 (equality enactments)[^f00018]–
+
+- (a) after rule 36.1(2) insert–
+
+  > (3) In this Chapter “the Commission” means the Commission for Equality and Human Rights.
+
+  ;
+- (b) for rule 36.2 (relevant Commission) substitute–
+
+  > **36.2. Intimation to Commission**
+  >
+  > The pursuer shall send a copy of the summons to the Commission by registered or recorded delivery post.
+
+  ;
+- (c) rule 36.4 (taxation of Commission expenses) is omitted.
+
+(4)[^key-9665e7284f7093e780ecad27672b6931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7.[^key-2f98e99c2e75964663dcfccd592b417f]
+
+(1) The Small Claim Rules are amended in accordance with the following subparagraphs.
+
+(2)[^key-d2199ec761875b968c31255e22a9c909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In Chapter 26 (equality enactments)[^f00020]–
+
+- (a) after rule 26.1(2) insert–
+
+  > (3) In this Chapter “the Commission” means the Commission for Equality and Human Rights.
+
+  .
+- (b) for rule 26.2 (relevant Commission) substitute–
+
+  > **26.2. Intimation to Commission**
+  >
+  > The pursuer shall send a copy of the summons to the Commission by registered or recorded delivery post.
+
+  ;
+- (c) rule 26.4 (taxation of Commission expenses) is omitted.
+
+(4)[^key-7d2f1ce66e2cfa47253515729592790f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Heritable summonses[^key-2ac701fe88ddb65c0bc0c79d83ae863b]
+
+After rule 30.8 of the Summary Cause Rules insert–
+
+> **30.9.** Where, in response to a summons for the recovery of heritable property which includes a claim for payment of money, a defender makes a written application about payment, he shall not thereby be taken to be admitting the claim for recovery of possession of the heritable property.
+
+.
+
+## 9. Council Regulation on insolvency proceedings[^key-7d9078e4ed574515e9f2da0fa4095f31]
+
+(1) The Judicial Factors Rules are amended in accordance with the following subparagraphs.
+
+(2) In rule 2(1) (interpretation)[^f00021]–
+
+- (a) after the definition of “the 1995 Act” insert–
+
+  > - the Council Regulation” means Council Regulation (E.C.) 1346/2000 of 29th May 2000 on insolvency proceedings as it may be amended from time to time[^f00022];
+
+  ; and
+- (b) after the definition of “Accountant” insert–
+
+  > - “centre of main interests” has the same meaning as in the Council Regulation;
+  > - “establishment” has the same meaning as in Article 2(h) of the Council Regulation;
+  > - “main proceedings” means proceedings opened in accordance with Article 3(1) of the Council Regulation and falling within the definition of insolvency proceedings in Article 2(a) of the Council Regulation and–
+  >   - (a) in relation to England and Wales, Scotland and Northern Ireland, set out in Annex A to the Council Regulation under the heading “United Kingdom”; and
+  >   - (b) in relation to another member State, set out in Annex A to the Council Regulation under the heading relating to that member State;
+  > - “member State” means a member State of the European Community that has adopted the Council Regulation;
+  > - “territorial proceedings” means proceedings opened in accordance with Article 3(2) and 3(4) of the Council Regulation and falling within the definition of insolvency proceedings in Article 2(a) of the Council Regulation and–
+  >   - (a) in relation to England and Wales, Scotland and Northern Ireland, set out in Annex A to the Council Regulation under the heading “United Kingdom”; and
+  >   - (b) in relation to another member State, set out in Annex A to the Council Regulation under the heading relating to that member State.
+
+  .
+
+(3) After rule 4 insert–
+
+> **4.A. Applications where grounds include insolvency**
+>
+> Where an application is for the appointment of a factor to an individual or estate that is insolvent the application shall contain averments in relation to jurisdiction under the Council Regulation, in particular stating, so far as known to the applicant–
+>
+> - (a) where the centre of main interests of the individual or estate is and whether the individual or estate has any other establishments in another member State; and
+> - (b) whether there are insolvency proceedings elsewhere and whether these proceedings are main or territorial proceedings.
+
+.
+
+## 10.[^key-005efa62fcf89587d1fdbb1d0fc4c812]
+
+(1) The Company Insolvency Rules are amended in accordance with the following subparagraphs.
+
+(2) In rule 3(1) (interpretation)[^f00023] after the definition of “the Act of 1986” insert–
+
+> - “the Council Regulation” means Council Regulation (E.C.) 1346/2000 of 29th May 2000 on insolvency proceedings as it may be amended from time to time;
+
+.
+
+(3) For rule 10(1)(h) (petitions for administration orders: averments)[^f00024] substitute–
+
+> - (h) jurisdiction under the Council Regulation, in particular stating, so far as known to the petitioner–
+>   - (i) where the centre of main interests of the company is and whether the company has any other establishments in another member State;
+>   - (ii) whether there are insolvency proceedings elsewhere in respect of the company and whether those proceedings are main or territorial proceedings; and
+
+.
+
+(4) After rule 18(1)(a) insert–
+
+> - (aa) averments in relation to jurisdiction under the Council Regulation, in particular stating, so far as known to the petitioner:–
+>   - (i) where the centre of main interests of the company is and whether the company has any other establishments in another member State;
+>   - (ii) whether there are insolvency proceedings elsewhere in respect of the company and whether those proceedings are main or territorial proceedings;
+
+.
+
+## 11. Commissions for examination of witnesses[^key-a5e76073984ecc60202df6e62b82569d]
+
+In rule 28.10 of the Ordinary Cause Rules (commissions for examinations of witnesses)[^f00025] after paragraph (2) insert–
+
+> (2A) A motion under paragraph (2) may include an application for authority to record the proceedings before the commissioner by video recorder:
+
+.
+
+## 12. Representation in certain sheriff court proceedings[^key-8096e3283bb8a62e01572f6e05b0166c]
+
+After rule 3 of the Company Insolvency Rules insert–
+
+> **3A. Representation**
+>
+> (1) A party may be represented by any person authorised under any enactment to conduct proceedings in the sheriff court in accordance with the terms of that enactment.
+>
+> (2) The person referred to in paragraph (1) may do everything for the preparation and conduct of the proceedings as may have been done by an individual conducting his own action.
+>
+> (3) For the purposes of this rule, “enactment” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish the Scottish Parliament.
+>
+> **3B. Expenses**
+>
+> A party who–
+>
+> - (a) is or has been represented by a person authorised under any enactment to conduct proceedings in the sheriff court; and
+> - (b) would have been found entitled to expenses if he had been represented by a solicitor or an advocate,
+>
+> may be awarded expenses or outlays to which a party litigant may be found entitled under the Litigants in Person (Cost and Expenses) Act 1975[^f00026] or under any enactment under that Act.
+
+.
+
+## 13.[^key-4dc57ba2a24505d23b94fae84018a320]
+
+After rule 2 of the Judicial Factors Rules insert–
+
+> **2A. Representation**
+>
+> (1) A party may be represented by any person authorised under any enactment to conduct proceedings in the sheriff court in accordance with the terms of that enactment.
+>
+> (2) The person referred to in paragraph (1) may do everything for the preparation and conduct of the proceedings as may have been done by an individual conducting his own action.
+>
+> (3) For the purposes of this rule, “enactment” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+>
+> **2B. Expenses**
+>
+> A party who–
+>
+> - (a) is or has been represented by a person authorised under any enactment to conduct proceedings in the sheriff court; and
+> - (b) would have been found entitled to expenses if he had been represented by a solicitor or an advocate,
+>
+> may be awarded expenses or outlays to which a party litigant may be found entitled under the Litigants in Person (Cost and Expenses) Act 1975 or under any enactment under that Act.
+
+.
+
+## 14. Other minor amendments[^key-52114e64000346c616038d08f7d9ccef]
+
+(1) The Summary Application Rules are amended in accordance with the following subparagraphs.
+
+(2) Rules 2.33 (representation) and 2.34 (expenses) of the Summary Application Rules (being the rules bearing those numbers inserted by paragraph 3(5) of the Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007)[^f00027] are renumbered 2.35 and 2.36 respectively.
+
+(3) Part II (betting and gaming appeals) of Chapter 3 of the Summary Application Rules (rules on applications under specific statutes) is omitted.
+
+(4) In Part XIX (Proceeds of Crime Act 2002)[^f00028], the heading “Civil recovery investigations”[^f00029] immediately following rule 3.19.20 (appeals against determination of outlays and remuneration)[^f00030] becomes “Civil recovery and detained cash investigations”.
+
+## 15.[^key-2c077f899a96f4ff89cda333520b5624]
+
+(1) The Act of Sederunt (Consumer Credit Act 1974) 1985[^f00031] is amended in accordance with the following subparagraphs.
+
+(2) In rule 2 (interpretation)[^f00032] for “1993” substitute “1999”.
+
+(3) In rule 5A (application for a time order)[^f00033]–
+
+- (a) for “or section 139” substitute “, section 139 or section 140B”; and
+- (b) for “rule 4(1)” substitute “rule 2.4(1)”.
+
+(4) But rule 5A as worded immediately prior to the amendment made by paragraph (3) shall continue to have effect for the purpose of the court’s power to reopen an agreement under section 139 of the Consumer Credit Act 1974[^f00034] as preserved by paragraph 15 of Schedule 3 to the Consumer Credit Act 2006[^f00035].
+
+(5) In rule 6(1) (claims against third parties in summary causes) for “rule 93 of the Act of Sederunt (Summary Cause Rules, Sheriff Court) 1976 (incidental applications)” substitute “rule 11 of the Act of Sederunt (Summary Cause Rules) 2002 (third party procedure)”.
+
+## 16.[^key-bba73bdf406f674a528f126e88cadfa8]
+
+In the Schedule to the Act of Sederunt (Child Support Rules) 1993[^f00036], in Form 7 (form of citation for summary application for commitment to prison or disqualification from driving)[^f00037] omit “**(INCLUDING ANY COUNTERPART TO THAT LICENCE)**”.
+
+A C HAMILTON
+
+Lord President I.P.D.
+
+Edinburgh
+
+3rd June 2008
+
+## SCHEDULE 1[^key-f8011c1efd94b574540880507f631d73]
+
+**No longer in force.**
+
+Paragraph 4(4)
+
+### FORM O7A — Form of minute of intervention by the Commission for Equality and Human Rights[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 13A.3(1)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_001)
+
+### FORM O7B — Form of minute of intervention by the Scottish Commission for Human Rights[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 13B.2(1)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_002)
+
+### FORM O7C — Invitation to the Scottish Commission for Human Rights to intervene[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 13B.3(1)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_003)
+
+## SCHEDULE 2[^key-f8011c1efd94b574540880507f631d73]
+
+**No longer in force.**
+
+Paragraph 5(4)
+
+### FORM 11AA — Form of minute of intervention by the Commission for Equality and Human Rights[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 2.37(3)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_004)
+
+### FORM 11AB — Form of minute of intervention by the Scottish Commission for Human Rights[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 2.39(2)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_005)
+
+### FORM 11AC — Invitation to the Scottish Commission for Human Rights to intervene[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 2.40(1)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_006)
+
+## SCHEDULE 3[^key-f8011c1efd94b574540880507f631d73]
+
+**No longer in force.**
+
+Paragraph 6(4)
+
+### FORM 23A — Form of minute of intervention by the Commission for Equality and Human Rights[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 14A.3(1)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_007)
+
+### FORM 23B — Form of minute of intervention by the Scottish Commission for Human Rights[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 14B.2(1)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_008)
+
+### FORM 23C — Invitation to the Scottish Commission for Human Rights to intervene[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 14B.3(1)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_009)
+
+## SCHEDULE 4[^key-f8011c1efd94b574540880507f631d73]
+
+**No longer in force.**
+
+Paragraph 7(4)
+
+### FORM 14A — Form of minute of intervention by the Commission for Equality and Human Rights[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 13A.3(1)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_010)
+
+### FORM 14B — Form of minute of intervention by the Scottish Commission for Human Rights[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 13B.2(1)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_011)
+
+### FORM 14C — Invitation to the Scottish Commission for Human Rights to intervene[^key-f8011c1efd94b574540880507f631d73]
+
+Rule 13B.3(1)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_012)
+
+(This note is not part of the Act of Sederunt)
+
+Paragraph 2 of this Act of Sederunt amends the Sheriff Court Ordinary Cause Rules in relation to late appearance in family and civil partnership actions. In each case, a rule is introduced whereby a defender who does not lodge a notice of intention to defend may subsequently participate in the proceedings or, if decree is granted, may apply for recall of the decree.
+
+Paragraph 3 inserts, into the Ordinary Cause Rules, new rules 33.51A and 33A.48A which apply where a party applies for specified orders under the Family Law (Scotland) Act 1985. These rules require a party who has received notification under the Pension Protection Fund (Provision of Information) Regulations 2005 to inform the other party within a specified time period and to lodge and send to that other party specified relevant documentation.
+
+Paragraphs 4, 5, 6 and 7 insert new Chapters 13A and 13B into the Ordinary Cause Rules, new rules 2.37 to 2.41 into the Summary Application Rules, new Chapters 14A and 14B into the Summary Cause Rules and new Chapters 13A and 13B into the Small Claim Rules to provide for the procedure in relation to the intervention in proceedings by the Commission for Equality and Human Rights and the Scottish Commission for Human Rights. Consequential amendments are also made to the rules in relation to claims under the equality enactments, including a provision requiring the intimation of such a claim to the Commission for Equality and Human Rights.
+
+Paragraph 8 amends the Summary Cause Rules to clarify that an application for time to pay in response to a summons for the recovery of heritable property which includes a claim for payment of money is not to be taken as an admission of the heritable claim.
+
+Paragraphs 9 and 10 amend the Judicial Factors Rules 1992 and the Sheriff Court Company Insolvency Rules 1986 to make provision in relation to Council Regulation (E.C.) No. 1346/2000 on insolvency proceedings.
+
+Paragraph 11 makes provision for an application for authority to make a video recording of proceedings before a commissioner appointed to take the evidence of a witness.
+
+Paragraphs 12 and 13 amend the Sheriff Court Company Insolvency Rules 1986 and the Judicial Factors Rules 1992 to make provision to allow a party to be represented by a person authorised under an enactment to conduct proceedings in the sheriff court and for the recovery of expenses by that party.
+
+Paragraph 14 makes several further amendments to the Summary Application Rules, including repeal of part II of Chapter 3.
+
+Paragraph 15 makes minor amendments to the Act of Sederunt (Consumer Credit Act 1974) 1985, updating references to the Summary Cause Rules and to the Consumer Credit Act 1974.
+
+Paragraph 16 amends the Child Support Rules 1993 removing the requirement on an offender to provide any counterpart driving licence, as a consequence of changes made by the Road Safety Act 2007.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58); section 32 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73), Schedule 2, paragraph 12, the Civil Evidence (Scotland) Act [1988 (c. 32)](https://www.legislation.gov.uk/ukpga/1988/32), section 2(4), the Children (Scotland) Act [1995 (c. 36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 18(2), the [Adults with Incapacity (Scotland) Act 2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), Schedule 5, paragraph 13, the [Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), section 43 and the [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(2), and was extended by the Child Support Act [1991 (c. 48)](https://www.legislation.gov.uk/ukpga/1991/48), sections 39(2) and 49.
+
+[^f00002]: Footnote: [2006 asp 16](https://www.legislation.gov.uk/asp/2006/16).
+
+[^f00003]: Footnote: [1880 c. 4](https://www.legislation.gov.uk/ukpga/1880/4).
+
+[^f00004]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^key-00d2ab121544315888e1f99570f9a8d3]: Commencement: Para. 1 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^f00005]: Footnote: [1907 c. 51](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by S.I. [1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and amended by S.I. [1996/2167](https://www.legislation.gov.uk/uksi/1996/2167) and [2445](https://www.legislation.gov.uk/uksi/1996/2445), [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239) and [408](https://www.legislation.gov.uk/ssi/2000/408), [2001/8](https://www.legislation.gov.uk/ssi/2001/8) and [144](https://www.legislation.gov.uk/ssi/2001/144), [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [128](https://www.legislation.gov.uk/ssi/2002/128) and [560](https://www.legislation.gov.uk/ssi/2002/560), [2003/25](https://www.legislation.gov.uk/ssi/2003/25) and [26](https://www.legislation.gov.uk/ssi/2003/26), [2004/197](https://www.legislation.gov.uk/ssi/2004/197) and [350](https://www.legislation.gov.uk/ssi/2004/350), [2005/20](https://www.legislation.gov.uk/ssi/2005/20), [189](https://www.legislation.gov.uk/ssi/2005/189), [638](https://www.legislation.gov.uk/ssi/2005/638) and [648](https://www.legislation.gov.uk/ssi/2005/648) and [2006/207](https://www.legislation.gov.uk/ssi/2006/207), [293](https://www.legislation.gov.uk/ssi/2006/293), [410](https://www.legislation.gov.uk/ssi/2006/410) and [509](https://www.legislation.gov.uk/ssi/2006/509) and [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463).
+
+[^f00006]: Footnote: S.I. [1999/929](https://www.legislation.gov.uk/uksi/1999/929), amended by [S.S.I. 2000/18](https://www.legislation.gov.uk/ssi/2000/18) and [387](https://www.legislation.gov.uk/ssi/2000/387), [2001/142](https://www.legislation.gov.uk/ssi/2001/142), [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [129](https://www.legislation.gov.uk/ssi/2002/129), [130](https://www.legislation.gov.uk/ssi/2002/130), [146](https://www.legislation.gov.uk/ssi/2002/146) and [583](https://www.legislation.gov.uk/ssi/2002/583), [2003/26](https://www.legislation.gov.uk/ssi/2003/26), [27](https://www.legislation.gov.uk/ssi/2003/27), [98](https://www.legislation.gov.uk/ssi/2003/98), [261](https://www.legislation.gov.uk/ssi/2003/261), [319](https://www.legislation.gov.uk/ssi/2003/319), [346](https://www.legislation.gov.uk/ssi/2003/346) and [556](https://www.legislation.gov.uk/ssi/2003/556), [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [222](https://www.legislation.gov.uk/ssi/2004/222), [334](https://www.legislation.gov.uk/ssi/2004/334) and [455](https://www.legislation.gov.uk/ssi/2004/455), [2005/61](https://www.legislation.gov.uk/ssi/2005/61), [473](https://www.legislation.gov.uk/ssi/2005/473), [504](https://www.legislation.gov.uk/ssi/2005/504) and [648](https://www.legislation.gov.uk/ssi/2005/648), [2006/410](https://www.legislation.gov.uk/ssi/2006/410), [437](https://www.legislation.gov.uk/ssi/2006/437) and [509](https://www.legislation.gov.uk/ssi/2006/509), [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [233](https://www.legislation.gov.uk/ssi/2007/233), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463) and [2008/9](https://www.legislation.gov.uk/ssi/2008/9), [41](https://www.legislation.gov.uk/ssi/2008/41) and [111](https://www.legislation.gov.uk/ssi/2008/111).
+
+[^f00007]: Footnote: [S.S.I. 2002/132](https://www.legislation.gov.uk/ssi/2002/132), amended by [S.S.I. 2002/516](https://www.legislation.gov.uk/ssi/2002/516), [2003/216](https://www.legislation.gov.uk/ssi/2003/216), [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [2005/648](https://www.legislation.gov.uk/ssi/2005/648), [2006/509](https://www.legislation.gov.uk/ssi/2006/509), [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463).
+
+[^f00008]: Footnote: [S.S.I. 2002/133](https://www.legislation.gov.uk/ssi/2002/133), amended by [S.S.I. 2003/26](https://www.legislation.gov.uk/ssi/2003/26), [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [2005/648](https://www.legislation.gov.uk/ssi/2005/648), [2006/509](https://www.legislation.gov.uk/ssi/2006/509), [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463).
+
+[^f00009]: Footnote: S.I. [1992/272](https://www.legislation.gov.uk/uksi/1992/272), amended by S.I. [1994/2354](https://www.legislation.gov.uk/uksi/1994/2354), [1996/2767](https://www.legislation.gov.uk/uksi/1996/2767) and [1997/206](https://www.legislation.gov.uk/uksi/1997/206) and [2533](https://www.legislation.gov.uk/uksi/1997/2533).
+
+[^f00010]: Footnote: S.I. [1986/2297](https://www.legislation.gov.uk/uksi/1986/2297) amended by [S.S.I. 2003/388](https://www.legislation.gov.uk/ssi/2003/388), [2006/198](https://www.legislation.gov.uk/ssi/2006/198) and [200](https://www.legislation.gov.uk/ssi/2006/200) and [2007/464](https://www.legislation.gov.uk/ssi/2007/464).
+
+[^key-bc8ff5f9b71ec37e100d5ebdd9a49178]: Commencement: Para. 2 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^f00011]: Footnote: Rule 33A.37 was inserted by [S.S.I. 2005/638](https://www.legislation.gov.uk/ssi/2005/638) and amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^key-95b2c8cc45b49340ba7c414a14c67c01]: Commencement: Para. 3 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^f00012]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
+
+[^f00013]: Footnote: S.I. [2005/674](https://www.legislation.gov.uk/uksi/2005/674).
+
+[^f00014]: Footnote: Rule 33A.48 was inserted by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
+
+[^key-c4454442d3f7d6f5034c17007b503ef4]: Commencement: Para. 4 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^key-010fa23359d919f3f7ee49ef1339d2d7]: Textual amendment: Para. 4(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+
+[^f00016]: Footnote: Chapter 44 was inserted by [S.S.I. 2006/509](https://www.legislation.gov.uk/ssi/2006/509) and was amended by [S.S.I. 2007/339](https://www.legislation.gov.uk/ssi/2007/339).
+
+[^key-757f899525505d904b90e587282e6f7b]: Textual amendment: Para. 4(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+
+[^key-26ee65a6f9260cb5456fa314df39fb8f]: Commencement: Para. 5 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^key-ccf1748149998e018d06d061eaa3c824]: Textual amendment: Para. 5(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+
+[^f00017]: Footnote: Part XXXIII was inserted by [S.S.I. 2006/509](https://www.legislation.gov.uk/ssi/2006/509) and was amended by [S.S.I. 2007/339](https://www.legislation.gov.uk/ssi/2007/339).
+
+[^key-66a2723ecabd5c4d9cda0926529c6655]: Textual amendment: Para. 5(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+
+[^key-c5485005faabba69ecf4f6bea02ea2fb]: Commencement: Para. 6 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^key-1ea49a37ec91ee968815420176bed355]: Textual amendment: Para. 6(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+
+[^f00018]: Footnote: Chapter 36 was inserted by [S.S.I. 2006/509](https://www.legislation.gov.uk/ssi/2006/509) and was amended by [S.S.I. 2007/339](https://www.legislation.gov.uk/ssi/2007/339).
+
+[^key-9665e7284f7093e780ecad27672b6931]: Textual amendment: Para. 6(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+
+[^key-2f98e99c2e75964663dcfccd592b417f]: Commencement: Para. 7 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^key-d2199ec761875b968c31255e22a9c909]: Textual amendment: Para. 7(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+
+[^f00020]: Footnote: Chapter 26 was inserted by [S.S.I. 2006/509](https://www.legislation.gov.uk/ssi/2006/509) and was amended by [S.S.I. 2007/339](https://www.legislation.gov.uk/ssi/2007/339).
+
+[^key-7d2f1ce66e2cfa47253515729592790f]: Textual amendment: Para. 7(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+
+[^key-2ac701fe88ddb65c0bc0c79d83ae863b]: Commencement: Para. 8 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^key-7d9078e4ed574515e9f2da0fa4095f31]: Commencement: Para. 9 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^f00021]: Footnote: Rule 2 was amended by S.I. [1997/206](https://www.legislation.gov.uk/uksi/1997/206).
+
+[^f00022]: Footnote: O.J. L 160, 30/06/2000 P. 0001-0018.
+
+[^key-005efa62fcf89587d1fdbb1d0fc4c812]: Commencement: Para. 10 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^f00023]: Footnote: Rule 3(1) was amended by [S.S.I. 2006/200](https://www.legislation.gov.uk/ssi/2006/200).
+
+[^f00024]: Footnote: Rule 10 was amended by [S.S.I. 2003/388](https://www.legislation.gov.uk/ssi/2003/388).
+
+[^key-a5e76073984ecc60202df6e62b82569d]: Commencement: Para. 11 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^f00025]: Footnote: Rule 28.10 was amended by [SI 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445).
+
+[^key-8096e3283bb8a62e01572f6e05b0166c]: Commencement: Para. 12 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^f00026]: Footnote: [1975 c. 47](https://www.legislation.gov.uk/ukpga/1975/47).
+
+[^key-4dc57ba2a24505d23b94fae84018a320]: Commencement: Para. 13 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^key-52114e64000346c616038d08f7d9ccef]: Commencement: Para. 14 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^f00027]: Footnote: [S.S.I. 2007/6](https://www.legislation.gov.uk/ssi/2007/6).
+
+[^f00028]: Footnote: Part XIX was inserted by [S.S.I. 2002/563](https://www.legislation.gov.uk/ssi/2002/563).
+
+[^f00029]: Footnote: The heading “civil recovery investigations” was inserted by [S.S.I. 2003/27](https://www.legislation.gov.uk/ssi/2003/27).
+
+[^f00030]: Footnote: Rule 3.19.20 was inserted by [S.S.I. 2003/27](https://www.legislation.gov.uk/ssi/2003/27).
+
+[^key-2c077f899a96f4ff89cda333520b5624]: Commencement: Para. 15 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^f00031]: Footnote: S.I. [1985/705](https://www.legislation.gov.uk/uksi/1985/705), amended by S.I. [1995/1877](https://www.legislation.gov.uk/uksi/1995/1877).
+
+[^f00032]: Footnote: Rule 2 was amended by S.I. [1995/1877](https://www.legislation.gov.uk/uksi/1995/1877).
+
+[^f00033]: Footnote: Rule 5A was inserted by S.I. [1995/1877](https://www.legislation.gov.uk/uksi/1995/1877).
+
+[^f00034]: Footnote: [1974, c. 39](https://www.legislation.gov.uk/ukpga/1974/39); section 139 was amended by S.I. [1991/724](https://www.legislation.gov.uk/uksi/1991/724) and [S.R. 1993/282](https://www.legislation.gov.uk/nisr/1993/282).
+
+[^f00035]: Footnote: [2006 c. 14](https://www.legislation.gov.uk/ukpga/2006/14).
+
+[^key-bba73bdf406f674a528f126e88cadfa8]: Commencement: Para. 16 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+
+[^f00036]: Footnote: S.I. [1993/920](https://www.legislation.gov.uk/uksi/1993/920), amended by [S.S.I. 2001/143](https://www.legislation.gov.uk/ssi/2001/143).
+
+[^f00037]: Footnote: Form 7 was inserted by [S.S.I. 2001/143](https://www.legislation.gov.uk/ssi/2001/143).
+
+[^key-f8011c1efd94b574540880507f631d73]: Textual amendment: [Schs. 1-4](https://www.legislation.gov.uk/ssi/2008/223/schedule/1) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)

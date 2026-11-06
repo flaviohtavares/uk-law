@@ -1,0 +1,48 @@
+---
+title: Water Resources (Scotland) Act 2013, section 12
+act: Water Resources (Scotland) Act 2013
+section: '12'
+status: not-yet-in-force
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2013/5/section/12
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Water Resources (Scotland) Act 2013, section 12
+
+> This provision is not yet in force.
+>
+> Extent: Scotland.
+
+## 12. Conditions of approval
+
+*Extent: S*
+
+**Not yet in force.**
+
+(1) If the Scottish Ministers approve a qualifying abstraction, they may—
+
+- (a) specify the period for which their approval has effect,
+- (b) attach conditions to their approval.
+
+(2) Conditions under subsection (1)(b) may—
+
+- (a) impose restrictions on—
+  - (i) the rate at which water may be abstracted (above the relevant threshold),
+  - (ii) the purposes for which the water may be used,
+- (b) require that particular steps be taken in relation to the abstraction or any associated operations,
+- (c) relate to compensation for any adverse impact of a specific kind caused by the abstraction,
+- (d) concern such other matters as the Scottish Ministers consider to be relevant.
+
+(3) It is the holder who is subject to any conditions attached under subsection (1)(b).
+
+(4) Except with the Scottish Ministers' prior consent, their approval of a qualifying abstraction is not transferable by the holder to another person.
+
+(5) After consulting the holder, the Scottish Ministers may—
+
+- (a) under subsection (1)(a), extend any period specified under that subsection,
+- (b) under subsection (1)(b)—
+  - (i) vary or remove any conditions attached to their approval, or
+  - (ii) attach new conditions to their approval.

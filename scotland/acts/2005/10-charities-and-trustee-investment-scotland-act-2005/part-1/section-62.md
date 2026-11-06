@@ -1,0 +1,45 @@
+---
+title: Charities and Trustee Investment (Scotland) Act 2005, section 62
+act: Charities and Trustee Investment (Scotland) Act 2005
+section: '62'
+status: revised-with-pending-changes
+text_date: '2026-03-05'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2005/10/section/62
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities and Trustee Investment (Scotland) Act 2005, section 62
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/asp/2005/10
+>
+> Extent: Scotland.
+
+## 62. Third parties[^key-0700b191f498c8b2fe1acf613119bde2]
+
+*Extent: S*
+
+(1) A person dealing with a SCIO in good faith and for value is not concerned to inquire whether—
+
+- (a) anything in the SCIO's constitution prevents it acting in the way that it is, or
+- (b) any constitutional limitations on the powers of the SCIO's charity trustees prevent them from binding the SCIO or authorising others to do so.
+
+(2) Nothing in subsection (1) prevents a person from bringing proceedings for interdict in respect of the doing of an act which—
+
+- (a) the SCIO, because of anything in its constitution, does not have power to do, or
+- (b) the SCIO's charity trustees, because of any constitutional limitations on their powers, do not have power to do.
+
+(3) But no such proceedings may be brought in respect of an act to be done in fulfilment of a legal obligation arising from a previous act of the SCIO.
+
+(4) Subsection (3) does not prevent OSCR from exercising any of its powers.
+
+(5) Nothing in subsection (1)(b) affects any liability incurred by the SCIO's charity trustees (or any of them) for doing anything which, because of any constitutional limitations on their powers, the trustees (or that trustee) do not have power to do.
+
+(6) Nothing in subsection (1) absolves the SCIO's charity trustees from their duty to act within the SCIO's constitution and in accordance with any constitutional limitations on their powers.
+
+(7) In this section “constitutional limitations” on the powers of a SCIO's charity trustees are limitations on their powers under its constitution, including limitations deriving from a resolution of the SCIO in general meeting, or from an agreement between the SCIO's members.
+
+## Annotations
+
+[^key-0700b191f498c8b2fe1acf613119bde2]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2005/10/section/62) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(f)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/f)

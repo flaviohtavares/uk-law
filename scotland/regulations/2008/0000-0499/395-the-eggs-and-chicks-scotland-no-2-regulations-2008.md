@@ -1,0 +1,864 @@
+---
+title: The Eggs and Chicks (Scotland) (No. 2) Regulations 2008
+id: ssi/2008/395
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-11-26'
+text_date: '2026-02-14'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2008/395
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2008/395/pdfs/ssien_20080395_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/395/pdfs/ssi_20080395_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/395/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Eggs and Chicks (Scotland) (No. 2) Regulations 2008
+
+> Text as at 2026-02-14.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2008 No. 395
+
+FOOD
+
+The Eggs and Chicks (Scotland) (No. 2) Regulations 2008
+
+Made
+
+26th November 2008
+
+Laid before the Scottish Parliament
+
+27th November 2008
+
+Coming into force
+
+19th December 2008
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c19503131], and by sections 6(4), 16(1), 17, 26(2) and (3) and 48(1) of the Food Safety Act 1990 [^c19503141], and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act, and it appears to the Scottish Ministers that it is expedient for the references in regulation 2(1) of these Regulations to certain Community instruments to be references to those instruments as amended from time to time.
+
+To the extent that these Regulations are made in exercise of powers under the 1990 Act, the Scottish Ministers have had regard to relevant advice given by the Food Standards Agency as required by section 48(4A) [^c19503151] of that Act.
+
+The Scottish Ministers have carried out consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c19503161].
+
+## PART 1 — General
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Eggs and Chicks (Scotland) (No. 2) Regulations 2008.
+
+(2) These Regulations come into force on 19th December 2008.
+
+(3) These Regulations extend to Scotland only.
+
+### 2. Interpretation
+
+(1) In these Regulations–
+
+- “**the Act**” means the Food Safety Act 1990;
+- “**authorised officer**” means any person who has written authority from an enforcement authority to act in matters arising under or in relation to the Act or these Regulations;
+- “**breeding establishment**” has the meaning given by Article 1(3)(b) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617);
+- “**chicks**” has the meaning given by Article 1(2) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617);
+- “**Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617)**” means Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617) laying down detailed rules for implementing Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards marketing standards for eggs for hatching and farmyard poultry chicks [^c19503191], as amended from time to time;
+- “**Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589)**” means Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) laying down detailed rules for implementing Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards marketing standards for eggs [^c19503201], as amended from time to time;
+- “**Single CMO Regulation**” means Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) [^c19503211], as amended from time to time;
+- [^key-c95dce671f174257eea0856492ba2245]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “Council Regulation 2013” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations[^key-31f815fbfe295f4a439cdf92a74bf0a3] [(EEC) No 922/72](https://www.legislation.gov.uk/eur/1972/0922), (EEC) No 234/79, [(EC) No 1037/2001](https://www.legislation.gov.uk/eur/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) , as amended from time to time,
+- [^key-eab96cacef2606ceda816b1887737a4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “[^key-0807969ee865edf546a955c52becabac]**eggs**”—
+  - (a) has the meaning given by sub-paragraph (k) of the second paragraph of Article 1 of Commission Regulation (EC) No. 589/2008 in the definition of “Commission Regulation (EC) No. 589/2008” in this regulation, regulations 3(1)(b), (2)(b) and (c), Part 3, regulations 13, 15 and 17(2)(b) and Schedule 2 to these Regulations; and
+  - (b) means eggs to which Regulation (EC) No. 2160/2003 applies as read with the exception in Article 1(3) of Regulation (EC) No. 2160/2003 in regulation 3(1)(c), Part 3A, regulation 13A, 15A and Schedule 2A to these Regulations;
+- “**eggs for hatching**” has the meaning given by Article 1(1) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617);
+- “**enforcement authority**” means an authority exercising a function conferred on it by regulation 15 or 15A[^key-838a735fd0fe8eb08826b70fd0a40104];
+- “**final consumer**” has the meaning given by sub paragraph (r) of the second paragraph of Article 1 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589);
+- “**food authority**” has the same meaning as in section 5(2) [^c19503241] of the Act;
+- “**hatchery**” has the meaning given by Article 1(3)(c) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617);
+- “**packing centre**” has the meaning given by sub paragraph (q) of the second paragraph of Article 1 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589);
+- “**pedigree breeding establishment**” has the meaning given by Article 1(3)(a) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617); and
+- “**production site**” has the meaning given by sub paragraph (p) of the second paragraph of Article 1 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589).
+- “[^key-6ca67573e9b42438fecc6181a483e549]**Regulation (EC) No. 2160/2003**” means Regulation (EC) No. 2160/2003 of the European Parliament and of the Council on the control of salmonella and other specified food-borne zoonotic agents , as last amended by Council Regulation (EU) No 517/2013[^key-278dcfaac5fa4876153075423f825756];
+- “[^key-7540656eeb7bd0914dcb4a2b61a30241]**Regulation (EU) No 1169/2011**” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/eudr/1987/250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/eudr/1990/496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/eudr/1999/10), Directive [2000/13/EC](https://www.legislation.gov.uk/eudr/2000/13) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) and [2008/5/EC](https://www.legislation.gov.uk/eudr/2008/5) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/eur/2004/608) [^key-1271fbb7e88933504a28fd481b2e907e]... , as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council[^key-6dfb00346f3d926b333cf8f2999204e1].
+- “[^key-8b7d3715ea7f27aa9e6f0d542f02390f]**the Scottish welfare regulations**” means the Welfare of Farmed Animals (Scotland) Regulations 2010, and
+- “**third country**” means any country or territory other than—
+  - (i) the United Kingdom,
+  - (ii) the Bailiwick of Guernsey,
+  - (iii) the Bailiwick of Jersey, and
+  - (iv) the Isle of Man.
+
+(2) Any expression not defined in paragraph (1) and used in Part 2 of, or Schedule 1 to, these Regulations, and in Part C of Annex XIV to the Single CMO Regulation has the same meaning in those provisions of these Regulations as it does in the Single CMO Regulation.
+
+(3) Any expression not defined in paragraph (1) and used in regulation 3(2) or Part 3 of, or Schedule 2 to, these Regulations and in Part VI of Annex[^key-ce3b2ff6f7b597c7d785154b1a8469c5] VII to Council Regulation 2013 or Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589), has the same meaning in those provisions of these Regulations as it does in the EC Regulation in which it is used.
+
+(4) Any reference to a contravention of or failure to comply with any provision mentioned in Schedule 1 means a contravention or failure to comply with any provision of–
+
+- (a) the Single CMO Regulation mentioned in column 1 of Part 1 of Schedule 1, as read with any provision mentioned in any corresponding entry in column 2 of that Part; or
+- (b) Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617) mentioned in column 1 of Part 2 of Schedule 1, as read with any provision mentioned in any corresponding entry in column 2 of that Part [^key-6b1754243028dd118bfee8af03ece51f]... or the Council Regulation 2013 mentioned in column 1 of Part 1 of Schedule 1, as read with any provision mentioned in any corresponding entry in column 2 of that Part;[^key-b0817b5bb1745b6a53b0cb5c6f72864e]
+
+(5) Any reference to a contravention of or failure to comply with any provision mentioned in Schedule 2 means a contravention of or failure to comply with any provision of–
+
+- (a) the Council Regulation 2013[^key-c400911b5e83fcca637226c7c72d216f] mentioned in column 1 of Part 1 of Schedule 2, as read with any provision mentioned in any corresponding entry in column 2 of that Part; or
+- (b) Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) mentioned in column 1 of Part 2 of Schedule 2, as read with any provision mentioned in any corresponding entry in column 2 of that Part.
+
+(6)[^key-ddac7f60ea995b24456f5de1e77df4f7] Any reference to a contravention of or failure to comply with any provision mentioned in Schedule 2A means a contravention of or failure to comply with any provision of Regulation (EC) No. 2160/2003 mentioned in column 1 of Schedule 2A.
+
+### 3. Products to which these Regulations apply
+
+(1) These Regulations apply to–
+
+- (a) eggs for hatching and chicks to which point I(1) of Part C of Annex XIV to the Single CMO Regulation and Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) apply; and
+- (b) eggs to which point I(1) of Part VI of Annex[^key-76455b941ebdbfc7e0551733df2c6605] VII to Council Regulation 2013 and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply (eggs in shell for consumption produced by hens of the species *Gallas gallas*).
+- (c)[^key-07119af3b322f48c64028af06374c409] eggs to which Regulation (EC) No. 2160/2003 applies as read with the exception in Article 1(3) of Regulation (EC) No. 2160/2003.
+
+(2) But Parts 2 and 3 of these Regulations do not apply to[^key-4299239b53029e8de7fac4e1808067a5]–
+
+- (a) establishments and hatcheries of the type mentioned in point I(2) of Part C of Annex XIV to the Single CMO Regulation;
+- (b) the sale of eggs to which point I(1) of Part VI of Annex[^key-7ed61fe604ab8935c0bc59cca2d8ff40] VII to Council Regulation 2013 and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply, where the eggs are sold, without any quality or weight grading, directly to the final consumer by the producer–
+  - (i) on the production site; or
+  - (ii) by door to door selling in the region of production; or
+- (c)[^key-607af08cacd7b2dc71f44e6becff2634] except in so far as they relate to the requirement imposed by point III(3) of Part VI of Annex VII to Council Regulation 2013, the sale of eggs to which point I(1) of Part VI of Annex VII to that Regulation and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) apply, where the eggs are sold, without any quality or weight grading, directly to the final consumer by the producer in a local public market in the region of production.
+
+(3) In paragraph (2)(b)(ii) “**door to door selling**” means a sale which is made during an unsolicited visit by a producer to the home of the final consumer, or to the home of another person, or to the place of work of the final consumer.
+
+## PART 2 — Eggs for hatching and chicks
+
+### 4. Compliance with ... provisions on eggs for hatching and chicks[^key-7308e8530d47a8c8f5a9a54763311308]
+
+Any person who contravenes, or fails to comply with, any provision mentioned in Schedule 1 commits an offence.
+
+### 5. Registration of establishments
+
+(1) The Scottish Ministers are designated as the competent authority[^key-71dd47ee0a4665b81e2be67fa76e3f93] for the purpose of Article 2(1) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) (registration of pedigree breeding establishments, breeding establishments and hatcheries).
+
+(2) Where an application is made to the Scottish Ministers pursuant to Article 2(1) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617), they must notify the applicant in writing of the matters specified in paragraph (3) within 28 days.
+
+(3) The specified matters for the purpose of paragraph (2) are–
+
+- (a) the decision of the Scottish Ministers on the application;
+- (b) the reasons for any refusal to grant the application; and
+- (c) in the case of any refusal to grant the application, the right of appeal conferred by regulation 17.
+
+(4) Where the Scottish Ministers decide to withdraw a registration of an establishment because of a contravention of or failure to comply with any provision mentioned in Schedule 1, they must notify the person carrying on business at the establishment in writing of the matters specified in paragraph (5) within 28 days.
+
+(5) The specified matters for the purpose of paragraph (4) are–
+
+- (a) the decision of the Scottish Ministers to withdraw the registration;
+- (b) the date on which the withdrawal of the registration is to take effect;
+- (c) the reasons for the withdrawal; and
+- (d) the right of appeal conferred by regulation 17.
+
+(6) For the purposes of calculating the 28 day time limit specified in paragraph (2) no account is to be taken of any period–
+
+- (a) during which the Scottish Ministers request an applicant to provide further data and the data have not been provided;
+- (b) that the applicant is given–
+  - (i) to provide oral or written explanations; or
+  - (ii) to comply with any requirement laid down in Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617).
+
+(7) In this regulation anything to be done in writing–
+
+- (a) may be done by an electronic communication within the meaning of the Electronic Communications Act 2000 [^c19503251] if it is recorded and is subsequently capable of being reproduced;
+- (b) must only, unless it is an application under paragraph (2), be sent to a person as an electronic communication if that person has consented to the use of that method of communication;
+- (c) if done by electronic communication shall be regarded as sent when the text of it is received in legible form.
+
+### 6. Derogation relating to the marking of eggs for hatching
+
+Eggs for hatching may be marked in a different manner from that specified in Article 3(2) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) if the marking–
+
+- (a) is in black, indelible, clearly visible and at least 10mm2; and
+- (b) is carried out prior to insertion into the incubator, either at the producer establishment or at a hatchery.
+
+## PART 3 — Eggs in shell for consumption
+
+### 7. Compliance with ... provisions on eggs in shell for consumption[^key-28152adb2a0ad992da15a9252557b86e]
+
+Any person who contravenes, or fails to comply with, any provision mentioned in Schedule 2 commits an offence.
+
+### 8. Authorisation of packing centres to grade eggs
+
+(1) The Scottish Ministers are designated as the competent authority for the purpose of the first sub paragraph of Article 5(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) (authorisation of undertakings as packing centres to grade eggs).
+
+(2) Where an application is made to the Scottish Ministers under the first sub paragraph of Article 5(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) to authorise an undertaking as a packing centre to grade eggs, they must notify the applicant in writing of the matters specified in paragraph (3) within 28 days.
+
+(3) The specified matters for the purpose of paragraph (2) are–
+
+- (a) the decision of the Scottish Ministers on the application;
+- (b) the reasons for any refusal to grant an authorisation; and
+- (c) in the case of any refusal to grant an authorisation, the right of appeal conferred by regulation 17.
+
+(4) Where the Scottish Ministers decide to withdraw an authorisation of a packing centre to grade eggs because of a contravention of or failure to comply with any of the requirements mentioned in the first sub paragraph of Article 5(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), they must notify the person carrying on business at the packing centre in writing of the matters specified in paragraph (5) within 28 days.
+
+(5) The specified matters for the purpose of paragraph (4) are–
+
+- (a) the decision of the Scottish Ministers to withdraw the authorisation;
+- (b) the date on which the withdrawal of the authorisation is to take effect;
+- (c) the reasons for the withdrawal; and
+- (d) the right of appeal conferred by regulation 17.
+
+(6) For the purposes of calculating the 28 day time limit specified in paragraph (2) no account is to be taken of any period–
+
+- (a) during which the Scottish Ministers request an applicant to provide further data and the data have not been provided; or
+- (b) any period that the applicant is given–
+  - (i) to provide oral or written explanations; or
+  - (ii) to comply with any requirements laid down in the first sub paragraph of Article 5(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589).
+
+(7) In this regulation anything to be done in writing–
+
+- (a) may be done by an electronic communication within the meaning of the Electronic Communications Act 2000 if it is recorded and is subsequently capable of being reproduced;
+- (b) must only, unless it is an application under paragraph (2), be sent to a person as an electronic communication if that person has consented to the use of that method of communication;
+- (c) if done by electronic communication shall be regarded as sent when the text of it is received in legible form.
+
+### 9. Derogations relating to the marking of eggs
+
+(1) The provisions in the second sub paragraph of point III(1) of Part VI of Annex[^key-869182e058199f722304d9790d98478b] VII to Council Regulation 2013 (requiring class B eggs to be marked) shall not apply where class B eggs are to be marketed in Great Britain[^key-a15af439f7830b6db117bda9411000b8].
+
+(2) The provisions in the first sub paragraph of point III(3) of Part VI of Annex[^key-4886850cb37bf05bba63e8545df3a32b] VII to Council Regulation 2013 (requiring eggs sold by a producer to a final consumer in a local public market in the region of production to be marked with the producer code and/or with another indication in accordance with point III(1) of Part VI of Annex[^key-b21c04bcac6c9d95eba399d7d0fb1ed5] VII to Council Regulation 2013) shall not apply where a producer has no more than 50 laying hens if the name and address of the producer are indicated at the point of sale.
+
+(3)[^key-1cfaceb7146fe60ff9b2dea024fc4198] But paragraphs (1) and (2) do not apply to eggs that must be considered as class B eggs by virtue of paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation (EC) No. 2160/2003.
+
+### 10. Livestock grazing on open-air runs
+
+(1) The Scottish Ministers are designated as the competent authority for the purpose of point 1(b) of Annex II to Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) (use of open air runs to which hens have access).
+
+(2) For the purpose of point 1 of Annex II to Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) (setting down the minimum requirements that need to be met in order for eggs to be marketed as “free range eggs”) livestock grazing is authorised on open air runs to which egg producing hens have access.
+
+### 11. Derogation relating to free-range eggs
+
+(1) By way of derogation from the provisions of point 1 of Annex II to Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), eggs to which paragraph (2) applies may be marketed as free range eggs although they have been produced in a system of production that does not comply with any one or more of the conditions specified in paragraph (3).
+
+(2) This paragraph applies to eggs produced in an establishment with fewer than 350 laying hens or rearing breeding laying hens at the time the eggs are produced.
+
+(3) The following conditions of schedule 3 of the Scottish welfare regulations[^key-c8377a1d20d055375c147273187df5da] are specified for the purpose of paragraph (1)–
+
+- (a)[^key-44fdb5f122c67bf13a896960e7f9fbe8] the second and third conditions of paragraph 17(d),
+- (b) paragraph 17(e),
+- (c) paragraph 18,
+- (d) paragraph 19(a)(i), and
+- (e) paragraph 19(b)(i).
+
+### 12. Derogation relating to barn eggs
+
+(1) By way of derogation from the provisions of point 2 of Annex II to Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), eggs to which paragraph (2) applies may be marketed as barn eggs although they have been produced in a system of production that does not comply with any one or more of the conditions specified in paragraph (3).
+
+(2) This paragraph applies to eggs produced in an establishment with fewer than 350 laying hens or rearing breeding laying hens at the time the eggs are produced.
+
+(3) The following conditions of schedule 3 of the Scottish welfare regulations[^key-c18e0a73fed61e789f171d98ccb3215c] are specified for the purpose of paragraph (1)–
+
+- (a)[^key-98602ba746818f99124c8613cf220383] the second and third conditions of paragraph 17(d),
+- (b) paragraph 17(e),
+- (c) paragraph 18,
+- (d) paragraph 19(a)(i), and
+- (e) paragraph 19(b)(i).
+
+## PART 3A — Eggs in shell for consumption: salmonella control related requirements[^key-fedeb37e5fdc77b18f15f080e7eeeb3d]
+
+### 12A. Compliance with ... provisions[^key-9f80b3d787c7c9bb3655e6452bd85535]
+
+Any person who contravenes, or fails to comply with, any provision mentioned in Schedule 2A commits an offence.
+
+## PART 4 — Enforcement, miscellaneous and supplemental provisions
+
+### 13. Powers of authorised officers
+
+(1) An authorised officer may direct any person to leave undisturbed for so long as is reasonably necessary for the purpose of any examination or investigation any–
+
+- (a) eggs;
+- (b) eggs for hatching or chicks;
+- (c) packs or other containers for eggs, eggs for hatching or chicks;
+- (d) labels or documents relating to eggs, eggs for hatching or chicks; and
+- (e) any premises on or in which any eggs, eggs for hatching or chicks, any packs or other containers for eggs, eggs for hatching or chicks, and any labels or documents relating to such eggs or chicks are found.
+
+(2) If an examination or investigation will not be carried out immediately after a direction has been given under paragraph (1), an authorised officer may apply tape to the packs or other containers for eggs or eggs for hatching that are subject to that direction, or otherwise secure them pending the examination or investigation.
+
+(3) An authorised officer may direct any person to ensure that any–
+
+- (a) eggs;
+- (b) eggs for hatching or chicks;
+- (c) packs or other containers for eggs, eggs for hatching or chicks; or
+- (d) labels or documents relating to eggs, eggs for hatching or chicks,
+
+which do not comply in any respect with the requirements of any provision mentioned in Schedule 1 (as regards eggs for hatching and chicks) or Schedule 2 (as regards other eggs), comply with those requirements before being removed from any land, vehicle or trailer, except as may be otherwise directed in writing by an authorised officer.
+
+(4) Except as stated in paragraph (3), any direction given by an authorised officer under paragraph (1) or (3) can be given orally or in writing but any direction given orally must be confirmed in writing as soon as practicable and, in any event, within 24 hours.
+
+(5) An authorised officer must not exercise the powers under paragraphs (1) to (3)–
+
+- (a) except on the production, if so required, of a duly authenticated document showing the officer's authority; and
+- (b) except for the purpose of enforcing these Regulations.
+
+(6) A person is guilty of an offence if that person–
+
+- (a) without reasonable excuse, fails to comply with any requirement imposed on that person by a direction given by an authorised officer under paragraph (1);
+- (b) unless authorised to do so in writing by an authorised officer, tampers with any packs or containers that have been secured by an authorised officer under paragraph (2); or
+- (c) without reasonable excuse, fails to comply with any requirement imposed on that person by a direction given by an authorised officer under paragraph (3).
+
+### 13A. Powers of authorised officers – salmonella control related requirements[^key-3d17705da92ed00b1dc6f35210cb8a9e]
+
+(1) An authorised officer may direct any person to leave undisturbed for so long as is reasonably necessary for the purpose of any examination or investigation any—
+
+- (a) eggs;
+- (b) packs or other containers for eggs;
+- (c) labels or documents relating to eggs; and
+- (d) any premises on or in which any eggs, any packs or other containers for eggs and any labels or documents relating to such eggs are found.
+
+(2) If an examination or investigation will not be carried out immediately after a direction has been given under paragraph (1), an authorised officer may apply tape to the packs or other containers for eggs that are subject to that direction, or otherwise secure them pending the examination or investigation.
+
+(3) An authorised officer may direct any person to ensure that any—
+
+- (a) eggs;
+- (b) packs or other containers for eggs; or
+- (c) labels or documents relating to eggs,
+
+which do not comply in any respect with the requirements of any provision mentioned in Schedule 2A (as regards eggs in shell for consumption and salmonella control related requirements), comply with those requirements before being removed from any land, vehicle or trailer, except as may be otherwise directed in writing by an authorised officer.
+
+(4) Except as stated in paragraph (3), any direction given by an authorised officer under paragraph (1) or (3) can be given orally or in writing but any direction given orally must be confirmed in writing as soon as practicable and, in any event, within 24 hours.
+
+(5) An authorised officer must not exercise the powers under paragraphs (1) to (3)—
+
+- (a) except on the production, if so required, of a duly authenticated document showing the officer's authority; and
+- (b) except for the purpose of enforcing these Regulations.
+
+(6) A person is guilty of an offence if that person—
+
+- (a) without reasonable excuse, fails to comply with any requirement imposed on that person by a direction given by an authorised officer under paragraph (1);
+- (b) unless authorised to do so in writing by an authorised officer, tampers with any packs or containers that have been secured by an authorised officer under paragraph (2); or
+- (c) without reasonable excuse, fails to comply with any requirement imposed on that person by a direction given by an authorised officer under paragraph (3).
+
+### 14. Obstruction
+
+(1) A person is guilty of an offence if that person–
+
+- (a) intentionally obstructs an authorised officer acting in the execution of these Regulations;
+- (b) without reasonable excuse, fails to give an authorised officer acting in the execution of these Regulations any assistance or information which that officer may reasonably require for the performance of the officer's functions under these Regulations;
+- (c) gives to an authorised officer acting in the execution of these Regulations any information which that person knows, or has reason to believe, to be false or misleading or recklessly gives information which is false or misleading; or
+- (d) without reasonable excuse, fails to produce a record when required to do so by an authorised officer acting in the execution of these Regulations.
+
+(2) Nothing in paragraph (1)(b) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate that person.
+
+### 15. Enforcement
+
+(1) Each food authority must enforce the provisions mentioned in Schedule 2, as read with regulation 7, insofar as they apply to–
+
+- (i) the retail sale of eggs within their area; and
+- (ii) the sale of eggs to a mass caterer in their area.
+
+(2) The Scottish Ministers may enforce the provisions mentioned in Schedule 2, as read with regulation 7, insofar as they apply to the retail sale of eggs or the sale of eggs to a mass caterer.
+
+(3) The Scottish Ministers must–
+
+- (a) enforce the provisions mentioned in Schedule 1, as read with regulation 4;
+- (b) enforce the provisions mentioned in Schedule 2, as read with regulation 7, insofar as they do not apply to the retail sale of eggs or the sale of eggs to a mass caterer.
+
+(4) In this regulation–
+
+- “**mass caterer**” means any of the entities referred to in Article 2(2)(d) of Regulation ([^key-e3d7a8cfff719c93fcb2368e997f4990]EU) No 1169/2011;
+- “**retail sale**” means any sale other than a sale for use or resale in the course of a trade or business; and
+- “**sale**” includes possession for sale and offer, exposure and advertisement for sale.
+
+### 15A. Enforcement – salmonella control related requirements[^key-6eb10cbb9842a9058439c0b78a77d4f1]
+
+(1) Each food authority must enforce the provisions mentioned in Schedule 2A, as read with regulation 12A, in so far as they apply to—
+
+- (i) the retail sale of eggs within their area; and
+- (ii) the sale of eggs to a mass caterer in their area.
+
+(2) The Scottish Ministers may enforce the provisions mentioned in Schedule 2A, as read with regulation 12A, in so far as they apply to the retail sale of eggs or the sale of eggs to a mass caterer.
+
+(3) The Scottish Ministers must enforce the provisions mentioned in Schedule 2A, as read with regulation 12A, in so far as they do not apply to the retail sale of eggs or the sale of eggs to a mass caterer.
+
+(4) In this regulation—
+
+- “**mass caterer**” means any of the entities referred to in Article 2(2)(d) of Regulation ([^key-4985ecf432be93bc3497d2900c015aa2]EU) No 1169/2011;
+- “**retail sale**” means any sale other than a sale for use or resale in the course of a trade or business; and
+- “**sale**” includes possession for sale and offer, exposure and advertisement for sale.
+
+### 16. Duty to give assistance and provide information
+
+An enforcement authority must give such assistance and information to any other enforcement authority as that other authority may reasonably require for the purpose of their duties under these Regulations.
+
+### 17. Appeals
+
+(1) Any person who is aggrieved by a decision specified in paragraph (2) may appeal against that decision to a sheriff court.
+
+(2) A specified decision for the purpose of paragraph (1) is a decision by the Scottish Ministers to refuse to–
+
+- (a) register an establishment as a pedigree breeding establishment, other breeding establishment or hatchery under Article 2(1) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617), or to withdraw such a registration;
+- (b) authorise an undertaking as a packing centre to grade eggs under Article 5(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), or to withdraw such an authorisation.
+
+(3) Section 37(4) to (6) of the Act has effect in relation to an appeal under this regulation as it has effect in relation to an appeal under that section, but with the omission of–
+
+- (a) the references to appeals for which provision is made by regulations under Part II of the Act;
+- (b) the references to subsection (3) and appeals to the magistrates' court in subsection (5) and (6); and
+- (c) subsection (5)(b) and the word “or” immediately preceding it.
+
+(4) The withdrawal of a registration or authorisation referred to in paragraph (2) shall not take effect until the time for appealing against it has expired, and, if an appeal is lodged, until the appeal is finally disposed of, withdrawn or abandoned.
+
+### 18. Penalty
+
+A person guilty of an offence specified in regulation 4, 7, 12A, 13(6), 13A(6)[^key-552a51dab579363ae4091a4f65553f05] or 14(1) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 19. Extended period for bringing prosecutions
+
+(1) Proceedings for an offence under these Regulations may be commenced within the period of one year from the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the knowledge of the prosecutor.
+
+(2) But no such proceedings shall be commenced by virtue of paragraph (1) more than three years after the commission of the offence.
+
+(3) For the purposes of this regulation–
+
+- (a) a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to the knowledge of the prosecutor shall be conclusive evidence of that fact; and
+- (b) a certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
+
+### 20. Application of various provisions of the Act
+
+(1) The following provisions of the Act (“**the specified provisions**”) shall apply for the purposes of these Regulations with the modifications specified in paragraph (2)—
+
+- (a) section 3 (presumptions that food intended for human consumption);
+- (b) section 20 (offences due to fault of another person);
+- (c) section 21 (defence of due diligence) as it applies to an offence under section 14 (selling food not of the nature or substance or quality demanded) or 15 (falsely describing or presenting food) of the Act;
+- (d) section 29 (procurement of samples);
+- (e) section 30(8) (documentary evidence in proceedings under the Act);
+- (f) section 32 (powers of entry);
+- (g) section 36 (offences by bodies corporate);
+- (h) section 36A (offences by Scottish partnerships);
+- (i) section 44 (protection of officers acting in good faith);
+- (j) section 46(1) (expenses of authorised officers); and
+- (k) section 50 [^c19503271] (service of documents).
+
+(2) The specified modifications are–
+
+- (a) any reference in the specified provisions to the Act, or to a Part of the Act, or to specific sections of the Act, shall be construed as a reference to these Regulations, and in section 32(1)(a) the reference to “the provisions of this Act”, is to be construed as a reference to the provisions mentioned in Schedules 1, 2 and 2A[^key-f43bc4f7011d141a73fdb3609c456b8c];
+- (b) any reference in the specified provisions to an authorised officer, or an officer of an enforcement authority or a food authority, is to be construed as a reference to an authorised officer as defined in regulation 2(1);
+- (c) in relation to section 20, the reference to the section is to be construed as including a reference to that section as applied to these Regulations;
+- (d) in relation to section 29–
+  - (i) in (b)(ii), the reference to section 32 is to be construed as including a reference to section 32 as applied to these Regulations; and
+  - (ii) in paragraph (d) omit “or of regulations or orders made under it”;
+- (e) in relation to section 30(8)(a) omit “under subsection (6) above”;
+- (f) in relation to section 32–
+  - (i) in subsection (1)(a), omit “, or of regulations or orders made under it”;
+  - (ii) in subsection (4), the reference to the section is to be construed as including a reference to that section as applied to these Regulations;
+  - (iii) in subsection (5), the reference to the section is to be construed as including a reference to that section as applied to these Regulations and the reference to “**a food business**” is to be construed as including a hatchery;
+  - (iv) in subsection (6)(a), omit “or of regulations or orders made under it”; and
+  - (v) in subsection (7), the reference to the section is to be construed as including a reference to that section as applied to these Regulations; and
+- (g) in relation to section 44, any reference to a food authority is to be construed as a reference to an enforcement authority.
+
+### 21. Revocations
+
+The Eggs and Chicks (Scotland) Regulations 2008 are revoked [^c19503281].
+
+### 22. Saving and transitional provisions
+
+(1)[^key-6169ee4a32285e73ca76b6a88380ea4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Any written authority granted to any person to act in matters arising under or in relation to the Eggs and Chicks (Scotland) Regulations 2008 has effect as if it referred to these Regulations.
+
+### 23. Consequential amendments
+
+The instruments specified in Schedule 3 are amended to the extent specified in that Schedule.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Executive
+
+St Andrew's House,
+
+## SCHEDULE 1 — ASSIMILATED PROVISIONS RELATING TO EGGS FOR HATCHING AND CHICKS CONTRAVENTION OF WHICH IS AN OFFENCE[^key-0edf3eff3e56cffe8e40b9f8811cab74]
+
+Regulation 4
+
+### PART 1 — PROVISIONS OF THE SINGLE CMO REGULATION OR COUNCIL REGULATION 2013[^key-58cfad25510829ae4ffeccff0f77b484]
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Relevant[^key-ea4ff2b31315118d5feaef3665820336] EU provision | Provisions to be read with the provisions of the Single CMO Regulation mentioned in column 1 | Subject matter |
+| Article 116 of the Single CMO Regulation[^key-1d2d5e650190f5bae1245a781b125a3a] insofar as it relates to the marketing of eggs for hatching and chicks | Part C of Annex XIV to the Single CMO Regulation and Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617) | Prohibition on the marketing of eggs for hatching and of chicks except in accordance with the marketing standards laid down in Part C of Annex XIV to the Single CMO Regulation and Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617). |
+| Point II(1) of Part C of Annex XIV to the Single CMO[^key-98e8e8d9d847afdbff67a85655c17e67] | Article 3(1) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617) | Marking of eggs for hatching. |
+| Point II(2) of Part C of Annex XIV to the Single CMO | Article 3(4) and (5) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617) | Transportation and packing of eggs for hatching. |
+| Point II(3) of Part C of Annex XIV to the Single CMO | Article 3(8) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617) | Packages of eggs for hatching imported from a third country. |
+| Point III(1) of Part C of Annex XIV to the Single CMO | Article 4(1) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617) | Packing of chicks by species, type and category of poultry. |
+| Point III(2) of Part C of Annex XIV to the Single CMO | Article 4(2) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617) | Content and marking of boxes of chicks. |
+| Point III(3) of Part C of Annex XIV to the Single CMO | Article 4(1) and (3) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/eur/2008/617) | Importation of chicks from a third country. |
+
+### PART 2 — PROVISIONS OF COMMISSION REGULATION (EC) NO. 617/2008
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Relevant provision of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) | Provisions to be read with the provisions of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) mentioned in column 1 | Subject matter |
+| Article 2(1) |  | Registration of pedigree breeding establishments, breeding establishments and hatcheries. |
+| Article 3(1) | Article 3(2) and (3) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) | Individual marking of eggs for hatching. |
+| Article 3(2) | Article 3(3) and (5) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) and regulation 6 | Marking of eggs for hatching at producer establishment. |
+| Article 3(4) | Article 3(5) and (6) of, and Annex II to, Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) | Packing of eggs for hatching. |
+| Article 3(6) | Article 3(4) and (5) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) | Distinguishing number of producer establishment on packs and containers in which eggs for hatching are transported. |
+| [^key-967e310ef1547a7a554c7645fd5e2995]. . . | [^key-967e310ef1547a7a554c7645fd5e2995]. . . | [^key-967e310ef1547a7a554c7645fd5e2995]. . . |
+| Article 3(8) |  | Importation of eggs for hatching. |
+| Article 4(1) | Point III(1) of Part C of Annex XIV to the Single CMO Regulation and Article 4(2) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) | Packing of chicks by species, type and category of poultry. |
+| Article 4(2) | Point III(2) of Part C of Annex XIV to the Single CMO Regulation and Article 4(1) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) | Content and minimum marking requirement for packs containing chicks. |
+| Article 4(3) | Point III(3) of Part C of Annex XIV to the Single CMO Regulation and Article 4(1) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) | Importation of chicks from third countries, including content and minimum marking requirement for packs containing such chicks. |
+| Article 5(1) |  | Documentation that must accompany batches of eggs for hatching and chicks. |
+| Article 5(2) | Article 5(1) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) | Name of country of origin to be provided in the documentation that must accompany batches of eggs for hatching and chicks imported from a third country. |
+| Article 6 |  | Keeping of records by hatcheries. |
+| Article 7 |  | Restriction on the use of eggs withdrawn from an incubator. |
+| Article 8(1) |  | Obligation on hatcheries to provide monthly reports. |
+
+## SCHEDULE 2 — ASSIMILATED PROVISIONS RELATING TO EGGS IN SHELL FOR CONSUMPTION CONTRAVENTION OF WHICH IS AN OFFENCE[^key-d6dd716e7ea4c531306894e19ecfd037]
+
+Regulation 7
+
+### PART 1 — PROVISIONS OF COUNCIL REGULATION 2013[^key-250f3b8c297a80aacb92fa4c1794aee9]
+
+| *Column 1* | *Column 2* | *Column 3* |
+| --- | --- | --- |
+| *Relevant provision of Council Regulation 2013* | *Provisions to be read with the provisions of Council Regulation 2013 mentioned in column 1* | *Subject matter* |
+| Article 75 insofar as it relates to the marketing of eggs | Part VI of Annex VII to Council Regulation 2013 and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Prohibition on the marketing of eggs except in accordance with the marketing standards laid down in Part VI of Annex VII to Council Regulation 2013 and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589). |
+| Point II(1) of Part VI of Annex VII | Article 2(1) and (4) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Grading of eggs as class A (“fresh”) or class B. |
+| Point II(2) of Part VI of Annex VII | Article 4(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Weight grading of class A eggs. |
+| Point II(3) of Part VI of Annex VII |  | Prohibition on the delivery of class B eggs except to the food and non food industry. |
+| Point III(1) of Part VI of Annex VII, first sub paragraph | Point III(3) of Part VI of Annex VII to Council Regulation 2013 and Articles 9(1) and 11 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Marking of class A eggs. |
+| Point III(1) of Part VI of Annex VII, second sub paragraph | Articles 9, 10 and 11 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589), paragraphs (a) and (b) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/eur/2003/2160) and regulation 9(1) | Marking of class B eggs. |
+| Point III(2) of Part VI of Annex VII | Point III(1) of Part VI of Annex VII to Council Regulation 2013 | Place at which eggs are marked. |
+| Point III(3) of Part VI of Annex VII, first sub paragraph | Point III(1) of Part VI of Annex VII and the second sub-paragraph of point III(3) of Part VI of Annex VII to Council Regulation 2013 | Marking of eggs sold by a producer to the final consumer at a local public market. |
+| [^key-a45558d7c08e918b89b191d75b5ac157]. . . | [^key-a45558d7c08e918b89b191d75b5ac157]. . . | [^key-a45558d7c08e918b89b191d75b5ac157]. . . |
+| [^key-a45558d7c08e918b89b191d75b5ac157]. . . | [^key-a45558d7c08e918b89b191d75b5ac157]. . . | [^key-a45558d7c08e918b89b191d75b5ac157]. . . |
+
+### PART 2 — PROVISIONS OF COMMISSION REGULATION (EC) NO. 589/2008
+
+| *Column 1* | *Column 2* | *Column 3* |
+| --- | --- | --- |
+| *Relevant provision of Commission Regulation (EC) No. 589/2008* | *Provisions to be read with the provisions of Commission Regulation (EC) No. 589/2008 mentioned in column 1* | *Subject matter* |
+| Article 2(1) | Point II(1) of Part VI of Annex[^key-424e897972b407eb0a5ae92ebefb5b87] VII, paragraph (a), to the Council Regulation 2013 , paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation (EC) No. 2160/2003 and regulation 12A as read with the entry in Schedule 2A relating to paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation (EC) No. 2160/2003[^key-2442ee4498d41ba533c89ad63fefb695] | Quality characteristics of class A eggs and cases in which eggs meeting those quality characteristics must be categorised as class B eggs[^key-656ee61668e3527abbfbf8525958045f]. |
+| Article 2(2) | [^key-cdac8d66ff588cd242eed0e0dfb16d9a]. . . | Prohibition on the washing and cleaning of class A eggs before or after grading. |
+| Article 2(3) |  | Prohibition on the treatment of class A eggs for preservation, and the chilling of eggs, in premises or plants where the temperature is artificially maintained at less than 5°C. |
+| Article 2(4) | Point II(1) of Part VI of Annex[^key-9d77f110f05fc5a7ae1e9833702a1c5f] VII, paragraph (b), to the Council Regulation 2013 , paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation (EC) No. 2160/2003 and regulation 12A as read with the entry in Schedule 2A relating to paragraph (a) of the second sub-paragraph of point 2 of Part D of Annex II to Regulation (EC) No. 2160/2003[^key-eceb36e04523375710eb038eb73996e5] | Quality characteristics of class B eggs and cases in which eggs meeting the quality characteristics for class A eggs must be categorised as class B eggs[^key-5eb66ab77a33a387c7c242081000f9a7]. |
+| Article 4(1) | Point II(2) of Part VI of Annex[^key-7ae9deb9b4cf7ee96b6580a3a73222d5] VII to the Council Regulation 2013 and Article 4(3) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Grading of class A eggs by weight. |
+| Article 4(2) | Article 4(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) and Regulation ([^key-bf203b6739b055f0f0480c7823ed6c0f]EU) No 1169/2011 | Weight grading indications. |
+| Article 4(3) | Article 4(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Minimum net weight in grams and the indication ‘eggs of different sizes’ or equivalent terms to be given on the outer surface of a pack of class A eggs of different sizes. |
+| Article 5(1), first sub paragraph |  | Grading and packing of eggs and the labelling of packs by packing centres. |
+| Article 5(3) |  | Packing centres to have the technical equipment necessary to ensure that eggs are handled properly. |
+| Article 6(1) |  | Eggs to be graded, marked and packed within 10 days of laying. |
+| Article 6(2) | Article 14 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Class A eggs marketed as ‘extra’ or ‘extra fresh’ eggs to be graded, marked and packed within four days of laying. |
+| Article 6(3) | Articles 12(1)(d) and 13 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) and point 1(a) of Annex X to Regulation ([^key-052e20372291dfa160258e8e78dcba3e]EU) No 1169/2011 | Packs to be marked with date of minimum durability at the time of packing. |
+| Article 7(1), first sub paragraph | Article 7(1), second sub paragraph, of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Producers to identify each transport packaging containing eggs with information specified in paragraphs (a) to (e) of Article 7(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589). |
+| Article 7(2), first sub paragraph, first sentence | Article 7(1), and Article 7(2), second sub-paragraph, of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Application of the information specified in Article 7(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) to each transport packaging containing eggs, and the inclusion of that information in accompanying documents. |
+| Article 7(2), first sub-paragraph, second sentence | Article 7(2), first sub paragraph, first sentence, and second sub-paragraph, of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Intervening operators to keep a copy of the documents specified in the first sentence of the first sub paragraph of Article 7(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589). |
+| Article 7(2), first sub paragraph, third sentence | Article 7(2), first sub paragraph, first sentence, and second sub-paragraph, of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Original documents referred to in the first sentence of the first sub-paragraph of Article 7(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) to be kept by the packing centre that grades the eggs to which the documents relate. |
+| Article 7(3) | Article 7(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Prohibition on the modification or removal of the information referred to in Article 7(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) on the transport packaging of eggs until the removal of the eggs for immediate grading, marking and packing. |
+| [^key-b52365fe5a73a9e533811539db15c5e2]. . . | [^key-b52365fe5a73a9e533811539db15c5e2]. . . | [^key-b52365fe5a73a9e533811539db15c5e2]. . . |
+| [^key-b52365fe5a73a9e533811539db15c5e2]. . . |  | [^key-b52365fe5a73a9e533811539db15c5e2]. . . |
+| [^key-b52365fe5a73a9e533811539db15c5e2]. . . | [^key-b52365fe5a73a9e533811539db15c5e2]. . . | [^key-b52365fe5a73a9e533811539db15c5e2]. . . |
+| Article 9(1) | regulation 4 of the Registration of Establishments Keeping Laying Hens (Scotland) Regulations 2003[^key-70de93e10848b4dcbb5f48216f4d5eb5] | Producer code. |
+| Article 10 | Point III(1) of Part VI of Annex[^key-5e36f8fc21e7449758ffe78bedca3f4e] VII, second sub-paragraph, to the Council Regulation 2013 | Indications on class B eggs. |
+| Article 12(1) |  | Marking of packs of class A eggs. |
+| Article 12(2), first and second sub paragraphs | Article 12(1) of, [^key-aa6efaaa19576e82488bcca48cfb9571]... and Annex II, to Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589), Article 23 of Council Regulation (EC) No 834/2007 on organic production and labelling of organic products and repealing Regulation (EEC) No 2092/91[^key-7c48912423f6dbd42e817bb31b8a684b], and regulations 10, 11 and 12 | Farming method to be shown on the outer surface of packs containing class A eggs. |
+| Article 12(2), third sub paragraph | Article 9(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Producer code to be explained on or inside packs. |
+| Article 12(2), fourth sub paragraph | Part 4 of schedule 3 of the Scottish welfare regulations[^key-3e1e1bebdad8964e28f47aafcda2f4be] | Use of an indication “enriched cages”[^key-c633e37777dfffda56986b4340638adc]. |
+| Article 12(4) |  | Marking of packs of class B eggs. |
+| Article 13 | Article 9(1)(f) of Regulation ([^key-5e3a34fe479d04ed470bfe8df3bd74b9]EU) No 1169/2011 | Date of minimum durability to be no later than 28 days after laying. |
+| Article 14(1) |  | Use of the words ‘extra’ and ‘extra fresh’ as an additional quality indication on packs containing class A eggs. |
+| Article 14(2) | Article 14(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Laying date and the nine-day time limit specified in Article 14(1) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) to be shown where the words ‘extra’ or ‘extra fresh’ are used as an additional quality indication on packs containing class A eggs. |
+| Article 15 |  | Reference to a cereal as a feed ingredient where an indication is given of how laying hens are fed. |
+| Article 16 |  | Information to be given for loose egg sales. |
+| Article 17 | Chapter X of Annex II[^key-0e0794f0d5c89e4e7e11523bce2801e3] to Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/eur/2004/852) of the European Parliament and of the Council on the hygiene of foodstuffs [^c19503321] | Quality of packs. |
+| Article 18 |  | Packaging containers in which industrial eggs are marketed. |
+| Article 19 |  | Repacking of class A eggs. |
+| Article 20(1) | Article 20(4) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Producer records on farming methods. |
+| Article 20(2) | Articles 15 and 20(4) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Producer records on feed. |
+| Article 20(3) | Article 20(1) and (2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Information recorded by producers under Article 20(1) and (2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) to be broken down by hen house where a producer uses different farming methods on a single production site. |
+| Article 21(1) | Article 21(2) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Collector records on eggs collected and delivered by them. |
+| Article 22(1), first sub paragraph | Article 22(3) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Packing centre records. |
+| Article 22(1), second sub paragraph |  | Updating of packing centres physical stock records each week. |
+| Article 22(2) | Articles 15 and 22(1) and (3) of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Packing centres to keep separate records where class A eggs and their packs bear an indication of how laying hens are fed. |
+| Article 23 | Articles 7(2), 20, 21 and 22 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Records and files referred to in Articles 7(2), 20, 21 and 22 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) to be kept for at least 12 months from their date of creation. |
+| Article 24(5) | Articles 20, 21 and 22 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) | Records referred to in Articles 20, 21 and 22 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) to be made available to the inspection services on first request. |
+| Article 30(2) |  | Eggs imported from third countries to have been clearly and legibly marked in the country of origin in accordance with the ISO 3166 country code. |
+| Article 30(3) | [^key-4f5526d5749f5e7c6480db3a34da6bee]... Article 11 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589). | Marking of packs containing eggs imported from a third country where sufficient guarantees of equivalence of the rules relating to those eggs with assimilated[^key-73a0354c356a5cc1b6dd82e6eb88f157][^key-4cc91c2854e3dd751e1d86480545f408] law have not been provided. |
+
+## SCHEDULE 2A — EU PROVISIONS RELATING TO EGGS IN SHELL FOR CONSUMPTION: SALMONELLA CONTROL RELATED REQUIREMENTS THE CONTRAVENTION OF WHICH IS AN OFFENCE[^key-e4b2585b67760a44aa1ce9357e0b65f1]
+
+Regulations 2(1) and (6),12A, 13A(3), 15A and 20(2)
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Relevant provision of Regulation (EC) No. 2160/2003 | Provisions to be read with the provisions of Regulation (EC) No. 2160/2003 mentioned in column 1 | Subject matter |
+| Point 1 of Part D of Annex II | Article 1(3) of Regulation (EC) No. 2160/2003 | Prohibition on the use of eggs for direct human consumption as table eggs unless they originate from a commercial flock of laying hens subject to a [^key-c701395f5059b6fe3b3a165deb7ca84f]... control programme and are not under official restriction. |
+|  |  |  |
+| Point 2, first sub-paragraph, of Part D of Annex II | Point 4 of Part D of Annex II to Regulation (EC) No. 2160/2003 | Prohibition on the use of certain zoonosis status eggs for human consumption unless treated, except where the restrictions in point 2 of Part D of Annex II to Regulation (EC) No. 2160/2003 are lifted under point 4 of that Part. |
+|  |  |  |
+| Point 2, second sub-paragraph, paragraph (a), of Part D of Annex II | Article 1(3) of, and point 4 of Part D of Annex II to, Regulation (EC) No. 2160/2003, the provisions of Articles 113(3) and 116 of, and Part VI of Annex[^key-1cbca6ae060e79cbf8b28a2c2082a3d4] VII to the Council Regulation 2013, and Commission Regulation (EC) No. 589/2008, in so far as they relate to class B eggs | Treatment of certain zoonosis eggs as class B eggs, except where the restrictions in point 2 of Part D of Annex II to Regulation (EC) No. 2160/2003 are lifted under point 4 of that Part. |
+|  |  |  |
+| Point 2, second sub-paragraph, paragraph (b), of Part D of Annex II | Article 1(3) of, and point 4 of Part D of Annex II to, Regulation (EC) No. 2160/2003 and Article 10 of Commission Regulation (EC) No. 589/2008 | Marking of certain zoonosis status eggs with the indication required by Article 10 of Commission Regulation (EC) No. 589/2008, except where the restrictions in point 2 of Part D of Annex II to Regulation (EC) No. 2160/2003 are lifted under point 4 of that Part. |
+|  |  |  |
+| Point 2, second sub-paragraph, paragraph (c), of Part D of Annex II | Point 4 of Part D of Annex II to Regulation (EC) No. 2160/2003 | Prohibited access to packing centres for certain zoonosis status eggs unless the competent authority is satisfied with measures to prevent possible cross-contamination, except where the restrictions in point 2 of Part D of Annex II to Regulation (EC) No. 2160/2003 are lifted under point 4 of that Part. |
+
+## SCHEDULE 3 — CONSEQUENTIAL AMENDMENTS
+
+Regulation 23
+
+### 1. The Colours in Food Regulations 1995
+
+In the Colours in Food Regulations 1995 [^c19503331], for regulation 5(b) (use of colours on eggshells) substitute–
+
+> - (b) the marking (as provided for by Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products [^c19503341] and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) laying down detailed rules for implementing Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs) [^c19503351],
+
+.
+
+### 2. The Food Labelling Regulations 1996
+
+In the Food Labelling Regulations 1996 [^c19503361]–
+
+- (a) for regulation 4(2)(f) (disapplication of labelling requirements) substitute–
+
+  > - (f) hen eggs, in so far as their labelling is regulated in Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) laying down detailed rules for implementing Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs;
+
+  ; and
+- (b)[^key-4765c7ed146f545a12d3ea658c37cb7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. The Food Hygiene (Scotland) Regulations 2006
+
+In the Food Hygiene (Scotland) Regulations 2006 [^c19503381] for paragraph 2(2)(g) of Schedule 4 (chilled and hot holding requirements) to those Regulations substitute–
+
+> - (g) to which Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) laying down detailed rules for implementing Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs applies.
+
+.
+
+### 4. The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006
+
+In article 2 (interpretation) of the Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006 [^c19503391] for the definition of “packing centre” substitute– “ “**packing centre**” has the same meaning as in sub-paragraph (q) of the second paragraph of Article 1 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) laying down detailed rules for implementing Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs; ”.
+
+### 5. The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006
+
+In regulation 2 (interpretation) of the Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006 [^c19503401] for the definition of “packing centre” substitute– “ “**packing centre**” has the same meaning as in sub-paragraph (q) of the second paragraph of Article 1 of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) laying down detailed rules for implementing Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs; ”.
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which extend to Scotland only, revoke and remake, with modifications, the Eggs and Chicks (Scotland) Regulations 2008 (“**the 2008 Regulations**”) following the adoption of Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) and two Commission Regulations adopted under that Regulation, Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) (as amended by Commission Regulation [(EC) No. 598/2008](https://www.legislation.gov.uk/european/regulation/2008/0598).
+
+The 2008 Regulations made provision for the enforcement of certain provisions of (a) Regulation [(EEC) No. 2782/75](https://www.legislation.gov.uk/european/regulation/1975/2782) of the Council on the production and marketing of eggs for hatching and of farmyard poultry chicks (O.J. No. L 282, 1.11.1975, p.100), (b) Commission Regulation [(EEC) No. 1868/77](https://www.legislation.gov.uk/european/regulation/1977/1868) laying down detailed rules of application for Regulation [(EEC) No. 2782/75](https://www.legislation.gov.uk/european/regulation/1975/2782) (O.J. No. L 209, 17.8.1977, p.1), (c) Council Regulation [(EC) No. 1028/2006](https://www.legislation.gov.uk/european/regulation/2006/1028) on marketing standards for eggs (O.J. No. L 186, 7.7.2006, p.1), and (d) Commission Regulation [(EC) No. 557/2007](https://www.legislation.gov.uk/european/regulation/2007/0557) introducing detailed rules for implementing Council Regulation [(EC) No. 1028/2006](https://www.legislation.gov.uk/european/regulation/2006/1028) (O.J. No. L 132, 24.5.2007, p.5).
+
+Regulation [(EEC) No. 2782/75](https://www.legislation.gov.uk/european/regulation/1975/2782) and Council Regulation [(EC) No. 1028/2006](https://www.legislation.gov.uk/european/regulation/2006/1028) have been repealed by the Single CMO Regulation. Commission Regulation [(EEC) No. 1868/77](https://www.legislation.gov.uk/european/regulation/1977/1868) has been repealed by Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) and Commission Regulation [(EC) No. 557/2007](https://www.legislation.gov.uk/european/regulation/2007/0557) has been repealed by Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589).
+
+As regards eggs for hatching and chicks and other eggs, the repealed EC Regulations have been replaced by certain provisions of the Single CMO Regulation, including those in Parts A and C of Annex XIV to the Regulation, and by Commission Regulations [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) (eggs for hatching and chicks) and 589/2008 (other eggs).
+
+These Regulations therefore make provision for the enforcement of certain provisions of the Single CMO Regulation insofar as they relate to eggs for hatching and farmyard poultry chicks and other eggs, as from time to time amended, Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617), as it relates to eggs for hatching and chicks as from time to time amended, and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) as it relates to other eggs as amended from time to time.
+
+The Regulations include provisions–
+
+- (a) making the failure to comply with the provisions of the Single CMO Regulation and Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) mentioned in Schedule 1 an offence (regulation );
+- (b) relating to the registration of pedigree breeding establishments, other breeding establishments and hatcheries (regulation );
+- (c) providing an exception from Article 3(2) of Commission Regulation [(EC) No. 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) by allowing eggs for hatching to be marked in a different manner from that specified in that provision (regulation );
+- (d) making the failure to comply with the provisions of the Single CMO Regulation and Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589) mentioned in Schedule 2 an offence (regulation );
+- (e) relating to the authorisation of packing centres to grade eggs (regulation );
+- (f) providing an exception from the provisions of points III(1) and (3) of Part A of Annex XIV to the Single CMO Regulation, as regards the marking of eggs for consumption (regulation );
+- (g) varying the minimum requirements for the marketing of eggs as free range eggs by authorising livestock grazing on open-air runs for hens producing such eggs (regulation );
+- (h) providing an exception from the provisions of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), by allowing eggs to be marketed as free-range eggs although not all of the requirements laid down in that Regulation for free range eggs are met (regulation );
+- (i) providing an exception from the provisions of Commission Regulation [(EC) No. 589/2008](https://www.legislation.gov.uk/european/regulation/2008/0589), by allowing eggs to be marketed as barn eggs although not all of the requirements laid down in that Regulation for barn eggs are met (regulation );
+- (j) relating to powers of authorised officers (regulation 13), obstruction (regulation 14), enforcement (regulation 15) and duties of enforcement authority (regulation 16);
+- (k) providing a right of appeal against certain decisions of the Scottish Ministers and authorised officers (regulation 17); and
+- (l) imposing a penalty for offences under the Regulations (regulation 18).
+
+Similar provisions were included in the 2008 Regulations by reference to the provisions in the now revoked EC Regulations and these Regulations contain updated references to the equivalent provisions of the Single CMO Regulation and the two new Commission Regulations.
+
+In addition, regulation 22(1) of these Regulations saves the amendments made, by regulation 22 of, and Schedule 3 to the 2008 Regulations, to regulation 45 of the Food Labelling Regulations 1996, and enables the substitution of a new regulation 45(2A) of those Regulations effected by regulation 23 of, and Schedule 3 to, these Regulations.
+
+A Regulatory Impact Assessment has not been prepared as this instrument has no impact on the costs of business.
+
+## Annotations
+
+[^c19503131]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68) (“**the 1972 Act**”). Section 2(2) was amended by paragraph 15(3) of Schedule 8 to the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), and section 27(1) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”). Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act. The powers in section 2(2) of the 1972 Act are exercised as regards the whole or part of regulations 1, 2(1), (2) and (4), 3(1)(a) and (2)(a), 4, 5, 6, 13, 14, 15(3)(a), 16, 18, 19, 20, 21, 22, Schedule 1 and paragraphs 4 and 5 of Schedule 3 of this instrument. The functions conferred upon the Minister of the Crown under section 2(2) of the 1972 Act, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act, and so far as exercisable in or as regards Scotland in relation to food (including drink) including the primary production of food, are exercisable by the Scottish Ministers concurrently with the Minister of the Crown by virtue of article 3 of the [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849).
+
+[^c19503141]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16) (“**the 1990 Act**”). Section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Section 6(4) was amended by paragraph 6 of Schedule 9 to the [Deregulation and Contracting Out Act 1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), and by paragraph 10(3) of Schedule 5 to the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28) (“**the 1999 Act**”). Section 16(1) was amended by paragraphs 7 and 8 of Schedule 5 to the 1999 Act. Section 17 was amended by paragraphs 7, 8 and 12(a) and (b) of Schedule 5 to the 1999 Act. Section 26(3) was repealed in part by Schedule 6 to the 1999 Act. Section 48(1) was amended by paragraphs 7 and 8 of Schedule 5 to the 1999 Act. The requirement on the Scottish Ministers under section 48(4) to consult with such organisations as appear to them to be representative of interests likely to be substantially affected by this instrument is disapplied by virtue of section 48(4C), as inserted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990), as consultation is required in respect of this instrument by Article 9 of Regulation (EC) No. 178/2002. The amendments to the 1990 Act made by Schedule 5 to the 1999 Act which extend to Scotland are to be taken as a pre-commencement enactment for the purposes of the 1998 Act by section 40(2) of the 1999 Act. The functions of the Secretary of State, so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. The functions conferred on a Minister of the Crown under sections 6(4), 16, 17, 26 and 48 of the 1990 Act were transferred to the Scottish Ministers by the [Scotland Act (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849) but only in so far as not transferred by section 53 of the 1998 Act.
+
+[^c19503151]: Marginal citation: [Section 48(4A)](https://www.legislation.gov.uk/ssi/2008/395/section/48/4A) was inserted by paragraph 21 of Schedule 5 to the Food Standards Act 1999.
+
+[^c19503161]: Marginal citation: O.J. No. L 31, 1.2.2002, p.1. The Regulation has been amended by Commission Regulation (EC) 1642/2003 (O.J. No. L 245, 29.9.2003, p.4) and Commission Regulation (EC) 575/2006 (O.J. No. L 100, 8.4.2006, p.3).
+
+[^c19503191]: Marginal citation: O.J. No. L 168, 28.6.2008, p.5.
+
+[^c19503201]: Marginal citation: O.J. No. L 163, 24.6.2008, p.6. This Regulation has been amended by Commission Regulation (EC) 598/2008 O.J. No. L 164, 25.6.2008, p.14.
+
+[^c19503211]: Marginal citation: O.J. No. L 299, 16.11.2007, p.1. This Regulation was last amended by Council Regulation (EC) 510/2008 (O.J. No. L 149, 7.6.2008, p.61).
+
+[^key-c95dce671f174257eea0856492ba2245]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2008/395/regulation/2/1) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-31f815fbfe295f4a439cdf92a74bf0a3]: Textual amendment: Words in reg. 2(1) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/a), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/2/b)
+
+[^key-eab96cacef2606ceda816b1887737a4c]: Textual amendment: Words in reg. 2(1) omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [Sch. 5 para. 16(a)(i)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/16/a/i)
+
+[^key-0807969ee865edf546a955c52becabac]: Textual amendment: Words in reg. 2(1) substituted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2010/450/regulation/4/a/ii)
+
+[^key-838a735fd0fe8eb08826b70fd0a40104]: Textual amendment: Words in reg. 2(1) substituted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [4(a)(iii)](https://www.legislation.gov.uk/ssi/2010/450/regulation/4/a/iii)
+
+[^c19503241]: Marginal citation: Section 5(2) was amended by paragraph 163(2) of Schedule 13 to the [Local Government etc (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-6ca67573e9b42438fecc6181a483e549]: Textual amendment: Words in reg. 2(1) inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2010/450/regulation/4/a/i)
+
+[^key-278dcfaac5fa4876153075423f825756]: Textual amendment: Words in reg. 2(1) inserted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/a), [4(2)(e)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/2/e)
+
+[^key-7540656eeb7bd0914dcb4a2b61a30241]: Textual amendment: Words in reg. 2(1) inserted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [Sch. 5 para. 16(a)(ii)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/16/a/ii)
+
+[^key-1271fbb7e88933504a28fd481b2e907e]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2008/395/regulation/2/1) omitted (9.12.2019) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/a), [4(2)(d)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/2/d)
+
+[^key-6dfb00346f3d926b333cf8f2999204e1]: Textual amendment: Words in reg. 2(1) inserted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/a), [4(2)(c)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/2/c)
+
+[^key-8b7d3715ea7f27aa9e6f0d542f02390f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2008/395/regulation/2/1) inserted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(2)(f)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ce3b2ff6f7b597c7d785154b1a8469c5]: Textual amendment: Words in reg. 2(3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/2/b)
+
+[^key-6b1754243028dd118bfee8af03ece51f]: Textual amendment: Reg. 2(4)(b) full stop omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/2/c/i)
+
+[^key-b0817b5bb1745b6a53b0cb5c6f72864e]: Textual amendment: Words in reg. 2(4)(b) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/2/c/ii)
+
+[^key-c400911b5e83fcca637226c7c72d216f]: Textual amendment: Words in reg. 2(5)(a) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(2)(d)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/2/d)
+
+[^key-ddac7f60ea995b24456f5de1e77df4f7]: Textual amendment: Reg. 2(6) inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2010/450/regulation/4/b)
+
+[^key-76455b941ebdbfc7e0551733df2c6605]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/ssi/2008/395/regulation/3/1/b) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(3)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/3/a)
+
+[^key-07119af3b322f48c64028af06374c409]: Textual amendment: Reg. 3(1)(c) inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2010/450/regulation/5/a)
+
+[^key-4299239b53029e8de7fac4e1808067a5]: Textual amendment: Words in reg. 3(2) substituted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2010/450/regulation/5/b)
+
+[^key-7ed61fe604ab8935c0bc59cca2d8ff40]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2008/395/regulation/3/2/b) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(3)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/3/b)
+
+[^key-607af08cacd7b2dc71f44e6becff2634]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/ssi/2008/395/regulation/3/2/c) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(3)(c)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/3/c)
+
+[^key-7308e8530d47a8c8f5a9a54763311308]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/ssi/2008/395/regulation/4) heading omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-71dd47ee0a4665b81e2be67fa76e3f93]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2008/395/regulation/5/1) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(4)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c19503251]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) contains a definition of “electronic communication”, and was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^key-28152adb2a0ad992da15a9252557b86e]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/ssi/2008/395/regulation/7) heading omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(5)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-869182e058199f722304d9790d98478b]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2008/395/regulation/9/1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(4)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/4/a)
+
+[^key-a15af439f7830b6db117bda9411000b8]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2008/395/regulation/9/1) substituted (31.12.2020) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/3), [2](https://www.legislation.gov.uk/ssi/2020/368/regulation/2)
+
+[^key-4886850cb37bf05bba63e8545df3a32b]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2008/395/regulation/9/2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/4/b/i)
+
+[^key-b21c04bcac6c9d95eba399d7d0fb1ed5]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2008/395/regulation/9/2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/4/b/ii)
+
+[^key-1cfaceb7146fe60ff9b2dea024fc4198]: Textual amendment: Reg. 9(3) inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [6](https://www.legislation.gov.uk/ssi/2010/450/regulation/6)
+
+[^key-c8377a1d20d055375c147273187df5da]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2008/395/regulation/11/3) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(6)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-44fdb5f122c67bf13a896960e7f9fbe8]: Textual amendment: [Reg. 11(3)(a)-(e)](https://www.legislation.gov.uk/ssi/2008/395/regulation/11/3/a) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(6)(b)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c18e0a73fed61e789f171d98ccb3215c]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2008/395/regulation/12/3) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-98602ba746818f99124c8613cf220383]: Textual amendment: [Reg. 12(3)(a)-(e)](https://www.legislation.gov.uk/ssi/2008/395/regulation/12/3/a) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(7)(b)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fedeb37e5fdc77b18f15f080e7eeeb3d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/ssi/2008/395/part/3A) inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [7](https://www.legislation.gov.uk/ssi/2010/450/regulation/7)
+
+[^key-9f80b3d787c7c9bb3655e6452bd85535]: Textual amendment: Word in [reg. 12A](https://www.legislation.gov.uk/ssi/2008/395/regulation/12A) heading omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(8)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3d17705da92ed00b1dc6f35210cb8a9e]: Textual amendment: Reg. 13A inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [8](https://www.legislation.gov.uk/ssi/2010/450/regulation/8)
+
+[^key-e3d7a8cfff719c93fcb2368e997f4990]: Textual amendment: Words in reg. 15(4) substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [Sch. 5 para. 16(b)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/16/b)
+
+[^key-6eb10cbb9842a9058439c0b78a77d4f1]: Textual amendment: Reg. 15A inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [9](https://www.legislation.gov.uk/ssi/2010/450/regulation/9)
+
+[^key-4985ecf432be93bc3497d2900c015aa2]: Textual amendment: Words in reg. 15A(4) substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [Sch. 5 para. 16(b)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/16/b)
+
+[^key-552a51dab579363ae4091a4f65553f05]: Textual amendment: Words in reg. 18 substituted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [10](https://www.legislation.gov.uk/ssi/2010/450/regulation/10)
+
+[^c19503271]: Marginal citation: Section 50 was amended by paragraph 18 of Schedule 16 to the [Deregulation and Contracting Out Act 1994 (1994 c. 40)](https://www.legislation.gov.uk/ukpga/1994/40).
+
+[^key-f43bc4f7011d141a73fdb3609c456b8c]: Textual amendment: Words in reg. 20(2)(a) substituted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [11](https://www.legislation.gov.uk/ssi/2010/450/regulation/11)
+
+[^c19503281]: Marginal citation: [S.S.I. 2008/129](https://www.legislation.gov.uk/ssi/2008/129).
+
+[^key-6169ee4a32285e73ca76b6a88380ea4c]: Textual amendment: Reg. 22(1) revoked (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [18](https://www.legislation.gov.uk/ssi/2010/450/regulation/18)
+
+[^key-0edf3eff3e56cffe8e40b9f8811cab74]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2008/395/schedule/1) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2025/407/regulation/3/a)
+
+[^key-58cfad25510829ae4ffeccff0f77b484]: Textual amendment: Words in Sch. 1 Pt. 1 heading inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/5/a)
+
+[^key-ea4ff2b31315118d5feaef3665820336]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/5/b)
+
+[^key-1d2d5e650190f5bae1245a781b125a3a]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2008/395/schedule/1/part/1) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/b), [4(9)(b)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/9/b)
+
+[^key-98e8e8d9d847afdbff67a85655c17e67]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(5)(d)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/5/d)
+
+[^key-967e310ef1547a7a554c7645fd5e2995]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/1/part/2) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(9)(c)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d6dd716e7ea4c531306894e19ecfd037]: Textual amendment: Word in [sch. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2) heading substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/ssi/2025/407/regulation/3/b/i)
+
+[^key-250f3b8c297a80aacb92fa4c1794aee9]: Textual amendment: Sch. 2 Pt. 1 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(6)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/6/a)
+
+[^key-a45558d7c08e918b89b191d75b5ac157]: Textual amendment: Words in [sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/1) table omitted (2.2.2023) by virtue of [The Agriculture (Retained EU Law and Data) (Scotland) Act 2020 (Consequential Modifications) and Agricultural Products, Aquatic Animal Health and Genetically Modified Organisms (EU Exit) (Amendment) Regulations 2022 (S.S.I. 2022/361)](https://www.legislation.gov.uk/ssi/2022/361), [regs. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1), [15](https://www.legislation.gov.uk/ssi/2022/361/regulation/15)
+
+[^key-424e897972b407eb0a5ae92ebefb5b87]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(6)(b)(i)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/6/b/i)
+
+[^key-2442ee4498d41ba533c89ad63fefb695]: Textual amendment: Words in Sch. 2 Pt. 2 inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [13](https://www.legislation.gov.uk/ssi/2010/450/regulation/13)
+
+[^key-656ee61668e3527abbfbf8525958045f]: Textual amendment: Words in Sch. 2 Pt. 2 inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [15](https://www.legislation.gov.uk/ssi/2010/450/regulation/15)
+
+[^key-cdac8d66ff588cd242eed0e0dfb16d9a]: Textual amendment: Words in [sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/2) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(10)(c)(i)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/10/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9d77f110f05fc5a7ae1e9833702a1c5f]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/6/b/ii)
+
+[^key-eceb36e04523375710eb038eb73996e5]: Textual amendment: Words in Sch. 2 Pt. 2 inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [14](https://www.legislation.gov.uk/ssi/2010/450/regulation/14)
+
+[^key-5eb66ab77a33a387c7c242081000f9a7]: Textual amendment: Words in Sch. 2 Pt. 2 inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [16](https://www.legislation.gov.uk/ssi/2010/450/regulation/16)
+
+[^key-7ae9deb9b4cf7ee96b6580a3a73222d5]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/6/b/iii)
+
+[^key-bf203b6739b055f0f0480c7823ed6c0f]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [Sch. 5 para. 16(c)(i)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/16/c/i)
+
+[^key-052e20372291dfa160258e8e78dcba3e]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [Sch. 5 para. 16(c)(ii)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/16/c/ii)
+
+[^key-b52365fe5a73a9e533811539db15c5e2]: Textual amendment: Words in [sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/2) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(10)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/10/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-70de93e10848b4dcbb5f48216f4d5eb5]: Textual amendment: Words in [sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(10)(c)(iii)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/10/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5e36f8fc21e7449758ffe78bedca3f4e]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(6)(b)(v)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/6/b/v)
+
+[^key-aa6efaaa19576e82488bcca48cfb9571]: Textual amendment: Words in [sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/2) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(10)(c)(iv)(aa)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/10/c/iv/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7c48912423f6dbd42e817bb31b8a684b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/2) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(c)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/c), [4(10)(c)(iv)(bb)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/10/c/iv/bb)
+
+[^key-3e1e1bebdad8964e28f47aafcda2f4be]: Textual amendment: Words in [sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(10)(c)(v)(aa)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/10/c/v/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c633e37777dfffda56986b4340638adc]: Textual amendment: Words in [sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(10)(c)(v)(bb)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/10/c/v/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5e3a34fe479d04ed470bfe8df3bd74b9]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [Sch. 5 para. 16(c)(iii)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/16/c/iii)
+
+[^key-0e0794f0d5c89e4e7e11523bce2801e3]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/2) substituted (9.12.2019) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(2)(c)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/2/c), [4(10)(c)(vi)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/10/c/vi)
+
+[^c19503321]: Marginal citation: O.J. L 139, 30.4.2004, p.1.
+
+[^key-4f5526d5749f5e7c6480db3a34da6bee]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(6)(b)(vi)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/6/b/vi)
+
+[^key-73a0354c356a5cc1b6dd82e6eb88f157]: Textual amendment: Word in [sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/2) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/3/b/ii)
+
+[^key-4cc91c2854e3dd751e1d86480545f408]: Textual amendment: Words in [sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2008/395/schedule/2/part/2) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/347)](https://www.legislation.gov.uk/ssi/2019/347), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2019/347/regulation/1/3), [4(10)(c)(vii)](https://www.legislation.gov.uk/ssi/2019/347/regulation/4/10/c/vii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e4b2585b67760a44aa1ce9357e0b65f1]: Textual amendment: Sch. 2A inserted (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [17](https://www.legislation.gov.uk/ssi/2010/450/regulation/17)
+
+[^key-c701395f5059b6fe3b3a165deb7ca84f]: Textual amendment: Word in [sch. 2A](https://www.legislation.gov.uk/ssi/2008/395/schedule/2A) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/740/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1cbca6ae060e79cbf8b28a2c2082a3d4]: Textual amendment: Words in [sch. 2A](https://www.legislation.gov.uk/ssi/2008/395/schedule/2A) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [18(7)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/18/7)
+
+[^c19503331]: Marginal citation: [S.I. 1995/3124](https://www.legislation.gov.uk/uksi/1995/3124), to which the last relevant amendment was made by [S.S.I. 2008/129](https://www.legislation.gov.uk/ssi/2008/129)..
+
+[^c19503341]: Marginal citation: O.J. No. L 299, 16.11.2007, p.1. This Regulation was last amended by Council Regulation (EC) No. 510/2008 (O.J. No. L 149, 7.6.2008, p.61).
+
+[^c19503351]: Marginal citation: O.J. No. L 163, 24.6.2008, p.6. This Regulation has been amended by Commission Regulation (EC) 598/2008 (O.J. No. L 164, 25.6.2008, p.14).
+
+[^c19503361]: Marginal citation: [S.I. 1996/1499](https://www.legislation.gov.uk/uksi/1996/1499), to which the last relevant amendment was made by [S.S.I. 2008/129](https://www.legislation.gov.uk/ssi/2008/129).
+
+[^key-4765c7ed146f545a12d3ea658c37cb7b]: Textual amendment: [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/ssi/2008/395/schedule/3/paragraph/2/b) revoked (29.1.2011) by [The Eggs and Chicks (Scotland) Amendment Regulations 2010 (S.S.I. 2010/450)](https://www.legislation.gov.uk/ssi/2010/450), [regs. 1](https://www.legislation.gov.uk/ssi/2010/450/regulation/1), [18](https://www.legislation.gov.uk/ssi/2010/450/regulation/18)
+
+[^c19503381]: Marginal citation: [S.S.I. 2006/3](https://www.legislation.gov.uk/ssi/2006/3), to which the last relevant amendment was made by [S.S.I. 2008/129](https://www.legislation.gov.uk/ssi/2008/129).
+
+[^c19503391]: Marginal citation: [S.S.I. 2006/336](https://www.legislation.gov.uk/ssi/2006/336).
+
+[^c19503401]: Marginal citation: [S.S.I. 2006/337](https://www.legislation.gov.uk/ssi/2006/337), to which the last relevant amendment was made by [S.S.I. 2008/129](https://www.legislation.gov.uk/ssi/2008/129).

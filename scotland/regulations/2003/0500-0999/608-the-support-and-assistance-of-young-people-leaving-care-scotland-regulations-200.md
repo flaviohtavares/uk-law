@@ -1,0 +1,631 @@
+---
+title: The Support and Assistance of Young People Leaving Care (Scotland) Regulations 2003
+id: ssi/2003/608
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2003-12-18'
+text_date: '2015-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2003/608
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2003/608/pdfs/ssi_20030608_en.pdf
+- http://www.legislation.gov.uk/ssi/2003/608/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Support and Assistance of Young People Leaving Care (Scotland) Regulations 2003
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2015-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2003/608
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2003 No. 608
+
+CHILDREN AND YOUNG PERSONS
+
+The Support and Assistance of Young People Leaving Care (Scotland) Regulations 2003
+
+Made
+
+18th December 2003
+
+Laid before the Scottish Parliament
+
+19th December 2003
+
+Coming into force
+
+1st April 2004
+
+The Scottish Ministers, in exercise of the powers conferred by section 73(2)(a), (c) and (d) and (3) of the Regulation of Care (Scotland) Act 2001[^f00001] and section 17(1) of the Children (Scotland) Act 1995[^f00002] and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation and commencement[^key-1217ec9692de74412800100e50bc95cd]
+
+These Regulations may be cited as the Support and Assistance of Young People Leaving Care (Scotland) Regulations 2003 and shall come into force on 1st April 2004.
+
+## 2. Interpretation[^key-3e7d7a1200bc8f47a73903979435ee22]
+
+(1) In these Regulations, unless the context otherwise requires–
+
+- “the 1995 Act” means the Children (Scotland) Act 1995;
+- “appellant” means any person who has made representations under regulation 16 relating to the matters referred to therein concerning section 29(1) , (5A) or (5B)[^key-cafde84f4f0d9f288894624f5027bf16] of the 1995 Act;
+- “compulsorily supported person” means a young person to whom a local authority is obliged to provide advice, guidance and assistance in terms of section 29(1) of the 1995 Act or, after a pathway assessment, in terms of section 29(5A)(a) of the[^key-447cdf9adac3d1706291f784ccd912f3] 1995 Act;
+- “currently looked after person” means a person who is over school age, but is less than eighteen years of age and who is being looked after by a local authority;
+- “discretionarily supported person” means a young person to whom , after a pathway assessment,[^key-43caa94902b81498ee807bb3482ea80c] a local authority has agreed to provide advice, guidance and assistance in terms of section 29(5A)(b)[^key-e91caa49b60b1ff118b390f8a27f61c3] of the 1995 Act or a young person to whom a local authority has agreed to continue to provide advice, guidance and assistance after the person reaches the age of twenty-six in terms of section 29(5B) of the[^key-cd644680fa3c7119eef014b5809a156c] 1995 Act;
+- “further education” has the meaning given to it in sections 1 and 6 of the Further and Higher Education (Scotland) Act 1992[^f00003];
+- “higher education” has the meaning given to it in section 38 of the Further and Higher Education (Scotland) Act 1992;
+- “independent person” means a person appointed by the local authority under regulation 19 to assist in considering an appeal under these Regulations, which person shall not be a member of the political party forming the ruling group on the local authority or an officer of any local authority, and who has not been such a member or officer during the period of one year prior to being appointed to assist in considering an appeal under these Regulations;
+- “looked after” has the meaning given to it in section 17(6) of the 1995 Act;
+- “nominated officer” means the officer appointed under regulation 16(3).
+- “parent” has the meaning given to it in section 15(1) of the 1995 Act;
+- “parental responsibilities” has the meaning given to it in section 1 of the 1995 Act;
+- “pathway assessment” means an assessment of need carried out under section 29(5) of the 1995 Act;
+- “pathway co ordinator” means a person appointed by the responsible authority in terms of regulations 4 or 6;
+- “pathway plan” means a written plan setting out details of the advice, guidance and assistance that a local authority intends to provide pursuant to its duties under section 29(1) , (5A) or (5B)[^key-b31ab75ab433519b3ee5568ee17b0a3a] of the 1995 Act;
+- “pathway views” means the views of the young person given under regulation 3;
+- “prospective supported person” means a young person who has made an application to a local authority for assistance in terms of section 29(2) of the 1995 Act which has yet to be determined;
+- “responsible authority” means–
+  - (a) in relation to a currently looked after person, the local authority looking after that person; and
+  - (b) in relation to a compulsorily supported or a discretionarily supported person, the local authority which last looked after the person; and
+- “young person’s supporter” means a person appointed by the responsible authority in terms of regulation 5.
+
+(2) Any reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in the Electronic Communications Act 2000[^f00004], which has been recorded and is consequently capable of being reproduced.
+
+## 3. Involvement of the young person[^key-56f0b019873d58c0a0979988bc0ac44b]
+
+(1) When carrying out a pathway assessment, the responsible authority shall, unless it is not reasonably practicable to do so–
+
+- (a) seek and have regard to the views of the young person to whom it relates (“the pathway views”); and
+- (b) take all reasonable steps to enable the young person to attend and participate in any meetings at which the pathway assessment relating to that young person is being considered.
+
+(2) In seeking the pathway views of the young person, the responsible authority shall include each of the matters referred to in Schedule 1.
+
+(3) The responsible authority shall ensure that a written record of the pathway views is prepared and maintained (“the written record of the pathway views”).
+
+(4) The responsible authority shall, as soon as reasonably practicable, provide the young person with copies (where appropriate) of–
+
+- (a) the written record of the pathway views;
+- (b) the written record of the results of the pathway assessment;
+- (c) the pathway plan;
+- (d) the written record of the results of each review of the young person’s pathway plan; and
+- (e) an explanation of the procedure for making representations under these Regulations,
+
+and shall ensure that the contents of each document are explained to the young person.
+
+## 4. Pathway co-ordinator[^key-64c922e67236132c35a856d33fa176be]
+
+(1) A local authority shall appoint for each compulsorily supported person and each discretionarily supported person in respect of whom it is the responsible authority, a pathway co ordinator.
+
+(2) A pathway co ordinator shall be an individual person who is, in the opinion of the responsible authority, suitable and capable of performing the functions specified in paragraph (5).
+
+(3) A pathway co ordinator may or may not be an officer of the responsible authority, but shall in either event act on its behalf.
+
+(4) Before appointing a pathway co ordinator, the responsible authority shall seek and take into account the views of the young person as regards that appointment.
+
+(5) The functions of a pathway co ordinator in relation to a compulsorily supported person or a discretionarily supported person are to–
+
+- (a) provide advice and support;
+- (b) ensure that person’s pathway views are sought and taken into account;
+- (c) participate in that person’s pathway assessment and the preparation of the relevant pathway plan;
+- (d) participate in reviews of the pathway plan;
+- (e) ensure where relevant that person’s supporter is informed of that person’s pathway views, pathway assessment, and pathway plan, subject in each case to that person’s written consent having been obtained;
+- (f) co ordinate the provision of services arising from the pathway plan or its review;
+- (g) keep themselves informed about the progress and well being of that person; and
+- (h) maintain a written record of their discussions with that person.
+
+## 5. Young person’s supporter[^key-a89eb18c7d62ee4663ed2e0ead311831]
+
+(1) A young person to whom these Regulations apply may ask the responsible authority to appoint a person to support them (“young person’s supporter”) in relation to some or all of the functions specified in paragraph (4).
+
+(2) A young person’s supporter shall be an individual person (who is not the pathway co ordinator) and may or may not be an officer of the responsible authority.
+
+(3) A young person’s supporter shall be nominated by the young person to the responsible authority which shall appoint the person so nominated, subject to that person being willing to accept the appointment and subject also to the responsible authority considering that person to be suitable and capable of performing the functions specified in paragraph (4).
+
+(4) The functions of a young person’s supporter are where requested to–
+
+- (a) provide advice and support;
+- (b) assist the young person in giving their pathway views;
+- (c) participate in the young person’s pathway assessment and the preparation of the relevant pathway plan;
+- (d) participate in reviews of the pathway plan.
+
+(5) The young person’s supporter shall keep themselves informed about the progress and well being of the young person.
+
+## 6. Preparation for when no longer looked after by a local authority[^key-123d18f170b45af883411dbc086363b9]
+
+In carrying out its duties under section 17(1)(a) of the 1995 Act to prepare a currently looked after person for when that person is no longer looked after, a local authority shall, in relation to each currently looked after person in respect of whom it is the responsible authority–
+
+- (a) seek their pathway views;
+- (b) carry out a pathway assessment with a view to determining what advice, guidance and assistance it would be appropriate for the authority to provide to that person to prepare them for when they are no longer looked after;
+- (c) if the responsible authority considers it necessary or desirable to do so, prepare a pathway plan for that person; and
+- (d) if the responsible authority considers it necessary or desirable to do so, appoint a pathway co ordinator for that person.
+
+## 7. Pathway assessment – general[^key-c56e3be194f1626700ca51739374aed8]
+
+(1) The responsible authority shall prepare and publish a written statement detailing the manner in which the needs of currently looked after persons, compulsorily supported persons under section 29(1) of the[^key-d67b9146a2fa93897db505757e006bca] 1995 Act and prospective supported persons are to be assessed.
+
+(2) In relation to each young person whose needs are to be assessed, the responsible authority shall conclude a written agreement with the young person (“the initial agreement”) setting out details of–
+
+- (a) the name of the pathway co ordinator;
+- (b) the timetable for the pathway assessment; and
+- (c) the persons who are to be consulted for the purposes of the pathway assessment.
+
+(3) The responsible authority shall provide a copy of the initial agreement to the young person and, so far as reasonably practicable to do so, and subject also to the young person’s written consent first having been obtained, to those persons who are to be consulted for the purposes of the pathway assessment.
+
+(4) Nothing in these Regulations shall prevent the carrying out of any assessment or review under these Regulations at the same time as there is being carried out any assessment or review or other consideration under any other enactment.
+
+## 8. Pathway assessment – individual Cases[^key-5c675e948c04f16c87c85145e013de6a]
+
+(1) When carrying out its duties under section 29(5) of the 1995 Act, the responsible authority shall assess, in accordance with these Regulations, the needs of each compulsorily supported person under section 29(1) of the[^key-d0c7ad0ac66bd9e1d7dbfe547f798e6e] 1995 Act and each prospective supported person who does not already have a pathway plan.
+
+(2) Unless it is not reasonably practicable to do so, the responsible authority shall not complete a pathway assessment without the pathway views of the young person having been obtained and the written record of the pathway views being available.
+
+(3) The responsible authority shall take into account the written record of the pathway views of the young person, which shall be recorded in the pathway assessment.
+
+(4) In carrying out a pathway assessment, the responsible authority shall include each of the matters referred to in Schedule 2.
+
+(5) The responsible authority shall ensure that a written record is maintained of the–
+
+- (a) information obtained in the course of completing a pathway assessment;
+- (b) deliberations at any meeting held in connection with any aspect of a pathway assessment; and
+- (c) results of a pathway assessment.
+
+(6) In carrying out a pathway assessment, the responsibilities authority may seek the views of–
+
+- (a) the parents of the young person;
+- (b) any person who is not a parent but has parental responsibilities for a compulsorily supported person;
+- (c) any person who on a day to day basis cares for, or provides accommodation for, the young person;
+- (d) the head teacher or principal of any school or college attended by the young person or the education authority for the area in which the young person lives;
+- (e) any person providing health care or treatment to the young person;
+- (f) any pathway co ordinator appointed for the young person;
+- (g) any young person’s supporter appointed for the young person; and
+- (h) any other person whose views the responsible authority, or the young person, consider may be relevant,
+
+and the responsible authority shall take into account any such views that have been obtained.
+
+## 9. Pathway assessments – timescales[^key-a93fa9700eb9df48b92f32dd0b2e44e7]
+
+The pathway assessment shall be completed–
+
+- (a) in the case of a compulsorily supported person under section 29(1) of the[^key-39f74ace42840602df16030a028ce4f3] 1995 Act, not more than three months after the date on which that person becomes a compulsorily supported person; and
+- (b) in the case of a prospective supported person, not more than three months after the date on which that person makes an application for advice, guidance and assistance under section 29(2) of the 1995 Act.
+
+## 10. Pathway plans[^key-5d0fbd7545b8754eef673061698e7d29]
+
+(1) In completing a pathway plan the responsible authority shall take account of the pathway assessment.
+
+(2) In completing a pathway plan the responsible authority shall take into account the pathway views of the young person and shall seek and record the views of the young person on the pathway plan.
+
+(3) In completing a pathway plan the local authority shall include each of the matters referred to in Schedule 2.
+
+(4) A pathway plan shall, in relation to each of the matters referred to in Schedule 2, set out the–
+
+- (a) manner in which the responsible authority proposes to meet the needs of the young person; and
+- (b) date by which, and by whom, any action required to implement any aspect of the pathway plan will be carried out.
+
+(5) The responsible authority shall ensure that a written record is maintained of the–
+
+- (a) information obtained in the course of completing a pathway plan;
+- (b) deliberations at any meeting held in connection with any aspect of a pathway plan; and
+- (c) pathway plan.
+
+(6) In completing a pathway plan, the responsible authority may seek, and shall if it does so take account of, the views of the persons or body referred to in regulation 8(6).
+
+(7) The responsible authority shall distribute copies of the pathway plan to any person or body which it considers may have an interest in it, subject however to the young person’s written consent to do so first having been obtained.
+
+## 11. Pathway plans – timescales[^key-b76c76cf5c8ad8de76d8c41e60bc9cc1]
+
+(1) Within 21 days after completion of a pathway assessment for a compulsorily supported person under section 29(1) of the[^key-f9dac7337693e64f85a75b8f154cb5e4] 1995 Act, the responsible authority shall prepare a pathway plan for that person.
+
+(2) Within 14 days after completion of a pathway assessment for a prospective supported person, the responsible authority [^key-e246e61daccebd16dd5387d38503f170]..., after taking the pathway assessment into account—
+
+- (a)[^key-aacc07e75ffbf7b2e777109f27162051] must, if satisfied that the person has any eligible needs which cannot be met other than by taking action under section 29(5A)(a) of the 1995 Act, decide that it will provide the person with such advice, guidance and assistance as it considers necessary for the purposes of meeting those needs; or
+- (b) may otherwise, under section 29(5A)(b) of the 1995 Act, decide to provide such advice, guidance and assistance as it considers appropriate having regard to the person’s welfare.
+
+(3) The responsible authority shall notify the decision under paragraph (2), in writing, to the prospective supported person within 7 days of the decision being reached.
+
+(4) Within 21 days after the decision under paragraph (2)[^key-64bc5aff72f8f8fb7440f172533ec475], the responsible authority shall prepare a pathway plan for—
+
+- (a)[^key-4e252076c90a1d6af3d243e58bccfcdf] the compulsorily supported person under section 29(5A)(a) of the 1995 Act; or
+- (b) the discretionarily supported person under section 29(5A)(b) of the 1995 Act.
+
+(5)[^key-b124886ed2ffb8ae9879267391c534c7] If a responsible authority decides under section 29(5B) of the 1995 Act to continue to provide advice, guidance and assistance to a young person after the person reaches the age of twenty-six, the responsible authority shall, within 21 days of that decision, prepare a pathway plan for that discretionarily supported person.
+
+## 12. Review of pathway plans[^key-94f0d7429db6468b2351557261bfbc5e]
+
+(1) The responsible authority shall review the pathway plan relating to each compulsorily supported person and each discretionarily supported person, in accordance with this regulation.
+
+(2) The responsible authority shall carry out such a review–
+
+- (a) if requested to do so by the young person; or
+- (b) in the event that the responsible authority, or the pathway co ordinator, or young person’s supporter considers a review necessary; and
+- (c) in any other case, at intervals not exceeding 6 months.
+
+(3) In carrying out a review the responsible authority shall consider whether, in relation to each of the matters set out in Schedule 2, any change requires to be made to the pathway plan.
+
+(4) In carrying out a review the responsible authority shall seek and record the views of the young person.
+
+(5) In carrying out a review, the responsible authority may seek, and shall if it does so take account of, the views of the persons or body referred to in regulation 8(6).
+
+(6) The responsible authority shall ensure that a written record is maintained of the–
+
+- (a) information obtained in the course of reviewing the pathway plan;
+- (b) deliberations at any meeting held in connection with any aspect of the review of the pathway plan; and
+- (c) results of the review of the pathway plan.
+
+(7) The responsible authority shall distribute copies of the written record of the results of the review of the pathway plan to any person or body which it considers may have an interest in it, subject however to the young person’s written consent to do so first having been obtained.
+
+## 13. Manner in which financial assistance is provided[^key-003e3c810fb65c9a62ee6476ffb2d361]
+
+(1) Save in exceptional circumstances and subject to paragraphs (2) and (5), the responsible authority shall only provide regular financial support to a compulsorily supported person less than eighteen years of age who has been looked after and accommodated for a period of or periods totalling 13 weeks or more since the age of 14.
+
+(2) The responsible authority shall not provide regular financial assistance to a person who falls within paragraph (1), and who lives with their family, except where that person would have been entitled to receive social security benefits but for the operation of the regulations made pursuant to section 6 of the Children (Leaving Care) Act 2000[^f00005].
+
+(3) The responsible authority shall ensure that the value of any assistance given to a compulsorily supported person (whether in cash or in kind) is not less than the value of social security benefits that the young person would have been entitled to, but for the operation of the regulations made pursuant to section 6 of the Children (Leaving Care) Act 2000.
+
+(4) A local authority shall provide to a compulsorily supported person or a discretionarily supported person such assistance (whether in cash or in kind) as it considers necessary in the circumstances until such time as the young person’s pathway assessment and (where appropriate) pathway plan have been completed.
+
+(5) In calculating the period of 13 weeks referred to in paragraph (1), no account shall be taken of periods in which the young person has been looked after in circumstances where–
+
+- (a) the local authority arranged to place the young person in a pre-planned series of short term placements, none of which individually exceeds 4 weeks (even if they may amount in all to a period of 13 weeks or more); and
+- (b) at the end of each such placement the young person returns to the care of their family.
+
+(6) In this regulation–
+
+- (a) “social security benefits” means income support, income based job seeker’s allowance , universal credit[^key-8eb77c9e69e4ae4f2239b41b93cc2152] and housing benefit as such benefits may be varied, amended or replaced from time to time;
+- (b) “family” includes any person who has parental responsibilities for the young person and any person with whom the young person was living prior to being looked after by a local authority, but does not include a local authority; and
+- (c) “accommodated” means provided with accommodation by a local authority pursuant to its duties under section 25 of the 1995 Act or in compliance with a direction made in a supervision requirement under section 70(3) of that Act or by giving effect to a compulsory supervision order or interim compulsory supervision order and a requirement within that order of the type mentioned in section 83(2)(a) or 86(2) of the Children’s Hearings (Scotland) Act 2011 (“residence requirement”)[^key-c287593b9e84af2b64f904789e46e769], but it does not include circumstances where the young person has been placed with that young person’s family either under arrangements made under section 26(1)(c) of the 1995 Act or in compliance with a direction made in a supervision requirement under that Act or by giving effect to a residence requirement within a compulsory supervision order or interim compulsory supervision order[^key-a46298b4f882b2b6d0cdb7750090633c].
+
+## 14. Assistance by way of accommodation[^key-f2047e31d012607cb25c78c6a17bbaa9]
+
+(1) The responsible authority shall, if necessary, assist a compulsorily supported person or a discretionarily supported person by providing that person with, or supporting that person in, suitable accommodation.
+
+(2) In this regulation, “suitable accommodation” means accommodation–
+
+- (a) which, so far as reasonably practicable, is suitable for the young person having regard to that young person’s needs, including their health needs and any needs arising from any disability;
+- (b) in respect of which the responsible authority has satisfied itself as to the suitability of the Landlord or other provider; and
+- (c) in respect of which the responsible authority has, so far as reasonably practicable, taken into account the young person's–
+  - (i) wishes and views; and
+  - (ii) education, training or employment needs.
+
+(3) Where the responsible authority is satisfied that a compulsorily supported person or a discretionarily supported person who is in full time further education or higher education requires accommodation during a vacation, because that person’s term time accommodation is not as a result of that vacation available, it shall give assistance to that person by–
+
+- (a) providing that person with suitable accommodation during that vacation; or
+- (b) paying that person such amount as it considers sufficient to enable them to secure such accommodation themselves.
+
+## 15. Retention and confidentiality of records[^key-79af545685b3f215d8ebf798cccb1924]
+
+(1) All records relating to pathway assessments, pathway plans and reviews of pathway plans shall be retained by the responsible authority until the 75th anniversary of the date of birth of the young person to whom it relates, or for a period of 25 years beginning with the date of death of the young person, whichever is the later.
+
+(2) The requirement in paragraph (1) may be complied with by retaining the original written records or copies of them, or by keeping all or part of the information contained in them in some other accessible form, including electronic form.
+
+(3) The records mentioned in paragraph (1) shall be kept securely and may not be disclosed to any person except in accordance with any–
+
+- (a) provision of, or made under, or by virtue of, a statute under which access to such records is authorised;
+- (b) court order authorising access to such records; or
+- (c) other provision contained within these Regulations.
+
+## 16. Appeals – general[^key-078cdfaef657b9ac0f74ff28fc6449db]
+
+(1) Any representation, the substance of which is an appeal by any person mentioned in section 29(1) or (2) of the 1995 Act against a local authority decision—
+
+- (a)[^key-5107235e0afece5a9002e3e97615f43e] not to provide advice, guidance and assistance under section 29(5A) of the 1995 Act;
+- (b) not to continue to provide advice, guidance and assistance under section 29(5B) of the 1995 Act; or
+- (c) in relation to the level or nature of advice, guidance or assistance to be provided under section 29(1), (5A) or (5B) of the 1995 Act,
+
+shall be dealt with as an appeal in accordance with paragraphs (3) and (4) of this regulation, and regulations 17 to 20.
+
+(2) All complaints, representations or appeals not falling within paragraph (1) shall be dealt with in accordance with the procedure established under section 5B of the Social Work (Scotland) Act 1968[^f00006].
+
+(3) Each local authority shall appoint one of their officers as the nominated officer, to assist the authority in co ordinating their consideration of any appeal under paragraph (1).
+
+(4) Each local authority shall send to the appellant an explanation of the procedure set out in these Regulations for appeals under paragraph (1).
+
+## 17. Appeals – procedural matters[^key-54cf99cc740a951aa11270452e15bc24]
+
+(1) An appeal under these Regulations may be made, either orally or in writing, to the responsible authority.
+
+(2) In the event that an appeal under these Regulations is made orally, the responsible authority shall immediately record in writing the making of such appeal, together with the details thereof (“the written record”).
+
+(3) A copy of the written record shall immediately be sent to the appellant, who shall have the opportunity to comment on it.
+
+(4) The responsible authority shall have regard to any comments made by the appellant under paragraph (3), and shall amend the written record as necessary, to take account of the appellant’s comments.
+
+(5) The written record, as amended in terms of paragraph (4), shall represent the appeal under these Regulations.
+
+(6) An appeal under these Regulations may be withdrawn by the appellant at any stage, upon giving written notice to that effect to the responsible authority.
+
+## 18. Informal resolution of appeals[^key-90841ba7306e6794e69b7c8c00687922]
+
+(1) Where a local authority receives an appeal under these Regulations, it shall–
+
+- (a) provide the nominated officer with a written summary of the details of the appeal;
+- (b) subject to paragraph (2), endeavour to resolve the appeal, by informal means, within a period of 5 working days, which period will commence when an appeal under these Regulations is made, either orally or in writing, in terms of regulation 17(1); and
+- (c) subject to paragraph (2), if at the end of that 5 day period no such resolution has been achieved, notify the nominated officer.
+
+(2) The aforementioned 5 day period may be extended by mutual agreement between the parties to that effect.
+
+## 19. Formal resolution of appeals[^key-962259dc3e00f2903d08b22f5e9ab9f2]
+
+(1) Where an appeal under these Regulations has not been resolved in terms of the procedure set out in regulation 18, the local authority shall appoint an independent person to assist in considering the appeal.
+
+(2) The appeal shall be considered, at a meeting, by an officer of a local authority not involved in the decision appealed against (which officer shall be of a higher grade or rank than that of the officer previously involved) together with an independent person.
+
+(3) At the meeting referred to in paragraph (2), said officer, together with the independent person, shall consider any oral or written submissions made by the–
+
+- (a) appellant and by the local authority; and
+- (b) pathway co-ordinator, young person’s supporter (if appointed) nominated officer, or by any other person nominated by the appellant to speak on their behalf in terms of paragraph (5).
+
+(4) The appellant, together with the appellant’s pathway co-ordinator and young person’s supporter, and the nominated officer, shall be invited to attend the meeting referred to in paragraph (2).
+
+(5) The appellant may also be accompanied by another person of their choice, and may nominate that person to speak on their behalf at the meeting.
+
+(6) The independent person shall assist the officer of the local authority, as referred to in paragraph (2), in considering the appeal, but the decision upon the appeal shall be made by the officer of the local authority, alone.
+
+(7) The independent person shall participate in any discussions held by the local authority to determine the action (if any) to be taken as a consequence of the authority’s decision upon the appeal (“the appeal decision”).
+
+(8) The procedure under this regulation shall be completed within 10 working days of notification being made to the nominated officer in terms of regulation 18(c).
+
+## 20. Notification of decision and right of further appeal[^key-a62cd669ed1ab667d6476719498548c6]
+
+(1) The local authority shall give written notice, within 2 working days of the procedure under regulation 19 being completed, to–
+
+- (a) the appellant;
+- (b) the independent person;
+- (c) the nominated officer;
+- (d) the pathway co ordinator;
+- (e) the young person’s supporter (if one has been appointed); and
+- (f) any other person whom the local authority considers has an interest in the case,
+
+of the appeal decision together with any further action which it proposes to take.
+
+(2) The written notice shall record any dissent on the part of the independent person in relation to the appeal decision.
+
+(3) There shall be no further appeal under these Regulations against a decision made under them, but so far as not exhausted by that process the appellant shall be entitled to make representations in terms of the procedure established under section 5B of the Social Work (Scotland) Act 1968.
+
+EUAN ROBSON
+
+Authorised to sign on behalf of the Scottish Ministers
+
+St Andrew’s House, Edinburgh
+
+18th December 2003
+
+## SCHEDULE 1
+
+regulation 3(2)
+
+### 1. Matters to be included in the pathway views[^key-0f11d98f31451d4ee57a3c667a105bfc]
+
+The young person’s hopes for the future.
+
+### 2.[^key-c2957818a531ab5c38afc97e34f81f60]
+
+The young person’s emotional state, day to day activities, personal safety, influences on the young person and the young person’s personal identity.
+
+### 3.[^key-f36ab3b31d3b888fac2f510821e8bed2]
+
+The young person’s family relationships, their children, other caring responsibilities, life story, friends, and other significant people in their life.
+
+### 4.[^key-227713d6f2f70f1a6815c2530ac06525]
+
+The young person’s general health (including any mental health needs), contact with health services, medical conditions and disabilities, activities that might affect the young person’s health, and emotional and mental well being.
+
+### 5.[^key-da0a6bd9b61c981db07815ea7dcaa8ce]
+
+The young person’s future plans for study, training or work, schooling (including support needs), skills and experience, qualifications and certificates, and training and work.
+
+### 6.[^key-cdff50d3fc30b5ed00cd84d02b50ab06]
+
+The young person’s accommodation arrangements, practical living skills, accommodation options for the future, and support required for living.
+
+### 7.[^key-67edc2e4df7d892ec2364fdef046159c]
+
+The young person’s sources of income, outgoings, savings and debts, requirement for financial support, and budgeting skills.
+
+### 8.[^key-1afff1aa1700a098392a1fa99f21efcb]
+
+The young person’s knowledge of their rights and legal entitlements, involvement in legal proceedings, including criminal proceedings as a victim, witness, or alleged perpetrator.
+
+## SCHEDULE 2
+
+regulation 8(4)
+
+### 1. Matters to be included in the pathway assessment, pathway plan and review of the pathway plan[^key-c76c7b72026467205c4f4687446cdd8b]
+
+The young person’s emotional state, day to day activities, personal safety, influences on the young person and the young person’s personal identity.
+
+### 2.[^key-32400b165e5e0502a878c07bf2eb12e4]
+
+The young person’s family relationships, their children, other caring responsibilities, life story, friends, and other significant people in their life.
+
+### 3.[^key-2027547bfa4cc115670dc55475892e81]
+
+The young person’s general health (including any mental health needs), contact with health services, medical conditions and disabilities, activities that might affect the young person’s health, and emotional and mental well being.
+
+### 4.[^key-4413d11bffc0d481abd28760256f1eb8]
+
+The young person’s future plans for study, training or work, schooling (including support needs), skills and experience, qualifications and certificates, and training and work.
+
+### 5.[^key-0596a57df0261e72657f365542550fa6]
+
+The young person’s accommodation arrangements, practical living skills, accommodation options for the future, and support required for living.
+
+### 6.[^key-b312034c91d38c07a01f8aae5b914d9c]
+
+The young person’s sources of income, outgoings, savings and debts, requirement for financial support, and budgeting skills.
+
+### 7.[^key-3329d58da59fb3c64aa1e84033f2b579]
+
+The young person’s knowledge of their rights and legal entitlements, involvements in legal proceedings, including criminal proceedings as a victim, witness, or alleged perpetrator.
+
+(This note is not part of the Regulations)
+
+These Regulations, which come into force on 1st April 2004, deal with the provision of aftercare under section 29 of the Children (Scotland) Act 1995 (“the 1995 Act”) for young people who have been looked after by local authorities, but are no longer looked after by them. They also provide for throughcare preparation for young people leaving care, under section 17 of that Act.
+
+The Regulations fall broadly into 3 parts. Firstly, they make provision for assessment of the young person’s needs and in particular the preparation of an assessment of need (“pathway assessment”) and a plan setting out details of the assistance to be provided to the young person (“pathway plan”). They then deal with the manner, form and circumstances in which assistance can be provided and, finally, they set out a procedure for local authorities to consider representations made to them about the discharge of their functions under section 29 of the 1995 Act.
+
+Regulation 3 provides that, in carrying out the pathway assessment, local authorities are required to involve the young person in that process, taking account of their views on a range of matters which are set out within Schedule 1, and providing them with copies of the documentation relating to the whole assessment process.
+
+Regulation 4 provides for the appointment of a person to co-ordinate the assessment process and to act on the local authority’s behalf in that regard (“pathway co-ordinator”), and sets out the functions which that individual is to carry out in relation to persons being assisted by a local authority under section 29(1) or (2) of the 1995 Act.
+
+Regulation 5 provides for the appointment by the local authority of an individual to support the young person (“young person’s supporter”), if so requested by the young person. Paragraphs (4) and (5) set out the range of functions which the young person’s supporter may require to carry out.
+
+Regulation 6 sets out the action to be taken by a local authority in carrying out its duties under section 17(1)(a) of the 1995 Act in relation to preparing a person who is currently looked after by the authority for when they are no longer looked after.
+
+Regulation 7 deals with miscellaneous matters concerning the pathway assessment to be carried out in relation to the young person, and provides that the local authority shall conclude a written agreement with the young person setting out the timetable for the pathway assessment, and the persons to be involved in that process.
+
+Regulation 8 sets out the issues to be taken into account by a local authority in completing the pathway assessment, which include the issues listed in Schedule 2, and lists the range of persons whose views they may seek in that connection.
+
+Regulation 9 details the timescales within which the pathway assessment requires to be carried out.
+
+Regulation 10 deals with the completion of the pathway plan, to be prepared once the pathway assessment has been carried out. The plan is to include the matters referred to in Schedule 2 and, in completing it, the local authority can seek the views of the persons detailed in paragraph (6).
+
+Regulation 11 details the timescales within which the pathway plan requires to be completed.
+
+Regulation 12 deals with the review of pathway plans, setting out the circumstances in which a review requires to be carried out and the matters to be taken into account in that connection.
+
+Regulation 13 sets out the manner and circumstances in which financial assistance is now to be provided by local authorities, to take account of the terms of UK Regulations which are made under section 6 of the Children (Leaving Care) Act 2000.
+
+Regulation 14 deals with local authorities' responsibilities in relation to the provision of assistance by way of accommodation.
+
+Regulation 15 sets out the periods for which records are to be retained, the manner of their retention, and the circumstances in which those records may be disclosed to others.
+
+Regulations 16 to 20 set out a procedure for representations or appeals under these Regulations.
+
+In terms of Regulation 16(1), representations relating to decisions concerning the provision of advice, guidance and assistance under section 29(1) or (2) of the 1995 Act are to be dealt with under paragraphs (3) and (4), and regulations 17 to 20. Other complaints, representations or appeals not falling within paragraph (1) are to be dealt with in accordance with procedures established under section 5B of the Social Work (Scotland) Act 1968. Paragraph (3) provides for the appointment of an officer of the local authority (“nominated officer”) to assist the authority in co-ordinating their consideration of any appeal under paragraph (1).
+
+Regulation 17 deals with procedural issues and provides for the preparation of a written record of the appeal.
+
+Regulation 18 provides for an informal resolution process, in the first instance. Local authorities shall endeavour to resolve appeals, by informal means, within a period of 5 working days, which period may be extended by mutual agreement.
+
+Regulation 19 sets out the process for formally resolving appeals where the procedure under regulation 18 has not succeeded. It provides for the appeal to be considered at a meeting, where oral and written submissions can be made, and details the persons who may attend that meeting. The appeal is to be heard by an officer of a local authority not involved in the decision appealed against, together with an ‘independent person’ (defined within regulation 2), to be appointed by the local authority to assist it in considering the appeal. The decision on the appeal is however to be made by the officer of the local authority, alone. The procedure under regulation 19 requires to be completed within 10 working days of notification having been made to the nominated officer to the effect that the appeal has not been resolved under the informal process set out in regulation 18.
+
+Regulation 20 provides that written notice of the appeal decision requires to be issued within 2 working days of the procedure under Regulation 19 being completed. No further appeal lies under these Regulations but so far as not exhausted by that process representations can be made in terms of the procedure established under section 5B of the 1968 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8).
+
+[^f00002]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36). Section 103(2) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-1217ec9692de74412800100e50bc95cd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-3e7d7a1200bc8f47a73903979435ee22]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2003/608/regulation/2) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-cafde84f4f0d9f288894624f5027bf16]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/a)
+
+[^key-447cdf9adac3d1706291f784ccd912f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/b)
+
+[^key-43caa94902b81498ee807bb3482ea80c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(c)(i)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/c/i)
+
+[^key-e91caa49b60b1ff118b390f8a27f61c3]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/c/ii)
+
+[^key-cd644680fa3c7119eef014b5809a156c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(c)(iii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/c/iii)
+
+[^f00003]: Footnote: [1992 c. 37](https://www.legislation.gov.uk/ukpga/1992/37).
+
+[^key-b31ab75ab433519b3ee5568ee17b0a3a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/d)
+
+[^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 contains a definition of “electronic communications”.
+
+[^key-56f0b019873d58c0a0979988bc0ac44b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2003/608/regulation/3) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-64c922e67236132c35a856d33fa176be]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2003/608/regulation/4) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-a89eb18c7d62ee4663ed2e0ead311831]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2003/608/regulation/5) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-123d18f170b45af883411dbc086363b9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2003/608/regulation/6) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-c56e3be194f1626700ca51739374aed8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2003/608/regulation/7) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-d67b9146a2fa93897db505757e006bca]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/7/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/3)
+
+[^key-5c675e948c04f16c87c85145e013de6a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2003/608/regulation/8) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-d0c7ad0ac66bd9e1d7dbfe547f798e6e]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/8/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/4)
+
+[^key-a93fa9700eb9df48b92f32dd0b2e44e7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2003/608/regulation/9) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-39f74ace42840602df16030a028ce4f3]: Textual amendment: Words in [reg. 9(a)](https://www.legislation.gov.uk/ssi/2003/608/regulation/9/a) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/5)
+
+[^key-5d0fbd7545b8754eef673061698e7d29]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2003/608/regulation/10) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-b76c76cf5c8ad8de76d8c41e60bc9cc1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2003/608/regulation/11) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-f9dac7337693e64f85a75b8f154cb5e4]: Textual amendment: Words in reg. 11(1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/a)
+
+[^key-e246e61daccebd16dd5387d38503f170]: Textual amendment: Word in reg. 11(2) omitted (1.4.2015) by virtue of [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(b)(i)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/b/i)
+
+[^key-aacc07e75ffbf7b2e777109f27162051]: Textual amendment: Reg. 11(2)(a)(b) substituted for words (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/b/ii)
+
+[^key-64bc5aff72f8f8fb7440f172533ec475]: Textual amendment: Words in reg. 11(4) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(c)(i)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/c/i)
+
+[^key-4e252076c90a1d6af3d243e58bccfcdf]: Textual amendment: Reg. 11(4)(a)(b) substituted for words (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(c)(ii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/c/ii)
+
+[^key-b124886ed2ffb8ae9879267391c534c7]: Textual amendment: Reg. 11(5) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/d)
+
+[^key-94f0d7429db6468b2351557261bfbc5e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2003/608/regulation/12) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-003e3c810fb65c9a62ee6476ffb2d361]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2003/608/regulation/13) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^f00005]: Footnote: [2000 c. 35](https://www.legislation.gov.uk/ukpga/2000/35).
+
+[^key-8eb77c9e69e4ae4f2239b41b93cc2152]: Textual amendment: Words in [reg. 13(6)(a)](https://www.legislation.gov.uk/ssi/2003/608/regulation/13/6/a) inserted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [16](https://www.legislation.gov.uk/ssi/2013/137/regulation/16)
+
+[^key-c287593b9e84af2b64f904789e46e769]: Textual amendment: Words in [reg. 13(6)(c)](https://www.legislation.gov.uk/ssi/2003/608/regulation/13/6/c) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 6(a)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/6/a); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+
+[^key-a46298b4f882b2b6d0cdb7750090633c]: Textual amendment: Words in [reg. 13(6)(c)](https://www.legislation.gov.uk/ssi/2003/608/regulation/13/6/c) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 6(b)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/6/b); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+
+[^key-f2047e31d012607cb25c78c6a17bbaa9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2003/608/regulation/14) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-79af545685b3f215d8ebf798cccb1924]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2003/608/regulation/15) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-078cdfaef657b9ac0f74ff28fc6449db]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2003/608/regulation/16) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-5107235e0afece5a9002e3e97615f43e]: Textual amendment: Reg. 16(1)(a)-(c) and words substituted for words (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/7)
+
+[^f00006]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49); section 5B of the 1968 Act was inserted after section 5 of that Act by section 52 of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19).
+
+[^key-54cf99cc740a951aa11270452e15bc24]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2003/608/regulation/17) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-90841ba7306e6794e69b7c8c00687922]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2003/608/regulation/18) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-962259dc3e00f2903d08b22f5e9ab9f2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2003/608/regulation/19) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-a62cd669ed1ab667d6476719498548c6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2003/608/regulation/20) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-0f11d98f31451d4ee57a3c667a105bfc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/1) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-c2957818a531ab5c38afc97e34f81f60]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/2) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-f36ab3b31d3b888fac2f510821e8bed2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/3) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-227713d6f2f70f1a6815c2530ac06525]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/4) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-da0a6bd9b61c981db07815ea7dcaa8ce]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/5) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-cdff50d3fc30b5ed00cd84d02b50ab06]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/6) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-67edc2e4df7d892ec2364fdef046159c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/7) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-1afff1aa1700a098392a1fa99f21efcb]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/8) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-c76c7b72026467205c4f4687446cdd8b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/1) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-32400b165e5e0502a878c07bf2eb12e4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/2) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-2027547bfa4cc115670dc55475892e81]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/3) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-4413d11bffc0d481abd28760256f1eb8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/4) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-0596a57df0261e72657f365542550fa6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/5) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-b312034c91d38c07a01f8aae5b914d9c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/6) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+
+[^key-3329d58da59fb3c64aa1e84033f2b579]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/7) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)

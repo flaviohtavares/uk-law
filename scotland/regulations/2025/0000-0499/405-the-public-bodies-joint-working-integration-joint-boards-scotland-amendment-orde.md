@@ -1,0 +1,103 @@
+---
+title: The Public Bodies (Joint Working) (Integration Joint Boards) (Scotland) Amendment Order 2025
+id: ssi/2025/405
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2025-12-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2025/405
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2025/405/pdfs/ssipn_20250405_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2025/405/pdfs/ssi_20250405_en.pdf
+- http://www.legislation.gov.uk/ssi/2025/405/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Bodies (Joint Working) (Integration Joint Boards) (Scotland) Amendment Order 2025
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2025 No. 405
+
+PUBLIC HEALTH
+
+SOCIAL CARE
+
+The Public Bodies (Joint Working) (Integration Joint Boards) (Scotland) Amendment Order 2025
+
+Made
+
+17th December 2025
+
+Laid before the Scottish Parliament
+
+19th December 2025
+
+Coming into force
+
+1st September 2026
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 12(1)(a) and (b) and 69(1) of the Public Bodies (Joint Working) (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 12(3) of that Act, they have consulted with each local authority, Health Board and integration joint board.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Public Bodies (Joint Working) (Integration Joint Boards) (Scotland) Amendment Order 2025 and comes into force on 1 September 2026.
+
+## 2. Amendment of the Public Bodies (Joint Working) (Integration Joint Boards) (Scotland) Order 2014
+
+(1) The Public Bodies (Joint Working) (Integration Joint Boards) (Scotland) Order 2014[^f00002] is amended in accordance with paragraphs (2) to (4).
+
+(2) In article 1(2) (citation, commencement and interpretation), for the definition of “voting member” substitute—
+
+> - “**voting member**” means a member appointed by virtue of article 3(1)(a) or (b), article 3(7)(b), (c) or (d), article 5(2)(a) or (b) or article 5(7)(b),(c) or (d).
+
+.
+
+(3) In article 9(2) (resignation of members), after “voting member” insert “, referred to in article 3(1)(a) or (b) or article 5(2)(a) or (b),”.
+
+(4) For article 12 (proxies) substitute—
+
+> **12. Proxies**
+>
+> (1) If a voting member, referred to in article 3(1)(a) or (b) or article 5(2)(a) or (b), is unable to attend a meeting of the integration joint board the constituent authority which nominated the member is to use its best endeavours to arrange for a suitably experienced proxy, who is either a councillor or, as the case may be, a member of the Health Board, to attend the meeting in place of the voting member.
+>
+> (2) If a voting member, referred to in article 3(7)(b), (c), or (d) or article 5(7)(b), (c) or (d), is unable to attend a meeting of the integration joint board that member may arrange for a suitably experienced proxy to attend the meeting in place of the voting member.
+>
+> (3) If a member who is not a voting member is unable to attend a meeting of the integration joint board that member may arrange for a suitably experienced proxy to attend the meeting.
+>
+> (4) A proxy attending a meeting of the integration joint board by virtue of paragraphs (1) or (2) may vote on decisions put to that meeting.
+>
+> (5) If the chairperson or vice chairperson is unable to attend a meeting of the integration joint board, any proxy attending the meeting may not preside over that meeting.
+
+.
+
+TOM ARTHUR
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh,
+
+17th December 2025
+
+Explanatory Note
+
+(This note is not part of the Order)
+
+This Order amends the Public Bodies (Joint Working) (Integration Joint Boards) (Scotland) Order 2014 (the 2014 Order). Article 2(2) provides that integration joint board members, appointed under articles 3(6) or 5(6) of the 2014 Order to represent third sector bodies, service users and unpaid carers, can vote at board meetings. Article 2(3) and (4) make corresponding amendments relating to the resignation of members and proxy voting.
+
+An Equality Impact Assessment and a Child Rights and Wellbeing Impact Assessment have been prepared and are available online at legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 9](https://www.legislation.gov.uk/asp/2014/9).
+
+[^f00002]: Footnote: [S.S.I. 2014/285](https://www.legislation.gov.uk/ssi/2014/285).

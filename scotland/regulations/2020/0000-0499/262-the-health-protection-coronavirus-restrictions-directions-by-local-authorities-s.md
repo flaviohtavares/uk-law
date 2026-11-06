@@ -1,0 +1,583 @@
+---
+title: The Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Regulations 2020
+id: ssi/2020/262
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-08-27'
+text_date: '2022-03-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2020/262
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/262/pdfs/ssipn_20200262_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/262/pdfs/ssi_20200262_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/262/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Regulations 2020
+
+> Text as at 2022-03-24.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2020 No. 262
+
+Public Health
+
+The Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Regulations 2020
+
+Approved by both Houses of Parliament
+
+Made
+
+at 1.14 p.m. on 27th August 2020
+
+Laid before the Scottish Parliament
+
+at 4.00 p.m. on 27th August 2020
+
+Coming into force
+
+28th August 2020
+
+The Scottish Ministers make the following Regulations in exercise of the power conferred by paragraph 1(1) of schedule 19 of the Coronavirus Act 2020 [^c24276101] (“**the Act**”) and all other powers enabling them to do so.
+
+These Regulations are made in response to the serious and imminent threat to public health which is posed by the incidence and spread of coronavirus in Scotland.
+
+The Scottish Ministers consider that the restrictions and requirements imposed by these Regulations are proportionate to what they seek to achieve, which is a public health response to that threat.
+
+In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottish Ministers are of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft having been laid before, and approved by, a resolution of the Scottish Parliament.
+
+## 1. Citation, commencement, application and interpretation[^key-475ddd4ebc49a2fbd3571100b7079b48]
+
+(1) These Regulations may be cited as the Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Regulations 2020.
+
+(2) These Regulations come into force on 28 August 2020.
+
+(3) These Regulations apply in Scotland.
+
+(4) In these Regulations—
+
+- “**child**” means a person under the age of 16,
+- “**constable**” has the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act 2012 [^c24276111],
+- “**designated**” means designated by name or description,
+- “**parent**”, in relation to a child, includes any person who has parental responsibility for, or who has care of, the child,
+- “**parental responsibility**” is to be construed in accordance with section 1 of the Children (Scotland) Act 1995 [^c24276121],
+- “**person carrying on a business**” includes the owner, proprietor and manager of that business,
+- “**public outdoor place**” means any outdoor place to which the public have access or which the public are permitted to access, whether on payment or otherwise,
+- “**specified**” means specified in a direction given under these Regulations, unless the context otherwise requires,
+- “**vulnerable person**” includes—
+  - (a) any person aged 70 or older,
+  - (b) any person under 70 who has an underlying medical condition, including but not limited to, the conditions listed in the schedule, and
+  - (c) any person who is pregnant.
+
+## 2. Guidance: powers and duties[^key-4e4afc1c874a511f11711fb8cd020398]
+
+(1) Subject to paragraph (2), the Scottish Ministers may issue and update guidance to local authorities about the exercise of their functions under these Regulations.
+
+(2) Before issuing or updating guidance under paragraph (1), the Scottish Ministers must consult the Chief Medical Officer of the Scottish Administration or such other person as may be designated for the purposes of this paragraph by the Scottish Ministers.
+
+(3) When exercising its functions under these Regulations, a local authority must have regard to—
+
+- (a) any guidance issued under paragraph (1), as amended from time to time by the Scottish Ministers, and
+- (b) any guidance issued by the Scottish Ministers under regulation 4A of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020 [^c24276131].
+
+(4) Guidance issued under paragraph (1) may, in particular, include guidance on—
+
+- (a) steps which should be taken and matters which should be taken into account before a direction is issued,
+- (b) the form a direction should take,
+- (c) the process for notifying the Scottish Ministers that a direction has been made.
+
+## 3. Directions by local authorities: general[^key-308188bc8d9e1dc44d5837b7242b4745]
+
+(1) A local authority may give a direction under regulation 5(1), 6(1) or 7(1) only if the authority considers that the following conditions are met—
+
+- (a) that the direction is necessary for the purpose of preventing, protecting against, controlling or providing a public health response to the incidence or spread of infection by coronavirus in the local authority's area, and
+- (b) that the prohibitions, requirements or restrictions imposed by the direction are a proportionate means of achieving that purpose.
+
+(2) Where a local authority gives a direction under regulation 5(1), 6(1) or 7(1) the local authority must—
+
+- (a) notify the Scottish Ministers as soon as reasonably practicable after the direction is given, and
+- (b) at least once every 7 days review whether the conditions in paragraph (1) continue to be met.
+
+(3) If on a review of a direction under paragraph (2)(b) a local authority considers that one or both of the conditions in paragraph (1) is no longer met in relation to the direction, the local authority must—
+
+- (a) revoke the direction without replacement, or
+- (b) revoke the direction and replace it with a further direction under regulation 5(1), 6(1) or 7(1) in relation to which the local authority considers that the conditions in paragraph (1) are met.
+
+(4) Section 16 of the Interpretation Act 1978 [^c24276141] applies in relation to the revocation of a direction under regulation 5(1), 6(1) or 7(1) as it applies in relation to the repeal of an enactment.
+
+## 4. Powers of Scottish Ministers[^key-8a64b8f250da6d42e6d011e0800aa221]
+
+(1) The Scottish Ministers may give a direction to a local authority requiring the authority to give a direction under regulation 5(1), 6(1) or 7(1), if the Scottish Ministers consider that the conditions in regulation 3(1)(a) and (b) would be met in relation to the local authority direction.
+
+(2) If the Scottish Ministers consider that one or both of the conditions in regulation 3(1)(a) or (b) is no longer met in relation to a direction under regulation 5(1), 6(1) or 7(1) given by a local authority, the Scottish Ministers must direct the local authority to—
+
+- (a) revoke the direction without replacement, or
+- (b) revoke the direction and replace it with a further direction under regulation 5(1), 6(1) or 7(1) in relation to which the Scottish Ministers consider that the conditions in regulation 3(1)(a) and (b) would be met.
+
+(3) Where the Scottish Ministers give a direction to a local authority under this regulation, regulation 3(1) does not apply in relation to the giving of a direction by the local authority pursuant to the Scottish Ministers' direction.
+
+(4) A direction under this regulation may be revoked by the Scottish Ministers.
+
+(5) Before giving or revoking a direction under this regulation, the Scottish Ministers must consult the Chief Medical Officer of the Scottish Administration or such other person as may be designated for the purposes of this paragraph by the Scottish Ministers.
+
+## 5. Directions relating to individual premises[^key-c80b26b9112ae61cb44e4a70e4f950ee]
+
+(1) Subject to regulation 3, a local authority may give a direction imposing prohibitions, requirements or restrictions in relation to the entry into, departure from, or location of persons in, specified premises in the local authority's area.
+
+(2) A direction under paragraph (1) may be given for the purposes of—
+
+- (a) closing the premises,
+- (b) restricting entry to the premises, or
+- (c) securing restrictions in relation to the location of persons in the premises.
+
+(3) A local authority may not give a direction under paragraph (1) in relation to—
+
+- (a) any premises consisting of vehicles, trains, vessels or aircraft used for public transport or the carriage or haulage of goods, or
+- (b) a vessel not falling within paragraph (a), where the direction would be likely to have the effect of preventing a change-over of crew.
+
+(4) A direction under paragraph (1) may only have the effect of imposing a prohibition, requirement or restriction on—
+
+- (a) the owner or any occupier of premises to which the direction relates,
+- (b) any other person involved in managing entry into, or departure from, such premises or the location of persons in them.
+
+(5) A direction under paragraph (1) may impose a prohibition, requirement or restriction by reference to, among other things—
+
+- (a) the number of persons in the premises,
+- (b) the purpose for which a person is in the premises,
+- (c) the facilities in the premises.
+
+(6) A direction under paragraph (1) must—
+
+- (a) state the date and time on which the prohibition, requirement or restriction comes into effect, and the date and time on which it will cease to have effect, and
+- (b) give details of the right of appeal to a sheriff and the time within which such an appeal may be brought.
+
+(7) The date and time mentioned in paragraph (6)(a) when the prohibition, requirement or restriction ceases to have effect must be no later than 21 days after it comes into effect.
+
+(8) Where a local authority gives a direction under paragraph (1) it must take reasonable steps to give advance notice of the direction to—
+
+- (a) a person carrying on a business from the premises to which the direction relates, and
+- (b) if different, any person who owns or occupies the premises.
+
+(9) A person in relation to whom a direction under paragraph (1) imposes a prohibition, requirement or restriction may appeal against the direction to a sheriff.
+
+(10) On an appeal against a direction under paragraph (1) in a case where the direction was made pursuant to a direction of the Scottish Ministers under regulation 4, an application is to be issued to both the Scottish Ministers and the local authority.
+
+## 6. Directions relating to events[^key-199413e1a7cad2b0915f6d7b704fb80f]
+
+(1) Subject to regulation 3, a local authority may give a direction imposing prohibitions, requirements or restrictions in relation to the holding of a specified event in its area.
+
+(2) A direction under paragraph (1) may only have the effect of imposing prohibitions, requirements or restrictions on—
+
+- (a) the owner or any occupier of premises for an event to which the direction relates,
+- (b) the organiser of such an event, and
+- (c) any other person involved in holding such an event.
+
+(3) The reference in paragraph (2)(c) to a person involved in the holding of an event does not include a person whose only involvement in the event is, or would be, by attendance at the event.
+
+(4) A direction under paragraph (1) may, among other things, impose requirements about informing persons who may be planning to attend an event of any prohibitions, requirements or restrictions imposed in relation to the holding of it.
+
+(5) A direction under paragraph (1) imposing a prohibition, requirement or restriction must—
+
+- (a) state the date and time on which the prohibition, requirement or restriction comes into effect, and the date and time on which it will end, and
+- (b) give details of the right of appeal to a sheriff, and the time within which such an appeal may be brought.
+
+(6) Where a local authority gives a direction under paragraph (1) it must take reasonable steps to give advance notice of the direction to—
+
+- (a) the organiser of the event, and
+- (b) if different, any person who owns or occupies the premises for the event.
+
+(7) A person in relation to whom a direction under paragraph (1) imposes a prohibition, requirement or restriction may appeal to a sheriff.
+
+(8) On an appeal against a direction under paragraph (1) in a case where the direction was made pursuant to a direction of the Scottish Ministers under regulation 4, an application is to be issued to both the Scottish Ministers and the local authority.
+
+## 7. Directions relating to public outdoor places[^key-7bd8d8ac68eff56f12ad26afc49cbd83]
+
+(1) Subject to regulation 3, a local authority may give a direction imposing prohibitions, requirements or restrictions in relation to access to a specified public outdoor place in its area.
+
+(2) A direction under paragraph (1) may in particular prohibit access at specified times.
+
+(3) A direction under paragraph (1) must—
+
+- (a) specify the public outdoor place or places to which it relates in sufficient detail to enable the boundaries of the place or places to be determined,
+- (b) state the date and time on which any prohibition, requirement or restriction imposed by the direction comes into effect, and the date and time on which it will cease to have effect, and
+- (c) give details of the right of appeal to a sheriff, and the time within which such an appeal may be brought.
+
+(4) The date and time mentioned in paragraph (3)(a) when the prohibition, requirement or restriction ceases to have effect must be no later than 21 days after it comes into effect.
+
+(5) Where a local authority gives a direction under paragraph (1) it must take reasonable steps—
+
+- (a) to give advance notice of the direction to a person carrying on a business from premises within a public outdoor place to which the direction relates, and
+- (b) to ensure that the direction is brought to the attention of any person who owns, occupies or is responsible for any land or premises in a specified public outdoor place to which the direction relates.
+
+(6) Any person who owns, occupies or is responsible for land or premises in a specified public outdoor place to which a direction under paragraph (1) relates may appeal to a sheriff.
+
+(7) On an appeal against a direction under paragraph (1) in a case where the direction was made pursuant to a direction of the Scottish Ministers under regulation 4, an application is to be issued to both the Scottish Ministers and the local authority.
+
+## 8. Directions relating to public outdoor spaces: access[^key-f9dca47811c7a36f2e3b4f83f96b3552]
+
+(1) A local authority which has given a direction under regulation 7(1) must take all reasonable steps to prevent or restrict public access to the specified public outdoor place or places to which the direction relates in accordance with the direction.
+
+(2) Any person, other than a local authority mentioned in paragraph (1), who owns, occupies or is responsible for land in a specified public outdoor place to which a direction under regulation 7(1) relates must take all reasonable steps to prevent or restrict public access to that land in accordance with the direction.
+
+(3) No person may enter or remain in a specified public outdoor place to which a direction under regulation 7(1) relates in contravention of a prohibition, requirement or restriction imposed by the direction.
+
+## 9. Public notice of directions etc.[^key-09ba42de0182515d7b20a76f5a891614]
+
+(1) Where a local authority gives a direction under regulation 5(1), 6(1) or 7(1) which imposes a prohibition, requirement or restriction on a person specified by name, or revokes such a direction, the direction or revocation of the direction—
+
+- (a) must be given in writing to that person, and
+- (b) may be published in such manner as the local authority considers appropriate to bring it to the attention of other persons who may be affected by it.
+
+(2) In any other case, a direction given by a local authority under regulation 5(1), 6(1) or 7(1) or notice of revocation of such a direction—
+
+- (a) must be published on the website of the local authority, and
+- (b) may be published in such other manner as the local authority considers appropriate to bring it to the attention of persons who may be affected by the direction or the revocation.
+
+(3) A direction given by a local authority under regulation 5(1), 6(1) or 7(1) must specify the power in these Regulations under which the direction is given.
+
+## 10. Notification of directions to other local authorities[^key-0c1b5ebdc814b35833c25c05aa541459]
+
+Where a local authority (the “initiating authority”) gives a direction under regulation 5(1), 6(1) or 7(1), or revokes such a direction, the initiating authority must notify—
+
+- (a) any local authority whose area is adjacent to the initiating authority's area,
+- (b) where the initiating authority's area is adjacent to the area of a local authority in England—
+  - (i) a county council in England, or
+  - (ii) a district council in England for an area for which there is no county council.
+
+## 11. Enforcement of requirements[^key-f5662215ae7c98fc3c732acc81c398ed]
+
+(1) A local authority designated officer or a constable may take such action as is necessary to enforce a direction under regulation 5(1), 6(1) or 7(1).
+
+(2) A local authority designated officer may give a prohibition notice to a person if the officer reasonably believes that—
+
+- (a) the person is contravening a direction under regulation 5(1), 6(1) or 7(1), and
+- (b) it is necessary and proportionate to give the prohibition notice for the purpose of preventing that person from continuing to do so.
+
+(3) Where a constable considers that an event is being held in contravention of a direction under regulation 6(1), the constable may—
+
+- (a) direct the event to stop,
+- (b) direct a person to leave the event, and
+- (c) remove a person from the event.
+
+(4) Where a constable considers that a person is, without reasonable excuse, in a public outdoor place in contravention of regulation 8(3), the constable may—
+
+- (a) direct that person to leave the place, and
+- (b) remove that person from the place.
+
+(5) A constable exercising the power in paragraph (3)(c) or (4)(b) to remove a person from an event or place may use reasonable force, if necessary, in exercise of the power.
+
+(6) Where a child is at an event held in contravention of a direction under regulation 6(1), or is in a public outdoor place in contravention of regulation 8(3), and is accompanied by an individual who has responsibility for the child—
+
+- (a) a constable may direct that individual to remove the child from the event or place, and
+- (b) that individual must, so far as reasonably practicable, ensure that the child complies with any direction or instruction given by the constable to the child.
+
+(7) A constable may exercise the power in paragraph (3), (4) or (6) only if the constable considers that it is a necessary and proportionate means of ensuring compliance with a direction under regulation 6(1) or with regulation 8(3), as the case may be.
+
+(8) A constable exercising a power under paragraph (3), (4), or (6) may give the person concerned any reasonable instructions the constable considers to be necessary.
+
+(9) For the purposes of this regulation—
+
+- (a) an individual has responsibility for a child if the individual—
+  - (i) has custody or charge of the child for the time being, or
+  - (ii) is the child's parent.
+- (b) “**local authority designated officer**” means a person designated by a local authority for the purposes of this regulation.
+
+## 11A. Power of entry[^key-0d59b30f5a436270a662eaa4511e7675]
+
+(1) A local authority designated officer may enter premises—
+
+- (a) for the purpose of the performance of the officer's functions under these Regulations, and
+- (b) if the condition in paragraph (3)(a) is met.
+
+(2) A local authority designated officer may enter premises if—
+
+- (a) the officer reasonably believes that—
+  - (i) a direction under regulation 5(1), 6(1) or 7(1) is being, has been or is about to be contravened, and
+  - (ii) it is necessary and proportionate to enter the premises for the purpose of—
+    - (aa) ascertaining whether a contravention is taking, has taken or is about to take place,
+    - (bb) preventing the initiation or continuation of the contravention, and
+- (b) a condition in paragraph (3)(b), (c) or (d) is met.
+
+(3) The condition is that—
+
+- (a) the person who appears to be the occupier of the premises has consented to the local authority designated officer entering the premises,
+- (b) the local authority designated officer—
+  - (i) has requested permission to enter the premises from the person who appears to be the occupier of the premises, but permission has been refused, and
+  - (ii) reasonably believes the situation to be urgent,
+- (c) the occupier of the premises is temporarily absent and the local authority designated officer reasonably believes the situation to be urgent, or
+- (d) the entry is effected under the authority of a warrant issued under paragraph (8).
+
+(4) For the purposes of paragraph (3)(b)(ii) and (c), a reasonable belief in urgency means that the local authority designated officer considers immediate entry to the premises to be necessary and proportionate for the purpose of preventing the continuation of the contravention and for the purpose of preventing, protecting against, controlling or providing a public health response to the incidence or spread of infection or contamination of coronavirus.
+
+(5) A local authority designated officer entering premises in accordance with paragraph (2) may—
+
+- (a) use reasonable force to enter the premises if necessary, and
+- (b) take such other persons, equipment and materials onto the premises as the local authority designated officer considers necessary.
+
+(6) A local authority designated officer must, if requested to do so, provide a document or any other thing showing the officer's authority to exercise the power of entry in this regulation.
+
+(7) For the purpose of this regulation, “**premises**” includes any building or structure and any land.
+
+(8) A sheriff or justice of the peace may by warrant authorise a relevant person to enter the premises.
+
+(9) A warrant under this regulation continues in force until the purpose for which it is issued is fulfilled.
+
+## 12. Offences and penalties[^key-aeef872aa805548474af49f26fb2ff6d]
+
+(1) A person who contravenes a direction under regulation 5(1), 6(1) or 7(1) commits an offence.
+
+(2) A person who contravenes the following provision of these Regulations commits an offence—
+
+- (a) regulation 8(2),
+- (b) regulation 8(3).
+
+(3) A person who contravenes a direction given by a constable under regulation 11, or who fails to comply with a reasonable instruction or a prohibition notice under regulation 11, commits an offence.
+
+(4) A person who obstructs a person carrying out a function under these Regulations commits an offence.
+
+(5) It is a defence to a charge of committing an offence under paragraph (1), (2), (3) or (4) to show that the person, in the circumstances, had a reasonable excuse.
+
+(6) For the purposes of the offence referred to in paragraph (2)(b), a reasonable excuse includes that—
+
+- (a) the person owns, occupies or is responsible for any land or premises in a public outdoor place to which the direction relates,
+- (b) the person needs to enter a public outdoor place to which the direction relates to obtain access to, or to leave, the place where they are living,
+- (c) the person is visiting a person who falls within a description of person in sub-paragraph (a) or (b),
+- (d) the person needs to enter or remain in a public outdoor place to which the direction relates—
+  - (i) to avoid injury or illness or to escape a risk of harm,
+  - (ii) to continue existing arrangements for access to, and contact between, parents and children where the children do not live in the same household as their parents, or one of their parents,
+  - (iii) to fulfil a legal obligation or to participate in legal proceedings,
+- (e) it is reasonably necessary for a person to enter or remain in a public outdoor place to which the direction relates—
+  - (i) for work purposes, or for the provision of voluntary or charitable services,
+  - (ii) to facilitate a house move,
+  - (iii) to provide care or assistance to a vulnerable person, or
+  - (iv) to provide emergency assistance.
+
+(7) An offence under this regulation is punishable on summary conviction by a fine not exceeding the statutory maximum.
+
+(8) If an offence under this regulation committed by a body corporate is proved—
+
+- (a) to have been committed with the consent or connivance of an officer of the body, or
+- (b) to be attributable to any neglect on the part of such an officer,
+
+the officer (as well as the body corporate) commits the offence and is liable to be prosecuted and proceeded against and punished accordingly.
+
+(9) In paragraph (6), “**officer**” in relation to a body corporate means —
+
+- (a) in the case of a company—
+  - (i) a director, secretary, manager or similar officer, or
+  - (ii) where the affairs of the company are managed by its members, a member,
+- (b) in the case of a limited liability partnership, a member,
+- (c) in the case of a partnership other than a limited liability partnership, a partner,
+- (d) in the case of another body or association, a person who is concerned in the management or control of its affairs.
+
+## 13. Fixed penalty notices[^key-c9dc303ce9c69aae75726cf1eaced398]
+
+(1) A constable or local authority designated officer[^key-55fe0461e0702cd7aec9192f709ec738] may issue a fixed penalty notice to anyone that the constable or local authority designated officer reasonably believes—
+
+- (a) has committed an offence under these Regulations, and
+- (b) is aged 18 or over.
+
+(2) A fixed penalty notice is a notice offering the person to whom it is issued the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty in accordance with these Regulations.
+
+(3) The penalty payable in respect of a fixed penalty notice, subject to paragraph (4), is £60.
+
+(4) Unless paragraph (5) applies, if £30 is paid before the end of the period of 28 days beginning with the date of the fixed penalty notice, then that is the amount of the fixed penalty (and the fixed penalty notice must make known the effect of this paragraph).
+
+(5) If the person to whom a fixed penalty notice is given has already received a fixed penalty notice under these Regulations—
+
+- (a) paragraph (3) does not apply, and
+- (b) the penalty payable in the case of—
+  - (i) the second fixed penalty notice received is £120,
+  - (ii) the third and subsequent fixed penalty notice received is double the amount specified in the last fixed penalty notice received by that person, to a maximum of £960.
+
+(6) For the purposes of paragraph (5), a fixed penalty notice issued under the following provisions is to be treated as if it were issued under these Regulations—
+
+- (a) regulation 8 of the Health Protection (Coronavirus, Restrictions) (Aberdeen City) Regulations 2020 [^c24276151],
+- (b) regulation 9 of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020 [^c24276161],
+- (c)[^key-a16a180d59642bec5adda94b71921861] regulation 16 of the Health Protection (Coronavirus) (Restrictions and Requirements) (Scotland) Regulations 2020,
+- (d) regulation 27 of the Health Protection (Coronavirus) (Restrictions and Requirements) (Additional Temporary Measures) (Scotland) Regulations 2020.
+
+(7) For the purposes of these Regulations—
+
+- (a) the form of a fixed penalty notice,
+- (b) the effect of a fixed penalty notice, and
+- (c) the procedure that applies to a fixed penalty notice,
+
+are the same as those that apply to a fixed penalty notice given under section 129(1) of the Antisocial Behaviour etc. (Scotland) Act 2004 [^c24276171], as provided for in sections 129 to 134 of that Act and sections 226B and 226I of the Criminal Procedure (Scotland) Act 1995 [^c24276181], subject to the modifications in paragraph (8).
+
+(8) The modifications are—
+
+- (a) section 129(1) is to be disregarded,
+- (b) the definitions of “fixed penalty notice” in sections 129(2) and 134 are to be construed as a reference to a notice under paragraph (1),
+- (c) the definition of “prescribed area” in section 129(2) is to be disregarded,
+- (d) section 130(1), (2) and (3)(f) is to be disregarded,
+- (e) the references to “section 129” in section 131(1) and section 133(1) are to be construed as references to this regulation,
+- (f) in section 131(5)—
+  - (i) the reference to “**in accordance with this Part**” is to be construed as a reference to these Regulations, and
+  - (ii) the reference to “a sum equal to one and a half times” is to be disregarded.
+- (ff)[^key-62f4bb2674ea137abd6119395905d18e] the references to “constable” in section 133(1) are to be construed as references to a constable or local authority designated officer,
+- (g) the definition of “fixed penalty offence” in section 134 is to be construed as though it referred to an offence of the type referred to in paragraph (1)(a), and
+- (h) in section 226B(5)(a)(ii) of the Criminal Procedure (Scotland) Act 1995—
+  - (i) the reference to “**by virtue of section 131(5) of the Antisocial Behaviour etc. (Scotland) Act 2004**” is to be construed as a reference to that section as modified by this paragraph, and
+  - (ii) the reference to “**a fixed penalty notice given under section 129 (fixed penalty notices) of that Act**” is to be construed as a reference to section 129 of the Antisocial Behaviour etc. (Scotland) Act 2004 as modified by this paragraph.
+
+(9)[^key-b2231eafcf00f497026bc57f89aac7bb] Where the person issuing a notice under paragraph (1) is a local authority designated officer, the officer may require the person believed to have committed an offence (“A”) to give A's name and address.
+
+(10) When making that requirement, the officer must inform A—
+
+- (a) that the officer believes A has committed an offence under these Regulations, and
+- (b) that failure to comply with the requirement may be an offence.
+
+(11) If A has been required under this section to give A's name and address and, without reasonable excuse, fails to do so, A will be guilty of an offence and liable, on summary conviction, to a fine not exceeding the statutory maximum.
+
+## 14. Amendment of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020[^key-64f9ab8375b2a1a2b727b7ee628a840e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Expiry and review[^key-522dd76b798f9becb36dddc8120ed50f]
+
+(1) These Regulations expire on 24 September[^key-f713fb4296559b6207095402a3536209][^M_F_920c80d5-1879-4db3-b6e2-9b1e40acbe61] 2022.
+
+(2) The Scottish Ministers must review the need for these regulations at least once every 42 days, with the first review being carried out by 9 October 2020.
+
+JOHN SWINNEY
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE
+
+Regulation 1
+
+### 1. Underlying medical conditions[^key-39df37ee89bc83175cce67d5af04c960]
+
+Chronic (long-term) respiratory diseases, such as asthma, chronic obstructive pulmonary disease, emphysema or bronchitis.
+
+**2.**[^key-677ae49c55b29a1a42f795f000b11ed9] Chronic heart disease, such as heart failure.
+
+**3.**[^key-5ac6f6d6be4e20f3620f2f3ba356e02c] Chronic kidney disease.
+
+**4.**[^key-d28f54fa0b5314b8c44e8bb055b4e700] Chronic liver disease, such as hepatitis.
+
+**5.**[^key-fd60dbe2f3f3158a6963bf6b14b55abe] Chronic neurological conditions, such as Parkinson's disease, motor neurone disease, multiple sclerosis (MS), a learning disability or cerebral palsy.
+
+**6.**[^key-a3653637b61a60bfc1f7c49e6c74600a] Diabetes.
+
+**7.**[^key-b29ddca5320dc1be02a9867091fd1f70] Problems with the spleen, such as sickle cell disease or if removal of the spleen has occurred.
+
+**8.**[^key-254e5037a885d3c5b4f0810fa922e4d8] A weakened immune system as the result of conditions such as HIV and AIDS, or medicines such as steroid tablets or chemotherapy.
+
+**9.**[^key-55f27036c2a244d5f0ec847fdea6246b] Being seriously overweight, with a body mass index of 40 or above.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for a local authority to give directions relating to specified premises, events and public outdoor places in its area. A direction may only be given if the local authority considers that the necessity and proportionality conditions set out in regulation 3(1) are met.
+
+Before making a direction under these Regulations, a local authority must have regard to any guidance issued by the Scottish Ministers under regulation 2(1), as it is amended from time to time. The local authority must also have regard to any guidance issued by the Scottish Ministers under regulation 4A of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020.
+
+In accordance with regulation 3, the local authority must review the direction at least once every 7 days and it must be revoked or revoked and replaced when it is determined on review that the requirements of necessity and proportionality are no longer met.
+
+The local authority must publicise the making of a direction given under these Regulations in accordance with regulation 9 and inform any neighbouring local authority that such a direction has been made, in accordance with regulation 10.
+
+Regulation 11 provides that a direction made under these Regulations may be enforced by an officer designated by a local authority or a constable.
+
+Regulation 12 makes provision for offences and penalties under these Regulations.
+
+Regulation 13 provides that a fixed penalty may be issued by a constable to any person they reasonably believe has committed an offence under these Regulations who is aged 18 or over. The effect of regulation 13(6) is that Fixed Penalty Notices (FPNs) issued to a person under regulation 8 of the Health Protection (Coronavirus, Restrictions) (Aberdeen City) Regulations 2020 and regulation 9 of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020 will be taken into account in determining the penalty payable where a FPN is issued under these Regulations. Regulation 14 makes a parallel amendment to the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020 in order that FPNs issued under these Regulations will be taken into account in determining the penalty payable in relation to a FPN issued under them.
+
+Regulation 15 provides that these Regulations expire on 31 January 2021. They must be reviewed at least every 42 days, with the first review being carried out by 9 October 2020.
+
+A Business and Regulatory Impact Assessment has been prepared for these Regulations.
+
+## Annotations
+
+[^c24276101]: Marginal citation: [2020 c.7](https://www.legislation.gov.uk/ukpga/2020/7).
+
+[^key-475ddd4ebc49a2fbd3571100b7079b48]: Commencement: Reg. 1 in force at 28.8.2020, see reg. 1(2)
+
+[^c24276111]: Marginal citation: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
+
+[^c24276121]: Marginal citation: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^key-4e4afc1c874a511f11711fb8cd020398]: Commencement: Reg. 2 in force at 28.8.2020, see reg. 1(2)
+
+[^c24276131]: Marginal citation: [S.S.I. 2020/103](https://www.legislation.gov.uk/ssi/2020/103). Regulation 4A was inserted by regulation 2(2) of [S.S.I. 2020/236](https://www.legislation.gov.uk/ssi/2020/236).
+
+[^key-308188bc8d9e1dc44d5837b7242b4745]: Commencement: Reg. 3 in force at 28.8.2020, see reg. 1(2)
+
+[^c24276141]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-8a64b8f250da6d42e6d011e0800aa221]: Commencement: Reg. 4 in force at 28.8.2020, see reg. 1(2)
+
+[^key-c80b26b9112ae61cb44e4a70e4f950ee]: Commencement: Reg. 5 in force at 28.8.2020, see reg. 1(2)
+
+[^key-199413e1a7cad2b0915f6d7b704fb80f]: Commencement: Reg. 6 in force at 28.8.2020, see reg. 1(2)
+
+[^key-7bd8d8ac68eff56f12ad26afc49cbd83]: Commencement: Reg. 7 in force at 28.8.2020, see reg. 1(2)
+
+[^key-f9dca47811c7a36f2e3b4f83f96b3552]: Commencement: Reg. 8 in force at 28.8.2020, see reg. 1(2)
+
+[^key-09ba42de0182515d7b20a76f5a891614]: Commencement: Reg. 9 in force at 28.8.2020, see reg. 1(2)
+
+[^key-0c1b5ebdc814b35833c25c05aa541459]: Commencement: Reg. 10 in force at 28.8.2020, see reg. 1(2)
+
+[^key-f5662215ae7c98fc3c732acc81c398ed]: Commencement: Reg. 11 in force at 28.8.2020, see reg. 1(2)
+
+[^key-0d59b30f5a436270a662eaa4511e7675]: Textual amendment: Reg. 11A inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(a)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/a) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
+
+[^key-aeef872aa805548474af49f26fb2ff6d]: Commencement: Reg. 12 in force at 28.8.2020, see reg. 1(2)
+
+[^key-c9dc303ce9c69aae75726cf1eaced398]: Commencement: Reg. 13 in force at 28.8.2020, see reg. 1(2)
+
+[^key-55fe0461e0702cd7aec9192f709ec738]: Textual amendment: Words in reg. 13(1) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(i)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/i) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
+
+[^c24276151]: Marginal citation: [S.S.I. 2020/234](https://www.legislation.gov.uk/ssi/2020/234).
+
+[^c24276161]: Marginal citation: [S.S.I. 2020/103](https://www.legislation.gov.uk/ssi/2020/103) as amended by the [Coronavirus (Scotland) (No. 2) Act 2000 (asp 10)](https://www.legislation.gov.uk/asp/2000/10) and [S.S.I. 2020/182](https://www.legislation.gov.uk/ssi/2020/182).
+
+[^key-a16a180d59642bec5adda94b71921861]: Textual amendment: Reg. 13(6)(c)(d) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/ii) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
+
+[^c24276171]: Marginal citation: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8). Sections 130, 131, 132 were amended by para 32(b) of schedule 1 of the [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6). Section 132 was amended by para 32(c) of schedule 1 of the [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6).
+
+[^c24276181]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Sections 226B and 226I were inserted by section 55 of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007. Sections 226B and 226I have been amended but none of the amendments are relevant to these Regulations.
+
+[^key-62f4bb2674ea137abd6119395905d18e]: Textual amendment: Reg. 13(8)(ff) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/iii) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
+
+[^key-b2231eafcf00f497026bc57f89aac7bb]: Textual amendment: Reg. 13(9)-(11) inserted (2.11.2020 at 6.00 a.m.) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 (S.S.I. 2020/344)](https://www.legislation.gov.uk/ssi/2020/344), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/344/regulation/1/1), [10(1)(b)(iv)](https://www.legislation.gov.uk/ssi/2020/344/regulation/10/1/b/iv) (with [reg. 9](https://www.legislation.gov.uk/ssi/2020/344/regulation/9))
+
+[^key-64f9ab8375b2a1a2b727b7ee628a840e]: Textual amendment: Reg. 14 revoked (14.9.2020) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Scotland) Regulations 2020 (S.S.I. 2020/279)](https://www.legislation.gov.uk/ssi/2020/279), [reg. 1](https://www.legislation.gov.uk/ssi/2020/279/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/279/schedule/2)
+
+[^key-522dd76b798f9becb36dddc8120ed50f]: Commencement: Reg. 15 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/262/regulation/1/2)
+
+[^key-f713fb4296559b6207095402a3536209]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2020/262/regulation/15/1) substituted (24.3.2022) by [The Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/109)](https://www.legislation.gov.uk/ssi/2022/109), [regs. 1](https://www.legislation.gov.uk/ssi/2022/109/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/109/regulation/2)
+
+[^M_F_920c80d5-1879-4db3-b6e2-9b1e40acbe61]: Textual amendment: Words in reg. 15(1) substituted (29.9.2021) by [The Health Protection (Coronavirus, Restrictions) (Directions by Local Authorities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/329)](https://www.legislation.gov.uk/ssi/2021/329), [regs. 1](https://www.legislation.gov.uk/ssi/2021/329/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/329/regulation/2)
+
+[^key-39df37ee89bc83175cce67d5af04c960]: Commencement: Sch. para. 1 in force at 28.8.2020, see reg. 1(2)
+
+[^key-677ae49c55b29a1a42f795f000b11ed9]: Commencement: Sch. para. 2 in force at 28.8.2020, see reg. 1(2)
+
+[^key-5ac6f6d6be4e20f3620f2f3ba356e02c]: Commencement: Sch. para. 3 in force at 28.8.2020, see reg. 1(2)
+
+[^key-d28f54fa0b5314b8c44e8bb055b4e700]: Commencement: Sch. para. 4 in force at 28.8.2020, see reg. 1(2)
+
+[^key-fd60dbe2f3f3158a6963bf6b14b55abe]: Commencement: Sch. para. 5 in force at 28.8.2020, see reg. 1(2)
+
+[^key-a3653637b61a60bfc1f7c49e6c74600a]: Commencement: Sch. para. 6 in force at 28.8.2020, see reg. 1(2)
+
+[^key-b29ddca5320dc1be02a9867091fd1f70]: Commencement: Sch. para. 7 in force at 28.8.2020, see reg. 1(2)
+
+[^key-254e5037a885d3c5b4f0810fa922e4d8]: Commencement: Sch. para. 8 in force at 28.8.2020, see reg. 1(2)
+
+[^key-55f27036c2a244d5f0ec847fdea6246b]: Commencement: Sch. para. 9 in force at 28.8.2020, see reg. 1(2)

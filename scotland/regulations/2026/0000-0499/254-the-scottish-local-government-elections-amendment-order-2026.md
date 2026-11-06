@@ -1,0 +1,178 @@
+---
+title: The Scottish Local Government Elections Amendment Order 2026
+id: ssi/2026/254
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-09-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2026/254
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2026/254/pdfs/ssipn_20260254_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2026/254/pdfs/ssi_20260254_en.pdf
+- http://www.legislation.gov.uk/ssi/2026/254/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scottish Local Government Elections Amendment Order 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 254
+
+REPRESENTATION OF THE PEOPLE
+
+The Scottish Local Government Elections Amendment Order 2026
+
+Made
+
+2nd September 2026
+
+Laid before the Scottish Parliament
+
+4th September 2026
+
+Coming into force
+
+13th November 2026
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 3(1) and (3A) and 16(2) of the Local Governance (Scotland) Act 2004[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 7(1) and (2)(j) of the Political Parties, Elections and Referendums Act 2000[^f00002], they have consulted the Electoral Commission.
+
+## 1. Citation, commencement and transitional provision
+
+(1) This Order may be cited as the Scottish Local Government Elections Amendment Order 2026 and comes into force on 13 November 2026.
+
+(2) This Order has no effect for the purposes of any election for which the date of poll is on or before 5 May 2027.
+
+## 2. Amendment of the Scottish local government election rules
+
+Schedule 1 of the Scottish Local Government Elections Order 2011[^f00003] (rules for conduct of a Scottish local government election where the poll is not taken together with the poll at another election) is amended in accordance with articles 3 to 6.
+
+## 3. Nomination of candidates
+
+After rule 4(11)[^f00004] (nomination of candidates) insert—
+
+> (11A) Paragraph (11B) apples where—
+>
+> - (a) the candidate has not made and signed a statement for the purposes of paragraph (11)(a), or
+> - (b) the candidate has made and signed a statement for the purposes of that paragraph and their home address is not in Scotland.
+>
+> (11B) Where this paragraph applies, the home address form must contain a correspondence address within Scotland.
+
+.
+
+## 4. Format of candidates’ names
+
+In rule 14[^f00005] (the ballot papers), in paragraph (2)(a) after “surnames”, insert “, with each candidate’s surname appearing first, followed by their forename, with the surname and forename separated by a comma”.
+
+## 5. Additional information on polling cards
+
+In rule 24 (issue of official poll cards and notifications), after paragraph (4), insert—
+
+> (4A) The official poll card, the official postal poll card, the official poll card issued to the proxy of an elector and the official postal poll card issued to the proxy of an elector may, in addition to the matters in the relevant form, set out such other information, not relating to any candidate or registered party, as the returning officer considers appropriate, and different additional information may be provided to different electors or descriptions of elector.
+
+.
+
+## 6. Equipment of polling stations
+
+(1) in rule 25 (equipment of polling stations)—
+
+- (a) for paragraph (5)(b) substitute—
+
+  > - (b) such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 33 (including in relation to voting secretly).
+
+  ,
+- (b) after paragraph (5), insert—
+
+  > (5A) For the purposes of paragraph (5)(b), “**relevant persons**” means persons who find it difficult or impossible to vote in the manner directed by rule 33 because of—
+  >
+  > - (a) blindness or partial sight, or
+  > - (b) another disability.
+  >
+  > (5B) The Electoral Commission must give guidance to returning officers in relation to the duty imposed by paragraph (5)(b).
+  >
+  > (5C) Before giving guidance under paragraph (5B), the Electoral Commission must consult such persons, including bodies representing the interests of relevant persons, as they consider appropriate.
+  >
+  > (5D) In performing the duty imposed by paragraph (5)(b), a returning officer must have regard to guidance given under paragraph (5B).
+  >
+  > (5E) Paragraph (5F) applies where, before the coming into force of paragraphs (5B) and (5C), the Electoral Commission has—
+  >
+  > - (a) issued guidance for the purposes of rule 38(4B) of schedule 2 (Scottish parliamentary election rules) of the Scottish Parliament (Elections etc.) Order 2015[^f00006], and
+  > - (b) consulted on that guidance in accordance with rule 38(4C)[^f00007] of that schedule.
+  >
+  > (5F) Where this paragraph applies, guidance mentioned in paragraph (5E)(a) is treated as guidance issued under paragraph (5B) which complies with paragraph (5C).
+
+  .
+
+## 7. Forms
+
+In Part VII[^f00008] (forms for use at Scottish local government elections), for the following forms substitute the corresponding forms set out in the schedule of this Order—
+
+- (a) Form 2 (Nomination Paper),
+- (b) Form 4 (Ballot Paper).
+
+JAMIE HEPBURN
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+2nd September 2026
+
+## Schedule — Amended forms for use at Scottish local government elections
+
+Article 7
+
+**1.** Form 2—
+
+> [image: see source](https://www.legislation.gov.uk/ssi/2026/254/images/ssi_20260254_en_001) [image: see source](https://www.legislation.gov.uk/ssi/2026/254/images/ssi_20260254_en_002)
+
+.
+
+**2.** Form 4—
+
+> [image: see source](https://www.legislation.gov.uk/ssi/2026/254/images/ssi_20260254_en_003) [image: see source](https://www.legislation.gov.uk/ssi/2026/254/images/ssi_20260254_en_004)
+
+.
+
+Explanatory Note
+
+(This note is not part of the Order)
+
+This Order amends the Scottish Local Government Elections Order 2011 (“**the 2011 Order**”).
+
+Article 3 amends rule 4 of the Scottish local government elections rules (set out in schedule 1 of the 2011 Order) to require candidates who have not requested publication of their home address, and candidates who have requested publication of their home address but whose home address is outside Scotland, to provide a correspondence address in Scotland in their nomination paper. That address will be used and published only if the candidate becomes their own election agent by default.
+
+Article 4 amends rule 14 of the Scottish local government elections rules to require that on the ballot paper the candidate’s surname appears first, followed by their forename, and that the candidate’s surname and forename are separated by a comma.
+
+Article 5 amends rule 24 of the Scottish local government elections rules to make clear returning officers may add such information as they consider appropriate on polling cards.
+
+Article 6 amends rule 25 of the Scottish local government elections rules to substitute the existing requirement that returning officers provide a specified device to allow blind and partially sighted voters to vote without assistance, with a duty to provide such equipment as is reasonable to enable (or make it easier for) disabled voters, including those who are blind or partially sighted, to vote independently in the manner directed by rule 33 (including in relation to voting secretly). It also requires the Electoral Commission to produce guidance on this duty, and requires returning officers to have regard to that guidance in fulling the duty to provide equipment to assist disabled voters.
+
+Article 7 updates forms 2 and 4 in the 2011 Order. Form 2 is changed in consequence of the change to local government candidacy rights by section 2 of the Scottish Elections (Representation and Reform) Act 2025. Form 4 is changed due to the introduction of a standard format in which candidates’ names must appear on ballot papers by article 3.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 asp 9](https://www.legislation.gov.uk/asp/2004/9). Section 3 was relevantly amended by section 34(6) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14) and section 45(2) of the Scottish Elections (Representation and Reform) Act [2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4).
+
+[^f00002]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41). Section 7(2)(j) was inserted by section 12 of the Local Electoral Administration (Scotland) Act [2011 (asp 10)](https://www.legislation.gov.uk/asp/2011/10).
+
+[^f00003]: Footnote: [S.S.I. 2011/399](https://www.legislation.gov.uk/ssi/2011/399); relevantly amended by [S.S.I. 2020/239](https://www.legislation.gov.uk/ssi/2020/239) and the Scottish Elections (Representation and Reform) Act [2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4).
+
+[^f00004]: Footnote: Paragraph (11) of rule 4 was inserted by [S.S.I. 2020/239](https://www.legislation.gov.uk/ssi/2020/239).
+
+[^f00005]: Footnote: Paragraph (2)(a) of rule 14 was amended by [S.S.I. 2020/239](https://www.legislation.gov.uk/ssi/2020/239).
+
+[^f00006]: Footnote: [S.S.I. 2015/425](https://www.legislation.gov.uk/ssi/2015/425). Rule 38(4B) was inserted by [S.S.I. 2025/313](https://www.legislation.gov.uk/ssi/2025/313).
+
+[^f00007]: Footnote: Rule 38(4C) was inserted by [S.S.I. 2025/313](https://www.legislation.gov.uk/ssi/2025/313).
+
+[^f00008]: Footnote: Part VII of schedule 1 was relevantly amended by [S.S.I. 2020/239](https://www.legislation.gov.uk/ssi/2020/239).

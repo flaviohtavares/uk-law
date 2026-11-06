@@ -1,0 +1,607 @@
+---
+title: The Procurement (Scotland) Regulations 2016
+id: ssi/2016/145
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-08'
+text_date: '2025-01-10'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/145
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/145/pdfs/ssipn_20160145_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/145/pdfs/ssi_20160145_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/145/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Procurement (Scotland) Regulations 2016
+
+> Text as at 2025-01-10.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2016 No. 145
+
+Public Procurement
+
+The Procurement (Scotland) Regulations 2016
+
+Made
+
+8th March 2016
+
+Coming into force
+
+18th April 2016
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 5(2), 7(1), 12(3), 14(1), 23(3), 27, 28, 30 and 44(1) of the Procurement Reform (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 44(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## PART 1 — GENERAL
+
+### 1. Citation and commencement[^key-da77aa9569335dbffb70e857a2e3a811]
+
+These Regulations may be cited as the Procurement (Scotland) Regulations 2016 and come into force on 18th April 2016.
+
+### 2. Interpretation[^key-afe26b54cb59fd4017b553842d37d77c]
+
+In these Regulations—
+
+- “the 2015 Regulations” means the Public Contracts (Scotland) Regulations 2015[^f00002];
+- “the Act” means the Procurement Reform (Scotland) Act 2014;
+- “candidate” means an economic operator that has sought an invitation to or has been invited to take part in a procurement procedure;
+- “contract notice” means a notice published on the Public Contracts Scotland website in accordance with these Regulations;
+- “contracting authority” means the State, a regional or local authority, a body governed by public law or an association formed by one or more such authorities or bodies;
+- “CPV Code” means a code used in the Common Procurement Vocabulary as adopted by Regulation [(EC) No 2195/2002](https://www.legislation.gov.uk/european/regulation/2002/2195) of the European Parliament and of the Council on the Common Procurement Vocabulary[^f00003];
+- “the Directive” means [Directive 2014/24/EU](https://www.legislation.gov.uk/european/directive/2014/0024) of the European Parliament and of the Council on public procurement and repealing [Directive 2004/18/EC](https://www.legislation.gov.uk/european/directive/2004/0018)[^f00004];
+- [^key-b96d6bc610105d1a6af4e7b73f4ba53b]...
+- “procurement” means the process leading to the award of a public contract for the acquisition of works, supplies or services from an economic operator;
+- “procurement document” means any document produced or referred to by the contracting authority to describe or determine elements of the procurement or the procedure, including the contract notice, [^key-39ff936c058b28d6a6212183825da1e8]... the technical specifications, the descriptive document, proposed conditions of contract, formats for the presentation of documents by candidates and tenderers, information on generally applicable obligations and any additional documents;
+- “public service contract” has the same meaning as in the 2015 Regulations;
+- “public supply contract” has the same meaning as in the 2015 Regulations;
+- “public works contract” has the same meaning as in the 2015 Regulations;
+- “tenderer” means an economic operator that has submitted a tender.
+
+## PART 2 — REGULATED CONTRACTS AND DYNAMIC PURCHASING SYSTEMS
+
+### 3. Methods for calculating the estimated value for regulated contracts[^key-21a570d01045135db01b7120b0827a09]
+
+(1) A contracting authority must calculate the estimated value of a contract by reference to the total amount payable under it (regardless of the form of such payment), not including value added tax.
+
+(2) The total amount payable includes the amount payable as a result of the exercise of any form of option and any renewal of the contract as explicitly set out in the procurement documents.
+
+(3) Where a contracting authority provides for prizes or payments to candidates or tenderers it must take them into account when calculating the estimated value.
+
+(4) Where a contracting authority is comprised of separate operational units the authority—
+
+- (a) may calculate the estimated value by reference to each such unit where that unit is independently responsible for its procurement; and
+- (b) must calculate the estimated value by reference to the total for all the operational units which are not so responsible.
+
+(5) A contracting authority must not choose a method to be used to calculate the estimated value of a contract with the intention of excluding the contract from the application of the Act.
+
+(6) The estimated value must be the value estimated at the moment at which the procurement is commenced.
+
+(7) In the case of a framework agreement or dynamic purchasing system the estimated value shall be the total estimated value of all of the contracts envisaged pursuant to and for the total term of the agreement or system.
+
+(8) In the case of a public works contract the estimated value shall include the total estimated value of any supplies and services that are necessary for executing the works and are to be provided by the contracting authority to the contractor.
+
+(9) In the case of a public contract to be awarded in the form of separate lots, the estimated value shall be the total estimated value of all such lots.
+
+(10) In the case of public contracts which are regular in nature or which are intended to be renewed in a given period, the estimated value shall be calculated by reference to—
+
+- (a) the total actual value of contracts of the same type awarded during the period of 12 months or the financial year preceding the proposed award of a further contract but with adjustment of such value, where possible, to take account of the changes in quantity or value which the authority considers will be likely to occur during the period of 12 months following the award of the contract; or
+- (b) the total estimated value of the successive contracts awarded during the 12 months following the first delivery, or during the financial year where that is longer than 12 months.
+
+(11) In the case of a public supply contract relating to the leasing, rental, hire or hire purchase of products the estimated value shall be—
+
+- (a) in the case of a fixed term contract for a period of less than or equal to 12 months, the total estimated value of the contract;
+- (b) in the case of a fixed term contract for a period of more than 12 months, the total value including the estimated residual value;
+- (c) in the case of a contract without a fixed term or the term of which cannot be defined, the monthly value multiplied by 48.
+
+(12) In the case of a public service contract for a service of a kind mentioned in this paragraph, the estimated value shall be calculated by reference to—
+
+- (a) for insurance services, the premium payable and any other form of remuneration;
+- (b) for banking and other financial services, the fees, commissions payable, interest and any other form of remuneration;
+- (c) for design contracts, the fees, commissions payable and any other form of remuneration.
+
+(13) In the case of a public service contract which does not indicate a total price, the estimated value shall be calculated by reference to—
+
+- (a) in the case of a contract for a fixed term of less than or equal to 48 months, the total value of the contract for its full term;
+- (b) in the case of a contract for a fixed term of more than 48 months or a contract without a fixed term, the monthly value multiplied by 48.
+
+### 4. Dynamic purchasing systems[^key-ca06411ae3121716d50c8ea4dbb19401]
+
+(1) The Act applies to the establishment and operation of dynamic purchasing systems and to contracts awarded under dynamic purchasing systems, except that the following provisions do not apply to contracts awarded under a dynamic purchasing system—
+
+- (a) section 8(2);
+- (b) section 11;
+- (c) section 23(1);
+- (d) section 27.
+
+(2) In the application of section 23(2) of the Act to contracts awarded under dynamic purchasing systems a contracting authority may group notices on a quarterly basis, in which case the authority must send for publication the grouped notices within 30 days of the end of each quarter.
+
+## PART 3 — GENERAL DUTIES
+
+### 5. Specification of health or social care services[^key-d977361851a3939aab3559fabe3df288]
+
+(1) For the purposes of sections 12(1) and 13(1) of the Act and these Regulations, health or social care services are those services specified in column 1 of the Schedule to these Regulations by reference to their CPV Codes and broadly referred to in column 2 of the said Schedule.
+
+(2) Where the contract is a mixed contract including services of a kind referred to in the Schedule and other services or supplies or both, the contract will be a health or social care service contract for the purpose of the provisions referred to in paragraph (1) where the health or social care service characterises the main subject of the contract.
+
+(3) The main subject of the contract referred to in paragraph (2) shall be determined by reference to which of the services or supplies has the highest estimated value and in the event that the estimated values are equal the main subject shall be deemed to be the health or social care service.
+
+### 6. Circumstances in which a contract can be awarded without competition[^key-e98c933352c9ca6d541ea25687102820]
+
+(1) A contracting authority may award a public contract without seeking offers in relation to the proposed contract—
+
+- (a) where no tenders, no suitable tenders, no requests to participate or no suitable requests to participate have been submitted in response to the publication of a contract notice, provided that the initial conditions of the contract are not substantially altered;
+- (b) where the works, supplies or services can be supplied only by a particular economic operator for any of the following reasons—
+  - (i) the aim of the procurement is the creation or acquisition of a unique work of art or artistic performance;
+  - (ii) competition is absent for technical reasons;
+  - (iii) the protection of exclusive rights, including intellectual property rights;
+
+  but only, in the case of paragraphs (ii) and (iii), where no reasonable alternative or substitute exists and the absence of competition is not the result of an artificial narrowing down of the parameters of the procurement;
+- (c) where (but only if it is strictly necessary) for reasons of extreme urgency brought about by events unforeseeable by the contracting authority, the authority considers it must proceed to award a contract without delay;
+- (d) where the following conditions apply—
+  - (i) it is for new works, services or both, consisting of the repetition of similar works or services entrusted to the economic operator to which the contracting authority awarded an original contract, provided that such works or services are in conformity with the project for which the original contract was awarded;
+  - (ii) the project indicated the extent of possible additional works or services and the conditions under which they would be awarded;
+  - (iii) the possible use of this procedure was disclosed in the procurement documents and the total estimated cost of subsequent works or services was taken into consideration by the contracting authority when determining the estimated value for the purpose of applying section 3(1)(b) of the Act in relation to the original contract; and
+  - (iv) not more than three years has elapsed following the conclusion of the original contract.
+
+(2) For the purposes of paragraph (1)(a)—
+
+- (a) a tender shall be considered not to be suitable where it is irrelevant to the contract, being manifestly incapable, without substantial changes, of meeting the contracting authority’s needs and requirements as specified in the procurement documents;
+- (b) a request to participate shall be considered not to be suitable where the economic operator concerned—
+  - (i) has been or would be excluded under regulation 9; or
+  - (ii) does not meet the selection criteria.
+
+(3) For the purposes of paragraph (1)(c), the circumstances invoked to justify extreme urgency must not, in any event, be attributable to the contracting authority.
+
+(4) A contracting authority may award a public supply contract without seeking offers in relation to the proposed contract—
+
+- (a) where the products involved are manufactured purely for the purpose of research, experimentation, study or development, but a contract awarded under this sub‑paragraph shall not include quantity production to establish commercial viability or to recover research and development costs;
+- (b) for additional deliveries by the original supplier which are intended either as a partial replacement of supplies or installations or as the extension of existing supplies or installations where a change of supplier would oblige the contracting authority to acquire supplies having different technical characteristics which would result in incompatibility or disproportionate technical difficulties in operation and maintenance;
+- (c) for supplies quoted and purchased on a commodity market;
+- (d) for the purchase of supplies on particularly advantageous terms, from either a supplier which is definitively winding up its business activities, or the liquidator in an insolvency procedure, an arrangement with creditors, or a similar procedure under national laws or regulations.
+
+(5) For the purposes of paragraph (4)(b), the duration of such a contract, as well as that of recurrent contracts must not, save in exceptional circumstances, exceed three years.
+
+(6) A contracting authority may award a public service contract without the publication of a contract notice where the contract concerned—
+
+- (a) follows a design contest organised in accordance with the 2015 Regulations; and
+- (b) is to be awarded, under the rules provided for in the design contest, to the winner or one of the winners of the design contest.
+
+## PART 4 — SPECIFIC DUTIES
+
+### 7. Publication of contract notices and award notices on the Public Contracts website[^key-7dd7177a03120504908beacff241462b][^key-9a553891be051ad26fe693c3685f8370]
+
+(1) Where a notice to be published in accordance with section 23(1) of the Act relates to a higher value regulated procurement[^key-4ebb20d3b9bb0422c366bc9e73698de4] for which notice must be published in accordance with regulations 49, 50, 51 and 78 of the 2015 Regulations, a contracting authority must comply with regulation 53(3) and (4) of those Regulations.
+
+(2)[^key-0534ac671f0ad709baf050d2ea81e2e6] A contracting authority must publicise its intention to seek offers by publishing a contract notice.
+
+(3)[^key-1f64d25f74edc16a441ca1e3be6dd7bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A contract notice published in accordance with paragraph (2) must contain the information set out in Part C of Annex V to the Directive , but as if—[^key-11baac1a5b6fd7d0724c70ff96325371]
+
+- (a) in paragraph 2, reference to “for the reasons set out in the second and third subparagraphs of Article 53(1),” were omitted,
+- (b) paragraph 24 (financing by EU funds) were omitted,
+- (c) in paragraph 26, “in the *Official Journal of the European Union*” read “on the Public Contracts website”,
+- (d) in paragraph 28, “date of dispatch” were a reference to the date on which the notice is submitted to the Public Contracts website.
+
+(5)[^key-3e9a5bfe6ad4b14bd24cd1e98a959412] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Not later than 30 days after the award of a contract to be published in accordance with section 23(2) of the Act, a contracting authority must send for publication a contract award notice.
+
+(7) A contract award notice must contain the information set out in Part D of Annex V to the Directive , but as if—[^key-390378177ad72832672130683dfb02b1]
+
+- (a) in paragraph 9, “referred to in Article 67” were omitted,
+- (b) in paragraph 11(b), the words “member State or from a third” were omitted,
+- (ba)[^key-9ac681e116934135b375369cfaa76b1f] in paragraph 13, the words “or the highest tender and lowest tender taken into consideration” were omitted,
+- (c) paragraph 15 (financing by EU funds) were omitted,
+- (d) in paragraph 17, “in the *Official Journal of the European Union*” read “on the Public Contracts website”,
+- (e) in paragraph 18, “date of dispatch” were a reference to the date on which the notice is submitted to the Public Contracts website.
+
+(8) A contracting authority may withhold information from publication in a contract award notice where the release of the information would—
+
+- (a) impede law enforcement or otherwise be contrary to the public interest;
+- (b) prejudice the commercial interests of any person; or
+- (c) prejudice fair competition between economic operators.
+
+(9)[^key-5e58790f02b4c69207e024df56aaa23f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Selection of tenderers: exclusion of economic operators on grounds of criminal activity[^key-bc04b395375f002ff5942537a2d550b8]
+
+(1) A contracting authority must exclude an economic operator from participation in a procurement procedure where the contracting authority has established or is otherwise aware that that economic operator or a person to whom paragraph (2) applies has been convicted of any of the following offences—
+
+- (a) the common law offence of conspiracy where that conspiracy relates to participation in a criminal organisation as defined in Article 2 of Council Framework Decision 2008/841/JHA on the fight against organised crime[^f00005] or an offence under sections 28 or 30 of the Criminal Justice and Licensing (Scotland) Act 2010[^f00006];
+- (b) corruption within the meaning of section 1(2) of the Public Bodies Corrupt Practices Act 1889[^f00007] or section 1 of the Prevention of Corruption Act 1906[^f00008], where the offence relates to active corruption as defined in Article 3 of the Council Act of 26th May 1997 on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union[^f00009] and Article 3(1) of Council Joint Action 98/742/JHA on corruption in the private sector[^f00010];
+- (c) bribery or corruption within the meaning of sections 68 and 69 of the Criminal Justice (Scotland) Act 2003[^f00011], where the offence relates to active bribery or corruption;
+- (d) bribery within the meaning of sections 1 or 6 of the Bribery Act 2010[^f00012];
+- (e)[^key-41f9a467c77d789073e3716d22d29afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) any offence listed in—
+  - (i) section 41 of the Counter-Terrorism Act 2008[^f00019]; or
+  - (ii) Schedule 2 to that Act where the court has determined that there is a terrorist connection.
+- (g) money laundering within the meaning of section 340(11) and 415 of the Proceeds of Crime Act 2002[^f00020];
+- (h) an offence in connection with the proceeds of criminal conduct within the meaning of section 93A, 93B or 93C of the Criminal Justice Act 1988[^f00021];
+- (i) any offence under Part 1 of the Human Trafficking and Exploitation (Scotland) Act 2015[^f00022] or under any provision referred to in the Schedule to that Act;
+- (j) an offence in connection with the proceeds of drug trafficking within the meaning of section 49, 50 or 51 of the Drug Trafficking Act 1994[^f00023];
+- (k) any other offence within the meaning of Article 57(1)(a), (b), (d), (e) or (f)[^key-93abe30a67193e820fc9380157f70fe5] of the Directive as defined by the law of any EEA state or any part thereof.
+
+(2) This paragraph applies to a person who is a member of the administrative, management or supervisory body of the economic operator referred to in paragraph (1) or has powers of representation, decision or control in relation to such economic operator.
+
+(3) A contracting authority may disregard any of the prohibitions imposed by this regulation, on an exceptional basis, for overriding reasons relating to the public interest such as public health or protection of the environment.
+
+(4) A contracting authority must exclude an economic operator where the authority becomes aware, at any time during the procedure, that the economic operator is, in view of acts committed or omitted either before or during the procedure, in one of the situations referred to in this regulation.
+
+(5) Subject to paragraphs (3) and (7), the period during which the economic operator must be excluded under this regulation is five years from the date of the conviction by final judgment.
+
+(6) Any economic operator that is in one of the situations referred to in this regulation may provide evidence to the effect that measures taken by the economic operator are sufficient to demonstrate its reliability despite the existence of a relevant ground for exclusion.
+
+(7) If the contracting authority is satisfied that the evidence proves that the measures are sufficient for the purpose referred to in paragraph (6), the authority must not exclude the economic operator from the procurement procedure.
+
+(8) For the purposes mentioned in paragraph (7), the economic operator must prove that it has—
+
+- (a) paid or undertaken to pay compensation in respect of any damage caused by the criminal offence;
+- (b) clarified the facts and circumstances in a comprehensive manner by actively collaborating with the investigating authorities; and
+- (c) taken concrete technical, organisational and personnel measures that are appropriate to prevent further criminal offences.
+
+(9) The measures taken by the economic operator must be evaluated by the contracting authority taking into account the gravity and particular circumstances of the criminal offence.
+
+(10) Where the contracting authority considers that the measures are insufficient, the authority must give to the economic operator a statement of the reasons for that decision.
+
+### 9. Selection of tenderers: exclusion criteria[^key-3b5916ca2bb53804c186ae0acc42e595]
+
+(1) A contracting authority must exclude an economic operator from participation in a procurement procedure where the contracting authority is aware that the economic operator has committed an act prohibited under the Employment Relations Act 1999 (Blacklists) Regulations 2010[^f00024] and the commission of such an act has been admitted by the economic operator or established by a judicial decision having final and binding effect.
+
+(2) Subject to paragraph (3), a contracting authority may exclude an economic operator from participation in a procurement procedure where the contracting authority can demonstrate by any appropriate means that the economic operator is in breach of its obligations relating to the payment of taxes or social security contributions.
+
+(3) A contracting authority may not exclude an economic operator pursuant to paragraph (2) where—
+
+- (a) the economic operator has fulfilled its obligations by paying, or entering into a binding arrangement with a view to paying, the taxes or social security contributions due, including, where applicable, any interest accrued or fines; or
+- (b) the obligation to make repayment otherwise ceases.
+
+(4) A contracting authority may disregard the prohibition imposed by paragraph (1), on an exceptional basis, for overriding reasons relating to the public interest such as public health or protection of the environment.
+
+(5) A contracting authority may exclude an economic operator from participation in a procurement procedure where—
+
+- (a) the contracting authority can demonstrate by any appropriate means a violation by the economic operator of applicable obligations referred to in regulation 57(2) (general principles) of the 2015 Regulations;
+- (b) the economic operator is bankrupt or is the subject of insolvency or winding-up proceedings, where its assets are being administered by a liquidator or by the court, where it is in an arrangement with creditors, where its business activities are suspended or it is in any analogous situation arising from a similar procedure under laws and regulations to which the economic operator may be subject;
+- (c) the contracting authority can demonstrate by appropriate means that the economic operator is guilty of grave professional misconduct, which renders its integrity questionable;
+- (d) the contracting authority has sufficiently plausible indications to conclude that the economic operator has entered into agreements with other economic operators aimed at distorting competition;
+- (e) a conflict of interest exists within the meaning of regulation 25 (conflicts of interest) of the 2015 Regulations which cannot be effectively remedied by other less intrusive measures;
+- (f) a distortion of competition may arise from the prior involvement of the economic operator in the preparation of the procurement procedure, as referred to in regulation 42 (prior involvement of candidates or tenderers) of the 2015 Regulations, which cannot be remedied by other, less intrusive measures;
+- (g) the economic operator has shown significant or persistent deficiencies in the performance of a substantive requirement under a prior public contract, a prior contract with a contracting entity or a prior concession contract which led to early termination of that prior contract, damages or other comparable sanctions;
+- (h) the economic operator has been guilty of serious misrepresentation in supplying the information required for the verification of the absence of grounds for exclusion or the fulfilment of the selection criteria;
+- (i) the economic operator has withheld information referred to in sub-paragraph (h); or
+- (j) the economic operator—
+  - (i) has or has sought to unduly influence the decision-making process of the contracting authority;
+  - (ii) has or has sought to obtain confidential information that may confer upon it undue advantages in the procurement procedure; or
+  - (iii) has negligently provided misleading information that may have a material influence on decisions concerning exclusion, selection or award.
+
+(6) A contracting authority must exclude an economic operator where the authority becomes aware, at any time during the procedure, that the economic operator is, in view of acts committed or omitted either before or during the procedure, in one of the situations referred to in paragraph (1).
+
+(7) A contracting authority may exclude an economic operator where the authority becomes aware, at any time during the procedure, that the economic operator is, in view of acts committed or omitted either before or during the procedure, in one of the situations referred to in paragraphs (2) or (5).
+
+(8) In the cases referred to in paragraph (1) or (5), and subject to paragraph (11), the period during which the economic operator may be excluded is three years from the date of the relevant event.
+
+(9) Any economic operator that is in one of the situations referred to in paragraph (1) or (5) may provide evidence to the effect that measures taken by the economic operator are sufficient to demonstrate its reliability despite the existence of a relevant ground for exclusion.
+
+(10) If the contracting authority is satisfied that the evidence proves that the measures are sufficient for the purpose referred to in paragraph (9), the authority must not exclude the economic operator from the procurement procedure.
+
+(11) For the purpose mentioned in paragraph (10), the economic operator must prove that it has—
+
+- (a) paid or undertaken to pay compensation in respect of any damage caused by the criminal offence or misconduct;
+- (b) clarified the facts and circumstances in a comprehensive manner by actively collaborating with the investigating authorities; and
+- (c) taken concrete technical, organisational and personnel measures that are appropriate to prevent further criminal offences or misconduct.
+
+(12) The measures taken by the economic operator must be evaluated by the contracting authority taking into account the gravity and particular circumstances of the criminal offence or misconduct.
+
+(13) Where the contracting authority considers that the measures are insufficient, the authority must give to the economic operator a statement of the reasons for that decision.
+
+(14) In this regulation—
+
+- “contracting entity” has the meaning given in Article 4 of [Directive 2014/25/EU](https://www.legislation.gov.uk/european/directive/2014/0025) of the European Parliament and of the Council on procurement entities operating in the water, energy, transport and postal services sectors and repealing [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017)[^f00025];
+- “concession contract” has the meaning given in the Concession Contracts (Scotland) Regulations 2016[^f00026].
+
+### 10. Selection of tenderers: selection criteria[^key-e657b1e4104e5a8354c884831594591e]
+
+(1) Selection criteria may relate to—
+
+- (a) suitability to pursue a professional activity;
+- (b) economic and financial standing;
+- (c) technical and professional ability.
+
+(2) A contracting authority may impose upon economic operators as requirements for participation only the criteria referred to in paragraphs (6) to (19).
+
+(3) A contracting authority must limit any requirements to those that are appropriate to ensure that a candidate or tenderer has the legal and financial capacities and the technical and professional abilities to perform the contract to be awarded.
+
+(4) All requirements must be related and proportionate to the subject-matter of the contract.
+
+(5)[^key-b305352d156a8701fcfa6801d3130fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In procurement procedures for services, in so far as economic operators have to possess a particular authorisation or to be a member of a particular organisation in order to be able to perform in their country of origin the service concerned, a contracting authority may require them to prove that they hold such authorisation or membership.
+
+(7) With regard to economic and financial standing, a contracting authority may impose requirements ensuring that economic operators possess the necessary economic and financial capacity to perform the contract.
+
+(8) A contracting authority may require that economic operators—
+
+- (a) in particular, have a certain minimum yearly turnover, including a certain minimum turnover in the area covered by the contract;
+- (b) provide information on their annual accounts showing the ratios, for example, between assets and liabilities;
+- (c) have an appropriate level of professional risk indemnity insurance.
+
+(9) The minimum yearly turnover that economic operators are required to have must not exceed twice the estimated contract value, except in duly justified cases, such as by reference to special risks attached to the nature of the works, supplies or services.
+
+(10) Ratios referred to in paragraph (8)(b) may be taken into consideration where the contracting authority specifies the methods and criteria for such consideration in the procurement documents, but such methods and criteria must be transparent, objective and non-discriminatory.
+
+(11) Where a contract is divided into lots paragraphs (12) to (14) shall apply in relation to each individual lot.
+
+(12) A contracting authority may set the minimum yearly turnover that economic operators are required to have by reference to groups of lots in the event that the successful tenderer is awarded several lots to be performed at the same time.
+
+(13) Where a contract based on a framework agreement is to be awarded following a reopening of competition, the estimated contract value referred to in paragraph (9) must be calculated on the basis of the expected maximum size of specific contracts that will be performed at the same time, or, where it is not known, on the basis of the estimated value of the framework agreement.
+
+(14) In the case of a dynamic purchasing system, the estimated contract value referred to in paragraph (9) must be calculated on the basis of the expected maximum size of specific contracts to be awarded under that system.
+
+(15) With regard to technical and professional ability, a contracting authority may impose requirements ensuring that economic operators possess the necessary human and technical resources and experience to perform the contract to an appropriate quality standard.
+
+(16) A contracting authority may require, in particular, that economic operators have a sufficient level of experience demonstrated by suitable references from contracts performed in the past.
+
+(17) A contracting authority may assume that an economic operator does not possess the required professional abilities where the contracting authority has established that the economic operator has conflicting interests which may negatively affect the performance of the contract.
+
+(18) In a procurement procedure for works, for supplies requiring siting or installation work or for services, a contracting authority may evaluate the professional ability of economic operators to execute or provide the works, siting or installation or the services with regard to the skills, efficiency, experience and reliability of the economic operator.
+
+(19) A contracting authority must state the requirements for participation, which may be expressed as minimum levels of ability, together with the appropriate means of proof, in the contract notice or in the invitation to confirm interest.
+
+### 11. Technical specifications[^key-e75eab3236f8ca6a50379a5be9bded38]
+
+(1) The technical specifications in a regulated procurement must—
+
+- (a) be set out in the procurement documents; and
+- (b) lay down the characteristics required of any works, supply or service.
+
+(2) In the case of a public works contract, technical specifications define any characteristics required of a material, product or supply so that it fulfils the use for which it is intended by the contracting authority.
+
+(3) The characteristics referred to in paragraph (2) may include—
+
+- (a) levels of environmental and climate performance;
+- (b) design for all requirements (including accessibility for disabled persons) and conformity assessment;
+- (c) performance, safety or dimensions, including the procedures concerning quality assurance;
+- (d) terminology;
+- (e) symbols;
+- (f) testing and test methods;
+- (g) packaging, marking and labelling;
+- (h) user instructions;
+- (i) production processes and methods at any stage of the life cycle of the works;
+- (j) rules relating to design and costing, and the test, inspection and acceptance conditions for works; and
+- (k) methods or techniques of construction and all other technical conditions which the contracting authority is in a position to prescribe, under general or specific regulations, in relation to the finished works and to the materials or parts which they involve.
+
+(4) In the case of a public supply or public service contract, the required characteristics may include—
+
+- (a) quality levels;
+- (b) environmental and climate performance levels;
+- (c) design for all requirements (including accessibility for disabled persons) and conformity assessment;
+- (d) performance, use of the product, safety or dimensions, including requirements relevant to the product as regards the name under which the product is sold;
+- (e) terminology;
+- (f) symbols;
+- (g) testing and test methods;
+- (h) packaging, marking and labelling;
+- (i) user instructions;
+- (j) production processes and methods at any stage of the life cycle of the supply or service; and
+- (k) conformity assessment procedures.
+
+(5) In the case of any public contract, the required characteristics may also refer to—
+
+- (a) the specific process or method of production or provision of the requested works, supplies or services; or
+- (b) a specific process for another stage of its life cycle,
+
+even where such factors do not form part of their material substance, provided that they are linked to the subject-matter of the contract and proportionate to its value and its objectives.
+
+(6) The technical specifications may also specify whether the transfer of intellectual property rights will be required.
+
+(7) Where the subject of the procurement is intended for use by natural persons, whether the general public or staff of the contracting authority, the technical specifications must, except in duly justified cases, be drawn up so as to take into account accessibility criteria for persons with disabilities or design for all users.
+
+(8) Where mandatory accessibility requirements are imposed by[^key-6a6f3263766a860cc5676523ff8529c7] assimilated[^key-7c07d4fc0967207ef9338f4335369fa6] law, technical specifications must, as far as accessibility criteria for persons with disabilities or design for all users are concerned, be defined by reference to those accessibility requirements.
+
+(9) Technical specifications must afford equal access of economic operators to the procurement procedure and must not have the effect of creating unjustified obstacles to the opening up of public procurement to competition.
+
+(10) Without prejudice to mandatory national technical rules, [^key-3786f1e4ff8afc2a89648b8249c98401]... the technical specifications must be formulated—
+
+- (a) in terms of performance or functional requirements, including environmental characteristics, provided that the parameters are sufficiently precise to allow tenderers to determine the subject-matter of the contract and to allow the contracting authority to award the contract;
+- (b) by reference to technical specifications in the following order of precedence:—
+  - (i) national standards transposing European standards;
+  - (ii) European Technical Assessments;
+  - (iii) common technical specifications;
+  - (iv) international standards;
+  - (v) other technical reference systems established by the European standardisation bodies; or
+  - (vi) when none of the above exist, national standards, national technical approvals or national technical specifications relating to the design, calculation and execution of the works and use of the supplies,
+
+  but each reference must be accompanied by the words ‘or equivalent’;
+- (c) in terms of performance or functional requirements as referred to in sub-paragraph (a), with reference to the technical specifications referred to in sub-paragraph (b) as a means of presuming conformity with such performance or functional requirements; or
+- (d) by reference to the technical specifications referred to in sub-paragraph (b) for certain characteristics, and by reference to the performance or functional requirements referred to in sub-paragraph (a) for other characteristics.
+
+(11) Subject to paragraph (12), technical specifications must not, with the effect of favouring or eliminating certain undertakings or certain products, refer to—
+
+- (a) a specific make or source;
+- (b) a particular process which characterises the products or services provided by a specific economic operator; or
+- (c) trade marks, patents, types, or a specific origin or production.
+
+(12) Reference or a kind referred to in paragraph (11) is permitted—
+
+- (a) where justified by the subject-matter of the contract; and
+- (b) on an exceptional basis, where a sufficiently precise and intelligible description of the subject-matter of the contract pursuant to paragraph (10) is not possible, in which case the reference must be accompanied by the words “or equivalent”.
+
+(13) Where a contracting authority formulates technical specifications in terms of performance or functional requirements accordance with paragraph (10)(a), it must not reject a tender for works, supplies or services which complies with a technical specification of a kind mentioned in paragraph (10)(b)(i) to (v), where those specifications address the performance or functional requirements which it has laid down.
+
+(14) Where a contracting authority formulates technical specifications in accordance with paragraph (10)(b), it must not reject a tender on the grounds that the works, supplies or services tendered for do not comply with the technical specifications to which it has referred, where the tenderer proves in its tender by any appropriate means, including the means of proof referred to in regulation 45 of the 2015 Regulations (test reports, certificates and other means of proof), that the solution proposed satisfies in an equivalent manner the requirements defined by the technical specifications.
+
+(15) In its tender, the tenderer must prove by any appropriate means, including those referred to in regulation 45 of the 2015 Regulations (test reports, certificates and other means of proof), that the works, supply or service in compliance with the standard meets the performance or functional requirements of the contracting authority.
+
+(16) In this regulation, “European Technical Assessment” means the document assessment of the performance of a construction product, in relation to its essential characteristics, in accordance with the respective European Assessment Document, as defined in point 12 of Article 2 of Regulation (EU) No 305/2011 of the European Parliament and of the Council laying down harmonised conditions for the marketing of construction products and repealing Council [Directive 89/106/EEC](https://www.legislation.gov.uk/european/directive/1989/0106)[^f00027].
+
+### 12. Technical specifications and labels[^key-bcf0f76c17480c10cdaa5da2eb505df1]
+
+(1) Where a contracting authority intends to purchase works, supplies or services with specific environmental, social or other characteristics the authority may, in the technical specifications, the award criteria or the contract performance conditions, require a specific label as means of proof that the works, services or supplies correspond to the required characteristics, provided that all of the following conditions are fulfilled—
+
+- (a) the label requirements only concern criteria which are linked to the subject-matter of the contract and are appropriate to define characteristics of the works, supplies or services;
+- (b) the label requirements are based on objectively verifiable and non-discriminatory criteria;
+- (c) the label is established in an open and transparent procedure in which all relevant stakeholders, including government bodies, consumers, social partners, manufacturers, distributors and non-governmental organisations, may participate;
+- (d) the label is accessible to all interested parties;
+- (e) the label requirements are set by a third party over which the economic operator applying for the label cannot exercise a decisive influence.
+
+(2) Where a contracting authority does not require the works, supplies or services to meet all of the label requirements, the authority must indicate which label requirements are required.
+
+(3) A contracting authority requiring a specific label must accept all labels that confirm that the works, supplies or services meet equivalent label requirements.
+
+(4) Where an economic operator had demonstrably no possibility of obtaining the specific label indicated by the contracting authority, or an equivalent label, within the relevant time limits for reasons that are not attributable to that economic operator, the contracting authority must accept other appropriate means of proof, which may include a technical dossier from the manufacturer, provided that the economic operator concerned proves that the works, supplies or services to be provided by it fulfil the requirements of the specific label or the specific requirements indicated by the contracting authority.
+
+(5) Where a label fulfils the conditions mentioned in paragraph (1)(b), (c), (d) and (e) but also sets out requirements not linked to the subject-matter of the contract, a contracting authority must not require the label but may define the technical specification by reference to those of the detailed specifications of that label, or, where necessary, parts of it, that are linked to the subject-matter of the contract and are appropriate to define characteristics of that subject-matter.
+
+KEITH BROWN
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE — HEALTH OR SOCIAL CARE SERVICES[^key-4ca05a36d67a98cc64860e18d5c8811d]
+
+Regulation 5(1)
+
+| CPV Code | Description |
+| --- | --- |
+| 75200000-8; 75231200-6; 75231240-8; 79611000-0; 79622000-0 (Supply services of domestic help personnel); 79624000-4 (Supply services of nursing personnel) and 79625000-1 (Supply services of medical personnel) from 85000000-9 to 85323000-9; 98133100-5; 98133000-4; 98200000-5; 98500000-8 (Private households with employed persons) and 98513000-2 to 98514000-9 (Manpower services for households, Agency staff services for households, Clerical staff services for households, Temporary staff for households, Home-help services and Domestic services) | Health, social and related services |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make further provision about regulated contracts, dynamic purchasing systems, general duties and specific duties under the Procurement Reform (Scotland) Act 2014 (“the Act”).
+
+Regulation 3 makes further provision regarding the methods for calculating the estimated value for regulated contracts.
+
+Regulation 4 makes provision about dynamic purchasing systems regarding the extent to which the Act applies to them.
+
+Regulation 5 makes provision specifying what is a health or social care service for the purposes of section 12(1) (contracts for health or social care services) and section 13(1) (guidance on procurements for health or social care services) of the Act.
+
+Regulation 6 specifies the circumstances in which a regulated contract can be awarded by a contracting authority without seeking offers in relation to the proposed contract.
+
+Regulation 7 makes further provision about publication under section 23 (publication of contract notices and award notices) of the Act. This provision also applies to EU-regulated procurements.
+
+Regulation 8 makes provision requiring a contracting authority to exclude an economic operator from a regulated procurement (other than an EU-regulated procurement) on grounds of criminal activity.
+
+Regulation 9 makes further provision about the selection by contracting authorities of economic operators in relation to a regulated procurement (other than an EU-regulated procurement).
+
+Regulation 10 makes provision about the use of technical specifications in regulated procurements (other than EU-regulated procurements).
+
+Regulation 11 makes provision about technical specifications and labels.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 12](https://www.legislation.gov.uk/asp/2014/12).
+
+[^key-da77aa9569335dbffb70e857a2e3a811]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^key-afe26b54cb59fd4017b553842d37d77c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/145/regulation/2) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^f00002]: Footnote: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446).
+
+[^f00003]: Footnote: OJ L 340, 16.12.2002, p.1, last amended by [Commission Regulation (EC) No. 213/2008](https://www.legislation.gov.uk/european/regulation/2008/0213) (OJ L 74, 15.3.2008, p.1).
+
+[^f00004]: Footnote: OJ L 94, 28.3.2014, p.65.
+
+[^key-b96d6bc610105d1a6af4e7b73f4ba53b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2016/145/regulation/2) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/2/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-39ff936c058b28d6a6212183825da1e8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2016/145/regulation/2) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/2/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-21a570d01045135db01b7120b0827a09]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/145/regulation/3) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^key-ca06411ae3121716d50c8ea4dbb19401]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/145/regulation/4) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^key-d977361851a3939aab3559fabe3df288]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/145/regulation/5) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^key-e98c933352c9ca6d541ea25687102820]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/145/regulation/6) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^key-7dd7177a03120504908beacff241462b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/145/regulation/7) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^key-9a553891be051ad26fe693c3685f8370]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/145/regulation/7) heading substituted (10.1.2025) by [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(f)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/f) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-4ebb20d3b9bb0422c366bc9e73698de4]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/2/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-0534ac671f0ad709baf050d2ea81e2e6]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/2) substituted (10.1.2025) by [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-1f64d25f74edc16a441ca1e3be6dd7bb]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/3) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-11baac1a5b6fd7d0724c70ff96325371]: Textual amendment: [Reg. 7(4)(a)-(d)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/4/a) and words inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/2/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-3e9a5bfe6ad4b14bd24cd1e98a959412]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/5) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(c)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-390378177ad72832672130683dfb02b1]: Textual amendment: [Reg. 7(7)(a)-(e)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/7/a) and words inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(2)(d)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/2/d) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-9ac681e116934135b375369cfaa76b1f]: Textual amendment: [Reg. 7(7)(ba)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/7/ba) inserted (10.1.2025) by [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(d)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/d) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-5e58790f02b4c69207e024df56aaa23f]: Textual amendment: [Reg. 7(9)](https://www.legislation.gov.uk/ssi/2016/145/regulation/7/9) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [6(3)(e)](https://www.legislation.gov.uk/ssi/2024/338/regulation/6/3/e) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-bc04b395375f002ff5942537a2d550b8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/145/regulation/8) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^f00005]: Footnote: OJ L 300, 11.11.2008, p.42.
+
+[^f00006]: Footnote: [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13).
+
+[^f00007]: Footnote: [1889 c.69](https://www.legislation.gov.uk/ukpga/1889/69). This Act was repealed by Schedule 2 to the Bribery Act [2010 (c.23)](https://www.legislation.gov.uk/ukpga/2010/23).
+
+[^f00008]: Footnote: [1906 c.34](https://www.legislation.gov.uk/ukpga/1906/34). Section 1 was amended by section 47(2) and (3) of the Criminal Justice Act [1988 (c.33)](https://www.legislation.gov.uk/ukpga/1988/33), section 108(2) of the Anti‑Terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24) and section 68(2) of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) and repealed by Schedule 2 to the Bribery Act [2010 (c.23)](https://www.legislation.gov.uk/ukpga/2010/23).
+
+[^f00009]: Footnote: OJ C 195, 25.6.1997, p.2.
+
+[^f00010]: Footnote: OJ L 358, 31.12.1998, p.2; repealed by Council Framework Decision 2003/568/JHA (OJ L 192, 31.7.2003, p.54).
+
+[^f00011]: Footnote: [2003 asp 7](https://www.legislation.gov.uk/asp/2003/7). Sections 68 and 69 were repealed by Schedule 2 to the Bribery Act [2010 (c.23)](https://www.legislation.gov.uk/ukpga/2010/23).
+
+[^f00012]: Footnote: [2010 c.23](https://www.legislation.gov.uk/ukpga/2010/23).
+
+[^key-41f9a467c77d789073e3716d22d29afc]: Textual amendment: [Reg. 8(1)(e)](https://www.legislation.gov.uk/ssi/2016/145/regulation/8/1/e) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(3)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/3/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^f00019]: Footnote: [2008 c.28](https://www.legislation.gov.uk/ukpga/2008/28).
+
+[^f00020]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29).
+
+[^f00021]: Footnote: [1998 c.33](https://www.legislation.gov.uk/ukpga/1998/33); sections 93A, 93B and 93C were inserted by sections 29, 30 and 31 of the Criminal Justice Act [1993 (c.36)](https://www.legislation.gov.uk/ukpga/1993/36) and repealed by the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraph 17(2).
+
+[^f00022]: Footnote: [2015 asp 12](https://www.legislation.gov.uk/asp/2015/12).
+
+[^f00023]: Footnote: [1994 c.37](https://www.legislation.gov.uk/ukpga/1994/37); sections 49, 50 and 51 were repealed by the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraphs 1 and 25(1) and (2)(a), and by Schedule 12.
+
+[^key-93abe30a67193e820fc9380157f70fe5]: Textual amendment: Words in [reg. 8(1)(k)](https://www.legislation.gov.uk/ssi/2016/145/regulation/8/1/k) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(3)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/3/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-3b5916ca2bb53804c186ae0acc42e595]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/145/regulation/9) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^f00024]: Footnote: [S.I. 2010/493](https://www.legislation.gov.uk/uksi/2010/493).
+
+[^f00025]: Footnote: OJ L 94, 28.3.2014, p.243.
+
+[^f00026]: Footnote: [S.S.I. 2016/65](https://www.legislation.gov.uk/ssi/2016/65).
+
+[^key-e657b1e4104e5a8354c884831594591e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/145/regulation/10) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^key-b305352d156a8701fcfa6801d3130fd8]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/ssi/2016/145/regulation/10/5) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/4) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-e75eab3236f8ca6a50379a5be9bded38]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/145/regulation/11) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^key-6a6f3263766a860cc5676523ff8529c7]: Textual amendment: Words in [reg. 11(8)](https://www.legislation.gov.uk/ssi/2016/145/regulation/11/8) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(5)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/5/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-7c07d4fc0967207ef9338f4335369fa6]: Textual amendment: Word in [reg. 11(8)](https://www.legislation.gov.uk/ssi/2016/145/regulation/11/8) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 31](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/31)
+
+[^key-3786f1e4ff8afc2a89648b8249c98401]: Textual amendment: Words in [reg. 11(10)](https://www.legislation.gov.uk/ssi/2016/145/regulation/11/10) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [10(5)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/10/5/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^f00027]: Footnote: OJ L 88, 4.4.2011, p.5.
+
+[^key-bcf0f76c17480c10cdaa5da2eb505df1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/145/regulation/12) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)
+
+[^key-4ca05a36d67a98cc64860e18d5c8811d]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2016/145/schedule) in force at 18.4.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/145/regulation/1)

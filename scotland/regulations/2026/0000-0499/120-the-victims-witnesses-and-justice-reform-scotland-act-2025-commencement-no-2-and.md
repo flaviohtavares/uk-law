@@ -1,0 +1,140 @@
+---
+title: The Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 2 and Saving Provisions) Regulations 2026
+id: ssi/2026/120
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-03-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2026/120
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2026/120/pdfs/ssi_20260120_en.pdf
+- http://www.legislation.gov.uk/ssi/2026/120/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 2 and Saving Provisions) Regulations 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 120 (C. 12)
+
+CRIMINAL PROCEDURE
+
+CIVIL PROCEEDINGS
+
+CRIMINAL LAW
+
+The Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 2 and Saving Provisions) Regulations 2026
+
+Made
+
+3rd March 2026
+
+Laid before the Scottish Parliament
+
+5th March 2026
+
+Coming into force
+
+19th March 2026
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 116(2) and (3)(a) and (b) of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025[^f00001].
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 2 and Saving Provisions) Regulations 2026 and come into force on 19 March 2026.
+
+(2) In these Regulations—
+
+- “**the 1995 Act**” means the Criminal Procedure (Scotland) Act 1995[^f00002],
+- “**the Act**” means the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+
+## 2. Appointed days
+
+(1) The day appointed for the coming into force of the provisions of the Act specified in column 1 of the table in the schedule (the subject matter of which is described in column 2 of that table) is specified in column 3 of that table.
+
+(2) Where a purpose is specified in column 4 of the table in the schedule in relation to any provision specified in column 1 of that table, that provision comes into force on the day appointed only for that purpose.
+
+## 3. Saving provision: circumstances in which non-harassment order must be considered by court
+
+The amendments to the 1995 Act, effected by section 107 (circumstances in which non-harassment order must be considered by the court) of the Act, do not apply to offences for which an accused person was convicted prior to 1 September 2026.
+
+## 4. Saving provision: non-harassment orders: domestic abuse cases
+
+The amendments to the 1995 Act, effected by section 108 (non-harassment orders: domestic abuse cases) of the Act, do not apply to offences for which an accused person was convicted prior to 1 September 2026.
+
+ANGELA CONSTANCE
+
+A member of the Scottish Government
+
+St Andrew's House
+
+Edinburgh
+
+3rd March 2026
+
+## Schedule — Appointed days
+
+Regulation 2
+
+| Column 1 (provision of the Act) | Column 2 (subject matter) | Column 3 (appointed day) | Column 4 (purpose) |
+| --- | --- | --- | --- |
+| Section 1 and schedule 1 | Victims and Witnesses Commissioner for Scotland | 19 March 2026 |  |
+| Section 26 | Principle of trauma-informed practice | 1 October 2026 |  |
+| Section 27 | Criminal courts: conduct of proceedings | 1 October 2026 |  |
+| Section 28 | Civil courts: conduct of proceedings | 1 October 2026 |  |
+| Section 29 | Fatal accident inquiries: conduct of proceedings | 1 October 2026 |  |
+| Section 30 | Scheduling of business in Scottish courts | 1 October 2026 |  |
+| Section 31 | Scheduling of business in sheriff courts and the Sheriff Appeal Court | 1 October 2026 |  |
+| Section 32 | Scheduling of business in justice of the peace courts | 1 October 2026 |  |
+| Section 35(1) | Single victim notification system | 19 March 2026 | For the purposes of section 35(3) and (4) |
+| Section 35(3) and (4) | Single victim notification system | 19 March 2026 |  |
+| Section 44 | Standards of service | 1 October 2026 |  |
+| Section 50 | Victim statements in solemn proceedings | 16 November 2026 |  |
+| Section 51 | Provision of transcript of record of trial to certain complainers | 1 April 2026 |  |
+| Section 52 | Right to referral by Police Scotland to victim support services | 1 October 2026 |  |
+| Section 54 | Review of victim’s right to receive information on fixed penalties | 19 March 2026 |  |
+| Section 57 | Licence conditions: exclusion zones | 1 August 2026 |  |
+| Section 63 | Form of jury affirmation | 6 April 2026 |  |
+| Section 64 | Jury service: assistance for jurors with communication | 2 November 2026 |  |
+| Section 102 | Child witnesses under the 1995 Act: exception to presumption in favour of special measures | 30 March 2026 |  |
+| Section 103 | Vulnerable witnesses under the 1995 Act: supplementary provision in relation to child witnesses | 30 March 2026 |  |
+| Section 107 | Circumstances in which non-harassment order must be considered by court | 1 September 2026 |  |
+| Section 108 | Non-harassment orders: domestic abuse cases | 1 September 2026 |  |
+| Section 111 | Review of operation of Act | 19 March 2026. |  |
+
+Explanatory Note
+
+(This note is not part of the Regulations)
+
+These Regulations bring into force particular sections of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (“**the Act**”).
+
+Regulation 2(1) provides that the day appointed for each section of the Act coming into force is set out in column 3 of the table in the schedule. Regulation 2(2) provides that if a purpose is listed in column 4 of that table, the applicable section only comes into force for that purpose.
+
+Regulation 3 makes saving provision in relation to section 107 (circumstances in which non-harassment order must be considered by court) of the Act. Section 107 of the Act makes changes to section 234AZA of the Criminal Procedure (Scotland) Act 1995 (“**the 1995 Act**”). Section 234AZA of the 1995 Act requires the court to consider imposing a non-harassment order in domestic abuse cases. The changes in section 107 of the Act will expand this to include; offences listed in section 288C (sexual offences) of the 1995 Act, stalking, and offences under section 2 (disclosing, or threatening to disclose, an intimate photograph or film) of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016. The effect of regulation 3 is that the court will only be required to consider imposing a non-harassment order in such cases where the person was convicted of the offence on or after 1 September 2026.
+
+Regulation 4 makes saving provision in relation to section 108 (non-harassment orders: domestic abuse cases) of the Act. Section 108 of the Act also makes changes to section 234AZA of the 1995 Act. The changes in section 108 of the Act will apply when a court is considering imposing a non-harassment order in a domestic abuse case. When considering this, the court will be required to consider any prior bail conditions which were imposed on the convicted person, which prevented contact with the victim. The effect of regulation 4 is that the court will only be required to consider this when the person was convicted of the offence on or after 1 September 2026.
+
+The Bill for the Victims, Witnesses, and Justice Reform (Scotland) Act 2026 received Royal Assent on 30 October 2025 and sections 112 to 114, 116 and 117 came into force the following day.
+
+NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+
+(This note is not part of the Regulations)
+
+The following provisions of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 have been brought into force by commencement regulations made before the date of these Regulations.
+
+| Provision | Date of Commencement | S.S.I. No. |
+| --- | --- | --- |
+| Sections 55 and 56 | 11 February 2026 | [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393) and [S.S.I. 2026/66](https://www.legislation.gov.uk/ssi/2026/66) |
+| Sections 62, 65, 66, 67 and 68 | 1 January 2026 | [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393) |
+
+## Annotations
+
+[^f00001]: Footnote: [2025 asp 12](https://www.legislation.gov.uk/asp/2025/12).
+
+[^f00002]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46), as relevantly amended by sections 107 and 108 of the Victims, Witnesses, and Justice Reform (Scotland) Act [2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12). Those sections are brought into force on 1 September 2026 by these Regulations.

@@ -1,0 +1,136 @@
+---
+title: Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Miscellaneous) 2021
+id: ssi/2021/22
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-01-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2021/22
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/22/pdfs/ssi_20210022_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/22/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Miscellaneous) 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 22
+
+Court Of Session
+
+Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Miscellaneous) 2021
+
+Made
+
+18th January 2021
+
+Laid before the Scottish Parliament
+
+20th January 2021
+
+Coming into force
+
+22nd February 2021
+
+In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013[^f00001], the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council.
+
+The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 103(1) of the Courts Reform (Scotland) Act 2014[^f00002] and all other powers enabling it to do so.
+
+## 1. Citation and commencement, etc.
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Miscellaneous) 2021.
+
+(2) It comes into force on 22nd February 2021.
+
+(3) A certified copy is to be inserted in the Books of Sederunt.
+
+## 2. Amendment of the Rules of the Court of Session 1994
+
+(1) The Rules of the Court of Session 1994[^f00003] are amended in accordance with this paragraph.
+
+(2) In rule 49.33(3) (adjustment after interlocutor)[^f00004], for “28” substitute “56”.
+
+(3) After rule 49.33 insert—
+
+> **49.33A. Lodging of productions and witness lists**
+>
+> (1) Rule 4.5 (productions) and rule 36.3 (lodging productions) do not apply to a family action.
+>
+> (2) Where a proof has been allowed in a family action—
+>
+> - (a) copies of all productions which are intended to be used at the proof must be intimated to every other party not later than 56 days before the diet of proof;
+> - (b) an inventory of productions which are intended to be used at the proof must be intimated to every other party and lodged in process not later than 56 days before the diet of proof; and
+> - (c) the productions included in the inventory of productions must be lodged in process no later than 14 days before the diet of proof.
+>
+> (3) A production may be intimated and lodged electronically with the permission of, and in accordance with directions given by, the judge.
+>
+> (4) A production lodged in hard copy must be—
+>
+> - (a) marked with a number of process with the cause reference number assigned to the principal writ; and
+> - (b) if consisting of more than one sheet, securely fastened together.
+>
+> (5) A production which is not intimated and lodged in accordance with paragraph (2) must not be used or put in evidence at a proof without—
+>
+> - (a) consent of the parties; or
+> - (b) leave of the court on cause shown and on such conditions, if any, as to expenses or otherwise as the court thinks fit.
+>
+> (6) Not later than 56 days before the diet fixed for a proof, each party must—
+>
+> - (a) give written intimation to every other party of a list containing the name, occupation (if known) and address of each person whom the party intends to call as a witness; and
+> - (b) lodge a copy of that list in process.
+>
+> (7) A party who seeks to call as a witness a person not on the list mentioned in paragraph (6)(a) may only do so—
+>
+> - (a) by consent of the parties; or
+> - (b) with the leave of the court on cause shown and on such conditions, if any, as to expenses or otherwise as the court think fit.
+
+.
+
+(4) In rule 58.4(7) (the petition: intimation and service)[^f00005], for “28 days, but can be renewed” substitute “two months, but can be renewed on cause shown”.
+
+CJM SUTHERLAND
+
+Lord President
+
+Edinburgh
+
+I.P.D.
+
+18th January 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt amends rule 49.33(3) (adjustment and further procedure) and inserts new rule 49.33A (lodging of productions and witness lists) into the Rules of the Court of Session 1994.
+
+Paragraph 2(2) amends rule 49.33(3) to bring forward the last date for the adjustment of pleadings from 28 days to 56 days.
+
+Paragraph 2(3) inserts new rule 49.33A. Rule 49.33A(1) disapplies rule 4.5 (productions) and rule 36.6 (lodging productions) to family actions. Rule 49.33A(2) provides that 56 days before the diet of proof, an inventory of productions and copies of the productions which are intended to be used at proof must be intimated to every other party. The inventory of productions must also be lodged in process. The productions themselves must be lodged in process no later than 14 days before proof.
+
+Rule 49.33A(3) replicates the wording of disapplied rule 4.5(2) to provide the appropriate form of productions.
+
+New rule 49.33A(4) provides that a production not intimated and lodged in accordance with paragraph (2) shall not be used or put in evidence at proof without consent of the parties or with the leave of the court on cause shown.
+
+New rule 49.33A(5) provides that not later than 56 days before proof, each party shall lodge in process, and provide, every other party with a witness list containing the name, occupation and address of each witness. New rule 49.33A(6) provides that a party seeking to call a witness not included on the list intimated under paragraph (6) may only do so with the consent of the parties or with leave of the court on cause shown.
+
+This Act of Sederunt also amends chapter 58.4(7) (the petition: intimation and service) to extend the time period for which a petition for judicial review may be sisted for legal aid from 28 days to two months, which period may be renewed on cause shown.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 asp 3](https://www.legislation.gov.uk/asp/2013/3). Section 4 was amended by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), schedule 5, paragraph 31(3) and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act [2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), schedule 1, paragraph 1(4).
+
+[^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
+
+[^f00003]: Footnote: The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.S.I. 1994/1443](https://www.legislation.gov.uk/ssi/1994/1443)), last amended by [S.S.I. 2020/440](https://www.legislation.gov.uk/ssi/2020/440).
+
+[^f00004]: Footnote: Rule 49.33 was last amended by [S.S.I. 2005/632](https://www.legislation.gov.uk/ssi/2005/632).
+
+[^f00005]: Footnote: Chapter 58 was substituted by [S.S.I. 2015/228](https://www.legislation.gov.uk/ssi/2015/228).

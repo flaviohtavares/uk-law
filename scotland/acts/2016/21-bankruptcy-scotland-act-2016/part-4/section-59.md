@@ -1,0 +1,43 @@
+---
+title: Bankruptcy (Scotland) Act 2016, section 59
+act: Bankruptcy (Scotland) Act 2016
+section: '59'
+status: revised-with-pending-changes
+text_date: '2025-06-25'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/21/section/59
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Bankruptcy (Scotland) Act 2016, section 59
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2016/21
+>
+> Extent: Scotland.
+
+## 59. Review or appeal by virtue of section 58[^key-cb80d419aea99036ccc129342c728667]
+
+*Extent: S*
+
+(1) The debtor, the petitioner or any creditor may apply to AiB for a review of the discharge of AiB in respect of AiB's actings as interim trustee.
+
+(2) Any application under subsection (1) must be made within 14 days beginning with the day on which notice is sent under section 58(4)(a)(iii) or (b).
+
+(3) If an application for a review under subsection (1) is made, AiB must—
+
+- (a) take into account any representations made, within 21 days beginning with the day on which the application is made, by an interested person, and
+- (b) confirm or revoke the discharge within 28 days beginning with that day.
+
+(4) The debtor, the petitioner or any creditor may appeal to the sheriff within 14 days beginning with—
+
+- (a) the day on which notice is sent under section 58(4)(a)(iii) or (b), against the determination mentioned in section 58(4)(a)(ii), or
+- (b) the day of a decision by AiB under subsection (3)(b), against that decision.
+
+(5) The sheriff clerk must, following an appeal under subsection (4), send a copy of the decree to AiB.
+
+(6) The decision of the sheriff on an appeal under subsection (4) is final.
+
+## Annotations
+
+[^key-cb80d419aea99036ccc129342c728667]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2016/21/section/59) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -1,0 +1,116 @@
+---
+title: Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Recognition and Enforcement of Judgments) 2022
+id: ssi/2022/277
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-09-20'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2022/277
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2022/277/pdfs/ssi_20220277_en.pdf
+- http://www.legislation.gov.uk/ssi/2022/277/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Recognition and Enforcement of Judgments) 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 277
+
+Court Of Session
+
+Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Recognition and Enforcement of Judgments) 2022
+
+Made
+
+20th September 2022
+
+Laid before the Scottish Parliament
+
+21st September 2022
+
+Coming into force
+
+1st October 2022
+
+In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013[^f00001], the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council.
+
+The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 103(1) of the Courts Reform (Scotland) Act 2014[^f00002] and all other powers enabling it to do so.
+
+## 1. Citation and commencement, etc.
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Recognition and Enforcement of Judgments) 2022.
+
+(2) It comes into force on 1st October 2022.
+
+(3) A certified copy is to be inserted in the Books of Sederunt.
+
+## 2. Amendment of the Rules of the Court of Session 1994
+
+(1) Chapter 62 (recognition, registration and enforcement of foreign judgments, etc.) of the Rules of the Court of Session[^f00003] is amended in accordance with this paragraph.
+
+(2) After rule 62.3 (translation of document lodged) insert—
+
+> **62.3A. Electronic signing and transmission of documents**
+>
+> (1) This rule applies in relation to a document which is to be given to, or issued by, the Keeper of the Registers under this Chapter.
+>
+> (2) In this rule—
+>
+> - “**document**” includes a copy of a document;
+> - “**electronic signature**” is to be construed in accordance with section 7(2) of the Electronic Communications Act 2000[^f00004] (electronic signatures and related certificates), but includes a version of an electronic signature which is produced on a paper document;
+> - “**the Keeper of the Registers’ website**” means the website maintained by, or on behalf of, the Keeper of the Registers with the domain name ros.gov.uk.
+>
+> (3) An electronic signature fulfils any requirement (however expressed) that the document be signed.
+>
+> (4) The document may be—
+>
+> - (a) given to the Keeper of the Registers by transmitting it to the Keeper of the Registers electronically;
+> - (b) issued to a person by the Keeper of the Registers by—
+>   - (i) transmitting it to the person electronically;
+>   - (ii) transmitting it (electronically or otherwise) to a solicitor engaged to act on the person’s behalf in relation to the document.
+>
+> (5) For the purposes of paragraph (4)(a), the document may be transmitted by a means (and in a form) which is specified on the Keeper of the Registers’ website as being acceptable for those purposes.
+>
+> (6) For the purposes of paragraph (4)(b)—
+>
+> - (a) electronic transmission of a document by the Keeper of the Registers to another person (“**the recipient**”) must be effected in a way that the recipient has indicated to the Keeper of the Registers that the recipient is willing to receive the document;
+> - (b) the recipient’s indication of willingness to receive a document in a particular way may be—
+>   - (i) specific to the document in question or generally applicable to documents of that kind;
+>   - (ii) expressed specifically to the Keeper of the Registers or generally (for example, on a website);
+>   - (iii) inferred from the recipient having previously been willing to receive documents from the Keeper of the Registers in that way and not having indicated unwillingness to do so again;
+> - (c) the Keeper of the Registers’ uploading of a document to an electronic storage system from which the recipient is able to download the document may constitute electronic transmission of the document from the Keeper of the Registers to the recipient.
+
+.
+
+CJM SUTHERLAND
+
+Lord President
+
+I.P.D.
+
+Edinburgh
+
+20th September 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt amends Chapter 62 (recognition, registration and enforcement of foreign judgments, etc.) of the Rules of the Court of Session 1994 to allow documents which are to be given to or issued by the Keeper of the Registers of Scotland under that Chapter to be signed and transmitted electronically.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 asp 3](https://www.legislation.gov.uk/asp/2013/3). Section 4 was amended by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), schedule 5, paragraph 31(3) and by the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act [2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), schedule 1, paragraph 1(4).
+
+[^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
+
+[^f00003]: Footnote: The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443)), last amended by [S.S.I. 2022/250](https://www.legislation.gov.uk/ssi/2022/250). Chapter 62 was last amended by [S.S.I. 2020/440](https://www.legislation.gov.uk/ssi/2020/440). Chapter 62 is temporarily modified by paragraph 4 of schedule 4 of the Coronavirus (Scotland) (No. 2) Act [2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10) and those modifications are set to expire at the end of 30th September 2022 by virtue of section 9(1) of that Act, last amended by [S.S.I. 2022/113](https://www.legislation.gov.uk/ssi/2022/113).
+
+[^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 7(2) was substituted by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696).

@@ -1,0 +1,405 @@
+---
+title: The Single Use Carrier Bags Charge (Scotland) Regulations 2014
+id: ssi/2014/161
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-06-03'
+text_date: '2021-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2014/161
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2014/161/pdfs/ssipn_20140161_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/161/pdfs/ssi_20140161_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/161/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Single Use Carrier Bags Charge (Scotland) Regulations 2014
+
+> Text as at 2021-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2014 No. 161
+
+Environmental Protection
+
+The Single Use Carrier Bags Charge (Scotland) Regulations 2014
+
+Made
+
+3rd June 2014
+
+Coming into force
+
+20th October 2014
+
+The Scottish Ministers make these Regulations in exercise of the powers conferred by sections 88, 89, 90 and 96(2) of the Climate Change (Scotland) Act 2009 [^c22114271] and all other powers enabling them to do so.
+
+In accordance with section 96(4) of that Act [^c22114281], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+Before the draft was so laid, the Scottish Ministers laid a copy of the proposed Regulations before the Scottish Parliament under section 97(2) of that Act.
+
+The Scottish Ministers have carried out the pre-laying procedure in accordance with that section.
+
+In accordance with section 97(6) of that Act, the Scottish Ministers have had regard to any representations on the proposed regulations made to them, and to any report relating to the proposed regulations published by any committee of the Scottish Parliament for the time being appointed by virtue of standing orders.
+
+## PART 1 — Introduction
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Single Use Carrier Bags Charge (Scotland) Regulations 2014 and come into force on 20th October 2014.
+
+### 2. Interpretation
+
+In these Regulations—
+
+- “**the charge**” means the minimum consideration that must be paid by virtue of regulation 6(2);
+- “**consideration**” includes any chargeable VAT;
+- “**enforcement authority**” is to be construed in accordance with regulation 5;
+- “**handle**” means—
+  - (a) a handle which is attached to the main part of a carrier bag; or
+  - (b) a handle—
+    - (i) which is an integral part of the material from which the carrier bag is manufactured; and
+    - (ii) the top of which is higher than the main part of the bag;
+- “**net proceeds raised by the charge**” is to be construed in accordance with regulation 9;
+- “**record**” means the record of information as specified in regulation 10(1);
+- “**reporting year**” means the period beginning on—
+  - (a) 20th October 2014 and ending on 6th April 2015;
+  - (b) 7th April 2015 and ending on 6th April 2016; or
+  - (c) 7th April in each subsequent year and ending on 6th April in the following year;
+- “**single use carrier bag**” means a carrier bag fitting a description in regulation 3(2), (3), (4) or (5);
+- “**supplier**” is to be construed in accordance with regulation 4; and
+- “**VAT**” has the meaning given in section 96 of the Value Added Tax Act 1994 [^c22114291].
+
+### 3. Carrier bags to which the requirement to charge applies
+
+(1) The requirement to charge imposed by regulation 6 applies to a carrier bag fitting a description in paragraph (2), (3), (4) or (5).
+
+(2) A carrier bag fits the description in this paragraph if—
+
+- (a) it is a bag made wholly or mainly from paper (other than a small paper bag), natural starch or a plant-based material (other than cotton, flax, hemp, jute or sisal); and
+- (b) the bag is not intended for multiple re-use.
+
+(3) A carrier bag fits the description in this paragraph if it is a plastic bag (other than a small plastic bag) manufactured from material which is no more than 49 micrometres thick.
+
+(4) A carrier bag fits the description in this paragraph if it is a plastic bag (other than a small plastic bag) that is—
+
+- (a) no more than 404 millimetres wide;
+- (b) no more than 404 millimetres high; or
+- (c) no more than 439 millimetres wide and 439 millimetres high.
+
+(5) A carrier bag fits the description in this paragraph if it is a plastic bag (other than a small plastic bag) that is not intended for multiple re-use.
+
+(6) A carrier bag is intended for multiple reuse if—
+
+- (a) it is purchased by the customer;
+- (b) when worn out, it is returnable to the supplier to be replaced free of charge by another such bag; and
+- (c) it is marked in a manner that shows that it is such a bag.
+
+(7) In this regulation—
+
+- (a) “**plastic bag**” means a carrier bag made wholly or mainly from plastic;
+- (b) “**small paper bag**” means a carrier bag made wholly from paper which—
+  - (i) does not have a gusset or a handle and is not more than 175 millimetres wide and 260 millimetres high; or
+  - (ii) has a gusset no greater than 50 millimetres wide but does not have a handle and is not more than 80 millimetres wide and 155 millimetres high;
+- (c) “**small plastic bag**” means a plastic bag that does not have a gusset or a handle and is not more than 125 millimetres wide and 125 millimetres high;
+- (d) in determining whether a carrier bag fits a description in paragraph (2), (3), (4), or (5), the fact that the bag has a gusset is to be disregarded; and
+- (e) in determining whether a carrier bag fits the description in paragraph (4), the difference between the overall height of the bag including any handle and the height of the main part of the bag is to be disregarded when calculating the height of the bag.
+
+### 4. Suppliers to whom the requirement to charge applies
+
+(1) The requirement to charge imposed by regulation 6 applies to a supplier of goods in circumstances where that person, in the course of a trade or business, sells goods.
+
+(2) Where a person (A) supplies goods in the capacity of A as an officer, employee or agent of another person (B), then B is the supplier of the goods and not A.
+
+### 5. Enforcement authority
+
+A local authority is the enforcement authority for the area of the authority for the purpose of these Regulations.
+
+## PART 2 — The charge: requirement to charge
+
+### 6. Requirement to charge
+
+(1) A supplier must charge for a single use carrier bag supplied new—
+
+- (a) at the place where goods are supplied, for the purpose of enabling the goods to be taken away; or
+- (b) for the purpose of enabling the goods to be delivered to any person.
+
+(2) The amount that a supplier must charge for a single use carrier bag is the amount that will ensure that the consideration paid by the person supplied with the bag is, for each such bag, not less than 10[^key-7b1e3a2233bc30faba3d19b933087834] pence.
+
+### 7. Circumstances in which the requirement to charge does not apply
+
+(1)[^key-5cfc899dc459b28a026fd5c70601f999] The requirement to charge in regulation 6 does not apply in relation to the supply of a single use carrier bag if the bag is used for a purpose described in paragraph 1 of the Schedule.
+
+(2)[^key-e82d47526caa80ab1853e0d873c49b92] Until 0001 hours on 31 May 2021[^key-370f81b5391b15eead0ddeefa7c577cc], the requirement to charge in regulation 6 does not apply in relation to the supply of a single use carrier bag if the bag is used for a purpose described in paragraph 1A of the schedule.
+
+## PART 3 — The charge: net proceeds raised by the charge, and records
+
+### 8. Application of this Part
+
+(1) This Part applies to a supplier in relation to any reporting year in which the supplier meets the condition in paragraph (2).
+
+(2) The condition is that on the first day of the reporting year the supplier employs 10 or more full time members of staff.
+
+(3) For the purposes of paragraph (2)—
+
+- (a) a full time member of staff is a person employed to work a minimum of 35 hours a week;
+- (b) where any two or more persons are employed for fewer than 35 hours a week each, the number of hours for which such persons are employed must be aggregated, and a full time member of staff is deemed to be employed for each 35 hours in total for which such persons are employed; and
+- (c) any holiday or leave entitlement of the member of staff is to be disregarded when calculating their hours of work.
+
+### 9. Ascertainment of the net proceeds raised by the charge for a reporting year
+
+(1) A supplier in receipt in a reporting year of consideration for single use carrier bags in respect of which there is a requirement to charge under regulation 6 must ascertain the net proceeds raised by the charge by deducting the amounts specified in paragraph (2) from that consideration in that year.
+
+(2) The specified amounts are—
+
+- (a) where the consideration includes payments in excess of the charge, the amount of that excess;
+- (b) the amount of any VAT included in the charge; and
+- (c) the amount of any reasonable costs.
+
+(3) In this regulation—
+
+- “**reasonable costs**” means costs reasonably incurred by a supplier to enable the supplier—
+  - (a) to comply with these Regulations; and
+  - (b) to communicate information about the charge to persons paying the charge,
+
+and in relation to the reporting year beginning on 20th October 2014 includes such costs incurred by a supplier before these Regulations come into force.
+
+### 10. Record to be kept by supplier
+
+(1) A supplier must keep a record of the information specified in paragraph (2) for every reporting year in which the supplier supplies a single use carrier bag in respect of which there is a requirement to charge under regulation 6.
+
+(2) The specified information is—
+
+- (a) the number of single use carrier bags in respect of which there is a requirement to charge under regulation 6 that are supplied by the supplier;
+- (b) the consideration paid to the supplier for such bags;
+- (c) the amounts as specified in regulation 9(2); and
+- (d) the net proceeds raised by the charge.
+
+(3) A record kept for the purposes of this regulation must be retained by the supplier for a minimum period of three years beginning on 31st May following the end of the reporting year to which the record relates.
+
+### 11. Supplier: requirement to produce record to enforcement authority
+
+(1) A supplier must on request by the enforcement authority produce to the authority a record which is required to be—
+
+- (a) kept under regulation 10(1); and
+- (b) retained under regulation 10(3).
+
+(2) The record must be produced within 28 days of the request being made.
+
+(3) The record must be produced in such form, and in such manner, as the authority may reasonably require.
+
+## PART 4 — Offences and enforcement
+
+### 12. Offences
+
+(1) It is an offence for a supplier of a single use carrier bag to contravene regulation 6.
+
+(2) It is an offence for a supplier to whom Part 3 applies—
+
+- (a) to contravene, without reasonable excuse, regulation 10;
+- (b) to knowingly or recklessly make a false entry in a record;
+- (c) to fail, without reasonable excuse, to comply with a request under regulation 11;
+- (d) to knowingly or recklessly give false or misleading information to the enforcement authority; or
+- (e) to otherwise obstruct or fail to assist the enforcement authority in the exercise of its functions under these Regulations.
+
+(3) A person guilty of an offence under paragraph (1) or (2) is liable—
+
+- (a) on summary conviction to a fine not exceeding the statutory maximum; and
+- (b) on conviction on indictment to a fine.
+
+(4) Where a supplier is charged with an offence under paragraph (1), it is a defence for the supplier to show that the supplier took all reasonable precautions and exercised all due diligence to prevent the offence being committed.
+
+(5) Where—
+
+- (a) an offence has been committed by a body corporate or a Scottish partnership or other unincorporated association; and
+- (b) it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+  - (i) a relevant individual; or
+  - (ii) an individual purporting to act in the capacity of a relevant individual,
+
+the individual as well as the body corporate, Scottish partnership or unincorporated association commits an offence and is liable to be proceeded against and punished accordingly.
+
+(6) In paragraph (5), “**relevant individual**” means—
+
+- (a) in relation to a body corporate—
+  - (i) a director, manager, secretary or other similar officer of the body;
+  - (ii) where the affairs of the body are managed by its members, a member;
+- (b) in relation to a Scottish partnership, a partner;
+- (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+### 13. Enforcement authority: enforcement powers
+
+(1) The enforcement authority has the powers described in paragraph (4) (the “enforcement powers”).
+
+(2) The enforcement powers are exercisable by any officer of the enforcement authority authorised by the authority for that purpose.
+
+(3) The enforcement powers are exercisable for the purpose of establishing whether these Regulations are being, or have been, complied with.
+
+(4) The powers are—
+
+- (a) to make test purchases of goods;
+- (b) to inspect any goods;
+- (c) to enter onto premises at any reasonable time;
+- (d) to question a supplier or an officer, employee or agent of the supplier;
+- (e) to require the production of documents; or
+- (f) to require the provision of information.
+
+(5) The power in paragraph (4)(c) is not exercisable in respect of domestic premises.
+
+(6) The powers in paragraph (4)(e) and (f) are exercisable only where the enforcement authority reasonably believes that there has been a failure to comply with these Regulations.
+
+(7) Documents must be produced and information must be given in such form, and in such manner, as the enforcement authority may reasonably require.
+
+(8) A person seeking to exercise an enforcement power must produce evidence of the identity of the person, and of the authority of the person to exercise the power, to any person reasonably requiring evidence of such identity or authorisation.
+
+(9) Nothing in this regulation compels the production of a document by a person who would be entitled to withhold production on the ground of confidentiality of communications on an order being made for the production of documents in an action in the Court of Session.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE — Circumstances in which the requirement to charge in regulation 6 does not apply
+
+Regulation 7
+
+**1.** A single use carrier bag is used for a purpose described in this paragraph if it is—
+
+- (a) used solely to contain—
+  - (i) unpackaged food or feed for human or animal consumption;
+  - (ii) unpackaged loose seeds, bulbs, corms or rhizomes;
+  - (iii) unpackaged goods contaminated by soil; or
+  - (iv) an unpackaged axe, knife or blade;
+- (b) used solely to contain—
+  - (i) a medicinal product, a listed appliance, or any other appliance sold or supplied in accordance with a prescription; or
+  - (ii) pharmacy medicine;
+- (c) used solely to contain packaged uncooked fish or fish products, uncooked meat or meat products or uncooked poultry or poultry products, that has a gusset not more than 125 millimetres wide, and is not more than—
+  - (i) 205 millimetres wide; or
+  - (ii) 458 millimetres high (including any handle);
+- (d) used solely to contain live aquatic creatures in water;
+- (e) used to contain a purchase made on board a ship, train, aircraft, coach or bus;
+- (f) used to contain a purchase made in an aerodrome security restricted area;
+- (g) a mail order dispatch or courier bag; [^key-563d0df0b6cc76edc5bb7e1fbe88d7b9]...
+- (h) a gusseted liner used to line or cover a box ; or[^key-0168a408bd19ae4b4c645a52bcd50fc3]
+- (i) used to contain a purchase made in—
+  - (i) a prison;
+  - (ii) a hospital in which a person is detained, or otherwise in custody, under the Mental Health (Care and Treatment) (Scotland) Act 2003 or Part 6 or section 200 of the Criminal Procedure (Scotland) Act 1995; or
+  - (iii) secure accommodation,
+
+  where the bag is necessary for reasons of security, good order, discipline or safety
+
+**1A.**[^key-da9b25cd5a563fe49a985f6e66ff4a8d] A single use carrier bag is used for a purpose described in this paragraph if it is used solely to contain—
+
+- (a) goods purchased for delivery as part of a grocery delivery service,
+- (b) goods purchased for collection as part of a service that allows a person to collect groceries ordered in advance, or
+- (c) pre-prepared food or drinks or, as the case may be, both, purchased for delivery or collection as part of a takeaway food service.
+
+**2.** In this Schedule—
+
+- “**2012 Regulations**” means the Human Medicines Regulations 2012 [^c22114301];
+- “**aerodrome security restricted area**” means a security restricted area designated by the Secretary of State for the purposes of section 11A of the Aviation Security Act 1982 [^c22114311];
+- “**box**” includes a crate or other containers of a similar nature;
+- “**listed appliance**” means a listed appliance within the meaning of section 27 of the National Health Service (Scotland) Act 1978 [^c22114321];
+- “**medicinal product**” has the same meaning as in section 130 of the Medicines Act 1968 [^c22114331];
+- “**pharmacy medicine**” means a medicinal product, other than a prescription only medicine, that—
+  - (a) in accordance with regulation 220 of the 2012 Regulations, can only be sold or supplied under the conditions specified in paragraph (2)(a) to (c) of that regulation; or
+  - (b) but for the fact that it is sold or supplied in accordance with regulation 223 of those Regulations [^c22114341], could only be lawfully sold or supplied under those conditions;
+- “**prescription**” means a prescription issued by—
+  - (a) a registered medical practitioner;
+  - (b) a person registered in the dentists register kept under section 14 of the Dentists Act 1984 [^c22114351];
+  - (c) an EEA health professional, as defined in regulation 213(1) of the 2012 Regulations [^c22114361];
+  - (d) a nurse independent prescriber, as defined in regulation 8(1) of the 2012 Regulations;
+  - (e) an optometrist independent prescriber, as defined in regulation 8(1) of the 2012 Regulations;
+  - (f) a pharmacist independent prescriber, as defined in regulation 8(1) of the 2012 Regulations; or
+  - (g) a supplementary prescriber, as defined in regulation 8(1) of the 2012 Regulations;
+- “**prescription only medicine**” has the same meaning as in regulation 5(3) of the 2012 Regulations; [^key-d5ac83d720ebb403706c5d538a738334]...
+- “prison” means any prison, young offenders institution or remand centre which is under the general superintendence of the Scottish Ministers under the Prisons (Scotland) Act 1989, and includes any contracted out prison within the meaning of section 106(4) of the Criminal Justice and Public Order Act 1994;[^key-e8b4c719686375994a4d9d82b26d2e8e]
+- “secure accommodation” has the same meaning as in regulation 2 of the Secure Accommodation (Scotland) Regulations 2013; and
+- “**unpackaged**” means wholly or partly unwrapped.
+
+*(This note is not part of the Regulations)*
+
+These Regulations are made under the powers in sections 88, 89, 90 and 96(2) of the Climate Change (Scotland) Act 2009 (asp 12), which enable the Scottish Ministers to require suppliers of goods to charge for the supply of carrier bags of any type.
+
+They provide for suppliers of goods as defined in regulation 4 to apply a minimum consideration of 5 pence for certain single use carrier bags supplied new for the purposes of taking goods away or of enabling goods to be delivered.
+
+Regulation 2 defines terms used in these Regulations, with the effect in particular that a “single use carrier bag” is a carrier bag fitting a description in regulation 3(2), (3), (4) or (5).
+
+Regulation 3 specifies the type of carrier bags which attract the minimum charge, with the effect that the requirement to charge the minimum consideration applies to certain types of single use carrier bag as follows:—
+
+- regulation 3(2) has the effect that the requirement to charge applies to a bag made from paper or other types of natural material, other than a cloth bag, or a bag intended for multiple re-use (for which see the definition in regulation 3(6));
+- regulation 3(3) has the effect that the requirement to charge applies to a plastic bag which is no more than 49 micrometres thick;
+- regulation 3(4) has the effect that the requirement to charge applies to a plastic bag that is no more than 404 millimetres wide, or no more than 404 millimetres high, or no more than 439 millimetres wide and 439 millimetres high; and
+- regulation 3(5) has the effect that the requirement to charge applies to a plastic bag not intended for multiple re-use, so that the charge applies to such bags where they would not otherwise be subject to the charge under regulation 3(3) or (4).
+
+Regulation 3 also has the effect that the charge does not apply to a small paper bag or a small plastic bag as those terms are defined in regulation 3(7).
+
+Regulation 5 provides for these Regulations to be enforced by the local authority.
+
+Regulation 6 provides for the minimum charge to be applied to bags supplied new for taking goods away, or for delivery of goods. The charge does not therefore apply to used bags.
+
+Regulation 7 and the Schedule make provision for circumstances in which the requirement to charge does not apply.
+
+Regulation 8 has the effect that Part 3 of these Regulations, which makes provision in respect of the net proceeds raised by the charge and the keeping and producing of records, applies only to suppliers who have 10 or more full-time equivalent members of staff at the beginning of any reporting year.
+
+Regulation 9 provides for the supplier to ascertain the net proceeds raised by the charge by deducting the amounts specified in the regulation from the consideration paid for single use carrier bags in a reporting year as defined in regulation 2.
+
+Regulation 10 provides for a supplier to keep the specified records, and regulation 11 enables a local authority to request that certain records are produced to the authority.
+
+Regulation 12 provides for offences, and for penalties on conviction of an offence.
+
+Regulation 13 provides for the powers of an enforcement authority.
+
+A draft of these Regulations was notified to the European Commission in accordance with Article 8 of the Technical Standards Directive (Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034)).
+
+A Business Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government Environmental Quality Division, Area 1-D North, Victoria Quay, Edinburgh, EH6 6QQ, and online at www.legislation.gov.uk.
+
+## Annotations
+
+[^c22114271]: Marginal citation: [2009 asp 12](https://www.legislation.gov.uk/asp/2009/12).
+
+[^c22114281]: Marginal citation: [Section 96](https://www.legislation.gov.uk/ssi/2014/161/section/96) has been modified by paragraph 5 of schedule 3 to the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
+
+[^c22114291]: Marginal citation: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23). There are amendments to section 96 which are not relevant to these Regulations.
+
+[^key-7b1e3a2233bc30faba3d19b933087834]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2014/161/regulation/6/2) substituted (1.4.2021) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2021 (S.S.I. 2021/134)](https://www.legislation.gov.uk/ssi/2021/134), [regs. 1](https://www.legislation.gov.uk/ssi/2021/134/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/134/regulation/2)
+
+[^key-5cfc899dc459b28a026fd5c70601f999]: Textual amendment: Reg. 7(1): words in reg. 7 renumbered as reg. 7(1) (2.4.2020) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2020 (S.S.I. 2020/118)](https://www.legislation.gov.uk/ssi/2020/118), [regs. 1](https://www.legislation.gov.uk/ssi/2020/118/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/118/regulation/2/2/a)
+
+[^key-e82d47526caa80ab1853e0d873c49b92]: Textual amendment: Reg. 7(2) inserted (2.4.2020) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2020 (S.S.I. 2020/118)](https://www.legislation.gov.uk/ssi/2020/118), [regs. 1](https://www.legislation.gov.uk/ssi/2020/118/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/118/regulation/2/2/b)
+
+[^key-370f81b5391b15eead0ddeefa7c577cc]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/ssi/2014/161/regulation/7/2) substituted (29.1.2021) by [The Single Use Carrier Bags Charge (Coronavirus) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/53)](https://www.legislation.gov.uk/ssi/2021/53), [regs. 1](https://www.legislation.gov.uk/ssi/2021/53/regulation/1), [2](https://www.legislation.gov.uk/ssi/2021/53/regulation/2)
+
+[^key-563d0df0b6cc76edc5bb7e1fbe88d7b9]: Textual amendment: Word in sch. para. 1(g) omitted (1.4.2015) by virtue of [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/2/a)
+
+[^key-0168a408bd19ae4b4c645a52bcd50fc3]: Textual amendment: Sch. para. 1(i) and word inserted (1.4.2015) by [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/2/b)
+
+[^key-da9b25cd5a563fe49a985f6e66ff4a8d]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/ssi/2014/161/schedule/paragraph/1A) inserted (2.4.2020) by [The Single Use Carrier Bags Charge (Scotland) Amendment Regulations 2020 (S.S.I. 2020/118)](https://www.legislation.gov.uk/ssi/2020/118), [regs. 1](https://www.legislation.gov.uk/ssi/2020/118/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/118/regulation/2/3)
+
+[^c22114301]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), relevantly amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and [S.I. 2014/490](https://www.legislation.gov.uk/uksi/2014/490).
+
+[^c22114311]: Marginal citation: [1982 c.36](https://www.legislation.gov.uk/ukpga/1982/36). Section 11A was inserted by paragraph 3 of Schedule 1 to the [Aviation and Maritime Security Act 1990 (c.31)](https://www.legislation.gov.uk/ukpga/1990/31), and amended by [S.I. 2010/902](https://www.legislation.gov.uk/uksi/2010/902).
+
+[^c22114321]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29). There are amendments to section 27 which are not relevant to these Regulations.
+
+[^c22114331]: Marginal citation: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67). Section 130 was relevantly amended by [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407) and [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
+
+[^c22114341]: Marginal citation: Regulation 223 has been amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
+
+[^c22114351]: Marginal citation: [1984 c.24](https://www.legislation.gov.uk/ukpga/1984/24). Section 14 was substituted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
+
+[^c22114361]: Marginal citation: Regulation 213 has been amended by [S.I. 2014/490](https://www.legislation.gov.uk/uksi/2014/490).
+
+[^key-d5ac83d720ebb403706c5d538a738334]: Textual amendment: Word in sch. para. 2 omitted (1.4.2015) by virtue of [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/3/a)
+
+[^key-e8b4c719686375994a4d9d82b26d2e8e]: Textual amendment: Words in sch. para. 2 inserted (1.4.2015) by [The Single Use Carrier Bags Charge (Fixed Penalty Notices and Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/159)](https://www.legislation.gov.uk/ssi/2015/159), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/159/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2015/159/regulation/5/3/b)

@@ -1,0 +1,73 @@
+---
+title: Natural Environment (Scotland) Act 2026, section 26
+act: Natural Environment (Scotland) Act 2026
+section: '26'
+status: not-yet-in-force
+text_date: '2026-10-26'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2026/6/section/26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Natural Environment (Scotland) Act 2026, section 26
+
+> This provision is not yet in force.
+>
+> Extent: Scotland.
+
+## 26. Power to enter on land[^key-d6cf1dedbc327fe47404f58ae5dc0803]
+
+*Extent: S*
+
+**Not yet in force.**
+
+(1) The 1996 Act is modified as follows.
+
+(2) In section 7 (control agreements), after subsection (4B) insert—
+
+> (4C) A notice given under subsection (4)(a) may include notice for the purposes of section 15(2) (power of entry).
+
+.
+
+(3) In section 15 (power to enter on land)—
+
+- (a) in subsection (2), in paragraph (a), for “fourteen” substitute “5 working”,
+- (b) after subsection (2), insert—
+
+  > (2ZA) A person authorised in writing by SNH for the purposes mentioned in subsection (3) may at all reasonable times enter upon any land where—
+  >
+  > - (a) notice has been given under section 15A(1),
+  > - (b) the recipient of the notice has not provided the information or produced the document within the period of 10 working days beginning with the day on which the notice was given (or such later date agreed with SNH), and
+  > - (c) the period of 30 days beginning with the day after the day by which the information was to be provided or the document was to be produced has not elapsed.
+
+  ,
+- (c) in subsection (2A), for “and (2)” substitute “, (2) and (2ZA)”,
+- (d) in subsection (3), for paragraph (a) substitute—
+
+  > - (a) recording the number and characteristics (such as species, sex or estimated age) of deer in an area and assessing their impact on it,
+
+  ,
+- (e) after subsection (3) insert—
+
+  > (3A) Where a person is authorised by SNH for the purpose described in subsection (3)(a), SNH must, within the period of 3 months beginning with the day on which the information was recorded share with the owner—
+  >
+  > - (a) the recorded information on the number and characteristics of deer in the area, and
+  > - (b) the assessment of the impact those deer have on the area.
+  >
+  > (3B) Information shared under subsection (3A) must be shared in an accessible format.
+
+  .
+
+(4) In section 45, (interpretation), in subsection (1)—
+
+- (a) the “and” immediately following the definition of “vehicle” is repealed,
+- (b) after the definition of “woodland”, insert—
+
+  > - “**working day**” means any day other than a Saturday, a Sunday or a day which, under the Banking and Financial Dealings Act 1971, is a bank holiday in Scotland.
+
+  .
+
+## Annotations
+
+[^key-d6cf1dedbc327fe47404f58ae5dc0803]: Commencement: S. 26 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

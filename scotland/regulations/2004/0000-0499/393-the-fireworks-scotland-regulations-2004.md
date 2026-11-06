@@ -1,0 +1,261 @@
+---
+title: The Fireworks (Scotland) Regulations 2004
+id: ssi/2004/393
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-09-13'
+text_date: '2021-06-30'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2004/393
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2004/393/pdfs/ssi_20040393_en.pdf
+- http://www.legislation.gov.uk/ssi/2004/393/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Fireworks (Scotland) Regulations 2004
+
+> Text as at 2021-06-30.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2004 No. 393
+
+FIREWORKS
+
+The Fireworks (Scotland) Regulations 2004
+
+Made
+
+13th September 2004
+
+Laid before the Scottish Parliament
+
+15th September 2004
+
+Coming into force
+
+7th October 2004
+
+The Scottish Ministers, in exercise of the powers conferred by sections 2, 4, 11(6) and 12(1) of the Fireworks Act 2003[^f00001] and by sections 11(3) and 27(2) of the Consumer Protection Act 1987[^f00002] (as applied respectively by sections 11(6) and 12(1) of the Fireworks Act 2003)[^f00003], and having consulted the Health and Safety Commission those organisations which appear to them to be representative of interests substantially affected by these Regulations and such other persons whom they consider it appropriate to consult, and whereas a full regulatory impact assessment has been issued before making these regulations in accordance with section 2(4) of the Fireworks Act 2003, and whereas every chief constable in Scotland has, in accordance with section 27(2)(a) of the Consumer Protection Act 1987, agreed to the transfer of such enforcement duties as are specified in these Regulations, hereby make the following Regulations:
+
+## 1. Citation, commencement and extent[^key-5c7d071938f9207d1a82ca0bef307ee5]
+
+(1) These Regulations may be cited as the Fireworks (Scotland) Regulations 2004 and shall come into force on 7th October 2004.
+
+(2) These Regulations shall extend to Scotland only.
+
+## 2. Interpretation[^key-c58e8b4982f55cb0711e66a95099f2c7]
+
+In these Regulations–
+
+- “adult firework” means a—[^key-5cb8cb8085b6b5e50214641c1f418ab7]
+  - (a) category F2 firework (within the meaning set out in paragraph 2 of Schedule 1 to the Pyrotechnic Articles (Safety) Regulations 2015);
+  - (b) category F3 firework (within the meaning set out in paragraph 3 of that Schedule); or
+  - (c) category F4 firework (within the meaning set out in paragraph 4 of that Schedule);
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00007];
+- “public fireworks display” means a fireworks display at which the public, or any section of the public, are present (whether or not they have paid to be),[^key-eb9b9d056fa4e4450e298db8611444a3]
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+- “the enforcement duty” means the duty imposed by section 27(1) of the Consumer Protection Act 1987[^f00008], insofar as that duty is, by virtue of section 12(1) of the Fireworks Act 2003[^f00009] exercisable in relation to the enforcement of the prohibition imposed by regulation 3 of these Regulations; [^key-050def6a8b57dbbbcd16262d764efea8]...
+- [^key-7a219905ffa1a8cdf74476b01cde358a]...
+
+## 3. Prohibition of use of certain fireworks outside permitted hours[^key-0f34f4aa9819a1e592e2e84c23d50579][^key-c4100af7513cd6ee47668666cfea27cb]
+
+(1) Subject to paragraph (2) below, no person shall use an adult firework outside permitted hours[^key-02653c0edf4727dbcd7cedb3ef70a1b2].
+
+(2) Paragraph (1) above shall not prohibit the use of a firework–
+
+- (a) during a permitted fireworks night;
+- (b) by any person who is employed by a local authority and who uses the firework in question–
+  - (i) for the purposes of putting on a firework display by that local authority; or
+  - (ii) at a national public celebration or a national commemorative event; [^key-4316dd6c765c869e65d209269f5da78a]...
+- (c) in accordance with a dispensation granted under regulation 4 below; or[^key-beb3045f0e7cb14a5ee7918195116c24]
+- (d) from 07.00 until 18.00, provided it is by a person—
+  - (i) who is employed by, or in business as, a professional organiser or operator of firework displays, and who uses the firework in question—
+    - (aa) for the purposes of putting on a firework display for their employer or in the course of their business (as the case may be); or
+    - (bb) at a national public celebration or a national commemorative event;
+  - (ii) who is employed by a business engaged in, or whose trade or business (or part of whose trade or business) is, the supply of fireworks in accordance with the provisions of the Pyrotechnic Articles (Safety) Regulations 2015, and who uses the firework in question for purposes which are necessary in connection with that trade or business;
+  - (iii) who is the organiser of a public fireworks display (or who is assisting such an organiser), and who uses the firework in question for the purposes of putting on a public fireworks display on behalf of a charitable, religious, youth, recreational, community, political or similar organisation; or
+  - (iv) who is employed by, or acting under the direction of, a regulatory authority, and who uses the firework in question in the exercise of that authority’s powers or duties in connection with the regulation, or use, of fireworks.
+
+(3)[^key-a07204b85070e028237e69f42071f06b] In this regulation:
+
+- (a) “permitted fireworks night” means a period—
+  - (i) beginning at 23.00 on the first day of the Chinese New Year and ending at 01.00 the following day;
+  - (ii) beginning at 23.00 on 5th November and ending at 24.00 on 5th November;
+  - (iii) beginning at 23.00 on the day of Diwali and ending at 01.00 the following day; or
+  - (iv) beginning at 23.00 on 31st December and ending at 01.00 the following day;
+- (b) “permitted hours” means the period beginning at 18.00 and ending at 23.00;
+- (c) “a regulatory authority” means—
+  - (i) the Chief Constable of the Police Service of Scotland;
+  - (ii) the Health and Safety Executive;
+  - (iii) a local authority;
+  - (iv) a weights and measures authority.
+
+## 3A. Prohibition of supply of certain fireworks outside permitted hours[^key-176f09a28206a6731ae7a66746cc0c84]
+
+(1) Subject to paragraph (3) no person shall supply an adult firework outside permitted hours.
+
+(2) In this regulation “permitted hours” means the period beginning at 07.00 and ending at 18.00.
+
+(3) Paragraph (1) shall not prohibit the supply of fireworks outside permitted hours to any person—
+
+- (a) who is employed by, or in business as, a professional organiser or operator of fireworks displays,
+- (b) who is employed by a business engaged in, or whose trade or business (or part of whose trade or business) is, the supply of fireworks in accordance with the provisions of the Pyrotechnic Articles (Safety) Regulations 2015,
+- (c) who is employed by a local authority and the fireworks in question are to be used—
+  - (i) for the purposes of putting on a fireworks display by that local authority, or
+  - (ii) at a national public celebration or commemorative event,
+- (d) who is the organiser of a public fireworks display and the fireworks in question are to be used for the purposes of putting on a public fireworks display on behalf of a charitable, religious, youth, recreational, community, political or similar organisation, or
+- (e) who is outside Scotland.
+
+## 3B. Prohibition of supply of certain fireworks in specified circumstances: supply in excess of the permitted quantity
+
+(1) Subject to paragraph (3) no person shall supply more than the permitted quantity of adult fireworks at any one time.
+
+(2) In this regulation “permitted quantity” means fireworks with a total net mass of explosive substance of 5 kilograms.
+
+(3) Paragraph (1) shall not prohibit the supply of more than the permitted quantity of adult fireworks to any person—
+
+- (a) who is employed by, or in business as, a professional organiser or operator of firework displays,
+- (b) who is employed by a business engaged in, or whose trade or business (or part of whose trade or business) is, the supply of fireworks in accordance with the provisions of the Pyrotechnic Articles (Safety) Regulations 2015,
+- (c) who is employed by a local authority and the fireworks in question are to be used—
+  - (i) for the purposes of putting on a firework display by that local authority, or
+  - (ii) at a national public celebration or commemorative event,
+- (d) who is the organiser of a public fireworks display and the fireworks in question are to be used for the purposes of putting on a public fireworks display on behalf of a charitable, religious, youth, recreational, community, political or similar organisation, or
+- (e) who is outside Scotland.
+
+## 4. Dispensation from the prohibition imposed by regulation 3[^key-fe4f5cf0e4094fc08b6a976965963601]
+
+(1) Subject to paragraphs (3) to (9), a local authority may grant a dispensation from the prohibition imposed by regulation 3(1) to any person[^key-1244bae04ae10058a1fb2c969a3da68e] mentioned in paragraph (2) to enable that person to use fireworks–
+
+- (a) for the purposes of putting on a firework display for their employer or in the course of their business (as the case may be); or
+- (b) at a national public celebration or a national commemorative event.
+
+(2)[^key-5e711cb789357e0904651204b5b7a1f5] The person mentioned for the purposes of paragraph (1) is any person who is employed by, or in business as, a professional organiser or operator of firework displays.
+
+(3) A local authority may not grant a dispensation under this regulation, unless it is satisfied either–
+
+- (a) that there is no risk that use of fireworks in accordance with the dispensation will have any of the consequences mentioned in section 2(2) of the Fireworks Act 2003[^f00010]; or
+- (b) that the risk that use of fireworks in accordance with the dispensation will have any such consequences is the minimum that is compatible with their being used.
+
+(4) When a local authority grants a dispensation under this regulation, it shall at the same time as it informs the applicant, inform the chief constable or chief constables of the police force maintained in relation to the police area or areas where the fireworks are to be used in accordance with the dispensation, of the information provided with the application as detailed in subsection (7).
+
+(5) An application for a dispensation under this regulation shall be made to the local authority in whose area the applicant proposes to put on a fireworks display, or to use fireworks at a national public celebration or national commemorative event.
+
+(6) An application for a dispensation under this regulation shall be received by the local authority not later than 6 weeks prior to the proposed fireworks display, national public celebration or national commemorative event.
+
+(7) An application for a dispensation under this regulation shall be made in writing and shall include–
+
+- (a) the name and address of the applicant;
+- (b) a description of the proposed fireworks display, national public celebration or national commemorative event;
+- (c) details of the fireworks proposed to be used at the event;
+- (d) the proposed location of the event; and
+- (e) the proposed date or dates and hours during which fireworks shall be used at the event.
+
+(8) Following the grant of a dispensation under this regulation, the applicant for such dispensation shall be prohibited from using fireworks in terms of the dispensation, unless in accordance with paragraph (9), they shall cause a public notice to be given of the proposed use of fireworks in accordance with the dispensation, no later than 7 days prior to the commencement of the event.
+
+(9) Public notice of a proposed use of fireworks shall be given for the purposes of paragraph (8) by publication of a notice in a newspaper or newspapers circulating in the area of the local authority, and stating the particulars required under paragraph (7)(a), (b), (d) and (e) above to be specified in the application.
+
+## 5. Transfer of enforcement duty[^key-7e64b48f74289a51cb20709f02212453]
+
+(1) The enforcement duty in Scotland is hereby transferred to the chief constable of each police force and shall be the duty of every chief constable in relation to the police area for which the force in question is maintained[^f00011].
+
+(2) Every weights and measures authority having the enforcement duty in relation to any area in Scotland is hereby relieved of the enforcement duty.
+
+## 6. Proceedings[^key-670b09a44248161ccff74810b72c3eba]
+
+Summary proceedings for an offence under section 11 of the Fireworks Act 2003 arising from a contravention of a prohibition imposed by these Regulations may be commenced at any time within twelve months from the time when the offence was committed.
+
+ANDREW P KERR
+
+A member of the Scottish Executive
+
+St Andrew’s House, Edinburgh
+
+13th September 2004
+
+(This note is not part of the Regulations)
+
+These Regulations make certain provisions in relation to fireworks, in order to minimise the risk that fireworks will be used with harmful consequences for people, animals or property.
+
+Regulation 3 prohibits persons from using adult fireworks during night hours (namely between 23.00 and 07.00) but exceptions allow such use until 01.00 on the nights of Chinese New Year, Diwali and New Year’s Eve, and until 24.00 on 5th November. There is an exception in the case of local authority employees for the purpose of local authority fireworks displays, national public celebrations or national commemorative events.
+
+Regulation 4 provides, subject to certain conditions, for a local authority to grant dispensations from the prohibition. The regulation also specifies the procedure for applications for dispensations.
+
+By virtue of section 11 of the Fireworks Act 2003, a contravention of regulation 3 is a criminal offence. Section 12 of the Fireworks Act 2003 and section 27(1) of the Consumer Protection Act 1987 provide that it is the duty of local weights and measures authorities to enforce regulations under the Fireworks Act. Regulation 5 provides that this duty in Scotland is transferred, in relation to these Regulations, to the chief constable of each police force.
+
+Regulation 6 provides for the time limit for summary proceedings arising from a contravention of a prohibition imposed by these Regulations.
+
+Copies of the British Standard 7114, and the British Standards referred to therein, are available from any of the sales outlets operated by the British Standards Institution, by post from BSI at 389 Chiswick High Road, London W4 4AL, or from any of the bookshops operated by the Stationery Office Limited.
+
+A Regulatory Impact Assessment covering both these regulations and The Fireworks Regulations 2004 is available from Enterprise and Industry Division, Scottish Executive Enterprise, Transport and Lifelong Learning Department, Meridian Court, 5 Cadogan Street, Glasgow G2 6AT. Tel 0141 242 5547. Copies have been placed in the Scottish Parliament Information Centre.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 22](https://www.legislation.gov.uk/ukpga/2003/22).
+
+[^f00002]: Footnote: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43).
+
+[^f00003]: Footnote: By virtue of article 4 and the schedule to The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. [2004/2030](https://www.legislation.gov.uk/uksi/2004/2030)), the Scottish Ministers exercise the functions concurrently with the Secretary of State for Trade and Industry, being functions conferred by sections 2, 4, 11(6) and 12(1) of the Fireworks Act 2003, and sections 11(3), 18 and 27(2) of the Consumer Protection Act 1987.
+
+[^key-5c7d071938f9207d1a82ca0bef307ee5]: Commencement: Reg. 1 in force at 7.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/393/regulation/1/1)
+
+[^key-c58e8b4982f55cb0711e66a95099f2c7]: Commencement: Reg. 2 in force at 7.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/393/regulation/1/1)
+
+[^key-5cb8cb8085b6b5e50214641c1f418ab7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2004/393/regulation/2) substituted (1.3.2016) by [The Fireworks (Scotland) Amendment Regulations 2016 (S.S.I. 2016/18)](https://www.legislation.gov.uk/ssi/2016/18), [regs. 1](https://www.legislation.gov.uk/ssi/2016/18/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2016/18/regulation/2/a)
+
+[^key-7a219905ffa1a8cdf74476b01cde358a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2004/393/regulation/2) omitted (1.3.2016) by virtue of [The Fireworks (Scotland) Amendment Regulations 2016 (S.S.I. 2016/18)](https://www.legislation.gov.uk/ssi/2016/18), [regs. 1](https://www.legislation.gov.uk/ssi/2016/18/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2016/18/regulation/2/b)
+
+[^f00007]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-eb9b9d056fa4e4450e298db8611444a3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2004/393/regulation/2) inserted (30.6.2021) by [The Fireworks (Scotland) Miscellaneous Amendments Regulations 2021 (S.S.I. 2021/79)](https://www.legislation.gov.uk/ssi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/79/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/79/regulation/2/2)
+
+[^f00008]: Footnote: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43).
+
+[^f00009]: Footnote: [2003 c. 22](https://www.legislation.gov.uk/ukpga/2003/22).
+
+[^key-050def6a8b57dbbbcd16262d764efea8]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2004/393/regulation/2) omitted (1.3.2016) by virtue of [The Fireworks (Scotland) Amendment Regulations 2016 (S.S.I. 2016/18)](https://www.legislation.gov.uk/ssi/2016/18), [regs. 1](https://www.legislation.gov.uk/ssi/2016/18/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2016/18/regulation/2/c)
+
+[^key-0f34f4aa9819a1e592e2e84c23d50579]: Commencement: Reg. 3 in force at 7.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/393/regulation/1/1)
+
+[^key-c4100af7513cd6ee47668666cfea27cb]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2004/393/regulation/3) heading substituted (30.6.2021) by [The Fireworks (Scotland) Miscellaneous Amendments Regulations 2021 (S.S.I. 2021/79)](https://www.legislation.gov.uk/ssi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/79/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2021/79/regulation/2/3/a)
+
+[^key-02653c0edf4727dbcd7cedb3ef70a1b2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2004/393/regulation/3/1) substituted (30.6.2021) by [The Fireworks (Scotland) Miscellaneous Amendments Regulations 2021 (S.S.I. 2021/79)](https://www.legislation.gov.uk/ssi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/79/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/ssi/2021/79/regulation/2/3/b)
+
+[^key-4316dd6c765c869e65d209269f5da78a]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2004/393/regulation/3/2) omitted (30.6.2021) by virtue of [The Fireworks (Scotland) Miscellaneous Amendments Regulations 2021 (S.S.I. 2021/79)](https://www.legislation.gov.uk/ssi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/79/regulation/1/2), [2(3)(c)(i)](https://www.legislation.gov.uk/ssi/2021/79/regulation/2/3/c/i)
+
+[^key-beb3045f0e7cb14a5ee7918195116c24]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/ssi/2004/393/regulation/3/2/d) and word inserted (30.6.2021) by [The Fireworks (Scotland) Miscellaneous Amendments Regulations 2021 (S.S.I. 2021/79)](https://www.legislation.gov.uk/ssi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/79/regulation/1/2), [2(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2021/79/regulation/2/3/c/ii)
+
+[^key-a07204b85070e028237e69f42071f06b]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2004/393/regulation/3/3) substituted (30.6.2021) by [The Fireworks (Scotland) Miscellaneous Amendments Regulations 2021 (S.S.I. 2021/79)](https://www.legislation.gov.uk/ssi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/79/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/ssi/2021/79/regulation/2/3/d)
+
+[^key-176f09a28206a6731ae7a66746cc0c84]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/ssi/2004/393/regulation/3A), [3B](https://www.legislation.gov.uk/ssi/2004/393/regulation/3B) inserted (30.6.2021) by [The Fireworks (Scotland) Miscellaneous Amendments Regulations 2021 (S.S.I. 2021/79)](https://www.legislation.gov.uk/ssi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/79/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2021/79/regulation/2/4)
+
+[^key-fe4f5cf0e4094fc08b6a976965963601]: Commencement: Reg. 4 in force at 7.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/393/regulation/1/1)
+
+[^key-1244bae04ae10058a1fb2c969a3da68e]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2004/393/regulation/4/1) substituted (1.6.2005) by [The Fireworks (Scotland) Amendment Regulations 2005 (S.S.I. 2005/245)](https://www.legislation.gov.uk/ssi/2005/245), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/245/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2005/245/regulation/2/2/a)
+
+[^key-5e711cb789357e0904651204b5b7a1f5]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/ssi/2004/393/regulation/4/2) substituted (1.6.2005) by [The Fireworks (Scotland) Amendment Regulations 2005 (S.S.I. 2005/245)](https://www.legislation.gov.uk/ssi/2005/245), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/245/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2005/245/regulation/2/2/b)
+
+[^f00010]: Footnote: [2003 c. 22](https://www.legislation.gov.uk/ukpga/2003/22).
+
+[^key-7e64b48f74289a51cb20709f02212453]: Commencement: Reg. 5 in force at 7.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/393/regulation/1/1)
+
+[^f00011]: Footnote: The expressions “chief constable”, “police force” and “police area” are defined, in relation to Scotland, in Schedule 1 of the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) and section 50 of the Police (Scotland) Act [1967 (c. 77)](https://www.legislation.gov.uk/ukpga/1967/77).
+
+[^key-670b09a44248161ccff74810b72c3eba]: Commencement: Reg. 6 in force at 7.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/393/regulation/1/1)

@@ -1,0 +1,73 @@
+---
+title: Housing (Scotland) Act 2006, section 63
+act: Housing (Scotland) Act 2006
+section: '63'
+status: revised-with-pending-changes
+text_date: '2026-10-06'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2006/1/section/63
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing (Scotland) Act 2006, section 63
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-10-06. See https://www.legislation.gov.uk/changes/affected/asp/2006/1
+>
+> Extent: Scotland.
+
+## 63. Date of operation of notices, orders etc.[^c1911104]
+
+*Extent: S*
+
+(1) Unless this section provides otherwise, any order, notice, requirement, application, consent or other document served, submitted, given or made, or any other decision made, under this Part has effect from the date on which the document or, as the case may be, notice of the document or decision is served.
+
+(2) Subsection (3) applies where a decision to—
+
+- (a) make or vary a repairing standard enforcement order,
+- (b) serve a work notice or a demolition notice,
+- (c) make a maintenance order, or
+- (d) approve, devise, vary or revoke a maintenance plan,
+
+is appealed under section 64.
+
+(3) Where this subsection applies—
+
+- (a) the effect of the decision and of the order, notice, plan, variation or revocation made in consequence of it is suspended until the appeal is abandoned or finally determined, and
+- (b) where the appeal is abandoned or finally determined by confirming the decision, the decision and the order, notice, plan, variation or revocation made in consequence of it are to be treated as having effect from the day on which the appeal is abandoned or so determined.
+
+(4) A—
+
+- (a) rent relief order, or
+- (b) revocation of such an order,
+
+has effect from the date set out in subsection (5).
+
+(5) That date is the date which is 28 days after—
+
+- (a) the last date on which the decision to make or, as the case may be, revoke the rent relief order may be appealed under section 64, or
+- (b) where such an appeal is made, the date on which the appeal is abandoned or finally determined (by confirming the decision).
+
+(6) A repairing standard enforcement order does not cease to have effect where work required by the order would, but for the order, no longer require to be carried out.
+
+(7) No work may be done or proceedings taken under any order, notice or plan to which subsection (2) or (4) applies, and no requirement to register any such order, notice or plan has effect, until—
+
+- (a) the last date on which the decision to make it may be appealed, or
+- (b) where such an appeal is made, the date on which the appeal is abandoned or finally determined (by confirming the decision).
+
+(8) References in this section to the date on which an appeal is finally determined are to be read as references—
+
+- (a) where the sheriff's determination or Upper Tribunal’s decision[^key-a0539b55b817b6ad2d72c5202b8ff156] on the appeal is final, to the date on which the sheriff or Upper Tribunal[^key-652d173789891dd47159dfdb402bd4f9] determines the appeal,
+- (b) where the sheriff's determination may be appealed to the sheriff principal—
+  - (i) to the last date on which such an appeal may be made, or
+  - (ii) where such an appeal is made, to the date on which the appeal is abandoned or determined by the sheriff principal.
+
+(9) A reference in this section to the last date on which a decision may be appealed is, where that date is in any case changed under section 64(7), to be read as referring to the new date only if the change is made before the date on which the right to appeal would otherwise expire.
+
+## Annotations
+
+[^c1911104]: Commencement: S. 63 wholly in force at 3.9.2007; s. 63 not in force at Royal Assent see s. 195(3); s. 63(1) in force at 4.12.2006 by [S.S.I. 2006/569](https://www.legislation.gov.uk/ssi/2006/569), [art. 2](https://www.legislation.gov.uk/ssi/2006/569/article/2); s. 63(2)-(9) in force at 3.9.2007 by [S.S.I. 2007/270](https://www.legislation.gov.uk/ssi/2007/270), {art. 3 Table}
+
+[^key-a0539b55b817b6ad2d72c5202b8ff156]: Textual amendment: Words in s. 63(8)(a) inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 6(13)(a)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/6/13/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+
+[^key-652d173789891dd47159dfdb402bd4f9]: Textual amendment: Words in s. 63(8)(a) inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 6(13)(b)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/6/13/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

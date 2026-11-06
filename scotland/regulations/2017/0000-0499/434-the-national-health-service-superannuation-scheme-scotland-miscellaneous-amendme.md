@@ -1,0 +1,465 @@
+---
+title: The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017
+id: ssi/2017/434
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-12-11'
+text_date: '2018-06-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2017/434
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2017/434/pdfs/ssirpn_20170434_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/434/pdfs/ssipn_20170434_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/434/pdfs/ssi_20170434_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/434/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017
+
+> Text as at 2018-06-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2017 No. 434
+
+National Health Service
+
+The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017
+
+Made
+
+11th December 2017
+
+Laid before the Scottish Parliament
+
+13th December 2017
+
+Coming into force
+
+31st January 2018
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 10 and 12 and schedule 3 of the Superannuation Act 1972[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 10(4) of that Act, the Scottish Ministers have consulted with such representatives of persons likely to be affected by these Regulations as appear to them to be appropriate.
+
+In accordance with section 10(1) of that Act, these Regulations are made with the consent of the Treasury.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and effect[^key-9c8d18193f560555a8b2e582445dee5d]
+
+(1) These Regulations may be cited as the National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 and come into force on 31st January 2018.
+
+(2)[^key-a17525db67a029f320d22283502b60fc] Provisions in these Regulations have effect as follows—
+
+- (a) regulation 15 has effect from 1st July 2013;
+- (b) regulations 5, 7 (but only in respect of the other regulations referred to in this sub-paragraph), 8, 9, 13, 14, 16 and 18 have effect from 1st April 2015; and
+- (c) regulation 4 has effect from 1st April 2016.
+
+## PART 2 — Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 2011
+
+### 2. General[^key-7794a839506c67c25ba7a90e4ea0f82c]
+
+The National Health Service Superannuation Scheme (Scotland) Regulations 2011[^f00002] are amended in accordance with regulations 3 to 6.
+
+### 3. Amendment of regulation D1[^key-674f2cac0c4687885a5a82e8d44935b9]
+
+In regulation D1 (contributions by members)—
+
+- (a) in paragraph (2)—
+  - (i) after sub-paragraph (c), insert—
+
+    > ;
+    >
+    > - (d) for the scheme year 2018-19 is the percentage specified in column 2 of table 4 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls
+
+    ; and
+  - (ii) after Table 3, insert—
+
+    > Table 4
+    >
+    > | *Column 1*<br>*Pensionable pay band* | *Column 2*<br>*Contribution percentage rate* |
+    > | --- | --- |
+    > | Up to £16,928 | 5.2% |
+    > | £16,929 to £22,439 | 5.8% |
+    > | £22,440 to £27,910 | 7.3% |
+    > | £27,911 to £51,481 | 9.5% |
+    > | £51,482 to £73,498 | 12.7% |
+    > | £73,499 to £114,760 | 13.7% |
+    > | £114,761 to any higher amount | 14.7% |
+- (b) for paragraph (2A), substitute—
+
+  > (2A) Where paragraph (20), (21) or (25) applies, a member’s contribution rate for the scheme year 2018 -19 is the percentage specified in column 2 of table 4 in paragraph (2) in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls.
+
+  ; and
+- (c) in each of paragraphs (20), (21)(a) and (25)(b), for “table 3” substitute “table 4”.
+
+### 4. Amendment of regulation D3[^key-8606b5f22a8532d834d95b87eb92b6c8]
+
+In regulation D3 (further contributions by employing authorities in respect of excessive pay increases)—
+
+- (a) after paragraph (19), insert—
+
+  > (19A) For the purposes of this regulation, an increase in a member’s pensionable pay solely due to an increase in the national minimum wage is to be ignored.
+
+  ; and
+- (b) at the end of paragraph (21)(h), insert—
+
+  > ; and
+  >
+  > - (i) the national minimum wage referred to in paragraph (19A) means the single hourly rate which is for the time being in force by virtue of regulations made under section 1(3) of the National Minimum Wage Act 1998[^f00003];
+
+  .
+
+### 5. Amendment of Regulation M7A[^key-4fb16a50c87e128f6d407f2620a9963c]
+
+(1) Regulation M7A (member’s right to transfer a preserved pension to the 2015 Scheme) is amended as follows.
+
+(2) After paragraph (5), insert—
+
+> (5A) The Scottish Ministers must provide a member to whom this regulation applies with a notice in writing stating that the member has the right to request a statement of the amount of the cash equivalent of the member’s benefits accrued in accordance with these Regulations (“a statement of entitlement”).
+>
+> (5B) The Scottish Ministers must provide the member with the notice referred to in paragraph (5A) within the period of three months beginning with the date on which the Scottish Ministers receive notification from the member’s employing authority that the member has joined the 2015 Scheme.
+>
+> (5C) In accordance with paragraph (5D), a member who has received a notice provided in accordance with paragraph (5A) may request the Scottish Ministers to provide a statement of entitlement.
+>
+> (5D) For the purposes of paragraph (5C), a request for a statement of entitlement must—
+>
+> - (a) be made by the member in writing on the form provided by the Scottish Ministers for that purpose;
+> - (b) be received by the Scottish Ministers before the end of the three month period beginning with the date of the notice under paragraph (5A).
+
+.
+
+(3) For paragraph (6), substitute—
+
+> (6) The Scottish Ministers must provide a member who has requested a statement of entitlement in accordance with paragraph (5D) with a statement of entitlement at the guarantee date.
+
+.
+
+(4) For sub-paragraph (a) of paragraph (9), substitute—
+
+> - (a) the period of three months beginning with the date on which the Scottish Ministers receive the member’s request for a statement of entitlement made in accordance with paragraph (5D); or
+
+.
+
+### 6. Amendment of paragraph 14 of schedule 1[^key-2155094eb8671b472292a25ba5d2c5d9]
+
+In paragraph 14 (contributions to this Section of the scheme) of schedule 1 (medical and dental practitioners), in sub-paragraph (2)—
+
+- (a) after paragraph (d), insert—
+
+  > ;
+  >
+  > - (e) in respect of the 2018-2019 scheme year, table 5
+
+  ; and
+- (b) after table 4, insert—
+
+  > Table 5
+  >
+  > Scheme Year 2018-19
+  >
+  > | *Column 1*<br>*Pensionable earnings band* | *Column 2*<br>*Contribution percentage rate* |
+  > | --- | --- |
+  > | Up to £16,928 | 5.2% |
+  > | £16,929 to £22,439 | 5.8% |
+  > | £22,440 to £27,910 | 7.3% |
+  > | £27,911 to £51,481 | 9.5% |
+  > | £51,482 to £73,498 | 12.7% |
+  > | £73,499 to £114,760 | 13.7% |
+  > | £114,761 to any higher amount | 14.7% |
+
+## PART 3 — Amendment of the National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013
+
+### 7. General[^key-514e269e800c1ec621a0c7302a27986b]
+
+The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013[^f00004] are amended in accordance with regulations 8 to 18.
+
+### 8. Amendment of regulation 2.A.1[^key-654b58fcdbbdb8c73612d2b3511a3bae]
+
+In regulation 2.A.1 (interpretation of Part 2: general) at the appropriate place in the alphabetical order insert—
+
+> - “the 2014 Act” means the Public Service Pensions Act (Northern Ireland) 2014[^f00005]
+
+.
+
+### 9. Amendment of regulation 2.B.3[^key-c3629a7e996df5ac8552c8fce2b529a6]
+
+(1) Regulation 2.B.3 (restrictions on eligibility: general) is amended as follows.
+
+(2) In sub-paragraph (b) of paragraph (1H)—
+
+- (a) after “2013 Act”, insert “or subsection (5) of section 18 of the 2014 Act”; and
+- (b) for “that section” substitute “those sections”.
+
+(3) In paragraph (1J) —
+
+- (a) in sub-paragraph (a), after “2013 Act” insert “or Schedule 5 to the 2014 Act”; and
+- (b) in sub-paragraph (c)—
+  - (i) after “2013 Act”, insert “or subsection (5) of section 18 of the 2014 Act”; and
+  - (ii) for “that section” substitute “those sections”.
+
+### 10. Amendment of regulation 2.C.2[^key-f3e34007e950fd54a9939963faf05379]
+
+In regulation 2.C.2 (contribution rate for members other than non-GP providers), in paragraph (2)—
+
+- (a) after sub-paragraph (c), insert—
+
+  > ;
+  >
+  > - (d) for the scheme year 2018-19 is the percentage specified in column 2 of table 4 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls
+
+  ; and
+- (b) after table 3, insert—
+
+  > Table 4
+  >
+  > | *Column 1*<br>*Pensionable pay band* | *Column 2*<br>*Contribution percentage rate* |
+  > | --- | --- |
+  > | Up to £16,928 | 5.2% |
+  > | £16,929 to £22,439 | 5.8% |
+  > | £22,440 to £27,910 | 7.3% |
+  > | £27,911 to £51,481 | 9.5% |
+  > | £51,482 to £73,498 | 12.7% |
+  > | £73,499 to £114,760 | 13.7% |
+  > | £114,761 to any higher amount | 14.7% |
+
+### 11. Amendment of regulation 2.C.3[^key-20e84554d08651d354a3efc12b83e785]
+
+In regulation 2.C.3 (determination of pensionable pay for the purposes of setting a contribution rate for members other than non-GP providers), in each of paragraphs (16), (17)(a) and (21)(b), for “table 3” substitute “table 4”.
+
+### 12. Amendment of regulation 2.F.9[^key-01847ab6265d6dc5a5c2baa2fbf93cd4]
+
+(1) Regulation 2.F.9 (procedure for applications under regulation 2.F.8) is amended as follows.
+
+(2) In sub-paragraph (c)(ii) of paragraph (1), after “transfer value payment will be made;” insert “or”.
+
+(3) After sub-paragraph (c)(ii) of paragraph (1), insert—
+
+> - (iii) where the applicant is not eligible to be an active member of this Section of the scheme and the application is made in respect of a period of service in an existing scheme (within the meaning of Schedule 5 to the 2013 Act or Schedule 5 to the 2014 Act) or an existing public body scheme listed in Schedule 10 to those Acts, during the period of one year beginning with the day on which the applicant becomes eligible to be an active member of the 2015 Scheme if—
+>   - (aa) paragraph 2 of Schedule 7 to the 2013 Act or paragraph 2 of Schedule 7 to the 2014 Act applies to the period of service in respect of which that transfer value payment will be made; and
+>   - (bb) the transfer value payment is not made and accepted under the public sector transfer arrangements.
+
+.
+
+### 13. Amendment of regulation 2.F.18[^key-244aeed053c0ce42ccc44bd8cd1339e5]
+
+(1) Regulation 2.F.18 (right to transfer a deferred pension to the 2015 Scheme) is amended as follows.
+
+(2) After paragraph (5), insert—
+
+> (5A) The Scottish Ministers must provide a member to whom this regulation applies with a notice in writing stating that the member has the right to request a statement of the amount of the cash equivalent of the member’s benefits accrued in accordance with these Regulations (“a statement of entitlement”).
+>
+> (5B) The Scottish Ministers must provide the member with the notice referred to in paragraph (5A) within the period of three months beginning with the date on which the Scottish Ministers receive notification from the member’s employing authority that the member has joined the 2015 Scheme.
+>
+> (5C) In accordance with paragraph (5D), a member who has received a notice provided in accordance with paragraph (5A) may request the Scottish Ministers to provide a statement of entitlement.
+>
+> (5D) For the purposes of paragraph (5C), a request for a statement of entitlement must—
+>
+> - (a) be made by the member in writing on the form provided by the Scottish Ministers for that purpose;
+> - (b) be received by the Scottish Ministers before the end of the three month period beginning with the date of the notice under paragraph (5A).
+
+.
+
+(3) For paragraph (6), substitute—
+
+> (6) The Scottish Ministers must provide a member who has requested a statement of entitlement in accordance with paragraph (5D) with a statement of entitlement at the guarantee date.
+
+.
+
+(4) For sub-paragraph (a) of paragraph (9), substitute—
+
+> - (a) the period of three months beginning with the date on which the Scottish Ministers receive the member’s request for a statement of entitlement made in accordance with paragraph (5D); or
+
+.
+
+### 14. Amendment of regulation 3.A.1[^key-0ffbfb1503026b6bc510e55b3c1be2d4]
+
+In regulation 3.A.1 (interpretation of Part 3: general) at the appropriate place in the alphabetical order, insert—
+
+> - “the 2014 Act” means the Public Service Pensions Act (Northern Ireland) 2014.
+
+### 15. Amendment of regulation 3.A.11[^key-2b613a9be4af24c9baa993188881c3d4]
+
+In paragraphs (1) and (2) of regulation 3.A.11 (meaning of pensionable earnings in relation to other practitioners), omit “or for overtime”.
+
+### 16. Amendment of regulation 3.B.3[^key-d913c3eea753e5e4387311e2e4e0fe64]
+
+(1) Regulation 3.B.3 (restrictions on eligibility: general) is amended as follows.
+
+(2) In sub-paragraph (b) of paragraph (1H)—
+
+- (a) after “2013 Act”, insert “or subsection (5) of section 18 of the 2014 Act”; and
+- (b) for “that section” substitute “those sections”.
+
+(3) In paragraph (1J)—
+
+- (a) in sub-paragraph (a), after “2013 Act” insert “or Schedule 5 to the 2014 Act”; and
+- (b) in sub-paragraph (c)—
+  - (i) after “2013 Act”, insert “or subsection (5) of section 18 of the 2014 Act”; and
+  - (ii) for “that section” substitute “those sections”.
+
+### 17. Amendment of regulation 3.C.2[^key-3050f18bb76e333acceb30ee05a8d24a]
+
+In regulation 3.C.2 (members’ contribution rate), in paragraph (13)—
+
+- (a) after sub-paragraph (d), insert—
+
+  > ;
+  >
+  > - (e) in respect of the 2018-19 scheme year, table 5
+
+  ; and
+- (b) after table 4, insert—
+
+  > Table 5
+  >
+  > Scheme Year 2018-19
+  >
+  > | *Column 1*<br>*Pensionable earnings band* | *Column 2*<br>*Contribution percentage rate* |
+  > | --- | --- |
+  > | Up to £16,928 | 5.2% |
+  > | £16,929 to £22,439 | 5.8% |
+  > | £22,440 to £27,910 | 7.3% |
+  > | £27,911 to £51,481 | 9.5% |
+  > | £51,482 to £73,498 | 12.7% |
+  > | £73,499 to £114,760 | 13.7% |
+  > | £114,761 to any higher amount | 14.7% |
+
+### 18. Amendment of regulation 3.F.18[^key-ce3ec494d5066e9b675bffd5b00bdf9c]
+
+(1) Regulation 3.F.18 (right to transfer a deferred pension to the 2015 Scheme) is amended as follows.
+
+(2) After paragraph (5), insert—
+
+> (5A) The Scottish Ministers must provide a member to whom this regulation applies with a notice in writing stating that the member has the right to request a statement of the amount of the cash equivalent of the member’s benefits accrued in accordance with these Regulations (“a statement of entitlement”).
+>
+> (5B) The Scottish Ministers must provide the member with the notice referred to in paragraph (5A) within the period of three months beginning with the date on which the Scottish Ministers receive notification from the member’s employing authority that the member has joined the 2015 Scheme.
+>
+> (5C) In accordance with paragraph (5D), a member who has received a notice provided in accordance with paragraph (5A) may request the Scottish Ministers to provide a statement of entitlement.
+>
+> (5D) For the purposes of paragraph (5C), a request for a statement of entitlement must—
+>
+> - (a) be made by the member in writing on the form provided by the Scottish Ministers for that purpose;
+> - (b) be received by the Scottish Ministers before the end of the three month period beginning with the date of the notice under paragraph (5A).
+
+.
+
+(3) For paragraph (6), substitute—
+
+> (6) The Scottish Ministers must provide a member who has requested a statement of entitlement in accordance with paragraph (5D) with a statement of entitlement at the guarantee date.
+
+.
+
+(4) For sub-paragraph (a) of paragraph (9), substitute—
+
+> - (a) the period of three months beginning with the date on which the Scottish Ministers receive the member’s request for a statement of entitlement made in accordance with paragraph (5D); or
+
+.
+
+## PART 4 — General
+
+### 19. Option to persons detrimentally affected by these Regulations[^key-e767094264b51089d8578833854300d0]
+
+(1) This regulation applies in relation to any benefit which is being paid or may become payable under the amended Regulations to or in respect of a person who—
+
+- (a) served in an employment or office which qualified the person to participate in the benefits provided under the amended Regulations; and
+- (b) ceased to serve in that employment or office before the date on which these Regulations come into force.
+
+(2) Where, in a case to which this regulation applies, any provision of these Regulations would operate in relation to any person so as to place that person in a worse position than that person would have been in if that provision had not applied, that person may elect that the provision shall not apply by giving notice in accordance with paragraph (3).
+
+(3) A notice given pursuant to paragraph (2) is to be in writing and to be delivered to the Scottish Ministers within six months of the coming into force of these Regulations or such longer period as the Scottish Ministers may allow.
+
+(4) An election pursuant to paragraph (2) is to have effect in relation to the benefit referred to in paragraph (1) only to the extent that such benefit has accrued by virtue of periods of service rendered prior to the cessation referred to in paragraph (1) (or, if there has been more than one such cessation, the last of them before the coming into force of these Regulations).
+
+(5) In determining entitlement to, and the amount of, the benefit to the extent referred to in paragraph (4), a person is to be treated as if that person had never recommenced service at any time after that cessation (or, as the case may be, the last such cessation).
+
+(6) For the purpose of this regulation, “the amended Regulations” means—
+
+- (a) the National Health Service Superannuation Scheme (Scotland) Regulations 2011; and
+- (b) the National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013.
+
+DEREK MACKAY
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+28th November 2017
+
+We consent
+
+HEATHER WHEELER
+
+ANDREW GRIFFITHS
+
+Two of the Lords Commissioners of Her Majesty’s Treasury
+
+11th December 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service Superannuation Scheme (Scotland) Regulations 2011 and the National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 to insert updated employee contribution bands for the scheme year 2018-2019. They also make miscellaneous minor changes and provide that anyone detrimentally affected by the amendments may elect that the amendments do not apply to them.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11). Section 10 was amended by Part II of schedule 7 of the National Health Service (Scotland) Act [1972 (c.58)](https://www.legislation.gov.uk/ukpga/1972/58), sections 4(2) and 8(5) and (6) of the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) (“the 1990 Act”), paragraph 7 of schedule 8 of the Pension Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), paragraph 10 of schedule 8 of the Public Service Pensions Act [2013 (c.25)](https://www.legislation.gov.uk/ukpga/2013/25) and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649). Section 12 was amended by section 10 of the 1990 Act. The functions of the Secretary of State, in or as regards Scotland, were transferred to the Scottish Ministers by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and schedule 1.
+
+[^key-9c8d18193f560555a8b2e582445dee5d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/434/regulation/1) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-a17525db67a029f320d22283502b60fc]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/2) substituted (1.6.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 Amendment Regulations 2018 (S.S.I. 2018/123)](https://www.legislation.gov.uk/ssi/2018/123), [regs. 1](https://www.legislation.gov.uk/ssi/2018/123/regulation/1), [3](https://www.legislation.gov.uk/ssi/2018/123/regulation/3)
+
+[^key-7794a839506c67c25ba7a90e4ea0f82c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/434/regulation/2) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^f00002]: Footnote: [S.S.I. 2011/117](https://www.legislation.gov.uk/ssi/2011/117); relevant amending instruments are [S.S.I. 2012/163](https://www.legislation.gov.uk/ssi/2012/163), [S.S.I. 2013/109](https://www.legislation.gov.uk/ssi/2013/109), [S.S.I. 2014/43](https://www.legislation.gov.uk/ssi/2014/43), [S.S.I. 2014/154](https://www.legislation.gov.uk/ssi/2014/154), [S.S.I. 2015/96](https://www.legislation.gov.uk/ssi/2015/96), [S.S.I. 2016/98](https://www.legislation.gov.uk/ssi/2016/98) and [S.S.I. 2017/27](https://www.legislation.gov.uk/ssi/2017/27).
+
+[^key-674f2cac0c4687885a5a82e8d44935b9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/434/regulation/3) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-8606b5f22a8532d834d95b87eb92b6c8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/434/regulation/4) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^f00003]: Footnote: [1998 c.39](https://www.legislation.gov.uk/ukpga/1998/39).
+
+[^key-4fb16a50c87e128f6d407f2620a9963c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/434/regulation/5) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-2155094eb8671b472292a25ba5d2c5d9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/434/regulation/6) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-514e269e800c1ec621a0c7302a27986b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/434/regulation/7) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^f00004]: Footnote: [S.S.I. 2013/174](https://www.legislation.gov.uk/ssi/2013/174).
+
+[^key-654b58fcdbbdb8c73612d2b3511a3bae]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/434/regulation/8) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^f00005]: Footnote: [2014 c.2](https://www.legislation.gov.uk/ukpga/2014/2).
+
+[^key-c3629a7e996df5ac8552c8fce2b529a6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/434/regulation/9) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-f3e34007e950fd54a9939963faf05379]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/434/regulation/10) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-20e84554d08651d354a3efc12b83e785]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2017/434/regulation/11) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-01847ab6265d6dc5a5c2baa2fbf93cd4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2017/434/regulation/12) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-244aeed053c0ce42ccc44bd8cd1339e5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/434/regulation/13) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-0ffbfb1503026b6bc510e55b3c1be2d4]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/434/regulation/14) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-2b613a9be4af24c9baa993188881c3d4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/434/regulation/15) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-d913c3eea753e5e4387311e2e4e0fe64]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/434/regulation/16) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-3050f18bb76e333acceb30ee05a8d24a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/434/regulation/17) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-ce3ec494d5066e9b675bffd5b00bdf9c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/434/regulation/18) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)
+
+[^key-e767094264b51089d8578833854300d0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19) in force at 31.1.2018, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1)

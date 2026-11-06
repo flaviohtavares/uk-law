@@ -1,0 +1,111 @@
+---
+title: The Civil Partnership (Scotland) Act 2020 (Commencement No. 5) Regulations 2023
+id: ssi/2023/146
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-05-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2023/146
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2023/146/pdfs/ssipn_20230146_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2023/146/pdfs/ssi_20230146_en.pdf
+- http://www.legislation.gov.uk/ssi/2023/146/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Partnership (Scotland) Act 2020 (Commencement No. 5) Regulations 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 146 (C. 15)
+
+Civil Partnership
+
+The Civil Partnership (Scotland) Act 2020 (Commencement No. 5) Regulations 2023
+
+Made
+
+11th May 2023
+
+Laid before the Scottish Parliament
+
+15th May 2023
+
+Coming into force
+
+30th November 2023
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 16(2) and (3) of the Civil Partnership (Scotland) Act 2020[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Civil Partnership (Scotland) Act 2020 (Commencement No. 5) Regulations 2023 and come into force on 30 November 2023.
+
+## 2. Provisions coming into force on 30 November 2023
+
+(1) 30 November 2023 is the day appointed for the coming into force of the provisions of the Civil Partnership (Scotland) Act 2020 specified in column 1 of the table in the schedule of these Regulations, the subject matter of which is described in column 2 of the table.
+
+(2) Where a purpose is specified in column 3 of the table in relation to a provision, the provision comes into force on 30 November 2023 for that purpose only.
+
+SHIRLEY-ANNE SOMERVILLE
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+11th May 2023
+
+## SCHEDULE
+
+Regulation 2(1)
+
+| *Column 1*<br>*Provision* | *Column 2*<br>*Subject matter* | *Column 3*<br>*Purpose* |
+| --- | --- | --- |
+| Section 13 | Forced civil partnerships |  |
+| Section 14 and schedule 2 | Consequential modifications | For the purpose of bringing into force the modifications of section 122 of the Civil Partnership Act 2004 provided for in paragraph 6(3) of schedule 2. |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations bring the provisions of the Civil Partnership (Scotland) Act 2020 listed in the schedule of the Regulations into force on 30 November 2023. The provisions brought into force amend section 122 of the Anti-social Behaviour, Crime and Policing Act 2014 to make it an offence to coerce a person to enter into a civil partnership, and amend section 122 of the Civil Partnership Act 2004 to provide for the inclusion of declarators of nullity of civil partnership in the register of dissolutions maintained by the Registrar General of Births, Deaths and Marriages for Scotland.
+
+NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+
+(This note is not part of the Regulations)
+
+| Provision | Date of Commencement | S.S.I. No. |
+| --- | --- | --- |
+| Section 1 (partially) | 1 February 2021 | [2020/414](https://www.legislation.gov.uk/ssi/2020/414) |
+| Section 1 (for all remaining purposes) | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Section 2(1), (3)(f) and (4)(b) (partially) | 18 January 2021 | [2020/457](https://www.legislation.gov.uk/ssi/2020/457) |
+| Section 2 (partially) | 1 February 2021 | [2020/414](https://www.legislation.gov.uk/ssi/2020/414) |
+| Section 2 (for all remaining purposes) | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Section 3 | 1 February 2021 | [2020/414](https://www.legislation.gov.uk/ssi/2020/414) |
+| Sections 4, 5 and 6 | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Section 7(1), (2)(b) and (2)(f) (partially) | 18 January 2021 | [2020/457](https://www.legislation.gov.uk/ssi/2020/457) |
+| Section 7(1), (2)(a), (c), (d) and (f) (for all remaining purposes) | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Section 7(2)(b) (partially) | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Sections 8 and 9 | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Section 10 | 30 November 2021 | [2021/351](https://www.legislation.gov.uk/ssi/2021/351) |
+| Section 11 (partially) | 1 February 2021 | [2020/414](https://www.legislation.gov.uk/ssi/2020/414) |
+| Section 11 (for all remaining purposes) | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Section 12 | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Section 14 (partially) | 18 January 2021 | [2020/457](https://www.legislation.gov.uk/ssi/2020/457) |
+| Section 14 (partially) | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Schedule 1 (partially) | 1 February 2021 | [2020/414](https://www.legislation.gov.uk/ssi/2020/414) |
+| Schedule 1 (for all remaining purposes) | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Schedule 2, paragraph 5(1) and (19)(b) (partially) | 18 January 2021 | [2020/457](https://www.legislation.gov.uk/ssi/2020/457) |
+| Schedule 2, all remaining provisions other than paragraphs 5, 6(2) and (3), and 7 | 1 June 2021 | [2021/23](https://www.legislation.gov.uk/ssi/2021/23) |
+| Schedule 2, paragraph 5 (for all remaining purposes) and paragraphs 6(2) and 7 | 30 November 2021 | [2021/351](https://www.legislation.gov.uk/ssi/2021/351) |
+
+## Annotations
+
+[^f00001]: Footnote: [2020 asp 15](https://www.legislation.gov.uk/asp/2020/15).

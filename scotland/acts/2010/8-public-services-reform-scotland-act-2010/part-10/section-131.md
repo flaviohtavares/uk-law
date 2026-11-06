@@ -1,0 +1,57 @@
+---
+title: Public Services Reform (Scotland) Act 2010, section 131
+act: Public Services Reform (Scotland) Act 2010
+section: '131'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2010/8/section/131
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Public Services Reform (Scotland) Act 2010, section 131
+
+> **Warning: changes not yet applied to this text (23).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/asp/2010/8
+>
+> Extent: Scotland.
+
+## 131. Complaints about water services and sewerage services providers[^key-5a03811bb7dcde457ef2d591f276563d]
+
+*Extent: S*
+
+In the Water Services etc. (Scotland) Act 2005 (asp 3), after section 11 insert—
+
+> **11A. Complaints about licensed providers**
+>
+> (1) Subsections (2) to (4) apply where a water services provider or, as the case may be, a sewerage services provider (“**the provider**”) has requested (in writing) that the Scottish Public Services Ombudsman (“the Ombudsman”) investigate complaints made about the provider by occupiers of premises served by the provider.
+>
+> (2) Subject to subsection (4), the Scottish Public Services Ombudsman Act 2002 applies to such complaints as it applies to complaints made under that Act about a listed authority.
+>
+> (3) For the purposes of subsection (2), the provider is to be treated as a listed authority and the complainer as the person aggrieved.
+>
+> (4) Paragraph 7 of schedule 4 to the Scottish Public Services Ombudsman Act 2002 (Ombudsman not to investigate contractual or commercial transactions relating to a listed authority) does not apply.
+>
+> (5) Subsections (6) to (9) apply where—
+>
+> - (a) the provider has—
+>   - (i) requested (in writing) that the Ombudsman may not investigate any new complaints relating to the provider,
+>   - (ii) sent a copy of that request to the Commission, and
+> - (b) the Commission has agreed to that request and notified the Ombudsman accordingly.
+>
+> (6) The Ombudsman may not investigate any new complaints relating to the provider from the date that the Ombudsman receives notification under subsection (5)(b).
+>
+> (7) The Ombudsman is to continue investigating any undetermined complaints about the provider which have been made to the Ombudsman prior to the Ombudsman's receipt of notification under subsection (5)(b).
+>
+> (8) For the purpose of enabling an undetermined complaint to continue to be dealt with, subsections (2) and (3) continue to apply and have effect as they applied and had effect immediately before the Ombudsman received notification under subsection (5)(b).
+>
+> (9) For the purpose of subsection (7), a complaint is determined by the Ombudsman if the Ombudsman—
+>
+> - (a) has decided to conduct an investigation in relation to the complaint and that investigation is concluded, or
+> - (b) has decided not to conduct an investigation in relation to the complaint.
+
+.
+
+## Annotations
+
+[^key-5a03811bb7dcde457ef2d591f276563d]: Commencement: [S. 131](https://www.legislation.gov.uk/asp/2010/8/section/131) in force at 15.8.2011 by [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(c)](https://www.legislation.gov.uk/ssi/2011/278/article/2/c)

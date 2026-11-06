@@ -1,0 +1,1882 @@
+---
+title: The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009
+id: ssi/2009/183
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-05-14'
+text_date: '2023-11-06'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2009/183
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2009/183/pdfs/ssien_20090183_en.pdf
+- http://www.legislation.gov.uk/ssi/2009/183/pdfs/ssi_20090183_en.pdf
+- http://www.legislation.gov.uk/ssi/2009/183/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009
+
+> Text as at 2023-11-06.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2009 No. 183
+
+NATIONAL HEALTH SERVICE
+
+The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009
+
+Made
+
+14th May 2009
+
+Laid before the Scottish Parliament
+
+18th May 2009
+
+Coming into force
+
+1st July 2009
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 2(5), 27, 28(2), 28A, 32D, 32E, 105(7), 106(a) and 108(1) of and Schedule 1, paragraph 11(b) and (c) to, the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
+
+In accordance with paragraph 24(1) and (3) of Schedule 7 to the Tribunals Courts and Enforcement Act 2007[^f00002] they have consulted the Administrative Justice and Tribunals Council and its Scottish Committee.
+
+## 1. Citation and commencement[^key-27b6c620eaad71075111164481a0998a]
+
+These Regulations may be cited as the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009 and come into force on 1st July 2009.
+
+## 2. Interpretation and application[^key-3963592bfbd4452ba1f00a0116f87469]
+
+(1) In these Regulations unless the context otherwise requires–
+
+- “the Act” means the National Health Service (Scotland) Act 1978;
+- “the 1968 Act” means the Medicines Act 1968[^f00003];
+- “additional professional services” has the meaning assigned to it in regulation 4;
+- “advanced electronic signature” means an advanced electronic signature within the meaning given in Article 3(11) of Regulation ([^key-45c716e9d6750d061759a93a28c46754]EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing [Directive 1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093);
+- “the Agency” means the Common Services Agency for the Scottish Health Service constituted under section 10 of the Act[^f00005];
+- “appliance” means an appliance which is a listed appliance within the meaning of section 27(1) of the Act;
+- “appropriate non-proprietary name” means a non-proprietary name which is not mentioned in any directions given by the Scottish Ministers under section 17N(6) of the Act (other mandatory contract terms)[^f00006] as to the drugs or other substances–
+  - (a) which may not be ordered for patients in the provision of primary medical services under a general medical services contract;
+  - (b) except where the conditions in paragraph 40(2) of schedule 6 of[^key-1f53fccfe7dc8eecb599d7c1c7954a5b] the GMS Contracts Regulations[^f00007] are satisfied, which can only be ordered for specified patients and specified purposes;
+- “Area Medical Committee” means the committee of that name for the area of a Board recognised under section 9 of the Act[^f00008];
+- “Area Pharmaceutical Committee” means the committee of that name for the area of a Board recognised under section 9 of the Act;
+- “Board” means a Health Board within the meaning of section 2(1)(a) of the Act[^f00009];
+- “chemical reagent” means a chemical reagent included in a list for the time being approved by the Scottish Ministers for the purposes of section 27 of the Act;
+- “clinical management plan” has the meaning ascribed in regulation 8(1) of the Human Medicines Regulations 2012[^key-d319099fa7481eee8397581319a40879];
+- “collection and delivery arrangement” means an arrangement within the meaning of regulation 248(2) of the Human Medicines Regulations 2012,[^key-3833e059dfb1a5695d52841abe921349]
+- “controlled locality” is to be construed in accordance with paragraph 1A of Schedule 3;[^key-b43277101b8e0527d3277f6d20864311]
+- “corresponding decision” has the same meaning as in section 32D of the Act[^f00011];
+- “dentist” means a dental practitioner;
+- “directed services” means additional pharmaceutical services within the meaning of section 27A of the Act;
+- “dispensing doctor” means a medical practitioner who provides services corresponding to pharmaceutical services—[^key-7b65111b1b8330fadfd3d21743fd04db]
+  - (a) under the terms of a general medical services contract which gives effect to paragraph 44 of schedule 6 of the[^key-b33d419cf9d39169ec13f5dfb8b27065] GMS Contracts Regulations; or
+  - (b) under the terms of a section 17C agreement which gives effect to paragraph 16 of schedule 1 of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018[^key-8984bddb46cf47f4a96378beaa8478f4];
+- “doctor” means a fully registered medical practitioner within the meaning of Schedule 1 to the Interpretation Act 1978[^f00012];
+- “drugs” includes medicines and chemical reagents;
+- “Drug Tariff” has the meaning assigned to it in regulation 12;
+- “electronic communication” has the same meaning as in section 15 of the Electronic Communications Act 2000[^f00013];
+- “electronic prescription form” means a prescription form as defined in paragraph (b) of the definition of “prescription form”;
+- “electronic signature” has the meaning given to it by section 7(2) of the Electronic Communications Act 2000;[^key-e9131a911a0d9307396dd66e1595ada1]
+- “emergency requiring the flexible provision of pharmaceutical services” means an emergency declared by means of a direction to Boards under section 2(5) of the Act to the effect that, as a result of the threatened damage to human welfare caused or which may be caused by the illness designated in the direction, Boards must for a specified period exercise one or more of their functions under regulation 6 or regulation 11(5), subject to any conditions or limitations set out in the direction;
+- “ePharmacy service” means the electronic system provided by the Agency by which electronic messages are transmitted between pharmacy contractors, doctors and the Agency;
+- “equivalent body” means–
+  - (a) in England, NHS England[^key-ab4a8155dd5d9fabd47bc6997f049cb3][^key-e19cc86753e5727a88d0d152c449ec64] , or in relation to any time prior to 1st April 2013 and after 30th September 2002 a Primary Care Trust, or in relation to any time prior to 1st October 2002 a Health Authority;
+  - (b) in Wales, a Local Health Board or in relation to any time prior to 1st April 2003 a Health Authority;
+  - (c) in Northern Ireland, a Health and Social Services Board;
+
+  or any successor body;
+- “equivalent list” means a list kept by an equivalent body;
+- “GMS Contracts Regulations” means the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018[^key-f6ad275677e30a6e9b930cd5d9671c47];
+- “health centre” means premises provided by the Scottish Ministers in accordance with the provisions of section 36(1)(b) of the Act;
+- “hypodermic needle exchange services” has the meaning assigned to it in regulation 3(3);
+- “independent nurse prescriber” means a person—[^key-45151f953313cf607162816f3c9576bf]
+  - (a) who is registered in the Nursing and Midwifery Register; and
+  - (b) against whose name is recorded in that register an annotation signifying that he or she is qualified to order drugs, medicines and appliances as a community practitioner nurse prescriber, a nurse independent prescriber or a nurse independent/supplementary prescriber;
+- “joint discipline committee” has the same meaning as in the National Health Service (Discipline Committees) (Scotland) Regulations 2006[^f00015];
+- “listed drugs” means such drugs and medicines as are included in a list for the time being approved by the Scottish Ministers for the purposes of section 27(1) of the Act;
+- “medicinal product” means–
+  - (a) a medicinal product within the meaning given by Article 1 of Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083)[^f00016]; or
+  - (b) any product which is not a medicinal product within the meaning given by Article 1 of Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083), but which is a medicinal product within the meaning ascribed to it in section 130 of the 1968 Act[^f00017];
+- “minor relocation” has the meaning assigned to it in regulation 5;
+- “National Appeal Panel” means the panel constituted under Part II of Schedule 4;
+- “NHS funded services” means—
+  - (a) primary medical services provided by a person under arrangements with a Health Board for the purpose of meeting that Health Board’s duty to provide or secure the provision of primary medical services as respects their area; and
+  - (b) pharmaceutical services provided by a person on a Board’s pharmaceutical or provisional pharmaceutical list;
+- “nominated community representative” means a person nominated by one or more Community Councils from amongst their elected members for the purpose of making representations in accordance with the procedures set out in Schedule 3;
+- “non-electronic prescription form” means a prescription form as defined in paragraph (a) of the definition of “prescription form”;
+- “non-proprietary name” in relation to a drug means–
+  - (a) where the drug is described in a monograph in the current edition in force at the time of the supply of the drug, (as defined in regulation 321(3) of the Human Medicines Regulations 2012[^key-128d5b8f080a2d47b07d15ac9b10bb2a]), of the European Pharmacopoeia, the British Pharmacopoeia, the British Pharmaceutical Codex, the British National Formulary, the International Pharmacopoeia, the Cumulative List of Recommended International Non-proprietary Names or the Dental Practitioners' Formulary, any name, or abbreviation of the name, at the head of that monograph or, where the name consists of two or more words, any name derived from a suitable inversion of such words which is permitted by that publication; or
+  - (b) where the drug is not so described but has an approved name, being the name which appears in the current edition in force at the time of the supply of the drug, (as defined in the said regulation 321(3) of the Human Medicines Regulations 2012) of the list of names prepared and published under regulation 318 of those Regulations[^key-ec6b436a4d4f6678f2792585916831ad], its approved name;
+- [^key-75c83210ecf62c7f3ba172703ec959d1]...
+- “Nursing and Midwifery Register” means the register maintained by the Nursing and Midwifery Council under article 5 of the Nursing and Midwifery Order 2001[^f00019];
+- “optometrist independent prescriber” means a person–
+  - (a) who is a registered in the register of optometrists maintained by the General Optical Council in pursuance of section 7 of the Opticians Act 1989[^f00020][^key-1f91a40c586376e01c102087279236d8]...; and
+  - (b) against whose name is recorded in the relevant register an annotation signifying that he or she is qualified to order drugs, medicines and appliances as an optometrist independent prescriber;
+- “pandemic treatment protocol” means a protocol that—[^key-486bd012bf6fe1d3b3b086b08d6f1d7c]
+  - (a) relates to the supply of a prescription only medicine to be used for the prevention of or as a treatment for a disease that is, or in anticipation of a disease being imminently, pandemic and a serious risk, or potentially a serious risk, to human health, and
+  - (b) is approved in accordance with regulation 247 of the Human Medicines Regulations 2012 (exemption for supply in the event or anticipation of pandemic disease),
+- “paramedic independent prescriber” means a person—[^key-a26acaac603b40e0f92768a5e49031ae]
+  - (a) registered in Part 8 of the register maintained under article 5 of the Health Professions Order 2001[^key-135c4ecf6406e4d2b8bd4dcd3903504e]; and
+  - (b) against whose name in that register is recorded an annotation signifying that the person is qualified to order drugs, medicines and appliances as a paramedic independent prescriber;
+- “Patient Group Direction” has the meaning ascribed in regulation 213 of the Human Medicines Regulations 2012[^key-27f905272d2b7e758bade1fec50623d7];
+- “pharmaceutical care services plan” means a document prepared by the Board annually, comprising a summary of the pharmaceutical services provided in the area of the Board together with an analysis by the Board of where in its area it believes there is a lack of adequate provision of pharmaceutical services;
+- “pharmaceutical discipline committee” has the same meaning as in the National Health Service (Discipline Committees) (Scotland) Regulations 2006;
+- “pharmaceutical list” has the meaning assigned to it in regulation 5;
+- “pharmaceutical services” means those services as defined by section 27 of the Act and includes the provision to persons who are in a Board’s area of listed drugs and medicines which are ordered for those persons by a dental practitioner in pursuance by such dental practitioner of the performance of personal dental services within the meaning of section 1(8) of the National Health Service (Primary Care) Act 1997[^f00023] but not including directed services;
+- “pharmacist” means a person who is registered as a pharmacist in Part 1[^M_F_078d4bb8-3e38-48a8-ef07-dac288fa7faa] [^key-37ea87ed891a783eb57645781edd530d]... of the register maintained under article 19 of the Pharmacy Order 2010 or the register maintained in pursuance of Articles 6 and 9 of the Pharmacy (Northern Ireland) Order 1976 [^f00025];
+- “pharmacy contractor” means a contractor who provides pharmaceutical services, or a person lawfully conducting a retail pharmacy business in accordance with section 69 of the 1968 Act[^f00026], who provides pharmaceutical services in terms of arrangements made by a Board under section 27 of the Act;
+- “pharmacist independent prescriber” means a pharmacist against whose name in the relevant register is recorded an annotation signifying that he or she is qualified to order drugs, medicines and appliances as a pharmacist independent prescriber;
+- “physiotherapist independent prescriber” means a physiotherapist who is registered in Part 9 of the register maintained under article 5 of the[^key-9f44088dbbd493e4b60ce5f359b21dd3] Health Professions Order 2001[^key-9ef7f980173b1cbfeebdbf18eaf943a0], and against whose name in that register is recorded an annotation signifying that the physiotherapist is qualified to order drugs, medicines and appliances as a physiotherapist independent prescriber;
+- “podiatrist or chiropodist independent prescriber” means a podiatrist or chiropodist who is registered in Part 2 of the register maintained under article 5 of the Health Professions Order 2001[^key-dd648fcf8ea5011e338279f29bcb7123], and against whose name in that register is recorded an annotation signifying that the podiatrist or chiropodist is qualified to order drugs, medicines and appliances as a podiatrist or chiropodist independent prescriber;
+- “prescriber” means—[^key-06e3a29f6a2630e6d272f4891d038a74]
+  - (a) a doctor,
+  - (b) a pharmacist independent prescriber,
+  - (c) a independent nurse prescriber[^key-085f6b031e370d56e6977cddaae1a03c],
+  - (d) an optometrist independent prescriber,
+  - (e) a physiotherapist independent prescriber,
+  - (f) a podiatrist or chiropodist independent prescriber, [^key-53ddb444f9fb0b202caea72e34e76c6e]...
+  - (fa) a therapeutic radiographer independent prescriber,[^key-2f6168f8a99c8e0967e21987ad57c4d0] [^key-47c5fa17440c15a86919dc126a9b556b]...
+  - (fb) a paramedic independent prescriber, or[^key-9c9be821782d8fda4bdfe5873698d951]
+  - (i) a supplementary prescriber under an agreed clinical management plan;
+- “prescription form” means–
+  - (a) a form provided by the Board or the Agency–
+    - (i) on which the provision of pharmaceutical services may be ordered by–
+      - (aa) a Board;
+      - (bb) a dentist pursuant to the provisions of his or her terms of service;
+      - (cc) a dentist performing personal dental services in accordance with a pilot under Part I of the National Health Service (Primary Care) Act 1997; or
+      - (dd) a prescriber; [^key-463e7022ed34d6980506d8735f5ca6c5]...
+    - (ii) [^key-a3aa5225a41a6cb24def465faedbe96c]...
+
+    and includes a prescription form provided and issued under equivalent arrangements having effect in England, Wales or Northern Ireland; or
+  - (b) data that are created in an electronic form for the provision of pharmaceutical services ordered by–
+    - (i) a dentist pursuant to the provisions of his or her terms of service;
+    - (ii) a dentist performing personal dental services in accordance with a pilot under Part I of the National Health Service (Primary Care) Act 1997; or
+    - (iii) a prescriber,
+
+    and signed with such a person’s advanced electronic signature and transmitted as an electronic communication through the ePharmacy service; or
+  - (c) a form on which domiciliary oxygen has been ordered–
+    - (i) by a prescriber in England or Wales for a patient normally resident in England or Wales; and
+    - (ii) in relation to a form which contains an order by a prescriber in England,[^key-8894d270e30758efffaafb4f04977915] the patient named on the form (or a person on the patient’s behalf) completes and signs a declaration of entitlement to exemption or a statement that a charge has been paid;
+- “prescription only medicine” has the meaning given in regulation 5 of the Human Medicines Regulations 2012,[^key-47d66ff2ec530ccb334d8a4b0bed61a7]
+- “provisional pharmaceutical list” has the meaning assigned to it in regulation 8;
+- “PTP” means a pandemic treatment protocol,[^key-6dab20686a019687dbd5a0e071e4f95c]
+- “registered pharmacy” means a registered pharmacy within the meaning of section 74 of the 1968 Act[^f00027];
+- “relevant service” means whole-time service in the armed forces of the Crown in a national emergency or otherwise, or compulsory whole-time service in those forces, including service resulting from any reserve liability, or any equivalent service by a person liable for compulsory whole-time service in those forces;
+- “restricted availability appliance” means an appliance which is approved for particular categories of persons or for particular purposes only;
+- “scheduled drug” means–
+  - (a) a drug, medicine or other substance specified in any directions given by the Scottish Ministers under section 17N(6) of the Act as being a drug or other substance which may not be ordered in the provision of primary medical services under a general medical services contract; or
+  - (b) except where the conditions in paragraph 40(2) of schedule 6 of[^key-d66e5fbdf02e2444a8d878bb9f5a6077] the GMS Contracts Regulations[^f00028] are satisfied, a drug, medicine or other substance which is specified in any directions given by the Scottish Ministers under section 17N(6) of the Act as being a drug or other substance which can only be ordered for specified patients and specified purposes in the provision of primary medical services under a general medical services contract;
+- “Scottish SSP” means a Scottish serious shortage protocol which is a written protocol in respect of any drug or appliance which is not a prescription only medicine that—[^key-e493a4f49302b54cfc923d3f54b4565a]
+  - (a) is issued by the Scottish Ministers in circumstances where Scotland or any part of Scotland is, in the opinion of the Scottish Ministers, experiencing or may experience a serious shortage of—
+    - (i) a specified drug or appliance, or
+    - (ii) drugs or appliances of a specified description,
+  - (b) provides for the supply by a pharmacist or dispensing doctor, where there is an order on a prescription form or serial prescription for—
+    - (i) the specified drug or appliance, or
+    - (ii) a drug or appliance of the specified description,
+
+    of a different drug or appliance or quantity or strength of a drug or appliance to that ordered by the prescriber or dentist, subject to such conditions as may be specified in the Scottish SSP, and
+  - (c) specifies the period for which, and the parts of Scotland (which may be all of Scotland) for which the Scottish SSP is to have effect,
+- “serious shortage protocol” means, in respect of a prescription only medicine, a serious shortage protocol for the purposes of regulation 226A of the Human Medicines Regulations 2012,
+- “SSP” means a serious shortage protocol,
+- “supplementary prescriber” means a person whose name is registered in–
+  - (a) the Nursing and Midwifery Register;
+  - (b) Part 1 or 4 of the register maintained under article 19 of the Pharmacy Order 2010;[^key-79a41970ae7354701713a37778a2e518]
+  - (c) the register maintained in pursuance of Articles 6 and 9 of the Pharmacy (Northern Ireland) Order 1976;
+  - (d) the part of the register maintained by the Health Professions Council in pursuance of article 5 of the Health Professions Order 2001[^key-3dead1ed9f1e5a6060059d0b0e1b7b6b] relating to–
+    - (i) chiropodists and podiatrists;
+    - (ii) physiotherapists; [^key-e219d0c5327c8ae9efcb371fe99327b5]...
+    - (iii) diagnostic or therapeutic radiographers; [^key-a6e7fc702374eff91d32d81c9b61bff8]...
+    - (iv) dietitians; or[^key-997d64c8e030c214e0dadb3161677524]
+  - (e) the register of optometrists maintained by the General Optical Council in pursuance of section 7 of the Opticians Act 1989,
+
+  and against whose name is recorded in the relevant register an annotation signifying that he or she is qualified to order drugs, medicines and appliances as a supplementary prescriber or, in the case of the Nursing and Midwifery Register, a nurse independent/supplementary prescriber;
+- “supply form” means a form issued by a Board to record a supply of pharmaceutical services under the terms of a Patient Group Direction issued by a Health Board in accordance with regulation 233 (exemption for supply[^key-5096017714d199e481aa5ba3e68209e5] etc under a PGD by person conducting a retail pharmacy business) of the Human Medicines Regulations 2012;
+- “suspended by direction of the Tribunal” means suspended as respects the provision of pharmaceutical services by a direction of the Tribunal made pursuant to section 32A(2) or section 32B(1) of the Act[^f00031] or to any provisions in force in England and Wales or Northern Ireland corresponding to those provisions;
+- “terms of service” means the terms of service for pharmacists and pharmacy contractors contained or referred to in Schedule 1;
+- “therapeutic radiographer independent prescriber” means a person—[^key-cbc656e10e13db3439a3ff09a9dee1c0]
+  - (a) registered in Part 11 of the register maintained under article 5 of the Health Professions Order 2001[^key-aba4a7b146054caa6826799a55f5b643]; and
+  - (b) against whose name in that register is recorded—
+    - (i) an entitlement to use the title “therapeutic radiographer”; and
+    - (ii) an annotation signifying that the person is qualified to order drugs, medicines and appliances as a therapeutic radiographer independent prescriber;
+- “the Tribunal” means the Tribunal constituted under section 29 of the Act[^f00032].
+
+(2) These Regulations shall apply to a person, firm or body corporate (other than a dental practitioner) providing pharmaceutical services (which includes the supply of appliances by appliance suppliers) as they apply to a pharmacist.
+
+(3) Unless the context otherwise requires–
+
+- (a) any reference in these Regulations–
+  - (i) to a numbered regulation is a reference to the regulation bearing that number in these Regulations,
+  - (ii) to a numbered Part or Schedule is a reference to the Part of, or Schedule to, these Regulations bearing that number,
+  - (iii) to a form thereby prescribed includes a form substantially the same; and
+- (b) any reference in a regulation or in a Schedule to these Regulations to a numbered paragraph is a reference to the paragraph bearing that number in that regulation or Schedule.
+
+## 3. Pharmaceutical services[^key-cc22b82f29068c3bbadfb456217d8952]
+
+(1) The arrangements for the provision of pharmaceutical services shall include arrangements for–
+
+- (a) the supply of contraceptive substances and appliances;
+- (b) subject to paragraph (6) the provision of hypodermic needle exchange services.
+
+(2) The arrangements referred to in paragraph (1) shall incorporate the terms of service for pharmacists and pharmacy contractors set out in Schedule 1 to these Regulations.
+
+(3) In these Regulations “hypodermic needle exchange services” means–
+
+- (a) the supply, free of charge, by a pharmacy contractor to a person reasonably believed by that pharmacy contractor (if a pharmacist), or a pharmacist employed by that pharmacy contractor, to be a drug misuser, of–
+  - (i) hypodermic needles and syringes;
+  - (ii) equipment for the safe disposal of such needles and syringes; and
+  - (iii) other equipment associated with self-injection.
+- (b) the receipt by a pharmacy contractor from such a person and the subsequent safe disposal, both free of charge, of any used hypodermic needle or syringe;
+- (c) the provision of counselling to such a person by a pharmacist.
+
+(4) In paragraph (3) “drug misuser” means a person who is misusing drugs by self-injection.
+
+(5) A pharmacy contractor may at any time give notice in writing to the Board that such pharmacy contractor wishes to be–
+
+- (a) included in or excluded from any arrangements for the supply of contraceptive services and appliances; or
+- (b) included in any arrangements for the provision of hypodermic needle exchange services.
+
+(6) A Board shall agree to a pharmacy contractor providing hypodermic needle exchange services only–
+
+- (a) after consulting its most senior pharmaceutical and medical advisers and the Director of Public Health; and
+- (b) if it is satisfied that such services are necessary or desirable in the area of the premises specified in the application.
+
+(7) A pharmacy contractor participating in arrangements for the provision of hypodermic needle exchange services shall maintain records in relation to those services which shall include–
+
+- (a) the number of hypodermic needles and syringes issued by such pharmacy contractor;
+- (b) an estimate of the number of used hypodermic needles and syringes received by such pharmacy contractor for disposal; and
+- (c) the number of persons to whom such pharmacy contractor has supplied hypodermic needles and syringes.
+
+(8) A pharmacy contractor may at any time give notice in writing to the Board that such pharmacy contractor wishes to cease to be included in arrangements for the provision of hypodermic needle exchange services either immediately or at such time as may be specified in the notice.
+
+(9) The Board may at any time, by giving notice in writing to a pharmacy contractor, terminate such pharmacy contractor’s involvement in arrangements for the provision of hypodermic needle exchange services either immediately or with effect from such date as may be specified in the notice.
+
+## 4. Additional professional services[^key-ed31023bdb6cfed81850e017728d8e69]
+
+(1) A pharmacy contractor may undertake to provide additional professional services.
+
+(2) In these Regulations “additional professional services” means–
+
+- (a) the setting aside in a pharmacy of an area for the display of health education material;
+- (b) the provision to the public of advice and counselling on medicines and appliances;
+- (c) the undertaking of clinical audits where clinical audit means the systematic and critical analysis of the quality of clinical care; and
+- (d) the publication by a pharmacy contractor of a practice leaflet which shall–
+  - (i) include the name, address and telephone number of the pharmacy and the hours in each day of the week during which that pharmacy contractor provides pharmaceutical services from those premises;
+  - (ii) detail the arrangements for dealing with after-hours and other urgent requirements from or in relation to that pharmacy;
+  - (iii) state that National Health Service prescriptions are dispensed and which other National Health Service pharmaceutical services are provided; and
+  - (iv) state that a pharmacist is available to advise and answer questions about medicines and the treatment of common ailments.
+
+## 5. Pharmaceutical list[^key-0843a8b30e664797184e491cae2c7990]
+
+(1) The Board shall prepare a list to be called “the pharmaceutical list” of, subject to the provisions of regulation 26 (practitioners subject to inquiry) of the National Health Service (Tribunal) (Scotland) Regulations 2004[^f00033], the names of persons, other than doctors and dentists, who undertake to provide pharmaceutical services and of the addresses of the premises within the Board’s area from which these persons undertake to provide such services. The said list shall also state the nature of the pharmaceutical services to be provided, and the days and hours during which the premises are open, and show pharmacists as a separate category of persons within that list.
+
+(2) A person (hereinafter referred to in this regulation as an “applicant”)–
+
+- (a) who wishes to be included in the pharmaceutical list for the provision of pharmaceutical services; or
+- (b) whose name is already included in the pharmaceutical list, but who intends–
+  - (i) to open within the Board’s area additional premises from which to provide pharmaceutical services, or
+  - (ii) to relocate within the Board’s area the premises from which the applicant provides pharmaceutical services
+
+shall (except in the instance of an application to which paragraph (3) or (4) applies) complete[^key-d87c9769aa64725ae18d3ea3cd0d6d31] a pre-application and joint consultation in accordance with regulation 5A[^key-8b495d6efd8cf9e89c3515b2901d7f17] before making an application, and an application in every instance shall be in accordance with whichever version of Form A set out in Schedule 2 is appropriate.
+
+(2A)[^key-9ed886ca0a5851d2a94bacea8a176bdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2B)[^key-6aec602858ce26b1d40040957f5c4c25] Subject to paragraph (2E), an application made in any case other than one to which paragraph (3) or (4) applies shall be summarily refused (without being subject to the procedures in Schedule 3) by the Board unless it includes an applicant’s assessment which meets the requirements set out in paragraph (2C).
+
+(2C) An applicant’s assessment in terms of Form A must include—
+
+- (a) a written statement from the person who may grant possession of the premises that (without prejudice to any negotiation in relation to any such grant) the premises may be used for the provision of pharmaceutical services;
+- (b) a description of any adjustments the applicant intends to make to the premises to ensure that the applicant will comply with the duties incumbent upon a provider of pharmaceutical services under section 29 of the Equality Act 2010;
+- (c) a description of the boundaries of the neighbourhood within which the applicant intends to provide pharmaceutical services;
+- (d) an assessment (in sufficient detail so as to assist the Board to make a determination) of the current provision in the neighbourhood described by the applicant of services for which the applicant believes there is not adequate provision by persons on the pharmaceutical list and evidence in support of that belief;
+- (e) a description of the pharmaceutical services which the applicant will provide;
+- (f) the date by which the applicant intends to commence the provision of such services;
+- (g) the hours in each day that the applicant intends to provide such services;
+- (h)[^key-9df53998abe10c3e0c5214e76381c662] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i) (where the provisions of paragraph (2D) apply) evidence of the significant change that has occurred (which evidence will be of sufficient detail so as to assist the Board to make a determination) that means in the applicant’s view that it is now necessary or desirable that an application be granted in order to secure adequate provision, by persons on the pharmaceutical list, of pharmaceutical services by the applicant in the neighbourhood in which the premises are to be located;
+- (j)[^key-3294e032a7824101198abf3e09661b67] (where the provisions of paragraph (10B) apply) evidence of the significant change that has occurred (which evidence will be of sufficient detail so as to assist the Board to make a determination) that means in the applicant’s view that the granting of the application will now not prejudice the provision of NHS funded services in the controlled locality.
+
+(2D) The provisions of this paragraph apply where—
+
+- (a) an application for the provision of pharmaceutical services was refused by—
+  - (i) the Board (and not overturned by the National Appeal Panel); or
+  - (ii) the National Appeal Panel,
+
+  in the previous 12 months;
+- (b) that application was in relation to a neighbourhood that encompassed the same, or substantially the same, area encompassed by the neighbourhood to which the application that is now being submitted relates; and
+- (c) in the case of a refusal by the Board, the refusal of the application was not under paragraph (2B).
+
+(2E) If, in the opinion of the Board, the applicant’s assessment submitted with the application does not comply with the requirements of paragraph (2C), the Board is not bound to refuse the application if the applicant within 5 working days of being asked by the Board provides further information that in the opinion of the Board meets the requirements set out in paragraph (2C).
+
+(3) Where an application is made and–
+
+- (a) the applicant intends to provide the same pharmaceutical services from premises from which, at the time of the application, another person whose name is included in the pharmaceutical list provides those services, in place of that person; and
+- (b) the condition specified in paragraph (5) is fulfilled,
+
+the Board shall grant the application.
+
+(4) Where an application is made and–
+
+- (a) the applicant intends to relocate to new premises, within the neighbourhood in which the applicant provides pharmaceutical services, from the premises already listed in relation to such applicant, and to provide from those new premises the same pharmaceutical services which such applicant is listed as providing from the applicant’s existing premises;
+- (b) the Board is satisfied that the relocation is a minor relocation; and
+- (c) the condition specified in paragraph (5) is fulfilled,
+
+the Board shall grant the application.
+
+(5) The condition referred to in paragraphs (3)(b) and (4)(c) is that in either case the provision of the particular pharmaceutical services by the applicant will not be interrupted, except for any period during which, in terms of any scheme made under regulation 11(1) that applies to the applicant, or any such longer period as the Board may for good cause allow, the provision of such services is not required.
+
+(6) In this regulation the reference to a minor relocation is to one where there will be no significant change in the neighbourhood population in respect of which pharmaceutical services are provided by the applicant and other circumstances are such that there will be no significant[^key-21d54e4a673b6247f5bb6daab458366f] effect on the pharmaceutical services provided by the applicant or any other person whose name is included in the pharmaceutical list of the Board.
+
+(7) Before satisfying itself that a relocation is a minor relocation the Board shall seek and take into account the views of the Area Pharmaceutical Committee and of the most senior pharmaceutical adviser, or equivalent, of the Board.
+
+(8) In the case of an application to which paragraph (4)(a) applies, where the Board is not satisfied that the relocation is a minor relocation, it shall not grant the application but shall notify the applicant in writing of its decision and of its reasons.
+
+(9)[^key-d9280b58ab20cad4aeb9094ecdf1d69c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-a3c6de79dc6688674b0c98d628fbd840] An application made in any case other than one to which paragraph (3) or (4) applies shall be assessed in accordance with the procedures set out in Schedule 3, and shall be granted by the Board—
+
+- (a) only if it is satisfied that the provision of pharmaceutical services at the premises named in the application is necessary or desirable in order to secure adequate provision of pharmaceutical services in the neighbourhood in which the premises are located by persons whose names are included in the pharmaceutical list; and
+- (b) if the boundaries of the neighbourhood within which the applicant intends to provide pharmaceutical services falls within any part of a controlled locality, only if it is satisfied that the granting of such an application, in its opinion, would not prejudice the provision of NHS funded services in the controlled locality.
+
+(10A)[^key-ba65db6705e0c493bdb0933277382b71] When considering an application to which paragraph (10) applies, which is of the type described in paragraph (2)(b)(ii), the Board shall disregard premises already listed in relation to such applicant.
+
+(10B)[^key-d6326078fe930ff923b40a52696a77df] The provisions of this paragraph apply where—
+
+- (a) an application for the provision of pharmaceutical services to which regulation 5(10)(b) applies was refused by—
+  - (i) the Board (and not overturned by the National Appeal Panel); or
+  - (ii) the National Appeal Panel,
+
+  in the previous 3 years;
+- (b) that application was in relation to a neighbourhood that encompassed the same, or substantially the same, area encompassed by the neighbourhood to which the application that is now being submitted relates; and
+- (c) in the case of a refusal by the Board, the refusal of the application was not under paragraph (2B).
+
+(11)[^key-5be8cba3c9faa22be55695c5df33c0f0] Where an application is granted it shall be notified on Form C set out in Schedule 2.
+
+(12) Where an application is granted in accordance with paragraph (10), it shall be competent for the Board to grant it only in respect of some of the pharmaceutical services specified in that application.
+
+(13) An application, in any case other than one to which paragraph (4) applies, which is made by a person who qualified as a pharmacist in an EEA State other than the United Kingdom, or in Switzerland, shall not be granted unless the applicant satisfies the Board that the applicant has the knowledge of English, which, in the interests of the applicant and persons making use of the services to which the application relates, is necessary for the provision of pharmaceutical services in the Board’s area.
+
+(14) Where an application is granted, the Board shall make the relevant entries in the pharmaceutical list only after the expiry of the period within which an appeal against the decision to grant the application might be intimated or the conclusion of all the appeal procedures, whichever is appropriate.
+
+## 5A. Pre-application and joint consultation[^key-d95ffbb12a6486f7ee1765680b2b3841]
+
+(1) A person who intends to make an application under regulation 5(2) (except in the instance of an application to which paragraph (3) or (4) of regulation 5 applies) must, prior to making that application—
+
+- (a) consult with the Board to which their intended application relates to discuss the case for the proposed pharmacy, having regard to the Board’s pharmaceutical care services plan, for the purpose of determining the scope of the application; and
+- (b) agree the approach to completing a joint consultation in accordance with paragraphs (2) and (3).
+
+(2) The joint consultation must be undertaken jointly with the Board to which the intended application relates and be for the purpose of—
+
+- (a) assessing whether the neighbourhood to which the application relates has adequate provision, by persons on the pharmaceutical list, of some or all of the pharmaceutical services that the applicant intends to provide; and
+- (b) establishing the level of support of residents in the neighbourhood to which the application relates.
+
+(3) The joint consultation must—
+
+- (a) be completed within the period of 90 days immediately prior to the making of the application;
+- (b) seek views on—
+  - (i) the pharmaceutical services to be provided by the applicant;
+  - (ii) gaps in existing pharmaceutical service provision;
+  - (iii) the relationship and integration of the pharmaceutical services to be provided by the applicant with other NHS funded services;
+  - (iv) the potential for the pharmaceutical services to be provided by the applicant to impact on other NHS funded services;
+  - (v) the neighbourhood to which the application relates; and
+  - (vi) the location and proposed opening hours of the premises to which the application relates;
+- (c) be undertaken in such a way as to reach, as far as possible, the majority of residents in the neighbourhood to which the application relates, including publication on social media used by the Board and advertisement of the joint consultation—
+  - (i) (where the application is to relocate) through display in a prominent place where the applicant currently provides pharmaceutical services; or
+  - (ii) (where the application is to open additional premises or to be included in the pharmaceutical list) through advertisement in a newspaper most likely to have the largest circulation in the neighbourhood to which the application relates; and
+- (d) be for a continuous period of not less than 90 working days from the date of advertisement under sub-paragraph (c).
+
+(4) Following the completion of the joint consultation, the Board and applicant must agree upon and produce a consultation analysis report which details—
+
+- (a) the methods of engagement used to undertake consultation activity;
+- (b) the list of consultation questions and responses;
+- (c) the number and category of respondents; and
+- (d) the level of support of residents in the neighbourhood to which the application relates for the issues consulted upon.
+
+(5) The Board and applicant must complete the consultation analysis report as soon as reasonably practicable, following which the Board must submit that report to the Chair of the Pharmacy Practices Committee prior to any determination of the application under Schedule 3.
+
+## 6. Temporary relocations and additional premises[^key-e3c6e3d5b8d3c8fa4b421e27cda7a7f5]
+
+(1) Regulation 5(2)(b), (4), (6), (7), (8), (10), (11) and (14) shall not apply to an application for a temporary amendment to the pharmaceutical list which the Board is satisfied is necessary or desirable because of an emergency requiring the flexible provision of pharmaceutical services.
+
+(2) In the circumstances described in paragraph (1), the Board may make a temporary amendment to an entry in the pharmaceutical list, but–
+
+- (a) only for a specified period (which shall not be for longer than the specified period for the duration of the emergency given by the Scottish Ministers) which the Board may extend or curtail in appropriate circumstances; and
+- (b) the applicant may revert to the applicant’s original entry in the pharmaceutical list before the end of the specified period, on giving the Board at least 24 hours notice.
+
+(3) Where–
+
+- (a) a direction is given under section 2(5) of the Act which contains a declaration of an emergency requiring the flexible provision of pharmaceutical services; and
+- (b) the Scottish Ministers issue a further direction under that section changing the specified period of the duration of the emergency,
+
+for the purposes of these Regulations, the duration of the emergency is to be construed in accordance with the specified period as revised by the Scottish Ministers.
+
+## 7. Effect to be given to corresponding decisions in England, Wales and Northern Ireland[^key-5012981f5a126bb6af56f95fa3ffca7b]
+
+(1) A Health Board shall not include the name of any person in its pharmaceutical list, and shall remove the name of any person from its pharmaceutical list, if any decision has been made in England, Wales or Northern Ireland to deal with that person in any way which corresponds (whether or not exactly) with a way in which a person may be dealt with under section 29B(2)[^f00034] , 30(2) or (5)[^f00035] (except a decision to remove a disqualification or conditional disqualification) or 32B(1)[^f00036] of the Act, for so long as that decision is in force.
+
+(2) Where any corresponding decision is made in England, Wales or Northern Ireland by an equivalent body that–
+
+- (a) a person is to be included in an equivalent list subject to conditions;
+- (b) a person is to be removed from an equivalent list contingent on conditions;
+- (c) a person is to be disqualified from an equivalent list subject to conditions; or
+- (d) any conditions so imposed are varied,
+
+a Health Board shall impose those conditions in relation to the provision by that person of pharmaceutical services in the area of the Health Board.
+
+(3) The Health Board may make such modifications of the conditions referred to in paragraph (2) as it considers necessary for them to have the like effect in relation to Scotland as they do in relation to England, Wales or (as the case may be) Northern Ireland, but only if the Health Board has previously given the person concerned written notice of the proposed modifications and an opportunity to make representations about them.
+
+## 8. Provisional pharmaceutical list[^key-f1ca11d22594ad528cca3cbd4d3ec168]
+
+(1) The Board may also in accordance with this regulation prepare a list, to be called “the provisional pharmaceutical list” in which there shall be included, subject to the provisions of regulation 26 (practitioners subject to inquiry) of the National Health Service (Tribunal) (Scotland) Regulations 2004, the name of any person, other than a doctor or dentist, who undertakes provisionally to provide pharmaceutical services. The provisional pharmaceutical list shall state the particulars required under regulation 5(1) in relation to any such person and also the date (“the provisional date”) from which such person undertakes to provide pharmaceutical services at the premises specified in an application under regulation 5(2).
+
+(2) Where in any application under paragraph (2) of regulation 5 to which paragraph (4) or (10) of that regulation applies–
+
+- (a)[^key-b7b38cb491ab0a6f9abafa8668411960] any one or more of the statements in paragraph 2(b) of Form A (application for inclusion in the pharmaceutical list to provide pharmaceutical services – relocation or new application) is negative; or
+- (ab) the information required in paragraph 2(b) of Form A(2) (application for inclusion in the pharmaceutical list to provide pharmaceutical services – change of provider) is not provided; and
+- (b) the Board is satisfied on the basis of such information as may be submitted with the application that the applicant intends to commence business at the premises specified in the application in the event of the applicant’s name being included in the pharmaceutical list,
+
+the Board, in the case of an application to which paragraph (10) of regulation 5 applies, shall notify and otherwise deal with the application in accordance with that paragraph and Schedule 3 or, in the case of an application to which paragraph (4) of that regulation applies, shall deal with it in accordance with that paragraph and in either case where the Board grants the application the Board may include the name of the applicant in the provisional pharmaceutical list for its area.
+
+(3) Where an application is determined by the inclusion of the name of the applicant in the provisional pharmaceutical list, the Board shall give notification of the decision to the applicant in Form D set out in Schedule 2, and in this regulation any reference to “the date of inclusion” is to the date of inclusion in the provisional pharmaceutical list as stated in Form D.
+
+(4) Subject to paragraph (5) the applicant shall, as soon as reasonably practicable after the date of inclusion and in any event not later than either–
+
+- (a) the date six months after the date of inclusion, or
+- (b) if earlier, the provisional date,
+
+submit Form B set out in Schedule 2 with any information required but not given in paragraph 2(b) of Form A(1) or A(2) and on receipt of such information the Board shall include the name of the applicant in the pharmaceutical list and remove it from the provisional pharmaceutical list[^key-5f986eb19144148832b58189f0a01575].
+
+(5) Where a person whose name has been included in the provisional pharmaceutical list applies in writing to the Board not later than twenty eight days before the date by which, in terms of paragraph (4) above, the applicant is required to submit Form B, that the applicant wishes the Board to extend the period for submission of that Form and the Board is satisfied that, due to circumstances outwith that person’s control and which could not reasonably have been anticipated at the date of the application, there is no reasonable prospect of such person being able to submit that Form by that date, the Board may extend the period for submission of Form B by a further period not exceeding nine months.
+
+(6) Where an applicant, whose name is included in the provisional pharmaceutical list, has not submitted Form B in accordance with paragraphs (4) or (5), the applicant’s name shall be removed from the provisional pharmaceutical list.
+
+## 9. Removal from and amendment to pharmaceutical list[^key-6de3018ccc19a51736f7b902d4526ba8]
+
+(1) Where the Board determines in accordance with paragraph (4)[^key-82a8bb17caa9c6c8bbcde0d0343d9fb6] that a person whose name has been included for the preceding six months in the pharmaceutical list has not during that period provided pharmaceutical services the Board shall remove that person’s name from the said list.
+
+(2) A period during which the person was suspended by direction of the Tribunal does not count towards the period of six months referred to in paragraph (1).
+
+(3) Where a Board determines in accordance with paragraph (4) that the supply of equipment necessary to provide domiciliary oxygen therapy service is no longer required, either in total or in part, and this service or part thereof has not been provided for the preceding six months the Board may cancel or amend the contract to provide the domiciliary oxygen therapy service contracted for.
+
+(4) Before making a determination under paragraphs (1) or (3), the Board shall–
+
+- (a) give the person not less than 28 days' notice in writing of its intention so to do;
+- (b) afford the person an opportunity of making written representations to the Board; and
+- (c) consult the Area Pharmaceutical Committee.
+
+(5) Nothing in paragraphs (1) and (3) shall–
+
+- (a) prejudice the right of a person to apply to be included again in the pharmaceutical list; or
+- (b) prevent a person from applying to increase the supply of equipment for domiciliary oxygen therapy service already provided; or
+- (c) affect a person who is performing a period of relevant service and in such a case no removal under paragraphs (1) or (3) shall be effected in respect of any such person until six months after such person has completed that service.
+
+## 10. Transitional Arrangements[^key-efe1275f0f9ee3f75a34e3dfdf3ffcf5]
+
+Where, before the date these Regulations come into force any application is made, any action is commenced or any decision is pending by a Board, the Agency or the National Appeal Panel under the National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995[^f00037], the provisions of those Regulations shall, notwithstanding regulation 17 (revocations) continue to apply on or after that date in respect of any such action or decision.
+
+## 11. Schemes for securing proper pharmaceutical service[^key-cad06c8507c9b266ec61ac4ffb7ed3b0]
+
+(1) The Board, after consultation with the Area Pharmaceutical Committee, shall prepare a scheme for securing that one or more places of business on the pharmaceutical list in the area of the Board shall at all reasonable times be open. The scheme shall specify the days and hours during which such places shall be open, and the arrangements for the dispensing of medicines required urgently at other times.
+
+(2) The provisions of schemes prepared under paragraph (1) shall be subject to the approval of the Scottish Ministers.
+
+(3) In the event of the Board and the Area Pharmaceutical Committee failing to agree on any provision of a scheme to be prepared under paragraph (1), the matter shall be referred to the Scottish Ministers, whose determination shall be final.
+
+(4) Where the Board after consultation with the Area Pharmaceutical Committee, amends the provisions of a scheme approved under paragraph (2), the Area Pharmaceutical Committee or any person whose name is included in the pharmaceutical list may appeal in respect of any such amendment, and any such appeal–
+
+- (a) shall be made in writing and received by the Board within 21 days from the date on which notification of that amendment was published; and
+- (b) may be determined by the Scottish Ministers; or
+- (c) if the Scottish Ministers so decide, be determined in accordance with the procedures set out in paragraph 5(3) to (5) of Schedule 3 and paragraphs 9 to 15 of Schedule 4.
+
+(5) During an emergency requiring the flexible provision of pharmaceutical services, a Board may agree with any person whose name is included in a pharmaceutical list that the provisions of a scheme prepared under paragraph (1)[^key-1eee4bbce4e4b0c0f3ab1be4db6c4dd5] shall not apply to that person for the duration of the emergency.
+
+## 12. Payments to pharmacy contractors and standards of drugs and appliances[^key-46a56bfec2e339dde6baa10e26580033]
+
+(1) The Scottish Ministers shall after consultation with an organisation which is, in their opinion, representative of the general body of pharmacy contractors cause to be prepared a statement (in these Regulations referred to as “the Drug Tariff”) which they may after such consultation amend from time to time and which (subject to paragraph (2)) shall include–
+
+- (a) the prices on the basis of which the payment for specified drugs (being drugs commonly prescribed) and appliances is to be calculated;
+- (b) the method of calculating the payment for drugs not specified in the Drug Tariff;
+- (c) the dispensing fees or other sums payable in respect of the supply of drugs and appliances and of additional professional services;
+- (d) arrangements for claiming fees, allowances and remuneration in connection with the making and implementation of arrangements for the provision of pharmaceutical services;
+- (e) the standards of quality for drugs;
+- (f) the list of appliances approved by the Scottish Ministers for the purposes of section 27 of the Act, the specifications for such appliances and, in the case of a restricted availability appliance, the categories of persons for whom or the purposes for which the appliance is approved;
+- (g) the method by which a claim may be made for compensation for financial loss in respect of oxygen equipment;
+- (h) the list of chemical reagents approved by the Scottish Ministers for the purpose of section 27 of the Act and the specification for such chemical reagents; and
+- (i) the fees, allowances and remuneration payable for the provision of such directed services as may be specified.
+
+(2) The Drug Tariff may state in respect of any specified fee falling within paragraph (1)(c) or (i), or any other specified fee, allowance or other remuneration in respect of the provision of pharmaceutical services by pharmacy contractors included in the pharmaceutical list of a Board, that the determining authority for that fee, allowance or other remuneration for those pharmacy contractors is the Board, and in such a case paragraphs (3), (4) and (5) shall apply[^f00038].
+
+(3) The Board shall consult such body as it considers representative of pharmacy contractors in its area before making any determination by virtue of paragraph (2).
+
+(4) A determination made by the Board by virtue of paragraph (2) shall include the arrangements for claiming the specified fees, allowances or other remuneration and may provide that the pharmacy contractor requires to have prior authority from the Board to provide a specified service and associated drugs.
+
+(5) A determination made by the Board by virtue of paragraph (2) shall be notified in writing to all pharmacy contractors included in its pharmaceutical list.
+
+## 13. Payments to pharmacy contractors in respect of suspended pharmacists[^key-368022c546ecac08ad9a85e3fa035bf0]
+
+(1) The Board shall make payments to a pharmacy contractor (if a pharmacist), or to a pharmacy contractor in respect of a pharmacist engaged by that pharmacy contractor, who is suspended by direction of the Tribunal in accordance with the determination of the Scottish Ministers in relation to such payments.
+
+(2) The Scottish Ministers shall make the determination in accordance with paragraph (1) after consultation with the organisation referred to in regulation 12(1), and it shall be published with the Drug Tariff.
+
+(3) The determination may be amended from time to time by the Scottish Ministers, after consultation with the organisation referred to in paragraph (2), and any amendments shall also be published with the Drug Tariff.
+
+(4) Subject to paragraph (5), the determination of the Scottish Ministers shall be such as to secure that, as far as reasonably practicable, and after making adjustments for any reduction in expenses, the suspended pharmacist receives payments at a rate corresponding to the suspended pharmacist’s remuneration under the Drug Tariff (but excluding any payments made by virtue of regulation 12(1)(g)) during the 12 months ending with the direction for suspension by the Tribunal.
+
+(5) The determination of the Scottish Ministers may include provision that payments in accordance with the determination are not to exceed a specified amount in any specified period.
+
+## 14. Application for pharmaceutical services[^key-fd1b57e2549226bf768540c521479714]
+
+An application to a pharmacy contractor for pharmaceutical services may be made (other than by the pharmacist concerned) on behalf of any person who is incapable of requesting pharmaceutical services themself on account of sickness or infirmity by any duly authorised person.
+
+## 15. Publication of particulars[^key-0685b4eb20d7fb1a058616778c5d918b]
+
+(1) The Board shall make available for inspection at its offices copies of–
+
+- (a) the pharmaceutical list;
+- (b) the terms of service for pharmacists and pharmacy contractors;
+- (ba)[^key-2631592bd4269d1a7ebbbc5839a30aad] its pharmaceutical care services plan;
+- (c) the Drug Tariff;
+- (d) any schemes made under regulation 11 and shall keep them revised and up-to-date; [^key-87e776b2f85c9c9bad0a2a60cc4f5dd9]...
+- (e) determinations made by the Board by virtue of regulation 12(2)[^key-92f2fb4d2389ef47c3384bcf0f1652f3]; and[^key-cb2da7703b901d8f9d4c548b37a537d1]
+- (f)[^key-06622d7497fb03b39a175385b89060bd] details of any controlled locality identified by the Board under paragraph 1A of Schedule 3.
+
+(2) The Board may make any of the documents described in paragraph (1) of this regulation available for inspection at such other places in its area as appear convenient for informing all persons interested, or may publish at such places a notice of the places and times at which copies of any of those documents may be inspected.
+
+(3) The Board shall send a copy of the pharmaceutical list to the area medical, dental and pharmaceutical committees, and shall within fourteen days of any alteration in the pharmaceutical list inform each of them of such alteration.
+
+(4) The Board shall send a copy of the pharmaceutical list to all pharmacy contractors on the list.
+
+(5) Paragraph (3) shall not apply to alterations in a pharmaceutical list made by a Board in terms of regulation 6(2).
+
+## 16. Service of documents[^key-a6f9e97229749087c5f54fd006b1a72c]
+
+Except where expressly provided to the contrary, any document which is required or authorised to be given or sent to a person or body under these Regulations (including the terms of service) may be given or sent by delivering it to that person, or in the case of a body, to the secretary or general manager of that body or by sending it to that person, or in the case of a body, to the secretary or general manager of that body at that person’s usual or last known address.
+
+## 17. Revocations[^key-901292a7b3495fad905359aa83acbf2f]
+
+The Regulations specified in column (1) of Schedule 5 are revoked to the extent specified in column (3) of that Schedule.
+
+## 18. Consequential amendments[^key-93f7b1280305f2eae38fbc9ffc502725]
+
+The provisions listed in Schedule 6 are amended as specified in that Schedule.
+
+SHONA ROBISON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+14th May 2009
+
+## SCHEDULE 1 — TERMS OF SERVICE FOR PHARMACISTS AND PHARMACY CONTRACTORS
+
+Regulation 3(2)
+
+### 1. Interpretation[^key-0b1a9e00d0f2cff71df6a6a8ee4eea5f]
+
+In these terms of service unless the context otherwise requires–
+
+- (a) except in relation to a pharmacy contractor who has notified the Board under regulation 3(5) that such pharmacy contractor wishes to be excluded from the arrangements for the supply of contraceptive substances and appliances referred to in regulation 3, “drugs” includes contraceptive substances and “appliances” includes contraceptive appliances;
+- (b) any reference to a numbered paragraph is a reference to the paragraph bearing that number in these terms of service and any reference to a numbered sub-paragraph is a reference to the sub-paragraph bearing that number in that paragraph.
+
+### 2. Division of responsibilities between individuals and corporate bodies[^key-a803cfe5a29bfad69090fe72c7df8e35]
+
+(1) To the extent that this Schedule imposes a requirement on a pharmacy contractor in respect of an activity which could only, or would normally, be undertaken by a natural person–
+
+- (a) if the pharmacy contractor is a pharmacist–
+  - (i) that pharmacy contractor must comply with that requirement; and
+  - (ii) if such pharmacy contractor employs or engages a pharmacist in connection with the provision of pharmaceutical services, that pharmacy contractor must secure compliance with that requirement by such pharmacists, and such pharmacists must also comply with that requirement; and
+- (b) if the pharmacy contractor is not a natural person, that pharmacy contractor must secure compliance with that requirement by the pharmacists whom it employs or engages, and those pharmacists must comply with that requirement,
+
+and references in this Schedule must be construed accordingly.
+
+(2) Where this Schedule imposes a requirement on the director or superintendent of a body corporate that is on the pharmaceutical list, breach of that requirement shall be deemed to be a breach by the body corporate of its terms of service.
+
+### 3. Incorporation of provisions of regulations, etc.[^key-e39378bfaf524008c476b68de55ff587]
+
+Any provisions of the following affecting the rights and obligations of pharmacists and pharmacy contractors shall be deemed to form part of the terms of service:–
+
+- (a) these Regulations;
+- (b) the Drug Tariff;
+- (c) any scheme made under regulation 11;
+- (d) so much of the National Health Service (Discipline Committees) (Scotland) Regulations 2006 as relates to–
+  - (i) the investigation of disciplinary matters relating to pharmacists and pharmacy contractors and other investigations to be made by the pharmaceutical discipline committee and the joint discipline committee and the action which may be taken by the Board as a result of such investigations, including the withholding of remuneration from pharmacists and pharmacy contractors where there has been a breach of the terms of service;
+  - (ii) appeals to the Scottish Ministers from decisions of the Board; [^key-ce4b37ed526e6906a35939c31bfebdff]...
+- (e) the National Health Service (Tribunal) (Scotland) Regulations 2004 ; and[^key-a3063c8ea5fdfa3e156343680f6bb66a]
+- (f) the Patient Rights (Scotland) Act 2011 and any regulations or directions made under that Act, so far as relevant to pharmacists and pharmacy contractors as providers of services under the health service.
+
+### 4. Provision of pharmaceutical services[^key-7b56f9167657134d75af80e5ed3360ec]
+
+(1) Subject to the other provisions of these Regulations where–
+
+- (a) any person presents a non-electronic prescription form which contains–
+  - (i) an order for drugs, not being scheduled drugs, or for appliances, not being restricted availability appliances, signed by a prescriber; or
+  - (ii) an order for a drug specified in any directions given by the Scottish Ministers under section 17N(6) of the Act as being a drug which can only be ordered for specified patients and specified purposes in the provision of primary medical services under a general medical services contract signed by and endorsed on its face with the reference “SLS” by a prescriber; or
+  - (iii) an order for a restricted availability appliance, signed by and endorsed on its face with the reference “SLS” by a prescriber; or
+  - (iv) an order for listed drugs signed by a dentist; or
+- (b)[^key-849f4599cbfc7e317b205ac7c095c8e1] subject to sub-paragraphs (4) and (9), the pharmacist receives from the ePharmacy service an electronic prescription form which contains an order of a kind specified in sub sub-paragraph (a)(i)-(iv);
+
+and the patient named on the form or a person on the patient’s behalf, requests the provision of drugs and appliances in accordance with that prescription and, in the case of a form provided and issued under arrangements having effect in England, completes and signs a declaration of entitlement to exemption or a statement that a charge has been paid, a pharmacist shall, with reasonable promptness, provide the drugs so ordered, and such of the appliances so ordered as the pharmacist supplies in the normal course of business and any drugs so specified shall be in a suitable container.
+
+(1A)[^key-6e43211cf1e2a776088fc06ae64434dc] In furtherance of the obligations in sub-paragraphs (1) and (3), a pharmacist, when providing drugs or appliances ordered in accordance with those sub-paragraphs must—
+
+- (a) use all reasonable endeavours to provide those drugs or appliances with reasonable promptness;
+- (b) refrain from taking any action which may delay or prevent the dispensing of those drugs or appliances; and
+- (c) contact the prescriber or dentist to discuss alternative arrangements where there is likely to be, in that pharmacist’s opinion, a clinically significant delay in the dispensing of those drugs or appliances.
+
+(1B)[^key-b3bace932d9aa785e24fd7bc9e2a37cb] A pharmacist is under no obligation to provide pharmaceutical services in respect of a prescription form issued under arrangements having effect in England unless the patient has paid any charge due to be paid by virtue of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011.
+
+(2)[^key-ae82b981c08c99fb7e48fca77d6210fe] In this paragraph–
+
+- (a) “Medicines: Care and Review Service[^key-ad47af030d59621b92b721f921dbb9fd]” means a directed service provided by a pharmacy contractor with whom a Health Board has made arrangements in accordance with directions issued by the Scottish Ministers relating to the provision of a service to assist patients with drugs, medicines and appliances and the management of long term illnesses, diseases or health conditions[^key-0f46a2e3fec949e604992cbe7d2e4a26];
+- (aa)[^key-d4577e80af9b37f3f4dadfb6729ab7a8] “prison” means—
+  - (i) a prison within the meaning of section 43 of the Prisons (Scotland) Act 1989,
+  - (ii) a remand centre within the meaning of section 19(1)(a) of that Act, or
+  - (iii) a young offenders institution within the meaning of section 19(1)(b) of that Act,
+- (b) “serial prescriber” means a doctor , pharmacist independent prescriber or independent nurse prescriber other than a supplementary prescriber[^key-5499e9bc0a9167a68f6d967dd0898ca9] who in the course of the provision of primary medical services in terms of the Act orders drugs, medicines or listed appliances for–
+  - (i) a registered patient within the meaning of regulation 3[^key-0f36983e245a3698c2fc5359f38d3afa](1) of the GMS Contracts Regulations where the doctor , pharmacist independent prescriber or independent nurse prescriber other than a supplementary prescriber is providing primary medical services in terms of a general medical services contract under section 17J of the Act;
+  - (ii) a registered patient within the meaning of regulation 3 of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018[^key-bf91fbf93e409ff9202e4bfde31fa0a6] where the doctor , pharmacist independent prescriber or independent nurse prescriber other than a supplementary prescriber is providing primary medical services in terms of an agreement under section 17C of the Act; or
+  - (iii) a patient registered to receive those[^key-32154385930a9a2dcc060cf27636bf09] primary medical services in terms of the Act, other than as in (i) and (ii), except where that patient is a temporary resident, being a person who is resident in Scotland for more than 24 hours and less than 3 months, or where that patient receives primary medical services in prison,[^key-009d863f398b9627df8e6b943e02c1c2]
+
+  and such patient has a long-term illness, disease or health condition that requires ongoing management over a period of a year or longer,[^key-00b33ffa83fa557b6457f541f6cbc110]
+- (c) “serial prescription” means an order for drugs, medicines or listed appliances which comprises:
+  - (i) a non-electronic prescription form generated by a computer and signed in ink by a serial prescriber containing the following information:
+    - (aa) the drugs, medicines or listed appliances ordered for a patient;
+    - (bb) the total quantity or period for which the drugs, medicines or listed appliances are ordered, which period shall not exceed 56[^key-07ffcac984796e27cb85c0908f5e1327] weeks from the date of issue of the prescription;
+    - (cc) the quantity of the drugs, medicines or listed appliances which are to be dispensed to the patient at any one time; and
+    - (dd) the instructions for use of the drugs, medicines or listed appliances; and
+  - (ii) an electronic copy of that prescription form transmitted through the ePharmacy service to a[^key-d79943c858bded986228fe6f43e482fc] pharmacy contractor [^key-d2906797801e6f63c34f6ab780e28cba]....
+- (d) “relevant pharmacist” means:
+  - (i) the pharmacy contractor, where the pharmacy contractor is a pharmacist; or
+  - (ii) any pharmacist employed or engaged by, that pharmacy contractor; and
+  - (iii) where the pharmacy contractor is not a pharmacist, any pharmacist employed or engaged by that pharmacy contractor.
+
+(2A)[^key-89770b302b242caa64202f5d22cf5a1b] A pharmacy contractor must ensure that drugs or appliances ordered on a serial prescription are not supplied to a patient unless the patient has registered with that pharmacy contractor for the provision of the Medicines: Care and Review Service.
+
+(3) Where a person is[^key-030f5868e381f8b4fa9ecc7f4670ef04] registered with a pharmacy contractor for the provision of the Medicines: Care and Review Service[^key-d16cf3f097a56748246c7baec27a722b], that pharmacy contractor shall ensure that a relevant pharmacist, with reasonable promptness, shall provide the drugs, medicines or listed appliances ordered on a serial prescription in the quantities and at the intervals specified on the serial prescription in accordance with the provisions in sub-paragraph (2)(c)(i)(aa) to (dd).
+
+(4) The patient or a person acting on behalf of the patient shall present the non-electronic copy of the serial prescription to the relevant pharmacist on the first occasion that the patient asks to be supplied with drugs, medicines or listed appliances ordered for the patient on a serial prescription.
+
+(5) When the patient or a person acting on behalf of the patient asks to be supplied with drugs, medicines or listed appliances ordered for the patient on a serial prescription at any subsequent interval specified on the serial prescription, the relevant pharmacist shall supply the drugs, medicines or appliances in accordance with the serial prescription in accordance with the provisions in sub-paragraph (2)(c)(i)(aa) to (dd) only after drawing down the electronic copy of that serial prescription from the ePharmacy service to check that the serial prescriber has not cancelled that serial prescription.
+
+(6) A relevant pharmacist shall not provide under a serial prescription a controlled drug within the meaning of the Misuse of Drugs Act 1971[^f00040], other than a drug which is for the time being specified in Schedule 5 to the Misuse of Drugs Regulations 2001[^f00041].
+
+(7) A relevant pharmacist shall not supply any drugs, medicines or listed appliances ordered on a serial prescription if–
+
+- (a) the serial prescription was presented for dispensing for the first time more than 24 weeks after the date the serial prescription was signed by the serial prescriber;
+- (b) in the pharmacist’s professional judgement the supply is not appropriate for the patient;
+- (c) the non-electronic prescription form is not signed by the serial prescriber; or
+- (d) the pharmacist has been informed by the serial prescriber that the serial prescription has been cancelled.
+
+(8) A relevant pharmacist shall ensure on each occasion that drugs, medicines or appliances are supplied on a serial prescription that such supply is appropriate for the patient.
+
+(9) Where a relevant pharmacist reasonably believes that a form presented as a prescription form under sub-paragraph (1) or a form presented as serial prescription under sub-paragraph (4) is not a genuine order for the person named on the form the pharmacist shall refuse to supply the order for drugs or appliances on the form.
+
+(10) A relevant pharmacist shall not provide under an electronic prescription form a controlled drug within the meaning of the Misuse of Drugs Act 1971, other than a drug which is for the time being specified in Schedules 4 or[^key-622a6048bc31d7b040054e1cd4bf51b2] 5 to the Misuse of Drugs Regulations 2001[^f00042].
+
+(11) A relevant pharmacist may refuse to supply drugs or appliances in accordance with these Regulations[^key-28003eaa866585a2306ffffa770aee9e] where–
+
+- (a) the pharmacist or other person is subjected to or threatened with violence by the person [^key-b3d5eaf0d4c176b0062d42f503026fe7]... requesting the provision of drugs or appliances in accordance with these Regulations[^key-d5e2f290da8666d4b154af3b53f667c4], or by any person accompanying that person; or
+- (b) the person [^key-086be47b5539526e07a7e3e370880f1c]... requesting the provision of drugs or appliances in accordance with these Regulations[^key-2acac0ea8edbdbaa84800c95a0d53d3a], or any other person accompanying that person, commits or threatens to commit a criminal offence.
+
+(12) Subject to sub-paragraph (13A),[^key-3d4abbaeb56ffce303b6e7ad04402056] a relevant pharmacist shall not, except for the duration of an emergency requiring the flexible provision of pharmaceutical services, accept for dispensing any prescription form or serial prescription transmitted from or received at a registered pharmacy which is not included in the pharmaceutical list.
+
+(13) Subject to sub-paragraph (13A),[^key-a418dbc868b00c4df16f0b7a731ea021] a relevant pharmacist shall not, except for the duration of an emergency requiring the flexible provision of pharmaceutical services, supply any drugs or listed appliances ordered on a prescription form or serial prescription other than at a registered pharmacy which is included in the pharmaceutical list.
+
+(13A)[^key-89cce0c190a81cb6b9274e2e76698fd0] Sub-paragraphs (12) and (13) do not apply to the acceptance of a prescription form or serial prescription, or to the supply of medicinal products ordered on such a form or serial prescription, which form part of a collection and delivery arrangement.
+
+(14)[^key-b64293a45bb9522624e9679832de8ba8]
+
+- (a) For the purposes of this sub-paragraph—
+
+- “prescription form” is limited to a prescription form provided and issued under arrangements having effect in England;
+- “2011 Regulations” means the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011;
+- “2003 Regulations” means the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003.
+  - (a) Subject to paragraphs (c) and (d), a pharmacist before supplying a prescribed item to any person presenting a prescription form which—
+    - (i) has a declaration in terms of regulation 4(2)(a) of the 2011 Regulations claiming charge exemption; or
+    - (ii) has a declaration claiming charge remission under the 2003 Regulations,
+
+    shall request evidence of a patients entitlement to such exemption or remission.
+  - (b) Paragraph (b) shall not apply in respect of claims for exemption under regulation 4(1)(a) or (c) of the 2011 Regulations where the person’s date of birth has been printed by means of a computer on the prescription form.
+  - (c) Paragraph (b) shall not apply in respect of a declaration relating to a claim for exemption under regulation 4(1)(a)-(h) of the 2011 Regulations where the pharmacist has information in the pharmacist’s possession at the time of supplying the item which confirms the patient is entitled to the exemption claimed.
+  - (d) Where the person presenting the prescription form does not show evidence of entitlement and the pharmacist, in respect of a declaration relating to a claim for exemption made under regulation 4(1)(a)-(h) of the 2011 Regulations does not have evidence in the pharmacist’s possession to confirm that the patient is entitled to make that claim, the pharmacist shall mark that patient’s prescription form accordingly before supplying the prescribed item.
+
+(15)
+
+- (a) A pharmacist independent prescriber shall not supply any item ordered on a prescription form by that pharmacist independent prescriber unless the conditions specified in paragraph (b) are met.
+- (b) The conditions referred to in paragraph (a) are–
+  - (i) the item has been ordered in accordance with the arrangements which a Health Board has made pursuant to Directions issued by the Scottish Ministers in respect of pharmacist independent prescribers; and
+  - (ii) the pharmacist independent prescriber reasonably considers that either–
+    - (aa) exceptional circumstances exist whereby it is in the best interests of the patient to whom the item is to be supplied that the pharmacist independent prescriber who orders the item should supply it; or
+    - (bb) the patient to whom the item is to be supplied, or the patient’s representative, is otherwise unlikely to be able to obtain the item without suffering excessive inconvenience or delay.
+- (c) A pharmacist independent prescriber who supplies an item which such pharmacist independent prescriber has ordered must endorse the prescription form for that item with the words “self-dispensed”.
+
+(16) Where an order, not being an order to which [^key-09fe4492e2f62f172a58352eb4c75c25]... the Misuse of Drugs Regulations 2001, except Schedules 4 and 5 to those regulations, apply, issued by a prescriber or a dentist on a prescription form for drugs or listed drugs does not prescribe the quantity, strength or dosage thereof, a pharmacist may supply such strength and dosage of drugs or listed drugs so ordered as the pharmacist shall consider to be appropriate, and, subject to the provisions of sub-paragraph (23), in such quantity as the pharmacist considers to be appropriate for a course of treatment of the patient to whom the order relates, for a period not exceeding five days.
+
+(17) Where an order to which sub-paragraph (16) applies is for–
+
+- (a) an oral contraceptive; or
+- (b) a drug or listed drug which is available for supply as part of pharmaceutical services only together with one or more drugs or listed drugs; or
+- (c) an antibiotic in a liquid form for oral administration in respect of which pharmaceutical considerations require supply in an unopened package,
+
+which is not available for supply as part of pharmaceutical services except in such packages that the minimum available package contains a quantity appropriate to a course of treatment for a patient for a period of more than five days, the pharmacist may supply for the patient to whom the order relates, such minimum available package.
+
+(18) Where any drug, not being one to which the Misuse of Drugs Regulations 2001, except Schedule 5 to those regulations, apply, ordered by a prescriber or a dentist on a prescription form, or a by a serial prescriber on a serial prescription, is available for provision by a pharmacist in a pack in a quantity which is different to the quantity which has been so ordered, and that drug is–
+
+- (a) sterile;
+- (b) effervescent or hygroscopic;
+- (c) a liquid preparation for addition to bath water;
+- (d) a coal tar preparation;
+- (e) a viscous preparation; or
+- (f) packed at the time of its manufacture in a calendar pack or special container,
+
+the pharmacist shall, subject to sub-paragraph (19), provide the drug in the pack whose quantity is nearest to the quantity which has been so ordered.
+
+(19) A pharmacist shall not provide, pursuant to sub-paragraph (18), a drug in a calendar pack where in the pharmacist’s professional judgement, it was the intention of the prescriber or dentist who ordered the drug that it should be provided only in the exact quantity ordered.
+
+(20) In this paragraph–
+
+- (a) “calendar pack” means a blister or strip pack showing the days of the week or month against each of the several units in the pack; and
+- (b) “special container” means any container with an integral means of application or from which it is not practicable to dispense an exact quantity.
+
+(21) All drugs and preparations supplied by pharmacists shall, where a standard or formula is specified in the British Pharmacopoeia, the British Pharmaceutical Codex, the British National Formulary (including any Appendix published as part of that Formulary), or the Drug Tariff, conform to the standard or formula so specified, and in any other case shall be of a grade or quality not lower than the grade or quality ordinarily used for medicinal purposes.
+
+(22) All appliances supplied by pharmacists shall conform to the specifications included in the Drug Tariff.
+
+(23) Subject to any regulations in force under the Weights and Measures Act 1985[^f00046], a pharmacist shall provide pharmaceutical services only in response to and, subject to sub-paragraphs (16), (17), (18) and (29) to[^key-405e9ed3cd5ee047ab49be598f66bcb3] (43)[^key-1d1d29ef117d29a4d22bfa15834c46ff], in accordance with an order on a non-electronic prescription form signed as specified in sub-paragraph (1)(a), or in accordance with an electronic prescription form received in accordance with sub-paragraph (1)(b), or in accordance with a serial prescription in accordance with the provisions in sub-paragraph (2)(c) or in accordance with the terms of a Patient Group Direction issued by a Board in accordance with regulation 233 (exemption for supply[^key-01bd1f42bc7650be942699dd2fa429d4] etc under a PGD by person conducting a retail pharmacy business) of the Human Medicines Regulations 2012, except that in a case of urgency where a prescriber personally known to a pharmacist requests that pharmacist to dispense a drug or appliance the pharmacist may supply that drug or appliance before receiving such a prescription form, only if–
+
+- (a) that drug is not a scheduled drug;
+- (b) that drug is not a controlled drug within the meaning of the Misuse of Drugs Act 1971, other than a drug which is for the time being specified in Schedule 4 or 5 to the Misuse of Drugs Regulations 2001;
+- (c) that appliance is not a restricted availability appliance; and
+- (d) in any case the prescriber undertakes to furnish the pharmacist, within 72 hours, with such a prescription form.
+
+(24) Except as provided in sub-paragraph (25), a pharmacist shall not supply, by way of pharmaceutical services under the Act or otherwise, any scheduled drug which is ordered by name, formula or other description on a prescription form or a serial prescription.
+
+(25) Where a drug has an appropriate non-proprietary name and it is ordered on a prescription form or a serial prescription either by that name or by its formula, a pharmacist may supply a drug which has the same specification notwithstanding that it is a scheduled drug.
+
+(26) Where a drug which is ordered as specified in sub-paragraph (23) combines more than one drug, that sub-paragraph shall apply only if the combination has an appropriate non-proprietary name, whether the individual drugs which it combines do so or not.
+
+(27) A pharmacist or pharmacy contractor shall not give, promise or offer to any person any gift or reward (whether by way of a share of or dividend on the profits of the business or by way of discount or rebate or otherwise) as an inducement to or in consideration of a person presenting an order for drugs or appliances on a prescription form or serial prescription.
+
+(28) A pharmacist or pharmacy contractor shall not, except with the consent of the Scottish Ministers, provide at a health centre services other than pharmaceutical services in accordance with section 27 of the Act.
+
+(29) A pharmacist may dispense a drug where the conditions for urgent supply specified in regulation 225 (emergency sale[^key-e4958fa68b685468dec11e8518c3c1b1] etc by pharmacist: at patient's request) of the Human Medicines Regulations 2012 are satisfied, before receiving a prescription form, if the pharmacist is satisfied that it is appropriate to do so.
+
+(30)[^key-7946ffaa0d7089783d6ed98cf27681ca] This sub-paragraph applies where—
+
+- (a) a person requests a prescription only medicine—
+  - (i) from a person lawfully conducting a retail pharmacy business in accordance with section 69 of the 1968 Act, and
+  - (ii) in accordance with a prescription form or serial prescription, and
+- (b) a SSP has effect in respect of—
+  - (i) the requested prescription only medicine, or
+  - (ii) prescription only medicines of a specified description, and the requested prescription only medicine is of that description.
+
+(31) Where sub-paragraph (30) applies, a pharmacist may supply a prescription only medicine in accordance with a SSP where—
+
+- (a) the conditions specified in regulation 226A of the Human Medicines Regulations 2012 are satisfied, and
+- (b) the pharmacist is able to do so with reasonable promptness.
+
+(32) This sub-paragraph applies where—
+
+- (a) a person requests a drug or appliance—
+  - (i) from a person lawfully conducting a retail pharmacy business in accordance with section 69 of the 1968 Act, and
+  - (ii) in accordance with a prescription form or serial prescription, and
+- (b) a Scottish SSP has effect in respect of—
+  - (i) the requested drug or appliance, or
+  - (ii) drugs or appliances of a specified description, and the requested drug or appliance is of that description.
+
+(33) Where sub-paragraph (32) applies, a pharmacist may supply a different drug or appliance or quantity or strength of a drug or appliance to that ordered on the prescription form or serial prescription where—
+
+- (a) the pharmacist is able to do so with reasonable promptness,
+- (b) to do so is in accordance with the Scottish SSP, and
+- (c) the pharmacist is of the opinion, in the exercise of their professional skill and judgement, that the supply of a different drug or appliance or quantity or strength of a drug or appliance to that ordered by the prescriber or dentist is reasonable and appropriate.
+
+(34) Where sub-paragraph (30) or (32) applies—
+
+- (a) a pharmacist is of the opinion, in the exercise of their professional skill and judgement, that it is unreasonable or inappropriate to supply in accordance with the SSP or the Scottish SSP, and
+- (b) the pharmacist is able to supply the prescription only medicine or other drug or appliance ordered by the prescriber or dentist within a reasonable timescale, but not with reasonable promptness,
+
+the requirements to act with reasonable promptness in sub-paragraphs (1), (1A)(a) and (3) are to be read as requirements to act within a reasonable timescale.
+
+(35) A pharmacist must refuse to supply a prescription only medicine or other drug or appliance ordered on a prescription form or serial prescription where—
+
+- (a) sub-paragraph (30) or (32) applies, and
+- (b) alternative supply has already taken place in accordance with the SSP or the Scottish SSP.
+
+(36) A pharmacist may refuse to supply a prescription only medicine or other drug or appliance ordered on a prescription form or serial prescription where—
+
+- (a) sub-paragraph (30) or (32) applies,
+- (b) the pharmacist is of the opinion, in the exercise of their professional skill and judgement, that it is unreasonable or inappropriate to supply in accordance with the SSP or the Scottish SSP, and
+- (c) the pharmacist is unable to provide the prescription only medicine or other drug or appliance ordered by the prescriber or dentist within a reasonable timescale.
+
+(37) Where a pharmacist refuses to supply a prescription only medicine or other drug or appliance under sub-paragraph (36), the pharmacist must contact the prescriber or dentist to discuss alternative arrangements.
+
+(38) Where a pharmacist supplies a prescription only medicine in accordance with a SSP or other drug or appliance in accordance with a Scottish SSP the pharmacist must—
+
+- (a) include in the dispensing label on the packaging of the prescription only medicine or other drug or appliance, for the patient’s benefit, information to the effect that the prescription only medicine or other drug or appliance is being supplied in accordance with a SSP or a Scottish SSP, identifying the particular SSP or Scottish SSP, and
+- (b) supply the prescription only medicine or other drug or appliance in a suitable container.
+
+(39)[^key-d3e5b31f38c44e4bc4910532fb52bead] A pharmacist may supply a prescription only medicine in accordance with a PTP where—
+
+- (a) a PTP has effect in respect of the prescription only medicine,
+- (b) the requirements specified in the PTP are satisfied, and
+- (c) the pharmacist is able to supply the prescription only medicine with reasonable promptness.
+
+(40) A pharmacist may refuse to supply a prescription only medicine in accordance with a PTP where in the pharmacist’s professional judgement it is unreasonable or inappropriate to do so.
+
+(41) Where a pharmacist supplies a prescription only medicine in accordance with a PTP the pharmacist must—
+
+- (a) include in the dispensing label on the packaging of the prescription only medicine, for the patient’s benefit, information to the effect that the prescription only medicine is being supplied in accordance with a PTP, identifying the particular PTP, and
+- (b) supply the prescription only medicine in a suitable container.
+
+(42) A pharmacist may provide pharmaceutical services in accordance with the terms of a protocol approved by the Scottish Ministers under regulation 247A (protocols relating to coronavirus and influenza vaccinations and immunisations) of the Human Medicines Regulations 2012 where the conditions specified in that regulation are satisfied.
+
+(43) A pharmacist may provide pharmaceutical services in response to an announcement of the Secretary of State and arrangements made in accordance with regulation 10A (directions of a practitioner while a disease is, or in anticipation of a disease being imminently, pandemic etc.) or 15(5) (form of prescriptions) of the Misuse of Drugs Regulations 2001.
+
+### 5. Directed services[^key-9cc942a6e7e5a548f0136c327e4eb0ed]
+
+A pharmacy contractor with whom a Health Board makes an arrangement for the provision of any directed service shall comply with the terms and conditions of the arrangement and any terms contained in the relevant Directions.
+
+### 6. Premises and hours of business[^key-0b6eaf9a476bea02b0a5d1b7f97d72d4]
+
+(1) Subject to regulation 11(5), pharmaceutical services shall be provided from the premises specified in the application made by the pharmacy contractor for inclusion in the Board’s list, and the premises shall be open for the supply of pharmaceutical services during the hours specified in the scheme to be made by the Board for that purpose under the Regulations.
+
+(2) At every premises from which pharmaceutical services are provided there shall be exhibited a notice to be provided by the Board in the form prescribed in Schedule 2. There shall also be exhibited at such premises, at times when those premises are not open, and in such a manner as to be visible at such times, a notice in a form approved by the Board, indicating the facilities available for securing the dispensing of medicines urgently required.
+
+(3) Pharmaceutical services shall not, except with the consent of the Board, or on appeal, of the Scottish Ministers, be provided by a pharmacy contractor in premises occupied by a doctor other than at a health centre.
+
+(4) Subject to regulation 6 and sub-paragraph (4A)[^key-e47ed29195d4425911b0eaf812e6f4d6], no pharmacy contractor shall provide pharmaceutical services from any pharmacy or other premises which are not included in the pharmaceutical list in respect of that pharmacy contractor.
+
+(4A)[^key-77275c715a059ee024396e1cea4e13d4] Sub-paragraph (4) does not apply to the provision of pharmaceutical services which form part of a collection and delivery arrangement.
+
+### 7. Dispensing of medicines[^key-9a0c097546ccc480aa19230ff2fc7c50]
+
+(1) The dispensing of medicines shall be performed either by or under the direct supervision of a pharmacist.
+
+(2) Where the pharmacist referred to in sub-paragraph (1) is employed, the pharmacist must not be one–
+
+- (a) who has been disqualified under sections 29B(2) or 30(2) or (5) of the Act (or under any corresponding provision in force in England and Wales or Northern Ireland) from inclusion in the pharmaceutical list of any Board or any equivalent body while the disqualification remains in force; or
+- (b) who is suspended by direction of the Tribunal or any corresponding decision in England, Wales or Northern Ireland while the suspension remains in force.
+
+### 8. Names of pharmacists[^key-0e17728c1dfe520492e9d213e7cbbc48]
+
+A pharmacy contractor shall, if so required by the Board, furnish to the Board the name or names of pharmacists employed by that pharmacy contractor in providing pharmaceutical services and directed services.
+
+### 9. Drugs, etc. to be supplied without charge[^key-a83dddd6c724fe7a8624a099c5caf78b]
+
+(1) Subject to the provisions of any Regulations made under section 69 of the Act all drugs, containers and appliances supplied under these terms of service shall be supplied free of charge.
+
+(2) Where a pharmacy contractor supplies an oxygen container or oxygen equipment, other than equipment specified in the Drug Tariff as not returnable to the pharmacy contractor, the container and equipment shall remain the property of the pharmacy contractor who shall have no claim against the Board in the event of the loss of, or damage to, such container or equipment except as may be provided in the Drug Tariff.
+
+### 10. Method of payment[^key-4adab7c372f3dd348975e9bbdeaecaa5]
+
+(1) A pharmacy contractor is required to furnish to the Board or Agency or to such other person or body as it may direct, on dates to be appointed by the Scottish Ministers after consultation with an organisation which is in their opinion representative of the general body of pharmacy contractors, the prescription forms, serial prescription forms, supply forms and other forms (including electronic copies and electronic claim messages) upon which the orders for drugs and appliances supplied by or on behalf of such pharmacy contractor were given, arranged in such manner as the Board or Agency may direct, together with a statement of accounts containing such particulars relating to the provision by the pharmacy contractor of pharmaceutical services as the Board, with the approval of the Scottish Ministers, may from time to time require.
+
+(2) A pharmacy contractor whose name is included in the pharmaceutical list shall supply, in response to a request from the Scottish Ministers and within one month of the notification of the request, any information which the Scottish Ministers may require for the purpose of conducting any inquiry into the prices, payments, fees, allowances and remuneration specified in these Regulations or the Drug Tariff.
+
+(3) The Board or Agency shall, if any pharmacy contractor so requires, afford the pharmacy contractor reasonable facilities for examining all or any of the forms on which the drugs or appliances supplied by such pharmacy contractor were ordered, together with particulars of the amounts calculated to be payable in respect of such drugs and appliances and if the pharmacy contractor takes objection thereto, the Board or Agency shall take such objection into consideration.
+
+(4) The Board or Agency shall, if so required by an organisation which is recognised by the Scottish Ministers as representative of the general body of pharmacy contractors, afford the said organisation similar facilities for examining such forms and particulars relating to all or any of the pharmacy contractors and shall take into consideration any objection made thereto by the said organisation.
+
+(5) Payment will be made for drugs and appliances in the Drug Tariff at the prices specified therein and for drugs or appliances not in the Drug Tariff in the manner set forth therein subject in either case to any deduction required to be made by regulations made under section 69 of the Act.
+
+(6) Where the Board or Agency is satisfied that adequate reasons have been given, payment may be made to a pharmacy contractor in respect of forms submitted by such pharmacy contractor outwith any set time-limits.
+
+(7) If the Scottish Ministers, after consultation with such organisation as is mentioned in sub-paragraph (4), is satisfied at any time that the method of payment herein before provided for in this paragraph is such that undue delay in payment may be caused thereby, they may direct that the amounts to be payable to a pharmacy contractor shall be calculated by such other method, whether by averaging the amounts payable to a pharmacy contractor or otherwise, as appears to them designed to secure that–
+
+- (a) payment may be made within a reasonable time; and
+- (b) payments to a pharmacy contractor shall, as nearly as may be, remain the same as if the payments had been calculated in accordance with the first mentioned method of payment,
+
+and payments calculated by any such other method shall be deemed for all purposes to be payments made in accordance with these Regulations.
+
+(8)[^key-a515d75a9e7da0c938404ca589d56161] No pharmacy contractor will be paid in respect of the supply of drugs or appliances—
+
+- (a) indicated on a prescription form or serial prescription,
+- (b) in terms of regulation 225 (emergency sale etc by pharmacist: at patient’s request) of the Human Medicines Regulations 2012,
+- (c) in terms of a Patient Group Direction issued by a Health Board in accordance with regulation 233 (exemption for supply etc under a PGD by person conducting a retail pharmacy business) of the Human Medicines Regulations 2012,
+- (d) in accordance with the terms of a protocol approved by the Scottish Ministers under regulation 247A (protocols relating to coronavirus and influenza vaccinations and immunisations) of the Human Medicines Regulations 2012,
+- (e) in accordance with a SSP or a Scottish SSP,
+- (f) in accordance with a PTP, or
+- (g) in response to an announcement by the Secretary of State and arrangements made in accordance with regulation 10A (directions of a practitioner while a disease is, or in anticipation of a disease being imminently, pandemic etc.) or 15(5) (form or prescriptions) of the Misuse of Drugs Regulations 2001,
+
+unless that supply takes place at a registered pharmacy included in the pharmaceutical list in respect of that pharmacy contractor or takes place in accordance with a collection and delivery arrangement[^key-3845b08b9bbbafc5919a5754f3e8ba36].
+
+(9) Where a payment had been made to a pharmacy contractor to which such pharmacy contractor was not due, the Agency or Board shall draw that over-payment to the attention of such pharmacy contractor and unless the Scottish Ministers direct otherwise the amount overpaid shall be repaid by the pharmacy contractor to the Board or Agency.
+
+### 11. Withdrawal from pharmaceutical list[^key-87279f005aee91f8020578db0a6274c4]
+
+(1) Subject to sub-paragraph (2) a pharmacy contractor may at any time give notice in writing to the Board that such pharmacy contractor desires to withdraw such pharmacy contractor’s name from the pharmaceutical list and such pharmacy contractor’s name shall be removed therefrom at the expiration of three months from the date of such notice or of such shorter period as the Board may agree.
+
+(2) Where representations are made to the Tribunal under the provisions of section 29 of the Act (the NHS Tribunal), or a request for a review has been made to the Tribunal or a review is to be made by the Tribunal under section 30 of the Act (review etc. of disqualification), such pharmacy contractor shall not, except with the consent of the Scottish Ministers and subject to such conditions as the Scottish Ministers may impose, be entitled to withdraw such pharmacy contractor’s name from the list pending the termination of the proceedings on such representations, request for review or review.
+
+(3) The name of any pharmacy contractor whose business is carried on by representatives in accordance with the provisions of the 1968 Act, shall not be removed from the list so long as the business is carried on by them in accordance with the provisions of that Act, and the representatives agree to be bound by the terms of service of the pharmacy contractor.
+
+### 12. Complaints, concerns, comments, feedback;[^key-78d483b90afa809a64acbd35cc290410][^key-7aea284328ed014a343cbb74f5b3e31f]
+
+A pharmacy contractor must have arrangements in place which operate in accordance with section 15 of the Patient Rights (Scotland) Act 2011, and any regulations or directions made under that Act.
+
+### 13.[^key-75916f9e150fb6b89bbb0a7f6fa25598]
+
+(1) A pharmacy contractor shall cooperate with any investigation of a complaint by the Board in accordance with the procedures which it operates in accordance with section 15 of the Patient Rights (Scotland) Act 2011[^key-b320abfa6d3aa537195eb3449e49debf] whether the investigation follows one under the pharmacy contractor’s complaints procedure or not.
+
+(2) The cooperation required by sub-paragraph (1) includes–
+
+- (a) answering questions reasonably put to the pharmacy contractor by the Board;
+- (b) providing any information relating to the complaint reasonably required by the Board; and
+- (c) attending any meeting to consider the complaint (if held at a reasonably accessible place and at a reasonable hour, and due notice has been given), if the pharmacy contractor’s presence at the meeting is reasonably required by the Board.
+
+### 14. Records[^key-57502c396d2813616957ead94c18ce6f]
+
+(1) A pharmacy contractor shall keep proper, complete, accurate and up-to-date records in respect of the pharmaceutical services they provide.
+
+(2) A pharmacy contractor shall retain all such records for a minimum period of seven years.
+
+(3) A pharmacy contractor shall, when requested to do so by any authorised officer of the Scottish Ministers, the Agency or the Board during the period in which the contractor is required to retain such records produce them or make them available to such authorised officer of the Scottish Ministers, the Agency or the Board.
+
+(4) A pharmacy contractor shall not be obliged to make records available to a person referred to in sub-paragraph (3) unless they produce, on request, written evidence that they are authorised by the Scottish Ministers, the Agency or the Board, to act on their behalf.
+
+(5) A pharmacy contractor shall designate a person engaged by that pharmacy contractor to take responsibility for practices and procedures relating to the confidentiality of patient data held by them.
+
+### 15. Professional standards[^key-ce074ffeab327662722ee33e3f390d30]
+
+Without prejudice to any rule or implication of law to that effect, a pharmacist who provides pharmaceutical services in accordance with arrangements made in these Regulations shall do so in conformity with standards generally accepted in the pharmaceutical profession.
+
+## SCHEDULE 2[^key-82d9230ae5f47192a5373ca9f7023454][^key-836a48c7942d6d3c313fd207177ba6ce]
+
+Regulations 5(2) and (11) and 8(3) and Schedule 1, paragraph 6
+
+|  |  |  |
+| --- | --- | --- |
+| **[^key-ce6ff263741e3df1188ce3d072b451d1]FORM A (1)** | *Application for inclusion in the pharmaceutical list to provide pharmaceutical services – relocation or new application.* | Regulation 5(2) |
+|  |  |  |
+| **FORM A (2)** | *Application for inclusion in the pharmaceutical list to provide pharmaceutical services – change of provider.* | Regulation 5(2) |
+|  |  |  |
+| **FORM B** | *Notification of information not given on form A1/A2.* | Regulation 8(4) |
+|  |  |  |
+| **FORM C** | *Notification of date of entry on pharmaceutical list.* | Regulation 5(11) |
+|  |  |  |
+| **FORM D** | *Notification of date of inclusion in provisional pharmaceutical list.* | Regulation 8(3) |
+|  |  |  |
+|  | *Form of notice to be exhibited at premises from which pharmaceutical services are provided.* | Schedule 1 paragraph 6 |
+
+[image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_017.gif) [image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_018.gif) [image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_019.gif) [image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_020.gif) [image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_021.gif) [image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_022.gif) [image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_023.gif)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_009.gif) [image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_010.gif) [image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_011.gif)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_012.gif) [image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_013.gif)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_014.gif)
+
+[image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_015.gif) [image: see source](https://www.legislation.gov.uk/ssi/2009/183/images/ssi_20090183_en_epp_016.gif)
+
+## SCHEDULE 3 — THE BOARD
+
+Regulation 5(10)
+
+### 1. Receipt and notification of applications[^key-e8fa899ea216237a8a444799df870d0c]
+
+(1)[^key-6511eeaf81ab23fff23c86d8ae0f1b6d] Upon receipt of an application to which regulation 5(10) applies, or receiving further information submitted under regulation 5(2E), the Board shall—
+
+- (a) assess whether the boundaries of the neighbourhood within which the applicant intends to provide pharmaceutical services, or any part of it, falls within a controlled locality; and
+- (b) within 10 working days of an assessment being made, give written notice of the application and any assessment that it is within a controlled locality to—
+  - (i) the Area Pharmaceutical Committee;
+  - (ii) the Area Medical Committee;
+  - (iii) any person whose name is included in the pharmaceutical list or the provisional pharmaceutical list and whose interests may, in the opinion of the Board, be significantly affected if the application were granted;
+  - (iv) any Board whose boundary is within two kilometres of the proposed premises; and
+  - (v) any nominated community representative that covers the neighbourhood within which the applicant intends to provide pharmaceutical services, or any part of it,
+
+and any person or body so notified may, within 30 days from the date on which the notification was sent to such person or body, make written representations about the application to the Board.
+
+(2) Any Board which is notified under sub-paragraph (1)(d) above shall, within 5 working days, give written notice of the application to–
+
+- (a) its Area Pharmaceutical Committee;
+- (b) its Area Medical Committee;
+- (c) any person whose name is included in its pharmaceutical list or the provisional pharmaceutical list and whose interests may, in the opinion of the said Board be significantly affected if the application were granted,
+
+and any person so notified may, within 30 days from the date on which the notification was sent to the said Board, make written representations to the Board to whom the application was made.
+
+(3) Any notice given under sub-paragraph (1) or (2) above shall include a statement of the right to make representations in accordance with that sub-paragraph.
+
+### 1A. Applications relating to areas of a prescribed description[^key-681bc87c0c8985ec348d7e342dac3683]
+
+(1) For the purpose of section 27(4)(d) of the Act, a controlled locality is an area within a Health Board, which is remote or rural in character, and which is served by a dispensing doctor.
+
+(2) The boundary of a controlled locality area is that of the dispensing doctor’s practice area under sub-paragraph (1) on the day before the day on which the application under regulation 5(2) is made.
+
+(3) Upon identifying any areas which are a controlled locality in accordance with this paragraph, the Board must, as soon as reasonably practicable—
+
+- (a) give written notice to the dispensing doctor serving that controlled locality and to the person or body listed at paragraph 1 informing them of the identification of the controlled locality;
+- (b) delineate the boundaries of the controlled locality on a map; and
+- (c) record that controlled locality in its pharmaceutical care services plan.
+
+### 1B. Review of controlled locality
+
+(1) The Board shall, subject to sub-paragraph (2) and regulation 5(10B), no earlier than 3 years from the date of notification of a controlled locality in accordance with paragraph 1A, review that controlled locality designation.
+
+(2) If the Board is satisfied that within that 3 year period there has been a substantial change in circumstances in relation to the controlled locality area then it may reconsider the controlled locality designation.
+
+(3) Following a review, prior to a decision to keep or change the controlled locality designation, the Board must, as soon as practicable, give written notice to the dispensing doctor serving that controlled locality and to the persons or body mentioned in paragraph 1 informing them of—
+
+- (a) the proposal and the reasons for it; and
+- (b) their right, within 30 days from the date on which the notification was sent, to make written representations about that change to the Board containing a statement of reasons why that proposal should be reconsidered.
+
+(4) Following consideration of any representations received in accordance with sub-paragraph (3) the Board must make their final decision and where applicable—
+
+- (a) delineate on a map the new boundaries of the controlled locality; or
+- (b) remove from the map, the delineated boundary of an area that has ceased to be a controlled locality.
+
+### 2. Public consultation[^key-a7c8b4323698274e5e5c2ad09debff4b][^key-36a24a4b026a95751de300d32b1cd42f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2A. Dispensing doctor notification[^key-b695e41fdc8a7a0183fc7994f7a9a71c]
+
+The Board shall, at the same time as giving written notice of the application under paragraph 1(1), give written notice of the application to any dispensing doctor who dispenses from premises in the neighbourhood to which the application relates.
+
+### 3. Determination of applications[^key-f13b20f0e05188a538b3e930ffaa4c36][^key-f7d4035b43ca67fc2cb12020e7ec0bcf]
+
+(1) In considering an application to which regulation 5(10)(a) applies, the Board shall have regard to—
+
+- (a) the pharmaceutical services already provided in the neighbourhood of the premises named in the application by persons whose names are included in a pharmaceutical list;
+- (b) pharmaceutical services to be provided in the neighbourhood at these premises by any person whose name is included in the provisional pharmaceutical list;
+- (c) any representations received by the Board under paragraph 1;
+- (d) any information available to the Board which, in its opinion, is relevant to consideration of the application;
+- (e) the consultation analysis report submitted in accordance with regulation 5A;
+- (f) the pharmaceutical care services plan; and
+- (g) the likely long term sustainability of the pharmaceutical services to be provided by the applicant.
+
+(2) The Board may, if it considers that oral representations are unnecessary, determine the application without hearing oral representations.
+
+(3) In any case in which the Board decides to hear oral representations, the Board must—
+
+- (a) give the applicant and any person from whom it received representations under paragraph 1 reasonable notice of the meeting at which such representations are to be heard;
+- (b) permit the applicant and any person making representations at the hearing to be assisted by another person;
+- (c) permit the applicant or any person making representations at the hearing either to—
+  - (i) speak to their own representations; or
+  - (ii) nominate the person assisting them to speak on their behalf; and
+- (d) confirm that any person assisting the applicant or any person making representations at the hearing is not appearing in the capacity of counsel, solicitor or paid advocate.
+
+(4) The Board shall, subject to sub-paragraph (5), make a determination on the application within 6 weeks of the date that they received the consultation analysis report under regulation 5A.
+
+(5) A 6 week determination period under sub-paragraph (4) may be extended in exceptional circumstances and in such an event the Board must inform the applicant and any person or body notified under paragraph 1 or 2A, of the extended time period and the reasons for it.
+
+(6) The Board’s determination of an application must include—
+
+- (a) a summary of the consultation analysis report submitted in accordance with regulation 5A;
+- (b) an explanation of how the consultation analysis report was taken into account in arriving at the decision, with regard to the tests under regulation 5(10), as applicable; and
+- (c) the reasons for its decision.
+
+(7) The functions of the Board under this paragraph shall be exercised on its behalf by the Pharmacy Practices Committee in accordance with Part I of Schedule 4.
+
+### 4. Notification of decisions[^key-8bc4dd9a4bd5c256d98ed6ff3c32d0de][^key-a345c19e28617bfc5e113a0828c5961b]
+
+(1) The Board shall, within 5 working days of having been notified in accordance with paragraph 6 of Part I of Schedule 4, intimate the decision on the application and the information required under paragraph 3(6)[^key-c746e71704a635d7cec70d31c3d21888], and any right of appeal applicable under paragraph 5, to the applicant and the persons or bodies mentioned in paragraph 1.
+
+(2) The Board shall within 5 working days of such intimation publish on its website the decision on the application and the information required under paragraph 3(6).
+
+### 5. Appeals[^key-02da20a2d5bd7d1c2b528af6df24a9c6]
+
+(1) Subject to sub-paragraph (2) the applicant or any person mentioned in paragraph 1 may appeal against the decision of the Board on the application, and must give notice of any such appeal to the Board within 21 days from the date on which notification of the Board’s decision was sent to the applicant or person mentioned in paragraph 1.
+
+(2) Any person mentioned in paragraph 1 who was notified of an application under that paragraph but made no written representations to the Board about it shall not be entitled to appeal against a decision of the Board in relation to that application.
+
+(2A)[^key-2d8bbeb3bebbde57c9f720b04549d902] The grounds of appeal are limited to where the circumstances in sub-paragraph (2B) have occurred or where the Board has erred in law in its application of the provisions of these Regulations.
+
+(2B) The circumstances are—
+
+- (a) there has been a procedural defect in the way the application has been considered by the Board;
+- (b) there has been a failure by the Board to properly narrate the facts or reasons upon which their determination of the application was based; or
+- (c) there has been a failure to explain the application by the Board of the provisions of these Regulations to those facts.
+
+(3)[^key-16e2eb7e7666d8051ddaca03ef6e89b2] Any notice of appeal under this paragraph shall contain a concise statement detailing the circumstances in sub-paragraph (2B) or other points of law in respect of which the appellant contends that the decision of the Board is erroneous.
+
+(4) The Board shall refer a notice of appeal under this paragraph to the chair of the National Appeal Panel together with the decision of the Board on the application[^key-ddca7d0a6af61e5e4944e010f73b4123].
+
+(5)[^key-123741cf815ca562cb993dd96bf0b384] The Chair, after considering the notice of appeal and the decision of the Board, shall—
+
+- (a) dismiss the appeal, if the Chair is of the opinion that:
+  - (i) the notice discloses no reasonable grounds of appeal; or
+  - (ii) the appeal is otherwise frivolous or vexatious; or
+- (b) remit the decision back to the Board for reconsideration if the Chair is of the opinion that any of the circumstances in sub-paragraph (2B) have occurred,
+
+and the Chair’s decision is final.
+
+(6) In any other case the National Appeal Panel shall be convened in accordance with Part II of Schedule 4 and the said Panel shall thereafter determine the appeal.
+
+(7)[^key-b46a444f01fb3aec729dc27fabdfe342] Where the Chair remits an application back to the Board for reconsideration—
+
+- (a) the Chair shall give to the Board such advice as appears to the Chair to be desirable with a view to remedying the defect or failure that has led to the decision to remit;
+- (b) the Chair shall send a copy of the remitted application and the advice issued to the Scottish Ministers; and
+- (c) the Board shall reconsider the application.
+
+(7A)[^key-e2803d5ef90403d55fcec9bb00b2992c] The National Appeal Panel shall, subject to sub-paragraph (7B), make a decision under sub-paragraph (5) or a determination under sub-paragraph (6) within 3 months of the date of receipt of a notice of appeal under sub-paragraph (4).
+
+(7B) The 3 month period in sub-paragraph (7A) may be extended in exceptional circumstances and in such an event the National Appeal Panel must inform the interested parties of the extended time period and the reasons for it.
+
+(7C) In this paragraph “interested parties” means the appellant, the applicant and any person mentioned in paragraph 1 who makes written representations to the Board about the application.
+
+(8)[^key-e7110cdfa628b4d5f67c6ccd7dc3bb84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Form of Appeal[^key-85ee74507f4981e746e3d4e59d86eb55]
+
+(1) If it appears to the National Appeal Panel that an appeal can properly be determined without a hearing, it may determine the appeal without a hearing.
+
+(2) If the National Appeal Panel determines that a hearing is required, it shall take place at such time and place as the National Appeal Panel may direct and notice shall be sent by post to the interested parties and the Board not less than 14 days before the date fixed for the hearing.
+
+(3) The interested parties may attend and be heard in person or be represented by counsel or a solicitor or other representative at the hearing and the Board may attend and be represented at the hearing by any duly authorised official or by counsel or a solicitor.
+
+(4)[^key-ba23a51b042de626293a60c2ff73a7f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Subject to the provisions of these Regulations, the National Appeal Panel shall determine an appeal (including its procedure) as it thinks fit and its decision in respect of an appeal shall be final.
+
+(6) In this paragraph “interested parties” means the appellant, the applicant and any person or body[^key-23ae971b9ae78f1f6cd17521bd1a09fe] mentioned in paragraph 1 who makes written representations to the Board about the application.
+
+## SCHEDULE 4
+
+Schedule 3, paragraphs 3(6) and 5
+
+### PART I — PHARMACY PRACTICES COMMITTEE
+
+#### 1. Pharmacy Practices Committee[^key-ea67bb36012c1d927a71a7dfc2a4ee8d]
+
+The Board shall, in accordance with regulation 7 of the Health Boards (Membership and Procedure) (Scotland) Regulations 2001[^f00048] and the provisions of this Schedule establish a committee (to be known as “the Pharmacy Practices Committee”).
+
+#### 2. Functions[^key-b999cb5058d2258d909031d2733af14a]
+
+The Pharmacy Practices Committee shall on behalf of the Board exercise the functions of the Board in terms of regulation 5(10) and paragraph 3 of Schedule 3.
+
+#### 3. Membership[^key-19eec7aeaecdfa96daf0c938efabc7ec]
+
+(1) The Pharmacy Practices Committee shall consist of seven members of whom–
+
+- (a) one shall be the chair appointed as such by the Board; the chair shall be a member of the Board but shall not be an officer of the Board nor shall the chair be, nor previously have been, a doctor, dentist, ophthalmic optician or pharmacist or the employee of a person who is a doctor, dentist, ophthalmic optician or pharmacist;
+- (b) three shall be pharmacists of whom–
+  - (i) one shall be a pharmacist whose name is not included in any pharmaceutical list and who is not the employee of a person whose name is so listed; and such pharmacist shall be appointed by the Board from persons nominated by the Area Pharmaceutical Committee[^key-62a017170510d2a53f6f448f01d9a37f]; and
+  - (ii) two shall be pharmacists each of whom is included in a pharmaceutical list or is an employee of a person whose name is so listed; and each shall be appointed by the Board from persons nominated by the Area Pharmaceutical Committee; and
+- (c) three shall be persons appointed by the Board otherwise than from the members of the Board but none shall be nor previously have been a doctor, dentist, ophthalmic optician or a pharmacist, or an employee of a person who is a doctor, dentist, ophthalmic optician or pharmacist.
+
+(1A)[^key-f042801ecb720b5a434c1e165fbe7ef8] In the circumstances described in sub-paragraph (1B) the Pharmacy Practices Committee shall have an additional member appointed by the Board from persons nominated by the Area Medical Committee.
+
+(1B) The circumstances are where the premises that are the subject of the application are located in the same neighbourhood as premises from which a dispensing doctor dispenses.
+
+(2) Persons to act as deputies for, and corresponding in number to, each of those categories of person appointed pursuant to sub-paragraph (1) and, as the case may be, sub-paragraph (1A)[^key-e73bd59116779e2709c06a68fa74046c] shall, provided they satisfy the criteria specified in that sub-paragraph, be appointed by the Board and in the absence of any of those persons a deputy from the appropriate category shall be entitled to act in the absent person’s place.
+
+(3) If a nomination sought for the purposes of sub-paragraph (1)(b)(i) or (ii) or sub-paragraph (1A)[^key-a1d4dd9d6d44cf7938d2df3648da167b] above is not made before such date as the Board may determine, the Board may appoint as a member a person who satisfies the criteria specified in the relevant sub-paragraph.
+
+(4) The Board shall prepare and maintain lists of the persons who have been appointed, in accordance with paragraph 3(1)(a), (b)(i) or (ii), (c) or (1A)[^key-f613d37d94b93a9a99c5749a7187cc03], as the case might be, and who currently serve as members of the Pharmacy Practices Committee, and shall provide the Scottish Ministers with a copy of such lists from time to time.
+
+#### 4. Declaration of interest[^key-d0166fd15fdaad98041aa4faedef94cd]
+
+(1) Before any meeting of the Pharmacy Practices Committee begins the chair, or in the chair’s absence, the person acting as chair, shall ask the members intending to be present whether, in respect of any matter to be considered at the meeting, any of them–
+
+- (a) has an interest to declare; or
+- (b) is associated with a person who has any personal interest,
+
+and any such member who has or, as the case may be, is associated with a person who has, any such interest shall disclose it accordingly.
+
+(2) Any member who has, pursuant to the provisions of sub-paragraph (1) above, disclosed an interest or who, in the opinion, expressed to the meeting, of the chair or in the chair’s absence, the person acting as chair as the case may be, should have disclosed such an interest, shall not be present at the consideration or discussion of that matter or the voting on it, and a deputy who has no such interest may act in that member’s place.
+
+#### 5. Quorum[^key-a5706f9310f299389c24b929e33b4fce]
+
+No business shall be transacted at a meeting of the Pharmacy Practices Committee unless the chair or in the chair’s absence, the person acting as chair, one member appointed under each of paragraph 3(1)(b)(i) and (ii), and two other members appointed under paragraph 3(1)(c) are present.
+
+#### 5A. Independent legal assessor[^key-bfc95249156d491fe0cef06d0082d0a5]
+
+(1) The Board may appoint an independent legal assessor to assist them in their deliberations, including voting.
+
+(2) The independent legal assessor’s role is to provide legal and technical advice and support.
+
+#### 6. Voting[^key-14f24fc1a66a508835b500496cd9d287]
+
+(1) Subject to sub-paragraphs (2), (3) and (4) below, every application considered by the Pharmacy Practices Committee shall be considered by all members present, but shall be determined only by a majority of votes of the members present who are entitled to vote.
+
+(2)[^key-435ef8427931debeee80d32695e4cdc4] Except in the circumstances set out in paragraph (4) only a member appointed by virtue of paragraph 3(1)(c) is entitled to vote.
+
+(3) A member appointed by virtue of paragraph 3(1)(b) or 3(1A)[^key-07397c492994872bccac6d1fdfc26fab] is not entitled to vote and shall withdraw immediately before a decision on an application by voting takes place.
+
+(4) The chair, or in the chair’s absence the person acting as chair, shall not be entitled to vote at any meeting except in the case of an equality of votes of the other persons present and voting, in which case the chair shall have a casting vote.
+
+(5) The Pharmacy Practices Committee shall within ten working days of taking its decision give written notification to the Board of that decision and the information required under paragraph 3(6) of Schedule 3[^key-7b2c6d37c5f6d0ffe86626a4e708b769].
+
+#### 7. Standing orders[^key-e3bfe2eff41a6c1c298153efec2905dc]
+
+Subject to the provisions of these Regulations, the Board may make, vary or revoke standing orders with respect to the terms of office of members of the Pharmacy Practices Committee, the procedure of that committee and the making of reports of its proceedings to the Board.
+
+#### 8. Vacancy[^key-ba56b546a8a66add04f5b16393e3e7f0]
+
+The proceedings of the Pharmacy Practices Committee shall not be invalidated by any vacancy in its membership, or any defect in a member’s appointment.
+
+### PART II — NATIONAL APPEAL PANEL
+
+#### 9. Nominees for the National Appeal Panel[^key-dce0f45cd6637a22acf11ecadd9ff22a]
+
+(1) The Board shall submit the names of its nominees for the National Appeal Panel to the Scottish Ministers and shall advise them from time to time of any changes in such nominees.
+
+(2)[^key-62fb7be22bbd5506903723a294e2e37c] The persons nominated by the Board under sub-paragraph (1) must not be, nor have been previously, a doctor, dentist, ophthalmic optician or pharmacist nor a person employed by a doctor, dentist, ophthalmic optician or pharmacist.
+
+#### 10. Chair of National Appeal Panel[^key-896647ca04cfc8329520446bbe119b08][^key-5953fe8e7e8b0e5fe34156157e91f8b0]
+
+(1) After consultation with all Health Boards, the Scottish Ministers shall appoint a Chair and a substitute Chair of the National Appeal Panel.
+
+(2) Each person so appointed—
+
+- (a) shall be an advocate, a solicitor or a solicitor-advocate; but
+- (b) shall not be, nor previously have been, a doctor, dentist, ophthalmic optician, pharmacist, or person, or employee of a person, whose name is on the pharmaceutical list.
+
+(3) Where the person appointed as Chair is unable for whatever reason to fulfil the duties of the Chair, the person appointed as substitute Chair shall take the place of that person and all references to the Chair in these Regulations shall be deemed to refer to the person appointed as substitute Chair
+
+#### 11. Membership[^key-2c7993cb0026f5fadb4bb0ca7373a2a4]
+
+(1) In any case in which paragraph 5(6) of Schedule 3 falls to be applied, the Scottish Ministers shall arrange to convene in accordance with this paragraph the National Appeal Panel, the members of which shall be drawn from–
+
+- (a)[^key-c637ee45b7dd02b7f9f1b3e14a2ec1d8] the lists maintained, in accordance with paragraph 3(4), of persons falling within paragraph 3(1)(b)(i); and
+- (b) the nominees proposed in accordance with paragraph 9.
+
+(2) No member of the National Appeal Panel shall be a member of–
+
+- (a) the Board or the Pharmacy Practices Committee of the Board which considered the application; or
+- (b) any Board which was notified in terms of paragraph 1(1)(d) of Schedule 3 and which submitted representations in accordance with that paragraph.
+
+(3)[^key-5c63675689a6fa3f17853090dada6213] The National Appeal Panel shall consist of three members of whom—
+
+- (a) one shall be chair appointed as provided for in paragraph 10;
+- (b) one shall be a pharmacist; and
+- (c) one shall be nominated by the Board under paragraph 9.
+
+#### 12. Declaration of interest[^key-c8ae08527a982eaa4fa48748cb2620c3]
+
+(1) Before the start of any meeting of the National Appeal Panel the chair [^key-e550ab06d62da8fe035d632d764644fd]... shall ask the members intending to be present whether, in respect of the appeal to be considered at the meeting, any of them–
+
+- (a) has an interest to declare;
+- (b) is associated with a person who has any personal interest,
+
+and any such member who has or, as the case may be, is associated with the person who has, any such interest shall disclose it accordingly.
+
+(2) Any member who has, pursuant to the provisions of sub-paragraph (1) disclosed an interest or who, in the opinion, expressed to the meeting, of the chair [^key-c901277933c690f9d080833a9d9a1339]... should have disclosed such an interest, shall not be present at the consideration or discussion of that appeal or the voting on it.
+
+#### 13. Quorum[^key-49e255ee1a1546f0206001e3fa703b73][^key-eb86ba0dc149993170de83b64a762cf3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 14. Voting[^key-21adbc192527c64f7d7f773d28a525b1][^key-d43ffaf64d6ef9a086e4cf40952f57c1]
+
+Every appeal must be considered by all members of the National Appeal Panel convened for that purpose and determined by a majority of the votes of those members.
+
+#### 15. Notice of decision of National Appeal Panel[^key-6c09467d9cf5d5cca1858aecf241e670][^key-439d72724fdf6b7ff9cba97220a7f468]
+
+(1) The National Appeal Panel shall, within 5 working days of taking its decision, give written notification of that decision with reasons for it to the Board to whom the original application was made.
+
+(2) The Board shall—
+
+- (a) within 5 working days of receipt of such notification, intimate to the applicant and all persons mentioned in paragraph 1 of Schedule 3 that decision and the reasons for it; and
+- (b) within 5 working days of such intimation, publish that decision and the reasons for it on its website.
+
+## SCHEDULE 5 — REVOCATIONS[^key-48bbbf5b08726e3d8a4da882edf550aa]
+
+Regulation 17
+
+<table>
+<thead>
+<tr><th><em><strong>(1)</strong></em></th><th><em><strong>(2)</strong></em></th><th><em><strong>(3)</strong></em></th></tr>
+<tr><th><em><strong>Regulations revoked</strong></em></th><th><em><strong>References</strong></em></th><th><em><strong>Extent of revocation</strong></em></th></tr>
+</thead>
+<tbody>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995</td><td><a href="https://www.legislation.gov.uk/uksi/1995/414">S.I. 1995/414</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 1996</td><td><a href="https://www.legislation.gov.uk/uksi/1996/840">S.I. 1996/840</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Services (General Medical Services, Pharmaceutical Services and Charges for Drugs and Appliances) (Scotland) Amendment Regulation 1996</td><td><a href="https://www.legislation.gov.uk/uksi/1996/1504">S.I. 1996/1504</a></td><td>Regulation 3</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 1997</td><td><a href="https://www.legislation.gov.uk/uksi/1997/696">S.I. 1997/696</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pilot Schemes for Person Dental Services: Miscellaneous Provisions and Consequential Amendments) Regulations 1998</td><td><a href="https://www.legislation.gov.uk/uksi/1998/2224">S.I. 1998/2224</a></td><td>Regulation 8</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 1998</td><td><a href="https://www.legislation.gov.uk/uksi/1998/3031">S.I. 1998/3031</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 1999</td><td><a href="https://www.legislation.gov.uk/ssi/1999/57">S.S.I. 1999/57</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2001</td><td><a href="https://www.legislation.gov.uk/ssi/2001/70">S.S.I. 2001/70</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (General Medical and Pharmaceutical Services) (Scotland) Amendment Regulations 2002</td><td><a href="https://www.legislation.gov.uk/ssi/2002/111">S.S.I. 2002/111</a></td><td>Regulation 2</td></tr>
+<tr><td>The National Health Service (General Medical and Pharmaceutical Services) (Scotland) Amendment (No. 2) Regulations 2002</td><td><a href="https://www.legislation.gov.uk/ssi/2002/153">S.S.I. 2002/153</a></td><td>Regulation 2(2)</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2003</td><td><a href="https://www.legislation.gov.uk/ssi/2003/296">S.S.I. 2003/296</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2004</td><td><a href="https://www.legislation.gov.uk/ssi/2004/39">S.S.I. 2004/39</a></td><td>The whole regulations</td></tr>
+<tr><td>The Primary Medical Services (Consequential and Ancillary Amendments) (Scotland) Order 2004</td><td><a href="https://www.legislation.gov.uk/ssi/2004/212">S.S.I. 2004/212</a></td><td>Schedule 1, paragraph 4</td></tr>
+<tr><td>The Health Act 1999 (Consequential Amendments) (Nursing and Midwifery) Order 2004</td><td><a href="https://www.legislation.gov.uk/uksi/2004/1771">S.I. 2004/1771</a></td><td>Schedule, paragraph 43</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2005</td><td><a href="https://www.legislation.gov.uk/ssi/2005/327">S.S.I. 2005/327</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment (No. 2) Regulations 2005</td><td><a href="https://www.legislation.gov.uk/ssi/2005/618">S.S.I. 2005/618</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2006</td><td><a href="https://www.legislation.gov.uk/ssi/2006/143">S.S.I. 2006/143</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment (No. 2) Regulations 2006</td><td><a href="https://www.legislation.gov.uk/ssi/2006/245">S.S.I. 2006/245</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services (Scotland) Amendment (No. 3) 2006</td><td><a href="https://www.legislation.gov.uk/ssi/2006/320">S.S.I. 2006/320</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2007</td><td><a href="https://www.legislation.gov.uk/ssi/2007/208">S.S.I. 2007/208</a></td><td>The whole regulations</td></tr>
+<tr><td>The Pharmacists and Pharmacy Technicians Order 2007</td><td><a href="https://www.legislation.gov.uk/uksi/2007/289">S.I. 2007/289</a></td><td>Schedule 1, Part 2, paragraph 18</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment (No. 2) Regulations 2007</td><td><a href="https://www.legislation.gov.uk/ssi/2007/390">S.S.I. 2007/390</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services) (Scotland) Amendment (No. 3) Regulations 2007</td><td><a href="https://www.legislation.gov.uk/ssi/2007/500">S.S.I. 2007/500</a></td><td>The whole regulations</td></tr>
+<tr><td>The National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008</td><td><a href="https://www.legislation.gov.uk/ssi/2008/27">S.S.I. 2008/27</a></td><td>Schedule 3, paragraph 1</td></tr>
+<tr><td>The National Health Service (Pharmaceutical Services, Charges for Drugs and Appliances and Charges to Overseas Visitors) (Scotland) Amendment Regulations 2009</td><td><a href="https://www.legislation.gov.uk/ssi/2009/177">S.S.I. 2009/177</a></td><td>Regulation 2</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 6 — CONSEQUENTIAL AMENDMENTS
+
+Regulation 18
+
+### 1. National Health Service (General Dental Services) (Scotland) Regulations 1996[^key-e53cfce0aa0a70e7eaed9d578152d5ca]
+
+(1) The National Health Service (General Dental Services) (Scotland) Regulations 1996[^f00049] are amended as follows.
+
+(2)[^key-54bde6ea645fedcb03beadf4bd3520e0] In regulation 2 (interpretation), for the definition of “Drug Tariff” substitute–
+
+> - “Drug Tariff” means the statement prepared by the Scottish Ministers under regulation 12 of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009;
+
+### 2. Nurses and Midwives (Part of and Entries in the Register) Order of Council in Session 2004[^key-f7b8b24267dd98d25877f742647ff00d]
+
+(1) The Nurses and Midwives (Part of and Entries in the Register) Order of Council in Session 2004[^f00050] is amended as follows.
+
+(2)[^key-1ff395a04d8e19f65190a8b6a32b810c] In article 1 (citation, commencement and interpretation), in the definition of “Drug Tariff” part (b) for “regulation 9 (payments to pharmacists and standards of drugs and appliances) of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995” substitute “regulation 12 (payments to pharmacy contractors and standards of drugs and appliances) of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009”.
+
+### 3. The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^key-17e894ab049989424bc10e64def311a1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^key-09d6d573cba2e5c1b2f0af64a3363461]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. The National Health Service (Discipline Committees) (Scotland) Regulations 2006[^key-b0f504ec0e11f4ff4dbdab8a44fa5cd0]
+
+(1) The National Health Service (Discipline Committees (Scotland) Regulations 2006[^f00053] are amended as follows.
+
+(2) In regulation 2 (interpretation) in the definition of “Pharmaceutical Services Regulations”, for “the National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995” substitute “the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009”.
+
+### 6. The Administrative Justice and Tribunals Council (Listed Tribunals) (Scotland) Order 2007[^key-3ac156863d2aef5cf8c9b714cd62c7ec][^key-d1465d682147453770b535d150953d4a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. The National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008[^key-30f0ce8432b0efa8067f8b6648ad469c]
+
+(1) The National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008[^f00055] are amended as follows.
+
+(2) In regulation 2 (interpretation) in the entry for “terms of service” for “the National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995” substitute “the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009”.
+
+(This note is not part of the Regulations)
+
+These Regulations consolidate, with amendments, the National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995 (“the 1995 Regulations”) and all subsequent amendments to them are revoked by regulation 17 and Schedule 5. These Regulations now regulate the terms on which pharmaceutical services are provided under the National Health Service (Scotland) Act 1978.
+
+The “Drug Tariff” referred to in regulation 12 is published monthly as a web-based version at – http://www.isdscotland.org/isd/2245.html. An annual hard copy is published on 1st April each year. To be added to the mailing list for the hard copy distribution, email: evadis@isd.csa.scot.nhs.uk.
+
+Amendments to the 1995 Regulations in this consolidation are largely minor or consequential drafting amendments. This includes a number of defined terms that have been added to, or updated, in regulation 2 (Interpretation and application).
+
+The terms and conditions for pharmacists and pharmacy contractors (Schedule 1, paragraph 4) have been amended to include provisions relating to the provision of a Chronic Medication Service (CMS). CMS is the provision by a pharmacist of pharmaceutical care to patients with long term conditions who have registered with that pharmacist for the CMS.
+
+The terms and conditions for pharmacists and pharmacy contractors also now include a requirement to keep appropriate records for at least seven years which must be made available for inspection on request by the Scottish Ministers, the relevant Health Board or the Common Services Agency. Pharmacy contractors must also designate a person engaged by them to hold responsibility for maintaining confidentiality of patient data (Schedule 1, paragraph 14).
+
+A duty on Health Boards to consult with the public when determining applications to be included in the pharmaceutical list is now provided for in paragraph 2 of Schedule 3.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 2(5) was amended by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), Schedule 9, paragraph 19(1); section 27 was amended by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53) (“the 1980 Act”), section 20(2), by the National Health Service (Amendment) Act [1986 (c. 66)](https://www.legislation.gov.uk/ukpga/1986/66) (“the 1986 Act”), section 3(3), by S.I. [1987/2202](https://www.legislation.gov.uk/uksi/1987/2202) and by the 1990 Act, Schedule 9, paragraph 19(7) and is to be read with the Health and Medicines Act 1988 (“the 1988 Act”), section 17; section 28(1) was amended by the 1986 Act, section 3(4); section 28(A) was inserted by the Health and Social Security Act [1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48), section 7(2) and was amended by the 1988 Act, section 15; section 105(7) was amended by the 1980 Act, Schedule 6, paragraph 5 and Schedule 7 and by the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41) (“the 1983 Act”), Schedule 9, paragraph 24; see section 108(1) for the definitions of “prescribed” and “regulations”; paragraph 11(b) of Schedule 1 was amended by the 1990 Act, Schedule 5, paragraph 7. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15). The National Appeal Panel constituted under Part II of Schedule 4 to these Regulations is a listed tribunal for the purposes of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007, in terms of [S.S.I. 2007/436](https://www.legislation.gov.uk/ssi/2007/436).
+
+[^key-27b6c620eaad71075111164481a0998a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-3963592bfbd4452ba1f00a0116f87469]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2009/183/regulation/2) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^f00003]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
+
+[^key-45c716e9d6750d061759a93a28c46754]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (1.4.2018) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/68)](https://www.legislation.gov.uk/ssi/2018/68), [regs. 1](https://www.legislation.gov.uk/ssi/2018/68/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2018/68/regulation/3/a)
+
+[^f00005]: Footnote: Section 10 was amended by the 1980 Act, Schedule 6, paragraph 2, the 1990 Act, Schedule 10, paragraph 1, the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), Schedule 4, paragraph 44 and the [Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13) (“the 2005 Act”), Schedule 2, paragraph 2.
+
+[^f00006]: Footnote: Section 17N was inserted by the [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1) (“the 2004 Act”), section 4. The current directions are the “Directions as to the drugs, medicines or other substances which may, or may not, be ordered for patients in the provision of primary medical services under a general medical services contract” given on 18th March 2004, and published on Scottish Health on the Web (SHOW) at http://www.show.scot.nhs.uk/sehd/pca/PCA2004(M)11.pdf.
+
+[^key-1f53fccfe7dc8eecb599d7c1c7954a5b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 5(2)(a)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/5/2/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 10(c)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/c))
+
+[^f00007]: Footnote: Paragraph 40(2) was amended by S.I. [2007/206](https://www.legislation.gov.uk/uksi/2007/206).
+
+[^f00008]: Footnote: Section 9 was amended by the 1990 Act, section 29(4) and (5) and the 1999 Act, Schedule 4, paragraph 43(a) and (b).
+
+[^f00009]: Footnote: Section 2(1)(a) was amended by the 1983 Act, Schedule 7, paragraph 1, the 1990 Act, section 28(a), the [National Health Service Reform (Scotland) Act 2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7), schedule 1, paragraph 1(2) and the 2005 Act, schedule 2, paragraph 2(2).
+
+[^key-d319099fa7481eee8397581319a40879]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 99(2)(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/99/2/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^key-3833e059dfb1a5695d52841abe921349]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (7.12.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/367)](https://www.legislation.gov.uk/ssi/2021/367), [regs. 1](https://www.legislation.gov.uk/ssi/2021/367/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/367/regulation/3)
+
+[^key-b43277101b8e0527d3277f6d20864311]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2009/183/regulation/2) inserted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2014/148/regulation/3) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^f00011]: Footnote: Section 32D was inserted by the 2005 Act, section 27.
+
+[^key-7b65111b1b8330fadfd3d21743fd04db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [3](https://www.legislation.gov.uk/ssi/2011/32/regulation/3) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-b33d419cf9d39169ec13f5dfb8b27065]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 5(2)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/5/2/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 10(c)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/c))
+
+[^key-8984bddb46cf47f4a96378beaa8478f4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2009/183/regulation/2) substituted (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 8 para. 4(2)](https://www.legislation.gov.uk/ssi/2018/67/schedule/8/paragraph/4/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 19](https://www.legislation.gov.uk/ssi/2018/94/regulation/19))
+
+[^f00012]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30), the definition of “registered medical practitioner” was amended by the Medical Act [1983 (c. 54)](https://www.legislation.gov.uk/ukpga/1983/54), Schedule 5, paragraph 18.
+
+[^f00013]: Footnote: The definition of “electronic communication” was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21) Schedule 17, paragraph 158.
+
+[^key-e9131a911a0d9307396dd66e1595ada1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (1.4.2018) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/68)](https://www.legislation.gov.uk/ssi/2018/68), [regs. 1](https://www.legislation.gov.uk/ssi/2018/68/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2018/68/regulation/3/b)
+
+[^key-ab4a8155dd5d9fabd47bc6997f049cb3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [33(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/33/2)
+
+[^key-e19cc86753e5727a88d0d152c449ec64]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 135](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/135)
+
+[^key-f6ad275677e30a6e9b930cd5d9671c47]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 5(2)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/5/2/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 10(c)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/c))
+
+[^key-45151f953313cf607162816f3c9576bf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (31.12.2016) by [The National Health Service (Dietitian Supplementary Prescribers and Therapeutic Radiographer Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/393)](https://www.legislation.gov.uk/ssi/2016/393), [regs. 1](https://www.legislation.gov.uk/ssi/2016/393/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2016/393/regulation/9/a)
+
+[^f00015]: Footnote: [S.S.I. 2006/330](https://www.legislation.gov.uk/ssi/2006/330).
+
+[^f00016]: Footnote: O.J. No. L 311, 28.11.2001, p.67.
+
+[^f00017]: Footnote: Section 130 was amended by the Animal Health and Welfare Act [1984 (c. 40)](https://www.legislation.gov.uk/ukpga/1984/40), Schedule 1, paragraph 3 and S.I. [1994/3119](https://www.legislation.gov.uk/uksi/1994/3119), [2005/50](https://www.legislation.gov.uk/uksi/2005/50) and [2006/2407](https://www.legislation.gov.uk/uksi/2006/2407).
+
+[^key-128d5b8f080a2d47b07d15ac9b10bb2a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 99(2)(b)(i)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/99/2/b/i) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^key-ec6b436a4d4f6678f2792585916831ad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 99(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/99/2/b/ii) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^key-75c83210ecf62c7f3ba172703ec959d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) omitted (31.12.2016) by virtue of [The National Health Service (Dietitian Supplementary Prescribers and Therapeutic Radiographer Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/393)](https://www.legislation.gov.uk/ssi/2016/393), [regs. 1](https://www.legislation.gov.uk/ssi/2016/393/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2016/393/regulation/9/b)
+
+[^f00019]: Footnote: S.I. [2002/253](https://www.legislation.gov.uk/uksi/2002/253) to which there are no relevant amending instruments.
+
+[^f00020]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44); section 7 was amended by S.I. [2005/848](https://www.legislation.gov.uk/uksi/2005/848).
+
+[^key-1f91a40c586376e01c102087279236d8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 22](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/22) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-486bd012bf6fe1d3b3b086b08d6f1d7c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (24.1.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2020/420/regulation/3/a)
+
+[^key-a26acaac603b40e0f92768a5e49031ae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (1.4.2018) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/68)](https://www.legislation.gov.uk/ssi/2018/68), [regs. 1](https://www.legislation.gov.uk/ssi/2018/68/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2018/68/regulation/3/c)
+
+[^key-135c4ecf6406e4d2b8bd4dcd3903504e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 27(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/27/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-27f905272d2b7e758bade1fec50623d7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 99(2)(c)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/99/2/c) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^f00023]: Footnote: [1997 c. 46](https://www.legislation.gov.uk/ukpga/1997/46).
+
+[^M_F_078d4bb8-3e38-48a8-ef07-dac288fa7faa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 70(a)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/70/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+
+[^key-37ea87ed891a783eb57645781edd530d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/38) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00025]: Footnote: S.I. [1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213).
+
+[^f00026]: Footnote: Section 69 was amended by the Statute Law (Repeals) Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), Schedule 1, Part XII, and S.I. [1976/1213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1976/1213), [2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [3101](https://www.legislation.gov.uk/uksi/2007/3101).
+
+[^key-9f44088dbbd493e4b60ce5f359b21dd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (1.5.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2014 (S.S.I. 2014/73)](https://www.legislation.gov.uk/ssi/2014/73), [regs. 1](https://www.legislation.gov.uk/ssi/2014/73/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2014/73/regulation/9/b)
+
+[^key-9ef7f980173b1cbfeebdbf18eaf943a0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/27/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-dd648fcf8ea5011e338279f29bcb7123]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 27(c)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/27/c); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-06e3a29f6a2630e6d272f4891d038a74]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (1.5.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2014 (S.S.I. 2014/73)](https://www.legislation.gov.uk/ssi/2014/73), [regs. 1](https://www.legislation.gov.uk/ssi/2014/73/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2014/73/regulation/9/a)
+
+[^key-085f6b031e370d56e6977cddaae1a03c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (31.12.2016) by [The National Health Service (Dietitian Supplementary Prescribers and Therapeutic Radiographer Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/393)](https://www.legislation.gov.uk/ssi/2016/393), [regs. 1](https://www.legislation.gov.uk/ssi/2016/393/regulation/1), [9(c)(i)](https://www.legislation.gov.uk/ssi/2016/393/regulation/9/c/i)
+
+[^key-53ddb444f9fb0b202caea72e34e76c6e]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) omitted (31.12.2016) by virtue of [The National Health Service (Dietitian Supplementary Prescribers and Therapeutic Radiographer Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/393)](https://www.legislation.gov.uk/ssi/2016/393), [regs. 1](https://www.legislation.gov.uk/ssi/2016/393/regulation/1), [9(c)(ii)](https://www.legislation.gov.uk/ssi/2016/393/regulation/9/c/ii)
+
+[^key-2f6168f8a99c8e0967e21987ad57c4d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (31.12.2016) by [The National Health Service (Dietitian Supplementary Prescribers and Therapeutic Radiographer Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/393)](https://www.legislation.gov.uk/ssi/2016/393), [regs. 1](https://www.legislation.gov.uk/ssi/2016/393/regulation/1), [9(c)(iii)](https://www.legislation.gov.uk/ssi/2016/393/regulation/9/c/iii)
+
+[^key-47c5fa17440c15a86919dc126a9b556b]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) omitted (1.4.2018) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/68)](https://www.legislation.gov.uk/ssi/2018/68), [regs. 1](https://www.legislation.gov.uk/ssi/2018/68/regulation/1), [3(d)(i)](https://www.legislation.gov.uk/ssi/2018/68/regulation/3/d/i)
+
+[^key-9c9be821782d8fda4bdfe5873698d951]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (1.4.2018) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/68)](https://www.legislation.gov.uk/ssi/2018/68), [regs. 1](https://www.legislation.gov.uk/ssi/2018/68/regulation/1), [3(d)(ii)](https://www.legislation.gov.uk/ssi/2018/68/regulation/3/d/ii)
+
+[^key-463e7022ed34d6980506d8735f5ca6c5]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) omitted (1.4.2011) by virtue of [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011 (S.S.I. 2011/55)](https://www.legislation.gov.uk/ssi/2011/55), [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1), [sch. para. 7(2)(a)(i)](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/7/2/a/i)
+
+[^key-a3aa5225a41a6cb24def465faedbe96c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) omitted (1.4.2011) by virtue of [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011 (S.S.I. 2011/55)](https://www.legislation.gov.uk/ssi/2011/55), [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1), [sch. para. 7(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/7/2/a/ii)
+
+[^key-8894d270e30758efffaafb4f04977915]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (1.4.2011) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011 (S.S.I. 2011/55)](https://www.legislation.gov.uk/ssi/2011/55), [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1), [sch. para. 7(2)(b)](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/7/2/b)
+
+[^key-47d66ff2ec530ccb334d8a4b0bed61a7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (31.10.2019) by [The National Health Service (Serious Shortage Protocols) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/284)](https://www.legislation.gov.uk/ssi/2019/284), [regs. 1](https://www.legislation.gov.uk/ssi/2019/284/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2019/284/regulation/3/a)
+
+[^key-6dab20686a019687dbd5a0e071e4f95c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (24.1.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2020/420/regulation/3/b)
+
+[^f00027]: Footnote: Section 74 was amended by the Statute Law (Repeals) Act 1993, Schedule 1, Part XII.
+
+[^key-d66e5fbdf02e2444a8d878bb9f5a6077]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 5(2)(d)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/5/2/d) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2)) (as amended by [S.S.I. 2018/94](https://www.legislation.gov.uk/ssi/2018/94), [reg. 10(c)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/c))
+
+[^f00028]: Footnote: Paragraph 40(2) was amended by [S.S.I. 2007/206](https://www.legislation.gov.uk/ssi/2007/206).
+
+[^key-e493a4f49302b54cfc923d3f54b4565a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (31.10.2019) by [The National Health Service (Serious Shortage Protocols) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/284)](https://www.legislation.gov.uk/ssi/2019/284), [regs. 1](https://www.legislation.gov.uk/ssi/2019/284/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2019/284/regulation/3/b)
+
+[^key-79a41970ae7354701713a37778a2e518]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 70(b)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/70/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+
+[^key-3dead1ed9f1e5a6060059d0b0e1b7b6b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 27(d)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/27/d); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-e219d0c5327c8ae9efcb371fe99327b5]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) omitted (31.12.2016) by virtue of [The National Health Service (Dietitian Supplementary Prescribers and Therapeutic Radiographer Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/393)](https://www.legislation.gov.uk/ssi/2016/393), [regs. 1](https://www.legislation.gov.uk/ssi/2016/393/regulation/1), [9(d)(i)](https://www.legislation.gov.uk/ssi/2016/393/regulation/9/d/i)
+
+[^key-a6e7fc702374eff91d32d81c9b61bff8]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) omitted (31.12.2016) by virtue of [The National Health Service (Dietitian Supplementary Prescribers and Therapeutic Radiographer Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/393)](https://www.legislation.gov.uk/ssi/2016/393), [regs. 1](https://www.legislation.gov.uk/ssi/2016/393/regulation/1), [9(d)(ii)](https://www.legislation.gov.uk/ssi/2016/393/regulation/9/d/ii)
+
+[^key-997d64c8e030c214e0dadb3161677524]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (31.12.2016) by [The National Health Service (Dietitian Supplementary Prescribers and Therapeutic Radiographer Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/393)](https://www.legislation.gov.uk/ssi/2016/393), [regs. 1](https://www.legislation.gov.uk/ssi/2016/393/regulation/1), [9(d)(iii)](https://www.legislation.gov.uk/ssi/2016/393/regulation/9/d/iii)
+
+[^key-5096017714d199e481aa5ba3e68209e5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 99(2)(d)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/99/2/d) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^f00031]: Footnote: Sections 32A and 32B were inserted by section 8 of the National Health Service (Amendment) Act [1995 (c. 31)](https://www.legislation.gov.uk/ukpga/1995/31).
+
+[^key-cbc656e10e13db3439a3ff09a9dee1c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) inserted (31.12.2016) by [The National Health Service (Dietitian Supplementary Prescribers and Therapeutic Radiographer Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/393)](https://www.legislation.gov.uk/ssi/2016/393), [regs. 1](https://www.legislation.gov.uk/ssi/2016/393/regulation/1), [9(e)](https://www.legislation.gov.uk/ssi/2016/393/regulation/9/e)
+
+[^key-aba4a7b146054caa6826799a55f5b643]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 27(e)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/27/e); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^f00032]: Footnote: Section 29 was amended by the Health and Social Security Act 1984, Schedule 8, Part I and by the National Health Service (Amendment) Act 1995, sections 7 and 9 and the Schedule.
+
+[^key-cc22b82f29068c3bbadfb456217d8952]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2009/183/regulation/3) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-ed31023bdb6cfed81850e017728d8e69]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2009/183/regulation/4) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-0843a8b30e664797184e491cae2c7990]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2009/183/regulation/5) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^f00033]: Footnote: [S.S.I. 2004/38](https://www.legislation.gov.uk/ssi/2004/38). Regulation 26 was amended by [S.S.I. 2004/122](https://www.legislation.gov.uk/ssi/2004/122) and [2006/122](https://www.legislation.gov.uk/ssi/2006/122).
+
+[^key-d87c9769aa64725ae18d3ea3cd0d6d31]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/2) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2011/32/regulation/4/2) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-8b495d6efd8cf9e89c3515b2901d7f17]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/2) substituted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2014/148/regulation/4/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-9ed886ca0a5851d2a94bacea8a176bdb]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/2A) omitted (28.6.2014) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2014/148/regulation/4/b) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-6aec602858ce26b1d40040957f5c4c25]: Textual amendment: [Reg. 5(2A)-(2E)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/2A) inserted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2011/32/regulation/4/3) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-9df53998abe10c3e0c5214e76381c662]: Textual amendment: [Reg. 5(2C)(h)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/2C/h) omitted (28.6.2014) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [4(c)](https://www.legislation.gov.uk/ssi/2014/148/regulation/4/c) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-3294e032a7824101198abf3e09661b67]: Textual amendment: [Reg. 5(2C)(j)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/2C/j) inserted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [4(d)](https://www.legislation.gov.uk/ssi/2014/148/regulation/4/d) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-21d54e4a673b6247f5bb6daab458366f]: Textual amendment: Word in [reg. 5(6)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/6) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2011/32/regulation/4/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-d9280b58ab20cad4aeb9094ecdf1d69c]: Textual amendment: [Reg. 5(9)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/9) omitted (1.4.2011) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2011/32/regulation/4/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-a3c6de79dc6688674b0c98d628fbd840]: Textual amendment: [Reg. 5(10)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/10) substituted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [4(e)](https://www.legislation.gov.uk/ssi/2014/148/regulation/4/e) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-ba65db6705e0c493bdb0933277382b71]: Textual amendment: [Reg. 5(10A)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/10A) inserted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2011/32/regulation/4/6) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-d6326078fe930ff923b40a52696a77df]: Textual amendment: [Reg. 5(10B)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/10B) inserted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [4(f)](https://www.legislation.gov.uk/ssi/2014/148/regulation/4/f) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-5be8cba3c9faa22be55695c5df33c0f0]: Textual amendment: [Reg. 5(11)](https://www.legislation.gov.uk/ssi/2009/183/regulation/5/11) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [4(7)](https://www.legislation.gov.uk/ssi/2011/32/regulation/4/7) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-d95ffbb12a6486f7ee1765680b2b3841]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/ssi/2009/183/regulation/5A) inserted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2014/148/regulation/5) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-e3c6e3d5b8d3c8fa4b421e27cda7a7f5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2009/183/regulation/6) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-5012981f5a126bb6af56f95fa3ffca7b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2009/183/regulation/7) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^f00034]: Footnote: Section 29B(2) was added by the 1999 Act, section 58, and amended by the [Community Care and Health (Scotland) Act 2002 (asp 5)](https://www.legislation.gov.uk/asp/2002/5), Schedule 2, paragraph 2, the 2004 Act, Schedule 1, paragraph 1, and the 2005 Act, section 26(4) and schedule 3.
+
+[^f00035]: Footnote: Section 30(2) and (5) was substituted by the 1999 Act, section 58, and amended by the 2005 Act, Schedule 3.
+
+[^f00036]: Footnote: Section 32B(1) was inserted by the 1999 Act, section 65 and Schedule 4, paragraph 52, and amended by the 2005 Act, schedule 3.
+
+[^key-f1ca11d22594ad528cca3cbd4d3ec168]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2009/183/regulation/8) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-b7b38cb491ab0a6f9abafa8668411960]: Textual amendment: [Reg. 8(2)(a)](https://www.legislation.gov.uk/ssi/2009/183/regulation/8/2/a)[(ab)](https://www.legislation.gov.uk/ssi/2009/183/regulation/8/2/ab) substituted for [reg. 8(2)(a)](https://www.legislation.gov.uk/ssi/2009/183/regulation/8/2/a) (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2011/32/regulation/5/a) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-5f986eb19144148832b58189f0a01575]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/ssi/2009/183/regulation/8/4) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2011/32/regulation/5/b) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-6de3018ccc19a51736f7b902d4526ba8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2009/183/regulation/9) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-82a8bb17caa9c6c8bbcde0d0343d9fb6]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2009/183/regulation/9/1) substituted (1.7.2009) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/209)](https://www.legislation.gov.uk/ssi/2009/209), [regs. 1](https://www.legislation.gov.uk/ssi/2009/209/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/209/regulation/2/3)
+
+[^key-efe1275f0f9ee3f75a34e3dfdf3ffcf5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2009/183/regulation/10) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^f00037]: Footnote: S.I. [1995/414](https://www.legislation.gov.uk/uksi/1995/414), amended by S.I. [1996/840](https://www.legislation.gov.uk/uksi/1996/840) and [1504](https://www.legislation.gov.uk/uksi/1996/1504), [1997/696](https://www.legislation.gov.uk/uksi/1997/696), [1998/2224](https://www.legislation.gov.uk/uksi/1998/2224) and [3031](https://www.legislation.gov.uk/uksi/1998/3031), [S.S.I. 1999/57](https://www.legislation.gov.uk/ssi/1999/57), [2001/70](https://www.legislation.gov.uk/ssi/2001/70), [2002/111](https://www.legislation.gov.uk/ssi/2002/111), [2003/296](https://www.legislation.gov.uk/ssi/2003/296), [2004/39](https://www.legislation.gov.uk/ssi/2004/39) and [212](https://www.legislation.gov.uk/ssi/2004/212), S.I. [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.S.I. 2005/327](https://www.legislation.gov.uk/ssi/2005/327) and [618](https://www.legislation.gov.uk/ssi/2005/618), [2006/143](https://www.legislation.gov.uk/ssi/2006/143), [245](https://www.legislation.gov.uk/ssi/2006/245) and [320](https://www.legislation.gov.uk/ssi/2006/320), S.I. [2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [S.S.I. 2007/208](https://www.legislation.gov.uk/ssi/2007/208), [390](https://www.legislation.gov.uk/ssi/2007/390) and [500](https://www.legislation.gov.uk/ssi/2007/500) and [2008/27](https://www.legislation.gov.uk/ssi/2008/27).
+
+[^key-cad06c8507c9b266ec61ac4ffb7ed3b0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2009/183/regulation/11) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-1eee4bbce4e4b0c0f3ab1be4db6c4dd5]: Textual amendment: Word in [reg. 11(5)](https://www.legislation.gov.uk/ssi/2009/183/regulation/11/5) substituted (1.7.2009) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/209)](https://www.legislation.gov.uk/ssi/2009/209), [regs. 1](https://www.legislation.gov.uk/ssi/2009/209/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2009/209/regulation/2/4)
+
+[^key-46a56bfec2e339dde6baa10e26580033]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2009/183/regulation/12) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^f00038]: Footnote: “The Drug Tariff is published monthly as a web-based version at http://www.isdscotland.org/isd/2245.html. An annual hard copy is published on 1st April each year. To be added to the mailing list for the hard copy distribution, email: evadis@isd.csa.scot.nhs.uk”.
+
+[^key-368022c546ecac08ad9a85e3fa035bf0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2009/183/regulation/13) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-fd1b57e2549226bf768540c521479714]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2009/183/regulation/14) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-0685b4eb20d7fb1a058616778c5d918b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2009/183/regulation/15) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-2631592bd4269d1a7ebbbc5839a30aad]: Textual amendment: [Reg. 15(1)(ba)](https://www.legislation.gov.uk/ssi/2009/183/regulation/15/1/ba) inserted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [6](https://www.legislation.gov.uk/ssi/2011/32/regulation/6) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-87e776b2f85c9c9bad0a2a60cc4f5dd9]: Textual amendment: Word in [reg. 15(1)(d)](https://www.legislation.gov.uk/ssi/2009/183/regulation/15/1/d) omitted (28.6.2014) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2014/148/regulation/6/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-92f2fb4d2389ef47c3384bcf0f1652f3]: Textual amendment: Word in [reg. 15(1)(e)](https://www.legislation.gov.uk/ssi/2009/183/regulation/15/1/e) substituted (1.7.2009) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/209)](https://www.legislation.gov.uk/ssi/2009/209), [regs. 1](https://www.legislation.gov.uk/ssi/2009/209/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2009/209/regulation/2/5)
+
+[^key-cb2da7703b901d8f9d4c548b37a537d1]: Textual amendment: Word in [reg. 15(1)(e)](https://www.legislation.gov.uk/ssi/2009/183/regulation/15/1/e) inserted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [6(b)](https://www.legislation.gov.uk/ssi/2014/148/regulation/6/b) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-06622d7497fb03b39a175385b89060bd]: Textual amendment: [Reg. 15(1)(f)](https://www.legislation.gov.uk/ssi/2009/183/regulation/15/1/f) inserted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [6(c)](https://www.legislation.gov.uk/ssi/2014/148/regulation/6/c) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-a6f9e97229749087c5f54fd006b1a72c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2009/183/regulation/16) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-901292a7b3495fad905359aa83acbf2f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2009/183/regulation/17) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-93f7b1280305f2eae38fbc9ffc502725]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2009/183/regulation/18) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-0b1a9e00d0f2cff71df6a6a8ee4eea5f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/1) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-a803cfe5a29bfad69090fe72c7df8e35]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/2) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-e39378bfaf524008c476b68de55ff587]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/3) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-ce4b37ed526e6906a35939c31bfebdff]: Textual amendment: Word in [sch. 1 para. 3(d)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/3/d) omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 5(2)(a)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/5/2/a)
+
+[^key-a3063c8ea5fdfa3e156343680f6bb66a]: Textual amendment: [Sch. 1 para. 3(f)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/3/f) and word inserted (1.4.2012) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 5(2)(b)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/5/2/b)
+
+[^key-7b56f9167657134d75af80e5ed3360ec]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-849f4599cbfc7e317b205ac7c095c8e1]: Textual amendment: [Sch. 1 para. 4(1)(b)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/1/b) and words substituted (1.4.2011) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011 (S.S.I. 2011/55)](https://www.legislation.gov.uk/ssi/2011/55), [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1), [sch. para. 7(3)(a)](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/7/3/a)
+
+[^key-6e43211cf1e2a776088fc06ae64434dc]: Textual amendment: [Sch. 1 para. 4(1A)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/1A) inserted (1.5.2010) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/128)](https://www.legislation.gov.uk/ssi/2010/128), [regs. 1](https://www.legislation.gov.uk/ssi/2010/128/regulation/1), [2](https://www.legislation.gov.uk/ssi/2010/128/regulation/2)
+
+[^key-b3bace932d9aa785e24fd7bc9e2a37cb]: Textual amendment: [Sch. 1 para. 4(1B)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/1B) inserted (1.4.2011) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011 (S.S.I. 2011/55)](https://www.legislation.gov.uk/ssi/2011/55), [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1), [sch. para. 7(3)(b)](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/7/3/b)
+
+[^key-ae82b981c08c99fb7e48fca77d6210fe]: Textual amendment: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) substituted (1.7.2009) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/209)](https://www.legislation.gov.uk/ssi/2009/209), [regs. 1](https://www.legislation.gov.uk/ssi/2009/209/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2009/209/regulation/2/6)
+
+[^key-ad47af030d59621b92b721f921dbb9fd]: Textual amendment: Words in [sch. 1 para. 4(2)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) substituted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/2/a/i)
+
+[^key-0f46a2e3fec949e604992cbe7d2e4a26]: Textual amendment: Words in [sch. 1 para. 4(2)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) substituted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/2/a/ii)
+
+[^key-d4577e80af9b37f3f4dadfb6729ab7a8]: Textual amendment: [Sch. 1 para. 4(2)(aa)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) inserted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/2/b)
+
+[^key-5499e9bc0a9167a68f6d967dd0898ca9]: Textual amendment: Words in [sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) inserted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(2)(c)(i)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/2/c/i)
+
+[^key-0f36983e245a3698c2fc5359f38d3afa]: Textual amendment: Word in [sch. 1 para. 4(2)(b)(i)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) substituted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/2/c/ii)
+
+[^key-bf91fbf93e409ff9202e4bfde31fa0a6]: Textual amendment: Words in [sch. 1 para. 4(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2/b/ii) substituted (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 8 para. 4(3)](https://www.legislation.gov.uk/ssi/2018/67/schedule/8/paragraph/4/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
+
+[^key-32154385930a9a2dcc060cf27636bf09]: Textual amendment: Word in [sch. 1 para. 4(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) inserted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(2)(c)(iii)(aa)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/2/c/iii)
+
+[^key-009d863f398b9627df8e6b943e02c1c2]: Textual amendment: Words in [sch. 1 para. 4(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) inserted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(2)(c)(iii)(bb)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/2/c/iii)
+
+[^key-00b33ffa83fa557b6457f541f6cbc110]: Textual amendment: Words in [sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) substituted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(2)(c)(iv)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/2/c/iv)
+
+[^key-07ffcac984796e27cb85c0908f5e1327]: Textual amendment: Word in [sch. 1 para. 4(2)(c)(i)(bb)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2/c/i/bb) substituted (1.5.2014) by [The National Health Service (Physiotherapist, Podiatrist or Chiropodist Independent Prescribers) (Miscellaneous Amendments) (Scotland) Regulations 2014 (S.S.I. 2014/73)](https://www.legislation.gov.uk/ssi/2014/73), [regs. 1](https://www.legislation.gov.uk/ssi/2014/73/regulation/1), [10](https://www.legislation.gov.uk/ssi/2014/73/regulation/10)
+
+[^key-d79943c858bded986228fe6f43e482fc]: Textual amendment: Word in [sch. 1 para. 4(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) substituted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(2)(d)(i)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/2/d/i)
+
+[^key-d2906797801e6f63c34f6ab780e28cba]: Textual amendment: Words in [sch. 1 para. 4(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2) omitted (12.2.2021) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/2/d/ii)
+
+[^key-89770b302b242caa64202f5d22cf5a1b]: Textual amendment: [Sch. 1 para. 4(2A)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/2A) inserted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/3)
+
+[^key-030f5868e381f8b4fa9ecc7f4670ef04]: Textual amendment: Word in [sch. 1 para. 4(3)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/3) substituted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(4)(a)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/4/a)
+
+[^key-d16cf3f097a56748246c7baec27a722b]: Textual amendment: Words in [sch. 1 para. 4(3)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/3) substituted (12.2.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/3), [4(4)(b)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/4/b)
+
+[^f00040]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
+
+[^f00041]: Footnote: S.I. [2001/398](https://www.legislation.gov.uk/uksi/2001/398). Schedule 5 was amended by S.I. [2005/2864](https://www.legislation.gov.uk/uksi/2005/2864).
+
+[^key-622a6048bc31d7b040054e1cd4bf51b2]: Textual amendment: Word in [sch. 1 para. 4(10)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/10) substituted (1.7.2009) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/209)](https://www.legislation.gov.uk/ssi/2009/209), [regs. 1](https://www.legislation.gov.uk/ssi/2009/209/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2009/209/regulation/2/7)
+
+[^f00042]: Footnote: Schedule 4 was amended by S.I. [2003/1432](https://www.legislation.gov.uk/uksi/2003/1432), [2005/3372](https://www.legislation.gov.uk/uksi/2005/3372) and [2007/2154](https://www.legislation.gov.uk/uksi/2007/2154).
+
+[^key-28003eaa866585a2306ffffa770aee9e]: Textual amendment: Words in [sch. 1 para. 4(11)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/11) substituted (24.1.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/5/a)
+
+[^key-b3d5eaf0d4c176b0062d42f503026fe7]: Textual amendment: Words in [sch. 1 para. 4(11)(a)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/11) omitted (24.1.2021) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/2), [4(5)(b)(i)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/5/b/i)
+
+[^key-d5e2f290da8666d4b154af3b53f667c4]: Textual amendment: Words in [sch. 1 para. 4(11)(a)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/11) substituted (24.1.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/2), [4(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/5/b/ii)
+
+[^key-086be47b5539526e07a7e3e370880f1c]: Textual amendment: Words in [sch. 1 para. 4(11)(b)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/11) omitted (24.1.2021) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/2), [4(5)(c)(i)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/5/c/i)
+
+[^key-2acac0ea8edbdbaa84800c95a0d53d3a]: Textual amendment: Words in [sch. 1 para. 4(11)(b)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/11) substituted (24.1.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/2), [4(5)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/5/c/ii)
+
+[^key-3d4abbaeb56ffce303b6e7ad04402056]: Textual amendment: Words in [sch. 1 para. 4(12)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/12) inserted (7.12.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/367)](https://www.legislation.gov.uk/ssi/2021/367), [regs. 1](https://www.legislation.gov.uk/ssi/2021/367/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2021/367/regulation/4/2)
+
+[^key-a418dbc868b00c4df16f0b7a731ea021]: Textual amendment: Words in [sch. 1 para. 4(13)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/13) inserted (7.12.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/367)](https://www.legislation.gov.uk/ssi/2021/367), [regs. 1](https://www.legislation.gov.uk/ssi/2021/367/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2021/367/regulation/4/3)
+
+[^key-89cce0c190a81cb6b9274e2e76698fd0]: Textual amendment: [Sch. 1 para. 4(13A)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/13A) inserted (7.12.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/367)](https://www.legislation.gov.uk/ssi/2021/367), [regs. 1](https://www.legislation.gov.uk/ssi/2021/367/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2021/367/regulation/4/4)
+
+[^key-b64293a45bb9522624e9679832de8ba8]: Textual amendment: [Sch. 1 para. 4(14)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/14) substituted (1.4.2011) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011 (S.S.I. 2011/55)](https://www.legislation.gov.uk/ssi/2011/55), [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1), [sch. para. 7(3)(c)](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/7/3/c)
+
+[^key-09fe4492e2f62f172a58352eb4c75c25]: Textual amendment: Words in [sch. 1 para. 4(16)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/16) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Poisons and Explosives Precursors) (Consequential Amendments, Revocations and Transitional Provisions) Order 2015 (S.I. 2015/968)](https://www.legislation.gov.uk/uksi/2015/968), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/968/article/1/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/968/schedule/paragraph/8)
+
+[^f00046]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72).
+
+[^key-405e9ed3cd5ee047ab49be598f66bcb3]: Textual amendment: Words in [sch. 1 para. 4(23)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/23) inserted (31.10.2019) by [The National Health Service (Serious Shortage Protocols) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/284)](https://www.legislation.gov.uk/ssi/2019/284), [regs. 1](https://www.legislation.gov.uk/ssi/2019/284/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2019/284/regulation/4/a)
+
+[^key-1d1d29ef117d29a4d22bfa15834c46ff]: Textual amendment: Word in [sch. 1 para. 4(23)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/23) substituted (24.1.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/2), [4(6)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/6)
+
+[^key-01bd1f42bc7650be942699dd2fa429d4]: Textual amendment: Words in [sch. 1 para. 4(23)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/23) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 99(3)(a)(i)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/99/3/a/i) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^key-e4958fa68b685468dec11e8518c3c1b1]: Textual amendment: Words in [sch. 1 para. 4(29)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/29) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 99(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/99/3/a/ii) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+
+[^key-7946ffaa0d7089783d6ed98cf27681ca]: Textual amendment: [Sch. 1 para. 4(30)-(38)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/30) inserted (31.10.2019) by [The National Health Service (Serious Shortage Protocols) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/284)](https://www.legislation.gov.uk/ssi/2019/284), [regs. 1](https://www.legislation.gov.uk/ssi/2019/284/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2019/284/regulation/4/b)
+
+[^key-d3e5b31f38c44e4bc4910532fb52bead]: Textual amendment: [Sch. 1 para. 4(39)-(43)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/4/39) inserted (24.1.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/2), [4(7)](https://www.legislation.gov.uk/ssi/2020/420/regulation/4/7)
+
+[^key-9cc942a6e7e5a548f0136c327e4eb0ed]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/5) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-0b6eaf9a476bea02b0a5d1b7f97d72d4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/6) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-e47ed29195d4425911b0eaf812e6f4d6]: Textual amendment: Words in [sch. 1 para. 6(4)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/6/4) inserted (7.12.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/367)](https://www.legislation.gov.uk/ssi/2021/367), [regs. 1](https://www.legislation.gov.uk/ssi/2021/367/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2021/367/regulation/5/2)
+
+[^key-77275c715a059ee024396e1cea4e13d4]: Textual amendment: [Sch. 1 para. 6(4A)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/6/4A) inserted (7.12.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/367)](https://www.legislation.gov.uk/ssi/2021/367), [regs. 1](https://www.legislation.gov.uk/ssi/2021/367/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2021/367/regulation/5/3)
+
+[^key-9a0c097546ccc480aa19230ff2fc7c50]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/7) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-0e17728c1dfe520492e9d213e7cbbc48]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/8) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-a83dddd6c724fe7a8624a099c5caf78b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/9) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-4adab7c372f3dd348975e9bbdeaecaa5]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/10) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-a515d75a9e7da0c938404ca589d56161]: Textual amendment: [Sch. 1 para. 10(8)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/10/8) substituted (24.1.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/420)](https://www.legislation.gov.uk/ssi/2020/420), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/420/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2020/420/regulation/5)
+
+[^key-3845b08b9bbbafc5919a5754f3e8ba36]: Textual amendment: Words in [sch. 1 para. 10(8)](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/10/8) inserted (7.12.2021) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/367)](https://www.legislation.gov.uk/ssi/2021/367), [regs. 1](https://www.legislation.gov.uk/ssi/2021/367/regulation/1), [6](https://www.legislation.gov.uk/ssi/2021/367/regulation/6)
+
+[^key-87279f005aee91f8020578db0a6274c4]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/11) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-78d483b90afa809a64acbd35cc290410]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/12) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-7aea284328ed014a343cbb74f5b3e31f]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/12) substituted (1.4.2012) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 5(3)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/5/3)
+
+[^key-75916f9e150fb6b89bbb0a7f6fa25598]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/13) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-b320abfa6d3aa537195eb3449e49debf]: Textual amendment: Words in [sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/13) substituted (1.4.2012) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 5(4)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/5/4)
+
+[^key-57502c396d2813616957ead94c18ce6f]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/14) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-ce074ffeab327662722ee33e3f390d30]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ssi/2009/183/schedule/1/paragraph/15) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-82d9230ae5f47192a5373ca9f7023454]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2009/183/schedule/2) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-836a48c7942d6d3c313fd207177ba6ce]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2009/183/schedule/2) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [7](https://www.legislation.gov.uk/ssi/2011/32/regulation/7) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-ce6ff263741e3df1188ce3d072b451d1]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2009/183/schedule/2) Form A(1) substituted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2014/148/regulation/7), [sch.](https://www.legislation.gov.uk/ssi/2014/148/schedule) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-e8fa899ea216237a8a444799df870d0c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/1) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-6511eeaf81ab23fff23c86d8ae0f1b6d]: Textual amendment: [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/1/1) substituted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2014/148/regulation/8/2) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-681bc87c0c8985ec348d7e342dac3683]: Textual amendment: [Sch. 3 paras. 1A](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/1A), [1B](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/1B) inserted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2014/148/regulation/8/3) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-a7c8b4323698274e5e5c2ad09debff4b]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/2) omitted (28.6.2014) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [8(4)](https://www.legislation.gov.uk/ssi/2014/148/regulation/8/4) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-36a24a4b026a95751de300d32b1cd42f]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/2) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-b695e41fdc8a7a0183fc7994f7a9a71c]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/2A) inserted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2011/32/regulation/8/3) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-f13b20f0e05188a538b3e930ffaa4c36]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/3) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-f7d4035b43ca67fc2cb12020e7ec0bcf]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/3) substituted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [8(5)](https://www.legislation.gov.uk/ssi/2014/148/regulation/8/5) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-8bc4dd9a4bd5c256d98ed6ff3c32d0de]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/4) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-a345c19e28617bfc5e113a0828c5961b]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/4) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [8(5)](https://www.legislation.gov.uk/ssi/2011/32/regulation/8/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-c746e71704a635d7cec70d31c3d21888]: Textual amendment: Words in [sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/4) substituted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [8(6)](https://www.legislation.gov.uk/ssi/2014/148/regulation/8/6) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-02da20a2d5bd7d1c2b528af6df24a9c6]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/5) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-2d8bbeb3bebbde57c9f720b04549d902]: Textual amendment: [Sch. 3 para. 5(2A)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/5/2A)[(2B)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/5/2B) inserted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [8(6)(a)](https://www.legislation.gov.uk/ssi/2011/32/regulation/8/6/a) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-16e2eb7e7666d8051ddaca03ef6e89b2]: Textual amendment: [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/5/3) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [8(6)(b)](https://www.legislation.gov.uk/ssi/2011/32/regulation/8/6/b) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-ddca7d0a6af61e5e4944e010f73b4123]: Textual amendment: Words in [sch. 3 para. 5(4)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/5/4) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [8(6)(c)](https://www.legislation.gov.uk/ssi/2011/32/regulation/8/6/c) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-123741cf815ca562cb993dd96bf0b384]: Textual amendment: [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/5/5) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [8(6)(d)](https://www.legislation.gov.uk/ssi/2011/32/regulation/8/6/d) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-b46a444f01fb3aec729dc27fabdfe342]: Textual amendment: [Sch. 3 para. 5(7)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/5/7) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [8(6)(e)](https://www.legislation.gov.uk/ssi/2011/32/regulation/8/6/e) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-e2803d5ef90403d55fcec9bb00b2992c]: Textual amendment: [Sch. 3 para. 5(7A)-(7C)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/5/7A) inserted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [8(7)](https://www.legislation.gov.uk/ssi/2014/148/regulation/8/7) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-e7110cdfa628b4d5f67c6ccd7dc3bb84]: Textual amendment: [Sch. 3 para. 5(8)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/5/8) omitted (1.4.2011) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [8(6)(f)](https://www.legislation.gov.uk/ssi/2011/32/regulation/8/6/f) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-85ee74507f4981e746e3d4e59d86eb55]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/6) inserted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [8(7)](https://www.legislation.gov.uk/ssi/2011/32/regulation/8/7) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-ba23a51b042de626293a60c2ff73a7f0]: Textual amendment: [Sch. 3 para. 6(4)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/6/4) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 79(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/79/a)
+
+[^key-23ae971b9ae78f1f6cd17521bd1a09fe]: Textual amendment: Words in [sch. 3 para. 6(6)](https://www.legislation.gov.uk/ssi/2009/183/schedule/3/paragraph/6/6) inserted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [8(8)](https://www.legislation.gov.uk/ssi/2014/148/regulation/8/8) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-ea67bb36012c1d927a71a7dfc2a4ee8d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/1) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^f00048]: Footnote: SS.I. [2001/302](https://www.legislation.gov.uk/uksi/2001/302). Amended by [S.S.I. 2004/212](https://www.legislation.gov.uk/ssi/2004/212) and [2005/108](https://www.legislation.gov.uk/ssi/2005/108).
+
+[^key-b999cb5058d2258d909031d2733af14a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/2) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-19eec7aeaecdfa96daf0c938efabc7ec]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/3) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-62a017170510d2a53f6f448f01d9a37f]: Textual amendment: Words in [sch. 4 para. 3(1)(b)(i)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/3/1/b/i) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-f042801ecb720b5a434c1e165fbe7ef8]: Textual amendment: [Sch. 4 para. 3(1A)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/3/1A)[(1B)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/3/1B) inserted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(3)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-e73bd59116779e2709c06a68fa74046c]: Textual amendment: Words in [sch. 4 para. 3(2)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/3/2) inserted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-a1d4dd9d6d44cf7938d2df3648da167b]: Textual amendment: Words in [sch. 4 para. 3(3)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/3/3) inserted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-f613d37d94b93a9a99c5749a7187cc03]: Textual amendment: Words in [sch. 4 para. 3(4)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/3/4) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(6)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-d0166fd15fdaad98041aa4faedef94cd]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/4) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-a5706f9310f299389c24b929e33b4fce]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/5) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-bfc95249156d491fe0cef06d0082d0a5]: Textual amendment: [Sch. 4 para. 5A](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/5A) inserted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [9(a)](https://www.legislation.gov.uk/ssi/2014/148/regulation/9/a) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-14f24fc1a66a508835b500496cd9d287]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/6) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-435ef8427931debeee80d32695e4cdc4]: Textual amendment: [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/6/2) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(7)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/7) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-07397c492994872bccac6d1fdfc26fab]: Textual amendment: Words in [sch. 4 para. 6(3)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/6/3) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(8)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-7b2c6d37c5f6d0ffe86626a4e708b769]: Textual amendment: Words in [sch. 4 para. 6(5)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/6/5) substituted (28.6.2014) by [The National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/148)](https://www.legislation.gov.uk/ssi/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2014/148/regulation/9/b) (with [reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14))
+
+[^key-e3bfe2eff41a6c1c298153efec2905dc]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/7) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-ba56b546a8a66add04f5b16393e3e7f0]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/8) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-dce0f45cd6637a22acf11ecadd9ff22a]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/9) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-62fb7be22bbd5506903723a294e2e37c]: Textual amendment: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/9/2) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(9)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/9) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-896647ca04cfc8329520446bbe119b08]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/10) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-5953fe8e7e8b0e5fe34156157e91f8b0]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/10) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(10)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/10) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-2c7993cb0026f5fadb4bb0ca7373a2a4]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/11) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-c637ee45b7dd02b7f9f1b3e14a2ec1d8]: Textual amendment: [Sch. 4 para. 11(1)(a)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/11/1/a) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(11)(a)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/11/a) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-5c63675689a6fa3f17853090dada6213]: Textual amendment: [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/11/3) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(11)(b)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/11/b) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-c8ae08527a982eaa4fa48748cb2620c3]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/12) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-e550ab06d62da8fe035d632d764644fd]: Textual amendment: Words in [sch. 4 para. 12(1)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/12/1) omitted (1.4.2011) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(12)(a)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/12/a) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-c901277933c690f9d080833a9d9a1339]: Textual amendment: Words in [sch. 4 para. 12(2)](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/12/2) omitted (1.4.2011) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(12)(b)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/12/b) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-49e255ee1a1546f0206001e3fa703b73]: Textual amendment: [Sch. 4 para. 13](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/13) omitted (1.4.2011) by virtue of [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(13)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/13) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-eb86ba0dc149993170de83b64a762cf3]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/13) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-21adbc192527c64f7d7f773d28a525b1]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/14) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-d43ffaf64d6ef9a086e4cf40952f57c1]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/14) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(14)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/14) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-6c09467d9cf5d5cca1858aecf241e670]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/15) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-439d72724fdf6b7ff9cba97220a7f468]: Textual amendment: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2009/183/schedule/4/paragraph/15) substituted (1.4.2011) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/32)](https://www.legislation.gov.uk/ssi/2011/32), [regs. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2011/32/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10))
+
+[^key-48bbbf5b08726e3d8a4da882edf550aa]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2009/183/schedule/5) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-e53cfce0aa0a70e7eaed9d578152d5ca]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/1) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^f00049]: Footnote: [S.S.I. 1996/177](https://www.legislation.gov.uk/ssi/1996/177).
+
+[^key-54bde6ea645fedcb03beadf4bd3520e0]: Textual amendment: [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/1/2) substituted (1.7.2009) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/209)](https://www.legislation.gov.uk/ssi/2009/209), [regs. 1](https://www.legislation.gov.uk/ssi/2009/209/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2009/209/regulation/2/9/a)
+
+[^key-f7b8b24267dd98d25877f742647ff00d]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/2) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^f00050]: Footnote: S.I. [2004/1765](https://www.legislation.gov.uk/uksi/2004/1765).
+
+[^key-1ff395a04d8e19f65190a8b6a32b810c]: Textual amendment: [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/2/2) substituted (1.7.2009) by [The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/209)](https://www.legislation.gov.uk/ssi/2009/209), [regs. 1](https://www.legislation.gov.uk/ssi/2009/209/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/ssi/2009/209/regulation/2/9/b)
+
+[^key-17e894ab049989424bc10e64def311a1]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/3) revoked (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2018/67/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
+
+[^key-09d6d573cba2e5c1b2f0af64a3363461]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/4) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+
+[^key-b0f504ec0e11f4ff4dbdab8a44fa5cd0]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/5) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^f00053]: Footnote: [S.S.I. 2006/330](https://www.legislation.gov.uk/ssi/2006/330).
+
+[^key-3ac156863d2aef5cf8c9b714cd62c7ec]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/6) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 79(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/79/b)
+
+[^key-d1465d682147453770b535d150953d4a]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/6) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^key-30f0ce8432b0efa8067f8b6648ad469c]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/7) in force at 1.7.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1)
+
+[^f00055]: Footnote: [S.S.I. 2008/27](https://www.legislation.gov.uk/ssi/2008/27).

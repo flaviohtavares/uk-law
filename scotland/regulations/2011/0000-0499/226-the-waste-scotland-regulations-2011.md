@@ -1,0 +1,706 @@
+---
+title: The Waste (Scotland) Regulations 2011
+id: ssi/2011/226
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-16'
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/226
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/226/pdfs/ssien_20110226_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/226/pdfs/ssi_20110226_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/226/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Waste (Scotland) Regulations 2011
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 226
+
+Environmental Protection
+
+The Waste (Scotland) Regulations 2011
+
+Made
+
+16th March 2011
+
+Coming into force
+
+27th March 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2 of the Pollution Prevention and Control Act 1999 (“**the 1999 Act**”) [^c20785211] and paragraph 1A of Schedule 2 to the European Communities Act 1972 (“**the 1972 Act**”) [^c20785221] and all other powers enabling them to do so.
+
+In accordance with section 2(4) of the 1999 Act, they have consulted with the Scottish Environment Protection Agency, such bodies or persons appearing to them to be representative of the interests of local government, industry, agriculture and small businesses respectively as they consider appropriate, and such other bodies or persons as they consider appropriate.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act, and it appears to the Scottish Ministers that it is expedient for the reference in regulation 6 to Commission Decision [2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532) [^c20785231] to be a reference to that instrument as amended from time to time.
+
+In accordance with section 2(8) of the 1999 Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Waste (Scotland) Regulations 2011 and come into force on 27th March 2011.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Amendment of the Environmental Protection Act 1990
+
+(1) The Environmental Protection Act 1990 [^c20785241] is amended as follows.
+
+(2) In section 29 (preliminary)—
+
+- (a) after subsection (5) insert—
+
+  > (5A) In relation to controlled waste—
+  >
+  > - (a) a reference to the management of such waste is a reference to the collection, transport, recovery and disposal of such waste and includes—
+  >   - (i) the supervision of such operations;
+  >   - (ii) the after-care of disposal sites; and
+  >   - (iii) actions taken as a broker or dealer;
+  > - (b) “**collection**” means the gathering of such waste, including the preliminary sorting and preliminary storage of such waste for the purposes of transport to a waste treatment facility; and
+  > - (c) “**recovery**” refers to any of the operations listed in Part III of Schedule 4 to the Waste Management Licensing (Scotland) Regulations 2011, and any other operation the principal result of which is waste serving a useful purpose by replacing other materials which would otherwise have been used to fulfil a particular function, or waste being prepared to fulfil that function, in a plant or in the wider economy,
+  >
+  > and cognate expressions shall be construed accordingly.
+
+  ; and
+- (b) in subsection (6), for “includes its disposal by way of deposit in or on land” substitute “ has the meaning given by regulation 2(1) of the Waste Management Licensing (Scotland) Regulations 2011 ”.
+
+(3) In section 33(1)(c) (prohibition on unauthorised or harmful deposit etc. of waste), for “treat, keep or dispose of” substitute “ keep or manage ”.
+
+(4) In section 34 (duty of care etc.)—
+
+- (a) in subsection (1)—
+  - (i) after “broker” insert “ or dealer ”; and
+  - (ii) omit the “and” immediately following paragraph (b) and after that paragraph insert—
+
+    > - (ba) on the transfer of any waste oil, to ensure that this is separately collected where technically feasible; and
+
+    ;
+- (b) after subsection (2) insert—
+
+  > (2A) It shall be the duty of any person who produces, keeps or manages controlled waste, or as a broker or dealer has control of such waste, to take all such measures available to that person as are reasonable in the circumstances to apply the waste hierarchy set out in Article 4(1) of the Waste Directive.
+  >
+  > (2B) The duty in subsection (2A)—
+  >
+  > - (a) may be departed from where this is justified having regard to the overall impacts of the generation and management of such waste; and
+  > - (b) does not apply to an occupier of domestic property as respects the household waste produced on the property.
+  >
+  > (2C) The Scottish Ministers may give guidance on the discharge of the duty in subsection (2A), including the circumstances in which that duty may be departed from under subsection (2B)(a).
+  >
+  > (2D) A person seeking to discharge the duty in subsection (2A) must, in doing so, have regard to any guidance given under subsection (2C).
+
+  ;
+- (c) after subsection (4A) insert—
+
+  > (4B) In this section—
+  >
+  > - “**separately collected**” means collected separately from other types of waste so as to facilitate a specific treatment;
+  > - “**waste oil**” means any mineral or synthetic lubrication or industrial oil which has become unfit for the use for which it was originally intended, such as used combustion engine oil and gearbox oil, lubricating oil, oil for turbines and hydraulic oil.
+
+  ; and
+- (d) in subsection (6), for “duty imposed by subsection (1)” substitute “ duties imposed by subsections (1) or (2A) ”.
+
+(5)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-4ba57735912c4dc70a9e30113c3bac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) In section 75 (meaning of “waste” etc.)
+
+- (a) for subsection (2) substitute—
+
+  > (2) “**Waste**” means—
+  >
+  > - (a) anything that is waste within the meaning of Article 3(1) of the Waste Directive, as read with Articles 5 and 6, and which is not excluded from the scope of that Directive by Article 2(1), (2) or (3);
+  > - (b) radioactive waste within the meaning of section 1A of the Radioactive Substances Act 1993 which is exempt from the requirement for authorisation under section 13 or 14 of that Act by virtue of an order made, or having effect as if made, under section 15(2) of that Act;
+  > - (c) where land is undergoing on-site remediation of contamination, that land including unexcavated contaminated soil and any contaminated buildings permanently connected with that land.
+
+  ;
+- (b) after subsection (2) insert—
+
+  > (2A) “**Broker**” means any undertaking arranging the recovery or disposal of waste on behalf of others, whether or not such arrangements involve the broker taking physical possession of the waste; and “**dealer**” means any undertaking which acts in the role of principal to purchase and subsequently sell waste, whether or not this involves the dealer taking physical possession of the waste.
+
+  ;
+- (c) subsection (10) is repealed; and
+- (d) for subsections (11) and (12) substitute—
+
+  > (12) In this Part, “**the Waste Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste.
+
+  .
+
+## 3. Amendment of the Environment Act 1995
+
+(1) The Environment Act 1995 [^c20785251] is amended as follows.
+
+(2) In section 56(1) (interpretation of Part I), in the definition of “environmental licence” as it applies for the purposes of Part 1 of that Act in relation to SEPA—
+
+- (a) at the end of paragraph (b) insert “ or as a professional collector or transporter of waste under paragraph 12 of Schedule 4 to the Waste Management Licensing (Scotland) Regulations 2011 ”;
+- (b) for paragraph (h) substitute—
+
+  > - (h) registration of a person as a broker of, or dealer in, controlled waste under the Waste Management Licensing (Scotland) Regulations 2011,
+
+  ; and
+- (c) in paragraph (j), for “or 47 of Schedule 3” substitute “ , 47 or 51 of Schedule 1 ”.
+
+(3) In Schedule 20 (delegation of appellate functions), in paragraph 4(3)(d), for “22” substitute “ 29 ”.
+
+## 4. Amendment of the Town and Country Planning (Scotland) Act 1997
+
+In The Town and Country Planning (Scotland) Act 1997 [^c20785261] section 277(1) (interpretation), after the definition of “Valuation Office” omit “and” and insert—
+
+> “**waste**” includes anything which is waste for the purposes of section 75(2) of the Environmental Protection Act 1990 (c. 43); and
+
+.
+
+## 5. Amendment of the National Waste Management Plan for Scotland Regulations 2007
+
+(1) The National Waste Management Plan for Scotland Regulations 2007 [^c20785271] are amended as follows.
+
+(2) In regulation 2—
+
+- (a) omit the definitions of “National Planning Policy Guideline 10” and “the National Waste Plan”;
+- (b) for the definition of “hazardous waste” substitute—
+
+  > “**hazardous waste**” means any waste which is to be considered as hazardous in accordance with Articles 3(2) and 7 of the Waste Directive;
+
+  ;
+- (c) after the definition of “hazardous waste” insert—
+
+  > - “**the Landfill Capacity Report**” means the document “Landfill Capacity Report for Scotland, 2008” published by SEPA in 2010 [^c20785281];
+  > - “**the National Capacity Report**” means the document “National Waste Capacity Report for Scotland 2008” published by SEPA in November 2009 [^c20785291];
+
+  ;
+- (d) after the definition of “public consultees” insert—
+
+  > - “**Scottish Planning Policy**” means the statement of the Scottish Government's policy on important land use planning matters published in February 2010 [^c20785301];
+  > - “**Scotland**” includes the Scottish marine area as defined in section 1 of the Marine (Scotland) Act 2010 [^c20785311];
+
+  ;
+- (e) after the definition of “SEPA” omit “and”; and
+- (f) for the definition of “the Waste Data Digest” substitute—
+
+  > - “ **the Special-Hazardous Waste Data Summary**” means the documents “Special waste consigned 2002-2006”; “Special waste recovered 2002-2006” and “Special waste disposed 2002-2006”, all published by SEPA in 2008 [^c20785321];
+  > - “**the Waste Data Digest**” means the document “Waste Data Digest 10: Key facts and trends” published by SEPA in 2010 [^c20785331];
+  > - “**the Waste Statistics Regulation Scotland Report**” means the document “EU Waste Statistics Regulation Scotland Report 2006” published by SEPA in November 2008 [^c20785341]; and
+  > - “**Zero Waste Plan**” means the document “Scotland's zero waste plan” published by the Scottish Government in June 2010 [^c20785351].
+
+  .
+
+(3) After regulation 2 insert—
+
+> **2A. Interpretation: the Waste Directive**
+>
+> In these Regulations—
+>
+> - (a) “**the Waste Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste;
+> - (b) other expressions used in the Waste Directive have the same meanings as in that Directive.
+
+.
+
+(4) In regulation 3—
+
+- (a) in paragraph (1), for “the recovery and disposal of waste” substitute “ waste prevention, preparation for re-use and waste management ”;
+- (b) in paragraph (2), for “consist of” substitute “ include ”;
+- (c) in paragraph (3), before sub-paragraph (a) insert—
+
+  > - (aza) an analysis of the current waste management situation, including existing waste collection schemes and major disposal and recovery installations;
+  > - (azb) a description of measures to be taken to improve environmentally sound preparing for re-use, recycling, recovery and disposal of waste;
+  > - (azc) the matters listed in Article 28(3) of the Waste Directive;
+
+  ;
+- (d) in paragraph (3), after sub-paragraph (a) insert—
+
+  > - (aa) in pursuance of the objectives and provisions of the Waste Directive, an evaluation of how the plan will support the implementation of those objectives and provisions; and
+
+  ;
+- (e) omit the “and” immediately following paragraph (3)(b);
+- (f) omit paragraph (3)(c);
+- (g) in paragraph (4) after “Ministers” insert “ must review the national waste management plan at least once every six years and ”; and
+- (h) for paragraph (6) substitute—
+
+  > (6) The following documents form part of the national waste management plan:—
+  >
+  > - (a) Zero Waste Plan;
+  > - (b) the waste management policies set out in Scottish Planning Policy, the National Planning Framework and Planning Advice Note 63;
+  > - (c) the Landfill Capacity Report;
+  > - (d) the National Capacity Report;
+  > - (e) the Special-Hazardous Waste Data Summary;
+  > - (f) the Waste Data Digest; and
+  > - (g) the Waste Statistics Regulation Scotland Report.
+
+  .
+
+(5) In paragraph 1 of the Schedule, for “recovered or disposed of” substitute “ managed ”.
+
+(6) In the Schedule, after paragraph 1 insert—
+
+> **1A.**
+>
+> Applying the following waste hierarchy:
+>
+> - (a) prevention;
+> - (b) preparing for re-use;
+> - (c) recycling;
+> - (d) other recovery, including energy recovery;
+> - (e) disposal
+>
+> in a way which delivers the best overall environmental outcome. The hierarchy may be departed from for particular types of waste where justified in order to ensure this outcome and by reference to the overall impact of the generation and management of such types of waste.
+
+.
+
+(7) For paragraph 2 of the Schedule substitute—
+
+> **2.**
+>
+> Establishing an integrated and adequate network of waste disposal installations and of installations for the recovery of all mixed municipal waste which includes waste collected from private households, taking into account best available techniques.
+
+.
+
+(8) In paragraph 3 of the Schedule—
+
+- (a) in sub-paragraph (a), after “disposal” insert “ and in the recovery of the municipal waste referred to in paragraph 2, ”; and
+- (b) in sub-paragraph (b), after “of” where first occurring insert “ ,and the municipal waste referred to in paragraph 2 to be recovered, ”.
+
+(9) In paragraph 4 of the Schedule, after sub-paragraph (a) insert—
+
+> - (aa) reducing the quantity of waste produced through the re-use of products or the extension of their life spans;
+
+.
+
+(10) In the Schedule, after paragraph 4 insert—
+
+> **4A.**
+>
+> Promoting the re-use of products and the preparation of products for re-use, in particular and where appropriate by—
+>
+> - (a) encouraging the establishment of and supporting re-use and repair networks;
+> - (b) use of economic incentives;
+> - (c) use of procurement criteria; and
+> - (d) use of quantitative objectives.
+>
+> **4B.**
+>
+> Encouraging—
+>
+> - (a) the separate collection of bio-waste with a view to its composting and digestion;
+> - (b) the treatment of bio-waste in a way that fulfils a high level of environmental protection; and
+> - (c) the use of environmentally safe materials produced from bio-waste.
+
+.
+
+## 6. Amendment of the Special Waste Regulations 1996
+
+(1) The Special Waste Regulations 1996 [^c20785361] are amended as follows.
+
+(2) In regulation 1(4)—
+
+- (a) in the definition of “consignor”, at the end insert “, but does not include any occupier of domestic premises in respect of domestic waste removed from those premises”;
+- (b) after the definition of “conveyance” insert—
+
+  > “**domestic waste**” means waste produced by a household;
+
+  ;
+- (c) for the definitions of “European Waste Catalogue”, “the Waste Directive” and “waste” substitute—
+
+  > “**European Waste Catalogue**” means the list of wastes set out in Commission Decision [2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532) establishing a list of wastes, as that instrument may be amended from time to time;
+
+  ;
+
+  > “**the Waste Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste;
+
+  ;
+
+  > “**waste**” means—
+  >
+  > - (a) anything that is waste within the meaning of Article 3(1) of the Waste Directive, as read with Articles 5 and 6, and which is not excluded from the scope of that Directive by Article 2(1), (2) or (3);
+  > - (b) radioactive waste within the meaning of section 1A of the Radioactive Substances Act 1993 which is exempt from the requirement for authorisation under section 13 or 14 of that Act by virtue of an order made, or having effect as if made, under section 15(2) of that Act;
+  > - (c) where land is undergoing on-site remediation of contamination, that land including unexcavated contaminated soil and any contaminated buildings permanently connected with that land;
+
+  ; and
+- (d) the definition of “the Hazardous Waste Directive” is omitted.
+
+(3) For regulation 1(5) substitute—
+
+> (5) Other expressions used in these Regulations which are used in the Waste Directive have the same meanings as in that Directive.
+
+.
+
+(4) For regulation 2 substitute—
+
+> **2. Meaning of special waste**
+>
+> “**Special waste**” means any waste which is to be considered as hazardous waste under Articles 3(2) and 7 of the Waste Directive.
+
+.
+
+(5) For regulation 2A substitute—
+
+> **2A. Application of Regulations**
+>
+> (1) Except as provided in regulation 2B (domestic asbestos waste), these Regulations do not apply to special waste which forms part of mixed domestic waste.
+>
+> (2) In this regulation, “**mixed domestic waste**” does not include any separate fractions of special waste which have been produced by a household.
+
+.
+
+(6) In regulation 15(9), for “Article 13 of the Waste Directive and Article 5(2) of the Hazardous Waste Directive” substitute “ Article 34 of the Waste Directive ”.
+
+(7) In regulation 15A(1), before “record” insert “ chronological ”.
+
+(8)[^key-4940ec8c209b463ef1ee610d401cfe16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-4940ec8c209b463ef1ee610d401cfe16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) Schedule 2 is omitted.
+
+## 7. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^key-b1c339928c7768c3ffe3264b54ab0847]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Minor repeals and amendments
+
+The Schedule to these Regulations (which contains minor repeals and amendments) has effect.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Executive
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE — MINOR REPEALS AND AMENDMENTS
+
+Regulation 8
+
+### PART 1 — Public General Acts
+
+#### 1. The Environment Act 1995
+
+In section 114(2)(a) of the Environment Act 1995 (power to delegate appeals functions), for sub-paragraph (vii) substitute—
+
+> - (vii) paragraph 6 of Schedule 5 to the Waste Management Licensing (Scotland) Regulations 2011,
+
+.
+
+#### 2. The Waste and Emissions Trading Act 2003
+
+For section 37 of the Waste and Emissions Trading Act 2003 [^c20785381] (meaning of “waste” in Part 1) substitute—
+
+> **37.** **Meaning of waste in Part 1**
+>
+> (1) In this Part, “**waste**” means anything that—
+>
+> - (a) is waste within the meaning of Article 3(1) of the Waste Directive, as read with Articles 5 and 6, and
+> - (b) is not excluded from the scope of the Waste Directive by Article 2(1), (2) or (3).
+>
+> (2) For the purposes of this section, “**the Waste Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste.
+
+.
+
+### PART 2 — Subordinate Legislation
+
+#### 3. The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000
+
+In regulation 2(1) of the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000 [^c20785391]—
+
+- (a) in the definition of “disposal”, for “Annex IIA of Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442), as amended” substitute “ Annex I of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) ”; and
+- (b) in the definition of “used PCBs”, for “Directive [75/442/EC](https://www.legislation.gov.uk/european/directive/1975/0442)” substitute “ Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) ”.
+
+**4.** In the title of Schedule 1 to those Regulations, for “Annex IIA of Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) on waste, as amended” substitute “ Annex I of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste ”.
+
+#### 5. The Pollution Prevention and Control (Scotland) Regulations 2000[^key-8b02cc4f12ee0babd5d4f3f4b59efd62]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-8b02cc4f12ee0babd5d4f3f4b59efd62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. The Landfill (Scotland) Regulations 2003[^key-8301fff843ec72157494f9021d7168a1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^key-ada7d0196854f6255d65c968c1c4ae40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. The Packaging (Essential Requirements) Regulations 2003[^key-f9f5c9482de0806cc3c921daf3927003]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13. The End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^key-cbde0cb4c12eca3c29c5eebc16482a28]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-0a25e721193f46927e81bde4a66028a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. The End-of-Life Vehicles Regulations 2003
+
+In regulation 2 of the End-of-Life Vehicles Regulations 2003 [^c20785431]—
+
+- (a) in the definition of “end-of-life vehicle”, for “Article 1(a)” substitute “ Article 3(1) ”;
+- (b) in the definition of “recovery”, for “Annex IIB” substitute “ Annex II ”; and
+- (c) for the definition of “the Waste Directive” substitute—
+
+  > “**the Waste Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste.
+
+  .
+
+#### 16. The End-of-Life Vehicles (Producer Responsibility) Regulations 2005
+
+In regulation 2 of the End-of-Life Vehicles (Producer Responsibility) Regulations 2005 [^c20785441]—
+
+- (a) for the definition of “end-of-life vehicle” substitute—
+
+  > “**end-of-life vehicle**” means a vehicle which is waste within the meaning of Article 3(1) of the Waste Directive;
+
+  ;
+- (b) in the definition of “recovery”, for “Annex IIB” substitute “ Annex II ”; and
+- (c) for the definition of “the Waste Directive” substitute—
+
+  > “**the Waste Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste.
+
+  .
+
+#### 17. The Landfill Allowances Scheme (Scotland) Regulations 2005
+
+In regulation 2(1) of the Landfill Allowances Scheme (Scotland) Regulations 2005 [^c20785451]—
+
+- (a) for the definition of “disposal” substitute—
+
+  > “**disposal**” has the meaning given by regulation 2(1) of the Waste Management Licensing (Scotland) Regulations 2011;
+
+  ;
+- (b) for the definition of “European Waste Catalogue” substitute—
+
+  > “**European Waste Catalogue**” means the list of wastes set out in Commission Decision [2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532) establishing a list of wastes;
+
+  ; and
+- (c) for the definition of “recovery” substitute—
+
+  > “**recovery**” has the same meaning as in Article 3 of, and Annex II to, Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste;
+
+  .
+
+#### 18. The Waste Electrical and Electronic Equipment Regulations 2006
+
+In regulation 2(1) of the Waste Electrical and Electronic Equipment Regulations 2006 [^c20785461]—
+
+- (a) for the definition of “disposal” substitute—
+
+  > “**disposal**” has the meaning given by Article 3 of, and Annex I to, Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste (“**the Waste Directive**”);
+
+  ;
+- (b) for the definition of “recovery” substitute—
+
+  > “**recovery**” has the meaning given by Article 3 of, and Annex II to, the Waste Directive, and “recover”, “**recovered**” and “**recovery operation**” shall be construed accordingly;
+
+  ;
+- (c) in paragraph (d) of the definition of “relevant authorisation” for “regulation 18 of the Waste Management Licensing Regulations 1994” substitute “ regulations 17 and 19 of the Waste Management Licensing (Scotland) Regulations 2011 ”; and
+- (d) in the definition of “waste electrical and electronic equipment”, for “Article 1(a) of Directive [2006/12/EC](https://www.legislation.gov.uk/european/directive/2006/0012)” substitute “ Article 3(1) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) ”.
+
+#### 19. The Producer Responsibility Obligations (Packaging Waste) Regulations 2007
+
+In regulation 2(1) of the Producer Responsibility Obligations (Packaging Waste) Regulations 2007 [^c20785471], for the definition of “the Waste Directive” substitute—
+
+> “**the Waste Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste;
+
+.
+
+**20.** (1) In regulation 2(2) of those Regulations—
+
+- (a) in the definition of “recovery”, for “Annex IIB” substitute “ Annex II ”; and
+- (b) in paragraph (d) of the definition of “relevant authorisation”, for “regulation 18 of the Waste Management Licensing Regulations 1994” substitute “ regulation 19 of the Waste Management Licensing (Scotland) Regulations 2011 ”.
+
+(2) In paragraph 2 of Schedule 7 to those Regulations—
+
+- (a) in sub-paragraph (b), for “Annex IIB” substitute “ Annex II ”; and
+- (b) in sub-paragraph (c), for “Annex IIA or Annex IIB” substitute “ Annex I or II ”.
+
+#### 21. The Batteries and Accumulators (Placing on the Market) Regulations 2008
+
+For regulation 7(3) of the Batteries and Accumulators (Placing on the Market) Regulations 2008 [^c20785481] substitute—
+
+> (3) In this regulation “**waste battery**” means any battery which is waste within the meaning of Article 3(1) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste.
+
+.
+
+#### 22. The Renewables Obligation (Scotland) Order 2009
+
+In Article 2(1) of the Renewables Obligation (Scotland) Order 2009 [^c20785491]—
+
+- (a) for the definition of “hazardous waste” substitute—
+
+  > “hazardous waste” is as defined in Articles 3(2) and 7 of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste;
+
+  ; and
+- (b) omit the definition of “Hazardous Waste Directive”.
+
+#### 23. The Waste Batteries (Scotland) Regulations 2009
+
+In regulation 2 of the Waste Batteries (Scotland) Regulations 2009 [^c20785501], for the definition of “waste battery” substitute—
+
+> “**waste battery**” means any battery which is waste within the meaning of Article 3(1) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste.
+
+.
+
+#### 24. The Waste Batteries and Accumulators Regulations 2009
+
+In regulation 2(1) of the Waste Batteries and Accumulators Regulations 2009 [^c20785511], for the definitions of “disposal” and “waste battery” substitute—
+
+> “**disposal**” has the meaning given by Article 3 of, and Annex I to, Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste;
+
+;
+
+> “**waste battery**” means any battery which is waste within the meaning of Article 3(1) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
+
+.
+
+**25.** In Schedule 4 Part 2 paragraph 12(2)(f) of those Regulations, for “regulation 18 of the Waste Management Licensing Regulations 1994” substitute “ regulations 17 and 19 of the Waste Management Licensing (Scotland) Regulations 2011 ”.
+
+#### 26. The Management of Extractive Waste (Scotland) Regulations 2010
+
+In regulation 2(1) of the Management of Extractive Waste (Scotland) Regulations 2010 [^c20785521]—
+
+- (a) in paragraph (b) of the definition of “Category A waste facility”, for “Directive [91/689/EEC](https://www.legislation.gov.uk/european/directive/1991/0689)” substitute “ Articles 3(2) and 7 of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) ”;
+- (b) omit the definition of “Directive [91/689/EEC](https://www.legislation.gov.uk/european/directive/1991/0689)”;
+- (c) after the definition of “Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)” insert—
+
+  > “**Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)**” means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste;
+
+  ;
+- (d) for the definition of “hazardous waste” substitute—
+
+  > “hazardous waste” is as defined in Articles 3(2) and 7 of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
+
+  ; and
+- (e) for the definition of “waste” substitute—
+
+  > “waste” is as defined in Article 3(1) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
+
+  .
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend various enactments in order to transpose aspects of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste (“**the Directive**”) and to effect certain additional changes.
+
+Regulation 2 amends the Environmental Protection Act 1990 (“**the 1990 Act**”). Paragraph (2) amends section 29 of the 1990 Act to insert appropriate definitions of expressions used and defined in the Directive. Paragraph (3) amends section 33(1)(c) of the 1990 Act to align the duty imposed by that provision with Article 13 of the Directive.
+
+Paragraph (4)(a) amends section 34(1) of the 1990 Act to insert reference to dealers as well as brokers, in line with the Directive's approach of equating the two, and to transpose Article 21(1)(a) of the Directive, which requires separate collection of waste oils where technically feasible. Paragraph (4)(b) extends the duty of care in section 34 to include compliance with the waste hierarchy set out in Article 4 of the Directive, while paragraph (4)(c) inserts relevant definitions and paragraph (4)(d) extends the offence of failure to comply with the duty of care to non-compliance with the new waste hierarchy provisions.
+
+Paragraphs (5) and (6) amend section 35(3) of the 1990 Act to specify that the location of the boundaries of a waste management site may form part of the conditions of a site licence, while ensuring that any variation of the licence conditions cannot include removal of land from the authorised site (this should be dealt with as a surrender under section 39). Paragraphs (7) to (9) and (11) amend sections 38 to 40 and 42 of the 1990 Act so as to provide for partial suspension, revocation, surrender and transfer of a licence. Paragraph (10) enables the issuing of consolidated site and mobile plant licences for the treatment of waste. Paragraph (12) amends section 75 of the 1990 Act to insert relevant Directive definitions. The definition of “waste” however extends beyond waste falling within the scope of the Directive to enable the continued regulation under the 1990 Act of low-level radioactive waste and on-site remediation of contaminated land.
+
+Regulation 3 amends the Environment Act 1995 to adjust the list of environmental licences in relation to which the Scottish Environment Protection Agency (SEPA) may charge fees under charging schemes, and to correct a typographical error in the current text of Schedule 20 to that Act. Regulation 4 amends section 277 of the Town and Country Planning (Scotland) Act 1997 by inserting a definition of “waste” which refers to section 75 of the 1990 Act as amended by regulation 2(12) of these Regulations.
+
+Regulation 5 amends the National Waste Management Plan for Scotland Regulations 2007 to update definitions in line with the Directive; update the list of documents forming part of Scotland's National Waste Management Plan; extend the provisions on national waste management planning to the Scottish marine area as defined in the Marine (Scotland) Act 2010; transpose the requirements of Article 28 of the Directive and align the objectives of the National Waste Management Plan with those of the Directive, including the application of the waste hierarchy set out in Article 4 of the Directive.
+
+[^c20785531]Regulation 6 amends the Special Waste Regulations 1996 in order to transpose requirements of the Directive relating to hazardous (special) waste and to remove references to the Hazardous Waste Directive ([91/689/EEC](https://www.legislation.gov.uk/european/directive/1991/0689)) (which is repealed by the Directive).
+
+Regulation 7 amends the Pollution Prevention and Control (Scotland) Regulations 2000 to include relevant Directive definitions, insert a new definition of “mobile plant” in line with that contained in regulation 10 of the Waste Management Licensing (Scotland) Regulations 2011 and transpose Articles 21(1)(c) and 23(4) of the Directive (concerning mixing of waste oils and incineration or co-incineration with energy recovery).
+
+Regulation 8 gives effect to the further minor amendments contained in the Schedule.
+
+A Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from Scottish Government Environmental Quality Division, Area 1-H North, Victoria Quay, Edinburgh EH6 6QQ.
+
+## Annotations
+
+[^c20785211]: Marginal citation: [1999 c.24](https://www.legislation.gov.uk/ukpga/1999/24), to which there are amendments not relevant to these Regulations. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), as read with section 5(3) of the 1999 Act, and by [S.I. 2008/1776](https://www.legislation.gov.uk/uksi/2008/1776). Directive 2008/98/EC of the European Parliament and of the Council on waste and repealing certain Directives (O.J. L 312, 22.11.2008, p. 3) was designated for the purposes of paragraph 20(2)(c) of Schedule 1 to the 1999 Act by [S.S.I. 2010/131](https://www.legislation.gov.uk/ssi/2010/131).
+
+[^c20785221]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68), as relevantly amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) Schedule 8 paragraph 15(3); the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) sections 27(1) and (2) and 28 and the [European Union Amendment Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) Schedule 1 Part 1. The functions of the Minister of the Crown under section 2(2) of the 1972 Act, so far as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act.
+
+[^c20785231]: Marginal citation: Commission Decision replacing Decision 94/3/EC establishing a list of wastes (O.J. L 226, 6.9.2000, p.3), as amended by Commission Decisions 2001/118/EC (O.J. L 47, 16.2.2001, p.1) and 2001/119/EC (O.J. L 47, 16.2.2001, p.32) and by Council Decision 2001/573/EC (O.J. L 203, 28.7.2001, p.18).
+
+[^c20785241]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43), as relevantly amended by the [Deregulation and Contracting Out Act 1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40) section 33; the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) Schedule 22 paragraphs 64, 65, 66(2), 70(1) and (3), 72(1) and (2), 73, 74 and 76 and Schedule 24 paragraph 1; by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) Schedule 2 paragraph 102(2)(b) and (c); and by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323) Schedule 10 paragraph 3(3) and (4); 2005/22 regulation 3(3) and 2009/247 regulation 3.
+
+[^key-4ba57735912c4dc70a9e30113c3bac8f]: Textual amendment: [Reg. 2(5)-(11)](https://www.legislation.gov.uk/ssi/2011/226/regulation/2/5) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^c20785251]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25), as relevantly amended by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323) Schedule 10 paragraph 5(2) to (4); [S.I. 2005/925](https://www.legislation.gov.uk/uksi/2005/925) Schedule 6 paragraph 1(3); [S.S.I. 2006/181](https://www.legislation.gov.uk/ssi/2006/181) Schedule 1 paragraph 8(3) to (5); [S.S.I. 2006/541](https://www.legislation.gov.uk/ssi/2006/541) regulation 10(2); [S.I. 2006/3289](https://www.legislation.gov.uk/uksi/2006/3289) regulation 4(2)(b) and [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247) regulation 5.
+
+[^c20785261]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8), to which there are amendments not relevant to these Regulations.
+
+[^c20785271]: Marginal citation: [S.S.I. 2007/251](https://www.legislation.gov.uk/ssi/2007/251).
+
+[^c20785281]: Marginal citation: http://www.sepa.org.uk/waste/waste\_data/site\_capacity\_\_infrastructure/landfill\_capacity\_reports.aspx.
+
+[^c20785291]: Marginal citation: http://www.sepa.org.uk/waste/waste\_data/site\_capacity\_infrastructure/national\_capacity\_reports.aspx.
+
+[^c20785301]: Marginal citation: ISBN 978 0 7559 9156 3. See also http://www.scotland.gov.uk/Publications/2010/02/03132605/0.
+
+[^c20785311]: Marginal citation: asp 5.
+
+[^c20785321]: Marginal citation: http://www.sepa.org.uk/waste/waste\_data/statutory\_data\_returns/special-hazardous\_waste\_data.aspx.
+
+[^c20785331]: Marginal citation: http://www.sepa.org.uk/waste/waste\_data/waste\_data\_digest.aspx.
+
+[^c20785341]: Marginal citation: http://www.sepa.org.uk/waste/waste\_data/waste\_data\_reports/waste\_statistics\_regulations.aspx.
+
+[^c20785351]: Marginal citation: ISBN 978-0-7559-8306-3. See also http://www.scotland.gov.uk/Publications/2010/06/08092645/0
+
+    .
+
+[^c20785361]: Marginal citation: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), as relevantly amended by [S.I. 1996/2019](https://www.legislation.gov.uk/uksi/1996/2019) Schedule 1 paragraph 2(a) and 7; [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323) Schedule 10 paragraph 13(1) and (2) and [S.S.I. 2004/112](https://www.legislation.gov.uk/ssi/2004/112) regulation 2(2), (4), (9), (10) and (11).
+
+[^key-4940ec8c209b463ef1ee610d401cfe16]: Textual amendment: [Reg. 6(8)(9)](https://www.legislation.gov.uk/ssi/2011/226/regulation/6/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-b1c339928c7768c3ffe3264b54ab0847]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/226/regulation/7) revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+
+[^c20785381]: Marginal citation: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33).
+
+[^c20785391]: Marginal citation: [S.S.I. 2000/95](https://www.legislation.gov.uk/ssi/2000/95).
+
+[^key-8b02cc4f12ee0babd5d4f3f4b59efd62]: Textual amendment: Sch. paras. 5-9 revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+
+[^key-8301fff843ec72157494f9021d7168a1]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/10) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-ada7d0196854f6255d65c968c1c4ae40]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-f9f5c9482de0806cc3c921daf3927003]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/12) revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+
+[^key-cbde0cb4c12eca3c29c5eebc16482a28]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/13) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-0a25e721193f46927e81bde4a66028a3]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2011/226/schedule/1/paragraph/14) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^c20785431]: Marginal citation: [S.I. 2003/2635](https://www.legislation.gov.uk/uksi/2003/2635), to which there are amendments not relevant to these Regulations.
+
+[^c20785441]: Marginal citation: [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263).
+
+[^c20785451]: Marginal citation: [S.S.I. 2005/157](https://www.legislation.gov.uk/ssi/2005/157).
+
+[^c20785461]: Marginal citation: [S.I. 2006/3289](https://www.legislation.gov.uk/uksi/2006/3289), to which there are amendments not relevant to these Regulations.
+
+[^c20785471]: Marginal citation: [S.I. 2007/871](https://www.legislation.gov.uk/uksi/2007/871).
+
+[^c20785481]: Marginal citation: [S.I. 2008/2164](https://www.legislation.gov.uk/uksi/2008/2164).
+
+[^c20785491]: Marginal citation: [S.S.I. 2009/140](https://www.legislation.gov.uk/ssi/2009/140).
+
+[^c20785501]: Marginal citation: [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247).
+
+[^c20785511]: Marginal citation: [S.I. 2009/890](https://www.legislation.gov.uk/uksi/2009/890).
+
+[^c20785521]: Marginal citation: [S.S.I. 2010/60](https://www.legislation.gov.uk/ssi/2010/60).
+
+[^c20785531]: Marginal citation: O.J. L 377, 31.12.1991, p. 20.

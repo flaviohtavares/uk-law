@@ -1,0 +1,56 @@
+---
+title: Regulatory Reform (Scotland) Act 2014, section 41
+act: Regulatory Reform (Scotland) Act 2014
+section: '41'
+status: revised
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2014/3/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulatory Reform (Scotland) Act 2014, section 41
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+## 41. Power of court to order offence to be remedied[^key-bd41bdcd00629b7a45fd2219faf528d8]
+
+*Extent: S*
+
+(1) This section applies where—
+
+- (a) a court convicts a person of an offence under section 40(1),
+- (b) it appears to the court that it is within the power of the person to remedy or mitigate the significant environmental harm to which the conviction relates.
+
+(2) The court may, in addition to or instead of dealing with the person in any other way, order the person to take such steps as may be specified in the order to remedy or mitigate the harm.
+
+(3) An order under subsection (2) (a “remediation order”) is to be taken to be a sentence for the purposes of any appeal.
+
+(4) A remediation order must specify a period (“the compliance period”) within which the steps mentioned in that subsection are to be taken.
+
+(5) On an application by the person convicted of the offence, the court may, on more than one occasion—
+
+- (a) extend the compliance period within which those steps are to be taken,
+- (b) vary the steps specified in a remediation order.
+
+(6) An application under subsection (5) must be made before the end of the compliance period.
+
+(7) A person who fails to comply with a remediation order commits an offence.
+
+(8) A person who commits an offence under subsection (7) is liable—
+
+- (a) on summary conviction to—
+  - (i) a fine not exceeding £40,000,
+  - (ii) imprisonment for a term not exceeding 12 months, or
+  - (iii) both,
+- (b) on conviction on indictment to—
+  - (i) a fine,
+  - (ii) imprisonment for a term not exceeding 5 years, or
+  - (iii) both.
+
+## Annotations
+
+[^key-bd41bdcd00629b7a45fd2219faf528d8]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2014/3/section/41) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

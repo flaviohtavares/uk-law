@@ -1,0 +1,43 @@
+---
+title: Burial and Cremation (Scotland) Act 2016, section 33
+act: Burial and Cremation (Scotland) Act 2016
+section: '33'
+status: not-yet-in-force
+text_date: '2026-03-02'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/20/section/33
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Burial and Cremation (Scotland) Act 2016, section 33
+
+> This provision is not yet in force.
+>
+> Extent: Scotland.
+
+## 33. Notification: right-holder
+
+*Extent: S*
+
+**Not yet in force.**
+
+(1) This section applies where none of the persons consulted under section 32(4) objects to a burial authority's proposal to restore a lair to use.
+
+(2) If the burial authority is aware of the name and address of the right-holder or able, after reasonable enquiry, to ascertain them, the authority must give notice to the right-holder of the matters mentioned in subsection (3).
+
+(3) The matters are—
+
+- (a) the authority's proposal to restore the lair to use,
+- (b) the right-holder's right to consent or object to the proposal by giving notice in writing to the authority of the consent or objection within the prescribed time limit,
+- (c) any prescribed documents which the right-holder should give to the authority,
+- (d) an explanation of the consequences of consenting or objecting to the proposal,
+- (e) the right-holder's obligations in relation to the maintenance of the lair, and
+- (f) any costs for which the right-holder is liable in respect of maintenance.
+
+(4) Notice under subsection (2) must be given in the prescribed form and the prescribed manner.
+
+(5) If by virtue of subsection (3)(b) the burial authority receives notice of the right-holder's objection to the authority's proposal to restore the lair to use—
+
+- (a) the authority may not proceed with its proposal, and
+- (b) section 32 does not apply in relation to the lair for the period of 10 years beginning with the day on which the authority receives the notice.

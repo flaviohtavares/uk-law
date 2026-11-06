@@ -1,0 +1,116 @@
+---
+title: The Scottish Local Government Elections Amendment Order 2016
+id: ssi/2016/7
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-01-11'
+text_date: '2016-11-08'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/7
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/7/pdfs/ssipn_20160007_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/7/pdfs/ssi_20160007_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/7/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scottish Local Government Elections Amendment Order 2016
+
+> Text as at 2016-11-08.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2016 No. 7
+
+Representation Of The People
+
+The Scottish Local Government Elections Amendment Order 2016
+
+Made
+
+11th January 2016
+
+Laid before the Scottish Parliament
+
+13th January 2016
+
+Coming into force
+
+1st March 2016
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 3(1) and 16(2)(a) of the Local Governance (Scotland) Act 2004[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 7(1) and (2)(j) of the Political Parties, Elections and Referendums Act 2000[^f00002] they have consulted the Electoral Commission.
+
+## 1. Citation, commencement and transitional provision[^key-405dc5546b428de5bb2c2625d9e0b193]
+
+(1) This Order may be cited as the Scottish Local Government Elections Amendment Order 2016 and comes into force on 1st March 2016.
+
+(2) The amendments made by article 2 have no effect for the purposes of any local government election for which the date of poll is on or before 4th May 2016.
+
+## 2. Amendment of the Scottish Local Government Elections Order 2011[^key-7945a9bc1cbd0cf98b158ce101f40482]
+
+Schedule 1 (Scottish Local Government Elections Rules) to the Scottish Local Government Elections Order 2011[^f00003] is amended as follows—
+
+- (a) in rule 23(1) (appointment of presiding officers and clerks), for “shall not appoint” substitute “shall not knowingly appoint”;
+- (b) in rule 27(11)(b) (requirement of secrecy), for “age of 18” substitute “age of 16”;
+- (c) in rule 28(1)(b) and (2) (admission to polling station), for “age of 18” substitute “age of 16”;
+- (d) in rule 35(3)(b) (voting by persons with disabilities), for “age of 18” substitute “age of 16”;
+- (e) in rule 41 (attendance at counting of votes), after paragraph (1) insert—
+
+  > (1A) In making arrangements under paragraph (1), the returning officer shall not knowingly appoint or employ any person who has been employed by or on behalf of a candidate in or about the election.
+
+  ; [^key-68e09b962f451c7a8aff3d5b52842d4b]...
+- (f)[^key-71e0b0405a5145006927bbac1e737de8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Revocations[^key-2e99e0565f7b5ee350347b275e979d57]
+
+Regulations 24 and 25 of the Representation of the People (Scotland) Amendment Regulations 1990[^f00004], in so far as not already revoked, are revoked.
+
+MARCO BIAGI
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+11th January 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Scottish Local Government Elections Order 2011 (“the 2011 Order”).
+
+Article 2 mainly makes provision reflecting the reduction in voting age at Scottish local government elections that will take effect from 5th May 2016. It amends the 2011 Order to recognise that 16 and 17 year olds will attend polling stations as voters and to allow persons who have attained the age of 16 to assist voters with disabilities.
+
+Paragraphs (a) and (e) of article 2 amend the 2011 Order in relation to the appointment of polling and count staff.
+
+Article 3 completes the revocation of provision that is otiose in relation to local government elections.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 asp 9](https://www.legislation.gov.uk/asp/2004/9).
+
+[^f00002]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41). Section 7(2)(j) was added by section 12 of the Local Electoral Administration (Scotland) Act [2011 (asp 10)](https://www.legislation.gov.uk/asp/2011/10).
+
+[^key-405dc5546b428de5bb2c2625d9e0b193]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2016/7/article/1) in force at 1.3.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1)
+
+[^key-7945a9bc1cbd0cf98b158ce101f40482]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2016/7/article/2) in force at 1.3.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1)
+
+[^f00003]: Footnote: [S.S.I. 2011/399](https://www.legislation.gov.uk/ssi/2011/399), amended by [S.S.I. 2012/60](https://www.legislation.gov.uk/ssi/2012/60) and [S.S.I. 2012/342](https://www.legislation.gov.uk/ssi/2012/342).
+
+[^key-68e09b962f451c7a8aff3d5b52842d4b]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2016/7/article/2) omitted (8.11.2016) by virtue of [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2016/354/article/7/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+
+[^key-71e0b0405a5145006927bbac1e737de8]: Textual amendment: [Art. 2(f)](https://www.legislation.gov.uk/ssi/2016/7/article/2/f) omitted (8.11.2016) by virtue of [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2016/354/article/7/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+
+[^key-2e99e0565f7b5ee350347b275e979d57]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2016/7/article/3) in force at 1.3.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1)
+
+[^f00004]: Footnote: [S.I. 1990/629](https://www.legislation.gov.uk/uksi/1990/629). Regulations 24 and 25 were revoked by [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497) for all purposes other than local government elections.

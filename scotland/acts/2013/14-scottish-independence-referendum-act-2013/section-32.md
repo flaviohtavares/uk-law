@@ -1,0 +1,42 @@
+---
+title: Scottish Independence Referendum Act 2013, section 32
+act: Scottish Independence Referendum Act 2013
+section: '32'
+status: revised
+text_date: '2013-12-18'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2013/14/section/32
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Scottish Independence Referendum Act 2013, section 32
+
+> Text as at 2013-12-18.
+>
+> Extent: Scotland.
+
+## 32. Offences by bodies corporate etc.
+
+*Extent: S*
+
+(1) Subsection (2) applies where—
+
+- (a) an offence under this Act has been committed by—
+  - (i) a body corporate,
+  - (ii) a Scottish partnership, or
+  - (iii) an unincorporated association other than a Scottish partnership, and
+- (b) it is proved that the offence was committed with the consent or connivance of, or was attributable to neglect on the part of—
+  - (i) a relevant individual, or
+  - (ii) an individual purporting to act in the capacity of a relevant individual.
+
+(2) The individual (as well as the body corporate, partnership or (as the case may be) association) commits the offence and is liable to be proceeded against and punished accordingly.
+
+(3) In subsection (1), “**relevant individual**” means—
+
+- (a) in relation to a body corporate (other than a limited liability partnership)—
+  - (i) a director, manager, secretary or other similar officer of the body,
+  - (ii) where the affairs of the body are managed by its members, a member,
+- (b) in relation to a limited liability partnership, a member,
+- (c) in relation to a Scottish partnership, a partner,
+- (d) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.

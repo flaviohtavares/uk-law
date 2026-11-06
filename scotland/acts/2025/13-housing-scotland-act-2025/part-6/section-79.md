@@ -1,0 +1,40 @@
+---
+title: Housing (Scotland) Act 2025, section 79
+act: Housing (Scotland) Act 2025
+section: '79'
+status: not-yet-in-force
+text_date: '2026-10-06'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2025/13/section/79
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing (Scotland) Act 2025, section 79
+
+> This provision is not yet in force.
+>
+> Extent: Scotland.
+
+## 79. Power to make provision about the declaration of a national housing emergency[^key-48d132cb73573c1701118977db626a00]
+
+*Extent: S*
+
+**Not yet in force.**
+
+(1) The Scottish Ministers may by regulations make provision for or in connection with the declaration of a national housing emergency by the Scottish Ministers.
+
+(2) Regulations under subsection (1) may, in particular, make provision about—
+
+- (a) the meaning of a national housing emergency for the purpose of the regulations,
+- (b) the circumstances in which a national housing emergency may or must be declared by the Scottish Ministers,
+- (c) the effect of declaring a national housing emergency, including any action that may or must be taken by the Scottish Ministers following such a declaration,
+- (d) the conferral of powers on the Scottish Ministers to obtain information for the purpose of, or in connection with, enabling or assisting the Scottish Ministers in taking any such action,
+- (e) the enforcement of these powers,
+- (f) the circumstances in which a national housing emergency that has been declared ceases to apply.
+
+(3) The Scottish Ministers must, before the end of the period of 18 months beginning with the day on which subsection (1) comes into force, lay before the Scottish Parliament a draft Scottish statutory instrument containing the first regulations under that subsection.
+
+## Annotations
+
+[^key-48d132cb73573c1701118977db626a00]: Commencement: S. 79 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

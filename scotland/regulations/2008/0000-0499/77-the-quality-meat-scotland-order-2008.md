@@ -1,0 +1,646 @@
+---
+title: The Quality Meat Scotland Order 2008
+id: ssi/2008/77
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-02-28'
+text_date: '2023-12-22'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2008/77
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2008/77/pdfs/ssien_20080077_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/77/pdfs/ssi_20080077_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/77/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Quality Meat Scotland Order 2008
+
+> Text as at 2023-12-22.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2008 No. 77
+
+AGRICULTURE
+
+The Quality Meat Scotland Order 2008
+
+Made
+
+28th February 2008
+
+Coming into force
+
+1st April 2008
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 87, 88, 89, 90, 96[^f00001] and 97, paragraphs 5 to 11 of Schedule 8 to and Schedules 9 and 10 to the Natural Environment and Rural Communities Act 2006[^f00002] and all other powers enabling them to do so.
+
+In accordance with section 97(5) of that Act they have consulted with such organisations as appear to them to be representative of interests substantially affected by this Order.
+
+In accordance with section 97(8) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement[^key-97b7f119dd180ef0e5c1f207dcca19c8]
+
+(1) This Order may be cited as the Quality Meat Scotland Order 2008.
+
+(2) This Order comes into force on 1st April 2008.
+
+## 2. Scope and Interpretation[^key-99b48a8487a962a1166328432f8220f6]
+
+(1) This Order relates to the red meat sector in Scotland.
+
+(2) For these purposes–
+
+- “beef, sheepmeat and pork industry” means all of the activities comprised in the production, marketing and distribution of–
+  - (i) cattle, sheep and pigs, including the carrying on of slaughterhouses and cattle, sheep and pig auctions and markets;
+  - (ii) cattle, sheep and pig products other than milk and milk products and fleece wool;
+- “export” means the transportation of cattle, sheep and pigs outwith the United Kingdom;
+- “levy payer” means a producer, slaughterer or exporter of cattle, sheep or pigs or the owner of any of these animals at the time of slaughter; and
+- “red meat sector” means the beef, sheepmeat and pork industry.
+
+## 3. Establishment of Quality Meat Scotland[^key-ba9d53a250094e54b4d3e294b9adb0de]
+
+(1) A body called Quality Meat Scotland is hereby established.
+
+(2) Its purposes are–
+
+- (a) increasing efficiency or productivity in the red meat sector;
+- (b) improving marketing in the red meat sector;
+- (c) improving or developing services that the red meat sector provides or could provide to the community;
+- (d) improving the ways in which the red meat sector contributes to sustainable development.
+
+(3) It has the functions specified in Schedule 1.
+
+(4) It may do anything that appears to it to be conducive or incidental to the discharge of its functions.
+
+## 4. Constitution etc. of Quality Meat Scotland[^key-d91dab9b4211660b15498131e28f04f1]
+
+Schedule 2 (constitution, related matters and proceedings of Quality Meat Scotland) has effect.
+
+## 5. Acting through subsidiaries[^key-8d6a7d3dddc03259d80b0f52e671faa2]
+
+(1) Quality Meat Scotland may delegate any of its functions to a subsidiary company with the approval of the Scottish Ministers but may continue to carry out any function it has delegated.
+
+(2) A subsidiary company must carry out the functions that Quality Meat Scotland delegates to it.
+
+## 6. Levies[^key-7d597aba75f3af85b65ffb6370dd5ab2]
+
+(1) Quality Meat Scotland may impose levies to enable it to provide services to the red meat sector as specified in Schedule 3.
+
+(2) All maximum levies in that Schedule exclude VAT.
+
+(3) The levies are to enable Quality Meat Scotland to–
+
+- (i) meet its expenses in the exercise of its functions;
+- (ii) meet its administrative expenses;
+- (iii) further a purpose in article 3(2);
+- (iv) establish a reserve fund.
+
+(4) The rate of levy (and any higher rate for late payment of the levy) must be approved annually by the Scottish Ministers.
+
+(5) Quality Meat Scotland may enter into contracts with other persons, companies or bodies for the purpose of collecting levies in terms of this Order.
+
+## 7. Estimates[^key-3a910a030e9a2bcf130ff5333303236d]
+
+(1) If any person liable to pay levy fails to notify Quality Meat Scotland by the date specified in Schedule 3, Quality Meat Scotland may estimate the amount that should have been notified, and notify the person of the estimate.
+
+(2) Any person failing to make a return within 28 days of notification of the estimate becomes liable to pay levy on that estimate.
+
+(3) Quality Meat Scotland may provide that a higher rate of levy is payable on the estimated amount, but that higher rate may not exceed the maximum rates provided for in Schedule 3.
+
+## 8. Charges for services[^key-67eca3a76e8a5917954fde6e3534c388]
+
+Quality Meat Scotland may make such charges for any services in addition to the services referred to in article 6 as appear to Quality Meat Scotland to be reasonable.
+
+## 9. Ballots[^key-fa0ddeacb3116d59f7b0c65abcddff5f]
+
+(1) Quality Meat Scotland may hold a ballot at any time on whether or not a levy should continue.
+
+(2) It must do so–
+
+- (a) if directed by the Scottish Ministers; or
+- (b) if it receives within a three month period one or more requests for such a ballot signed by at least 5% of persons entitled to vote in a ballot.
+
+(3) The three month period is calculated from the first day of any month.
+
+(4) Ballots on the same levy can be held, at the request of the persons entitled to vote, no more frequently than once every five years.
+
+(5) A request for a ballot is not valid if it is made within five years of the coming into force of this Order.
+
+## 10. Who can vote[^key-f8062fe6f71641bf3ab35fd72f8b526c]
+
+(1) Persons are entitled to vote provided they are currently levy payers or have been levy payers in the twelve months preceding the ballot.
+
+(2) Each person entitled to vote has one vote (if there is a partnership or legal personality representing a group of individuals then each partnership or legal personality has one vote).
+
+(3) Separate ballots may be held for different categories of voters.
+
+## 11. The result of a ballot[^key-f5353a1c7881b921e5339dfe25ab8abc]
+
+Quality Meat Scotland must inform the Scottish Ministers forthwith of the outcome of any ballot but the Scottish Ministers are not bound by the result of the ballot.
+
+## 12. Reports and accounts[^key-77ec35b33234b166d0830fcad3d68ea9]
+
+(1) For each financial year Quality Meat Scotland must–
+
+- (a) prepare an annual report on how it has discharged its functions during the year; and
+- (b) send a copy of the report to the Scottish Ministers within such period as the Scottish Ministers may specify.
+
+(2) In this article, “financial year” means–
+
+- (a) the period beginning with the day on which Quality Meat Scotland is established and ending with the next 31st March; and
+- (b) each subsequent period of 12 months ending with 31st March.
+
+(3) Quality Meat Scotland must keep proper accounts and proper records.
+
+(4) For each financial year, Quality Meat Scotland must–
+
+- (a) prepare a statement of accounts in respect of that financial year; and
+- (b) send copies of the statement to the Scottish Ministers and the Auditor General for Scotland within such period as the Scottish Ministers may specify.
+
+(5) The statement must be in such form as the Scottish Ministers may specify.
+
+(6) The Auditor General for Scotland must–
+
+- (a) examine, certify and report on the statement; and
+- (b) send a copy of the certified statement of its reports to the Scottish Ministers as soon as possible.
+
+(7) The Scottish Ministers must lay a copy of the report sent under paragraph (1) and a copy of the statement sent under paragraph (4) before the Scottish Parliament.
+
+## 13. Provision of information by Quality Meat Scotland[^key-801382fb8b0e6edd1ebb3005bb0a8887]
+
+(1) Quality Meat Scotland must provide the Scottish Ministers with such information as they may require relating to its property or to the discharge or proposed discharge of its functions.
+
+(2) Quality Meat Scotland must also–
+
+- (a) permit any person authorised by the Scottish Ministers to inspect and make copies of its accounts or other documents, and
+- (b) provide such explanation of them as that person or the appropriate authority may require.
+
+## 14. Provision of information to Quality Meat Scotland[^key-fdb63bf7c748b76b402120e85f42ba0a]
+
+(1) Any person obliged to pay levy under this Order must keep sufficient records to enable Quality Meat Scotland or a person acting on behalf of Quality Meat Scotland to establish how much levy is due, and must produce them to an officer of Quality Meat Scotland or a person acting on behalf of Quality Meat Scotland on demand.
+
+(2) It is an offence knowingly to provide false or misleading information relating to the requirements of this Order to Quality Meat Scotland.
+
+## 15. Offences and penalties[^key-d63f61f0fe9c5aba974a3359609d13ad]
+
+(1) A person guilty of an offence under this Order is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) Proceedings for an offence under paragraph (1) may be brought–
+
+- (a) within six months after the contravention occurred;
+- (b) in the case of a continuous contravention, within six months after the last date of such contravention,
+
+(3) The entire period of the contravention under paragraph (2)(b) may be included in any prosecution provided that the commencement of such proceedings is not more than 2 years after the date on which the offence was committed.
+
+(4) Where a body corporate is guilty of an offence under this Order, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of–
+
+- (a) any director, manager, secretary or other similar person of the body corporate; or
+- (b) any person who was purporting to act in any such capacity,
+
+that individual is guilty of the offence as well as the body corporate.
+
+(5) For the purposes of paragraph (4), “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(6) Where an offence under this Order that has been committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is guilty of the offence.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE 1 — FUNCTIONS OF QUALITY MEAT SCOTLAND
+
+Article 3
+
+**1.**[^key-0bfb4984122388bde151d3993a16dafb] Promoting or undertaking scientific research.
+
+**2.**[^key-bf42691894d17b18bd9e5d2ba0653690] (1) Promoting or undertaking inquiry–
+
+- (a) as to materials and equipment; and
+- (b) as to methods of production, management and labour utilisation.
+
+(2) Promoting or undertaking inquiry under sub-paragraph (1) includes promoting or undertaking–
+
+- (a) the discovery and development of–
+  - (i) new materials, equipment and methods, and
+  - (ii) improvements in those already in use,
+- (b) the assessment of the advantages of different alternatives, and
+- (c) the conduct of experimental establishments and of tests on a commercial scale.
+
+**3.**[^key-7ca694b5c7f7094ec21d8d78f43ebc73] Promoting the production and marketing of standard products.
+
+**4.**[^key-e4cd36782a9e9d19900e0a81e69fe439] Promoting the better definition of trade descriptions and consistency in the use of trade descriptions.
+
+**5.**[^key-c9242d213bf103d45c4cc730a4e76c39] Developing, promoting, marketing or operating–
+
+- (a) standards relating to the quality of products; or
+- (b) systems for the classification of products.
+
+**6.**[^key-2ee50e32ef004555e7967a6623085f28] Developing, reviewing or operating schemes for the certification of products or of operations connected with production or supply of products.
+
+**7.**[^key-e8364a9f23032a05ed1e38d6cfdc98b5] Undertaking the certification of products, the registration of certification trade marks, and the functions of proprietors of such marks.
+
+**8.**[^key-ac8cb49f14e865b57acdfaba27b0a1d7] Providing or promoting the provision of–
+
+- (a) training for persons engaged in or proposing to be engaged in the red meat sector; and
+- (b) their education in subjects relevant to the red meat sector.
+
+**9.**[^key-47cbe525a101f4a2f3e9d6a9d62b82b9] (1) Promoting–
+
+- (a) the adoption of measures for securing safer and better working conditions; and
+- (b) the provision and improvement of amenities for persons employed.
+
+(2) Promoting or undertaking inquiry as to measures for securing safer and better working conditions.
+
+**10.**[^key-43e2836ba8292394e7de5870c4dc9cf7] Promoting or undertaking research into the incidence, prevention and cure of industrial diseases.
+
+**11.**[^key-4c84b6c490c895768323c1723206ea4d] Promoting or undertaking arrangements for encouraging the entry of persons into the red meat sector.
+
+**12.**[^key-742699ebd9d80d8ffada74a92fb8c19f] Promoting or undertaking research for improving arrangements for marketing and distributing products.
+
+**13.**[^key-950050edc4ea20f2ba08d2c11e06c9f2] Promoting or undertaking research into matters relating to the consumption or use of goods and services supplied by the red meat sector.
+
+**14.**[^key-6226fb3f6fb663271e4adee26f3b07a1] Promoting arrangements–
+
+- (a) for co-operative organisations;
+- (b) for supplying materials and equipment; and
+- (c) for marketing and distributing products.
+
+**15.**[^key-c9c6a57121d5727b6f2cf9764673d9b9] Promoting the development of export trade, including promoting or undertaking arrangements for publicity overseas.
+
+**16.**[^key-a7d55aa3622f0ddbba1eca736d907515] Promoting or undertaking arrangements for better acquainting the public in Scotland with the goods and services supplied by the red meat sector and methods of using them.
+
+**17.**[^key-5732e9ef19431377f0a44072fadc2bf1] Promoting or undertaking the collection and formulation of statistics.
+
+**18.**[^key-3691d5600d8f3d4700589078b6ea04a0] Advising on any matters relating to the red meat sector (other than remuneration or conditions of employment) as to which the Scottish Ministers may request Quality Meat Scotland to advise, and undertaking inquiry for the purpose of enabling Quality Meat Scotland to advise on such matters.
+
+**19.**[^key-4ea6db131f6a5fe0f2a2d929f2a1dfc8] Undertaking arrangements for making available information obtained, and for advising, on matters with which the board is concerned in the exercise of any of its functions.
+
+**20.**[^key-a2ce95e951a1b1d0d3299ad6727d2f3a] Engaging in any form of collaboration or co-operation with other persons in performing any of their functions, and entering into such consultations with other authorities and persons as appear to them required to ensure that duplication of activities is avoided so far as practicable.
+
+## SCHEDULE 2 — CONSTITUTION, RELATED MATTERS AND PROCEEDINGS OF QUALITY MEAT SCOTLAND
+
+Article 4
+
+### 1. Procedure[^key-1105c1c8491d3ab8210a1a4a0035b1e2]
+
+(1) Quality Meat Scotland may determine its own procedure, and in particular it may–
+
+- (a) determine a quorum;
+- (b) appoint committees and sub-committees to advise it in the exercise of any of its functions;
+- (c) determine the quorum and procedure of any of its sub-committees.
+
+(2) Any committee appointed under paragraph (1) may include members who are not members of Quality Meat Scotland.
+
+(3) Quality Meat Scotland may pay to committee members any expenses properly incurred by them in carrying out its business, and may pay such remuneration and allowances as may be determined by the Scottish Ministers.
+
+### 2. Membership of the board[^key-871c7a4d0b518aab185b729183bae9c2]
+
+(1) The board shall consist of not more than 12 board members.
+
+(2) Not less than 50% of board members will be levy payers.
+
+(3) The board members shall be appointed by the Scottish Ministers.
+
+### 3. Board members' terms of office and removal from office[^key-c96f2c17dbcfb8c5527513395b6c8289]
+
+(1) The members of Quality Meat Scotland shall hold office for such term not exceeding four years as the Scottish Ministers may decide.
+
+(2) A member may resign by giving written notice to the Scottish Ministers.
+
+(3) The Scottish Ministers may remove a member who has–
+
+- (a) been absent from meetings of Quality Meat Scotland for a period of longer than 6 months without the permission of Quality Meat Scotland;
+- (b) become bankrupt or has made an arrangement with creditors or has had any estate sequestrated in Scotland; or
+- (c) in the opinion of the Scottish Ministers become unable, unfit or unsuitable to carry out the duties required by Quality Meat Scotland.
+
+(4) A person who ceases to be a member or ceases to be chairman or deputy chairman is eligible for reappointment to that office.
+
+(5) A person ceases to be chairman or deputy chairman if–
+
+- (a) they resign that office by giving written notice to the Scottish Ministers;
+- (b) they cease to be a member; or
+- (c) their term of office expires.
+
+(6) A member of the board must immediately disclose any direct or indirect interest in any contract or other matter proposed or discussed by the board.
+
+(7) The disclosure must be recorded in the minutes of the board, and that member shall not take part after the disclosure in any deliberation or decision of the board on that contract, but may, nevertheless, be taken into account for the purpose of constituting a quorum of the board.
+
+### 4. Board voting etc.[^key-499d0ec13895c5998a2e656493cc0679]
+
+Each member, including the chair, has one vote. In the case of an equality of votes at any meeting of Quality Meat Scotland, the person who is chairman at that meeting shall have a second or casting vote.
+
+### 5. Board remuneration and allowances[^key-02954d046e84e1d36d752f578699a571]
+
+(1) Quality Meat Scotland may pay to its members any expenses properly incurred by them in carrying out its business, and such remuneration and allowances as may be determined by the Scottish Ministers.
+
+(2) If–
+
+- (a) a person ceases to be a member; and
+- (b) it appears to the Scottish Ministers that there are special circumstances which made it appropriate for the person to receive compensation,
+
+the Scottish Ministers may require the board to pay the person such amount as the Scottish Ministers may determine.
+
+(3) The board may pay to committee members any expenses properly incurred by them in carrying out its business, and such remuneration and allowances as may be determined by the appropriate authority.
+
+### 6. Employees[^key-77aca2604f22aaad8e41570c1bb1b49d]
+
+Quality Meat Scotland may appoint such employees as it determines, and subject to the agreement of the Scottish Ministers, may pay to them such remuneration, pensions and other allowances as it determines.
+
+### 7. Reserve funds etc.[^key-01bb5777ab91f52c3f15e0f406f6cfc3]
+
+(1) Quality Meat Scotland may establish and maintain a reserve fund for the purposes of its functions.
+
+(2) Quality Meat Scotland may borrow money and grant securities over any of its property.
+
+### 8. Incidental powers[^key-4e8a59b45b5e2fb2c5defa0a59f5a7ac]
+
+Quality Meat Scotland may–
+
+- (a) enter into agreements;
+- (b) acquire or dispose of property;
+- (c) raise funds by voluntary contributions; and
+- (d) accept gifts.
+
+## SCHEDULE 3 — Levies
+
+Articles 6 and 7
+
+### Cattle, sheep and pigs
+
+#### 1. Levy on cattle, sheep and pigs[^key-8eb2828cc859a49d8b6fbbbd69ea771e]
+
+(1) An occupier of a slaughterhouse must pay levy on all cattle, sheep and pigs slaughtered.
+
+(2) Any person who exports live cattle, sheep or pigs must pay levy.
+
+#### 2. Basis for calculation of levy[^key-0f42e61d6936410db58428db8b2106b6]
+
+The levy is based on the number of animals slaughtered or exported.
+
+#### 3. Composition of levy[^key-dabd00bae26d7e41c4c6f77b295dff8a]
+
+The levy consists of two parts; the producer levy and the slaughter or export levy.
+
+#### 4. Deduction of producer levy[^key-be97288e26988261eb74f4f492654592]
+
+When a slaughterer or exporter buys an animal for slaughter or export the producer levy must be deducted from the price paid, and held in trust for Quality Meat Scotland.
+
+#### 5. Slaughter by non-owners[^key-98188d887a445c5d54fbc4d88fc78964]
+
+If a slaughterer slaughters an animal without buying it, the owner must be charged both the producer levy and the slaughter levy, which are to be held in trust for Quality Meat Scotland.
+
+#### 6. Failure to hold levy in trust[^key-d845e9b1e6dd7ffb97032e071eeba914]
+
+It is an offence knowingly to fail to place the levies specified in 4 or 5 into an individual bank account where they are identified as being held in trust for Quality Meat Scotland.
+
+#### 7. Maximum rate of producer levy[^key-a8736b33bc11a8ef510115db83dd0113]
+
+The maximum rate of producer levy is in accordance with the following table–
+
+<table>
+<thead>
+<tr><th>Producer levy</th><th>Maximum rate of levy per head</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">(a)<br>for these purposes a calf is an animal under six months old (in the case of an exported animal) or an animal with a dressed slaughter weight of less than 68kg.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Cattle (except calves)</td><td>£9.00</td></tr>
+<tr><td>Calf</td><td>£0.50</td></tr>
+<tr><td>Sheep</td><td>£1.50</td></tr>
+<tr><td>Pigs</td><td>£2.40</td></tr>
+</tbody>
+</table>
+
+[^key-0d509108ecc25cbe88e03dc24250ff21][^f01000][^key-d46f9358a9057e8f8a07efcb1aca9175][^key-23cb539eb1818d4d0d30e250371e1a4d]
+
+#### 8. Maximum rate of slaughterer or exporter levy[^key-33d6a6cd5be7f96117b2b6a8589dfb04]
+
+The maximum rate of slaughterer or exporter levy is in accordance with the following table–
+
+<table>
+<thead>
+<tr><th>Slaughterer or exporter levy</th><th>Maximum rate of levy per head</th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="2">(a)<br>for these purposes a calf is an animal under six months old (in the case of an exported animal) or an animal with a dressed slaughter weight of less than 68kg.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Cattle (except calves)</td><td>£3.00</td></tr>
+<tr><td>Calf</td><td>£0.50</td></tr>
+<tr><td>Sheep</td><td>£0.50</td></tr>
+<tr><td>Pigs</td><td>£0.60</td></tr>
+</tbody>
+</table>
+
+[^key-e3155aae8b7e7d10bcd72c5e9df4dabf][^f01001][^key-9a2c171d7c0b0996bf5bbee55fae0ff7][^key-1b657027910939e87c8b887141f2affe]
+
+#### 9. Exceptions and reductions[^key-8602425781aec0f0d15d9cbd3895c9db]
+
+(1) Levy is not payable for animals imported into the United Kingdom[^key-2ae9be5616d17901657638782c5b3354] and slaughtered within 3 months in the case of cattle and 2 months in the case of pigs or sheep.
+
+(2) Levy is not payable if an animal is subject to compulsory slaughter or the entire carcase is declared unfit for human consumption by the official veterinarian.
+
+(3) Quality Meat Scotland may make provision for a reduction of the slaughter levy and export levy to cover the administrative costs of the slaughterer or exporter in administering the levy.
+
+#### 10. Returns by slaughterhouse occupiers[^key-b23cff914665f4a7319e80b34d3dda1e]
+
+(1) An occupier of a slaughterhouse must notify Quality Meat Scotland by the end of each Wednesday, of the number of animals subject to levy slaughtered in the previous week up to the end of Sunday, broken down into types of animal.
+
+(2) If an occupier estimates that the total number of animals that will be slaughtered will be fewer than 25 each week, he may apply to Quality Meat Scotland to be registered as a small operator; and if Quality Meat Scotland agrees to so register him, he must notify Quality Meat Scotland on or before the 15th day of each month of the number of animals subject to levy slaughtered in the previous month broken down into types of animal.
+
+(3) Failure to comply with this paragraph is an offence.
+
+#### 11. Payment of levy by slaughterhouse occupiers[^key-f4eb6017c64db91480041bfb933e8940]
+
+(1) An occupier of a slaughterhouse must pay Quality Meat Scotland the levy due for animals slaughtered on a monthly basis.
+
+(2) Levy payments must be received by cleared funds within 30 days from the end of each month.
+
+#### 12. Payment of the by exporters[^key-10c76a3fa793b709037f31c401e3e3bb]
+
+(1) An exporter must notify Quality Meat Scotland, within 30 days of the end of the month, of the number of animals exported in that month, and failure to do so is an offence.
+
+(2) Levy payments must be received by cleared funds within 30 days from the end of each month.
+
+#### 13. Enforcement[^key-ae50d3ae5c474bc7ac02ea9a96c70fd1]
+
+(1) A person appointed by Quality Meat Scotland may, on producing a duly authenticated document showing authority if required, enter any slaughterhouse at any reasonable hour to check any records to ensure that the correct levy has been paid.
+
+(2) It is an offence to obstruct any person acting under this paragraph or to fail to produce records on demand.
+
+(This note is not part of the Order )
+
+This Order creates a new body called Quality Meat Scotland (QMS) (Article 3).
+
+QMS has functions and duties relating to the beef, sheepmeat and pork industries. It operates for these industries in Scotland. The Order contains provisions for the constitution and proceedings of the Board (Article 4 and Schedule 2).
+
+The Board must raise levies relating to each industry (Article 6). Details of payment of the levies, and the maximum permitted levy, are set out in Schedule 3. Under that Schedule, failure to make a return relating to a levy is an offence.
+
+Article 5 permits QMS to delegate functions (specified in Schedule 1) to a subsidiary company.
+
+If demanded by a set percentage of levy payers in any given sector, the Board must hold a ballot on whether or not the levy system should continue in that sector (Articles 9, 10 and 11). Ballots can also be called by QMS or by the Scottish Ministers through a direction to QMS.
+
+Article 12 provides details of the reports and accounts which QMS must provide.
+
+Article 13 provides for specified required information which QMS must provide or make available.
+
+Article 14 provides for specified information which is to be made available to QMS by levy payers.
+
+Article 15 specifies the offences and penalties for breaches of particular aspects of the Order.
+
+The penalty for breach of the Order is a fine not exceeding level 5 on the standard scale (currently £5,000).
+
+A Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government Rural Directorate, Pentland House, 47 Robb’s Loan, Edinburgh, EH14 1TY.
+
+## Annotations
+
+[^f00001]: Footnote: Section 96 defines the Scottish Ministers as the appropriate authority in relation to matters concerning Scotland only.
+
+[^f00002]: Footnote: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16).
+
+[^key-97b7f119dd180ef0e5c1f207dcca19c8]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2008/77/article/1) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-99b48a8487a962a1166328432f8220f6]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2008/77/article/2) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-ba9d53a250094e54b4d3e294b9adb0de]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2008/77/article/3) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-d91dab9b4211660b15498131e28f04f1]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2008/77/article/4) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-8d6a7d3dddc03259d80b0f52e671faa2]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2008/77/article/5) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-7d597aba75f3af85b65ffb6370dd5ab2]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2008/77/article/6) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-3a910a030e9a2bcf130ff5333303236d]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2008/77/article/7) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-67eca3a76e8a5917954fde6e3534c388]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2008/77/article/8) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-fa0ddeacb3116d59f7b0c65abcddff5f]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2008/77/article/9) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-f8062fe6f71641bf3ab35fd72f8b526c]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2008/77/article/10) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-f5353a1c7881b921e5339dfe25ab8abc]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2008/77/article/11) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-77ec35b33234b166d0830fcad3d68ea9]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2008/77/article/12) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-801382fb8b0e6edd1ebb3005bb0a8887]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2008/77/article/13) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-fdb63bf7c748b76b402120e85f42ba0a]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2008/77/article/14) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-d63f61f0fe9c5aba974a3359609d13ad]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2008/77/article/15) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-0bfb4984122388bde151d3993a16dafb]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/1) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-bf42691894d17b18bd9e5d2ba0653690]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/2) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-7ca694b5c7f7094ec21d8d78f43ebc73]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/3) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-e4cd36782a9e9d19900e0a81e69fe439]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/4) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-c9242d213bf103d45c4cc730a4e76c39]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/5) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-2ee50e32ef004555e7967a6623085f28]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/6) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-e8364a9f23032a05ed1e38d6cfdc98b5]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/7) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-ac8cb49f14e865b57acdfaba27b0a1d7]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/8) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-47cbe525a101f4a2f3e9d6a9d62b82b9]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/9) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-43e2836ba8292394e7de5870c4dc9cf7]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/10) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-4c84b6c490c895768323c1723206ea4d]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/11) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-742699ebd9d80d8ffada74a92fb8c19f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/12) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-950050edc4ea20f2ba08d2c11e06c9f2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/13) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-6226fb3f6fb663271e4adee26f3b07a1]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/14) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-c9c6a57121d5727b6f2cf9764673d9b9]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/15) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-a7d55aa3622f0ddbba1eca736d907515]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/16) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-5732e9ef19431377f0a44072fadc2bf1]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/17) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-3691d5600d8f3d4700589078b6ea04a0]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/18) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-4ea6db131f6a5fe0f2a2d929f2a1dfc8]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/19) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-a2ce95e951a1b1d0d3299ad6727d2f3a]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ssi/2008/77/schedule/1/paragraph/20) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-1105c1c8491d3ab8210a1a4a0035b1e2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2008/77/schedule/2/paragraph/1) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-871c7a4d0b518aab185b729183bae9c2]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2008/77/schedule/2/paragraph/2) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-c96f2c17dbcfb8c5527513395b6c8289]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2008/77/schedule/2/paragraph/3) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-499d0ec13895c5998a2e656493cc0679]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2008/77/schedule/2/paragraph/4) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-02954d046e84e1d36d752f578699a571]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2008/77/schedule/2/paragraph/5) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-77aca2604f22aaad8e41570c1bb1b49d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2008/77/schedule/2/paragraph/6) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-01bb5777ab91f52c3f15e0f406f6cfc3]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2008/77/schedule/2/paragraph/7) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-4e8a59b45b5e2fb2c5defa0a59f5a7ac]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2008/77/schedule/2/paragraph/8) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-8eb2828cc859a49d8b6fbbbd69ea771e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/1) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-0f42e61d6936410db58428db8b2106b6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/2) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-dabd00bae26d7e41c4c6f77b295dff8a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/3) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-be97288e26988261eb74f4f492654592]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/4) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-98188d887a445c5d54fbc4d88fc78964]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/5) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-d845e9b1e6dd7ffb97032e071eeba914]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/6) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-a8736b33bc11a8ef510115db83dd0113]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/7) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-0d509108ecc25cbe88e03dc24250ff21]: Textual amendment: Sum in [sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/7) table substituted (22.12.2023) by [The Quality Meat Scotland (Amendment) Order 2023 (S.S.I. 2023/378)](https://www.legislation.gov.uk/ssi/2023/378), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/378/article/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2023/378/article/3/a)
+
+[^f01000]: Footnote: (a)
+
+    for these purposes a calf is an animal under six months old (in the case of an exported animal) or an animal with a dressed slaughter weight of less than 68kg.
+
+[^key-d46f9358a9057e8f8a07efcb1aca9175]: Textual amendment: Sum in [sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/7) table substituted (22.12.2023) by [The Quality Meat Scotland (Amendment) Order 2023 (S.S.I. 2023/378)](https://www.legislation.gov.uk/ssi/2023/378), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/378/article/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2023/378/article/3/b)
+
+[^key-23cb539eb1818d4d0d30e250371e1a4d]: Textual amendment: Sum in [sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/7) table substituted (22.12.2023) by [The Quality Meat Scotland (Amendment) Order 2023 (S.S.I. 2023/378)](https://www.legislation.gov.uk/ssi/2023/378), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/378/article/1/1), [3(c)](https://www.legislation.gov.uk/ssi/2023/378/article/3/c)
+
+[^key-33d6a6cd5be7f96117b2b6a8589dfb04]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/8) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-e3155aae8b7e7d10bcd72c5e9df4dabf]: Textual amendment: Sum in [sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/8) table substituted (22.12.2023) by [The Quality Meat Scotland (Amendment) Order 2023 (S.S.I. 2023/378)](https://www.legislation.gov.uk/ssi/2023/378), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/378/article/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2023/378/article/4/a)
+
+[^f01001]: Footnote: (a)
+
+    for these purposes a calf is an animal under six months old (in the case of an exported animal) or an animal with a dressed slaughter weight of less than 68kg.
+
+[^key-9a2c171d7c0b0996bf5bbee55fae0ff7]: Textual amendment: Sum in [sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/8) table substituted (22.12.2023) by [The Quality Meat Scotland (Amendment) Order 2023 (S.S.I. 2023/378)](https://www.legislation.gov.uk/ssi/2023/378), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/378/article/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2023/378/article/4/b)
+
+[^key-1b657027910939e87c8b887141f2affe]: Textual amendment: Sum in [sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/8) table substituted (22.12.2023) by [The Quality Meat Scotland (Amendment) Order 2023 (S.S.I. 2023/378)](https://www.legislation.gov.uk/ssi/2023/378), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/378/article/1/1), [4(c)](https://www.legislation.gov.uk/ssi/2023/378/article/4/c)
+
+[^key-8602425781aec0f0d15d9cbd3895c9db]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/9) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-2ae9be5616d17901657638782c5b3354]: Textual amendment: Words in [sch. 3 para. 9(1)](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/9/1) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/73)](https://www.legislation.gov.uk/ssi/2019/73), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/73/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2019/73/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b23cff914665f4a7319e80b34d3dda1e]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/10) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-f4eb6017c64db91480041bfb933e8940]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/11) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-10c76a3fa793b709037f31c401e3e3bb]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/12) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)
+
+[^key-ae50d3ae5c474bc7ac02ea9a96c70fd1]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ssi/2008/77/schedule/3/paragraph/13) in force at 1.4.2008, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2008/77/article/1/2)

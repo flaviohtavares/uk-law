@@ -1,0 +1,604 @@
+---
+title: The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013
+id: ssi/2013/266
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-09-11'
+text_date: '2025-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/266
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/266/pdfs/ssipn_20130266_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/266/pdfs/ssi_20130266_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/266/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013
+
+> Text as at 2025-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 266
+
+Food
+
+The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013
+
+Made
+
+11th September 2013
+
+Laid before the Scottish Parliament
+
+13th September 2013
+
+Coming into force
+
+31st October 2013
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 6(4), 16(1)(a), (c), (e) and (f), 17(1) and (2), 26(1) and (3), and 48(1) of the Food Safety Act 1990 [^c21894301], paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c21894311] and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for any reference to an Article of or an Annex to any of the EU instruments specified in regulation 2(4) to be construed as a reference to that Article or that Annex as amended from time to time.
+
+In accordance with section 48(4A) of the Food Safety Act 1990 [^c21894321], the Scottish Ministers have had regard to relevant advice given by the Food Standards Agency.
+
+There has been consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21894331].
+
+## PART 1 — Introductory[^key-2b89422dedf87af33f6edf1f0546250c]
+
+### 1. Citation, extent and commencement
+
+These Regulations may be cited as the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013, extend to Scotland only and come into force on 31st October 2013.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Food Safety Act 1990;
+- [^key-b262e1d444069b8eacbf65c8244576d2]...
+- “**Regulation 2065/2003**” means Regulation [(EC) No 2065/2003](https://www.legislation.gov.uk/european/regulation/2003/2065) of the European Parliament and of the Council on smoke flavourings used or intended for use in or on foods [^c21894351];
+- “**Regulation 1332/2008**” means Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332) of the European Parliament and of the Council on food enzymes [^c21894361];
+- “**Regulation 1333/2008**” means Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives [^c21894371][^key-d1e8dd47dc937bb71f46564408b4aba8]...
+- “**Regulation 1334/2008**” means Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334) of the European Parliament and of the Council on flavourings and certain food ingredients with flavouring properties for use in and on foods [^c21894411][^key-441272b8267986572ca672afb8ec02a7]...
+- “**authorised officer**” means any person who is authorised in writing, either generally or specially, by a food authority to act in matters arising under these Regulations;
+
+(2) Other expressions used in these Regulations and in the [^key-9201c9b45ab6f00c2de2e6fe82a3b180]... instruments listed in paragraph (4) have the same meaning in these Regulations as they do in those instruments.
+
+(3) Any reference in these Regulations to a provision of[^key-a049b5855802d57bc2a083307083f80e] any of the [^key-890f99f5a22edae987def26d37cc31b4]... instruments listed in paragraph (4) is a reference to that provision[^key-0471626655267344f5d7ca84dc4b9a0d] as amended from time to time.
+
+(4) The instruments are[^key-cdb9f292478c79c3b0ebe9a72d94e289] Regulation 2065/2003, Regulation [(EC) No 1331/2008](https://www.legislation.gov.uk/european/regulation/2008/1331) of the European Parliament and of the Council establishing a common authorisation procedure for food additives, food enzymes and food flavourings [^c21894431], Regulation 1332/2008, Regulation 1333/2008 and Regulation 1334/2008.
+
+(5) The expression “**the assimilated[^key-069b7f60ecbf5348f53240ae580526fb] Regulations**” means Regulation 2065/2003, Regulation 1332/2008, Regulation 1333/2008 and Regulation 1334/2008.
+
+## PART 2 — Food additives, flavourings and enzymes
+
+### 3. Offence of contravening EU requirements on food additives
+
+Any person who contravenes, or who uses or places on the market a product that fails to comply with, any of the provisions of Regulation 1333/2008 specified in the first column of Schedule 1, as read with transitional measures contained in or to be read with that Regulation, commits an offence.
+
+### 4. Offence of contravening EU requirements on flavourings, including smoke flavourings
+
+Any person who contravenes, or who uses or places on the market a product which fails to comply with, any of the provisions of Regulation 1334/2008 specified in the first column of Schedule 2, as read with [^key-1120b47c57e1bda75a4c7110ec140209]... transitional measures contained in or to be read with Regulation 1334/2008, commits an offence.
+
+### 5.
+
+Any person who contravenes, or who uses or places on the market a product which fails to comply with, any of the provisions of Regulation 2065/2003 specified in the first column of Schedule 3, [^key-bbf904887ee9c4b40c3fcbffd4dcf0bb]... commits an offence.
+
+### 6. Offence of contravening EU requirements on food enzymes
+
+Any person who contravenes, or who uses or places on the market a product which fails to comply with, any of the provisions of Regulation 1332/2008 specified in the first column of Schedule 4, as read with Articles 18 and 24 (transitional measures) of that Regulation, commits an offence.
+
+## PART 3 — Extraction solvents[^key-da2af67a769b8cd5bea838601f3396fc]
+
+### 7. Controls on extraction solvents[^key-71e0bba7fa7304c223a988f4989a3b7e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8.
+
+The provisions of this Part do not apply to any extraction solvent—
+
+- (a) used in the production of any food additives, vitamins or any other nutritional additives, unless such food additives, vitamins or other nutritional additives are listed in schedule 6[^key-72b75ea5a5ba1d983bde7708d1ae4ee1]; or
+- (b) intended for export outside Great Britain[^key-1877970bf1806e04bc815aa4429964ec].
+
+### 9.
+
+In this Part “**permitted extraction solvent**” means—
+
+- (a) an extraction solvent that—
+  - (i) is listed in schedule 6[^key-cc904d616e0b9fa95b4135d206a1658a];
+  - (ii) is used in accordance with the conditions of use and within any maximum residue limits specified in schedule 6[^key-40db163d404c342b333968c58e062615];
+  - (iii) does not contain a toxicologically dangerous amount of any element or substance; and[^key-e959b3a39573eeca30040f20031ffc2a]
+  - (iv) subject to any exceptions deriving from specific purity criteria, does not contain more than 1 mg/kg of arsenic or more than 1 mg/kg lead; [^key-f7f06e59d48cb5ac3b111cc0fcc2ee36]...
+  - (v)[^key-60df39e02e1c6eb71707239a65307682] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) water to which substances regulating acidity or alkalinity may have been added; or
+- (c) food substances which possess solvent properties.
+
+### 10.
+
+No person may use as an extraction solvent in the production of food any extraction solvent that is not a permitted extraction solvent.
+
+### 11.
+
+(1) No person may place on the market—
+
+- (a) an extraction solvent that is not a permitted extraction solvent; or
+- (b) any food having in it or on it an added extraction solvent that is not a permitted extraction solvent.
+
+(2) No person may place on the market an extraction solvent that does not meet the requirements of regulation 12.
+
+### 12.
+
+(1) Subject to paragraph (2), the following information must appear on the packaging, container or label—
+
+- (a) the commercial name as indicated in schedule 6[^key-eda90452bde290e34fd2c10ae2231b83];
+- (b) a clear indication that the material is of a quality suitable for use for the extraction of food or food ingredients;
+- (c) a reference by which the batch or lot may be identified;
+- (d) the name or business name and address of the manufacturer or packer or of a seller established in the United Kingdom[^key-e14d5b8f4c5899ceffe8bd30b5baedd2];
+- (e) the net quantity given as units of volume; and
+- (f) if necessary, the special storage conditions or conditions of use.
+
+(2) The particulars specified in subparagraphs (c), (d), (e) and (f) of paragraph (1) may alternatively appear on the trade documents relating to the batch or lot which are to be supplied with, or prior to, the delivery.
+
+(3) The information specified in paragraph (1) must be easily visible, clearly legible and indelible.
+
+(4) The information specified in paragraph (1) may be provided in more than one language, but at least one of those languages must be easily understood by the purchaser unless other measures have been taken to ensure that the purchaser is informed of the specified information.
+
+## PART 4 — Administration and enforcement
+
+### 13. Authority[^key-397bd35a623170a83a12293cc0e3eb53]
+
+The [^key-900d108e70ea6c9d698196f8158872fa]... authority for the purpose of Article 7 of Regulation 2065/2003 is the Food Standards Scotland[^key-cd1a2930a9ad7de1864b272be291cb8b].
+
+### 14. Enforcement authorities
+
+It is the duty of each food authority within its area to execute and enforce these Regulations and the assimilated[^key-bda20cfde557b7756dface888211b4b7] Regulations.
+
+### 15. Offences and penalties
+
+(1) Any person who contravenes regulation 10 or 11 commits an offence.
+
+(2) Any person who commits an offence under regulation 3, 4, 5, 6 or 15(1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+### 15A. Transitional provision: withdrawal from the EU[^key-f1dd8bad878d592763b63dba56831437]
+
+A person is to be considered not to have contravened regulation 11(2), as it applies to regulation 12(1)(d), in the following circumstances—
+
+- (a) an extraction solvent has the name or business name and address of the manufacturer or packer, or of a seller established in the territory of the European Union, appearing on the packaging, container or label,
+- (b) this would have complied with regulation 11(2), as it applies to regulation 12(1)(d) immediately before IP completion day, and
+- (c) the extraction solvent is placed on the market no later than 31 December 2023[^key-de4b8f7c1e03acf94f4e46de359090e7].
+
+### 16. Condemnation of food
+
+(1) Paragraph (2) applies where it appears to an authorised officer that—
+
+- (a) a product fails to comply with any of the requirements specified in the first column of Schedule 1, as read with transitional measures contained in or to be read with Regulation 1333/2008;
+- (b) a product fails to comply with any of the requirements specified in the first column of Schedule 2, [^key-b8030b2a4063564910fa21688a36d4fb]... as read with transitional measures contained in or to be read with Regulation 1334/2008;
+- (c) a product fails to comply with any of the requirements specified in the first column of Schedule 3, [^key-fa48039dcab2adcb8bed9d2e65f5fa0d]...;
+- (d) a product fails to comply with any of the requirements specified in the first column of Schedule 4, as read with Articles 18 and 24 of Regulation 1332/2008; or
+- (e) a food is placed on the market in contravention of the prohibition in regulation 11(1)(b).
+
+(2) Where this paragraph applies, subsections (3) to (9) of section 9 of the Act apply with the following modifications—
+
+- (a) references to “food” are to be read as including a reference to “product”;
+- (b) references to “food safety requirements” are to be read as including a reference to—
+  - (i) any of the requirements referred to in sub-paragraphs (1)(a) to (d);
+  - (ii) the prohibition referred to in sub-paragraph (1)(e).
+
+### 17. Application of various provisions of the Food Safety Act 1990
+
+(1) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations—
+
+- (a) section 20 (offences due to fault of another person);
+- (b) section 21 (defence of due diligence) [^c21894451] with the modification that—
+  - (i) subsections (2) to (4) apply in relation to an offence under regulation 3, 4, 5, 6 or 15 as they apply in relation to an offence under section 14 or 15; and
+  - (ii) in subsection (4) the references to “sale” are deemed to include references to “placing on the market”;
+- (c) section 30(8) (which relates to documentary evidence);
+- (d) section 35(1) (punishment of offences), in so far as it relates to offences under section 33(1) as applied by paragraph (2)(b);
+- (e) section 35(2) and (3) [^c21894461], in so far as it relates to offences under section 33(2) as applied by paragraph (2)(c);
+- (f) section 36 (offences by bodies corporate); and
+- (g) section 36A (offences by Scottish partnerships) [^c21894471].
+
+(2) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act is to be construed as including a reference to the assimilated[^key-0036e6527a32856d3d06d2ad8f15c795] Regulations and these Regulations—
+
+- (a) section 3 (presumption that food intended for human consumption) with the modification that the references to “sold” and “sale” are deemed to include references to “placed on the market” and “placing on the market” respectively;
+- (b) section 33(1) (obstruction etc. of officers);
+- (c) section 33(2), with the modification that the reference to “any such requirement as is mentioned in subsection (1)(b) above” is deemed to be a reference to any such requirement as is mentioned in that subsection as applied by sub-paragraph (b); and
+- (d) section 44 (protection of officers acting in good faith).
+
+(3) Section 34 of the Act (time limit for prosecutions) applies to offences under these Regulations as it applies to offences punishable under section 35(2) of the Act.
+
+## PART 5 — General
+
+### 18. Consequential and other amendments
+
+(1)[^key-91bc73327f267951f16148fdae73d98e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In regulation 2(1) (interpretation) of the Jam and Similar Products (Scotland) Regulations 2004 [^c21894491], in the definition of “permitted sweetener” for the expression “the Food Additives (Scotland) Regulations 2009” substitute “ Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives ”.
+
+### 19. Revocations
+
+The instruments listed in the first column of Schedule 5 are revoked to the extent specified in the second column.
+
+MICHAEL MATHESON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — Specified provisions of Regulation 1333/2008
+
+Regulation 3
+
+| *Provision of Regulation 1333/2008* | *Subject matter* |
+| --- | --- |
+| Article 4.1 (as read with Articles 11.3 and 11.4, 12, 13.2, and 18.1(a), 18.2 and 18.3) | Requirement that only food additives authorised in accordance with[^key-4ee66915d41f8c0cef7b4e0d28be19db] Regulation 1333/2008 be placed on the market as such and that they be used in accordance with any conditions specified in those Articles and in the authorisations concerned[^key-fe14c4100eae98b2ce8b6c7954cfaded]. |
+| Article 4.2 (as read with Articles 12, 13.2 and 18.3) | Requirement that only food additives authorised in accordance with[^key-201510286dadfe7a51e6233b803728e5] Regulation 1333/2008 may be used in food additives, food enzymes, food flavourings and nutrients and under the conditions of use specified in the authorisations concerned[^key-244a3a4056206c193a6962f81c283e1a]. |
+| Article 4.5 | Requirement that food additives comply with the specifications referred to in Article 14 of Regulation 1333/2008. |
+| Article 5 | Prohibition on placing on the market of food additives or food containing food additives if the use of the food additive does not comply with Regulation 1333/2008. |
+| Article 11.2 | Requirement to use food additives in accordance with the *quantum satis* principle where no maximum numerical level is fixed for the additive concerned. |
+| Article 15 | Prohibition on use of food additives in unprocessed foods except where provided for in authorisations in accordance with[^key-ff4b2c8eb64b9db64e81328db4937f11] Regulation 1333/2008. |
+| Article 16 | Prohibition on use of food additives in foods for infants and young children (including dietary foods for infants and young children for special medical purposes) except where provided for in authorisations in accordance with Regulation 1333/2008. |
+| Article 17 | Requirement to use only food colours authorised in accordance with[^key-adce0e0859c246d8ee895a1f01f79357] Regulation 1333/2008 for the purpose of health marking meat or meat products, decorative colouring of eggshells or stamping of eggshells. |
+| Article 18.1(b) (as read with Article 18.2) | Requirement that food additives be present in food to which a food additive, food enzyme or food flavouring has been added, only if the additive is permitted in the additive, enzyme or flavouring under Regulation 1333/2008, has been carried over to the food via the additive, enzyme or flavouring and has no technological function in the final food. |
+| Article 18.1(c) (as read with Article 18.2) | Requirement that food additives be present in foods to be used solely in the preparation of a compound food only if the compound food complies with Regulation 1333/2008. |
+| Article 18.4 | Requirement that food additives be used as sweeteners in compound foods with no added sugars, energy reduced compound foods with no added sugars, energy reduced compound foods, compound dietary foods intended for low calorie diets, non cariogenic compound foods and compound foods with an increased shelf life only if the sweetener is permitted in any of the ingredients of the compound food. |
+| Article 21.1 (as read with Article 22) | Requirement that food additives not intended for sale to the final consumer be labelled, in accordance with Article 22 of Regulation 1333/2008, visibly, clearly legibly and indelibly and in a language easily understandable to purchasers. |
+| Article 23.1 (as read with Article 23.2 and 23.5) | Prohibition on marketing of food additives sold singly or mixed with each other and/or other food ingredients and intended for sale to the final consumer unless their packaging contains specified information. |
+| Article 23.3 (as read with Article 23.5) | Requirement that the labelling of table-top sweeteners containing polyols and/or aspartame and/or aspartame – acesulfame salt bear specified warnings. |
+| Article 23.4 | Requirement that manufacturers of table top sweeteners make available by appropriate means the information necessary to allow safe use by consumers. |
+| Article 24.1 (as read with Article 24.2) | Requirement that labelling of the food containing the colours listed in Annex V should contain the additional information specified in that Annex. |
+| Article 26.1 | Requirement that producers and users of food additives inform the Authority[^key-0a5cfcf037ece6fe83de08b3c6dee245] immediately of any new scientific or technical information which might affect the assessment of the safety of the food additive concerned. |
+| Article 26.2 | Requirement that producers and users of food additives, at the request of the Authority, inform it of the actual use of the food additive concerned. |
+
+## SCHEDULE 2 — Specified provisions of Regulation 1334/2008
+
+Regulation 4
+
+| *Provision of Regulation 1334/2008* | *Subject matter* |
+| --- | --- |
+| Article 4 | Requirement that the use of flavourings or food ingredients with flavouring properties does not pose a safety risk or mislead the consumer. |
+| Article 5 | Prohibition on the placing on the market of non-compliant flavourings or non-compliant food. |
+| Article 6.1 (as read with Part A of Annex III) | Prohibition on adding certain specified substances as such in foods. |
+| Article 6.2 (as read with Part B of Annex III) | Requirement that certain substances naturally present in flavourings or food ingredients with flavouring properties should not exceed specified levels in compound foods as a result of the use of flavourings or food ingredients with flavouring properties. |
+| Article 7.1 (as read with Part A of Annex IV) | Prohibition on the use of certain source materials to produce flavourings or food ingredients with flavouring properties. |
+| Article 7.2 (as read with Part B of Annex IV) | Restrictions on the use of flavourings or food ingredients with flavouring properties produced from certain source materials. |
+| Article 10 | Restriction on the placing on the market or use of flavourings and source materials that are not permitted to be placed on the market or used in or on foods in accordance with Regulation 1334/2008[^key-034c714dc567fe083cb50a7fbbb33293]. |
+| Article 14.1 (as read with Articles 15 and 16) | Requirements for the labelling of flavourings not intended for sale to the final consumer. |
+| Article 17 (as read with Articles 15.1(a) and 16) | Requirements for the labelling of flavourings intended for sale to the final consumer. |
+| Article 19.2 | Requirement that a producer or user of an approved flavouring that is prepared by production methods or using starting materials significantly different from those included in the risk assessment must submit the necessary data to the Authority[^key-7e5de083441483c48287be82658d221f] to allow an evaluation with regard to the modified production method or characteristics before marketing the flavouring. |
+| Article 19.3 | Requirement on food business operators to inform the Authority immediately if they become aware of any new scientific or technical information that might affect the assessment of the safety of a flavouring substance. |
+
+## SCHEDULE 3 — Specified provisions of Regulation 2065/2003
+
+Regulation 5
+
+| *Provision of Regulation 2065/2003* | *Subject matter* |
+| --- | --- |
+| Article 4.2 | Prohibition on marketing a smoke flavouring that is not authorised in accordance with Regulation 2065/2003[^key-8aa7da7080e60d63cc6404b1117a02cb], or any food in or on which such a smoke flavouring is present. |
+| Article 4.2 | Prohibition on marketing an authorised smoke flavouring, or any food in or on which such a smoke flavouring is present, otherwise than in accordance with any conditions of use laid down in the authorisation. |
+| Article 5.1, first subparagraph | Prohibition on using treated wood, unless it can be demonstrated by appropriate certification or documentation that the substance used in treatment does not give rise to potentially toxic substances during combustion. |
+| Article 5.1, second subparagraph | Requirement to be able to demonstrate by documentation or certification that the prohibition in the first paragraph of Article 5.1 has been observed. |
+| Article 5.2, first sentence | Requirement to observe conditions in Annex I during production of primary products (primary smoke condensates or primary tar fractions). |
+| Article 5.2, second sentence | Prohibition on the use of water-insoluble oily phase during the production of smoke flavourings. |
+| Article 9.4 | Requirement that an authorisation holder or any other food business operator using an authorised product, or a derived smoke flavouring produced from an authorised product, must comply with any conditions or restrictions attached to the authorisation. |
+| Article 9.5 | Requirement that an authorisation holder inform the Authority[^key-f28c13a9ea0adaa25977a3a8bec26739] immediately of any new scientific or technical information relating to an authorised product which might influence the assessment of its safety. |
+| Article 13.1 | Requirement that food business operators ensure the specified information is transmitted to the receiving food business operator when the product is first placed on the market. |
+| Article 13.2 | Requirement that following the first placing on the market, on each subsequent occasion that the product is placed on the market, food business operators placing products on the market transmit the information specified in Article 13.1 to the receiving food business operators. |
+
+## SCHEDULE 4 — Specified provisions of Regulation 1332/2008
+
+Regulation 6
+
+| *Provision of Regulation 1332/2008* | *Subject matter* |
+| --- | --- |
+| Article 4 | Requirement that food enzymes may not be placed on the market as such or used in foods unless they are authorised in accordance with Regulation 1332/2008, and in accordance with any specifications and conditions of use set out in the authorisations concerned, subject to Article 24 of Regulation 1332/2008[^key-686eb5f2f2227c3b1672793ed1ee9e78] of authorised enzymes provided for in Article 17 and in accordance with the prescribed specifications and conditions of use. |
+| Article 5 | Prohibition on placing on the market of non-compliant food enzymes or foods containing such enzymes which do not comply with Regulation 1332/2008 and its implementing measures. |
+| Article 10.1 (as read with Article 11) | Requirements for labelling of food enzymes and preparations not intended for sale to the final consumer. |
+| Article 12.1 | Requirements for labelling of food enzymes and preparations intended for sale to the final consumer. |
+| Article 14.1 | Requirement that a producer or user of a food enzyme shall inform the Authority[^key-fb9e139105a6e791c91f670eeff29bcb] immediately of any new scientific or technical information that might affect its safety assessment. |
+| Article 14.2 | Requirement that a producer or user of an approved food enzyme that is prepared by production methods or using starting materials significantly different from those included in the risk assessment must submit the necessary data to the Authority to allow an evaluation with regard to the modified production method or characteristics before marketing the enzyme. |
+
+## SCHEDULE 5 — Revocations
+
+Regulation 19
+
+| *Name of instrument* | *Extent of revocation* |
+| --- | --- |
+| The Extraction Solvents in Food Regulations 1993 (S.I. 1993/1658) | The whole Regulations. |
+| The Extraction Solvents in Food (Amendment) Regulations 1995 (S.I. 1995/1440) | The whole Regulations. |
+| The Extraction Solvents in Food (Amendment) Regulations 1998 (S.I. 1998/2257) | The whole Regulations. |
+| The Extraction Solvents in Food Amendment (Scotland) Regulations 2011 (S.S.I. 2011/306) | The whole Regulations. |
+| The Miscellaneous Food Additives (Amendment) Regulations 1997 (S.I. 1997/1413) | The whole Regulations. |
+| The Miscellaneous Food Additives (Amendment) Regulations 1999 (S.I. 1999/1136) | The whole Regulations. |
+| The Miscellaneous Food Additives (Amendment) (Scotland) Regulations 2001 (S.S.I. 2001/103) | The whole Regulations. |
+| The Miscellaneous Food Additives (Amendment) (No. 2) (Scotland) Regulations 2001(S.S.I. 2001/450) | The whole Regulations. |
+| The Miscellaneous Food Additives (Amendment) (Scotland) Regulations 2003(S.S.I. 2003/132) | The whole Regulations. |
+| The Miscellaneous Food Additives Amendment (Scotland) (No. 2) Regulations 2003 (S.S.I 2003/599) | The whole Regulations. |
+| The Miscellaneous Food Additives Amendment (Scotland) Regulations 2004 (S.S.I. 2004/413) | The whole Regulations. |
+| The Miscellaneous Food Additives Amendment (Scotland) Regulations 2005/214 | The whole Regulations. |
+| The Food (Suspension of the Use of E 128 Red 2G as Food Colour) (Scotland) Regulations 2007 (S.S.I. 2007/363) | The whole Regulations. |
+| The Smoke Flavourings (Scotland) Regulations 2005 (S.S.I. 2005/215) | The whole Regulations. |
+| The Food Enzymes (Scotland) Regulations 2009 (S.S.I. 2009/435) | Regulations 3, 4, 5 and 6. |
+| The Food Additives (Scotland) Regulations 2009 (S.S.I. 2009/436) | All provisions except regulations 1, 2, 18 and 19. |
+| The Food Additives (Scotland) Amendment Regulations 2012 (S.S.I. 2012/119) | Regulation 2(4) and (6). |
+| The Flavourings in Food (Scotland) Regulations 2010 (S.S.I. 2010/439) | All provisions except regulations 1, 2 and 7. |
+
+## SCHEDULE 6 — Extraction solvents which may be used during the processing of raw materials, of foodstuffs, of food components or of food ingredients[^key-10918cf501f4aaffcbb07bab70869dfc][^key-025c7d9f9878138b672a811e907287df]
+
+Regulation 8(a)
+
+Table 2: Extraction solvents to be used in compliance with good manufacturing practice for all uses
+
+<table>
+<thead>
+<tr><th><strong>Name</strong></th></tr>
+</thead>
+<tfoot>
+<tr><td>(1)<br>An extraction solvent is considered as being used in compliance with good manufacturing practice if its use results only in the presence of residues or derivatives in technically unavoidable quantities presenting no danger to human health.</td></tr>
+<tr><td>(2)<br>The use of Acetone in the refining of olive-pomace oil is forbidden.</td></tr>
+</tfoot>
+<tbody>
+<tr><td>Propane</td></tr>
+<tr><td>Butane</td></tr>
+<tr><td>Ethyl acetate</td></tr>
+<tr><td>Ethanol</td></tr>
+<tr><td>Carbon dioxide</td></tr>
+<tr><td>Acetone</td></tr>
+<tr><td>Nitrous Oxide</td></tr>
+</tbody>
+</table>
+
+[^f01038][^f01039]
+
+Table 3: Extraction solvents for which conditions of use are specified
+
+<table>
+<thead>
+<tr><th><strong>Name</strong></th><th><strong>Conditions of use (summary description of extraction)</strong></th><th><strong>Maximum residue limits in the extracted foodstuff or food ingredient</strong></th></tr>
+</thead>
+<tfoot>
+<tr><td colspan="3">(1)<br>Hexane means a commercial product consisting essentially of acyclic saturated hydrocarbons containing six carbon atoms and distilling between 64 °C and 70 °C. The combined use of Hexane and Ethylmethylketone is forbidden.</td></tr>
+<tr><td colspan="3">(2)<br>The level of n-Hexane in this solvent should not exceed 50 mg/kg. The combined use of Hexane and Ethylmethylketone is forbidden.</td></tr>
+<tr><td colspan="3">(3)<br>‘Gelatine’ means natural, soluble protein, gelling or non-gelling, obtained by the partial hydrolysis of collagen produced from bones, hides and skins, tendons and sinews of animals, in accordance with the relevant requirements of Regulation <a href="https://www.legislation.gov.uk/european/regulation/2004/0853">(EC) No 853/2004</a> of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin.</td></tr>
+<tr><td colspan="3">(4)<br>‘Collagen’ means the protein-based product derived from animal bones, hides, skins and tendons manufactured in accordance with the relevant requirements of Regulation <a href="https://www.legislation.gov.uk/european/regulation/2004/0853">(EC) No 853/2004</a>.</td></tr>
+</tfoot>
+<tbody>
+<tr><td rowspan="4">Hexane</td><td>Production or fractionation of fats and oils and production of cocoa butter</td><td>1 mg/kg in the fat or oil or cocoa butter</td></tr>
+<tr><td>Preparation of defatted protein products and defatted flours</td><td>10 mg/kg in the food containing the defatted protein products and the defatted flours</td></tr>
+<tr><td></td><td>30 mg/kg in the defatted soya products as sold to the final consumer</td></tr>
+<tr><td>Preparation of defatted cereal germs</td><td>5 mg/kg in the defatted cereal germs</td></tr>
+<tr><td rowspan="2">Methyl acetate</td><td>Decaffeination of, or removal of irritants and bitterings from coffee and tea</td><td>20 mg/kg in the coffee or tea</td></tr>
+<tr><td>Production of sugar from molasses</td><td>1mg/kg in the sugar</td></tr>
+<tr><td rowspan="2">Ethylmethylketone</td><td>Fractionation of fats and oils</td><td>5 mg/kg in the fat or oil</td></tr>
+<tr><td>Decaffeination of, or removal of irritants and bitterings from coffee and tea</td><td>20 mg/kg in the coffee or tea</td></tr>
+<tr><td>Dichloromethane</td><td>Decaffeination of, or removal of irritants and bitterings from coffee and tea</td><td>2 mg/kg in the roasted coffee and 5 mg/kg in the tea</td></tr>
+<tr><td>Methanol</td><td>For all uses</td><td>10 mg/kg</td></tr>
+<tr><td>Propan-2-ol</td><td>For all uses</td><td>10 mg/kg</td></tr>
+<tr><td rowspan="2">Dimethyl ether</td><td>Preparation of defatted animal protein products including gelatine</td><td>0.009 mg/kg in the defatted animal protein products including gelatine</td></tr>
+<tr><td>Preparation of collagen and collagen derivatives, except gelatine</td><td>3 mg/kg in the collagen and collagen derivatives, except gelatine</td></tr>
+</tbody>
+</table>
+
+[^f01040][^f01041][^f01042][^f01043]
+
+Table 4: Extraction solvents for which conditions of use are specified
+
+<table>
+<thead>
+<tr><th><strong>Name</strong></th><th><strong>Maximum residue limits in the foodstuff due to the use of extraction solvents in the preparation of flavourings from natural flavouring materials</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>Diethyl ether</td><td>2 mg/kg</td></tr>
+<tr><td>Hexane (*)</td><td>1 mg/kg</td></tr>
+<tr><td>Cyclohexane</td><td>1 mg/kg</td></tr>
+<tr><td>Methyl acetate</td><td>1 mg/kg</td></tr>
+<tr><td>Butan-1-ol</td><td>1 mg/kg</td></tr>
+<tr><td>Butan-2-ol</td><td>1 mg/kg</td></tr>
+<tr><td>Ethylmethylketone (*)</td><td>1 mg/kg</td></tr>
+<tr><td>Dichloromethane</td><td>0.02 mg/kg</td></tr>
+<tr><td>Propan-1-ol</td><td>1 mg/kg</td></tr>
+<tr><td>1,1,1,2-tetrafluoroethane</td><td>0.02 mg/kg</td></tr>
+<tr><td>Methanol</td><td>1.5 mg/kg</td></tr>
+<tr><td>Propan-2-ol</td><td>1 mg/kg</td></tr>
+<tr><td colspan="2">* The combined use of Hexane and Ethylmethylketone is forbidden.</td></tr>
+</tbody>
+</table>
+
+*(This note is not part of the Regulations)*
+
+**1.** These Regulations, which apply to Scotland only, provide for the execution and enforcement of the following EU Regulations—
+
+- (a) Regulation [(EC) No 2065/2003](https://www.legislation.gov.uk/european/regulation/2003/2065) of the European Parliament and of the Council on smoke flavourings used or intended for use in or on foods;
+- (b) Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332) of the European Parliament and of the Council on food enzymes;
+- (c) Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives;
+- (d) Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334) of the European Parliament and of the Council on flavourings and certain food ingredients with flavouring properties for use in and on foods.
+
+**2.** These Regulations also implement Directive [2009/32/EC](https://www.legislation.gov.uk/european/directive/2009/0032) of the European Parliament and of the Council on the approximation of the laws of the Member States on extraction solvents used in the production of foodstuffs and food ingredients.
+
+**3.** These Regulations, in Part 2, provide that it is an offence, subject to any applicable transitional arrangements, to contravene or to use or place on the market a product that contravenes specified requirements of—
+
+- (a) Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) relating to food additives (*regulation 3 and Schedule 1*);
+- (b) Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334) relating to food flavourings and foods with flavouring properties (*regulation 4 and Schedule 2*);
+- (c) Regulation [(EC) No 2065/2003](https://www.legislation.gov.uk/european/regulation/2003/2065) relating to smoke flavourings (*regulation 5 and Schedule 3*); and
+- (d) Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332) relating to food enzymes (*regulation 6 and Schedule 4*).
+
+**4.** Part 3 of these Regulations implement Directive [2009/32/EC](https://www.legislation.gov.uk/european/directive/2009/0032) relating to extraction solvents, in particular by—
+
+- (a) specifying the circumstances where the controls on extraction solvents do not apply (*regulation 8*);
+- (b) defining what constitutes a permitted extraction solvent (*regulation 9*);
+- (c) prohibiting any person from using an extraction solvent other than a permitted extraction solvent, as defined, in the production of food (*regulation 10*);
+- (d) prohibiting any person from placing on the market an extraction solvent that is not a permitted extraction solvent or which is not accompanied by certain information on the packaging, container or label (*regulations 11 and 12*).
+
+**5.** These Regulations in Part 4—
+
+- (a) designate the Food Standards Agency as the competent authority for the purposes of applications for authorisation of a smoke flavouring (*regulation 13*);
+- (b) assign the duty of enforcing these Regulations to food authorities (*regulation 14*);
+- (c) provide for the maximum penalty to which a person may be liable on conviction for an offence under these Regulations (*regulation 15*);
+- (d) provide that, where it appears to an authorised officer that a product fails to comply with certain requirements or that food is placed on the market contrary to a specified prohibition, the food will be treated for the purposes of subsections (3) to (9) of section 9 of the Food Safety Act 1990 (with certain modifications) as failing to comply with food safety requirements (*regulation 16*); and
+- (e) apply, with certain modifications, various provisions of the Food Safety Act 1990 for the purposes of these Regulations (*regulation 17*).
+
+**6.** These Regulations in Part 5—
+
+- (a) make a minor amendment to the Food Labelling Regulations 1996 (*regulation 20*) and the Jam and Similar Products (Scotland) Regulations 2004; and
+- (b) revoke certain instruments in whole or in part (*regulation 19 and Schedule 5*).
+
+**7.** A business and regulatory impact assessment has not been prepared for this instrument as no impact on business or the public or third sectors is foreseen.
+
+## Annotations
+
+[^c21894301]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16). Section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Sections 16(1), 17(1) and (2) and 48(1) were amended by Schedule 5 to the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28) (“**the 1999 Act**”). Section 48 was also amended by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Section 26(3) was amended by Schedule 6 to the 1999 Act. Section 53(2) was amended by paragraph 19 of Schedule 16 to the [Deregulation and Contracting Out Act 1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), [Schedule 6](https://www.legislation.gov.uk/ukpga/1994/40/schedule/6) to the 1999 Act, [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990) and [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279). By virtue of section 40(2) of the 1999 Act, amendments made by Schedule 5 to that Act are to be taken as pre-commencement enactments for the purposes of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”). The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not transferred, and in so far as relating to food (including drink) including the primary production of food, relevant functions were transferred to the Scottish Ministers by the [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849).
+
+[^c21894311]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and amended by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
+
+[^c21894321]: Marginal citation: [Section 48(4A)](https://www.legislation.gov.uk/ssi/2013/266/section/48/4A) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
+
+[^c21894331]: Marginal citation: OJ L 31, 1.2.2002, p.1. That Regulation was last amended by Commission Regulation (EC) No 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the treaty to Council Decision 1999/468/EC with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ L 188, 18.7.2009, p.14).
+
+[^key-2b89422dedf87af33f6edf1f0546250c]: Modification: [Pt. 1](https://www.legislation.gov.uk/ssi/2013/266/part/1) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-b262e1d444069b8eacbf65c8244576d2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/266/regulation/2/1) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/2/a)
+
+[^c21894351]: Marginal citation: OJ L 309, 26.11.2003, p.1. This instrument was amended by Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ L 188, 18.7.2009, p.14).
+
+[^c21894361]: Marginal citation: OJ L 354, 31.12.2008, p.7. This instrument was last amended by Commission Regulation (EU) No 1056/2012 (OJ L 313, 13.11.2012, p.9).
+
+[^c21894371]: Marginal citation: OJ L 354, 31.12.2008, p.16. This instrument was last amended by Commission Regulation (EU) No 739/2013 (OJ L 204, 31.7.2013, p.35.).
+
+[^key-d1e8dd47dc937bb71f46564408b4aba8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/266/regulation/2/1) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/2/a/i)
+
+[^c21894411]: Marginal citation: OJ L 354, 31.12.2008, p.34. This instrument was last amended by Commission Regulation (EU) No 545/2013 (OJ L 163, 14.06.2013, p.15).
+
+[^key-441272b8267986572ca672afb8ec02a7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/266/regulation/2/1) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/2/a/ii)
+
+[^key-9201c9b45ab6f00c2de2e6fe82a3b180]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2013/266/regulation/2/2) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/2/b)
+
+[^key-a049b5855802d57bc2a083307083f80e]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2013/266/regulation/2/3) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/2/b/i)
+
+[^key-890f99f5a22edae987def26d37cc31b4]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2013/266/regulation/2/3) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/2/c)
+
+[^key-0471626655267344f5d7ca84dc4b9a0d]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2013/266/regulation/2/3) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/2/b/ii)
+
+[^key-cdb9f292478c79c3b0ebe9a72d94e289]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/ssi/2013/266/regulation/2/4) substituted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/2/d)
+
+[^c21894431]: Marginal citation: OJ L 354, 31.12.2008, p.1. This instrument is implemented by Commission Regulation (EU) No 234/2011 (OJ L 64, 11.03.2011, p.15) and that Regulation has been amended by Commission Implementing Regulation (EU) No 562/2012 (OJ L 168, 28.06.12, p.21).
+
+[^key-069b7f60ecbf5348f53240ae580526fb]: Textual amendment: Word in [reg. 2(5)](https://www.legislation.gov.uk/ssi/2013/266/regulation/2/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 26(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/26/2)
+
+[^key-1120b47c57e1bda75a4c7110ec140209]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2013/266/regulation/4) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(3)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/3)
+
+[^key-bbf904887ee9c4b40c3fcbffd4dcf0bb]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2013/266/regulation/5) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(4)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/4)
+
+[^key-da2af67a769b8cd5bea838601f3396fc]: Modification: [Pt. 3](https://www.legislation.gov.uk/ssi/2013/266/part/3) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-71e0bba7fa7304c223a988f4989a3b7e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/266/regulation/7) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(3)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/3)
+
+[^key-72b75ea5a5ba1d983bde7708d1ae4ee1]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/ssi/2013/266/regulation/8/a) substituted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(4)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/4)
+
+[^key-1877970bf1806e04bc815aa4429964ec]: Textual amendment: Words in reg. 8(b) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [reg. 6(2)](https://www.legislation.gov.uk/ssi/2019/53/regulation/6/2) (as substituted by [S.S.I. 2020/372](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/6/2))
+
+[^key-cc904d616e0b9fa95b4135d206a1658a]: Textual amendment: Words in [reg. 9(a)(i)](https://www.legislation.gov.uk/ssi/2013/266/regulation/9/a/i) substituted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(5)(a)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/5/a)
+
+[^key-40db163d404c342b333968c58e062615]: Textual amendment: Words in [reg. 9(a)(ii)](https://www.legislation.gov.uk/ssi/2013/266/regulation/9/a/ii) substituted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(5)(b)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/5/b)
+
+[^key-e959b3a39573eeca30040f20031ffc2a]: Textual amendment: Word in [reg. 9(a)(iii)](https://www.legislation.gov.uk/ssi/2013/266/regulation/9/a/iii) inserted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(5)(c)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/5/c)
+
+[^key-f7f06e59d48cb5ac3b111cc0fcc2ee36]: Textual amendment: Word in [reg. 9(a)(iv)](https://www.legislation.gov.uk/ssi/2013/266/regulation/9/a/iv) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(5)(d)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/5/d)
+
+[^key-60df39e02e1c6eb71707239a65307682]: Textual amendment: [Reg. 9(a)(v)](https://www.legislation.gov.uk/ssi/2013/266/regulation/9/a/v) omitted (9.2.2023) by virtue of [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(5)(e)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/5/e)
+
+[^key-eda90452bde290e34fd2c10ae2231b83]: Textual amendment: Words in [reg. 12(1)(a)](https://www.legislation.gov.uk/ssi/2013/266/regulation/12/1/a) substituted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [8(6)](https://www.legislation.gov.uk/ssi/2022/373/regulation/8/6)
+
+[^key-e14d5b8f4c5899ceffe8bd30b5baedd2]: Textual amendment: Words in [reg. 12(1)(d)](https://www.legislation.gov.uk/ssi/2013/266/regulation/12/1/d) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2019/53/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-397bd35a623170a83a12293cc0e3eb53]: Textual amendment: Reg. 13 heading substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [6(4)](https://www.legislation.gov.uk/ssi/2019/53/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-900d108e70ea6c9d698196f8158872fa]: Textual amendment: Word in [reg. 13](https://www.legislation.gov.uk/ssi/2013/266/regulation/13) omitted (31.12.2020) by virtue of [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [6(4)](https://www.legislation.gov.uk/ssi/2019/53/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cd1a2930a9ad7de1864b272be291cb8b]: Textual amendment: Words in reg. 13 substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 35](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/35)
+
+[^key-bda20cfde557b7756dface888211b4b7]: Textual amendment: Word in [reg. 14](https://www.legislation.gov.uk/ssi/2013/266/regulation/14) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 26(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/26/3)
+
+[^key-f1dd8bad878d592763b63dba56831437]: Textual amendment: Reg. 15A inserted (31.12.2020) by [S.S.I. 2019/285](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2019/285/regulation/4/2) (as amended by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(4)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-de4b8f7c1e03acf94f4e46de359090e7]: Textual amendment: Words in [reg. 15A(c)](https://www.legislation.gov.uk/ssi/2013/266/regulation/15A/c) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2022/265/regulation/11)
+
+[^key-b8030b2a4063564910fa21688a36d4fb]: Textual amendment: Words in [reg. 16(1)(b)](https://www.legislation.gov.uk/ssi/2013/266/regulation/16/1/b) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/5/a)
+
+[^key-fa48039dcab2adcb8bed9d2e65f5fa0d]: Textual amendment: Words in [reg. 16(1)(c)](https://www.legislation.gov.uk/ssi/2013/266/regulation/16/1/c) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(5)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/5/b)
+
+[^c21894451]: Marginal citation: [Section 21](https://www.legislation.gov.uk/ssi/2013/266/section/21) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c21894461]: Marginal citation: [Section 35(3)](https://www.legislation.gov.uk/ssi/2013/266/section/35/3) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c21894471]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/ssi/2013/266/section/36A) was inserted by the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28), [Schedule 5](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5), [paragraph 16](https://www.legislation.gov.uk/ukpga/1999/28/paragraph/16).
+
+[^key-0036e6527a32856d3d06d2ad8f15c795]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/ssi/2013/266/regulation/17/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 26(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/26/4)
+
+[^key-91bc73327f267951f16148fdae73d98e]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/ssi/2013/266/regulation/18/1) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+
+[^c21894491]: Marginal citation: [S.S.I. 2004/133](https://www.legislation.gov.uk/ssi/2004/133); the relevant amendment is [S.S.I. 2009/436](https://www.legislation.gov.uk/ssi/2009/436).
+
+[^key-4ee66915d41f8c0cef7b4e0d28be19db]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/266/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(6)(a)(i)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/6/a/i)
+
+[^key-fe14c4100eae98b2ce8b6c7954cfaded]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/266/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/6/a/ii)
+
+[^key-201510286dadfe7a51e6233b803728e5]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/266/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(6)(b)(i)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/6/b/i)
+
+[^key-244a3a4056206c193a6962f81c283e1a]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/266/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/6/b/ii)
+
+[^key-ff4b2c8eb64b9db64e81328db4937f11]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/266/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(6)(c)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/6/c)
+
+[^key-adce0e0859c246d8ee895a1f01f79357]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/266/schedule/1) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(6)(d)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/6/d)
+
+[^key-0a5cfcf037ece6fe83de08b3c6dee245]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2013/266/schedule/1) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [6(5)](https://www.legislation.gov.uk/ssi/2019/53/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-034c714dc567fe083cb50a7fbbb33293]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2013/266/schedule/2) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(7)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/7)
+
+[^key-7e5de083441483c48287be82658d221f]: Textual amendment: Word in [sch. 2](https://www.legislation.gov.uk/ssi/2013/266/schedule/2) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [6(6)](https://www.legislation.gov.uk/ssi/2019/53/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8aa7da7080e60d63cc6404b1117a02cb]: Textual amendment: Words in [sch. 3](https://www.legislation.gov.uk/ssi/2013/266/schedule/3) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(8)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/8)
+
+[^key-f28c13a9ea0adaa25977a3a8bec26739]: Textual amendment: Word in [sch. 3](https://www.legislation.gov.uk/ssi/2013/266/schedule/3) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [6(7)](https://www.legislation.gov.uk/ssi/2019/53/regulation/6/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-686eb5f2f2227c3b1672793ed1ee9e78]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2013/266/schedule/4) Table substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 4(9)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/4/9)
+
+[^key-fb9e139105a6e791c91f670eeff29bcb]: Textual amendment: Word in [sch. 4](https://www.legislation.gov.uk/ssi/2013/266/schedule/4) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [6(8)](https://www.legislation.gov.uk/ssi/2019/53/regulation/6/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-10918cf501f4aaffcbb07bab70869dfc]: Modification: [Sch. 6](https://www.legislation.gov.uk/ssi/2013/266/schedule/6) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^key-025c7d9f9878138b672a811e907287df]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ssi/2013/266/schedule/6) inserted (9.2.2023) by [The Food and Feed (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/373)](https://www.legislation.gov.uk/ssi/2022/373), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/373/regulation/1/1), [sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2022/373/schedule/3/paragraph/1)
+
+[^f01038]: Footnote: (1)[^key-025c7d9f9878138b672a811e907287df]
+
+    An extraction solvent is considered as being used in compliance with good manufacturing practice if its use results only in the presence of residues or derivatives in technically unavoidable quantities presenting no danger to human health.
+
+[^f01039]: Footnote: (2)
+
+    The use of Acetone in the refining of olive-pomace oil is forbidden.
+
+[^f01040]: Footnote: (1)
+
+    Hexane means a commercial product consisting essentially of acyclic saturated hydrocarbons containing six carbon atoms and distilling between 64 °C and 70 °C. The combined use of Hexane and Ethylmethylketone is forbidden.
+
+[^f01041]: Footnote: (2)
+
+    The level of n-Hexane in this solvent should not exceed 50 mg/kg. The combined use of Hexane and Ethylmethylketone is forbidden.
+
+[^f01042]: Footnote: (3)
+
+    ‘Gelatine’ means natural, soluble protein, gelling or non-gelling, obtained by the partial hydrolysis of collagen produced from bones, hides and skins, tendons and sinews of animals, in accordance with the relevant requirements of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin.
+
+[^f01043]: Footnote: (4)
+
+    ‘Collagen’ means the protein-based product derived from animal bones, hides, skins and tendons manufactured in accordance with the relevant requirements of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853).

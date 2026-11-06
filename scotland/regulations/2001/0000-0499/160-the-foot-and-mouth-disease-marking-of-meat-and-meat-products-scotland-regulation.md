@@ -1,0 +1,132 @@
+---
+title: The Foot-and-Mouth Disease (Marking of Meat and Meat Products) (Scotland) Regulations 2001
+id: ssi/2001/160
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-04-22'
+text_date: '2002-02-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2001/160
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2001/160/pdfs/ssi_20010160_en.pdf
+- http://www.legislation.gov.uk/ssi/2001/160/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Foot-and-Mouth Disease (Marking of Meat and Meat Products) (Scotland) Regulations 2001
+
+> Text as at 2002-02-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2001 No. 160
+
+FOOD
+
+The Foot-and-Mouth Disease (Marking of Meat and Meat Products) (Scotland) Regulations 2001
+
+Made
+
+22nd April 2001
+
+Laid before the Scottish Parliament
+
+23rd April 2001
+
+Coming into force
+
+23rd April 2001
+
+The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^c15924671] and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Foot-and-Mouth Disease (Marking of Meat and Meat Products) (Scotland) Regulations 2001 and shall come into force on 23rd April 2001.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Amendment to the Meat Products (Hygiene) Regulations 1994
+
+(1) The Meat Products (Hygiene) Regulations 1994 [^c15924681] are amended in accordance with this regulation.
+
+(2)[^key-c1c7d6d6e488dddabd43833bf825f7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The following paragraph is inserted after paragraph 3 of Part VI of Schedule 2–
+
+> **3A.**
+>
+> (1) Notwithstanding the provisions of paragraph 1 to 3 above, meat products containing meat obtained from animals of the bovine, ovine, caprine or porcine species or other biungulates and marked in accordance with paragraph 9 of Schedule 12 to the Fresh Meat (Hygiene and Inspection) Regulations 1995 [^c15924691] shall be marked with a stamp consisting of a circular mark containing–
+>
+> - (a) in the upper part the letters “GB"; and
+> - (b) in the lower part the meat product premises code.
+>
+> (2) Paragraph 3A(1) shall not apply to meat products which have been heat-treated in accordance with Article 3(2) of Decision [2001/172/EC](https://www.legislation.gov.uk/eud/2001/172) which are dispatched from Great Britain in accordance with Articles 3(4), (5) and (6) of that Decision.
+>
+> (3) Notwithstanding paragraph 3A(1), until 23rd July 2001, where meat products are not intended for intra-Community trade the health mark shall be–
+>
+> - (a) the circular mark referred to in that paragraph; or
+> - (b) that circular mark in addition to the British EC health mark.
+
+.
+
+(4)[^key-b8805bdae0a17cf74209f9937d63af12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment to the Fresh Meat (Hygiene and Inspection) Regulations 1995
+
+(1) The Fresh Meat (Hygiene and Inspection) Regulations 1995 are amended in accordance with this regulation.
+
+(2) In paragraph 8 of Schedule 12 the words “or 2" are deleted in each place where they occur.
+
+(3) The following paragraph is inserted after paragraph 8 in Schedule 12–
+
+> **9.**
+>
+> (1) Notwithstanding the provisions of paragraphs 1 and 8 of this Schedule, fresh meat obtained from animals of the bovine, ovine, caprine and porcine species and other biungulates originating in Great Britain and processed after the coming into force of the Foot-and-Mouth Disease (Marking of Meat and Meat Products) (Scotland) Regulations 2001, which would otherwise be required to be marked in accordance with those paragraphs, shall instead be marked with a stamp consisting of a circular mark with an outer diameter of 50 mm, with a line thickness of circle of 3 mm and containing–
+>
+> - (a) in the upper part the letters “GB" 7 mm high; and
+> - (b) in the lower part the approval number of the premises 10 mm high.
+>
+> (2) Notwithstanding paragraph 6 of this Schedule, E129 Allura Red AC may not be used in a stamp applied under this paragraph.
+
+.
+
+(4) The following paragraph is inserted after paragraph 2 of Part I of Schedule 13–
+
+> **3.**
+>
+> Notwithstanding paragraph (1)(f), until 23rd July 2001 where fresh meat from the animals referred to in paragraph 9 of Schedule 12 which is not intended for intra-Community trade is wrapped in commercial portions intended for direct sale to the consumer, the health mark required by paragraph (1)(f) shall be–
+>
+> - (a) the circular mark referred to in paragraph 9 of Schedule 12 (except that the dimension requirements need not apply); or
+> - (b) that circular mark in addition to the health mark specified in paragraph 1 of Schedule 12 (except that the dimension requirements need not apply).
+
+.
+
+ROSS FINNIE
+
+A member of the Scottish Executive
+
+Pentland House, Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations implement Commission Decision 2001/304 of 11th April 2001 on marking and use of certain animal products in relation to Decision [2001/172/EC](https://www.legislation.gov.uk/european/decision/2001/0172) concerning certain protection measures with regard to foot-and-mouth disease in the United Kingdom (O.J. No. L 104, 13.4.2001, p.6). They amend the Meat Products (Hygiene) Regulations 1994 and the Fresh Meat (Hygiene and Inspection) Regulations 1995. They introduce a new type of health mark (circular stamp) for marking meat from animals of the bovine, ovine, caprine and porcine species.
+
+A regulatory impact assessment has not been prepared for these Regulations.
+
+## Annotations
+
+[^c15924671]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^c15924681]: Marginal citation: [S.I. 1994/3082](https://www.legislation.gov.uk/uksi/1994/3082), amended by [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539), 1763, 2200 and 3205, [S.I. 1996/1499](https://www.legislation.gov.uk/uksi/1996/1499), [S.I](https://www.legislation.gov.uk/uksi/1996/1499/section/I). 1999/683, [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62), 171 and 288.
+
+[^key-c1c7d6d6e488dddabd43833bf825f7dd]: Textual amendment: Reg. 2(2) omitted (1.2.2002 at 12 p.m.) by virtue of [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment (No. 2) Regulations 2002 (S.S.I. 2002/35)](https://www.legislation.gov.uk/ssi/2002/35), [regs. 1](https://www.legislation.gov.uk/ssi/2002/35/regulation/1), [6(1)](https://www.legislation.gov.uk/ssi/2002/35/regulation/6/1)
+
+[^c15924691]: Marginal citation: [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539) amended by [S.I. 1995/731](https://www.legislation.gov.uk/uksi/1995/731), 1763, 2148, 2200, 3124 and 3189, [S.I. 1996/1148](https://www.legislation.gov.uk/uksi/1996/1148) and 2235, [S.I. 1997/1729](https://www.legislation.gov.uk/uksi/1997/1729) and 2074, [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62), 171 and 288
+
+[^key-b8805bdae0a17cf74209f9937d63af12]: Textual amendment: Reg. 2(4) revoked (12.11.2001) by [The Foot-and-Mouth Disease (Marking of Meat, Meat Products, Minced Meat and Meat Preparations) (Scotland) Regulations 2001 (S.S.I. 2001/358)](https://www.legislation.gov.uk/ssi/2001/358), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2001/358/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2001/358/regulation/5)

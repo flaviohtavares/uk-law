@@ -1,0 +1,2324 @@
+---
+title: The Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025
+id: ssi/2025/3
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-01-09'
+text_date: '2026-04-06'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2025/3
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2025/3/pdfs/ssipn_20250003_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2025/3/pdfs/ssi_20250003_en.pdf
+- http://www.legislation.gov.uk/ssi/2025/3/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025
+
+> Text as at 2026-04-06.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2025 No. 3
+
+Social Security
+
+The Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025
+
+Made
+
+9th January 2025
+
+Coming into force
+
+21st March 2025
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 31(2), 36(2), 41(4)(a), 43(5), 51(1), 52 and 95 of the Social Security (Scotland) Act 2018[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 96(2) of that Act, a draft of these Regulations has been laid before and approved by resolution of the Scottish Parliament.
+
+In accordance with section 97(2) of that Act, the Scottish Ministers have informed the Scottish Commission on Social Security of their proposals, notified the Scottish Parliament that they have done so and made their proposals publicly available by such means as they consider appropriate.
+
+## PART 1 — Introductory and interpretation
+
+### 1. Citation and commencement[^key-b3a5f3374be4f6e3a48d22f6f5955a27]
+
+These Regulations may be cited as the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025 and come into force on 21 March 2025.
+
+### 2. Interpretation[^key-3e8b1fd26ea5c98ec5b64213757ad452]
+
+In these Regulations—
+
+- “**the 2018 Act**” means the Social Security (Scotland) Act 2018,
+- “**Adult Disability Payment**” means disability assistance for adults given in accordance with the Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00002],
+- “**armed forces independence payment**” means the disability benefit paid in accordance with article 24A of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00003],
+- “**Attendance Allowance**” means an attendance allowance under—
+  - (a) section 64 of the Social Security Contributions and Benefits Act 1992[^f00004], or
+  - (b) section 64 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00005],
+- “**authorised provider of vehicles**” means a supplier of vehicles for persons with disabilities approved under an accreditation scheme run by the Scottish Ministers,
+- “**award**” means that a determination has been made that an individual is entitled to be given assistance under section 24 of the 2018 Act in accordance with these Regulations, and cognate expressions are to be construed accordingly,
+- “**bodily functions**” means the normal actions of any organ of the body, including the brain, or of a number of organs acting together,
+- “**care component**” means the care component of Scottish Adult Disability Living Allowance within the meaning of regulation 6,
+- “**care home**” means an establishment which provides a care home service as defined in paragraph 2 of schedule 12 of the Public Services Reform (Scotland) Act 2010[^f00006] and includes a residential educational establishment,
+- “**date of transfer**” means the date when a transferring individual’s entitlement to Scottish Adult Disability Living Allowance begins by virtue of a determination made under paragraph 7 (determination without application of entitlement to Scottish Adult Disability Living Allowance) of schedule 1,
+- “determination” and “determination of entitlement” have the meaning of “determination of entitlement” in section 25 of the 2018 Act,
+- “**Disability Living Allowance**” means a disability living allowance under—
+  - (a) section 71 of the Social Security Contributions and Benefits Act 1992[^f00007], or
+  - (b) section 71 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00008],
+- “**immigration rules**” means the rules laid before the United Kingdom Parliament under section 3(2) of the Immigration Act 1971[^f00009],
+- “**legal detention**” means detention in legal custody within the meaning of section 295 of the Criminal Procedure (Scotland) Act 1995[^f00010],
+- “**Local Health Board**” means a body established under section 11 of the National Health Service (Wales) Act 2006[^f00011],
+- “**mobility component**” means the mobility component of Scottish Adult Disability Living Allowance within the meaning of regulation 7 or 8,
+- “**NHS Trust**” means a body established under section 18 of the National Health Service (Wales) Act 2006,
+- “**Pension Age Disability Payment**” means disability assistance for older people given in accordance with the Disability Assistance for Older People (Scotland) Regulations 2024[^f00012],
+- “**Personal Independence Payment**” means personal independence payment under—
+  - (a) Part 4 of the Welfare Reform Act 2012[^f00013], or
+  - (b) article 82 of the Welfare Reform (Northern Ireland) Order 2015[^f00014],
+- “**qualifying services**” means accommodation, board and personal care,
+- “**relevant age**” means—
+  - (a) pensionable age (within the meaning given by the rules in paragraph 1 of schedule 4 of the Pensions Act 1995[^f00015]), or
+  - (b) if higher, 65,
+- “**relevant EU Regulation**” means—
+  - (a) one of the following Regulations—
+    - (i) Council Regulation [(EC) No 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408) of 14 June 1971[^f00016] on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community,
+    - (ii) Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004[^f00017] on the coordination of social security systems, or
+  - (b) in relation to an individual to whom the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974[^f00018], or the agreement constituted by the exchange of letters set out in the schedule of the Social Security (Gibraltar) Order 2024[^f00019] applies, a Regulation mentioned in paragraph (a) of this definition as it forms part of domestic law by virtue of section 3 of the European Union (Withdrawal) Act 2018[^f00020],
+- “**residential educational establishment**” means a care home which provides education or training except for one where the costs of any qualifying services are borne wholly or partly out of public or local funds by virtue of—
+  - (a) section 485 of the Education Act 1996[^f00021] or section 14 of the Education Act 2002[^f00022] (which relate to grants in aid of educational services),
+  - (b) sections 49 or 73 of the Education (Scotland) Act 1980[^f00023] (which relate respectively to the power of education authorities to assist persons to take advantage of educational facilities and the powers of the Secretary of State to make grants to educational authorities and others),
+  - (c) section 65 of the Further and Higher Education Act 1992[^f00024], sections 39 or 40 of the Higher Education and Research Act 2017[^f00025] or sections 4 or 11 of the Further and Higher Education (Scotland) Act 2005[^f00026] (which relate respectively to the funding of further education and the administration of funds), or
+  - (d) section 22 of the Teaching and Higher Education Act 1998[^f00027] (new arrangements for giving financial support to students),
+- “**Scottish Adult Disability Living Allowance**” means disability assistance for adults given in accordance with these Regulations,
+- “**short-term assistance**” means short-term assistance given in accordance with Part 1 of schedule 1,
+- “**transfer determination**” means a determination under paragraph 7(1) of schedule 1,
+- “transferring individual” is an individual on whom the Scottish Ministers have served a notice of intention to transfer in accordance with paragraph 6(1) of schedule 1,
+- “**vehicle scheme beneficiary**” means an individual—
+  - (a) who is in a class specified in section 74(2)(a), (c) or (d) of the Social Security Contributions and Benefits Act 1992 or in the class specified in section 74(2)(b) of that Act whose application was approved on or after 1 January 1976,
+  - (b) for whom an invalid carriage or other vehicle was provided or as the case may be applied for, where that vehicle was—
+    - (i) propelled by a petrol engine or by an electric motor,
+    - (ii) supplied for use on a public road, and
+    - (iii) to be controlled by the occupant, and
+  - (c) whose physical condition has not improved to such an extent that they no longer satisfy the conditions which it was necessary to satisfy in order to fall within paragraphs (a) and (b), and
+- “**week**” means a period of 7 days.
+
+## PART 2 — Scottish Adult Disability Living Allowance
+
+### 3. Overview[^key-0b7ef3dacf1e8032f8ff3469f6c7017c]
+
+(1) An individual is entitled to Scottish Adult Disability Living Allowance in accordance with these Regulations if the individual meets the eligibility rules in—
+
+- (a) regulation 4 (relevant status),
+- (b) regulation 5 (entitlement to other benefits),
+- (c) regulations 10 to 17 (residence and presence conditions),
+- (d) regulation 18 (age criteria), and
+- (e) one or more of the following—
+  - (i) regulation 6 (care component criterion: lowest, middle or highest rate care component),
+  - (ii) regulation 7 (mobility requirements: lower rate mobility component),
+  - (iii) regulation 8 (mobility requirements: higher rate mobility component),
+  - (iv) regulation 20 (entitlement under special rules for terminal illness),
+  - (v) regulation 21 (entitlement to middle rate of care component when undergoing dialysis).
+
+(2) Scottish Adult Disability Living Allowance is to consist of a care component and a mobility component.
+
+(3) There are 3 weekly rates of the care component and 2 weekly rates of the mobility component and those rates are specified in regulation 29 (amount and form of Scottish Adult Disability Living Allowance).
+
+### 4. Relevant status[^key-a2f5a034cd188e0990d0986924755f15]
+
+An individual may only be entitled to Scottish Adult Disability Living Allowance if the individual is an individual—
+
+- (a) in respect of whom the Scottish Ministers are to make a determination under paragraph 7(1) (determination without application of entitlement to Scottish Adult Disability Living Allowance) of schedule 1,
+- (b)[^key-23165cdd1be551e276a69041f4efb917] in respect of whom the Scottish Ministers are to make a determination under regulation 47(2) (individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) or regulation 47A(2) (individuals in respect of whom Disability Living Allowance is paid before 23 February 2026),
+- (c) to whom paragraph 12 (reinstatement of entitlement to Scottish Adult Disability Living Allowance within a year) or paragraph 13 (request for Scottish Adult Disability Living Allowance when an award of Disability Living Allowance has ended) of schedule 1 applies, or
+- (d) who has received a determination under regulation 47, or paragraph 7(1), 12 or 13 of schedule 1, who continues to satisfy the eligibility rules at regulation 3(1)(b) to (e).
+
+### 5. Entitlement to other benefits[^key-871c034038d755d50f46332039c37161]
+
+An individual is not entitled to Scottish Adult Disability Living Allowance while they are entitled to—
+
+- (a) Adult Disability Payment,
+- (b) armed forces independence payment,
+- (c) Disability Living Allowance,
+- (d) Personal Independence Payment,
+- (e) Attendance Allowance, or
+- (f) Pension Age Disability Payment.
+
+## PART 3 — Eligibility: care component and mobility component
+
+### 6. Care component criterion: lowest, middle or highest rate care component[^key-2f00b3f2fbd2265cb6d326ff4bfd9920]
+
+(1) An individual satisfies the care component criterion in respect of any period throughout which at least one of the following conditions is satisfied—
+
+- (a) the individual is so severely disabled physically or mentally that they require in connection with their bodily functions attention from another person for a significant portion of the day (whether during a single period or a number of periods),
+- (b) the individual is so severely disabled physically or mentally that they cannot prepare a cooked main meal for themselves if they have the ingredients,
+- (c) the individual is so severely disabled physically or mentally that they require from another person—
+  - (i) frequent attention throughout the day in connection with their bodily functions, or
+  - (ii) continual supervision throughout the day in order to avoid substantial danger to the individual or others, or
+- (d) the individual is so severely disabled physically or mentally that they require—
+  - (i) prolonged or repeated attention from another person at night in connection with their bodily functions, or
+  - (ii) another person to be awake for a prolonged period or at frequent intervals for the purpose of watching over the individual at night in order to avoid substantial danger to the individual or others.
+
+(2) An individual who satisfies at least one of the conditions for the care component criterion in paragraph (1) before reaching the relevant age is not entitled to the care component unless—
+
+- (a) throughout the period of 13 weeks immediately preceding the date on which the award of that component would begin, the individual has satisfied or is likely to satisfy at least one of the conditions mentioned in paragraph (1), and
+- (b) the individual is likely to continue to satisfy at least one of those conditions throughout the period of 26 weeks beginning with that date.
+
+(3) An individual who satisfies at least one of the conditions for the care component criterion in paragraph (1) after reaching the relevant age, where they did not satisfy that criterion before reaching the relevant age, is not entitled to the care component unless throughout the period of 26 weeks immediately preceding the date on which the award of that component would begin, the individual has satisfied or is likely to satisfy at least one of the conditions mentioned in paragraph (1).
+
+(4) The amount of the care component that an individual is entitled to be given for each week in the period for which they are awarded that component is—
+
+- (a) the highest rate (see regulation 29(1)(c) (amount and form of Scottish Adult Disability Living Allowance)), if the individual satisfies both of the conditions mentioned in paragraph (1)(c) and (d)—
+  - (i) throughout both the period mentioned in paragraph (2)(a) and the period mentioned in paragraph (2)(b) if the individual satisfied or was likely to satisfy both the conditions mentioned in paragraph (1)(c) and (d) before reaching the relevant age,
+  - (ii) throughout the period mentioned in paragraph (3) if the individual only satisfied those conditions after reaching the relevant age,
+- (b) the middle rate (see regulation 29(1)(b)), if the individual satisfies one of the conditions mentioned in paragraph (1)(c) or (d)—
+  - (i) throughout both the period mentioned in paragraph (2)(a) and the period mentioned in paragraph (2)(b) if the individual satisfied or was likely to satisfy that condition before reaching the relevant age,
+  - (ii) throughout the period mentioned in paragraph (3) if the individual only satisfied that condition after reaching the relevant age,
+- (c) except where paragraph 5 applies, in any other case, the lowest rate (see regulation 29(1)(a)).
+
+(5) Where an individual has reached the relevant age and would otherwise be entitled to the lowest rate of the care component under paragraph (4)(c), they are not entitled to that rate unless immediately before they reached the relevant age, they satisfied and continue to satisfy the condition mentioned in paragraph (1)(a) or the condition mentioned in paragraph (1)(b).
+
+(6) For the purposes of paragraph (1), the individual does not satisfy paragraph (1)(a), paragraph (1)(c)(i) or paragraph (1)(d)(i) unless the attention the individual requires from another person is required to be given in the physical presence of the individual.
+
+(7) In this regulation—
+
+- “**attention**” means the provision of personal care, prompting or motivation in relation to bodily functions or assistance with communication needs,
+- “day” and “night” are to be construed in relation to the ordinary domestic routine of the household in which the individual lives,
+- “**supervision**” means the continual presence of another person for the purpose of reducing the real risk of harm to the individual and to others.
+
+(8) In this regulation and regulations 7 and 8, “**require**” means reasonably require and cognate expressions are to be construed accordingly.
+
+### 7. Mobility requirements: lower rate mobility component[^key-5ac3c49c6321f184e4e05da51531047a]
+
+(1) An individual is entitled to the mobility component at the lower rate (see regulation 29(2)(a)) if the individual satisfies the condition set out in paragraph (2).
+
+(2) The condition referred to in paragraph (1) is that the individual, though able to walk, cannot move around outdoors without requiring guidance or supervision from another person most of the time as a result of a physical or mental impairment.
+
+(3) When determining whether the individual satisfies the condition in paragraph (2), no account is to be taken of any ability which the individual has to use routes with which they are familiar, without guidance or supervision from another person.
+
+(4) An individual who satisfies or is likely to satisfy the condition set out in paragraph (2) is not entitled to the lower rate of the mobility component unless—
+
+- (a) throughout the period of 13 weeks immediately preceding the date on which the award of that component would begin, the individual has satisfied or is likely to satisfy the condition mentioned in paragraph (2),
+- (b) the individual is likely to continue to satisfy the condition mentioned in paragraph (2) throughout the period of 26 weeks beginning with that date, and
+- (c) where the individual satisfies the condition set out in paragraph (2) after reaching the relevant age, the individual satisfied that condition immediately before reaching the relevant age and has continually satisfied that condition since.
+
+(5) In this regulation—
+
+- “**guidance**” means direction or leading by physical means or verbal suggestion or persuasion,
+- “**supervision**” means the precautionary or anticipatory presence of another person to monitor an individual’s physical, mental or emotional health including monitoring for obstacles or dangerous places or situations.
+
+### 8. Mobility requirements: higher rate mobility component[^key-5a7ea931cbea4c1fbf7ddeb58e8fcd80]
+
+(1) An individual is entitled to the mobility component at the higher rate (see regulation 29(2)(b)) if the individual satisfies at least one of the conditions mentioned in paragraph (2).
+
+(2) The conditions referred to in paragraph (1) are—
+
+- (a) taking account of the individual’s physical[^key-8c9f39f3235d15f7819535d30a0489d0] condition as a whole, the individual’s condition is such that, without having regard to the nature of the location where the individual resides—
+  - (i) the individual is unable to walk,
+  - (ii) the individual’s ability to walk out of doors is so limited, as regards the distance over which or the speed at which or the length of time for which or the manner in which the individual can make progress on foot without severe discomfort, that the individual is virtually unable to walk, or
+  - (iii) the exertion required to walk would constitute a danger to the individual’s life, or would be likely to lead to a serious deterioration in the individual’s health, from which there would be no recovery, or from which recovery would take a significant period of time,
+- (b) the individual has no legs or no feet (regardless of the use of artificial limbs),
+- (c) the individual has a severe visual impairment and has been certified as severely sight impaired or blind by a consultant ophthalmologist,
+- (d) the individual is blind and deaf,
+- (e) the individual has a severe mental impairment and severe behavioural difficulties and satisfies both of the conditions mentioned in regulation 6(1)(c) and 6(1)(d) (care component criterion: lowest, middle or highest rate care component).
+
+(3) Where paragraph (2)(a) applies in relation to an individual, the test of being unable or virtually unable to walk is not met where the individual—
+
+- (a) is not unable or virtually unable to walk with the use of an artificial limb or artificial aid which the individual normally wears or uses, or
+- (b) would not be unable or virtually unable to walk if the individual wore or used an artificial aid which is suitable for the individual’s circumstances.
+
+(4) Paragraph (3) is not relevant for the purpose of determining whether an individual is to be taken to satisfy the conditions set out in paragraphs (2)(b) to (e).
+
+(5) An individual is to be taken to have a severe visual impairment, for the purposes of paragraph (2)(c), if the individual—
+
+- (a) has visual acuity, with appropriate corrective lenses if necessary, of less than 3/60,
+- (b) has visual acuity of 3/60 or more, but less than 6/60, with appropriate corrective lenses if necessary, a complete loss of peripheral visual field and a central visual field of no more than 10 degrees in total, or
+- (c) does not fall into sub-paragraph (a) or (b) but has insufficient vision to enable the individual to be independently mobile in familiar places outdoors.
+
+(6) In paragraph (5)—
+
+- (a) references to visual acuity are to be read as references to the combined visual acuity of both eyes in cases where a person has both eyes,
+- (b) references to measurements of visual acuity are references to visual acuity measured on the Snellen Scale or a Snellen equivalent,
+- (c) references to visual field are to be read as references to the combined visual field of both eyes in cases where a person has both eyes.
+
+(7) An individual is taken to be blind and deaf, for the purpose of paragraph (2)(d), if the individual is—
+
+- (a) blind where the loss of vision amounts to an absolute loss of vision,
+- (b) deaf where the loss of hearing when using any artificial aid which the individual habitually uses or which is suitable in their case amounts to not less than 80% on a scale where 100% represents absolute deafness, and
+- (c) unable, without the assistance of another person, to walk to any intended or required destination while out of doors.
+
+(8) An individual is to be taken to have a severe mental impairment, for the purpose of paragraph (2)(e), if the individual has a severe impairment of intelligence and social functioning resulting from—
+
+- (a) a state of arrested development as a result of a failure of the individual’s brain to grow or develop in the way normally expected, or
+- (b) a deficiency in the functionality of the brain as a result of its incomplete physical development.
+
+(9) An individual is to be taken to have severe behavioural difficulties, for the purpose of paragraph (2)(e), if the individual exhibits disruptive behaviour which—
+
+- (a) is extreme,
+- (b) regularly requires another person to intervene in order to prevent or reduce the likelihood of physical injury to the individual or another person, and
+- (c) is so unpredictable that another person requires to be awake and watching over the individual while the individual is awake.
+
+(10) In paragraph (9)(b), reference to another person intervening relates to the provision of care and support of, or treatment provided to, the individual.
+
+(11) An individual who satisfies or is likely to satisfy at least one of the conditions set out in paragraph (2) is not entitled to the higher rate of the mobility component unless—
+
+- (a) throughout the period of 13 weeks immediately preceding the date on which the award of that component would begin, the individual has satisfied or is likely to satisfy one of the conditions mentioned in paragraph (2),
+- (b) the individual is likely to continue to satisfy one of those conditions throughout the period of 26 weeks beginning with that date, and
+- (c) where the individual satisfies the condition set out in paragraph (2) after reaching the relevant age, the individual satisfied that condition immediately before reaching the relevant age and has continually satisfied that condition since.
+
+(12) A vehicle scheme beneficiary is to be treated as satisfying the conditions at—
+
+- (a) paragraph (2)(a), and
+- (b) paragraph (11)(a) and (11)(b).
+
+(13) Paragraph 11(c) does not apply to an individual where the individual—
+
+- (a) is a vehicle scheme beneficiary, or
+- (b) has had an invalid carriage or other vehicle made available to them under section 46(1) of the National Health Service (Scotland) Act 1978[^f00028], paragraph 9 of schedule 1 of the National Health Service Act 2006[^f00029] or paragraph 9 of schedule 1 to the National Health Service (Wales) Act 2006[^f00030] which is—
+  - (i) propelled by a petrol engine or an electric motor,
+  - (ii) provided for use on a public road, and
+  - (iii) controlled by the occupant.
+
+### 9. Exclusion of entitlement to mobility component[^key-e817d788dc9116773f539bb7408cecbe]
+
+An individual is not entitled to the mobility component of Scottish Adult Disability Living Allowance for a period unless, during most of that period, the individual’s physical or mental condition is such that they are able, from time to time, to benefit from assistance for movement.
+
+## PART 4 — Residence and Presence Conditions
+
+### 10. Residence and presence conditions[^key-cc1fc5e5a9e4851fb80a241fbc229ab0]
+
+(1) An individual satisfies the residence and presence conditions where on any day that individual—
+
+- (a) is ordinarily resident in Scotland,
+- (b) is habitually resident in the common travel area,
+- (c) is not a person subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999[^f00031],
+- (d) is present in the common travel area, and
+- (e) has been present in the common travel area for a period of, or for periods amounting in the aggregate to, not less than 26 weeks in the 52 weeks immediately preceding that day.
+
+(2) In this Part, “**common travel area**” has the meaning given in section 1(3) of the Immigration Act 1971[^f00032].
+
+(3) The residence condition set out in paragraph (1)(a) does not apply in relation to the care component where on any day the individual—
+
+- (a) is habitually resident in Ireland,
+- (b) has a genuine and sufficient link to Scotland, and
+- (c) is an individual—
+  - (i) to whom the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1 February 2019[^f00033], as modified from time to time in accordance with any provision of it, applies, and
+  - (ii) in respect of whom the United Kingdom is, as a result, competent for payment of long term care benefits.
+
+(4) The reference in paragraph (3)(b) to an individual’s link to Scotland being sufficient is to it being sufficiently close that if the individual were not entitled to Scottish Adult Disability Living Allowance, paragraph (3) would be incompatible with Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1 February 2019.
+
+(5) Paragraph (1)(c) does not apply to a person subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999 where the person—
+
+- (a) is lawfully working in the United Kingdom and is a national of a state with which the United Kingdom has concluded an agreement which replaces in whole or in part an agreement under Article 217 of the Treaty on the Functioning of the European Union[^f00034] which has ceased to apply to, and in, the United Kingdom, providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory state and their families,
+- (b) is a member of the family of, and living with, a person specified in sub-paragraph (a), or
+- (c) has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon an undertaking by another person or persons pursuant to the immigration rules, to be responsible for their maintenance and accommodation.
+
+(6) The past presence condition in paragraph (1)(e) does not apply where an individual—
+
+- (a) has a terminal illness within the meaning of regulation 20(8), or
+- (b) is a vehicle scheme beneficiary.
+
+(7) The residence and presence conditions set out in paragraphs (1)(b) and (1)(e) do not apply where an individual is a person who—
+
+- (a) has leave to enter or remain in the United Kingdom granted under the immigration rules by virtue of—
+  - (i) the Afghan Relocations and Assistance Policy, or
+  - (ii) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme),
+- (b) has been granted discretionary leave outside the immigration rules as a dependant of a person referred to in sub-paragraph (a),
+- (c) has leave granted under the Afghan Citizens Resettlement Scheme,
+- (d) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
+  - (i) was residing in Ukraine immediately before 1 January 2022, and
+  - (ii) left Ukraine in connection with the Russian invasion which took place on 24 February 2022,
+- (e) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
+  - (i) was residing in Sudan before 15 April 2023, and
+  - (ii) left Sudan in connection with the violence which rapidly escalated on 15 April 2023 in Khartoum and across Sudan, [^key-ad2ce276d5be8c04562cdedb8e7c7995]...
+- (f) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
+  - (i) was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023, and
+  - (ii) left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack ,[^key-79be7d65d1822c438786066e96d7b491]
+- (g) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
+  - (i) was residing in Israel, the Occupied Palestinian Territories (the West Bank, including East Jerusalem, and Gaza) or the occupied Golan Heights immediately before 13 June 2025,
+  - (ii) left Israel, the Occupied Palestinian Territories or the occupied Golan Heights in connection with the escalation of violence between Israel and Iran that began on that date, and
+  - (iii) arrived in the United Kingdom on or before 13 December 2025, [^key-63f55660c735adb4e3ec6574379710ee]...
+- (h) has been granted, or is deemed to have been granted, leave outside the immigration rules.,[^key-c0e6f28c26b1a9bdda5c1b3607f2b4cd]
+- (i) has leave to enter or remain in the United Kingdom granted under or outside the immigration rules, has a right of abode in the United Kingdom within the meaning given in section 2 of the Immigration Act 1971 or does not require leave to enter or remain in the United Kingdom in accordance with section 3ZA of that Act, where the individual—
+  - (i) was residing in a country or territory outside of the United Kingdom,
+  - (ii) left that country or territory when His Majesty’s Government provided public information to advise British nationals to leave that country or territory immediately or arranged the evacuation of British nationals from that country or territory, and
+  - (iii) arrived in the United Kingdom in the first 26 weeks beginning on the date on which—
+    - (aa) the public information is issued, or
+    - (bb) the evacuation is started, or
+- (j) as part of a safe and legal humanitarian immigration route, has leave to enter or remain in the United Kingdom in accordance with the immigration rules or leave on a discretionary basis outside of those rules
+
+(8) For the purposes of paragraph (7), “**the Afghan Citizens Resettlement Scheme**” means the scheme announced by the United Kingdom Government on 18 August 2021[^f00035].
+
+(9)[^key-975bbea3694307366c1dd75f6f309f45] Where paragraph (7)(i) applies, it will apply for 52 weeks beginning on the day on which His Majesty’s Government provided public information to advise British nationals to leave a country or territory immediately or arranged the evacuation of British nationals from that country or territory (whichever is earlier).
+
+### 11. Temporary absence from the common travel area[^key-32bafce05d696604db228f37de301dca]
+
+(1) Where an individual is temporarily absent from the common travel area, the individual is to be treated as present in the common travel area for—
+
+- (a) the first 13 weeks of that absence for any reason, [^key-1c48b73a2822f3466352b36809591f68]...
+- (b) the first 26 weeks of that absence where—
+  - (i) after the first 13 weeks, the absence is in connection with arrangements made for the medical treatment of the individual for a disease or bodily or mental disablement which commenced before leaving the common travel area, and
+  - (ii) the arrangements relate to medical treatment—
+    - (aa) outside the common travel area,
+    - (bb) during the period when the individual is temporarily absent from the common travel area, and
+    - (cc) by, or under the supervision of, a person appropriately qualified to carry out that treatment, or[^key-b2389983f6c43d8038e676e162eaf4c9]
+- (c) the first 26 weeks of that absence where—
+  - (i) after the first 13 weeks of that 26 week period, the individual was present in a country or territory outside the common travel area immediately before His Majesty’s Government—
+    - (aa) provided public information to advise British nationals to leave that country or territory, or
+    - (bb) arranged the evacuation of British nationals from that country or territory,
+  - (ii) Scottish Ministers are satisfied that it would be unreasonable to expect the individual to return, or have returned, to the common travel area, and
+  - (iii) the individual did not enter that country or territory when His Majesty’s Government’s public information was to advise British nationals to leave that country or territory.
+
+(2) For the purposes of paragraph (1)—
+
+- (a) an individual is “temporarily absent” if, at the beginning of the period of absence, that absence is unlikely to exceed 52 weeks, and
+- (b) “**medical treatment**” means medical, surgical, psychological or rehabilitative treatment (including any course, diet or regimen).
+
+(3) Where an individual is temporarily absent from the common travel area on the date of transfer, the period at paragraph (1)(a) or (b) is to commence on the date Scottish Ministers identify as the commencement of the temporary absence from the common travel area.
+
+### 11A. Time limits on absences where the claimant is treated as being in the common travel area[^key-e5de21b2ba697fb15a0fb46a6084b46f]
+
+Where the individual is temporarily absent from the common travel area in the circumstances specified in regulation 11(1), the total period of an absence where an individual is treated as present in the common travel area will not exceed 26 weeks.
+
+### 12. Serving members of His Majesty’s forces, civil servants and their family members[^key-0e9f9503ffd21f1ee3def7ebe6657027]
+
+(1) A relevant individual is treated as meeting the residence and presence conditions set out in regulation 10(1)(a), (b) and (d) where on any day that individual is outside the common travel area—
+
+- (a) by reason of their capacity mentioned in paragraph (3)(a) provided that the individual satisfied the residence and presence conditions set out in regulation 10(1)(a), (b) and (d) immediately prior to the start of their employment mentioned in paragraph (3)(a), or
+- (b) by reason of being a person mentioned in paragraph (3)(b) living with an individual to whom paragraph (3)(a) applies.
+
+(2) The past presence condition set out in regulation 10(1)(e) does not apply to a relevant individual.
+
+(3) A “relevant individual” in paragraph (1) and (2) means an individual who is—
+
+- (a) outside the common travel area in their capacity as a—
+  - (i) serving member of His Majesty’s forces, or
+  - (ii) civil servant, or
+- (b) living with a person mentioned in sub-paragraph (a) and—
+  - (i) is the child, step-child or child in care of that person,
+  - (ii) is the parent, step-parent or parent-in-law of that person, or
+  - (iii) is married to or in a civil partnership with that person, or is living together with that person as if they were married or in a civil partnership.
+
+(4) In this regulation—
+
+- “**child in care**” means—
+  - (a) under the law of Scotland, a child in respect of whom a relevant individual listed in paragraph (3)(a)—
+    - (i) is a foster carer within the meaning of regulation 2 of the Looked After Children (Scotland) Regulations 2009[^f00036],
+    - (ii) is a kinship carer within the meaning of regulation 2 of the Looked After Children (Scotland) Regulations 2009,
+    - (iii) has a kinship care order within the meaning of section 72 of the Children and Young People (Scotland) Act 2014[^f00037], or
+  - (b) under the law of England and Wales and Northern Ireland, a child in respect of whom a person listed in paragraph (3)(a) has a relationship equivalent to those listed under the law of Scotland,
+- “**civil servant**” has the meaning given by section 1(4) of the Constitutional Reform and Governance Act 2010[^f00038],
+- “**serving member of His Majesty’s forces**” means a member of a regular force or a reserve force (“**M**”) as defined, in each case, by section 374 (definitions applying for purposes of the whole Act) of the Armed Forces Act 2006[^f00039], unless—
+  - (a) M is under the age of 16,
+  - (b) M is committing an offence under section 8 of the Armed Forces Act 2006 (desertion),
+  - (c) the force concerned is one of His Majesty’s naval forces which M locally entered at an overseas base without—
+    - (i) previously being an insured person under the National Insurance Act 1965[^f00040], or
+    - (ii) paying or having previously paid one or more of the following classes of contributions under the Social Security Act 1975[^f00041] or the Social Security Contributions and Benefits Act 1992[^f00042]—
+      - (aa) primary Class 1,
+      - (bb) Class 2, or
+      - (cc) Class 3, or
+  - (d) the force concerned is one of His Majesty’s military forces or His Majesty’s air forces which M entered, or was recruited for, outside the United Kingdom and—
+    - (i) where that force is one of His Majesty’s military forces, the depot for M’s unit is outside the United Kingdom, or
+    - (ii) where that force is one of His Majesty’s air forces, M is liable under the terms of M’s engagement to serve only in a specified area outside the United Kingdom.
+
+### 13. Aircraft workers, mariners and continental shelf operations[^key-05ffaccdf07de4c7d9537d62316ba256]
+
+(1) An individual is to be treated as meeting the presence conditions set out in regulation 10(1)(d) and (e) for any period where that individual is—
+
+- (a) outside the common travel area in their capacity as an aircraft worker or a mariner, or
+- (b) in employment prescribed for the purposes of section 120 (employment at sea (continental shelf operations)) of the Social Security Contributions and Benefits Act 1992[^f00043] in connection with continental shelf operations.
+
+(2) In this regulation—
+
+- “**aircraft worker**” means a person who is, or has been, employed under a contract of service either as a pilot, commander, navigator or other member of the crew of any aircraft, or in any other capacity on board any aircraft where—
+  - (a) the employment in that other capacity is for the purposes of the aircraft or its crew or of any passengers or cargo or mail carried on that aircraft, and
+  - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the aircraft is in flight,
+
+  but does not include a person so far as that employment is as a serving member of His Majesty’s forces, and
+- “**mariner**” means a person who is, or has been, in employment under a contract of service either as a master or member of the crew of any ship or vessel, or in any other capacity on board any ship or vessel where—
+  - (a) the employment in that other capacity is for the purposes of that ship or vessel or its crew or any passengers or cargo or mail carried by the ship or vessel, and
+  - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on voyage,
+
+  but does not include a person in so far as that employment is as a serving member of His Majesty’s forces.
+
+### 14. Persons residing in the United Kingdom to whom a relevant EU regulation applies[^key-db4007b0d7d67c73c7eaf077a10e05d1]
+
+The past presence condition set out in regulation 10(1)(e) does not apply where on any day the individual is—
+
+- (a) ordinarily resident in Scotland,
+- (b) habitually resident in the United Kingdom,
+- (c) an individual—
+  - (i) to whom the rules set out in a relevant EU regulation apply by virtue of—
+    - (aa) Title III of Part 2 of the EU withdrawal agreement,
+    - (bb) Part 3 or Article 23(4) of the Swiss citizens’ rights agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020 (“**the 2020 Act**”))[^f00044],
+    - (cc) Title III of the EEA EFTA separation agreement (as defined in section 39(1) of the 2020 Act),
+    - (dd) the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974[^f00045], or
+    - (ee) the agreement constituted by the exchange of letters set out in the schedule of the Social Security (Gibraltar) Order 2024[^f00046], and
+  - (ii) in respect of whom the United Kingdom is, as a result, competent for payment of sickness benefits in cash.
+
+### 15. Persons residing outside the United Kingdom to whom a relevant EU regulation applies[^key-f36e05ecdf625c9ebfb4aca296b05fe6]
+
+(1) The residence and presence conditions set out in regulation 10(1) do not apply in relation to the care component where on any day the individual satisfies the conditions in paragraph (2).
+
+(2) The conditions referred to in paragraph (1) are that the individual must—
+
+- (a) be an individual—
+  - (i) to whom the rules set out in a relevant EU regulation apply by virtue of—
+    - (aa) Title III of Part 2 of the EU withdrawal agreement,
+    - (bb) Part 3 of Article 23(4) of the Swiss citizens’ rights agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020 (“**the 2020 Act**”)),
+    - (cc) Title III of the EEA EFTA separation agreement (as defined in section 39(1) of the 2020 Act),
+    - (dd) the agreement constituted by the exchange of letters set out in the schedule of the Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974, or
+    - (ee) the agreement constituted by the exchange of letters set out in the schedule of the Social Security (Gibraltar) Order 2024, and
+  - (ii) in respect of whom the United Kingdom is, as a result, competent for payment of sickness benefits in cash,
+- (b) be habitually resident in—
+  - (i) Switzerland,
+  - (ii) an EEA state, or
+  - (iii) Gibraltar, and
+- (c) have a genuine and sufficient link to Scotland.
+
+(3) The reference in paragraph (2)(c) to an individual’s link to Scotland being sufficient is to it being sufficiently close that if the individual were not entitled to Scottish Adult Disability Living Allowance, paragraph (2) would be incompatible with the applicable agreement mentioned in sub-paragraph (a)(i) of that paragraph.
+
+(4) In this regulation, “**EEA State**” means—
+
+- (a) any member state of the European Union, or
+- (b) any other state that is party to the agreement on the European Economic Area signed at Oporto on 2 May 1992[^f00047], together with the Protocol adjusting that Agreement signed at Brussels on 17 March 1993[^f00048], as modified or supplemented from time to time.
+
+### 16. No entitlement to care component where UK is not competent state[^key-c980df66fcecf3a097957d7cac479683]
+
+An individual to whom a relevant EU Regulation applies is not entitled to the care component for a period unless during that period the United Kingdom is competent for payment of sickness benefits in cash to the individual for the purposes of the relevant EU Regulation in question.
+
+### 17. Refugees[^key-ef42ca0458770fa9415db225ea3bc125]
+
+The residence and presence conditions set out in regulation 10(1)(b) and (e) do not apply where an individual has—
+
+- (a) been granted refugee status or humanitarian protection under the immigration rules, or
+- (b) leave to enter or remain in the United Kingdom as the dependant of a person granted refugee status or humanitarian protection under the immigration rules.
+
+## PART 5 — Entitlement under rules relating to age
+
+### 18. Age criteria[^key-05a451c3fcc7d7c9fd44e7e8916240a7]
+
+(1) Scottish Adult Disability Living Allowance may be paid in respect of an individual who is at least 18 years of age.
+
+(2) Where an individual was born on 29 February, their birthday is to be taken to fall on 28 February in a year which is not a leap year.
+
+### 19. Determination of an award after the person has reached the relevant age[^key-15ad0e6bc98ec38370f4aa2b97f90dd0]
+
+(1) This regulation applies where—
+
+- (a) the individual has—
+  - (i) reached the relevant age,
+  - (ii) an ongoing entitlement to Scottish Adult Disability Living Allowance (the “original award”), and
+- (b) the Scottish Ministers are under a duty to make a determination of their entitlement by way of a determination without an application under regulations 42 to 45.
+
+(2) The restrictions in paragraph (3) apply in relation to the determination referred to in paragraph (1)(b) where the determination is being made in relation to—
+
+- (a) a change of circumstances which occurred after the person reached the relevant age, or
+- (b) a material fact which the Scottish Ministers were not previously aware of which relates to circumstances which began after the individual reached the relevant age.
+
+(3) The restrictions referred to in paragraph (2) are—
+
+- (a) where the original mobility component award is for the lower rate then, regardless of whether the award would otherwise have been for the higher rate, the Scottish Ministers—
+  - (i) may only make an award for the lower rate of that component, and
+  - (ii) may only make such an award where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the original award was given,
+- (b) where the original mobility component award is for the higher rate, the Scottish Ministers may only award the higher rate of that component where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the original award was given,
+- (c) where the original award did not include an award of the mobility component, the Scottish Ministers may not award that component at either the lower or higher rate.
+
+(4) Where the original award does not include an award of the mobility component but the individual had—
+
+- (a) a previous award of—
+  - (i) the mobility component of Scottish Adult Disability Living Allowance, or
+  - (ii) the mobility component of Disability Living Allowance, and
+- (b) the previous award of the component under sub-paragraph (a) ceased no more than 1 year prior to the date on which the determination referred to in paragraph (1)(b) takes or would take effect,
+
+for the purpose of this regulation, entitlement under that previous award is to be treated as if it were under the original award.
+
+(5) Paragraph (2)(b) does not include medical evidence in the form of a clinical judgement which was made in accordance with regulation 20(8) and (9) before the individual reached the relevant age.
+
+## PART 6 — Entitlement under special rules for terminal illness and when undergoing dialysis
+
+### 20. Entitlement under special rules for terminal illness[^key-3a8ab60b1b7acb83a2a03fa96fa5337c]
+
+(1) An individual who has a terminal illness is to be treated as satisfying the conditions for the highest rate of the care component in regulation 6(4)(a).
+
+(2) An individual who has a terminal illness—
+
+- (a) before reaching the relevant age is to be treated as satisfying the conditions for the higher rate of the mobility component in regulation 8,
+- (b) after reaching the relevant age is to be treated as satisfying the conditions for—
+  - (i) the higher rate of the mobility component in regulation 8 only if—
+    - (aa) the individual was entitled to that rate immediately before they reached the relevant age, and
+    - (bb) the entitlement results from substantially the same condition or conditions in respect of which the mobility component was previously given, or
+  - (ii) the lower rate of the mobility component in regulation 7 only if—
+    - (aa) the individual was entitled to that rate immediately before they reached the relevant age, and
+    - (bb) the entitlement results from substantially the same condition or conditions in respect of which the mobility component was previously given.
+
+(3) Paragraphs (1) and (2) apply regardless of the period of time for which the individual has had the terminal illness.
+
+(4) An individual who had reached the relevant age when they became terminally ill is to be treated as satisfying the conditions referred to in regulations 7(4)(c) and 8(11)(c).
+
+(5) Subject to paragraphs (6) and (7), the individual’s entitlement to the rates referred to in paragraphs (1) and (2) begin on the date on which—
+
+- (a) the Scottish Ministers become aware of the individual’s terminal illness (whether as a result of the individual notifying a change in circumstances or otherwise), where the individual was previously awarded, and has an ongoing entitlement to, Scottish Adult Disability Living Allowance, on the basis of a determination that the individual was entitled to the care component or mobility component or both in relation to a condition other than terminal illness, or
+- (b) the clinical judgement was made in accordance with paragraphs (8) and (9) (“the judgement”),
+
+whichever is the earlier.
+
+(6) Where the judgement mentioned in paragraph (5)(b) is dated not more than 26 weeks earlier than the date in paragraph (5)(a) (“the applicable date”), the Scottish Ministers have the power, when making their determination, to specify that an individual’s entitlement begins—
+
+- (a) up to a maximum of 26 weeks prior to the applicable date, and
+- (b) on or after the day these Regulations come into force.
+
+(7) Where the judgement mentioned in paragraph (5)(b)—
+
+- (a) is dated more than 26 weeks earlier than the applicable date, and
+- (b) an appropriate healthcare professional confirms that the judgement is still accurate by making a judgement in accordance with paragraphs (8) and (9),
+
+an individual’s entitlement can only begin—
+
+- (c) up to a maximum of 26 weeks prior to the applicable date, and
+- (d) on or after the day these Regulations come into force.
+
+(8) For the purposes of these Regulations, an individual is to be regarded as having a terminal illness for the purpose of determining entitlement to Scottish Adult Disability Living Allowance if it is the clinical judgement of an appropriate healthcare professional that the individual has a progressive disease that can reasonably be expected to cause the individual’s death.
+
+(9) Subject to paragraph (10), an appropriate healthcare professional exercising the judgement described in paragraph (8) must have regard to the guidance prepared and made publicly available by the Chief Medical Officer of the Scottish Administration in accordance with paragraph 1(3) of schedule 5 of the 2018 Act[^f00049].
+
+(10) Where regulation 15 (persons residing outside the United Kingdom to whom a relevant EU regulation applies) applies to the individual, an appropriate healthcare professional mentioned in paragraph (7)(b) need not have regard to the guidance mentioned in paragraph (9) where it would not be reasonable in the circumstances to insist on the judgement being formed with regard to that guidance.
+
+(11) In this regulation, “**an appropriate healthcare professional**” means—
+
+- (a) a registered medical practitioner or a registered nurse who is—
+  - (i) involved in the diagnosis or care of the individual, and
+  - (ii) acting in their professional capacity, or
+- (b) where regulation 15 applies to the individual, a person who—
+  - (i) has equivalent qualifications to a registered medical practitioner or a registered nurse in an EEA state, Gibraltar or Switzerland,
+  - (ii) is a member of the professional body equivalent to the General Medical Council or Nursing and Midwifery Council in that EEA state, Gibraltar or Switzerland, and
+  - (iii) meets the requirements of sub-paragraph (a)(i) and (ii).
+
+(12) Where an individual has previously received Scottish Adult Disability Living Allowance or a benefit listed in paragraph (14)(a) for a period and a determination is subsequently made that the individual is entitled to Scottish Adult Disability Living Allowance at a higher rate for that period by virtue of this regulation, the individual will be entitled to the difference between the value of entitlement to Scottish Adult Disability Living Allowance under the subsequent determination and the value of Scottish Adult Disability Living Allowance or the benefit listed in paragraph (14)(a) to which that individual was previously entitled for that period.
+
+(13) Where the individual has received Scottish Adult Disability Living Allowance and Disability Living Allowance for the same period in the circumstances described in paragraph 8(1)(b) of schedule 1, any Disability Living Allowance payable to the transferring individual for that period is to be disregarded for the purposes of paragraph (12).
+
+(14) For the purpose of paragraph (12)—
+
+- (a) the benefits are—
+  - (i) Adult Disability Payment
+  - (ii) armed forces independence payment,
+  - (iii) Attendance Allowance,
+  - (iv) Disability Living Allowance,
+  - (v) Personal Independence Payment, or
+  - (vi) Pension Age Disability Payment.
+- (b) regulation 5 (entitlement to other benefits) and section 71(7) (disability living allowance) of the Social Security Contributions and Benefits Act 1992[^f00050] are treated as omitted.
+
+### 21. Entitlement to middle rate of care component when undergoing dialysis[^key-ba574e00747fe195bece8497309f3b03]
+
+(1) Except as provided in paragraph (3), an individual who suffers from renal failure and who is undergoing the treatment specified in paragraph (2) is treated as meeting the condition—
+
+- (a) in regulation 6(1)(c) where they undergo renal dialysis by day,
+- (b) in regulation 6(1)(d) where they undergo renal dialysis by night,
+- (c) in either paragraph (1)(c) or paragraph (1)(d) of regulation 6, but not both, if they undergo renal dialysis by day and by night.
+
+(2) The treatment referred to in paragraph (1) is the undergoing of renal dialysis—
+
+- (a) two or more times a week, and
+- (b) which either—
+  - (i) is of a type which normally requires the attendance of or supervision by another person during the period of dialysis, or
+  - (ii) because of the particular circumstances of their case, in fact requires another person, during the period of dialysis, to attend in connection with the bodily functions of the individual undergoing renal dialysis or to supervise that individual in order that they avoid substantial danger to themselves.
+
+(3) Paragraph (1) does not apply to an individual undergoing the treatment specified in paragraph (2) where the treatment—
+
+- (a) is provided under the National Health Service (Scotland) Act 1978[^f00051], the National Health Service Act 2006[^f00052], the National Health Service (Wales) Act 2006[^f00053] or the Health and Personal Social Services (Northern Ireland) Order 1972[^f00054],
+- (b) is in a hospital or similar institution,
+- (c) is out-patient treatment, and
+- (d) takes place with the assistance or supervision of staff of the hospital or similar institution.
+
+(4) In this regulation, a “**hospital or similar institution**” means—
+
+- (a) a health service hospital (within the meaning of section 108(1) of the National Health Service (Scotland) Act 1978[^f00055]) in Scotland,
+- (b) a health service hospital (within the meaning of section 275(1) of the National Health Service Act 2006[^f00056]) in England,
+- (c) a hospital in Wales vested in—
+  - (i) an NHS trust,
+  - (ii) a Local Health Board, or
+  - (iii) the Welsh Ministers,
+- (d) a hospital (within the meaning of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00057] or the Health and Personal Social Services (Northern Ireland) Order 1991[^f00058]) in Northern Ireland.
+
+(5) For the purposes of determining whether an individual is to be treated as meeting one of the conditions specified in paragraph (1), any period of time where paragraph (3) applies to the individual can be included for the purposes of calculating the periods required by regulation 6(2) and (3).
+
+## PART 7 — Effect of time spent in care homes, hospital and legal detention
+
+### 22. Effect of admission to a care home on ongoing entitlement to care component[^key-ada1156f922798f1ff9c9817f5e00ccb]
+
+(1) This regulation applies where an individual who has an ongoing entitlement to the care component of Scottish Adult Disability Living Allowance becomes a resident of a care home.
+
+(2) Subject to paragraphs (3) and (4) and regulation 24 (exception: hospices), on the day after the day on which the individual has been resident in a care home for 28 days, and for so long as the individual continues to reside in such a home, the value of the care component of Scottish Adult Disability Living Allowance that is to be given to the individual is to be £0 instead of the values set out in regulation 29 (amount and form of Scottish Adult Disability Living Allowance).
+
+(3) The 28 days referred to in paragraph (2) may comprise two or more separate periods, provided that there is no more than 28 days between each period.
+
+(4) Paragraph (2) does not apply to a resident in a care home where the full costs of any qualifying services are met—
+
+- (a) entirely out of the resources of the individual for whom the qualifying services are provided,
+- (b) partly out of the resources of the individual for whom the qualifying services are provided and partly out of the resources of another person (other than a local authority) or assistance from a charity, or
+- (c) entirely out of the resources of another person (other than a local authority) or assistance from a charity.
+
+### 23. Effect of admission to hospital on ongoing entitlement to Scottish Adult Disability Living Allowance[^key-162fb4b6dc1f04073d2e0d5fc9288c8e]
+
+(1) This regulation applies where an individual who has an ongoing entitlement to either component of Scottish Adult Disability Living Allowance—
+
+- (a) is undergoing medical or other treatment as an in-patient at a hospital or similar institution, and
+- (b) any of the costs of the treatment, accommodation and any related services provided for them are borne out of public funds.
+
+(2) Subject to regulation 24 (exception: hospices), on the day after the day on which the individual has been an in-patient in a hospital or other similar institution for 28 days, and for so long as the individual continues to be an in-patient in such an institution, the value of each component of Scottish Adult Disability Living Allowance that is to be given to the individual is £0 instead of the values set out in regulation 29 (amount and form of Scottish Adult Disability Living Allowance).
+
+(3) The 28 days referred to in paragraph (2) may comprise two or more separate periods, provided that there is no more than 28 days between each period.
+
+(4) For the purposes of paragraph (1), the costs of treatment, accommodation or any related services are borne out of public funds if the individual is undergoing medical or other treatment as an in-patient in—
+
+- (a) a hospital or similar institution under—
+  - (i) the National Health Service Act 2006[^f00059],
+  - (ii) the National Health Service (Wales) Act 2006[^f00060],
+  - (iii) the National Health Service (Scotland) Act 1978[^f00061], or
+  - (iv) the Health and Personal Social Services (Northern Ireland) Order 1972 or the Health and Personal Social Services (Northern Ireland) Order 1991, or
+- (b) a hospital or similar institution maintained or administered by the Defence Council[^f00062].
+
+(5) This regulation does not apply to an individual who was under the age of 18 on the day on which they began their current period undergoing medical or other treatment as an in-patient at a hospital or similar institution.
+
+### 24. Exception: Hospices[^key-64dfe8df632cf20cd372693931f545ba]
+
+(1) Regulations 22(2) and 23(2) do not apply where the individual is residing in a hospice and has a terminal illness.
+
+(2) In this regulation, “**hospice**” means a hospital or other institution whose primary function is to provide palliative care for persons resident there who are suffering from a progressive disease in its final stages, other than—
+
+- (a) a health service hospital (within the meaning of section 108(1) of the National Health Service (Scotland) Act 1978) in Scotland,
+- (b) a health service hospital (within the meaning of section 275(1) of the National Health Service Act 2006) in England,
+- (c) a hospital in Wales vested in—
+  - (i) an NHS trust,
+  - (ii) a Local Health Board, or
+  - (iii) the Welsh Ministers,
+
+  for the purpose of functions under the National Health Service (Wales) Act 2006,
+- (d) a hospital or similar institution within the meaning of Article 2(2) of the Health and Personal Social Services (Northern Ireland) Order 1972 or the Health and Personal Social Services (Northern Ireland) Order 1991,
+- (e) a hospital maintained or administered by the Defence Council, or
+- (f) an institution similar to a hospital mentioned in any of the preceding sub-paragraphs.
+
+### 25. Effect of legal detention on ongoing entitlement to Scottish Adult Disability Living Allowance[^key-0b3e103d48246f72a00877aef6dc7e27]
+
+(1) This regulation applies where an individual who has an ongoing entitlement to Scottish Adult Disability Living Allowance begins a period of legal detention.
+
+(2) For the purposes of this regulation, an individual is to be treated as though they are not in legal detention on any day on which they are an in-patient in a hospital or in a hospice.
+
+(3) On the day after the day on which the individual has been in legal detention for 28 days, and for so long as the individual continues to be in legal detention, instead of the values set out in regulation 29 (amount and form of Scottish Adult Disability Living Allowance), the value of each component of Scottish Adult Disability Living Allowance that is to be given to the individual is to be £0.
+
+(4) The 28 days referred to in paragraph (3) may comprise two or more separate periods, provided there is no more than one year between each period.
+
+(5) Paragraph (3) of this regulation does not apply to an individual where—
+
+- (a) the individual is undergoing legal detention outside the United Kingdom, and
+- (b) in similar circumstances in Scotland, the individual would have been excepted from the application of that paragraph by virtue of the operation of any provision of this regulation.
+
+### 26. Calculation of periods of time spent in a care home, hospital or legal detention[^key-ef54edbf99481b243b5f8451b7b83ddd]
+
+(1) Subject to paragraphs (3) to (6), a period during which an individual is—
+
+- (a) resident in a care home for the purpose of regulation 22,
+- (b) an in-patient in a hospital or similar institution for the purpose of regulation 23,
+- (c) in legal detention for the purpose of regulation 25, or
+- (d) resident in a care home, an in-patient in a hospital or similar institution, or in legal detention for the purposes of regulation 27,
+
+is to be determined in accordance with this regulation.
+
+(2) Such a period is to be taken to—
+
+- (a) begin on the day after the day on which the individual enters the place, and
+- (b) end on the day before the day on which the individual leaves the place.
+
+(3) Where an individual takes a period of leave from a place mentioned in paragraph (1), the days on which the individual begins and returns from leave are not be counted as days of residence in that place.
+
+(4) Days constituting a period of leave are not to be counted as days of residence in a place.
+
+(5) Where an individual enters a place (“the second place”) under paragraph (1) as a result of transfer from another place (“the first place”) under that paragraph—
+
+- (a) the day of transfer is to be counted as a day of residence in the second place, and
+- (b) for the purpose of calculating when the individual has been in the second place for 28 days for the purposes of regulations 22(2), 23(2), 25(3) and 27(2) to (4)—
+  - (i) the days that they were resident in the first place are to be treated as days of residence in the second place,
+  - (ii) if they were resident in the first place for more than 28 days, the individual is to be treated as though they have been resident in the second place for 28 days on the day before the day of transfer, and
+- (c) the period of residence in the first place is deemed to end on the day on which the period of residence in the second place ends.
+
+(6) For the purposes of this regulation, “**days of residence**” means—
+
+- (a) days resident in a care home in terms of regulation 22 or 27,
+- (b) days as an in-patient in hospital or similar institution in terms of regulation 23 or 27, and
+- (c) days in legal detention in terms of regulation 25 or 27.
+
+### 27. Entitlement beginning while in alternative accommodation[^key-21801c0be2ddad42a7d2a80ccfaf49ab]
+
+(1) Paragraphs (2) to (4) apply where an individual is resident in a care home, an in-patient in a hospital or similar institution, or in legal detention on the day on which their entitlement to Scottish Adult Disability Living Allowance begins as a result of a transfer determination.
+
+(2) Where an individual is in legal detention when their entitlement to Scottish Adult Disability Living Allowance begins as a result of a transfer determination, on the day after the day on which the individual has been entitled to Scottish Adult Disability Living Allowance for 28 days, and for so long as the individual continues to be in legal detention, instead of the values set out in regulation 29 (amount and form of Scottish Adult Disability Living Allowance), the individual is to be given the value of £0 in respect of each component of Scottish Adult Disability Living Allowance.
+
+(3) Except where paragraph (7) applies, where an individual has been resident in a care home, or an in-patient in a hospital or similar institution, for a period of 28 days or more when their entitlement to Scottish Adult Disability Living Allowance begins, for so long as the individual continues to reside in a care home or is an in-patient in a hospital or similar institution, instead of the values set out in regulation 29 (amount and form of Scottish Adult Disability Living Allowance), the individual is to be given the value of £0—
+
+- (a) where the individual is resident in a care home, in respect of the care component of Scottish Adult Disability Living Allowance,
+- (b) where the individual is—
+  - (i) undergoing medical or other treatment as an in-patient in a hospital or similar institution, and
+  - (ii) any of the costs of the treatment, accommodation and any related services provided for them are borne out of public funds within the meaning of regulation 23(4) (effect of admission to hospital on ongoing entitlement to Scottish Adult Disability Living Allowance),
+
+  in respect of each component of Scottish Adult Disability Living Allowance.
+
+(4) Where, on the day on which their entitlement to Scottish Adult Disability Allowance begins, an individual has been resident in a care home or an in-patient in a hospital or similar institution for a period of less than 28 days, on the day after the day on which the individual has been resident in a care home or is an in-patient in a hospital or similar institution for more than 28 days, and for so long as the individual continues to reside in a care home or is an in-patient in a hospital or similar institution instead of the values set out in regulation 29 (amount and form of Scottish Adult Disability Living Allowance), the individual is to be given the value of £0—
+
+- (a) where the individual is resident in a care home, in respect of the care component of Scottish Adult Disability Living Allowance, and
+- (b) where the individual is—
+  - (i) undergoing medical or other treatment as an in-patient in a hospital or similar institution, and
+  - (ii) any of the costs of the treatment, accommodation and any related services provided for them are borne out of public funds within the meaning of regulation 23(4),
+
+  in respect of each component of Scottish Adult Disability Living Allowance.
+
+(5) Paragraph (6) applies where an individual is resident in a care home, an in-patient in a hospital or similar institution, or in legal detention on the day on which their entitlement to Scottish Adult Disability Living Allowance begins as a result of a determination under paragraph 12 of schedule 1 (reinstatement of entitlement to Scottish Adult Disability Living Allowance within a year), paragraph 13 of schedule 1 (request for Scottish Adult Disability Living Allowance when an award of Disability Living Allowance has ended) or regulation 47 (individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom before moving to Scotland).
+
+(6) On and after that day, and for so long as the individual continues to reside in a place mentioned in paragraph (5), instead of the values set out in regulation 29 (amount and form of Scottish Adult Disability Living Allowance), the individual is to be given the value of £0—
+
+- (a) where the individual is resident in a care home, in respect of the care component of Scottish Adult Disability Living Allowance,
+- (b) where the individual is—
+  - (i) undergoing medical or other treatment as an in-patient in a hospital or similar institution, and
+  - (ii) any of the costs of the treatment, accommodation and any related services provided for them are borne out of public funds within the meaning of regulation 23(4) (effect of admission to hospital on rate of entitlement),
+
+  in respect of each component of Scottish Adult Disability Living Allowance, and
+- (c) where the individual is in legal detention, in respect of each component of Scottish Adult Disability Living Allowance.
+
+(7) Subject to paragraph (8), where an individual began their current period undergoing medical or other treatment as an in-patient at a hospital or similar institution on or before 31<sup></sup>July 1995 and has since 31 July 1995 been in continuous receipt of the mobility component of Disability Living Allowance or Scottish Adult Disability Living Allowance, that individual may receive the mobility component of Scottish Adult Disability Living Allowance at the lower rate until such time as paragraph (1) first ceases to apply to them for more than 28 consecutive days.
+
+(8) Paragraph (7) does not apply where on or after 31 July 1996, an individual is detained under Part II or Part III of the Mental Health Act 1983[^f00063], Part 5, 6 or 7 or section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00064] or section 52D or 52M of the Criminal Procedure (Scotland) Act 1995[^f00065].
+
+(9) The 28 days referred to in paragraphs (2) to (4) may comprise two or more separate periods, provided that there is no more than 28 days between each period.
+
+(10) Paragraphs (3) to (5) do not apply where the individual is a resident in a care home, and the full costs of any qualifying services are met—
+
+- (a) entirely out of the resources of the individual for whom the qualifying services are provided,
+- (b) partly out of the resources of the individual for whom the qualifying services are provided and partly out of the resources of another person (other than a local authority) or assistance from a charity, or
+- (c) entirely out of the resources of another person (other than a local authority) or assistance from a charity.
+
+## PART 8 — Making payments and duration of eligibility
+
+### 28. Making Payments[^key-58dce32286da837fc30cd8821088234f]
+
+(1) Where Scottish Adult Disability Living Allowance is payable in respect of an individual, the Scottish Ministers may, where they consider it appropriate, make the payment to another person to be used for the benefit of the individual.
+
+(2) Where the Scottish Ministers consider, for any reason, that it is no longer appropriate for a particular person who falls within paragraph (1) to continue to receive the payment, they may cease making payment to that person.
+
+### 29. Amount and form of Scottish Adult Disability Living Allowance[^key-b5e12e16827615f1d904a76a28f5ae77]
+
+(1) The weekly rate of payment of the care component is, where the individual is entitled to—
+
+- (a) the lowest rate, £30.30[^key-fbcde428b88db7a5f790b02aa8f52c16],
+- (b) the middle rate, £76.70[^key-89c61962aab25e318f8faab4f930c8aa], or
+- (c) the highest rate, £114.60[^key-15dc0d495d6c71dc6cda5b2fb5d1fa91].
+
+(2) The weekly rate of the mobility component is, where the individual is entitled to—
+
+- (a) the lower rate, £30.30[^key-df74e81dbecde075ecd0160e032f6def], or
+- (b) the higher rate, £80.00[^key-d5697fcda873cf77c5f698affd01d493].
+
+(3) Where an individual is entitled to payment of the care component or the mobility component for a period shorter than one week, payment is to be made at one-seventh of the relevant weekly rate, for each day of entitlement.
+
+(4) For any week where an individual is entitled to—
+
+- (a) the care component of Scottish Adult Disability Living Allowance, and
+- (b) payment of an amount in respect of constant attendance under article 14 of the Personal Injuries (Civilians) Scheme 1983[^f00066], section 104 of the Social Security Contributions and Benefits Act 1992[^f00067], section 104 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00068], or article 8 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006[^f00069],
+
+the amount of the care component of Scottish Adult Disability Living Allowance that is to be given to the individual is to be reduced by the amount paid under that section or article, as the case may be.
+
+(5) For the purpose of calculating the amount of the care component of Scottish Adult Disability Living Allowance that is to be given to the individual in accordance with paragraph (4), where the amount in respect of constant attendance is equal to or greater than the amount of the care component of Scottish Adult Disability Living Allowance, the value of the care component of Scottish Adult Disability Living Allowance that is to be given to the individual is to be £0.
+
+(6) For any week where an individual is entitled to—
+
+- (a) the mobility component of Scottish Adult Disability Living Allowance, and
+- (b) payment of War Pensioners’ Mobility Supplement within the meaning of—
+  - (i) the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 1983 (“**1983 Order**”)[^f00070],
+  - (ii) the Personal Injuries (Civilians) Scheme 1983,
+  - (iii) the 1983 Order by virtue of the War Pensions (Naval Auxiliary Personnel) Scheme 1964[^f00071],
+  - (iv) the Pensions (Polish Forces) Scheme 1964[^f00072],
+  - (v) the War Pensions (Mercantile Marine) Scheme 1964[^f00073], or
+  - (vi) an Order of Her Majesty in relation to the Home Guard dated 21 December 1964[^f00074] or 22 December 1964[^f00075], or in relation to the Ulster Defence Regiment dated 4 January 1971[^f00076],
+
+  the amount of the mobility component of Scottish Adult Disability Living Allowance that is to be given to the individual is to be £0.
+
+(7) Scottish Adult Disability Living Allowance is only to be given in the form of money, except as provided for by regulation 39 (Form of payment – giving Scottish Adult Disability Living Allowance by way of deduction).
+
+### 30. Adjustment of payment where medical expenses are paid from public funds under war pensions instrument[^key-1efe2d00e9c61496ccb43650716c09a2]
+
+(1) Except where paragraph (2) applies, where—
+
+- (a) an individual is provided with relevant accommodation, and
+- (b) there are payable in respect of that individual both—
+  - (i) a payment under article 21 (medical expenses) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006, and
+  - (ii) the care component of Scottish Adult Disability Living Allowance,
+
+the amount of the care component of Scottish Adult Disability Living Allowance is reduced by the amount of the payment mentioned in sub-paragraph (b)(i).
+
+(2) Paragraph (1) does not apply to an individual in respect of the first 28 days of any period during which the amount of the care component of Scottish Adult Disability Living Allowance would otherwise be adjusted by virtue of paragraph (1).
+
+(3) The 28 days referred to in paragraph (2)—
+
+- (a) may comprise two or more separate periods, provided that there is no more than 28 days between each period, and
+- (b) is reduced by the number of relevant days.
+
+(4) In this regulation—
+
+- “**relevant accommodation**” means accommodation provided as a necessary ancillary to nursing care where the medical expenses involved are wholly borne by the Secretary of State pursuant to article 21 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006, and
+- “**relevant day**” means a day that falls not earlier than 28 days before the first day on which the individual was provided with relevant accommodation, and either—
+  - (a) is a day when the individual was undergoing medical treatment in a hospital or similar institution in the circumstances mentioned in regulation 23(1)(b), or
+  - (b) is a day when the individual was prevented from receiving the care component of Scottish Adult Disability Living Allowance by virtue of regulation 22(2).
+
+### 31. Time of Payment[^key-786b8c5d5ba8a27dcf522f14fd5e2cdb]
+
+Where an award of Scottish Adult Disability Living Allowance is made, the Scottish Ministers are to make—
+
+- (a) the first payment of assistance on a date specified in the notice of determination, and
+- (b) any subsequent payment—
+  - (i) 4 weekly in arrears,
+  - (ii) where regulation 20 (entitlement under special rules for terminal illness) applies, weekly in advance,
+  - (iii) weekly in advance where an individual previously received Disability Living Allowance weekly in advance, or
+  - (iv) where the Scottish Ministers consider that it would be unjust not to do so, at such intervals as they specify in the notice of determination.
+
+### 32. Continuing Eligibility[^key-d1ecd7099474b1fef543ec993194e8aa]
+
+(1) Subject to paragraphs (3) and (4), a determination that an individual is entitled to Scottish Adult Disability Living Allowance in respect of a period is to be made on the basis that the individual has an ongoing entitlement to Scottish Adult Disability Living Allowance after the end of that period, except where paragraph (2) applies.
+
+(2) This paragraph applies where, after the end of the period mentioned in paragraph (1), the individual no longer satisfies the eligibility rules.
+
+(3) A determination of ongoing entitlement is made on the basis that—
+
+- (a) the individual will continue to be entitled to Scottish Adult Disability Living Allowance for a fixed or indefinite period as specified in the notice of determination, and
+- (b) the decision that the individual is entitled to Scottish Adult Disability Living Allowance for each subsequent 4-week period is to be taken in accordance with these Regulations, on the strength of the assumptions set out in paragraph (4).
+
+(4) The assumptions are that—
+
+- (a) the individual continues to satisfy the eligibility criteria which were satisfied to be entitled to Scottish Adult Disability Living Allowance under the determination mentioned in paragraph (1),
+- (b) the information on which the determination mentioned in paragraph (1) was made still applies and is relevant in the individual’s case, and
+- (c) there is no change in circumstances of the individual which would require to be notified under section 56 (duty to notify change of circumstances) of the 2018 Act.
+
+### 33. Circumstances in which assistance may be suspended[^key-c3ab4f883c75852d3526dddc542ed462]
+
+(1) The Scottish Ministers may decide that an individual who has an ongoing entitlement to Scottish Adult Disability Living Allowance in respect of a period by virtue of regulation 32 (continuing eligibility) is not to become entitled to be given some or all of either component or both components of that assistance at the time at which the individual otherwise would in accordance with that regulation, as read with regulation 31 (time of payment) (referred to in these Regulations as a decision to suspend the individual’s Scottish Adult Disability Living Allowance).
+
+(2)[^key-7263ffbd9d99e76311cd044e16ca01ed] Where such a decision is made in respect of an individual, payments of Scottish Adult Disability Living Allowance to that individual are to be suspended until such time as the Scottish Ministers decide to end the suspension in accordance with regulation 37.
+
+(3) The Scottish Ministers may decide to suspend an individual’s Scottish Adult Disability Living Allowance only in the circumstances where—
+
+- (a) section 54(1A) of the 2018 Act[^f00077] applies, or
+- (b) the Scottish Ministers have made arrangements (whether under section 85B of the 2018 Act[^f00078] or otherwise) for a person to receive the Scottish Adult Disability Living Allowance on the individual’s behalf, and the Scottish Ministers consider that it is necessary to suspend the Scottish Adult Disability Living Allowance—
+  - (i) in order to protect the individual from the risk of financial abuse, or
+  - (ii) because the person with whom the Scottish Ministers have made arrangements is unable to continue to receive the Scottish Adult Disability Living Allowance.
+
+(4) In this regulation, “**financial abuse**” includes—
+
+- (a) having money or other property stolen,
+- (b) being defrauded,
+- (c) being put under pressure in relation to money or other property,
+- (d) having money or other property misused.
+
+### 34. Having regard to financial circumstances[^key-dbcdcdedf92a9e64150ef6b3c21a67d6]
+
+The Scottish Ministers must have regard to an individual’s financial circumstances prior to making a decision to suspend payment to the individual of some or all of either component or both components of Scottish Adult Disability Living Allowance.
+
+### 35. Information to be given following suspension[^key-105592c47d208846cb063b5fb2d1fd3c]
+
+(1) Having made a decision to suspend an individual’s Scottish Adult Disability Living Allowance, the Scottish Ministers must inform the individual of—
+
+- (a) their decision to suspend the individual’s Scottish Adult Disability Living Allowance,
+- (b) the reasons for their decision,
+- (c) any steps which might be taken by the individual in order for the Scottish Ministers to consider ending the suspension, and
+- (d) the individual’s right under regulation 36 to require the Scottish Ministers to review their decision to suspend the individual’s Scottish Adult Disability Living Allowance.
+
+(2) The Scottish Ministers must fulfil their duty under paragraph (1) in a way that leaves the individual with a record of the information which the individual can show to, or otherwise share with, others.
+
+### 36. Right to review suspension[^key-b41d47a54a73477bf15b5596458c8fa3]
+
+(1) An individual may require the Scottish Ministers to review their decision to suspend that individual’s Scottish Adult Disability Living Allowance.
+
+(2) The Scottish Ministers must—
+
+- (a) complete a review mentioned in paragraph (1) within 31 days beginning with the day when they received notice from the individual requiring them to review their decision,
+- (b) inform the individual of the outcome of the review including reasons for their decision.
+
+(3) The Scottish Ministers must fulfil their duty under paragraph (2)(b) in a way that leaves the individual with a record of the information which the individual can show to, or otherwise share with, others.
+
+### 37. Ending a suspension[^key-50e4475e60b56001e65f19cf289e20ea]
+
+The Scottish Ministers are to make a decision to end a suspension where—
+
+- (a) the individual provides the information requested under section 54(1) of the 2018 Act[^f00079] and the Scottish Ministers consider that they do not require to make a determination without application,
+- (b) regulation 32(3)(a) (continuing eligibility) applies and the Scottish Ministers make a determination without application under regulation 42 (consideration of entitlement after specified period), 43 (determination following change of circumstance etc.), 44 (determination following official error – underpayments), 45 (determination following error – overpayments) or 46 (determination to effect a deduction decision),
+- (c) the Scottish Ministers make a determination under section 54(2) of the 2018 Act[^f00080],
+- (d) the circumstances mentioned in regulation 33(3)(b) (circumstances in which assistance may be suspended) no longer apply, or
+- (e) the Scottish Ministers consider it appropriate in the circumstances, including having regard to the financial circumstances of the individual.
+
+### 38. Effect of suspension ending[^key-d984b557ae2d4c4fa86f3e7ff7c7ac66]
+
+When—
+
+- (a) the suspension of an individual’s Scottish Adult Disability Living Allowance ends, and
+- (b) under the latest determination of the individual’s entitlement to Scottish Adult Disability Living Allowance relating to the period of the suspension the individual would have become entitled to be given Scottish Adult Disability Living Allowance during that period,
+
+the individual is immediately to be given the Scottish Adult Disability Living Allowance that the individual would have become entitled to be given under the determination during the period of suspension.
+
+### 39. Form of payment – giving Scottish Adult Disability Living Allowance by way of deduction[^key-39e71ea499a1264f955a5359f66c9bd3]
+
+(1) Where an individual has a liability to the Scottish Ministers under section 63 of the 2018 Act (liability for assistance given in error), the individual’s payment of Scottish Adult Disability Living Allowance may be given (in whole or in part) by way of deduction, at a reasonable level, from that liability either—
+
+- (a) with the agreement of the individual, or
+- (b) without the individual’s agreement, where the individual has unreasonably refused to agree to the assistance being given in that form.
+
+(2) For the purpose of paragraph (1), “**reasonable level**” means a level that is reasonable having regard to the financial circumstances of the individual.
+
+### 40. When an increase in level of entitlement takes effect[^key-0f401dc3f78db7390b7be475d8e906c3]
+
+(1) Where, as a result of a determination without an application, the amount of Scottish Adult Disability Living Allowance payable in respect of an individual is increased or their entitlement to a component is awarded, the change takes effect—
+
+- (a) in the case of an increase pursuant to a determination made under regulation 43(c) or 43(d) (determination following change of circumstance etc.) on the day after the day on which Disability Living Allowance ceased to be paid in respect of the individual,
+- (b) in the case of an award of entitlement to a component or an increase pursuant to a determination made in accordance with regulation 43(a) that affects their eligibility under regulation 6 (care component criterion: lowest, middle or highest rate care component), 7 (mobility requirements: lower rate mobility component) or 8 (mobility requirements: higher rate mobility component), on the date when—
+  - (i) if as a result of the individual reporting the change—
+    - (aa) if the individual reports the change within one month of the change occurring, the individual first satisfies the requirements for a higher rate of the care component or mobility component,
+    - (bb) if the individual reports the change within more than one month but not more than 13 months of the change occurring, the individual first satisfies the requirements for a higher rate of the care component or the mobility component, but only if the Scottish Ministers consider that the individual had good reason for not notifying the change within one month, or
+    - (cc) in any other case the date the individual reports the change or the date the individual first satisfies the requirements for a higher rate of the care component or mobility component, whichever is later.
+  - (ii) if as a result of the Scottish Ministers becoming aware that a determination of an individual’s entitlement was made in ignorance of a material fact, on the date when the Scottish Ministers make the determination,
+- (c) in the case of an earlier determination which was based on official error within the meaning of regulation 44 (determination following official error – underpayments) or on error within the meaning of regulation 45 (determination following error – overpayments), on the date when the earlier determination took effect,
+- (d) in the case of a determination made in accordance with regulation 43(a), where the period that an individual has been—
+  - (i) resident in a care home for the purpose of regulation 22 (effect of admission to a care home on ongoing entitlement to care component),
+  - (ii) an in-patient in hospital or similar institution for the purpose of regulation 23 (effect of admission to hospital on ongoing entitlement to Scottish Adult Disability Living Allowance),
+  - (iii) in legal detention for the purpose of regulation 25 (effect of legal detention on ongoing entitlement to Scottish Adult Disability Living Allowance), or
+  - (iv) resident in a care home, an in-patient in a hospital or similar institution, or in legal detention for the purposes of regulation 27 (entitlement beginning while in alternative accommodation),
+
+  has come to an end, on the day on which the individual leaves the place, or
+- (e) in any other case, on the date when the Scottish Ministers make the determination.
+
+(2) Where the Scottish Ministers consider that in all the circumstances it would be unjust not to do so, they may, when making their determination, set an earlier date for the purposes of paragraph (1)(b), (c), (d) or (e).
+
+(3) This regulation does not apply to an individual to whom regulation 20 (entitlement under special rules for terminal illness) applies.
+
+(4) Where an individual has previously received Scottish Adult Disability Living Allowance or Disability Living Allowance for a period and a determination without application has subsequently been made that the individual is entitled to Scottish Adult Disability Living Allowance at a higher rate for that period, the individual will be entitled to the difference between the value of entitlement to Scottish Adult Disability Living Allowance under the subsequent determination and the value of Scottish Adult Disability Living Allowance or Disability Living Allowance to which that individual was previously entitled for that period.
+
+(5) Where the transferring individual has received Scottish Adult Disability Living Allowance and Disability Living Allowance for the same period in the circumstances described in paragraph 8(1)(b) of schedule 1 (effect of transfer determination on entitlement to Disability Living Allowance), any Disability Living Allowance payable to the transferring individual for that period is to be disregarded for the purposes of paragraph (4).
+
+(6) Where paragraph (4) applies, for the period between the date when the individual’s entitlement to a higher rate of Scottish Adult Disability Living Allowance begins and the date of the determination under regulations 42 to 46, regulation 5 (entitlement to other benefits) and section 71(7) (disability living allowance) of the Social Security Contributions and Benefits Act 1992[^f00081], are treated as omitted.
+
+### 41. When a decrease in level or cessation of entitlement takes effect[^key-fa423c0546780e161ffc64a687df054e]
+
+(1) Where, as a result of determination without an application, the amount of Scottish Adult Disability Living Allowance payable in respect of an individual is decreased or their entitlement to a component is ceased, the change takes effect—
+
+- (a) in the case of a decrease pursuant to a determination made under regulation 43(c) or 43(d) (determination following change of circumstance etc.), on the day after the day on which Disability Living Allowance ceased to be paid in respect of the individual,
+- (b) in the case of a determination without application under regulation 43(b), on the date of the individual’s death,
+- (c) in the case of a determination without application under regulation 42 (consideration of entitlement after specified period) or 43(a), on the date—
+  - (i) where the individual was required to notify a change under section 56 of the 2018 Act, if the individual—
+    - (aa) knowingly fails to notify a change, or
+    - (bb) fails to notify the change as soon as reasonably practicable after it occurred,
+
+    the individual should have notified the Scottish Ministers of the change, [^key-d94a9ed29c43bb336566a0722b8442ca]...
+  - (ia)[^key-3f0bb4580f03f94716d5e1e63fbb4318] where the Scottish Ministers have—
+    - (aa) made a decision to suspend the individual’s Scottish Adult Disability Living Allowance in terms of regulation 33(1) and (3)(a), and
+    - (bb) subsequently made the determination on the basis that the eligibility rules for Scottish Adult Disability Living Allowance are not satisfied, as provided for by section 54(2) of the 2018 Act,
+
+    the individual’s Scottish Adult Disability Living Allowance was suspended, or
+  - (ii) in any other case, the Scottish Ministers make the determination,
+- (d) in the case of an earlier determination which was based on official error within the meaning of regulation 44 (determination following official error – underpayments) or on error within the meaning of regulation 45 (determination following error – overpayments), on the date when the earlier determination took effect,
+- (e) in any other case, on the date when the Scottish Ministers make the determination.
+
+(2) Where the Scottish Ministers consider that in all the circumstances it would be unjust not to do so, they may, when making their determination, set a later date for the purposes of paragraph (1)(a), (c), (d) or (e).
+
+## PART 9 — Determination of entitlement to Scottish Adult Disability Living Allowance without application
+
+### 42. Consideration of entitlement after specified period[^key-f275d7ea158bcf826850cfe80c23a43a]
+
+The Scottish Ministers must make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, after the end of the period specified (if any) in—
+
+- (a) the individual’s notice of determination under section 40 or notice of re-determination under section 44 (as the case may be), or
+- (b) a determination made by the First-tier Tribunal for Scotland under section 49,
+
+of the 2018 Act.
+
+### 43. Determination following change of circumstance etc.[^key-e08ee1ff47e1f679f2bc8272dac5c48b]
+
+The Scottish Ministers must make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where the individual has an ongoing entitlement to Scottish Adult Disability Living Allowance and they become aware—
+
+- (a) of a change of circumstances, whether or not notified by the individual in accordance with section 56 of the 2018 Act, or where the Scottish Ministers become aware that a determination of an individual’s entitlement was made in ignorance of a material fact, which would possibly result in an alteration to the component or rate of Scottish Adult Disability Living Allowance payable to the individual or which is likely to mean that the individual is no longer entitled to Scottish Adult Disability Living Allowance,
+- (b) that the individual has died,
+- (c)[^key-959e0a90975322e6ffca3256d4183b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-959e0a90975322e6ffca3256d4183b8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 44. Determination following official error – underpayments[^key-6abc15a4ff7e82a4892480a1a75314cb]
+
+(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where—
+
+- (a) they have previously made a determination of the individual’s entitlement to Scottish Adult Disability Living Allowance (“the original determination”),
+- (b) they establish that, due to an official error, the original determination was incorrect resulting in the individual—
+  - (i) not being given an award of Scottish Adult Disability Living Allowance, or
+  - (ii) being given a lower award than that,
+
+  to which the individual was entitled,
+- (c) the Scottish Ministers are not considering a request for a re-determination of the individual’s entitlement to Scottish Adult Disability Living Allowance, and
+- (d) the individual has not appealed to the First-tier Tribunal for Scotland against the Scottish Ministers’ determination of the individual’s entitlement to Scottish Adult Disability Living Allowance.
+
+(2) In making a determination required by paragraph (1) the Scottish Ministers are to use—
+
+- (a) the information which led to the original determination,
+- (b) any other information they have obtained in connection with the individual’s entitlement to Scottish Adult Disability Living Allowance, and
+- (c) any other information available to them that is relevant to their consideration of the individual’s entitlement to Scottish Adult Disability Living Allowance.
+
+(3) In this regulation, “**official error**” means an error made by someone acting on behalf of the Scottish Ministers or on behalf of a Minister of the Crown that was not materially contributed to by anyone else.
+
+### 45. Determination following error – overpayments[^key-3a3840e19364a6ba7aebed216669b15c]
+
+(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where—
+
+- (a) they have previously made a determination of the individual’s entitlement to Scottish Adult Disability Living Allowance (“the original determination”),
+- (b) they establish that, due to an error, the original determination was incorrect resulting in the individual being given—
+  - (i) an award of Scottish Adult Disability Living Allowance to which the individual was not entitled, or
+  - (ii) a higher award than that to which the individual was entitled,
+- (c) the Scottish Ministers are not considering a request for a re-determination of the individual’s entitlement to Scottish Adult Disability Living Allowance, and
+- (d) the individual has not made an appeal to the First-tier Tribunal for Scotland or Upper Tribunal against the Scottish Ministers’ determination of the individual’s entitlement to Scottish Adult Disability Living Allowance, that has not yet been determined.
+
+(2) In making a determination required by paragraph (1) the Scottish Ministers are to use—
+
+- (a) the information which led to the original determination,
+- (b) any other information they have obtained in connection with the individual’s entitlement to Scottish Adult Disability Living Allowance, and
+- (c) any other information available to them that is relevant to their consideration of the individual’s entitlement to Scottish Adult Disability Living Allowance.
+
+(3) In this regulation references to an “error” are to—
+
+- (a) an error in the performance of a function conferred by these Regulations or the 2018 Act, including a determination being made—
+  - (i) wrongly, or
+  - (ii) correctly but on the basis of—
+    - (aa) incorrect information, or
+    - (bb) an assumption which proves to be wrong, or
+- (b) a new determination having not been made after an assumption on the basis of which an earlier determination was made has proven to be wrong.
+
+### 46. Determination to effect a deduction decision[^key-fe0a50e6b788c92d00df9c1a6262927b]
+
+(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where the circumstances in paragraphs (2) and (3) apply.
+
+(2) This paragraph applies where—
+
+- (a) regulation 39 (form of payment – giving Scottish Adult Disability Living Allowance by way of deduction) allows Scottish Adult Disability Living Allowance to be given to the individual by way of deduction, or
+- (b) Scottish Adult Disability Living Allowance is being given to the individual by way of deduction, and the Scottish Ministers consider that may no longer be appropriate.
+
+(3) This paragraph applies where the Scottish Ministers have decided to—
+
+- (a) vary the amount of Scottish Adult Disability Living Allowance to be given by way of deduction (including introducing a deduction, where the full amount of Scottish Adult Disability Living Allowance was previously given as money),
+- (b) vary any period for which the individual’s Scottish Adult Disability Living Allowance is to be given by way of deduction, that may have been specified in a previous determination of the individual’s entitlement, or
+- (c) cease making deductions, and instead give the individual’s Scottish Adult Disability Living Allowance in the form of money.
+
+(4) The Scottish Ministers are to make a determination, without receiving an application, where an individual who is receiving Scottish Adult Disability Living Allowance by way of deduction under a previous determination of entitlement notifies the Scottish Ministers that the individual—
+
+- (a) withdraws their agreement to their Scottish Adult Disability Living Allowance being given by way of deduction,
+- (b) wishes the Scottish Ministers to increase the amount of their Scottish Adult Disability Living Allowance that is given by way of deduction,
+- (c) wishes the Scottish Ministers to decrease the amount of their Scottish Adult Disability Living Allowance that is given by way of deduction (including ceasing the deduction), or
+- (d) wishes the Scottish Ministers to amend the length of any period referred to in paragraph (3)(b).
+
+## PART 10 — Movement of individuals between Scotland and the rest of the UK
+
+### 47. Individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland[^key-9ba18a14e19dc7472e2fcb2f748e1fd3]
+
+(1) This regulation applies where—
+
+- (a) an individual becomes resident in Scotland,
+- (b) that individual was resident in another part of the United Kingdom,
+- (c) that individual was entitled to Disability Living Allowance (“the previous award”) immediately before the date of the move,
+- (d) that individual makes a request for a determination of their entitlement to Scottish Adult Disability Living Allowance, and
+- (e) for the purpose of a request under sub-paragraph (d)—
+  - (i) the full name and date of birth of the individual (“the required data”) is submitted by, or on behalf of, the individual to the Scottish Ministers within 26 weeks of the date of the move, and
+  - (ii) the request is made to Scottish Ministers within 34 weeks of the date of the move.
+
+(2) Where paragraph (1) applies to an individual, the Scottish Ministers must make a determination of that individual’s entitlement to Scottish Adult Disability Living Allowance without receiving an application.
+
+(3) A request under paragraph (1)(d) must be—
+
+- (a) made to the Scottish Ministers in such form, and
+- (b) accompanied by such evidence,
+
+as the Scottish Ministers require.
+
+(4) In making a determination required by paragraph (2), the Scottish Ministers are to use—
+
+- (a) the information provided in the request under paragraph (1)(d), and
+- (b) any other information available to them that is relevant to their consideration of the individual’s entitlement to Scottish Adult Disability Living Allowance.
+
+(5) Where, on the basis of a request under paragraph (1)(d), a determination is made that an individual to whom paragraph (1) applies is entitled to Scottish Adult Disability Living Allowance, entitlement to assistance begins on the day on which the individual’s entitlement to Disability Living Allowance ceased.
+
+(6) Where the Scottish Ministers are satisfied that there is a good reason why the required data or request under paragraph (1)(d) was submitted after the period described in paragraph (1)(e)(i) or (e)(ii), they may treat the required data as having been submitted, or the application as having been made, within that period.
+
+(7) Where the required data or request under paragraph (1)(d) was submitted after the period described in paragraph (1)(e)(i) or (e)(ii), the request is to be treated as a request under paragraph 13(1)(a) of schedule 1 (request for Scottish Adult Disability Living Allowance when an award of Disability Living Allowance has ended).
+
+(8) Where a determination is to be made under paragraph (2) in relation to someone who was under the relevant age on the date of the move, the individual is to be treated as under the relevant age for the purposes of regulation 6.
+
+(9) The restrictions in paragraph (10) apply to a determination under paragraph (2) where the individual has reached the relevant age on the date of the move.
+
+(10) The restrictions referred to in paragraph (9) are, where the previous award—
+
+- (a) contains a mobility component award for the lower rate then, regardless of whether the award would otherwise have been for the higher rate, the Scottish Ministers—
+  - (i) may only make an award for the lower rate of that component, and
+  - (ii) may only make such an award where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the previous award was given,
+- (b) contains a mobility component award for the higher rate, the Scottish Ministers may only award the higher rate of that component where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the previous award was given,
+- (c) does not contain an award of the mobility component, the Scottish Ministers may not award that component at either the lower or higher rate.
+
+(11) In this regulation, “the date of the move” is the date when the individual becomes resident in Scotland, as notified by the individual or otherwise communicated to the Scottish Ministers (whether the notification takes place before or after the date of the move).
+
+### 47A. Individuals in respect of whom Disability Living Allowance was paid before 23 February 2026[^key-5c67236f727e932412a1cf4eda7127e0]
+
+(1) This regulation applies where—
+
+- (a) an individual, immediately before 23 February 2026—
+  - (i) was entitled to Disability Living Allowance (“the previous award”), and
+  - (ii) either—
+    - (aa) fell within the definition of a “relevant individual” in terms of regulation 53 and paragraph 5 of schedule 1 as they applied before 23 February 2026, or
+    - (bb) would have fallen within the definition referred to in sub-head (aa) had the entitlement to Disability Living Allowance under the previous award been established prior to 23 February 2026,
+- (b) that individual has not had their entitlement transferred or otherwise become entitled to Scottish Adult Disability Living Allowance,
+- (c) that individual makes a request for a determination of their entitlement to Scottish Adult Disability Living Allowance,
+- (d) for the purpose of a request under sub-paragraph (c)—
+  - (i) the full name and date of birth of the individual (“the required data”) is submitted by, or on behalf of, the individual to the Scottish Ministers within 26 weeks of the date on which the Scottish Ministers become aware that the individual’s previous entitlement to Disability Living Allowance was not transferred to an entitlement to Scottish Adult Disability Living Allowance, and
+  - (ii) the request is made to Scottish Ministers within 34 weeks of the date on which the Scottish Ministers become aware that the individual’s previous entitlement to Disability Living Allowance was not transferred to an entitlement to Scottish Adult Disability Living Allowance, and
+- (e) that individual is not a person to whom regulation 47(1) applies.
+
+(2) Where paragraph (1) applies to an individual, the Scottish Ministers must make a determination of that individual’s entitlement to Scottish Adult Disability Living Allowance without receiving an application.
+
+(3) A request under paragraph (1)(c) must be—
+
+- (a) made to the Scottish Ministers in such form, and
+- (b) accompanied by such evidence,
+
+as the Scottish Ministers require.
+
+(4) In making a determination required by paragraph (2), the Scottish Ministers are to use—
+
+- (a) the information provided in the request under paragraph (1)(c), and
+- (b) any other information available to them that is relevant to their consideration of the individual’s entitlement to Scottish Adult Disability Living Allowance.
+
+(5) Where, on the basis of a request under paragraph (1)(c), a determination is made that an individual to whom paragraph (1) applies is entitled to Scottish Adult Disability Living Allowance, entitlement to assistance begins on the day on which the individual’s entitlement to Disability Living Allowance ceased.
+
+(6) Where the Scottish Ministers are satisfied that there is a good reason why the required data or request under paragraph (1)(c) was submitted after the period described in paragraph (1)(d)(i) or (d)(ii), they may treat the required data as having been submitted, or the application as having been made, within that period.
+
+(7) Where the required data or request under paragraph (1)(c) was submitted after the period described in paragraph (1)(d)(i) or (d)(ii), the request is to be treated as a request under paragraph 13 of schedule 1 (request for Scottish Adult Disability Living Allowance when an award of Disability Living Allowance has ended).
+
+(8) Where a determination is to be made under paragraph (2) in relation to someone who was under the relevant age on 23 February 2026, the individual is to be treated as under the relevant age for the purposes of regulation 6.
+
+(9) The restrictions in paragraph (10) apply to a determination under paragraph (2) where the individual has reached the relevant age on 23 February 2026.
+
+(10) The restrictions referred to in paragraph (9) are where the previous award—
+
+- (a) contains a mobility component award for the lower rate then, regardless of whether the award would otherwise have been for the higher rate, the Scottish Ministers—
+  - (i) may only make an award for the lower rate of that component, and
+  - (ii) may only make such an award where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the previous award was given,
+- (b) contains a mobility component award for the higher rate, the Scottish Ministers may only award the higher rate of that component where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the previous award was given,
+- (c) does not contain an award of the mobility component, the Scottish Ministers may not award that component at either the lower or higher rate.
+
+(11) In this regulation and regulation 47B, references to transfer to Scottish Adult Disability Living Allowance are to transfer by virtue of regulation 53 and Part 2 of the schedule of these Regulations, as they applied before 23 February 2026.
+
+### 47B. Individuals with entitlement to Scottish Adult Disability Living Allowance in respect of whom Disability Living Allowance was paid before 23 February 2026
+
+(1) This regulation applies where an individual—
+
+- (a) immediately before 23 February 2026—
+  - (i) was entitled to Disability Living Allowance (“the previous award”), and
+  - (ii) either—
+    - (aa) fell within the definition of a “relevant individual” in terms of regulation 53 and paragraph 5 of schedule 1 as they applied before 23 February 2026, or
+    - (bb) would have fallen within the definition referred to in sub-head (aa) had the entitlement to Disability Living Allowance under the previous award been established prior to 23 February 2026,
+- (b) has not had their entitlement transferred to Scottish Adult Disability Living Allowance,
+- (c) has continuing entitlement to Scottish Adult Disability Living Allowance, and
+- (d) is not a person to whom regulation 47(1) applies.
+
+(2) The Scottish Ministers must make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where they become aware that paragraph (1) applies to that individual.
+
+(3) Where a determination is made under paragraph (2) that an individual is entitled to Scottish Adult Disability Living Allowance, entitlement to assistance is to begin on the day on which the individual’s entitlement to Disability Living Allowance ceased.
+
+(4) Where a determination is to be made under paragraph (2) in relation to someone who was under the relevant age on 23 February 2026, the individual is to be treated as under the relevant age for the purposes of regulation 6.
+
+(5) The restrictions in paragraph (6) apply to a determination under paragraph (2) where the individual has reached the relevant age on 23 February 2026.
+
+(6) The restrictions referred to in paragraph (5) are where the previous award referred to in paragraph (1)(a)(i)—
+
+- (a) contains a mobility component award for the lower rate then, regardless of whether the award would otherwise have been for the higher rate, the Scottish Ministers—
+  - (i) may only make an award for the lower rate of that component, and
+  - (ii) may only make such an award where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the previous award was given,
+- (b) contains a mobility component award for the higher rate, the Scottish Ministers may only award the higher rate of that component where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the previous award was given,
+- (c) does not contain an award of the mobility component, the Scottish Ministers may not award that component at either the lower or higher rate.
+
+### 48. Individuals in respect of whom Scottish Adult Disability Living Allowance is paid at the time of moving to another part of the United Kingdom[^key-e1b5ce02e2276756934cda0d401cf66d]
+
+(1) Where the Scottish Ministers become aware that an individual who is entitled to Scottish Adult Disability Living Allowance has moved or is to move to become resident in another part of the United Kingdom, the individual is to be treated as though the individual meets the condition under regulation 10(1)(a) (residence and presence conditions) of being ordinarily resident in Scotland for a period of 13 weeks beginning in accordance with paragraph (4).
+
+(2) Subject to Part 7 (effect of time spent in care homes, hospital and legal detention), where the Scottish Ministers become aware that an individual has moved or is to move to another part of the United Kingdom as mentioned in paragraph (1), they are to make a determination without application at the end of the 13 week period mentioned in paragraph (1) that the individual’s entitlement to Scottish Adult Disability Living Allowance is to terminate.
+
+(3) Where, before the end of the 13-week period, the Scottish Ministers become aware that the individual is no longer to move to become resident in another part of the United Kingdom, the duty in paragraph (2) does not apply.
+
+(4) The 13-week period mentioned in paragraph (1) begins on the date the individual ceases to be ordinarily resident in Scotland.
+
+(5) On the day after the 13-week period specified in paragraph (4) ends—
+
+- (a) entitlement to Scottish Adult Disability Living Allowance ceases, and
+- (b) regulation 45 (determination following error – overpayments) applies to any Scottish Adult Disability Living Allowance paid to an individual in relation to a period after the end of that 13-week period.
+
+## PART 11 — Periods in respect of a re-determination request
+
+### 49. Periods in respect of a re-determination request[^key-9d594b9575a1bb3ff50aec2384cf80d9]
+
+(1) The period for requesting a re-determination of entitlement to Scottish Adult Disability Living Allowance under section 41 of the 2018 Act (right to request re-determination) is 42 days beginning with the day that the individual is informed, in accordance with section 40 of the 2018 Act (notice of determination), of the right to make the request.
+
+(2) In relation to determining entitlement to Scottish Adult Disability Living Allowance, the period allowed for re-determination (within the meaning of section 43 of the 2018 Act (duty to re-determine)) is 56 days beginning with—
+
+- (a) the day that the request for a re-determination is received by the Scottish Ministers,
+- (b) in a case where the request for a re-determination is received by the Scottish Ministers outwith the period prescribed in paragraph (1), the day on which it is decided by the Scottish Ministers or (as the case may be) the First-tier Tribunal for Scotland that the individual in question has a good reason for not requesting a re-determination sooner, or
+- (c) in a case where the Scottish Ministers have informed the individual of their decision that the request for re-determination was not made in such form as the Scottish Ministers require, the day on which it is subsequently decided by the First-Tier Tribunal for Scotland that the individual in question has made the request in such form as the Scottish Ministers require.
+
+## PART 12 — Provision of vehicles
+
+### 50. Payment of mobility component to authorised providers of vehicles for individuals with disabilities[^key-49cb434ad180482596dfbd4fb2d2f652]
+
+(1) Where—
+
+- (a) an individual is entitled to the higher rate of the mobility component of Scottish Adult Disability Living Allowance, and
+- (b) the individual has entered into an agreement with an authorised provider of vehicles for persons with disabilities for the hire or hire-purchase of a vehicle,
+
+the Scottish Ministers may, with the consent of the individual, pay that component (in whole or in part) to the provider to be used to meet, or contribute towards meeting, the individual’s liability under the agreement.
+
+(2) The Scottish Ministers must cease to make payments in accordance with paragraph (1) in the event that—
+
+- (a) the agreement is brought to an end in accordance with the terms of the agreement, or
+- (b) the individual withdraws their consent.
+
+### 51. Vehicles for persons with disabilities – powers of appointees[^key-3b73afb1758f38201319ab4d6bd38de6]
+
+(1) Where a person (“an appointee”) is appointed by the Scottish Ministers under the 2018 Act to act on an individual’s behalf in connection with the determination of the individual’s entitlement to assistance under section 24 (duty to give assistance) of the 2018 Act, in addition to the powers conferred on the appointee by that Act the appointee can, on behalf of the individual—
+
+- (a) enter into an agreement with an authorised provider of vehicles for the hire or hire-purchase of a vehicle,
+- (b) terminate any such agreement,
+- (c) for the purpose of regulation 50(1) (payment to authorised providers of vehicles), give consent to the Scottish Ministers to pay (in whole or in part) the mobility component to which the individual is entitled to the provider, and
+- (d) withdraw any such consent.
+
+(2) An appointee may exercise the powers conferred by paragraphs (1)(b) and (d) whether the agreement was entered into, or the consent given, by the appointee or by any other person.
+
+## PART 13 — Short-term assistance
+
+### 52. Entitlement to short-term assistance[^key-46ac2c7f4c03ff9aa5ffcae2249d6e7a]
+
+Part 1 of schedule 1 makes provision about short-term assistance.
+
+## PART 14 — Transfer from Disability Living Allowance to Scottish Adult Disability Living Allowance
+
+### 53. Transfer from Disability Living Allowance to Scottish Adult Disability Living Allowance[^key-3b296d956d1940edf79b04bc29abeaa2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 15 — Reinstatement of entitlement within a year
+
+### 54. Reinstatement of entitlement within a year[^key-9ddbe4b2f68429f8d0296b46428c279b]
+
+Part 3 of schedule 1 makes provision about reinstatement of entitlement to Scottish Adult Disability Living Allowance within a year.
+
+## PART 16 — Consequential Amendment
+
+### 55. Consequential amendment[^key-a7e8909171be2958b546e5212689b26e]
+
+The amendment specified in Part 1 of schedule 2 has effect.
+
+## PART 17 — Miscellaneous amendments
+
+### 56. Miscellaneous amendments[^key-d98148bc6fe5aa7215ecc7391667b2ab]
+
+The amendments specified in Part 2 of schedule 2 have effect.
+
+SHIRLEY-ANNE SOMERVILLE
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+9th January 2025
+
+## SCHEDULE 1
+
+### PART 1 — Short-term assistance
+
+Regulation 52
+
+#### 1. Entitlement to short-term assistance[^key-26e5b84ddb3bc07208a15a78cfcd9fef]
+
+(1) Subject to sub-paragraphs (5) and (6), an individual who is, or was, entitled to Scottish Adult Disability Living Allowance under a determination made on the basis that the individual has ongoing entitlement is entitled to short-term assistance where—
+
+- (a) that determination of the individual’s entitlement to Scottish Adult Disability Living Allowance (“**the earlier determination**”) has been superseded by—
+  - (i) a determination under section 37 (duty to make determination) of the 2018 Act, or
+  - (ii) if the earlier determination is a—
+    - (aa)[^key-f8a261e7da7626589421aef9671496b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb) determination without application of an individual’s entitlement to Scottish Adult Disability Living Allowance under paragraph 12 of schedule 1 (reinstatement of entitlement to Scottish Adult Disability Living Allowance within a year),
+    - (cc) determination without application of an individual’s entitlement to Scottish Adult Disability Living Allowance under paragraph 13 of schedule 1 (request for Scottish Adult Disability Living Allowance when an award of Disability Living Allowance has ended),
+    - (dd) determination without application of an individual’s entitlement to Scottish Adult Disability Living Allowance under regulation 47 (individuals to whom Disability Living Allowance is paid before moving to Scotland),
+    - (ee)[^key-0572077daea5372ee4867066fc63cbe4] determination without application of an individual’s entitlement to Scottish Adult Disability Living Allowance under regulation 47A (individuals in respect of whom Disability Living Allowance is paid before 23 February 2026),
+
+    a determination under section 43 (duty to re-determine) or section 49 (First-tier Tribunal’s power to determine entitlement) of the 2018 Act,
+- (b) as a result of—
+  - (i) the earlier determination being superseded as mentioned in sub-paragraph (1)(a), or
+  - (ii) a later determination under section 43 or section 49 of the 2018 Act in relation to the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in sub-paragraph (1)(a)(i) or the earlier determination mentioned in sub-paragraph (1)(a)(ii) relates,
+
+  the individual—
+
+  - (iii) is no longer entitled to Scottish Adult Disability Living Allowance, or
+  - (iv) is entitled to less Scottish Adult Disability Living Allowance than they were under the earlier determination,
+- (c) the individual’s entitlement to Scottish Adult Disability Living Allowance is under review within the meaning of—
+  - (i) paragraph 1(2) of schedule 10 of the 2018 Act, or
+  - (ii) sub-paragraph (2), and
+- (d) the individual—
+  - (i) continues to meet the conditions as to residence and presence set out in Part 4 or
+  - (ii) has transferred to become resident in another part of the United Kingdom, and the matter under review is the determination of entitlement for the 13-week period beginning in accordance with regulation 48 (individuals in respect of whom Scottish Adult Disability Living Allowance is paid at the time of moving to another part of the United Kingdom).
+
+(2) An individual’s entitlement to Scottish Adult Disability Living Allowance is under review in terms of sub-paragraph (1)(c)(ii) if—
+
+- (a) a decision of the First-tier Tribunal for Scotland under section 49 of the 2018 Act, in relation to the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in sub-paragraph (1)(a)(i) or the earlier determination mentioned in sub-paragraph (1)(a)(ii) relates, is set aside after a review under section 43(2) of the Tribunals (Scotland) Act 2014[^f00085] (“**the 2014 Act**”), and
+- (b) the First-tier Tribunal for Scotland decide not to uphold a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance in an appeal under section 46 of the 2018 Act and the First-tier Tribunal for Scotland are to make a determination of the individual’s entitlement to Scottish Adult Disability Living Allowance under section 49 of the 2018 Act.
+
+(3) Where—
+
+- (a) an individual’s entitlement to Scottish Adult Disability Living Allowance is set aside after a review in terms of sub-paragraph (2)(a), and
+- (b) the individual had previously been awarded short-term assistance on the basis that their entitlement to Scottish Adult Disability Living Allowance was under review by the First-tier Tribunal prior to it making the decision that has been set aside,
+
+the Scottish Ministers are to make a determination without application of the individual’s entitlement to short-term assistance.
+
+(4) Where—
+
+- (a) the First-tier Tribunal for Scotland set aside a decision by the Scottish Ministers not to accept a request for a re-determination of the individual’s entitlement to Scottish Adult Disability Living Allowance under the determination mentioned in sub-paragraph (1)(a)(i), and
+- (b) the Scottish Ministers had previously determined, pursuant to an application made by the individual, that the individual was not entitled to short-term assistance on the basis that the determination referred to in sub-paragraph (1)(a)(i) was not under review,
+
+the Scottish Ministers are to make a determination without application of the individual’s entitlement to short-term assistance.
+
+(5) An individual is not entitled to short-term assistance where the individual is no longer entitled to Scottish Adult Disability Living Allowance as a result of a subsequent determination made under regulation 43(b) (determination following change of circumstances etc.).
+
+(6) An individual to whom regulation 22(2) (effect of admission to a care home on ongoing entitlement to Scottish Adult Disability Living Allowance), regulation 23(2) (effect of admission to hospital on ongoing entitlement to Scottish Adult Disability Living Allowance), regulation 25(3) (effect of legal detention on ongoing entitlement to Scottish Adult Disability Living Allowance), or regulation 27(4) or (6) (entitlement beginning while in alternative accommodation) applies is not entitled to short-term assistance in respect of Scottish Adult Disability Living Allowance for which the value is to be £0 under those regulations.
+
+(7) Where the Scottish Ministers have made a determination under section 37 of the 2018 Act (duty to make determination) that an individual is entitled to short-term assistance, entitlement to short-term assistance begins—
+
+- (a) where a request is made under section 41 of the 2018 Act (right to request re-determination) for a re-determination of the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in sub-paragraph (1)(a)(i) relates, on the day that request is made,
+- (b) where a notice of appeal is submitted under section 47 of the 2018 Act (initiating an appeal) against a determination of the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in sub-paragraph (1)(a)(i) or the earlier determination mentioned in sub-paragraph (1)(a)(ii) relates, on the day that request is made,
+- (c) where a decision of the Scottish Ministers is made not to accept a request for a re-determination of the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in sub-paragraph (1)(a)(i) relates, on the day that decision is set aside by the First-tier Tribunal for Scotland,
+- (d) where a request is made under section 48(1)(b) of the 2018 Act (deadline for appealing) for permission to appeal a determination of the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in sub-paragraph (1)(a)(i) or the earlier determination mentioned in sub-paragraph (1)(a)(ii) relates, on the day that request is made, or
+- (e) where a decision of the First-tier Tribunal for Scotland under section 49 of the 2018 Act, in relation to a determination of the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in sub-paragraph (1)(a)(i) or the earlier determination mentioned in sub-paragraph (1)(a)(ii) relates, is set aside after a review under section 43(2) of the 2014 Act (review of decisions) and the First-tier Tribunal for Scotland are to make a decision about the individual’s entitlement to Scottish Adult Disability Living Allowance under section 49 of the 2018 Act, on the day that the decision is set aside.
+
+(8) Regulation 49 (periods in respect of a re-determination request) applies to short-term assistance in the same way as it applies to Scottish Adult Disability Living Allowance.
+
+(9) In this Part of the schedule “**the earlier determination**” has the meaning given in sub-paragraph (1)(a).
+
+#### 2. Value and form[^key-2c02395a41f8ceb0dc8089265a630711]
+
+(1) The value of short-term assistance payable for any period is equal to V1-V2 where—
+
+- (a) V1 is the value of the Scottish Adult Disability Living Allowance the individual would have been given in respect of the period under the earlier determination had the earlier determination not been superseded, and
+- (b) V2 is the value of the Scottish Adult Disability Living Allowance that the individual is to be given in respect of the period under what is, at the time the individual becomes eligible for short-term assistance in respect of the period, the most recent determination of the individual’s entitlement to Scottish Adult Disability Living Allowance.
+
+(2) The form in which the short-term assistance is to be given is to be the same as the form in which Scottish Adult Disability Living Allowance was given under the earlier determination.
+
+(3) Where the mobility component was being paid by the Scottish Ministers to an authorised provider of vehicles for persons with disabilities in accordance with regulation 50(1) (payment of mobility component to authorised provided of vehicles for individuals with disabilities) on the day before an individual’s entitlement to the mobility component ended as a result of a subsequent determination mentioned in paragraph 1(1)(a)—
+
+- (a) the amount of short-term assistance that is payable in respect of the mobility component may be paid by the Scottish Ministers to the authorised provider, and
+- (b) paragraphs (1) and (2) of regulation 50 apply to the payment of short-term assistance as they had applied to the payment of mobility component prior to the individual’s entitlement ending.
+
+(4) Regulations 39 (form of payment - giving Scottish Adult Disability Living Allowance by way of deduction), 44 (determination following official error – underpayments), 45 (determination following error – overpayments) and 46 (determination to effect a deduction decision) apply to short-term assistance in the same way as they apply to Scottish Adult Disability Living Allowance.
+
+#### 3. End of entitlement[^key-b8d885ccbab6c5aca39e405af1ea1286]
+
+(1) When an individual’s entitlement to short-term assistance is to end under paragraph (2), the Scottish Ministers are to make a determination without application.
+
+(2) Entitlement to short-term assistance ends on the day—
+
+- (a) a determination of an individual’s entitlement to short-term assistance is cancelled under section 26(2) of the 2018 Act (individual’s right to stop receiving assistance),
+- (b) a re-determination of an individual’s entitlement to Scottish Adult Disability Living Allowance is made by the Scottish Ministers under section 43 of the 2018 Act (duty to re-determine),
+- (c) the First-tier Tribunal for Scotland makes a determination under section 49 of the 2018 Act (First-tier Tribunal’s power to determine entitlement) in relation to the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in paragraph 1(1)(a)(i) or the earlier determination mentioned in paragraph 1(1)(a)(ii) relates,
+- (d) that the First-tier Tribunal for Scotland makes a determination to refuse permission under section 48(1)(b) of the 2018 Act (deadline for appealing) to bring an appeal against the determination of the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in paragraph 1(1)(a)(i) or the earlier determination mentioned in paragraph 1(1)(a)(ii) relates, or
+- (e) where the individual withdraws their application to bring an appeal against the determination of the individual’s entitlement to Scottish Adult Disability Living Allowance for the period to which the determination mentioned in paragraph 1(1)(a)(i) or the earlier determination mentioned in paragraph 1(1)(a)(ii) relates, on that day.
+
+#### 4. Reduction of Scottish Adult Disability Living Allowance where short-term assistance has been paid[^key-99b6b9f655c5bfb5c4c67954eddfc72d]
+
+Where an individual has received short-term assistance for a period and a determination is subsequently made that the individual is entitled to Scottish Adult Disability Living Allowance for the same period, any payment of Scottish Adult Disability Living Allowance to be made as a result of the subsequent determination for that period—
+
+- (a) where the individual is to be paid Scottish Adult Disability Living Allowance at the same rate as or a lower rate than any short-term assistance and any Scottish Adult Disability Living Allowance already paid to that individual for that period, is to be reduced to £0, and
+- (b) in any other case, is to be reduced by any short-term assistance and any Scottish Adult Disability Living Allowance already paid to that individual for that period.
+
+### PART 2 — Transfer from Disability Living Allowance to Scottish Adult Disability Living Allowance[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+
+**No longer in force.**
+
+#### 5. Relevant individuals[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Notice of intention to transfer to Scottish Adult Disability Living Allowance[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Determination without application of entitlement to Scottish Adult Disability Living Allowance[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Effect of transfer determination on entitlement to Disability Living Allowance[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Exceptions to paragraph 7(5)[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Review determinations[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. Appointees[^key-83bec4b13a65e84ac0c95ed174cd92e0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Reinstatement of entitlement within a year
+
+Regulation 54
+
+#### 12. Reinstatement of entitlement to Scottish Adult Disability Living Allowance within a year[^key-cbcff7a85cfb5c08e9ff35c80e5733a9]
+
+(1) The Scottish Ministers must make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where—
+
+- (a) an individual makes a request for a determination of their entitlement to Scottish Adult Disability Living Allowance, and
+- (b) the individual had a previous award of Scottish Adult Disability Living Allowance which ended not more than one year before the date on which the request was made.
+
+(2) A request under sub-paragraph (1)(a) must be—
+
+- (a) made to the Scottish Ministers in such form, and
+- (b) accompanied by such evidence,
+
+as the Scottish Ministers require.
+
+(3) In making a determination required by sub-paragraph (1) the Scottish Ministers are to use—
+
+- (a) the information provided in the request for entitlement to be reinstated,
+- (b) any information they have obtained in connection with the individual’s entitlement to Scottish Adult Disability Living Allowance, and
+- (c) any other information available to them that is relevant to their consideration of the individual’s entitlement to Scottish Adult Disability Living Allowance.
+
+(4) The Scottish Ministers may only make an award of a component of Scottish Adult Disability Living Allowance under this paragraph if the entitlement results from substantially the same condition or conditions in respect of which the relevant component of Scottish Adult Disability Living Allowance was previously given.
+
+(5) The duty on the Scottish Ministers to make a determination without application mentioned in sub-paragraph (1) does not apply where—
+
+- (a) the Scottish Ministers are considering a request for a re-determination of the individual’s entitlement to Scottish Adult Disability Living Allowance,
+- (b) the individual has made an appeal to the First-tier Tribunal for Scotland or Upper Tribunal against the Scottish Ministers’ determination of the individual’s entitlement to Scottish Adult Disability Living Allowance ending the individual’s entitlement and the appeal has not yet been determined,
+- (c) during the period between the end of the award mentioned in sub-paragraph (1)(a) and the date of determination required by sub-paragraph (2)—
+  - (i) the Scottish Ministers have determined the individual’s entitlement to Adult Disability Payment under the Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00092], or
+  - (ii) the Scottish Ministers have determined the individual’s entitlement to Pension Age Disability Payment under the Disability Assistance for Older People (Scotland) Regulations 2024[^f00093].
+
+(6) In relation to a determination under sub-paragraph (1), the period referred to within, as the case may be—
+
+- (a) regulation 6(2)(a) (care component criterion: lowest, middle or highest rate care component),
+- (b) regulation 6(3),
+- (c) regulation 7(4)(a) (mobility requirements: lower rate mobility component), or
+- (d) regulation 8(11)(a) (mobility requirements: higher rate mobility component),
+
+is to be taken to be the period, of the relevant number of weeks referred to in that particular regulation, immediately preceding the day on which the individual’s previous award of Scottish Adult Disability Living Allowance ended.
+
+(7) Where a determination is to be made under this paragraph in relation to someone who was under the relevant age when their award referred to in sub-paragraph (1)(b) ended, the individual is to be treated as under the relevant age for the purposes of regulation 6.
+
+(8) The restrictions in sub-paragraph (9) apply in relation to the determination referred to in sub-paragraph (1) where the individual has reached the relevant age before the start of the period referred to in sub-paragraph (1)(b).
+
+(9) The restrictions referred to in sub-paragraph (8) are—
+
+- (a) where the previous award referred to in sub-paragraph (1)(b) contains a mobility component award for the lower rate then, regardless of whether the award would otherwise have been for the higher rate, the Scottish Ministers may only make an award for the lower rate of that component,
+- (b) where the previous award referred to in sub-paragraph (1)(b) does not include an award of the mobility component, the Scottish Ministers may not award that component at either the higher or lower rate.
+
+(10) Where an award is made under this paragraph, entitlement will begin on the date the individual made the request under sub-paragraph (1)(a).
+
+#### 13. Request for Scottish Adult Disability Living Allowance when an award of Disability Living Allowance has ended[^key-acbf3315ed0f12c3604c47992de79303]
+
+(1) The Scottish Ministers must make a determination of an individual’s entitlement to Scottish Adult Disability Living Allowance, without receiving an application, where—
+
+- (a) an individual makes a request for a determination of their entitlement to Scottish Adult Disability Living Allowance,
+- (b) the individual has a previous award of Disability Living Allowance—
+  - (i) which ended not more than one year before the date on which the request was made, and
+  - (ii) that is not the subject of a challenge raised under—
+    - (aa) regulation 3 (revision of decisions) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 (“**the 1999 Regulations**”)[^f00094],
+    - (bb) regulation 6 (supersession of decisions) of the 1999 Regulations,
+    - (cc) section 12 (appeal to First-tier Tribunal) of the Social Security Act 1998 (“**the 1998 Act**”)[^f00095],
+    - (dd) section 13 (redetermination etc. of appeals by tribunal) of the 1998 Act,
+    - (ee) section 14 (appeal from First-tier Tribunal to Upper Tribunal) of the 1998 Act,
+    - (ff) article 10 (revision of decisions) of the Social Security (Northern Ireland) Order 1998[^f00096] (“**the 1998 Order**”),
+    - (gg) article 11 (decisions superseding earlier decisions) of the 1998 Order,
+    - (hh) article 13 (appeal to appeal tribunal) of the 1998 Order, or
+    - (ii) article 15 (appeal from tribunal to commissioner) of the 1998 Order.
+
+(2) A request under sub-paragraph (1)(a) must be—
+
+- (a) made to the Scottish Ministers in such form, and
+- (b) accompanied by such evidence,
+
+as the Scottish Ministers require.
+
+(3) In making a determination required by sub-paragraph (1) the Scottish Ministers are to use—
+
+- (a) the information provided in the request for entitlement, and[^key-207afccf8c9479765d931df6d6ad42f1]
+- (b)[^key-f69a8fb95abd07e911794b73e2676f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) any other information available to them that is relevant to their consideration of the individual’s entitlement to Scottish Adult Disability Living Allowance.
+
+(4) The Scottish Ministers may only make an award of a component of Scottish Adult Disability Living Allowance under this regulation if the entitlement results from substantially the same condition or conditions in respect of which the relevant component of Disability Living Allowance was previously given.
+
+(5) The duty on the Scottish Ministers to make a determination without application mentioned in sub-paragraph (1) does not apply where—
+
+- (a) the Scottish Ministers are considering a request for a re-determination of the individual’s entitlement to Scottish Adult Disability Living Allowance,
+- (b) the individual has made an appeal to the First-tier Tribunal for Scotland or Upper Tribunal against the Scottish Ministers’ determination of the individual’s entitlement to Scottish Adult Disability Living Allowance ending the individual’s entitlement and the appeal has not yet been determined,
+- (c) the individual’s entitlement to Disability Living Allowance has ended in accordance with the Personal Independence Payment (Transitional Provisions) Regulations 2013[^f00097] or regulation 7(1) (effect of determination on entitlement to Disability Living Allowance) of the Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendments) (Scotland) Regulations 2022[^f00098],
+- (d) during the period between the end of the award mentioned in sub-paragraph (1)(b) and the date of determination required by sub-paragraph (1)—
+  - (i) the Scottish Ministers have determined the individual’s entitlement to Adult Disability Payment under the Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00099],
+  - (ii) the Scottish Ministers have determined the individual’s entitlement to Pension Age Disability Payment under the Disability Assistance for Older People (Scotland) Regulations 2024[^f00100], or
+  - (iii) the Scottish Ministers have determined the individual’s entitlement to Scottish Adult Disability Living Allowance under Part 2 of schedule 1 of these Regulations.
+
+(6) In relation to a determination under sub-paragraph (1), the period referred to within—
+
+- (a) regulation 6(2)(a) (care component criterion: lowest, middle or highest rate care component),
+- (b) regulation 6(3),
+- (c) regulation 7(4)(a) (mobility requirements: lower rate mobility component),
+- (d) regulation (8)(11)(a) (mobility requirements: higher rate mobility component),
+
+is to be taken to be the period, of the relevant number of weeks referred to in that particular regulation, immediately preceding the day on which the individual’s previous award of Disability Living Allowance ended.
+
+(7) Where a determination is to be made under this paragraph in relation to someone who was under the relevant age when their award referred to in sub-paragraph (1)(b) ended, the individual is to be treated as under the relevant age for the purposes of regulation 6.
+
+(8) The restrictions in sub-paragraph (9) apply in relation to the determination referred to in sub-paragraph (1) where the individual has reached the relevant age before the start of the period referred to in sub-paragraph (1)(b)(i).
+
+(9) The restrictions referred to in sub-paragraph 8 are—
+
+- (a) where the previous award referred to in sub-paragraph (1)(b) contains a mobility component award for the lower rate then, regardless of whether the award would otherwise have been for the higher rate, the Scottish Ministers may only make an award for the lower rate of that component,
+- (b) where the previous award referred to in sub-paragraph (1)(b) does not include an award of the mobility component, the Scottish Ministers may not award that component at either the higher or lower rate.
+
+(10) Where an award is made under this paragraph, entitlement will begin on the date the individual made the request under sub-paragraph (1)(a).
+
+(11)[^key-95c77fb5f15e3223dc94f614be016578] This paragraph does not apply where regulation 47 (individuals in respect of whom Disability Living Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) or 47A (individuals in respect of whom Disability Living Allowance is paid before 23 February 2026) applies.
+
+## SCHEDULE 2
+
+### PART 1 — Consequential amendment
+
+Regulation 55
+
+**1.**[^key-e2491d70d814ee75ba11eb366ad534c1] (1) The Social Security Contributions and Benefits Act 1992[^f00101] is amended in accordance with paragraph (2).
+
+(2) In section 70(2) (carer’s allowance), after “pension age disability payment” insert “or scottish adult disability living allowance by virtue of entitlement to the care component at the highest or middle rate”.
+
+### PART 2 — Miscellaneous amendments
+
+Regulation 56
+
+**2.**[^key-3bd8dd318fa7faa2fc4246842b269d4a] (1) The Disability Assistance for Working Age People (Scotland) Regulations 2022[^f00102] are amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “Attendance Allowance”, for the words “under section 64 of the Social Security Contributions and Benefits Act 1992” substitute—
+
+> - under—
+>   - (a) section 64 of the Social Security Contributions and Benefits Act 1992[^f00103], or
+>   - (b) section 64 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00104]
+
+,
+
+(3) In regulation 24 (persons who have reached the relevant age: other exceptions)—
+
+- (a) At the end of paragraph (c) omit “or”, and
+- (b) after paragraph (d) insert—
+
+  > , or
+  >
+  > - (e) are an individual to whom Part 3A of schedule 2 applies
+
+  .
+
+(4) In regulation 34 (amount of and form of Adult Disability Payment), in paragraph (4)(b)—
+
+- (a) after “attendance under”, insert “article 14 of the Personal Injuries (Civilians) Scheme 1983[^f00105],”, and
+- (b) after “the Social Security Contributions and Benefits Act 1992,” insert “section 104 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 or article 8 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006,”.
+
+(5) After regulation 34, insert—
+
+> **34A. Adjustment of payment where medical expenses are paid from public funds under war pensions instrument**
+>
+> (1) Except where paragraph (2) applies, where
+>
+> - (a) an individual is provided with relevant accommodation, and
+> - (b) there are payable in respect of that individual both—
+>   - (i) a payment under article 21 (medical expenses) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006[^f00106], and
+>   - (ii) the daily living component of Adult Disability Payment,
+>
+> the amount of the daily living component of Adult Disability Payment is reduced by the amount of the payment mentioned in sub-paragraph (b)(i).
+>
+> (2) Paragraph (1) does not apply to an individual in respect of the first 28 days of any period during which the amount of the daily living component of Adult Disability Payment would otherwise be adjusted by virtue of paragraph (1).
+>
+> (3) The 28 days referred to in paragraph (2)—
+>
+> - (a) may comprise two or more separate periods, provided that there is no more than 28 days between each period, and
+> - (b) is reduced by the number of relevant days.
+>
+> (4) In this regulation—
+>
+> - “**relevant accommodation**” means accommodation provided as a necessary ancillary to nursing care where the medical expenses involved are wholly borne by the Secretary of State pursuant to article 21 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006,
+> - “**relevant day**” means a day that falls not earlier than 28 days before the first day on which the individual was provided with relevant accommodation, and either—
+>   - (a) is a day when the individual was undergoing medical treatment in a hospital or similar institution in the circumstances mentioned in regulation 28(1)(b) (effect of admission to hospital on ongoing entitlement to Adult Disability Payment), or
+>   - (b) is a day when the individual was prevented from receiving the daily living component of Adult Disability Payment by virtue of regulation 27(2) (effect of admission to a care home on ongoing entitlement to daily living component).
+
+.
+
+(6) In regulation 35 (when an application is to be treated as made and beginning of entitlement to assistance), in paragraph (3), for “applies” substitute “or paragraph 15A(1) of schedule 2 apply”.
+
+(7) In regulation 45 (when an increase in level of entitlement takes effect) in paragraph (1)(a)—
+
+- (a) for “48(d) or 48(e)” substitute “48(d), 48(e) or 48(f)”,
+- (b) for “or Disability Living Allowance” substitute “, Disability Living Allowance or Scottish Adult Disability Living Allowance”.
+
+(8) In regulation 48 (determination following change of circumstances etc.) after paragraph (e) insert—
+
+> ,
+>
+> - (f) of an alteration of the component or rate of award of Scottish Adult Disability Living Allowance which the individual was entitled to immediately before the date on which the individual’s entitlement to Adult Disability Payment begins in accordance with Part 3A of schedule 2, as a result of—
+>   - (i) a re-determination under section 43 (duty to re-determine) of the 2018 Act,
+>   - (ii) a determination under section 49 (First-tier Tribunal’s power to determine entitlement) of the 2018 Act, or
+>   - (iii) a decision pursuant to an appeal to the Upper Tribunal under section 47 of the Tribunals (Scotland) Act 2014[^f00107].
+
+.
+
+(9) After regulation 60 (transfer from Personal Independence Payment to Adult Disability Payment), insert—
+
+> **PART 16A — Applications for Adult Disability Payment by individuals entitled to Scottish Adult Disability Living Allowance**
+>
+> **60A. Applications by individuals entitled to Scottish Adult Disability Living Allowance**
+>
+> Part 3A of schedule 2 makes provision about applications for Adult Disability Payment by individuals who are entitled to Scottish Adult Disability Living Allowance.
+
+.
+
+(10) After part 3 of schedule 2, insert—
+
+> **PART 3A — Applications for Adult Disability Payment by individuals entitled to Scottish Adult Disability Living Allowance**
+>
+> **15A. Determination of entitlement to Adult Disability Payment – interim determination**
+>
+> (1) This regulation applies when an application for Adult Disability Payment is received in respect of an individual who—
+>
+> - (a) was under 65 years old on 8 April 2013, and
+> - (b) on the day on which the application is received, is entitled to Scottish Adult Disability Living Allowance.
+>
+> (2) Entitlement to Adult Disability Payment under the determination of an application referred to under sub-paragraph (1) (the “interim determination”) begins on the date specified in the notice of determination given to the individual in accordance with section 40 (notice of determination) of the 2018 Act.
+>
+> (3) Subject to sub-paragraph (5) and (6), the interim determination is to be made on the basis of—
+>
+> - (a) such information as the Scottish Ministers have in respect of the individual’s entitlement to Scottish Adult Disability Living Allowance, and
+> - (b) any other information available to the Scottish Ministers that appears to them to be relevant.
+>
+> (4) Subject to paragraph 15E (special rules for terminal illness – exceptions to 15A(4)), an interim determination must be made in accordance with paragraph 15B (entitlement to Adult Disability Payment under an interim determination).
+>
+> (5) The interim determination does not need to be made on the basis of the information mentioned in sub-paragraph (3)(b) where—
+>
+> - (a) the individual—
+>   - (i) before making the application for Adult Disability Payment reported a change of circumstances to the Scottish Ministers which has not been taken into account for the individual’s entitlement to Scottish Adult Disability Living Allowance, or
+>   - (ii) has, since making the application for Adult Disability Payment, notified a change of circumstances to the Scottish Ministers, and
+> - (b) following the interim determination, the change of circumstances is to be taken into account in a review determination under regulation 15F (review determination of entitlement to Adult Disability Payment).
+>
+> (6) The interim determination does not need to be made on the basis of any information which the Scottish Ministers receive within the application for Adult Disability Payment referred to under sub-paragraph (1).
+>
+> (7) An interim determination—
+>
+> - (a) is to be made on the assumption that the individual meets the conditions relating to residence and presence set out in regulations 15 to 21, and
+> - (b) may be made on the assumption that whatever can be discerned about the individual’s circumstances from the information mentioned in sub-paragraph (3) remains accurate on the date on which the determination is made.
+>
+> (8) In this Part “**interim determination**” has the meaning given in sub-paragraph (2).
+>
+> **15B. Entitlement to Adult Disability Payment under an interim determination**
+>
+> (1) For the purposes of an interim determination made in accordance with paragraph 15A, an individual may be awarded the daily living component of Adult Disability Payment at the transitional rate specified in paragraph 15C(1) instead of being awarded that component at the standard or the enhanced rate in accordance with regulation 5(2) or (3).
+>
+> (2) An interim determination is to be made on the basis that an individual who had been entitled to the—
+>
+> - (a) lowest rate of the care component of Scottish Adult Disability Living Allowance immediately prior to the interim determination is entitled to the transitional rate of the daily living component of Adult Disability Payment,
+> - (b) middle rate of the care component of Scottish Adult Disability Living Allowance immediately prior to the interim determination is entitled to the standard rate of the daily living component of Adult Disability Payment,
+> - (c) highest rate of the care component of Scottish Adult Disability Living Allowance immediately prior to the interim determination is entitled to the enhanced rate of the daily living component of Adult Disability Payment,
+> - (d) lower rate of the mobility component of Scottish Adult Disability Living Allowance immediately prior to the interim determination is entitled to the standard rate of the mobility component of Adult Disability Payment,
+> - (e) higher rate of the mobility component of Scottish Adult Disability Living Allowance immediately prior to the interim determination is entitled to the enhanced rate of the mobility component of Adult Disability Payment.
+>
+> (3) An individual to whom sub-paragraph (2)(e) applies is to be treated as though they have obtained the maximum points for each activity listed in column 1 of the table in Part 3 of schedule 1.
+>
+> **15C. Amount and form and time of payment of Adult Disability Payment**
+>
+> (1) The weekly rate of payment of the daily living component of Adult Disability Payment is, where the individual is entitled to the transitional rate, £28.70.
+>
+> (2) Where an award of Adult Disability Payment is made to an individual under this Part, the Scottish Ministers are to make—
+>
+> - (a) the first payment of assistance on a date specified in the notice of determination, and
+> - (b) any subsequent payment—
+>   - (i) 4 weekly in arrears,
+>   - (ii) weekly in advance, or
+>   - (iii) where the Scottish Ministers consider that it would be unjust not to do so, at such intervals as may be specified in the notice of determination.
+>
+> **15D. Effect of interim determination on entitlement to Scottish Adult Disability Living Allowance**
+>
+> Where an interim determination is made that an individual is entitled to Adult Disability Payment, the individual’s award of Scottish Adult Disability Living Allowance will cease on—
+>
+> - (a) the date their entitlement to Adult Disability Payment begins, or
+> - (b) where paragraph 15E (special rules for terminal illness – exceptions to 15A(4) applies, the date their entitlement to Adult Disability Payment would have begun had paragraph 15E(2) not applied to set an earlier date of entitlement.
+>
+> **15E. Special rules for terminal illness – exceptions to 15A(4)**
+>
+> (1) Sub-paragraph (2) apples where the Scottish Ministers become aware before they have made an interim determination that the individual has a terminal illness in terms of regulation 26(7).
+>
+> (2) The interim determination must be made on the basis that the individual satisfies the conditions for the enhanced rate of the daily living component of Adult Disability Payment and—
+>
+> - (a) if the individual became terminally ill before reaching the relevant age, that the individual satisfies the conditions for the enhanced rate for the mobility component of Adult Disability Payment,
+> - (b) if the individual had reached the relevant age when they became terminally ill and made the application for Adult Disability Payment mentioned in paragraph 15A(1) on or before 31 December 2027, that the individual satisfies the conditions for the enhanced rate for the mobility component of Adult Disability Payment,
+> - (c) if the individual had reached the relevant age when they became terminally ill and did not make the application for Adult Disability Payment mentioned in paragraph 15A(1) on or before 31 December 2027, that the individual satisfies the conditions for—
+>   - (i) the standard rate of the mobility component of Adult Disability Payment if the individual was entitled to the lower rate of the mobility component of Scottish Adult Disability Living Allowance immediately prior to making the application for Adult Disability Payment,
+>   - (ii) the enhanced rate of the mobility component of Adult Disability Payment if the individual was entitled to the higher rate of the mobility component of Scottish Adult Disability Living Allowance immediately prior to making the application for Adult Disability Payment, and
+>   - (iii) no mobility component of Adult Disability Payment if the individual was not entitled to the mobility component of Scottish Adult Disability Living Allowance immediately prior to making the application for Adult Disability Payment.
+>
+> (3) Where sub-paragraph (1) applies—
+>
+> - (a) paragraphs (4) to (6) of regulation 26 (entitlement under special rules for terminal illness) do not apply, and
+> - (b) the individual’s entitlement to Adult Disability Payment will commence on whichever is the later of—
+>   - (i) the date the individual’s application for Adult Disability Payment was made, where the application included information about the individual’s terminal illness,
+>   - (ii) the date the Scottish Ministers become aware of the individual’s terminal illness (whether as a result of the individual notifying a change in circumstances or otherwise),
+>   - (iii) the date that the clinical judgement was made in accordance with regulation 26(7).
+>
+> **15F. Review determination of entitlement to Adult Disability Payment**
+>
+> (1) The Scottish Ministers are to make a determination of the individual’s entitlement to Adult Disability Payment (a “review determination”) as soon as reasonably practicable after making an interim determination in respect of that individual.
+>
+> (2) Sub-paragraph (1) does not apply—
+>
+> - (a) to individuals to whom paragraph 15E (special rules for terminal illness – exceptions to 15A(4)) applies, or
+> - (b) where an individual has requested a re-determination under section 41 (right to request re-determination) of the 2018 Act, or made an appeal under section 46 (right to appeal to First-tier Tribunal against determination) of the 2018 Act, in relation to the interim determination.
+>
+> (3) Subject to paragraphs 15H (when an increase in level of entitlement takes effect) and 15I (when a decrease in level or cessation of entitlement takes effect), entitlement to Adult Disability Payment under a review determination under sub-paragraph (1) begins on the date specified in the notice of determination given to the individual in accordance with section 40 of the 2018 Act.
+>
+> (4) The review determination under sub-paragraph (1) is to be made on the basis of any information that—
+>
+> - (a) the Scottish Ministers have received in respect of the individual’s entitlement to Scottish Adult Disability Living Allowance,
+> - (b) was provided in the individual’s application for Adult Disability Payment,
+> - (c) the Scottish Ministers requested from the individual, and
+> - (d) is available to the Scottish Ministers that appears to them to be relevant.
+>
+> (5) The restrictions in sub-paragraph (6) apply to a review determination under sub-paragraph (1) where—
+>
+> - (a) an individual did not make the application for Adult Disability Payment mentioned in paragraph 15A(1) on or before 31 December 2027,
+> - (b) the individual has reached the relevant age, and
+> - (c) the determination under sub-paragraph (1) is being made in relation to—
+>   - (i) a change of circumstances which occurred after the person reached the relevant age, or
+>   - (ii) a material fact which the Scottish Ministers were not previously aware of which relates to circumstances which began after the individual reached the relevant age.
+>
+> (6) The restrictions referred to in sub-paragraph (5) are—
+>
+> - (a) where the mobility component award under the interim determination is for the standard rate then, regardless of whether the award would otherwise have been for the enhanced rate, the Scottish Ministers—
+>   - (i) may only make an award for the standard rate of that component, and
+>   - (ii) may only make such an award where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the original award was given,
+> - (b) where the mobility component award under the interim determination is for the enhanced rate, the Scottish Ministers may only award that rate of that component where entitlement results from substantially the same condition or conditions in respect of which the mobility component in the original award was given,
+> - (c) where the award under the interim determination did not include an award of the mobility component, the Scottish Ministers may not award that component at either the standard or enhanced rate.
+>
+> **15G. Time of payment**
+>
+> Where an award of Adult Disability Payment is made under a review determination, the Scottish Ministers are to make—
+>
+> - (a) the first payment of assistance on a date specified in the notice of determination, and
+> - (b) any subsequent payment—
+>   - (i) 4 weekly in arrears,
+>   - (ii) weekly in advance, or
+>   - (iii) where the Scottish Ministers consider that it would be unjust not to do so, at such intervals as they specify in the notice of determination.
+>
+> **15H. When an increase in level of entitlement takes effect**
+>
+> (1) Where, as a result of a review determination, the amount of Adult Disability Payment payable in respect of an individual is increased, or their entitlement to a component is awarded, the change takes effect on the date that the individual’s entitlement to Adult Disability Payment would have begun if paragraph 15A(2) did not apply to the individual, in terms of regulation 35(4) to (6).
+>
+> (2) Where an individual has previously received Adult Disability Payment for a period under an interim determination and a review determination has subsequently been made that the same individual is entitled to Adult Disability Payment at a higher rate for that period, the individual is entitled to be paid the difference between the value of entitlement to Adult Disability Payment under the review determination and—
+>
+> - (a) the value of Adult Disability Payment to which that individual was previously entitled under the interim determination, and
+> - (b) the value of the Scottish Adult Disability Living Allowance to which that individual was previously entitled between the date identified in accordance with sub-paragraph (1) and the date on which their entitlement to Adult Disability Payment began under the interim determination.
+>
+> (3) Where paragraph (1) applies, regulation 45 (when an increase in level of entitlement takes effect) does not apply.
+>
+> **15I. When a decrease in level or cessation of entitlement takes effect**
+>
+> (1) Where an individual’s entitlement to Adult Disability Payment is determined in the review determination to be at a lower rate than, or the same rate as awarded by, the interim determination, entitlement under the review determination will take effect on the date that the Scottish Ministers make the review determination.
+>
+> (2) Where sub-paragraph (1) applies, regulation 46 (when a decrease in level or cessation of entitlement takes effect) does not apply.
+>
+> **15J. Modification of these Regulations: interim determinations**
+>
+> These Regulations apply to an individual on and after the date of the interim determination with the following modifications—
+>
+> - (a) regulation 3(3) (overview) is to be read as if—
+>   - (i) for “2 weekly rates of the daily living component” there were substituted “3 weekly rates of the daily living component”, and
+>   - (ii) after “(amount and form of Adult Disability Payment)” there were inserted “and paragraph 15C of schedule 2”,
+> - (b) regulation 5 (daily living component) is to be read as if—
+>   - (i) in paragraph (1) after “the enhanced rate” there were inserted “or, where the individual has been awarded the daily living component under an interim determination as defined in paragraph 15A(2) of schedule 2, at the transitional rate,
+>   - (ii) after paragraph (3) there were inserted—
+>
+>     > (3A) An individual is entitled to the daily living component at the transitional rate where paragraph 15B(2)(a) of schedule 2 applies to the individual.
+>
+>     , and
+>   - (iii) after paragraph (4)(c) there were inserted—
+>
+>     > - (d) “**the transitional rate**” in relation to the daily living component means the weekly rate of the daily living component set in paragraph 15C(1) of schedule 2,
+>
+>     ,
+> - (c) regulations 35 (when an application is to be treated as made and beginning of entitlement to assistance) and 36 (time of payment) are treated as omitted.
+
+.
+
+**3.**[^key-4e761f5cab6a6f476a92a9c5a32d8012] (1) The Disability Assistance for Older People (Scotland) Regulations 2024[^f00108] are amended as follows.
+
+(2) In regulation 26 (amount and form of Pension Age Disability Payment), in paragraph (3)(b) after “attendance under”, insert “article 14 of the Personal Injuries (Civilians) Scheme 1983[^f00109],”.
+
+(3) After regulation 26, insert—
+
+> **26A. Adjustment of payment where medical expenses are paid from public funds under war pensions instrument**
+>
+> (1) Except where paragraph (2) applies, where—
+>
+> - (a) an individual is provided with relevant accommodation, and
+> - (b) there is payable in respect of that individual both—
+>   - (i) a payment under article 21 (medical expenses) of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006, and
+>   - (ii) Pension Age Disability Payment,
+>
+> the amount of Pension Age Disability Payment is reduced by the amount of the payment mentioned in sub-paragraph (b)(i).
+>
+> (2) Paragraph 1 does not apply to an individual in respect of the first 28 days of any period during which the amount of Pension Age Disability Payment would otherwise be adjusted by virtue of paragraph (1).
+>
+> (3) The 28 days referred to in paragraph (2)—
+>
+> - (a) may comprise two or more separate periods, provided that there is no more than 28 days between each period, and
+> - (b) is reduced by the number of relevant days.
+>
+> (4) In this regulation—
+>
+> - “**relevant accommodation**” means accommodation provided as a necessary ancillary to nursing care where the medical expenses involved are wholly borne by the Secretary of State pursuant to article 21 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006[^f00110],
+> - “**relevant day**” means a day that falls not earlier than 28 days before the first day on which the individual was provided with relevant accommodation, and either—
+>   - (a) is a day when the individual was undergoing medical treatment in a hospital or similar institution in the circumstances mentioned in regulation 20(1)(b) (effect of admission to hospital on ongoing entitlement to Pension Age Disability Payment), or
+>   - (b) is a day when the individual was prevented from receiving Pension Age Disability Payment by virtue of regulation 19(2) (effect of admission to a care home on ongoing entitlement to Pension Age Disability Payment).
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for Scottish Adult Disability Living Allowance which is a type of disability assistance given by the Scottish Ministers under section 31 of the Social Security (Scotland) Act 2018.
+
+Part 2 provides an overview of arrangements for payment of Scottish Adult Disability Living Allowance.
+
+Part 3 sets out the eligibility criteria for the care component and the mobility component of Scottish Adult Disability Living Allowance.
+
+Part 4 sets out the residence and presence conditions for entitlement to the assistance.
+
+Part 5 sets out the entitlement rules relating to age.
+
+Part 6 sets out the rules for entitlement to the assistance on account of having a terminal illness and when undergoing dialysis.
+
+Part 7 sets out the effects on payment of the assistance when an individual is resident in a care home, hospital or legal detention.
+
+Part 8 deals with payments, the amount and form of the assistance, time of payment, and continuing eligibility. It also provides for circumstances in which the assistance may be suspended, giving assistance by way of deduction, and when increases or decreases of entitlement take effect.
+
+Part 9 deals with reconsideration of entitlement, where an award of assistance has already been made and is being revisited. It provides for determinations without application to be made where a specified period has elapsed, there is a change in circumstances, to address error resulting in overpayments, official errors resulting in underpayments, or to effect a deduction decision.
+
+Part 10 provides for the situation where people in another part of the United Kingdom in receipt of Disability Living Allowance move to Scotland, or people in Scotland in receipt of Scottish Adult Disability Living Allowance move to another part of the United Kingdom.
+
+Part 11 provides for time periods for dealing with requests for re-determination of entitlement.
+
+Part 12 makes provision for the Scottish Ministers to make payment to suppliers of adapted vehicles, with whom recipients of the assistance have entered agreements for hire or hire purchase. These suppliers must be accredited according to a scheme operated by the Scottish Ministers.
+
+Part 13 and Part 1 of schedule 1 deal with entitlement to short-term assistance, to bridge the gap, in the event that entitlement to the assistance is reduced or removed. This is payable, in certain circumstances, during the time when the change in entitlement is being challenged but the outcome is not yet known.
+
+Part 14 and Part 2 of schedule 1 make provision to transfer individuals who meet the eligibility criteria and are awarded Disability Living Allowance to become entitled to Scottish Adult Disability Living Allowance.
+
+Part 15 and Part 3 of schedule 1 set out the circumstances in which an individual may become entitled to Scottish Adult Disability Living Allowance where, within the previous year, they have had entitlement to Disability Living Allowance or Scottish Adult Disability Living Allowance which has ended.
+
+Part 16 and part 1 of schedule 2 make provision for a consequential amendment to the Social Security Contributions and Benefits Act 1992.
+
+Part 17 and Part 2 of schedule 2 make miscellaneous amendments to the Disability Assistance for Working Age People (Scotland) Regulations 2022 (including making provision in respect of applications for Adult Disability Payment by individuals entitled to Scottish Adult Disability Living Allowance) and the Disability Assistance for Older People (Scotland) Regulations 2024.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9) (“**the 2018 Act**”). Schedules 5, 10 and 11 of the 2018 Act respectively make provision about the exercise of powers under sections 31, 36 and 51. Section 51 of the 2018 Act was amended by section 12(2) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18) (“**the 2020 Act**”). Schedule 5 of the 2018 Act was amended by sections 11(2) and 13(3) of the 2020 Act. Schedule 11 of the 2018 Act was inserted by section 12(4) of the 2020 Act. The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
+
+[^key-b3a5f3374be4f6e3a48d22f6f5955a27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-3e8b1fd26ea5c98ec5b64213757ad452]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/3/regulation/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00002]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54), relevant amending instruments are [S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217), [S.S.I. 2023/346](https://www.legislation.gov.uk/ssi/2023/346) and [S.S.I. 2024/105](https://www.legislation.gov.uk/ssi/2024/105).
+
+[^f00003]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517), amended by [S.I. 2013/436](https://www.legislation.gov.uk/uksi/2013/436), [S.I. 2017/247](https://www.legislation.gov.uk/uksi/2017/247) and [S.I. 2024/347](https://www.legislation.gov.uk/uksi/2024/347).
+
+[^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 64 was amended by section 66(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraph 41 of schedule 1 of the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), paragraph 5(2) and 5(3) of schedule 9 of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) and [S.I. 2022/335](https://www.legislation.gov.uk/uksi/2022/335).
+
+[^f00005]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7) (N.I.). Section 64 was amended by paragraph 38 of schedule 1 of the Pensions Act (Northern Ireland) [2008 (c. 1)](https://www.legislation.gov.uk/ukpga/2008/1) (N.I.), [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147) and [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
+
+[^f00006]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
+
+[^f00007]: Footnote: Section 71 was amended by section 67(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [S.I. 2021/804](https://www.legislation.gov.uk/uksi/2021/804) and [S.I. 2022/335](https://www.legislation.gov.uk/uksi/2022/335).
+
+[^f00008]: Footnote: Section 71 was amended by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147).
+
+[^f00009]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^f00010]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 295 was amended by section 24(2) of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7).
+
+[^f00011]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^f00012]: Footnote: [S.S.I. 2024/166](https://www.legislation.gov.uk/ssi/2024/166).
+
+[^f00013]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^f00014]: Footnote: [S.I. 2015/2006](https://www.legislation.gov.uk/uksi/2015/2006).
+
+[^f00015]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Paragraph 1 of schedule 4 was amended by paragraph 39 of schedule 2 of the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 13 of schedule 3 of the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), paragraph 4 of schedule 3 of the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), section 1 of the Pensions Act [2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19) and section 26 and paragraph 30 of schedule 12 of the Pensions Act [2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19).
+
+[^f00016]: Footnote: EUR 1408/71. This provision was saved by virtue of regulation 6(1) of 2020/399.
+
+[^f00017]: Footnote: EUR 883/2004. This provision was saved by virtue of regulation 6(1) of 2020/399.
+
+[^f00018]: Footnote: [S.I. 1974/555](https://www.legislation.gov.uk/uksi/1974/555).
+
+[^f00019]: Footnote: [S.I. 2024/149](https://www.legislation.gov.uk/uksi/2024/149).
+
+[^f00020]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 3 was amended by section 25(2) of European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00021]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 485 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00022]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 14 was amended by section 59(2), (3) and (4) of the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), paragraph 23(2) and (3) of schedule 14 of the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), section 15(2) of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and [S.I. 2019/1027](https://www.legislation.gov.uk/uksi/2019/1027).
+
+[^f00023]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). Section 49 was amended by paragraph 8 of schedule 10 of the Self-Governing Schools etc. (Scotland) Act [1989 (c. 39)](https://www.legislation.gov.uk/ukpga/1989/39) and section 5(1) of the Schools (Health Promotion and Nutrition) (Scotland) Act [2007 (asp 15)](https://www.legislation.gov.uk/asp/2007/15). Section 73 was amended by section 73 of the Self-Governing Schools etc. (Scotland) Act [1989 (c. 39)](https://www.legislation.gov.uk/ukpga/1989/39), section 29 of the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30) and section 3(2) of the Education (Graduate Endowment and Student Support) (Scotland) Act [2001 (asp 6)](https://www.legislation.gov.uk/asp/2001/6).
+
+[^f00024]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13). Section 65 was amended by section 27 of the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 34(1) of and paragraph 1 of schedule 9 to the Special Educational Needs and Disability Act [2001 (c. 10)](https://www.legislation.gov.uk/ukpga/2001/10), paragraph 15 of schedule 11 to the Higher Education and Research Act [2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
+
+[^f00025]: Footnote: [2017 c. 29](https://www.legislation.gov.uk/ukpga/2017/29).
+
+[^f00026]: Footnote: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6). Sections 4 and 11 were relevantly amended by paragraph 8 of schedule 1 to the Post-16 Education (Scotland) Act [2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12).
+
+[^f00027]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was relevantly amended by section 146(2)(a) and schedule 11 of the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), paragraph 236 of schedule 6 of the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), section 147(3) of the Finance Act (c. 14), sections 42 and 43 and schedule 7 of the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), section 257(2) of the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), section 76 of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), section 88 of the Higher Education and Research Act [2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29) and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
+
+[^key-0b7ef3dacf1e8032f8ff3469f6c7017c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/3/regulation/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-a2f5a034cd188e0990d0986924755f15]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/3/regulation/4) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-23165cdd1be551e276a69041f4efb917]: Textual amendment: [Reg. 4(b)](https://www.legislation.gov.uk/ssi/2025/3/regulation/4/b) substituted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/2) (with [reg. 18(5)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/5)[(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/6))
+
+[^key-871c034038d755d50f46332039c37161]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/3/regulation/5) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-2f00b3f2fbd2265cb6d326ff4bfd9920]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/3/regulation/6) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-5ac3c49c6321f184e4e05da51531047a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/3/regulation/7) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-5a7ea931cbea4c1fbf7ddeb58e8fcd80]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2025/3/regulation/8) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-8c9f39f3235d15f7819535d30a0489d0]: Textual amendment: Word in [reg. 8(2)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/8/2/a) inserted (1.4.2025) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/100)](https://www.legislation.gov.uk/ssi/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/100/regulation/1/2), [16(2)](https://www.legislation.gov.uk/ssi/2025/100/regulation/16/2)
+
+[^f00028]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^f00029]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Paragraph 9 of schedule 1 was relevantly amended by paragraph 135(2) of schedule 4 of the Health and Care Act [2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31).
+
+[^f00030]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^key-e817d788dc9116773f539bb7408cecbe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2025/3/regulation/9) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-cc1fc5e5a9e4851fb80a241fbc229ab0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2025/3/regulation/10) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00031]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33). Section 115(9) was amended by [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).
+
+[^f00032]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^f00033]: Footnote: 2021 CP 379.
+
+[^f00034]: Footnote: OJ C 202, 7.6.2016.
+
+[^key-ad2ce276d5be8c04562cdedb8e7c7995]: Textual amendment: Word in [reg. 10(7)(e)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/e) omitted (11.9.2025) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/ssi/2025/250/regulation/9/2/a)
+
+[^key-79be7d65d1822c438786066e96d7b491]: Textual amendment: [Reg. 10(7)(g)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/g)[(h)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/h) inserted (11.9.2025) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/250)](https://www.legislation.gov.uk/ssi/2025/250), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/250/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/ssi/2025/250/regulation/9/2/b)
+
+[^key-63f55660c735adb4e3ec6574379710ee]: Textual amendment: Word in [reg. 10(7)(g)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/g) omitted (18.3.2026) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/2/a/i)
+
+[^key-c0e6f28c26b1a9bdda5c1b3607f2b4cd]: Textual amendment: [Reg. 10(7)(i)(j)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/7/i/j) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/2/a/ii)
+
+[^f00035]: Footnote: Published at https://www.gov.uk/guidance/afghan-citizens-resettlement-scheme.
+
+[^key-975bbea3694307366c1dd75f6f309f45]: Textual amendment: [Reg. 10(9)](https://www.legislation.gov.uk/ssi/2025/3/regulation/10/9) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/2/b)
+
+[^key-32bafce05d696604db228f37de301dca]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2025/3/regulation/11) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-1c48b73a2822f3466352b36809591f68]: Textual amendment: Word in [reg. 11(1)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/11/1/a) omitted (18.3.2026) by virtue of [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/3/a)
+
+[^key-b2389983f6c43d8038e676e162eaf4c9]: Textual amendment: [Reg. 11(1)(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/11/1/c) and word inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(3)(b)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/3/b)
+
+[^key-e5de21b2ba697fb15a0fb46a6084b46f]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/ssi/2025/3/regulation/11A) inserted (18.3.2026) by [The Social Security (Residence and Presence Requirements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/139)](https://www.legislation.gov.uk/ssi/2026/139), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/139/regulation/1/1), [13(4)](https://www.legislation.gov.uk/ssi/2026/139/regulation/13/4)
+
+[^key-0e9f9503ffd21f1ee3def7ebe6657027]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2025/3/regulation/12) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00036]: Footnote: [S.S.I. 2009/210](https://www.legislation.gov.uk/ssi/2009/210).
+
+[^f00037]: Footnote: [2014 asp 8](https://www.legislation.gov.uk/asp/2014/8).
+
+[^f00038]: Footnote: [2010 c. 25](https://www.legislation.gov.uk/ukpga/2010/25).
+
+[^f00039]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). Section 374 was relevantly amended by section 44(3) of the Defence Reform Act [2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20).
+
+[^f00040]: Footnote: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51).
+
+[^f00041]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
+
+[^f00042]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^key-05ffaccdf07de4c7d9537d62316ba256]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2025/3/regulation/13) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00043]: Footnote: Section 120 was amended by paragraph 30 of schedule 4 of the Petroleum Act [1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17), paragraph 26 of schedule 3 and paragraph 8 of schedule 7 of the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), paragraph 70 of schedule 7 of the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14) and sections 12(2) to (4) of the National Insurance Contributions Act [2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7).
+
+[^key-db4007b0d7d67c73c7eaf077a10e05d1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2025/3/regulation/14) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00044]: Footnote: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00045]: Footnote: [S.I. 1974/555](https://www.legislation.gov.uk/uksi/1974/555).
+
+[^f00046]: Footnote: [S.I. 2024/149](https://www.legislation.gov.uk/uksi/2024/149).
+
+[^key-f36e05ecdf625c9ebfb4aca296b05fe6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2025/3/regulation/15) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00047]: Footnote: Command Paper 2073 and OJ L 1. 3.1.1994, p. 3.
+
+[^f00048]: Footnote: Command Paper 2183 and OJ L 1. 3.1.1994, p. 572.
+
+[^key-c980df66fcecf3a097957d7cac479683]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2025/3/regulation/16) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-ef42ca0458770fa9415db225ea3bc125]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2025/3/regulation/17) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-05a451c3fcc7d7c9fd44e7e8916240a7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2025/3/regulation/18) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-15ad0e6bc98ec38370f4aa2b97f90dd0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2025/3/regulation/19) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-3a8ab60b1b7acb83a2a03fa96fa5337c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2025/3/regulation/20) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00049]: Footnote: Schedule 5 of the 2018 Act was amended by sections 11(2) of the 2020 Act.
+
+[^f00050]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 71 was amended by section 67(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [S.I. 2021/804](https://www.legislation.gov.uk/uksi/2021/804) and [S.I. 2022/335](https://www.legislation.gov.uk/uksi/2022/335).
+
+[^key-ba574e00747fe195bece8497309f3b03]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2025/3/regulation/21) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00051]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^f00052]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^f00053]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^f00054]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
+
+[^f00055]: Footnote: Section 108(1) was relevantly amended by paragraph 6(a) of schedule 6 of the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53) and paragraph 19(22)(b) of schedule 9 of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19).
+
+[^f00056]: Footnote: Section 275 was relevantly amended by paragraph 138(2)(b) of schedule 4(12) of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7).
+
+[^f00057]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
+
+[^f00058]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194).
+
+[^key-ada1156f922798f1ff9c9817f5e00ccb]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2025/3/regulation/22) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-162fb4b6dc1f04073d2e0d5fc9288c8e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2025/3/regulation/23) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00059]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^f00060]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
+
+[^f00061]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^f00062]: Footnote: The Defence Council was established by section 1 of the Defence (Transfer of Functions) Act [1964 (c. 15)](https://www.legislation.gov.uk/ukpga/1964/15).
+
+[^key-64dfe8df632cf20cd372693931f545ba]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2025/3/regulation/24) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-0b3e103d48246f72a00877aef6dc7e27]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2025/3/regulation/25) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-ef54edbf99481b243b5f8451b7b83ddd]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2025/3/regulation/26) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-21801c0be2ddad42a7d2a80ccfaf49ab]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2025/3/regulation/27) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00063]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
+
+[^f00064]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13). Section 136 has been amended by sections 12(2) and 34(2) of the Mental Health (Scotland) Act [2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9).
+
+[^f00065]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Sections 52D and 52M were inserted by section 130 of the Mental Health (Care and Treatment) (Scotland) Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13) subject to savings and transitional provisions specified in [S.S.I. 2005/452](https://www.legislation.gov.uk/ssi/2005/452). Section 52D was amended by sections 38(2)(c), 40(2)(a)(i) and (ii) and 40(2)(b) of the Mental Health (Scotland) Act [2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9). Section 52M was amended by sections 38(2)(g), 41(2)(a) and 41(2)(b) of the Mental Health (Scotland) Act 2015.
+
+[^key-58dce32286da837fc30cd8821088234f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2025/3/regulation/28) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-b5e12e16827615f1d904a76a28f5ae77]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2025/3/regulation/29) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-fbcde428b88db7a5f790b02aa8f52c16]: Textual amendment: Sum in [Reg. 29(1)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/1/a) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(a)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/a) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
+
+[^key-89c61962aab25e318f8faab4f930c8aa]: Textual amendment: Sum in [Reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/1/b) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(b)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/b) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
+
+[^key-15dc0d495d6c71dc6cda5b2fb5d1fa91]: Textual amendment: Sum in [Reg. 29(1)(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/1/c) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(c)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/c) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
+
+[^key-df74e81dbecde075ecd0160e032f6def]: Textual amendment: Sum in [Reg. 29(2)(a)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/2/a) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(d)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/d) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
+
+[^key-d5697fcda873cf77c5f698affd01d493]: Textual amendment: Sum in [Reg. 29(2)(b)](https://www.legislation.gov.uk/ssi/2025/3/regulation/29/2/b) substituted (6.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/4), [16(2)(e)](https://www.legislation.gov.uk/ssi/2026/170/regulation/16/2/e) (with [sch. para. 14](https://www.legislation.gov.uk/ssi/2026/170/schedule/1/paragraph/14))
+
+[^f00066]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686). Article 14 was amended by paragraph 3 of schedule 1 of the Personal Injuries (Civilians) Amendment Scheme 2001/420.
+
+[^f00067]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^f00068]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
+
+[^f00069]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606). Article 8 was amended by article 3(a) and (b) of [S.I. 2009/706](https://www.legislation.gov.uk/uksi/2009/706).
+
+[^f00070]: Footnote: [S.I. 1983/883](https://www.legislation.gov.uk/uksi/1983/883).
+
+[^f00071]: Footnote: [S.I. 1964/1985](https://www.legislation.gov.uk/uksi/1964/1985).
+
+[^f00072]: Footnote: [S.I. 1964/2007](https://www.legislation.gov.uk/uksi/1964/2007).
+
+[^f00073]: Footnote: [S.I. 1964/2058](https://www.legislation.gov.uk/uksi/1964/2058).
+
+[^f00074]: Footnote: Cmnd. 2563, as amended by Cmnd. 5118, [S.I. 1989/1335](https://www.legislation.gov.uk/uksi/1989/1335), [S.I. 1993/597](https://www.legislation.gov.uk/uksi/1993/597) and [S.I. 1994/771](https://www.legislation.gov.uk/uksi/1994/771).
+
+[^f00075]: Footnote: Cmnd. 2564, as amended by Cmnd. 5119, [S.I. 1989/1335](https://www.legislation.gov.uk/uksi/1989/1335), [S.I. 1993/597](https://www.legislation.gov.uk/uksi/1993/597) and [S.I. 1994/771](https://www.legislation.gov.uk/uksi/1994/771).
+
+[^f00076]: Footnote: Cmnd. 4567, as amended by Cmnd. 5421, [S.I. 1988/1843](https://www.legislation.gov.uk/uksi/1988/1843), Cmnd. 5120, [S.I. 1993/597](https://www.legislation.gov.uk/uksi/1993/597) and [S.I. 1994/773](https://www.legislation.gov.uk/uksi/1994/773).
+
+[^key-1efe2d00e9c61496ccb43650716c09a2]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2025/3/regulation/30) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-786b8c5d5ba8a27dcf522f14fd5e2cdb]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2025/3/regulation/31) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-d1ecd7099474b1fef543ec993194e8aa]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2025/3/regulation/32) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-c3ab4f883c75852d3526dddc542ed462]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2025/3/regulation/33) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-7263ffbd9d99e76311cd044e16ca01ed]: Textual amendment: [Reg. 33(2)](https://www.legislation.gov.uk/ssi/2025/3/regulation/33/2) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [12(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/3)
+
+[^f00077]: Footnote: Section 54(1A) was inserted by section 12(3)(b) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18).
+
+[^f00078]: Footnote: Section 85B was inserted by section 2(4) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18).
+
+[^key-dbcdcdedf92a9e64150ef6b3c21a67d6]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2025/3/regulation/34) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-105592c47d208846cb063b5fb2d1fd3c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2025/3/regulation/35) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-b41d47a54a73477bf15b5596458c8fa3]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2025/3/regulation/36) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-50e4475e60b56001e65f19cf289e20ea]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2025/3/regulation/37) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00079]: Footnote: Section 54(1) was amended by section 12(3)(a) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18).
+
+[^f00080]: Footnote: Section 54(2) was amended by section 12(3)(c) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18).
+
+[^key-d984b557ae2d4c4fa86f3e7ff7c7ac66]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2025/3/regulation/38) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-39e71ea499a1264f955a5359f66c9bd3]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2025/3/regulation/39) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-0f401dc3f78db7390b7be475d8e906c3]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2025/3/regulation/40) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00081]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 71 was amended by section 67(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [S.I. 2021/804](https://www.legislation.gov.uk/uksi/2021/804) and [S.I. 2022/335](https://www.legislation.gov.uk/uksi/2022/335).
+
+[^key-fa423c0546780e161ffc64a687df054e]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2025/3/regulation/41) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-d94a9ed29c43bb336566a0722b8442ca]: Textual amendment: Word in [reg. 41(1)(c)(i)](https://www.legislation.gov.uk/ssi/2025/3/regulation/41/1/c/i) omitted (6.11.2025) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/4/a)
+
+[^key-3f0bb4580f03f94716d5e1e63fbb4318]: Textual amendment: [Reg. 41(1)(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/41/1/c)[(ia)](https://www.legislation.gov.uk/ssi/2025/3/regulation/41/1/ia) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [12(4)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/4/b) (with [reg. 18(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/4))
+
+[^key-f275d7ea158bcf826850cfe80c23a43a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2025/3/regulation/42) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-e08ee1ff47e1f679f2bc8272dac5c48b]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2025/3/regulation/43) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-959e0a90975322e6ffca3256d4183b8b]: Textual amendment: [Reg. 43(c)](https://www.legislation.gov.uk/ssi/2025/3/regulation/43/c)[(d)](https://www.legislation.gov.uk/ssi/2025/3/regulation/43/d) revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(a)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/a) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
+
+[^key-6abc15a4ff7e82a4892480a1a75314cb]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2025/3/regulation/44) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-3a3840e19364a6ba7aebed216669b15c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2025/3/regulation/45) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-fe0a50e6b788c92d00df9c1a6262927b]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2025/3/regulation/46) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-9ba18a14e19dc7472e2fcb2f748e1fd3]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/ssi/2025/3/regulation/47) substituted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(5)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/5) (with [reg. 18(5)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/5)[(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/6))
+
+[^key-5c67236f727e932412a1cf4eda7127e0]: Textual amendment: [Regs. 47A](https://www.legislation.gov.uk/ssi/2025/3/regulation/47A), [47B](https://www.legislation.gov.uk/ssi/2025/3/regulation/47B) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(6)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/6)
+
+[^key-e1b5ce02e2276756934cda0d401cf66d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2025/3/regulation/48) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-9d594b9575a1bb3ff50aec2384cf80d9]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2025/3/regulation/49) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-49cb434ad180482596dfbd4fb2d2f652]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2025/3/regulation/50) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-3b73afb1758f38201319ab4d6bd38de6]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2025/3/regulation/51) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-46ac2c7f4c03ff9aa5ffcae2249d6e7a]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2025/3/regulation/52) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-3b296d956d1940edf79b04bc29abeaa2]: Textual amendment: [Reg. 53](https://www.legislation.gov.uk/ssi/2025/3/regulation/53) revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/b) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
+
+[^key-9ddbe4b2f68429f8d0296b46428c279b]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2025/3/regulation/54) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-a7e8909171be2958b546e5212689b26e]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2025/3/regulation/55) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-d98148bc6fe5aa7215ecc7391667b2ab]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2025/3/regulation/56) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-26e5b84ddb3bc07208a15a78cfcd9fef]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-f8a261e7da7626589421aef9671496b5]: Textual amendment: [Sch. 1 para. 1(1)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/1/1/a/ii/aa) revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(c)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/c) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
+
+[^key-0572077daea5372ee4867066fc63cbe4]: Textual amendment: [Sch. 1 para. 1(1)(a)(ii)(ee)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/1/1/a/ii/ee) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(7)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/7)
+
+[^f00085]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
+
+[^key-2c02395a41f8ceb0dc8089265a630711]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-b8d885ccbab6c5aca39e405af1ea1286]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-99b6b9f655c5bfb5c4c67954eddfc72d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/4) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^key-83bec4b13a65e84ac0c95ed174cd92e0]: Textual amendment: Sch. 1 Pt. 2 revoked (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [18(1)(d)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/1/d) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/ssi/2025/336/regulation/18/2))
+
+[^key-cbcff7a85cfb5c08e9ff35c80e5733a9]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/12) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00092]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54). Relevant amending instruments are [S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217) and [S.S.I. 2023/346](https://www.legislation.gov.uk/ssi/2023/346).
+
+[^f00093]: Footnote: [S.S.I. 2024/166](https://www.legislation.gov.uk/ssi/2024/166).
+
+[^key-acbf3315ed0f12c3604c47992de79303]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00094]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
+
+[^f00095]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
+
+[^f00096]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506).
+
+[^key-207afccf8c9479765d931df6d6ad42f1]: Textual amendment: Word in [sch. 1 para. 13(3)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13/3) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(8)(a)(i)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/8/a/i)
+
+[^key-f69a8fb95abd07e911794b73e2676f4a]: Textual amendment: [Sch. 1 para. 13(3)(b)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13/3/b) omitted (23.2.2026) by virtue of [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(8)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/8/a/ii)
+
+[^f00097]: Footnote: [S.I. 2013/387](https://www.legislation.gov.uk/uksi/2013/387).
+
+[^f00098]: Footnote: [S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217), relevantly amended by [S.S.I. 2023/346](https://www.legislation.gov.uk/ssi/2023/346) and [S.S.I. 2024/105](https://www.legislation.gov.uk/ssi/2024/105).
+
+[^f00099]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54). Relevant amending instruments are [S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217) and [S.S.I. 2023/346](https://www.legislation.gov.uk/ssi/2023/346).
+
+[^f00100]: Footnote: [S.S.I. 2024/166](https://www.legislation.gov.uk/ssi/2024/166).
+
+[^key-95c77fb5f15e3223dc94f614be016578]: Textual amendment: [Sch. 1 para. 13(11)](https://www.legislation.gov.uk/ssi/2025/3/schedule/1/paragraph/13/11) inserted (23.2.2026) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/3), [12(8)(b)](https://www.legislation.gov.uk/ssi/2025/336/regulation/12/8/b)
+
+[^key-e2491d70d814ee75ba11eb366ad534c1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2025/3/schedule/2/paragraph/1) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00101]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^key-3bd8dd318fa7faa2fc4246842b269d4a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2025/3/schedule/2/paragraph/2) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00102]: Footnote: [S.S.I. 2022/54](https://www.legislation.gov.uk/ssi/2022/54). Relevant amending instruments are [S.S.I. 2022/217](https://www.legislation.gov.uk/ssi/2022/217) and [S.S.I. 2024/105](https://www.legislation.gov.uk/ssi/2024/105).
+
+[^f00103]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 64 was amended by section 66(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraph 41 of schedule 1 of the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), paragraph 5(2) and 5(3) of schedule 9 of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) and [S.I. 2022/335](https://www.legislation.gov.uk/uksi/2022/335).
+
+[^f00104]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7) (N.I.). Section 64 was amended by paragraph 38 of schedule 1 of the Pensions Act (Northern Ireland) [2008 (c. 1)](https://www.legislation.gov.uk/ukpga/2008/1) (N.I.), [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147) and [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
+
+[^f00105]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686).
+
+[^f00106]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606).
+
+[^f00107]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
+
+[^key-4e761f5cab6a6f476a92a9c5a32d8012]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2025/3/schedule/2/paragraph/3) in force at 21.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/3/regulation/1)
+
+[^f00108]: Footnote: [S.S.I. 2024/166](https://www.legislation.gov.uk/ssi/2024/166).
+
+[^f00109]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686).
+
+[^f00110]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606).

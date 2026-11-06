@@ -1,0 +1,40 @@
+---
+title: Criminal Justice and Licensing (Scotland) Act 2010, section 64
+act: Criminal Justice and Licensing (Scotland) Act 2010
+section: '64'
+status: revised-with-pending-changes
+text_date: '2023-03-31'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2010/13/section/64
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Criminal Justice and Licensing (Scotland) Act 2010, section 64
+
+> **Warning: changes not yet applied to this text (14).** Text as at 2023-03-31. See https://www.legislation.gov.uk/changes/affected/asp/2010/13
+>
+> Extent: Scotland.
+
+## 64. Remand and committal of children and young persons[^key-60db442866a027c8ac77ea72ef2812c1]
+
+*Extent: S*
+
+(1) Section 51 of the 1995 Act (remand and committal of children and young persons) is amended in accordance with subsections (2) and (3).
+
+(2) The following provisions are repealed—
+
+- (a) in subsection (1)—
+  - (i) in paragraph (a) the words from “but” to “applies”, and
+  - (ii) paragraph (bb),
+- (b) in subsection (2A), the words “Subject to subsection (4) below”,
+- (c) subsections (3) and (4), and
+- (d) in subsection (4A), the words “or subsection (4) above”.
+
+(3) In subsection (5), for “(1)(aa), (b)(ii), (bb)(ii) or (3)(b)” substitute “ (1)(aa) or (b)(ii) ”.
+
+(4) In section 23 of the Criminal Justice (Scotland) Act 2003 (asp 7) (remand and committal of children and young persons), subsections (6) and (7) are repealed.
+
+## Annotations
+
+[^key-60db442866a027c8ac77ea72ef2812c1]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2010/13/section/64) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

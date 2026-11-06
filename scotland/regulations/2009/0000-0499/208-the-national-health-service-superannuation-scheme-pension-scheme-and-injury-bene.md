@@ -1,0 +1,1056 @@
+---
+title: The National Health Service (Superannuation Scheme, Pension Scheme and Injury Benefits) (Scotland) Amendment ( No. 2) Regulations 2009
+id: ssi/2009/208
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-06-01'
+text_date: '2013-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2009/208
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2009/208/pdfs/ssien_20090208_en.pdf
+- http://www.legislation.gov.uk/ssi/2009/208/pdfs/ssi_20090208_en.pdf
+- http://www.legislation.gov.uk/ssi/2009/208/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Superannuation Scheme, Pension Scheme and Injury Benefits) (Scotland) Amendment ( No. 2) Regulations 2009
+
+> Text as at 2013-07-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2009 No. 208
+
+NATIONAL HEALTH SERVICE
+
+The National Health Service (Superannuation Scheme, Pension Scheme and Injury Benefits) (Scotland) Amendment (No. 2) Regulations 2009
+
+Made
+
+1st June 2009
+
+Laid before the Scottish Parliament
+
+3rd June 2009
+
+Coming into force
+
+26th June 2009
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 10 and 12 and Schedule 3 to, the Superannuation Act 1972[^f00001], and of all other powers enabling them to do so.
+
+In accordance with section 10(1) of that Act, these Regulations are made with the consent of the Treasury[^f00002].
+
+In accordance with section 10(4) of that Act, the Scottish Ministers have consulted with such representatives of persons likely to be affected by these Regulations as appear to them to be appropriate.
+
+## PART 1 — INTRODUCTORY
+
+### 1. Citation, commencement and effect[^key-13a39298e907a73b8c7cb21af6bc9270]
+
+(1) These Regulations may be cited as the National Health Service (Superannuation Scheme, Pension Scheme and Injury Benefits) (Scotland) Amendment (No. 2) Regulations 2009.
+
+(2) These Regulations come into force on 26th June 2009 and have effect from 1st April 2009 except for as provided in paragraphs (3) to (6)–
+
+(3) The following regulations have effect from 6th April 2009–
+
+- (a) regulation 14;
+- (b) regulation 66; and
+- (c) regulation 84.
+
+(4) The following regulations have effect from 1st April 2008–
+
+- (a) regulation 16;
+- (b) regulation 38;
+- (c) regulation 40(c);
+- (d) regulation 43;
+- (e) regulation 46(b);
+- (f) regulation 54(a);
+- (g) regulation 68(b);
+- (h) regulation 70;
+- (i) regulation 73(c) ;
+- (j) regulation 76;
+- (k) regulation 79(b); and
+- (l) regulation 80(b).
+
+(5) Regulation 88 has effect from 1st April 2004.
+
+(6) Regulation 13(3) has effect from 1st April 1995.
+
+## PART 2 — Amendment of the National Health Service Superannuation Scheme (Scotland) Regulations 1995
+
+### 2. Interpretation of Part 2[^key-ee9ac6ce93e7f7bf4c2df99e16a3af0c]
+
+In this Part an alphanumerical reference to a regulation or a reference to a Schedule is a reference to a provision of the National Health Service Superannuation Scheme (Scotland) Regulations 1995[^f00003] bearing that designation.
+
+### 3. Amendment of regulation B3[^key-48de878823ec683247b75facf9820fe6]
+
+In regulation B3 (restrictions on further participation in the scheme) for paragraph (2), substitute–
+
+> (2) Persons whose pensions under the scheme are payable may not contribute to or accrue further pensionable service under the scheme, except in the cases referred to in–
+>
+> - (a) regulation E2(11) (further pensionable employment under the age of 50 after early retirement pension (ill health));
+> - (b) regulation E2A(11) (ill health pension on early retirement) but subject to paragraph (3); or
+> - (c) regulation R4(4) (members doing more than one job).
+>
+> (3) Persons to whom–
+>
+> - (a) regulation E2B(3)(a) (re-assessment of ill health condition determined under regulation E2A) applies may not (except where sub-paragraph (b) applies) contribute to or accrue further pensionable service under the scheme from the date the Scottish Ministers make a determination under that regulation;
+> - (b) sub-paragraph (a) applies may contribute to or accrue further pensionable service under the scheme from the day after the first anniversary of that person’s NHS employment following the date of the Scottish Ministers' determination under regulation E2B if that person is under the age of 50 on that day.
+
+.
+
+### 4. Amendment of regulation D1[^key-299316e317dbe83bcca022b887162cfa]
+
+For regulation D1(1) to (2R) (contributions by members), substitute–
+
+> (1) Each member in pensionable employment must contribute to the scheme in accordance with the following paragraphs of this regulation.
+>
+> (1A) For the 2009 2010 scheme year and each subsequent scheme year, a member whose pensionable pay falls into a pay band specified in column 1 of the following table must contribute the percentage of the member’s pensionable pay specified in column 2 of that table in respect of that amount.
+>
+> <table>
+> <thead>
+> <tr><th>Column 1</th><th>Column 2</th></tr>
+> <tr><th>Pay band</th><th>Contribution percentage rate</th></tr>
+> </thead>
+> <tbody>
+> <tr><td>Up to £20,224</td><td>5%</td></tr>
+> <tr><td>£20,225 to £66,789</td><td>6.5%</td></tr>
+> <tr><td>£66,790 to £105,318</td><td>7.5%</td></tr>
+> <tr><td>£105,319 to any higher amount</td><td>8.5%</td></tr>
+> </tbody>
+> </table>
+>
+> (2) The Scottish Ministers may, with the consent of Treasury, make a determination substituting any or all of the pay bands or contribution percentage rates specified in the table in paragraph (1A) with effect from a date specified in the determination.
+>
+> (2A) Before making a determination under paragraph (2), the Scottish Ministers must consider–
+>
+> - (a) the advice of the scheme actuary; and
+> - (b) in accordance with regulation U4 (cost sharing), advice from such employee and employer representatives as the Scottish Ministers consider appropriate.
+>
+> (2B) For the purposes of this regulation–
+>
+> - (a) “previous scheme year” means the scheme year immediately preceding the scheme year in respect of which contributions are payable in accordance with this regulation (“the current scheme year”); and
+> - (b) if a member holds two or more pensionable employments at the same time–
+>   - (i) the calculations or determinations referred to in paragraphs (2E) to (2V) shall apply to each such employment separately; and
+>   - (ii) each such employment shall be treated separately for the purpose of paying contributions.
+>
+> (2C) Subject to paragraphs (2Q) and (2R), for the purposes of determining the relevant annual contribution percentage rate for the current scheme year paragraphs (2D) to (2P) apply to a member who is in pensionable employment with the same employing authority on both the last day of the previous scheme year and the first day of the current scheme year.
+>
+> (2D) For the purposes of paragraphs (2E) to (2P)–
+>
+> - (a) a member shall be regarded as being in pensionable employment throughout the previous scheme year regardless of any period in that year during which the member continued to be employed by the same employer but did not make contributions to the scheme;
+> - (b) for the purposes of calculating the member’s pensionable pay–
+>   - (i) contributions for any period referred to in sub-paragraph (a) shall be deemed to have been paid; and
+>   - (ii) any additional pensionable pay that the member is treated as having received during an absence from work in accordance with regulation P1 (maternity, paternity and adoption absence) or P2 (absence because of illness or injury) shall be included; and
+> - (c) the amount of pensionable pay determined in accordance with those paragraphs shall be rounded down to the nearest whole pound.
+>
+> (2E) If a member–
+>
+> - (a) was in pensionable employment with an employing authority on a whole time basis throughout the previous scheme year;
+> - (b) paid contributions in respect of that employment at the same percentage rate throughout that previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the member’s pensionable pay received during the previous scheme year.
+>
+> (2F) If a member–
+>
+> - (a) was in pensionable employment with an employing authority on a part time basis throughout the previous scheme year;
+> - (b) paid contributions in respect of that employment at the same percentage rate throughout that previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member’s pensionable pay determined by reference to the amount the Scottish Ministers determine would have been paid in respect of a single comparable whole time employment during the previous scheme year.
+>
+> (2G) If a member–
+>
+> - (a) was in pensionable employment with an employing authority on a combination of a whole time and part time basis throughout the previous scheme year;
+> - (b) paid contributions in respect of that employment at the same percentage rate throughout that previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the aggregate of–
+>
+> - (i) the member’s pensionable pay received during the previous scheme year in respect of the member’s whole time employment; and
+> - (ii) the amount the Scottish Ministers determine would have been paid in respect of a single comparable whole time employment for that period in respect of the member’s part time employment.
+>
+> (2H) If a member–
+>
+> - (a) was in pensionable employment with an employing authority on a whole time basis throughout the previous scheme year;
+> - (b) did not pay contributions in respect of that employment at the same percentage rate throughout that previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the member’s pensionable pay determined by the formula–
+>
+> [formula: see source](https://www.legislation.gov.uk/ssi/2009/208)
+>
+> where–
+>
+> - RPP is the pensionable pay received in respect of that employment for the period commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year; and
+> - NDPE is the number of days of pensionable employment with that employer commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year.
+>
+> (2I) If a member–
+>
+> - (a) was in pensionable employment with an employing authority on a part time basis throughout the previous scheme year;
+> - (b) did not pay contributions in respect of that employment at the same percentage rate throughout that previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the member’s pensionable pay determined by the formula–
+>
+> [formula: see source](https://www.legislation.gov.uk/ssi/2009/208)
+>
+> where–
+>
+> - CWTE is the amount the Scottish Ministers determine would have been paid in respect of a single comparable whole time employment in respect of the member’s part time employment with that employer for the period commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year; and
+> - NDPE is the number of days of pensionable employment with that employer commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year.
+>
+> (2J) If a member–
+>
+> - (a) was in pensionable employment with an employing authority on a combination of a whole time and part time basis throughout the previous scheme year;
+> - (b) did not pay contributions in respect of that employment at the same percentage rate throughout that previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the member’s pensionable pay determined by the formula–
+>
+> [formula: see source](https://www.legislation.gov.uk/ssi/2009/208)
+>
+> where–
+>
+> - RPP is the pensionable pay received for the whole time employment with that employer for the period commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year;
+> - CWTE is the amount the Scottish Ministers determine would have been paid in respect of a single comparable whole time employment in respect of the member’s part time employment with that employer for the period commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year; and
+> - NDPE is the number of days of pensionable employment with that employer for the period commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year.
+>
+> (2K) If a member–
+>
+> - (a) commenced pensionable employment with an employing authority on a whole time basis during the previous scheme year;
+> - (b) paid contributions in respect of that employment at the same percentage rate from the date that employment commenced to the last day of the previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member’s pensionable pay determined by the formula–
+>
+> [formula: see source](https://www.legislation.gov.uk/ssi/2009/208)
+>
+> where–
+>
+> - RPP is the pensionable pay received in respect of that employment during the previous scheme year; and
+> - NDPE is the number of days of pensionable employment with that employer during the previous scheme year.
+>
+> (2L) If a member–
+>
+> - (a) commenced pensionable employment with an employing authority on a part time basis during the previous scheme year;
+> - (b) paid contributions in respect of that employment at the same percentage rate from the date that employment commenced to the last day of the previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member’s pensionable pay determined by the formula–
+>
+> [formula: see source](https://www.legislation.gov.uk/ssi/2009/208)
+>
+> where–
+>
+> - CWTE is the amount the Scottish Ministers determine would have been paid for that employment during the previous scheme year in respect of a single comparable whole time employment; and
+> - NDPE is the number of days of pensionable employment with that employer during the previous scheme year.
+>
+> (2M) If a member–
+>
+> - (a) commenced pensionable employment with an employing authority during the previous scheme year and has since been employed on both a whole time and part time basis;
+> - (b) paid contributions in respect of that employment at the same percentage rate from the date that employment commenced to the last day of the previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member’s pensionable pay determined by the formula–
+>
+> [formula: see source](https://www.legislation.gov.uk/ssi/2009/208)
+>
+> where–
+>
+> - RPP is the pensionable pay received for the whole time employment with that employer during the previous scheme year;
+> - CWTE is the amount the Scottish Ministers determine would have been paid in respect of a single comparable whole time employment in respect of the member’s part time employment with that employer during the previous scheme year; and
+> - NDPE is the number of days of pensionable employment with that employer during the previous scheme year.
+>
+> (2N) If a member–
+>
+> - (a) commenced pensionable employment with an employing authority on a whole time basis during the previous scheme year;
+> - (b) did not pay contributions in respect of that employment at the same percentage rate from the date that employment commenced to the last day of the previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year;
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member’s pensionable pay determined by the formula–
+>
+> [formula: see source](https://www.legislation.gov.uk/ssi/2009/208)
+>
+> where–
+>
+> - RPP is the pensionable pay received in respect of that employment for the period commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year; and
+> - NDPE is the number of days of pensionable employment with that authority commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year.
+>
+> (2O) If a member–
+>
+> - (a) commences pensionable employment with an employing authority on a part time basis during the previous scheme year;
+> - (b) did not pay contributions in respect of that employment at the same percentage rate from the date that employment commenced to the last day of the previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member’s pensionable pay determined by the formula–
+>
+> [formula: see source](https://www.legislation.gov.uk/ssi/2009/208)
+>
+> where–
+>
+> - CWTE is the amount the Scottish Ministers determine would have been paid in respect of a single comparable whole time employment in respect of the member’s part time employment with that employer for the period commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year; and
+> - NDPE is the number of days of pensionable employment with that employer commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year.
+>
+> (2P) If a member–
+>
+> - (a) commenced pensionable employment with an employing authority during the previous scheme year and has since been employed on both a whole time and part time basis with that employing authority;
+> - (b) did not pay contributions in respect of that employment at the same percentage rate from the date that employment commenced to the last day of the previous scheme year; and
+> - (c) is employed by that authority on the first day of the current scheme year,
+>
+> the member shall pay contributions during the current scheme year at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the member’s pensionable pay determined by the formula–
+>
+> [formula: see source](https://www.legislation.gov.uk/ssi/2009/208)
+>
+> where–
+>
+> - RPP is the pensionable pay received for the whole time employment with that employer for the period commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year;
+> - CWTE is the amount the Scottish Ministers determine would have been paid in respect of a single comparable whole time employment in respect of the member’s part time employment with that employer for the period commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year; and
+> - NDPE is the number of days of pensionable employment with that employer for the period commencing on the date the member’s contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year.
+>
+> (2Q) If, at any time during the current scheme year, a member commences a new employment, the member shall pay contributions in respect of that employment at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the member’s pensionable pay determined in accordance with paragraph (2U).
+>
+> (2R) Subject to paragraph (2S), if at any time during the current scheme year, a change is made to a member’s annual rate of pensionable pay or pensionable allowances in respect of an existing employment the member shall pay contributions–
+>
+> - (a) from the first day of the pay period in which the change is made at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the member’s pensionable pay determined in accordance with paragraph (2U); and
+> - (b) as if the member’s employment had commenced on that date.
+>
+> (2S) Paragraph (2R) does not apply to a change made to a member’s annual rate of pensionable allowances in respect of an existing employment that is determined by that member’s employer to have been made in respect of–
+>
+> - (a) unplanned changes to that member’s duties; or
+> - (b) changes to that member’s duties that are unlikely to persist for at least 12 months.
+>
+> (2T) If the change to a member’s pensionable pay referred to in paragraph (2R) is made in respect of an existing part time employment, that paragraph shall not apply unless there is a corresponding change to the amount of pensionable pay that would be paid to that member in respect of a whole time comparable employment.
+>
+> (2U) Where paragraph (2Q) or (2R) apply the Scottish Ministers shall determine the member’s pensionable pay–
+>
+> - (a) by applying the formula–
+>
+>   [formula: see source](https://www.legislation.gov.uk/ssi/2009/208)
+>
+>   where–
+>
+>   - EPP is the estimated pensionable pay that the member’s employing authority estimates will be payable to the member in respect of that employment during the current scheme year; and
+>   - NDPE is the number of days of pensionable employment from the date employment commences to the end of the current scheme year; and
+> - (b) if the further employment is part time employment, by determining how much would be paid in respect of a whole time comparable employment,
+>
+> with the amount determined under sub-paragraph (a) being the member’s pensionable pay for the purposes of this paragraph if the further employment is whole time employment and the amount determined under sub-paragraph (b) being the member’s pensionable pay for the purposes of this paragraph if the further employment is part time employment.
+>
+> (2V) If none of paragraphs (2E) to (2R) apply–
+>
+> - (a) the Scottish Ministers must determine the amount of the member’s pensionable pay, and in doing so shall, in addition to the matters referred to in paragraph (2A), have regard to the pensionable pay attributable to pensionable employment comparable to the member’s employment, prevailing pay scales and prevailing rates of pensionable allowances; and
+> - (b) the member shall pay contributions at the rate specified in column 2 of the table in paragraph (1A) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the member’s pensionable pay determined in accordance with sub-paragraph (a).
+
+.
+
+### 5. Amendment of regulation E2B[^key-f004d7fc940cf59dbd0c440445b9dfba]
+
+In regulation E2B(2) (re assessment of ill health condition determined under regulation E2A)–
+
+- (a) at the end of sub paragraph (b) omit “and”; and
+- (b) after sub paragraph (c), add–
+
+  > - ; and
+  >   - (a) the member has not become entitled to an upper tier pension in respect of any later service under regulation S3A(6) (benefits in respect of pensionable employment after pension becomes payable under regulation E2A).
+
+  .
+
+### 6. Amendment of regulation E6[^key-29efeb839a5cc1c66d1c871c9bad0469]
+
+In regulation E6(5) (preserved pension) after “a lump sum”, add–
+
+> - of an amount consistent with–
+>   - (a) the contracting out and preservation requirements of the 1993 Act; and
+>   - (b) the lump sum rule
+
+.
+
+### 7. Amendment of regulation E7[^key-760c0873d1a3630c389345f1f3da67da]
+
+In regulation E7 (lump sum on retirement)–
+
+- (a) in paragraph (1) for “paragraph (3)”, substitute “paragraphs (2A) and (3)”; and
+- (b) after paragraph (2), insert–
+
+  > (2A) Where regulation E2B(3) applies, the lump sum payable shall be equal to the difference between–
+  >
+  > - (a) three times the yearly rate of pension calculated in accordance with regulation E2A(3)(a) (ill health pension on early retirement); and
+  > - (b) three times the yearly rate of pension calculated in accordance with regulation E2B(3)(b).
+
+  .
+
+### 8. Amendment of regulation E11[^key-23ad219d4bf94890f7fa903ca692c2fb]
+
+In regulation E11 (general option to exchange part of pension for lump sum)–
+
+- (a) in paragraph (8) for “The option” substitute, “Subject to paragraphs (9) and (10), the option”; and
+- (b) after paragraph (8), add–
+
+  > (9) If the pension is an ill health pension under regulation E2A, the option under this regulation may only be exercised by giving notice in writing to the Scottish Ministers in the form required by the Scottish Ministers–
+  >
+  > - (a) where the member is awarded–
+  >   - (i) a lower tier pension under paragraph (3)(a) of that regulation, at the time of claiming that lower tier pension;
+  >   - (ii) an upper tier pension under paragraph (3)(b) of that regulation, at the time of claiming that upper tier pension; or
+  > - (b) before such later time as the Scottish Ministers specify in writing.
+  >
+  > (10) If the pension is an upper tier pension under regulation E2B to be paid in place of a lower tier pension under regulation E2A, the option under this regulation may only be exercised–
+  >
+  > - (a) in relation to the difference between the lower tier pension that is replaced by the upper tier pension in accordance with regulation E2B(3) and the upper tier pension to which the member becomes entitled under that regulation; and
+  > - (b) by giving notice in writing to the Scottish Ministers in the form required by the Scottish Ministers–
+  >   - (i) at the time of award of the upper tier pension under that regulation; or
+  >   - (ii) before such later time as the Scottish Ministers specify in writing.
+
+  .
+
+### 9. Amendment of regulation H4[^key-f78f22db35873085f09310f6083af728]
+
+In regulation H4 (child allowance when member dies after pension becomes payable), in–
+
+- (a) paragraph (4) after “civil partner” insert “or nominated partner”;
+- (b) paragraph (5) after–
+  - (i) “civil partner” insert “or nominated partner”; and
+  - (ii) “surviving civil partner's” insert “or surviving nominated partner's”;
+- (c) paragraph (6) after–
+  - (i) “surviving civil partner's” insert “or surviving nominated partner's”; and
+  - (ii) “surviving civil partner” insert “or surviving nominated partner”; and
+- (d) paragraph (7) after–
+  - (i) “surviving civil partner's” insert “or surviving nominated partner's”; and
+  - (ii) “surviving civil partner” insert “or surviving nominated partner”.
+
+### 10. Amendment of regulation S3A[^key-2274c989cef71d5759585215d1b295f0]
+
+After regulation S3A(6) (benefits in respect of pensionable employment after pension becomes payable under regulation E2A), add–
+
+> (7) A member–
+>
+> - (a) to whom an upper tier pension is payable in place of a lower tier pension in respect of the member’s previous service in accordance with regulation E2B(3); and
+> - (b) who satisfies the lower tier condition or, as the case may be the upper tier condition, in respect of the member’s later service,
+>
+> shall be entitled to the following benefit.
+>
+> (8) That benefit is the aggregate of–
+>
+> - (a) an upper tier pension paid in accordance with regulation E2B in respect of the member’s previous service; and
+> - (b) a lower tier pension in respect of the member’s later service.
+
+.
+
+### 11. Amendment of regulation T9[^key-933daf4bf0807097c3e1557566c19dc9]
+
+In regulation T9(4) (interest on late payment of benefits)–
+
+- (a) in the definition of “due date”–
+  - (i) for the opening words substitute–
+
+    > - “due date” means the later of, either, the applicable day described in sub-paragraph (a), and the day described in sub-paragraph (b), or the applicable day in sub-paragraph (aa) and the applicable day in sub-paragraph (b) (whichever is applicable)–
+
+    ;
+  - (ii) in sub-paragraph (a)(i)(aa) before “probate” insert “confirmation”; and
+  - (iii) in sub-paragraph (b) after “possession of all information” insert, “(including information which the Scottish Ministers obtain in connection with a determination under regulation E2B(3))”; and
+- (b) in the definition of “qualifying payment” for paragraph (b), substitute–
+
+  > - (b) any amount paid that increases the amount of an earlier payment due to–
+  >   - (i) a backdated or later increase in pensionable pay; or
+  >   - (ii) the payment of an upper tier pension under regulation E2A in place of a lower tier pension being paid to a member following a determination by the Scottish Ministers under regulation E2B(3),
+
+  .
+
+### 12. Amendment of regulation U2(4)(e)[^key-a8ba47bc96397c38a94e52275bcc271b]
+
+In regulation U2(4)(e) (determination of questions) for “and E2A(8), substitute “, E2A(8) and E6,”.
+
+### 13. Amendment of Schedule 1[^key-26605bba23a5c6e445ded5ef6d16f183]
+
+(1) Schedule 1 (medical and dental practitioners) shall be amended as follows.
+
+(2) For paragraph 10(1) to (2X) (contributions to the scheme) substitute–
+
+> (1) In the case of members who are practitioners or non GP providers, regulation D1 (contributions by members) and regulation D2 (contributions by employing authorities) are modified as described in the following sub paragraphs.
+>
+> (2) Subject to sub paragraph (2A), for the 2009 2010 scheme year and each subsequent scheme year, a member’s contribution rate is the percentage specified in column 2 of the following table in respect of the corresponding amount of pensionable earnings specified in column 1 of the table into which the member’s earnings fall.
+>
+> <table>
+> <thead>
+> <tr><th>Column 1</th><th>Column 2</th></tr>
+> <tr><th>Amount of pensionable earnings</th><th>Contribution rate</th></tr>
+> </thead>
+> <tbody>
+> <tr><td>Up to £20,709</td><td>5%</td></tr>
+> <tr><td>£20,710 to £68,392</td><td>6.5%</td></tr>
+> <tr><td>£68,393 to £107,846</td><td>7.5%</td></tr>
+> <tr><td>£107,847 to any higher amount</td><td>8.5%</td></tr>
+> </tbody>
+> </table>
+>
+> (2A) The Scottish Ministers may, with the consent of the Treasury, make a determination substituting any or all of the amounts of pensionable earnings or contribution rates specified in the table in sub paragraph (2) with effect from a date specified in the determination.
+>
+> (2B) Before making a determination under sub paragraph (2A), the Scottish Ministers must consider–
+>
+> - (a) the advice of the scheme actuary; and
+> - (b) in accordance with regulation U4 (cost sharing), advice from such employee and employer representatives as the Scottish Ministers consider appropriate.
+>
+> (2C) If, apart from this sub paragraph, the earnings for a scheme year in respect of a member’s practitioner or non GP provider service would not be a whole number of pounds, those earnings will be rounded down to the nearest whole pound.
+>
+> (2D) If a member is a practitioner or non GP provider as well as (concurrently) employed other than as a practitioner or non GP provider in respect of which he is liable to pay contributions in accordance with regulation D1, the contributions payable in respect of the member's–
+>
+> - (a) practitioner or non GP provider service, shall be determined in accordance with the provisions of these regulations that apply to a practitioner or non GP provider; and
+> - (b) employment as an officer, shall be determined in accordance with the provisions of these Regulations that apply to an officer.
+>
+> (2E) In determining the contributions payable in accordance with paragraph (2), the Contracting Health Board, employing authority or someone appointed on its behalf, must take account of pensionable earnings as a practitioner or as a non GP provider from all practitioner or non GP provider sources.
+>
+> (2F) If, in respect of a scheme year, a practitioner (other than a dentist) or a non GP provider has–
+>
+> - (a) certified their pensionable earnings in accordance with paragraph 23 of this Schedule and forwarded a record of those earnings to the Contracting Health Board or someone appointed on its behalf; or
+> - (b) was not required to certify their earnings in accordance with that paragraph but the Contracting Health Board or someone appointed on its behalf, has the figure that represents the practitioner’s or non GP provider’s pensionable earnings for that scheme year,
+>
+> contributions payable for that scheme year, shall be those specified in column 2 of the table in sub paragraph (2) in respect of the amount of pensionable earnings referred to in column 1 of that table which corresponds to the aggregate of–
+>
+> - (i) certified or final pensionable earnings from all practitioner or non GP provider sources; and
+> - (ii) any additional pensionable earnings the practitioner or non GP provider is treated as having received during an absence from work in accordance with regulation P1 or P2 and the modifications described in paragraph 19 of this Schedule.
+>
+> (2G) Subject to sub paragraph (2H), if sub paragraph (2F) does not apply to a practitioner or to a non GP provider in respect of a scheme year, that practitioner or non GP provider shall pay contributions at the rate in column 2 of the table in sub paragraph (2), which–
+>
+> - (a) has been agreed between the Contracting Health Board or someone appointed on its behalf, in the case of an assistant practitioner or salaried GP their employer, on the one hand and the practitioner or non GP provider on the other hand;
+> - (b) corresponds to the practitioner’s or non GP provider’s most recent certified or final pensionable earnings referred to in sub paragraph (2H); or
+> - (c) corresponds to the Contracting Health Board or someone appointed on its behalf, or estimate of the practitioner’s or non GP provider’s pensionable earnings from all practitioner or non GP provider sources for that year.
+>
+> (2H) If sub paragraph (2G) applies to a practitioner or to a non GP provider in respect of a scheme year and either sub paragraph (2F)(a) or (b) is subsequently satisfied in respect of that scheme year, that practitioner or non GP provider shall pay contributions at the rate determined in accordance with sub paragraph (2F).
+>
+> (2I) A Contracting Health Board or someone appointed on its behalf, or in the case of an assistant practitioner or salaried GP the employing authority, may adjust a practitioner’s or a non GP provider’s contribution rate for any scheme year determined in accordance with sub paragraph (2G)–
+>
+> - (a) by agreement between the Contracting Health Board or someone appointed on its behalf, or in the case of an assistant practitioner or salaried GP the employing authority, on the one hand and the practitioner or non GP provider on the other hand; or
+> - (b) without such agreement, if the Contracting Health Board, or person acting on their behalf, or in the case of an assistant practitioner, the employing authority is satisfied that pensionable earnings will exceed the amount used to determine the contribution rate in accordance with those paragraphs.
+>
+> (2J) If a principal practitioner provides services as a locum practitioner to a health board other than the Contracting Health Board, or other employer–
+>
+> - (a) that health board or other employer must apply member contribution of 6.5%; and
+> - (b) the Contracting Health Board or someone appointed to act on its behalf must apply the correct member contribution rate in terms of paragraph (2F) or (2G) whichever is appropriate once in receipt of certified earnings for the scheme year from the member.
+
+.
+
+(3) For paragraph 14 (lump sum on member’s death in pensionable employment or after pension becomes payable), substitute–
+
+> **14. Lump sum on member’s death in pensionable employment or after pension becomes payable**
+>
+> (1) In the case of members who die in pensionable employment as practitioners, regulation F1 (lump sum payable on member’s death in pensionable employment) is modified so that, in relation to the member’s employment as a practitioner, the reference to final year’s pensionable pay in regulation F1(2) is treated as a reference to–
+>
+> - (a) in the case of a member who is required to pay contributions under regulation D1(4), the yearly average of the member’s uprated earnings at the date of death; or
+> - (b) in the case of a member who is no longer required to pay contributions under regulation D1(4), the yearly average of the member’s uprated earnings on the member’s last day of pensionable service.
+>
+> (2) In the case of members who die after a pension under the scheme in respect of practitioner service becomes payable, regulation 2 (lump sum payable on member’s death after pension becomes available) is modified so that, in relation to the member’s employment as a practitioner, the reference to final year’s pensionable pay in regulation F2(2) is treated as a reference to the yearly average of the member’s uprated earnings on the member’s last day of pensionable service.
+
+.
+
+(4) For paragraph 23 (accounts and actuarial reports), substitute–
+
+> **23. Accounts and actuarial reports**
+>
+> (1) In the case of members who are practitioners or non GP providers, regulation U3 (accounts and actuarial reports) is modified as described in this paragraph.
+>
+> (2) In respect of each scheme year, a principal medical practitioner or a non GP provider shall provide the Contracting Health Board or someone appointed to act on their behalf with a certificate of his pensionable earnings based on–
+>
+> - (a) the accounts drawn up in accordance with generally accepted accounting practice by the practice of which the member is a member; and
+> - (b) the return that member has made to Her Majesty’s Revenue & Customs in respect of their earnings for that year,
+>
+> no later than 1 month after the date on which that return was required to be submitted to Her Majesty’s Revenue and Customs.
+>
+> (3) In respect of each scheme year, an assistant medical practitioner or salaried GP shall provide each relevant employer with a certificate of their pensionable earnings based on–
+>
+> - (a) the payments he receives from employing authorities for practitioner services; and
+> - (b) the return that member has made to Her Majesty’s Revenue & Customs in respect of his earnings for that year,
+>
+> no later than 1 month after the date on which that return was required to be submitted to Her Majesty’s Revenue and Customs.
+>
+> (4) Where the member is an assistant practitioner–
+>
+> - (a) in respect of each scheme year, in order that a correct contribution tier can be allocated the member must provide each employer with an estimate of pensionable practitioner earnings from all employments;
+> - (b) at the end of each scheme year, the member must provide the Scottish Ministers with a statement from each employer of actual pensionable practitioner earnings from all employments and to provide a copy of this information to the scheme administrator; and
+> - (c) the information required in paragraphs (a) and (b) shall be in such form as the Scottish Ministers require.
+>
+> (5) The Scottish Ministers shall be provided with–
+>
+> - (a) the estimate referred to in sub paragraph (4)(a) at least 1 month before the beginning of that scheme year;
+> - (b) the statement referred to in sub paragraph (4)(b) no later than 3 months after the end of that scheme year.
+>
+> (6) The Contracting Health Board, or someone appointed to act on their behalf, for each scheme year and no later than 13 months after the end of each scheme year, must forward to the Scottish Ministers a copy of the records they maintain in respect of–
+>
+> - (a) all contributions to the scheme made under paragraph 10 of this Schedule in respect of principal medical practitioners and non GP providers; and
+> - (b) their pensionable earnings.
+>
+> (7) Subject to sub paragraphs (8) and (9), if, in respect of a scheme year, a member has failed to comply with the requirements of whichever of sub paragraphs (2) to (5) applies to that member, the member’s pensionable earnings for that scheme year shall be zero.
+>
+> (8) If, in respect of a scheme year–
+>
+> - (a) a practitioner or non GP provider has failed to comply with the requirements of whichever of sub paragraphs (2) to (5) applies to him;
+> - (b) a benefit in respect of such service is payable to, or in respect of that member, under these Regulations; and
+> - (c) the member’s employing authority or if a Contracting Health Board, or someone appointed to act on their behalf is in possession of a figure representing all or part of the member’s pensionable earnings for that year,
+>
+> the Scottish Ministers may treat that figure as the amount of the member’s pensionable earnings for that year.
+>
+> (9) If, in respect of a scheme year, a practitioner or non GP provider–
+>
+> - (a) dies without complying with the requirements of whichever of sub paragraphs (2) to (5) applies to him; or
+> - (b) is, in the opinion of the Scottish Ministers, unable to look after his own affairs by reason of illness or mental disorder,
+>
+> the Scottish Ministers may require that practitioner or non GP provider’s personal representatives or person (or person's) duly authorised to act on the member’s behalf to provide the relevant certificate–
+>
+> - (i) within the period referred to in whichever of sub paragraphs (2) to (5) was or is applicable to them; or
+> - (ii) within such other period as the Scottish Ministers permit.
+>
+> (10) The certificates and statements referred to in this regulation–
+>
+> - (a) must be in such form as the Scottish Ministers shall from time to time require;
+> - (b) must be provided to the Scottish Ministers in such manner as the Scottish Ministers may from time to time permit.
+
+.
+
+### 14. Amendment of Schedule 1A[^key-efe07c681d23addf7b7227ac6f5d41ec]
+
+(1) Schedule 1A (pension sharing on divorce or nullity of marriage or, on the dissolution or nullity of a civil partnership) shall be amended as follows.
+
+(2) In paragraph 5 (contracting out and guaranteed minimum pension) omit sub paragraphs (b) and (c).
+
+(3) In paragraph 9 (offset for crime, fraud or negligence), omit sub paragraph (b).
+
+(4) In paragraph 10 (loss of rights to benefits) omit sub paragraph (b).
+
+## PART 3 — Amendment of the National Health Service Pension Scheme (Scotland) Regulations 2008
+
+### 15. Interpretation of Part 3[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Amendment of regulation 2.A.1[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Amendment of regulation 2.A.9[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Amendment of regulation 2.A.10[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Amendment of regulation 2.B.2[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Amendment of regulation 2.C.2[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Replacement of regulation 2.C.3[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Replacement of regulation 2.C.4[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Amendment of regulation 2.C.5[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Amendment of regulation 2.D.4[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Amendment of regulation 2.D.5[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Amendment of regulation 2.D.6[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Amendment of regulation 2.D.7[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Amendment of regulation 2.D.8[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Amendment of regulation 2.D.9[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. Amendment of regulation 2.D.11[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. Amendment of regulation 2.D.13[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 32. Amendment of regulation 2.D.14[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 33. Amendment of regulation 2.D.15[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Amendment of regulation 2.D.17[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35. Amendment of regulation 2.D.21[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Amendment of regulation 2.E.1[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Amendment of regulation 2.E.3[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 38. Amendment of regulation 2.E.4[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39. Amendment of regulation 2.E.7[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40. Amendment of regulation 2.E.10[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 41. Amendment of regulation 2.E.11[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 42. Amendment of regulation 2.E.12[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 43. Amendment of regulation 2.E.13[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 44. Amendment of regulation 2.E.15[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 45. Amendment of regulation 2.E.17[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 46. Amendment of regulation 2.E.18[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 47. Amendment of regulation 2.E.19[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 48. Amendment of 2.E.25[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 49. Amendment of 2.F.8[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 50. Amendment of regulation 2.G.5[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 51. Amendment of regulation 2.J.5[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 52. Amendment of regulation 2.J.9[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 53. Amendment of regulation 2.J.13[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 54. Amendment of regulation 3.A.1[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 55. Amendment of regulation 3.B.2[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 56. Amendment of regulation 3.B.5[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 57. Amendment of regulation 3.C.2[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 58. Amendment of regulation 3.C.3[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 59. Amendment of regulation 3.D.4[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 60. Amendment of regulation 3.D.5[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 61. Amendment of regulation 3.D.6[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 62. Amendment of regulation 3.D.7[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 63. Amendment of regulation 3.D.8[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 64. Amendment of regulation 3.D.10[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 65. Amendment of regulation 3.D.11[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 66. Amendment of regulation 3.D.13[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 67. Amendment of regulation 3.D.17[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 68. Amendment of regulation 3.E.1[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 69. Amendment of regulation 3.E.3[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 70. Amendment of regulation 3.E.4[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 71. Amendment of regulation 3.E.7[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 72. Amendment of regulation 3.E.8[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 73. Amendment of regulation 3.E.10[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 74. Amendment of regulation 3.E.11[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 75. Amendment of regulation 3.E.12[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 76. Amendment of regulation 3.E.13[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 77. Amendment of regulation 3.E.15[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 78. Amendment of regulation 3.E.17[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 79. Amendment of regulation 3.E.18[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 80. Amendment of regulation 3.E.19[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 81. Amendment of regulation 3.E.25[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 82. Amendment of regulation 3.F.8[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 83. Amendment of regulation 3.G.5[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 84. Amendment of regulation 3.J.5[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 85. Amendment of regulation 3.J.9[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 86. Amendment of regulation 3.J.13[^key-a53058663efe03fa3e8f59f54c1d2d92]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Amendment of the National Health Service (Injury Benefits) (Scotland) Regulations 1998
+
+### 87. Interpretation of Part 4[^key-c7d9e128ec3bdf44bbd8a186b02f0d8e]
+
+In this Part an alphanumerical reference to a regulation is a reference to a provision of the National Health Service (Injury Benefits) (Scotland) Regulations 1998[^f00005] bearing that designation.
+
+### 88. Amendment of regulation 2[^key-a47b12b7706737a9110c0f37d22fc3c6]
+
+In regulation 2(1) (interpretation) at the appropriate place in the alphabetical order insert–
+
+> - “ophthalmic provider” has the same meaning as in whichever of the 1995 Regulations or 2008 Regulations apply to that provider;
+
+.
+
+### 89. Amendment of regulation 4[^key-62e579829303a6ff86c9a409f27455ff]
+
+In regulation 4(6) (scale of benefits), after sub paragraph (b)(v), add–
+
+> - (vi) employment and support allowance payable under section 1(2)(a) of the Welfare and Reform Act 2007, in respect of the injury or disease, during the ‘assessment phase’ referred to in section 2 of that Act, or as the case may be, after that phase has ended.
+
+.
+
+### 90. Amendment of regulation 13[^key-88ba35e8b1dcf9938f9ae90a16602da2]
+
+In regulation 13 (review and adjustment of allowance ), after paragraph (1) insert–
+
+> (1A) For the purposes of paragraph (1)(b)–
+>
+> - (a) employment and support allowance payable during the assessment phase for that benefit and employment and support allowance payable after that phase has ended shall be treated as separate benefits; and
+> - (b) where employment and support allowance was awarded to a person prior to 1st April 2009 and that person continues to be entitled to that allowance on that day, payment of that allowance shall be deemed to have commenced on that day.
+
+.
+
+## PART 5 — Miscellaneous
+
+### 91. Option to persons detrimentally affected by these Regulations[^key-97cf920bbd26b71124ffff62da2e9321]
+
+(1) This regulation applies in relation to any benefit which is being paid or may become payable under the Regulations amended by these Regulations to or in respect of a person who, having served in an employment or office, service in which qualified the person to participate in the benefits provided under the Regulations amended by these Regulations, ceased to serve therein before these Regulations came into force.
+
+(2) Where, in a case to which this regulation applies, any provision of these Regulations would operate in relation to any person so as to place that person in a worse position than that person would have been if that provision had not applied, that person may elect that the provision shall not apply by giving notice in accordance with paragraph (3).
+
+(3) A notice given pursuant to paragraph (2) shall be in writing and shall be delivered to the Scottish Ministers within 6 months of the coming into force of these Regulations or such longer period as the Scottish Ministers may allow.
+
+(4) An election pursuant to paragraph (2) shall have effect in relation to the benefit referred to in paragraph (1) only to the extent that such benefit has accrued by virtue of periods of service rendered prior to the cessation referred to in paragraph (1) (or, if there has been more than one such cessation, the last of them before the coming into force of these Regulations) and in determining entitlement to, and the amount of, the benefit to that extent, such person shall be treated as if that person had never recommenced service at any time after that cessation (or, as the case may be, the last such cessation).
+
+JOHN SWINNEY
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+21st May 2009
+
+We consent
+
+TONY CUNNINGHAM
+
+FRANK ROY
+
+Two of the Lord’s Commissioners of Her Majesty’s Treasury
+
+1st June 2009
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service Superannuation Scheme (Scotland) Regulations 1995 (S.I. [1995/365](https://www.legislation.gov.uk/uksi/1995/365)) (“the 1995 Regulations”) which establishes the National Health Service Superannuation Scheme for Scotland, the National Health Service Pension Scheme (Scotland) Regulations 2008 (S.S.I.
+
+[2008/224](https://www.legislation.gov.uk/ssi/2008/224)) (“the 2008 Regulations”) which establishes the National Health Service Pension Scheme for Scotland and the National Health Service (Injury Benefits) (Scotland) Regulations 1998 (S.I. [1998/1594](https://www.legislation.gov.uk/uksi/1998/1594)) (“the Injury Benefits Regulations”).
+
+Regulation 1 provides for citation, commencement and effect, including that certain provisions of this instrument are to take effect from various dates before the date of commencement through use of the power in section 12(1) of the Superannuation Act 1972.
+
+The remainder of these Regulations are divided into four Parts, with Parts 2 to 4 amending the 1995 Regulations, the 2008 Regulations and the Injury Benefits Regulations respectively, and Part 5 providing that certain persons detrimentally affected by provisions in these Regulations having retrospective effect may elect for the provisions not to apply to them.
+
+Parts 2 and 3 make parallel amendments in respect of both the 1995 Regulations and the 2008 Regulations. Part 2 also introduces amendments specific to the 1995 Regulations and Part 3 makes amendments specific to the 2008 Regulations.
+
+The changes dealing with parallel issues in Parts 2 and 3 comprise the following. The introduction of changes to the way tiered contributions rates for members are assessed for the Scheme year 2009–10 and subsequently (regulations 4, 13, 20, 21, 22 and 57); the introduction of new estimates and end-of-year certificates of NHS Scheme pensionable earnings and contributions, for assistant and salaried medical practitioner completion (regulations 3, 57 and 86); the clarification of the benefits payable in respect of a period of re-employment following ill health retirement and the benefits payable in respect of ill health pensioners whose lower tier ill health pension is replaced by an upper tier ill health pension including, where appropriate, the payment of statutory interest (regulations 3, 5, 7, 8, 10, 11, 19, 29, 32(b) and (c), 50, 52, 55, 63, 64(b), 83 and 85); the clarification of the pay on which a lump sum death benefit is paid in respect of a practitioner (regulations 13(3), 69, 71, and 80); the deletion of references to “safeguarded rights” which were abolished by S.S.I.
+
+[2009/598](https://www.legislation.gov.uk/ssi/2009/598) (regulations 14, 34, 66 and 84).
+
+The changes specific to Part 2 are the inclusion of a reference to nominated partners in regulations providing for child pensions paid following the death of a pensioner (regulation 9); the inclusion of a reference to the requirements of the lump sum rule in the Finance Act 2004 in connection with benefits to be commuted on terminal illness (regulation 6); and preserved pensions become subject to the Scottish Ministers' determination on whether the member is entitled to commutation of their benefits because of terminal illness (regulation 12).
+
+The changes specific to Part 3 are the introduction of a new definition of “non-contributing member” and the revision of the existing definition of “member” to include “non-contributing members” (regulations 16 and 59); a new employer contribution rate from 1st April 2009 (regulations 23 and 58); provision for the benefits to be paid on the retirement or death of a non-contributing member (regulations 18, 24, 25, 26, 27, 28, 30, 31, 33, 35, 36, 37, 39, 40(a), (b), (d) and (e), 41, 42, 44, 45, 46, 47, 59, 60, 61, 62, 65, 67, 68(a), 69, 71, 73(a), (b), (d) and (e), 74, 75, 77, 78, 79, and 80); provision for the amount of service to be used when calculating a child’s pension (regulations 40(c), 43, 73(c) and 76); provision for abatement to be disregarded in certain circumstances following the death of a pensioner (regulations 38 and 70); changes to cross references in regulations dealing with breaks in service and children’s pensions (regulation 17 and 42); and changes to a cross reference in the definition of “active member” (regulation 54(a)).
+
+The changes made to the Injury Benefits Regulations by Part 4 are the following: inserting a definition of “ophthalmic provider” (regulation 88); providing for the employment and support allowance payable under section 1(2)(a) of the Welfare and Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5) to be taken into account in calculating benefits under the Injury Benefits Regulations (regulation 89); and providing for when employment and support allowance payable is taken into account in that calculation (regulation 90).
+
+Part 5 provides that deferred members, or members in receipt of a relevant benefit, who are detrimentally affected by these Regulations may elect for the provisions not to apply to them by giving notice within six months of the coming into force of these Regulations (regulation 91).
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); sections 10 and 12 were amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7), sections 4(2), 8(5) and 10; section 10(6) was amended by the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), Schedule 8, paragraph 7 and by the Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)), Article 108. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of article 2 of, and Schedule 1 to, the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999 (S.I. [1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)).
+
+[^f00002]: Footnote: See the Superannuation Act 1972, section 10(1). This function was transferred to the Treasury by virtue of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 (S.I. [1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)), article 2 and is still exercisable by virtue of S.I. [1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and Schedule 1.
+
+[^key-13a39298e907a73b8c7cb21af6bc9270]: Commencement: Reg. 1 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-ee9ac6ce93e7f7bf4c2df99e16a3af0c]: Commencement: Reg. 2 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^f00003]: Footnote: S.I. [1995/365](https://www.legislation.gov.uk/uksi/1995/365) amended by S.I. [1997/1434](https://www.legislation.gov.uk/uksi/1997/1434) and [1916](https://www.legislation.gov.uk/uksi/1997/1916), [1998/1593](https://www.legislation.gov.uk/uksi/1998/1593), [1999/443](https://www.legislation.gov.uk/uksi/1999/443), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011) and [S.S.I. 2001/437](https://www.legislation.gov.uk/ssi/2001/437) and [465](https://www.legislation.gov.uk/ssi/2001/465), [2003/55](https://www.legislation.gov.uk/ssi/2003/55), [270](https://www.legislation.gov.uk/ssi/2003/270) and [517](https://www.legislation.gov.uk/ssi/2003/517), [2005/512](https://www.legislation.gov.uk/ssi/2005/512) and [544](https://www.legislation.gov.uk/ssi/2005/544), [2006/307](https://www.legislation.gov.uk/ssi/2006/307) and [561](https://www.legislation.gov.uk/ssi/2006/561), [2008/92](https://www.legislation.gov.uk/ssi/2008/92) and [226](https://www.legislation.gov.uk/ssi/2008/226) and [2009/19](https://www.legislation.gov.uk/ssi/2009/19).
+
+[^key-48de878823ec683247b75facf9820fe6]: Commencement: Reg. 3 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-299316e317dbe83bcca022b887162cfa]: Commencement: Reg. 4 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-f004d7fc940cf59dbd0c440445b9dfba]: Commencement: Reg. 5 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-29efeb839a5cc1c66d1c871c9bad0469]: Commencement: Reg. 6 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-760c0873d1a3630c389345f1f3da67da]: Commencement: Reg. 7 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-23ad219d4bf94890f7fa903ca692c2fb]: Commencement: Reg. 8 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-f78f22db35873085f09310f6083af728]: Commencement: Reg. 9 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-2274c989cef71d5759585215d1b295f0]: Commencement: Reg. 10 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-933daf4bf0807097c3e1557566c19dc9]: Commencement: Reg. 11 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-a8ba47bc96397c38a94e52275bcc271b]: Commencement: Reg. 12 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-26605bba23a5c6e445ded5ef6d16f183]: Commencement: Reg. 13 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-efe07c681d23addf7b7227ac6f5d41ec]: Commencement: Reg. 14 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-a53058663efe03fa3e8f59f54c1d2d92]: Textual amendment: [Regs. 15-86](https://www.legislation.gov.uk/ssi/2009/208/regulation/15) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.01(2)](https://www.legislation.gov.uk/ssi/2013/174/part/1/chapter/1.A/regulation/1n1), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.01(2)](https://www.legislation.gov.uk/ssi/2013/174/part/5/chapter/5.B/regulation/5))
+
+[^key-c7d9e128ec3bdf44bbd8a186b02f0d8e]: Commencement: Reg. 87 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^f00005]: Footnote: S.I. [1998/1594](https://www.legislation.gov.uk/uksi/1998/1594) as amended by S.I. [1999/195](https://www.legislation.gov.uk/uksi/1999/195) and [444](https://www.legislation.gov.uk/uksi/1999/444), [S.S.I. 2001/437](https://www.legislation.gov.uk/ssi/2001/437), [2004/212](https://www.legislation.gov.uk/ssi/2004/212), [2005/512](https://www.legislation.gov.uk/ssi/2005/512), [2008/92](https://www.legislation.gov.uk/ssi/2008/92) and [225](https://www.legislation.gov.uk/ssi/2008/225) and [2009/19](https://www.legislation.gov.uk/ssi/2009/19).
+
+[^key-a47b12b7706737a9110c0f37d22fc3c6]: Commencement: Reg. 88 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-62e579829303a6ff86c9a409f27455ff]: Commencement: Reg. 89 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-88ba35e8b1dcf9938f9ae90a16602da2]: Commencement: Reg. 90 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)
+
+[^key-97cf920bbd26b71124ffff62da2e9321]: Commencement: Reg. 91 in force at 26.6.2009, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2009/208/regulation/1/2)

@@ -1,0 +1,501 @@
+---
+title: The Land Register of Scotland (Automated Registration) etc. Regulations 2014
+id: ssi/2014/347
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-12-02'
+text_date: '2018-03-12'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2014/347
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2014/347/pdfs/ssipn_20140347_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/347/pdfs/ssi_20140347_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/347/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Land Register of Scotland (Automated Registration) etc. Regulations 2014
+
+> Text as at 2018-03-12.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2014 No. 347
+
+Land Registration
+
+The Land Register of Scotland (Automated Registration) etc. Regulations 2014
+
+Made
+
+2nd December 2014
+
+Coming into force
+
+8th December 2014
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 99(3), 100 and 115(1)(c) of the Land Registration etc. (Scotland) Act 2012[^f00001] (“the Land Registration Act”), sections 9E(1)(b) and 9G(3) and (5)(a) of the Requirements of Writing (Scotland) Act 1995[^f00002] (“the Requirements of Writing Act”) and all other powers enabling them to do so.
+
+In accordance with section 99(4) of the Land Registration Act, they have consulted the Keeper of the Registers of Scotland (“the Keeper”).
+
+In accordance with section 100(4) of the Land Registration Act and section 9G(4) of the Requirements of Writing Act[^f00003], they have consulted the Keeper, the Keeper of the Records of Scotland and the Lord President of the Court of Session.
+
+In accordance with section 116(3)(j) of the Land Registration Act and section 9E(4)(a) of the Requirements of Writing Act, a draft of the Regulations has been laid before and approved by resolution of the Scottish Parliament[^f00004].
+
+## 1. Citation, commencement and interpretation[^key-0210a6c069ceb18a0314942ac10ca338]
+
+(1) These Regulations may be cited as the Land Register of Scotland (Automated Registration) etc. Regulations 2014 and come into force on 8th December 2014.
+
+(2) In these Regulations—
+
+- [^key-cf63f39cd25aa1f5fd7676dfc0a774ad]...
+- “authorised deed” means a deed which complies with regulation 2;
+- “authorised person” means a person granted authorisation by the Keeper under regulation 3 to use the digital registration[^key-ce25956f88d7049b2307533674578f02] system;
+- “digital registration[^key-13f11932bc17253f2431ec79cf855c2f] document” means a document created as an electronic communication within the digital registration system;
+- “digital registration system” means a computer system managed and controlled by the Keeper in accordance with section 99(1) of the Land Registration[^key-c67d625fc8496947e9473c0966ef8c92] etc. (Scotland) Act 2012;
+- [^key-f65ae67f0eb2ed9d39afda7f413f6b61]...
+- “user” means an individual who is authorised by an authorised person to use the digital registration system on behalf of that person[^key-b5945a7be7f5c64fa7e24e225d8fec8a].
+
+(3) In these Regulations, a reference to a document being in writing includes an electronic communication within the meaning of section 15(1) (general interpretation) of the Electronic Communications Act 2000[^f00005], which has been recorded and is consequently capable of being reproduced.
+
+## 2. Deeds to be used in the digital registration system[^key-069b494e36723974881e65f64d042f19][^key-b266fc5560d2b3cb9b72b98558a918d6]
+
+(1) The deeds mentioned in paragraph (2) are authorised to be created as a digital registration document[^key-6b8eecaf0fa834ffe3e2bb140504c74d] where they relate to the whole of a registered plot of land.
+
+(2) The deeds are—
+
+- (a) a disposition;
+- (b) an assignation of a lease;
+- (c) a standard security;
+- (d) a discharge of a standard security;
+- (e) an assignation of a standard security;
+- (f) a Notice of Payment of Grant (under the Housing (Scotland) Act 2006[^f00006] (“the 2006 Act”);
+- (g) a Charging Order[^f00007];
+- (h) a discharge of a Charging Order;
+- (i) a Notice of Cessor of Conditions of Improvement Grant (under the 2006 Act);
+- (j) a Notice of Cessor of Conditions of Repair Grant (under the 2006 Act); and
+- (k) a repayment charge.
+
+(3)[^key-fe49a88b3af5f99564a781224f788da4] The deeds mentioned in paragraph (2) relating to part of a registered plot of land or any other kinds of deeds are authorised to be created as a digital registration document where their use in the digital registration system has been published on the Keeper’s website.
+
+(4) Before publishing such deeds or kinds of deed for use, the Keeper must—
+
+- (a) consult the Scottish Ministers about that authorisation; and
+- (b) state the date on which that authorisation comes into effect.
+
+## 3. Authorisation to use the digital registration system[^key-64ed423ff85b0ad735c5c28a0b550800][^key-93eb9f7429970792eb27fb905e9cecb6]
+
+(1) Any firm of solicitors (including a sole practitioner or partnership), firm of licensed conveyancers, commercial lender (within the meaning of section 75(5) of the Housing (Scotland) Act 2006), local authority or other person may apply to the Keeper for authorisation to use the digital registration[^key-54763b30121359f1807b162876102ad3] system.
+
+(2) The Keeper must consider an application for authorisation and must either grant or refuse to grant authorisation within 28 days beginning on the date of receipt of the application and must notify the applicant of the decision.
+
+(3) If the Keeper refuses to grant authorisation, the Keeper must, when notifying the applicant, provide reasons for the refusal.
+
+(4) The authorisation under paragraph (2) must be in writing and subject to the conditions set out in regulation 4.
+
+## 4. Duties of authorised persons[^key-e80803c7a24032627f4bd2efe4df9445]
+
+(1)[^key-39a3d506bcbe492f0c17c7e25349e054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-39a3d506bcbe492f0c17c7e25349e054] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Prior to using the digital registration[^key-b58149c897f2fb9951bfdaf4651f62bc] system, the authorised person [^key-06f9f3f5443289eda5fc97e583aedfc6]... and each user must submit to the Keeper agreement to the terms and conditions of use of that system by completing the appropriate box on the digital registration system.
+
+(4) Those terms and conditions are those in respect of the authorised person which the Keeper acting reasonably considers appropriate, which have been notified to the authorised person [^key-24d78fd22edcf3101b1041e3cf058e88]... or user from time to time to protect the security, integrity or stability of the digital registration[^key-077264a9eb0f77ddec88bfd254d63c03] system (including terms and conditions as to the insolvency or inactivity of any person or user)[^key-b151128161abed894407591fc2cce0c7].
+
+(5) A person may not be an authorised person[^key-65f282655f8d07f7b0c27591668bd1ac] or user if that person—
+
+- (a) has a conviction for fraud; or
+- (b) is a disqualified person.
+
+(6) In paragraph (5)(b) a disqualified person means—
+
+- (a) in the case of a solicitor, a person who is—
+  - (i) disqualified from practising as a solicitor by reason of the fact that his or her name has been struck off the roll of solicitors; or
+  - (ii) suspended from practising as a solicitor,
+
+  by the Law Society of Scotland or the Scottish Solicitors’ Discipline Tribunal;
+- (b) in the case of a registered foreign lawyer, a person—
+  - (i) whose name has been removed from the register of foreign lawyers by the Scottish Solicitors’ Discipline Tribunal; or
+  - (ii) whose certificate of registration as a registered foreign lawyer has been suspended in accordance with section 24F of the Solicitors (Scotland) Act 1980[^f00008]; or
+- (c) in the case of a registered European lawyer, a person—
+  - (i) whose name has been removed from the register of European lawyers by the Scottish Solicitors’ Discipline Tribunal; or
+  - (ii) whose certificate of registration as a registered European lawyer has been suspended in accordance with section 24F of the Solicitors (Scotland) Act 1980.
+
+## 5. Suspension or revocation of authorisation under regulation 3[^key-51dbb400f9d850e546e900bac2931fd0]
+
+(1) The Keeper may at any time suspend or revoke an authorisation under regulation 3.
+
+(2) The powers referred to in paragraph (1) may be exercised—
+
+- (a) on a contravention of [^key-fe291bef05d3ec6a715fb3cbd327e733]... these Regulations or a material breach of terms and conditions imposed under regulation 4[^key-9617fe9223c7fb34981ac82ec8ff0bf0]; or
+- (b) where any information provided by the authorised person [^key-5f001883d024dc7326e48cb723f05d5a]... is false.
+
+(3) Where any of the powers referred to in paragraph (1) is exercised the Keeper must—
+
+- (a) notify the authorised person in writing of the suspension or revocation; and
+- (b) in the case of any current digital certificate issued by the Keeper,[^key-f2c8f3212af892021f56f90ff6db2652] revoke the authorised person’s digital certificate.
+
+(4) In this regulation—
+
+- “digital certificate” has the meaning given in the Electronic Documents (Scotland) Regulations 2014[^f00009].
+
+## 6. Appeals[^key-7883fdfec826a1b6de70591fd3ba416e]
+
+(1) A person who has had an application for authorisation under regulation 3 refused, or an authorisation under regulation 5 suspended or revoked by the Keeper may appeal to the Scottish Ministers against the decision of the Keeper.
+
+(2) On determining an appeal against a decision of the Keeper, the Scottish Ministers may—
+
+- (a) affirm the decision;
+- (b) if the decision was a refusal to grant an authorisation, direct the Keeper to grant the authorisation;
+- (c) if the decision was a suspension of an authorisation, direct the Keeper to remove the suspension; or
+- (d) if the decision was a revocation of an authorisation, direct the Keeper to reinstate the authorisation.
+
+(3) Schedule 1, which makes provision for procedures for appeals under this regulation, has effect.
+
+## 7. Procedure for application for registering an authorised deed[^key-0183ba749b0facec294cfcc706c40008][^key-582b69cf2c532e9d398c5ac9866ed7fc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Land Register Rules etc. (Scotland) Regulations 2014[^key-b59bd43ffac94c4b8152fa5d94c536cc]
+
+(1) The Land Register Rules etc. (Scotland) Regulations 2014[^f00010] are amended as follows.
+
+(2) At the end of regulation 7 (form to apply for registration in the Land Register) insert “except where the application for registration is made using the ARTL system as defined in the Electronic Documents (Scotland) Regulations 2014”.
+
+## 9. Amendment of the Electronic Documents (Scotland) Regulations 2014[^key-fea97daa7af1a617f505bbf9103af475]
+
+(1) The Electronic Documents (Scotland) Regulations 2014 are amended as follows.
+
+(2) In regulation 1(2) (interpretation)—
+
+- (a) before the definition of “electronic document”, insert—
+
+  > - “the ARTL system” means the computer system managed and controlled by the Keeper to facilitate the creation of electronic documents and the electronic generation and communication of an application for registration of a deed relating to a registered plot in the Land Register of Scotland and automated registration of that deed in accordance with section 99(1) of the Land Registration etc. (Scotland) Act 2012[^f00011];
+  > - “ARTL document” means a document created as an electronic communication within the ARTL system;
+  > - “digital certificate” means an electronic document in a standardised format[^f00012] which proves ownership of a “public key”, includes information about its owner’s identity and is digitally signed by the organisation that has verified the certificate’s contents are correct and issued the certificate;
+
+  ; and
+- (b) after the definition of “electronic document”, insert—
+
+  > - “the Keeper” means the Keeper of the Registers of Scotland;
+  > - “public key” is one of a pair of mathematical keys that are used in the authentication of electronic documents, which is intrinsically linked with the private key (although it is computationally infeasible to determine one key from knowledge of the other key) and is made public and forms part of the digital certificate;
+  > - “private key” is one of a pair of mathematical keys that are used in the authentication of electronic documents, which is intrinsically linked with the public key (although it is computationally infeasible to determine one key from knowledge of the other key) and is kept private to be used, in combination with data from an electronic document, to create a digital signature which is uniquely linked to both the signer of the document and the document itself;
+  > - “signature-creation data” has the meaning given in Article 2(4) of [Directive 1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) of the European Parliament and of the Council of 13th December 1999 on a Community framework for electronic signatures[^f00013].
+
+  .
+
+(3) After regulation 4 (annexations to electronic documents) insert—
+
+> **5. Authentication of electronic documents: special cases**
+>
+> (1) An electronic signature applied to an electronic document where the granter is a person mentioned in paragraphs (2) to (7) is authenticated as follows.
+>
+> (2) Where the granter is a partnership[^f00014], an electronic signature on behalf of the partnership must be applied by—
+>
+> - (a) a partner; or
+> - (b) a person authorised to sign by the partnership.
+>
+> (3) Where the granter is a limited liability partnership, an electronic signature on behalf of the limited liability partnership must be applied by a member of the limited liability partnership.
+>
+> (4) Where the granter is a company, an electronic signature on behalf of the company must be applied by—
+>
+> - (a) a director of the company;
+> - (b) a secretary of the company; or
+> - (c) a person authorised to sign by the company.
+>
+> (5) Where the granter is a local authority, an electronic signature on behalf of the local authority must be applied by a proper officer of the authority.
+>
+> (6) Where the granter is a body corporate other than a company or a local authority, the electronic signature on behalf of the body corporate must be applied by—
+>
+> - (a) a member of the body’s governing board;
+> - (b) a member of the body;
+> - (c) a secretary of the body; or
+> - (d) a person authorised to sign by the body.
+>
+> (7) Where the granter is a Minister or office holder, the electronic signature by or on behalf of the Minister or office holder must be applied by—
+>
+> - (a) the Minister or office holder;
+> - (b) where permitted by an enactment that a document may be signed by an officer of the Minister or by any other Minister, the officer or other Minister;
+> - (c) where permitted by an enactment that a document may be signed by an officer of the office holder, the officer; or
+> - (d) a person authorised to sign by the Minister or office holder.
+>
+> **6. Registration of electronic documents in the Land Register**
+>
+> An ARTL document to be registered in the Land Register of Scotland must be—
+>
+> - (a) in the form of a PDF[^f00015] created in the ARTL system; and
+> - (b) authenticated by the type of electronic signature created by signature-creation data associated with a digital certificate supplied by the Keeper; and
+> - (c) certified by a digital certificate which must—
+>   - (i) comply with the International Telecommunication Union Telecommunication Standardization Sector (ITU-T) cryptography standard X509 (10/12)[^f00016] (“X509”);
+>   - (ii) be bound to the holder in an identification process which meets a minimum of a level 3 Identity as specified in the Cabinet Office Good Practice Guide No. 45, Identity proofing and verification of an individual[^f00017];
+>   - (iii) use a public key and private key pair which are at least 1024 bits;
+>   - (iv) employ a hashing algorithm no less satisfactory than Secure Hash Algorithm-1 (SHA-1)[^f00018];
+>   - (v) not be subject to any limitation preventing use for authentication of conveyancing deeds and documents or certification of Stamp Duty Land Tax land transaction returns;
+>   - (vi) be certified under a certificate in respect of which revocation is managed by a Certificate Revocation List compliant with X509;
+>   - (vii) be issued under policy, contractual and reliance documentation which contains no exclusion or limitation of liability clauses inappropriate to the reliance placed on conveyancing deeds, land registration applications and tax returns; and
+>   - (viii) not be created under policy, contractual or reliance documentation including choice of law or prorogation of jurisdiction clauses serving to refer Scots land law and property registration issues to the courts or legal system of a jurisdiction other than Scotland; or to refer Stamp Duty Land Tax issues to the courts or legal system of a jurisdiction outwith the United Kingdom.
+>
+> **7. Registration of ARTL standard securities for preservation and execution**
+>
+> (1) An extract of an electronic standard security that has been created as an ARTL document may be registered for preservation and execution in the Books of Council and Session.
+>
+> (2) An extract registered in accordance with paragraph (1) is to be treated for the purposes of executing any diligence as if—
+>
+> - (a) the standard security were created by a document to which section 9C(1) of the 1995 Act[^f00019] applies; and
+> - (b) the extract were that electronic standard security.
+
+.
+
+FERGUS EWING
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+2nd December 2014
+
+## SCHEDULE 1 — Appeals
+
+Regulation 6(3)
+
+### 1.[^key-54cf62f22b383b8ab5f46538aa96e440]
+
+A person who wishes to appeal to the Scottish Ministers under regulation 6 must give to the Scottish Ministers written notice of the appeal together with the documents specified in paragraph 2 and must at the same time send to the Keeper a copy of that notice together with a copy of the document specified in paragraph 2(a).
+
+### 1A.[^key-de0974ed0f374b51cfb1a6393c6495bd]
+
+Where the notice of the appeal of a suspension or revocation of an authorisation so requests, the Scottish Ministers may determine whether to reinstate the authorisation pending determination of the appeal.
+
+### 2.[^key-055e66de649ead5a0b1b031e1ce9d30e]
+
+The documents mentioned in paragraph 1 are—
+
+- (a) a statement of the grounds of appeal;
+- (b) a copy of any relevant application;
+- (c) a copy of any relevant authorisation;
+- (d) a copy of any relevant correspondence between the appellant and the Keeper; and
+- (e) a copy of any decision which is the subject matter of the appeal.
+
+### 3.[^key-1929913ce6d5a6b5f2371d5e88937b3c]
+
+An appellant may withdraw an appeal by notifying the Scottish Ministers in writing and must send a copy of that notification to the Keeper.
+
+### 4.[^key-19f92b66fd0c44e6afdeee9e660f28ba]
+
+Subject to paragraph 5, notice of appeal in accordance with paragraph 1 is to be given, in the case of an appeal against a decision to—
+
+- (a) refuse an authorisation, before the expiry of 3 months beginning with the date of the decision; or
+- (b) suspend or revoke an authorisation—
+  - (i) where a period of notice is given in the notice, before the date on which the suspension or revocation takes effect; or
+  - (ii) where immediate, before the expiry of 3 months beginning with the date of the suspension or revocation.
+
+### 5.[^key-b5939bd4d15d9e7b7ae5bdc5c8d695f4]
+
+The Scottish Ministers may where there is a good reason to do so allow notice of appeal to be given after the expiry of the period mentioned in paragraph 4(a) or (b)(ii).
+
+### 6. Procedure for appeals[^key-958cede56a319012a96bbf0f768f0e87]
+
+The Keeper must submit written representations to the Scottish Ministers not later than 28 days after the date of receiving a copy of the document mentioned in paragraph 1.
+
+### 7.[^key-ddfcb9b6923c65a5f2716897bd651dd6]
+
+The appellant must make any further written representations by way of reply to representations from the Keeper not later than 28 days after the date of submission of those representations by the Keeper under paragraph 6.
+
+### 8.[^key-9fe026e6d2fd7cde50ed30935fc4ddd7]
+
+Any written representations made by the appellant or the Keeper must bear the date on which they are submitted to the Scottish Ministers.
+
+### 9.[^key-b46b2410573024fb65a60c3f7e43445e]
+
+When the Keeper or the appellant submits any written representations to the Scottish Ministers the Keeper or the appellant must at the same time send a copy to the other party.
+
+### 10.[^key-03c270dc492ff76964ecf671fe0d8a28]
+
+The Scottish Ministers may in a particular case (either or both)—
+
+- (a) dispose of the case on the basis of written representations;
+- (b) where there is a good reason to do so, permit the appeal to be disposed of by a hearing before a person appointed by the Scottish Ministers; or
+- (c) (either or both)—
+  - (i) where appropriate, set later time limits than;
+  - (ii) require exchanges of representations between the parties in addition to,
+- (d) those mentioned in paragraphs 6, 7 and 9.
+
+### 11. Determination of appeal[^key-b10ac139b52e78c2afdb94d22c2398da]
+
+The Scottish Ministers must give notice to the parties of their determination of the appeal and their reasons for that determination.
+
+### 12.[^key-aa1d9aff5792778106de9db487dd5a27]
+
+The Scottish Ministers may include in the determination such order as to the expenses of the appeal as they consider reasonable.
+
+## SCHEDULE 2[^key-efb1ce380333c6ab47c047db0be06a6b]
+
+**No longer in force.**
+
+Regulation 7
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Land Registration etc. (Scotland) Act 2012 (“the 2012 Act”) allows the Keeper of the Registers of Scotland (“the Keeper”) to operate a computer system for creating electronic documents, generating and communicating registration applications, and automated registration. The 2012 Act repeals certain amendments made to the Requirements of Writing (Scotland) Act 1995 (“the 1995 Act”) and the Land Registration (Scotland) Act 1979 that provided for the Automated Registration of Title to Land (“ARTL”) system.
+
+These Regulations make provision for continuation of an ARTL system. Regulation 2 provides for the kinds of deeds which are authorised for use in the system. Regulation 3 provides for the persons authorised (i.e. licensed) to use the system. Regulation 4 sets out the duties which apply to those authorised persons.
+
+Regulation 5 provides for the suspension or revocation of an authorisation and regulation 6 for appeals against the Keeper’s decision to refuse, suspend or revoke an authorisation (the procedure for appeals is in Schedule 1).
+
+Regulation 7 sets out the procedure for creating an application form in the system and Schedule 2 sets out information and the questions which require to be completed to create the application.
+
+Regulation 8 amends the Land Register Rules etc. (Scotland) Regulations 2014 to disapply the prescribed application form for registration in respect of ARTL transactions.
+
+The 2012 Act also amends the 1995 Act to permit relevant electronic documents – contracts, obligations, trusts and conveyances where formal writing is required under section 1(2) of the 1995 Act – to have equivalent status and standards of validity and authenticity to paper documents. Regulation 9 amends the Electronic Documents (Scotland) Regulations 2014 which provide that those electronic documents must have an advanced electronic signature to be valid. It inserts new regulations 5, 6 and 7 about authentication of electronic documents in special cases, registration of electronic documents in the Land Register of Scotland and registration for preservation and execution of electronic standard securities, respectively.
+
+- Inserted regulation 5 provides for the authentication of an electronic signature applied to a document granted by a partnership, limited liability partnership, company, local authority, other corporate body, Minister or office holder. This regulation is equivalent to the provision for traditional documents in Schedule 2 to the 1995 Act.
+- Inserted regulation 6 makes it competent to register ARTL electronic documents in the Land Register, if the document is created in the ARTL system, and is in PDF form and meets the other requirements of that regulation. The electronic signature applied to such a document must be supplied by the Keeper and certified by the Keeper’s public key infrastructure (“PKI”). The registration of other electronic documents in the Land Register, the General Register of Sasines or the Books of Council and Session is not yet provided for.
+- The Keeper’s PKI is a set of policies and practices which specify the management, creation, distribution and revocation of digital certificates which attach unique public keys to individual users of the ARTL system. The private key that is paired with the public key is used in combination with an electronic deed generated by the ARTL system to produce an electronic signature. Once embedded in an electronic deed, the electronic signature provides proof that the document has not been altered since it was signed, who it was signed by and when it was signed.
+- Inserted regulation 7 temporarily makes equivalent provision to section 6A of the 1995 Act so an extract of an ARTL standard security may be registered for preservation and execution in the Books of Council and Session to enable a creditor to employ summary diligence. This is transitional prior to section 9G enabling registration in the Books of Council and Session.
+
+A Business Regulatory Impact Assessment has not been provided for this instrument as no significant impact on the private or voluntary sectors is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2012 asp 5](https://www.legislation.gov.uk/asp/2012/5) (“the 2012 Act”), amended by the Co-operative and Community Benefit Societies Act [2014 (c.14)](https://www.legislation.gov.uk/ukpga/2014/14), section 151(4) and Schedule 7, paragraph 1 and [S.S.I. 2014/190](https://www.legislation.gov.uk/ssi/2014/190).
+
+[^f00002]: Footnote: [1995 c.7](https://www.legislation.gov.uk/ukpga/1995/7), amended by the Petroleum Act [1998 (c.17)](https://www.legislation.gov.uk/ukpga/1998/17), Schedule 5, Part 1, paragraph 1, the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 31, [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Schedule 2, Part 1, paragraph 118, the Abolition of Feudal Tenure etc. (Scotland) Act [2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), schedule 12, Part 1, paragraph 58, [S.I. 2000/2040](https://www.legislation.gov.uk/uksi/2000/2040), Schedule, Part 1, paragraph 17, the Housing (Scotland) Act [2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10), schedule 10, paragraph 22, [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), Schedule 4, paragraphs 4 and 5, the Title Conditions (Scotland) Act [2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), schedule 15, paragraph 1, [S.S.I. 2006/491](https://www.legislation.gov.uk/ssi/2006/491), article 3, the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), Schedule 16, paragraph 1, the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), sections 48(1) and 222(2) and (3), [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), Schedule 1, Part 2, paragraph 199, [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), Schedule 1, paragraph 151 and the 2012 Act, sections 96, 97 and 98 and schedule 3. Sections 9E(1)(b) and 9G(3) and (5)(a) are inserted by section 97 of the 2012 Act for limited purposes by, and subject to transitional provision for Automated Registration of Title to Land (“ARTL”) documents in article 3(2) of, [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41).
+
+[^f00003]: Footnote: Section 9G(4) is inserted by section 97 of the 2012 Act.
+
+[^f00004]: Footnote: The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
+
+[^key-0210a6c069ceb18a0314942ac10ca338]: Commencement: Reg. 1 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-cf63f39cd25aa1f5fd7676dfc0a774ad]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/2) omitted (12.3.2018) by virtue of [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/2/a) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-ce25956f88d7049b2307533674578f02]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/2) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/2/b) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-13f11932bc17253f2431ec79cf855c2f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/2) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/2/c) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-c67d625fc8496947e9473c0966ef8c92]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/2) inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(2)(d)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/2/d) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-f65ae67f0eb2ed9d39afda7f413f6b61]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/2) omitted (12.3.2018) by virtue of [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(2)(e)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/2/e) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-b5945a7be7f5c64fa7e24e225d8fec8a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/2) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(2)(f)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/2/f) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^f00005]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7), amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406 and Schedule 17, paragraph 158.
+
+[^key-069b494e36723974881e65f64d042f19]: Commencement: Reg. 2 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-b266fc5560d2b3cb9b72b98558a918d6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2014/347/regulation/2) heading substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/3) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-6b8eecaf0fa834ffe3e2bb140504c74d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/2/1) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/4) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^f00006]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1). There are no relevant amendments.
+
+[^f00007]: Footnote: Any order made under an enactment by the Secretary of State for Scotland, the Scottish Ministers or a local authority.
+
+[^key-fe49a88b3af5f99564a781224f788da4]: Textual amendment: [Reg. 2(3)-(4)](https://www.legislation.gov.uk/ssi/2014/347/regulation/2/3) inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(5)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/5) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-64ed423ff85b0ad735c5c28a0b550800]: Commencement: Reg. 3 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-93eb9f7429970792eb27fb905e9cecb6]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/347/regulation/3) heading substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(6)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/6) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-54763b30121359f1807b162876102ad3]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/3/1) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(7)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/7) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-e80803c7a24032627f4bd2efe4df9445]: Commencement: Reg. 4 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-39a3d506bcbe492f0c17c7e25349e054]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/4/1)[(2)](https://www.legislation.gov.uk/ssi/2014/347/regulation/4/2) omitted (12.3.2018) by virtue of [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(8)(a)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/8/a) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-b58149c897f2fb9951bfdaf4651f62bc]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/ssi/2014/347/regulation/4/3) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(8)(b)(i)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/8/b/i) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-06f9f3f5443289eda5fc97e583aedfc6]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/ssi/2014/347/regulation/4/3) omitted (12.3.2018) by virtue of [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(8)(b)(ii)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/8/b/ii) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-24d78fd22edcf3101b1041e3cf058e88]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2014/347/regulation/4/4) omitted (12.3.2018) by virtue of [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(8)(c)(i)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/8/c/i) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-077264a9eb0f77ddec88bfd254d63c03]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2014/347/regulation/4/4) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(8)(c)(ii)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/8/c/ii) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-b151128161abed894407591fc2cce0c7]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2014/347/regulation/4/4) inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(8)(c)(iii)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/8/c/iii) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-65f282655f8d07f7b0c27591668bd1ac]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/ssi/2014/347/regulation/4/5) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(8)(d)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/8/d) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^f00008]: Footnote: [1980 c.46](https://www.legislation.gov.uk/ukpga/1980/46), amended by [S.S.I. 2000/121](https://www.legislation.gov.uk/ssi/2000/121), [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465), the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), section 77(2) and schedule 2, paragraph 1 and the Legal Services (Scotland) Act [2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), section 137(3).
+
+[^key-51dbb400f9d850e546e900bac2931fd0]: Commencement: Reg. 5 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-fe291bef05d3ec6a715fb3cbd327e733]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/ssi/2014/347/regulation/5/2/a) omitted (12.3.2018) by virtue of [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(9)(a)(i)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/9/a/i) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-9617fe9223c7fb34981ac82ec8ff0bf0]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/ssi/2014/347/regulation/5/2/a) inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(9)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/9/a/ii) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-5f001883d024dc7326e48cb723f05d5a]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/ssi/2014/347/regulation/5/2/b) omitted (12.3.2018) by virtue of [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(9)(b)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/9/b) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-f2c8f3212af892021f56f90ff6db2652]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2014/347/regulation/5/3/b) inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(9)(c)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/9/c) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^f00009]: Footnote: [S.S.I. 2014/83](https://www.legislation.gov.uk/ssi/2014/83). See regulation 1(2), as amended by regulation 9(2) of these Regulations.
+
+[^key-7883fdfec826a1b6de70591fd3ba416e]: Commencement: Reg. 6 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-0183ba749b0facec294cfcc706c40008]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/347/regulation/7) revoked (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(10)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/10) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-582b69cf2c532e9d398c5ac9866ed7fc]: Commencement: Reg. 7 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-b59bd43ffac94c4b8152fa5d94c536cc]: Commencement: Reg. 8 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^f00010]: Footnote: [S.S.I. 2014/150](https://www.legislation.gov.uk/ssi/2014/150).
+
+[^key-fea97daa7af1a617f505bbf9103af475]: Commencement: Reg. 9 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^f00011]: Footnote: [2012 asp 5](https://www.legislation.gov.uk/asp/2012/5), amended by the Co-operative and Community Benefit Societies Act [2014 (c.14)](https://www.legislation.gov.uk/ukpga/2014/14), section 151(4) and Schedule 7, paragraph 1.
+
+[^f00012]: Footnote: Must comply with the International Telecommunications Union Telecommunication Standardization Sector (ITU-T) cryptography standard X509 (http://www.itu.int/rec/T-REC-X.509/en).
+
+[^f00013]: Footnote: OJ L 013, 19/01/2000, p.12-20, amended by Regulation [(EC) No. 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) of the European Parliament and of the Council (OJ L 311, 21.11.2008, p.1-54).
+
+[^f00014]: Footnote: “Partnership” has the meaning in section 1 of the Partnership Act [1890 (c.39)](https://www.legislation.gov.uk/ukpga/1890/39), amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^f00015]: Footnote: Portable document format – ISO 32000-1: 2008.
+
+[^f00016]: Footnote: http://www.itu.int/rec/T-REC-X.509/en.
+
+[^f00017]: Footnote: https://www.gov.uk/government/publications/identity-proofing-and-verification-of-an-individual.
+
+[^f00018]: Footnote: This algorithm is set out in the Federal Information Processing Standards Publication 180-1 issued by the United States National Institute of Standards and Information dated 17th April 1995.
+
+[^f00019]: Footnote: Section 9C is inserted by section 97 of the 2012 Act. In relation to diligence, see sections 1 and 2 of the Writs Execution (Scotland) Act [1877 (c.40)](https://www.legislation.gov.uk/ukpga/1877/40).
+
+[^key-54cf62f22b383b8ab5f46538aa96e440]: Commencement: Sch. 1 para. 1 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-de0974ed0f374b51cfb1a6393c6495bd]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/ssi/2014/347/schedule/1/paragraph/1A) inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(11)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/11) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))
+
+[^key-055e66de649ead5a0b1b031e1ce9d30e]: Commencement: Sch. 1 para. 2 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-1929913ce6d5a6b5f2371d5e88937b3c]: Commencement: Sch. 1 para. 3 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-19f92b66fd0c44e6afdeee9e660f28ba]: Commencement: Sch. 1 para. 4 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-b5939bd4d15d9e7b7ae5bdc5c8d695f4]: Commencement: Sch. 1 para. 5 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-958cede56a319012a96bbf0f768f0e87]: Commencement: Sch. 1 para. 6 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-ddfcb9b6923c65a5f2716897bd651dd6]: Commencement: Sch. 1 para. 7 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-9fe026e6d2fd7cde50ed30935fc4ddd7]: Commencement: Sch. 1 para. 8 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-b46b2410573024fb65a60c3f7e43445e]: Commencement: Sch. 1 para. 9 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-03c270dc492ff76964ecf671fe0d8a28]: Commencement: Sch. 1 para. 10 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-b10ac139b52e78c2afdb94d22c2398da]: Commencement: Sch. 1 para. 11 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-aa1d9aff5792778106de9db487dd5a27]: Commencement: Sch. 1 para. 12 in force at 8.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1)
+
+[^key-efb1ce380333c6ab47c047db0be06a6b]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2014/347/schedule/2) revoked (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [5(12)](https://www.legislation.gov.uk/ssi/2018/72/regulation/5/12) (with [reg. 12](https://www.legislation.gov.uk/ssi/2018/72/regulation/12))

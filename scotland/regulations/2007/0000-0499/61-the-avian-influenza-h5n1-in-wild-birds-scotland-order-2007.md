@@ -1,0 +1,838 @@
+---
+title: The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007
+id: ssi/2007/61
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-02-08'
+text_date: '2021-12-04'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2007/61
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2007/61/pdfs/ssien_20070061_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/61/pdfs/ssi_20070061_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/61/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007
+
+> Text as at 2021-12-04.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2007 No. 61
+
+ANIMALS
+
+ANIMAL HEALTH
+
+The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007
+
+Made
+
+8th February 2007
+
+Coming into force
+
+15th February 2007
+
+The Scottish Ministers, in exercise of the powers conferred by sections 1, 7, 8(1), 11, 15(5), 17(1), 23, 25, 28, 35(1) and 35(3), and 83(2) of the Animal Health Act 1981 [^c18042101], and of all other powers enabling them in that behalf, make the following Order:
+
+## 1. Citation, commencement and extent
+
+(1) This Order may be cited as the Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007, and comes into force on 15th February 2007.
+
+(2) This Order extends to Scotland only.
+
+## 2. Interpretation
+
+In this Order–
+
+- “**the Act**” means the Animal Health Act 1981;
+- “**avian influenza**” means an infection of birds caused by an influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
+- “**Avian Influenza Order**” means the Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006 [^c18042111];
+- “**bird by product**” means entire bodies or parts of birds or products of avian origin not intended for human consumption included in Article[^key-efcc0576a9a7edb9656d9496bfb3bd29] 8, 9 or 10 of Regulation (EC) No 1069/2009;
+- “**controlled meat**” means any fresh meat, minced meat, meat preparation, mechanically separated meat or meat product which has not undergone a heat treatment at a minimum temperature of 70°C (which must be reached throughout the meat) derived from poultry or wild game bird originating from within the wild bird control area;
+- “**day old chicks**” means poultry less than 72 hours old which have not yet fed and muscovy ducks (*Cairina moschata*) and their crosses less than 72 hours old, whether or not fed;
+- “**designated**” means designated in accordance with article 13, except where the context otherwise requires, and “**undesignated**” is to be construed accordingly;
+- “**fresh meat**” means meat that has not undergone any preserving process other than chilling, freezing or quick freezing, including meat that is vacuum wrapped or wrapped in a controlled atmosphere;
+- “[^key-70cd752509975a91f2829c189af2024e]**H5N1**” means a highly pathogenic avian influenza virus of the H5 subtype and neuraminidase N1 of significant risk to animal and human health,
+- “**hatching egg**” means an egg for incubation laid by any poultry;
+- “[^key-c48cabf99ca536201ed1802e8334a6b7]**highly pathogenic avian influenza**” means—
+  - (a) a virus with genome sequences codifying for multiple basic amino acids at the cleavage site of the haemagglutinin molecule similar to that observed for other highly pathogenic avian influenza viruses, indicating that the haemagglutinin molecule can be cleaved by a host ubiquitous protease, or
+  - (b) avian influenza viruses with an intravenous pathogenicity index in six-week old chickens greater than 1.2,
+- “**keeper**” means any person responsible for birds or animals, whether on a permanent or temporary basis, but does not include a person responsible for them solely because they are transporting them;
+- “**meat preparation**” means fresh meat, including meat that has been reduced to fragments, which has had foodstuffs, seasonings or additives added to it or which has undergone processes insufficient to modify the internal muscle fibre structure of the meat and thus to eliminate the characteristics of fresh meat;
+- “**meat product**” means a processed product resulting from the processing of meat or from the further processing of such processed products, so that the cut surface shows that the product no longer has the characteristics of fresh meat;
+- “**mechanically separated meat**” means the product obtained by removing meat from flesh-bearing bones after boning, using mechanical means resulting in the loss or modification of the muscle fibre structure;
+- “**minced meat**” means boned fresh meat that has been minced into fragments and contains less than 1% salt;
+- “**occupier**” means, in relation to any premises, the person in charge of those premises;
+- “**other captive bird**” means a bird kept in captivity excluding–
+  - (a) poultry;
+  - (b) pet birds;
+  - (c) sentinel birds placed by the Scottish Ministers for the purpose of surveillance and research activities; and
+  - (d) birds kept in any of the following establishments–
+    - (i) zoos, within the meaning of the Avian Influenza (Preventive Measures in Zoos) (Scotland) Regulations 2005 [^c18042131];
+    - (ii) circuses;
+    - (iii) amusement parks; and
+    - (iv) laboratories;
+- “**outbreak point**” has the meaning given by article 6(1);
+- “**pet bird**” means a bird, other than poultry, reared or kept in captivity as a pet;
+- “**poultry**” means a bird reared or kept in captivity for the production of meat or eggs for consumption, or for the production of other products, for restocking supplies of game or for the purposes of any breeding programme for the production of such categories of bird;
+- “**premises**” includes any land, building or other place;
+- “**processed fresh meat**” means any minced meat, meat preparation or mechanically separated meat;
+- “**Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853)**” means Regulation (EC) No. 853/2004[^key-4fa09f6f6a0b06874c333d1c6eb57ec7] of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^c18042141] , as last amended by Commission Regulation ([^key-b2141961229f12f0f4f7ba2860d7c4d6]EU) 2017/1981;
+- “Regulation ([^key-e79becf879268359e5c150ace88477dd]EC) No 1069/2009” means Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation), as last amended by Regulation (EU) 2017/625[^key-f1ae5bc9b4080fb30961a58c6495e1c5];
+- “Regulation (EU) No 142/2011” means Commission Regulation (EU) No 142/2011 implementing Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by‑products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) as regards certain samples and items exempt from veterinary checks at the border under that Directive [^key-a6688b9988afb84fbeb38be1107a43da] . . . as amended from time to time[^key-83a9c560041b7c23c30126fd595e51b1];
+- “**slaughterhouse**” means premises used for slaughtering poultry, the meat of which is intended for human consumption;
+- “**SPF egg**” means a hatching egg for use for diagnostic procedures in laboratories for the production and testing of vaccines and for research or pharmaceutical purposes;
+- “**vehicle**” includes–
+  - (a) a trailer, semi-trailer or other thing which is designed or adapted to be towed by another vehicle;
+  - (b) a detachable part of a vehicle; and
+  - (c) a container or other structure designed or adapted to be carried by or on a vehicle;
+- “**wild bird**” means a bird that is not poultry or any other captive bird;
+- “**wild bird control area**” means a wild bird control area declared under article 5(2) or(3);
+- “**wild bird monitoring area**” means a wild bird monitoring area declared under article 5(2) or (3); and
+- “**wild game bird**” means a bird which lives freely in the wild and is hunted for human consumption.
+
+## PART 1 — Introduction
+
+### 3. Declarations and notices
+
+(1) A declaration of a wild bird control area or a wild bird monitoring area under this Order–
+
+- (a) must be in writing;
+- (b) may be amended or revoked by further declaration at any time;
+- (c) must designate the extent of the area being declared; and
+- (d) must list or refer to the measures which apply in the area, and if they apply only in part of the area, specify to which part they apply.
+
+(2) Notices issued under this Order–
+
+- (a) may be amended or revoked, by further notice, at any time; and
+- (b) must, if they apply to only part of premises, specify to which part they apply.
+
+(3) The Scottish Ministers must ensure that the extent of any wild bird control area or wild bird monitoring area declared under this Order, the nature of the restrictions and requirements applicable within it, and the dates of its declaration and revocation are publicised.
+
+### 4. Licences
+
+(1) No person shall grant a licence under this Order for the movement of any poultry, other captive bird, hatching egg, controlled meat or bird by product, unless that person has taken account of the relevant risk assessment.
+
+(2) In paragraph (1), “**the relevant risk assessment**” means the Scottish Ministers' assessment of the risk that the particular movement or a movement of that type would spread avian influenza.
+
+(3) Licences granted under this Order–
+
+- (a) must be in writing;
+- (b) may be general or specific;
+- (c) may be made subject to such conditions as the person granting the licence considers necessary to control the spread of avian influenza; and
+- (d) may be amended, suspended or revoked, in writing, at any time.
+
+(4) Licences granted in England or Wales for activities that could be licensed in Scotland under this Order have effect in Scotland as if they were movement licences granted under this Order, but an inspector acting under the direction of the Scottish Ministers may serve a notice on any person moving any thing under the authority of such a licence, directing them to move it to and keep it on premises specified in the notice or move it out of Scotland.
+
+(5) A person moving anything under the authority of a specific licence granted under this Order must–
+
+- (a) keep the licence or a copy of it with them at all times during the licensed movement;
+- (b) on demand by an inspector, veterinary inspector or other officer of the Scottish Ministers, produce the licence or copy and allow a copy or extract of it to be taken; and
+- (c) on such demand, provide their name and address.
+
+(6) A person moving anything under the authority of a general licence granted under this Order must–
+
+- (a) keep with them at all times during the licensed movement a copy of that general licence and a consignment note that contains details of–
+  - (i) what is moved (including its quantity);
+  - (ii) the date of the movement;
+  - (iii) the name of the consignor;
+  - (iv) the address of the premises from which the movement started;
+  - (v) the name of the consignee; and
+  - (vi) the address of the premises of destination;
+- (b) on demand by a local authority inspector, a veterinary inspector or other officer of the Scottish Ministers, produce the consignment note and allow a copy or extract to be taken; and
+- (c) on such demand, provide their name and address.
+
+(7) Unless the Scottish Ministers direct otherwise in a declaration of a wild bird control area or a wild bird monitoring area or by notice to the occupier of any premises or to the owner or occupier of any vehicle, any movement that has already started when such a declaration comes into force may be completed.
+
+## PART 2 — Confirmation or suspicion of H5N1
+
+### 5. Confirmation or suspicion of H5N1 in wild birds
+
+(1)[^key-57ba2eb32e0fe60f9991e7d63c6836d8] This article applies if the Chief Veterinary Officer (Scotland) advises the Scottish Ministers that—
+
+- (a) a highly pathogenic avian influenza virus of the H5 subtype and neuraminidase N1 is present in a wild bird or the carcase of a wild bird in Great Britain, and
+- (b) the Chief Veterinary Officer (Scotland) suspects, or is of the opinion, that the virus is a significant risk to animal and human health.
+
+(2) If the wild bird or carcase was found in Scotland, the Scottish Ministers must declare–
+
+- (a) a wild bird control area; and
+- (b) a wild bird monitoring area.
+
+(3) If the wild bird or carcase was found in England or Wales–
+
+- (a) subject to sub paragraphs (b) and (c), the Scottish Ministers may declare a wild bird control area or a wild bird monitoring area;
+- (b) the Scottish Ministers must declare a wild bird control area if the wild bird or carcase was found within three kilometres of the border with Scotland;
+- (c) the Scottish Ministers must declare a wild bird monitoring area if the wild bird or carcase was found within ten kilometres of the border with Scotland.
+
+(4) Paragraphs (2), (3)(b) and (3)(c) do not apply if the Scottish Ministers are satisfied, pursuant to a risk assessment, that–
+
+- (a) H5N1 is not present in poultry, other captive birds or wild birds in the area which would otherwise be declared as the wild bird monitoring area; and
+- (b) the infected wild bird or carcase did not present a risk of spreading that virus to such birds in that area.
+
+(5) The risk assessment under paragraph (4) must take into account any geographical and ecological considerations.
+
+(6) An area remains a wild bird control area until–
+
+- (a) the Scottish Ministers amend the declaration made under paragraph (2)(a), (3)(a) or (3)(b) so that the area within its boundaries becomes part of the wild bird monitoring area; or
+- (b) the Scottish Ministers revoke the declaration.
+
+(7) An area remains a wild bird monitoring area until the Scottish Ministers revoke the declaration made under paragraph (2)(b), (3)(a) or (3)(c).
+
+(8) Subject to paragraph (9), premises which are only partly in a wild bird control area or a wild bird monitoring area are deemed to be wholly within that area.
+
+(9) Premises which are partly in a wild bird control area and partly in a wild bird monitoring area are deemed to be wholly in the wild bird control area.
+
+### 6. Extent of wild bird control and monitoring areas
+
+(1) A wild bird control area must–
+
+- (a) be centred on the place where the wild bird or carcase referred to in article 5(1) was found (“the outbreak point”); and
+- (b) have a boundary which is at least three kilometres from the outbreak point.
+
+(2) A wild bird monitoring area must–
+
+- (a) be centred on the outbreak point; and
+- (b) have a boundary which is at least ten kilometres from the outbreak point.
+
+(3) The Scottish Ministers must take into account the following factors in deciding the extent of any wild bird control area or wild bird monitoring area–
+
+- (a) the geographical features of the proposed areas;
+- (b) any administrative boundaries;
+- (c) any limnological factors;
+- (d) any ecological factors;
+- (e) any epizootic factors;
+- (f) monitoring facilities; and
+- (g) any other factor they consider relevant.
+
+(4) Paragraphs (5) and (6) apply if the Scottish Ministers are satisfied, having carried out a risk assessment, that due to natural barriers or the absence of suitable habitats for wild birds, there is sufficient protection of poultry and other captive birds in the area that would otherwise be declared to be the wild bird control area.
+
+(5) The wild bird control area may have a boundary which is at least one kilometre from the outbreak point.
+
+(6) Where the outbreak point is less than one kilometre away from a river, a lake or the coast, the wild bird control area may be an area of land–
+
+- (i) having a width of one kilometre from the river bank, lake shore or coast; and
+- (ii) at least three kilometres in length.
+
+(7) The risk assessment under paragraph (4) must take account of the factors listed at paragraph (3).
+
+(8) If the Scottish Ministers declare a wild bird control area of the dimensions provided for under paragraph (5) or (6), the wild bird monitoring area must be of such size and shape as the Scottish Ministers consider necessary to prevent the spread of avian influenza.
+
+(9) A wild bird control area or a wild bird monitoring area declared under article 5(3) must be of such size and shape as the Scottish Ministers consider necessary to prevent the spread of avian influenza.
+
+(10) If an area declared in accordance with this article would otherwise include land in England, the Scottish Ministers must declare an area only of such part of that land as is in Scotland.
+
+### 7. Wild bird or carcase found within a protection zone or surveillance zone
+
+If the wild bird or carcase referred to in article 5(1) is found within a protection zone or surveillance zone declared under article 26 (declaration of protection, surveillance and restricted zones) of the Avian Influenza Order, the Scottish Ministers must, when declaring a wild bird control area and a wild bird monitoring area, consider, on the basis of a risk assessment, whether the control and monitoring areas should include part or all of the protection or surveillance zone.
+
+### 8. Measures applicable in a wild bird control area or wild bird monitoring area
+
+(1) The measures in Schedule 1 apply in respect of a wild bird control area, including movements from that area.
+
+(2) The measures in Schedule 2 apply in respect of a wild bird monitoring area, including movements from that area.
+
+(3) The biosecurity measures in Schedule 3 apply in respect of a wild bird control area and a wild bird monitoring area.
+
+(4) Where the conditions in paragraph (5) are fulfilled, the Scottish Ministers may–
+
+- (a) amend the declaration of the wild bird control area to disapply any of the measures listed at paragraphs 1 to 16 of Schedule 1; and
+- (b) amend the declaration of the wild bird monitoring area to disapply any of the measures listed in Schedule 2.
+
+(5) The conditions are–
+
+- (a) a risk assessment indicates that the disapplication of the measure in that wild bird control area or wild bird monitoring area would not endanger disease control;
+- (b) there has been no outbreak of H5N1 in poultry or other captive birds in either of those areas;
+- (c) the wild bird control area or the wild bird monitoring area (as the case may be) has been established for at least 21 days; and
+- (d) the Scottish Ministers do not suspect that there is avian influenza in poultry or other captive birds within either of those areas.
+
+(6) When carrying out a risk assessment under paragraph (5)(a) the Scottish Ministers must take account of the factors listed in article 6(3).
+
+(7) Paragraph (4)(b) does not apply in relation to the measures in paragraphs 4 and 6 of Schedule 2 where the Scottish Ministers have amended the declaration of a wild bird control area so that it has become part of the wild bird monitoring area before 21 days have elapsed from the date the sample was collected from the wild bird or carcase in accordance with article 12(1)(a).
+
+(8) Paragraph (9) applies if–
+
+- (a) at the time of its establishment, a wild bird control area or a wild bird monitoring area centred on the same outbreak point overlaps with a surveillance zone declared under article 26 of the Avian Influenza Order;
+- (b) that surveillance zone is subsequently ended by a declaration; and
+- (c) a risk assessment indicates that the disapplication in that wild bird control area of the measure or the article referred to in paragraph (9) would not endanger disease control.
+
+(9) The Scottish Ministers may amend the declaration of the wild bird control area so that–
+
+- (a) any of the measures listed in Schedule 1; or
+- (b) article 11,
+
+do not apply in respect of that wild bird control area.
+
+### 9. Additional measures
+
+(1) The Scottish Ministers must, in their declaration of a wild bird control area or a wild bird monitoring area, impose additional measures if they consider that these are necessary to reduce the risk of the spread of avian influenza.
+
+(2) When deciding what measures to impose under paragraph (1), the Scottish Ministers must consider whether measures are necessary–
+
+- (a) to prevent direct or indirect contact which wild birds might otherwise have with poultry and other captive birds;
+- (b) to reduce the risk of feed and water provided to poultry and other captive birds being contaminated with avian influenza virus or with any virus that causes avian influenza; and
+- (c) to reduce the risk of the spread of avian influenza between premises.
+
+(3) The power of the Scottish Ministers to impose measures by declaration under this article includes the power to require–
+
+- (a) poultry or other captive birds to be housed or otherwise kept separate from wild birds;
+- (b) poultry or other captive birds or categories of such birds specified in the declaration to be housed or otherwise kept separate from other poultry and captive birds;
+- (c) that poultry or other captive birds are provided with feed and water to which wild birds have no access; and
+- (d) keepers of poultry or other captive birds and others who come into contact with such birds to cleanse and disinfect their footwear and take such other biosecurity measures as a veterinary inspector or an inspector under the direction of a veterinary inspector may require.
+
+### 10. Restrictions relating to things moved from England, Wales or Northern Ireland
+
+(1) Measures in this Order which apply in respect of any thing moved from a wild bird control area or wild bird monitoring area apply in respect of any such thing moved from an equivalent area in England, Wales or Northern Ireland.
+
+(2) Paragraph (1) only applies if the person to whom the measure applies is aware or should reasonably have been aware that the thing moved is from such an equivalent area.
+
+### 11. Duty to inspect poultry premises
+
+(1) Subject to article 8(9), the Scottish Ministers must ensure that–
+
+- (a) premises where poultry are kept within the wild bird control area and the wild bird monitoring area are identified as soon as is reasonably practicable; and
+- (b) a veterinary inspector visits all premises where poultry are kept within the wild bird control area as often as the Scottish Ministers consider necessary to monitor the possible spread of avian influenza.
+
+(2) Every veterinary inspector making such a visit must–
+
+- (a) carry out a clinical inspection of poultry and any other captive birds that are on the premises and, if so directed by the Scottish Ministers, collect samples for laboratory examination; and
+- (b) assess the extent to which the biosecurity measures referred to in Schedule 3 are being applied.
+
+### 12. Maintenance of Areas
+
+(1) Subject to paragraph (4), where article 5 applies[^key-3549b823a3d11248e8995d15025e41b6], the Scottish Ministers must not–
+
+- (a) amend any declaration made under article 5 so that the wild bird control area becomes part of the wild bird monitoring area until at least 21 days have elapsed from the date on which the sample showing the presence of the H5 virus was collected from that wild bird or carcase except where the conditions in paragraph (2) are fulfilled; or
+- (b) revoke any declaration made under article 5 until at least 30 days have elapsed from that date.
+
+(2) The conditions referred to in paragraph (1)(a) are–
+
+- (a) the Scottish Ministers have carried out an assessment of the risk of the possible spread of avian influenza, taking into account the factors listed in article 6(3), which indicates that the amendment of the declaration would not endanger disease control;
+- (b) the Scottish Ministers have identified premises where poultry are kept within the control area, in accordance with article 11(1)(a); and
+- (c) a veterinary inspector has carried out at least one visit to each of those premises in accordance with article 11(1)(b) and the results of any laboratory tests carried out on samples taken from poultry or other captive birds on those premises in accordance with article 11(2)(a) have not given rise to the service of a notice under article 10(1) (notice of restrictions where avian influenza is suspected on premises) of the Avian Influenza Order.
+
+(3) The Scottish Ministers may amend any declaration so that a wild bird control area becomes part of the wild bird monitoring area before 21 days have elapsed from the date referred to in paragraph (1)(a), provided that where article 6(5) and (6) apply the wild bird control area remains of a size required under those provisions and provided that the wild bird monitoring area continues to meet the requirements of article 6(8).
+
+(4) If the Chief Veterinary Officer (Scotland) advises the Scottish Ministers that in the opinion of the Chief Veterinary Officer (Scotland) the avian influenza virus of sub type H5 and neuraminidase N1[^key-004ce73829bbfcaa1e4f43e1c2fc6669] present in the wild bird or carcase referred to in article 5 is not a significant risk to animal and human health[^key-1310cfccc250fbff6d7a970f4964fda9], the Scottish Ministers must revoke any declaration made under article 5 without delay.
+
+## PART 3 — Miscellaneous
+
+### 13. Designation of premises to which things may be moved
+
+(1) Unless the Scottish Ministers direct otherwise by notice to the occupier of the premises, the following premises are deemed to be designated for the purpose of receiving poultry, eggs or bird by products (as the case may be) which are moved in accordance with this Order–
+
+- (a) premises that are designated under article 70 (designation of premises to which things may be moved) of the Avian Influenza Order;
+- (b) premises that are deemed to be designated under article 4(7) (declarations, licences, notices and designations under this Order) of that Order; and
+- (c)[^key-d5b2791f4a78c6199a6c44b955842f97] the following plants, if approved under Article 24 of Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)—
+  - (i) incineration plants;
+  - (ii) co-incineration plants;
+  - (iii) processing plants;
+  - (iv) biogas plants;
+  - (v) composting plants;
+  - (vi) petfood plants.
+
+(2) Plants referred to in paragraph (1)(c) in England, Wales or Northern Ireland which are designated respectively by the Secretary of State, the National Assembly or by the Department for Agriculture and Rural Development of Northern Ireland for the same purposes as they are designated under this Order are deemed to be designated for the purposes of this Order.
+
+### 14. General duties relating to execution of this Order
+
+(1) Any person required to give reasonable assistance or information to a person executing this Order must, unless they have reasonable cause, do so without delay.
+
+(2) The occupier of any premises from or to which that person wishes any thing to be moved under licence under this Order must allow an inspector or any person authorised by the Scottish Ministers to enter those premises for the purposes of deciding whether such a licence should be granted or maintained.
+
+(3) No person shall provide information which that person knows to be false or misleading to a person executing this Order.
+
+(4) No person may deface, obliterate or remove any mark applied by an inspector under this Order except with the written authority of a veterinary inspector.
+
+### 15. Record keeping
+
+(1) A person moving poultry, other captive birds or their products under a licence granted under this Order must–
+
+- (a) as soon after the movement as is reasonably practicable, make a record of–
+  - (i) what is moved, including its quantity;
+  - (ii) the date of the movement;
+  - (iii) the name of the consignor;
+  - (iv) the address of the premises from which the movement started;
+  - (v) the registration number of any vehicle used;
+  - (vi) the name of the consignee; and
+  - (vii) the address of the destination; and
+- (b) retain it for at least six weeks from the date the movement was completed.
+
+(2) A person who is required under this Order to make any other record must retain it for at least twelve months from the date the record is made.
+
+(3) A person required to produce a record by a person executing this Order must do so without delay.
+
+(4) On production of the record, the person executing this Order may–
+
+- (a) copy the record, in whatever form it is held;
+- (b) require any computer record to be produced in a form which can be taken away; and
+- (a) remove any record and retain it until the person has carried out the person's functions under this Order.
+
+### 16. Duty to comply with declarations, licences and notices
+
+(1) Any person to whom any requirement in a declaration, licence, notice or designation under this Order applies must–
+
+- (a) comply with the requirement (unless otherwise authorised by licence); and
+- (b) comply with any reasonable requests which an inspector may make to that person to ensure that the requirement is met.
+
+(2) The costs incurred by any person in taking any action required, or in refraining from taking any action prohibited, by or under this Order must be met by that person unless the Scottish Ministers direct otherwise in writing.
+
+### 17. Change of occupation of premises under restriction
+
+(1) This article applies if the keeper of any poultry or other captive bird is unable to move it from premises on the termination of their right of occupation because of a movement restriction imposed by or under this Order and continues to apply for seven days after any such restriction has been removed.
+
+(2) The person entitled to occupation of the premises on termination of the keeper's right of occupation must–
+
+- (a) provide such facilities for feeding, tending or otherwise using the poultry or other captive bird (including selling it) as the keeper may reasonably require; and
+- (b) allow entry to the premises to that keeper and any person authorised by them at reasonable times for feeding, tending or otherwise using the poultry or other captive bird.
+
+(3) If the keeper is unable or unwilling to feed or tend the poultry or other captive bird, the person entitled to occupation of the premises must take such steps as are necessary to ensure it is properly fed and tended.
+
+(4) The keeper is liable to pay the reasonable costs incurred by any person feeding or tending it, or providing facilities for feeding, tending or otherwise using it in accordance with this article.
+
+### 18. Cleansing and disinfection
+
+(1) Any person who is required under this Order to carry out disinfection at any premises or of any thing must–
+
+- (a) use disinfectants approved by the Scottish Ministers under the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008[^key-1c08f0028e3eb767f81c52d51d383d0f] (“**the Disinfectants Order**”) for use under the Avian Influenza Order;
+- (b) use them at the concentrations approved under the Disinfectants Order; and
+- (c) use them–
+  - (i) in accordance with the manufacturer's instructions (if any); or
+  - (ii) if a veterinary inspector has instructed otherwise, in accordance with those instructions.
+
+(2) Where cleansing and disinfection of vehicles is required at any premises under this Order, the occupier of those premises must provide adequate facilities and proper equipment and materials for that cleansing and disinfection.
+
+### 19. Disapplication of measures to those executing or enforcing this Order
+
+(1) Measures in this Order prohibiting or restricting the movement or use of any thing do not apply to the following in their execution of the Order–
+
+- (a) the Scottish Ministers;
+- (b) the local authority; and
+- (c) any person authorised by the Scottish Ministers or the local authority to execute this Order.
+
+(2) No breach of this Order by the Scottish Ministers, the local authority or a person so authorised shall give rise to a criminal offence.
+
+### 20. Veterinary investigations and marking
+
+(1) An inspector performing functions under this Order who enters any premises or inspects any vehicle may–
+
+- (a) mark, or cause to be marked, for identification purposes any bird, mammal, carcase or other thing;
+- (b) count birds and mammals;
+- (c) take samples from any bird, mammal, carcase or other thing; and
+- (d) be accompanied by such people and things as the inspector considers necessary.
+
+(2) Any person who enters premises under paragraph (1)(d) may return unaccompanied to take any further steps necessary to carry out the relevant function.
+
+### 21. General powers of inspectors
+
+(1) An inspector may, when performing the inspector's functions under this Order, require by notice the person in charge of any vehicle or equipment to cleanse and disinfect it.
+
+(2) A veterinary inspector or an inspector acting under the direction of a veterinary inspector may, when performing functions under this Order–
+
+- (a) cleanse and disinfect any part of premises or any thing on those premises;
+- (b) require, by notice, the occupier of any premises to cleanse and disinfect any part of those premises or any thing on those premises;
+- (c) require, by notice, the occupier of any premises or the keeper of any poultry or other captive bird–
+  - (i) to keep or isolate any poultry, other captive bird or animal in a specified place; and
+  - (ii) to separate any poultry, other captive bird or animal from any other animal or bird;
+- (d) require, by notice, the occupier of any premises or the person in charge of any thing to detain or isolate any vehicle, equipment or other thing.
+
+### 22. Powers of inspectors in case of default
+
+(1) If any person fails to comply with a requirement under this Order, an inspector may take any steps which the inspector considers necessary to ensure the requirement is met or to prevent the spread of avian influenza, at the expense of that person.
+
+(2) An inspector's powers under paragraph (1) include powers to–
+
+- (a) require, by notice, any person to take or refrain from specified action in respect of any place, animal, bird, vehicle, or other thing; and
+- (b) seize and detain any thing.
+
+### 23. Offences by bodies corporate
+
+(1) If an offence under this Order committed by a body corporate is shown–
+
+- (a) to have been committed with the consent or connivance of an officer; or
+- (b) to be attributable to negligence on the part of an officer,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(2) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with the member's functions of management as if that member were a director of the body.
+
+(3) “**Officer**”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+(4) “**Body corporate**” includes a partnership in Scotland and, in relation to such a partnership, a reference to an officer of a body corporate is a reference to a partner.
+
+### 24. Enforcement
+
+(1) This Order must be enforced by the local authority.
+
+(2) The Scottish Ministers may direct, in relation to cases of a particular description or to a particular case, that they will enforce this Order instead.
+
+### 25. Revocation
+
+The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2006 [^c18042181] is hereby revoked.
+
+ROSS FINNIE
+
+A member of the Scottish Executive
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — Measures applicable in respect of a wild bird control area
+
+Article 8(1)
+
+### PART 1 — Movement of birds
+
+#### 1. Prohibition on the movement of poultry or other captive birds from premises in a wild bird control area
+
+(1) No person may move poultry or other captive birds from premises in a wild bird control area except under the authority of a licence granted by a veterinary inspector or an inspector acting under the direction of a veterinary inspector.
+
+(2) A veterinary inspector may not grant or direct the grant of a licence under paragraph (1) unless it is for a movement of–
+
+- (a) poultry to any premises in the wild bird control area or the wild bird monitoring area centred on the same outbreak point, including an undesignated slaughterhouse;
+- (b) ready to lay pullets or turkeys for fattening to premises in the United Kingdom;
+- (c) poultry to a designated slaughterhouse for slaughter;
+- (d) day old chicks hatched from eggs collected from premises within the wild bird control area to premises in the United Kingdom;
+- (e) day old chicks hatched from eggs collected from premises within the wild bird monitoring area centred on the same outbreak point as that control area to premises in the United Kingdom;
+- (f) day old chicks hatched from eggs collected from premises outside the wild bird control area or outside the wild bird monitoring area centred on the same outbreak point, to any premises.
+
+(3) A veterinary inspector may not grant or direct the grant of a licence under sub paragraph 2(f) unless they are satisfied that there was no contact, at the hatchery from which the day old chicks are being moved, between the eggs from which the day old chicks were hatched and any other hatching eggs or day old chicks originating from poultry within the control or monitoring area.
+
+#### 2. Restriction on movement of poultry from premises of destination
+
+(1) If a veterinary inspector, or an inspector acting under the direction of a veterinary inspector–
+
+- (a) grants a licence for a movement of ready to lay pullets or turkeys for fattening under paragraph 1(2)(b); or
+- (b) grants a licence for a movement of day old chicks to premises outside the control area or the monitoring area situated on the same outbreak point under paragraph 1(2)(d),
+
+the occupier of the premises to which they are moved must ensure that neither they nor any other poultry are moved off the premises for 21 days from the date when those poultry arrived.
+
+#### 3. Slaughter of poultry
+
+(1) The occupier of a slaughterhouse to which poultry are moved in accordance with paragraph 1(2)(a) or 1(2)(c) must ensure that the poultry are slaughtered without delay.
+
+(2) The occupier of a slaughterhouse which produces–
+
+- (a) fresh meat from poultry referred to in paragraph 9(2)(c) which requires a licence for transport out of the wild bird control area to other parts of the United Kingdom under paragraph 9(1); or
+- (b) fresh meat from such poultry for processing into processed fresh meat requiring such a licence or for incorporation into meat products requiring such a licence,
+
+must ensure that the conditions in paragraph (3) are fulfilled.
+
+(3) The conditions are–
+
+- (a) poultry from premises in a wild bird control area must be kept separate from poultry from outside the wild bird control area;
+- (b) the poultry from within the area must be slaughtered separately or at different times from poultry from outside the area; and
+- (c) the part of the slaughterhouse, any equipment and any other thing which has been used for the slaughter or subsequent processing of poultry from within the area must be cleansed and disinfected in accordance with a veterinary inspector's instructions before poultry from outside the wild bird control area are slaughtered in that part of the slaughterhouse, using that equipment or other thing.
+
+#### 4. Prohibition on the movement of poultry and other captive birds through a wild bird control area
+
+(1) No person may move poultry or other captive birds through a wild bird control area unless the movement is straight through the area on a major highway or railway.
+
+(2) In this paragraph a movement “straight through” a wild bird control area means a movement into that area and then out of that area without stopping or unloading.
+
+### PART 2 — Movement of hatching eggs and SPF eggs
+
+#### 5. Prohibition on the movement of hatching eggs from a wild bird control area
+
+(1) No person may move any hatching egg which was collected from premises within a wild bird control area from premises in that area except under the authority of a licence granted by a veterinary inspector or an inspector acting under their direction.
+
+(2) A veterinary inspector may not grant or direct the grant of a licence under sub paragraph (1), unless it is for a movement of hatching eggs–
+
+- (a) to a hatchery;
+- (b) to a designated laboratory, institute for scientific, diagnostic or pharmaceutical use or vaccine manufacturer;
+- (c) to an establishment for the manufacture of egg products as set out in Chapter II of Section X of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) [^c18042191]; or
+- (d) for disposal.
+
+(3) The Scottish Ministers may not direct the grant of a licence under sub paragraph (1) for a movement to an undesignated hatchery unless–
+
+- (a) poultry on the premises from which the hatching egg is being moved have tested negative in a serological survey for avian influenza capable of detecting 5% prevalence of the disease with at least a 95% level of confidence, carried out to the satisfaction of the Scottish Ministers;
+- (b) the eggs and their packaging are disinfected before dispatch; and
+- (c) the eggs are transported in sealed vehicles.
+
+#### 6. Prohibition on the movement of an SPF-egg from the wild bird control area
+
+No person may move any SPF egg collected from premises in a wild bird control area from premises in that area except to a designated laboratory, institute or vaccine manufacturer for scientific, diagnostic or pharmaceutical uses except under the authority of a licence granted by a veterinary inspector or an inspector acting under the direction of a veterinary inspector.
+
+#### 7. Cleansing and disinfection at undesignated hatcheries
+
+The occupier of an undesignated hatchery to which hatching eggs are moved in accordance with paragraph 5(2)(a) must–
+
+- (a) ensure that trolleys and packaging trays used to transport hatching eggs to or from the hatchery are cleansed and disinfected before leaving the hatchery or before being re-used; and
+- (b) keep a record of any cleansing and disinfection carried out under paragraph (a).
+
+#### 8. Separation of hatching eggs
+
+(1) A person moving hatching eggs out of the wild bird control area under paragraph 5(2) must ensure that those eggs do not come into contact with hatching eggs collected from premises outside that area.
+
+(2) The occupier of an undesignated hatchery to which hatching eggs are moved under paragraph 5(2)(a) must ensure that those eggs do not come into contact with hatching eggs collected from premises outside the wild bird control area.
+
+### PART 3 — Movement of controlled meat
+
+#### 9. Restriction on the movement of controlled meat out of a wild bird control area
+
+(1) No person may move controlled meat out of a wild bird control area except under the authority of a licence granted by a veterinary inspector or an inspector acting under the direction of a veterinary inspector.
+
+(2) A veterinary inspector may not grant or direct the grant of a licence under sub paragraph (1) unless it is for the movement of–
+
+- (a) fresh meat from poultry that was produced in accordance with Annex II and Sections II and III of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) and has been subject to the official controls set out in Article 18 of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products[^key-d26451902271f33564e7c2fc49e394cb];
+- (b) processed fresh meat or meat products produced from such fresh meat from poultry that was produced in accordance with Sections V and VI of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853);
+- (c) fresh meat from poultry, processed fresh meat from poultry or meat products from such fresh meat or processed fresh meat, other than the fresh meat, processed fresh meat and meat products referred to in sub paragraphs (2)(a) and (b), to other parts of the United Kingdom, provided–
+  - (i) the meat or product is identified with the national mark described in paragraph 10(1) or with the mark described in paragraph 10(2); and
+  - (ii) the veterinary inspector is satisfied that the meat or product meets the conditions set out in paragraph 11;
+- (d) fresh meat or processed fresh meat produced from poultry or wild game birds originating from an area which subsequent to such production is declared a wild bird control area, provided such meat has been obtained, cut and stored separately from poultry or wild game bird meat produced after the date when the control area is established; or
+- (e) meat products containing the meat referred to in paragraph (d) produced in establishments within the wild bird control area.
+
+(3) No person other than the final consumer of meat marked with a mark referred to in paragraph (2)(c) shall deface, obliterate or remove that mark, unless licensed by the Scottish Ministers.
+
+#### 10. National mark
+
+(1) The national mark referred to in paragraph 9(2)(c)(i) must–
+
+- (a) be square;
+- (b) be clear and visible; and
+- (c) contain in legible form, the following–
+  - (i) on the upper part, the letters “UK”;
+  - (ii) in the centre, the slaughterhouse approval number;
+  - (iii) on the lower part, the letter “N”.
+
+(2) The other mark referred to in paragraph 9(2)(c)(i) must be–
+
+- (a) in the form set out below;
+- (b) of the dimensions referred to below; or of proportionate dimensions; and
+- (c) legible to the naked eye.
+
+[image: see source](https://www.legislation.gov.uk/ssi/2007/61/images/ssi_20070061_en_sld_001)
+
+- (a) UK – letters 8 mm high;
+- (b) XXXX (where XXXX is the approval number of the premises, as referred to in point 6[^key-9ac7b0122ac72c50de4699467b0dfbca] of Part B of Section I of Annex II to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853)) – numbers 11 mm high;
+- (c) diameter (to outer edge of border) – not less than 30 mm;
+- (d) thickness of border – 3 mm.
+
+#### 11. Conditions for the movement of meat and products
+
+The conditions referred to in paragraph 9(2)(c)(ii) are that the meat (or the meat from which the product was made) was obtained, cut, and stored separately from–
+
+- (a) controlled meat being moved under paragraphs 9(2)(a), (b) or (d); and
+- (b) from meat from poultry from outside the wild bird control area.
+
+#### 12. Separation of controlled meat
+
+(1) A person moving controlled meat out of the wild bird control area under a licence granted in accordance with paragraph 9(2)(c) must ensure that it does not come into contact with controlled meat being moved under a licence granted in accordance with paragraphs 9(2)(a), (b) or (d) or any meat from poultry from outside that area.
+
+(2) A person receiving controlled meat moved under a licence granted under paragraph 9(2)(c) must ensure that it is not used in meat products or meat preparations intended for placing on the market outside the United Kingdom unless it or the product or preparation in which it has been used has undergone a heat treatment at a minimum temperature of 70°C, which must be reached throughout the meat.
+
+(3) If controlled meat referred to in paragraphs 9(2)(a), (b) or (d) has come into contact with meat referred to in paragraph 9(2)(c), the person moving such meat must identify it in accordance with paragraph 9(2)(c)(i) as soon as is reasonably practicable and must not transport it to premises outside the United Kingdom.
+
+### PART 4 — Movement of by products
+
+#### 13. Restriction on the movement of bird by products or products derived from bird by products from premises in a wild bird control area
+
+(1) No person may move from a wild bird control area, a bird by product deriving from poultry, other captive birds or wild game bird originating from within that control area, or product deriving from such by products except under the authority of a licence granted by a veterinary inspector or an inspector acting under the direction of a veterinary inspector.
+
+(2)[^key-703b01099c8dd41c37afd530ef8c4a36] A veterinary inspector may not grant or direct the grant of a licence under sub paragraph (1) unless it is for a movement of—
+
+- (a) processed animal protein within the meaning of paragraph 5 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph B of Section 1 of Chapter II of Annex X to that Regulation;
+- (b) blood products within the meaning of paragraph 4 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph B of Section 2 of Chapter II of Annex X to that Regulation;
+- (c) rendered fats within the meaning of paragraph 8 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph B of Section 3 of Chapter II of Annex X to that Regulation;
+- (d) gelatine within the meaning of paragraph 12 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph B of Section 5 of Chapter II of Annex X to that Regulation;
+- (e) hydrolysed protein within the meaning of paragraph 14 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph D of Section 5 of Chapter II of Annex X to that Regulation;
+- (f) dicalcium phosphate which complies with the requirements of paragraph B of Section 6 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+- (g) tricalcium phosphate which complies with the requirements of paragraph B of Section 7 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+- (h) collagen within the meaning of paragraph 11 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph B of Section 8 of Chapter II of Annex X to that Regulation;
+- (i) egg products which comply with the requirements of paragraph B of Section 9 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+- (j) processed petfood within the meaning of paragraph 20 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of Chapter II of Annex XIII to that Regulation;
+- (k) raw petfood within the meaning of paragraph 21 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of Chapter II of Annex XIII to that Regulation;
+- (l) dogchews within the meaning of paragraph 17 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of Chapter II of Annex XIII to that Regulation;
+- (m) processed manure and processed manure products which comply with the requirements of Section 2 of Chapter I of Annex XI to Regulation (EU) No 142/2011;
+- (n) game trophies of birds having undergone a complete taxidermy treatment ensuring their preservation at ambient temperatures within the meaning of Chapter VI of Annex XIII to Regulation (EU) No 142/2011;
+- (o) those by-products which are transported to designated plants listed in article 13(1)(c) for disposal, treatment, transformation or use which ensures inactivation of the avian influenza virus;
+- (p) those by-products which are transported to users or collection centres authorised and registered in accordance with Article 23 of Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) for the feeding of animals after they have been treated by a method approved by the competent authority which ensures inactivation of the avian influenza virus;
+- (q) untreated feathers or parts of untreated feathers produced from poultry within the meaning of paragraph 30 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph A of Chapter VII of Annex XIII to that Regulation; or
+- (r) poultry feathers, feathers from wild game bird or parts of such feathers which have been treated with a steam current or by another method which ensures inactivation of the avian influenza virus.
+
+(3) A veterinary inspector may not grant or direct the grant of a licence under sub paragraph (1) for the movement of the by products listed in sub paragraphs (2)(a) to (i) unless they have also been processed at a processing plant which complies with the requirements of Regulation[^key-9374c0d81b2c96c8d45197034b648b33] [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Annex IV to Regulation (EU) No 142/2011.
+
+(4) The prohibition in sub paragraph (1) does not apply to a movement permitted under paragraph 14 or 15.
+
+(5) The bird by products referred to in sub paragraph (2)(q) and (r)[^key-4d357bd1de8884e8bd36e570df1d841c] must be accompanied by the model commercial document in accordance with Chapter[^key-f583ae7134f0bcd945c146fc7464b325] III of Annex VIII to Regulation (EU) No 142/2011.
+
+(6) The commercial document accompanying the bird by products referred to in sub paragraph (2)(r)[^key-3643c923356a9681e8d1a7f3c54aef52] must state, at paragraph 6.1 of that document, that they have been treated with a steam current or by another method to ensure no avian influenza pathogens remain.
+
+(7) Paragraph (5) does not apply to processed decorative feathers or processed feathers carried by travellers for their private use or consignments of processed feathers sent to private individuals for non industrial purposes.
+
+### PART 5 — Other measures
+
+#### 14. Prohibition on movement of poultry manure
+
+No person may move any manure from poultry or other captive birds from premises in a wild bird control area unless–
+
+- (a) the movement is to an establishment for treatment in accordance with Regulation 1069/2009 and Section 2 of Chapter I of Annex[^key-ebd75de715b5af6d55e9ac45ef94bcc3] XI to Regulation (EU) No 142/2011;
+- (b) the poultry manure has already been so treated and the movement is licensed in accordance with paragraph 13(2)(l); or
+- (c) it originates from premises from which poultry have been moved under the authority of a licence granted under paragraph 1(2)(a), (b) or (c).
+
+#### 15. Prohibition on the spread of poultry manure
+
+No person may spread any manure from poultry or other captive birds from premises in a wild bird control area unless–
+
+- (a) it has been treated in accordance with Regulation 1069/2009 and Section 2 of Chapter I of Annex[^key-4c984bdeac1659344ff4cc61a8d19a3e] XI to Regulation (EU) No 142/2011; or
+- (b) it originates from premises from which poultry have been moved under the authority of a licence granted under paragraph 1(2)(a), (b) or (c).
+
+#### 16. Prohibition on gatherings of poultry and other captive birds in a wild bird control area
+
+(1) No person may arrange any fair, market, show, exhibition or other gathering involving the collecting together of poultry or other captive birds in a wild bird control area.
+
+(2) No person may bring any poultry or other captive birds to such a gathering.
+
+#### 17. Prohibition on hunting wild birds in a wild bird control area
+
+No person may hunt wild birds or otherwise take them from the wild in a wild bird control area except under the authority of a licence granted by the Scottish Ministers.
+
+#### 18. Prohibition on the release of game birds
+
+No person may release game birds in a wild bird control area.
+
+## SCHEDULE 2 — Measures applicable in respect of a wild bird monitoring area
+
+Article 8(2)
+
+### 1. Prohibition on the movement of poultry and other captive birds from a wild bird monitoring area
+
+(1) No person may move poultry or other captive birds from premises in a wild bird monitoring area before 15 days have elapsed since the declaration of the area, except under the authority of a licence granted by a veterinary inspector or an inspector acting under the direction of a veterinary inspector.
+
+(2) A veterinary inspector may not grant or direct the grant of a licence for a movement under paragraph (1) unless it is a movement of–
+
+- (a) poultry to a slaughterhouse within the wild bird monitoring area or the wild bird control area situated on the same outbreak point or a designated slaughterhouse;
+- (b) poultry to any premises other than a slaughterhouse;
+- (c) day old chicks hatched from eggs which were collected from premises within that wild bird monitoring area to premises in the United Kingdom;
+- (d) day old chicks hatched from eggs which were collected from premises within the wild bird control area centred on the same outbreak point as that wild bird monitoring area to premises in the United Kingdom; or
+- (e) day old chicks hatched from eggs which were collected from premises outside that wild bird monitoring area or the wild bird control area centred on the same outbreak point to any premises.
+
+(3) A veterinary inspector may not grant or direct the grant of a licence for a movement referred to in sub paragraph (2)(e) unless the veterinary inspector is satisfied that there was no contact, at the hatchery from which the day old chicks are being moved, between the eggs from which the day old chicks were hatched and any other hatching eggs or day old chicks originating from poultry within the wild bird control area or wild bird monitoring area.
+
+### 2. Slaughter of poultry
+
+The occupier of a slaughterhouse to which poultry are moved in accordance with paragraph 1(2)(a) must ensure that the poultry are slaughtered without delay.
+
+### 3. Restriction on movement of poultry from premises of destination
+
+If a veterinary inspector, or an inspector of the local authority acting under the direction of a veterinary inspector grants a licence under paragraph 1(2)(d) for a movement of day old chicks to premises outside the wild bird control area, or outside the wild bird monitoring area situated on the same outbreak point, the occupier of the premises to which they are moved must ensure that neither they nor any other poultry are moved off the premises for 21 days from the date when those day–old chicks arrived.
+
+### 4. Prohibition on hunting wild birds in a wild bird monitoring area
+
+No person may hunt wild birds or otherwise take them from the wild in a wild bird monitoring area except under the authority of a licence granted by the Scottish Ministers.
+
+### 5. Prohibition on gatherings of poultry and other captive birds in a wild bird monitoring area
+
+(1) No person may arrange any fair, market, show, exhibition or other gathering involving the collecting together of poultry or other captive birds in a wild bird monitoring area.
+
+(2) No person may bring any poultry or other captive birds to such a gathering.
+
+### 6. Prohibition on the release of game birds
+
+No person may release game birds in a wild bird monitoring area.
+
+## SCHEDULE 3 — Biosecurity measures
+
+Article 8(3)
+
+**1.** This Schedule applies in respect of premises in a wild bird control area and a wild bird monitoring area where poultry or other captive birds are kept, other than slaughterhouses.
+
+**2.** The occupier must provide and maintain means of disinfection at the entrances and exits of the premises and any buildings on the premises housing poultry or other captive birds, and take reasonable steps to ensure that they are used appropriately by persons entering and leaving the premises.
+
+**3.** A person entering or leaving premises must not wear clothing or footwear which is visibly soiled with mud, droppings, animal or bird faeces, or any similar matter.
+
+**4.** A person in charge of any vehicle entering or leaving premises must ensure that–
+
+- (a) its wheels, wheel arches and mudflaps are cleansed and disinfected; and
+- (b) its outside is not visibly soiled with mud, animal or bird faeces or any similar matter.
+
+*(This note is not part of the Order)*
+
+This Order extends to Scotland only and implements Commission Decision [2006/563/EC](https://www.legislation.gov.uk/european/decision/2006/0563) concerning certain protection measures in relation to highly pathogenic avian influenza of subtype H5NI in wild birds in the Community and repealing Decision [2006/115/EC](https://www.legislation.gov.uk/european/decision/2006/0115) (O.J. No. L 222, 15.8.2006, p.11). It also specifies the health mark, and the alternative health mark pursuant to Directive [2002/99/EC](https://www.legislation.gov.uk/european/directive/2002/0099), to be applied to fresh and processed poultry meat and meat products which are to be moved out of a wild bird control area to another part of the UK. These marks are in accordance with the opinion of the Standing Committee on the Food Chain and Animal Health of 1st December 2006.
+
+This Order provides that if the Chief Veterinary Officer (Scotland) advises the Scottish Ministers that avian influenza of subtype H5 is present in a wild bird or a wild bird carcase and that the Chief Veterinary Officer (Scotland) suspects or confirms that the neuraminidase type is N1, the Scottish Ministers must, subject to a derogation, declare a wild bird control area and a wild bird monitoring area (articles 5, 6 and 7) (article 5(4) sets out the exception to the requirement to make a declaration). Article 8 sets out the measures to apply in such areas by reference to the Schedules, and the circumstances in which the Scottish Ministers can amend a declaration to disapply certain measures in those areas. Article 9 provides that the Scottish Ministers may impose additional measures to those set out in the Schedules. Article 12 sets out the circumstances in which the Scottish Ministers can either amend a declaration of a wild bird control area so that it becomes part of the wild bird monitoring area or revoke the declaration of either area.
+
+The Scottish Ministers must ensure that veterinary inspectors inspect commercial premises in a wild bird control area or a wild bird monitoring area to monitor the spread of avian influenza (article 11).
+
+Articles 13 to 23 relate to record keeping, cleansing and disinfection, provision of reasonable assistance and powers of inspectors.
+
+Schedule 1 sets out the measures that are to apply in respect of a wild bird control area including measures relating to the movement of birds (Part 1), the movement of hatching eggs and SPF eggs (Part 2), the movement of controlled meat (Part 3), the movement of by products (Part 4) and the use or movement of manure, the hunting or release of birds and bird gatherings (Part 5) and other provisions relating to the measures to be taken at premises receiving birds or their products from the area. Schedule 2 sets out the measures that are to apply in respect of a wild bird monitoring area including measures relating to the movement of birds and prohibitions on bird gatherings and the hunting or release of birds. Schedule 3 set out the biosecurity measures that are to apply in respect of premises where poultry or other captive birds are kept in a wild bird control area or a wild bird monitoring area.
+
+This Order is enforced by the local authority (article 24).
+
+This Order revokes the Avian Influenza (H5NI in Wild Birds) (Scotland) Order 2006 (article 25).
+
+Failure to comply with this Order is an offence under section 73 of the Animal Health Act 1981 (c. 22), punishable in accordance with section 75 of that Act.
+
+No Regulatory Impact Assessment has been prepared in respect of this Order.
+
+## Annotations
+
+[^c18042101]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22) as amended by the [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11) and the [Animal Health Act 1981 (Amendment) Regulations 1992 (S.I. 1992/3293)](https://www.legislation.gov.uk/uksi/1992/3293). The functions conferred under the 1981 Act on “the Ministers” (as defined by section 86 of that Act) were transferred, so far as within devolved competence to the Scottish Ministers, by virtue of section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^c18042111]: Marginal citation: [S.S.I. 2006/336](https://www.legislation.gov.uk/ssi/2006/336).
+
+[^key-efcc0576a9a7edb9656d9496bfb3bd29]: Textual amendment: Words in art. 2 substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 39(a)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/39/a)
+
+[^key-70cd752509975a91f2829c189af2024e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2007/61/article/2) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(2)(a)](https://www.legislation.gov.uk/ssi/2021/444/article/4/2/a), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+
+[^key-c48cabf99ca536201ed1802e8334a6b7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2007/61/article/2) inserted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(2)(b)](https://www.legislation.gov.uk/ssi/2021/444/article/4/2/b), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+
+[^c18042131]: Marginal citation: [S.S.I. 2005/531](https://www.legislation.gov.uk/ssi/2005/531) as amended by [S.S.I. 2005/647](https://www.legislation.gov.uk/ssi/2005/647).
+
+[^key-4fa09f6f6a0b06874c333d1c6eb57ec7]: Textual amendment: Word in art. 2 substituted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [6](https://www.legislation.gov.uk/ssi/2019/71/regulation/6)
+
+[^c18042141]: Marginal citation: O.J. No. L 139, 30.4.2004, p.55. The revised text of the Regulation is contained in a corrigendum (O.J. No. L 226, 25.6.04, p.22).
+
+[^key-b2141961229f12f0f4f7ba2860d7c4d6]: Textual amendment: Words in art. 2 inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [29(2)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/29/2/a)
+
+[^key-e79becf879268359e5c150ace88477dd]: Textual amendment: Words in art. 2 substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 39(b)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/39/b)
+
+[^key-f1ae5bc9b4080fb30961a58c6495e1c5]: Textual amendment: Words in art. 2 substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [20(2)](https://www.legislation.gov.uk/ssi/2019/412/regulation/20/2)
+
+[^key-a6688b9988afb84fbeb38be1107a43da]: Textual amendment: Words in art. 2 omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [29(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/29/2/c)
+
+[^key-83a9c560041b7c23c30126fd595e51b1]: Textual amendment: Words in art. 2 inserted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/12)
+
+[^key-57ba2eb32e0fe60f9991e7d63c6836d8]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/ssi/2007/61/article/5/1) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(3)](https://www.legislation.gov.uk/ssi/2021/444/article/4/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+
+[^key-3549b823a3d11248e8995d15025e41b6]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/ssi/2007/61/article/12/1) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(4)(a)](https://www.legislation.gov.uk/ssi/2021/444/article/4/4/a), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+
+[^key-004ce73829bbfcaa1e4f43e1c2fc6669]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/ssi/2007/61/article/12/4) inserted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(4)(b)(i)](https://www.legislation.gov.uk/ssi/2021/444/article/4/4/b/i), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+
+[^key-1310cfccc250fbff6d7a970f4964fda9]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/ssi/2007/61/article/12/4) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2021/444/article/4/4/b/ii), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+
+[^key-d5b2791f4a78c6199a6c44b955842f97]: Textual amendment: [Art. 13(1)(c)](https://www.legislation.gov.uk/ssi/2007/61/article/13/1/c) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/13)
+
+[^key-1c08f0028e3eb767f81c52d51d383d0f]: Textual amendment: Words in [art. 18(1)(a)](https://www.legislation.gov.uk/ssi/2007/61/article/18/1/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [29(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/29/3)
+
+[^c18042181]: Marginal citation: [S.S.I. 2006/196](https://www.legislation.gov.uk/ssi/2006/196) as amended by [S.S.I. 2006/277](https://www.legislation.gov.uk/ssi/2006/277).
+
+[^c18042191]: Marginal citation: O.J. No. L 139, 30.4.2004, p.55. The revised text of the Regulation is contained in a corrigendum (O.J. No. L 226, 25.6.04, p.22).
+
+[^key-d26451902271f33564e7c2fc49e394cb]: Textual amendment: Words in [sch. 1 para. 9(2)(a)](https://www.legislation.gov.uk/ssi/2007/61/schedule/1/paragraph/9/2/a) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [20(3)](https://www.legislation.gov.uk/ssi/2019/412/regulation/20/3)
+
+[^key-9ac7b0122ac72c50de4699467b0dfbca]: Textual amendment: Words in [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2007/61/schedule/1/paragraph/10) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [18](https://www.legislation.gov.uk/ssi/2019/71/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-703b01099c8dd41c37afd530ef8c4a36]: Textual amendment: Sch. 1 para. 13(2) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(a)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/a)
+
+[^key-9374c0d81b2c96c8d45197034b648b33]: Textual amendment: Words in sch. 1 para. 13(3) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(b)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/b)
+
+[^key-4d357bd1de8884e8bd36e570df1d841c]: Textual amendment: Words in sch. 1 para. 13(5) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(c)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/c)
+
+[^key-f583ae7134f0bcd945c146fc7464b325]: Textual amendment: Words in sch. 1 para. 13(5) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 41(a)(ii)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/41/a/ii)
+
+[^key-3643c923356a9681e8d1a7f3c54aef52]: Textual amendment: Word in sch. 1 para. 13(6) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(d)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/d)
+
+[^key-ebd75de715b5af6d55e9ac45ef94bcc3]: Textual amendment: Words in sch. 1 para. 14(a) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 41(b)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/41/b)
+
+[^key-4c984bdeac1659344ff4cc61a8d19a3e]: Textual amendment: Words in sch. 1 para. 15(a) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 41(c)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/41/c)

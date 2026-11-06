@@ -1,0 +1,69 @@
+---
+title: Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021, section 97
+act: Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021
+section: '97'
+status: revised
+text_date: '2022-02-09'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2021/15/section/97
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021, section 97
+
+> Text as at 2022-02-09.
+>
+> Extent: Scotland.
+
+## 97. Liability for payments, other than redress payments, made in error[^key-b86fb06b1ea3f9fd7bb2d79f707f5ea3]
+
+*Extent: S*
+
+(1) This section applies where a payment mentioned in subsection (2) is made by the Scottish Ministers due to a relevant error.
+
+(2) The payment referred to in subsection (1) is a payment made—
+
+- (a) in respect of a report commissioned under or by virtue of section 83(1),
+- (b) by virtue of arrangements made under section 89 or 90 for or in connection with the provision of support,
+- (c) by virtue of regulations under section 91 providing for the reimbursement of costs and expenses incurred in connection with the making of an application for a redress payment or a proposed application for such a payment, or
+- (d) under section 92 or 93 in respect of fees for legal work undertaken in making an application for a redress payment or in connection with a proposed application for such a payment.
+
+(3) A person—
+
+- (a) to whom the payment was made, or
+- (b) who received payment in respect of the report, support or, as the case may be, the matter in relation to which costs or expenses were reimbursed,
+
+is liable to pay the Scottish Ministers the value of the payment to the extent that it is paid due to a relevant error.
+
+(4) A person's liability under subsection (3) is the difference in value between—
+
+- (a) the payment made to or received by the person, and
+- (b) the payment (if any) that would have been made or received had the relevant error not been made.
+
+(5) Where the Scottish Ministers seek to recover a sum due to them by a person under subsection (3), the sum may be paid—
+
+- (a) in such instalments as are agreed at the request of, or otherwise with the consent of the person, or
+- (b) otherwise, as a single payment.
+
+(6) But the Scottish Ministers may not seek to recover any sum—
+
+- (a) where the payment is in respect of a report commissioned under or by virtue of section 83(1), from the applicant in relation to whom the report was obtained,
+- (b) where the payment is in respect of support provided by virtue of arrangements made under section 89 or 90, from the person to whom the support was provided,
+- (c) where the payment is in respect of reimbursement of costs or expenses by virtue of regulations under section 91, from the person who requested the reimbursement,
+- (d) where the payment is in respect of fees for legal work paid under section 92 or 93, from the applicant or other person on whose behalf the work was undertaken.
+
+(7) In this section, references to a relevant error are to—
+
+- (a) an error when making the payment,
+- (b) an error which the Scottish Ministers consider led to the decision to make the payment being made—
+  - (i) incorrectly, or
+  - (ii) correctly but on the basis of incorrect or misleading information,
+
+  in a way which materially affected the decision.
+
+(8) But an error in making a redress payment in relation to which a payment mentioned in subsection (1) was made is not a relevant error for the purpose of this section.
+
+## Annotations
+
+[^key-b86fb06b1ea3f9fd7bb2d79f707f5ea3]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2021/15/section/97) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

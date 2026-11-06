@@ -1,0 +1,40 @@
+---
+title: Bankruptcy (Scotland) Act 2016, section 206
+act: Bankruptcy (Scotland) Act 2016
+section: '206'
+status: revised-with-pending-changes
+text_date: '2025-06-25'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/21/section/206
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Bankruptcy (Scotland) Act 2016, section 206
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2016/21
+>
+> Extent: Scotland.
+
+## 206. Liabilities and rights of co-obligants[^key-543be8db26efddc732f196c7eea86538]
+
+*Extent: S*
+
+(1) Where a creditor has an obligant bound to the creditor along with the debtor for the whole or part of the debt, the obligant is not freed or discharged from the obligant's liability for the debt by reason of the discharge of the debtor or by virtue of the creditor's voting or drawing a dividend or assenting to, or not opposing, the discharge of the debtor.
+
+(2) Subsection (3) applies where—
+
+- (a) the creditor has had a claim accepted in whole or in part, and
+- (b) the obligant holds a security over any part of the debtor's estate
+
+(3) The obligant must account to the trustee in the sequestration so as to put the estate in the same position as if the obligant had paid the debt to the creditor and thereafter had had the obligant's claim accepted in whole or in part in the sequestration after deduction of the value of the security.
+
+(4) The obligant may require and obtain at the obligant's own expense from the creditor an assignation of the debt on payment of the amount of the debt and on that being done may in respect of the debt submit a claim, and vote and draw a dividend, if otherwise legally entitled to do so.
+
+(5) Subsection (4) is without prejudice to any right, under any rule of law, of a co-obligant who has paid the debt.
+
+(6) In this section, “**obligant**” includes cautioner.
+
+## Annotations
+
+[^key-543be8db26efddc732f196c7eea86538]: Commencement: S. 206 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

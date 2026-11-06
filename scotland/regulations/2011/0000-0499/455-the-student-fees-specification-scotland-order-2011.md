@@ -1,0 +1,194 @@
+---
+title: The Student Fees (Specification) (Scotland) Order 2011
+id: ssi/2011/455
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-12-21'
+text_date: '2015-03-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/455
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/455/pdfs/ssien_20110455_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/455/pdfs/ssi_20110455_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/455/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Student Fees (Specification) (Scotland) Order 2011
+
+> Text as at 2015-03-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 455
+
+Education
+
+The Student Fees (Specification) (Scotland) Order 2011
+
+Made
+
+21st December 2011
+
+Coming into force
+
+1st August 2012
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 9(6) and (7) and 34(2) of the Further and Higher Education (Scotland) Act 2005[^f00001] (“the Act”) and of all other powers enabling them to do so.
+
+The Scottish Ministers have laid before the Scottish Parliament a proposed draft of this Order and a statement of their reasons for proposing to make it; publicised the proposed draft of this Order; invited written representations on the proposed draft of this Order; and had regard to any written representations about the proposed draft of this Order, all in accordance with section 9(13) and (15) of the Act.
+
+The Scottish Ministers have laid before the Scottish Parliament a statement summarising all written representations about the proposed draft of this Order to which they had regard under section 9(13)(d) of the Act; the changes (if any) made to the proposed draft of this Order in light of the representations; and any reasons for making, or not making, changes in light of the representations, all in accordance with section 9(14) of the Act.
+
+In accordance with section 34(4) of that Act, a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament[^f00002].
+
+## 1. Citation and commencement[^key-0a5268aa612033a948b0b1d15544d828]
+
+This Order may be cited as the Student Fees (Specification) (Scotland) Order 2011 and comes into force on 1st August 2012.
+
+## 2. Interpretation[^key-cc786ef42bcfeed5ba5207010fe8ff21]
+
+In this Order—
+
+- (a) “the 2006 Order” means the Student Fees (Specification) (Scotland) Order 2006[^f00003];
+- (b) a “2012/13 academic year” is any academic year commencing during the period beginning on 1st August 2012 and ending on 31st July 2013 and subsequent academic years are to be construed accordingly;
+- (c) a “higher level course of education” is any course at a higher level, including a honours or ordinary degree course, with the exception of—
+  - (i) a course of post-graduate studies (including a higher degree course); and
+  - (ii) a course at a higher level in preparation for a qualification from a professional body;
+- (d) a “post 2011/12 student” is a student, who is not a deferred student or a new deferred student within the meaning of article 1(2) of the 2006 Order, who commences a course at a post-16 education[^key-5ea07e8b0211590ffd9ac9ecbac3a2d3] body on or after 1st August 2012.
+
+## 3. Specification of fees for a 2012/13 academic year[^key-a27f680867aa7b20e70fdf119764f7cb]
+
+(1) Subject to paragraph (3), the Scottish Ministers specify the following fees payable for a 2012/13 academic year.
+
+(2) Full time post 2011/12 students who are studying at post-16 education[^key-683b69665e895f307f12435aa9d849dd] bodies must pay a fee of—
+
+- (a) £1,820 in connection with their attending any honours or ordinary degree course;
+- (b) £1,820 in connection with their attending a Postgraduate Certificate in Education or Professional Graduate Diploma in Education course;
+- (c) £1,285 in connection with their attending any higher level course of education which is not specified in (a).
+
+(3) Paragraphs (1) and (2) do not apply in relation to any fees which are payable in accordance with the Education (Fees) (Scotland) Regulations 2011[^f00004] by students who do not have a relevant connection with Scotland and are not excepted students under those Regulations.
+
+## 4. Specification of fees for academic years subsequent to a 2012/13 academic year[^key-fd0ed5294b5d2c072aecd08c6d0cf9d1]
+
+The Scottish Ministers may determine, in relation to any academic year subsequent to a 2012/13 academic year, that the fees payable for that year, by any full time post 2011/12 students in connection with their attending such courses as specified under article 3(2), are—
+
+- (a) in each case no higher than the fees specified under article 3(1) and (2); or
+- (b) in any case higher than the fees specified under article 3(1) and (2), provided that any increase in fees is no greater than is required in order to maintain the value in real terms of those specified fees.
+
+## 5. Amendment of the Student Fees (Specification) (Scotland) Order 2006[^key-cb9dff93fa34929b69133dee1439b84d]
+
+(1) The 2006 Order is amended as follows.
+
+(2) In article 1(2) (citation, commencement and interpretation)—
+
+- (a) after sub-paragraph (c) insert—
+
+  > - (ca) an “excluded medical student” is a student, who is not an existing student, a deferred student or a new student to whom articles 2 and 3 apply, who—
+  >   - (i) has been accepted on to a Bachelor of Medicine and Bachelor of Surgery degree course or a Bachelor of Science degree course in medicine which is a preparatory course for the study of a Bachelor of Medicine and Bachelor of Surgery degree course at a fundable body and has agreed in writing with that fundable body, during the period beginning on 1st August 2005 and ending on 31st July 2011, to defer entry to that course; and
+  >   - (ii) has a relevant connection with Scotland, or is an excepted student, within the meaning of the Education (Fees) (Scotland) Regulations 2011[^f00005];
+
+  ;
+- (b) after sub-paragraph (e) insert—
+
+  > - (ea) a “new deferred student” is a student, who is not an excluded medical student, an existing student or a new student to whom articles 2 and 3 of this Order apply who has been accepted on to a course at a fundable body and has agreed in writing with that fundable body, during the period beginning on 1st August 2005 and ending on 31st July 2011, to defer entry to that course;
+
+  .
+
+(3) After article 1 insert—
+
+> **1A. Application of articles 2 and 3 to new students**
+>
+> Articles 2 and 3 do not apply to a new student who is also a post 2011/12 student within the meaning of article 2(d) of the Student Fees (Specification) (Scotland) Order 2011[^f00006].
+
+.
+
+(4) After article 3 insert—
+
+> **4. Specification of fees for the 2012/13 academic year for new deferred students**
+>
+> (1) Subject to paragraph (3), the Scottish Ministers specify the following fees payable for a 2012/13 academic year.
+>
+> (2) Full time new deferred students who are studying at fundable bodies must pay a fee of—
+>
+> - (a) £1,820 in connection with their attending any honours or ordinary degree course which is not a medical degree course specified in (b);
+> - (b) £2,895 in connection with their attending a Bachelor of Medicine and Bachelor of Surgery degree course or a Bachelor of Science degree course in medicine which is a preparatory course for the study of a Bachelor of Medicine and Bachelor of Surgery degree course;
+> - (c) £1,820 in connection with their attending a Postgraduate Certificate in Education or Professional Graduate Diploma in Education course;
+> - (d) £1,285 in connection with their attending any higher level course of education which is not specified in (a) or (b).
+>
+> (3) Paragraphs (1) and (2) shall not apply in relation to any fees which are payable in accordance with the Education (Fees and Awards) (Scotland) Regulations 2007[^f00007] by students who do not have a relevant connection with the United Kingdom and Islands and are not excepted students under those Regulations.
+>
+> **5. Specification of fees for academic years subsequent to the 2012/13 academic year for new deferred students**
+>
+> (1) The Scottish Ministers may determine, in relation to any academic year subsequent to a 2012/13 academic year, that the fees payable for that year, by full time new deferred students in connection with their attending such courses as specified under article 4(2) are—
+>
+> - (a) in each case no higher than the fees specified under article 4(1) and (2), as the case may be; or
+> - (b) in any case higher than the fees specified under article 4(1) and (2), as the case may be, provided that any increase in fees is no greater than is required in order to maintain the value in real terms of those specified fees.
+
+.
+
+MICHAEL W RUSSELL
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+21st December 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order is made under sections 9(6) and (7) and 34(2) of the Further and Higher Education (Scotland) Act 2005 (“the 2005 Act”). It specifies the fees that are payable by certain students attending courses of higher education at fundable bodies in the 2012/13 academic year. It also amends the Student Fees (Specification) (Scotland) Order 2006 ([S.S.I. 2006/401](https://www.legislation.gov.uk/ssi/2006/401)) (“the 2006 Order”). “Fundable body” means a body specified in schedule 2 to the 2005 Act.
+
+A 2012/13 academic year is defined as any academic year which has a start date between 1st August 2012 and 31st July 2013, inclusive. Subsequent academic years are to be construed accordingly (i.e. with reference to start dates during the period from 1st August to 31st July).
+
+The Order specifies fees for full time students only and does not apply to part time students. The fees apply to any student who is a “post 2011/12 student” within the meaning of the Order. A “post 2011/12 student” is a student, who is not a “deferred student” or a “new deferred student” within the meaning of the 2006 Order, who commences a course on or after 1st August 2012. To qualify as a “deferred student” within the meaning of the 2006 Order a student must commence a course on or after 1st August 2006 having agreed with the relevant fundable body, before 1st August 2005, to defer entry to that course. To qualify as a “new deferred student” within the meaning of the 2006 Order a student must commence a course on or after 1st August 2012 having agreed with the relevant fundable body, between 1st August 2005 and 31st July 2011, to defer entry to that course. The term “new deferred student” does not include a student who is an excluded medical student. An “excluded medical student” is a student who (i) has been accepted on to a Bachelor of Medicine and Bachelor of Surgery degree course or a Bachelor of Science degree course in medicine which is a preparatory course for the study of a Bachelor of Medicine and Bachelor of Surgery degree course at a fundable body and has agreed in writing with that fundable body, during the period beginning on 1st August 2005 and ending on 31st July 2011, to defer entry to that course; and (ii) has a relevant connection with Scotland, or is an excepted student, within the meaning of the Education (Fees) (Scotland) Regulations 2011 (“the 2011 Regulations”).
+
+Article 3(2)(a) provides that full time post 2011/12 students studying honours or ordinary degrees must pay a fee of £1,820. Article 3(2)(b) provides that full time post 2011/12 students studying postgraduate initial teacher training courses must pay a fee of £1,820. Article 3(2)(c) provides that full time post 2011/12 students studying any other higher level education course must pay a fee of £1,285.
+
+Article 3(3) provides that these fees do not apply to students who do not have a relevant connection with Scotland and are not excepted students within the meaning of the 2011 Regulations.
+
+These specified fees will form part of the conditions of grant imposed on fundable bodies under section 9 of the 2005 Act. Under this section the Scottish Ministers specify the fees and will then require the Scottish Further and Higher Education Funding Council (through the terms of the grant to that Council) to set this fee level through further conditions of grant on fundable bodies. Fundable bodies then require this level of fee from those students to whom the 2011 Regulations apply.
+
+Article 4 allows Scottish Ministers to set fees for subsequent academic years by determination, rather than by Order, only if either such fees are no greater than the 2012/13 fees or such fees are only higher than the 2012/13 fees in so far as is necessary to maintain the value of the fees in real terms. In considering the value of fees in real terms, section 9(17) of the 2005 Act provides that the Scottish Ministers may have regard to any retail price index. (Information on retail price index is available on www.statistics.gov.uk.). This provision allows fees to remain at the same level, be reduced or be increased in line with inflation without making further legislation.
+
+Fees payable by students attending courses of higher education at fundable bodies were previously set in terms of the 2006 Order. Article 5 amends the 2006 Order by inserting additional definitions of the classes of student to whom the 2006 Order applies and making provision for specifying the fees payable by new deferred students. It also amends the 2006 Order by making provision which excludes the application of the 2006 Order to post 2011/12 students to whom this Order applies. The 2006 Order will therefore continue to apply in respect of fees payable by any student who is a “new student” as defined in the 2006 Order and who is not also a post 2011/12 student as defined in this Order. The 2006 Order will also continue to apply in respect of fees payable by a “deferred student”, an “existing student” or a “new deferred student” as defined in the 2006 Order.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6).
+
+[^f00002]: Footnote: Section 34(4) of the Further and Higher Education (Scotland) Act 2005 has been modified by paragraph 5 of schedule 3 to the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
+
+[^key-0a5268aa612033a948b0b1d15544d828]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
+
+[^key-cc786ef42bcfeed5ba5207010fe8ff21]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/455/article/2) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
+
+[^f00003]: Footnote: [S.S.I. 2006/401](https://www.legislation.gov.uk/ssi/2006/401).
+
+[^key-5ea07e8b0211590ffd9ac9ecbac3a2d3]: Textual amendment: Words in [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/455/article/2/d) substituted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 18](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/18)
+
+[^key-a27f680867aa7b20e70fdf119764f7cb]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2011/455/article/3) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
+
+[^key-683b69665e895f307f12435aa9d849dd]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/455/article/3/2) substituted (31.3.2015) by [The Post-16 Education (Scotland) Act 2013 (Modification of Legislation) Order 2015 (S.S.I. 2015/153)](https://www.legislation.gov.uk/ssi/2015/153), [art. 1](https://www.legislation.gov.uk/ssi/2015/153/article/1), [sch. para. 18](https://www.legislation.gov.uk/ssi/2015/153/schedule/paragraph/18)
+
+[^f00004]: Footnote: [S.S.I. 2011/389](https://www.legislation.gov.uk/ssi/2011/389).
+
+[^key-fd0ed5294b5d2c072aecd08c6d0cf9d1]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2011/455/article/4) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
+
+[^key-cb9dff93fa34929b69133dee1439b84d]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2011/455/article/5) in force at 1.8.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/455/article/1)
+
+[^f00005]: Footnote: [S.S.I. 2011/389](https://www.legislation.gov.uk/ssi/2011/389).
+
+[^f00006]: Footnote: [S.S.I. 2011/455](https://www.legislation.gov.uk/ssi/2011/455).
+
+[^f00007]: Footnote: [S.S.I. 2007/152](https://www.legislation.gov.uk/ssi/2007/152), as amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503), [2009/188](https://www.legislation.gov.uk/ssi/2009/188) and [309](https://www.legislation.gov.uk/ssi/2009/309) and [2010/325](https://www.legislation.gov.uk/ssi/2010/325).

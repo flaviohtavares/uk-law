@@ -1,0 +1,43 @@
+---
+title: Further and Higher Education (Scotland) Act 2005, section 9C
+act: Further and Higher Education (Scotland) Act 2005
+section: 9C
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2005/6/section/9C
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Further and Higher Education (Scotland) Act 2005, section 9C
+
+> **Warning: changes not yet applied to this text (18).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/asp/2005/6
+>
+> Extent: Scotland.
+
+## 9C. Widening access to fundable higher education[^key-c2d4bbc8ce134a003db84e6775e34423]
+
+*Extent: S*
+
+(1) The Scottish Ministers may, under section 9(2), impose terms and conditions for the purposes of enabling, encouraging or increasing participation in fundable higher education by persons belonging to any socio-economic group which they reasonably consider to be under-represented in such education.
+
+(2) The Scottish Ministers may, in particular, impose a condition that the Council, when making a payment to a higher education institution under section 12(1), must require the institution to comply with a widening access agreement which makes provision in relation to—
+
+- (a) any socio-economic group which the Scottish Ministers reasonably consider to be under-represented in fundable higher education; and
+- (b) other socio-economic groups, if any, which the Council and the institution agree are under-represented in fundable higher education.
+
+(3) A “widening access agreement” is an agreement between a higher education institution and the Council under which the institution is to take actions specified in the agreement for the purposes of enabling, encouraging or increasing participation in fundable higher education provided by the institution by persons belonging to socio-economic groups which are under-represented in fundable higher education (either generally or in such education provided by the institution).
+
+(4) Before entering into a widening access agreement in pursuance of this section, a higher education institution must consult—
+
+- (a) the representatives of any trade union which the institution recognises or which otherwise appears to it to be representative of its staff; and
+- (b) the institution's students' association.
+
+(5) For the purposes of this section, a socio-economic group is to be treated as under-represented in fundable higher education if participation in such education by persons in that group is disproportionately low.
+
+(6) The Scottish Ministers, the Council and higher education institutions may take into account any social or economic characteristics which they consider appropriate when determining which groups are to constitute “ **socio-economic groups** ” for the purposes of this section.
+
+## Annotations
+
+[^key-c2d4bbc8ce134a003db84e6775e34423]: Textual amendment: S. 9C inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 3](https://www.legislation.gov.uk/asp/2013/12/section/3), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)

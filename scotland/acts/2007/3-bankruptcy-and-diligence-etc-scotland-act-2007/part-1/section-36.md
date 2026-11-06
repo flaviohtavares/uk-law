@@ -1,0 +1,27 @@
+---
+title: Bankruptcy and Diligence etc. (Scotland) Act 2007, section 36
+act: Bankruptcy and Diligence etc. (Scotland) Act 2007
+section: '36'
+status: revised-with-pending-changes
+text_date: '2026-08-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2007/3/section/36
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Bankruptcy and Diligence etc. (Scotland) Act 2007, section 36
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/asp/2007/3
+>
+> Extent: Scotland.
+
+## 36. Minor and consequential amendments of the 1985 Act[^key-d59999288518324504116e03d7ab41ae]
+
+*Extent: S*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-d59999288518324504116e03d7ab41ae]: Textual amendment: Ss. 35, 36 repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

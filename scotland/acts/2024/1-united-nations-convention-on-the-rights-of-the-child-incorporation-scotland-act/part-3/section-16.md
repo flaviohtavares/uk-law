@@ -1,0 +1,78 @@
+---
+title: United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024, section 16
+act: United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024
+section: '16'
+status: revised-with-pending-changes
+text_date: '2024-07-16'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2024/1/section/16
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024, section 16
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2024-07-16. See https://www.legislation.gov.uk/changes/affected/asp/2024/1
+>
+> Extent: Scotland.
+
+## 16. Reviewing and reporting on the Scheme[^key-b0dd4eb5e5a754757cb668522430c9ee]
+
+*Extent: S*
+
+(1) The Scottish Ministers must, as soon as practicable after the end of each reporting period—
+
+- (a) review the Scheme and its operation, and
+- (b) publish a report of their findings.
+
+(2) In reviewing the Scheme, the Scottish Ministers—
+
+- (a) must take into account the following things if they have occurred in the reporting period—
+  - (i) the Committee making a suggestion or general recommendation under article 45(d) of the Convention based on a report submitted by the United Kingdom under paragraph 1(b) of article 44 of the Convention,
+  - (ii) an amendment to the Convention or to an optional protocol to the Convention entering into force,
+  - (iii) the Committee making a General Comment,
+  - (iv) the Committee adopting views and findings under the third optional protocol,
+  - (v) the Committee making recommendations following days of general discussion,
+  - (vi) the United Kingdom ratifying a protocol to the Convention,
+  - (vii) a court making a strike down declarator or an incompatibility declarator, and
+- (b) may take into account any international law or comparative law that they consider to be relevant,
+- (c) may take into account any other document or matter that they consider to be relevant.
+
+(3) A report under subsection (1) must include—
+
+- (a) a summary of the actions taken by the Scottish Ministers for the purpose of—
+  - (i) ensuring compliance with the duty under section 6(1) during the reporting period, and
+  - (ii) securing better or further effect of the rights of children,
+- (b) a statement as to whether or not they intend to amend the Scheme or make a new scheme to replace it in light of the findings of their review, and
+- (c) a summary of any actions that they intend to take in the next reporting period.
+
+(4) A report under subsection (1) may include such other material as the Scottish Ministers consider appropriate, whether relating to the operation of the Scheme or to the rights of children generally.
+
+(5) Before publishing a report under this section, the Scottish Ministers must consult the following in relation to the action to be taken in pursuance of subsection (3)(c)—
+
+- (a) children,
+- (b) the Commissioner for Children and Young People in Scotland,
+- (c) the Scottish Commission for Human Rights, and
+- (d) such other persons as the Scottish Ministers consider appropriate.
+
+(6) Each report published under this section must be—
+
+- (a) accompanied by a version of the report that children can understand,
+- (b) published in such manner as the Scottish Ministers consider appropriate,
+- (c) laid before the Scottish Parliament as soon as practicable after it is published.
+
+(7) In this section—
+
+- “**General Comment**” means a comment prepared by the Committee under rule 77 of its rules of procedure,
+- “**recommendations following days of general discussion**” means recommendations made by the Committee following days of general discussion under rule 79 of its rules of procedure,
+- “**reporting period**” means—
+  - (a) the period beginning with the date on which the Scheme is made and ending on the date specified for such a report in the Scheme (see section 14(4)), and
+  - (b) each subsequent period of a year,
+- “**the Committee**” means the United Nations Committee on the Rights of the Child,
+- “**views and findings under the third optional protocol**” means—
+  - (a) views adopted by the Committee under article 10, paragraph 5 of the Optional Protocol to the Convention on the Rights of the Child on a communications procedure, and
+  - (b) findings, comments and recommendations adopted by the Committee under article 13, paragraph 4 of that Protocol.
+
+## Annotations
+
+[^key-b0dd4eb5e5a754757cb668522430c9ee]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2024/1/section/16) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

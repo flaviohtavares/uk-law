@@ -1,0 +1,117 @@
+---
+title: Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Affirmations and Oaths) 2026
+id: ssi/2026/99
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2026-02-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2026/99
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2026/99/pdfs/ssi_20260099_en.pdf
+- http://www.legislation.gov.uk/ssi/2026/99/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Affirmations and Oaths) 2026
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2026 No. 99
+
+High Court Of Justiciary
+
+Sheriff Court
+
+Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Affirmations and Oaths) 2026
+
+Made
+
+18th February 2026
+
+Laid before the Scottish Parliament
+
+19th February 2026
+
+Coming into force in accordance with paragraph 1(2) and (3)
+
+The High Court of Justiciary makes this Act of Adjournal under the powers conferred on it by section 305 of the Criminal Procedure (Scotland) Act 1995[^f00001] and all other powers enabling it to do so.
+
+## 1. Citation and commencement, etc.
+
+(1) This Act of Adjournal may be cited as the Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Affirmations and Oaths) 2026.
+
+(2) Subject to sub-paragraph (3), it comes into force on the date that section 64(2) of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025[^f00002] comes into force.
+
+(3) Paragraph 2(3)(a) and schedule 1 come into force on the date that section 63 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 comes into force.
+
+(4) A certified copy is to be inserted in the Books of Adjournal.
+
+## 2. Amendment of the Criminal Procedure Rules 1996
+
+(1) The Criminal Procedure Rules 1996[^f00003] are amended in accordance with this paragraph.
+
+(2) In Chapter 14 (procedure at trial in solemn proceedings)[^f00004], after rule 14.3 (form of oath or affirmation to jurors) insert—
+
+> **14.3A. Form of oath or affirmation to juror’s communication supporter**
+>
+> (1) This rule applies where the court has appointed a juror’s communication supporter under section 88A(2) or (5) of the Act of 1995 (appointment of juror’s communication supporter)[^f00005].
+>
+> (2) For the purpose of this rule, “juror’s communication supporter” has the same meaning given by section 88A(2) of the Act of 1995.
+>
+> (3) Where the judge administers the oath to a juror’s communication supporter in terms of section 88A(4) or (6), as the case may be, of the Act of 1995 (administration of oath to juror’s communication supporter), the judge must do so in accordance with the form in Form 14.3A-A.
+>
+> (4) In the case of a juror’s communication supporter who elects to affirm, the judge must administer the affirmation in accordance with the form in Form 14.3A-B.
+>
+> (5) The oath or the affirmation administered in accordance with paragraph (3) or (4) is to be treated as having been administered for the purposes of section 88A(4) or (6), as the case may be, of the Act of 1995.
+
+.
+
+(3) In the appendix—
+
+- (a) for Form 14.3-B (form of affirmation for juror) substitute the form as set out in schedule 1 of this Act of Adjournal;
+- (b) after Form 14.3-B insert Forms 14.3A-A and 14.3A-B as set out in schedule 2 of this Act of Adjournal.
+
+PAUL CULLEN
+
+Lord Justice General
+
+I.P.D.
+
+Edinburgh
+
+18th February 2026
+
+## SCHEDULE 1
+
+Paragraph 2(3)(a)
+
+## SCHEDULE 2
+
+Paragraph 2(3)(b)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Act of Adjournal)
+
+This Act of Adjournal makes various amendments to the Criminal Procedure Rules 1996 (“**the 1996 Rules**”) in connection with affirmations and oaths.
+
+Paragraph 2(2), 2(3)(b) and schedule 2 insert a new Rule 14.3A, and associated Forms 14.3A-A and 14.3A-B, into the 1996 Rules. These changes make provision for the oath or affirmation which a juror’s communication supporter must take, in consequence of section 64 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (“**the 2025 Act**”). Section 64 of the 2025 Act inserts a new section 88A into the Criminal Procedure (Scotland) Act 1995. Section 88A creates the role of a juror’s communication supporter, to assist any jurors who are physically disabled.
+
+Paragraph 2(3)(a) and schedule 1 substitute Form 14.3-B. This changes the form of the affirmation which jurors, who decide to affirm, must take. In consequence of changes made to section 6 of the Oaths Act [1978 (c. 19)](https://www.legislation.gov.uk/ukpga/1978/19) by section 63 of the 2025 Act, the form of the affirmation is changed so jurors who decide to affirm will do so collectively, rather than individually.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 305 was last amended by section 111(1) of the Criminal Justice (Scotland) Act [2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), and by [S.S.I. 2015/338](https://www.legislation.gov.uk/ssi/2015/338) and was extended by section 386(3)(a) of the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), section 36A(4) of the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27) and section 32(5) of the Psychoactive Substances Act [2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2).
+
+[^f00002]: Footnote: [2025 asp 12](https://www.legislation.gov.uk/asp/2025/12).
+
+[^f00003]: Footnote: The Criminal Procedure Rules 1996 are in schedule 2 of the Act of Adjournal (Criminal Procedure Rules) 1996 ([S.I. 1996/513](https://www.legislation.gov.uk/uksi/1996/513)), last amended by [S.S.I. 2026/11](https://www.legislation.gov.uk/ssi/2026/11).
+
+[^f00004]: Footnote: Chapter 14 was last amended by [S.S.I. 2020/200](https://www.legislation.gov.uk/ssi/2020/200).
+
+[^f00005]: Footnote: Section 88A was inserted prospectively by section 64(2) of the Victims, Witnesses, and Justice Reform (Scotland) Act [2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12).

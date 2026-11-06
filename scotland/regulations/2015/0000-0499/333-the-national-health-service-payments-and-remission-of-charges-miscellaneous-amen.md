@@ -1,0 +1,232 @@
+---
+title: The National Health Service (Payments and Remission of Charges) (Miscellaneous Amendments) (Scotland) Regulations 2015
+id: ssi/2015/333
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-09-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2015/333
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/333/pdfs/ssipn_20150333_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/333/pdfs/ssi_20150333_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/333/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Payments and Remission of Charges) (Miscellaneous Amendments) (Scotland) Regulations 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 333
+
+National Health Service
+
+The National Health Service (Payments and Remission of Charges) (Miscellaneous Amendments) (Scotland) Regulations 2015
+
+Made
+
+15th September 2015
+
+Laid before the Scottish Parliament
+
+17th September 2015
+
+Coming into force
+
+1st November 2015
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 75A and 105(7) of, and paragraph 2A of Schedule 11 to, the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the National Health Service (Payments and Remission of Charges) (Miscellaneous Amendments) (Scotland) Regulations 2015 and come into force on 1st November 2015.
+
+(2) In these Regulations—
+
+- “the 1998 Regulations” means the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998[^f00002]; and
+- “the 2003 Regulations” means the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^f00003].
+
+## 2. Amendment of the 1998 Regulations
+
+(1) Regulation 8 of the 1998 Regulations (eligibility – supply of optical appliances) is amended as follows.
+
+(2) For paragraph (3)(q) substitute—
+
+> - (q) he is—
+>   - (i) receiving universal credit, either as a single person or as a member of a couple, where the universal credit award does not include—
+>     - (aa) the child element;
+>     - (bb) the LCW element; or
+>     - (cc) the LCWRA element,
+>
+>     and either has no earned income or has earned income of £435 or less in the assessment period;
+>   - (ii) receiving universal credit, either as a single person or as a member of a couple, where the universal credit award includes one or more of—
+>     - (aa) the child element;
+>     - (bb) the LCW element; and
+>     - (cc) the LCWRA element,
+>
+>     and either has no earned income or has earned income of £935 or less in the assessment period; or
+>   - (iii) a qualifying young person for whom a recipient referred to in sub-paragraph (ii) is responsible (within the meaning of Part 1 of the Welfare Reform Act 2012[^f00004] and regulations made thereunder).
+
+.
+
+(3) For paragraph (4)(e) substitute—
+
+> - (e) in sub-paragraph (q)—
+>   - (i) “assessment period” means the assessment period for the purposes of universal credit as specified in regulation 21 of the Universal Credit Regulations[^f00005] (assessment periods);
+>   - (ii) “child element” means the child element of universal credit within the meaning of regulation 24(1) of the Universal Credit Regulations (the child element);
+>   - (iii) “couple” has the meaning given in section 39[^f00006] of the Welfare Reform Act 2012 (couples);
+>   - (iv) “earned income” means a person’s earned income within the meaning of Chapter 2 of Part 6[^f00007] of the Universal Credit Regulations (earned income);
+>   - (v) “LCW element” relates to a limited capability for work and means the LCW element of universal credit as defined by regulation 27(1)(a) of the Universal Credit Regulations (award to include LCW and LCWRA elements);
+>   - (vi) “LCWRA element” relates to a limited capability for work and work related activity and means the LCWRA element of universal credit as defined by regulation 27(1)(b) of the Universal Credit Regulations (award to include LCW and LCWRA elements);
+>   - (vii) “qualifying young person” has the meaning given in regulation 5 of the Universal Credit Regulations (meaning of “qualifying young person”);
+>   - (viii) “single person” has the meaning given in section 1(2)(a) of the Welfare Reform Act 2012 (universal credit); and
+>   - (ix) “the Universal Credit Regulations” means the Universal Credit Regulations 2013[^f00008].
+
+.
+
+(4) Omit paragraph (4)(f).
+
+## 3. Amendment of the 2003 Regulations
+
+(1) The 2003 Regulations are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) after the definition of “annuity contract” insert—
+
+  > - “assessment period” means the assessment period for the purposes of universal credit as specified in regulation 21 of the Universal Credit Regulations (assessment periods);
+
+  ;
+- (b) after the definition of “child” insert—
+
+  > - “child element” means the child element of universal credit within the meaning of regulation 24(1) of the Universal Credit Regulations (the child element);
+
+  ;
+- (c) after the definition of “claimant” insert—
+
+  > - “couple” has the meaning given in section 39 of the Welfare Reform Act 2012 (couples);
+
+  ;
+- (d) after the definition of “disability element” insert—
+
+  > - “earned income” means a person’s earned income within the meaning of Chapter 2 of Part 6 of the Universal Credit Regulations (earned income);
+
+  ;
+- (e) after the definition of “the income support regulations” insert—
+
+  > - “LCW element” relates to a limited capability for work and means the LCW element of universal credit as defined by regulation 27(1)(a) of the Universal Credit Regulations (award to include LCW and LCWRA elements);
+  > - “LCRWA element” relates to a limited capability for work and work related activity and means the LCWRA element of universal credit as defined by regulation 27(1)(b) of the Universal Credit Regulations (award to include LCW and LCWRA elements);
+
+  ;
+- (f) in the definition of “qualifying young person” for “section 10(5) of the Welfare Reform Act 2012” substitute “regulation 5 of the Universal Credit Regulations (meaning of “qualifying young person”)”;
+- (g) in the definition of “single person” for “(bc)” substitute “(ba) and (bza)”; and
+- (h) after the definition of “universal credit” insert —
+
+  > - “the Universal Credit Regulations” means the Universal Credit Regulations 2013;
+
+  .
+
+(3) In regulation 4(2) (description of persons entitled to full remission and payment)—
+
+- (a) in sub-paragraph (ba), at the end, insert—
+
+  > , either as a single person or as a member of a couple, where the universal credit award does not include—
+  >
+  > - (i) the child element;
+  > - (ii) the LCW element; or
+  > - (iii) the LCRWA element,
+  >
+  > and either has no earned income or has earned income of £435 or less in the assessment period;
+  >
+  > - (bza) a person who is in receipt of universal credit, either as a single person or as a member of a couple, where the universal credit award includes one or more of—
+  >   - (i) the child element;
+  >   - (ii) the LCW element; or
+  >   - (iii) the LCRWA element,
+  >
+  >   and either has no earned income or has earned income of £935 or less in the assessment period
+
+  ;
+- (b) in sub-paragraph (bb), for “(ba)” substitute “(bza)”; and
+- (c) omit sub-paragraph (bc).
+
+## 4. Amendment of the National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2015
+
+In regulation 2(1) of the National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2015[^f00009] (amendment of the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998) for “1988” substitute “1998”.
+
+## 5. Saving provisions
+
+(1) In a case to which paragraph (2) applies, regulation 12 of the 1998 Regulations continues to have effect as it had effect immediately before the amendments made by regulation 2 of these Regulations came into force.
+
+(2) This paragraph applies in a case where—
+
+- (a) a person was issued with a voucher in accordance with regulation 9, 10 or 11 of the 1998 Regulations before 1st November 2015;
+- (b) that voucher has not been accepted before that date; and
+- (c) but for the application of this regulation, that person would cease to be eligible to present that voucher by virtue of the amendment made to regulation 8 of the 1998 Regulations by regulation 2 of these Regulations.
+
+**6.** (1) In a case to which paragraph (2) applies, regulation 20 of the 1998 Regulations continues to have effect as it had effect immediately before the amendments made by regulation 2 of these Regulations came into force.
+
+(2) This paragraph applies in a case where—
+
+- (a) a person was eligible to receive a payment under regulation 20 of the 1998 Regulations in respect of the supply, replacement or repair of an optical appliance which took place before 1st November 2015; and
+- (b) but for the application of this regulation, that person would cease to be eligible to receive such a payment by virtue of the amendment made to regulation 8 of the 1998 Regulations by regulation 2 of these Regulations.
+
+**7.** (1) In a case to which paragraph (2) applies, regulation 11 of the 2003 Regulations continues to have effect as it had effect immediately before the amendments made by regulation 3 of these Regulations came into force.
+
+(2) This paragraph applies in a case where—
+
+- (a) a person had paid relevant travelling expenses or relevant charges before 1st November 2015 without exercising the person’s right under regulation 3(1) of the 2003 Regulations;
+- (b) the person was entitled to a repayment by virtue of regulation 11(1) of the 2003 Regulations (entitlement to full remission and payment); and
+- (c) but for the application of this regulation, that entitlement would cease by virtue of the amendments made to regulation 4 of the 2003 Regulations by regulation 3 of these Regulations.
+
+(3) In this regulation, “relevant charges” and “relevant travelling expenses” have the meanings given in regulation 3(1) of the 2003 Regulations.
+
+MAUREEN WATT
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+15th September 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998 (“the 1998 Regulations”), the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003 (“the 2003 Regulations”) and the National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2015 (“the 2015 Regulations”).
+
+Amendments are made to the 1998 Regulations and the 2003 Regulations in order to insert certain income thresholds for persons in receipt of universal credit who are eligible persons in terms of those Regulations.
+
+Regulation 8 of the 1998 Regulations makes provision for eligibility for payments to meet or contribute to the cost of the supply of optical appliances. Those who are eligible for such assistance include persons in receipt of universal credit. Regulation 2 of these Regulations amends regulation 8 of the 1998 Regulations so that, after 31st October 2015, a person receiving universal credit without a child element, a limited capability for work (LCW) element or a limited capability for work and work-related activity (LCWRA) element is eligible for assistance if that person has no earned income or earned income of £435 per month or less. A person (or a qualifying young person for whom the recipient is responsible) will also be entitled to such assistance if that person is in receipt of universal credit with any of the aforementioned elements to the award and has no earned income or earned income of £935 per month or less.
+
+Regulation 3 of the 2003 Regulations provides that persons of certain descriptions are entitled to payment of the travelling expenses incurred in attending hospital for the provision of NHS services (including where necessary overnight accommodation and expenses related to a person accompanying the person receiving the service) and the remission of charges payable for certain NHS services. Regulation 4 of the 2003 Regulations prescribes descriptions of persons for the purpose of this entitlement. Those descriptions include persons in receipt of universal credit. Regulation 3 of these Regulations amends regulation 4 of the 2003 Regulations so that, after 31st October 2015, certain income thresholds apply in relation to the eligibility of a person receiving universal credit for payment or remission under regulation 3 of the 2003 Regulations. The income thresholds are the same as those described above in relation to the 1998 Regulations. Regulation 4 of the 2003 Regulations is also amended to remove a reference to a member of a couple not included in an award of Universal Credit.
+
+An amendment is made to the 2015 Regulations by regulation 4 of these Regulations in order to correct a reference within the 2015 Regulations.
+
+Regulations 5 to 7 of these Regulations make saving provisions to extend eligibility of certain persons who will no longer be eligible for assistance, or entitled to remission of charges or payment of expenses, because of the insertion of the income thresholds described above.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29). Section 75A was inserted by the Social Security Act [1988 (c.7)](https://www.legislation.gov.uk/ukpga/1988/7), section 14(2) and amended by the Health and Medicines Act [1988 (c.49)](https://www.legislation.gov.uk/ukpga/1988/49), Schedule 2, paragraph 13; the National Health Service (Primary Care) Act [1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46), Schedule 2, paragraph 50 and by [S.I. 1998/2385](https://www.legislation.gov.uk/uksi/1998/2385); [S.S.I. 2010/283](https://www.legislation.gov.uk/ssi/2010/283) and [S.S.I. 2013/177](https://www.legislation.gov.uk/ssi/2013/177). Section 105(7) was amended by the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 6, paragraph 5 and Schedule 7; the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), Schedule 9, Part I, paragraph 24; and by the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4 paragraph 60. Paragraph 2A of Schedule 11 was inserted by the Health and Social Security Act [1984 (c.48)](https://www.legislation.gov.uk/ukpga/1984/48), Schedule 1, Part II, paragraph 7 and amended by the Health and Medicines Act [1988 (c.49)](https://www.legislation.gov.uk/ukpga/1988/49), section 13(2) and (5) and the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), section 13. Section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [S.I. 1998/642](https://www.legislation.gov.uk/uksi/1998/642); relevant amending instruments are [S.I. 1999/748](https://www.legislation.gov.uk/uksi/1999/748), [S.S.I. 1999/64](https://www.legislation.gov.uk/ssi/1999/64), [S.S.I. 2003/218](https://www.legislation.gov.uk/ssi/2003/218), [S.S.I. 2003/431](https://www.legislation.gov.uk/ssi/2003/431), [S.S.I. 2004/97](https://www.legislation.gov.uk/ssi/2004/97), [S.S.I. 2004/168](https://www.legislation.gov.uk/ssi/2004/168), [S.S.I. 2005/119](https://www.legislation.gov.uk/ssi/2005/119), [S.S.I. 2006/138](https://www.legislation.gov.uk/ssi/2006/138), [S.S.I. 2008/289](https://www.legislation.gov.uk/ssi/2008/289), [S.S.I. 2009/288](https://www.legislation.gov.uk/ssi/2009/288), [S.S.I. 2011/55](https://www.legislation.gov.uk/ssi/2011/55), [S.S.I. 2013/137](https://www.legislation.gov.uk/ssi/2013/137) and [S.S.I. 2015/86](https://www.legislation.gov.uk/ssi/2015/86).
+
+[^f00003]: Footnote: [S.S.I. 2003/460](https://www.legislation.gov.uk/ssi/2003/460); relevant amending instruments are [S.S.I. 2004/102](https://www.legislation.gov.uk/ssi/2004/102), [S.S.I. 2004/166](https://www.legislation.gov.uk/ssi/2004/166), [S.S.I. 2005/3](https://www.legislation.gov.uk/ssi/2005/3), [S.S.I. 2005/179](https://www.legislation.gov.uk/ssi/2005/179), [S.S.I. 2007/259](https://www.legislation.gov.uk/ssi/2007/259), [S.S.I. 2008/27](https://www.legislation.gov.uk/ssi/2008/27), [S.S.I. 2008/288](https://www.legislation.gov.uk/ssi/2008/288), [S.S.I. 2009/124](https://www.legislation.gov.uk/ssi/2009/124), [S.S.I. 2011/55](https://www.legislation.gov.uk/ssi/2011/55), [S.S.I. 2011/211](https://www.legislation.gov.uk/ssi/2011/211), [S.S.I. 2013/137](https://www.legislation.gov.uk/ssi/2013/137) and [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142).
+
+[^f00004]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^f00005]: Footnote: Regulation 21 was amended by [S.I. 2014/2887](https://www.legislation.gov.uk/uksi/2014/2887) and [S.I. 2015/1362](https://www.legislation.gov.uk/uksi/2015/1362).
+
+[^f00006]: Footnote: Section 39 was amended by [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229).
+
+[^f00007]: Footnote: Chapter 2 of Part 6 was amended by [S.I. 2012/822](https://www.legislation.gov.uk/uksi/2012/822), [S.I. 2013/1508](https://www.legislation.gov.uk/uksi/2013/1508), [S.I. 2014/2888](https://www.legislation.gov.uk/uksi/2014/2888), [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255), [S.I. 2015/67](https://www.legislation.gov.uk/uksi/2015/67), [S.I. 2015/345](https://www.legislation.gov.uk/uksi/2015/345) and [S.I. 2015/478](https://www.legislation.gov.uk/uksi/2015/478).
+
+[^f00008]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
+
+[^f00009]: Footnote: [S.S.I. 2015/219](https://www.legislation.gov.uk/ssi/2015/219).

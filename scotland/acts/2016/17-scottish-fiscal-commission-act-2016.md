@@ -1,0 +1,592 @@
+---
+title: Scottish Fiscal Commission Act 2016
+id: asp/2016/17
+type: ScottishAct
+category: primary
+status: revised
+made_date: '2016-04-14'
+text_date: '2018-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/17
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2016/17/pdfs/aspen_20160017_en.pdf
+- http://www.legislation.gov.uk/asp/2016/17/pdfs/asp_20160017_en.pdf
+- http://www.legislation.gov.uk/asp/2016/17/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Scottish Fiscal Commission Act 2016
+
+> Text as at 2018-07-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Scottish Fiscal Commission Act 2016
+
+2016 asp 17
+
+An Act of the Scottish Parliament to establish the Scottish Fiscal Commission and to provide for its functions.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 10th March 2016 and received Royal Assent on 14 April 2016
+
+## Scottish Fiscal Commission
+
+### 1. Establishment[^key-e00b88bff7b91120bbe62f0ea6fbbe39]
+
+(1) The Scottish Fiscal Commission (in Gaelic, Coimisean Fiosgail na h-Alba) is established.
+
+(2) In this Act, it is referred to as “**the Commission**”.
+
+## Functions
+
+### 2. Forecasts and assessments[^key-751bf2973d674ae64d2c88d77313c577]
+
+(1) It is the duty of the Commission to prepare forecasts and assessments to inform the Scottish budget.
+
+(2) In particular, the Commission must on at least 2 occasions for each financial year prepare reports—
+
+- (a) containing its 5-year forecasts of receipts from—
+  - (i) the devolved taxes,
+  - (ii) non-domestic rates, [^key-dcd4f611ce021aae923221ed6c92c378]...
+  - (iii) income tax attributable to a Scottish rate resolution, [^key-6fbbebf72209baa43e52902a5f093b3c]... and[^key-369fa760680110c0cfd40f0dac65d784]
+  - (iv) assigned VAT receipts,
+- (aa)[^key-88db9cec75b18bc981886811382de20b] containing its 5-year forecasts of devolved[^key-e245a80f91ffd189202b89c522932334] social security expenditure,
+- (ab) containing its forecasts in respect of Scotland’s gross domestic product excluding the value of oil, gas and other hydrocarbons produced in the Scottish sector of the UK continental shelf for each of—
+  - (i) the remaining quarters (if any) of the financial year in which the report is made and each of the quarters of the subsequent financial year, and
+  - (ii) the 4 subsequent financial years, and
+- (b) setting out its assessment of the reasonableness of the Scottish Ministers' projections as to their borrowing requirements.
+
+(3) Reports prepared under subsection (2) must, in relation to each forecast and assessment, include an explanation of—
+
+- (a) the methodology used by the Commission, and
+- (b) the factors which have been taken into account including, in particular—
+  - (i) the assumptions which the Commission made, and
+  - (ii) the risks which it considered to be relevant.
+
+(4) The Commission may from time to time prepare reports—
+
+- (a) containing its forecasts, assumptions or projections in relation to such fiscal factors as it considers appropriate, or
+- (b) setting out its assessment of the reasonableness of the Scottish Ministers' forecasts, assumptions or projections in relation to such fiscal factors as it considers appropriate.
+
+(5) For the purposes of subsection (4), a “fiscal factor” is anything which the Scottish Ministers use to ascertain the amount of resources likely to be available for the purposes of sections 1 to 3 of the Public Finance and Accountability (Scotland) Act 2000.
+
+(6) Reports prepared under this section may include such other information relating to the forecasts, assumptions, projections or assessments being made as the Commission considers appropriate.
+
+(7) Where a policy of the Scottish Ministers is relevant to the Commission's performance of its functions under this section, the Commission—
+
+- (a) must have regard to the policy, but
+- (b) may not consider what the effect of any alternative policy would be.
+
+### 3. Meaning of terms used in section 2[^key-91136b697e93d7c9c00c84ea0a31b41a]
+
+(1) This section defines terms used in section 2.
+
+(2) “**5-year forecast**”, in relation to a report prepared under section 2(2), means a forecast in respect of the financial year for which the report is prepared and each of the 4 subsequent financial years.
+
+(2ZA)[^key-de95a1c1a0673574ebbdd8dc732a1059] “Assigned VAT receipts” means amounts payable under section 64A of the Scotland Act 1998.
+
+(2A)[^key-ae87362ba87f89a727f75f76c81d6b49] “Devolved social security expenditure” means financial or other assistance to or in respect of an individual where there is an entitlement to a devolved social security benefit expended[^key-bb9d021bfc9046929e6420a4b9c1fcaa] by the Scottish Ministers or a local authority which are—
+
+- (a) made under any provision relating to a matter within—
+  - (i) exceptions 1 to 10 in Section F1 of Part 2 of schedule 5 of the Scotland Act 1998,
+  - (ii) exception 1 in Section H3 of that Part, or
+  - (iii) any further exception added to Section F1 or Section H3 of that Part after 31st March 2017, or
+- (b) attributable to regulations made by the Scottish Ministers by virtue of section 29 or 30 of the Scotland Act 2016 (powers in relation to universal credit).
+
+(3) “**Devolved taxes**” is to be construed in accordance with section 80A(4) of the Scotland Act 1998.
+
+(4) “**Non-domestic rates**” means non-domestic rates levied under section 7B(2) of the Local Government (Scotland) Act 1975.
+
+(4A)[^key-f34ff0cd2ca663e86939b3c330e6f1de] “Quarter”, in respect of a financial year, means a period of 3 months ending with the last day of June, September, December or March.
+
+(5) “**Scottish rate resolution**” is to be construed in accordance with section 80C(1) of the Scotland Act 1998.
+
+### 4. Review of forecasting accuracy[^key-2cc8470bf3f84e28af5a3f21a705d3af]
+
+(1) The Commission must prepare reports for each financial year containing an assessment of the accuracy of the forecasts prepared by it under section 2(2)(a) to (ab)[^key-3572c1774a29c4b7e5ae3ed08fab1b2c] .
+
+(2) Reports prepared under this section may include such other information relating to the assessment being made as the Commission considers appropriate.
+
+### 5. Reports[^key-8cc19e6ab247015fc1d4d1c3294270ea]
+
+(1)[^key-7b57e8d82560e5a2f6794c21d730079f] The Commission must send a report prepared under section 2(2) to the Scottish Ministers in sufficient time for them to use the report to prepare—
+
+- (a) the Scottish budget document for the subsequent financial year; and
+- (b) the medium term financial outlook.
+
+(2) The Commission must lay before the Scottish Parliament a report prepared under section 2(2) on each day on which—
+
+- (a) the Scottish Ministers lay before the Parliament the Scottish budget document for the subsequent financial year; and
+- (b) a member of the Scottish Government publishes the medium term financial outlook.
+
+(3) The Commission must lay any other report prepared under section 2(2) or a report prepared under section 2(4) or 4 before the Scottish Parliament as soon as reasonably practicable after the report is prepared.
+
+(4) Before laying a report prepared under section 2 or 4 before the Scottish Parliament, the Commission must send a copy of it to the Scottish Ministers (unless one has already been sent under subsection (1)).
+
+(5) Once a report prepared under section 2 or 4 has been laid before the Scottish Parliament, the Commission must publish it.
+
+(6) The Commission may publish reports prepared under section 2 or 4 in such manner as it considers appropriate.
+
+(7)[^key-0f8e4ce45cf24a62fe688cbce0e2af1e] In this section—
+
+- “5-year forecast” has the same meaning as in section 3(2) in respect of a report prepared under section 2(2);
+- “medium term financial outlook” means the Scottish Government’s rolling 5-year financial outlook document informed by 5-year forecasts; and
+- “Scottish budget document” means the Scottish Government’s budget document setting out proposals for the use of resources and associated matters in a financial year.
+
+### 6. Protocol between the Commission and the Scottish Ministers[^key-3fd37b2d5539ea83df6c7017de733246]
+
+(1) It is the duty of the Commission and the Scottish Ministers to agree a protocol for their engagement in relation to the forecasting and assessment process.
+
+(2) In particular, the protocol must set out—
+
+- (a) the arrangements for meetings and communications between the parties (and their staff),
+- (b) the expectations as to the information to be exchanged between the parties during the forecasting and assessment process including, in particular, in relation to draft reports prepared under section 2, and
+- (c) which (if any) documents relating to the forecasting and assessment process (other than reports prepared under section 2) are to be published and when.
+
+(3) The Commission must publish the protocol and may do so in such manner as it considers appropriate.
+
+(4) The Commission and the Scottish Ministers may from time to time agree revisions to the protocol.
+
+(5) Subsections (2) and (3) apply to a protocol which has been revised as they apply to the protocol agreed under subsection (1).
+
+(6) For the purposes of this section, a reference to the forecasting and assessment process is a reference to the Commission's performance of its functions under sections 2 and 5.
+
+### 7. Scottish Ministers' statement[^key-f93b89ede229e1cb4f66aee6755f4ba9]
+
+(1) This section applies where the Scottish Ministers prepare—
+
+- (a) a Scottish budget document[^key-a998656b00e8cafe41dcf920181a6c82] for a financial year, or
+- (b) a medium term financial outlook[^key-53ac1bac8acb470a6e1153c90f08fbd4] for a financial year,
+
+which has not been informed by a forecast for that financial year contained in a report prepared by the Commission under section 2(2).
+
+(2) The Scottish Ministers must prepare a statement explaining why they disagree with the forecast.
+
+(3) The Scottish Ministers must lay the statement before the Scottish Parliament on the same day as that on which (as the case may be)—
+
+- (a) they lay before the Parliament the Scottish budget document[^key-25275c5fb73b491ba814f15be286b7ff] for the financial year, or
+- (b) a member of the Scottish Government publishes the medium term financial outlook[^key-504ae86b86a1d8cd9b2c08d192a5b159] for the financial year.
+
+(4)[^key-9a6502c0703a6aa578bb7bc0fdc8d083] In this section, “medium term financial outlook” and “Scottish budget document” have the same meanings as in section 5(7).
+
+### 8. Power to modify the Commission's functions[^key-e8916e880de52525180a80ab317a0b42]
+
+(1) Subject to subsection (2), the Scottish Ministers may by regulations—
+
+- (a) confer functions on the Commission,
+- (b) modify the functions of the Commission,
+- (c) remove functions from the Commission.
+
+(2) Regulations under subsection (1) may not remove the Commission's functions under section 2(1) or (4).
+
+(3) Regulations under subsection (1) are subject to the affirmative procedure.
+
+(4) In preparing a draft of a Scottish statutory instrument containing regulations under subsection (1) for laying before the Scottish Parliament, the Scottish Ministers must consult—
+
+- (a) the Commission, and
+- (b) such other persons as they consider appropriate.
+
+(5) Regulations under subsection (1) may—
+
+- (a) modify this Act or any other enactment,
+- (b) include incidental, supplementary, consequential, transitional, transitory or saving provision.
+
+### 9. Independence[^key-90ebac4ecf826e6034c8227c132d9bf5]
+
+(1) In performing its functions, the Commission is not subject to the direction or control of any member of the Scottish Government.
+
+(2) This section is subject to any contrary provision in this or any other enactment.
+
+### 10. Access to information[^key-7bec5c4e886f3c718842bff6ab535a47]
+
+(1) The Commission—
+
+- (a) has a right of access at reasonable times to any relevant information that the Commission may reasonably require for the purpose of performing its functions,
+- (b) may require any person who holds or is accountable for relevant information to provide at reasonable times any assistance or explanation that the Commission may reasonably require for the purpose of—
+  - (i) performing its functions, or
+  - (ii) exercising the right conferred by paragraph (a).
+
+(2) In subsection (1), “**relevant information**” means information in the possession or under the control of—
+
+- (a) any member of the Scottish Government,
+- (b) Revenue Scotland,
+- (c) the Keeper of the Registers of Scotland,
+- (d) the Scottish Environment Protection Agency,
+- (e) a local authority, a valuation authority or an assessor (or depute assessor) appointed under section 27(2) of the Local Government etc. (Scotland) Act 1994,
+- (f) such other person, or person of such description, as the Scottish Ministers may by regulations specify.
+
+(3) Subsection (1) is subject to any other enactment or rule of law that prohibits or restricts the disclosure of any information or the giving of any assistance or explanation.
+
+(4) Regulations under subsection (2)(f) are subject to the affirmative procedure.
+
+### 11. Duty to co-operate with the Office for Budget Responsibility[^key-9f4876b38cc5ed06ab8ee8778556aba0]
+
+The Commission must, so far as necessary for the performance of the Office for Budget Responsibility's functions, co-operate with the Office.
+
+### 12. Annual report[^key-d6e026bb590db2799440982dde0937c6]
+
+(1) The Commission must, as soon as reasonably practicable after the end of each financial year—
+
+- (a) prepare and publish a report on its activities during the year,
+- (b) lay a copy of the report before the Scottish Parliament, and
+- (c) send a copy of the report to the Scottish Ministers.
+
+(2) The Commission may publish its reports under this section in such manner as it considers appropriate.
+
+### 13. Review of Commission's performance[^key-f7aef53e5e800fc8e89dd8f6450347e0]
+
+(1) The Commission must, at least once in every review period, appoint a suitable person or body to review and prepare a report on the Commission's performance of its functions during the period.
+
+(2) For the purposes of subsection (1), a person or body is suitable only if—
+
+- (a) the person or body has expertise likely to be relevant to the assessment of the performance of the Commission's functions under section 2, and
+- (b) the person or body is not—
+  - (i) a member of the Commission, or
+  - (ii) disqualified from appointment as such a member by virtue of section 16(1)(a).
+
+(3) The Commission may make such payment to a person or body appointed under subsection (1) in respect of a review as it may, with the approval of the Scottish Ministers, determine.
+
+(4) The Commission must—
+
+- (a) publish each report prepared under subsection (1),
+- (b) lay a copy of it before the Scottish Parliament, and
+- (c) send a copy of it to the Scottish Ministers.
+
+(5) The Commission may publish reports prepared under subsection (1) in such manner as it considers appropriate.
+
+(6) In this section, “**review period**” means—
+
+- (a) the period of 2 years beginning with the date on which section 2 comes into force, and
+- (b) each subsequent period of 5 years.
+
+## Corporate status
+
+### 14. Corporate status[^key-650b950be6aeb90dd884b1cee1beaf66]
+
+The Commission is a body corporate.
+
+## Membership
+
+### 15. Members of the Commission[^key-803030f72d585899a04983d2343edefb]
+
+(1) The Commission is to consist of—
+
+- (a) a member to chair the Commission, and
+- (b) at least 2 but no more than 4 other members.
+
+(2) The Scottish Ministers are to appoint the members.
+
+(3) The Scottish Ministers may appoint a person as a member only if the Scottish Parliament has approved the appointment.
+
+(4) The Scottish Ministers may by regulations amend subsection (1)(b) by substituting a different number for any number for the time being specified there.
+
+(5) Regulations under subsection (4) are subject to the negative procedure.
+
+### 16. Disqualification for appointment[^key-6940b2d4ea42c4f7d83a96177819879a]
+
+(1) The Scottish Ministers may not appoint a person as a member if the person—
+
+- (a) is—
+  - (i) a member of the Scottish Parliament,
+  - (ii) a member of the House of Commons,
+  - (iii) a member of the National Assembly for Wales,
+  - (iv) a member of the Northern Ireland Assembly,
+  - (v) a member of the European Parliament,
+  - (vi) a councillor of any local authority,
+  - (vii) the holder of any other relevant elective office within the meaning of paragraph 1(8) of schedule 7 to the Political Parties, Elections and Referendums Act 2000,
+  - (viii) a member of the Scottish Government,
+  - (ix) a Minister of the Crown,
+  - (x) an office-holder of the Crown in right of Her Majesty's Government in the United Kingdom,
+  - (xi) an office-holder in the Scottish Administration,
+  - (xii) a civil servant,
+- (b) is or has been insolvent,
+- (c) is or has been disqualified as a company director under the Company Directors Disqualification Act 1986,
+- (d) is or has been disqualified as a charity trustee under the Charities and Trustee Investment (Scotland) Act 2005, or
+- (e) is or has been disqualified under any disqualification provision analogous to either of those mentioned in paragraphs (c) and (d), anywhere in the world.
+
+(2) For the purposes of subsection (1)(b), a person is or has been insolvent if—
+
+- (a) the person's estate is or has been sequestrated,
+- (b) the person has granted a trust deed for creditors or has made a composition or arrangement with creditors,
+- (c) the person is or has been the subject of any other kind of arrangement analogous to either of those described in paragraphs (a) and (b), anywhere in the world.
+
+### 17. Period and terms of appointment[^key-405fc28b39618aef50c48d49e9cfd1ee]
+
+(1) A member is appointed for such period not exceeding 5 years as the Scottish Ministers may determine.
+
+(2) A person may be reappointed as a member if—
+
+- (a) the person—
+  - (i) is a member at the time of reappointment, or
+  - (ii) ceased to be a member not more than 3 months before the date of reappointment, and
+- (b) the person has not previously been reappointed.
+
+(3) Subsections (1) and (4) of this section and sections 15, 16 and 18 apply to the reappointment of a person as a member as they apply to the appointment of a person as a member.
+
+(4) The Scottish Ministers may determine other terms of an appointment, so far as not provided for by this Act.
+
+### 18. Disqualification after appointment[^key-086e815823766c11f842b8ed2f7e69e8]
+
+(1) A person's appointment as a member ceases if the person becomes disqualified as a member after appointment.
+
+(2) A person becomes disqualified as a member after appointment if, during the person's period of appointment as a member, any of paragraphs (a) to (e) of section 16(1) applies to the person.
+
+### 19. Resignation[^key-ad312fb9291ed8c6cf0b04736d3c1538]
+
+A member may resign by giving notice in writing to—
+
+- (a) the Scottish Ministers, and
+- (b) the Presiding Officer of the Scottish Parliament.
+
+### 20. Removal[^key-27cdd76aa926d871b909ecb6c165cd88]
+
+(1) The Scottish Ministers may remove a member, by giving the member notice in writing, if—
+
+- (a) the member has been absent from meetings of the Commission for a period longer than 3 months without permission from the Commission, or
+- (b) the Scottish Ministers consider that the member is—
+  - (i) otherwise unfit to continue to be a member, or
+  - (ii) unable to perform the member's functions.
+
+(2) The Scottish Ministers may remove a member under subsection (1) only with the approval of the Scottish Parliament.
+
+## Remuneration and expenses
+
+### 21. Remuneration and expenses[^key-ab0d9f2b8a0ffee3d7679b4a5e7a4c5f]
+
+(1) The Commission may pay to its members such remuneration as it may, with the approval of the Scottish Ministers, determine.
+
+(2) The Commission may pay to its members such sums as it may, with the approval of the Scottish Ministers, determine in respect of expenses incurred by them in performing their functions.
+
+## Staff
+
+### 22. Chief of Staff and other staff[^key-ccfc5ca926dee423e42a4c142685c1e9]
+
+(1) The Commission must employ a person to act as the Commission's Chief of Staff.
+
+(2) The Commission may employ other staff.
+
+(3) The Chief of Staff and other staff are to be employed on such terms as the Commission may, with the approval of the Scottish Ministers, determine.
+
+## General
+
+### 23. Regulation of procedure[^key-5847f8dc1c7f0fd118cc909a80630014]
+
+The Commission may regulate its own procedure (including quorum).
+
+### 24. Validity of things done[^key-802063fbce0b30666bfec0c31edcd91e]
+
+The validity of anything done by the Commission is not affected by—
+
+- (a) a vacancy in membership,
+- (b) a defect in the appointment of a member,
+- (c) disqualification of a person as a member after appointment.
+
+### 25. Committees[^key-4ca9902a89a959007d497bc5183e7711]
+
+(1) The Commission may establish committees.
+
+(2) The membership of a committee may include (but may not consist entirely of) persons who are not members of the Commission but those persons are not entitled to vote at meetings.
+
+(3) The Commission may pay each person mentioned in subsection (2) such remuneration and allowances as it may, with the approval of the Scottish Ministers, determine.
+
+### 26. Authority to perform functions[^key-ed24a33e4b786b48bc42c9eaedb77835]
+
+(1) The Commission may authorise—
+
+- (a) any of its members,
+- (b) any committee established by it,
+- (c) any member of its staff,
+- (d) any other person,
+
+to perform such of its functions (to such extent) as it may determine.
+
+(2) The giving of authority under subsection (1) to perform a function does not—
+
+- (a) affect the Commission's responsibility for the performance of the function,
+- (b) prevent the Commission from performing the function itself.
+
+### 27. General powers[^key-bb8afb62bff89b0a5564e3c76628a52e]
+
+The Commission may do anything that appears to it—
+
+- (a) to be necessary or expedient for the purpose of, or in connection with, the performance of its functions,
+- (b) to be otherwise conducive to the performance of its functions.
+
+## Transitional and consequential
+
+### 28. Initial members[^key-0e941ad694c290ab8d579c7ea8e2a422]
+
+(1) The person who was, immediately before the commencement date, the chairing member of the non-statutory Commission is, on that date, taken to have been appointed under section 15(1)(a) as the member to chair the Commission.
+
+(2) Any person who was, immediately before the commencement date, a member (other than the chairing member) of the non-statutory Commission is, on that date, taken to have been appointed under section 15(1)(b) as a member of the Commission.
+
+(3) A person to whom subsection (1) or (2) applies is referred to in this section as an “**initial member**”.
+
+(4) An initial member's period of appointment as a member—
+
+- (a) is to continue to be the same as that for which the member had been appointed as a member of the non-statutory Commission, and
+- (b) accordingly expires at the time at which the period of appointment as a member of the non-statutory Commission would have expired.
+
+(5) Except as may be agreed between the Scottish Ministers and an initial member, the other terms of the member's appointment are to continue to be the same as the terms on which the member had been appointed as a member of the non-statutory Commission, so far as consistent with this Act.
+
+(6) In this section—
+
+- “**commencement date**” means the day on which section 1 comes into force,
+- “**the non-statutory Commission**” means the body known as the Scottish Fiscal Commission established by the Scottish Government following the Scottish Parliament's resolution of 24 June 2014 endorsing its establishment and supporting the appointment of the persons nominated to be members.
+
+### 29. Amendment of public bodies' legislation[^key-219c876f1dbbbecf5a7c524cc7ebc911]
+
+(1) In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies), after the entry relating to the Scottish Fire and Rescue Service insert— “ The Scottish Fiscal Commission ”.
+
+(2) In the Freedom of Information (Scotland) Act 2002, in Part 2 of schedule 1 (non-ministerial office holders in the Scottish Administration), after paragraph 18A insert—
+
+> **18AA.**
+>
+> The Scottish Fiscal Commission
+
+.
+
+(3) In the Public Appointments and Public Bodies etc. (Scotland) Act 2003, in schedule 2 (the specified authorities), under the heading “Executive bodies”, after the entry relating to the Scottish Fire and Rescue Service insert— “ Scottish Fiscal Commission ”.
+
+(4) In the Public Services Reform (Scotland) Act 2010, in schedule 8 (listed public bodies), after the entry relating to the Scottish Fire and Rescue Service insert— “ Scottish Fiscal Commission ”.
+
+(5) In the Public Records (Scotland) Act 2011, in the schedule, under the heading “Scottish Administration” after the entry relating to the Scottish Courts and Tribunals Service insert— “ Scottish Fiscal Commission ”.
+
+(6) In the Procurement Reform (Scotland) Act 2014, in Part 1 of the schedule (contracting authorities: Scottish Administration and Scottish Parliament), after paragraph 13B insert—
+
+> **13C.**
+>
+> Scottish Fiscal Commission
+
+.
+
+## Ancillary provision
+
+### 30. Ancillary provision
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
+
+(2) Regulations under this section may—
+
+- (a) make different provision for different purposes,
+- (b) modify this Act or any other enactment.
+
+(3) Regulations under this section containing provision which adds to, replaces or omits any part of the text of an Act are subject to the affirmative procedure.
+
+(4) Otherwise, regulations under this section are subject to the negative procedure.
+
+## Final provisions
+
+### 31. Commencement
+
+(1) This section and sections 30 and 32 come into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint.
+
+(3) Regulations under subsection (2) may—
+
+- (a) include transitional, transitory or saving provision,
+- (b) make different provision for different purposes.
+
+### 32. Short title
+
+The short title of this Act is the Scottish Fiscal Commission Act 2016.
+
+## Annotations
+
+[^key-e00b88bff7b91120bbe62f0ea6fbbe39]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/17/section/1) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-751bf2973d674ae64d2c88d77313c577]: Commencement: S. 2 in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-dcd4f611ce021aae923221ed6c92c378]: Textual amendment: Word in [s. 2(2)](https://www.legislation.gov.uk/asp/2016/17/section/2/2) repealed (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/2/a)
+
+[^key-6fbbebf72209baa43e52902a5f093b3c]: Textual amendment: Word in s. 2(2) repealed (1.4.2017) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2017 (S.S.I. 2017/86)](https://www.legislation.gov.uk/ssi/2017/86), [regs. 1](https://www.legislation.gov.uk/ssi/2017/86/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/86/regulation/2/2/a)
+
+[^key-369fa760680110c0cfd40f0dac65d784]: Textual amendment: [S. 2(2)(a)(iv)](https://www.legislation.gov.uk/asp/2016/17/section/2/2/a/iv) and word inserted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/2/b)
+
+[^key-88db9cec75b18bc981886811382de20b]: Textual amendment: S. 2(2)(aa)(ab) inserted (1.4.2017) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2017 (S.S.I. 2017/86)](https://www.legislation.gov.uk/ssi/2017/86), [regs. 1](https://www.legislation.gov.uk/ssi/2017/86/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/86/regulation/2/2/b)
+
+[^key-e245a80f91ffd189202b89c522932334]: Textual amendment: Word in [s. 2(2)(aa)](https://www.legislation.gov.uk/asp/2016/17/section/2/2/aa) substituted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/2/c)
+
+[^key-91136b697e93d7c9c00c84ea0a31b41a]: Commencement: S. 3 in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-de95a1c1a0673574ebbdd8dc732a1059]: Textual amendment: [S. 3(2ZA)](https://www.legislation.gov.uk/asp/2016/17/section/3/2ZA) inserted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/3/a)
+
+[^key-ae87362ba87f89a727f75f76c81d6b49]: Textual amendment: S. 3(2A) inserted (1.4.2017) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2017 (S.S.I. 2017/86)](https://www.legislation.gov.uk/ssi/2017/86), [regs. 1](https://www.legislation.gov.uk/ssi/2017/86/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2017/86/regulation/2/3/a)
+
+[^key-bb9d021bfc9046929e6420a4b9c1fcaa]: Textual amendment: Words in [s. 3(2A)](https://www.legislation.gov.uk/asp/2016/17/section/3/2A) substituted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/3/b)
+
+[^key-f34ff0cd2ca663e86939b3c330e6f1de]: Textual amendment: S. 3(4A) inserted (1.4.2017) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2017 (S.S.I. 2017/86)](https://www.legislation.gov.uk/ssi/2017/86), [regs. 1](https://www.legislation.gov.uk/ssi/2017/86/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2017/86/regulation/2/3/b)
+
+[^key-2cc8470bf3f84e28af5a3f21a705d3af]: Commencement: S. 4 in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-3572c1774a29c4b7e5ae3ed08fab1b2c]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/asp/2016/17/section/4/1) inserted (1.4.2017) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2017 (S.S.I. 2017/86)](https://www.legislation.gov.uk/ssi/2017/86), [regs. 1](https://www.legislation.gov.uk/ssi/2017/86/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/86/regulation/2/4)
+
+[^key-8cc19e6ab247015fc1d4d1c3294270ea]: Commencement: S. 5 in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-7b57e8d82560e5a2f6794c21d730079f]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/asp/2016/17/section/5/1)[(2)](https://www.legislation.gov.uk/asp/2016/17/section/5/2) substituted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/4/a)
+
+[^key-0f8e4ce45cf24a62fe688cbce0e2af1e]: Textual amendment: [S. 5(7)](https://www.legislation.gov.uk/asp/2016/17/section/5/7) inserted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/4/b)
+
+[^key-3fd37b2d5539ea83df6c7017de733246]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/17/section/6) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-f93b89ede229e1cb4f66aee6755f4ba9]: Commencement: S. 7 in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-a998656b00e8cafe41dcf920181a6c82]: Textual amendment: Words in [s. 7(1)(a)](https://www.legislation.gov.uk/asp/2016/17/section/7/1/a) substituted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/5/a)
+
+[^key-53ac1bac8acb470a6e1153c90f08fbd4]: Textual amendment: Words in [s. 7(1)(b)](https://www.legislation.gov.uk/asp/2016/17/section/7/1/b) substituted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/5/b)
+
+[^key-25275c5fb73b491ba814f15be286b7ff]: Textual amendment: Words in [s. 7(3)(a)](https://www.legislation.gov.uk/asp/2016/17/section/7/3/a) substituted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/5/c)
+
+[^key-504ae86b86a1d8cd9b2c08d192a5b159]: Textual amendment: Words in [s. 7(3)(b)](https://www.legislation.gov.uk/asp/2016/17/section/7/3/b) substituted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/5/d)
+
+[^key-9a6502c0703a6aa578bb7bc0fdc8d083]: Textual amendment: [S. 7(4)](https://www.legislation.gov.uk/asp/2016/17/section/7/4) inserted (1.7.2018) by [The Scottish Fiscal Commission (Modification of Functions) Regulations 2018 (S.S.I. 2018/213)](https://www.legislation.gov.uk/ssi/2018/213), [regs. 1](https://www.legislation.gov.uk/ssi/2018/213/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/ssi/2018/213/regulation/2/5/e)
+
+[^key-e8916e880de52525180a80ab317a0b42]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/17/section/8) in force at 9.11.2016 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/326/regulation/3))
+
+[^key-90ebac4ecf826e6034c8227c132d9bf5]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/17/section/9) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-7bec5c4e886f3c718842bff6ab535a47]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/17/section/10) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-9f4876b38cc5ed06ab8ee8778556aba0]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/17/section/11) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-d6e026bb590db2799440982dde0937c6]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/17/section/12) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-f7aef53e5e800fc8e89dd8f6450347e0]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/17/section/13) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-650b950be6aeb90dd884b1cee1beaf66]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/17/section/14) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-803030f72d585899a04983d2343edefb]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/17/section/15) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-6940b2d4ea42c4f7d83a96177819879a]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/17/section/16) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-405fc28b39618aef50c48d49e9cfd1ee]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/17/section/17) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-086e815823766c11f842b8ed2f7e69e8]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/17/section/18) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-ad312fb9291ed8c6cf0b04736d3c1538]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/17/section/19) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-27cdd76aa926d871b909ecb6c165cd88]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/17/section/20) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-ab0d9f2b8a0ffee3d7679b4a5e7a4c5f]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/17/section/21) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-ccfc5ca926dee423e42a4c142685c1e9]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/17/section/22) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-5847f8dc1c7f0fd118cc909a80630014]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/17/section/23) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-802063fbce0b30666bfec0c31edcd91e]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/17/section/24) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-4ca9902a89a959007d497bc5183e7711]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/17/section/25) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-ed24a33e4b786b48bc42c9eaedb77835]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/17/section/26) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-bb8afb62bff89b0a5564e3c76628a52e]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/17/section/27) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-0e941ad694c290ab8d579c7ea8e2a422]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/17/section/28) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+
+[^key-219c876f1dbbbecf5a7c524cc7ebc911]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/17/section/29) in force at 1.4.2017 by [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)

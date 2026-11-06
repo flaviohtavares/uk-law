@@ -1,0 +1,443 @@
+---
+title: The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011
+id: ssi/2011/32
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-01-20'
+text_date: '2018-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/32
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/32/pdfs/ssien_20110032_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/32/pdfs/ssi_20110032_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/32/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011
+
+> Text as at 2018-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 32
+
+National Health Service
+
+The National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011
+
+Made
+
+20th January 2011
+
+Laid before the Scottish Parliament
+
+24th January 2011
+
+Coming into force
+
+1st April 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 2(5), 27, 105(7), 106(a) and 108(1) of the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
+
+In accordance with paragraph 24(1) and (3) of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007[^f00002] they have consulted the Administrative Justice and Tribunals Council and it has consulted its Scottish Committee.
+
+## 1. Citation and Commencement[^key-c36a8db26a5559ed95c03c999b357932]
+
+These regulations may be cited as the National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 and come into force on 1st April 2011.
+
+## 2. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^key-75e7974de5e7275386030d444602067c]
+
+The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00003] (the “principal regulations”) are amended as follows.
+
+## 3. Amendment to regulation 2[^key-d1f6efca0b9d40739590b23fc3da21f9]
+
+In regulation 2(1) (interpretation), insert, in the appropriate places—
+
+> - “dispensing doctor” means a medical practitioner who provides services corresponding to pharmaceutical services—
+>   - (a) [^key-6055c99b681bf77256f5f574eb7afc73]...; or
+>   - (b) under the terms of a section 17C agreement which gives effect to paragraph 15 of Schedule 1 to the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^f00005];
+
+; and
+
+> - “pharmaceutical care services plan” means a document prepared by the Board annually, comprising a summary of the pharmaceutical services provided in the area of the Board together with an analysis by the Board of where in its area it believes there is a lack of adequate provision of pharmaceutical services;
+
+.
+
+## 4. Amendment to regulation 5[^key-1b628ee4e63c63e49a99e864f0868b84]
+
+(1) Regulation 5 (pharmaceutical list) is amended as follows.
+
+(2) In paragraph (2) (general application to Board) for the full out substitute—
+
+> shall (except in the instance of an application to which paragraph (3) or (4) applies) complete a consultation in accordance with paragraph (2A) before making an application, and an application in every instance shall be in accordance with whichever version of Form A set out in Schedule 2 is appropriate
+
+.
+
+(3) After paragraph (2) insert—
+
+> (2A) The consultation must—
+>
+> - (a) be for the purpose of assessing whether the neighbourhood to which the application relates has adequate provision, by persons on the pharmaceutical list, of some or all of the pharmaceutical services that the applicant intends to provide;
+> - (b) be completed within the period of 20 working days immediately prior to the making of the application;
+> - (c) be advertised—
+>   - (i) (where the application is to relocate) through display in a prominent place where the applicant currently provides pharmaceutical services;
+>   - (ii) (where the application is to open additional premises or to be included in the pharmaceutical list) through publication in a newspaper circulating in the neighbourhood in which the applicant intends to provide services;
+> - (d) be for a continuous period of not less than 20 working days from the date of advertisement under sub-paragraph (c);
+> - (e) in the case of an application to relocate, make it clear that the existing premises will close and are not to be included in the assessment under sub-paragraph (a).
+>
+> (2B) Subject to paragraph (2E), an application made in any case other than one to which paragraph (3) or (4) applies shall be summarily refused (without being subject to the procedures in Schedule 3) by the Board unless it includes an applicant’s assessment which meets the requirements set out in paragraph (2C).
+>
+> (2C) An applicant’s assessment in terms of Form A must include—
+>
+> - (a) a written statement from the person who may grant possession of the premises that (without prejudice to any negotiation in relation to any such grant) the premises may be used for the provision of pharmaceutical services;
+> - (b) a description of any adjustments the applicant intends to make to the premises to ensure that the applicant will comply with the duties incumbent upon a provider of pharmaceutical services under section 29 of the Equality Act 2010;
+> - (c) a description of the boundaries of the neighbourhood within which the applicant intends to provide pharmaceutical services;
+> - (d) an assessment (in sufficient detail so as to assist the Board to make a determination) of the current provision in the neighbourhood described by the applicant of services for which the applicant believes there is not adequate provision by persons on the pharmaceutical list and evidence in support of that belief;
+> - (e) a description of the pharmaceutical services which the applicant will provide;
+> - (f) the date by which the applicant intends to commence the provision of such services;
+> - (g) the hours in each day that the applicant intends to provide such services;
+> - (h) a summary of the responses gathered by the applicant through the consultation under paragraph (2);
+> - (i) (where the provisions of paragraph (2D) apply) evidence of the significant change that has occurred (which evidence will be of sufficient detail so as to assist the Board to make a determination) that means in the applicant’s view that it is now necessary or desirable that an application be granted in order to secure adequate provision, by persons on the pharmaceutical list, of pharmaceutical services by the applicant in the neighbourhood in which the premises are to be located.
+>
+> (2D) The provisions of this paragraph apply where—
+>
+> - (a) an application for the provision of pharmaceutical services was refused by—
+>   - (i) the Board (and not overturned by the National Appeal Panel); or
+>   - (ii) the National Appeal Panel,
+>
+>   in the previous 12 months;
+> - (b) that application was in relation to a neighbourhood that encompassed the same, or substantially the same, area encompassed by the neighbourhood to which the application that is now being submitted relates; and
+> - (c) in the case of a refusal by the Board, the refusal of the application was not under paragraph (2B).
+>
+> (2E) If, in the opinion of the Board, the applicant’s assessment submitted with the application does not comply with the requirements of paragraph (2C), the Board is not bound to refuse the application if the applicant within 5 working days of being asked by the Board provides further information that in the opinion of the Board meets the requirements set out in paragraph (2C).
+
+.
+
+(4) In paragraph (6) (minor relocation: further provision) for “appreciable” substitute “significant”.
+
+(5) Omit paragraph (9).
+
+(6) After paragraph (10) insert—
+
+> (10A) When considering an application to which paragraph (10) applies, which is of the type described in paragraph (2)(b)(ii), the Board shall disregard premises already listed in relation to such applicant.
+
+.
+
+(7) For paragraph (11) substitute—
+
+> (11) Where an application is granted it shall be notified on Form C set out in  Schedule 2.
+
+.
+
+## 5. Amendment to regulation 8[^key-32abcc87d0acf3473adf3ecc93cf53c9]
+
+In regulation 8 (provisional pharmaceutical list)—
+
+- (a) for paragraph (2)(a) substitute—
+
+  > - (a) any one or more of the statements in paragraph 2(b) of Form A (application for inclusion in the pharmaceutical list to provide pharmaceutical services – relocation or new application) is negative; or
+  > - (ab) the information required in paragraph 2(b) of Form A(2) (application for inclusion in the pharmaceutical list to provide pharmaceutical services – change of provider) is not provided; and
+- (b) for the full out in paragraph (4) substitute—
+
+  > submit Form B set out in Schedule 2 with any information required but not given in paragraph 2(b) of Form A(1) or A(2) and on receipt of such information the Board shall include the name of the applicant in the pharmaceutical list and remove it from the provisional pharmaceutical list
+
+  .
+
+## 6. Amendment to regulation 15[^key-f36038aff8c82fe5b84ca77b39192d17]
+
+In regulation 15 (publication of particulars) after paragraph (1)(b) insert—
+
+> - (ba) its pharmaceutical care services plan;
+
+.
+
+## 7. Substitution of Schedule 2[^key-c6cb8d4155511f2670894c2d9d1aeaaa]
+
+For Schedule 2 (forms) substitute the Schedule 2 set out in the Schedule to these Regulations.
+
+## 8. Amendment to Schedule 3[^key-261639fd883d3d82cc7ba697136e1ed6]
+
+(1) Schedule 3 (the Board) is amended as follows.
+
+(2) In paragraph 1(1) (receipt and notification of applications) for “The Board shall” to “of the application to” substitute—
+
+> The Board shall within 10 working days of receiving an application to which regulation 5(10) applies, or receiving further information submitted under regulation 5(2E) (whichever is the later), give written notice of the application to
+
+.
+
+(3) After paragraph 2 (public consultation) insert—
+
+> **2A. Dispensing doctor notification**
+>
+> The Board shall, at the same time as giving written notice of the application under paragraph 1(1), give written notice of the application to any dispensing doctor who dispenses from premises in the neighbourhood to which the application relates.
+
+.
+
+(4) In paragraph 3(1) (matters to which the Board shall have regard in considering an application)—
+
+- (a) in paragraph (d) omit “and”;
+- (b) for paragraph (e) substitute—
+
+  > - (e) any responses received in the 60 days following consultation in accordance with paragraph 2; and
+  > - (f) the pharmaceutical care services plan.
+
+  .
+
+(5) For paragraph 4 (notification of decisions) substitute—
+
+> **4.** (1) The Board shall, within 5 working days of having been notified in accordance with paragraph 6 of Part I of Schedule 4, intimate the decision on the application and the reasons for it, and any right of appeal applicable under paragraph 5, to the applicant and the persons or bodies mentioned in paragraph 1.
+>
+> (2) The Board shall within 5 working days of such intimation publish on its website the decision on the application and the reasons for it.
+
+.
+
+(6) In paragraph 5 (appeals)—
+
+- (a) after sub-paragraph (2) insert—
+
+  > (2A) The grounds of appeal are limited to where the circumstances in sub-paragraph (2B) have occurred or where the Board has erred in law in its application of the provisions of these Regulations.
+  >
+  > (2B) The circumstances are—
+  >
+  > - (a) there has been a procedural defect in the way the application has been considered by the Board;
+  > - (b) there has been a failure by the Board to properly narrate the facts or reasons upon which their determination of the application was based; or
+  > - (c) there has been a failure to explain the application by the Board of the provisions of these Regulations to those facts.
+
+  ;
+- (b) for sub-paragraph (3) substitute—
+
+  > (3) Any notice of appeal under this paragraph shall contain a concise statement detailing the circumstances in sub-paragraph (2B) or other points of law in respect of which the appellant contends that the decision of the Board is erroneous.
+
+  ;
+- (c) in sub-paragraph (4) from “appointed” to the end, substitute “together with the decision of the Board on the application”;
+- (d) for sub-paragraph (5) substitute—
+
+  > (5) The Chair, after considering the notice of appeal and the decision of the Board, shall—
+  >
+  > - (a) dismiss the appeal, if the Chair is of the opinion that:
+  >   - (i) the notice discloses no reasonable grounds of appeal; or
+  >   - (ii) the appeal is otherwise frivolous or vexatious; or
+  > - (b) remit the decision back to the Board for reconsideration if the Chair is of the opinion that any of the circumstances in sub-paragraph (2B) have occurred,
+  >
+  > and the Chair’s decision is final.
+
+  ;
+- (e) for sub-paragraph (7) substitute—
+
+  > (7) Where the Chair remits an application back to the Board for reconsideration—
+  >
+  > - (a) the Chair shall give to the Board such advice as appears to the Chair to be desirable with a view to remedying the defect or failure that has led to the decision to remit;
+  > - (b) the Chair shall send a copy of the remitted application and the advice issued to the Scottish Ministers; and
+  > - (c) the Board shall reconsider the application.
+
+  ;
+- (f) omit sub-paragraph (8).
+
+(7) After paragraph 5 insert—
+
+> **6. Form of Appeal**
+>
+> (1) If it appears to the National Appeal Panel that an appeal can properly be determined without a hearing, it may determine the appeal without a hearing.
+>
+> (2) If the National Appeal Panel determines that a hearing is required, it shall take place at such time and place as the National Appeal Panel may direct and notice shall be sent by post to the interested parties and the Board not less than 14 days before the date fixed for the hearing.
+>
+> (3) The interested parties may attend and be heard in person or be represented by counsel or a solicitor or other representative at the hearing and the Board may attend and be represented at the hearing by any duly authorised official or by counsel or a solicitor.
+>
+> (4) The Administrative Justice and Tribunals Council or its Scottish Committee shall be given not less than 14 days notice of any Panel hearing and a member of the Council or its Scottish Committee shall be entitled to be present at any such hearing.
+>
+> (5) Subject to the provisions of these Regulations, the National Appeal Panel shall determine an appeal (including its procedure) as it thinks fit and its decision in respect of an appeal shall be final.
+>
+> (6) In this paragraph “interested parties” means the appellant, the applicant and any person mentioned in paragraph 1 who makes written representations to the Board about the application.
+
+.
+
+## 9. Amendment to Schedule 4[^key-786d651c324aa88966591ec0b070a753]
+
+(1) Schedule 4 (pharmacy practices committee and national appeal panel) is amended as follows.
+
+(2) In paragraph 3(1)(b)(i) (pharmacist member who is not on the pharmaceutical list) for “Royal Pharmaceutical Society of Great Britain” substitute “Area Pharmaceutical Committee”.
+
+(3) After paragraph 3(1) (membership) insert—
+
+> (1A) In the circumstances described in sub-paragraph (1B) the Pharmacy Practices Committee shall have an additional member appointed by the Board from persons nominated by the Area Medical Committee.
+>
+> (1B) The circumstances are where the premises that are the subject of the application are located in the same neighbourhood as premises from which a dispensing doctor dispenses.
+
+.
+
+(4) In paragraph 3(2) (deputies) after “sub-paragraph (1)” insert “and, as the case may be, sub-paragraph (1A)”.
+
+(5) In paragraph 3(3) (lack of nomination: Board to appoint member) after “or (ii)” insert “or sub-paragraph (1A)”.
+
+(6) In paragraph 3(4) (preparation and maintenance of list of members) for “or (b)(ii), or (c)” substitute “or (ii), (c) or (1A)”.
+
+(7) For paragraph 6(2) (members entitled to vote) substitute—
+
+> (2) Except in the circumstances set out in paragraph (4) only a member appointed by virtue of paragraph 3(1)(c) is entitled to vote.
+
+.
+
+(8) In paragraph 6(3) (members not entitled to vote) for “3(1)(b)(ii)” substitute “3(1)(b) or 3(1A)”.
+
+(9) In paragraph 9 (nominees for the National Appeal Panel), for sub-paragraph (2) substitute—
+
+> (2) The persons nominated by the Board under sub-paragraph (1) must not be, nor have been previously, a doctor, dentist, ophthalmic optician or pharmacist nor a person employed by a doctor, dentist, ophthalmic optician or pharmacist.
+
+.
+
+(10) For paragraph 10 (chair and vice-chair of national appeal panel) substitute—
+
+> **10. Chair of National Appeal Panel**
+>
+> (1) After consultation with all Health Boards, the Scottish Ministers shall appoint a Chair and a substitute Chair of the National Appeal Panel.
+>
+> (2) Each person so appointed—
+>
+> - (a) shall be an advocate, a solicitor or a solicitor-advocate; but
+> - (b) shall not be, nor previously have been, a doctor, dentist, ophthalmic optician, pharmacist, or person, or employee of a person, whose name is on the pharmaceutical list.
+>
+> (3) Where the person appointed as Chair is unable for whatever reason to fulfil the duties of the Chair, the person appointed as substitute Chair shall take the place of that person and all references to the Chair in these Regulations shall be deemed to refer to the person appointed as substitute Chair
+
+.
+
+(11) In paragraph 11(membership of National Appeal Panel)—
+
+- (a) for sub-paragraph (1)(a) substitute—
+
+  > - (a) the lists maintained, in accordance with paragraph 3(4), of persons falling within paragraph 3(1)(b)(i); and
+- (b) for sub-paragraph (3) (national appeal panel: number of members) substitute—
+
+  > (3) The National Appeal Panel shall consist of three members of whom—
+  >
+  > - (a) one shall be chair appointed as provided for in paragraph 10;
+  > - (b) one shall be a pharmacist; and
+  > - (c) one shall be nominated by the Board under paragraph 9.
+
+  .
+
+(12) In paragraph 12 (declaration of interest)—
+
+- (a) in sub-paragraph (1) (disclosure of interest) omit “, or vice chair if acting as chair,”; and
+- (b) in sub-paragraph (2) (exclusion of person with interest) omit “or vice chair as the case may be,”.
+
+(13) Omit paragraph 13 (quorum).
+
+(14) For paragraph 14 (voting) substitute—
+
+> **14. Voting**
+>
+> Every appeal must be considered by all members of the National Appeal Panel convened for that purpose and determined by a majority of the votes of those members.
+
+.
+
+(15) For paragraph 15 (decisions by the National Appeal Panel) substitute—
+
+> **15. Notice of decision of National Appeal Panel**
+>
+> (1) The National Appeal Panel shall, within 5 working days of taking its decision, give written notification of that decision with reasons for it to the Board to whom the original application was made.
+>
+> (2) The Board shall—
+>
+> - (a) within 5 working days of receipt of such notification, intimate to the applicant and all persons mentioned in paragraph 1 of Schedule 3 that decision and the reasons for it; and
+> - (b) within 5 working days of such intimation, publish that decision and the reasons for it on its website.
+
+.
+
+## 10. Transitional provision[^key-8565f5c7aac792faeafe439553ac05f4]
+
+Where, before the coming into force of these Regulations, an application was made to the Board under the principal regulations, that application shall, until its final determination, be subject to the principal regulations as they were in force at the date of that application.
+
+SHONA ROBISON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+20th January 2011
+
+## SCHEDULE[^key-989b5bc8f0324a0b5ece55c1194d9668]
+
+Regulation 7
+
+> **SCHEDULE 2**
+>
+> Regulations 5(2) and (11),8(3) and (4) and Schedule 1,paragraph 6
+>
+> |  |  |  |
+> | --- | --- | --- |
+> | FORM A (1) | *Application for inclusion in the pharmaceutical list to provide pharmaceutical services – relocation or new application.* | Regulation 5(2) |
+> |  |  |  |
+> | FORM A (2) | *Application for inclusion in the pharmaceutical list to provide pharmaceutical services – change of provider.* | Regulation 5(2) |
+> |  |  |  |
+> | FORM B | *Notification of information not given on form A1/A2.* | Regulation 8(4) |
+> |  |  |  |
+> | FORM C | *Notification of date of entry on pharmaceutical list.* | Regulation 5(11) |
+> |  |  |  |
+> | FORM D | *Notification of date of inclusion in provisional pharmaceutical list.* | Regulation 8(3) |
+> |  |  |  |
+> |  | *Form of notice to be exhibited at premises from which pharmaceutical services are provided.* | Schedule 1 paragraph 6 |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make amendments to the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009 (the “principal regulations”).
+
+Regulation 3 adds new definitions to regulation 2 of the principal regulations.
+
+Regulation 4 makes amendments to regulation 5 of the principal regulations, including requiring an applicant to complete a consultation on the proposed application and to submit detailed information (including the outcome of the consultation) to the Health Board with the application.
+
+Regulation 5 makes amendments to regulation 8 of the principal regulations relative to changes to the forms that have been substituted by the Schedule to these Regulations.
+
+Regulation 6 makes an amendment to regulation 15 of the principal regulations, adding a pharmaceutical care plan to the list of particulars that a Health Board must make available at its offices for inspection.
+
+Regulation 8 makes amendments to Schedule 3 of the principal regulations, including an obligation on the Health Board to notify certain dispensing doctors of an application and making changes to the way in which an appeal against the decision of the Health Board is dealt with.
+
+Regulation 9 makes amendments to Schedule 4 of the principal regulations, altering the constitution and operation of the National Appeal Panel. The amendments include a reduction in the number of Panel members from nine to three and requiring the chair of the panel to be legally qualified.
+
+Regulation 10 makes transitional provision relative to applications made prior to the commencement of these regulations.
+
+The Schedule substitutes a new Schedule 2 to the principal regulations reducing the number of forms used.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29). Section 2(5) was amended by the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), section 66(1) and Schedule 9, paragraph 19(1); section 27 was amended by the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53), section 20(2), the National Health Service (Amendment) Act [1986 (c.66)](https://www.legislation.gov.uk/ukpga/1986/66), section 3(3), the 1990 Act, section 66(1) and Schedule 19(7), the Medicinal Products: Prescription by Nurses etc. Act [1992 (c.28)](https://www.legislation.gov.uk/ukpga/1992/28), section 3, the National Health Service (Primary Care) Act [1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46), Schedule 2, paragraph 44 and the Health and Social Care Act [2001 (c.15)](https://www.legislation.gov.uk/ukpga/2001/15), section 44(2) and by [S.I. 1987/2202](https://www.legislation.gov.uk/uksi/1987/2202), [2003/1590](https://www.legislation.gov.uk/uksi/2003/1590), [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011) and [2010/231](https://www.legislation.gov.uk/uksi/2010/231); section 105(7) was amended by the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 6, paragraph 5(1) and Schedule 7, the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), section 29(1), Schedule 9, paragraph 24 and the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), Schedule 4, paragraph 60; section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. See section 66(1) of the 1999 Act in relation to any provision of that Act being taken to be a pre-commencement enactment within the meaning of the Scotland Act (c.46) (“the 1998 Act”). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^f00002]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15). The National Appeal Panel constituted under Part II of Schedule 4 to the principal regulations is a listed tribunal for the purposes of Schedule 7 to the Tribunals Courts and Enforcement Act 2007 in terms of [S.S.I. 2007/436](https://www.legislation.gov.uk/ssi/2007/436).
+
+[^key-c36a8db26a5559ed95c03c999b357932]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+
+[^key-75e7974de5e7275386030d444602067c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/32/regulation/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+
+[^f00003]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183), as amended by [S.S.I. 2009/209](https://www.legislation.gov.uk/ssi/2009/209), [2010/128](https://www.legislation.gov.uk/ssi/2010/128) and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
+
+[^key-d1f6efca0b9d40739590b23fc3da21f9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/32/regulation/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+
+[^key-6055c99b681bf77256f5f574eb7afc73]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2011/32/regulation/3) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+
+[^f00005]: Footnote: [S.S.I. 2004/116](https://www.legislation.gov.uk/ssi/2004/116), as amended by [S.S.I. 2007205](https://www.legislation.gov.uk/ssi/2007/205) and [502](https://www.legislation.gov.uk/ssi/2007/502) and [2008/27](https://www.legislation.gov.uk/ssi/2008/27).
+
+[^key-1b628ee4e63c63e49a99e864f0868b84]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/32/regulation/4) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+
+[^key-32abcc87d0acf3473adf3ecc93cf53c9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/32/regulation/5) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+
+[^key-f36038aff8c82fe5b84ca77b39192d17]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/32/regulation/6) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+
+[^key-c6cb8d4155511f2670894c2d9d1aeaaa]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/32/regulation/7) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+
+[^key-261639fd883d3d82cc7ba697136e1ed6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/32/regulation/8) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+
+[^key-786d651c324aa88966591ec0b070a753]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/32/regulation/9) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+
+[^key-8565f5c7aac792faeafe439553ac05f4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+
+[^key-989b5bc8f0324a0b5ece55c1194d9668]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2011/32/schedule) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)

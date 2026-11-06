@@ -1,0 +1,681 @@
+---
+title: The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006
+id: ssi/2006/337
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-06-07'
+text_date: '2024-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2006/337
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2006/337/pdfs/ssien_20060337_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/337/pdfs/ssi_20060337_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/337/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006
+
+> Text as at 2024-01-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2006 No. 337
+
+ANIMALS
+
+ANIMAL HEALTH
+
+The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006
+
+Made
+
+7th June 2006
+
+Laid before the Scottish Parliament
+
+8th June 2006
+
+Coming into force
+
+1st July 2006
+
+The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c15868531]and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006.
+
+(2) These Regulations extend to Scotland and come into force on 1st July 2006.
+
+## 2. Interpretation
+
+(1) In these Regulations–
+
+- “**the Act**” means the Animal Health Act 1981 [^c15868851];
+- “[^key-4ff1ae4a45fe73652ef82aa5b6e2a954]**authorised veterinary inspector**” means a veterinary inspector authorised by the Scottish Ministers to receive information about birds or carcases infected with avian influenza or suspected of being infected with avian influenza;
+- “**avian influenza**” means an infection of poultry or other captive birds caused by any influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
+- “**the Avian Influenza Order**” means the Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006 [^c15868891];
+- “**carcase**” means the carcase of any bird and includes any part of a carcase;
+- [^key-8de30ef0b3432078fee316278c8c0afc]...
+- “**commercial premises**” means premises where poultry or other captive birds are kept for commercial purposes;
+- [^key-20c2ede61d79925b91008b776044172d]...
+- “**controlled zone**” has the same meaning as in the Avian Influenza Order;
+- “**day-old chick**” means all poultry less than 72 hours old which have not yet fed and muscovy ducks (*Cairina moschata*) and their crosses less than 72 hours old, whether or not fed;
+- “**designated packing centre**” means a packing centre designated under article 70 of the Avian Influenza Order and designated under regulation 16(3);
+- “**designated slaughterhouse**” means a slaughterhouse designated under article 70 of the Avian Influenza Order and designated under regulation 16(3);
+- “**the Directive**” means Council Directive [2005/94/EC](https://www.legislation.gov.uk/eudr/2005/94) on Community measures for the control of avian influenza repealing Directive [92/40/EEC](https://www.legislation.gov.uk/eudr/1992/40) [^c15868911], as last amended by Commission Implementing Decision ([^key-22c0ff6576ca34e5a5fb00c5d1c0252f]EU) 2018/662;
+- [^key-5d36d3140b6ca319d81858cbc320edbd]...
+- “[^key-9b12f203b119f7fcd89cd52a6bb1385a]**emergency vaccination plan**” has the same meaning as it has in Article 53 of the Directive, reading that Article as if—
+  - ((a)) in paragraph 1—
+    - ((i)) for “A Member state” there were substituted “ The Scottish Ministers ”,
+    - ((ii)) for “the Member State” there were substituted “ Scotland ”,
+    - ((iii)) the words from “concerned” to the end were omitted,
+  - ((b)) in paragraph 2, in the first subparagraph—
+    - ((i)) for “a Member State intends” there were substituted “ the Scottish Ministers intend ”,
+    - ((ii)) for the words from “it shall submit” to the end there were substituted “ the Scottish Ministers must publish an emergency vaccination plan ”,
+  - ((c)) paragraph 3 were omitted.
+- “**hatchery**” means an establishment for incubating eggs, hatching and supplying chicks[^key-037ab4287df545f3de738eb4719eec71];
+- “**highly pathogenic avian influenza**” means an infection of poultry or other captive birds caused by–
+  - (a) avian influenza viruses of the subtypes H5 or H7 with genome sequences codifying for multiple basic amino acids at the cleavage site of the haemagglutinin molecule similar to that observed for other highly pathogenic avian influenza viruses, indicating that the haemagglutinin molecule can be cleaved by a host ubiquitous protease; or
+  - (b) avian influenza viruses with an intravenous pathogenicity index in six-week old chickens greater than 1.2;
+- “**inspector**” means an inspector appointed by the Scottish Ministers or a local authority to be an inspector under the Act, and includes a veterinary inspector;
+- “**keeper**” means any person responsible for birds or mammals (except man), whether on a permanent or temporary basis, but does not include a person responsible for them solely because he is transporting them;
+- “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c15868941];
+- “**low pathogenic avian influenza**” means an infection of poultry or other captive birds caused by avian influenza viruses of subtypes H5 or H7 other than avian influenza viruses of subtypes H5 or H7 which cause highly pathogenic avian influenza;
+- “**non-commercial premises**” means premises where poultry or other captive birds are kept by their owners for their own consumption, use or as pets;
+- “**other captive bird**” means any bird kept in captivity which is not poultry and includes a bird kept for shows, races, exhibitions, competitions, breeding or for sale;
+- “packing centre” has the same meaning as in sub-paragraph (q) of the second paragraph of Article 1 of Commission Regulation[^key-cc7bcd2971085d9cab3e21945a462a9a] [(EC) No. 589/2008](https://www.legislation.gov.uk/eur/2008/589) laying down detailed rules for implementing Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards marketing standards for eggs , as last amended by Commission Delegated Regulation (EU) 2017/2168[^key-c660ee2767963d837d242c54b6482923];
+- “**poultry**” means all birds that are reared or kept in captivity for the production of meat or eggs for consumption, the production of other products, for restocking supplies of game birds or for the purposes of any breeding programme for the production of these categories of birds;
+- “**premises**” includes any land, building or other place where poultry or other captive birds are bred or kept;
+- “[^key-7bf66ef4913f0fcdbfc99ac69cc36c42]**preventive vaccination plan**” has the same meaning as it has in Article 56 of the Directive, reading that Article as if—
+  - ((a)) in paragraph 1, for “Member States” there were substituted “ The Scottish Ministers ”,
+  - ((b)) in paragraph 2, in the first subparagraph—
+    - ((i)) for “a Member State intends” there were substituted “ the Scottish Ministers intend ”,
+    - ((ii)) for the words from “it shall submit” to the end there were substituted “ the Scottish Ministers must publish a preventive vaccination plan ”,
+  - ((c)) paragraph 3 were omitted.
+- “Regulation[^key-8a15814580fe86542420872b42d4e0c3] [(EC) No 852/2004](https://www.legislation.gov.uk/eur/2004/0852)” means Regulation [(EC) No 852/2004](https://www.legislation.gov.uk/eur/2004/0852) of the European Parliament and of the Council on the hygiene of foodstuffs, as last amended by Regulation [(EC) No 219/2009](https://www.legislation.gov.uk/eur/2009/0219) of the European Parliament and of the Council,
+- “Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/0853)” means Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin, as last amended by Commission Regulation (EU) 2017/1981,
+- “**slaughterhouse**” means an establishment used for slaughtering and dressing poultry, the meat of which is intended for human consumption and which–
+  - (a) is approved or conditionally approved under article 31(2) of Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/eur/2004/882) of the European Parliament and of the Council on official controls performed to ensure the verification of feed and food law, animal health and animal welfare rules[^c15868961] , as last amended by[^key-5e9177701a69493f6ded349fae5ef764] Commission Implementing Regulation (EU) 2018/1587[^key-1973df708e82285c84d5329b53251277], or
+  - (b) although lacking the approval or conditional approval that it requires under article 4(3) of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853)) was, on 31st December 2005, operating as a licensed slaughterhouse under the Fresh Meat (Hygiene and Inspection) Regulations 1995 [^c15868971]or the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995 [^c15868981];
+- “**special category premises**” means non-commercial premises, circuses, zoos, pet shops, wildlife parks, fenced areas where poultry or other captive birds are kept for scientific purposes or for purposes related to the conservation of endangered species, and premises or parts of premises where only breeds of poultry or other captive birds which require to be registered under section 7 of the Wildlife and Countryside Act 1981 [^c15868991]or which the Scottish Ministers consider to be rare are kept;
+- “**vaccinate**” means treat poultry or other captive bird with vaccine against avian influenza;
+- “**vaccination notice**” means a notice issued under regulation 12(1)(b) or 13(1)(b);
+- “**vaccination zone**” means the geographical area specified in a declaration under regulation 12(1)(a) or 13(1)(a) as being the area within which vaccination against avian influenza is to be carried out;
+- “**vehicle**” includes any means of transport and includes–
+  - (a) a trailer, semi-trailer or other thing designed or adapted to be towed by another vehicle;
+  - (b) a detachable part of any vehicle;
+  - (c) a container or other structure designed or adapted to be carried on a vehicle; and
+- “**veterinary inspector**” means a veterinary inspector appointed by the Scottish Ministers under the Act.
+
+(2) Other expressions defined in the Directive have the same meaning in these Regulations.
+
+## 3. Declarations, notices and licences
+
+(1) Declarations made under these Regulations–
+
+- (a) must be in writing;
+- (b) may be amended or revoked, by further declaration in writing, at any time;
+- (c) must designate the extent of the vaccination zone being declared;
+- (d) must refer to the minimum measures which apply in the vaccination zone and state whether they apply in all or part of the zone;
+- (e) must state which categories of birds the measures apply to; and
+- (f) must state at whose expense the measures are to be carried out.
+
+(2) Notices issued under these Regulations–
+
+- (a) must be in writing;
+- (b) may be amended or revoked, by further notice in writing, at any time;
+- (c) where service of the notice on the occupier of any premises results in any requirement or restriction in relation to those premises, shall contain a description of those premises sufficient to ascertain their extent;
+- (d) must refer to the minimum measures which apply to the premises;
+- (e) must state which categories of birds the measures apply to; and
+- (f) must state at whose expense the measures are to be carried out.
+
+(3) Licences granted under these Regulations–
+
+- (a) must be in writing;
+- (b) may be general or specific;
+- (c) may, in addition to any conditions required by these Regulations, be made subject to such conditions as the Scottish Ministers consider necessary to control disease; and
+- (d) may be amended, suspended or revoked, in writing, at any time.
+
+(4) The Scottish Ministers must take such steps as they consider fit to ensure that declarations, notices and licences are brought to the attention of those who may be affected by them as soon as is reasonably practicable and, in particular, must ensure that the extent of any zone declared under these Regulations, the nature of the restrictions and requirements applicable within it and the dates of its declaration and withdrawal are publicised.
+
+(5) Except as otherwise directed by the Scottish Ministers, licences granted in England, Wales or Northern Ireland for activities which could be licensed in Scotland under these Regulations have effect in Scotland as if they were licences granted under these Regulations.
+
+(6) A person moving anything under the authority of a specific licence issued under these Regulations must–
+
+- (a) keep the licence with them at all times during the licensed movement;
+- (b) on demand made by an inspector or officer of the Scottish Ministers, produce the licence and allow a copy or extract to be taken; and
+- (c) on such demand, furnish their name and address.
+
+(7) A person moving anything under the authority of a general licence issued under these Regulations must, at all times during the licensed movement–
+
+- (a) carry a consignment note which contains details of the movement, including the name and location of the originating premises, the place of destination and the nature of the consignment;
+- (b) produce it to an inspector or other officer of the Scottish Ministers on demand and allow a copy or extract to be taken; and
+- (c) on such demand, furnish that person's name and address.
+
+(8) A declaration, notice or licence under these Regulations may be sent to a person as an electronic communication (as defined in the Electronic Communications Act 2000 [^c15869001]), only if that person has consented to the use of that method of communication for that purpose.
+
+(9) A declaration, notice or licence sent to a person as an electronic communication shall be taken to be received on the day after the day of its transmission.
+
+## Powers of Slaughter
+
+### 4. Preventive eradication
+
+(1) The Scottish Ministers may, where they consider appropriate on the basis of epidemiological information or other evidence, implement a preventive eradication programme of avian influenza.
+
+(2) As part of such a programme, the Scottish Ministers may cause to be killed the poultry and other captive birds on such premises as they consider necessary with a view to preventing the spread of avian influenza.
+
+(3) Killing shall be carried out in such a way as to minimise the dispersal of avian influenza virus.
+
+(4) Compensation shall be payable for any bird killed under this regulation as if that bird had been killed under the powers conferred by paragraph 5(1) of Schedule 3 to the Act, and as if the definition of “poultry” in section 87(4) of the Act was extended to include all species of bird.
+
+### 5. Duty to kill birds on infected premises
+
+(1) Subject to paragraph (2) and regulations 6 to 8, where avian influenza is confirmed on any premises, the Scottish Ministers shall, in exercise of their powers under paragraph 5(1) of Schedule 3 to the Act, cause to be killed all poultry and other captive birds on those premises.
+
+(2) On the basis of an assessment of the risk of further spread of avian influenza, the Scottish Ministers may decide not to cause to be killed certain species of poultry or other captive birds to which paragraph (1) applies.
+
+(3) The Scottish Ministers may, by notice to the occupier of the premises, specify appropriate measures and conditions to limit any possible spread of avian influenza to any wild birds on the premises.
+
+### 6. Separate production units
+
+(1) The Scottish Ministers may by notice served on the occupier of premises declare those premises to consist of two or more separate production units where, taking account of the–
+
+- (a) structure of the premises;
+- (b) size of the premises;
+- (c) operation of the premises;
+- (d) type of housing on the premises;
+- (e) feeding on the premises;
+- (f) water source on the premises;
+- (g) equipment on the premises; and
+- (h) staff and visitors to the premises,
+
+the Chief Veterinary Officer (Scotland) is satisfied that the production units are completely independent of other production units on the same premises in terms of location and day to day management of the poultry or other captive birds kept there, and so advises the Scottish Ministers.
+
+(2) Where premises consist of two or more separate production units, the Scottish Ministers may decide not to cause to be killed poultry or other captive birds on those separate production units of the premises where avian influenza has not been confirmed, provided that such a decision does not materially reduce the effectiveness of measures to prevent the spread of avian influenza.
+
+### 7. Measures on special category premises – highly pathogenic avian influenza
+
+(1) Where highly pathogenic avian influenza is confirmed on special category premises, the Scottish Ministers may decide not to cause all or any of the poultry or other captive birds on those premises to be killed under paragraph 5(1) of Schedule 3 to the Act where they consider that this does not materially reduce the effectiveness of measures to prevent the spread of avian influenza.
+
+(2) Where a decision is taken under paragraph (1) not to cause any poultry or other captive birds on special category premises to be killed under paragraph 5(1) of Schedule 3 to the Act, those birds shall not be moved unless the Chief Veterinary Officer (Scotland) is satisfied, following tests, that they are not infectious with avian influenza.
+
+(3) Where a decision is taken under paragraph (1) not to cause any poultry or other captive birds on special category premises to be killed under paragraph 5(1) of Schedule 3 to the Act, the occupier of the special category premises must ensure that–
+
+- (a) poultry and other captive birds on the premises are housed or (if, in the view of a veterinary inspector, housing is impractical or would adversely affect the birds' welfare to a significant degree) isolated, on the premises;
+- (b) records are kept of all poultry and other captive birds which become sick or die on the premises;
+- (c) no poultry or other captive bird is moved from the premises except–
+  - (i) to a slaughterhouse or other premises in accordance with a licence granted by a veterinary inspector; or
+  - (ii) to a slaughterhouse or other premises in a[^key-91747d6ff9992461c96fbd82b66dacfc] member State, if the movement is licensed by a veterinary inspector and is authorised by that member State.
+
+(4) The occupier of the premises must take all reasonable steps to minimise contact between birds isolated under paragraph (3)(a) and–
+
+- (a) poultry and other captive birds on other premises; and
+- (b) wild birds.
+
+### 8. Measures on special category premises – low pathogenic avian influenza
+
+(1) Where low pathogenic avian influenza is confirmed on special category premises, the Scottish Ministers may decide not to cause poultry or other captive birds on those premises to be killed under paragraph 5(1) of Schedule 3 to the Act where they consider that this does not materially reduce the effectiveness of measures to prevent the spread of avian influenza.
+
+(2) Where a decision is taken under paragraph (1) not to cause poultry or other captive birds on special category premises to be killed under paragraph 5(1) of Schedule 3 to the Act, those birds should not be moved unless the Chief Veterinary Officer (Scotland) is satisfied, following tests, that the proposed movement would not significantly increase the risk of the spread of low pathogenic avian influenza.
+
+(3) Where a decision is taken under paragraph (1) not to cause poultry or other captive birds on special category premises to be killed under paragraph 5(1) of Schedule 3 to the Act, the occupier of special category premises must ensure that–
+
+- (a) poultry and other captive birds are housed or (if, in the view of a veterinary inspector, housing is impractical or would adversely affect the birds' welfare to a significant degree) isolated, on the premises;
+- (b) records are kept of all poultry and other captive birds which become sick or die on the premises;
+- (c) no poultry or other captive bird is moved from the premises except–
+  - (i) to a slaughterhouse or other premises in accordance with a licence granted by a veterinary inspector; or
+  - (ii) to a slaughterhouse or other premises in a[^key-a1061079ceaf6c05fdc289b3c9c8eaf9] member State, if the movement is licensed by a veterinary inspector and is authorised by that member State.
+
+(4) The occupier of the premises must take all reasonable steps to minimise contact between birds isolated under paragraph (3)(a) and–
+
+- (a) poultry and other captive birds on other premises; and
+- (b) will birds.
+
+### 9. Killing of birds on premises
+
+(1) Subject to regulation 10, the Scottish Ministers must ensure that poultry and other captive birds to be killed under regulation 4 or under paragraph 5(1) of Schedule 3 to the Act are killed without delay on the premises where they are kept.
+
+(2) Killing shall be carried out in such a way as to minimise the dispersal of avian influenza virus.
+
+### 10. Movement of birds off premises for killing
+
+(1) If the Scottish Ministers consider that–
+
+- (a) in the case of highly pathogenic avian influenza, killing birds off the premises where they are kept would limit the risk of the spread of avian influenza more effectively, they must issue the notice specified in paragraph (2);
+- (b) in the case of low pathogenic avian influenza, killing birds off the premises where they are kept would not significantly increase the risk of the spread of avian influenza, they may issue the notice specified in paragraph (2).
+
+(2) A notice under this paragraph is a notice issued by the Scottish Ministers directing the occupier of the premises where the birds are located, that killing of the birds specified in the notice is to be carried out at a place specified in the notice.
+
+(3) Where the Scottish Ministers issue a notice under paragraph (2), they shall license the movement of those birds to that place.
+
+## Vaccination
+
+### 11. Prohibition on vaccination
+
+(1) No person shall vaccinate any poultry or other captive bird against avian influenza except where required by the Scottish Ministers in accordance with regulation 12 or 13.
+
+(2) The prohibition in paragraph (1) does not apply to–
+
+- (a) anything done under the authority of a licence granted under article 4 of the Specified Animal Pathogens (Scotland) Order 2009[^key-ebf63492fe17193b3f10a090395f737d]; or
+- (b) administration of a vaccine in accordance with an animal test certificate granted under regulation 8 of the Veterinary Medicines Regulations 2013[^key-ed80fbae6f7d394a77c15632ac5e804b].
+
+### 12. Decision to require emergency vaccination
+
+(1) Where the condition in paragraph (2) is fulfilled, the Scottish Ministers must, if they consider it necessary to reduce the risk of the spread of avian influenza–
+
+- (a) declare an emergency vaccination zone in all or part of Scotland, where these areas contain poultry or other captive birds which they consider should be vaccinated; or
+- (b) serve an emergency vaccination notice on the occupier of any premises where poultry, other captive birds or any category of poultry or other captive bird which they consider should be vaccinated, are kept.
+
+(2) The condition referred to in paragraph (1) is that the Scottish Ministers have carried out a risk assessment which indicates that there is a significant and immediate threat of avian influenza spreading within or into Scotland following–
+
+- (a) an outbreak of avian influenza within the United Kingdom;
+- (b) an outbreak of avian influenza within a nearby Member State; or
+- (c) an outbreak of avian influenza in poultry or other captive birds in a nearby third country.
+
+(3) Any premises which are partly inside and partly outside an emergency vaccination zone are deemed to be wholly within it.
+
+### 13. Decision to require preventive vaccination
+
+(1) Where the conditions in paragraph (2) are fulfilled, the Scottish Ministers must, if they consider it necessary to reduce the risk of the spread of avian influenza–
+
+- (a) declare a preventive vaccination zone in all or part of Scotland, where these areas contain poultry or other captive birds which they consider should be vaccinated; or
+- (b) serve a preventive vaccination notice on the occupier of any premises where poultry, other captive birds or any category of poultry or other captive bird which they consider should be vaccinated, are kept.
+
+(2) The conditions referred to in paragraph (1) are–
+
+- (a) a risk assessment has been carried out by the Scottish Ministers which indicates that all or certain areas of Scotland, types of poultry husbandry or types of poultry or other captive birds are exposed to the risk of avian influenza; and
+- (b) a preventive vaccination plan has been published by Scottish Ministers[^key-5fe6217b94392d6ad730c6d8e413f22f].
+
+(3) Any premises which are partly inside and partly outside a preventive vaccination zone are deemed to be wholly within it.
+
+### 14. Extension of the power to cause vaccination
+
+Notwithstanding section 16(1) of the Act, the Scottish Ministers may cause vaccination of poultry or captive birds which do not fall within that section where they are in a vaccination zone or within premises which are the subject of a vaccination notice and section 16 of the Act shall apply as if such vaccination was carried out in exercise of the power in section 16(1).
+
+### 15. Measures applying in a vaccination zone or to premises under notice
+
+(1) The Scottish Ministers must, in a declaration of a vaccination zone or in a vaccination notice–
+
+- (a) require the vaccination of poultry, other captive birds or any specified category of poultry or other captive bird in accordance with instructions issued by them; and
+- (b) where vaccination is to be carried out by the Scottish Ministers, require co-operation with any person authorised by them to carry out vaccination.
+
+(2) No person shall move any poultry, other captive bird or their products–
+
+- (a) within, into or out of a vaccination zone; or
+- (b) into or out of premises stipulated in a vaccination notice,
+
+except under the authority of a licence issued by a veterinary inspector or an inspector under the direction of a veterinary inspector.
+
+(3) In paragraph (2), “products” of poultry or other captive birds means any carcase, egg or any other thing originating or made (whether in whole or in part) from poultry or other captive birds or the carcases of such birds.
+
+(4) Paragraph (2) does not apply to–
+
+- (a) products (other than eggs) which derive from poultry or other captive birds originating and slaughtered outside a vaccination zone or premises which are the subject of a vaccination notice; or
+- (b) the retail distribution of poultry eggs after packing and movements subsequent to such distribution.
+
+(5) Paragraphs (2) to (4) apply without prejudice to any other requirement or restriction applying in any part of a zone or premises because that part of the zone or premises falls within another zone declared by the Scottish Ministers, or is the subject of another notice served by the Scottish Ministers, for the purposes of reducing the risk of the spread of avian influenza.
+
+(6) Any person moving poultry, other captive birds or their products within, into or out of a vaccination zone or into or out of premises stipulated in a vaccination notice must keep a record, in the form of a consignment note or otherwise, of the date of the movement and the registration of any vehicle used, for at least six weeks after the date of the movement.
+
+### 16. Emergency vaccination without a published emergency vaccination plan[^key-f236a8aeeff4d9291db4fae05923cc5b]
+
+(1) Where the Scottish Ministers declare an emergency vaccination zone or serve an emergency vaccination notice under regulation 12(1) before an emergency vaccination plan has been published by the Scottish Ministers[^key-8e0b943eaeb715e96ee15bc720989cf8]—
+
+- (a) a licence issued under regulation 15(2) must impose the conditions set out in the Schedule;
+- (b) the owner or driver of any vehicle or other means of transport used for transporting live poultry or other captive birds, poultry eggs or poultry meat under such a licence must, as soon as reasonably practicable after use, cleanse and disinfect that vehicle and any equipment used in the transportation of such material in accordance with Part 1 of Schedule 3 to the Avian Influenza Order insofar as it is applicable to vehicle, and for this purpose references to “this Order” in Part 1 of Schedule 3 of the Avian Influenza Order shall be read as references to these Regulations;
+- (c) a veterinary inspector must, by notice to the owner or driver of a vehicle or other means of transport referred to in paragraph (1)(b), require the destruction of any thing which may be contaminated with avian influenza virus and which the inspector considers cannot be cleansed and disinfected or treated.
+
+(2) Under paragraph (1)(b), disinfection must be carried out in accordance with Article 65(4) of the Avian Influenza Order.
+
+(3) Packing centres and slaughterhouses which are designated under the Avian Influenza Order are designated for the purpose of receiving poultry, other captive birds, poultry eggs or poultry meat (as the case may be) which are moved under a licence granted under regulation 15(2) in the circumstances described in paragraph (1).
+
+(4) Upon publication[^key-1dc7ce03ebd3e09d9ad3214949a8651a] of the emergency vaccination plan [^key-0c5b02a7631d7c94216a51a9256b3f9f]..., the Scottish Ministers or an inspector acting under their direction may vary the conditions in the licence referred to in paragraph (1)(a).
+
+### 17. Failure to vaccinate birds specified for vaccination
+
+(1) Any person (other than an inspector) who knows or suspects that the Scottish Ministers have required a bird to be vaccinated, but that bird was not vaccinated at the time when it should have been, must immediately notify an authorised veterinary inspector[^key-04aba40c081b2460aa4e9037d6eadb90].
+
+(2) If an inspector knows or suspects that the Scottish Ministers have required a bird to be vaccinated, but that bird was not vaccinated at the time when it should have been, the inspector shall arrange for that bird to be vaccinated as soon as is reasonably practicable.
+
+### 18. Cleansing and disinfection of vehicles: provision of facilities, equipment and materials
+
+Where cleansing and disinfection of vehicles is required at any premises by or under these Regulations, the occupier of those premises must provide adequate facilities and proper equipment and materials for that cleansing and disinfection.
+
+### 19. Change of occupation of premises under restriction
+
+(1) This regulation applies if the keeper of any poultry or other captive bird is unable to move it from premises on the termination of the keeper's right of occupation because of a movement restriction imposed by or under these Regulations and continues to apply for seven days after any such restriction has been removed.
+
+(2) Where this regulation applies, the person entitled to occupation of the premises on that termination must–
+
+- (a) provide such facilities for feeding, tending or otherwise using the poultry or other captive bird (including selling it) as the keeper may reasonably require; and
+- (b) allow entry to the premises to that keeper and any person authorised by that keeper at reasonable times for feeding, tending or otherwise using the poultry or other captive bird.
+
+(3) If the keeper is unable or unwilling to feed or tend the poultry or other captive bird, the person entitled to occupation of the premises shall take such steps as are necessary to ensure it is properly fed and tended.
+
+(4) The keeper of the poultry or other captive bird is liable to pay the reasonable costs (including accommodation costs) incurred under this regulation by any person feeding or tending it, or providing facilities for feeding, tending or otherwise using it.
+
+### 20. Reasonable assistance
+
+Any person required to give reasonable assistance or information to a person acting in the execution of these Regulations for the performance of that person's functions under them must, unless that person has reasonable cause, do so without delay.
+
+### 21. False information
+
+No person shall furnish information which that person knows to be false or misleading to a person acting in the execution of these Regulations.
+
+### 22. Production of records
+
+(1) Any person required to produce a record by a person acting in the execution of these Regulations must do so without delay.
+
+(2) On production, a person acting in the execution of these Regulations may–
+
+- (a) copy any records, in whatever form they may be held; or
+- (b) remove any records to enable them to be copied, or where they are kept electronically, require them to be produced in a form which may be taken away.
+
+(3) A person removing records under this regulation must give a written receipt for them.
+
+### 23. Compliance with notices and declarations
+
+Any person on whom a notice under these Regulations is served, or to whom a declaration or licence under these Regulations applies, who contravenes or fails to comply with the requirements or restrictions in that notice, declaration or licence shall be guilty of an offence.
+
+### 24. Powers of inspectors
+
+(1) The following provisions of the Act apply as if these Regulations were an Order made under the Act and as if the definition of poultry in section 87(4) of the Act were extended to include all birds–
+
+- (a) section 63 (general powers of inspectors);
+- (b) section 64A (powers of inspectors relating to[^key-8a908b6a2b665c042eb756f30b9a95ea] assimilated[^key-3ab6327c4f6d81e45cfeb4a4744e4138] law); and
+- (c) section 65(1) to (3) (power to detain vessels and aircraft).
+
+(2) An inspector may mark any bird or other thing for identification purposes.
+
+(3) Any person who defaces, obscures or removes any mark applied under paragraph (2) shall be guilty of an offence.
+
+### 25. Inspection of vehicles
+
+(1) If one of the conditions in paragraph (2)(a) is satisfied and the condition in paragraph (2)(b) is satisfied an inspector may stop, detain and inspect any vehicle to ascertain whether the provisions of these Regulations or the Avian Influenza Order or of any licence, declaration or notice under these Regulations or the Avian Influenza Order, are being complied with.
+
+(2) The conditions are that–
+
+- (a) the vehicle is–
+  - (i) in a controlled zone, during the period of the existence of the zone;
+  - (ii) in a vaccination zone, during the period of the existence of the zone;
+  - (iii) on premises specified in a vaccination notice, during the period for which the notice applies; and
+- (b) that the inspector is accompanied by a constable in uniform.
+
+### 26. Enforcement and offences
+
+(1) The following provisions of the Act apply as if these Regulations were an Order made under the Act–
+
+- (a) section 60 (duties and authorities of constables);
+- (b) section 64 (powers of inspectors as to poultry);
+- (c) section 66 (refusal and obstruction);
+- (d) section 67 (issue of false licences etc.);
+- (e) section 68 (issue of licences etc. in blank);
+- (f) section 70 (alteration of licences etc.);
+- (g) section 71 (other offences as to licences);
+- (h) section 73 (general offences), but no contravention of, or failure to comply with, a provision of these Regulations by the Scottish Ministers, a local authority, a veterinary inspector or an inspector shall constitute a contravention for the purposes of that section;
+- (i) section 77 (money recoverable summarily); and
+- (j) section 79(1) to (4) (evidence and procedure),
+
+and as if the definition of poultry in section 87 of the Act was extended to include all birds.
+
+(2) Section 69 of the Act (falsely obtaining licences etc.) applies as if licences granted under these Regulations were granted under an Order made under the Act.
+
+(3) A person who, by virtue of these Regulations is guilty of an offence under the Act, is liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 5 on the standard scale or to both.
+
+(4) If an offence committed by a body corporate is shown–
+
+- (a) to have been committed with the consent or connivance of an officer; or
+- (b) to be attributable to any neglect on the officer's part,
+
+the officer as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+(5) If the affairs of a body corporate are managed by its members, paragraph (4) applies in relation to the acts and defaults of a member in connection with the member's functions of management as if the member were a director of the body.
+
+(6) “**Officer**”, in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
+
+(7) “**Body corporate**” includes a partnership in Scotland and, in relation to such a partnership, a reference to an officer of a body corporate is a reference to a partner.
+
+(8) Subject to paragraph (9), these Regulations shall be enforced by the local authority.
+
+(9) The Scottish Ministers may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority under paragraph (8) shall be discharged by the Scottish Ministers and not by the local authority.
+
+### 27. General powers of inspectors to take action to prevent the spread of avian influenza
+
+(1) This regulation applies to every vaccination zone and every premises stipulated in a vaccination notice.
+
+(2) A veterinary inspector or an inspector acting under a veterinary inspector's direction may, if the inspector considers it necessary to prevent the risk of the spread of avian influenza, require–
+
+- (a) the detention and isolation of any vehicle, equipment or other thing and its subsequent cleansing and disinfection by serving a notice requiring such action on the occupier of the premises where it is present, or on the person in charge of it;
+- (b) the cleansing and disinfection of any premises or part of any premises by serving a notice requiring it on the occupier of those premises;
+- (c) the detention or isolation in a specified place of any animal, poultry or other captive bird by serving a notice on the occupier of the premises where it is present, or on its keeper;
+- (d) the separation of any animal, poultry or other captive bird from other animals, poultry or other captive birds by serving a notice requiring it on the occupier of the premises where it is present, or on its keeper.
+
+(3) A notice under this regulation may contain such directions and conditions as the person serving it considers necessary to prevent the risk of the spread of avian influenza.
+
+### 28. Powers of inspectors in case of default
+
+(1) Where a person fails to comply with a requirement imposed by or under these Regulations, an inspector may take any steps which the inspector considers necessary to ensure the requirement is met.
+
+(2) Where a person acts in contravention of a requirement imposed by or under these Regulations, an inspector may take any steps which the inspector considers necessary to rectify the situation so as to prevent the spread of avian influenza.
+
+(3) When taking steps under paragraph (1) or (2) an inspector may seize and detain any animal, poultry or other captive bird, poultry or other captive bird product, vehicle or other thing moved, kept or otherwise dealt with in contravention of a restriction or requirement imposed by or under these Regulations.
+
+(4) When taking steps under paragraph (1) or (2), an inspector may by notice served on any person direct that person to take or refrain from specified action in respect of any place, animal, poultry or other captive bird, poultry or other captive bird product, vehicle or other thing.
+
+(5) Any steps taken under this regulation are without prejudice to proceedings for an offence arising out of the default.
+
+(6) The person in default shall reimburse any reasonable expenses incurred by the Scottish Ministers or the local authority in taking such steps.
+
+ROSS FINNIE
+
+A member of the Scottish Executive
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE — Conditions for movements of poultry, other captive birds and poultry products
+
+Regulation 16(1)
+
+### PART 1
+
+**1.** In this Schedule “**the movement licence**” means a licence issued under regulation 15(2) for the particular movement described in the relevant sub-paragraph of this Schedule.
+
+### PART 2 — Movements of live poultry or other captive birds or poultry eggs within a vaccination zone
+
+**2.** (1) Where any person moves live poultry or other captive birds or poultry eggs within a vaccination zone–
+
+- (a) hatching eggs must–
+  - (i) originate from a vaccinated or unvaccinated breeding flock which has been examined with favourable results by a veterinary inspector;
+  - (ii) have been disinfected before dispatch in accordance with instructions issued by a veterinary inspector;
+  - (iii) be transported directly to the hatchery of destination; and
+  - (iv) be traceable within the hatchery;
+- (b) eggs must originate from a vaccinated or non-vaccinated layer flock which has been examined with favourable results by a veterinary inspector and must be transported to–
+  - (i) a designated packing centre, provided that they are packed in disposable packaging and that all biosecurity measures required by the movement licence are applied; or
+  - (ii) an establishment for the manufacture of egg products as set out in Chapter II of Section X of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) [^c15869051]to be handled and treated in accordance with Chapter XI of Annex II to Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) [^c15869061];
+- (c) day-old chicks must–
+  - (i) originate from hatching eggs satisfying the conditions set out in sub-paragraph (a); and
+  - (ii) be placed in a poultry-house or shed where there is no resident poultry;
+- (d) live poultry or other captive birds must–
+  - (i) have been vaccinated against avian influenza if vaccination is required by a declaration or notice under regulation 12(1);
+  - (ii) have been examined by a veterinary inspector with favourable results; and
+  - (iii) be placed in a poultry-house or shed where there is no resident poultry.
+- (e) poultry for slaughter must–
+  - (i) be examined by a veterinary inspector with favourable results before loading; and
+  - (ii) be sent directly to a designated slaughterhouse for immediate slaughter.
+
+(2) Sub-paragraph (1)(b) does not apply to the retail distribution of poultry eggs and movements subsequent to such distribution.
+
+### PART 3 — Movements of live poultry or other captive birds or poultry eggs from premises outside a vaccination zone or premises which are not under notice to premises within a vaccination zone or to premises which are under notice
+
+**3.** (1) Where any person moves live poultry or other captive birds or poultry eggs from premises outside a vaccination zone, or premises which are not under notice, to premises within a vaccination zone or to premises which are under notice–
+
+- (a) hatching eggs must–
+  - (i) be transported directly to the hatchery of destination; and
+  - (ii) be traceable within the hatchery;
+- (b) eggs must be transported to–
+  - (i) a designated packing centre, provided that they are packed in disposable packaging and that all biosecurity measures required by the movement licence are applied; or
+  - (ii) an establishment for the manufacture of egg products as set out in Chapter II of Section X of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) to be handled and treated in accordance with Chapter XI of Annex II to Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852);
+- (c) day-old chicks must be placed in a poultry house or shed where there is no resident poultry;
+- (d) live poultry or other captive birds must–
+  - (i) be placed in a poultry-house or shed where there is no resident poultry; and
+  - (ii) be vaccinated at the farm of destination if vaccination is required by a declaration or notice under regulation 12(1);
+- (e) poultry for slaughter must be sent directly to a designated slaughterhouse for immediate slaughter.
+
+(2) Sub-paragraph (1)(b) does not apply to the retail distribution of poultry eggs and movements subsequent to such distribution.
+
+### PART 4 — Movements of live poultry or other captive birds or poultry eggs from premises within a vaccination zone or premises which are under notice to premises outside a vaccination zone or to premises which are not under notice
+
+**4.** (1) Where any person moves live poultry or other captive birds or poultry eggs from premises within a vaccination zone, or from premises which are under notice, to premises outside a vaccination zone or to premises which are not under notice–
+
+- (a) hatching eggs must–
+  - (i) originate from a vaccinated or unvaccinated breeding flock which has been examined with favourable results by a veterinary inspector;
+  - (ii) have been disinfected before dispatch in accordance with instructions issued by a veterinary inspector;
+  - (iii) be transported directly to the hatchery of destination; and
+  - (iv) be traceable within the hatchery;
+- (b) eggs must originate from a vaccinated or non-vaccinated layer flock which has been examined by a veterinary inspector and shall be transported to–
+  - (i) a designated packing centre, provided that they are packed in disposable packaging and that all biosecurity measures required by the licence are applied; or
+  - (ii) an establishment for the manufacture of egg products as set out in Chapter II of Section X of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) to be handled and treated in accordance with Chapter XI of Annex II to Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852);
+- (c) day-old chicks must–
+  - (i) not have been vaccinated;
+  - (ii) originate from hatching eggs satisfying the conditions set out in paragraph 2(1)(a) or 3(1)(a) or 4(1)(a);
+  - (iii) be placed in a poultry-house or shed where there is no resident poultry;
+- (d) live poultry or other captive birds must–
+  - (i) not have been vaccinated;
+  - (ii) have been examined by a veterinary inspector; and
+  - (iii) be placed in a poultry-house or shed where there is no resident poultry;
+- (e) poultry for slaughter must–
+  - (i) be examined by a veterinary inspector before loading; and
+  - (ii) be sent directly to a designated slaughterhouse for immediate slaughter.
+
+(2) Sub-paragraph (1)(b) does not apply to the retail distribution of poultry eggs and movements subsequent to such distribution.
+
+### PART 5 — Meat obtained from poultry kept within a vaccination zone or premises under notice
+
+**5.** (1) For meat obtained from vaccinated poultry kept within a vaccination zone or premises under notice and which have been sent for slaughter, that poultry must–
+
+- (a) have been vaccinated with a vaccine specified in a declaration or notice under regulation 12(1);
+- (b) have been inspected and tested with favourable results by a veterinary inspector;
+- (c) have been clinically inspected by a veterinary inspector within 48 hours before loading and if appropriate any sentinel birds on the premises must have been examined by a veterinary inspector; and
+- (d) have been sent directly to a designated slaughterhouse for immediate slaughter.
+
+(2) For meat obtained from non-vaccinated poultry kept within a vaccination zone or premises under notice and which have been sent for slaughter, the poultry must have undergone monitoring by a veterinary inspector or an inspector under the direction of a veterinary inspector.
+
+### PART 6 — General provisions
+
+#### 6. Movement outwith the United Kingdom of poultry or other captive birds from Scotland
+
+The movement outwith the United Kingdom of poultry or other captive birds kept within a vaccination zone or premises under notice from Scotland is prohibited unless authorised by the receiving Member State.
+
+*This note is not part of the Regulations*
+
+These Regulations transpose for Scotland Council Directive [2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza repealing Directive [92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040) (O.J. No. L 10, 14.1.06, p.16) insofar as it deals with vaccination against avian influenza, preventive eradication and imposing a duty to slaughter birds on infected premises.
+
+Regulation 4 enables the Scottish Ministers to carry out preventive eradication. Regulation 5 imposes a duty on the Scottish Ministers to kill all poultry and other captive birds on infected premises subject to the exemptions set out in regulations 6 to 8. Regulations 9 and 10 make provision as to certain matters relating to killing.
+
+Regulation 11 imposes a general prohibition on vaccination of animals against avian influenza except where required by the Scottish Ministers.
+
+Regulations 12 and 13 require the Scottish Ministers to declare vaccination zones in areas which contain poultry or other captive birds which they consider should be vaccinated to prevent the risk of the spread of avian influenza, or to serve vaccination notices on premises where such birds are kept. Such measures can only be carried out where a risk assessment has been carried out and it has indicated that there is a risk of avian influenza spreading within or into Scotland, or that certain areas or birds are in any event exposed to the risk of avian influenza. These measures will be emergency or preventive, depending on the nature of the risk.
+
+Regulation 14 extends the power to vaccinate animals in section 16 of the Animal Health Act 1981 (“**the Act**”) and consequently, the effect of the other provisions of the Act in relation to vaccination.
+
+Regulation 15 provides for measures applying in a vaccination zone or premises stipulated in a vaccination notice. The Scottish Ministers must stipulate in the declaration or notice whether vaccination is required to be carried out by the occupier of the relevant premises or whether it is to be carried out by them and co-operation is required. There is also a general prohibition on the movement of poultry or other captive birds within, into or out of the zone or premises unless authorised by licence. Regulation 16 makes provision as to where emergency vaccination is undertaken before the Commission has approved the emergency vaccination plan. Any licence permitting the movement of poultry or other captive birds must impose the requirements set out in the Schedule.
+
+Regulation 17 makes provision for birds which ought to have been included in a vaccination programme but were not for any reason vaccinated.
+
+Regulation 18 requires occupiers to provide facilities, equipment and materials where cleansing and disinfection of vehicles is required on their premises.
+
+Regulation 19 provides for the feeding and tending of animals or poultry which cannot be moved on termination of a right of occupation because of a restriction imposed by the Regulations.
+
+Regulations 20 to 22 make provision as to the giving of reasonable assistance, the giving of false information and the production of records.
+
+Regulations 23 to 24 and 26 make provision related to offences and enforcement. In particular, regulation 26 applies offence related provisions of the Act as if the Regulations were empowered by the Act; consequently, failure to comply with the Regulations, without lawful authority or reasonable excuse, is an offence under section 73 of the Act (regulation 26(1)(h)). Regulation 26(3) provides that a person guilty of an offence under these Regulations shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding £5000 or both.
+
+Regulation 25 makes provision as to the inspection of vehicles. Regulation 27 confers general powers on veterinary inspectors to take action to prevent the spread of avian influenza. Regulation 28 makes provision as to the powers of inspection in case of default.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business has been undertaken.
+
+## Annotations
+
+[^c15868531]: Marginal citation: 1972, c. 68; section 2(2) was amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The functions conferred on a Minister of the Crown by section 2(2) were transferred, insofar as within devolved competence, to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^c15868851]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22), amended by the [Animal Health Act 1981 (Amendment) Regulations 1992 (S.I. 1992/3293)](https://www.legislation.gov.uk/uksi/1992/3293).
+
+[^key-4ff1ae4a45fe73652ef82aa5b6e2a954]: Textual amendment: Words in reg. 2(1) inserted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [20(2)(c)](https://www.legislation.gov.uk/ssi/2013/173/article/20/2/c)
+
+[^c15868891]: Marginal citation: [S.S.I. 2006/336](https://www.legislation.gov.uk/ssi/2006/336).
+
+[^key-8de30ef0b3432078fee316278c8c0afc]: Textual amendment: Words in reg. 2(1) omitted (28.6.2013) by virtue of [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [20(2)(a)](https://www.legislation.gov.uk/ssi/2013/173/article/20/2/a)
+
+[^key-20c2ede61d79925b91008b776044172d]: Textual amendment: Words in reg. 2(1) omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [5(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/5/a)
+
+[^c15868911]: Marginal citation: O.J. No. L 10, 14.1.06, p.16.
+
+[^key-22c0ff6576ca34e5a5fb00c5d1c0252f]: Textual amendment: Words in reg. 2(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [28(2)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/28/2/a)
+
+[^key-5d36d3140b6ca319d81858cbc320edbd]: Textual amendment: Words in reg. 2(1) omitted (28.6.2013) by virtue of [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [20(2)(b)](https://www.legislation.gov.uk/ssi/2013/173/article/20/2/b)
+
+[^key-9b12f203b119f7fcd89cd52a6bb1385a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/337/regulation/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [17(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/17/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-037ab4287df545f3de738eb4719eec71]: Textual amendment: Words in reg. 2(1) substituted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [5(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/5/b)
+
+[^c15868941]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-cc7bcd2971085d9cab3e21945a462a9a]: Textual amendment: Words in reg. 2 substituted (19.12.2008) by [The Eggs and Chicks (Scotland) (No. 2) Regulations 2008 (S.S.I. 2008/395)](https://www.legislation.gov.uk/ssi/2008/395), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2008/395/regulation/1/2), [23](https://www.legislation.gov.uk/ssi/2008/395/regulation/23), [sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2008/395/schedule/3/paragraph/5)
+
+[^key-c660ee2767963d837d242c54b6482923]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [5(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/5/c)
+
+[^key-7bf66ef4913f0fcdbfc99ac69cc36c42]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/337/regulation/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [17(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/17/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8a15814580fe86542420872b42d4e0c3]: Textual amendment: Words in reg. 2(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [28(2)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/28/2/b)
+
+[^c15868961]: Marginal citation: O.J. No. L 165, 30.4.04, p.1. The revised text of the Regulation is contained in a corrigendum (O.J. No. L 191, 28.5.04, p1).
+
+[^key-5e9177701a69493f6ded349fae5ef764]: Textual amendment: Words in reg. 2(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/28/2/c)
+
+[^key-1973df708e82285c84d5329b53251277]: Textual amendment: Words in reg. 2(1) substituted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [5(d)](https://www.legislation.gov.uk/ssi/2019/71/regulation/5/d)
+
+[^c15868971]: Marginal citation: [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked in England by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059), in Scotland by [S.S.I. 2005/505](https://www.legislation.gov.uk/ssi/2005/505) and in Wales by [S.I. 2005/3292](https://www.legislation.gov.uk/uksi/2005/3292).
+
+[^c15868981]: Marginal citation: [S.I. 1995/540](https://www.legislation.gov.uk/uksi/1995/540), revoked in England by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059), in Scotland by [S.S.I. 2005/505](https://www.legislation.gov.uk/ssi/2005/505) and in Wales by [S.I. 2005/3292](https://www.legislation.gov.uk/uksi/2005/3292).
+
+[^c15868991]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
+
+[^c15869001]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
+
+[^key-91747d6ff9992461c96fbd82b66dacfc]: Textual amendment: Word in [reg. 7(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2006/337/regulation/7/3/c/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [17(3)](https://www.legislation.gov.uk/ssi/2019/71/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a1061079ceaf6c05fdc289b3c9c8eaf9]: Textual amendment: Word in [reg. 8(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2006/337/regulation/8/3/c/ii) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [17(4)](https://www.legislation.gov.uk/ssi/2019/71/regulation/17/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ebf63492fe17193b3f10a090395f737d]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/ssi/2006/337/regulation/11/2/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [28(3)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/28/3/a)
+
+[^key-ed80fbae6f7d394a77c15632ac5e804b]: Textual amendment: Words in [reg. 11(2)(b)](https://www.legislation.gov.uk/ssi/2006/337/regulation/11/2/b) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [28(3)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/28/3/b)
+
+[^key-5fe6217b94392d6ad730c6d8e413f22f]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/ssi/2006/337/regulation/13/2/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [17(5)](https://www.legislation.gov.uk/ssi/2019/71/regulation/17/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f236a8aeeff4d9291db4fae05923cc5b]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/ssi/2006/337/regulation/16) heading substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [17(6)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/17/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8e0b943eaeb715e96ee15bc720989cf8]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/ssi/2006/337/regulation/16/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [17(6)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/17/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1dc7ce03ebd3e09d9ad3214949a8651a]: Textual amendment: Word in [reg. 16(4)](https://www.legislation.gov.uk/ssi/2006/337/regulation/16/4) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [17(6)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/17/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0c5b02a7631d7c94216a51a9256b3f9f]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/ssi/2006/337/regulation/16/4) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [17(6)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/17/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-04aba40c081b2460aa4e9037d6eadb90]: Textual amendment: Words in reg. 17(1) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [20(3)](https://www.legislation.gov.uk/ssi/2013/173/article/20/3)
+
+[^key-8a908b6a2b665c042eb756f30b9a95ea]: Textual amendment: Words in [reg. 24(1)(b)](https://www.legislation.gov.uk/ssi/2006/337/regulation/24/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [17(7)](https://www.legislation.gov.uk/ssi/2019/71/regulation/17/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-3ab6327c4f6d81e45cfeb4a4744e4138]: Textual amendment: Word in [reg. 24(1)(b)](https://www.legislation.gov.uk/ssi/2006/337/regulation/24/1/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/8)
+
+[^c15869051]: Marginal citation: O.J. No. L 139, 30.4.04, p.55.
+
+[^c15869061]: Marginal citation: O.J. No. L 139, 30.4.04, p.1.

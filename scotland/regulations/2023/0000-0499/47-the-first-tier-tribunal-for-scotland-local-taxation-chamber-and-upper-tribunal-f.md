@@ -1,0 +1,184 @@
+---
+title: The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition) Regulations 2023
+id: ssi/2023/47
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-02-21'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2023/47
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2023/47/pdfs/ssipn_20230047_en.pdf
+- http://www.legislation.gov.uk/ssi/2023/47/pdfs/ssi_20230047_en.pdf
+- http://www.legislation.gov.uk/ssi/2023/47/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition) Regulations 2023
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2023 No. 47
+
+Tribunals And Inquiries
+
+The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition) Regulations 2023
+
+Made
+
+21st February 2023
+
+Coming into force
+
+1st April 2023
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 10(2) and (3), 38(1) to (3) and 40(1), (3) and (4) of the Tribunals (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 11(2) of that Act, they have consulted the President of Tribunals.
+
+In accordance with section 79(2)(c) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement[^key-dff536db04cc23ca713069e89805e5a8]
+
+These Regulations may be cited as the First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition) Regulations 2023 and come into force on 1 April 2023.
+
+## 2. Interpretation[^key-54ed6dd81463caf6fb80ca88ccb0daf8]
+
+In these Regulations—
+
+- “**Chamber President**” means the Chamber President of the First-tier Tribunal,
+- “**council tax reduction case**” means proceedings relating to an appeal against a determination on a council tax reduction application under—
+  - (a) regulation 90B of the Council Tax Reduction (Scotland) Regulations 2012[^f00002],
+  - (b) regulation 70B of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00003], or
+  - (c) regulation 94 of the Council Tax Reduction (Scotland) Regulations 2021[^f00004],
+- “**First-tier Tribunal**” means the First-tier Tribunal for Scotland Local Taxation Chamber[^f00005],
+- “**non-list appeal case**” means proceedings relating to an appeal specified in Part III of the Council Tax (Alteration of Lists and Appeals) (Scotland) Regulations 1993[^f00006],
+- “[^key-a59627bf0a2a9ad2e4802da1b3be7ab9]**rules of procedure**” means the rules set out in the schedule of the First-tier Tribunal for Scotland Local Taxation Chamber (Rules of Procedure) Regulations 2022,
+- “**the Upper Tribunal**” means the Upper Tribunal for Scotland ,[^key-1eccff9ebed689d1550282bf419b5066]
+- “**visitor levy case**” means an appeal under regulation 7 (appeal to the First-tier Tribunal) of the Visitor Levy (Reviews and Appeals) (Scotland) Regulations 2026.
+
+## 3. Composition of First-tier Tribunal[^key-e9a8e6a7a49ed01c122e3d2eecd3fb8f]
+
+(1) Subject to paragraphs (2), (2A) and (3)[^key-1f9f07f14ab5fe8ea31fd7544cd648d8], the First-tier Tribunal, when convened to decide any matter in a case, must consist of—
+
+- (a) either—
+  - (i) the Chamber President,
+  - (ii) a legal member, or
+  - (iii) a judicial member, and
+- (b) either—
+  - (i) one ordinary member, or
+  - (ii) two ordinary members.
+
+(2) The First-tier Tribunal, may consist of either the Chamber President, a legal member, or a judicial member acting alone when—
+
+- (a)[^key-b3f1c86b49bfc62504c4934007f70516] convened at a hearing to decide any matter in a non-list appeal case or a council tax reduction case,
+- (b) disposing of a council tax appeal on the basis of written representations under rule 9(2) of the rules of procedure, or
+- (c) convened for the purpose of dealing with matters that are preliminary or incidental to the determination of proceedings, including but not limited to—
+  - (i) considering an application for reinstatement of proceedings that have been dismissed,
+  - (ii) deciding whether to postpone a hearing,
+  - (iii) deciding whether to sist proceedings in an appeal,
+  - (iv) deciding whether to conjoin appeals in accordance with rule 5 of the rules of procedure,
+  - (v) deciding whether to specify one or more cases as a lead case in accordance with rule 4(3)(b) of the rules of procedure,
+  - (vi) considering a request by a party to extend or shorten the time for complying with any rule, practice direction or order (whether or not the time for such compliance has expired),
+  - (vii) deciding whether to dispose of a case without a hearing in accordance with rule 9 or rule 46 of the rules of procedure.
+
+(2A)[^key-d99bdf634db697b0cca6b7ffefbf7c99] The First-tier Tribunal, when convened to decide any matter in a visitor levy case, must consist of—
+
+- (a) a legal member, or
+- (b) a legal member and one other member (who may be a legal member or an ordinary member).
+
+(3) The authority to determine the composition of the First-tier Tribunal in respect of the alternative compositions referred to in paragraphs (1) and (2A)[^key-ad7269323dd2956cebd9cfcfa05c7bed] is delegated to the President of Tribunals, who may sub-delegate the authority to the Chamber President.
+
+(4) If, at or after the beginning of a hearing in which there are two ordinary members, a member of the First-tier Tribunal other than the legal member is absent, the hearing may, with the consent of the parties, be conducted by the legal member and the remaining member and in that event the First-tier Tribunal shall be deemed to be properly constituted, and the decision of the First-tier Tribunal shall be taken by the legal member and that member.
+
+## 4. Composition of Upper Tribunal hearing appeals or referrals from First-tier Tribunal[^key-09eff1b88514376316a730273853e7ef]
+
+(1) The Upper Tribunal, when convened to decide any matter in a case appealed or referred from the First-tier Tribunal, must consist of—[^key-d05029c9b0d54dd9ee99df6245e85f75]
+
+- (a) a member of the Upper Tribunal acting alone,
+- (b) two or three members of the Upper Tribunal,
+- (c) the Chamber President (except a temporary Chamber President), acting alone or with no more than two members of the Upper Tribunal,
+- (d) the President of Tribunals, acting alone or with the Chamber President or with no more than two members of the Upper Tribunal, or
+- (e) the Lord President, acting alone or with the Chamber President or with no more than two members of the Upper Tribunal.
+
+(2) The Chamber President referred to in paragraph (1) must not have had any involvement in the case prior to the appeal of the case to the Upper Tribunal.
+
+(3) For the purposes of paragraph (1)(a), a member of the Upper Tribunal acting alone may be a legal member or a judicial member but may not be an ordinary member.
+
+(4)[^key-d829308049a1a61934a92a84641507f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) For the purposes of paragraph (1)(b) [^key-5babecb1d8f41df923041ac3c9e6af1b]... at least one of the members of the Upper Tribunal must be a legal member or a judicial member and at least one member must be an ordinary member.
+
+(6) The authority to determine the composition of the Upper Tribunal in respect of the alternative compositions referred to in paragraph (1) is delegated to the President of Tribunals, including determining whether a member is to be a legal member or a judicial member.
+
+(7)[^key-c4cf46e570f4859cd05399c924921305] In paragraph (1), a case appealed or referred from the First-tier Tribunal includes a case transferred to the Upper Tribunal by virtue of the Upper Tribunal for Scotland (Transfer of Valuation for Rating Appeal Functions of the Lands Tribunal for Scotland) Regulations 2023.
+
+ELENA WHITHAM
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+21st February 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision as to the composition of the First-tier Tribunal for Scotland when dealing with cases in the Local Taxation Chamber. They also make provision as to the composition of the Upper Tribunal for Scotland when dealing with cases appealed or referred from the Local Taxation Chamber.
+
+The First-tier Tribunal for Scotland and the Upper Tribunal for Scotland are known collectively as the Scottish Tribunals. The Scottish Tribunals were established by the Tribunals (Scotland) Act 2014. The First-tier Tribunal is divided into chambers according to the subject matter of the case, with the Local Taxation Chamber dealing with a range of matters relating to local taxation including property valuation, council tax banding and council tax reduction appeals. Members of the tribunals can be ordinary members, legal members or judicial members according to criteria set out in the Tribunals (Scotland) Act 2014 and regulations made under that Act. This instrument sets out which member or members may hear local taxation cases in the two tribunals.
+
+A Business and Regulatory Impact Assessment has been prepared for these Regulations and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government Justice Directorate, St Andrew’s House, Edinburgh EH1 3DG, and online at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
+
+[^key-dff536db04cc23ca713069e89805e5a8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/47/regulation/1) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/47/regulation/1)
+
+[^key-54ed6dd81463caf6fb80ca88ccb0daf8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/47/regulation/2) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/47/regulation/1)
+
+[^f00002]: Footnote: [S.S.I. 2012/303](https://www.legislation.gov.uk/ssi/2012/303), as relevantly amended by regulation 7 of [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218).
+
+[^f00003]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), as relevantly amended by regulation 13 of [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218) and paragraph 4(6) of schedule 5 of [S.S.I. 2021/249](https://www.legislation.gov.uk/ssi/2021/249).
+
+[^f00004]: Footnote: [S.S.I. 2021/249](https://www.legislation.gov.uk/ssi/2021/249).
+
+[^f00005]: Footnote: The Local Taxation Chamber of the First-tier Tribunal for Scotland is brought into being by [S.S.I. 2021/448](https://www.legislation.gov.uk/ssi/2021/448).
+
+[^f00006]: Footnote: [S.I. 1993/355](https://www.legislation.gov.uk/uksi/1993/355).
+
+[^key-a59627bf0a2a9ad2e4802da1b3be7ab9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/47/regulation/2) inserted (1.4.2026) by [The First-tier Tribunal for Scotland Local Taxation Chamber (Rules of Procedure and Composition) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/105)](https://www.legislation.gov.uk/ssi/2026/105), [regs. 1](https://www.legislation.gov.uk/ssi/2026/105/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/105/regulation/3/2)
+
+[^key-1eccff9ebed689d1550282bf419b5066]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2023/47/regulation/2) inserted (1.4.2026) by [The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/161)](https://www.legislation.gov.uk/ssi/2026/161), [regs. 1](https://www.legislation.gov.uk/ssi/2026/161/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/161/regulation/2/2)
+
+[^key-e9a8e6a7a49ed01c122e3d2eecd3fb8f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/47/regulation/3) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/47/regulation/1)
+
+[^key-1f9f07f14ab5fe8ea31fd7544cd648d8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2023/47/regulation/3/1) substituted (1.4.2026) by [The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/161)](https://www.legislation.gov.uk/ssi/2026/161), [regs. 1](https://www.legislation.gov.uk/ssi/2026/161/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2026/161/regulation/2/3/a)
+
+[^key-b3f1c86b49bfc62504c4934007f70516]: Textual amendment: [Reg. 3(2)(a)-(c)](https://www.legislation.gov.uk/ssi/2023/47/regulation/3/2/a) substituted for reg. 3(2)(i)(ii) (1.4.2026) by [The First-tier Tribunal for Scotland Local Taxation Chamber (Rules of Procedure and Composition) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/105)](https://www.legislation.gov.uk/ssi/2026/105), [regs. 1](https://www.legislation.gov.uk/ssi/2026/105/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/105/regulation/3/3)
+
+[^key-d99bdf634db697b0cca6b7ffefbf7c99]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/ssi/2023/47/regulation/3/2A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/161)](https://www.legislation.gov.uk/ssi/2026/161), [regs. 1](https://www.legislation.gov.uk/ssi/2026/161/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2026/161/regulation/2/3/b)
+
+[^key-ad7269323dd2956cebd9cfcfa05c7bed]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2023/47/regulation/3/3) substituted (1.4.2026) by [The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/161)](https://www.legislation.gov.uk/ssi/2026/161), [regs. 1](https://www.legislation.gov.uk/ssi/2026/161/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2026/161/regulation/2/3/c)
+
+[^key-09eff1b88514376316a730273853e7ef]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/47/regulation/4) in force at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/47/regulation/1)
+
+[^key-d05029c9b0d54dd9ee99df6245e85f75]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2023/47/regulation/4/1) substituted (1.7.2023) by [The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition and Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/200)](https://www.legislation.gov.uk/ssi/2023/200), [regs. 1](https://www.legislation.gov.uk/ssi/2023/200/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/200/regulation/2/2/a)
+
+[^key-d829308049a1a61934a92a84641507f7]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/ssi/2023/47/regulation/4/4) omitted (1.7.2023) by virtue of [The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition and Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/200)](https://www.legislation.gov.uk/ssi/2023/200), [regs. 1](https://www.legislation.gov.uk/ssi/2023/200/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/200/regulation/2/2/b)
+
+[^key-5babecb1d8f41df923041ac3c9e6af1b]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/ssi/2023/47/regulation/4/5) omitted (1.7.2023) by virtue of [The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition and Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/200)](https://www.legislation.gov.uk/ssi/2023/200), [regs. 1](https://www.legislation.gov.uk/ssi/2023/200/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2023/200/regulation/2/2/c)
+
+[^key-c4cf46e570f4859cd05399c924921305]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/ssi/2023/47/regulation/4/7) inserted (1.7.2023) by [The First-tier Tribunal for Scotland Local Taxation Chamber and Upper Tribunal for Scotland (Composition and Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/200)](https://www.legislation.gov.uk/ssi/2023/200), [regs. 1](https://www.legislation.gov.uk/ssi/2023/200/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2023/200/regulation/2/2/d)

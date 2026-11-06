@@ -1,0 +1,170 @@
+---
+title: The Environment Act 1995 (Commencement No. 22) (Scotland) Order 2004
+id: ssi/2004/541
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2004-12-15'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2004/541
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2004/541/pdfs/ssi_20040541_en.pdf
+- http://www.legislation.gov.uk/ssi/2004/541/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Environment Act 1995 (Commencement No. 22) (Scotland) Order 2004
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2004 No. 541 (C. 40)
+
+ENVIRONMENTAL PROTECTION
+
+The Environment Act 1995 (Commencement No. 22) (Scotland) Order 2004
+
+Made
+
+15th December 2004
+
+The Scottish Ministers in exercise of the powers conferred by section 125(3) of the Environment Act 1995[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Citation and extent
+
+(1) This Order may be cited as the Environment Act 1995 (Commencement No. 22) (Scotland) Order 2004.
+
+(2) This Order extends to Scotland only.
+
+## 2. Provisions coming into force on 1st January 2005
+
+The following provisions of the Environment Act 1995 shall (in so far as not already in force) come into force on 1st January 2005–
+
+- (a) section 120(1), in so far as it relates to paragraphs 27(b) and (c), 88[^f00002] and 95 of Schedule 22; and
+- (b) section 120(3), in so far as it relates to the repeal in Schedule 24 of–
+  - (i) the words from “and for the purposes” of to the end of section 30(1) of the Control of Pollution Act 1974[^f00003]; and
+  - (ii) section 75(3) of the Environmental Protection Act 1990[^f00004].
+
+ROSS FINNIE
+
+A member of the Scottish Executive
+
+St Andrew’s House, Edinburgh
+
+15th December 2004
+
+(This note is not part of the Order)
+
+This Order brings into force on 1st January 2005, section 120(1) of the Environment Act 1995 (“the 1995 Act”) insofar as it relates to paragraphs 27(b) and (c), 88 and 95 of Schedule 22 (insofar as those provisions are not already in force).
+
+Paragraphs 27(b) and (c) respectively make amendments to section 30(1) of the Control of Pollution Act 1974 (“the 1974 Act”) concerning the definition of “waste” and in order that the words which provide a presumption that anything discarded is waste unless the contrary is proved cease to have effect. Paragraph 88 amends section 75 of the Environmental Protection Act 1990 (“the 1990 Act”) (meaning of “waste” and household, commercial and industrial waste and special waste).
+
+Paragraph 95 inserts a new Schedule 2B (categories of waste) to the 1990 Act in relation to section 75 of that Act.
+
+In consequence of the commencement of section 120(1) of the 1995 Act and the relevant paragraphs of Schedule 22, this Order also brings into force on the same date section 120(3) (minor and consequential amendments, transitional and transitory provisions, savings and repeals) of the 1995 Act in so far as it relates to the repeal of the words in section 30(1) of the 1974 Act and section 75(3) of the the 1990 Act which provides a presumption that anything discarded is waste unless the contrary is proved.
+
+(This note is not part of the Order)
+
+The following provisions of the 1995 Act have been brought into force by commencement order made before the date of this Order–
+
+| Provision | Date of commencement | S.I. No. |
+| --- | --- | --- |
+| Section 1 | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Section 2 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 3(1) | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 3(2) to (8) | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Section 4 | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Section 5 | 1.2.1996<br>and 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 6 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 7 | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Section 8 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 9 | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Sections 10 and 11 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 12 | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Sections 13 to 19 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Sections 20 to 23 | 12.10.1995 | [1995/2649](https://www.legislation.gov.uk/uksi/1995/2649) |
+| Sections 25 to 29 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Sections 30 to 32 | 12.10.1995 | [1995/2649](https://www.legislation.gov.uk/uksi/1995/2649) |
+| Section 33 to 35 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 36 | 12.10.1995 | [1995/2649](https://www.legislation.gov.uk/uksi/1995/2649) |
+| Section 37 | 28.7.1995<br>and 1.4.1996 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983)<br>and [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Sections 38 to 40 | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Section 41 | 21.9.1995<br>1.2.1996<br>and 1.4.1996 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983)<br>and [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 42 | 21.9.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Sections 43 to 52 | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Sections 53 and 54 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 55 | 1.2.1996<br>and 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 56 | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Section 57 (partially) | 21.9.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| (partially) as to England | 1.4.2000 | [2000/340](https://www.legislation.gov.uk/uksi/2000/340) |
+| (partially) as to Scotland | 14.7.2000 | [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180) |
+| Scotland | 14.7.2000 | [2000/1986](https://www.legislation.gov.uk/uksi/2000/1986) |
+| (partially) as to Wales | 15.9.2001 | [2001/3211](https://www.legislation.gov.uk/uksi/2001/3211) |
+| Section 58 | 21.9.1995<br>and 4.3.1998 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983)<br>and [1998/604](https://www.legislation.gov.uk/uksi/1998/604) |
+| Section 59 | 12.10.1995<br>and 1.1.1999 | [1995/2649](https://www.legislation.gov.uk/uksi/1995/2649)<br>and [1998/327](https://www.legislation.gov.uk/uksi/1998/327) |
+| Section 60 | 1.7.1997<br>and 1.7.1998 | [1997/1626](https://www.legislation.gov.uk/uksi/1997/1626)<br>and [1998/604](https://www.legislation.gov.uk/uksi/1998/604) |
+| Section 78 and Schedule 10 (partially), with savings | 23.11.1995<br>1.4.1996<br>and 1.4.1997 | [1995/2950](https://www.legislation.gov.uk/uksi/1995/2950)<br>and [1996/2560](https://www.legislation.gov.uk/uksi/1996/2560) |
+| Section 80 | 1.2.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 81 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Sections 82 to 86 | 23.12.1997 | [1997/3044](https://www.legislation.gov.uk/uksi/1997/3044) |
+| Sections 87 to 89 | 1.2.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 90 and Schedule 11 | 1.2.1996<br>and 23.12.199 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186)<br>and [1997/3044](https://www.legislation.gov.uk/uksi/1997/3044) |
+| Section 91 | 1.2.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 92 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Sections 93 to 95 | 21.9.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Section 96(1), (5) and (6) and Schedules 13 and 14 as to (England and Wales) | 1.11.1995 | [1995/2765](https://www.legislation.gov.uk/uksi/1995/2765) |
+| Section 96(1), (5) and (6) and Schedules 13 and 14 (as to Scotland) | 1.1.1997 | [1996/2857](https://www.legislation.gov.uk/uksi/1996/2857) |
+| Section 96(2) | 1.11.1995 | [1995/2765](https://www.legislation.gov.uk/uksi/1995/2765) |
+| Section 96(3) | 1.1.1997 | [1996/2857](https://www.legislation.gov.uk/uksi/1996/2857) |
+| Section 96(4) (partially) | 1.11.1995 | [1995/2765](https://www.legislation.gov.uk/uksi/1995/2765) |
+| Section 96(4) (partially) (as to Scotland) | 1.1.1997 | [1996/2857](https://www.legislation.gov.uk/uksi/1996/2857) |
+| Section 97 to 103 | 21.9.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Section 104 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 105 and Schedule 15 | 21.9.1995<br>1.2.1996<br>1.4.1996<br>and 1.1.1999 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983)<br>and [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Sections 106 to 114 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 115 | 1.4.1996 | [1995/2950](https://www.legislation.gov.uk/uksi/1995/2950)<br>and [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 116 and Schedule 21 (partially) | 21.9.1995<br>1.7.1997<br>and 8.4.1998 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983)<br>[1997/1626](https://www.legislation.gov.uk/uksi/1997/1626)<br>and [1998/781](https://www.legislation.gov.uk/uksi/1998/781) |
+| Section 117 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 118(1) to (3), (4) and (5) (partially) and (6) | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 119 | 1.4.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 120(1) | 21.9.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| and Schedule 22 (partially) | 21.10.1995 | [1995/2649](https://www.legislation.gov.uk/uksi/1995/2649) |
+|  | 1.2.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+|  | 1.4.1996 | [1996/2909](https://www.legislation.gov.uk/uksi/1996/2909) |
+|  | 21.11.1996 | [1997/3044](https://www.legislation.gov.uk/uksi/1997/3044) |
+|  | 31.12.1996 | [1998/604](https://www.legislation.gov.uk/uksi/1998/604) |
+|  | 23.12.1997 | [1999/803](https://www.legislation.gov.uk/uksi/1999/803) |
+|  | 1.4.1998 | [1999/1301](https://www.legislation.gov.uk/uksi/1999/1301) |
+|  | 16.3.99 | [1999/1301](https://www.legislation.gov.uk/uksi/1999/1301) |
+|  | 1.4.99 |  |
+|  | 29.4.99 |  |
+| (partially) as to England | 1.4.2000 | [2000/340](https://www.legislation.gov.uk/uksi/2000/340) |
+| (partially) as to Scotland | 14.7.2000<br>1.1.2000 | [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180)<br>[S.S.I. 2000/433](https://www.legislation.gov.uk/ssi/2000/433) |
+| (partially) as to Wales | 15.9.2001 | [2001/3211](https://www.legislation.gov.uk/uksi/2001/3211) |
+| (partially) as to Scotland | 20.3.2003 | [S.S.I. 2003/206](https://www.legislation.gov.uk/ssi/2003/206) |
+| Section 120(2) and Schedule 23 (partially) | 1.4.1996<br>and 1.1.1999 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983)<br>and [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+| Section 120(3) and Schedule 24 (partially) | 21.9.1995<br>1.11.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983)<br>[1995/2765](https://www.legislation.gov.uk/uksi/1995/2765) |
+|  | 1.2.1996 | [1996/186](https://www.legislation.gov.uk/uksi/1996/186) |
+|  | 1.4.1996 | [1996/2560](https://www.legislation.gov.uk/uksi/1996/2560) |
+|  | 31.12.1996 | [1996/2857](https://www.legislation.gov.uk/uksi/1996/2857) |
+|  | 1.1.1997 | [1996/2909](https://www.legislation.gov.uk/uksi/1996/2909) |
+|  | 1.4.1997 |  |
+|  | 1.1.1999 |  |
+| as to Scotland | 14.7.2000 | [S.S.I. 2000/180](https://www.legislation.gov.uk/ssi/2000/180) |
+| (partially) as to Wales | 15.9.2001 | [2001/3211](https://www.legislation.gov.uk/uksi/2001/3211) |
+| Section 120(4) to (6) | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Section 121 to 124 | 28.7.1995 | [1995/1983](https://www.legislation.gov.uk/uksi/1995/1983) |
+| Paragraph 7(2) of Schedule 7 | 1.4.1997 | [1996/2560](https://www.legislation.gov.uk/uksi/1996/2560) |
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: Paragraph 88 of Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) was commenced for the purposes only of the Landfill (Scotland) Regulations 2003 ([S.S.I. 2003/235](https://www.legislation.gov.uk/ssi/2003/235)) by virtue of article 2(b) of the Environment Act 1995 (Commencement No 21) (Scotland) Order 2003 ([S.S.I. 2003/206](https://www.legislation.gov.uk/ssi/2003/206)).
+
+[^f00003]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
+
+[^f00004]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).

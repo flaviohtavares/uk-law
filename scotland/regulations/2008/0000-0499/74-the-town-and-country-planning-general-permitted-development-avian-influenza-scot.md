@@ -1,0 +1,76 @@
+---
+title: The Town and Country Planning (General Permitted Development) (Avian Influenza) (Scotland) Amendment Order 2008
+id: ssi/2008/74
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-03-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2008/74
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2008/74/pdfs/ssien_20080074_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/74/pdfs/ssi_20080074_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/74/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (General Permitted Development) (Avian Influenza) (Scotland) Amendment Order 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 74
+
+TOWN AND COUNTRY PLANNING
+
+The Town and Country Planning (General Permitted Development) (Avian Influenza) (Scotland) Amendment Order 2008
+
+Made
+
+3rd March 2008
+
+Laid before the Scottish Parliament
+
+4th March 2008
+
+Coming into force
+
+26th March 2008
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 30, 31 and 275 of the Town and Country Planning (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Town and Country Planning (General Permitted Development) (Avian Influenza) (Scotland) Amendment Order 2008 and comes into force on 26th March 2008.
+
+## 2. Amendment of the Town and Country Planning (General Permitted Development) (Scotland) Order 1992
+
+(1) The Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00002] is amended in accordance with paragraph (2).
+
+(2) In Part 25A of Schedule 1 to the Order (temporary protection of poultry and other captive birds), in Class 72A–
+
+- (a) in paragraph (3)(c) for “on or before the relevant date” substitute, “on or as soon as practicable after the relevant date”; and
+- (b) in paragraph (4), in the definition of “relevant date” for “2008” substitute, “2009”.
+
+STEWART STEVENSON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+3rd March 2008
+
+(This note is not part of the Order)
+
+This Order amends Part 25A of Schedule 1 to the Town and Country Planning (General Permitted Development) (Scotland) Order 1992. Part 25A grants planning permission in respect of certain development which is necessary for the purposes of housing poultry and other captive birds to protect them from avian influenza. Where Part 25A applies, no specific application for planning permission is needed. Planning permission is granted by Part 25A subject to conditions requiring notification to the planning authority and removal of the development once the need for it has ended or, following changes made by article 2(2), on, or as soon as practicable after, 26th March 2009, whichever is the earlier.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). The functions of the Secretary of State transferred to the Scottish Ministers by section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: S.I. [1992/223](https://www.legislation.gov.uk/uksi/1992/223). Part 25A was inserted into S.I. [1992/223](https://www.legislation.gov.uk/uksi/1992/223) by [S.S.I. 2007/135](https://www.legislation.gov.uk/ssi/2007/135). There are other amendments to S.I. [1992/223](https://www.legislation.gov.uk/uksi/1992/223) which are not relevant to this Order

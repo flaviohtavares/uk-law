@@ -1,0 +1,60 @@
+---
+title: Children's Hearings (Scotland) Act 2011, section 55
+act: Children's Hearings (Scotland) Act 2011
+section: '55'
+status: revised-with-pending-changes
+text_date: '2026-03-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2011/1/section/55
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children's Hearings (Scotland) Act 2011, section 55
+
+> **Warning: changes not yet applied to this text (266).** Text as at 2026-03-30. See https://www.legislation.gov.uk/changes/affected/asp/2011/1
+>
+> Extent: Scotland.
+
+## 55. Application to justice of the peace[^key-ce567ae9ab1597b64fed64f506d222d6]
+
+*Extent: S*
+
+(1) A person may apply to a justice of the peace for an order in respect of a child—
+
+- (a) requiring any person in a position to do so to produce the child to a specified person,
+- (b) authorising the removal of the child by the specified person to a place of safety and the keeping of the child in that place,
+- (c) authorising the prevention of the removal of the child from any place where the child is staying.
+
+(2) A justice of the peace may make an order under this section if—
+
+- (a) the justice of the peace is satisfied of—
+  - (i) in a case where the applicant for the order is a local authority, the matters mentioned in section 38(2)(a) to (d), or
+  - (ii) in a case where the applicant for the order is a local authority or any other person, the matters mentioned in section 39(2)(a) and (b), and
+- (b) the justice of the peace is satisfied that it is not practicable in the circumstances for an application for a child protection order to be made to or considered by the sheriff.
+
+(3) As soon as practicable after the making of the order, the applicant must inform—
+
+- (a) the Principal Reporter,
+- (b) the person specified in the order under subsection (1)(a) (unless the person is the applicant).
+
+(4) The order ceases to have effect at the end of the period of 12 hours beginning with the making of the order if—
+
+- (a) where the order authorises the removal of the child to a place of safety, the child has not been taken, or is not being taken, to that place within that period,
+- (b) where the order authorises the prevention of the removal of the child from a place where the child is staying, arrangements have not been made within that period to prevent that removal.
+
+(5) Otherwise, the order ceases to have effect on the earlier of—
+
+- (a) the end of the period of 24 hours beginning with the making of the order, or
+- (b) the determination by the sheriff of an application to the sheriff for a child protection order in respect of the child.
+
+(6) The Principal Reporter may, by giving notice to the applicant, terminate the order if—
+
+- (a) the Principal Reporter is satisfied that the conditions for the making of an order under this section are no longer satisfied, or
+- (b) the Principal Reporter is satisfied that it is no longer in the best interests of the child for the order to continue to have effect.
+
+(7) In subsection (1), “**specified**” means specified in the order.
+
+## Annotations
+
+[^key-ce567ae9ab1597b64fed64f506d222d6]: Commencement: S. 55 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

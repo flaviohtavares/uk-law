@@ -1,0 +1,314 @@
+---
+title: The Healthcare Improvement Scotland (Requirements as to Independent Health Care Services) Regulations 2011
+id: ssi/2011/182
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-08'
+text_date: '2024-12-13'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/182
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/182/pdfs/ssien_20110182_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/182/pdfs/ssi_20110182_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/182/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Healthcare Improvement Scotland (Requirements as to Independent Health Care Services) Regulations 2011
+
+> Text as at 2024-12-13.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 182
+
+Public Health
+
+The Healthcare Improvement Scotland (Requirements as to Independent Health Care Services) Regulations 2011
+
+Made
+
+8th March 2011
+
+Coming into force
+
+1st April 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 10Z7 of the National Health (Scotland) Act 1978 [^c20751041] and all other powers enabling them to do so.
+
+In accordance with section 10Z7(4) they have consulted such persons or groups of persons as they consider appropriate.
+
+In accordance with section 104(2) of that Act a draft of the instrument has been laid before, and approved by resolution of the Scottish Parliament.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the Healthcare Improvement Scotland (Requirements as to Independent Health Care Services) Regulations 2011 and come into force on 1st April 2011.
+
+(2) In these Regulations—
+
+- “**the Act**” means the National Health Service (Scotland) Act 1978;
+- “**adult**” means any person who is not a child;
+- “**children**” means persons under the age of 18 and “**child**” is to be construed accordingly;
+- “**HIS**” means Healthcare Improvement Scotland;
+- “**health care professional**” means—
+  - (a) a registered medical practitioner;
+  - (b) a registered dentist, or dental practitioner registered with the General Dental Council;
+  - (c) a registered pharmacist as defined in section 108(1) of the Act [^c20751051];
+  - (d) an ophthalmic optician, as defined in section 108(1) of the Act but excluding a body corporate enrolled in the list kept under section 9 of the Opticians Act 1989 [^c20751061];
+  - (e) a registered nurse, midwife or health visitor (being a person registered in the register maintained under article 5 of the Nursing and Midwifery[^key-4f30b97611ba9369ddd924c8f6f36846] Order 2001 [^c20751071]);
+  - (f) a person who is registered as a member of a profession to which the Health Professions Order 2001 extends[^key-42c33ebc914c041f449b866eff506da6];
+  - (g) a registered chiropractor as defined in section 43 of the Chiropractors Act 1994 [^c20751091]; [^key-a9f9efb5b0aab96d411815e62c09619a]...
+  - (h) a registered osteopath as defined in section 41 of the Osteopaths Act 1993 [^c20751101]; ; or[^key-a271cfc785049c3fb4b856b4a12ff9ab]
+  - (i) a person registered under the Anaesthesia Associates and Physician Associates Order 2024;
+- “**manager**” in relation to an independent health care service [^c20751111] means the person for the time being appointed to manage that service;
+- “**provider**” in relation to an independent health care service means the person registered to provide that service;
+- “**representative**” means any person having legal authority, or the consent of the service user, to act on the service user's behalf;
+- “**service user**” in relation to an independent health care service means any person to whom that service is provided.
+
+(3) In these Regulations, references to employing a person include employing a person whether or not for payment and whether under a contract of service, a contract for services or otherwise than under a contract, and allowing a person to work as a volunteer; and references to an employee or to a person being employed are to be construed accordingly and includes a registered medical practitioner or registered dentist having practising privileges who provides medical or dental care within the independent health care service.
+
+## 2. Principles
+
+A provider of an independent health care service must provide the service in a manner which promotes quality and safety and respects the independence of service users, and affords them choice in the way in which the service is provided to them.
+
+## 3. Welfare of users
+
+A provider must—
+
+- (a) make proper provision for the health, welfare and safety of service users;
+- (b) provide services in a manner which respects the privacy and dignity of service users;
+- (c) ensure that no service user is subject to restraint unless it is the only practicable means of securing the welfare and safety of that or any other service user and there are exceptional circumstances; and
+- (d) have appropriate systems, processes and procedures for all aspects of care and treatment carried out by the independent health care service including in particular–
+  - (i) the prevention and control of infection;
+  - (ii) the decontamination of equipment;
+  - (iii) the management of clinical and other waste;
+  - (iv) the management of medication; and
+  - (v) the use of Class 3B or Class 4 laser and intense light source equipment.
+
+## 4. Patient Care Record
+
+(1) A provider must, after consultation with each service user and, where it appears to the provider to be appropriate, any representative of the service user, as soon as reasonably practicable after the service user first received the service, prepare a Patient Care Record (“PCR”) which sets out how the service user's health, safety and welfare needs are to be met.
+
+(2) A provider must ensure a record is made in the PCR, as closely as possible to the time of the relevant event, of the following matters:—
+
+- (a) the date and time of every consultation with, or examination of, the service user by a health care professional and the name of that health care professional;
+- (b) the outcome of that consultation or examination;
+- (c) details of every treatment provided to the service user including the place, date and time that treatment was provided and the name of the health care professional responsible for providing it; and
+- (d) every medicine ordered for the service user and the date and time at which it was administered or otherwise disposed of.
+
+(3) A provider must—
+
+- (a) make the PCR available to the service user and to any representative consulted under paragraph (1);
+- (b) ensure that the PCR is readily available to all health care staff involved in meeting the service user's health and welfare needs; and
+- (c) where appropriate, and after consultation with the service user and, where it appears to the provider to be appropriate, any representative, revise the PCR.
+
+## 5. Fitness of providers
+
+(1) A person must not provide an independent health care service unless that person is fit to do so.
+
+(2) The following persons are unfit to provide an independent health care service:—
+
+- (a) a person who is not of integrity and good character;
+- (b) a person who has been convicted whether in the United Kingdom or elsewhere of any offence which is punishable by a period of imprisonment (whether or not suspended or deferred) for a period of 3 months without the option of a fine and who in the reasonable opinion of HIS is unsuitable to be a provider of an independent health care service;
+- (c) a person whose estate has been sequestrated or who has been adjudged bankrupt unless (in either case) the person has been discharged or the bankruptcy order annulled;
+- (d) a person who has been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986 [^c20751121] or sections 56A to 56K of the Bankruptcy (Scotland) Act 1985 [^c20751131] unless that order has ceased to have effect or has been annulled;
+- (e) a person who has made a composition or arrangement with, or granted a trust deed for, the person's creditors unless the person has been discharged in respect of it;
+- (f) a person who has had an administrator, administrative receiver or a receiver appointed (which appointment is still in effect);
+- (g) a person who has been—
+  - (i) removed under section 34 of the Charities and Trustee Investment (Scotland) Act 2005 [^c20751141] (powers of the Court of Session) from being concerned in the management or control of any body; or
+  - (ii) removed from the office of charity trustee or trustee for a charity by an order made by the Charity Commission for England and Wales or the High Court on the grounds of any misconduct or mismanagement in the administration of the charity for which the person was responsible or to which the person was privy, or which the person by that person's conduct contributed to or facilitated;
+- (h) a person who is subject to a disqualification order under the Company Directors Disqualification Act 1986 [^c20751151], the Companies (Northern Ireland) Order 1986 [^c20751161], or to an order made under section 429(2)(b) of the Insolvency Act 1986 (failure to pay under county court administration order); and
+- (i) a person who is subject to proceedings outside the United Kingdom which are equivalent to those listed at sub-paragraphs (b) to (h) above.
+
+(3) For the purposes of paragraph (2)(b) any conviction by or before a court outside the United Kingdom for an offence in respect of conduct which, if it had taken place in any part of the United Kingdom, would not have constituted an offence under the law in force in that part of the United Kingdom, is to be disregarded.
+
+(4) A provider must inform HIS immediately in writing where the provider becomes a person who is unfit to provide an independent health care service in terms of this regulation.
+
+## 6. Fitness of managers
+
+(1) A person must not act as a manager in relation to an independent health care service unless the person is fit to do so.
+
+(2) The following persons are unfit to act as a manager in relation to an independent health care service—
+
+- (a) any person to whom regulation 5(2)(a) applies;
+- (b) any person who has been convicted whether in the United Kingdom or elsewhere of any offence which is punishable by a period of not less than 3 months and has been sentenced to imprisonment (whether or not suspended or deferred) for any period without the option of a fine and who, in the reasonable opinion of the provider of an independent health care service, is unsuitable to be a manager in relation to that service;
+- (c) a person who does not have the skills, knowledge and experience necessary for managing the independent health care service; and
+- (d) a person who, in order to perform the duties for which the person is employed in the independent health care service, is required by any enactment to be registered with any person or body and is not so registered.
+
+## 7. Notification of unfitness of manager
+
+(1) Where a provider of an independent health care service is or becomes aware that a person acting as a manager in relation to that service has been convicted of any criminal offence, whether in the United Kingdom or elsewhere, the provider must immediately give notice to HIS of—
+
+- (a) the date and place of conviction;
+- (b) the offence in respect of which the manager was convicted; and
+- (c) the penalty imposed in respect of the offence.
+
+(2) Where a provider of an independent health care service becomes aware that a person acting as a manager in relation to that service is unfit to do so in terms of regulation 6, the provider must immediately notify HIS in writing of that fact.
+
+## 8. Fitness of employees
+
+(1) A provider must not employ any person in the provision of an independent health care service unless that person is fit to be so employed.
+
+(2) The following persons are unfit to be employed in the provision of an independent health care service:—
+
+- (a) a person who does not have the qualifications, skills and experience necessary for the work that the person is to perform;
+- (b) any person to whom regulations 5(2)(a) or 6(2)(d) apply;
+- (c) any person who has been convicted, whether in the United Kingdom or elsewhere, of any offence which is punishable by a period of not less than 3 months and has been sentenced to imprisonment (whether or not suspended or deferred) for any period without the option of a fine and who in the reasonable opinion of the manager of an independent health care service is unsuitable to work in that service.
+
+## 9. Protection of vulnerable groups listings
+
+(1) A person who is listed in the children's list in the Protection of Vulnerable Groups (Scotland) Act 2007 [^c20751171] must not provide, manage or be employed in an independent health care service which provides care for children.
+
+(2) A person who is listed in the adults' list in the Protection of Vulnerable Groups (Scotland) Act 2007 must not provide, manage or be employed in an independent health care service.
+
+## 10. Fitness of premises
+
+(1) A provider must not use premises for the provision of an independent health care service unless they are fit to be so used.
+
+(2) Premises are unfit to be used for the provision of an independent health care service unless—
+
+- (a) they are suitable for the purpose of the independent health care service;
+- (b) they are of sound construction and kept in a good state of repair both externally and internally; and
+- (c) they have adequate and suitable equipment, ventilation, heating and lighting.
+
+## 11. Facilities
+
+A provider must provide facilities which are suitable for the provision of the independent health care service and in particular—
+
+- (a) where both adult and child service users are provided with overnight accommodation within the independent health care service's premises, a separate area for daytime and overnight accommodation of adult and child service users; and
+- (b) a place where the money and valuables of service users may be deposited for safe keeping, and arrangements for service users to acknowledge deposit, and the return to them, of any money or valuable so deposited.
+
+## 12. Staffing
+
+A provider must, having regard to the size and nature of the service, and the number and needs of service users—
+
+- (a) ensure that at all times suitably qualified and competent persons are working in the independent health care service in such numbers as are appropriate for the health, welfare and safety of service users;
+- (b) ensure that at all times a suitably qualified health care professional is working within the independent health care service whilst service users are present;
+- (c) ensure that each person employed in the provision of the independent health care service receives—
+  - (i) regular performance reviews and appraisals;
+  - (ii) education and training appropriate to the work they are to perform; and
+  - (iii) suitable assistance, including time off work, for the purpose of obtaining further training and qualifications appropriate to such work;
+- (d) ensure that any person working in the independent health care service who is not employed by the provider, is appropriately supervised and has undergone an appropriate induction programme while carrying out their duties; and
+- (e) ensure that such steps as may be necessary are taken to address any aspect of—
+  - (i) a health care professional's clinical practice; or
+  - (ii) the performance of a member of staff who is not a health care professional which is found to be unsatisfactory.
+
+## 13. Quality of independent health care
+
+(1) A provider of an independent health care service must make such arrangements as are necessary to ensure that any treatment or services provided by that service are of a quality which is appropriate to meet the needs of service users.
+
+(2) The provider must—
+
+- (a) introduce and maintain a system to manage risk associated with or arising from the care and treatment of service users;
+- (b) review the quality of treatment and other services provided by the independent health care service, which review must involve consultation with service users and their representatives where relevant; and
+- (c) produce a written record of the review carried out under sub‑paragraph (b) and make this record available to HIS and service users.
+
+## 14. Appointment of manager
+
+A provider who—
+
+- (a) is not an individual;
+- (b) is unfit to act as manager in relation to an independent health care service in terms of regulation 6(2); or
+- (c) is not, or does not intend to be, in full time day to day charge of the independent health care service,
+
+must appoint an individual to be the manager of the service.
+
+(2) Where a provider appoints a person to manage the independent health care service, the provider must immediately give notice to HIS of—
+
+- (a) the name of the person so appointed; and
+- (b) the date on which the appointment is to take effect.
+
+## 15. Complaints
+
+(1) A provider must establish a procedure (“**the complaints procedure**”) for considering complaints made to the provider.
+
+(2) The complaints procedure must be appropriate to the needs of the service users.
+
+(3) The provider must ensure that any complaint made under the complaints procedure is fully investigated.
+
+(4) The provider must, within 20 working days after the date on which the complaint is made, or such shorter period as may be reasonable in the circumstances, inform the complainant of any action (if any) that is to be taken.
+
+(5) The provider must supply a written copy of the complaints procedure to every service user, and to any representative of a service user if that person so requests.
+
+(6) The written copy of the complaints procedure must include—
+
+- (a) the name and address of HIS; and
+- (b) the procedure (if any) that has been notified by HIS to the provider for the making of complaints to HIS relating to the independent health care service.
+
+(7) The provider must supply to HIS at its request a statement containing a summary of the complaints made during the preceding 12 months and the action that was taken in respect of each complaint.
+
+## 16. Offences
+
+(1) Subject to paragraph 2, it is an offence to contravene or fail to comply with regulations 5(1), 6(1) and 8(1).
+
+(2) Failure to comply with regulation 5(2)(a) does not constitute an offence.
+
+SHONA ROBISON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations set out requirements which must be complied with by providers of independent healthcare services under the National Health Service (Scotland) Act 1978. An independent healthcare service must be provided in accordance with the general principles set out in regulation 2.
+
+Regulation 3 imposes requirements on providers which relate to the welfare of service users. In accordance with regulation 4 the provider is required to prepare a patient care record for each service user setting out how the service user's care will be delivered.
+
+The Regulations specify persons who are not fit to provide (regulation 5), manage (regulation 6) or be employed in an independent healthcare service (regulation 8). Regulation 7 requires a provider to notify Healthcare Improvement Scotland where the provider becomes aware that the manager of the independent health care service becomes unfit to manage the service.
+
+The Regulations also make provision as to whether persons listed in either the children's or adults list in the Protection of Vulnerable Groups (Scotland) Act 2007 are fit to provide, manage or be employed in an independent healthcare service (regulation 9).
+
+Regulation 10 makes provision as to fitness of premises.
+
+Regulation 11 imposes requirements as to facilities for service users. Regulation 12 imposes requirements as to staffing.
+
+Regulation 13 requires providers to ensure the service delivered is of an appropriate quality.
+
+Regulation 14 makes provision as to the manager of an independent healthcare service.
+
+Regulation 15 requires the establishment of a complaints service and regulation 16 provides that contravening or failing to comply with certain provisions of these Regulations is an offence. A person who commits an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## Annotations
+
+[^c20751041]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29). Sections 10A to 10Z19 were inserted by section 108 of the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8).
+
+[^c20751051]: Marginal citation: Section 108 was amended by the European Qualifications (Health and Social Care Professions) Regulations [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
+
+[^c20751061]: Marginal citation: [1989 c.44](https://www.legislation.gov.uk/ukpga/1989/44).
+
+[^key-4f30b97611ba9369ddd924c8f6f36846]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 39](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/39)
+
+[^c20751071]: Marginal citation: S.I. 2002/253, as amended by S.I. 2009/1182.
+
+[^key-42c33ebc914c041f449b866eff506da6]: Textual amendment: Words in reg. 1(2) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/24)
+
+[^c20751091]: Marginal citation: [1994 c.17](https://www.legislation.gov.uk/ukpga/1994/17).
+
+[^key-a9f9efb5b0aab96d411815e62c09619a]: Textual amendment: Word in reg. 1(2) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 17(a)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/17/a)
+
+[^c20751101]: Marginal citation: [1993 c.21](https://www.legislation.gov.uk/ukpga/1993/21).
+
+[^key-a271cfc785049c3fb4b856b4a12ff9ab]: Textual amendment: Words in reg. 1(2) inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 17(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/17/b)
+
+[^c20751111]: Marginal citation: Section 10F of the Act defines an independent health care service.
+
+[^c20751121]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by section 27 of and Schedule 20 to the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
+
+[^c20751131]: Marginal citation: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66). Sections 56A to 56K were inserted by section 2(1) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3).
+
+[^c20751141]: Marginal citation: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
+
+[^c20751151]: Marginal citation: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46), as amended by the [Insolvency Act 2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39).
+
+[^c20751161]: Marginal citation: [S.I](https://www.legislation.gov.uk/ssi/2011/182/section/I). 1986 (1032 (N.I. 6).
+
+[^c20751171]: Marginal citation: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14). Section 1 defines children's and adults list.

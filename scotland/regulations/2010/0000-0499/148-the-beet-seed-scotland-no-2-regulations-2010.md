@@ -1,0 +1,1717 @@
+---
+title: The Beet Seed (Scotland) (No. 2) Regulations 2010
+id: ssi/2010/148
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-04-14'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/148
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/148/pdfs/ssien_20100148_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/148/pdfs/ssi_20100148_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/148/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Beet Seed (Scotland) (No. 2) Regulations 2010
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 148
+
+Seeds
+
+The Beet Seed (Scotland) (No. 2) Regulations 2010
+
+Made
+
+14th April 2010
+
+Laid before the Scottish Parliament
+
+14th April 2010
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Scottish Ministers make the following Regulations in exercise of powers conferred by sections 16(1), (1A), (2), (3), (4) and (5), 17(1), (2), (3) and (4) and 36 of the Plant Varieties and Seeds Act 1964 [^c20273761] and all other powers enabling them to do so.
+
+In accordance with section 16(1) of that Act, they have consulted with representatives of such interests as appear to them to be concerned.
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Beet Seed (Scotland) (No. 2) Regulations 2010.
+
+(2) These Regulations, other than regulation 25(1), come into force on 20th April 2010.
+
+(3) Regulation 25(1) comes into force on 19th April 2010.
+
+(4) These Regulations extend to Scotland only.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “the[^key-fe7c823a05d71ce61bd4f0b09c47d4e0] 2016 Regulations” means the Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016;
+- “**the Act**” means the Plant Varieties and Seeds Act 1964;
+- “**additional region**” means the region for seed production approved by the Scottish Ministers for the purposes of the second paragraph of Article 11(1) (additional regions) of Commission Directive 2008/62 , with Article 11(1) of that Directive being read as if for the reference to[^key-3dac838631ec06c045089d745a4f0919] “Member States” in each place where it occurs and for “the Member States” there were substituted “the Scottish Ministers”;
+- “**Basic Seed**” has the meaning given in paragraph 3 of Part II of Schedule 1;
+- “**Beet**” means plants of the species specified in Part I of Schedule 1;
+- “the Beet Seed Directive” means Council[^key-e5ef8ebd39c3a0acda954e2545c4f7e9] [Directive 2002/54/EC](https://www.legislation.gov.uk/eudr/2002/0054) on the marketing of beet seed;
+- “breeder”—
+  - (a) in relation to a variety which has not been accepted on to a GB Variety List, an NI Variety List or the equivalent list in a country granted equivalence[^key-6642db77c7d73369f12efaae2bfe6b84], includes any person lawfully multiplying (on that person's own account) seed bred by another; and
+  - (b) in relation to a variety which has been so accepted, means the person who is indicated in the relevant GB Variety List, NI Variety List or equivalent list in a country granted equivalence[^key-1ab2a1c38c3bdb422b425c96d9e09177] as responsible for maintaining the plant variety in accordance with the characteristics to which regard was had when the plant variety was accepted on to the relevant GB Variety List, NI Variety List or equivalent list in a country granted equivalence;
+- “**breeder's confirmation**” means a document issued by the Scottish Ministers in accordance with Part II of Schedule 2 containing in respect of the seed to which it relates the particulars specified in paragraph 2 of Schedule 3;
+- “**breeder's designation**” means the title, name or other designation proposed by a breeder for a new plant variety which is the subject of an application for acceptance on to a GB Variety List or an NI Variety List[^key-ff27e8ecd650449ba54780ea76e3b283];
+- “**Breeder's Seed**” has the meaning given in paragraph 1 of Part II of Schedule 1;
+- “**Certified Seed**” has the meaning given in paragraph 4 of Part II of Schedule 1;
+- “**the 2004 Commission Decision**” means Commission Decision [2004/842/EC](https://www.legislation.gov.uk/eud/2004/842) concerning implementing rules whereby Member States may authorise the placing on the market of seed belonging to varieties for which an application for entry in the national catalogue of varieties of agricultural plant species or vegetable species has been submitted [^c20273781] , as amended by Commission Implementing Decision (EU) 2016/320[^key-6b7905137cf6404f5ff1011b29786420];
+- “**Commission Directive 2008/62**” means Commission Directive [2008/62/EC](https://www.legislation.gov.uk/eudr/2008/62) providing for certain derogations for acceptance of agricultural landraces and varieties which are naturally adapted to the local and regional conditions and threatened by genetic erosion and for marketing of seed and seed potatoes of those landraces and varieties [^c20273791];
+- “**Commission Regulation 217/2006**” means Commission Regulation [(EC) No. 217/2006](https://www.legislation.gov.uk/eur/2006/217) laying down rules for the application of Council Directives [66/401/EEC](https://www.legislation.gov.uk/eudr/1966/401), [66/402/EEC](https://www.legislation.gov.uk/eudr/1966/402), [2002/54/EC](https://www.legislation.gov.uk/eudr/2002/54), [2002/55/EC](https://www.legislation.gov.uk/eudr/2002/55) and [2002/57/EC](https://www.legislation.gov.uk/eudr/2002/57) as regards the authorisation of Member States to permit temporarily the marketing of seed not satisfying the requirements in respect of the minimum germination [^c20273801];
+- [^key-4600fcc85dffc5dc076307edcc581c06]...
+- [^key-4600fcc85dffc5dc076307edcc581c06]...
+- “**component**” means—
+  - (a) in the case of Pre-Basic Seed, a component used in the production of a hybrid variety; and
+  - (b) in the case of Basic Seed, a component of a hybrid variety;
+- “**Conservation Variety**” means the landraces or varieties of agricultural plant species which are naturally adapted to local and regional conditions and threatened by genetic erosion and are contained within a GB Variety List or an NI Variety List[^key-6c0478900de20a26ab3d1a8f32b7572b] and for these purposes—
+  - (a) “**landrace**” means a set of populations or clones of a plant species which are naturally adapted to the environmental conditions of their region; and
+  - (b) “**genetic erosion**” means loss of genetic diversity between and within populations of varieties of the same species over time or reduction of the genetic basis of a species due to human intervention or environmental change;
+- “**control plot**” means a plot sown by a GB Authority or the NI Authority[^key-f778cc38cdb779d4df0b19d0ef95ba15] with seed from a submitted sample taken—
+  - (a) by a GB Authority or the NI Authority;
+  - (b) by a licensed seed sampler; or
+  - (c) by an applicant of seed of a Conservation Variety;
+- “country granted equivalence” means a country that has been—[^key-e0a28e467730760666120c4e477cc136]
+  - (a) granted equivalence under the Equivalence Decision; or
+  - (b) assessed by Scottish Ministers as producing the species of seed referred to in regulation 4 under conditions equivalent to those required by these Regulations;
+- “**Crown Dependency**” means any of the Channel Islands or the Isle of Man;
+- “**the 2001 Deliberate Release Directive**” means Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms and repealing Council Directive [90/220/EEC](https://www.legislation.gov.uk/eudr/1990/220) [^c20273821] , as last amended by[^key-91b0782f44cf7967b367c1c3d2266587] Regulation (EU) 2019/1381[^key-f5750e21d98babae7592643c1d5dff0b];
+- “DAERA” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;[^key-811e734d077353784d32715282a31a08]
+- “**early movement seed**” means seed marketed under regulation 12;
+- [^key-155b354c3d87e55c38f4e03b5950e2d0]...
+- “**Equivalence Decision**” means Council Decision [2003/17/EC](https://www.legislation.gov.uk/eud/2003/17) on the equivalence of field inspections carried out in third countries on seed producing crops and on the equivalence of seed produced in third countries [^c20273831] , as last amended by Decision (EU)[^key-3e06426b0582d28299f63c37902b02cb] 2020/1544[^key-6542df26d0333dae1674d08f31a9c265];
+- [^key-70fc8653f648fa284ba24f9d69d0c93e]...
+- [^key-8fb0bc644bc3b117f400ac4f243af4ad]...
+- “**first buyer by way of trade**” has the same meaning as for the purposes of the Beet Seed Directive;
+- “**the Food and Feed Regulation**” means Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/eur/2003/1829)/EC of the European Parliament and of the Council on genetically modified food and feed [^c20273841] , as last amended by Regulation (EU) 2019/1381[^key-966831a92e416da7eaf2303064657145];
+- “**fully certified**” means—
+  - (a) officially certified; or
+  - (b) certified by an International[^key-c1be97056c8b43380cfdbabc34d96305] Authority other than the Scottish Ministers,
+
+  as satisfying the conditions specified for the relevant category of seed in Part II of Schedule 1 and Part 1 of schedule 4;[^key-f44c82d6322bf5d728ea67e99ba5d7b5]
+- “**genetically modified**” has the same meaning as for the purposes of the 2001 Deliberate Release Directive;
+- “the GMO Regulations” means—[^key-5d2a214e499523a0042b8b5446ed9c3e]
+  - (a) in relation to Scotland, the Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002;
+  - (b) in relation to England, the Genetically Modified Organisms (Deliberate Release) Regulations 2002;
+  - (c) in relation to Wales, the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002;
+  - (d) in relation to Northern Ireland, the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003;
+- “GB Authority” means the Scottish Ministers, the Secretary of State or the National Assembly for Wales;
+- “GB Variety List” is a list of plant varieties prepared and published by the Secretary of State in accordance with the provisions of the Seeds (National Lists of Varieties) Regulations 2001;
+- “**homogeneous seed lot**” means a seed lot in which the seed has been so mixed or blended that it is as uniform as practicable and, as far as is practicable, the seed lot shows no evidence of heterogeneity;
+- “International Authority” means a GB Authority, the NI Authority or the competent seed certification authority of a country other than the United Kingdom, and “by an International Authority“ means–[^key-779cb83aa6c391eec81fd587f1550e3d]
+  - (a) by or on behalf of a GB Authority;
+  - (b) by or on behalf of the NI Authority; or
+  - (c) by or on behalf of the competent seed certification authority of a country other than the United Kingdom;
+- “licensed crop inspector” means a person who holds a current licence to be a crop inspector—[^key-1386a2cac849b9749694b3cfe3f582e0]
+  - (a) granted by the Scottish Ministers or having effect as if it were a licence granted by the Scottish Ministers under regulation 4(1)(a) of the 2016 Regulations; or
+  - (b) granted under provisions equivalent to that regulation by—[^key-e284d22dbe7c09c01bbf701a7f3fc29c]
+    - (i) a GB Authority other than the Scottish Ministers; or
+    - (ii) the NI Authority;
+- [^key-57ffb98501bfd1853bee182e9f758228]...
+- “licensed seed sampler” means a person who holds a current licence to be a seed sampler—[^key-1629158ddfc136c25410d09be817ced6]
+  - (a) granted by the Scottish Ministers or having effect as if it were a licence granted by the Scottish Ministers under regulation 4(1)(a) of the 2016 Regulations; or
+  - (b) granted under provisions equivalent to that regulation by—
+    - (i) a GB Authority other than the Scottish Ministers; or
+    - (ii) the NI Authority;
+- “licensed seed testing station” means an establishment which holds a current seed testing station licence—[^key-3e5981d4226e2122a1c7c49f526c1f7b]
+  - (a) granted by the Scottish Ministers or having effect as if it were a licence granted by the Scottish Ministers under regulation 4(1)(a) of the 2016 Regulations; or
+  - (b) granted under provisions equivalent to that regulation by—
+    - (i) a GB Authority other than the Scottish Ministers; or
+    - (ii) the NI Authority;
+- “**lower germination seed**” means seed marketed under regulation 11;
+- “**monogerm seed**” means seed produced on genetically monogerm plants, the percentage of germinated clusters producing single seedlings being not less than the minimum specified in Part II of Schedule 4;
+- [^key-2bc2d2b4c4d548983222469f8fe6e3d2]...
+- “**natural seed**” means seed of non-monogerm varieties, which has not been processed as precision seed;
+- “NI Authority” means DAERA;[^key-d1c3588061f5714804246dde87250f67]
+- “NI Variety List” means a list of plant varieties prepared and published by DAERA in accordance with legislation having equivalent effect in Northern Ireland to the Seeds (National Lists of Varieties) Regulations 2001;
+- “**official certificate**” means a certificate issued by the Scottish Ministers in accordance with these Regulations containing in respect of the seed to which it relates the particulars specified in paragraph 1 of Schedule 3 and “**officially certified**” shall be construed accordingly;
+- “**official control**” means under the supervision of, and in accordance with any conditions set by, an International Authority[^key-6faabffa262f809bb1e6d4519bb8d484];
+- “**official examination**” means—
+  - (a) in relation to Certified Seed—
+    - (i) an examination or a test carried out by an International Authority[^key-b878f5f3c5a07d249e82be66acc0d971]; or
+    - (ii) if the seed has undergone official post control the results of which have been satisfactory, a field examination carried out by a licensed crop inspector; or
+    - (iii) a test carried out by a licensed seed testing station; and
+  - (b) in relation to Pre-Basic Seed and Basic Seed—
+    - (i) an examination or a test carried out by an International Authority; or
+    - (ii) a test carried out by a licensed seed testing station;
+- “**official field inspection**” means a field examination of a crop carried out—
+  - (a) by an International Authority[^key-3ca5346bf01461347b63a494efeed797]; or
+  - (b) in the case of seed which, if it were fully certified would be Certified Seed, and which has been harvested from a crop which has been produced from seed that has undergone official post control the results of which have been satisfactory, by a licensed crop inspector [^key-9d255b3b0469ce0a8093a0c80666988f]...;
+- “**official label**” means a label issued by an International Authority and “**official inner label**” shall be construed accordingly;
+- “**official post control**” means a control plot has been sown with seed from the relevant seed lot and has produced plants which have been examined by an International Authority[^key-73b4506524aec3fc9942c3e2957fb64c]; and “**official post control the results of which have been satisfactory**” means official post control has been carried out for the relevant seed lot and an International Authority[^key-865b57b2ce97d481b9032660cc1f45f5] has found, having regard to—
+  - (a) the conditions specified in—
+    - (i) in the case of the Scottish Ministers, Part II of Schedule 4; and
+    - (ii) in the case of a GB Authority other than the Scottish Ministers, Parts I and II of schedule 4;[^key-26b6fe71d6d34305dcc9160b31645004]
+  - (b) the category of the seed to be produced,
+
+  that the plants produced in the control plot indicate that the corresponding plants in the field are satisfactory plants from which to harvest the relevant category of seed;
+- “**official seal**” means a seal issued by an International Authority;
+- “**official sticker**” means a sticker issued by an International Authority and attached to an official label;
+- “**Pre-Basic Seed**” has the meaning given in paragraph 2 of Part II of Schedule 1;
+- “**precision seed**” means seed processed for use in precision drills with the percentage of seeds producing single seedlings being not less than the minimum specified in Part II of Schedule 4;
+- “professional seed operator” means a seed merchant, a seed packer or a seed processor;[^key-a35dfd8d8bd1569e525716acb1242abc]
+- “registered or licensed number” means the number issued to a person who holds a licence granted under regulation 4(1)(a) of the Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 or to a person licensed or registered under provision equivalent to that regulation by—[^key-146c506f5ba9d854c8a4113faf0c1955]
+  - (a) a GB Authority other than the Scottish Ministers; or
+  - (b) the NI Authority;
+- “**region of origin**” means the region forming a part or the whole of the United Kingdom identified by the Scottish Ministers for the purposes of Article 8.1 (region of origin) of Commission Directive 2008/62 , with Article 8.1 of Commission Directive 2008/62 being read as if—[^key-7e1f6e0b17f1e6358626dbbed872a834]
+  - (a) in the first sub-paragraph—
+    - (i) for “a Member State accepts”, there were substituted “ the Scottish Ministers accept ”,
+    - (ii) for “it shall”, there were substituted “ they must ”,
+    - (iii) for “It shall”, there were substituted “ The Scottish Ministers must ”,
+    - (iv) for “Member States”, there were substituted “ Scottish Ministers ”,
+  - (b) the second sub-paragraph was omitted;
+- “**rhizomania free zone**” means a zone which has been designated as free of rhizomania by virtue of Commission Regulation [(EC) No 690/2008](https://www.legislation.gov.uk/eur/2008/690) of 4 July 2008 recognising protected zones exposed to particular plant health risks in the Community [^c20273851];
+- [^key-b2f323a896443b30663d12371bfb2cb0]...
+- “**Sampling Guidance**” means the guidance booklet titled ‘Instructions for Seed Samplers Licensed in Scotland, 2010’, produced by the Scottish Ministers;
+- “**seed lot**” means an identifiable consignment of seed of a weight not exceeding that specified in Schedule 5, including a blended seed lot and a bulked seed lot, which bears a unique seed lot reference number;
+- “**seed of a Conservation Variety**” means seed that has been produced in accordance with regulation 10 and meets the standards of Certified Seed set out in paragraph 4 of Part II of Schedule 1;
+- “**seeds regulations**” means regulations made under section 16 (seeds regulations) of the Act and for the time being in force;
+- “**small [^key-ccdfb586145b02142f4781f5d60c001e]... package**” means a package of Pre-Basic Seed, Basic Seed or Certified Seed containing—
+  - (a) in the case of monogerm or precision seeds—
+    - (i) not more than 100,000 clusters or grains; or
+    - (ii) a net weight of not more than 2.5 kilograms of seeds; and
+  - (b) in the case of seeds other than monogerm or precision seeds, a net weight of not more than 10 kilograms of seeds,
+
+  excluding (in each case) the weight of any granulated pesticides, pelleting substances or other solid additives;
+- “**submitted sample**” means a sample of at least the minimum weight of a sample specified in Schedule 5, or in the case of a sample to be submitted to a licensed seed testing station, double the minimum weight of a sample specified in Schedule 5, taken from a seed lot in accordance with the provisions set out in the Sampling Guidance;
+- “**test and trial seed**” means seed which is the subject of an authorisation of a type described in regulation 9;
+- “**tests and trials authorisation**” means an authorisation granted by the Scottish Ministers under regulation 9;
+- “third country” means any country or territory other than the British Islands;[^key-2eb44557036112acf258c93037e5e18d]
+- [^key-f85521f3fd7fd30dca5b0b0368e8b9ab]...
+
+(2) In these Regulations—
+
+- (a) any reference to a numbered regulation, to a numbered Part or to a numbered Schedule is a reference to the regulation, Part or Schedule in these Regulations so numbered; and
+- (b) any reference to a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule in which that reference occurs.
+
+(3) For the purposes of these Regulations, seeds-
+
+- (a) produced and packaged in a country granted equivalence[^key-e1c6af6ac98019335d9e52c4735e97b2];
+- (b) accompanied by a document issued by a competent authority concerned with the certification of beet seeds in that country granted equivalence[^key-2bd1e8f5e4d62abf88f6c3c1eb1aee5b] containing information specified in Schedule 6; and
+- (c) in respect of which an application has been made for a breeder's confirmation under these Regulations,
+
+shall be deemed to be seeds produced from seeds issued with such a breeder's confirmation.
+
+(4) For the purposes of these Regulations, seeds—
+
+- (a) produced and packaged in a country granted equivalence[^key-799885ca24934199e8a0ff04fd1da967];
+- (b) accompanied by a document issued by a competent authority concerned with the certification of beet seeds in that country granted equivalence[^key-af58fc248208221474b44dd934c9eb48] containing information specified (in respect of packages of seed not finally certified) in Schedule 6; and
+- (c) in respect of which an application has been made for an official certificate under these Regulations,
+
+shall be deemed to be seeds produced from seeds issued with a breeder's confirmation or an official certificate.
+
+(5) For the purposes of these Regulations, seeds-
+
+- (a) produced and packaged in a country granted equivalence[^key-0b78331f5929dd16e70b937348388656];
+- (b) labelled in accordance with the requirements of regulation 19; and
+- (c) in the case of a small [^key-864545bafcd2e1d6ca943b6aabafc242]... package of seeds, sealed in accordance with the requirements of regulation 18(5), or, in the case of seeds other than a small [^key-864545bafcd2e1d6ca943b6aabafc242]... package of seeds, sealed by a competent authority concerned with the certification of beet seeds in that country granted equivalence[^key-991e6852989b9147e2f210d2ece6556e],
+
+shall be deemed to fall within the meaning of the appropriate category of seeds set out in Part II of Schedule 1.
+
+### 3. Seed Categories
+
+The categories of seed that may be marketed are set out in Part II of Schedule 1.
+
+### 4. Seed to which the Regulations apply
+
+(1) Subject to paragraph (2), these Regulations apply to beet seeds of the species specified in Part I of Schedule 1, being seeds intended to be used only for the production of agricultural or horticultural crops.
+
+(2)[^key-6dff7cac5d2837d6e73d0fe3c79eca1b] These Regulations do not apply to seed intended for export outside the United Kingdom (other than regulation 14A (certification and labelling for export)).
+
+(3) The supply of seed to any person for—
+
+- (a) the production of agricultural raw materials, intended for industrial purposes; or
+- (b) seed propagation for industrial purposes,
+
+shall not be regarded as marketing, provided that person does not acquire title to either the seed supplied or the product of the harvest.
+
+(4) The supplier of the seed referred to in paragraph (3) shall provide the Scottish Ministers with a copy of the relevant parts of the contract made with any person which shall include the standards and conditions met by the seed.
+
+## PART II — MARKETING
+
+### 5. Definition of marketing
+
+(1) In these Regulations “**marketing**” means—
+
+- (a) selling, holding with a view to sale and offering for sale; and
+- (b) any disposal, supply or transfer for the purpose of commercial exploitation of seed to third parties,
+
+whether or not for consideration, and “**market**” and “**marketed**” shall be construed accordingly.
+
+(2) Trade in seed not aimed at commercial exploitation of the variety, such as the following operations—
+
+- (a) the supply of seed to official testing and inspection bodies; or
+- (b) the supply of seed to any person for the purposes of processing or packaging the seed provided that person does not acquire title to the seed supplied,
+
+shall not be treated as marketing of seed of that variety.
+
+### 6. Marketing of seed
+
+(1) Subject to the provisions of this Part, no person shall market any seed unless—
+
+- (a) it is marketed in seed lots or in parts of seed lots; and
+- (b) it is—
+  - (i) seed of a plant variety of a species accepted on to a GB Variety List or an NI Variety List[^key-dbd644d5e00735f4fe74bed858616933] and which is fully certified; or
+  - (ii) Breeder's Seed.
+
+(2) Paragraph (1) shall not apply to the marketing of seed as grown if—
+
+- (a) the seed is marketed for processing;
+- (b) the identity of the seed is ensured; and
+- (c) the seed—
+  - (i) has been harvested from a crop which has been found by an official field inspection to satisfy the conditions specified in Part I of Schedule 4 [^key-b1cf4a2a8921de15b060505411fd06d1]... for the relevant category of seed; or
+  - (ii) is seed that is of a Conservation Variety that has been harvested from a crop which has been found to satisfy the conditions specified in paragraph 2 of Part I of Schedule 4.
+
+(3) Notwithstanding paragraph (1), no person shall market seed of a genetically modified variety unless it is clearly indicated, in the sales catalogue of the person marketing the seed and in any other marketing information or marketing representations provided by that person, as having been genetically modified.
+
+(4) Where seeds are sampled for the official examination referred to in Schedule 2 or any other examination or test carried out by an International[^key-157b6e17796c28e77590c90a2b572edc] Authority other than the Scottish Ministers in an untreated state and are subsequently subjected to chemical treatment, the seller shall, upon or before delivering the seeds to the purchaser, provide him with a statement in writing that the seeds have been subsequently subjected to chemical treatment and specifying the chemical nature of such treatment.
+
+(5) Any person marketing seed which has been imported from outside the United Kingdom[^key-82eca4400612c260a933233598dead57] and which exceeds 2 kilograms of seed shall supply the Scottish Ministers in such manner and at such time as the Scottish Ministers may require the information in respect of the seeds specified in Part V of Schedule 6.
+
+(6) Paragraph (1) shall not prevent the marketing of seeds of a variety intended for use solely as a component of a final variety where [^key-1877f9a993c10eb8c6c7e2682deb469e]... the component is not included on a GB Variety List or an NI Variety List[^key-df6b787b025f4d502db09269df7e6cf0] and the seeds are not marketed under the names of the component.
+
+### 6A. Importation from a country granted equivalence[^key-ae0a6992df1d540d0ed6d87daeb20d13][^key-635f6f479cc9d9146fed87276f728b13]
+
+Seed imported from a country granted equivalence[^key-42d8af2ed55003edea5e989960ec5957] must be labelled with a label approved by the Organisation for Economic Cooperation and Development for the varietal certification on the control of seed moving in international trade.
+
+### 7. General exemptions
+
+(1)[^key-a8a150c4f8d3d7cd0366b6263d6a8cab] The Scottish Ministers may, by a general licence, authorise—
+
+- (a) a temporary experiment seeking improved alternatives to provisions of these Regulations and organised in accordance with regulations made under section 16(5) of the Act; or
+- (b) exemption from any provisions of these Regulations to the extent that the provisions of the general licence are—
+  - (i) necessary in order to overcome any temporary difficulties in the supply of basic or certified seed—
+    - (aa) by permitting the marketing of seed of a category subject to less stringent requirements, or of seed of a variety not included in a GB Variety List or an NI Variety List;
+    - (bb) for a specified period; and
+    - (cc) in quantities necessary to resolve the supply difficulties; or
+  - (ii) permitted by Commission Regulation 217/2006 or an authorisation granted thereunder.
+
+(1A) The duration of a temporary experiment referred to in paragraph (1)(a) must not exceed 7 years.
+
+(1B) When seed is marketed in accordance with paragraph (1)(b)(i), the following labelling requirements apply—
+
+- (a) for a category of seed of any given variety, the official label must be that provided for the corresponding category;
+- (b) for seed of varieties not included in a GB Variety List or an NI Variety List the colour of the official label must be brown;
+- (c) the label must always state that the seed in question is of a category satisfying less stringent requirements.
+
+(2) A general licence issued under paragraph (1)—
+
+- (a) may exempt any person or class of persons, or persons generally, from compliance with any provision of these Regulations; and
+- (b) may impose such conditions as the Scottish Ministers may think necessary or desirable having regard to the marketing permitted by the general licence and the nature of the seed to which it relates.
+
+### 8. Exception for scientific purposes or selection work
+
+(1) Regulation 6(1) shall not apply to the marketing by a producer of small quantities of seed for scientific purposes or selection work for which—
+
+- (a) an authorisation has been granted to the producer by the Scottish Ministers in accordance with this regulation; or
+- (b)[^key-6c7c60d49808dfef84f231030c6db6c3] an authorisation has been granted to the producer, in respect of small quantities of seed for scientific purposes or selection work in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
+  - (i) a GB Authority other than the Scottish Ministers; or
+  - (ii) the NI Authority.
+
+(2) A producer established in Scotland may apply to the Scottish Ministers for authorisation under this regulation.
+
+(3) An application under paragraph (2) shall be made in writing to the Scottish Ministers and shall be accompanied by such information as the Scottish Ministers may require.
+
+(4)[^key-99d602057446d2eb5aba5688cfda4f65] The Scottish Ministers may only grant an authorisation under this regulation in respect of a genetically modified variety if the marketing and release of the genetically modified material by the applicant has been authorised—
+
+- (a) before the day on which IP completion day falls, under Part C of the 2001 Deliberate Release Directive,
+- (b) under the Food and Feed Regulation, or
+- (c) under the GMO Regulations.
+
+### 9. Exception for test and trial seed
+
+(1)[^key-f0f47f2ca63ef21bbeadfd96188b50b1] Regulation 6(1) does not apply to the marketing by a producer of seed for test and trial purposes in accordance with—
+
+- (a) a tests and trials authorisation; or
+- (b) an authorisation which has been granted to the producer, in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
+  - (i) a GB Authority other than the Scottish Ministers; or
+  - (ii) the NI Authority.
+
+(2) A producer established in Scotland may apply to the Scottish Ministers for authority to market seed for the purposes of tests or trials to be carried out at an agricultural enterprise to gather information on the cultivation or use of a variety of a species specified in Part I of Schedule 1.
+
+(3) An application under paragraph (2) shall be made in writing to the Scottish Ministers and shall be accompanied by such information as the Scottish Ministers may require.
+
+(4) The Scottish Ministers shall not grant a tests and trials authorisation unless they are satisfied that—
+
+- (a)[^key-1f7502f5db5c3cc2cf38ec248b6a6442] the seed is of a variety for which an application has been made by the applicant, which has not been withdrawn or finally determined, under—
+  - (i) regulation 4(1)(a) (applications in relation to National Lists) of the Seeds (National Lists of Varieties) Regulations 2001 for acceptance on to a GB Variety List; or
+  - (ii) the relevant provision of legislation in Northern Ireland having equivalent effect to the Seeds (National Lists of Varieties) Regulations 2001 for acceptance on to an NI Variety List;
+- (b)[^key-b6981fccf14d002920a86bbd5e6f9787] in the case of seed of a genetically modified variety, the marketing and release of the genetically modified material by the applicant has been authorised—
+  - (i) before the day on which IP Completion day falls, under Part C of the 2001 Deliberate Release Directive;
+  - (ii) under the Food and Feed Regulation; or
+  - (iii) under the GMO Regulations;
+- (c) the marketing is for the purposes of tests or trials to be carried out at an agricultural enterprise to gather information on the cultivation or use of a variety of a species specified in Part I of Schedule 1;
+- (d) an official field inspection has been carried out by the Scottish Ministers or by a licensed crop inspector and a report issued stating that the crop satisfies the conditions for Certified Seed set out in Part I of Schedule 4;
+- (e) an official examination of the seed has been undertaken and a report issued by the Scottish Ministers or by a licensed seed testing station stating that the seed satisfies the conditions for Certified Seed set out in Part II of Schedule 4; and
+- (f) such marketing would not contravene a prohibition on the use of the variety that complies with Article 14 (safeguards) of the 2004 Commission Decision and has been published by the Secretary of State in the gazette published under section 34(1) (the gazette) of the Act.
+
+(5) A tests and trials authorisation shall last for a period of one year or such shorter period as the Scottish Ministers may specify.
+
+(6) The Scottish Ministers shall not authorise marketing of an amount of seed in excess of the greater of 0.1% of the annual number of seeds used in the United Kingdom and such quantity as the Scottish Ministers consider is sufficient to sow 10 hectares[^key-9eadc2cd93c30f5469af436fa53f14cb].
+
+(7) A tests and trials authorisation may be made subject to such conditions as the Scottish Ministers think necessary or desirable having regard to the nature of the tests or trials and the nature of the seed to which the authorisation relates.
+
+(8) The Scottish Ministers may withdraw a tests and trials authorisation where they are satisfied that there has been a breach of a condition imposed under paragraph (7).
+
+(9) A tests and trials authorisation shall cease to have effect where the application referred to in paragraph (4)(a) is withdrawn or rejected or the variety is entered in a GB Variety List or an NI Variety List.[^key-28e0497c40c0379e3e5fb3c6b47e4f1b]
+
+(10) The Scottish Ministers may require, as a condition of a tests and trials authorisation, that the producer to whom authorisation was granted provide them, on request, with information about—
+
+- (a) the results of the tests and trials to which the authorisation relates; and
+- (b) the quantities of seed marketed during the authorised period and the location of the trials within the United Kingdom.[^key-db8715c47025198f381bf639ee1ee33c]
+
+### 10. Exception for Conservation Varieties
+
+(1) Regulation 6(1) shall not apply to the marketing of seed of a Conservation Variety in its region of origin, provided that the requirements of this regulation are met.
+
+(2) The seed must descend from seed produced according to well defined practices for maintenance of the variety.
+
+(3) The seed must be harvested from a crop that—
+
+- (a) has been produced in the region of origin for the variety or additional region; and
+- (b) satisfies the conditions laid down in paragraph 2 of Schedule 4.
+
+(4) The Scottish Ministers may ascertain, so far as practicable, whether the requirements for the crop set out in paragraph 2 of Schedule 4 are met by the use of methods which may include an official post control and the consideration of any other relevant information, without requiring an official field inspection of the crop.
+
+(5) The seed must satisfy the conditions laid down in paragraph 8 of Schedule 4.
+
+(6) A person proposing to produce seed of a Conservation Variety must supply the Scottish Ministers, in such manner and form as the Scottish Ministers may require, with the following details in writing—
+
+- (a) the size (in hectares); and
+- (b) the location,
+
+of the area to be used to produce that seed.
+
+(7) For the purposes of Article 14 (quantitative restrictions) of Commission Directive 2008/62, the Scottish Ministers may specify the maximum amount of seed of a Conservation Variety which may be marketed in any given growing season and may specify different maxima for different persons or classes of person.
+
+(7A)[^key-14cacf49a2349e95c6f6156b19c3c708] For the purposes of paragraph (7), Article 14 of Commission Directive 2008/62 is to be read as if—
+
+- (a) in the first paragraph—
+  - (i) “Each Member State shall ensure that,” was omitted,
+  - (ii) for “does not exceed”, there were substituted “ may not exceed ”,
+  - (iii) for “that Member State”, there were substituted “Great Britain”,
+- (b) in the second paragraph—
+  - (i) for “each Member State”, there were substituted “Great Britain”,
+  - (ii) for “the Member State” in both places where it occurs, there were substituted “Great Britain”.
+
+(8) Where a person proposing to produce seed of a Conservation Variety has supplied the Scottish Ministers with details under paragraph (6), the Scottish Ministers may in writing authorise the person to market seed of a Conservation Variety not exceeding the amount specified in the authorisation and shall give notice of that authorisation to the person.
+
+(9) No person shall market more than the maximum amount of seed of a Conservation Variety specified in an authorisation given to that person under paragraph (8).
+
+(10) Any person marketing seed of a Conservation Variety must supply the Scottish Ministers, on request, with details in writing of the amount and variety of the seed placed on the market during each growing season.
+
+### 11. Marketing of officially certified lower germination seed
+
+(1) Notwithstanding regulation 6(1) and the requirement in Schedule 1 that Pre-Basic Seed and Basic Seed shall attain the minimum standards of germination specified for Basic Seed in Schedule 4 [^key-8bcd9763d108c6ff63cf8318888e980d]..., any person may, subject to paragraphs (2) and (3) and regulation 19 and the other provisions of these Regulations, market seed—
+
+- (a) in respect of which an official certificate certifying that the seed is of the relevant category of seed has been issued in accordance with Part I of Schedule 2, although it attains a lower percentage of germination than that specified in Part II of Schedule 4 in relation to Basic Seed by virtue of the exception in paragraph 2(1)(c) of Schedule 2; or
+- (b)[^key-dce34a6127e894c42bd09fcc0b4b59ac] which has been certified as satisfying the conditions for the relevant category of seed although it attains a lower percentage of germination than that specified in Part II of Schedule 4 in relation to Basic Seed—
+  - (i) by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain; or
+  - (ii) by the NI Authority, in accordance with the applicable requirements in Northern Ireland; or
+- (c) which the person marketing the seed knows does not satisfy the minimum standards of germination specified for Basic Seed—
+  - (i) in the case of seed which has been officially certified as being Pre-Basic Seed or Basic Seed, in Part II of Schedule 4, irrespective of the findings of the Scottish Ministers; and
+  - (ii)[^key-64dbc34096e47f4e464f0bd90b4e493b] in the case of seed which has been fully certified as being Pre-Basic Seed or Basic Seed—
+    - (aa) by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain, irrespective of the findings of the GB Authority; or
+    - (bb) by the NI Authority, in accordance with the applicable requirements in Northern Ireland, irrespective of the findings of the NI Authority.
+
+(2) Paragraph (1) shall not apply unless the person marketing the seed guarantees a specific minimum percentage of germination of the seed.
+
+(3) Paragraph (1) shall not apply to seed which has been imported into Great Britain from a country granted equivalence.[^key-ed411fed27b9b89d1f96574247fc5d36]
+
+### 12. Marketing of early movement seed
+
+(1) In a case where—
+
+- (a) the official examination in respect of the germination of any seed lot of Pre-Basic Seed, Basic Seed or Certified Seed of a plant variety of a species accepted on to a GB Variety List or an NI Variety List[^key-b4d2634000fc77b5ae7066a9aa36c121] is being undertaken and has not been completed, but a provisional germination report has shown that the seed attains the appropriate minimum standard of germination specified in Part II of Schedule 4, the seed in all other respects satisfies the appropriate requirements of Schedule 4 and the provisional analytical report and the provisional germination report on the seed have been presented by the producer to the Scottish Ministers; or
+- (b)[^key-d014b5e11933841783a7330f9f049680]
+  - (i) any seed lot has, in order to make seed rapidly available, been certified by—
+    - (aa) a GB Authority other than the Scottish Ministers; or
+    - (bb) the NI Authority; and
+  - (ii) the provisional germination report on the seed has been presented by the producer to the Scottish Ministers,
+
+the seed lot or any part of the seed lot may, notwithstanding regulation 6 but subject to paragraphs (2) to (5), regulation 19 and the other provisions of these Regulations, be marketed to the first buyer by way of trade.
+
+(2) In the event of any marketing under paragraph (1), the seller of the seed shall—
+
+- (a) upon or before delivery, provide the first buyer by way of trade with a written statement that the seed is marketed before the completion of the official germination test together with the result in the provisional germination report;
+- (b) notify the Scottish Ministers in writing of the name and address of the first buyer by way of trade as soon as practicable after delivery and in any event not later than 7 days after delivery;
+- (c) guarantee a specific minimum percentage of germination, which shall be the percentage of the germination of the seed as ascertained in the provisional germination report; and
+- (d) in the event of the official germination test showing the failure of the seed to comply with the minimum germination standard specified in Part II of Schedule 4 for seed of the relevant category, provide the first buyer by way of trade with the result of the completed official germination test, in writing, as soon as practicable and in any event not later than 7 days after being informed of it.
+
+(3) Paragraph (1) shall not apply to the marketing of any seed lot or part of any seed lot in respect of which a previous official examination or an examination by a GB Authority, other than the Scottish Ministers, or the NI Authority[^key-ef8ce74d4868e15832ef05c103489165] has shown that the seed fails to meet the standards specified for the relevant category of seed in Part II of Schedule 4 [^key-48f4009c17eb8d546d0b6e91ae4fc11f]....
+
+(4) Paragraph (1) shall not apply to seed which has been imported into Great Britain from a country granted equivalence.[^key-7a10787c5805916aa9274b07677fcfe8]
+
+(5) A person who sells any seed in accordance with paragraph (1) shall make and, until the end of the period of six years after the date of delivery of the seed to the first buyer by way of trade, keep available for inspection by the Scottish Ministers a record of—
+
+- (a) the date of such delivery;
+- (b) the reference number of the seed lot or part of a seed lot delivered;
+- (c) the name and address of the first buyer by way of trade;
+- (d) the date on which the preliminary test of germination was carried out and of the result of that test in the provisional germination report; and
+- (e) if appropriate, the date on which the first buyer by way of trade was informed of the result of the completed official germination test.
+
+### 13. Requirement for homogeneity
+
+No person shall market seed in accordance with these Regulations unless it is marketed in a homogeneous seed lot or as part of a homogeneous seed lot.
+
+### 14. Marketing of unpacketed seed
+
+A person may sell any seed otherwise than in a package which is labelled, inscribed or otherwise dealt with in accordance with regulations 18 and 19 where—
+
+- (a) the seed is sold in a quantity not exceeding 2.5 kilograms to the final consumer; and
+- (b) the seed is taken, in the presence of the final consumer, from a container on which there is clearly and visibly marked, or near which there is clearly and visibly displayed, a statement containing particulars of the matters specified in Part IV of Schedule 6.
+
+### 14A. Certification and labelling for export[^key-9d2dbcfe37af6a320f06d0c1046ba252]
+
+(1) The Scottish Ministers may certify the quality of any seed intended for export.
+
+(2) Following certification in accordance with paragraph (1), any seed exported must be labelled with a label approved by the Organisation for Economic Cooperation and Development for the varietal certification on the control of seed moving in international trade.
+
+## PART III — PROCEDURES FOR ISSUING OFFICIAL CERTIFICATES
+
+### 15. Official certificates
+
+(1) An application in respect of a seed lot for the issue of an official certificate certifying the seed to be Pre-Basic Seed, Basic Seed, Certified Seed or seed of a Conservation Variety—
+
+- (a) shall be made in writing to the Scottish Ministers in such form and manner, and shall include such information, records, illustrations, material and seed as the Scottish Ministers may require; and
+- (b) shall be made not later than 31st December in the second year following the year of harvest of the crop from which the seed lot is obtained or within such other time as the Scottish Ministers may allow.
+
+(2) Where an application for the issue of an official certificate is made to the Scottish Ministers in accordance with paragraph (1) the Scottish Ministers shall, subject to paragraph (3), deal with the application in accordance with the provisions of Part I of Schedule 2.
+
+(3) Where a breeder applies to the Scottish Ministers for the issue of an official certificate in accordance with paragraph (1) in respect of a seed lot which already has a breeder's confirmation after the variety of the seed in that seed lot has been accepted on to a GB Variety List or an NI Variety List,[^key-88b349f8dac77d403c0169e5e485b259], or if the seed in the seed lot is a component of a hybrid variety, after the hybrid variety has been accepted on to a GB Variety List or an NI Variety List, the Scottish Ministers shall issue an official certificate in respect of that seed lot provided they are satisfied that—
+
+- (a) the seed is the seed in respect of which the breeder's confirmation was issued;
+- (b) the breeder's confirmation has not been withdrawn pursuant to paragraph (3) of regulation 16;
+- (c) the provisions of regulations 18 and 19 in relation to breeder's confirmations have been complied with; and
+- (d) there is no reason why the breeder's confirmation should be withdrawn pursuant to paragraph (3) of regulation 16.
+
+(4) An official certificate which has been issued by the Scottish Ministers may be withdrawn by them in respect of either the whole of a seed lot or any part of a seed lot and any seed from which an official certificate has been so withdrawn shall be deemed not to have been officially certified if—
+
+- (a) the results of an official examination of the sample taken from the seed lot in respect of which the official certificate has been issued are deemed to be null and void in accordance with paragraph (3) of regulation 17;
+- (b) on the basis of information received by them, the Scottish Ministers are satisfied that the crop from which the seed in the seed lot was harvested did not meet the conditions laid down in Part I of Schedule 4 or, in the case of seed of a Conservation Variety, paragraph 2 of Schedule 4;
+- (c) on the basis of information received by them, the Scottish Ministers are satisfied that the seed in the seed lot, or part of the seed lot—
+  - (i) did not meet the conditions laid down in Part II of Schedule 4 at the time the seed was tested for seed certification purposes, which includes the purpose of issuing a breeder's confirmation; or
+  - (ii) although it met the conditions in Part II of Schedule 4 at the time of such testing it no longer meets them; or
+- (d) the licensed seed sampler who sampled the seed lot or the licensed crop inspector [^key-cc094e0ec058b1e2f224001722b05e01]... who inspected the crop, did so in breach of any of the terms of that sampler's or inspector's licence.
+
+(5) The Scottish Ministers may withdraw the official certificate in respect of a seed lot, or any part of a seed lot, by giving notice to—
+
+- (a) the person who made an application in respect of the seed lot under paragraph (1); or
+- (b) any person marketing, or who has marketed, any of the seed.
+
+(6) Where, in accordance with paragraph (5), the official certificate in respect of a seed lot, or part of a seed lot, is withdrawn under paragraph (4), the Scottish Ministers may notify—
+
+- (a) the person who made an application under paragraph (1) in respect of the seed lot;
+- (b) any person marketing, or who has marketed, any of the seed; and
+- (c) any person who has purchased, or been supplied with, any of the seed,
+
+that the official certificate in respect of the seed lot, or part of a seed lot, as the case may be, has been withdrawn.
+
+(7) Where the official certificate in respect of a seed lot, or part of a seed lot, is withdrawn under paragraph (4), any seller of the seed shall, as soon as practicable and in any case not later than 7 days after being informed of it, notify the purchaser in writing, that the official certificate has been withdrawn and that the seed is deemed not to have been officially certified.
+
+### 16. Breeder's confirmations
+
+(1) An application for the issue of a breeder's confirmation for Pre-Basic Seed or Basic Seed in respect of a seed lot—
+
+- (a) shall be made in writing by the breeder to the Scottish Ministers in such form and manner, and shall include such information, records, illustrations, material and seed, as the Scottish Ministers may require;
+- (b) shall be made not later than 31st December in the second year following the year of harvest of the crop from which the seed lot is obtained or within such other time as the Scottish Ministers may allow; and
+- (c) shall be made only—
+  - (i) for seed of a variety for which an application has been made to have that variety accepted on to a GB Variety List or an NI Variety List[^key-5abe4b116a4f3bcd97abab39f0253708]; or
+  - (ii) for seed of a component of a hybrid variety for which an application has been made to have that hybrid variety accepted on to a GB Variety List or an NI Variety List.
+
+(2) Where an application for the issue of a breeder's confirmation is made to the Scottish Ministers in accordance with paragraph (1) above, the Scottish Ministers shall deal with the application in accordance with the provisions of Part II of Schedule 2.
+
+(3) A breeder's confirmation which has been issued by the Scottish Ministers may be withdrawn by them in respect of either the whole of a seed lot or any part of a seed lot and any seeds from which a breeder's confirmation has been so withdrawn shall be deemed not to have had a breeder's confirmation if—
+
+- (a) the results of an official examination of the seeds in respect of which the breeder's confirmation has been issued are declared null and void in accordance with paragraph (3) of regulation 17; or
+- (b) on the basis of information received by them, the Scottish Ministers are satisfied that the crop from which the seed in the seed lot was harvested did not meet the conditions specified in Part I of Schedule 4; or
+- (c) on the basis of information received by them, the Scottish Ministers are satisfied that the seed in the seed lot, or part of the seed lot—
+  - (i) did not meet the conditions laid down in Part II of Schedule 4 at the time the seed was tested for breeder's confirmation purposes; or
+  - (ii) although it met the conditions in Part II of Schedule 4 at the time of such testing no longer meets them.
+
+(4) The Scottish Ministers may withdraw the breeder's confirmation in respect of a seed lot, or any part of a seed lot, by giving notice to the person who made an application in respect of the seed lot under paragraph (1).
+
+(5) The breeder applying for the breeder's confirmation shall notify the Scottish Ministers if the application to have the relevant variety or hybrid variety accepted on to a GB Variety List or an NI Variety List[^key-8b79be0fc7a494981232364919b6cc78] referred to in paragraph (1)(c) is withdrawn or refused.
+
+(6) If the application to have the relevant variety or hybrid variety accepted on to a GB Variety List or an NI Variety List[^key-43cca70a389ae32c064338f0305d0898] referred to in paragraph (1)(c) is refused, the breeder applying for the breeder's confirmation shall notify the Scottish Ministers if the refusal is the subject of appeal proceedings and shall further notify the Scottish Ministers of the final outcome of those proceedings.
+
+### 17. Sampling
+
+(1) A sample of seed taken for the purposes of an official examination shall be taken—
+
+- (a) by an International[^key-a21b86d6d17ae0f086570566fdf8a9ec] Authority or a licensed seed sampler in accordance with the terms of the licensed seed sampler's licence;
+- (b) in accordance with the methods specified by the Scottish Ministers in the Sampling Guidance; and
+- (c) from a homogeneous seed lot.
+
+(2) A sample of seed of a Conservation Variety taken for the purposes of checking compliance with these Regulations shall comply with paragraph (1)(b) and (c) and Schedule 5.
+
+(3) If a sample from a seed lot submitted or taken for the purpose of an official examination—
+
+- (a) is found not to have been taken in accordance with paragraph (1);
+- (b) is taken from a seed lot which does not comply with Schedule 5;
+- (c) is not a sample for moisture testing which complies with paragraph 2 of Schedule 5 or is a submitted sample and has not been taken in accordance with the provisions of paragraph 2 of Schedule 5; or
+- (d) is otherwise found not to have been taken in accordance with seeds regulations,
+
+no, or no further, official examination of that sample shall be made under these Regulations, and any findings or results obtained in the course of any official examination of that sample, or from inspecting plants grown in a plot which has been sown with seed from that sample, shall be deemed null and void and shall be disregarded.
+
+(4) For the avoidance of doubt, the provisions of this regulation apply for the purposes of issuing a breeder's confirmation, as they do for the purposes of issuing an official certificate.
+
+## PART IV — PACKAGING AND LABELLING REQUIREMENTS
+
+### 18. Sealing of packages of seed
+
+(1) Subject to regulation 14, no person shall market a package of seeds, unless it has been sealed in accordance with paragraph (2).
+
+(2) The package has been—
+
+- (a) sealed in Scotland by the Scottish Ministers or by a licensed seed sampler using a non-re-usable sealing system or some other sealing system—
+  - (i) not later than at the time of sampling, or in the case of seed which is wholly or partly re-packaged, the original package has been sealed not later than at the time of sampling;
+  - (ii) including the use of an official label or the affixing of an official seal; and
+  - (iii) in such a manner that the package cannot be opened without damaging the sealing system or without leaving evidence of tampering on the label or package; or
+- (b)[^key-119ef02e94709f4c4b239499e74674a8] sealed in any other part of the United Kingdom in accordance with the applicable requirements in the relevant part of the United Kingdom.
+
+(3) In the case of a package of seed in respect of which the Scottish Ministers have issued an official certificate under paragraph (3) of regulation 15—
+
+- (a) paragraph (2)(a) shall apply as if the words ‘not later than at the time of sampling’ were omitted; and
+- (b) subject to sub-paragraph (a), the package of seed shall be sealed in accordance with paragraph (2)(a) within 7 days of the issue of the official certificate.
+
+(4) If a package of seed which has been sealed in accordance with paragraph (2) is opened, it may not be marketed in accordance with these Regulations unless it is immediately re-sealed or further re-sealed in Scotland by the Scottish Ministers or by a licensed seed sampler using a non-reusable sealing system or some other sealing system including the use of an official label or the affixing of an official seal.
+
+(5) No person shall market in accordance with these Regulations a small [^key-e74a6457e5be9a2435d1ca512518e7a8]... package of seed unless it has been sealed—
+
+- (a) in accordance with paragraph (2)(a)(i) and (iii); or
+- (b)[^key-6974f8b5616eaf93c6149c71ab52a8b9] by a licensed seed sampler or a person licensed by the Scottish Ministers as a professional seed operator under regulation 4(1)(a) (determination of licences) of the 2016 Regulations or by a person licensed or registered by a GB Authority, other than the Scottish Ministers, or the NI Authority[^key-59e5e5cc28fe69c0f0ebf33bc2b39795] under provisions equivalent to that regulation, using a sealing device and sealed in the manner outlined in paragraph (2)(a)(i) and (ii).
+
+(6) If a small [^key-2e451356f33f7f97c4540ecb88b8db57]... package of seed sealed in accordance with paragraph (5) is opened, it may not be marketed unless it is re-sealed in accordance with paragraph (5).
+
+(7) No person shall market a package of Breeder's Seed in accordance with these Regulations unless it is marketed in a package which has been sealed with a sealing device in such a manner that the package cannot be opened without damaging the sealing system or leaving evidence of tampering.
+
+(8) If a package of Breeder's Seed sealed in accordance with paragraph (7) is opened, it may not be marketed unless it is re-resealed in accordance with paragraph (7).
+
+(9) No person shall have in their possession a package of seed for which a breeder's confirmation for Pre-Basic Seed or Basic Seed has been applied for or issued unless it has been sealed in accordance with paragraph (2).
+
+(10) No person shall open a package of seed referred to in paragraph (9) and sealed in accordance with paragraph (2) except—
+
+- (a) for the purpose of sowing all the seed;
+- (b) where—
+  - (i) some of the seed is sown immediately after the package is opened;
+  - (ii) the rest of the seed remains in the package after the seed is sown in accordance with sub-paragraph (i); and
+  - (iii) the package is re-sealed immediately after the seed is sown in accordance with sub-paragraph (i); or
+- (c) for the purpose of re-packaging and re-sealing all of the seed.
+
+(11) If a package of seeds referred to in paragraph (9) and sealed in accordance with paragraph (2) shall have been opened, neither it nor any other package containing any of those seeds may be sealed, re-sealed or further re-sealed (as the case may be) except by the Scottish Ministers or by a licensed seed sampler in accordance with paragraph (2).
+
+(12) If the details on any label required by regulation 19 cease to be correct as a consequence of any action of the kind described in paragraph (10) above the label shall be replaced by the Scottish Ministers or by a licensed seed sampler at the time the package is re-sealed under paragraph (11).
+
+### 19. Labelling of packages of seed
+
+(1) Subject to regulation 14, no person shall market or have in their possession in accordance with these Regulations, any seeds, except in a package which, not later than at the time of sealing, is labelled, inscribed or otherwise dealt with in accordance with this regulation.
+
+(2) A package (other than a small [^key-3665edb00e4b4706f88db45f927fe028]... package sealed in the United Kingdom in accordance with regulation 18(5) or Breeder's Seed) of seed—
+
+- (a) where it is sealed in Scotland shall have affixed on the outside an official label in accordance with the requirements appropriate to the relevant category of seed set out in Part II of Schedule 6 and shall contain an official inner label in accordance with paragraph 10 of Schedule 6; and
+- (b)[^key-30d9cb69ab9d389052f7eaa7d269acd9] where it is sealed in any other part of the United Kingdom, must—
+  - (i) be labelled in accordance with the applicable requirements for labelling in the relevant part of the United Kingdom in relation to the relevant category of seed, and
+  - (ii) contain an official document in accordance with the applicable requirements for official documents in the relevant part of the United Kingdom.
+
+(3) The official inner label or document referred to in paragraph (2) shall not be required if the particulars specified in paragraph 10 of Schedule 6 are printed or stamped indelibly on the outside of the package or if the official label is an adhesive or tear resistant label.
+
+(4) In the case of a package of seed in respect of which the Scottish Ministers have issued an official certificate under regulation 15(3) or in respect of which the Scottish Ministers have issued a breeder's confirmation or an official certificate re-grading the seed to a different category or level—
+
+- (a) paragraph (1) shall apply as if the words “not later than at the time of sealing” were omitted; and
+- (b) subject to sub-paragraph (a), the package of seed shall be re labelled in accordance with this regulation within 7 days of the issue of that official certificate.
+
+(5) In the case of seed of a variety which has been genetically modified, any label, document, printing or stamp, whether official or otherwise, affixed to or accompanying a seed lot or any part of a seed lot in accordance with the provisions of this regulation, and any particulars given under regulation 14, shall clearly indicate that the variety has been genetically modified.
+
+(6) A package of Breeder's Seed shall have affixed on the outside a label in accordance with the provisions of paragraph 3 of Schedule 6.
+
+(7) A package of seed of a Conservation Variety shall have affixed on the outside a label in accordance with the provisions of paragraph 7 of Schedule 6.
+
+(8) If in accordance with regulation 11 a person markets any lower germination seed, that person shall ensure that the package is labelled in accordance with paragraph 8 of Schedule 6.
+
+(9) If in accordance with regulation 12 a person markets any early movement seed, that person shall ensure that the package is labelled in accordance with paragraph 9 of Schedule 6.
+
+(10) A small [^key-47676345479164fb5199342185e80c63]... package sealed in the United Kingdom shall have affixed on the outside a label containing, as appropriate to the category of the seed and the seed itself, the particulars referred to in paragraph 11 of Schedule 6, except that subject to paragraphs (8) and (9)—
+
+- (a) if such particulars are printed or stamped indelibly on the outside of the package in a panel of the colour so specified, the label shall not be required; and
+- (b) if the packaging material is transparent the label may be placed inside the package provided it can be read through the packaging.
+
+(11) If a package of seed has been re-sealed in accordance with regulation 18(4), this fact shall be stated on the official label required under this regulation or the label required under paragraph (10), as the case may be, together with the month and year of re-sealing and the name of the authority responsible for the re-sealing.
+
+(12) If any seed has been subjected to any chemical treatment this fact and the nature of the treatment or the proprietary name of the chemical used in the treatment shall be stated either—
+
+- (a) where seed is being marketed in accordance with regulation 14, with the particulars given in accordance with that regulation; or
+- (b) in a case where seed is not being marketed in accordance with regulation 14, or in the case of packages of seed in relation to a breeder's confirmation—
+  - (i) on a separate label on the package; or
+  - (ii) on the label referred to in paragraphs (2), (6) and (10), the official inner label or document referred to in paragraph (2), or the printing or stamp referred to in paragraphs (3) and (10),
+
+and also, except where the information prescribed by this paragraph is given on an adhesive or tear resistant label, either on the outside of the package or on a document enclosed inside the package.
+
+(13) Packages of seed in respect of which a breeder's confirmation has been applied for shall have affixed on the outside an official label in accordance with paragraph 4(e) or 5(f) of Schedule 6.
+
+(14) If in accordance with paragraphs 5 and 6(c) of Schedule 2 a breeder's confirmation has been issued in respect of seed of a lower percentage of germination than that specified for Basic Seed in Part II of Schedule 4—
+
+- (a) the official label or stamp shall comply with paragraph 9(3)(a) of Schedule 6; and
+- (b) where possession of the package is to be transferred to another person, the transferor shall comply with paragraph 9(3)(b) of Schedule 6.
+
+(15) The particulars and information given in accordance with this regulation shall be given in English but may also be given in other languages[^key-c8716999b2f6e2fd31b36c6f9685b141].
+
+(16) For the purposes of this regulation, references in Schedule 6 to the “certifying authority” shall, in the case of a breeder's confirmation, be taken to be references to that authority as issuer of the breeder's confirmation.
+
+(17) Subject to the provisions of the Act and of these Regulations, no person shall wilfully reproduce, remove, alter, deface, conceal or misuse in any way any label affixed to, contained in or marked on any package of seed or which is to be so affixed, contained or marked, except as may occur in the course of opening the package for the purposes of paragraph (10) of regulation 18.
+
+## PART V — MISCELLANEOUS
+
+### 20. Comparative tests and trials[^key-cb3a723d80880cd1ad8341d72ca0b53b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Civil liabilities of sellers of seed
+
+(1) The particulars given to a purchaser by the seller of seed to which these Regulations apply, whether given in pursuance of these Regulations expressly or by implication arising from the description under which the seed is sold, shall constitute a statutory warranty for the purpose of section 17 (civil liabilities of sellers of seeds) of the Act in so far as they relate to the category of the seed, the percentage germination of the seed, the percentage analytical purity of the seed, the content of seed of other plant species, the varietal identity and the varietal purity of the seed to which these Regulations apply.
+
+(2) Section 17(2) of the Act shall apply to any particulars given to a purchaser by the seller of seed, being particulars given or implied as in paragraph (1), in so far as they relate to the percentage germination, the percentage analytical purity, or the content of seed of other plant species and there are hereby prescribed in respect of such matters the limits of variation set out in Schedule 7.
+
+(3) Section 17(3) of the Act shall apply to any particulars given to a purchaser by the seller of the seed, being particulars given or implied as in paragraph (1), in so far as they relate to the percentage germination, the percentage analytical purity or the content of seed of other plant species.
+
+(4) A purchaser who intends to obtain a test of seed for the purposes of section 17(3) of the Act shall, not more than 10 days after delivery to that purchaser of the seed, give to the seller written notice of the purchaser's intention and thereupon the seller may indicate a day (not being more than 21 days after delivery of the seed to the purchaser) and a reasonable time on that day at which a sample of the seed may be taken in the presence of the seller or the seller's representative and the purchaser shall afford to the seller reasonable facilities for that purpose.
+
+(5) On the day and at the time appointed by the seller in accordance with paragraph (4) or, if the seller fails to appoint such a day and time, on a day not more than 28 days after delivery of the seed to the purchaser, the purchaser or the purchaser's representative may, and if the seller or the seller's representative is present shall, take a sample from the relevant seed lot or part of a seed lot sold to the purchaser, which sample shall be at least twice the minimum weight prescribed in the Sampling Guidance.
+
+(6) A sample taken in accordance with the requirements of paragraph (5) shall be taken, and divided by the purchaser or the purchaser's representative into two parts in accordance with the methods specified in the Sampling Guidance, each part being of at least the minimum weight prescribed in Schedule 5, of which one part shall be sent to the Chief Officer of the Official Seed Testing Station for Scotland for the purpose of being tested and the other part delivered or tendered to the seller or the seller's representative or, if the seller or the seller's representative was not present when the sample was taken, sent to the seller by post.
+
+### 22. Service of notices
+
+(1) Any notice required by virtue of these Regulations to be given to any person by the Scottish Ministers may be given by them—
+
+- (a) by delivering it to that person or by leaving it at that person's proper address or by sending it by post to that person at that address;
+- (b) if the person is a body corporate other than a limited liability partnership, by giving it in accordance with sub-paragraph (a) to the secretary of the body;
+- (c) if the person is a limited liability partnership, by giving it in accordance with sub-paragraph (a) to a member of the partnership; or
+- (d) if the person is a partnership, by giving it in accordance with sub-paragraph (a) to a partner or a person having control of the management of the partnership business.
+
+(2) [^c20273891]For the purposes of this regulation and section 7 (service of documents by post) of the Interpretation Act 1978 in its application to this regulation, the proper address of any person to whom a notice is to be given shall be that person's last known address, except that—
+
+- (a)[^key-721e64b2b21f0e7bbe49d5fe6dcfe809] in the case of a professional seed operator, a crop inspector or a seed sampler licensed under regulation 4(1)(a) of the 2016 Regulations, it is the address which could be made available by the Scottish Ministers under regulation 10 of those Regulations; and
+- (b) in other cases it shall be—
+  - (i) in the case of a body corporate (other than a limited liability partnership) or its secretary, the address of the registered or principal office of the body;
+  - (ii) in the case of a limited liability partnership or a member of the partnership, the address of the registered or principal office of the partnership; and
+  - (iii) in the case of a partnership or a partner or a person having the control or management of a partnership business, the address of the principal office of the partnership.
+
+(3) Paragraph (4) applies if a person to be given a notice under these Regulations by the Scottish Ministers has specified to them an address within the United Kingdom other than that person's proper address (as determined under paragraph (2)) as the one at which that person or someone on that person's behalf will accept notices of that description.
+
+(4) In relation to that notice, that address shall be treated as that person's proper address for the purposes of this regulation and section 7 of the Interpretation Act 1978 in its application to this regulation, instead of that determined under paragraph (2).
+
+### 23. Written and electronic communication
+
+(1) All applications, approvals, authorisations, notices, notifications and statements to which these Regulations apply shall be made in writing.
+
+(2) “Writing” in paragraph (1) includes an electronic communication as defined in the Electronic Communications Act 2000 [^c20273901], which has been recorded and is consequently capable of being reproduced, provided that—
+
+- (a) any document of the type referred to in paragraph (1) shall only be sent to the Scottish Ministers by an electronic communication if the Scottish Ministers have represented that electronic communication is a means by which persons can send such a document to them; and
+- (b) notifications required to be sent by the Scottish Ministers to any person shall only be made by an electronic communication if the intended recipient has used the same form of electronic communication in communicating with the Scottish Ministers for the purpose of these Regulations or has otherwise represented that that form of electronic communication is a means by which the Scottish Ministers can communicate with them.
+
+### 23A. Certification in a Crown Dependency or a country granted equivalence[^key-06af49f11bf3a225697920784f3f5468]
+
+Any seed certified and labelled in a Crown Dependency or a country granted equivalence under legislation recognised by the Scottish Ministers to have equivalent effect to these Regulations may be marketed in Scotland.
+
+### 23B. Transitional provision for official labels on IP completion day
+
+A label pre-printed before IP completion day which at the date on which it was printed was an official label for the purposes of these Regulations is to be treated as an official label for a package of Basic Seed, Certified Seed or Seed of a Conservation Variety, for the purposes of any use of that label before the end of the period of twelve months beginning with the day after the day on which IP completion day falls.
+
+### 24. Amendment to the Seeds (Fees) (Scotland) Regulations 2007
+
+In Schedule 1 (fees for matters relating to the Beet Seeds Regulations 1993) of the Seeds (Fees) (Scotland) Regulations 2007 [^c20273911] for “Beet Seeds Regulations 1993” substitute “ Beet Seed (Scotland) (No. 2) Regulations 2010 ”.
+
+### 25. Revocations and supplementary provisions
+
+(1) The Beet Seed (Scotland) Regulations 2010 [^c20273921] are revoked.
+
+(2) Subject to paragraph (3), the Regulations set out in column 1 of Schedule 8 are revoked to the extent specified in the corresponding entry in relation to those Regulations in column 3 of Schedule 8.
+
+(3) Section 17 (repeal and re-enactment) of the Interpretation Act 1978 shall not apply in relation to general licences granted under the Beet Seeds Regulations 1993.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Executive
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — SPECIES AND CATEGORIES OF BEET SEED
+
+Regulations 2(1) and (5), 3, 4(1)9(2) and (4) and 11(1)
+
+### PART I — SPECIES OF SEED TO WHICH THE REGULATIONS APPLY
+
+Seeds of sugar beet and fodder beet of the species *Beta Vulgaris* L.
+
+### PART II — CATEGORIES OF SEED THAT MAY BE MARKETED
+
+#### 1. Breeder's Seed
+
+Breeder's Seed is uncertified Pre-Basic Seed of a generation earlier than that of Basic Seed—
+
+- (a) which has been produced by or under the responsibility of the breeder; and
+- (b) is intended for the production of uncertified Pre-Basic Seed, Pre-Basic Seed or Basic Seed.
+
+#### 2. Pre-Basic Seed
+
+Pre-Basic Seed is seed of a generation earlier than that of Basic Seed—
+
+- (a) which has been produced by or under the responsibility of the breeder;
+- (b) is intended for the production of Pre-Basic Seed, Basic Seed or, with the written authority of the breeder and the Scottish Ministers, Certified Seed, and
+- (c) either—
+  - (i) satisfies the requirements for Basic Seed set out in Schedule 4 and in respect of which—
+    - (aa) an official certificate has been issued in accordance with Part I of Schedule 2; or
+    - (bb) a breeder's confirmation has been issued in accordance with Part II of Schedule 2; or
+  - (ii)[^key-abb819420b70ec632361ede981ccfb37] has been certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in sub-paragraphs (a) and (b) and the applicable requirements for Basic Seed in the relevant part of the United Kingdom.
+
+#### 3. Basic Seed
+
+Basic Seed is seed—
+
+- (a) which has been produced by or under the responsibility of the breeder from uncertified Pre-Basic Seed or Pre-Basic Seed;
+- (b) is intended for the production of Certified Seed, and
+- (c) either—
+  - (i) satisfies the requirements for Basic Seed set out in Schedule 4 and in respect of which–
+    - (aa) an official certificate has been issued in accordance with Part I of Schedule 2; or
+    - (bb) a breeder's confirmation has been issued in accordance with Part II of Schedule 2; or
+  - (ii)[^key-d2a7917605402157f5f6ad447729250e] has been certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in sub-paragraphs (a) and (b) and the applicable requirements for Basic Seed in the relevant part of the United Kingdom.
+
+#### 4. Certified Seed
+
+Certified Seed is seed—
+
+- (a) which has been produced directly from Basic Seed or, with the written authority of the breeder and the Scottish Ministers, from Pre-Basic Seed; and
+- (b) either—
+  - (i) satisfies the requirements for Certified Seed set out in Schedule 4 and in respect of which an official certificate has been issued in accordance with Part I of Schedule 2; or
+  - (ii)[^key-b11816862ac28eb1aab493e1c30c2e88] has been certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in sub-paragraph (a) and the applicable requirements for Certified Seed in the relevant part of the United Kingdom.
+
+## SCHEDULE 2 — OFFICIAL CERTIFICATES AND BREEDER'S CONFIRMATIONS
+
+Regulations 2(1), 6(4), 11(1)15(2), 16(2) and 19(14)
+
+### PART I — OFFICIAL CERTIFICATES
+
+#### 1. Applications for seed harvested in the United Kingdom
+
+On receipt of an application made in accordance with regulation 15(1) [^key-8b8668b5629f04e72970f82214cd8337]... for the issue of an official certificate in respect of a seed lot as Pre-Basic Seed, Basic Seed, Certified Seed and seed of a Conservation Variety, the Scottish Ministers shall, subject to paragraphs 2 and 3, issue in respect of such a seed lot an official certificate containing the particulars specified in paragraph 1 of Schedule 3.
+
+#### 2. When applications will be refused
+
+(1) The Scottish Ministers shall refuse to issue an official certificate in respect of a seed lot unless—
+
+- (a) an application has been made to the Scottish Ministers, in writing in such form and manner and at such time as the Scottish Ministers may require, and has been accompanied by such information, material, records, illustrations and other documents as they may require, in respect of—
+  - (i) the seed lot or seed lots to be used for the production of the crop or crops from which is to be or has been obtained the seed lot in respect of which the application for an official certificate has been made; and
+  - (ii) the crop or crops from which the seed lot is to be or has been obtained;
+- (b) except in the case of seed of a Conservation Variety, an official examination of the crop or crops from which was obtained the seed lot in respect of which the application for an official certificate has been made has shown that the crop or crops met the standards appropriate to the category of seed referred to in the application specified in Part I of Schedule 4; and
+- (c) an official examination of a sample of the seed lot has shown that the seed lot meets the standards appropriate to the relevant category of seed referred to in the application specified in paragraph 8 of Schedule 4, except that, in so far as the official examination relates to the standards of percentage of germination specified in Part II of Schedule 4, these standards shall not apply in relation to an application for the issue of an official certificate in respect of lower germination seed.
+
+(2) Notwithstanding sub-paragraph (1), the Scottish Ministers shall refuse to issue an official certificate certifying a seed lot either as—
+
+- (a) Basic Seed if the seed lot was certified at the time of the relevant application as Certified Seed; or
+- (b) Pre-Basic Seed if the seed lot was certified at the time of the relevant application as either Basic Seed or Certified Seed,
+
+unless the application is accompanied by the written consent of the breeder.
+
+#### 3. When applications may be refused
+
+The Scottish Ministers may refuse to issue an official certificate in respect of a seed lot if it appears to them that—
+
+- (a) a sample taken from the seed lot for the purpose of an official examination to ascertain whether the seed lot meets the appropriate standards specified in Part II of Schedule 4 has not been taken in accordance with regulation 17(1);
+- (b) an official examination of a control plot or an examination of a post control plot, sown with a sample of the seed lot shows that the crop does not meet the appropriate standards specified in Part I of Schedule 4; or
+- (c) there has been any breach of seeds regulations in relation to the seed lot in respect of which the application for an official certificate has been made.
+
+#### 4. Applications for seed harvested outside the United Kingdom[^key-7de920cd7159feaaa1c314e0621f016a]
+
+(1) Notwithstanding paragraphs 2 and 3, and subject to sub-paragraphs (2) and (3), on receipt of an application made in accordance with regulation 15(1) for the issue of an official certificate in respect of a seed lot as Pre-Basic Seed, Basic Seed or Certified Seed, the Scottish Ministers may issue an official certificate in respect of the seed lot containing the particulars specified in paragraph 1 of Schedule 3.
+
+(2) An official certificate may only be issued under sub-paragraph (1) if—
+
+- (a) the seed has been—
+  - (i) produced directly from—
+    - (aa) fully certified Basic Seed or Certified Seed, or
+    - (bb) seed certified in the United Kingdom, a Crown Dependency (provided the seed has been produced under legislation recognised by the Scottish Ministers to have equivalent effect to these Regulations) or a country granted equivalence, which is permitted to be sold as Basic Seed or Certified Seed in accordance with these Regulations,
+  - (ii) harvested outside the United Kingdom, and
+  - (iii) shown on official examination, or, in the case of seed certified in a country granted equivalence, on official field inspection, to have satisfied the conditions specified in Part II of Schedule 4 for the relevant category of seed;
+- (b) the seed has been—
+  - (i) produced directly from the crossing of fully certified Basic Seed with seed certified in the United Kingdom, a Crown Dependency (provided the seed has been produced under legislation recognised by the Scottish Ministers to have equivalent effect to these Regulations) or a country granted equivalence, which is permitted to be sold as Basic Seed in accordance with these Regulations,
+  - (ii) harvested outside the United Kingdom, and
+  - (iii) shown on official examination, or, in the case of seed certified in a country granted equivalence, on official field inspection, to have satisfied the conditions specified in Part II of Schedule 4 for the relevant category of seed; or
+- (c) the seed—
+  - (i) is to be certified by the Scottish Ministers as Basic Seed,
+  - (ii) has been produced directly from—
+    - (aa) fully certified Pre-basic Seed, or
+    - (bb) seed certified in the United Kingdom, a Crown Dependency (provided the seed has been produced under legislation recognised by the Scottish Ministers to have equivalent effect to these Regulations) or a country granted equivalence, which is permitted to be sold as Pre-basic Seed in accordance with these Regulations,
+  - (iii) has been harvested outside the United Kingdom, and
+  - (iv) has been shown on official examination, or, in the case of seed certified in a country granted equivalence, on official field inspection, to have satisfied the conditions specified in Part II of Schedule 4 for the relevant category of seed.
+
+(3) In the case of seed which has been harvested in a country granted equivalence, an official certificate may only be issued under sub-paragraph (1) provided that—
+
+- (a) the seed has been harvested from a crop which has been found by official field inspection to satisfy the crop conditions specified in Part 1 of Schedule 4; and
+- (b) has been packed in a sealed package in accordance with the requirements of regulation 18 (sealing of packages of seed) and has been labelled in accordance with the requirements of regulation 19 (labelling of packages of seed) and Schedule 6.
+
+### PART II — BREEDER'S CONFIRMATIONS
+
+#### 5. Applications
+
+On receipt of an application made in accordance with regulation 16 for the issue of a breeder's confirmation in respect of a seed lot, as Pre-Basic Seed or Basic Seed, the Scottish Ministers shall, subject to paragraphs 6 and 7, issue in respect of that seed lot a breeder's confirmation containing the particulars specified in paragraph 2 of Schedule 3.
+
+#### 6. When applications will be refused
+
+The Scottish Ministers shall refuse to issue a breeder's confirmation in respect of a seed lot unless—
+
+- (a) an application has been made to the Scottish Ministers in writing in such form and manner and at such time as the Scottish Ministers may require, and has been accompanied by such information, material, records, illustrations and other documents as they may require, in respect of—
+  - (i) the seed lot or seed lots to be used for the production of the crop or crops from which is to be or has been obtained the seed lot in respect of which the application for a breeder's confirmation has been made; and
+  - (ii) the crop or crops from which the seed lot is to be or has been obtained;
+- (b) an official examination of the crop or crops from which was obtained the seed lot in respect of which the application for a breeder's confirmation has been made has shown that the crop or crops meet the standards specified in Part I of Schedule 4 appropriate to the category referred to in the application; and
+- (c) an official examination of a sample taken from the seed lot has shown that the seed lot meets the standards specified in Part II of Schedule 4 appropriate to the relevant category of seed referred to in the application except that a breeder's confirmation can be issued for Pre-Basic Seed or Basic Seed in respect of seed which attains a lower percentage of germination than that specified in Part II of Schedule 4.
+
+#### 7. When applications may be refused
+
+The Scottish Ministers may refuse to issue a breeder's confirmation in respect of a seed lot if—
+
+- (a) it appears to them that a sample taken from the seed lot for the purpose of an official examination to ascertain whether the seed lot meets the appropriate standards specified in Part II of Schedule 4 has not been taken in accordance with regulation 17(1);
+- (b) it appears to them that an official examination of a control plot sown with a sample of the seed lot shows that the crop does not meet the appropriate standards specified in Part I of Schedule 4;
+- (c) it appears to them that there has been a breach of seeds regulations in relation to the seed lot in respect of which an application for a breeder's confirmation has been made; or
+- (d) the breeder applying for the breeder's confirmation in respect of the seed lot notifies them that the application to have the relevant variety accepted on to a GB Variety List or an NI Variety List[^key-75734f631a99239e525cfa297ffc6947] has been withdrawn or refused.
+
+## SCHEDULE 3 — PARTICULARS TO BE SPECIFIED IN AN OFFICIAL CERTIFICATE OR A BREEDER'S CONFIRMATION
+
+Regulation 2(1)
+
+### 1. Particulars to be specified in an official certificate
+
+The following particulars shall be specified in an official certificate:—
+
+- (a) name and address of certifying authority;
+- (b) applicant's name, address and, if appropriate, registered or licensed number[^key-b79ad810042ce3a1a87a7b6082acd2e7];
+- (c) seed lot reference number;
+- (d) species / variety / category / level, as appropriate;
+- (e) net weight of seed lot and number of containers;
+- (f) seed treatment, if any;
+- (g) if the seed is Pre-Basic Seed or Basic Seed and the seed attains a lower percentage of germination than that specified in Part II of Schedule 4, a statement to that effect; and
+- (h) if the seed is of a Conservation Variety, the region of origin of seed production of the Conservation Variety.
+
+### 2. Particulars to be specified in a breeder's confirmation
+
+The following particulars shall be specified in a breeder's confirmation:—
+
+- (a) name and address of issuing authority;
+- (b) applicant's name, address and, if appropriate, registered or licensed number[^key-172468c7ec34427620dfbce20c6bbce5];
+- (c) seed lot reference number;
+- (d) species / variety, or the official application for protection number issued by the Plant Variety Rights Office and the breeder's designation if appropriate, category / level, as appropriate;
+- (e) net weight of seed lot and number of containers;
+- (f) seed treatment, if any;
+- (g) a statement that the breeder's confirmation does not constitute an official certificate and does not permit marketing of the seed; and
+- (h) if the seed is Pre-Basic Seed or Basic Seed and the seed attains a lower percentage of germination than that specified in Part II of Schedule 4, a statement to that effect.
+
+## SCHEDULE 4 — REQUIREMENTS FOR PRE-BASIC SEED, BASIC SEED, CERTIFIED SEED AND SEED OF A CONSERVATION VARIETY
+
+Regulations 2(1), 6(2)(c),9(4)(d) and (e), 10(3)(b), (4)and (5), 11(1), 12(1), (2) and (3),15(4), 16(3) and 19(14)
+
+### PART I — CONDITIONS RELATING TO CROPS FROM WHICH SEED IS OBTAINED
+
+#### 1. Methods of ascertaining whether crop requirements are met
+
+The Scottish Ministers may ascertain, so far as practicable, whether the requirements for the crop set out in this Part of the Schedule are met by the use of methods which shall include official field inspection of the crop and which may include examination of a control plot sown with a sample from the seed lot and the consideration of any other relevant information.
+
+#### 2. Varietal identity and varietal purity
+
+(1) The characteristics used for the determination of varietal identity and varietal purity shall be those to which regard was had when the relevant variety was accepted on to the relevant GB Variety List or NI Variety List[^key-a2851cbce56e2ca953ebcfb41df142f7].
+
+(2) The crop shall possess sufficient varietal identity and varietal purity.
+
+#### 3. Crop inspection
+
+(1) An official examination of the crop shall be made by means of an official field inspection.
+
+(2) The official field inspection shall only be carried out when the cultural condition of the field and the stage of development and condition, including health, of the crop—
+
+- (a) are such as to permit suitable checks of varietal identity, varietal purity and species purity; and
+- (b) meets the requirements of the Scottish Ministers.
+
+(3) In the case of certified seed there shall be at least one official field inspection and in the case of Pre-Basic Seed and Basic Seed at least two official field inspections, one of stecklings and one of the seed-producing plants.
+
+#### 4. Previous cropping
+
+(1) The previous cropping of the field shall not have been incompatible with the production of seed of the species and variety of the crop, and the field shall be sufficiently free from plants which are volunteers (plants of a species and variety that have grown from seed that was not deliberately sown as part of the crop) from previous cropping.
+
+(2) The crop may be grown only on land which complies with the Scottish Ministers' requirements in respect of previous cropping.
+
+#### 5. Isolation distances – minimum distances
+
+(1) There shall be a physical barrier or at least two metres of fallow between the seed crop and any crop likely to cause contamination in the seed.
+
+(2) The minimum distances from neighbouring pollen sources shall be:
+
+<table>
+<tbody>
+<tr><th colspan="4"><em>Crop</em></th><th><em>Minimum distance</em></th></tr>
+<tr><td>1.</td><td colspan="3">For the production of Pre-Basic and Basic Seed: from any pollen sources of the genus Beta</td><td>1,000 m</td></tr>
+<tr><td>2.</td><td colspan="3">For the production of Certified Seed:</td><td></td></tr>
+<tr><td></td><td>(a)</td><td colspan="2">of sugar beet:</td><td></td></tr>
+<tr><td></td><td></td><td>–</td><td>from any pollen sources of the genus Beta not included below</td><td>1,000 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>the intended pollinator or one of the intended pollinators being diploid, from tetraploid sugar beet pollen sources</td><td>600 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>the intended pollinator being exclusively tetraploid, from diploid sugar beet pollen sources</td><td>600 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>from sugar beet pollen sources, the ploidy of which is unknown</td><td>600 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>the intended pollinator or one of the intended pollinators being diploid, from diploid sugar beet pollen sources</td><td>300 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>the intended pollinator being exclusively tetraploid, from tetraploid sugar beet pollen sources</td><td>300 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>between two sugar beet seed production fields in which male sterility is not used</td><td>300 m</td></tr>
+<tr><td></td><td>(b)</td><td colspan="2">of fodder beet:</td><td></td></tr>
+<tr><td></td><td></td><td>–</td><td>from any pollen sources of the genus Beta not included below</td><td>1,000 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>the intended pollinator or one of the pollinators being diploid, from tetraploid fodder beet pollen sources</td><td>600 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>the intended pollinator being exclusively tetraploid, from diploid fodder beet pollen sources</td><td>600 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>from fodder beet pollen sources, the ploidy of which is unknown</td><td>600 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>the intended pollinator or one of the pollinators being diploid, from diploid fodder beet pollen sources</td><td>300 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>the intended pollinator being exclusively tetraploid, from tetraploid fodder beet pollen sources</td><td>300 m</td></tr>
+<tr><td></td><td></td><td>–</td><td>between two fodder beet seed production fields in which male sterility is not used</td><td>300 m</td></tr>
+</tbody>
+</table>
+
+The above distances can be disregarded if there is sufficient protection from any undesirable foreign pollinator. No isolation is necessary between seed crops using the same pollinator.
+
+The ploidy of both seed-bearing and pollen-shedding components of seed-producing crops is to be established by reference to a GB Variety List or an NI Variety List[^key-0d3a15542020f2e302262bf2177fc575].
+
+If this information is not included for any variety, the ploidy is to be regarded as unknown, and a minimum isolation distance of 600 metres is required.
+
+(3) With approval of the Scottish Ministers these distances may be modified if there is adequate protection against undesirable pollen.
+
+### PART II — CONDITIONS RELATING TO BASIC SEED, CERTIFIED SEED AND SEED OF A CONSERVATION VARIETY
+
+#### 6. Varietal identity and varietal purity
+
+The seed shall have sufficient varietal identity and varietal purity.
+
+#### 7. State of health of seed
+
+The seed must be of a satisfactory state of health insofar as seed-borne diseases and organisms affecting the seed are concerned.
+
+#### 8. Standard of germination, analytical purity and content of seed of other plant species
+
+ 
+
+- (a) The seed shall conform to the standards or other conditions as regards germination, analytical purity and the content of seeds of other plant species as specified in the following table.
+
+  <table>
+  <tfoot>
+  <tr><td colspan="7"><sup>1</sup> Excluding where appropriate, granulated pesticides, pelleting substances or other solid additives. The minimum weight of the sample to be submitted for moisture content testing shall be the minimum weight of a sample specified in paragraph 2(2) of Schedule 5 and this sample shall be submitted for testing in addition to the submitted sample and in an airtight moisture proof container.</td></tr>
+  </tfoot>
+  <tbody>
+  <tr><th></th><th colspan="2"></th><th><em>Minimum analytical purity</em><sup>1</sup><em>(% by weight)</em></th><th><em>Maximum weight of seed of other plant species (% by weight)</em></th><th><em>Minimum germination</em><em>(% by number of clusters or pellets)</em></th><th><em>Maximum moisture content</em><sup>1</sup><em>(% by weight)</em></th></tr>
+  <tr><td>(i)</td><td colspan="2">Sugar beet:</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td>–</td><td>monogerm seed</td><td>97</td><td>0.3</td><td>80</td><td>15</td></tr>
+  <tr><td></td><td>–</td><td>precision seed</td><td>97</td><td>0.3</td><td>75</td><td>15</td></tr>
+  <tr><td></td><td>–</td><td>natural seed of varieties with more than 85% diploids</td><td>97</td><td>0.3</td><td>73</td><td>15</td></tr>
+  <tr><td></td><td>–</td><td>natural seed of varieties with 15% or more triploids and/or tetraploids</td><td>97</td><td>0.3</td><td>68</td><td>15</td></tr>
+  <tr><td>(ii)</td><td colspan="2">Fodder beet:</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td>–</td><td>monogerm seed, precision seed and natural seed of varieties with more than 85% diploids</td><td>97</td><td>0.3</td><td>73</td><td>15</td></tr>
+  <tr><td></td><td>–</td><td>natural seed of varieties with 15% or more triploids and/or tetraploids</td><td>97</td><td>0.3</td><td>68</td><td>15</td></tr>
+  </tbody>
+  </table>
+- (b) The special conditions for monogerm seed and for precision seed are—
+  - (i) additional germination requirements
+
+    <table>
+    <tbody>
+    <tr><th colspan="4"></th><th><em>Minimum percentage of germinated clusters with a single seedling</em></th><th><em>Maximum percentage of germinated clusters with 3 or more seedlings</em></th></tr>
+    <tr><td>(aa)</td><td colspan="3">monogerm seed</td><td>90</td><td>5</td></tr>
+    <tr><td>(bb)</td><td colspan="3">precision seeds of—</td><td></td><td></td></tr>
+    <tr><td></td><td></td><td colspan="2">Sugar beet</td><td>70</td><td>5</td></tr>
+    <tr><td></td><td></td><td colspan="2">Fodder beet</td><td></td><td></td></tr>
+    <tr><td></td><td></td><td>–</td><td>with more than 85% diploids</td><td>58</td><td>5</td></tr>
+    <tr><td></td><td></td><td>–</td><td>with 15% or more triploids and/or tetraploids</td><td>63</td><td>5</td></tr>
+    </tbody>
+    </table>
+  - (ii) inert matter
+
+    <table>
+    <tbody>
+    <tr><th colspan="2"></th><th><em>Maximum percentage by weight of inert matter</em></th></tr>
+    <tr><td>(aa)</td><td>Pre-Basic Seed and Basic Seed</td><td>1.0</td></tr>
+    <tr><td>(bb)</td><td>Certified Seed</td><td>0.5</td></tr>
+    <tr><td colspan="3">In the case of pelleted seed the sample shall be drawn from processed seed which has undergone partial decortication (rubbing or grinding) but has not yet been pelleted.</td></tr>
+    </tbody>
+    </table>
+
+**9.** Beet seed may not be introduced into areas recognised as ‘rhizomania free zones’ unless the percentage by weight of inert matter does not exceed 0.5.
+
+### PART III — OFFICIAL EXAMINATIONS USED TO ASCERTAIN WHETHER A CROP OR SEED LOT MEETS THE CONDITIONS RELATING TO BASIC SEED, CERTIFIED SEED AND SEED OF A CONSERVATION VARIETY
+
+#### 10. Methods for official examinations
+
+All official examinations used to ascertain whether crops or seed lots meet the standards specified in this Schedule shall be carried out in accordance with current international methods insofar as such methods exist.
+
+## SCHEDULE 5 — MAXIMUM WEIGHT OF A SEED LOT AND MINIMUM WEIGHT OF A SUBMITTED SAMPLE
+
+Regulations 2(1), 17(2)and (3) and 21(6)
+
+### 1. Maximum weight of a seed lot
+
+The maximum weight of a seed lot shall be 20 metric tonnes and shall not be exceeded by more than 5%.
+
+### 2. Minimum weight of a submitted sample of seed
+
+(1) The minimum weight of a sample submitted for official examination shall be 500g or 7,500 pelleted seeds.
+
+(2) The minimum weight of a sample for moisture testing shall be 50g.
+
+## SCHEDULE 6 — LABELLING
+
+Regulations 2(3) and (4), 6(5), 14,19(2), (3), (6), (7), (8), (9), (10),(13), (14) and (16)
+
+### PART I — GENERAL
+
+#### 1. Method of referring to species of seed
+
+Where the species of seed is one of the particulars to be indicated on a label, in accordance with any of the provisions of this Schedule, the species must be indicated at least under its botanical name, which may be given in abridged form and without the authority's name, in Roman characters and an indication requires to be given of whether sugar beet or fodder beet.
+
+#### 2. Method of referring to varieties of seed
+
+Where the variety of seed is one of the particulars to be indicated on a label, in accordance with the provisions of this Schedule, the variety must be indicated at least in Roman characters.
+
+### PART II — LABELS
+
+#### 3. Label for a package of Breeder's Seed
+
+The label for a package of Breeder's Seed shall—
+
+- (a) be affixed on the outside and have not previously been used and shall contain the following information—
+  - (i) name and address of the supplier responsible for affixing the labels or the supplier's registered or licensed number[^key-91b0d96b7a3af1d686dbb6023ae52ab9];
+  - (ii) reference number of the seed lot;
+  - (iii) species;
+  - (iv) variety;
+  - (v) the words “Breeder's Seed” ;
+  - (vi) declared net or gross weight; and
+  - (vii) the words “NOT CERTIFIED” ;
+- (b) be coloured buff; and
+- (c) be either an adhesive label or tear proof label and shall be affixed, in either case, not later than at the time of sealing.
+
+#### 4. Official label for a package of Pre-Basic Seed
+
+The official label for a package of Pre-Basic Seed shall—
+
+- (a) be affixed on the outside of the package and have not previously been used and shall contain the following information—
+  - (i) certifying authority and country or country initials[^key-db237ec202bec08b088ec634d446c833];
+  - (ii) month and year of sealing or the month and year of the last official sampling for the purposes of certification, expressed respectively as follows—
+    - (aa) by the word “Sealed” followed by the month and year of sealing; or
+    - (bb) by the word “Sampled” followed by the month and year of official sampling;
+  - (iii) reference number of the seed lot;
+  - (iv) species;
+  - (v) variety;
+  - (vi) the words “Pre-Basic Seed” ;
+  - (vii) country of production;
+  - (viii) declared net or gross weight;
+  - (ix) where weight is indicated and granulated pesticides, pelleting substances or other solid additives are used, the nature of the additives and also the approximate ratio between the weight of seed and the total weight; and
+  - (x) number of generations preceding seed of the category Certified Seed;
+- (b) be a minimum size of 110 millimetres by 67 millimetres;
+- (c) be coloured white with a diagonal violet line;
+- (d) be either an adhesive label or a label secured to the package by a sealing system approved by the Scottish Ministers and shall be affixed, in either case, by the Scottish Ministers or by a licensed seed sampler; and
+- (e) where a breeder's confirmation has been applied for, be—
+  - (i) either an adhesive label or a label secured to the package by a sealing system approved by the Scottish Ministers;
+  - (ii) affixed, in either case, by the Scottish Ministers or by a licensed seed sampler; and
+  - (iii) overstamped “NOT CERTIFIED”.
+
+#### 5. Official label for a package of Basic Seed or Certified Seed
+
+The official label for a package of Basic Seed or Certified Seed shall—
+
+- (a) be affixed on the outside of the package and have not previously been used and shall subject to sub-paragraph (b), contain the following information:—
+  - (i) the words “ GB[^key-e08ccacfb494ac8c195adfc10b48af41] rules and standards” ;
+  - (ii) certifying authority and country or country initials[^key-f68e1931ca373fd0b2a99f765a167774];
+  - (iia)[^key-a3d3ced544aa164eeac222b73548611e] officially assigned serial number;
+  - (iii) month and year of sealing or the month and year of the last official sampling for the purposes of certification, expressed respectively as follows—
+    - (aa) by the word “Sealed” followed by the month and year of sealing; or
+    - (bb) by the word “Sampled” followed by the month and year of official sampling;
+  - (iv) reference number of the seed lot;
+  - (v) species;
+  - (vi) variety;
+  - (vii) category;
+  - (viii) country of production;
+  - (ix) declared net or gross weight or declared number of clusters or pure seeds;
+  - (x) where weight is indicated and granulated pesticides, pelleting substances or other solid additives are used, the nature of the additive and also the approximate ratio between the weight of pure seed and the total weight;
+  - (xi) for monogerm seed, the word “monogerm”;
+  - (xii) for precision seed, the word “precision”; and
+  - (xiii) where at least germination has been retested, the word “Retested” followed by the month and year of retesting and the service responsible for such retesting;
+- (b) not contain the information referred to in sub-paragraph (a)(xiii) if that information is given on an official sticker attached to the official label;
+- (c) be a minimum size of 110 millimetres by 67 millimetres;
+- (d) be coloured—
+  - (i) white for Basic Seed;
+  - (ii) blue for Certified Seed and Certified Seed of the First Generation; and
+  - (iii) red for Certified Seed of the Second Generation;
+- (e) be either an adhesive label or a label secured to the package by a sealing system approved by the Scottish Ministers and shall be affixed, in either case, by the Scottish Ministers or by a licensed seed sampler; and
+- (f) where a breeder's confirmation has been applied for, be—
+  - (i) either an adhesive label or a label secured to the package by a sealing system approved by the Scottish Ministers;
+  - (ii) affixed, in either case, by the Scottish Ministers or by a licensed seed sampler; and
+  - (iii) overstamped “NOT CERTIFIED”.
+
+#### 6. Official label for a package of test and trial seed
+
+The official label for a package of test and trial seed shall—
+
+- (a) be affixed on the outside of the package and have not previously been used and shall subject to sub-paragraph (b), contain the following information:—
+  - (i) the words “for tests and trials only”;
+  - (ii) certification authority and country or country initials[^key-f76c3ea354a18017a92899d5fe4468d8];
+  - (iia)[^key-2fe9cd7ed3e459668c46a19ef4d5452a] officially assigned serial number;
+  - (iii) reference number of the seed lot;
+  - (iv) month and year of sealing expressed by the word “Sealed” followed by the month and year of sealing;
+  - (v) species;
+  - (vi) variety under which the seed is to be marketed;
+  - (vii) the official application number in relation to the application for listing under a GB Variety[^key-904a67a7796e15feece31925f176c46b] List;
+  - (viii) the words “variety not yet officially listed” ;
+  - (ix) the words “genetically modified variety”, where applicable;
+  - (x) declared net or gross weight or declared number of clusters or pure seeds; and
+  - (xi) where weight is indicated and granulated pesticides, pelleting substances or other solid additives are used, the nature of the additive and also the approximate ratio between the weight of pure seeds or, where applicable, clusters and the total weight;
+- (b) not contain the information referred to in sub-paragraph (a)(i) if that information is given on an official sticker attached to the official label;
+- (c) be a minimum size of 110 millimetres by 67 millimetres;
+- (d) be coloured orange; and
+- (e) be either an adhesive label or a label secured to the package by a sealing system approved by the Scottish Ministers and shall be affixed, in either case, by the Scottish Ministers or by a licensed seed sampler.
+
+#### 7. Official label for a package of seed of a Conservation Variety
+
+(1) The official label for a package of seed of a Conservation Variety shall—
+
+- (a) be affixed on the outside of the package and have not previously been used and shall contain the following information:—
+  - (i) the words “GB[^key-0dcf1fc656a1a33d9ad5a63c73ff5f85] rules and standards” ;
+  - (ii) the name and address, or the registration number, of the person responsible for affixing the label or notice;
+  - (iii) the year of sealing, or the year of last sampling for the purposes of the last testing of germination, expressed by the word “sealed” or “sampled” (as the case may be), followed by the year in question;
+  - (iv) the species;
+  - (v) the denomination of the Conservation Variety;
+  - (vi) the words “Conservation Variety”;
+  - (vii) the region of origin;
+  - (viii) where the region of seed production is different from the region of origin, the indication of the region of seed production;
+  - (ix) the reference number of the lot given by the person responsible for affixing the labels;
+  - (x) the declared net or gross weight or declared number of clusters or pure seeds;
+  - (xi) where weight is indicated and granulated pesticides, pelleting substances or other solid additives are used, the nature of the chemical treatment or additive and the approximate ratio between the weight of clusters of pure seeds and the total weight;
+  - (xii) for monogerm seed, the word “monogerm”; and
+  - (xiii) for precision seed, the word “precision”;
+- (b) be a minimum size of 110 millimetres by 67 millimetres;
+- (c) be coloured brown; and
+- (d) be either an adhesive label or tear proof label and shall be affixed, in either case, not later than at the time of sealing.
+
+(2)[^key-821a1ba33dff3d569fd9dc7e89842037] Where a package of seed of a Conservation Variety is sealed in any other part of Great Britain, it must be labelled in accordance with the requirements for labelling applicable in the relevant part of Great Britain.
+
+#### 8. Labels for packages of lower germination seed
+
+(1) The official label for a package of lower germination seed shall—
+
+- (a) be affixed on the outside of the package and have not previously been used and shall contain, as appropriate to the category of seed and the seed itself, particulars of the matters specified in this Schedule; and
+- (b) be either an adhesive label or a label secured to the package by a sealing system approved by the Scottish Ministers and shall be affixed, in either case, by the Scottish Ministers or by a licensed seed sampler.
+
+(2) The supplier's label for packages of lower germination seed shall—
+
+- (a) be affixed to the outside of the package and contain a statement that the minimum percentage of germination of the seed is less than the minimum percentage of germination for Basic Seed; and
+- (b) contain a statement of the specific minimum percentage of germination of the seed guaranteed by the person marketing the seed in accordance with regulation 11(2) together with the name and address of the seller and the reference number of the seed lot.
+
+(3) Where a breeder's confirmation has been issued in respect of seed of a lower percentage of germination—
+
+- (a) the official label or stamp shall be affixed to the outside of the package and contain a statement that the minimum percentage of germination of the seed is less than the minimum percentage of germination for Basic Seed; and
+- (b) where possession of the package is transferred to another person, the transferor shall—
+  - (i) guarantee a specific minimum percentage of germination of the seed; and
+  - (ii) affix a label to the outside of the package containing a statement of the specific minimum percentage of germination of the seed guaranteed by the person transferring possession of the seed together with the name and address of the transferor and the reference number of the seed lot.
+
+#### 9. Labels for packages of early movement seed
+
+(1) The official label for a package of early movement seed shall—
+
+- (a) be affixed on the outside of the package and have not previously been used and shall contain, as appropriate to the category of seed and the seed itself, particulars of the matters specified in this Schedule; and
+- (b) be either an adhesive label or a label secured to the package by a sealing system approved by the Scottish Ministers and shall be affixed, in either case, by the Scottish Ministers or by a licensed seed sampler.
+
+(2) The supplier's label for a package of early movement see shall—
+
+- (a) be affixed to the outside of the package and contain a statement that the seed is being sold before the official examination of the germination of that seed lot has been concluded; and
+- (b) contain a statement of the specific minimum percentage of germination guaranteed by the person marketing the seed in accordance with regulation 12(2)(c), together with the name and address of the seller and the reference number of the seed lot.
+
+(3) Where a breeder's confirmation has been issued in respect of seed of a lower percentage of germination—
+
+- (a) the official label or stamp shall be affixed to the outside of the package and contain a statement that the minimum percentage of germination of the seed is less than the minimum percentage of germination for Basic Seed; and
+- (b) where possession of the package is transferred to another person, the transferor shall—
+  - (i) guarantee a specific minimum percentage of germination of the seed; and
+  - (ii) affix a label to the outside of the package containing a statement of the specific minimum percentage of germination of the seed guaranteed by the person transferring possession of the seed together with the name and address of the transferor and the reference number of the seed lot.
+
+#### 10. Inner labels for packages of Pre-Basic Seed, Basic Seed, Certified Seed, lower germination seed, early movement seed and seed in respect of which a breeder's confirmation has been issued
+
+The inner label for a package of Pre-Basic Seed, Basic Seed, Certified Seed, lower germination seed, early movement seed and seed in respect of which a breeder's confirmation has been issued shall be of the same colour as the official label affixed to the outside of the package in accordance with this Schedule and shall contain particulars of the following matters—
+
+- (a) in the case of Pre-Basic Seed and lower germination seed to which paragraph 4 of this Schedule is relevant, paragraphs (iii) to (v) of paragraph 4(a) of this Schedule; and
+- (b) in the case of Basic Seed, Certified Seed, or lower germination seed to which paragraph 5 of this Schedule is relevant, paragraphs (iv) to (vi), (xi) and (xii) of paragraph 5(a) of this Schedule.
+
+### PART III — SMALL ... PACKAGES[^key-cc5b1542ebaa6b5fbc8509887183734f]
+
+#### 11. Label for a small ... package of Pre-Basic Seed, Basic Seed or Certified Seed[^key-872922705f717a879ee9842c6e3b2e3d]
+
+The label for a small [^key-452771fcfd6482c214d347e039478043]... package of Pre-Basic Seed, Basic Seed or Certified Seed shall—
+
+- (a) be affixed on the outside of the package and contain the following information:—
+  - (i) the words “Small [^key-452771fcfd6482c214d347e039478043]... Package”;
+  - (ii) name and address of the person responsible for fixing the label or his identification mark;
+  - (iii) officially assigned serial number;
+  - (iv) service which assigned the serial number and the name of the country or country initials[^key-05184acb8879cb030af1e30a40f1257f];
+  - (v) reference number of the seed lot if the official serial number does not enable the lot to be identified;
+  - (vi) species;
+  - (vii) variety;
+  - (viii) category;
+  - (ix) declared net weight, or number of clusters or pure seeds;
+  - (x) where the weight is indicated and granulated pesticides, pelleting substances or other solid additives are used, the nature of the additive and also the approximate ratio between the weight of the clusters or pure seeds and the total weight;
+  - (xi) for monogerm seed: the word “monogerm”; and
+  - (xii) for precision seed: the word “precision”;
+- (b) be coloured—
+  - (i) white with a diagonal violet line for Pre-Basic Seed;
+  - (ii) white for Basic Seed;
+  - (iii) blue for Certified Seed.
+
+### PART IV — PARTICULARS TO BE MARKED OR DISPLAYED ON THE SALE OF UNPACKETED SEED
+
+#### 12. Particulars to be marked or displayed on the sale of unpacketed seed
+
+The following particulars shall be marked on, or displayed near, the container referred to in regulation 14:—
+
+- (a) the words “ complies with legal standards”;
+- (b) species;
+- (c) variety; and
+- (d) for hybrid varieties, the word “ hybrid”.
+
+### PART V — INFORMATION IN RESPECT OF SEED IMPORTED FROM COUNTRIES OUTSIDE THE UNITED KINGDOM IN PACKAGES EXCEEDING 2 KILOGRAMS NET WEIGHT[^key-8c2d2a72c527f909bf41f43c9228a5a1]
+
+#### 13. Information to be supplied in respect of seed imported from a country outside the United Kingdom in a package exceeding 2 kilograms net weight[^key-d7dddcbd5b0960284b0cc96feb8336dc]
+
+The information to be supplied to the Scottish Ministers in accordance with regulation 6(5) in respect of seed imported from a country outside the United Kingdom[^key-de5313b00b349b3919978dbee57b35e5] in a package exceeding 2 kilograms of seed is as follows—
+
+- (a) species;
+- (b) variety;
+- (c) category;
+- (d) country of production and official inspection authority;
+- (e) country of despatch;
+- (f) importer; and
+- (g) quantity of seed.
+
+### PART VI — PRINTING OF SPECIFIED MATTERS ON PACKAGES (WHOLE BAG LABELLING)
+
+#### 14. Packages sealed in Scotland — individual serial numbers
+
+Each package shall have printed or stamped on it, or be perforated with, an individual serial number allocated by the Scottish Ministers, which shall appear in the same panel as the particulars of the matters specified in Part II of this Schedule.
+
+#### 15. Packages sealed in Scotland — printing or stamping
+
+The printing or stamping of the packages shall be by, and in accordance with the instructions, of the Scottish Ministers or by a licensed seed sampler.
+
+#### 16. Packages sealed in Scotland — particulars to be included in the printing or stamp
+
+The reference number of the seed lot and the month and year in which the package was officially sealed shall be printed or stamped by the Scottish Ministers or a licensed seed sampler at the time of sampling for official examination.
+
+#### 17. Seed packages sealed in the United Kingdom but not in Scotland, or in a country other than the United Kingdom[^key-0bc70f40dd76a74f1e4fe80a0d23c3f7]
+
+Such requirements of the country[^key-abedce4db49f61fd02901074328c5089] other than the United Kingdom (if the seed was sealed in that country) or DAERA[^key-f64521b80c093bdcb1c35118c04a96f3] (if the seed was sealed in Northern Ireland), the Welsh Ministers (if the seed was sealed in Wales) or the Secretary of State (if the seed was sealed in England) as correspond to the requirements specified in paragraphs 14 to 17 of this Schedule for seed which has been sealed in Scotland shall be satisfied.
+
+## SCHEDULE 7 — LIMITS OF VARIATION
+
+Regulation 21(2)
+
+### FOR GERMINATION OR FOR CLUSTERS WITH A SINGLE SEEDLING
+
+| *Minimum percentage of**germination or clusters with a**single seedling* | *Limit of variation**(per cent)* |
+| --- | --- |
+| 99-100 | 2 |
+| 97-98 | 3 |
+| 94-96 | 4 |
+| 91-93 | 5 |
+| 87-90 | 6 |
+| 82-86 | 7 |
+| 76-81 | 8 |
+| 69-75 | 9 |
+| 60-68 | 10 |
+| 50-59 | 11 |
+
+### ANALYTICAL PURITY
+
+| *Minimum percentage of**analytical purity* | *Limit of variation**(per cent)* |
+| --- | --- |
+| 99.9-100 | 0.2 |
+| 99.8 | 0.3 |
+| 99.6-99.7 | 0.4 |
+| 99.3-99.5 | 0.5 |
+| 99.0-99.2 | 0.6 |
+| 98.5-98.9 | 0.7 |
+| 98.3-98.4 | 0.8 |
+| 97.5-98.2 | 0.9 |
+| 97.0-97.4 | 1.0 |
+| 96.5-96.9 | 1.1 |
+| 95.5-96.4 | 1.2 |
+| 95.0-95.4 | 1.3 |
+
+### CONTENTS OF SEEDS OF OTHER SPECIES
+
+| *Maximum seeds**(per cent)* | *Limit of variation**(per cent)* |
+| --- | --- |
+| 0.0 | 0.1 |
+| 0.1-0.2 | 0.3 |
+| 0.3-0.4 | 0.4 |
+| 0.5 | 0.5 |
+
+### CLUSTERS WITH THREE OR MORE SEEDLINGS
+
+| *Maximum clusters with three**or more seedlings (per cent)* | *Limit of variation**(per cent)* |
+| --- | --- |
+| 0-2 | 2 |
+| 3-4 | 3 |
+| 5-6 | 4 |
+| 7-9 | 5 |
+| 10 | 6 |
+
+## SCHEDULE 8 — REVOCATIONS
+
+Regulation 25(2)
+
+| *Regulations revoked* | *References* | *Extent* |
+| --- | --- | --- |
+| The Beet Seeds Regulations 1993 | S.I. 1993/2006 | The whole Regulations insofar as they apply to Scotland |
+| The Beet Seeds (Amendment) Regulations 1999 | S.I. 1999/1861 | The whole Regulations insofar as they apply to Scotland |
+| The Beet Seeds (Amendment) (Scotland) Regulations 2000 | S.S.I. 2000/246 | The whole Regulations |
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke and replace the Beet Seed (Scotland) Regulations 2010 (S.S.I. 2010/67) in order to correct a number of drafting errors. These Regulations, which extend to Scotland only, consolidate, with amendments, the provisions of the Beet Seeds Regulations 1993 (S.I. 1993/2006) as relevantly amended by the Beet Seeds (Amendment) Regulations 1999 (S.I. 1999/1861) and the Beet Seeds (Amendment) (Scotland) Regulations 2000 (S.S.I. 2000/246).
+
+The Regulations implement the provisions of Council Directive [2002/54/EEC](https://www.legislation.gov.uk/european/directive/2002/0054) on the marketing of beet seed as amended. The Regulations also implement the provisions of Commission Directive [2008/62/EC](https://www.legislation.gov.uk/european/directive/2008/0062) providing for certain derogations for acceptance of agricultural landraces and varieties which are naturally adapted to the local and regional conditions and threatened by genetic erosion and for marketing of seed and seed potatoes of those landraces and varieties.
+
+The Regulations apply to the certification and marketing of beet seed of the species specified in Schedule 1 to these Regulations (regulation 4 and Schedule 1). The Regulations include provisions which prohibit the marketing of beet seed in Scotland unless it is seed of a listed variety which has been officially certified or Breeder's Seed (regulation 6(1)). The prohibition does not apply in the case of seed—
+
+- (a) which has not yet been fully certified (seed as grown) if it is marketed for processing (regulation 6(2));
+- (b) the marketing of which is authorised by general licence under regulation 7; or
+- (c) where authorisation has been granted for scientific purposes or selection work or for the purposes of tests and trials (regulations 8 and 9).
+
+The Regulations make provision for the marketing of seed of a Conservation Variety (regulation 10). Seed of a Conservation Variety may only be marketed where the following are complied with-
+
+- (a) it is included in the UK National List of plant varieties of agricultural plant species, as a Conservation Variety;
+- (b) it descends from seed produced according to well defined practices for maintenance of the variety;
+- (c) the seed has been harvested from a crop that has been produced in the region of origin for the variety or additional region and meets normal requirements for crops in respect of minimum varietal identity and purity;
+- (d) the seed must satisfy certain requirements as are laid down in Schedule 4 (regulation 10(5));
+- (e) seed of a Conservation Variety must be marketed in its region of origin and producers of seed of a Conservation Variety must supply the Scottish Ministers with details in writing as to the size in hectares and the location of the area to be used to produce the seed;
+- (f) Conservation Varieties are subject to quantative restrictions and accordingly these Regulations permit Scottish Ministers to specify the maximum amount of seed of a Conservation Variety which may be marketed in any growing season. Scottish Ministers may authorise in writing the marketing of seed of a Conservation Variety not exceeding the amount specified in the authorisation; and
+- (g) any person marketing seed of a Conservation Variety must supply the Scottish Ministers, on request, with details in writing of the amount and variety of the seed placed on the market during each growing season.
+
+The Regulations include provisions about the standards to be met by beet seed before it will be officially certified by the Scottish Ministers (regulation 15, Schedule 1 and Schedule 2). There are provisions allowing the marketing of seed which does not attain the relevant germination standards (regulation 11) and for marketing seed before it is shown to meet the relevant germination standards (regulation 12).
+
+The Regulations make provision for breeder's confirmations for seed which is not yet accepted onto a UK National List or the Common Catalogue but which otherwise meets the requirements for Pre-Basic Seed or Basic Seed (regulation 16 and Schedules 1, 2 and 4) and for upgrading a breeder's confirmation to an official certificate (regulation 15(3)).
+
+The Regulations lay down requirements relating to seed sampling (regulation 17 and Schedule 5) and the packaging and sealing of packages of seed (regulations 14 and 18) and the labelling of packages of such seed (regulations 14 and 19 and Schedule 6).
+
+The Regulations introduce the power to require an additional sample of seed for the purposes of European tests and trials (regulation 20).
+
+The Regulations provide that particulars given to a purchaser by a seller of seed to which the Regulations apply will constitute a statutory warranty so far as they relate to certain information about the seed being sold (regulation 21). The Regulations introduce provisions about service of notices (regulation 22) and permit electronic communications to be used in certain circumstances (regulation 23).
+
+The Regulations amend the Seeds (Fees) (Scotland) Regulations 2007 (S.S.I. 2007/536) to allow fees to be charged for procedures carried out in relation to the Regulations (regulation 24).
+
+The Regulations revoke the Beet Seeds Regulations 1993 as amended. General licences made under the 1993 Regulations will be replaced by general licences made under these Regulations (regulation 25). The Regulations also revoke the Beet Seed (Scotland) Regulations 2010 (S.S.I. 2010/67).
+
+Contravention of these Regulations is a criminal offence (section 16(7) of the Plant Varieties and Seeds Act 1964).
+
+A copy of the ‘Instructions for Seed Samplers Licensed in Scotland’ guidance document in respect of sampling and a copy of the Scottish Ministers' requirements in respect of previous cropping, crop conditions for field examinations and moisture testing can be obtained from the Chief Officer at the Official Seed Testing Station, SASA, Roddinglaw Road, Edinburgh, EH12 9FJ.
+
+No Regulatory Impact Assessment has been prepared for this instrument as it has no impact on the cost of business.
+
+## Annotations
+
+[^c20273761]: Marginal citation: [1964 c.14](https://www.legislation.gov.uk/ukpga/1964/14). Section 16 was amended by the [European Communities Act 1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68), [section 4(1)](https://www.legislation.gov.uk/ukpga/1972/68/section/4/1) and Schedule 4, paragraph 5(1) and (2). See section 38(1) for the definition of “the Minister”. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-fe7c823a05d71ce61bd4f0b09c47d4e0]: Textual amendment: Words in reg. 2(1) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/2/a)
+
+[^key-3dac838631ec06c045089d745a4f0919]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) inserted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e5ef8ebd39c3a0acda954e2545c4f7e9]: Textual amendment: Words in reg. 2(1) substituted (31.3.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/6/2)
+
+[^key-6642db77c7d73369f12efaae2bfe6b84]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/ii/aa) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/i))
+
+[^key-1ab2a1c38c3bdb422b425c96d9e09177]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/ii/bb) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/i))
+
+[^key-ff27e8ecd650449ba54780ea76e3b283]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(iia)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/iia) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/i))
+
+[^c20273781]: Marginal citation: O.J. L 362, 9.12.2004, p.21.
+
+[^key-6b7905137cf6404f5ff1011b29786420]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) inserted (28.3.2019) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a), [6(2)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/6/2/a)
+
+[^c20273791]: Marginal citation: O.J. L 162, 21.6.2008, p.13.
+
+[^c20273801]: Marginal citation: O.J. L 38, 9.2.2006, p.17.
+
+[^key-4600fcc85dffc5dc076307edcc581c06]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/iii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ii))
+
+[^key-6c0478900de20a26ab3d1a8f32b7572b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(iiia)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/iiia) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ii))
+
+[^key-f778cc38cdb779d4df0b19d0ef95ba15]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/iv) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/iii))
+
+[^key-e0a28e467730760666120c4e477cc136]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) inserted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(2)(a)(v)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/v) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/iv)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20273821]: Marginal citation: O.J. L 106, 17.4.2001, p.1, as amended by Commission Decision 2002/623/EC, O.J. L 200, 30.7.2002, p.22; Regulation (EC) No. 1829/2003, O.J. L 268, 18.10.2008, p.1; Regulation (EC) No. 1830/2003, O.J. L 268, 18.10.2003, p.24 and Directive 2008/27/EC, O.J. L 81, 20.3.2008, p.45.
+
+[^key-91b0782f44cf7967b367c1c3d2266587]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) inserted (28.3.2019) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a), [6(2)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/6/2/b)
+
+[^key-f5750e21d98babae7592643c1d5dff0b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/a), [6(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/6/a)
+
+[^key-811e734d077353784d32715282a31a08]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(va)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/va) (as inserted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(v)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/v))
+
+[^key-155b354c3d87e55c38f4e03b5950e2d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(vb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/vb) (as inserted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(v)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/v))
+
+[^c20273831]: Marginal citation: O.J. L 8, 14.1.2003, p.10, as amended by Council Decision 2003/403/EC, O.J. L 141, 7.6.2003, p.23; Council Regulation (EC) No. 885/2004, O.J. L 168, 1.5.2004, p.1; Council Decision 2005/834/EC, O.J. L 312, 29.11.2005, p.51; Council Regulation (EC) No. 1791/2006, O.J. L 363, 20.12.2006, p.1 and Council Decision 2007/780/EC, O.J. L 314, 1.12.2007, p.20.
+
+[^key-3e06426b0582d28299f63c37902b02cb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) inserted (28.3.2019) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a), [6(2)(d)](https://www.legislation.gov.uk/ssi/2019/59/regulation/6/2/d)
+
+[^key-6542df26d0333dae1674d08f31a9c265]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/a), [6(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/6/b)
+
+[^key-70fc8653f648fa284ba24f9d69d0c93e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/vi) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/vi))
+
+[^key-8fb0bc644bc3b117f400ac4f243af4ad]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/vii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/vi))
+
+[^c20273841]: Marginal citation: O.J. L 268, 18.10.2003, p.1, as amended by Commission Regulation (EC) No. 1981/2006, O.J. L 368, 23.12.2006, p.99 and Regulation (EC) No. 298/2008, O.J. L 97, 9.4.2008, p.64.
+
+[^key-966831a92e416da7eaf2303064657145]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) inserted (31.12.2020) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/a), [6(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/6/c)
+
+[^key-c1be97056c8b43380cfdbabc34d96305]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(viii)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/viii/aa) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/vii))
+
+[^key-f44c82d6322bf5d728ea67e99ba5d7b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(viii)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/viii/bb) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/vii))
+
+[^key-5d2a214e499523a0042b8b5446ed9c3e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) inserted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/ix) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(viii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/viii))
+
+[^key-779cb83aa6c391eec81fd587f1550e3d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) inserted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(ixa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/ixa) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(viii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/viii))
+
+[^key-1386a2cac849b9749694b3cfe3f582e0]: Textual amendment: Words in reg. 2(1) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(2)(b)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/2/b)
+
+[^key-e284d22dbe7c09c01bbf701a7f3fc29c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(ixb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/ixb) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(viii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/viii))
+
+[^key-57ffb98501bfd1853bee182e9f758228]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(x)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/x) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-1629158ddfc136c25410d09be817ced6]: Textual amendment: Words in reg. 2(1) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(2)(c)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/2/c)
+
+[^key-3e5981d4226e2122a1c7c49f526c1f7b]: Textual amendment: Words in reg. 2(1) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(2)(d)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/2/d)
+
+[^key-2bc2d2b4c4d548983222469f8fe6e3d2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xa) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-d1c3588061f5714804246dde87250f67]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) inserted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xb) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-6faabffa262f809bb1e6d4519bb8d484]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xc)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xc) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-b878f5f3c5a07d249e82be66acc0d971]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xd)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xd) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-3ca5346bf01461347b63a494efeed797]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xe)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xe/aa) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-9d255b3b0469ce0a8093a0c80666988f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xe)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xe/bb) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-73b4506524aec3fc9942c3e2957fb64c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xf)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xf) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-865b57b2ce97d481b9032660cc1f45f5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xg)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xg/aa) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-26b6fe71d6d34305dcc9160b31645004]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xg)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xg/bb) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-a35dfd8d8bd1569e525716acb1242abc]: Textual amendment: Words in reg. 2(1) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(2)(e)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/2/e)
+
+[^key-146c506f5ba9d854c8a4113faf0c1955]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xh)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xh) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ix))
+
+[^key-7e1f6e0b17f1e6358626dbbed872a834]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) inserted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(2)(a)(xi)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xi); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20273851]: Marginal citation: O.J. L 193, 22.7.2008, p.1, as amended by Commission Regulation (EC) No. 823/2009, O.J. L 239, 10.9.2009, p.46 and Commission Regulation (EC) No. 17/2010, O.J. L 7, 12.1.2010, p.1.
+
+[^key-b2f323a896443b30663d12371bfb2cb0]: Textual amendment: Words in reg. 2(1) omitted (1.7.2016) by virtue of [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(2)(f)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/2/f)
+
+[^key-ccdfb586145b02142f4781f5d60c001e]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(2)(a)(xii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-2eb44557036112acf258c93037e5e18d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xiii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xiii) (as inserted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(x)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/x))
+
+[^key-f85521f3fd7fd30dca5b0b0368e8b9ab]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/1) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(a)(xiv)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/a/xiv) (as inserted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(x)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/x))
+
+[^key-e1c6af6ac98019335d9e52c4735e97b2]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/3/a) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/b/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/b/i))
+
+[^key-2bd1e8f5e4d62abf88f6c3c1eb1aee5b]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/3/b) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/b/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/b/ii))
+
+[^key-799885ca24934199e8a0ff04fd1da967]: Textual amendment: Words in [reg. 2(4)(a)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/4/a) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/b/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/b/i))
+
+[^key-af58fc248208221474b44dd934c9eb48]: Textual amendment: Words in [reg. 2(4)(b)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/4/b) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/b/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/b/ii))
+
+[^key-0b78331f5929dd16e70b937348388656]: Textual amendment: Words in [reg. 2(5)(a)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/5/a) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(c)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/c/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(c)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/c/i))
+
+[^key-864545bafcd2e1d6ca943b6aabafc242]: Textual amendment: Word in [reg. 2(5)(c)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/5/c) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(2)(c)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/c/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-991e6852989b9147e2f210d2ece6556e]: Textual amendment: Words in [reg. 2(5)(c)](https://www.legislation.gov.uk/ssi/2010/148/regulation/2/5/c) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(2)(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/2/c/ii/bb) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/c/ii))
+
+[^key-6dff7cac5d2837d6e73d0fe3c79eca1b]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/4/2) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(3)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dbd644d5e00735f4fe74bed858616933]: Textual amendment: Words in [reg. 6(1)(b)(i)](https://www.legislation.gov.uk/ssi/2010/148/regulation/6/1/b/i) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(4)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/4/a) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/a))
+
+[^key-b1cf4a2a8921de15b060505411fd06d1]: Textual amendment: Words in [reg. 6(2)(c)](https://www.legislation.gov.uk/ssi/2010/148/regulation/6/2/c) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(4)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-157b6e17796c28e77590c90a2b572edc]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/ssi/2010/148/regulation/6/4) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(4)(ba)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/4/ba) (as inserted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/b))
+
+[^key-82eca4400612c260a933233598dead57]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/ssi/2010/148/regulation/6/5) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(4)(c)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1877f9a993c10eb8c6c7e2682deb469e]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/ssi/2010/148/regulation/6/6) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(4)(e)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/4/e/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/d))
+
+[^key-df6b787b025f4d502db09269df7e6cf0]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/ssi/2010/148/regulation/6/6) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(4)(e)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/4/e/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/d))
+
+[^key-ae0a6992df1d540d0ed6d87daeb20d13]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/ssi/2010/148/regulation/6A) inserted (28.3.2019) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a), [6(4)](https://www.legislation.gov.uk/ssi/2019/59/regulation/6/4)
+
+[^key-635f6f479cc9d9146fed87276f728b13]: Textual amendment: Words in [reg. 6A](https://www.legislation.gov.uk/ssi/2010/148/regulation/6A) heading substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(5)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/5/a) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/4))
+
+[^key-42d8af2ed55003edea5e989960ec5957]: Textual amendment: Words in [reg. 6A](https://www.legislation.gov.uk/ssi/2010/148/regulation/6A) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(5)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/5/b) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/4))
+
+[^key-a8a150c4f8d3d7cd0366b6263d6a8cab]: Textual amendment: [Reg. 7(1)-(1B)](https://www.legislation.gov.uk/ssi/2010/148/regulation/7/1) substituted for reg. 7(1) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(6)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/6) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6c7c60d49808dfef84f231030c6db6c3]: Textual amendment: [Reg. 8(1)(b)](https://www.legislation.gov.uk/ssi/2010/148/regulation/8/1/b) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(7)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/7/a) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/6/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-99d602057446d2eb5aba5688cfda4f65]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/ssi/2010/148/regulation/8/4) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(7)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/7/b) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/6/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f0f47f2ca63ef21bbeadfd96188b50b1]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/9/1) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(8)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/8/a) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1f7502f5db5c3cc2cf38ec248b6a6442]: Textual amendment: [Reg. 9(4)(a)](https://www.legislation.gov.uk/ssi/2010/148/regulation/9/4/a) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(8)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/8/b/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/b))
+
+[^key-b6981fccf14d002920a86bbd5e6f9787]: Textual amendment: [Reg. 9(4)(b)](https://www.legislation.gov.uk/ssi/2010/148/regulation/9/4/b) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(8)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/8/b/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/b))
+
+[^key-9eadc2cd93c30f5469af436fa53f14cb]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/ssi/2010/148/regulation/9/6) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(8)(c)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-28e0497c40c0379e3e5fb3c6b47e4f1b]: Textual amendment: Words in [reg. 9(9)](https://www.legislation.gov.uk/ssi/2010/148/regulation/9/9) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(8)(d)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/8/d) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/c))
+
+[^key-db8715c47025198f381bf639ee1ee33c]: Textual amendment: Words in [reg. 9(10)](https://www.legislation.gov.uk/ssi/2010/148/regulation/9/10) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(8)(e)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/8/e) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/d))
+
+[^key-14cacf49a2349e95c6f6156b19c3c708]: Textual amendment: [Reg. 10(7A)](https://www.legislation.gov.uk/ssi/2010/148/regulation/10/7A) inserted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(9)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/9) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(8)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8bcd9763d108c6ff63cf8318888e980d]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2010/148/regulation/11/1) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(10)(a)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/10/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dce34a6127e894c42bd09fcc0b4b59ac]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/ssi/2010/148/regulation/11/1/b) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(10)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/10/a/ii) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(9)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/9/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-64dbc34096e47f4e464f0bd90b4e493b]: Textual amendment: [Reg. 11(1)(c)(ii)](https://www.legislation.gov.uk/ssi/2010/148/regulation/11/1/c/ii) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(10)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/10/a/iii) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(9)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/9/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ed411fed27b9b89d1f96574247fc5d36]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2010/148/regulation/11/3) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(10)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/10/b) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(9)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/9/b))
+
+[^key-b4d2634000fc77b5ae7066a9aa36c121]: Textual amendment: Words in [reg. 12(1)(a)](https://www.legislation.gov.uk/ssi/2010/148/regulation/12/1/a) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(11)(a)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/11/a/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(10)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/10/a))
+
+[^key-d014b5e11933841783a7330f9f049680]: Textual amendment: [Reg. 12(1)(b)](https://www.legislation.gov.uk/ssi/2010/148/regulation/12/1/b) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/11/a/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(10)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/10/a))
+
+[^key-ef8ce74d4868e15832ef05c103489165]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2010/148/regulation/12/3) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(11)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/11/b/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/10/b))
+
+[^key-48f4009c17eb8d546d0b6e91ae4fc11f]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2010/148/regulation/12/3) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(11)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/11/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7a10787c5805916aa9274b07677fcfe8]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/ssi/2010/148/regulation/12/4) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(11)(c)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/11/c) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(10)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/10/c))
+
+[^key-9d2dbcfe37af6a320f06d0c1046ba252]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/ssi/2010/148/regulation/14A) inserted (28.3.2019) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a), [6(5)](https://www.legislation.gov.uk/ssi/2019/59/regulation/6/5)
+
+[^key-88b349f8dac77d403c0169e5e485b259]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/ssi/2010/148/regulation/15/3) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(12)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/12/a) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(11)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/11))
+
+[^key-cc094e0ec058b1e2f224001722b05e01]: Textual amendment: Words in [reg. 15(4)(d)](https://www.legislation.gov.uk/ssi/2010/148/regulation/15/4/d) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(12)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/12/b) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(11)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/11))
+
+[^key-5abe4b116a4f3bcd97abab39f0253708]: Textual amendment: Words in [reg. 16(1)(c)](https://www.legislation.gov.uk/ssi/2010/148/regulation/16/1/c) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(13)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/13) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(12)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/12))
+
+[^key-8b79be0fc7a494981232364919b6cc78]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/ssi/2010/148/regulation/16/5) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(13)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/13) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(12)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/12))
+
+[^key-43cca70a389ae32c064338f0305d0898]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/ssi/2010/148/regulation/16/6) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(13)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/13) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(12)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/12))
+
+[^key-a21b86d6d17ae0f086570566fdf8a9ec]: Textual amendment: Words in [reg. 17(1)(a)](https://www.legislation.gov.uk/ssi/2010/148/regulation/17/1/a) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(14)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/14) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(13)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/13))
+
+[^key-119ef02e94709f4c4b239499e74674a8]: Textual amendment: [Reg. 18(2)(b)](https://www.legislation.gov.uk/ssi/2010/148/regulation/18/2/b) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(15)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/15/a) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(14)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/14/a))
+
+[^key-e74a6457e5be9a2435d1ca512518e7a8]: Textual amendment: Word in [reg. 18(5)](https://www.legislation.gov.uk/ssi/2010/148/regulation/18/5) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(15)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/15/b/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(14)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/14/b))
+
+[^key-6974f8b5616eaf93c6149c71ab52a8b9]: Textual amendment: [Reg. 18(5)(b)](https://www.legislation.gov.uk/ssi/2010/148/regulation/18/5/b) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(3)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/3)
+
+[^key-59e5e5cc28fe69c0f0ebf33bc2b39795]: Textual amendment: Words in [reg. 18(5)(b)](https://www.legislation.gov.uk/ssi/2010/148/regulation/18/5/b) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(15)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/15/b/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(14)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/14/b))
+
+[^key-2e451356f33f7f97c4540ecb88b8db57]: Textual amendment: Word in [reg. 18(6)](https://www.legislation.gov.uk/ssi/2010/148/regulation/18/6) omitted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(15)(c)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/15/c) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(14)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/14/b))
+
+[^key-3665edb00e4b4706f88db45f927fe028]: Textual amendment: Word in [reg. 19(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/19/2) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(16)(a)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/16/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-30d9cb69ab9d389052f7eaa7d269acd9]: Textual amendment: [Reg. 19(2)(b)](https://www.legislation.gov.uk/ssi/2010/148/regulation/19/2/b) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(16)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/16/a/ii) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(15)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-47676345479164fb5199342185e80c63]: Textual amendment: Word in [reg. 19(10)](https://www.legislation.gov.uk/ssi/2010/148/regulation/19/10) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(16)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c8716999b2f6e2fd31b36c6f9685b141]: Textual amendment: Words in [reg. 19(15)](https://www.legislation.gov.uk/ssi/2010/148/regulation/19/15) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(16)(c)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/16/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cb3a723d80880cd1ad8341d72ca0b53b]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/ssi/2010/148/regulation/20) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(17)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20273891]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-721e64b2b21f0e7bbe49d5fe6dcfe809]: Textual amendment: Reg. 22(2)(a) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(4)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/4)
+
+[^c20273901]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); section 15 was amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [Sch](https://www.legislation.gov.uk/ukpga/2003/21/schedule)edule 17, paragraph 158. Section 15 provides that “**electronic communication**” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)- (a) by means of an electronic communications network; or (b) by other means but while in an electronic form.
+
+[^key-06af49f11bf3a225697920784f3f5468]: Textual amendment: [Regs. 23A](https://www.legislation.gov.uk/ssi/2010/148/regulation/23A), [23B](https://www.legislation.gov.uk/ssi/2010/148/regulation/23B) inserted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(18)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/18) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(16)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c20273911]: Marginal citation: S.S.I. 2007/536.
+
+[^c20273921]: Marginal citation: S.S.I. 2010/67.
+
+[^key-abb819420b70ec632361ede981ccfb37]: Textual amendment: [Sch. 1 Pt. 2 para. 2(c)(ii)](https://www.legislation.gov.uk/ssi/2010/148/schedule/1/part/2/paragraph/2/c/ii) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(19)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/19/a) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(17)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/17/a))
+
+[^key-d2a7917605402157f5f6ad447729250e]: Textual amendment: [Sch. 1 Pt. 2 para. 3(c)(ii)](https://www.legislation.gov.uk/ssi/2010/148/schedule/1/part/2/paragraph/3/c/ii) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(19)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/19/b) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(17)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/17/b))
+
+[^key-b11816862ac28eb1aab493e1c30c2e88]: Textual amendment: [Sch. 1 Pt. 2 para. 4(b)(ii)](https://www.legislation.gov.uk/ssi/2010/148/schedule/1/part/2/paragraph/4/b/ii) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(19)(c)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/19/c) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(17)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/17/c))
+
+[^key-8b8668b5629f04e72970f82214cd8337]: Textual amendment: Words in [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2010/148/schedule/2/paragraph/1) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(20)(a)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/20/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7de920cd7159feaaa1c314e0621f016a]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2010/148/schedule/2/paragraph/4) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(20)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/20/a/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(18)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/18/a/i))
+
+[^key-75734f631a99239e525cfa297ffc6947]: Textual amendment: Words in [sch. 2 para. 7(d)](https://www.legislation.gov.uk/ssi/2010/148/schedule/2/paragraph/7/d) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(20)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/20/b) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(18)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/18/b))
+
+[^key-b79ad810042ce3a1a87a7b6082acd2e7]: Textual amendment: Words in [sch. 3 para. 1(b)](https://www.legislation.gov.uk/ssi/2010/148/schedule/3/paragraph/1/b) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(5)(a)(i)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/5/a/i)
+
+[^key-172468c7ec34427620dfbce20c6bbce5]: Textual amendment: Words in [sch. 3 para. 2(b)](https://www.legislation.gov.uk/ssi/2010/148/schedule/3/paragraph/2/b) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/5/a/ii)
+
+[^key-a2851cbce56e2ca953ebcfb41df142f7]: Textual amendment: Words in [sch. 4 para. 2(1)](https://www.legislation.gov.uk/ssi/2010/148/schedule/4/paragraph/2/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(21)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/21/a) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/19))
+
+[^key-0d3a15542020f2e302262bf2177fc575]: Textual amendment: Words in [sch. 4 para. 5(2)](https://www.legislation.gov.uk/ssi/2010/148/schedule/4/paragraph/5/2) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(21)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/21/b) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/19))
+
+[^key-91b0d96b7a3af1d686dbb6023ae52ab9]: Textual amendment: Words in [sch. 6 para. 3(a)(i)](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/3/a/i) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 4(5)(b)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4/5/b)
+
+[^key-db237ec202bec08b088ec634d446c833]: Textual amendment: Words in [sch. 6 para. 4](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/4) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(22)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e08ccacfb494ac8c195adfc10b48af41]: Textual amendment: Word in [sch. 6 para. 5(a)(i)](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/5/a/i) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(22)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/b/i) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f68e1931ca373fd0b2a99f765a167774]: Textual amendment: Words in [sch. 6 para. 5(a)(ii)](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/5/a/ii) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(22)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a3d3ced544aa164eeac222b73548611e]: Textual amendment: [Sch. 6 para. 5(a)(iia)](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/5/a/iia) inserted (31.3.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2016/434/regulation/6/3/a)
+
+[^key-f76c3ea354a18017a92899d5fe4468d8]: Textual amendment: Words in [sch. 6 para. 6(a)(ii)](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/6/a/ii) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(22)(c)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/c/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/b))
+
+[^key-2fe9cd7ed3e459668c46a19ef4d5452a]: Textual amendment: [Sch. 6 para. 6(a)(iia)](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/6/a/iia) inserted (31.3.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2016/434/regulation/6/3/b)
+
+[^key-904a67a7796e15feece31925f176c46b]: Textual amendment: Words in [sch. 6 para. 6(a)(vii)](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/6/a/vii) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(22)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/c/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/b))
+
+[^key-0dcf1fc656a1a33d9ad5a63c73ff5f85]: Textual amendment: Word in [sch. 6 para. 7(1)(a)(i)](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/7/1/a/i) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(22)(d)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/d/i) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-821a1ba33dff3d569fd9dc7e89842037]: Textual amendment: [Sch. 6 para. 7(2)](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/7/2) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(22)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/d/ii) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-cc5b1542ebaa6b5fbc8509887183734f]: Textual amendment: Word in [sch. 6 Pt. 3](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/part/III) heading omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(22)(e)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/e/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-872922705f717a879ee9842c6e3b2e3d]: Textual amendment: Word in [sch. 6 para. 11](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/11) heading omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(22)(e)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/e/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-452771fcfd6482c214d347e039478043]: Textual amendment: Word in [sch. 6 para. 11](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/11) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(22)(e)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/e/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-05184acb8879cb030af1e30a40f1257f]: Textual amendment: Words in [sch. 6 para. 11](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/11) substituted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [15(22)(e)(ii)(cc)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/e/ii/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8c2d2a72c527f909bf41f43c9228a5a1]: Textual amendment: Words in [sch. 6 Pt. 5](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/part/5) heading substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(22)(f)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/f/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/d))
+
+[^key-d7dddcbd5b0960284b0cc96feb8336dc]: Textual amendment: Words in [sch. 6 para. 13](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/13) heading substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(22)(f)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/f/ii/aa) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/d))
+
+[^key-de5313b00b349b3919978dbee57b35e5]: Textual amendment: Words in [sch. 6 para. 13](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/13) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(22)(f)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/f/ii/bb) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/d))
+
+[^key-0bc70f40dd76a74f1e4fe80a0d23c3f7]: Textual amendment: Words in [sch. 6 para. 17](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/17) heading substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(22)(g)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/g/i) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/e))
+
+[^key-abedce4db49f61fd02901074328c5089]: Textual amendment: Word in [sch. 6 para. 17](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/17) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(22)(g)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/g/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/e))
+
+[^key-f64521b80c093bdcb1c35118c04a96f3]: Textual amendment: Word in [sch. 6 para. 17](https://www.legislation.gov.uk/ssi/2010/148/schedule/6/paragraph/17) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 15(22)(g)(iii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/15/22/g/iii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/e))

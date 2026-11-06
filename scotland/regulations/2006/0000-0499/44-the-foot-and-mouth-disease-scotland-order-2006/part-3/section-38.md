@@ -1,0 +1,25 @@
+---
+title: The Foot-and-Mouth Disease (Scotland) Order 2006, section 38
+act: The Foot-and-Mouth Disease (Scotland) Order 2006
+section: '38'
+status: revised
+text_date: '2021-12-30'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2006/44/section/38
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Foot-and-Mouth Disease (Scotland) Order 2006, section 38
+
+> Text as at 2021-12-30.
+>
+> Extent: Scotland.
+
+## 38. Measures applicable in restricted zones
+
+*Extent: S*
+
+(1) The measures in Schedule 6 to this Order apply to a restricted zone in addition to any requirements or restriction applying in any part of it because of a zone listed in paragraph 37(6).
+
+(2) The Scottish Ministers may declare that any other measure they think fit so as to prevent the spread of disease applies in respect of the whole or any part of any restricted zone and any such measure shall then apply in respect of that restricted zone or that part of it.

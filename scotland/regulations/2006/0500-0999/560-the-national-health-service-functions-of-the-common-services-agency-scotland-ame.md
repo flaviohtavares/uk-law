@@ -1,0 +1,82 @@
+---
+title: The National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2006
+id: ssi/2006/560
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-11-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2006/560
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2006/560/pdfs/ssien_20060560_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/560/pdfs/ssi_20060560_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/560/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 560
+
+NATIONAL HEALTH SERVICE
+
+The National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2006
+
+Made
+
+23rd November 2006
+
+Coming into force
+
+18th December 2006
+
+The Scottish Ministers, in exercise of the powers conferred by section 10(4) of the National Health Service (Scotland) Act 1978[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the National Health Service (Functions of the Common Services Agency) (Scotland) Amendment Order 2006 and shall come into force on 18th December 2006.
+
+(2) In this Order “the principal Order” means the National Health Service (Functions of the Common Services Agency) (Scotland) Order 1974[^f00002].
+
+## 2. Amendment of article 3 of the principal Order
+
+In article 3 of the principal Order–
+
+- (a) in sub-paragraph (c) after the words “Health Boards” insert “other than where the Health Protection Agency is exercising functions under the Health Protection Agency (Scottish Health Functions) Order 2006[^f00003]”; and
+- (b) after sub-paragraph (o) there is added–
+
+  > - (p) the power of the Scottish Ministers under section 40(1) of the National Health Services (Scotland) Act 1978 to make arrangements with medical practitioners for the vaccination or immunisation of persons against yellow fever, either by medical practitioners or by persons acting under their control.
+
+  .
+
+LEWIS MACDONALD
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+23rd November 2006
+
+(This note is not part of the Order)
+
+This Order further amends the National Health Service (Functions of the Common Services Agency) (Scotland) Order 1974 (“the principal Order”). It comes into force on 18th December 2006.
+
+Article 2 of this Order amends article 3(c) of the principal Order, under which the function of the provision of information, advisory and management services in support of the functions of the Scottish Ministers and Health Boards is conferred on the Common Services Agency. The amendment to article 3(c) of the principal Order reflects the new arrangements for Scotland in relation to the provision of chemical advisory services, poisons advisory services and emergencies advisory and support services, whereby the provision of those services will be carried out not only by the Common Services Agency but also by the Health Protection Agency. The relevant functions relating to the provision of chemical advisory, poisons advisory services and emergencies advisory and support services have been conferred on the Health Protection Agency by the Scottish Ministers under the Health Protection Agency (Scottish Health Functions) Order 2006 ([S.S.I. 2006/559](https://www.legislation.gov.uk/ssi/2006/559)), made under section 2(7) of the Health Protection Agency Act 2004. That amending order also comes into force on 18th December 2006.
+
+Article 2 of this Order also adds a new sub paragraph (p) to article 3 of the principal order conferring on the Common Services Agency the power of the Scottish Ministers under section 40(1) of the National Health Service (Scotland) Act 1978 to make arrangements with medical practitioners for the vaccination or immunisation of persons against yellow fever, either by medical practitioners or by persons acting under their control; the Scottish Ministers will retain that power under section 40(1) in relation to any other disease. The addition of article 3(p) of the principal Order enables the designation of medical practices as yellow fever centres to be carried out by the Common Services Agency instead of by the Scottish Ministers.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); section 10(4) was amended by the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), section 66(2) and Schedule 10 and by the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), section 65(1) and Schedule 4, paragraph 44. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: S.I. [1974/467](https://www.legislation.gov.uk/uksi/1974/467); amended by S.I. [1991/900](https://www.legislation.gov.uk/uksi/1991/900), [S.S.I. 2000/224](https://www.legislation.gov.uk/ssi/2000/224), [S.S.I. 2003/159](https://www.legislation.gov.uk/ssi/2003/159) and [S.S.I. 2003/306](https://www.legislation.gov.uk/ssi/2003/306).
+
+[^f00003]: Footnote: [S.S.I. 2006/559](https://www.legislation.gov.uk/ssi/2006/559).

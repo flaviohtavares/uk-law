@@ -1,0 +1,793 @@
+---
+title: The Beef and Pig Carcase Classification (Scotland) Regulations 2010
+id: ssi/2010/330
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-09-14'
+text_date: '2026-02-14'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/330
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/330/pdfs/ssien_20100330_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/330/pdfs/ssi_20100330_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/330/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Beef and Pig Carcase Classification (Scotland) Regulations 2010
+
+> Text as at 2026-02-14.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 330
+
+Agriculture
+
+The Beef and Pig Carcase Classification (Scotland) Regulations 2010
+
+Made
+
+14th September 2010
+
+Laid before the Scottish Parliament
+
+17th September 2010
+
+Coming into force
+
+*9*th October 2010
+
+The Scottish Ministers, make the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c20454651] and all other powers enabling them to do so.
+
+The Regulations make provision for a purpose mentioned in that section and it appears to the Scottish Ministers that it is expedient for references to the following Regulations to be construed as references to those Regulations as amended from time to time—
+
+- (a) Council Regulation (EC) No. 1234/2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) [^c20454661]; and
+- (b) Commission Regulation (EC) No. 1249/2008 laying down detailed rules on the implementation of the Community scales for the classification of beef, pig and sheep carcases and the reporting of prices thereof [^c20454671].
+
+## PART 1 — GENERAL PROVISIONS
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Beef and Pig Carcase Classification (Scotland) Regulations 2010.
+
+(2) These Regulations come into force on 9th October 2010.
+
+(3) These Regulations extend to Scotland only.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1994 Regulations**” means the Pig Carcase (Grading) Regulations 1994 [^c20454681];
+- “**the 2004 Regulations**” means the Beef Carcase (Classification) (Scotland) Regulations 2004 [^c20454691];
+- “**adult bovine animal**” means a bovine animal aged eight months or more[^key-deb3da0e1f6621ae91a10b5c75c7e4d9];
+- “**approved slaughterhouse**” means an establishment used for slaughtering and dressing adult bovine animals or pigs, the meat of which is intended for human consumption, and which—
+  - (a) is approved or conditionally approved under Article 31(2) of Regulation (EC) No. 882/2004 of the European Parliament and of the Council on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules [^c20454701]; or
+  - (b) (although lacking the approval or conditional approval that it requires under Article 4(3) of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^c20454711]) was, on 31st December 2005, operating as a licensed slaughterhouse under the Fresh Meat (Hygiene and Inspection) Regulations 1995 [^c20454721];
+- “**authorised officer**” means a person authorised by the Scottish Ministers for the purposes of these Regulations, but does not include a person appointed for the purpose of carrying out a review under regulation 10;
+- “**bovine carcase**” means a carcase or half-carcase of a slaughtered adult bovine animal bearing a health mark as defined in Article 3(51) of the Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products[^key-b836c3d0ae0f857f4022e3761ee92798]; and in this definition, “**carcase**” means the whole body as presented after bleeding, evisceration and skinning, and “**half-carcase**” means the product obtained by separating such a carcase symmetrically through the middle of each cervical, dorsal, lumbar and sacral vertebra and through the middle of the sternum and the ischiopubic symphysis;
+- “classification” except as otherwise indicated in regulation 5, means—
+  - (a) the classification of bovine carcases in accordance with the assimilated[^key-ec884803c0727bf360bbe6f7db636d29][^key-51dc69de5736395e6ec12559fccea1b1] beef provisions; or
+  - (b) the classification of pig carcases in accordance with the assimilated[^key-1808622dda8a451022617382b997221e] pig provisions,
+
+  as the case may be, and cognate terms are to be construed accordingly;
+- “**clean pig**” means a pig which has not been used for breeding;
+- “Commission Delegated Regulation” means Commission Delegated Regulation ([^key-808e4458a2c04666ee6734f414f136e4]EU) 2017/1182 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig, and sheep carcasses and as regards the reporting of market prices of certain categories of carcasses and live animals, as amended from time to time;
+- “Commission Implementing Regulation” means Commission Implementing Regulation ([^key-c7ff05d0b66fd145a984a29aa7f0ee61]EU) 2017/1184 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcasses and as regards the reporting of market prices of certain categories of carcasses and live animals, as amended from time to time;
+- “Council Regulation” means Regulation ([^key-835344d810baa95e250d724f169dcf30]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/eur/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/eur/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/eur/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234), as amended from time to time;
+- “**operator**” means a person carrying on the business of an approved slaughterhouse;
+- “**pig carcase**” means the body of a slaughtered clean pig, bled and eviscerated, whole or divided down the mid-line; [^key-05b3146174089784767689df733187a9]...
+- “**prescribed communication**” means a communication of the results of classification as required by Article 1(1) of the Commission Implementing Regulation (communication of classification results); and[^key-e43ed1230f8a69010c8cb7dfd0214f73]
+- “qualified personnel” means persons who are using a grading technique provided for in Article 11 of the Commission Delegated Regulation and who are proficient in the use of that grading technique.[^key-9f1e3eef5b4927ded174ff1f5c102cd4]
+- [^key-73121fbf423c00426cf6d6363d533fa9]“ **assimilated beef provision**” means a provision which is specified in column 1 of Schedule 1, the subject matter of which is described in column 2 of that Schedule;
+- “ **assimilated pig provision**” means a provision which is specified in column 1 of Schedule 2, the subject matter of which is described in column 2 of that Schedule;
+
+(2) Other terms used in these Regulations that are also used in the Commission Delegated Regulation, the Commission Implementing Regulation[^key-1aaf84339cd5776aa89f1de42a8883fa] or the Council Regulation have the meaning they bear in those Regulations.
+
+### 3. Notices
+
+(1) Any notice required or authorised under these Regulations to be given to any person must be in writing.
+
+(2) Any such notice may be given by—
+
+- (a) delivering it to the person;
+- (b) by leaving it at the person's proper address; or
+- (c) sending it by post to the person at the person's proper address.
+
+(3) Where any such notice is to be given to a body corporate, it may be given to a relevant individual.
+
+(4) For the purposes of this regulation and section 7 of the Interpretation Act 1978 [^c20454741] (references to service by post) in its application to this regulation, the proper address of any person to whom a notice is to be given is the person's last known address, except in the case of a body corporate or relevant individual, where the proper address is the address of the registered or principal office of the body, or in the case of the Scottish Ministers where the proper address is such address as they may specify for these purposes.
+
+(5) In paragraphs (3) and (4) “**relevant individual**” means—
+
+- (a) in relation to a body corporate—
+  - (i) a director, manager, secretary, or other similar officer of the body;
+  - (ii) where the affairs of the body are managed by its members, the members;
+- (b) in relation to a Scottish partnership, a partner;
+- (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+## PART 2 — NOTIFICATIONS BY OPERATORS
+
+### 4. Notifications by operators
+
+(1) Every person who on the date on which these Regulations come into force is, or who on a subsequent date becomes, an operator, must within 28 days of that date give notice to the Scottish Ministers of the particulars specified in paragraph (3).
+
+(2) A person who has given notice under—
+
+- (a) regulation 4(1) or (2) of the 1994 Regulations; or
+- (b) regulation 4(1) of the 2004 Regulations,
+
+is deemed to have given notice under paragraph (1).
+
+(3) The particulars referred to in paragraph (1) are—
+
+- (a) the full name and address of the operator;
+- (b) where the operator is a partnership, the full names and addresses of all the partners;
+- (c) where the operator is a body corporate, the full name, registered office address and registration number of the body; and
+- (d) the address, telephone number and approval number of the slaughterhouse.
+
+(4) Where any change occurs in any of the particulars specified in paragraph (3), the operator must within 28 days of the change give notice to the Scottish Ministers of particulars of the change.
+
+(5) Where an operator (“O”) ceases to be the operator of an approved slaughterhouse, O must within 10 days of such cessation give notice to the Scottish Ministers of—
+
+- (a) the date of such cessation; and
+- (b) the person (if any) succeeding O as operator of that slaughterhouse.
+
+(6) Where an approved slaughterhouse ceases to be such a slaughterhouse its operator must within 10 days of such cessation give notice to the Scottish Ministers of the date of such cessation.
+
+## PART 3 — BOVINE CARCASES
+
+### 5. Application of these Regulations to small-scale bovine operators
+
+(1) These Regulations do not apply to a small-scale bovine operator if that operator does not classify bovine carcases.
+
+(2) But if a small-scale bovine operator chooses to classify bovine carcases, these Regulations apply in relation to that operator and the classification of those carcases.
+
+(3) In paragraphs (1) and (2), “**classify**” means classify in accordance with the assimilated[^key-051a2269185b1b071fae550849d7dcbf] beef provisions or otherwise than in accordance with those provisions, and “**classification**” is to be construed accordingly.
+
+(4) In this regulation, “**small-scale bovine operator**” means an operator of an approved slaughterhouse at which less than 150[^key-7fff71c875618bc344def4da2bb848ca] adult bovine animals per week as an annual average are slaughtered.
+
+(5) Nothing in this regulation prevents the application of these Regulations to an operator in relation to pig carcases if pigs are also slaughtered in that operator's slaughterhouse.
+
+### 6. Competent authority etc.: bovine carcases
+
+(1) The Scottish Ministers are the competent authority, in relation to adult bovine animals,[^key-17295a7db95919321f6f7dd06cbdffde] for the purposes of—
+
+- (za)[^key-8edd801d700f0d99edcb715bb1d7a9f2] Article 4(1) of the Commission Implementing Regulation (reports);
+- (a)[^key-af9bbc2a0e990b15f380c50bf44278ab] Article 10 of the Commission Delegated Regulation (authorisation of automated grading methods for beef carcases);
+- (b)[^key-acbc228b1b78ceca382aa0a70239cbb9] Article 12(2)(b) of the Commission Delegated Regulation (additional provisions on classification by automated grading techniques);
+- (c)[^key-423d28375800589bc16adcf728cac693] Article[^key-55029cbf7a424db031380296386c84d3] 14 of the Commission Implementing Regulation and Article 14 of the Commission Delegated Regulation (calculation and reporting of market prices); and
+- (d)[^key-5c81bb6a45f82cc2bac680dfb5353e60] Article 17(2) of the Commission Delegated Regulation (notification of supplementary payments).
+
+(2) The Scottish Ministers are responsible for on-the-spot checks, in relation to adult bovine animals, as described in Articles 2 and 3 of the Commission Implementing Regulation[^key-3c0a3ac4c1a0b2002c2487d19d5df1d8].
+
+### 7. Marking[^key-09267db8993719f7c472c422636cb42e]
+
+Bovine carcases need not be marked in accordance with Article 8(1), (2)(a), (3)(a), (4) and (5) of the Commission Delegated Regulation if all such carcases are cut, as a continuous operation, in a cutting plant approved in accordance with Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council, and attached to the slaughterhouse where the classification is carried out.
+
+### 8. Licence to carry out classification
+
+(1) The Scottish Ministers must grant a licence to carry out classification of bovine carcases to any person who applies for such a licence and who appears to the Scottish Ministers to be qualified to carry out classification, but the Scottish Ministers may refuse to grant such a licence if the Scottish Ministers are satisfied that the applicant is not a fit and proper person to carry out the classification of bovine carcases.
+
+(2) Where the Scottish Ministers grant a licence under paragraph (1), the Scottish Ministers may impose such conditions as they consider appropriate.
+
+(3) The Scottish Ministers may—
+
+- (a) vary a licence or any condition of a licence;
+- (b) revoke a licence in the circumstances mentioned in Article 4(2) of the Commission Implementing Regulation (revoking of licences and approvals)[^key-d96094d7018262deedc198c428f4d8eb];
+- (c) suspend or revoke a licence if the person has contravened any of the terms or conditions of that licence; or
+- (d) suspend or revoke a licence if the Scottish Ministers are satisfied that the person holding that licence is no longer a fit and proper person to carry out the classification.
+
+(4) Where the Scottish Ministers take any decision in relation to a licence under this regulation in respect of which there is a right to apply for a review under regulation 10, the Scottish Ministers must inform the person concerned of—
+
+- (a) the right to apply for a review; and
+- (b) the manner in which, and the time limits within which, such an application may be made.
+
+### 9. Licence for automated grading
+
+(1) The Scottish Ministers may grant to the operator of an approved slaughterhouse a licence authorising the use of automated grading methods[^key-e7b1160bc3713b5c2d9cb6bc9041d10b] for classification of bovine carcases at that slaughterhouse.
+
+(2) Where the Scottish Ministers grant a licence under paragraph (1), the Scottish Ministers may impose such conditions as they consider appropriate.
+
+(3) The Scottish Ministers may—
+
+- (a) vary a licence or any condition of a licence;
+- (b) revoke a licence in the circumstances mentioned in Article 4(2) of the Commission Implementing Regulation (revoking of licences and approvals)[^key-a38bb9fee0df94d3fe2a5b4fd9cac798];
+- (c) suspend or revoke a licence if the person has contravened any of the terms or conditions of that licence; or
+- (d) suspend or revoke a licence if the Scottish Ministers consider that the automated grading method[^key-2f969bec8affbc60dd9c91d7b74256fb] no longer meets the standards required by , in relation to bovine carcases, Article 10 of, and Annex[^key-627344c62bf9851cfb832587f857a839] IV to, the Commission Delegated Regulation (authorisation of automated grading methods for beef carcases), whether for reasons connected with the automated grading method[^key-9dfc599a49044602150cb8659a0f3a3f] itself or with the operator's manner of use of the automated grading method.
+
+(4) Where the Scottish Ministers take any decision in relation to a licence under this regulation in respect of which there is a right to apply for a review under regulation 10, the Scottish Ministers must inform the person concerned of—
+
+- (a) the right of appeal; and
+- (b) the manner in which, and the time limits within which, such an application may be made.
+
+### 10. Review of a decision by the Scottish Ministers
+
+(1) A licence holder or applicant may apply in writing to the Scottish Ministers for a review of a decision.
+
+(2) An application for review—
+
+- (a) must be made within 21 days after the date that notice of a decision is received by the licence holder or applicant; and
+- (b) may include any written explanation that the licence holder or applicant considers appropriate.
+
+(3) A decision which is the subject of an application for review shall, unless the Scottish Ministers direct otherwise in writing, have effect until the date of determination of that application.
+
+(4) The application for review shall be determined by the Scottish Ministers in accordance with paragraphs (5) to (10).
+
+(5) The Scottish Ministers shall appoint a person to carry out the functions in paragraph (8) (“**the appointed person**”).
+
+(6) The Scottish Ministers shall inform the licence holder or applicant in writing—
+
+- (a) of the name and address of the appointed person;
+- (b) of the role of that person; and
+- (c) that the licence holder or applicant may give a written explanation (or further explanation) to that person.
+
+(7) Any written explanation referred to in paragraph (6) shall be given to the appointed person within 14 days after the date of intimation to the licence holder or applicant under that paragraph.
+
+(8) The appointed person shall—
+
+- (a) examine the merits of the decision;
+- (b) consider any written explanation given by the licence holder or applicant;
+- (c) report to the Scottish Ministers following that examination; and
+- (d) include in that report such recommendation (if any) for determination of the application as the appointed person shall think fit.
+
+(9) The Scottish Ministers shall consider the report of, and any recommendation by, the appointed person and make a determination.
+
+(10) The Scottish Ministers shall inform the licence holder or applicant in writing of the result of the determination of the review.
+
+(11) In this regulation “**decision**” means—
+
+- (a) a decision by the Scottish Ministers to refuse an application for a licence under regulation 8 or 9;
+- (b) a decision by the Scottish Ministers to impose a term or condition in a licence granted under regulation 8 or 9; and
+- (c) a decision by the Scottish Ministers to revoke, suspend or vary a licence granted under regulation 8 or 9.
+
+### 11. Appeals
+
+(1) An applicant or licence holder may appeal to the sheriff against a determination of a review by the Scottish Ministers under regulation 10.
+
+(2) The Scottish Ministers may be a party to an appeal under this regulation.
+
+(3) An appeal under this regulation shall be made by way of summary application and shall be lodged with the sheriff clerk within the period of 28 days from the day on which the determination was made.
+
+(4) On good cause being shown, the sheriff may hear an appeal under this regulation notwithstanding that it was not lodged within the time mentioned in paragraph (3) above.
+
+(5) For the purposes of an appeal under this regulation, the sheriff may require the Scottish Ministers to give reasons for that decision, and the Scottish Ministers shall comply with such a requirement.
+
+(6) The sheriff may uphold an appeal under this regulation only if the sheriff considers that the Scottish Ministers, in arriving at their determination—
+
+- (a) erred in law;
+- (b) based their determination on any incorrect material fact;
+- (c) acted contrary to natural justice; or
+- (d) exercised their discretion in an unreasonable manner.
+
+(7) In considering an appeal under this regulation, the sheriff may hear evidence by or on behalf of any party to the appeal.
+
+(8) On upholding an appeal under this regulation, the sheriff may—
+
+- (a) remit the case with the reasons for such decision to the Scottish Ministers for reconsideration of their determination; or
+- (b) reverse or modify their determination.
+
+(9) On remitting a case under paragraph (8)(a) above, the sheriff may—
+
+- (a) specify a date by which the reconsideration by the Scottish Ministers must take place;
+- (b) modify any procedural steps which otherwise would be required in relation to the matter by or under any enactment (including these Regulations).
+
+(10) The sheriff may include in the decision on an appeal under this regulation such order as to the expenses of the appeal as the sheriff thinks proper.
+
+(11) The decision of the sheriff is final.
+
+### 12. Records: bovine carcases
+
+(1) An operator of an approved slaughterhouse must keep a record of the particulars specified in Schedule 3 relating to each bovine carcase which is classified in that slaughterhouse.
+
+(2) The operator must retain each record for a period of 2 years from the end of the calendar year to which the record relates.
+
+## PART 4 — PIG CARCASES
+
+### 13. Exemption for small-scale pig operators
+
+(1) These Regulations do not apply to an operator of an approved slaughterhouse at which less than 500[^key-74506c64ece325dc436a8559af56c937] clean pigs per week as an annual average are slaughtered.
+
+(2) Nothing in paragraph (1) prevents the application of these Regulations in relation to bovine carcases if adult bovine animals are also slaughtered in that operator's slaughterhouse.
+
+### 14. Competent authority etc.: pig carcases[^key-aa9ba4fbdbebd86220bc55dc4e4239f1]
+
+(1) The Scottish Ministers are the competent authority, in relation to pigs, for the purposes of—
+
+- (a) Article 4(1) of the Commission Implementing Regulation (reports);
+- (b) Article 7(4) of the Commission Delegated Regulation (classification and weighing);
+- (c) Article 12(2)(b) of the Commission Delegated Regulation (additional provisions on classification by automated grading techniques);
+- (d) Article 14 of the Commission Implementing Regulation and Article 14 of the Commission Delegated Regulation (calculation and reporting of market prices); and
+- (e) Article 17(2) of the Commission Delegated Regulation (notification of supplementary payments).
+
+(2) The Scottish Ministers are responsible for on-the-spot checks, in relation to pigs, as described in Articles 2 and 3 of the Commission Implementing Regulation.
+
+### 15. Marking[^key-81266b0f67b003298e74d798daccc7aa]
+
+Pig carcases need not be marked in accordance with Article 8(1), (2)(b), (3)(c), (4) and (5) of the Commission Delegated Regulation if an official record is drawn up and comprises for each carcase at least—
+
+- (a) the individual identification of the carcase by any unalterable means;
+- (b) the warm weight of the carcase; and
+- (c) the result of the classification.
+
+### 16. Records: pig carcases
+
+(1) An operator of an approved slaughterhouse must keep a record of the particulars specified in Schedule 4 relating to each pig carcase which is classified in that slaughterhouse.
+
+(2) The operator must retain each record for a period of 2 years from the end of the calendar year to which the record relates.
+
+## PART 5 — ENFORCEMENT, OFFENCES AND SUPPLEMENTAL PROVISIONS
+
+### 17. Powers of entry
+
+(1) An authorised officer may at any reasonable hour and on producing, if so required, a duly authenticated authorisation, enter an approved slaughterhouse and any associated premises in which carcases may be handled or records relating to those carcases may be kept, for the purpose of ascertaining whether—
+
+- (a) any offence under these Regulations is being or has been committed on the premises; or
+- (b) there is on the premises any evidence of any such offence.
+
+(2) The officer may be accompanied by such other persons as the officer considers necessary [^key-d4f3e64e5aaf83a270fe64766ddd7564]....
+
+(3) If a justice of the peace or sheriff, by evidence on oath, is satisfied that there is reasonable ground for entry into premises for any purpose in paragraph (1) and that either—
+
+- (a) admission to the premises has been refused, or a refusal is anticipated, and that notice of the intention to apply for a warrant has been given to the operator; or
+- (b) an application for admission, or the giving of such notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the operator temporarily absent,
+
+the justice of the peace or sheriff may by signed warrant authorise an authorised officer to enter the premises, if need be by reasonable force.
+
+(4) A warrant granted under this regulation remains in force for three months.
+
+(5) An officer who enters any unoccupied premises, or premises in which the operator is temporarily absent, must leave them as effectively secured against unauthorised entry as they were before entry.
+
+### 18. Powers of authorised officers
+
+An authorised officer entering premises under these Regulations may—
+
+- (a) inspect any bovine carcase or pig carcase or part of such a carcase, or any carcase or part of a carcase which the officer reasonably suspects to be a bovine carcase or pig carcase or part of such a carcase, on those premises;
+- (b) examine any record which an operator is required to keep under regulation 12 or 16 or under the Commission Delegated Regulation and the Commission Implementing Regulation[^key-dd5d06c97dacb4bb3fccdb6372497db5], and where any such record is kept by means of a computer, have access to and inspect and check the operation of any computer and associated apparatus or material which is or has been in use in connection with that record;
+- (c) require that copies of or extracts from any such record be produced and, where such record is kept by means of a computer, require it to be produced in a form in which it may be taken away; and
+- (d) retain any such record which the officer has reason to believe may be required as evidence in proceedings under these Regulations.
+
+### 19. Offences: assimilated beef provisions[^key-b5ecac3bc60d3654d1ff4e3504c9f5cc][^key-4213d61044cc6520a1bbb6f1159c4cd3]
+
+Subject to regulation 7 (marking), any person who, in relation a bovine carcase—
+
+- (a) fails to comply with any requirement under an assimilated[^key-eb32fe98c929263dbd733dd88ebc4189] beef provision; or
+- (b) contravenes any prohibition contained in an assimilated[^key-c9bbd59b236b2ffb924fd6635cf8c216] beef provision,
+
+commits an offence.
+
+### 20. Offences: assimilated pig provisions[^key-4532c42355b8b4261b5b234bffd17827]
+
+Subject to regulation 15 (records instead of marking), any person who—
+
+- (a) fails to comply with any requirement under an assimilated[^key-7b2429bfecd23d86cc451780ae308320] pig provision; or
+- (b) contravenes any prohibition contained in an assimilated[^key-e9a9eaf3d775b5b10c4f1bff4373d713] pig provision,
+
+commits[^key-9ebba0ac04cbf136267ec0670ae35385] an offence.
+
+### 21. Offences: notifications by operators
+
+Any person who fails to comply with any requirement of regulation 4 (notifications by operators) commits[^key-36d6406af4eba7c228f322e66658221b] an offence.
+
+### 22. Offences: licences (bovine carcases)
+
+(1) If classification of a bovine carcase is carried out at an approved slaughterhouse—
+
+- (a) without a licence granted under regulation 8; or
+- (b) in breach of any term or condition of such a licence,
+
+both the person who carries out the classification and the operator of that slaughterhouse commit an offence[^key-bcebf3f3428c9832ef1e6d057b2a1935].
+
+(2) If classification of a bovine carcase is carried out at an approved slaughterhouse by means of automated grading methods[^key-26f86251c3ee9137bbea4100719f30d3]—
+
+- (a) without a licence granted under regulation 9 for the use of that method[^key-3467441775d0e77e2f67b3bcd8737887] at that slaughterhouse; or
+- (b) in breach of any term or condition of such a licence,
+
+both the person who carries out the classification and the operator of that slaughterhouse commit an offence[^key-515c3e44593aa7fb9ff79dcfd3ed556b].
+
+(3) Any person who makes an alteration to a licence granted under regulation 8 or 9 with the intent to deceive commits[^key-92901efd296cbef7d470766d4441f168] an offence.
+
+### 22A. Offences: authorised grading methods (pig carcases)[^key-b38329eb0f13419b356c03ff156a8321]
+
+If classification of a pig carcase is carried out at an approved slaughterhouse—
+
+- (a) without using an authorised grading method provided for in Article 11 of the Commission Delegated Regulation; or
+- (b) without the operation of grading techniques, provided for in Article 11, by qualified personnel,
+
+both the person who carries out the classification and the operator of that slaughterhouse commit an offence.
+
+### 23. Offences: records and marks
+
+(1) Any person who fails to comply with any requirement of regulation 12 (records: bovine carcases) or regulation 16 (records: pig carcases) commits[^key-6734685449114633d3f1bc91054f7066] an offence.
+
+(2)[^key-06506aa7b47489d751d5fd734b4b6797] Any person who marks a bovine carcase, or part of such a carcase—
+
+- (a) as prescribed by Article 8(1), (2)(a), (3)(a), (4) and (5) of the Commission Delegated Regulation; or
+- (b) in a way closely resembling the marking prescribed by Article 8(1), (2)(a), (3)(a), (4) and (5) of the Commission Delegated Regulation,
+
+which is likely to mislead, commits an offence.
+
+(3)[^key-6ff77b4eb7d9ae5a7dfb1631d5f39b71] Any person who marks a pig carcase, or part of such a carcase—
+
+- (a) as prescribed by Article 8(1), (2)(b), (3)(c), (4) and (5) of the Commission Delegated Regulation; or
+- (b) in a way closely resembling the marking prescribed by Article 8(1), (2)(b), (3)(c), (4) and (5) of the Commission Delegated Regulation,
+
+which is likely to mislead, commits an offence.
+
+### 24. Offences: obstruction etc.
+
+Any person who—
+
+- (a) without reasonable excuse, intentionally obstructs any person acting under these Regulations;
+- (b) without reasonable excuse, fails to give any person acting under these Regulations any assistance or information that that person may reasonably require for the purpose of carrying out functions under these Regulations;
+- (c) gives any person acting under these Regulations any information knowing it to be false or misleading; or
+- (d) fails to produce any document or record when required to do so by any person acting under these Regulations;
+
+commits[^key-e8828d7e1b3e46f353663f8dac18f9b9] an offence.
+
+### 25. Period for bringing prosecution
+
+(1) Proceedings for an offence under regulation 19, 20, 21, 22, 22A,[^key-b01f64320602c87db891cabe4b47ce00] 23(1) or 24 may be brought within a period of 6 months from the date on which the procurator fiscal first knows of evidence sufficient, in the procurator fiscal's opinion, to justify proceedings.
+
+(2) But no such proceedings may be brought more than 12 months from the commission of the offence.
+
+(3) For the purposes of paragraph (1)—
+
+- (a) a certificate signed by or on behalf of the procurator fiscal and stating the date on which the procurator fiscal first knew of evidence sufficient to justify the proceedings is conclusive evidence of that fact; and
+- (b) a certificate stating that matter and purporting to be so signed is deemed to be so signed unless the contrary is proved.
+
+### 26. Offences by bodies corporate
+
+(1) Where—
+
+- (a) an offence under these Regulations has been committed by a body corporate or a Scottish partnership or other unincorporated association;
+- (b) it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+  - (i) a relevant individual; or
+  - (ii) an individual purporting to act in the capacity of a relevant individual,
+
+the individual as well as the body corporate, Scottish partnership or unincorporated association commits[^key-7084c96a4c850f6bdfcab1a8e00f1f9d] the offence and is liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1), “**relevant individual**” means—
+
+- (a) in relation to a body corporate—
+  - (i) a director, manager, secretary or other similar officer of the body;
+  - (ii) where the affairs of the body are managed by its members, the members;
+- (b) in relation to a Scottish partnership, a partner;
+- (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+### 27. Defence of due diligence
+
+It is a defence for a person charged with an offence under these Regulations (“P”) to prove that P took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by P or by a person under P's control.
+
+### 28. Offences: punishment
+
+(1) A person who commits[^key-5454610dcca38ab9f1ee97b5016a4390] an offence under—
+
+- (a) regulation 19 (assimilated[^key-a4682d600283f8f2910a1f4a17086aae] beef provisions);
+- (b) regulation 20 (assimilated[^key-fff9cf49b1c9ba685d0c980471f23d2a] pig provisions);
+- (c) regulation 21 (notifications by operators);
+- (d) regulation 22 (licences);
+- (da)[^key-0a01224bf04e3135c45b35a21b65a89a] regulation 22A (offences: authorised grading methods (pig carcases));
+- (e) regulation 23(1) (records); or
+- (f) regulation 24 (obstruction),
+
+is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) A person who commits[^key-8153e96d3cdbc8597cf32e57d79072ed] an offence under regulation 23(2) and (3)[^key-2b49a9c3cf3ed72341903b4dc91974dc] (misleading marks) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+### 29. Revocations
+
+The instruments specified in Schedule 5 are revoked.
+
+### 30. Transitional provisions
+
+(1) The revocation of the 2004 Regulations shall not affect the validity of any operator's licence issued under regulation 6 of the 2004 Regulations and the licence shall be treated for the purposes of these Regulations as if it were a licence granted under regulation 8 of these Regulations.
+
+(2) The revocation of the 2004 Regulations shall not affect the validity of any operator's licence issued under regulation 7 of the 2004 Regulations and the licence shall be treated for the purposes of these Regulations as if it were a licence granted under regulation 9 of these Regulations.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Executive
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — Assimilated beef provisions: bovine carcases[^key-344bc6a1f4191ef961c681fb6b8ebb09][^key-9dcd48a69e9f31cc1c1e4f22fa76500a]
+
+Regulation 2(1)
+
+| (1) Regulations containing assimilated[^key-4288e7d2e5695000e6cd86b67178cb05] provision | (2) Subject matter |
+| --- | --- |
+| Article 10 and Annex IV, point A(II), of the Council Regulation | Requirement to indicate the category of carcase |
+| Article 10 and Annex IV, point A(III), of the Council Regulation | Requirement to indicate, in relation to a carcase, the class of conformation and fat cover |
+| Article 10 and Annex IV, point A(IV), of the Council Regulation | Requirement to present carcases in the specified manner |
+| Article 10 and Annex IV, point A(V), first sub-paragraph, of the Council Regulation | Requirement for approved slaughterhouses to classify carcases in accordance with the United Kingdom[^key-e6e0ffae37d91af0ad4434e053c3f235] scale |
+| Article 3(1) of, and Annex I to, the Commission Delegated Regulation | Requirement as to the class of conformation and fat cover in relation to bovine carcases |
+| Article 6(1) of the Commission Delegated Regulation | Prohibition on removing fat, muscle or other tissue before weighing, classifying and marking |
+| Article 6(3) of the Commission Delegated Regulation | Requirement to present carcase in specified manner, for the purpose of establishing market prices |
+| Article 7(1) of the Commission Delegated Regulation | Requirement as to the place and time of classification |
+| Article 7(3)(a) of the Commission Delegated Regulation | Requirements as to the time of weighing, relevant to classification |
+| Article 7(5) of the Commission Delegated Regulation | Requirement as to time of classification in cases where automated grading method fails to classify carcase |
+| Article 8(1) of the Commission Delegated Regulation | Requirements as to timing of marking of carcases |
+| Article 8(2)(a) of the Commission Delegated Regulation | Requirements as to marking of carcases to indicate the category and class of conformation and fat cover |
+| Article 8(3)(a) of the Commission Delegated Regulation | Requirements as to location of marking on carcase |
+| Article 8(4) of the Commission Delegated Regulation | Requirement as to legibility of marking on carcase |
+| Article 8(5) of the Commission Delegated Regulation | Requirements in relation to labelling of a carcase |
+| Article 10(7) of the Commission Delegated Regulation | Prohibition on modifications of the technical specifications of licensed automatic grading methods without approval of the Scottish Ministers |
+| Article 12 of the Commission Delegated Regulation | Requirements as to classification by automated grading techniques |
+| Article 14(3) of the Commission Delegated Regulation | Requirement as to carcase weight to be taken into account for reporting market prices |
+| Article 14(4) of the Commission Delegated Regulation | Requirement as to the reporting of market prices per each class |
+| Article 17(2) of the Commission Delegated Regulation | Requirement as to notification of supplementary payments |
+| Article 1 of the Commission Implementing Regulation | Requirements as to prescribed communication |
+| Article 5(1), first and third subparagraphs, of and Annex to the Commission Implementing Regulation | Requirements concerning weighing of the carcase and adjustments to the weight in relation to bovine carcases aged eight months or more |
+| Article 7 of the Commission Implementing Regulation | Requirement as to classes for recording of market prices for beef carcases |
+| Article 8(1), (3), and (4) of the Commission Implementing Regulation | Requirement as to recording of market prices |
+
+## SCHEDULE 2 — Assimilated pig provisions: pig carcases[^key-363e389338be05c2e592cd8c9988938d][^key-a16066a059f274ee0ed6272c21a72a03]
+
+Regulation 2(1)
+
+| (1) Regulations containing assimilated[^key-52384466bd85db6239425059a033951c] provision | (2) Subject matter |
+| --- | --- |
+| Article 10 and Annex IV, point B(II) of the Council Regulation | Requirement to classify carcases into one of the specified classes |
+| Article 10 and Annex IV, point B(III), of the Council Regulation, and Articles 3 and 4 of Commission [Decision 2004/370/EC](https://www.legislation.gov.uk/european/decision/2004/0370) authorising methods for grading pig carcases in the United Kingdom | Requirement to present carcases in a manner specified in these provisions |
+| Article 10 and Annex IV, point B(IV), first subparagraph, of the Council Regulation, and Article 1 of, and Annex 1 to, Commission [Decision 2004/370/EC](https://www.legislation.gov.uk/european/decision/2004/0370) authorising methods for grading pig carcases in the United Kingdom | Requirement to grade carcases by authorised methods[^key-6c9f39ba3d44d944422c7da0fc4e082a] |
+| Article 6(1) of the Commission Delegated Regulation | Prohibition on removing fat, muscle, or other tissue before weighing, classifying and marking |
+| Article 7(1) of the Commission Delegated Regulation | Requirements as to the place and time of classification |
+| Article 7(3)(b) of the Commission Delegated Regulation | Requirement as to timing of weighing of carcase |
+| Article 7(4)(a) of the Commission Delegated Regulation | Requirements as to weight adjustments |
+| Article 8(1) of the Commission Delegated Regulation | Requirements as to timing of marking of carcases |
+| Article 8(2)(b) of the Commission Delegated Regulation | Requirements as to marking of carcases to indicate the class of carcase or estimated lean meat percentage |
+| Article 8(3)(c) of the Commission Delegated Regulation | Requirement as to location of marking on carcase |
+| Article 8(4) of the Commission Delegated Regulation | Requirement as to legibility of marking on carcase |
+| Article 8(5) of the Commission Delegated Regulation | Requirements in relation to labelling of a carcase |
+| Article 12 of the Commission Delegated Regulation | Requirements as to classification by automated grading techniques |
+| Article 14(3) of the Commission Delegated Regulation | Requirement as to carcase weight to be taken into account for reporting market prices |
+| Article 14(4) of the Commission Delegated Regulation | Requirement as to the reporting of market prices per each class |
+| Article 17(2) of the Commission Delegated Regulation | Requirement as to notification of supplementary payments |
+| Annex V, Part 2 of Part A, to the Commission Delegated Regulation | Requirements as to assessment of lean meat content of carcases |
+| Article 1 of the Commission Implementing Regulation | Requirements as to prescribed communication |
+| Article 9 of the Commission Implementing Regulation | Requirements as to classes and weights for recording of market prices for pig carcases |
+| Article 10 of the Commission Implementing Regulation | Requirement to record market prices for pigs |
+
+## SCHEDULE 3 — Records: bovine carcases
+
+Regulation 12(1)
+
+**1.** The results of the classification.
+
+**2.** The approval number of the slaughterhouse.
+
+**3.** The kill or slaughter number of the animal from which the carcase was obtained, as allocated by the operator.
+
+**4.** The date of slaughter.
+
+**5.** The weight of the carcase.
+
+**6.** The dressing specification used.
+
+**7.** A record that the prescribed communication has been effected.
+
+**8.** The name, signature and classification licence serial number of the person who carried out the classification.
+
+## SCHEDULE 4 — Records: pig carcases
+
+Regulation 16(1)
+
+**1.** The results of the classification.
+
+**2.** The approval number of the slaughterhouse.
+
+**3.** The kill or slaughter number of the animal from which the carcase was obtained, as allocated by the operator.
+
+**4.** The date of slaughter.
+
+**5.** The warm weight of the carcase, together with a note of—
+
+- (a) any adjustment made for the cold carcase weight, and
+- (b) any coefficient applied.
+
+**6.** The lean meat percentage of the carcase.
+
+**7.** An indication as to whether the tongue, flare fat, kidneys and diaphragm were attached or removed.
+
+**8.** The name and signature of the person who carried out the classification.
+
+## SCHEDULE 5 — Revocations
+
+Regulation 29
+
+| *Instruments revoked* | *References* |
+| --- | --- |
+| The Pig Carcase (Grading) Regulations 1994 | S.I. 1994/2155 |
+| The Pig Carcase (Grading) Amendment (Scotland) Regulations 2004 | S.S.I. 2004/279 |
+| The Beef Carcase (Classification) (Scotland) Regulations 2004 | S.S.I. 2004/280 |
+| The Beef Carcase (Classification) (Scotland) Amendment Regulations 2006 | S.S.I. 2006/118 |
+| The Pig Carcase (Grading) (Amendment) (Scotland) Regulations 2006 | S.S.I. 2006/451 |
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which apply in Scotland only, revoke and remake with amendments the provisions of the Pig Carcase (Grading) Regulations 1994 and the Beef Carcase (Classification) (Scotland) Regulations 2004 and their amending instruments. The Regulations enforce Article 42 of, and Annex V to, Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) (O.J. No. L 299, 16.11.2007, p.1), which relate to Community scales for the classification of carcases, and Commission Regulation (EC) No. 1249/2008 (O.J. No. L 337, 16.12.2008, p.3), which sets out further details regarding the implementation of those scales for the classification of carcases. The Regulations relate to the carcases of bovine animals and pigs.
+
+The Regulations provide for notifications to be made to the Scottish Ministers by operators of slaughterhouses which slaughter bovine animals or pigs (regulation 4).
+
+They contain provisions regarding the holding of licences by persons who classify bovine carcases or in relation to classification of such carcases by automated grading equipment (regulations 8 to 11).
+
+They require the keeping of certain records (regulations 12 and 16 and Schedules 3 and 4).
+
+Part 5 of the Regulations concerns enforcement, and makes provision relating to the powers of authorised officers. In particular regulations 19 and 20 provide that breach of specified provisions of European Union legislation (set out in Schedules 1 and 2) is an offence. All offences are punishable on summary conviction with a fine not exceeding level 5 on the standard scale, except offences under regulation 23(2) (misleading marks).
+
+Reference to the Council Regulation and the Commission Regulation are to be read as references to the text of these instruments as amended from time to time. “As amended” versions of the European instruments can be found on the Eur-Lex website (http://eur-lex.europa.eu/en/index.htm).
+
+A Business Regulatory Impact Assessment (BRIA) was prepared in respect of these Regulations. Copies of the BRIA can be obtained from the Scottish Government Rural and Environmental Directorate, B1 Spur, Saughton House, Broomhouse Drive, Edinburgh, EH11 3XD. Copies have been placed in the Scottish Parliament Information Centre.
+
+## Annotations
+
+[^c20454651]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“**the 2008 Act**”), Schedule 1, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act, Schedule 1, Part 1.
+
+[^c20454661]: Marginal citation: O.J. No. L 299, 16.11.2007, p.1, to which there are amendments not relevant to these Regulations.
+
+[^c20454671]: Marginal citation: O.J. No. L 337, 16.12.2008, p.3, to which there are amendments not relevant to these Regulations.
+
+[^c20454681]: Marginal citation: [S.I. 1994/2155](https://www.legislation.gov.uk/uksi/1994/2155), amended by [S.I. 2003/2949](https://www.legislation.gov.uk/uksi/2003/2949), 2004/106, 2006/2192 and 2008/576, and by S.S.I. 2003/565, 2004/279 and 2006/451.
+
+[^c20454691]: Marginal citation: [S.S.I. 2004/280](https://www.legislation.gov.uk/ssi/2004/280), amended by S.S.I. 2006/118.
+
+[^key-deb3da0e1f6621ae91a10b5c75c7e4d9]: Textual amendment: Words in reg. 2(1) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2018/182/regulation/3/a/i)
+
+[^c20454701]: Marginal citation: O.J. No. L 165, 30.4.2004, p.1. The revised text of the Regulation is contained in a corrigendum (O.J. No. L 191, 28.5.2004, p.1), and there are further amendments not relevant to these Regulations.
+
+[^c20454711]: Marginal citation: O.J. No. L 139, 30.4.2004, p.55. The revised text of the Regulation is contained in a corrigendum (O.J. No. L 226, 25.6.2004, p.22), and there are further amendments not relevant to these Regulations.
+
+[^c20454721]: Marginal citation: [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked in relation to England by [S.I. 2005/2059](https://www.legislation.gov.uk/uksi/2005/2059), in relation to Scotland by [S.S.I. 2005/505](https://www.legislation.gov.uk/ssi/2005/505) and in relation to Wales by [S.I. 2005/3292](https://www.legislation.gov.uk/uksi/2005/3292).
+
+[^key-b836c3d0ae0f857f4022e3761ee92798]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/2/1) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [27](https://www.legislation.gov.uk/ssi/2019/412/regulation/27)
+
+[^key-ec884803c0727bf360bbe6f7db636d29]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/2/1) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/a)
+
+[^key-51dc69de5736395e6ec12559fccea1b1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/2/1) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/73)](https://www.legislation.gov.uk/ssi/2019/73), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/73/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/73/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1808622dda8a451022617382b997221e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/2/1) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/73)](https://www.legislation.gov.uk/ssi/2019/73), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/73/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/73/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-808e4458a2c04666ee6734f414f136e4]: Textual amendment: Words in reg. 2(1) inserted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/3/a/ii)
+
+[^key-c7ff05d0b66fd145a984a29aa7f0ee61]: Textual amendment: Words in reg. 2(1) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/3/a/iii)
+
+[^key-835344d810baa95e250d724f169dcf30]: Textual amendment: Words in reg. 2(1) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [3(a)(iv)](https://www.legislation.gov.uk/ssi/2018/182/regulation/3/a/iv)
+
+[^key-05b3146174089784767689df733187a9]: Textual amendment: Word in reg. 2(1) omitted (11.7.2018) by virtue of [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [3(a)(v)](https://www.legislation.gov.uk/ssi/2018/182/regulation/3/a/v)
+
+[^key-e43ed1230f8a69010c8cb7dfd0214f73]: Textual amendment: Words in reg. 2(1) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [3(a)(vi)](https://www.legislation.gov.uk/ssi/2018/182/regulation/3/a/vi)
+
+[^key-9f1e3eef5b4927ded174ff1f5c102cd4]: Textual amendment: Words in reg. 2(1) inserted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [3(a)(vii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/3/a/vii)
+
+[^key-73121fbf423c00426cf6d6363d533fa9]: Modification: [Reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/2/1) definitions of “retained EU beef provision” and “retained EU pig provision” moved (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/73)](https://www.legislation.gov.uk/ssi/2019/73), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/73/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/ssi/2019/73/regulation/4/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-1aaf84339cd5776aa89f1de42a8883fa]: Textual amendment: Words in reg. 2(2) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2018/182/regulation/3/b)
+
+[^c20454741]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
+
+[^key-051a2269185b1b071fae550849d7dcbf]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2010/330/regulation/5/3) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/b)
+
+[^key-7fff71c875618bc344def4da2bb848ca]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2010/330/regulation/5/4) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2018/182/regulation/4)
+
+[^key-17295a7db95919321f6f7dd06cbdffde]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/6/1) inserted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/ssi/2018/182/regulation/5/a/i)
+
+[^key-8edd801d700f0d99edcb715bb1d7a9f2]: Textual amendment: [Reg. 6(1)(za)](https://www.legislation.gov.uk/ssi/2010/330/regulation/6/1/za) inserted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/5/a/ii)
+
+[^key-af9bbc2a0e990b15f380c50bf44278ab]: Textual amendment: [Reg. 6(1)(a)](https://www.legislation.gov.uk/ssi/2010/330/regulation/6/1/a) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [5(a)(iii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/5/a/iii)
+
+[^key-acbc228b1b78ceca382aa0a70239cbb9]: Textual amendment: [Reg. 6(1)(b)](https://www.legislation.gov.uk/ssi/2010/330/regulation/6/1/b) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [5(a)(iv)](https://www.legislation.gov.uk/ssi/2018/182/regulation/5/a/iv)
+
+[^key-423d28375800589bc16adcf728cac693]: Textual amendment: [Reg. 6(1)(c)](https://www.legislation.gov.uk/ssi/2010/330/regulation/6/1/c) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [5(a)(v)](https://www.legislation.gov.uk/ssi/2018/182/regulation/5/a/v)
+
+[^key-55029cbf7a424db031380296386c84d3]: Textual amendment: Word in [reg. 6(1)(c)](https://www.legislation.gov.uk/ssi/2010/330/regulation/6/1/c) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/73)](https://www.legislation.gov.uk/ssi/2019/73), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/73/regulation/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2019/73/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5c81bb6a45f82cc2bac680dfb5353e60]: Textual amendment: [Reg. 6(1)(d)](https://www.legislation.gov.uk/ssi/2010/330/regulation/6/1/d) inserted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [5(a)(vi)](https://www.legislation.gov.uk/ssi/2018/182/regulation/5/a/vi)
+
+[^key-3c0a3ac4c1a0b2002c2487d19d5df1d8]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/6/2) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2018/182/regulation/5/b)
+
+[^key-09267db8993719f7c472c422636cb42e]: Textual amendment: Reg. 7 substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2018/182/regulation/6)
+
+[^key-d96094d7018262deedc198c428f4d8eb]: Textual amendment: Words in [reg. 8(3)(b)](https://www.legislation.gov.uk/ssi/2010/330/regulation/8/3/b) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2018/182/regulation/7)
+
+[^key-e7b1160bc3713b5c2d9cb6bc9041d10b]: Textual amendment: Word in reg. 9(1) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [8(a)](https://www.legislation.gov.uk/ssi/2018/182/regulation/8/a) (with [reg. 23](https://www.legislation.gov.uk/ssi/2018/182/regulation/23))
+
+[^key-a38bb9fee0df94d3fe2a5b4fd9cac798]: Textual amendment: Words in reg. 9(3)(b) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [8(b)](https://www.legislation.gov.uk/ssi/2018/182/regulation/8/b) (with [reg. 23](https://www.legislation.gov.uk/ssi/2018/182/regulation/23))
+
+[^key-2f969bec8affbc60dd9c91d7b74256fb]: Textual amendment: Words in reg. 9(3)(d) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [8(c)(i)](https://www.legislation.gov.uk/ssi/2018/182/regulation/8/c/i) (with [reg. 23](https://www.legislation.gov.uk/ssi/2018/182/regulation/23))
+
+[^key-627344c62bf9851cfb832587f857a839]: Textual amendment: Words in reg. 9(3)(d) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [8(c)(ii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/8/c/ii) (with [reg. 23](https://www.legislation.gov.uk/ssi/2018/182/regulation/23))
+
+[^key-9dfc599a49044602150cb8659a0f3a3f]: Textual amendment: Words in reg. 9(3)(d) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [8(c)(iii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/8/c/iii) (with [reg. 23](https://www.legislation.gov.uk/ssi/2018/182/regulation/23))
+
+[^key-74506c64ece325dc436a8559af56c937]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/13/1) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2018/182/regulation/9)
+
+[^key-aa9ba4fbdbebd86220bc55dc4e4239f1]: Textual amendment: Reg. 14 substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2018/182/regulation/10)
+
+[^key-81266b0f67b003298e74d798daccc7aa]: Textual amendment: Reg. 15 substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2018/182/regulation/11)
+
+[^key-d4f3e64e5aaf83a270fe64766ddd7564]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/17/2) omitted (31.12.2020) by virtue of [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/73)](https://www.legislation.gov.uk/ssi/2019/73), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/73/regulation/1/2), [4(5)](https://www.legislation.gov.uk/ssi/2019/73/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-dd5d06c97dacb4bb3fccdb6372497db5]: Textual amendment: Words in [reg. 18(b)](https://www.legislation.gov.uk/ssi/2010/330/regulation/18/b) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2018/182/regulation/12)
+
+[^key-b5ecac3bc60d3654d1ff4e3504c9f5cc]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/ssi/2010/330/regulation/19) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [13](https://www.legislation.gov.uk/ssi/2018/182/regulation/13)
+
+[^key-4213d61044cc6520a1bbb6f1159c4cd3]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/ssi/2010/330/regulation/19) heading substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(c)(i)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/c/i)
+
+[^key-eb32fe98c929263dbd733dd88ebc4189]: Textual amendment: Words in [reg. 19(a)](https://www.legislation.gov.uk/ssi/2010/330/regulation/19/a) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(c)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/c/ii)
+
+[^key-c9bbd59b236b2ffb924fd6635cf8c216]: Textual amendment: Words in [reg. 19(b)](https://www.legislation.gov.uk/ssi/2010/330/regulation/19/b) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(c)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/c/ii)
+
+[^key-4532c42355b8b4261b5b234bffd17827]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/ssi/2010/330/regulation/20) heading substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(d)(i)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/d/i)
+
+[^key-7b2429bfecd23d86cc451780ae308320]: Textual amendment: Words in [reg. 20(a)](https://www.legislation.gov.uk/ssi/2010/330/regulation/20/a) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(d)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/d/ii)
+
+[^key-e9a9eaf3d775b5b10c4f1bff4373d713]: Textual amendment: Words in [reg. 20(b)](https://www.legislation.gov.uk/ssi/2010/330/regulation/20/b) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(d)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/d/ii)
+
+[^key-9ebba0ac04cbf136267ec0670ae35385]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/ssi/2010/330/regulation/20) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2018/182/regulation/14)
+
+[^key-36d6406af4eba7c228f322e66658221b]: Textual amendment: Word in [reg. 21](https://www.legislation.gov.uk/ssi/2010/330/regulation/21) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2018/182/regulation/14)
+
+[^key-bcebf3f3428c9832ef1e6d057b2a1935]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/22/1) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [15(a)](https://www.legislation.gov.uk/ssi/2018/182/regulation/15/a)
+
+[^key-26f86251c3ee9137bbea4100719f30d3]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/22/2) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [15(b)(i)](https://www.legislation.gov.uk/ssi/2018/182/regulation/15/b/i)
+
+[^key-3467441775d0e77e2f67b3bcd8737887]: Textual amendment: Word in [reg. 22(2)(a)](https://www.legislation.gov.uk/ssi/2010/330/regulation/22/2/a) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [15(b)(ii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/15/b/ii)
+
+[^key-515c3e44593aa7fb9ff79dcfd3ed556b]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/22/2) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [15(b)(iii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/15/b/iii)
+
+[^key-92901efd296cbef7d470766d4441f168]: Textual amendment: Word in [reg. 22(3)](https://www.legislation.gov.uk/ssi/2010/330/regulation/22/3) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [15(c)](https://www.legislation.gov.uk/ssi/2018/182/regulation/15/c)
+
+[^key-b38329eb0f13419b356c03ff156a8321]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/ssi/2010/330/regulation/22A) inserted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [15(d)](https://www.legislation.gov.uk/ssi/2018/182/regulation/15/d)
+
+[^key-6734685449114633d3f1bc91054f7066]: Textual amendment: Word in [reg. 23(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/23/1) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [16(a)](https://www.legislation.gov.uk/ssi/2018/182/regulation/16/a)
+
+[^key-06506aa7b47489d751d5fd734b4b6797]: Textual amendment: [Reg. 23(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/23/2) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [16(b)](https://www.legislation.gov.uk/ssi/2018/182/regulation/16/b)
+
+[^key-6ff77b4eb7d9ae5a7dfb1631d5f39b71]: Textual amendment: [Reg. 23(3)](https://www.legislation.gov.uk/ssi/2010/330/regulation/23/3) inserted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [16(c)](https://www.legislation.gov.uk/ssi/2018/182/regulation/16/c)
+
+[^key-e8828d7e1b3e46f353663f8dac18f9b9]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/ssi/2010/330/regulation/24) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2018/182/regulation/17)
+
+[^key-b01f64320602c87db891cabe4b47ce00]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/25/1) inserted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [18](https://www.legislation.gov.uk/ssi/2018/182/regulation/18)
+
+[^key-7084c96a4c850f6bdfcab1a8e00f1f9d]: Textual amendment: Word in [reg. 26(1)(b)](https://www.legislation.gov.uk/ssi/2010/330/regulation/26/1/b) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [19](https://www.legislation.gov.uk/ssi/2018/182/regulation/19)
+
+[^key-5454610dcca38ab9f1ee97b5016a4390]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/ssi/2010/330/regulation/28/1) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [20(a)(i)](https://www.legislation.gov.uk/ssi/2018/182/regulation/20/a/i)
+
+[^key-a4682d600283f8f2910a1f4a17086aae]: Textual amendment: Word in [reg. 28(1)(a)](https://www.legislation.gov.uk/ssi/2010/330/regulation/28/1/a) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(e)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/e)
+
+[^key-fff9cf49b1c9ba685d0c980471f23d2a]: Textual amendment: Word in [reg. 28(1)(b)](https://www.legislation.gov.uk/ssi/2010/330/regulation/28/1/b) substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(e)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/e)
+
+[^key-0a01224bf04e3135c45b35a21b65a89a]: Textual amendment: [Reg. 28(1)(da)](https://www.legislation.gov.uk/ssi/2010/330/regulation/28/1/da) inserted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [20(a)(ii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/20/a/ii)
+
+[^key-8153e96d3cdbc8597cf32e57d79072ed]: Textual amendment: Words in [reg. 28(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/28/2) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [20(b)(i)](https://www.legislation.gov.uk/ssi/2018/182/regulation/20/b/i)
+
+[^key-2b49a9c3cf3ed72341903b4dc91974dc]: Textual amendment: Words in [reg. 28(2)](https://www.legislation.gov.uk/ssi/2010/330/regulation/28/2) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [20(b)(ii)](https://www.legislation.gov.uk/ssi/2018/182/regulation/20/b/ii)
+
+[^key-344bc6a1f4191ef961c681fb6b8ebb09]: Textual amendment: Sch. 1 substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [21](https://www.legislation.gov.uk/ssi/2018/182/regulation/21)
+
+[^key-9dcd48a69e9f31cc1c1e4f22fa76500a]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2010/330/schedule/1) heading substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/f/i)
+
+[^key-e6e0ffae37d91af0ad4434e053c3f235]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2010/330/schedule/1) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/73)](https://www.legislation.gov.uk/ssi/2019/73), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/73/regulation/1/2), [4(9)(c)](https://www.legislation.gov.uk/ssi/2019/73/regulation/4/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4288e7d2e5695000e6cd86b67178cb05]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2010/330/schedule/1) Table heading substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/f/ii)
+
+[^key-363e389338be05c2e592cd8c9988938d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/330/schedule/2) substituted (11.7.2018) by [The Beef and Pig Carcase Classification (Scotland) Amendment Regulations 2018 (S.S.I. 2018/182)](https://www.legislation.gov.uk/ssi/2018/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/182/regulation/1/1), [22](https://www.legislation.gov.uk/ssi/2018/182/regulation/22)
+
+[^key-a16066a059f274ee0ed6272c21a72a03]: Textual amendment: Word in [sch. 2](https://www.legislation.gov.uk/ssi/2010/330/schedule/2) heading substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(g)(i)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/g/i)
+
+[^key-6c9f39ba3d44d944422c7da0fc4e082a]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2010/330/schedule/2) substituted (31.12.2020) by [The Agriculture Market Measures (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/73)](https://www.legislation.gov.uk/ssi/2019/73), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/73/regulation/1/2), [4(10)(c)](https://www.legislation.gov.uk/ssi/2019/73/regulation/4/10/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-52384466bd85db6239425059a033951c]: Textual amendment: Word in [sch. 2](https://www.legislation.gov.uk/ssi/2010/330/schedule/2) Table heading substituted (14.2.2026) by [The Retained EU Law (Revocation and Reform) Act 2023 (Agricultural Products) (Consequential Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/407)](https://www.legislation.gov.uk/ssi/2025/407), [regs. 1](https://www.legislation.gov.uk/ssi/2025/407/regulation/1), [4(g)(ii)](https://www.legislation.gov.uk/ssi/2025/407/regulation/4/g/ii)

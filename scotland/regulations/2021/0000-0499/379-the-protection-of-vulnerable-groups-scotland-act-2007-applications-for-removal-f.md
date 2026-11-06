@@ -1,0 +1,90 @@
+---
+title: The Protection of Vulnerable Groups (Scotland) Act 2007 (Applications for Removal from List and Late Representations) Amendment Regulations 2021
+id: ssi/2021/379
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-10-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2021/379
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/379/pdfs/ssipn_20210379_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/379/pdfs/ssi_20210379_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/379/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Protection of Vulnerable Groups (Scotland) Act 2007 (Applications for Removal from List and Late Representations) Amendment Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 379
+
+Children And Young Persons
+
+Protection Of Vulnerable Adults
+
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Applications for Removal from List and Late Representations) Amendment Regulations 2021
+
+Made
+
+28th October 2021
+
+Laid before the Scottish Parliament
+
+1st November 2021
+
+Coming into force
+
+10th December 2021
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by sections 25(3)(a), 42(1)(c) and (2) and section 100(2) of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00001], and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Protection of Vulnerable Groups (Scotland) Act 2007 (Applications for Removal from List and Late Representations) Amendment Regulations 2021 and come into force on 10 December 2021.
+
+## 2. Amendment of the Protection of Vulnerable Groups (Scotland) Act 2007 (Applications for Removal from List and Late Representations) Regulations 2010
+
+(1) The Protection of Vulnerable Groups (Scotland) Act 2007 (Applications for Removal from List and Late Representations) Regulations 2010[^f00002] are amended in accordance with this regulation.
+
+(2) In regulation 3 (first applications for removal from list: prescribed period)—
+
+- (a) in paragraph (a), for “18” substitute “26 years”,
+- (b) in paragraph (b), for “a child” substitute “aged 25 years or under”.
+
+(3) In paragraph 1(2) of schedule 1 (acknowledgement of receipt of application for removal under section 25 of the Act), for “an appeal” substitute “the application”.
+
+CLARE HAUGHEY
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+28th October 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of these Regulations)
+
+These Regulations amend the Protection of Vulnerable Groups (Scotland) Act 2007 (Applications for Removal from List and Late Representations) Regulations 2010 (“the principal Regulations”).
+
+Regulation 3 of the principal Regulations prescribe the period for the purposes of section 25(3)(a) of the Protection of Vulnerable Groups (Scotland) Act 2007 (“the 2007 Act”) before which an application in accordance with that section for removal from the children’s’ list or adult list is not competent. Different periods are prescribed depending on the age of the applicant.
+
+Regulation 2(2) of these Regulations amends regulation 3 of the principal Regulations to change the age threshold in relation to the prescribed periods after which an individual may make a first application for removal from either the children’s list or the adults’ list (or both lists, in accordance with regulation 5 of the principal Regulations). As a result of the amendment, the period prescribed is now ten years for a person who was aged 26 or over at the date of listing, and five years for a person who was aged 25 years or under at the date of listing.
+
+Regulation 2(3) amends paragraph 1(2) of schedule 1 of the principal Regulations to correct a typographical error.
+
+No business or regulatory impact assessment has been prepared in relation to these Regulations as no, or no significant, impact upon business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14). Section 97(1) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made.
+
+[^f00002]: Footnote: [S.S.I. 2010/179](https://www.legislation.gov.uk/ssi/2010/179).

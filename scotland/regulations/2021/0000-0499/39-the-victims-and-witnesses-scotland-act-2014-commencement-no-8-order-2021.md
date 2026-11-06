@@ -1,0 +1,108 @@
+---
+title: The Victims and Witnesses (Scotland) Act 2014 (Commencement No. 8) Order 2021
+id: ssi/2021/39
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-01-22'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2021/39
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/39/pdfs/ssipn_20210039_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/39/pdfs/ssi_20210039_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/39/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Victims and Witnesses (Scotland) Act 2014 (Commencement No. 8) Order 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 39 (C. 2)
+
+Criminal Law
+
+The Victims and Witnesses (Scotland) Act 2014 (Commencement No. 8) Order 2021
+
+Made
+
+22nd January 2021
+
+Laid before the Scottish Parliament
+
+26th January 2021
+
+Coming into force
+
+24th February 2021
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 34(2) of the Victims and Witnesses (Scotland) Act 2014[^f00001].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Victims and Witnesses (Scotland) Act 2014 (Commencement No. 8) Order 2021 and comes into force on 24 February 2021.
+
+## 2. Day appointed
+
+24 February 2021 is the day appointed for the coming into force of section 5 of the Victims and Witnesses (Scotland) Act 2014[^f00002].
+
+HUMZA YOUSAF
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+22nd January 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order commences section 5 of the Victims and Witnesses (Scotland) Act 2014 (“the 2014 Act”) on 24 February 2021.
+
+Section 5 of the 2014 Act enables the Scottish Ministers to issue guidance about the use of restorative justice services and to specify, via subordinate legislation, the persons who must have regard to the guidance.
+
+The Bill for the 2014 Act received Royal Assent on 17 January 2014. The following sections of the 2014 Act came into force on the following day: sections 30 (in part), 31 (in part), 32, 33, 34 and 35.
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+The following provisions of the 2014 Act have been brought into force by commencement order made before the date of this Order.
+
+| Provision | Date of Commencement | S.S.I. No. |
+| --- | --- | --- |
+| Section 1 | 30 January 2015 | [2014/359](https://www.legislation.gov.uk/ssi/2014/359) |
+| Section 2 (in part) | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Section 2 (in so far as not already in force) | 30 January 2015 | [2014/359](https://www.legislation.gov.uk/ssi/2014/359) |
+| Section 3 | 30 January 2015 | [2014/359](https://www.legislation.gov.uk/ssi/2014/359) |
+| Section 4 | 1 July 2015 | [2015/200](https://www.legislation.gov.uk/ssi/2015/200) |
+| Section 6 (in part) | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Section 6 (in part) | 30 January 2015 | [2014/359](https://www.legislation.gov.uk/ssi/2014/359) |
+| Section 7 | 1 September 2015 | [2015/200](https://www.legislation.gov.uk/ssi/2015/200) |
+| Section 8 | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Sections 10 to 22 | 1 September 2015 | [2015/200](https://www.legislation.gov.uk/ssi/2015/200) |
+| Section 23 (in part) | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Section 23 (in so far as not already in force) | 10 February 2021 | [2020/405](https://www.legislation.gov.uk/ssi/2020/405) |
+| Section 25 (in part) | 25 August 2020 | [2020/237](https://www.legislation.gov.uk/ssi/2020/237) |
+| Section 25 (in so far as not already in force) | 10 February 2021 | [2020/405](https://www.legislation.gov.uk/ssi/2020/405) |
+| Section 26 (in part) | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Section 26 (in part) | 25 November 2019 | [2019/283](https://www.legislation.gov.uk/ssi/2019/283) |
+| Sections 27 to 29 | 13 August 2014 | [2014/210](https://www.legislation.gov.uk/ssi/2014/210) |
+| Section 30 (in so far as not already in force) | 1 July 2014 | [2014/117](https://www.legislation.gov.uk/ssi/2014/117) |
+| Section 31(2) (in part) | 16 May 2014 | [2014/117](https://www.legislation.gov.uk/ssi/2014/117) |
+| Section 31 (in so far as not already in force) | 1 July 2014 | [2014/117](https://www.legislation.gov.uk/ssi/2014/117) |
+
+Sections 1A, 3A to 3J, 9A to 9E, 27A, 29A and 29B were added to the 2014 Act by the Victims’ Rights (Scotland) Regulations 2015 ([S.S.I. 2015/444](https://www.legislation.gov.uk/ssi/2015/444)) which came into force on 23 December 2015.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 1](https://www.legislation.gov.uk/asp/2014/1).
+
+[^f00002]: Footnote: Section 5 was amended by [S.S.I. 2015/ 444](https://www.legislation.gov.uk/asp/2015/444).

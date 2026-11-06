@@ -1,0 +1,528 @@
+---
+title: The Bus Lane Contraventions (Charges, Adjudication and Enforcement) (Scotland) Regulations 2011
+id: ssi/2011/442
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-12-15'
+text_date: '2020-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/442
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/442/pdfs/ssien_20110442_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/442/pdfs/ssi_20110442_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/442/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bus Lane Contraventions (Charges, Adjudication and Enforcement) (Scotland) Regulations 2011
+
+> Text as at 2020-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 442
+
+Road Traffic
+
+The Bus Lane Contraventions (Charges, Adjudication and Enforcement) (Scotland) Regulations 2011
+
+Made
+
+15th December 2011
+
+Laid before the Scottish Parliament
+
+19th December 2011
+
+Coming into force
+
+6th February 2012
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 44(1), (5), (6), (7) and (8) and 81(2) of the Transport (Scotland) Act 2001[^f00001] and all other powers enabling them to do so.
+
+## PART I — PRELIMINARY
+
+### 1. Citation and commencement[^key-13b1f46ee02d4abf8fecac8869e76298]
+
+These Regulations may be cited as the Bus Lane Contraventions (Charges, Adjudication and Enforcement) (Scotland) Regulations 2011 and come into force on 6th February 2012.
+
+### 2. Interpretation[^key-2698688d7a7ac7b0a26119c235f791d3]
+
+(1) In these Regulations—
+
+- “the 1994 Act” means the Vehicle Excise and Registration Act 1994[^f00002];
+- “the 2001 Act” means the Transport (Scotland) Act 2001;
+- “the 28 day period”, in relation to a charge notice, means the period of 28 days beginning with the date of service of the notice;
+- [^key-c0c831361da9439b5a0015381cccdc0c]...
+- “appeal” means an appeal against the imposition of a charge;
+- “appeal period” means the period of 28 days specified in regulation 12(4);
+- “approved local authority” means an authority which is an approved local authority in terms of section 44(2) of the 2001 Act;
+- “charge certificate” has the meaning given by regulation 30(1)(b);
+- “charge notice” has the meaning given by regulation 8(1);
+- “contravention” means a bus lane contravention in terms of section 44(3) of the 2001 Act in which a vehicle is involved;
+- “the detection date” in relation to a contravention, means the date on which, according to a record produced by an approved device, the contravention occurred;
+- “enforcing authority” in relation to a charge means the approved local authority which imposed the charge;
+- “First-tier Tribunal” means the First-tier Tribunal for Scotland and has the meaning given in section 1(1) of the Tribunals (Scotland) Act 2014[^key-7bbbff1480e5bd78ccb98e061b86eb8a];
+- “notice of rejection” means a notice served under regulation 10(3);
+- [^key-c0c831361da9439b5a0015381cccdc0c]...
+- “the recipient”, in relation to a charge notice, means the person on whom the charge notice is served;
+- [^key-c0c831361da9439b5a0015381cccdc0c]...
+- “relevant vehicle” means the vehicle involved in the contravention;
+- “statutory grounds of appeal” means the grounds, as specified in regulation 9(2), on which—
+  - (a) representations against a charge notice may be made under regulation 9 to an approved authority; or
+  - (b) an appeal may be made to the First-tier Tribunal[^key-5774e5ccb33450936707080f139bbe19] under regulation 12;
+- “Upper Tribunal” has the meaning given in section 1(1) of the Tribunals (Scotland) Act 2014;[^key-ae25d31136ef1a920b7013616d06bebe]
+- “vehicle” means motor vehicle; and
+- “working day” means any day which is not a Saturday, a Sunday or a bank holiday in Scotland by virtue of section 1 of the Banking and Financial Dealings Act 1971[^f00003].
+
+(2) In these Regulations, in relation to an appeal or any process connected with an appeal—
+
+- “appellant” means the person making the appeal;
+- “authority” means the approved local authority which made the decision to impose the charge;
+- [^key-cd722784983a128f0c991017667ad1c8]...
+- [^key-cd722784983a128f0c991017667ad1c8]...
+- “notice of appeal” means a notice sent under regulation 12; and
+- “party” means the appellant or the authority.
+
+(3) In determining, for the purposes of these Regulations, whether and when a charge has been paid, it is to be taken to have been paid when the whole of the amount of the charge applicable in the circumstances of the case is received by the approved local authority concerned.
+
+(4) References to the service of a notice or other document include service by post and, in determining for the purposes of these Regulations the date on which a notice or other document is served by post, it is to be presumed that service of a notice or other document sent by—
+
+- (a) first class post was effected on the person to whom it was addressed on the second working day after the day on which it was posted; or
+- (b) second class post was effected on the person to whom it was addressed on the third working day after the day on which it was posted,
+
+unless the contrary is shown.
+
+## PART II — CHARGES FOR BUS LANE CONTRAVENTIONS
+
+### 3. Charges[^key-e5e1efb1884678d94533d0e4d1986f86]
+
+(1) Subject to paragraph (2) and regulation 4, an approved local authority may impose a charge in respect of a contravention relating to any road within their area, except a road which is a special road in accordance with section 7 of the Roads (Scotland) Act 1984[^f00004].
+
+(2) A charge may be imposed only on the basis of a record produced by an approved device.
+
+### 4. Level of charges[^key-8c55532b5b23744d5bc22450df6476ba]
+
+(1) An approved local authority must not impose a charge in accordance with these Regulations unless—
+
+- (a) it has first set the rate of charge that is to apply within its area;
+- (b) the Scottish Ministers have approved those rates; and
+- (c) it has published in at least one local newspaper circulating in its area a notice specifying—
+  - (i) the circumstances in which a charge may be imposed;
+  - (ii) the rate of the charge; and
+  - (iii) the date, being a day which falls after the end of the period of 15 days beginning with the day on which the notice is published, on which the authority will start to impose charges at that level,
+
+  and no charge is to be imposed before the date so specified.
+
+(2) Each approved local authority is to make available, at all reasonable times, free of charge and in a form which is readily accessible to any member of the public, information about the level of the charge for the time being in force in its area.
+
+(3) In the circumstances described in regulation 8(5)(f), an authority must accept a sum equivalent to one half of the rate of charge approved by the Scottish Ministers, in full payment of a charge.
+
+(4) In the circumstances described in regulation 8(5)(k), an authority may increase a charge to a sum equivalent to one and a half times the rate of charge approved by the Scottish Ministers.
+
+### 5. Liability of registered keeper for charges[^key-3aaa5ebadbffc198f35e215c51b314c7]
+
+A charge is to be paid by the registered keeper of the relevant vehicle unless regulation 6 applies.
+
+### 6. Liability of persons other than the registered keeper for charges[^key-9d0dc47937bbf243849983ae52848e33]
+
+(1) A charge is to be paid—
+
+- (a) where the relevant vehicle is not registered under the 1994 Act, by the person by whom the relevant vehicle is kept at the time of the contravention;
+- (b) where the relevant vehicle—
+  - (i) was at the time of the contravention the subject of a hiring agreement; and
+  - (ii) the person hiring it, or an individual authorised to sign on that person’s behalf, has signed a statement of liability acknowledging that person’s liability in respect of any charge incurred during the currency of that hiring agreement,
+
+  by the person who has hired the vehicle under that hiring agreement;
+- (c) where—
+  - (i) the relevant vehicle is kept by a vehicle trader; and
+  - (ii) at the time of the contravention, a person other than the vehicle trader is the registered keeper of the relevant vehicle,
+
+  by the vehicle trader;
+- (d) where the registered keeper has sold or transferred the relevant vehicle before the time of the contravention, by the person by whom the relevant vehicle is kept at the time of the contravention.
+
+(2) In this regulation—
+
+- “hiring agreement” means an agreement for the hire of a vehicle—
+  - (a) under the terms of which the vehicle is let to the hirer for a fixed period of any duration (whether or not that period is capable of extension by agreement between the parties or otherwise);
+  - (b) which contains such particulars as may for the time being be prescribed for the purpose of section 66 (hired vehicles) of the Road Traffic Offenders Act 1988[^f00005]; and
+  - (c) which is not a hire purchase agreement within the meaning of the Consumer Credit Act 1974[^f00006]; and
+- “vehicle trader” has the same meaning as in regulation 20(6) (change of keeper: general provisions) of the Road Vehicle (Registration and Licensing) Regulations 2002[^f00007].
+
+### 7. Circumstances in which a charge need not be paid or is to be refunded[^key-af6e8920e532694bc7293125a9aa2f41]
+
+(1) A charge is not payable under these Regulations where—
+
+- (a) the conduct constituting the contravention is the subject of criminal proceedings; or
+- (b) a fixed penalty notice, as defined by section 52 of the Road Traffic Offenders Act 1988[^f00008], has been given in respect of that conduct.
+
+(2) Where, notwithstanding the provisions of paragraph (1)—
+
+- (a) a charge has been paid in respect of a contravention; and
+- (b) the circumstances are as mentioned in paragraph (1)(a) or (b),
+
+the approved local authority must, as soon as reasonably practicable after those circumstances come to their notice, refund the amount of the charge.
+
+## PART III — NOTIFICATION OF, AND REPRESENTATIONS ABOUT, CHARGES
+
+### 8. Charge notices[^key-9dc3a1b8d34f7a6e253686f29ded0bba]
+
+(1) Where an approved local authority has reason to believe that a charge is payable under Part II with respect to a vehicle, it may, in accordance with paragraphs (2) and (5), serve a notice (“charge notice”) on the registered keeper or on the person appearing to it to be the person liable to pay the charge.
+
+(2) Subject to paragraph (3), a charge notice is to be served before the end of the period of 28 days beginning with the detection date.
+
+(3) Where—
+
+- (a) within 14 days of the detection date an approved local authority has made a request to the Secretary of State for the supply of relevant particulars; and
+- (b) those particulars have not been supplied before the date after which the authority would not be entitled to serve a charge notice by virtue of paragraph (2),
+
+the authority will continue to be entitled to serve a charge notice for a further period of 6 months beginning with the date mentioned in sub-paragraph (b).
+
+(4) In paragraph (3) “relevant particulars” means particulars relating to the identity of the keeper of the vehicle contained in the register of mechanically propelled vehicles maintained by the Secretary of State under the 1994 Act.
+
+(5) A charge notice must include the following information—
+
+- (a) the registration mark of the vehicle involved in the alleged contravention;
+- (b) the detection date and the time at which the alleged contravention occurred;
+- (c) the reasons why the authority believe that a charge is payable;
+- (d) the amount of the charge;
+- (e) that the charge must be paid before the end of the 28 day period;
+- (f) that if the charge is paid before the end of the period of 14 days beginning with the date of service of the notice, the charge will be reduced by 50 per cent;
+- (g) that representations may be made, on any of the statutory grounds of appeal, to the authority against the imposition of the charge but that representations made outside the 28 day period may be disregarded;
+- (h) the statutory grounds of appeal;
+- (i) the postal address to which representations are to be sent;
+- (j) any email address or fax number to which representations may be sent as an alternative to the postal address;
+- (k) that if at the end of the 28 day period—
+  - (i) no representations have been made; and
+  - (ii) the charge has not been paid,
+
+  the authority may increase the charge by 50 per cent and take steps to enforce payment of the charge as so increased;
+- (l) the manner in which the charge may be paid;
+- (m) that if the representations are rejected an appeal may be made on any of the statutory grounds of appeal to the First-tier Tribunal[^key-a6b8296d2630cdf2293a1a5b9ed8489b] in respect of a charge; and
+- (n) that the recipient may, by notice in writing to the authority, request it to provide the recipient, free of charge, with a copy of the record of contravention produced by the approved device pursuant to which the charge was imposed or with such still images from that record as, in the authority’s opinion, establish the contravention.
+
+(6) Where the recipient makes a request under paragraph (5)(n), the authority must comply with the request within a reasonable time.
+
+### 9. Representations in respect of charges[^key-3520aa8f9a146dd3d8ed448ec8e46b43]
+
+(1) The recipient may make written representations on any of the statutory grounds of appeal to the approved local authority against the imposition of the charge; but the authority may disregard any such representations which are received by them after the end of the 28 day period.
+
+(2) The grounds are—
+
+- (a) that the alleged contravention did not occur;
+- (b) that regulation 7(1) (other proceedings pursued) applies;
+- (c) in a case where the charge notice has been served on the recipient on the basis that the recipient was the registered keeper of the vehicle, that the recipient was not the registered keeper on the detection date;
+- (d) that the recipient was the registered keeper of the relevant vehicle on the detection date, but—
+  - (i) on that date the circumstances were as mentioned in regulation 6(1)(b);
+  - (ii) on that date the circumstances were as mentioned in regulation 6(1)(c);
+  - (iii) the circumstances were as mentioned in regulation 6(1)(d); or
+  - (iv) on that date the vehicle was in the control of a person who had assumed control of it without the recipient’s consent;
+- (e) in a case where the charge notice has been served on the recipient on the basis that the recipient was the person by whom the relevant vehicle was kept on the detection date, that the recipient was not the keeper of the relevant vehicle on that date;
+- (f) in a case where the charge notice has been served on the recipient on the basis that the recipient was the hirer of the relevant vehicle, that the recipient was not liable to pay the charge under regulation 6(b);
+- (g) in a case where the charge notice has been served on the recipient on the basis that the recipient was a vehicle trader, that the recipient was either not a vehicle trader or was a vehicle trader but not the vehicle trader keeping the vehicle; and
+- (h) that the charge exceeded the amount applicable in the circumstances of the case.
+
+(3) Where the ground mentioned in paragraph (2)(d)(i) is relied on in any representations made under paragraph (1), those representations must include a statement of the name and address of the person who hired the vehicle.
+
+(4) Where the ground mentioned in paragraph (2)(d)(iii) is relied on in any representations made under paragraph (1), those representations must include a statement of the name and address of the person to whom the vehicle was disposed of by the recipient (if that information is in the recipient’s possession).
+
+### 10. Response to representations[^key-90611fa4a243591bfceb9299a9ebf955]
+
+(1) Where representations are made to an authority under regulation 9 within the 28 day period, it is the duty of the authority—
+
+- (a) to consider them and any supporting evidence provided; and
+- (b) in relation to each ground on which representations are made, to serve on the person by whom the representations are made notice of its decision as to whether or not it accepts that the ground has been established.
+
+(2) Where an authority accepts that at least one ground on which representations are made is established, the authority must—
+
+- (a) cancel the charge notice; and
+- (b) serve notice on the recipient stating that the charge notice has been cancelled.
+
+(3) Where an authority is not satisfied that any of the statutory grounds of appeal is established, the notice served in accordance with paragraph (1)(b) must be a notice stating that they do not accept that the ground has been established (“a notice of rejection”).
+
+(4) A notice of rejection must—
+
+- (a) state the reasons for the authority’s decision;
+- (b) state that an appeal against the imposition of the charge may be made to the First-tier Tribunal[^key-148ba7be5d7c39826318a9f933f5b801] within the appeal period;
+- (c) specify the statutory grounds of appeal;
+- (d) describe in general terms the procedure for making an appeal;
+- (e) state that the First-tier Tribunal[^key-a86edfbb125edc4eca2c6888f2aee613] has power to make an award of expenses;
+- (f) indicate the circumstances in which the power may be exercised; and
+- (g) state that unless, before the end of the appeal period—
+  - (i) the charge is paid; or
+  - (ii) an appeal is made to the First-tier Tribunal[^key-110bb91c01760a0775d08c1f856047c8] against the imposition of the charge,
+
+  the authority may increase the charge by 50 per cent and take steps to enforce payment.
+
+(5) Where a charge notice is cancelled under paragraph (2), the authority may serve on any person other than the person on whom the original charge notice was served a fresh charge notice in relation to the alleged contravention that was the subject of the cancelled notice.
+
+(6) Regulation 8 applies in relation to a fresh notice served under paragraph (5) as if—
+
+- (a) in paragraph (2), for “the detection date”, there were substituted “the date on which the charge notice is cancelled”; and
+- (b) in paragraph (3)—
+  - (i) in sub-paragraph (a), for “the detection date”, there were substituted “the date on which the charge notice is cancelled”; and
+  - (ii) in sub-paragraph (b), the reference to paragraph (2) were a reference to that paragraph as modified by sub-paragraph (a) of this paragraph.
+
+## PART IV — APPROVED LOCAL AUTHORITY COSTS[^key-c6129cc967954fbdaeda3a77b52cb885][^key-56eb0a17f1b0deeb801536c457437af5]
+
+### 11. Costs to be met by Approved Local Authority[^key-e665d0c8c6c608e6d8a2751f35c48762]
+
+Where an approved local authority has resolved to impose charges under regulation 3(1) the approved local authority must meet the costs incurred by the Scottish Courts and Tribunals Service—
+
+- (a) for the provision of all accommodation and administrative staff and facilities, and
+- (b) in relation to the remuneration and expenses of legal members,
+
+required for the operation of the First-tier Tribunal exercising the functions set out in Part 4 and Part 5 of these Regulations.
+
+## PART V — APPEALS AGAINST CHARGES[^key-c6129cc967954fbdaeda3a77b52cb885]
+
+### 12. Making an appeal[^key-a157c43c01122d96d4027eb12a747a5a]
+
+(1) A person on whom a charge notice has been served may, on any of the statutory grounds of appeal, appeal to the First-tier Tribunal[^key-69375a28889d9f3bec339680e820fab1] against the imposition of the charge if—
+
+- (a) that person has made representations to the authority under regulation 9; and
+- (b) that person has received from the authority a notice of rejection.
+
+(2) An appeal is to be made by a notice of appeal sent in writing to the First-tier Tribunal[^key-2be43bb95d5455475d112f9715319013].
+
+(3)[^key-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-ff26d9b33b638ea6276a0437dc55b4a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Action on receipt of notice of appeal[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Further representations[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Disposing of an appeal without a hearing[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Notice of time and place of hearing[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Power to require attendance and production of documents[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Procedure at a hearing[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Evidence by production of record[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Decisions on appeals[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Review of adjudicator’s or proper officer’s decision[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Expenses[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Recovery of amount payable under regulation 22[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Conjoining of appeals[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Miscellaneous powers of the adjudicator[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26. Correction of clerical mistakes and errors[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Service of documents on the parties[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Delivery of notices or documents to the proper officer[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. The register[^key-507a854968438561c7072e414fbcc707]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART VI — ENFORCEMENT OF CHARGES
+
+### 30. Charge certificates[^key-5ee161d3218606a2e265c2ce6283a811]
+
+(1) Where—
+
+- (a) a charge notice is served on any person; and
+- (b) the charge to which it relates is not paid before the end of the relevant period, the enforcing authority may serve on that person a statement (a “charge certificate”) to the effect that the charge in question is increased by 50 per cent.
+
+(2) The “relevant period” for the purposes of paragraph (1) means—
+
+- (a) where a notice of rejection is served but no appeal is made, the period of 28 days beginning with the date of service of the notice of rejection;
+- (b) where there has been an unsuccessful appeal against the imposition of the charge, the period of 28 days beginning with the date on which the decision by the First-tier Tribunal or the Upper Tribunal is sent to the appellant;[^key-0d099dbf234d8e20c98d4108084340c2]
+- (c) where an appeal is withdrawn, the period of 14 days beginning with the date on which it is withdrawn; and
+- (d) where no representations are made, the period of 28 days beginning with the date on which the charge notice is served.
+
+### 31. Enforcement of charges[^key-a2d442043356fad9442e071d1fe8fe04]
+
+Where, in relation to a charge notice—
+
+- (a) the relevant period for the purposes of regulation 30(1) has expired; and
+- (b) the increased charge for which the charge certificate provides is not paid before the end of the period of 14 days beginning with the date on which the certificate is served,
+
+the authority concerned may recover the charge as if it were payable under an extract registered decree arbitral bearing a warrant for execution issued by the sheriff for any sheriffdom.
+
+## PART VII — FINANCIAL PROVISIONS
+
+### 32. Accounts and application of sums paid by way of charges[^key-17be2ea21beb20c68469177914b636ac]
+
+(1) Each approved local authority which has resolved to impose charges under regulation 3(1) must—
+
+- (a) keep an account of the sums paid to that authority by way of charges under these Regulations; and
+- (b) as soon as practicable after the end of the financial year, forward a copy of the account for that year to the Scottish Ministers.
+
+(2) Any sums paid to an approved local authority by way of charges under these Regulations must be applied by that authority for the purpose of directly or indirectly facilitating the achievement of policies in that authority’s local transport strategy.
+
+KEITH BROWN
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+15th December 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the enforcement of bus lane contraventions, by local authorities which are approved local authorities for the purposes of section 44 of the Transport (Scotland) Act 2001. The names of the authorities concerned are set out in the Schedule to the Bus Lane Contraventions (Approved Local Authorities) (Scotland) Order 2011 ([S.S.I. 2011/443](https://www.legislation.gov.uk/ssi/2011/443)).
+
+In Part 1, regulation 2 defines expressions used in the Regulations.
+
+In Part 2, regulation 3 authorises the imposition of a charge in respect of a bus lane contravention only on the basis of a record produced by an approved device. The devices that are approved for these purposes are described in the Bus Lanes (Approved Devices) (Scotland) Order 2011 ([S.S.I. 2011/444](https://www.legislation.gov.uk/ssi/2011/444)).
+
+Regulation 4 provides for the level of a charge to be set by each approved authority. A charge may only be imposed if the level has been approved by the Scottish Ministers and a notice, stating the circumstances in which a charge may be imposed and the level of the charge has been published in accordance with paragraph (1). The charge is liable to be increased or reduced by half in the circumstances set out in paragraphs (3) and (4).
+
+Subject to specified exceptions, regulation 5 requires the registered keeper of the vehicle involved in the contravention to pay the charge. The exceptions are set out in regulation 6.
+
+Regulation 7 provides that an approved local authority cannot recover a charge (or a charge must be refunded) where criminal proceedings are taken, or where a fixed penalty notice has been given, in respect of the conduct that constituted the contravention.
+
+In Part III, regulation 8 provides for service of a charge notice on the person appearing to the approved authority to be the person by whom it is payable. The notice is to be served within 28 days after the contravention occurred, but that period can be extended where the local authority is awaiting from the Secretary of State further details as to the identity of the keeper of the vehicle concerned. Paragraph (5) specifies the matters of which particulars must be given in the charge notice, including a statement that the charge will be reduced by a half if paid within 14 days of the date of service of the notice, and may be increased by a half if not paid within 28 days of that date.
+
+Regulation 9 enables a person on whom a charge notice has been served to make representations to the authority concerned. Regulation 10 requires the authority to consider the representations and any supporting evidence, and to respond to the representations. Where representations are rejected (by a “notice of rejection”), the authority are required to notify the person concerned of his right to appeal the matter to an adjudicator.
+
+Parts IV and V relate to appeals. Regulation 11 provides that parking adjudicators will be bus lane adjudicators and that the approved local authorities will make provision for their accommodation, facilities and staff (one of whom must be the “proper officer” on whom specific functions are conferred by the Regulations).
+
+Regulations 12 sets out the procedure for making an appeal, and specifies that appeals must, subject to a right to ask the adjudicator to extend the period, be made within 28 days from the date of service of the notice of rejection. Regulation 13 provides for the procedure on service of notice of appeal and regulation 14 for the making of further representations. Regulations 15 to 19 make provision for the appeal procedure. Regulation 15 enables the adjudicator to dispense with an oral hearing save in specified circumstances. Regulation 16 requires the proper officer to fix the time and place of a hearing and notify the parties and regulation 17 empowers the adjudicator to require persons to give evidence or produce documents. Regulation 18 deals with the procedure at hearings and regulation 19 provides for the production of documentary evidence of the alleged contravention. Regulation 20 makes provision about adjudicators’ decisions; in particular it requires them to be recorded in the register kept pursuant to regulation 29.
+
+Regulation 21 enables a party to an appeal to ask for the adjudicator’s decision to be reviewed.
+
+Regulation 22 to 26 deal with miscellaneous matters, including provision that expenses will not normally be awarded save in specified circumstances and provision about the correction of clerical errors.
+
+Regulations 27 and 28 make provision about the service and delivery of documents.
+
+Part VI deals with the enforcement of payment of charges. Regulation 30 provides for a charge to be increased by a half if it is not paid within “the relevant period” as defined in paragraph (2). In Part VII, regulation 32 requires each approved local authority to keep an account of the sums paid by way of charges.
+
+No Business Regulatory Impact Assessment has been undertaken since the Regulations are concerned with the enforcement of existing traffic restrictions and prohibitions and do not therefore constitute an additional burden on business. The costs incurred by local authorities undertaking enforcement are expected to be defrayed by charge income.
+
+## Annotations
+
+[^f00001]: Footnote: [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2).
+
+[^key-13b1f46ee02d4abf8fecac8869e76298]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^key-2698688d7a7ac7b0a26119c235f791d3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/442/regulation/2) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^f00002]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).
+
+[^key-c0c831361da9439b5a0015381cccdc0c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/i) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-7bbbff1480e5bd78ccb98e061b86eb8a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/iii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-5774e5ccb33450936707080f139bbe19]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-ae25d31136ef1a920b7013616d06bebe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/1) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/a/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^f00003]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-cd722784983a128f0c991017667ad1c8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2011/442/regulation/2/2) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/2/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-e5e1efb1884678d94533d0e4d1986f86]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/442/regulation/3) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^f00004]: Footnote: [1984 c.54](https://www.legislation.gov.uk/ukpga/1984/54). Section 7 was amended by the [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), Schedule 7, paragraph 14 and the [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), Schedule 2, paragraph 2 and Schedule 3.
+
+[^key-8c55532b5b23744d5bc22450df6476ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/442/regulation/4) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^key-3aaa5ebadbffc198f35e215c51b314c7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/442/regulation/5) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^key-9d0dc47937bbf243849983ae52848e33]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/442/regulation/6) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^f00005]: Footnote: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53).
+
+[^f00006]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39); the definition of “hire purchase agreement” is in section 189(1).
+
+[^f00007]: Footnote: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742), to which there are amendments not relevant to these Regulations.
+
+[^key-af6e8920e532694bc7293125a9aa2f41]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/442/regulation/7) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^f00008]: Footnote: Section 52 was amended by the Access to Justice Act [1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22), Schedule 13, paragraph 147, and by the Statute Law (Repeals) Act [2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14), Schedule 1, Part 14.
+
+[^key-9dc3a1b8d34f7a6e253686f29ded0bba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/442/regulation/8) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^key-a6b8296d2630cdf2293a1a5b9ed8489b]: Textual amendment: Words in [reg. 8(5)(m)](https://www.legislation.gov.uk/ssi/2011/442/regulation/8/5/m) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/3) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-3520aa8f9a146dd3d8ed448ec8e46b43]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/442/regulation/9) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^key-90611fa4a243591bfceb9299a9ebf955]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/442/regulation/10) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^key-148ba7be5d7c39826318a9f933f5b801]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/ssi/2011/442/regulation/10/4/b) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-a86edfbb125edc4eca2c6888f2aee613]: Textual amendment: Words in [reg. 10(4)(e)](https://www.legislation.gov.uk/ssi/2011/442/regulation/10/4/e) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-110bb91c01760a0775d08c1f856047c8]: Textual amendment: Words in [reg. 10(4)(g)](https://www.legislation.gov.uk/ssi/2011/442/regulation/10/4/g) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(4)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-c6129cc967954fbdaeda3a77b52cb885]: Modification: [Pts. IV](https://www.legislation.gov.uk/ssi/2011/442/part/IV), [V](https://www.legislation.gov.uk/ssi/2011/442/part/V): transfer of functions (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [regs. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [4](https://www.legislation.gov.uk/ssi/2020/96/regulation/4) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-56eb0a17f1b0deeb801536c457437af5]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ssi/2011/442/part/IV) Title substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(5)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/5) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-e665d0c8c6c608e6d8a2751f35c48762]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2011/442/regulation/11) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(6)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/6) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-a157c43c01122d96d4027eb12a747a5a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2011/442/regulation/12) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^key-69375a28889d9f3bec339680e820fab1]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2011/442/regulation/12/1) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(7)(a)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/7/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-2be43bb95d5455475d112f9715319013]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2011/442/regulation/12/2) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(7)(b)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/7/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-ff26d9b33b638ea6276a0437dc55b4a8]: Textual amendment: [Reg. 12(3)-(6)](https://www.legislation.gov.uk/ssi/2011/442/regulation/12/3) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(7)(c)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/7/c) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-507a854968438561c7072e414fbcc707]: Textual amendment: [Regs. 13-29](https://www.legislation.gov.uk/ssi/2011/442/regulation/13) revoked (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(8)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/8) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-5ee161d3218606a2e265c2ce6283a811]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2011/442/regulation/30) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^key-0d099dbf234d8e20c98d4108084340c2]: Textual amendment: Words in [reg. 30(2)(b)](https://www.legislation.gov.uk/ssi/2011/442/regulation/30/2/b) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 1(9)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/1/9) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+
+[^key-a2d442043356fad9442e071d1fe8fe04]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2011/442/regulation/31) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)
+
+[^key-17be2ea21beb20c68469177914b636ac]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2011/442/regulation/32) in force at 6.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/442/regulation/1)

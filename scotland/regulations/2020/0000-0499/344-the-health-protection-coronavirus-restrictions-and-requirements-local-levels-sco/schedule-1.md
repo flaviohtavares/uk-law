@@ -1,0 +1,105 @@
+---
+title: The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020, SCHEDULE 1
+act: The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020
+section: schedule-1
+status: repealed
+text_date: '2021-08-09'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2020/344/schedule/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020, SCHEDULE 1
+
+> This provision is no longer in force.
+>
+> Extent: Scotland.
+
+## SCHEDULE 1 — Level 0 Restrictions[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+*Extent: S*
+
+**No longer in force.**
+
+Regulation 3(1)
+
+### PART 1 — Closure of Premises[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+#### 1. Requirement to close certain premises in a Level 0 area to members of the public[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Other restrictions on business[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+#### 2. Requirement for seated food and drink sale and consumption in food and drink businesses in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2A. Restricted opening hours for food and drink businesses in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2B. Restricted opening hours for casinos in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3. Requirement to take measures to minimise risk of exposure to coronavirus in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Guidance on minimising exposure to coronavirus in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5. Requirement to collect and share information in a Level 0 area: restaurants, cafes, bars, public houses, etc.[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Restrictions on gatherings[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+#### 6. Restrictions on public gatherings indoors in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7. Restriction on public gatherings outdoors in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Restriction on gatherings in private dwellings in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — Restrictions on stadia and live events[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+#### 9. Capacity limits on stadia and live events in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Applications for exemption from capacity limits in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. Decisions on applications for exemption from capacity limits in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 12. Guidance on applications for exemption from capacity limits in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13. Revocation and variation of approval of exemption from capacity limits in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 14. Scottish Ministers’ power to call in applications for exemption from capacity in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Offence of breaching conditions of approval to hold larger live event in a Level 0 area[^key-e06b4056dfcd9f9f5a870e3231388c9d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-e06b4056dfcd9f9f5a870e3231388c9d]: Textual amendment: Regulations revoked (9.8.2021) by [The Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021 (S.S.I. 2021/277)](https://www.legislation.gov.uk/ssi/2021/277), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/277/regulation/1/1), [20](https://www.legislation.gov.uk/ssi/2021/277/regulation/20)

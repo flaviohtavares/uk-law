@@ -1,0 +1,253 @@
+---
+title: The Special Waste Amendment (Scotland) Regulations 2004
+id: ssi/2004/112
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2004-03-10'
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2004/112
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2004/112/pdfs/ssi_20040112_en.pdf
+- http://www.legislation.gov.uk/ssi/2004/112/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Special Waste Amendment (Scotland) Regulations 2004
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2004 No. 112
+
+ENVIRONMENTAL PROTECTION
+
+The Special Waste Amendment (Scotland) Regulations 2004
+
+Made
+
+10th March 2004
+
+Laid
+
+11th March 2004
+
+Coming into force in accordance with regulation 1(2) and (3)
+
+The Scottish Ministers, in exercise of the powers conferred by section 2 of and Schedule 1 to the Pollution Prevention and Control Act 1999 [^c10284281], having in accordance with section 2(4) of that Act consulted the Scottish Environment Protection Agency, such bodies or persons appearing to them to be representative of the interests of local government, industry, agriculture and small businesses respectively as they consider appropriate, and such other bodies or persons as they consider appropriate, and in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c10284291] and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Special Waste Amendment (Scotland) Regulations 2004.
+
+(2) Subject to paragraph (3), these Regulations shall come into force on 1st July 2004.
+
+(3) This regulation and regulation 3(3) shall come into force on 1st April 2004.
+
+(4) These Regulations extend to Scotland only.
+
+## 2. Amendment of the Special Waste Regulations 1996
+
+(1) The Special Waste Regulations 1996 [^c10284301] are amended in accordance with the following paragraphs of this regulation.
+
+(2) In regulation 1(4) (interpretation)–
+
+- (a) the definition of “household waste” is omitted;
+- (b) the following definitions are inserted in the appropriate places–
+
+- “**European Waste Catalogue**” means the list of wastes pursuant to Article 1(a) of the Waste Directive and Article 1(4) of the Hazardous Waste Directive set out in Commission Decision [2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532) [^c10284311].
+- “**holder**” means the producer of waste or the person who is in possession of it;
+- “**producer**” means any person whose activities produce waste (“original producer”) and/or any person who carries out pre-processing, mixing or other operations resulting in a change in the nature or composition of this waste;
+- “**the Waste Directive**” means Council Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442) on waste [^c10284321];
+- “**waste**” means anything that–
+  - (i) is waste for the purposes of the Waste Directive [^c10284331]; and
+  - (ii) is not excluded from the scope of that Directive by Article 2 of that Directive;
+  - (c) after regulation 1(4), insert–
+
+    > (5) Other words and expressions used in these Regulations and which are used in the Waste Directive or the Hazardous Waste Directive have the same meaning as in the Waste Directive or the Hazardous Waste Directive, as the case may be.
+
+    .
+
+(3) For regulation 2, substitute–
+
+> **2. Meaning of special waste**
+>
+> “**Special waste**” means any waste which is hazardous waste as defined by Article 1(4) of the Hazardous Waste Directive [^c10284341].
+
+.
+
+(4) After regulation 2, insert–
+
+> **2A. Application of Regulations**
+>
+> Except as provided in regulation 2B (domestic asbestos waste), these Regulations do not apply to special waste which is domestic waste [^c10284351].
+
+.
+
+(5) After regulation 2A, insert–
+
+> **2B. Domestic Asbestos Waste**
+>
+> (1) Subject to paragraphs (2) to (3), these Regulations apply to special waste which is domestic asbestos waste, except in so far as they would, apart from this paragraph, impose obligations on a person to whom paragraph (2) applies.
+>
+> (2) This paragraph applies to a person who is both the original producer of the domestic waste and who is either–
+>
+> - (a) a person who resides at the domestic premises at which the asbestos waste arises; or
+> - (b) a person who is acting on behalf of such a person without reward.
+>
+> (3) In the application of these Regulations to asbestos waste–
+>
+> - (a) not being domestic waste; and
+> - (b) produced in the course of any of the activities of construction, modification, repair and maintenance (including structural works) or demolition of domestic premises or any part thereof,
+>
+> these Regulations operate in relation to a domestic occupier who has engaged any person, other than a person mentioned in paragraph (2)(b), for the carrying out of any such activity so as to treat that person as the producer of the asbestos waste to the exclusion of the occupier.
+
+.
+
+(6) In regulation 3 (certain radioactive waste to be special waste), omit “and paragraphs (1) and (2) of regulation 2” and substitute “ regulations 2 to 2B ”.
+
+(7) After regulation 4, insert–
+
+> **4A. Packaging and labelling of special waste**
+>
+> In the course of its collection, transport and temporary storage, the consignor shall ensure that special waste is properly packaged and labelled in accordance with the relevant provisions of the Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles Regulations 1996 [^c10284361].
+
+.
+
+(8) For paragraph (2)(a) of regulation 5, substitute–
+
+> - (a) five copies of the consignment note shall be prepared, and, on each copy, Parts A and B shall be completed, and there shall be entered on the consignment note–
+>   - (i) the relevant code;
+>   - (ii) the six digit code assigned to the waste in the European Waste Catalogue; and
+>   - (iii) the postcode of the producer of the waste.
+
+.
+
+(9) In regulation 15, after paragraph (8), insert–
+
+> (9) It is the duty of the Scottish Environment Protection Agency to carry out inspections of the registers referred to within these Regulations at such intervals as it considers appropriate, having regard to the need to meet the requirements of Article 13 of the Waste Directive and Article 5(2) of the Hazardous Waste Directive.
+
+.
+
+(10) After regulation 15, insert–
+
+> **15A. Registers: special waste producers**
+>
+> (1) A special waste producer shall keep a record of the quantity, nature, origin and, where appropriate, the destination, frequency of collection and mode of transport of the special waste produced by that producer.
+>
+> (2) Where special waste is transported from the premises where it was produced, by a person other than the producer of that waste, the requirement on the producer to record the destination of that waste includes a requirement to record particulars sufficient to identify that other person.
+>
+> (3) A special waste producer shall preserve the records kept pursuant to this Regulation whilst that producer remains the holder of that waste and for at least 3 years commencing on the date upon which that waste is transferred to another person.
+>
+> (4) The information required to be kept in accordance with paragraphs (1) and (2) shall be kept in a register maintained by the special waste producer for that purpose.
+>
+> (5) A special waste producer shall also enter into the register a copy of each consignment note and, where applicable, carrier’s schedule in respect of each consignment removed[^M_F_c3cbf021-ded7-4884-9325-a261bb6d4f26]....
+>
+> (6) Except where paragraph (7) applies, the register required to be maintained under paragraph (4) shall be kept at the premises at which the special waste was produced.
+>
+> (7) Where a special waste producer ceases to have access to the premises referred to at paragraph (6), but the period mentioned in paragraph (3) has not expired, for the remainder of that period, that producer shall keep the register at the producer’s principal place of business and notify the Scottish Environment Protection Agency thereof forthwith.
+>
+> (8) Any register kept and retained under this regulation shall be produced to, and made available for inspection by, the Scottish Environment Protection Agency on request.
+>
+> (9) Insofar as is consistent with the foregoing provisions of this regulation, registers required to be kept under this regulation may be kept in any form.
+
+.
+
+(11)[^key-e85acb8ff7ed7ef3209e1880087b30ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) After regulation 19, insert–
+
+> **19A. Mutual recognition of consignment notes**
+>
+> Where special waste is removed from premises situated outside Scotland, any consignment note that contains or purports to contain the same information as that required in the form set out in the Annex to Commission Decision 94/774 EC [^c10284371] concerning the standard consignment note referred to in Council Regulation [(EEC) No. 259/93](https://www.legislation.gov.uk/european/regulation/1993/0259) [^c10284381] on the supervision and control of shipments of waste within, into and out of the European Community, that accompanies the special waste shall be treated for the purposes of these Regulations as if it was a consignment note raised in compliance or purported compliance with the provisions of these Regulations.
+
+.
+
+(13) In Part 1 of Schedule 1 (form of consignment note), substitute the form set out in the Schedule to these Regulations.
+
+(14) The Table (Hazardous Waste List) in Part 1 of Schedule 2 is omitted.
+
+## 3. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^key-a3b62d3679dad8f3fd7c456851ee1c20]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ALLAN WILSON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House, Edinburgh
+
+**May not be in force at this date. Check the source.**
+
+## SCHEDULE — NEW FORM OF CONSIGNMENT NOTE IN PART I OF SCHEDULE 1 TO THE SPECIAL WASTE REGULATIONS 1996
+
+Regulation 2(13)
+
+> **PART 1 — FORM OF CONSIGNMENT NOTE**
+>
+> [image: see source](https://www.legislation.gov.uk/ssi/2004/112/images/ssi_20040112_en_sld_001)[image: see source](https://www.legislation.gov.uk/ssi/2004/112/images/ssi_20040112_en_sld_002)
+
+*(This note is not part of the Regulations)*
+
+These Regulations amend the Special Waste Regulations 1996 (S.I. 1996/972) (“**the principal Regulations**”), which make provision for handling special waste and for implementing Council Directive [91/689/EEC](https://www.legislation.gov.uk/european/directive/1991/0689) on hazardous waste (O.J. No. L 377, 31.12.1991, p.20) (“**the Hazardous Waste Directive**”).
+
+Regulation 1(2) and (3) provides that the provisions of regulation 1 and regulation 3(3) come into force on 1st April 2004, with the remaining provisions of the Regulations coming into force on 1st July 2004.
+
+Regulation 2 of the principal Regulations defines special waste. Regulation 2(3) amends that definition to ensure compliance with the Hazardous Waste Directive by defining special waste with reference to Article 1(4) of the Hazardous Waste Directive.
+
+Regulation 2(4) and (5), by inserting a new regulation 2A and regulation 2B into the principal Regulations, extends, in certain circumstances, the application of the principal Regulations to domestic asbestos waste.
+
+Regulation 2(7), which inserts a new regulation 4A into the principal Regulations, makes specific provision for the labelling and packaging requirements for special waste.
+
+Regulation 2(8), which amends regulation 5 of the principal Regulations, among other things, provides that any waste consignment note must identify the waste by reference to the European Waste Catalogue – a definition of the term is inserted into regulation 1(4) of the principal Regulations (regulation 2(1)).
+
+Regulation 2(9), which inserts a new paragraph at regulation 15 of the principal Regulations, requires the Scottish Environment Protection Agency to carry out periodic inspections of the registers referred to within the principal Regulations.
+
+Regulation 2(10), which inserts a new regulation 15A into the principal Regulations, requires the producers of special waste to keep a register which details the documents required to be kept in implementation of Article 4(2) and (3) of the Hazardous Waste Directive. Registers are required to be kept for at least 3 years and a producer is required to provide to SEPA, upon request, the information contained within the register.
+
+Regulation 2(11), which inserts a new regulation 17A into the principal Regulations, imposes an obligation to separate special waste from other waste, as soon as reasonably practicable, where technically and economically feasible and necessary in order to comply with Article 4 of the Waste Directive before recovery or disposal of the waste.
+
+Regulation 2(12), which inserts a new regulation 19A into the principal Regulations, provides for cross-border recognition of consignment notes which contain or purport to contain the information required by the Annex to Commission Decision [97/774/EC](https://www.legislation.gov.uk/european/decision/1997/0774) (O.J. No. L 310, 3.12.1994, p.70) concerning the format of the standard consignment note referred to in Council Regulation EEC (No.) 259/93 (O.J. No. L 30, 6.2.1993, p.1).
+
+Regulation 2(13) amends the form of consignment note in Part I of Schedule I to the principal Regulations to require the six digit code relevant to special waste as referred to in the European Waste Catalogue, to be assigned to a consignment of special waste, together with the postcode of the producer of the special waste. The new form of consignment note is set out in the Schedule to the Regulations.
+
+Regulation 3 amends the Pollution Prevention and Control (Scotland) Regulations 2000 (S.S.I. 2000/323 (“**the 2000 Regulations**”)) to amend the definition of hazardous waste for consistency with the definition of special waste in the principal Regulations, as amended by the present Regulations, to ensure it is compliant with the Hazardous Waste Directive.
+
+Regulation 3(3) extends the prescribed date (the date by which an existing installation requires a permit for the purposes of the 2000 Regulations) to existing Part A installations, or existing Part A mobile plant, mentioned in section 5.3 of Part 1 of Schedule 1 to those Regulations, by a period of 27 months.
+
+## Annotations
+
+[^c10284281]: Marginal citation: [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), as read with section 5(3) of the Act of 1999.
+
+[^c10284291]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The functions conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^c10284301]: Marginal citation: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972) as amended by [S.I. 1996/2019](https://www.legislation.gov.uk/uksi/1996/2019), [S.I](https://www.legislation.gov.uk/uksi/1996/2019/section/I). 1997/257, [S.S.I. 2000/95](https://www.legislation.gov.uk/ssi/2000/95) and [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323).
+
+[^c10284311]: Marginal citation: O.J. No. L 226, 6.9.2000, p.3, as amended by Commission Decisions 2001/118/EC (O.J. No. L 47, 16.2.2001, p.1) and 2001/119/EC (O.J. No. L 47, 16.2.2001, p.32) and by Council Decision 2001/573/EC (O.J. No. L 203, 28.7.2001, p.18). The European Waste Catalogue indicates hazardous wastes by an asterix.
+
+[^c10284321]: Marginal citation: O.J. No. L 194, 25.7.1975, p.39, as amended by Council Directives 91/156/EEC (O.J. No. L 78, 26.3.1991, p.32) and 91/692/EEC (O.J. No. L 377, 31.12.1991, p.48) and Commission Decision 96/350/EC (O.J. L 135, 6.6.1996, p.32).
+
+[^c10284331]: Marginal citation: Article 1(a) of the Waste Directive defines waste as any substance or object in the categories set out in Annex I (Categories of Waste) to that Directive which the holder discards or intends or is required to discard.
+
+[^c10284341]: Marginal citation: This includes substances or categories of substances which are waste and are marked with an asterisk in the European Waste Catalogue.
+
+[^c10284351]: Marginal citation: Article 1(5) of the Hazardous Waste Directive provides that domestic waste be exempted from the provisions of the Directive and make provision for specific rules taking into consideration the particular nature of domestic waste: No such rules have, at the date of making these Regulations, been adopted.
+
+[^c10284361]: Marginal citation: [S.I. 1996/2092](https://www.legislation.gov.uk/uksi/1996/2092) as amended by [S.I. 1999/303](https://www.legislation.gov.uk/uksi/1999/303).
+
+[^M_F_c3cbf021-ded7-4884-9325-a261bb6d4f26]: Textual amendment: Words in [reg. 2(10)](https://www.legislation.gov.uk/ssi/2004/112/regulation/2/10) omitted (21.5.2004) by virtue of [The Special Waste Amendment (Scotland) Amendment Regulations 2004 (S.S.I. 2004/204)](https://www.legislation.gov.uk/ssi/2004/204), [regs. 1](https://www.legislation.gov.uk/ssi/2004/204/regulation/1), [2](https://www.legislation.gov.uk/ssi/2004/204/regulation/2)
+
+[^key-e85acb8ff7ed7ef3209e1880087b30ef]: Textual amendment: [Reg. 2(11)](https://www.legislation.gov.uk/ssi/2004/112/regulation/2/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^c10284371]: Marginal citation: O.J. No. L 310, 3.12.1994, p.70.
+
+[^c10284381]: Marginal citation: O.J. No. L 30, 6.2.1993, p.1.
+
+[^key-a3b62d3679dad8f3fd7c456851ee1c20]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2004/112/regulation/3) revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))

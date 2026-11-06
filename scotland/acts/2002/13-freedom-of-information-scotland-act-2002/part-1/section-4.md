@@ -1,0 +1,34 @@
+---
+title: Freedom of Information (Scotland) Act 2002, section 4
+act: Freedom of Information (Scotland) Act 2002
+section: '4'
+status: revised-with-pending-changes
+text_date: '2026-09-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2002/13/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Freedom of Information (Scotland) Act 2002, section 4
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/asp/2002/13
+>
+> Extent: Scotland.
+
+## 4. Amendment of schedule 1
+
+*Extent: S*
+
+(1) The Scottish Ministers may by order amend schedule 1 by—
+
+- (a) adding to that schedule a reference to—
+  - (i) any body which; or
+  - (ii) the holder of any office which,
+
+  is not for the time being listed there and is either a part of the Scottish Administration or a Scottish public authority with mixed functions or no reserved functions; or
+- (b) removing from that schedule an entry for the time being listed there.
+
+(2) The reference in paragraph (a) of subsection (1) to an authority with mixed functions or no reserved functions is to be construed in accordance with paragraphs 1(4) and 2 of Part III of Schedule 5 to the Scotland Act 1998 (c.46).
+
+(3) An order under subsection (1) may relate to a specified person or office or to persons or offices falling within a specified description.

@@ -1,0 +1,90 @@
+---
+title: The Valuation Timetable (Scotland) Amendment (No. 2) Order 2023
+id: ssi/2023/166
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-05-30'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2023/166
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2023/166/pdfs/ssirpn_20230166_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2023/166/pdfs/ssipn_20230166_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2023/166/pdfs/ssi_20230166_en.pdf
+- http://www.legislation.gov.uk/ssi/2023/166/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Valuation Timetable (Scotland) Amendment (No. 2) Order 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 166
+
+Rating And Valuation
+
+The Valuation Timetable (Scotland) Amendment (No. 2) Order 2023
+
+Made
+
+30th May 2023
+
+Laid before the Scottish Parliament
+
+1st June 2023
+
+Coming into force
+
+15th June 2023
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 13(1) and 42 of the Valuation and Rating (Scotland) Act 1956[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Valuation Timetable (Scotland) Amendment (No. 2) Order 2023 and comes into force on 15 June 2023.
+
+## 2. Amendment of the Valuation Timetable (Scotland) Order 2022
+
+(1) The Valuation Timetable (Scotland) Order 2022[^f00002] is amended in accordance with paragraphs (2) and (3).
+
+(2) In article 6(2) (revocations), for the word “The” where it first occurs, substitute “Subject to the modification made by article 7, the”.
+
+(3) After article 6 (revocations) insert—
+
+> **7. Appeals and complaints lodged between 1 January 2020 and 31 March 2023**
+>
+> (1) In respect of an appeal or a complaint lodged during the period beginning with 1 January 2020 and ending with 31 March 2023, the last date for disposal of the appeal or complaint by the First-tier Tribunal for Scotland is 31 December 2024[^f00003].
+>
+> (2) In this article “**First-tier Tribunal for Scotland**” means the First-tier Tribunal for Scotland established by section 1 of the Tribunals (Scotland) Act 2014.
+
+.
+
+TOM ARTHUR
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+30th May 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes amendments to the Valuation Timetable (Scotland) Order 2022 (“**the 2022 Order**”), which prescribes dates on which, and periods within which, various things require to be done in relation to a valuation roll.
+
+Article 2(3) inserts a new article 7 into the 2022 Order. Article 7 extends the deadline date for disposal of appeals and complaints lodged between 1 January 2020 and 31 March 2023. The deadline is extended to 31 December 2024.
+
+## Annotations
+
+[^f00001]: Footnote: [1956 c. 60](https://www.legislation.gov.uk/ukpga/1956/60). Section 13(1) was modified in its effect by section 22(d) of the Local Government (Financial Provisions) (Scotland) Act [1963 (c. 12)](https://www.legislation.gov.uk/ukpga/1963/12) and amended by paragraph 20(a) of schedule 6 of the Local Government (Scotland) Act [1975 (c. 50)](https://www.legislation.gov.uk/ukpga/1975/50). The functions of the Secretary of State were transferred to the Scottish Ministers by section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [S.S.I. 2022/368](https://www.legislation.gov.uk/ssi/2022/368), which was amended by [S.S.I. 2023/109](https://www.legislation.gov.uk/ssi/2023/109).
+
+[^f00003]: Footnote: The functions of valuation appeals committees in relation to appeals under section 3(2) of the Local Government (Scotland) Act 1975 and complaints under section 13 of the Lands Valuation (Scotland) Act [1854 (c. 91)](https://www.legislation.gov.uk/ukpga/1854/91) and section 6 of the Valuation of Lands (Scotland) Amendment Act [1879 (c. 42)](https://www.legislation.gov.uk/ukpga/1879/42) were transferred to the First-tier Tribunal for Scotland by [S.S.I. 2023/45](https://www.legislation.gov.uk/ssi/2023/45).

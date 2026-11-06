@@ -1,0 +1,2455 @@
+---
+title: The Concession Contracts (Scotland) Regulations 2016
+id: ssi/2016/65
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-01-29'
+text_date: '2026-03-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/65
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/65/pdfs/ssipn_20160065_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/65/pdfs/ssi_20160065_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/65/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Concession Contracts (Scotland) Regulations 2016
+
+> Text as at 2026-03-24.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2016 No. 65
+
+Public Procurement
+
+The Concession Contracts (Scotland) Regulations 2016
+
+Made
+
+29th January 2016
+
+Laid before the Scottish Parliament
+
+2nd February 2016
+
+Coming into force in accordance with regulation 1
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00001] (“the 1972 Act”) and all other powers enabling them to do so.
+
+[^key-304532e1a6c7b000aeb5ade5e4965c0a]These Regulations make provision for a purpose mentioned in that section and it appears to the Scottish Ministers that it is expedient for the following EU instruments to be construed as references to those EU instruments or provisions of those EU Instruments (as appropriate) as amended from time to time if they are expressly mentioned in these Regulations, and they are to be construed accordingly—
+
+- (a) [Directive 1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) of the European Parliament and of the Council on a Community framework for electronic signatures[^f00002];
+- (b) Regulation [(EC) 2195/2002](https://www.legislation.gov.uk/european/regulation/2002/2195) of the European Parliament and of the Council on the Common Procurement Vocabulary (CPV)[^f00003];
+- (c) [Directive 2002/21/EC](https://www.legislation.gov.uk/european/directive/2002/0021) of the European Parliament and of the Council on the common regulatory framework for electronic communication networks and services[^f00004];
+- (d) [Directive 2004/39/EC](https://www.legislation.gov.uk/european/directive/2004/0039) of the European Parliament and of the Council concerning markets for financial instruments amending Council Directives [85/611/EEC](https://www.legislation.gov.uk/european/directive/1985/0611) and [93/6/EEC](https://www.legislation.gov.uk/european/directive/1993/0006) and [Directive 2000/12/EC](https://www.legislation.gov.uk/european/directive/2000/0012) of the European Parliament and of the Council and repealing Council [Directive 93/22/EEC](https://www.legislation.gov.uk/european/directive/1993/0022)[^f00005];
+- (e) Commission [Decision 2009/767/EC](https://www.legislation.gov.uk/european/decision/2009/0767) setting out measures facilitating the use of procedures by electronic means through the points of single contact under [Directive 2006/123/EC](https://www.legislation.gov.uk/european/directive/2006/0123) of the European Parliament and of the Council on services in the internal market (notified under document C(2009)7806)[^f00006];
+- (f) [Directive 2010/13/EU](https://www.legislation.gov.uk/european/directive/2010/0013) of the European Parliament and of the Council on the coordination of certain provisions laid down by law, regulation or administrative action in member States concerning the provision of audio-visual media services[^f00007];
+- (g) [Directive 2013/34/EU](https://www.legislation.gov.uk/european/directive/2013/0034) of the European Parliament and of the Council on the annual financial statements, consolidated financial statement and related reports of certain types of undertaking[^f00008], amending [Directive 2006/43/EC](https://www.legislation.gov.uk/european/directive/2006/0043) of the European Parliament and of the Council and repealing Council Directives [78/660/EEC](https://www.legislation.gov.uk/european/directive/1978/0660) and [83/349/EEC](https://www.legislation.gov.uk/european/directive/1983/0349);
+- (h) Commission [Decision 2011/130/EU](https://www.legislation.gov.uk/european/decision/2011/0130) establishing minimum requirements for the cross-border processing of documents signed electronically by competent authorities under [Directive 2006/123/EC](https://www.legislation.gov.uk/european/directive/2006/0123) of the European Parliament and of the Council on services in the internal market (notified under document C(2011) 1081[^f00009];
+- (i) [Directive 2014/23/EU](https://www.legislation.gov.uk/european/directive/2014/0023) of the European Parliament and of the Council on the award of concession contracts[^f00010];
+- (j) [Directive 2014/24/EU](https://www.legislation.gov.uk/european/directive/2014/0024) of the European Parliament and of the Council on public procurement and repealing [Directive 2004/18/EC](https://www.legislation.gov.uk/european/directive/2004/0018)[^f00011]; and
+- (k) [Directive 2014/25/EU](https://www.legislation.gov.uk/european/directive/2014/0025) of the European Parliament and of the Council on procurement entities operating in the water, energy, transport and postal services sectors and repealing [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017)[^f00012],
+
+and they are to be construed accordingly.[^key-304532e1a6c7b000aeb5ade5e4965c0a][^key-9601323900bfbf9931b6ba474c579184]
+
+## PART 1 — GENERAL
+
+### 1. Citation, commencement and extent[^key-3dcfc24609bc2d211ec48de82ae3222a]
+
+(1) These Regulations may be cited as the Concession Contracts (Scotland) Regulations 2016.
+
+(2) Subject to paragraph (3), these Regulations come into force on 18th April 2016.
+
+(3) Regulation 32(1) to (7) (rules applicable to communication) comes into force on—
+
+- (a) 18th April 2017 in relation to procurement by a central purchasing body; and
+- (b) 18th October 2018 in relation to procurement by any other contracting entity.
+
+(4) These Regulations extend to Scotland only.
+
+### 2. Interpretation[^key-1f2f7b93f10058faacbf679ce1a3a6bf]
+
+(1) In these Regulations—
+
+- “body governed by public law” means a body that has legal personality, is established for the specific purpose of meeting needs in the general interest, not having an industrial or commercial character and which—
+  - (a) is financed for the most part by the State, regional or local authorities, or by any other body governed by public law;
+  - (b) is subject to management supervision by any such authority or body; or
+  - (c) has an administrative, managerial or supervisory board more than half the members of which were appointed by any body referred to in sub-paragraph (a);
+- “candidate” means an economic operator that has sought an invitation or has been invited to take part in a procurement for the award of a concession contract;
+- “central purchasing body” means a contracting entity providing purchasing activity conducted on a permanent basis in one of the following forms—
+  - (a) the acquisition of supplies or services for contracting entities;
+  - (b) the award of a concession contract for works, supplies or services intended for contracting entities;
+- “commenced” in relation to procurement means—
+  - (a) if a concession notice has been sent to the Official Journal in accordance with regulation 33 (concession notice);
+  - (b) if a prior information notice has been published in accordance with regulation 33; or
+  - (c) in any case where there is no such advertising, if the contracting entity has contacted any economic operator—
+    - (i) in order to seek expressions of interest or offers in respect of a proposed concession contract; or
+    - (ii) in response to an unsolicited expression of interest or offer in respect of a proposed concession contract;
+- [^key-0c811f15c56e5b98256d1e9496b6d17f]...
+- “concessionaire” means an economic operator that has been awarded a concession contract;
+- “concession contract award notice” means the notice referred to in regulation 34 (concession contract award notice);
+- “concession contract” has the meaning given by regulation 3 (meaning of “concession contract”);
+- “Concession Contracts Directive” means [Directive 2014/23/EU](https://www.legislation.gov.uk/european/directive/2014/0023) of the European Parliament and of the Council on the award of concession contracts[^f00013];
+- “concession document” means any document produced or referred to by the contracting entity to describe or determine elements of the concession contract or the procurement procedure, including the concession notice, the technical and functional requirements, proposed conditions of the concession contract, formats for the presentation of documents by candidates and tenderers, information on generally applicable obligations and any additional documents;
+- “concession notice” has the meaning given by regulation 6 (meaning of “concession notice”);
+- “contracting entity[^key-c12ea63212d3d5a18844ee7cdb887bc3]” (except in regulation 19 (Exclusions: concession contacts between entities within the public sector)) means a contracting authority or utility;
+- “covered by regulation 7(2)”, in relation to an activity, an element, a part of a concession contract or a procurement, means that regulation 7(2)—[^key-cddd98f59352707a456dcf66c32b7343]
+  - (a) applies to that activity, element, part or procurement, or
+  - (b) would do so if these Regulations applied;
+- “CPV” means the Common Procurement Vocabulary as adopted by Regulation [(EC) No 2195/2002](https://www.legislation.gov.uk/european/regulation/2002/2195) of the European Parliament and of the Council on the Common Procurement Vocabulary [^f00014] and “CPV Code” shall be construed accordingly;
+- “[^key-088ba5267549e8a97ba293a675a32808]**defence and security contract**” has the same meaning as in section 7 of the Procurement Act 2023;
+- [^key-e8bda9f5b0fd3053fc44695644efa287]...
+- “disabled”, in relation to a person, means a disabled person within the meaning of the Equality Act 2010[^f00016] and, in relation to a worker, means a disabled person who is a worker;
+- “economic operator” means any person or public entity or group of such persons or both including any temporary association of undertakings, which offers the execution of works or a work, the supply of products or the provision of services on the market;
+- “electronic means” means electronic equipment for processing (including digital compression) and storage of data which is transmitted, conveyed and received by wire, radio, optical or other electromagnetic means;
+- “exclusive right” means a right granted by a competent authority [^key-47d689f7397a2b95d25fe9616b4a1018]... by means of any law, regulation or published administrative provision [^key-d49ac6bee08e60495806b9a940fcfc1f]..., the effect of which is to limit the exercise of an activity to a single economic operator and which substantially affects the ability of other economic operators to carry out such an activity;
+- “execution of works” means—
+  - (a) the execution, or both the design and execution, of works related to one of the activities listed in Schedule 1;
+  - (b) the execution, or both the design and execution, of a work;
+  - (c) the realisation, by whatever means, of a work corresponding to the requirements specified by the contracting entity exercising a decisive influence on the type or design of the work;
+- “GPA” means the Agreement on Government Procurement[^key-35ac77eeb4fd548d305371b5a11a5487] signed at Marrakesh on 15th April 1994, as amended on or before[^key-ac569aa77e982f47d1313abf24a2d5e4] 30 October 2023[^key-ff4f1a7311d2529d0b70de78b50feee7],
+- “GPA party” means any country, state or separate customs territory that is—[^key-efb22d69a119575b3359e2503fde0ffd]
+  - (a) listed in Schedule 1A; or
+  - (b) a member State of the EU;
+- [^key-36de584fc08fc76661eca7977e38d52e]...
+- “prior information notice” means the notice referred to in regulation 33(3) (concession notice);
+- “procurement” means the process undertaken by a contracting entity leading to the award of a concession contract for the acquisition of works, supplies or services from an economic operator;
+- [^key-33288140d69f5758b2b46ff7b5ba072a]...
+- “services concession contract” has the meaning given by regulation 3(3) (meaning of “services concession contract”);
+- “tenderer” means an economic operator that has submitted a tender;
+- “TFEU” means the Treaty on the Functioning of the European Union[^f00017];
+- [^key-0d0ae3e9e85e7afec83115ec9509da06]...
+- the UK e-notification service” has the meaning given in regulation 35(5),[^key-73de1a55d154e9ac6307bbd75d93d00c]
+- “utility” has the meaning given by regulation 5 (meaning of “utility”);
+- “a work” means the outcome of building or civil engineering works taken as a whole which is sufficient in itself to fulfil an economic or technical function;
+- “working day” means a day other than a Saturday, Sunday or a bank holiday in Scotland within the meaning of the Banking and Financial Dealings Act 1971[^f00019];
+- “works concession contract” has the meaning given by regulation 3(2) (meaning of “works concession contract”);
+- “written” or “in writing” means any expression which can be read by a person, reproduced and subsequently communicated, including information transmitted and stored by electronic means.
+
+(2) Unless the context otherwise requires, any other expression used both in these Regulations (other than in Part 5) and in the Concession Contracts Directive has the meaning that it bears in that Directive.
+
+(3) Except in regulation 52(4) (enforcement of duties through the courts) where these Regulations refer to a period of time—
+
+- (a) where the period follows an action taken, the day on which the action taken is not counted in the calculation of the period; and
+- (b) the period must include at least 2 working days; and
+- (c) where the last day of the period is not a working day, the period is extended to include the next working day.
+
+(4)[^key-92b068a209dfd3e5f06001fe7c2a96bb] In these Regulations, references to the following Directives, Regulation and Commission Decisions are references to the Directives, Regulation and Commission Decisions as amended from time to time—
+
+- (a) [Directive 1999/93/EC](https://www.legislation.gov.uk/european/directive/1999/0093) of the European Parliament and of the Council on a Community framework for electronic signatures[^f00014];
+- (b) Regulation [(EC) 2195/2002](https://www.legislation.gov.uk/european/regulation/2002/2195) of the European Parliament and of the Council on the Common Procurement Vocabulary (CPV)[^f00015];
+- (c) [Directive 2002/21/EC](https://www.legislation.gov.uk/european/directive/2002/0021) of the European Parliament and of the Council on the common regulatory framework for electronic communication networks and services[^f00016];
+- (d) [Directive 2004/39/EC](https://www.legislation.gov.uk/european/directive/2004/0039) of the European Parliament and of the Council concerning markets for financial instruments amending Council Directives [85/611/EEC](https://www.legislation.gov.uk/european/directive/1985/0611) and [93/6/EEC](https://www.legislation.gov.uk/european/directive/1993/0006) and [Directive 2000/12/EC](https://www.legislation.gov.uk/european/directive/2000/0012) of the European Parliament and of the Council and repealing Council [Directive 93/22/EEC](https://www.legislation.gov.uk/european/directive/1993/0022)[^f00017];
+- (e) Commission [Decision 2009/767/EC](https://www.legislation.gov.uk/european/decision/2009/0767) setting out measures facilitating the use of procedures by electronic means through the points of single contact under [Directive 2006/123/EC](https://www.legislation.gov.uk/european/directive/2006/0123) of the European Parliament and of the Council on services in the internal market (notified under document C(2009)7806)[^f00018];
+- (f) [Directive 2010/13/EU](https://www.legislation.gov.uk/european/directive/2010/0013) of the European Parliament and of the Council on the coordination of certain provisions laid down by law, regulation or administrative action in member States concerning the provision of audio-visual media services[^f00019];
+- (g) [Directive 2013/34/EU](https://www.legislation.gov.uk/european/directive/2013/0034) of the European Parliament and of the Council on the annual financial statements, consolidated financial statement and related reports of certain types of undertaking, amending [Directive 2006/43/EC](https://www.legislation.gov.uk/european/directive/2006/0043) of the European Parliament and of the Council and repealing Council Directives [78/660/EEC](https://www.legislation.gov.uk/european/directive/1978/0660) and [83/349/EEC](https://www.legislation.gov.uk/european/directive/1983/0349);
+- (h) Commission [Decision 2011/130/EU](https://www.legislation.gov.uk/european/decision/2011/0130) establishing minimum requirements for the cross-border processing of documents signed electronically by competent authorities under [Directive 2006/123/EC](https://www.legislation.gov.uk/european/directive/2006/0123) of the European Parliament and of the Council on services in the internal market (notified under document C(2011) 1081;
+- (i) [Directive 2014/23/EU](https://www.legislation.gov.uk/european/directive/2014/0023) of the European Parliament and of the Council on the award of concession contracts;
+- (j) [Directive 2014/24/EU](https://www.legislation.gov.uk/european/directive/2014/0024) of the European Parliament and of the Council on public procurement and repealing [Directive 2004/18/EC](https://www.legislation.gov.uk/european/directive/2004/0018); and
+- (k) [Directive 2014/25/EU](https://www.legislation.gov.uk/european/directive/2014/0025) of the European Parliament and of the Council on procurement entities operating in the water, energy, transport and postal services sectors and repealing [Directive 2004/17/EC](https://www.legislation.gov.uk/european/directive/2004/0017).
+
+### 3. Meaning of “concession contract”[^key-e48e92a02bcf7e48d42c7a35945020fd]
+
+(1) In these Regulations, “concession contract” means a works concession contract or a services concession contract as defined within this regulation.
+
+(2) A “works concession contract” means a contract—
+
+- (a) for pecuniary interest concluded in writing by means of which one or more contracting entities entrust the execution of works to one or more economic operators, the consideration for which consists either solely in the right to exploit the works that are the subject of the contract or in that right together with payment; and
+- (b) that meets the requirements of paragraph (4).
+
+(3) A “services concession contract” means a contract—
+
+- (a) for pecuniary interest concluded in writing by means of which one or more contracting entities entrust the provision and the management of services (other than the execution of works) to one or more economic operators, the consideration of which consists either solely in the right to exploit the services that are the subject of the contract or in that right together with payment; and
+- (b) that meets the requirements of paragraph (4).
+
+(4) The requirements referred to in paragraphs (2)(b) and (3)(b) are—
+
+- (a) the award of the contract involves the transfer to the concessionaire of an operating risk in exploiting the works or services encompassing demand or supply risk or both; and
+- (b) the part of the risk transferred to the concessionaire involves real exposure to changing market conditions, such that any potential estimated loss incurred by the concessionaire is not merely nominal or negligible.
+
+(5) For the purposes of paragraph (4)(a) the concessionaire shall be deemed to assume operating risk if, under normal operating conditions, it is not guaranteed to recoup the investments made or the costs incurred in operating the works or the services which are the subject-matter of the concession contract.
+
+### 4. Meaning of “contracting authority”[^key-b9ec21cfa9c55cd3d4dc5a77630f5c58]
+
+In these Regulations, “contracting authority” means State, regional or local authorities (including the Crown but not including Her Majesty in her private capacity), bodies governed by public law or associations formed by one or more such authorities or bodies other than those authorities, bodies or associations which pursue one of the activities listed in Schedule 2 and award a concession contract for the pursuit of one of those activities.
+
+### 5. Meaning of “utility”[^key-5983a50657e9062a70b80ed32c9222f5]
+
+(1) In these Regulations, “utility” means an entity which pursues one of the activities listed in Schedule 2 and awards a concession contract for the pursuit of one of those activities, and which is one of the following:—
+
+- (a) State, regional or local authorities (including the Crown but not including Her Majesty in her private capacity), bodies governed by public law or associations formed by one or more such authorities or bodies;
+- (b) a public undertaking;
+- (c) any other entity which operates on the basis of special rights or exclusive rights, granted for the exercise of one of the activities listed in Schedule 2.
+
+(2) An entity is not a utility within the meaning of paragraph (1) if special rights or exclusive rights are granted to that entity following a procedure mentioned in paragraph (3) in which adequate publicity was ensured and the granting of the rights was based on objective criteria.
+
+(3) The procedures referred to in paragraph (2) include—
+
+- (a) procurement with a prior call for competition in conformity with these Regulations, the Public Contracts (Scotland) Regulations 2015[^f00020] or the Utilities Contracts (Scotland) Regulations 2016[^key-bfc7ad3fa1a61c5e6d55480a91f79ffd];
+- (aa)[^key-14acb4f5c94d910aeac615d159d860dc] procedures in accordance with section 19 of the Procurement Act 2023;
+- (b) procedures pursuant to the legal acts of the European Union listed in Annex III to the Concession Contracts Directive, ensuring adequate prior transparency for granting authorisations on the basis of objective criteria.
+
+(4) In this regulation—
+
+- (a) “public undertaking” means any undertaking over which a contracting authority may exercise, directly or indirectly, a dominant influence by virtue of—
+  - (i) their ownership of that undertaking;
+  - (ii) their financial participation in that undertaking; or
+  - (iii) the rules which govern that undertaking;
+- (b) “special right” means a right granted by a competent authority [^key-6dbeb7045b4db1e0f60b1216a6ccd445]... by means of any law, regulation or published administrative provision [^key-9ac269163029b66734e4ececed09574d]..., the effect of which is to limit the exercise of an activity to two or more economic operators and which substantially affects the ability of other economic operators to carry out such an activity.
+
+(5) For the purposes of the definition of “public undertaking” in paragraph (4), a dominant influence on the part of the contracting authority shall be presumed if that authority, directly or indirectly—
+
+- (a) holds the majority of the undertaking’s subscribed capital;
+- (b) controls the majority of the votes attached to shares issued by the undertaking; or
+- (c) can appoint more than half of the undertaking’s administrative, management or supervisory body.
+
+### 6. Meaning of “concession notice”[^key-bb1dd015af789d69b50fdd7cfa595882]
+
+(1) In these Regulations, subject to paragraph (2), “concession notice” means the notice referred to in regulation 33(1) (concession notice).
+
+(2) In Part 5 of these Regulations, “concession notice”—
+
+- (a) in relation to a procurement for the award of a concession contract by a contracting entity includes a prior information notice; and
+- (b) in relation to a procurement for the award of a concession contract by a contracting authority, has the same meaning as “contract notice” in Council [Directive 89/665/EEC](https://www.legislation.gov.uk/european/directive/1989/0665) on the co-ordination of the laws, regulations and administrative provisions relating to the application of review procedures to the award of public supply and public works contracts[^f00022].
+- (c) in relation to a procurement for the award of a concession contract by a utility, has the same meaning as “notice” in Council [Directive 92/13/EEC](https://www.legislation.gov.uk/european/directive/1992/0013) on the coordination of laws, regulations and administrative provisions relating to the application rules on procurement procedures for entities operating in the water, energy, transport and telecommunication sectors[^f00023].
+
+## PART 2 — SCOPE AND PRINCIPLES
+
+### CHAPTER 1 — CONCESSION CONTRACTS TO WHICH THESE REGULATIONS APPLY
+
+#### 7. Subject matter and application of these Regulations[^key-5f790d1b1e3bf17c9d5058d7a5dbcf82]
+
+(1) These Regulations establish rules on procurement for the award of a concession contract by a contracting entity—
+
+- (a) the value of which is estimated to be not less than the threshold mentioned in regulation 8 (thresholds and methods for calculating the estimated value of the concession contract); and
+- (b) which is not excluded from the scope of these Regulations by any other provision of this Part.
+
+(2)[^key-f4567bf01245eb0351ee1fd92375e209] These Regulations—
+
+- (a) do not oblige the United Kingdom to supply information the disclosure of which it considers contrary to the essential interests of its security,
+- (b) do not preclude the United Kingdom from taking such measures as it considers necessary for the protection of the essential interests of its security which are connected with the production of or trade in arms, munitions and war material, provided that such measures do not adversely affect the conditions of competition regarding products which are not intended for specifically military purposes.
+
+(3) The arms, munitions and war material to which paragraph (2)(b) applies are those included in the 1958 List.
+
+(4) Any measures which, if they had been taken immediately before IP completion day, would have been covered by Article 346 of TFEU shall be regarded as measures covered by paragraph (2)(b).
+
+(5) In this regulation, “the 1958 List” means the list of arms, munitions and war material adopted by the Council of the European Economic Community in its Decision 255/58 of 15 April 1958 as that list is to be treated for the purpose of the Concession Contracts Regulations 2016[^M_F_e55a5864-cb42-49dd-d0e0-5394c7c2d5ef].
+
+#### 7A. Regulation of procurement by UK contracting authorities[^key-1fdbf942b3d9eab130a2972f4aeb5212]
+
+(1) The provisions of these Regulations apply without modification where a UK contracting authority carries out procurement under a devolved Scottish procurement arrangement and, as part of that arrangement, a contract is to be awarded following a procedure or other selection process carried out—
+
+- (a) jointly by that authority and one or more contracting authority, or
+- (b) by a central purchasing body or equivalent which is a contracting authority.
+
+(2) In this regulation—
+
+- “**devolved Scottish procurement arrangement**” has the meaning given in section 114(4) of the Procurement Act 2023,
+- “**UK contracting authority**” means a contracting authority within the meaning of section 2(1) of the Procurement Act 2023.
+
+#### 8. Thresholds and methods for calculating the estimated value of the concession contract[^key-997a2b0b8b9214c41aef54be28cb5a30]
+
+(1) These Regulations apply to a procurement for the award of a concession contract if the estimated value of the contract to be awarded (inclusive of value added tax, where appropriate[^key-27333199036c0e17101c19a9eba0b70b]) is equal to or greater than £5,193,000[^key-26776cae80cf4f27e186299efc90c506].
+
+(1A)[^key-64af7a1f60fb0177e6b3266464b724f3] The contracting entity must—
+
+- (a) calculate in accordance with the following paragraphs the estimated value of a concession contract; or
+- (b) if it is not possible to calculate the estimated value of a contract, take its estimated value to be equal to the threshold mentioned in paragraph (1).
+
+(2)[^key-a1d199afd1833e18ab8156a568336b1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The value of a concession contract shall be the total turnover of the concessionaire generated over the duration of the contract, inclusive of value added tax, where appropriate[^key-89a548705a417481c72e09d73053daaf], as estimated by the contracting entity, in consideration for the works and services which are the object of the concession contract and the supplies incidental to such works and services.
+
+(4) That estimate must be calculated as at the moment at which the concession notice is submitted[^key-5490917c3b0073ae45cfb4b46369bee4] for publication in accordance with regulation 35 (form and manner of publication of notices) or, in cases where such notice is not provided for, at the moment at which the contracting entity commences the procurement for the award of a concession contract.
+
+(5) If the value as estimated at the time of the award is more than 20% higher than the estimate calculated in accordance with paragraph (4), the former shall be used for the purposes of this regulation.
+
+(6) The estimated value of the concession contract must be calculated using an objective method specified in the concession documents.
+
+(7) When calculating the estimated value of the concession contract, the contracting entity must, if applicable, take into account—
+
+- (a) the value of any form of option and any extension of the duration of the concession contract;
+- (b) revenue from the payment of fees and fines by the users of the works or services other than those collected on behalf of the contracting entity;
+- (c) payments or any other financial advantages, in any form, from the contracting entity or any other public authority to the concessionaire, including compensation for compliance with a public service obligation and public investment subsidies;
+- (d) the value of grants or any other financial advantages, in any form, from third parties for the performance of the concession contract;
+- (e) revenue from sales of any assets which are part of the concession contract;
+- (f) the value of all the supplies and services that are made available to the concessionaire by the contracting entity, provided that they are necessary for executing the works or providing the services;
+- (g) any prizes or payments to candidates or tenderers.
+
+(8) The method used to calculate the estimated value of a concession contract must not be chosen with the intention of excluding it from the scope of these Regulations.
+
+(9) A concession contract must not be subdivided with the effect of preventing it from falling within the scope of these Regulations, unless justified by objective reasons.
+
+(10) If a proposed work or proposed provision of services may result in a concession contract being awarded in the form of separate lots, account must be taken of the total estimated value of all such lots.
+
+(11) If the aggregate value of the lots is equal to or greater than the threshold referred to in paragraph (1), these Regulations apply to the award of each lot.
+
+#### 8A. Review and amendment of the threshold in regulation 8(1)[^key-050953ded917c359257c1b9a35398584]
+
+(1) Every two years the Scottish Ministers must review the threshold specified in regulation 8(1) to verify whether it corresponds with the threshold established in the GPA for works concessions.
+
+(2) The Scottish Ministers must do so by calculating the sterling value of the threshold on the basis of the average daily value of sterling in terms of the special drawing rights mentioned in the GPA over a period of 24 months ending with 31 August.
+
+(3) The Scottish Ministers must make that calculation using the applicable conversion rates in the monthly International Financial Statistics published from time to time by the International Monetary Fund.
+
+(4) If the sterling value of the threshold so calculated differs from the sum for the time being set by regulation 8(1) in respect of the threshold, the Scottish Ministers must make regulations amending regulation 8(1) so as to substitute for that sum the sum equal to that value.
+
+(5) Such regulations—
+
+- (a) must be made and laid before the Scottish Parliament before 1 November following the end of the 24 month period covered by the review, and
+- (b) must provide for the substitution to come into force on the following 1 January.
+
+(6) The first review under this regulation must relate to the 24 month period ending with 31 August 2021.
+
+### CHAPTER 2 — EXCLUSIONS
+
+#### 9. Exclusions: Concession contracts awarded on the basis of an exclusive right[^key-eaecbba44d17479ff6be15c76b865833]
+
+(1) These Regulations do not apply to—
+
+- (a) a services concession contract[^key-32c57991dc4668c1e244a8d747f26b05] awarded to a contracting authority or utility referred to in regulation 5(1)(a) (meaning of “utility”) or to an association of such contracting authorities or utilities, on the basis of an exclusive right; or
+- (b) subject to paragraph (2), a services concession contract awarded to an economic operator on the basis of an exclusive right granted for the exercise of[^key-9663686c1fe6feac2557837f66656802] an activity listed in Schedule 2.
+
+(2) If the exclusive right referred to in paragraph (1)(b) was not granted following the application of[^key-2cdf492320bab962dad45c1db3546e09] sector-specific transparency obligations, regulation 34 (concession contract award notice) applies.
+
+#### 10. Exclusions: Concession contracts awarded pursuant to international rules[^key-66aaa189483818473a5389477c273a0a]
+
+(1) These Regulations do not apply to procurement for the award of a concession contract which the contracting entity is obliged to award or organise in accordance with procurement procedures which are established by—
+
+- (a) an international agreement or any other legal instrument creating international law obligations [^key-b06c2e16ed09606a3fb4e7caa7f3e29d]... between the United Kingdom and one or more other[^key-667865f5cdfaf7a579088625750688bc] countries or any part thereof and covering works, supplies or services intended for the joint implementation or exploitation of a project by the signatories; [^key-c62dc6e15dc36cf9ee6bac682ffaf2d3]...
+- (b)[^key-c62dc6e15dc36cf9ee6bac682ffaf2d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-c5bf5a535eb92a1b01a708e1b0820303] These Regulations do not apply to procurement for the award of a relevant international concession contract in a case where the applicable procurement rules restrict the participation of economic operators in the procedure.
+
+(2A) In the case of procurement for the award of a relevant international concession contract where the applicable procurement rules do not restrict the participation of economic operators in the procedure, the only regulation that applies to the procurement is regulation 28 (equal treatment of economic operators).
+
+(3) This Regulation does not apply to procurement for the award of a concession contract which is a defence and security contract[^key-c2f4b323ca0f69cf0085386d7df2165d].
+
+(4)[^key-4f435d11c905ca8ff7fbcf38766ddfd6] In this regulation, “**relevant international concession contract**” means a concession contract that—
+
+- (a) the contracting entity undertakes or organises in accordance with procurement rules provided by an international organisation or international financing institution, and
+- (b) is fully financed, or co-financed for the most part, by that organisation or institution.
+
+#### 11. Exclusions: Concession contracts involving defence or security aspects which are awarded or organised pursuant to international rules[^key-9ff4ff9dbc5a0bbdf5c12494d90466d0]
+
+(1) These Regulations do not apply to the procurement for the award of a concession contract which is a defence and security contract[^key-b7c0276ea94ad584173e708cd5036f60]—
+
+- (a) which is[^key-171b7ac54e35d7f44a3153d00f2b84cf] governed by specific procedural rules pursuant to an international agreement or arrangement concluded between the United Kingdom[^key-74d6c42f6bdc17a7b1e9264f3878b9e4] and one or more other[^key-cb000143b046c2c45c099ec10fd22463] countries;
+- (b) which is[^key-90bd3b455770bb40f987e6d603329d52] governed by specific procedural rules pursuant to a concluded international agreement or arrangement relating to the stationing of troops and concerning the undertakings of the United Kingdom or another[^key-6dcbffb4b03f9a23215a2988cada7cf9] country;
+- (c) which is[^key-be21aee1ea0d9fb74047d2ed06925f9a] governed by specific procedural rules of an international organisation purchasing for its purposes or which must be awarded by the United Kingdom[^key-86b37c369145edad20a27505b9470862] in accordance with those rules;
+- (d) in relation to which the application of these Regulations would oblige the United Kingdom to supply information the disclosure of which it considers contrary to the essential interests of its security or the procurement and performance of which is classified as secret or must be accompanied by special security measures in accordance with the laws, regulations or administrative provisions in force in any part of the United Kingdom, provided that the United Kingdom has determined that the essential interests concerned cannot be guaranteed by less intrusive measures, such as those referred to in paragraph (2);
+- (e) awarded in the framework of a cooperative programme referred to in paragraph 30 of Schedule 2 to the Procurement Act 2023[^key-55326d51ade29c782e0a674380ac8773];
+- (f) awarded by a government to another government relating to works and services directly linked to military equipment or sensitive equipment, or works and services specifically for military purposes, or sensitive works and sensitive services (and in this sub-paragraph “government” means the State, regional or local government of the United Kingdom, Gibraltar or another country[^key-60c2383ae46542f7499e9ae0b99e48a4]);
+- (g) awarded in a country other than the United Kingdom or Gibraltar[^key-f369ef0e404b0f9e34f669fb77bc5911], to be carried out when forces are deployed outside the United Kingdom and Gibraltar[^key-d12786c85a43bcfd317769415410aa0e] if operational needs require those concession contracts to be concluded with economic operators located in the area of operations.
+
+(2) These Regulations do not apply to concession contracts not otherwise exempted under paragraph (1) to the extent that the protection of the essential security interests of the United Kingdom [^key-6b95096a218fe2b99973f2d8e9bd0810]... cannot be guaranteed by less intrusive measures, for example by imposing requirements aimed at protecting the confidential nature of information which the contracting entity makes available in a procurement for the award of a concession contract as provided for in these Regulations.
+
+(3) These Regulations do not apply to procurement for the award of a concession contract involving defence or security aspects which the contracting entities carries out in accordance with procurement rules provided by an international organisation or international financing institution if the concession contract concerned is fully financed by that organisation or institution or is co-financed for the most part by such organisation or institution.
+
+#### 12. Exclusions: Specific service contracts[^key-eb9c63bbfb5b44a141ee3ce12a2e8352]
+
+(1) These Regulations do not apply to procurement for the award of a concession contract—
+
+- (a) for the acquisition or rental, by whatever financial means, of land, existing buildings or other immovable property or of any estate, right, servitude or other interest in or over such land, buildings or property;
+- (b) by an audio‑visual or radio media services provider, for the acquisition, development production or co-production of programme material intended for audio-visual media services or radio media services;
+- (c) to an audio-visual or radio media services provider, for broadcasting time or programme provision;
+- (d) for arbitration or conciliation services;
+- (e) for any of the following legal services—
+  - (i) legal representation of a client by a lawyer [^key-ab396482286e26cd042bf4b573f34ed6]... in—
+    - (aa) an arbitration or conciliation proceedings held in the United Kingdom, another[^key-da60ba62ff929182de009fb77871476b] country or before an international arbitration or conciliation instance;
+    - (bb) judicial proceedings before the courts, tribunals or public authorities of the United Kingdom or another[^key-c84004188d169670f24cb3c9b636b484] country or before international courts, tribunals or institutions;
+  - (ii) legal advice given by a lawyer [^key-3ffc639d1fcd583d49c9a581c2ce7f01]...—
+    - (aa) in preparation of any proceedings referred to in paragraph (i), or
+    - (bb) if there is a tangible indication and high probability that the matter to which the advice relates will become the subject of such proceedings;
+  - (iii) document certification or authentication services which must be provided by a notary public;
+  - (iv) legal services provided by trustees or appointed guardians or other legal services the providers of which are designated by a court or tribunal [^key-16384f475572db40df255a969f4980f8]... or are designated by law to carry out specific tasks under the supervision of such tribunals or courts; or
+  - (v) other legal services which [^key-32e47f546a9b5323df937803b1102468]... are connected, even occasionally, with the exercise of official authority;
+- (f) for financial services in connection with the issue, sale, purchase or transfer of securities or other financial instruments within the meaning of [Directive 2004/39/EC](https://www.legislation.gov.uk/european/directive/2004/0039) of the European Parliament and of the Council on markets in financial instruments amending Council Directives [85/611/EEC](https://www.legislation.gov.uk/european/directive/1985/0611) and [93/6/EEC](https://www.legislation.gov.uk/european/directive/1993/0006) and [Directive 2000/12/EC](https://www.legislation.gov.uk/european/directive/2000/0012) of the European Parliament and of the Council and repealing Council [Directive 93/22/EEC](https://www.legislation.gov.uk/european/directive/1993/0022)[^f00025] ;
+- (g) for central bank services;
+- (h) for operations conducted with the European Financial Stability Facility and the European Stability Mechanism;
+- (i) for loans, whether or not in connection with the issue, sale, purchase or transfer of securities or other financial instruments;
+- (j) for civil defence, civil protection or danger prevention services that are provided by non‑profit organisations or associations, and which are specified under CPV Codes 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 and 85143000-3 except patient transport ambulance services;
+- (k) air transport services based on the economic operator’s status as a qualifying air carrier[^key-a056f008311925d4bd0a8257ec480008] within the meaning of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008) of the European Parliament and of the Council on common rules for the operation of air services in the Community[^f00026];
+- (l) public passenger transport services within the meaning of the Public Service Obligations in Transport Regulations 2023, except where such services are provided by means of a motor vehicle, other than a tram, which is adapted to carry not more than sixteen passengers[^key-fd6240a3808e17acca7c372e24622258];
+- (m) for political campaign services which are specified under CPV Codes 79341400-0, 92111230-3 and 92111240-6, when awarded by a political party in the context of an election campaign;
+- (n) lottery services which are covered by CPV Code 92351100-7 and awarded to an economic operator on the basis of an exclusive right granted otherwise than as described in regulation 5(2) (meaning of “utility”); or
+- (o) by a utility for the pursuit of activities in a country other than the United Kingdom[^key-1134abb935d4b30917a96bbdf6ba9ad6], in conditions not involving the physical use of a network or geographical area within the United Kingdom[^key-d806640c58db2d7be99d686c347d2d46].
+
+(2) In this regulation—
+
+- (a) “audio-visual media services” has the meaning given by Article 1(1)(a) of [Directive 2010/13/EU](https://www.legislation.gov.uk/european/directive/2010/0013) of the European Parliament and of the Council on the coordination of certain provisions laid down by law, regulation or administrative action in member States concerning the provision of audio-visual media services[^f00028];
+- (aa)[^key-3b49d2f2223027cc96d267b01cd8c25d] “lawyer” means a person acting as an advocate, barrister or solicitor in any part of the United Kingdom or Gibraltar,
+- (b) “media services providers” has the meaning given by Article 1(1)(d) of that Directive;
+- (c) “programme” and “programme material” have the meaning given by Article 1(1)(b) of that Directive but also include radio programmes and radio programme material.
+
+#### 13. Exclusions: Electronic Communications[^key-d2df0eb028dba01544cc2af93aef057c]
+
+(1) These Regulations do not apply to procurement for the award of a concession contract for the principal purpose of permitting the contracting entity to provide or exploit public communications networks or to provide an electronic communications service to the public.
+
+(2) In this regulation, “public communications networks” and “electronic communication service” has the meaning given by Article 2 of [Directive 2002/21/EC](https://www.legislation.gov.uk/european/directive/2002/0021) of the European Parliament and of the Council on a common regulatory framework for electronic communications networks and services[^f00029].
+
+#### 14. Exclusions: Water[^key-d0e5893c31f87b7bbe6392a588e28e3c]
+
+These Regulations do not apply to—
+
+- (a) a concession contract awarded to provide or operate fixed networks intended to provide a service to the public in connection with the production, transport or distribution of drinking water;
+- (b) a concession contract awarded to supply drinking water to such networks;
+- (c) a concession contract for either or both of the following—
+  - (i) hydraulic engineering projects, irrigation or land drainage, provided that the volume of water to be used for the supply of drinking water represents more than 20% of the total volume of water made available by such projects or irrigation or drainage installations; or
+  - (ii) the disposal or treatment of sewage,
+
+  if the contract is connected with an activity referred to in paragraph (a) or (b).
+
+#### 15. Exclusions: Concession contracts awarded to an affiliated undertaking[^key-ecbb3a659c7f8ada18c7bc0f319478e9]
+
+(1) These Regulations do not apply to a concession contract—
+
+- (a) awarded by a utility to an affiliated undertaking; or
+- (b) awarded by a joint venture, formed exclusively of a number of utilities for the purpose of carrying out activities listed in Schedule 2, to an undertaking which is affiliated with one of those utilities,
+
+provided that the conditions in paragraph (2) are met.
+
+(2) The conditions referred to in paragraph (1) are that—
+
+- (a) in respect of a services concession contract, at least 80% of the average total turnover of the affiliated undertaking over the preceding three years, taking into account all services provided by that undertaking, derives from the provision of services to the utility or other undertakings with which it is affiliated;
+- (b) in respect of a works concession contract, at least 80% of the average total turnover of the affiliated undertaking over the preceding three years, taking into account all works provided by that undertaking, derives from the provision of works to the utility or other undertakings with which it is affiliated.
+
+(3) If, because of the date on which an affiliated undertaking was created or commenced activities, the turnover is not available for the preceding three years, it shall be sufficient for that undertaking to show that the turnover referred to in paragraph (2) is credible, in particular by means of business projections.
+
+(4) If more than one of a utility’s affiliated undertakings provides the same or similar services or works, the percentages referred to in paragraph (2) must be calculated taking into account the total turnover deriving respectively from the provision of services or works by those affiliated undertakings.
+
+(5) In this regulation, “affiliated undertaking”, in relation to a utility, means —
+
+- (a) any undertaking whose annual accounts are consolidated with those of the utility in accordance with the requirements of Part 15 of the Companies Act 2006[^key-8aa6a72aaf43b4d0210fbc921c9a8fac] on the annual financial statements and related reports of certain types of undertaking[^M_F_2167e716-970a-4cee-8de4-076c8c99d16e];
+- (b) in the case of entities which are not subject to that Part[^key-e94b8640618eff73ad56b9d6b6924dd3] any undertaking that—
+  - (i) may be, directly or indirectly, subject to a dominant influence by the utility;
+  - (ii) may exercise a dominant influence over the utility; or
+  - (iii) in common with the utility, is subject to the dominant influence of another undertaking by virtue of ownership, financial participation, or the rules which govern it.
+
+(6) For the purposes of paragraph (5)(b), a dominant influence shall be presumed on the part of a utility or, as the case may be, an undertaking in the same circumstances in which it is, in accordance with regulation 5 (meaning of “utility”), presumed on the part of a contracting authority.
+
+(7) This regulation applies despite the provisions of regulation 19 (exclusions: concession contracts between entities within the public sector).
+
+#### 16. Exclusions: Concession contracts awarded to a joint venture or to a utility forming part of a joint venture[^key-0e8ffda2926b3eecbdc584e040a78794]
+
+(1) These Regulations do not apply to a concession contract—
+
+- (a) awarded by a joint venture, formed exclusively by a number of utilities for the purpose of carrying out activities listed in Schedule 2, to one of these utilities; or
+- (b) awarded by a utility to such a joint venture of which it forms part,
+
+provided that the joint venture has been set up to carry out the activity concerned over a period of at least three years and that the instrument setting up the joint venture stipulates that the utilities which form it will be part of the joint venture for at least the same period.
+
+(2) This provision applies despite the provisions of regulation 19 (exclusions: concession contracts between entities within the public sector).
+
+#### 17. Notification of information by utilities[^key-e61b48c4fda809e1ab1c11d1e6f084c9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 18. Exclusion of activities which are directly exposed to competition[^key-f0166d7ba04e54c59b6822d3249a8c11]
+
+These Regulations do not apply to the procurement for the award of a concession contract by a utility if the contract is intended to enable an activity referred to in regulation 32 (activities directly exposed to competition) of the Utilities Contracts (Scotland) Regulations 2016[^f00031] to be carried out and that activity is or is established to be directly exposed to competition in accordance with that regulation.
+
+#### 19. Exclusions: Concession contracts between entities within the public sector[^key-2de58bed28c71e39a9f1ed08837a47e5]
+
+(1) These Regulations do not apply to procurement for the award of a concession contract—
+
+- (a) by a contracting entity to a controlled person;
+- (b) by a controlled person to a contracting entity which controls that person; or
+- (c) by a controlled person to another controlled person if both such persons are controlled by the same contracting entity.
+
+(2) For the purpose of this regulation, a person is a “controlled person” if—
+
+- (a) the contracting entity exercises over that person a control which is similar to that which it exercises over its own departments;
+- (b) the person carries out more than 80% of its activities in the performance of tasks entrusted to it by the contracting entity or by other persons controlled by that contracting entity; and
+- (c) no other person has direct private capital participation in the person with the exception of non-controlling and non-blocking forms of private capital participation required by any enactment [^key-2222c6b957b33501951d4b55be3a8f2f]... which do not exert a decisive influence on the person being awarded the contract.
+
+(3) For the purpose of paragraph (2)(a) a contracting entity shall be deemed to exercise control over a person similar to the control that it exercises over its own departments if—
+
+- (a) it exercises a decisive influence over the strategic objectives and significant decisions of the person; or
+- (b) such control is exercised by another person which is itself controlled in the same way by the contracting entity.
+
+(4) These Regulations do not apply to procurement for the award of a concession contract by a contracting entity to a person which is jointly controlled.
+
+(5) For the purpose of paragraph (4) a person is jointly controlled if—
+
+- (a) the contracting entity, jointly with other contracting entities, exercises over that person a control which is similar to that which the contracting entity exercises over its own departments;
+- (b) the person carries out more than 80% of its activities in the performance of tasks entrusted to it by the contracting entities or by other persons controlled by those entities; and
+- (c) no other person has direct private capital participation in the person with the exception of non-controlling and non-blocking forms of private capital participation required by any enactment [^key-79618221ccc750b3999d9896d197f51c]... which do not exert a decisive influence on the person being awarded the contract.
+
+(6) For the purpose of paragraph (5)(a) the contracting entity shall be deemed to exercise control over a person similar to the control that the entity exercises over its own departments if—
+
+- (a) the decision making bodies of the person are composed of representatives of all participating contracting entities;
+- (b) those contracting entities jointly exercise a decisive influence over the strategic objectives and significant decisions of the person; and
+- (c) the person does not pursue any interests which are contrary to those of the contracting entities.
+
+(7) For the purpose of paragraph (6)(a) an individual representative may represent several or all of the contracting entities.
+
+(8) These Regulations do not apply to procurement for the award of a public contract exclusively between two or more contracting entities if—
+
+- (a) the contract is for the purpose of establishing or implementing co-operation between the contracting entities with the aim of ensuring that public services they have to perform are provided with a view to achieving objectives they have in common;
+- (b) the implementation of that co-operation is governed solely by considerations relating to the public interest; and
+- (c) the contracting entities perform on the open market less than 20% of the activities concerned by the co-operation.
+
+(9) The percentage of activities referred to in paragraphs (2)(b), (5)(b) and (8)(c), must be determined by reference to—
+
+- (a) the average turnover of the person or, as the case may be, contracting entity for the period of 3 years preceding the date of the proposed concession contract award; or
+- (b) an appropriate alternative activity-based measure such as costs incurred by the relevant person or contracting entity with respect to works and services for such 3 year period.
+
+(10) If paragraph (11) applies, an alternative credible measurement of activity must be used, and for this purpose use of business projections must be treated as a credible measure.
+
+(11) This paragraph applies if the turnover or activity based measure are not available for the preceding 3 years or are no longer relevant because of—
+
+- (a) the date on which the person or contracting entity was created or commenced activities; or
+- (b) a reorganisation of its activities.
+
+(12) In this regulation, “contracting entity” means a contracting authority or a utility referred to in regulation 5(1)(a) (meaning of “utility”).
+
+### CHAPTER 3 — GENERAL PROVISIONS
+
+#### 20. Duration of the concession contract[^key-64548ec18a5d7997a204756039134cf0]
+
+(1) The duration of a concession contract must be limited.
+
+(2) The contracting entity must estimate the duration on the basis of the works or services requested.
+
+(3) For a concession contract lasting more than 5 years, the maximum duration of the concession contract must not exceed the time that a concessionaire could reasonably be expected to take to recoup the investment made in operating the works or services together with a return on invested capital, taking into account the investment required to achieve the specific contractual objectives.
+
+(4) The investment taken into account for the purposes of the calculation of the time period referred to in paragraph (3) must include both initial investment and investment during the life of the concession contract.
+
+#### 21. Social and other specific services[^key-8c1a012d9735a02f6152c81f617a87ae]
+
+(1) A concession contract for social and other specific services listed in Schedule 3 falling within the scope of these Regulations shall be subject only to the obligations arising from regulations 33(3) (concession notices), 34 (concession award notices) and 49 (notice of decision to award a concession contract) to 59 (financial penalties).
+
+(2) Regulation 26 applies to a concession contract for social and other specific services as it applies to any other concession contract.
+
+#### 22. Mixed Procurement[^key-4f15e2174a436e452b2d7aa0016c5d2f]
+
+(1) A concession contract which has as its subject-matter both works and services must be awarded in accordance with the provisions applicable to the type of concession contract that characterises the main subject-matter of the contract in question.
+
+(2) In the case of a mixed concession contract consisting partly of social and other specific services listed in Schedule 3 and partly of other services, the main subject-matter must be determined in accordance with which of the estimated values of the respective services is the highest.
+
+(3) If the different parts of a given contract are objectively separable—
+
+- (a) in the case of a contract which has as its subject-matter elements covered by these Regulations as well as other elements, a contracting entity may choose to award separate contracts for the separate parts or to award a single contract;
+- (b) if a contracting entity chooses to award separate contracts for separate parts, the decision as to which legal regime applies to any one of such separate contracts shall be taken on the basis of the characteristics of the separate part concerned;
+- (c) if a contracting entity chooses to award a single contract, these Regulations, unless otherwise provided in sub-paragraph (d), apply to the ensuing mixed contract*,* irrespective of—
+  - (i) the value of the parts that would otherwise fall under a different legal regime,
+  - (ii) which legal regime those parts would otherwise have been subject to;
+- (d) in the case of a mixed contract containing elements of a concession contract as well as elements of a public contract covered by the Public Contracts (Scotland) Regulations 2015 or a contract covered by the Utilities Contracts (Scotland) Regulations 2016, the mixed contract must be awarded in accordance with regulation 4(7) (mixed procurement) of the Public Contracts (Scotland) Regulations 2015 or regulation 6(6)(b) (procurement covering several activities) of the Utilities Contracts (Scotland) Regulations 2016, respectively.
+
+(4) If the different parts of a given contract are objectively not separable—
+
+- (a) the applicable legal regime must be determined on the basis of the main subject-matter of that contract; and
+- (b) if that contract involves both elements of a services concession contract and of a supply contract, the main subject-matter shall be determined according to which of the estimated values of the respective services or supplies is the highest.
+
+(5) If part of a given contract is covered by regulation 7(2)[^key-9e6c2f242c2dc2e217b333b09ac0d781] or would, if awarded as a separate contract, be considered a defence and security contract[^key-48306fab2394c8c0eb4321a67ca7c811], regulation 23 (mixed procurement involving defence or security aspects) applies instead of paragraphs (1) to (4).
+
+(6) In the case of a contract intended to cover several activities, one of them being an activity listed in Schedule 2 to these Regulations or subject to the Utilities Contracts (Scotland) Regulations 2016, the applicable provisions shall be established in accordance with regulation 24 (contracts covering both activities listed in Schedule 2 and other activities) of these Regulations and regulation 6 (procurement covering several activities) of the Utilities Contracts (Scotland) Regulations 2016, respectively.
+
+#### 23. Mixed procurement involving defence or security aspects[^key-698dbadc9d184c9c857687836da55a29]
+
+(1) This regulation applies if a procurement has as its subject a mixed contract, the procurement of any part of which, if separated, would be covered by regulation 7(2)[^key-2f394304414dd99b4e5d79d8a11a744a] or would be considered a defence and security contract[^key-ded4f31526e080c1fbd6dc85cd1c5b72].
+
+(2) In the case of contracts intended to cover several activities, one of them being listed in Schedule 2 to these Regulations or covered by the Utilities Contracts (Scotland) Regulations 2016, and another being covered by regulation 7(2)[^key-b0b77c8746fc4b5ab78870720ca0bc63] or being the supply of anything within section 7(1) of the Procurement Act 2023[^key-014a204ddceac57b90c4841d868e81dc], the applicable provisions must be established in accordance with regulation 25 (contracts covering both activities listed in Schedule 2 and activities involving defence or security) of these Regulations and regulation 25 of the Utilities Contracts (Scotland) Regulations 2016, respectively.
+
+(3) If different parts of a given contract are objectively separable, a contracting entity may decide to undertake procurement for the award of—
+
+- (a) separate contracts for the separate parts; or
+- (b) a single contract.
+
+(4) The decision to undertake a procurement for the award of a single contract must not be made for the purpose of excluding the procurement from the application of these Regulations or the Procurement Act 2023[^key-2218b8f31a71530b85e18563cbc9c221].
+
+(5) If a contracting entity decides to undertake procurement for the award of separate contracts for separate parts the applicable law for the procurement of each separate contract will be determined by the characteristics of such contract.
+
+(6) If a contracting entity decides, in accordance with paragraph (7), to undertake a procurement for the award of a single contract, and—
+
+- (a) part of the contract is covered by regulation 7(2)[^key-92246a2da4bca684a12607439bf073a5], the contract may be awarded without applying these Regulations; or
+- (b) part of the contract would, if awarded as a separate contract, be considered a defence and security contract, the procurement may be undertaken in accordance with the Procurement Act 2023[^key-32cb5d1690c65d83248931f0eb0c4db6], in which event these Regulations will not apply to such procurement.
+
+(7) A contracting entity may only decide to undertake a procurement for the award of a single contract of a kind referred to in paragraph (6) if—
+
+- (a) different parts of such a contract are not objectively separable; or
+- (b) such decision is justified by objective reasons.
+
+(8) Paragraph (6)(b) is without prejudice to the thresholds and exclusions provided for by the Procurement Act 2023[^key-ff7d5f26176a34e64d3e781f202b5917].
+
+(9) Paragraph (6)(a) applies to a mixed contract to which both sub-paragraphs (a) and (b) of paragraph (6) could otherwise apply.
+
+#### 24. Contracts covering both activities listed in Schedule 2 and other activities[^key-4e9a785a58090e09d7f52089fd10b7a3]
+
+(1) This regulation applies in the case of a contract intended to cover several activities where one of those activities is listed in Schedule 2, except in a case to which regulation 25 applies.
+
+(2) Utilities may choose to award separate contracts for the purposes of the separate activities or to award a single contract for the purposes of all the activities.
+
+(3) The choice between awarding a single contract or separate contracts must not be made with the objective of excluding the procurement from the scope of these Regulations or, if applicable, the Public Contracts (Scotland) Regulations 2015 or the Utilities Contracts (Scotland) Regulations 2016.
+
+(4) If a utility chooses to award a separate contract, the decision as to which rules apply to each such separate contract must be taken on the basis of the characteristics of the separate activity concerned.
+
+(5) If a utility chooses to award a single contract—
+
+- (a) a contract which is intended to cover several activities must be subject to the rules applicable to the activity for which it is principally intended;
+- (b) in the case of a contract where it is objectively impossible to determine for which activity the contract is principally intended, the applicable rules must be determined in accordance with the following—
+  - (i) the contract must be awarded in accordance with the provisions of these Regulations applicable to procurements for the award of a concession contract by a contracting authority, if one of the activities for which the contract is intended is subject to the provisions of these Regulations applicable to procurement for the award of a concession contract by a contracting authority and the other is subject to the provisions of these Regulations applicable to the procurement for the award of concession contracts by a utility;
+  - (ii) the contract must be awarded in accordance with the Public Contracts (Scotland) Regulations 2015, if one of the activities for which the contract is intended is subject to these Regulations and the other to the Public Contracts (Scotland) Regulations 2015;
+  - (iii) the contract must be awarded in accordance with these Regulations, if one of the activities for which the contract is intended is subject to these Regulations and the other is not subject to these Regulations, the Public Contracts (Scotland) Regulations 2015 or the Utilities Contracts (Scotland) Regulations 2016.
+
+#### 25. Contracts covering both activities listed in Schedule 2 and activities involving defence or security aspects[^key-f7d05763560fa4b7329b1124b571e882]
+
+(1) This regulation applies in the case of a concession contract intended to cover several activities, one of them being listed in Schedule 2 and one being covered by regulation 7(2)[^key-79217857a602c7ca591e4a7f66a26186] or being the supply of anything within section 7(1) of the Procurement Act 2023[^key-82a48684cf55cbe4d790bc52c2b371b5].
+
+(2) A utility may choose to award separate concession contracts for the purposes of the separate activities or to award a single contract for the purposes of all the activities.
+
+(3) The choice between awarding a single contract or awarding separate contracts must not be made with the objective of excluding the contract or contracts from the scope of these Regulations or the Procurement Act 2023[^key-e958aec8f61f072b44ae8d8160cd3670] and a decision to award a single concession contract must be justified by objective reasons.
+
+(4) If a utility chooses to award separate concession contracts for separate parts, the decision as to which legal regime applies to any one of the separate concession contracts must be taken on the basis of the characteristics of the separate activity concerned.
+
+(5) If a utility chooses to award a single concession contract, regulation 23(6) to (9) shall apply.
+
+### CHAPTER 4 — SPECIFIC SITUATIONS
+
+#### 26. Reserved Concession Contracts[^key-08d5430503dd4f3fbc2377ef2517228d]
+
+(1) A contracting entity may—
+
+- (a) reserve the right to participate in a procurement for the award of a concession contract to supported business; or
+- (b) provide for such concession contracts to be performed in the context of a supported employment programme.
+
+(2) In this regulation—
+
+- (a) “supported business” means an economic operator whose main aim is the social and professional integration of disabled and disadvantaged persons and where at least 30% of the employees of the economic operator are disabled or disadvantaged persons; and
+- (b) “supported employment programme” means an employment programme operated by an economic operator the main aim of which is the social and professional integration of disabled or disadvantaged persons and where at least 30% of those engaged in the programme are disabled or disadvantaged persons.
+
+(3) If a contracting entity follows the approach set out in paragraph (1) it must specify that fact in the concession notice or, in the case of a concession contract for social and other specific services listed in Schedule 3, the prior information notice and refer to this regulation[^key-176831b2fba0caf07b73746f5d8a15b7].
+
+#### 27. Specific situations: Research and development services[^key-4c2a48d11844c124322eeb76aa11fae6]
+
+These Regulations only apply to procurement for the award of a concession contract for research and development service which are covered by CPV Codes 73000000-2 to 73120000-9, 73300000-5, 73420000-2 and 73430000-5 provided that—
+
+- (a) the benefits accrue exclusively to the contracting entity for use in the conduct of its own affairs; and
+- (b) the service provided is wholly remunerated by the contracting entity.
+
+### CHAPTER 5 — PRINCIPLES
+
+#### 28. Principles of equal treatment, non-discrimination and transparency[^key-ac97b4d24f4e619d0bb8b698f3901f6b]
+
+(1) A contracting entity must, in carrying out a procurement for the award of a concession contract which is subject to the application of these Regulations—
+
+- (a) treat economic operators equally and without discrimination; and
+- (b) act in a transparent and proportionate manner.
+
+(2) A contracting entity must not design a procurement for the award of a concession contract, including the estimate of the value of such contract with the intention of excluding it from the application of these Regulations or of unduly favouring or disadvantaging a particular economic operator or certain works, supplies or services.
+
+(3) A contracting entity must aim to ensure the transparency of the award procedure and of the performance of the contract while complying with regulation 31 (confidentiality).
+
+(4) During the procurement for the award of a concession contract, a contracting entity must not provide information in a discriminatory manner which may give a candidate or tenderer an advantage over others.
+
+(5) A contracting entity must include within each concession contract such conditions relating to the performance of the concession contract as meet the requirements mentioned in paragraph (6) and are reasonably necessary to ensure the economic operator complies with environmental, social and employment law including any relative collective agreements or international law measures referred to in Schedule 4.
+
+(6) The requirements referred to in paragraph (5) are that the conditions are—
+
+- (a) linked to the subject matter of the contract within the meaning of regulation 44(2) (concession contract award criteria);
+- (b) indicated in the concession documents.
+
+#### 29. Economic Operators[^key-890ec4cfe685fcb0ead8acbccfdbaca9]
+
+(1)[^key-47ddef5370e3ef9a5d6154c9513528b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A contracting entity may require an economic operator which is a legal person and which is seeking the award of a concession contract to state in its tender or in the application, the names and relevant professional qualifications of the staff to be responsible for the performance of the contract.
+
+(3) A contracting entity must not require a group of economic operators, including temporary associations, to have a specific legal form in order to be able to submit a tender or a request to participate.
+
+(4) A contracting entity may specify in the concession documents the method by which a group of economic operators is to meet the requirements as to economic and financial standing or technical and professional ability referred to in regulation 41 (selection of and qualitative assessment of candidates).
+
+(5) Any method specified as referred to in paragraph (4) must be justified by objective reasons and must be proportionate.
+
+(6) Any conditions for the performance of a contract by a group of economic operators, which are different from those imposed upon individual participants, must be justified by objective reasons and must be proportionate.
+
+(7) A contracting entity may, if it is necessary for the satisfactory performance of the contract, require a group of economic operators to assume a specific legal form for the purpose of the award of the contract.
+
+#### 30. Nomenclatures[^key-d1db0c1b7c4cb6fd6d1a580391bacacc]
+
+A contracting entity must, when making any reference to nomenclatures of the subject matter of a concession contract in the conduct of procurement for the award of a concession contract, do so by using the CPV.
+
+#### 31. Confidentiality[^key-ea9cd02e9d4cde61af916020638a4ee5]
+
+(1) A contracting entity must not disclose information forwarded to it by an economic operator which the economic operator designates as confidential, including, but not limited to, technical or trade secrets and the confidential aspects of the tender.
+
+(2) Paragraph (1) is without prejudice to—
+
+- (a) any other provision of these Regulations, including the obligation relating to advertising of awarded contracts and to provision of information to candidates and tenderers set out in regulations 34 (concession contract award notice) and 43 (informing candidates and tenderers);
+- (b) the Freedom of Information (Scotland) Act 2002[^f00032];
+- (c) the Environmental Information (Scotland) Regulations 2004[^f00033];
+- (d) any other enactment to which the contracting entity is subject relating to the disclosure of information.
+
+(3) A contracting entity may impose upon an economic operator requirements aimed at protecting the confidential nature of information which the contracting entity makes available throughout the procurement for the award of a concession contract.
+
+#### 32. Rules applicable to communication[^key-78d826c452d1ddb98fde3f12a3c9a52a][^key-9f6093a4c4ae9aaf37ddf1185303277d][^key-6631cc70aef2e76128933633c8525ec8]
+
+(1)[^key-78d826c452d1ddb98fde3f12a3c9a52a][^key-9f6093a4c4ae9aaf37ddf1185303277d] Subject to paragraphs (3), (5) and (8), a contracting entity must ensure that all communication and information exchange, including submission, pursuant to these Regulations is performed using electronic means of communications in accordance with this regulation.
+
+(2)[^key-78d826c452d1ddb98fde3f12a3c9a52a][^key-9f6093a4c4ae9aaf37ddf1185303277d] Subject to paragraph (13), the tools and devices to be used for electronic means of communication, and their technical characteristics, must—
+
+- (a) be non-discriminatory;
+- (b) be generally available;
+- (c) be interoperable with the information and communication technology products in general use; and
+- (d) not restrict economic operators’ access to the procurement.
+
+(3)[^key-78d826c452d1ddb98fde3f12a3c9a52a][^key-9f6093a4c4ae9aaf37ddf1185303277d] A contracting entity is not obliged to require electronic means of communication in the submission process where—
+
+- (a) due to the specialised nature of the procurement, the use of electronic means of communication would require specific tools, devices or file formats that are not generally available or supported by generally available applications;
+- (b) the applications supporting file formats that are suitable for the description of the tenders use file formats that cannot be handled by any other open or generally available applications or are under a proprietary licencing scheme and cannot be made available by the contracting entity for downloading or remote use;
+- (c) the use of electronic means of communication would require specialised office equipment that is not generally available to the contracting entity; or
+- (d) the concession documents require the submission of physical or scale models which cannot be transmitted using electronic means.
+
+(4)[^key-78d826c452d1ddb98fde3f12a3c9a52a][^key-9f6093a4c4ae9aaf37ddf1185303277d] If, in accordance with paragraph (3), electronic means of communication is not required, communication must be carried out—
+
+- (a) by post or by other suitable carrier; or
+- (b) by a combination of post or other suitable carrier and, to the extent that electronic means of communication is possible, by such means.
+
+(5)[^key-78d826c452d1ddb98fde3f12a3c9a52a][^key-9f6093a4c4ae9aaf37ddf1185303277d] A contracting entity is not obliged to require electronic means of communication in the submission process to the extent that the use of means of communication other than electronic means is necessary—
+
+- (a) because of a breach of security of the electronic means of communication; or
+- (b) for the protection of information of a particularly sensitive nature which requires such a high level of protection that it cannot properly be ensured by using electronic tools and devices that are either generally available to economic operators or that can be made available to them by suitable alternative means of access in accordance with paragraph (14).
+
+(6)[^key-78d826c452d1ddb98fde3f12a3c9a52a][^key-9f6093a4c4ae9aaf37ddf1185303277d] If, in accordance with this regulation, a contracting entity requires means of communication in the submission process other than electronic means, the contracting entity must state the reason for this in the individual report referred to in regulation 60 (reporting requirements).
+
+(7)[^key-78d826c452d1ddb98fde3f12a3c9a52a][^key-9f6093a4c4ae9aaf37ddf1185303277d] If electronic means of communication is not required for a reason referred to in paragraph (5), the contracting entity must state in the individual report the reasons why use of means of communication other than electronic means has been considered necessary under that paragraph.
+
+(8)[^key-6631cc70aef2e76128933633c8525ec8] Notwithstanding paragraph (1), oral communication may be used in respect of communications other than those concerning the essential elements of a procurement, provided that the content of the oral communication is documented by the contracting entity.
+
+(9)[^key-6631cc70aef2e76128933633c8525ec8] In paragraph (8) reference to “the essential elements of a procurement” includes the concession documents, requests for participation, applications and tenders.
+
+(10)[^key-6631cc70aef2e76128933633c8525ec8] A contracting entity must, to a sufficient extent and by appropriate means, document oral communications with tenderers which could have a substantial impact on the content and assessment of the tenders, in particular, by preparing written or audio records or summaries of the main elements of the communication.
+
+(11)[^key-6631cc70aef2e76128933633c8525ec8] In all communication, exchange and storage of information, a contracting entity must ensure that the integrity of data and the confidentiality of tenders, requests to participate and applications are preserved.
+
+(12)[^key-6631cc70aef2e76128933633c8525ec8] A contracting entity must examine the content of tenders, applications and requests to participate only after the time limit set for submitting them has expired.
+
+(13)[^key-6631cc70aef2e76128933633c8525ec8] A contracting entity may, where necessary, require the use of tools and devices which are not generally available, provided that the contracting entity offers suitable alternative means of access.
+
+(14)[^key-6631cc70aef2e76128933633c8525ec8] A contracting entity shall be deemed to offer suitable alternative means of access if the contracting entity—
+
+- (a) offers unrestricted and full direct access free of charge by electronic means to those tools and devices from the date of publication of a concession notice or a prior information notice in accordance with regulation 35 (form and manner of publication of notices);
+- (b) ensures that tenderers having no access to the tools and devices concerned, or no possibility of obtaining such tools or devices within the relevant time limits (provided that the lack of access is not attributable to the tenderer), may access the procurement for the award of a concession contract through the use of provisional tokens made available free of charge online; or
+- (c) supports an alternative channel for electronic submission of tenders.
+
+(15)[^key-6631cc70aef2e76128933633c8525ec8] A contracting entity must specify in the concession notice or prior information notice, referred to in paragraph (14)(a), the internet address at which those tools and devices are accessible.
+
+(16)[^key-6631cc70aef2e76128933633c8525ec8] Tools and devices for the electronic receipt of tenders, applications and requests to participate must—
+
+- (a) enable the precise determination of the exact time and date of the receipt of tenders, applications and requests to participate;
+- (b) to the extent reasonably possible, ensure that, before the time limit referred to in paragraph (12) has expired, no-one can have access to data transmitted to the contracting entity using the tools and devices;
+- (c) ensure that only authorised persons may set or change the dates for opening data received;
+- (d) ensure that, during the different stages of the procurement, only authorised persons may have access to data submitted or to part of such data;
+- (e) ensure that only authorised persons may give access to data transmitted and only after the time limit referred to in paragraph (12) has expired;
+- (f) ensure that data received and opened in accordance with the requirements in sub‑paragraphs (a) to (e) remains accessible only to persons authorised to acquaint themselves with the data; and
+- (g) to the extent reasonably possible, ensure that any infringement, or attempted infringement, of the conditions referred to in sub-paragraphs (b) to (f) is clearly detectable.
+
+(17)[^key-6631cc70aef2e76128933633c8525ec8] In addition to the requirements set out in paragraph (16), a contracting entity must comply with all of the following requirements in relation to tools and devices for the electronic transmission and receipt of tenders and for the electronic receipt of applications or requests to participate:—
+
+- (a) information on specifications for the electronic submission of tenders, applications and requests to participate, including encryption and time-stamping, must be available to interested parties;
+- (b) a contracting entity must specify the level of security required for the electronic means of communication in the various stages of the specific procurement;
+- (c) the level of security specified must be proportionate to the risks attached;
+- (d) if paragraph (18) applies, the contracting entity must accept advanced electronic signatures supported by a qualified certificate, created with or without a secure signature creation device, subject to compliance with all of the following conditions—
+  - (i) the contracting entity must establish the required advanced electronic signature format on the basis of formats established in Electronic Signature Commission [Decision 2011/130/EU](https://www.legislation.gov.uk/european/decision/2011/0130)[^f00034] and must put in place necessary measures to be able to process these formats technically;
+  - (ii) if a different format of electronic signature is used, the electronic signature or the electronic document carrier must include information on existing validation possibilities;
+  - (iii) the validation possibilities must allow the contracting entity to validate the received electronic signature as an advanced electronic signature supported by a qualified certificate, such validation to be online, free of charge and in a way that is understandable for non-English speakers;
+  - (iv) if a tender is signed with an advanced electronic signature with the support of a qualified certificate from a provider that is included on a trusted list provided for in the Trusted Lists Commission [Decision 2009/767/EC](https://www.legislation.gov.uk/european/decision/2009/0767)[^f00035], the contracting entity must not apply additional requirements that may hinder the use of the signature by the tenderer.
+
+(18)[^key-6631cc70aef2e76128933633c8525ec8] This paragraph applies where a contracting entity concludes that the level of risk assessed in accordance with paragraphs (20) and (21) is such that advanced electronic signatures as defined by Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market[^key-7618c70af898cedcd00fca6045ba09a7] [^f00036], [^key-07900ec4291635cab5f8992a5d33cd9b]... are required.
+
+(19)[^key-6631cc70aef2e76128933633c8525ec8] A contracting entity must assess the certificate referred to in paragraph (17)(d) by taking into account whether the certificate is provided by a certificate services provider, which is on a trusted list provided for in the Trusted Lists Commission Decision.
+
+(20)[^key-6631cc70aef2e76128933633c8525ec8] In deciding the level of security required at each stage of a procurement for the award of a concession contract and in concluding whether the level of risk is such that advanced electronic signatures are required, a contracting entity must assess the risks having regard to—
+
+- (a) the likelihood of particular risks materialising;
+- (b) the potential adverse consequences if those risks materialise;
+- (c) the need for consistency as between similar procurements performed by the same contracting entity; and
+- (d) the need for proportionality between the expected benefits of any particular security requirements (in terms of eliminating or reducing any of the risks referred to in paragraph (21) and the costs, burdens and obligations which those requirements may impose upon an economic operator.
+
+(21)[^key-6631cc70aef2e76128933633c8525ec8] A contracting entity must assess all relevant risks, including, in particular, where applicable—
+
+- (a) the risk to the proper functioning and integrity of the specific procurement process, including risks of breach of these Regulations;
+- (b) risks to national security;
+- (c) the risk of inadvertent or unauthorised disclosure of, or access to, any economic operator’s confidential information;
+- (d) the risk of inadvertent or unauthorised disclosure of, or access to, information held by the contracting entity including information relating to the specific procurement;
+- (e) the risk that use of electronic communications could provide opportunity for malicious attacks on the electronic systems of, or data held by, the entity, any economic operator or any other person, including introduction of malware or denial of service attacks; and
+- (f) any other material risk relating to the procurement in question.
+
+(22)[^key-6631cc70aef2e76128933633c8525ec8] Paragraph (23) applies where a contracting entity located in Scotland signs and issues a document for use in the procurement for the award of concession contract within the scope of the Concession Contracts Directive, whether the procurement is under these Regulations or under the law of any member State.
+
+(23)[^key-6631cc70aef2e76128933633c8525ec8] The contracting entity may establish the required advanced signature format in accordance with the requirements set out in Article 1(2) the Electronic Signature of Commission [Decision 2011/130/EU](https://www.legislation.gov.uk/european/decision/2011/0130)[^f00037], and, where it does so—
+
+- (a) it must put in place the necessary measures to be able to process that format technically by including the information required for the purpose of processing the signature in the document concerned; and
+- (b) the documents must contain, in the electronic signature or in the electronic document carrier, information on existing validation possibilities that allow the validation of the received electronic signature online, free of charge and in a way that is understandable for non-English speakers.
+
+## PART 3 — RULES ON THE PROCUREMENT FOR THE AWARD OF CONCESSION CONTRACTS
+
+### CHAPTER 6 — GENERAL PRINCIPLES
+
+#### 33. Concession notice[^key-9ad5052c7bb1d853f03aeb0d4d8f4bcd]
+
+(1) A contracting entity wishing to award a concession contract, other than a concession contract for social and other specific services listed in Schedule 3, must make known their intention through the publication of a concession notice.
+
+(2) Such a concession notice must contain—
+
+- (a) the information set out in Annex V to the Concession Contracts Directive, but as if—[^key-bc72695071e86089d46f897d1c7fd5dc]
+  - (i) in paragraph 3, “Article 34(2)” were a reference to regulation 36(3) of these Regulations,
+  - (ii) in paragraph 10, “date of dispatch” were a reference to the date on which the notice is submitted to the UK e-notification service for the purposes of these Regulations, and
+  - (iii) paragraph 15 (financing by EU funds) were omitted; and
+- (b) any other information that the contracting entity considers useful;
+
+[^key-beba102b131978a89d2e67ce28fdaf84]...
+
+(3) A contracting entity wishing to award a concession contract for social and other specific services listed in Schedule 3 must make known their intention of a planned concession contract award through the publication of a prior information notice.
+
+(4) Such a prior information notice must contain the information set out in Annex VI to the Concession Contracts Directive and must be in the format of the standard forms set out in Commission Implementing Regulation 2015/1986.
+
+(5) This regulation does not apply in any of the following cases—
+
+- (a) if no applications, no suitable applications, no tenders or no suitable tenders have been submitted in response to a prior procurement for the award of a concession contract, provided that the initial conditions of the concession contract are not substantially altered and that a report is sent to the Scottish Ministers if they so request[^key-9e09742dc3b1e85feda7e901bd0f53c7];
+- (b) if the works or services can be supplied only by a particular economic operator for any of the following reasons—
+  - (i) the aim of the concession contract is the creation or acquisition of a unique work of art or artistic performance;
+  - (ii) competition is absent for technical reasons;
+  - (iii) the existence of an exclusive right;
+  - (iv) the protection of intellectual property rights and exclusive rights other than exclusive rights as defined in regulation 2 (interpretation),
+
+  but only, in the case of sub-paragraphs (ii) to (iv), if no reasonable alternative or substitute exists and the absence of competition is not the result of an artificial narrowing down of the parameters of the concession contract award.
+
+(6) For the purposes of paragraph (5)(a)—
+
+- (a) a tender must be considered not to be suitable if it is irrelevant to the concession contract, being manifestly incapable, without substantial changes, of meeting the contracting entity’s needs and requirements as specified in the concession documents;
+- (b) an application must be considered not to be suitable if—
+  - (i) the applicant concerned is to be or may be excluded under regulation 40 (exclusion grounds) or does not meet the selection criteria set out by the contracting entity in accordance with regulation 41(1) to (3) (selection of and qualitative assessment of candidates);
+  - (ii) the application includes tenders which are considered not to be suitable as described in sub-paragraph (a).
+
+#### 34. Concession contract award notice[^key-aa3e622757a2ed360736e73c449055fd]
+
+(1) Not later than 48 days after the award of a concession contract, the contracting entity must submit[^key-cc3b5e007f65a10ed61779707d24cdb1] for publication a concession contract award notice in accordance with regulation 35 (form and manner of publication of notices).
+
+(2) A concession contract award notice for social and other specific services listed in Schedule 3 may be grouped for publication on a quarterly basis, in which case the contracting entity must submit[^key-cb77c20f6dcedc34175b19a5db326cd8] the grouped notices for publication within 48 days of the end of each quarter.
+
+(3) Subject to paragraph (4), a concession contract award[^key-da159fd2de25a5aec8816db6f2aca7ce] notice must contain the information set out in Annex VII to the Concession Contracts Directive, or in the case of a concession contract for social and other specific services listed in Schedule 3, the information set out in Annex VIII to that Directive.
+
+(4)[^key-362945a454825ddff613d44c705d3d7d] In paragraph (3), the reference to Annex VII is a reference to that Annex, but as if—
+
+- (a) in paragraph (7), “Article 41” were a reference to regulation 44 of these Regulations,
+- (b) in paragraph (11)(c), “Article 8(3)” were a reference to regulation 8(6) and (7) of these Regulations,
+- (c) paragraph (12) (financing by EU funds) were omitted,
+- (d) in paragraph (14), “in the *Official Journal of the European Union*” read “on the UK e-notification service (within the meaning of the Concession Contracts (Scotland) Regulations 2016), and
+- (e) in paragraph (15), “date of dispatch” were a reference to the date on which the notice is submitted to the UK e-notification service for the purposes of these Regulations.
+
+#### 35. Form and manner of publication of notices[^key-2b6b3844523c56998700bc7b8c4f0d84]
+
+(1) A notice required by regulation 33 (concession notice), 34 (concession contract award notice) and 46(3) (modification of contracts) to be submitted[^key-bda86301f1a06de780fa091255a67e98] for publication in accordance with this regulation (and any corrigenda to a notice) must be submitted to the UK e-notification service for publication[^key-51729b928bf7e3bbced9a61afc4949e7]
+
+- (a)[^key-2e2bf2808e7e44238deb0cf21c8e972b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-2e2bf2808e7e44238deb0cf21c8e972b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If the the provider of the UK e-notification service[^key-75b58bf7b1fd4e5efa3df2d6faf8cf94] has given the contracting entity confirmation of [^key-af9c5f0632357ff8bec549273bca566e]... the publication of the information submitted[^key-5fae1a93fd7d58d8be25aaa1275be3a2], indicating the date of that publication, that confirmation shall constitute proof of publication.
+
+(3) The notices referred to in regulations 33, 34 and 46(3) must not be published otherwise than on the UK e-notification service[^key-31f70d8bc145d2c449becfe043394654] before they are published on that service[^key-9a5c841245357e06501ce926dfd760ee] unless publication on that service[^key-015be0941bacd8226d508c790899f808] does not take place within 48 hours after the notice was submitted to that service[^key-247cf3d0a18b17cb41bf7740e10c488d].
+
+(4) Notices published otherwise than on the UK e-notification service[^key-e9fd5ce61e81e2f4d4bc636bc8a63549] must not contain information other than that contained in the notices submitted to that service[^key-fad3e9bdc78dcb30ba747ae446d9f075] but must indicate the date of submission of the notice to that service[^key-856f8e81a23efc7c4d60e7edb6d2cb31].
+
+(5)[^key-e2f711c1d30bbd96002abff259bedc6f] In these Regulations, “the UK e-notification service” has the meaning given by regulation 52(5) of the Public Contracts (Scotland) Regulations 2015.
+
+(6) For the purposes of these Regulations, a notice of any description is submitted to the UK e-notification service if the information comprising the notice is entered in the portal in such form or manner as the portal may elicit it and in compliance with any specific instructions that are given within the portal about how the information, or any particular element of it, is to be entered.
+
+#### 36. Electronic availability of concession documents[^key-7539c556528d67ea7709c7af4054dec6]
+
+(1) A contracting entity must, by means of the internet, offer unrestricted and full direct access free of charge to the concession documents from the date of the publication on the UK e-notification service[^key-ee179a6a52710cf938706918b86d8af0] of a concession notice or, where the concession notice does not include the invitation to submit tenders, from the date on which the invitation to submit tenders was sent.
+
+(2) The text of the concession notice or of the invitation to submit tenders must specify the internet address at which the concession documents are accessible.
+
+(3) Paragraph (4) applies if, in duly justified circumstances due to—
+
+- (a) exceptional security reasons;
+- (b) technical reasons; or
+- (c) the particularly sensitive nature of commercial information requiring a very high level of protection,
+
+unrestricted and full direct access free of charge to certain concession documents cannot be offered by means of the internet.
+
+(4) In those circumstances a contracting entity must indicate in the notice or the invitation to submit a tender that the concession documents concerned will be transmitted by means other than the internet and the time limit for the receipt of tenders shall be prolonged.
+
+(5) Provided that it has been requested in good time, a contracting entity must supply to all applicants or tenderers taking part in the procurement for the award of a concession contract additional information relating to the concession documents not later than 6 days before the deadline fixed for the receipt of tenders.
+
+#### 37. Conflict of Interest[^key-ca93b5f4647f04f1aaa164a7731ecec0]
+
+(1) A contracting entity must take appropriate measures to prevent, identify and remedy a conflict of interest arising in the conduct of the procurement for the award of a concession contract so as to avoid any distortion of competition and to ensure equal treatment of all economic operators.
+
+(2) The measures in relation to a conflict of interest must not go beyond what is strictly necessary to prevent a potential conflict of interest or eliminate an identified conflict of interest.
+
+(3) Without prejudice to the generality thereof, reference to “conflicts of interest” in paragraph (1) includes any situation where a relevant staff member has, directly or indirectly, a financial, economic or other personal interest which might be perceived to compromise their impartiality and independence in the context of the procurement for the award of a concession contract.
+
+(4) In paragraph (3), “relevant staff member” means a contracting entity staff member or staff member of a procurement service provider acting on behalf of the contracting entity, who is involved in the conduct of the procurement for the award of concession contract or may influence the outcome of that procurement.
+
+### CHAPTER 7 — PROCEDURAL GUARANTEES
+
+#### 38. Technical and functional requirements[^key-3d6d885ddf0bb3198d5cdaf281c97aa2]
+
+(1) The technical specifications and functional requirements must—
+
+- (a) be set out in the concession contract procurement documents;
+- (b) lay down the characteristics required of any works or services that are the subject matter of the concession contract.
+
+(2) The characteristics referred to in paragraph (1)(b) may include—
+
+- (a) quality levels;
+- (b) levels of environmental and climate performance;
+- (c) design for all requirements (including accessibility for disabled persons) and conformity assessment;
+- (d) performance, safety or dimensions;
+- (e) terminology;
+- (f) symbols;
+- (g) testing and test methods;
+- (h) marking and labelling; or
+- (i) user instructions.
+
+(3) Those characteristics may also refer to the specific process of production or provision of the requested works or services provided that they are linked to the subject-matter of the contract and proportionate to its value and its objectives.
+
+(4) Subject to paragraph (5), unless justified by the subject-matter of the concession contract, technical and functional requirements must not refer to a specific make or source, or a particular process which characterises the products or services provided by a specific economic operator or to trade marks, patents, types or a specific production with the effect of favouring or eliminating certain undertakings or certain products.
+
+(5) Reference of a kind referred to in paragraph (4) is permitted, on an exceptional basis, if a sufficiently precise and intelligible description of the subject-matter of the contract is not possible, in which case the reference shall be accompanied by the words “or equivalent”.
+
+(6) A contracting entity must not reject a tender on the grounds that the works and services tendered for do not comply with the technical and functional requirements to which it has referred, once the tenderer proves in its tender, by any appropriate means, that the solutions it has proposed satisfy in an equivalent manner the technical and functional requirements.
+
+#### 39. Procedural guarantees[^key-5d2b4d0747239ae455262c5721283936]
+
+(1) A concession contract must be awarded on the basis of the award criteria, provided that all of the following conditions are fulfilled—
+
+- (a) the tender complies with any minimum requirements set by the contracting entity;
+- (b) the tenderer complies with the conditions for participation set out in regulation 41(1) to (3) (selection of and qualitative assessment of candidates); and
+- (c) the tenderer is not excluded from participating in the award procedure in accordance with regulation 40(1) to (9) (exclusion grounds), as read with regulation 40(14) to (18).
+
+(2) The contracting entity may limit the number of candidates or tenderers to an appropriate level, on condition that this is done in a transparent manner and on the basis of objective criteria.
+
+(3) The number of candidates or tenderers invited must be sufficient to ensure genuine competition.
+
+(4) The contracting entity must communicate the following to all participants—
+
+- (a) the description of the envisaged organisation of the procedure and an indicative completion deadline; and
+- (b) any modification to that procedure or completion deadline.
+
+(5) To the extent that any modification referred to in paragraph (4)(b) concerns elements disclosed in the concession notice, the contracting entity must advertise it to all economic operators.
+
+(6) The contracting entity must provide for appropriate recording of the stages of the procedure using the means it considers appropriate, subject to regulation 31(1) and (2) (confidentiality).
+
+(7) The contracting entity may hold negotiations with candidates and tenderers but the subject-matter of the concession contract, the award criteria and the minimum requirements must not change during the course of any negotiation.
+
+(8) In this regulation—
+
+- (a) “the award criteria” means the award criteria set out by the contracting entity in accordance with regulation 44 (concession contract award criteria);
+- (b) “minimum requirements” mean the conditions and characteristics (in particular any technical, physical, functional and legal conditions and characteristics) that any tender must meet or possess.
+
+#### 40. Exclusion grounds[^key-7955a5fa2c837599b6f5173c30dfe53f]
+
+(1) A contracting authority or utility referred to in regulation 5(1)(a) (meaning of “utility”) must exclude an economic operator from participation in a procurement for the award of a concession contract if the contracting authority or utility establishes that an economic operator or a person to whom paragraph (2) applies has been convicted of any of the following offences—
+
+- (a) the common law offence of conspiracy if that conspiracy relates to participation in a criminal organisation as defined in Article 2 of Council Framework Decision 2008/841/JHA[^f00040] or an offence under sections 28 or 30 of the Criminal Justice and Licensing (Scotland) Act 2010[^f00041];
+- (b) corruption within the meaning of section 1(2) of the Public Bodies Corrupt Practices Act 1889[^f00042] or section 1 of the Prevention of Corruption Act 1906[^f00043], where the offence relates to active corruption as defined in Article 3 of the Council Act of 26th May 1997[^f00044] and Article 3(1) of Council Joint Action 98/742/JHA[^f00045];
+- (c) bribery or corruption within the meaning of sections 68 and 69 of the Criminal Justice (Scotland) Act 2003[^f00046], if the offence relates to active bribery or corruption;
+- (d) bribery within the meaning of sections 1 or 6 of the Bribery Act 2010[^f00047];
+- (e)[^key-b3b33a9e721b426cd5e85d53149be397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) any offence listed in—
+  - (i) section 41 of the Counter-Terrorism Act 2008[^f00054]; or
+  - (ii) Schedule 2 to that Act where the court has determined that there is a terrorist connection;
+- (g) money laundering within the meaning of sections 340(11) and 415 of the Proceeds of Crime Act 2002[^f00055];
+- (h) an offence in connection with the proceeds of criminal conduct within the meaning of section 93A, 93B or 93C of the Criminal Justice Act 1988[^f00056];
+- (i) any offence under Part 1 of the Human Trafficking and Exploitation (Scotland) Act 2015[^f00057] or under any provision referred to in the Schedule to that Act;
+- (j) an offence in connection with the proceeds of drug trafficking within the meaning of section 49, 50 or 51 of the Drug Trafficking Act 1994[^f00058];
+- (k) any other offence within the meaning of Article 38(4)(a), (b), (d), (e) or (f)[^key-f321d9b01c5562da1dfbe9d96cd97be2] of the Concessions Contracts Directive as defined by the national law of any EEA state.
+
+(2) This regulation applies if the person convicted is a member of the administrative, management or supervisory body of the economic operator referred to in paragraph (1) or has powers of representation, decision or control in the economic operator.
+
+(3) A contracting authority or utility referred to in regulation 5(1)(a) (meaning of “utility”) must exclude an economic operator from participation in a procurement if—
+
+- (a) subject to paragraphs (6) to (8), the contracting authority or utility referred to in regulation 5(1)(a) is aware that the economic operator is in breach of its obligations relating to the payment of taxes or social security contributions and this has been established by a judicial or administrative decision having final and binding effect in accordance with the legal provisions of the country in which it is established or in accordance with those of any of the jurisdictions of the United Kingdom; or
+- (b) the contracting authority or utility referred to in regulation 5(1)(a) is aware that the economic operator has committed an act prohibited under the Employment Relations Act 1999 (Blacklists) Regulations 2010[^f00059] and the commission of such an act has been admitted by the economic operator or established by a judicial decision having final and binding effect.
+
+(4) Subject to paragraph (5), a contracting entity may exclude an economic operator from participation in the procurement for the award of a concession contract if the contracting authority or utility can demonstrate by any appropriate means that the economic operator is in breach of its obligations relating to the payment of taxes or social security contributions.
+
+(5) A utility other than one referred to in regulation 5(1)(a) may exclude an economic operator from participation in the procurement for an award of a concession contract if it is aware that the economic operator has been convicted of any offence in paragraph (1) or committed a prohibited act referred to in paragraph (3)(b).
+
+(6) A contracting entity may not exclude an economic operator pursuant to paragraphs (3)(a) or (4) if—
+
+- (a) the economic operator has fulfilled its obligations by paying, or entering into a binding arrangement with a view to paying, the taxes or social security contributions due, including, where applicable, any interest accrued or fines; or
+- (b) the obligation to make repayment otherwise ceases.
+
+(7) A contracting entity may disregard any of the prohibitions imposed by paragraphs (1) to (3), on an exceptional basis, for overriding reasons relating to the public interest such as public health or protection of the environment.
+
+(8) A contracting entity may also disregard the prohibition imposed by paragraph (3)(a) if an exclusion would be clearly disproportionate, in particular—
+
+- (a) if only minor amounts of taxes or social security contributions are unpaid; or
+- (b) if the economic operator was informed of the exact amount due following its breach of its obligations relating to the payment of taxes or social security contributions at such time that it did not have the possibility of fulfilling its obligations in a manner described in paragraph (6) before expiration of the deadline for requesting participation or the deadline for submitting its tender.
+
+(9) A contracting entity may exclude an economic operator from participation in a procurement for the award of a concession contract if—
+
+- (a) the contracting entity can demonstrate by any appropriate means a violation by the economic operator of applicable obligations referred to in the fields of environmental, social and labour law established by [^key-0be4102c653af689a9399f19a02396d1]... national law, collective agreements or , subject to paragraphs (19) and (20),[^key-9be454b36331313326d81928da77cf17] by the international environmental, social and labour law provisions listed in Schedule 4 to these Regulations;
+- (b) the economic operator is bankrupt or is the subject of insolvency or winding-up proceedings, if its assets are being administered by a liquidator or by the court, if it is in an arrangement with creditors, if its business activities are suspended or it is in any analogous situation arising from a similar procedure under national laws and regulations to which the economic operator may be subject;
+- (c) the contracting entity can demonstrate by any appropriate means that the economic operator is guilty of grave professional misconduct, which renders its integrity questionable;
+- (d) the contracting entity has sufficiently plausible indications to conclude that the economic operator has entered into agreements with other economic operators aimed at distorting competition;
+- (e) a conflict of interest within the meaning of regulation 37 (conflict of interest) cannot be effectively remedied by other less intrusive measures;
+- (f) the economic operator has shown significant or persistent deficiencies in the performance of a substantive requirement under a prior concession contract or a prior contract with a contracting authority or a utility as defined under these Regulations or under the Public Contracts (Scotland) Regulations 2015 or the Utilities Contracts (Scotland) Regulations 2016 which led to early termination of that prior contract, damages or other comparable sanctions;
+- (g) if the economic operator—
+  - (i) has been guilty of serious misrepresentation in supplying the information required for the verification of the absence of grounds for exclusion or the fulfilment of the selection criteria set out by the contracting entity in accordance with regulation 41 (1) to (3) (selection of and qualitative assessment of candidates); or
+  - (ii) the economic operator has withheld such information or is unable to submit the supporting documents required;
+- (h) the economic operator—
+  - (i) has or has sought to unduly influence the decision-making process of the contracting entity;
+  - (ii) has or has sought to obtain confidential information that may confer upon it undue advantages in the procurement for the award of a concession contract; or
+  - (iii) has negligently provided misleading information that may have a material influence on decisions concerning exclusion, selection or award;
+- (i) in the case of a concession contract which is a defence and security contract[^key-3a469d57d4508bdc6244266ce840e33e], if the economic operator has been found, on the basis of any means of evidence, including protected data sources, not to possess the reliability necessary to exclude risks to the security of the United Kingdom.
+
+(10) A contracting authority and utility referred to in regulation 5(1)(a) (meaning of “utility”)—
+
+- (a) must exclude an economic operator if it becomes aware, at any time during the procurement for the award of a concession contract, that the economic operator is, in view of acts committed or omitted either before or during the procedure, in one of the situations referred to in paragraphs (1) to (3);
+- (b) may exclude an economic operator if it becomes aware, at any time during a procurement for the award of a concession contract, that the economic operator is, in view of acts committed or omitted either before or during the procurement, in one of the situations referred to in paragraphs (4) and (9).
+
+(11) A utility other than one referred to in regulation 5(1)(a) (meaning of “utility”) may exclude an economic operator if it becomes aware, at any time during a procurement for the award of a concession contract, that the economic operator is, in view of acts committed or omitted either before or during the procurement, in one of the situations referred to in paragraphs (1) to (4) and (9).
+
+(12) In the cases referred to in paragraph (1) and subject to paragraph (7), the period during which the economic operator must be excluded is 5 years from the date of the conviction by final judgement.
+
+(13) In the cases referred to in paragraphs (3)(b) and (9) and subject to paragraph (15), the period during which the economic operator may be excluded is 3 years from the date of the relevant event.
+
+(14) Any economic operator that is in one of the situations referred to in paragraph (1), (3)(b) or (9) may provide evidence to the effect that measures taken by the economic operator are sufficient to demonstrate its reliability despite the existence of a relevant ground for exclusion.
+
+(15) If the contracting entity is satisfied that the evidence proves that the measures are sufficient for the purpose referred to in paragraph (14), the contracting entity must not exclude the economic operator from the procurement of the award of a concession contract.
+
+(16) For that purpose, the economic operator must prove that it has—
+
+- (a) paid or undertaken to pay compensation in respect of any damage caused by the criminal offence or misconduct;
+- (b) clarified the facts and circumstances in a comprehensive manner by actively collaborating with the investigating authorities; and
+- (c) taken concrete technical, organisational and personnel measures that are appropriate to prevent further criminal offences or misconduct.
+
+(17) The measures taken by the economic operator must be evaluated by the contracting entity taking into account the gravity and particular circumstances of the criminal offence or misconduct.
+
+(18) If the contracting entity considers that the measures are insufficient, the contracting entity must give the economic operator a statement of the reasons for that decision.
+
+(19)[^key-f19ebee879666ac0f1f9b03567cb7bcd] Where—
+
+- (a) the United Kingdom has ratified an international agreement establishing obligations in any of the fields mentioned in paragraph (9)(a), and
+- (b) the agreement is not already listed,
+
+the Scottish Ministers may make regulations providing that paragraph (9)(a) is to have effect as if the agreement were listed.
+
+(20) Where the United Kingdom has ceased to ratify an international agreement that is already listed, the Scottish Ministers may make regulations providing that paragraph (9)(a) is to have effect as if the agreement were not listed.
+
+(21) In paragraphs (19) and (20)—
+
+- (a) “listed” means listed as described in paragraph (9)(a), and
+- (b) where paragraph (9)(a) already has effect as if an agreement were listed, “already listed” includes that agreement.
+
+#### 41. Selection of and qualitative assessment of candidates[^key-4a808f24b98ba4e5331e75c00931d1e0]
+
+(1) A contracting entity must verify the conditions for participation relating to the professional and technical ability and the financial and economic standing of candidates or tenderers on the basis of self-declarations or references submitted as proof in accordance with the requirements specified in the concession notice.
+
+(2) Those requirements must be non-discriminatory and proportionate to the subject-matter of the concession contract.
+
+(3) The conditions for participation must be related and proportionate to the need to ensure the ability of the concessionaire to perform the concession contract, taking into account the subject-matter of the concession contract and the purpose of ensuring genuine competition.
+
+(4) For the purpose of meeting the conditions for participation, an economic operator may, if appropriate and for a particular concession contract, rely on the capacities of other entities, regardless of the legal nature of its links with them, subject to the following provisions of this regulation.
+
+(5) If an economic operator wants to rely on the capacities of other entities, it must prove to the contracting entity that it will have at its disposal, throughout the period of the concession contract, the necessary resources; for example, by producing a commitment by those entities to that effect.
+
+(6) With regard to financial standing, the contracting entity may require that the economic operator and those entities on which it relies are jointly liable for the execution of the contract.
+
+(7) A group of economic operators referred to in regulation 29 (economic operators) may rely on the capacities of participants in the group or of other entities, and paragraphs (4) to (6) apply in relation to such a group in the same way that they apply in relation to an economic operator.
+
+#### 42. Time limits for receipt of applications and tenders for the concession contract[^key-7d69cfbb6a85e9029216fb136a625652]
+
+(1) When fixing the time limit for the receipt of applications or tenders, a contracting entity must take account of the complexity of the concession contract and the time required for drawing up a tender or application, without prejudice to the minimum time limits set out in this regulation.
+
+(2) If an application or tender can be made only after a visit to the site or after on-the-spot inspection of the documents supporting the concession documents, the time limit for the receipt of an application for the concession contract or for the receipt of a tender must be fixed so that any economic operator concerned is aware of all the information needed to produce an application or tender and in any event must be longer than the minimum time limits set out in paragraphs (3) and (4).
+
+(3) The minimum time limit for the receipt of applications (whether or not including tenders for the concession contract) must be 30 days from the date on which the concession notice was submitted[^key-e1fe373a737070d16524ed5fe7783021] for publication in accordance with regulation 35 (form and manner of publication of notices).
+
+(4) If the procurement takes place in successive stages the minimum time limit for the receipt of initial tenders must be 22 days from the date on which the invitation to tender is sent.
+
+(5) The time limits for receipt of tenders may be reduced by 5 days if the contracting entity allows the submission of tenders by electronic means in accordance with regulation 32 (rules applicable to communication).
+
+#### 43. Informing candidates and tenderers[^key-373d6ab48ff88ce4600be7b3abbf4c93]
+
+(1) A contracting entity must as soon as possible after reaching a decision concerning the award of a concession contract inform each candidate and tenderer of the decision reached, including—
+
+- (a) the name of the successful tenderer; and
+- (b) the grounds for any decision—
+  - (i) to reject its application or tender;
+  - (ii) not to award a contract for which there has been publication of a concession notice; or
+  - (iii) to recommence the procurement.
+
+(2) On request from the party concerned, the contracting entity must as quickly as possible, and in any event within 15 days from receipt of a request in writing, inform any tenderers that have submitted an admissible tender of the characteristics and relative advantages of the tender selected.
+
+(3) The contracting entity may decide to withhold certain information referred to in this regulation if the release of such information—
+
+- (a) would impede law enforcement or would otherwise be contrary to the public interest;
+- (b) would prejudice the legitimate commercial interests of a particular economic operator, whether public or private; or
+- (c) might prejudice fair competition between economic operators.
+
+#### 44. Concession contract award criteria[^key-864772dbfa47f68cf96515350ecf6851]
+
+(1) A contracting entity must award a concession contract on the basis of objective criteria which comply with the principles set out in regulation 28 (principle of equal treatment, non-discrimination and transparency) and which ensure that a tender is assessed in conditions of effective competition so as to identify an overall economic advantage for the contracting entity (“the award criteria”).
+
+(2) The award criteria—
+
+- (a) must be linked to the subject-matter of the concession contract;
+- (b) must not confer an unrestricted freedom of choice on the contracting entity; and
+- (c) may include environmental criteria, social criteria or criteria related to innovation.
+
+(3) The award criteria must be accompanied by requirements which allow the information provided by the tenderers to be effectively verified.
+
+(4) The contracting entity must verify whether a tender properly meets the award criteria.
+
+(5) The contracting entity must list the award criteria in descending order of importance.
+
+(6) If the contracting entity receives a tender which proposes an innovative solution with an exceptional level of functional performance which could not have been foreseen by a diligent contracting entity, the contracting entity may, exceptionally, modify the ranking order of the award criteria to take into account that innovative solution.
+
+(7) If paragraph (6) applies, the contracting entity must—
+
+- (a) inform all tenderers about the modification of the order of importance and issue a new invitation to submit tenders within the minimum time limit referred to in regulation 42(4) (time limits for receipt of applications and tenders);
+- (b) if the award criteria was published either in the concession notice or at the same time, publish a new concession notice including the minimum time limit referred to in regulation 42(3).
+
+(8) The contracting entity must ensure that a modification of the ranking order referred to in paragraph (6) does not result in discrimination.
+
+(9) In this regulation, “innovation” means the implementation of a new or significantly improved product, service or process, including but not limited to production, building or construction processes, a new marketing method, or a new organisational method in business practices, workplace organisation or external relations, including with the purpose of helping to solve societal challenges or to support [^key-1f75e347c0b5034f26cab8bb56f69102]... sustainable and inclusive growth.
+
+## PART 4 — RULES ON THE PERFORMANCE OF CONCESSION CONTRACTS
+
+### 44A. Electronic invoicing[^key-ce5d4dac64de82c23ba067e1b044a20e]
+
+(1) It shall be an implied term of all public contracts that contracting entities must accept and process electronic invoices for the provision of works, supplies or services in the performance of a contract where such invoices—
+
+- (a) comply with the European standard on electronic invoicing reference to which has been published pursuant to Article 3(2) of [Directive 2014/55/EU](https://www.legislation.gov.uk/european/directive/2014/0055) of the European Parliament and of the Council on electronic invoicing in public procurement, and
+- (b) contain any of the syntaxes on the list published pursuant to Article 3(2) of that Directive.
+
+(2) In this regulation—
+
+- “electronic invoice” means an invoice containing the information components referred to in regulation 44A(3) that has been issued, transmitted and received in a structured electronic format which allows for its automatic and electronic processing,
+- “European standard” means a standard adopted by a European standardisation organisation and made available to the general public,
+- “GDPR” means the General Data Protection Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing [Directive 95/46/EC](https://www.legislation.gov.uk/european/directive/1995/0046), and
+- “syntax” means the machine readable language or dialect used to represent the data elements contained in an electronic invoice.
+
+(3) An electronic invoice referred to in this regulation must contain the following information components—
+
+- (a) process and invoice identifiers,
+- (b) the invoice period,
+- (c) seller information,
+- (d) buyer information,
+- (e) payee information,
+- (f) seller’s tax representative information,
+- (g) contract reference,
+- (h) delivery details,
+- (i) payment instructions,
+- (j) allowance or charge information,
+- (k) invoice line item information,
+- (l) invoice totals, and
+- (m) VAT breakdown.
+
+(4) This Regulation is without prejudice to applicable law on data protection.
+
+(5) Subject to any provisions to the contrary in any enactments and without prejudice to the exemptions and restrictions set out in GDPR and the Data Protection Act 2018, personal data obtained for the purpose of electronic invoicing may be used only for that purpose or for purposes compatible with it.
+
+(6) This regulation is without prejudice to any provision made by or under Schedule 11 of the Value Added Tax Act 1994.
+
+### 45. Subcontracting[^key-a4f396d1462b9e843407c0d0b93aac41]
+
+(1) In the concession documents, the contracting entity may ask the tenderer to indicate in its tender any share of the concession contract that it may intend to subcontract to a third party and information about any proposed sub-contractor including their name and contact details.
+
+(2) Paragraph (1) is without prejudice to the concessionaire’s liability under the main concession contract.
+
+(3) This paragraph applies in the case of—
+
+- (a) a works concession contract; and
+- (b) a services concession contract including services to be provided at a facility under the oversight of the contracting entity.
+
+(4) If paragraph (3) applies, the contracting entity must require the main contractor to notify it, at the latest when the performance of the concession contract commences of the name, contact details and legal representatives of its subcontractors, involved in such works or services, in so far as known at the time.
+
+(5) The contracting entity must require the concessionaire to notify it of—
+
+- (a) any changes to the information notified under paragraph (4) during the course of the concession contract; and
+- (b) the name, contact details and legal representative of any new subcontractors which it subsequently involves in such works or services.
+
+(6) Paragraphs (4) and (5) do not apply to suppliers.
+
+(7) A contracting entity may require a contractor to provide information of the kind referred to paragraphs (4) and (5) in respect to any one or more of the following:—
+
+- (a) services concession contracts (other than those concerning services to be provided at the facilities under the oversight of the contracting entity) or suppliers involved in works concession contracts or services concession contracts;
+- (b) subcontractors of the concessionaire’s subcontractors or subcontractors further down the subcontracting chain.
+
+(8) A contracting entity may verify whether there are grounds for exclusion of subcontractors under regulation 40 (exclusion grounds).
+
+(9) In such cases, the contracting entity—
+
+- (a) must require that the economic operator replaces a subcontractor in respect of which the verification has shown that there are compulsory grounds for exclusion; and
+- (b) may require that the economic operator replaces a subcontractor in respect of which the verification has shown that there are non-compulsory grounds for exclusion.
+
+### 46. Modification of concession contract during contract term[^key-cdd009ef2a2215036e97db80afa479cb]
+
+(1) A concession contract may be modified without procurement for a new concession contract in the following cases—
+
+- (a) if the initial concession document provides for the modification, irrespective of its monetary value, in clear, precise and unequivocal review clauses, which may include price revision clauses or options, provided that such clauses—
+  - (i) state the scope and nature of possible modifications or options as well as the conditions under which they may be used; and
+  - (ii) do not provide for modifications or options that would alter the overall nature of the concession contract;
+- (b) to provide for additional works or services by the original concessionaire that have become necessary and were not included in the initial procurement for a concession contract, if a change of concessionaire—
+  - (i) cannot be made for economic or technical reasons such as requirements of interchangeability or interoperability with existing equipment, services or installations procured under the initial procurement; and
+  - (ii) would cause significant inconvenience or substantial duplication of costs for the contracting entity,
+
+  provided that any increase in price does not exceed 50% of the initial concession contract value;
+- (c) if all of the following conditions are fulfilled—
+  - (i) circumstances which a diligent contracting entity could not have foreseen brought about the need for modification;
+  - (ii) the modification does not alter the overall nature of the concession contract;
+  - (iii) in the case of a concession contract awarded by a contracting authority for the purposes of pursing an activity other than one listed in Schedule 2 any increase in value does not exceed 50% of the initial concession contract value;
+- (d) if a new concessionaire replaces one to which the contracting entity had initially awarded the concession contract—
+  - (i) as a result of an unequivocal review clause or option in conformity with sub-paragraph (a); or
+  - (ii) in the event of complete or partial succession into the position of the initial concessionaire, following corporate restructuring, including takeover, merger, acquisition or insolvency, by another economic operator that fulfils the criteria for qualitative selection initially established, provided that this does not entail other substantial modifications to the concession contract and is not aimed at circumventing the application of these Regulations;
+  - (iii) in the event that the contracting entity assumes the main concessionaire’s obligations towards its subcontractors;
+- (e) if a modification, irrespective of value, is not substantial (within the meaning of paragraph (8)); or
+- (f) if paragraph (5) applies.
+
+(2) If several successive modifications are made—
+
+- (a) the limitations imposed by the proviso at the end of paragraph (1)(b) and by paragraph (1)(c)(iii) apply to the value of each modification; and
+- (b) such successive modifications must not be aimed at circumventing these Regulations.
+
+(3) A contracting entity which has modified a concession contract in either of the cases described in paragraph (1)(b) and (c) must submit[^key-62b63906701fbb2ef3b6731260d72a82] a notice to that effect, in accordance with regulation 35 (form and manner of publication of notices) for publication.
+
+(4) Such a notice must contain the information set out in Annex XI to the Concession Contracts Directive , but as if—[^key-fd8f349460a699d0e4bfa3faadcfcd8e]
+
+- (a) paragraph 9 (financing by EU funds) were omitted,
+- (b) in paragraph 11, “in the *Official Journal of the European Union*” read “on the UK e-notification service (within the meaning of the Concession Contracts (Scotland) Regulations 2016), and
+- (c) in paragraph 12, “date of dispatch” were a reference to the date on which the notice is submitted to the UK e-notification service for the purposes of these Regulations.
+
+(5) This paragraph applies if the value of the modification is below both of the following values—
+
+- (a) the relevant threshold mentioned in regulation 8 (thresholds); and
+- (b) 10 % of the initial concession contract value,
+
+provided that the modification does not alter the overall nature of the concession contract.
+
+(6) For the purposes of paragraph (5), if several successive modifications are made, the value must be the net cumulative value of the successive modifications.
+
+(7) For the purpose of the calculation of the values mentioned in paragraphs (1)(b) and (c) and (5)(b), the updated value must be the reference value when the concession contract includes an indexation clause but if the concession contract does not contain an indexation clause, the updated value must be calculated taking into account the average inflation in the United Kingdom.
+
+(8) A modification of a concession contract during its term must be considered substantial for the purposes of paragraph (1)(e) if one or more of the following conditions is met—
+
+- (a) the modification renders the concession contract materially different in character from the one initially concluded;
+- (b) the modification introduces conditions which, had such conditions been part of the initial procurement procedure, would have—
+  - (i) allowed for the admission of candidates other than those initially selected;
+  - (ii) allowed for the acceptance of a tender other than that originally accepted; or
+  - (iii) attracted additional participants in the procurement procedure;
+- (c) the modification changes the economic balance of the concession contract in favour of the concessionaire in a manner which was not provided for in the initial concession contract;
+- (d) the modification extends the scope of the concession contract considerably;
+- (e) a new concessionaire replaces one to which the contracting entity had initially awarded the concession contract in cases other than those provided for in paragraph (1)(d).
+
+(9) A new procurement for the award of a concession contract in accordance with this Part is required for modifications of the provisions of a concession contract during its term other than those provided for in this regulation.
+
+### 47. Termination of concession contract[^key-2fc0939acb8babc5fb41cf6502d284d4]
+
+(1) A contracting entity must ensure that every concession contract which is awarded contains provision enabling the contracting entity to terminate the concession if—
+
+- (a) the concession contract has been subject to a substantial modification which would have required a procurement for the award of a concession contract in accordance with regulation 46(9) (modification of concession contracts during contract term); or[^key-8638a4c77351a78cd36b28e6cc79ed1d]
+- (b) the concessionaire has, at the time of contract award, been in one of the situations referred to in regulation 40(1) (exclusion grounds) including as a result of the application of regulation 40(2) and should therefore have been excluded from the procurement for the award of a concession contract [^key-ef8453e04023dcaa926a5627c65e8feb]...
+- (c)[^key-e2556691fde76f7008310d2b762fcbcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The provision may address the basis on which the power is to be exercisable in those circumstances, for example by providing for notice of termination to be given and by addressing consequential matters that will or might arise from the termination.
+
+(3) To the extent that a concession contract does not contain provision enabling the contracting entity to terminate the concession contract on any of the grounds mentioned in paragraph (1), a power for the contracting entity to do so on giving notice to the concessionaire is an implied term of that concession contract.
+
+(4)[^key-21c95af590a1d31f47d2d8b2f9f552c2] A contracting entity must not terminate a concession contract in a manner that circumvents the obligations under these Regulations.
+
+## PART 5 — REMEDIES
+
+### CHAPTER 8 — FACILITATION OF REMEDIES
+
+#### 48. Scope of Chapter 8[^key-8ab784327b2db6fd160e64f69e6c119a]
+
+This Chapter applies to procurement for the award of a concession contract falling within the scope of these Regulations.
+
+#### 49. Notice of a decision to award a concession contract[^key-9d8fa05a249fef5ce88aaec5ce8b106c]
+
+(1) Subject to paragraphs (5) and (6), a contracting entity must send to each candidate and tenderer a notice communicating its decision to award the concession contract.
+
+(2) If it is to be sent to a tenderer, the notice referred to in paragraph (1) must include—
+
+- (a) the criteria for the award of the concession contract;
+- (b) a summary of the reasons for the decision, including the characteristics and relative advantages of the successful tender, the score (if any) obtained by—
+  - (i) the tenderer which is to receive the notice; and
+  - (ii) the tenderer to be awarded the concession contract;
+
+  and anything required by paragraph (3);
+- (c) the name of the tenderer to be awarded the concession contract; and
+- (d) a precise statement of either—
+  - (i) when, in accordance with regulation 50 (standstill period), the standstill period is expected to end and, if relevant, how the timing of its ending might be affected by any and, if so what, contingencies; or
+  - (ii) the date before which the contracting entity will not, in conformity with regulation 50 enter into the concession contract .
+
+(3) The reasons referred to in paragraph (2)(b) must include the reason for any decision by the contracting entity that the economic operator did not meet the technical and functional requirements in an equivalent manner as mentioned in regulation 38(6) (technical and functional requirements).
+
+(4) If it is to be sent to a candidate, the notice referred to in paragraph (1) must include—
+
+- (a) a summary of the reasons why the candidate was unsuccessful; and
+- (b) the information mentioned in paragraph (2), but as if the words “and relative advantages” were omitted from sub-paragraph (b).
+
+(5) A contracting entity need not comply with paragraph (1) in any of the following cases—
+
+- (a) if the concession contract is permitted by these Regulations to be awarded without prior publication of a concession notice;
+- (b) if the only tenderer is the one who is to be awarded the concession contract, and there is no candidate.
+
+(6) A contracting entity may withhold any information to be provided in accordance with the preceding requirements of this regulation if the release of such information—
+
+- (a) would impede law enforcement or would otherwise be contrary to the public interest;
+- (b) would prejudice the legitimate commercial interests of a particular economic operator, whether public or private; or
+- (c) might prejudice fair competition between economic operators.
+
+(7) In this regulation—
+
+- (a) “candidate” means a candidate, as defined in regulation 2(1), which—
+  - (i) is not a tenderer, and
+  - (ii) has not been informed of the rejection of its application and the reasons for it;
+- (b) “tenderer” means a tenderer, as defined in regulation 2(1), which has not been definitively excluded.
+
+(8) For the purposes of paragraph (7)(b), an exclusion is definitive if, and only if, the tenderer has been notified of the exclusion and either—
+
+- (a) the exclusion has been held to be lawful in proceedings under Chapter 9; or
+- (b) the time limit for starting such proceedings has expired even on the assumption that the Court would have granted the maximum extension permitted by regulation 52(4) and (5) (enforcement of duties through the Courts).
+
+#### 50. Standstill period[^key-976b10ed569cd675435517ad65d5dc47]
+
+(1) A contracting entity must allow a period of at least the relevant standstill period to elapse between the date of despatch of the notice referred to in regulation 49(1) (notice of a decision to award a concession contract) and the date on which that contracting entity enters into the concession contract.
+
+(2) Paragraph (1) does not apply if—
+
+- (a) the concession contract is exempt from the requirement for prior publication of a concession notice;
+- (b) there are no tenderers concerned or candidates concerned;
+- (c) a notice is not required to be given under regulation 49(1) (notice of a decision to award a concession contract).
+
+(3) If notice is sent to all economic operators by facsimile or electronic means, the standstill period is a period of 10 days ending at midnight at the end of the 10<sup>th</sup> day after that on which the last notice is sent.
+
+(4) If notice is sent to any economic operators only by other means, the standstill period is a period of 15 days ending at midnight at the end of the 15<sup>th</sup> day after that on which the last notice is sent.
+
+### CHAPTER 9 — APPLICATIONS TO THE COURT
+
+#### 51. Duty owed to economic operators , including those from countries with whom the EU has a relevant international agreement other than the GPA[^key-f82f205b1cfd4e6d5c8daab1adb1da96][^key-73a83c8f678fb06f74c46aadf1be88d3]
+
+(1) The obligation on a contracting entity to comply with the provisions of these Regulations (except where otherwise specified) [^key-0c9894521eaa3b73c67c5ac9b50f38cd]... is a duty owed to an economic operator from the United Kingdom or Gibraltar[^key-cd4c994be1273789c9ad8c2765e77877].
+
+(2)[^key-88393028f727293f90a0983ed68e365c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-88393028f727293f90a0983ed68e365c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^key-88393028f727293f90a0983ed68e365c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-88393028f727293f90a0983ed68e365c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4A)[^key-88393028f727293f90a0983ed68e365c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-88393028f727293f90a0983ed68e365c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 51A. Duty owed to economic operators from GPA parties[^key-b842298ad354fe76511b4fadb766f7aa]
+
+(1) The duty owed in accordance with regulation 51(1) (duty owed to economic operators, including those from countries with whom the EU has a relevant international agreement other than the GPA) is a duty owed also to an economic operator from a GPA party, but only where the agreement applies to the procurement concerned.
+
+(2) For the purposes of paragraph (1), the GPA applies to a procurement if—
+
+- (a) the procurement may result in the award of a contract of any description; and
+- (b) at the relevant time—
+  - (i) a GPA party has agreed with the United Kingdom that the GPA shall apply to a contract of that description; and
+  - (ii) the economic operator is from that GPA party.
+
+(3)[^key-efd98c646dfc1a508a66e1590f11ad0b] In this regulation, “relevant time” means the date on which the contracting entity submitted a concession notice in respect of the concession contract to the UK e-notification service or would have done so if it had been required by these Regulations to do so.
+
+#### 51B. Duty owed to economic operators from countries with whom the United Kingdom has an international agreement, other than the GPA[^key-9191a5d37133d116879bc40c8c403d9d]
+
+(1) The duty owed in accordance with regulation 51(1) (duty owed to economic operators, including from countries with whom the EU has an international agreement other than the GPA) is a duty owed also to an economic operator from a country in respect of which a relevant international trade agreement applies, but only where the agreement applies to the procurement concerned.
+
+(2) For the purposes of paragraph (1), a relevant international trade agreement applies if the procurement is covered by an agreement listed in Schedule 5 (international trade agreements).
+
+#### 52. Enforcement of duties through the Courts[^key-4ecb900ee7b3868adada49b4d4c88a5a]
+
+(1) A breach of the duty owed in accordance with regulation 51 (duty owed to economic operators) is actionable by any economic operator which, in consequence of the breach suffers, or risks suffering, loss or damage.
+
+(2) Proceedings by an economic operator in respect of a breach of duty referred to in paragraph (1) must be brought in the Sheriff Court or the Court of Session.
+
+(3) Proceedings under this regulation may not be brought unless—
+
+- (a) the economic operator bringing the proceedings has informed the contracting entity of—
+  - (i) the breach or apprehended breach of the duty owed to it in accordance with regulation 51 (duty owed to economic operators); and
+  - (ii) of its intention to bring proceedings under this Part in respect of that breach or apprehended breach; and
+- (b) the proceedings are brought in accordance with paragraph (4).
+
+(4) For the purpose of paragraph (3)(b), proceedings must be brought—
+
+- (a) in the case of proceedings seeking an ineffectiveness order (as defined in regulation 55   (ineffectiveness orders))—
+  - (i) if paragraph (5) applies, within 30 days from the relevant date referred to in that paragraph; and
+  - (ii) in any other case, within 6 months from the date of the concession contract being entered into; and
+- (b) in any other case, within 30 days beginning with the date when the economic operator first knew or ought to have known that grounds for starting the proceedings had arisen unless the court considers that there is a good reason for extending the period within which proceedings may be brought, in which case the court may extend that period up to a maximum of 3 months from that date.
+
+(5) For the purpose of paragraph (4)(a)(i), this paragraph applies if—
+
+- (a) the contracting entity has submitted[^key-852c64cdc55f75093dadfddff8898fc9] a concession contract award notice to the UK e-notification service[^key-9e15e6af7e44647dc28ac90039787dc4] in accordance with regulation 35 (form and manner of publication of notices[^key-92175ef77e2397085fbc5265f8059009]), including reasons for its decision to enter into the concession contract without prior publication of a concession notice, in which case the relevant date is the date of publication of the notice on the UK e-notification service[^key-ef8e17edb54558f5f5b36a73cb8720a6]; or
+- (b) the contracting entity has by notice in writing informed all tenderers concerned and all candidates concerned (if any) of its decision in relation to the award of the concession contract and the notice includes the information referred to in regulation 49(2)(b) or (4)(a) (notice of decision to award a concession contract) as the case may be, in which case the relevant date is the date of sending of the notice.
+
+#### 53. Automatic suspension of authority power to proceed with concession contract award[^key-cfa79b6574911087342f33cebfbb139c]
+
+Without prejudice to the application of any relevant standstill period, if proceedings under this Part are served on a contracting entity or concessionaire in relation to a concession contract that has not been entered into, the contracting entity must not enter into the concession contract unless—
+
+- (a) the proceedings are determined, discontinued or disposed of; or
+- (b) the court, by interim order, brings to an end the prohibition.
+
+#### 54. Powers and duties of the court[^key-45bc5bb9d5ece59c286e1f2fccbc3992]
+
+(1) Subject to paragraphs (3) and (7), but otherwise without prejudice to any other powers of the court, in proceedings brought under this Part the court—
+
+- (a) may by interim order suspend—
+  - (i) the procedure leading to the award of a concession contract; and
+  - (ii) the implementation of any decision or action taken by the contracting entity in the course of following a procedure referred to in paragraph (i); and
+- (b) if satisfied that a decision or action taken by a contracting entity was in breach of the duty owed under regulation 51 (duty owed to economic operators), may—
+  - (i) order the setting aside of that decision or action;
+  - (ii) order the contracting entity to amend any document; and
+  - (iii) award damages to an economic operator which has suffered loss or damage as a consequence of the breach.
+
+(2) In any interim proceedings under this Part the court may decide not to grant an interim order when the negative consequences of such an order are likely to outweigh the benefits, having regard to the following considerations—
+
+- (a) that decisions taken by a contracting entity must be reviewed effectively and, in particular, as rapidly as possible;
+- (b) the probable consequences of an interim order for all interests likely to be harmed; and
+- (c) the public interest.
+
+(3) If the court is satisfied that regulation 55(7)(a) (ineffectiveness orders) applies but the second ground for ineffectiveness is not otherwise met, the court must, without prejudice to the other powers of the court, order—
+
+- (a) the payment by the contracting entity of a financial penalty; or
+- (b) the shortening of the duration of the concession contract awarded following the procurement in relation to which the breach occurred.
+
+(4) In determining what order to make under paragraph (3) the court must—
+
+- (a) ensure that the order is effective, proportionate and dissuasive; and
+- (b) have regard to all relevant factors including—
+  - (i) the seriousness of the breach; and
+  - (ii) the behaviour of the contracting entity.
+
+(5) If the court makes an order under paragraph (3)(b) the court must, without prejudice to the other powers of the court, make such other order as the court considers appropriate to address the consequences of the shortening of the duration of the concession contract or on the rights and obligations of the parties to the concession contract.
+
+(6) Before making an order under paragraph (5), the court must have regard to any terms of the concession contract or relating to the rights and obligations of the parties should the duration of the concession contract be shortened.
+
+(7) Subject to paragraph (3) and regulation 55 (ineffectiveness orders) in proceedings under this Part the court does not have power to order any remedy other than an award of damages in respect of a breach of the duty owed under regulation 51 (duty owed to economic operators) if the concession contract in relation to which the breach occurred has been entered into.
+
+(8) Sections 21 and 42 of the Crown Proceedings Act 1947[^f00062] do not apply in proceedings brought under this Part against the Crown.
+
+#### 55. Ineffectiveness orders[^key-4d0021d53d0ec1cd0054eb02247354b4]
+
+(1) Without prejudice to all rights and obligations in respect of the period leading up to the date of the order, an ineffectiveness order made in relation to a concession contract renders unenforceable all rights and obligations directly arising from the concession contract in respect of the period commencing on the date of the order.
+
+(2) Subject to any order made under regulation 56(1)(b) (powers of the court), obligations rendered unenforceable by an ineffectiveness order made in relation to a concession contract must not be performed by the parties to the concession contract.
+
+(3) Subject to paragraph (4) and regulation 57 (general interest grounds for not making a declaration of ineffectiveness), the court must make an ineffectiveness order if—
+
+- (a) the first ground for ineffectiveness referred to in paragraph (5) applies; or
+- (b) the second ground for ineffectiveness referred to in paragraph (7) applies.
+
+(4) In proceedings under this Part to which regulation 52(4)(b)(powers and duties of the court) applies, the court does not have power to make an ineffectiveness order if the proceedings would be incompetent if the regulation 52(4)(a) applied to the proceedings.
+
+First ground for ineffectiveness
+
+(5) The first ground for ineffectiveness applies if the contracting entity has entered into a concession contract without prior publication of a concession notice on the UK e-notification service[^key-64e87a22f99f7178c100e90b364cceda] in circumstances where the concession contract was not exempt from the requirement for prior publication of a concession notice.
+
+(6) The first ground for ineffectiveness does not apply if—
+
+- (a)[^key-c3970ae8558d4b5a660b95c76af633f5] the contracting authority submitted to the UK e-notification service for publication a voluntary ex ante transparency notice expressing its intention to enter into the contract or to conclude the framework agreement and containing—
+  - (i) the name and contact details of the contracting authority,
+  - (ii) a description of the object of the contract or framework agreement,
+  - (iii) a justification of the decision of the contracting authority to award the contract or conclude the framework agreement without prior publication of a contract notice,
+  - (iv) the name and contact details of the economic operator to be awarded the contract or to become party to the framework agreement, and
+  - (v) any other information which the contracting authority considered useful, and
+- (b) the contracting entity allowed a period of at least 10 days to elapse between the date of publication on the UK e-notification service[^key-04375c04ce769df40c15291bfb321015] of the notice referred to in sub-paragraph (a) and the date on which the contracting entity entered into the concession contract.
+
+Second ground for ineffectiveness
+
+(7) The second ground for ineffectiveness applies if all of the following apply—
+
+- (a) the contracting entity has breached regulation 49(1) (notice of decision to award a concession contract), 50(1) (standstill period) or 53 (automatic suspension of authority power to proceed with concession contract award);
+- (b) the contracting entity’s breach referred to in sub-paragraph (a) prevented the economic operator from bringing proceedings or obtaining a remedy before the concession contract was entered into;
+- (c) in awarding the concession contract there has been another breach of the duty owed to the economic operator under these Regulations, other than a breach of regulations 49(1) (notice of decision to award a concession contract), 51(1) (standstill period) or this Part; and
+- (d) the contracting entity’s breach referred to in sub-paragraph (c) has affected the chances of the economic operator bringing proceedings under this Part to obtain the concession contract.
+
+#### 56. Powers of the court[^key-61159218de5b04aa6a561f44f3884cde]
+
+(1) If an ineffectiveness order is made, the court must, without prejudice to the other powers of the court—
+
+- (a) order the payment by the contracting entity of a financial penalty; and
+- (b) make such other order as the court considers appropriate to address the consequences of the ineffectiveness order on the rights and obligations of the parties to the concession contract.
+
+(2) In the case of an order made under paragraph (1)(a), the court must have regard to the extent to which the concession contract will remain in effect in respect of the period leading up to the date of the ineffectiveness order.
+
+(3) Before making an order under paragraph (1)(b), the court must have regard to any terms of the concession contract or relating to the rights and obligations of the parties should an ineffectiveness order be made in relation to the concession contract.
+
+#### 57. General interest grounds for not making a declaration of ineffectiveness[^key-8084c997a0744ed2dbeb407c532555a9]
+
+(1) The court may decline to make an ineffectiveness order if the court is satisfied that overriding reasons relating to a general interest require that the enforceability of the rights and obligations arising from the concession contract should be maintained.
+
+(2) For the purposes of paragraph (1)—
+
+- (a) economic interests directly linked to the concession contract do not constitute overriding reasons relating to a general interest; and
+- (b) economic interests in the effectiveness of the concession contract may only be considered as overriding reasons relating to a general interest in exceptional circumstances where ineffectiveness would lead to disproportionate consequences.
+
+(3) For the purposes of paragraph (2)(a), economic interests directly linked to the concession contract include the costs—
+
+- (a) resulting from the delay in the performance of the concession contract;
+- (b) resulting from the commencement of a new procurement;
+- (c) resulting from the change of the economic operator performing the concession contract; and
+- (d) of legal obligations resulting from an ineffectiveness order.
+
+#### 58. Other orders[^key-6c490acddb86a612744367029309d238]
+
+(1) If the court declines to make an ineffectiveness order under regulation 57 (general interest grounds for not making a declaration of ineffectiveness), the court must, without prejudice to the other powers of the court, order—
+
+- (a) the payment by the contracting entity of a financial penalty; or
+- (b) the shortening of the duration of the concession contract.
+
+(2) In determining what order to make under paragraph (1)(a), regulation 54(4) applies (powers and duties of the court).
+
+(3) Regulation 54(5) and (6) (powers and duties of the court) applies to an order made under paragraph (1)(b) as it applies to an order made under regulation 54(3)(b).
+
+#### 59. Financial penalties[^key-a504dea50a4480a61ad55223668c16fb]
+
+(1) Subject to paragraph (2), if a financial penalty is ordered to be paid under this Part—
+
+- (a) the order must state that the financial penalty must be paid to the Scottish Ministers; and
+- (b) the clerk of the court must send an extract of the decree (without charge) to the Scottish Ministers.
+
+(2) Paragraph (1) does not apply to any financial penalty ordered to be paid by the Scottish Ministers or an office in the Scottish Administration which is not a ministerial office.
+
+(3) The Scottish Ministers must pay into the Scottish Consolidated Fund any financial penalty—
+
+- (a) ordered to be paid by them under this Part; or
+- (b) recovered by them under paragraph (1).
+
+(4) An office in the Scottish Administration which is not a ministerial office must pay any financial penalty ordered to be paid by them under this Part into the Scottish Consolidated Fund.
+
+(5) In this regulation, “an office in the Scottish Administration which is not a ministerial office” is construed in accordance with section 126(8) of the Scotland Act 1998[^f00064].
+
+## PART 6 — REPORTS
+
+### 60ZA. General provisions about regulations under these Regulations[^key-d13e8e9bd7933cbc42271b0ed40f2f4b]
+
+(1) Regulations under these Regulations are to be made by Scottish statutory instrument subject to the negative procedure.
+
+(2) Regulations under these Regulations may make supplementary, incidental, transitional or saving provision.
+
+### 60. Reporting requirements[^key-370bcf839bbda804b591f3b46ebe894e]
+
+Contracting entities must send to the Scottish Ministers a report containing such information as the Scottish Ministers may from time to time request in respect of concession contracts within the scope of these Regulations for the purpose of enabling the Scottish Ministers to provide the European Commission with information.
+
+### 61. Review of these Regulations[^key-1658c8c964de3e2af7ab50636115382f]
+
+(1) The Scottish Ministers must from time to time—
+
+- (a) carry out a review of these Regulations;
+- (b) set out the conclusions of the review in a report; and
+- (c) publish the report.
+
+(2) In carrying out the review, the Scottish Ministers must, so far as is reasonable, have regard to how the Concession Contracts Directive is implemented in other member States.
+
+(3) The report must in particular—
+
+- (a) set out the objectives intended to be achieved by the regulatory system established by these Regulations;
+- (b) assess the extent to which those objectives are achieved; and
+- (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
+
+(4) The first report under this regulation must be published before 18th April 2021.
+
+(5) Reports under this regulation are afterwards to be published at intervals not exceeding 5 years.
+
+## PART 7 — TRANSITIONAL, SAVINGS AND TRANSITORY PROVISIONS
+
+### 62. Interpretation of Part 7[^key-f7c0f0e70a9906f894886aa20fb65f88]
+
+In this Part, “the 2012 Regulations” means the Public Contracts (Scotland) Regulations 2012[^f00065].
+
+### 63. Transitional provision and saving where procurement was commenced before 18th April 2016[^key-c96e3a2d4935472cc6d980629a9a4beb]
+
+(1) Nothing in these Regulations, except regulation 46 (modification of contracts during contract term) and 47(1)(a), (2) and (3)[^key-5cf2602b9f6e608525a589b18096d45e] (termination of concession contract) affects a procurement for the award of a contract commenced before 18th April 2016.
+
+(2) Procurement for the award of a concession contract (except a services[^key-e3e59b451cac435957c20af3b40518a3] concession contract) commenced before 18th April 2016 will continue to be subject to the application of the 2012 Regulations as if those Regulations had not been revoked.
+
+(3) For the purposes of paragraph (1), a concession contract award procedure has been commenced before 18th April 2016 if, before that date—
+
+- (a) a contract notice has been sent to the Official Journal in accordance with the 2012 Regulations in order to invite offers or requests to be selected to tender for or to negotiate in respect of a proposed concession contract;
+- (b) the contracting entity has published any form of advertisement seeking offers or expressions of interest in a proposed concession contract; or
+- (c) the contracting entity has contacted any economic operator in order to—
+  - (i) seek expressions of interest or offers in respect of a proposed concession contract; or
+  - (ii) respond to an unsolicited expression of interest or offer received from that economic operator in relation to a proposed concession contract.
+
+### 64. Transitory provision prior to full commencement of regulation 32(1) to (7)[^key-18cd871ac689f35f1a244c54a75a24b0]
+
+(1) During the period beginning on 18th April 2016 and ending immediately before 18th April 2017, a central purchasing body may choose between the following means of communication for the purposes mentioned in paragraph (3)—
+
+- (a) electronic means in accordance with regulation 32 (rules applicable to communication);
+- (b) post or other suitable carrier;
+- (c) fax;
+- (d) a combination of those means.
+
+(2) During the period beginning on 18th April 2016[^key-da518ebe81796262a9cc6267c4a3ea2a] and ending immediately before 18th October 2018, a contracting entity may choose between the following means of communication for the purposes mentioned in paragraph (3)—
+
+- (a) electronic means in accordance with regulation 32 (rules applicable to communication);
+- (b) post or other suitable carrier;
+- (c) fax;
+- (d) a combination of those means.
+
+(3) The choices referred to in paragraphs (1) and (2) are available for all communication and information exchange in respect of which both the following criteria are met—
+
+- (a) the use of electronic means would, in accordance with regulation 32(1) to (7), have been required if those provisions had been in force;
+- (b) the use of electronic means is not required by any provision of these Regulations other than regulation 32(1).
+
+KEITH BROWN
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE 1 — ACTIVITIES CONSTITUTING WORKS[^key-39f888fe22d41461943867dafc45b811]
+
+Regulation 2(1)
+
+[^key-39f888fe22d41461943867dafc45b811]In this Schedule, ‘NACE Rev.1’ has the same meaning as in [Council Regulation (EEC) No 3037/90](https://www.legislation.gov.uk/european/regulation/1990/3037) on the statistical classification of economic activities in the European Community[^f00066] as that Regulation had effect in EU law immediately before IP completion day[^key-052df0f15b59cb1fc55ae405f7da6409], and numerical references in the columns relating to the NACE Rev.1 relate to the Annex to that Regulation. In the event of any difference of interpretation between the CPV and the NACE Rev.1, the CPV nomenclature shall apply.
+
+<table>
+<thead>
+<tr><th colspan="5"><strong>NACE Rev. 1</strong></th><th rowspan="3"><strong><em>CPV Code</em></strong></th></tr>
+<tr><th colspan="3"><strong>SECTION F</strong></th><th colspan="2"><strong>CONSTRUCTION</strong></th></tr>
+<tr><th><strong>Division</strong></th><th><strong>Group</strong></th><th><strong>Class</strong></th><th><strong>Subject</strong></th><th><strong>Notes</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>45</td><td></td><td></td><td>Construction</td><td>This division includes:<br>construction of new buildings and works, restoring and common repairs.</td><td>45000000</td></tr>
+<tr><td></td><td>45.1</td><td></td><td>Site preparation</td><td></td><td>45100000</td></tr>
+<tr><td></td><td></td><td>45.11</td><td>Demolition and wrecking of buildings; earth moving</td><td>This class includes:<br>demolition of buildings and other structures,<br>clearing of building sites,<br>earth moving: excavation, landfill, levelling and grading of construction sites, trench digging, rock removal, blasting, etc.<br>site preparation for mining,<br>overburden removal and other development and preparation of mineral properties and sites.<br>This class also includes:<br>building site drainage.<br>drainage of agricultural or forestry land.</td><td>45110000</td></tr>
+<tr><td></td><td></td><td>45.12</td><td>Test drilling and boring</td><td>This class includes:<br>test drilling, test boring and core sampling for construction, geophysical, geological or similar purposes.<br>This class excludes:<br>drilling of production oil or gas wells, see 11.20.<br>water well drilling, see 45.25,<br>shaft sinking, see 45.25,<br>oil and gas field exploration, geophysical, geological and seismic surveying, see 74.20.</td><td>45120000</td></tr>
+<tr><td></td><td>45.2</td><td></td><td>Building of complete constructions or parts thereof; civil engineering</td><td></td><td>45200000</td></tr>
+<tr><td></td><td></td><td>45.21</td><td>General construction of buildings and civil engineering works</td><td>This class includes:<br>construction of all types of buildings construction of civil engineering constructions,<br>bridges, including those for elevated highways, viaducts, tunnels and subways,<br>long-distance pipelines, communication and power lines,<br>urban pipelines, urban communication and power lines,<br>ancillary urban works,<br>assembly and erection of prefabricated constructions on the site.<br>This class excludes:<br>service activities incidental to oil and gas extraction, see 11.20,<br>erection of complete prefabricated constructions from self-manufactured parts not of concrete, see divisions 20, 26 and 28,<br>construction work, other than buildings, for stadiums, swimming pools, gymnasiums, tennis courts, golf courses and other sports installations, see 45.23,<br>building installation, see 45.3,<br>building completion, see 45.4,<br>architectural and engineering activities, see 74.20,<br>project management for construction, see 74.20.</td><td>45210000<br>Except:<br>—45213316<br>45220000 45231000<br>45232000</td></tr>
+<tr><td></td><td></td><td>45.22</td><td>Erection of roof covering and frames</td><td>This class includes:<br>erection of roofs,<br>roof covering,<br>waterproofing.</td><td>45261000</td></tr>
+<tr><td></td><td></td><td>45.23</td><td>Construction of highways, roads, airfields and sport facilities</td><td>This class includes:<br>construction of highways, streets, roads, other vehicular and pedestrian ways,<br>construction of railways,<br>construction of airfield runways,<br>construction work, other than buildings, for stadiums, swimming pools, gymnasiums, tennis courts, golf courses and other sports installations,<br>painting of markings on road surfaces and car parks.<br>This class excludes:<br>preliminary earth moving, see 45.11.</td><td>45212212 and DA03<br>45230000<br>except:<br>45231000<br>45232000<br>45234115</td></tr>
+<tr><td></td><td></td><td>45.24</td><td>Construction of water projects</td><td>This class includes:<br>construction of:<br>waterways, harbour and river works, pleasure ports (marinas), locks etc.;<br>dams and dykes,<br>dredging,<br>subsurface work.</td><td>45240000</td></tr>
+<tr><td></td><td></td><td>45.25</td><td>Other construction work involving special trades</td><td>This class includes:<br>construction activities specialising in one aspect common to different kinds of structures, requiring specialised skill or equipment,<br>construction of foundations, including pile driving,<br>water well drilling and construction, shaft sinking,<br>erection of non-self- manufactured steel elements,<br>steel bending,<br>bricklaying and stone setting,<br>scaffolds and work platform erecting and dismantling, including renting of scaffolds and work platforms,<br>erection of chimneys and industrial ovens.<br>This class excludes:<br>renting of scaffolds without erection and dismantling, see 71.32</td><td>45250000<br>45262000</td></tr>
+<tr><td></td><td>45.3</td><td></td><td>Building installation</td><td></td><td>45300000</td></tr>
+<tr><td></td><td></td><td>45.31</td><td>Installation of electrical wiring and fittings</td><td>This class includes: installation in buildings or other construction projects of:<br>electrical wiring and fittings,<br>telecommunications systems,<br>electrical heating systems,<br>residential antennas and aerials,<br>fire alarms,<br>burglar alarm systems,<br>lifts and escalators,<br>lightning conductors, etc.</td><td>45213316<br>45310000<br>Except: —<br>45316000</td></tr>
+<tr><td></td><td></td><td>45.32</td><td>Insulation work activities</td><td>This class includes:<br>installation in buildings or other construction projects of thermal, sound or vibration insulation.<br>This class excludes:<br>waterproofing, see 45.22.</td><td>45320000</td></tr>
+<tr><td></td><td></td><td>45.33</td><td>Plumbing</td><td>This class includes:<br>installation in buildings or other construction projects of:<br>plumbing and sanitary equipment,<br>gas fittings,<br>heating, ventilation, refrigeration or air- conditioning equipment and ducts,<br>sprinkler systems This class excludes:<br>installation of electrical heating systems, see 45.31.</td><td>45330000</td></tr>
+<tr><td></td><td></td><td>45.34</td><td>Other building installation</td><td>This class includes:<br>installation of illumination and signalling systems for roads, railways, airports and harbours,<br>installation in buildings or other construction projects of fittings and fixtures n.e.c.</td><td>45234115<br>45316000<br>45340000</td></tr>
+<tr><td></td><td>45.4</td><td></td><td>Building completion</td><td></td><td>45400000</td></tr>
+<tr><td></td><td></td><td>45.41</td><td>Plastering</td><td>This class includes:<br>application in buildings or other construction projects of interior and exterior plaster or stucco, including related lathing materials.</td><td>45410000</td></tr>
+<tr><td></td><td></td><td>45.42</td><td>Joinery installation</td><td>This class includes:<br>installation of not self-manufactured doors, windows, door and window frames, fitted kitchens, staircases, shop fittings and the like, of wood or other materials,<br>interior completion such as ceilings, wooden wall coverings, movable partitions, etc.<br>This class excludes:<br>laying of parquet and other wood floor coverings, see 45.43</td><td>45420000</td></tr>
+<tr><td></td><td></td><td>45.43</td><td>Floor and wall covering</td><td>This class includes:<br>laying, tiling, hanging or fitting in buildings or other construction projects of:<br>ceramic, concrete or cut stone wall or floor tiles,<br>parquet and other wood floor coverings carpets and linoleum floor coverings,<br>including of rubber or plastic,<br>terrazzo, marble, granite or slate floor or wall coverings,<br>wallpaper.</td><td>45430000</td></tr>
+<tr><td></td><td></td><td>45.44</td><td>Painting and glazing</td><td>This class includes:<br>interior and exterior painting of buildings,<br>painting of civil engineering structures,<br>installation of glass, mirrors, etc.<br>This class excludes:<br>installation of windows, see 45.42.</td><td>45440000</td></tr>
+<tr><td></td><td></td><td>45.45</td><td>Other building completion</td><td>This class includes:<br>installation of private swimming pools,<br>steam cleaning, sand blasting and similar activities for building exteriors,<br>other building completion and finishing work n.e.c.<br>This class excludes:<br>interior cleaning of buildings and other structures see 74.70.</td><td>45212212 and DA04<br>45450000</td></tr>
+<tr><td></td><td>45.5</td><td></td><td>Renting of construction or demolition equipment with operator</td><td></td><td>45500000</td></tr>
+<tr><td></td><td></td><td>45.50</td><td>Renting of construction or demolition equipment with operator</td><td>This class excludes:<br>renting of construction or demolition machinery and equipment without operators, see 71.32.</td><td>45500000</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 1A — PARTIES TO THE GPA[^key-861d3bc44ac1dc4c525fb26dc890b9ab]
+
+Regulation 2(1)
+
+- Armenia
+- Australia
+- Canada
+- European Union
+- Hong Kong, China
+- Iceland
+- Israel
+- Japan
+- Korea, Republic of
+- Liechtenstein
+- Moldova, Republic of
+- Montenegro
+- Netherlands with respect to Aruba
+- New Zealand
+- North Macedonia, Republic of[^key-9e339742bd3d524f73d5ee4b6c664468]
+- Norway
+- the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu
+- Singapore
+- Switzerland
+- Ukraine
+- United States
+
+## SCHEDULE 2 — ACTIVITIES EXERCISED BY UTILITIES
+
+Regulations 2(1), 4, 5(1), 9(1)(b),15(1), 16, 22(6), 23(2), 24(1),25(1), 46(1)(c)(iii)
+
+The provisions of these Regulations governing concession contracts awarded by utilities (referred to in this Schedule as “the relevant provisions”) shall apply to the following activities.
+
+### 1. Gas and heat[^key-6dbd8bc155f1c3a210e42ba07c8f3977]
+
+(1) In the case of gas and heat, the relevant provisions shall apply to the following activities—
+
+- (a) the provision or operation of fixed networks intended to provide a service to the public in connection with the production, transport or distribution of gas or heat;
+- (b) the supply of gas or heat to such networks.
+
+(2) The supply by a utility referred to in regulation 5(1)(b) or (c) (meaning of “utility”) of gas or heat to fixed networks which provide a service to the public do not fall within the scope of this Schedule if all of the following conditions are met—
+
+- (a) the production of gas or heat by that utility is the unavoidable consequence of carrying out an activity other than those referred to in this paragraph or in paragraphs 2 or 3;
+- (b) the supply to the public network is aimed only at the economic exploitation of such production and amounts to not more than 20% of that utility’s turnover on the basis of the average for the preceding three years, including the current year.
+
+(3) In this paragraph, “supply” includes the generation/production, wholesale and retail sale of gas, other than the production of gas in the form of extraction which, instead, falls within the scope of paragraph 6.
+
+### 2. Electricity[^key-78bc17734ab219825bae06b2cf7e784e]
+
+(1) In the case of electricity, the relevant provisions shall apply to the following activities—
+
+- (a) the provision or operation of fixed networks intended to provide a service to the public in connection with the production, transport or distribution of electricity;
+- (b) the supply of electricity to such networks.
+
+(2) The supply by a utility referred to in regulation 5(1)(b) or (c) (meaning of “utility”) of electricity to fixed networks which provide a service to the public shall not fall within the scope of this Schedule if all of the following conditions are met—
+
+- (a) the production of electricity by that utility takes place because its consumption is necessary for carrying out an activity other than those referred to in this paragraph or paragraphs 1 or 3;
+- (b) the supply to the public network depends only on that utility’s own consumption and has not exceeded 30% of that utility’s total production of energy, on the basis of the average for the preceding three years, including the current year.
+
+(3) In this paragraph, “supply” includes generation/production, wholesale and retail sale of electricity.
+
+### 3. Transport services[^key-df8b1bfd2d64e7fe17c2cbd4d0cab26b]
+
+(1) The relevant provisions shall apply to activities relating to the provision or operation of networks providing a service to the public in the field of transport by—
+
+- (a) railway;
+- (b) automated systems;
+- (c) tramway;
+- (d) trolley bus;
+- (e) bus; or
+- (f) cable.
+
+(2) For the purposes of this paragraph, a network shall be considered to exist if the service is provided under operating conditions laid down by a competent authority, such as—
+
+- (a) conditions on the routes to be served;
+- (b) the capacity to be made available; or
+- (c) the frequency of the service.
+
+### 4. Ports and airports[^key-6d1a0a4c94ee05be3862446f745acb10]
+
+The relevant provisions shall apply to activities relating to the exploitation of a geographical area for the purpose of the provision of airports and maritime or inland ports or other terminal facilities to carriers by air, sea or inland waterway.
+
+### 5. Postal services activities[^key-ae33e68af1e08b91efffed435709d618]
+
+(1) The relevant provisions shall apply to activities relating to the provision of—
+
+- (a) postal services;
+- (b) services other than postal services, on condition that such services are provided by an entity which also provides postal services and provided that the postal services are not directly exposed to competition within the meaning of regulation 33(2) of the Utilities Contracts (Scotland) Regulations 2016.
+
+(2) In this paragraph—
+
+- (a) “postal item” means an item addressed in the final form in which it is to be carried, irrespective of weight, which includes—
+  - (i) correspondence;
+  - (ii) books;
+  - (iii) catalogues;
+  - (iv) newspapers;
+  - (v) periodicals; and
+  - (vi) postal packages containing merchandise with or without commercial value;
+- (b) “postal services” means services consisting of the clearance, sorting, routing and delivery of postal items, including both services falling within as well as services falling outside the scope of the universal service set up in accordance with the Postal Services Act 2011[^f00067];
+- (c) “services other than postal services” means services provided in the following areas—
+  - (i) mail service management services (services both preceding and subsequent to despatch, including mailroom management services),
+  - (ii) services concerning postal items not included in the definition of “postal item” in paragraph (a), such as direct mail bearing no address.
+
+### 6. Oil and gas[^key-9de8acbab9f38b2d1adb07d48687c26f]
+
+The relevant provisions shall apply to activities relating to the exploitation of a geographical area for the purpose of—
+
+- (a) extracting oil or gas;
+- (b) exploring for, or extracting, coal or other solid fuels.
+
+## SCHEDULE 3 — SOCIAL AND OTHER SPECIFIC SERVICES[^key-31c13ce408c7e5d21b66de2b8814243e]
+
+Regulations 5(1)(c), 9(2), 21, 22(2), 26(3), 33, 34
+
+| CPV Code | Description |
+| --- | --- |
+| 75200000-8; 75231200-6; 75231240-8; 79611000-0; 79622000-0 (Supply services of domestic help personnel); 79624000-4 (Supply services of nursing personnel) and 79625000-1 (Supply services of medical personnel) from 85000000-9 to 85323000-9; 98133100-5, 98133000-4; 98200000-5; 98500000-8 (Private households with employed persons) and 98513000-2 to 98514000-9 (Manpower services for households, Agency staff services for households, Clerical staff services for households, Temporary staff for households, Home-help services and Domestic services) | Health, social and related services |
+| 85321000-5 and 85322000-2, 75000000-6 (Administration, defence and social security services), 75121000-0, 75122000-7, 75124000- 1; from 79995000-5 to 79995200-7; from 80000000-4 Education and training services to 80660000-8; from 92000000-1 to 92700000-8; 79950000-8 (Exhibition, fair and congress organisation services), 79951000-5 (Seminar organisation services), 79952000-2 (Event services), 79952100-3 (Cultural event organisation services), 79953000-9 (Festival organisation services), 79954000-6 (Party organisation services), 79955000-3 (Fashion shows organisation services), 79956000-0 (Fair and exhibition organisation services) | Administrative social, educational, healthcare and cultural services |
+| 75300000-9 | Compulsory social security services |
+| 75310000-2, 75311000-9, 75312000-6,<br>75313000-3, 75313100-4, 75314000-0,<br>75320000-5, 75330000-8, 75340000-1 | Benefit services |
+| 98000000-3; 98120000-0; 98132000-7; 98133110-8 and 98130000-3 | Other community, social and personal services including services furnished by trade unions, political organisations, youth associations and other membership organisation services |
+| 98131000-0 | Religious services |
+| 55100000-1 to 55410000-7; 55521000-8 to 55521200-0 (55521000-8 Catering services for private households, 55521100-9 Meals-on- wheels services, 55521200-0 Meal delivery service) 55520000-1 Catering services, 55522000-5 Catering services for transport enterprises, 55523000-2 Catering services for other enterprises or other institutions, 55524000-9 School catering services 55510000-8 Canteen services, 55511000-5 Canteen and other restricted-clientele cafeteria services, 55512000-2 Canteen management services, 55523100-3 School-meal services | Hotel and restaurant services |
+| 79100000-5 to 79140000-7; 75231100-5; | Legal services, to the extent not excluded by regulation 12(1)(e) |
+| 75100000-7 to 75120000-3; 75123000-4;<br>75125000-8 to 75131000-3 | Other administrative services and government services |
+| 75200000-8 to 75231000-4 | Provision of services to the community |
+| 75231210-9 to 75231230-5; 75240000-0 To 75252000-7; 794300000-7; 98113100-9 | Prison related services, public security and rescue services to the extent not excluded by regulation 12(1)(k) |
+| 79700000-1 to 79721000-4 (Investigation and security services, Security services, Alarm- monitoring services, Guard services, Surveillance services, Tracing system services, Absconder-tracing services, Patrol services, Identification badge release services, Investigation services and Detective agency services) 79722000-1(Graphology services), 79723000-8 (Waste analysis services) | Investigation and security services |
+| 98900000-2 (Services provided by extra- territorial organisations and bodies) and 98910000-5 (Services specific to international organisations and bodies) | International services |
+| 64000000-6 (Postal and telecommunications services), 64100000-7 (Post and courier services), 64110000-0 (Postal services), 64111000-7 (Postal services related to newspapers and periodicals), 64112000-4 (Postal services related to letters), 64113000-1 (Postal services related to parcels), 64114000-8 (Post office counter services), 64115000-5 (Mailbox rental), 64116000-2 (Post-restante services), 64122000-7 (Internal office mail and messenger services) | Postal services |
+| 50116510-9 (Tyre-remoulding services), 71550000-8 (Blacksmith services) | Miscellaneous services |
+
+## SCHEDULE 4 — LIST OF INTERNATIONAL SOCIAL AND ENVIRONMENTAL CONVENTIONS REFERRED TO IN REGULATION 40(9)[^key-f0eaed5822245987328290f47e227b13]
+
+Regulations 28(5) and 40(9)
+
+[^key-f0eaed5822245987328290f47e227b13]
+
+- ILO Convention 87 on Freedom of Association and Protection of the Right to Organise;
+- ILO Convention 98 on the Right to Organise and Collective Bargaining;
+- ILO Convention 29 on Forced Labour;
+- ILO Convention 105 on Abolition of Forced Labour;
+- ILO Convention 138 on Minimum Age;
+- ILO Convention 111 on Discrimination (Employment and Occupation);
+- ILO Convention 100 on Equal Remuneration;
+- ILO Convention 182 on Worst Forms of Child Labour;
+- Vienna Convention for the protection of the Ozone Layer and Montreal Protocol on substances that deplete the Ozone Layer;
+- Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal (Basel Convention);
+- Stockholm Convention on Persistant Organic Pollutants (Stockholm POPs Convention);
+- Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade (UNEP/FAO) (PIC Convention) and its 3 regional Protocols.
+
+## SCHEDULE 5 — INTERNATIONAL TRADE AGREEMENTS[^key-de4e55dc22d07d1f372ef49753811048]
+
+Regulation 51B
+
+Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Republic of Chile, signed at Santiago on 30th January 2019.
+
+Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation, signed at Bern on 11th February 2019.
+
+Trade and Partnership Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the State of Israel, signed at Tel Aviv on 18th February 2019.
+
+Economic Partnership Agreement between the CARIFORUM States, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, signed in St Lucia on 22nd March 2019.
+
+Trade Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Colombia, the Republic of Ecuador and the Republic of Peru, of the other part, signed at Quito on 15th May 2019.
+
+Agreement Establishing an Association between the United Kingdom of Great Britain and Northern Ireland and Central America, signed at Managua on 18th July 2019.
+
+Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Korea, of the other part, signed at London on 22nd August 2019.
+
+Strategic Partnership and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and Georgia, signed at London on 21st[^key-eaf2aa840aa2d0594c854b3da7ddb8ab]<sup></sup>October 2019, as amended by Amending Agreement No. 2 signed at Tbilisi on 2nd and 14th December  2022.
+
+Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Kosovo, signed at Pristina on 3rd December 2019, as amended by Amending Agreement No. 1 signed at Pristina on 19th September 2023.[^key-f06ba24b3282dfdba4494030c38cc2db]
+
+Political, Free Trade and Strategic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland and Ukraine, signed at London on 8th October 2020, as amended by Agreement No. 2 in the form of Exchange of Letters signed at Kyiv on 18th August 2022.[^key-241e1fbc0e4bc5e20c4a407a531ae947]
+
+Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership, signed at Tokyo on 23rd October 2020.
+
+Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of North Macedonia, signed at Skopje on 3rd December 2020, as amended by Agreement No. 1 in the form of an Exchange of Letters signed at Skopje on 10th December 2021.[^key-34850f1f6cbea51e1218c3145a09da9a]
+
+Agreement on Trade Continuity between the United Kingdom of Great Britain and Northern Ireland and Canada, signed at Ottawa on 9th December 2020.
+
+Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Singapore, signed at Singapore on 10th December 2020.
+
+Trade Continuity Agreement between the United Kingdom of Great Britain and Northern Ireland and the United Mexican States, signed at Mexico City on 15th December 2020.
+
+Strategic Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Moldova, signed at Chisinau on 24th December 2020, as amended by Amending Agreement No. 2 signed at Chisinau on 25th May 2023.[^key-0be2efbba9c4a2b0a9cd624b0ea44261]
+
+Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Socialist Republic of Viet Nam, signed at London on 29th December 2020.
+
+Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Albania, signed at Tirana on 5th February 2021, as amended by the Exchange of Letters No. 1 signed at Tirana on 12th January 2023 and 12th June 2023.[^key-fda2a12a4ef362ef946d3d5cb094419f]
+
+Partnership, Trade and Cooperation Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Serbia, signed at Belgrade on 16th April 2021.
+
+Free Trade Agreement between Iceland, the Principality of Liechtenstein and the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland, signed at London on 8th July 2021.[^key-8de8945041117623818fbbfb6da21d40]
+
+Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and Australia, signed at London on 16th December 2021 and Adelaide on 17th December 2021.[^key-a45a509446204bbbe416d0e0622655cf]
+
+Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and New Zealand, signed at London on 28th February 2022.
+
+Comprehensive and Progressive Agreement for Trans-Pacific Partnership, signed at Santiago on 8 March 2018, including the Protocol on the Accession of the United Kingdom of Great Britain and Northern Ireland to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, signed at Auckland and Bandar Seri Begawan on 16 July 2023.[^key-0bc18a1019bd0dcb7398881cb66a5f8c]
+
+Strategic Partnership and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Kazakhstan, signed at Astana on 24th April 2024.[^key-c45a2be46920e46d5f2eb68b2d0cda5d]
+
+The Agreement on Partnership and Cooperation between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Iraq, signed at London on 14 January 2025.[^key-31be0c773801fb5527eff44092d9a3ec]
+
+Comprehensive Economic and Trade Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India, signed at London on 24 July 2025.[^key-7c34a16ad0b1b46494951941ef6d573b]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement, for Scotland, [Directive 2014/23/EU](https://www.legislation.gov.uk/european/directive/2014/0023) of the European Parliament and Council of 26th February 2014 on the award of concession contracts (OJ L 94, 28.3.2014, p.1).
+
+These Regulations impose obligations and specify procedures in respect of the award of a concession contract by contracting entities, which term normally includes contracting authorities and utilities. In particular—
+
+- Part 1 sets out the meaning of certain concession contracts.
+- Part 2 sets out the scope of the Regulations (including reference to activities and to thresholds based on the estimated value of the procurement), specifies exclusions for certain concession contracts and lays down some general principles applicable to a procurement within the scope of the Regulations.
+- Part 3 sets out rules to be followed in relation to the procurement procedure and for the making an award of a concession contract.
+- Part 4 makes provision for rules of the performance of a concession contract including sub-contracting, modification and termination of a concession contract.
+
+Part 5 contains provisions about remedies (and their facilitation) in relation to a procurement within the scope of Parts 1 to 4. In doing so these provisions implement, for Scotland, Council [Directive 89/665/EEC](https://www.legislation.gov.uk/european/directive/1989/0665) on the coordination of the laws, regulations and administrative provisions relation to the application of review procedures to the award of concession contracts (OJ L 395, 30.12.1989) as amended[^f00068] and Council [Directive 92/13/EEC](https://www.legislation.gov.uk/european/directive/1992/0013) on the coordination of the laws, regulations and administrative provisions relating to the application of Community rules on the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (OJ L 76, 23.3.1992) as amended[^f00069].
+
+Part 6 imposes certain requirements for monitoring, reporting on and reviewing the Regulations.
+
+Part 7 makes transitional and transitory provision and savings, including provision for certain procurements commenced before the commencement of these Regulations, not to be affected by these Regulations.
+
+A full regulatory assessment of the effect that these Regulations will have on the costs of business was prepared and copies may be obtained from the Scottish Procurement Directorate website at www.scotland.gov.uk/topics/spd.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act 2006 (“the 2006 Act”). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3(3) and Part 1 of the Schedule (“the 2008 Act”). The functions conferred upon a Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act. Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act Schedule, Part 1.
+
+[^key-304532e1a6c7b000aeb5ade5e4965c0a]: Modification: Regulations: power to amend conferred (23.5.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 115(3)](https://www.legislation.gov.uk/ukpga/2023/54/section/115/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/54/section/115/4), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/716/regulation/2/1)
+
+[^f00002]: Footnote: OJ L 13, 19.1.2000, p.12, amended by Regulation [(EC) No 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) (OJ L 311, 21.11.2008, p.1).
+
+[^f00003]: Footnote: OJ L 340, 16.12.2002, p.1.
+
+[^f00004]: Footnote: OJ L 108, 24.4.2002, p.33; last amended by [Directive 2009/140/EC](https://www.legislation.gov.uk/european/directive/2009/0140) (OJ L 337. 18.12.2009, p.37.
+
+[^f00005]: Footnote: OJ L 145, 30.4.2004, p.1.
+
+[^f00006]: Footnote: OJ L 274, 20.10.2009, p.36, last amended by Commission [Decision 2013/662/EU](https://www.legislation.gov.uk/european/decision/2013/0662) (OJ L 306, 16.11.2013, p.21).
+
+[^f00007]: Footnote: OJ L 95, 15.4.2010, p.1.
+
+[^f00008]: Footnote: OJ L 182, 29.6.2013, p.19.
+
+[^f00009]: Footnote: OJ L 53, 26.2.2011, p.66.
+
+[^f00010]: Footnote: OJ L 94, 28.3.2014, p.1.
+
+[^f00011]: Footnote: OJ L 94, 28.3.2014, p.65.
+
+[^f00012]: Footnote: OJ L 94, 28.3.2014, p.243.
+
+[^key-9601323900bfbf9931b6ba474c579184]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2016/65) applied (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 119(2)(c)](https://www.legislation.gov.uk/ukpga/2023/54/section/119/2/c), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+
+[^key-3dcfc24609bc2d211ec48de82ae3222a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/65/regulation/1) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-1f2f7b93f10058faacbf679ce1a3a6bf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/65/regulation/2) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-0c811f15c56e5b98256d1e9496b6d17f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/2/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^f00013]: Footnote: OJ L 94, 28.3.2014, p.1.
+
+[^key-c12ea63212d3d5a18844ee7cdb887bc3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2016/65/regulation/2) substituted (18.4.2016) by [The Concession Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/125)](https://www.legislation.gov.uk/ssi/2016/125), [regs. 1](https://www.legislation.gov.uk/ssi/2016/125/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2016/125/regulation/2/2/a)
+
+[^key-cddd98f59352707a456dcf66c32b7343]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/2/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^f00014]: Footnote: OJ L 340, 16.12.2002, p.1, last amended by [Commission Regulation (EC) No. 213/2008](https://www.legislation.gov.uk/european/regulation/2008/0213) (OJ L 74, 15.3.2008, p.1).
+
+[^key-088ba5267549e8a97ba293a675a32808]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/2/a)
+
+[^key-e8bda9f5b0fd3053fc44695644efa287]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/2/b)
+
+[^f00016]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^key-47d689f7397a2b95d25fe9616b4a1018]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(2)(c)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/2/c/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-d49ac6bee08e60495806b9a940fcfc1f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2024/338/regulation/5/2/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-35ac77eeb4fd548d305371b5a11a5487]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(2)(d)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/2/d) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-ac569aa77e982f47d1313abf24a2d5e4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) substituted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2021/573/regulation/7/2/a)
+
+[^key-ff4f1a7311d2529d0b70de78b50feee7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) substituted (30.10.2023) by [The Public Procurement (Agreement on Government Procurement) (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/287)](https://www.legislation.gov.uk/ssi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/287/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2023/287/regulation/4/2)
+
+[^key-efb22d69a119575b3359e2503fde0ffd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) inserted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2021/573/regulation/7/2/b)
+
+[^key-36de584fc08fc76661eca7977e38d52e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(2)(e)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/2/e) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-33288140d69f5758b2b46ff7b5ba072a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2024/338/regulation/5/2/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^f00017]: Footnote: OJ C 115, 9.5.2008, p.47.
+
+[^key-0d0ae3e9e85e7afec83115ec9509da06]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(2)(g)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/2/g) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-73de1a55d154e9ac6307bbd75d93d00c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/1) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(2)(h)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/2/h) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^f00019]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80)
+
+[^key-92b068a209dfd3e5f06001fe7c2a96bb]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/ssi/2016/65/regulation/2/4) inserted (18.4.2016) by [The Concession Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/125)](https://www.legislation.gov.uk/ssi/2016/125), [regs. 1](https://www.legislation.gov.uk/ssi/2016/125/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2016/125/regulation/2/2/b)
+
+[^f00015]: Footnote: [S.I. 2011/1848](https://www.legislation.gov.uk/uksi/2011/1848) amended by [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88), [S.S.I. 2012/89](https://www.legislation.gov.uk/ssi/2012/89), [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102), [S.S.I 2015/446](https://www.legislation.gov.uk/ssi/2015/446) and [S.S.I 2016/49](https://www.legislation.gov.uk/ssi/2016/49).
+
+[^f00018]: Footnote: OJ C 115, 9.5.2008, p.13.
+
+[^key-e48e92a02bcf7e48d42c7a35945020fd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/65/regulation/3) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-b9ec21cfa9c55cd3d4dc5a77630f5c58]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/65/regulation/4) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-5983a50657e9062a70b80ed32c9222f5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/65/regulation/5) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00020]: Footnote: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446).
+
+[^key-bfc7ad3fa1a61c5e6d55480a91f79ffd]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/5/3/a) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(3)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/3/a)
+
+[^key-14acb4f5c94d910aeac615d159d860dc]: Textual amendment: [Reg. 5(3)(aa)](https://www.legislation.gov.uk/ssi/2016/65/regulation/5/3/aa) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(3)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/3/b)
+
+[^key-6dbeb7045b4db1e0f60b1216a6ccd445]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/5/4/b) deleted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/3/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-9ac269163029b66734e4ececed09574d]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/5/4/b) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2024/338/regulation/5/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-bb1dd015af789d69b50fdd7cfa595882]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/65/regulation/6) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00022]: Footnote: OJ L 395, 30.12.1090, p.33, as amended by OJ L 209, 24.7.1992, p.1 and OJ L 335, 20.12.2007, p.31.
+
+[^f00023]: Footnote: OJ L 76, 23.3.1992, p. 14 as amended by Council Directive by Directive [2007/66/EEC](https://www.legislation.gov.uk/european/directive/2007/0066) of the European Parliament and Council with regard to improving the effectiveness of review procedures concerning the award of public contracts (OJ L 335, 20.12.2007, p.31) and by [Directive 2014/23/EU](https://www.legislation.gov.uk/european/directive/2014/0023) of the European Parliament and of the Council on the award of concession contracts (OJ 94, 28.3.2014, p.1).
+
+[^key-5f790d1b1e3bf17c9d5058d7a5dbcf82]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/65/regulation/7) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-f4567bf01245eb0351ee1fd92375e209]: Textual amendment: [Reg. 7(2)-(5)](https://www.legislation.gov.uk/ssi/2016/65/regulation/7/2) substituted for [reg. 7(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/7/2) (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/4) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^M_F_e55a5864-cb42-49dd-d0e0-5394c7c2d5ef]: Textual amendment: [S.I. 2016/273](https://www.legislation.gov.uk/uksi/2016/273).
+
+[^key-1fdbf942b3d9eab130a2972f4aeb5212]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/ssi/2016/65/regulation/7A) inserted (20.12.2025) by [The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2025/392/regulation/4/2)
+
+[^key-997a2b0b8b9214c41aef54be28cb5a30]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/65/regulation/8) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-27333199036c0e17101c19a9eba0b70b]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/8/1) substituted (1.1.2022) by [The Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Regulations 2021 (S.S.I. 2021/378)](https://www.legislation.gov.uk/ssi/2021/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/ssi/2021/378/regulation/5/a/ii) (with [reg. 6](https://www.legislation.gov.uk/ssi/2021/378/regulation/6))
+
+[^key-26776cae80cf4f27e186299efc90c506]: Textual amendment: Sum in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/8/1) substituted (1.1.2026) by [The Public Procurement (Agreement on Government Procurement) (Thresholds) (Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/299)](https://www.legislation.gov.uk/ssi/2025/299), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/299/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2025/299/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/ssi/2025/299/regulation/5))
+
+[^key-64af7a1f60fb0177e6b3266464b724f3]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/ssi/2016/65/regulation/8/1A) inserted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [6(2)](https://www.legislation.gov.uk/ssi/2023/124/regulation/6/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+
+[^key-a1d199afd1833e18ab8156a568336b1e]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/8/2) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(5)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/5/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-89a548705a417481c72e09d73053daaf]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/8/3) substituted (1.1.2022) by [The Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Regulations 2021 (S.S.I. 2021/378)](https://www.legislation.gov.uk/ssi/2021/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2021/378/regulation/5/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2021/378/regulation/6))
+
+[^key-5490917c3b0073ae45cfb4b46369bee4]: Textual amendment: Word in [reg. 8(4)](https://www.legislation.gov.uk/ssi/2016/65/regulation/8/4) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(5)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/5/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-050953ded917c359257c1b9a35398584]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/ssi/2016/65/regulation/8A) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(6)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/6) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-eaecbba44d17479ff6be15c76b865833]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/65/regulation/9) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-32c57991dc4668c1e244a8d747f26b05]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/9/1/a) substituted (1.7.2019) by [The Public Procurement etc. (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/173)](https://www.legislation.gov.uk/ssi/2019/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/173/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2019/173/regulation/3/2)
+
+[^key-9663686c1fe6feac2557837f66656802]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/9/1/b) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(7)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/7/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-2cdf492320bab962dad45c1db3546e09]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/9/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(7)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/7/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-66aaa189483818473a5389477c273a0a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/65/regulation/10) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-b06c2e16ed09606a3fb4e7caa7f3e29d]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/10/1/a) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [5(4)](https://www.legislation.gov.uk/ssi/2024/338/regulation/5/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-667865f5cdfaf7a579088625750688bc]: Textual amendment: Word in [reg. 10(1)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/10/1/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(8)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/8/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-c62dc6e15dc36cf9ee6bac682ffaf2d3]: Textual amendment: [Reg. 10(1)(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/10/1/b) and word omitted (coming into force in accordance with s. 7(1) of the amending Act) by virtue of [Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024 (c. 6)](https://www.legislation.gov.uk/ukpga/2024/6), [Sch. para. 21(2)](https://www.legislation.gov.uk/ukpga/2024/6/schedule/paragraph/21/2) (with [Sch. paras. 23-26](https://www.legislation.gov.uk/ukpga/2024/6/schedule/paragraph/23))
+
+[^key-c5bf5a535eb92a1b01a708e1b0820303]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/10/2)[(2A)](https://www.legislation.gov.uk/ssi/2016/65/regulation/10/2A) substituted for [reg. 10(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/10/2) (coming into force in accordance with s. 7(1) of the amending Act) by [Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024 (c. 6)](https://www.legislation.gov.uk/ukpga/2024/6), [Sch. para. 21(3)](https://www.legislation.gov.uk/ukpga/2024/6/schedule/paragraph/21/3) (with [Sch. paras. 23-26](https://www.legislation.gov.uk/ukpga/2024/6/schedule/paragraph/23))
+
+[^key-c2f4b323ca0f69cf0085386d7df2165d]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/10/3) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/4)
+
+[^key-4f435d11c905ca8ff7fbcf38766ddfd6]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/ssi/2016/65/regulation/10/4) inserted (coming into force in accordance with s. 7(1) of the amending Act) by [Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024 (c. 6)](https://www.legislation.gov.uk/ukpga/2024/6), [Sch. para. 21(4)](https://www.legislation.gov.uk/ukpga/2024/6/schedule/paragraph/21/4) (with [Sch. paras. 23-26](https://www.legislation.gov.uk/ukpga/2024/6/schedule/paragraph/23))
+
+[^key-9ff4ff9dbc5a0bbdf5c12494d90466d0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/65/regulation/11) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-b7c0276ea94ad584173e708cd5036f60]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(5)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/5/a)
+
+[^key-171b7ac54e35d7f44a3153d00f2b84cf]: Textual amendment: Words in [reg. 11(1)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/a) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(5)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/5/b)
+
+[^key-74d6c42f6bdc17a7b1e9264f3878b9e4]: Textual amendment: Words in [reg. 11(1)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(9)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/9/a/i/aa) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-cb000143b046c2c45c099ec10fd22463]: Textual amendment: Word in [reg. 11(1)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(9)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/9/a/i/bb) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-90bd3b455770bb40f987e6d603329d52]: Textual amendment: Words in [reg. 11(1)(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/b) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(5)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/5/b)
+
+[^key-6dcbffb4b03f9a23215a2988cada7cf9]: Textual amendment: Words in [reg. 11(1)(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/b) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(9)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/9/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-be21aee1ea0d9fb74047d2ed06925f9a]: Textual amendment: Words in [reg. 11(1)(c)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/c) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(5)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/5/b)
+
+[^key-86b37c369145edad20a27505b9470862]: Textual amendment: Words in [reg. 11(1)(c)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/c) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(9)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/9/a/iii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-55326d51ade29c782e0a674380ac8773]: Textual amendment: Words in [reg. 11(1)(e)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/e) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(5)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/5/c)
+
+[^key-60c2383ae46542f7499e9ae0b99e48a4]: Textual amendment: Words in [reg. 11(1)(f)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/f) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(9)(a)(iv)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/9/a/iv) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-f369ef0e404b0f9e34f669fb77bc5911]: Textual amendment: Words in [reg. 11(1)(g)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/g) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(9)(a)(v)(aa)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/9/a/v/aa) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-d12786c85a43bcfd317769415410aa0e]: Textual amendment: Words in [reg. 11(1)(g)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/1/g) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(9)(a)(v)(bb)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/9/a/v/bb) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-6b95096a218fe2b99973f2d8e9bd0810]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/11/2) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(9)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/9/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-eb9c63bbfb5b44a141ee3ce12a2e8352]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/65/regulation/12) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-ab396482286e26cd042bf4b573f34ed6]: Textual amendment: Words in [reg. 12(1)(e)(i)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/1/e/i) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(10)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/10/a/i/aa) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-da60ba62ff929182de009fb77871476b]: Textual amendment: Words in [reg. 12(1)(e)(i)(aa)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/1/e/i/aa) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(10)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/10/a/i/bb) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-c84004188d169670f24cb3c9b636b484]: Textual amendment: Words in [reg. 12(1)(e)(i)(bb)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/1/e/i/bb) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(10)(a)(i)(cc)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/10/a/i/cc) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-3ffc639d1fcd583d49c9a581c2ce7f01]: Textual amendment: Words in [reg. 12(1)(e)(ii)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/1/e/ii) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(10)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/10/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-16384f475572db40df255a969f4980f8]: Textual amendment: Words in [reg. 12(1)(e)(iv)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/1/e/iv) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(10)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/10/a/iii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-32e47f546a9b5323df937803b1102468]: Textual amendment: Words in [reg. 12(1)(e)(v)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/1/e/v) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(10)(a)(iv)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/10/a/iv) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^f00025]: Footnote: OJ L 145,30.4.2004, p.1.
+
+[^key-a056f008311925d4bd0a8257ec480008]: Textual amendment: Words in [reg. 12(1)(k)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/1/k) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(10)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/10/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^f00026]: Footnote: OJ L 293, 31.10.2008, p. 3.
+
+[^key-fd6240a3808e17acca7c372e24622258]: Textual amendment: Words in [reg. 12(1)(l)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/1/l) substituted (25.12.2023) by [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2023/1369/schedule/3/paragraph/6/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2023/1369/regulation/28))
+
+[^key-1134abb935d4b30917a96bbdf6ba9ad6]: Textual amendment: Words in [reg. 12(1)(o)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/1/o) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(10)(c)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/10/c/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-d806640c58db2d7be99d686c347d2d46]: Textual amendment: Words in [reg. 12(1)(o)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/1/o) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(10)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/10/c/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^f00028]: Footnote: OJ L 95, 15.4.2010, p.1.
+
+[^key-3b49d2f2223027cc96d267b01cd8c25d]: Textual amendment: [Reg. 12(2)(aa)](https://www.legislation.gov.uk/ssi/2016/65/regulation/12/2/aa) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(10)(d)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/10/d) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-d2df0eb028dba01544cc2af93aef057c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/65/regulation/13) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00029]: Footnote: OJ L 108, 24.4.2003, p33, last amended by [Directive 2009/140/EC](https://www.legislation.gov.uk/european/directive/2009/0140) of the European Parliament and of the Council (OJ L 337, 18.12.2009, p.37).
+
+[^key-d0e5893c31f87b7bbe6392a588e28e3c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/65/regulation/14) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-ecbb3a659c7f8ada18c7bc0f319478e9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/65/regulation/15) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-8aa6a72aaf43b4d0210fbc921c9a8fac]: Textual amendment: Words in [reg. 15(5)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/15/5/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(11)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/11/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^M_F_2167e716-970a-4cee-8de4-076c8c99d16e]: Textual amendment: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-e94b8640618eff73ad56b9d6b6924dd3]: Textual amendment: Word in [reg. 15(5)(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/15/5/b) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(11)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/11/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-0e8ffda2926b3eecbdc584e040a78794]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/65/regulation/16) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-e61b48c4fda809e1ab1c11d1e6f084c9]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/65/regulation/17) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(12)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/12) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-f0166d7ba04e54c59b6822d3249a8c11]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/65/regulation/18) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00031]: Footnote: [S.S.I. 2016/49](https://www.legislation.gov.uk/ssi/2016/49).
+
+[^key-2de58bed28c71e39a9f1ed08837a47e5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/65/regulation/19) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-2222c6b957b33501951d4b55be3a8f2f]: Textual amendment: Words in [reg. 19(2)(c)](https://www.legislation.gov.uk/ssi/2016/65/regulation/19/2/c) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [5(5)](https://www.legislation.gov.uk/ssi/2024/338/regulation/5/5) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-79618221ccc750b3999d9896d197f51c]: Textual amendment: Words in [reg. 19(5)(c)](https://www.legislation.gov.uk/ssi/2016/65/regulation/19/5/c) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [5(5)](https://www.legislation.gov.uk/ssi/2024/338/regulation/5/5) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-64548ec18a5d7997a204756039134cf0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2016/65/regulation/20) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-8c1a012d9735a02f6152c81f617a87ae]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/65/regulation/21) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-4f15e2174a436e452b2d7aa0016c5d2f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2016/65/regulation/22) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-9e6c2f242c2dc2e217b333b09ac0d781]: Textual amendment: Words in [reg. 22(5)](https://www.legislation.gov.uk/ssi/2016/65/regulation/22/5) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(14)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/14) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-48306fab2394c8c0eb4321a67ca7c811]: Textual amendment: Words in [reg. 22(5)](https://www.legislation.gov.uk/ssi/2016/65/regulation/22/5) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/6)
+
+[^key-698dbadc9d184c9c857687836da55a29]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2016/65/regulation/23) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-2f394304414dd99b4e5d79d8a11a744a]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/23/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(15)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/15/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-ded4f31526e080c1fbd6dc85cd1c5b72]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/23/1) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(7)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/7/a)
+
+[^key-b0b77c8746fc4b5ab78870720ca0bc63]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/23/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(15)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/15/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-014a204ddceac57b90c4841d868e81dc]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/23/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(7)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/7/b)
+
+[^key-2218b8f31a71530b85e18563cbc9c221]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/ssi/2016/65/regulation/23/4) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(7)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/7/c)
+
+[^key-92246a2da4bca684a12607439bf073a5]: Textual amendment: Words in [reg. 23(6)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/23/6/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(15)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/15/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-32cb5d1690c65d83248931f0eb0c4db6]: Textual amendment: Words in [reg. 23(6)(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/23/6/b) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(7)(d)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/7/d)
+
+[^key-ff7d5f26176a34e64d3e781f202b5917]: Textual amendment: Words in [reg. 23(8)](https://www.legislation.gov.uk/ssi/2016/65/regulation/23/8) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(7)(e)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/7/e)
+
+[^key-4e9a785a58090e09d7f52089fd10b7a3]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2016/65/regulation/24) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-f7d05763560fa4b7329b1124b571e882]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2016/65/regulation/25) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-79217857a602c7ca591e4a7f66a26186]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/25/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(16)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/16) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-82a48684cf55cbe4d790bc52c2b371b5]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/25/1) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(8)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/8/a)
+
+[^key-e958aec8f61f072b44ae8d8160cd3670]: Textual amendment: Words in [reg. 25(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/25/3) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(8)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/8/b)
+
+[^key-08d5430503dd4f3fbc2377ef2517228d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2016/65/regulation/26) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-176831b2fba0caf07b73746f5d8a15b7]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/26/3) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(17)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/17) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-4c2a48d11844c124322eeb76aa11fae6]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2016/65/regulation/27) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-ac97b4d24f4e619d0bb8b698f3901f6b]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2016/65/regulation/28) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-890ec4cfe685fcb0ead8acbccfdbaca9]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2016/65/regulation/29) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-47ddef5370e3ef9a5d6154c9513528b3]: Textual amendment: [Reg. 29(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/29/1) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(18)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/18) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-d1db0c1b7c4cb6fd6d1a580391bacacc]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2016/65/regulation/30) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-ea9cd02e9d4cde61af916020638a4ee5]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2016/65/regulation/31) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00032]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13), amended by the Freedom of Information (Amendment) (Scotland) Act 2013 ([2013 asp 2](https://www.legislation.gov.uk/asp/2013/2)).
+
+[^f00033]: Footnote: [S.S.I. 2004/520](https://www.legislation.gov.uk/ssi/2004/520), amended by the Environmental Information (Scotland) Amendment Regulations 2013, [S.S.I. 2013/127](https://www.legislation.gov.uk/ssi/2013/127).
+
+[^key-78d826c452d1ddb98fde3f12a3c9a52a]: Commencement: [Reg. 32(1)-(7)](https://www.legislation.gov.uk/ssi/2016/65/regulation/32/1) in force at 18.4.2017 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/3/a)
+
+[^key-9f6093a4c4ae9aaf37ddf1185303277d]: Commencement: [Reg. 32(1)-(7)](https://www.legislation.gov.uk/ssi/2016/65/regulation/32/1) in force at 18.10.2018 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/3/b)
+
+[^key-6631cc70aef2e76128933633c8525ec8]: Commencement: [Reg. 32(8)-(23)](https://www.legislation.gov.uk/ssi/2016/65/regulation/32/8) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00034]: Footnote: OJ L 53, 26.2.2011, p.66, amended by Commission Implementing [Decision 2014/148/EU](https://www.legislation.gov.uk/european/decision/2014/0148) (OJ L 80, 19.3.2014, p.7).
+
+[^f00035]: Footnote: OJ L 274, 20.10.2009, p.36, last amended by Commission [Decision 2013/662/EU](https://www.legislation.gov.uk/european/decision/2013/0662) (OJ L 306, 16.11.2013, p.21).
+
+[^key-7618c70af898cedcd00fca6045ba09a7]: Textual amendment: Words in [reg. 32(18)](https://www.legislation.gov.uk/ssi/2016/65/regulation/32/18) substituted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/19/1)
+
+[^f00036]: Footnote: OJ L 13, 19.1.2000, p.12, amended by Regulation [(EC) No 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) (OJ L 311, 21.11.2008, p.1).
+
+[^key-07900ec4291635cab5f8992a5d33cd9b]: Textual amendment: Words in [reg. 32(18)](https://www.legislation.gov.uk/ssi/2016/65/regulation/32/18) deleted (18.4.2016) by [The Concession Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/125)](https://www.legislation.gov.uk/ssi/2016/125), [regs. 1](https://www.legislation.gov.uk/ssi/2016/125/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/125/regulation/2/3)
+
+[^f00037]: Footnote: OJ L 53, 26.2.2011 p.66.
+
+[^key-9ad5052c7bb1d853f03aeb0d4d8f4bcd]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2016/65/regulation/33) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-bc72695071e86089d46f897d1c7fd5dc]: Textual amendment: [Reg. 33(2)(a)(i)-(iii)](https://www.legislation.gov.uk/ssi/2016/65/regulation/33/2/a/i) and words inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(19)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/19/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-beba102b131978a89d2e67ce28fdaf84]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/33/2) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(19)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/19/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-9e09742dc3b1e85feda7e901bd0f53c7]: Textual amendment: Words in [reg. 33(5)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/33/5/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(19)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/19/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-aa3e622757a2ed360736e73c449055fd]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2016/65/regulation/34) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-cc3b5e007f65a10ed61779707d24cdb1]: Textual amendment: Word in [reg. 34(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/34/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(20)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/20/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-cb77c20f6dcedc34175b19a5db326cd8]: Textual amendment: Word in [reg. 34(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/34/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(20)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/20/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-da159fd2de25a5aec8816db6f2aca7ce]: Textual amendment: Words in [reg. 34(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/34/3) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(20)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/20/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-362945a454825ddff613d44c705d3d7d]: Textual amendment: [Reg. 34(4)](https://www.legislation.gov.uk/ssi/2016/65/regulation/34/4) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(20)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/20/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-2b6b3844523c56998700bc7b8c4f0d84]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2016/65/regulation/35) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-bda86301f1a06de780fa091255a67e98]: Textual amendment: Word in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/a/i/aa) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-51729b928bf7e3bbced9a61afc4949e7]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/1) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/a/i/bb) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-2e2bf2808e7e44238deb0cf21c8e972b]: Textual amendment: [Reg. 35(1)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/1/a)[(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/1/b) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-75b58bf7b1fd4e5efa3df2d6faf8cf94]: Textual amendment: Words in [reg. 35(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(b)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/b/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-af9c5f0632357ff8bec549273bca566e]: Textual amendment: Words in [reg. 35(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/2) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/b/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-5fae1a93fd7d58d8be25aaa1275be3a2]: Textual amendment: Word in [reg. 35(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/2) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/b/iii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-31f70d8bc145d2c449becfe043394654]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/3) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(c)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/c/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-9a5c841245357e06501ce926dfd760ee]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/3) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/c/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-015be0941bacd8226d508c790899f808]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/3) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(c)(iii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/c/iii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-247cf3d0a18b17cb41bf7740e10c488d]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/3) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(c)(iv)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/c/iv) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-e9fd5ce61e81e2f4d4bc636bc8a63549]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/4) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(d)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/d/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-fad3e9bdc78dcb30ba747ae446d9f075]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/4) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(d)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/d/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-856f8e81a23efc7c4d60e7edb6d2cb31]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/4) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/d/iii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-e2f711c1d30bbd96002abff259bedc6f]: Textual amendment: [Reg. 35(5)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/5)[(6)](https://www.legislation.gov.uk/ssi/2016/65/regulation/35/6) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(21)(e)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/21/e) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-7539c556528d67ea7709c7af4054dec6]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2016/65/regulation/36) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-ee179a6a52710cf938706918b86d8af0]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/36/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(22)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/22) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-ca93b5f4647f04f1aaa164a7731ecec0]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2016/65/regulation/37) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-3d6d885ddf0bb3198d5cdaf281c97aa2]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2016/65/regulation/38) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-5d2b4d0747239ae455262c5721283936]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2016/65/regulation/39) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-7955a5fa2c837599b6f5173c30dfe53f]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2016/65/regulation/40) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00040]: Footnote: OJ L 300, 11.11.2008, p.42.
+
+[^f00041]: Footnote: [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13).
+
+[^f00042]: Footnote: [1889 c.69](https://www.legislation.gov.uk/ukpga/1889/69). This Act was repealed by Schedule 2 to the Bribery Act [2010 (c.23)](https://www.legislation.gov.uk/ukpga/2010/23).
+
+[^f00043]: Footnote: [1906 c.34](https://www.legislation.gov.uk/ukpga/1906/34). Section 1 was amended by section 47(2) and (3) of the Criminal Justice Act [1988 (c.33)](https://www.legislation.gov.uk/ukpga/1988/33), section 108(2) of the Anti‑Terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24) and section 68(2) of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) and repealed by Schedule 2 to the Bribery Act [2010 (c.23)](https://www.legislation.gov.uk/ukpga/2010/23).
+
+[^f00044]: Footnote: OJ C 195, 25.6.1997, p.2.
+
+[^f00045]: Footnote: OJ L 358, 31.12.1998, p.2; repealed by Council Framework Decision 2003/568/JHA (OJ L 192, 31.7.2003, p.54).
+
+[^f00046]: Footnote: [2003 asp 7](https://www.legislation.gov.uk/asp/2003/7). Sections 68 and 69 were repealed by Schedule 2 to the Bribery Act [2010 (c.23)](https://www.legislation.gov.uk/ukpga/2010/23).
+
+[^f00047]: Footnote: [2010 c.23](https://www.legislation.gov.uk/ukpga/2010/23).
+
+[^key-b3b33a9e721b426cd5e85d53149be397]: Textual amendment: [Reg. 40(1)(e)](https://www.legislation.gov.uk/ssi/2016/65/regulation/40/1/e) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(23)(a)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/23/a/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^f00054]: Footnote: [2008 c.28](https://www.legislation.gov.uk/ukpga/2008/28).
+
+[^f00055]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29).
+
+[^f00056]: Footnote: [1988 c.33](https://www.legislation.gov.uk/ukpga/1988/33); sections 93A, 93B and 93C were inserted by sections 29, 30 and 31 of the Criminal Justice Act [1993 (c.36)](https://www.legislation.gov.uk/ukpga/1993/36) and repealed by the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraph 17(2).
+
+[^f00057]: Footnote: [2015 asp 12](https://www.legislation.gov.uk/asp/2015/12).
+
+[^f00058]: Footnote: [1994 c.37](https://www.legislation.gov.uk/ukpga/1994/37); sections 49, 50 and 51 were repealed by the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraphs 1 and 25(1) and (2)(a), and by Schedule 12.
+
+[^key-f321d9b01c5562da1dfbe9d96cd97be2]: Textual amendment: Words in [reg. 40(1)(k)](https://www.legislation.gov.uk/ssi/2016/65/regulation/40/1/k) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(23)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/23/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^f00059]: Footnote: [S.I. 2010/493](https://www.legislation.gov.uk/uksi/2010/493).
+
+[^key-0be4102c653af689a9399f19a02396d1]: Textual amendment: Words in [reg. 40(9)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/40/9/a) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(23)(b)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/23/b/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-9be454b36331313326d81928da77cf17]: Textual amendment: Words in [reg. 40(9)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/40/9/a) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(23)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/23/b/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-3a469d57d4508bdc6244266ce840e33e]: Textual amendment: Words in [reg. 40(9)(i)](https://www.legislation.gov.uk/ssi/2016/65/regulation/40/9/i) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [20(9)](https://www.legislation.gov.uk/uksi/2025/163/regulation/20/9)
+
+[^key-f19ebee879666ac0f1f9b03567cb7bcd]: Textual amendment: [Reg. 40(19)-(21)](https://www.legislation.gov.uk/ssi/2016/65/regulation/40/19) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(23)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/23/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-4a808f24b98ba4e5331e75c00931d1e0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2016/65/regulation/41) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-7d69cfbb6a85e9029216fb136a625652]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2016/65/regulation/42) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-e1fe373a737070d16524ed5fe7783021]: Textual amendment: Word in [reg. 42(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/42/3) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(24)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/24) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-373d6ab48ff88ce4600be7b3abbf4c93]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2016/65/regulation/43) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-864772dbfa47f68cf96515350ecf6851]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2016/65/regulation/44) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-1f75e347c0b5034f26cab8bb56f69102]: Textual amendment: Words in [reg. 44(9)](https://www.legislation.gov.uk/ssi/2016/65/regulation/44/9) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(25)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/25) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-ce5d4dac64de82c23ba067e1b044a20e]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/ssi/2016/65/regulation/44A) inserted (18.4.2019 for specified purposes, 18.4.2020 in so far as not already in force) by [The Electronic Invoicing (Public Contracts etc.) Amendment (Scotland) Regulations 2019 (S.S.I. 2019/7)](https://www.legislation.gov.uk/ssi/2019/7), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/7/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2019/7/regulation/3/2)
+
+[^key-a4f396d1462b9e843407c0d0b93aac41]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2016/65/regulation/45) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-cdd009ef2a2215036e97db80afa479cb]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2016/65/regulation/46) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-62b63906701fbb2ef3b6731260d72a82]: Textual amendment: Word in [reg. 46(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/46/3) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(26)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/26/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-fd8f349460a699d0e4bfa3faadcfcd8e]: Textual amendment: [Reg. 46(4)(a)-(c)](https://www.legislation.gov.uk/ssi/2016/65/regulation/46/4/a) and words inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(26)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/26/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-2fc0939acb8babc5fb41cf6502d284d4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2016/65/regulation/47) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-8638a4c77351a78cd36b28e6cc79ed1d]: Textual amendment: Word in [reg. 47(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/47/1) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(27)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/27/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-ef8453e04023dcaa926a5627c65e8feb]: Textual amendment: Word in [reg. 47(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/47/1) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(27)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/27/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-e2556691fde76f7008310d2b762fcbcd]: Textual amendment: [Reg. 47(1)(c)](https://www.legislation.gov.uk/ssi/2016/65/regulation/47/1/c) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(27)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/27/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [7](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/7))
+
+[^key-21c95af590a1d31f47d2d8b2f9f552c2]: Textual amendment: [Reg. 47(4)](https://www.legislation.gov.uk/ssi/2016/65/regulation/47/4) inserted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [6(3)](https://www.legislation.gov.uk/ssi/2023/124/regulation/6/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+
+[^key-8ab784327b2db6fd160e64f69e6c119a]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2016/65/regulation/48) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-9d8fa05a249fef5ce88aaec5ce8b106c]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2016/65/regulation/49) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-976b10ed569cd675435517ad65d5dc47]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2016/65/regulation/50) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-f82f205b1cfd4e6d5c8daab1adb1da96]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2016/65/regulation/51) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-73a83c8f678fb06f74c46aadf1be88d3]: Textual amendment: Words in [reg. 51](https://www.legislation.gov.uk/ssi/2016/65/regulation/51) heading inserted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2021/573/regulation/7/3/a)
+
+[^key-0c9894521eaa3b73c67c5ac9b50f38cd]: Textual amendment: Words in [reg. 51(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/51/1) omitted (10.1.2025) by virtue of [The Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/338)](https://www.legislation.gov.uk/ssi/2024/338), [regs. 1](https://www.legislation.gov.uk/ssi/2024/338/regulation/1), [5(6)](https://www.legislation.gov.uk/ssi/2024/338/regulation/5/6) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/338/regulation/2))
+
+[^key-cd4c994be1273789c9ad8c2765e77877]: Textual amendment: Words in [reg. 51(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/51/1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(28)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/28/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-88393028f727293f90a0983ed68e365c]: Textual amendment: [Reg. 51(2)-(5)](https://www.legislation.gov.uk/ssi/2016/65/regulation/51/2) omitted (31.12.2021) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/4), [9(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/9/2) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [10-15](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/10))
+
+[^key-b842298ad354fe76511b4fadb766f7aa]: Textual amendment: [Reg. 51A](https://www.legislation.gov.uk/ssi/2016/65/regulation/51A) inserted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2021/573/regulation/7/4)
+
+[^key-efd98c646dfc1a508a66e1590f11ad0b]: Textual amendment: [Reg. 51A(3)](https://www.legislation.gov.uk/ssi/2016/65/regulation/51A/3) substituted (16.8.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/872)](https://www.legislation.gov.uk/uksi/2021/872), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/872/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2021/872/regulation/7/3)
+
+[^key-9191a5d37133d116879bc40c8c403d9d]: Textual amendment: [Reg. 51B](https://www.legislation.gov.uk/ssi/2016/65/regulation/51B) inserted (2.7.2021) by [The Public Procurement (International Trade Agreements) (Amendment) Regulations 2021 (S.I. 2021/787)](https://www.legislation.gov.uk/uksi/2021/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/787/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2021/787/regulation/7/2)
+
+[^key-4ecb900ee7b3868adada49b4d4c88a5a]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2016/65/regulation/52) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-852c64cdc55f75093dadfddff8898fc9]: Textual amendment: Word in [reg. 52(5)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/52/5/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(29)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/29/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-9e15e6af7e44647dc28ac90039787dc4]: Textual amendment: Words in [reg. 52(5)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/52/5/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(29)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/29/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-92175ef77e2397085fbc5265f8059009]: Textual amendment: Words in [reg. 52(5)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/52/5/a) substituted (1.7.2019) by [The Public Procurement etc. (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/173)](https://www.legislation.gov.uk/ssi/2019/173), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/173/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2019/173/regulation/3/3)
+
+[^key-ef8e17edb54558f5f5b36a73cb8720a6]: Textual amendment: Words in [reg. 52(5)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/52/5/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(29)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/29/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-cfa79b6574911087342f33cebfbb139c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/ssi/2016/65/regulation/53) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-45bc5bb9d5ece59c286e1f2fccbc3992]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2016/65/regulation/54) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00062]: Footnote: [1947 c.44](https://www.legislation.gov.uk/ukpga/1947/44).
+
+[^key-4d0021d53d0ec1cd0054eb02247354b4]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2016/65/regulation/55) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-64e87a22f99f7178c100e90b364cceda]: Textual amendment: Words in [reg. 55(5)](https://www.legislation.gov.uk/ssi/2016/65/regulation/55/5) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(30)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/30/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [8](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/8))
+
+[^key-c3970ae8558d4b5a660b95c76af633f5]: Textual amendment: [Reg. 55(6)(a)](https://www.legislation.gov.uk/ssi/2016/65/regulation/55/6/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(30)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/30/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [9](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/9))
+
+[^key-04375c04ce769df40c15291bfb321015]: Textual amendment: Words in [reg. 55(6)(b)](https://www.legislation.gov.uk/ssi/2016/65/regulation/55/6/b) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(30)(c)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/30/c) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [9](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/9))
+
+[^key-61159218de5b04aa6a561f44f3884cde]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2016/65/regulation/56) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-8084c997a0744ed2dbeb407c532555a9]: Commencement: [Reg. 57](https://www.legislation.gov.uk/ssi/2016/65/regulation/57) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-6c490acddb86a612744367029309d238]: Commencement: [Reg. 58](https://www.legislation.gov.uk/ssi/2016/65/regulation/58) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-a504dea50a4480a61ad55223668c16fb]: Commencement: [Reg. 59](https://www.legislation.gov.uk/ssi/2016/65/regulation/59) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00064]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-d13e8e9bd7933cbc42271b0ed40f2f4b]: Textual amendment: [Reg. 60ZA](https://www.legislation.gov.uk/ssi/2016/65/regulation/60ZA) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(31)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/31) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-370bcf839bbda804b591f3b46ebe894e]: Commencement: [Reg. 60](https://www.legislation.gov.uk/ssi/2016/65/regulation/60) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-1658c8c964de3e2af7ab50636115382f]: Commencement: [Reg. 61](https://www.legislation.gov.uk/ssi/2016/65/regulation/61) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-f7c0f0e70a9906f894886aa20fb65f88]: Commencement: [Reg. 62](https://www.legislation.gov.uk/ssi/2016/65/regulation/62) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00065]: Footnote: [S.S.I. 2012/88](https://www.legislation.gov.uk/ssi/2012/88), revoked by the Public Contracts (Scotland) Regulations 2015.
+
+[^key-c96e3a2d4935472cc6d980629a9a4beb]: Commencement: [Reg. 63](https://www.legislation.gov.uk/ssi/2016/65/regulation/63) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-5cf2602b9f6e608525a589b18096d45e]: Textual amendment: Words in [reg. 63(1)](https://www.legislation.gov.uk/ssi/2016/65/regulation/63/1) substituted (18.4.2016) by [The Concession Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/125)](https://www.legislation.gov.uk/ssi/2016/125), [regs. 1](https://www.legislation.gov.uk/ssi/2016/125/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2016/125/regulation/2/5/a)
+
+[^key-e3e59b451cac435957c20af3b40518a3]: Textual amendment: Word in [reg. 63(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/63/2) substituted (18.4.2016) by [The Concession Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/125)](https://www.legislation.gov.uk/ssi/2016/125), [regs. 1](https://www.legislation.gov.uk/ssi/2016/125/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2016/125/regulation/2/5/b)
+
+[^key-18cd871ac689f35f1a244c54a75a24b0]: Commencement: [Reg. 64](https://www.legislation.gov.uk/ssi/2016/65/regulation/64) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-da518ebe81796262a9cc6267c4a3ea2a]: Textual amendment: Word in [reg. 64(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/64/2) substituted (18.4.2016) by [The Concession Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/125)](https://www.legislation.gov.uk/ssi/2016/125), [regs. 1](https://www.legislation.gov.uk/ssi/2016/125/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2016/125/regulation/2/6)
+
+[^key-39f888fe22d41461943867dafc45b811]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/65/schedule/1) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00066]: Footnote: OJ L 293, 24.10.1990, p.1; last amended by Regulation [(EC) No 1893/2006](https://www.legislation.gov.uk/european/regulation/2006/1893) of the European Parliament and of the Council (OJ L 393, 30.12.2006, p.1).
+
+[^key-052df0f15b59cb1fc55ae405f7da6409]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/65/schedule/1) inserted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [8(32)](https://www.legislation.gov.uk/ssi/2020/468/regulation/8/32) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+
+[^key-861d3bc44ac1dc4c525fb26dc890b9ab]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ssi/2016/65/schedule/1A) inserted (11.6.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 (S.I. 2021/573)](https://www.legislation.gov.uk/uksi/2021/573), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2021/573/regulation/7/5)
+
+[^key-9e339742bd3d524f73d5ee4b6c664468]: Textual amendment: Words in [sch. 1A](https://www.legislation.gov.uk/ssi/2016/65/schedule/1A) inserted (30.10.2023) by [The Public Procurement (Agreement on Government Procurement) (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/287)](https://www.legislation.gov.uk/ssi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/287/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2023/287/regulation/4/3)
+
+[^key-6dbd8bc155f1c3a210e42ba07c8f3977]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2016/65/schedule/2/paragraph/1) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-78bc17734ab219825bae06b2cf7e784e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2016/65/schedule/2/paragraph/2) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-df8b1bfd2d64e7fe17c2cbd4d0cab26b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2016/65/schedule/2/paragraph/3) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-6d1a0a4c94ee05be3862446f745acb10]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2016/65/schedule/2/paragraph/4) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-ae33e68af1e08b91efffed435709d618]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2016/65/schedule/2/paragraph/5) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^f00067]: Footnote: [2011 c. 5](https://www.legislation.gov.uk/ukpga/2011/5).
+
+[^key-9de8acbab9f38b2d1adb07d48687c26f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2016/65/schedule/2/paragraph/6) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-31c13ce408c7e5d21b66de2b8814243e]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2016/65/schedule/3) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-f0eaed5822245987328290f47e227b13]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2016/65/schedule/4) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/65/regulation/1/2)
+
+[^key-de4e55dc22d07d1f372ef49753811048]: Textual amendment: Sch. 5 inserted (2.7.2021) by [The Public Procurement (International Trade Agreements) (Amendment) Regulations 2021 (S.I. 2021/787)](https://www.legislation.gov.uk/uksi/2021/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/787/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2021/787/regulation/7/3)
+
+[^key-eaf2aa840aa2d0594c854b3da7ddb8ab]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/ssi/2016/65/schedule/5) substituted (21.11.2024) by [The Public Procurement (International Trade Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/332)](https://www.legislation.gov.uk/ssi/2024/332), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/332/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2024/332/regulation/5/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/332/regulation/2))
+
+[^key-f06ba24b3282dfdba4494030c38cc2db]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/ssi/2016/65/schedule/5) substituted (21.11.2024) by [The Public Procurement (International Trade Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/332)](https://www.legislation.gov.uk/ssi/2024/332), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/332/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2024/332/regulation/5/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/332/regulation/2))
+
+[^key-241e1fbc0e4bc5e20c4a407a531ae947]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/ssi/2016/65/schedule/5) substituted (21.11.2024) by [The Public Procurement (International Trade Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/332)](https://www.legislation.gov.uk/ssi/2024/332), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/332/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2024/332/regulation/5/4) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/332/regulation/2))
+
+[^key-34850f1f6cbea51e1218c3145a09da9a]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/ssi/2016/65/schedule/5) substituted (21.11.2024) by [The Public Procurement (International Trade Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/332)](https://www.legislation.gov.uk/ssi/2024/332), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/332/regulation/1/2), [5(5)](https://www.legislation.gov.uk/ssi/2024/332/regulation/5/5) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/332/regulation/2))
+
+[^key-0be2efbba9c4a2b0a9cd624b0ea44261]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/ssi/2016/65/schedule/5) substituted (21.11.2024) by [The Public Procurement (International Trade Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/332)](https://www.legislation.gov.uk/ssi/2024/332), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/332/regulation/1/2), [5(6)](https://www.legislation.gov.uk/ssi/2024/332/regulation/5/6) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/332/regulation/2))
+
+[^key-fda2a12a4ef362ef946d3d5cb094419f]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/ssi/2016/65/schedule/5) substituted (21.11.2024) by [The Public Procurement (International Trade Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/332)](https://www.legislation.gov.uk/ssi/2024/332), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/332/regulation/1/2), [5(7)](https://www.legislation.gov.uk/ssi/2024/332/regulation/5/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/332/regulation/2))
+
+[^key-8de8945041117623818fbbfb6da21d40]: Textual amendment: Words in sch. 5 inserted (27.6.2022) by [The Public Procurement (International Trade Agreements) (Amendment) Regulations 2022 (S.I. 2022/766)](https://www.legislation.gov.uk/uksi/2022/766), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/766/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2022/766/regulation/7/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2022/766/regulation/9))
+
+[^key-a45a509446204bbbe416d0e0622655cf]: Textual amendment: Words in sch. 5 inserted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [6(4)](https://www.legislation.gov.uk/ssi/2023/124/regulation/6/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+
+[^key-0bc18a1019bd0dcb7398881cb66a5f8c]: Textual amendment: Words in sch. 5 inserted (coming into force in accordance with s. 7(1) of the amending Act) by [Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024 (c. 6)](https://www.legislation.gov.uk/ukpga/2024/6), [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2024/6/schedule/paragraph/22) (with [Sch. paras. 23-26](https://www.legislation.gov.uk/ukpga/2024/6/schedule/paragraph/23))
+
+[^key-c45a2be46920e46d5f2eb68b2d0cda5d]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/ssi/2016/65/schedule/5) inserted (21.11.2024) by [The Public Procurement (International Trade Agreements) (Miscellaneous Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/332)](https://www.legislation.gov.uk/ssi/2024/332), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/332/regulation/1/2), [5(8)](https://www.legislation.gov.uk/ssi/2024/332/regulation/5/8) (with [reg. 2](https://www.legislation.gov.uk/ssi/2024/332/regulation/2))
+
+[^key-31be0c773801fb5527eff44092d9a3ec]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/ssi/2016/65/schedule/5) inserted (31.12.2025) by [The Public Procurement (Iraq Free Trade Agreement) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/391)](https://www.legislation.gov.uk/ssi/2025/391), [regs. 1](https://www.legislation.gov.uk/ssi/2025/391/regulation/1), [5](https://www.legislation.gov.uk/ssi/2025/391/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/ssi/2025/391/regulation/2))
+
+[^key-7c34a16ad0b1b46494951941ef6d573b]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/ssi/2016/65/schedule/5) inserted (24.3.2026) by [The Public Procurement (India Trade Agreement) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/104)](https://www.legislation.gov.uk/ssi/2026/104), [regs. 1](https://www.legislation.gov.uk/ssi/2026/104/regulation/1), [5](https://www.legislation.gov.uk/ssi/2026/104/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/ssi/2026/104/regulation/2))
+
+[^f00068]: Footnote: By Council [Directive 92/50/EEC](https://www.legislation.gov.uk/european/directive/1992/0050) relating to the coordination of procedures for the award of public services contracts (OJ L 209,24.7.1992, p.1); by Directive [2007/66/EEC](https://www.legislation.gov.uk/european/directive/2007/0066) of the European Parliament and Council amending Council Directives 89/EEC and [92/13/EEC](https://www.legislation.gov.uk/european/directive/1992/0013) with regard to improving the effectiveness of review procedures concerning the award of public contracts (OJ L 335, 20.12.2007, p.31) and by [Directive 2014/23/EU](https://www.legislation.gov.uk/european/directive/2014/0023) of the European Parliament and of the Council on the award of concession contracts (OJ 94, 28.3.2014, p.1) .
+
+[^f00069]: Footnote: By Council Directive by Directive [2007/66/EEC](https://www.legislation.gov.uk/european/directive/2007/0066) of the European Parliament and Council amending Council [Directive 92/13/EEC](https://www.legislation.gov.uk/european/directive/1992/0013) with regard to improving the effectiveness of review procedures concerning the award of public contracts (OJ L 335, 20.12.2007, p.31) and by [Directive 2014/23/EU](https://www.legislation.gov.uk/european/directive/2014/0023) of the European Parliament and of the Council on the award of concession contracts (OJ 94, 28.3.2014, p.1)

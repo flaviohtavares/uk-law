@@ -1,0 +1,213 @@
+---
+title: The Control of Salmonella in Turkey Flocks (Scotland) Order 2009
+id: ssi/2009/417
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-11-24'
+text_date: '2019-02-28'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2009/417
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2009/417/pdfs/ssien_20090417_en.pdf
+- http://www.legislation.gov.uk/ssi/2009/417/pdfs/ssi_20090417_en.pdf
+- http://www.legislation.gov.uk/ssi/2009/417/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Control of Salmonella in Turkey Flocks (Scotland) Order 2009
+
+> Text as at 2019-02-28.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2009 No. 417
+
+Animals
+
+Animal Health
+
+The Control of Salmonella in Turkey Flocks (Scotland) Order 2009
+
+Made
+
+24th November 2009
+
+Coming into force
+
+1st January 2010
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1 and 8(1) of the Animal Health Act 1981 [^c19970061] and paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c19970071] and all other powers enabling them to do so.
+
+This Order makes provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 [^c19970081] and it appears to the Scottish Ministers that it is expedient for the references in this Order to Community instruments to be references to those instruments as amended from time to time.
+
+## 1. Citation, commencement and extent
+
+(1) This Order may be cited as the Control of Salmonella in Turkey Flocks (Scotland) Order 2009 and comes into force on 1st January 2010.
+
+(2) This Order extends to Scotland only.
+
+## 2. Interpretation
+
+In this Order—
+
+- “**flock**” means all turkeys of the same health status kept on the same premises or in the same enclosure and constituting a single epidemiological unit and, in the case of housed turkeys, includes all turkeys sharing the same airspace;
+- “**holding**” means any holding on which one or more turkey flocks are kept or are intended to be kept;
+- “**occupier**” means, in relation to any holding, the person in charge of the holding;
+- “Regulation ([^key-000e706c030ff980caf259b1978dfe03]EU) No 1190/2012” means [Commission Regulation (EU) No 1190/2012](https://www.legislation.gov.uk/european/regulation/2012/1190) concerning a Union target for the reduction of *Salmonella* Enteritidis and *Salmonella* Typhimurium in flocks of turkeys, as provided for in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council,
+- “**Regulation 2160/2003**” means Regulation (EC) No. 2160/2003 of the European Parliament and of the Council on the Control of Salmonella and other specified food-borne zoonotic agents [^c19970101], as amended from time to time;
+- “**turkey**” means domestic fowl of the species *meleagris gallopavo* or *meleagris ocellata*; and
+- “**turkey flock**” means a flock of turkeys kept for breeding or fattening purpose.
+
+## 3. Competent authority
+
+The Scottish Ministers are the competent authority for the purposes of—
+
+- (a) Regulation ([^key-309a24ae1b0f623b782413be09d17d6e]EU) No 1190/2012;
+- (b) Commission Regulation [(EC) No. 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) implementing Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards requirements for the use of specific control methods in the framework of the national programmes for the control of salmonella in poultry [^c19970111], as amended from time to time (“Commission Regulation (EC) No. 1177/2006”); and
+- (c) Regulation 2160/2003.
+
+## 4. Notification of turkey flocks
+
+The occupier of a holding on which one or more turkey flocks are kept must notify the Scottish Ministers of the information in paragraph (4)—
+
+- (a) within 3 months of the coming into force of this Order; or
+- (b) in the case of such a holding established after the date this Order comes into force, within 3 months of the establishment of the holding.
+
+(2) Subject to paragraph (5), the occupier must notify the Scottish Ministers of any change or addition to that information within 3 months of the change or addition.
+
+(3) This article does not apply to any occupier who has notified the Scottish Ministers of that information under any other enactment.
+
+(4) The information to be notified is—
+
+- (a) the name, address and telephone number of the holding;
+- (b) the name, address and telephone number of the occupier and of the person who owns each turkey flock on the holding;
+- (c) the number of turkey flocks on the holding; and
+- (d) for each turkey flock—
+  - (i) the identification of the turkey flock, where there is more than one turkey flock on the holding; and
+  - (ii) the number of turkeys.
+
+(5) The occupier must notify the Scottish Ministers of the expected date of arrival at the holding of every turkey flock at least 2 weeks before that date.
+
+## 5. Sampling
+
+The occupier must carry out the sampling obligations of the operator for turkey flocks in accordance with—
+
+- (a) the Annex to Regulation ([^key-a45b64d447c4148accf32b20f3a12417]EU) No 1190/2012; or
+- (b) Part C of Annex II to Regulation 2160/2003.
+
+## 6. Records of samples
+
+(1) The occupier must, as soon as is reasonably practicable after taking a sample, record—
+
+- (a) the type of sample taken;
+- (b) the date on which the sample was taken;
+- (c) where there is more than one turkey flock on the holding, the identification of the turkey flock from which the sample was taken;
+- (d) the age of the turkey flock sampled;
+- (e) the laboratory to which the sample was sent; and
+- (f) the intended date of slaughter of the turkey flock sampled.
+
+(2) The occupier must record the result of each test when it is received from the laboratory.
+
+## 7. Submission of samples to an approved laboratory
+
+(1) The occupier must, on the day a sample is taken in accordance with Regulation ([^key-469777381a151ac46e16a65ac8c156fd]EU) No 1190/2012 or Regulation 2160/2003, dispatch it by first class post or courier to a laboratory approved by the Scottish Ministers for the purpose of testing for the presence of salmonella.
+
+(2) In relation to each sample the occupier must provide the following information–
+
+- (a) the name of the occupier;
+- (b) the address of the holding;
+- (c) the type of samples;
+- (d) the date on which the samples were taken;
+- (e) the identification of the turkey flock, where there is more than one turkey flock on the holding;
+- (f) the date on which the turkey flock moved onto the holding; and
+- (g) the age of the turkey flock.
+
+## 8. Records of movements
+
+When turkeys are moved onto or off a holding the occupier must record for each turkey flock—
+
+- (a) the date of the movement;
+- (b) whether the movement was onto or off the holding;
+- (c) the number of turkeys moved;
+- (d) the age of the turkeys moved;
+- (e) in the case of the movement of an entire turkey flock, the identification of that turkey flock, where there is more than one turkey flock on the holding;
+- (f) the identity of the building or group of buildings into or from which the turkeys were moved; and
+- (g) the address of the holding that they came from or the slaughterhouse or holding they were sent to.
+
+## 9. Duties of the person in charge of a laboratory
+
+Where a laboratory tests samples, the person in charge of the laboratory must ensure that they are tested in accordance with point 3 of the Annex to Regulation ([^key-af6f6f7edb0dec0605dc79b6fd3d3bb7]EU) No 1190/2012.
+
+## 10. Prohibition on the use of antimicrobials
+
+No person may administer any antimicrobial to any turkey as a specific method to control salmonella in breach of Article 2(1) of Commission Regulation [(EC) No. 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) (use of antimicrobials).
+
+## 11. Prohibition on the use of vaccines
+
+No person may administer any live salmonella vaccine to any turkeys in breach of Article 3(1) of Commission Regulation [(EC) No. 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) (use of vaccines).
+
+## 12. Records
+
+Any person required to keep a record under this Order must keep it for 2 years from the date it is made and must produce it on demand to an inspector or officer of the Scottish Minsters and allow a copy of it to be made or an extract from it to be taken.
+
+## 13. Tampering with samples
+
+A person must not tamper with a sample or do anything to it that is likely to affect the result of any test required to be carried out under this Order.
+
+## 14. Powers of Scottish Ministers in cases of default
+
+If any person fails to take any action required by this Order, an inspector may arrange for such action to be taken at the expense of the person in default.
+
+## 15. Enforcement
+
+(1) This Order is enforced by the local authority.
+
+(2) The Scottish Ministers may direct, in relation to cases of a particular description or any particular case, that the Scottish Ministers will enforce this Order instead of the local authority.
+
+R CUNNINGHAM
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Order)*
+
+This Order enforces Commission Regulation [(EC) No. 584/2008](https://www.legislation.gov.uk/european/regulation/2008/0584) and Commission Regulation [(EC) No. 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177). References to the Commission Regulations are to them as they are amended from time to time. Amendments and the exercise of derogations will be notified to interested parties by post or email and by publishing appropriate information on the Scottish Government website.
+
+This Order makes provision for the testing of turkey flocks for *Salmonella*. It also prohibits the use of antimicrobials and live salmonella vaccine.
+
+The Order is enforced by the local authority.
+
+Breach of the Order is an offence under section 73 of the Animal Health Act 1981, punishable in accordance with section 75 of that Act.
+
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business has been prepared. A copy has been placed in the Scottish Parliament Reference Centre. Copies can be obtained from the offices of the Scottish Government Rural Directorate at Pentland House, 47 Robb's Loan, Edinburgh EH14 1TY.
+
+## Annotations
+
+[^c19970061]: Marginal citation: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22) (“**1981 Act**”). Section 8 was amended by paragraph 1 of schedule 2 to the [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11). The functions conferred under the 1981 Act on “the Ministers” (as defined in section 86 of that Act) are now exercisable by the Scottish Ministers; they were transferred, so far as within devolved competence, by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**1998 Act**”).
+
+[^c19970071]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) (“**1972 Act**”). Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**2006 Act**”).
+
+[^c19970081]: Marginal citation: Section 2(2) was amended by paragraph 15(3) of Schedule 8 to the 1998 Act and section 27(1) of the 2006 Act. The function conferred upon the Minister of the Crown under this section, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^key-000e706c030ff980caf259b1978dfe03]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2009/417/article/2) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/2)
+
+[^c19970101]: Marginal citation: O.J. No. L 325, 12.12.2003, p.1.
+
+[^key-309a24ae1b0f623b782413be09d17d6e]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/ssi/2009/417/article/3/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/3)
+
+[^c19970111]: Marginal citation: O.J. No. L 212, 2.8.2006, p.3.
+
+[^key-a45b64d447c4148accf32b20f3a12417]: Textual amendment: Words in [art. 5(a)](https://www.legislation.gov.uk/ssi/2009/417/article/5/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/4)
+
+[^key-469777381a151ac46e16a65ac8c156fd]: Textual amendment: Words in art. 7(1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(5)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/5)
+
+[^key-af6f6f7edb0dec0605dc79b6fd3d3bb7]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/ssi/2009/417/article/9) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [34(6)](https://www.legislation.gov.uk/ssi/2018/391/regulation/34/6)

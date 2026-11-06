@@ -1,0 +1,146 @@
+---
+title: The Official Controls (Transitional Staging Period) (Miscellaneous Amendments) (Scotland) (No. 3) Regulations 2021
+id: ssi/2021/493
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-12-21'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2021/493
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/493/pdfs/ssipn_20210493_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/493/pdfs/ssi_20210493_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/493/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Official Controls (Transitional Staging Period) (Miscellaneous Amendments) (Scotland) (No. 3) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 493
+
+Agriculture
+
+Animals
+
+Exiting The European Union
+
+Food
+
+Plant Health
+
+The Official Controls (Transitional Staging Period) (Miscellaneous Amendments) (Scotland) (No. 3) Regulations 2021
+
+Made
+
+21st December 2021
+
+Laid before the Scottish Parliament
+
+22nd December 2021
+
+Coming into force
+
+1st January 2022
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by Article 144(6) of, and paragraph 2 of Annex 6 to, Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^f00001], paragraph 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act 2018[^f00002] and of all other powers enabling them to do so.
+
+In accordance with Article 144(7) of Regulation (EU) 2017/625, before making these Regulations, the Scottish Ministers consulted such bodies or persons as appeared to them to be representative of the interests likely to be substantially affected by the Regulations and such other bodies or persons as they considered appropriate.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Official Controls (Transitional Staging Period) (Miscellaneous Amendments) (Scotland) (No. 3) Regulations 2021 and come into force on 1 January 2022.
+
+## 2. Amendment of the Official Controls (Extension of Transitional Periods) Regulations 2021
+
+(1) The Official Controls (Extension of Transitional Periods) Regulations 2021[^f00003] are amended as follows.
+
+(2) For regulation 2 (end of the transitional staging period) substitute—
+
+> **2. End of the transitional staging period**
+>
+> The appointed date for the purposes of sub-paragraph (b) of the definition of “the transitional staging period” in paragraph 2 (interpretation) of Annex 6 to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products is 30 June 2022.
+
+.
+
+## 3. Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012
+
+(1) The Trade in Animals and Related Products (Scotland) Regulations 2012[^f00004] are amended as follows.
+
+(2) In schedule 5 (derogations from, and modifications to, Part 3 of these Regulations), in paragraph 4(3) (derogation from regulation 12: notification of importation) after “origin” insert “or animal by-products not covered by sub-paragraph (2)(b)”.
+
+## 4. Amendment of Regulation (EU) 2017/625
+
+(1) Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^f00005] is amended as follows.
+
+(2) In Annex 6 (application of and derogations from the Regulation, and modifications to its application, in relation to territories subject to special transitional import arrangements), in paragraph 13, in the text of Article 56A (prior notification of entry to Great Britain: transitional arrangements) as inserted for the purposes mentioned in paragraph 3 of Annex 6, after paragraph 4 insert—
+
+> **5.** Paragraph 4 does not apply to relevant goods to which Article 7 or Article 10 of Commission Delegated Regulation (EU) 2019/2122 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers’ personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market[^f00006] apply (as modified by Article 12A of that Regulation).
+
+.
+
+## 5. Amendment of the Plant Health (Amendment etc.) (EU Exit) Regulations 2020
+
+(1) The Plant Health (Amendment etc.) (EU Exit) Regulations 2020[^f00007] are amended as follows.
+
+(2) In regulation 52 (transitional provision: plants, plant products and other objects from EU Member States)—
+
+- (a) in paragraph (1)—
+  - (i) in sub-paragraph (a) for “period commencing on IP completion day and ending on 31st December 2021” substitute “transitional staging period”,
+  - (ii) in sub-paragraph (b) for “during the period commencing on 26th November 2021 and ending on 31st December 2021” substitute “after 25 November 2021 and before the end of the transitional staging period”,
+- (b) after paragraph (3) insert—
+
+  > (4) In paragraph (1), “**the transitional staging period**” has the meaning given in paragraph 2 (interpretation) of Annex 6 to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^f00008].
+
+  .
+
+GEORGE ADAM
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+21st December 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Official Controls (Extension of Transitional Periods) Regulations 2021 (“**the 2021 Regulations**”), the Trade in Animals and Related Products (Scotland) Regulations 2012 (“**the 2012 Regulations**”), Regulation (EU) 2017/625, and the Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (“**the 2020 Regulations**”). The amendments relate to the transitional staging period provided for by Annex 6 to Regulation (EU) 2017/625 for official controls on imports of animals, animal products, plants, plant products and other objects which originate from certain third countries.
+
+Regulation 2 amends regulation 2 of the 2021 Regulations, which appointed the end date for the transitional staging period as 31 December 2021 in respect of certain checks for plants, plant products and other objects and 28 February 2022 in all other cases. Regulation 2 of the 2021 Regulations is substituted to appoint 30 June 2022 as the end date for the transitional staging period in all cases.
+
+Regulations 3 to 5 amend provisions in the 2012 Regulations, Regulation (EU) 2017/625 and the 2020 Regulations which were made in exercise of powers conferred by the European Union (Withdrawal) Act 2018 in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the UK from the European Union, and which make provision regarding the importation of animals, animal products, plants, plant products and other objects during the transitional staging period.
+
+Regulation 3 amends paragraph 4 of schedule 5 of the 2012 Regulations to require, from 1 January 2022, pre-notification of the import of animal by-products which are not already subject to pre-notification requirements.
+
+Regulation 4 amends paragraph 13 of Annex 6 to Regulation (EU) 2017/625 to provide that the requirement, from 1 January 2022, for operators to give prior notification of the arrival of products of animal origin intended for human consumption, plants, plant products and other objects does not apply to goods which form part of passengers’ personal luggage and are intended for personal consumption or use, and which are exempt, during the transitional staging period, from official controls at border control posts, or to small consignments of such goods sent to natural persons and which are not intended to be placed on the market.
+
+Regulation 5 amends regulation 52 of the 2020 Regulations to extend, from 31 December 2021 to the end of the transitional staging period, transitional provision which dis-applies requirements for phytosanitary certificates for the introduction into Great Britain of certain plants, plant products and other objects.
+
+A Business and Regulatory Impact Assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: EUR 2017/625. Article 144 was substituted, and Annex 6 inserted, by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481). The Scottish Ministers are the appropriate authority in relation to Scotland by virtue of Article 3(2A)(c).
+
+[^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); paragraph 21 of schedule 7 was amended by paragraph 53 of schedule 5 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
+
+[^f00003]: Footnote: [S.I. 2021/809](https://www.legislation.gov.uk/uksi/2021/809). Regulation 2 was amended by [S.S.I. 2021/297](https://www.legislation.gov.uk/ssi/2021/297).
+
+[^f00004]: Footnote: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177). Schedule 5 was inserted by [S.S.I. 2020/458](https://www.legislation.gov.uk/ssi/2020/458) and paragraph 4 was amended by [S.I. 2021/429](https://www.legislation.gov.uk/uksi/2021/429), [S.I. 2021/809](https://www.legislation.gov.uk/uksi/2021/809) and [S.S.I. 2021/297](https://www.legislation.gov.uk/ssi/2021/297).
+
+[^f00005]: Footnote: EUR 2017/625. Annex 6 was inserted by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481), and paragraph 13 was amended by [S.I. 2021/429](https://www.legislation.gov.uk/uksi/2021/429), [S.I. 2021/809](https://www.legislation.gov.uk/uksi/2021/809) and [S.S.I. 2021/342](https://www.legislation.gov.uk/ssi/2021/342).
+
+[^f00006]: Footnote: EUR 2019/2122. Article 12A was inserted by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
+
+[^f00007]: Footnote: [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482). Regulation 52 was amended by [S.I. 2021/429](https://www.legislation.gov.uk/uksi/2021/429) and [2021/1229](https://www.legislation.gov.uk/uksi/2021/1229).
+
+[^f00008]: Footnote: EUR 2017/625. Annex 6 was inserted by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).

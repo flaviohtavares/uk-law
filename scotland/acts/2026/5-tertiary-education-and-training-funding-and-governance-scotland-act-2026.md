@@ -1,0 +1,1279 @@
+---
+title: Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026
+id: asp/2026/5
+type: ScottishAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2026-03-11'
+text_date: '2026-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2026/5
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2026/5/pdfs/aspen_20260005_en.pdf
+- http://www.legislation.gov.uk/asp/2026/5/pdfs/asp_20260005_en.pdf
+- http://www.legislation.gov.uk/asp/2026/5/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/asp/2026/5
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026
+
+2026 asp 5
+
+An Act of the Scottish Parliament to make provision about a national funding strategy for tertiary education, skills and apprenticeships; to make provision about the functions and governance of the Scottish Further and Higher Education Funding Council; to make provision about financial support for students in further and higher education; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 20th January 2026 and received Royal Assent on 11th March 2026
+
+## Part 1 — National funding strategy
+
+**Not yet in force.**
+
+### 1. National funding strategy[^key-6d15b88539acb5ed7614bfc8a8dade82]
+
+(1) The Scottish Ministers must prepare a national funding strategy for tertiary education, skills and apprenticeships.
+
+(2) The strategy must set out—
+
+- (a) the Scottish Ministers’ view of skills needs in Scotland, including in different localities within Scotland,
+- (b) the Scottish Ministers’ priorities for funding further education and higher education, programmes of training for employment, Scottish apprenticeships and work-based learning,
+- (c) the outcomes which the Scottish Ministers are seeking to deliver through funding those activities, and
+- (d) such other information as the Scottish Ministers consider appropriate.
+
+(3) In subsection (2)—
+
+- “**further education**” means a programme of learning which falls within section 6 of the Further and Higher Education (Scotland) Act 1992,
+- “**higher education**” has the meaning given by section 38 of that Act,
+- “**programmes of training for employment**” means programmes for which grants are to be made under section 12C(1) of the 2005 Act,
+- “**Scottish apprenticeships**” has the meaning given by section 12E(1) of that Act,
+- “**work-based learning**” has the meaning given by section 12I(2) of that Act.
+
+(4) The Scottish Ministers must, as soon as reasonably practicable after this section comes into force, publish the strategy and lay it before the Scottish Parliament.
+
+(5) The Scottish Ministers—
+
+- (a) may, from time to time, revise the strategy, and
+- (b) must, as soon as reasonably practicable after doing so, publish any revised strategy and lay it before the Scottish Parliament.
+
+(6) In preparing or revising the strategy, the Scottish Ministers must consult—
+
+- (a) the Council,
+- (b) The Skills Development Scotland Co. Limited,
+- (c) employers and prospective employers of apprentices,
+- (d) the post-16 education bodies (within the meaning given by section 35(1) of the 2005 Act),
+- (e) training providers (within the meaning given by section 12J(3) of the 2005 Act),
+- (f) representatives of any trade union (within the meaning given by section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992) which appears to the Scottish Ministers to be representative of the interests of apprentices,
+- (g) education authorities (within the meaning given by section 135(1) of the Education (Scotland) Act 1980),
+- (h) learners and persons who appear to the Scottish Ministers to represent the interests of learners, and
+- (i) such other persons as the Scottish Ministers consider appropriate.
+
+(7) The Scottish Ministers must—
+
+- (a) from time to time, prepare a report on the progress being made in delivering the outcomes set out in the national skills funding strategy, and
+- (b) publish the report and lay it before the Scottish Parliament.
+
+## Part 2 — Functions of the Scottish Further and Higher Education Funding Council
+
+### General duties of the Council and the Scottish Ministers
+
+#### 2. General duty of the Council to secure high-quality learning[^key-b433408da794954f1f3cb54530b12817][^key-f6f4cdcdc6841a1773f2562ffef8e8b1]
+
+(1) The Further and Higher Education (Scotland) Act 2005 is modified as follows.
+
+(2) In section 3 (the Council: general duty), for the words from “securing” to the end substitute
+
+> securing—
+>
+> - (a) the coherent provision (as a whole) of—
+>   - (i) a high quality of fundable further education and fundable higher education by the post-16 education bodies, and
+>   - (ii) a high quality of Scottish apprenticeships and work-based learning, and
+> - (b) the undertaking of research among the post-16 education bodies.
+
+.
+
+#### 3. General duty of the Scottish Ministers to support delivery[^key-a76a459df4a827474c966049a61f537b][^key-ad56b14b1256ae29633dea8d87effdba]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In section 4 (the Scottish Ministers: general duty), for subsections (1) and (2) substitute—
+
+> (1) It is the duty of the Scottish Ministers to provide support for—
+>
+> - (a) the provision of—
+>   - (i) fundable further education and fundable higher education by the post-16 education bodies, and
+>   - (ii) Scottish apprenticeships and work-based learning, and
+> - (b) the undertaking of research among the post-16 education bodies.
+>
+> (2) The Scottish Ministers are to do so—
+>
+> - (a) by—
+>   - (i) making grants to the Council under sections 9, 10, 12C or 12I, and
+>   - (ii) such other means as they consider appropriate, and
+> - (b) to such extent as they may determine.
+>
+> (3) When exercising their duty under subsection (1), the Scottish Ministers must have regard to the need for provision to address current and future economic needs.
+
+.
+
+### Review of credit-based funding model
+
+**Not yet in force.**
+
+#### 4. Review of credit-based funding model[^key-5564b13827603dcbe63777f03db79f32]
+
+(1) The Scottish Ministers must, within 12 months of this section coming into force, undertake a review of the credit-based funding model used by the Council for making payments to—
+
+- (a) colleges of further education,
+- (b) any other providers of fundable further education.
+
+(2) The review undertaken under subsection (1) must consider the provision of fundable further education, including—
+
+- (a) the availability of courses provided across Scotland,
+- (b) the ability of providers of fundable further education to deliver courses.
+
+(3) After completing the review, the Scottish Ministers must publish and lay a report on the review before the Scottish Parliament.
+
+(4) The report must set out the action, if any, the Scottish Ministers intend to take as a result of the review.
+
+(5) In this section, the following terms have the meaning given by section 35(1) of the 2005 Act—
+
+- “**colleges of further education**”,
+- “**fundable further education**”.
+
+### Conditions of funding
+
+**Not yet in force.**
+
+#### 5. Duty to place conditions on funding: transparency[^key-48d9fcd6e675e19582ec220de5470db7]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In section 9A (higher education institutions: good governance)—
+
+- (a) the existing text becomes subsection (1),
+- (b) after subsection (1) insert—
+
+  > (2) For the purposes of subsection (1), principles of governance which constitute good practice in relation to higher education institutions includes, in particular, having regard to the need to operate in a way which is transparent and accountable.
+
+  .
+
+(3) In section 9B (further education institutions: good governance), after subsection (2) insert—
+
+> (3) For the purposes of this section, principles of governance which constitute good practice in relation to colleges of further education, or which are appropriate in relation to a regional strategic body, as the case may be, includes, in particular, having regard to the need to operate in a way which is transparent and accountable.
+
+.
+
+#### 6. Duty to place conditions on funding: conflict of interest[^key-f94f2196a5d0cd233eef8671d14d92d2]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 9E insert—
+
+> **9F. Conflict of interest: disclosure**
+>
+> (1) The Scottish Ministers must, under section 9(2), impose a condition that the Council must, when making a payment to a fundable post-16 education body under section 12(1), require that the fundable post-16 education body has in place a conflict of interest policy that—
+>
+> - (a) requires each member of its governing body and each senior officer to declare any registerable interest,
+> - (b) requires that a member of its governing body or senior officer withdraws from any meeting or decision-making process where they have a conflict of interest,
+> - (c) ensures that the fundable post-16 education body has a register of interests that is—
+>   - (i) publicly accessible online,
+>   - (ii) updated within 28 days of any change, and
+>   - (iii) reviewed on an annual basis.
+>
+> (2) For the purposes of subsection (1), a registerable interest includes—
+>
+> - (a) financial interests,
+> - (b) shareholdings,
+> - (c) remunerated consultancies,
+> - (d) intellectual property interests, and
+> - (e) close family relationships with contractors or commercial partners.
+>
+> (3) The Scottish Ministers may by regulations amend the list of registerable interests in subsection (2).
+
+.
+
+#### 7. Duty to place conditions on funding: whistleblowing[^key-6c77abe7b5e91059fb441b0f8314ce5c]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 9F (as inserted by section 6(2)) insert—
+
+> **9G. Whistleblowing**
+>
+> (1) The Scottish Ministers may, under section 9(2), impose a condition that the Council must, when making a payment to a fundable post-16 education body under section 12(1), require that the fundable post-16 education body has in place a whistleblowing procedure that—
+>
+> - (a) is clearly communicated to all staff, students and members of the governing body of the fundable post-16 education body,
+> - (b) provides for the confidential reporting of concerns relating to issues including—
+>   - (i) financial mismanagement,
+>   - (ii) failure of governance,
+>   - (iii) bullying or retaliation,
+>   - (iv) risks to learner provision, and
+> - (c) provides protection against detriment (as a result of raising concerns) to individuals who raise concerns in good faith.
+>
+> (2) A fundable post-16 education body must notify the Council when it has received information through its whistleblowing procedure that suggests a material risk to continuity of learner provision or financial sustainability.
+>
+> (3) A notification under subsection (2) may be made on a confidential basis.
+>
+> (4) On receipt of a notification under subsection (2), the Council must—
+>
+> - (a) consider whether any action or support is required as a result of the notification,
+> - (b) record any actions taken or support provided.
+
+.
+
+(3) In schedule 1, paragraph 18, after sub-paragraph (1) insert—
+
+> (1A) A report under sub-paragraph (1) must include an anonymised summary of the notifications received during the financial year under section 9G(2), including—
+>
+> - (a) the number of notifications received,
+> - (b) the nature of the concerns raised,
+> - (c) any themes arising across the notifications.
+
+.
+
+#### 8. Duty to place conditions on funding: engagement with trade unions, students and external partners[^key-fd6f6217432a70c8e41013448ed3d2f5]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 9G (as inserted by section 7(2)) insert—
+
+> **9H. Engagement with trade unions, students and external partners**
+>
+> (1) The Scottish Ministers must, under section 9(2), impose a condition that the Council must, when making a payment to a fundable post-16 education body under section 12(1), require that—
+>
+> - (a) the fundable post-16 education body takes reasonable steps to inform and consult the persons mentioned in subsection (2) before implementing any decision that could significantly impact its—
+>   - (i) provision for learners,
+>   - (ii) levels of staffing, or
+>   - (iii) financial sustainability,
+> - (b) the fundable post-16 education body must, where requested by the Council, submit a report to the Council in relation to a decision on—
+>   - (i) the persons consulted,
+>   - (ii) the issues raised by the persons consulted,
+>   - (iii) whether and, if so, how the issues raised by the persons consulted were addressed,
+>   - (iv) if the issues raised were not addressed, the reasons for not doing so.
+>
+> (2) The persons include—
+>
+> - (a) recognised trade unions representing employees of the body,
+> - (b) organisations representing students of the body,
+> - (c) any external partners which may be impacted by the decision.
+
+.
+
+#### 9. Duty to place conditions on funding: prevention of gender-based violence[^key-e2279c58150d0a2408af668e3994eb7e]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 9H (as inserted by section 8(2)) insert—
+
+> **9I. Prevention of gender-based violence**
+>
+> (1) The Scottish Ministers may, under section 9(2), impose a condition that the Council must, when making a payment to a fundable post-16 education body under section 12(1), require the body to—
+>
+> - (a) take action—
+>   - (i) to prevent gender-based violence against its students and staff, and
+>   - (ii) to provide support for its students and staff who are experiencing or have experienced gender-based violence, and
+> - (b) prepare and publish, as soon as reasonably practicable after the end of each academic year, a report setting out—
+>   - (i) the action it has taken under paragraph (a) over the previous year, and
+>   - (ii) the action it intends to take under paragraph (a) over the next year.
+>
+> (2) Where the Council imposes requirements on fundable post-16 education bodies by virtue of this section, it must publish those requirements.
+>
+> (3) The Council must issue guidance to fundable post-16 education bodies on compliance with requirements imposed by virtue of this section, including on what constitutes gender-based violence for the purposes of this section.
+>
+> (4) Before issuing guidance under subsection (3), the Council must consult—
+>
+> - (a) the Scottish Ministers,
+> - (b) fundable post-16 education bodies,
+> - (c) persons the Council considers to be representative of organisations campaigning for the prevention of gender-based violence, and
+> - (d) such other persons the Council considers appropriate.
+
+.
+
+### Funding for national training programmes
+
+#### 10. Funding for national training programmes[^key-a3d8677177a4bf0f08342190f79e1b95][^key-8cc027c79c945fa470e91d2983c5e3ae]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In section 11 (administration of funds), in subsection (2)(b), after “purposes” insert “, except any funds made available to it under section 12C”.
+
+(3) After section 12B insert—
+
+> **Funding for national training programmes**
+>
+> **12C. Grants to the Council for national training programmes**
+>
+> (1) The Scottish Ministers may make grants to the Council for the purpose of securing the delivery of programmes of training for employment.
+>
+> (2) A grant made under subsection (1) is subject to such terms and conditions as the Scottish Ministers consider it appropriate to impose.
+>
+> (3) Terms and conditions imposed under subsection (2) may, in particular, require—
+>
+> - (a) that a specified programme is to be secured,
+> - (b) that a programme to achieve a specified outcome is to be secured,
+> - (c) that a programme directed at specified persons or specified descriptions of persons is to be secured,
+> - (d) that, when making a payment to any person under section 12D, the Council is to impose a specified condition.
+>
+> (4) The Scottish Ministers must—
+>
+> - (a) publish terms and conditions imposed under subsection (2), together with the reasons for considering them appropriate to impose, or
+> - (b) if they consider it would not be appropriate to publish terms and conditions imposed under subsection (2), publish a statement of their reasons for considering it would not be appropriate to do so.
+>
+> (5) In subsection (3), “**specified**” means specified in the terms and conditions.
+>
+> **12D. Administration of funds by the Council for national training programmes**
+>
+> (1) The Council is responsible for administering all grants made to it under section 12C for the purpose of securing the delivery of programmes of training for employment.
+>
+> (2) The Council may make grants, loans or other payments to any person for the purpose of the delivery of programmes of training for employment.
+>
+> (3) A payment made under subsection (2)—
+>
+> - (a) may be subject to such terms and conditions as the Council considers it appropriate to impose, which may, in particular, relate to—
+>   - (i) the repayment (in whole or in part) of a payment in such circumstances as the Council may specify,
+>   - (ii) the interest payable in respect of any period during which a sum due to the Council is outstanding, but
+> - (b) must be subject to any terms and conditions imposed by the Scottish Ministers by virtue of section 12C.
+
+.
+
+### Scottish apprenticeships
+
+#### 11. Scottish apprenticeships[^key-8ac473766f0855ba488cf6524ade17a8][^key-86806b503501b8792516b4349c65fe6d]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 12D (as inserted by section 10(3)) insert—
+
+> **Scottish apprenticeships**
+>
+> **12E. Definition of Scottish apprenticeship**
+>
+> (1) For the purposes of this Part, a Scottish apprenticeship means an arrangement where—
+>
+> - (a) an apprentice works for a person (“**the employer**”) for reward in an occupation or activity included in a Scottish apprenticeship framework,
+> - (b) the apprentice receives training to meet the relevant requirements specified in a Scottish apprenticeship framework,
+> - (c) there is an apprenticeship agreement in place between the apprentice and the employer and any training provider involved in the delivery of the apprenticeship, and
+> - (d) any other criteria set out in regulations made by the Scottish Ministers are satisfied.
+>
+> (2) The Scottish Ministers may by regulations modify the definition of a Scottish apprenticeship in subsection (1).
+>
+> (3) Before laying a draft of regulations under subsection (2) before the Scottish Parliament, the Scottish Ministers must consult—
+>
+> - (a) the Council,
+> - (b) apprentices and persons who appear to the Scottish Ministers to represent the interests of apprentices,
+> - (c) representatives of any trade union (within the meaning given by section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992) which appears to the Scottish Ministers to be representative of the interests of apprentices,
+> - (d) employers and prospective employers of apprentices,
+> - (e) the post-16 education bodies,
+> - (f) training providers (within the meaning given by section 12J(3)), and
+> - (g) such other persons as the Scottish Ministers consider appropriate.
+>
+> (4) In subsection (1), an “**apprenticeship agreement**” means an agreement which provides for an apprentice to receive training in order to assist the apprentice to meet the relevant requirements specified in an apprenticeship framework.
+>
+> **12F. Scottish apprenticeship frameworks**
+>
+> (1) The Council may prepare and publish Scottish apprenticeship frameworks.
+>
+> (2) A framework is to set out the relevant requirements for a Scottish apprenticeship in respect of different occupations or activities, including—
+>
+> - (a) the required standards or qualifications to be achieved by apprentices during an apprenticeship, and
+> - (b) the required types or amount of training.
+>
+> (3) In preparing a framework, the Council must have regard to the views of—
+>
+> - (a) such apprentices, prospective apprentices, and persons who appear to the Council to represent their interests, as the Council considers likely to be affected by the framework,
+> - (b) representatives of any trade union (within the meaning given by section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992) which appears to the Council to be representative of the interests of apprentices likely to be affected by the framework,
+> - (c) such employers and prospective employers of apprentices as the Council considers likely to be affected by the framework, and
+> - (d) such other persons as the Council considers likely to be affected.
+>
+> (4) The Council may amend or revoke a Scottish apprenticeship framework.
+>
+> (5) Where it amends or revokes a framework, the Council must publish a statement of its reasons for doing so.
+>
+> (6) Before amending or revoking a framework, the Council must have regard to the views of—
+>
+> - (a) such apprentices, prospective apprentices, and persons who appear to the Council to represent their interests, as the Council considers likely to be affected by the amendment or revocation of the framework,
+> - (b) representatives of any trade union (within the meaning given by section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992) which appears to the Council to be representative of the interests of apprentices likely to be affected by the amendment or revocation of the framework,
+> - (c) such employers and prospective employers of apprentices as the Council considers likely to be affected by the amendment or revocation of the framework, and
+> - (d) such other persons as the Council considers likely to be affected.
+>
+> (7) The Scottish Ministers may by regulations make further provision about—
+>
+> - (a) the requirements for Scottish apprenticeships which are to be specified in a framework, and
+> - (b) the process to be followed by the Council in preparing, publishing, amending and revoking frameworks.
+>
+> **12G. Requests for apprenticeship frameworks**
+>
+> (1) A person may request the Council to prepare or amend a Scottish apprenticeship framework for a particular occupation or activity.
+>
+> (2) The Council must consider any request made to it under subsection (1).
+>
+> (3) The Council may charge a reasonable fee to cover the cost, in whole or in part, of preparing or amending a framework as requested.
+>
+> (4) Subsections (2) to (6) of section 12F apply to a framework requested to be prepared or amended under this section.
+>
+> (5) The Scottish Ministers may by regulations make provision about—
+>
+> - (a) the process to be followed by the Council in responding to requests to prepare or amend a framework,
+> - (b) the amount of the fee that the Council may charge for preparing or amending a framework,
+> - (c) the circumstances in which the fee is to be waived by the Council.
+>
+> **12H. Scottish apprenticeship certificates**
+>
+> (1) An individual who is or has been an apprentice, or another person on behalf of such an individual, may apply to the Council for a Scottish apprenticeship certificate.
+>
+> (2) The Council may issue a Scottish apprenticeship certificate where it is satisfied that the individual in respect of whom an application has made has completed a Scottish apprenticeship.
+>
+> (3) The Council may charge a reasonable fee for issuing a Scottish apprenticeship certificate.
+>
+> (4) The Scottish Ministers may by regulations make provision about—
+>
+> - (a) the process for requesting and issuing apprenticeship certificates, and
+> - (b) the amount of the fee that the Council may charge for issuing a certificate.
+
+.
+
+(3) In section 35 (interpretation), in subsection (1), after the definition of “regional strategic body” insert—
+
+> - “**Scottish apprenticeship**” has the meaning given by section 12E,
+
+.
+
+### Funding for Scottish apprenticeships and work-based learning
+
+#### 12. Funding for Scottish apprenticeships and work-based learning[^key-0967b69e46b0aed283983c6e30a932f2][^key-5f1937c25b38917663ceef20e99a7a7d]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In section 11 (administration of funds), in subsection (2)(b), after “**12C**” (as inserted by section 10(2)) insert “or 12I”.
+
+(3) After section 12H (as inserted by section 11(2)) insert—
+
+> **Funding for Scottish apprenticeships and work-based learning**
+>
+> **12I. Grants to the Council for Scottish apprenticeships and work-based learning**
+>
+> (1) The Scottish Ministers may make grants to the Council for the purpose of securing the delivery of Scottish apprenticeships and work-based learning.
+>
+> (2) In this Part, “**work-based learning**” means education and training received by an individual*—*
+>
+> - (a) in a working environment, or in an educational environment in which work-based activities are undertaken by the individual, and
+> - (b) on the basis of a work-based learning agreement.
+>
+> (3) In subsection (2), a “**work-based learning agreement**” means an agreement which sets out the educational and vocational standards to be met by an individual and provides for the individual to receive education and training in order to meet those standards.
+>
+> (4) A grant made under subsection (1) is subject to such terms and conditions as the Scottish Ministers consider it appropriate to impose.
+>
+> (5) The Scottish Ministers may by regulations make further provision about—
+>
+> - (a) what activities constitute work-based learning, and
+> - (b) the requirements of work-based learning.
+>
+> **12J. Administration of funds by the Council for Scottish apprenticeships and work-based learning**
+>
+> (1) The Council is responsible for administering all grants made to it under section 12I for the purpose of securing the delivery of Scottish apprenticeships and work-based learning.
+>
+> (2) The Council may make grants, loans or other payments to a training provider for the purpose of the delivery of Scottish apprenticeships or work-based learning.
+>
+> (3) In subsection (2), a “**training provider**” means a person who—
+>
+> - (a) provides either work-based learning or the training of an apprentice required under a Scottish apprenticeship framework, and
+> - (b) meets criteria set out in regulations made by the Scottish Ministers.
+>
+> (4) A payment made under subsection (2) may be subject to such terms and conditions as the Council considers it appropriate to impose.
+>
+> (5) The Council must impose conditions on a payment made under subsection (2) that—
+>
+> - (a) any person who is contracted by a training provider to deliver the learning or training must also be a training provider within the meaning of subsection (3), and
+> - (b) no training provider (whether the person receiving the payment or another person contracted to deliver the learning or training) is entitled to retain more than such percentage of the payment as the Council considers reasonable as a fee for managing the delivery of the learning or training.
+
+.
+
+(4) In section 35 (interpretation), in subsection (1), after the definition of “**Scottish apprenticeship**” (as inserted by section 11(3)) insert—
+
+> - “**work-based learning**” has the meaning given by section 12I(2).
+
+.
+
+### Transitional measures
+
+**Not yet in force.**
+
+#### 13. Statement on financial implications[^key-fc04ec39fb126823a9842af526b8b47d]
+
+Within the period of 1 year beginning with the day on which this section comes into force, the Scottish Ministers must lay before the Scottish Parliament a statement on the financial implications of the Council assuming the functions conferred on it by sections 10 to 12 of this Act.
+
+### Information sharing
+
+#### 14. Information sharing[^key-e3ce345ceb0d5be6ff77c59305524e68][^key-40be7fb74a403ec426f98981f0d194ee]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 12J (as inserted by section 12(3)) insert—
+
+> **12K. Information sharing on national training programmes, apprenticeships and work-based learning**
+>
+> Any person to whom the Council makes grants, loans or other payments under section 12D or 12J must provide the Council with such information as the Council may request for the purposes of or in connection with the programme of training for employment, Scottish apprenticeship or work-based learning (as the case may be) for which the payments are made.
+
+.
+
+(3) In section 17 (advisory functions), in subsection (1), before paragraph (a) insert—
+
+> - (za) provision and funding of programmes of training for employment, apprenticeships and work-based learning,
+
+.
+
+#### 15. Requirement to promote proactive publication[^key-819395b8bf9f3f39bad32536c487b552]
+
+**Not yet in force.**
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 12K (as inserted by section 14(2)) insert—
+
+> **12L. Proactive publication**
+>
+> (1) The Council and any fundable post-16 education body that receives a payment from the Council under section 12(1), 12D(2) or 12J(2) must take steps to adopt a proactive approach to the publication of data which is appropriate for disclosure in the public domain.
+>
+> (2) But in relation to a fundable post-16 education body, the duty in subsection (1) only applies in respect of data which relates to the activities for which the body receives payment under section 12(1), 12D(2) or 12J(2) (as the case may be).
+>
+> (3) In this section, a “**proactive approach**” includes the routine identification and publication of appropriate information without the need for specific requests.
+
+.
+
+### Notifications to the Council by post-16 education bodies
+
+#### 16. Notifications to the Council by post-16 education bodies[^key-43bf4218f153bde6916fabfb9f1652d0][^key-7e229d48126dd783657a9a5490d4cfd5]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 14A insert—
+
+> **14B. Notifications to the Council by post-16 education bodies**
+>
+> (1) The Scottish Ministers may by regulations—
+>
+> - (a) require post-16 education bodies to notify the Council of matters specified in the regulations,
+> - (b) specify the form and manner in which notifications are to be made to the Council, including the periods within which the Council is to be notified.
+>
+> (2) Before laying a draft of regulations under subsection (1) before the Scottish Parliament, the Scottish Ministers must consult—
+>
+> - (a) the Council,
+> - (b) the post-16 education bodies, and
+> - (c) such other persons as the Scottish Ministers consider appropriate.
+
+.
+
+### Recommendations to fundable bodies
+
+#### 17. Recommendations to fundable bodies[^key-47bf29f5d24ac4a3157c806234e2e3c6][^key-717eefa98deba00937c9322011b25a73]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In section 15 (efficiency studies), after subsection (2) insert—
+
+> (3) A study under subsection (1) may include consideration of the extent to which the needs and interests of students are being met.
+>
+> (4) A study under subsection (1) may include consideration of the extent to which the needs and interests of staff are being met, including in relation to fair work principles.
+>
+> (5) The Council may issue recommendations to a fundable body following a study carried out under subsection (1).
+>
+> (6) The Council may publish any recommendations issued under subsection (5) as it considers appropriate.
+>
+> (7) Before publishing any recommendations issued under subsection (5), the Council must consult the fundable body to which the recommendations have been issued.
+
+.
+
+### Monitoring of financial sustainability of post-16 education bodies
+
+#### 18. Financial sustainability of post-16 education bodies[^key-5b48c89df40debede1eb843f7c3841e9][^key-f51d8272bbbc10edc7d60f79fb1f5f5f]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 15 insert—
+
+> **15A. Monitoring of financial sustainability of post-16 education bodies**
+>
+> (1) The Council must secure the monitoring of the financial sustainability of post-16 education bodies.
+>
+> (2) The Council may, where it considers it necessary to do so, secure the carrying out of an independent examination into the financial sustainability or financial governance of a post-16 education body.
+>
+> (3) The governing body of a post-16 education body must—
+>
+> - (a) provide a person carrying out an examination by virtue of subsection (2) with such information, and
+> - (b) make available to the person for inspection such accounts and other documents,
+>
+> as the person may reasonably require for the purposes of the examination.
+>
+> (4) The Scottish Ministers may request the Council to provide them with information and advice in relation to the financial sustainability of post-16 education bodies.
+>
+> (5) The Council—
+>
+> - (a) must provide such information and advice when requested by the Scottish Ministers, and
+> - (b) otherwise may provide such information and advice whenever it considers it appropriate to do so.
+
+.
+
+### Guidance by the Council to fundable bodies
+
+**Not yet in force.**
+
+#### 19. Guidance to fundable bodies[^key-4ed92585e84d328a6c649ee5183cfd33]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 17 insert—
+
+> **17A. Guidance to fundable bodies and others**
+>
+> (1) The Council may issue guidance to—
+>
+> - (a) fundable bodies, and
+> - (b) any other persons to whom it makes payments under section 12, 12D or 12J.
+>
+> (2) Guidance under subsection (1) may, in particular, relate to—
+>
+> - (a) the needs and interests of current and prospective learners,
+> - (b) the financial sustainability of post-16 education bodies insofar as it affects their provision of fundable further education and fundable higher education,
+> - (c) the form and manner in which information required to be provided to the Council under or by virtue of this Act is to be provided,
+> - (d) the identification of skills needs and skills planning in particular localities.
+>
+> (3) Guidance relating to the matters mentioned in subsection (2)(c) must be consistent with any regulations made by the Scottish Ministers under section 14B(1).
+>
+> (4) A person must have regard to any guidance issued under subsection (1) about activities in respect of which the person is in receipt of payments from the Council.
+>
+> (5) Before issuing guidance under subsection (1), the Council must consult—
+>
+> - (a) the Scottish Ministers,
+> - (b) the persons mentioned in subsection (1), and
+> - (c) such other persons as the Council considers appropriate.
+>
+> (6) The Council may publish any guidance issued under subsection (1) as it considers appropriate.
+
+.
+
+### Reporting by the Council
+
+#### 20. Reporting by the Council[^key-b0eae47f0e6c546442a9c7290efd6d8b][^key-60a96e2766d20977d051c3fc08038dd4]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 19A insert—
+
+> **19B. Reporting by the Council**
+>
+> (1) At least once in each financial year, the Council must prepare and publish a report on—
+>
+> - (a) the financial sustainability of the further and higher education sector, and
+> - (b) the performance of any persons involved in providing—
+>   - (i) programmes of training for employment,
+>   - (ii) Scottish apprenticeships, and
+>   - (iii) work-based learning.
+>
+> (2) A report under subsection (1) may—
+>
+> - (a) report on the matters mentioned in paragraphs (a) and (b) of that subsection either in a single report or separately,
+> - (b) be part of another document.
+>
+> (3) The Scottish Ministers may direct the Council to—
+>
+> - (a) include in a report under subsection (1) particular aspects of the matters mentioned in paragraphs (a) and (b) of that subsection,
+> - (b) prepare and publish a report on any matter relating to its functions as the Scottish Ministers may determine.
+>
+> (4) A direction under subsection (3)(b) may require the Council to publish the report within a particular period or at particular intervals.
+>
+> (5) The Council must comply with a direction given to it under this section.
+>
+> (6) The Scottish Ministers may vary or revoke a direction given under this section.
+
+.
+
+### Exercise of functions by the Council
+
+#### 21. Duty to have regard to particular matters in exercise of functions[^key-c51274d18684f80f399e351cb4216895][^key-43da04d32f22a368af84b5a1b943407a]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In section 20 (Council to have regard to particular matters)—
+
+- (a) in subsection (1), after “Scotland” in each place where it occurs insert “, including in different localities within Scotland”,
+- (b) after subsection (1) insert—
+
+  > (1A) In exercising its functions, the Council is to have regard to the economic, social and environmental priorities of the Scottish Ministers.
+
+  ,
+- (c) after subsection (3) insert—
+
+  > (3A) In exercising its functions, the Council is to have regard to the desirability of protecting and promoting the interests of current and prospective learners.
+  >
+  > (3B) In exercising its functions, the Council is to have regard to the desirability of promoting fair work principles.
+
+  ,
+- (d) after subsection (4B) insert—
+
+  > (4C) In exercising its functions, the Council is to have regard to the desirability of facilitating, encouraging and supporting knowledge exchange and innovation from the research of the post-16 education bodies.
+
+  ,
+- (e) in subsection (10)(a), after “Scotland” insert “, including in different localities within Scotland,”,
+- (f) after subsection (10) insert—
+
+  > (11) The Scottish Ministers may give directions to the Council setting out the definition of “**fair work principles**” for the purposes of subsection (3B) and section 15(4).
+  >
+  > (12) Before giving a direction under subsection (11), the Scottish Ministers must consult—
+  >
+  > - (a) the Council,
+  > - (b) persons who appear to be representative of employees of any bodies or persons who receive payments from the Council for the purposes of securing the delivery of fundable further education, fundable higher education, Scottish apprenticeships or work-based learning.
+  >
+  > (13) The Council must comply with a direction given to it under subsection (11).
+  >
+  > (14) The Scottish Ministers may vary or revoke a direction given under subsection (11).
+
+  .
+
+#### 22. Consideration of skills needs and socio-economic issues[^key-3957f99f7af404b2cc3bbc5051db9d6a][^key-96f59badfa0eb27119398712d187d065]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In section 20 (Council to have regard to particular matters)—
+
+- (a) in subsection (5)(b), for “or fundable higher education” substitute “, fundable higher education, programmes of training for employment, Scottish apprenticeships or work-based learning”,
+- (b) in subsection (6)(b), for “or fundable higher education” substitute “, fundable higher education, programmes of training for employment, Scottish apprenticeships or work-based learning”.
+
+#### 23. Consultation and collaboration with employers of apprentices and training providers[^key-cd3f48087bdfed2f6f53935fa17e834b][^key-f44d5131b9c57085bc13f0741b9cfc42]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In section 22 (consultation and collaboration)—
+
+- (a) in subsection (1)(a), for “subsection (5)” substitute “subsections (5) and (5A)”,
+- (b) after subsection (5) insert—
+
+  > (5A) The persons are—
+  >
+  > - (a) persons who appear to the Council to be representative of apprentices,
+  > - (b) employers of apprentices or persons who appear to the Council to be representative of such employers,
+  > - (c) training providers (within the meaning given by section 12J(3)) or persons who appear to the Council to be representative of training providers.
+
+  ,
+- (c) in subsection (7), for “subsection (5)” substitute “subsections (5) and (5A)”.
+
+### Widening access to fundable further and higher education
+
+**Not yet in force.**
+
+#### 24. Widening access to fundable further and higher education: sharing of information[^key-4e14170bf7a701e32ae837da9a65e21e]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After section 25A insert—
+
+> **25B. Widening access to fundable further and higher education: sharing of information**
+>
+> (1) The Scottish Ministers may by regulations make provision requiring the sharing of specified information about individuals between information holders and other relevant bodies in order to achieve the outcome set out in subsection (2) for the purpose set out in subsection (3).
+>
+> (2) The outcome is that the specified information is available to a fundable post-16 education body to whom the Council makes payments under section 12.
+>
+> (3) The purpose is enabling, encouraging or increasing participation in fundable further education or fundable higher education by persons belonging to any socio-economic group which the Scottish Ministers reasonably consider to be under-represented in such education.
+>
+> (4) Regulations under subsection (1) may in particular—
+>
+> - (a) require information holders to provide the specified information to a relevant body,
+> - (b) require a relevant body to provide the specified information to another relevant body,
+> - (c) make provision about the circumstances in which an information holder or a relevant body is not required to provide the specified information.
+>
+> (5) Where the specified information is that a school lunch is or has been provided for a pupil free of charge by virtue of section 53 of the 1980 Act, regulations under subsection (1) may disapply section 53B of that Act in relation to the sharing of that information.
+>
+> (6) For the purposes of subsection (3) a socio-economic group is to be treated as under-represented in fundable further education or fundable higher education if participation in such education by persons in that group is disproportionately low.
+>
+> (7) The Scottish Ministers may take into account any social or economic characteristics which they consider appropriate when determining which groups are to constitute “**socio-economic groups**” for the purposes of this section.
+>
+> (8) Regulations under subsection (1) may modify any enactment (including this Act).
+>
+> (9) Before laying before the Scottish Parliament a draft of a statutory instrument containing regulations under subsection (1), the Scottish Ministers must consult—
+>
+> - (a) the Council,
+> - (b) post-16 education bodies appearing to the Scottish Ministers as likely to be affected by the regulations,
+> - (c) any other person appearing to the Scottish Ministers as likely to be affected by the regulations.
+>
+> (10) In this section—
+>
+> - “**information holder**” means a person or a category of person specified as such in the regulations,
+> - “**relevant body**” means a person or a category of person specified as such in the regulations, which may in particular include a post-16 education body which provides fundable further education or fundable higher education,
+> - “**specified information**” means information or a category of information specified in the regulations.
+
+.
+
+### Amendment of lists of fundable bodies
+
+**Not yet in force.**
+
+#### 25. Amendment of lists of fundable bodies in schedule 2 of 2005 Act[^key-6cf33d23c16b22925c0b481396e33191]
+
+(1) The 2005 Act is modified as follows.
+
+(2) For schedule 2 substitute—
+
+> **Schedule 2 — Fundable bodies**
+>
+> (introduced by section 6)
+>
+> - Abertay University
+> - Ayrshire College
+> - Borders College
+> - City of Glasgow College
+> - Dumfries and Galloway College
+> - Dundee and Angus College
+> - Edinburgh College
+> - Edinburgh Napier University
+> - Fife College
+> - Forth Valley College of Further and Higher Education
+> - Glasgow Caledonian University
+> - Glasgow Clyde College
+> - Glasgow Kelvin College
+> - Glasgow School of Art
+> - Heriot-Watt University
+> - Inverness College
+> - Moray College
+> - New College Lanarkshire
+> - Newbattle Abbey College
+> - North East Scotland College
+> - The Open University (so far as carrying on activities in or as regards Scotland)
+> - Orkney College
+> - Perth College
+> - Queen Margaret University, Edinburgh
+> - Robert Gordon University
+> - Royal Conservatoire of Scotland
+> - Sabhal Mòr Ostaig
+> - South Lanarkshire College
+> - SRUC
+> - University of Aberdeen
+> - University of Dundee
+> - University of Edinburgh
+> - University of Glasgow
+> - University of the Highlands and Islands
+> - UHI North, West and Hebrides
+> - University of St Andrews
+> - University of Stirling
+> - University of Strathclyde
+> - University of the West of Scotland
+> - West College Scotland
+> - West Lothian College
+
+.
+
+## Part 3 — Governance of the Council
+
+### Membership of the Council
+
+#### 26. Appointment of members of the Council[^key-f3c739c0110d03046c6a2b16d2c333b4][^key-08fd7845b6b34ea6ecda100764e0c8f9]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In paragraph 2 of schedule 1 (membership of the Council)—
+
+- (a) sub-paragraph (3) is repealed,
+- (b) in sub-paragraph (6), for “is, on ceasing to be a member,” substitute “who is, or has been, a member is”,
+- (c) after sub-paragraph (6) insert—
+
+  > (7) In this schedule, references to a member’s appointment include that member’s reappointment.
+
+  .
+
+#### 27. Membership of the Council: interests of employers[^key-26321442c10ddff89420c8c509aa67c7]
+
+**Not yet in force.**
+
+(1) The 2005 Act is modified as follows.
+
+(2) In schedule 1, in paragraph 2(1)(c), after “Ministers” insert “, which must include at least two members who appear to the Scottish Ministers to represent the interests of employers”.
+
+#### 28. Membership of the Council: number of members[^key-cbdb1690d229dcd85321e99ef5a3237b][^key-e0212b530bd8f58fc309fe02e3e64b14]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In schedule 1, in paragraph 2(1)(c), for “14” substitute “16”.
+
+#### 29. Skills and experience of members of the Council[^key-cf82e01841032e528d5249424197fa4d]
+
+**Not yet in force.**
+
+(1) The 2005 Act is modified as follows.
+
+(2) In paragraph 3 of schedule 1 (considerations when appointing members)—
+
+- (a) in sub-paragraph (1), after sub-sub-paragraph (a) insert—
+
+  > - (aa) persons who—
+  >   - (i) have experience of, and have shown capacity in, the provision of Scottish apprenticeships or work-based learning, or
+  >   - (ii) have held, and have shown capacity in, any position carrying the responsibility for the provision of Scottish apprenticeships or work-based learning,
+  > - (ab) persons who have experience, and have shown capacity, relating to research or the application of research,
+  > - (ac) persons who appear to be representative of learners undertaking fundable further education, fundable higher education, Scottish apprenticeships or work-based learning,
+  > - (ad) persons who appear to be representative of employees of the Council,
+  > - (ae) persons who appear to be representative of employees of any bodies or persons who receive payments from the Council for the purposes of securing the delivery of fundable further education, fundable higher education, Scottish apprenticeships or work-based learning,
+
+  ,
+- (b) in sub-paragraph (1), in sub-sub-paragraph (b), for “or the practice of any profession” substitute “, the practice of any profession or workforce planning”,
+- (c) after sub-paragraph (1) insert—
+
+  > (1A) In appointing members, the Scottish Ministers are also to have regard to the desirability of including persons who have skills, knowledge or experience of business and an interest in apprenticeships as would be appropriate to chair meetings of the apprenticeship committee.
+
+  ,
+- (d) sub-paragraphs (2) and (3) are repealed.
+
+### Co-opted members of the Council
+
+#### 30. Co-opted members of the Council[^key-a4c3899011f7ac14dc9a729ec8fd8c19][^key-5a35995c0e955b1215b369ec397b05c9]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After paragraph 2 of schedule 1 insert—
+
+> **2A.** (1) The Council may, with the approval of the Scottish Ministers, appoint persons as co-opted members of the Council.
+>
+> (2) No more than two persons may be appointed as co-opted members at any time.
+>
+> (3) A co-opted member is to be appointed by the Council on such terms and conditions (including as to remuneration and allowances) as the Council may, with the approval of the Scottish Ministers, determine.
+>
+> (4) A co-opted member is to be appointed for a period not exceeding 1 year.
+>
+> (5) A person who is, or has been, a co-opted member is eligible for reappointment.
+>
+> (6) A co-opted member—
+>
+> - (a) may take part in proceedings of the Council to the extent the Council determines, but
+> - (b) may not vote.
+>
+> (7) Paragraph 4 applies to the appointment of, and the holding of office by, a co-opted member as it applies to a member of the Council.
+>
+> (8) Otherwise, references in this schedule to a member of the Council do not apply to a co-opted member.
+
+.
+
+### Apprenticeship committee
+
+#### 31. Apprenticeship committee[^key-40ed3be84c0a64fbe96d160052379780][^key-64cd2ab1ca3d720915ca246391b839a6]
+
+(1) The 2005 Act is modified as follows.
+
+(2) After paragraph 12 of schedule 1 insert—
+
+> **12A.** (1) The Council must establish a committee (an “apprenticeship committee”) for the purposes of advising the Council on matters concerning apprenticeships and work-based learning.
+>
+> (2) In exercising its functions, the committee may consult local authorities and have regard to their views.
+>
+> (3) The Council is to appoint one of its members to chair meetings of the apprenticeship committee.
+>
+> (4) In appointing members of the apprenticeship committee, the Council is to have regard to the desirability of including persons who—
+>
+> - (a) are apprentices or appear to the Council to be representative of apprentices,
+> - (b) appear to the Council to be representative of businesses, including small and rural businesses, with an interest in apprenticeships,
+> - (c) are employers of apprentices or appear to the Council to be representative of such employers,
+> - (d) appear to the Council to be representative of the post-16 education bodies,
+> - (e) are training providers (within the meaning given by section 12J(3)) or appear to the Council to be representative of training providers,
+> - (f) are representative of trade unions (within the meaning given by section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992) which appear to the Council to be representative of the interests of apprentices.
+>
+> (5) In appointing members of the apprenticeship committee, the Council is to—
+>
+> - (a) consult—
+>   - (i) persons who appear to the Council to be representative of apprentices,
+>   - (ii) persons who appear to the Council to be representative of employers of apprentices,
+>   - (iii) such other persons as the Council considers appropriate,
+> - (b) have regard to any guidance issued to it under sub-paragraph (6)(a).
+>
+> (6) The Scottish Ministers must issue to the Council guidance about—
+>
+> - (a) the composition of the apprenticeship committee,
+> - (b) the appointment of the chair of the committee, and
+> - (c) the committee’s functions.
+
+.
+
+(3) In paragraph 14(1)(a) of schedule 1, for “and 12(2) and (3)” substitute “, 12(2) and (3) and 12A(3) and (5)”.
+
+## Part 4 — Student support
+
+**Not yet in force.**
+
+### 32. Designation of private providers of higher and further education[^key-270f5695689cfc1a9c56f57064d9ff9d]
+
+(1) The Education (Scotland) Act 1980 is modified as follows.
+
+(2) After section 74 insert—
+
+> **74A. Designation of private providers of higher and further education**
+>
+> (1) The Scottish Ministers may, on application by a relevant education provider, designate the provider for the purpose of this section.
+>
+> (2) In this section, “**relevant education provider**” means a person or body which—
+>
+> - (a) provides higher education or further education, and
+> - (b) carries on activities in Scotland or in another part of the United Kingdom.
+>
+> (3) A relevant education provider is to be treated as having been designated for the purpose of this section if—
+>
+> - (a) the Secretary of State has designated the provider under section 84 of the Higher Education and Research Act 2017,
+> - (b) the Welsh Ministers have designated the provider under section 83 of the Tertiary Education and Research (Wales) Act 2022, or
+> - (c) the Department of Education in Northern Ireland has designated the provider’s courses as eligible for student support under Article 3 of the [Education (Student Support) (Northern Ireland) Order 1998 (1998/1760) (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760).
+>
+> (4) A provider which has been designated for the purpose of this section may apply to the Scottish Ministers for particular courses of education it provides to be approved for the payment of allowances or loans by virtue of section 73(f) of this Act.
+>
+> (5) The Scottish Ministers may by regulations make provision about—
+>
+> - (a) the process for applying for a designation,
+> - (b) the charging of a fee for applying for a designation, including—
+>   - (i) the amount of the fee payable, and
+>   - (ii) the circumstances in which the fee is to be waived by Ministers,
+> - (c) the process for making a designation (including provision about the factors which Ministers are to take into account when deciding whether to make a designation),
+> - (d) the withdrawal of a designation (including provision about the factors which Ministers are to take into account when deciding whether to withdraw a designation),
+> - (e) the effect of withdrawal of a designation (including provision for allowances or loans made by virtue of regulations under section 73(f) to continue to be payable following withdrawal of a designation),
+> - (f) the process for applying for particular courses of education to be approved for the payment of allowances or loans by virtue of section 73(f) of this Act (including provision about the factors which Ministers are to take into account when deciding whether to approve courses).
+>
+> (6) Regulations under subsection (5) may make different provision for different purposes.
+>
+> (7) In this section—
+>
+> - “**further education**” means a programme of learning which falls within section 6 of the Further and Higher Education (Scotland) Act 1992,
+> - “**higher education**” has the meaning given by section 38 of that Act.
+
+.
+
+### 33. Directions relating to student support[^key-ffc8399e4c17d4c393e676459364673e]
+
+(1) The Education (Scotland) Act 1980 is modified as follows.
+
+(2) In section 73ZA (administration of certain sums)—
+
+- (a) in subsection (3), for the words from “persons—” to the end substitute
+
+  > persons undertaking, or who have undertaken, courses of education provided by—
+  >
+  > - (a) a post-16 education body,
+  > - (b) a body designated by the Scottish Ministers under section 74A, or
+  > - (c) an educational institution (or institutions) in the United Kingdom but outside Scotland, which is (or are) maintained or assisted by recurrent grants out of public funds.
+
+  ,
+- (b) in subsection (4), for “(3)” substitute “(3)(a)”.
+
+### 34. Transfer or delegation of functions relating to student support[^key-bc8931a3de2463eaad869bec7c7168db]
+
+(1) The Education (Scotland) Act 1980 is modified as follows.
+
+(2) In section 73A (transfer or delegation of functions relating to student support)—
+
+- (a) in subsection (1), for “him by virtue of regulations made under section 73(f) of this Act” substitute
+
+  > him—
+  >
+  > - (a) by virtue of regulations made under section 73(f) or 74A(5) of this Act, or
+  > - (b) under section 74A(1) of this Act,
+
+  ,
+- (b) in subsection (3), for “him” to the end substitute “him—
+
+  > - (a) by virtue of regulations made under section 73(a), (c) or (f) or 74A(5) of this Act, or
+  > - (b) under section 74A(1) of this Act.
+
+  .
+
+## Part 5 — Review of Act
+
+**Not yet in force.**
+
+### 35. Review of operation of Act[^key-72b8e78949f2eb0a32f7684ce146427b]
+
+(1) As soon as reasonably practicable after the end of each of the two review periods, the Scottish Ministers must—
+
+- (a) undertake a review of the operation of this Act, and
+- (b) prepare a report on that review.
+
+(2) The Scottish Ministers may delegate their functions under subsection (1) to such person as they consider appropriate.
+
+(3) When undertaking a review under subsection (1)(a), the Scottish Ministers (or, if applicable, the person to whom the function is delegated under subsection (2)) must consult—
+
+- (a) learners or persons who appear to be representative of learners,
+- (b) post-16 education bodies,
+- (c) training providers or persons who appear to be representative of training providers,
+- (d) employers or persons who appear to be representative of employers,
+- (e) the Council, and
+- (f) such other persons as are considered appropriate.
+
+(4) The Scottish Ministers must, as soon as reasonably practicable after the report is prepared—
+
+- (a) publish the report, and
+- (b) lay a copy of the report before the Scottish Parliament.
+
+(5) In this section—
+
+- “**review period**” means—
+  - (a) in the case of the first review, the period of 1 year beginning with the day on which this section comes into force, and
+  - (b) in the case of the second review, the period of 5 years beginning with the day on which this section comes into force,
+- “**post-16 education body**” has the meaning given by section 35(1) of the 2005 Act,
+- “**training provider**” has the meaning given by section 12J(3) of that Act.
+
+## Part 6 — Final provisions
+
+### 36. Interpretation[^key-4d5558a0d013da40ba99bef24b5a773c]
+
+In this Act—
+
+- “**the 2005 Act**” means the Further and Higher Education (Scotland) Act 2005,
+- “**the Council**” means the Scottish Further and Higher Education Funding Council established under section 1 of the 2005 Act.
+
+### 37. Ancillary provision[^key-012242ff4ddff13cc315ef3ce3ca3a5f]
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
+
+(2) Regulations under this section may—
+
+- (a) make different provision for different purposes,
+- (b) modify any enactment (including this Act).
+
+(3) Regulations under this section—
+
+- (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act, but
+- (b) otherwise are subject to the negative procedure.
+
+### 38. Regulation-making powers[^key-2beb63ace6723826196d4bd212221737]
+
+(1) The 2005 Act is modified as follows.
+
+(2) In section 34 (orders and regulations), in subsection (4)(a), after “7(2)(i)” insert “, 12E(2), 14B(1) or 25B(1)”.
+
+### 39. Commencement[^key-25a08424e1edfafee9069a0b5469c4cf]
+
+(1) This Part comes into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint.
+
+(3) Regulations under this section may—
+
+- (a) include transitional, transitory or saving provision,
+- (b) make different provision for different purposes.
+
+### 40. Short title[^key-90f956b3e670680276698dfb60ec482e]
+
+The short title of this Act is the Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026.
+
+## Annotations
+
+[^key-6d15b88539acb5ed7614bfc8a8dade82]: Commencement: S. 1 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-b433408da794954f1f3cb54530b12817]: Commencement: S. 2 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-f6f4cdcdc6841a1773f2562ffef8e8b1]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2026/5/section/2) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-a76a459df4a827474c966049a61f537b]: Commencement: S. 3 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-ad56b14b1256ae29633dea8d87effdba]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/5/section/3) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-5564b13827603dcbe63777f03db79f32]: Commencement: S. 4 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-48d9fcd6e675e19582ec220de5470db7]: Commencement: S. 5 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-f94f2196a5d0cd233eef8671d14d92d2]: Commencement: S. 6 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-6c77abe7b5e91059fb441b0f8314ce5c]: Commencement: S. 7 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-fd6f6217432a70c8e41013448ed3d2f5]: Commencement: S. 8 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-e2279c58150d0a2408af668e3994eb7e]: Commencement: S. 9 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-a3d8677177a4bf0f08342190f79e1b95]: Commencement: S. 10 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-8cc027c79c945fa470e91d2983c5e3ae]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2026/5/section/10) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-8ac473766f0855ba488cf6524ade17a8]: Commencement: S. 11 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-86806b503501b8792516b4349c65fe6d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2026/5/section/11) in force at 1.10.2026 for specified purposes by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-0967b69e46b0aed283983c6e30a932f2]: Commencement: S. 12 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-5f1937c25b38917663ceef20e99a7a7d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2026/5/section/12) in force at 1.10.2026 for specified purposes by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-fc04ec39fb126823a9842af526b8b47d]: Commencement: S. 13 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-e3ce345ceb0d5be6ff77c59305524e68]: Commencement: S. 14 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-40be7fb74a403ec426f98981f0d194ee]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2026/5/section/14) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-819395b8bf9f3f39bad32536c487b552]: Commencement: S. 15 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-43bf4218f153bde6916fabfb9f1652d0]: Commencement: S. 16 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-7e229d48126dd783657a9a5490d4cfd5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2026/5/section/16) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-47bf29f5d24ac4a3157c806234e2e3c6]: Commencement: S. 17 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-717eefa98deba00937c9322011b25a73]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2026/5/section/17) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-5b48c89df40debede1eb843f7c3841e9]: Commencement: S. 18 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-f51d8272bbbc10edc7d60f79fb1f5f5f]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2026/5/section/18) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-4ed92585e84d328a6c649ee5183cfd33]: Commencement: S. 19 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-b0eae47f0e6c546442a9c7290efd6d8b]: Commencement: S. 20 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-60a96e2766d20977d051c3fc08038dd4]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2026/5/section/20) in force at 1.10.2026 for specified purposes by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-c51274d18684f80f399e351cb4216895]: Commencement: S. 21 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-43da04d32f22a368af84b5a1b943407a]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2026/5/section/21) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-3957f99f7af404b2cc3bbc5051db9d6a]: Commencement: S. 22 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-96f59badfa0eb27119398712d187d065]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2026/5/section/22) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-cd3f48087bdfed2f6f53935fa17e834b]: Commencement: S. 23 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-f44d5131b9c57085bc13f0741b9cfc42]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2026/5/section/23) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-4e14170bf7a701e32ae837da9a65e21e]: Commencement: S. 24 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-6cf33d23c16b22925c0b481396e33191]: Commencement: S. 25 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-f3c739c0110d03046c6a2b16d2c333b4]: Commencement: S. 26 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-08fd7845b6b34ea6ecda100764e0c8f9]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2026/5/section/26) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-26321442c10ddff89420c8c509aa67c7]: Commencement: S. 27 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-cbdb1690d229dcd85321e99ef5a3237b]: Commencement: S. 28 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-e0212b530bd8f58fc309fe02e3e64b14]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2026/5/section/28) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-cf82e01841032e528d5249424197fa4d]: Commencement: S. 29 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-a4c3899011f7ac14dc9a729ec8fd8c19]: Commencement: S. 30 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-5a35995c0e955b1215b369ec397b05c9]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2026/5/section/30) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-40ed3be84c0a64fbe96d160052379780]: Commencement: S. 31 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-64cd2ab1ca3d720915ca246391b839a6]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2026/5/section/31) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+
+[^key-270f5695689cfc1a9c56f57064d9ff9d]: Commencement: S. 32 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-ffc8399e4c17d4c393e676459364673e]: Commencement: S. 33 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-bc8931a3de2463eaad869bec7c7168db]: Commencement: S. 34 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-72b8e78949f2eb0a32f7684ce146427b]: Commencement: S. 35 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+
+[^key-4d5558a0d013da40ba99bef24b5a773c]: Commencement: S. 36 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
+
+[^key-012242ff4ddff13cc315ef3ce3ca3a5f]: Commencement: S. 37 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
+
+[^key-2beb63ace6723826196d4bd212221737]: Commencement: S. 38 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
+
+[^key-25a08424e1edfafee9069a0b5469c4cf]: Commencement: S. 39 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
+
+[^key-90f956b3e670680276698dfb60ec482e]: Commencement: S. 40 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)

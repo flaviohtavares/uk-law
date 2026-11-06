@@ -1,0 +1,44 @@
+---
+title: Antisocial Behaviour etc. (Scotland) Act 2004, section 108
+act: Antisocial Behaviour etc. (Scotland) Act 2004
+section: '108'
+status: revised-with-pending-changes
+text_date: '2026-03-26'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2004/8/section/108
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Antisocial Behaviour etc. (Scotland) Act 2004, section 108
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-03-26. See https://www.legislation.gov.uk/changes/affected/asp/2004/8
+>
+> Extent: Scotland.
+
+## 108. Procedural requirements
+
+*Extent: S*
+
+(1) Before making, varying or revoking a parenting order, a court shall—
+
+- (a) having regard to the age and maturity of the child, so far as practicable—
+  - (i) give the child an opportunity to indicate whether the child wishes to express views; and
+  - (ii) if the child so wishes, give the child an opportunity to express those views;
+- (b) give the parent the opportunity to be heard;
+- (c) obtain information about the family circumstances of the parent and the likely effect of the order on those circumstances.
+
+(2) Before making a parenting order, the court shall explain in ordinary language—
+
+- (a) the effect of the order and of the requirements proposed to be included in it;
+- (b) the consequences of failing to comply with the order;
+- (c) the powers the court has under section 105; and
+- (d) the entitlement of the parent to appeal against the making of the order.
+
+(3) Before varying or revoking a parenting order, the court shall explain in ordinary language the effect of the variation or, as the case may be, revocation.
+
+(4) Subsections (2) and (3) apply only where the parent is present in court.
+
+(5) Failure to comply with subsection (2) or (3) shall not affect the validity of the order made.
+
+(6) Without prejudice to the generality of subsection (1)(a), a child who is at least 12 years of age shall be presumed to be of sufficient age and maturity to form a view.

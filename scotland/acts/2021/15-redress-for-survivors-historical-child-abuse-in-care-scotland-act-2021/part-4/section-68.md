@@ -1,0 +1,43 @@
+---
+title: Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021, section 68
+act: Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021
+section: '68'
+status: revised
+text_date: '2022-02-09'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2021/15/section/68
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021, section 68
+
+> Text as at 2022-02-09.
+>
+> Extent: Scotland.
+
+## 68. Review of determination made under section 66(3)[^key-134d9c564c382c33fa3448f9993bd456]
+
+*Extent: S*
+
+(1) A nominated beneficiary who is notified of a determination under section 66(3) that the nominated beneficiary is not going to be invited to take over the application may request a review of the determination.
+
+(2) A request for a review must—
+
+- (a) be made to the Scottish Ministers,
+- (b) be made before the end of the period of 8 weeks beginning with the date on which notice of the determination was received by the nominated beneficiary,
+- (c) be made in such form, if any, as Ministers require,
+- (d) specify why a review is being requested, and
+- (e) contain or be accompanied by any information the nominated beneficiary considers relevant.
+
+(3) The Scottish Ministers must, as soon as reasonably practicable after receiving a request for a review, provide the request, and any information accompanying it, to Redress Scotland.
+
+(4) A review may be conducted despite the request for it not being made within the period specified in subsection (2)(b) if Redress Scotland is satisfied that the nominated beneficiary has a good reason for not requesting a review sooner.
+
+(5) The Scottish Ministers must publicise any requirements which are for the time being set under subsection (2)(c).
+
+(6) Sections 55, 56 and 59(1) to (5) apply for the purposes of a review under this section as they apply for the purposes of a review under section 54, subject to the modification that the reference in section 59(1) to a determination being made under section 57 is to be read as a reference to a determination being made under section 69.
+
+## Annotations
+
+[^key-134d9c564c382c33fa3448f9993bd456]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2021/15/section/68) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

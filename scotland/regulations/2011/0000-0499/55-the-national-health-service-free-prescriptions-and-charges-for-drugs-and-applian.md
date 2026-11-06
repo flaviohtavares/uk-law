@@ -1,0 +1,390 @@
+---
+title: The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011
+id: ssi/2011/55
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-01-31'
+text_date: '2024-10-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/55
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/55/pdfs/ssien_20110055_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/55/pdfs/ssi_20110055_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/55/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011
+
+> Text as at 2024-10-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 55
+
+National Health Service
+
+The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011
+
+Made
+
+31st January 2011
+
+Laid before the Scottish Parliament
+
+2nd February 2011
+
+Coming into force
+
+1st April 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 17E, 17K, 17N, 17P, 25(2), 27, 28(1), 69, 75(a), 75A, 105(7) and 108(1) of the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and Commencement[^key-8d6b0e88c3f8fdfcb9a93baff6af066e]
+
+These Regulations may be cited as the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011 and come into force on 1st April 2011.
+
+## 2. Interpretation[^key-160a7c00837decf0996b012f870b8bcc]
+
+(1) In these Regulations—
+
+- “the Act” means the National Health Service (Scotland) Act 1978;
+- [^key-b095dcb67d7532e76a170b4fa46a21a1]...
+- “the 2003 Regulations” means the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^f00003];
+- “the 2009 Regulations” means the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00004];
+- “the 2015 Regulations” means the National Health Service (Charges for Drugs and Appliances) Regulations 2015;[^key-636fadd64e93db911bd55b1d208c3620]
+- “accepted disablement” means physical or mental injury or disease which is accepted by the Secretary of State as attributable to, or aggravated by, service in the armed forces of the Crown or such other service as the Secretary of State may determine;
+- “appliance” means an appliance other than a contraceptive appliance which is a listed appliance within section 27(1) of the Act;
+- “drugs” includes medicines but does not include contraceptive substances;
+- “elastic hosiery” means anklet, legging, knee-cap, below knee or thigh stocking;
+- “English prescription form” means—
+  - (a) a form provided and issued under arrangements having effect in England, equivalent to those in place for a Scottish prescription form, to enable a person to obtain services in England which are equivalent to pharmaceutical services;
+  - (b) a form on which domiciliary oxygen has been ordered by a prescriber in England for a patient normally resident there;
+- “entitlement card” means a document issued by a Health Board[^f00005] to a qualifying patient for the purposes of these Regulations;
+- “equivalent prescription form” means—
+  - (a) a form provided and issued under arrangements having effect in Wales or Northern Ireland, equivalent to those in place for a Scottish prescription form, to enable a person to obtain services in Wales or Northern Ireland (as the case may be) which are equivalent to pharmaceutical services;
+  - (b) a form on which domiciliary oxygen has been ordered by a prescriber in Wales for a patient normally resident there;
+- “exemption” means any exemption provided for in regulation 4;
+- “exemption certificate” means any certificate provided under or referred to in regulation 4;
+- “patient” means any person who applies to a pharmacist for the provision of pharmaceutical services and includes for the purpose of these Regulations a person acting on behalf of such a person;
+- “pharmaceutical list” has the same meaning as in the 2009 Regulations;
+- “pharmaceutical services” means services provided under section 27 of the Act;
+- “pharmacist” means any person who provides pharmaceutical services;
+- “prescriber” has the same meaning as in the 2009 Regulations;
+- “qualifying patient” means a person who—
+  - (a) is ordinarily resident in Scotland; and
+  - (b) receives primary medical services in England under the National Health Service Act 2006[^f00006];
+- “Scottish prescription form” means a form provided by the Agency[^f00007] on which the provision of pharmaceutical services can be ordered, or equivalent data created on an electronic form.
+
+(2) For the purposes of these Regulations—
+
+- (a) the supply of quantities of the same drug in more than one container against an order on a single English prescription form is deemed to be the supply of only one quantity of a drug;
+- (b) the supply against an order on—
+  - (i) a single English prescription form of more than one appliance of the same type; or
+  - (ii) a single English prescription form of two or more component parts of the same appliance,
+
+  is deemed to be the supply of only one appliance, however any piece of elastic hosiery is deemed to be a separate appliance; and
+- (c) the supply of quantities of the same drug in more than one strength against an order on a single English prescription form (or more than one form where the forms presented have been ordered by the same person, for the patient, on the same date) is deemed to be the supply of only one quantity of a drug.
+
+## 3. Supply of drugs and appliances[^key-c4b5bc5c2df34a6d7b140c5bee2c8dae]
+
+(1) A pharmacist who provides pharmaceutical services to a patient must not make or recover any charge from the patient, where the patient presents a Scottish prescription form or equivalent prescription form.
+
+(2) Except as provided for in paragraph (3), a pharmacist who provides pharmaceutical services to a patient must, where the patient presents an English prescription form, make and recover from the patient—
+
+- (a) in respect of the supply of an item of elastic hosiery, the charge that is specified in regulation 3(1)(a) of the 2015 Regulations[^key-bb563e78170828d9a6e842c1401fc2f6] as in force at 1 May 2024[^key-11a163792350571aeb8bef8904c72796];
+- (b) in respect of the supply of each other appliance [^key-17e8a1640f52d5d0f495ea119379b513]..., the charge that is specified in regulation 3(1)(b) of the 2015 Regulations[^key-7da5d87f6951cb918ea3e10321723aed] as in force at 1 May 2024;
+- (c)[^key-e17d9314fc8a2281ff655c9d6c369c76] in respect of the supply of each quantity of a drug, the charge that is specified in regulation 3(1)(c) of the 2015 Regulations as in force at 1 May 2024.
+
+(3) A pharmacist must not make or recover any charge specified in paragraph (2) where—
+
+- (a) a declaration of entitlement to exemption on an English prescription form is duly completed and signed by or on behalf of the patient;
+- (b) the patient presents an English prescription form that relates to a supply, replacement or repair referred to in paragraph 1(1) of Schedule 11 to the Act (occasion where no charge is to be made) but only in respect of the supply, replacement or repair to which that paragraph relates; or
+- (c) the patient presents an English prescription form together with a valid entitlement card.
+
+(4) Where a quantity of a drug ordered on an English prescription from is to be supplied in instalments during a period of not more than 14 days, only one charge is payable and it must be paid upon the supply of the first instalment.
+
+(5) A pharmacist is under no obligation to provide pharmaceutical services in respect of an English prescription form unless the patient has paid the pharmacist any charge due to be paid under paragraph (2), or paragraph (3) applies.
+
+(6) A pharmacist who makes and recovers a charge under paragraph (2) must, if required by the patient, give the patient a receipt for the amount paid, on a form provided for that purpose by the Health Board, which contains a declaration in support of an application for a refund.
+
+(7) Any sum which a Health Board is under a duty to pay or cause to be paid to a pharmacist in respect of the provision of pharmaceutical services is reduced by the relevant sum specified in paragraph (2).
+
+## 4. Exemptions[^key-d031c333fad87869daf6f06fb127cb9d]
+
+(1) No charge is payable under these Regulations by—
+
+- (a) a person who is under the age of 16 years;
+- (b) a person who is under the age of 19 years and is receiving qualifying full time education within the meaning of paragraph 7 (full time education) of Schedule 11 to the Act[^f00010];
+- (c) a person who is aged 60 years of age or over;
+- (d) a woman to whom a Health Board has issued an exemption certificate on the ground that she is an expectant mother or has within the last 12 months given birth to a live child or a child registrable as still-born under the Registration of Births, Deaths and Marriages (Scotland) Act 1965[^f00011];
+- (e) a woman with a valid exemption certificate, issued under arrangements for exemptions from charges for drugs and appliances in England or Wales, on the ground that she is an expectant mother or has within the last 12 months given birth to a live child or a child registrable as still-born under the Births and Deaths Registration Act 1953[^f00012];
+- (f) a person with a valid exemption certificate on the ground that the person is suffering from one or more of the following conditions:—
+  - (i) permanent fistula (including caecostomy, colostomy, laryngostomy or ileostomy) requiring continuous surgical dressing or an appliance;
+  - (ii) forms of hypoadrenalism (including Addison’s disease) for which specific substitution therapy is required;
+  - (iii) diabetes insipidus and other forms of hypopituitarism;
+  - (iv) diabetes mellitus, except where treatment is by diet alone;
+  - (v) hypoparathyroidism;
+  - (vi) myasthenia gravis;
+  - (vii) myxoedema;
+  - (viii) epilepsy requiring continuous anti-convulsive therapy; or
+  - (ix) a continuing physical disability which prevents a patient from leaving a residence without the help of another person;
+- (g) a person with a valid exemption certificate issued under arrangements for exemptions from charges for drugs and appliances in England or Wales;
+- (h) a person to whom the Secretary of State has issued a valid exemption certificate in respect of the supply of drugs and appliances for the treatment of accepted disablement but only in respect of those supplies to which the certificate relates;
+- (i) a person with a valid pre-payment certificate issued under arrangements having effect in England in respect of charges for drugs and appliances;
+- (j) a person who presents an English prescription form that relates to a supply, replacement or repair referred to in paragraph 1(1) of Schedule 11 to the Act, but only in respect of the supply, replacement or repair to which that paragraph relates;
+- (k) a person with a valid entitlement card.
+
+(2) Except in the case of paragraph (1)(j) no exemption will be granted unless either—
+
+- (a) a declaration of entitlement to exemption on an English prescription form presented to a pharmacist is duly completed and signed by or on behalf of the person claiming the exemption; or
+- (b) in the case of paragraph (1)(k) the patient presents an English prescription form together with a valid entitlement card.
+
+(3) A person who wishes to claim exemption under paragraph (1)(d) or (f) must apply to the Health Board for an exemption certificate on a form provided by the Board for that purpose.
+
+(4) If the Health Board is satisfied that an applicant is entitled to exemption from charges under paragraph (1)(d), it must issue an exemption certificate which will have effect in the case of an expectant mother until the end of her pregnancy, and—
+
+- (a) where she gives birth to a child registrable as still-born under the Registration of Births, Deaths and Marriages (Scotland) Act 1965, until the end of the period of 12 months beginning with the expected date of confinement; or
+- (b) in the case of a mother who has given birth to a live child, until the end of the period of 12 months beginning with the date of birth of that child.
+
+(5) If a Health Board is satisfied that an applicant is entitled to exemption under paragraph (1)(f), it must issue an exemption certificate to the applicant which will have effect for such period as it may determine.
+
+(6) A person who wishes to claim exemption under paragraph (1)(k) must apply to the Agency for an entitlement card on a form provided by the Agency for that purpose.
+
+(7) The Agency, on being satisfied that the person is a qualifying patient, must issue to that person an entitlement card which will be valid for a period of 5 years from the date of issue.
+
+(8) The charges which may be made and recovered by virtue of these Regulations are subject to the provisions of the 2003 Regulations.
+
+## 5. Refunds of charges paid[^key-42e68ee81ee07c8ff39e0c51d6dc266d]
+
+(1) Where a charge has been paid under these Regulations by or on behalf of a person who was at the time of payment eligible for exemption from that charge, a claim for a refund may be made by or on behalf of that person.
+
+(2) A claim under this regulation for a refund of charges must be—
+
+- (a) made on a form provided for that purpose by the Scottish Ministers, accompanied by the appropriate receipt and declaration in support of the claim;
+- (b) made not less than 1 month and not more than 3 months after the date on which the charge was paid; and
+- (c) made to the Health Board which received payment of the charge.
+
+(3) Any refund will be made in such manner and subject to such conditions as the Scottish Ministers may determine.
+
+## 6. Consequential amendments[^key-099755cba759bc41ad1c07b174613674]
+
+The amendments listed in the Schedule have effect.
+
+## 7. Revocations[^key-cbd2de56f39a10b85744f72d7e9b2b77]
+
+The following regulations are revoked:—
+
+- (a) the National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008[^f00013];
+- (b) the National Health Service (Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2008[^f00014];
+- (c) the National Health Service (Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2009[^f00015];
+- (d) the National Health Service (Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2010[^f00016];
+- (e) the National Health Service (Charges for Drugs and Appliances) (Scotland) Amendment (No. 2) Regulations 2010[^f00017].
+
+SHONA ROBISON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+31st January 2011
+
+## SCHEDULE — CONSEQUENTIAL AMENDMENTS
+
+Regulation 6
+
+### 1. The National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998[^key-d0883813dc054c0b0b125de330d5442f]
+
+In regulation 8(3)(e) (a person whose resources are treated as being less than that person’s requirements) of the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998[^f00018] for “referred to in regulation 3(1)(b)(ii)” to “Regulations 2008”, substitute “referred to in regulation 3(2)(b) (supply of drugs and appliances) of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011[^f00019]”.
+
+### 2. The National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^key-07da64afa2a81e180472a69eb59325c1]
+
+(1) The National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003[^f00020] are amended as follows.
+
+(2) In regulation 2 (interpretation) for the definition “the 2008 Regulations” substitute—
+
+> - “the 2011 Regulations” means the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011;
+
+.
+
+(3) In regulation 4(2)(c) (a described person entitled to full remission and payment) for “regulation 3(1)(b)(ii)” to “2008 Regulations” substitute “regulation 3(2)(b) (supply of drugs and appliances) of the 2011 Regulations”.
+
+(4) In regulation 5 (persons entitled to remission in part or payment in part)—
+
+- (a) in paragraph (2) (application of regulation 5) omit “charges for wigs” to “Part II of the Act),”; and
+- (b) in paragraph (4) (relevant charge) omit sub-paragraph (a) (charge for appliance under section 69(1)).
+
+(5) In regulation 11(6)(a)(i) (authorisation for repayment of relevant charges made by Health Board) omit “other than a charge” to “the 2008 Regulations”.
+
+### 3. The National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^key-e25972476d1250aeb9b092b374b42c55]
+
+(1) The National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^f00021] are amended as follows.
+
+(2) In regulation 2 (interpretation), omit the definition “the 2008 Regulations”.
+
+(3) In paragraph 3 of Schedule 1 (undertakings to be included in an application for inclusion in a primary medical services performers’ list) omit sub-paragraph (f).
+
+### 4. The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^key-31abc36d89fa5098cdd8adb637aeb2c1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^key-40cb8700ddbfbd1cb49640a27d0ee806]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. The National Health Service (Pharmaceutical Services, Charges for Drugs and Appliances and Charges to Overseas Visitors) (Scotland) Amendment Regulations 2009[^key-d89de884140672e7de7cc2c37b45b45a]
+
+Omit regulation 3 (amendment of the National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008) of the National Health Service (Pharmaceutical Services, Charges for Drugs and Appliances and Charges to Overseas Visitors) (Scotland) Amendment Regulations 2009[^f00024].
+
+### 7. The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^key-1f4f4a4fe7fe8ac3f98f5fb3515c0622]
+
+(1) The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00025] are amended as follows.
+
+(2) In regulation 2(1) (interpretation) in the definition of “prescription form”—
+
+- (a) in sub-paragraph (a)—
+  - (i) after “(dd) a prescriber;” omit “and”; and
+  - (ii) omit head (ii); and,
+- (b) in sub-paragraph (c)(ii) for “which” substitute “a form which contains an order by a prescriber in England,”.
+
+(3) In Schedule 1 (terms of service for pharmacists and pharmacy contractors)—
+
+- (a) for paragraph 4(1)(b) and the full out to paragraph 4(1) substitute—
+
+  > - (b) subject to sub-paragraphs (4) and (9), the pharmacist receives from the ePharmacy service an electronic prescription form which contains an order of a kind specified in sub sub-paragraph (a)(i)-(iv);
+  >
+  > and the patient named on the form or a person on the patient’s behalf, requests the provision of drugs and appliances in accordance with that prescription and, in the case of a form provided and issued under arrangements having effect in England, completes and signs a declaration of entitlement to exemption or a statement that a charge has been paid, a pharmacist shall, with reasonable promptness, provide the drugs so ordered, and such of the appliances so ordered as the pharmacist supplies in the normal course of business and any drugs so specified shall be in a suitable container.
+
+  ;
+- (b) after paragraph 4(1A) insert—
+
+  > (1B) A pharmacist is under no obligation to provide pharmaceutical services in respect of a prescription form issued under arrangements having effect in England unless the patient has paid any charge due to be paid by virtue of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011.
+
+  ;
+- (c) for paragraph 4(14) substitute—
+
+  > (14)
+  >
+  > - (a) For the purposes of this sub-paragraph—
+  >
+  > - “prescription form” is limited to a prescription form provided and issued under arrangements having effect in England;
+  > - “2011 Regulations” means the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011;
+  > - “2003 Regulations” means the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003.
+  >   - (a) Subject to paragraphs (c) and (d), a pharmacist before supplying a prescribed item to any person presenting a prescription form which—
+  >     - (i) has a declaration in terms of regulation 4(2)(a) of the 2011 Regulations claiming charge exemption; or
+  >     - (ii) has a declaration claiming charge remission under the 2003 Regulations,
+  >
+  >     shall request evidence of a patients entitlement to such exemption or remission.
+  >   - (b) Paragraph (b) shall not apply in respect of claims for exemption under regulation 4(1)(a) or (c) of the 2011 Regulations where the person’s date of birth has been printed by means of a computer on the prescription form.
+  >   - (c) Paragraph (b) shall not apply in respect of a declaration relating to a claim for exemption under regulation 4(1)(a)-(h) of the 2011 Regulations where the pharmacist has information in the pharmacist’s possession at the time of supplying the item which confirms the patient is entitled to the exemption claimed.
+  >   - (d) Where the person presenting the prescription form does not show evidence of entitlement and the pharmacist, in respect of a declaration relating to a claim for exemption made under regulation 4(1)(a)-(h) of the 2011 Regulations does not have evidence in the pharmacist’s possession to confirm that the patient is entitled to make that claim, the pharmacist shall mark that patient’s prescription form accordingly before supplying the prescribed item.
+
+  .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations provide for the revocation of the National Health Service (Charges for Drugs and Appliances) (Scotland) Regulations 2008, (“the 2008 Regulations”) thereby abolishing prescription charges payable in relation to Scottish prescription forms which are presented to pharmacists in Scotland and abolishing charges payable in relation to Welsh prescription forms which are presented to pharmacists in Scotland. (Charges payable in relation to Northern Irish prescription forms which are presented to pharmacists in Scotland were abolished by virtue of the National Health Service (Charges for Drugs and Appliances) (Scotland) Amendment (No. 2) Regulations 2010 ([S.S.I. 2010/366](https://www.legislation.gov.uk/ssi/2010/366))).
+
+Regulation 3 retains the charges payable in relation to English prescription forms which are presented to pharmacists in Scotland.
+
+Regulation 4 provides for exemptions from charges for certain patients.
+
+Regulation 5 provides that any person who has paid a charge but who was entitled to be exempt from that charge can claim a refund of such a charge.
+
+Regulation 6 introduces the Schedule which makes consequential amendments to other enactments made necessary through the revocation of the 2008 Regulations and the retention of charges against English prescription forms.
+
+Regulation 7 revokes the 2008 Regulations and those regulations which made amendments to the 2008 Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29). Section 17E was inserted by the National Health Service (Primary Care) Act [1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46), (the “1997 Act”), section 22 and amended by the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8), (the “1999 Act”), Schedule 5, paragraph 1, the Primary Medical Services (Scotland) Act [2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1) (the “2004 Act”) section 2 and by [S.I. 2003/1250](https://www.legislation.gov.uk/uksi/2003/1250); sections 17K and 17N were inserted by the 2004 Act, section 4; Section 17P was inserted by the 2004 Act, section 5; section 25(2) was substituted by the [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), section 15; section 27 was amended by the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53); (the “1980 Act”), section 20, the National Health Service Amendment Act [1986 (c.66)](https://www.legislation.gov.uk/ukpga/1986/66), (the “1986 Act”), the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), (the “1990 Act”), section 66 and Schedule 19, paragraph 7, the Medicinal Products: Prescriptions by Nurses etc. Act [1992 (c.28)](https://www.legislation.gov.uk/ukpga/1992/28), section 3, the 1997 Act, Schedule 2, paragraph 44 and the Health and Social Care Act [2001 (c.15)](https://www.legislation.gov.uk/ukpga/2001/15), section 44 and by [S.I. 1987/2202](https://www.legislation.gov.uk/uksi/1987/2202), [2003/1590](https://www.legislation.gov.uk/uksi/2003/1590), [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011) and [2010/231](https://www.legislation.gov.uk/uksi/2010/231); section 28(1) was amended by the 1986 Act, section 3 and by the 2004 Act, schedule 1, paragraph 1; section 75A was inserted by the Social Security Act [1988 (c.7)](https://www.legislation.gov.uk/ukpga/1988/7), section 14 and amended by the Health and Medicines Act [1988 (c.49)](https://www.legislation.gov.uk/ukpga/1988/49), section 25, the 1990 Act, section 66 and Schedule 9, paragraph 19, the 1997 Act, Schedule 2 and by [S.I. 1998/2385](https://www.legislation.gov.uk/uksi/1998/2385) and [S.S.I. 2010/283](https://www.legislation.gov.uk/ssi/2010/283); section 105 was amended by the 1980 Act, Schedule 6, paragraph 5 and Schedule 7, the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), section 29, Schedule 9, paragraph 24 and the 1999 Act, Schedule 4, paragraph 60; section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. See section 66(1) of the 1999 Act in relation to any provisions of that Act being taken to be a pre-commencement enactment within the meaning of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^key-8d6b0e88c3f8fdfcb9a93baff6af066e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^key-160a7c00837decf0996b012f870b8bcc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/55/regulation/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^key-b095dcb67d7532e76a170b4fa46a21a1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/55/regulation/2/1) omitted (17.5.2015) by virtue of [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/160)](https://www.legislation.gov.uk/ssi/2015/160), [regs. 1](https://www.legislation.gov.uk/ssi/2015/160/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/160/regulation/2/2/a)
+
+[^f00003]: Footnote: [S.S.I. 2003/460](https://www.legislation.gov.uk/ssi/2003/460) as amended by [S.S.I. 2004/102](https://www.legislation.gov.uk/ssi/2004/102) and [160](https://www.legislation.gov.uk/ssi/2004/160), [2005/3](https://www.legislation.gov.uk/ssi/2005/3) and [179](https://www.legislation.gov.uk/ssi/2005/179), [2006/142](https://www.legislation.gov.uk/ssi/2006/142), [183](https://www.legislation.gov.uk/ssi/2006/183) and [440](https://www.legislation.gov.uk/ssi/2006/440), [2007/225](https://www.legislation.gov.uk/ssi/2007/225), [259](https://www.legislation.gov.uk/ssi/2007/259) and [391](https://www.legislation.gov.uk/ssi/2007/391), [2008/27](https://www.legislation.gov.uk/ssi/2008/27), [105](https://www.legislation.gov.uk/ssi/2008/105), [147](https://www.legislation.gov.uk/ssi/2008/147), [288](https://www.legislation.gov.uk/ssi/2008/288) and [390](https://www.legislation.gov.uk/ssi/2008/390), [2009/124](https://www.legislation.gov.uk/ssi/2009/124) and [2010/94](https://www.legislation.gov.uk/ssi/2010/94) and [319](https://www.legislation.gov.uk/ssi/2010/319).
+
+[^f00004]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183) as amended by [S.S.I. 2009/209](https://www.legislation.gov.uk/ssi/2009/209), [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231) and [S.S.I. 2010/128](https://www.legislation.gov.uk/ssi/2010/128) and [2011/32](https://www.legislation.gov.uk/ssi/2011/32).
+
+[^key-636fadd64e93db911bd55b1d208c3620]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/55/regulation/2/1) inserted (17.5.2015) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/160)](https://www.legislation.gov.uk/ssi/2015/160), [regs. 1](https://www.legislation.gov.uk/ssi/2015/160/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/160/regulation/2/2/b)
+
+[^f00005]: Footnote: Health Board is defined in section 108(1) of the National Health Service (Scotland) Act [1978 (c.29)](https://www.legislation.gov.uk/ukpga/1978/29) (the “1978 Act”), as relevantly amended by the 1990 Act, section 66, Schedule 9, paragraph 19.
+
+[^f00006]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
+
+[^f00007]: Footnote: The Agency is defined in section 108(1) of the 1978 Act.
+
+[^key-c4b5bc5c2df34a6d7b140c5bee2c8dae]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/55/regulation/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^key-bb563e78170828d9a6e842c1401fc2f6]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2011/55/regulation/3/2/a) substituted (17.5.2015) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/160)](https://www.legislation.gov.uk/ssi/2015/160), [regs. 1](https://www.legislation.gov.uk/ssi/2015/160/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2015/160/regulation/2/3/a/i)
+
+[^key-11a163792350571aeb8bef8904c72796]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2011/55/regulation/3/2) substituted (31.10.2024) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/233)](https://www.legislation.gov.uk/ssi/2024/233), [regs. 1](https://www.legislation.gov.uk/ssi/2024/233/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/233/regulation/2/2)
+
+[^key-17e8a1640f52d5d0f495ea119379b513]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2011/55/regulation/3/2/b) omitted (17.5.2015) by virtue of [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/160)](https://www.legislation.gov.uk/ssi/2015/160), [regs. 1](https://www.legislation.gov.uk/ssi/2015/160/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2015/160/regulation/2/3/b/i)
+
+[^key-7da5d87f6951cb918ea3e10321723aed]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2011/55/regulation/3/2/b) substituted (17.5.2015) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/160)](https://www.legislation.gov.uk/ssi/2015/160), [regs. 1](https://www.legislation.gov.uk/ssi/2015/160/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2015/160/regulation/2/3/b/ii)
+
+[^key-e17d9314fc8a2281ff655c9d6c369c76]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/ssi/2011/55/regulation/3/2/c) inserted (17.5.2015) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/160)](https://www.legislation.gov.uk/ssi/2015/160), [regs. 1](https://www.legislation.gov.uk/ssi/2015/160/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2015/160/regulation/2/3/c)
+
+[^key-d031c333fad87869daf6f06fb127cb9d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/55/regulation/4) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^f00010]: Footnote: Paragraph 7 of Schedule 11 was inserted by the 1980 Act, section 26 and Schedule 5, paragraph 8.
+
+[^f00011]: Footnote: [1965 c.49](https://www.legislation.gov.uk/ukpga/1965/49).
+
+[^f00012]: Footnote: [1953 c.20](https://www.legislation.gov.uk/ukpga/1953/20).
+
+[^key-42e68ee81ee07c8ff39e0c51d6dc266d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/55/regulation/5) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^key-099755cba759bc41ad1c07b174613674]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/55/regulation/6) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^key-cbd2de56f39a10b85744f72d7e9b2b77]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/55/regulation/7) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^f00013]: Footnote: [S.S.I. 2008/27](https://www.legislation.gov.uk/ssi/2008/27).
+
+[^f00014]: Footnote: [S.S.I. 2008/105](https://www.legislation.gov.uk/ssi/2008/105).
+
+[^f00015]: Footnote: [S.S.I. 2009/37](https://www.legislation.gov.uk/ssi/2009/37).
+
+[^f00016]: Footnote: [S.S.I. 2010/1](https://www.legislation.gov.uk/ssi/2010/1).
+
+[^f00017]: Footnote: [S.S.I. 2010/366](https://www.legislation.gov.uk/ssi/2010/366).
+
+[^key-d0883813dc054c0b0b125de330d5442f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^f00018]: Footnote: [S.I. 1998/642](https://www.legislation.gov.uk/uksi/1998/642), as relevantly amended in relation to these amendments by [S.S.I. 2004/168](https://www.legislation.gov.uk/ssi/2004/168), [2006/138](https://www.legislation.gov.uk/ssi/2006/138) and [2008/106](https://www.legislation.gov.uk/ssi/2008/106).
+
+[^f00019]: Footnote: [S.S.I. 2011/55](https://www.legislation.gov.uk/ssi/2011/55).
+
+[^key-07da64afa2a81e180472a69eb59325c1]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^f00020]: Footnote: [S.S.I. 2003/460](https://www.legislation.gov.uk/ssi/2003/460), as relevantly amended in relation to these amendments by [S.S.I. 2007/259](https://www.legislation.gov.uk/ssi/2007/259) and [2008/27](https://www.legislation.gov.uk/ssi/2008/27).
+
+[^key-e25972476d1250aeb9b092b374b42c55]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^f00021]: Footnote: [S.S.I. 2008/114](https://www.legislation.gov.uk/ssi/2008/114), as relevantly amended in relation to these amendments by [S.S.I. 2008/27](https://www.legislation.gov.uk/ssi/2008/27).
+
+[^key-31abc36d89fa5098cdd8adb637aeb2c1]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/4) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+
+[^key-40cb8700ddbfbd1cb49640a27d0ee806]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/5) revoked (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2018/67/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
+
+[^key-d89de884140672e7de7cc2c37b45b45a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/6) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^f00024]: Footnote: [S.S.I. 2009/177](https://www.legislation.gov.uk/ssi/2009/177).
+
+[^key-1f4f4a4fe7fe8ac3f98f5fb3515c0622]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2011/55/schedule/paragraph/7) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/55/regulation/1)
+
+[^f00025]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183).

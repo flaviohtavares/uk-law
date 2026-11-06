@@ -1,0 +1,530 @@
+---
+title: The Lochboisdale and Gasay Port (Harbour Empowerment) Order 2016
+id: ssi/2016/156
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-03-17'
+text_date: '2017-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/156
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/156/pdfs/ssi_20160156_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/156/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Lochboisdale and Gasay Port (Harbour Empowerment) Order 2016
+
+> Text as at 2017-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2016 No. 156
+
+Harbours, Docks, Piers And Ferries
+
+The Lochboisdale and Gasay Port (Harbour Empowerment) Order 2016
+
+Made
+
+17th March 2016
+
+Coming into force
+
+18th March 2016
+
+The Scottish Ministers (the “Ministers”) make the following Order in exercise of the powers conferred by section 16(1) and (6) of the Harbours Act 1964[^f00001] and all other powers enabling Ministers to do so.
+
+In accordance with section 16(1) of that Act, Lochboisdale Development Limited (the “Applicant”) has made a written application to Ministers for the making by Ministers of this harbour empowerment order.
+
+In accordance with section 16(5) of that Act, Ministers are satisfied that the making of this harbour empowerment order is desirable in the interests of facilitating the efficient and economic transport of goods or passengers by sea.
+
+Notices have been published by the Applicant in accordance with the requirements of paragraph 10 of Schedule 3 to that Act.
+
+The provisions of paragraph 17 of that Schedule have been satisfied. All objections to the application have been withdrawn or paragraph 18(1A) of that Schedule applied in respect of those objections.
+
+In accordance with paragraph 19(1) of that Schedule, Ministers have considered—
+
+- (a) the result of the consultations under paragraph 15 of that Schedule;
+- (b) any objections made and not withdrawn;
+- (c) any written representations submitted to Ministers by the Applicant or any objector in elaboration of the application or, as the case may be, objection.
+
+In accordance with paragraph 19(2) of that Schedule, Ministers have decided to make this Order with modifications which do not appear to Ministers substantially to affect the character of the Order.
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement[^key-ce92eb701c9e211fbcc39b2671fe034b]
+
+This Order may be cited as the Lochboisdale and Gasay Port (Harbour Empowerment) Order 2016 and comes into force on the day following the day on which it is made.
+
+### 2. Interpretation[^key-17b58b33b5d4c2dc277691fb8dea561e]
+
+In this Order—
+
+- “the 1847 Act” means the Harbours, Docks and Piers Clauses Act 1847[^f00002];
+- “the Company” means Lochboisdale Development Limited, a Company incorporated in Scotland with registered number SC395179 and having its registered office at Oifis Storas Daliburgh, South Uist, Scotland, United Kingdom HS8 5SS;
+- “enactment” includes an Act of the Scottish Parliament and an instrument made under such an Act;
+- “General Direction” means a direction given under article 16;
+- “Government Department” includes any part of or any member of the staff of the Scottish Administration which shall have the meaning defined in section 126(6) of the Scotland Act 1998[^f00003];
+- “Harbour Master” means any person appointed as such by the Company, and includes that person’s deputies and assistants and any other person for the time being authorised by the Company to act, either generally or for a specific purpose, in the capacity of Harbour Master;
+- “Inner Harbour” means the harbour at Loch Boisdale, the limits of which are defined in the South Uist (Loch Boisdale and Loch Skipport) Piers Order 1878, as confirmed by the Pier and Harbour Orders Confirmation Act 1878;
+- “Inner Harbour Authority” means the Statutory Harbour Authority for the Inner Harbour;
+- “Level of High-Water” means the level of mean high-water springs;
+- “Master”, when used in connection with a Vessel, means any individual having command or charge of the Vessel;
+- “the Port” means the Lochboisdale and Gasay Port as comprised within the Port Limits and the Port Premises;
+- “Port Limits” means the limits of the Port as defined in article 4 (Limits of Port);
+- “Port Map” means the map referred to in article 4, two copies of which have been deposited at the offices of the Ministers at Victoria Quay, Edinburgh EH6 6QQ and one copy of which has been deposited at the registered office of the Company;
+- “Port Premises” means the existing quays, berths, landing places, and all other works, land and buildings within the Port Limits vested in or occupied or administered by the Company as part of the Port Undertaking;
+- “Port Undertaking” means the Port related business activities of the Company;
+- “Special Direction” means a direction given under article 18;
+- “Tidal Work” means so much of any work as is on, under or over tidal waters or tidal lands below the Level of High-Water including such works as are existing at the commencement of this Order; and
+- “Vessel” means a ship, boat, raft or water craft (including storage barges) of any description, however propelled or moved, and includes anything constructed or used to carry persons or goods by water and shall include but not be limited to a displacement craft, a personal waterjet craft intended for sports or leisure purposes, a seaplane on the surface of the water, a hydrofoil vessel, a hovercraft or any other amphibious vehicle and any other thing constructed or adapted for floating on or being submersed in water (whether permanently or temporarily).
+
+### 3. Incorporation of the Harbours, Docks, and Piers Clauses Act 1847[^key-db38899274685eb761ae883763fe9aed]
+
+(1) Sections 1 to 4, 27, 29, 32 to 41, 43 to 46, 51, 52, 54 to 59, 63 to 65 and 69 of the 1847 Act are incorporated with this Order subject to the modifications stated in paragraphs (2) to (6).
+
+(2) Sections 54 and 55 shall have effect subject to the modification that, for the words from “be liable to” to the end of the section, there are substituted the words “be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale”.
+
+(3) Section 56 shall be read as if the word “wreck” shall not include a vessel which is sunk, stranded or abandoned.
+
+(4) Section 59 shall have effect subject to the modification that, for the words from “be liable to” to the end of the section, there are substituted the words “be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale”.
+
+(5) Section 63 (penalty on vessels lying near the entrance of harbour or dock without permission) shall have effect subject to the modification that, for the words from “be liable to” to the end of the section, there are substituted the words “be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale”.
+
+(6) Section 65 (harbour master may remove vessel for purpose of repairing harbour or dock if the master neglects or refuses to do so) shall have effect subject to the omission of the words from “Provided always” to the end of the section.
+
+(7) In construing the provisions of the 1847 Act as incorporated with this Order—
+
+- (a) the expression “the special Act” means this Order, the expression “the undertakers” means the Company and the expression “the harbour, dock, or pier” shall mean the Port; and
+- (b) for the definition of the word “vessel” in section 3 (“interpretations in this and the special Act) there shall be substituted the definition of that word in paragraph (1) of article 2 (interpretation).
+
+## PART 2 — DUTIES AND POWERS OF THE COMPANY
+
+### 4. Limits of Port[^key-3de108832fd8ebda2779ce74e2b06cde]
+
+(1) The Limits of the Port within which the Company shall exercise jurisdiction as the harbour authority and within which the powers of the Harbour Master shall be exercisable shall be the area shown on the Port Map bounded by an imaginary line commencing at a point (1) at 57°09.092′N 007°15.996′W, then extending in a straight line in a generally southerly direction to point (2) at 57°08.474′N 007°15.998′W, then following the line of the Mean High Water Spring tide to point (3) at 57°08.581′N 007°16.915′W, then in a straight line in a generally westerly direction to point (4) at 57°08.604′N 007°18.076′W, then in a straight line in a generally northerly direction to point (5) at 57°08.912′N 007°18.079′W, then in a straight line in a generally north-easterly direction to point (6) at 57°08.949′N 007°18.026′W, then in a straight line in a generally north north-westerly direction to point (7) at 57°09.199′N 007°18.135′W, then in a straight line in a generally northerly direction to point (8) at 57°09.462′N 007°18.144′W, then following the line of the Mean High Water Spring tide returning to the point of commencement.
+
+(2) In paragraph (1), a reference to—
+
+- (a) a direction shall be construed as if the words “or thereabouts” were inserted after that direction;
+- (b) a point is a reference to the that point as shown on the Port Map; and
+- (c) a co-ordinate is a reference to World Geodetic System 1984 datum.
+
+(3) The area described in paragraph (1) is, for the purpose of identification only, shown edged by a broken black line and hatched in black on the Port Map and, in the event that there is any discrepancy between the description of that area and the area shown on the Port Map, the description shall prevail.
+
+### 5. General powers and duties in respect of Port[^key-f81240c5d567e5868340f1348568880d]
+
+(1) The Company may improve, maintain, regulate, manage, mark and light the Port and provide accommodation and port facilities.
+
+(2) For those purposes, and without prejudice to the generality of paragraph (1), the Company may construct, alter, demolish and reconstruct structures and works in the Port.
+
+(3) The Company shall, in consultation with the Inner Harbour Authority, implement an appropriate safety management system for the Port.
+
+(4) The Company shall be responsible for and make good to the Inner Harbour Authority all financial losses which are reasonably incurred or suffered by the Inner Harbour Authority as a result of—
+
+- (a) any building improvements carried out by the Company;
+- (b) the construction, maintenance, alteration or operation of any Tidal Work within the port or the failure of any Tidal Work;
+- (c) maintenance of the Company’s harbour or Tidal Work or dealing with any related remedial works.
+
+(5) The Company will take all reasonable steps to agree with the Inner Harbour Authority a general priority methodology for the passage of the lifeline ferry service vessel of South Uist when such Vessel is accessing the facility of the Inner Harbour Authority during the operation of the lifeline ferry service. The Company reserves the right to amend the priority methodology on the grounds of safety without reference to the Inner Harbour Authority or in exceptional circumstances to be determined by the Company at its sole discretion.
+
+(6) The Company shall not prevent or unreasonably restrict access to the Inner Harbour.
+
+(7) This article is without prejudice to any powers of the Company under or by virtue of any other enactment (including any other provision of this Order).
+
+### 6. Power to dredge[^key-8a9c247befeafbe0586c9657ca008738]
+
+(1) The Company may from time to time deepen, dredge, scour, cleanse, alter and improve the Port and so much of the bed, shores and channels of Loch Boisdale as lie within the Port Limits and within the approaches and channels leading to the Port Limits in the area so described for the purpose of affording the uninterrupted means of access to the Port or any part of it for the accommodation of Vessels or the egress from the Port of Vessels.
+
+(2) Subject to paragraph (3) the Company may use, appropriate or dispose of any material (other than any wreck within the meaning of Part IX of the Merchant Shipping Act 1995[^f00004]) from time to time dredged by it.
+
+(3) No material referred to in this article shall be—
+
+- (a) disposed of in contravention of any enactment relating to the disposal of waste; or
+- (b) deposited below the Level of High-Water except in such places and under such conditions and restrictions as may be approved or directed by Ministers.
+
+### 7. Restriction of works and dredging[^key-72ea3a5ab814b870d908bb2cb7336860]
+
+(1) No person other than the Company shall in the Port—
+
+- (a) alter, renew or maintain any works; or
+- (b) dredge;
+
+unless that person has contracted with the Company to do so.
+
+(2) Any person who contravenes this article shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3) The Company may by notice require a person who contravenes this article to remove, abate or rectify, within a reasonable time specified in the notice, any work, operation or omission to which the contravention relates and to restore the site to its former condition; and if that person fails to comply with the notice the Company may carry out the works so required and may recover the cost of so doing from that person.
+
+(4) This article shall not apply to dredging carried out by the Inner Harbour Authority in the approaches to the Inner Harbour, but before carrying out any dredging in the approaches to the Inner Harbour, the Inner Harbour Authority shall consult with the Company.
+
+### 8. Moorings[^key-4f66228282e90140b9db3c75eb9fd970]
+
+(1) The Company may provide, place, lay down, maintain, renew, use or remove such moorings, buoys and similar apparatus within the Port as it considers necessary or desirable for the convenience of Vessels.
+
+(2) The Company may from time to time contract with any person to place, lay down, maintain, renew or use moorings, buoys and similar apparatus for Vessels in the Port.
+
+(3) Any contract entered into under paragraph (2) above shall be valid for a period of no longer than three years commencing with the date on which it takes effect.
+
+(4) The Company may charge a reasonable fee for the grant of a contract under this article.
+
+(5) Any person who, without reasonable excuse, shall place, lay down, maintain, renew or use a mooring, buoy or similar apparatus for Vessels within the Port except under and in accordance with the terms and conditions of a contract granted under this article shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 9. Power to licence tugs[^key-b1d382f4de640947323dc7a7540681cd]
+
+(1) It shall not be lawful for any person, except in an emergency, to operate a Vessel exceeding 5 tonnes gross for fee or reward for the purpose of moving or controlling the movement of any other Vessel within the Port except under and in accordance with the terms and conditions of a licence granted by the Company in that regard.
+
+(2) The Company may charge a reasonable fee for the grant of any licence under this article.
+
+(3) Any person who contravenes paragraph (1) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### 10. Parking places[^key-e5c81bd9cf9ba5a05c06ba45e05ec656]
+
+The Company may provide facilities within the Port for the parking of vehicles and for that purpose may erect barricades or fencing with related offices, waiting rooms and other conveniences and may make reasonable charges for the use of such facilities.
+
+### 11. Power to appropriate parts of Port, etc.[^key-11c7bc39db16e6e13c8e0e751acfb43a]
+
+(1) Subject to paragraph (3) but notwithstanding anything else in this or any other statutory provision of local application, the Company may from time to time set apart or appropriate any land, works, buildings, machinery or other property within the harbour owned or managed by the Company for the exclusive, partial or preferential use or accommodation of any particular trade, activity, person, vessel or class of vessels or goods, subject to the payment of such reasonable charges and to such terms, conditions or regulations as the Company thinks fit.
+
+(2) No person or Vessel shall, otherwise than in accordance with the setting apart or appropriation, make use of any lands, works, buildings, machinery or other property so set apart or appropriated without the consent of the Harbour Master and—
+
+- (a) the Harbour Master may order any person or Vessel making use thereof without such consent to leave or be removed; and
+- (b) the provisions of section 58 of the 1847 Act shall extend and apply with appropriate modifications in relation to any such Vessel.
+
+(3) Nothing in this article shall authorise the prohibition of navigation within any part of the harbour, nor shall it authorise interference with the public right of way across public slipways and public quays.
+
+### 12. Power to lease, etc.[^key-676349a5a67e535340942e3274ddc6ba]
+
+The Company may at any time lease or grant for the purposes of the Port Undertaking the use or occupation of, or any right or interest in, over or relating to, any lands, works, buildings, equipment or other property forming part of the Port for such period or periods and on such terms and conditions as may be agreed between the Company and the persons taking the same.
+
+### 13. Power to enter into arrangements to provide supplies[^key-3cc8d17f0826c268b08855a4e8458fdd]
+
+The Company may make arrangements for the purpose of providing and supplying fuel, ice and such other requirements as may be made available to Vessels using the Port and in respect of the supply, laying down and maintaining of pipelines, storage tanks, plants, equipment and other apparatus and the execution of ancillary and necessary works for that purpose within the Port.
+
+## PART 3 — PORT REGULATION
+
+### 14. General byelaws[^key-518558d4eb8f6bc77484fc277ef66866]
+
+(1) The Company may from time to time make byelaws for the efficient management and regulation of the Port, for conservation of the natural beauty of all or any part of the Port or of any of the fauna, flora or geological or physiographical features in the Port, and the conservation, preservation or redevelopment of any buildings, plant or other artificial features of the Port.
+
+(2) Without prejudice to the generality of paragraph (1), byelaws made under this article may provide for—
+
+- (a) regulating the use, operation and superintendence of the Port and the docks, berths, wharves, quays, piers, jetties, warehouses, sheds, landing places, locks, sluices, equipment, works and conveniences (including moorings) in the Port;
+- (b) regulating the shipping and unshipping, landing, warehousing, stowing, depositing and removing of goods within the Port;
+- (c) regulating the berthing and mooring of Vessels within the Port and the use of tugs within the Port;
+- (d) preventing damage or injury to any goods, vehicles, plant, machinery, property or persons within the Port;
+- (e) regulating the hours during which any gates, entrances or outlets to or from the Port or any part of the Port shall be open;
+- (f) regulating the conduct of all persons in the Port not being members of a police force or officers or servants of the Crown;
+- (g) regulating the placing and maintenance of moorings within the Port;
+- (h) preventing and removing obstructions or impediments within the Port (including but not limited to abandoned Vessels, fish farm equipment and wind farm or tidal power equipment); and requiring any person, persons, organisations or undertakings to seek and secure the prior written approval of the Harbour Master before placing any such obstructions or impediments within the Port;
+- (i) prohibiting or regulating the discharge or deposits of ashes, refuse, rubbish or other material (including any polluting liquid) into or upon the Port;
+- (j) regulating the use of cranes, weighing machines, weights and measures belonging to the Company, and the duties and conduct of weighers and meters employed by the Company;
+- (k) regulating the use of ferries within the Port;
+- (l) regulating the use in the Port of Vessels intended for sports or leisure purposes, including yachts, sailing boats, sailboards, rowing boats, pleasure craft and other small craft;
+- (m) regulating the holding of regattas and other public events in the Port;
+- (n) regulating or prohibiting the activities in the Port of divers, surfers, water skiers and other persons engaged in similar pursuits whether for recreation or otherwise; and requiring that such operations within the Port must seek and secure the prior written approval of the Harbour Master;
+- (o) regulating the launching of Vessels within the Port;
+- (p) prohibiting persons working or employed in or entering the Port, or any part thereof, from smoking in open spaces of the Port;
+- (q) regulating or preventing the use of fires and lights within the Port;
+- (r) regulating the movement, speed and parking of vehicles on private roads within the Port;
+- (s) regulating the exercise of the powers vested in the Harbour Master, and
+- (t) making the carrying out of specified Port operations or the conduct of persons in the Port, subject to the approval (with or without conditions), control or direction of the Harbour Master.
+
+(3) Before making byelaws under this article the Company shall consult with the Inner Harbour Authority.
+
+(4) Byelaws made under this article may—
+
+- (a) provide for imposing upon persons offending against them or against any condition, requirement or direction imposed, made or given in them on summary conviction, fines not exceeding level 3 on the standard scale;
+- (b) relate to the whole of the Port or to any part;
+- (c) make different provisions for different parts of the Port or in relation to different classes of Vessels.
+
+### 15. Confirmation of byelaws[^key-7de5c4b26c7d7990fbf06a32aec3ccd7]
+
+(1) Byelaws made by the Company under this Order shall not come into operation until they have been confirmed by Ministers.
+
+(2) At least one month before an application for confirmation of byelaws is made by the Company to the Ministers, notice of intention to apply for confirmation and of the place at which and times during which a copy of the byelaws shall be open to inspection shall be publicised as follows—
+
+- (a) once in the Edinburgh Gazette;
+- (b) once in each of two successive weeks in a newspaper circulating in the area in which the Port is situated.
+
+(3) Not later than the first date on which the notice under paragraph (2) is published, the Company shall send a copy of the notice to the Chief Executive Officer of the local authority within whose area the Port is situated, Ministers and to the Inner Harbour Authority.
+
+(4) During a period of at least one month before the application is made for confirmation of the byelaws, a copy of the byelaws shall be kept at the office of the Harbour Master and shall at reasonable hours be open to public inspection without payment.
+
+(5) The Company shall supply a copy of the byelaws or a part of the byelaws to a person who shall apply for it on payment of a reasonable charge.
+
+(6) During the period of one month after completion of the publication of any notice required by paragraph (2), any person may make in writing to Ministers any objection to or representation respecting the byelaws to which the notice relates.
+
+(7) Subject to paragraph (8), Ministers may confirm the byelaws in the form submitted to them with such modifications as they think fit or may refuse to confirm them.
+
+(8) Where Ministers propose to make a modification that appears to them to be substantial they shall inform the Company and require them to take any steps Ministers consider necessary for informing persons likely to be concerned with the modification, and Ministers shall not confirm the byelaws until such period has elapsed as Ministers think reasonable for consideration of, and comment upon, the proposed modification by the Company and by other persons who have been informed of it.
+
+(9) A copy of the byelaws when confirmed shall be printed and deposited at the office of the Harbour Master and shall at all reasonable hours be open to public inspection without payment, and a copy thereof shall on application be furnished to any person on payment of such reasonable sum as the Company may determine.
+
+### 16. General Directions to Vessels[^key-8765b8285522f189fbc4776bca70d852]
+
+(1) The Company may, after consultation with the Chamber of Shipping, the Inner Harbour Authority, harbour users and the Royal Yachting Association in each case of an exercise of powers, give directions for any of the following purposes—
+
+- (a) securing the admission to, and movement within, and the departure of Vessels from, the Port or the removal of Vessels only at certain times or during certain periods;
+- (b) designating areas, routes or channels in the Port which Vessels are to use or refrain from using for movement, mooring or anchorage;
+- (c) securing that Vessels move only at certain times or during certain periods;
+- (d) securing that Vessels make use of appropriate aids to navigation required to comply with directions;
+- (e) prohibiting entry into or navigation within any of the main channels during any temporary obstruction thereof; and
+- (f) requiring the Master of a Vessel to give the Harbour Master information relating to the Vessel reasonably required by the Harbour Master.
+
+(2) A direction under this article may apply—
+
+- (a) to all Vessels or to a class of Vessels designated in the direction;
+- (b) to the whole of the Port and the approaches and channels leading to the Port, or to any part designated in the direction;
+- (c) at all times or at times designated in the direction,
+
+and every direction under this article shall specify the extent of its application in relation to the matters referred to in sub-paragraphs (a), (b) and (c).
+
+(3) The Company may, after consultation with the Chamber of Shipping, the Inner Harbour Authority, harbour users and the Royal Yachting Association revoke or amend any General Direction given under this article.
+
+### 17. Publication of General Directions[^key-ecb475931b77c331ab40d47d02b8e03c]
+
+(1) Notice of the giving of a General Direction and of any amendment or revocation of a General Direction must, except in case of emergency, be published by the Company as soon as practical once in Lloyd’s List or some other newspaper specialising in shipping news; and, if the notice relates to the giving or amendment of a Direction, the notice must state a place at which copies of the Direction or the amended Direction (as the case may be) may be inspected and bought, and the price of the Direction or amended Direction (as the case may be).
+
+(2) In an emergency, notice of the giving of a General Direction or of any amendment or revocation of a General Direction may be given in any manner the Company considers appropriate.
+
+### 18. Special Directions to Vessels[^key-3f99a58f95ac0c5cc1135ab3dc05dbeb]
+
+(1) The Harbour Master may give a direction under this article—
+
+- (a) requiring a Vessel anywhere within the Port Limits to comply with a requirement made in or under a General Direction;
+- (b) regulating or requiring the movement, berthing, mooring or unmooring of a Vessel;
+- (c) regulating the loading, discharging, storing and safeguarding of a Vessel’s cargo, fuel, water or stores and the dispatch of business at Port premises;
+- (d) specifying the precautions to be taken in respect of apparatus, machinery and equipment (including but not limited to electrical and power equipment and the use of shore power);
+- (e) as to the use of the motor power of a Vessel anywhere within the Port or the approaches to the Port;
+- (f) prohibiting or restricting use of fires or lights on a Vessel;
+- (g) as to the use of ballast, including but not limited to providing that no ballast shall be discharged within the Port except as directed by the Harbour Master;
+- (h) requiring the removal from any part of the Port of a Vessel if—
+  - (i) it is on fire;
+  - (ii) it is in such condition as to be liable to become immobilised or waterlogged, or to sink, or to constitute a danger to life (including wildlife) or property;
+  - (iii) it is making an unlawful use of the Port or interfering with the reasonable use or enjoyment thereof by other Vessels or persons; or
+  - (iv) its removal is necessary to enable maintenance or repair work to be carried out at Port premises or at premises adjacent to the Port; and
+- (i) requiring the removal from the Port of a Vessel if such removal is considered by the Harbour Master to be necessary in order to avoid danger to life (including wildlife) or to property.
+
+(2) A Special Direction may be given in any manner considered by the Harbour Master to be appropriate.
+
+(3) The Harbour Master may revoke or amend a Special Direction.
+
+### 19. Failure to comply with Directions[^key-26e20643024e555a714c97a707f3b9f8]
+
+(1) The Master of a Vessel who fails to comply with a General Direction or Special Direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(2) Without prejudice to any other defence, it shall be a defence to a charge made pursuant to paragraph (1) above that the Master had reasonable grounds for believing that to comply with the direction in question would have endangered life, imperiled the safety of any Vessel or its cargo or otherwise been impossible to comply.
+
+### 20. Enforcement of Special Directions[^key-b4691b8b30fbc0b43a71007fd92979dd]
+
+(1) Without prejudice to any other remedy available to the Company, if a Special Direction is not complied with within a reasonable time, the Harbour Master may put persons on board the vessel to carry out the Direction or may otherwise cause the Vessel to be handled in accordance with the Direction.
+
+(2) If, after making reasonable efforts to locate the Vessel master, the Harbour Master forms the view that there is no-one on board a Vessel to attend to a Special Direction, the Harbour Master may proceed as if the Direction had been given and not complied with.
+
+(3) Reasonable expenses incurred in the exercise of the powers conferred by this article shall be recovered by the Company from the owner of the Vessel as if they were a charge of the Company in respect of the Vessel.
+
+### 21. Master’s responsibility in relation to directions[^key-320593ec37ec59532cb136f84434fde5]
+
+The giving of a General Direction or a Special Direction shall not diminish or in any other way affect the responsibility of the Master of the Vessel to which the direction is given in relation to that Vessel, to persons on board the Vessel, to the cargo or to any other person or property.
+
+## PART 4 — CHARGES
+
+### 22. Charges.[^key-26f53d42ae7427d053e27e59d2d85748]
+
+(1) The Company may levy charges for any services performed by it in the exercise and performance of its statutory powers and duties at the Port.
+
+(2) In this article “charges” means any charges other than ship, passenger and goods dues.
+
+### 23. Liability for charges[^key-d2429305c760dbfb78f32027cdedbf3a]
+
+(1) Charges or dues payable to the Company on or in respect of—
+
+- (a) a Vessel, shall be payable by the owner or the Master thereof;
+- (b) goods, shall be payable by the owner, consignee or shipper thereof; and the Master or representative of the vessel shall provide within 24 hours of arrival within the Port the type and tonnage of any goods loaded or to be loaded or discharged or to be discharged by the Vessel.
+
+(2) Where a charge or due payable to the Company may be recovered from more than one person, the persons from whom it is recoverable shall be jointly and severally liable.
+
+### 24. Exemptions, rebates, etc. in respect of charges[^key-3f7203ae53ab075b26cd867bc14f307b]
+
+(1) The Company may confer total or partial exemptions from, allow rebates to or make compositions with any person with respect to, charges or dues and may vary or extinguish any such exemption or composition.
+
+(2) Nothing in section 30 of the Harbours Act 1964 shall require the Company to include in the list of ship, passenger and goods dues kept at the harbour office as required by subsection (1) of that section, charges reduced by a rebate allowed on, or subject to a compounding arrangement in respect of, a due included in that list.
+
+### 25. Security for charges[^key-448227a601933b3dea65be8d75aa6c47]
+
+The Company may require a person who incurs or is about to incur a charge or due to deposit with, or to guarantee, such sum of money as is, in the opinion of the Company, reasonable having regard to the amount or probable amount of the charge or due, and where such a person fails to deposit or guarantee the sum of money required by the Company, the Company may detain the vessel in the Port or goods on or in Port premises, in respect of which the charge or due has been or will be incurred, until the requirement has been complied with or the charge or due paid.
+
+### 26. Liens for charges[^key-3964e120f3f9995a8debbbd6940ede77]
+
+(1) A person, who by agreement with the Company collects charges or dues on its behalf and who pays or gives security for the payment of charges or dues on goods in that person’s possession, shall have a lien on those goods for the amount paid or security given.
+
+(2) A wharfinger or carrier who is not itself liable for the payment of charges or dues may pay or by agreement with the Company give security for charges or dues on goods in its custody, and in that event it shall have a like lien on the goods for the amount of those charges or dues as it would have in respect of its charges for safe custody or carriage of the goods, as the case may be.
+
+### 27. Refusal to pay charges for landing place, etc.[^key-9305e2f0dc1383a153f9971857760c88]
+
+An officer of the Company may prevent a Vessel from using a landing place or any other facilities provided by the Company, if the Master of the Vessel refuses to pay the charges or dues for such use.
+
+### 28. Exemptions from charges[^key-53346d682ba5f1f4082f841ab3ebd938]
+
+(1) Except insofar as may be agreed between the Company and the Government Department or person concerned or as may be specifically laid down by statute, nothing in any enactment authorising the Company to levy charges or dues shall extend to authorise them to levy dues on—
+
+- (a) a Vessel—
+  - (i) belonging to or in the service of Her Majesty or any member of the Royal Family;
+  - (ii) in the service of the Commissioners of H.M. Revenue & Customs and not carrying goods for reward;
+  - (iii) in the service of the Commissioners of Northern Lighthouses and not carrying goods for reward; or
+  - (iv) belonging to or used by the lifeboat service whilst employed in or in connection with the functions of that service;
+- (b) the Commissioners of H.M. Revenue & Customs in respect of a Vessel or goods under customs seizure.
+
+(2) Officers of the Department for Transport and Ministers in the execution of their duty shall at all times be exempt from charges in respect of their Vessels and otherwise.
+
+(3) This Order shall not extend to subject any person to liability for charges in respect of a Vessel which merely passes through the limits of the Port to gain access to the Inner Harbour.
+
+### 29. Conditions as to payment of charges[^key-644c2a77da999bc24405d56c81eb86eb]
+
+(1) Charges and dues shall be payable subject to such terms and conditions as the Company may from time to time specify in its published list of charges.
+
+(2) Without prejudice to the generality of paragraph (1), the terms and conditions may prescribe the time when the charge or due falls due for payment and may require such information to be given to the Company by the owner or Master of a Vessel or a person using a service or facility of the Company as the Company may require in connection with the assessment or collection of a charge or due.
+
+## PART 5 — MISCELLANEOUS
+
+### 30. Requirements of reasonable notice[^key-3ddd3ca679fe9676a4db2bbcfc1322ed]
+
+Where any claim, loss or demand is made by the Inner Harbour Authority under any provision of this Order, the Inner Harbour Authority shall give the Company reasonable notice of any such claim, loss, or demand and no settlement or compromise of any such loss, claim or demand shall be made by the Inner Harbour Authority without the prior consent of the Company, which consent must not be unreasonably withheld.
+
+### 31. Saving for Commissioners of Northern Lighthouses[^key-e7af4863a1c2173e2ccd91420abbe025]
+
+Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
+
+### 32. Crown rights[^key-260d0221245f2009c33803597ead793c]
+
+(1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the Company to take, use, enter upon or in any manner interfere with, any land or interest in land (including any portion of the shore or bed of the sea or of any river, channel, creek, bay or estuary) or any rights of whatsoever description—
+
+- (a) belonging to Her Majesty in right of the Crown and under the management of the Crown Estate Commissioners, without the consent in writing of those Commissioners;
+- (b) belonging to Her Majesty in right of the Crown and not under the management of the Crown Estate, without the consent in writing of the Government Department having management of that land or (as the case may be) the relevant person[^key-1040d348465c61679152446c5e470389]; or
+- (c) belonging to a government department or held in trust for Her Majesty for the purposes of a Government Department, without the consent in writing of that Government Department.
+
+(1A)[^key-27d9f96535bfe94745f2a4cb3f488332] In paragraph (1), “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+
+(2) A consent under paragraph (1) may be given unconditionally, or subject to terms and conditions, and shall be deemed to have been given in writing where it is sent electronically.
+
+### 33. Saving for other consents[^key-f472ceb8ba52184d1c5711d3e608484c]
+
+The carrying out of any works or operations pursuant to this Order is subject to the Company obtaining any consent, permission or licence required under any other enactment.
+
+JOHN NICHOLLS
+
+A member of the staff of the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+17th March 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order, made following an application by Lochboisdale Development Limited (“the Company”), empowers the Company to maintain and operate a port and port-related facilities in South Uist to be known as the Port of Lochboisdale.
+
+Part 1 makes preliminary provision, including provision as to interpretation (article 2) and the incorporation with modifications of provisions in the Harbours, Docks and Piers Clauses Act 1847 (article 3).
+
+Part 2 makes provision for the duties and powers of the Company.
+
+Article 4 identifies the limits of the Port. Article 8 enables the Company to control moorings.
+
+Part 3 makes provision as to Port regulation.
+
+Article 14 empowers the Company to make byelaws subject to those being confirmed by the Scottish Ministers under article 15.
+
+Part 4 makes provision as to charges that may be levied by the Company.
+
+Part 5 makes miscellaneous and general provisions.
+
+## Annotations
+
+[^f00001]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40).
+
+[^key-ce92eb701c9e211fbcc39b2671fe034b]: Commencement: Art. 1 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-17b58b33b5d4c2dc277691fb8dea561e]: Commencement: Art. 2 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^f00002]: Footnote: [1847 c.27](https://www.legislation.gov.uk/ukpga/1847/27).
+
+[^f00003]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-db38899274685eb761ae883763fe9aed]: Commencement: Art. 3 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-3de108832fd8ebda2779ce74e2b06cde]: Commencement: Art. 4 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-f81240c5d567e5868340f1348568880d]: Commencement: Art. 5 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-8a9c247befeafbe0586c9657ca008738]: Commencement: Art. 6 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^f00004]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^key-72ea3a5ab814b870d908bb2cb7336860]: Commencement: Art. 7 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-4f66228282e90140b9db3c75eb9fd970]: Commencement: Art. 8 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-b1d382f4de640947323dc7a7540681cd]: Commencement: Art. 9 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-e5c81bd9cf9ba5a05c06ba45e05ec656]: Commencement: Art. 10 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-11c7bc39db16e6e13c8e0e751acfb43a]: Commencement: Art. 11 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-676349a5a67e535340942e3274ddc6ba]: Commencement: Art. 12 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-3cc8d17f0826c268b08855a4e8458fdd]: Commencement: Art. 13 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-518558d4eb8f6bc77484fc277ef66866]: Commencement: Art. 14 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-7de5c4b26c7d7990fbf06a32aec3ccd7]: Commencement: Art. 15 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-8765b8285522f189fbc4776bca70d852]: Commencement: Art. 16 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-ecb475931b77c331ab40d47d02b8e03c]: Commencement: Art. 17 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-3f99a58f95ac0c5cc1135ab3dc05dbeb]: Commencement: Art. 18 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-26e20643024e555a714c97a707f3b9f8]: Commencement: Art. 19 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-b4691b8b30fbc0b43a71007fd92979dd]: Commencement: Art. 20 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-320593ec37ec59532cb136f84434fde5]: Commencement: Art. 21 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-26f53d42ae7427d053e27e59d2d85748]: Commencement: Art. 22 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-d2429305c760dbfb78f32027cdedbf3a]: Commencement: Art. 23 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-3f7203ae53ab075b26cd867bc14f307b]: Commencement: Art. 24 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-448227a601933b3dea65be8d75aa6c47]: Commencement: Art. 25 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-3964e120f3f9995a8debbbd6940ede77]: Commencement: Art. 26 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-9305e2f0dc1383a153f9971857760c88]: Commencement: Art. 27 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-53346d682ba5f1f4082f841ab3ebd938]: Commencement: Art. 28 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-644c2a77da999bc24405d56c81eb86eb]: Commencement: Art. 29 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-3ddd3ca679fe9676a4db2bbcfc1322ed]: Commencement: Art. 30 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-e7af4863a1c2173e2ccd91420abbe025]: Commencement: Art. 31 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-260d0221245f2009c33803597ead793c]: Commencement: Art. 32 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)
+
+[^key-1040d348465c61679152446c5e470389]: Textual amendment: Words in art. 32(1)(b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 140(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/140/a)
+
+[^key-27d9f96535bfe94745f2a4cb3f488332]: Textual amendment: Art. 32(1A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 140(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/140/b)
+
+[^key-f472ceb8ba52184d1c5711d3e608484c]: Commencement: Art. 33 in force at 18.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/156/article/1)

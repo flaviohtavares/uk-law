@@ -1,0 +1,168 @@
+---
+title: The Housing (Scotland) Act 2006 (Commencement No. 7, Savings and Transitional Provisions) Order 2009
+id: ssi/2009/122
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2009-03-24'
+text_date: '2010-03-17'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2009/122
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2009/122/pdfs/ssien_20090122_en.pdf
+- http://www.legislation.gov.uk/ssi/2009/122/pdfs/ssi_20090122_en.pdf
+- http://www.legislation.gov.uk/ssi/2009/122/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing (Scotland) Act 2006 (Commencement No. 7, Savings and Transitional Provisions) Order 2009
+
+> Text as at 2010-03-17.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2009 No. 122 (C. 9)
+
+HOUSING
+
+The Housing (Scotland) Act 2006 (Commencement No. 7, Savings and Transitional Provisions) Order 2009
+
+Made
+
+24th March 2009
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 191(2) and 195(3) of the Housing (Scotland) Act 2006[^f00001].
+
+## 1. Citation[^key-961c9c3898f104350ddfa1920e935d5f]
+
+This Order may be cited as the Housing (Scotland) Act 2006 (Commencement No. 7, Savings and Transitional Provisions) Order 2009.
+
+## 2. Interpretation[^key-a3be464e083dc08a9541a803602842cf]
+
+In this Order–
+
+- “the 2006 Act” means the Housing (Scotland) Act 2006; and
+- “the 1987 Act” means the Housing (Scotland) Act 1987[^f00002].
+
+## 3. Commencement of Provisions[^key-48a0f7bb9c1c1e4df09f15b08aed3f04]
+
+The day appointed for the coming into force of the provisions of the 2006 Act specified in Column 1 of the Table below is as shown in Column 2, but where a particular purpose is specified in relation to any provision in Column 3, that provision shall come into force on that day only for that purpose.
+
+Table
+
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Sections 1 to 11, 30 to 35, 40 to 51, 59(1) and (6), 62, 65(6), 68, 69, 71 to 97, 181(1)(a), (b), (d) and (e) and (3) and schedule 1 | 1st April 2009 |  |
+| Section 192 | 1st April 2009 | Only for the purpose of giving effect to the consequential changes in schedule 6 and the repeals in schedule 7 listed in this Order |
+| Schedule 6, paragraphs 1 to 3, 6, 9, 10, 12, 14 and 20 to 22 | 1st April 2009 |  |
+| Schedule 7 | 1st April 2009 | Only for the purposes of the repeals in the Caravan Sites and Control of Development Act [1960 (c. 62)](https://www.legislation.gov.uk/ukpga/1960/62), the repeal in the Housing (Scotland) Act [1987 (c. 26)](https://www.legislation.gov.uk/ukpga/1987/26) of section 244(1) to (5), (9), (10) and (13) in Part 13, the repeal in section 338(1) of that Act of the definition of “standard amenities” and the repeal of paragraph 1 of Schedule 23 to that Act, and the repeals in the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34) |
+| Schedule 6, paragraph 11 | 1st April 2010 |  |
+| Schedule 7 | 1st April 2010 | Only for the purpose of the repeals in the Land Compensation (Scotland) Act [1973 (c. 56)](https://www.legislation.gov.uk/ukpga/1973/56), the Civic Government (Scotland) Act [1982 (c. 45)](https://www.legislation.gov.uk/ukpga/1982/45), the Housing (Scotland) Act [1987 (c. 26)](https://www.legislation.gov.uk/ukpga/1987/26), but only the repeals in that Act of sections 85(3), 88 to 106, 108 to 112, 120(6), 124(4), 214, 215, 217, 218, 219(1)(a), in Part 13 sections 236 to 243, 244(7), (12) and (14) and 245 to 256A, in sections 309(1) and 310 the word “88”, section 311(1)(e), section 313(4), in section 319(1) in paragraph (a) the words from second “any” to “Part V or”, in section 338(1) the definitions of “disabled occupant” “housing action area”, “improvement”, “improvement grant”, “repairs grant” and Schedules 7, 8, 17 and 19, the Housing (Scotland) Act [1988 (c. 43)](https://www.legislation.gov.uk/ukpga/1988/43), the Local Government Act [1988 (c. 9)](https://www.legislation.gov.uk/ukpga/1988/9), the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), the Agricultural Holdings (Scotland) Act [1991 (c. 55)](https://www.legislation.gov.uk/ukpga/1991/55), the Clean Air Act [1993 (c. 11)](https://www.legislation.gov.uk/ukpga/1993/11), the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28), the [Housing (Scotland) Act 2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10) |
+
+## 4. Savings and Transitional Provisions[^key-15787fb68accfad6d2d1e6b4fb85a4f7]
+
+Notwithstanding the repeal of sections 89 to 106 (housing action areas) and Schedules 8 and 19 to the 1987 Act, those provisions shall continue to have effect until 1st April 2012 in respect of any housing action area declared before 1st April 2010.
+
+**4A.**[^key-0aaa560f8954e0ac950d6b322bd0a20a] Notwithstanding the repeal of sections 108 and 109 (repair notices) of the 1987 Act, those sections shall continue to have effect until 1st April 2012 in respect of repair notices served before 1st April 2010.
+
+**4B.** Notwithstanding the repeal of section 110 (recovery by lessee of expenses etc.) of the 1987 Act, that section shall continue to have effect in respect of expenditure incurred in complying with a repair notice served before 1st April 2010, and payment of the expenses of a local authority who has carried out the works specified in such a repair notice.
+
+**4C.** Notwithstanding the repeal of section 111 (appeals) of the 1987 Act, that section shall continue to have effect in respect of—
+
+- (a) a repair notice served before 1st April 2010;
+- (b) a demand for the recovery of expenses incurred by a local authority in executing works, specified in a repair notice served before 1st April 2010;
+- (c) an order made by a local authority with respect to any such expenses; and
+- (d) a charging order made under Schedule 9 to the 1987 Act with respect to any such expenses.
+
+**4D.** Notwithstanding the repeal of section 112 (date of operation of notices etc.) of the 1987 Act, that section shall continue to have effect in respect of any notice, demand or order against which an appeal might be brought under section 111 of the 1987 Act (as it has effect by virtue of article 4C of this Order).
+
+**4E.** Notwithstanding the repeal of sections 108, 109, 111 and 112 (repair notices) of the 1987 Act, those sections shall continue to have effect for the purposes of paragraph 11 of Schedule 11 (recovery of expenses by local authority executing works under s.164) to the 1987 Act.
+
+**4F.** Notwithstanding the repeal of section 219(1)(a) (interest rates on home loans) of the 1987 Act, that subsection shall continue to have effect in respect of any advance of money made before 1st April 2010.
+
+**5.**[^key-50a06f1f1e7a8804e0c39dd4ee03ce81] Notwithstanding the repeal of sections 236 to 243 and 245 to 256A (grants for improvement, repair and conversion) and Schedule 19 to the 1987 Act, those provisions shall continue to have effect in respect of–
+
+- (a) applications received before 1st April 2012 for improvement grant for houses situated in housing action areas within the meaning of Part 4 of the 1987 Act;
+- (b) applications for grant approved before 1st April 2010; and
+- (c) the conditions to be observed in respect of any grant made by a local authority under those provisions.
+
+**6.**[^key-888ac9a2f29a08d0411c4c71c73d0e23] Notwithstanding the repeal of section 244 (duty of local authorities to make improvement grants where an application relates exclusively to the provision of standard amenities or to disabled occupant) and schedule 19 to the 1987 Act, those provisions shall continue to have effect in respect of–
+
+- (a) applications received before 1st April 2012 for improvement grant for houses situated in housing action areas within the meaning of Part 4 of the 1987 Act;
+- (b) applications for grant approved before 1st April 2009; and
+- (c) the conditions to be observed in respect of any grant made by a local authority under those provisions.
+
+**7.**[^key-fae2766f206f90effb3758298bed711f] Notwithstanding the commencement of paragraphs 2, 3, 6 and 12 of schedule 6 to the 2006 Act where–
+
+- (a) improvement works have been carried out in compliance with a notice of a final resolution served under Part 1 of Schedule 8 to the 1987 Act, the Crofters Holdings (Scotland) Act 1886[^f00003] shall have effect as if the commencement of paragraph 2 had not taken place;
+- (b) a person is displaced from a dwelling on any land in consequence of an order under section 88 of the 1987 Act, section 27 (right to home loss payment where person displaced from dwelling) of the Land Compensation (Scotland) Act 1973[^f00004] shall have effect as if the commencement of paragraph 3 had not taken place;
+- (c) works were specified in an application for a grant under Part 13 of the 1987 Act, section 106 (consent of tenant) of the Rent (Scotland) Act 1984[^f00005] shall have effect as if the commencement of paragraph 6(a) and (b) had not taken place; and
+- (d) a house was comprised in an area declared by final resolution passed under Part 4 of the 1987 Act to be a housing action area, section 311(1) (interpretation) of the 1987 Act shall have effect as if the commencement of paragraph 12 had not taken place.
+
+ALEX NEIL
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+24th March 2009
+
+(This note is not part of the Order)
+
+This Order brings into force the remaining provisions of Parts 1 and 2 of the Housing (Scotland) Act 2006.
+
+The sections in Part 1 that are commenced in this Order provide for housing renewal areas, amendment of the tolerable standard and the renewal, improvement, demolition and maintenance of houses. Sections 89 to 106 of the Housing (Scotland) Act 1987 which provide for the declaration of housing action areas are repealed but saved in Article 4 for a period of 2 years in respect of housing action areas declared before the repeal.
+
+Part 2 provides for assistance, (including grants and loans) from local authorities for housing purposes. These provisions replace Part 13 of the Housing (Scotland) Act 1987, however the majority of the provisions in Part 13 will remain in force for a year. Articles 5 and 6 save the provisions in Part 13 for some applications for grant and for any applications already approved by the date of repeal.
+
+Schedule 6 to the 2006 Act makes consequential amendments to the law in various areas. Article 7 preserves the previous law in some cases.
+
+(This note is not part of the Order)
+
+| Provision | Date of Commencement | S.S.I. No. |
+| --- | --- | --- |
+| Sections 176 and 177 | 29th January 2006 | [2006/14](https://www.legislation.gov.uk/ssi/2006/14) |
+| Sections 178 and 180 | 17th May 2006 | [2006/252](https://www.legislation.gov.uk/ssi/2006/252) |
+| Sections 70, 175, 185, 193 and 194 | 5th July 2006 | [2006/395](https://www.legislation.gov.uk/ssi/2006/395) |
+| Sections 52, 53, 54, 55, 56, 57, 63(1), 64(6), 65(3) and (4), 181(1)(c) and (5), 182, 184, 186, 187, 188 and 189 | 4th December 2006 | [2006/395](https://www.legislation.gov.uk/ssi/2006/395) and [2006/569](https://www.legislation.gov.uk/ssi/2006/569) |
+| Partially, sections 22(5), 64(7), 65(5), 66(1) and (4), 99, 104, 105, 111(3), schedule 2, paragraph 8 and schedule 3, paragraph 2 | 4th December 2006 | [2006/395](https://www.legislation.gov.uk/ssi/2006/395) and [2006/569](https://www.legislation.gov.uk/ssi/2006/569) |
+| Sections 167 to 171 and 179 | 28th May 2007 | [2007/270](https://www.legislation.gov.uk/ssi/2007/270) |
+| Sections 12 to 29, 36 to 39, 58, 59(2) to (5), 60, 61, 63(2) to (9), 64(1) to (5) and (7), 65(1), (2) and (5), 66, 67, 172 to 174, 181(2), (4) and (6), 183, schedule 2 and schedule 6, paragraphs 4, 5, 7, 8, 16, 17 and 19 | 3rd September 2007 | [2007/270](https://www.legislation.gov.uk/ssi/2007/270) |
+| Partially, section 192 and schedule 7 | 3rd September 2007 | [2007/270](https://www.legislation.gov.uk/ssi/2007/270) |
+| Partially, sections 73, 77 and 79 | 29th September 2008 | [2008/308](https://www.legislation.gov.uk/ssi/2008/308) |
+| Sections 98 to 119 | 1st December 2008 | [2008/308](https://www.legislation.gov.uk/ssi/2008/308) |
+
+## Annotations
+
+[^f00001]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
+
+[^key-961c9c3898f104350ddfa1920e935d5f]: Commencement: Art. 1 in force at made date
+
+[^key-a3be464e083dc08a9541a803602842cf]: Commencement: Art. 2 in force at made date
+
+[^f00002]: Footnote: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
+
+[^key-48a0f7bb9c1c1e4df09f15b08aed3f04]: Commencement: Art. 3 in force at made date
+
+[^key-15787fb68accfad6d2d1e6b4fb85a4f7]: Commencement: Art. 4 in force at made date
+
+[^key-0aaa560f8954e0ac950d6b322bd0a20a]: Textual amendment: [Arts. 4A-4F](https://www.legislation.gov.uk/ssi/2009/122/article/4A) inserted (17.3.2010) by [The Housing (Scotland) Act 2006 (Commencement No. 7, Savings and Transitional Provisions) Amendment Order 2010 (S.S.I. 2010/114)](https://www.legislation.gov.uk/ssi/2010/114), [art. 2](https://www.legislation.gov.uk/ssi/2010/114/article/2)
+
+[^key-50a06f1f1e7a8804e0c39dd4ee03ce81]: Commencement: Art. 5 in force at made date
+
+[^key-888ac9a2f29a08d0411c4c71c73d0e23]: Commencement: Art. 6 in force at made date
+
+[^key-fae2766f206f90effb3758298bed711f]: Commencement: Art. 7 in force at made date
+
+[^f00003]: Footnote: [1886 c. 29](https://www.legislation.gov.uk/ukpga/1886/29).
+
+[^f00004]: Footnote: [1973 c. 56](https://www.legislation.gov.uk/ukpga/1973/56).
+
+[^f00005]: Footnote: [1984 c. 58](https://www.legislation.gov.uk/ukpga/1984/58).

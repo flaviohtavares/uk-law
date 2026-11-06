@@ -1,0 +1,141 @@
+---
+title: The National Health Service (Vocational Training for Dentists) (Miscellaneous Amendment) (Scotland) Regulations 2022
+id: ssi/2022/170
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-05-18'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2022/170
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2022/170/pdfs/ssipn_20220170_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2022/170/pdfs/ssipn_20220170_en.pdf
+- http://www.legislation.gov.uk/ssi/2022/170/pdfs/ssi_20220170_en.pdf
+- http://www.legislation.gov.uk/ssi/2022/170/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Vocational Training for Dentists) (Miscellaneous Amendment) (Scotland) Regulations 2022
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2022 No. 170
+
+National Health Service
+
+The National Health Service (Vocational Training for Dentists) (Miscellaneous Amendment) (Scotland) Regulations 2022
+
+Made
+
+18th May 2022
+
+Laid before the Scottish Parliament
+
+20th May 2022
+
+Coming into force
+
+1st August 2022
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 2(5), 25(1) and (2) and 105(7) of the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation[^key-99d50273d0a2bd4d3281850557e9d2b8]
+
+(1) These Regulations may be cited as the National Health Service (Vocational Training for Dentists) (Miscellaneous Amendment) (Scotland) Regulations 2022 and come into force on 1 August 2022.
+
+(2) In these Regulations, “**the 2004 Regulations**” means the National Health Service (Vocational Training for General Dental Practice) (Scotland) Regulations 2004[^f00002].
+
+## 2. Amendment of the National Health Service (Vocational Training for General Dental Practice) (Scotland) Regulations 2004[^key-6aad80c1f97f1161c0d6af9cfdc3374a]
+
+The 2004 Regulations are amended in accordance with regulations 3 to 5.
+
+## 3.[^key-3ff1a18d12bb3099832a66ef40d7cfad]
+
+In regulation 1(2) (citation, commencement and interpretation)—
+
+- (a) the definition of “approved trainer” is omitted,
+- (b)[^key-cf4030527cb4ad0734443ba14155d828] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in the definition of “vocational training”—
+  - (i) omit “, except as provided for in regulation 8,”, and
+  - (ii)[^key-8096772a6daa40a8a06f043014d05508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) in the definition of “vocational training certificate”—
+  - (i) omit “, except as provided for in regulation 8,”, and
+  - (ii) omit “, or a Director of Postgraduate General Dental Practice Education”,
+- (e) in the definition of “vocational training number” omit “and regulation 8”.
+
+## 4.[^key-90719546e17c28feb5302aa59009da5e]
+
+In regulation 2(3)(a) (applications for vocational training numbers and vocational training (orthodontic) numbers)[^f00004]—
+
+- (a) for “15(1)(b) or (ba)” substitute “15(1)(c)”,
+- (b) after “register)” insert “, but only where the dentist holds a relevant European diploma within the meaning of section 15(2ZA)[^f00005] of that Act,”.
+
+## 5.[^key-514eeff56650a7498859151106a11ae8]
+
+Regulation 8 (transitional and saving provision) is omitted.
+
+## 6. Amendment of the National Health Service (General Dental Services) (Scotland) Regulations 2010[^key-5fbcf08e4e0a3d041ace6592c0c38292]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Saving[^key-b64ebecd067d8415049af3f0eed3b841]
+
+In the case of a dentist who, immediately before these Regulations come into force, is undergoing but has not completed vocational training, the 2004 Regulations continue to apply until 31 July 2023 as if the amendments made by regulations 3(a), (b) and (c)(ii) and 6 of these Regulations had not been made.
+
+HUMZA YOUSAF
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+18th May 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service (Vocational Training for General Dental Practice) (Scotland) Regulations 2004 (“**the principal Regulations**”) which make provision for vocational training for dentists.
+
+Regulations 2 to 5 amend the principal Regulations. Regulations 2 and 3(a), (b) and (c)(ii) make provision for the employer of those undergoing vocational training to be NHS Education for Scotland instead of a dentist who is an approved trainer or a Health Board. Regulation 3(d) removes an outdated reference to the post of Director of Postgraduate General Dental Practice Education. Regulation 4 amends an exemption from completing vocational training in regulation 2(3)(a) of the principal Regulations so that the exemption applies to those dentists holding a relevant European diploma. Regulation 5 omits regulation 8 of the principal Regulations which is now spent, and regulations 3(c)(i), d(i) and (e) make amendments consequential on that omission.
+
+Regulation 6 makes a corresponding amendment to the National Health Service (General Dental Services) (Scotland) Regulations 2010 to reflect the change of employer to NHS Education for Scotland.
+
+Regulation 7 is a saving provision. It saves the existing law for one year for dentists who are undergoing vocational training but have not completed that training when these Regulations come into force.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 2(5) was amended by section 66(1) and paragraph 19(1) of schedule 9 of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19). Section 25(1) and (2) was amended by sections 15 and 17 of the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13). Section 105(7) was amended by paragraph 5(1) of schedule 6 of the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), paragraph 24 of schedule 9 of the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), and paragraph 60 of schedule 4 of the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“**the 1999 Act**”). Section 108(1) contains a definition of “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. See section 66(1) of the 1999 Act in relation to any provision of that Act being taken to be a pre-commencement enactment within the meaning of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”). The functions of the Secretary of State, insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^key-99d50273d0a2bd4d3281850557e9d2b8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/170/regulation/1) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/170/regulation/1/1)
+
+[^f00002]: Footnote: [S.S.I. 2004/292](https://www.legislation.gov.uk/ssi/2004/292).
+
+[^key-6aad80c1f97f1161c0d6af9cfdc3374a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/170/regulation/2) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/170/regulation/1/1)
+
+[^key-3ff1a18d12bb3099832a66ef40d7cfad]: Commencement: Reg. 3 in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/170/regulation/1/1)
+
+[^key-cf4030527cb4ad0734443ba14155d828]: Textual amendment: Reg. 3(b) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 25](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/25) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-8096772a6daa40a8a06f043014d05508]: Textual amendment: Reg. 3(c)(ii) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 25](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/25) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-90719546e17c28feb5302aa59009da5e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/170/regulation/4) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/170/regulation/1/1)
+
+[^f00004]: Footnote: Regulation 2(3)(a) was relevantly amended by [S.I. 1996/1496](https://www.legislation.gov.uk/uksi/1996/1496) and [S.S.I. 2010/229](https://www.legislation.gov.uk/ssi/2010/229).
+
+[^f00005]: Footnote: Section 15(2ZA) was substituted by [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
+
+[^key-514eeff56650a7498859151106a11ae8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/170/regulation/5) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/170/regulation/1/1)
+
+[^key-5fbcf08e4e0a3d041ace6592c0c38292]: Textual amendment: Reg. 6 omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 25](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/25) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-b64ebecd067d8415049af3f0eed3b841]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/170/regulation/7) in force at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/170/regulation/1/1)

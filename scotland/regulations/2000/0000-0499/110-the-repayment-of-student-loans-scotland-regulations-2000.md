@@ -1,0 +1,593 @@
+---
+title: The Repayment of Student Loans (Scotland) Regulations 2000
+id: ssi/2000/110
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2000-04-10'
+text_date: '2025-03-21'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2000/110
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2000/110/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Repayment of Student Loans (Scotland) Regulations 2000
+
+> Text as at 2025-03-21.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2000 No. 110
+
+EDUCATION
+
+The Repayment of Student Loans (Scotland) Regulations 2000
+
+Made
+
+10th April 2000
+
+Laid before the Scottish Parliament
+
+13th April 2000
+
+Coming into force.
+
+16th May 2000
+
+The Scottish Ministers, in exercise of the powers conferred upon them by sections 73(f), 73B, and 74(1) of the Education (Scotland) Act 1980[^f00001], hereby make the following Regulations:
+
+## PART I — GENERAL
+
+### 1. Citation and commencement[^key-25b73a9743d80321c62215e1adff6802]
+
+(1) These Regulations may be cited as the Repayment of Student Loans (Scotland) Regulations 2000 and shall come into force on 16th May 2000.
+
+### 2. Interpretation[^key-4ac9136119a3771a69bd14ce51c499ec]
+
+In these Regulations–
+
+- “the Act” means the Education (Scotland) Act 1980[^f00002];
+- [^key-0af04c83e53fcc2d1ab74afb83f4b9fd]...
+- “borrower” means a person to whom the Scottish Ministers have lent money pursuant to regulations made under section 73 of the Act and who has not received a notice from them that it has been repaid in full or cancelled;
+- “Collection Regulations” means the Education (Student Loans) (Repayment) Regulations 2009[^key-625f9b4f275dd27a43ae7d603de30dab];
+- “continuous programme of higher education” means a programme of education undertaken by an individual comprising–[^key-cf13f42b629cbf3c9e2e100e6da55ad5]
+  - (a) either–
+    - (i) a course leading to a Higher National Certificate immediately followed by a course leading to a Higher National Diploma (disregarding any intervening vacation); or
+    - (ii) a course leading to a Higher National Diploma; and
+  - (b) a course of higher education not of a kind referred to in paragraph (a) above which commences in the academic year immediately following the end of the course referred to in paragraph (a) or in the following academic year;
+- “disability related benefit” means long term incapacity benefit or short term incapacity benefit at the higher rate, severe disablement allowance, disability living allowance, Scottish adult disability living allowance given in accordance with the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025, short-term assistance given in accordance with Part 1 of schedule 1 (short-term assistance) of those Regulations,[^key-85b816e67f0ad735b3da2148c841b9fd] industrial injuries benefit and disability working allowance, all payable under the Social Security Contributions and Benefits Act 1992[^f00004], an employment and support allowance payable under Part 1 of the Welfare Reform Act 2007[^key-8939260f64ccc38d2df7ed2b23b43239] , personal independence payment payable under Part 4 of the Welfare Reform Act 2012[^key-1491ca0d7081651d91c4ec13e70e0463] , armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^key-44af79e03da2638f23356e90b11a062d] , child disability payment given in accordance with the Disability Assistance for Children and Young People (Scotland) Regulations 2021, short-term assistance given in accordance with Part 1 of the schedule (short-term assistance) of those Regulations[^key-bd905dd008ed472f066875d95948bdd9] , adult disability payment given in accordance with the Disability Assistance for Working Age People (Scotland) Regulations 2022 (“[^key-78ebafcfe35146f03ba03dc056519666]**the 2022 Regulations**”), short-term assistance given in accordance with Part 1 of schedule 2 (short-term assistance) of the 2022 Regulations or the amount of any disability premium and severe disability premium included in the applicable amount in calculating the income support payable under the Income Support (General) Regulations 1987[^f00005];
+- “[^key-0cfea4f426d161e78e56cd311a45543f]HMRC” means Her Majesty’s Revenue and Customs;
+- “Loan Regulations” means the Education (Student Loans) (Scotland) Regulations 1999[^f00006];
+- “repayment” means a repayment of a student loan;
+- “repayment threshold” means—[^key-3f852030014d2ad9a0b0213c1d9b0105]
+  - (a) for the year of assessment ending on 5 April 2022[^key-0132dc44f9c7f20fbd6ce6fb32d5cf75], an amount equal to £25,000[^key-266477280df26dd8ab63a9aad54a2e77] + (£25,000 x Y%) and rounded up to the nearest £5 where Y is the percentage increase between the retail prices all items index published by the Office of National Statistics for the two Marches immediately before the commencement of that year of assessment;
+  - (b) for any year of assessment ending after 6 April 2022[^key-3d8169264dfdbcd3734ddfc43077b1cd] [^key-5438d31807e2870ab19bea50f1d4c613]..., an amount equal to X + (X x Y%) and rounded up to the nearest £5 where—
+
+    X is the repayment threshold for the previous year of assessment, and
+
+    Y is the percentage increase between the retail prices all items index published by the Office of National Statistics for the two Marches immediately before the commencement of the previous year of assessment[^key-0d55a57dad48678a0da60057b550cf96]...
+  - (c) [^key-0d55a57dad48678a0da60057b550cf96]...
+- “Scottish Ministers” includes any person exercising functions on their behalf pursuant to arrangements made under section 73A(3) of the Act[^f00007];
+- “student loan” means the total outstanding principal, interest, penalties and charges owed by a borrower to the Scottish Ministers pursuant to these or any other regulations made under section 73 of the Act, excluding any interest, penalties or charges payable under Part 3 or 4[^key-a5e9ea821513b886b125e9f0c2a55a7f] of the Collection Regulations;
+- “the 2007 Regulations” means the Education (Student Loans) (Scotland) Regulations 2007
+- “year of assessment” means the period 6th April to the following 5th April.
+
+### 3. Revocation[^key-1079b7bbb91ae34c013a83aef21c3e96]
+
+Regulation 16 of the Loan Regulations is hereby revoked.
+
+## PART II — PROVISIONS APPLICABLE TO ALL REPAYMENTS
+
+### 4. Application of Regulations[^key-7c869141d7b602c45341f86ec1ba0f7b]
+
+These Regulations apply to repayments of all student loans.
+
+### 5. Period and manner of repayment[^key-22297909e87de28a881bf1095252b5d5]
+
+Subject to regulation 7 and Part III, where the Scottish Ministers–
+
+- (a) have not determined that repayments of student loans made under the Act shall be collected by HMRC[^key-bb633867153139ee6a96da055f8f6d72] under Parts 3 and 4[^key-ec61d5f2aa99e02c5a23588fa46d4cff] of the Collection Regulations; or
+- (b) having so determined, are, by virtue of regulation 15(8)[^key-1bfb06cba191b08703dfc77d9f458d76] of those Regulations, not required to give notices under regulation 15(3)(a) or (b)[^key-1260511d7906e38218d649aabda17c0e] of those Regulations,
+
+they may require the borrower to repay his student loan in such manner and over such period of time as in all the circumstances seems appropriate.
+
+### 6. Application of payments received[^key-3334e710d481f19b143440394294875f]
+
+Any repayment received by the Scottish Ministers shall be applied by them in reduction or in satisfaction of–
+
+- (a) first, any outstanding interest payable by the borrower by virtue of regulation 15 of the Loan Regulations , regulation 15 of the Education (Student Loans) (Scotland) Regulations 2000, regulation 14 of the Graduate Endowment (Scotland) Regulations 2001[^key-f8d599caa72310d50359ec5ba8a48f2b] , regulation 11 of the Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006[^key-d332621fccfdf3a33833d4c79fdf7f20] regulation 14 of the Graduate Endowment (Scotland) Regulations 2007, regulation 11 of the Graduate Endowment (Scotland) Regulations 2008,[^key-e33046e29820f6339a93a495f3865452] or regulation 12(3) of these Regulations; and
+- (b) second, any outstanding principal of the relevant student loan, which shall be reduced or satisfied from the date of receipt.
+
+### 7. Time for repayments[^key-c5c6b7faca73b0653dd6690b6a6e5e5e]
+
+(1) A borrower may repay all or any part of his student loan to the Scottish Ministers at any time.
+
+(2)[^key-c4a1a8456049373a8c1ff4346182b658] A borrower shall not be required to repay–
+
+- (a) such part of their student loan as relates to a particular notification of eligibility under the Loan Regulations or the Education (Student Loans) (Scotland) Regulations 2000 until the year of assessment beginning after the date on which that eligibility terminates under regulation 8 of the relevant Regulations; [^key-1fb82b7c21af406b05b59eb038192aa2]...
+- (b) any part of any loan made under the Graduate Endowment (Scotland) Regulations 2001 , the Graduate Endowment (Scotland) Regulations 2007 or the Graduate Endowment (Scotland) Regulations 2008[^key-2ea09cc9b4a0da53d095e6932e74f174] until the year of assessment beginning after the date on which that loan is applied by the Scottish Ministers in accordance with regulation 13 of the Graduate Endowment (Scotland) Regulations 2001, regulation 13 of the Graduate Endowment (Scotland) Regulations 2007 or regulation 9 of the Graduate Endowment (Scotland) Regulations 2008 (whichever is appropriate)[^key-6fca680b0886066b14c118c781da4fa0]; and[^key-b129a50eb80181070202e371b9c679ee]
+- (c) such part of their student loan as relates to a particular notification of eligibility under the Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006 until the year of assessment beginning after the date on which that eligibility terminates under regulation 7 of those Regulations.
+
+(3) A borrower–
+
+- (a) whose student loan was made in connection with his attendance at a course for the initial training of teachers, other than a course leading to a first degree; and
+- (b) who has notified the Scottish Ministers in writing that he does not wish to repay that loan during any period in which he is required to repay a loan under the Education (Student Loans) Act 1990[^f00008] or the Education (Student Loans) (Northern Ireland) Order 1990[^f00009],
+
+shall not be required to repay any of his student loan during any such period.
+
+### 8. Cancellation[^key-e7163127dff7fd779267c40a330b11ef][^key-adfa92a408535f48185685a78c4c815c]
+
+(1) This regulation shall apply where a borrower is not in breach of any obligation to repay their student loan under Part 3[^key-475abf169654bb3b14b178dc80f6c176] of the Collection Regulations or any obligation to repay any loan mentioned in paragraph (5).
+
+(2) In this regulation “post 2007 student loan” means any student loan taken out by persons mentioned in paragraph (3) paid under–
+
+- (a) the 2007 Regulations; or
+- (b) any regulations made after 1st August 2007 under sections 73(f), 73B and 74(1) of the Act.
+
+(3) The persons mentioned in this paragraph are–
+
+- (a) a borrower who takes out a student loan for the first time in respect of an academic year beginning on or after 1st August 2007; or
+- (b) a borrower who takes out a student loan in respect of a course which satisfies the following conditions–
+  - (i) it begins on or after 1st August 2007;
+  - (ii) it is not a continuous programme of higher education which the borrower began before 1st August 2007; and
+  - (iii) it is not a course in relation to which the borrower’s status as a student eligible for support under regulations made under section 73(f), 73B and 74(1) of the Act transferred from another course which the borrower began before 1st August 2007.
+
+(4) The Scottish Ministers shall cancel the borrower’s liability to repay that borrower’s student loan when one of the following occurs–
+
+- (a) the borrower dies;
+- (b) the borrower receives a disability related benefit and because of that borrower’s disability is permanently unfit for work;
+- (c) in the case of a post 2007 student loan, the 30th[^key-464595974b39ec923c12228b3d7bb220] anniversary of the date on which the borrower became liable to repay the student loan; or
+- (d) in the case of a student loan which is not a post 2007 student loan, the earlier of —[^key-db0396466d6a6ba431a448f87fcb5e7c]
+  - (i) the borrower’s 65th birthday; or
+  - (ii) the 30th anniversary of the date on which the borrower became liable to repay the student loan.
+
+(5) The loans mentioned in this paragraph are loans made under the Education (Student Loans) Act 1990, the Education (Student Loans) (Northern Ireland) Order 1990, the Teaching and Higher Education Act 1998 and regulations made under it and the Education (Student Support) (Northern Ireland) Order 1998 and regulations made under it.
+
+(6) The cancellation of the borrower’s liability to repay that borrower’s student loan under paragraph (4) shall not affect their liability to make repayments under Part 3[^key-408e680b846bd41819d294c240347127] of the Collection Regulations subject to and in accordance with that Part in respect of any year of assessment–
+
+- (a) in the case of cancellation under paragraph (4)(a) during which the borrower was alive; and
+- (b) in any other case preceding the year of assessment during which the student loan was cancelled.
+
+(7) The cancellation of a borrower’s liability to repay their student loan under paragraph (4) shall not affect that borrower’s liability to make repayments by way of deductions made under Part 4 of the Collection Regulations subject to and in accordance with that Part in respect of any earnings period ending before the date of cancellation.
+
+### 9. Refunds[^key-770943697e8e8b0a79cd8e1e30bf68ad]
+
+(1) Where the Scottish Ministers have received a repayment either directly from the borrower or by way of deduction from a borrower’s emoluments in accordance with Part 4[^key-409898ad03d183c2d4b6ad810546f619] of the Collection Regulations–
+
+- (a) which results in the student loan being paid in full; or
+- (b) when the student loan has already been paid in full,
+
+they shall refund to the borrower any amount not required to repay the student loan in full together with interest calculated as if it were the principal of a student loan outstanding from the date of receipt of the repayment to the date of the refund.
+
+(2) Where the Scottish Ministers are considered to have received a payment collected under Part 3[^key-b721b3474e46348ff9ff05099f6c02a7] of the Collection Regulations in respect of a year of assessment–
+
+- (a) which results in the student loan being paid in full; or
+- (b) when the student loan has already been paid in full,
+
+the repayment shall be considered to have been received by the Scottish Ministers on the 31st January next following the year of assessment in accordance with paragraph (5)(b), and the Scottish Ministers shall refund to HMRC[^key-c209056f6d0fa3e816d3213d32e60769] for the account of the borrower any overpayment which results from the receipt.
+
+(3) HMRC shall be considered to have received a refund under paragraph (2) on the date on which the amount refunded was considered to have been received by the Scottish Ministers in accordance with paragraph (5).
+
+(4) Where the Scottish Ministers have received a repayment of a student loan by way of deduction from a borrower’s emoluments for a year of assessment in accordance with Part 4[^key-ede25b0f68a89cdd18acd19eef83f61a] of the Collection Regulations and those emoluments do not exceed the repayment threshold[^key-1fc8b6c8da2d21c8d17a3e06a5f860ed], the Scottish Ministers shall on application by the borrower refund the amount deducted.
+
+(5) For the purposes of this regulation, a repayment shall be considered to have been paid by the borrower and received by the Scottish Ministers as follows–
+
+- (a) where an amount is paid by the borrower directly to the Scottish Ministers, a repayment of that amount shall be considered to have been received by them on the date on which the amount is in fact received;
+- (b) where HMRC[^key-156187ecc2f4eed76eb593c1cd0a371b] have collected a repayment under Part 3[^key-217392a9692676475f9616077a04e702] of the Collection Regulations, a repayment of that amount shall be considered to have been received by the Scottish Ministers on 31st January following the year of assessment, whether or not the borrower has in fact paid any or all of that amount to the Board; [^key-0ba2ed648efc858e36668f4e8bd32a13]...
+- (c) where an amount is deducted by an employer under Part 4[^key-5d881f638fdc373614404f9c62018f70] of the Collection Regulations in respect of the year of assessment ending on 5 April 2019 or any previous year of assessment[^key-8b7de1c88d9c7a0c1e853dee6fa0bc2a], that amount shall be aggregated with all other such amounts deducted in the same year of assessment and repayments of the aggregate amount shall be considered to have been received by the Scottish Ministers in equal instalments received on the days during the year of assessment which are–
+  - (i) the last days of a month;
+  - (ii) days after the date on which the Scottish Ministers have given notice under regulation 15(3)(b)[^key-948b4d3359df51ced11548dea34396b6] of the Collection Regulations that payment should be deducted; and
+  - (iii) days before the date on which they have given notice under regulation 15(3)(e)[^key-dc37a3186e07b270b9bfc1226d70de8a] of the Collection Regulations that payment should cease to be deducted ; and[^key-b9a8311c33dc16a5947f095aafd5698f]
+- (d) where an amount is deducted by an employer under Part 4 of the Collection Regulations in respect of the year of assessment beginning on 6 April 2019 or any subsequent year of assessment, a repayment of that amount is considered to have been received by the Scottish Ministers on—
+  - (i) the day on which it was deducted by the employer, or
+  - (ii) where an adjustment is made in relation to the deduction, on the day on which that adjustment is made or the last day of the relevant tax year if the adjustment is made outside the relevant tax year[^key-642337b28abb3f6e49af657fda12d661].
+
+## PART III — REPAYMENTS BY OVERSEAS RESIDENTS
+
+### 10. Interpretation[^key-8eb0257f3e5ac32fc2372db4c039f3ae]
+
+In this Part–
+
+- [^key-c69e8d0d2e7175ea132f1c83f21416db]...
+- “gross income” means income from all sources before deductions for or relief from tax or other statutory charge;
+- “residence” in or outside the United Kingdom shall have the same meaning as it has in the Taxes Acts.
+
+### 11. Notice of overseas residence[^key-ca7674ba8483cade89b61b414f3ff5a2][^key-db743edb8e54abef842bbe5cf2390883]
+
+(1) A borrower shall notify the Scottish Ministers of any period of residence outside the United Kingdom which exceeds 3 months and such notification shall be made within 6 weeks of the expiry of that period.
+
+(2) A borrower shall provide, within such period as may be specified by the Scottish Ministers, such information about that borrower’s income during any such period of residence as they may require.
+
+### 11A. Information requests[^key-554dd8f00698e81aa181bf69ec8dc590]
+
+A borrower shall, within six weeks of the event, inform the Scottish Ministers and provide them with particulars if either of the following events occur–
+
+- (a) the borrower’s address changes; or
+- (b) the borrower’s name changes.
+
+**11B.** (1) The Scottish Ministers may serve a notice (“an Information Notice”) on a borrower[^key-1c7ba8b4676f02d67ec213025a7f0383].
+
+(2) An Information Notice under paragraph (1) requires the borrower to provide some or all of the following, together with documentary evidence in support where relevant–
+
+- (a) the borrower’s full name;
+- (b) the borrower’s telephone number;
+- (c) the borrower’s national insurance number or a valid reason for not having one;
+- (d) the borrower’s date of birth;
+- (e) a statement of whether the borrower is employed, self-employed or not employed; and
+- (f) the following particulars of the borrower’s employment and income during the period specified in the notice–
+  - (i) for each part of that period during which the borrower was employed, the dates on which the employment began and (unless it is still continuing) ended, the name and address of the borrower’s employer, the borrower’s employee number and the borrower’s gross income;
+  - (ii) for each part of that period during which the borrower was self employed, the dates on which it began and (unless it is still continuing) ended and the borrower’s gross income; and
+  - (iii) the gross amount, source and date of receipt of any other income.
+
+(3) An Information Notice under paragraph (1) must set out the provisions contained in regulation 11C.
+
+(4) Where the Scottish Ministers have served an Information Notice on a borrower under paragraph (1), the borrower must comply with it within a period of 28 days beginning with the day on which the Information Notice was served.
+
+**11C.** (1) Where a borrower has failed to comply with regulation 11A, the Scottish Ministers may require the borrower to pay a penalty of £50.
+
+(2) Where a borrower has failed to comply with regulation 11B(4), the Scottish Ministers may require the borrower to pay a penalty of £50.
+
+(3) Where a borrower has been liable to a penalty under paragraph (2) in respect of an Information Notice and has not paid it, upon expiry of the time limit for payment the Scottish Ministers may require the borrower to pay one additional penalty of £100 in respect of that Information Notice.
+
+(3A)[^key-14ad3fba334a8a66f1c264f859834ddc] Where a borrower has been liable to a penalty under paragraph (2) in respect of a failure to comply with an Information Notice and has paid it, but does not comply with the Information Notice within a period of 28 days from the date of payment, the Scottish Ministers may require the borrower to pay one additional penalty of £100 in respect of a failure to comply with that Information Notice;
+
+(4) The Scottish Ministers must notify the borrower of a penalty imposed under paragraph (1), (2), (3) or (3A)[^key-f3b2f7a0519ca223d9b9abab2df9eadb] by serving a notice (“a Penalty Notice”) on the borrower[^key-95f10c6e7b9340057a2a3113da46e937].
+
+(5) Notwithstanding the provisions of regulation 7(2)and (3), a penalty imposed under paragraph (1), (2), (3) or (3A)[^key-40460fe9cb3228d9b42de5b6066c9066] is payable within a period of 28 days beginning with the day on which the Penalty Notice was served and may be added to the borrower’s loan account.
+
+**11D.** (1) Where the Scottish Ministers incur reasonable costs or expenses in taking steps to–
+
+- (a) serve an Information Notice on a borrower under regulation 11B(1);
+- (b) serve a Penalty Notice on a borrower under regulation 11C(4); or
+- (c) obtain the information requested in an Information Notice served under regulation 11B(1),
+
+they may require the reimbursement of those costs or expenses by the borrower and may add them to the borrower’s loan account.
+
+**11E.** (1) Where the Scottish Ministers consider that having regard to all the circumstances of a particular case a time limit in regulation 11B(4), 11C(3A)[^key-780365c4979dd2f2174a2aedaba32082] or regulation 11C(5) should be relaxed, they may specify another time limit.
+
+**11F.** In this Part a document is to be treated as served on a person when it is delivered to that person or sent to that person by post or by electronic means[^key-eb8f9509da2269910b5b092529ef07b7].
+
+**11G.**[^key-1b557833b5ce78e58419bb16d54b049e] Where a borrower has failed to comply with a Penalty Notice or an Information Notice or both the Scottish Ministers may require the borrower to repay their student loan in full immediately.
+
+### 12. Notice of liability to make repayments[^key-6369de429b08986f8f3f7ae9f6500f9c][^key-7d3e5ec30074948c09c585919947cd95]
+
+(1) Subject to regulation 13A, where the Scottish Ministers are satisfied that a borrower is resident outside the United Kingdom they may serve a notice on the borrower requiring the borrower to repay that borrower’s student loan in accordance with regulation 13.
+
+(2) In a notice served under paragraph (1) the Scottish Ministers may require a borrower who has failed to–
+
+- (a) give the notice required by regulation 11(1); or
+- (b) provide any information required by the Scottish Ministers under regulation 11(2),
+
+to repay immediately such part of their student loan as will reduce the amount outstanding to the amount which the Scottish Ministers consider would have been outstanding if the borrower had given the notice timeously or provided the information required of that borrower and if they had made a determination in terms of regulation 13A.
+
+### 13. Repayment by fixed instalments[^key-252a015435a6bd07bfb75efaa5b74d6a][^key-e0b1246502da9c811d52da60ddbdc2c2]
+
+A borrower upon whom notice is served under regulation 12(1) shall not later than the day specified in that notice and not later than the same day of each subsequent month pay the Scottish Ministers a fixed instalment, calculated in accordance with regulation 13B.
+
+### 13A. Repayment by income related instalments[^key-4fbe28c5426596b940fb6e802097fbd5]
+
+(1) Where the Scottish Ministers are satisfied that a borrower to whom regulation 12 applies has complied with a requirement to provide information under regulation 11, they may determine that the borrower may repay that borrower’s student loan by income related instalments, in accordance with this regulation.
+
+(2) The first such instalment must be paid on a day determined by the Scottish Ministers, being a day not more than 2 months later than the date of the determination, and subsequent instalments shall be paid not later than the same day of each subsequent month for up to 12 months.
+
+(3)[^key-1e3befadac38b499cccf0a04c3f24048] The Scottish Ministers must determine the amount of each instalment and must ensure that the total amount of all instalments paid in the period up to 12 months from the date of the first instalment referred to in paragraph (2) does not exceed the relevant amount.
+
+(4) The relevant amount shall be 9% of the gross income which the Scottish Ministers consider the borrower is likely to receive during the 12 month period following the date of the determination referred to in paragraph (2), disregarding–
+
+- (a) income up to the applicable threshold, calculated in accordance with the table in regulation 13B(2) as read with regulation 13B(2A)[^key-ef89096b975ff4487d24348a334a5738]; and
+- (b) income in respect of which the Scottish Ministers are satisfied that repayments are likely to be made under Part 3 or 4[^key-9cc476dab88787518f3ebb1a1789cacc] of the Collection Regulations.
+
+(5) The amount of each instalment[^key-c6d5456e018360afa08940a60c0467e5] shall be stated in the determination.
+
+(6) At the end of the period for payment of instalments referred to in paragraph (2), the borrower shall pay fixed instalments under regulation 13, subject to a further determination under paragraph (1).
+
+(7) At any time during the period for payment of instalments referred to in paragraph (2) the Scottish Ministers may make a re determination under paragraph (1).
+
+### 13B. Calculation of fixed instalment and applicable threshold
+
+(1) The fixed instalment mentioned in regulation 13 shall be determined by reference to the most recent price level index for the borrower’s country of residence and in accordance with the following table–
+
+| Band | Price Level Index | Fixed Instalment |
+| --- | --- | --- |
+| A[^key-bb2a30846c54033a73e0c8f80d02bf6a] | 0\<30 | £40.20 |
+| B | 30\<50 | £80.40 |
+| C | 50\<70 | £120.60 |
+| D | 70\<90 | £160.80 |
+| E | 90\<110 | £201.00 |
+| F | 110\<130 | £241.00 |
+| G | 130+ | £281.40 |
+
+(2) The applicable threshold mentioned in regulation 13A shall be determined by reference to the most recent price level index for the borrower’s country of residence and in accordance with the following table as read with paragraph (2A)[^key-3bdce10c9fbcdcbaae99c9ca0153ca73] –
+
+| Band | Price Level Index | Applicable Threshold |
+| --- | --- | --- |
+| A[^key-50c7e4a627a47e49532b68b465915976] | 0\<30 | £5,000 |
+| B | 30\<50 | £10,000 |
+| C | 50\<70 | £15,000 |
+| D | 70\<90 | £20,000 |
+| E | 90\<110 | £25,000 |
+| F | 110\<130 | £30,000 |
+| G | 130+ | £35,000 |
+
+(2A)[^key-adabb261ace5d561a5bf8abc06b2239b] On 6th April 2012, and on 6th April of each subsequent year [^key-8ab15443e37dfdcb8860889a2a6e309c]..., each amount in the column headed “Applicable Threshold” in the table in paragraph (2) shall increase to an amount equal to X + (X x Y%) and rounded up to the nearest £5 where—
+
+- X is the amount in the column entitled “Applicable Threshold” immediately before 6th April, and
+- Y is the percentage increase between the retail prices all items index published by the Office for National Statistics for the two Marches immediately before the previous year of assessment.
+
+(3) The price level index for the United Kingdom is 100.
+
+(4)[^key-7be2561cf2c0912c49d7091857c36bca] Price level indices shall be calculated using the most recent provisional comparative price level indices measured in gross domestic product produced by the World Bank’s Development Indicators.
+
+(5)[^key-853b20e023647b5c738883db5be7939a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Where a price level index cannot be calculated under paragraph (4) [^key-3661102db402e381106944f4386d0f46]..., the applicable fixed instalment and threshold shall respectively be those for Band A given in the tables in paragraphs (1) and (2).
+
+(7) The Scottish Ministers may determine that the applicable fixed instalment and threshold for a borrower shall be that for a country other than that borrower’s country of residence.
+
+### 14. Application to cease repayment by instalments[^key-e6afc9d85a70bb7ffcdb1a61a0f4a5cc][^key-451838e27094ddb23c8de38d7116f53d]
+
+(1) A borrower who–
+
+- (a) is required to make repayments under this Part; and
+- (b) has not been required to repay that borrower’s student loan in full immediately under regulation 15,
+
+may apply to the Scottish Ministers for a determination that the borrower shall no longer be required to make such repayments.
+
+(2) Where the Scottish Ministers are satisfied that–
+
+- (a) the borrower is resident in the United Kingdom; and
+- (b) the borrower is likely to be resident in the United Kingdom for the year of assessment during which the date specified in their determination will fall,
+
+the Scottish Ministers may determine that a borrower who has applied under paragraph (1) shall not be required to make repayments under this Part from a date specified in their determination, being a date not more than 2 months later than the date of the determination.
+
+(3) A determination under paragraph (2) shall have effect until the borrower again becomes liable to repay that borrower’s student loan under regulation 13 or 13A.
+
+### 15. Penalties[^key-1f30fb45754023c336e524b3ecc3a549]
+
+If a borrower does not pay an instalment or other amount when it is due the Scottish Ministers may require the borrower to repay their student loan in full immediately.
+
+HENRY McLEISH
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+(This note is not part of the Regulations)
+
+These Regulations deal with the repayment of student loans by Scottish domiciled students who started higher education courses in August 1998 or later. Students who began their courses before then, and certain students who began their courses after then (for example gap-year students), remain subject to the previous system of mortgage-style loans for maintenance under the Education (Student Loans) Act 1990 ([1990 c. 6)](https://www.legislation.gov.uk/ukpga/1990/6).
+
+Repayments will be collected in three main ways:
+
+- (a) by the Inland Revenue through self assessment (Part III of the Education (Student Loans) (Repayment) Regulations 2000 (S.I. [2000/944](https://www.legislation.gov.uk/uksi/2000/944))) (the “Collection Regulations”);
+- (b) by the Inland Revenue via employers' deductions through the PAYE system (Part IV of the Collection Regulations);
+- (c) by the Scottish Ministers, where borrowers are living and working abroad (Part III of these Regulations.
+
+Collection by the Inland Revenue is triggered by a determination made by the Scottish Ministers in terms of regulation 3(2) of the Collection Regulations. Borrowers may also make voluntary repayments to Scottish Ministers at any time.
+
+**Part I** of these Regulations contains introductory provisions and revokes current provision in the Education (Student Loans) (Scotland) Regulations 1999 (S.I. [1999/1001](https://www.legislation.gov.uk/uksi/1999/1001)) dealing with repayment.
+
+## Part II
+
+In the event that Scottish Ministers decide that the Inland Revenue should not collect repayments under Parts III and IV of the Collection Regulations, or in cases where the borrower’s loan does not exceed £120, borrowers may be asked to make repayments directly to the Scottish Ministers (*regulation 5*).
+
+On receipt of payment towards the outstanding loan, Scottish Ministers will firstly apply the repayment to reduce any outstanding interest and secondly the outstanding principal loan (*regulation 6*).
+
+Borrowers may repay their loans before they are required to do so if they wish. Borrowers are not required to make repayments until the 6th April after they have completed or left their courses. Borrowers who have a loan for a Postgraduate Certificate of Education can notify Scottish Ministers that they do not wish to repay the loan at the same time as one made under the mortgage-style repayment system and repayments will be deferred until repayment of the mortgage-style loan is completed (*regulation 7*).
+
+Provided that a borrower has met all his student loan repayment obligations, loans are to be cancelled when the borrower reaches the age of 65, or dies, or if he becomes disabled and because of his disability is permanently unfit for work. Liability to make loan repayments ceases on the date of cancellation. For borrowers in self-assessment who die, loan repayments are collected through annual tax returns, including that for the year in which the borrower dies. For those in self-assessment whose loans are cancelled at age 65 or due to permanent disability, liability to make loan repayments ceases at the tax year in which the loan is cancelled. For borrowers making repayment via their employers, the liability to make repayments ceases on the date of cancellation (*regulation 8*).
+
+If a borrower makes any repayments which exceed the total outstanding balance on his loan, Scottish Ministers must refund the overpayment together with interest. Interest is to be paid from the date of receipt of the overpayment at the same rate that it is charged to loan accounts. Where an amount is received through self-assessment to tax which exceeds the total amount outstanding, the overpayment is to be refunded to the Inland Revenue and the borrower’s liability to the Inland Revenue reduced accordingly. Where a borrower has made repayments through his employer in a particular tax year and his income is less than £10,000, he may apply to Scottish Ministers to have those repayments refunded. These types of refund do not attract interest. Repayments made directly to Scottish Ministers will be taken to be received on the date of receipt. Repayments made directly to the Inland Revenue through the self-assessment tax system will be taken to be received on 31st January in the financial year following the financial year to which the repayment relates. Repayments made via employers will be taken to be received in monthly instalments received on the last day of each month in a year to which the repayment relates (*regulation 9*).
+
+**Part III** of these Regulations deals with borrowers who are not resident in the UK for income tax purposes. Borrowers must tell Scottish Ministers if they are resident overseas for more than three months. They must, on request, provide information about their residence overseas, such as the purpose of their stay and their employment. If a borrower fails to provide Scottish Ministers with required information, they may require the borrower to repay immediately that part of the loan that would have been repaid had the information been provided and may apply a rate of interest to the loan at three times the normal rate of interest until the information is provided (*regulations 11 and 12*).
+
+A borrower who is outside the UK tax system because he is living abroad must make repayments directly to Scottish Ministers and will receive a notification from them to that effect. Repayments will be due at the rate of £246 a month (based on 9% of income over £10,000 at the assumed rate of twice UK national average earnings measured in months each year). However, a borrower may apply to pay a lower monthly instalment equal to 1/12 of 9% of his annual income over £10,000. If a borrower misses one or morerepayments, Scottish Ministers may require him to repay the total outstanding loan balance immediately (*regulation 13*).
+
+Provision is made for a borrower who ceases to be resident abroad to be no longer required to make repayments directly to Scottish Ministers (*regulation 14*).
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). Section 73(f) was amended by section 29(1) of the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30). Section 73B was inserted by section 29(2) of the Teaching and Higher Education Act 1998. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-25b73a9743d80321c62215e1adff6802]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2000/110/regulation/1) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-4ac9136119a3771a69bd14ce51c499ec]: Commencement: Reg. 2 in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^f00002]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^key-0af04c83e53fcc2d1ab74afb83f4b9fd]: Textual amendment: Words in reg. 2 omitted (7.4.2009) by virtue of [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2009/102/regulation/3/a)
+
+[^key-625f9b4f275dd27a43ae7d603de30dab]: Textual amendment: Words in reg. 2 substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2009/102/regulation/3/b)
+
+[^key-cf13f42b629cbf3c9e2e100e6da55ad5]: Textual amendment: Words in reg. 2 inserted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [3](https://www.legislation.gov.uk/ssi/2007/159/regulation/3)
+
+[^key-85b816e67f0ad735b3da2148c841b9fd]: Textual amendment: Words in reg. 2 inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [8](https://www.legislation.gov.uk/ssi/2024/311/regulation/8)
+
+[^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4), amended by the Social Security (Incapacity for Work) Act [1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), sections 1 to 3, 5 to 6, 8 to 11 and Schedules 1 and 2.
+
+[^key-8939260f64ccc38d2df7ed2b23b43239]: Textual amendment: Words in reg. 2 added (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2008/1879/regulation/36)
+
+[^key-1491ca0d7081651d91c4ec13e70e0463]: Textual amendment: Words in reg. 2 inserted (8.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/65)](https://www.legislation.gov.uk/ssi/2013/65), [art. 1](https://www.legislation.gov.uk/ssi/2013/65/article/1), [reg. 6](https://www.legislation.gov.uk/ssi/2013/65/regulation/6)
+
+[^key-44af79e03da2638f23356e90b11a062d]: Textual amendment: Words in reg. 2 inserted (11.6.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 3) Regulations 2013 (S.S.I. 2013/142)](https://www.legislation.gov.uk/ssi/2013/142), [regs. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1), [6](https://www.legislation.gov.uk/ssi/2013/142/regulation/6)
+
+[^key-bd905dd008ed472f066875d95948bdd9]: Textual amendment: Words in reg. 2 inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [7](https://www.legislation.gov.uk/ssi/2021/73/regulation/7) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+
+[^key-78ebafcfe35146f03ba03dc056519666]: Textual amendment: Words in reg. 2 inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [7](https://www.legislation.gov.uk/ssi/2022/31/regulation/7) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+
+[^f00005]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967) (see Parts III and IV of Schedule 2); the relevant amending regulations are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [2022](https://www.legislation.gov.uk/uksi/1988/2022), [1989/1678](https://www.legislation.gov.uk/uksi/1989/1678), [1991/1559](https://www.legislation.gov.uk/uksi/1991/1559), [2742](https://www.legislation.gov.uk/uksi/1991/2742), [1993/1150](https://www.legislation.gov.uk/uksi/1993/1150), [2119](https://www.legislation.gov.uk/uksi/1993/2119), [1994/2139](https://www.legislation.gov.uk/uksi/1994/2139), [3061](https://www.legislation.gov.uk/uksi/1994/3061), [1995/482](https://www.legislation.gov.uk/uksi/1995/482), [515](https://www.legislation.gov.uk/uksi/1995/515), [1997/543](https://www.legislation.gov.uk/uksi/1997/543).
+
+[^key-0cfea4f426d161e78e56cd311a45543f]: Textual amendment: Words in reg. 2 inserted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2009/102/regulation/3/c)
+
+[^f00006]: Footnote: S.I. [1999/1001](https://www.legislation.gov.uk/uksi/1999/1001); as amended by S.I. [1999/1131](https://www.legislation.gov.uk/uksi/1999/1131).
+
+[^key-3f852030014d2ad9a0b0213c1d9b0105]: Textual amendment: Words in reg. 2 inserted (6.4.2012) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2012 (S.S.I. 2012/22)](https://www.legislation.gov.uk/ssi/2012/22), [regs. 1](https://www.legislation.gov.uk/ssi/2012/22/regulation/1), [3](https://www.legislation.gov.uk/ssi/2012/22/regulation/3)
+
+[^key-0132dc44f9c7f20fbd6ce6fb32d5cf75]: Textual amendment: Words in reg. 2(a) substituted (6.4.2021) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2021 (S.S.I. 2021/8)](https://www.legislation.gov.uk/ssi/2021/8), [regs. 1](https://www.legislation.gov.uk/ssi/2021/8/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2021/8/regulation/3/a/i) (with [reg. 9](https://www.legislation.gov.uk/ssi/2021/8/regulation/9))
+
+[^key-266477280df26dd8ab63a9aad54a2e77]: Textual amendment: Sum in Reg. 2(a) substituted (6.4.2021) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2021 (S.S.I. 2021/8)](https://www.legislation.gov.uk/ssi/2021/8), [regs. 1](https://www.legislation.gov.uk/ssi/2021/8/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2021/8/regulation/3/a/ii) (with [reg. 9](https://www.legislation.gov.uk/ssi/2021/8/regulation/9))
+
+[^key-3d8169264dfdbcd3734ddfc43077b1cd]: Textual amendment: Words in reg. 2(b) substituted (6.4.2021) by virtue of [The Repayment of Student Loans (Scotland) Amendment Regulations 2021 (S.S.I. 2021/8)](https://www.legislation.gov.uk/ssi/2021/8), [regs. 1](https://www.legislation.gov.uk/ssi/2021/8/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2021/8/regulation/3/b) (with [reg. 9](https://www.legislation.gov.uk/ssi/2021/8/regulation/9))
+
+[^key-5438d31807e2870ab19bea50f1d4c613]: Textual amendment: Words in reg. 2 omitted (5.4.2016) by virtue of [The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/82)](https://www.legislation.gov.uk/ssi/2016/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2016/82/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/ssi/2016/82/regulation/3/2/a)
+
+[^key-0d55a57dad48678a0da60057b550cf96]: Textual amendment: Words in reg. 2 omitted (5.4.2016) by virtue of [The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/82)](https://www.legislation.gov.uk/ssi/2016/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2016/82/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/ssi/2016/82/regulation/3/2/b)
+
+[^f00007]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). Section 73A was inserted by section 29(2) of the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-a5e9ea821513b886b125e9f0c2a55a7f]: Textual amendment: Words in reg. 2 substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2009/102/regulation/3/d)
+
+[^key-1079b7bbb91ae34c013a83aef21c3e96]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2000/110/regulation/3) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-7c869141d7b602c45341f86ec1ba0f7b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2000/110/regulation/4) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-22297909e87de28a881bf1095252b5d5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2000/110/regulation/5) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-bb633867153139ee6a96da055f8f6d72]: Textual amendment: Word in [reg. 5(a)](https://www.legislation.gov.uk/ssi/2000/110/regulation/5/a) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2009/102/regulation/4/a/i)
+
+[^key-ec61d5f2aa99e02c5a23588fa46d4cff]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/ssi/2000/110/regulation/5/a) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2009/102/regulation/4/a/ii)
+
+[^key-1bfb06cba191b08703dfc77d9f458d76]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/ssi/2000/110/regulation/5/b) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/ssi/2009/102/regulation/4/b/i)
+
+[^key-1260511d7906e38218d649aabda17c0e]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/ssi/2000/110/regulation/5/b) substituted (7.4.2009) by virtue of [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/ssi/2009/102/regulation/4/b/ii)
+
+[^key-3334e710d481f19b143440394294875f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2000/110/regulation/6) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-f8d599caa72310d50359ec5ba8a48f2b]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/ssi/2000/110/regulation/6/a) inserted (1.8.2001) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2001 (S.S.I. 2001/227)](https://www.legislation.gov.uk/ssi/2001/227), [regs. 1](https://www.legislation.gov.uk/ssi/2001/227/regulation/1), [3](https://www.legislation.gov.uk/ssi/2001/227/regulation/3)
+
+[^key-d332621fccfdf3a33833d4c79fdf7f20]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/ssi/2000/110/regulation/6/a) inserted (1.7.2006) by [The Education (Student Loans for Tuition Fees) (Repayment and Allowances) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/326)](https://www.legislation.gov.uk/ssi/2006/326), [regs. 1](https://www.legislation.gov.uk/ssi/2006/326/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2006/326/regulation/2/a)
+
+[^key-e33046e29820f6339a93a495f3865452]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/ssi/2000/110/regulation/6/a) inserted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [5](https://www.legislation.gov.uk/ssi/2009/102/regulation/5)
+
+[^key-c5c6b7faca73b0653dd6690b6a6e5e5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2000/110/regulation/7) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-c4a1a8456049373a8c1ff4346182b658]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/ssi/2000/110/regulation/7/2) substituted (1.8.2001) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2001 (S.S.I. 2001/227)](https://www.legislation.gov.uk/ssi/2001/227), [regs. 1](https://www.legislation.gov.uk/ssi/2001/227/regulation/1), [4](https://www.legislation.gov.uk/ssi/2001/227/regulation/4)
+
+[^key-1fb82b7c21af406b05b59eb038192aa2]: Textual amendment: Word in [reg. 7(2)(a)](https://www.legislation.gov.uk/ssi/2000/110/regulation/7/2/a) omitted (1.7.2006) by virtue of [The Education (Student Loans for Tuition Fees) (Repayment and Allowances) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/326)](https://www.legislation.gov.uk/ssi/2006/326), [regs. 1](https://www.legislation.gov.uk/ssi/2006/326/regulation/1), [2(b)(i)](https://www.legislation.gov.uk/ssi/2006/326/regulation/2/b/i)
+
+[^key-2ea09cc9b4a0da53d095e6932e74f174]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/ssi/2000/110/regulation/7/2/b) inserted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2009/102/regulation/6/a)
+
+[^key-6fca680b0886066b14c118c781da4fa0]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/ssi/2000/110/regulation/7/2/b) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2009/102/regulation/6/b)
+
+[^key-b129a50eb80181070202e371b9c679ee]: Textual amendment: [Reg. 7(2)(c)](https://www.legislation.gov.uk/ssi/2000/110/regulation/7/2/c) and word inserted (1.7.2006) by [The Education (Student Loans for Tuition Fees) (Repayment and Allowances) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/326)](https://www.legislation.gov.uk/ssi/2006/326), [regs. 1](https://www.legislation.gov.uk/ssi/2006/326/regulation/1), [2(b)(ii)](https://www.legislation.gov.uk/ssi/2006/326/regulation/2/b/ii)
+
+[^f00008]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6).
+
+[^f00009]: Footnote: S.I. [1990/1506 (N.I.11)](https://www.legislation.gov.uk/nisi/1990/1506).
+
+[^key-e7163127dff7fd779267c40a330b11ef]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2000/110/regulation/8) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-adfa92a408535f48185685a78c4c815c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2000/110/regulation/8) substituted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [4](https://www.legislation.gov.uk/ssi/2007/159/regulation/4)
+
+[^key-475abf169654bb3b14b178dc80f6c176]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/8/1) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [7](https://www.legislation.gov.uk/ssi/2009/102/regulation/7)
+
+[^key-464595974b39ec923c12228b3d7bb220]: Textual amendment: Word in [reg. 8(4)(c)](https://www.legislation.gov.uk/ssi/2000/110/regulation/8/4/c) substituted (4.12.2018) by [The Education (Student Loans) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/307)](https://www.legislation.gov.uk/ssi/2018/307), [regs. 1](https://www.legislation.gov.uk/ssi/2018/307/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2018/307/regulation/2/a)
+
+[^key-db0396466d6a6ba431a448f87fcb5e7c]: Textual amendment: [Reg. 8(4)(d)(i)(ii)](https://www.legislation.gov.uk/ssi/2000/110/regulation/8/4/d/i/ii) and words substituted for words (4.12.2018) by [The Education (Student Loans) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/307)](https://www.legislation.gov.uk/ssi/2018/307), [regs. 1](https://www.legislation.gov.uk/ssi/2018/307/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2018/307/regulation/2/b)
+
+[^key-408e680b846bd41819d294c240347127]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/ssi/2000/110/regulation/8/6) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [7](https://www.legislation.gov.uk/ssi/2009/102/regulation/7)
+
+[^key-770943697e8e8b0a79cd8e1e30bf68ad]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2000/110/regulation/9) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-409898ad03d183c2d4b6ad810546f619]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/1) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2009/102/regulation/8/a)
+
+[^key-b721b3474e46348ff9ff05099f6c02a7]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/2) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [8(c)](https://www.legislation.gov.uk/ssi/2009/102/regulation/8/c)
+
+[^key-c209056f6d0fa3e816d3213d32e60769]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/2)[(3)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/3) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [8(b)](https://www.legislation.gov.uk/ssi/2009/102/regulation/8/b)
+
+[^key-ede25b0f68a89cdd18acd19eef83f61a]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/4) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2009/102/regulation/8/a)
+
+[^key-1fc8b6c8da2d21c8d17a3e06a5f860ed]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/4) substituted (6.4.2012) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2012 (S.S.I. 2012/22)](https://www.legislation.gov.uk/ssi/2012/22), [regs. 1](https://www.legislation.gov.uk/ssi/2012/22/regulation/1), [4](https://www.legislation.gov.uk/ssi/2012/22/regulation/4)
+
+[^key-156187ecc2f4eed76eb593c1cd0a371b]: Textual amendment: Word in [reg. 9(5)(b)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/5/b) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [8(b)](https://www.legislation.gov.uk/ssi/2009/102/regulation/8/b)
+
+[^key-217392a9692676475f9616077a04e702]: Textual amendment: Words in [reg. 9(5)(b)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/5/b) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [8(c)](https://www.legislation.gov.uk/ssi/2009/102/regulation/8/c)
+
+[^key-0ba2ed648efc858e36668f4e8bd32a13]: Textual amendment: Word in [reg. 9(5)(b)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/5/b) revoked (6.4.2019) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (EU Exit) (Scotland) Regulations 2019 (S.S.I. 2019/70)](https://www.legislation.gov.uk/ssi/2019/70), [regs. 1](https://www.legislation.gov.uk/ssi/2019/70/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2019/70/regulation/2/a)
+
+[^key-5d881f638fdc373614404f9c62018f70]: Textual amendment: Words in [reg. 9(5)(c)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/5/c) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2009/102/regulation/8/a)
+
+[^key-8b7de1c88d9c7a0c1e853dee6fa0bc2a]: Textual amendment: Words in [reg. 9(5)(c)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/5/c) inserted (6.4.2019) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (EU Exit) (Scotland) Regulations 2019 (S.S.I. 2019/70)](https://www.legislation.gov.uk/ssi/2019/70), [regs. 1](https://www.legislation.gov.uk/ssi/2019/70/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2019/70/regulation/2/b)
+
+[^key-948b4d3359df51ced11548dea34396b6]: Textual amendment: Words in [reg. 9(5)(c)(ii)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/5/c/ii) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [8(d)](https://www.legislation.gov.uk/ssi/2009/102/regulation/8/d)
+
+[^key-dc37a3186e07b270b9bfc1226d70de8a]: Textual amendment: Words in [reg. 9(5)(c)(iii)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/5/c/iii) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [8(e)](https://www.legislation.gov.uk/ssi/2009/102/regulation/8/e)
+
+[^key-b9a8311c33dc16a5947f095aafd5698f]: Textual amendment: [Reg. 9(5)(d)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/5/d) and word inserted (6.4.2019) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (EU Exit) (Scotland) Regulations 2019 (S.S.I. 2019/70)](https://www.legislation.gov.uk/ssi/2019/70), [regs. 1](https://www.legislation.gov.uk/ssi/2019/70/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2019/70/regulation/2/c)
+
+[^key-642337b28abb3f6e49af657fda12d661]: Textual amendment: Words in [reg. 9(5)(d)(ii)](https://www.legislation.gov.uk/ssi/2000/110/regulation/9/5/d/ii) substituted (6.4.2021) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2021 (S.S.I. 2021/8)](https://www.legislation.gov.uk/ssi/2021/8), [regs. 1](https://www.legislation.gov.uk/ssi/2021/8/regulation/1), [4](https://www.legislation.gov.uk/ssi/2021/8/regulation/4) (with [reg. 9](https://www.legislation.gov.uk/ssi/2021/8/regulation/9))
+
+[^key-8eb0257f3e5ac32fc2372db4c039f3ae]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2000/110/regulation/10) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-c69e8d0d2e7175ea132f1c83f21416db]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/ssi/2000/110/regulation/10) omitted (1.4.2013) by virtue of [The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/80)](https://www.legislation.gov.uk/ssi/2013/80), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/80/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2013/80/regulation/5)
+
+[^key-ca7674ba8483cade89b61b414f3ff5a2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2000/110/regulation/11) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-db743edb8e54abef842bbe5cf2390883]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2000/110/regulation/11) substituted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [6](https://www.legislation.gov.uk/ssi/2007/159/regulation/6)
+
+[^key-554dd8f00698e81aa181bf69ec8dc590]: Textual amendment: [Regs. 11A-11F](https://www.legislation.gov.uk/ssi/2000/110/regulation/11A) inserted (30.6.2005) by [The Student Loans (Information Requests, Maximum Threshold, Maximum Repayment Levels and Hardship Loans) (Scotland) Regulations 2005 (S.S.I. 2005/314)](https://www.legislation.gov.uk/ssi/2005/314), [regs. 1](https://www.legislation.gov.uk/ssi/2005/314/regulation/1), [3](https://www.legislation.gov.uk/ssi/2005/314/regulation/3)
+
+[^key-1c7ba8b4676f02d67ec213025a7f0383]: Textual amendment: Words in [reg. 11B(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/11B/1) substituted (6.4.2021) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2021 (S.S.I. 2021/8)](https://www.legislation.gov.uk/ssi/2021/8), [regs. 1](https://www.legislation.gov.uk/ssi/2021/8/regulation/1), [5](https://www.legislation.gov.uk/ssi/2021/8/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/ssi/2021/8/regulation/9))
+
+[^key-14ad3fba334a8a66f1c264f859834ddc]: Textual amendment: [Reg. 11C(3A)](https://www.legislation.gov.uk/ssi/2000/110/regulation/11C/3A) inserted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2007/159/regulation/7/a)
+
+[^key-f3b2f7a0519ca223d9b9abab2df9eadb]: Textual amendment: Words in [reg. 11C(4)](https://www.legislation.gov.uk/ssi/2000/110/regulation/11C/4) substituted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [7(b)](https://www.legislation.gov.uk/ssi/2007/159/regulation/7/b)
+
+[^key-95f10c6e7b9340057a2a3113da46e937]: Textual amendment: Words in [reg. 11C(4)](https://www.legislation.gov.uk/ssi/2000/110/regulation/11C/4) substituted (6.4.2021) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2021 (S.S.I. 2021/8)](https://www.legislation.gov.uk/ssi/2021/8), [regs. 1](https://www.legislation.gov.uk/ssi/2021/8/regulation/1), [6](https://www.legislation.gov.uk/ssi/2021/8/regulation/6) (with [reg. 9](https://www.legislation.gov.uk/ssi/2021/8/regulation/9))
+
+[^key-40460fe9cb3228d9b42de5b6066c9066]: Textual amendment: Words in [reg. 11C(5)](https://www.legislation.gov.uk/ssi/2000/110/regulation/11C/5) substituted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [7(c)](https://www.legislation.gov.uk/ssi/2007/159/regulation/7/c)
+
+[^key-780365c4979dd2f2174a2aedaba32082]: Textual amendment: Word in [reg. 11E](https://www.legislation.gov.uk/ssi/2000/110/regulation/11E) inserted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [8](https://www.legislation.gov.uk/ssi/2007/159/regulation/8)
+
+[^key-eb8f9509da2269910b5b092529ef07b7]: Textual amendment: Words in [reg. 11F](https://www.legislation.gov.uk/ssi/2000/110/regulation/11F) inserted (6.4.2021) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2021 (S.S.I. 2021/8)](https://www.legislation.gov.uk/ssi/2021/8), [regs. 1](https://www.legislation.gov.uk/ssi/2021/8/regulation/1), [7](https://www.legislation.gov.uk/ssi/2021/8/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/ssi/2021/8/regulation/9))
+
+[^key-1b557833b5ce78e58419bb16d54b049e]: Textual amendment: [Reg. 11G](https://www.legislation.gov.uk/ssi/2000/110/regulation/11G) inserted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [9](https://www.legislation.gov.uk/ssi/2007/159/regulation/9)
+
+[^key-6369de429b08986f8f3f7ae9f6500f9c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2000/110/regulation/12) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-7d3e5ec30074948c09c585919947cd95]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2000/110/regulation/12) substituted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [10](https://www.legislation.gov.uk/ssi/2007/159/regulation/10)
+
+[^key-252a015435a6bd07bfb75efaa5b74d6a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2000/110/regulation/13) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-e0b1246502da9c811d52da60ddbdc2c2]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2000/110/regulation/13) substituted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [11](https://www.legislation.gov.uk/ssi/2007/159/regulation/11)
+
+[^key-4fbe28c5426596b940fb6e802097fbd5]: Textual amendment: [Regs. 13A-13B](https://www.legislation.gov.uk/ssi/2000/110/regulation/13A) inserted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [12](https://www.legislation.gov.uk/ssi/2007/159/regulation/12)
+
+[^key-1e3befadac38b499cccf0a04c3f24048]: Textual amendment: [Reg. 13A(3)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13A/3) substituted (1.4.2013) by [The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/80)](https://www.legislation.gov.uk/ssi/2013/80), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/80/regulation/1/2), [6(2)](https://www.legislation.gov.uk/ssi/2013/80/regulation/6/2)
+
+[^key-ef89096b975ff4487d24348a334a5738]: Textual amendment: Words in [reg. 13A(4)(a)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13A/4/a) inserted (6.4.2012) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2012 (S.S.I. 2012/22)](https://www.legislation.gov.uk/ssi/2012/22), [regs. 1](https://www.legislation.gov.uk/ssi/2012/22/regulation/1), [5](https://www.legislation.gov.uk/ssi/2012/22/regulation/5)
+
+[^key-9cc476dab88787518f3ebb1a1789cacc]: Textual amendment: Words in [reg. 13A(4)(b)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13A/4/b) substituted (7.4.2009) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2009 (S.S.I. 2009/102)](https://www.legislation.gov.uk/ssi/2009/102), [regs. 1](https://www.legislation.gov.uk/ssi/2009/102/regulation/1), [9](https://www.legislation.gov.uk/ssi/2009/102/regulation/9)
+
+[^key-c6d5456e018360afa08940a60c0467e5]: Textual amendment: Words in [reg. 13A(5)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13A/5) substituted (1.4.2013) by [The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/80)](https://www.legislation.gov.uk/ssi/2013/80), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/80/regulation/1/2), [6(3)](https://www.legislation.gov.uk/ssi/2013/80/regulation/6/3)
+
+[^key-bb2a30846c54033a73e0c8f80d02bf6a]: Textual amendment: [Reg. 13B(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13B/1) Table substituted (6.4.2021) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2021 (S.S.I. 2021/8)](https://www.legislation.gov.uk/ssi/2021/8), [regs. 1](https://www.legislation.gov.uk/ssi/2021/8/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2021/8/regulation/8/a) (with [reg. 9](https://www.legislation.gov.uk/ssi/2021/8/regulation/9))
+
+[^key-3bdce10c9fbcdcbaae99c9ca0153ca73]: Textual amendment: Words in [reg. 13B(2)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13B/2) inserted (6.4.2012) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2012 (S.S.I. 2012/22)](https://www.legislation.gov.uk/ssi/2012/22), [regs. 1](https://www.legislation.gov.uk/ssi/2012/22/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2012/22/regulation/6/a)
+
+[^key-50c7e4a627a47e49532b68b465915976]: Textual amendment: [Reg. 13B(2)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13B/2) Table substituted (6.4.2021) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2021 (S.S.I. 2021/8)](https://www.legislation.gov.uk/ssi/2021/8), [regs. 1](https://www.legislation.gov.uk/ssi/2021/8/regulation/1), [8(b)](https://www.legislation.gov.uk/ssi/2021/8/regulation/8/b) (with [reg. 9](https://www.legislation.gov.uk/ssi/2021/8/regulation/9))
+
+[^key-adabb261ace5d561a5bf8abc06b2239b]: Textual amendment: [Reg. 13B(2A)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13B/2A) inserted (6.4.2012) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2012 (S.S.I. 2012/22)](https://www.legislation.gov.uk/ssi/2012/22), [regs. 1](https://www.legislation.gov.uk/ssi/2012/22/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2012/22/regulation/6/b)
+
+[^key-8ab15443e37dfdcb8860889a2a6e309c]: Textual amendment: Words in [reg. 13B(2A)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13B/2A) omitted (5.4.2016) by virtue of [The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/82)](https://www.legislation.gov.uk/ssi/2016/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2016/82/regulation/1/3), [4](https://www.legislation.gov.uk/ssi/2016/82/regulation/4)
+
+[^key-7be2561cf2c0912c49d7091857c36bca]: Textual amendment: [Reg. 13B(4)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13B/4) substituted (1.4.2013) by [The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/80)](https://www.legislation.gov.uk/ssi/2013/80), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/80/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2013/80/regulation/7/2)
+
+[^key-853b20e023647b5c738883db5be7939a]: Textual amendment: [Reg. 13B(5)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13B/5) omitted (1.4.2013) by virtue of [The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/80)](https://www.legislation.gov.uk/ssi/2013/80), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/80/regulation/1/2), [7(3)](https://www.legislation.gov.uk/ssi/2013/80/regulation/7/3)
+
+[^key-3661102db402e381106944f4386d0f46]: Textual amendment: Words in [reg. 13B(6)](https://www.legislation.gov.uk/ssi/2000/110/regulation/13B/6) omitted (1.4.2013) by virtue of [The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/80)](https://www.legislation.gov.uk/ssi/2013/80), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/80/regulation/1/2), [7(4)](https://www.legislation.gov.uk/ssi/2013/80/regulation/7/4)
+
+[^key-e6afc9d85a70bb7ffcdb1a61a0f4a5cc]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2000/110/regulation/14) in force at 16.5.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/110/regulation/1/1)
+
+[^key-451838e27094ddb23c8de38d7116f53d]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/ssi/2000/110/regulation/14) substituted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [13](https://www.legislation.gov.uk/ssi/2007/159/regulation/13)
+
+[^key-1f30fb45754023c336e524b3ecc3a549]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2000/110/regulation/15) inserted (1.8.2007) by [The Repayment of Student Loans (Scotland) Amendment Regulations 2007 (S.S.I. 2007/159)](https://www.legislation.gov.uk/ssi/2007/159), [regs. 1](https://www.legislation.gov.uk/ssi/2007/159/regulation/1), [14](https://www.legislation.gov.uk/ssi/2007/159/regulation/14)

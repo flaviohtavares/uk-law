@@ -1,0 +1,40 @@
+---
+title: Bankruptcy (Scotland) Act 2016, section 41
+act: Bankruptcy (Scotland) Act 2016
+section: '41'
+status: revised-with-pending-changes
+text_date: '2025-06-25'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/21/section/41
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Bankruptcy (Scotland) Act 2016, section 41
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2016/21
+>
+> Extent: Scotland.
+
+## 41. Statement of assets and liabilities etc.[^key-7eaac9f5af9e4bdea70c9c69a725548f]
+
+*Extent: S*
+
+(1) Where a debtor has made a debtor application then, within 7 days after the appointment of the trustee in the sequestration under section 51 (where the trustee is not AiB), the debtor must send to the trustee such statement of assets and liabilities as was sent to AiB in pursuance of section 8(3)(a).
+
+(2) Where a petitioner for sequestration is a creditor, or a trustee acting under a trust deed, then, within 7 days after having been notified by the trustee as mentioned in section 51(13) the debtor must send to the trustee a statement of assets and liabilities.
+
+(3) If the debtor—
+
+- (a) fails to disclose any material fact in a statement of assets and liabilities sent to the trustee in accordance with subsection (1) or (2), or
+- (b) makes a material misstatement in any such statement,
+
+then the debtor commits of an offence.
+
+(4) A person who commits an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding 3 months (or both to such fine and to such imprisonment).
+
+(5) In any proceedings for an offence under subsection (3), it is a defence for the accused to show that the accused had a reasonable excuse for the failure to disclose or for the making of the misstatement.
+
+## Annotations
+
+[^key-7eaac9f5af9e4bdea70c9c69a725548f]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2016/21/section/41) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

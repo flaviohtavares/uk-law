@@ -1,0 +1,32 @@
+---
+title: Adult Support and Protection (Scotland) Act 2007, section 1
+act: Adult Support and Protection (Scotland) Act 2007
+section: '1'
+status: revised
+text_date: '2026-01-07'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2007/10/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Adult Support and Protection (Scotland) Act 2007, section 1
+
+> Text as at 2026-01-07.
+>
+> Extent: Scotland.
+
+## 1. General principle on intervention in an adult's affairs[^key-f51a6169b1ca811d54d65d70b61aa622]
+
+*Extent: S*
+
+The general principle on intervention in an adult's affairs is that a person may intervene, or authorise an intervention, only if satisfied that the intervention—
+
+- (a) will provide benefit to the adult which could not reasonably be provided without intervening in the adult's affairs, and
+- (b) is, of the range of options likely to fulfil the object of the intervention, the least restrictive to the adult's freedom.
+
+This section applies for the purposes of section 2 only.
+
+## Annotations
+
+[^key-f51a6169b1ca811d54d65d70b61aa622]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/10/section/1) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

@@ -1,0 +1,327 @@
+---
+title: The Town and Country Planning (Short-term Let Control Areas) (Scotland) Regulations 2021
+id: ssi/2021/154
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-03-18'
+text_date: '2022-03-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2021/154
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/154/pdfs/ssipn_20210154_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/154/pdfs/ssi_20210154_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/154/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Short-term Let Control Areas) (Scotland) Regulations 2021
+
+> Text as at 2022-03-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2021 No. 154
+
+Town And Country Planning
+
+The Town and Country Planning (Short-term Let Control Areas) (Scotland) Regulations 2021
+
+Made
+
+18th March 2021
+
+Coming into force
+
+1st April 2021
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 26B(5) and 275 of the Town and Country Planning (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 275(7BA) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+The Scottish Ministers before making these Regulations have consulted planning authorities and such other persons as they considered appropriate.
+
+## 1. Citation, commencement and interpretation[^key-b0df726987800025f2f100e587ee320f]
+
+(1) These Regulations may be cited as the Town and Country Planning (Short-term Let Control Areas) (Scotland) Regulations 2021 and come into force on 1 April 2021.
+
+(2) In these Regulations—
+
+- “[^key-706ff2fc103f82c67b448160366b3068]**the 1993 Act**” means the Crofters (Scotland) Act 1993,
+- “**the 2003 Act**” means the Agricultural Holdings (Scotland) Act 2003,
+- “**the 2016 Act**” means the Private Housing (Tenancies) (Scotland) Act 2016,
+- “the Act” means the Town and Country Planning (Scotland) Act 1997,
+- “commercial consideration” includes—
+  - (a) money,
+  - (b) a benefit in kind (such as provision of a service, or reciprocal use of a property),
+- “community council” means a community council established in accordance with the provisions of Part 4 of the Local Government (Scotland) Act 1973[^f00002],
+- “excluded accommodation” means accommodation described in the schedule,
+- “[^key-880fcfda25151069553d1b900548c2e9]**excluded tenancy**” means a tenancy which is—
+  - (a) a 1991 Act tenancy (within the meaning of section 1(4) of the 2003 Act),
+  - (b) a modern limited duration tenancy (within the meaning of section 5A of the 2003 Act),
+  - (c) a short limited duration tenancy (within the meaning of section 4 of the 2003 Act),
+  - (d) a student residential tenancy,
+  - (e) a tenancy of a croft (within the meaning of section 3 the 1993 Act),
+  - (f) a tenancy of a holding situated outwith the crofting counties (within the meaning of section 61 of the 1993 Act) to which any provisions of the Small Landholders (Scotland) Acts 1886 to 1931 applies,
+- “section 26B designation” means a designation under section 26B(1) of the Act of an area as a short-term let control area.
+- “[^key-250437cd228ab346363c6dd367afb7f8]**student**” has the same meaning as in paragraph 5 of schedule 1 (tenancies which cannot be private residential tenancies) of the 2016 Act,
+- “**student residential tenancy**” means a tenancy—
+  - (a) the purpose of which is to confer on the tenant the right to occupy the let property while the tenant is a student, and
+  - (b) to which paragraph 5(2) of schedule 1 of the 2016 Act applies.
+
+## 2. Short-term let[^key-4c726f1368838639c74a49eb624e8e28]
+
+(1) For the purposes of section 26B of the Act, and subject to section 26B(3) of the Act, a short-term let is provided where all of the following criteria are met—
+
+- (a) sleeping accommodation is provided in the course of business[^key-77e15ed2f02ab84c48eca5ae9466b2cd] to one or more persons for one or more nights for commercial consideration,
+- (b) no person to whom sleeping accommodation is provided is an immediate family member of the person by whom the accommodation is being provided,
+- (ba)[^key-7901ab1c61a20fbac53a71ed499d6b26] the accommodation is not provided under an excluded tenancy,
+- (c) the accommodation is not provided for the principal purpose of facilitating the provision of work or services to the person by whom the accommodation is being provided or to another member of that person’s household,
+- (d) the accommodation is not provided by an employer to an employee in terms of a contract of employment or for the better performance of the employee’s duties, and
+- (e) the accommodation is not excluded accommodation.
+
+(2) For the purposes of this regulation, a person (“A”) is an immediate family member of another person (“B”) if A is—
+
+- (a) in a qualifying relationship with B,
+- (b) a qualifying relative of B,
+- (c) a qualifying relative of a person who is in a qualifying relationship with B, or
+- (d) in a qualifying relationship with a qualifying relative of B.
+
+(3) For the purposes of paragraph (2)—
+
+- (a) two people are in a qualifying relationship with one another if they are—
+  - (i) married to each other,
+  - (ii) in a civil partnership with each other, or
+  - (iii) living together as though they were married,
+- (b) “a qualifying relative” means a parent, grandparent, child, grandchild or sibling,
+- (c) two people are to be regarded as siblings if they have at least one parent in common,
+- (d) a person’s stepchild is to be regarded as the person’s child,
+- (e) a person (“C”) is to be regarded as the child of another person (“D”), if C is being or has been treated by D as D’s child.
+
+## 3. Designation of a short-term let control area[^key-1006ce0a60b351260c69c12d3bea15a0]
+
+Before an area may be designated as a short-term let control area for the purposes of section 26B of the Act—
+
+- (a) the planning authority must give notice of the proposed designation in accordance with regulation 4,
+- (b) the proposed designation must be approved by the Scottish Ministers, and
+- (c) the planning authority must give notice of the designation in accordance with regulation 9.
+
+## 4. Notice of proposal to designate an area as a short-term let control area[^key-9c7a765853a7f85e36af1495de9dc0a8]
+
+(1) The planning authority are to give notice of a proposal to designate an area as a short-term let control area by—
+
+- (a) publishing notice of the proposal—
+  - (i) in a newspaper circulating in that area, and
+  - (ii) on a website maintained by the planning authority for that purpose,
+- (b) sending a notice to each community council within whose area it is proposed to designate an area as a short-term let control area.
+
+(2) Notice under paragraph (1) must—
+
+- (a) contain a statement that the planning authority proposes to designate the area as a short-term let control area and a description, in general terms, of that area,
+- (b) state how further information in respect of the proposal, including a map of the area which it is proposed to designate, can be inspected free of charge,
+- (c) state how and by what date (being a date not earlier than 28 days after the last date on which notice is given) representations may be made to the planning authority.
+
+(3) The planning authority must make the following information available free of charge on a website maintained by them for that purpose and at an office of the planning authority—
+
+- (a) a map of the area which the planning authority propose to designated as a short-term let control area, and
+- (b) a statement setting out the planning authority’s reasons why the planning authority propose that the area should be designated as a short-term let control area.
+
+## 5. Variation or cancellation of a designation[^key-a3db35c6b689d002a4a220445a28abdc]
+
+Before a section 26B designation may be varied or cancelled—
+
+- (a) the planning authority must give notice of the proposed variation or cancellation of the section 26B designation in accordance with regulation 6,
+- (b) if an effect of the proposed variation would be to include an area within a short-term let control area, the proposed varation must be approved by the Scottish Ministers, and
+- (c) the planning authority must give notice of the variation or cancellation of the section 26B designation in accordance with regulation 9.
+
+## 6. Notice of proposal to vary or cancel a designation[^key-e1c1c728e7b41aae268a70a761c2a5d1]
+
+(1) The planning authority are to give notice of a proposal to vary or cancel a section 26B designation by—
+
+- (a) publishing notice of the proposal—
+  - (i) in a newspaper circulating in the area to be excluded from, or included within, the designated short-term let control area by the proposed variation, and
+  - (ii) on a website maintained by the planning authority for that purpose,
+- (b) sending a notice to each community council for the area which it is proposed be excluded from, or included within, the designated short-term let control area.
+
+(2) Notice under paragraph (1) must—
+
+- (a) contain a statement that the planning authority proposes to vary or cancel a section 26B designation, as the case may be, and which indicates, in general terms, the effect of that proposal,
+- (b) state how further information in respect of the proposal can be inspected free of charge, including—
+  - (i) a map of the area designated as a short-term let control area by the section 26B designation, and
+  - (ii) if the proposal is to vary a section 26B designation, a map of any area which it is proposed to exclude from, or include within, a short-term let control area, and
+- (c) state how and by what date (being a date not earlier than 28 days after the last date on which notice is given) representations may be made to the planning authority.
+
+(3) The planning authority must make the following information available free of charge on a website maintained by them for that purpose and at an office of the planning authority—
+
+- (a) a map of the area designated as a short-term let control area by the section 26B designation,
+- (b) if the proposal is to vary a section 26B designation, a map of the area which it is proposed to exclude from, or include within, a short-term let control area, and
+- (c) a statement setting out the planning authority’s reasons why the planning authority propose that the section 26B designation should be varied or cancelled, as the case may be.
+
+## 7. Modification of proposal following consultation[^key-5d0a8f54dcafa2a366665cef1ca1dc2f]
+
+(1) Subject to paragraph (2), following consultation under regulation 4 or 6, as the case may be, the planning authority may modify the proposal, having regard to any representation made in response to the consultation.
+
+(2) The proposal may not be modified to include an area outwith the area shown on the map referred to in regulation 4(2)(b) or regulation 6(2)(b)(ii), as the case may be.
+
+## 8. Submission to the Scottish Ministers of proposed designation of a short-term let control area[^key-1075edee38aecbac5bea9907c19559d1]
+
+(1) Where following consultation the planning authority intend to proceed to—
+
+- (a) designate an area as a short-term let control area, or
+- (b) vary or cancel a section 26B designation,
+
+the planning authority must give notice of the proposal to the Scottish Ministers.
+
+(2) Notice under paragraph (1)(a) must be accompanied by—
+
+- (a) a map of the area which the planning authority propose to designated as a short-term let control area, and
+- (b) a statement setting out the planning authority’s reasons why the planning authority propose that the area should be designated as a short-term let control area.
+
+(3) Notice under paragraph (1)(b) must be accompanied by—
+
+- (a) a map of the area designated as a short-term let control area by the section 26B designation,
+- (b) if the proposal is to vary a section 26B designation, a map of the area which it is proposed to exclude from, or include within, a short-term let control area, and
+- (c) a statement setting out the planning authority’s reasons why the planning authority propose that the section 26B designation should be varied or cancelled, as the case may be.
+
+(4) The planning authority may not—
+
+- (a) designate the area as a short-term let control area, or
+- (b) vary the section 26B designation to include an area within a short-term let control area,
+
+unless the Scottish Ministers have approved the designation or variation, as the case may be.
+
+## 9. Notice of designation or of variation or cancellation of a section 26B designation[^key-fc39215cbecf89aba26d19732a246987]
+
+(1) Before designating an area as a short-term let control area, or varying or cancelling a section 26B designation, the planning authority must publish notice of the designation, variation or cancellation, as the case may be, in accordance with this regulation.
+
+(2) If approval of the designation or variation by the Scottish Ministers is required under regulation 3 or 5, notice under paragraph (1) is to be given after the Scottish Ministers have given such approval.
+
+(3) Notice under paragraph (1) must be published—
+
+- (a) in a newspaper circulating in that area, and
+- (b) on a website maintained by the planning authority for that purpose.
+
+(4) Notice under paragraph (1) of—
+
+- (a) the designation of a short-term let control area must state—
+  - (i) the date on which the area is to be designated as a short-term let control area (being a date not earlier than 28 days after the date of publication of the notice),
+  - (ii) how a copy of a map of the designated short-term let control area can be inspected,
+- (b) variation of a section 26B designation must state—
+  - (i) the date on which the variation is to take effect (being a date not earlier than 28 days after the date of publication of the notice),
+  - (ii) how a copy of the map of the designated short-term let area as varied can be inspected,
+- (c) cancellation of a section 26B designation must—
+  - (i) state the date on which the cancellation is to take effect (being a date not earlier than 28 days after the date of publication of the notice),
+  - (ii) identify the section 26B designation to be cancelled.
+
+(5) The planning authority must make a map of the designated short-term let control area, or such area as varied, available for inspection free of charge on a website maintained by them for that purpose and at an office of the planning authority.
+
+KEVIN STEWART
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE — Excluded accommodation
+
+Regulation 1(2)
+
+**1.**[^key-679b0a4d5a0804def2813f7ac235453e] Excluded accommodation means a dwellinghouse which is, or is part of—
+
+- (a)[^key-5595ad082357a3b711d095ccd64eaa4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-2992fad6461b63f9879e2abd3bc0805f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-1b536fb913f84bfa3d4f3decbf30bfd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-3f90ffbf2e536c7388426cf4efa1d27b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) residential accommodation where personal care is provided to residents[^key-c0f27c5b8a25ca9028fd91807d37824c],
+- (f) a hospital or nursing home,
+- (g) a residential school, college or training centre,
+- (h) secure residential accommodation (including a prison, young offenders institution, detention centre, secure training centre, custody centre, short-term holding centre, secure hospital, secure local authority accommodation or accommodation used as military barracks),
+- (i) a refuge,
+- (j) student accommodation,
+- (k)[^key-55d90f28c481868fecc14b76f7932ebc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^key-73d6085334a5fea41763cf962941dd56] premises in respect of which a premises licence within the meaning of section 17 of the Licensing (Scotland) Act 2005 has effect and where the provision of accommodation is an activity listed in the operating plan as defined in section 20(4) of that Act.
+
+**2.**[^key-3be603ebce0f14da68a7c3ad75f93a75] In this schedule—
+
+- [^key-5467f12937d3086ec92487642c43e323]...
+- [^key-5467f12937d3086ec92487642c43e323]...
+- [^key-5467f12937d3086ec92487642c43e323]...
+- “[^key-1011c7d8873b517ae542235427182a5b]**personal care**” has the same meaning as in paragraph 20 of schedule 12 of the Public Services Reform (Scotland) Act 2010,
+- “**refuge**” means premises used wholly or mainly for providing accommodation to persons who have been subject to any incident or pattern of incidents, of—
+  - (a) controlling, coercive or threatening behaviour,
+  - (b) physical violence,
+  - (c) abuse of any other description (whether physical or mental in nature), or
+  - (d) threats of any such violence or abuse,
+- “student accommodation” means residential accommodation which has been built or converted predominantly[^key-5822e1c2a617acef02e49e8bca35b1f9] for the purpose of being provided to students.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make further provision for the purposes of section 26B of the Town and Country Planning (Scotland) Act 1997 (“the 1997 Act”). Section 26B enables a planning authority to designate all or part of its area as a short-term let control area. Where an area is designated as a short-term let control area a change of use of a dwellinghouse to use for the purpose of providing short-term lets is deemed to be a material change of use and so constitutes development under section 26 of the 1997 Act.
+
+Regulation 2 makes provision about what constitutes providing a short-term let for the purposes of section 26B of the 1997 Act. This excludes letting to family members and for the purposes of facilitating provision of work or services and the letting of certain accommodation and such excluded accommodation is set out in the schedule. Regulations 3 to 9 set out the procedure to be followed in respect of the designation of a short-term let control area or the variation or cancellation of a designation. These require publication of a proposal to designate an area or to vary or cancel a designation. In terms of regulation 8(4) a planning authority may not designate the area as a short-term let control area, or vary a designation to include an area within a short-term let control area, without the approval of the Scottish Ministers.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Sections 26B and 275(7BA) are inserted by section 17 and paragraph 9 of schedule 2 of the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13). The functions conferred upon the Minister of the Crown under section 275, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^key-b0df726987800025f2f100e587ee320f]: Commencement: Reg. 1 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-706ff2fc103f82c67b448160366b3068]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/2) inserted (1.3.2022) by [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/2/a)
+
+[^f00002]: Footnote: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65).
+
+[^key-880fcfda25151069553d1b900548c2e9]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/2) inserted (1.3.2022) by [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/2/b)
+
+[^key-250437cd228ab346363c6dd367afb7f8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/2) inserted (1.3.2022) by [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/2/c)
+
+[^key-4c726f1368838639c74a49eb624e8e28]: Commencement: Reg. 2 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-77e15ed2f02ab84c48eca5ae9466b2cd]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2021/154/regulation/2/1/a) inserted (1.3.2022) by [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/3/a)
+
+[^key-7901ab1c61a20fbac53a71ed499d6b26]: Textual amendment: [Reg. 2(1)(ba)](https://www.legislation.gov.uk/ssi/2021/154/regulation/2/1/ba) inserted (1.3.2022) by [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/3/b)
+
+[^key-1006ce0a60b351260c69c12d3bea15a0]: Commencement: Reg. 3 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-9c7a765853a7f85e36af1495de9dc0a8]: Commencement: Reg. 4 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-a3db35c6b689d002a4a220445a28abdc]: Commencement: Reg. 5 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-e1c1c728e7b41aae268a70a761c2a5d1]: Commencement: Reg. 6 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-5d0a8f54dcafa2a366665cef1ca1dc2f]: Commencement: Reg. 7 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-1075edee38aecbac5bea9907c19559d1]: Commencement: Reg. 8 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-fc39215cbecf89aba26d19732a246987]: Commencement: Reg. 9 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-679b0a4d5a0804def2813f7ac235453e]: Commencement: Sch. para. 1 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-5595ad082357a3b711d095ccd64eaa4f]: Textual amendment: [Sch. para. 1(a)](https://www.legislation.gov.uk/ssi/2021/154/schedule/paragraph/1/a) omitted (1.3.2022) by virtue of [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/4/a/i)
+
+[^key-2992fad6461b63f9879e2abd3bc0805f]: Textual amendment: [Sch. para. 1(b)](https://www.legislation.gov.uk/ssi/2021/154/schedule/paragraph/1/b) omitted (1.3.2022) by virtue of [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/4/a/i)
+
+[^key-1b536fb913f84bfa3d4f3decbf30bfd2]: Textual amendment: [Sch. para. 1(c)](https://www.legislation.gov.uk/ssi/2021/154/schedule/paragraph/1/c) omitted (1.3.2022) by virtue of [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/4/a/i)
+
+[^key-3f90ffbf2e536c7388426cf4efa1d27b]: Textual amendment: [Sch. para. 1(d)](https://www.legislation.gov.uk/ssi/2021/154/schedule/paragraph/1/d) omitted (1.3.2022) by virtue of [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/4/a/i)
+
+[^key-c0f27c5b8a25ca9028fd91807d37824c]: Textual amendment: Words in [sch. para. 1(e)](https://www.legislation.gov.uk/ssi/2021/154/schedule/paragraph/1/e) substituted (1.3.2022) by [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/4/a/ii)
+
+[^key-55d90f28c481868fecc14b76f7932ebc]: Textual amendment: [Sch. para. 1(k)](https://www.legislation.gov.uk/ssi/2021/154/schedule/paragraph/1/k) omitted (1.3.2022) by virtue of [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/4/a/i)
+
+[^key-73d6085334a5fea41763cf962941dd56]: Textual amendment: [Sch. para. 1(l)](https://www.legislation.gov.uk/ssi/2021/154/schedule/paragraph/1/l) inserted (1.3.2022) by [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/4/a/iii)
+
+[^key-3be603ebce0f14da68a7c3ad75f93a75]: Commencement: Sch. para. 2 in force at 1.4.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/154/regulation/1/1)
+
+[^key-5467f12937d3086ec92487642c43e323]: Textual amendment: Words in [sch. para. 2](https://www.legislation.gov.uk/ssi/2021/154/schedule/paragraph/2) omitted (1.3.2022) by virtue of [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(4)(b)(i)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/4/b/i)
+
+[^key-1011c7d8873b517ae542235427182a5b]: Textual amendment: Words in [sch. para. 2](https://www.legislation.gov.uk/ssi/2021/154/schedule/paragraph/2) inserted (1.3.2022) by [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/4/b/ii)
+
+[^key-5822e1c2a617acef02e49e8bca35b1f9]: Textual amendment: Word in [sch. para. 2](https://www.legislation.gov.uk/ssi/2021/154/schedule/paragraph/2) substituted (1.3.2022) by [The Town and Country Planning (Short-term Let Control Areas) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/33)](https://www.legislation.gov.uk/ssi/2022/33), [regs. 1](https://www.legislation.gov.uk/ssi/2022/33/regulation/1), [2(4)(b)(iii)](https://www.legislation.gov.uk/ssi/2022/33/regulation/2/4/b/iii)

@@ -1,0 +1,87 @@
+---
+title: The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 2 and Transitional Provisions and Savings) Amendment Order 2007
+id: ssi/2007/527
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-11-27'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2007/527
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2007/527/pdfs/ssi_20070527_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/527/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 2 and Transitional Provisions and Savings) Amendment Order 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This Scottish Statutory Instrument has been made in consequence of defects in [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479) and is being issued free of charge to all known recipients of that instrument.
+
+2007 No. 527
+
+CRIMINAL LAW
+
+The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 2 and Transitional Provisions and Savings) Amendment Order 2007
+
+Made
+
+27th November 2007
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 84(1) and (2) of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation
+
+This Order may be cited as the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 2 and Transitional Provisions and Savings) Amendment Order 2007.
+
+## 2. Amendments to the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 2 and Transitional Provisions and Savings) Order 2007
+
+(1) The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 2 and Transitional Provisions and Savings) Order 2007[^f00002] is amended in accordance with this article.
+
+(2) In article 3(1) for “the Act” substitute “the 2007 Act”.
+
+(3) In article 4(2) after “section 27(1)” insert “or (7)”.
+
+(4) In article 9 after “where” insert “, at 10th December 2007,”.
+
+(5) In column 1 of the Schedule–
+
+- (a) in the heading, for “*the Act*” substitute “*the 2007 Act*”; and
+- (b) after the words “Schedule, paragraph 5”, insert a new row containing the words “Schedule, paragraph 9(7) but only insofar as it applies to justices of the peace”.
+
+(6) In column 2 of the Schedule–
+
+- (a) where it appears opposite the reference to “Schedule, paragraph 1” contained in column 1, for “Legal Officer” substitute “Legal Officers”;
+- (b) after the words “Minor and consequential amendments relating to the Legal Aid (Scotland) Act 1986”, insert a new row containing the words “Minor and consequential amendments relating to section 9A (competence of justice’s actings outwith jurisdiction) of the 1995 Act”; and
+- (c) where it appears opposite the reference to “Schedule, paragraph 29” contained in column 1, for “the Public Appointments and Public Bodies Act 2003” substitute “the Public Appointments and Public Bodies etc. (Scotland) Act 2003”.
+
+KENNY MACASKILL
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+27th November 2007
+
+(This note is not part of the Order)
+
+This Order amends the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Commencement No. 2 and Transitional Provisions and Savings) Order 2007 (“the Order”).
+
+Article 2 makes minor amendments to the Order.
+
+Article 2(3) is needed so that the transitional provision found at article 4(2) of the Order will apply to offences prosecuted under section 27(7) of the Criminal Procedure (Scotland) Act 1995. This amendment anticipates the commencement of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Incidental, Supplemental and Consequential Provisions) Order 2007.
+
+Articles 2(5)(b) and 2(6)(b) insert provision into the Schedule to the Order which will partially commence the repeal of section 9A of the Criminal Procedure (Scotland) Act 1995. Section 9A of the Criminal Procedure (Scotland) Act 1995 allows sheriffs, justices of the peace, and stipendiary magistrates to sign various documents outwith their geographical jurisdiction. The partial commencement of this repeal means that section 9A will continue to apply to sheriffs and stipendiary magistrates but will not apply to justices of the peace. Justices of the peace will continue to be able to sign documents outwith their jurisdiction by virtue of the provisions of section 62(5) of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007. Those and other provisions relating to justices of the peace found in Part 4 of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007 will be commenced by the Order on 10th December 2007.
+
+## Annotations
+
+[^f00001]: Footnote: [2007 asp 6](https://www.legislation.gov.uk/asp/2007/6).
+
+[^f00002]: Footnote: [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479).

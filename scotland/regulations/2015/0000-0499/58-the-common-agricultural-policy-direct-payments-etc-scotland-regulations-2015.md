@@ -1,0 +1,1020 @@
+---
+title: The Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015
+id: ssi/2015/58
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-02-13'
+text_date: '2026-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/58
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/58/pdfs/ssipn_20150058_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/58/pdfs/ssi_20150058_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/58/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015
+
+> Text as at 2026-01-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 58
+
+Agriculture
+
+The Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015
+
+Made
+
+13th February 2015
+
+Laid before the Scottish Parliament
+
+13th February 2015
+
+Coming into force
+
+16th March 2015
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c22358021] and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for references to the European Regulations (as defined in regulation 2) to be construed as references to those instruments as amended from time to time.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Common Agricultural Policy (Direct Payments etc.) (Scotland) Regulations 2015 and come into force on 16th March 2015.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**2009 Council Regulation**” means Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/eur/2009/73) establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations [(EC) No 1290/2005](https://www.legislation.gov.uk/eur/2005/1290), [(EC) No 247/2006](https://www.legislation.gov.uk/eur/2006/247), [(EC) No 378/2007](https://www.legislation.gov.uk/eur/2007/378) and repealing Regulation [(EC) No 1782/2003](https://www.legislation.gov.uk/eur/2003/1782) [^c22358031];
+- “arable land” means land mentioned in Article 4(1)(h) of the Direct Payments Regulation and includes parcels of land which prior to 1st January 2018 were lying fallow and, subject to regulation 5(2)(c), continue to lie fallow on or after that date;[^key-eaff744377002ca0afd896aa82805c6b]
+- “**area-related aid schemes**” has the same meaning as in point (20) of Article 2(1) of the Horizontal Delegated Regulation;
+- “**authorised person**” means any person authorised by the Scottish Ministers to act in matters arising under these Regulations or the European Regulations;
+- “**Bank Holiday**” means a day specified in paragraph 2 of Schedule 1 to the Banking and Financial Dealing Act 1971 [^c22358041];
+- “claim year” has the meaning given in section 1(7) of the Direct Payments to Farmers (Legislative Continuity) Act 2020[^key-e6fc51d4dfcac4a346cb8b20e972d5ec] [^c22358121];
+- “**direct payments**” means direct payments within the meaning of Article 1 of the Direct Payments Regulation;
+- “**Direct Payments Delegated Regulation**” means Commission Delegated Regulation (EU) No 639/2014 supplementing Regulation (EU) No 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and amending Annex X to that Regulation, as amended from time to time [^c22358051];
+- “**Direct Payments Implementing Regulation**” means Commission Implementing Regulation (EU) No 641/2014 laying down rules for the application of Regulation (EU) No 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy, as amended from time to time [^c22358061];
+- “**Direct Payments Regulation**” means Regulation (EU) No 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation [(EC) No 637/2008](https://www.legislation.gov.uk/eur/2008/637) and Council Regulation [(EC) 73/2009](https://www.legislation.gov.uk/eur/2009/73), as amended from time to time [^c22358071];
+- “**European Regulations**” means the Direct Payments Regulation, the Direct Payments Delegated Regulation, the Direct Payments Implementing Regulation, the Horizontal Regulation, the Horizontal Delegated Regulation and the Horizontal Implementing Regulation;
+- “**farmer**” has the same meaning as in Article 4(1)(a) of the Direct Payments Regulation;
+- “**holding**” has the same meaning as in Article 4(1)(b) of the Direct Payments Regulation;
+- “**Horizontal Delegated Regulation**” means Commission Delegated Regulation (EU) No 640/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance, as amended from time to time [^c22358081];
+- “**Horizontal Implementing Regulation**” means Commission Implementing Regulation (EU) No 809/2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance, as amended from time to time [^c22358091];
+- “**Horizontal Regulation**” means Regulation (EU) No 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations [(EEC) No 352/78](https://www.legislation.gov.uk/eur/1978/352), [(EC) No 165/94](https://www.legislation.gov.uk/eur/1994/165), [(EC) No 2799/98](https://www.legislation.gov.uk/eur/1998/2799), [(EC) No 814/2000](https://www.legislation.gov.uk/eur/2000/814), [(EC) No 1290/2005](https://www.legislation.gov.uk/eur/2005/1290) and [(EC) No 485/2008](https://www.legislation.gov.uk/eur/2008/485), as amended from time to time [^c22358101];
+- “**permanent grassland**” has the same meaning as in Article 4(1)(h) of the Direct Payments Regulation, as construed in accordance with regulation 5;
+- “**region 2**” means the region applied by the Scottish Ministers under and in accordance with Article 23(1) of the Direct Payments Regulation as region 2 of Scotland and comprising parcels of rough grazing land located in either—
+  - (a) an area that is not a less favoured area; or
+  - (b) an area that is a less favoured area and in respect of which a grazing category of B, C or D has been attributed to it for the purposes of the Less Favoured Area Support Scheme (Scotland) Regulations 2010 [^c22358111] (“**the 2010 Regulations**”), and “**less favoured area**” is to be construed in accordance with regulation 2(1) of those Regulations;
+- “**region 3**” means the region applied by the Scottish Ministers under and in accordance with Article 23(1) of the Direct Payments Regulation as region 3 of Scotland and comprising parcels of rough grazing land located in an area that is a less favoured area and which does not have a grazing category of B, C or D attributed to it for the purposes of the 2010 Regulations;
+- “**rough grazing land**” means low yielding herbaceous forage or areas of mixed herbaceous and non-herbaceous forage on low quality soil, unimproved by fertiliser, cultivation or reseeding (or, where it has previously been improved, has reverted to an unimproved state) and used only for extensive grazing;
+- “**single application**” means an application for direct payments in relation to any of the area-related aid schemes; and
+- “**working day**” means a day which is not a Saturday, Sunday, Bank Holiday or other public holiday.
+
+(1A)[^key-755d983809a2fad568ef1b5605cdcb6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Except where the context otherwise requires, other expressions used in these Regulations have the meaning they bear in the European Regulations.
+
+## 3. Minimum size of agricultural area
+
+For the purposes of the second sub-paragraph of Article 72(1) of the Horizontal Regulation, the minimum size of an agricultural parcel in respect of which a single application may be made is 0.1 hectare.
+
+## 4. Minimum eligible area of holding
+
+For the purposes of Article 10(1) [^key-e254bf191cce5f369a89f053a66cc3d8]... of the Direct Payments Regulation, the minimum eligible area of the holding is 3 hectares.
+
+## 5. Definition of permanent grassland[^key-bb3a8453a84532a034196096cdf55e68]
+
+(1) For the purposes of—
+
+- (a) the following provisions of the Direct Payments Regulation—
+  - (i) Article 4(1)(h);
+  - (ii) Article 4(2), second sub-paragraph; and
+  - (iii) Article 4(2), point (a) of the third sub-paragraph; and
+- (b) Article 7 of the Direct Payments Delegated Regulation,
+
+permanent grassland includes land to which paragraph (2) applies.
+
+(2) This paragraph applies to—
+
+- (a) land which can be grazed and forms part of established local practices where grasses and other herbaceous forage are traditionally not predominant in grazing areas;
+- (b) other than land to which sub-paragraph (c) applies, land which has not been ploughed up for 5 years or more, provided it is used to grow grasses or other herbaceous forage naturally (self-seeded) or through cultivation (sown) and has not been included in the crop rotation for five years or more; or
+- (c) land which, in accordance with the second sentence of the second sub-paragraph of Article 4(1) of the Direct Payments Regulation—
+  - (i) constitutes parcels of land lying fallow prior to 1st January 2018; and
+  - (ii) on or after 1st January 2023 meets the conditions for permanent grassland as set out in Article 4(1)(h) of that Regulation.
+
+(3) In paragraph (2)(a), “established local practices” means the practice of grazing by livestock of non-herbaceous plants (excluding algae).
+
+## 6. Applications and date on which land must be at farmer's disposal
+
+(1) Subject to paragraphs (1A) and (1B)[^key-f21bb9f5a55059cd4045bdeab8a5b97c], for[^key-2f54a0881ca4229a84950ef4b4f4caad] the purposes of Article 12 of the Horizontal Delegated Regulation and Article 13(1) of the Horizontal Implementing Regulation, the final date on which a single application, aid application or payment claim may be submitted to the Scottish Ministers is 15th May or, if that date is a Saturday, Sunday, Bank Holiday or other public holiday, the next working day.
+
+(1A)[^key-c76cfffd91f04a911ee61f4700a1ec07] For the purposes of Article 13(1) of the Horizontal Implementing Regulation and Article 1 of Commission Implementing Regulation (EU) 2015/747 derogating from Implementing Regulation (EU) No 809/2014 as regards the final date of submission of the single application, aid applications or payment claims, the final date for notification of amendments to the single application or payment claim and the final date for applications for allocation of payment entitlements or the increase of the value of payment entitlements under the basic payment scheme for the year 2015, the final date on which a single application, aid application or payment claim may be submitted to the Scottish Ministers in respect of calendar year 2015, is 15th June 2015.
+
+(1B)[^key-7da7c8fe2ffc363c6a42fd6cc6b386eb] For the purposes of Article 13(1) of the Horizontal Implementing Regulation and Article 1 of Commission Implementing Regulation (EU) 2016/761 derogating from Implementing Regulation (EU) No 809/2014 as regards the final date of submission of the single application, aid applications or payment claims, the final date for notification of amendments to the single application or payment claim and the final date for applications for allocation of payment entitlements or the increase of the value of payment entitlements under the basic payment scheme for the year 2016, the final date by which a single application, aid application or payment claim may be submitted to the Scottish Ministers in respect of calendar year 2016, is 15th June 2016.
+
+(2) In relation to any year in which a farmer makes a declaration in respect of parcels pursuant to Article 33(1) of the Direct Payments Regulation, the date on which those parcels must be at the farmer's disposal is the date specified in paragraph (1).
+
+## 7. Short rotation coppice
+
+For the purposes of Article 4(1)(k) [^key-78cda4e12e8e517c5963f9adc0a97e42]... of the Direct Payments Regulation—
+
+- (a) the list of planted tree species is—
+  - Cricket Bat Willow *(Salix alba ‘Caerulea’)*
+  - Poplar *(Populus spp);*
+  - Willow *(Salix spp)*; and
+- (b) the maximum harvest cycle for these species is 20 years.
+
+## 8. Reductions[^key-51399919a52656a6409c0dfd5cfa0194]
+
+(1) This regulation applies for the purposes of Article 11(1) of the Direct Payments Regulation in respect of direct payments to a farmer pursuant to Chapter 1 of Title III of that Regulation for a given calendar year.
+
+(2) Where the direct payments to be granted exceed EUR 150,000 for a given calendar year, the sum in excess of that amount must be reduced by the Scottish Ministers by 5 per cent.
+
+(3) In addition to the reduction applied in accordance with paragraph (2), where the direct payments to be granted exceed EUR 600,000 for calendar year 2018 or any subsequent calendar year, the sum in excess of that amount must be reduced by the Scottish Ministers by 100 per cent.
+
+## 9. Transfer of payment entitlements
+
+(1) For the purposes of Article 8(1) of the Direct Payments Implementing Regulation, the transferor of payment entitlements must notify the Scottish Ministers of a transfer within the notification period.
+
+(2) In this regulation, “**the notification period**” means the period—
+
+- (a) beginning 16th May of the calendar year preceding the first year in which the transferee may include those entitlements in the transferee's application for direct payments, and
+- (b) ending on 2nd April in the first calendar year in which the transferee may include those entitlements in the transferee's application for direct payments,
+
+or if either of those dates is a Saturday, Sunday, Bank Holiday or other public holiday, the next working day.
+
+(3)[^key-37709fdca605180abb197af894c118c1] Subject to paragraph (3A), for the purposes of[^key-c150fdc1d0130740da66039e704907ad] Article 22(1) of the Horizontal Implementing Regulation and Article 3 of Commission Implementing Regulation (EU) 2015/747 derogating from Implementing Regulation (EU) No 809/2014 as regards the final date of submission of the single application, aid applications or payment claims, the final date for notification of amendments to the single application or payment claim and the final date for applications for allocation of payment entitlements or the increase of the value of payment entitlements under the basic payment scheme for the year 2015, applications for the allocation of, or the increase of the value of, payment entitlements must be submitted—
+
+- (a) in respect of calendar year 2015, on or before 15th June 2015; or
+- (b) in any other calendar year, on or before 15th May, or if that date is a Saturday, Sunday, Bank Holiday or other public holiday, the next working day.
+
+(3A)[^key-ff457c28530dc321b5145db886369128] For the purposes of Article 3 of Commission Implementing Regulation (EU) 2016/761 derogating from Implementing Regulation (EU) No 809/2014 as regards the final date of submission of the single application, aid applications or payment claims, the final date for notification of amendments to the single application or payment claim and the final date for applications for allocation of payment entitlements or the increase of the value of payment entitlements under the basic payment scheme for the year 2016, an application for the allocation of, or the increase of the value of, payment entitlements must be submitted, in respect of calendar year 2016, not later than 15th June 2016.
+
+(4)[^key-71a14cabcb9dd0ee15a365767cce339c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Young farmers[^key-b31ef86ed1a20de81c0a0d002b0f6df5]
+
+(1) For the purposes of the second sub-paragraph of Article 50(5) of the Direct Payments Regulation, where a young farmer has set up in accordance with Article 50(2)(a) of that Regulation during the relevant period, the five-year payment period referred to in the first sub-paragraph of Article 50(5) of that Regulation is to be reduced by the number of complete calendar years which have elapsed between the date of set up and the first submission of an application for a payment for young farmers.
+
+(2) For the purposes of the payment calculation required by Article 50(6) of the Direct Payments Regulation, the number of entitlements a young farmer has activated in accordance with Article 32(1) of that Regulation must be multiplied by 25 per cent of the average value of the owned or leased-in payment entitlements held by the farmer.
+
+(3) For the purposes of Article 50(9) of the Direct Payments Regulation, a single maximum limit of 90 hectares is applicable to the number of payment entitlements activated by a young farmer.
+
+(4) In paragraph (1) “relevant period” means the period beginning 1st January 2010 and ending 31st December 2013.
+
+## 11. Agricultural activity
+
+(1) For the purposes of point (ii) of Article 4(1)(c) of the Direct Payments Regulation and in accordance with Article 4 of the Direct Payments Delegated Regulation, agricultural areas are deemed to be maintained in a state suitable for grazing or cultivation where a farmer meets the criteria set out in Part 1 of Schedule 1.
+
+(2) For the purposes of point (iii) of Article 4(1)(c) of the Direct Payments Regulation and in accordance with Article 5 of the Direct Payments Delegated Regulation, the minimum activity requirement is met if either of the activities set out in paragraph 2(1) of Part 2 of Schedule 1 is carried out on agricultural areas naturally kept in a state suitable for grazing or cultivation.
+
+(3) In paragraph (2) and in Part 1 of Schedule 1, “**agricultural areas naturally kept in a state suitable for grazing or cultivation**” means agricultural areas comprising parcels of land in region 2 or 3.
+
+## 12. Active farmers[^key-69d2fabea57f7478bda47b9f9572c16a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. Reduction coefficient
+
+(1) For the purposes of Article 24(6) of the Direct Payments Regulation, the Scottish Ministers must apply a reduction coefficient of 10 per cent when establishing the number of payment entitlements to be allocated to a farmer in respect of areas with difficult climate conditions.
+
+(2) In paragraph (1), “**areas with difficult climate conditions**” means areas comprising parcels of permanent grassland in region 2 or 3.
+
+## 14. Windfall profit
+
+(1) For the purposes of Article 28 of the Direct Payments Regulation and as determined in accordance with Article 27 of the Direct Payments Delegated Regulation , as those Regulations had effect immediately before exit day[^key-f215ae515898ced79cc30f12c95e02f2], where paragraphs (2) and (3) apply, an above-threshold increase[^key-80ac493c3366eedbc685165e86313529] in the value of payment entitlements to be allocated to a farmer in respect of 2015, reverts to the national reserve.
+
+(2) This paragraph applies—
+
+- (a) where in accordance with the 2003 Act a short limited duration tenancy or a limited duration tenancy (as construed in accordance with sections 4 and 5 of the 2003 Act) has been terminated or otherwise brought to an end before the expiry of the term of tenancy and, in the case of either type of tenancy, at the point the tenancy has been so terminated or brought to an end more than half of the original term of the tenancy had still to run;
+- (b) where the term of a tenancy to which section 3 of the 2003 Act applies (a lease for grazing or mowing) has expired; or
+- (c) where there has been a sale of an agricultural area.
+
+(3) This paragraph applies where as a result of any of the circumstances mentioned in paragraph (2), there has been a reduction of more than 40 per cent in the area-determined for the purposes of the basic payment scheme under Chapter 1 of Title III of the Direct Payments Regulation in respect of 2015, as compared with the area-determined for the purposes of the single payment scheme under Title III of the 2009 Council Regulation in respect of 2014.
+
+(4) In this regulation—
+
+- “above-threshold increase” means an increase attributable to the portion of the reduction in the area-determined exceeding 40 per cent;[^key-bfaea2a00164e72ec12ee30cea4f757e]
+- “**area-determined**” means the area determined by the Scottish Ministers as meeting the eligibility criteria applicable to the schemes mentioned in paragraph (3); and
+- “**the 2003 Act**” means the Agricultural Holdings (Scotland) Act 2003 [^c22358121].
+
+## 15. National reserve
+
+(1) For the purposes of[^key-37c9713d4d1cdbbb9d44a0ae5e6e8393] Article 30(7)(b) of the Direct Payments Regulation, the Scottish Ministers must use the national reserve to compensate a farmer for a specific disadvantage arising from any of the circumstances mentioned in paragraph (2).
+
+(2) The circumstances are that—
+
+- (a) the farmer—
+  - (i) did not receive payment entitlements in the first year of application of the single payment scheme under Title III of Council Regulation [(EC) No 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers [^c22358131]; and
+  - (ii) commenced agricultural activity on or after 16th May 2005; or
+- (b) the farmer only received such payment entitlements as a result of the application of—
+  - (i) Article 42(3) of that Regulation; or
+  - (ii) Article 21(1) of Commission Regulation [(EC) No 795/2004](https://www.legislation.gov.uk/european/regulation/2004/0795) laying down detailed rules for the implementation of the single payment scheme provided for in Council Regulation [(EC) No 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers [^c22358141].
+
+## 15A. Obligations to comply with agricultural practices beneficial for the climate and the environment[^key-6ab1aa87009ec2c52d09330fcc8ecfd3]
+
+(1) For the purposes of Article 43(3) of, and the sixth sub-paragraph (fertiliser regime) of point II(1) of Annex IX to, the Direct Payments Regulation, a farmer must comply with the applicable obligations.
+
+(2) In paragraph (1), “the applicable obligations” means—
+
+- (a)[^key-15d1e6d8ccf23b5f4a0b46bb4e3cfff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in relation to areas of permanent grassland, the obligation—
+  - (i) not to convert or plough areas of permanent grassland designated as environmentally sensitive for the purposes of the first sub-paragraph of Article 45(1) of the Direct Payments Regulation and regulation 17(1); and
+  - (ii) to prepare a plan in respect of the application of inorganic nitrogen fertiliser and lime in accordance with regulation 17A; and
+- (c) in relation to arable land, the obligation to have ecological focus areas applicable under and in accordance with—
+  - (i) Article 46 of the Direct Payments Regulation and Article 45 of the Direct Payments Delegated Regulation; and
+  - (ii) regulation 18 and Schedule 2.
+
+## 16. Crop diversification[^key-425f63e5926bd9b1ab717007ec8fbc41]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 17. Permanent grassland
+
+(1) For the purposes of the first sub-paragraph of Article 45(1) of the Direct Payments Regulation , as it had effect immediately before exit day[^key-77fc459c4d28ee6b81293fb06e48260d], areas of permanent grassland are designated as environmentally sensitive where those areas are located in a site of special scientific interest as mentioned in the list published by the Scottish Ministers [^c22358151] and these areas have not been ploughed or converted within a period of 15 calendar years ending on 31st December 2014.
+
+(2) In this regulation, “**site of special scientific interest**” has the meaning given by section 58 (interpretation) of the Nature Conservation (Scotland) Act 2004 [^c22358161].
+
+## 17A. Permanent grassland: obligation to prepare a plan in respect of the application of inorganic nitrogen fertiliser and lime[^key-49614f63c7d7044b724781c1974fc88c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Ecological Focus Areas
+
+(1) For the purposes of the first sub-paragraph of Article 46(2) of the Direct Payments Regulation, the areas mentioned in points (a) (land lying fallow), (d) (buffer strips), (e) (hectares of agro-forestry),[^key-9988dc081f5b69b04fbdfe7f7db407bc] (i) (areas with catch crops or green cover) ,[^key-162281667757baf6d1df2554ef9c12c5] (j) (areas with nitrogen-fixing crops) (n) (low input grassland), (o) (herb and legume-rich pastures), (p) (unharvested crops), and (q) (low density woodland planting)[^key-2f343d9c473fa00326dc5af675bc0ca9] and, subject to paragraph (2), point (c) (landscape features), are ecological focus areas.
+
+(2) For the purposes of the second sub-paragraph of Article 45(4) of the Direct Payments Delegated Regulation, landscape features are limited to hedges, wooded strips or trees in line as listed in point (a)[^key-edd2ff290fdc38cae1e9ff89d2c3c18e] of the first sub-paragraph of Article 45(4).
+
+(3)[^key-736e4041d53227835e81fc6bd46b7bc2] For the purposes of the third sub-paragraph of Article 45(5) of the Direct Payments Delegated Regulation, the minimum width of—
+
+- (a) buffer strips, other than buffer strips along watercourses required under GAEC 1, SMR 1 or SMR 10, is 2 metres; and
+- (b) field margins is 3 metres[^key-41dc69af99d1b5878d33d1e2e1dca0e0].
+
+(3A) For the purposes of the second sub-paragraph of Article 45(10a) of the Direct Payments Delegated Regulation, cutting is permitted on buffer strips and field margins provided the buffer strip or field margin remains distinguishable from adjacent agricultural land.
+
+(4) In paragraph (3)(a), the reference to “GAEC 1” is to the relevant standard for good agricultural and environmental condition as specified in paragraph 1 of part 2 of Schedule 1 to the Common Agricultural Policy (Cross-compliance) (Scotland) Regulations 2014 [^c22358171], and the references to “SMR 1” and “SMR 10” are to the relevant statutory management requirements, as referred to in Annex II to the Horizontal Regulation.
+
+(5)[^key-cd25176c40209f9568aed5aaba49e708] For the purposes of the second sub-paragraph of Article 45(9) of the Direct Payments Delegated Regulation—
+
+- (a) areas under catch crops must be established by under-sowing grass in the main crop provided that the grass and the main crop are sown during the period beginning on 15th February and ending on 15th June in any calendar year [^key-5d6d50e909f1e0e4bcf1759d23ec7ae3]...; and
+- (b) areas under green cover may be established by sowing a mixture of at least 2 of the crop species listed in Part 1 of schedule 2, provided that the mixture of crop species is sown before 1st November[^key-4b4c34b78fb22230dc2bb9590d84be01] in any calendar year [^key-212d9824ae004090737cb55f6669b4b3]....
+
+(6) For the purposes of Article 45(10) of the Direct Payments Delegated Regulation, nitrogen-fixing crops are those listed in Part 2 of Schedule 2 and a farmer growing nitrogen fixing crops must comply with the conditions set out in Part 3 of Schedule 2.
+
+(7)[^key-3c986fb898763fbfe262487c5dace673] For the purposes of the second sub-paragraph of Article 46(2) of the Direct Payments Regulation, the ecological focus areas referred to in points (c) (landscape features) and (d) (buffer strips) of the first sub-paragraph of Article 46(2) of that Regulation may be located adjacent to the arable land of the holding.
+
+(8) For the purposes of Article 46(3) of the Direct Payments Regulation—
+
+- (a) the weighting factors set out in Annex X to that Regulation apply to the ecological focus areas mentioned in paragraph (1); and
+- (b) the conversion factor set out in Annex X to that Regulation applies to the ecological focus area referred to in point (a) (hedges, wooded strips or trees in line) of the first sub-paragraph of Article 45(4) of the Direct Payments Delegated Regulation.
+
+## 18A. Voluntary coupled support[^key-9a96fccaf6d294689a4ecc001a710806]
+
+Schedules 3 (voluntary coupled support) and 4 (ineligible breeds – bovine animals) have effect.
+
+## 19. Powers of authorised persons
+
+(1) An authorised person may exercise any of the powers specified in this regulation for the purpose of enforcing these Regulations or the European Regulations.
+
+(2) An authorised person may, on producing if so required a duly authenticated document showing that person's authority, at all reasonable hours enter any land (excluding any premises used wholly or mainly as a private dwelling).
+
+(3) If a sheriff, stipendiary magistrate or justice of the peace, on sworn information in writing, is satisfied that there are reasonable grounds for entry into any premises by an authorised person under this regulation and either that—
+
+- (a) entry has been refused or a refusal is reasonably expected, and that person has given notice to the occupier of his or her intention to apply for an entry warrant; or
+- (b) a request for entry, or the giving of such a notice, would defeat the object of entry, or entry is urgently required, or the premises are unoccupied, or the occupier is temporarily absent and it would defeat the object of entry to await the occupier's return,
+
+the sheriff, stipendiary magistrate or justice of the peace may, by signed warrant, valid for a period of no more than one month, authorise that person, together with any person who may accompany an authorised person by virtue of paragraph (5), to enter the premises, if need be by reasonable force.
+
+(4) An authorised person, may—
+
+- (a) carry out any inquiries, checks, examinations, measurements and tests;
+- (b) take samples;
+- (c) inspect all or any part of the land farmed, laid fallow or withdrawn from agricultural production by a farmer;
+- (d) inspect any crops, livestock, machinery or equipment or any other thing;
+- (e) mark any animal or other thing for identification purposes;
+- (f) have access to, inspect and copy any document or record (in whatever form it is held) or remove such a record or document to enable it to be copied or retained as evidence;
+- (g) have access to, inspect and check the operation of any computer and any associated apparatus, or material which is or has been in use in connection with a document or record; and for this purpose require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford the authorised person such assistance as may reasonably be required and, where a document or record is kept by means of a computer, require the document or record to be produced in a form in which it can be taken away;
+- (h) remove a carcass found on the land for the purpose of carrying out a post-mortem examination on it;
+- (i) take a photograph or any other digital record of anything on the land; or
+- (j) remove anything reasonably believed to be evidence of any non-compliance.
+
+(5)[^key-429719e1ade5ef68b5c07e8524fa46a1] An authorised person entering any premises by virtue of this regulation may be accompanied by such other person as the authorised person considers necessary.
+
+(6) A person accompanying an authorised person may also exercise any of the powers conferred on an authorised person by virtue of paragraph (4).
+
+(7) An authorised person who enters any unoccupied premises must leave them as effectively secured as they were before those premises were entered.
+
+(8) An authorised person who enters any land or premises under a power under other legislation may exercise any of the powers specified in this regulation for the purpose of enforcing these Regulations or the European Regulations.
+
+## 20. Assistance to authorised persons
+
+(1) A farmer or any employee, agent, contractor or tenant of a farmer must give an authorised person or a person accompanying an authorised person (in this regulation “a relevant person”) such assistance as the relevant person may reasonably request so as to enable the relevant person to exercise any power conferred by regulation 19.
+
+(2) Such assistance may include the gathering of livestock and presenting them for inspection in a safe and secure manner.
+
+## 21. Offences and penalties
+
+(1) It is an offence for any person to—
+
+- (a) obstruct an authorised person (or a person accompanying an authorised person and acting under the authorised person's instructions) in the exercise of a power conferred by regulation 19;
+- (b) fail without reasonable excuse to comply with a request made under regulation 20; or
+- (c) supply to an authorised person (or a person accompanying an authorised person and acting under the authorised person's instructions) any information, knowing it to be false or misleading.
+
+(2) Nothing in paragraph (1)(b) is to be construed as requiring any person to answer any question if to do so might incriminate that person.
+
+(3) A person who commits an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 22. Offences by bodies corporate, etc.
+
+(1) Where—
+
+- (a) an offence under regulation 21 has been committed by a body corporate or a Scottish partnership or other unincorporated association; and
+- (b) it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+  - (i) a relevant individual; or
+  - (ii) an individual purporting to act in the capacity of a relevant individual,
+
+the individual as well as the body corporate, Scottish partnership or unincorporated association commits the offence and is liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1), “**relevant individual**” means—
+
+- (a) in relation to a body corporate—
+  - (i) a director, manager, secretary or other similar officer of the body;
+  - (ii) where the affairs of the body are managed by its members, a member;
+- (b) in relation to a Scottish partnership, a partner; or
+- (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+## 23. Recovery of undue payments
+
+(1) Where a farmer is liable to repay all or part of a direct payment in accordance with Article 7(1) of the Horizontal Implementing Regulation, the amount of the repayment, together with the interest on that amount calculated in accordance with regulation 24, is recoverable as a debt.
+
+(2) In any legal proceedings brought pursuant to paragraph (1), a certificate of the Scottish Ministers which—
+
+- (a) sets out the Bank of England base rate applicable during a specified period; and
+- (b) includes a statement that the Bank of England , the coordinating body, or,[^key-9a0c7d20ee41d02d595bdda188b69ca9] on or after exit day[^key-2ebe3e8578dc7e32225f1a3eeb03c783], the relevant authority notified the Scottish Ministers of that rate for that period,
+
+is evidence of the rate applicable during that period.
+
+(3)[^key-d36c74d8b213f01dad9c791195380e2d] In this regulation—
+
+- “the relevant authority” means the Secretary of State, the Department of Agriculture, Environment and Rural Affairs, the Scottish Ministers and the Welsh Ministers acting jointly; and
+- “the coordinating body” means the coordinating body referred to in regulation 3 of the Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014 [^c22358181].
+
+## 24. Interest
+
+(1) Where regulation 23 applies, interest may be charged in respect of each day of the period referred to in Article 7(2) of the Horizontal Implementing Regulation and for this purpose the rate of interest applicable on any day is one percentage point above the bank of England base rate on that day.
+
+(2) In this regulation and regulation 23, “**the Bank of England base rate**” means—
+
+- (a) except where sub-paragraph (b) applies, the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate being the rate at which the Bank is willing to enter into transactions for providing short-term liquidity in the markets; or
+- (b) if an order under section 19 (reserve powers) of the Bank of England Act 1998 [^c22358191] is in force, an equivalent determined by the Treasury under that section.
+
+## 25. Set off
+
+Any payment due to the Scottish Ministers in accordance with regulation 23 may be set off against any amount due to the farmer under and in accordance with these Regulations, the European Regulations or the 2009 Council Regulation.
+
+## 26. Amendment to the Rural Payments (Appeals) (Scotland) Regulations 2009[^key-e2d2fdc98b87a84db09967556f22e406]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 27. Amendment to the Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014
+
+(1) The Schedule (standards for good agricultural and environmental condition) to the Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014 [^c22358211] is amended in accordance with paragraphs (2) and (3).
+
+(2) In Part 1 (general interpretation), after the definition of “chemical fertiliser” insert—
+
+> “**invasive species**” means giant hogweed (*heracleum mantegazzianum*), Japanese knotweed (*fallopia japonica*), Himalayan balsam (*impatiens glandulifera*) and rhododendron (*rhododendron ponticum*);
+
+.
+
+(3) In Part 2 (standards of good agricultural and environmental condition)—
+
+- (a) in paragraph 1(6) (establishment of buffer strips along water courses), after “Weeds Act 1959 applies” insert “ , invasive species or, subject to the prior written consent of the Scottish Ministers, other plant species ”;
+- (b) in paragraph 7(6) (retention of landscape features), after “Weeds Act 1959 applies” insert “ , invasive species or, subject to the prior written consent of the Scottish Ministers, other plant species ”.
+
+## 28. Revocations and savings
+
+(1) Subject to paragraph (2), the following instruments are revoked—
+
+- (a) the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2011 (“**the 2011 Regulations**”) [^c22358221]; and
+- (b) the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Amendment Regulations 2013 [^c22358231].
+
+(2) The Regulations mentioned in paragraph (1) as in force immediately before 16th March 2015 continue to apply in respect of—
+
+- (a) a single application within the meaning of the 2011 Regulations; and
+- (b) an application for a scheme payment under regulation 8 of the 2011 Regulations (the Scottish Beef Scheme).
+
+(3) The following instruments are revoked—
+
+- (a) the Common Agricultural Policy (Single Farm Payment and Support Schemes and Cross-Compliance) (Scotland) Amendment Regulations 2008 [^c22358241]; and
+- (b) the Common Agricultural Policy (Single Farm Payment and Support Schemes and Cross-Compliance) (Scotland) Amendment Regulations 2009 [^c22358251].
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — Agricultural activity: further criteria
+
+Regulation 11(1) and (2)
+
+### PART 1 — Criteria established for the purposes of Article 4(1)(c)(ii) of the Direct Payments Regulation: maintaining an agricultural area in a state which makes it suitable for grazing or cultivation
+
+**1.** The criteria are—
+
+- (a) in respect of agricultural areas other than agricultural areas naturally kept in a state suitable for grazing or cultivation, a farmer must—
+  - (i) take action to control injurious weeds to which the Weeds Act 1959 [^c22358261] applies; and
+  - (ii) maintain access to those areas for livestock or farm machinery and, where those areas include permanent grassland, maintain existing stock proof boundaries and water sources for livestock; and
+- (b) in respect of arable land, a farmer must take action to prevent the encroachment of scrub on that land.
+
+### PART 2 — Minimum activity for the purposes of Article 4(1)(c)(iii) of the Direct Payments Regulation
+
+**2.** (1) A farmer must—
+
+- (a) stock the land for a period or periods totalling not less than 183 days in any calendar year, in accordance with the minimum stocking density; or
+- (b) carry out an environmental assessment of the land in each calendar year which comprises—
+  - (i) a map and description of the farm environment;
+  - (ii) surveys of breeding birds, mammals, butterflies and plant health; and
+  - (iii) monitoring of habitats.
+
+(2) In this Part—
+
+- “**dairy ring fence area**” has the meaning given in Part 3 of this Schedule;
+- “**livestock unit**” means a unit of measurement of livestock numbers, and each of the following constitute one livestock unit—
+  - (a) one beef cow over 24 months of age;
+  - (b) 1.66 beef cows over 20 months and up to and including 24 months of age;
+  - (c) within the dairy ring fence area, one dairy cow over 24 months of age;
+  - (d) within the dairy ring fence area, 1.66 dairy cows over 20 months and up to and including 24 months of age;
+  - (e) 6.66 breeding ewes , ewe hoggs[^key-a0af14a0d75c843695ca821c1b2a31f4] or gimmers;
+  - (f) 6.66 breeding female goats kept as part of a regular breeding herd for fibre production;
+  - (g) 3.33 breeding female farmed deer aged 27 months and over;
+  - (h) 5 breeding female farmed deer aged over 6 months but less than 27 months of age; [^key-e1a2ee7b845b6379ae3804c0d74dd2d3]...
+  - (ha) 2.5 farmed stags aged 27 months and over; or[^key-fd2f6f68706fb0b56c5bd8aca23c1492]
+  - (i) 3.33 breeding female llamas kept as part of a regular breeding herd; and
+- “**minimum stocking density**” means—
+  - (a) a stocking density of 0.05 livestock units per hectare; or
+  - (b) a stocking density of less than 0.05 livestock units per hectare where the farmer can demonstrate that such a stocking density is appropriate for the land by reference to—
+    - (i) the historic records kept in respect of the carrying capacity of the holding; or
+    - (ii) an environmental management agreement which the farmer has entered into with Scottish Natural Heritage [^c22358271] or an agri-environment commitment to which the farmer is subject under Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) etc [^c22358281] or under Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) [^c22358291].
+
+### PART 3 — Meaning of dairy ring fence area
+
+- In Part 2, “**dairy ring fence area**” means—
+  - (a) the islands of Shetland;
+  - (b) the islands of Orkney;
+  - (c) the islands of Islay, Jura, Arran, Bute, Great Cumbrae, Little Cumbrae and the Kintyre Peninsula south of Tarbert;
+  - (d) the islands of the Outer Hebrides and the Inner Hebrides; and
+  - (e) the areas of land within Argyll and Bute Council comprising those parts of the parishes of Dunoon and Kilmun and Inverchaolain bounded as follows—
+
+    Starting in the North on the shore of Loch Striven at point national grid reference NS/095708; then in an easterly direction along the Ministry of Defence boundary to point national grid reference NS/098708; then in a northerly direction along the Ministry of Defence boundary to point national grid reference NS/097711; then in a north-easterly direction along the Ministry of Defence boundary to point national grid reference NS/098711; then in a northerly direction along the Ministry of Defence boundary to point national grid reference NS/098712; then in a north north-easterly direction along the Ministry of Defence boundary to point national grid reference NS/099713; then in a north-easterly direction to point national grid reference NS/103714; then in a southeasterly direction to point national grid reference NS/107712; then in a easterly direction along the forestry fence to point national grid reference NS/111712; then in a southerly direction along the forestry fence to point national grid reference NS/110708; then in a south-easterly direction along the forestry fence to point national grid reference NS/112707; then in a south south-easterly direction along the forestry fence to point national grid reference NS/113704; then in a south-easterly direction to point national grid reference NS/114704; then in a southerly direction along the forestry fence to point national grid reference NS/114699; then in a south-westerly direction along the forestry fence to point national grid reference NS/112699; then in a south south-westerly direction along the forestry fence to point national grid reference NS/11163 where the forestry fence meets the A815; then in a southerly direction along the A815 to point national grid reference NS/112689; then in a north-easterly direction along the forestry fence to point national grid reference NS/114690; then in an east south-easterly direction along the forestry fence to point national grid reference NS/117688; then in a southerly direction along the forestry fence to point national grid reference NS/116685; then in a westerly direction to point national grid reference NS/114685 where the forestry fence meets a track; then in a southerly direction down the track to point national grid reference NS/114683; then in a westerly direction down a burn to point national grid reference NS/112682 where the burn meets the A815; then in a southerly direction down the A815 to point national grid reference NS/111679; then in a westerly direction to point national grid reference NS/110679 at the high water mark; then in a westerly direction for approximately 1200 metres which then turns in a northerly direction all along the shore back to the starting point of national grid reference NS/095708.
+
+## SCHEDULE 2 — Ecological focus areas: further criteria
+
+Regulation 18(5) and (6)
+
+### PART 1 — Crop species that may be used in a mixture of crop species for the purposes of Article 45(9) of the Direct Payments Delegated Regulation in relation to areas under green cover[^key-e34821e3a9269e11d79025633d9e8498]
+
+- Rye *(Secale cereale)*
+- Vetch *(Vicia sativa)*
+- Phacelia *(Phacelia)*
+- Barley *(Hordeum vulgare)*
+- Mustard *(Sinapsis alba)*
+- Oats *(Avena sativa)*
+- Alfalfa *(Medicago stiva)*
+- Red clover[^key-694bf7160e22f26805d43c7c5adec97a] *(Trifolium pratense)*
+- White clover *(Trifolium repens)*
+- Radish *(Raphanus)*
+- Triticale (hybrid of wheat)[^key-99fba1bc1f7e1ab093f761e588ef43e7] *(Triticum aestivum)* and Rye *(Secale cereale) (x Triticosecale)*
+- Alsike clover *(Trifolium hybridum)*
+- Crimson clover *(Trifolium incarnatum)*
+- Persian clover *(Trifolium resupinatum)*
+- Balansa clover *(Trifolium michelianum)*
+- Buckwheat *(Fagopyrum esculentum)*
+- Kale *(Brassica oleracea)*
+- Stubble turnip *(Brassica rapa)*
+- Forage rape *(Brassica napus)*
+- Beans
+
+### PART 2 — Nitrogen-fixing crops for the purposes of Article 45(10) of the Direct Payments Delegated Regulation
+
+- Alfalfa *(Medicago stiva)*
+- Beans *(Vicia)*
+- Birdsfoot trefoil *(Lotus corniculatus)*
+- Chickpeas *(Cicer)*
+- Red clover[^key-da25080dc380f3e062fb157318f303b4] *(Trifolium pratense)*
+- White clover *(Trifolium repens)*
+- Faba bean *(Vicia faba)*
+- Lentils *(Culinaris)*
+- Lupins *(Lupinus)* Peas *(Pisum)*
+- Vetch *(Vicia sativa)*
+- Alsike clover[^key-7e461b239b51f11870ce20c145c3f5d8] *(Trifolium hybridum)*
+- Berseem clover *(Trifolium alexandrinum)*
+- Sweet clover *(Melilotus spp.)*
+- Balansa clover *(Trifolium michelianum)*
+- Fenugreek *(Trigonella foenum-graecum)*
+
+### PART 3 — Additional conditions for the purposes of Article 45(10) of the Direct Payments Delegated Regulation
+
+**1.**[^key-4bfe6c2af4779a92f8c5f11d118931ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-bd013ad594cea3e9882910b305117054] Areas with nitrogen-fixing crops must be surrounded by a buffer strip or field margin, which is an ecological focus area as referred to in point (d) of the first sub-paragraph of Article 46(2) of the Direct Payments Regulation as construed with Article 45(5) of the Direct Payments Delegated Regulation, with a minimum width of 3 metres[^key-ce4b183832e056a21b1f1bd6a68c77ea] and a maximum width of 20 metres.
+
+**3.**[^key-dbd6712a72095271ca80e8ea7d77204f] (1) Areas with nitrogen fixing crops must be established by sowing at least 2 of the crop species listed in Part 2 of this Schedule, provided that one of the crop species sown does not cover more than 75 per cent of the total of such areas.
+
+(2) Any area with nitrogen fixing crops established as mentioned in sub-paragraph (1) must not contain the same crop species as any other such area established.
+
+(3)[^key-ad8161f50083a583871c192f0fc8548b] In sub-paragraphs (1) and (2), “crop species” includes a mixture of any of the crop species listed in Part 2 of this schedule.
+
+(4) Despite sub-paragraphs (1) and (2), areas with nitrogen fixing crops may also be established by sowing at least 1 of the crop species listed in Part 2 of this schedule with any other crop species, provided that the crop species listed in Part 2 of this schedule is predominant by weight of seed.
+
+(5) In sub-paragraph (4)—
+
+- “crop species listed in Part 2 of this schedule” includes a mixture of any of the crop species listed in Part 2 of this schedule; and
+- “other crop species” includes-
+  - (a) a mixture of any of the crop species listed in Part 2 of this schedule and any other crop species; and
+  - (b) a mixture of any crop species not listed in Part 2 of this schedule.
+
+**4.** In this Part, “areas with nitrogen fixing crops” means areas as mentioned at point (j) of Article 46(2) of the Direct Payments Regulation and which form part of the arable land of the holding declared by a farmer in accordance with Article 46(1) of that Regulation.
+
+## SCHEDULE 3 — Voluntary coupled support[^key-f9ce2723196931c7dc0f9716926e5e7e]
+
+Regulation 18A
+
+### PART 1 — Voluntary coupled support – bovine animals
+
+#### 1. Interpretation
+
+In this Part—
+
+- “applicant” means a farmer whose holding is wholly or partly situated in Scotland and who, at the time of submitting an application, is producing beef or veal in any part of the holding situated in Scotland;
+- “application” means an application for a Scheme payment under paragraph 2;
+- “bovine animal” means an animal of the bovine species;
+- “Cattle Identification Regulations” means the Cattle Identification (Scotland) Regulations 2007;
+- “cattle passport” has the same meaning as in the Cattle Identification Regulations;
+- “eartag identification code” means the unique identification code for the purposes of Article 4(1) of Regulation 1760/2000 and regulation 5 of and Schedule 1 (ear tags) to the Cattle Identification Regulations;
+- “eligible bovine animal” has the meaning given in paragraph 3;
+- “holding”, for the purposes of paragraph 3, means a holding defined in Article 2 of Regulation 1760/2000;
+- “identification document” has the same meaning as in regulation 2(1) of the Cattle Identification Regulations;
+- “[^key-573f8c0c851f92ba9a6221e4795b5093]**qualifying bovine animal**” means—
+  - (a) a bovine animal that has a cattle passport; or
+  - (b) a deceased bovine animal that had a cattle passport immediately prior to its  death;
+- “Regulation 1760/2000” means Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Regulation [(EC) No 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820);
+- “Scheme payment” means a payment by way of coupled support under and in accordance with Chapter 1 of Title IV (voluntary coupled support) of the Direct Payments Regulation; and
+- “Scheme year” means the calendar year in respect of[^key-c43ecf3896c34ced8719a682258591c3] which a particular application for a Scheme payment is made under paragraph 2.
+
+#### 2. Application for a Scheme payment
+
+(1) An applicant may, [^key-2bdb8f45378f5576391f27a532caf6aa]..., submit an application by 14th January following the end of the calendar year to which the Scheme payment relates[^key-bbe088a00fd68d27b1169825dfa1ace3] to the Scottish Ministers in respect of any eligible bovine animal.
+
+(2) A Scheme payment for a particular Scheme year is to be made in respect of an application made made in accordance with sub-paragraph (1)[^key-5235524c412c3d8477c4f697e2a21638].
+
+(3) An application is to be made in such form and include such information as may be specified by the Scottish Ministers.
+
+(4) In accordance with Article 3 of the Horizontal Implementing Regulation, an application may be withdrawn in writing in respect of any bovine animal included in that application.
+
+(5) In respect of any bovine animal for which an application is made, that application must include—
+
+- (a) the eartag identification code;
+- (b) details concerning the identification document which has been issued in respect of that animal; and
+- (c) such other information as the Scottish Ministers may require.
+
+(6) For the purposes of this paragraph, an applicant must have submitted a single application in accordance with these Regulations in the Scheme year.
+
+#### 3. Eligible bovine animal
+
+For the purposes of Article 53 of the Direct Payments Delegated Regulation and this Schedule, an eligible bovine animal means a bovine animal—
+
+- (a) which genetically is at least 75 per cent of a breed of bovine animal other than a breed listed in Schedule 4;
+- (b) which was born on the applicant’s holding on or after 2nd December 2014 and kept on that holding from birth for a continuous period of at least 30 days; [^key-f783b2fe18e16cc0181fbdea213f567f]...
+- (ba)[^key-bec061fa96314f6c82cceaa6669b06fe] which is—
+  - (i) the first bovine animal born by its mother in Scotland; or
+  - (ii) a bovine animal which was born by its mother in Scotland no later than 410 days following the date of birth of a qualifying bovine animal that has the same mother;
+- (c)[^key-123a6fa7a89721c1163bda06ab973b76] which is reared for the production of beef as part of a suckler beef herd; and
+- (d) in respect of which the following requirements of the Cattle Identification Regulations have been complied with—
+  - (i) regulation 5 and schedule 1 (ear tags);
+  - (ii) regulation 6 and paragraph 2 of schedule 2 (notification of movement);
+  - (iii) regulation 7 and schedule 3 (cattle passports etc.); and
+  - (iv) regulation 8 and schedule 4 (records).
+
+#### 3A. Derogation for claims of ten calves or fewer[^key-98eac1f951437082f37f2882641b504b]
+
+Where an applicant claims ten or fewer calves in respect of a Scheme year, the requirements in paragraph 3(ba) do not apply to any such calves.
+
+#### 4. Scheme payments
+
+A Scheme payment to be made in respect of an eligible bovine animal must be determined by the Scottish Ministers in accordance with—
+
+- (a) Article 52(3) of the Direct Payments Regulation;
+- (b) Article 52(6) of the Direct Payments Regulation; and
+- (c) Article 53(2) of the Direct Payments Delegated Regulation.
+
+### PART 2 — Voluntary coupled support – ovine animals
+
+#### 5. Interpretation
+
+In this Part—
+
+- “applicable requirements” means the requirements in relation to—
+  - (a) means of identification;
+  - (b) replacement means of identification; and
+  - (c) holding register and movement requirements;
+- “applicant” means a farmer—
+  - (a) whose holding is wholly or partly situated in Scotland and who, at the time of submitting an application, is producing sheepmeat on any agricultural areas of any part of the holding situated in Scotland comprising parcels of land in region 3; and
+  - (b) in respect of any part of whose holding is situated in Scotland—
+    - (i) at least 80 per cent of the total agricultural area declared for the purposes of a payment under Chapter 1 of Title III (basic payment scheme) of the Direct Payments Regulation on that farmer’s single application in the Scheme year comprises parcels of land in region 3; and
+    - (ii) no more than 200 hectares of that area declared comprises parcels of land in region 1;
+- “application” means an application for a Scheme payment under paragraph 6;
+- “eligible ovine animal” has the meaning given in paragraph 7;
+- “holding”, for the purposes of paragraph 7, means a holding defined in Article 2 of Regulation 21/2004;
+- “holding register and movement requirements” means the requirements under—
+  - (a) Articles 5(1), (3) and (5), 6(1) and (3) and 8(2) of Regulation 21/2004; and
+  - (b) articles 22, 23 and 25 of the Sheep and Goats Order;
+- “means of identification” means the requirements on the first and second means of identification under—
+  - (a) Articles 4(1) and (2)(a) and (b) and 9 of, and Sections A.1 to A.4 and A.6 of the Annex to, Regulation 21/2004; and
+  - (b) articles 5, 30 and 37 of the Sheep and Goats Order,
+
+  as read with Article 30(5) of the Horizontal Delegated Regulation;
+- “ovine animal” means an animal of the ovine species;
+- “region 1” means the region applied by the Scottish Ministers under and in accordance with Article 23(1) of the Direct Payments Regulation as region 1 of Scotland and comprising parcels of land that are arable land, permanent grassland or temporary grassland other than rough grazing land;
+- “Regulation 21/2004” means Council Regulation [(EC) No 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) and [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432);
+- “replacement means of identification” means the requirements on removal and replacement of the means of identification under Article 4(6) of Regulation 21/2004 and articles 14, 15, 18 and 19 of the Sheep and Goats Order;
+- “Scheme payment” means a payment by way of coupled support under and in accordance with Chapter 1 of Title IV (voluntary coupled support) of the Direct Payments Regulation;
+- “Scheme year” means the calendar year in which a particular application is made under paragraph 6; and
+- “Sheep and Goats Order” means the Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009.
+
+#### 6. Application for a Scheme payment
+
+(1) Subject to[^key-b4562a3f803f0b674cc93163099ebd8a] sub-paragraphs (1A) and (1B)[^key-f534a63ed1fe9636312ab4d4c6e69e9a], an applicant may, during the period beginning 1st September and ending on 16th October in any calendar year, submit an application to the Scottish Ministers for a Scheme payment in respect of any eligible ovine animal.
+
+(1A)[^key-796f357b5e9efebbcfb6849a2b0e020f] In respect of calendar year 2017, the final date for submitting an application to the Scottish Ministers for a scheme payment in respect of any eligible ovine animal is 30th November 2017.
+
+(1B)[^key-87774c4d076980a6c7a3bcb484119d44] In respect of calendar year 2018 and any subsequent calendar year, the final date for submitting an application to the Scottish Ministers for a scheme payment in respect of any eligible ovine animal is 30th November.
+
+(2) A Scheme payment for a particular Scheme year is to be made in respect of an application for a Scheme payment made during that Scheme year.
+
+(3) An application is to be made in such form and include such information as may be specified by the Scottish Ministers.
+
+(4) In accordance with Article 3 of the Horizontal Implementing Regulation, an application may be withdrawn in writing in respect of any ovine animal included in that application.
+
+(5) In respect of any ovine animal for which an application is made, that application must include—
+
+- (a) details concerning the means of identification in respect of that animal; and
+- (b) such other information as the Scottish Ministers may require.
+
+(6) For the purposes of this paragraph, an applicant must have submitted a single application in accordance with these Regulations in the Scheme year.
+
+#### 7. Eligible ovine animal
+
+For the purposes of Article 53 of the Direct Payments Delegated Regulation and this Schedule, an eligible ovine animal means an ovine animal—
+
+- (a) which was born on the applicant’s holding;
+- (b) which has been kept on that holding from birth and will be kept on that holding during the period beginning on 1st December[^key-9edfb0dc28aba06058fb0fde67bf461d] of the Scheme year and ending on 31st March of the following calendar year;
+- (c) which is less than 12 months old on 1st December[^key-1d0e3a8679fe1d2c6e98c97057e62b4b] of the Scheme year; and
+- (d) in respect of which the applicable requirements have been complied with.
+
+#### 8. Scheme payments
+
+(1) Subject to sub-paragraph (2), a Scheme payment to be made in respect of an eligible ovine animal must be determined by the Scottish Ministers in accordance with—
+
+- (a) Article 52(3) of the Direct Payments Regulation;
+- (b) Article 52(6) of the Direct Payments Regulation; and
+- (c) Article 53(2) of the Direct Payments Delegated Regulation.
+
+(2) A Scheme payment may be made in respect of an eligible ovine animal up to a maximum of one animal for every 4 hectares of agricultural area declared by the applicant for the purposes of a payment under Chapter 1 of Title III (basic payment scheme) of the Direct Payments Regulation on a single application in the relevant Scheme year and comprising parcels of land in region 3.
+
+## SCHEDULE 4 — Ineligible breeds – bovine animals
+
+Regulation 18A and Schedule 3, paragraph 3(a)
+
+- Armoricaine;
+- Australian Lowline;
+- Ayrshire;
+- Ayrshire Cross;
+- Belted Dutch;
+- Belted Dutch Cross;
+- Black and White Friesian;
+- [^key-d8e129c28c4d538a01d9f4c8258345d7]...
+- [^key-d8e129c28c4d538a01d9f4c8258345d7] ...
+- Bretonne Pie-Noire;
+- British Friesian;
+- British Friesian Cross;
+- British Holstein;
+- British Holstein Cross;
+- Brown Swiss;
+- Brown Swiss Cross;
+- Cross breed Dairy;
+- Dairy Shorthorn;
+- Dairy Shorthorn Cross;
+- Deutsche Schwartzbunte;
+- Estonian Red;
+- Estonian Red Cross;
+- [^key-d8e129c28c4d538a01d9f4c8258345d7]...
+- [^key-d8e129c28c4d538a01d9f4c8258345d7]...
+- Française Frisonne Pie-Noire;
+- Fries Holland;
+- Friesian;
+- Friesian Cross;
+- Frisona Espagñola;
+- Frisona Espagñola Cross;
+- Frisona Italiana;
+- Groninger Blaarkop;
+- Guernsey;
+- Guernsey Cross;
+- Holstein;
+- Holstein Cross;
+- Holstein Friesian;
+- Holstein Friesian Cross;
+- Jersey;
+- Jersey Cross;
+- Kerry;
+- Kerry Cross;
+- Northern Dairy Shorthorn;
+- Pie-Noire de Belgique;
+- Red and White Freisian;
+- Reggiana;
+- Sortbroget Dansk Malkerace;
+- Swartzbunte Milchrasse;
+- Swiss Gray;
+- Swedish Red;
+- Swedish Red Cross;
+- [^key-d8e129c28c4d538a01d9f4c8258345d7]...
+- Swedish Red and White;
+- [^key-d8e129c28c4d538a01d9f4c8258345d7]...
+- Yak;
+- Zwartbonten van Belge; or
+- any other dairy breed.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision in Scotland for the administration of Regulation (EU) No. 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy (OJ No. L 347, 20.12.2013, p. 608) (“**the Direct Payments Regulation**”), as amended by Regulation (EU) No. 1310/2013 (OJ No. L 20.12.2013, p.865), and other associated EU regulations referred to in regulation 2(1).
+
+Regulation 3 prescribes the minimum size of agricultural parcel in respect of which a single application can be made.
+
+Regulation 4 specifies the minimum eligible area of a holding in respect of which direct payments may be granted to a farmer.
+
+Regulation 5 extends the definition of permanent grassland.
+
+Regulation 6 specifies the final date for submission of a single application, an aid application or payment claim, and the date on which parcels used as the basis for a claim under the basic payment scheme must at the disposal of farmers.
+
+Regulation 7 designates the short rotation coppice trees eligible under the basic payment scheme and sets the maximum harvest cycle.
+
+Regulation 8 provides for the reduction by 5% of the part (if any) of any direct payments granted to a farmer which exceeds \[euro\]150,000.
+
+Regulation 9 makes provision for the period within which the transferor must notify the Scottish Ministers of a transfer of payment entitlements and the deadline for submitting applications for the allocation of payment entitlements from the national reserve It also provides for a siphon on the value of payments entitlements which are transferred without land.
+
+Regulation 10 provides for the basis on which an increase in direct payments to qualifying farmers aged 40 or less and participating in the young farmers scheme must be calculated.
+
+Regulation 11 and Schedule 1 provide for (i) the criteria to be met by farmers in respect of agricultural areas maintained in a state suitable for grazing or cultivation and (ii) the minimum activity to be carried out in respect of agricultural areas naturally kept in a state suitable for grazing or cultivation.
+
+Regulation 12 also specifies the detail of two of the readmission tests which are applied to rebut the presumption that certain business or activities are automatically not entitled to receive direct payments.
+
+Regulation 13 sets the level of the reduction coefficient to be applied to eligible hectares for areas with difficult climate conditions at 10 per cent.
+
+Regulation 14 provides, for the purpose of determining the initial unit value of entitlements, that in the case of (i) termination of a short limited duration tenancy or a limited duration tenancy; (ii) non-renewal of a lease for grazing or mowing, or (iii) sale of land, where the reduction in the eligible agricultural area is greater than 40 per cent, any increase in the value of payment entitlements will revert to the national reserve.
+
+Regulation 15 describes the circumstances where farmers may apply to the national reserve because they have suffered a specific disadvantage.
+
+Regulations 16 to 18 make provision relating to the “greening” component of direct payments, linking payments to agricultural practices beneficial for the climate and environment.
+
+Regulation 16 sets out the period to be taken into account for the purposes of determining whether crop diversification requirements have been met.
+
+Regulation 17 provides for the designation of permanent grasslands which are environmentally sensitive.
+
+Regulation 18 and Schedule 2 set out the areas which are to be ecological focus areas (“EFAs”) and details as to the scope of the EFAs relating to land lying fallow, landscape features, buffer strips, areas with catch crops or green cover and areas with nitrogen-fixing crops.
+
+Regulation 19 provides for powers of entry of an authorised person and the power to carry out certain actions on the land entered for the purpose of enforcing these Regulations or any of the associated EU Regulations. An authorised person entering premises under these Regulations may be accompanied by such other person as the authorised person considers necessary or any representative of the European Commission. The person accompanying the authorised person may also exercise some of the powers of the authorised person.
+
+Regulation 20 provides for an authorised person (or a person accompanying an authorised person) to request assistance of a farmer or any employee, agent, contractor or tenant of a farmer so as to enable to exercise of the powers in regulation 20.
+
+Regulation 21 specifies criminal offences and penalties for obstructing an authorised person, failing to provide assistance and supplying to an authorised person false or misleading information.
+
+Regulation 22 provides for offences by bodies corporate, Scottish partnerships and unincorporated associations.
+
+Regulation 23 provides that any repayment due from farmers is recoverable as a debt and regulation 24 provides for the rate of interest on that repayment. Regulation 25 allows any payments due to the Scottish Ministers under regulation 23 to be set off against any amount due to the farmer under these Regulations or the European Regulations.
+
+Regulation 26 makes consequential amendments to the Rural Payments (Appeals) (Scotland) Regulations 2009 (which provide for the review and appeal of certain decisions) so that decisions of the Scottish Ministers made in relation to the national reserve to allocate or top up entitlements can be subject to review by the Scottish Ministers and appealed to the Scottish Land Court.
+
+Regulation 27 amends the Common Agricultural Policy (Cross-Compliance) (Scotland) Regulations 2014.
+
+Regulation 28 revokes the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2011 (the 2011 Regulations) and the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Amendment Regulations 2013, subject to savings. The 2011 Regulations will continue to apply in respect of a single application (within the meaning of those Regulations) and an application for payment under the Scottish Beef Scheme.
+
+Copies of guidance issued by the Scottish Ministers in relation direct payments will be made available at www.ruralpayments.org.
+
+A business and regulatory impact assessment is being prepared for these Regulations and will be placed in the Scottish Parliament Information Centre. Copies may be obtained from the Directorate for Agriculture, Food and Rural Communities.
+
+## Annotations
+
+[^c22358021]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“**the 2008 Act**”), section 3(3) and Schedule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act, Schedule, Part 1.
+
+[^c22358031]: Marginal citation: OJ L 30, 31.1.2009 p.16, as last amended by Commission Regulation (EC) No 889/2009 (OJ L 254, 26.9.2009, p.73).
+
+[^key-eaff744377002ca0afd896aa82805c6b]: Textual amendment: Words in reg. 2(1) substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [3](https://www.legislation.gov.uk/ssi/2018/122/regulation/3)
+
+[^c22358041]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-e6fc51d4dfcac4a346cb8b20e972d5ec]: Textual amendment: Words in reg. 2(1) inserted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/18/regulation/3/2/a)
+
+[^c22358121]: Marginal citation: [2020 c.2](https://www.legislation.gov.uk/ukpga/2020/2).
+
+[^c22358051]: Marginal citation: OJ L 181, 20.6.2014, p.1.
+
+[^c22358061]: Marginal citation: OJ L 181, 20.6.2014, p.74.
+
+[^c22358071]: Marginal citation: OJ L 347, 20.12.2013, p.608, as last amended by Commission Delegated Regulation (EU) No 1378/2014 (OJ L 367, 23.12.2014, p.16).
+
+[^c22358081]: Marginal citation: OJ L 181, 20.6.2014, p.48.
+
+[^c22358091]: Marginal citation: OJ L 227, 31.7.2014, p.69.
+
+[^c22358101]: Marginal citation: OJ L 347, 20.12.2013, p.549, as amended by Regulation (EU) No 1310/2013 (OJ L 347, 20.12.2013, p.865).
+
+[^c22358111]: Marginal citation: [S.S.I. 2010/273](https://www.legislation.gov.uk/ssi/2010/273), as amended by [S.S.I. 2011/73](https://www.legislation.gov.uk/ssi/2011/73), [S.S.I. 2012/24](https://www.legislation.gov.uk/ssi/2012/24), [S.S.I. 2013/9](https://www.legislation.gov.uk/ssi/2013/9) and [S.S.I. 2014/7](https://www.legislation.gov.uk/ssi/2014/7).
+
+[^key-755d983809a2fad568ef1b5605cdcb6c]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/ssi/2015/58/regulation/2/1A) omitted (1.1.2021) by virtue of [The Direct Payments to Farmers (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/460)](https://www.legislation.gov.uk/ssi/2020/460), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/460/regulation/1/2), [9(2)](https://www.legislation.gov.uk/ssi/2020/460/regulation/9/2)
+
+[^key-e254bf191cce5f369a89f053a66cc3d8]: Textual amendment: Words in reg. 4 omitted (31.1.2020) by virtue of [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2020/18/regulation/3/3)
+
+[^key-bb3a8453a84532a034196096cdf55e68]: Textual amendment: Reg. 5 substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [4](https://www.legislation.gov.uk/ssi/2018/122/regulation/4)
+
+[^key-f21bb9f5a55059cd4045bdeab8a5b97c]: Textual amendment: Words in reg. 6(1) substituted (18.5.2016) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/178)](https://www.legislation.gov.uk/ssi/2016/178), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/178/regulation/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2016/178/regulation/2/a)
+
+[^key-2f54a0881ca4229a84950ef4b4f4caad]: Textual amendment: Words in reg. 6(1) substituted (1.6.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/215)](https://www.legislation.gov.uk/ssi/2015/215), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/215/regulation/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2015/215/regulation/2/a)
+
+[^key-c76cfffd91f04a911ee61f4700a1ec07]: Textual amendment: Reg. 6(1A) inserted (1.6.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/215)](https://www.legislation.gov.uk/ssi/2015/215), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/215/regulation/1/2), [2(b)](https://www.legislation.gov.uk/ssi/2015/215/regulation/2/b)
+
+[^key-7da7c8fe2ffc363c6a42fd6cc6b386eb]: Textual amendment: Reg. 6(1B) inserted (18.5.2016) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/178)](https://www.legislation.gov.uk/ssi/2016/178), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/178/regulation/1/2), [2(b)](https://www.legislation.gov.uk/ssi/2016/178/regulation/2/b)
+
+[^key-78cda4e12e8e517c5963f9adc0a97e42]: Textual amendment: Words in reg. 7 omitted (31.1.2020) by virtue of [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/18/regulation/3/4)
+
+[^key-51399919a52656a6409c0dfd5cfa0194]: Textual amendment: Reg. 8 substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [5](https://www.legislation.gov.uk/ssi/2018/122/regulation/5)
+
+[^key-37709fdca605180abb197af894c118c1]: Textual amendment: Reg. 9(3) substituted (1.6.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/215)](https://www.legislation.gov.uk/ssi/2015/215), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/215/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2015/215/regulation/3)
+
+[^key-c150fdc1d0130740da66039e704907ad]: Textual amendment: Words in reg. 9(3) substituted (18.5.2016) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/178)](https://www.legislation.gov.uk/ssi/2016/178), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/178/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2016/178/regulation/3/a)
+
+[^key-ff457c28530dc321b5145db886369128]: Textual amendment: Reg. 9(3A) inserted (18.5.2016) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/178)](https://www.legislation.gov.uk/ssi/2016/178), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/178/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2016/178/regulation/3/b)
+
+[^key-71a14cabcb9dd0ee15a365767cce339c]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/ssi/2015/58/regulation/9/4) omitted (1.1.2024) by virtue of [The Rural Support (Simplification and Improvement) (Scotland) Regulations 2023 (S.S.I. 2023/308)](https://www.legislation.gov.uk/ssi/2023/308), [regs. 1](https://www.legislation.gov.uk/ssi/2023/308/regulation/1), [5](https://www.legislation.gov.uk/ssi/2023/308/regulation/5)
+
+[^key-b31ef86ed1a20de81c0a0d002b0f6df5]: Textual amendment: Reg. 10 substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [7](https://www.legislation.gov.uk/ssi/2018/122/regulation/7)
+
+[^key-69d2fabea57f7478bda47b9f9572c16a]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/58/regulation/12) omitted (15.5.2018) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [8](https://www.legislation.gov.uk/ssi/2018/122/regulation/8)
+
+[^key-f215ae515898ced79cc30f12c95e02f2]: Textual amendment: Words in reg. 14(1) inserted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2020/18/regulation/3/5)
+
+[^key-80ac493c3366eedbc685165e86313529]: Textual amendment: Words in reg. 14(1) substituted (15.3.2017) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/98)](https://www.legislation.gov.uk/ssi/2017/98), [regs. 1](https://www.legislation.gov.uk/ssi/2017/98/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2017/98/regulation/3/a) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/98/regulation/6))
+
+[^key-bfaea2a00164e72ec12ee30cea4f757e]: Textual amendment: Words in reg. 14(4) inserted (15.3.2017) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/98)](https://www.legislation.gov.uk/ssi/2017/98), [regs. 1](https://www.legislation.gov.uk/ssi/2017/98/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2017/98/regulation/3/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/98/regulation/6))
+
+[^key-37c9713d4d1cdbbb9d44a0ae5e6e8393]: Textual amendment: Word in reg. 15(1) inserted (27.6.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/215)](https://www.legislation.gov.uk/ssi/2015/215), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2015/215/regulation/1/3), [5](https://www.legislation.gov.uk/ssi/2015/215/regulation/5)
+
+[^c22358131]: Marginal citation: OJ L 270, 21.10.2003, p.1, as last amended by Council Regulation (EC) No 1009/2008 (O.J. L 276, 17.10.2008, p.1).
+
+[^c22358141]: Marginal citation: OJ L 141, 30.4.2004, p.1, as last amended by Commission Regulation (EC) No 370/2009 (O.J. L 114, 7.5.2009, p.3).
+
+[^key-6ab1aa87009ec2c52d09330fcc8ecfd3]: Textual amendment: Reg. 15A inserted (24.3.2016) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/104)](https://www.legislation.gov.uk/ssi/2016/104), [regs. 1](https://www.legislation.gov.uk/ssi/2016/104/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/104/regulation/3)
+
+[^key-15d1e6d8ccf23b5f4a0b46bb4e3cfff3]: Textual amendment: [Reg. 15A(2)(a)](https://www.legislation.gov.uk/ssi/2015/58/regulation/15A/2/a) omitted (1.1.2021) by virtue of [The Common Agricultural Policy (Simplifications and Improvements) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/349)](https://www.legislation.gov.uk/ssi/2020/349), [regs. 1](https://www.legislation.gov.uk/ssi/2020/349/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2020/349/regulation/5/2)
+
+[^key-425f63e5926bd9b1ab717007ec8fbc41]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/58/regulation/16) omitted (1.1.2021) by virtue of [The Common Agricultural Policy (Simplifications and Improvements) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/349)](https://www.legislation.gov.uk/ssi/2020/349), [regs. 1](https://www.legislation.gov.uk/ssi/2020/349/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2020/349/regulation/5/3)
+
+[^key-77fc459c4d28ee6b81293fb06e48260d]: Textual amendment: Words in reg. 17(1) inserted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [3(6)](https://www.legislation.gov.uk/ssi/2020/18/regulation/3/6)
+
+[^c22358151]: Marginal citation: The list of selected sites of special scientific interest is published at https://www.ruralpayments.org/publicsite/futures/.
+
+[^c22358161]: Marginal citation: [2004 asp 6](https://www.legislation.gov.uk/asp/2004/6), as relevantly amended by the [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [section 37(4)(a)](https://www.legislation.gov.uk/asp/2011/6/section/37/4/a).
+
+[^key-49614f63c7d7044b724781c1974fc88c]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/ssi/2015/58/regulation/17A) omitted (31.12.2025) by virtue of [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/2)
+
+[^key-9988dc081f5b69b04fbdfe7f7db407bc]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/1) inserted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2018/122/regulation/9/a)
+
+[^key-162281667757baf6d1df2554ef9c12c5]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/1): comma substituted for word (31.12.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(3)(a)(i)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/3/a/i)
+
+[^key-2f343d9c473fa00326dc5af675bc0ca9]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/1) inserted (31.12.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/3/a/ii)
+
+[^key-edd2ff290fdc38cae1e9ff89d2c3c18e]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/2) substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2018/122/regulation/9/b)
+
+[^key-736e4041d53227835e81fc6bd46b7bc2]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/3)[(3A)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/3A) substituted for [reg. 18(3)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/3) (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [9(c)](https://www.legislation.gov.uk/ssi/2018/122/regulation/9/c)
+
+[^key-41dc69af99d1b5878d33d1e2e1dca0e0]: Textual amendment: Words in [reg. 18(3)(b)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/3/b) substituted (31.12.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/3/b)
+
+[^c22358171]: Marginal citation: [S.S.I. 2014/325](https://www.legislation.gov.uk/ssi/2014/325).
+
+[^key-cd25176c40209f9568aed5aaba49e708]: Textual amendment: [Reg. 18(5)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/5) substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [9(d)](https://www.legislation.gov.uk/ssi/2018/122/regulation/9/d)
+
+[^key-5d6d50e909f1e0e4bcf1759d23ec7ae3]: Textual amendment: Words in [reg. 18(5)(a)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/5/a) omitted (31.12.2025) by virtue of [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/3/c)
+
+[^key-4b4c34b78fb22230dc2bb9590d84be01]: Textual amendment: Words in [reg. 18(5)(b)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/5/b) substituted (31.12.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(3)(d)(i)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/3/d/i)
+
+[^key-212d9824ae004090737cb55f6669b4b3]: Textual amendment: Words in [reg. 18(5)(b)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/5/b) omitted (31.12.2025) by virtue of [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/3/d/ii)
+
+[^key-3c986fb898763fbfe262487c5dace673]: Textual amendment: [Reg. 18(7)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/7)[(8)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/8) substituted for [reg. 18(7)](https://www.legislation.gov.uk/ssi/2015/58/regulation/18/7) (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [9(e)](https://www.legislation.gov.uk/ssi/2018/122/regulation/9/e)
+
+[^key-9a96fccaf6d294689a4ecc001a710806]: Textual amendment: Reg. 18A inserted (27.6.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/215)](https://www.legislation.gov.uk/ssi/2015/215), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2015/215/regulation/1/3), [7](https://www.legislation.gov.uk/ssi/2015/215/regulation/7)
+
+[^key-429719e1ade5ef68b5c07e8524fa46a1]: Textual amendment: [Reg. 19(5)](https://www.legislation.gov.uk/ssi/2015/58/regulation/19/5) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [6(6)](https://www.legislation.gov.uk/ssi/2019/60/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-9a0c7d20ee41d02d595bdda188b69ca9]: Textual amendment: Words in reg. 23(2)(b) substituted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/ssi/2020/18/regulation/3/8/a)
+
+[^key-2ebe3e8578dc7e32225f1a3eeb03c783]: Textual amendment: Words in [reg. 23(2)(b)](https://www.legislation.gov.uk/ssi/2015/58/regulation/23/2/b) substituted (1.1.2021) by [The Direct Payments to Farmers (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/460)](https://www.legislation.gov.uk/ssi/2020/460), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/460/regulation/1/2), [9(3)](https://www.legislation.gov.uk/ssi/2020/460/regulation/9/3)
+
+[^key-d36c74d8b213f01dad9c791195380e2d]: Textual amendment: Reg. 23(3) substituted (31.1.2020) by [The Direct Payments to Farmers (Legislative Continuity) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/18)](https://www.legislation.gov.uk/ssi/2020/18), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/18/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/ssi/2020/18/regulation/3/8/b)
+
+[^c22358181]: Marginal citation: [S.I. 2014/3260](https://www.legislation.gov.uk/uksi/2014/3260).
+
+[^c22358191]: Marginal citation: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11).
+
+[^key-e2d2fdc98b87a84db09967556f22e406]: Textual amendment: Reg. 26 revoked (12.6.2015) by [The Rural Payments (Appeals) (Scotland) Regulations 2015 (S.S.I. 2015/194)](https://www.legislation.gov.uk/ssi/2015/194), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/194/regulation/1/1), [11(1)(b)(iv)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/1/b/iv) (with [reg. 11(2)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/2)[(3)](https://www.legislation.gov.uk/ssi/2015/194/regulation/11/3))
+
+[^c22358211]: Marginal citation: [S.S.I. 2014/325](https://www.legislation.gov.uk/ssi/2014/325).
+
+[^c22358221]: Marginal citation: [S.S.I. 2011/416](https://www.legislation.gov.uk/ssi/2011/416).
+
+[^c22358231]: Marginal citation: S.S.I 2013/265.
+
+[^c22358241]: Marginal citation: S.S.I 2008/184, revoked in part by [S.S.I. 2011/416](https://www.legislation.gov.uk/ssi/2011/416).
+
+[^c22358251]: Marginal citation: S.S.I 2009/391, revoked in part by [S.S.I. 2011/416](https://www.legislation.gov.uk/ssi/2011/416).
+
+[^c22358261]: Marginal citation: [1959 c.54](https://www.legislation.gov.uk/ukpga/1959/54).
+
+[^key-a0af14a0d75c843695ca821c1b2a31f4]: Textual amendment: Words in sch. 1 Pt. 2 inserted (27.6.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/215)](https://www.legislation.gov.uk/ssi/2015/215), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2015/215/regulation/1/3), [8](https://www.legislation.gov.uk/ssi/2015/215/regulation/8)
+
+[^key-e1a2ee7b845b6379ae3804c0d74dd2d3]: Textual amendment: Word in sch. 1 para. 2(2)(h) omitted (15.5.2018) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [10(a)](https://www.legislation.gov.uk/ssi/2018/122/regulation/10/a)
+
+[^key-fd2f6f68706fb0b56c5bd8aca23c1492]: Textual amendment: sch. 1 para. 2(2)(ha) inserted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2018/122/regulation/10/b)
+
+[^c22358271]: Marginal citation: Scottish Natural Heritage was established under section 1 of the [Natural Heritage (Scotland) Act 1991 (1991 c.28)](https://www.legislation.gov.uk/ukpga/1991/28).
+
+[^c22358281]: Marginal citation: OJ L 277, 21.10.2005, p.1, as last amended by Regulation (EU) No 1312/2011 of the European Parliament and of the Council (OJ L 339, 21.12.2011, p.1). Regulation 1698/2005 was repealed subject to savings by Article 88 of Regulation (EU) No 1305/2013.
+
+[^c22358291]: Marginal citation: OJ L 347, 20.12.2013, p.487, as amended by Regulation (EU) No 1310/2013 (OJ L 347, 20.12.2013, p.865).
+
+[^key-e34821e3a9269e11d79025633d9e8498]: Textual amendment: sch. 2 pt. 1 substituted (24.3.2016) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/104)](https://www.legislation.gov.uk/ssi/2016/104), [regs. 1](https://www.legislation.gov.uk/ssi/2016/104/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2016/104/regulation/5/a)
+
+[^key-694bf7160e22f26805d43c7c5adec97a]: Textual amendment: Words in sch. 2 pt. 1 substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2018/122/regulation/11/a)
+
+[^key-99fba1bc1f7e1ab093f761e588ef43e7]: Textual amendment: Words in [sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2015/58/schedule/2/part/1) inserted (31.12.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/4/a)
+
+[^key-da25080dc380f3e062fb157318f303b4]: Textual amendment: Words in sch. 2 pt. 2 substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [11(b)](https://www.legislation.gov.uk/ssi/2018/122/regulation/11/b)
+
+[^key-7e461b239b51f11870ce20c145c3f5d8]: Textual amendment: Words in [sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2015/58/schedule/2/part/2) inserted (31.12.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/4/b)
+
+[^key-4bfe6c2af4779a92f8c5f11d118931ae]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2015/58/schedule/2/paragraph/1) omitted (31.12.2025) by virtue of [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(4)(c)(i)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/4/c/i)
+
+[^key-bd013ad594cea3e9882910b305117054]: Textual amendment: sch. 2 pt. 3 para. 2 substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [11(c)(i)](https://www.legislation.gov.uk/ssi/2018/122/regulation/11/c/i)
+
+[^key-ce4b183832e056a21b1f1bd6a68c77ea]: Textual amendment: Words in [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2015/58/schedule/2/paragraph/2) substituted (31.12.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/4/c/ii)
+
+[^key-dbd6712a72095271ca80e8ea7d77204f]: Textual amendment: sch. 2 pt. 3 paras. 3, 4 inserted (24.3.2016) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/104)](https://www.legislation.gov.uk/ssi/2016/104), [regs. 1](https://www.legislation.gov.uk/ssi/2016/104/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/ssi/2016/104/regulation/5/b/ii)
+
+[^key-ad8161f50083a583871c192f0fc8548b]: Textual amendment: sch. 2 para. 3(3)-(5) substituted for sch. 2 para. 3(3) (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [11(c)(ii)](https://www.legislation.gov.uk/ssi/2018/122/regulation/11/c/ii)
+
+[^key-f9ce2723196931c7dc0f9716926e5e7e]: Textual amendment: [Schs. 3](https://www.legislation.gov.uk/ssi/2015/58/schedule/3), [4](https://www.legislation.gov.uk/ssi/2015/58/schedule/4) inserted (27.6.2015) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/215)](https://www.legislation.gov.uk/ssi/2015/215), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2015/215/regulation/1/3), [sch.](https://www.legislation.gov.uk/ssi/2015/215/schedule)
+
+[^key-573f8c0c851f92ba9a6221e4795b5093]: Textual amendment: Words in [sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2015/58/schedule/3/paragraph/1) inserted (1.1.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/380)](https://www.legislation.gov.uk/ssi/2024/380), [regs. 1](https://www.legislation.gov.uk/ssi/2024/380/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2024/380/regulation/3/2)
+
+[^key-c43ecf3896c34ced8719a682258591c3]: Textual amendment: Words in [sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2015/58/schedule/3/paragraph/1) inserted (31.12.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/5/a)
+
+[^key-2bdb8f45378f5576391f27a532caf6aa]: Textual amendment: Words in [sch. 3 para. 2(1)](https://www.legislation.gov.uk/ssi/2015/58/schedule/3/paragraph/2/1) omitted (31.12.2025) by virtue of [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(5)(b)(i)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/5/b/i)
+
+[^key-bbe088a00fd68d27b1169825dfa1ace3]: Textual amendment: Words in [sch. 3 para. 2(1)](https://www.legislation.gov.uk/ssi/2015/58/schedule/3/paragraph/2/1) inserted (31.12.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/5/b/ii)
+
+[^key-5235524c412c3d8477c4f697e2a21638]: Textual amendment: Words in [sch. 3 para. 2(2)](https://www.legislation.gov.uk/ssi/2015/58/schedule/3/paragraph/2/2) substituted (31.12.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/5/c)
+
+[^key-f783b2fe18e16cc0181fbdea213f567f]: Textual amendment: Word in sch. 3 para. 3(b) omitted (15.3.2017) by virtue of [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/98)](https://www.legislation.gov.uk/ssi/2017/98), [regs. 1](https://www.legislation.gov.uk/ssi/2017/98/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2017/98/regulation/4/a)
+
+[^key-bec061fa96314f6c82cceaa6669b06fe]: Textual amendment: [Sch. 3 para. 3(ba)](https://www.legislation.gov.uk/ssi/2015/58/schedule/3/paragraph/3/ba) inserted (1.1.2025) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/380)](https://www.legislation.gov.uk/ssi/2024/380), [regs. 1](https://www.legislation.gov.uk/ssi/2024/380/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2024/380/regulation/3/3)
+
+[^key-123a6fa7a89721c1163bda06ab973b76]: Textual amendment: Sch. 3 para. 3(c)(d) substituted for sch. 3 para. 3(c) (15.3.2017) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/98)](https://www.legislation.gov.uk/ssi/2017/98), [regs. 1](https://www.legislation.gov.uk/ssi/2017/98/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2017/98/regulation/4/b)
+
+[^key-98eac1f951437082f37f2882641b504b]: Textual amendment: [Sch. 3 para. 3A](https://www.legislation.gov.uk/ssi/2015/58/schedule/3/paragraph/3A) inserted (1.1.2026) by [The Rural Support (Improvement) (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/397)](https://www.legislation.gov.uk/ssi/2025/397), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/397/regulation/1/2), [3(5)(d)](https://www.legislation.gov.uk/ssi/2025/397/regulation/3/5/d)
+
+[^key-b4562a3f803f0b674cc93163099ebd8a]: Textual amendment: Words in sch. 3 para. 6(1) substituted (9.10.2017) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/317)](https://www.legislation.gov.uk/ssi/2017/317), [regs. 1](https://www.legislation.gov.uk/ssi/2017/317/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2017/317/regulation/2/a)
+
+[^key-f534a63ed1fe9636312ab4d4c6e69e9a]: Textual amendment: Words in sch. 3 para. 6(1) substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [12(a)(i)](https://www.legislation.gov.uk/ssi/2018/122/regulation/12/a/i)
+
+[^key-796f357b5e9efebbcfb6849a2b0e020f]: Textual amendment: sch. 3 para. 6(1A) inserted (9.10.2017) by [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/317)](https://www.legislation.gov.uk/ssi/2017/317), [regs. 1](https://www.legislation.gov.uk/ssi/2017/317/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2017/317/regulation/2/b)
+
+[^key-87774c4d076980a6c7a3bcb484119d44]: Textual amendment: sch. 3 para. 6(1B) inserted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [12(a)(ii)](https://www.legislation.gov.uk/ssi/2018/122/regulation/12/a/ii)
+
+[^key-9edfb0dc28aba06058fb0fde67bf461d]: Textual amendment: Words in [sch. 3 para. 7(b)](https://www.legislation.gov.uk/ssi/2015/58/schedule/3/paragraph/7/b) substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [12(b)(i)](https://www.legislation.gov.uk/ssi/2018/122/regulation/12/b/i)
+
+[^key-1d0e3a8679fe1d2c6e98c97057e62b4b]: Textual amendment: Words in [sch. 3 para. 7(c)](https://www.legislation.gov.uk/ssi/2015/58/schedule/3/paragraph/7/c) substituted (15.5.2018) by [The Common Agricultural Policy (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/122)](https://www.legislation.gov.uk/ssi/2018/122), [regs. 1](https://www.legislation.gov.uk/ssi/2018/122/regulation/1), [12(b)(ii)](https://www.legislation.gov.uk/ssi/2018/122/regulation/12/b/ii)
+
+[^key-d8e129c28c4d538a01d9f4c8258345d7]: Textual amendment: Words in sch. 4 omitted (15.3.2017) by virtue of [The Common Agricultural Policy (Direct Payments etc.) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/98)](https://www.legislation.gov.uk/ssi/2017/98), [regs. 1](https://www.legislation.gov.uk/ssi/2017/98/regulation/1), [5](https://www.legislation.gov.uk/ssi/2017/98/regulation/5)

@@ -1,0 +1,273 @@
+---
+title: The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Order 2012
+id: ssi/2012/174
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-05-30'
+text_date: '2019-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2012/174
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2012/174/pdfs/ssien_20120174_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/174/pdfs/ssi_20120174_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/174/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Order 2012
+
+> Text as at 2019-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2012 No. 174
+
+Wildlife
+
+The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Order 2012
+
+Made
+
+30th May 2012
+
+Laid before the Scottish Parliament
+
+31st May 2012
+
+Coming into force
+
+2nd July 2012
+
+The Scottish Ministers make the following Order in exercise of the powers conferred on them by section 14(1)(a)(ii), (2D)(a) and (e), 14ZC(1)(a) and (2)(a), and 14B(1)(a), (2)(a), (b), (d) and (f) and (4)(a) of the Wildlife and Countryside Act 1981[^f00001] and section 42(1) of the Wildlife and Natural Environment (Scotland) Act 2011[^f00002], and all other powers enabling them to do so.
+
+In accordance with section 26(4A) of the Wildlife and Countryside Act 1981[^f00003], they have consulted Scottish Natural Heritage and any other person appearing to them to have an interest in the making of the Order.
+
+## 1. Citation, commencement and interpretation[^key-10d93e32270212f1839dbccd4e894dae]
+
+(1) This Order may be cited as the Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Order 2012, and comes into force on 2nd July 2012.
+
+(2) In this Order, “the 1981 Act” means the Wildlife and Countryside Act 1981.
+
+## 2. Prohibition on releasing certain animals[^key-897db0b86443ca621fb2f865b55c4afc]
+
+The types of animals listed in column (1) (whose Scientific[^key-901c01ccda15d9c0100d50620ee15b04] name is listed in column (2)) of the table in Part 1 of Schedule 1 are specified for the purposes of section 14(1)(a)(ii) of the 1981 Act, to the extent mentioned in column (3) of that table.
+
+## 3. Prohibition on keeping invasive animals[^key-535adf646282ff4e63b6963f31ee4b14]
+
+The types of invasive animals listed column (1) (whose Scientific[^key-58736633822bbfc36fab2878c51ba507] name is listed in column (2)) of the table in Part 2 of Schedule 1 are specified for the purposes of section 14ZC(1)(a) of the 1981 Act.
+
+## 3A. Prohibition on keeping invasive plants[^key-93214e5ba7d902d7e709193cd8936b19]
+
+The types of invasive plants listed in column (1) (whose Scientific name is listed in column (2)) of the table in Part 2A of Schedule 1 are specified for the purposes of section 14ZC(1)(b) of the 1981 Act.
+
+## 4. Notification requirements in relation to the presence of invasive animals[^key-c98ea407ad602d1d1da90bcd9f765fa2]
+
+Where an occupier of land is, or becomes, aware of the presence of an invasive animal of a type listed in Part 3 of Schedule 1, that person must notify Scottish Natural Heritage without delay.
+
+## 5. Revocation[^key-0a806dc541ac045875cf218c05ad435e]
+
+Subject to article 3 (savings) of the Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 4, Saving and Transitional Provisions) Order 2012[^f00004], the enactments listed in Schedule 2 are revoked.
+
+STEWART STEVENSON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+30th May 2012
+
+## SCHEDULE 1
+
+Articles 2, 3 and 4
+
+### PART 1 — Types of animals specified for the purposes of section 14(1)(a)(ii) of the 1981 Act (types of animal which it is an offence for a person to release or allow to escape from captivity)[^key-2d1d2630ec342e251823ae15828ae462]
+
+| *Common name*<br>*Column (1)* | *Scientific name*<br>*Column (2)* | *Extent*<br>*Column (3)* |
+| --- | --- | --- |
+| Deer | All species of the genus *Cervus* | Outer Hebrides and the islands of Arran (including Holy Island), Islay, Jura and Rum |
+
+### PART 2 — Types of invasive animals specified for the purposes of section 14ZC(1)(a) of the 1981 Act (types of animal which it is an offence for a person to keep, have in their possession or have under their control)
+
+| *Common name*<br>*Column (1)* | *Scientific name*<br>*Column (2)* |
+| --- | --- |
+| American bullfrog[^key-5d6eaf996233dff42705a0625c2309b1] | Lithobates catesbeianus |
+| Asian hornet | Vespa velutina nigrithorax |
+| Asp | *Aspius aspius* |
+| Barbel | species of the genus *Barbus* (excluding *Barbus barbus*) |
+| Bass (excluding sea bass, *Dicentrarchus labrax)* | *Micropterus salmoides; Micropterus dolomieu; Ambloplites rupestris*; and species of the genus *Morone* |
+| Bighead carp | *Hypophthalmichthys nobilis* |
+| Bitterling | *Rhodeus sericeus/Rhodeus amarus* |
+| Blacknose dace | *Rhinichthys atratulus* |
+| Blageon | *Telestes souffia* |
+| Blue bream | *Ballerus ballerus* |
+| Blue sucker | *Cycleptus elongatus* |
+| Burbot | *Lota lota* |
+| Catfish | species of the genera *Ictalurus*, *Ameiurus* and *Silurus* |
+| Charr | species of the genus *Salvelinus* (excluding *Salvelinus alpinus*) |
+| Chinese black or snail-eating carp | *Mylopharyngodon piceus* |
+| Chinese mitten crab | Eriocheir sinensis |
+| Chinese sucker (also known as Zebra hi fin, banded shark/sucker) | *Myxocyprinus asiaticus* |
+| Common white sucker | *Catostomus commersonii* |
+| Coypu | *Myocastor coypus* |
+| Crayfish | freshwater decapod crustacean of the Families *Astacidae*, *Cambaridae* or *Parastacidae*, (excluding *Austropotamobius pallipes*) |
+| Danubian bleak | *Alburnus chalcoides* |
+| Danubian salmon & Taimen | species of the genus *Hucho* |
+| Eastern mudminnow | *Umbra pygmaea* |
+| Egyptian goose | Alopochen aegyptiacus |
+| European mudminnow | *Umbra krameri* |
+| Fathead minnow (or Roseyreds) | *Pimephales promelas* |
+| Fox squirrel | Sciurus niger |
+| Freshwater minnow, Dragon fish or Pale chub | *Zacco platypus* |
+| Grass carp | *Ctenopharyngodon idella* |
+| Grey squirrel | *Sciurus carolinensis* |
+| Indian house crow | Corvus splendens |
+| Landlocked salmon | non anadromous varieties of the species *Salmo salar* |
+| Marbled trout | *Salmo marmoratus* |
+| Mink | *Mustela vison* |
+| Muntjac | *Species of genus Muntiacus* |
+| Muskrat | *Ondatra zibethica* |
+| Nase | *Chondrostoma nasus* |
+| Northern redbelly dace | *Chrosomus eos* |
+| Pacific salmon and trout | species of the genus *Oncorhynchus* (excluding *Oncorhynchus mykiss* |
+| Paddlefish | species of the genera *Polyodon* and *Psephurus* |
+| Pallas’ squirrel | Callosciurus erythraeus |
+| Perch | species of the genus *Perca* (excluding *Perca fluviatilis*) |
+| Pike | species of the genus *Esox* (excluding *Esox lucius*) |
+| Pikeperch | *Sanderlucioperca* |
+| Rabbit (excluding European rabbit) | species of the genera *Bunolagus, Brachylagus, Nesolagus, Pentalagus, Poelagus, Romerolagus* and *Sylvilagus* |
+| Raccoon | Procyon lotor |
+| Raccoon dog | Nyctereutes procyonoides |
+| Red shiner | *Cyprinella lutrensis* |
+| Ruddy duck | Oxyura jamaicensis |
+| Ruffe | *Gymnocephalus cernua* |
+| Sacred ibis | Threskiornis aethiopicus |
+| Schneider | *Alburnoides bipunctatus* |
+| Siberian chipmunk | Tamias sibiricus |
+| Silver carp | *Hypophthalmichthys molitrix* |
+| Snakehead | species of the genus *Channa* |
+| Southern redbelly dace | *Chrosomus erythrogaster* |
+| Sturgeon or sterlet | species of the genera *Acipenser*, *Huso*, *Pseudoscaphirhynchus* and *Scaphirhynchus* |
+| Sunbleak (Sundace), also known as Belica or Motherless minnow | *Leucaspius delineatus* |
+| Sunfish, including pumpkinseed (also Basses, Crappies & Bluegills) | species of the genus *Lepomis* |
+| Topmouth gudgeon | *Pseudorasbora parva* |
+| Toxostome (or French nase) | *Parachondrostoma toxostoma* |
+| Vimba | *Vimba vimba* |
+| Weatherfish | *Misgurnus fossilis* |
+| Whitefish | species of the genus *Coregonus* (excluding *Coregonus lavaretus* and *Coregonus albula)* |
+
+### PART 2A — Types of invasive plants specified for the purposes of section 14ZC(1)(b) of the 1981 Act (types of plant which it is an offence for a person to keep, have in their possession or have under their control)[^key-35fe6aa63388c70e04e9f62b60b1a645]
+
+<table>
+<thead>
+<tr><th>Common name</th><th>Scientific name</th></tr>
+<tr><th>Column (1)</th><th>Column (2)</th></tr>
+</thead>
+<tbody>
+<tr><td>American skunk-cabbage</td><td><em>Lysichiton americanus</em></td></tr>
+<tr><td>Curly waterweed</td><td><em>Lagarosiphon major</em></td></tr>
+<tr><td>Floating pennywort</td><td><em>Hydrocotyle ranunculoides</em></td></tr>
+<tr><td>Floating primrose-willow</td><td><em>Ludwigia peploides</em></td></tr>
+<tr><td>Giant hogweed</td><td><em>Heracleum mantegazzianum</em></td></tr>
+<tr><td>Giant-rhubarb</td><td><em>Gunnera tinctoria</em></td></tr>
+<tr><td>Indian balsam</td><td><em>Impatiens glandulifera</em></td></tr>
+<tr><td>Japanese stiltgrass</td><td><em>Microstegium vimineum</em></td></tr>
+<tr><td>Nuttall’s waterweed</td><td><em>Elodea nuttallii</em></td></tr>
+<tr><td>Parrot’s feather</td><td><em>Myriophyllum aquaticum</em></td></tr>
+<tr><td>Persian hogweed</td><td><em>Heracleum persicum</em></td></tr>
+<tr><td>Sosnowsky’s hogweed</td><td><em>Heracleum sosnowskyi</em></td></tr>
+<tr><td>Various-leaved water-milfoil</td><td><em>Myriophyllum heterophyllum</em></td></tr>
+<tr><td>Water primrose</td><td><em>Ludwigia grandiflora</em></td></tr>
+</tbody>
+</table>
+
+### PART 3 — Types of invasive animals which require notification under article 4 of this Order[^key-ca7732c793f79315bc6c2928c87acd56]
+
+| *Common name*<br>*Column (1)* | *Scientific name*<br>*Column (2)* |
+| --- | --- |
+| Coypu | *Myocastor coypus* |
+| Muntjac | Species of genus *Muntiacus* |
+| Muskrat | *Ondatra zibethica* |
+| Rabbit (excluding European rabbit) | Species of the genara *Bunolagus, Brachylagus, Nesolagus, Pentalagus, Poelagus, Romerolagus* and *Sylvilagus* |
+
+NOTE: The common name or names given in Column (1) of the tables in Parts 1, 2 and 3 of this Schedule are included by way of guidance only; in the event of any dispute or proceedings, the common name or names shall not be taken into account.
+
+## SCHEDULE 2 — REVOCATIONS[^key-736cd542bdcd17e12d3c538a21085991]
+
+Article 5
+
+| *Regulations revoked* | *Reference* |
+| --- | --- |
+| The Musk Rats (Prohibition of Importation and Keeping) Order 1933 | [S.I. 1933/106](https://www.legislation.gov.uk/uksi/1933/106) |
+| The Grey Squirrels (Prohibition of Importation and Keeping) Order 1937 | [S.I. 1937/478](https://www.legislation.gov.uk/uksi/1937/478) |
+| The Non-Indigenous Rabbits (Prohibition of Importation and Keeping) Order 1954 | [S.I. 1954/927](https://www.legislation.gov.uk/uksi/1954/927) |
+| The Mink (Keeping) Regulations 1975 | [S.I. 1975/2223](https://www.legislation.gov.uk/uksi/1975/2223) |
+| The Mink (Keeping) (Amendment) Regulations 1977 | [S.I. 1977/2122](https://www.legislation.gov.uk/uksi/1977/2122) |
+| The Mink (Keeping) (Amendment) Regulations 1979 | [S.I. 1979/1669](https://www.legislation.gov.uk/uksi/1979/1669) |
+| The Mink (Keeping) (Amendment) Regulations 1982 | [S.I. 1982/1883](https://www.legislation.gov.uk/uksi/1982/1883) |
+| The Coypus (Prohibition on Keeping) Order 1987 | [S.I. 1987/2195](https://www.legislation.gov.uk/uksi/1987/2195) |
+| The Mink (Keeping) (Amendment) Regulations 1987 | [S.I. 1987/2225](https://www.legislation.gov.uk/uksi/1987/2225) |
+| The Coypus (Special Licence) (Fees) Regulations 1997 | [S.I. 1997/2751](https://www.legislation.gov.uk/uksi/1997/2751) |
+| The Mink (Keeping) (Amendment) Regulations 1997 | [S.I. 1997/2750](https://www.legislation.gov.uk/uksi/1997/2750) |
+| The Mink Keeping (Scotland) Order 2000 | [S.S.I. 2000/400](https://www.legislation.gov.uk/ssi/2000/400) |
+| The Mink Keeping (Scotland) Order 2003 | [S.S.I. 2003/528](https://www.legislation.gov.uk/ssi/2003/528) |
+| The Prohibition of Keeping or Release of Live Fish (Specified Species) (Scotland) Order 2003 | [S.S.I. 2003/560](https://www.legislation.gov.uk/ssi/2003/560) |
+| The Muntjac Keeping (Scotland) Regulations 2011 | [S.S.I. 2011/63](https://www.legislation.gov.uk/ssi/2011/63) |
+| The Muntjac Keeping (Scotland) Order 2011 | [S.S.I. 2011/172](https://www.legislation.gov.uk/ssi/2011/172) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision about the release of certain animals, the keeping of invasive animals and notification requirements in relation to the presence of invasive animals under the Wildlife and Countryside Act 1981 (“the 1981 Act”) as amended by the Wildlife and Natural Environment (Scotland) Act 2011.
+
+Section 14(1)(a)(ii) of the 1981 Act makes it an offence for any person to release, or allow to escape from captivity, any animal of a type specified by the Scottish Ministers by Order. Article 2 and Part 1 of Schedule 1 specifies the types of animals which it is an offence for a person to release or allow to escape from captivity and the extent to which the prohibition applies.
+
+Section 14ZC(1)(a) of the 1981 Act makes it an offence for any person to keep, have in the person’s possession, or have under the person’s control any invasive animal of a type which the Scottish Ministers specify by Order. Article 3 and Part 2 of Schedule 1 specifies the types of invasive animals which it is an offence for a person to keep, have in their possession or have under their control.
+
+Section 14B(1)(a) enables the Scottish Ministers to make provision about the notification of the presence of invasive animals at any specified place outwith their native range where persons are, or become, aware of the presence of such animals or plants. Article 4 and Part 3 of Schedule 1 make provision about notification and that such notification requires be made to Scottish Natural Heritage without delay.
+
+Article 5 and Schedule 2 revoke the enactments governing the keeping and release of certain animals which this Order replaces, subject to article 3 of the Wildlife and Natural Environment Act 2011 (Commencement No. 4, Saving and Transitional Provisions) Order 2012 ([S.S.I. 2012/175 (C. 16)](https://www.legislation.gov.uk/ssi/2012/175)).
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69). Sections 14(1) and (2D) and section 14B(1), (2) and (4) were substituted by the [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6) (“the 2011 Act), section 14(2) and (5) respectively; and section 14ZC was inserted by the 2011 Act, section 14(3).
+
+[^f00002]: Footnote: [2011 asp 6](https://www.legislation.gov.uk/asp/2011/6).
+
+[^f00003]: Footnote: Section 26(4A) was inserted by section 17(6) of the 2011 Act.
+
+[^key-10d93e32270212f1839dbccd4e894dae]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2012/174/article/1) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+
+[^key-897db0b86443ca621fb2f865b55c4afc]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2012/174/article/2) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+
+[^key-901c01ccda15d9c0100d50620ee15b04]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2012/174/article/2) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2012 (S.S.I. 2012/206)](https://www.legislation.gov.uk/ssi/2012/206), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/206/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/206/article/2/2)
+
+[^key-535adf646282ff4e63b6963f31ee4b14]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2012/174/article/3) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+
+[^key-58736633822bbfc36fab2878c51ba507]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/ssi/2012/174/article/3) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2012 (S.S.I. 2012/206)](https://www.legislation.gov.uk/ssi/2012/206), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/206/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/206/article/2/2)
+
+[^key-93214e5ba7d902d7e709193cd8936b19]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/ssi/2012/174/article/3A) inserted (1.4.2019) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2019 (S.S.I. 2019/37)](https://www.legislation.gov.uk/ssi/2019/37), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/37/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/37/article/2/2)
+
+[^key-c98ea407ad602d1d1da90bcd9f765fa2]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2012/174/article/4) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+
+[^key-0a806dc541ac045875cf218c05ad435e]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2012/174/article/5) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+
+[^f00004]: Footnote: [S.S.I. 2012/175 (C. 16)](https://www.legislation.gov.uk/ssi/2012/175).
+
+[^key-2d1d2630ec342e251823ae15828ae462]: Textual amendment: [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/1), [2](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/2) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2012 (S.S.I. 2012/206)](https://www.legislation.gov.uk/ssi/2012/206), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/206/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/206/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2012/206/schedule)
+
+[^key-5d6eaf996233dff42705a0625c2309b1]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/2) inserted (1.4.2019) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2019 (S.S.I. 2019/37)](https://www.legislation.gov.uk/ssi/2019/37), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/37/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/37/article/2/3)
+
+[^key-35fe6aa63388c70e04e9f62b60b1a645]: Textual amendment: [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/2A) inserted (1.4.2019) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2019 (S.S.I. 2019/37)](https://www.legislation.gov.uk/ssi/2019/37), [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/37/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2019/37/schedule)
+
+[^key-ca7732c793f79315bc6c2928c87acd56]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/3) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+
+[^key-736cd542bdcd17e12d3c538a21085991]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/174/schedule/2) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)

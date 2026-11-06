@@ -1,0 +1,349 @@
+---
+title: The Rural Stewardship Scheme (Scotland) Amendment Regulations 2005
+id: ssi/2005/620
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-12-01'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2005/620
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2005/620/pdfs/ssien_20050620_en.pdf
+- http://www.legislation.gov.uk/ssi/2005/620/pdfs/ssi_20050620_en.pdf
+- http://www.legislation.gov.uk/ssi/2005/620/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Rural Stewardship Scheme (Scotland) Amendment Regulations 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 620
+
+AGRICULTURE
+
+The Rural Stewardship Scheme (Scotland) Amendment Regulations 2005
+
+Made
+
+1st December 2005
+
+Laid before the Scottish Parliament
+
+1st December 2005
+
+Coming into force
+
+23rd December 2005
+
+The Scottish Ministers, in exercise of the powers conferred by section 98(1) and (2) of the Environment Act 1995[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+Citation, commencement and interpretation
+
+**1.** (1) These Regulations may be cited as the Rural Stewardship Scheme (Scotland) Amendment Regulations 2005 and shall come into force on 23rd December 2005.
+
+(2) In these Regulations, “the principal Regulations” means the Rural Stewardship Scheme (Scotland) Regulations 2001[^f00002].
+
+## 2. Amendment of the Rural Stewardship Scheme (Scotland) Regulations 2001
+
+The principal Regulations are amended in accordance with regulations 3 to 10.
+
+## 3. Amendment of regulation 2 (interpretation)
+
+In regulation 2 (interpretation) in paragraph (1)–
+
+- (a) after the definition of “1991 Act” insert–
+
+  > - “1993 Act” means the Crofters (Scotland) Act 1993[^f00003];
+  > - “2003 Act” means the Agricultural Holdings (Scotland) Act 2003[^f00004];
+
+  ;
+- (b) for the definition of “Commission Regulation” substitute–
+
+  > - “Commission Regulation” means Commission Regulation [(EC) No. 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817)[^f00005] laying down detailed rules for the application of the Council Regulation;
+
+  ;
+- (c) after the definition of “eligible land” insert–
+
+  > - “entrant from an Environmentally Sensitive Areas scheme” means an applicant who takes on an undertaking and who, prior to taking on that undertaking, had previously entered into an agreement under section 18(3) of the Agriculture Act 1986[^f00006] as regards land in an area designated by:
+  >   - (i) the Environmentally Sensitive Areas (Loch Lomond) Designation Order 1992[^f00007];
+  >   - (ii) the Environmentally Sensitive Areas (Breadalbane) Designation Order 1992[^f00008];
+  >   - (iii) the Environmentally Sensitive Areas (Central Southern Uplands) Designation Order 1993[^f00009];
+  >   - (iv) the Environmentally Sensitive Areas (Western Southern Uplands) Designation Order 1993[^f00010];
+  >   - (v) the Environmentally Sensitive Areas (Cairngorms Straths) Designation Order 1993[^f00011];
+  >   - (vi) the Environmentally Sensitive Areas (Stewartry) Designation Order 1993[^f00012];
+  >   - (vii) the Environmentally Sensitive Areas (Central Borders) Designation Order 1993[^f00013];
+  >   - (viii) the Environmentally Sensitive Areas (Argyll Islands) Designation Order 1993[^f00014];
+  >   - (ix) the Environmentally Sensitive Areas (Machair of the Uists and Benbecula, Barra and Vatersay) Designation Order 1993[^f00015]; or
+  >   - (x) the Environmentally Sensitive Areas (Shetland Islands) Designation Order 1993[^f00016];
+  > - “entrant from the Habitats scheme” means an applicant who takes on an undertaking and who, prior to taking on that undertaking, had previously taken on an undertaking under the Habitats (Scotland) Regulations 1994[^f00017];
+  > - “entrant with a successful challenge” means an applicant who took on an undertaking which came into effect before 1st January 2003 and who has had a request under Article 40(5) (hardship cases) of Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) establishing common rules for direct support schemes under the common agricultural policy and establishing certain support schemes for farmers[^f00018] successfully upheld;
+
+  .
+- (d) for the definition of “landlord” substitute–
+
+  > - “landlord” means–
+  >   - (a) in the case of an agricultural lease constituting a 1991 Act tenancy within the meaning of the 2003 Act, the landlord within the meaning of section 85 of the 1991 Act;
+  >   - (b) in the case of a lease constituting a limited duration tenancy or short limited duration tenancy under the 2003 Act, the landlord within the meaning of section 93 of that Act;
+  >   - (c) in the case of a croft within the meaning of the 1993 Act, the landlord within the meaning of section 61(1) of that Act;
+  >   - (d) in the case of a holding within the meaning of the 1911 Act to which the 1991 Act does not apply, the same as it means in the 1911 Act,
+  >
+  >   and, where appropriate, includes a head tenant;
+
+  ;
+- (e) after the definition of “moorland” insert–
+
+  > - “pre 2003 entrant” means an applicant who took on an undertaking which came into effect before 1st January 2003 but excluding entrants from an Environmentally Sensitive Areas scheme, entrants from the Habitats scheme or entrants with a successful challenge;
+  > - “post 2003 entrant” means an applicant who took on an undertaking which came into effect on or following 1st January 2003, or who takes on an undertaking from the date of the Rural Stewardship Scheme (Scotland) Amendment Regulations 2005[^f00019], but excluding entrants from an Environmentally Sensitive Areas scheme, entrants from the Habitats scheme or entrants with a successful challenge;
+
+  ; and
+- (f) for the definition of “tenant” substitute–
+
+  > - “tenant” means–
+  >   - (a) in the case of an agricultural lease constituting a 1991 Act tenancy within the meaning of the 2003 Act, the tenant within the meaning of section 85 of the 1991 Act;
+  >   - (b) in the case of a lease constituting a limited duration tenancy or short limited duration tenancy under the 2003 Act, the tenant within the meaning of section 93 of that Act;
+  >   - (c) in the case of a croft within the meaning of the 1993 Act, the crofter within the meaning of section 3(3) of that Act;
+  >   - (d) in the case of a holding within the meaning of the 1911 Act to which the 1991 Act does not apply, the landholder within the meaning of section 2(2) of the 1911 Act,
+  >
+  >   and, where appropriate, includes a sub-tenant;
+
+  .
+
+## 4. Amendment of regulation 3 (payments of aid to enhance the environment)
+
+For regulation 3(1)(a) (payments of aid to enhance the environment) substitute–
+
+> - (a) is the owner or tenant of the eligible land to which such an undertaking relates and is in lawful actual occupation of that land or, in the case of an owner, has, jointly with the tenant, given an undertaking referred to in paragraph (2); and
+
+.
+
+## 5. Amendment of regulation 8 (rates of payment)
+
+For regulation 8(1) (rates of payment) substitute–
+
+> (1) The amount of aid payable under regulation 3(1) shall, subject to the provisions of this regulation, be calculated with reference to the activity undertaken, and the rate of payment in respect of each activity described in column 1 of Schedule 4 shall be the rate shown opposite the entry for that activity–
+>
+> - (a) in column 2 of Schedule 4, for–
+>   - (i) pre 2003 entrants;
+>   - (ii) entrants from an Environmentally Sensitive Areas scheme; or
+>   - (iii) entrants from the Habitats scheme; and
+> - (b) in column 3 of Schedule 4, for–
+>   - (i) post 2003 entrants; or
+>   - (ii) entrants with a successful challenge;
+
+.
+
+## 6. Amendment of regulation 10 (change of occupation of land)
+
+For regulation 10(3) (change of occupation of land) substitute–
+
+> (3) A new occupier of all or any part of the land who wishes to take on an undertaking or a landlord who has undertaken, jointly with the tenant, to assume any undertaking, and who becomes the new occupier, shall furnish the Scottish Ministers with such information in such form and within such period following the change of occupation as the Scottish Ministers may determine.
+
+.
+
+## 7. Amendment of Schedule 2 (management activities)
+
+In Schedule 2 (management activities)–
+
+- (a) in item 7 d for “twice” substitute “three times”;
+- (b) in item 7 e for “twice yearly treatments” substitute “three treatments a year”;
+- (c) in item 8 in column 2 (site requirements) for “Eligible arable land and improved grassland not eligible for Arable Aid Area payments” substitute “Arable land and improved grassland”;
+- (d) in item 8 c after “possible” insert “and must be seed of at least UK stock”;
+- (e) in item 13 in column 2 (site requirements) for “Eligible arable” substitute “Arable”;
+- (f) in item 13 b after “for” insert “at least”;
+- (g) in item 14 a in column 3 (management requirements) after “Ministers;” insert “or where the particular conservation interest of the site would not be met by the above approach, a livestock management and grazing regime should be set out in a grazing plan to be agreed with the Scottish Ministers”;
+- (h) in item 14 b in column 2 (site requirements) omit “a minimum overall width of 6 metres”;
+- (i) in item 14 c in column 2 (site requirements) omit “on any one side”;
+- (j) in item 14 f omit “and” where it occurs the second time;
+- (k) after item 14 g insert–
+
+  > ; and
+  >
+  > - (h) where an alternative management regime is proposed, evidence to support its adoption must accompany the application, for example a letter of support from, or a reference to advisory material produced by, a recognised conservation organisation.
+
+  ;
+- (l) in item 17 in column 2 (site requirements) for “environmental” substitute “conservation” and for “an overgrazing problem identified under the livestock subsidy schemes” substitute “any identified overgrazing problem”;
+- (m) in item 19 d for “twice” substitute “three times”;
+- (n) in item 19 e for “twice yearly treatments” substitute “three treatments a year”;
+- (o) in item 20 e after “Grazing” insert “or topping”;
+- (p) in item 28 omit item 28 b, c, d, and e and insert–
+
+  > |  |  |
+  > | --- | --- |
+  > | b. | Where the particular conservation interest of the site would not be met by either of the above approaches, a livestock management and grazing regime should be set out in a grazing plan to be agreed with the Scottish Ministers; |
+  > | c. | Standing dead timber must not be felled and dead timber must be left in the woodland; |
+  > | d. | Individual young trees must be provided with tree shelters where necessary; |
+  > | e. | Rhododendron growth must be controlled; |
+  > | f. | Non native tree species must be removed where these are detrimental to the character of the woodland and it is practical to do so. Any regrowth from the stumps must be suitably controlled in future years; and |
+  > | g. | Where an alternative management regime is proposed, evidence to support its adoption must accompany the application, for example a letter of support from, or a reference to advisory material produced by, a recognised conservation organisation. |
+
+  ;
+- (q) in item 33 in column 2 (site requirements) for “the Arable Area Payments Regulations 1996[^f00020] eligible” substitute “cereal, linseed, oilseed or protein”; and
+- (r) after item 34[^f00021] insert–
+
+  > |  |  |  |
+  > | --- | --- | --- |
+  > | **35.** Creation and management of early and late cover for corncrakes. | Improved grassland or arable land on which damp conditions are created for the establishment of iris beds and other tall vegetation.<br>Where iris is not available locally, other appropriate tall vegetation may be utilised, but only with the prior written agreement of the Scottish Ministers. Such sites must be adjacent to mown grassland managed for corncrakes under this scheme. The total area of early and late cover, which may be a combination of existing and created cover, must extend to at least 0.10 hectare, sited on one or more blocks of land adjacent to the mown grassland. The total area created and managed under this option must not exceed 1 hectare. | - a. The site must be managed to ensure that it is normally in damp condition for a significant proportion of the year;<br>- b. Only with the prior written agreement of the legal occupier, dig up and collect iris from existing beds. Mix the iris rhizomes with farmyard manure in at least equal proportions by volume and spread the mixture over the site to a depth of at least 20 centimetres;<br>- c. No grazing is permitted between 28th February and 30th September, except with the prior written agreement of the Scottish Ministers;<br>- d. At other times, grazing must not exceed 0.3 livestock units per hectare, except with the prior written agreement of the Scottish Ministers; and<br>- e. Cutting of the area may only be undertaken with the prior written agreement of the Scottish Ministers. |
+
+  .
+
+## 8. Amendment of Schedule 3 (capital activities)
+
+In Schedule 3 (capital activities) in item 1 b in column 2 (requirements) for “twice” where it occurs the first time substitute “three times” and for “twice yearly treatments” substitute “three treatments a year”.
+
+## 9. Amendment of Schedule 4 (rates of payment for activities)
+
+In Schedule 4 (rates of payment for activities) for Part I[^f00022] substitute–
+
+> **PART I — MANAGEMENT ACTIVITIES**
+>
+> <table>
+> <thead>
+> <tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr>
+> <tr><th>Activity</th><th>Rates of Payment for pre-2003 entrants, entrants from an Environmentally Sensitive Areas scheme or entrants from the Habitats scheme</th><th>Rates of Payment for post 2003 entrants or entrants with a successful challenge</th></tr>
+> </thead>
+> <tbody>
+> <tr><td>1.1. Extensive management of mown grassland for birds.</td><td>£150 per hectare.</td><td>£163 per hectare.</td></tr>
+> <tr><td>1.2. Management of open grazed grasslands for birds.</td><td>£100 per hectare.</td><td>£110 per hectare.</td></tr>
+> <tr><td>1.3. Extensive management of mown grassland for corncrakes.</td><td>£190 per hectare.</td><td>£263 per hectare.</td></tr>
+> <tr><td>1.4. Management of early and late cover for corncrakes.</td><td>£160 per hectare.</td><td>£170 per hectare.</td></tr>
+> <tr><td>1.5. Management of wet grassland for waders.</td><td>£100 per hectare.</td><td>£110 per hectare.</td></tr>
+> <tr><td>1.6. Creation and management of early and late cover for corncrakes.</td><td>£718 per hectare.</td><td>£738 per hectare.</td></tr>
+> <tr><td>2.1. Management of species-rich grassland.</td><td>£100 per hectare.</td><td>£85 per hectare.</td></tr>
+> <tr><td>2.2. Bracken eradication programme.</td><td>£25 per hectare for area of species-rich grassland identified for bracken eradication.</td><td>£26 per hectare for area of species-rich grassland identified for bracken eradication.</td></tr>
+> <tr><td>2.3. Creation and management of species-rich grassland.</td><td>a. £250 per hectare on arable land; or<br>b. £150 per hectare on improved grassland.</td><td>£248 per hectare of arable land or improved grassland.</td></tr>
+> <tr><td>2.4. Management of coastal heath.</td><td>£80 per hectare.</td><td>£80 per hectare.</td></tr>
+> <tr><td>2.5. Management of lowland heath.</td><td>£115 per hectare.</td><td>£115 per hectare.</td></tr>
+> <tr><td>3.1. Management of wetland.</td><td>£100 per hectare.</td><td>£85 per hectare.</td></tr>
+> <tr><td>3.2. Management of lowland raised bogs.</td><td>£70 per hectare.</td><td>£74 per hectare.</td></tr>
+> <tr><td>3.3. Creation and management of wetland.</td><td>£250 per hectare.</td><td>£248 per hectare.</td></tr>
+> <tr><td>3.4. Management of water margin.</td><td>£400 per hectare.</td><td>£300 per hectare.</td></tr>
+> <tr><td>3.5. Management of flood plain.</td><td>£25 per hectare.</td><td>£30 per hectare.</td></tr>
+> <tr><td>3.6. Management of basin and valley mire buffer areas.</td><td>£250 per hectare.</td><td>£260 per hectare.</td></tr>
+> <tr><td>4.1. Moorland management.</td><td>£1 per hectare.</td><td>£1 per hectare.</td></tr>
+> <tr><td>4.2. Stock disposal.</td><td>£45 per hectare of moorland.</td><td>£19.65 per hectare of moorland.</td></tr>
+> <tr><td>4.3. Muirburn and heather swiping.</td><td>£11 per hectare for area of moorland to be burned/swiped in 10 years.</td><td>£11 per hectare for area of moorland to be burned/swiped in 10 years.</td></tr>
+> <tr><td>4.4. Bracken eradication programme.</td><td>£25 per hectare for area of moorland identified for bracken eradication.</td><td>£26 per hectare for area of moorland identified for bracken eradication.</td></tr>
+> <tr><td>5.1. Management of grass margin or beetlebank in arable fields.</td><td>£736 per hectare.</td><td>£619 per hectare.</td></tr>
+> <tr><td>5.2. Management of conservation headlands.</td><td>£70 per hectare or if nitrogenous fertiliser is not applied, a premium payment of £150 per hectare.</td><td>£80 per hectare or if nitrogenous fertiliser is not applied, a premium payment of £150 per hectare.</td></tr>
+> <tr><td>5.3. Management of extended hedges.</td><td>£500 per hectare.</td><td>£0.41 per running metre.</td></tr>
+> <tr><td>5.4. Management of hedgerows.</td><td>£5,000 per hectare.</td><td>£0.85 per running metre.</td></tr>
+> <tr><td>6.1. Introduction or retention of extensive cropping.</td><td>£120 per hectare or for application of management regime for period of three years or more on same site, £140 per hectare.</td><td>£120 per hectare or for application of management regime for a period of three years or more on the same site, £180 per hectare.</td></tr>
+> <tr><td>6.2. Management of cropped machair.</td><td>£200 per hectare or where cultivation is combined with the traditional application of seaweed and/or dung, £240 per hectare.</td><td>£220 per hectare or where cultivation is combined with the traditional application of seaweed and/or dung, £270 per hectare.</td></tr>
+> <tr><td>6.3. Unharvested crops.</td><td>£600 per hectare.</td><td>£445 per hectare.</td></tr>
+> <tr><td>7.1. Management of scrub (including tall herb communities).</td><td>£55 per hectare.</td><td>£52 per hectare.</td></tr>
+> <tr><td>7.2. Management of native or semi-natural woodland.</td><td>£100 per hectare.</td><td>£80 per hectare.</td></tr>
+> <tr><td>8.1. Management of a site of archaeological or historical interest.</td><td>£80 per 0.25 hectare or part thereof up to 1.5 hectares and £80 per hectare thereafter or for crop-marked area sown to grass, £320 per hectare.</td><td>£80 per 0.25 hectare or part thereof up to 1.5 hectares and £80 per hectare thereafter or for crop marked area sown to grass, £320 per hectare.</td></tr>
+> <tr><td>9.1. Conservation management plan with special measures for small units.</td><td>a. £50 per hectare (in-bye); or<br>b. If a collective application covering a minimum of 4 crofts within the same crofting community, £60 per hectare (in-bye).</td><td>a. £44 per hectare (in bye); or<br>b. If a collective application covering a minimum of 4 crofts within the same crofting community, £53 per hectare (in-bye).</td></tr>
+> <tr><td>9.2. Retention or introduction of breeding cattle of native or traditional breed(s) in crofting areas (must be adopted in combination with prescription 9.1).</td><td>In addition to the aid payable under prescription 9.1–<br>a. If the croft supports a herd of cattle of traditional or native breed(s) for the duration of participation in the scheme, £5 per hectare (in-bye); or<br>b. If a herd of cattle of traditional or native breed(s) is introduced to the croft by the end of the first plan year and numbers of any sheep on the crofts are reduced to ensure no increase in overall stocking density, £340 per hectare (in bye).</td><td>In addition to the aid payable under prescription 9.1–<br>a. if the croft supports a herd of cattle of traditional or native breed(s) for the duration of participation in the scheme, £74 per hectare (in bye); or<br>b. if a herd of cattle of traditional or native breed(s) is introduced to the croft by the end of the first plan year and numbers of any sheep on the croft reduced to ensure no increase in overall stocking density, £374 per hectare (in bye).</td></tr>
+> <tr><td>10. Management of ancient wood pasture.</td><td>a. £30 per hectare on rough grazings; and<br>b. £100 per hectare on improved and unimproved grassland.</td><td>a. £28 per hectare on rough grazings; and<br>b. £100 per hectare on improved or unimproved grassland.</td></tr>
+> <tr><td>11. Spring cropping</td><td>£115 per hectare.</td><td>£106 per hectare.</td></tr>
+> </tbody>
+> </table>
+
+.
+
+## 10. Amendment of Schedule 5 (interpretation of schedules)
+
+In Schedule 5 (interpretation of schedules)–
+
+- (a) after the definition of “amenity woodland” insert–
+
+  > - “ancient wood pasture” means land currently listed in, and land which is a candidate for listing in, the ‘Inventory of Ancient Wood Pasture in Scotland’ as maintained by Scottish Natural Heritage;
+
+  [^f00023];
+- (b) after the definition of “rough grazings” insert–
+
+  > - “seed of at least UK stock” means seed harvested within the United Kingdom;
+
+  ; and
+- (c) after the definition of “species-rich grassland” insert–
+
+  > - “spring cropping” means the growing of spring-sown cereal, linseed, oilseed or protein crops;
+
+  .
+
+RHONA BRANKIN
+
+A member of the Scottish Executive
+
+St Andrew’s House, Edinburgh
+
+1st December 2005
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Rural Stewardship Scheme (Scotland) Regulations 2001 (“the principal Regulations”), which implemented Commission Regulation [(EC) No. 1750/1999](https://www.legislation.gov.uk/european/regulation/1999/1750) (O.J. No. L 214, 13.8.99, p.31) on support for rural development from the European Agricultural Guidance and Guarantee Fund (as now replaced by Commission Regulation No. 817/2004 (O.J. No. L 153, 30.4.2004, p.30)). The principal Regulations extend to Scotland only.
+
+The principal Regulations provide for payment of aid to be made to any person who enters into an undertaking with the Scottish Ministers to comply with the general environmental requirements set out in Schedule 1 and to carry out, or as the case may be, to carry out and maintain at least one of either the management activities set out in Schedule 2 or the capital activities set out in Schedule 3. Schedule 4 to the principal Regulations makes provision for rates of payment for management and capital activities.
+
+These Regulations amend the principal Regulations as follows–
+
+- (a) in regulation 2 (interpretation)–
+  - (i) to insert definitions of the Crofters (Scotland) Act 1993 and the Agricultural Holdings (Scotland) Act 2003 and to update the reference to an EC Commission Regulations (regulation 3(a) and (b));
+  - (ii) to insert new definitions for 5 different categories of entrants into the Rural Stewardship Scheme who are eligible for one of the two sets of payments rates for management activities set out in Schedule 4 (regulation 3(c) and (e);
+  - (iii) to amend the definitions of landlord and tenant (regulation 3(d) and (f));
+- (b) in regulation 3 (payments of aid to enhance the environment) to amend the meaning of an applicant to whom aid may be paid (regulation 4);
+- (c) in regulation 8 (rates of payment) to change the rates of payment to take account of the 5 different categories of entrants into the Scheme (regulation 5);
+- (d) in regulation 10 (change of occupation) to make provision for when a landlord and a tenant take on undertakings jointly (regulation 6);
+- (e) in Schedule 2 (management activities)–
+  - (i) to amend the management requirements for: bracken eradication programmes for species rich grassland, coastal or lowland heath; the creation and management of species rich grassland; the creation and management of wetland; the management of water margin; bracken eradication programmes for moorland; the management of grass margin or beetlebank in arable fields; and the management of native or semi-natural woodland (regulation 7(a), (b), (d), (f), (g), (j), (k), (m), (n), (o) and (p));
+  - (ii) to amend the site eligibility requirements for: the creation and management of species rich grassland; the creation and management of wetland; the management of water margin; stock disposal; and spring cropping (regulation 7(c), (e), (h), (i), (l) and (q));
+  - (iii) to introduce a new management activity for the creation and management of early and late cover for corncrakes (regulation 7(r));
+- (f) in Schedule 3 (capital activities) to amend the requirements for bracken eradication (regulation 8);
+- (g) in Schedule 4 (rates of payments for activities) to substitute a new Part I (management activities) to provide two sets of payment rates, the first of which applies to 3 of the categories of entrants and a second set, which applies to 2 categories of entrants (regulation 9); and
+- (h) in Schedule 5 (interpretation of schedules) to insert definitions of ancient wood pasture, seed of at least UK stock and spring cropping (regulation 10 (a), (b) and (c)).
+
+No Regulatory Impact Assessment has been prepared in respect of these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). Section 98(1) was amended by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 120(7). See definition of “appropriate Minister” in section 98(5). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). The requirement to obtain the consent of the Treasury was removed by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
+
+[^f00002]: Footnote: [S.S.I. 2001/300](https://www.legislation.gov.uk/ssi/2001/300); amended by [S.S.I. 2003/177](https://www.legislation.gov.uk/ssi/2003/177) and [303](https://www.legislation.gov.uk/ssi/2003/303) and [S.S.I. 2004/109](https://www.legislation.gov.uk/ssi/2004/109) and [381](https://www.legislation.gov.uk/ssi/2004/381).
+
+[^f00003]: Footnote: [1993 c. 44](https://www.legislation.gov.uk/ukpga/1993/44).
+
+[^f00004]: Footnote: [2003 asp 11](https://www.legislation.gov.uk/asp/2003/11).
+
+[^f00005]: Footnote: O.J. No. L 153, 30.4.2004, p.30.
+
+[^f00006]: Footnote: [1986 c. 49](https://www.legislation.gov.uk/ukpga/1986/49). See section 18(11) for the definition of “the Minister”. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00007]: Footnote: S.I. [1992/1919](https://www.legislation.gov.uk/uksi/1992/1919); amended by S.I. [1992/2062](https://www.legislation.gov.uk/uksi/1992/2062), S.I. [1994/3067](https://www.legislation.gov.uk/uksi/1994/3067), S.I. [1995/3097](https://www.legislation.gov.uk/uksi/1995/3097), S.I. [1996/3082](https://www.legislation.gov.uk/uksi/1996/3082) and [S.S.I. 2001/34](https://www.legislation.gov.uk/ssi/2001/34).
+
+[^f00008]: Footnote: S.I. [1992/1920](https://www.legislation.gov.uk/uksi/1992/1920); amended by S.I. [1992/2063](https://www.legislation.gov.uk/uksi/1992/2063), S.I. [1994/3067](https://www.legislation.gov.uk/uksi/1994/3067), S.I. [1995/3096](https://www.legislation.gov.uk/uksi/1995/3096), S.I. [1996/738](https://www.legislation.gov.uk/uksi/1996/738) and [3082](https://www.legislation.gov.uk/uksi/1996/3082) and [S.S.I. 2001/30](https://www.legislation.gov.uk/ssi/2001/30).
+
+[^f00009]: Footnote: S.I. [1993/996](https://www.legislation.gov.uk/uksi/1993/996); amended by S.I. [1994/3067](https://www.legislation.gov.uk/uksi/1994/3067), S.I. [1996/1969](https://www.legislation.gov.uk/uksi/1996/1969) and [3082](https://www.legislation.gov.uk/uksi/1996/3082), and [S.S.I. 2001/32](https://www.legislation.gov.uk/ssi/2001/32).
+
+[^f00010]: Footnote: S.I. [1993/997](https://www.legislation.gov.uk/uksi/1993/997); amended by S.I. [1994/3067](https://www.legislation.gov.uk/uksi/1994/3067), S.I. [1996/1968](https://www.legislation.gov.uk/uksi/1996/1968) and [3082](https://www.legislation.gov.uk/uksi/1996/3082) and [S.S.I. 2001/31](https://www.legislation.gov.uk/ssi/2001/31).
+
+[^f00011]: Footnote: S.I. [1993/2345](https://www.legislation.gov.uk/uksi/1993/2345); amended by S.I. [1994/3067](https://www.legislation.gov.uk/uksi/1994/3067), S.I. [1996/1963](https://www.legislation.gov.uk/uksi/1996/1963) and [3082](https://www.legislation.gov.uk/uksi/1996/3082) and [S.S.I. 2001/33](https://www.legislation.gov.uk/ssi/2001/33).
+
+[^f00012]: Footnote: S.I. [1993/2768](https://www.legislation.gov.uk/uksi/1993/2768); amended by S.I. [1994/3067](https://www.legislation.gov.uk/uksi/1994/3067), S.I. [1996/1967](https://www.legislation.gov.uk/uksi/1996/1967) and [3082](https://www.legislation.gov.uk/uksi/1996/3082) and [S.S.I. 2001/26](https://www.legislation.gov.uk/ssi/2001/26).
+
+[^f00013]: Footnote: S.I. [1993/2767](https://www.legislation.gov.uk/uksi/1993/2767); amended by S.I. [1994/3067](https://www.legislation.gov.uk/uksi/1994/3067), S.I. [1996/1964](https://www.legislation.gov.uk/uksi/1996/1964) and [3082](https://www.legislation.gov.uk/uksi/1996/3082) and [S.S.I. 2001/25](https://www.legislation.gov.uk/ssi/2001/25).
+
+[^f00014]: Footnote: S.I. [1993/3136](https://www.legislation.gov.uk/uksi/1993/3136); amended by S.I. [1994/3067](https://www.legislation.gov.uk/uksi/1994/3067), S.I. [1996/1966](https://www.legislation.gov.uk/uksi/1996/1966) and [3082](https://www.legislation.gov.uk/uksi/1996/3082) and [S.S.I. 2001/27](https://www.legislation.gov.uk/ssi/2001/27).
+
+[^f00015]: Footnote: S.I. [1993/3149](https://www.legislation.gov.uk/uksi/1993/3149); amended by S.I. [1994/3067](https://www.legislation.gov.uk/uksi/1994/3067), S.I. [1996/1962](https://www.legislation.gov.uk/uksi/1996/1962) and [3082](https://www.legislation.gov.uk/uksi/1996/3082) and [S.S.I. 2001/28](https://www.legislation.gov.uk/ssi/2001/28).
+
+[^f00016]: Footnote: S.I. [1993/3150](https://www.legislation.gov.uk/uksi/1993/3150); amended by S.I. [1994/3067](https://www.legislation.gov.uk/uksi/1994/3067), S.I. [1996/1965](https://www.legislation.gov.uk/uksi/1996/1965) and [3082](https://www.legislation.gov.uk/uksi/1996/3082) and [S.S.I. 2001/29](https://www.legislation.gov.uk/ssi/2001/29).
+
+[^f00017]: Footnote: S.I. [1994/2710](https://www.legislation.gov.uk/uksi/1994/2710); revoked by S.I. [1996/3035](https://www.legislation.gov.uk/uksi/1996/3035) subject to a savings provision in regulation 9(2).
+
+[^f00018]: Footnote: O.J. No. L 270, 21.10.2003, p.1 as amended by: Council Regulation [(EC) No. 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) (O.J. No. L 5, 9.1.2004, p.8); Council Regulation [(EC) No. 583/2004](https://www.legislation.gov.uk/european/regulation/2004/0583) (O.J. No. L 91, 30.3.2004, p.1); Council Regulation [(EC) No. 864/2004](https://www.legislation.gov.uk/european/regulation/2004/0864) (O.J. No. L 206, 9.6.2004, p.20); Council Regulation [(EC) No. 2217/2004](https://www.legislation.gov.uk/european/regulation/2004/2217) (O.J. No. L 375, 23.12.2004, p.1); and Commission Regulation [(EC) No. 118/2005](https://www.legislation.gov.uk/european/regulation/2005/0118) (O.J. No. L 24, 27.1.2005, p.15); and as derogated from by Commission Regulation [(EC) No. 1540/2004](https://www.legislation.gov.uk/european/regulation/2004/1540) (O.J. No. L 279, 28.8.2004).
+
+[^f00019]: Footnote: [S.S.I. 2005/620](https://www.legislation.gov.uk/ssi/2005/620).
+
+[^f00020]: Footnote: S.I. [1996/3142](https://www.legislation.gov.uk/uksi/1996/3142); revoked by [S.S.I. 2005/143](https://www.legislation.gov.uk/ssi/2005/143) subject to a savings provision in regulation 27.
+
+[^f00021]: Footnote: Item 34 was inserted by [S.S.I. 2004/109](https://www.legislation.gov.uk/ssi/2004/109), regulation 2(2).
+
+[^f00022]: Footnote: Part I was amended by [S.S.I. 2004/109](https://www.legislation.gov.uk/ssi/2004/109), regulation 2(4)(a)(i).
+
+[^f00023]: Footnote: Scottish Natural Heritage was established under section 1 of the [Natural Heritage (Scotland) Act 1991 (c 28)](https://www.legislation.gov.uk/ukpga/1991/28).

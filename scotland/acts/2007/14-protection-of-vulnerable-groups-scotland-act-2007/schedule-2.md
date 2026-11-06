@@ -1,0 +1,306 @@
+---
+title: Protection of Vulnerable Groups (Scotland) Act 2007, SCHEDULE 2
+act: Protection of Vulnerable Groups (Scotland) Act 2007
+section: schedule-2
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2007/14/schedule/2
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Protection of Vulnerable Groups (Scotland) Act 2007, SCHEDULE 2
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/asp/2007/14
+>
+> Extent: Scotland.
+
+## SCHEDULE 2 — Regulated roles with children[^key-7b61bcbfb06bcc3864f02e845edeab98]
+
+*Extent: S*
+
+(introduced by section 91(2))
+
+### PART 1 — Preliminary
+
+#### Regulated roles with children
+
+**1.** (1) A regulated role with children is a role of any description which—
+
+- (a) involves the carrying out of one or more activities mentioned in Part 2 of this schedule, and
+- (b) satisfies the conditions mentioned in sub-paragraph (2).
+
+(2) The conditions are—
+
+- (a) the activities are carried out—
+  - (i) as a necessary part of the role, and
+  - (ii) in Scotland, and
+- (b) in the case of—
+  - (i) activities mentioned in paragraph 21 of Part 2 of this schedule, the carrying out of the activities gives the individual carrying them out, when doing anything permitted or required in connection with the carrying out of the activities, the opportunity to have unsupervised contact with children,
+  - (ii) other activities mentioned in Part 2 of this schedule, the carrying out of the activities gives the individual carrying them out, when doing anything permitted or required in connection with the carrying out of the activities, the opportunity to have contact with children.
+
+(3) A role—
+
+- (a) the normal duties of which include the day-to-day supervision or management of an individual carrying out a regulated role by virtue of sub-paragraph (1), or
+- (b) which involves training or studying in Scotland to carry out one or more activities mentioned in Part 2 of this schedule and which gives the individual undertaking the training or study, when doing anything permitted or required in connection with undertaking the training or study, the opportunity to have contact with children,
+
+is to be treated as a regulated role with children for the purposes of sub-paragraph (1).
+
+(4) For the purposes of sub-paragraph (2)(a)(ii), where—
+
+- (a) an activity is carried out outside the United Kingdom, the Channel Islands and the Isle of Man by an individual who is ordinarily resident in the United Kingdom,
+- (b) the activity is carried out for—
+  - (i) an organisation with a place of business in Scotland, or
+  - (ii) a personnel supplier with a place of business in Scotland, and
+- (c) the organisation's or personnel supplier's functions in relation to the carrying out of the activity by the individual are principally exercised at that place of business,
+
+the activity is to be treated as if it were carried out in Scotland.
+
+(5) For the purposes of sub-paragraph (3)(b), where—
+
+- (a) training or study is undertaken outside the United Kingdom, the Channel Islands and the Isle of Man by an individual who is ordinarily resident in the United Kingdom,
+- (b) the person with principal responsibility for the provision of the training or course of study is—
+  - (i) an organisation with a place of business in Scotland, or
+  - (ii) a personnel supplier with a place of business in Scotland, and
+- (c) the organisation's or personnel supplier's functions in relation to the undertaking of the training or study by the individual are principally exercised at that place of business,
+
+the training or study is to be treated as if it were undertaken in Scotland.
+
+#### Exceptions to regulated roles with children
+
+**2.** (1) A role which would be a regulated role with children by virtue of the carrying out of an activity mentioned in any of the paragraphs of Part 2 of this schedule is not, despite any of those provisions, a regulated role with children if—
+
+- (a) the activity is carried out in relation to children in the course of the children's work (whether paid or unpaid work),
+- (b) the activity is carried out in the course of a family relationship, or
+- (c) the activity is carried out for an individual (“A”)—
+  - (i) in the course of a personal relationship,
+  - (ii) for no commercial consideration, and
+  - (iii) for the benefit of A, a member of A's family or A's friend.
+
+(2) In sub-paragraph (1)(b)—
+
+- (a) a family relationship does not include a relationship between a child and a foster carer in relation to the child,
+- (b) a family relationship includes a relationship between two persons who—
+  - (i) live in the same household, and
+  - (ii) treat each other as though they were members of the same family.
+
+(3) In sub-paragraph (1)(c)—
+
+- (a) a personal relationship is a relationship between or among friends, and
+- (b) “**benefit**” does not include commercial benefit.
+
+(4) For the purposes of sub-paragraphs (1)(c) and (3)(a), a friend of a member of an individual's family is to be regarded as being the individual's friend.
+
+(5) Ministers may prescribe circumstances in which an activity is or is not to be treated for the purposes of this paragraph as being done in the course of a family or personal relationship.
+
+#### Definitions in relation to contact with children
+
+**3.** (1) In paragraph 1(2)(b)—
+
+- “contact with children”—
+  - (a) means, in relation to an activity, contact that is more than incidental to the carrying out of the activity, and
+  - (b) includes any of the following—[^key-ab90c6565bd916060e9fb4adf4801e69]
+    - (i) physical contact with children,
+    - (ii) visual, written or verbal communication with children,
+    - (iii) exercising power or influence over children,
+- “**unsupervised contact with children**” means contact with children in the absence of—
+  - (a) a responsible person,
+  - (b) a person carrying out an activity mentioned in paragraph 4, 8 or 12 of Part 2 of this schedule, or
+  - (c) an individual who, in relation to a child, has agreed to supervise the contact under arrangements made by the child's parent or guardian or any person aged 18 or over with whom the child lives in the course of a family or personal relationship,
+- “**responsible person**” means, in relation to a child, any of the following persons—
+  - (a) the child's parent or guardian,
+  - (b) any person aged 18 or over with whom the child lives,
+  - (c) the person in charge of any of the following establishments in which the child is accommodated, is a patient or receives education (and any person acting on behalf of such a person)—
+    - (i) secure accommodation for children,
+    - (ii) a hospital which is used exclusively or mainly for the reception and treatment of children,
+    - (iii) an educational institution,
+    - (iv) a hostel,
+    - (v) a residential care setting,
+  - (d) a person who provides day care of children (within the meaning of schedule 12 of the Public Services Reform (Scotland) Act 2010),
+  - (e) any person holding a position mentioned in sub-paragraph (2),
+- “family relationship” and “personal relationship” are to be construed in accordance with paragraph 2(2) to (4).
+
+(2) The positions referred to in paragraph (e) of the definition of “responsible person” in sub-paragraph (1) are—
+
+- (a) a manager or member of a governing body, body of trustees or other body responsible for the management of an educational institution or a hostel (other than a member of a council),
+- (b) a member of—
+  - (i) a committee (including joint committee) of a council which is concerned with the provision of education, accommodation, social services or health care services to children,
+  - (ii) a sub-committee which discharges any functions of any such committee,
+- (c) a member of—
+  - (i) the Children's Panel,
+  - (ii) the Safeguarders Panel,
+  - (iii) Children's Hearings Scotland,
+  - (iv) staff of Children's Hearings Scotland,
+  - (v) an area support team,
+  - (vi) the Scottish Children's Reporter Administration,
+  - (vii) staff of the Scottish Children's Reporter Administration,
+- (d) the National Convener of Children's Hearings Scotland,
+- (e) the Principal Reporter,
+- (f) the chief social work officer of a council,
+- (g) the Chief Education Officer of an education authority,
+- (h) the Commissioner for Children and Young People in Scotland,
+- (i) a member of staff of the Commissioner for Children and Young People in Scotland,
+- (j) the Registrar of Independent Schools in Scotland,
+- (k) a foster carer,
+- (l) a charity trustee of a children's charity,
+- (m) a person holding another position in a children's charity.
+
+(3) In paragraph 1(3), “contact with children”—
+
+- (a) means, in relation to training or study, contact that is more than incidental to the undertaking of the training or study, and
+- (b) includes any of the following—[^key-2ec2ffd9d12284391882457877d2010e]
+  - (i) physical contact with children,
+  - (ii) visual, written or verbal communication with children,
+  - (iii) exercising power or influence over children.
+
+(4) For the purpose of paragraph (b) of the definitions of “contact with children” in each of sub-paragraphs (1) and (3), “**exercising power or influence over children**” means—
+
+- (a) assisting, facilitating, permitting or impeding progress towards a desirable objective or outcome for a particular child,
+- (b) making decisions of an operational or strategic nature that could have an impact on a number of children, or
+- (c) persuading or putting pressure on a particular child to behave or act in a certain manner for the financial gain or personal gratification of a person other than the child.
+
+### PART 2 — Activities
+
+#### Child protection
+
+**4.** Acting as a foster carer in relation to the child.
+
+**5.** Making decisions in relation to a child's care arrangements where a council has facilitated the child's care arrangements.
+
+**6.** Having responsibility for the safety and welfare of a child, other than acting as a foster carer in relation to the child.
+
+**7.** Having the ability to directly influence decisions about the safety or welfare of a child, other than in the capacity of an elected representative or as the holder of a judicial office.
+
+#### Education and training
+
+**8.** Teaching, instructing or delivering training to children.
+
+**9.** Having the ability to directly influence the operational delivery of education services for children, other than in the capacity of an elected representative or as the holder of a judicial office.
+
+**10.** Holding power or influence over a child for the purpose of—
+
+- (a) an activity in which the child is taking part or seeking to take part in,
+- (b) arranging the future recruitment, training or employment of the child.
+
+**11.** Providing advice or guidance to children in relation to career development or education.
+
+#### Childcare
+
+**12.** Being in charge of or caring for children, other than acting as a foster carer.
+
+#### Care, health and accommodation services
+
+**13.** Practising as a registered medical practitioner.
+
+**13A.**[^key-aa5baadf6cb7bc9db986e5a9c92d36be] Practising as an anaesthesia associate or physician associate pursuant to registration with the General Medical Council.
+
+**14.** Practising as a registered nurse, midwife or health visitor.
+
+**14A.**[^key-a559f0226bc725fcdadff1cd8957e809] Practising in a profession pursuant to registration with the Health and Care Professions Council.
+
+**15.** Practising as a chiropractor pursuant to registration with the General Chiropractic Council.
+
+**16.** Practising as a dentist or dental care professional[^key-ae2755b9b0ab8002451376a331522ce0] pursuant to registration with the General Dental Council.
+
+**17.** Practising as an optometrist or dispensing[^key-b0b434032fe1218abf79a1f59f1faed1] optician pursuant to registration with the General Optical Council.
+
+**18.** Practising as an osteopath pursuant to registration with the General Osteopathic Council.
+
+**19.** Practising as a pharmacist or pharmacy technician[^key-7720efb252f6991244c38482290ed5f6] pursuant to registration with the General Pharmaceutical Council.
+
+**20.** Being engaged in the provision of a domestic service (including cleaning, preparing food, acting as a caretaker of premises or carrying out maintenance of premises) that is provided for children in an educational institution, hospital, nursery,[^key-e59ffe5486249c9c1bc001ed827fd01a] day care premises, hospice, hostel, residential care setting or secure accommodation for children.
+
+**21.** Carrying out an activity in an educational institution, hospital, nursery, day care premises, hospice, hostel,[^key-5b5365070ab3d9ecae3a82e315a89e10] residential care setting or secure accommodation for children.
+
+**22.** Providing a care home service or an independent healthcare service which is provided exclusively or mainly for children.
+
+**23.** Being engaged by or on behalf of a child with an illness or disability to provide personal care services.
+
+**24.** Providing counselling, therapy , advice, guidance or advocacy support[^key-023b2d0770241681f8945d6293725878] in relation to health or wellbeing to children, other than where such counselling, therapy, advice , guidance or advocacy support[^key-e31087909ff890ae4692d0e65566bf39] is provided in a prison by a prisoner to another prisoner.
+
+**25.** Having the ability to directly influence the operational delivery of medical or care services for children, other than in the capacity of an elected representative or as the holder of a judicial office.
+
+#### Leisure activities
+
+**26.** Providing cultural, leisure, social or recreational activities for children.
+
+#### Sports activities
+
+**27.** Coaching children in relation to sports or physical activity.
+
+#### Religious activities
+
+**28.** Providing religious activities or services for children.
+
+#### Miscellaneous
+
+**29.** Driving or escorting children in connection with transport services provided exclusively or mainly for children.
+
+**30.** Holding a position of responsibility in an organisation which has as one of its main purposes the provision of benefits for or to children (regardless of whether the organisation has an additional purpose of providing benefits for or to another group of persons).
+
+#### Interpretation
+
+**31.** In this schedule—
+
+- “**care home service**” has the same meaning as in paragraph 2 of schedule 12 of the Public Services Reform (Scotland) Act 2010,
+- “**children's charity**” means a charity whose—
+  - (a) main purpose is to provide benefits for children, and
+  - (b) principal means of delivery of those benefits is by its staff carrying out regulated roles with children,
+- “**day care premises**” means premises at which day care of children (within the meaning of schedule 12 of the Public Services Reform (Scotland) Act 2010) is provided,
+- “**educational institution**” means a school or further education institution,
+- “**elected representative**” means—
+  - (a) a member of the House of Commons,
+  - (b) a member of the Scottish Parliament,
+- “**further education institution**” means a body listed under the heading “Institutions formerly eligible for funding by the Scottish Further Education Funding Council” in schedule 2 of the Further and Higher Education (Scotland) Act 2005 or a college of further education which is assigned to a regional strategic body by order made under section 7C(1) of that Act,
+- “**hospital**” has the meaning given in section 108(1) of the National Health Service (Scotland) Act 1978,
+- “**hostel**” means a hostel used mainly by pupils attending an educational institution,
+- “**independent health care service**” has the same meaning as in section 10F of the National Health Service (Scotland) Act 1978,
+- “**judicial office**” means—
+  - (a) the office of judge of any court,
+  - (b) the office of member of any tribunal,
+  - (c) any other office, or appointment, consisting of functions of a judicial nature,
+- “**prison**” means a prison or young offenders institution that is under the general superintendence of the Scottish Ministers under the Prisons (Scotland) Act 1989 and includes any contracted out prison within the meaning of section 106(4) of the Criminal Justice and Public Order Act 1994,
+- “**prisoner**” means a person committed to prison for trial, safe custody, punishment or otherwise,
+- “**residential care setting**” means a home that—
+  - (a) is provided exclusively or mainly for children, and
+  - (b) is—
+    - (i) provided by a council in exercise of its functions under section 59 (provision by councils of residential and other establishments) of the Social Work (Scotland) Act 1968 or section 25 (provision of care and support services by councils) of the Mental Health (Care and Treatment) (Scotland) Act 2003, or
+    - (ii) provided or secured by a person to whom such a function is delegated by a council in pursuance of an integration scheme under section 1 or 2 (integration schemes) of the Public Bodies (Joint Working) (Scotland) Act 2014,
+- “**secure accommodation for children**” means accommodation provided in a residential establishment, approved in accordance with regulations made under section 78(2) of the Public Services Reform (Scotland) Act 2010, for the purpose of restricting the liberty of children.
+
+**32.** Ministers may by regulations amend the definition of “further education institution” in paragraph 31 so as to include or exclude bodies listed in schedule 2 of the Further and Higher Education (Scotland) Act 2005.
+
+### PART 3 — General
+
+#### Power to amend schedule
+
+**33.** Ministers may by regulations modify this schedule as they think appropriate.
+
+**34.** Regulations under paragraph 33 may disapply or otherwise modify the application of sections 34 to 37 and sections 45C to 45G in relation to particular kinds of regulated roles with children.
+
+## Annotations
+
+[^key-7b61bcbfb06bcc3864f02e845edeab98]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/asp/2007/14/schedule/2) substituted (30.9.2024 for specified purposes, 1.4.2025 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 3](https://www.legislation.gov.uk/asp/2020/13/schedule/3) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)) (as amended by [2024 asp 5](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 19(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/19/2); [S.S.I. 2024/21](https://www.legislation.gov.uk/ssi/2024/21), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/21/regulation/2/j/ii)( with reg. 3)); [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-ab90c6565bd916060e9fb4adf4801e69]: Textual amendment: Words in [sch. 2 para. 3(1)](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/3/1) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(2)(a);](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/2/a) [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+
+[^key-2ec2ffd9d12284391882457877d2010e]: Textual amendment: [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/3/3/b) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/2/b); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+
+[^key-aa5baadf6cb7bc9db986e5a9c92d36be]: Textual amendment: [Sch. 2 para. 13A](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/13A) inserted (1.4.2025) by The Regulated Roles with [Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/3); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-a559f0226bc725fcdadff1cd8957e809]: Textual amendment: [Sch. 2 para. 14A](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/14A) inserted (1.4.2025) by The Regulated Roles with [Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/4); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-ae2755b9b0ab8002451376a331522ce0]: Textual amendment: Words in [sch. 2 para. 16](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/16) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/5); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+
+[^key-b0b434032fe1218abf79a1f59f1faed1]: Textual amendment: Words in [sch. 2 para. 17](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/17) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(6);](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/6) [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+
+[^key-7720efb252f6991244c38482290ed5f6]: Textual amendment: Words in [sch. 2 para. 19](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/19) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/7); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+
+[^key-e59ffe5486249c9c1bc001ed827fd01a]: Textual amendment: Word in [sch. 2 para. 20](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/20) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(8);](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/8) [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+
+[^key-5b5365070ab3d9ecae3a82e315a89e10]: Textual amendment: Word in [sch. 2 para. 21](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/21) inserted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(9)](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/9); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+
+[^key-023b2d0770241681f8945d6293725878]: Textual amendment: Words in [sch. 2 para. 24](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/24) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(10)(a)](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/10/a); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)
+
+[^key-e31087909ff890ae4692d0e65566bf39]: Textual amendment: Words in [sch. 2 para. 24](https://www.legislation.gov.uk/asp/2007/14/schedule/2/paragraph/24) substituted (1.4.2025) by [The Regulated Roles with Children and Adults (Scotland) Amendment Regulations 2025 (S.S.I. 2025/76)](https://www.legislation.gov.uk/ssi/2025/76), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/76/regulation/1/1), [2(10)(b)](https://www.legislation.gov.uk/ssi/2025/76/regulation/2/10/b) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)(2), sch.](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1/2/schedule)

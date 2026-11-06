@@ -1,0 +1,104 @@
+---
+title: Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012
+id: ssi/2012/273
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-10-09'
+text_date: '2013-05-27'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2012/273
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2012/273/pdfs/ssi_20120273_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/273/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012
+
+> Text as at 2013-05-27.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2012 No. 273
+
+Sheriff Court
+
+Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012
+
+Made
+
+9th October 2012
+
+Laid before the Scottish Parliament
+
+11th October 2012
+
+Coming into force
+
+12th November 2012
+
+The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001], section 215 of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^f00002] and of all other powers enabling them in that behalf, having approved draft rules submitted to them by the Sheriff Court Rules Council in accordance with section 34 of the said Act of 1971, do hereby enact and declare:
+
+## 1. Citation, commencement and interpretation[^key-dce5de1289336430d5337a5d1cc30c88]
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012 and comes into force on 12th November 2012.
+
+(2) A certified copy of this Act of Sederunt is to be inserted in the Books of Sederunt.
+
+## 2. Amendment of the Act of Sederunt (Actions for removing from heritable property) 2012[^key-bb90853efa4ad61e47039834505d6d48]
+
+(1) The Act of Sederunt (Actions for removing from heritable property) 2012[^f00003] is amended as follows.
+
+(2) In paragraph[^key-346e033ea18d01c01ada54112488ef7a] 3 (charge for removing)—
+
+- (a) in subparagraph[^key-4a025938b1318c0e350f31cd7a4d3bdc] 1(b) delete “and”;
+- (b) in subparagraph 5(a) for “defender’s last known address” substitute “heritable property”;
+- (c) for subparagraph 7(a) substitute—
+
+  > - (a) by leaving a copy of the charge in a sealed envelope addressed to “the occupiers” in such a way that it is likely to come to the attention of the occupiers; or
+
+  .
+
+(3) In the schedule, for Form 4 substitute Form 4 set out in the Schedule to this Act of Sederunt.
+
+Brian Gill
+
+Lord President
+
+I.P.D.
+
+Edinburgh
+
+9th October 2012
+
+## SCHEDULE[^key-bc7ff85af48bd4f3a135a031cce20288]
+
+EXPLANATORY NOTE
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt amends the Act of Sederunt (Actions of removing from heritable property) 2012 which prescribes the practice and procedure to be followed in the execution of any decree for removing from heritable property.
+
+## Annotations
+
+[^f00001]: Footnote: [1971 c.58](https://www.legislation.gov.uk/ukpga/1971/58). Section 32 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c.73)](https://www.legislation.gov.uk/ukpga/1985/73), Schedule 2, paragraph 12; the Civil Evidence (Scotland) Act [1988 (c. 32)](https://www.legislation.gov.uk/ukpga/1988/32), section 2(4); the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 18(2); the Adults with Incapacity (Scotland) Act [2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4) (the “2000 asp”), schedule 5, paragraph 13; the Debt Arrangement and Attachment (Scotland) Act [2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), section 43; the Vulnerable Witnesses (Scotland) Act [2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(2); the Consumer Credit Act [2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14), section 16(4); the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (the “2007 asp”) section 33; and the [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), section 127(a). Section 32 is amended prospectively by the 2007 asp, schedule 5, paragraph 10; and the [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), section 185. Section 32 was extended by the Debtors (Scotland) Act [1987 (c.18)](https://www.legislation.gov.uk/ukpga/1987/18), section 97; the Child Support Act [1991 (c.48)](https://www.legislation.gov.uk/ukpga/1991/48), sections 39(2) and 49; and by section 2(4) of the 2000 asp.
+
+[^f00002]: Footnote: [2007 asp 3](https://www.legislation.gov.uk/asp/2007/3).
+
+[^key-dce5de1289336430d5337a5d1cc30c88]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1) in force at 12.11.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1)
+
+[^key-bb90853efa4ad61e47039834505d6d48]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2) in force at 12.11.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1)
+
+[^f00003]: Footnote: [S.S.I. 2012/136](https://www.legislation.gov.uk/ssi/2012/136).
+
+[^key-346e033ea18d01c01ada54112488ef7a]: Textual amendment: Words in [para. 2(2)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2) substituted (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2/a)
+
+[^key-4a025938b1318c0e350f31cd7a4d3bdc]: Textual amendment: Word in [para. 2(2)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2) substituted (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2/b)
+
+[^key-bc7ff85af48bd4f3a135a031cce20288]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2012/273/schedule) in force at 12.11.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1)

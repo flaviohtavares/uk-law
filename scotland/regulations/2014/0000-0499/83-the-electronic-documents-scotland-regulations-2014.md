@@ -1,0 +1,297 @@
+---
+title: The Electronic Documents (Scotland) Regulations 2014
+id: ssi/2014/83
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-03-25'
+text_date: '2022-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2014/83
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2014/83/pdfs/ssipn_20140083_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/83/pdfs/ssi_20140083_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/83/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Electronic Documents (Scotland) Regulations 2014
+
+> Text as at 2022-10-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2014 No. 83
+
+Electronic Communications
+
+The Electronic Documents (Scotland) Regulations 2014
+
+Made
+
+25th March 2014
+
+Laid before the Scottish Parliament
+
+27th March 2014
+
+Coming into force
+
+11th May 2014
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 9B(2)(c), 9C(2) and 9E(1)(d) of the Requirements of Writing (Scotland) Act 1995[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation[^key-6d55b145f067013cbee1c7993df2d58d]
+
+(1) These Regulations may be cited as the Electronic Documents (Scotland) Regulations 2014 and come into force on 11th May 2014.
+
+(2) In these Regulations—
+
+- “the 1995 Act” means the Requirements of Writing (Scotland) Act 1995;
+- [^key-85dc96eeacf9a1900acfff8fbb905023]...
+- “[^key-398346a562d8bc9d5f0be188c491a828]**advanced electronic signature**” means an advanced electronic signature within the meaning given in Article 3(11) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market;
+- [^key-d12fc079c547c957755c8625dc1ce85a]...
+- “[^key-7520b5a473c6caeef8e2a8f22f4dfeee]digital registration document[^key-751344c17723bb25356d6e23fcb130b4]” means a document created as an electronic communication within the digital registration system[^key-2453f04fd7462a62cb94715e41a09540];
+- “digital certificate” means an electronic document in a standardised format which proves ownership of a “public key”, includes information about its owner’s identity and is digitally signed by the organisation that has verified the certificate’s contents are correct and issued the certificate;
+- “digital registration system” means a computer system managed and controlled by the Keeper in accordance with section 99(1) of the Land Registration[^key-768eaaba00484673c997457bd697e8ff] etc. (Scotland) Act 2012;
+- “electronic document” has the meaning given in section 9A of the 1995 Act[^f00003].
+- “the Keeper” means the Keeper of the Registers of Scotland;[^key-328e5ec87522f693061f1848a1025f4b]
+- “public key” is one of a pair of mathematical keys that are used in the authentication of electronic documents, which is intrinsically linked with the private key (although it is computationally infeasible to determine one key from knowledge of the other key) and is made public and forms part of the digital certificate;
+- “private key” is one of a pair of mathematical keys that are used in the authentication of electronic documents, which is intrinsically linked with the public key (although it is computationally infeasible to determine one key from knowledge of the other key) and is kept private to be used, in combination with data from an electronic document, to create a digital signature which is uniquely linked to both the signer of the document and the document itself;
+- “[^key-f52057f9da36f14a81ac0b90c4bf0796]**qualified electronic signature**” means a qualified electronic signature as defined in Article 3(12) of [Regulation (EU) No 910/2014](https://www.legislation.gov.uk/european/regulation/2014/0910) of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market.
+- “[^key-f2d9fabe9a4e497d6c1e8cf63af1a7be]**electronic signature creation data**” has the meaning given in Article 3(13) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market;
+
+## 2. Requirements of formally valid electronic document[^key-229b3e65804402effe56c8800bb41045]
+
+For an electronic document required by section 1(2) of the 1995 Act[^f00004] to be valid the electronic signature of a granter incorporated into or logically associated with that document must be an advanced electronic signature.
+
+## 3. Requirements of self-proving electronic document[^key-7d81e7eb9b93137e617125501b705d02]
+
+For an electronic document to be presumed authenticated by a granter under section 9C of the 1995 Act[^f00005] the electronic signature incorporated into or logically associated with that document must be a qualified electronic signature[^key-2ab1ef6521f8400113f60604be9380af].
+
+## 4. Annexations to electronic documents[^key-db106d74c29172e576c5d063367b2386]
+
+(1) Subject to paragraphs (2) and (3) and except where an enactment expressly otherwise provides, any annexation to an electronic document is to be regarded as incorporated in the document if it is—
+
+- (a) referred to in the document, and
+- (b) identified on its face as being the annexation referred to in the document,
+
+without the annexation having to be authenticated.
+
+(2) Where writing is required under section 1(2) of the 1995 Act for an electronic document, an annexation to it is to be regarded as incorporated in the document if and only if it is—
+
+- (a) referred to in the document,
+- (b) identified on its face as being the annexation referred to in the document, and
+- (c) annexed to the document before an electronic signature under regulation 2 or 3 is incorporated into or logically associated with the document and the annexation.
+
+(3) Where writing is not required under section 1(2) of the 1995 Act for an electronic document which relates to land and an annexation to it describes or shows all or any part of the land to which the document relates, the annexation is to be regarded as incorporated in the document if and only if it—
+
+- (a) is referred to in the document,
+- (b) is identified on its face as being the annexation referred to in the document, and
+- (c) meets one of the conditions in paragraph (4)(a) or (b).
+
+(4) Those conditions are that—
+
+- (a) the annexation is annexed to the document before an advanced electronic signature or a qualified electronic signature is incorporated into or logically associated with the document and the annexation, or
+- (b) the annexation is authenticated with an electronic signature which is neither an advanced electronic signature nor a qualified electronic signature, on—
+  - (i) each page, where it is a plan, drawing, photograph or other representation, or
+  - (ii) the last page, where it is an inventory, appendix, schedule or other writing.
+
+(5) In respect of any annexation referred to in paragraph (4)(b)—
+
+- (a) if it bears to have been authenticated by a granter of the document it is presumed to have been authenticated by the person who authenticated the document as that granter,
+- (b) it is competent to sign it at any time before the document is founded on in legal proceedings,
+- (c) where there is more than one granter, the requirement under paragraph (4)(b)(ii) of signing on the last page is complied with (provided that at least one granter signs at the end of the last page) if any other granter signs on an additional page.
+
+## 5. Authentication of electronic documents: special cases[^key-88c65e66530fead42eb4bca3253aa2dd][^key-43f4a534f919ad0044f7d820d6633745]
+
+(1)[^key-1174be38829e9ad391c1a778122e755a] Any reference in the 1995 Act or these Regulations to authentication by a granter of an electronic document, in a case where the granter is a person to whom any of paragraphs (2) to (7) applies, is to be construed as a reference to authentication by a person in accordance with that paragraph, unless the context otherwise requires.
+
+(2) Where the granter is a partnership, an electronic signature on behalf of the partnership must be applied by—
+
+- (a) a partner; or
+- (b) a person authorised to sign by the partnership.
+
+(3) Where the granter is a limited liability partnership, an electronic signature on behalf of the limited liability partnership must be applied by a member of the limited liability partnership.
+
+(4) Where the granter is a company, an electronic signature on behalf of the company must be applied by—
+
+- (a) a director of the company;
+- (b) a secretary of the company; or
+- (c) a person authorised to sign by the company.
+
+(5) Where the granter is a local authority, an electronic signature on behalf of the local authority must be applied by a proper officer of the authority.
+
+(6) Where the granter is a body corporate other than a company or a local authority, the electronic signature on behalf of the body corporate must be applied by—
+
+- (a) a member of the body’s governing board;
+- (b) a member of the body;
+- (c) a secretary of the body; or
+- (d) a person authorised to sign by the body.
+
+(7) Where the granter is a Minister or office holder, the electronic signature by or on behalf of the Minister or office holder must be applied by—
+
+- (a) the Minister or office holder;
+- (b) where permitted by an enactment that a document may be signed by an officer of the Minister or by any other Minister, the officer or other Minister;
+- (c) where permitted by an enactment that a document may be signed by an officer of the office holder, the officer; or
+- (d) a person authorised to sign by the Minister or office holder.
+
+## 6. Registration of electronic documents in the Land Register and Register of Sasines[^key-31091cda77b484078c59fa04ad347633]
+
+(1)[^key-a1f1e5f0d6b4719b2c856cd895b72019] A digital[^key-d781c91109ff01f22c75a33f6f12d5d4] registration document[^key-eab3d0afd2c86eab5ce5625e520511b8] to be registered in the Land Register of Scotland must be—
+
+- (a) in the form of a PDF created in the digital registration system[^key-3dde732190144f9b771f5f55a7a0a071]; and
+- (b) authenticated by [^key-4a5b68894a3221c5546f52fbc3f76a49]... —[^key-6be546022b34cc17537ee4f51a890597]
+  - (i) the type of electronic signature[^key-e315cb0192bee4b4383d1058efd1ec48] created by electronic signature creation data associated with a digital certificate supplied by the Keeper in accordance with paragraph (c); or
+  - (ii)[^key-e353a57b933cd7b2fc90610ebc93c43e] a qualified electronic signature;
+- (c) in the case of an electronic signature under paragraph (b)(i),[^key-6453635cba5eac305d53b470ca8e986b] certified by a digital certificate which must—
+  - (i) comply with the International Telecommunication Union Telecommunication Standardization Sector (ITU-T) cryptography standard X509 [^key-849fd9a58d08a330114f9bcc4b5cf7ca]... (“X509”);
+  - (ii) be bound to the holder in an identification process which meets a minimum of having regard to[^key-e748da02139d3743657942b1bbcb6f75] the Cabinet Office Good Practice Guide No. 45, Identity proofing and verification of an individual;
+  - (iii) use a public key and private key pair which are at least 1024 bits;
+  - (iv) employ a hashing algorithm no less satisfactory than Secure Hash Algorithm-2 (SHA-2)[^key-34a86e71d0bb9edbe0d98262493abb06];
+  - (v) not be subject to any limitation preventing use for authentication of conveyancing deeds and documents , land and buildings transaction tax land transaction returns[^key-1e992488a1b4b2906fb20d334dd62e8f] or certification of Stamp Duty Land Tax land transaction returns;
+  - (vi) be certified under a certificate in respect of which revocation is managed by a Certificate Revocation List compliant with X509;
+  - (vii) be issued under policy, contractual and reliance documentation which contains no exclusion or limitation of liability clauses inappropriate to the reliance placed on conveyancing deeds, land registration applications and tax returns; and
+  - (viii) not be created under policy, contractual or reliance documentation including choice of law or prorogation of jurisdiction clauses serving to refer Scots land law and property registration issues to the courts or legal system of a jurisdiction other than Scotland; or to refer land and buildings transaction tax or[^key-c908cbd5e7df7dc7428275a1818ded2d] Stamp Duty Land Tax issues to the courts or legal system of a jurisdiction outwith the United Kingdom.
+
+(2)[^key-7e3ef0230cc8a03fdfb163255cc06b9e] A digital registration document to be recorded in the Register of Sasines against burdened or benefitted property (or both) which is capable of being, and is also to be, dual registered in the Land Register of Scotland under section 4(5) or 75(1) of the Title Conditions (Scotland) Act 2003—
+
+- (a) must comply with the requirements of paragraph (1)(a) to (c); and
+- (b) may be registered using the digital registration system.
+
+## 7. Registration of electronic standard securities for preservation and execution[^key-6f422464fb1722047bf4f1dd1550c3ae]
+
+(1) An extract of an electronic standard security that has been created as a digital[^key-8d82c9503034358abe019a76ff3e35ae] registration document[^key-c75f50ef19c1776350b7c8fa408a4e80] may be registered for preservation and execution in the Books of Council and Session.
+
+(2) An extract registered in accordance with paragraph (1) is to be treated for the purposes of executing any diligence as if—
+
+- (a) the standard security were created by a document to which section 9C(1) of the 1995 Act applies; and
+- (b) the extract were that electronic standard security.
+
+## 8. Registration of other electronic documents for preservation and execution[^key-a77bcbe03357b6b9219bf19587d4b192]
+
+(1) An electronic document may be registered for preservation or execution (or both) in the register of deeds and probative writs in the Books of Council and Session if it is—
+
+- (a) in the form of a PDF, and
+- (b) authenticated by a qualified electronic signature.
+
+(2) This regulation does not apply to an extract of an electronic standard security.
+
+FERGUS EWING
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+25th March 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Land Registration etc. (Scotland) Act 2012 (“the 2012 Act”) amends the Requirements of Writing (Scotland) Act 1995 (“the 1995 Act”) to permit electronic documents to have equivalent status and standards of validity and authenticity to paper documents.
+
+Sections 9B and 9C of the 1995 Act inserted by section 97 of the 2012 Act contain powers to prescribe requirements for electronic documents and electronic signatures, including the type of signature required for such documents to be valid or self-proving.
+
+Those provisions are brought into force by the Land Registration etc. (Scotland) Act 2012 (Commencement No. 2 and Transitional Provisions) Order 2014 ([S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41)) except for the purposes of any will, testamentary trust disposition and settlement or codicil. Transitional provisions in that Order also maintain the current arrangements for electronic documents under the Automated Registration of Title to Land (ARTL) system run by Registers of Scotland before the designated day under section 122 of the 2012 Act.
+
+Regulation 2 of these Regulations provides that the relevant electronic documents - contracts, obligations, trusts and conveyances where formal writing is required under section 1(2) of the 1995 Act (including those altering real rights in land) - must have an advanced electronic signature to be valid.
+
+Regulation 3 provides that an electronic signature applied to those electronic documents in order to make the document self-proving must be certified by a qualified certificate.
+
+Regulation 4 makes provision for annexations to electronic documents.
+
+A Business Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from Registers of Scotland, Meadowbank House, 153 London Road, Edinburgh EH8 7AU.
+
+## Annotations
+
+[^f00001]: Footnote: [1995 c.7](https://www.legislation.gov.uk/ukpga/1995/7), amended by the Petroleum Act [1998 (c.17)](https://www.legislation.gov.uk/ukpga/1998/17), Schedule 5, Part 1, paragraph 1, the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 31, [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Schedule 2, Part 1, paragraph 118, the Abolition of Feudal Tenure etc. (Scotland) Act [2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), schedule 12, Part 1, paragraph 58, [S.I. 2000/2040](https://www.legislation.gov.uk/uksi/2000/2040), Schedule, Part 1, paragraph 17, the Housing (Scotland) Act [2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10), schedule 10, paragraph 22, [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), Schedule 4, paragraphs 4 and 5, the Title Conditions (Scotland) Act [2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), schedule 15, paragraph 1, [S.S.I. 2006/491](https://www.legislation.gov.uk/ssi/2006/491), article 3, the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), Schedule 16, paragraph 1, the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), sections 48(1) and 222(2) and (3), [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), Schedule 1, Part 2, paragraph 199, [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), Schedule 1, paragraph 151 and the Land Registration etc. (Scotland) Act [2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5) (“the 2012 Act”), sections 96, 97 and 98 and schedule 3. Sections 9B(2)(c), 9C(2) and 9E(1)(d) are inserted by section 97 of the 2012 Act for limited purposes by, and subject to transitional provision for Automated Registration of Title to Land (“ARTL”) documents in article 3(2) of, [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41).
+
+[^key-6d55b145f067013cbee1c7993df2d58d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/83/regulation/1) in force at 11.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/1)
+
+[^key-85dc96eeacf9a1900acfff8fbb905023]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/2) omitted (22.7.2016) by virtue of [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 12(1)(a)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/12/1/a)
+
+[^key-398346a562d8bc9d5f0be188c491a828]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/2) substituted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 12(1)(b)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/12/1/b)
+
+[^key-d12fc079c547c957755c8625dc1ce85a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/2) omitted (12.3.2018) by virtue of [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/2/a)
+
+[^key-7520b5a473c6caeef8e2a8f22f4dfeee]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/2) inserted (8.12.2014) by [The Land Register of Scotland (Automated Registration) etc. Regulations 2014 (S.S.I. 2014/347)](https://www.legislation.gov.uk/ssi/2014/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2014/347/regulation/9/2/a)
+
+[^key-751344c17723bb25356d6e23fcb130b4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/2) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(2)(b)(i)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/2/b/i)
+
+[^key-2453f04fd7462a62cb94715e41a09540]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/2) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/2/b/ii)
+
+[^key-768eaaba00484673c997457bd697e8ff]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/2) inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/2/c)
+
+[^f00003]: Footnote: Section 9A is inserted by the 2012 Act, section 97 for limited purposes by, and subject to transitional provision for ARTL documents in article 3(2) of, [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41).
+
+[^key-328e5ec87522f693061f1848a1025f4b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/2) inserted (8.12.2014) by [The Land Register of Scotland (Automated Registration) etc. Regulations 2014 (S.S.I. 2014/347)](https://www.legislation.gov.uk/ssi/2014/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2014/347/regulation/9/2/b)
+
+[^key-f52057f9da36f14a81ac0b90c4bf0796]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/2) inserted (1.4.2022) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/4/2)
+
+[^key-f2d9fabe9a4e497d6c1e8cf63af1a7be]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/2) substituted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 12(1)(c)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/12/1/c)
+
+[^key-229b3e65804402effe56c8800bb41045]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/83/regulation/2) in force at 11.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/1)
+
+[^f00004]: Footnote: Section 1(2) is amended by the 2012 Act, section 96(2)(a) for limited purposes by, and subject to transitional provision for ARTL documents in article 3(2) of, [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41).
+
+[^key-7d81e7eb9b93137e617125501b705d02]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/83/regulation/3) in force at 11.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/83/regulation/1/1)
+
+[^f00005]: Footnote: Section 9C is inserted by the 2012 Act, section 97, for limited purposes by, and subject to transitional provision for ARTL documents in article 3(2) of, [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41).
+
+[^key-2ab1ef6521f8400113f60604be9380af]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/83/regulation/3) substituted (1.4.2022) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2022/65/regulation/4/3)
+
+[^key-db106d74c29172e576c5d063367b2386]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/83/regulation/4) substituted (1.4.2022) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2022/65/regulation/4/4)
+
+[^key-88c65e66530fead42eb4bca3253aa2dd]: Modification: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/83/regulation/5) applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/3) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+
+[^key-43f4a534f919ad0044f7d820d6633745]: Textual amendment: [Regs. 5-7](https://www.legislation.gov.uk/ssi/2014/83/regulation/5) inserted (8.12.2014) by [The Land Register of Scotland (Automated Registration) etc. Regulations 2014 (S.S.I. 2014/347)](https://www.legislation.gov.uk/ssi/2014/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/347/regulation/1/1), [9(3)](https://www.legislation.gov.uk/ssi/2014/347/regulation/9/3)
+
+[^key-1174be38829e9ad391c1a778122e755a]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/ssi/2014/83/regulation/5/1) substituted (1.4.2022) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2022/65/regulation/5)
+
+[^key-31091cda77b484078c59fa04ad347633]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2014/83/regulation/6) heading inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(3)(f)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/3/f)
+
+[^key-a1f1e5f0d6b4719b2c856cd895b72019]: Textual amendment: Reg. 6 renumbered as reg. 6(1) (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/3/a)
+
+[^key-d781c91109ff01f22c75a33f6f12d5d4]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2014/83/regulation/6) substituted (1.4.2022) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/2), [6(a)](https://www.legislation.gov.uk/ssi/2022/65/regulation/6/a)
+
+[^key-eab3d0afd2c86eab5ce5625e520511b8]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/1) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/3/b)
+
+[^key-3dde732190144f9b771f5f55a7a0a071]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/1/a) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(3)(c)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/3/c)
+
+[^key-4a5b68894a3221c5546f52fbc3f76a49]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/1/b) omitted (1.4.2022) by virtue of [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/ssi/2022/65/regulation/4/5/a)
+
+[^key-6be546022b34cc17537ee4f51a890597]: Textual amendment: Words in [reg. 6(b)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/b) substituted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 12(3)(a)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/12/3/a)
+
+[^key-e315cb0192bee4b4383d1058efd1ec48]: Textual amendment: Words in [reg. 6(1)(b)(i)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/1/b/i) inserted (1.4.2022) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/2), [4(5)(b)](https://www.legislation.gov.uk/ssi/2022/65/regulation/4/5/b)
+
+[^key-e353a57b933cd7b2fc90610ebc93c43e]: Textual amendment: [Reg. 6(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/1/b/ii) substituted (1.4.2022) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/2), [4(5)(c)](https://www.legislation.gov.uk/ssi/2022/65/regulation/4/5/c)
+
+[^key-6453635cba5eac305d53b470ca8e986b]: Textual amendment: Words in [reg. 6(c)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/c) inserted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/12/3/b)
+
+[^key-849fd9a58d08a330114f9bcc4b5cf7ca]: Textual amendment: Word in [reg. 6(1)(c)(i)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/1/c/i) omitted (12.3.2018) by virtue of [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(3)(d)(i)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/3/d/i)
+
+[^key-e748da02139d3743657942b1bbcb6f75]: Textual amendment: Words in [reg. 6(1)(c)(ii)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/1/c/ii) substituted (1.4.2022) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/2), [6(b)](https://www.legislation.gov.uk/ssi/2022/65/regulation/6/b)
+
+[^key-34a86e71d0bb9edbe0d98262493abb06]: Textual amendment: Words in [reg. 6(1)(c)(iv)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/1/c/iv) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/3/d/ii)
+
+[^key-1e992488a1b4b2906fb20d334dd62e8f]: Textual amendment: Words in [reg. 6(1)(c)(v)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/1/c/v) inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/3/d/iii)
+
+[^key-c908cbd5e7df7dc7428275a1818ded2d]: Textual amendment: Words in [reg. 6(1)(c)(viii)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/1/c/viii) inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(3)(d)(iv)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/3/d/iv)
+
+[^key-7e3ef0230cc8a03fdfb163255cc06b9e]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/ssi/2014/83/regulation/6/2) inserted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(3)(e)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/3/e)
+
+[^key-6f422464fb1722047bf4f1dd1550c3ae]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/ssi/2014/83/regulation/7) heading substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(5)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/5)
+
+[^key-8d82c9503034358abe019a76ff3e35ae]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2014/83/regulation/7/1) substituted (1.10.2022) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/4), [7(2)](https://www.legislation.gov.uk/ssi/2022/65/regulation/7/2)
+
+[^key-c75f50ef19c1776350b7c8fa408a4e80]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/ssi/2014/83/regulation/7) substituted (12.3.2018) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2018 (S.S.I. 2018/72)](https://www.legislation.gov.uk/ssi/2018/72), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/72/regulation/1/1), [8(4)](https://www.legislation.gov.uk/ssi/2018/72/regulation/8/4)
+
+[^key-a77bcbe03357b6b9219bf19587d4b192]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/83/regulation/8) inserted (1.10.2022) by [The Registers of Scotland (Digital Registration, etc.) Regulations 2022 (S.S.I. 2022/65)](https://www.legislation.gov.uk/ssi/2022/65), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2022/65/regulation/1/4), [7(3)](https://www.legislation.gov.uk/ssi/2022/65/regulation/7/3)

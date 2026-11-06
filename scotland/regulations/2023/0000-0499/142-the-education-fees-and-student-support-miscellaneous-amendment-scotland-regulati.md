@@ -1,0 +1,137 @@
+---
+title: The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023
+id: ssi/2023/142
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-05-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2023/142
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2023/142/pdfs/ssipn_20230142_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2023/142/pdfs/ssi_20230142_en.pdf
+- http://www.legislation.gov.uk/ssi/2023/142/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 142
+
+Education
+
+The Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023
+
+Made
+
+9th May 2023
+
+Laid before the Scottish Parliament
+
+11th May 2023
+
+Coming into force
+
+1st August 2023
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 49(3), 73(f) and 74(1) of the Education (Scotland) Act 1980[^f00001], section 1 of the Education (Fees and Awards) Act 1983[^f00002] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Education (Fees and Student Support) (Miscellaneous Amendment) (Scotland) Regulations 2023 and come into force on 1 August 2023.
+
+## 2. Amendment of the Education (Fees) (Scotland) Regulations 2022
+
+(1) The Education (Fees) (Scotland) Regulations 2022[^f00003] are amended as follows.
+
+(2) In regulation 3 (relevant connection with Scotland), in paragraph (c), for sub-paragraphs (ii) to (v) substitute—
+
+> - (ii) a person (other than a person who has applied for refugee status) who has been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that they have been granted leave to enter or remain in the United Kingdom and whose leave has not expired, or
+> - (iii) the spouse, civil partner or child of a person described in sub-paragraphs (i) or  (ii).
+
+.
+
+(3) In schedule 1 (fees – excepted students)—
+
+- (a) in paragraph 13 (Ukrainian nationals), at the end of sub-paragraph (1)(b) after “Scotland” insert “on the relevant date”,
+- (b) in paragraph 18 (persons who are children of asylum seekers and young asylum seekers)—
+  - (i) in sub-paragraph (1)(b), after “relevant date,” insert “and”,
+  - (ii) in sub-paragraph (1)(c) omit “which application must have been made prior to 1 December 2006, and”,
+  - (iii) omit sub-paragraph (1)(d).
+
+## 3. Amendment of the Student Support (Scotland) Regulations 2022
+
+(1) The Student Support (Scotland) Regulations 2022[^f00004] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) in paragraph (1), after the definition of “Citizens’ Rights Regulations” insert—
+
+  > - “**college of further education**” means an educational establishment at which further education is provided,
+
+  ,
+- (b) in paragraph (3), after “Regulations” insert “, or as a consequence of any exceptional payment scheme operated by the Scottish Ministers under separate secondary legislation or on an extra statutory basis,”.
+
+(3) In regulation 13 (designated courses for student loans), in paragraph (1)(d), omit from “, but in relation” to the end of that paragraph.
+
+(4) In regulation 29 (exercise of power to grant an education maintenance allowance)—
+
+- (a) in paragraph (1), before “any person”, insert “or in respect of”,
+- (b) in paragraph (3)(a)—
+  - (i) omit “full time”,
+  - (ii) after head (iii), insert—
+
+    > or,
+    >
+    > - (iv) course of non-advanced education undertaken at a college of further education,
+
+(5) In schedule 1 (persons eligible for student support)—
+
+- (a) in paragraph 1 (persons who are settled in the United Kingdom or have long residence), in sub-paragraph (c), for heads (ii) to (v) substitute—
+
+  > - (ii) a person (other than a person who has applied for refugee status) who has been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that they have been granted leave to enter or remain in the United Kingdom and whose leave has not expired, or
+  > - (iii) the spouse, civil partner or child of a person described in heads (i) or (ii).
+
+  ,
+- (b) in paragraph 14 (Ukrainian nationals), at the end of sub-paragraph (1)(b) after “Scotland” insert “on the relevant date”,
+- (c) in paragraph 22 (persons who are children of asylum seekers or young asylum seekers)—
+  - (i) omit sub-paragraph (1)(c) and (e),
+  - (ii) in sub-paragraph (1)(d) omit “which application must have been made prior to 1st December 2006,”.
+
+GRAEME DEY
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+9th May 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Education (Fees) (Scotland) Regulations 2022 (“**the Fees Regulations**”) and the Student Support (Scotland) Regulations 2022 (“**the Student Support Regulations**”).
+
+These Regulations amend the long residence provision in regulation 3 of the Fees Regulations and paragraph 1 of schedule 1 of the Student Support Regulations to extend home fee status and student support to persons who, on the relevant date, are ordinarily resident in Scotland, have been ordinarily resident in the United Kingdom for 3 years and have not applied for refugee status but have been granted leave to enter or remain in the United Kingdom which has not expired. Eligibility also extends to the spouse, civil partner or child of such a person.
+
+Amendments are also made to both the Fees Regulations and the Student Support Regulations to require that Ukrainian nationals are ordinarily resident in Scotland on the relevant date in order to be eligible for home fee status and student support and to provide home fee status and student support to the children of asylum seekers and unaccompanied young asylum seekers.
+
+Amendments are made to the Student Support Regulations to extend student loan support to postgraduate courses undertaken at an institution outside Scotland and for education maintenance allowances to be paid to college students under those regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44). Section 73(f) was amended by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 29(1), and by the Education (Graduate Endowment and Student Support) (Scotland) Act [2001 (asp 6)](https://www.legislation.gov.uk/asp/2001/6), section 3(2). Section 74(1) was amended by the Self-Governing Schools etc. (Scotland) Act [1989 (c. 39)](https://www.legislation.gov.uk/ukpga/1989/39), section 82(1) and schedule 10, paragraph 8(17). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the Scotland Act**”).
+
+[^f00002]: Footnote: [1983 c. 40](https://www.legislation.gov.uk/ukpga/1983/40). Section 1 was relevantly amended by the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), section 237(1) and schedule 12, paragraph 91, by the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), section 93(1) and schedule 8, paragraph 19 and by the Further and Higher Education (Scotland) Act [1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37), section 62(2) and schedule 9, paragraph 8. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act.
+
+[^f00003]: Footnote: [S.S.I. 2022/156](https://www.legislation.gov.uk/ssi/2022/156), as amended by [S.S.I. 2022/362](https://www.legislation.gov.uk/ssi/2022/362).
+
+[^f00004]: Footnote: [S.S.I. 2022/157](https://www.legislation.gov.uk/ssi/2022/157), as amended by [S.S.I. 2022/362](https://www.legislation.gov.uk/ssi/2022/362).

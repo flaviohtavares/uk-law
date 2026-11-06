@@ -1,0 +1,38 @@
+---
+title: Judiciary and Courts (Scotland) Act 2008, section 17
+act: Judiciary and Courts (Scotland) Act 2008
+section: '17'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2008/6/section/17
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Judiciary and Courts (Scotland) Act 2008, section 17
+
+> **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/asp/2008/6
+>
+> Extent: England, Wales, Scotland, Northern Ireland.
+
+## 17. Confidentiality of information
+
+*Extent: S*
+
+(1) A person (whether or not a member of the Board or its staff) who has provided or obtained confidential information in connection with the carrying out of the Board's functions must not disclose the information unless the disclosure is authorised.
+
+(2) Information is confidential for the purposes of subsection (1) if it relates to an identified or identifiable individual.
+
+(3) Disclosure of information is authorised for the purposes of subsection (1) only so far as it is—
+
+- (a) made with the consent of the individual to whom the information relates,
+- (b) necessary for the purposes of the carrying out by the Board of its functions,
+- (c) necessary for the purposes of the carrying out by a member of the Scottish Executive of a function of appointing an individual to a judicial office within the Board's remit, or nominating or recommending an individual for appointment to such an office, or
+- (d) required for the purposes of any legal proceedings, whether criminal or civil, (including for the purposes of the investigation of any offence or suspected offence).
+
+(4) For the purposes of this section, an opinion or other information given by one identified or identifiable individual about another is to be treated as information that relates to both individuals.
+
+(5) This section does not prevent the disclosure of information which is already, or has previously been, in the public domain.
+
+(6) Any disclosure of information in contravention of this section which causes loss or damage to the individual to whom the information relates is actionable at the instance of that individual.

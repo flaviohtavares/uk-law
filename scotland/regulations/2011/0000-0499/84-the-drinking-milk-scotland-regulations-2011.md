@@ -1,0 +1,221 @@
+---
+title: The Drinking Milk (Scotland) Regulations 2011
+id: ssi/2011/84
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-02-09'
+text_date: '2019-02-28'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/84
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/84/pdfs/ssien_20110084_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/84/pdfs/ssi_20110084_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/84/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Drinking Milk (Scotland) Regulations 2011
+
+> Text as at 2019-02-28.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 84
+
+Food
+
+The Drinking Milk (Scotland) Regulations 2011
+
+Made
+
+9th February 2011
+
+Laid before the Scottish Parliament
+
+11th February 2011
+
+Coming into force
+
+1st April 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c20704591] and sections 6(4), 16(1), 17, 26(1) and (3) and 48(1) of the Food Safety Act 1990 [^c20704601] and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 [^c20704611] and it appears to the Scottish Ministers that it is expedient for the references to the provisions of Article 114(2) of, and Annex XIII to, Council Regulation (EC) No 1234/2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) [^c20704621] to be construed as references to those provisions as amended from time to time.
+
+The Scottish Ministers have carried out consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c20704631].
+
+To the extent that these Regulations are made in exercise of powers under the Food Safety Act 1990, the Scottish Ministers have had regard to relevant advice given by the Food Standards Agency as required by section 48(4A) of that Act [^c20704641].
+
+## 1. Citation, commencement and extent
+
+These Regulations—
+
+- (a) may be cited as the Drinking Milk (Scotland) Regulations 2011;
+- (b) come into force on 1st April 2011; and
+- (c) extend to Scotland only.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the 1990 Act**” means the Food Safety Act 1990;
+- “the Annex” means Part IV of Annex[^key-95b059fd6d99ba39cc24ce77249b12fd] VII to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1307/2001](https://www.legislation.gov.uk/european/regulation/2001/1307) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234),
+- “Article 78(2)” means Article 78(2) of the[^key-bec24a00e8732d4030df399884276b84] EU Regulation,
+- “the[^key-e442374b1782deeb9fbefa7de1e92b93] EU Regulation” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1307/2001](https://www.legislation.gov.uk/european/regulation/2001/1307) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234), as amended from time to time,
+- “**drinking milk**” has the meaning given in point I(b) of the Annex;
+- “**food authority**” has the same meaning as in section 5(2) [^c20704651] of the 1990 Act;
+- “**milk**” has the meaning given in point I(a) of the Annex; and
+- “**sell**” includes possess for sale and offer, expose or advertise for sale.
+
+(2) Other expressions used in these Regulations and in the EU[^key-e8290ec562b2940371e700828341ae15] Regulation or the Annex[^key-ffd19fc7ea40fc89ca775c40b5f0ac52] which are not defined in these Regulations have the same meaning in these Regulations as they have in the EU Regulation or the Annex.
+
+(3) References in these Regulations to Article 78(2)[^key-a8eac058bb5bbe439ccebd62e22e818f] and the Annex are references to Article 78(2) and the Annex as amended from time to time.
+
+## 3. Sale or delivery of milk and use of sales description
+
+No person may—
+
+- (a) sell, or deliver, milk; or
+- (b) use, or omit to use, a sales description for any product,
+
+in contravention of Article 78(2)[^key-27ccb2479b72a8f16540c85b2b893da4] or point II(1) and (2) of the Annex, as read with point III of the Annex.
+
+## 4. Importation of products from outside the EU for sale as drinking milk[^key-8c89258f5b0ef210baf6e19b848f3d0f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Enforcement
+
+(1) Each food authority must enforce and execute the provisions of these Regulations within its area.
+
+(2) Each food authority must give such assistance and information to any other food authority in Great Britain as that other food authority may reasonably require for the purpose of carrying out its duties under these Regulations or an equivalent provision.
+
+(3) In this regulation, “**equivalent provision**” means a provision in Regulations that extends to England or Wales for the purpose of implementing Article 78(2)[^key-15080f72b0db9b9093dec2df4bf3714b] or the Annex.
+
+## 6. Offences and penalties
+
+Any person who fails to comply with regulation 3 [^key-43c1176abbeb330640e4c3ce1b6d2adb]... is—
+
+- (a) guilty of an offence; and
+- (b) liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 7. Application of provisions of the 1990 Act
+
+(1) The provisions of the 1990 Act set out in paragraph (3) apply for the purposes of these Regulations with the modifications specified in paragraph (4).
+
+(2) Subject to paragraph (5), for the purposes of these Regulations, any reference in those provisions to the 1990 Act or to a Part or a section thereof must be construed as a reference to these Regulations.
+
+(3) The provisions are—
+
+- (a) section 2 (extended meaning of “sale” etc.) [^c20704661];
+- (b) section 3 (presumptions that food intended for human consumption);
+- (c) section 20 (offences due to fault of another person);
+- (d) section 21 (defence of due diligence) [^c20704671];
+- (e) section 30(8) (relating to documentary evidence);
+- (f) section 32 (powers of entry);
+- (g) section 33 (obstruction etc. of officers);
+- (h) section 35(1), (2) and (3)(b) (punishment of offences) insofar as those subsections relate to offences under section 33(1) and (2);
+- (i) section 36 (offences by bodies corporate);
+- (j) section 36A (offences by Scottish partnerships) [^c20704681]; and
+- (k) section 44 (protection of officers acting in good faith).
+
+(4) In relation to section 32, the specified modifications are—
+
+- (a) in subsection (1)—
+  - (i) the references to premises are to be construed as not including premises used only as a private dwelling-house; and
+  - (ii) omit from “but admission” to “the occupier”;
+- (b) in subsection (1)(a), omit “, or of regulations or orders made under it”;
+- (c) in subsections (3), (4), (5), (7), (8) and (9), the references to “this section” are to be construed as references to that section as applied to these Regulations; and
+- (d) in subsection (6)(a), omit “or of regulations or orders made under it”.
+
+(5) Paragraph (2) shall not apply to the references to a section of the 1990 Act which are modified by paragraph (4)(c).
+
+## 8. Amendments[^key-d5d075336d6a0889d0990a7786295dad]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9.[^key-89dfbf8c8d9179287a3956248b2c6bbc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Revocation
+
+The Drinking Milk Regulations 1998 [^c20704731] and the entry relating to those Regulations in Schedule 8 to the Food Hygiene (Scotland) Regulations 2006 [^c20704741] are revoked.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Executive
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for the enforcement of Article 114(2) of, and Annex XIII (“**the Annex**”) to, Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) (“**the Single CMO Regulation**”). The Drinking Milk Regulations 1998 are revoked (regulation 10).
+
+The Drinking Milk Regulations 1998 enforced Council Regulation (EC) No 2597/97 laying down additional rules on the common organisation of the market in milk and milk products for drinking milk (O.J. L 351, 23.12.97, p.13). That Regulation was amended by Council Regulation (EC) No 1602/1999 (O.J. L 189, 22.7.99, p.43) and by Council Regulation (EC) No 1153/2007 (O.J. L 258, 4.10.07, p.6) and then repealed by the Single CMO Regulation. The Single CMO Regulation consolidated the old EU law, including the new provision from Council Regulation (EC) No 1153/2007 which allows milk with a fat content outwith the three set fat categories, whole milk, semi-skimmed and skimmed milk, to be marketed subject to the correct labelling and the deletion made by Council Regulation [(EC) No 1602/1999](https://www.legislation.gov.uk/european/regulation/1999/1602) in relation to fat content requirement.
+
+These Regulations provide that the sale or delivery of milk and the use or non-use of a sales description for any product in contravention of the Annex is prohibited (regulation 3). The importation of any product from outside the EU in contravention of point IV of the Annex is also prohibited (regulation 4). Provision is made for enforcement and offences and penalties (regulations 5 and 6).
+
+Certain provisions of the Food Safety Act 1990 are applied for the purposes of these Regulations with certain modifications (regulation 7) including the application of section 32 (power of entry) in order to assist with the enforcement of these Regulations. Certain amendments are made to the Food Labelling Regulations 1996 to replace the definitions of semi-skimmed, skimmed and whole milk and to insert a definition of the Single CMO Regulation (regulation 8). Certain amendments are made to the Milk and Dairies (Scotland) Regulations 1990 to update a definition to the Single CMO Regulation (regulation 9).
+
+These Regulations provide that references in these Regulations to Article 114(2) and the Annex of the Single CMO Regulation are references to those provisions as amended from time to time. Any amendments to these provisions will be published on the Europa website, (http://europa.eu/documentation/legislation/index\_en.htm). Additionally the Scottish Government will publish relevant information on the Scottish Government website (www.scotland.gov.uk) and updates will be sent to interested parties where considered appropriate. The definition of the Single CMO Regulation to be inserted into the Food Labelling Regulations 1996 and the amendment to the Milk and Dairies (Scotland) Regulations 1990 referring to the Single CMO Regulation, however, are not ambulatory references to the Single CMO Regulation as amended from time to time.
+
+A Business and Regulatory Impact Assessment has not been produced for this instrument as there will be no cost to business.
+
+## Annotations
+
+[^c20704591]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) (“**the 1972 Act**”). Paragraph 1A of Schedule 2 was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”) and was amended by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“**the 2008 Act**”), Schedule, Part 1.
+
+[^c20704601]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16) (“**the 1990 Act**”). Section 6(4) was amended by section 31 of, and paragraph 6 of Schedule 9 to, the [Deregulation and Contracting Out Act 1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), and by section 40(1) of, and paragraphs 7 and 10(3) of Schedule 5 to, the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28) (“**the 1999 Act**”). Section 16(1) was amended by section 40(1) of, and paragraphs 7 and 8 of Schedule 5 to, the 1999 Act. Section 17 was amended by section 40(1) of, and paragraphs 7, 8 and 12(a) and (b) of Schedule 5 to, the 1999 Act. Section 26(3) was repealed in part by section 40(4) of, and Schedule 6 to, the 1999 Act. Section 48(1) was amended by section 40(1) of, and paragraphs 7 and 8 of Schedule 5 to, the 1999 Act. The requirement on the Scottish Ministers under section 48(4) to consult with such organisations as appear to them to be representative of interests likely to be substantially affected by this instrument is disapplied by virtue of section 48(4C), as inserted by S.I. 2004/2990, as consultation is required in respect of this instrument by Article 9 of Regulation (EC) No 178/2002. The amendments to the 1990 Act made by Schedule 5 to the 1999 Act which extend to Scotland are to be taken as a pre-commencement enactment for the purposes of the 1998 Act by section 40(2) of the 1999 Act. The functions of the Secretary of State, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”).
+
+[^c20704611]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the 1998 Act, Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the 2006 Act. Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by Schedule, Part 1 of the 2008 Act. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^c20704621]: Marginal citation: O.J. L 299, 16.11.07, p.1. This Regulation was last amended by Regulation (EU) No 1234/2010 (O.J. L 346, 30.12.10, p.11).
+
+[^c20704631]: Marginal citation: O.J. L 31, 1.2.02, p.1, to which there are no amendments relevant to Article 9.
+
+[^c20704641]: Marginal citation: Section 48(4A) was inserted by section 40(1) of, and paragraphs 7 and 21 of Schedule 5 to, the 1999 Act.
+
+[^key-95b059fd6d99ba39cc24ce77249b12fd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(a)(i)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/a/i)
+
+[^key-bec24a00e8732d4030df399884276b84]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/a/ii)
+
+[^key-e442374b1782deeb9fbefa7de1e92b93]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/1) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/a/iii)
+
+[^c20704651]: Marginal citation: Section 5(2) was amended by section 180 of, and paragraph 163(1) and (2) of Schedule 13 to, the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-e8290ec562b2940371e700828341ae15]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/2) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(b)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/b)
+
+[^key-ffd19fc7ea40fc89ca775c40b5f0ac52]: Textual amendment: Words in reg. 2(2) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/22/2/b)
+
+[^key-a8eac058bb5bbe439ccebd62e22e818f]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2011/84/regulation/2/3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/2/c)
+
+[^key-27ccb2479b72a8f16540c85b2b893da4]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2011/84/regulation/3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/3)
+
+[^key-8c89258f5b0ef210baf6e19b848f3d0f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/84/regulation/4) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [22(3)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/22/3)
+
+[^key-15080f72b0db9b9093dec2df4bf3714b]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2011/84/regulation/5/3) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/4)
+
+[^key-43c1176abbeb330640e4c3ce1b6d2adb]: Textual amendment: Words in reg. 6 omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [22(4)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/22/4)
+
+[^c20704661]: Marginal citation: [Section 2](https://www.legislation.gov.uk/ssi/2011/84/section/2) was amended by section 40(1) of, and paragraphs 7 and 8 of Schedule 5 to, the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
+
+[^c20704671]: Marginal citation: [Section 21](https://www.legislation.gov.uk/ssi/2011/84/section/21) was amended by S.I. 2004/3279.
+
+[^c20704681]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/ssi/2011/84/section/36A) was inserted by section 40(1) of, and paragraphs 7 and 16 of Schedule 5 to, the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
+
+[^key-d5d075336d6a0889d0990a7786295dad]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/84/regulation/8) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+
+[^key-89dfbf8c8d9179287a3956248b2c6bbc]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/84/regulation/9) revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [42(5)](https://www.legislation.gov.uk/ssi/2018/391/regulation/42/5)
+
+[^c20704731]: Marginal citation: [S.I](https://www.legislation.gov.uk/ssi/2011/84/section/I). 1998/2424; amended insofar as it applies to Scotland by S.S.I. 2005/616 and 2006/3.
+
+[^c20704741]: Marginal citation: S.S.I. 2006/3.

@@ -1,0 +1,71 @@
+---
+title: The Air Quality Standards (Scotland) Regulations 2007, SCHEDULE 5
+act: The Air Quality Standards (Scotland) Regulations 2007
+section: schedule-5
+status: repealed
+text_date: '2010-06-11'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2007/182/schedule/5
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Air Quality Standards (Scotland) Regulations 2007, SCHEDULE 5
+
+> This provision is no longer in force.
+>
+> Extent: Scotland.
+
+## SCHEDULE 5 — Minimum number of sampling points[^key-4691bce6a5fe599879f30fcbb36db03c]
+
+*Extent: S*
+
+**No longer in force.**
+
+Regulation 15(1), (4), (5) and (7)
+
+### PART 1 — Group A pollutants: human health based limit values and alert thresholds[^key-4691bce6a5fe599879f30fcbb36db03c]
+
+**1.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Diffuse sources[^key-4691bce6a5fe599879f30fcbb36db03c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2. Point sources[^key-4691bce6a5fe599879f30fcbb36db03c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Group A pollutants: limit values for the protection of ecosystems or vegetation[^key-4691bce6a5fe599879f30fcbb36db03c]
+
+**3.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Group B pollutants[^key-4691bce6a5fe599879f30fcbb36db03c]
+
+**5.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Diffuse sources[^key-4691bce6a5fe599879f30fcbb36db03c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Point sources[^key-4691bce6a5fe599879f30fcbb36db03c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — Ozone[^key-4691bce6a5fe599879f30fcbb36db03c]
+
+**7.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 5 — Ozone: minimum number of sampling points for fixed measurements for zones attaining the long-term objectives[^key-4691bce6a5fe599879f30fcbb36db03c]
+
+**8.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)

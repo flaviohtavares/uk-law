@@ -1,0 +1,31 @@
+---
+title: Debt Arrangement and Attachment (Scotland) Act 2002, section 18
+act: Debt Arrangement and Attachment (Scotland) Act 2002
+section: '18'
+status: revised-with-pending-changes
+text_date: '2024-01-04'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2002/17/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Debt Arrangement and Attachment (Scotland) Act 2002, section 18
+
+> **Warning: changes not yet applied to this text (6).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/asp/2002/17
+>
+> Extent: Scotland.
+
+## 18. Redemption
+
+*Extent: S*
+
+(1) Subject to any order made under section 20(1)(b) below, the debtor is entitled, within 14 days of the date on which an article is attached, to redeem that article.
+
+(2) The amount for which such an article may be redeemed is the value fixed under subsection (2) or (3) of section 15 above.
+
+(3) The officer shall, on receiving payment from the debtor for the redemption of an attached article, grant a receipt in the form prescribed by Act of Sederunt to the debtor.
+
+(4) The attachment of the article is, on the grant of such a receipt, to cease to have effect.
+
+(5) Where an article is redeemed after the officer has made a report under section 17(1) above in respect of the attachment, the officer shall report the redemption as soon as is reasonably practicable to the sheriff.

@@ -1,0 +1,506 @@
+---
+title: The Police Service of Scotland (Conduct) Regulations 2013
+id: ssi/2013/60
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-02-21'
+text_date: '2014-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/60
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/60/pdfs/ssipn_20130060_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/60/pdfs/ssi_20130060_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/60/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Service of Scotland (Conduct) Regulations 2013
+
+> Text as at 2014-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 60
+
+Police
+
+[^key-1f7b9f765277cbe6260e202430c81a11]The Police Service of Scotland (Conduct) Regulations 2013
+
+Made
+
+21st February 2013
+
+Laid before Parliament
+
+25th February 2013
+
+Coming into force
+
+1st April 2013
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 48 and 125(1) of the Police and Fire Reform (Scotland) Act 2012[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 54(2) of that Act, they have consulted and shared a draft of the Regulations with the persons mentioned in section 54(2)(a) and have considered any representations made.
+
+## PART 1 — General[^key-1f7b9f765277cbe6260e202430c81a11]
+
+**No longer in force.**
+
+### 1. Citation and commencement[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Interpretation[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Application[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Designation of deputy chief constable[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Meaning of misconduct[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Suspension[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Records[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Alleged offences[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Misconduct investigations[^key-1f7b9f765277cbe6260e202430c81a11]
+
+**No longer in force.**
+
+### 9. Preliminary investigation procedures[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Cases referred to deputy chief constable[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Investigating officer’s report[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Dismissal of allegations[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Documents to be supplied to the constable[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Response to misconduct form[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Misconduct hearings[^key-1f7b9f765277cbe6260e202430c81a11]
+
+**No longer in force.**
+
+### 15. Arrangement of misconduct hearing[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16. Variation of constable’s decision as to legal representation[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Representation at misconduct hearing[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Misconduct hearing: preliminary procedure[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Procedure at misconduct hearing[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Written statements[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Adjournments[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Hearing in the constable’s absence[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Determination on allegation of misconduct[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Disposals[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Limitations on disposals[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Appeals[^key-1f7b9f765277cbe6260e202430c81a11]
+
+**No longer in force.**
+
+### 26. Appeal to the chief constable[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 27. Transcript of the hearing[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Determination of appeal[^key-1f7b9f765277cbe6260e202430c81a11]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Revocations, savings and transitional provisions
+
+### 29. Revocations, savings and transitional provisions[^key-7a2c2cb62106fc8fae1fba112e094afb]
+
+Schedule 2 contains revocations, savings and transitional provisions.
+
+KENNY MACASKILL
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+21st February 2013
+
+## SCHEDULE 1 — Conduct constituting misconduct[^key-1f7b9f765277cbe6260e202430c81a11]
+
+**No longer in force.**
+
+Regulation 5
+
+**1.**[^key-1f7b9f765277cbe6260e202430c81a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-1f7b9f765277cbe6260e202430c81a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-1f7b9f765277cbe6260e202430c81a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-1f7b9f765277cbe6260e202430c81a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^key-1f7b9f765277cbe6260e202430c81a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-1f7b9f765277cbe6260e202430c81a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-1f7b9f765277cbe6260e202430c81a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^key-1f7b9f765277cbe6260e202430c81a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^key-1f7b9f765277cbe6260e202430c81a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Revocations, savings and transitional provisions
+
+Regulation 29
+
+### 1. Interpretation[^key-d428c746b711b785c87167286de85c49]
+
+In this Schedule—
+
+- “investigating officer” has the meaning given by regulation 3 of the 1996 Regulations as modified by paragraph 10(2)(c); and
+- “the 1996 Regulations” means the Police (Conduct) (Scotland) Regulations 1996[^f00007].
+
+### 2. Revocation, savings and modification of the 1996 Regulations[^key-953165d098e61fdfcd8425d9c64f1b77]
+
+(1) Subject to the sub-paragraphs (2) and (3) and paragraph 3, the 1996 Regulations are revoked.
+
+(2) Sub-paragraph (1) does not apply to regulation 25 (revocations, savings and transitional provisions) of, and Schedule 2 (revocations) to, the 1996 Regulations.
+
+(3) In regulation 25(2) of the 1996 Regulations, for “is below the rank of assistant chief constable” substitute “was a constable of a police force below the rank of assistant chief constable”.
+
+**3.**[^key-792b258763b1b7d2f0f70b2a32d50849] (1) Despite their revocation by paragraph 2, the 1996 Regulations continue to have effect on and after 1st April 2013 as they had effect immediately before that date, subject to the modifications set out in paragraph 10, where—
+
+- (a) a report, allegation or complaint to which those Regulations applied before 1st April 2013 was received by a police force before that date;
+- (b) any proceedings under the 1996 Regulations in relation to that report, allegation or complaint have not been concluded before 1st April 2013; and
+- (c) the individual in respect of whom that report, allegation or complaint was made is a transferred constable.
+
+(2) For the purpose of sub-paragraph (1)(b), in cases where no misconduct hearing has taken or is to take place, proceedings in relation to a report, allegation or complaint are to be treated as having been concluded—
+
+- (a) in relation to allegations of misconduct of a minor or trivial nature dealt with under or by virtue of regulation 5(2) and (3) of the 1996 Regulations, when a warning was given;
+- (b) when a decision was taken under regulation 6(3) of those Regulations that the individual in relation to whom the report, allegation or complaint was made was not to be required to appear before a misconduct hearing; or
+- (c) when a decision was taken under regulation 7A of those Regulations that an allegation of misconduct was not to be considered at a misconduct hearing.
+
+(3) For the purpose of sub-paragraph (1)(b), in cases where a misconduct hearing has taken place, proceedings in relation to a report, allegation or complaint are to be treated as having been concluded—
+
+- (a) where a finding was made that the conduct of the individual in relation to whom the report, allegation or complaint was made does not amount to misconduct, on the date the misconduct form was sent in accordance with regulation 17(4) of the 1996 Regulations; or
+- (b) where a finding of misconduct and a disposal made were recorded in accordance with regulation 17(3) of those Regulations—
+  - (i) unless regulation 20(8) of those Regulations applies, on the date on which the period specified in regulation 20(6) of those Regulations for sending a notice of appeal has expired; or
+  - (ii) where a notice of appeal was sent within that period or is accepted late in accordance with regulation 20(8) of those Regulations, on the date on which the document recording the decision was sent under regulation 21(7) of those Regulations.
+
+(4) The reference in paragraph (3)(b) to a finding of misconduct and disposal includes a reference to any admission and disposal made in the circumstances described in regulation 13(6) of the 1996 Regulations.
+
+### 4. Transitional provisions[^key-8fcce6b2e1b2559e56b9ceeb1ffd10ac]
+
+Any proceedings commenced under the 1996 Regulations in relation to a case in relation to which those Regulations continue to have effect by virtue of paragraph 3—
+
+- (a) may be continued under those Regulations as modified by paragraph 10; and
+- (b) where continued, are to be treated as proceedings under those Regulations as so modified.
+
+**5.**[^key-77aeaf647aefe84414cd7da096a3e601] In relation to a case in relation to which the 1996 Regulations continue to have effect by virtue of paragraph 3—
+
+- (a) anything done before 1st April 2013 under those Regulations by or in relation to a chief constable of a police force is to be treated, on and after that date, as having been done by or in relation to the chief constable of the Police Service; and
+- (b) anything done before 1st April 2013 under those Regulations by or in relation to an assistant chief constable of a police force (including anything done by or in relation to two or more assistant chief constables acting jointly under regulation 23 of those Regulations) is to be treated, on and after that date, as having been done by or in relation to the deputy chief constable.
+
+**6.**[^key-d0c3039b2ad2c03f065ba9402dc7d235] (1) Sub-paragraph (2) applies to an individual who—
+
+- (a) before 1st April 2013, was appointed under regulation 5(4) of the 1996 Regulations as an investigating officer in relation to a case in relation to which those Regulations continue to have effect by virtue of paragraph 3; and
+- (b) is—
+  - (i) a transferred constable; or
+  - (ii) engaged in service as a constable of the Police Service by virtue of paragraph 8(2) of schedule 5 to the Act.
+
+(2) An individual to whom this sub-paragraph applies is to continue to be the investigating officer in relation to the case in relation to which that individual’s appointment was made.
+
+(3) Sub-paragraphs (4) and (5) apply where an individual appointed before 1st April 2013 to act as the investigating officer in relation to a case in relation to which the 1996 Regulations continue to have effect by virtue of paragraph 3 is not—
+
+- (a) a transferred constable; or
+- (b) engaged in service as a constable of the Police Service by virtue of paragraph 8(2) of schedule 5 to the Act.
+
+(4) Where this paragraph applies, the deputy chief constable must appoint a constable of at least the rank of inspector and of at least the rank of the constable under investigation to replace as investigating officer the individual who has not transferred to the Police Service.
+
+(5) Anything done before 1st April 2013 by or in relation to an investigating officer who has not transferred to the Police Service is, on and after that date, to be treated as having been done by or in relation to the constable appointed to replace that investigating officer.
+
+**7.**[^key-27d9377c8fd7fbbf0ad7284160dcf549] (1) Sub-paragraph (2) applies to an individual who—
+
+- (a) before 1st April 2013, was appointed to act as a chairman of a misconduct hearing in relation to a case in relation to which the 1996 Regulations continue to have effect by virtue of paragraph 3; and
+- (b) is—
+  - (i) a transferred constable; or
+  - (ii) engaged in service as a constable of the Police Service by virtue of paragraph 8(2) of schedule 5 to the Act
+
+(2) An individual to whom this sub-paragraph applies is to continue to act as the chairman of the misconduct hearing in relation to which that person’s appointment was made.
+
+(3) Sub-paragraphs (4) and (5) apply where an individual appointed before 1st April 2013 to act as the chairman of a misconduct hearing in relation to a case in relation to which the 1996 Regulations continue to have effect by virtue of paragraph 3 is not—
+
+- (a) a transferred constable; or
+- (b) engaged in service as a constable of the Police Service by virtue of paragraph 8(2) of schedule 5 to the Act.
+
+(4) Where this paragraph applies, the deputy chief constable must appoint a constable of at least the rank of superintendent to replace as chairman the individual who has not transferred to the Police Service.
+
+(5) Anything done before 1st April 2013 by or in relation to a chairman who has not transferred to the Police Service is to be treated, on and after that date, as having been done by or in relation to the constable appointed to replace that chairman.
+
+**8.**[^key-c4a1681ec0cc1072175aa897a541ba29] (1) This paragraph applies to—
+
+- (a) a decision to dismiss an individual from a police force made under regulation 18(1)(a) of the 1996 Regulations where—
+  - (i) that decision was made before 1st April 2013;
+  - (ii) the individual in relation to whom the decision was made has not been dismissed before 1st April 2013; and
+  - (iii) that individual is a transferred constable; and
+- (b) a requirement to resign from a police force by a specified date made under regulation 18(1)(b) of the 1996 Regulations where—
+  - (i) that requirement was made before 1st April 2013;
+  - (ii) the individual in respect of whom the requirement was made has not, in accordance with that requirement, resigned before 1st April 2013; and
+  - (iii) that individual is a transferred constable.
+
+(2) Where this paragraph applies—
+
+- (a) a transferred constable who was to be dismissed from a police force is, on and after 1st April 2013, to be dismissed from the Police Service; and
+- (b) a requirement to resign from a police force by a specified date is, on and after 1st April 2013, to be treated as a requirement to resign from the Police Service by that specified date.
+
+(3) Where a transferred constable has not resigned by the date specified in a requirement to which this paragraph applies made by the chairman of the misconduct hearing or, as the case may be, the chief constable, under regulation 18(1)(b) of the 1996 Regulations, the effect of that decision is to dismiss the constable from the Police Service on the specified date.
+
+**9.**[^key-1ef4475b205f59d70f9c9b1fdfced3b5] (1) Sub-paragraph (2) applies to a transferred constable who, immediately before 1st April 2013, is suspended from duty under regulation 22 of the 1996 Regulations.
+
+(2) A transferred constable to whom this sub-paragraph applies is to continue, on and after 1st April 2013, to be suspended from duty as a constable and may, on and after that date, be dealt with under that regulation as modified by this Schedule.
+
+### 10. Modifications[^key-f4f6dd78bbcf17b5faba7714b4fd32a3]
+
+(1) The 1996 Regulations are modified as follows.
+
+(2) In regulation 3—
+
+- (a) omit the definition of “the assistant chief constable”;
+- (b) in the definition of “complainer”, for “a constable” substitute “a transferred constable”;
+- (c) for the definition of “investigating officer” substitute—
+
+  > - “investigating officer” means—
+  >   - (a) a transferred constable appointed under regulation 5(4) as it had effect immediately before 1st April 2013; or
+  >   - (b) a constable of the Police Service appointed under that regulation as it has effect on and after that date;
+
+  ;
+- (d) in the definition of “the constable”, for “constable of a police force” substitute “transferred constable”;
+- (e) omit the definition of “constable of a police force”;
+- (f) in the definition of “representative”, for “a police force” substitute “the Police Service”; and
+- (g) in the appropriate places, insert—
+
+  > - “constable of the Police Service” means an individual holding the office of constable who is serving as a constable of the Police Service, but does not include a special constable;
+
+  ;
+
+  > - “deputy chief constable” means the deputy chief constable of the Police Service designated under regulation 4 of the Police Service of Scotland (Conduct) Regulations 2013;
+
+  ;
+
+  > - “Police Service” means the Police Service of Scotland;
+
+  ; and
+
+  > - “transferred constable” means an individual who—
+  >   - (a) before 1st April 2013 was serving as a constable of a police force maintained immediately before that date under the Police (Scotland) Act 1967 (including any such individual who was, immediately before that date, engaged on relevant service within the meaning given by section 38A(1) of that Act);
+  >   - (b) is transferred—
+  >     - (i) to serve as a constable of the Police Service under paragraph 6 of schedule 5 to the Police and Fire Reform (Scotland) Act 2012; or
+  >     - (ii) to be engaged in service outwith the Police Service by virtue of paragraph 8(4) of that schedule; and
+  >   - (c) is not a special constable.
+
+  .
+
+(3) In regulation 4, for “constable”, in each place it occurs, substitute “transferred constable”.
+
+(4) In regulation 5—
+
+- (a) in paragraph (1)—
+  - (i) for “constable of the police force concerned” substitute “transferred constable”; and
+  - (ii) in sub-paragraph (a), for “another constable of the same force” substitute “a constable of the Police Service”;
+- (b) in paragraphs (2)(b)(i) and (3)(a), for “same force”, in both places, substitute “Police Service”;
+- (c) in paragraph (5)(a)—
+  - (i) for “police force concerned” substitute “Police Service”; and
+  - (ii) omit the words from “or” to the end of paragraph (5)(a); and
+- (d) in paragraph (6)—
+  - (i) for “any constable” substitute “a constable of the Police Service”; and
+  - (ii) in sub-paragraph (b), for “the police force concerned” substitute “the Police Service”.
+
+(5) In regulation 6(6), for “same force” substitute “Police Service”.
+
+(6) In regulation 7(1), for “a constable of a police force” substitute “a transferred constable”.
+
+(7) In regulation 10, omit paragraph (3).
+
+(8) In regulation 12—
+
+- (a) in paragraph (1), after “a constable” insert “of the Police Service”;
+- (b) in paragraph (2), for “a police force” substitute “the Police Service”; and
+- (c) in paragraph (3), for “member of a police force” substitute “constable of the Police Service or a member of the police staff within the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act 2012”.
+
+(9) In regulation 13—
+
+- (a) in paragraph (1)—
+  - (i) for the first “a constable” substitute “a transferred constable”; and
+  - (ii) after the second “a constable” insert “of the Police Service”;
+- (b) for paragraph (2)(a) substitute—
+
+  > - (a) a constable of the Police Service; and
+
+  ; and
+- (c) in paragraph (3), after “constables” insert “of the Police Service”.
+
+(10) In regulation 18(1)(a) and (b), (2)(b) and (3), for “force”, in each place it occurs, substitute “Police Service”.
+
+(11) In regulation 19(4), for “force”, substitute “Police Service”.
+
+(12) In regulation 20, omit paragraph (15).
+
+(13) In regulation 21—
+
+- (a) in paragraph (4)(b), for “a police force” substitute “the Police Service”; and
+- (b) in paragraph (9)(a), for “force”, in both places, substitute “Police Service”.
+
+(14) In regulation 22—
+
+- (a) in paragraph (1)—
+  - (i) for “a constable” substitute “a transferred constable”; and
+  - (ii) for “force” substitute “Police Service”; and
+- (b) in paragraph (2)(b), for “force”, in both places, substitute “Police Service”.
+
+(15) In regulation 24—
+
+- (a) in paragraph (1), omit from the first “at” to the second “headquarters”; and
+- (b) in sub-paragraphs (a) and (b) of that paragraph—
+  - (i) for “force”, in both places, substitute “Police Service”; and
+  - (ii)[^key-b4b63ab11b990ce252d054f9c40cbed0] omit the words “or, as the case may be, of the division concerned,”, in both places.
+
+(16) In regulations 5, 6, 7, 7A, 8, 9, 10, 11, 12, 13, 14, 17, 22 and 24, for “assistant chief constable”, in each place it occurs, substitute “deputy chief constable”.
+
+(17) In regulations 20 and 21 after “the chief constable”, in each place it occurs, insert “of the Police Service”.
+
+(18) In regulations 20, 21 and 24 after “The Chief Constable,” in each place it occurs, insert “of the Police Service”.
+
+### 11. Revocation[^key-e1e7a97f8a4850395618e73ac24425d4]
+
+The Police (Conduct) (Scotland) Amendment Regulations 1999[^f00008] are revoked.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the procedures for dealing with cases where an act or omission of a constable of the Police Service of Scotland (“the Police Service”) below the rank of assistant chief constable is alleged to amount to misconduct.
+
+Part 1 makes general provision. Regulations 1 to 3 make provision about the commencement, interpretation and application of the Regulations. Regulation 4 requires the chief constable of the Police Service to designate a deputy chief constable (“the deputy chief constable”) to carry out functions under the Regulations. Regulation 5 and Schedule 1 describe the types of acts and omissions of a constable which amount to misconduct. Regulation 6 provides for a power to suspend a constable subject to a criminal or misconduct allegation and the circumstances in which a suspension may be terminated. Regulation 7 requires the deputy chief constable to maintain records of complaints against constables and of misconduct proceedings. Regulation 8 details powers to suspend or postpone proceedings under these Regulations in cases where there is an inference that a constable may have committed a criminal offence and permits the resumption of those proceedings where any criminal process is concluded.
+
+Part 2 sets out the preliminary procedures for determining whether allegations of misconduct are to proceed to a misconduct hearing or are to be dealt with without recourse to such proceedings. Regulation 9 gives the deputy chief constable overall responsibility for misconduct matters and in particular requires that individual to establish and maintain procedures for the preliminary consideration of misconduct allegations and for the referral of those allegations, if appropriate, to formal investigation and adjudication processes.
+
+Regulation 10 permits the deputy chief constable to deal personally with cases of minor or trivial misconduct and to appoint a constable of the Police Service to carry out a formal investigation in more serious cases. A constable carrying out such an investigation must, in accordance with regulation 11, report the findings of that investigation to the deputy chief constable. The deputy chief constable is empowered to require a constable under investigation to attend a misconduct hearing.
+
+Regulation 12 allows the deputy chief constable to direct, if new information arises, that any allegation of misconduct previously referred to a misconduct hearing is not to be considered at that hearing.
+
+Regulations 13 and 14 make provision about the preliminary steps to be taken before a misconduct hearing is arranged, including requirements as to the provision of information to the constable under investigation.
+
+Part 3 establishes the procedures in relation to misconduct hearings. Regulation 15 places the general duty for arranging those hearings on the deputy chief constable and makes provision about the notification of the constable and witnesses. Regulation 16 allows the constable to vary a previous election not to be legally represented at a misconduct hearing. Regulation 17 makes provision about representation more generally, including provision about the appointment of an individual to present the case against the constable.
+
+Regulation 18 requires the deputy chief constable to appoint a chairing constable for every misconduct hearing. That chairing constable is in turn permitted to appoint constables and, in certain cases, an advocate or solicitor to assist.
+
+Regulations 19 to 22 make provision about the procedure to be followed at a misconduct hearing, including provision about the admission of written statements in lieu of oral evidence, adjournments, and the carrying on of proceedings in the absence of the constable being investigated.
+
+Regulation 23 requires the chairing constable to determine any allegation being considered at the misconduct hearing. Regulations 24 and 25 specify the disposals available to the chairing constable in cases where the constable has either been found by the chairing constable to be guilty of misconduct or has admitted misconduct.
+
+Part 4 makes provision about the appeal process in relation to findings of misconduct or disposals (or both). Regulations 26 to 28 require an appeal to be made to and determined by the chief constable of the Police Service in accordance with the procedures set out in those regulations.
+
+Part 5 and Schedule 2 revoke the Police (Conduct) (Scotland) Regulations 1996 with savings and transitional modifications to deal with proceedings under those Regulations in relation to constables of police forces who are transferred to the Police Service which are not concluded on the date these Regulations come into force.
+
+## Annotations
+
+[^key-1f7b9f765277cbe6260e202430c81a11]: Textual amendment: Regulations revoked (except reg. 29, Sch. 2) (1.4.2014) by [The Police Service of Scotland (Conduct) Regulations 2014 (S.S.I. 2014/68)](https://www.legislation.gov.uk/ssi/2014/68), [regs. 1](https://www.legislation.gov.uk/ssi/2014/68/regulation/1), [4(1)(4)](https://www.legislation.gov.uk/ssi/2014/68/regulation/4/1) (with [regs. 3](https://www.legislation.gov.uk/ssi/2014/68/regulation/3), [4(2)(3)](https://www.legislation.gov.uk/ssi/2014/68/regulation/4/2/3))
+
+[^f00001]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
+
+[^key-7a2c2cb62106fc8fae1fba112e094afb]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2013/60/regulation/29) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^key-d428c746b711b785c87167286de85c49]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^f00007]: Footnote: [S.I. 1996/1642](https://www.legislation.gov.uk/uksi/1996/1642), amended by [S.I. 1997/1072](https://www.legislation.gov.uk/uksi/1997/1072) and [S.S.I. 2004/257](https://www.legislation.gov.uk/ssi/2004/257).
+
+[^key-953165d098e61fdfcd8425d9c64f1b77]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^key-792b258763b1b7d2f0f70b2a32d50849]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^key-8fcce6b2e1b2559e56b9ceeb1ffd10ac]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^key-77aeaf647aefe84414cd7da096a3e601]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^key-d0c3039b2ad2c03f065ba9402dc7d235]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^key-27d9377c8fd7fbbf0ad7284160dcf549]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^key-c4a1681ec0cc1072175aa897a541ba29]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^key-1ef4475b205f59d70f9c9b1fdfced3b5]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^key-f4f6dd78bbcf17b5faba7714b4fd32a3]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/10) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^key-b4b63ab11b990ce252d054f9c40cbed0]: Textual amendment: [Sch. 2 para. 10(15)(b)(ii)](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/10/15/b/ii) substituted (18.5.2013) by [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2013/125/regulation/5/2)
+
+[^key-e1e7a97f8a4850395618e73ac24425d4]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2013/60/schedule/2/paragraph/11) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/60/regulation/1)
+
+[^f00008]: Footnote: [S.I. 1999/1072](https://www.legislation.gov.uk/uksi/1999/1072).

@@ -1,0 +1,46 @@
+---
+title: Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003, section 55
+act: Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003
+section: '55'
+status: revised-with-pending-changes
+text_date: '2013-09-16'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2003/15/section/55
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003, section 55
+
+> **Warning: changes not yet applied to this text (24).** Text as at 2013-09-16. See https://www.legislation.gov.uk/changes/affected/asp/2003/15
+>
+> Extent: Scotland.
+
+## 55. Powers of water bailiffs[^key-7e87dced2174cf88604ba072ee2652c7]
+
+*Extent: S*
+
+(1) Any water bailiff appointed by a district salmon fishery board may do within the district of that board all or any of the following things—
+
+- (a) examine any dam, fixed engine or obstruction, or any lade, and for that purpose enter on any land;
+- (b) stop and search any boat which is used in fishing or any boat which there is reasonable cause to suspect of containing salmon or trout;
+- (c) search and examine nets or other instruments used in fishing or any basket, pocket or other receptacle capable of carrying fish, which there is reasonable cause to suspect of containing salmon or trout illegally taken;
+- (d) seize any fish, instrument or article, boat or vehicle liable to be forfeited in pursuance of this Act.
+
+(2) A water bailiff appointed by a district salmon fishery board who has reasonable grounds for suspecting that an offence against any of the provisions of this Act has been committed and that evidence of the commission of the offence is to be found in any vehicle on any private land adjoining any water within the district of the district salmon fishery board by which that bailiff was appointed or any adjoining district or in any stationary vehicle on a road within the meaning of the Roads (Scotland) Act 1984 (c. 54) adjoining such water or such land, may search that vehicle.
+
+(3) Any water bailiff appointed by a district salmon fishery board may exercise in any district adjoining that of the board by which that bailiff was appointed any power which that bailiff may lawfully exercise in the district of such board.
+
+(4) The production by a water bailiff of the instrument of appointment purporting to be signed on behalf of the district salmon fishery board by which that bailiff was appointed, or of any badge or other device indicating such appointment and purporting to be issued by such board, shall be a sufficient warrant for the exercise of any power conferred on such water bailiff by or in pursuance of this Act.
+
+(5) The Scottish Ministers may appoint persons as water bailiffs, and any person so appointed may exercise any of the powers conferred by this Act on water bailiffs appointed by a district salmon fishery board, but only in relation to such district or part of a district as may be specified in the instrument of appointment; and the production of the instrument of appointment purporting to be signed by or on behalf of the Scottish Ministers shall be a sufficient warrant for the exercise of any such power.
+
+(6) It shall be lawful for a water bailiff, without any warrant or other authority than this Act, to seize and detain any person found committing an offence against any provision of this Act and to deliver such person to a constable.
+
+(7) For the purposes of this section and section 54 of this Act “**land**” includes land covered by water, but does not include a dwelling house or any yard, garden, outhouses and pertinents belonging thereto or usually enjoyed therewith.
+
+(8) This section is subject to section 56 of this Act.
+
+## Annotations
+
+[^key-7e87dced2174cf88604ba072ee2652c7]: Commencement: S. 55 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

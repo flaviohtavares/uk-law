@@ -1,0 +1,816 @@
+---
+title: The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Regulations 2010
+id: ssi/2010/426
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-11-30'
+text_date: '2024-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/426
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/426/pdfs/ssien_20100426_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/426/pdfs/ssi_20100426_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/426/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Regulations 2010
+
+> Text as at 2024-01-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 426
+
+Environmental Protection
+
+Flood Risk Management
+
+The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Regulations 2010
+
+Made
+
+30th November 2010
+
+Laid before the Scottish Parliament
+
+2nd December 2010
+
+Coming into force
+
+24th December 2010
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 15 and 60(2)(b) of, and paragraphs 13 and 14 of schedule 2 to, the Flood Risk Management (Scotland) Act 2009 [^c20611731] and of all other powers enabling them to do so.
+
+## PART I — GENERAL
+
+### 1. Citation and commencement
+
+These Regulations—
+
+- (a) may be cited as the Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Regulations 2010; and
+- (b) come into force on 24th December 2010.
+
+### 2. Interpretation
+
+In these Regulations—
+
+- “**the Act**” means the Flood Risk Management (Scotland) Act 2009;
+- “**the consultative body[^key-fb585e277bff3ebf38ea734a18920bf7]** ” means—
+  - (a) SEPA;
+  - (b) Scottish Natural Heritage;
+  - (c) Scottish Water;
+  - (d) any planning authority whose district is likely to be affected by the proposed flood protection scheme (other than the local authority proposing the scheme); and
+  - (e) any other body designated by statutory provision as having specific environmental responsibilities which, in the opinion of the local authority proposing the flood protection scheme, has an interest in relation to the environmental effects of that scheme;
+- “[^key-2b26507618fb5c2324d7d721ae9cd2b5]the Directive” means [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment;
+- “EIA report” means a report prepared in accordance with regulation 6;
+- “environmental information” means, in respect of a proposed scheme or a modified scheme—
+  - (a) the EIA report prepared in respect of the scheme;
+  - (b) any further information provided under regulation 5(3) and (4) in respect of the scheme;
+  - (c) any supplementary information obtained under regulation 6(5) in respect of the scheme;
+  - (d) any representations made by any consultative body, or other public body, consulted in respect of the scheme in accordance with these Regulations; and
+  - (e) any representations duly made by any other person about the environmental effects of the scheme;
+- “modified scheme” means, in relation to a proposed scheme by a local authority—
+  - (a) in a case where the local authority proposes to make a preliminary decision to confirm the proposed scheme with modifications under paragraph 5(1)(b) of schedule 2 of the Act, the scheme with those modifications;
+  - (b) in a case where the Scottish Ministers propose to confirm the proposed scheme with modifications under paragraph 7(4)(b) of schedule 2 of the Act, the scheme with those modifications; and
+  - (c) in a case where the local authority proposes to confirm the proposed scheme with modifications under paragraph 9(1)(b) of schedule 2 of the Act, the scheme with those modifications;
+- “proposed scheme” means a flood protection scheme proposed by a local authority pursuant to section 60(2) of the Act;
+- “relevant assessment” means, in relation to a proposed scheme or a modified scheme, an assessment or verification of effects on the environment carried out pursuant to national legislation which is relevant to the assessment of the environmental impacts of the scheme;
+- “the scheme” means the proposed scheme or the modified scheme in question;
+- “scheme operations” means, in relation to a proposed scheme or a modified scheme, operations described in the scheme;
+- [^key-b4d316f7073aade9e34e76ad77eded4d]...
+- “screening opinion”, in relation to a proposed scheme or a modified scheme, means a written statement of opinion as to whether the scheme is required to be subject to an environmental impact assessment;[^key-138134d64a5bff735e986bc074a7b0a7]
+- [^key-a71ffb72101f37180ca8ffe112be7a3d]...
+
+### 2A. Meaning of “environmental impact assessment”, etc.[^key-e6987dbcc00c67798254403e14993def]
+
+(1) In these Regulations “environmental impact assessment” means, in respect of a proposed scheme or a modified scheme, a process consisting of—
+
+- (a) the preparation of an EIA report in respect of the scheme;
+- (b) the carrying out of notifications in accordance with regulation 7 and, where relevant, regulation 8 (as read with paragraphs 1 to 3 of schedule 2 of the Act);
+- (c) the examination by the local authority or, as the case may be, the Scottish Ministers of the information presented in the EIA report and any other environmental information;
+- (d) the reasoned conclusion of the local authority or, as the case may be, the Scottish Ministers on the significant effects of the scheme on the environment, taking into account the results of the examination referred to in sub-paragraph (c); and
+- (e) the integration of the local authority’s or, as the case may be, the Scottish Ministers’ reasoned conclusion into the decision in respect of the scheme, notice of which is given in accordance with paragraph 10 of schedule 2 of the Act.
+
+(2) The environmental impact assessment must identify, describe and assess in an appropriate manner, in light of the circumstances relating to the scheme, the direct and indirect significant effects of the scheme on the factors specified in paragraph (3) and the interaction between those factors.
+
+(3) The factors are—
+
+- (a) population and human health;
+- (b) biodiversity, and in particular species and habitats protected under any[^key-a0ca6eb97d0810c979af99b4099487a7] assimilated[^key-085d038fb14365f90e0bac711f70f17b] law which implemented Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds;
+- (c) land, soil, water, air and climate; and
+- (d) material assets, cultural heritage and the landscape.
+
+(4) The effects to be identified, described and assessed under paragraph (2) include the expected effects deriving from the vulnerability of the scheme to risks, so far as relevant to the scheme, of major accidents and disasters.
+
+## PART II — ENVIRONMENTAL IMPACT ASSESSMENT
+
+### 3. Restrictions on confirming a proposed scheme or a modified scheme[^key-6ed9148cd518a98ec4e2d394090e075c]
+
+(1) A local authority must not—
+
+- (a) confirm a proposed scheme under paragraph 4(1) of schedule 2 of the Act;
+- (b) make a preliminary decision to confirm a proposed scheme (with or without modifications) under paragraph 5(1) of that schedule; or
+- (c) confirm a proposed scheme (with or without modifications) under paragraph 9(1) of that schedule,
+
+unless it has fulfilled its obligations under this Part in relation to the scheme.
+
+(2) The Scottish Ministers must not confirm a proposed scheme (with or without modifications) under paragraph 7(4) of schedule 2 of the Act unless the requirements of this Part have been fulfilled in relation to the scheme.
+
+### 4. Pre-notice requirements
+
+(1) Before notice is given in relation to a proposed scheme by a local authority under paragraph 1 of schedule 2 of the Act or, as the case may be, the proposed scheme with modifications under paragraph 7(5) or 9(3) of that schedule, the local authority must—
+
+- (a) determine, in accordance with paragraphs (2) and (3), whether the proposed scheme or, as the case may be, the modified scheme is required to be subject to an environmental impact assessment;
+- (b) where required, request and obtain a screening opinion from each consultative body in accordance with regulation 5; and
+- (c) where required, prepare an EIA report in accordance with regulation 6.
+
+(2) Where any of the scheme operations comprise a project described in Annex I of the Directive, the local authority must determine that the scheme is required to be subject to an environmental impact assessment.
+
+(3) Where paragraph (2) does not apply and any of the scheme operations comprise a project described in Annex II of the Directive, the local authority must determine whether the scheme is required to be subject to an environmental impact assessment—
+
+- (a) on the basis of the information compiled under paragraph (4); and
+- (b) taking into account the relevant selection criteria specified in schedule 1.
+
+(4) The following information must be compiled by the local authority taking into account, where relevant, the available results of any relevant assessment—
+
+- (a) a description of the location of the scheme, including a plan sufficient to identify—
+  - (i) the site which is the subject of the scheme; and
+  - (ii) any land that may be affected by the scheme, or over which access may be required;
+- (b) a description of the scheme, including in particular—
+  - (i) a description of the physical characteristics of the scheme and, where relevant, of demolition works; and
+  - (ii) a description of the location of the scheme, with particular regard to the environmental sensitivity of geographical areas likely to be affected;
+- (c) a description of the aspects of the environment likely to be significantly affected by the scheme; and
+- (d) a description of any likely significant effects (to the extent of the information available on such effects) of the scheme on the environment resulting from—
+  - (i) the expected residues and emissions and the production of waste, where relevant; and
+  - (ii) the use of natural resources, in particular soil, land, water and biodiversity.
+
+(5) The local authority must publish any determination made by it under this regulation, and that determination must—
+
+- (a) where the local authority determines that the scheme is required to be subject to an environmental impact assessment, state the main reasons for this determination with reference to the relevant selection criteria specified in schedule 1; and
+- (b) where the local authority determines that the scheme is not required to be subject to an environmental impact assessment—
+  - (i) state the main reasons for this determination with reference to the selection criteria specified in schedule 1; and
+  - (ii) where proposed, state any features of the scheme which are envisaged to avoid or prevent significant adverse effects on the environment.
+
+### 5. Screening by consultative bodies
+
+(1) Where a local authority determines that a proposed scheme or a modified scheme is not required to be subject to an environmental impact assessment, it must request and obtain a screening opinion from each consultative body.
+
+(2) Each request for a screening opinion must be accompanied by the information compiled by the local authority in respect of the scheme under regulation 4(4).
+
+(3) Each request for a screening opinion may be accompanied by such further information or representations as the local authority may wish to provide or make.
+
+(4) Within a period of 4 weeks beginning with the day on which the request is received by a consultative body, the consultative body must, if it considers that it has not been provided with sufficient information to give an opinion, give notice to the local authority of the particular matters on which it requires further information, and the local authority must provide such further information as it is reasonably able to provide.
+
+(5) When a consultative body considers that it has sufficient information it must give a screening opinion to the local authority which requested it within 4 weeks of whichever is the later of—
+
+- (a) the date of receipt of the request for a screening opinion; and
+- (b) the date by which it has received the further information referred to in paragraph (4).
+
+(6) Where any of the scheme operations comprise a project described in Annex I of the Directive, the screening opinion of the consultative body must state that the scheme is required to be subject to an environmental impact assessment.
+
+(7) Where paragraph (6) does not apply and any of the scheme operations comprise a project described in Annex II of the Directive, the consultative body must consider whether the scheme is required to be subject to an environmental impact assessment—
+
+- (a) on the basis of the following information in respect of the scheme:—
+  - (i) the information provided under paragraph (2);
+  - (ii) any information provided, and representations made, under paragraph (3); and
+  - (iii) any information provided under paragraph (4); and
+- (b) taking into account the relevant selection criteria specified in schedule 1.
+
+(8) A screening opinion by a consultative body must—
+
+- (a) where the consultative body considers that the scheme is required to be subject to an environmental impact assessment, state the main reasons for this opinion with reference to the relevant selection criteria specified in schedule 1; and
+- (b) where the consultative body considers that the scheme is not required to be subject to an environmental impact assessment—
+  - (i) state the main reasons for this opinion with reference to the selection criteria specified in schedule 1; and
+  - (ii) where proposed, state any features of the scheme which, in its opinion, would avoid or prevent significant adverse effects on the environment.
+
+(9) A local authority must publish each screening opinion given to it under paragraph (5).
+
+### 6. Preparation of EIA report
+
+(1) Where—
+
+- (a) pursuant to regulation 4(1)(a), a local authority determines that a proposed scheme or a modified scheme is required to be subject to an environmental impact assessment; or
+- (b) pursuant to regulation 4(1)(b), a screening opinion given to the local authority states that the scheme is required to be subject to such an assessment,
+
+the local authority must prepare an environmental impact assessment report (referred to in these Regulations as an “EIA report”).
+
+(2) The EIA report must include—
+
+- (a) a description of the scheme comprising information on the site, design, size and other relevant features of the scheme;
+- (b) a description of the likely significant effects of the scheme on the environment;
+- (c) a description of the features of the scheme and any measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment;
+- (d) a description of the reasonable alternatives studied by the local authority, which are relevant to the scheme and its specific characteristics, and an indication of the main reasons for the option chosen, taking into account the effects of the scheme on the environment;
+- (e) a non-technical summary of the information referred to in sub-paragraphs (a) to (d); and
+- (f) any additional information specified in schedule 2 relevant to the specific characteristics of the scheme or of the type of operations in the scheme in question and to the environmental features likely to be affected.
+
+(3) With a view to avoiding duplication of assessments, account is to be taken of the available results of other relevant assessments in preparing the EIA report.
+
+(4) In order to ensure the completeness and quality of the EIA report—
+
+- (a) the local authority must ensure that—
+  - (i) the report is prepared by competent experts; and
+  - (ii) it has, or has access to, sufficient expertise to examine the report; and
+- (b) the report must be accompanied by a statement from the local authority outlining the relevant expertise or qualifications of the competent experts who prepared it.
+
+(5) In order to ensure the completeness and quality of the EIA report, the local authority must where necessary, having regard in particular to current knowledge and methods of assessment, obtain supplementary information about any matter referred to in paragraph (2) which in the opinion of the local authority is directly relevant to reaching a reasoned conclusion on the significant effects of the scheme on the environment.
+
+(6) Where a local authority is required to prepare an EIA report in respect of a modified scheme, the local authority may prepare the report by updating an EIA report previously prepared (if any) in respect of the proposed scheme (without modifications) so as to take account of the proposed modifications.
+
+### 7. Notification of proposed scheme etc. by local authority
+
+(1) Where, pursuant to regulation 6(1), a local authority is required to prepare an EIA report in respect of a proposed scheme, it must ensure that each notice of the proposed scheme given under paragraph 1 of schedule 2 of the Act also gives notice of the following matters (in so far as these matters are not already required to be contained in each notice)—
+
+- (a) that the local authority proposes to make the scheme;
+- (b) the proposed location and nature of the scheme;
+- (c) that the scheme is subject to an environmental impact assessment;
+- (d) that the local authority is responsible for taking any decision to confirm the scheme in accordance with paragraph 4(1) or 9(1) of schedule 2 of the Act, whereas the Scottish Ministers are responsible for taking any decision to confirm the scheme in accordance with paragraph 7(4) of that schedule;
+- (e) if the scheme is confirmed, the Scottish Ministers must direct that planning permission for the development be deemed to be granted, subject to such conditions (if any) as may be specified in the direction;
+- (f) that any person wishing to make any representations about the EIA report may do so in writing to the local authority before the expiry of the 30-day period;
+- (g) that any such representations about the EIA report which are received by the local authority within the 30-day period will be considered before any decision is made on whether to confirm the scheme;
+- (h) that the local authority uses a website for the purpose of giving information on each scheme proposed by it which is subject to an environmental impact assessment;
+- (i) the address of the website where a copy of the scheme and a copy of the EIA report will be available for inspection by the public during the 30-day period;
+- (j) an address (within the area of the local authority) at which a copy of the proposed scheme and a copy of the EIA report may be inspected during the 30-day period;
+- (k) the times at which a copy of the proposed scheme and a copy of the EIA report may be inspected at that address during the 30-day period;
+- (l) an address (within the area of the local authority) from which—
+  - (i) copies of the EIA report may be obtained; and
+  - (ii) information about the scheme may be requested,
+
+  during the 30-day period; and
+- (m) if a charge is to be made for a copy of the EIA report, the amount of the charge.
+
+(2) The local authority must ensure that throughout the 30-day period—
+
+- (a) it uses a website for the purpose of making information available to the public on each scheme proposed by it which is subject to an environmental impact assessment;
+- (b) a copy of the proposed scheme and a copy of the EIA report are both available for inspection by any person free of charge—
+  - (i) at the website address specified pursuant to paragraph (1)(i); and
+  - (ii) at all reasonable hours at the address specified pursuant to paragraph (1)(j); and
+- (c) a copy of the EIA report is available to be obtained by any person from the address specified pursuant to paragraph (1)(l).
+
+(3) The local authority must ensure that—
+
+- (a) notice of the proposed scheme given under paragraph 1(1) of schedule 2 of the Act is, in so far as it is not otherwise required, also given to each consultative body;
+- (b) a copy of the EIA report and other information gathered pursuant to regulation 6 is provided to each consultative body on or before the date on which the notice referred to in sub-paragraph (a) is given to the consultative body; and
+- (c) throughout the 30-day period, a copy of the EIA report is available for inspection alongside each set of scheme documents that are required to be made available in accordance with paragraph 2 of schedule 2 of the Act.
+
+(4) A reasonable charge reflecting the costs of printing, copying and distribution may be made by the local authority for the supply of a copy of the EIA report—
+
+- (a) to a person other than a consultative body; or
+- (b) to a consultative body to which one copy has already been supplied free of charge.
+
+(5) The local authority—
+
+- (a) must not make a decision to confirm the scheme under paragraph 4(1), 5(1) or 9(1) of schedule 2 of the Act before the expiry of the 30-day period; and
+- (b) must, before taking any such decision—
+  - (i) consider any written representations about the EIA report which it receives within the 30-day period; and
+  - (ii) take into account other environmental information in respect of the scheme; and
+- (c) must, when taking any such decision, be satisfied that the reasoned conclusion (referred to in regulation 2A(1)(d)) in respect of the scheme is still up to date.
+
+(6) Where the local authority obtains supplementary information under regulation 6(5) and this information is reasonably required to give proper consideration to the likely environmental effects of the scheme, a reference to the EIA report in paragraphs (1) to (5) and in regulation 9 is a reference to the EIA report together with any such supplementary information.
+
+(7) In this regulation—
+
+- “the 30-day period” means the period of 30 days beginning with the first day on which notice of the proposed scheme is given in accordance with sub-paragraphs (1) and (2) of paragraph 1 of schedule 2 of the Act; and
+- “website” means the website referred to in paragraph (2)(a).
+
+### 8. Notification of modified scheme etc. by local authority
+
+(1) Where, pursuant to regulation 6(1), a local authority is required to prepare an EIA report in respect of a modified scheme, paragraphs 1 to 3 of schedule 2 of the Act and regulation 7 apply to the modified scheme as they apply to a proposed scheme.
+
+(2) Where, by virtue of paragraph (1), a local authority is required to give notice (“the notice”) of a modified scheme in accordance with paragraph 1 of schedule 2 of the Act—
+
+- (a) it must give the notice on or before the day on which any other notice is given in relation to the proposed modifications to the proposed scheme under paragraph 7(5) or, as the case may be, paragraph 9(3) of that schedule; and
+- (b) the notice must (in addition to any other matters)—
+  - (i) give notice of the proposed modifications to the proposed scheme;
+  - (ii) describe the proposed modifications; and
+  - (iii) explain the reasons for the modifications.
+
+### 9. Consideration of modified scheme etc. by the Scottish Ministers
+
+(1) Before giving notice under paragraph 7(5) of schedule 2 of the Act of proposed modifications to a proposed scheme by a local authority, the Scottish Ministers must by notice to the local authority—
+
+- (a) state that they propose to confirm the scheme with modifications;
+- (b) describe the proposed modifications; and
+- (c) explain the reasons for the modifications.
+
+(2) Where the local authority is not required to prepare an EIA report in respect of the modified scheme, it must send to the Scottish Ministers a copy of—
+
+- (a) its determination under regulation 4(5); and
+- (b) each screening opinion received under regulation 5(5),
+
+in respect of the modified scheme.
+
+(3) Where the local authority is required to prepare an EIA report in respect of the modified scheme, it must send to the Scottish Ministers a copy of—
+
+- (a) the EIA report;
+- (b) the notice of the modified scheme given, or to be given, by it under paragraph 1(1) of schedule 2 of the Act (pursuant to regulation 8(1));
+- (c) any written representations about the EIA report which it receives within the 30-day period;
+- (d) any valid objections to the modified scheme which it receives; and
+- (e) any late objection to the modified scheme which it receives, if satisfied that it was reasonable for the objector to make the objection after the deadline for doing so.
+
+(4) The Scottish Ministers must not give notice under paragraph 7(5) of schedule 2 of the Act in relation to a modified scheme until they have received, pursuant to paragraph (2) or (3), a copy of the determination and screening opinions or, as the case may be, the EIA report.
+
+(5) Where the local authority is required to prepare an EIA report in respect of the modified scheme, the Scottish Ministers—
+
+- (a) must not make a decision to confirm the scheme under paragraph 7(4) of schedule 2 of the Act before the expiry of the 30-day period; and
+- (b) must, before taking any such decision, (in addition to considering any objection made pursuant to paragraph 7(5) of schedule 2 of the Act)—
+  - (i) consider any written representations about the EIA report which the local authority receives within the 30-day period;
+  - (ii) take into account any other environmental information in respect of the scheme;
+  - (iii) consider any valid objections to the modified scheme (unless withdrawn) which the local authority receives; and
+  - (iv) consider any late objection to the modified scheme received from the local authority; and
+- (c) must, when taking any such decision, be satisfied that the reasoned conclusion (referred to in regulation 2A(1)(d)) in respect of the scheme is still up to date.
+
+(6) In paragraphs (3) and (5), “the 30-day period” means the period of 30 days beginning with the first day on which notice of the modified scheme is given (pursuant to regulation 8(1)) in accordance with sub-paragraphs (1) and (2) of paragraph 1 of schedule 2 of the Act.
+
+### 10. Decision notice: supplementary
+
+(1) Paragraphs (2) to (8) apply where a local authority is required to prepare an EIA report in respect of a proposed scheme or a modified scheme and either—
+
+- (a) the local authority makes a decision to confirm or reject the scheme under paragraph 4(1) or 9(1) of schedule 2 of the Act; or
+- (b) the Scottish Ministers make a decision to confirm or reject the scheme under paragraph 7(4) of that schedule.
+
+(2) Where the Scottish Ministers make the decision under paragraph 7(4) of schedule 2 of the Act, they must inform the local authority of the decision.
+
+(3) The decision notice must include the information specified in paragraph (4).
+
+(4) The information is—
+
+- (a) a description of the scheme;
+- (b) the terms of the decision;
+- (c) the main reasons and considerations on which the decision is based;
+- (d) information about the arrangements taken to ensure the public had the opportunity to participate in the decision making procedures;
+- (e) a summary of—
+  - (i) the environmental information in respect of the scheme; and
+  - (ii) the results of the consultations and information gathered pursuant to regulations 6 to 8 (as read with paragraphs 1 to 3 of schedule 2 of the Act) and how those results have been incorporated or otherwise addressed;
+- (f) if the decision is to confirm the scheme—
+  - (i) the reasoned conclusion (referred to in regulation 2A(1)(d)) in respect of the scheme;
+  - (ii) a statement that the local authority is or, as the case may be, the Scottish Ministers are satisfied that the reasoned conclusion is still up to date;
+  - (iii) a description of any mitigation measures; and
+  - (iv) a description of any monitoring measures required under regulation 10A; and
+- (g) information regarding the right to challenge the validity of the decision and the procedures for doing so.
+
+(5) As soon reasonably practicable after the decision is made in respect of the scheme—
+
+- (a) the decision notice must be given by the local authority in accordance with paragraph 10 of schedule 2 of the Act (as read with paragraphs (3) and (4)); and
+- (b) the local authority must—
+  - (i) send a copy of the decision notice to the Scottish Ministers;
+  - (ii) inform the public and each consultative body of the decision and where a copy of decision notice may be inspected, by publishing a notice on a website which is accessible to the public or in a newspaper circulating in the locality of the scheme or by such other means as are reasonable in the circumstances; and
+  - (iii) make a copy of the decision notice available for public inspection at an office of the local authority and on a website which is accessible to the public.
+
+(6) For the purposes of paragraph (4)(f)(i), the reasoned conclusion is still up to date if the local authority is or, as the case may be, the Scottish Ministers are satisfied, having regard to current knowledge and methods of assessment, that the reasoned conclusion addresses the likely significant effects on the environment of the scheme.
+
+(7) In this regulation “the decision notice”, in respect of a proposed scheme or a modified scheme, means the notice of the decision in respect of the scheme under paragraph 10(1) of schedule 2 of the Act.
+
+(8) In this regulation and in regulation 10A—
+
+- “mitigation measures” means any features of the scheme and any measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment of the scheme; and
+- “monitoring measures” means measures requiring the monitoring of any significant adverse effects on the environment of the scheme.
+
+### 10A. Monitoring measures, etc.
+
+(1) Where a local authority is required to prepare an EIA report in respect of a proposed scheme and either—
+
+- (a) the local authority is, in respect of the scheme, required to—
+  - (i) make a preliminary decision under paragraph 5(1) of schedule 2 of the Act; or
+  - (ii) make a final decision under paragraph 9(1) of that schedule; or
+- (b) the Scottish Ministers are required to make a decision under paragraph 7(4) of schedule 2 of the Act in respect of the scheme,
+
+the local authority or, as the case may be, the Scottish Ministers must consider (without prejudice to any other matters to be considered) whether it is appropriate to make modifications to the scheme so as to require monitoring measures to be carried out.
+
+(2) When considering whether to make such modifications, and the nature of any such monitoring measures, the local authority or the Scottish Ministers must consider—
+
+- (a) whether monitoring measures are proportionate to the nature, location and size of the scheme and the significance of its effects on the environment having regard in particular to the type of parameters to be monitored and the duration of the monitoring;
+- (b) in order to avoid duplication of monitoring, whether monitoring arrangements required under assimilated[^key-7ecfeb114291d30da1c54162f3bf7fc9][^key-bd7365c21d4ef724e36db987f3cd57ba] law (other than legislation implementing the requirements of the Directive) or other legislation applicable in Scotland are more appropriate; and
+- (c) if monitoring measures are to be required, whether provision should be made to require appropriate remedial action.
+
+(3) Where the local authority considers or, as the case may be, the Scottish Ministers consider that it is appropriate to make modifications to the scheme so as to require monitoring measures to be carried out, the local authority or, as the case may be, the Scottish Ministers must do so.
+
+(4) If the scheme is confirmed, the Scottish Ministers must, when giving a direction under section 57(2B) of the Town and Country Planning (Scotland) Act 1997 in relation to the scheme, consider whether it is appropriate to direct that planning permission is deemed to be granted subject to conditions which require monitoring measures to be carried out.
+
+(5) When considering whether to include any such conditions in the direction, and the nature of any such monitoring measures, the Scottish Ministers must consider the matters specified in sub-paragraphs (a) to (c) of paragraph (2).
+
+(6) Where the Scottish Ministers consider that it is appropriate to include such conditions in the direction, they must do so.
+
+(7) As soon reasonably practicable after receiving a direction under section 57(2B) of the Town and Country Planning (Scotland) Act 1997 in relation to the scheme, the local authority must—
+
+- (a) inform the public and each consultative body of the direction and where a copy of the direction may be inspected, by publishing a notice on a website which is accessible to the public or in a newspaper circulating in the locality of the scheme or by such other means as are reasonable in the circumstances; and
+- (b) make a copy of the direction available for public inspection at an office of the local authority and on a website which is accessible to the public.
+
+(8) Where mitigation measures or monitoring measures are—
+
+- (a) contained in a proposed scheme or a modified scheme which has been confirmed under paragraph 4(1), 7(4) or 9(1) of schedule 2 of the Act; or
+- (b) specified as conditions in a direction under section 57(2B) of the Town and Country Planning (Scotland) Act 1997 in relation to the scheme,
+
+the local authority must take steps to ensure that those measures are implemented.
+
+### 10B. Co-ordination of assessments
+
+(1) Where, pursuant to regulation 6(1), a proposed scheme or a modified scheme is required to be subject to an environmental impact assessment and there is, in addition, a requirement to carry out a Habitats Regulation Assessment in respect of the scheme operations, the local authority must, where appropriate, ensure that the Habitats Regulation Assessment and the environmental impact assessment are co-ordinated.
+
+(2) In paragraph (1) “Habitats Regulation Assessment” means an assessment under regulation 48 of the Conservation (Natural Habitats, &c.) Regulations 1994.
+
+### 10C. Avoidance of conflict of interest
+
+(1) A local authority must perform its duties under this Part in an objective manner and so as not to find itself in a situation giving rise to a conflict of interest.
+
+(2) Where a local authority is responsible for taking a decision on whether or not to confirm a proposed scheme under paragraph 4(1), 5(1) or 9(1) of schedule 2 of the Act, it must implement (within its organisation of administrative competencies) an appropriate separation between conflicting functions when performing its duties under this Part.
+
+### 10D. Offence: provision of false etc. information
+
+(1) A person commits an offence if that person, for the purpose of procuring a particular decision under this Part or under schedule 2 of the Act in connection with a proposed scheme, a modified scheme, or an EIA report (including its scope and content)—
+
+- (a) knowingly or recklessly makes a statement which is false or misleading in a material particular;
+- (b) with intent to deceive, uses any document which is false or misleading in a material particular; or
+- (c) with intent to deceive, withholds any material information.
+
+(2) A person who commits an offence under paragraph (1) is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+(3) No act or omission of the Crown constitutes an offence under this regulation.
+
+(4) The Court of Session may, on the application of the Scottish Ministers, the chief constable or any other public body or office-holder having responsibility for enforcing this Part, declare unlawful any act or omission of the Crown which would but for paragraph (3) be an offence under this regulation.
+
+(5) Despite paragraph (3), this regulation applies to a person in the public service of the Crown as it applies to other persons.
+
+### 10E. Offences by bodies corporate etc.
+
+(1) Where—
+
+- (a) an offence under regulation 10D has been committed by a body corporate or a Scottish partnership or other unincorporated association; and
+- (b) it is proved that the offence was committed with the consent or connivance of, or was attributable to neglect on the part of—
+  - (i) a relevant individual; or
+  - (ii) an individual purporting to act in the capacity of a relevant individual,
+
+the individual as well as the body corporate, Scottish partnership or unincorporated association commits an offence and is liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1), “relevant individual” means—
+
+- (a) in relation to a body corporate—
+  - (i) a director, manager, secretary or similar officer of the body; or
+  - (ii) where the affairs of the body are managed by its members, a member;
+- (b) in relation to a Scottish partnership, a partner; and
+- (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+## PART III — SCHEME DOCUMENTS
+
+### 11. Maps, plans and specifications
+
+(1) A proposed scheme or, as the case may be, a modified scheme[^key-50e8f955cc080e85e07a263ae9e3b23a] must include a description, by reference to maps, plans and specifications, of—
+
+- (a) the extent and scale of the scheme operations;
+- (b) the land which the local authority considers may be affected by those operations; and
+- (c) any land on which the local authority would require to enter (whether temporarily or otherwise) for the purposes of carrying out the operations.
+
+(2) The maps and plans referred to in paragraph (1) must be at an appropriate scale to enable interested persons to identify whether their land will be affected by the scheme operations.
+
+(3) The proposed scheme or, as the case may be, the modified scheme[^key-e7043aa17a6499dd329cfcb8de791a51] must include an estimate of the cost of the scheme operations proposed to be carried out.
+
+## PART IV — FURTHER PROCEDURAL PROVISIONS
+
+### 12. Objections
+
+(1) Any objection to a proposed scheme or a modified scheme[^key-fca2e9fc0384caca91462ff9919334d5] under paragraph 3 of schedule 2 to the Act must be accompanied by a statement of the reasons for the objection.
+
+(2) Where an objector under paragraph 3 of schedule 2 to the Act has an interest in any land on which the scheme[^key-942551ac66ceef48e8aa49d1a521d011] operations are to be carried out or which may be affected by any of the scheme operations, or by any alteration in the flow of water caused by any of the scheme operations[^key-7c11a0cb7c5b0725bcc10745bf64aefe], that person's objection must include—
+
+- (a) details of the land in which the objector has an interest;
+- (b) disclosure of the nature of the objector's interest in the land; and
+- (c) details of which aspects of the scheme operations affect the objector.
+
+### 13. Withdrawal of objections
+
+(1) Where a local authority confirms a proposed scheme with modifications under paragraph 5(1)(b) of schedule 2 to the Act it must, when giving notice of that decision in accordance with paragraph 5(3) of that schedule, offer any person who made an objection the opportunity to withdraw that objection in writing.
+
+(2) Where all relevant objectors (within the meaning of paragraph 5(4) of Schedule 2 to the Act) withdraw their objections following notification, in accordance with paragraph (1), of a local authority's decision, the duty of the local authority to give the Scottish Ministers notice of its decision under paragraph 5(5) of schedule 2 to the Act does not apply.
+
+(3) A withdrawal of an objection which is made by electronic means is to be treated as being in writing if it is received in a form which is legible and capable of being used for subsequent reference.
+
+### 14. Deemed planning permission
+
+(1) Where a local authority confirms a proposed scheme or a modified scheme[^key-8da95700cef967e45b36dc33ade254e6] under paragraph 4(1) or 9(1) of schedule 2 to the Act, it must request that the Scottish Ministers direct that planning permission for any development described in the scheme is to be deemed to be granted.
+
+(2) A request under paragraph (1) must be made to the Scottish Ministers in writing and must be accompanied by—
+
+- (a) a brief description of the nature and purpose of the confirmed scheme;
+- (b) a copy of the confirmed scheme;
+- (c) a summary of the scheme documents; and
+- (d) a summary of the EIA[^key-47bbe6de9de066df9adf376c5ccabc5d] report (if any).
+
+(3) A request under paragraph (1) may be accompanied by any other material which the local authority considers relevant to the grant of deemed planning permission.
+
+### 15. Service of notices
+
+(1) Any notice or other document to be sent, served or given under these Regulations or under schedule 2 to the Act may be sent, served or given either—
+
+- (a) by delivering it to the person on whom it is to be served or to whom it is to be given;
+- (b) by leaving it at the usual or last known place of abode of that person, or, in a case where an address for service has been given by that person, at that address;
+- (c) by sending it in a prepaid registered letter, or by the recorded delivery service, addressed to that person at their usual or last known place of abode, or, in a case where an address for service has been given by that person, at that address;
+- (d) in the case of an incorporated company or body, by delivering it to the secretary or clerk of the company or body at its registered or principal office, or by sending it in a prepaid registered letter, or by the recorded delivery service, addressed to the secretary or clerk of the company or body at that office; or
+- (e) in a case where an address for service using electronic communications has been given by that person, by sending it using electronic communications, in accordance with the condition set out in paragraph (2), to that person at that address.
+
+(2) The condition mentioned in paragraph (1)(e) is that the notice or other document must be—
+
+- (a) capable of being accessed by the person mentioned in that provision;
+- (b) legible in all material respects; and
+- (c) in a form sufficiently permanent to be used for subsequent reference,
+
+and for this purpose “**legible in all material respects**” means that the information contained in the notice or document is available to that person to no lesser extent than it would be if served or given by means of a notice or document in printed form.
+
+## PART V — POTENTIALLY VULNERABLE AREAS AND LOCAL PLAN DISTRICTS
+
+### 16. Publicity and consultation for documents identifying potentially vulnerable areas and local plan districts
+
+(1) SEPA must comply with paragraphs (2) to (6) before submitting to the Scottish Ministers—
+
+- (a) a document identifying, in accordance with section 13 of the Act—
+  - (i) areas in a flood risk management district for which it considers that significant flood risk exists or is likely to occur; and
+  - (ii) areas around such an area for the purpose of preparing local flood risk management plans; or
+- (b) an updated document in accordance with section 14 of the Act.
+
+(2) When preparing a document referred to in paragraph (1), SEPA must consult—
+
+- (a) every responsible authority which has functions exercisable in or in relation to the areas identified by the draft document;
+- (b) every category 1 responder (other than a responder which is a responsible authority) which has functions in relation to the areas identified by the draft document;
+- (c) Scottish Natural Heritage;
+- (d) where any part of the areas identified by the draft document has been designated as a National Park, the National Park authority for the National Park; and
+- (e) such other persons as SEPA considers appropriate.
+
+(3) SEPA must prepare a draft of the document referred to in paragraph (1) and publish details of the draft document—
+
+- (a) in at least one newspaper circulating within the areas identified by the draft document; and
+- (b) in such other media as SEPA considers appropriate for the purpose of bringing the draft document to the attention of individuals or bodies likely to be affected or to have an interest.
+
+(4) The details published under paragraph (3) must include—
+
+- (a) a summary of the nature and purpose of the draft document;
+- (b) the areas identified by the draft document;
+- (c) the location where a copy of the draft document may be inspected by the public;
+- (d) the period, being a period of not less than 2 months from the date on which the details are first published in accordance with paragraph (3)(a), within which representations about the draft document can be made to SEPA; and
+- (e) information about how representations may be made to SEPA.
+
+(5) SEPA must make a copy of the draft document referred to in paragraph (3) available to the public at all reasonable times during the period specified by SEPA in accordance with paragraph (4)(d).
+
+(6) In finalising the document referred to in paragraph (1) for submission to the Scottish Ministers, SEPA must take into account—
+
+- (a) any views on the draft of the document expressed by those consulted under paragraph (2); and
+- (b) any representations made about the draft document which are received by SEPA before the expiry of the period specified under paragraph (4)(d).
+
+(7) Where documents referred to in this regulation relate to a Scottish cross border area, this regulation has effect as if each reference to the Scottish Ministers is a reference to the Scottish Ministers and the Secretary of State.
+
+### 17. Submission of documents identifying potentially vulnerable areas and local plan districts
+
+(1) SEPA must prepare and submit the documents referred to in section 13 of the Act to the Scottish Ministers by 22nd September 2011.
+
+(2) SEPA must review, update where appropriate, and submit to the Scottish Ministers any documents approved under section 13 of the Act by 22nd September 2018 and by the end of every period of six years thereafter.
+
+(3) When submitting any document to the Scottish Ministers in accordance with section 13 or 14 of the Act, SEPA must also submit-
+
+- (a) a summary of the actions taken by SEPA to publicise and consult on a draft of the document in accordance with regulation 16;
+- (b) a summary of the views expressed by those consulted and the representations received (if any); and
+- (c) a statement of any modifications made to the document in response to such views or representations.
+
+(4) SEPA must make a copy of any document that it submits to the Scottish Ministers in accordance with section 13 or 14 of the Act, and the supporting documents referred to at paragraph (3) above, available to the public at all reasonable times.
+
+(5) SEPA must—
+
+- (a) publish details of the documents that it has submitted to the Scottish Ministers—
+  - (i) in at least one newspaper circulating within the areas identified by the draft document; and
+  - (ii) in such other media as SEPA considers appropriate for the purpose of bringing the document to the attention of individuals or bodies likely to be affected or to have an interest; and
+- (b) give notice of the document that it has submitted to the Scottish Ministers to every local authority whose area falls wholly or partly within the areas identified by the document.
+
+(6) The details published under paragraph (5)(a) must include—
+
+- (a) a summary of the nature and purpose of the document submitted to the Scottish Ministers;
+- (b) the areas identified by the document;
+- (c) details of any supporting documents submitted with the document; and
+- (d) the location where a copy of the document and any supporting documents may be inspected by the public.
+
+(7) Where documents referred to in this regulation relate to a Scottish cross border area, this regulation shall have effect as if each reference to the Scottish Ministers is a reference to the Scottish Ministers and the Secretary of State.
+
+R CUNNINGHAM
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — SELECTION CRITERIA[^key-3232d57f4b521efa3403f50ddc41a973]
+
+Regulations 4(3) and 5
+
+### 1. Characteristics of scheme
+
+The characteristics of the scheme must be considered having regard, in particular, to—
+
+- (a) the size and design of the scheme;
+- (b) cumulation with other existing and/or approved projects;
+- (c) the use of natural resources, in particular land, soil, water and biodiversity;
+- (d) the production of waste;
+- (e) pollution and nuisances;
+- (f) the risk of major accidents and/or disasters which are relevant to the scheme, including those caused by climate change, in accordance with scientific knowledge;
+- (g) the risks to human health (for example due to water contamination or air pollution).
+
+### 2. Location of scheme
+
+The environmental sensitivity of geographical areas likely to be affected by the scheme must be considered having regard, in particular, to—
+
+- (a) the existing and approved land use;
+- (b) the relative abundance, availability, quality and regenerative capacity of natural resources (including soil, land, water and biodiversity) in the area and its underground; and
+- (c) the absorption capacity of the natural environment, paying particular attention to the following areas—
+  - (i) wetlands, riparian areas, river mouths;
+  - (ii) coastal zones and the marine environment;
+  - (iii) mountain and forest areas;
+  - (iv) nature reserves and parks;
+  - (v) European sites and other areas classified or protected under national legislation;
+  - (vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in retained EU law[^key-ff2d887b5011ed073fa19b810f396b22] and relevant to the scheme, or in which it is considered that there is such a failure;
+  - (vii) densely populated areas;
+  - (viii) landscapes and sites of historical, cultural or archaeological significance.
+
+### 3. Characteristics of the potential impact
+
+The likely significant effects of the scheme on the environment must be considered in relation to the criteria specified in paragraphs 1 and 2, with regard to the impact of the scheme on the factors specified in regulation 2A(3), taking into account—
+
+- (a) the magnitude and spatial extent of the impact (for example geographical area and size of the population likely to be affected);
+- (b) the nature of the impact;
+- (c) the transboundary nature of the impact;
+- (d) the intensity and complexity of the impact;
+- (e) the probability of the impact;
+- (f) the expected onset, duration, frequency and reversibility of the impact;
+- (g) the cumulation of the impact with the impact of other existing and/or approved projects;
+- (h) the possibility of effectively reducing the impact.
+
+### 4. Interpretation of schedule 1
+
+In this schedule—
+
+- “European site” has the meaning given in regulation 10 of the Conservation (Natural Habitats, &c.) Regulations 1994; and
+- “projects” means—
+  - (a) the execution of construction works or of other installations or schemes; and
+  - (b) other interventions in the natural surroundings and landscape including those involving the extraction of mineral resources.
+
+## SCHEDULE 2 — INFORMATION FOR INCLUSION IN EIA REPORTS[^key-ba0a45979942eff981bdf78acc8fc693]
+
+Regulation 6(2)(f)
+
+**1.** A description of the scheme, including in particular:
+
+- (a) a description of the location of the scheme;
+- (b) a description of the physical characteristics of all the works covered by the scheme, including, where relevant, demolition works, and the land use requirements during the construction and operational phases;
+- (c) a description of the main characteristics of the operational phase of the scheme (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
+- (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
+
+**2.** A description of the reasonable alternatives (for example in terms of scheme design, technology, location, size and scale) studied by the local authority which proposed the scheme, which are relevant to the scheme and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+
+**3.** A description of the relevant aspects of the current state of the environment (the “baseline scenario”) and an outline of the likely evolution thereof without implementation of the scheme as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+
+**4.** A description of the factors specified in regulation 2A(3) likely to be significantly affected by the scheme: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+
+**5.** (1) A description of the likely significant effects of the scheme on the environment resulting from, inter alia:
+
+- (a) the construction and existence of the scheme, including, where relevant, demolition works;
+- (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
+- (c) the emission of pollutants, noise, vibration, light, heat and radiation, the creation of nuisances, and the disposal and recovery of waste;
+- (d) the risks to human health, cultural heritage or the environment (for example due to accidents or disasters);
+- (e) the cumulation of effects with other existing and/or approved projects taking into account any existing environmental problems relating to areas of particular environmental importance likely to be affected or the use of natural resources;
+- (f) the impact of the proposed scheme on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the scheme to climate change;
+- (g) the technologies and the substances used.
+
+(2) The description of the likely significant effects on the factors specified in regulation 2A(3) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the scheme. This description should take into account the environmental protection objectives in[^key-3ca23ccf597d774ba7191c84385ede12] assimilated[^key-243bc564ba7c0bfc555089ea4e7442b8] law or otherwise under the law of any part of the United Kingdom which are relevant to the scheme including in particular those established under any law in Scotland which implemented[^key-0477f36e65a47f70b90b5916a23afe82] Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds.
+
+(3) In sub-paragraph (1) “projects” means—
+
+- (a) the execution of construction works or of other installations or schemes; and
+- (b) other interventions in the natural surroundings and landscape including those involving the extraction of mineral resources.
+
+**6.** A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+
+**7.** A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-scheme analysis). That description should explain the extent, to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+
+**8.** A description of the expected significant adverse effects of the scheme on the environment deriving from the vulnerability of the scheme to risks of major accidents and/or disasters which are relevant to the scheme. Relevant information available and obtained pursuant to any law which implemented[^key-decc7442831099abe73d9bfddef2ae8d] [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council [Directive 96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) or Council Directive 2009/71/Euratom establishing a Community framework for the nuclear safety of nuclear installations or relevant assessments may be used for this purpose provided that the requirements of these Regulations are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+
+**9.** A non-technical summary of the information provided under paragraphs 1 to 8.
+
+**10.** A reference list detailing the sources used for the descriptions and assessments included in the EIA report in respect of the scheme.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision in relation to flood protection schemes, potentially vulnerable areas, and local plan districts under the Flood Risk Management (Scotland) Act 2009 (“**the Act**”).
+
+A flood protection scheme is a scheme prepared by a local authority in accordance with section 60 of the Act for the management of flood risk within the authority's area.
+
+Potentially vulnerable areas are areas identified by the Scottish Environment Protection Agency (“SEPA”) in accordance with section 13 of the Act where SEPA considers that significant flood risk exists or is likely to occur.
+
+Local Plan Districts are areas around potentially vulnerable areas that SEPA must identify in accordance with section 13 of the Act for the purpose of preparing local flood risk management plans.
+
+The Regulations comprise five parts and two schedules.
+
+**Part I – General**
+
+This part defines various terms used in the Regulations.
+
+**Part II – Environmental Impact Assessment**
+
+Part II makes provision about the assessment of the environmental effects of flood protection schemes.
+
+Regulation 4 requires local authorities, at key stages of the confirmation process, to consider whether a scheme is likely to have a significant effect on the environment. In the event that a local authority considers that a scheme is not likely to have a significant effect on the environment, the local authority is required by Regulation 5 to obtain a second or “screening” opinion from certain specified bodies.
+
+If the local authority or one of the bodies that has given a screening opinion thinks that the scheme is likely to have a significant effect on the environment, regulation 6 requires the local authority to prepare an environmental statement assessing the scheme's environmental effects.
+
+Regulations 7 and 8 impose certain additional notification requirements where an environmental statement has been prepared that are intended to bring the environmental sensitivity of the scheme to the attention of interested parties and specified public bodies. Where the Scottish Ministers direct that planning permission is deemed to be granted for a flood protection scheme that is likely to have a significant effect on the environment, but require a local authority to submit further details of the scheme for approval, regulation 9 also imposes notification requirements at that stage.
+
+Regulation 10 requires local authorities and, where applicable, the Scottish Ministers to take the environmental statement (and any representations or objections made in response to it) into account when deciding whether or not to confirm a flood protection scheme or a modification of it. Similar requirements apply to the Scottish Ministers and planning authorities when they are approving further details of a scheme that have been submitted in compliance with a condition of deemed planning permission.
+
+**Part III – Scheme Documents**
+
+This part of the Regulations specifies the information that flood protection schemes must, as a minimum, include by way of maps, plans and specifications.
+
+**Part IV – Further Procedural Provisions**
+
+Part IV of the Regulations makes further procedural provision regarding flood protection schemes.
+
+Regulation 12 requires that objections to a proposed flood protection scheme, in addition to meeting the requirements of paragraph 3 of schedule 2 to the Act, must be accompanied by a statement of reasons. It also requires objectors to disclose the nature of their interest (if any) in land affected by operations to be carried out under the scheme.
+
+Regulation 13 provides for objectors to be given the opportunity to withdraw their objections following modification of a scheme.
+
+By virtue of section 65 of the Act (which amends the Town and Country Planning (Scotland) Act 1997), where a local authority confirms a flood protection scheme under paragraph 4(1) or 9(1) of schedule 2 to the Act, the Scottish Ministers must direct that planning permission be granted for scheme operations that would constitute development under the 1997 Act. Regulation 14 requires local authorities to request such a direction from the Scottish Ministers and makes provision about the form of such a request.
+
+Regulation 15 makes provision about methods of service of notices or other documents under these Regulations or schedule 2 to the Act.
+
+**Part V – Potentially Vulnerable Areas and Local Plan Districts**
+
+Section 13 of the Act requires SEPA to prepare and submit to the Scottish Ministers a document identifying for each flood risk management district any area for which it considers that significant flood risk exists or is likely to occur (a “potentially vulnerable area”). The document must also identify areas around those areas for the purpose of preparing local flood risk management plans “(local plan districts”). Part V of the Regulations sets out consultation and publicity requirements for this document and requires that a copy be made available to the public.
+
+Regulation 16 obliges SEPA to take account of consultee views and any representations before submitting the document to the Scottish Ministers.
+
+Regulation 17 sets deadlines for submission by SEPA of the document and updates of it, and requires that SEPA provide information about the consultation and publication process. It requires SEPA to publish details of the document that it submits to the Scottish Ministers, so as to bring it to the attention of those persons likely to be affected by it.
+
+**Schedule 1**
+
+Schedule 1 lists the matters to be taken into account by local authorities when considering under regulation 4 whether a flood protection scheme is likely to have a significant effect on the environment.
+
+**Schedule 2**
+
+Schedule 2 lists the required content of an environmental statement prepared by a local authority under regulation 6.
+
+## Annotations
+
+[^c20611731]: Marginal citation: [2009 asp 6](https://www.legislation.gov.uk/asp/2009/6).
+
+[^key-fb585e277bff3ebf38ea734a18920bf7]: Textual amendment: Word in reg. 2 substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-2b26507618fb5c2324d7d721ae9cd2b5]: Textual amendment: Words in reg. 2 inserted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/c) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-b4d316f7073aade9e34e76ad77eded4d]: Textual amendment: Words in reg. 2 omitted (16.5.2017) by virtue of [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-138134d64a5bff735e986bc074a7b0a7]: Textual amendment: Words in reg. 2 substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/2/d) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-a71ffb72101f37180ca8ffe112be7a3d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/426/regulation/2) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/2)
+
+[^key-e6987dbcc00c67798254403e14993def]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/ssi/2010/426/regulation/2A) inserted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/112/regulation/2/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-a0ca6eb97d0810c979af99b4099487a7]: Textual amendment: Words in [reg. 2A(3)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/2A/3/b) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/3)
+
+[^key-085d038fb14365f90e0bac711f70f17b]: Textual amendment: Word in [reg. 2A(3)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/2A/3/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 20(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/20/2)
+
+[^key-6ed9148cd518a98ec4e2d394090e075c]: Textual amendment: Regs. 3-10E substituted for regs. 3-10 (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2017/112/regulation/3) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-7ecfeb114291d30da1c54162f3bf7fc9]: Textual amendment: Word in [reg. 10A(2)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/10A/2/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 20(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/20/3)
+
+[^key-bd7365c21d4ef724e36db987f3cd57ba]: Textual amendment: Words in [reg. 10A(2)(b)](https://www.legislation.gov.uk/ssi/2010/426/regulation/10A/2/b) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/4)
+
+[^key-50e8f955cc080e85e07a263ae9e3b23a]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2010/426/regulation/11/1) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/2/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-e7043aa17a6499dd329cfcb8de791a51]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2010/426/regulation/11/3) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/2/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-fca2e9fc0384caca91462ff9919334d5]: Textual amendment: Words in reg. 12(1) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/3/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-942551ac66ceef48e8aa49d1a521d011]: Textual amendment: Word in reg. 12(2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(3)(b)(i)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/3/b/i) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-7c11a0cb7c5b0725bcc10745bf64aefe]: Textual amendment: Words in reg. 12(2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/3/b/ii) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-8da95700cef967e45b36dc33ade254e6]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/ssi/2010/426/regulation/14/1) inserted (16.5.2017) by virtue of [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/4/a) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-47bbe6de9de066df9adf376c5ccabc5d]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/ssi/2010/426/regulation/14/2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2017/112/regulation/4/4/b) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-3232d57f4b521efa3403f50ddc41a973]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2010/426/schedule/1) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [sch. 1](https://www.legislation.gov.uk/ssi/2017/112/schedule/1) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-ff2d887b5011ed073fa19b810f396b22]: Textual amendment: Words in [sch. 1 para. 2(c)(vi)](https://www.legislation.gov.uk/ssi/2010/426/schedule/1/paragraph/2/c/vi) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/4)
+
+[^key-ba0a45979942eff981bdf78acc8fc693]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/426/schedule/2) substituted (16.5.2017) by [The Flood Risk Management (Flood Protection Schemes, Potentially Vulnerable Areas and Local Plan Districts) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/112)](https://www.legislation.gov.uk/ssi/2017/112), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/112/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2017/112/schedule/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2017/112/regulation/7))
+
+[^key-3ca23ccf597d774ba7191c84385ede12]: Textual amendment: Words in [sch. 2 para. 5(2)](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/5/2) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(5)(a)(i)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/5/a/i)
+
+[^key-243bc564ba7c0bfc555089ea4e7442b8]: Textual amendment: Word in [sch. 2 para. 5(2)](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/5/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 20(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/20/4)
+
+[^key-0477f36e65a47f70b90b5916a23afe82]: Textual amendment: Words in [sch. 2 para. 5(2)](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/5/2) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/5/a/ii)
+
+[^key-decc7442831099abe73d9bfddef2ae8d]: Textual amendment: Words in [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2010/426/schedule/2/paragraph/8) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/ssi/2022/138/regulation/7/5/b)

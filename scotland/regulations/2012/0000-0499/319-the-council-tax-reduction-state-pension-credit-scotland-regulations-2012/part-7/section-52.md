@@ -1,0 +1,35 @@
+---
+title: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012, section 52
+act: The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
+section: '52'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2012/319/section/52
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012, section 52
+
+> **Warning: changes not yet applied to this text (5).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ssi/2012/319
+>
+> Extent: Scotland.
+
+## 52. Extended council tax reduction (qualifying contributory benefits): movers
+
+*Extent: S*
+
+(1) Where a mover who is entitled to extended council tax reduction (qualifying contributory benefits) for council tax to the first authority moves to reside in a dwelling in the area of the second authority that mover is entitled to extended council tax reduction in respect of any liability to pay council tax to the second authority of an amount calculated in accordance with paragraph (2).
+
+(2) The amount of extended council tax reduction (qualifying contributory benefit) to which the mover is entitled is the amount of council tax reduction to which the mover was entitled for the last reduction week before the mover ceased to be entitled to a qualifying contributory benefit.
+
+(3) The period of entitlement to extended council tax reduction (qualifying contributory benefit) in respect of liability to pay council tax to the first authority ends on the day on the earliest of—
+
+- (a) the first Sunday after the move; or
+- (b) the day on which the mover's liability to pay council tax to the first authority ends.
+
+(4) The period of entitlement to extended council tax reduction (qualifying contributory benefits) granted by virtue of paragraph (1)—
+
+- (a) starts on the Monday following the day of the move; and
+- (b) ends on the expiry of the period of extended council tax reduction (qualifying contributory benefits) which would have applied had the mover not moved from the area of the first authority.

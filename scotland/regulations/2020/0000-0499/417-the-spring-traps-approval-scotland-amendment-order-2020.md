@@ -1,0 +1,116 @@
+---
+title: The Spring Traps Approval (Scotland) Amendment Order 2020
+id: ssi/2020/417
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-12-03'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2020/417
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/417/pdfs/ssipn_20200417_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/417/pdfs/ssi_20200417_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/417/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Spring Traps Approval (Scotland) Amendment Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 417
+
+Wildlife
+
+The Spring Traps Approval (Scotland) Amendment Order 2020
+
+Made
+
+3rd December 2020
+
+Laid before the Scottish Parliament
+
+7th December 2020
+
+Coming into force
+
+10th February 2021
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 50(3) and 85(3) of the Agriculture (Scotland) Act 1948[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+(1) This Order may be cited as the Spring Traps Approval (Scotland) Amendment Order 2020.
+
+(2) This Order comes into force on 10 February 2021.
+
+## 2. Amendment of the Spring Traps Approval (Scotland) Order 2011
+
+(1) The schedule of the Spring Traps Approval (Scotland) Order 2011[^f00002] is amended in accordance with paragraphs (2) to (5).
+
+(2) In entry 4 (DOC 150) and entry 5 (DOC 200 and DOC 250), in the conditions in Column (2) in each case, for “The tunnel must include an internal baffle arrangement” to the end of the sentence, substitute—
+
+> The tunnel must include an internal baffle arrangement that conforms to the type described in the Department of Conservation’s design specifications as set out in the Predator Trap Instructions UK and published on SASA’s website[^f00003] on 10th February 2021
+
+.
+
+(3) In entry 9d (Goodnature A24 rat and stoat Trap), in the conditions in Column (2), after “weasels” insert “, edible dormice (*Glis glis*)”.
+
+(4) After entry 16 (Nooski mouse trap), insert the following entry—
+
+> <table>
+> <tbody>
+> <tr><td rowspan="2"><strong>16za. Perdix Spring Trap</strong> manufactured by or under the authority of Perdix Wildlife Supplies, Unit 1 Hatton Rock Business Park, Hatton Rock, Stratford-upon-Avon, Warwickshire, CV37 0BX.</td><td>The trap is to be used only for the purpose of killing or taking stoats, grey squirrels, weasels and rats.</td></tr>
+> <tr><td>The trap must be set in a natural or artificial tunnel which is suitable for minimising the chances of capturing, killing or injuring non-target species whilst not compromising the killing or taking of target species.</td></tr>
+> </tbody>
+> </table>
+
+.
+
+(5) After entry 22a (Tully Trap), insert the following entry—
+
+> <table>
+> <tbody>
+> <tr><td rowspan="3"><strong>22b. Tully Trap fitted with baffles for grey squirrels</strong> manufactured by or under the authority of KM Pressings Ltd, 37B Copenhagen Road, Sutton Fields Industrial Estate, Hull, East Yorkshire, HU7 0XQ, UK.</td><td>The trap is to be used only for the purpose of killing or taking grey squirrels, stoats, weasels and rats.</td></tr>
+> <tr><td>The trap must be set in a natural or artificial tunnel which is suitable for minimising the chances of capturing, killing or injuring non-target species whilst not compromising the killing or taking of target species.</td></tr>
+> <tr><td>The trap must be fitted with baffles for grey squirrels supplied by the manufacturer or constructed to the manufacturer’s specifications as set out in the ‘Tully Trap Grey Squirrel Baffle Instructions’ produced by the manufacturer and published on SASA’s website on 10th February 2021. The trap must be positioned in relation to the baffle or baffles so that it conforms with those specifications<em>.</em></td></tr>
+> </tbody>
+> </table>
+>
+> [^f00004]
+
+.
+
+MAIRI GOUGEON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+3rd December 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Spring Traps Approval (Scotland) Order 2011 (“the 2011 Order”). It comes into force on the 10 February 2021.
+
+The 2011 Order specifies the types and makes of trap which are approved for use under section 50(1)(b) of the Agriculture Act 1948 (“the 1948 Act”). It is an offence to use a spring trap which is not approved for the purposes of that section and section 50(1)(c) of the 1948 Act creates offences relevant to unlawful use. This Order makes amendments to the categories of trap which are approved for use and amendments to the target species for traps approved for use.
+
+No business and regulatory impact assessment has been prepared for this Order as no impact upon business, charities or voluntary bodies is anticipated.
+
+## Annotations
+
+[^f00001]: Footnote: [1948 c. 45](https://www.legislation.gov.uk/ukpga/1948/45). Section 50 was substituted by section 10 of the Pests Act [1954 (c. 68)](https://www.legislation.gov.uk/ukpga/1954/68). The functions of the Secretary of State under sections 50 and 85(3), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [S.S.I. 2011/393](https://www.legislation.gov.uk/ssi/2011/393) as amended by [S.S.I. 2018/389](https://www.legislation.gov.uk/ssi/2018/389).
+
+[^f00003]: Footnote: www.sasa.gov.uk.
+
+[^f00004]: Footnote: www.sasa.gov.uk.

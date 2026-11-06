@@ -1,0 +1,814 @@
+---
+title: The Animal By-Products (Enforcement) (Scotland) Regulations 2013
+id: ssi/2013/307
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-10-30'
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/307
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/307/pdfs/ssipn_20130307_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/307/pdfs/ssi_20130307_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/307/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Animal By-Products (Enforcement) (Scotland) Regulations 2013
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 307
+
+Animals
+
+Animal Health
+
+The Animal By-Products (Enforcement) (Scotland) Regulations 2013
+
+Made
+
+30th October 2013
+
+Laid before the Scottish Parliament
+
+1st November 2013
+
+Coming into force
+
+1st December 2013
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c21932311] and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is necessary for the references to Commission Regulation (EU) No 142/2011 implementing Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive [^c21932321] to be construed as references to that instrument as amended from time to time.
+
+## PART 1 — Introduction
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Animal By-Products (Enforcement) (Scotland) Regulations 2013 and come into force on 1st December 2013.
+
+(2) Subject to paragraph (3), these Regulations extend to Scotland only.
+
+(3) Insofar as regulation 11(6) extends beyond Scotland, it does so only as a matter of Scots law.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**animal by-product requirement**” means
+  - (a) any requirement in regulation 4, 5, 10 or 11; or
+  - (b) any requirement in any provision of the EU Control Regulation or the EU Implementing Regulation specified in column 2 of Schedule 1 to these Regulations as read with, where applicable, any provision of the EU Control Regulation, the EU Implementing Regulation or these Regulations specified in column 3 of that Schedule;
+- “**authorised person**” has the meaning given in regulation 23;
+- “**competent authority**” has the meaning given in regulation 3;
+- “**enforcement authority**” has the meaning given in regulation 22(5);
+- “**EU Control Regulation**” means Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (Animal by-products Regulation) [^c21932331], as last amended by Council Regulation (EU) No 1385/2013[^key-8d5eeea31375c6fc86538d1948cbd6b4];
+- “**EU Implementing Regulation**” means Commission Regulation (EU) No 142/2011 implementing Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive, as amended from time to time [^c21932341];
+- “**premises**” includes—
+  - (a) any land, building (including any domestic premises), shed or pen;
+  - (b) any receptacle or container;
+  - (c) any ship; or
+  - (d) a vehicle of any description; and
+- “**ship**” includes a hovercraft, submersible craft and any other floating craft but not a vessel which—
+  - (a) permanently rests on or is permanently attached to the seabed; or
+  - (b) is an installation within section 16 of the Energy Act 2008 [^c21932351].
+
+(2) Expressions used in these Regulations that are also used in the EU Control Regulation or the EU Implementing Regulation have the same meaning in these Regulations as they have in the EU Control Regulation and in the EU Implementing Regulation, as the context may require.
+
+(3) Any reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in section 15(1) of the Electronic Communications Act 2000 [^c21932361], which has been recorded and is consequently capable of being reproduced.
+
+## PART 2 — The competent authority and miscellaneous provisions
+
+### 3. The competent authority
+
+The Scottish Ministers are the competent authority for the purposes of—
+
+- (a) the EU Control Regulation; and
+- (b) the EU Implementing Regulation.
+
+### 4. Access
+
+(1) Animal by-products, including catering waste, must not be brought on to any premises where farmed animals are kept.
+
+(2) But paragraph (1) does not apply—
+
+- (a) where the occupier of the premises and the person having control of the animal by-products ensure that such by-products can be brought on to the premises in such a manner as to prevent farmed animals having access to such by-products; and
+- (b) to derived products, except—
+  - (i) products derived from catering waste; and
+  - (ii) meat-and-bone meal derived from Category 2 material and processed animal proteins intended to be used as or in organic fertilisers and soil improvers that do not comply with the requirements of Article 32(1)(d) (placing on the market and use) of the EU Control Regulation.
+
+### 5. Restrictions on access to bodies
+
+The body or part of a body of any farmed animal that has not been slaughtered for human consumption must be held by an operator, pending consignment or disposal, in accordance with the EU Control Regulation as read with the EU Implementing Regulation, in such manner as to ensure that any animal or bird will not have access to it.
+
+### 6. Use of organic fertilisers and soil improvers and extended waiting period for pigs in relation to the prohibition in Article 11(1)(c) of the EU Control Regulation
+
+(1) In accordance with Article 32(1) of the EU Control Regulation, the application of organic fertilisers or soil improvers to land is prohibited, where, during the period of 60 days commencing from the date of the application of such products, it is intended that pigs will—
+
+- (a) have access for grazing to such land; or
+- (b) be fed cut herbage from such land.
+
+(2) Where organic fertilisers or soil improvers have been applied to land, pigs are prohibited during the additional waiting period from—
+
+- (a) having access for grazing to such land; or
+- (b) being fed cut herbage from such land.
+
+(3) Paragraphs (1) and (2) do not apply to the following organic fertilisers or soil improvers:—
+
+- (a) manure;
+- (b) milk;
+- (c) milk based products;
+- (d) milk derived products;
+- (e) colostrum;
+- (f) colostrum products; and
+- (g) digestive tract content.
+
+(4) In this regulation—
+
+- (a) “the minimum waiting period” is the period of 21 days commencing on the date of application of organic fertilisers or soil improvers to land as provided in Article 11(1)(c) of the EU Control Regulation (restrictions on use), as read with Article 5(2) of, and Chapter II of Annex II to, the EU Implementing Regulation (restrictions on the use of animal by-products and derived products); and
+- (b) “the additional waiting period” is the period of 39 days commencing on the date of expiration of the minimum waiting period.
+
+### 7. Collection centres for feeding in relation to Article 18(1) of the EU Control Regulation
+
+In relation to Article 18(1) of the EU Control Regulation (special feeding purposes) and in accordance with Article 13 of the EU Implementing Regulation (special feeding rules), as read with point 3 of Section 1 of Chapter II of Annex VI to that Regulation, the use of a processing plant for Category 2 material which is approved for the purpose of being a collection centre for Category 2 material is authorised as a collection centre.
+
+### 7A. Disposal by means referred to in Article 19(1)(b) of the EU Control Regulation[^key-7f5bb39645fc62211f593ce753d0755c]
+
+(1) Subject to paragraph (2), for the purposes of Article 19(1)(b) of the EU Control Regulation (disposal by burning or by burial on site or by other means), the disposal by means referred to in Article 19(1)(b) of Category 1 material referred to in Article 8(a)(v) and (b)(ii) of that Regulation, Category 2 and Category 3 materials in remote areas is authorised.
+
+(2) Paragraph (1) does not apply to material originating from fish belonging to the family *Salmonidae*.
+
+### 8. Remote areas referred to in Article 19(1)(b) of the EU Control Regulation
+
+For the purposes of Article 19(1)(b) of the EU Control Regulation (collection, transport and disposal), the following areas are categorised as remote areas:—
+
+- (a) the area of the Argyll and Bute Council, excluding the Parishes of Arrochar (339), Cardross (347), Dunoon and Kilmun (140), Inverchaolain (141), Kilfinan (142), Kilmodan (143), Kingarth (276), Lochgoilhead and Kilmorich (144), Luss (349), North Bute (other than the island of Inchmarnock) (277), Rhu (340), Rosneath (341), Rothesay (278), Strachur (145) and Strathlachlan (146);
+- (b) the area of Comhairle nan Eilean Siar;
+- (c) the area of the Highland Council, excluding the Parishes of Abernethy and Kincardine (438), Alvie (439), Ardclach (605), Ardersier (445), Auldearn (606), Boleskine and Abertarff (433), Cawdor (607), Cromdale, Inverallan and Advie (586), Croy (446), Croy and Dalcross (608), Daviot and Dunlichity (447), Dores (448), Duthil and Rothiemurchus (440), Inverness and Bona (449), Kingussie and Insh (441), Kirkhill (436), Moy and Dalarossie (450), Nairn (609) and Petty (451);
+- (d) in the area of North Ayrshire Council, the parishes of Cumbrae (279), Kilbride (274) and Kilmory (275);
+- (e) the area of the Orkney Islands Council;
+- (f) in the area of the Perth and Kinross Council, the Parish of Fortingall (679); and
+- (g) the area of the Shetland Islands Council.
+
+### 9. Placing on the market in relation to Article 36 of the EU Control Regulation
+
+In relation to Article 36 of the EU Control Regulation (placing on the market of other derived products) and in accordance with Article 24(4) of the EU Implementing Regulation (pet food and other derived products), as read with point B of Chapter VII to Annex XIII to that Regulation, the placing on the market of untreated wool and hair from farms or from establishments or plants is authorised without restrictions except where they present a risk of any disease communicable through those products to humans or animals.
+
+### 10. Reporting of test results
+
+Operators must report to the Scottish Ministers the results of any tests carried out which fail to meet the standards required by the following Articles of the EU Implementing Regulation—
+
+- (a) Article 10(1) (requirements regarding the transformation of animal by-products and derived products into biogas and composting);
+- (b) Article 21(1) (processing and placing on the market of animal by-products and derived products for feeding to farmed animals, excluding fur animals);
+- (c) Article 22(1) (placing on the market and use of organic fertilisers and soil improvers); or
+- (d) Article 24(3) (petfood and other derived products).
+
+## PART 3 — Staining
+
+### 11. Staining
+
+(1) This regulation applies to the operators of—
+
+- (a) slaughterhouses;
+- (b) cutting plants;
+- (c) game-handling establishments; and
+- (d) cold stores.
+
+(2) In this regulation—
+
+- (a) the terms “**slaughterhouse**”, “**cutting plant**” and “**game-handling establishment**” have the meanings given to them in regulation 5(7) of the Food Hygiene (Scotland) Regulations 2006 [^c21932371]; and
+- (b) “**cold store**” means any premises, not forming part of a slaughterhouse, cutting plant or game-handling establishment, used for the storage, under temperature controlled conditions, of fresh meat intended for sale for human consumption.
+
+(3) Operators must, subject to paragraph (5), without undue delay, stain the following animal by-products in accordance with paragraph (4)—
+
+- (a) animal by-products defined by the following articles of the EU Control Regulation—
+  - (i) Article 8(c) and (d) (Category 1 material);
+  - (ii) Article 9(c) and (d) (Category 2 material);
+- (b) whole poultry bodies where the animals are dead on arrival at the slaughterhouse;
+- (c) bodies or parts of animals which are unfit for human consumption because they show signs of disease communicable to humans or animals;
+- (d) bodies or parts of animals which are unfit for human consumption because they have not been presented for either ante or post mortem inspection;
+- (e) bodies or parts of animals which have been contaminated with any substance which may pose a threat to public or animal health; and
+- (f) Category 3 material that has changed through decomposition or spoilage so as to present an unacceptable risk to public or animal health.
+
+(4) Operators must—
+
+- (a) stain the animal by-products with a solution of colouring agent of such a strength that the staining is clearly visible and remains visible after the animal by-product has been chilled or frozen;
+- (b) stain the whole surface of the animal by-product, whether by immersing the animal by-product in the stain, spraying the animal by-product with the stain or applying the stain to the animal by-product by any other equally effective means;
+- (c) in the case of an animal by-product not falling within sub-paragraph (d) and weighing not less than 20kg, apply the stain after the surface of the animal by-product has been opened by multiple and deep incisions; and
+- (d) in the case of an animal by-product comprising an entire poultry body, whether or not it has been eviscerated or de-feathered, apply the stain after the surface of the body has been opened by multiple and deep incisions.
+
+(5) Operators need not stain—
+
+- (a) any animal by-product which is removed, or is intended to be removed, from any premises by, or under the authority of, a veterinary surgeon for examination by, or on behalf of, that surgeon;
+- (b) any animal by-product consisting of the stomach and intestines or the digestive tract content of an animal, or which is mixed with those parts or content, in a container containing mainly those parts or content for disposal in accordance with the EU Control Regulation;
+- (c) any animal by-product which is intended for use for scientific purposes and which, pending such use or removal to premises for such use in accordance with the EU Control Regulation, is placed in a receptacle designed for the purpose of holding animal by-products and bearing a notice that its contents are intended for use for scientific purposes;
+- (d) any animal by-product which is moved immediately after generation, via a sealed and leak-proof pipe, to a processing or incineration establishment or plant approved under Article 24(1)(a), (b) or (c) of the EU Control Regulation; or
+- (e) an entire animal body, except an entire poultry body.
+
+(6)[^key-766bb997066bf5e0cc753230125337c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Registration and approval
+
+### 12. Procedure for registration of plants and establishments
+
+A notification by an operator must be made in writing to the competent authority, where it is made—
+
+- (a) for the purpose of registration in accordance with Article 23(1) of the EU Control Regulation (registration of operators, establishments or plants); or
+- (b) to inform the competent authority of changes in accordance with Article 23(2) of the EU Control Regulation.
+
+### 13. Notifications of competent authority in respect of registration
+
+The competent authority must give notice in writing to—
+
+- (a) the operator who has made a notification in accordance with regulation 12 of the decision to—
+  - (i) register such an operator; or
+  - (ii) not to register such an operator; and
+- (b) a registered operator of—
+  - (i) a prohibition in accordance with Article 46(2) of the EU Control Regulation (prohibition on operations);
+  - (ii) a requirement to comply with Article 23(1)(b) or (2) of the EU Control Regulation (provision of information on activities and up to date information); or
+  - (iii) the amendment of the registration or the ending of the registration where an operator has notified the competent authority of the closure of an establishment in accordance with Article 23(2) of the EU Control Regulation.
+
+### 14. Procedure for application for approval
+
+An operator to whom Article 24(1) of the EU Control Regulation (approval of establishments or plants) applies, must apply in writing to the competent authority to be—
+
+- (a) approved; or
+- (b) where Article 33 of the EU Implementing Regulation (re-approval of plants and establishments after the grant of temporary approval) applies, re-approved.
+
+### 15. Notification in respect of decisions on approval
+
+The competent authority must give notice in writing to—
+
+- (a) the operator who submitted an application for approval, of the—
+  - (i) grant of approval in accordance with Articles 24 (approval of establishments or plants) and 44 (procedure for approval) of the EU Control Regulation;
+  - (ii) grant of conditional approval, or its extension, in accordance with Articles 24 and 44 of the EU Control Regulation; or
+  - (iii) refusal to grant approval or to extend a conditional approval;
+- (b) where conditional approval has been granted in accordance with Articles 24 and 44 of the EU Control Regulation, the operator of the plant or establishment subject to such approval of the—
+  - (i) grant of full approval;
+  - (ii) extension of such approval;
+  - (iii) imposition of conditions in accordance with Article 46(1)(c) of the EU Control Regulation (suspensions, withdrawals and prohibitions on operations);
+  - (iv) suspension of such approval in accordance with Article 46(1)(a) of the EU Control Regulation;
+  - (v) withdrawal of such approval in accordance with Article 46(1)(b) of the EU Control Regulation;
+  - (vi) refusal to extend or grant full approval; or
+  - (vii) prohibition in accordance with Article 46(2) of the EU Control Regulation; or
+- (c) the operator of an approved plant or establishment of the—
+  - (i) imposition of conditions in accordance with Article 46(1)(c) of the EU Control Regulation;
+  - (ii) suspension of such approval in accordance with Article 46(1)(a) of the EU Control Regulation;
+  - (iii) withdrawal of such approval in accordance with Article 46(1)(b) of the EU Control Regulation; or
+  - (iv) prohibition in accordance with Article 46(2) of the EU Control Regulation.
+
+### 16. Reasons for decisions
+
+(1) Where a decision is made by the competent authority of a type mentioned in paragraph (2), the competent authority must give reasons in writing for that decision.
+
+(2) The types of decision are those made under—
+
+- (a) regulation 13(a)(ii) or (b);
+- (b) regulation 15(a)(ii) or (iii);
+- (c) regulation 15(b)(iv), (v) or (vi);
+- (d) regulation 15(c)(ii) or (iii);
+- (e) regulation 15(b)(iii) or (c)(i);
+- (f) regulation 15(b)(vii) or (c)(iv).
+
+### 17. Appeals procedure
+
+(1) Where the competent authority has notified a decision of a type mentioned in regulation 16(2), a person may appeal against it by making written representations to a person appointed by the Scottish Ministers for the purpose of considering appeals, within 21 days of the notification of that decision.
+
+(2) The competent authority may also make written representations to the appointed person concerning the decision.
+
+(3) The appointed person must then report in writing to the Scottish Ministers, who will then make their final determination.
+
+(4) The Scottish Ministers must give to the appellant written notification of the Scottish Ministers' final determination and the reasons for it.
+
+## PART 5 — Offences and penalties
+
+### 18. Offence
+
+Any person—
+
+- (a) to whom an animal by-product requirement applies; and
+- (b) who contravenes or fails to comply with such a requirement,
+
+commits an offence.
+
+### 19. Offence of obstruction
+
+A person is guilty of an offence if that person, in relation to an authorised person acting under these Regulations—
+
+- (a) intentionally obstructs the authorised person;
+- (b) without reasonable cause, fails to give to the authorised person any information or assistance or to provide any facilities that such person may reasonably require;
+- (c) knowingly or recklessly gives false or misleading information to the authorised person; or
+- (d) fails to produce a record or document when required to do so by the authorised person.
+
+### 20. Offences by bodies corporate, Scottish partnerships and unincorporated associations
+
+(1) Where—
+
+- (a) an offence under these Regulations has been committed by a body corporate or a Scottish partnership or other unincorporated association; and
+- (b) it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+  - (i) a relevant individual; or
+  - (ii) an individual purporting to act in the capacity of a relevant individual,
+
+the individual as well as the body corporate, Scottish partnership or unincorporated association, commits an offence and is liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1), “**relevant individual**” means—
+
+- (a) in relation to a body corporate—
+  - (i) a director, manager, secretary or other similar officer of the body;
+  - (ii) where the affairs of the body are managed by its members, a member;
+- (b) in relation to a Scottish partnership, a partner; and
+- (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+### 21. Penalties
+
+A person guilty of an offence under these Regulations is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding 12 months or both; or
+- (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding 2 years or both.
+
+## PART 6 — Enforcement
+
+### 22. Enforcement authority
+
+(1) These Regulations are enforced by—
+
+- (a) subject to paragraph (2), a local authority; or
+- (b) in relation to a food hygiene establishment, the Scottish Ministers.
+
+(2) The Scottish Ministers may direct, in relation to a particular case or cases of a particular description, that the Scottish Ministers will enforce these Regulations in place of the local authority.
+
+(3) In paragraph (1)(a) “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c21932381].
+
+(4) In paragraph (1)(b), “**food hygiene establishment**” means an establishment referred to in regulation 5(2)(a) of the Food Hygiene (Scotland) Regulations 2006 [^c21932391] in respect of which the Food Standards Agency has enforcement functions under those Regulations.
+
+(5) A body exercising functions by virtue of paragraph (1) or (2) is referred to in these Regulations as an enforcement authority.
+
+### 23. Authorised person
+
+(1) An enforcement authority may authorise in writing such persons as the authority considers appropriate to act for the purpose of enforcing these Regulations.
+
+(2) A person authorised under paragraph (1) is referred to in these Regulations as an authorised person.
+
+### 24. Powers of authorised person
+
+An authorised person may, on production, if so required, of his or her duly authenticated authorisation, exercise any of the powers specified in regulations 25 and 27.
+
+### 25. Powers of entry and additional powers
+
+(1) For the purpose of ensuring that the EU Control Regulation, the EU Implementing Regulation and these Regulations are complied with, an authorised person may enter any premises (excluding any premises used only as a private dwelling house) at any reasonable hour.
+
+(2) The authorised person may in relation to the power under paragraph (1)—
+
+- (a) be accompanied by such other persons as the authorised person considers necessary (including, where there is reasonable cause to anticipate any serious obstruction in the execution of the authorised person's duty, a constable);
+- (b) take any equipment or materials required for any purpose for which the power of entry is being exercised;
+- (c) carry out any examination and investigation as may in the circumstances be necessary;
+- (d) as regards any premises which the authorised person has power to enter, direct that those premises, or part of them, are left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of any examination or investigation under sub-paragraph (c);
+- (e) take such measurements and photographs and make such recordings as are considered necessary for the purpose of any examination or investigation under sub-paragraph (c);
+- (f) in the case of any articles or substances found in or on any premises which the authorised person has power to enter—
+  - (i) take samples;
+  - (ii) test any sample or subject any sample to any process, where it appears that it has or is likely to cause harm to human health or to the health of animals or plants;
+  - (iii) take possession of any sample and retain it for so long as is necessary for any of the following purposes:—
+    - (aa) to examine it and to exercise the power under head (ii);
+    - (bb) to ensure that it is not tampered with before examination of it is completed; or
+    - (cc) to ensure that it is available for use as evidence in any proceedings for an offence under these Regulations;
+- (g) require the production of or, where the information is recorded in computerised form, the furnishing of extracts from, any records which it is necessary to see for the purposes of any examination or investigation under sub-paragraph (c) and to inspect and take copies of, or of any entry in, the records;
+- (h) require any person to afford such facilities and assistance with respect to any matters or things within that person's control or in relation to which that person has responsibilities as are necessary to enable the authorised person to exercise any of the powers conferred on the authorised person by this regulation; or
+- (i) mark any animal or animal by-product as the authorised person considers necessary.
+
+(3) Where an authorised person proposes to exercise the power in paragraph (2)(f)(i)[^key-88119e163da6b56c96585f59d475a351] in the case of any article or substance found in or on any premises, the authorised person must—
+
+- (a) if so requested by a person who at the time is present and has responsibilities in relation to those premises, cause anything which is to be done by virtue of that power, to be done in that person's presence; and
+- (b) consult such persons as appear to the authorised person appropriate for the purpose of ascertaining what dangers, if any, there may be in doing anything which is proposed under that power.
+
+(4) Where an authorised person in respect of the power in paragraph (2)(f)(iii)—
+
+- (a) proposes to exercise that power, the authorised person must before taking possession, if it is practicable to do so, give to a responsible person at the premises a portion of the sample, marked in a manner sufficient to identify it; or
+- (b) exercises that power, the authorised person must leave a notice giving particulars of the article or substance sufficient to identify it and stating that possession has been taken under that power, such notice to be left either—
+  - (i) with a responsible person; or
+  - (ii) if that is impracticable, fixed in a conspicuous place at those premises.
+
+(5) Nothing in this regulation compels the production by any person of information in respect of which a claim to confidentiality of communications could be maintained in legal proceedings.
+
+### 26. Warrant
+
+(1) If a sheriff, stipendiary magistrate or justice of the peace, on information in writing sworn on oath, is satisfied that there are reasonable grounds for entry into any premises by an authorised person under regulation 25 and—
+
+- (a) entry has been refused, or a refusal is reasonably expected, and the authorised person has given notice of his or her intention to apply for an entry warrant to the occupier; or
+- (b) a request for entry, or the giving of such a notice, would defeat the object of entry; or
+- (c) entry is urgently required; or
+- (d) the premises are unoccupied or the occupier is temporarily absent ,
+
+the sheriff, stipendiary magistrate or justice may by signed warrant, valid for a period of one month, authorise the authorised person to enter the premises, if need be by reasonable force.
+
+(2) An authorised person who enters, by virtue of this regulation, any unoccupied premises must leave them as effectively secured against unauthorised entry as they were before entry.
+
+### 27. Notices served by an authorised person
+
+(1) An authorised person may serve a notice in accordance with paragraph (2) where that person—
+
+- (a) considers that there is a contravention of, or failure to comply with, an animal by-product requirement; or
+- (b) reasonably suspects that, as a result of such a contravention or failure to comply, premises constitute a risk to human or animal health.
+
+(2) A notice may be served on the occupier of any premises or the person in charge of the premises—
+
+- (a) requiring the disposal and, where applicable, storage pending such disposal of animal by-products and derived products;
+- (b) requiring the cleansing and disinfection of any premises and, where applicable, the method for such cleansing and disinfection; or
+- (c) prohibiting animal by-products and derived products being—
+  - (i) brought on to any premises;
+  - (ii) brought on to any premises unless in accordance with conditions specified in the notice; or
+  - (iii) brought on to any premises until the satisfactory completion of any cleansing and disinfection requirements specified in any notice under sub-paragraph (b).
+
+(3) A notice served under paragraph (2) must be complied with at the expense of the person on whom the notice is served, and if it is not complied with, an authorised person may arrange for it to be complied with at the expense of the person on whom the notice was served.
+
+(4) Paragraph (1) does not apply where Article 46(1) of the EU Control Regulation (suspensions, withdrawals and prohibitions on operations) applies.
+
+(5) Failure to comply with a notice served under paragraph (2) is an offence.
+
+### 28. Power to share information for enforcement purposes
+
+(1) Information sent to, or acquired, in compliance or purported compliance with the obligations of the EU Control Regulation and the EU Implementing Regulation or as a result of enforcing these Regulations may be shared, in accordance with paragraph (2), where it has been so received by—
+
+- (a) the competent authority;
+- (b) an enforcement authority; or
+- (c) an authorised person.
+
+(2) Where an authority or person within paragraph (1) has received information in accordance with that paragraph, then such an authority or person may share such information with any other—
+
+- (a) competent authority;
+- (b) enforcement authority; or
+- (c) authorised person,
+
+appointed within the United Kingdom for the purposes of implementing or enforcing the EU Control Regulation and the EU Implementing Regulation.
+
+(3) Information received in accordance with paragraph (2) must only be used for the purposes of enforcing these Regulations.
+
+(4) For the purposes of this regulation, “**an enforcement authority**” includes the Food Standards Agency.
+
+## PART 7 — Consequential amendments
+
+### 29. Consequential amendments
+
+The consequential amendments specified in Schedule 2 have effect.
+
+## PART 8 — Revocations and saving and transitional provisions
+
+### 30. Revocations
+
+The instruments specified in column 1 of Schedule 3 are revoked to the extent specified in column 3 of that Schedule.
+
+### 31. Saving provisions
+
+Notwithstanding their revocation, the Animal By-Products (Enforcement) (Scotland) Regulations 2011 [^c21932401] continue to have effect in relation to any amendments made by regulation 28 (consequential amendments) of, and paragraphs 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 38, 39, 40, 41, 42, 43, 44, 45, 51, 52, 53, 54, 55 and 56 of Schedule 2 to, those Regulations.
+
+### 32. Small quantities[^key-776b57394056ce9ceaa7cd3daff03000]
+
+(1) By way of derogation from Article 14 of the EU Control Regulation (disposal and use of Category 3 material), the collection, transport and disposal of small quantities of Category 3 materials as mentioned in Article 10(f) of that Regulation (products or foodstuffs of animal origin no longer intended for human consumption), by means referred to in Article 19(1)(d) of that Regulation (means other than burning or burial on site), is authorised under Article 15 of the EU Implementing Regulation (special rules on collection and disposal), where the requirements of paragraph (2) are satisfied.
+
+(2) The requirements are—
+
+- (a) the material and its collection, transportation and disposal satisfies paragraphs (a) and (b) of Chapter IV of Annex VI to the EU Implementing Regulation;
+- (b) regular checks have been carried out in accordance with paragraph (c) of Chapter IV of Annex VI to that Regulation; and
+- (c) the means of disposal for such material, in addition to the means specified in Article 14 of the EU Control Regulation, are disposal—
+  - (i) in an authorised landfill without prior processing; or
+  - (ii) where Article 21 of the EU Control Regulation (collection and identification as regards category and transport) is satisfied, to a biogas or composting plant for transformation in accordance with an authorisation under point 2 of Section 2 of Chapter III of Annex V to the EU Implementing Regulation.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — Animal by-product requirements
+
+Regulation 2(1)
+
+<table>
+<tbody>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th><em>Subject matter of requirement</em></th><th><em>Provision(s) containing the basic requirement</em></th><th><em>Provisions to be read with the provision(s) mentioned in column 2</em></th></tr>
+<tr><td><strong>1.</strong> General obligation</td><td>Article 4(1) or (2) of the EU Control Regulation</td><td>Article 5(1) and (2) of the EU Control Regulation as read with Article 3 of the EU Implementing Regulation (end point in the manufacturing chain for certain derived products)</td></tr>
+<tr><td><strong>2.</strong> General animal health restrictions</td><td>Article 6(1) of the EU Control Regulation</td><td>Article 4 of the EU Implementing Regulation (serious transmissible diseases)</td></tr>
+<tr><td rowspan="2"><strong>3.</strong> Restrictions on use for feeding purposes</td><td rowspan="2">Article 11(1) of the EU Control Regulation</td><td>Regulation 6(2) of these Regulations (subject to regulation 6(4)) (additional waiting period for pigs)</td></tr>
+<tr><td>Article 11(2) of the EU Control Regulation as read with Article 5 of the EU Implementing Regulation (restrictions on the use of animal by-products and derived products)</td></tr>
+<tr><td rowspan="5"><strong>4.</strong> Disposal and use of Category 1 material</td><td rowspan="5">Articles 12 and 16(b) to (e) of the EU Control Regulation; and Article 7(a) of the EU Implementing Regulation</td><td>Article 15(1)(b) of the EU Control Regulation as read with Articles 8(1) and 9(b) of the EU Implementing Regulation (requirements for processing plants and other establishments)</td></tr>
+<tr><td>Article 15(1)(d) of the EU Control Regulation as read with Article 6(3) to (5) of the EU Implementing Regulation (disposal by incineration or co-incineration in respect of Article 12(a) or (b) of the EU Control Regulation)</td></tr>
+<tr><td>Article 17(2) of the EU Control Regulation as read with Articles 11(2) and 12(2) of the EU Implementing Regulation (special rules on trade, research and diagnostic samples)</td></tr>
+<tr><td>Article 19(4) of the EU Control Regulation as read with Article 15 of the EU Implementing Regulation (collection, transport and disposal)</td></tr>
+<tr><td>... Article 9(c) of the EU Implementing Regulation (alternative processing methods)</td></tr>
+<tr><td rowspan="7"><strong>5.</strong> Disposal and use of Category 2 material</td><td rowspan="7">Articles 13, ... 16(b) to (f) and 16(h) of the EU Control Regulation</td><td>Article 15(1)(b) of the EU Control Regulation as read with Articles 8(1) and 9(b) of the EU Implementing Regulation (requirements for processing plants and other establishments);</td></tr>
+<tr><td>Article 15(1)(c) of the EU Control Regulation as read with Article 10(1) of the EU Implementing Regulation (requirements regarding transformation into biogas and composting in respect of Article 13(e) or (g) of the EU Control Regulation)</td></tr>
+<tr><td>Article 15(1)(d) of the EU Control Regulation as read with Article 6(3) to (5) of the EU Implementing Regulation (disposal by incineration or co-incineration in respect of Article 13(a) or (b) of the EU Control Regulation)</td></tr>
+<tr><td>Article 17(2) of the EU Control Regulation as read with Articles 11(2) and 12(2) of the EU Implementing Regulation (special rules on trade, research and diagnostic samples)</td></tr>
+<tr><td>Article 18(3)(a) of the EU Control Regulation as read with Article 13(1) of the EU Implementing Regulation (special feeding rules) and regulation 7 of these Regulations (collection centres for feeding in relation to Article 18(1) of the EU Control Regulation)</td></tr>
+<tr><td>Article 19(4) of the EU Control Regulation as read with Article 15 of the EU Implementing Regulation (collection, transport and disposal)</td></tr>
+<tr><td>... Article 9(c) of the EU Implementing Regulation (alternative processing methods)</td></tr>
+<tr><td rowspan="5"><strong>6.</strong> Disposal and use of Category 3 material</td><td>Articles 14, 16(b) to (f) and 16(h) of the EU Control Regulation</td><td>Article 15(1)(b) of the EU Control Regulation as read with Articles 8(1) and 9(b) of the EU Implementing Regulation (requirements for processing plants and other establishments)</td></tr>
+<tr><td>Article 7(b) of the EU Implementing Regulation</td><td>Article 15(1)(c) of the EU Control Regulation as read with Article 10(1) of the EU Implementing Regulation (requirements regarding transformation into biogas and composting in respect of Article 14(f) or (g) of the EU Control Regulation)</td></tr>
+<tr><td rowspan="3"></td><td>Article 15(1)(d) of the EU Control Regulation as read with Article 6(3) to (5) of the EU Implementing Regulation (disposal by incineration or co-incineration in respect of Article 14(a) or (b) of the EU Control Regulation)</td></tr>
+<tr><td>Article 17(2) of the EU Control Regulation as read with Articles 11(2) and 12(2) of the EU Implementing Regulation (special rules on trade, research and diagnostic samples)</td></tr>
+<tr><td>Article 18(3) of the EU Control Regulation as read with Article 13(2) of the EU Implementing Regulation (special feeding rules)</td></tr>
+<tr><td rowspan="3"></td><td rowspan="3"></td><td>Article 19(4) of the EU Control Regulation as read with Article 15 of the EU Implementing Regulation (collection, transport and disposal)</td></tr>
+<tr><td>... Article 9(c) of the EU Implementing Regulation (alternative processing methods)</td></tr>
+<tr><td>Article 15 of the EU Implementing Regulation (special rules on collection and disposal) as read with regulation 32 of these Regulations (small quantities)</td></tr>
+<tr><td><strong>7.</strong> Collection and identification as regards category and transport</td><td>Article 21(1) to (4) of the EU Control Regulation</td><td>Article 21(5) and (6) of the EU Control Regulation as read with Article 17 of the EU Implementing Regulation (requirements of collection, transport, identification and traceability)</td></tr>
+<tr><td><strong>8.</strong> Traceability</td><td>Article 22(1) and (2) of the EU Control Regulation</td><td>Article 22(3) of the EU Control Regulation as read with Article 17 of the EU Implementing Regulation (requirements of collection, transport, identification and traceability)</td></tr>
+<tr><td rowspan="3"><strong>9.</strong> Registration of operators, establishments and plants</td><td rowspan="3">Article 23(1) of the EU Control Regulation (subject to Article 23(4)); and Article 23(2) of that Regulation as read with Article 55 of that Regulation</td><td>Regulation 12 of these Regulations (procedure for registration of plants and establishments)</td></tr>
+<tr><td>Article 23(3) and Article 27 of the EU Control Regulation as read with Article 20(1) and (2) (subject to paragraph (3)) of the EU Implementing Regulation (requirements of certain registered establishments and plants)</td></tr>
+<tr><td>Article 47(2) of the EU Control Regulation as read with Article 32(7) of the EU Implementing Regulation (format requirements for lists of registered operators)</td></tr>
+<tr><td rowspan="3"><strong>10.</strong> Approval of establishments and plants</td><td rowspan="3">Article 24 of the EU Control Regulation as read with Articles 44(3) and 55 of that Regulation</td><td>Regulation 14 of these Regulations (procedure for application for approval)</td></tr>
+<tr><td>Article 27 of the EU Control Regulation as read with Article 19 of the EU Implementing Regulation (requirements concerning certain approved establishments and plants) and Article 33 of that Regulation (re-approval of plants and establishments after the grant of a temporary approval)</td></tr>
+<tr><td>Article 47(2) of the EU Control Regulation as read with Article 32(7) of the EU Implementing Regulation (format requirements for lists of registered operators)</td></tr>
+<tr><td><strong>11.</strong> General hygiene requirements</td><td>Article 25 of the EU Control Regulation</td><td rowspan="4">Article 27 of the EU Control Regulation as read with Article 9(a) of the EU Implementing Regulation (hygiene and processing requirements) and Article 19 of that Regulation (requirements in relation to certain approved plants in Article 24 of the EU Control Regulation) and Article 20 of that Regulation (requirements in relation to certain registered plants)</td></tr>
+<tr><td><strong>12.</strong> Handling of animal by-products within food businesses</td><td>Article 26 of the EU Control Regulation</td></tr>
+<tr><td><strong>13.</strong> Own checks</td><td>Article 28 of the EU Control Regulation</td></tr>
+<tr><td><strong>14.</strong> Hazard analysis and critical control points</td><td>Article 29(1) to (3) of the EU Control Regulation</td></tr>
+<tr><td><strong>15.</strong> Placing on the market of animal by-products and derived products for feeding to farmed animals excluding fur animals</td><td>Article 31(1) of the EU Control Regulation</td><td>Article 31(2) of the EU Control Regulation as read with Articles 21 and 24(2) of the EU Implementing Regulation (placing on the market for feeding to farmed animals)</td></tr>
+<tr><td rowspan="2"><strong>16.</strong> Placing on the market and use of organic fertilisers and soil improvers</td><td rowspan="2">Article 32(1) and (2) of the EU Control Regulation</td><td>Regulation 6(1) of these Regulations (subject to regulation 6(3)) (use of organic fertilisers and soil improvers)</td></tr>
+<tr><td>Article 32(3) of the EU Control Regulation as read with Article 22(1) to (3) of the EU Implementing Regulation (placing on the market and use of organic fertilisers and soil improvers)</td></tr>
+<tr><td><strong>17.</strong> Collection and movement for manufacture of derived products</td><td>Article 34 of the EU Control Regulation (manufacture) except insofar as that relates to import</td><td>Article 33 of the EU Control Regulation and Article 23 of the EU Implementing Regulation (intermediate products)</td></tr>
+<tr><td><strong>18.</strong> Prohibition on use for manufacture of derived products not within Article 33 or 36 of the EU Control</td><td rowspan="2">Article 24(1) of the EU Implementing Regulation</td><td rowspan="2">Articles 33 and 36 of the EU Control Regulation</td></tr>
+<tr><td>Regulation</td></tr>
+<tr><td rowspan="2"><strong>19.</strong> Placing on the market of pet food</td><td rowspan="2">Article 35 of the EU Control Regulation</td><td>Article 5(2) of the EU Control Regulation as read with Article 3 of the EU Implementing Regulation (end point in the manufacturing chain)</td></tr>
+<tr><td>Article 40 of the EU Control Regulation as read with Article 24(3) of the EU Implementing Regulation (petfood and other derived products)</td></tr>
+<tr><td rowspan="2"><strong>20.</strong> Placing on the market of other derived products</td><td>Article 36 of the EU Control Regulation</td><td>Regulation 9 of these Regulations (placing on the market in relation to Article 36 of the EU Control Regulation)</td></tr>
+<tr><td></td><td>Article 5(2) of the EU Control Regulation as read with Article 3 of the EU Implementing Regulation (end point in the manufacturing chain)</td></tr>
+<tr><td></td><td></td><td>Article 40 of the EU Control Regulation as read with Article 24(1), (2) and (4) of the EU Implementing Regulation (petfood and other derived products)</td></tr>
+<tr><td><strong>21.</strong> Safe sourcing</td><td>Article 37(2) of the EU Control Regulation</td><td></td></tr>
+<tr><td><strong>22.</strong> Export</td><td>Article 43 of the EU Control Regulation</td><td>Article 26 of the EU Implementing Regulation (placing on the market, including importation, and export of certain Category 1 materials)</td></tr>
+<tr><td><strong>23.</strong> Controls for dispatch to other member States</td><td>Article 48(1), (4) and (5), as read with Article 48(6), of the EU Control Regulation</td><td>Article 48(7) of the EU Control Regulation as read with Articles 11(3), 12(3) and 31 of the EU Implementing Regulation (special rules on research and diagnostic samples, on trade samples and display items and model health certificates and declarations for importation and transit)</td></tr>
+<tr><td><strong>24.</strong> Operating standards</td><td>Articles 10(1), 21(1), 22(1) and 24(3) of the EU Implementing Regulation</td><td></td></tr>
+</tbody>
+</table>
+
+[^key-509075fb01deb8cb9d0d2999cc754e76][^key-85b447a8aaa321bc53afe38790166b8f][^key-75fb33bfec941f49b25ec83d1684143b][^key-f92a62f6fb13e9767211d67fdfc270fd][^key-fee12b8c149543e775e1d71f572dccda]
+
+## SCHEDULE 2 — Consequential amendments
+
+Regulation 29
+
+### The Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991
+
+**1.**[^key-923db46e309358e0cf0f76cf9adc6b32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-0db4a188d93bd0d7f418f4d3cf47c990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Older Cattle (Disposal) (Scotland) Regulations 2006
+
+**3.** The Older Cattle (Disposal) (Scotland) Regulations 2006 [^c21932431] are amended as follows.
+
+**4.** In regulation 2 (interpretation), for the definition of “rendering plant”, substitute—
+
+> “**rendering plant**” means a processing plant within the meaning of paragraph 58 of Annex I to Regulation (EU) No 142/2011 implementing Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive, as last amended by Commission Regulation (EU) No 717/2013 [^c21932441]; and references in these Regulations to that Regulation (EU) No 142/2011 are references to that Regulation as amended from time to time;
+
+.
+
+### The Foot-and-Mouth Disease (Scotland) Order 2006
+
+**5.** The Foot-and-Mouth Disease (Scotland) Order 2006 [^c21932451] is amended as follows.
+
+**6.** In article 2(1) (interpretation) in the definition of “Regulation (EU) No 142/2011” after “that Directive” insert “ , as last amended by Commission Regulation (EU) No 717/2013; and references to that Regulation of 2011 are references to that Regulation as amended from time to time ”.
+
+**7.** In article 26(2)(c) (slaughter: isolation of things liable to spread disease) omit “as amended,”.
+
+**8.** In Schedule 5 (treatment of products to ensure the destruction of disease virus), in paragraph 2 (hides and skins), for “35” substitute “ 36 ”.
+
+### The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006
+
+**9.** The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006 [^c21932461] are amended as follows.
+
+**10.** In regulation 2(1) (interpretation), in the definition of “Regulation (EU) No 142/2011” after “that Directive” insert “ , as last amended by Commission Regulation (EU) No 717/2013; and references to that Regulation of 2011 are references to that Regulation as amended from time to time ”.
+
+### The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007
+
+**11.** The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007 [^c21932471] is amended as follows.
+
+**12.** In article 2 (interpretation), in the definition of “Regulation (EU) No 142/2011” after “that Directive” insert “ , as last amended by Commission Regulation (EU) No 717/2013; and references to that Regulation of 2011 are references to that Regulation as amended from time to time ”.
+
+**13.** In article 13(1) (designation of premises to which things may be moved), for sub-paragraph (c) substitute—
+
+> - (c) the following plants, if approved under Article 24 of Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)—
+>   - (i) incineration plants;
+>   - (ii) co-incineration plants;
+>   - (iii) processing plants;
+>   - (iv) biogas plants;
+>   - (v) composting plants;
+>   - (vi) petfood plants.
+
+.
+
+**14.** In Schedule 1 (measures applicable in respect of a wild bird control area), in paragraph 13 (restriction on the movement of bird by products or products derived from bird by products from premises in a wild bird control area)—
+
+- (a) for sub-paragraph (2), substitute—
+
+  > (2) A veterinary inspector may not grant or direct the grant of a licence under sub paragraph (1) unless it is for a movement of—
+  >
+  > - (a) processed animal protein within the meaning of paragraph 5 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph B of Section 1 of Chapter II of Annex X to that Regulation;
+  > - (b) blood products within the meaning of paragraph 4 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph B of Section 2 of Chapter II of Annex X to that Regulation;
+  > - (c) rendered fats within the meaning of paragraph 8 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph B of Section 3 of Chapter II of Annex X to that Regulation;
+  > - (d) gelatine within the meaning of paragraph 12 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph B of Section 5 of Chapter II of Annex X to that Regulation;
+  > - (e) hydrolysed protein within the meaning of paragraph 14 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph D of Section 5 of Chapter II of Annex X to that Regulation;
+  > - (f) dicalcium phosphate which complies with the requirements of paragraph B of Section 6 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+  > - (g) tricalcium phosphate which complies with the requirements of paragraph B of Section 7 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+  > - (h) collagen within the meaning of paragraph 11 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph B of Section 8 of Chapter II of Annex X to that Regulation;
+  > - (i) egg products which comply with the requirements of paragraph B of Section 9 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+  > - (j) processed petfood within the meaning of paragraph 20 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of Chapter II of Annex XIII to that Regulation;
+  > - (k) raw petfood within the meaning of paragraph 21 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of Chapter II of Annex XIII to that Regulation;
+  > - (l) dogchews within the meaning of paragraph 17 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of Chapter II of Annex XIII to that Regulation;
+  > - (m) processed manure and processed manure products which comply with the requirements of Section 2 of Chapter I of Annex XI to Regulation (EU) No 142/2011;
+  > - (n) game trophies of birds having undergone a complete taxidermy treatment ensuring their preservation at ambient temperatures within the meaning of Chapter VI of Annex XIII to Regulation (EU) No 142/2011;
+  > - (o) those by-products which are transported to designated plants listed in article 13(1)(c) for disposal, treatment, transformation or use which ensures inactivation of the avian influenza virus;
+  > - (p) those by-products which are transported to users or collection centres authorised and registered in accordance with Article 23 of Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) for the feeding of animals after they have been treated by a method approved by the competent authority which ensures inactivation of the avian influenza virus;
+  > - (q) untreated feathers or parts of untreated feathers produced from poultry within the meaning of paragraph 30 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph A of Chapter VII of Annex XIII to that Regulation; or
+  > - (r) poultry feathers, feathers from wild game bird or parts of such feathers which have been treated with a steam current or by another method which ensures inactivation of the avian influenza virus.
+
+  ; and
+- (b) in sub-paragraph (3), for “Annex V to that Regulation” substitute “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Annex IV to Regulation (EU) No 142/2011 ”;
+- (c) in sub-paragraph (5) for “(2)(p) and (q)” substitute “ (2)(q) and (r) ”; and
+- (d) in sub-paragraph (6), for “(2)(q)” substitute “ (2)(r) ”.
+
+### The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007
+
+**15.** The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007 [^c21932481] is amended as follows.
+
+**16.** In article 2 (interpretation), in the definition of “Regulation (EU) No 142/2011” after “that Directive” insert “ , as last amended by Commission Regulation (EU) No 717/2013; and references to that Regulation of 2011 are references to that Regulation as amended from time to time ”.
+
+**17.** In article 3(6) (licences, notices and designations under this Order), for sub-paragraph (c) substitute—
+
+> - (c) the following plants if approved under Article 24 of Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)—
+>   - (i) incineration plants;
+>   - (ii) co-incineration plants;
+>   - (iii) processing plants;
+>   - (iv) biogas plants;
+>   - (v) composting plants;
+>   - (vi) petfood plants.
+
+.
+
+**18.** In article 14 (restrictions on the movement of bird by-products)—
+
+- (a) for paragraph (2) substitute—
+
+  > (2) But a veterinary inspector or an inspector acting under the direction of a veterinary inspector may license the movement of any of the following bird by-products:—
+  >
+  > - (a) processed animal protein within the meaning of paragraph 5 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph B of Section 1 of Chapter II of Annex X to that Regulation;
+  > - (b) blood products within the meaning of paragraph 4 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph B of Section 2 of Chapter II of Annex X to that Regulation;
+  > - (c) rendered fats within the meaning of paragraph 8 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph B of Section 3 of Chapter II of Annex X to that Regulation;
+  > - (d) gelatine within the meaning of paragraph 12 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph B of Section 5 of Chapter II of Annex X to that Regulation;
+  > - (e) hydrolysed protein within the meaning of paragraph 14 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph D of Section 5 of Chapter II of Annex X to that Regulation;
+  > - (f) dicalcium phosphate which complies with the requirements of paragraph B of Section 6 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+  > - (g) tricalcium phosphate which complies with the requirements of paragraph B of Section 7 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+  > - (h) collagen within the meaning of paragraph 11 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph B of Section 8 of Chapter II of Annex X to that Regulation;
+  > - (i) egg products which comply with the requirements of paragraph B of Section 9 of Chapter II of Annex X to Regulation (EU) No 142/2011;
+  > - (j) processed petfood within the meaning of paragraph 20 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of Chapter II of Annex XIII to that Regulation;
+  > - (k) raw petfood within the meaning of paragraph 21 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of Chapter II of Annex XIII to that Regulation;
+  > - (l) dogchews within the meaning of paragraph 17 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of Chapter II of Annex XIII to that Regulation;
+  > - (m) processed manure and processed manure products which comply with the requirements of Section 2 of Chapter I of Annex XI to Regulation (EU) No 142/2011;
+  > - (n) those by-products which are transported to designated plants listed in article 3(6)(c) for disposal, treatment, transformation or use which ensures inactivation of the avian influenza virus;
+  > - (o) those by-products which are transported to users or collection centres authorised and registered in accordance with Article 23 of Regulation (EU) No 142/2011 for the feeding of animals after they have been treated by a method approved by the competent authority which ensures inactivation of the avian influenza virus;
+  > - (p) game trophies of birds having undergone a complete taxidermy treatment ensuring their preservation at ambient temperatures within the meaning of Chapter VI of Annex XIII to Regulation (EU) No 142/2011;
+  > - (q) poultry feathers or parts of such feathers which have been treated with a steam current or by another method which ensures inactivation of the avian influenza virus; or
+  > - (r) untreated feathers or parts of untreated feathers produced from poultry or wild game birds from a restricted zone within the meaning of paragraph 30 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph A of Chapter VII of Annex XIII to that Regulation.
+
+  ;
+- (b) in paragraph (4), for “(2)(p) and (q)” substitute “ (2)(q) and (r) ”; and
+- (c) in paragraph (6), for “(2)(p)” substitute “ (2)(q) ”.
+
+### The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010
+
+**19.** The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 [^c21932491] are amended as follows.
+
+**20.** In regulation 2(1) (interpretation), in the definition of “Regulation (EU) No 142/2011” after “that Directive” insert “ as last amended by Commission Regulation (EU) No 717/2013 ”.
+
+**21.** In Schedule 1 (ambulatory references)—
+
+- (a) omit “and” at the end of paragraph (f); and
+- (b) after paragraph (g) insert—
+
+  > ; and
+  >
+  > - (h) Regulation (EU) No 142/2011.
+
+  .
+
+**22.** In Schedule 6 (feedingstuffs)—
+
+- (a) in paragraph 3 (exceptions) for “the Animal By-Products (Enforcement) (Scotland) Regulations 2011” substitute “ the Animal By-Products (Enforcement) (Scotland) Regulations 2013 ”; and
+- (b) in paragraph 18(2) (export of processed animal protein to third countries), omit—
+  - (i) “Article 43 of”; and
+  - (ii) “and Article 25 of Regulation (EU) No 142/2011”.
+
+### The Waste Management Licensing (Scotland) Regulations 2011
+
+**23.**[^key-a587da6bd82135db15832a714dd85531] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Revocations
+
+Regulation 30
+
+| *Column 1* *Instrument* | *Column 2* *Citation* | *Column 3* *Extent of revocation* |
+| --- | --- | --- |
+| The Animal By-Products (Identification) Regulations 1995 | S.I. 1995/614 | In relation to Scotland, the whole Regulations. |
+| The Bovine Offal (Prohibition) (England, Wales and Scotland) (Revocation) Regulations 1995 | S.I. 1995/1955 | In relation to Scotland, regulation 3 of, and the final entry in the table in Schedule 1. |
+| The Animal By-Products (Identification) (Amendment) Regulations 1997 | S.I. 1997/2073 | In relation to Scotland, the whole Regulations. |
+| The Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (Scotland) Regulations 2000 | S.S.I. 2000/62 | Regulation 6(5) and Part V of Schedule 4. |
+| The Animal By-Products (Identification) Amendment (Scotland) Regulations 2002 | S.S.I. 2002/283 | The whole Regulations. |
+| The Animal By-Products (Identification) Amendment (Scotland) Regulations 2003 | S.S.I. 2003/53 | The whole Regulations. |
+| The Food Hygiene (Scotland) Regulations 2006 | S.S.I. 2006/3 | In Schedule 7, paragraphs 2 to 11. |
+| The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 | S.S.I. 2010/177 | In Schedule 9, paragraphs 1 and 2. |
+| The Animal By-Products (Enforcement) (Scotland) Regulations 2011 | S.S.I. 2011/171 | The whole Regulations. |
+| The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2012 | S.S.I. 2012/179 | The whole Regulations |
+
+*(This note is not part of the Regulations)*
+
+These Regulations revoke, in relation to Scotland, the Animal By-Products (Identification) Regulations 1995 and revoke and remake the Animal By-Products (Enforcement) (Scotland) Regulations 2011, incorporating certain provisions of the Animal By-Products (Identification) Regulations 1995.
+
+These Regulations enforce in Scotland Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council on laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (“**the EU Control Regulation**”).
+
+These Regulations also enforce in Scotland Commission Regulation (EU) No 142/2011 implementing Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive (“**the EU Implementing Regulation**”) that provides technical supplementation of those requirements of the EU Control Regulation.
+
+The EU Control Regulation places obligations on operators in relation to animal by-products, including obligations as to disposal and use, prohibitions on feeding, and placing on the market. In addition, there are requirements for operators, plants and establishments to be registered or approved. The obligations vary according to the categorisation of the material; the higher risk animal by-product is categorised as Category 1 material, next in risk is Category 2 and then Category 3 material. The EU Control Regulation allows the member State to derogate from the obligations and also enables the competent authority to make authorisations in relation to specified obligations. The EU Implementing Regulation sets out a framework for the categorisation and use of animal by-products and supplements the EU Control Regulation by containing detailed provisions for the disposal and use of animal by-products.
+
+These Regulations provide for the following:—
+
+- The Scottish Ministers are designated as the competent authority (regulation 3).
+- Certain areas are designated as remote for the purposes of Article 19(1)(b) of the EU Control Regulation (regulation 8).
+- Access by farmed animals to animal by-products is restricted (regulations 4-6) (Part 2).
+- The staining of certain animal by-products to prevent them entering the food chain, allowing for the revocation of similar provisions in the Animal By-Products (Identification) Regulations 1995 (Part 3). Stained animal by-products are not to be exported from Scotland to another member State without that State's agreement, although they may be moved within the UK.
+- Procedure and appeals in respect of registration and approval (Part 4).
+- Enforcement of the requirements by providing for offences including breach of the requirements of the EU Control Regulation as identified in Schedule 1 which sets out the requirements of the EU Control Regulation as supplemented by the requirements of the EU Implementing Regulation and these Regulations, where applicable (Part 5). The EU Control Regulation enables the competent authority to make authorisations in respect of such requirements. Such authorisations enable the competent authority to determine whether or not a product is a risk to human or animal health, for example. A full list of all the authorisations that are provided for under the requirements is available on the Scottish Government website at www.scotland.gov.uk. In addition, that website makes available the authorisations exercised by the Scottish Ministers.
+- Enforcement powers by appointing enforcement authorities (Part 6).
+- Consequential provisions (Part 7), revocations, savings and transitional provisions (Part 8).
+
+A Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government Rural and Environment Directorate, Animal Health and Welfare Division, Saughton House, Broomhouse Drive, Edinburgh EH11 3XD.
+
+## Annotations
+
+[^c21932311]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) (“**the 1972 Act**”). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), Schedule 8, paragraph 15(3) (which was amended by the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”), section 27(4)). Section 2(2) was also amended by the 2006 Act, section 27(1)(a) and by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“**the 2008 Act**”), Schedule, Part 1. Paragraph 1A of Schedule 2 was inserted by the 2006 Act, section 28 and was amended by the 2008 Act, Schedule, Part 1. The functions conferred upon the Minister of the Crown under the 1972 Act, section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of the 1998 Act, section 53.
+
+[^c21932321]: Marginal citation: OJ L 54, 26.02.2011, p.1, as last amended by Commission Regulation (EU) No 717/2013 (OJ L 201, 26.7.2013, p.31).
+
+[^c21932331]: Marginal citation: OJ L 300, 14.11.2009, p.1, amended by Directive 2010/63/EU (OJ L 276, 20.10.2010, p.33).
+
+[^key-8d5eeea31375c6fc86538d1948cbd6b4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/2/1) inserted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [13](https://www.legislation.gov.uk/ssi/2019/71/regulation/13)
+
+[^c21932341]: Marginal citation: OJ L 54, 26.2.2011, p.1.
+
+[^c21932351]: Marginal citation: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32).
+
+[^c21932361]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7), amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [sections 406](https://www.legislation.gov.uk/ukpga/2003/21/section/406) and 411(2) and (3) and Schedule 17, paragraph 158.
+
+[^key-7f5bb39645fc62211f593ce753d0755c]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/ssi/2013/307/regulation/7A) inserted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/2)
+
+[^c21932371]: Marginal citation: [S.S.I. 2006/3](https://www.legislation.gov.uk/ssi/2006/3), to which there are amendments not relevant to these Regulations.
+
+[^key-766bb997066bf5e0cc753230125337c2]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/ssi/2013/307/regulation/11/6) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c21932381]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39), amended by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), [section 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1) and Schedule 22, paragraph 232(1).
+
+[^c21932391]: Marginal citation: [S.S.I. 2006/3](https://www.legislation.gov.uk/ssi/2006/3).
+
+[^key-88119e163da6b56c96585f59d475a351]: Textual amendment: Words in reg. 25(3) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/3)
+
+[^c21932401]: Marginal citation: [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171) as amended by [S.S.I. 2012/179](https://www.legislation.gov.uk/ssi/2012/179).
+
+[^key-776b57394056ce9ceaa7cd3daff03000]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/ssi/2013/307/regulation/32) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/4)
+
+[^key-509075fb01deb8cb9d0d2999cc754e76]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-85b447a8aaa321bc53afe38790166b8f]: Textual amendment: Word in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-75fb33bfec941f49b25ec83d1684143b]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f92a62f6fb13e9767211d67fdfc270fd]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [32(3)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/32/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-fee12b8c149543e775e1d71f572dccda]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/1) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/393/regulation/2/5)
+
+[^key-923db46e309358e0cf0f76cf9adc6b32]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/1) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-0db4a188d93bd0d7f418f4d3cf47c990]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/2) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^c21932431]: Marginal citation: [S.S.I. 2006/4](https://www.legislation.gov.uk/ssi/2006/4).
+
+[^c21932441]: Marginal citation: OJ L 201, 26.7.2013, p.31.
+
+[^c21932451]: Marginal citation: [S.S.I. 2006/44](https://www.legislation.gov.uk/ssi/2006/44), relevantly amended by [S.S.I. 2007/455](https://www.legislation.gov.uk/ssi/2007/455) and [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171).
+
+[^c21932461]: Marginal citation: [S.S.I. 2006/45](https://www.legislation.gov.uk/ssi/2006/45) relevantly amended by [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171).
+
+[^c21932471]: Marginal citation: [S.S.I. 2007/61](https://www.legislation.gov.uk/ssi/2007/61) relevantly amended by [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171).
+
+[^c21932481]: Marginal citation: [S.S.I. 2007/62](https://www.legislation.gov.uk/ssi/2007/62) relevantly amended by [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171).
+
+[^c21932491]: Marginal citation: [S.S.I. 2010/177](https://www.legislation.gov.uk/ssi/2010/177) relevantly amended by [S.S.I. 2011/171](https://www.legislation.gov.uk/ssi/2011/171).
+
+[^key-a587da6bd82135db15832a714dd85531]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/23) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

@@ -1,0 +1,72 @@
+---
+title: Moveable Transactions (Scotland) Act 2023, section 28
+act: Moveable Transactions (Scotland) Act 2023
+section: '28'
+status: revised
+text_date: '2025-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2023/3/section/28
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Moveable Transactions (Scotland) Act 2023, section 28
+
+> Text as at 2025-04-01.
+>
+> Extent: Scotland.
+
+## 28. Seriously misleading inaccuracies in the assignations record[^key-e62b7bf1a54532094554486f1b1b2f16][^key-6925d7ebe98c3cb68b0b626c1bea124c][^key-d70f3958abcd6e5960edc40090b4f363]
+
+*Extent: S*
+
+[^key-d70f3958abcd6e5960edc40090b4f363]
+
+(1) In determining for the purpose of section 27(1)(a)(ii) whether an entry in the assignations record is seriously misleading as a result of an inaccuracy or inaccuracies in it—
+
+- (a) the entry is seriously misleading where—
+  - (i) any of subsections (2) to (5) apply, or
+  - (ii) despite sub-paragraph (i) not being satisfied, the inaccuracy or inaccuracies are such that a reasonable person would be seriously misled by the entry,
+- (b) any inaccuracy is to be disregarded to the extent that it appears in the assignation document but is not replicated elsewhere in the entry,
+- (c) where the entry is seriously misleading in respect of only part of the assigned claim, that is not to be taken to affect the entry in its application to the rest of the claim,
+- (d) where the entry is seriously misleading in respect of a co-assignor or co-assignee but not in respect of both (or all) co-assignors or co-assignees, that is not to be taken to affect the entry in its application to a co-assignor or co-assignee in respect of whom the entry is not seriously misleading.
+
+(2) This subsection applies where—
+
+- (a) the assignor is a person required by RoA Rules to be identified in the assignations record by an identifying number, and
+- (b) if a search of the record were to be carried out for that number, using the search facility provided under section 33, it would not disclose the entry.
+
+(3) This subsection applies where—
+
+- (a) the assignor is not a person required by RoA Rules to be identified in the assignations record by an identifying number, and
+- (b) if a search of the record were to be carried out, using the search facility provided under section 33, for—
+  - (i) the assignor’s proper name at the date the application for registration was made, or
+  - (ii) the assignor’s proper name at that date together with the assignor’s month and year of birth,
+
+  it would not disclose the entry.
+
+(4) This subsection applies where the entry inaccurately reflects the assignee’s proper name at the date the application for registration was made in such a way that a reasonable person would be seriously misled.
+
+(5) This subsection applies where—
+
+- (a) there is a requirement, by virtue of section 21(1)(g), for an entry in the assignations record to specify the type of claim assigned, and
+- (b) the entry—
+  - (i) describes the claim as being of a type that it is not, or
+  - (ii) fails to allocate a type to the claim.
+
+(6) In the application of this section to co-assignors and co-assignees—
+
+- (a) subsections (2) and (3) apply in relation to a co-assignor as they apply in relation to an assignor,
+- (b) subsection (4) applies in relation to a co-assignee as it applies in relation to an assignee.
+
+(7) The Scottish Ministers may by regulations modify this section to make provision about what does, and what does not, make an entry seriously misleading for the purpose of section 27(1)(a)(ii) and how that is to be determined.
+
+(8) In this section, the “proper name” of an assignor or assignee means the person’s name in the form determined in accordance with RoA Rules.
+
+## Annotations
+
+[^key-e62b7bf1a54532094554486f1b1b2f16]: Commencement: S. 28 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+
+[^key-6925d7ebe98c3cb68b0b626c1bea124c]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2023/3/section/28) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+
+[^key-d70f3958abcd6e5960edc40090b4f363]: Modification: Pt. 1 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/275/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/275/article/4), [20](https://www.legislation.gov.uk/uksi/2025/275/article/20))

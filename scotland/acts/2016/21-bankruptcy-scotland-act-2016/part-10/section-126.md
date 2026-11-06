@@ -1,0 +1,48 @@
+---
+title: Bankruptcy (Scotland) Act 2016, section 126
+act: Bankruptcy (Scotland) Act 2016
+section: '126'
+status: revised-with-pending-changes
+text_date: '2025-06-25'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/21/section/126
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Bankruptcy (Scotland) Act 2016, section 126
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2016/21
+>
+> Extent: Scotland.
+
+## 126. Adjudication of claims: general[^key-cf1d3db3fcf90e5353d5a8df104416b3]
+
+*Extent: S*
+
+(1) At the commencement of every meeting of creditors (other than the statutory meeting) the trustee in the sequestration must, for the purposes of section 128 so far as it relates to voting at the meeting, accept or reject the claim of each creditor.
+
+(2) Subsection (3) applies where funds are available for payment of a dividend out of the debtor's estate in respect of an accounting period.
+
+(3) For the purpose of determining who is entitled to such a dividend, the trustee—
+
+- (a) must, not later than 4 weeks before the end of the period, accept or reject every claim submitted (or deemed to have been re-submitted) to the trustee under this Act, and
+- (b) must, at the same time, make a decision on any matter required to be specified under paragraph (a) or (b) of subsection (7).
+
+(4) The trustee must then, as soon as reasonably practicable, send a list of every claim so accepted or rejected (including its amount and whether it has been accepted or rejected) to the debtor and to every creditor known to the trustee.
+
+(5) If the amount of a claim is stated in foreign currency, the trustee in adjudicating under subsection (1) or (3) on the claim must convert the amount into sterling, in such manner as may be prescribed, at the rate of exchange prevailing at the close of business on the date of sequestration.
+
+(6) Where the trustee rejects a claim, the trustee must forthwith notify the claimant, giving reasons for the rejection.
+
+(7) Where the trustee accepts or rejects a claim, the trustee must record the trustee's decision on the claim, specifying—
+
+- (a) the amount of the claim accepted by the trustee,
+- (b) the category of debt, and the value of any security, as decided by the trustee, and
+- (c) if the trustee is rejecting the claim, the trustee's reasons for doing so.
+
+(8) Any reference in this section or in section 127 to the acceptance or rejection of a claim is to be construed as a reference to the acceptance or rejection of the claim in whole or in part.
+
+## Annotations
+
+[^key-cf1d3db3fcf90e5353d5a8df104416b3]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2016/21/section/126) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

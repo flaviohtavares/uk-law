@@ -1,0 +1,635 @@
+---
+title: The Bluetongue (Scotland) Order 2012
+id: ssi/2012/199
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-06-20'
+text_date: '2026-10-03'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2012/199
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2012/199/pdfs/ssien_20120199_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/199/pdfs/ssi_20120199_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/199/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bluetongue (Scotland) Order 2012
+
+> Text as at 2026-10-03.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2012 No. 199
+
+Animals
+
+Animal Health
+
+The Bluetongue (Scotland) Order 2012
+
+Made
+
+20th June 2012
+
+Laid before the Scottish Parliament
+
+22nd June 2012
+
+Coming into force
+
+24th September 2012
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00001], and sections 1, 7(1), 8(1), 15(4), 17(1), 23, 25, 28, 32(2), 35(3), 72, 83(2), 87(2) and 88(2) of the Animal Health Act 1981[^f00002], and all other powers enabling them to do so[^f00003].
+
+This Order makes provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for the references in this Order to [Commission Regulation (EC) No 1266/2007](https://www.legislation.gov.uk/european/regulation/2007/1266) on implementing rules for Council Directive [2000/75/EC](https://www.legislation.gov.uk/european/directive/2000/0075) as regards the control, monitoring, surveillance and restrictions on movements of certain animals of susceptible species in relation to bluetongue[^f00004] to be references to that instrument as amended from time to time.
+
+## PART 1 — Preliminary
+
+### 1. Citation, commencement and extent[^key-17615ce0c4c2517650b57758edbed610]
+
+This Order—
+
+- (a) may be cited as the Bluetongue (Scotland) Order 2012;
+- (b) comes into force on 24th September 2012; and
+- (c) extends to Scotland only.
+
+### 2. Interpretation[^key-a51072275623c23b998a0a09801b7c44]
+
+In this Order—
+
+- “animal” means a ruminating animal or camelid, other than a wild animal, and “carcase”, “embryo”, “ovum” and “semen” mean the carcase, embryo, ovum and semen of such an animal;
+- “authorised veterinary inspector” means the veterinary inspector authorised by the Scottish Ministers to receive information about animals or carcases infected or suspected of being infected with bluetongue for the area concerned;
+- “Commission Regulation” means Commission Regulation (EC) No 1266/2007 on implementing rules for Council Directive [2000/75/EC](https://www.legislation.gov.uk/european/directive/2000/0075) as regards the control, monitoring, surveillance and restrictions on movements of certain animals of susceptible species in relation to bluetongue, as amended from time to time;
+- “confirmation of bluetongue” means a declaration by the Scottish Ministers, based on laboratory results, that the bluetongue virus is circulating in a specific area or, in the event of an epidemic, confirmation by the Scottish Ministers of the presence of bluetongue based upon either or both of clinical or epidemiological results;
+- “control zone” means a control zone declared under article 15;
+- “free area” means an area not subject to bluetongue restrictions under this Order;
+- “live attenuated vaccine” means a vaccine which is produced by adapting bluetongue virus field isolates through serial passages in tissue culture or in embryonated hens’ eggs;
+- “midge” means an insect of the genus *Culicoides;*
+- “premises” includes any place;
+- “protection zone” means a protection zone declared under article 16 or 24;
+- “restricted zone” means, except in articles 19 and 20[^f00005], a restricted zone declared under article 16 or 24;
+- “surveillance zone” means a surveillance zone declared under article 16 or 24;
+- “temporary control zone” means a temporary control zone declared under article 13; and
+- “veterinary inspector”, includes, except as otherwise provided for in this Order, an inspector acting under the instruction of a veterinary inspector.
+
+### 3. Notices and other instruments[^key-e29543f282857eededfd40d666fb4f7d]
+
+(1) Any notice or other instrument under this Order—
+
+- (a) may be subject to conditions; and
+- (b) may unless specified otherwise be amended, suspended or revoked by notice at any time.
+
+(2) Any other instrument under this Order must be in writing.
+
+(3) In this article, “other instrument” means any authorisation, designation, direction, declaration or licence.
+
+### 4. Declarations of zones and areas[^key-b91f7899d5fc39d2d2dce68ea9438f07]
+
+(1) A declaration of a zone or area under this Order—
+
+- (a) must designate the extent of the zone or area declared; and
+- (b) may include requirements or other measures.
+
+(2) A person must comply with any condition, requirement or measure in a declaration of zone or area under this Order related to any activity or role of that person.
+
+### 5. Licences[^key-4b0d432197586d145ebec276d77c8c8a]
+
+(1) A licence granted under this Order may (unless specified otherwise) be general or specific.
+
+(2) Any person moving anything under the authority of a general or specific licence granted under this Order must—
+
+- (a) keep upon them the licence or a copy of it at all times during such movement;
+- (b) on demand by a veterinary inspector, an inspector or an officer of the Scottish Ministers, produce the licence or a copy of it and allow a copy or extract to be taken; and
+- (c) keep the licence or a copy of it for the period of 6 months after the movement is completed.
+
+(3) Any person moving anything under the authority of a general licence granted under this Order must—
+
+- (a) carry, at all times during that movement, a consignment note containing details of—
+  - (i) what is being transported, including the quantity;
+  - (ii) the date of the movement;
+  - (iii) the name of the consignor;
+  - (iv) the address of the premises from which the movement started;
+  - (v) the name of the consignee; and
+  - (vi) the address of the premises of destination;
+- (b) on demand by a veterinary inspector, an inspector or an officer of the Scottish Ministers, produce the consignment note and allow a copy or extract to be taken; and
+- (c) keep the consignment note or a copy of it for the period of 6 months after the movement is completed.
+
+(4) A person—
+
+- (a) to whom a specific licence is granted under this Order; or
+- (b) doing anything under the authority of a general licence granted under this Order,
+
+must comply with any condition of the licence.
+
+### 6. Licences granted outside Scotland[^key-47dd6ecb36854cf22e4fcece6ba8fda8]
+
+(1) Except as otherwise directed by the Scottish Ministers, licences granted in England or Wales for activities which could be licensed in Scotland under this Order have effect in Scotland as if they were licences granted under this Order.
+
+(2) Except as otherwise directed by the Scottish Ministers, premises in England or Wales designated respectively by the Secretary of State or the Welsh Ministers for the same purposes as they may be designated under this Order are deemed to be designated by the Scottish Ministers for the purposes of this Order.
+
+### 7. Extension of definition of “disease”[^key-0008660f4bfa5636904b3a4156e1b857]
+
+The definition of “disease” in section 88(1) of the Animal Health Act 1981 continues to be extended to include bluetongue for all the purposes of that Act[^f00006].
+
+### 8. Disapplication[^key-8241b7b2ba3af8f01b7c38d33450954d]
+
+This Order does not apply to bluetongue virus possessed under a licence issued under the Specified Animal Pathogens (Scotland) Order 2009[^f00007].
+
+### 9. Competent authority[^key-c212b13f63d006bcee89c0926b80df6d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Reporting requirement under bluetongue surveillance programmes[^key-73e006159a54a92954d7b33a5a8397f2]
+
+It is an offence against the Animal Health Act 1981 for the owner or keeper of an animal, or a veterinarian, not to promptly report any suspicion of bluetongue in accordance with point 2.1 of Annex I to the Commission Regulation[^f00008].
+
+## PART 2 — Suspicion of, and infection with, bluetongue
+
+### 11. Notifications and initial requirements where bluetongue is suspected[^key-16929174a41db731abe1dcc0f10d0b7e]
+
+(1) The owner or keeper of any animal or carcase, or any person who examines or inspects any animal or carcase, who suspects that the animal or carcase is infected with bluetongue, must—
+
+- (a) immediately notify the authorised veterinary inspector;
+- (b) not move any animal or carcase off the premises where that animal or carcase is located; and
+- (c) where there are means available for doing so, ensure that any animals located on those premises are confined indoors during any period of midge activity.
+
+(2) Any person who analyses a sample taken from any animal or carcase and who finds evidence of infection with the bluetongue virus must immediately notify the authorised veterinary inspector.
+
+### 12. Suspect and contact premises[^key-22425a63a7478c780c17552fe6f53f47]
+
+(1) Where suspicion of bluetongue has been notified in respect of any animal or carcase, a veterinary inspector must serve a notice (‘a suspect case notice’) on either the occupier of, or keeper of any animal on, those premises (‘the suspect premises’), or both, requiring that—
+
+- (a) no animal enters or leaves the premises;
+- (b) an inventory of all animals on the premises is made, recording, for each species—
+  - (i) the number dead;
+  - (ii) the number alive; and
+  - (iii) the number of those alive which are infected or likely to be infected with bluetongue;
+- (c) the inventory is kept up to date to take account of animals which are born or die, including details of the dates of birth and death of such animals;
+- (d) all animals on the premises are confined indoors except as directed by a veterinary inspector; and
+- (e) the premises and animals on them are subject to the midge control measures specified in the notice.
+
+(2) The person making the inventory must also keep a record of it for at least two years from the date of the last entry.
+
+(3) A veterinary inspector may serve a suspect case notice on the occupier of, or keeper of any animal at other premises (‘the contact premises’), or both, in the event that the location of those premises, their geographical situation or contacts with the suspect premises provides grounds for suspecting the possibility of contamination with bluetongue at the contact premises.
+
+(4) A notice under paragraph (1) or (3) must not be revoked until the suspected presence of bluetongue has been ruled out by the Scottish Ministers.
+
+### 13. Temporary control zones[^key-cf345d871ce2b73002d78b524d2920ac]
+
+(1) The Scottish Ministers may, on suspicion of bluetongue virus on premises, declare a temporary control zone.
+
+(2) If there is suspicion of bluetongue on premises outside Scotland, the Scottish Ministers may declare a temporary control zone in Scotland.
+
+(3) The location and size of a temporary control zone is to be such as the Scottish Ministers consider appropriate to prevent the spread of bluetongue.
+
+(4) The Scottish Ministers may apply such of the requirements as are referred to in article 12(1)(b) to (e) to premises within a temporary control zone as they consider appropriate.
+
+(5) A temporary control zone ceases to exist in any area subsequently incorporated into a control zone or restricted zone.
+
+(6) A person must not move any animal, embryo, ovum or semen to or from premises in a temporary control zone except as authorised by a licence granted by the Scottish Ministers.
+
+### 14. Notices on infection with bluetongue[^key-4eb4e8d062e95659b53a2b205312dda3]
+
+(1) If a veterinary inspector is satisfied that the bluetongue virus is present in any animal or at any premises (‘the infected premises’) the veterinary inspector may serve a notice, doing one or more of the following things, on the occupier of or keeper of any animals on the infected premises, or both—
+
+- (a) stating that the virus is present;
+- (b) suspending the requirement under article 11 to notify any further suspected cases of bluetongue on the premises to the authorised veterinary inspector;
+- (c) removing or altering a requirement imposed by article 12 or by a notice served under that article.
+
+(2) The veterinary inspector may also serve a notice on the occupier of any laboratory analysing samples for bluetongue, suspending the requirement under article 11 to notify the authorised veterinary inspector of any further evidence of infection with the bluetongue virus on the infected premises.
+
+## PART 3 — Confirmation of bluetongue
+
+### 15. Control zones[^key-dacae10a924d877b2e125ecbcf0f7986]
+
+(1) The Scottish Ministers must, on confirmation of bluetongue on premises in Scotland, declare a control zone.
+
+(2) If bluetongue is confirmed outside Scotland by a competent authority other than the Scottish Ministers, the Scottish Ministers may declare a control zone in Scotland.
+
+(3) The size of a control zone is to be such as the Scottish Ministers consider necessary to reduce the spread of bluetongue.
+
+(4) A person must not move an animal, into, out of, or within a control zone.
+
+(5) A control zone may be extended or reduced by the Scottish Ministers on the basis of epidemiological, geographical, ecological or meteorological circumstances.
+
+(6) The Scottish Ministers may, in declaring a control zone, specify such other measures as they consider necessary to reduce the risk of the spread of bluetongue.
+
+### 16. Restricted, protection and surveillance zones[^key-08e2d1a9cf471e04be490c05b85b5cbf]
+
+(1) The Scottish Ministers must, on confirmation of bluetongue on premises in Scotland, declare an appropriate area a restricted zone.
+
+(2) If bluetongue is confirmed outside Scotland by a competent authority, the Scottish Ministers may, if they consider it appropriate for disease control purposes, declare a restricted zone in Scotland.
+
+(3) The Scottish Ministers may in declaring a restricted zone declare that an area around infected premises is a protection zone and the area beyond that protection zone is a surveillance zone.
+
+(4) A surveillance zone must not include any area in which vaccination against bluetongue using live attenuated vaccine has been carried out in the twelve month period before confirmation of bluetongue.
+
+(5) A person must not move an animal out of a protection zone except as authorised by a licence granted by the Scottish Ministers.
+
+(6) A person must not move an animal, embryo, ovum or semen out of a restricted zone except as authorised by a licence granted by the Scottish Ministers.
+
+(7) A person must not move an animal out of or within a restricted zone if it is showing clinical signs of bluetongue on the day of movement.
+
+(8) The Scottish Ministers must grant a licence under paragraph (5) or (6) if the movement is permitted under the Commission Regulation, and the conditions of such a licence must be such as to ensure that the movement is made in accordance with the Commission Regulation.
+
+### 17. Premises straddling zones[^key-5b49994f46cc92280ab0cf357dc284b3]
+
+(1) Premises partly inside a temporary control zone and partly inside a free area are treated as being wholly inside the temporary control zone.
+
+(2) Premises partly inside a control zone are treated as being wholly inside that zone.
+
+(3) Otherwise—
+
+- (a) if a restricted zone has been divided into a protection zone and a surveillance zone premises partly inside the protection zone and partly inside the surveillance zone are treated as being wholly inside the protection zone;
+- (b) premises partly inside a restricted zone and partly inside a free area are treated as being wholly inside the restricted zone; and
+- (c) premises partly inside a restricted zone and partly inside a temporary control zone are treated as being wholly inside the restricted zone.
+
+### 18. Slaughterhouses[^key-a68b2c0f9226eaff14cbbdeac73a5c74]
+
+(1) The Scottish Ministers may designate slaughterhouses for the purposes of slaughtering animals transported out of a restricted zone.
+
+(2) The conditions of any designation must be such as to ensure that the slaughterhouse operates in accordance with the Commission Regulation.
+
+(3) The operator of a slaughterhouse in a surveillance zone may only slaughter an animal from a protection zone if licensed to do so by the Scottish Ministers.
+
+### 19. Movement of animals from a restricted zone[^key-d8a78ff74e1fb004fd6d49089d873a10]
+
+(1) This article applies where an animal has been within a restricted zone at any time within the 60 day period before it is moved to premises in a free area.
+
+(2) The occupier of premises in a free area to which an animal to which this article applies has been moved must notify the movement to the Scottish Ministers within 3 working days from the arrival of the animal.
+
+(3) An inspector may, by notice served on the occupier of any premises referred to in paragraph (2), or on the keeper of an animal at such premises, prohibit the movement of any animal from the premises except under the authority of a licence issued by an inspector.
+
+(4) In this article and in article 20, “restricted zone” means a zone anywhere in the European Union consisting either or both of protection and surveillance zones.
+
+### 20. Movement of vaccinated animals[^key-3936ec49799639ea31730f7ddcea502f]
+
+(1) This article applies to an animal to which paragraph (2) applies that has been within a restricted zone at any time within the 60 day period before the animal is moved from a place in the United Kingdom to—
+
+- (a) a free area; or
+- (b) a surveillance zone.
+
+(2) This paragraph applies to an animal which is moved from a protection or restricted zone on the ground that [^key-d7eef0abf52fcb060ad95a32b9c46c7e]... the animal complies with the condition set out in point 5 of Part A of Annex III to the Commission Regulation.
+
+(3) The occupier of the premises where such an animal is received, and the keeper of such an animal, must ensure that the animal is accompanied by a veterinary certificate.
+
+(4) In this article—
+
+- “veterinary certificate” means—
+  - (a) a certificate by a veterinary surgeon confirming that an animal identified in the certificate has been vaccinated by the veterinary surgeon, and that any supplementary vaccinations or boosters required at the date of the certificate to maintain immunity against bluetongue have been administered, or a copy; or
+  - (b) a health certificate as referred to in point 5 of Part A of Annex III to the Commission Regulation, with the additional wording required to be added by that paragraph, or a copy; and
+- “veterinary surgeon” means a person registered in the register of veterinary surgeons, or the supplementary register, kept under the Veterinary Surgeons Act 1966[^f00009].
+
+### 21. Slaughter of animals[^key-7a895408f37be2601eb63ff46a2ebb27]
+
+Section 32 of the Animal Health Act 1981 (which relates to slaughter and compensation) continues to apply to bluetongue[^f00010].
+
+## PART 4 — Exports
+
+### 22. Exports[^key-7da515075c347decb79569a4797de752]
+
+(1) A person must not export to a third country any animal, embryo, ovum or semen unless it complies with the Commission Regulation.
+
+(2) An inspector who has reasonable cause to suspect that a person intends to export any animal, embryo, ovum or semen in contravention of this article may by notice served on that person, that person’s representative or the person appearing to be in charge of the animal, embryo, ovum or semen—
+
+- (a) prohibit that export; and
+- (b) require the person on whom the notice is served—
+  - (i) to take the animal, embryo, ovum or semen to such places as may be specified in the notice; and
+  - (ii) to take such further action in relation to it as may be specified in the notice.
+
+(3) If a notice served under paragraph (2) is not complied with, an inspector may seize any animal or thing to which it relates.
+
+(4) It is an offence against the Animal Health Act 1981 for a person to fail to comply with paragraph (1) or a notice served under paragraph (2).
+
+## PART 5 — Vaccination
+
+### 23. General prohibitions[^key-40f804128c1d05d3d9c213c1704ee842]
+
+A person must not vaccinate an animal against bluetongue except in accordance with this Part.
+
+### 24. Voluntary vaccination[^key-689c610555851d33604856ff0ae9485f]
+
+(1) The Scottish Ministers may declare that in a restricted zone (or part of a restricted zone) declared under article 16 or in[^key-c22f8c5d0f4f2dff098964753d054018] a free area (or part of a free area) voluntary vaccination against bluetongue is permitted.
+
+(2) A declaration under paragraph (1) may be made only if—
+
+- (a) it is based on the result of a specific risk assessment carried out by the Scottish Ministers; [^key-077896d9c7210f1772535fc0ef8ec022]...
+- (b)[^key-38f7a60542b6b270d527a2cc6d660e2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where a declaration under paragraph (1) provides for the use of live attenuated vaccine in a free area (or part of a free area)[^key-edb547420440a309336c9774f732b463], the Scottish Ministers must declare a restricted zone comprising—
+
+- (a) a protection zone of at least the area in which vaccination may take place; and
+- (b) a surveillance zone.
+
+(4) Where a declaration under paragraph (1) is made, a person may vaccinate an animal against bluetongue in accordance with it.
+
+(5) Premises partly inside an area declared under paragraph (1) are treated as being wholly inside that area.
+
+### 25. Compulsory vaccination[^key-feb173c6c0a0a516fc56be99dbfe8363]
+
+(1) The Scottish Ministers may declare that in a restricted zone (or part of a restricted zone), vaccination against bluetongue is required.
+
+(2)[^key-1e694698326981eae5025ec07d56e924] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A declaration under paragraph (1) may not provide for the use of live attenuated vaccine in a surveillance zone.
+
+(4) Where a declaration under paragraph (1) is made, the owner of an animal to which the declaration applies must ensure the vaccination of the animal in accordance with the declaration.
+
+(5) Premises partly inside an area declared under paragraph (1) are treated as being wholly inside that area.
+
+## PART 6 — Enforcement and offences
+
+### 26. Powers of inspection etc.[^key-d33469bb1427d95efcd9a887cc83c3f5]
+
+(1) An inspector or officer of the Scottish Ministers may, for a relevant purpose—
+
+- (a) detain, isolate or restrain (or require the detention, isolation or restraint of) any animal;
+- (b) detain, examine or isolate (or require the detention, examination or isolation of) any thing;
+- (c) mark for identification purposes any animal, carcase or thing;
+- (d) require any person who knows about the movement of an animal to give details of that movement, and the details of any animal with which it has been in contact;
+- (e) require any occupier of premises or keeper of animals on premises to give details of animals either on those premises or on other premises where the occupier or keeper has animals;
+- (f) require the production of any record kept, in whatever form that record is held;
+- (g) copy any such record; or
+- (h) inspect and check the operation of any computer and associated apparatus or material used in connection with the making and keeping of records.
+
+(2) A veterinary inspector may, for a relevant purpose—
+
+- (a) require the cleaning and disinfection of any part of premises, or of any person, animal, vehicle, vessel or thing on premises;
+- (b) require the testing of any animal;
+- (c) require the treatment of any animal; or
+- (d) require any occupier of premises or the keeper of animals on premises to—
+  - (i) vaccinate (or allow the vaccination of) an animal;
+  - (ii) retain an animal for use as a sentinel animal, or allow the introduction of a sentinel animal on to premises;
+  - (iii) move an animal which has been moved other than in accordance with article 13, 16, 19 or 20, or in contravention of article 15, to a place specified by the veterinary inspector;
+  - (iv) set traps for, and trap, midges;
+  - (v) require or implement midge control measures; or
+  - (vi) require the destruction, burial, disposal or treatment of any thing.
+
+(3) A veterinary inspector, only, may, for a relevant purpose—
+
+- (a) examine any animal or carcase;
+- (b) carry out an epidemiological investigation relevant to the control of bluetongue; or
+- (c) carry out tests, and take samples (including blood samples) from any animal, carcase or thing, for the purpose of diagnosis or epidemiological investigation.
+
+(4) For the purposes of this article and article 27, each of the following is a “relevant purpose”—
+
+- (a) monitoring or carrying out surveillance for—
+  - (i) the bluetongue virus;
+  - (ii) antibodies to the bluetongue virus; or
+  - (iii) midges; or
+- (b) ensuring compliance with—
+  - (i) this Order; or
+  - (ii) the Commission Regulation.
+
+(5) In this article “sentinel animal” means an animal that is used for the purpose of surveillance for the bluetongue virus which, when first introduced or retained at any premises for that purpose, does not have antibodies to the bluetongue virus of the strain in respect of which surveillance is being carried out.
+
+### 27. Powers of entry[^key-0f49398e467c9e57259f638ab2db93be]
+
+(1) A veterinary inspector, or an officer of the Scottish Ministers acting under the direction of a veterinary inspector, may, for a relevant purpose, at all reasonable hours, enter any premises (except premises used wholly or mainly as a private dwelling house), vehicle or vessel.
+
+(2) A person entering premises, or a vehicle or vessel, under paragraph (1) must if required produce a duly authenticated document showing the person’s authority to enter.
+
+(3) Where paragraph (4) applies a justice of the peace, stipendiary magistrate or sheriff may by signed warrant permit a person mentioned in paragraph (1) to enter any premises, if necessary by reasonable force.
+
+(4) This paragraph applies where the justice, stipendiary magistrate or sheriff is satisfied, on sworn information in writing, that—
+
+- (a) there are reasonable grounds to enter those premises for a relevant purpose; and
+- (b) any of the conditions in paragraph (5) is met.
+
+(5) Those conditions are—
+
+- (a) entry to the premises has been, or is likely to be, refused, and notice of intention to apply for a warrant has been given to the occupier;
+- (b) asking for admission to the premises, or giving such notice, would defeat the object of entry;
+- (c) entry is required urgently; or
+- (d) the premises are unoccupied or the occupier is temporarily absent.
+
+(6) A warrant is valid for a period (fixed by the person granting it) of no more than three months.
+
+(7) A person entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
+
+(8) A person entering premises, or a vehicle or vessel, under this article may—
+
+- (a) take a vehicle;
+- (b) take any equipment the person considers necessary; and
+- (c) be accompanied by—
+  - (i) such other person as the person considers necessary; [^key-63f489817cba8668bbc592cd40fab622]...
+  - (ii)[^key-8cf9a16b05c555e31c356d78cafaa7a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Costs of compliance[^key-a1b89c8e61f70e19b30c14c562e7e029]
+
+Unless the Scottish Ministers direct otherwise, the costs incurred by any person in taking any action required, or in refraining from taking action that is prohibited, by or under this Order must be met by that person.
+
+### 29. Powers of inspectors in case of default[^key-860a3c3d64c0151b9513eca702e9668c]
+
+If any person fails to comply with any notice or other requirement in or under this Order, a veterinary inspector, inspector or officer of the Scottish Ministers as appropriate may take such steps as he or she considers necessary to ensure the notice or requirement is met, at the expense of that person.
+
+### 30. Damage[^key-d57c2ec231b78b2620835e3f7ad6ea54]
+
+A person must not—
+
+- (a) damage, interfere with or remove any traps set for midges as provided for under this Order; or
+- (b) deface, obliterate or remove any mark made by any person as provided for under this Order.
+
+### 31. Provision of assistance[^key-e9bad79f9a6e3306db2d064a40dbcca4]
+
+(1) Any person required to give reasonable assistance or information to a person acting under this Order must do so without delay.
+
+(2) A person must not provide false or misleading information to anyone acting under this Order.
+
+### 32. Offences by bodies corporate[^key-6b023c86a9904a4f91cf79f00a5e11fa]
+
+(1) Where—
+
+- (a) an offence in relation to this Order is committed by a body corporate or a Scottish partnership or other unincorporated association; and
+- (b) it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+  - (i) a relevant individual; or
+  - (ii) an individual purporting to act in the capacity of a relevant individual,
+
+the individual as well as the body corporate, Scottish partnership or unincorporated association commits an offence and is liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1), “relevant individual” means—
+
+- (a) in relation to a body corporate—
+  - (i) a director, manager, secretary or other similar officer of the body;
+  - (ii) where the affairs of the body are managed by its members, a member;
+- (b) in relation to a Scottish partnership, a partner;
+- (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+### 33. Enforcement[^key-23c996d59b294690534720a0bd50d724]
+
+(1) This Order and the Commission Regulation are enforced by the local authority.
+
+(2) But the Scottish Ministers may direct, in relation to cases of a particular description or to particular cases, that they will enforce this Order and the Commission Regulation instead of the local authority.
+
+## PART 7 — Consequential provisions
+
+### 34. Consequential provisions[^key-b9f694243a52e15ab05a2f1895e42be1]
+
+(1) The following Orders are revoked—
+
+- (a) the Bluetongue (Scotland) Order 2008[^f00011];
+- (b) the Bluetongue (Scotland) Amendment Order 2008[^f00012];
+- (c) the Bluetongue (Scotland) Amendment (No. 2) Order 2008[^f00013]; and
+- (d) the Bluetongue (Scotland) Amendment Order 2012[^f00014].
+
+(2) In the Trade in Animals and Related Products (Scotland) Regulations 2012[^f00015], paragraph 1(a) of Schedule 4 is revoked.
+
+(3) In the Trade in Animals and Related Products (Scotland) Amendment Order 2012[^f00016], article 3 is revoked.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order restates, with amendments, the Bluetongue (Scotland) Order 2008. Accordingly, it—
+
+- implements Council Directive [2000/75/EC](https://www.legislation.gov.uk/european/directive/2000/0075) (“the Directive”) laying down specific provisions for the control and eradication of bluetongue
+- enforces Commission Regulation 1266/2007.
+
+The only substantive differences from the 2008 Order arise from the amendment of the Directive by Directive 2012/5/EU so as to permit vaccination against bluetongue outside a restricted zone. These differences are contained in Part 5 of the Order.
+
+Part 2 of the Order provides for notification of and other procedural requirements on suspicion of bluetongue.
+
+Part 3 provides for the establishment of various zones on confirmation of bluetongue and movement restrictions and slaughter.
+
+Part 4 regulates exports.
+
+Part 6 provides for enforcement and offences. This Order is enforced by the local authority, unless the Scottish Ministers direct otherwise
+
+Part 7 revokes the 2008 Order and the Orders which amended it.
+
+As with the 2008 Order, failures to comply with relevant provisions of this Order are offences against the Animal Health Act 1981.
+
+A business and regulatory impact assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government Directorate for Agriculture, Food and Rural Communities, Animal Health and Welfare Division, Saughton House, Broomhouse Drive, Edinburgh.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) (“the 1972 Act”). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2) of the 1972 Act, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. The powers in section 2(2) are exercised in relation to articles 9 and 22(1) to (3) of this Order. Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act.
+
+[^f00002]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22) (“the 1981 Act”). Powers to make Orders under these sections were originally conferred on “the Ministers” (as defined in section 86(1) of the 1981 Act). The functions of the Ministers were, insofar as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00003]: Footnote: The powers to make this Order are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Order is subject to the negative procedure by virtue of section 33(4) of that Act.
+
+[^f00004]: Footnote: OJ No L 283, 27.10.2007, p.37 and OJ No L 327, 22.12.2000, p.74 respectively. At the date of making this order, the Regulation was last amended by Commission Implementing Regulation (EU) No 456/2012 (OJ No L 141, 31.05.2012, p.7) and the Directive was last amended by Directive 2012/5/EU (OJ No L 81, 21.03.2012, p.1).
+
+[^key-17615ce0c4c2517650b57758edbed610]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2012/199/article/1) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-a51072275623c23b998a0a09801b7c44]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2012/199/article/2) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^f00005]: Footnote: See article 19(4).
+
+[^key-e29543f282857eededfd40d666fb4f7d]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2012/199/article/3) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-b91f7899d5fc39d2d2dce68ea9438f07]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2012/199/article/4) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-4b0d432197586d145ebec276d77c8c8a]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2012/199/article/5) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-47dd6ecb36854cf22e4fcece6ba8fda8]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2012/199/article/6) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-0008660f4bfa5636904b3a4156e1b857]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2012/199/article/7) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^f00006]: Footnote: The definition was so extended by [S.S.I. 2008/11](https://www.legislation.gov.uk/ssi/2008/11), which is revoked by article 34 of this Order.
+
+[^key-8241b7b2ba3af8f01b7c38d33450954d]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2012/199/article/8) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^f00007]: Footnote: [S.S.I. 2009/45](https://www.legislation.gov.uk/ssi/2009/45) as amended by [S.S.I. 2009/394](https://www.legislation.gov.uk/ssi/2009/394).
+
+[^key-c212b13f63d006bcee89c0926b80df6d]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/ssi/2012/199/article/9) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [31(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/31/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-73e006159a54a92954d7b33a5a8397f2]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2012/199/article/10) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^f00008]: Footnote: Annex 1 was substituted by the Annex to Commission Implementing Regulation (EU) No 456/2012.
+
+[^key-16929174a41db731abe1dcc0f10d0b7e]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2012/199/article/11) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-22425a63a7478c780c17552fe6f53f47]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2012/199/article/12) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-cf345d871ce2b73002d78b524d2920ac]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2012/199/article/13) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-4eb4e8d062e95659b53a2b205312dda3]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2012/199/article/14) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-dacae10a924d877b2e125ecbcf0f7986]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2012/199/article/15) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-08e2d1a9cf471e04be490c05b85b5cbf]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2012/199/article/16) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-5b49994f46cc92280ab0cf357dc284b3]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2012/199/article/17) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-a68b2c0f9226eaff14cbbdeac73a5c74]: Commencement: [Art. 18](https://www.legislation.gov.uk/ssi/2012/199/article/18) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-d8a78ff74e1fb004fd6d49089d873a10]: Commencement: [Art. 19](https://www.legislation.gov.uk/ssi/2012/199/article/19) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-3936ec49799639ea31730f7ddcea502f]: Commencement: [Art. 20](https://www.legislation.gov.uk/ssi/2012/199/article/20) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-d7eef0abf52fcb060ad95a32b9c46c7e]: Textual amendment: Words in [art. 20(2)](https://www.legislation.gov.uk/ssi/2012/199/article/20/2) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [31(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/31/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00009]: Footnote: [1966 c.36](https://www.legislation.gov.uk/ukpga/1966/36).
+
+[^key-7a895408f37be2601eb63ff46a2ebb27]: Commencement: [Art. 21](https://www.legislation.gov.uk/ssi/2012/199/article/21) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^f00010]: Footnote: Section 32 was applied to bluetongue by [S.S.I. 2008/11](https://www.legislation.gov.uk/ssi/2008/11), which is revoked by article 34 of this Order.
+
+[^key-7da515075c347decb79569a4797de752]: Commencement: [Art. 22](https://www.legislation.gov.uk/ssi/2012/199/article/22) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-40f804128c1d05d3d9c213c1704ee842]: Commencement: [Art. 23](https://www.legislation.gov.uk/ssi/2012/199/article/23) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-689c610555851d33604856ff0ae9485f]: Commencement: Art. 24 in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-c22f8c5d0f4f2dff098964753d054018]: Textual amendment: Words in art. 24(1) inserted (3.10.2026) by [The Bluetongue (Scotland) Amendment Order 2026 (S.S.I. 2026/281)](https://www.legislation.gov.uk/ssi/2026/281), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/281/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2026/281/article/2/2/a)
+
+[^key-077896d9c7210f1772535fc0ef8ec022]: Textual amendment: Word in art. 24(2) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [31(4)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/31/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-38f7a60542b6b270d527a2cc6d660e2f]: Textual amendment: Art. 24(2)(b) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [31(4)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/31/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-edb547420440a309336c9774f732b463]: Textual amendment: Words in art. 24(3) inserted (3.10.2026) by [The Bluetongue (Scotland) Amendment Order 2026 (S.S.I. 2026/281)](https://www.legislation.gov.uk/ssi/2026/281), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/281/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2026/281/article/2/2/b)
+
+[^key-feb173c6c0a0a516fc56be99dbfe8363]: Commencement: [Art. 25](https://www.legislation.gov.uk/ssi/2012/199/article/25) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-1e694698326981eae5025ec07d56e924]: Textual amendment: [Art. 25(2)](https://www.legislation.gov.uk/ssi/2012/199/article/25/2) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [31(5)](https://www.legislation.gov.uk/ssi/2019/71/regulation/31/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d33469bb1427d95efcd9a887cc83c3f5]: Commencement: [Art. 26](https://www.legislation.gov.uk/ssi/2012/199/article/26) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-0f49398e467c9e57259f638ab2db93be]: Commencement: [Art. 27](https://www.legislation.gov.uk/ssi/2012/199/article/27) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-63f489817cba8668bbc592cd40fab622]: Textual amendment: Word in [art. 27(8)(c)](https://www.legislation.gov.uk/ssi/2012/199/article/27/8/c) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [31(6)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/31/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8cf9a16b05c555e31c356d78cafaa7a2]: Textual amendment: [Art. 27(8)(c)(ii)](https://www.legislation.gov.uk/ssi/2012/199/article/27/8/c/ii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [31(6)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/31/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a1b89c8e61f70e19b30c14c562e7e029]: Commencement: [Art. 28](https://www.legislation.gov.uk/ssi/2012/199/article/28) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-860a3c3d64c0151b9513eca702e9668c]: Commencement: [Art. 29](https://www.legislation.gov.uk/ssi/2012/199/article/29) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-d57c2ec231b78b2620835e3f7ad6ea54]: Commencement: [Art. 30](https://www.legislation.gov.uk/ssi/2012/199/article/30) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-e9bad79f9a6e3306db2d064a40dbcca4]: Commencement: [Art. 31](https://www.legislation.gov.uk/ssi/2012/199/article/31) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-6b023c86a9904a4f91cf79f00a5e11fa]: Commencement: [Art. 32](https://www.legislation.gov.uk/ssi/2012/199/article/32) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-23c996d59b294690534720a0bd50d724]: Commencement: [Art. 33](https://www.legislation.gov.uk/ssi/2012/199/article/33) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^key-b9f694243a52e15ab05a2f1895e42be1]: Commencement: [Art. 34](https://www.legislation.gov.uk/ssi/2012/199/article/34) in force at 24.9.2012, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b)
+
+[^f00011]: Footnote: [S.S.I. 2008/11](https://www.legislation.gov.uk/ssi/2008/11).
+
+[^f00012]: Footnote: [S.S.I. 2008/234](https://www.legislation.gov.uk/ssi/2008/234)
+
+[^f00013]: Footnote: [S.S.I. 2008/327](https://www.legislation.gov.uk/ssi/2008/327).
+
+[^f00014]: Footnote: [S.S.I. 2012/184](https://www.legislation.gov.uk/ssi/2012/184).
+
+[^f00015]: Footnote: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177).
+
+[^f00016]: Footnote: [S.S.I. 2012/198](https://www.legislation.gov.uk/ssi/2012/198).

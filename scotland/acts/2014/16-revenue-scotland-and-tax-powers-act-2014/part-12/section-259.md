@@ -1,0 +1,23 @@
+---
+title: Revenue Scotland and Tax Powers Act 2014, section 259
+act: Revenue Scotland and Tax Powers Act 2014
+section: '259'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2014/16/section/259
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Revenue Scotland and Tax Powers Act 2014, section 259
+
+> **Warning: changes not yet applied to this text (74).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/asp/2014/16
+>
+> Extent: Scotland.
+
+## 259. Crown application: Her Majesty
+
+*Extent: S*
+
+Nothing in this Act affects Her Majesty in Her private capacity.

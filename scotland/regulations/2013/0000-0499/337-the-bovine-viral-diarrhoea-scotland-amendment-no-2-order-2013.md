@@ -1,0 +1,260 @@
+---
+title: The Bovine Viral Diarrhoea (Scotland) Amendment ( No. 2) Order 2013
+id: ssi/2013/337
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-11-21'
+text_date: '2015-06-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/337
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/337/pdfs/ssipn_20130337_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/337/pdfs/ssi_20130337_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/337/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Bovine Viral Diarrhoea (Scotland) Amendment ( No. 2) Order 2013
+
+> Text as at 2015-06-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 337
+
+Animals
+
+Animal Health
+
+The Bovine Viral Diarrhoea (Scotland) Amendment (No. 2) Order 2013
+
+Made
+
+21st November 2013
+
+Laid before the Scottish Parliament
+
+22nd November 2013
+
+Coming into force
+
+1st January 2014
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1, 8(1) and 83(2) of the Animal Health Act 1981[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation[^key-2ab48f63bc5eebddf83ee44007040487]
+
+(1) This Order may be cited as the Bovine Viral Diarrhoea (Scotland) Amendment (No. 2) Order 2013 and comes into force on 1st January 2014.
+
+(2) In this Order “the 2013 Order” means the Bovine Viral Diarrhoea (Scotland) Order 2013[^f00002].
+
+## 2. Amendment of the 2013 Order[^key-f501032c275654a3bb06136563d66d61]
+
+The 2013 Order is amended in accordance with articles 3 to 17.
+
+**3.**[^key-3e435cb89a6f2ceaf880fe815b7a3eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-16e16e9230fbd94249ba4ece665a4878] In article 3 (notices and other instruments), after paragraph (3) insert—
+
+> (4) Any person moving a bovine animal under the authority of a licence granted under this Order must—
+>
+> - (a) keep upon that person the licence or a copy of it at all times during such movement;
+> - (b) on demand by a veterinary inspector, an inspector or an officer of the Scottish Ministers, produce the licence or a copy of it and allow a copy or extract to be taken; and
+> - (c) keep the licence or a copy of it for the period of 6 months after the movement is completed.
+
+.
+
+**5.**[^key-5f7aaf7a5b0feea4b38778941d7b3c66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-f9fb5f5df7c94f0bfa675ea18cd21cf5] In article 12(1)(a) (decision on type of sample to take), for “article 11(2)(d)” substitute “article 11(2)(d) or (da)”.
+
+**7.**[^key-0c0c85c08a95a8a79504883139641d35] In article 14(3)(b)(v) (submission of samples), for “article 11(2)(d), (e) or (f)” substitute “article 11(2)(d), (da), (e) or (f)”.
+
+**8.**[^key-539cb0b939cf4e64fec740f054c464db] Article 16 (movement of a qualifying calf) is revoked.
+
+**9.**[^key-cc10318d40223779d98c27a92b36355d] In article 17 (duties of operators of approved laboratories – breeding herds or breeding bovine animals)—
+
+- (a) after paragraph (2)(b)(i) insert—
+
+  > - (ia) in the case of a sample or samples as described in article 11(2)(e) or (f) or (5A), determine the result of the test of the sample or samples and whether this confirms the presence of BVDV in any calf or bovine animal (as identified by reference to the ear tag number from ear tags applied under the 2007 Regulations to that calf or bovine animal from which the sample derives);
+
+  ;
+- (b) in paragraph (2(b)(ii), after “finding” insert “and, in the case mentioned in head (ia), the result of the test for the identified calf or bovine animal”; and
+- (c) in paragraph (3)(a), for “article 11(2)(a), (b), (c) or (d)” substitute “article 11(2)(a),(b),(c), (d) or (da)”.
+
+**10.**[^key-3f44f61b81168bc6dedb01ea7e5a50b4] For article 18(2)(b) (duties of operators of approved laboratories – qualifying calves) substitute—
+
+> - (b) by notice inform the keeper of the result of the test, clearly indicating to the keeper whether the result confirms the presence of BVDV in the qualifying calf;
+
+.
+
+**11.**[^key-430fee3a35c06da4039de7fa1815cf3f] For article 20(1) (reporting of tests for presence of BVDV) substitute—
+
+> (1) This article applies where, other than under Part 2, a laboratory (including an approved laboratory) tests for evidence of exposure to BVDV or for the presence of BVDV a sample (of any description) taken from a bovine animal.
+
+.
+
+**12.**[^key-7c7ca8d1bf4cb2f8ffea73fe3576a0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^key-12866cfbf34584b31ac7364f30482b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^key-dbcd35906d86414d4304aa3acb1e9356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^key-55a69893bce3486921aac36378cc6ead] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^key-fa206e1e9b08347cb5d9e3afb590c78a] After Part 4 (BVD findings and status) insert—
+
+> **PART 4A — Movement restrictions**
+>
+> **23B. Movement of bovine animals**
+>
+> (1) This article applies to the keeper of a breeding herd or breeding bovine animal if, by the date of the most recent compliance deadline (set in accordance with article 10), the keeper has failed to comply with any obligations, so far as applicable to that keeper, in articles 11 and 14 (in this article “the applicable obligations”).
+>
+> (2) The keeper must not, during the relevant period, move (or arrange to move) any animal forming part of the breeding herd or the breeding bovine animal off the holding on which it is kept unless—
+>
+> - (a) the animal is being moved to slaughter;
+> - (b) the movement is under a licence granted by a veterinary inspector; or
+> - (c) an approved veterinary surgeon reasonably considers that appropriate testing has been carried out which shows that the animal is not or is no longer an infected animal and has notified the Scottish Ministers of that fact.
+>
+> (3) In paragraph (2), “the relevant period” is the period—
+>
+> - (a) beginning with the later of—
+>   - (i) 1st January 2014; or
+>   - (ii) the date of the most recent compliance deadline; and
+> - (b) ending on the date on which the keeper has complied with all of the applicable obligations and has been informed under article 17(2)(b)—
+>   - (i) of the BVD finding; and
+>   - (ii) where the case mentioned in article 17(2)(b)(ia) is applicable, of the result of the BVDV test in relation to the identified calf or bovine animal.
+>
+> **23C. Movement of a qualifying calf**
+>
+> (1) The keeper of a qualifying calf must not move (or arrange to move) the calf off the holding on which it is born unless paragraph (2) or (3) applies.
+>
+> (2) This paragraph applies where—
+>
+> - (a) a sample has been taken from the calf under article 15(1)(a) and submitted under article 15(1)(b); and
+> - (b) the keeper has, in accordance with article 18(2)(b), been informed that the calf has tested negative for the presence of BVDV.
+>
+> (3) This paragraph applies where—
+>
+> - (a) the calf is being moved to slaughter;
+> - (b) the move is under a licence granted by a veterinary inspector; or
+> - (c) an approved veterinary surgeon reasonably considers that appropriate testing has been carried out which shows that the calf is not or is no longer an infected animal and has notified the Scottish Ministers of that fact.
+>
+> **23D. Movement of an infected animal**
+>
+> (1) This article applies—
+>
+> - (a) where the keeper of a bovine animal knows, or ought reasonably to know, that it is an infected animal; and
+> - (b) until an approved veterinary surgeon considers, following appropriate further testing, that the animal is not or is no longer an infected animal and has notified the Scottish Ministers of that fact.
+>
+> (2) The keeper must not move (or arrange to move) the animal off the holding on which it is kept unless—
+>
+> - (a) the animal is being moved to slaughter under arrangements which do not give rise to any appreciable risk of the infection with BVDV of any other bovine animal (except a bovine animal which is also being moved to slaughter); or
+> - (b) the movement is under a licence granted by a veterinary inspector.
+>
+> (3) For the purposes of paragraph (1), the keeper of a bovine animal is to be taken to know that the animal is an infected animal if—
+>
+> - (a) on at least one occasion a sample (of any description) has been taken from the animal which has been tested by a laboratory (by any means) for the presence of BVDV; and
+> - (b) on that occasion or, where the keeper knows of more than one such occasion, the last such occasion, the result of the test has confirmed the presence of BVDV and the operator of the laboratory has informed the keeper of that fact.
+
+.
+
+**17.**[^key-5334c4ffdda66b2b2921aa350d10517c] In article 24 (maintenance and provision of information)—
+
+- (a)[^key-ae6b2a63bd86a4dfb9c0e300d718c4ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in paragraph (3)(a), for “that” substitute “any”; and
+- (c) in paragraph (4), for “paragraph (2)(b)” substitute “paragraph (2)”.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+21st November 2013
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the Bovine Viral Diarrhoea (Scotland) Order 2013 (“the 2013 Order”).
+
+The 2013 Order provides for all keepers of breeding bovine animals and breeding herds to take, or arrange to have taken, samples from their herds or animals and submit those for testing on an annual basis. Similar obligations apply in relation to keepers of (qualifying) calves born otherwise than into a breeding herd or to a breeding bovine animal. This is for the purpose of determining whether bovine viral diarrhoea virus (“BVDV”) is or may be present in the herd, animal or qualifying calf and, in respect of a herd or animal, this will generate a BVD status/finding. In addition, the Scottish Ministers have powers and duties in respect of informing certain persons of the current BVD finding and the results of BVDV tests.
+
+Article 3 of this Order amends article 2 of the 2013 Order to insert new definitions of “current BVD finding” and “infected animal”.
+
+Article 4 amends article 3 of the 2013 Order, which makes provision for the issuing of notices, licences or approvals.
+
+Article 5(a) amends article 11 of the 2013 Order in relation to blood sampling arrangements for breeding herds, and article 5(b) provides for alternative arrangements in respect of breeding herds kept within the local government area of the Shetland Islands. Articles 6, 7 and 9(c) respectively amend articles 12, 14 and 17 of the 2013 Order in consequence of article 5(b).
+
+Article 9(a) and (b) of this Order amends article 17 of the 2013 Order to make provision for the notification of test results confirming the presence of BVDV in relation to an identified calf or bovine animal. Article 10 of this Order amends article 18 of the 2013 Order to make similar provision for the notification of test results in relation to a qualifying calf.
+
+Article 11 amends article 20 of the 2013 Order to require the operator of a laboratory to notify to the Scottish Ministers the test results of all samples tested for evidence of exposure to BVDV or for the presence of BVDV.
+
+Article 12 amends article 21 of the 2013 Order (and article 14 makes a consequential amendment to article 23 of the 2013 Order). This is to make provision for the circumstances in which the BVD status of a breeding herd or breeding bovine animal is deemed to be “not negative”.
+
+Article 13 amends article 22 of the 2013 Order to require a keeper of a breeding herd or breeding bovine animal to notify a “not negative” BVD finding or a BVDV test result to the keeper of any other breeding herd or breeding bovine animal kept on the same holding.
+
+Article 15 inserts a new article 23A into the 2013 Order to require the keeper of a breeding herd or breeding bovine animal to notify certain persons about the current BVD finding prior to any movement of the herd or animal.
+
+Article 16 inserts a new Part 4A into the 2013 Order containing the following provisions—
+
+- New article 23B of the 2013 order prohibits or restricts the movement of breeding bovine animals or breeding herds until the keeper of those animals or herds has complied with the sampling and testing requirements under articles 11 and 14 of the 2013 Order;
+- New article 23C of the 2013 Order prohibits or restricts the movement of qualifying calves until the keeper has complied with the sampling and testing requirements under article 15 of the 2013 Order; and
+- New article 23D of the 2013 Order prohibits or restricts the movement of bovine animals infected with BVDV.
+
+Article 17 amends article 24 of the 2013 Order to extend the powers and duties of the Scottish Ministers in respect of providing information about current BVD findings and BVDV test results.
+
+This Order has been notified in draft to the European Commission in accordance with [Directive 98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and of the Council laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society Services (OJ L 204, 21.7.1998, p.37), as last amended by Regulation (EU) No 1025/2012 (OJ L 316, 14.11.2012, p.12).
+
+A business and regulatory impact assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government Rural Affairs and Environment Directorate, Saughton House, Broomhouse Drive, Edinburgh, EH11 3XD.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). Powers to make Orders under these sections were originally conferred on “the Ministers”, as defined in section 86(1) of the Animal Health Act 1981. The functions of the Ministers were, so far as within devolved competence, transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-2ab48f63bc5eebddf83ee44007040487]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/337/article/1) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^f00002]: Footnote: [S.S.I. 2013/3](https://www.legislation.gov.uk/ssi/2013/3), amended by [S.S.I. 2013/21](https://www.legislation.gov.uk/ssi/2013/21).
+
+[^key-f501032c275654a3bb06136563d66d61]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/337/article/2) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^key-3e435cb89a6f2ceaf880fe815b7a3eda]: Textual amendment: Art. 3 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+
+[^key-16e16e9230fbd94249ba4ece665a4878]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2013/337/article/4) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^key-5f7aaf7a5b0feea4b38778941d7b3c66]: Textual amendment: Art. 5 revoked (1.6.2015) by [The Bovine Viral Diarrhoea (Scotland) Amendment Order 2015 (S.S.I. 2015/186)](https://www.legislation.gov.uk/ssi/2015/186), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/186/article/1/1), [16(1)(b)](https://www.legislation.gov.uk/ssi/2015/186/article/16/1/b)
+
+[^key-f9fb5f5df7c94f0bfa675ea18cd21cf5]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2013/337/article/6) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^key-0c0c85c08a95a8a79504883139641d35]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2013/337/article/7) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^key-539cb0b939cf4e64fec740f054c464db]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2013/337/article/8) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^key-cc10318d40223779d98c27a92b36355d]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2013/337/article/9) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^key-3f44f61b81168bc6dedb01ea7e5a50b4]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2013/337/article/10) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^key-430fee3a35c06da4039de7fa1815cf3f]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2013/337/article/11) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^key-7c7ca8d1bf4cb2f8ffea73fe3576a0a2]: Textual amendment: Art. 12 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+
+[^key-12866cfbf34584b31ac7364f30482b20]: Textual amendment: Art. 13 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+
+[^key-dbcd35906d86414d4304aa3acb1e9356]: Textual amendment: Art. 14 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+
+[^key-55a69893bce3486921aac36378cc6ead]: Textual amendment: Art. 15 revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)
+
+[^key-fa206e1e9b08347cb5d9e3afb590c78a]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2013/337/article/16) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^key-5334c4ffdda66b2b2921aa350d10517c]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2013/337/article/17) in force at 1.1.2014, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/337/article/1/1)
+
+[^key-ae6b2a63bd86a4dfb9c0e300d718c4ed]: Textual amendment: Art. 17(a) revoked (31.12.2013) by [The Bovine Viral Diarrhoea (Scotland) Amendment (No. 3) Order 2013 (S.S.I. 2013/363)](https://www.legislation.gov.uk/ssi/2013/363), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2013/363/article/1/2), [2](https://www.legislation.gov.uk/ssi/2013/363/article/2)

@@ -1,0 +1,271 @@
+---
+title: The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020
+id: ssi/2020/314
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-10-07'
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2020/314
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/314/pdfs/ssipn_20200314_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/314/pdfs/ssi_20200314_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/314/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2020 No. 314
+
+Environmental Protection
+
+The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020
+
+Made
+
+7th October 2020
+
+Laid before the Scottish Parliament
+
+9th October 2020
+
+Coming into force
+
+4th December 2020
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001], and all other powers enabling them to do so.
+
+## PART 1
+
+### 1. Citation, commencement and extent[^key-42d2c3351fcb32ae135947939576b0a9]
+
+(1) These Regulations may be cited as the Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 and come into force on 4 December 2020.
+
+(2) These Regulations extend to Scotland only.
+
+## PART 2 — Amendments to primary legislation
+
+### 2. The Environmental Protection Act 1990[^key-aafcc6cd23ff78baab731469ffd18760]
+
+(1) The Environmental Protection Act 1990[^f00002] is amended as follows.
+
+(2) In section 33(2B) (prohibition on unauthorised or harmful deposit, treatment or disposal etc. of waste) after “and accumulators” insert “as last amended by Directive (EU) 2018/849 of the European Parliament and of the Council[^f00003]”.
+
+(3) In section 34 (duty of care etc. as respects waste)—
+
+- (a) in subsection (1)(ba) for “where technically feasible” substitute “unless doing so is not technically feasible, taking into account good practices”,
+- (b) in subsection (2J), for paragraph (a) substitute—
+
+  > - (a) the output is of comparable quantity and quality to that achieved through separate collection, and
+
+  ,
+
+(4) In section 45C (separate collection of dry recyclable waste and food waste), for subsection (4) substitute—
+
+> (4) An authority need not comply with subsection (2) to the extent that—
+>
+> - (a) it considers that—
+>   - (i) such non-compliance will not affect the potential of the waste to undergo preparing for re-use, recycling or other recovery operations, and
+>   - (ii) the resulting output will be of comparable quantity and quality to that achieved if subsection (2) were complied with, and
+> - (b) it is satisfied that dry recyclable waste will not be mixed with other waste that cannot be recycled.
+
+.
+
+## PART 3 — Amendments to secondary legislation
+
+### 3. The Special Waste Regulations 1996[^key-be5029a0c09ac817e86d5d1d87e2dcd4]
+
+(1) The Special Waste Regulations 1996[^f00004] are amended as follows.
+
+(2) In regulation 1(4) (interpretation), in the definition of “the Waste Directive” for “Council Regulation (EU) 2017/997” substitute “Directive (EU) 2018/851[^f00005]”.
+
+(3)[^key-5e6f7344124bfabf8f1f128fb7351b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. The Landfill (Scotland) Regulations 2003[^key-c5074e991069845317dc112e132bd111]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. The National Waste Management Plan for Scotland Regulations 2007[^key-22b1524fdcaa73235cc7a93b435f5b05]
+
+(1) The National Waste Management Plan for Scotland Regulations 2007[^f00010] are amended as follows.
+
+(2) In regulation 2 (interpretation), in the definition of “the Packaging Waste Directive”, for “Directive (EU) 2015/720” substitute “Directive (EU) 2018/852[^f00011]”.
+
+(3) In regulation 2A(a) (interpretation: the Waste Directive) for “Council Regulation (EU) 2017/997” substitute “Directive (EU) 2018/851 of the European Parliament and of the Council[^f00012]”.
+
+(4) In regulation 3 (national waste management plan for Scotland)—
+
+- (a) in paragraph (3)—
+  - (i) in sub-paragraph (a) for “the Schedule” substitute “schedule 1”,
+  - (ii) after sub-paragraph (a), insert—
+
+    > - (zaa) a statement of the Scottish Ministers’ policies for attaining, as a minimum, the waste prevention measures set out in schedule 2 of these Regulations,
+
+    ,
+  - (iii) after paragraph (b) insert—
+
+    > - (d) targets for—
+    >   - (i) achieving an increase in the preparing for re-use and the recycling of waste materials such as at least paper, metal, plastic and glass from households and other similar waste streams,
+    >   - (ii) achieving an increase in the preparing for re-use, recycling and other material recovery, including backfilling operations using waste to substitute other materials, of non-hazardous construction and demolition waste (excluding naturally occurring material defined in category 17 05 04 in the list of wastes established by Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532)[^f00013], and
+    >   - (iii) achieving an increase in preparing for re-use and recycling of municipal waste,
+    > - (e) a statement of the Scottish Ministers’ policies for achieving the targets specified in paragraph (d).
+
+    ,
+- (b) after paragraph (3) insert—
+
+  > (3A) The Scottish Ministers must have regard to the following when preparing the national waste management plan or any modification of it relating to litter prevention—
+  >
+  > - (a) any plan made in accordance with section 5 of the Marine Scotland Act 2010[^f00014],
+  > - (b) any plan made in accordance with section 10 of the Water Environment and Water Services (Scotland) Act 2003[^f00015].
+
+  .
+
+(5) The schedule (objectives for the purposes of the national waste management plan) becomes schedule 1 (and, accordingly, for the heading “SCHEDULE”, substitute “SCHEDULE 1”).
+
+(6) In schedule 1 (objectives for the purposes of the national waste management plan)—
+
+- (a) after paragraph 1A insert—
+
+  > **1B.** Making use of economic instruments and other measures to provide incentives for the application of the waste hierarchy, such as those listed in Annex IVa of the Waste Directive or other appropriate instruments and measures.
+
+  ,
+- (b) in paragraph 4A—
+  - (i) omit “re-use of products and the”,
+  - (ii) after “re-use” in the second place where it occurs insert “activities”,
+  - (iii) in sub-paragraph (a), after “supporting” insert “preparation for”,
+  - (iv) after sub-paragraph (a), insert—
+
+    > - (aa) encouraging and facilitating, where compatible with proper waste management, the access of preparing for re-use and repair networks to waste held by collection schemes or facilities that can be prepared for re-use but is not destined for preparing for re-use by those schemes or facilities,
+
+    .
+
+(7) After schedule 1 insert—
+
+> **SCHEDULE 2 — Waste prevention measures**
+>
+> Regulation 3(3)(zaa)
+>
+> **1.** The waste prevention measures referred to in regulation 3(3)(zaa) are measures to—
+>
+> - (a) promote and support sustainable production and consumption models,
+> - (b) encourage the design, manufacturing and use of products that are resource-efficient, durable (including in terms of life span and absence of planned obsolescence), reparable, re-usable and upgradable,
+> - (c) target products containing critical raw materials to prevent those materials from becoming waste,
+> - (d) encourage the re-use of products and the setting up of systems promoting repair and re-use activities, including in particular for—
+>   - (i) electrical and electronic equipment,
+>   - (ii) textiles,
+>   - (iii) furniture,
+>   - (iv) packaging, and
+>   - (v) construction materials and products,
+> - (e) encourage, as appropriate and without prejudice to intellectual property rights, the availability of spare parts, instruction manuals, technical information, or other instruments, equipment or software enabling the repair and re-use of products without compromising their quality and safety,
+> - (f) reduce waste generation in processes related to industrial production, extraction of minerals, manufacturing, construction and demolition, taking into account best available techniques,
+> - (g) reduce the generation of food waste in primary production, in processing and manufacturing, in retail and other distribution of food, in restaurants and food services as well as in households,
+> - (h) encourage food donation and other redistribution for human consumption, prioritising human use over animal feed and the reprocessing into non-food products,
+> - (i) promote the reduction of the content of hazardous substances in materials and products,
+> - (j) reduce the generation of waste, in particular waste that is not suitable for preparing for re-use or recycling,
+> - (k) identify products that are the main sources of littering and take appropriate measures to prevent and reduce litter from such products,
+> - (l) aim to halt the generation of marine litter,
+> - (m) develop and support information campaigns to raise awareness about waste prevention and littering,
+> - (n) promote selective demolition in order to enable removal and safe handling of hazardous substances and facilitate re-use and high-quality recycling by selective removal of materials, and to ensure the establishment of sorting systems for construction and demolition waste at least for wood, mineral fractions (concrete, bricks, tiles and ceramics, stones), metal, glass, plastic and plaster.
+
+.
+
+### 6. The Waste Batteries (Scotland) Regulations 2009[^key-365e698891a97fe78dafe57dfe5c7ba8]
+
+(1) The Waste Batteries (Scotland) Regulations 2009[^f00016] are amended as follows.
+
+(2) In regulation 2 (interpretation) in the definition of “Batteries Directive” for “[Directive 2013/56/EU](https://www.legislation.gov.uk/european/directive/2013/0056)” substitute “Directive (EU) 2018/849[^f00017]”.
+
+### 7. The Waste Management Licensing (Scotland) Regulations 2011[^key-e27e08d47ae12ef8cb04967c37efa733]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. The Pollution Prevention and Control (Scotland) Regulations 2012[^key-0f4f930cef0d3454a584f37e8aee5f55]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+MAIRI GOUGEON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+7th October 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend various enactments in order to transpose aspects of Directive (EU) 2018/851 of the European Parliament and of the Council of 30 May 2018 amending [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste (“the Waste Framework Directive”) and to update references to other relevant Directives. They also amend the date on which landfill operators must refuse to accept biodegradable municipal waste in the Landfill (Scotland) Regulations 2003.
+
+Regulation 2 amends the Environmental Protection Act 1990 (“the 1990 Act”). Paragraph (2) updates a reference to [Directive 2006/66/EC](https://www.legislation.gov.uk/european/directive/2006/0066) on batteries and accumulators and waste batteries and accumulators (“the Batteries Directive”). Paragraphs (3) and (4) update obligations relating to the co-mingling of waste to better align the language to that in the Waste Framework Directive.
+
+Regulation 3 amends the Special Waste Regulations 1996. Paragraph (2) updates a reference to the Waste Framework Directive. Paragraph (3) removes the requirement that economic feasibility be a factor in deciding whether illegally mixed hazardous waste must be separated.
+
+Regulation 4 amends the Landfill (Scotland) Regulations 2003 (“the 2003 Regulations”), updating references to [Directive 1999/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the Landfill of Waste (“the Landfill Directive”) the Batteries Directive and the Waste Framework Directive, and aligning the definition of “municipal waste” with that in the Waste Framework Directive. Regulation 4(3) amends regulation 11(1)(fc) of the 2003 Regulations to change the date on which landfill operators must refuse to accept biodegradable municipal waste from 1 January 2021 to 31 December 2025.
+
+Regulation 5 amends the National Waste Management Plan for Scotland Regulations 2007 (“the 2007 Regulations”). Paragraphs (2) and (3) update references to [Directive 94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) on packaging and packaging waste (“the Packaging Waste Directive”) and the Waste Framework Directive respectively. Paragraphs (4)(a), (5), (6) and (7) add to the list of what must be included in the National Waste Management Plan. Paragraph 4(b) adds a list of documents to which Scottish Ministers must have regard when preparing the National Waste Management Plan.
+
+Regulation 6 amends the Waste Batteries (Scotland) Regulations 2009 to update a reference to the Batteries Directive.
+
+Regulation 7 amends the Waste Management Licensing (Scotland) Regulations 2011 (“the 2011 Regulations”). Paragraph (2) inserts a definition of “back-filling” to align the definition of recycling in the 2011 Regulations with that in the Waste Framework Directive, and updates references to the Batteries Directive and the Waste Framework Directive. Paragraph (3) inserts a new requirement to take into account good practices when separately collecting waste oils alongside the existing requirement to collect waste oils separately and removes some redundant provisions. Paragraph (4) amends the interpretation provision to further align the language with that used in the Directive.
+
+Regulation 8 amends the Pollution Prevention and Control (Scotland) Regulations 2012. Paragraphs (2) and (3) update references to the Landfill Directive, the Batteries Directive and the Waste Framework Directive. Paragraph (4) inserts a new requirement to take into account good practices when separately collecting waste oils alongside the existing requirement to collect waste oils separately.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) (“the 1972 Act”). The 1972 Act was repealed by section 1 of the European Union (Withdrawal) Act [2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16) (“the 2018 Act”) with effect from exit day (see section 20 of the 2018 Act), but saved, subject to modifications, until IP completion day by section 1A of the 2018 Act. Section 1A of the 2018 Act was inserted by the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1) (“the 2020 Act”), and defines “IP completion day” by reference to section 39(1) to (5) of the 2020 Act. Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3(3) and schedule 1, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^key-42d2c3351fcb32ae135947939576b0a9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/314/regulation/1) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
+
+[^key-aafcc6cd23ff78baab731469ffd18760]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/314/regulation/2) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
+
+[^f00002]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43); relevant amending instruments are [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226) and [S.S.I. 2012/148](https://www.legislation.gov.uk/ssi/2012/148).
+
+[^f00003]: Footnote: OJ L 150, 14.6.2018, p.93.
+
+[^key-be5029a0c09ac817e86d5d1d87e2dcd4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/314/regulation/3) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
+
+[^f00004]: Footnote: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972); relevant amending instruments are [S.S.I. 2004/112](https://www.legislation.gov.uk/ssi/2004/112), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I. 2015/438](https://www.legislation.gov.uk/ssi/2015/438) and [S.S.I 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^f00005]: Footnote: OJ L 150, 14.6.2018, p.109.
+
+[^key-5e6f7344124bfabf8f1f128fb7351b87]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2020/314/regulation/3/3) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-c5074e991069845317dc112e132bd111]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/314/regulation/4) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-22b1524fdcaa73235cc7a93b435f5b05]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/314/regulation/5) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
+
+[^f00010]: Footnote: [S.S.I. 2007/251](https://www.legislation.gov.uk/ssi/2007/251); relevant amending instruments are [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [2015/438](https://www.legislation.gov.uk/ssi/2015/438) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^f00011]: Footnote: OJ L 150, 14.6.2018, p.141.
+
+[^f00012]: Footnote: OJ L 150, 14.6.2018, p.109.
+
+[^f00013]: Footnote: OJ L 226, 6.9.2000, p.3.
+
+[^f00014]: Footnote: [2010 asp 5](https://www.legislation.gov.uk/asp/2010/5).
+
+[^f00015]: Footnote: [2003 asp c.3](https://www.legislation.gov.uk/asp/2003/3).
+
+[^key-365e698891a97fe78dafe57dfe5c7ba8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/314/regulation/6) in force at 4.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1)
+
+[^f00016]: Footnote: [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247); the relevant amending instrument is [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
+
+[^f00017]: Footnote: OJ L 150, 14.6.2018, p.93.
+
+[^key-e27e08d47ae12ef8cb04967c37efa733]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2020/314/regulation/7) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-0f4f930cef0d3454a584f37e8aee5f55]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2020/314/regulation/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

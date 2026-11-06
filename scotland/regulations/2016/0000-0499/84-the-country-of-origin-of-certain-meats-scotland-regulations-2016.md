@@ -1,0 +1,222 @@
+---
+title: The Country of Origin of Certain Meats (Scotland) Regulations 2016
+id: ssi/2016/84
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-02-02'
+text_date: '2022-09-30'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/84
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/84/pdfs/ssipn_20160084_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/84/pdfs/ssi_20160084_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/84/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Country of Origin of Certain Meats (Scotland) Regulations 2016
+
+> Text as at 2022-09-30.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2016 No. 84
+
+Food
+
+The Country of Origin of Certain Meats (Scotland) Regulations 2016
+
+Made
+
+2nd February 2016
+
+Laid before the Scottish Parliament
+
+4th February 2016
+
+Coming into force
+
+14th March 2016
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 6(4), 16(1), 17(1), 26(1), (2) and (3), 31(1) and 48(1) of the Food Safety Act 1990 [^c23252781], section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c23252791] and all other powers enabling them to do so.
+
+The following Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Scottish Ministers that it is expedient for any reference to Commission Implementing Regulation (EU) No 1337/2013 laying down rules for the application of Regulation (EU) No 1169/2011 of the European Parliament and of the Council as regards the indication of the country of origin or place of provenance for fresh, chilled and frozen meat of swine, sheep, goats and poultry [^c23252801] to be construed as a reference to that Regulation as amended from time to time.
+
+So far as the following Regulations are made in exercise of powers under the Food Safety Act 1990, the Scottish Ministers have had regard to relevant advice given by Food Standards Scotland [^c23252811] in accordance with section 48(4A) and (6) of that Act [^c23252821].
+
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23252831], during the preparation and evaluation of the following Regulations.
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Country of Origin of Certain Meats (Scotland) Regulations 2016 and come into force on 14th March 2016.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Food Safety Act 1990;
+- “**authorised officer**” means a person authorised by an enforcement authority (within the meaning of the Act) for the purposes of these Regulations;
+- [^key-d31ee0dacf40422c9edc2f3af63fbfb1]...
+- [^key-e3e1df09d1521c2bbf2c2f7ea01eb4de]...
+- “**Commission Regulation**” means Commission Implementing Regulation (EU) No 1337/2013 laying down rules for the application of Regulation (EU) No 1169/2011 of the European Parliament and of the Council as regards the indication of the country of origin or place of provenance for fresh, chilled and frozen meat of swine, sheep, goats and poultry;
+- “**food authority**” means a council constituted under section 2 of the Local Government (Scotland) Act 1994 [^c23252841];
+- “**food business operator**” has the meaning given in point 3 of Article 3 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety;
+- [^key-4e14892204aacde9ecb5386533bb8b9a]...
+- [^key-a8455c8ab4fc14a0e5fe10929f849d5e]...
+
+(2) Except as otherwise provided, any reference in these Regulations to an Article is a reference to an Article of the Commission Regulation.
+
+(3) Any reference in these Regulations to the Commission Regulation is a reference to that Regulation as amended from time to time.
+
+## 3. Competent authority
+
+Each food authority in its area is the competent authority for the purposes of—
+
+- (a) the third sub-paragraph of Article 5(1) (labelling of meat where specified rearing period not attained in any member State or third country); and
+- (b) Article 5(2) (labelling of meat where “origin” indicated on the label).
+
+## 4. Enforcement authorities
+
+These Regulations are enforced by—
+
+- (a) Food Standards Scotland, for the purposes of ascertaining whether there is or has been any contravention of these Regulations in slaughterhouses and cutting plants; and
+- (b) local authorities, for the purposes of ascertaining whether there is or has been any contravention of these Regulations in retail establishments within the meaning of Regulation [(EC) 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^c23252861] other than wholesalers which are also cutting plants.
+
+## 5. Records
+
+(1) A food business operator must keep a record of information under the identification and registration system required by Article 3 (traceability).
+
+(2) A food business operator must retain each record for a period of 12 months from the end of the calendar year to which the record relates.
+
+## 6. Offences and Penalties
+
+(1) A person who contravenes or fails to comply with the provisions of Articles 3 to 6 and 8 commits an offence.
+
+(2) A person who contravenes or fails to comply with the provisions of regulation 5 commits an offence.
+
+(3) A person who commits an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 7. Application of provisions of the Act
+
+(1) Section 32 of the Act (powers of entry) [^c23252871] applies, with the modifications specified in Part 1 of the Schedule, for the purposes of enabling an authorised officer—
+
+- (a) to exercise a power of entry to ascertain whether there is, or has been, any contravention of any of regulation 5 or Articles 3 to 6 and 8;
+- (b) to exercise a power of entry to ascertain whether there is any evidence of any contravention of such a provision; and
+- (c) when exercising a power of entry under the provisions of section 32 as applied by this paragraph, to exercise the powers in subsections (5) and (6) relating to records.
+
+(2) The provisions of the Act specified in the first column of the table in Part 2 of the Schedule apply with the modifications specified in the second column of that table for the purposes of these Regulations.
+
+## 8. Transitional provision: withdrawal from the EU[^key-c104c3ff9ad7abba9132e41778782772]
+
+(1) A person is not considered to have failed to comply with the second sub-paragraph of Article 5(1), Article 6 or Article 7 of the Commission Regulation if—
+
+- (a) the alleged failure relates to a product that was placed on the market before the last day of the period beginning on 27 May 2021 and ending on 31 December 2023[^key-122c2e83a3c06d8c13a9c857b7235b76], and
+- (b) the matter constituting the alleged failure to comply would not have constituted a failure to comply with the Commission Regulation as that Regulation had effect immediately before 30 September 2022[^key-7f98f5e1adad26e92500b25730a57b33].
+
+(2) Products to which paragraph (1) applies may continue to be marketed until stocks are exhausted.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE — Modification of provisions of the Act
+
+Regulation 7
+
+### PART 1 — Modification of section 32(1)
+
+**1.** In section 32(1) (powers of entry)—
+
+- (a) in paragraph (a), for “this Act, or of regulations or orders made under it” substitute “ any of regulation 5 of the Country of Origin of Certain Meats (Scotland) Regulations 2016 or Articles 3 to 6 or 8 of Commission Implementing Regulation (EU) No 1337/2013 laying down rules for the application of Regulation (EU) No 1169/2011 of the European Parliament and of the Council as regards the indication of the country of origin or place of provenance for fresh, chilled and frozen meat of swine, sheep, goats and poultry ”; and
+- (b) omit paragraph (c).
+
+### PART 2 — Modification of other provisions of the Act
+
+<table>
+<tbody>
+<tr><th><em>Provision of the Act</em></th><th><em>Modifications</em></th></tr>
+<tr><td rowspan="2">Section 2 (extended meaning of “sale” etc.)</td><td>In subsection (1), for “this Act” substitute “ the Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+<tr><td>In subsection (2), for “This Act” substitute “ The Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+<tr><td>Section 3 (presumptions that food intended for human consumption)</td><td>In subsection (1), for “this Act” substitute “ the Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+<tr><td>Section 20 (offences due to fault of another person)</td><td>For “any of the preceding provisions of this Part” substitute “ the Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+<tr><td>Section 21 (defence of due diligence)</td><td>In subsection (1), for “any of the preceding provisions of this Part” substitute “ the Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+<tr><td>Section 29 (procurement of samples)</td><td>In paragraph (b)(ii), after “under section 32 below”, insert “ including under section 32 as applied and modified by regulation 7(1) of, and Part 1 of the Schedule to, the Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+<tr><td>Section 30(8) (evidence of certificates given by a food analyst or examiner)</td><td>For “this Act” substitute “ the Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+<tr><td>Section 33 (obstruction etc. of officers)</td><td>In subsection (1), for “this Act” (in each place where it occurs) substitute “ the Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+<tr><td rowspan="4">Section 35(1) and (2) (punishment of offences)</td><td>In subsection (1), after “section 33(1) above”, insert “ , as applied and modified by regulation 7(2) of, and Part 2 of the Schedule to, the Country of Origin of Certain Meats (Scotland) Regulations 2016, ”.</td></tr>
+<tr><td>In subsection (2)—</td></tr>
+<tr><td>(a) for “any other offence under this Act” substitute “ an offence under section 33(2), as applied by regulation 7(2) of, and Part 2 of the Schedule to, the Country of Origin of Certain Meats (Scotland) Regulations 2016, ”; and</td></tr>
+<tr><td>(b) in paragraph (b), for “relevant amount” substitute “ statutory maximum ”.</td></tr>
+<tr><td>Section 36 (offences by body corporate)</td><td>In subsection (1), for “this Act” substitute “ regulation 7 of the Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+<tr><td>Section 36A (offences by Scottish partnerships)</td><td>For “this Act” substitute “ regulation 7 of the Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+<tr><td>Section 44 (protection of officers acting in good faith)</td><td>For “this Act” (in each place where it occurs) substitute “ the Country of Origin of Certain Meats (Scotland) Regulations 2016 ”.</td></tr>
+</tbody>
+</table>
+
+[^c23252881][^c23252891][^c23252901]
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision to enforce, in Scotland, certain provisions of Commission Implementing Regulation (EU) No 1337/2013 laying down rules for the application of Regulation (EU) No 1169/2011 of the European Parliament and of the Council as regards the indication of the country of origin or place of provenance for fresh, chilled and frozen meat of swine, sheep, goats and poultry (OJ L 335, 14.12.2013, p.19) (“**the Commission Regulation**”).
+
+Regulation 3 sets out that each food authority in its area is the competent authority for the purposes of Article 5(1) and (2) of the Commission Regulation. Regulation 4 makes local authorities and Food Standards Scotland inspectors responsible for enforcement of these Regulations.
+
+Regulation 5 requires food business operators to keep records for 12 months from the end of the calendar year to which each record relates.
+
+Regulation 6 makes it an offence to fail to comply with the provisions of the Commission Regulation and the records requirement of regulation 5.
+
+Regulation 7 and the Schedule apply certain provisions of the Food Safety Act 1990 with modifications.
+
+A full business and regulatory impact assessment of the effect these Regulations will have on the costs of business, the voluntary sector and the public sector has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from Food Standards Scotland, Pilgrim House, Old Ford Road, Aberdeen, AB11 5RL.
+
+## Annotations
+
+[^c23252781]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16); [section 6(4)](https://www.legislation.gov.uk/ssi/2016/84/section/6/4) was amended by the [Deregulation and Contracting Out Act 1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), [Schedule 9](https://www.legislation.gov.uk/ukpga/1994/40/schedule/9), [paragraph 6](https://www.legislation.gov.uk/ukpga/1994/40/paragraph/6), the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28) (“**the 1999 Act**”), Schedule 5, paragraph 10(1) and (3) and Schedule 6, and [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794). Section 6(4A) was inserted by paragraph 3(2) of the schedule to the [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1). Section 16(1) was inserted by section 34(1) of the Food (Scotland) Act 2015. Section 17(1) was amended by the 1999 Act, Schedule 5, paragraphs 8 and 12(a), and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 26(3) was amended by the 1999 Act, Schedule 6. Sections 31(1) and 48(1) were amended by the 1999 Act, Schedule 5, paragraph 8. Section 48(6) was inserted by section 59 and paragraph 3(11) of the schedule to the Food (Scotland) Act 2015. Section 48(4) is disapplied in respect of these Regulations by virtue of section 48(4C) which was inserted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Amendments made by Schedule 5 to the 1999 Act shall be taken as pre-commencement enactments for the purposes of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”) by virtue of section 40(2) of the 1999 Act. The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not so transferred, and in so far as relating to food (including drink) including the primary production of food, those functions were transferred to the Scottish Ministers by [S.I. 2005/849](https://www.legislation.gov.uk/uksi/2005/849).
+
+[^c23252791]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act 1998 (“**the 1998 Act**”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“**the 2008 Act**”), Schedule, Part 1. Paragraph 1A of Schedule 2 was inserted by the 2006 Act, section 28 and was amended by the 2008 Act, Schedule, Part 1 and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388). The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^c23252801]: Marginal citation: OJ L 335, 14.12.2013, p.19.
+
+[^c23252811]: Marginal citation: Food Standards Scotland was established under section 1 of the Food (Scotland) Act 2015.
+
+[^c23252821]: Marginal citation: [Section 48(4A)](https://www.legislation.gov.uk/ssi/2016/84/section/48/4A) was inserted by the 1999 Act, Schedule 5, paragraph 21. Section 48(6) was inserted by the Food (Scotland) Act 2015, schedule 1, paragraph 3(11).
+
+[^c23252831]: Marginal citation: OJ L 31, 1.2.2002, p.1, last amended by Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ L 188, 18.7.2009, p.14).
+
+[^key-d31ee0dacf40422c9edc2f3af63fbfb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/a)
+
+[^key-e3e1df09d1521c2bbf2c2f7ea01eb4de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/b)
+
+[^c23252841]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), [Schedule 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [paragraph 232(1)](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/232/1).
+
+[^key-4e14892204aacde9ecb5386533bb8b9a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(c)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/c)
+
+[^key-a8455c8ab4fc14a0e5fe10929f849d5e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/84/regulation/2/1) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [13(2)(d)](https://www.legislation.gov.uk/ssi/2019/33/regulation/13/2/d)
+
+[^c23252861]: Marginal citation: OJ L 139, 30.4.2004, p 55, last amended by Commission Regulation (EU) No 1137/2014 (OJ L 307, 28.10.2014, p.28).
+
+[^c23252871]: Marginal citation: [Section 32(5)](https://www.legislation.gov.uk/ssi/2016/84/section/32/5) and (6) were amended by the [Criminal Justice and Police Act 2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16), [Schedule 2](https://www.legislation.gov.uk/ukpga/2001/16/schedule/2), [paragraph 18](https://www.legislation.gov.uk/ukpga/2001/16/paragraph/18).
+
+[^key-c104c3ff9ad7abba9132e41778782772]: Textual amendment: Reg. 8 inserted (27.5.2021) by [The Food, Natural Mineral Water, Spring Water and Bottled Drinking Water (EU Exit) (Scotland) (Amendment) Regulations 2021 (S.S.I. 2021/66)](https://www.legislation.gov.uk/ssi/2021/66), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/66/regulation/1/4), [4(2)](https://www.legislation.gov.uk/ssi/2021/66/regulation/4/2) (as amended by [S.S.I. 2021/109](https://www.legislation.gov.uk/ssi/2021/109), [regs. 1](https://www.legislation.gov.uk/ssi/2021/109/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/4)[(4)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/4))
+
+[^key-122c2e83a3c06d8c13a9c857b7235b76]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/ssi/2016/84/regulation/8/1/a) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [14(a)](https://www.legislation.gov.uk/ssi/2022/265/regulation/14/a)
+
+[^key-7f98f5e1adad26e92500b25730a57b33]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/ssi/2016/84/regulation/8/1/b) substituted (30.9.2022) by [The Food Information (Transitional Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/265)](https://www.legislation.gov.uk/ssi/2022/265), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/265/regulation/1/1), [14(b)](https://www.legislation.gov.uk/ssi/2022/265/regulation/14/b)
+
+[^c23252881]: Marginal citation: [Section 2(1)](https://www.legislation.gov.uk/ssi/2016/84/section/2/1) was amended by the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), [Schedule 5](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5), [paragraph 8](https://www.legislation.gov.uk/ukpga/1999/28/paragraph/8).
+
+[^c23252891]: Marginal citation: [Section 21(2)](https://www.legislation.gov.uk/ssi/2016/84/section/21/2) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c23252901]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/ssi/2016/84/section/36A) was inserted by the Food Standards Act 1999, Schedule 5, paragraph 16.

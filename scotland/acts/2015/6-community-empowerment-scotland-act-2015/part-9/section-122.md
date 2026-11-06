@@ -1,0 +1,58 @@
+---
+title: Community Empowerment (Scotland) Act 2015, section 122
+act: Community Empowerment (Scotland) Act 2015
+section: '122'
+status: revised
+text_date: '2021-02-24'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2015/6/section/122
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Community Empowerment (Scotland) Act 2015, section 122
+
+> Text as at 2021-02-24.
+>
+> Extent: Scotland.
+
+## 122. Power to remove unauthorised buildings from allotment sites[^key-39a5aa59da384218e34615847aec311d]
+
+*Extent: S*
+
+(1) This section applies where—
+
+- (a) a building or other structure that is not permitted by, or does not comply with, a provision of regulations made under section 115(1) is erected on an allotment site, and
+- (b) at the time the building or other structure was erected or, as the case may be modified, regulations made under section 115(1) prohibited such erection or modification.
+
+(2) The local authority within whose area the allotment site is situated may—
+
+- (a) remove the building or other structure from the allotment site,
+- (b) dispose of the materials that formed the building or other structure as it thinks fit, and
+- (c) recover the cost of the removal, and the disposal of the materials, of the building or other structure from a liable tenant.
+
+(3) “**Liable tenant**” means, where the building or other structure was erected by or on behalf of a tenant—
+
+- (a) on the tenant's allotment, that tenant, or
+- (b) on other land as mentioned in paragraph (b) of the definition of “allotment site” in section 108, and the building or other structure on that other land was erected—
+  - (i) without the consent of the tenants of other allotments on the allotment site of which that other land forms part, that tenant, or
+  - (ii) with the consent of any tenants of such other allotments, that tenant and any other tenant who consented.
+
+(4) A liable tenant mentioned in subsection (3)(b)(ii) is jointly and severally liable with other liable tenants mentioned in that subsection.
+
+(5) Where a local authority proposes to take any action in exercise of a power conferred by subsection (2), it must—
+
+- (a) no later than one month before taking such action, give notice in writing of the authority's proposed action to each tenant who would be affected by such action,
+- (b) allow each such tenant the opportunity to make representations to the authority in relation to the proposed action,
+- (c) take account of any representations received by it by virtue of paragraph (b), and
+- (d) give notice in writing to each tenant mentioned in paragraph (a) to inform them of the authority's decision in relation to the proposed action and, if applicable, the date on which the proposed action is to take place.
+
+(6) If the authority decides to take the proposed action, any tenant who was notified under subsection (5)(a) may appeal to the sheriff against the decision of the authority before the expiry of the period of 21 days beginning with the day on which the notice mentioned in subsection (5)(d) is given.
+
+(7) The Scottish Ministers may by regulations make further provision for or in connection with the procedure to be followed in relation to the exercise of the powers conferred by subsection (2).
+
+(8) In the case where an allotment site is leased by a local authority, the authority may not exercise a power conferred by subsection (2) if such exercise would contravene a provision of the lease.
+
+## Annotations
+
+[^key-39a5aa59da384218e34615847aec311d]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2015/6/section/122) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

@@ -1,0 +1,537 @@
+---
+title: Crown Estate Scotland Order 2017
+id: ssi/2017/36
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-02-15'
+text_date: '2020-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2017/36
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2017/36/pdfs/ssipn_20170036_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/36/pdfs/ssi_20170036_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/36/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Crown Estate Scotland Order 2017
+
+> Text as at 2020-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2017 No. 36
+
+Constitutional Law
+
+Devolution, Scotland
+
+Crown Estate Scotland Order 2017[^key-70f9761c11d0121860b379ba16e1b426]
+
+Made
+
+15th February 2017
+
+Coming into force
+
+16th February 2017
+
+At the Court at Buckingham Palace, the 15th day of February 2017
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+This Order is made by Her Majesty in Council in exercise of the powers conferred upon Her by section 36(9) and (10) of the Scotland Act 2016[^f00001].
+
+In accordance with section 36(11) of the Scotland Act 2016, a draft of this Order has been laid before and approved by resolution of the Scottish Parliament.
+
+Accordingly Her Majesty, by and with the advice of Her Privy Council, makes the following Order:
+
+## 1. Citation, commencement and extent[^key-0e118d9768b9b0e14b0dbae5f7fda75e]
+
+(1) This Order may be cited as the Crown Estate Scotland Order 2017[^key-63e632e561bdc36d3ed3f62f584b4c33] and comes into force on the day after the day on which it is made.
+
+(2) Article 21(2) to (7) extends to Scotland only.
+
+## 2. Interpretation[^key-45471ed7d46ecac7b058fb0e69b13368]
+
+In this Order, “transfer scheme” means a scheme made under section 90B(1) of the Scotland Act 1998[^f00002].
+
+## 3. Crown Estate Scotland[^key-e4d83ab1e9e65efb3089455cb525dcfb][^key-4eb06034cc306be0f982ec2df0db86c0]
+
+(1) Crown Estate Scotland (in Gaelic, Oighreachd a' Chrùin Alba[^key-949f38767db7e7c5bb1813391069b1d0]) is established.
+
+(2) Crown Estate Scotland is a body corporate.
+
+## 4. Governance and accountability[^key-ef3d6dbb6ba7cda07d0d34b18f3bb249]
+
+Crown Estate Scotland must, so far as reasonably practicable, operate in a way which—
+
+- (a) is transparent and accountable; and
+- (b) is consistent with any other principle of good governance which appears to it to constitute best practice.
+
+## 5. Appointment of members[^key-8c9ac75f3995378619e2e5657fc8df39]
+
+(1) Crown Estate Scotland is to consist of—
+
+- (a) a member appointed by the Scottish Ministers to chair it; and
+- (b) up to 8 other members appointed by the Scottish Ministers.
+
+(2) A member is appointed for such period as the Scottish Ministers determine.
+
+(3) The Scottish Ministers may reappoint as a member of Crown Estate Scotland a person who is, or has been, a member.
+
+(4) The Scottish Ministers may determine other terms and conditions of membership, in relation to matters not covered by this Order.
+
+## 6. Persons who may be members[^key-39e9b9b2ac5400c00886e7a37e755b38]
+
+(1) When appointing members of Crown Estate Scotland, the Scottish Ministers are to have regard to the desirability of ensuring that the membership as a whole has skills, expertise and experience relevant to its functions.
+
+(2) The Scottish Ministers may not appoint a person as a member of Crown Estate Scotland if the person is—
+
+- (a) a member of the Scottish Parliament;
+- (b) a member of the House of Commons;
+- (c) a member of the House of Lords;
+- (d) a member of the European Parliament.
+
+## 7. Members’ remuneration, allowances and pensions[^key-6307f1f8f14bdd8a47b0e48705f3bdbc]
+
+(1) Crown Estate Scotland must pay each member such remuneration and allowances (including expenses) as the Scottish Ministers may determine.
+
+(2) Crown Estate Scotland must pay, or make arrangements for the payment of, such pensions, allowances and gratuities to, or in respect of, any person who is or has been a member of Crown Estate Scotland as the Scottish Ministers may determine.
+
+(3) Those arrangements may include—
+
+- (a) making payments towards the provision of those pensions, allowances and gratuities;
+- (b) providing and maintaining schemes for the payment of those pensions, allowances and gratuities.
+
+(4) The reference in paragraph (2) to pensions, allowances and gratuities includes pensions, allowances and gratuities by way of compensation for loss of office.
+
+## 8. Early termination of membership[^key-1189dab0dd804012fc589670fede6bbe]
+
+(1) A member of Crown Estate Scotland may resign by giving notice in writing to the Scottish Ministers.
+
+(2) The Scottish Ministers may, by giving notice to the member in writing, remove a member of Crown Estate Scotland if—
+
+- (a) the member becomes insolvent;
+- (b) the member has been absent, without the permission of Crown Estate Scotland, from meetings of Crown Estate Scotland for a period of longer than 3 consecutive months;
+- (c) the Scottish Ministers consider that the member is—
+  - (i) unable to perform the functions of a member; or
+  - (ii) unsuitable to continue as a member.
+
+(3) For the purposes of paragraph (2)(a), a person becomes insolvent if—
+
+- (a) the person’s estate is sequestrated;
+- (b) the person grants a trust deed for creditors or makes a composition or arrangement[^key-a2be0bdebb1a98a60ae4a91ad9cc9269] with creditors;
+- (c) the person is adjudged bankrupt;
+- (d) a voluntary arrangement proposed by the person is approved;
+- (e) the person’s application for a debt payment programme is approved under section 2 of the Debt Arrangement and Attachment (Scotland) Act 2002[^f00003];
+- (f) the person is subject to any other kind of order or arrangement that is analogous to any of those described in sub-paragraphs (a) to (e) anywhere in the world.
+
+(4) A person’s membership of Crown Estate Scotland ends if the person becomes—
+
+- (a) a member of the Scottish Parliament;
+- (b) a member of the House of Commons;
+- (c) a member of the House of Lords;
+- (d) a member of the European Parliament.
+
+## 9. Chief executive and other staff[^key-3a5bd18b424d2e9206faf08994c9a1d2]
+
+(1) Crown Estate Scotland is to have, as a member of staff, a chief executive.
+
+(2) The Scottish Ministers are to appoint the first chief executive on such terms and conditions as they determine.
+
+(3) Crown Estate Scotland is to appoint each subsequent chief executive—
+
+- (a) with the approval of the Scottish Ministers;
+- (b) on such terms and conditions as it, with the approval of the Scottish Ministers, determines.
+
+(4) Crown Estate Scotland may appoint other staff.
+
+(5) Staff other than the chief executive are to be appointed on such terms and conditions as Crown Estate Scotland, with the approval of the Scottish Ministers, determines.
+
+(6) Members of the staff of Crown Estate Scotland are not in the employment of the civil service of the State (but are in Crown employment within the meaning of section 191(3) of the Employment Rights Act 1996[^f00004]).
+
+## 10. Pensions of chief executive and other staff[^key-c002ff9b94ab83c8b35feb782287cde4]
+
+(1) Crown Estate Scotland may, with the approval of the Scottish Ministers, pay or make arrangements for the payment of pensions, allowances and gratuities to, or in respect of, any person who is or has been a member of its staff.
+
+(2) Those arrangements may include—
+
+- (a) making payments towards the provision of those pensions, allowances and gratuities;
+- (b) providing and maintaining schemes for the payment of those pensions, allowances and gratuities.
+
+(3) The references in this article to pensions, allowances and gratuities include pensions, allowances and gratuities by way of compensation for loss of office.
+
+(4) This article is subject to any provision in a transfer scheme about the payment of pensions, allowances or gratuities to, or in respect of, a person whose contract of employment is transferred to Crown Estate Scotland under the scheme.
+
+## 11. Committees[^key-f3d26938c8e23da84956b669fdb5074b]
+
+(1) Crown Estate Scotland—
+
+- (a) must establish an audit committee;
+- (b) may establish other committees and sub-committees.
+
+(2) The membership of a committee or sub-committee may include (but may not consist entirely of) persons who are members of the staff of Crown Estate Scotland.
+
+(3) A committee may authorise a sub-committee to perform such of the committee’s functions (and to such extent) as the committee may determine.
+
+(4) The giving of authority under paragraph (3) to perform a function does not—
+
+- (a) affect the committee’s responsibility for the performance of the function; or
+- (b) prevent the committee from performing the function itself.
+
+## 12. Authority to perform functions[^key-b917004870d01864bcacd996b41aed2c]
+
+(1) Crown Estate Scotland may authorise—
+
+- (a) any of its members;
+- (b) any committee or sub-committee established by it;
+- (c) its chief executive; or
+- (d) any other member of its staff,
+
+to perform such of its functions (and to such extent) as it may determine.
+
+(2) But Crown Estate Scotland may not authorise any other person to perform any of the following functions—
+
+- (a) preparing a report under article 18(1)(a);
+- (b) preparing statements of account under section 34(1)(b) of the Scottish Crown Estate Act 2019[^key-57fcac7ac62cc27ad0f32ff42ee97a94].
+
+(3) The giving of authority under this article to perform a function does not—
+
+- (a) affect Crown Estate Scotland's[^key-6e812d76d58b4766849925f51e2433ea] responsibility for the performance of the function; or
+- (b) prevent it from performing the function itself.
+
+## 13. Regulation of procedure[^key-c535cd68036160169d4b8082f7abc90b]
+
+Crown Estate Scotland may regulate its own procedure (including quorum) and that of any committee or sub-committee.
+
+## 14. Validity of things done[^key-701180a8292ef7df593c38f71e4658ce]
+
+The validity of anything done by Crown Estate Scotland or any committee or sub-committee is not affected by—
+
+- (a) a vacancy in membership;
+- (b) a defect in the appointment of a member.
+
+## 15. Power of Ministerial direction[^key-58cdac446f51a11d2a9b1994c5c79f60]
+
+(1) The Scottish Ministers may direct Crown Estate Scotland as to the performance of its functions.
+
+(2) A direction under paragraph (1)—
+
+- (a) may be general or relate to a particular function or matter;
+- (b) must—
+  - (i) be in writing; and
+  - (ii) be published (as soon as practicable after it is communicated to Crown Estate Scotland).
+
+(3) The Scottish Ministers may revise or revoke a direction under paragraph (1).
+
+(4) Paragraph (2)(b) applies to the revision or revocation of a direction under paragraph (1) as it applies to such a direction.
+
+## 16. Ministerial guidance[^key-c6e5844dd1ce42ae65056f008c1bde98]
+
+(1) Crown Estate Scotland must have regard to any written guidance given by the Scottish Ministers about the performance of its functions.
+
+(2) The Scottish Ministers must publish any such guidance (as soon as practicable after it is communicated to Crown Estate Scotland).
+
+## 17. Grants and loans to Crown Estate Scotland[^key-863f760307917bc0f65efa19a3735f97]
+
+(1) The Scottish Ministers may make grants and loans to Crown Estate Scotland.(1)
+
+(1A)[^key-ce5dc56d74f773f722ef4240f2b3e086] Crown Estate Scotland may not otherwise borrow money.
+
+(2) A grant or loan under paragraph (1) is subject to such conditions (including conditions as to repayment) as the Scottish Ministers may determine.
+
+(3) The Scottish Ministers may, from time to time after the grant or loan is made, vary the conditions on which it was made.
+
+## 18. Annual report[^key-84fb81f3bda4cd739a58f72fff9d6538]
+
+(1) Crown Estate Scotland must, no later than 3 months[^key-b84448c53d7ad2765e6620131415af62] after the end of each financial year—
+
+- (a) prepare a report on its activities during that year; and
+- (b) send a copy of the report to the Scottish Ministers.
+
+(1A)[^key-60ea7cecde0dd145ebb3bccce3f59689] The report must, in particular, include an assessment of how Crown Estate Scotland's activities during that year have contributed to the meeting of its objectives for that year.
+
+(2)[^key-859d316fdd7ce6de2c8e0e8454f67106] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Crown Estate Scotland must not publish the report until a copy of it has been laid before the Scottish Parliament under section 27(1) of the Scottish Crown Estate Act 2019[^key-2b032e7ecd7d5ac874c8e8d4d7eaa1ed].
+
+(4) The report must include a list of any directions given to Crown Estate Scotland, or revised or revoked, during that year by—
+
+- (a) the Scottish Ministers under article 15 or section 37(1) of the Scottish Crown Estate Act 2019[^key-1e90c042004d6a1cd9c63aa51ced39a0];
+- (b) the Secretary of State under a transfer scheme.
+
+(5) But a direction given, revised or revoked by the Secretary of State is not to be included in the list, or otherwise mentioned in the report, if the Secretary of State so notifies Crown Estate Scotland.
+
+(6) Otherwise, it is for Crown Estate Scotland to determine the form and content of the report.
+
+(7) In paragraph (1), “financial year” means—
+
+- (a) the period beginning with the day on which this Order comes into force and ending on 31st March the following year; and
+- (b) each subsequent period of a year ending on 31st March.
+
+(8)[^key-c748ff752d09cafef698c6d04699afdf] For the purposes of paragraph (1A), Crown Estate Scotland's objectives for a financial year are its objectives as set out in a plan prepared under article 19(1) for a period which includes all or part of that financial year.
+
+## 19. Corporate plan[^key-a41df75601fb2718a9a888cf2af07081]
+
+(1) Crown Estate Scotland must prepare a plan setting out—
+
+- (a) the period to which the plan relates;
+- (b) Crown Estate Scotland's[^key-65685d531514cb8d7ecce12cd24de825] objectives for that period;
+- (c) the activities that Crown Estate Scotland proposes to undertake during that period in pursuit of the objectives;
+- (d) any risks associated with those activities; and
+- (e) outcomes against which the achievement of the objectives may be assessed.
+
+(2) Crown Estate Scotland must submit—
+
+- (a) the first plan to the Scottish Ministers as soon as practicable after this Order comes into force,
+- (b) a new plan to the Scottish Ministers no later than 3 months before the end of the period to which a plan relates.
+
+(3) The Scottish Ministers may—
+
+- (a) approve a plan without modification;
+- (b) approve a plan with modifications agreed with Crown Estate Scotland; or
+- (c) reject a plan.
+
+(4) If the Scottish Ministers reject a plan, Crown Estate Scotland must submit a revised plan to the Scottish Ministers within such period as the Scottish Ministers direct.
+
+(5) Where the Scottish Ministers approve a plan under paragraph (3)(a) or (b), Crown Estate Scotland must publish it as approved in such manner as it considers appropriate.
+
+(6) Crown Estate Scotland—
+
+- (a) may revise a plan from time to time;
+- (b) must submit any revised plan to the Scottish Ministers.
+
+(7) Paragraphs (3) to (5) apply to a revised plan submitted under paragraph (4) or (6)(b) as they apply to a plan submitted under paragraph (2).
+
+## 20. Application of the Crown Estate Act 1961[^key-a9dffccdd9df8ce516537737531c55c3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21. Application of legislation relating to public bodies[^key-a2d6d3a4f0974b66a74822a8e4f5ae6a]
+
+(1) In schedule 1 of the House of Commons Disqualification Act 1975[^f00007] (offices disqualifying for membership of the House of Commons)—
+
+- (a) in Part 2, after the entry relating to the Crown Estate Commissioners insert—
+
+  > Crown Estate Scotland (Interim Management).
+
+  ;
+- (b) in Part 3, after the entry relating to members of staff of the Commissioner for Older People in Wales[^f00008] insert—
+
+  > Member of the staff of Crown Estate Scotland (Interim Management).
+
+  .
+
+(2) In the Ethical Standards in Public Life etc. (Scotland) Act 2000[^f00009], in schedule 3 (devolved public bodies), after the entry relating to the Crofting Commission insert—
+
+> Crown Estate Scotland (Interim Management).
+
+.
+
+(3) In the Scottish Public Services Ombudsman Act 2002[^f00010], in Part 1 of schedule 2 (listed authorities), after paragraph 17A insert—
+
+> *Crown Estate*
+>
+> 17B Crown Estate Scotland (Interim Management).
+
+.
+
+(4) In the Freedom of Information (Scotland) Act 2002[^f00011], in Part 7 of schedule 1 (Scottish public authorities), after paragraph 63 insert—
+
+> 63A Crown Estate Scotland (Interim Management).
+
+.
+
+(5) In the Public Appointments and Public Bodies etc. (Scotland) Act 2003[^f00012], in schedule 2 (the specified authorities), under the heading “Other Public Bodies”, before the entry relating to the Parole Board for Scotland insert—
+
+> Crown Estate Scotland (Interim Management).
+
+.
+
+(6) In the Public Services Reform (Scotland) Act 2010[^f00013], in schedule 8 (information on exercise of public functions: listed public bodies), after the entry relating to the Crofting Commission insert—
+
+> Crown Estate Scotland (Interim Management).
+
+.
+
+(7) In the Public Records (Scotland) Act 2011[^f00014], in the schedule (authorities to which Part 1 applies), under the heading “Others”, after the entry relating to the Crofting Commission insert—
+
+> Crown Estate Scotland (Interim Management)
+
+.
+
+(8) In the Scottish Parliament (Disqualification) Order 2015[^f00015], in Part 1 of the schedule (office-holders disqualified from being a member of the Scottish Parliament)—
+
+- (a) after the entry relating to any member of the Crown Estate Commissioners insert—
+
+  > Any member of Crown Estate Scotland (Interim Management).
+
+  ;
+- (b) after the entry relating to a member of the staff of the Commissioner for Older People in Wales insert—
+
+  > Member of the staff of Crown Estate Scotland (Interim Management).
+
+  .
+
+## 22. Modification of the Crown Suits (Scotland) Act 1857[^key-2ce24e649cdd3fa17a7cfe3778d61dec]
+
+(1) Section 4 of the Crown Suits (Scotland) Act 1857[^f00016] (meaning of “public department”) is amended as follows.
+
+(2) The existing text becomes subsection (1).
+
+(3) After that subsection insert—
+
+> (2) But the expression “public department” does not include Crown Estate Scotland (Interim Management).
+
+.
+
+Richard Tilbrook
+
+Clerk of the Privy Council
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order establishes Crown Estate Scotland (Interim Management) (“CES(IM)”). It is intended that CES(IM) is to be the person nominated by the Scottish Ministers for the purposes of section 90B(1) of the Scotland Act 1998 (“the 1998 Act”) to receive the transfer of the existing Scottish functions of the Crown Estate Commissioners under a scheme made by the Treasury under that section.
+
+Article 3 establishes CES(IM) as a body corporate. CES(IM)’s Gaelic name (Oighreachd a’ Chrùin Alba (Stiùireadh Eadar-amail)) has equal legal status. Article 4 provides that CES(IM) must operate in a way which is transparent and accountable.
+
+Articles 5 and 6 set out provisions for the membership of CES(IM). The Scottish Ministers must appoint a chair, and up to 8 other members. Members are appointed for such period as the Scottish Ministers may determine and members may be reappointed. A list is provided of public office holders who may not be appointed as a member. Article 7 makes provision for CES(IM) to pay its members remuneration, allowances and pensions, as determined by the Scottish Ministers.
+
+Article 8 provides that the Scottish Ministers may remove a person if that member becomes insolvent; if that member has been absent without the permission of CES (IM) for a period of longer than three consecutive months; or if the Scottish Ministers consider that the member is unable to perform the functions required or is unsuitable to continue as a member. A person’s membership ends if that person resigns, or becomes a member of one of the listed offices.
+
+Article 9 requires CES(IM) to employ a chief executive. The Scottish Ministers must appoint the first chief executive of CES(IM). Each subsequent chief executive of CES(IM) will be appointed by CES(IM), with approval of the Scottish Ministers. CES(IM) may also appoint other members of staff. Members of the staff of CES(IM) are not civil servants but are in Crown employment within the meaning of section 191(3) of the Employment Rights Act 1996.
+
+Article 10 provides for CES(IM), with the approval of the Scottish Ministers, to make arrangements for payment of pensions, allowances and gratuities for its existing and former members of staff. Article 10 is subject to any provision in a transfer scheme made by the Treasury under section 90B(1) of the 1998 Act regarding a person whose contract of employment is transferred to CES(IM) under that scheme.
+
+Article 11 makes provision for CES(IM) to establish and operate committees and sub-committees. Article 12 provides that CES(IM) may authorise any of its members, any committee established by it, its chief executive, or any other member of staff to perform its functions. Article 13 provides that CES(IM) may regulate its own procedure (including quorum) and that of any committee or sub-committee.
+
+Article 14 provides that the validity of proceedings of CES(IM) will be unaffected by any vacancy in membership , or a defect in the appointment of a member.
+
+Article 15 requires CES(IM) to comply with any direction made by the Scottish Ministers about the performance of its functions. Any direction must be in writing and published after it has been communicated to CES(IM). Article 16 requires CES(IM) to have regard to any written guidance given by the Scottish Ministers about the performance of its functions. Any such guidance must be published after it is communicated to CES(IM).
+
+Article 17 allows the Scottish Ministers to make grants and loans to CES(IM), subject to any conditions the Scottish Ministers may determine, including repayment.
+
+Article 18 requires CES(IM) to prepare and publish an annual report on its activities as soon as practicable after the end of each financial year. A copy of the report must be sent to the Scottish Ministers who must lay a copy of the report before the Scottish Parliament.
+
+Article 19 requires CES(IM) to prepare a corporate plan setting out how it intends to exercise its functions. The plan must be prepared and submitted to the Scottish Ministers as soon as practicable after CES(IM) is established. Scottish Ministers may approve the plan, approve it with modifications agreed with CES(IM) or reject the plan. If the plan is rejected, CES(IM) must submit a revised plan within such period as Scottish Ministers direct. Following approval, a plan must be published by CES(IM). CES(IM) may revise a plan from time to time, submitting any revised plan to the Scottish Ministers for approval.
+
+Article 20 modifies the application (by virtue of, and as modified by section 36(7) of the Scotland Act 2016) of the Crown Estate Act 1961 in relation to CES(IM). Article 20(2)(a) substitutes paragraph (b) of section 2(4) which enables Scottish Ministers to direct the apportionment of revenues from mining between capital and income accounts. Article 20(2)(b) inserts subsections (4A) to (4G) into section 2. Subsections (4A) to (4C) regulate the making of directions under section 2(4)(b). Subsections (4D) and (4E) enable CES(IM) to transfer sums from its income account to its capital account and to repay these from capital account to income account. Subsections (4F) and (4G) make accounting provision regarding the repayment of loans by CES(IM). As regards investments, article 20(3) inserts a new section 3(4)(aa) allowing CES(IM) to invest sums in interest-bearing accounts.
+
+Article 21 inserts a reference to CES(IM) into the House of Commons Disqualification Act 1975 and the Scottish Parliament (Disqualification) Order 2015. This means that members of CES(IM) and members of the staff of CES(IM) will be disqualified from becoming MPs, MEPs and MSPs. Article 21 further applies certain legislation relating to public bodies to CES(IM), by inserting references to CES(IM) into the Ethical Standards in Public Life etc. (Scotland) Act 2000, the Scottish Public Services Ombudsman Act 2002, the Freedom of Information (Scotland) Act 2002, the Public Appointments and Public Bodies etc. (Scotland) Act 2003, the Public Services Reform (Scotland) Act 2010, and the Public Records (Scotland) Act 2011.
+
+Article 22 modifies the Crown Suits (Scotland) Act 1857 to exclude CES(IM) from the meaning of “public department” for the purposes of that Act.
+
+## Annotations
+
+[^key-70f9761c11d0121860b379ba16e1b426]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2017/36) title amended (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 11(2)](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/11/2); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^f00001]: Footnote: [2016 c.11](https://www.legislation.gov.uk/ukpga/2016/11).
+
+[^key-0e118d9768b9b0e14b0dbae5f7fda75e]: Commencement: Art. 1 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-63e632e561bdc36d3ed3f62f584b4c33]: Textual amendment: Words in [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1) substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 11(1)(a)](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/11/1/a); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-45471ed7d46ecac7b058fb0e69b13368]: Commencement: Art. 2 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^f00002]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). Section 90B is inserted by section 36(1) of the Scotland Act 2016.
+
+[^key-e4d83ab1e9e65efb3089455cb525dcfb]: Commencement: Art. 3 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-4eb06034cc306be0f982ec2df0db86c0]: Textual amendment: Words in [arts. 3-19](https://www.legislation.gov.uk/ssi/2017/36/article/3) substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 11(1)(b)](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/11/1/b); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-949f38767db7e7c5bb1813391069b1d0]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2017/36/article/3) substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 11(1)(c)](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/11/1/c); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-ef3d6dbb6ba7cda07d0d34b18f3bb249]: Commencement: Art. 4 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-8c9ac75f3995378619e2e5657fc8df39]: Commencement: Art. 5 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-39e9b9b2ac5400c00886e7a37e755b38]: Commencement: Art. 6 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-6307f1f8f14bdd8a47b0e48705f3bdbc]: Commencement: Art. 7 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-1189dab0dd804012fc589670fede6bbe]: Commencement: Art. 8 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-a2be0bdebb1a98a60ae4a91ad9cc9269]: Textual amendment: Words in [art. 8(3)(b)](https://www.legislation.gov.uk/ssi/2017/36/article/8/3/b) substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 2(2)](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2/2); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^f00003]: Footnote: [2002 asp 17](https://www.legislation.gov.uk/asp/2002/17); section 2 was amended by the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), Part 13, section 211(2)(a) and (b) and section 212(2).
+
+[^key-3a5bd18b424d2e9206faf08994c9a1d2]: Commencement: Art. 9 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^f00004]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
+
+[^key-c002ff9b94ab83c8b35feb782287cde4]: Commencement: Art. 10 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-f3d26938c8e23da84956b669fdb5074b]: Commencement: Art. 11 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-b917004870d01864bcacd996b41aed2c]: Commencement: Art. 12 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-57fcac7ac62cc27ad0f32ff42ee97a94]: Textual amendment: Words in [art. 12(2)(b)](https://www.legislation.gov.uk/ssi/2017/36/article/12/2/b) substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 2(3)](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2/3); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-6e812d76d58b4766849925f51e2433ea]: Textual amendment: Words in [art. 12(3)(a)](https://www.legislation.gov.uk/ssi/2017/36/article/12/3/a) substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 11(1)(d)](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/11/1/d); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-c535cd68036160169d4b8082f7abc90b]: Commencement: Art. 13 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-701180a8292ef7df593c38f71e4658ce]: Commencement: Art. 14 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-58cdac446f51a11d2a9b1994c5c79f60]: Commencement: Art. 15 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-c6e5844dd1ce42ae65056f008c1bde98]: Commencement: Art. 16 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-863f760307917bc0f65efa19a3735f97]: Commencement: Art. 17 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-ce5dc56d74f773f722ef4240f2b3e086]: Textual amendment: [Art. 17(1A)](https://www.legislation.gov.uk/ssi/2017/36/article/17/1A) inserted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 2(4)](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2/4); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-84fb81f3bda4cd739a58f72fff9d6538]: Commencement: Art. 18 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-b84448c53d7ad2765e6620131415af62]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/ssi/2017/36/article/18/1) substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 2(5)(a)](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2/5/a); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-60ea7cecde0dd145ebb3bccce3f59689]: Textual amendment: [Art. 18(1A)](https://www.legislation.gov.uk/ssi/2017/36/article/18/1A) inserted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 2(5)(b)](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2/5/b); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-859d316fdd7ce6de2c8e0e8454f67106]: Textual amendment: [Art. 18(2)](https://www.legislation.gov.uk/ssi/2017/36/article/18/2) revoked (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 2(5)(c)](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2/5/c); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-2b032e7ecd7d5ac874c8e8d4d7eaa1ed]: Textual amendment: Words in [art. 18(3)](https://www.legislation.gov.uk/ssi/2017/36/article/18/3) substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 2(5)(d)](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2/5/d); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-1e90c042004d6a1cd9c63aa51ced39a0]: Textual amendment: Words in [art. 18(4)(a)](https://www.legislation.gov.uk/ssi/2017/36/article/18/4/a) inserted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 2(5)(e)](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2/5/e); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-c748ff752d09cafef698c6d04699afdf]: Textual amendment: [Art. 18(8)](https://www.legislation.gov.uk/ssi/2017/36/article/18/8) inserted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 2(5)(f)](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2/5/f); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-a41df75601fb2718a9a888cf2af07081]: Commencement: Art. 19 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^key-65685d531514cb8d7ecce12cd24de825]: Textual amendment: Words in [art. 19(1)(b)](https://www.legislation.gov.uk/ssi/2017/36/article/19/1/b) substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 11(1)(d)](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/11/1/d); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-a9dffccdd9df8ce516537737531c55c3]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/ssi/2017/36/article/20) revoked (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 2 para. 2(6)](https://www.legislation.gov.uk/asp/2019/1/schedule/2/paragraph/2/6); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+
+[^key-a2d6d3a4f0974b66a74822a8e4f5ae6a]: Commencement: Art. 21 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^f00007]: Footnote: [1975 c.24](https://www.legislation.gov.uk/ukpga/1975/24); there are amendments to Part 2 of schedule 1 not relevant to this article.
+
+[^f00008]: Footnote: The entry relating to members of staff of the Commissioner for Older People in Wales was inserted by the Commissioner for Older People (Wales) Act [2006 (c.30)](https://www.legislation.gov.uk/ukpga/2006/30), schedule 1, paragraph 16.
+
+[^f00009]: Footnote: [2000 asp 7](https://www.legislation.gov.uk/asp/2000/7); the entry relating to the Crofting Commission was inserted by the Crofting Reform (Scotland) Act [2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), schedule 4, paragraph 4.
+
+[^f00010]: Footnote: [2002 asp 11](https://www.legislation.gov.uk/asp/2002/11); paragraph 17A of Part 1 of schedule 2 was inserted by the Scottish Parliamentary Commissions and Commissioners etc. Act [2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), schedule 3, paragraph 20.
+
+[^f00011]: Footnote: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13); there are amendments to schedule 1 not relevant to this article.
+
+[^f00012]: Footnote: [2003 asp 4](https://www.legislation.gov.uk/asp/2003/4); the entry relating to the Parole Board for Scotland was inserted by article 2(6) of [S.S.I. 2005/540](https://www.legislation.gov.uk/ssi/2005/540).
+
+[^f00013]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8); the entry relating to the Crofting Commission is substituted by section 1(4) of the Crofting Reform (Scotland) Act 2010.
+
+[^f00014]: Footnote: [2011 asp 12](https://www.legislation.gov.uk/asp/2011/12); there are amendments to the schedule not relevant to this article.
+
+[^f00015]: Footnote: [S.S.I. 2015/350](https://www.legislation.gov.uk/ssi/2015/350).
+
+[^key-2ce24e649cdd3fa17a7cfe3778d61dec]: Commencement: Art. 22 in force at 16.2.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/36/article/1/1)
+
+[^f00016]: Footnote: [1857 c.44](https://www.legislation.gov.uk/ukpga/1857/44) (20 and 21 Vict.); section 4 was relevantly amended by the Crown Estate Act 1956 (c.73 (4 & 5 Eliz. 2)), section 1(7), and the Crown Estate Act 1961, schedule 2, paragraph 4(1).

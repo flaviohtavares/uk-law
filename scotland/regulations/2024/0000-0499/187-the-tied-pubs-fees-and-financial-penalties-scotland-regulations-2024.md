@@ -1,0 +1,129 @@
+---
+title: The Tied Pubs (Fees and Financial Penalties) (Scotland) Regulations 2024
+id: ssi/2024/187
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2024-06-25'
+text_date: '2025-03-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2024/187
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2024/187/pdfs/ssipn_20240187_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2024/187/pdfs/ssi_20240187_en.pdf
+- http://www.legislation.gov.uk/ssi/2024/187/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tied Pubs (Fees and Financial Penalties) (Scotland) Regulations 2024
+
+> Text as at 2025-03-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2024 No. 187
+
+Landlord And Tenant
+
+The Tied Pubs (Fees and Financial Penalties) (Scotland) Regulations 2024
+
+Made
+
+25th June 2024
+
+Coming into force
+
+7th October 2024
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 10(3) and 17(1) of the Tied Pubs (Scotland) Act 2021[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 24(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement[^key-c92ee4c6c36fc570492d211c3e833cba]
+
+These Regulations may be cited as the Tied Pubs (Fees and Financial Penalties) (Scotland) Regulations 2024 and come into force on 31 March 2025[^key-a4a2004e7064b8cb7f2548ec5bf1b49a].
+
+## 2. Interpretation[^key-0e1310c16596a8753f710a05bc27aaf9]
+
+In these Regulations—
+
+- “**the Act**” means the Tied Pubs (Scotland) Act 2021,
+- “undertaking” and “group undertaking” have the meanings given by section 1161 of the Companies Act 2006[^f00002] (and related terms on which those definitions rely are to be construed accordingly).
+
+## 3. Fee for submitting disputes to the adjudicator[^key-7bfbe7f73a57d6eef30d25c17cfd5fc4]
+
+A tied-pub tenant must pay a fee of £250 to the adjudicator in respect of a dispute submitted to arbitration by the tied-pub tenant under section 15 (submission of dispute to adjudicator) of the Act.
+
+## 4. Permitted maximum penalty[^key-2555caafeca176a5cb8b88acc33edebb]
+
+(1) The permitted maximum penalty that the adjudicator may impose on a pub-owning business under section 9 of the Act is 1% of the pub-owning business’s annual turnover.
+
+(2)[^key-011fb675da7a79ffc17af94fe659205d] Where there are one or more group undertakings in relation to a pub-owning business, the permitted maximum penalty that the adjudicator may impose on a pub-owning business under section 9 of the Act is 1% of the combined annual turnover of the pub-owning business and any person who is a group undertaking in relation to the pub-owning business.
+
+(3) For the purposes of this regulation, the annual turnover of a business or undertaking is to be determined in accordance with paragraphs (4) and (5).
+
+(4) Where a business or undertaking has published accounts during the period of 12 months immediately preceding the date on which the financial penalty is imposed, the annual turnover is—
+
+- (a) where the accounts cover a period of exactly 12 months, the relevant turnover for the period covered by those accounts, or
+- (b) where the accounts cover a period of more than or less than 12 months, the relevant turnover for the period covered by the accounts, divided by the number of months in that period, and multiplied by 12.
+
+(5) Where accounts have not been published as mentioned in paragraph (4), the annual turnover is—
+
+- (a) where there is relevant turnover for each of the 12 months ending with the month preceding that in which the financial penalty is imposed, the relevant turnover for those 12 months,
+- (b) where there is relevant turnover for some but not all of those 12 months, the relevant turnover for those months, divided by the number of those months, and multiplied by 12, or
+- (c) where there is no relevant turnover for any of those 12 months, nil.
+
+(6) “Relevant turnover” for any period is all income receivable by a business or undertaking in that period that is—
+
+- (a) derived from the provision of products and services falling within the ordinary activities of the business or undertaking in the United Kingdom,
+- (b) rent or money payable in lieu of rent, in respect of land in the United Kingdom, or
+- (c) gifts, grants, subsidies or membership fees receivable in the course of the ordinary activities of the business or undertaking in the United Kingdom,
+
+after deduction of trade discounts, value added tax and other taxes based on that income.
+
+(7) Amounts are to be calculated for the purposes of this regulation in conformity with generally accepted accounting principles and practices.
+
+TOM ARTHUR
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+25th June 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under powers conferred by sections 10(3) and 17(1) of the Tied Pubs (Scotland) Act 2021 and come into force on 7 October 2024.
+
+Regulation 3 provides that a fee of £250 must be paid by a tied-pub tenant when the tenant submits a dispute to arbitration under section 15 of the Tied Pubs (Scotland) Act 2021.
+
+Regulation 4 provides that the permitted maximum penalty that may be imposed on a pub-owning business for failure to comply with the Scottish Pubs Code is 1% of their annual turnover (or 1% of group turnover where the pub-owning business is part of a group).
+
+A Business and Regulatory Impact Assessment, Equality Impact Assessment, Data Protection Impact Assessment, and Fairer Scotland Duty Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government, B1 Spur, Saughton House, Broomhouse Drive, Edinburgh EH11 3XD.
+
+## Annotations
+
+[^f00001]: Footnote: [2021 asp 17](https://www.legislation.gov.uk/asp/2021/17).
+
+[^key-c92ee4c6c36fc570492d211c3e833cba]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/187/regulation/1) in force at 31.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1) (as amended by [S.S.I. 2024/245](https://www.legislation.gov.uk/ssi/2024/245), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2024/245/regulation/3/2))
+
+[^key-a4a2004e7064b8cb7f2548ec5bf1b49a]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/ssi/2024/187/regulation/1) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2024/245/regulation/3/2)
+
+[^key-0e1310c16596a8753f710a05bc27aaf9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/187/regulation/2) in force at 31.3.2025 , see [reg. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1) (as amended by [S.S.I. 2024/245](https://www.legislation.gov.uk/ssi/2024/245), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2024/245/regulation/3/2))
+
+[^f00002]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^key-7bfbe7f73a57d6eef30d25c17cfd5fc4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/187/regulation/3) in force at 31.3.2025 , see [reg. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1) (as amended by [S.S.I. 2024/245](https://www.legislation.gov.uk/ssi/2024/245), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2024/245/regulation/3/2))
+
+[^key-2555caafeca176a5cb8b88acc33edebb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2024/187/regulation/4) in force at 31.3.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1) (as amended by [S.S.I. 2024/245](https://www.legislation.gov.uk/ssi/2024/245), [reg. 3(2)](https://www.legislation.gov.uk/ssi/2024/245/regulation/3/2))
+
+[^key-011fb675da7a79ffc17af94fe659205d]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/ssi/2024/187/regulation/4/2) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2024/245/regulation/3/3)

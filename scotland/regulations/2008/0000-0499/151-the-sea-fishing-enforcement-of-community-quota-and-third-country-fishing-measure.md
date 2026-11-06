@@ -1,0 +1,873 @@
+---
+title: The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Order 2008
+id: ssi/2008/151
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2008-04-15'
+text_date: '2008-04-16'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2008/151
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2008/151/pdfs/ssien_20080151_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/151/pdfs/ssi_20080151_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/151/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Order 2008
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2008-04-16. See https://www.legislation.gov.uk/changes/affected/ssi/2008/151
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2008 No. 151
+
+SEA FISHERIES
+
+The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Order 2008
+
+Made
+
+15th April 2008
+
+Laid before the Scottish Parliament
+
+15th April 2008
+
+Coming into force
+
+16th April 2008
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^f00001] and section 25(2)(b) of the Aquaculture and Fisheries (Scotland) Act 2007[^f00002] and all other powers enabling them to do so.
+
+## PART I — GENERAL
+
+### 1. Citation, commencement and extent[^key-1c8ecb9fa6c26dc81fe382a02b2f0913]
+
+(1) This Order may be cited as the Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Order 2008 and comes into force on 16th April 2008.
+
+(2) Subject to paragraph (3), this Order extends to Scotland and the Scottish zone only.
+
+(3) Insofar as it extends beyond Scotland and the Scottish zone, it does so only as a matter of Scots law.
+
+(4) Nothing in paragraph (2) is to be treated as prejudicing the effect of section 30(2A)[^f00003] of the Fisheries Act 1981 in the rest of the United Kingdom in relation to, or for purposes incidental to, any provision which creates an offence.
+
+### 2. Interpretation[^key-6fc4b4433dd6855570f5d8ac1e066294]
+
+(1) In this Order–
+
+- “British fishing boat” means a fishing boat which is registered in the United Kingdom under Part II of the Merchant Shipping Act 1995[^f00004] or is owned wholly by persons qualified to own British ships for the purposes of that part of that Act;
+- “cod recovery zone” means the geographical areas defined in paragraph 2 of Annex IIa;
+- “Community fishing boat” means a fishing boat flying the flag of and registered in a Member State of the European Community;
+- “Community quota measure” means a provision of the Council Regulation specified in column 1 of Schedule 1 as read with any qualifying words relating to the provision in that column, and in the case of Article 10 of the Council Regulation, with article 3 of this Order;
+- “Community third country fishing measure” means a provision of the Council Regulation specified in column 1 of Schedule 2;
+- “day” has the same meaning as in paragraph 3 of Annex IIa and paragraph 2 of Annex IIc;
+- “English fishing boat” means a fishing vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in England as the port to which the vessel is to be treated as belonging;
+- “equivalent provision” means any provision in any other order made under section 30(2) of the Fisheries Act 1981 for the purposes of implementing a Community quota measure, a Community third county fishing measure, Annex IIa, Annex IIc or Regulation 423/2004, extending to any part of the United Kingdom which has equivalent effect to a provision in this Order, proceedings in respect of which, by virtue of section 30(2A) of the Fisheries Act 1981, may be commenced in any place in the United Kingdom;
+- “fishery product” includes fish;
+- “foreign fishing boat” means a fishing boat which is not a British fishing boat but to which Annex IIa or Annex IIc applies;
+- “ICES” followed by a roman numeral with or without a letter is to be construed as a reference to whichever of the statistical sub-areas and divisions of the International Council for the Exploration of the Sea[^f00005] is identified therein by that roman numeral or that roman numeral and letter as the case may be;
+- “licensed” means licensed under section 4 of the Sea Fish (Conservation) Act 1967[^f00006], but, does not include a British fishing boat which has an overall length of less than 10 metres;
+- “management period” means, in Part III of this Order, the management period determined by the Scottish Ministers in accordance with article 8(1), and in Part IV of this Order, the management period determined by the Scottish Ministers in accordance with article 16(1);
+- “Northern Ireland fishing boat” means a fishing vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Northern Ireland as the port to which the vessel is to be treated as belonging;
+- “person in charge” means the owner, master or charterer or the agent of the owner, master or charterer;
+- “regulated gear” means any gear within a grouping of fishing gears specified in paragraph 4 of Annex IIa in relation to cod and paragraph 3 of Annex IIc in relation to sole;
+- “Regulation 2807/83” means Commission Regulation [(EEC) 2807/1983](https://www.legislation.gov.uk/european/regulation/1983/2807) which lays down detailed rules for recording information on Member States' catches of fish[^f00007];
+- “Regulation 423/2004” means Council Regulation [(EC) No. 423/2004](https://www.legislation.gov.uk/european/regulation/2004/0423) of 26th February 2004 establishing measures for the recovery of cod stocks;
+- “Regulation 2847/93” means Council Regulation [(EEC) No. 2847/93](https://www.legislation.gov.uk/european/regulation/1993/2847) of 12th October 1993 establishing a control system applicable to the common fisheries policy[^f00008];
+- “relevant fishing boat” means–
+  - (a) except in relation to articles 3, 4, 5, 7, 8, 12, 15, 16 and 20–
+    - (i) a licensed Scottish fishing boat wherever it may be; and
+    - (ii) any other licensed fishing boat which is within the Scottish zone other than a foreign fishing boat;
+  - (b) in relation to articles 3,4 and 5–
+    - (i) a Scottish fishing boat wherever it may be; and
+    - (ii) any other fishing boat which is within the Scottish zone;
+  - (c) in relation to articles 7,8,15 and 16 a licensed Scottish fishing boat;
+  - (d) in relation to articles 12 and 20–
+    - (i) a licensed Scottish fishing boat; and
+    - (ii) a licensed English, Welsh or Northern Ireland fishing boat where a licensed Scottish fishing boat is the donor and it is the recipient or it is the donor and a licensed Scottish fishing boat is the recipient;
+- “relevant offence” means an offence under this Order or under any equivalent provision except an offence under article 30;
+- “Scotland” has the same meaning as in section 126(1) of the Scotland Act 1998[^f00009];
+- “Scottish fishing boat” means a fishing vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Scotland as the port to which the vessel is to be treated as belonging;
+- “Scottish zone” has the same meaning as in section 126(1) of the Scotland Act 1998[^f00010];
+- “sole recovery zone” means the geographical area defined in paragraph 1 of Annex IIc;
+- “the Council Regulation” means Council Regulation [(EC) No. 40/2008](https://www.legislation.gov.uk/european/regulation/2008/0040) of 16 January 2008 fixing for 2008 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and, for Community vessels, in waters where catch limitations are required[^f00011];
+- “third country fishing boat” means a fishing boat flying the flag of and registered in a State other than a Member State;
+- “unused day” means any period of 24 consecutive hours in the cod recovery zone or the sole recovery zone to which a relevant fishing boat carrying regulated gear is entitled to and has not used in any management period determined under article 8 or 16; and
+- “Welsh fishing boat” means a fishing vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Wales as the port to which the vessel is to be treated as belonging.
+
+(2) In this Order “logbook” has the same meaning as in Article 6 of Regulation 2847/93 as read with Regulation 2807/83 and for the purposes of this Order, any reference to a logbook, declaration or document includes, in addition to a logbook, declaration or document in writing any–
+
+- (a) map, plan, graph or drawing;
+- (b) photograph;
+- (c) data, however reproduced, communicated via a satellite-based vessel monitoring system established under Article 3.1 of Regulation 2847/93;
+- (d) disk, tape, sound track or other device on which sounds or other data (not being visual aids) are recorded so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom; and
+- (e) film (including microfilm), negative, tape, disk or other device on which one or more visual images are recorded so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom.
+
+(3) In this Order, any reference to a–
+
+- (a) numbered article is a reference to the article so numbered in this Order;
+- (b) numbered paragraph is a reference to the paragraph so numbered in the article in which it appears in this Order;
+- (c) numbered Schedule is a reference to the Schedule to this Order so numbered; and
+- (d) numbered Article or Annex is, except where otherwise indicated, a reference to the Article or Annex so numbered in the Council Regulation.
+
+(4) Column 2 of Schedules 1 and 2 (which provides in relation to each Community quota measure and each Community third country fishing measure an indication of the subject matter of the measure) is not to be read as limiting the scope of any Community quota measure or Community third country fishing measure and is to be disregarded in relation to any question arising as to the construction of this Order.
+
+(5) Any information provided to any authority for the purposes of any provisions of this Order is to be treated as also provided for the purposes of any equivalent provision.
+
+## PART II — ENFORCEMENT OF COMMUNITY QUOTA AND THIRD COUNTRY FISHING MEASURES
+
+### 3. Landing of unsorted catches[^key-d8c7c266895af124395f066b54f8ceef]
+
+(1) This article applies for the purposes of Article 10.
+
+(2) No catch that includes any unsorted fish may be landed at a harbour unless–
+
+- (a) the master of the fishing boat from which the catch is to be landed applies before landing to a British sea fishery officer at the harbour for a decision as to the suitability of the harbour for landing the catch; and
+- (b) having regard to the overall size and characteristics of the catch, the British sea fishery officer–
+  - (i) decides that the sampling systems at the harbour are adequate for the purposes of monitoring effectively the landing of the catch having regard to the overall size and characteristics of the catch; and
+  - (ii) notifies the master of that decision.
+
+(3) A person in charge of a relevant fishing boat is guilty of an offence if a catch that includes unsorted fish is landed from the fishing boat at a harbour before the master is notified of the decision of a British sea fishery officer at the harbour in question under paragraph (2)(b)(ii).
+
+### 4. By catch quota – dog fish and skate[^key-a4f5685399058c6adecda85102e8a265]
+
+A person in charge of a relevant fishing boat is guilty of an offence if the following species comprise more than the specified percentage by live weight of the catch retained on board in contravention of Annex IA–
+
+- (a) in respect of spurfish/dogfish (squalus acanthias), 5%; and
+- (b) in respect of skate and ray (rajidae), 25%.
+
+### 5. By catch quota – red fish and sharks[^key-631309e8935d3e26447e7bf99789d4dd]
+
+A person in charge of a relevant fishing boat is guilty of an offence if–
+
+- (a) red fish comprise more than 1% by live weight of the catch retained on board in contravention of paragraph 21(e) of Annex III; or
+- (b) sharks comprise more than 5% by live weight of the catch retained on board in contravention of paragraph 8.11 of Annex III.
+
+### 6. Offences[^key-ee43b40fb60bd5d5a3e760c6a4b2407a]
+
+(1) Where there is, in respect of any–
+
+- (a) Scottish fishing boat wherever it may be; or
+- (b) Community fishing boat within the Scottish zone,
+
+a contravention of, or failure to comply with, any Community quota measure, the person in charge of the fishing boat is guilty of an offence.
+
+(2) Where there is, in respect of any third country fishing boat within the Scottish zone, a contravention of, or failure to comply with, the Community quota measures specified at 6.(a) to (l) in Schedule 1 or with any Community third country fishing measure, the person in charge of the fishing boat is guilty of an offence.
+
+(3) Nothing in this Order shall be taken to constitute an offence to land, from a Scottish fishing boat, an unsorted catch at a harbour outwith Scotland where sampling programmes mentioned in Article 10.3 are in place.
+
+## PART III — RESTRICTION ON DAYS AT SEA
+
+### COD
+
+#### 7. Determination of number of days[^key-20d28f86b27946f23e1180e0d029ed2d]
+
+The Scottish Ministers may authorize a relevant fishing boat to be present within the cod recovery zone for such number of days as they may determine in accordance with Article 8 of Annex IIa.
+
+#### 8. Determination of management periods and division of days between management periods[^key-df9917461acdbfc8087532631b8d1e73]
+
+(1) Management periods, as referred to in paragraph 9.1 of Annex IIa, and the number of days during a management period, as referred to in paragraph 9.2 of Annex IIa, in relation to a relevant fishing boat will be determined by the Scottish Ministers.
+
+(2) A person in charge of a relevant fishing boat may notify the Scottish Ministers indicating the preference of that person as to the length of the management period for that boat.
+
+(3) In determining the management period for that boat the Scottish Ministers must have regard to any preference as to the length of the management period indicated in a notification under paragraph (2).
+
+#### 9. Absence from port[^key-97066efe3b5d1285ad66d84b2bb3c7a4]
+
+(1) A person in charge of a relevant fishing boat which–
+
+- (a) is absent from port and within the cod recovery zone in excess of the number of days permitted to it under this Part of this Order in contravention of paragraph 9.3 of Annex IIa; or
+- (b) without having a management period, enters the cod recovery zone carrying on board any regulated gear,
+
+is guilty of an offence.
+
+(2) Paragraph (1)(a) does not apply to–
+
+- (a) a person in charge of a relevant fishing boat in respect of which paragraph 21 of Annex IIa applies, provided that the person complies with the requirements of that paragraph; or
+- (b) a person in charge of a relevant fishing boat which is permitted by paragraph 22 of Annex IIa to transit the cod recovery zone provided that the person complies with the requirements of that paragraph.
+
+(3) Paragraph (1)(b) does not apply to a person in charge of a relevant fishing boat which is permitted by paragraph 22 of Annex IIa to transit the cod recovery zone provided that the person complies with the requirements of that paragraph.
+
+(4) In addition to the determined number of days, for each management period, there is added to, or substituted for as the case may be, the determined number of days, such further number of days (if any) as may be allocated to the boat by the Scottish Ministers.
+
+(5) Where unused days have been transferred from a relevant fishing boat (“the donor”) to another relevant fishing boat (“the recipient”) the following applies, subject to any adjustment required by paragraph 15.1 of Annex IIa–
+
+- (a) the donor must have deducted from its allocation of days such number of days as have been transferred to the recipient;
+- (b) the recipient must have added to its allocation of days such number of days as have been transferred by the donor.
+
+(6) Where unused days have been transferred from a relevant fishing boat (“the donor”) to a foreign fishing boat (“the recipient”), subject to any adjustment required by paragraph 16 of Annex IIa, the donor must have deducted from its allocation of days such number of days as have been transferred to the recipient.
+
+(7) Where unused days have been transferred from a foreign fishing boat (“the donor”) to a relevant fishing boat (“the recipient”), subject to any adjustment required by paragraph 16 of Annex IIa the recipient must have added to its allocation of days such number of days as have been transferred by the donor.
+
+(8) Where in the course of an absence from port during any management period within the cod recovery zone regulated gear is affixed to two or more fishing boats there will be deducted from the determined number of days for each such boat that is a relevant fishing boat in relation to that gear and that period a number of days equal to the number when it was absent from port.
+
+(9) Where during any management period a relevant fishing boat is absent from port operating with regulated gear within the same grouping of fishing gear and present within the sole recovery zone there will be deducted from the determined number of days for that boat in relation to that period a number of days equal to the number when it was absent from port and present within that area.
+
+(10) Subject to article 10, where during any management period a relevant fishing boat has–
+
+- (a) been absent from port carrying fishing gear in excess of the determined number of days or the days permitted to it by this article; or
+- (b) purported to transfer days in accordance with article 12 in excess of its unused days,
+
+the Scottish Ministers may deduct a number equal to the number of days in that excess.
+
+(11) In any proceedings for an offence under paragraph (1)(a) of this article, it is a defence for a person to show that the number of days of absence from port carrying any type of fishing gear comprising the offence was no greater than the number of days of absence carrying that gear purportedly but not validly transferred to that person under article 12 and that person did not know and had no reasonable cause to suspect that the donor was not entitled to transfer the days.
+
+(12) In this article “determined number of days” means the number of days during a management period as determined by the Scottish Ministers in accordance with article 8(1) and adjusted as necessary in terms of paragraphs 18.2 to 18.4 of Annex IIa.
+
+#### 10. Procedure as to decisions to deduct days[^key-3fefe00534bb58e8f39bae60e443f80c]
+
+(1) In making a decision to deduct days under article 9(10), the Scottish Ministers–
+
+- (a) must specify to which management period the days deducted will relate; and
+- (b) may deduct days in respect of one or more than one management period, as they consider fit.
+
+(2) The Scottish Ministers, before making a decision to deduct days under article 9(10), must–
+
+- (a) give the affected person a written notification of that intention (including a note of the management period or periods to which that deduction is proposed to apply) and an explanation of the reasons for considering the deduction of days (and the basis for proposing the deduction from a particular period or periods);
+- (b) afford that person an opportunity of making representations in that regard within such time and in such form as they think fit and, in order to effectively give such opportunity, may appoint a person (“the reporter”) to report to them as to the relevant factual circumstances; and
+- (c) consider any such representations (including the report prepared by the reporter) in making their decision in the case.
+
+(3) In this article “affected person” means the owner, master or charterer of the boat in respect of which a decision to deduct days under article 9(10) is made or is proposed to be made.
+
+#### 11. Use of regulated gear[^key-0b3b05ae3eb7b3ebe0db603de864bf24]
+
+(1) A person in charge of a relevant fishing boat which fishes in contravention of the notification requirement in paragraph 17 of Annex IIa is guilty of an offence.
+
+(2) A person in charge of a relevant fishing boat which carries or uses, whilst present in the cod recovery zone, regulated gear other than the regulated gear notified under a requirement in paragraphs 17 to 19 of Annex IIa is guilty of an offence.
+
+(3) The competent authority for the purpose of paragraph 18.5(b) and 18.6 of Annex IIa is the Scottish Ministers.
+
+(4) Subject to the derogation in paragraph 20.2 of Annex IIa, a relevant fishing boat or a foreign fishing boat within the Scottish zone which is present in the cod recovery zone carrying on board regulated gear falling within one of the groupings of fishing gears specified in paragraph 4 of Annex IIa must not simultaneously carry on board regulated gear falling within any of the other groupings of fishing gear specified in paragraph 4 of Annex IIa.
+
+(5) A person in charge of a relevant fishing boat or a foreign fishing boat which contravenes the prohibition in paragraph (4) is guilty of an offence.
+
+#### 12. Transfer of days from one boat to another[^key-da86b0c559b43f98431716bf5e9cc750]
+
+(1) Transfer of unused days within the same management period from one relevant fishing boat (“the donor”) to another (“the recipient”) for the purposes of paragraph 15 of Annex IIa where either the donor or the recipient is, or both are, a relevant fishing boat, is permitted subject to the conditions specified in paragraphs 15.1 to 15.4 of Annex IIa, to the extent specified in a notification of transfer sent to the Scottish Ministers and consented to by the Scottish Ministers.
+
+(2) Transfer of unused days within the same management period between a relevant fishing boat and a foreign fishing boat for the purposes of paragraph 16 of Annex IIa is permitted subject to the conditions specified in paragraph 16 of Annex IIa, to the extent specified in a notification of transfer sent to the Scottish Ministers and consented to by the Scottish Ministers.
+
+(3) A person who knowingly or recklessly makes a statement in a notification under paragraph (1) or (2) which is false in a material particular is guilty of an offence.
+
+(4) For the purposes of this article “the same management period” means any two management periods provided that the transfer takes place during the concurrence of the management periods.
+
+#### 13. Designated Ports[^key-4e76ec069310a50bf84a9c7fa4d2a0e9]
+
+For landings in the United Kingdom the ports, and where applicable the landing locations within them, designated for the purposes of Article 12(2) of Regulation 423/2004 are the ports specified in Schedule 3.
+
+#### 14. Offences in relation to fishing gears[^key-c238de092ca2dbef44784f53c12636fc]
+
+(1) A person in charge of a relevant fishing boat or a foreign fishing boat in respect of which paragraph 18 or 19 of Annex IIa applies is guilty of an offence if that person fails to comply with the obligations imposed by either of those paragraphs.
+
+(2) Where, in respect of the obligations referred to in paragraph (1) there is an obligation to supply information, the information should be supplied to the Scottish Ministers.
+
+## PART IV — RESTRICTION ON DAYS AT SEA
+
+### SOLE
+
+#### 15. Determination of number of days[^key-590972e16293822dd5acaaa5e92a75fa]
+
+The Scottish Ministers may authorize a relevant fishing boat to be present within the sole recovery zone for such number of days as they may determine in accordance with Article 7 of Annex IIc.
+
+#### 16. Determination of management periods and division of days between management periods[^key-4073a38f7b7d535ed018d0981283c9a6]
+
+(1) Management periods, as referred to in paragraph 8.1 of Annex IIc, and the number of days during a management period as referred to in paragraph 8.2 of Annex IIc in relation to a relevant fishing boat, will be determined by the Scottish Ministers.
+
+(2) A person in charge of a relevant fishing boat may notify the Scottish Ministers indicating the preference of that person as to the length of the management period for that boat.
+
+(3) In determining the management period for that boat the Scottish Ministers must have regard to any preference as to the length of the management period indicated in a notification under paragraph (2).
+
+#### 17. Absence from port[^key-e89ef939fd7884f272f95b7e60a0a203]
+
+(1) A person in charge of a relevant fishing boat which–
+
+- (a) is absent from port and within the sole recovery zone in excess of the number of days permitted to it under this Part of the Order in contravention of paragraph 8.3 of Annex IIc; or
+- (b) without having a management period, enters the sole recovery zone carrying on board any regulated gear,
+
+is guilty of an offence.
+
+(2) Paragraph (1)(a) does not apply to–
+
+- (a) a person in charge of a relevant fishing boat in respect of which paragraph 14 of Annex IIc applies provided that the person complies with the requirements of that paragraph; or
+- (b) a person in charge of a relevant fishing boat which is permitted by paragraph 15 of Annex IIc to transit the sole recovery zone, provided that the person complies with the requirements of that paragraph.
+
+(3) Paragraph (1)(b) does not apply to a person in charge of a relevant fishing boat which is permitted by paragraph 15 of Annex IIc to transit the sole recovery zone, provided that the person complies with the requirements of that paragraph.
+
+(4) In addition to the determined number of days, for each management period there is added to the determined number of days, such number of days (if any) as may be allocated to the boat by the Scottish Ministers.
+
+(5) Where unused days have been transferred from a relevant fishing boat (“the donor”) to another relevant fishing boat (“the recipient”) the following applies, subject to any adjustment required by paragraph 11.1 of Annex IIc–
+
+- (a) the donor must have deducted from its allocation of days such number of days as have been transferred to the recipient;
+- (b) the recipient must have added to its allocation of days such number of days as have been transferred by the donor.
+
+(6) Where unused days have been transferred from a relevant fishing boat (“the donor”) to a foreign fishing boat (“the recipient”), subject to any adjustment required by paragraph 12 of Annex IIc, the donor must have deducted from its allocation of days such number of days as have been transferred to the recipient.
+
+(7) Where unused days have been transferred from a foreign fishing boat (“the donor”) to a relevant fishing boat (“the recipient”), subject to any adjustment required by paragraph 12 of Annex IIc the recipient must have added to its allocation of days such number of days as have been transferred by the donor.
+
+(8) Where in the course of an absence from port during any management period within the sole recovery zone regulated gear is affixed to two or more fishing boats there will be deducted from the determined number of days for each such boat that is a relevant fishing boat in relation to that gear and that period a number of days equal to the number when it was absent from port but the gear was being carried by any other such boat.
+
+(9) Where during any management period a relevant fishing boat is absent from port operating with regulated gear within the same grouping of fishing gear and present within the cod recovery zone there will be deducted from the determined number of days for that boat in relation to that period a number of days equal to the number when it was absent from port and present within that area.
+
+(10) Subject to article 18, where during any management period a relevant fishing boat has–
+
+- (a) been absent from port carrying fishing gear in excess of the determined number of days or the days permitted to it by this article; or
+- (b) purported to transfer days in accordance with article 20 in excess of its unused days,
+
+the Scottish Ministers may deduct a number equal to the number of days in that excess.
+
+(11) In any proceedings for an offence under paragraph (1)(a) of this article, it is a defence for a person to show that the number of days of absence from port carrying any type of fishing gear comprising the offence was no greater than the number of days of absence carrying that gear purportedly but not validly transferred to that person under article 20 and that person did not know and had no reasonable cause to suspect that the donor was not entitled to transfer the days.
+
+(12) In this article “determined number of days” means the number of days during a management period as determined by the Scottish Ministers in accordance with article 16(1).
+
+#### 18. Procedure as to decisions to deduct days[^key-437113a4bed32c70ea6d41ad6309ba79]
+
+(1) In making a decision to deduct days under article 17(10) the Scottish Ministers–
+
+- (a) must specify to which management period the days deducted will relate; and
+- (b) may deduct days in respect of one or more than one management period, as they consider fit.
+
+(2) The Scottish Ministers, before making a decision to deduct days under article 17(10) must–
+
+- (a) give the affected person a written notification of that intention (including a note of the management period or periods to which that deduction is proposed to apply) and an explanation of the reasons for considering the deduction of days (and the basis for proposing the deduction from a particular period or periods);
+- (b) afford that person an opportunity of making representations in that regard within such time and in such form as they think fit and, in order to effectively give such opportunity, may appoint a person (“the reporter”) to report to them as to the relevant factual circumstances; and
+- (c) consider any such representations (including the report prepared by the reporter) in making their decision in the case.
+
+(3) In this article “affected person” means the owner, master or charterer of the boat in respect of which a decision to deduct days under article 17(10) is made or is proposed to be made.
+
+#### 19. Use of regulated gear[^key-4eebe18ec9c0bca5d2b75a4ae644f7ec]
+
+(1) A person in charge of a relevant fishing boat which fishes in contravention of the notification requirement in paragraph 13 of Annex IIc is guilty of an offence.
+
+(2) A person in charge of a relevant fishing boat which carries or uses, whilst present in the sole recovery zone, regulated gear other than the regulated gear notified under the requirement in paragraph 13 of Annex IIc is guilty of an offence.
+
+#### 20. Transfer of days from one boat to another[^key-3245dc61b5e6c3b4080eb30ad68d8306]
+
+(1) Transfer of unused days within the same management period from one relevant fishing boat (“the donor”) to another (“the recipient”) for the purposes of paragraph 11 of Annex IIc where either the donor or the recipient is, or both are, a relevant fishing boat, is permitted subject to the conditions specified in paragraphs 11.1 to 11.3 of Annex IIc, to the extent specified in a notification of transfer sent to the Scottish Ministers and consented to by the Scottish Ministers.
+
+(2) Transfer of unused days within the same management period between a relevant fishing boat and a foreign fishing boat for the purposes of paragraph 12 of Annex IIc is permitted subject to the conditions specified in paragraph 12 of Annex IIc, to the extent specified in a notification of transfer sent to the Scottish Ministers and consented to by the Scottish Ministers.
+
+(3) A person who knowingly or recklessly makes a statement in a notification under paragraph (1) or (2) which is false in a material particular is guilty of an offence.
+
+(4) For the purposes of this article “the same management period” means any two management periods provided that the transfer takes place during the concurrence of the management periods.
+
+## PART V — PROVISIONS APPLICABLE TO COD AND SOLE
+
+### 21. Maintenance of logbook[^key-1242a0a2aabd094fe5e0909e091279e9]
+
+(1) An entry must be made in a logbook of a relevant fishing boat which is absent from port carrying any regulated gear but not fishing as specified in Article 6 of Regulation 2847/93, in respect of each particular which would be required to be entered by that Article (as read with Regulation 2807/83) were the boat so fishing, and such an entry must state the type of fishing gear carried.
+
+(2) Such an entry must be made–
+
+- (a) daily, but not later than midnight at the end of each day;
+- (b) at the time of arrival in port;
+- (c) at the time of any inspection at sea; and
+- (d) at the time that an effort report is made as required by Article 19e.3 of Regulation 2847/93,
+
+and the requirements of the Regulations specified in paragraph (1) for handing over and dispatch of logbook entries, as modified by article 22, apply to the entries required by this article as they apply to other entries.
+
+(3) Where a relevant fishing boat is absent from port and paragraph (1) requires a logbook entry to be made in respect of that absence the logbook entries must be handed over and dispatched as if landing were made at the time of the arrival of the boat in port.
+
+(4) Where there is, in respect of a relevant fishing boat, a failure to make an entry required by this article the person in charge of that fishing boat is guilty of an offence.
+
+### 22. Submission of logbook at designated port[^key-3ed2ac8f8537a515a2be36cd5c727431]
+
+(1) The relevant part (the white top copy) of the logbook must be–
+
+- (a) given to a British sea fishery officer; or
+- (b) deposited in the box provided for that purpose,
+
+by the person in charge of a relevant fishing boat prior to any landing in a designated port.
+
+(2) A person in charge of a relevant fishing boat who fails to comply with paragraph (1) is guilty of an offence.
+
+(3) In this article “designated port” means a port specified in Schedule 3.
+
+### 23. Amendment of the Sea Fishing (Enforcement of Community Control Measures) (Scotland) Order 2000[^key-15f155bf5186bc37b8ac79fcb1d4eb1f][^f00012]
+
+In article 2(1) of the Sea Fishing (Enforcement of Community Control Measures) (Scotland) Order 2000 for the definition of “Annex IIc” substitute–
+
+> - “Annex IIc” means Annex IIc to Council Regulation [(EC) No. 40/2008](https://www.legislation.gov.uk/european/regulation/2008/0040) fixing for 2008 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and for Community vessels, in waters where catch limitations are required[^f00013];
+
+.
+
+## PART VI — ENFORCEMENT
+
+### 24. Penalties[^key-3e5c392f7f39b034f30d9c9c660491c9]
+
+(1) A person guilty of an offence under article 3(3), 4, 5, 9(1), 11(1), (2), or (5), 12(3), 14(1), 17(1), 19(1) or (2), 20(3), 21(4) or 22(2) or under any equivalent provision is liable–
+
+- (a) on summary conviction, to a fine not exceeding £50,000; and
+- (b) on conviction on indictment, to a fine.
+
+(2) A person guilty of an offence under article 6(1) or (2), or under any equivalent provision is be liable–
+
+- (a) on summary conviction, to a fine not exceeding the amount specified in column 3 of Schedules 1 or 2 in relation to the Community quota measure or Community third country fishing measure, the contravention of which, or failure to comply with, founded the offence; and
+- (b) on conviction on indictment, to a fine.
+
+(3) The court by or before which a person is convicted of an offence under article 6(1) or (2), 9(1), 11(1), (2) or (5), 14(1), 17(1), or 19(1) or (2) or under an equivalent provision is also liable to the forfeiture of–
+
+- (i) any fish in respect of which the offence was committed; and
+- (ii) any net or other fishing gear in respect of which the offence was committed, or which was used in committing the offence, or which was used for catching any fish in respect of which the offence was committed.
+
+(4) Any person found guilty of an offence under article 6(1) or (2), 9(1), 11(1), (2) or (5), 14(1), 17(1), or 19(1) or (2) or under an equivalent provision, subject to the following provisions of this article, is liable on summary conviction to a fine not exceeding the value of the fish in respect of which the offence was committed.
+
+(5) A person is not liable to a fine under paragraph (4) in respect of such an offence if, under paragraph (3) the court orders the forfeiture of the fish in respect of which that offence was committed; and where a fine is imposed under paragraph (4) in respect of any offence, the court does not have power under paragraph (3) to order the forfeiture of the fish in respect of which the offence was committed.
+
+(6) Subject to paragraph (5), any fine to which a person is liable under paragraph (4) is in addition to any other penalty (whether pecuniary or otherwise) to which that person is liable in respect of that offence under this article or under any other enactment.
+
+### 25. Recovery of fines[^key-f9b7652c67eb88dde4dbc54fd77ee2fe]
+
+(1) Without prejudice to the provisions of section 221 of the Criminal Procedure (Scotland) Act 1995[^f00014], where a court has imposed a fine on any person in respect of an offence under this Order, that court may for the purposes of recovering the fine–
+
+- (a) order any boat involved in the commission of the offence and its gear and catch to be detained for a period not exceeding 3 months from the date–
+  - (i) of the conviction or until the fine is paid;
+  - (ii) the order is renewed for a further period (not exceeding 3 months); or
+  - (iii) on which a warrant is issued under sub paragraph (b),
+
+  whichever first occurs; or
+- (b) subject to paragraph (2), at any time after the imposition of the fine, issue a warrant for the arrestment and sale of any such boat, its gear and catch.
+
+(2) The court must not issue a warrant under paragraph (l)(b) without first affording the owner of the boat, gear or catch liable to be included in the warrant an opportunity to be heard on the issue of such warrant.
+
+(3) A warrant issued under paragraph (1)(b), whatever the amount of the fine imposed, may be executed in the same manner as if the proceedings were on an extract decree of the sheriff in a summary cause.
+
+(4) Where in relation to a fine in respect of an offence under this Order a transfer of fine order under section 222 of the Criminal Procedure (Scotland) Act 1995, section 90 of the Magistrates' Courts Act 1980[^f00015] or article 95 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00016] specifies a court of summary jurisdiction in Scotland, this article applies as if the fine were a fine imposed by that court.
+
+### 26. Powers of British sea-fishery officers in relation to fishing boats[^key-605ff57d4781ee3f64414f03bcfc88fe]
+
+(1) For the purposes of enforcing article 6(1), or any equivalent provision made for the purposes of implementing a Community quota measure, a British sea fishery officer may exercise, in relation to any–
+
+- (a) Scottish fishing boat wherever it may be; or
+- (b) Community fishing boat within the Scottish zone,
+
+the powers conferred by paragraphs (4), (5) and (6).
+
+(2) For the purposes of enforcing article 6(2), or any equivalent provision made for the purposes of implementing a Community quota measure specified in that article or a Community third country fishing measure, a British sea fishery officer may exercise the powers conferred by paragraphs (4), (5) and (6) in relation to any third country fishing boat within the Scottish zone.
+
+(3) For the purposes of enforcing articles 9, 11, 12, 14, 17, 19, 20, 21 and 22 or any equivalent provisions, a British sea fishery officer may exercise the powers conferred by paragraphs (4), (5) and (6) in relation to–
+
+- (a) a Scottish fishing boat wherever it may be; or
+- (b) any other fishing boat which is within the Scottish zone.
+
+(4) A British sea fishery officer may go on board the boat, with or without persons assigned to assist in the duties of that officer, and may require the boat to stop and do anything else which will facilitate either the boarding of, or the disembarkation from, the boat.
+
+(5) A British sea fishery officer may require the attendance of the master and other persons on board the boat and may make any examination and inquiry which appears to that officer to be necessary for the purposes of enforcement referred to in paragraph (1), (2) and (3) and, in particular, may–
+
+- (a) search for fishery products or fishing gear on the boat and may examine any such products on the boat and the equipment of the boat, including the fishing gear and require persons on board the boat to do anything which appears to that officer to be necessary for facilitating the examination;
+- (b) require any person on board the boat to produce any document relating to the boat, to any fishing operations ancillary thereto or to the persons on board which is in the custody or possession of that person;
+- (c) for the purpose of ascertaining whether a relevant offence has been committed, search the boat for any such document and may require any person on board the boat to do anything which appears to that officer to be necessary for facilitating the search;
+- (d) inspect, take copies of and retain in the possession of that officer while any search, examination or inspection provided for under this article is being carried out, any such document produced to that officer or found on board;
+- (e) require the master or any person for the time being in charge of the boat to render all such documents on a computer system into visible and legible form and to produce them in a form in which they may be taken away; and
+- (f) where the boat is one in relation to which that officer has reason to suspect that a relevant offence has been committed, seize and detain any such document produced to that officer or found on board, for the purpose of enabling the document to be used as evidence in proceedings for the offence,
+
+but nothing in sub-paragraph (f) permits any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
+
+(6) Where it appears to a British sea fishery officer that a relevant offence has at any time been committed the officer may–
+
+- (a) require the master of the boat in relation to which the offence took place to take, or the officer may take, the boat and its crew to the port which appears to the officer to be the nearest convenient port; and
+- (b) detain or require the master to detain the boat in the port,
+
+and where such an officer detains or requires the detention of a boat the officer must serve notice in writing on the master stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea fishery officer.
+
+### 27. Powers of British sea-fishery officers on land[^key-071ea586e5da13f5790edb22de0c1048]
+
+(1) For the purpose of enforcing a relevant offence a British sea fishery officer may–
+
+- (a) enter and inspect at any reasonable time any premises used for carrying on any business in connection with the operation of fishing boats or activities connected therewith or ancillary thereto or with the treatment, storage or sale of fishery products;
+- (b) take with the officer such other persons as appear to the officer to be necessary and any equipment or materials;
+- (c) examine any fishery product on the premises and require persons on the premises to do anything which appears to that officer to be necessary for facilitating the examination;
+- (d) carry out at such premises such other inspections or tests as may reasonably be necessary;
+- (e) require any person not to remove or cause to be removed any fishery product from such premises for such a period as may be reasonably necessary for the purposes of establishing whether a relevant offence has at any time been committed;
+- (f) require any person on the premises to produce any documents which are in the custody or possession of that person relating to the catching, landing, transportation, transhipment, sale or disposal of any fishery product;
+- (g) for the purpose of ascertaining whether a relevant offence has been committed, search the premises for any such document and may require any person on the premises to do anything which appears to that officer to be necessary for facilitating the search;
+- (h) inspect and take copies of any such document produced or found on the premises;
+- (i) require any appropriate or responsible person to render any such documents on a computer system into a visible and legible form and to produce them in a form in which they may be taken away; and
+- (j) if the officer has reason to suspect that a relevant offence has been committed, seize and detain any such document produced or found on the premises, for the purposes of enabling the document to be used as evidence in proceedings for the offence.
+
+(2) The provisions of paragraph (1) apply in relation to any land used in connection with any of the activities described in paragraph (1), or in respect of any vehicle which a British sea fishery officer has reasonable cause to believe is being used to transport fishery products, as they apply in relation to premises and, in the case of a vehicle, include power to require the vehicle to stop at any time and, if necessary, direct the vehicle to some other place to facilitate inspection.
+
+(3) If the sheriff by information on oath is–
+
+- (a) satisfied that there are reasonable grounds to believe that any documents or other items which a British sea fishery officer has power under this article to inspect are on any premises and that their inspection is likely to disclose evidence of the commission of a relevant offence; and
+- (b) also satisfied either–
+  - (i) that admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant has been given to the occupier; or
+  - (ii) that an application for admission or the giving of such notice would defeat the object of the entry; or
+  - (iii) that the premises are unoccupied or the occupier is temporarily absent and it might defeat the object of the entry to await return of the occupier,
+
+  the sheriff may by signed warrant, valid for a period of no more than 1 month, authorise a British sea fishery officer to enter the premises, if need be by using reasonable force, accompanied by such persons as appear to the officer to be necessary.
+
+### 28. Powers of British sea-fishery officers to seize fish and fishing gear[^key-128ca26ac82b13f4bf6bdc3ca87cdba0]
+
+(1) Any British sea fishery officer may seize–
+
+- (a) in Scotland or in the Scottish zone; or
+- (b) on a Scottish fishing boat wherever it may be,
+
+any fishery product (including any receptacle which contains such product) and any net or other fishing gear to which this article applies.
+
+(2) This article applies to–
+
+- (a) any fishery product (including any receptacle which contains such product), in respect of which the officer has reasonable grounds to suspect that a relevant offence has been committed; and
+- (b) any net or other fishing gear which the officer has reasonable grounds to suspect has been used in the commission of such offence.
+
+(3) For the purposes of paragraph 8.8 of Annex III the Scottish Ministers are the competent authorities.
+
+### 29. Protection of officers[^key-173e8d82bfaec164fee55373f4088d36]
+
+A British sea fishery officer or a person assisting such an officer by virtue of article 26(4) or 27(l)(b) or (3) is not liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred by articles 26, 27, or 28 if the court is satisfied that–
+
+- (a) the act was done in good faith;
+- (b) there were reasonable grounds for doing it; and
+- (c) it was done with reasonable skill and care.
+
+### 30. Obstruction of officers[^key-a097ab2660fde10c36b78a70c1b05e24]
+
+(1) Any person who–
+
+- (a) fails without reasonable excuse to comply with any requirement imposed by a British sea fishery officer under the powers conferred on such officers by article 26 or 27;
+- (b) without reasonable excuse prevents, or attempts to prevent, any other person from complying with such requirement; or
+- (c) obstructs any such officer in the exercise of the powers conferred by articles 26,27 or 28,
+
+is guilty of an offence.
+
+(2) Any person guilty of an offence under paragraph (1) is liable–
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+### 31. Offences by bodies corporate[^key-b69752946b3973f6eafa5ce9a202bd4b]
+
+(1) Where an offence under this Order committed by a body corporate or a partnership is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or similar officer of the body corporate, or any person who was purporting to act in any such capacity (or in the case of a partnership, a partner or a person who was purporting to act as such), that person as well as the body corporate or the partnership, as the case may be, is guilty of that offence and liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, the provisions of paragraph (1) apply in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.
+
+(3) Where any offence under this Order committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer of the association or any member of its governing body, that person as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+### 32. Admissibility in evidence of logbooks and other documents[^key-bb909a0764e8e8a60cf2c860c994c855]
+
+(1) Any–
+
+- (a) logbook kept under Article 6, 17.2 or 28c;
+- (b) declaration submitted under Article 8.1, 11, 12, 17.2 or 28f;
+- (c) effort report completed under Articles 19b and 19c;
+- (d) sales note submitted under Article 9;
+- (e) document drawn up under Article 13; or
+- (f) document containing required information received by a fisheries monitoring centre established under Article 3.7,
+
+of Regulation 2847/93[^f00017] is, in any proceedings for a relevant offence to be received in evidence without being produced or sworn to by any witness and is, unless the contrary is shown, conclusive evidence as to the matters stated therein.
+
+(2) For the purposes of paragraph (1), “required information” means data relating to–
+
+- (a) a fishing boat’s identification;
+- (b) the most recent geographical position of the fishing boat expressed in degrees and minutes of longitude and latitude; and
+- (c) the date and time of the fixing of that position,
+
+as communicated via a satellite-based vessel monitoring system established under Article 3.1 of Regulation 2847/93.
+
+(3) Any logbook, declaration, report or other document kept on board or held in pursuance of Article 30 of the Council Regulation is, in any proceedings for an offence under article 6(1) or (2), or under any equivalent provision made for the purposes of implementing a Community quota measure or a Community third country fishing measure, proceedings in respect of which were brought in Scotland by virtue of section 30(2A) of the Fisheries Act 1981[^f00018], to be received in evidence without being produced or sworn to by any witness and is, unless the contrary is shown, conclusive evidence as to the matters stated therein.
+
+### 33. Revocation[^key-aae2d9a00c883f7037c84dde094d6d44]
+
+The following are revoked–
+
+- (a) the Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures) (Scotland) Order 2007[^f00019]; and
+- (b) the Sea Fishing (Restriction on Days at Sea) (Scotland) Order 2007[^f00020].
+
+### 34. Amendment of the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008[^key-6fad70047f4c9855ef865666410f34b4]
+
+Part 1 of Schedule 1 to the Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008[^f00021] is amended as follows–
+
+- (a) in the column headed “Enactment”–
+  - (i) for “Sea Fish (Shellfish) Act 1967”, substitute “Sea Fisheries (Shellfish) Act 1967”;
+  - (ii) for Salmon and Migratory Trout (Prohibition of Fishing) (No. 2) (Scotland) Order 1972”, substitute “Salmon and Migratory Trout (Prohibition of Fishing) (No. 2) Order 1972”; and
+  - (iii) at the end insert “The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures and Restriction on Days at Sea) (Scotland) Order 2008[^f00022]”.
+- (b) in the column headed “Offence provision”–
+  - (i) in the entry for the Sea Fishing (Control) Procedures for Herring, Mackerel and Horse Mackerel) (Scotland) Order 2008, for “7(4)” substitute “7”; and
+  - (ii) at the end insert “3(3), 4, 5, 6(1) and (2), 9(1), 11(1), (2) and (5), 12(3), 14(1), 17(1), 19(1) and (2), 20(3), 21(4), 22(2)”.
+
+RICHARD LOCHHEAD
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+15th April 2008
+
+## SCHEDULE 1 — COMMUNITY QUOTA MEASURES (MAXIMUM FINES ON SUMMARY CONVICTION)[^key-4bd75b9292e4d8419645041298812af7]
+
+Articles 2(1) and (4), 6(1) and 24(2)
+
+<table>
+<thead>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th><em>Provision of the Council Regulation</em></th><th><em>Subject matter</em></th><th><em>Maximum fine on summary conviction</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1. Article 6</td><td>Prohibition on fishing for, retaining on board, transhipping or landing basking shark (cetorhinus maximus) and white shark (carcharodon carcharias).</td><td>£50,000</td></tr>
+<tr><td>2. Article 9.1</td><td>Restriction on retaining on board or landing catches from stocks for which total allowable catches or quotas are established and have been exhausted.</td><td>£50,000</td></tr>
+<tr><td>3. Article 9.2</td><td>Circumstances required for fish to be retained on board and landed where Member State has no quota or quota is exhausted.</td><td>The statutory maximum</td></tr>
+<tr><td>4. Article 10.2</td><td>Prohibition on landing catches which are unsorted and contain herring when catch limitations of a Member State are exhausted in ICES zones IIIa, IV and VIId and EC waters of ICES zone IIa.</td><td>£50,000</td></tr>
+<tr><td>5. Article 11</td><td>Prohibition on fishing by Community vessels in certain Norwegian waters.</td><td>£50,000</td></tr>
+<tr><td>6. Articles 13 and 19 as read with–</td><td></td><td></td></tr>
+<tr><td>(a) paragraph 1 of Annex III</td><td>Prohibition on the landing or retention on board of herring caught in zone IIa (EC waters).</td><td>The statutory maximum</td></tr>
+<tr><td>(b) paragraph 2 of Annex III and Appendix 1 to that Annex</td><td>Requirements as to mesh sizes in the Skagerrak and Kattegat.</td><td>The statutory maximum</td></tr>
+<tr><td>(c) Paragraph 6.1 of Annex III, as read with paragraphs 6.3 and 6.4 of that Annex</td><td>Prohibition on fishing activity in certain waters off the West of Scotland until 31st December 2008.</td><td>£50,000</td></tr>
+<tr><td>(d) paragraph 4 of Annex III</td><td>Prohibition on landing or retaining on board sandeels caught in certain waters.</td><td>£50,000</td></tr>
+<tr><td>(e) paragraph 5 of Annex III</td><td>Prohibition on fishing (except with longlines) in the Rockall Haddock Box.</td><td>£50,000</td></tr>
+<tr><td>(f) paragraph 8.3 of Annex III as read with paragraph 8.4 of Annex III</td><td>Prohibition on the use of gillnets, entangling nets and trammel nets in certain waters where the charted depth is greater than 200 metres.</td><td>£50,000</td></tr>
+<tr><td>(g) paragraph 8.5 of Annex III</td><td>Requirement that only one type of gear described in paragraphs 8.4(a) and (b) of Annex III are carried aboard a vessel at any one time.</td><td>£50,000</td></tr>
+<tr><td>(h) paragraph 8.6 of Annex III</td><td>Requirement to hold a special fixed net fishing permit when deploying gillnets or entangling nets where chartered depth is greater than 200 metres in certain waters.</td><td>£50,000</td></tr>
+<tr><td>(i) paragraphs 8.7 and 8.9 of Annex III</td><td>Requirements to record information in logbook if fixed net permit is held.</td><td>£50,000</td></tr>
+<tr><td>(j) paragraph 13 of Annex III</td><td>Prohibition on bottom trawling and fishing with static gear in certain waters and conditions on pelagic vessels fishing in certain waters.</td><td>£50,000</td></tr>
+<tr><td>(k) paragraph 14 of Annex III</td><td>Required minimum size for short necked clam (Ruditapes philippinarum)</td><td>£50,000</td></tr>
+<tr><td>(l) paragraph 15 of Annex III</td><td>Prohibitions relating to octopus (octopus vulgaris) weighing under 450 grammes (gutted) caught in certain waters.</td><td>The statutory maximum</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 2 — COMMUNITY THIRD COUNTRY FISHING MEASURES (MAXIMUM FINES ON SUMMARY CONVICTION)[^key-018ecbce47766638f253ad6c2d621edf]
+
+Articles 2(1) and (4), 6(2) and 24(2)
+
+<table>
+<thead>
+<tr><th><em>Column 1</em></th><th><em>Column 2</em></th><th><em>Column 3</em></th></tr>
+<tr><th><em>Provision of the Council Regulation</em></th><th><em>Subject matter</em></th><th><em>Maximum fine on summary conviction</em></th></tr>
+</thead>
+<tbody>
+<tr><td>1. Article 15</td><td>Prohibition on fishing for, retaining on board, transhipping or landing basking shark (cetorhinus maximus) and white shark (carcharodon carcharias).</td><td>£50,000</td></tr>
+<tr><td>2. Article 16</td><td>Requirement in relation to vessels flying the flag of Norway or the Faroe Islands to fish within the geographical zone set out in Article 16(1).</td><td>£50,000</td></tr>
+<tr><td>3. Article 17</td><td>Requirements regarding stowing of nets when transiting through Community waters.</td><td>£50,000</td></tr>
+<tr><td>3. Article 18</td><td>Requirement in relation to vessels flying the flag of Norway or the Faroe Islands to fish within the quota limits contained in Annex I.</td><td>£50,000</td></tr>
+<tr><td>4. Article 22.2 as read with Article 22.1 and Article 28b of Regulation 2847/93</td><td>Requirement on vessels (other than vessels registered in the Faroe Islands or Norway) to keep on board the licence and special fishing permit which are required by fishing vessels other than vessels of less than 200GT flying the flag of Norway.</td><td>£50,000</td></tr>
+<tr><td>5. Article 27.1</td><td>Requirement in relation to vessels flying the flag of Norway or the Faroe Islands to comply with the conservation and control measures and all other provisions governing fishing by Community vessels in the zones concerned, including those measures and provisions referred to in Article 27.</td><td>£50,000</td></tr>
+<tr><td>6. Article 27.2</td><td>Requirement in relation to vessels flying the flag of Norway or the Faroe Islands to keep a logbook in compliance with Part I of Annex V.</td><td>£50,000</td></tr>
+<tr><td>7. Article 27.3</td><td>Requirement in relation to vessels flying the flag of Norway (other than those fishing in ICES Division IIIa) or the Faroe Islands to transmit information in compliance with Annex VI.</td><td>The statutory maximum</td></tr>
+<tr><td>8. Paragraph 7(a) of Annex VI</td><td>Requirement as regards vessels with catch on board to obtain authorisation before commencing fishing for blue whiting.</td><td>£50,000</td></tr>
+<tr><td>9. Paragraph 7(c) of Annex VI</td><td>Requirements as regards vessels fishing for blue whiting leaving Community waters.</td><td>£50,000</td></tr>
+</tbody>
+</table>
+
+## SCHEDULE 3 — DESIGNATED PORTS[^key-d9388cb35d3df4c811dfa9666dcd464d]
+
+Articles 13 and 22(3)
+
+<table>
+<thead>
+<tr><th><em>Port</em></th><th><em>Location within port (where applicable)</em></th></tr>
+</thead>
+<tbody>
+<tr><td colspan="2"><strong>ENGLAND AND WALES</strong></td></tr>
+<tr><td>North Shields</td><td></td></tr>
+<tr><td>Whitby</td><td>Fish quay</td></tr>
+<tr><td>Scarborough</td><td>West Pier</td></tr>
+<tr><td>Humberside (Hull and Grimsby)</td><td>Hull – North side of Albert Dock &amp; William Wright Dock Grimsby – Fish Dock, Market Quay</td></tr>
+<tr><td>Lowestoft</td><td>Waveney Dock</td></tr>
+<tr><td>Shoreham</td><td>Within the confines of the harbour</td></tr>
+<tr><td>Plymouth</td><td>Sutton Harbour, New Fish Market</td></tr>
+<tr><td>Brixham</td><td></td></tr>
+<tr><td>Newlyn</td><td></td></tr>
+<tr><td>Milford Haven</td><td></td></tr>
+<tr><td>Holyhead</td><td>Fish Dock</td></tr>
+<tr><td>Whitehaven</td><td>North Harbour on the Old North Wall Quay next to the Ice Plant and on the North Wall Quay next to the Fish Handling Facility building</td></tr>
+<tr><td>Fleetwood</td><td>Wyre Fish Dock</td></tr>
+<tr><td colspan="2"><strong>SCOTLAND</strong></td></tr>
+<tr><td>Eyemouth</td><td></td></tr>
+<tr><td>Pittenweem</td><td></td></tr>
+<tr><td>Aberdeen</td><td>Palmerston Quay &amp; Commercial Quay</td></tr>
+<tr><td>Peterhead</td><td>Peterhead Harbour excluding Peterhead Bay Harbour</td></tr>
+<tr><td>Fraserburgh</td><td></td></tr>
+<tr><td>Buckie</td><td></td></tr>
+<tr><td>Lerwick</td><td>All piers, quays and docks within harbour limits excluding those in Dales Voe</td></tr>
+<tr><td>Scalloway</td><td></td></tr>
+<tr><td>Kirkwall</td><td></td></tr>
+<tr><td>Scrabster</td><td></td></tr>
+<tr><td>Kinlochbervie</td><td>All quays lying to the North of the ice factory quay</td></tr>
+<tr><td>Lochinver</td><td></td></tr>
+<tr><td>Ullapool</td><td></td></tr>
+<tr><td>Stornoway</td><td></td></tr>
+<tr><td>Portree</td><td></td></tr>
+<tr><td>Mallaig</td><td></td></tr>
+<tr><td>Oban</td><td></td></tr>
+<tr><td>Campbeltown</td><td></td></tr>
+<tr><td>Troon</td><td></td></tr>
+<tr><td>Cullivoe</td><td></td></tr>
+<tr><td colspan="2"><strong>NORTHERN IRELAND</strong></td></tr>
+<tr><td>Ardglass</td><td></td></tr>
+<tr><td>Portavogie</td><td></td></tr>
+<tr><td>Kilkeel</td><td></td></tr>
+<tr><td>Bangor</td><td></td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Order)
+
+This Order, which forms part of the law of Scotland only, makes provision for the enforcement of Council Regulation [(EC) No. 40/2008](https://www.legislation.gov.uk/european/regulation/2008/0040) (“the Council Regulation”).
+
+Part II of the Order makes provision for the enforcement of certain enforceable Community restrictions and other obligations relating to sea fishing by Community vessels and third country vessels set out in the Council Regulation. The Council Regulation fixes total allowable catches and the quotas of Member States for 2008 and lays down certain conditions under which they may be fished. It also authorises fishing by vessels of Norway and the Faroe Islands for specified descriptions of fish in certain specified areas within the fishery limits of Member States in 2008 and imposes requirements concerning fishing quotas and authorised zones, methods of fishing, the holding of licences and observance of licence conditions, the keeping of logbooks, the making of reports and similar matters.
+
+The Order makes provision for the purposes of Article 10 of the Council Regulation (requirement for adequate sampling programme when landing unsorted catches) (article 3).
+
+The Order makes it an offence to contravene the provision in Annex IA to the Council Regulation in relation to the quantity of dogfish and skate and ray retained on board (article 4).
+
+Article 5 of the Order makes it an offence to contravene Article 21(e) of Annex III to the Council Regulation which limits the by-catch of redfish to a maximum of 1% and sharks to a maximum of 5% of the total catch retained on board.
+
+The Order creates offences in respect of contraventions of the provisions of the Council Regulation referred to in column 1 (and briefly described in column 2) of Schedules 1 (Community quota measures) and 2 (Community third country fishing measures) to the Order (article 6).
+
+Parts III and IV of the Order provide for the enforcement in Scotland of the provisions of Annex IIa and IIc (“the Annexes”) to the Council Regulation and the monitoring, inspection and surveillance provisions in Council Regulation 423/2004.
+
+The Order contains provisions relating to the determination for certain fishing boats of the number of days, in accordance with paragraphs 8 of Annex IIa and 7 of Annex IIc of the Council Regulation, for which they may be in the cod and sole recovery zones (articles 7 and 15).
+
+The Order also provides as to the determination of management periods referred to in paragraphs 9.1 and 8.1 of the Annexes and of the number of days allowed in the cod and sole recovery zones during a management period (articles 8 and 16).
+
+Provision is also made in relation to the deduction of days by the Scottish Ministers (articles 9(10) and 17(10)) and the procedure to be followed in doing so (articles 10 and 18).
+
+Provision is made as to the use of regulated gears and associated offences (articles 11 and 19), and the transfer of days from one boat to another (articles 12 and 20).
+
+By virtue of article 13, the ports named in Schedule 3 to the Order are designated for the purposes of Article 12(2) of Regulation 423/2004.
+
+Provision is made for the maintenance of a logbook (article 21), and for the submission of the relevant part of the logbook at a designated port (article 22).
+
+The Order extends the application of the Sea Fishing (Enforcement of Community Control Measures) (Scotland) Order 2000 in pursuance of Regulation 423/2004 and Annex IIc (article 23).
+
+The Order provides for penalties (article 24) and for the recovery of fines imposed in respect of an offence under the Order (article 25).
+
+For the purposes of enforcing the provisions of the Order or any equivalent provision (as defined in the Order) the Order confers on British sea-fishery officers the powers to enter premises, to go on board fishing boats, to stop and search vehicles transporting fish, to examine fish, to require the production of documents, to search for and seize documents, to take a boat to the nearest convenient port and to seize fish and fishing gear (articles 26 to 28).
+
+Provision is made for the protection of British sea-fishery officers in the exercise of their powers under the Order (article 29) and for an offence of obstructing such officers (article 30).
+
+Provision is made in relation to offences committed by a body corporate, a partnership or an unincorporated association (article 31) and in relation to the admissibility in evidence of logbooks and other documents (article 32).
+
+The Order revokes the Sea Fishing (Restriction on Days at Sea) (Scotland) Order 2007 and the Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures) (Scotland) Order 2007 (article 33).
+
+The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008 is amended to correct some references and to make offences under this Order “relevant offences” in terms of that Order. This means that British sea fishery officers may issue a fixed penalty notice in respect of these offences (article 34).
+
+A Regulatory Impact Assessment in the relation to this Order has been prepared and placed in SPICE. Copies can be obtained from the Scottish Executive Environment and Rural Affairs Department, Robb’s Loan, Edinburgh, EH14 1TY.
+
+## Annotations
+
+[^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29) (“the 1981 Act”); relevant modifications are contained in the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999 (S.I. [1999/1748](https://www.legislation.gov.uk/uksi/1999/1748)), article 5 and the Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756)), articles 3, 5 and 6. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). See section 30(3) of the 1981 Act for definitions of “enforceable Community restriction”, “enforceable Community obligation” and “the Ministers”. Section 30 of the 1981 Act has effect in relation to Scotland as modified by section 30(5) of that Act inserted by the Scotland Act (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68(5)(b).
+
+[^f00002]: Footnote: [2007 asp 12](https://www.legislation.gov.uk/asp/2007/12).
+
+[^key-1c8ecb9fa6c26dc81fe382a02b2f0913]: Commencement: Art. 1 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^f00003]: Footnote: Section 30(2A) was inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68.
+
+[^key-6fc4b4433dd6855570f5d8ac1e066294]: Commencement: Art. 2 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^f00004]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
+
+[^f00005]: Footnote: Cmnd. 2586.
+
+[^f00006]: Footnote: Section 4 was amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), section 3, the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 20 and the Sea Fish (Conservation) Act [1992 (c. 60)](https://www.legislation.gov.uk/ukpga/1992/60), section 1 and has effect in relation to Scotland as modified by section 22A inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 43(13).
+
+[^f00007]: Footnote: O.J. No. L 276, 10.10.83, p.1; the last amending instrument is Commission Regulation [(EC) No. 1804/2005](https://www.legislation.gov.uk/european/regulation/2005/1804) (O.J. No. L 290, 04.11.05, p.10).
+
+[^f00008]: Footnote: O.J. No. L 261, 20.10.93, p.1 as amended by Council Regulation [(EC) No. 2870/95](https://www.legislation.gov.uk/european/regulation/1995/2870), O.J. No. L 301, 14.12.95, p.1; Council Decision [(EC) No. 95/524](https://www.legislation.gov.uk/european/regulation/524/0095), O.J. No. L 301, 14.12.95, p.35; Council Regulation [(EC) No. 2489/96](https://www.legislation.gov.uk/european/regulation/1996/2489), O.J. No. L 338, 28.12.96, p.12; Council Regulation [(EC) No. 686/97](https://www.legislation.gov.uk/european/regulation/1997/0686), O.J. No. L 102, 19.4.97, p.1; Commission Regulation [(EC) No. 1489/97](https://www.legislation.gov.uk/european/regulation/1997/1489), O.J. No. L 202, 30.7.97, p.18; Council Regulation [(EC) No. 2205/97](https://www.legislation.gov.uk/european/regulation/1997/2205), O.J. No. L 304, 7.11.97, p.1; Council Regulation [(EC) No. 2635/97](https://www.legislation.gov.uk/european/regulation/1997/2635), O.J. No. L 356, 31.12.97, p.14; Council Regulation [(EC) No. 2846/98](https://www.legislation.gov.uk/european/regulation/1998/2846), O.J. No. L 358, 31.12.98, p.5; Council Regulation [(EC) No. 806/2003](https://www.legislation.gov.uk/european/regulation/2003/0806), O.J. No. L 122, 16.5.03, p.1; Council Regulation [(EC) No. 1954/2003](https://www.legislation.gov.uk/european/regulation/2003/1954) O.J. No. L 289, 7.11.03, p.1 and Council Regulation [(EC) No. 768/2005](https://www.legislation.gov.uk/european/regulation/2005/0768) O.J. No. L 128, 21.5.05, p.1.
+
+[^f00009]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00010]: Footnote: The sea within British fishery limits (that is, the limits set by or under section 1 of the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86)) which is adjacent to Scotland is determined by the Scottish Adjacent Waters Boundaries Order 1999 (S.I. [1999/1126](https://www.legislation.gov.uk/uksi/1999/1126)).
+
+[^f00011]: Footnote: O.J. No. L 19, 23.01.08, p.1.
+
+[^key-d8c7c266895af124395f066b54f8ceef]: Commencement: Art. 3 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-a4f5685399058c6adecda85102e8a265]: Commencement: Art. 4 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-631309e8935d3e26447e7bf99789d4dd]: Commencement: Art. 5 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-ee43b40fb60bd5d5a3e760c6a4b2407a]: Commencement: Art. 6 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-20d28f86b27946f23e1180e0d029ed2d]: Commencement: Art. 7 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-df9917461acdbfc8087532631b8d1e73]: Commencement: Art. 8 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-97066efe3b5d1285ad66d84b2bb3c7a4]: Commencement: Art. 9 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-3fefe00534bb58e8f39bae60e443f80c]: Commencement: Art. 10 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-0b3b05ae3eb7b3ebe0db603de864bf24]: Commencement: Art. 11 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-da86b0c559b43f98431716bf5e9cc750]: Commencement: Art. 12 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-4e76ec069310a50bf84a9c7fa4d2a0e9]: Commencement: Art. 13 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-c238de092ca2dbef44784f53c12636fc]: Commencement: Art. 14 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-590972e16293822dd5acaaa5e92a75fa]: Commencement: Art. 15 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-4073a38f7b7d535ed018d0981283c9a6]: Commencement: Art. 16 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-e89ef939fd7884f272f95b7e60a0a203]: Commencement: Art. 17 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-437113a4bed32c70ea6d41ad6309ba79]: Commencement: Art. 18 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-4eebe18ec9c0bca5d2b75a4ae644f7ec]: Commencement: Art. 19 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-3245dc61b5e6c3b4080eb30ad68d8306]: Commencement: Art. 20 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-1242a0a2aabd094fe5e0909e091279e9]: Commencement: Art. 21 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-3ed2ac8f8537a515a2be36cd5c727431]: Commencement: Art. 22 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-15f155bf5186bc37b8ac79fcb1d4eb1f]: Commencement: Art. 23 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^f00012]: Footnote: [S.S.I. 2000/18](https://www.legislation.gov.uk/ssi/2000/18).
+
+[^f00013]: Footnote: O.J. No. L 19, 23.1.08, p.1.
+
+[^key-3e5c392f7f39b034f30d9c9c660491c9]: Commencement: Art. 24 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-f9b7652c67eb88dde4dbc54fd77ee2fe]: Commencement: Art. 25 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^f00014]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^f00015]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
+
+[^f00016]: Footnote: S.I. [1981/1675](https://www.legislation.gov.uk/uksi/1981/1675).
+
+[^key-605ff57d4781ee3f64414f03bcfc88fe]: Commencement: Art. 26 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-071ea586e5da13f5790edb22de0c1048]: Commencement: Art. 27 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-128ca26ac82b13f4bf6bdc3ca87cdba0]: Commencement: Art. 28 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-173e8d82bfaec164fee55373f4088d36]: Commencement: Art. 29 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-a097ab2660fde10c36b78a70c1b05e24]: Commencement: Art. 30 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-b69752946b3973f6eafa5ce9a202bd4b]: Commencement: Art. 31 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-bb909a0764e8e8a60cf2c860c994c855]: Commencement: Art. 32 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^f00017]: Footnote: O.J. No. L 261, 20.10.93, p.1.
+
+[^f00018]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29); section 30(2A) was inserted by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
+
+[^key-aae2d9a00c883f7037c84dde094d6d44]: Commencement: Art. 33 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^f00019]: Footnote: [S.S.I. 2007/127](https://www.legislation.gov.uk/ssi/2007/127) as amended by [S.S.I. 2008/102](https://www.legislation.gov.uk/ssi/2008/102).
+
+[^f00020]: Footnote: [S.S.I. 2007/40](https://www.legislation.gov.uk/ssi/2007/40).
+
+[^key-6fad70047f4c9855ef865666410f34b4]: Commencement: Art. 34 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^f00021]: Footnote: [S.S.I. 2008/101](https://www.legislation.gov.uk/ssi/2008/101).
+
+[^f00022]: Footnote: [S.S.I. 2008/151](https://www.legislation.gov.uk/ssi/2008/151).
+
+[^key-4bd75b9292e4d8419645041298812af7]: Commencement: Sch. 1 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-018ecbce47766638f253ad6c2d621edf]: Commencement: Sch. 2 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)
+
+[^key-d9388cb35d3df4c811dfa9666dcd464d]: Commencement: Sch. 3 in force at 16.4.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/151/article/1/1)

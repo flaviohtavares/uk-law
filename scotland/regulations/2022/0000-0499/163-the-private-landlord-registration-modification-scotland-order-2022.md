@@ -1,0 +1,90 @@
+---
+title: The Private Landlord Registration (Modification) (Scotland) Order 2022
+id: ssi/2022/163
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2022-05-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2022/163
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2022/163/pdfs/ssipn_20220163_en.pdf
+- http://www.legislation.gov.uk/ssi/2022/163/pdfs/ssi_20220163_en.pdf
+- http://www.legislation.gov.uk/ssi/2022/163/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Private Landlord Registration (Modification) (Scotland) Order 2022
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2022 No. 163
+
+Housing
+
+Local Government
+
+The Private Landlord Registration (Modification) (Scotland) Order 2022
+
+Made
+
+11th May 2022
+
+Coming into force
+
+12th May 2022
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 83(7) and 141(2) of the Antisocial Behaviour etc. (Scotland) Act 2004[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 141(4) of that Act[^f00002], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Private Landlord Registration (Modification) (Scotland) Order 2022 and comes into force on the day after the day on which it is made.
+
+## 2. Modification of the Antisocial Behaviour etc. (Scotland) Act 2004
+
+Section 83(6) of the Antisocial Behaviour etc. (Scotland) Act 2004 (application for registration) is modified as follows—
+
+- (a) the word “or” immediately after paragraph (m) is repealed,
+- (b) after paragraph (n) insert—
+
+  > ; or
+  >
+  > - (o) the house is being used, under an occupancy arrangement, by a person who has permission to enter into or to stay in the United Kingdom granted under the immigration rules laid down under section 3(2) of the Immigration Act 1971[^f00003] in relation to the Homes for Ukraine Sponsorship Scheme[^f00004].
+
+  .
+
+SHONA ROBISON
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+11th May 2022
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order modifies section 83(6) of the Antisocial Behaviour etc. (Scotland) Act 2004 (“**the Act**”) under powers provided in sections 83(7) and 141(2) of the Act to restrict the application of the landlord register in certain specified circumstances.
+
+Section 83(6) lists circumstances where the use of a house as a dwelling is to be disregarded for the purposes of landlord registration. This Order adds a further set of circumstances where the use of a house as a dwelling is to be disregarded for the purposes of landlord registration.
+
+Article 2 of the Order modifies section 83(6) to provide that the use of a house under an occupancy arrangement (not a lease) by a person who has permission to enter or stay in the United Kingdom granted under the Homes for Ukraine Sponsorship Scheme route in the immigration rules, does not constitute the use of a dwelling for the purposes of landlord registration.
+
+## Annotations
+
+[^f00001]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8).
+
+[^f00002]: Footnote: Section 141 has been modified by paragraph 5 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
+
+[^f00003]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
+
+[^f00004]: Footnote: The rules in relation to the Homes for Ukraine Sponsorship Scheme are set out at UKR 11.1 to UKR 20.2 of the Appendix Ukraine Scheme of the Immigration Rules (HC 395). https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-ukraine-scheme. “**Permission to enter**” and “**permission to stay**” are defined at paragraph 6.2 of the Immigration Rules: Introduction ( https://www.gov.uk/guidance/immigration-rules/immigration-rules-introduction#intro6).

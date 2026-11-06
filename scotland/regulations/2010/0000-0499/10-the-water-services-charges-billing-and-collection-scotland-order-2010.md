@@ -1,0 +1,256 @@
+---
+title: The Water Services Charges (Billing and Collection) (Scotland) Order 2010
+id: ssi/2010/10
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-01-21'
+text_date: '2023-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/10
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/10/pdfs/ssien_20100010_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/10/pdfs/ssi_20100010_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/10/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Services Charges (Billing and Collection) (Scotland) Order 2010
+
+> Text as at 2023-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 10
+
+Water Supply
+
+The Water Services Charges (Billing and Collection) (Scotland) Order 2010
+
+Made
+
+21st January 2010
+
+Laid before the Scottish Parliament
+
+22nd January 2010
+
+Coming into force
+
+1st April 2010
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 37 of the Water Industry (Scotland) Act 2002[^f00001] and all other powers enabling them to do so.
+
+In accordance with paragraph 24 of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007[^f00002], they have consulted with the Administrative Justice and Tribunals Council.
+
+## 1. Citation, commencement and interpretation[^key-05e3b725cc6f115b33e515c7f69ad115]
+
+(1) This Order may be cited as the Water Services Charges (Billing and Collection) (Scotland) Order 2010 and comes into force on 1st April 2010.
+
+(2) In this Order—
+
+- “the 1992 Act” means the Local Government Finance Act 1992[^f00003];
+- “the 1992 Regulations” means the Council Tax (Administration and Enforcement) (Scotland) Regulations 1992[^f00004];
+- “the 1994 Act” means the Local Government etc. (Scotland) Act 1994[^f00005];
+- “the 2002 Act” means the Water Industry (Scotland) Act 2002;
+- “charges scheme” means a charges scheme made under section 29A[^f00006] of the 2002 Act for a relevant year;
+- “core functions” has the same meaning as in section 70(2) of the 2002 Act;
+- “council tax” has the same meaning as in Part II of the 1992 Act;
+- “dwelling” has the same meaning as in Part II of the 1992 Act;
+- “[^key-877f19a47d0ef8cbf768e070e0d82470]**First-tier Tribunal for Scotland**” means the First-tier Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014,
+- “local authority” means a council constituted under section 2 of the 1994 Act; and “area”, in relation to a local authority, means the local government area (within the meaning of that Act) for which the Council is constituted;
+- “Principles of Charging Statement” means the statement of policy made by the Scottish Ministers under section 29D of the 2002 Act in respect of the period 2010-15;
+- “price index”, in relation to a month, means the general index of retail prices published by the Statistics Board for that month;
+- “relevant year” means the financial year 2010‑11 or 2011‑12;
+- “Scottish Water” means the body corporate established by section 20(1) of the 2002 Act;
+- “sewerage charges” means charges payable under a charges scheme in respect of the provision of sewerage services to a dwelling in a relevant year;
+- [^key-d503c9f4e33b72d3101ca67cdba037bd]...
+- [^key-d503c9f4e33b72d3101ca67cdba037bd]...
+- “water charges” means charges payable under a charges scheme in respect of the provision of water supply services to a dwelling in a relevant year; and
+- “water services charges” means sewerage charges and water charges.
+
+## 2. Duty to demand and recover charges[^key-ad0d4f12f8a996cfe75ab5cff99d9320]
+
+Every local authority shall, as respects water supply and sewerage services provided in a relevant year by Scottish Water in the exercise of its core functions to dwellings within the area of the local authority, demand and recover the charges (other than charges in respect of a supply of water taken by meter) payable for those services under a charges scheme.
+
+## 3. Payments by local authorities to Scottish Water[^key-2958a3b185595b13f896a8c0462dabfc]
+
+(1) Subject to article 5, for a relevant year a local authority shall pay to Scottish Water the sum ascertained in accordance with the following formula:—
+
+[formula: see source](https://www.legislation.gov.uk/ssi/2010/10)
+
+Where—
+
+- “A” is the total amount paid to the local authority in question as council tax or water services charges for a relevant year by persons liable to pay that tax or those charges;
+- “B” is any amount falling within the definition of A above which has been paid by a person and which—
+  - (a) has subsequently been repaid to that person; or
+  - (b) has subsequently been credited against a liability of that person to pay an amount which does not fall within that definition;
+- “C” is the total amount payable as water services charges for a relevant year in respect of dwellings in the area of the local authority in question;
+- “D” is the total amount payable as council tax for a relevant year in respect of dwellings in the area of the local authority in question;
+- “E” is the number of dwellings in the area of the local authority in question in respect of which water services charges are payable for a relevant year; and
+- “F” is—
+  - (a) in respect of the financial year 2010‑11, the sum of £5.47; and
+  - (b) in respect of the financial year 2011‑12, the sum defined in paragraph (a) increased by the percentage increase between the price index for December 2009 and the price index for December 2010.
+
+(2) For the purpose of the definitions of C and D in paragraph (1), an amount is payable as water services charges or council tax if—
+
+- (a) it has been demanded by the local authority from a person appearing to that authority to be liable to pay it; and
+- (b) it—
+  - (i) has been paid;
+  - (ii) remains payable; or
+  - (iii) has been written off by the local authority as irrecoverable.
+
+**4.**[^key-880f35bb706e79b3fe515eae5f82288e] (1) Where a local authority is under an obligation to make payment to Scottish Water under article 3, it shall, within 14 days of the end of each calendar month in a relevant year, pay to Scottish Water on account of that obligation an amount calculated by reference to the formula referred to in paragraph (2) as applied at the end of the calendar month in question.
+
+(2) The formula referred to in this paragraph is that set out in, or applied by, article 3 except that, for the purposes of this paragraph, F shall be replaced by—
+
+[formula: see source](https://www.legislation.gov.uk/ssi/2010/10)
+
+(3) After the date when the last instalment payment under paragraph (1) falls due, a local authority shall make further instalment payments to Scottish Water on account of such an obligation as is referred to in that paragraph at such intervals as may be agreed between the local authority and Scottish Water or, failing agreement, as may be determined by the Scottish Ministers.
+
+(4) This article is subject to article 5.
+
+## 5. Agreements between local authorities and Scottish Water[^key-e343c86155b0dbad327321be1a8df31f]
+
+Any obligation imposed on a local authority by article 3(1) or 4 may be varied by an agreement entered into between that local authority and Scottish Water.
+
+## 6. Forms and procedures for demanding payment[^key-3208200243e0f9e2fea263120bc94c38]
+
+(1) Where, at the time of serving on a person any notice demanding council tax for a relevant year in respect of a dwelling, it appears to a local authority that water services charges are payable by that person in respect of that dwelling and have not yet been demanded, it shall include a demand for those charges in that notice.
+
+(2) No notice demanding water services charges in respect of a dwelling shall be served prior to service of any notice required to be served in respect of that dwelling and the relevant year under regulation 17(1) of the 1992 Regulations.
+
+(3) Prior to service by a local authority of any such notice as is referred to in paragraph (1), that authority shall take reasonable steps to ascertain whether water services charges are payable in respect of the dwelling to which the notice relates.
+
+(4) Where—
+
+- (a) Scottish Water—
+  - (i) begins to provide any water supply and sewerage services to a dwelling on any day in a relevant year subsequent to 1st April; or
+  - (ii) ceases to provide any services to a dwelling on such a day; and
+- (b) it appears to Scottish Water that as a consequence, water charges or sewerage charges begin or, as the case may be, cease to be payable in respect of that dwelling,
+
+Scottish Water shall so advise the local authority for the area in which the dwelling is situated.
+
+**7.**[^key-ba328ae6f05ece657a6b0ef58ce23dd2] (1) Any notice issued by a local authority which includes a demand for water services charges must, subject to paragraph (2), contain the following details:—
+
+- (a) the gross amount payable as water charges, prior to application of any such reduction as is referred to in sub‑paragraph (c);
+- (b) the gross amount payable as sewerage charges, prior to application of any such reduction as is referred to in sub‑paragraph (c);
+- (c) the amount of any reduction of water services charges attributable to paragraph 14 and Annex A of the Principles of Charging Statement;
+- (d) the net amount payable as water services charges; and
+- (e) the name, address and telephone number of the department or unit of the local authority to which enquiries regarding the notice may be directed, together with a note of the hours during which persons may attend at that department or unit with enquiries or during which they may make enquiries by telephone.
+
+(2) Where a notice issued by a local authority demands the payment of both water services charges and council tax—
+
+- (a) the amount of any reduction referred to in paragraph (1)(c) need not be shown on the notice separately from the amount of reduction of council tax attributable to discounts under section 79 of the 1992 Act; and
+- (b) the amount referred to in paragraph (1)(d) need not be shown on the notice separately from the net amount of council tax payable.
+
+**8.**[^key-e1eab9b344a60f49465296e2ad57a4fc] For the purposes of demanding payments due to a local authority under this Order, regulations 20 to 25 and 27 of, and Schedule 1 to, the 1992 Regulations shall apply in respect of water services charges as those provisions applied in respect of the council water charge for the year beginning on 1st April 1995.
+
+## 9. Appeals[^key-60faac71e08368a3ad65bd7c3e3ed828]
+
+(1) A person may appeal to the First-tier Tribunal for Scotland (established by section 1 of the Tribunals (Scotland) Act 2014)[^key-ab2aeaa93b43b38c87552cb602133897] if aggrieved by—
+
+- (a) any decision of a local authority that water services charges are payable to it in respect of a dwelling or that that person is a person liable to pay those charges; or
+- (b) any calculation made by a local authority of an amount which that person is liable to pay to it in respect of water services charges.
+
+(2) No appeal may be made under paragraph (1) unless—
+
+- (a) the aggrieved person serves on the local authority a written notice, stating the matter by which and the grounds on which that person is aggrieved; and
+- (b) one of the conditions mentioned in paragraph (3) is fulfilled.
+
+(3) The conditions are that—
+
+- (a) the aggrieved person is notified in writing, by the authority on which that person served the notice, that the authority believes the grievance is not well founded, but the person is still aggrieved;
+- (b) the aggrieved person is notified in writing, by the authority on which that person served the notice, that steps have been taken to deal with the grievance, but the person is still aggrieved;
+- (c) the period of two months, beginning with the date of service of the aggrieved person’s notice, has ended without that person being notified under sub‑paragraph (a) or (b).
+
+**10.**[^key-11dd232fbc565b30ca3ab4cb8f9cde48] (1) An appeal under article 9 is to be made by giving written notice to the First-tier Tribunal for Scotland in accordance with the procedural rules of that Tribunal[^M_F_72cfb668-bf8d-456e-a7e8-c58dd791b0a7].
+
+(2)[^M_F_2fa0d38b-ce83-464d-b14d-d2373d95c832] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^M_F_2fa0d38b-ce83-464d-b14d-d2373d95c832] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^M_F_2fa0d38b-ce83-464d-b14d-d2373d95c832] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^M_F_2fa0d38b-ce83-464d-b14d-d2373d95c832] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Accounts and records to be kept by local authorities[^key-df42282a489040a89297ccdafed09b4f]
+
+(1) Without prejudice to the generality of section 96(1) of the Local Government (Scotland) Act 1973[^f00008], a local authority shall keep accounts and records of all transactions under this Order.
+
+(2) Accounts and records of any transaction kept by a local authority under paragraph (1) shall not be disposed of by it until at least 6 years have passed since the end of the financial year in which the transaction occurred.
+
+(3) Scottish Water, or any person duly authorised by it, shall have the right to inspect any accounts and records kept under paragraph (1) by a local authority at such times as may be agreed between Scottish Water and the local authority, and Scottish Water shall be entitled to receive such copies of those accounts and records as it may reasonably require.
+
+STEWART STEVENSON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+21st January 2010
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Responsibility for water and sewerage services in Scotland rests with Scottish Water, established under the [Water Industry (Scotland) Act 2002 (asp 3](https://www.legislation.gov.uk/asp/2002/3)). This Order provides, as regards the financial years 2010‑11 and 2011‑12, for each local authority in Scotland to be responsible for demanding and recovering charges payable in respect of water supply and sewerage services provided by Scottish Water to dwellings in the area of the local authority (other than charges for a supply of water taken by meter).
+
+Provision is made for the local authorities to account to Scottish Water for sums collected (articles 3 to 5), for the forms and procedures to be used or followed by the local authorities in demanding payment (articles 6 to 8) and for charge payers to have a right of appeal to the relevant valuation appeal committee (articles 9 and 10). Article 11 requires each local authority to keep accounts and records of all transactions under the Order and gives Scottish Water the right to inspect such accounts and records.
+
+This Order replaces the Water Services Charges (Billing and Collection) (Scotland) Order 2006 ([S.S.I. 2006/71](https://www.legislation.gov.uk/ssi/2006/71)) which was in force in respect of the financial years 2006-07, 2007‑08, 2008-09 and 2009-10. The value of F in respect of financial year 2006-07 was £4.86. In subsequent years the value of F was increased in accordance with article 3 of that Order. The value of F in this Order is determined in accordance with article 3. The value comprises the minimum amount payable by Scottish Water to local authorities in respect of each dwelling for which the local authority provides billing and collection services.
+
+## Annotations
+
+[^f00001]: Footnote: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3), as relevantly amended by the [Water Services etc. (Scotland) Act 2005 (asp 3](https://www.legislation.gov.uk/asp/2005/3)), section 21.
+
+[^f00002]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15). A valuation appeal committee is a listed authority for the purposes of paragraph 24 of Schedule 7 to this Act by virtue of [S.S.I. 2007/436](https://www.legislation.gov.uk/ssi/2007/436).
+
+[^key-05e3b725cc6f115b33e515c7f69ad115]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2010/10/article/1) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^f00003]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14), as relevantly amended by [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39) (Schedule 13, paragraph 176), and [S.S.I. 2005/51](https://www.legislation.gov.uk/ssi/2005/51).
+
+[^f00004]: Footnote: [S.I. 1992/1332](https://www.legislation.gov.uk/uksi/1992/1332), as amended by [S.I. 1994/3170](https://www.legislation.gov.uk/uksi/1994/3170), [S.I. 1996/430](https://www.legislation.gov.uk/uksi/1996/430), and [S.S.I. 2000/166](https://www.legislation.gov.uk/ssi/2000/166), [2000/261](https://www.legislation.gov.uk/ssi/2000/261) and [2002/166](https://www.legislation.gov.uk/ssi/2002/166).
+
+[^f00005]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00006]: Footnote: Sections 29A and 29D were inserted by section 21(1) of the [Water Services etc. (Scotland) Act 2005 (asp 3](https://www.legislation.gov.uk/asp/2005/3)).
+
+[^key-877f19a47d0ef8cbf768e070e0d82470]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/10/article/1/2) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 19(2)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/19/2/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+
+[^key-d503c9f4e33b72d3101ca67cdba037bd]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2010/10/article/1/2) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 19(2)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/19/2/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+
+[^key-ad0d4f12f8a996cfe75ab5cff99d9320]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2010/10/article/2) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^key-2958a3b185595b13f896a8c0462dabfc]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2010/10/article/3) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^key-880f35bb706e79b3fe515eae5f82288e]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2010/10/article/4) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^key-e343c86155b0dbad327321be1a8df31f]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2010/10/article/5) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^key-3208200243e0f9e2fea263120bc94c38]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2010/10/article/6) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^key-ba328ae6f05ece657a6b0ef58ce23dd2]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2010/10/article/7) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^key-e1eab9b344a60f49465296e2ad57a4fc]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2010/10/article/8) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^key-60faac71e08368a3ad65bd7c3e3ed828]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2010/10/article/9) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^key-ab2aeaa93b43b38c87552cb602133897]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/ssi/2010/10/article/9/1) substituted (1.4.2023) by virtue of The First-tier [Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 19(3)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/19/3) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+
+[^key-11dd232fbc565b30ca3ab4cb8f9cde48]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2010/10/article/10) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^M_F_72cfb668-bf8d-456e-a7e8-c58dd791b0a7]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/ssi/2010/10/article/10/1) substituted (1.4.2023) by The First-tier [Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 19(4)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/19/4/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+
+[^M_F_2fa0d38b-ce83-464d-b14d-d2373d95c832]: Textual amendment: [Art. 10(2)-(5)](https://www.legislation.gov.uk/ssi/2010/10/article/10/2) omitted (1.4.2023) by The First-tier [Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 19(4)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/19/4/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+
+[^key-df42282a489040a89297ccdafed09b4f]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2010/10/article/11) in force at 1.4.2010, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/10/article/1/1)
+
+[^f00008]: Footnote: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65), to which there are amendments not relevant to this Order.

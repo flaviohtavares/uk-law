@@ -1,0 +1,846 @@
+---
+title: The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007
+id: ssi/2007/170
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised-with-pending-changes
+made_date: '2007-03-02'
+text_date: '2026-02-05'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2007/170
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2007/170/pdfs/ssien_20070170_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/170/pdfs/ssi_20070170_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/170/data.pdf
+pending_changes: 22
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007
+
+> **Warning: changes not yet applied to this text (22).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/ssi/2007/170
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2007 No. 170
+
+REPRESENTATION OF THE PEOPLE
+
+The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007
+
+Made
+
+2nd March 2007
+
+Laid before the Scottish Parliament
+
+6th March 2007
+
+Coming into force
+
+2nd May 2007
+
+The Scottish Ministers, in exercise of the powers conferred by sections 33 and 61(2) of the Local Electoral Administration and Registration Services (Scotland) Act 2006[^f00001] and of all other powers enabling them in that behalf, make the following Regulations:[^key-10ff407195662b24f5f78bf65d17a342]
+
+## 1. Citation and commencement[^key-cd9bd200dedb03f2b598c49ec41f3f6f]
+
+(1) These Regulations may be cited as the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007.
+
+(2) These Regulations shall come into force on 2nd May 2007.
+
+## 2. Interpretation[^key-8d9fa337cab6b94df5d488fcc2366515]
+
+(1) In these Regulations–
+
+- “the 1983 Act” means the Representation of the People Act 1983[^f00002];
+- “the 2001 Regulations” means the Representation of the People (Scotland) Regulations 2001[^f00003];
+- “the 2006 Act” means the Local Electoral Administration and Registration Services (Scotland) Act 2006;[^key-4e96d38e88f436bee7492c1bec118e2b]
+- “absent voter” means an elector who is entitled to vote by proxy, or an elector or proxy who is entitled to vote by post, only at local government elections in Scotland or at a particular local government election in Scotland;
+- “absent voting records” means any one or more of the records kept pursuant to paragraph 3(4) or 7(6), or the lists kept pursuant to paragraph 5 or 7(8), of Schedule 4;
+- “allotted polling station” means the polling station allotted or likely to be allotted to an elector under the appropriate rules (as defined in paragraph 1 of Schedule 4);
+- “anonymous entry” shall be construed in accordance with section 9B of the 1983 Act;
+- “the personal identifiers record” means the record kept by the registration officer under section 21(6) (absent vote applications: provision of personal identifiers) of the 2006 Act;
+- “registration officer” has the meaning given by section 8(1) of the 1983 Act; and
+- “returning officer” is to be construed in accordance with section 41 (returning officers: local elections in Scotland) of the 1983 Act;
+- “Schedule 4” means Schedule 4 to the Representation of the People Act 2000[^f00004].
+- “universal postal service provider” means a universal service provider within the meaning of Part 3 of the Postal Services Act 2011[^key-c58ecc0d3eb37489345c9cfffc61c089];
+
+(2)[^key-1e10701f70523464705ae31eacd83d94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2A. Application of these Regulations[^key-a39f197ec9b0c495098a07683f02550c]
+
+These Regulations apply where a postal or proxy vote is being or has been sought in respect solely of local government elections in Scotland or of a particular local government election in Scotland, and do not apply in any other circumstances.
+
+## 3. General requirements for applications for an absent vote at a local government election in Scotland[^key-ea2a57ef43390d92b55d7103dff0b761]
+
+(1) An application under Schedule 4 (absent voting in Great Britain) must comply with the requirements of this regulation and such further requirements in these Regulations as are relevant to the application.
+
+(2) The application must state–
+
+- (a) the full name of the applicant;
+- (b) the address in respect of which the applicant is registered or has applied to be (or is treated as having applied to be) registered in the register of local government electors, except in the case of an application under paragraph 7(4) or (7) (voting as proxy) of Schedule 4;
+- (c) in the case of a person applying to vote by proxy, the proxy’s address, together with the name of the elector for whom the applicant will act as proxy and the elector’s address for the purposes of sub-paragraph (b);
+- (d) in the case of a person applying to vote by post, the address to which the ballot paper should be sent; and
+- (e) in the case of an application to vote by proxy, the grounds on which the elector claims to be entitled to an absent vote.
+- (f)[^key-5cea6df5c6ce5a6d824a75d8e77889bd] in the case of a person who is unable to provide a signature, the reasons for that person’s request that the registration officer dispense with the requirement under section 21(3) of the 2006 Act to provide the applicant’s signature and the name and address of any person who has assisted the applicant to complete the application; and
+- (g) where the applicant has, or has applied for, an anonymous entry, that fact.
+
+(3)[^key-389c447863ca5c7c0aade5c740eca925] The application shall be made in writing and shall be dated.
+
+(3A) Where an application is required to contain a signature and date of birth, the information must be set out in a manner that is sufficiently clear and unambiguous as to be capable of electronic scanning by configuring the information as follows–
+
+- (a) the signature shall appear against a background of white unlined paper at least 5 centimetres long and 2 centimetres high; and
+- (b) the applicant’s date of birth shall be set out numerically configured in the sequence of date, month and year, namely \[d\]\[d\]\[m\]\[m\]\[y\]\[y\]\[y\]\[y\].
+
+(3B) Where the application contains a request that the registration officer dispense with the requirement for a signature, paragraph (3A)(a) shall not apply.
+
+(4) An application under Schedule 4 which is made for an indefinite period, or a particular period specified in the application, must state that it is so made.[^key-91fcbb9ca0cf83d65b03cd578a952b67]
+
+- (a)[^key-36f3deeb954ba81ca06017ef885dff7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^key-36f3deeb954ba81ca06017ef885dff7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) An application under Schedule 4 which is made for a particular local government election must–
+
+- (a) state that it is so made, and
+- (b) identify the election in question,
+
+but, where the poll at one election falls on the same day as the poll at another election, the application shall, unless a contrary intention appears, apply to both elections.
+
+(6) Where an application is made to vote by proxy, it must include an application for the appointment of a proxy which meets the requirements of regulation 7.
+
+## 4. Additional provisions concerning the requirement that an application for an absent vote must be signed by the applicant and state the applicant’s date of birth[^key-3175694cf83ada55813d5a216d0508a2]
+
+The registration officer may confirm–
+
+- (a) whether an application under Schedule 4 meets any requirement that it has been signed by the applicant and states the applicant’s date of birth by referring to any signature and date of birth–
+  - (i) previously provided by the applicant to the registration officer or the returning officer; or
+  - (ii) previously provided by the applicant to the council by which the registration officer was appointed or a registrar of births, deaths and marriages, if held by the council or registrar in records which the registration officer is authorised to inspect for the purposes of that officer’s registration duties;
+- (b) whether the applicant is unable to provide a signature or a consistent signature due to any disability or inability to read or write.
+
+## 5. Additional requirement for applications for ballot papers to be sent to different address from that stated in application[^key-c3226f36c6b6633fbd01813b56b161af]
+
+(1) Paragraph (2) applies where–
+
+- (a) in the case of an application to vote by post under paragraph 3(1) and (7) (absent vote at elections for definite or indefinite period) or 4(1) (absent vote at particular election) of Schedule 4, the addresses stated in accordance with regulation 3(2)(b) and (d) are different;
+- (b) in the case of an application by a proxy to vote by post under paragraph 7(4) (voting as proxy) of Schedule 4, the proxy’s address stated in accordance with regulation 3(2)(c) and the address stated in accordance with regulation 3(2)(d) are different.
+
+(2) The application must set out why the applicant’s circumstances will be or are likely to be such that the applicant requires the ballot paper to be sent to the address stated in accordance with regulation 3(2)(d).
+
+(3) This regulation does not apply where an applicant has, or has applied for, an anonymous entry.
+
+## 6. Additional requirements for applications for ballot papers to be sent to different address from that shown in the record kept under paragraph 3(4) or 7(6) of Schedule 4[^key-58cb2d7c9a3aa40b0afa22eb55ead457]
+
+(1) An application under–
+
+- (a) paragraph 4(3)(a) (absent vote at particular election) of Schedule 4 by a person shown as voting by post in the record kept under paragraph 3(4) of that Schedule; or
+- (b) paragraph 7(7) (voting as proxy) of that Schedule by a person shown as voting by post in the record kept under paragraph 7(6) of that Schedule,
+
+for that person’s ballot paper to be sent to a different address from that shown in the record must set out why the applicant’s circumstances will be or are likely to be such that the applicant requires the ballot paper to be sent to that address.
+
+(2) This regulation does not apply where an applicant has, or has applied for, an anonymous entry.
+
+## 7. Additional requirements for applications for the appointment of a proxy[^key-8c42381e56c5cc77db589bb6a449ed3e]
+
+An application for the appointment of a proxy under paragraph 6 (proxies at election) of schedule 4 must—
+
+- (a) state the full name and address of the person whom the applicant wishes to appoint as the applicant’s proxy, together with that person’s family relationship, if any, with the applicant,
+- (b) if it is signed only by the applicant, contain a statement by the applicant that the person so named has been consulted and that that person is capable of being, and willing to be, appointed to vote as the applicant’s proxy,
+- (c) if it is also signed by the person to be appointed, contain a statement by that person that they are capable of being, and willing to be, appointed to vote as the applicant’s proxy, and
+- (d) in the case of an application to which regulation 11(4B) applies, state the reasons why the circumstances of the proxy on the date of the poll will, or are likely to, be such that they cannot reasonably be expected to vote in person at the polling station allotted or likely to be allotted to the elector.
+
+## 8. Additional requirements for applications for a proxy vote for a particular or indefinite period on grounds of blindness or other disability[^key-cb310b38ca4f7b8ad950f0129d48534a]
+
+(1) An application to vote by proxy for a particular or indefinite period under paragraph 3(3)(b) (absent vote at elections for definite or indefinite period – blindness or physical incapacity) of Schedule 4 shall specify the disability by reason of which it is made.
+
+(2) Subject to paragraph (3) below, such an application must be attested and signed by–
+
+- (a) a registered medical practitioner;
+- (b) a nurse registered on the register maintained by the Nursing and Midwifery Council under article 5 of the Nursing and Midwifery Order 2001[^f00005] by virtue of qualifications in nursing;
+- (c) a registered dentist as defined by section 53(1) of the Dentists Act 1984[^f00006];
+- (d) a registered dispensing optician or a registered optometrist within the meaning of the Opticians Act 1989[^f00007];
+- (e)[^key-6c2978fa9188e39ddb080634868222e9] a registered pharmacist as defined in article 3(1) of the Pharmacists and Pharmacy Technicians Order 2007;
+- (f) a registered osteopath as defined by section 41 of the Osteopaths Act 1993[^f00009];
+- (g) a registered chiropractor as defined by section 43 of the Chiropractors Act 1994[^f00010];
+- (h) a Christian Science practitioner;
+- (i)[^key-ff73df408c8676cecb77ac0d963c6d06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j) a person registered as a member of a profession to which the Health Professions Order 2001 for the time being extends[^key-7342c6d245cfb08f7e0d784d0b9534ed];
+- (k) the person carrying on a care home registered under Part 5 of the Public Services Reform (Scotland) Act 2010[^key-abd3a25037aa216a94ee9d23602e50ae];
+- (l) the warden of premises forming one of a group of premises provided for persons of pensionable age or disabled persons for which there is a resident warden, where the applicant states that the applicant resides in such premises;
+- (m) a manager (or a person on behalf of a manager) within the meaning of section 329(1) of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00013] responsible for the administration of a hospital within the meaning of Part 2 of that Act; or
+- (n) a person registered as a social worker in the register maintained in accordance with section 44 of the Regulation of Care (Scotland) Act 2001.
+
+(3) A person who qualifies–
+
+- (a) by virtue of paragraph (2)(a) to (j), may not attest an application for these purposes unless–
+  - (i) that person is treating the applicant for the disability specified in the application; or
+  - (ii) the applicant is receiving care from that person in respect of that disability;
+- (b) by virtue of paragraph (2)(n), may not attest an application for these purposes unless–
+  - (i) that person is treating the applicant for the disability specified in the application;
+  - (ii) the applicant is receiving care from that person in respect of that disability; or
+  - (iii) that person has arranged care and assistance for the applicant in respect of their disability.
+
+(4) The person attesting an application under paragraph (2), other than a person attesting by virtue of paragraph (2)(m), must state–
+
+- (a) the person’s name and address and the qualification by virtue of which that person attests the application;
+- (b) where the person who attests the application is a person referred to in paragraph (3)(a), that he or she is treating the applicant for the disability specified in the application or that the applicant is receiving care from that person in respect of that disability;
+- (c) where the person who attests the application is a person referred to in paragraph (3)(b), that he or she is treating the applicant for the disability specified in the application, that the applicant is receiving care from that person in respect of that disability, or that he or she has arranged care or assistance for the applicant in respect of that disability;
+- (d) that, to the best of the person’s knowledge and belief, the applicant has the disability specified in the application and that the applicant cannot reasonably be expected to go in person to the allotted polling station or to vote unaided there by reason of that disability; and
+- (e) that, to the best of the person’s knowledge and belief, the disability specified in the application is likely to continue either indefinitely or for a period specified by the person attesting the application.
+
+(5) A manager (or a person on behalf of a manager) attesting an application under paragraph (2)(m) must state–
+
+- (a) the name and address of the manager attesting the application;
+- (b) that the manager is authorised to attest the application;
+- (c) the position of the manager in the hospital at which the applicant is liable to be detained or at which the applicant is receiving treatment;
+- (d) the statutory provision under which the applicant is detained, or is liable to be detained, at the hospital, where applicable;
+- (e) that, to the best of the manager’s knowledge and belief, the applicant has the disability specified in the application and that the applicant cannot reasonably be expected to go in person to the allotted polling station or to vote unaided there by reason of that disability; and
+- (f) that to the best of the manager’s knowledge and belief, the disability specified in the application is likely to continue either indefinitely or for a period specified by the manager attesting the application.
+
+(6) Paragraphs (2) to (5) above shall not apply where–
+
+- (a) the application is based on the applicant’s blindness; [^key-43cec064f68ae753918d4bd470068870]...
+- (aa)[^key-6c11776dc637662495ee5aa9456865f6] the applicant is in receipt of the higher rate of the mobility component of child disability payment (payable in accordance with regulation 13 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021), or short-term assistance (payable in accordance with Part 1 of the schedule (short-term assistance) of those Regulations) where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule awarded the higher rate of the mobility component of child disability payment because of the disability specified in the application and makes a statement to that effect in the application, [^key-853ae8d2800747c5f32960d8abee6761]...
+- (ab)[^key-c1b794a290325a88c6e7c9ee15cbf27e] the applicant is in receipt of the enhanced rate of the mobility component of adult disability payment (payable in accordance with regulation 6 (mobility component) of the Disability Assistance for Working Age People (Scotland) Regulations 2022), or short-term assistance (payable in accordance with Part 1 of schedule 2 (short-term assistance) of those Regulations) where the “earlier determination” referred to in paragraph 1(1)(a) of that schedule awarded the enhanced rate of the mobility component of adult disability payment because of the disability specified in the application and makes a statement to that effect in the application, or
+- (b) the applicant is in receipt of the higher rate of the mobility component of a disability living allowance (payable under section 73 of the Social Security Contributions and Benefits Act 1992) , the enhanced rate of the mobility component of personal independence payment (payable under section 79(2) of the Welfare Reform Act 2012) or armed forces independence payment (under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011)[^key-5f1ab8b430a08cdb6dd7765e42018346] because of the disability specified in the application and makes a statement to that effect in the application , or[^key-8971acbed122ea9f222ed4bf5fecc285]
+- (c)[^key-0460a75512a6458ef42f2a266b967ba0] the applicant is in receipt of the higher rate of the mobility component of Scottish adult disability living allowance (payable in accordance with regulation 8 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025, or short-term assistance (payable in accordance with Part 1 of schedule 1 (short-term assistance) of those Regulations) where the “earlier determination” referred to in paragraph 1(1)(a) of schedule 1 (entitlement to short-term assistance) of those Regulations awarded the higher rate of the mobility component of Scottish adult disability living allowance because of the disability specified in the application and makes a statement to that effect in the application
+
+(7) The fact that an applicant is registered with the local authority shall be deemed sufficient evidence that the applicant is eligible to vote by proxy on the grounds set out in paragraph 3(3)(b) of Schedule 4.
+
+## 9. Additional requirements for applications for a proxy vote for a particular or indefinite period based on occupation, service, employment or attendance on a course[^key-f1a372d7897873cdbecee65aefee9848]
+
+(1) An application to vote by proxy for a particular or indefinite period under paragraph 3(3)(c) (absent vote at elections for definite or indefinite period – occupation, service, employment, etc.) of Schedule 4 must state–
+
+- (a) whether the occupation, service or employment in respect of which it is made is that of the applicant or the applicant’s spouse or civil partner or, as the case may be, it is the applicant or the applicant’s spouse or civil partner who is attending the course provided by an educational institution in respect of which the application is made;
+- (b) the nature of the occupation, service, employment or course provided by an educational institution giving rise to the application;
+- (c) where the person in respect of whose occupation, service or employment the application is made (in this regulation referred to as “the employed person”) is self-employed, that fact; and in any other case the name of that person’s employer;
+- (d) the reason, relevant to the general nature of the employment, service or occupation in question or the course provided by an educational institution, why the applicant cannot reasonably be expected to go in person to the allotted polling station.
+
+(2) Such an application must be attested and signed–
+
+- (a) where the applicant is self-employed, by a person who–
+  - (i) is aged 16[^key-082d0d4646940e7a4c9bc77417666b10] years or over;
+  - (ii) knows the applicant; and
+  - (iii) is not related to the applicant;
+- (b) where the applicant is employed, by the employer of the applicant or by another employee to whom this function is delegated by the employer; and
+- (c) where the applicant is attending a course provided by an educational institution, by the director or tutor of that course or by the principal or head of that institution or an employee of the institution to whom this function is delegated by the head or principal.
+
+(3) The person attesting an application made under paragraph (2) above must–
+
+- (a) where the applicant is the employed person or the person attending the course, certify that the statements required by paragraph (1)(a) to (d) to be included in the application are true; or
+- (b) where the applicant is the spouse or civil partner of the employed person or the person attending the course, certify that the statements included in the application in accordance with the requirements of paragraph (1)(a) to (d) are true.
+
+(4) The person attesting an application under paragraph (2) must also state–
+
+- (a) his or her name and address, that he or she is aged 16[^key-c92310e3b7a4528d1ef0fc9eb2816f55] years or over, that he or she knows the employed person, self-employed person or person attending a course provided by an educational institution but is not related to that person; and
+- (b) if he or she is attesting as or on behalf of the employer of the employed person, that he or she is the employer or the position that he or she holds in the employment of that employer; or
+- (c) if he or she is attesting an application made on the grounds of attendance at a course provided by an educational institution, the post that person holds at that institution.
+
+(5) For the purpose of this regulation, one person is related to another if the person is the spouse, civil partner, parent, grandparent, brother, sister, child or grandchild of the other.
+
+## 9A. Additional requirements for applications for a proxy vote for a particular or indefinite period based on detention in a penal institution[^key-4b6ff0d1328ee85de122da52893c7d76]
+
+An application to vote by proxy for a particular or indefinite period under paragraph 3(3)(e) (absent vote at elections for definite or indefinite period - offenders sentenced to term not exceeding 12 months) of Schedule 4 must state—
+
+- (a) that the applicant is eligible to vote by proxy at local government elections on grounds relating to the applicant's detention in a penal institution, and
+- (b) the name of the penal institution at which the applicant is detained.
+
+## 10. Additional requirements for applications for a proxy vote in respect of a particular election[^key-082bce63b71d226e4dff0d53e681054a]
+
+(1) An application under paragraph 4(2) (absent vote at particular election) of Schedule 4 to vote by proxy at a particular election must set out why the applicant’s circumstances on the date of the poll for that election in respect of which it is made will be or are likely to be such that the applicant cannot reasonably be expected to vote in person at the allotted polling station.
+
+(2) Where an application under paragraph 4(2) of Schedule 4 is made–
+
+- (a) on the grounds of the applicant’s disability; and
+- (b) after 5 p.m. on the sixth day before the date of poll at the election for which it is made,
+
+the requirements of regulation 8 as to the matters to be specified and the attestation shall apply.
+
+(3) Where an application mentioned in paragraph (2) is made, the person who attests the application must state, in addition to those matters specified in regulation 8, to the best of his or her knowledge and belief, the date upon which the applicant became disabled.
+
+(3A)[^key-5e9fcd224bcd788c5a0c46d47cdc3c82] Paragraph (3B) applies where—
+
+- (a) an application under paragraph 4(2) of Schedule 4 is made in the circumstances described in paragraph (2), and
+- (b) the applicant became disabled before 5 p.m. on the sixth day before the date of the poll at the election for which it is made.
+
+(3B) Where this paragraph applies, the application must state the reasons why the applicant was unable to make the application before 5 p.m. on the sixth day before the date of the poll at the election for which it was made.
+
+(4) Where an application under paragraph 4(2) of Schedule 4 is made by a person to whom paragraph 2(5B) (manner of voting at parliamentary or local government elections) of that Schedule applies after 5 p.m. on the sixth day before the date of the poll at the election for which it is made, the requirements of paragraph (5) below as to the matters to be specified and as to attestation shall apply.
+
+(5) Where an application mentioned in paragraph (4) is made the application must–
+
+- (a) state the name and address of the hospital at which the applicant is liable to be detained;
+- (b) be attested by or on behalf of the manager responsible for the administration of the hospital within the meaning of section 329(1) of the Mental Health (Care and Treatment) (Scotland) Act 2003 at which the applicant is liable to be detained, and the attestation shall state–
+  - (i) the name of the person attesting the application;
+  - (ii) that person’s position in the hospital at which the applicant is liable to be detained;
+  - (iii) that he or she is a person authorised to make the attestation; and
+  - (iv) the statutory provision under which the applicant is liable to be detained in the hospital.
+
+(5A)[^key-224255da89a310fbee73e6b273e63b9d] Where an application under paragraph 4(2) of Schedule 4 is made on grounds relating to the applicant’s occupation, service or employment and it is made after 5pm on the sixth day before the date of a poll at the election for which it is made—
+
+- (a) the application must, in addition to providing the information required by paragraph (1), state—
+  - (i) where the applicant is self-employed, that fact, and, in any other case, the name of the applicant’s employer;
+  - (ii) that the reason provided in accordance with paragraph (1) relates to the applicant’s occupation, service or employment; and
+  - (iii) the date on which the applicant became aware of that reason; and
+- (b) the application must be attested in accordance with paragraphs (5B) to (5D), unless the applicant is or will be registered as a service voter.
+
+(5B) An application to which paragraph (5A) applies must be attested and signed—
+
+- (a) where the applicant is self-employed, by a person who—
+  - (i) is aged 16 years or over;
+  - (ii) knows the applicant; and
+  - (iii) is not related to the applicant;
+- (b) where the applicant is not self-employed, by the applicant’s employer or by another employee to whom this function is delegated by the employer.
+
+(5C) The person (“P”) attesting an application under paragraph (5B) must certify that the statements required by paragraph (5A)(a) and the information required by paragraph (1) are true to the best of P’s knowledge and belief.
+
+(5D) P shall also state—
+
+- (a) P’s name and address;
+- (b) where the applicant is self-employed, that fact and that P is aged 16 years or over and that P knows, but is not related to, the applicant; and
+- (c) where the applicant is not self-employed, that P is the applicant’s employer or the position P holds in the employment of P’s employer.
+
+(5E)[^key-29eb10f8208421e690979dda367ae1b3] Where an application under paragraph 4(2) of Schedule 4 is made on grounds relating to the applicant’s detention in a penal institution, the application must state the name of the penal institution at which the applicant is detained.
+
+(6) This regulation does not apply where an applicant has an anonymous entry.
+
+## 11. Closing date for applications[^key-317753d0ea6afcc4becebdaebc65e27c]
+
+(1) An application under paragraph 3(1), (6) or (7) (absent vote at elections for definite or indefinite period) or 7(4) (voting as proxy) of Schedule 4 shall be disregarded for the purposes of a particular local government election and an application under paragraph 4(3) (absent vote at particular election – different address or proxy vote) of Schedule 4 shall be refused if it is received by the registration officer after 5 p.m. on the eleventh day before the date of the poll at that election.
+
+(2) Subject to paragraphs (4A) and (4B), an application[^key-1d5301e17c224f30b34e1345de55c2c1] under paragraph 3(2) (absent vote at elections for definite or indefinite period – proxy vote) or 6(7) (proxies at elections) of Schedule 4 shall be disregarded for the purposes of a particular local government election if it is received by the registration officer after 5 p.m. on the sixth day before the date of the poll at that election.
+
+(3) Subject to paragraphs (4), (4A) and (4B)[^key-05c4ff136dabbb77cd86d868235b5dfb], an application under paragraph 4(2) (absent vote at particular election by proxy) or 6(8) (proxies at elections) of Schedule 4 shall be refused if it is received by the registration officer after 5 p.m. on the sixth day before the date of the poll at the election for which it is made.
+
+(4) Where an application under paragraph 4(2) of Schedule 4 is made–
+
+- (a) on the grounds of the applicant’s disability and the applicant became disabled after 5 p.m. on the sixth day before the date of the poll at the election for which it is made; or *(affected by repeal, see note)*[^key-59ff48c29bea38704eb49996e5aed2e7]
+- (aa)[^key-8fdd540be5428dc1e3f9664581bed2a5] on grounds relating to the applicant’s occupation, service or employment and the applicant became aware of those grounds after 5 p.m. on the sixth day before the date of the poll at the election for which it is made; or[^key-bd76a50d13d0292badffb06049036c85]
+- (aaa)[^key-d632c09c6fb8f23207b8f564e2198864] on grounds of the applicant’s disability where—
+  - (i) the applicant became disabled before 5 p.m. on the sixth day before the poll at the election for which it is made; and
+  - (ii) by virtue of that disability, the applicant could not reasonably be expected to have made an application before 5 p.m. on the sixth day before that poll;
+- (ab)[^key-cbaf20afb13d05e7aa329d607c84e9b8] on grounds that the applicant’s circumstances on the date of the poll will be or are likely to be such that:
+  - (i) the applicant cannot reasonably be expected to vote in person at the polling station allotted or likely to be allotted to the applicant under the appropriate rules as a result of following Scottish Government advice or the advice of a registered medical practitioner in relation to coronavirus; and
+  - (ii) the applicant became aware of this after 5 p.m. on the sixth day before the date of the poll at the election for which it is made;
+- (b) by a person to whom paragraph 2(5B) (manner of voting at parliamentary or local government elections) of that Schedule applies,
+- (c)[^key-d770a4fa98a20fdaac44c595895af35e] by a person to whom section 3(1A) of the 1983 Act (exception to disenfranchisement for offenders sentenced to term not exceeding 12 months) applies,
+
+the application, or an application under paragraph 6(8) of that Schedule made by virtue of that application, shall be refused if it is received after 5 p.m. on the day of the poll at the election for which it is made.
+
+(4A)[^key-1523e385e5b94f1ba801d8e5c239984b] Paragraph (4B) applies to an application by an elector under paragraph 6 of schedule 4 for an alternative person to be appointed as their proxy where—
+
+- (a) the proxy currently appointed for the elector is not entitled to vote by post at the election, and
+- (b) the circumstances of the proxy on the date of the poll will, or are likely to, be such that they cannot reasonably be expected to vote in person at the polling station allotted or likely to be allotted to the elector.
+
+(4B) An application to which this paragraph applies must be refused where the application is received after 5 p.m. on the day of the poll at the election for which it is made.
+
+(5) An application under paragraph 4(1) (absent vote at particular election – by post) or 7(7) (voting as proxy – different address) of Schedule 4 shall be refused if it is received by the registration officer after 5 p.m. on the eleventh day before the date of the poll at the election for which it is made.
+
+(6) An application under–
+
+- (a) paragraph 3(5)(a) (absent vote at elections for definite or indefinite period) of Schedule 4 by an elector to be removed from the record kept under paragraph 3(4) of that Schedule, or
+- (b) paragraph 7(9)(a) (voting as proxy) of Schedule 4 by a proxy to be removed from the record kept under paragraph 7(6) of that Schedule,
+
+and a notice under paragraph 6(10) (proxies at elections) of that Schedule by an elector cancelling a proxy’s appointment shall be disregarded for the purposes of a particular local government election if it is received by the registration officer after 5 p.m. on the eleventh day before the date of the poll at that election.
+
+(7) In computing a period of days for the purposes of this regulation, Saturday, Sunday, Christmas Eve, Christmas Day, Good Friday, Easter Monday or a bank holiday shall be disregarded.
+
+(8) In paragraph (7) “bank holiday” means a day which is a bank holiday in Scotland under the Banking and Financial Dealings Act 1971[^f00014].
+
+## 12. Grant or refusal of applications[^key-2280c2c2b1928b019651d957cfc1ce36]
+
+(1) Where the registration officer grants an application to vote by post, the officer must, where practicable, notify the applicant of the decision.
+
+(2) Where the registration officer grants an application for the appointment of a proxy, the officer must, where practicable, confirm in writing to the elector that the proxy has been appointed, the name and address of the proxy, and the duration of the appointment.
+
+(3) For the purposes of paragraph 6(9) (proxies at elections) of Schedule 4, the form of the proxy paper for local government elections only is as prescribed in the Schedule to these Regulations.
+
+(4)[^key-15792b2766f19082c8fd61a41850f51b] Where the registration officer refuses an application under Schedule 4 for the purposes of any particular local government election, the officer must notify the applicant of the decision and of the reason for it.
+
+(5) Where the registration officer grants an application for the purposes of any particular local government election made under–
+
+- (a) paragraph 4(3)(a) (absent vote at particular election – different address) of Schedule 4 by a person shown as voting by post in the record kept under paragraph 3(4) (absent vote at elections for definite or indefinite period) or 7(6) (voting as proxy) of that Schedule; or
+- (b) paragraph 7(7) of that Schedule by a person shown as voting by post in the record kept under paragraph 7(6) of that Schedule,
+
+the officer must notify the applicant of this.
+
+(6) Where a person is removed from the record kept pursuant to paragraph 3(4) or 7(6) of Schedule 4 for the purposes of any particular local government election, the registration officer must where practicable notify that person of this and the reason for it.
+
+(7) Where the appointment of a proxy is cancelled by the elector or otherwise ceases to be in force for the purposes of any particular local government election, the registration officer shall where practicable notify the elector that the appointment has been cancelled or, as the case may be, notify the elector that the appointment has ceased and the reason for it.
+
+(8) Where, under regulation 11 above, a registration officer disregards an application for the purposes of any particular local government election, the officer shall notify the applicant of this.
+
+## 13. Notice of appeal[^key-fb3c853b3cbbc40945255fc4fd1b31d0][^key-adeb39cb0bc7be5288c354a29e25996d]
+
+(1) A person desiring to appeal under section 56(1)(b) (registration appeals – by proxy or post) of the 1983 Act[^f00015] against the decision of a registration officer, which the registration officer has made for the purposes of any particular local government election, must give notice of the appeal to the registration officer within 14 days of the date of receipt of the notice given under regulation 12(4) specifying the grounds of appeal.
+
+(2) The registration officer shall forward any such notice to the sheriff with a statement of the material facts which in the officer’s opinion have been established in the case, of the officer’s decision upon the whole case and on any point which may be specified as a ground of appeal; and the officer shall give to the sheriff any other information which the sheriff may require and which the registration officer is able to give.
+
+(3) Where it appears to the registration officer that any notices of appeal given to the officer are based on similar grounds, the officer shall inform the sheriff of this to enable the sheriff (if the sheriff thinks fit) to consolidate the appeals or select a case as a test case.
+
+## 14. Cancellation of proxy appointment[^key-43be2a85f2c73752e247e9e57e1abcac]
+
+Where the appointment of a proxy is cancelled by notice given to the registration officer under paragraph 6(10) of Schedule 4 or ceases to be in force under that provision or is no longer in force under paragraph 6(11)(b) of that Schedule, the registration officer must–
+
+- (a) notify the person whose appointment as proxy has been cancelled, expired, ceases to be or is no longer in force, unless the registration officer has previously been notified in writing by that person that he or she no longer wishes to act as proxy; and
+- (b) remove the name and address of the proxy from the record kept under paragraph 3(4)(c) of Schedule 4.
+
+## 15. Inquiries by registration officer[^key-601952450fb77cca12cf79172d9c171b]
+
+(1) The registration officer may, at such times as the officer thinks fit, make inquiries of a person–
+
+- (a) who is shown as voting by proxy in the record kept under paragraph 3(4) of Schedule 4 in pursuance of an application granted on the grounds set out in paragraph 3(3)(b) and (c) (blindness or other disability, occupation, service or employment etc.) of that Schedule; or
+- (b) who immediately before the date of the commencement of Schedule 4 was entitled to vote by proxy for an indefinite period at local government elections in pursuance of an application granted on grounds corresponding to those set out in paragraph 3(3)(b) and (c) of Schedule 4.
+
+for the purpose of determining whether there has been a material change of circumstances affecting the proxy applications.
+
+(2) Where the grant of an application for a proxy vote for an indefinite or particular period was based on the grounds referred to in paragraph 3(3)(c) of Schedule 4 (or grounds corresponding to those grounds), the registration officer shall make the inquiries referred to not later than 3 years after the granting of the application or the last such inquiries, as the case may be.
+
+(3) The registration officer may treat the failure by a person of whom inquiries have been made to respond to such inquiries within one month of the date on which they were made as sufficient evidence of a material change in circumstances.
+
+## 15A. Requirement to provide fresh signatures[^key-9cc646610fa4501742328feca7b38e8f]
+
+(1) A registration officer may send to any person who remains an absent voter and whose signature held on the personal identifiers record is more than 5 years old a notice in writing–
+
+- (a) requiring that person to provide a fresh signature; and
+- (b) informing that person of the date (6 weeks from the date of sending the notice) on which that person would cease to be entitled to vote by post or by proxy in the event of a failure or refusal to provide a fresh signature.
+
+(2) The notice must be sent by the registration officer to the current or last known address of the absent voter.
+
+(3) The registration officer must, if the absent voter has not responded to the notice within 3 weeks from the date on which the notice was sent, as soon as practicable send a copy of the notice to the absent voter.
+
+## 15B. Notices: supplementary
+
+(1) Where a notice or copy of a notice under regulation 15A is sent by post, the registration officer may use–
+
+- (a) a universal postal service provider; or
+- (b) a commercial delivery firm,
+
+and postage shall be prepaid on any such notice sent by post.
+
+(2) A notice or copy of a notice sent to an absent voter in accordance with this regulation must be accompanied by a pre-addressed reply envelope and, in the case of any notice or copy of a notice sent to an address within the United Kingdom, return postage shall be prepaid.
+
+## 15C. Consequence of failure to provide required information
+
+(1) Subject to paragraph (2), where, upon the expiry of the period of 6 weeks following the date of sending of a notice under regulation 15A(1) to an absent voter, the registration officer has not received a fresh signature–
+
+- (a) the registration officer must remove that voter’s entry from the absent voting records; and
+- (b) that voter shall not be entitled to vote by post, by proxy or by post as a proxy (as the case may be) at local government elections in Scotland, or a particular local government election in Scotland, otherwise than in pursuance of a further application made under Schedule 4.
+
+(2) The registration officer must not remove the absent voter’s entry if the registration officer is satisfied that the voter is unable–
+
+- (a) to provide a signature because of any disability the voter has;
+- (b) to provide a signature because the voter is unable to read or write; or
+- (c) to sign in a consistent and distinctive way because of any such disability or inability,
+
+and, where the registration officer is so satisfied, entries of the voter in the absent voting records shall not show the voter’s signature.
+
+(3) Where an absent voter ceases to be entitled to vote by post, by proxy or by post as a proxy in the circumstances to which paragraph (1) refers–
+
+- (a) the registration officer must inform the voter, where appropriate, of the location of the polling station to which the voter has been allotted or is likely to be allotted, under rule 22 of Schedule 1 to the Scottish Local Government Elections Order 2011[^key-e6917c9140a40aad2ca2323bc820bf26], unless that voter is not likely to be allotted to a polling station;
+- (b) regulations 12(4) and 13 must apply as if the registration officer were refusing an application under Schedule 4; and
+- (c) in the case of an absent voter who ceases to be entitled to vote by post as a proxy, the registration officer must also notify the elector for whom the proxy was appointed.
+
+(4) Where paragraph (3) applies, the registration officer must provide the absent voter with information–
+
+- (a) explaining the effect of removal from the absent voting records; and
+- (b) explaining that the absent voter may make a fresh application under Schedule 4 to vote by post, by proxy or by post as a proxy (as the case may be).
+
+## 15D. Disapplication of fresh signatures requirement for signatures due before May 2026[^key-d6f9d167638013732f60b8b91463f318]
+
+Where a registration officer may be required to send a person a notice under regulation 15A(1) and (2) (requirement to provide fresh signatures) before 7 May 2026—
+
+- (a) that requirement does not apply,
+- (b) the absent voter does not, for that reason, cease to be entitled to vote by post or by proxy for a failure to provide a fresh signature,
+- (c) the registration officer does not, for that reason, require to remove that person’s entry from the absent voting records due to failure to provide a fresh signature, and
+- (d) the registration officer must send a notice under regulation 15A(1) and (2) to that person by 31 January 2027.
+
+## 16. Records and lists kept under Schedule 4[^key-1e68426ce34440dad66eba3966403140]
+
+(1) The person or organisation entitled to the supply, in accordance with regulation 102, 104, 105 or 107 of the 2001 Regulations, of copies of the full register is also a person or organisation entitled, subject to this regulation and to regulation 17, to request that the registration officer supply free of charge the relevant part (within the meaning of those Regulations) of a copy of any of the following information which the officer keeps:
+
+- (a) the information which would, in the event of a particular local government election, be included in the postal voters lists, the list of proxies or the proxy postal voters lists, which the officer is required to keep under paragraph 5 (absent voters list) or 7(8) (voting as proxy) of Schedule 4;
+- (b) the current or final version of the postal voters list, the list of proxies or the proxy postal voters lists kept under paragraph 5 or 7(8) of Schedule 4.
+
+(2) Any person is entitled to request that the registration officer make available for inspection a copy of any of the information specified in paragraph (1).
+
+(3) A request under paragraph (1) or (2) must be made in writing and shall–
+
+- (a) specify which records or lists (or relevant parts of such records or lists) are requested;
+- (b) state whether the request is made only in respect of the current lists or whether it includes a request for the supply of any final list; and
+- (c) state whether a printed copy of the records or lists is requested or a copy in data form.
+
+(4) A request for inspection made in accordance with paragraph (2) must also specify–
+
+- (a) who will be inspecting the information,
+- (b) the date on which they wish to inspect the information, and
+- (c) whether they would prefer to inspect the information in a printed or data form.
+
+(5) A person who obtains a copy of a list under this regulation may use it only for the permitted purposes specified in regulation 18, and any restrictions–
+
+- (a) specified in that regulation, or
+- (b) which would apply to the use of the full register under whichever of regulations 102, 104, 105 and 107 of the 2001 Regulations entitled that person to obtain that document,
+
+shall apply to such use.
+
+(6) The registration officer must supply a current copy of relevant information requested under paragraph (1) as soon as practicable after receipt of a request that is duly made.
+
+(7) The registration officer must supply a final copy of the postal voters list kept under paragraph 5(2) (absent voters list) of Schedule 4, as soon as practicable after 5 p.m. on the eleventh day before the day of the poll, in response to a request that has been duly made by a person entitled under paragraph (1).
+
+(8) As soon as practicable after 5 p.m. on the sixth day before the day of the poll the registration officer must–
+
+- (a) make a copy of the lists kept under paragraphs 5 and 7(8) of Schedule 4 available for inspection at the office of the registration officer in accordance with this regulation; and
+- (b) supply a final copy of the postal voters lists or the list of proxies in response to every request that has been duly made.
+
+(9) The registration officer must supply a final copy of the proxy voters list kept under paragraph 5(3) (absent voters list) of Schedule 4, updated to include any additions to those lists made in consequence of emergency proxy applications granted in accordance with regulation 11(4) (emergency proxy applications), as soon as practicable after 5 p.m. on the day of the poll, to every person who received that list in accordance with paragraph (8)(b).
+
+(10) The registration officer must make a copy of the information available for inspection under supervision as soon as practicable after the date of receipt of a request that has been duly made.
+
+(11) Where inspection takes place by providing a copy of the information on a computer screen or otherwise in data form, the registration officer must ensure that the manner in, and equipment on which that copy is provided do not permit any person consulting that copy to–
+
+- (a) search it by electronic means by reference to the name of any person; or
+- (b) copy or transmit any part of that copy by electronic, or any other means, subject to paragraph (12).
+
+(12) A person who inspects a copy of the information, whether a printed copy or in data form, may not–
+
+- (a) make copies of any part of it; or
+- (b) record any particulars in it,
+
+otherwise than by means of hand-written notes.
+
+(13) Subject to any direction given under section 52(1) (discharge of registration duties) of the 1983 Act, any duty on a registration officer to supply a copy or make information available for inspection under this regulation, imposes only a duty to provide that information in the form in which the officer holds it.
+
+(14) For the purposes of this regulation–
+
+- (a) a “current copy” of records or lists is a copy of the records or lists as kept by the registration officer at 9 a.m. on the date it is supplied; and
+- (b) any period of days shall be calculated in accordance with regulation 11(7).
+
+## 17. Supply or disclosure of records ...[^key-75fa33ccee08d5e392857a48be9c00c3][^key-7805a9e5205222e6cad1e0cacd25faf6]
+
+(1) The registration officer must ensure that where he or she supplies or discloses information covered by regulation 16(1)(a) [^key-55e1dafd8e292a7907a623d996952769]..., the officer does not supply or disclose any record relating to a person specified in paragraph (2).
+
+(2) The persons specified in this paragraph are–
+
+- (a) a person who has an anonymous entry;
+- (b) the proxy of a person who has an anonymous entry.
+
+(3)[^key-485deed44d6b8b47b4573901dc6fd91a] Where the registration officer supplies or discloses information covered by regulation 16(1)(a), he or she must ensure that it does not include any details of a person aged under 16 years of age, unless—
+
+- (a) the information has been requested for the purposes of a local government election;
+- (b) the notice of poll for that election has been published;
+- (c) the information is needed for the purposes of, or in connection with, that election; and
+- (d) that person will have attained the age of 16 on or before the date of the poll for that election.
+
+## 18. Conditions on the supply and inspection of absent voter records or lists[^key-ad73351392b6772c30840dbcafd70d04]
+
+(1) The provisions in regulations 94 (restrictions on supply of full register and disclosure of information from it by the registration officer and his staff) and 95 (restriction on use of full register, or of information contained in it, supplied in accordance with enactments or obtained otherwise) of the 2001 Regulations[^f00016] shall apply to the supply of documents under regulation 16(1) as they apply to restrictions on the supply, disclosure and use of the full register, except that “permitted purposes” for the purposes of regulation 16(1)(a) and (b) means either–
+
+- (a)[^key-f9243566ee75d185126d1cc7e6af550e] purposes mentioned in Article 84A(1)[^key-dbeb73e1cc89f987e0163478347e73d2] of the UK GDPR[^key-ef381d960301148354906c2a5853a6c5] (archiving in the public interest, scientific or historical research and statistics); or
+- (b) electoral purposes.
+
+(2)[^key-7244779b05d6f2faa7eae7c49a51b64c] In this regulation, “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018.
+
+## 18A. The personal identifiers record[^key-336db0158aa9694e08d1d140a0f46d77]
+
+(1) The registration officer must retain a voter’s entry on the personal identifiers record until the expiry of 12 months from–
+
+- (a) the date on which that voter’s entry is removed from the record kept pursuant to paragraph 3(4) or 7(6) of Schedule 4; or
+- (b) the date of the poll for the purposes of which that voter’s application for an absent vote was granted under paragraph 4(1) or (2) or 7(4)(b) of Schedule 4.
+
+(1A)[^key-a4398eab565b7f29fc4c6844fcab322b] The returning officer may disclose information held in the personal identifiers record to any candidate or agent attending proceedings on receipt of postal ballot papers in accordance with regulation 24B of the Representation of the People (Postal Voting for Local Government Elections) (Scotland) Regulations 2007.
+
+(2)[^key-3046e0e5e44c01a6d9c82a96b8c200ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 19. Marked register for polling stations[^key-628fc70bedaac7441b88ac453eada880]
+
+To indicate that an elector or the elector’s proxy is entitled to vote by post and is for that reason not entitled to vote in person, the letter “A” shall be placed against the name of that elector in any copy of the register, or part of it, provided for a polling station.
+
+## 20. Notification of a rejected postal voting statement[^key-52e6e3ee42eef67752a7c84af95f3202]
+
+(1) Where the registration officer receives from a returning officer a copy of a list of rejected postal voting statements compiled under regulation 27(4) of the Representation of the People (Postal Voting for Local Government Elections) (Scotland) Regulations 2007, the registration officer must use that information for the purposes of paragraph (2) and regulation 21, and must not use that information for any other purpose.
+
+(2) Where an absent voter (whether an elector or a proxy) appears on that list—
+
+- (a) the registration officer must notify the absent voter (and the elector if the absent voter is a proxy) that the ballot paper concerned was rejected because the returning officer was not satisfied that the postal voting statement issued for that ballot paper was duly completed;
+- (b) the registration officer must send the notification within the period of three months beginning with the date of the poll at which the ballot paper was rejected; and
+- (c) the notification must include information as to which of the specified reasons referred to in regulation 27(5) of the Representation of the People (Postal Voting for Local Government Elections) (Scotland) Regulations 2007 applied to the absent voter’s postal voting statement.
+
+(3) The registration officer is not obliged to send notification—
+
+- (a) to any person who is no longer shown as voting by post in the records kept under paragraph 3(4) or 7(6) of Schedule 4 at the time the registration officer proposes to send out the notification; or
+- (b) where the registration officer suspects that an offence may have been committed in relation to the postal ballot paper, postal voting statement or the absent voter’s registration as an elector.
+
+(4) A notification under paragraph (2) may also include any other information that the registration officer considers appropriate, but must not include information held on the personal identifiers record.
+
+(5) No person is to be allowed to inspect the copy of the list received by the registration officer, and that officer must cause it to be destroyed as soon as practicable after the purposes in paragraph (2) and regulation 21 have been served and, in any event, within four months of its receipt.
+
+## 21. Requirement to provide fresh signatures following rejection of a postal voting statement
+
+(1) Where an absent voter is notified under regulation 20 that the signature does not match the example held on the personal identifiers record, and the absent voter continues to be shown on the relevant record as voting by post, the registration officer may require the absent voter to provide a fresh signature for the personal identifiers record.
+
+(2) In doing so, the registration officer must—
+
+- (a) issue a notice in writing to the absent voter, requiring the provision of a fresh signature; and
+- (b) inform the absent voter of the date (six weeks from the sending of the notice) on which the absent voter would cease to be entitled to vote by post in the event of a failure or refusal to provide a fresh signature.
+
+(3) The registration officer must, if the absent voter has not responded to the notice within three weeks from the date on which the notice was sent, as soon as practicable send a copy of the notice to the absent voter.
+
+(4) The notice and any copy must be sent by the registration officer to the current or last known address of the absent voter.
+
+(5) Where a notice or copy of a notice is sent by post, the registration officer may use—
+
+- (a) a universal postal service provider; or
+- (b) a commercial delivery firm,
+
+and postage must be prepaid.
+
+(6) A notice or copy of a notice sent to an absent voter in accordance with paragraph (2) or (3) must be accompanied by a pre-addressed reply envelope and, in the case of any notice or copy of a notice sent to an address in the United Kingdom, return postage must be prepaid.
+
+(7) Following the date specified in the notice sent to the absent voter, the registration officer must determine whether the absent voter has failed or refused to provide a fresh signature.
+
+(8) Where the registration officer determines that the absent voter has refused or failed to provide a fresh signature, the registration officer must remove that person’s entry from—
+
+- (a) the records kept pursuant to paragraph 3(4) or 7(6) of Schedule 4; and
+- (b) the postal voters list or proxy postal voters list (as the case may be) kept under paragraph 5(2) or 7(8) of that Schedule.
+
+(9) Where a registration officer removes an absent voter’s entry in the circumstances to which paragraph (8) refers—
+
+- (a) the registration officer is to inform the absent voter, where appropriate, of the location of the polling station allotted or likely to be allotted to the voter under the appropriate rules (as defined in paragraph 1 of Schedule 4);
+- (b) regulations 12(4) and 13 are to apply as if the registration officer were refusing an application under Schedule 4; and
+- (c) in the case of an entry removed from the proxy postal voters list, the registration officer must also notify the elector who appointed the proxy whose entry has been removed.
+
+(10) The registration officer must include in the notice to be sent to an absent voter regarding that person’s removal from the records kept pursuant to paragraph 3(4) or 7(6) of Schedule 4 and from the postal voters list or proxy postal voters list (as the case may be) kept under paragraph 5(2) or 7(8) of that Schedule, information—
+
+- (a) explaining the effect of such removal; and
+- (b) reminding the absent voter that he or she may make a fresh application under Schedule 4 to vote by post or by proxy (as the case may be).
+
+(11) Where an absent voter has provided a registration officer with a fresh signature in response to a notice issued by the registration officer under this paragraph, or in response to a notice issued by the registration officer under any other enactment following the rejection of the absent voter’s postal voting statement at an election or referendum, the registration officer may use that signature and enter it in the records kept in accordance with regulation 18A and paragraphs 3(4), 4(6) and 7(12) of Schedule 4.
+
+TOM McCABE
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+2nd March 2007
+
+## SCHEDULE — PROXY PAPER[^key-b3b9a8899e367d532334a2b422071869]
+
+Regulation 12(3)
+
+REPRESENTATION OF THE PEOPLE
+
+[image: see source](https://www.legislation.gov.uk/ssi/2007/170/images/ssi_20070170_en_001) [image: see source](https://www.legislation.gov.uk/ssi/2007/170/images/ssi_20070170_en_002)
+
+(This note is not part of the Regulations)
+
+Regulations 1 to 15 provide for revised procedures on applications for absent voting and replicate for local government elections the procedures introduced by Part IV of the Representation of the People (Scotland) Regulations 2001 as amended by the Representation of the People (Scotland) (Amendment) Regulations 2006. These regulations also reflect changes made to procedures relating to applications for proxy voting introduced following the Local Electoral Administration and Registration Services (Scotland) Act 2006.
+
+Regulation 3 deals with the general requirements for applications for an absent vote at a local government election and sets out what the application must state. Regulation 4 provides that the registration officer may satisfy himself or herself that the application has been signed by the applicant by referring to any signature which the applicant has previously provided to the registration officer or the returning officer.
+
+Regulations 5 and 6 provide for additional requirements to be met when requesting that ballot papers for an absent vote be sent to an address other than the one given in the application for an absent vote. Applicants must set out why they require their ballot paper to be sent to that address.
+
+Regulation 7 requires an application for the appointment of a proxy to state the full name and address of the proposed proxy together with the family relationship, if any, with the applicant. A statement must be provided by the voter to say that the proposed proxy has been consulted and is capable of being and willing to be appointed. Where the application is also signed by the proposed proxy, a statement must be provided by that person to say that they are capable of and willing to be appointed.
+
+Regulation 8 provides for additional requirements for applications to vote by proxy for a definite or indefinite period on grounds of disability or blindness and sets out the list of health care professionals and others who may attest applications for proxy votes. This includes persons who may be caring for or treating people with disabilities of a non-physical nature. It prescribes the information to be provided by a person attesting an application for a proxy vote on the grounds of the applicant’s disability.
+
+Regulation 9 provides for additional requirements for applications for a proxy vote made in respect of the applicants or their spouses or civil partners for a definite or indefinite period on grounds of occupation, service, employment or attendance on a course. It prescribes the information to be provided by a person attesting such an application on the grounds of occupation, service, employment or attendance on a course.
+
+Regulation 10 sets out additional requirements for applications for a proxy vote in respect of a particular election. The application, if made by reason of the applicant’s disability and if made after 5 p.m. on the sixth working day before the date of the poll, will be subject to the requirements of attestation set out in regulation 8.
+
+Regulation 11 deals with closing dates for an application for an absent vote and requires that, except in the case of applications to vote by proxy, the application must be received by the registration officer not later than 5 p.m. on the eleventh working day before the date of the poll at a relevant election.
+
+Where a person applies to vote by proxy at a specific election, the application must be received by not later then 5 p.m. on the sixth working day before the date of the poll at the relevant election. However, where a person applies to vote by proxy at a particular election on the grounds of disability and the applicant became incapacitated after 5 p.m. on the sixth working day before the date of the poll, the application, or an application for the appointment of a proxy made by virtue of that application, must be received by not later than 5 p.m. on the date of the poll.
+
+Regulation 12 deals with the granting or refusal of applications and requires that where–
+
+- (a) a registration officer grants an application for a postal vote, that officer must notify the applicant of the decision
+- (b) a registration officer grants an application for the appointment of a proxy, that officer must, where practicable, confirm the appointment in writing to the elector
+- (c) for the purposes of a particular election where a person applies for his or her postal ballot paper to be sent to an address different from that shown in the record, the registration officer must notify them if the application is granted.
+
+The registration officer is also required to notify a person removed from the record of absent voters for a definite or indefinite period of the reason for the removal. Similarly, where the appointment of a proxy is cancelled by the elector or otherwise ceases to be in force, the officer must confirm the cancellation or notify the elector that the appointment is no longer in force, along with the reason for this.
+
+Regulation 13 sets out the procedures to be followed in making an appeal against a decision of a registration officer and the subsequent action to be taken by the registration officer in relation to the appeal.
+
+Regulation 14 requires that where the appointment of a proxy is cancelled by the elector or otherwise ceases to be in force, the registration officer must notify the person appointed as proxy that the appointment is no longer in force and remove that person’s name from the list of proxy voters.
+
+Regulation 15 makes provision for a registration officer to make enquiries at no more than 3 year intervals to determine whether there has been any material change in circumstances affecting proxy appointments where the application was granted for an indefinite period on grounds of blindness or other disability, occupation, service or employment. The regulation also provides that where no response has been received to such queries within a month of their being made, this may be treated as sufficient evidence of a material change in circumstances.
+
+Regulations 16 to 18 make provision for the supply and inspection of lists of absent voters in advance of an election. The regulations require the registration officer to supply copies of documents to political parties and candidates and to permit inspection of those documents by members of the public.
+
+Regulation 19 makes provision for the marked register to indicate who is entitled to vote by post by the letter ‘A’ being marked against that person’s name.
+
+## Annotations
+
+[^f00001]: Footnote: [2006 asp 14](https://www.legislation.gov.uk/asp/2006/14).
+
+[^key-10ff407195662b24f5f78bf65d17a342]: Modification: Regulations modified (temp.) (19.11.2025) by [The Representation of the People Act 1983 Remedial (Scotland) Order 2025 (S.S.I. 2025/353)](https://www.legislation.gov.uk/ssi/2025/353), [art. 1(1)](https://www.legislation.gov.uk/ssi/2025/353/article/1/1), [sch. para. 2](https://www.legislation.gov.uk/ssi/2025/353/schedule/paragraph/2) (with [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/353/article/1/3), [2](https://www.legislation.gov.uk/ssi/2025/353/article/2), [8](https://www.legislation.gov.uk/ssi/2025/353/article/8))
+
+[^key-cd9bd200dedb03f2b598c49ec41f3f6f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2007/170/regulation/1) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-8d9fa337cab6b94df5d488fcc2366515]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2007/170/regulation/2) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^f00002]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2), as relevantly amended by the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), sections 11, 24 and 28 and Schedule 2, paragraph 1, Schedule 4, paragraphs 12(a) and 16(a) and Schedule 5, by the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), sections 8(a) and 15(2) and Schedule 1, paragraph 14(2)(a) and (b), Schedule 6, paragraph 9 (amending the definition of absent voters list) and Schedule 7 and by the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41), section 158(1) and Schedule 21, paragraph 6(5).
+
+[^f00003]: Footnote: S.I. [2001/497](https://www.legislation.gov.uk/uksi/2001/497), which was amended by S.I. [2001/1749](https://www.legislation.gov.uk/uksi/2001/1749), S.I. [2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), S.I. [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771) and [1960](https://www.legislation.gov.uk/uksi/2004/1960), S.I. [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114) and S.I. [2006/594](https://www.legislation.gov.uk/uksi/2006/594) and [834](https://www.legislation.gov.uk/uksi/2006/834).
+
+[^key-4e96d38e88f436bee7492c1bec118e2b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/170/regulation/2/1) inserted (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [6](https://www.legislation.gov.uk/ssi/2009/35/regulation/6)
+
+[^f00004]: Footnote: [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), to which there are no relevant amendments.
+
+[^key-c58ecc0d3eb37489345c9cfffc61c089]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/170/regulation/2/1) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 68](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/68)
+
+[^key-1e10701f70523464705ae31eacd83d94]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/2/2) omitted (31.3.2009) by virtue of [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [5(1)](https://www.legislation.gov.uk/ssi/2009/35/regulation/5/1)
+
+[^key-a39f197ec9b0c495098a07683f02550c]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/ssi/2007/170/regulation/2A) inserted (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2009/35/regulation/5/2)
+
+[^key-ea2a57ef43390d92b55d7103dff0b761]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2007/170/regulation/3) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-5cea6df5c6ce5a6d824a75d8e77889bd]: Textual amendment: [Reg. 3(2)(f)](https://www.legislation.gov.uk/ssi/2007/170/regulation/3/2/f)[(g)](https://www.legislation.gov.uk/ssi/2007/170/regulation/3/2/g) inserted (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2009/35/regulation/7/2)
+
+[^key-389c447863ca5c7c0aade5c740eca925]: Textual amendment: [Reg. 3(3)-(3B)](https://www.legislation.gov.uk/ssi/2007/170/regulation/3/3) substituted for [reg. 3(3)](https://www.legislation.gov.uk/ssi/2007/170/regulation/3/3) (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2009/35/regulation/7/3)
+
+[^key-91fcbb9ca0cf83d65b03cd578a952b67]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/ssi/2007/170/regulation/3/4) inserted (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/ssi/2009/35/regulation/7/4/a)
+
+[^key-36f3deeb954ba81ca06017ef885dff7f]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/ssi/2007/170/regulation/3/4/a)[(b)](https://www.legislation.gov.uk/ssi/2007/170/regulation/3/4/b) omitted (31.3.2009) by virtue of [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/ssi/2009/35/regulation/7/4/b)
+
+[^key-3175694cf83ada55813d5a216d0508a2]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2007/170/regulation/4) substituted (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [8](https://www.legislation.gov.uk/ssi/2009/35/regulation/8)
+
+[^key-c3226f36c6b6633fbd01813b56b161af]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2007/170/regulation/5) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-58cb2d7c9a3aa40b0afa22eb55ead457]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2007/170/regulation/6) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-8c42381e56c5cc77db589bb6a449ed3e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2007/170/regulation/7) substituted (30.10.2021) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/317)](https://www.legislation.gov.uk/ssi/2021/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2021/317/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/2))
+
+[^key-cb310b38ca4f7b8ad950f0129d48534a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2007/170/regulation/8) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^f00005]: Footnote: S.I. [2002/253](https://www.legislation.gov.uk/uksi/2002/253).
+
+[^f00006]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
+
+[^f00007]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44).
+
+[^key-6c2978fa9188e39ddb080634868222e9]: Textual amendment: [Reg. 8(2)(e)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/2/e) substituted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 43](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/43)
+
+[^f00009]: Footnote: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21).
+
+[^f00010]: Footnote: [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17).
+
+[^key-ff73df408c8676cecb77ac0d963c6d06]: Textual amendment: [Reg. 8(2)(i)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/2/i) omitted (1.7.2009) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(9)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/9), [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/17); [S.I. 2009/1357](https://www.legislation.gov.uk/uksi/2009/1357), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1357/article/2/1/c)
+
+[^key-7342c6d245cfb08f7e0d784d0b9534ed]: Textual amendment: Words in [reg. 8(2)(j)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/2/j) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/15); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+
+[^key-abd3a25037aa216a94ee9d23602e50ae]: Textual amendment: Words in [reg. 8(2)(k)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/2/k) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 40](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/40)
+
+[^f00013]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
+
+[^key-43cec064f68ae753918d4bd470068870]: Textual amendment: Word in [reg. 8(6)(a)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/6/a) omitted (26.7.2021) by virtue of [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [12(a)](https://www.legislation.gov.uk/ssi/2021/73/regulation/12/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+
+[^key-6c11776dc637662495ee5aa9456865f6]: Textual amendment: [Reg. 8(6)(aa)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/6/aa) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [12(b)](https://www.legislation.gov.uk/ssi/2021/73/regulation/12/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+
+[^key-853ae8d2800747c5f32960d8abee6761]: Textual amendment: Word in [reg. 8(6)(aa)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/6/aa) omitted (21.3.2022) by virtue of [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [12(a)](https://www.legislation.gov.uk/ssi/2022/31/regulation/12/a) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+
+[^key-c1b794a290325a88c6e7c9ee15cbf27e]: Textual amendment: [Reg. 8(6)(ab)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/6/ab) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [12(b)](https://www.legislation.gov.uk/ssi/2022/31/regulation/12/b) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+
+[^key-5f1ab8b430a08cdb6dd7765e42018346]: Textual amendment: Words in [reg. 8(6)(b)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/6/b) inserted (11.6.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 3) Regulations 2013 (S.S.I. 2013/142)](https://www.legislation.gov.uk/ssi/2013/142), [regs. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1), [10](https://www.legislation.gov.uk/ssi/2013/142/regulation/10)
+
+[^key-8971acbed122ea9f222ed4bf5fecc285]: Textual amendment: Word in [reg. 8(6)(b)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/6/b) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [13(a)](https://www.legislation.gov.uk/ssi/2024/311/regulation/13/a)
+
+[^key-0460a75512a6458ef42f2a266b967ba0]: Textual amendment: [Reg. 8(6)(c)](https://www.legislation.gov.uk/ssi/2007/170/regulation/8/6/c) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [13(b)](https://www.legislation.gov.uk/ssi/2024/311/regulation/13/b)
+
+[^key-f1a372d7897873cdbecee65aefee9848]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2007/170/regulation/9) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-082d0d4646940e7a4c9bc77417666b10]: Textual amendment: Words in [reg. 9(2)(a)(i)](https://www.legislation.gov.uk/ssi/2007/170/regulation/9/2/a/i) substituted (1.3.2016) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/8)](https://www.legislation.gov.uk/ssi/2016/8), [regs. 1](https://www.legislation.gov.uk/ssi/2016/8/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2016/8/regulation/2/a)
+
+[^key-c92310e3b7a4528d1ef0fc9eb2816f55]: Textual amendment: Words in [reg. 9(4)(a)](https://www.legislation.gov.uk/ssi/2007/170/regulation/9/4/a) substituted (1.3.2016) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/8)](https://www.legislation.gov.uk/ssi/2016/8), [regs. 1](https://www.legislation.gov.uk/ssi/2016/8/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2016/8/regulation/2/a)
+
+[^key-4b6ff0d1328ee85de122da52893c7d76]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/ssi/2007/170/regulation/9A) inserted (2.4.2020) by [Scottish Elections (Franchise and Representation) Act 2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/6/section/12/1), [sch. para. 1(2)](https://www.legislation.gov.uk/asp/2020/6/schedule/paragraph/1/2)
+
+[^key-082bce63b71d226e4dff0d53e681054a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2007/170/regulation/10) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-5e9fcd224bcd788c5a0c46d47cdc3c82]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/ssi/2007/170/regulation/10/3A)[(3B)](https://www.legislation.gov.uk/ssi/2007/170/regulation/10/3B) inserted (30.10.2021) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/317)](https://www.legislation.gov.uk/ssi/2021/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/1), [3(1)](https://www.legislation.gov.uk/ssi/2021/317/regulation/3/1) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/2))
+
+[^key-224255da89a310fbee73e6b273e63b9d]: Textual amendment: [Reg. 10(5A)-(5D)](https://www.legislation.gov.uk/ssi/2007/170/regulation/10/5A) inserted (1.12.2016) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/264)](https://www.legislation.gov.uk/ssi/2016/264), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/264/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2016/264/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/264/regulation/1/2))
+
+[^key-29eb10f8208421e690979dda367ae1b3]: Textual amendment: [Reg. 10(5E)](https://www.legislation.gov.uk/ssi/2007/170/regulation/10/5E) substituted for [reg. 10(5E)](https://www.legislation.gov.uk/ssi/2007/170/regulation/10/5E)[(5F)](https://www.legislation.gov.uk/ssi/2007/170/regulation/10/5F) (30.10.2021) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/317)](https://www.legislation.gov.uk/ssi/2021/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/1), [6(1)](https://www.legislation.gov.uk/ssi/2021/317/regulation/6/1) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/2))
+
+[^key-317753d0ea6afcc4becebdaebc65e27c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2007/170/regulation/11) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-1d5301e17c224f30b34e1345de55c2c1]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/11/2) substituted (30.10.2021) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/317)](https://www.legislation.gov.uk/ssi/2021/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/5/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/2))
+
+[^key-05c4ff136dabbb77cd86d868235b5dfb]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2007/170/regulation/11/3) substituted (30.10.2021) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/317)](https://www.legislation.gov.uk/ssi/2021/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2021/317/regulation/5/3) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/2))
+
+[^key-59ff48c29bea38704eb49996e5aed2e7]: Textual amendment: Word in [reg. 11(4)(a)](https://www.legislation.gov.uk/ssi/2007/170/regulation/11/4/a) omitted (temp.) (23.9.2020) by virtue of [The Representation of the People (Absent Voting at Local Government Elections) (Amendment) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/240)](https://www.legislation.gov.uk/ssi/2020/240), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/240/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2020/240/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/ssi/2020/240/regulation/5))
+
+[^key-8fdd540be5428dc1e3f9664581bed2a5]: Textual amendment: [Reg. 11(4)(aa)](https://www.legislation.gov.uk/ssi/2007/170/regulation/11/4/aa) inserted (23.4.2017) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/64)](https://www.legislation.gov.uk/ssi/2017/64), [regs. 1](https://www.legislation.gov.uk/ssi/2017/64/regulation/1), [2](https://www.legislation.gov.uk/ssi/2017/64/regulation/2)
+
+[^key-bd76a50d13d0292badffb06049036c85]: Textual amendment: Word in [reg. 11(4)(aa)](https://www.legislation.gov.uk/ssi/2007/170/regulation/11/4/aa) inserted (temp.) (23.9.2020) by virtue of [The Representation of the People (Absent Voting at Local Government Elections) (Amendment) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/240)](https://www.legislation.gov.uk/ssi/2020/240), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/240/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2020/240/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/ssi/2020/240/regulation/5))
+
+[^key-d632c09c6fb8f23207b8f564e2198864]: Textual amendment: [Reg. 11(4)(aaa)](https://www.legislation.gov.uk/ssi/2007/170/regulation/11/4/aaa) inserted (30.10.2021) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/317)](https://www.legislation.gov.uk/ssi/2021/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/2))
+
+[^key-cbaf20afb13d05e7aa329d607c84e9b8]: Textual amendment: [Reg. 11(4)(ab)](https://www.legislation.gov.uk/ssi/2007/170/regulation/11/4/ab) inserted (temp.) (23.9.2020) by virtue of [The Representation of the People (Absent Voting at Local Government Elections) (Amendment) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/240)](https://www.legislation.gov.uk/ssi/2020/240), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/240/regulation/1/1), [3(c)](https://www.legislation.gov.uk/ssi/2020/240/regulation/3/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2020/240/regulation/5))
+
+[^key-d770a4fa98a20fdaac44c595895af35e]: Textual amendment: [Reg. 11(4)(c)](https://www.legislation.gov.uk/ssi/2007/170/regulation/11/4/c) inserted (30.10.2021) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/317)](https://www.legislation.gov.uk/ssi/2021/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/6/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/2))
+
+[^key-1523e385e5b94f1ba801d8e5c239984b]: Textual amendment: [Reg. 11(4A)](https://www.legislation.gov.uk/ssi/2007/170/regulation/11/4A)[(4B)](https://www.legislation.gov.uk/ssi/2007/170/regulation/11/4B) inserted (30.10.2021) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/317)](https://www.legislation.gov.uk/ssi/2021/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2021/317/regulation/5/4) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/317/regulation/1/2))
+
+[^f00014]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
+
+[^key-2280c2c2b1928b019651d957cfc1ce36]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2007/170/regulation/12) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-15792b2766f19082c8fd61a41850f51b]: Modification: [Reg. 12(4)](https://www.legislation.gov.uk/ssi/2007/170/regulation/12/4) applied (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [15(2)(b)](https://www.legislation.gov.uk/ssi/2009/35/regulation/15/2/b)
+
+[^key-fb3c853b3cbbc40945255fc4fd1b31d0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2007/170/regulation/13) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-adeb39cb0bc7be5288c354a29e25996d]: Modification: [Reg. 13](https://www.legislation.gov.uk/ssi/2007/170/regulation/13) applied (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [15(2)(b)](https://www.legislation.gov.uk/ssi/2009/35/regulation/15/2/b)
+
+[^f00015]: Footnote: Section 56(1)(b) was amended by Schedule 2 to the Representation of the People Act [1985 c. 50](https://www.legislation.gov.uk/ukpga/1985/50).
+
+[^key-43be2a85f2c73752e247e9e57e1abcac]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2007/170/regulation/14) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-601952450fb77cca12cf79172d9c171b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2007/170/regulation/15) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-9cc646610fa4501742328feca7b38e8f]: Textual amendment: [Regs. 15A-15C](https://www.legislation.gov.uk/ssi/2007/170/regulation/15A) inserted (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [9](https://www.legislation.gov.uk/ssi/2009/35/regulation/9)
+
+[^key-e6917c9140a40aad2ca2323bc820bf26]: Textual amendment: Words in [reg. 15C](https://www.legislation.gov.uk/ssi/2007/170/regulation/15C) substituted (10.11.2011 except for the purposes of any election to be held on or before 2.5.2012) by [The Scottish Local Government Elections Order 2011 (S.S.I. 2011/399)](https://www.legislation.gov.uk/ssi/2011/399), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/regulation/1/1), [5(1)](https://www.legislation.gov.uk/ssi/2011/399/article/5/1)
+
+[^key-d6f9d167638013732f60b8b91463f318]: Textual amendment: [Reg. 15D](https://www.legislation.gov.uk/ssi/2007/170/regulation/15D) inserted (1.12.2025) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/263)](https://www.legislation.gov.uk/ssi/2025/263), [regs. 1](https://www.legislation.gov.uk/ssi/2025/263/regulation/1), [2](https://www.legislation.gov.uk/ssi/2025/263/regulation/2)
+
+[^key-1e68426ce34440dad66eba3966403140]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2007/170/regulation/16) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-75fa33ccee08d5e392857a48be9c00c3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2007/170/regulation/17) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-7805a9e5205222e6cad1e0cacd25faf6]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/ssi/2007/170/regulation/17) heading omitted (1.3.2016) by virtue of [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/8)](https://www.legislation.gov.uk/ssi/2016/8), [regs. 1](https://www.legislation.gov.uk/ssi/2016/8/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2016/8/regulation/2/b)
+
+[^key-55e1dafd8e292a7907a623d996952769]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/ssi/2007/170/regulation/17/1) omitted (1.3.2016) by virtue of [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/8)](https://www.legislation.gov.uk/ssi/2016/8), [regs. 1](https://www.legislation.gov.uk/ssi/2016/8/regulation/1), [2(c)(i)](https://www.legislation.gov.uk/ssi/2016/8/regulation/2/c/i)
+
+[^key-485deed44d6b8b47b4573901dc6fd91a]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/ssi/2007/170/regulation/17/3) inserted (1.3.2016) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/8)](https://www.legislation.gov.uk/ssi/2016/8), [regs. 1](https://www.legislation.gov.uk/ssi/2016/8/regulation/1), [2(c)(ii)](https://www.legislation.gov.uk/ssi/2016/8/regulation/2/c/ii)
+
+[^key-ad73351392b6772c30840dbcafd70d04]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2007/170/regulation/18) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^f00016]: Footnote: S.I. [2001/497](https://www.legislation.gov.uk/uksi/2001/497), which was amended by S.I. [2001/1749](https://www.legislation.gov.uk/uksi/2001/1749), S.I. [2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), S.I. [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771) and [1960](https://www.legislation.gov.uk/uksi/2004/1960), S.I. [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114) and S.I. [2006/594](https://www.legislation.gov.uk/uksi/2006/594) and [834](https://www.legislation.gov.uk/uksi/2006/834).
+
+[^key-f9243566ee75d185126d1cc7e6af550e]: Textual amendment: [Reg. 18(1)(a)](https://www.legislation.gov.uk/ssi/2007/170/regulation/18/1/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 326(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/326/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+
+[^key-dbeb73e1cc89f987e0163478347e73d2]: Textual amendment: Words in [reg. 18(1)(a)](https://www.legislation.gov.uk/ssi/2007/170/regulation/18/1/a) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [7](https://www.legislation.gov.uk/uksi/2025/1331/regulation/7); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+
+[^key-ef381d960301148354906c2a5853a6c5]: Textual amendment: Words in [reg. 18(1)(a)](https://www.legislation.gov.uk/ssi/2007/170/regulation/18/1/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 65(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/65/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-7244779b05d6f2faa7eae7c49a51b64c]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/18/2) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 65(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/65/3) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-336db0158aa9694e08d1d140a0f46d77]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/ssi/2007/170/regulation/18A) inserted (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [10](https://www.legislation.gov.uk/ssi/2009/35/regulation/10)
+
+[^key-a4398eab565b7f29fc4c6844fcab322b]: Textual amendment: [Reg. 18A(1A)](https://www.legislation.gov.uk/ssi/2007/170/regulation/18A/1A) inserted (1.4.2009) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Order 2009 (S.S.I. 2009/94)](https://www.legislation.gov.uk/ssi/2009/94), [arts. 1](https://www.legislation.gov.uk/ssi/2009/94/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/94/article/2/2)
+
+[^key-3046e0e5e44c01a6d9c82a96b8c200ca]: Textual amendment: [Reg. 18A(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/18A/2) omitted (1.4.2009) by virtue of [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment Order 2009 (S.S.I. 2009/94)](https://www.legislation.gov.uk/ssi/2009/94), [arts. 1](https://www.legislation.gov.uk/ssi/2009/94/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/94/article/2/3)
+
+[^key-628fc70bedaac7441b88ac453eada880]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2007/170/regulation/19) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)
+
+[^key-52e6e3ee42eef67752a7c84af95f3202]: Textual amendment: [Regs. 20](https://www.legislation.gov.uk/ssi/2007/170/regulation/20), [21](https://www.legislation.gov.uk/ssi/2007/170/regulation/21) inserted (1.12.2016) by [The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/264)](https://www.legislation.gov.uk/ssi/2016/264), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/264/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2016/264/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/264/regulation/1/2))
+
+[^key-b3b9a8899e367d532334a2b422071869]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2007/170/schedule) in force at 2.5.2007, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2007/170/regulation/1/2)

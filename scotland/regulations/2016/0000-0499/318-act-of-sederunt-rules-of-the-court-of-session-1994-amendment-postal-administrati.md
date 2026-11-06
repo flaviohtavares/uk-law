@@ -1,0 +1,175 @@
+---
+title: Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Postal Administration) 2016
+id: ssi/2016/318
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2016-10-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2016/318
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/318/pdfs/ssi_20160318_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/318/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Postal Administration) 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 318
+
+Court Of Session
+
+Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Postal Administration) 2016
+
+Made
+
+18th October 2016
+
+Laid before the Scottish Parliament
+
+20th October 2016
+
+Coming into force
+
+16th November 2016
+
+In accordance with section 4 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013[^f00001], the Court of Session has approved draft rules submitted to it by the Scottish Civil Justice Council with such modifications as it thinks appropriate.
+
+The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 103(1) of the Courts Reform (Scotland) Act 2014[^f00002] and all other powers enabling it to do so.
+
+## 1. Citation and commencement, etc.
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Postal Administration) 2016.
+
+(2) It comes into force on 16th November 2016.
+
+(3) A certified copy is to be inserted in the Books of Sederunt.
+
+## 2. Amendment of the Rules of the Court of Session 1994
+
+(1) The Rules of the Court of Session 1994[^f00003] are amended in accordance with this paragraph.
+
+(2) In rule 74.1 (application and interpretation of this Chapter)—
+
+- (a) after paragraph (1)(e)[^f00004] insert—
+
+  > - ; and
+  >   - (a) Part 4 of the Postal Services Act 2011[^f00005].
+
+  .
+- (b) in paragraph (2)[^f00006] after the definition of “non GB company” insert—
+
+  > - the Postal Act” means the Postal Services Act 2011;
+  > - “the Postal Administration Rules” means the Postal Administration (Scotland) Rules 2016[^f00007];
+
+  .
+- (c) in paragraph (3)[^f00008]—
+  - (i) after “the Act of 2011” insert “, Part 4 of the Postal Act”;
+  - (ii) for “or”, in the second place that word occurs, substitute “,”; and
+  - (iii) after “the 2013 Rules” insert “or the Postal Administration Rules”.
+
+(3) In rule 74.2[^f00009] (proceedings before insolvency judge)—
+
+- (a) for “or” in the second place that word occurs, substitute “,”; and
+- (b) after “the Act of 2009,” insert “or Part 4 of the Postal Act”.
+
+(4) In rule 74.3[^f00010] (notices and reports, etc. sent to the court)—
+
+- (a) after “the Act of 2011” insert “the Postal Act”; and
+- (b) for “or the 2013 Rules” substitute “, the 2013 Rules or the Postal Administration Rules”.
+
+(5) In rule 74.10 (form of petition in administration procedure)—
+
+- (a) in paragraph (1)[^f00011] after “(petition for energy administration order)” insert “, or section 70 of the Postal Act (applications for postal administration orders)”;
+- (b) in paragraph (2)(g)[^f00012] after “or an energy administration” insert “or a postal administration”;
+- (c) in paragraph (2)(i)[^f00013] after “energy administrator” insert “or postal administrator”;
+- (d) In paragraph (2)(l)[^f00014] after “an energy administration order” insert “or a postal administration order, as the case may be”; and
+- (e) after paragraph (2)(m) insert—
+
+  > - (n) whether a universal service provider (within the meaning of section 65(1) of the Postal Act) in a petition for a postal administration order is a foreign company.
+
+  .
+
+(6) In rule 74.10A(1)[^f00015] (interim orders), after “Act of 2004” insert “or section 71(1)(d) of the Postal Act”.
+
+(7) In rule 74.11[^f00016] (notice of petition) after paragraph (c) insert—
+
+> - ; or
+>   - (a) the petition and a notice are to be served on a person mentioned in section 70(2)(a) to (c) of the Postal Act (applications for postal administration orders) or Rule 7 of the Postal Administration (Scotland) Rules.
+
+.
+
+(8) In rule 74.14[^f00017] (time and date of lodging in administration or energy administration)—
+
+- (a) in the cross-heading for “**or energy administration**” substitute “, **energy administration or postal administration**”;
+- (b) in paragraph (1) after “the Energy Administration Rules” insert “or a postal administration under the Postal Act or the Postal Administration Rules”; and
+- (c) in paragraph (2) after “the Energy Administration Rules” insert “or the Postal Administration Rules”.
+
+(9) In rule 74.15[^f00018] (applications during an administration or energy administration)—
+
+- (a) for the cross-heading substitute “**Applications during an administration, energy administration or postal administration**”;
+- (b) for “or the Energy Administration Rules” substitute “, the Postal Act or the Energy Administration Rules or the Postal Administration Rules”;
+- (c) for “administration or energy administration” substitute “administration, energy administration or postal administration”; and
+- (d) in paragraph (b) after “energy administration”, insert “or postal administration,”.
+
+CJM SUTHERLAND
+
+Lord President
+
+I.P.D.
+
+Edinburgh
+
+18th October 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt amends Chapter 74 of the Rules of the Court of Session 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443)) (“the Rules”) in consequence of the Postal Administration (Scotland) Rules 2016 ([S.I. 2016/900](https://www.legislation.gov.uk/uksi/2016/900)). Those Rules set out the procedure for the conduct of a postal supply company administration in Scotland. A postal supply company administration is a special insolvency regime specifically created for companies that are designated under section 35 of the Postal Services Act 2011 as universal service providers.
+
+This Act of Sederunt provides that an application for a postal administration order is to be made by petition to the Court of Session and makes minor miscellaneous amendments to Chapter 74 in consequence of this.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 asp 3](https://www.legislation.gov.uk/asp/2013/3). Section 4 was amended by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), schedule 5, paragraph 31(3) and the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act [2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), schedule 1, paragraph 1(4).
+
+[^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
+
+[^f00003]: Footnote: The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443)), last amended by [S.S.I. 2016/316](https://www.legislation.gov.uk/ssi/2016/316).
+
+[^f00004]: Footnote: Rule 74.1(1)(e) was inserted by [S.S.I. 2013/162](https://www.legislation.gov.uk/ssi/2013/162).
+
+[^f00005]: Footnote: [2011 c.5](https://www.legislation.gov.uk/ukpga/2011/5).
+
+[^f00006]: Footnote: Rule 74.1(2) was relevantly amended by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83).
+
+[^f00007]: Footnote: [S.I. 2016/900](https://www.legislation.gov.uk/uksi/2016/900).
+
+[^f00008]: Footnote: Rule 74(1)(3) was substituted by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83), and amended by [S.S.I. 2009/63](https://www.legislation.gov.uk/ssi/2009/63) and [S.S.I. 2013/162](https://www.legislation.gov.uk/ssi/2013/162).
+
+[^f00009]: Footnote: Rule 74.2 was substituted by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83) and amended by [S.S.I. 2009/63](https://www.legislation.gov.uk/ssi/2009/63).
+
+[^f00010]: Footnote: Rule 74.3 was substituted by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83) and amended by [S.S.I. 2009/63](https://www.legislation.gov.uk/ssi/2009/63) and [S.S.I. 2013/162](https://www.legislation.gov.uk/ssi/2013/162).
+
+[^f00011]: Footnote: Rule 74.10(1) was substituted by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83).
+
+[^f00012]: Footnote: Rule 74.10(2)(g) was amended by [S.S.I. 2003/385](https://www.legislation.gov.uk/ssi/2003/385) and [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83).
+
+[^f00013]: Footnote: Rule 74.10(2)(i) was amended by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83).
+
+[^f00014]: Footnote: Rule 74.10(2)(1) was inserted by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83).
+
+[^f00015]: Footnote: Rule 74.10A was inserted by [S.S.I. 2005/268](https://www.legislation.gov.uk/ssi/2005/268) and amended by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83).
+
+[^f00016]: Footnote: Rule 74.11 was amended by [S.S.I. 2003/385](https://www.legislation.gov.uk/ssi/2003/385); [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83) and [S.S.I. 2013/162](https://www.legislation.gov.uk/ssi/2013/162).
+
+[^f00017]: Footnote: Rule 74.14 was substituted by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83).
+
+[^f00018]: Footnote: Rule 74.15 was substituted by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83).

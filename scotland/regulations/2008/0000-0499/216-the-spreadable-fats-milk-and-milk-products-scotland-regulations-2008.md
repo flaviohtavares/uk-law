@@ -1,0 +1,232 @@
+---
+title: The Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008
+id: ssi/2008/216
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2008-06-03'
+text_date: '2022-02-22'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2008/216
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2008/216/pdfs/ssien_20080216_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/216/pdfs/ssi_20080216_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/216/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008
+
+> Text as at 2022-02-22.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2008 No. 216
+
+FOOD
+
+The Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008
+
+Made
+
+3rd June 2008
+
+Laid before the Scottish Parliament
+
+4th June 2008
+
+Coming into force
+
+1st July 2008
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 6(4), 16(1), 17(2), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^f00001], and all other powers enabling them to do so.
+
+In accordance with section 48(4A)[^f00002] of that Act they have had regard to relevant advice given by the Food Standards Agency.
+
+There has been consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
+
+## 1. Citation, commencement and extent[^key-ae4838b278f9f599b48d7cb81b4c52e3]
+
+(1) These Regulations may be cited as the Spreadable Fats, Milk and Milk Products (Scotland) Regulations 2008, and come into force on 1st July 2008.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Interpretation[^key-cd5f2de623209057377148cd453c6bd9]
+
+(1) In these Regulations–
+
+- “the Act” means the Food Safety Act 1990;
+- “[^key-52bdcadc2a075f52ca27668f16ab8484]**Council Regulation 2013**” means Regulation[^key-6e67cca01808635272d52e611114a4eb] [(EU) No. 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council as last amended by Regulation [(EU) 2017/2393](https://www.legislation.gov.uk/european/regulation/2017/2393) of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No. 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No. 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No. 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234);
+- “the Commission Regulation” means Commission Regulation [(EC) No. 445/2007](https://www.legislation.gov.uk/european/regulation/2007/0445) laying down certain detailed rules for the application of Council Regulation [(EC) No. 2991/94](https://www.legislation.gov.uk/european/regulation/1994/2991) laying down standards for spreadable fats and of Council Regulation [(EEC) No. 1898/87](https://www.legislation.gov.uk/european/regulation/1987/1898) on the protection of designations used in the marketing of milk and milk products[^f00004];
+- [^key-c978dedd7160bb6c74a16d68ef70b88b]...
+- “the Council Regulation” means Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation)[^f00005];
+- “sell” includes possess for sale, and offer, expose or advertise for sale;
+- “sell by retail” means to sell to a person who is not buying for the purpose of re sale;
+- “[^key-6dedbf9163a7637f682cd5f67d541101]**specified provisions**” means those provisions listed in regulation 6(2);
+- “vitamin A” means vitamin A present as such or as its esters and includes beta carotene on the basis that 6 micrograms of beta carotene or 12 micrograms of other biologically active carontenoids equal one microgram of retinol equivalent; and
+- “vitamin D” means the anti rachitic vitamins.
+
+(2) Other expressions used in these Regulations and in the Council Regulation or the Commission Regulation have the same meaning in these Regulations as they have in the Council Regulation or the Commission Regulation.
+
+## 3. Exemptions from these Regulations[^key-4327ef08f6c32c0714b7d3c743bbdb2d][^key-83dcec5a97be4a484995efe404881a98]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Vitamin content of margarine[^key-ce118ed7a03d37f2b797bf9966ea4531]
+
+No person may sell by retail any margarine unless it contains in every 100 grams–
+
+- (a) not less than 800 micrograms and not more than 1,000 micrograms of vitamin A; and
+- (b) not less than 7.05 micrograms and not more than 8.82 micrograms of vitamin D,
+
+and a proportionate amount in any part of 100 grams.
+
+## 5. Enforcement[^key-6d8fc60e5695978c2e8044dc55cd6c98]
+
+Each food authority shall execute and enforce the specified provisions[^key-573ae521ad15dde2913e3c30d56df02a] and these Regulations in its area.
+
+## 6. Offences and penalty[^key-5dd15cd99cbd7c70a64f4e407b86e405]
+
+(1) Any person who contravenes or fails to comply with–
+
+- (a) regulation 4; or
+- (b) any specified[^key-757c9c67014d1ca8a007c79acafa3209] provision,
+
+is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+(2) The specified[^key-204e8f1b1010a6e7c44087950a4407fc] provisions are–
+
+- (a) Article 114(1) of the Council Regulation (prescribed descriptions for milk and milk products) as read with Part III of Annex[^key-d77a5caf5321744a2a11d5ae81e54458] VII to Council Regulation 2013;
+- (b) Article 115 of the Council Regulation (marketing standard applying to spreadable fats, including compositional criteria for reserved descriptions), as read with–
+  - (i)[^key-821d101006fd25b7c319884d42e9643f] points 1,3,5 and 6 of Part II and point 2 of Part IV of Annex XV to the Council Regulation;
+  - (ii) Article 1 of and Annex I to the Commission Regulation; or
+  - (iii) Article 2 of and Annex II to the Commission Regulation; and
+- (bc) Article 78(1)(f) and (2) of Council Regulation 2013 (definitions, designations and sales descriptions applying to spreadable fats) as read with Part VII of Annex[^key-438dc847394c170197fd4c7ba9b1d9c6] VII to Council Regulation 2013; and
+- (c) Article 3 of the Commission Regulation (requirements relating to the use of the designation “butter” for composite products) as read with Annex III to that Regulation.
+
+## 7. Application of various provisions of the Act[^key-092fb63be104939824385714aedd509c]
+
+(1) The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part thereof is to be construed as a reference to these Regulations–
+
+- (a) section 2 (extended meaning of “sale” etc.);
+- (b) section 3 (presumptions that food intended for human consumption);
+- (c) section 20 (offences due to fault of another person);
+- (d) section 21 (defence of due diligence), as it applies for the purposes of section 14 or 15;
+- (e) section 22 (defence of publication in the course of business);
+- (f) section 30(8) (which relates to documentary evidence);
+- (g) section 33 (obstruction etc. of officers);
+- (h) section 35(1) to (3) (punishment of offences) in so far as it relates to offences under section 33 as applied by sub-paragraph (g);
+- (i) section 36 (offences by bodies corporate); and
+- (j) section 36A (offences by Scottish partnerships).
+
+(2) Section 44 (protection of officers acting in good faith) of the Act shall apply for the purposes of these Regulations and, unless the context otherwise requires, any reference to the Act in that section shall be construed for the purposes of these Regulations as including a reference to the specified[^key-a511f05b2a718619c3b89a504e68fe66] provisions.
+
+## 8. Revocations[^key-d858cb6894fc036abda0c845b8219c5c]
+
+The following instruments are revoked–
+
+- (a) the Milk and Milk Products (Protection of Designations) (Scotland) Regulations 1990[^f00006];
+- (b) the Spreadable Fats (Marketing Standards) (Scotland) Regulations 1999[^f00007]; and
+- (c) the Spreadable Fats (Marketing Standards) (Scotland) Amendment Regulations 2007[^f00008].
+
+## 9. Transitional provisions[^key-af7c748ffef0d55f2f5fe3f2257c4170]
+
+(1) A product which was, or would have been, outside the scope of these Regulations by virtue of regulation 3, as it had effect immediately before 22 February 2022, is not subject to these Regulations until 1 October 2022.
+
+S ROBISON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+3rd June 2008
+
+(This note is not part of the Regulations)
+
+These Regulations, which extend to Scotland only, provide for the execution and enforcement of certain provisions of Council Regulation [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) (“the Council Regulation”).
+
+The Council Regulation repeals a number of other Community instruments and re-enacts their provisions without amendment. These Regulations provide for the enforcement of provisions formerly contained in two of the repealed Community instruments and formerly enforced in two separate statutory instruments. Those statutory instruments are now revoked (regulation 8).
+
+The provisions of the Council Regulation include:
+
+- (a) the requirement that milk and milk products marketed for human consumption must comply with certain specifications as to names and composition (Article 114(1) and Annex XII); and
+- (b) the requirement that certain spreadable fats intended for human consumption must comply with specifications relating to their sales description, labelling and presentation, and use of terminology (Article 115 and Annex XV).
+
+The provisions contained in the Council Regulation as regards spreadable fats are supplemented by Commission Regulation [(EC) No. 445/2007](https://www.legislation.gov.uk/european/regulation/2007/0445).
+
+These Regulations also–
+
+- (a) provide an exemption for spreadable fats imported from an EEA State other than a Member State (regulation 3(1));
+- (b) specify the required levels for certain vitamins in margarine (regulation 4), subject to an exemption for margarines brought into Scotland from elsewhere in the EEA or the UK that do not comply with national rules (regulation 3(2));
+- (c) designate the authorities responsible for enforcement of these Regulations and the Community Regulations mentioned above (regulation 5);
+- (d) create a summary offence of failing to comply with the requirements of these Regulations or the relevant Community provisions (regulation 6); and
+- (e) apply certain provisions of the Food Safety Act 1990 for the purposes of these Regulations (regulation 7).
+
+No regulatory impact assessment has been prepared in relation to these Regulations as they have no impact on the cost of business.
+
+## Annotations
+
+[^f00001]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). Section 1(1) and (2) (definition of “food”) was substituted by the Food Safety Act 1990 (Amendment) Regulations 2004 (S.I. [2004/2990](https://www.legislation.gov.uk/uksi/2004/2990)); section 6(4) was amended by paragraph 6 of Schedule 9 to the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40); sections 16(1), 17(2) and 48(1) were amended by paragraph 8 of Schedule 5 to the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28) (“the 1999 Act”); section 26(3) was amended by the 1999 Act, Schedule 6: amendments made by Schedule 5 to the 1999 Act which extend to Scotland shall be taken as pre commencement enactments for the purposes of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”) by virtue of section 40(2) of the 1999 Act. The functions of the Secretary of State, in so far as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not so transferred, and insofar as relating to food (including drink) including the primary production of food those functions were transferred to the Scottish Ministers by the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. [2005/849](https://www.legislation.gov.uk/uksi/2005/849)).
+
+[^f00002]: Footnote: Section 48(4A) was inserted by section 40(1) of and Schedule 5, paragraph 21 to the 1999 Act.
+
+[^f00003]: Footnote: O.J. No. L 31, 1.2.02, p.1 as amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council O.J. No. L 245, 29.9.03, Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) O.J. No. L 100, 8.4.06, p.3 and Commission Regulation [(EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) O.J. No. L 60, 5.3.08, p.17.
+
+[^key-ae4838b278f9f599b48d7cb81b4c52e3]: Commencement: Reg. 1 in force at 1.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/1/1)
+
+[^key-cd5f2de623209057377148cd453c6bd9]: Commencement: Reg. 2 in force at 1.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/1/1)
+
+[^key-52bdcadc2a075f52ca27668f16ab8484]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/2/1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/17/2)
+
+[^key-6e67cca01808635272d52e611114a4eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/2/1) substituted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [10(2)](https://www.legislation.gov.uk/ssi/2019/33/regulation/10/2)
+
+[^f00004]: Footnote: O.J. No. L 106, 24.4.07, p.24.
+
+[^key-c978dedd7160bb6c74a16d68ef70b88b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/2/1) omitted (31.12.2020) by virtue of [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/53/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00005]: Footnote: O.J. No. L 299, 16.11.07, p.1, to which there are amendments not relevant to this instrument.
+
+[^key-6dedbf9163a7637f682cd5f67d541101]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/2/1) inserted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/53/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4327ef08f6c32c0714b7d3c743bbdb2d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2008/216/regulation/3) omitted (22.2.2022) by virtue of [The Food (Withdrawal of Recognition) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/477)](https://www.legislation.gov.uk/ssi/2021/477), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/477/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2021/477/regulation/4/2)
+
+[^key-83dcec5a97be4a484995efe404881a98]: Commencement: Reg. 3 in force at 1.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/1/1)
+
+[^key-ce118ed7a03d37f2b797bf9966ea4531]: Commencement: Reg. 4 in force at 1.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/1/1)
+
+[^key-6d8fc60e5695978c2e8044dc55cd6c98]: Commencement: Reg. 5 in force at 1.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/1/1)
+
+[^key-573ae521ad15dde2913e3c30d56df02a]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2008/216/regulation/5) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2019/53/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5dd15cd99cbd7c70a64f4e407b86e405]: Commencement: Reg. 6 in force at 1.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/1/1)
+
+[^key-757c9c67014d1ca8a007c79acafa3209]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/ssi/2008/216/regulation/6/1/b) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2019/53/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-204e8f1b1010a6e7c44087950a4407fc]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/ssi/2008/216/regulation/6/2) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2019/53/regulation/4/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d77a5caf5321744a2a11d5ae81e54458]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/ssi/2008/216/regulation/6/2/a) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [17(3)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/17/3/a)
+
+[^key-821d101006fd25b7c319884d42e9643f]: Textual amendment: [Reg. 6(2)(b)(i)](https://www.legislation.gov.uk/ssi/2008/216/regulation/6/2/b/i) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/17/3/b)
+
+[^key-438dc847394c170197fd4c7ba9b1d9c6]: Textual amendment: [Reg. 6(2)(bc)](https://www.legislation.gov.uk/ssi/2008/216/regulation/6/2/bc) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [17(3)(c)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/17/3/c)
+
+[^key-092fb63be104939824385714aedd509c]: Commencement: Reg. 7 in force at 1.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/1/1)
+
+[^key-a511f05b2a718619c3b89a504e68fe66]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/ssi/2008/216/regulation/7/2) substituted (31.12.2020) by [The Food Composition, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/53)](https://www.legislation.gov.uk/ssi/2019/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/53/regulation/1/1), [4(5)](https://www.legislation.gov.uk/ssi/2019/53/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d858cb6894fc036abda0c845b8219c5c]: Commencement: Reg. 8 in force at 1.7.2008, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/216/regulation/1/1)
+
+[^f00006]: Footnote: S.I. [1990/816](https://www.legislation.gov.uk/uksi/1990/816), as amended by S.I. [1996/1499](https://www.legislation.gov.uk/uksi/1996/1499).
+
+[^f00007]: Footnote: [S.S.I. 1999/34](https://www.legislation.gov.uk/ssi/1999/34), as amended by [S.S.I. 2005/616](https://www.legislation.gov.uk/ssi/2005/616) and [2007/303](https://www.legislation.gov.uk/ssi/2007/303).
+
+[^f00008]: Footnote: [S.S.I. 2007/303](https://www.legislation.gov.uk/ssi/2007/303).
+
+[^key-af7c748ffef0d55f2f5fe3f2257c4170]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2008/216/regulation/9) inserted (22.2.2022) by [The Food (Withdrawal of Recognition) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/477)](https://www.legislation.gov.uk/ssi/2021/477), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/477/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2021/477/regulation/4/3)

@@ -1,0 +1,250 @@
+---
+title: The Plastic Kitchenware (Conditions on Imports from China) (Scotland) Regulations 2011
+id: ssi/2011/282
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-06-23'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/282
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/282/pdfs/ssien_20110282_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/282/pdfs/ssi_20110282_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/282/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Plastic Kitchenware (Conditions on Imports from China) (Scotland) Regulations 2011
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 282
+
+Food
+
+The Plastic Kitchenware (Conditions on Imports from China) (Scotland) Regulations 2011
+
+Made
+
+23rd June 2011
+
+Laid before the Scottish Parliament
+
+27th June 2011
+
+Coming into force
+
+1st July 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 16(2), 17(2), 26(1)(a) and (3) and 48(1) of the Food Safety Act 1990 [^c20906251], section 2(2) of the European Communities Act 1972 [^c20906261] and all other powers enabling them to do so.
+
+In accordance with section 48(4A) of the Food Safety Act 1990, the Scottish Ministers have had regard to relevant advice given by the Food Standards Agency [^c20906271].
+
+There has been consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c20906281].
+
+## 1. Citation, extent and commencement
+
+These Regulations may be cited as the Plastic Kitchenware (Conditions on Imports from China) (Scotland) Regulations 2011, extend to Scotland only and come into force on 1st July 2011.
+
+## 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Food Safety Act 1990;
+- “**the Agency**” means the Food Standards Scotland[^key-d95e0d6df7d2bc74cbbd5d53723fd87d];
+- “**the Commission Regulation**” means Commission Regulation (EU) No. 284/2011 laying down specific conditions and detailed procedures for the import of polyamide and melamine plastic kitchenware originating in or consigned from the People's Republic of China and Hong Kong Special Administrative Region, China [^c20906291];
+- “[^key-589a63db25f30680a750dc6415af7691]**Regulation 2017/625**” means Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/58), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/74), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/43), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eud/1992/0438);
+- “**relevant product**” means plastic kitchenware originating in or consigned from the People's Republic of China and Hong Kong Special Administrative Region, China.
+
+(2) Unless the context otherwise requires, any expression used in these Regulations and the Commission Regulation has the same meaning in these Regulations as it bears in the Commission Regulation and any reference in these Regulations to a numbered Article is a reference to the Article so numbered in the Commission Regulation.
+
+## 3. Breach of conditions on import of plastic kitchenware from China
+
+(1) No person may place on the market any relevant product that has been imported into the United Kingdom[^key-ee904c54675d0264150bcd5df073aed9] other than in compliance with the requirements of Article 3(1), (2) and (3) (import conditions).
+
+(2) No person may place on the market any relevant product until—
+
+- (a) the checks specified in paragraph 1(a) and, as the case may be, paragraph 1(b) of Article 6 (controls at the first point of introduction) have been completed; and
+- (b) the food authority has issued a declaration in accordance with Article 3(4) indicating that the relevant product conforms and is thus acceptable for release into free circulation.
+
+## 4. Offences and penalties
+
+Any person who fails to comply with regulation 3(1) or (2) commits an offence and is liable—
+
+- (a) on summary conviction, to a fine not exceeding the statutory maximum; or
+- (b) on conviction on indictment, to a fine.
+
+## 5. Competent authorities
+
+(1) The competent authority for the purposes of Articles 3(1) and (4), 4, 6(1), 7 and 9 is each food authority in its area.
+
+(2) The competent authority for the purpose of Article 6(2) is the Agency.
+
+## 6. Execution and enforcement
+
+(1) It is the duty of each food authority in its area to execute and enforce the Commission Regulation and these Regulations.
+
+(2) Each food authority must—
+
+- (a) immediately inform the Agency of the results of any laboratory analysis which it has caused to be carried out under Article 6(1) if the results of that analysis indicate non-compliance; and
+- (b) give the Agency such information and assistance as it may reasonably request in connection with the execution and enforcement of these Regulations.
+
+(3) The Commissioners for Her Majesty's Revenue and Customs are to carry out the functions given to customs authorities under Article 8.
+
+## 7. Expenses arising from official controls
+
+(1) Expenses charged pursuant to Article 80 of Regulation 2017/625[^key-abfd8d4261ea46074ad4b6675d0ed1c8] by a food authority to an importer in connection with the checks mentioned in Article 6(1) are payable by the importer on the written demand of the food authority.
+
+(2) Where a food authority identifies non-compliance—
+
+- (a) with the requirements of Article 3(1), (2) or (3) or Article 4; or
+- (b) following the checks mentioned in Article 6(1)(b),
+
+expenses charged pursuant to Article 138(4) of Regulation 2017/625[^key-8562958573c0dce70aadd285bbb5bdf7] by a food authority to an importer are payable by the importer on the written demand of the food authority.
+
+## 8. Notices and actions in the case of non-compliance
+
+(1) If an importer presents a consignment of relevant product for import into Scotland without submitting a declaration and accompanying laboratory report in accordance with the requirements of Article 3(1), (2) and (3), the food authority may by written notice require the importer to submit such a declaration and laboratory report within 14 days of the date of service of the notice.
+
+(2) If the checks provided for in Article 6(1) indicate that—
+
+- (a) where notice has been served under paragraph (1), the declaration specified in Article 3(1) together with the laboratory report specified in Article 3(3) has not been submitted by the date specified in the notice;
+- (b) where notice has not been served under paragraph (1), the declaration specified in Article 3(1) together with the laboratory report specified in Article 3(3) has not been submitted;
+- (c) a declaration or a laboratory report has been submitted that does not comply with the requirements of Article 3(1), (2) and (3); or
+- (d) the relevant product that is the subject of the checks—
+  - (i) fails an identity check; or
+  - (ii) does not meet the requirements of Commission Regulation (EU) No. 10/2011 on plastic materials and articles intended to come into contact with food [^c20906311],
+
+the food authority must take the steps set out in paragraph (3).
+
+(3) The food authority must, by written notice—
+
+- (a) require the importer within 60 days of the date of service of the notice—
+  - (i) to re-dispatch the consignment outside the United Kingdom[^key-86703f18f4495bd8b5ef0e7b4d300d21];
+  - (ii) in the case of polyamide kitchenware, to carry out shredding and melting and form the resulting product into articles for purposes other than food contact; or
+  - (iii) at the importer's expense to destroy the consignment under official control; and
+- (b) inform the importer that if the requirements of sub-paragraph (a) are not complied with the authority may in accordance with Article 138(2) and Article 138(4) of Regulation 2017/625[^key-4f225fcf753b542359babba13596c9ce] arrange for the destruction of the consignment and recover the costs of storage and destruction from the importer.
+
+(4) Any notice under paragraph (1) or (3) may be served on the importer or the importer's representative.
+
+## 9. Rights of appeal
+
+(1) Any person who is aggrieved by a decision of a food authority to serve a notice under regulation 8(3) may appeal to the sheriff.
+
+(2) An appeal to the sheriff under paragraph (1) is to be made by way of summary application.
+
+(3) The period within which an appeal under paragraph (1) may be brought is one month from the date on which the notice was served on the person desiring to appeal.
+
+(4) Where on an appeal under paragraph (1), the sheriff determines that the decision of the food authority is incorrect, the authority must give effect to the determination of the court.
+
+(5) A person who is aggrieved by the sheriff's dismissal of an appeal under paragraph (1) may appeal to the Court of Session.
+
+(6) Where an appeal has been brought under paragraph (1) within the period specified in paragraph (3), the effect of a notice served under regulation 8(3) is suspended pending the final determination of the appeal.
+
+## 10. Border control posts[^key-b2089865803c288859cd7d6e2b7e71bf]
+
+(A1)[^key-7266c570d8fca33569ec83b75667b84a] A border control post in relation to relevant products may be designated by the Agency in accordance with Article 59 of Regulation 2017/625 for the purpose of the performance of official controls as specified in Article 47(1) of that Regulation.
+
+(1) Where the Agency is satisfied that the continued operation of a border control post , in relation to relevant products,[^key-da2c2475be1c5a26928c8cff121948d0] designated under Article 59 of Regulation 2017/625 presents a serious risk to public health, it may suspend the designation of the border control post either in full or in part by the service on the operator of the border control post of a written notice to that effect in accordance with Article 63 of Regulation 2017/625.
+
+(2) Upon service of a notice under paragraph (1), the border control post , in relation to relevant products,[^key-9427f347737144c580918622063eaf12] ceases to be a designated border control post under Article 59 of Regulation 2017/625 to the extent so specified in that notice until it is again so designated.
+
+## 11. Application of various sections of the Food Safety Act 1990
+
+(1) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations—
+
+- (a) section 20 (offences due to fault of another person);
+- (b) section 21 (defence of due diligence) [^c20906321] with the modification that—
+  - (i) subsections (2) to (4) apply in relation to an offence of contravening regulation 3 as they apply in relation to an offence under section 14 or 15; and
+  - (ii) in subsection (4) the references to “sale” are deemed to include references to “placing on the market”;
+- (c) section 30(8) (which relates to documentary evidence);
+- (d) section 35(1) (punishment of offences), in so far as it relates to offences under section 33(1) as applied by paragraph (3)(a);
+- (e) section 35(2) and (3) [^c20906331], in so far as it relates to offences under section 33(2) as applied by paragraph (3)(b);
+- (f) section 36 (offences by bodies corporate); and
+- (g) section 36A (offences by Scottish partnerships) [^c20906341].
+
+(2) In the application of section 32 of the Act (powers of entry) for the purposes of these Regulations, the references in subsection (1) to the Act are to be construed as including references to the Commission Regulation.
+
+(3) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act is to be construed as including a reference to the Commission Regulation and these Regulations—
+
+- (a) section 33(1) (obstruction etc. of officers);
+- (b) section 33(2), with the modification that the reference to “any such requirement as is mentioned in subsection (1)(b) above” is deemed to be a reference to any such requirement as is mentioned in that subsection as applied by sub-paragraph (a); and
+- (c) section 44 (protection of officers acting in good faith).
+
+(4) Section 34 of the Act (time limit for prosecutions) applies to offences under regulation 4 as it applies to offences punishable under section 35(2) of the Act.
+
+MICHAEL MATHESON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations provide for the execution and enforcement in Scotland of Commission Regulation (EU) No. 284/2011 laying down specific conditions and detailed procedures for the import of polyamide and melamine plastic kitchenware originating in or consigned from the People's Republic of China and Hong Kong Special Administrative Region, China (O.J. L 77, 23.3.2011, p.25) (“**the Commission Regulation**”).
+
+These Regulations—
+
+- (a) prohibit the placing on the market of polyamide and melamine plastic kitchenware from China and Hong Kong that does not comply with the conditions or has not undergone the import checks and certification specified in the Commission Regulation (regulation 3);
+- (b) make it an offence to breach any prohibition set out in regulation 3 (regulation 4);
+- (c) designate the competent authorities for the purposes of certain provisions of the Commission Regulation (regulation 5);
+- (d) provide that it is the duty of local food authorities to execute and enforce the Commission Regulation and to inform the Food Standards Agency where laboratory analysis of imports of plastic kitchenware indicates non-compliance with that Regulation (regulation 6);
+- (e) provide that expenses incurred by food authorities in carrying out the official controls required by the Commission Regulation should be recovered from importers (regulation 7);
+- (f) specify the measures to be taken by a food authority where a consignment is not accompanied by the required documentation or is otherwise found to be non-compliant (regulation 8);
+- (g) provide for a right of appeal by an importer against the decision of a food authority to take measures under regulation 8 (regulation 9);
+- (h) provide for the suspension of designated first points of introduction (regulation 10); and
+- (i) apply with modifications specified provisions of the Food Safety Act 1990 for the purposes of these Regulations and the Commission Regulation (regulation 11).
+
+A Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Food Standards Agency (Scotland), 6th Floor, St Magnus House, 25 Guild Street, Aberdeen AB11 6NJ and online at www.legislation.gov.uk.
+
+## Annotations
+
+[^c20906251]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16). Section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Sections 16(2), 17(2) and 48(1) were amended by paragraph 8 of Schedule 5 to the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28). Section 17(2) was also amended by paragraph 12 of Schedule 5 to the 1999 Act. Section 26(3) was amended by Schedule 6 to the 1999 Act. Section 48(4) is disapplied in respect of these Regulations by virtue of section 48(4C) which was inserted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). By virtue of section 40(2) of the 1999 Act, amendments made by Schedule 5 to that Act are to be taken as pre-commencement enactments for the purposes of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not transferred, and in so far as relating to food (including drink) including the primary production of food, relevant functions were transferred to the Scottish Ministers by the [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849).
+
+[^c20906261]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by paragraph 15(3) of Schedule 8 to the 1998 Act, section 27(1) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). The functions conferred on the Minister of the Crown under section 2(2), in so far as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not transferred, and in so far as relating to food (including drink) including the primary production of food, relevant functions were transferred to the Scottish Ministers by the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005.
+
+[^c20906271]: Marginal citation: [Section 48(4A)](https://www.legislation.gov.uk/ssi/2011/282/section/48/4A) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
+
+[^c20906281]: Marginal citation: O.J. L 31, 1.2.2002, p.1. That Regulation was last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (O.J. L 188, 18.7.2009, p.14).
+
+[^key-d95e0d6df7d2bc74cbbd5d53723fd87d]: Textual amendment: Words in reg. 2(1) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 29](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/29)
+
+[^c20906291]: Marginal citation: O.J. L 77, 23.3.2011, p.25.
+
+[^key-589a63db25f30680a750dc6415af7691]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2011/282/regulation/2/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2019/407/regulation/9/2)
+
+[^key-ee904c54675d0264150bcd5df073aed9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2011/282/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [9(2)](https://www.legislation.gov.uk/ssi/2019/52/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-abfd8d4261ea46074ad4b6675d0ed1c8]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2011/282/regulation/7/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/ssi/2019/407/regulation/9/3/a)
+
+[^key-8562958573c0dce70aadd285bbb5bdf7]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/ssi/2011/282/regulation/7/2) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/ssi/2019/407/regulation/9/3/b)
+
+[^c20906311]: Marginal citation: O.J. L 12, 15.1.2011, p.1.
+
+[^key-86703f18f4495bd8b5ef0e7b4d300d21]: Textual amendment: Words in [reg. 8(3)(a)(i)](https://www.legislation.gov.uk/ssi/2011/282/regulation/8/3/a/i) substituted (31.12.2020) by [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [9(3)](https://www.legislation.gov.uk/ssi/2019/52/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-4f225fcf753b542359babba13596c9ce]: Textual amendment: Words in [reg. 8(3)(b)](https://www.legislation.gov.uk/ssi/2011/282/regulation/8/3/b) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/407)](https://www.legislation.gov.uk/ssi/2019/407), [regs. 1](https://www.legislation.gov.uk/ssi/2019/407/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2019/407/regulation/9/4)
+
+[^key-b2089865803c288859cd7d6e2b7e71bf]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/282/regulation/10) heading substituted (30.12.2020) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/398)](https://www.legislation.gov.uk/ssi/2020/398), [regs. 1](https://www.legislation.gov.uk/ssi/2020/398/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2020/398/regulation/5/a)
+
+[^key-7266c570d8fca33569ec83b75667b84a]: Textual amendment: [Reg. 10(A1)](https://www.legislation.gov.uk/ssi/2011/282/regulation/10/A1) inserted (30.12.2020) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/398)](https://www.legislation.gov.uk/ssi/2020/398), [regs. 1](https://www.legislation.gov.uk/ssi/2020/398/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/398/regulation/5/b)
+
+[^key-da2c2475be1c5a26928c8cff121948d0]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2011/282/regulation/10/1) inserted (30.12.2020) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/398)](https://www.legislation.gov.uk/ssi/2020/398), [regs. 1](https://www.legislation.gov.uk/ssi/2020/398/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2020/398/regulation/5/c)
+
+[^key-9427f347737144c580918622063eaf12]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/ssi/2011/282/regulation/10/2) inserted (30.12.2020) by [The Official Feed and Food Controls (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/398)](https://www.legislation.gov.uk/ssi/2020/398), [regs. 1](https://www.legislation.gov.uk/ssi/2020/398/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2020/398/regulation/5/c)
+
+[^c20906321]: Marginal citation: [Section 21](https://www.legislation.gov.uk/ssi/2011/282/section/21) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c20906331]: Marginal citation: [Section 35(3)](https://www.legislation.gov.uk/ssi/2011/282/section/35/3) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c20906341]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/ssi/2011/282/section/36A) was inserted by paragraph 16 of Schedule 5 to the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).

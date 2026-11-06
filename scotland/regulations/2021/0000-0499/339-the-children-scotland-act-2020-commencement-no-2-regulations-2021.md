@@ -1,0 +1,98 @@
+---
+title: The Children (Scotland) Act 2020 (Commencement No. 2) Regulations 2021
+id: ssi/2021/339
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-09-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2021/339
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/339/pdfs/ssipn_20210339_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/339/pdfs/ssi_20210339_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/339/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Children (Scotland) Act 2020 (Commencement No. 2) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 339 (C. 24)
+
+Children And Young Persons
+
+The Children (Scotland) Act 2020 (Commencement No. 2) Regulations 2021
+
+Made
+
+23rd September 2021
+
+Laid before the Scottish Parliament
+
+27th September 2021
+
+Coming into force
+
+25th October 2021
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 34 of the Children (Scotland) Act 2020[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Children (Scotland) Act 2020 (Commencement No. 2) Regulations 2021 and come into force on 25 October 2021.
+
+## 2. Appointed day
+
+25 October 2021 is the day appointed for the coming into force of the following provisions of the Children (Scotland) Act 2020—
+
+- (a) section 7(3) and (4) (register of solicitors for section 22B of the Vulnerable Witnesses (Scotland) Act 2004),
+- (b) section 9 (establishment of register for child welfare reporters) for the purpose of making regulations,
+- (c) section 10(1) and (3) (regulation of provision of contact services), and
+- (d) section 17(1) and (3) (curators ad litem) for the purpose of making regulations.
+
+ASH DENHAM
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+23rd September 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Children (Scotland) Act 2020 (“the Act”) received Royal Assent on 1 October 2020. Sections 32, 33 and 35 came into force the following day.
+
+These Regulations bring into force the following provisions of the Act on 25 October 2021 for the purposes mentioned below.
+
+Section 7(3) and (4) (register of solicitors for section 22B of the Vulnerable Witnesses (Scotland) Act 2004) are commenced for all purposes. These are technical provisions about the making of regulations under section 7(2) (which is not yet commenced). Section 22B of the Vulnerable Witnesses (Scotland) Act 2004 is inserted by section 4(5) of the Act (which is not yet commenced).
+
+Section 9 (establishment of register for child welfare reporters) and section 17(1) and (3) (curators ad litem) are commenced only for the purpose of making regulations.
+
+Section 10(1) and (3) (regulation of provision of contact services) are commenced for all purposes, but they only insert into the Children (Scotland) Act 1995 a new section 101C which itself consists of a power to make regulations about the provision of contact services.
+
+NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+
+(This note is not part of the Regulations)
+
+| Provision | Date of Commencement | S.S.I. No. |
+| --- | --- | --- |
+| Section 13 | 26 July 2021 | [2020/412](https://www.legislation.gov.uk/ssi/2020/412) |
+| Section 14 | 26 July 2021 | [2020/412](https://www.legislation.gov.uk/ssi/2020/412) |
+| Section 15 | 17 January 2021 | [2020/412](https://www.legislation.gov.uk/ssi/2020/412) |
+| Section 23 | 17 January 2021 | [2020/412](https://www.legislation.gov.uk/ssi/2020/412) |
+| Section 24 | 17 January 2021 | [2020/412](https://www.legislation.gov.uk/ssi/2020/412) |
+| Section 25 | 26 July 2021 | [2020/412](https://www.legislation.gov.uk/ssi/2020/412) |
+| Section 26 | 26 July 2021 | [2020/412](https://www.legislation.gov.uk/ssi/2020/412) |
+
+## Annotations
+
+[^f00001]: Footnote: [2020 asp 16](https://www.legislation.gov.uk/asp/2020/16).

@@ -1,0 +1,105 @@
+---
+title: The Age of Criminal Responsibility (Scotland) Act 2019 (Independent Review of Disclosure of Information) Regulations 2020
+id: ssi/2020/305
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2020-09-29'
+text_date: '2025-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2020/305
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/305/pdfs/ssipn_20200305_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/305/pdfs/ssi_20200305_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/305/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Age of Criminal Responsibility (Scotland) Act 2019 (Independent Review of Disclosure of Information) Regulations 2020
+
+> Text as at 2025-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2020 No. 305
+
+Children And Young Persons
+
+The Age of Criminal Responsibility (Scotland) Act 2019 (Independent Review of Disclosure of Information) Regulations 2020
+
+Made
+
+29th September 2020
+
+Laid before the Scottish Parliament
+
+2nd October 2020
+
+Coming into force
+
+30th November 2020
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by section 23(1) of the Age of Criminal Responsibility (Scotland) Act 2019[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation[^key-b9a8f577bf93375a6629612fdab3e245]
+
+(1) These Regulations may be cited as the Age of Criminal Responsibility (Scotland) Act 2019 (Independent Review of Disclosure of Information) Regulations 2020 and come into force on 30 November 2020.
+
+(2) In these Regulations, “the Act” means the Age of Criminal Responsibility (Scotland) Act 2019.
+
+## 2. Referral of information by the chief constable to the independent reviewer[^key-05d2857dae2a5ae512263ec54349e399]
+
+(1) This regulation applies where the chief constable is referring information falling within section 14(1) of the Act to the independent reviewer.
+
+(2) The chief constable must, in accordance with section 14(2) of the Act, refer that information to the independent reviewer before the end of the period of 14 days beginning with the day on which the chief constable received the request from the Scottish Ministers in relation to that information.
+
+## 3. Notifications to, and representations by, an applicant or scheme member[^key-0368478902457aff53a1dfe93e69dcc9]
+
+(1) This regulation applies where the independent reviewer is to give notice that information has been received for review under section 16(1) of the Act.
+
+(2) The independent reviewer must, in accordance with section 16(2) and (3) of the Act, notify the applicant or scheme member before the end of the period of 3 days beginning with the day on which the information was received for review.
+
+(3) Subject to paragraph (4), the applicant or scheme member may make representations to the independent reviewer about whether information ought to be included in the Level 2 disclosure[^key-639f3210c5d3552a17f0ee04bce68acd] before the end of the period of 28 days beginning with the day on which the notice under section 16(1) of the Act was received.
+
+(4) The independent reviewer may, on cause shown, consider representations made by the applicant or scheme member after the period of 28 days mentioned in paragraph (3).
+
+MAREE TODD
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+29th September 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made under section 23(1) of the Age of Criminal Responsibility (Scotland) Act 2019 (“the Act”).
+
+The Act provides that information which relates to a time when a person was under the age of 12 can only be disclosed on an enhanced criminal record or PVG scheme record if the independent reviewer has determined that the information ought to be included. An enhanced criminal record certificate is defined in section 113B of the Police Act 1997 and a PVG scheme record is defined in section 48 of the Protection of Vulnerable Groups (Scotland) Act 2007.
+
+Regulation 2 makes provision in relation to the timescale within which the chief constable must refer information to the independent reviewer under section 14(2) of the Act. Section 14(1) of the Act provides that if the chief constable has, following a request from the Scottish Ministers, identified information that relates to a time when a person was under 12 years of age and the chief constable is of the opinion that the information ought to be included in the enhanced criminal record or PVG scheme record, the chief constable must send that information, along with other information, to the independent reviewer. Regulation 2 provides that the chief constable must send this information to the independent reviewer before the end of the period of 14 days beginning with the day on which the chief constable received the request from the Scottish Ministers.
+
+Regulation 3 makes provision regarding the timescale for notifications to, and representations by, an applicant or scheme member. Section 16(1) of the Act provides that, upon receiving information for review, the independent reviewer must notify the applicant or scheme member to whom the information relates that the information has been received for review. Under section 16(2), that notice must include, amongst other things, details of the information relating to the applicant or scheme member and details of how the person can make representations about whether the information should be included in the certificate or record. Regulation 3(2) provides that this notification must be given to the applicant or scheme member before the end of the period of 3 days beginning with the day on which the independent reviewer received the information. Regulation 3(3) provides that the applicant or scheme member may make representations to the independent reviewer before the end of the period of 28 days beginning with the day on which the applicant or scheme member received notice under section 16 of the Act. However, by virtue of regulation 3(4), the independent reviewer may still consider representations made after the period of 28 days has ended on cause shown.
+
+A business and regulatory impact assessment has not been produced for this instrument as it has no impact on the costs of business, charities or the voluntary sector.
+
+## Annotations
+
+[^f00001]: Footnote: [2019 asp 7](https://www.legislation.gov.uk/asp/2019/7).
+
+[^key-b9a8f577bf93375a6629612fdab3e245]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/305/regulation/1) in force at 30.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/305/regulation/1/1)
+
+[^key-05d2857dae2a5ae512263ec54349e399]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/305/regulation/2) in force at 30.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/305/regulation/1/1)
+
+[^key-0368478902457aff53a1dfe93e69dcc9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/305/regulation/3) in force at 30.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/305/regulation/1/1)
+
+[^key-639f3210c5d3552a17f0ee04bce68acd]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2020/305/regulation/3/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 20](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/20) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))

@@ -1,0 +1,839 @@
+---
+title: 'The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013'
+id: ssi/2013/323
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2013-11-12'
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2013/323
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2013/323/pdfs/ssipn_20130323_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/323/pdfs/ssi_20130323_en.pdf
+- http://www.legislation.gov.uk/ssi/2013/323/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2013 No. 323
+
+Environmental Protection
+
+Water
+
+The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013
+
+Made
+
+12th November 2013
+
+Laid before the Scottish Parliament
+
+14th November 2013
+
+Coming into force
+
+22nd December 2013
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 5(5), 7, 8(5), 9(4) to (6), 10(2)(b), 19(1), 23(1) and 36(2) and (3) of the Water Environment and Water Services (Scotland) Act 2003 [^c21941741] (“**the Act**”) and section 2(2) of the European Communities Act 1972 [^c21941751] and all other powers enabling them to do so.
+
+In accordance with section 23(3) of the Act, the Scottish Ministers have consulted such persons as they think fit.
+
+## PART 1 — CITATION, COMMENCEMENT AND GENERAL INTERPRETATION
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013 and come into force on 22nd December 2013.
+
+### 2. Interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Water Environment and Water Services (Scotland) Act 2003;
+- “**artificial or heavily modified body of surface water**” means a body of surface water designated as artificial or heavily modified in accordance with regulation 4;
+- “[^key-01a7e15d641cd10e7740ae11f3bdef4a]**assimilated law**” has the meaning given by section 6(7) of the European Union (Withdrawal) Act 2018;
+- “**body of surface water**” has the meaning given in section 28 of the Act;
+- “**environmental objective**” means an objective set under section 9(1)(a)(i) of the Act;
+- “[^key-e16095d3be63eb25b02a1503fb8f4164]**the Groundwater Directive**” means Directive [2006/118/EC](https://www.legislation.gov.uk/eudr/2006/118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration, as amended by Commission Directive 2014/80/EU,
+- “[^key-f95050ee46a9008b1640faa138773f5d]**groundwater hazardous substance**” means a substance identified in accordance with regulation 24A,
+- “[^key-6490077770a0abfe3519e42d6a3a03c0]**pollutant** ” means any substance or heat liable to cause pollution to the water environment, including those listed in the schedule,
+- “[^key-08361ae1a604f3b2761385e8e87b9061]**the Priority Substances Directive**” means Directive [2008/105/EC](https://www.legislation.gov.uk/eudr/2008/105) of the European Parliament and of the Council on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives [82/176/EEC](https://www.legislation.gov.uk/eudr/1982/176), [83/513/EEC](https://www.legislation.gov.uk/eudr/1983/513), [84/156/EEC](https://www.legislation.gov.uk/eudr/1984/156), [84/491/EEC](https://www.legislation.gov.uk/eudr/1984/491), [86/280/EEC](https://www.legislation.gov.uk/eudr/1986/280) and amending Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council, as amended by Directive 2013/39/EU of the European Parliament and of the Council,
+- “**programme of measures**” means a programme prepared under section 9(1)(b) of the Act;
+- [^key-537d4cd852b0096d7f647894d6c5bdca]...
+- “**river basin district**” means an area designated as such by order under section 4(1) of the Act;
+- “**river basin management plan**” means such a plan approved by the Scottish Ministers under section 13 of the Act (including that section as applied by section 14(4));
+- “**SEPA**” means the Scottish Environment Protection Agency;
+- “[^key-db2b50fa81609a7e87f3b5dddca4ec31]**substance**” includes any chemical element and its compounds (including bacteria and other pathogens),
+- “**water environment**” has the meaning given in section 3 of the Act; and
+- “the Water Framework Directive” means[^key-cb59448fcad1fd144f9e13f7127d1f88] [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy as last amended by Commission Directive 2014/101/EU.
+
+(2) Unless the context otherwise requires, any other word or expression which is used in both these Regulations and the Water Framework Directive (and which is not otherwise defined in these Regulations or in Part 1 of the Act) has the meaning given in that Directive.
+
+(3)[^key-0f39639bd7836c927c389e5d58ad50e4] For the purposes of these Regulations—
+
+- (a) the Water Framework Directive is to be interpreted in accordance with Part 1 (the Directive) of schedule 5 (interpretation of Directives for the purposes of Part 1) of the Act,
+- (b) the Groundwater Directive is to be interpreted in accordance with Part 2 (the Groundwater Directive) of schedule 5 of the Act,
+- (c) the Priority Substances Directive is to be interpreted in accordance with Part 3 (the Priority Substances Directive) of schedule 5 of the Act.
+
+(4) For the purposes of paragraph (3), schedule 5 of the Act is to be read as if—
+
+- (a) references to “the Directive” are to “the Water Framework Directive”,
+- (b) references to “Part 1 of this Act” are to “these Regulations”.
+
+## PART 2 — RIVER BASIN MANAGEMENT PLANNING
+
+### 3. Setting of environmental objectives
+
+(1) The objectives set under section 9(1)(a)(i) (environmental objectives) of the Act must, subject to the application of regulations 5 to 10 and 17[^key-367bab8bf5074efb6340c5c06fbceb3f]—
+
+- (a) for surface water—
+  - (i) prevent deterioration of the status of each body of surface water;
+  - (ii) protect, enhance and restore each body of surface water (other than an artificial or heavily modified body of surface water) with the aim of achieving good surface water status by 22nd December 2015;
+  - (iii) protect and enhance each artificial or heavily modified body of surface water with the aim of achieving good ecological potential and good surface water chemical status by 22nd December 2015; and
+  - (iv) aim to progressively reduce pollution from priority substances and aim to cease or phase out emissions, discharges and losses of priority hazardous substances;
+- (b) for groundwater—
+  - (i) prevent the deterioration of the status of each body of groundwater;
+  - (ii) prevent or limit the input of pollutants into groundwater [^c21941791];
+  - (iii) enhance and restore each body of groundwater, and ensure a balance between abstraction and recharge of groundwater, with the aim of achieving good groundwater status by 22nd December 2015; and
+  - (iv) reverse any significant and sustained upward trend in the concentration of any pollutant resulting from the impact of human activity in order to progressively reduce pollution of groundwater; and
+- (c) in addition, for each area and body of water falling within section 7(4) (protected areas) of the Act, achieve compliance with any standards and objectives required by or under any assimilated[^key-561019a671f4cac560981e03b9003c75][^key-492e9d9525cde19be70b5306ca0676af] law described in that section by 22nd December 2015, unless otherwise specified in the assimilated[^key-efecdf7a0b7b86495962b4229fd57b84] law by virtue of which the area or body of water is protected.
+
+(2) Where two or more of the objectives set pursuant to paragraph (1) apply to the same body of water, to the extent that any of those objectives conflict, the most stringent is to apply.
+
+### 4. Designation as artificial or heavily modified bodies of surface water
+
+(1) SEPA may designate a body of surface water as artificial or heavily modified when—
+
+- (a) the changes to the hydromorphological characteristics of the body of surface water, which would be necessary for achieving good ecological status, would have significant adverse effects on—
+  - (i) the wider environment;
+  - (ii) navigation, including port facilities, or recreation;
+  - (iii) activities for the purposes of which water is stored, such as drinking water supply, power generation or irrigation;
+  - (iv) water regulation, flood protection, land drainage; or
+  - (v) other equally important sustainable human development activities; and
+- (b) the beneficial objectives served by the artificial or modified characteristics of the body of surface water cannot, for reasons of technical feasibility or disproportionate costs, be achieved by other means which are a significantly better environmental option.
+
+(2) Where SEPA designates a body of surface water as artificial or heavily modified, it must—
+
+- (a) mention the designation, and the reasons for it, in the river basin management plan for the river basin district within which that body is located (or the next update of it); and
+- (b) review the designation when reviewing and updating the river basin management plan.
+
+### 5. Environmental objectives: phased achievement
+
+The deadline by which an environmental objective set pursuant to regulation 3(1) must be achieved may be extended for the purposes of the phased achievement of the environmental objectives for a body of water (including the objectives for areas falling within section 7(4)(d) (areas designated in respect of water status) of the Act for the protection of habitats or species), if the following conditions are met—
+
+- (a) no further deterioration occurs in the status of the affected body of water;
+- (b) SEPA determines that all necessary improvements in the status of the body of water cannot reasonably be achieved within the timescales set out in regulation 3(1) for at least one of the following reasons—
+  - (i) the scale of improvements required can only be achieved in phases exceeding the timescale, for reasons of technical feasibility;
+  - (ii) completing the improvements within the timescale would be disproportionately expensive;
+  - (iii) natural conditions do not allow timely improvement in the status of the body of water;
+- (c) extensions are limited to a maximum of two updates of the first river basin management plan (except in cases where the natural conditions are such that the environmental objectives cannot be achieved within that period);
+- (d) the river basin management plan (or the next update of it) sets out—
+  - (i) the extension of the deadline, and explains the reasons for it;
+  - (ii) a summary of the measures to be applied to achieve the environmental objectives set pursuant to regulation 3(1) which are envisaged as necessary to bring the body of water progressively to the required status by the extended deadline; and
+  - (iii) the reasons for any significant delay in making these measures operational, and the expected timetable for their implementation; and
+- (e) a review of the implementation of the measures referred to in paragraph (d) and a summary of any additional measures is included in updates of the river basin management plan.
+
+### 6. Environmental objectives: human activity or natural condition
+
+Less stringent environmental objectives may be set under section 9(1)(a)(i) of the Act for a specific body of water instead of those required pursuant to regulation 3(1) when that body of water is so affected by human activity or its natural condition is such that the achievement of the environmental objectives required pursuant to regulation 3(1) would be infeasible or disproportionately expensive, and the following conditions are met—
+
+- (a) the environmental and socio-economic needs served by such human activity cannot be achieved by other means which are a significantly better environmental option not entailing disproportionate costs;
+- (b) where the specific body of water is a body of surface water, the highest ecological and chemical status possible is achieved, given impacts that could not reasonably have been avoided due to the nature of the human activity or pollution;
+- (c) where the specific body of water is a body of groundwater, the least possible changes to good groundwater status, given impacts that could not reasonably have been avoided due to the nature of the human activity or pollution;
+- (d) no further deterioration occurs in the status of the affected body of water; and
+- (e) the establishment of less stringent environmental objectives, and the reasons for it, are set out in the river basin management plan (or the next update of it) and those objectives are reviewed every 6 years.
+
+### 7. Environmental objectives: natural cause or force majeure
+
+For the purposes of these Regulations and Part 1 of the Act (in particular section 9(7)(a) (environmental objectives required to comply with Article 4 and 7 of the Water Framework Directive)), a temporary deterioration in the status of a body of water is not a breach of the environmental objectives set pursuant to regulation 3(1) if the deterioration is the result of circumstances of natural cause or force majeure which are exceptional or could not reasonably have been foreseen, or the result of circumstances due to accidents which could not reasonably have been foreseen, and the following conditions are met—
+
+- (a) all practicable steps are taken—
+  - (i) to prevent further deterioration in the status of the body of water; and
+  - (ii) so as not to compromise the achievement of the environmental objectives for any body of water not affected by the circumstances;
+- (b) the conditions under which circumstances that are exceptional or that could not reasonably have been foreseen may be declared, including the adoption of the appropriate factors, are stated in the river basin management plan (or the next update of it);
+- (c) the measures to be taken under such exceptional circumstances are included in the programme of measures to be applied to the body of water and will not compromise the recovery of the quality of that body of water once the circumstances are over;
+- (d) the effects of the circumstances that are exceptional or that could not reasonably have been foreseen are reviewed annually and, subject to the reasons set out in regulation 5(b) all practicable measures are taken with the aim of restoring the body of water to its status prior to the effects of the circumstances as soon as reasonably practicable; and
+- (e) a summary of the effects of the circumstances and of such measures taken or to be taken in accordance with paragraphs (a) and (d) are included in the next update of the river basin management plan.
+
+### 8. Environmental objectives: modifications to physical characteristics
+
+For the purposes of these Regulations and Part 1 of the Act (in particular section 9(7)(a)), a failure to achieve good groundwater status, good ecological status or, where relevant, good ecological potential, or to prevent deterioration in the status of a body of surface water or a body of groundwater is not a breach of the environmental objectives set pursuant to regulation 3(1) if the failure is the result of new modifications to the physical characteristics of the body of surface water or alterations to the level of the body of groundwater, and the following conditions are met—
+
+- (a) all practicable steps are taken to mitigate the adverse impact on the status of the body of water;
+- (b) the reasons for the modifications or alterations are of overriding public interest and/or the benefits to the environment and to society of achieving the environmental objectives are outweighed by the benefits of the new modifications or alterations to human health, to the maintenance of human safety, or to sustainable development;
+- (c) the beneficial objectives served by the modifications or alterations of the water body cannot for reasons of technical feasibility or disproportionate costs, be achieved by other means, which are a significantly better environmental option; and
+- (d) the reasons for the modifications or alterations are set out and explained in the river basin management plan (or the next update of it) and the environmental objectives are reviewed every 6 years.
+
+### 9. Environmental objectives: sustainable human development activities
+
+For the purposes of these Regulations and Part 1 of the Act (in particular section 9(7)(a)), a failure to prevent deterioration from high status to good status of a body of surface water is not a breach of the environmental objectives set pursuant to regulation 3(1) if the failure is the result of new sustainable human development activities, and the following conditions are met—
+
+- (a) all practicable steps are taken to mitigate the adverse impact on the status of the body of water;
+- (b) the activities are of overriding public interest and/or the benefits to the environment and to society of achieving the environmental objectives are outweighed by the benefits of the activities to human health, to the maintenance of human safety, or to sustainable development;
+- (c) the beneficial objectives served by those activities cannot for reasons of technical feasibility or disproportionate costs, be achieved by other means, which are a significantly better environmental option; and
+- (d) the nature of the activities are set out and explained in the river basin management plan (or the next update of it) and the environmental objectives are reviewed every 6 years.
+
+### 10. Environmental objectives: application of regulations 4 to 9
+
+Regulations 4 to 9 must not be applied in a way that—
+
+- (a) permanently excludes or compromises the achievement of the environmental objectives set in relation to any other body of water within the same river basin district; or
+- (b) is inconsistent with the implementation of any assimilated[^key-6b82849f43808117526e73c7338f22a9][^key-408bfea10a408b96de6d1e0dc0138041] law relating to the environment.
+
+### 11. Waters used for the abstraction of drinking water
+
+For each body of water identified under section 6(1) (bodies of water used for the abstraction of drinking water) of the Act, the programme of measures for the river basin district within which the body of water is located must ensure the necessary protection of the body of water with the aim of avoiding deterioration in the quality of that body of water in order to reduce the level of purification treatment required in the production of drinking water.
+
+### 12. Content of monitoring programme
+
+(1) Each monitoring programme prepared under section 8(2) (monitoring programme) of the Act must—
+
+- (a) enable a coherent and comprehensive overview of the status of the water environment within each river basin district;
+- (b) for surface water—
+  - (i) cover the volume and level or rate of flow to the extent relevant to ecological status (or, where relevant, ecological potential) and chemical status;
+  - (ii) cover the ecological status (or, in the case of an artificial or heavily modified body of water, ecological potential) and chemical status; and
+  - (iii) enable the classification of each body of surface water in accordance with Annex V to the Water Framework Directive[^key-a12787c928d30eb8ba54a6d254c65120];
+- (c) for groundwater—
+  - (i) cover monitoring of the chemical and quantitative status;
+  - (ii) enable a reliable assessment of the groundwater status, including assessment of the available groundwater resource; and
+  - (iii) enable the detection of any long-term anthropogenically induced upward trend in the concentration of any pollutant; and
+- (d) for protected areas (within the meaning of section 7(3) (protected areas) of the Act)—
+  - (i) cover any supplementary monitoring required by the legislation under which the area is protected; and
+  - (ii) provide for the monitoring of any body of water identified under section 6(1) of the Act which provides more than 100 m<sup>3</sup> per day of drinking water intended for human consumption.
+
+(2) SEPA must ensure that monitoring for purposes of any programme prepared under section 8(2) of the Act is carried out in accordance with Annex V to the Water Framework Directive.
+
+### 13. Preparation of programme of measures
+
+(1) Each programme of measures must include the following measures (as further specified and qualified by Article 11(3) of the Water Framework Directive) [^c21941801]—
+
+- (a) measures required under[^key-dd5746d0bab39d023dae65317081ed2b] assimilated[^key-58e84bd12b72769c7fb796275d8ae569] law for the protection of water;
+- (b) measures deemed appropriate for the purposes of regulation 15;
+- (c) measures to promote an efficient and sustainable water use to avoid compromising the achievement of the environmental objectives set pursuant to regulation 3(1);
+- (d) measures to meet the requirements of regulation 11 and those of Article 7(2) (waters used for the abstraction of drinking water) of the Water Framework Directive;
+- (e) controls over the abstraction of fresh surface water and groundwater, and impoundment of fresh surface water;
+- (f) controls over the artificial recharge or augmentation of any body of groundwater, including a requirement for prior authorisation;
+- (g) for point source discharges liable to cause pollution, a requirement for prior authorisation;
+- (h) for diffuse sources liable to cause pollution, measures to prevent or control the input of pollutants;
+- (i) for any other significant adverse impacts on the status of water identified under section 5 (characterisation) of the Act, measures to ensure that the hydromorphological conditions of each body of water is consistent with the achievement of the required ecological status or good ecological potential for any artificial or heavily modified body of surface water;
+- (j) a prohibition of direct discharges of pollutants into groundwater, except that the reinjection into the same aquifer of water used for geothermal purposes may be authorised and the following discharges may also be authorised (with conditions)—
+  - (i) injection of water containing only substances resulting from operations for exploration and extraction of hydrocarbons or mining activities, and injection of water for technical reasons, into geological formations—
+    - (aa) from which hydrocarbons or other substances have been extracted; or
+    - (bb) which, for natural reasons, are permanently unsuitable for other purposes;
+  - (ii) reinjection of pumped groundwater from mines and quarries or associated with the construction or maintenance of civil engineering works;
+  - (iii) injection of natural gas or liquefied petroleum gas for storage purposes into—
+    - (aa) geological formations which, for natural reasons, are permanently unsuitable for other purposes; or
+    - (bb) other geological formations where there is an overriding need for security of gas supply and the injection is such as to prevent any present or future danger of deterioration in the quality of any receiving groundwater;
+  - (iv) injection of carbon dioxide streams for storage purposes into geological formations which, for natural reasons, are permanently unsuitable for other purposes, provided that such injection is made in accordance with the[^key-f6b6dd167ec670662813e00a377bbd79] assimilated[^key-440de666645eb0a4998816dc3c02bf8d] law which implemented Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council on the geological storage of carbon dioxide [^c21941811] [^key-233ecae8f24bdb3ad702090e67843b54]...;
+  - (v) construction, civil engineering and building works and similar activities on or in the ground which come into contact with groundwater; and
+  - (vi) discharges of small quantities of substances for scientific purposes for characterisation, protection or remediation of a body of water limited to the amount strictly necessary for the purposes concerned,
+
+  provided such discharges do not compromise the achievement of the environmental objectives for that body of groundwater;
+- (k) measures to eliminate pollution of surface waters by priority substances and to progressively reduce pollution by other substances which would otherwise prevent the achievement of the environmental objectives for each body of surface water; and
+- (l) any measures required to prevent significant losses of pollutants from technical installations, and to prevent and/or to reduce the impact of accidental pollution incidents for example as a result of floods, including through systems to detect or give warning of such events including, in the case of accidents which could not reasonably have been foreseen, all appropriate measures to reduce the risk to aquatic ecosystems.
+
+(2) Each programme must also include, where necessary, any other measures designed and implemented with the aim of achieving the environmental objectives set pursuant to regulation 3(1).
+
+(3) Where monitoring or other data indicate that the environmental objectives set pursuant to regulation 3(1) for a body of water are unlikely to be achieved, SEPA must take steps to ensure that—
+
+- (a) the causes of the possible failure are investigated;
+- (b) any relevant permits and authorisations are examined and reviewed as appropriate;
+- (c) the monitoring programmes are reviewed and adjusted as appropriate; and
+- (d) any additional measures needed to achieve those objectives (subject to the application of regulations 5 to 10) are included in the programme of measures applying to that body of water.
+
+(4) Each measure in a programme of measures to be applied to achieve an environmental objective, must be implemented, so far as may be applicable, by—
+
+- (a) the Scottish Ministers in exercising their functions under the relevant enactments;
+- (b) SEPA in exercising its functions under the relevant enactments; and
+- (c) each responsible authority in exercising its designated functions.
+
+(4A)[^key-bae2b8271cee8be88734b44977f16bd5] In implementing any measure pursuant to paragraph (4), the Scottish Ministers, SEPA or a responsible authority, as the case may be, must—
+
+- (a) ensure that the application of measures taken pursuant to paragraph (1) does not lead directly or indirectly to increased pollution of surface waters;
+- (b) take all appropriate steps not to increase pollution of marine waters; and
+- (c) periodically review and, where necessary, update the controls, requirements or measures in paragraph (1)(e) to (i).
+
+(5) Each programme of measures, in so far as it comprises measures to achieve an environmental objective, must be reviewed and, if necessary, updated by 22nd December 2015 and every 6 years after that.
+
+(6) Where a programme of measures is updated under paragraph (5), any new or revised measure to achieve an environmental objective which is included in the updated programme must be implemented within 3 years of the date on which that measure was added or revised.
+
+### 14. Content of river basin management plans
+
+(1) In addition to the matters specified in Part 1 of schedule 1 to the Act, the river basin management plan (or the next update of it) must include—
+
+- (a) in the summary of the characterisation required by paragraph 1 of the schedule—
+  - (i) mapping of the location and boundaries of each body of surface water;
+  - (ii) mapping of the ecoregions and surface water body types within the river basin district;
+  - (iii) identification of reference conditions for the surface water body types;
+  - (iv) the reasons for the exclusion of any quality element in a surface water type from the assessment of the ecological status for that surface water type;
+  - (v) mapping of the location and boundaries of each body of groundwater; and
+  - (vi) a summary of the economic analysis of water use carried out in accordance with section 5(2)(c) (characterisation of river basin districts) of the Act;
+- (b) in the summary of significant pressures and impact of human activity on the status of the water environment required by paragraph 2 of the schedule—
+  - (i) an estimation of point source pollution;
+  - (ii) an estimation of diffuse source pollution (including a summary of land use);
+  - (iii) an estimation of pressures on the quantitative status of the water environment including abstractions; and
+  - (iv) an analysis of other impacts of human activity on the status of the water environment;
+- (c) along with the summary for protected areas required by paragraph 3 of the schedule, a map or maps that indicate the location of each protected area within the district and a description of the legislation under which each protected area has been designated;
+- (d) along with the information about monitoring required by paragraph 4 of the schedule, information in map form as to the arrangements for monitoring water status under section 8 (monitoring) of the Act and as to the results of such monitoring, including—
+  - (i) a map of the monitoring networks established;
+  - (ii) a map of the results regarding the status of surface water (ecological status or ecological potential, as applicable, and chemical status), groundwater (chemical status and quantitative status, in accordance with, in particular, sections 2.4.5 and 2.5 of Annex V to the Water Framework Directive) and protected areas; and
+  - (iii) an estimate of the level of confidence and precision of the results provided by the monitoring programme;
+- (e) along with the list of environmental objectives required by paragraph 5 of the schedule (for each body of surface water and each body of groundwater in the district)—
+  - (i) a list of the environmental objectives set pursuant to regulation 3(1) for each protected area in the district which is registered under section 7 (register of protected areas) of the Act; and
+  - (ii) in addition to the information which is required to be included by regulations 5, 6, 7, 8 and 9, identification of instances where use has been made of those regulations;
+- (f) along with the summary of the programme required by paragraph 6 of the schedule—
+  - (i) the ways in which the environmental objectives set pursuant to regulation 3(1) are to be achieved;
+  - (ii) a summary of the measures required under[^key-1e2945b5b31416fca53e0695525c6eac] assimilated[^key-0b71dfb35eb8bf342d00c5ba556d143c] law for the protection of water;
+  - (iii) a report on the practical steps and measures taken to apply the principle of recovery of the costs of water services in accordance with regulation 15;
+  - (iv) a summary of the measures taken to protect each body of water (used for the abstraction of drinking water) identified in accordance with section 6 (water used for abstraction) of the Act;
+  - (v) a summary of the controls on the abstraction and impoundment of water (including registration and the circumstances in which exemptions from the controls apply);
+  - (vi) a summary of the controls adopted for point source discharges and other activities with an impact on the status of water;
+  - (vii) an identification of the cases where direct discharges to groundwater have been authorised;
+  - (viii) a summary of the measures taken in relation to priority substances;
+  - (ix) a summary of the measures taken to prevent or reduce the impact of accidental pollution incidents;
+  - (x) a summary of the measures taken in relation to any body of water which is unlikely to achieve the environmental objectives set pursuant to regulation 3(1);
+  - (xi) details of any supplementary measures identified as necessary in order to meet the environmental objectives set pursuant to regulation 3(1); and
+  - (xii) details of the measures taken to avoid an increase in the pollution of marine waters in accordance with Article 11(6) of the Water Framework Directive;
+- (g) along with the information for sub-basin plans required by paragraph 7 of the schedule, a list of any other more detailed programmes and management plans for the district dealing with particular sub-basins, sectors, issues or water types, together with a summary of their contents; and
+- (h) along with the information required by paragraphs 9 to 11 of the schedule, a summary of the public information and consultation measures taken in connection with the river basin management plan.
+
+(2) SEPA and the Scottish Ministers must ensure, when reviewing and updating the river basin management plan in accordance with section 14 (review) of the Act, that the plan is reviewed and updated by 22nd December 2015 and at least every 6 years after that.
+
+(3) In addition to the matters in Part 2 of schedule 1 to the Act, updates of the river basin management plan must include, along with the summary required by paragraph 12 of that schedule, a summary of any reviews carried out under regulations 5(e), 6(e), 7(d), 8(d) and 9(d).
+
+### 15. Fixing of charges for water services
+
+(1) The Scottish Ministers must ensure—
+
+- (a) that water pricing policies provide adequate incentives for users to use water resources efficiently; and
+- (b) an adequate contribution of the different water uses (disaggregated into at least industry, households and agriculture) to the recovery of the costs of water services, based on the economic analysis required under section 5(2)(c) (characterisation) of the Act.
+
+(2) In doing so, the Scottish Ministers—
+
+- (a) must take account of the principle of recovery of costs of water services (including environmental and resource costs) and in accordance with the polluter pays principle; and
+- (b) may have regard to the social, environmental and economic effects of the fixing of charges for water services, and to the geography and climate of the region affected.
+
+(3) The Scottish Ministers may, in accordance with established practices, disapply paragraph (1) in relation to a particular water use activity, provided this does not otherwise compromise the purposes and the achievement of the objectives of the Water Framework Directive.
+
+(4) If the Scottish Ministers do not fully apply paragraph (1), the reasons for not doing so must be reported in the river basin management plan (or the next update of it).
+
+(5) In this regulation, “**water services**” has the meaning given in section 23(4) (definition of water services) of the Act.
+
+## PART 3 — SPECIFIC MEASURES AGAINST POLLUTION OF WATER
+
+### 16. Interpretation of Part 3[^key-e061c547a8566344dbb2e02a221e8455]
+
+(1) In this Part—
+
+- “biota taxon” means a particular aquatic taxon within the taxonomic rank ‘sub-phylum’, ‘class’ or their equivalent;
+- “[Directive 2009/90/EC](https://www.legislation.gov.uk/european/directive/2009/0090)” means Commission [Directive 2009/90/EC](https://www.legislation.gov.uk/european/directive/2009/0090) laying down, pursuant to [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council, technical specifications for chemical analysis and monitoring of water status;
+- “EQS” means environmental quality standards or, where the context so requires, environmental quality standard;
+- “existing obligations” means the obligations (on environmental quality standards in the field of water policy) under [Directive 2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council (“the original Directive”) before it was amended by Directive 2013/39/EU of the European Parliament and of the Council including, in particular, the achievement of good surface water chemical status in relation to the substances and the associated EQS listed in the original Directive;
+- “limit of detection” means the output signal or concentration value above which it can be affirmed, with a stated level of confidence that a sample is different from a blank sample containing no determinand of interest;
+- “limit of quantification” means a stated multiple of the limit of detection at a concentration of the determinand that can reasonably be determined with an acceptable level of accuracy and precision;
+- “matrix” means a compartment of the aquatic environment, namely water, sediment or biota;
+- “Part A” means Part A of Annex I to the Priority Substances Directive (as read with the definitions and notes contained in that Part);
+- “Part B” means Part B of Annex I to the Priority Substances Directive;
+- [^key-c1d3016f925dc64b31fe004031a73b0e]...
+- “watch list” means the watch list of substances established under Article 8b(1) and (2) of the Priority Substances Directive.
+
+(2) For the purposes of this Part, the limit of quantification may be calculated using an appropriate standard or sample, and may be obtained from the lowest calibration point on the calibration curve, excluding the blank.
+
+(3)[^key-c701308ae3b2bc1ff6844117f7ee608a] When interpreting Directive [2009/90/EC](https://www.legislation.gov.uk/eudr/2009/90) for the purposes of this Part, a reference to one or more member States in a provision imposing an obligation, or conferring a discretion, on a member State or member States is to be read as a reference to SEPA.
+
+### 17. Environmental quality standards for bodies of surface water[^key-b0bc27f059779aea034971239897d0f6]
+
+(1) Subject to paragraph (2), SEPA must, for each body of surface water within a river basin district, apply the EQS in Part A in accordance with the requirements in Part B.
+
+(2) Without prejudice to existing obligations, SEPA must—
+
+- (a) from 22nd December 2015, apply the EQS in Part A for the substances numbered (2), (5), (15), (20), (22), (23) and (28) (in column (1) of the table in that Part) with the aim of achieving good surface water chemical status in relation to those substances by 22nd December 2021 by means of the programme of measures included in the river basin management plan (or an update of it); and
+- (b) from 22nd December 2018, apply the EQS in Part A for the substances numbered (34) to (45) (in column (1) of the table in that Part) with the aim of achieving good surface water chemical status in relation to those substances by 22nd December 2027 and preventing deterioration in the chemical status of each body of surface water in relation to those substances.
+
+(3) The objectives set under section 9(1)(a)(i) of the Act must, subject to the application of regulations 5 to 10 and without prejudice to any other objectives that are required to be set under that section, aim to achieve the obligations in paragraph (2).
+
+(4) For the purposes of paragraph (3), references in regulations 5 to 9 to an objective set pursuant to regulation 3(1) are to be construed as an objective set pursuant to paragraph (3).
+
+(5) For the purposes of paragraph (2)(b), SEPA must—
+
+- (a) by 22nd December 2018, establish a supplementary monitoring programme and a preliminary programme of measures covering those substances;
+- (b) by 22nd December 2021, establish a full programme of measures covering those substances (“the full programme”); and
+- (c) as soon as possible after 22nd December 2021, and not later than 22nd December 2024, implement and make fully operational the full programme.
+
+(6) SEPA must apply—
+
+- (a) the biota EQS in Part A for the substances numbered (5), (15), (16), (17), (21), (28), (34), (35), (37), (43) and (44) (in column (1) of the table in that Part); and
+- (b) the water EQS in Part A for the other substances numbered (in that column).
+
+(7) SEPA may in relation to one or more categories of surface water, apply—
+
+- (a) an EQS for a matrix other than that specified in paragraph (6); or
+- (b) where relevant, an EQS for a biota taxon other than that specified in Part A.
+
+(8) Where SEPA makes use of the option in paragraph (7), it must—
+
+- (a) apply the EQS for the substances in question; or
+- (b) if there is no EQS for the matrix or biota taxon in question, establish an EQS for that matrix or biota taxon that offers at least the same level of protection as the corresponding EQS for those substances in relation to other matrix and biota taxon.
+
+(9) SEPA may use the option in paragraph (7) only where—
+
+- (a) the method of analysis used for the chosen matrix or biota taxon fulfils the minimum performance criteria in Article 4 of [Directive 2009/90/EC](https://www.legislation.gov.uk/european/directive/2009/0090); or
+- (b) if the method does not fulfil those criteria for any matrix, SEPA ensures—
+  - (i) that the method of analysis performs at least as well as that available for the matrix specified in paragraph (6) for the relevant substance; and
+  - (ii) that monitoring is carried out using best available techniques not entailing excessive costs.
+
+(10) Where a biota or sediment EQS for a substance in Part A is being applied and a potential risk to, or via, the water environment from acute exposure to the substance has been identified as a result of measured or estimated environmental concentrations or emissions of that substance, SEPA must—
+
+- (a) additionally apply any MAC-EQS in Part A for that substance; and
+- (b) carry out monitoring in relevant bodies of surface water for that substance.
+
+(11) Any measured result for the substance being monitored must not be considered by SEPA for the purposes of assessing the chemical status of a body of surface water where—
+
+- (a) pursuant to Article 5 of [Directive 2009/90/EC](https://www.legislation.gov.uk/european/directive/2009/0090), the calculated mean value of a measurement, when carried out using the best available technique not entailing excessive costs, is referred to as ‘less than limit of quantification’; and
+- (b) the limit of quantification of that technique is above the EQS for the substance.
+
+(12) For substances for which an EQS for sediment or biota is applied, SEPA must, subject to paragraph (13), monitor the substance in the relevant matrix at least once every year, unless technical knowledge and expert judgment justify a different interval.
+
+(13) SEPA may monitor the substances numbered (5), (21), (28), (30), (35), (37), (43) and (44) (in column (1) of the table in Part A) less intensively than is required by paragraph (12) and Annex V to the Water Framework Directive provided that the monitoring—
+
+- (a) is representative and a statistically robust baseline is available regarding the presence of those substances in the aquatic environment; and
+- (b) takes place for each of the substances at least once every 3 years (unless technical knowledge and expert judgment justify a different interval).
+
+(14) SEPA must include the following information in the river basin management plan (or the next update of it)—
+
+- (a) a table presenting the limits of quantification of the methods of analysis applied, and information on the performance of those methods in relation to the minimum performance criteria in Article 4 of [Directive 2009/90/EC](https://www.legislation.gov.uk/european/directive/2009/0090);
+- (b) for the substances for which the option in paragraph (7) is used—
+  - (i) the reasons and basis for using that option;
+  - (ii) where relevant, the alternative EQS established, evidence that those EQS would offer at least the same level of protection as the EQS in Part A, including the data and methodology used to derive the EQS, and the categories of surface water to which they would apply; and
+  - (iii) for comparison with the information referred to in sub-paragraph (a), the limits of quantification of the methods of analysis for matrices specified in Part A, including information on the performance of the methods in relation to the minimum performance criteria in Article 4 of [Directive 2009/90/EC](https://www.legislation.gov.uk/european/directive/2009/0090); and
+- (c) justification for the frequency of monitoring applied in accordance with paragraph (12) (as read with paragraph (13)), if monitoring intervals are longer than one year.
+
+(15) SEPA must ensure—
+
+- (a) that the river basin management plan (or the next update of it) contains the results and impact of the measures taken to prevent chemical pollution of surface water; [^key-60f82021bb930d4045aad3e129ef119d]...
+- (b)[^key-25f96eea6ddf2209bd10a3ab5f4c1dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(16) SEPA must—
+
+- (a) arrange for the long-term trend analysis of concentrations of the priority substances listed in Part A that tend to accumulate in sediment or biota (giving particular consideration to the substances numbered (2), (5), (6), (7), (12), (15), (16), (17), (18), (20), (21), (26), (28), (30), (34), (35), (36), (37), (43) and (44) in column (1) of the table in that Part) on the basis of the monitoring of surface water status carried out in accordance with section 8 (monitoring) of the Act;
+- (b) take measures aimed at ensuring, subject to Article 4 of the Water Framework Directive, that such concentrations do not significantly increase in sediment or relevant biota;
+- (c) determine the frequency of monitoring in sediment and biota so as to provide sufficient data for reliable long-term trend analysis of each priority substance; and
+- (d) ensure that monitoring for each priority substance takes place at least once every 3 years, unless technical knowledge and expert judgment justify a different interval.
+
+### 18. Designation of mixing zones
+
+(1) SEPA may designate a mixing zone adjacent to any point of discharge to the water environment which is a regulated activity[^key-8173b2c7b0432fd882fd7a62db52967f] .
+
+(2) SEPA must ensure that the extent of any such zone is—
+
+- (a) restricted to the proximity of the point of discharge; and
+- (b) proportionate, having regard to the concentrations of pollutants at the point of discharge and to the conditions on emissions of pollutants contained in any prior authorisation.
+
+(3) Where SEPA designates a mixing zone, concentrations of one or more substances listed in Part A of Annex I to the Priority Substances Directive may exceed the relevant environmental quality standards within that zone, provided that this does not affect the compliance of the rest of the body of surface water with those standards.
+
+(4) The river basin management plan (or the next update of it) for a river basin district within which a mixing zone (or any part of a mixing zone) has been designated must include a description of—
+
+- (a) the approaches and methodologies applied to define such zones; and
+- (b) measures taken with a view to reducing the extent of the mixing zones in the future.
+
+(5)[^key-2c5d359471cb80ca927e7274b7018b31] In paragraph (1), “**regulated activity**” has the meaning given in regulation 3 of the Environmental Authorisations (Scotland) Regulations 2018.
+
+### 19. Register of emissions, discharges and losses
+
+(1) For each river basin district, SEPA must maintain a register (including maps, if available) of emissions, discharges and losses of all priority substances and any pollutant listed in Part A of Annex I to the Priority Substances Directive, including their concentration in sediment and biota, as appropriate.
+
+(2) The reference period for the estimation of pollutant values to be entered in the register must be one year between 2008 and 2010, except that for priority substances and any pollutant covered by Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) [^c21941851] concerning the placing of plant protection products on the market, the entries may be calculated as the average of the years 2008, 2009 and 2010.
+
+(3) SEPA must update the register as part of (or, so far as it applies to an area of Scotland which is outside a river basin district, in conjunction with) each review under section 5(3) (review of characterisations) of the Act.
+
+(4) The reference period which must be applied for the establishment of values in the updated register is the year before that review is to be completed, except that for priority substances and any pollutant covered by Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414), the entries may be calculated as the average of the 3 years before the completion of that review.
+
+(5) SEPA must publish the updated register (except in so far as it applies to an area of Scotland which is outside a river basin district) in each update of the river basin management plan.
+
+(6) For the purposes of paragraph (1) only—
+
+- “**river basin district**” includes—
+  - (a) the part of the Northumbria River Basin District which is in Scotland; and
+  - (b) the part of the Solway Tweed River Basin District which is in Scotland;
+- “**the Northumbria River Basin District**” means the area identified by regulation 3(1) of the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 [^c21941861]; and
+- “**the Solway Tweed River Basin District**” means the area identified by regulation 3(1) of the Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 [^c21941871].
+
+### 19A. Coordination[^key-aab64e7cbed46fd4e7ec049c85381d5c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19B. Watch list[^key-b758df062d2ed6e7f3d3527ffe3ca13c]
+
+(1) SEPA must monitor each substance in the watch list at selected representative monitoring stations for a period of at least 12 months (“the monitoring period”).
+
+(2) For each substance in the watch list as first established by Commission Implementing Decision (EU) 2015/495, the monitoring period must begin on 14th September 2015.
+
+(3) For any substance added to the watch list after it was first established, the monitoring period must begin within 6 months of the date on which the substance was added to the list.
+
+(4) SEPA must select at least two representative monitoring stations.
+
+(5) In selecting representative monitoring stations, and the monitoring frequency and timing for each substance, SEPA must—
+
+- (a) take into account the use patterns and possible occurrence of the substance; and
+- (b) ensure that monitoring is carried out at each station at least once per year.
+
+(6) SEPA may decide not to monitor a substance under paragraphs (1) to (5) if—
+
+- (a) it has sufficient, comparable, representative and recent monitoring data for the substance from existing monitoring programmes or studies; and
+- (b) the monitoring was carried out in accordance with a methodology that satisfies any guidelines developed under Article 8b(5) of the Priority Substances Directive.
+
+## PART 4 — SPECIFIC MEASURES TO PREVENT AND CONTROL POLLUTION OF GROUNDWATER
+
+### 20. Interpretation of Part 4
+
+(1) In this Part—
+
+- “**background level**” means the concentration of a substance or the value of an indicator in a body of groundwater corresponding to no, or only very minor, anthropogenic alterations to undisturbed conditions;
+- “**baseline level**” means the average value measured at least during the reference years 2007 and 2008 on the basis of monitoring in accordance with a programme prepared under section 8(2) (monitoring) of the Act or, in the case of substances identified after these reference years, during the first period for which a representative period of monitoring data is available;
+- [^key-c2f7dd1bb112e86ed18aaadc7c8880e8]...
+- “**groundwater quality standard**” means an environmental quality standard expressed as the concentration of a particular pollutant, group of pollutants or indicator of pollution in groundwater, which should not be exceeded in order to protect human health and the environment;
+- “**input of pollutants into groundwater**” means the direct or indirect introduction of pollutants into groundwater as a result of human activity;
+- “**significant and sustained upward trend**” means any statistically and environmentally significant increase of concentration of a pollutant, group of pollutants, or indicator of pollution in groundwater for which trend reversal is identified as being necessary in accordance with regulation 23; and
+- “**threshold value**” means a groundwater quality standard established under regulation 21(2).
+
+### 21. Criteria for assessing groundwater chemical status
+
+(1) For the purposes of assessing the chemical status of each body of groundwater (or group of such bodies) under section 8 (monitoring) of the Act, SEPA must use the following criteria—
+
+- (a) groundwater quality standards in Annex I to the Groundwater Directive; and
+- (b) threshold values which the Scottish Ministers direct (in exercise of powers conferred by the Act or any other enactment) SEPA to apply for those purposes.
+
+(2) Threshold values must be established in accordance with Annex II to the Groundwater Directive, based on the protection of the body of groundwater and having particular regard to its impact on, and interrelationship with, associated surface waters and directly dependent terrestrial ecosystems and wetlands and take into account human toxicology and ecotoxicology knowledge.
+
+(3) Where new information indicates that, to protect human health and the environment, a new threshold value should be applied or a threshold value being applied should be revised, SEPA must submit to the Scottish Ministers proposals for a new or revised threshold value to be applied.
+
+(4) The river basin management plan (or the next update of it) must include—
+
+- (a) the threshold values which apply for the purposes of paragraph (1);
+- (b) any changes to those threshold values since the plan was last approved; and
+- (c) [^key-ab7cd4961f474c1a4fe56f29d7143ece]...the information set out in Part C of Annex II to the Groundwater Directive.
+
+### 22. Procedure for assessing groundwater chemical status
+
+(1) SEPA must use the procedure in paragraph (2) to assess the chemical status of a body of groundwater but, in carrying out this procedure, a body of groundwater may, if appropriate, be grouped with other such bodies in accordance with Annex V to the Water Framework Directive.
+
+(2) The body of groundwater (or group of such bodies) must be considered to be of good chemical status when—
+
+- (a) relevant monitoring shows that the conditions set out in section 2.3.2 (good groundwater chemical status) of Annex V to the Water Framework Directive are being met;
+- (b) the values for the groundwater quality standards in Annex I to the Groundwater Directive and the threshold values which apply for the purposes of regulation 21(1)(b) are not exceeded at any monitoring point in the body of groundwater (or group of such bodies); or
+- (c) the value for any such groundwater quality standard or any such threshold value is exceeded at one or more monitoring points but an appropriate investigation in accordance with Annex III to the Groundwater Directive confirms that—
+  - (i) on the basis of the assessment referred to in paragraph 3 of Annex III to the Groundwater Directive, the concentrations of pollutants exceeding the groundwater quality standard or threshold value is not considered to present a significant environmental risk, taking into account, where appropriate, the extent of the body of groundwater (or group of such bodies) which is affected;
+  - (ii) the other conditions for good groundwater chemical status in section 2.3.2 in Annex V to the Water Framework Directive are being met in accordance with paragraph 4 of Annex III to the Groundwater Directive;
+  - (iii) for any body of groundwater identified in accordance with section 6 (water used for abstraction) of the Act, the requirements of regulation 11 are being met in accordance with paragraph 4 of Annex III to the Groundwater Directive; and
+  - (iv) the ability of the body of groundwater (or, as the case may be, each such body in the group) to support human uses has not been significantly impaired by pollution.
+
+(3) SEPA must publish a summary of the assessment of groundwater chemical status in the river basin management plan (or the next update of it), including an explanation as to the manner in which exceedances of groundwater quality standards or threshold values at individual monitoring points have been taken into account in the final assessment.
+
+(4) If a body of groundwater is classified as being of good chemical status in accordance with paragraph (2)(c), SEPA must, in exercising its functions under the relevant enactments, take such action as may be necessary to protect aquatic ecosystems, terrestrial ecosystems and human uses of groundwater dependent on the part of the body of groundwater represented by the monitoring point or points at which the value for a groundwater quality standard or the threshold value has been exceeded.
+
+### 23. Identification of significant and sustained upward trends and the definition of starting points for trend reversals
+
+(1) SEPA must, in accordance with Annex IV to the Groundwater Directive, for any body of groundwater (or, as the case may be, group of such bodies) that it has characterised as being at risk of failing to meet the environmental objectives set pursuant to regulation 3(1)—
+
+- (a) identify any significant and sustained upward trend in the concentration of a pollutant, a group of pollutants or any indicator of pollution; and
+- (b) determine the starting point for reversing that trend.
+
+(2) SEPA must, in accordance with Part B of Annex IV to the Groundwater Directive, take steps to ensure that each programme of measures will reverse trends which present a significant risk of harm to the quality of aquatic ecosystems or terrestrial ecosystems, to human health, or to actual or potential legitimate uses of the water environment, in order progressively to reduce pollution and prevent deterioration of groundwater.
+
+(3) SEPA must determine the starting point for trend reversal as a percentage of the level of the groundwater quality standards and threshold values, on the basis of the identified trend and the associated environmental risk, in accordance with paragraph 1 in Part B of Annex IV to the Groundwater Directive.
+
+(4) Where necessary to assess the impact of existing plumes of pollution in a body of groundwater that may threaten the achievement of the environmental objectives set pursuant to regulation 3(1) including, in particular, plumes resulting from point sources and contaminated land, SEPA must carry out additional trend assessments for identified pollutants to verify that plumes from contaminated sites—
+
+- (a) do not expand;
+- (b) do not deteriorate the chemical status of the body of groundwater (or the group of such bodies); and
+- (c) do not present a risk for human health and the environment.
+
+(5) The river basin management plan (or the next update of it) must include a summary of—
+
+- (a) the way in which the trend assessment from individual monitoring points within the body of groundwater (or group of such bodies) has contributed to identifying, in accordance with section 2.5 (presentation of groundwater status) of Annex V to the Water Framework Directive, that the body (or group of such bodies) is subject to a significant and sustained upward trend in concentration of any pollutant or a reversal of that trend;
+- (b) the reasons for the starting points determined pursuant to paragraph (3); and
+- (c) the results of any assessment under paragraph (4).
+
+### 24. Measures to prevent or limit inputs of pollutants into groundwater
+
+(1) Each programme of measures must include [^c21941891]—
+
+- (a) for any hazardous substance, all measures necessary to prevent the input of the substance into groundwater; and
+- (b) for any other pollutant, considered to present an existing or potential risk of pollution, all measures necessary to limit inputs of the pollutant into groundwater so as to ensure that such inputs do not cause deterioration or significant and sustained upward trends in the concentrations of pollutants in groundwater.
+
+(2) For the purposes of paragraph (1), inputs of pollutants from diffuse sources of pollution having an impact on the groundwater chemical status must be taken into account whenever technically possible.
+
+(3) Without prejudice to any more stringent requirement in assimilated[^key-b6b8ba5e89483ea4c307f80af3173395][^key-51ff630bcebad0a131d5b10f23cce1c8] law, paragraph (1) does not apply to the input of pollutants that are—
+
+- (a) the result of direct discharges authorised in accordance with regulation 13(1)(j);
+- (b) considered by SEPA to be of a quantity and concentration so small as to obviate any present or future danger of deterioration in the quality of the receiving groundwater;
+- (c) the consequences of accidents or exceptional circumstances of natural cause that could not reasonably have been foreseen, avoided or mitigated;
+- (d) the result of artificial recharge or augmentation of any body of groundwater authorised in accordance with regulation 13(1)(f);
+- (e) in the view of SEPA incapable, for technical reasons, of being prevented or limited without using—
+  - (i) measures that would increase risks to human health or to the quality of the environment as a whole; or
+  - (ii) disproportionately costly measures to remove quantities of pollutants from, or otherwise control their percolation in, contaminated ground or subsoil; or
+- (f) the result of interventions in surface waters for the purposes, amongst others, of mitigating the effects of floods and droughts, and for the management of waters and waterways, including at international level, provided that—
+  - (i) the interventions are authorised for that purpose; and
+  - (ii) the inputs do not compromise the achievement of the environmental objectives set pursuant to regulation 3(1) for each body of water concerned,
+
+provided that efficient monitoring of each body of groundwater concerned, in accordance with section 2.4.2 (surveillance monitoring) of Annex V to the Water Framework Directive, or other appropriate monitoring, is being carried out.
+
+### 24A. Identification of groundwater hazardous substances[^key-85b4695d20ce93c1a1bad15039e8a30a]
+
+(1) SEPA must identify—
+
+- (a) substances or groups of substances which are toxic, persistent and liable to bio-accumulate, and other substances or groups of substances which give rise to an equivalent level of concern, and
+- (b) substances or groups of substances which are entering, or liable to enter groundwater.
+
+(2) In identifying the substances referred to in paragraph (1), SEPA must take particular account of substances belonging to the families or groups of pollutants referred to in paragraphs 1 to 6 of the schedule as well as substances belonging to the families or groups of pollutants referred to in paragraphs 7 to 9 of the schedule, if those are considered to be hazardous.
+
+(3) SEPA must publish and maintain a list of the substances identified in accordance with paragraph (1).
+
+## PART 5 — MODIFICATION AND REVOCATION OF ENACTMENTS
+
+### 25. Amendment of the Water Environment (Register of Protected Areas) (Scotland) Regulations 2004
+
+In the Water Environment (Register of Protected Areas) (Scotland) Regulations 2004 [^c21941901], in Part 1 of the Schedule—
+
+- (a) before paragraph 1, insert—
+
+  > **A1.**
+  >
+  > A description of all shellfish water protected areas.
+
+  ; and
+- (b) omit paragraph 2(a).
+
+### 26. Amendment of the Marine Strategy Regulations 2010
+
+In the Marine Strategy Regulations 2010 [^c21941911], in Schedule 2, omit “The Surface Waters (Shellfish) (Classification) (Scotland) Regulations 1997”.
+
+### 27. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-30d5cd8e3ef894f64d9c8d2f65cc03ae]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28. Amendment of salmon fishery district designation orders
+
+In Schedule 2 to each of the following Orders omit “The Salmon (Fish Passes and Screens) (Scotland) Regulations 1994”—
+
+- (a) The North and West Salmon Fishery District Designation Order 1999 [^c21941951];
+- (b) The Conon Salmon Fishery District Designation Order 1999 [^c21941961];
+- (c) The Lochaber Salmon Fishery District Designation Order 1999 [^c21941971];
+- (d) The Western Isles Salmon Fishery District Designation Order 2001 [^c21941981];
+- (e) The Mull Salmon Fishery District Designation (Scotland) Order 2002 [^c21941991]; and
+- (f) The Wester Ross Salmon Fishery District Designation Order 2003 [^c21942001].
+
+### 29. Revocations
+
+(1) The following are revoked—
+
+- (a) the Salmon (Fish Passes and Screens) (Scotland) Regulations 1994 [^c21942011];
+- (b) the Surface Waters (Fishlife) (Classification) (Scotland) Regulations 1997 [^c21942021];
+- (c) the Surface Waters (Fishlife) (Classification) (Scotland) Amendment Regulations 2003 [^c21942031];
+- (d) the Surface Waters (Fishlife) (Classification) (Scotland) Amendment Regulations 2007 [^c21942041];
+- (e) the Surface Waters (Shellfish) (Classification) (Scotland) Regulations 1997 [^c21942051]; and
+- (f) the Surface Waters (Shellfish) (Classification) (Scotland) Amendment Regulations 2007 [^c21942061].
+
+(2) Articles 14 to 19 of the Tweed Regulation Order 2007 [^c21942071] are, only in so far those articles extend to Scotland, revoked.
+
+PAUL WHEELHOUSE
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE — INDICATIVE LIST OF THE MAIN POLLUTANTS[^key-39111239740741b4b4b7efa9d380d5af]
+
+Regulation 24A
+
+**1.** Organohalogen compounds and substances which may form such compounds in the aquatic environment.
+
+**2.** Organophosphorous compounds.
+
+**3.** Organotin compounds.
+
+**4.** Substances and preparations, or the breakdown products of such, which have been proved to possess carcinogenic or mutagenic properties or properties which may affect steroidogenic, thyroid, reproduction or other endocrine-related functions in or via the aquatic environment.
+
+**5.** Persistent hydrocarbons and persistent and bioaccumulable organic toxic substances.
+
+**6.** Cyanides.
+
+**7.** Metals and their compounds.
+
+**8.** Arsenic and its compounds.
+
+**9.** Biocides and plant protection products.
+
+**10.** Materials in suspension.
+
+**11.** Substances which contribute to eutrophication (in particular, nitrates and phosphates).
+
+**12.** Substances which an unfavourable influence on the oxygen balance (and can be measured using parameters such as biochemical oxygen demand (BOD), and chemical oxygen demand (COD) etc.).
+
+*(This note is not part of the Regulations)*
+
+These Regulations make further provision for the protection of the water environment.
+
+Except where indicated below, the provisions in Parts 2 to 4 apply only in respect of river basin districts designated by order under section 4 of the Water Environment and Water Services (Scotland) Act 2003. The Water Environment and Water Services (Scotland) Act 2003 (Designation of Scotland River Basin District) Order 2003 (S.S.I. 2003/610) designates a single area (covering most of Scotland) which is known as the “Scotland River Basin District”.
+
+Part 1 makes general provision as to citation, commencement and general interpretation.
+
+Part 2 supplements the provisions in Part 1 of the Water Environment and Water Services (Scotland) Act 2003 (“**the Act**”) so as to set out in regulations further provision to reflect the requirements of Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy (“Water Framework Directive”).
+
+Part 3 sets out further provision to reflect the requirements of Directive [2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council on environmental quality standards in the field of water policy (“Priority Substances Directive”). The power to designate mixing zones in regulation 18(1) to (3) may be exercised in relation to any area of the water environment in Scotland (and is not confined to areas within the Scotland River Basin District). Regulation 19(1) to (4) (register of emissions, discharges and losses) also applies to the whole of Scotland.
+
+Part 4 sets out further provision to reflect the requirements of Directive [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) the European Parliament and of the Council on the protection of groundwater against pollution (“Groundwater Directive”).
+
+Part 5 modifies several enactments in connection with Part 1 of the Act (regulations 25 to 28). In addition, regulation 29 revokes several enactments in consequence of the Water Framework Directive (including its repeal of Directive [2006/44/EC](https://www.legislation.gov.uk/european/directive/2006/0044) (OJ L 264, 25.9.2006, p.20) and Directive [2006/44/EC](https://www.legislation.gov.uk/european/directive/2006/0044) (OJ L 376, 27.12.2006, p.14, as amended by OJ L 311, 21.11.2008, p.1)).
+
+The powers in section 2(2) of the European Communities Act 1972 (c. 68) (“**the 1972 Act**”) are exercised so far as may be necessary (to supplement the other powers cited) for the purposes of implementing, or enabling the implementation of, obligations created or arising by or under the Water Framework Directive, the Priority Substances Directive and the Groundwater Directive, and for the purposes of dealing with matters arising out of or related to any such obligations. In particular, the powers in section 2(2) of the 1972 Act are cited to enable provision to be made—
+
+- — in regulation 4 in connection with the designation of bodies of surface water as artificial or heavily modified in accordance with Article 4(3) of the Water Framework Directive,
+- — in regulation 18 in connection with the designation of mixing zones adjacent to points of discharge in accordance with Article 4 of the Priority Substances Directive,
+- — in regulation 19 in connection with the establishment of a register of emissions, discharges and losses of all priority substances and certain other pollutants in accordance with Article 5 of the Priority Substances Directive, and
+- — in regulation 25 to 29, in so far as they are not ancillary to the other powers cited, to modify and revoke various enactments in connection with the implementation of the Water Framework Directive, Priority Substances Directive and Groundwater Directive.
+
+## Annotations
+
+[^c21941741]: Marginal citation: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3); [section 9](https://www.legislation.gov.uk/ssi/2013/323/section/9) was amended by section 54(4) of the [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7).
+
+[^c21941751]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [Sch](https://www.legislation.gov.uk/ukpga/2008/7/schedule)edule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), so far as they are exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
+
+[^key-01a7e15d641cd10e7740ae11f3bdef4a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(2)(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/2/a)
+
+[^key-e16095d3be63eb25b02a1503fb8f4164]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-f95050ee46a9008b1640faa138773f5d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(2)(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/2/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-6490077770a0abfe3519e42d6a3a03c0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-08361ae1a604f3b2761385e8e87b9061]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-537d4cd852b0096d7f647894d6c5bdca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(2)(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/2/b)
+
+[^key-db2b50fa81609a7e87f3b5dddca4ec31]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/1) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(2)(c)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/2/c) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-cb59448fcad1fd144f9e13f7127d1f88]: Textual amendment: Words in reg. 2(1) substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2015/211/regulation/2/a)
+
+[^key-0f39639bd7836c927c389e5d58ad50e4]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2013/323/regulation/2/4) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-367bab8bf5074efb6340c5c06fbceb3f]: Textual amendment: Words in reg. 3(1) inserted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [2(b)](https://www.legislation.gov.uk/ssi/2015/211/regulation/2/b)
+
+[^c21941791]: Marginal citation: Regulation 24 requires certain measures to be included in a programme of measures in order to achieve this objective.
+
+[^key-561019a671f4cac560981e03b9003c75]: Textual amendment: Word in [reg. 3(1)(c)](https://www.legislation.gov.uk/ssi/2013/323/regulation/3/1/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/3)
+
+[^key-492e9d9525cde19be70b5306ca0676af]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/ssi/2013/323/regulation/3/1/c) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-efecdf7a0b7b86495962b4229fd57b84]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/ssi/2013/323/regulation/3/1/c) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-6b82849f43808117526e73c7338f22a9]: Textual amendment: Word in [reg. 10(b)](https://www.legislation.gov.uk/ssi/2013/323/regulation/10/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/4)
+
+[^key-408bfea10a408b96de6d1e0dc0138041]: Textual amendment: Words in [reg. 10(b)](https://www.legislation.gov.uk/ssi/2013/323/regulation/10/b) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a12787c928d30eb8ba54a6d254c65120]: Textual amendment: Words in reg. 12(1)(b)(iii) substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [2(c)](https://www.legislation.gov.uk/ssi/2015/211/regulation/2/c)
+
+[^c21941801]: Marginal citation: See also regulation 24.
+
+[^key-dd5746d0bab39d023dae65317081ed2b]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/a) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-58e84bd12b72769c7fb796275d8ae569]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(5)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/5)
+
+[^key-f6b6dd167ec670662813e00a377bbd79]: Textual amendment: Words in [reg. 13(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/j/iv) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(5)(b)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-440de666645eb0a4998816dc3c02bf8d]: Textual amendment: Word in [reg. 13(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/j/iv) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(6)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/6)
+
+[^c21941811]: Marginal citation: OJ L 140, 5.6.2009, p.114, as amended by Directive 2011/92/EU of the European Parliament and of the Council (OJ L 26, 28.1.2012, p.1).
+
+[^key-233ecae8f24bdb3ad702090e67843b54]: Textual amendment: Words in [reg. 13(1)(j)(iv)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/1/j/iv) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-bae2b8271cee8be88734b44977f16bd5]: Textual amendment: [Reg. 13(4A)](https://www.legislation.gov.uk/ssi/2013/323/regulation/13/4A) inserted (1.1.2018) by [The Water Environment (Miscellaneous) (Scotland) Regulations 2017 (S.S.I. 2017/389)](https://www.legislation.gov.uk/ssi/2017/389), [regs. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1), [8](https://www.legislation.gov.uk/ssi/2017/389/regulation/8)
+
+[^key-1e2945b5b31416fca53e0695525c6eac]: Textual amendment: Words in [reg. 14(1)(f)(ii)](https://www.legislation.gov.uk/ssi/2013/323/regulation/14/1/f/ii) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-0b71dfb35eb8bf342d00c5ba556d143c]: Textual amendment: Word in [reg. 14(1)(f)(ii)](https://www.legislation.gov.uk/ssi/2013/323/regulation/14/1/f/ii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(7)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/7)
+
+[^key-e061c547a8566344dbb2e02a221e8455]: Textual amendment: Reg. 16 and cross-heading substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2015/211/regulation/3/a)
+
+[^key-c1d3016f925dc64b31fe004031a73b0e]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/16/1) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(7)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c701308ae3b2bc1ff6844117f7ee608a]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/16/3) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(7)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b0bc27f059779aea034971239897d0f6]: Textual amendment: Reg. 17 and cross-heading substituted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2015/211/regulation/3/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2015/211/regulation/6))
+
+[^key-60f82021bb930d4045aad3e129ef119d]: Textual amendment: Word in [reg. 17(15)](https://www.legislation.gov.uk/ssi/2013/323/regulation/17/15) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(8)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/8/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-25f96eea6ddf2209bd10a3ab5f4c1dcb]: Textual amendment: [Reg. 17(15)(b)](https://www.legislation.gov.uk/ssi/2013/323/regulation/17/15/b) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(8)(ii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/8/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-8173b2c7b0432fd882fd7a62db52967f]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/18/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 23(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/23/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-2c5d359471cb80ca927e7274b7018b31]: Textual amendment: [Reg. 18(5)](https://www.legislation.gov.uk/ssi/2013/323/regulation/18/5) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 23(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/23/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^c21941851]: Marginal citation: OJ L 230, 19.8.91, p.1, as last amended by Commission Implementing Directive 2011/60/EU (OJ L 136, 24.5.2011, p.58).
+
+[^c21941861]: Marginal citation: [S.I. 2003/3245](https://www.legislation.gov.uk/uksi/2003/3245).
+
+[^c21941871]: Marginal citation: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99).
+
+[^key-aab64e7cbed46fd4e7ec049c85381d5c]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/ssi/2013/323/regulation/19A) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(9)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b758df062d2ed6e7f3d3527ffe3ca13c]: Textual amendment: Regs. 19A, 19B inserted (14.9.2015) by [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [3(c)](https://www.legislation.gov.uk/ssi/2015/211/regulation/3/c)
+
+[^key-c2f7dd1bb112e86ed18aaadc7c8880e8]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/20/1) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(10)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ab7cd4961f474c1a4fe56f29d7143ece]: Textual amendment: Words in reg. 21(4)(c) omitted (14.9.2015) by virtue of [The Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/211)](https://www.legislation.gov.uk/ssi/2015/211), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2), [4(b)](https://www.legislation.gov.uk/ssi/2015/211/regulation/4/b)
+
+[^c21941891]: Marginal citation: See also regulation 13.
+
+[^key-b6b8ba5e89483ea4c307f80af3173395]: Textual amendment: Word in [reg. 24(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/24/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 24(8)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/24/8)
+
+[^key-51ff630bcebad0a131d5b10f23cce1c8]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/ssi/2013/323/regulation/24/3) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [4(11)](https://www.legislation.gov.uk/ssi/2019/26/regulation/4/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-85b4695d20ce93c1a1bad15039e8a30a]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/ssi/2013/323/regulation/24A) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [41(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/41/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^c21941901]: Marginal citation: [S.S.I. 2004/516](https://www.legislation.gov.uk/ssi/2004/516), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
+
+[^c21941911]: Marginal citation: [S.I. 2010/1627](https://www.legislation.gov.uk/uksi/2010/1627).
+
+[^key-30d5cd8e3ef894f64d9c8d2f65cc03ae]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2013/323/regulation/27) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^c21941951]: Marginal citation: [S.I. 1999/1380](https://www.legislation.gov.uk/uksi/1999/1380).
+
+[^c21941961]: Marginal citation: [S.I. 1999/1381](https://www.legislation.gov.uk/uksi/1999/1381).
+
+[^c21941971]: Marginal citation: [S.I. 1999/1382](https://www.legislation.gov.uk/uksi/1999/1382).
+
+[^c21941981]: Marginal citation: [S.S.I. 2001/151](https://www.legislation.gov.uk/ssi/2001/151).
+
+[^c21941991]: Marginal citation: [S.S.I. 2002/138](https://www.legislation.gov.uk/ssi/2002/138).
+
+[^c21942001]: Marginal citation: [S.S.I. 2003/615](https://www.legislation.gov.uk/ssi/2003/615).
+
+[^c21942011]: Marginal citation: [S.I. 1994/2524](https://www.legislation.gov.uk/uksi/1994/2524).
+
+[^c21942021]: Marginal citation: [S.I. 1997/2471](https://www.legislation.gov.uk/uksi/1997/2471), as amended by [S.S.I. 2003/85](https://www.legislation.gov.uk/ssi/2003/85) and [S.S.I. 2007/178](https://www.legislation.gov.uk/ssi/2007/178).
+
+[^c21942031]: Marginal citation: [S.S.I. 2003/85](https://www.legislation.gov.uk/ssi/2003/85).
+
+[^c21942041]: Marginal citation: [S.S.I. 2007/178](https://www.legislation.gov.uk/ssi/2007/178).
+
+[^c21942051]: Marginal citation: [S.I. 1997/2470](https://www.legislation.gov.uk/uksi/1997/2470), as amended by [S.S.I. 2007/427](https://www.legislation.gov.uk/ssi/2007/427).
+
+[^c21942061]: Marginal citation: [S.S.I. 2007/427](https://www.legislation.gov.uk/ssi/2007/427).
+
+[^c21942071]: Marginal citation: [S.I. 2007/19](https://www.legislation.gov.uk/uksi/2007/19).
+
+[^key-39111239740741b4b4b7efa9d380d5af]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2013/323/schedule) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 20](https://www.legislation.gov.uk/ssi/2025/165/schedule/20) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

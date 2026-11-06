@@ -1,0 +1,89 @@
+---
+title: The Chief Forester (Qualifications) (Scotland) Regulations 2019
+id: ssi/2019/92
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-03-13'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2019/92
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2019/92/pdfs/ssipn_20190092_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/92/pdfs/ssi_20190092_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/92/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Chief Forester (Qualifications) (Scotland) Regulations 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 92
+
+Forestry
+
+The Chief Forester (Qualifications) (Scotland) Regulations 2019
+
+Made
+
+13th March 2019
+
+Laid before the Scottish Parliament
+
+15th March 2019
+
+Coming into force
+
+1st April 2019
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 73(2) of the Forestry and Land Management (Scotland) Act 2018[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Chief Forester (Qualifications) (Scotland) Regulations 2019 and come into force on 1 April 2019.
+
+## 2. Qualifications required to be chief forester
+
+(1) A person is qualified to be the chief forester if that person—
+
+- (a) is a Chartered Forester or Chartered Arboriculturist, or
+- (b) possesses one of the following qualifications in a forestry or arboriculture subject—
+  - (i) a bachelor of science degree (with honours),
+  - (ii) an integrated master’s degree,
+  - (iii) a master of science degree,
+  - (iv) a doctoral degree.
+
+(2) In paragraph (1)—
+
+- “Chartered Arboriculturist” means a member of the Institute of Chartered Foresters qualified as a chartered arboriculturist,
+- “Chartered Forester” means a member of the Institute of Chartered Foresters qualified as a chartered forester,
+- “degree” means a degree which is awarded by a university or other institution specified as competent to grant such a degree under section 76 of the Further and Higher Education Act 1992[^f00002] or section 48 of the Further and Higher Education (Scotland) Act 1992[^f00003],
+- “forestry or arboriculture subject” includes agroforestry, woodland ecology and woodland management.
+
+FERGUS EWING
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+13th March 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The chief forester is an officer appointed to assist and advise the Scottish Ministers in the carrying out of their functions under the Forestry and Land Management (Scotland) Act 2018. These Regulations prescribe the qualifications a person must have to be appointed as the chief forester.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 asp 8](https://www.legislation.gov.uk/asp/2018/8).
+
+[^f00002]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13). Section 76 was relevantly amended by section 19 of the Further Education and Training Act [2007 (c.25)](https://www.legislation.gov.uk/ukpga/2007/25).
+
+[^f00003]: Footnote: [1992 c.37](https://www.legislation.gov.uk/ukpga/1992/37).

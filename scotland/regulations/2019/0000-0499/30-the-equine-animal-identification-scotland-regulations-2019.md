@@ -1,0 +1,529 @@
+---
+title: The Equine Animal (Identification) (Scotland) Regulations 2019
+id: ssi/2019/30
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-02-05'
+text_date: '2021-03-28'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2019/30
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2019/30/pdfs/ssipn_20190030_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/30/pdfs/ssi_20190030_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/30/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Equine Animal (Identification) (Scotland) Regulations 2019
+
+> Text as at 2021-03-28.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2019 No. 30
+
+Animals
+
+The Equine Animal (Identification) (Scotland) Regulations 2019
+
+Made
+
+5th February 2019
+
+Laid before the Scottish Parliament
+
+7th February 2019
+
+Coming into force
+
+28th March 2019
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) and paragraph 1A of schedule 2 of the European Communities Act 1972[^f00001] and all other powers enabling them to do so.
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Scottish Ministers that it is expedient for the references to the Commission Implementing Regulation (EU) 2015/262 laying down rules pursuant to Council Directives [90/427/EEC](https://www.legislation.gov.uk/european/directive/1990/0427) and [2009/156/EC](https://www.legislation.gov.uk/european/directive/2009/0156) as regards the methods for the identification of equidae (Equine Passport Regulation) to be construed as references to that instrument as amended from time to time.
+
+## 1. Citation, commencement and extent[^key-28533318d6d4bf61daa1d4782a009566]
+
+(1) These Regulations may be cited as the Equine Animal (Identification) (Scotland) Regulations 2019 and, subject to paragraph (2), come into force on 28 March 2019.
+
+(2) Regulation 11(3)(c) comes into force on 28 March 2021.
+
+(3) These Regulations extend to Scotland and, in so far as they extend beyond Scotland, they do so only as a matter of Scots law[^f00002].
+
+## 2. Interpretation[^key-a225c29df23e676a3ac75027d1b0a85d]
+
+(1) In these Regulations—
+
+- “duplicate identification document” means a duplicate identification document issued in accordance with Article 29 or 30,
+- “identification document” means an identification document for identification of an equine animal for the purposes of the Commission Regulation and these Regulations,
+- “inspector” means a person appointed as an inspector for the purposes of these Regulations by a local authority, or, as the case may be, the Scottish Ministers,
+- “issuing body” means an issuing body as referred to in Article 5(1),
+- “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00003],
+- “the Commission Regulation” means Commission Implementing Regulation (EU) 2015/262 laying down rules pursuant to Council Directives [90/427/EEC](https://www.legislation.gov.uk/european/directive/1990/0427) and [2009/156/EC](https://www.legislation.gov.uk/european/directive/2009/0156) as regards the methods for the identification of equidae (Equine Passport Regulation)[^f00004], as amended from time to time,
+- “replacement identification document” means a replacement identification document issued in accordance with Article 32,
+- “veterinary medicinal product” has the meaning given in [Directive 2001/82/EC](https://www.legislation.gov.uk/european/directive/2001/0082) of the European Parliament and of the Council on the Community code relating to veterinary medicinal products[^f00005], and
+- “veterinary surgeon” means a member of the Royal College of Veterinary Surgeons or of an equivalent professional body in a Member State.
+
+(2) Expressions used both in these Regulations and in the Commission Regulation have the same meaning in these Regulations as they have in the Commission Regulation.
+
+(3) Any reference in these Regulations to—
+
+- (a) a numbered Article is a reference to the Article so numbered in the Commission Regulation, and
+- (b) a numbered Section is a reference to the Section so numbered in the identification document prepared in accordance with the model identification document set out in Part 1 of Annex 1 to the Commission Regulation.
+
+## 3. Competent authority[^key-7efc605a703c08f90c5cb7b10380d4c8]
+
+The Scottish Ministers are the competent authority for the purposes of the Commission Regulation.
+
+## 4. Identification of equine animals[^key-09c18b7d04c83d25c28a0277a631f2f1]
+
+A person must not keep an equine animal unless that animal is identified in accordance with the Commission Regulation and these Regulations.
+
+## 5. Application for identification document[^key-4a9348d34ed8c9fb3b87b737dd4dd990]
+
+For the purposes of Article 11(2), the time limit for submission of an application for an identification document is no later than 30 days prior to the final date for issuing an identification document under regulation 6.
+
+## 6. Issue of identification document by issuing body[^key-2ab44a4cc1a7cb72fb9479b85337064c]
+
+An issuing body must, following receipt of an application submitted in accordance with Article 11 and regulation 5, and subject to payment to the issuing body of a reasonable fee, set under and in accordance with their rules, issue an identification document in accordance with Article 9, by the later of either—
+
+- (a) 31 December in the calendar year of the equine animal’s birth, or
+- (b) the end of the month that is 6 months following the date of its birth.
+
+## 7. Notification of veterinary medicinal products administered[^key-cd48232004b1a74a138c4d5fa7ca102b]
+
+A person, when submitting an application for an identification document in respect of an equine animal, must notify the issuing body of any veterinary medicinal product administered to that animal.
+
+## 8. Details of ownership[^key-5b8f3b4ec5820e19580ca3aded37b464]
+
+For the purposes of Article 9(1)(c), as read with Article 10(3), Section IV (details of ownership) of an identification document must be completed by an issuing body before that document is issued under Article 9.
+
+## 9. Issue of duplicate or replacement identification documents[^key-548e5dc295d6106aaa3b4e1708fc55f9]
+
+(1) Paragraph (2) applies where, in respect of an equine animal, an issuing body issues—
+
+- (a) a duplicate identification document under and in accordance with Article 29, as read with Article 30,
+- (b) a replacement identification document under and in accordance with Article 32, or
+- (c) a duplicate identification document or replacement identification document in a case to which Article 17(2) applies.
+
+(2) The issuing body must classify the equine animal as not intended for human consumption by marking accordingly in Part II of Section II (administration of veterinary medicinal products) of that duplicate or replacement identification document (provided a declaration is not already so made in accordance with Article 37(3)).
+
+## 10. Completion of existing identification documents for equidae imported into Great Britain from a third country[^key-3c39f0c45694b7f06ef3aaa5afe90a81][^key-a0103eb0dc6008b9b88cc9ac5d8f1b0f]
+
+A keeper must provide to the issuing body all information necessary to allow the issuing body to complete an existing identification document for the purposes of Article 15(2), and subject to Article 15(3), so that it complies with the requirements of Article 7(2).
+
+## 11. Measures in relation to the verification of identification and the implantation of transponders[^key-5b7b1d7e8b551d2a9b2bd1199bb90160][^key-bfb850ca560e1a1d3b8bffd7429ec210]
+
+(1)[^key-5b7b1d7e8b551d2a9b2bd1199bb90160] For the purposes specified in Article 16(1)—
+
+- (a) an issuing body and a veterinary surgeon acting on behalf of an issuing body, must take the measures specified in Article 16(2)(a), and
+- (b) a veterinary surgeon acting on behalf of an issuing body, must take the measures specified in Article 16(2)(b) and (c), including the measures specified in Article 17(1).
+
+(2)[^key-5b7b1d7e8b551d2a9b2bd1199bb90160] In accordance with Article 18(2) and for the purposes of Article 18(3), the issuing body must ensure that a transponder is implanted in an equine animal by a veterinary surgeon.
+
+(3) For the purposes of Article 18(5), a keeper must arrange for a veterinary surgeon to mark an equine animal deemed to be identified in accordance with Articles 4(2) and 43(1) by the implantation of a transponder for the purpose of identity verification in the case where—
+
+- (a)[^key-5b7b1d7e8b551d2a9b2bd1199bb90160] Article 18(5)(a) applies,
+- (b)[^key-5b7b1d7e8b551d2a9b2bd1199bb90160] an equine animal arrives in Scotland having been subject to an alternative method of identity verification authorised by a[^key-82c1f2bea319573c7713c137204a4169] Member State as referred to in Article 21 of Commission Implementing Regulation (EU) 2015/262 laying down rules pursuant to Council Directives[^key-e889e266a93740f6bd57588a55294d38] [90/427/EEC](https://www.legislation.gov.uk/eudr/1990/427) and [2009/156/EC](https://www.legislation.gov.uk/eudr/2009/156) as regards the methods for the identification of equidae (Equine Passport Regulation) [^M_F_f969e9af-4cec-4561-be32-47b789225d49] as it has effect in EU law, as amended from time to time, or
+- (c)[^key-bfb850ca560e1a1d3b8bffd7429ec210] the equine animal was born on or before 30 June 2009.
+
+(4)[^key-5b7b1d7e8b551d2a9b2bd1199bb90160] For the purposes of Article 19(1), any transponder implanted into an equine animal by a veterinary surgeon must display a code unique to that transponder.
+
+## 12. Smart card to accompany equine animal[^key-7481818940d7cd43d843e88acbd49ae7]
+
+(1) In accordance with Article 25(1), registered equidae or equidae for breeding and production may be moved or transported within Scotland unaccompanied by their identification document provided that they are accompanied by a smart card issued in respect of that animal by the same issuing body that issued their identification document.
+
+(2) The smart card referred to in paragraph (1) must—
+
+- (a) contain the information at Annex II to the Commission Regulation, and
+- (b) be issued by the same issuing body that issued an identification document in respect of the relevant equine animal.
+
+## 13. Slaughter or death[^key-a7578d5f024242ee17302e7ea9928531]
+
+Where in accordance with Article 34(1)(c)(ii) an official veterinarian, or a person acting under the supervision of an official veterinarian, is required to return the invalidated identification document to the issuing body, the official veterinarian, or the person acting under his or her supervision, must return that document within a period of 30 days, beginning with the day on which the equine animal was slaughtered or killed, together with information about the date on which it was slaughtered or killed.
+
+## 14. Databases[^key-871e9b997676cb519bb521f6444b42ed]
+
+(1) An issuing body must provide the information listed in Article 38(1)(a) to (j) and (l) to (o) in respect of each equine animal for which it issues an identification document, so far as held by the issuing body, to the Scottish Ministers, within a period of 15 days beginning with the day on which that information was recorded in the database maintained for the purposes of that Article.
+
+(2) The Scottish Ministers must maintain a record of the information provided to them in accordance with paragraph (1).
+
+(3) Where an issuing body’s authorisation to issue identification documents has, in accordance with Article 5(4), been withdrawn, the Scottish Ministers must ensure that equine animals continue to be identified in accordance with the Commission Regulation.
+
+(4) For the purposes of Article 39, the Scottish Ministers must provide the information provided to them in accordance with paragraph (1) to the Secretary of State.
+
+(5) On the slaughter or death of an equine animal, the Scottish Ministers must provide the information held by them about that equine animal to the official veterinarian, referred to in Article 34(2)(a), carrying out or supervising the measures set out Article 34(1).
+
+(6) Where they consider it appropriate to do so, the Scottish Ministers may provide information provided to them in accordance with paragraph (1), so far as held by them, to any other person who requests that information.
+
+## 15. Enforcement[^key-5d26d1a4fcf4b185208afd9e9b55bb7e]
+
+(1) These Regulations are to be enforced by the local authority.
+
+(2) The Scottish Ministers may direct, in relation to cases of a particular description or any particular case, that they are to enforce these Regulations instead of the local authority.
+
+## 16. Powers of inspectors[^key-d6a5b8528dfd1d0442c0ff5656d2b8a0]
+
+(1) An inspector may exercise any of the powers specified in this regulation for the purpose of administering and enforcing the Commission Regulation and these Regulations.
+
+(2) An inspector may, on producing if so required a duly authenticated document showing authority, at all reasonable times enter any land or premises (excluding any premises not containing an equine animal and used wholly or mainly as a private dwelling).
+
+(3) A warrant may be granted only if a sheriff or justice of the peace is satisfied, by evidence on oath—
+
+- (a) that there are reasonable grounds for entry onto land or premises by an inspector under this regulation, and
+- (b) that—
+  - (i) entry has been refused,
+  - (ii) such a refusal is reasonably expected, and that person has given notice to the occupier of his or her intention to apply for an entry warrant,
+  - (iii) a request for entry, or the giving of such a notice, would defeat the object of entry,
+  - (iv) entry is urgently required,
+  - (v) the premises are unoccupied, or
+  - (vi) the occupier is temporarily absent and it would defeat the object of entry to await the occupier’s return.
+
+(4) The sheriff or justice of the peace may, by signed warrant, valid for a period of no more than one month, authorise that inspector, together with any person who may accompany an inspector by virtue of paragraph (6), to enter the land or premises, if need be by reasonable force.
+
+(5) An inspector may—
+
+- (a) require the production of an identification document, duplicate identification document, replacement identification document or smart card (as referred to in regulation 12) and mark it as necessary,
+- (b) carry out any inquiries,
+- (c) have access to, and inspect and copy any records (in whatever form they are held) kept for the purposes of the Commission Regulation or these Regulations,
+- (d) remove such records to enable them to be copied,
+- (e) have access to, inspect and check the operation of any computer and any associated apparatus or material that is or has been in use in connection with the records; and for this purpose may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford the inspector such assistance as may reasonably be required and, where a record is kept by means of a computer, may require the records to be produced in a form in which they may be taken away,
+- (f) mark any equine animal or other thing for identification purposes,
+- (g) examine any equine animal, identification document or transponder,
+- (h) require the name and address of any person in charge or in possession of identification documents, records or studbooks, or in control of any equine animal,
+- (i) take photographs or any other digital record of anything on the land or premises,
+- (j) take samples from, for the exercise of his or her functions, an equine animal or any article the inspector may reasonably require, and carry out or cause to be carried out, on the samples such tests, analyses, examinations or inspections as the inspector considers necessary or expedient, and mark or otherwise identify the sample.
+
+(6) An inspector entering onto land or premises by virtue of this regulation may be accompanied by such other person as the inspector considers necessary.
+
+(7) A person accompanying an inspector may also exercise any of the powers conferred on an inspector by virtue of paragraph (5).
+
+(8) If the inspector, or an accompanying person, causes damage in exercising the powers in this regulation, the local authority (or, as the case may be, the Scottish Ministers) must—
+
+- (a) take reasonable steps to remedy the damage, or
+- (b) if it is not possible to remedy the damage, pay compensation for it.
+
+(9) An inspector who enters any unoccupied premises must leave them as effectively secured as they were before those premises were entered.
+
+(10) If the inspector causes loss or damage by failing to comply with subsection (9), the local authority (or, as the case may be, the Scottish Ministers) must pay compensation for the loss or damage.
+
+(11) In this regulation, “land” and “premises” include a vehicle, vessel or container.
+
+## 17. Failure to comply with these Regulations[^key-d101413937e69b98a431535b75cdd40d]
+
+It is an offence to fail to comply with—
+
+- (a) regulation 4 (identification of equine animals),
+- (b) regulation 5 (application for identification document),
+- (c) regulation 6 (issue of identification document by issuing body),
+- (d) regulation 7 (notification of veterinary medicinal products administered),
+- (e) regulation 8 (details of ownership),
+- (f) regulation 9(2) (classification of equine animal as not intended for human consumption),
+- (g) regulation 10 (completion of existing identification documents for equidae imported into Great Britain from a third country[^key-12936b5b11e1d2d619285797d53a2395]),
+- (h) regulation 11(2), (3) and (4) (requirements relating to transponders),
+- (i) regulation 12 (smart card to accompany equine animal), and
+- (j) regulation 14(1) (provision of information to the Scottish Ministers).
+
+## 18. Failure to comply with a specified requirement[^key-d7029e59e5b9c627796f89cf9e5c758a]
+
+(1) A person who fails to comply with a specified requirement without reasonable excuse, commits an offence.
+
+(2) In this regulation, “specified requirement” means a requirement set out in a provision of the Commission Regulation, where applicable as read with provisions of these Regulations, specified in column 1 of the table in the schedule (specified requirements), the subject matter of which is described in column 2 of that table.
+
+## 19. Offence of moving or transporting an equine animal without a temporary document[^key-164f0f0c20b3d01ddb6baaf3323fb6a6]
+
+(1) A keeper who has surrendered the identification document of an equine animal in the circumstances specified in Article 24(1) and who, without reasonable excuse—
+
+- (a) moves or transports the equine animal within Scotland without a temporary document, such a document having been issued in respect of that animal,
+- (b) moves or transports the equine animal within Scotland with a temporary document but for a period exceeding 45 days, or
+- (c)[^key-8d9217f2fa71e8e798ea3514040c8968] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+commits an offence.
+
+(2) Except as otherwise directed by the Scottish Ministers, temporary documents granted in England, Wales or Northern Ireland in accordance with Article 24(1) have effect in Scotland as if they were temporary documents granted by an issuing body in Scotland.
+
+## 20. Offences relating to implantation of transponder[^key-d8bf85c370ae0898fff91b648e8cf800]
+
+A person who does not meet the minimum qualification for implantation of a transponder as referred to in regulation 11(2), and who, without reasonable excuse—
+
+- (a) implants or attempts to implant in an equine animal a transponder or a device which falsely purports to be a transponder, or
+- (b) tampers or otherwise alters a transponder with intent to deceive,
+
+commits an offence.
+
+**21.**[^key-de728c94e2b97f0d47247b3a6a34b9d0] A person who meets the minimum qualification for implantation of a transponder as referred to in regulation 11(2) and who knowingly—
+
+- (a) implants or attempts to implant in an equine animal a device which falsely purports to be a transponder, or
+- (b) tampers or otherwise alters a transponder with intent to deceive,
+
+commits an offence.
+
+**22.**[^key-bd23de1ac9b6018b3ccf6605bb3bfa50] A person who, without reasonable excuse, removes or attempts to remove a transponder from an equine animal other than in accordance with the Commission Regulation and these Regulations commits an offence.
+
+## 23. Offences relating to identification documents[^key-33748f60febbc6058869376d39a37eb1]
+
+A person who knowingly makes an application for a duplicate identification document or replacement identification document in contravention of Article 29 or 32, as read with Article 17(2), commits an offence.
+
+**24.**[^key-9584be47629a41006689d05f3ef5a23d] (1) A person who otherwise than in accordance with the Commission Regulation or these Regulations—
+
+- (a) without reasonable excuse destroys or defaces an identification document,
+- (b) without reasonable excuse alters an entry in an identification document,
+- (c) knowingly issues an identification document,
+- (d) knowingly is in possession of a identification document issued otherwise than in accordance with the Commission Regulation and these Regulations, or
+- (e) provides any information in an application for an identification document knowing it to be false or misleading,
+
+commits an offence.
+
+(2) In this regulation, “identification document” includes a duplicate identification document, replacement identification document or a smart card.
+
+## 25. Further offences[^key-688fb0f3d8bca6f6fe1d30fb0f09910d]
+
+A person who—
+
+- (a) intentionally obstructs an inspector (or a person accompanying an inspector and acting under the inspector’s instructions) acting in the execution or enforcement of the Commission Regulation and these Regulations,
+- (b) fails, without reasonable excuse, to give to any person acting in the execution or enforcement of these Regulations any assistance or information that is reasonably required,
+- (c) provides to any person acting in the execution or enforcement of these Regulations any information knowing it to be false or misleading or not believing it to be true,
+- (d) fails, without reasonable excuse, to produce any document or record when required to do so by any person acting in the execution or enforcement of these Regulations, or
+- (e) defaces, obliterates or removes any mark applied under regulation 16(5)(f) except under the written authority of an inspector,
+
+commits an offence.
+
+## 26. Penalties[^key-41b9cccd8320d90dcbf38d7f5c6721ed]
+
+A person who commits an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+
+## 27. Fixed penalty notices[^key-1a6478ea1ccb5dfa73d048beb74d8b8a]
+
+(1) Where it is believed that a person has committed one or more of the following offences, this regulation applies—
+
+- (a) contravention of Article 23(1) as read with Article 23(2) (keeper required to ensure identification documents accompany equidae at all times), in circumstances where no smart card has been issued in accordance with regulation 12 (smart card to accompany equine animal), and where the circumstances of Article 24(1) do not apply, and
+- (b) contravention of Article 26(1)(a).
+
+(2) Where an authorised officer of a local authority has reason to believe that a person is committing or has committed, within the area of the local authority, an offence specified in paragraph (1), the officer may issue that person a fixed penalty notice.
+
+(3) A fixed penalty notice must—
+
+- (a) identify the alleged offence,
+- (b) give reasonable particulars of the circumstances alleged to constitute that offence,
+- (c) state the amount of the penalty and the period within which it may be paid,
+- (d) state the person to whom and the address at which payment of the penalty may be made,
+- (e) state the method or methods by which payment may be made,
+- (f) identify the person to whom and the address at which any representations relating to the notice may be made,
+- (g) contain an explanation of the effect of making payment in accordance with the notice, and of the consequences of not making a payment within the period for payment.
+
+(4) The period for payment of the fixed penalty is the period of 28 days beginning with the day on which the notice is issued.
+
+(5) The local authority may extend the period for paying the fixed penalty in any particular case if it considers it appropriate to do so.
+
+(6) A penalty notice is issued at the time when it is sent by post.
+
+(7) The sum specified for payment in a fixed penalty notice is 40 per cent of level 1 on the standard scale.
+
+(8) Where a person is issued with a fixed penalty notice in respect of an offence specified in paragraph (1)—
+
+- (a) no criminal proceedings for the offence may be commenced before the end of the period for payment of the penalty, and
+- (b) if the person makes payment in accordance with the notice, the person may not at any time be convicted of that offence in respect of that person’s relevant act or omission.
+
+(9) A fixed penalty notice must be issued as soon as reasonably practicable.
+
+(10) A fixed penalty notice may be withdrawn by an authorised officer, if an authorised officer determines that the offence to which the notice relates was not committed or that the notice ought not to have been issued to the person named as the person to whom it was issued.
+
+(11) Where a fixed penalty notice has been withdrawn—
+
+- (a) no amount is payable by way of fixed penalty in pursuance of that notice, and
+- (b) any amount paid by way of fixed penalty in pursuance of that notice must be repaid to the person who paid it.
+
+(12) In this regulation—
+
+- “authorised officer” means an officer authorised by the local authority to receive information about the alleged commission of the offences specified in paragraph (1), and
+- “fixed penalty notice” means a notice issued by or on behalf of the local authority in whose area the offence is suspected of having been committed, offering the person to whom it is issued the opportunity to discharge any liability to conviction for an offence by payment of a fixed penalty to the appropriate local authority.
+
+## 28. Offences by bodies corporate, etc[^key-b984da8087449775abc253f3f77e43e0]
+
+(1) Where—
+
+- (a) an offence under these Regulations has been committed by a body corporate or a Scottish partnership or other unincorporated association, and
+- (b) it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+  - (i) a relevant individual, or
+  - (ii) an individual purporting to act in the capacity of a relevant individual,
+
+the individual as well as the body corporate, Scottish partnership or unincorporated association commits the offence and is liable to be proceeded against and punished accordingly.
+
+(2) In paragraph (1), “relevant individual” means—
+
+- (a) in relation to a body corporate—
+  - (i) a director, manager, secretary or other similar officer of the body,
+  - (ii) where the affairs of the body are managed by its members, a member,
+- (b) in relation to a Scottish partnership, a partner, or
+- (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+## 29. Revocation[^key-39f3ffaf6081c22f6e9c30fbc8a1137d]
+
+The Horse Identification (Scotland) Regulations 2009 are revoked[^f00006].
+
+MAIRI GOUGEON
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE — Specified requirements[^key-b0ac454b3989d3b5748567a5728b4dc0]
+
+Regulation 18
+
+| Column 1: specified requirement | Column 2: subject matter of the specified requirement |
+| --- | --- |
+| First subparagraph of Article 7(4) | Responsibility of issuing body for the secure management of identification documents on their premises |
+| Second subparagraph of Article 7(4) | Responsibility of issuing body to ensure effective invalidation of identification document before handed out to the owner in memory of the animal[^f00007] |
+| Article 9(1), but excluding Article 9(1)(c) | Requirements on issuing body in relation to issuing identification documents |
+| The second subparagraph of Article 12(3) in so far as it applies to the keeper | Requirement on keeper to surrender existing identification document to issuing body to be invalidated, in respect of identification of equidae born in Great Britain[^key-6aa2611997d395acd7012803e5bce04d] |
+| Article 15(1) | Keeper to apply for an identification document, or register an existing identification document in the database of the issuing body, in respect of equidae imported into Great Britain from a third country[^key-ed9ae4beae25283165e34a51e9212b9c] |
+| Article 15(3) | Issuing body to issue new identification document where existing identification document cannot be amended to comply with requirements of Article 7(2). |
+| Articles 16 and 17(1) and (2) | Requirements on issuing body or a veterinary surgeon acting on behalf of the issuing body in respect of measures to verify a single identification document for equidae and to detect previous identification |
+| Article 17(3) | Requirement on issuing body in respect of issuing a replacement identification document where a transponder or alternative method of identification has been removed in respect of equidae born in the Union or the United Kingdom[^key-35a3fba0cb6e49556b4f99e7bfcdd7a5] |
+| Article 18(2) | Requirements on a veterinary surgeon when implanting a transponder |
+| Article 20(1) (as read with Article 20(2)) | Requirement on issuing body to record transponder code and other related information in an identification document |
+| Article 23(1) (as read with Articles 23(2) and 25(1) and regulation 12 of these Regulations) | Requirement on keeper to ensure an identification document accompanies equidae at all times |
+| Article 26(1)(a) | Requirement on keeper to ensure an identification document accompanies equidae being moved or transported to slaughterhouse |
+| Article 27(1) and (2) | Requirement on keeper to ensure identification details in an identification document are up to date and correct and ensure an identification document is lodged with the appropriate issuing body in the constituent territory of Great Britain[^key-c9629419971acb58cd2cf0187c13f9f4], within 30 days of certain events |
+| Article 27(3) | Requirement on keeper to lodge an identification document with another issuing body, or competent authority, to keep identification details up to date within 30 days of certain events |
+| Article 28(a) to (d) | Requirement on an issuing body as regards management of identification documents |
+| Article 29 as read with Article 30, but excluding the Article 29(3) requirement to forward details of the duplicate identification document to the central database. | Requirement on an issuing body to issue a duplicate identification document |
+| Article 32, but excluding the Article 32(3) requirement to forward details of the replacement identification document to the central database. | Requirement on an issuing body to issue a replacement identification document |
+| Article 35(1) | Obligations of the keeper in case of death or loss of an equine animal not referred to in Article 34 |
+| Article 35(2), but excluding the requirement to act in accordance with point (e) of Article 28. | Obligations of the issuing body in case of death or loss of an equine animal not referred to in Article 34 |
+| Article 37(2) | Requirement on the veterinarian responsible to ascertain equine animal’s status |
+| Article 37(3) | Requirement on the veterinarian responsible to ensure that an equine animal is irreversibly declared as not intended for slaughter for human consumption |
+| Article 37(4) | Requirement on keeper to lodge identification document with issuing body, or provide information online, within 14 days from the taking of Article 37(3) measures |
+| Article 37(6) | Requirements on the veterinarian responsible to enter details in the identification document, and inform the keeper of the date of the lapse of the withdrawal period, concerning the medicinal product administered |
+| Article 38(2) | Requirement for issuing body to keep information on its database |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement and enforce in Scotland Commission Implementing Regulation (EU) 2015/262 laying down rules pursuant to Council Directives [90/427/EEC](https://www.legislation.gov.uk/european/directive/1990/0427) and [2009/156/EC](https://www.legislation.gov.uk/european/directive/2009/0156) as regards the methods for the identification of equidae (Equine Passport Regulation).
+
+These Regulations revoke and replace the Horse Identification (Scotland) Regulations 2009.
+
+The Equine Passport Regulation regulates the identification of equine animals born in, or moving within, the EU. The system of identification comprises a single lifetime identification document that must constantly accompany an equine animal, identity verification through insertion of a transponder bearing a unique code, and information entered onto databases held by issuing bodies and by Member States. Identification documents must be kept up-to-date. Competent authorities within a Member State may also expressly permit the issue of smart cards that may be carried in place of identification documents during the movement or transport of equine animals. It also provides for the issue of duplicate or replacement identification documents. On the slaughter, death or loss of the equine animal, the Equine Passport Regulation requires the recovery and destruction or disposal of the transponder, and the rendering invalid of an identification document prior to its return to the issuing body.
+
+These Regulations provide for the following:—
+
+- The Scottish Ministers are designated as the competent authority (regulation 3).
+- Identification documents must be issued no later than either 31 December in the year of the equine animal’s birth or 6 months after its birth, whichever is the later (regulation 6).
+- The time limit for submission of an application for an identification document is no later than 30 days prior to the above deadlines (regulation 5).
+- Regulation 11 sets out the measures to be taken by various parties in relation to the verification of identification and the implantation of transponders in equine animals.
+- Within Scotland, equine animals may be moved or transported unaccompanied by their identification document provided they are accompanied by a smart card issued by the appropriate issuing body (regulation 12).
+- Regulation 14 enables the Scottish Ministers to maintain a database of equine animals whose details are recorded by Scottish issuing bodies.
+- Regulations 15 and 16 make provision for enforcement, including powers of inspectors.
+- Regulations 17 to 28 and the Schedule make provision for offences and penalties, including powers to issue fixed penalty notices (regulation 27).
+- A fixed penalty notice may be issued by an authorised officer of a local authority, in respect of breaches of Article 23(1), and of Article 26(1)(a) (regulation 27).
+
+A business regulatory impact assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies can be obtained from the Scottish Government Directorate for Agriculture and Rural Economy, Animal Health and Welfare Division, Saughton House, Broomhouse Drive, Edinburgh EH11 3XD.
+
+## Annotations
+
+[^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“the 2008 Act”), section 3(3) and schedule 1, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act, schedule 1, Part 1.
+
+[^key-28533318d6d4bf61daa1d4782a009566]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/30/regulation/1) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^f00002]: Footnote: Regulation 19(1)(c) concerns conduct taking place outside Scotland which is to be subject to Scots law. These Regulations also apply to Scottish issuing bodies, which may issue identification documents for equine animals outside Scotland.
+
+[^key-a225c29df23e676a3ac75027d1b0a85d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/30/regulation/2) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^f00003]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by section 120 and schedule 22, paragraph 232(1) of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^f00004]: Footnote: OJ L 59, 3.3.2015, p.1-53.
+
+[^f00005]: Footnote: OJ L 311, 28.11.2001, p.1.
+
+[^key-7efc605a703c08f90c5cb7b10380d4c8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/30/regulation/3) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-09c18b7d04c83d25c28a0277a631f2f1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/30/regulation/4) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-4a9348d34ed8c9fb3b87b737dd4dd990]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/30/regulation/5) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-2ab44a4cc1a7cb72fb9479b85337064c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/30/regulation/6) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-cd48232004b1a74a138c4d5fa7ca102b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2019/30/regulation/7) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-5b8f3b4ec5820e19580ca3aded37b464]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2019/30/regulation/8) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-548e5dc295d6106aaa3b4e1708fc55f9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2019/30/regulation/9) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-3c39f0c45694b7f06ef3aaa5afe90a81]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2019/30/regulation/10) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-a0103eb0dc6008b9b88cc9ac5d8f1b0f]: Textual amendment: Words in reg. 10 heading substituted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [33(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/33/2) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-5b7b1d7e8b551d2a9b2bd1199bb90160]: Commencement: [Reg. 11(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/11/1)[(2)](https://www.legislation.gov.uk/ssi/2019/30/regulation/11/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2019/30/regulation/11/3/a)[(b)](https://www.legislation.gov.uk/ssi/2019/30/regulation/11/3/b)[(4)](https://www.legislation.gov.uk/ssi/2019/30/regulation/11/4) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-bfb850ca560e1a1d3b8bffd7429ec210]: Commencement: [Reg. 11(3)(c)](https://www.legislation.gov.uk/ssi/2019/30/regulation/11/3/c) in force at 28.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/2)
+
+[^key-82c1f2bea319573c7713c137204a4169]: Textual amendment: Word in [reg. 11(3)(b)](https://www.legislation.gov.uk/ssi/2019/30/regulation/11/3/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [33(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/33/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e889e266a93740f6bd57588a55294d38]: Textual amendment: Words in [reg. 11(3)(b)](https://www.legislation.gov.uk/ssi/2019/30/regulation/11/3/b) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [33(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/33/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^M_F_f969e9af-4cec-4561-be32-47b789225d49]: Textual amendment: OJ L 59, 3.3.2015, p.1.
+
+[^key-7481818940d7cd43d843e88acbd49ae7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2019/30/regulation/12) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-a7578d5f024242ee17302e7ea9928531]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2019/30/regulation/13) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-871e9b997676cb519bb521f6444b42ed]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2019/30/regulation/14) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-5d26d1a4fcf4b185208afd9e9b55bb7e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2019/30/regulation/15) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-d6a5b8528dfd1d0442c0ff5656d2b8a0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2019/30/regulation/16) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-d101413937e69b98a431535b75cdd40d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2019/30/regulation/17) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-12936b5b11e1d2d619285797d53a2395]: Textual amendment: Words in reg. 17(g) substituted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [33(4)](https://www.legislation.gov.uk/ssi/2019/71/regulation/33/4) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d7029e59e5b9c627796f89cf9e5c758a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2019/30/regulation/18) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-164f0f0c20b3d01ddb6baaf3323fb6a6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2019/30/regulation/19) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-8d9217f2fa71e8e798ea3514040c8968]: Textual amendment: Reg. 19(1)(c) omitted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [33(5)](https://www.legislation.gov.uk/ssi/2019/71/regulation/33/5) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d8bf85c370ae0898fff91b648e8cf800]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2019/30/regulation/20) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-de728c94e2b97f0d47247b3a6a34b9d0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2019/30/regulation/21) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-bd23de1ac9b6018b3ccf6605bb3bfa50]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2019/30/regulation/22) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-33748f60febbc6058869376d39a37eb1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2019/30/regulation/23) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-9584be47629a41006689d05f3ef5a23d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2019/30/regulation/24) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-688fb0f3d8bca6f6fe1d30fb0f09910d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2019/30/regulation/25) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-41b9cccd8320d90dcbf38d7f5c6721ed]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2019/30/regulation/26) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-1a6478ea1ccb5dfa73d048beb74d8b8a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2019/30/regulation/27) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-b984da8087449775abc253f3f77e43e0]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2019/30/regulation/28) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^key-39f3ffaf6081c22f6e9c30fbc8a1137d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2019/30/regulation/29) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^f00006]: Footnote: [S.S.I. 2009/231](https://www.legislation.gov.uk/ssi/2009/231).
+
+[^key-b0ac454b3989d3b5748567a5728b4dc0]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2019/30/schedule) in force at 28.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/30/regulation/1/1)
+
+[^f00007]: Footnote: Article 7(4) states that this is subject to the rules of procedure of an issuing body.
+
+[^key-6aa2611997d395acd7012803e5bce04d]: Textual amendment: Words in sch. substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [33(6)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/33/6/a) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-ed9ae4beae25283165e34a51e9212b9c]: Textual amendment: Words in sch. substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [33(6)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/33/6/b) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-35a3fba0cb6e49556b4f99e7bfcdd7a5]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2019/30/schedule) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [33(6)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/33/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-c9629419971acb58cd2cf0187c13f9f4]: Textual amendment: Words in sch. substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [33(6)(d)](https://www.legislation.gov.uk/ssi/2019/71/regulation/33/6/d) (as amended by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(4)(d)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/4/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

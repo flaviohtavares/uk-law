@@ -1,0 +1,1808 @@
+---
+title: Victims and Witnesses (Scotland) Act 2014
+id: asp/2014/1
+type: ScottishAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2014-01-17'
+text_date: '2026-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2014/1
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2014/1/pdfs/aspen_20140001_en.pdf
+- http://www.legislation.gov.uk/asp/2014/1/pdfs/asp_20140001_en.pdf
+- http://www.legislation.gov.uk/asp/2014/1/data.pdf
+pending_changes: 7
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Victims and Witnesses (Scotland) Act 2014
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/asp/2014/1
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Victims and Witnesses (Scotland) Act 2014
+
+2014 asp 1
+
+An Act of the Scottish Parliament to make provision for certain rights and support for victims and witnesses, including provision for implementing Directive 2012/29/EU of the European Parliament and the Council; and to make provision for the establishment of a committee of the Mental Welfare Commission with functions relating to persons who were placed in institutional care as children.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 12th December 2013 and received Royal Assent on 17th January 2014
+
+## General principles
+
+### 1. General principles[^key-d7e5b5e8fc73cda3020fdda5d2503046]
+
+(1) Each person mentioned in subsection (2) must have regard to the principles mentioned in subsection (3) in carrying out functions conferred on the person by or under any enactment in so far as those functions relate to a person who is or appears to be a victim or witness in relation to a criminal investigation or criminal proceedings.
+
+(2) The persons are—
+
+- (a) the Lord Advocate,
+- (b) the Scottish Ministers,
+- (c) the chief constable of the Police Service of Scotland,
+- (d) the Scottish Court Service,
+- (e) the Parole Board for Scotland.
+
+(3) The principles are—
+
+- (a) that a victim or witness should be able to obtain information about what is happening in the investigation or proceedings,
+- (b) that the safety of a victim or witness should be ensured during and after the investigation and proceedings,
+- (c) that a victim or witness should have access to appropriate support during and after the investigation and proceedings,
+- (ca)[^key-91cec104e44583ffbfe1fdea8d867d06] that, during and after the investigation and proceedings, a victim or witness should be treated in a way that accords with trauma-informed practice,
+- (d) that, in so far as it would be appropriate to do so, a victim or witness should be able to participate effectively in the investigation and proceedings.
+
+(3A)[^key-d3157fc6fcc9a5a9d547bd5b0eaed266] For the purposes of this section, “**trauma-informed practice**” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025.
+
+(4) The Scottish Ministers may by order modify subsection (2).
+
+(5) An order under subsection (4) is subject to the affirmative procedure.
+
+### 1A. Further general principles applicable to victims[^key-850fc1b30632cec4ed8b610871424f3a]
+
+(1) Each person mentioned in section 1(2) must have regard to the principles mentioned in subsection (2) in carrying out functions conferred on the person by or under any enactment in so far as those functions relate to a person who is or appears to be a victim in relation to a criminal investigation or criminal proceedings.
+
+(2) The principles are—
+
+- (a) that victims should be treated in a respectful, sensitive, tailored, professional and non-discriminatory manner,
+- (b) that victims should, as far as is reasonably practicable, be able to understand information they are given and be understood in any information they provide,
+- (c) that victims should have their needs taken into consideration,
+- (d) that, when dealing with victims who are children, the best interests of the child should be considered, taking into account the child’s age, maturity, views, needs and concerns, and
+- (e) that victims should be protected from—
+  - (i) secondary and repeat victimisation,
+  - (ii) intimidation, and
+  - (iii) retaliation.
+
+(3) In this section, “child” means a person under 18 years of age.
+
+## Standards of service
+
+### 2. Standards of service[^key-4443a4713b57ac7ae1c2871be77f589c][^key-27377977da22de0296fa54752ee60681]
+
+(1) Each person mentioned in subsection (2) must set and publish standards in relation to—
+
+- (a) the carrying out of the functions of the person mentioned in subsection (3) in relation to a person who is or appears to be a victim or witness in relation to a criminal investigation or criminal proceedings,
+- (aa)[^key-679f19c0b91bc86b5ed4eebe530340a6] the carrying out of those functions in relation to such a person in a way that accords with trauma-informed practice,
+- (b) the person's procedure for making and resolving complaints about the way in which the person carries out those functions.
+
+(2) The persons are—
+
+- (a) the Lord Advocate,
+- (b) the Scottish Ministers,
+- (c) the chief constable of the Police Service of Scotland,
+- (d) the Scottish Court Service,
+- (e) the Parole Board for Scotland.
+
+(3) The functions are—
+
+- (a) in the case of the Lord Advocate, functions relating to the investigation and prosecution of crime,
+- (b) in the case of the Scottish Ministers, functions relating to—
+  - (i)[^key-dcebed23087357858142e4d6e0022890] prisons and young offenders institutions and persons detained in them,
+  - (ii)[^key-638a0ae638c0d410c84d670972e62b51] persons who are subject both to a compulsion order under either section 57(2)(a) or 57A(2) of the 1995 Act and to a restriction order under section 59 of that Act,
+  - (iii) persons who are subject to a hospital direction under section 59A of the 1995 Act,
+  - (iv) persons in respect of whom a transfer for treatment direction under section 136(2) of the Mental Health (Care and Treatment) (Scotland) Act 2003 has been made,
+- (c) in the case of any other person mentioned in subsection (2), any functions.
+
+(4) Before a person mentioned in subsection (2) (“the publisher”) publishes standards under subsection (1), the publisher must consult—
+
+- (a) every other person mentioned in subsection (2), and
+- (b) such other persons as appear to the publisher to have a significant interest in the standards.
+
+(4A)[^key-8b6a7c28c91b1bdbe5d22cfcb46330e0] Each person mentioned in subsection (2) must set and publish revised standards within the period of 18 months beginning on the day on which section 26 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 comes into force.
+
+(4B) Subsections (1) to (4) apply to the revised standards as they apply to the original standards.
+
+(5) The Scottish Ministers may by order—
+
+- (a) modify subsection (2),
+- (b) so far as is necessary or expedient in consequence of any modification made under paragraph (a), modify subsection (1), (3) or (6).
+
+(6) In this section—
+
+- “prison” and “young offenders institution” have the meanings given by section 307(1) of the 1995 Act,
+- “[^key-8dd3a8d7ff005798a9004f484bc271d9]**trauma-informed practice**” has the meaning given by section 114 of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025,
+- “**victim**” includes a prescribed relative of a victim.
+
+(7) In subsection (6), “**prescribed**” means prescribed by the Scottish Ministers by order.
+
+(8) An order under subsection (5) is subject to the affirmative procedure.
+
+(9) An order under subsection (6) is subject to the negative procedure.
+
+### 3. Reports[^key-e261c142b427189a19b7ff800c45161f]
+
+(1) This section applies where a person publishes standards under section 2(1).
+
+(2) The person must prepare and publish a report in relation to the matters mentioned in subsection (3)—
+
+- (a) before the end of the period of 12 months beginning with the day on which standards are first published under section 2(1), and
+- (b) as soon as practicable following—
+  - (i) the expiry of the period of 12 months beginning with the day on which a report is published under paragraph (a), and
+  - (ii) each subsequent period of a year.
+
+(3) The matters are—
+
+- (a) an assessment of how, and the extent to which, the standards have been met during the period of the report,
+- (b) an explanation of how the person intends to meet the standards during the year after the period of the report,
+- (c) a description of any modification of the standards made during the period of the report, and
+- (d) a description of any modification of the standards that the person proposes to make during the year after the period of the report.
+
+(4) The Scottish Ministers may by regulations prescribe information (in addition to that required under subsection (3)) that reports prepared under subsection (2) must contain.
+
+(5) Regulations under subsection (4) are subject to the negative procedure.
+
+## Complaints[^key-6754a46b822f38705950982aa41d60ba]
+
+### 3A. Complaints
+
+(1) A competent authority must provide a complaints process by which a person who is or appears to be a victim in relation to an offence or alleged offence, may challenge—
+
+- (a) an alleged breach by that competent authority of that person’s rights under this Act, or
+- (b) an alleged breach of that competent authority’s obligations under this Act.
+
+(2) The obligation in subsection (1) does not apply where the competent authority is subject to a complaints process, provided in or under any enactment, which would allow a person who is or appears to be a victim in relation to an offence or alleged offence to challenge the matters in subsection (1)(a) and (b).
+
+## Provision of information to victims[^key-620a773a92c322d7d452a0471b568fce]
+
+### 3B. The Victims’ Code for Scotland
+
+(1) The Scottish Ministers must prepare and publish a document, known as the Victims’ Code for Scotland, setting out the following information (or directing the reader as to where that information is set out)—
+
+- (a) the types of support that victims may obtain and from whom that support can be obtained,
+- (b) the procedures for making complaints with regard to a criminal offence and the victim’s role in connection with such procedures,
+- (c) how and under what conditions victims may obtain protection, including special measures under sections 271 to 271M of the 1995 Act and measures under section 9C of this Act,
+- (d) how and under what conditions victims may access legal advice, legal aid or any other sort of advice which the Scottish Ministers consider relevant to the needs of victims,
+- (e) how and under what conditions victims may obtain compensation,
+- (f) how and under what conditions victims are entitled to interpretation and translation,
+- (g) in relation to a criminal offence which was not committed in Scotland, any measures, procedures or arrangements, which are available to protect victims’ interests in Scotland,
+- (h) the available procedures for making complaints against any competent authority in relation to a breach of victims’ rights under this or any other enactment,
+- (i) the contact details for all competent authorities,
+- (j) the available restorative justice services, and
+- (k) how and under what conditions victims may be reimbursed for the reasonable expenses incurred by them as a result of their participation in criminal proceedings.
+
+(2) The Victims’ Code for Scotland may include such other information as the Scottish Ministers consider relevant to the needs of victims.
+
+(3) Subsection (4) applies where—
+
+- (a) a competent authority, other than the Scottish Ministers, receives a request for translation of the Victims’ Code for Scotland by virtue of section 3F and transmits that request to the Scottish Ministers, or
+- (b) a person who is or appears to be a victim in relation to an offence or alleged offence, and who does not understand or speak English, requests that the Scottish Ministers translate the Victims’ Code for Scotland into a language which that person understands.
+
+(4) The Scottish Ministers must—
+
+- (a) translate the Code into the language required by the authority or, as the case may be, the person, and
+- (b) provide a copy of the translated Code to the authority or, as the case may be, the person.
+
+(5) The Scottish Ministers must keep the Victims’ Code for Scotland under review and may modify it from time to time.
+
+(6) Where under subsection (5) the Scottish Ministers modify the Victims’ Code for Scotland they must publish the modified Code.
+
+### 3C. Victims’ right to receive information
+
+(1) The chief constable of the Police Service of Scotland must ensure that, as soon as reasonably practicable after a constable identifies a person who is or appears to be a victim in relation to an offence or alleged offence, a constable informs the person that the person may request, from any competent authority—
+
+- (a) a copy of the Victims’ Code for Scotland, and
+- (b) information relating to the rights of victims.
+
+(2) Subsection (3) applies where a person who is or appears to be a victim in relation to an offence or alleged offence requests from a competent authority a copy of the Victims’ Code for Scotland.
+
+(3) As soon as reasonably practicable after the request is made, the authority must—
+
+- (a) provide the person with a copy of the Code, or
+- (b) advise the person where a copy of the Code may be obtained.
+
+(4) Subsection (5) applies where a person who is or appears to be a victim in relation to an offence or alleged offence requests from a competent authority information relating to the rights of victims.
+
+(5) As soon as reasonably practicable after the request is made, the authority must—
+
+- (a) provide the person with such information held by, or accessible to, the authority which the authority considers relevant to the request, and
+- (b) provide the person with contact details for any other competent authority which the authority considers may hold or be able to access information relevant to the request.
+
+(6) Where, by virtue of this section, a competent authority is to provide a person with a copy of the Victim’s Code for Scotland or information relating to the rights of victims, the authority may do so by such means as the authority considers appropriate having regard to the needs of the person.
+
+(7) For the purposes of this section—
+
+- (a) a request made by a person who is or appears to be a victim in relation to an offence or alleged offence to a constable or a member of police staff is deemed to be a request made to the chief constable of the Police Service of Scotland, and
+- (b) a request made by a person who is or appears to be a victim in relation to an offence or alleged offence to a procurator fiscal is deemed to be a request made to the Lord Advocate.
+
+## Provision of support to victims
+
+### 3D. Victims’ right to access support services[^key-935ce505fe2b922e732710ecf0d1c6e2]
+
+(1) The chief constable of the Police Service of Scotland must ensure that, as soon as reasonably practicable after a constable identifies a person who is or appears to be a victim in relation to an offence or alleged offence, a constable informs the person that—
+
+- (za)[^key-f189117dba1b00c542d04c1a2d971ffc] victim support services are available to victims and, with reference to subsection (5), what is meant by victim support services,
+- (a)[^key-afa6c330b0f20595af2230bd776bed41] the person is entitled, at any time, to have their details passed by any competent authority to such providers of victim support services as are appropriate to the person’s needs for the purpose of contacting the person to offer the services, in a process known as referral,
+- (aa) if the person elects to be referred, the person may, at any later time, elect to discontinue the referral or cease to receive the victim support services,
+- (b) the person may contact providers of victim support services directly without referral , and[^key-51af06a206f4e05ecce00d3de1fffb3e]
+- (c) if the person elects to contact providers directly without being referred, the person will be provided with the information necessary to do so.
+
+(2)[^key-242e3b3f297795f40c059d9b93fcdc00] Where the person intimates to a competent authority that the person wishes to be referred to providers of victim support services, the authority must, subject to the consent of the person, disclose the person’s details to such providers of victim support services as the authority considers appropriate to the person’s needs, as soon as is reasonably practicable.
+
+(2A) Where the person intimates to a competent authority that the person wishes to contact providers of victim support services directly without being referred, the authority must, as soon as is reasonably practicable, provide the person with the name, address and telephone number of the providers of victim support services.
+
+(3) Subsections (1) to (2A)[^key-82dd8d5d3f62076d9203baade35a9e3e] apply in relation to a person who is or appears to be a victim in relation to an offence or alleged offence regardless of whether or not the person has made a complaint about that offence or alleged offence.
+
+(4) For the purposes of this section—
+
+- (a) an intimation[^key-4199946f473bcad67dcda2d1ad940407] by a person who is or appears to be a victim in relation to an offence or alleged offence to a constable or a member of police staff is deemed to be an intimation to the chief constable of the Police Service of Scotland, and
+- (b) an intimation by a person who is or appears to be a victim in relation to an offence or alleged offence to a procurator fiscal is deemed to be an intimation to the Lord Advocate.
+
+(4A)[^key-0d86a2067701f42456d5bb81bb8afe19] The chief constable must make and publish guidance for constables on the process of referring a person who is or appears to be a victim in relation to an offence or alleged offence to victim support services under this section.
+
+(4B) The chief constable must keep the guidance published under subsection (4A) under review and may modify it from time to time, in which case the chief constable must publish the modified guidance.
+
+(5) In this section, “victim support services” means the provision of—
+
+- (a) information, advice and support to victims including information on compensation for criminal injuries, and the participation of victims in criminal proceedings,
+- (b) information about any relevant specialist support services in place,
+- (c) emotional and, where available, psychological support,
+- (d) advice relating to financial and practical issues arising from the crime,
+- (e) advice relating to the risk and prevention of—
+  - (i) secondary and repeat victimisation,
+  - (ii) intimidation, and
+  - (iii) retaliation, and
+- (f) such other services as a competent authority considers appropriate to the needs of victims.
+
+## Assistance to communicate[^key-447eae3cfeef6fa7b83200ca48b0e701]
+
+### 3E. Victims’ right to understand and be understood
+
+(1) Subsection (2) applies in relation to any contact—
+
+- (a) between a person who is or appears to be a victim in relation to an offence or alleged offence and a competent authority, and
+- (b) which is for the purposes of a relevant function.
+
+(2) The authority must take such measures as the authority considers appropriate in order to assist the person—
+
+- (a) to understand the information given to the person by the authority, and
+- (b) to be understood in the person’s interaction with the authority.
+
+(3) Subsection (4) applies in relation to any communication, in any form—
+
+- (a) between a person who is or appears to be a victim in relation to an offence or alleged offence and a competent authority, and
+- (b) which is for the purposes of a relevant function.
+
+(4) The authority must ensure that communications—
+
+- (a) are as clear and easy to understand as possible, and
+- (b) take into account any personal characteristics of the person which may affect the person’s ability to understand the communication and be understood in responding to the communication.
+
+(5) Subsection (6) applies in relation to the first contact—
+
+- (a) between a person who is or appears to be a victim in relation to an offence or alleged offence and a competent authority, and
+- (b) which is for the purposes of a relevant function.
+
+(6) Where the authority considers that the person requires assistance to communicate, the authority must allow the person to be assisted by someone of the person’s choice unless—
+
+- (a) the authority considers that such assistance would be contrary to the interests of the person or prejudicial to any criminal proceedings, or
+- (b) the assistance is required for the purposes of the person giving evidence at a hearing in relevant criminal proceedings.
+
+(7) For the purposes of this section—
+
+- (a) any contact between a person who is or appears to be a victim in relation to an offence or alleged offence (V) and a constable or a member of police staff is deemed to be contact between V and the chief constable of the Police Service of Scotland,
+- (b) any contact between V and a procurator fiscal is deemed to be contact between V and the Lord Advocate,
+- (c) any communication between a constable or a member of police staff and V is deemed to be communication between the chief constable of the Police Service of Scotland and V, and
+- (d) any communication between a procurator fiscal and V is deemed to be communication between the Lord Advocate and V.
+
+(8) In this section—
+
+- “a hearing in relevant criminal proceedings” means any hearing in the course of any criminal proceedings in the High Court, sheriff court or justice of the peace court in relation to an offence or alleged offence,
+- “a relevant function” is—
+  - (a) in the case of the Lord Advocate, any function relating to the investigation and prosecution of crime,
+  - (b) in the case of the Scottish Ministers, any function conferred on the Scottish Ministers under this Act or section 16, 17 or 17A of the 2003 Act,
+  - (c) in the case of any other competent authority, any function.
+
+### 3F. Victims’ right to interpretation and translation
+
+(1) Subsection (2) applies where a person who is or appears to be a victim in relation to an offence or alleged offence, and who does not understand or speak English, makes a request to a competent authority for an interpreter for the purposes of—
+
+- (a) being interviewed or questioned by a competent authority in the course of a criminal investigation or criminal proceedings in relation to the offence or alleged offence (other than at a hearing in relevant criminal proceedings), or
+- (b) making a complaint about the offence or alleged offence.
+
+(2) The authority must ensure that the person is provided with an interpreter in order to enable the person to—
+
+- (a) understand any questions being asked by the authority,
+- (b) understand any information being given to the person,
+- (c) give answers and provide information which the authority can understand, and
+- (d) otherwise communicate effectively with the authority.
+
+(3) Subsection (4) applies where—
+
+- (a) a person who is or appears to be a victim in relation to an offence or alleged offence, and who does not understand or speak English, has been cited by a prosecutor to give evidence at, or for the purposes of, a hearing in relevant criminal proceedings in relation to the offence or alleged offence, and
+- (b) the person has made a request to the prosecutor for an interpreter for the purposes of that hearing.
+
+(4) The prosecutor must ensure that the person is provided with an interpreter in order to enable the person to—
+
+- (a) understand the questions being asked,
+- (b) understand any information being given to the person,
+- (c) give answers which the court can understand, and
+- (d) otherwise communicate effectively with the court.
+
+(5) Subsection (6) applies where—
+
+- (a) information is to be provided by a competent authority to a person who is or appears to be a victim in relation to an offence or alleged offence, and who does not understand or speak English,
+- (b) the information is to be provided for the purposes of a relevant function,
+- (c) the information—
+  - (i) is considered by the competent authority to be essential to the person’s participation in the criminal investigation or criminal proceedings in relation to the offence or alleged offence, or
+  - (ii) must be provided by the competent authority to the person under any enactment, and
+- (d) the person has requested that the information is translated into a language which the person understands.
+
+(6) The authority must ensure that the information is translated (either orally or in writing) into a language which the person understands.
+
+(7) In considering whether information is essential for the purposes of subsection (5)(c)(i), the competent authority must take into account the views of the person to whom the information is to be provided.
+
+(8) Interpretation or translation provided to a person under this section must be provided free of charge.
+
+(9) For the purposes of this section—
+
+- (a) a request made by a person who is or appears to be a victim in relation to an offence or alleged offence to a constable or a member of police staff is deemed to be a request made to the chief constable of the Police Service of Scotland, and
+- (b) a request made by a person who is or appears to be a victim in relation to an offence or alleged offence to a procurator fiscal is deemed to be a request made to the Lord Advocate.
+
+(10) In this section—
+
+- “a hearing in relevant criminal proceedings” means any hearing in the course of any criminal proceedings in the High Court, sheriff court or justice of the peace court in relation to an offence or alleged offence,
+- “prosecutor” means Lord Advocate, Crown Counsel or procurator fiscal,
+- “a relevant function” is—
+  - (a) in the case of the Lord Advocate, any function relating to the investigation and prosecution of crime,
+  - (b) in the case of the Scottish Ministers, any function conferred on the Scottish Ministers under this Act or section 16, 17 or 17A of the 2003 Act,
+  - (c) in the case of any other competent authority, any function.
+
+## Acknowledgement of complaints[^key-3ae19dc7342bf3cdfa80d88c90bbbcd1]
+
+### 3G. Written acknowledgement of complaints
+
+(1) This section applies where a person who is or appears to be a victim in relation to an offence or alleged offence makes a complaint about the offence or alleged offence to a constable.
+
+(2) The chief constable of the Police Service of Scotland must ensure that, as soon as reasonably practicable after the complaint is made, the person is provided with written acknowledgement of the complaint which states the basic elements of the offence or alleged offence complained of.
+
+(3) Written acknowledgement of a complaint may be given by such means as the chief constable of the Police Service of Scotland considers appropriate.
+
+## Reimbursement of expenses[^key-f3c3c09f0fe421ab258eb78dd01c32bf]
+
+### 3H. Victims’ right to reimbursement of expenses
+
+(1) The Lord Advocate must establish a process for the reimbursement of relevant expenses.
+
+(2) The Lord Advocate must make and publish guidance about the process established under subsection (1).
+
+(3) The Lord Advocate must keep the guidance published under subsection (2) under review and may modify it from time to time.
+
+(4) Where, under subsection (3), the Lord Advocate modifies the guidance published under subsection (2), the Lord Advocate must publish the modified guidance.
+
+(5) In this section—
+
+- “a hearing in relevant criminal proceedings” means any hearing in the course of any criminal proceedings in the High Court, sheriff court or justice of the peace court in relation to an offence or alleged offence,
+- “relevant expenses” means the reasonable expenses incurred—
+  - (a) by a person who is or appears to be a victim in relation to an offence or alleged offence, and
+  - (b) which are as a result of the person’s participation in a hearing in relevant criminal proceedings in relation to the offence or alleged offence.
+
+## Return of property[^key-d1167c6656c866dfb031bce8c8c10d08]
+
+### 3I. Victims’ right to return of property
+
+(1) Subsection (2) applies where the property of a person who is or appears to be a victim in relation to an offence or alleged offence—
+
+- (a) has been seized in the course of a criminal investigation or criminal proceedings in relation to the offence or alleged offence, and
+- (b) is being held by a competent authority.
+
+(2) The authority must arrange for the property to be returned to the person—
+
+- (a) where the property is no longer required for the purposes of the criminal investigation or criminal proceedings, and
+- (b) the authority is satisfied that there is no other reason to retain the property.
+
+(3) The Lord Advocate and the chief constable of the Police Service of Scotland must jointly make and publish guidance about the process by which property is to be returned under subsection (2).
+
+(4) The Lord Advocate and the chief constable of the Police Service of Scotland must jointly keep the guidance published under subsection (3) under review and may jointly modify it from time to time.
+
+(5) Where under subsection (4) the Lord Advocate and the chief constable of the Police Service of Scotland jointly modify the guidance published under subsection (3) the Lord Advocate and the chief constable must jointly publish the modified guidance.
+
+## Offences committed in another Member State[^key-ed2cb4ff363c2a691611157a00dffe4f]
+
+### 3J. Offences committed in a Member State[^key-1efe3fb791006f72fd04fddd23228e48]
+
+Where—
+
+- (a) a person who is or appears to be a victim in relation to an offence or alleged offence committed in a Member State of the EU [^key-e6f66ed67042400fa83094f0b3e4954f]... makes a complaint about that offence to a constable, and
+- (b) criminal proceedings for that offence or alleged offence cannot be raised in Scotland,
+
+the chief constable of the Police Service of Scotland must ensure that the complaint is transmitted without undue delay to the appropriate authority of the Member State in which the offence or alleged offence was committed.
+
+## Rules: review of decision not to prosecute
+
+### 4. Rules: review of decision not to prosecute[^key-d522e701d3c9ac4fafdf691b79818aa6]
+
+(1) The Lord Advocate must make and publish rules about the process for reviewing, on the request of a person who is or appears to be a victim in relation to an offence or alleged offence[^key-09f01ccea57ac2820a93bb4891b594a3], a decision of the prosecutor not to prosecute a person for the offence or alleged offence[^key-d3d6a12862df2ab13b4ed2aab1f0245f].
+
+(2) Rules under subsection (1) may in particular make provision for or in connection with—
+
+- (a) the circumstances in which reviews may be carried out,
+- (b) the manner in which a request for review must be made,
+- (c) the information that must be included in a request for review,
+- (d) the matters to be taken into account by the Lord Advocate when carrying out reviews,
+- (e) the process to be followed by the Lord Advocate when carrying out reviews.
+
+(3) In this section, “**prosecutor**” means Lord Advocate, Crown Counsel or procurator fiscal.
+
+## Restorative justice
+
+### 5. Restorative justice[^key-5d49f189ea5fd0b0a4172b72c2b7676b]
+
+(1) The Scottish Ministers may issue guidance about—
+
+- (a) the referral of a person who is or appears to be a victim in relation to an offence or alleged offence[^key-2e17384d16cc729724b1566a6e838858] and a person who has or is alleged to have committed the offence or alleged offence[^key-09ddc18b2da5446e79b16fca436e9269] to restorative justice services, and
+- (b) the provision of restorative justice services to those persons.
+
+(2) Any person, or description of person, prescribed by the Scottish Ministers by order must have regard to any guidance issued by the Scottish Ministers under subsection (1).
+
+(3) In this section, “**restorative justice services**” means any process in which the persons such as are mentioned in subsection (1)(a) participate with a view to resolving any matter arising from the offence or alleged offence with the assistance of a person who is unconnected with either person or the offence or alleged offence.
+
+(4) An order under subsection (2) is subject to the negative procedure.
+
+## Disclosure of information
+
+### 6. Disclosure of information about criminal proceedings[^key-d5504f1de3cf3714d8cf3af70483bd59]
+
+(1)[^key-f81179a9c52bb41a7f901468c1c692b9] A person mentioned in subsection (2) (a “requester”) may at any time request a qualifying person to disclose to the requester qualifying information in relation to an offence or alleged offence and any criminal investigation or criminal proceedings relating to it.
+
+(2)[^key-f81179a9c52bb41a7f901468c1c692b9] The persons are—
+
+- (a) a person who appears to be a victim of the offence or alleged offence,
+- (b) in the case where the death of a person mentioned in paragraph (a) was (or appears to have been) caused by the offence or alleged offence, a prescribed relative of the person,
+- (c) a person who is to give, or is likely to give, evidence in criminal proceedings which have been, or are likely to be, instituted against a person in respect of the offence or alleged offence,
+- (d) a person who has given a statement in relation to the offence or alleged offence to a constable or the prosecutor.
+
+(3)[^key-f81179a9c52bb41a7f901468c1c692b9] Where a request is made under subsection (1), the qualifying person must disclose to the requester any qualifying information which the person holds.
+
+(4)[^key-f81179a9c52bb41a7f901468c1c692b9] In the case where the qualifying information falls within paragraph (a), (b) or (c) of subsection (7), a qualifying person must not comply with a request under subsection (1) in so far as disclosure of the qualifying information would require disclosure of information supplied by a Minister of the Crown or a department of the Government of the United Kingdom that is held in confidence by the person.
+
+(5)[^key-f81179a9c52bb41a7f901468c1c692b9] A qualifying person need not comply with a request under subsection (1) in so far as the qualifying person considers that it would be inappropriate to disclose any qualifying information.
+
+(6)[^key-f81179a9c52bb41a7f901468c1c692b9] In this section—
+
+- “**prescribed**” means prescribed by the Scottish Ministers by order,
+- “**qualifying information**” means information that—
+  - (a) falls within subsection (7),
+  - (b) relates to the offence or alleged offence, and
+  - (c) is specified in the request under subsection (1),
+- “**qualifying person**” means—
+  - (a) the chief constable of the Police Service of Scotland,
+  - (b) a prosecutor (as defined in section 307(1) of the 1995 Act),
+  - (c) the Scottish Court Service.
+
+(7) Information falls within this subsection if it is—
+
+- (a)[^key-4bdd04dc00954d0a3c37cf03a94fab5e] a decision not to proceed with a criminal investigation and any reasons for it,
+- (b)[^key-4bdd04dc00954d0a3c37cf03a94fab5e] a decision to end a criminal investigation and any reasons for it,
+- (c)[^key-4bdd04dc00954d0a3c37cf03a94fab5e] a decision not to institute criminal proceedings against a person and any reasons for it,
+- (d)[^key-c9acb62dce6ac58c6a3230c96caa529a] the place in which a trial is to be held,
+- (e)[^key-c9acb62dce6ac58c6a3230c96caa529a] the date on which and time at which a trial is to be held,
+- (f)[^key-c9acb62dce6ac58c6a3230c96caa529a] the nature of charges libelled against a person,
+- (g)[^key-c9acb62dce6ac58c6a3230c96caa529a] the place in which the hearing of an appeal arising from a trial is to be held,
+- (h)[^key-c9acb62dce6ac58c6a3230c96caa529a] the date on which and time at which the hearing of an appeal arising from a trial is to be held,
+- (i)[^key-c9acb62dce6ac58c6a3230c96caa529a] the stage that criminal proceedings have reached,
+- (j)[^key-c9acb62dce6ac58c6a3230c96caa529a] the final decision of a court in a trial or any appeal arising from a trial, and any reasons for it.
+
+(8)[^key-f81179a9c52bb41a7f901468c1c692b9] The Scottish Ministers may by order modify—
+
+- (a) the definition of “qualifying person” in subsection (6),
+- (b) subsection (7).
+
+(9)[^key-f81179a9c52bb41a7f901468c1c692b9] An order under—
+
+- (a) subsection (2)(b) is subject to the negative procedure,
+- (b) subsection (8) is subject to the affirmative procedure.
+
+## Interviews
+
+### 7. Interviews with children: guidance[^key-fc735ba1558824c1f3686c723eebceea]
+
+(1) Subsection (2) applies where the persons mentioned in subsection (3) are jointly carrying out an interview with a child in relation to—
+
+- (a) criminal proceedings which have been instituted against some other person, or
+- (b) a matter which might result in criminal proceedings being instituted against some other person.
+
+(2) The persons must have due regard to any guidance issued by the Scottish Ministers about the carrying out of interviews with a child in relation to those matters.
+
+(3) The persons are—
+
+- (a) a constable,
+- (b) a social worker (as defined in section 77 of the Regulation of Care (Scotland) Act 2001).
+
+(4) The Scottish Ministers may by order modify subsection (3).
+
+(5) An order under subsection (4) is subject to the negative procedure.
+
+(6) In this section, “**child**” means a person under 18 years of age.
+
+### 8. Certain offences: victim's right to specify gender of interviewer[^key-f9e7a4952792da608c923256c5d1a06a]
+
+(1) This section applies where an investigating officer intends to carry out a relevant interview with a person who is or appears to be the victim of an offence or alleged offence[^key-82507038a425d3f89b677d167aa4ebcd] of a type mentioned in subsection (5).
+
+(2) Before the relevant interview takes place, the investigating officer must give the person who is to be interviewed the opportunity to specify the gender of the investigating officer who is to carry out the interview.
+
+(3) If the person who is to be interviewed specifies a gender under subsection (2), the relevant interview may be carried out only by an investigating officer of that gender.
+
+(4) The investigating officer need not comply with subsection (2) if—
+
+- (a) complying with it would be likely to prejudice a criminal investigation, or
+- (b) it would not be reasonably practicable to do so.
+
+(5) The types of offence are—
+
+- (a) an offence listed in any of paragraphs 36 to 59ZL of Schedule 3 to the Sexual Offences Act 2003,
+- (b) an offence under section 22 of the 2003 Act (traffic in prostitution etc.),
+- (c) an offence under section 4 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (trafficking people for exploitation),
+- (ca)[^key-e916e34e1207c08577efa8b93a3c0d10] an offence of human trafficking (see section 1 of the Human Trafficking and Exploitation (Scotland) Act 2015),
+- (d) an offence the commission of which involves domestic abuse,
+- (e) stalking.
+
+(6) Failure to comply with subsection (2) in relation to a particular relevant interview has no effect on any criminal proceedings to which the interview relates.
+
+(7) The Scottish Ministers may by order modify subsection (5).
+
+(8) In this section—
+
+- “**investigating officer**” means—
+  - (a) a constable, or
+  - (b) a person of such other description as the Scottish Ministers may by order prescribe,
+- “**relevant interview**” means—
+  - (a) questioning of a person in the course of criminal proceedings which have been instituted in relation to another person, or
+  - (b) questioning of a person with a view to instituting criminal proceedings against another person.
+
+(9) Any reference in this section (other than subsection (10)) to an investigating officer includes a reference to two or more investigating officers acting jointly.
+
+(10) An order under subsection (7) or paragraph (b) of the definition of “investigating officer” in subsection (8) is subject to the negative procedure.
+
+## Medical examinations
+
+### 8A. Certain medical examinations: additional information to be provided[^key-6c2421f1ed35e1779b02631d342582ef]
+
+(1) Subsection (2) applies where a person is, or is to be, referred to a health board for a forensic medical examination as mentioned in section 2(2)(a)(i) of the Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021.
+
+(2) The chief constable of the Police Service of Scotland must ensure that, in addition to a constable informing the person of the matters mentioned in sections 3C(1) and 3D(1), a constable informs the person that—
+
+- (a) the person may request from the health board—
+  - (i) a copy of the Victims' Code for Scotland, and
+  - (ii) information relating to the rights of victims,
+- (b) the person may request the health board to refer the person to providers of victim support services, and
+- (c) the person may contact providers of victim support services directly without being referred as mentioned in paragraph (b).
+
+(3) In this section—
+
+- “**health board**” means a board constituted under section 2(1)(a) of the National Health Service (Scotland) Act 1978,
+- “**victim support services**” has the meaning given by section 3D(5).
+
+### 9. Certain medical examinations: gender of medical examiner[^key-4ab857a824d67d98d890d3e688c560b5]
+
+(1)[^key-2ee107fda15d9588179533467cb15d20] This section applies where a forensic medical examination is to be carried out by virtue of section 2 of the Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021.
+
+(2) Before a medical examination of the person [^key-15996a78a2514dffc62e5ab5ae367241]... is carried out by a registered medical practitioner , the person must be given[^key-ed123baa11ad7cdf8037a00b2b9678eb] an opportunity to request that any such medical examination be carried out by a registered medical practitioner of a sex[^key-874f3ab93e958f58b4110000aa5b9041] specified by the person.
+
+(3) If the person makes such a request, [^key-f49891e10723844227ba68602332f91c]... the registered medical practitioner who is to (or, but for the request, would) carry out the examination is to be[^key-45c64664bc1e4d66c7a7c161b5d45f16] informed of the nature of the request.
+
+(4) In this section, references to a registered medical practitioner include references to a person of such other description as the Scottish Ministers may by order prescribe.
+
+(5) An order under subsection (4) is subject to the negative procedure.
+
+## Criminal investigations[^key-71a30e22c8846a4ea492bc6b9de95566]
+
+### 9A. Victims’ right to protection during criminal investigations
+
+(1) During a criminal investigation into an offence or alleged offence, the chief constable of the Police Service of Scotland must ensure that—
+
+- (a) a relevant interview is conducted without undue delay after a complaint about the offence or alleged offence has been made to a constable,
+- (b) the number of relevant interviews is kept to a minimum,
+- (c) relevant interviews are carried out only where strictly necessary for the purposes of the criminal investigation,
+- (d) during a relevant interview, the person who is or appears to be a victim in relation to the offence or alleged offence is permitted to be accompanied by the person’s chosen legal representative and a person of the person’s choice, unless a constable makes a reasoned decision to the contrary, and
+- (e) medical examinations of the person who is or appears to be a victim in relation to the offence or alleged offence are kept to a minimum and are carried out only where strictly necessary for the purposes of the investigation.
+
+(2) In this section, a “relevant interview” means an interview of a person who is or appears to be the victim in relation to an offence or alleged offence conducted or arranged by a constable for the purposes of a criminal investigation into the offence or alleged offence.
+
+### 9B. Individual assessment of victims in criminal investigations
+
+(1) The chief constable of the Police Service of Scotland must ensure that a person who is or appears to be a victim in relation to an offence or alleged offence is assessed by a constable in order to determine whether the person—
+
+- (a) has protection needs, and
+- (b) would benefit from the use of any of the measures listed in section 9C(3) during a relevant interview.
+
+(2) The assessment of a person under subsection (1) must be carried out for the purposes of a criminal investigation in relation to the offence or alleged offence—
+
+- (a) as soon as reasonably practicable after a constable identifies that person as a person who is or appears to be a victim in relation to the offence or alleged offence, and
+- (b) as soon as reasonably practicable after any material change in the matters specified in subsection (4).
+
+(3) For the purposes of an assessment under subsection (1), the following persons must always be considered to have protection needs—
+
+- (a) persons under 18 years of age, and
+- (b) any person who would be a deemed vulnerable witness within the meaning of section 271(5) of the 1995 Act if they were to give evidence at, or for the purposes of, a hearing in relevant criminal proceedings.
+
+(4) For the purposes of an assessment of a person under subsection (1), the constable must consider—
+
+- (a) the views of the person,
+- (b) the nature and circumstances of the offence or alleged offence,
+- (c) the nature of the evidence which the person is likely to give,
+- (d) the relationship (if any) between the person and the person suspected or accused of the offence or alleged offence,
+- (e) the person’s age and maturity,
+- (f) any behaviour towards the person on the part of—
+  - (i) the person suspected or accused of the offence or alleged offence,
+  - (ii) members of the family, or associates, of the person suspected or accused of the offence or alleged offence,
+  - (iii) any other person who is likely to be a suspect or an accused in relation to the offence or alleged offence,
+  - (iv) any other person who is likely to be a witness in criminal proceedings in relation to the offence or alleged offence, and
+- (g) such other matters as the constable considers to be relevant.
+
+(5) For the purposes of this section and section 9C, a person has protection needs if they are vulnerable to—
+
+- (i) secondary and repeat victimisation,
+- (ii) intimidation, and
+- (iii) retaliation.
+
+(6) In this section—
+
+- “a hearing in relevant criminal proceedings” means any hearing in the course of any criminal proceedings in the High Court, sheriff court or justice of the peace court in relation to an offence or alleged offence,
+- “relevant interview” has the same meaning as in section 9A(2).
+
+### 9C. Measures to assist victims in criminal investigations
+
+(1) Subsection (2) applies where an assessment of a person under section 9B(1) finds that the person—
+
+- (a) has protection needs, and
+- (b) would benefit from the use of the measures listed in subsection (3) during a relevant interview.
+
+(2) Where this subsection applies, the measures listed in subsection (3) may be used for the purposes of any relevant interview.
+
+(3) The measures are—
+
+- (a) conducting the relevant interview in premises designed or adapted for that purpose,
+- (b) conducting the relevant interview by or through professionals trained for that purpose,
+- (c) ensuring that all relevant interviews are conducted by the same person or persons.
+
+(4) The constable who is conducting or arranging the relevant interview must determine which, if any, of the measures listed in subsection (3) are to be used having regard to—
+
+- (a) the needs and views of the person who is or appears to be a victim in relation to the offence or alleged offence,
+- (b) the interests of justice, and
+- (c) any practical constraints on the use of any of the measures in those circumstances.
+
+(5) In this section, “relevant interview” has the same meaning as in section 9A(2).
+
+## Protection of victims[^key-5af90174c30b776154477c366db99d1f]
+
+### 9D. Right to avoid contact between victim and offender
+
+(1) A competent authority must take reasonable steps to enable a person who is or appears to be a victim in relation to an offence or alleged offence, or any of that person’s family members, to avoid contact with the person suspected, accused or convicted of the offence or alleged offence during a relevant interaction with a competent authority.
+
+(2) Subsection (1) does not apply—
+
+- (a) where such contact is necessary for the purposes of criminal investigations or criminal proceedings,
+- (b) where the identity of the person suspected, accused or convicted of the offence or alleged offence is not known to the competent authority, or
+- (c) in relation to the giving of evidence by any person at a hearing in relevant criminal proceedings.
+
+(3) For the purposes of this section—
+
+- (a) an interaction between a person and a constable or a member of police staff is deemed to be an interaction between that person and the chief constable of the Police Service of Scotland, and
+- (b) an interaction between a person and a procurator fiscal is deemed to be an interaction between that person and the Lord Advocate.
+
+(4) In this section—
+
+- “a hearing in relevant criminal proceedings” means any hearing in the course of any criminal proceedings in the High Court, sheriff court or justice of the peace court in relation to an offence or alleged offence,
+- “a relevant interaction with a competent authority” means any interaction with a competent authority which—
+  - (a) is for the purposes of criminal investigations or criminal proceedings, and
+  - (b) takes place within a police station, prosecutor’s office or court building,
+- “family members”, in relation to a person who is or appears to be a victim, means—
+  - (a) anyone who is married to, or is in a civil partnership with, the person,
+  - (b) anyone who is living together with the person, as if they are married, and has been so living together with the person for a minimum period of 6 months,
+  - (c) children and step-children of the person and anyone whom the person cares for, as defined in paragraph 20 of schedule 12 to the Public Services Reform (Scotland) Act 2010,
+  - (d) parents and step-parents of the person,
+  - (e) siblings of the person,
+  - (f) grandparents and great-grandparents of the person,
+  - (g) grandchildren and great-grandchildren of the person, and
+  - (h) where the person is deceased, anyone who was a family member of the person under paragraphs (a) to (g) immediately before the person’s death.
+
+### 9E. Victims’ right to protection of privacy
+
+(1) Subsection (2) applies during any interaction between—
+
+- (a) a competent authority, and
+- (b) a person who is or appears to be a victim in relation to an offence or alleged offence or any of that person’s family members,
+
+which is for the purposes of a relevant function.
+
+(2) The authority must take reasonable steps to—
+
+- (a) protect the privacy of that person,
+- (b) where that person or family member is a child, prevent disclosure of any information that could lead to the identification of the child, and
+- (c) prevent the disclosure of any images of the person or any of the person’s family members.
+
+(3) This section is without prejudice to any other obligation placed, or power conferred, on a competent authority, either at common law or in any enactment, to—
+
+- (a) protect the privacy of a person who is or appears to be a victim in relation to an offence or alleged offence or that person’s family members,
+- (b) prevent the identification of a person who is or appears to be a victim in relation to an offence or alleged offence or that person’s family members,
+- (c) disclose, or order or permit the disclosure of, any information about a person who is or appears to be a victim in relation to an offence or alleged offence or that person’s family members.
+
+(4) This section does not apply to the giving of evidence in a hearing in relevant criminal proceedings by—
+
+- (a) a person who is or appears to be a victim in relation to an offence or alleged offence, or
+- (b) any of that person’s family members.
+
+(5) For the purposes of this section, any interaction between—
+
+- (a) a person who is or appears to be a victim in relation to an offence or alleged offence or any of that person’s family members, and
+- (b) a constable or a member of police staff,
+
+is deemed to be an interaction between that person or family member and the chief constable of the Police Service of Scotland.
+
+(6) For the purposes of this section, any interaction between—
+
+- (a) a person who is or appears to be a victim in relation to an offence or alleged offence or any of that person’s family members, and
+- (b) a procurator fiscal,
+
+is deemed to be an interaction between that person or family member and the Lord Advocate.
+
+(7) In this section—
+
+- “child” means a person under 18 years of age,
+- “family members”, in relation to a person who is or appears to be a victim, means—
+  - (a) anyone who is married to, or is in a civil partnership with, the person,
+  - (b) anyone who is living together with the person, as if they are married, and has been so living together with the person for a minimum period of 6 months,
+  - (c) children and step-children of the person and anyone whom the person cares for, as defined in paragraph 20 of schedule 12 to the Public Services Reform (Scotland) Act 2010,
+  - (d) parents and step-parents of the person,
+  - (e) siblings of the person,
+  - (f) grandparents and great-grandparents of the person,
+  - (g) grandchildren and great-grandchildren of the person, and
+  - (h) where the person is deceased, anyone who was a family member of the person under paragraphs (a) to (g) immediately before the person’s death,
+- “a hearing in relevant criminal proceedings” means any hearing in the course of any criminal proceedings in the High Court, sheriff court or justice of the peace court in relation to an offence or alleged offence,
+- “a relevant function” is—
+  - (a) in the case of the Lord Advocate, any function relating to the investigation and prosecution of crime,
+  - (b) in the case of the Scottish Ministers, any function conferred on the Scottish Ministers under this Act or section 16, 17 or 17A of the 2003 Act,
+  - (c) in the case of any other competent authority, any function.
+
+## Vulnerable witnesses
+
+### 10. Vulnerable witnesses: main definitions[^key-abdc5fe3a867ea630ce6c3ce853d586a]
+
+In section 271 of the 1995 Act (vulnerable witnesses: main definitions)—
+
+- (a) for subsection (1), substitute—
+
+  > (1) For the purposes of this Act, a person who is giving or is to give evidence at, or for the purposes of, a hearing in relevant criminal proceedings is a vulnerable witness if—
+  >
+  > - (a) the person is under the age of 18 on the date of commencement of the proceedings in which the hearing is being or is to be held,
+  > - (b) there is a significant risk that the quality of the evidence to be given by the person will be diminished by reason of—
+  >   - (i) mental disorder (within the meaning of section 328 of the Mental Health (Care and Treatment) (Scotland) Act 2003), or
+  >   - (ii) fear or distress in connection with giving evidence at the hearing,
+  > - (c) the offence is alleged to have been committed against the person in proceedings for—
+  >   - (i) an offence listed in any of paragraphs 36 to 59ZL of Schedule 3 to the Sexual Offences Act 2003,
+  >   - (ii) an offence under section 22 of the Criminal Justice (Scotland) Act 2003 (traffic in prostitution etc.),
+  >   - (iii) an offence under section 4 of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (trafficking people for exploitation),
+  >   - (iv) an offence the commission of which involves domestic abuse, or
+  >   - (v) an offence of stalking, or
+  > - (d) there is considered to be a significant risk of harm to the person by reason only of the fact that the person is giving or is to give evidence in the proceedings.
+
+  ,
+- (b) after subsection (1), insert—
+
+  > (1AA) The Scottish Ministers may by order subject to the affirmative procedure modify subsection (1)(c).
+
+  ,
+- (c) subsection (1A) is repealed,
+- (d) in subsection (2), after “(1)(b)” insert “ or (d) ”, and
+- (e) after subsection (4), insert—
+
+  > (4A) In determining whether a person is a vulnerable witness under subsection (1)(b) or (d), the court must—
+  >
+  > - (a) have regard to the best interests of the witness, and
+  > - (b) take account of any views expressed by the witness.
+
+  .
+
+### 11. Child and deemed vulnerable witnesses[^key-b16c8b0848e9e61fb9ebddb7dc02e460]
+
+(1) In section 71(2XA) of the 1995 Act (first diet), for “child” substitute “ vulnerable ”.
+
+(2) In section 72(6)(b)(ii) of the 1995 Act (preliminary hearing procedure), for “child” substitute “ vulnerable ”.
+
+(3) In section 271(5) of the 1995 Act (definitions for sections 271A to 271M of the 1995 Act)—
+
+- (a) before the definition of “court”, insert—
+
+  > “**child witness**” means a vulnerable witness referred to in subsection (1)(a),
+
+  , and
+- (b) after that definition, insert—
+
+  > - “**deemed vulnerable witness**” means a vulnerable witness referred to in subsection (1)(c),
+
+  .
+
+(4) In section 271A of the 1995 Act (child witnesses)—
+
+- (a) in subsection (1)—
+  - (i) after “child witness”, where it first occurs, insert “ or a deemed vulnerable witness ”, and
+  - (ii) the word “child”, where it second occurs, is repealed,
+- (b) in subsection (2)—
+  - (i) after “child witness”, where it first occurs, insert “ or a deemed vulnerable witness ”,
+  - (ii) for “child”, where it second occurs, substitute “ vulnerable ”, and
+  - (iii) in each of paragraphs (a) and (b), the word “child” is repealed,
+- (c) in each of subsections (3) and (4), for “child” substitute “ vulnerable ”,
+- (d) after subsection (3), insert—
+
+  > (3A) In the case where a vulnerable witness notice under subsection (2)(a) specifies only a standard special measure, subsection (3)(a) does not apply.
+
+  .
+- (e) in subsection (5)—
+  - (i) for “child”, where it first occurs, substitute “ vulnerable ”, and
+  - (ii) in paragraphs (a), (b) and (c), the word “child”, in each place where it occurs, is repealed,
+- (f) in subsection (5A)—
+  - (i) in paragraph (a), for “child” substitute “ vulnerable ”, and
+  - (ii) in paragraph (b), for “child” substitute “ vulnerable ”,
+- (g) in subsection (6)—
+  - (i) in paragraph (a), after “child witness” insert “ or a deemed vulnerable witness ”,
+  - (ii) in paragraph (b), for “child”, where it first occurs, substitute “ vulnerable ”,
+  - (iii) in paragraph (b), the word “child”, where it second occurs, is repealed,
+  - (iv) in paragraph (c), for “child”, where it first occurs, substitute “ vulnerable ”, and
+  - (v) in paragraph (c), the word “child”, where it second occurs, is repealed,
+- (h) in subsection (7)(a)—
+  - (i) for “child”, where it first occurs, substitute “ vulnerable ”, and
+  - (ii) the word “child”, where it second occurs, is repealed,
+- (i) in subsection (8A)(a)—
+  - (i) in sub-paragraph (i), for “child” substitute “ vulnerable ”, and
+  - (ii) in paragraph (ii), the word “above”, where it second occurs, is repealed,
+- (j) in subsection (9), the word “child”, in each place where it occurs, is repealed,
+- (k) in subsection (10), the word “child”, in each place where it occurs, is repealed,
+- (l) in subsection (11)(a), the word “child” is repealed, and
+- (m) in subsection (13), for “child” substitute “ vulnerable ”.
+
+(5) The title of section 271A of the 1995 Act becomes “ **Child and deemed vulnerable witnesses** ”.
+
+(6) The title of section 271C of the 1995 Act becomes “ **Vulnerable witness application** ”.
+
+(7) In section 271E(1)(a) of the 1995 Act (party considering vulnerable witness notice or application), for “child” substitute “ vulnerable ”.
+
+(8) In section 271F(2)(a) of the 1995 Act (modifications of section 271 in relation to accused giving evidence as a child witness)—
+
+- (a) in paragraph (a)(i), for “child witness (except in the phrase “child witness notice”)” substitute “ witness ”, and
+- (b) in paragraph (a)(ii), the word “child” is repealed.
+
+(9) In section 288E of the 1995 Act (prohibition of personal conduct of defence in certain cases involving child witnesses under the age of 12), in each of subsections (5) and (7) for “child” substitute “ vulnerable ”.
+
+### 12. Child and deemed vulnerable witnesses: standard special measures[^key-a45c8e790e0cd6f1e76b7cf69c3e19d8]
+
+In section 271A of the 1995 Act (the standard special measures)—
+
+- (a) in subsection (14)—
+  - (i) in paragraph (a), the words from “where” to the end are repealed, and
+  - (ii) in paragraph (c), the words from “in”, where it second occurs, to the end are repealed, and
+- (b) after that subsection, insert—
+
+  > (15) The Scottish Ministers may, by order subject to the affirmative procedure—
+  >
+  > - (a) modify subsection (14),
+  > - (b) in consequence of any modification made under paragraph (a)—
+  >   - (i) prescribe the procedure to be followed when standard special measures are used, and
+  >   - (ii) so far as is necessary, modify sections 271A to 271M of this Act.
+
+  .
+
+### 13. Objections to special measures: child and deemed vulnerable witnesses[^key-4c244bed4cd6503caca869c359aaa33f]
+
+In section 271A of the 1995 Act (child witnesses)—
+
+- (a) after subsection (4), insert—
+
+  > (4A) Any party to the proceedings may, not later than 7 days after a vulnerable witness notice has been lodged, lodge with the court a notice (referred to in this section as an “**objection notice**”) stating—
+  >
+  > - (a) an objection to any special measure (other than a standard special measure) specified in the vulnerable witness notice that the party considers to be inappropriate, and
+  > - (b) the reasons for that objection.
+  >
+  > (4B) The court may, on cause shown, allow an objection notice to be lodged after the period referred to in subsection (4A).
+  >
+  > (4C) If an objection notice is lodged in accordance with subsection (4A) or (4B)—
+  >
+  > - (a) subsection (5)(a)(ii) does not apply to the vulnerable witness notice, and
+  > - (b) the court must make an order under subsection (5A).
+
+  ,
+- (b) in subsection (5), for “later than 7” substitute “ earlier than 7 days and not later than 14 ”, and
+- (c) in subsection (13), after “notice” insert “ or an objection notice ”.
+
+### 14. Child witnesses[^key-f6b594a02f6a141a9e181c2e3ceae8bd]
+
+(1) In section 271B of the 1995 Act (further special provision for child witnesses under the age of 12), for subsection (3), substitute—
+
+> (3) Subsection (4) applies if the child witness expresses a wish to be present in the court-room for the purpose of giving evidence.
+>
+> (4) The court must make an order under section 271A or, as the case may be, 271D which has the effect of requiring the child witness to be present in the court-room for the purpose of giving evidence unless the court considers that it would not be appropriate for the child witness to be present there for that purpose.
+>
+> (5) Subsection (6) applies if the child witness—
+>
+> - (a) does not express a wish to be present in the court-room for the purpose of giving evidence, or
+> - (b) expresses a wish to give evidence in some other way.
+>
+> (6) The court may not make an order under section 271A or 271D having the effect mentioned in subsection (4) unless the court considers that—
+>
+> - (a) the giving of evidence by the child witness in some way other than by being present in the court-room for that purpose would give rise to a significant risk of prejudice to the fairness of the trial or otherwise to the interests of justice, and
+> - (b) that risk significantly outweighs any risk of prejudice to the interests of the child witness if the order were to be made.
+
+.
+
+(2) In section 271A(5) of the 1995 Act (orders authorising special measures), for “271B(3)” substitute “ 271B ”.
+
+(3) In section 271D of the 1995 Act (review of arrangements for child witnesses and certain other witnesses), after subsection (6), add—
+
+> (7) This section is subject to section 271B.
+
+.
+
+### 15. Reporting of proceedings involving children[^key-05c151e5e1622bb668174280d266a24f]
+
+In section 47 of the 1995 Act (restriction on report of proceedings involving children), in each of subsections (1), (2) and (3)(a), for “16”, wherever it occurs, substitute “ 18 ”.
+
+### 16. Other vulnerable witnesses: assessment and application[^key-c57158aaa61877c33cce4e07f0be4ee0]
+
+(1) After section 271B of the 1995 Act, insert—
+
+> **271BA. Assessment of witnesses**
+>
+> (1) This section applies where a party intends to cite a witness other than a child witness or a deemed vulnerable witness to give evidence at, or for the purposes of, a hearing in relevant criminal proceedings.
+>
+> (2) The party intending to cite the witness must take reasonable steps to carry out an assessment under subsection (3).
+>
+> (3) An assessment must determine whether the person—
+>
+> - (a) is likely to be a vulnerable witness, and
+> - (b) if so, what special measure or combination of special measures ought to be used for the purpose of taking the person's evidence.
+>
+> (4) In determining under subsection (3)(a) whether a person is likely to be a vulnerable witness the party must—
+>
+> - (a) take into account the matters mentioned in section 271(2),
+> - (b) have regard to the best interests of the person, and
+> - (c) take account of any views expressed by the person.
+
+.
+
+(2) In section 271C(1) of the 1995 Act (citation of vulnerable witnesses)—
+
+- (a) after “witness”, where it first occurs, insert “ or a deemed vulnerable witness ”, and
+- (b) before “considers” insert “ and, having carried out an assessment under section 271BA, ”.
+
+### 17. Objections to special measures: other vulnerable witnesses[^key-c1bcb4361ce8cdbbcd0584ae11585a4a]
+
+In section 271C of the 1995 Act (other vulnerable witnesses)—
+
+- (a) after subsection (4), insert—
+
+  > (4A) Any party to the proceedings may, not later than 7 days after a vulnerable witness application has been lodged, lodge with the court a notice (referred to in this section as “**an objection notice**”) stating—
+  >
+  > - (a) an objection to any special measure specified in the vulnerable witness application that the party considers to be inappropriate, and
+  > - (b) the reasons for that objection.
+  >
+  > (4B) The court may, on cause shown, allow an objection notice to be lodged after the period referred to in subsection (4A).
+  >
+  > (4C) If an objection notice is lodged in accordance with subsection (4A) or (4B)—
+  >
+  > - (a) subsection (5) does not apply to the vulnerable witness application, and
+  > - (b) the court must make an order under subsection (5A).
+
+  ,
+- (b) in subsection (5), for “later than 7” substitute “ earlier than 7 days and not later than 14 ”, and
+- (c) in subsection (11)—
+  - (i) after “application”, where it first occurs, insert “ or an objection notice ”, and
+  - (ii) after “application”, where it second occurs, insert “ or, as the case may be, the notice ”.
+
+### 18. Review of arrangements for vulnerable witnesses[^key-645ec59e9478a288e722742ff0e4aad6]
+
+In section 271D(1)(a) of the 1995 Act (application for review of arrangements for vulnerable witnesses), for “the party citing or intending to cite the witness” substitute “ any party to the proceedings ”.
+
+### 19. Temporary additional special measures[^key-cc066f540f8a4b56cc0e457f5e28394f]
+
+After section 271H of the 1995 Act, insert—
+
+> **271HA. Temporary additional special measures**
+>
+> (1) The Scottish Ministers may, by order subject to the affirmative procedure, specify additional measures which for the time being are to be treated as special measures listed in section 271H(1).
+>
+> (2) An order under subsection (1)
+>
+> (3) An order under subsection (1) must specify—
+>
+> - (a) the area in which the additional measures may be used,
+> - (b) the period during which the additional measures may be used, and
+> - (c) the procedure to be followed when the additional measures are used.
+
+.
+
+### 20. Special measures: closed courts[^key-89c6d118af0ea1197542f8626baf8489]
+
+(1) In section 271H(1) of the 1995 Act (the special measures), after paragraph (e) insert—
+
+> - (ea) excluding the public during the taking of the evidence in accordance with section 271HB of this Act,
+
+.
+
+(2) After section 271HA of the 1995 Act (inserted by section 19), insert—
+
+> **271HB. Excluding the public while taking evidence**
+>
+> (1) This section applies where the special measure to be used in respect of a vulnerable witness is excluding the public during the taking of the evidence of the vulnerable witness.
+>
+> (2) The court may direct that all or any persons other than those mentioned in subsection (3) are excluded from the court during the taking of the evidence.
+>
+> (3) The persons are—
+>
+> - (a) members or officers of the court,
+> - (b) parties to the case before the court, their counsel or solicitors or persons otherwise directly concerned in the case,
+> - (c) *bona fide* representatives of news gathering or reporting organisations present for the purpose of the preparation of contemporaneous reports of the proceedings,
+> - (d) such other persons as the court may specially authorise to be present.
+
+.
+
+(3) In section 271F(8)(a) of the 1995 Act (special measures not applying in relation to a vulnerable witness who is the accused), after “271H(1)(c)” insert “ and (ea) ”.
+
+### 21. Power to prescribe further special measures[^key-a9ba780de878fc18728476b1861ea172]
+
+In section 271H of the 1995 Act (the special measures)—
+
+- (a) in subsection (1), paragraph (f) is repealed,
+- (b) after subsection (1), insert—
+
+  > (1A) The Scottish Ministers may, by order subject to the affirmative procedure—
+  >
+  > - (a) modify subsection (1),
+  > - (b) in consequence of any modification made under paragraph (a)—
+  >   - (i) prescribe the procedure to be followed when special measures are used, and
+  >   - (ii) so far as is necessary, modify sections 271A to 271M of this Act.
+
+  , and
+- (c) subsection (2) is repealed.
+
+### 22. Vulnerable witnesses: civil proceedings[^key-ff2b1a5da1eda1a9aa26fe7cb5e4d38b]
+
+In section 11(1) of the Vulnerable Witnesses (Scotland) Act 2004 (vulnerable witnesses: civil proceedings)—
+
+- (a) in paragraph (a), for “16” substitute “ 18 ”,
+- (b) the word “or” immediately after that paragraph is repealed, and
+- (c) after paragraph (b), insert
+
+  > , or
+  >
+  > - (c) the person is of such description or is a witness in such proceedings as the Scottish Ministers may by order subject to the affirmative procedure prescribe.
+
+  .
+
+## Victim statements
+
+### 23. Victim statements
+
+(1)[^key-7931736cc767d21d97c9452dec854dbd][^key-08e98e03a0b00802a56a0e66cfe3a2a4] Section 14 of the 2003 Act (victim statements) is amended in accordance with subsections (2) to (7).
+
+(2)[^key-7931736cc767d21d97c9452dec854dbd][^key-08e98e03a0b00802a56a0e66cfe3a2a4] In subsection (5)—
+
+- (a) in paragraph (a)—
+  - (i) after “when”, insert “ or after ”, and
+  - (ii) after “offence”, insert “ but before sentence is imposed ”,
+- (b) in paragraph (b)—
+  - (i) after “when”, insert “ or after ”, and
+  - (ii) after “offence”, insert “ but before sentence is imposed ”.
+
+(3)[^key-7931736cc767d21d97c9452dec854dbd][^key-08e98e03a0b00802a56a0e66cfe3a2a4] In subsection (6)(b)—
+
+- (a) in sub-paragraph (i), after “subsection (10)” insert “ (taking no account of qualifying persons who have not attained the age of 12 years) ”,
+- (b) the word “or” immediately after sub-paragraph (i) is repealed,
+- (c) sub-paragraph (ii) is repealed, and
+- (d) after that sub-paragraph, the words “or as the case may be to the child” are repealed.
+
+(4)[^key-7931736cc767d21d97c9452dec854dbd][^key-08e98e03a0b00802a56a0e66cfe3a2a4] In subsection (8)—
+
+- (a) for “neither” substitute “ not ”, and
+- (b) the words “nor a child such as is mentioned in sub-paragraph (ii) of that paragraph” are repealed.
+
+(5)[^key-7931736cc767d21d97c9452dec854dbd][^key-08e98e03a0b00802a56a0e66cfe3a2a4] After subsection (11), insert—
+
+> (11A) Where a child who has not attained the age of 12 years has (but for this subsection) the opportunity to make a statement by virtue of subsection (2), (3) or (6)(a)(i)—
+>
+> - (a) any statement made by virtue of the subsection must instead be made by a carer of the child, but
+> - (b) those subsections otherwise apply as if references in them to a person and to the maker of a statement are to the child.
+>
+> (11B) For the purposes of subsection (11A), “**carer of the child**” means—
+>
+> - (a) a person who cared for the child when the offence (or apparent offence) was perpetrated,
+> - (b) a person who cares for the child when the statement is made,
+> - (c) a person who has cared for the child at any other time.
+>
+> (11C) If more than one person comes within the meaning of “carer of the child” the persons may agree which carer is to make the statement after, so far as practicable and having regard to the age and maturity of the child—
+>
+> - (a) giving the child an opportunity to express any views on which carer is to make the statement, and
+> - (b) taking account of any views expressed by the child.
+>
+> (11D) If no agreement is reached in accordance with subsection (11C)—
+>
+> - (a) the statement may be made by each person coming within the description in subsection (11B)(a), and
+> - (b) if there is no such person, the statement may be made by each person coming within the description in subsection (11B)(b).
+>
+> (11E) In subsection (11B), the expressions “cared for” and “cares for” are to be construed in accordance with the definition of “someone who cares for” in paragraph 20 of schedule 12 to the Public Services Reform (Scotland) Act 2010.
+
+.
+
+(6)[^key-7931736cc767d21d97c9452dec854dbd][^key-08e98e03a0b00802a56a0e66cfe3a2a4] In subsection (12)(a)—
+
+- (a) for “subsection (6)(b)(ii)” substitute “ this section ”, and
+- (b) for “there” substitute “ in any part of this section ”.
+
+(7)[^key-19cb51b3b9390d53f1706a217b5a3141] After subsection (12), insert—
+
+> (13) A victim statement, or a statement made by virtue of subsection (3) in relation to a victim statement, may be made in such form and manner as may be prescribed.
+>
+> (14) An order under subsection (13) may—
+>
+> - (a) include such incidental, supplementary or consequential provision as the Scottish Ministers consider appropriate,
+> - (b) modify any enactment (including this Act).
+>
+> (15) An order under subsection (13) may be made so as to have effect for a period specified in the order.
+>
+> (16) An order under subsection (13) containing provision of the type mentioned in subsection (15) may provide that its provisions are to apply only in relation to one or more areas specified in the order.
+
+.
+
+(8)[^key-cf6d8c95bf7df770db9f357c6cc20f8c] Section 16 of the 2003 Act (victim's right to receive information concerning release etc. of offender) is amended in accordance with subsections (9) to (13).
+
+(9)[^key-cf6d8c95bf7df770db9f357c6cc20f8c] In subsection (5)—
+
+- (a) in paragraph (a)—
+  - (i) after “person”, insert “ to be given the information ”, and
+  - (ii) after “Act”, insert “ (except that, in the case where a qualifying person is a child who has not attained the age of 12 years, paragraph (a)(i) of the said section 14(6) is to be construed as if the reference to the qualifying person were to a person who cares for the child) ”,
+- (b) in paragraph (b)(ii)—
+  - (i) after “child”, insert “ who has not attained the age of 12 years ”,
+  - (ii) the words from “such” to “paragraph (b)” are repealed,
+  - (iii) after “person” insert “ to be given the information ”, and
+  - (iv) for the words from “mentioned”, where it second occurs, to “cares”,” substitute “ references to the person who cares for the child ”,
+- (c) in paragraph (b)(i), after “sub-paragraph”, where it second occurs, insert “ (taking him to be the person “afforded an opportunity”) ”, and
+- (d) in paragraph (b) the words “(taking him to be the person “afforded an opportunity”)” are repealed.
+
+(10)[^key-cf6d8c95bf7df770db9f357c6cc20f8c] In subsection (6)—
+
+- (a) for “and (8) to (12)” substitute “ to (11) ”, and
+- (b) after “relation to”, where it first occurs, insert “ paragraphs (a) and (b)(i) of ”.
+
+(11)[^key-cf6d8c95bf7df770db9f357c6cc20f8c] Subsection (7) is repealed.
+
+(12)[^key-cf6d8c95bf7df770db9f357c6cc20f8c] In subsection (8), for “(7)” substitute “ (5)(a) and (b)(ii) ”.
+
+(13)[^key-cf6d8c95bf7df770db9f357c6cc20f8c] After subsection (8), add—
+
+> (9) The Scottish Ministers may by order amend this section by substituting for—
+>
+> - (a) the person for the time being specified in any part of this section to whom information may be made available such other person as they think fit,
+> - (b) the age for the time being specified in any part of this section such other age as they think fit.
+
+.
+
+(14)[^key-19cb51b3b9390d53f1706a217b5a3141] In section 88(2) of the 2003 Act (orders), at the beginning of paragraph (b) insert “ 14(13) or ”.
+
+## Sentencing
+
+### 24. Duty to consider making compensation order
+
+**Not yet in force.**
+
+In section 249 of the 1995 Act (compensation order against convicted person), after subsection (4) insert—
+
+> (4A) In any case where it would be competent for the court to make a compensation order, the court must consider whether to make a compensation order.
+>
+> (4B) Before making a compensation order, the court must take steps to ascertain the views and wishes of the victim.
+>
+> (4C) No compensation order may be made where the victim notifies the court that the victim does not wish to receive compensation from the person convicted of the offence.
+>
+> (4D) For the purposes of subsections (4B) and (4C), “**victim**” has the meaning given by subsections (1A) and (1C).
+
+.
+
+### 25. Restitution order[^key-41fa72f08acb36f859490f8be18f9249][^key-86227a45b3d73e2c0e9599e8414776a6]
+
+After section 253 of the 1995 Act, insert—
+
+> **Restitution order**
+>
+> **253A. Restitution order where conviction of police assault etc.**
+>
+> (1) This section applies where a person (“P”) is convicted of an offence under section 90(1) of the Police and Fire Reform (Scotland) Act 2012 (police assault etc.).
+>
+> (2) The court, instead of or in addition to dealing with P in any other way, may make an order to be known as a restitution order requiring P to pay an amount not exceeding the prescribed sum (as defined in section 225(8)).
+>
+> (3) The Scottish Ministers may by regulations amend subsection (2) so as to substitute for the amount for the time being specified such other amount as may be prescribed by, or determined in accordance with, the regulations.
+>
+> (4) Any amount paid in respect of a restitution order is to be paid to the clerk of any court or any other person (or class of person) authorised by the Scottish Ministers for the purpose.
+>
+> (5) Regulations under subsection (3) are subject to the negative procedure.
+>
+> **253B. The Restitution Fund**
+>
+> (1) A person to whom any amount is paid under section 253A in respect of a restitution order must pay the amount to the Scottish Ministers.
+>
+> (2) The Scottish Ministers must pay any amount received by virtue of subsection (1) into a fund to be known as the Restitution Fund.
+>
+> (3) The Scottish Ministers must establish, maintain and administer the Restitution Fund for the purpose of securing the provision of support services for persons who have been assaulted as mentioned in section 90(1) of the Police and Fire Reform (Scotland) Act 2012 (“victims”).
+>
+> (4) Any payment out of the fund may be made only to—
+>
+> - (a) a person who provides or secures the provision of support services for victims, or
+> - (b) the Scottish Ministers or, with the consent of the Scottish Ministers, a person specified by order by virtue of subsection (5) in respect of outlays incurred in administering the fund.
+>
+> (5) The Scottish Ministers may delegate to such person as they may specify by order the duties imposed on them by subsection (3) of establishing, maintaining and administering the Restitution Fund.
+>
+> (6) The Scottish Ministers may by order make further provision about the administration of the Restitution Fund including provision for or in connection with—
+>
+> - (a) specifying persons or classes of person to or in respect of whom payments may be made out of the fund (but subject to subsection (4)),
+> - (b) the making of payments out of the fund,
+> - (c) requiring financial or other records to be kept,
+> - (d) the making of reports to the Scottish Government containing such information and in respect of such periods as may be specified.
+>
+> (7) An order under subsection (5) or (6) is subject to the affirmative procedure.
+>
+> (8) In this section, “**support services**”, in relation to a victim, means any type of service or treatment which is intended to benefit the physical or mental health or wellbeing of the victim.
+>
+> **253C. Restitution order, fine and compensation order: order of preference**
+>
+> (1) Subsection (2) applies where a court considers in relation to an offence that it would be appropriate—
+>
+> - (a) to make a restitution order,
+> - (b) to impose a fine, and
+> - (c) to make a compensation order.
+>
+> (2) If the person convicted of the offence (“P”) has insufficient means to pay an appropriate amount under a restitution order, to pay an appropriate fine and to pay an appropriate amount in compensation, the court should prefer a compensation order and then a restitution order over a fine.
+>
+> (3) Subsection (4) applies where a court considers in relation to an offence that it would be appropriate—
+>
+> - (a) to make a restitution order, and
+> - (b) to impose a fine or make a compensation order.
+>
+> (4) If P has insufficient means to pay an appropriate amount under a restitution order and to pay an appropriate fine or, as the case may be, an appropriate amount in compensation, the court should prefer a compensation order and then a restitution order over a fine.
+>
+> **253D. Application of receipts**
+>
+> (1) This section applies where the court makes a restitution order in relation to a person (“P”) convicted of an offence and also in respect of the same offence or different offences in the same proceedings—
+>
+> - (a) imposes a fine and makes a compensation order, or
+> - (b) imposes a fine or makes a compensation order.
+>
+> (2) A payment by P must be applied in the following order—
+>
+> - (a) the payment must first be applied in satisfaction of the compensation order,
+> - (b) the payment must next be applied in satisfaction of the restitution order,
+> - (c) the payment must then be applied in satisfaction of the fine.
+>
+> **253E. Enforcement: application of certain provisions relating to fines**
+>
+> (1) The provisions of this Act specified in subsection (2) apply in relation to restitution orders as they apply in relation to fines but subject to the modifications mentioned in subsection (2) and to any other necessary modifications.
+>
+> (2) The provisions are—
+>
+> - (a) section 211(3) and (7),
+> - (b) section 212,
+> - (c) section 213 (with the modification that subsection (2) is to be read as if the words “or (4)” were omitted),
+> - (d) section 214(1) to (4) and (6) to (9) (with the modification that subsection (4) is to be read as if the words from “unless” to “decision” were omitted),
+> - (e) sections 215 to 217,
+> - (f) subject to subsection (3) below, section 219(1)(b), (2), (3), (5), (6) and (8),
+> - (g) sections 220 to 224,
+> - (h) section 248B.
+>
+> (3) In the application of the provisions of section 219 mentioned in subsection (2)(f) for the purposes of subsection (1)—
+>
+> - (a) a court may impose imprisonment in respect of a fine and decline to impose imprisonment in respect of a restitution order but not vice versa,
+> - (b) where a court imposes imprisonment both in respect of a fine and a restitution order, the amounts in respect of which imprisonment is imposed are to be aggregated for the purposes of section 219(2).
+
+.
+
+### 26. Victim surcharge[^key-562788392fe424b110326b8a2727d19b][^key-9b0b564a80ce7d34478e9b08d0b8c3c4]
+
+After section 253E of the 1995 Act (inserted by section 25), insert—
+
+> **Victim surcharge**
+>
+> **253F. Victim surcharge**
+>
+> (1) This section applies where—
+>
+> - (a) a person (“P”) is convicted of an offence other than an offence, or offence of a class, that is prescribed by regulations by the Scottish Ministers,
+> - (b) the court does not make a restitution order, and
+> - (c) the court imposes a sentence, or sentence of a class, that is so prescribed.
+>
+> (2) Except in such circumstances as may be prescribed by regulations by the Scottish Ministers, the court, in addition to dealing with P in any other way, must order P to pay a victim surcharge of such amount as may be so prescribed.
+>
+> (3) Despite subsection (2), if P is convicted of two or more offences in the same proceedings, the court must order P to pay only one victim surcharge in respect of both or, as the case may be, all the offences.
+>
+> (4) Any sum paid in respect of a victim surcharge is to be paid to the clerk of any court or any other person (or class of person) authorised by the Scottish Ministers for the purpose.
+>
+> (5) Regulations under this section may make different provision for different cases and in particular may include provision—
+>
+> - (a) prescribing different amounts for different descriptions of offender,
+> - (b) prescribing different amounts for different circumstances.
+>
+> (6) Where provision is made by virtue of subsection (5), the Scottish Ministers may by regulations make provision for determining which victim surcharge is payable in the circumstances mentioned in subsection (3).
+>
+> (7) Regulations under this section are subject to the affirmative procedure.
+>
+> **253G. The Victim Surcharge Fund**
+>
+> (1) A person to whom any sum is paid under section 253F(4) in respect of a victim surcharge must pay the sum to the Scottish Ministers.
+>
+> (2) The Scottish Ministers must pay any sum received by virtue of subsection (1) into a fund to be known as the Victim Surcharge Fund.
+>
+> (3) The Scottish Ministers must establish, maintain and administer the Victim Surcharge Fund for the purpose of securing the provision of support services for persons who are or appear to be the victims of crime and prescribed relatives of such persons.
+>
+> (4) Any payment out of the fund may be made only to—
+>
+> - (a) a person who is or appears to be the victim of crime,
+> - (b) a prescribed relative of a person who is or appears to be the victim of crime,
+> - (c) a person who provides or secures the provision of support services for persons who are or appear to be victims of crime, or
+> - (d) the Scottish Ministers or, with the consent of the Scottish Ministers, a person specified by order by virtue of subsection (5) in respect of outlays incurred in administering the fund.
+>
+> (5) The Scottish Ministers may delegate to such person as they may specify by order the duties imposed on them by subsection (3) of establishing, maintaining and administering the Victim Surcharge Fund.
+>
+> (6) The Scottish Ministers may by regulations make further provision about the administration of the Victim Surcharge Fund including provision for or in connection with—
+>
+> - (a) the making of payments out of the fund,
+> - (b) the keeping of financial and other records,
+> - (c) the making of reports to the Scottish Government containing such information and in respect of such periods as may be specified.
+>
+> (7) An order under subsection (5) and regulations under subsection (6) are subject to the affirmative procedure.
+>
+> (8) In this section—
+>
+> - “**prescribed**” means prescribed by the Scottish Ministers by regulations,
+> - “**support services**”, in relation to a person who is or appears to be the victim of crime, means any type of service or treatment which is intended to benefit the physical or mental health or wellbeing of the person or a prescribed relative of the person.
+>
+> (9) Regulations under subsections (3), (4) and (8) are subject to the negative procedure.
+>
+> **253H. Application of receipts**
+>
+> (1) This section applies where the court orders the payment of a victim surcharge in relation to a person (“P”) convicted of an offence and also in respect of the same offence or different offences in the same proceedings—
+>
+> - (a) imposes a fine and makes a compensation order, or
+> - (b) imposes a fine or makes a compensation order.
+>
+> (2) A payment by P must be applied in the following order—
+>
+> - (a) the payment must first be applied in satisfaction of the compensation order,
+> - (b) the payment must next be applied in satisfaction of the victim surcharge,
+> - (c) the payment must then be applied in satisfaction of the fine.
+>
+> **253J. Enforcement: application of certain provisions relating to fines**
+>
+> (1) The provisions of this Act specified in subsection (2) apply in relation to victim surcharges as they apply in relation to fines but subject to the modifications mentioned in subsection (2) and to any other necessary modifications.
+>
+> (2) The provisions are—
+>
+> - (a) section 211(3) and (4),
+> - (b) section 212,
+> - (c) section 213 (with the modification that subsection (2) is to be read as if the words “or (4)” were omitted),
+> - (d) section 214(1) to (4) and (6) to (9) (with the modification that subsection (4) is to be read as if the words from “unless” to “decision” were omitted),
+> - (e) sections 215 to 218,
+> - (f) subject to subsection (3) below, section 219(1)(b), (2), (3), (5), (6) and (8),
+> - (g) sections 220 to 224,
+> - (h) section 248B.
+>
+> (3) In the application of the provisions of section 219 mentioned in subsection (2)(f) for the purposes of subsection (1)—
+>
+> - (a) a court may impose imprisonment in respect of a fine and decline to impose imprisonment in respect of a victim surcharge but not vice versa,
+> - (b) where a court imposes imprisonment both in respect of a fine and a victim surcharge, the amounts in respect of which imprisonment is imposed are to be aggregated for the purposes of section 219(2).
+
+.
+
+## Release of offender: victim's rights
+
+### 27. Victim's right to receive information about release of offender etc.[^key-8f23cd0e4f859a333ef0033b9c8a0b32]
+
+In section 16 of the 2003 Act (victim's right to receive information about release of offender etc.)—
+
+- (a) in subsection (1), for the words from “a”, where it first occurs, to “offence)” substitute “ an offence ”, and
+- (b) in subsection (3), for paragraph (d) substitute—
+
+  > - (d) that the convicted person is for the first time entitled to be considered for temporary release by virtue of rules under section 39(6) of the 1989 Act,
+
+  .
+
+### 27A. Notification of victims in relation to release etc. of short term prisoners[^key-a57d94f962995e48f7d9ffbec3e135d4]
+
+(1) Where a person (“A”) is sentenced to imprisonment or detention for a period of less than 18 months in respect of an offence, the Scottish Ministers must, if any person who is or appears to be a victim in relation to the offence (“V”) so requests, notify V of A’s—
+
+- (a) lawful release, or
+- (b) escape from prison.
+
+(2) Subsection (1) does not apply where the Scottish Ministers consider that there is an identified risk of harm to A if notification occurs.
+
+(3) Notification for the purposes of subsection (1)—
+
+- (a) must include—
+  - (i) the date of the release or escape, and
+  - (ii) in the case of release, any licence conditions which have been imposed on A under the 1989 Act or the 1993 Act for the protection of V,
+- (b) must be given—
+  - (i) where the request is made before release or escape, as soon as reasonably practicable after the release or escape occurs,
+  - (ii) where the request is made after the release or escape, as soon as reasonably practicable after the request is made.
+
+(4) In this section—
+
+- “the 1989 Act ” means the Prisons (Scotland) Act 1989 ,
+- “the 1993 Act ” means the Prisoners and Criminal Proceedings (Scotland) Act 1993 ,
+- “lawful release” means release under or by virtue of the *(affected by repeal, see note)*[^key-dfa472a6c713526db8842877373050cf] 1989 Act *(affected by repeal, see note)*[^key-dfa472a6c713526db8842877373050cf] or the *(affected by repeal, see note)*[^key-dfa472a6c713526db8842877373050cf] 1993 Act *(affected by repeal, see note)*[^key-dfa472a6c713526db8842877373050cf] , other than temporary release, *(affected by repeal, see note)*[^key-dfa472a6c713526db8842877373050cf]
+- “lawful release” means release under or by virtue of—
+  - (a) the 1989 Act (other than temporary release),
+  - (b) the 1993 Act, or
+  - (c) regulations made under paragraph 19(1) of schedule 4 of the Coronavirus (Scotland) Act 2020,
+- “prison” includes a young offenders institution.
+
+### 27B. Provision of information to person supporting victim[^key-ac5ce712bdc353db761445846397ad9a]
+
+(1) This section applies where—
+
+- (a) a person entitled to receive information under section 27A (“**V**”) intimates to the Scottish Ministers that a person to whom subsection (2) applies (the “supporter”) is to be given, as well as or instead of V, the information described in section 27A(1) in relation to the person sentenced to imprisonment or detention (“**A**”), or
+- (b) a supporter intimates to the Scottish Ministers that they wish to be given that information and Ministers are satisfied that V consents to the supporter being given the information.
+
+(2) This subsection applies to a person—
+
+- (a) of a description prescribed by the Scottish Ministers by regulations, and
+- (b) who is providing support services to V in relation to the offence perpetrated against V by A.
+
+(3) The Scottish Ministers must notify the supporter of the matters mentioned in section 27A(1).
+
+(4) Section 27A(2) and (3) apply to notification under subsection (3) as they apply to notification under section 27A(1).
+
+(5) In this section, “**support services**” has the same meaning as in section 16ZA(5) of the 2003 Act.
+
+(6) Regulations under subsection (2)(a) may—
+
+- (a) include incidental, supplementary, consequential, transitional, transitory or saving provision,
+- (b) modify enactments (including this Act).
+
+(7) Regulations under subsection (2)(a)—
+
+- (a) which add to, replace or omit any part of the text of an Act are subject to the affirmative procedure,
+- (b) are otherwise subject to the negative procedure.
+
+### 28. Life prisoners: victim's right to make oral representations before release on licence[^key-c1df181f8cb4720490562f5a9139b7a3]
+
+In section 17 of the 2003 Act (release on licence: right of victim to receive information and make representations)—
+
+- (a) in subsection (1)—
+  - (i) the words from “be”, where it first occurs, to the end become paragraph (a) of the subsection, and
+  - (ii) after that paragraph, add—
+
+    > - (b) if the convicted person is serving a sentence of life imprisonment, be afforded an opportunity to make oral representations to a member of the Parole Board for Scotland who is not dealing with the convicted person's case as respects such release and as to conditions which might be specified in the licence in question.
+
+    ,
+- (b) in subsection (4)—
+  - (i) after “how” insert “ written ”, and
+  - (ii) at the end add “ and how oral representations under that subsection should be made ”,
+- (c) after subsection (10), insert—
+
+  > (10A) In complying with the duty imposed on them by subsection (5), the Scottish Ministers may fix different times in relation to written and oral representations respectively.
+
+  , and
+- (d) after subsection (12), add—
+
+  > (13) The Scottish Ministers may by order modify the description or descriptions of convicted person for the time being specified in subsection (1)(b).
+
+  .
+
+### 29. Temporary release: victim's right to make representations[^key-3a36afa8646a6aef3666894532b67df6]
+
+After section 17 of the 2003 Act, insert—
+
+> **17A. Temporary release: victim's right to make representations about conditions**
+>
+> (1) This section applies where by virtue of subsection (1) or (5) of section 16 a person (the “victim”) is given the information mentioned in subsection (3)(d) of that section as respects a convicted person.
+>
+> (2) On the first occasion on which the convicted person is entitled to be considered for temporary release by virtue of rules under section 39(6) of the 1989 Act, the Scottish Ministers must give the victim an opportunity to make written representations to them about any conditions that the victim considers should be imposed in relation to the temporary release.
+>
+> (3) Subsection (2) applies only if the victim has notified the Scottish Ministers that the victim wishes to be given the opportunity to make representations under that subsection.
+>
+> (4) The Scottish Ministers must—
+>
+> - (a) fix a time within which any written representations under subsection (2) require to be made to them if they are to be considered by them, and
+> - (b) notify the victim of the time fixed.
+
+.
+
+## Child victims[^key-8c4892c939144a483b592eb6a744299e]
+
+### 29A. Exercise of functions where victim is a child
+
+(1) This section applies where, under section 3C, 3D, 3E, 3F, 3G, 6 , 8A[^key-593214072392d4c11a0e37e9848df188] or 27A—
+
+- (a) a competent authority is to exercise a function in relation to, or at the request of, a person who is or appears to be a victim in relation to an offence or alleged offence, and
+- (b) the person is a child.
+
+(2) If the competent authority considers that it is in the best interests of the child to exercise the function in relation to, or at the request of, the child, the function—
+
+- (a) is exercisable in relation to, or at the request of, the child, and
+- (b) is also exercisable in relation to, or at the request of, the child’s parent if the authority considers that it is in the best interests of the child to do so.
+
+(3) If the competent authority considers that it is not in the best interests of the child to exercise the function in relation to, or at the request of, the child, the function—
+
+- (a) is not exercisable in relation to, or at the request of, the child, and
+- (b) is instead exercisable in relation to, or at the request of, the child’s parent if the authority considers that it is in the best interests of the child to do so.
+
+(4) If, for the purposes of subsection (2)(b) or (3)(b), the competent authority considers that it is not in the best interests of the child to exercise the function in relation to, or at the request of, the child’s parent—
+
+- (a) the function is not so exercisable, and
+- (b) the function may instead be exercisable in relation to, or at the request of, such person as the authority considers appropriate having regard to the age, maturity, views, needs and concerns of the child.
+
+(5) Subsections (2)(b) and (3)(b) do not require a competent authority to exercise a function in relation to a parent of a child if, having taken reasonable steps to determine the parent’s whereabouts, the parent’s whereabouts are unknown to the authority.
+
+(6) In this section—
+
+- “child” means a person under 18 years of age,
+- “parent”, in relation to a child, means any person holding parental responsibilities for that child within the meaning of the Children (Scotland) Act 1995.
+
+## Deceased victims
+
+### 29B. Application of Act where victim’s death caused by offence
+
+(1) Subject to subsections (2) and (3), references in this Act to a person who is or appears to be a victim include—
+
+- (a) where the reference is in relation to any criminal investigation or criminal proceedings, a qualifying relative of a person whose death was (or appears to have been) caused by the offence or alleged offence which is the subject of the criminal investigation or criminal proceedings, and
+- (b) where the reference is in relation to an offence or alleged offence, a qualifying relative of a person whose death was (or appears to have been) caused by the offence or alleged offence.
+
+(2) This section does not apply in relation to sections 2, 6, 8, 9D, 9E and 26.
+
+(3) Where, by virtue of subsection (1), a function of a competent authority under section 3C, 3D, 3G or 27A is exercisable in relation to, or at the request of, a qualifying relative of a deceased person—
+
+- (a) the function is exercisable only in relation to, or at the request of, a person who is one of the four highest listed relatives in the definition of “qualifying relative” in subsection (5), and
+- (b) the competent authority—
+  - (i) may decline to exercise the function in relation to, or at the request of, a person who is one of those qualifying relatives, if it considers it inappropriate to exercise the function in relation to, or at the request of, that person, and
+  - (ii) is not required to exercise the function in relation to a person who is one of those qualifying relatives if, having taken reasonable steps to ascertain that person’s whereabouts, that person’s whereabouts are unknown to the authority.
+
+(4) For the purposes of determining which relatives are highest listed in the definition of “qualifying relative”, the elder of any two persons described in any one of paragraphs (a) to (g) of the definition is to be taken to be the higher listed relative regardless of gender.
+
+(5) In this section, “qualifying relative” means—
+
+- (a) anyone who was married to, or was in a civil partnership with, the person immediately before the person’s death,
+- (b) anyone who had been living together with the person, as if they were married, for a minimum period of 6 months immediately before the person’s death,
+- (c) children and step-children of the person and anyone whom the person cared for, as defined in paragraph 20 of schedule 12 to the Public Services Reform (Scotland) Act 2010, immediately before the person’s death,
+- (d) parents and step-parents of the person,
+- (e) siblings of the person,
+- (f) grandparents and great-grandparents of the person, and
+- (g) grandchildren and great-grandchildren of the person.
+
+## ...[^key-91c3bfdf4d45da7945df10d04f2a6f6e]
+
+### 30. National Confidential Forum[^key-91c3bfdf4d45da7945df10d04f2a6f6e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 31. NCF: constitution and operation[^key-91c3bfdf4d45da7945df10d04f2a6f6e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## General
+
+### 32. Interpretation
+
+In this Act—
+
+- “**the 1995 Act**” means the Criminal Procedure (Scotland) Act 1995,
+- “**the 2003 Act**” means the Criminal Justice (Scotland) Act 2003,
+- “[^key-44d98716dfb72ad2d539dd377e02e021] **competent authority** " means each of the following persons—
+  - (a) the Lord Advocate,
+  - (b) the Scottish Ministers,
+  - (c) the chief constable of the Police Service of Scotland,
+  - (d) the Scottish Courts and Tribunals Service,
+  - (e) the Parole Board for Scotland,
+- “a member of police staff” means a member of police staff appointed under section 26 of the Police and Fire Reform (Scotland) Act 2012,
+- “**the Mental Health Act**” means the Mental Health (Care and Treatment) (Scotland) Act 2003.
+- “procurator fiscal” has the same meaning as in section 307(1) of the 1995 Act.[^key-3f3f7e3eddbe83ff8f8c935fdd128e0e]
+
+### 33. Ancillary provision
+
+(1) The Scottish Ministers may by order make such supplementary, incidental, consequential, transitional, transitory or saving provision as they consider appropriate for the purposes of, in consequence of, or for giving full effect to, any provision of this Act.
+
+(2) An order under this section may modify any enactment (including this Act).
+
+(3) An order under subsection (1) containing provisions which add to, replace or omit any part of the text of an Act is subject to the affirmative procedure.
+
+(4) Otherwise, an order under subsection (1) is subject to the negative procedure.
+
+### 34. Commencement
+
+(1) This section and sections 30 so far as it inserts the new section 4ZA, 31(1), 31(2) so far as it inserts paragraphs 1, 2 and 5 of the new schedule 1A, 31(3), 32, 33 and 35 come into force on the day after Royal Assent.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by order appoint.
+
+(3) An order under subsection (2) may contain transitory or transitional provision or savings.
+
+### 35. Short title
+
+The short title of this Act is the Victims and Witnesses (Scotland) Act 2014.
+
+## Annotations
+
+[^key-d7e5b5e8fc73cda3020fdda5d2503046]: Commencement: S. 1 in force at 30.1.2015 by [S.S.I. 2014/359](https://www.legislation.gov.uk/ssi/2014/359), [art. 2](https://www.legislation.gov.uk/ssi/2014/359/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/359/schedule)
+
+[^key-91cec104e44583ffbfe1fdea8d867d06]: Textual amendment: [S. 1(3)(ca)](https://www.legislation.gov.uk/asp/2014/1/section/1/3/ca) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 26(2)(a)](https://www.legislation.gov.uk/asp/2025/12/section/26/2/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-d3157fc6fcc9a5a9d547bd5b0eaed266]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/asp/2014/1/section/1/3A) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 26(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/26/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-850fc1b30632cec4ed8b610871424f3a]: Textual amendment: S. 1A inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2015/444/regulation/2)
+
+[^key-4443a4713b57ac7ae1c2871be77f589c]: Commencement: S. 2 in force at 13.8.2014 for specified purposes by [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule)
+
+[^key-27377977da22de0296fa54752ee60681]: Commencement: S. 2 in force at 30.1.2015 in so far as not already in force by [S.S.I. 2014/359](https://www.legislation.gov.uk/ssi/2014/359), [art. 2](https://www.legislation.gov.uk/ssi/2014/359/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/359/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/359/article/3))
+
+[^key-679f19c0b91bc86b5ed4eebe530340a6]: Textual amendment: [S. 2(1)(aa)](https://www.legislation.gov.uk/asp/2014/1/section/2/1/aa) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 26(3)(a)](https://www.legislation.gov.uk/asp/2025/12/section/26/3/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-dcebed23087357858142e4d6e0022890]: Textual amendment: Words in [s. 2(3)(b)](https://www.legislation.gov.uk/asp/2014/1/section/2/3/b/i) renumbered as s. 2(3)(b)(i) (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 44(2)(a)](https://www.legislation.gov.uk/asp/2025/12/section/44/2/a), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-638a0ae638c0d410c84d670972e62b51]: Textual amendment: [S. 2(3)(b)(ii)-(iv)](https://www.legislation.gov.uk/asp/2014/1/section/2/3/b/ii) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 44(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/44/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-8b6a7c28c91b1bdbe5d22cfcb46330e0]: Textual amendment: [S. 2(4A)](https://www.legislation.gov.uk/asp/2014/1/section/2/4A)[(4B)](https://www.legislation.gov.uk/asp/2014/1/section/2/4B) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 26(3)(b)](https://www.legislation.gov.uk/asp/2025/12/section/26/3/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-8dd3a8d7ff005798a9004f484bc271d9]: Textual amendment: Words in [s. 2(6)](https://www.legislation.gov.uk/asp/2014/1/section/2/6) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 26(3)(c)](https://www.legislation.gov.uk/asp/2025/12/section/26/3/c), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-e261c142b427189a19b7ff800c45161f]: Commencement: S. 3 in force at 30.1.2015 by [S.S.I. 2014/359](https://www.legislation.gov.uk/ssi/2014/359), [art. 2](https://www.legislation.gov.uk/ssi/2014/359/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/359/schedule)
+
+[^key-6754a46b822f38705950982aa41d60ba]: Textual amendment: S. 3A and cross-heading inserted (23.12.2015) by [The Victims Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2015/444/regulation/3)
+
+[^key-620a773a92c322d7d452a0471b568fce]: Textual amendment: Ss. 3B-3D and cross-headings inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2015/444/regulation/4)
+
+[^key-935ce505fe2b922e732710ecf0d1c6e2]: Textual amendment: [S. 3D](https://www.legislation.gov.uk/asp/2014/1/section/3D) heading substituted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 52(2)(f)](https://www.legislation.gov.uk/asp/2025/12/section/52/2/f), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-f189117dba1b00c542d04c1a2d971ffc]: Textual amendment: [S. 3D(1)(za)](https://www.legislation.gov.uk/asp/2014/1/section/3D/1/za) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 52(2)(a)(i)](https://www.legislation.gov.uk/asp/2025/12/section/52/2/a/i), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-afa6c330b0f20595af2230bd776bed41]: Textual amendment: [S. 3D(1)(a)](https://www.legislation.gov.uk/asp/2014/1/section/3D/1/a)[(aa)](https://www.legislation.gov.uk/asp/2014/1/section/3D/1/aa) substituted for [s. 3D(1)(a)](https://www.legislation.gov.uk/asp/2014/1/section/3D/1/a) (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 52(2)(a)(ii)](https://www.legislation.gov.uk/asp/2025/12/section/52/2/a/ii), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-51af06a206f4e05ecce00d3de1fffb3e]: Textual amendment: [S. 3D(1)(c)](https://www.legislation.gov.uk/asp/2014/1/section/3D/1/c) and word inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 52(2)(a)(iii)](https://www.legislation.gov.uk/asp/2025/12/section/52/2/a/iii), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-242e3b3f297795f40c059d9b93fcdc00]: Textual amendment: [S. 3D(2)](https://www.legislation.gov.uk/asp/2014/1/section/3D/2)[(2A)](https://www.legislation.gov.uk/asp/2014/1/section/3D/2A) substituted for [s. 3D(2)](https://www.legislation.gov.uk/asp/2014/1/section/3D/2) (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 52(2)(b)](https://www.legislation.gov.uk/asp/2025/12/section/52/2/b), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-82dd8d5d3f62076d9203baade35a9e3e]: Textual amendment: Words in [s. 3D(3)](https://www.legislation.gov.uk/asp/2014/1/section/3D/3) substituted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 52(2)(c)](https://www.legislation.gov.uk/asp/2025/12/section/52/2/c), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-4199946f473bcad67dcda2d1ad940407]: Textual amendment: Words in [s. 3D(4)](https://www.legislation.gov.uk/asp/2014/1/section/3D/4) substituted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 52(2)(d)](https://www.legislation.gov.uk/asp/2025/12/section/52/2/d), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-0d86a2067701f42456d5bb81bb8afe19]: Textual amendment: [S. 3D(4A)](https://www.legislation.gov.uk/asp/2014/1/section/3D/4A)[(4B)](https://www.legislation.gov.uk/asp/2014/1/section/3D/4B) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 52(2)(e)](https://www.legislation.gov.uk/asp/2025/12/section/52/2/e), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+
+[^key-447eae3cfeef6fa7b83200ca48b0e701]: Textual amendment: Ss. 3E, 3F and cross-heading inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2015/444/regulation/5)
+
+[^key-3ae19dc7342bf3cdfa80d88c90bbbcd1]: Textual amendment: S. 3G and cross-heading inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2015/444/regulation/6)
+
+[^key-f3c3c09f0fe421ab258eb78dd01c32bf]: Textual amendment: S. 3H and cross-heading inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2015/444/regulation/7)
+
+[^key-d1167c6656c866dfb031bce8c8c10d08]: Textual amendment: S. 3I and cross-heading inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2015/444/regulation/8)
+
+[^key-ed2cb4ff363c2a691611157a00dffe4f]: Textual amendment: S. 3J and cross-heading inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2015/444/regulation/9)
+
+[^key-1efe3fb791006f72fd04fddd23228e48]: Textual amendment: Word in [s. 3J](https://www.legislation.gov.uk/asp/2014/1/section/3J) heading substituted (1.12.2022) by The Civil Protection Measures, European Protection Order and Victims’ [Rights (EU Exit) (Scotland) (Amendment Etc.) Regulations 2022 (S.S.I. 2022/249)](https://www.legislation.gov.uk/ssi/2022/249), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/249/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2022/249/regulation/6/2)
+
+[^key-e6f66ed67042400fa83094f0b3e4954f]: Textual amendment: Words in [s. 3J(a)](https://www.legislation.gov.uk/asp/2014/1/section/3J/a) omitted (1.12.2022) by virtue of [The Civil Protection Measures, European Protection Order and Victims’ Rights (EU Exit) (Scotland) (Amendment Etc.) Regulations 2022 (S.S.I. 2022/249)](https://www.legislation.gov.uk/ssi/2022/249), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/249/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2022/249/regulation/6/3)
+
+[^key-d522e701d3c9ac4fafdf691b79818aa6]: Commencement: S. 4 in force at 1.7.2015 by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/200/article/2/1)
+
+[^key-09f01ccea57ac2820a93bb4891b594a3]: Textual amendment: Words in s. 4(1) inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [10(a)](https://www.legislation.gov.uk/ssi/2015/444/regulation/10/a)
+
+[^key-d3d6a12862df2ab13b4ed2aab1f0245f]: Textual amendment: Words in s. 4(1) inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [10(b)](https://www.legislation.gov.uk/ssi/2015/444/regulation/10/b)
+
+[^key-5d49f189ea5fd0b0a4172b72c2b7676b]: Commencement: S. 5 in force at 24.2.2021 by [S.S.I. 2021/39](https://www.legislation.gov.uk/ssi/2021/39), [art. 2](https://www.legislation.gov.uk/ssi/2021/39/article/2)
+
+[^key-2e17384d16cc729724b1566a6e838858]: Textual amendment: Words in s. 5(1)(a) inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [11(a)](https://www.legislation.gov.uk/ssi/2015/444/regulation/11/a)
+
+[^key-09ddc18b2da5446e79b16fca436e9269]: Textual amendment: Words in s. 5(1)(a) inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [11(b)](https://www.legislation.gov.uk/ssi/2015/444/regulation/11/b)
+
+[^key-d5504f1de3cf3714d8cf3af70483bd59]: Commencement: S. 6 in force at 13.8.2014 for specified purposes by [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule)
+
+[^key-f81179a9c52bb41a7f901468c1c692b9]: Commencement: S. 6(1)-(6) (8) (9) in force at 30.1.2015 in so far as not already in force by [S.S.I. 2014/359](https://www.legislation.gov.uk/ssi/2014/359), [art. 2](https://www.legislation.gov.uk/ssi/2014/359/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/359/schedule)
+
+[^key-4bdd04dc00954d0a3c37cf03a94fab5e]: Commencement: S. 6(7)(a)-(c) in force at 30.1.2015 for specified purposes by [S.S.I. 2014/359](https://www.legislation.gov.uk/ssi/2014/359), [art. 2](https://www.legislation.gov.uk/ssi/2014/359/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/359/schedule)
+
+[^key-c9acb62dce6ac58c6a3230c96caa529a]: Commencement: S. 6(7)(d)-(j) in force at 30.1.2015 for specified purposes by [S.S.I. 2014/359](https://www.legislation.gov.uk/ssi/2014/359), [art. 2](https://www.legislation.gov.uk/ssi/2014/359/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/359/schedule) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2014/359/article/1/3))
+
+[^key-fc735ba1558824c1f3686c723eebceea]: Commencement: S. 7 in force at 1.9.2015 by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/200/article/3))
+
+[^key-f9e7a4952792da608c923256c5d1a06a]: Commencement: S. 8 in force at 13.8.2014 by [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule)
+
+[^key-82507038a425d3f89b677d167aa4ebcd]: Textual amendment: Words in s. 8(1) inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2015/444/regulation/12)
+
+[^key-e916e34e1207c08577efa8b93a3c0d10]: Textual amendment: S. 8(5)(ca) inserted (31.5.2016) by [Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2015/12/section/45/2), [Sch. para. 6](https://www.legislation.gov.uk/asp/2015/12/schedule/paragraph/6) (with [s. 44](https://www.legislation.gov.uk/asp/2015/12/section/44)); [S.S.I. 2016/128](https://www.legislation.gov.uk/ssi/2016/128), [reg. 2](https://www.legislation.gov.uk/ssi/2016/128/regulation/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/128/schedule)
+
+[^key-6c2421f1ed35e1779b02631d342582ef]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/asp/2014/1/section/8A) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 5(2)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/5/2) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+
+[^key-4ab857a824d67d98d890d3e688c560b5]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/1/section/9) in force at 1.4.2022 by [S.S.I. 2022/22](https://www.legislation.gov.uk/ssi/2022/22), [art. 2](https://www.legislation.gov.uk/ssi/2022/22/article/2)
+
+[^key-2ee107fda15d9588179533467cb15d20]: Textual amendment: [S. 9(1)](https://www.legislation.gov.uk/asp/2014/1/section/9/1) substituted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 5(3)(a)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/5/3/a) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+
+[^key-15996a78a2514dffc62e5ab5ae367241]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/asp/2014/1/section/9/2) repealed (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 5(3)(b)(i)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/5/3/b/i) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+
+[^key-ed123baa11ad7cdf8037a00b2b9678eb]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/asp/2014/1/section/9/2) substituted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 5(3)(b)(ii)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/5/3/b/ii) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+
+[^key-874f3ab93e958f58b4110000aa5b9041]: Textual amendment: Word in [s. 9(2)](https://www.legislation.gov.uk/asp/2014/1/section/9/2) substituted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 5(3)(b)(iii)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/5/3/b/iii) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+
+[^key-f49891e10723844227ba68602332f91c]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/asp/2014/1/section/9/3) repealed (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 5(3)(c)(i)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/5/3/c/i) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+
+[^key-45c64664bc1e4d66c7a7c161b5d45f16]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/asp/2014/1/section/9/3) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 5(3)(c)(ii)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/5/3/c/ii) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+
+[^key-71a30e22c8846a4ea492bc6b9de95566]: Textual amendment: Ss. 9A-9C and cross-heading inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2015/444/regulation/13)
+
+[^key-5af90174c30b776154477c366db99d1f]: Textual amendment: Ss. 9D, 9E and cross-heading inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2015/444/regulation/14)
+
+[^key-abdc5fe3a867ea630ce6c3ce853d586a]: Commencement: S. 10 in force at 1.9.2015 with effect in accordance with art. 1(3) by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/200/article/4))
+
+[^key-b16c8b0848e9e61fb9ebddb7dc02e460]: Commencement: S. 11 in force at 1.9.2015 with effect in accordance with art. 1(3) by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/200/article/4))
+
+[^key-a45c8e790e0cd6f1e76b7cf69c3e19d8]: Commencement: S. 12 in force at 1.9.2015 with effect in accordance with art. 1(3) by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/200/article/4))
+
+[^key-4c244bed4cd6503caca869c359aaa33f]: Commencement: S. 13 in force at 1.9.2015 with effect in accordance with art. 1(3) by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/200/article/4))
+
+[^key-f6b594a02f6a141a9e181c2e3ceae8bd]: Commencement: S. 14 in force at 1.9.2015 with effect in accordance with art. 1(3) by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/200/article/4))
+
+[^key-05c151e5e1622bb668174280d266a24f]: Commencement: S. 15 in force at 1.9.2015 by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule)
+
+[^key-c57158aaa61877c33cce4e07f0be4ee0]: Commencement: S. 16 in force at 1.9.2015 with effect in accordance with art. 1(3) by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/200/article/4))
+
+[^key-c1bcb4361ce8cdbbcd0584ae11585a4a]: Commencement: S. 17 in force at 1.9.2015 with effect in accordance with art. 1(3) by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/200/article/4))
+
+[^key-645ec59e9478a288e722742ff0e4aad6]: Commencement: S. 18 in force at 1.9.2015 with effect in accordance with art. 1(3) by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/200/article/4))
+
+[^key-cc066f540f8a4b56cc0e457f5e28394f]: Commencement: S. 19 in force at 1.9.2015 by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule)
+
+[^key-89c6d118af0ea1197542f8626baf8489]: Commencement: S. 20 in force at 1.9.2015 with effect in accordance with art. 1(3) by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/200/article/4))
+
+[^key-a9ba780de878fc18728476b1861ea172]: Commencement: S. 21 in force at 1.9.2015 by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule)
+
+[^key-ff2b1a5da1eda1a9aa26fe7cb5e4d38b]: Commencement: S. 22 in force at 1.9.2015 with effect in accordance with art. 1(4) by [S.S.I. 2015/200](https://www.legislation.gov.uk/ssi/2015/200), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/200/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/200/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/200/article/5))
+
+[^key-7931736cc767d21d97c9452dec854dbd]: Commencement: S. 23(1)-(6) in force at 13.8.2014 for specified purposes by [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/210/article/3))
+
+[^key-08e98e03a0b00802a56a0e66cfe3a2a4]: Commencement: S. 23(1)-(6) in force at 10.2.2021 in so far as not already in force by [S.S.I. 2020/405](https://www.legislation.gov.uk/ssi/2020/405), [art. 2(a)](https://www.legislation.gov.uk/ssi/2020/405/article/2/a)
+
+[^key-19cb51b3b9390d53f1706a217b5a3141]: Commencement: S. 23(7)(14) in force at 10.2.2021 by [S.S.I. 2020/405](https://www.legislation.gov.uk/ssi/2020/405), [art. 2(a)](https://www.legislation.gov.uk/ssi/2020/405/article/2/a)
+
+[^key-cf6d8c95bf7df770db9f357c6cc20f8c]: Commencement: S. 23(8)-(13) in force at 13.8.2014 by [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/210/article/3))
+
+[^key-41fa72f08acb36f859490f8be18f9249]: Commencement: S. 25 in force at 25.8.2020 for specified purposes by [S.S.I. 2020/237](https://www.legislation.gov.uk/ssi/2020/237), [art. 2](https://www.legislation.gov.uk/ssi/2020/237/article/2)
+
+[^key-86227a45b3d73e2c0e9599e8414776a6]: Commencement: S. 25 in force at 10.2.2021 in so far as not already in force by [S.S.I. 2020/405](https://www.legislation.gov.uk/ssi/2020/405), [art. 2(b)](https://www.legislation.gov.uk/ssi/2020/405/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/405/article/3))
+
+[^key-562788392fe424b110326b8a2727d19b]: Commencement: S. 26 in force at 13.8.2014 for specified purposes by [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule)
+
+[^key-9b0b564a80ce7d34478e9b08d0b8c3c4]: Commencement: S. 26 in force at 25.11.2019 for specified purposes by [S.S.I. 2019/283](https://www.legislation.gov.uk/ssi/2019/283), [art. 2](https://www.legislation.gov.uk/ssi/2019/283/article/2)
+
+[^key-8f23cd0e4f859a333ef0033b9c8a0b32]: Commencement: S. 27 in force at 13.8.2014 by [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/210/article/3))
+
+[^key-a57d94f962995e48f7d9ffbec3e135d4]: Textual amendment: S. 27A inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2015/444/regulation/15)
+
+[^key-dfa472a6c713526db8842877373050cf]: Textual amendment: Words in s. 27A(4) substituted (temp.) (4.5.2020 at 10.15 a.m.) by virtue of [The Criminal Justice (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/137)](https://www.legislation.gov.uk/ssi/2020/137), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/137/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2020/137/regulation/3)
+
+[^key-ac5ce712bdc353db761445846397ad9a]: Textual amendment: [S. 27B](https://www.legislation.gov.uk/asp/2014/1/section/27B) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 14(12)](https://www.legislation.gov.uk/asp/2023/4/section/14/12), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
+
+[^key-c1df181f8cb4720490562f5a9139b7a3]: Commencement: S. 28 in force at 13.8.2014 by [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/210/article/3))
+
+[^key-3a36afa8646a6aef3666894532b67df6]: Commencement: S. 29 in force at 13.8.2014 by [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/210/article/3))
+
+[^key-8c4892c939144a483b592eb6a744299e]: Textual amendment: Ss. 29A, 29B and cross-headings inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2015/444/regulation/16)
+
+[^key-593214072392d4c11a0e37e9848df188]: Textual amendment: Word in [s. 29A(1)](https://www.legislation.gov.uk/asp/2014/1/section/29A/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 5(4)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/5/4) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+
+[^key-91c3bfdf4d45da7945df10d04f2a6f6e]: Textual amendment: [Ss. 30, 31 and cross-heading](https://www.legislation.gov.uk/asp/2014/1/crossheading/national-confidential-forum) repealed (28.6.2021) by [Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15)](https://www.legislation.gov.uk/asp/2021/15), [s. 109(2)](https://www.legislation.gov.uk/asp/2021/15/section/109/2), [sch. 2 para. 5(2)](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/5/2); [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+
+[^key-44d98716dfb72ad2d539dd377e02e021]: Textual amendment: Words in s. 32 inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [17(a)](https://www.legislation.gov.uk/ssi/2015/444/regulation/17/a)
+
+[^key-3f3f7e3eddbe83ff8f8c935fdd128e0e]: Textual amendment: Words in s. 32 inserted (23.12.2015) by [The Victims' Rights (Scotland) Regulations 2015 (S.S.I. 2015/444)](https://www.legislation.gov.uk/ssi/2015/444), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/444/regulation/1/2), [17(b)](https://www.legislation.gov.uk/ssi/2015/444/regulation/17/b)

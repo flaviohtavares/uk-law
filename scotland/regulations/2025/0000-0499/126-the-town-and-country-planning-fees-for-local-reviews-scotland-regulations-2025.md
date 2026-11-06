@@ -1,0 +1,455 @@
+---
+title: The Town and Country Planning (Fees for Local Reviews) (Scotland) Regulations 2025
+id: ssi/2025/126
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-04-24'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2025/126
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2025/126/pdfs/ssipn_20250126_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2025/126/pdfs/ssi_20250126_en.pdf
+- http://www.legislation.gov.uk/ssi/2025/126/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Town and Country Planning (Fees for Local Reviews) (Scotland) Regulations 2025
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2025 No. 126
+
+Town And Country Planning
+
+The Town and Country Planning (Fees for Local Reviews) (Scotland) Regulations 2025
+
+Made
+
+24th April 2025
+
+Laid before the Scottish Parliament
+
+28th April 2025
+
+Coming into force
+
+9th June 2025
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by section 252 of the Town and Country Planning (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and application[^key-0fedb06abc1be751766ca3a780ca2b72]
+
+(1) These Regulations may be cited as the Town and Country Planning (Fees for Local Reviews) (Scotland) Regulations 2025 and come into force on 9 June 2025.
+
+(2) These Regulations apply to reviews conducted by virtue of section 43A(8)(a) or (b) of the Act where notice of review is given on or after 9 June 2025.
+
+### 2. Interpretation[^key-d15f2f6c5a8694415788560eccc3da80]
+
+In these Regulations—
+
+- “**the Act**” means the Town and Country Planning (Scotland) Act 1997,
+- “**the 2013 Regulations**” means the Town and Country Planning (Schemes of Delegation and Local Review Procedure) (Scotland) Regulations 2013[^f00002],
+- “**dwellinghouse**” means a building or part of a building which is used as a single private dwellinghouse, and for no other purpose,
+- “**equipment**” and “**fish farming**” have the same meanings as in section 26(6) of the Act[^f00003],
+- “**the General Permitted Development Order**” means the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00004],
+- “**local review body**” has the same meaning as in the 2013 Regulations,
+- “**marine waters**” means the waters described in paragraphs (b) and (c) of subsection (6) of section 26 of the Act[^f00005],
+- “**notice of review**” means a notice given in accordance with regulation 9 of the 2013 Regulations,
+- “**planning permission in principle**” has the same meaning as in section 59 of the Act[^f00006],
+- “**review**” means a review conducted by virtue of section 43A(8)(a) or (b) of the Act,
+- “**use of land**” includes use of land for the winning and working of minerals.
+
+## PART 2 — Payment of fees
+
+### 3. Payment of fees[^key-38fbeaeed13fdbc1778a2ff324264c57]
+
+(1) Subject to Part 3 (applications where no fee is payable), where a notice of review is given under regulation 9 of the 2013 Regulations a fee is payable to the planning authority in accordance with the provisions of this regulation.
+
+(2) Subject to paragraph (3), the fee payable is the fee calculated in accordance with the schedule of these Regulations.
+
+(3) The fee payable for a review in respect of an application for planning permission made under section 42 (applications to develop land without complying with previous conditions) of the Act is £149[^key-6b29cbdd62750976bd3332935922aa7b].
+
+(4) Any fee payable under this regulation must—
+
+- (a) accompany the notice of review, and
+- (b) be refunded if the notice of review is rejected as invalidly made.
+
+### 4. Waiving or reducing of fees[^key-cfa954a7cdc9cd3fefc2355099bd60e4]
+
+(1) The planning authority may waive or reduce any review fee payable under regulation 3 in accordance with the provisions of this regulation.
+
+(2) The planning authority may only waive or reduce a fee following the publication of a charter setting out the circumstances in which the planning authority will consider waiving or reducing a fee payable to them.
+
+(3) The charter must include but is not limited to the circumstances—
+
+- (a) where the review relates to development which, in the opinion of the planning authority, has the primary purpose of contributing to a not for profit enterprise or a social enterprise, and
+- (b) where the review relates to development which, in the opinion of the planning authority, is likely to contribute to improving the health of residents of the area to which the review relates.
+
+(4) In waiving or reducing any fee payable, the planning authority must state the reasons for doing so on any decision notice.
+
+(5) A charter produced by a planning authority under paragraph (2) must be published by means of the internet.
+
+(6) For the purposes of paragraph (3) “**not for profit enterprise**” and “**social enterprise**” have the same meanings as in section 252(1F) of the Act[^f00007].
+
+## PART 3 — Applications where no fee is payable
+
+### 5. Means of access etc. for disabled persons[^key-58c4260b7dcbb4fbca73fe7aad77c240]
+
+(1) No fee is payable under regulation 3 where the local review body is satisfied as to the matters specified in paragraphs (2)(a) or (b).
+
+(2) The matters are that the application relates solely to the carrying out of operations for—
+
+- (a) the alteration or extension of a dwellinghouse (but not including the erection of a dwellinghouse) or other operations within the curtilage of a dwellinghouse for the purpose of—
+  - (i) providing means of access to or within the dwellinghouse for a disabled person who resides or proposes to reside in that dwellinghouse, or
+  - (ii) providing facilities designed to secure that person’s greater safety, health or comfort,
+- (b) the purpose of providing means of access for disabled persons to or within a building or premises to which members of the public are admitted.
+
+(3) In this regulation, “**disabled person**” has the meaning given by section 6 of the Equality Act 2010[^f00008].
+
+### 6. Restrictions on permitted development rights[^key-4a62a5f8b062f9269b1d4b690d72ed97]
+
+(1) No fee is payable under regulation 3 where the local review body is satisfied as to the matters specified in paragraph (2).
+
+(2) The matters are that—
+
+- (a) the review relates solely to development within one or more of the classes specified in schedule 1 of the General Permitted Development Order, and
+- (b) the permission granted by article 3 of that Order does not apply in respect of that development by reason of—
+  - (i) a direction made under article 4 of that Order which is in force on the date when the application to which the review relates was made, or
+  - (ii) the requirements of a condition imposed on a permission granted under Part 3 of the Act otherwise than by that Order.
+
+(3) The reference in paragraph (2)(a) to a review which relates to development which is within one or more of the classes specified in schedule 1 of the General Permitted Development Order includes a review in respect of an application for planning permission for the continuance of a use of land, or the retention of buildings or works, without compliance with a condition subject to which a previous planning permission has been granted, and which prohibits or limits the carrying out of any development which is within one or more of those classes.
+
+### 7. Use specified in the Town and Country Planning (Use Classes) (Scotland) Order 1997[^key-4f43006ba42490cb0b9a5f74f827058e]
+
+No fee is payable under regulation 3 for a review in respect of an application for planning permission where the local review body is satisfied that—
+
+- (a) the application in respect of which the review is made relates solely to the use of a building or other land for a purpose of any class specified in the schedule of the Town and Country Planning (Use Classes) (Scotland) Order 1997[^f00009],
+- (b) the existing use of that building or other land is for another purpose of the same class, and
+- (c) the review is in respect of an application for planning permission for the use to which it relates which is necessary because of a condition imposed on a permission granted under Part 3 of the Act.
+
+### 8. Winning and working of minerals[^key-3c5870b723c0851cc25b2d3ce84d4899]
+
+No fee is payable under regulation 3 in relation to a review in respect of an application for permission to carry out development consisting of the winning and working of minerals where the application—
+
+- (a) is for a permission which consolidates two or more subsisting permissions, or
+- (b) does not seek permission for development which is not authorised by a subsisting permission.
+
+IVAN MCKEE
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+24th April 2025
+
+## SCHEDULE — CALCULATION OF FEES
+
+Regulation 3(2)
+
+### PART 1 — General provisions
+
+#### 1. Tables of fees[^key-ce5ce575e9b0d8da00ee785e5544af87]
+
+(1) The fee payable under regulation 3 for a review in respect of an application relating to a category of development in column 1 of the relevant table contained in Part 3 of this schedule is the fee calculated in accordance with the appropriate entry in column 2 of that table and paragraphs 10 to 13 of Part 2.
+
+(2) The relevant table is—
+
+- (a) table 1 in relation to a review in respect of an application for—
+  - (i) planning permission, or
+  - (ii) approval, consent or agreement required by a condition imposed on a grant of planning permission in principle,
+- (b) table 2 in relation to a review in respect of an application for planning permission in principle.
+
+#### 2. Categories of development[^key-bd9940b03cf34e9250d7c4d70c1c4e53]
+
+In this schedule—
+
+- (a) any reference to a category of development is a reference to one of the categories of development specified in column 1 of the relevant table, and
+- (b) in the case of a review in respect of an application for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle, references to the category of development to which the application relates are to be construed as references to the category of development authorised by the relevant planning permission in principle.
+
+#### 3. Calculation of area or floor space[^key-6f347eb8008d4204284c7c5c28720da9]
+
+Where, in respect of any category of development the fee must be calculated by reference to—
+
+- (a) the site area—
+  - (i) that area is to be taken as consisting of the area of land to which the application in respect of which the review is made relates, and
+  - (ii) where the area is not an exact multiple of the unit of measurement specified in respect of the relevant category of development, the fraction of a unit remaining after division of the total area by the unit of measurement is to be treated as a complete unit, and
+- (b) the gross floor space—
+  - (i) the area of gross floor space is to be ascertained by external measurement of the floor space, whether or not it is to be bounded wholly or partly by external walls of a building, and
+  - (ii) where the floor is to be measured by units of 100 square metres any floor space remaining after division of the gross floor space by 100 square metres is to be treated as 100 square metres.
+
+#### 4. Alternative applications[^key-3d7d008030c3963a164efc37e8e36be9]
+
+Where a review is in respect of an application which relates to development which is within more than one of the categories of development—
+
+- (a) an amount is to be calculated in respect of each category of development, and
+- (b) the highest amount so calculated is the fee payable in respect of the review.
+
+#### 5. Mixed use[^key-ef76d33f8b2d72d5b8953a651ebbe6b4]
+
+(1) Where this paragraph applies the fee payable for a review is calculated and payable in accordance with sub-paragraphs (3) to (6).
+
+(2) This paragraph applies in respect of development which is partly within category 1 and partly within category 4 of table 1.
+
+(3) Subject to sub-paragraphs (4) and (5), the fee payable is the sum of—
+
+- (a) the amount calculated and payable for the amount of gross floor space which is to be created by that part of the development which is within category 4 (“**the non-residential floor space**”), and
+- (b) the amount payable in respect of that part of the development which is within category 1.
+
+(4) Where sub-paragraph (5) applies for the purpose of sub-paragraph (3), the amount of non-residential floor space is to be assessed in relation to that building as including such proportion of the common floor space as the amount of non-residential floor space in the building bears to the total amount of gross floor space in the building.
+
+(5) This sub-paragraph applies where any of the buildings is to contain floor space for the purposes of providing common access or common services or facilities for persons occupying or using that building for residential purposes, and for persons occupying or using that building for non-residential purposes (“**common floor space**”).
+
+(6) Where a review to which this paragraph applies relates to development which is also within one or more of any other category of table 1, an amount is to be calculated in accordance with each such category and if any of the amounts so calculated exceeds the amount calculated in accordance with sub-paragraph (3) that higher amount is the fee payable in respect of all of the development to which the review relates.
+
+#### 6. Glasshouses and polytunnels[^key-4c163b81aeb7d26ff63c44e83c1d2c22]
+
+In table 1 “**glasshouse and polytunnel**” means a building which—
+
+- (a) has not less than three-quarters of its total external area comprised of glass or other translucent material,
+- (b) is designed for the production of flowers, fruit, vegetables, herb or other horticultural produce, and
+- (c) is used, or is to be used, solely for the purposes of agriculture.
+
+#### 7. Planning permission in principle granted before 1 April 2022[^key-9e26ae7be618da874a7260878b84db21]
+
+Where the review is carried out in respect of an application for the approval, consent, or agreement required by a condition imposed on a grant of permission in principle and—
+
+- (a) the planning permission in principle was granted before 1 April 2022, and
+- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^key-9dc5c04585391c719786b576acfc2e19] of table 1,
+
+the fee payable under regulation 3 is subject to a maximum of £50,000.
+
+#### 8. Planning permission in principle granted on or after 1 April 2022 and before 12 December 2024[^key-3419327d387a29a52a97d9beb540b0ab]
+
+Where the review is carried out in respect of an application for the approval, consent, or agreement required by a condition imposed on a grant of permission in principle and—
+
+- (a) the planning permission in principle was granted on or after 1 April 2022 and before 12 December 2024, and
+- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^key-31cc5a2e99096c38377b235df09136e8] of table 1,
+
+the fee payable under regulation 3 is subject to a maximum of £60,000.
+
+#### 9. Planning permission in principle granted on or after 12 December 2024 and before 9 June 2025[^key-8ebbb0aab41ece30db1241fd9c73c0f2]
+
+Where the review is carried out in respect of an application for the approval, consent, or agreement required by a condition imposed on a grant of permission in principle and—
+
+- (a) the planning permission in principle was granted on or after 12 December 2024 and before 9 June 2025, and
+- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^key-4d130aa6a370e732db91a45542797b59] of table 1,
+
+the fee payable under regulation 3 is subject to a maximum of £69,142.
+
+#### 9A. Planning permission in principle granted on or after 9 June 2025 and before 1 April 2026[^key-094ed171ad9d0438593421c558d926e6]
+
+Where the review is carried out in respect of an application for the approval, consent or agreement required by a condition imposed on a grant of permission in principle and—
+
+- (a) the planning permission in principle was granted on or after 9 June 2025 and before 1 April 2026, and
+- (b) the application relates to a development within categories 1, 4, 7, 13, or 17 of table 1,
+
+the fee payable under regulation 3 is subject to a maximum of £71,424.
+
+### PART 2 — Modified fees
+
+#### 10. Reviews required by community councils[^key-a9a3b80c69dd50ff0031f18f49e7b918]
+
+Where the notice of review is given by a community council established under section 51 of the Local Government (Scotland) Act 1973[^f00010], the amount of the fee payable in respect of the review is reduced by one half.
+
+#### 11. Reviews in respect of applications in conservation areas[^key-e67b8b17bd495f6c10e356f70c12c518]
+
+(1) Where all the conditions in sub-paragraph (2) are satisfied, the amount of fee payable in respect of a review is reduced by one quarter.
+
+(2) The conditions are—
+
+- (a) the application in respect of which the review is made relates solely to—
+  - (i) the carrying out of operations for the alteration of a dwellinghouse (but not including the extension of or the erection of a dwellinghouse), or
+  - (ii) other operations within the curtilage of a dwellinghouse (but not including the extension of or the erection of a dwellinghouse),
+- (b) the dwellinghouse is in a conservation area,
+- (c) the application in respect of which the review is made relates solely to development within one or more of the classes specified in schedule 1 of the General Permitted Development Order, and
+- (d) the only reason planning permission is not granted by article 3(1) of the General Permitted Development Order is that the development would be in a conservation area.
+
+#### 12. Reviews in respect of applications for the provision of facilities for sport or recreation[^key-918aab671c523495d40245ed481a287c]
+
+(1) Where notice of review is given by or for a club, society, trust or other organisation which is not established or conducted for profit and whose objects or purposes, as the case may be, are the provision of facilities for sport or recreation, and the conditions specified in sub-paragraph (2) are satisfied, the fee payable is £297[^key-85bf3f3d493f7e77acb48f4aab37f09d].
+
+(2) The conditions are—
+
+- (a) that the application in respect of which the review is made relates to—
+  - (i) the making of a material change in the use of land to use the land as a playing field, or
+  - (ii) the carrying out of operations other than the erection of a building containing floor space, for purposes ancillary to the use of the land as a playing field,
+
+  and to no other development, and
+- (b) that the local review body are satisfied that the development is to be carried out on land which is, or is intended to be, used wholly or mainly for the carrying out of the objects or purposes, as the case may be, of the club, society, trust or organisation.
+
+#### 13. Reviews in respect of applications for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle[^key-fe6a203ab5873b74ba460fdafffb815d]
+
+Where—
+
+- (a) a request for a review is made in respect of an application for approval, consent or agreement in respect of one or more matters requiring such approval, consent or agreement in terms of a condition imposed on a grant of planning permission in principle (“**the current application**”), and
+- (b) the fee payable to the planning authority in respect of the current application was the fee payable in terms of paragraph 10(3) of schedule 1 of the Town and Country Planning (Fees for Applications) (Scotland) Regulations 2022[^f00011],
+
+the fee payable for the review in respect of the current application is £247[^key-ca1a76bde8c45cddc83f7c3ac7020e9a].
+
+### Part 3 — Tables of Fees[^key-2375104ae5fa4849906f307c00c08733]
+
+Table 1
+
+**Fees for reviews in respect of applications for planning permission and applications for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle**
+
+<table>
+<thead>
+<tr><th><strong>Column 1</strong></th><th><strong>Column 2</strong></th></tr>
+<tr><th><strong>Category of development</strong></th><th><strong>Fee payable</strong></th></tr>
+</thead>
+<tbody>
+<tr><td><strong>RESIDENTIAL DEVELOPMENT</strong></td><td></td></tr>
+<tr><td><strong>New dwellings</strong></td><td></td></tr>
+<tr><td>1. Construction of buildings, structures or erections for use as residential accommodation (other than development within categories 2 to 6).</td><td>(a) Where the number of dwellinghouses to be created by the development does not exceed 10, £297 for each dwellinghouse,<br>(b) Where the number of dwellinghouses to be created by the development is fewer than 50, £297 for each of the first 10 dwellinghouses, and £222 for each dwellinghouse thereafter,<br>(c) Where the number of dwellinghouses to be created by the development is 50 or more, £297 for each of the first 10 dwellinghouses, £222 for each dwellinghouse in excess of 10 up to 49 dwellinghouses, and £124 for each dwellinghouse in excess of 49, subject to a maximum total of £74,210.</td></tr>
+<tr><td><strong>Existing dwellings</strong></td><td></td></tr>
+<tr><td>2. The carrying out of operations which will result in the enlargement, improvement or other alteration of an existing dwelling.</td><td>Where the application relates to—<br>(a) one dwelling, £149,<br>(b) 2 or more dwellings, £298.</td></tr>
+<tr><td>3. (a) The carrying out of operations, including the erection of a building within the curtilage of an existing dwellinghouse, for purposes ancillary to the enjoyment of the dwellinghouse as such, or<br>(b) the erection or construction of gates, fences, walls or other means of enclosure along a boundary of the curtilage of an existing dwellinghouse.</td><td>£149.<br> <br> <br> <br> <br> <br> <br>£149.</td></tr>
+<tr><td><strong>NON-RESIDENTIAL BUILDINGS</strong></td><td></td></tr>
+<tr><td>4. The construction of buildings, structures or erections including extensions (other than construction within categories 1, 5, and 6).</td><td>(a) Where no floor area is created or the gross floor space created does not exceed 50 square metres, £149,<br>(b) Where the gross floor space created exceeds 50 square metres, £297 in respect of any gross floor space up to 100 square metres,<br>(c) Where the gross floor space exceeds 100 square metres, £297 plus £297 per 100 square metres in respect of any gross floor space exceeding 100 square metres and up to 4,000 square metres,<br>(d) Where the gross floor space exceeds 4,000 square metres, £11,880 plus £149 per 100 square metres in respect of any gross floor space exceeding 4,000 square metres, subject to a maximum of £74,210,<br>(e) Where no buildings are to be created, £297 per 0.1 hectare of site area, subject to a maximum of £74,210.</td></tr>
+<tr><td><strong>Agricultural buildings</strong></td><td></td></tr>
+<tr><td>5. The erection, on land used for the purposes of agriculture, of buildings to be used for agricultural purposes (other than buildings in category 6).</td><td>(a) Where the ground area to be covered by the development does not exceed 500 square metres, £247,<br>(b) Where the ground area to be covered by the development exceeds 500 square metres, £247 plus £247 for each 100 square metres in excess of 500 square metres, subject to a maximum of £12,368.</td></tr>
+<tr><td><strong>Glasshouses and polytunnels</strong></td><td></td></tr>
+<tr><td>6. The erection of glasshouses or polytunnels to be used for agricultural purposes.</td><td>£50 for each 100 square metres of ground area to be covered by the development subject to a maximum of £2,474.</td></tr>
+<tr><td><strong>ENERGY GENERATION</strong></td><td></td></tr>
+<tr><td>7. The erection of wind turbines and the carrying out of other operations in connection with the construction of the generating station, including the construction or installation of any means of access to the generating station, pipes or other conduits, and overhead lines.</td><td>(a) Where the number of turbines does not exceed 3—<br>(i) where none of the turbines have a ground to hub height exceeding 15 metres, £618,<br>(ii) where one or more of the turbines has a ground to hub height exceeding 15 metres, but not exceeding 50 metres, £1,236,<br>(iii) where one or more of the turbines has a ground to hub height exceeding 50 metres, £2,472.<br>(b) Where the number of turbines does exceed 3, £247 for each 0.1 hectare of site area, subject to a maximum of £74,210.</td></tr>
+<tr><td>8. The construction of a hydro-electric generating station and the carrying out of any other operations in connection with the construction of the generating station, including the construction or installation of any means of access to the generating station, pipes or other conduits, and overhead lines.</td><td>£247 for each 0.1 hectare of site area, subject to a maximum of £12,368.</td></tr>
+<tr><td>9. The construction of a solar electric generating station and the carrying out of any other operations in connection with the construction of the generating station, including the construction or installation of any means of access to the generating station, pipes or other conduits, and overhead lines.</td><td>£247 for each 0.1 hectare of site area, subject to a maximum of £12,368.</td></tr>
+<tr><td>10. The carrying out of any operations connected with the exploratory drilling for oil or natural gas.</td><td>(a) Where the site area does not exceed 0.1 hectares, £495,<br>(b) Where the site area exceeds 0.1 hectares, £495 in respect of the first 0.1 hectares of site area, plus £247 for each 0.1 hectare of site area in excess of 0.1 hectares, subject to a maximum of £74,210.</td></tr>
+<tr><td><strong>FISH AND SHELLFISH FARMING</strong></td><td></td></tr>
+<tr><td>11. The placing or assembly of equipment in any part of any marine waters for the purposes of fish farming.</td><td>£99 for each 0.1 hectare of the surface area of the marine waters to be used in relation to the placement or assembly of any equipment for the purposes of fish farming and £37 for each 0.1 hectare of the sea bed to be used in relation to such development, subject to a maximum of £12,368.</td></tr>
+<tr><td>The placing or assembly of equipment in any part of any marine waters for the purposes of shellfish farming.</td><td>£54 for each 0.1 hectare of the surface area of the marine waters to be used in relation to the placement or assembly of any equipment for the purposes of shellfish farming, subject to a maximum of £12,368.</td></tr>
+<tr><td>13. The erection, alteration or replacement of plant or machinery.</td><td>(a) Where the site area does not exceed 5 hectares, £247 for each 0.1 hectare of site area,<br>(b) Where the site area exceeds 5 hectares, £12,350 plus £124 for each 0.1 hectare of the site area in excess of 5 hectares, subject to a maximum of £74,210.</td></tr>
+<tr><td>14. The construction of car parks, service roads and other means of access on land used for the purposes of a single undertaking, where the development is required for a purpose incidental to the existing use of the land.</td><td>£247.</td></tr>
+<tr><td>15. Operations for the winning and working of minerals (not including peat).</td><td>(a) Where the site area does not exceed 0.1 hectare, £495,<br>(b) Where the site area exceeds 0.1 hectare, but does not exceed 15 hectares, £495 plus £247 for each 0.1 hectare of the site area in excess of 0.1 hectare,<br>(c) Where the site area exceeds 15 hectares, £37,298, plus £124 for each 0.1 hectare of site area in excess of 15 hectares, subject to a maximum of £74,210.</td></tr>
+<tr><td>16. Operations for the extraction of peat.</td><td>£247 for each 0.1 hectare of site area, subject to a maximum of £2,968.</td></tr>
+<tr><td>17. The carrying out of any operations not coming within any of the above categories.</td><td>(a) Where the site area does not exceed 0.1 hectare, £495,<br>(b) Where the site area exceeds 0.1 hectare, but does not exceed 15 hectares, £495 plus £247 for each 1 hectare of the site area in excess of 0.1 hectare,<br>(c) Where the site area exceeds 15 hectares, £4,200 plus £124 for each 0.1 hectare of the site area in excess of 15 hectares, subject to a maximum of £74,210.</td></tr>
+<tr><td><strong>USE OF LAND</strong></td><td></td></tr>
+<tr><td>18. The use of land for the disposal of refuse or waste materials or for the deposit of material remaining after minerals have been extracted from land.</td><td>(a) Where the site area does not exceed 0.1 hectare, £495,<br>(b) Where the site area exceeds 0.1 hectare, but does not exceed 15 hectares, £495 plus £247 for each 0.1 hectare of the site area in excess of 0.1 hectare,<br>(c) Where the site area exceeds 15 hectares, £37,298 plus £124 for each 0.1 hectare of the site area in excess of 15 hectares, subject to a maximum of £74,210.</td></tr>
+<tr><td>19. The use of land for the storage of minerals in the open.</td><td>(a) Where the site area does not exceed 0.1 hectare, £495,<br>(b) Where the site area exceeds 0.1 hectare, but does not exceed 15 hectares, £495 plus £247 for each 0.1 hectare of the site area in excess of 0.1 hectare,<br>(c) Where the site area exceeds 15 hectares, £37,298 plus £124 for each 0.1 hectare of the site area in excess of 15 hectares, subject to a maximum of £74,210.</td></tr>
+<tr><td><strong>CHANGE OF USE OF BUILDINGS OR LAND</strong></td><td></td></tr>
+<tr><td>20. The change of use of a building to use as one or more dwellinghouses.</td><td>(a) Where the number of dwellinghouses to be created by the development does not exceed 10, £297 for each dwellinghouse,<br>(b) Where the number of dwellinghouses to be created by the development is fewer than 50, £297 for each of the first 10 dwellinghouses, and £222 for each dwellinghouse thereafter,<br>(c) Where the number of dwellinghouses to be created by the development is 50 or more, £297 for each of the first 10 dwellinghouses, £222 for each dwellinghouse in excess of 10 up to 49 dwellinghouses, and £124 for each dwellinghouse in excess of 49, subject to a maximum total of £74,210.</td></tr>
+<tr><td>21. A material change in the use of a building (other than a change of use referred to in category 20).</td><td>(a) Where the gross floor space does not exceed 100 square metres, £297,<br>(b) Where the gross floor space exceeds 100 square metres, £297 plus £297 per 100 square metres up to 4,000 square metres,<br>(c) Where the gross floor space exceeds 4,000 square metres, £11,880 plus £149 per 100 square metres in respect of any gross floor space exceeding 4,000 square metres, subject to a maximum of £74,210.</td></tr>
+<tr><td>22. A material change in the use of land (other than—<br>(a) a change of use within category 21, or<br>(b) a change of use within categories 18 or 19, or<br>(c) a change in the use of equipment placed or assembled in marine waters for the purposes of fish farming or shellfish farming).</td><td>£247 per 0.1 hectare of site area subject to a maximum of £2,474.</td></tr>
+</tbody>
+</table>
+
+Table 2
+
+**Fees for reviews in respect of applications for planning permission in principle**
+
+<table>
+<thead>
+<tr><th><strong>Column 1</strong></th><th><strong>Column 2</strong></th></tr>
+<tr><th><strong>Category of development</strong></th><th><strong>Fee payable</strong></th></tr>
+</thead>
+<tbody>
+<tr><td><strong>RESIDENTIAL DEVELOPMENT</strong></td><td></td></tr>
+<tr><td><strong>New dwellings</strong></td><td></td></tr>
+<tr><td>1. Construction of buildings, structures or erections for use as residential accommodation.</td><td>(a) Where only one dwellinghouse is to be created, £297,<br>(b) Where more than one dwellinghouse is to be created and the site area does not exceed 2.5 hectares, £297 for each 0.1 hectare of the site area,<br>(c) Where more than one dwellinghouse is to be created and site area exceeds 2.5 hectares, £297 for each 0.1 hectare up to 2.5 hectares of the site area, and then £149 for each 0.1 hectare in excess of 2.5 hectares, subject to a maximum of £37,105.</td></tr>
+<tr><td><strong>NON-RESIDENTIAL BUILDINGS</strong></td><td></td></tr>
+<tr><td>2. The construction of buildings, structures or erections including extensions.</td><td>£297 for each 0.1 hectare up to 2.5 hectares of the site area, and then £149 for each 0.1 hectare in excess of 2.5 hectares, subject to a maximum of £37,105.</td></tr>
+</tbody>
+</table>
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for the payment of fees to a planning authority in respect of local reviews conducted by virtue of section 43A(8)(a) or (b) of the Town and Country Planning (Scotland) Act 1997. The level of fee is to be calculated in accordance with the schedule.
+
+Part 3 of the Regulations sets out where no fee is payable.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 252 was amended by the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), section 31, the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), section 55, and the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), section 41. The functions of the Secretary of State in so far as they are within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-0fedb06abc1be751766ca3a780ca2b72]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/126/regulation/1) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-d15f2f6c5a8694415788560eccc3da80]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/126/regulation/2) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^f00002]: Footnote: [S.S.I. 2013/157](https://www.legislation.gov.uk/ssi/2013/157).
+
+[^f00003]: Footnote: Definition of “equipment” inserted by the Water Environment and Water Services (Scotland) Act [2003 (asp 3)](https://www.legislation.gov.uk/asp/2003/3), section 24(2)(a)(iii). Definition of “fish farming” was amended by [S.S.I. 2007/268](https://www.legislation.gov.uk/ssi/2007/268).
+
+[^f00004]: Footnote: [S.I. 1992/223](https://www.legislation.gov.uk/uksi/1992/223) to which there are amendments not relevant to these Regulations.
+
+[^f00005]: Footnote: Section 26(6) was relevantly amended by the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) section 3(1)(c)(i).
+
+[^f00006]: Footnote: Section 59 was amended by the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), section 21, and the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), section 32(4).
+
+[^key-38fbeaeed13fdbc1778a2ff324264c57]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/126/regulation/3) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-6b29cbdd62750976bd3332935922aa7b]: Textual amendment: Sum in reg. 3(3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [3](https://www.legislation.gov.uk/ssi/2026/48/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+
+[^key-cfa954a7cdc9cd3fefc2355099bd60e4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/126/regulation/4) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^f00007]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 252 (1F) was inserted by the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), section 41(10).
+
+[^key-58c4260b7dcbb4fbca73fe7aad77c240]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/126/regulation/5) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^f00008]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
+
+[^key-4a62a5f8b062f9269b1d4b690d72ed97]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/126/regulation/6) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-4f43006ba42490cb0b9a5f74f827058e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/126/regulation/7) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^f00009]: Footnote: [S.I. 1997/3061](https://www.legislation.gov.uk/uksi/1997/3061) to which there are amendments not relevant to these Regulations.
+
+[^key-3c5870b723c0851cc25b2d3ce84d4899]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2025/126/regulation/8) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-ce5ce575e9b0d8da00ee785e5544af87]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/1) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-bd9940b03cf34e9250d7c4d70c1c4e53]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/2) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-6f347eb8008d4204284c7c5c28720da9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/3) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-3d7d008030c3963a164efc37e8e36be9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/4) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-ef76d33f8b2d72d5b8953a651ebbe6b4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/5) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-4c163b81aeb7d26ff63c44e83c1d2c22]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/6) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-9e26ae7be618da874a7260878b84db21]: Commencement: Sch. para. 7 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-9dc5c04585391c719786b576acfc2e19]: Textual amendment: Words in sch. para. 7(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/i) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+
+[^key-3419327d387a29a52a97d9beb540b0ab]: Commencement: Sch. para. 8 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-31cc5a2e99096c38377b235df09136e8]: Textual amendment: Words in sch. para. 8(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+
+[^key-8ebbb0aab41ece30db1241fd9c73c0f2]: Commencement: Sch. para. 9 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-4d130aa6a370e732db91a45542797b59]: Textual amendment: Words in sch. para. 9(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(iii)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/iii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+
+[^key-094ed171ad9d0438593421c558d926e6]: Textual amendment: Sch. para. 9A inserted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(iv)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/iv) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+
+[^key-a9a3b80c69dd50ff0031f18f49e7b918]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/10) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^f00010]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65). Section 51 was amended by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), section 180 and schedule 14.
+
+[^key-e67b8b17bd495f6c10e356f70c12c518]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/11) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-918aab671c523495d40245ed481a287c]: Commencement: Sch. para. 12 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^key-85bf3f3d493f7e77acb48f4aab37f09d]: Textual amendment: Sum in sch. para. 12(1) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/b/i) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+
+[^key-fe6a203ab5873b74ba460fdafffb815d]: Commencement: Sch. para. 13 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+
+[^f00011]: Footnote: [S.S.I. 2022/50](https://www.legislation.gov.uk/ssi/2022/50).
+
+[^key-ca1a76bde8c45cddc83f7c3ac7020e9a]: Textual amendment: Sum in sch. para. 13 substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/b/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+
+[^key-2375104ae5fa4849906f307c00c08733]: Textual amendment: Sch. Pt. 3 substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(c)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))

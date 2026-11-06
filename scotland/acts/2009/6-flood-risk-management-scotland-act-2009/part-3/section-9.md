@@ -1,0 +1,57 @@
+---
+title: Flood Risk Management (Scotland) Act 2009, section 9
+act: Flood Risk Management (Scotland) Act 2009
+section: '9'
+status: revised
+text_date: '2024-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2009/6/section/9
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Flood Risk Management (Scotland) Act 2009, section 9
+
+> Text as at 2024-01-01.
+>
+> Extent: Scotland.
+
+## 9. SEPA to prepare flood risk assessments[^key-bc745aa0a3dc1a2807dd3d9cfee5f2d4]
+
+*Extent: S*
+
+(1) SEPA must prepare a flood risk assessment for each flood risk management district providing an assessment of any flood risk for the district.
+
+(2) A flood risk assessment must be prepared by 22nd December 2011.
+
+(3) A flood risk assessment is to be based on available and readily derivable information (including in particular information on any impact of climate change on the occurrence of floods).
+
+(4) A flood risk assessment must include—
+
+- (a) maps at the appropriate scale of the flood risk management district which show—
+  - (i) borders of any river basin, sub-basin and coastal area in the district,
+  - (ii) topography and land use, and
+  - (iii) such other information as the Scottish Ministers may specify by regulations,
+- (b) where—
+  - (i) SEPA considers there is reliable information that any flood has occurred in the flood risk management district which had significant adverse consequences for human health, the environment, cultural heritage or economic activity there, and
+  - (ii) a similar future flood in the district with significant adverse consequences for such matters there is still probable,
+
+  a description of the flood which has occurred (including its extent and conveyance routes and an assessment of the adverse consequences mentioned in sub-paragraph (i) that the flood entailed),
+- (c) where—
+  - (i) SEPA considers there is reliable information that a significant flood has occurred in the flood risk management district, and
+  - (ii) significant adverse consequences for the district of any similar future flood there might be envisaged,
+
+  a description of the flood which has occurred, and
+- (d) an assessment of the potential adverse consequences of any future flood for human health, the environment, cultural heritage and economic activity in the flood risk management district taking into account as far as possible issues such as—
+  - (i) the topography,
+  - (ii) the position, and the general hydrological and geomorphological characteristics, of any body of surface water,
+  - (iii) natural features and characteristics of any river basin or coastal area in the district,
+  - (iv) the effectiveness of any existing artificial flood protection structure,
+  - (v) the position of any populated area and area of economic activity, and
+  - (vi) long-term developments, including any impact of climate change on the occurrence of floods.
+
+(5) A flood risk assessment, and any map included in it by virtue of subsection (4)(a), may also include such other information as SEPA considers appropriate.
+
+## Annotations
+
+[^key-bc745aa0a3dc1a2807dd3d9cfee5f2d4]: Commencement: S. 9 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

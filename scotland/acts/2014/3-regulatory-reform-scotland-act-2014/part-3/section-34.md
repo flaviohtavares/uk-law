@@ -1,0 +1,55 @@
+---
+title: Regulatory Reform (Scotland) Act 2014, section 34
+act: Regulatory Reform (Scotland) Act 2014
+section: '34'
+status: revised
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2014/3/section/34
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulatory Reform (Scotland) Act 2014, section 34
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+## 34. Compensation orders against persons convicted of relevant offences[^key-e65f4e384501215d6ca6c34a1a52fe23]
+
+*Extent: S*
+
+(1) Where a person is convicted of a relevant offence, subsection (1) of section 249 of the Criminal Procedure (Scotland) Act 1995 (compensation order against convicted person) has effect in relation to the conviction subject to the modification in subsection (2).
+
+(2) The modification is that the reference to payment of compensation in favour of the victim for any loss or damage caused directly or indirectly to the victim is to be read as if it included a reference to payment of compensation to a relevant person for costs incurred or to be incurred by the relevant person in preventing, reducing, remediating or mitigating the effects of—
+
+- (a) any harm to the environment resulting directly or indirectly from the offence,
+- (b) any other harm, loss, damage or adverse impacts so resulting from the offence.
+
+(3) In subsection (2), the reference to costs does not include any costs which the relevant person has already recovered by virtue of—
+
+- (a) regulations under section 18 made in pursuance of paragraph 18(1) or 20 of schedule 2, or
+- (b) any other enactment.
+
+(4) Where a compensation order (within the meaning of subsection (1) of section 249 of the 1995 Act) is made in respect of costs mentioned in subsection (2), that section has effect as if—
+
+- (a) the reference in subsection (8)(a) to the prescribed sum were, in relation to those costs, a reference to £50,000, and
+- (b) subsection (8A) were omitted.
+
+(5) The Scottish Ministers may by order substitute a different sum of money for the one for the time being specified in subsection (4)(a).
+
+(6) In this section—
+
+- “**the 1995 Act**” means the Criminal Procedure (Scotland) Act 1995,
+- “**relevant person**” means—
+  - (a) SEPA,
+  - (b) a local authority, or
+  - (c) an owner or occupier of land—
+    - (i) to which the harm, loss or damage mentioned in subsection (2) was caused, or
+    - (ii) on which there was an adverse impact as mentioned in that subsection,
+- “**owner**”, in relation to any land in Scotland, means a person (other than a creditor in a heritable security not in possession of the security subjects) for the time being entitled to receive or who would, if the land were let, be entitled to receive the rents of the land, and includes a trustee, factor, guardian or curator; and in the case of public or municipal land includes the persons to whom the management of the land is entrusted.
+
+## Annotations
+
+[^key-e65f4e384501215d6ca6c34a1a52fe23]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/3/section/34) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

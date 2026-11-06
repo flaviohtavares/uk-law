@@ -1,0 +1,162 @@
+---
+title: The Protected Trust Deeds (Forms) (Scotland) Regulations 2016
+id: ssi/2016/398
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-11-24'
+text_date: '2024-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/398
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/398/pdfs/ssipn_20160398_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/398/pdfs/ssi_20160398_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/398/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Protected Trust Deeds (Forms) (Scotland) Regulations 2016
+
+> Text as at 2024-07-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2016 No. 398
+
+Insolvency
+
+Bankruptcy
+
+Debt
+
+The Protected Trust Deeds (Forms) (Scotland) Regulations 2016
+
+Made
+
+24th November 2016
+
+Coming into force
+
+30th November 2016
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 166(2)(b) and (c), 169, 170(1)(b) and (e), 174(2) and (3), 175(1), 181(2), 183(1)(a) and (b), 184(1)(b) and (2)(a), 186(3) and (9), 194(1) and (3) and 225(2) of the Bankruptcy (Scotland) Act 2016[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 225(4)(a) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation, commencement and interpretation[^key-aacaa77c74b03c6001645dda9a0e418c]
+
+(1) These Regulations may be cited as the Protected Trust Deeds (Forms) (Scotland) Regulations 2016 and come into force on 30th November 2016.
+
+(2) In these Regulations “the Act” means the Bankruptcy (Scotland) Act 2016.
+
+## 2. Forms[^key-fe2f2812a43f1ea86ed7b87918b57367]
+
+(1) The forms set out in the schedule are prescribed for the purposes of the provisions of the Act referred to in the third column of the table in the schedule.
+
+(2) In section 170(1)(d)(ii) of the Act (documents to be sent to creditors), for “style and format of the Common Financial Statement” substitute “form prescribed for that purpose by the Protected Trust Deeds (Forms) (Scotland) Regulations 2016[^f00002]”.
+
+(3) The definition of “the Common Financial Statement” in section 193 of the Act (interpretation of Part 14 of the Act: voluntary trust deeds for creditors) is repealed.
+
+(4) At the end of section 171(1) of the Act (registration for protected status), insert—
+
+> - (i) a statement by the trustee, in the form prescribed for that purpose in the Protected Trust Deeds (Forms) (Scotland) Regulations 2016[^f00003], that—
+>   - (i) the documents and statements required under paragraphs (a) to (h) of this subsection accompany the statement, and
+>   - (ii) the conditions set out in sections 164 to 170 have been met
+
+.
+
+PAUL WHEELHOUSE
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+24th November 2016
+
+## SCHEDULE — List of forms to be used in connection with protected trust deeds[^key-5ac95c653be9dd8c16927fc8909a4a63][^M_F_4de6b65b-56a0-447d-f054-4258597d4208][^M_F_840ed86f-c031-4527-9552-8aae0be97405][^M_F_0dda1786-22b5-456e-b415-18a1ad35521b][^M_F_6341eb86-bf1d-424e-f0bf-361b4d5f9c9c][^M_F_d215c5f4-defa-4f5e-8524-7e4ad65172de]
+
+Regulation 2(1)
+
+| Form | Purpose | Relevant provision of the Act |
+| --- | --- | --- |
+| 1 | Notice in the register of insolvencies by trustee under a trust deed for the benefit of creditor | Section 169 |
+| 1A | Consents required for exclusion of a secured creditor from a protected trust deed | Section 166(2)(b) and (c) |
+| 1B | Agreement in respect of heritable property | Section 175 |
+| 2 | Statement of claim by creditors in a trust deed | Section 170(1)(b) |
+| 2A | Income and Expenditure | Section 170(1)(d)(ii) |
+| 3 | Trust deed protection proposal and trustee’s application | Section 170(1)(e) , section 171(1)(i)[^key-acbe4f76e4673467f63caa565ec290a3] and section 183(1)(a) and (b) |
+| 4 | Trustee’s annual statement report on protected trust deed management | Section 181(2) |
+| 4A | Employee’s payment instruction to employer | Section 174(2) |
+| 4B | Trustee’s payment instruction to employer | Section 174(3) |
+| 4C | Payment variation instruction to employer | Section 174(2) and (4) |
+| 5 | Application for discharge of debtor | Section 184(1)(b) and (2)(a) and section 184B[^key-166f7f6d442e1e25e93582437b690742] |
+| 5A[^key-41c9064e644663b074f64e437cdebfef] | Application for agreement to refuse debtor discharge | Section 184A |
+| 6 | Application to creditors for discharge of the trustee of a protected trust deed | Section 186(2) and (3) |
+| 7 | Trustee statement of realisation and distribution of estate under a protected trust deed | Section 186(8) and (9) |
+
+[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_001)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_002)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_003)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_004)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_005)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_006)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_007)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_008)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_009)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_010)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_011)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_012)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_013)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_014)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_015)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_016)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_017)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_018)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_019)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_020)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_021)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_022)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_023)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_024)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_025)
+
+ [^key-705149b88ffc0c26239073f3594e4609]
+
+[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_epp_002.gif)
+
+ 
+
+[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_026)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_027)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_028)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_029)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_030)[image: see source](https://www.legislation.gov.uk/ssi/2016/398/images/ssi_20160398_en_031)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations set out the forms to be used in relation to protected voluntary trust deeds entered into by debtors for the benefit of their creditors governed by Part 14 of the Bankruptcy (Scotland) Act 2016 (“the Act”).
+
+The Regulations come into operation on 30th November 2016 and apply to those trust deeds executed on or after that date (in accordance with sections 162 and 234(3) of the Act).
+
+Part 14 of the Act makes provision about how trust deeds become protected from action by creditors, the consequences of a trust deed being granted that status, the rights of creditors, the discharge of the debtor and trustee from the trust deed, and the administration of trust deeds.
+
+Together with these regulations, that Part consolidates with modifications, the Protected Trust Deeds (Scotland) Regulations 2013 ([S.S.I. 2013/318](https://www.legislation.gov.uk/ssi/2013/318)) as amended. The numbering of the forms used in those Regulations has been retained.
+
+Regulation 2(2) and (3) correct an error in the Act and regulation 2(4) an omission from Form 3 in [S.S.I. 2013/318](https://www.legislation.gov.uk/ssi/2013/318).
+
+Section 187 of the Act provides for the electronic delivery of notices or documents authorised or required under Part 14 of the Act in certain circumstances relevant to the forms set out in these Regulations.
+
+A Business and Regulatory Impact Assessment has been prepared for these Regulations. Copies can be obtained from the Accountant in Bankruptcy’s website: http://www.aib.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21) (“the 2016 Act”). Section 228(1) of the 2016 Act contains a definition of “prescribed” relevant to the powers under which these Regulations are made.
+
+[^key-aacaa77c74b03c6001645dda9a0e418c]: Commencement: Reg. 1 in force at 30.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/398/regulation/1/1)
+
+[^key-fe2f2812a43f1ea86ed7b87918b57367]: Commencement: Reg. 2 in force at 30.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/398/regulation/1/1)
+
+[^f00002]: Footnote: Form 2A in the schedule to these Regulations.
+
+[^f00003]: Footnote: Part 2 of Form 3 in the schedule to these Regulations.
+
+[^key-5ac95c653be9dd8c16927fc8909a4a63]: Commencement: Sch. in force at 30.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/398/regulation/1/1)
+
+[^M_F_4de6b65b-56a0-447d-f054-4258597d4208]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2016/398/schedule) Form 1B: in the third bullet point, the word “of” substituted for “if” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2017/136/regulation/3/2/b)
+
+[^M_F_840ed86f-c031-4527-9552-8aae0be97405]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2016/398/schedule) Form 2: in the notes, the words “to do so” substituted for “to so” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2017/136/regulation/3/2/c)
+
+[^M_F_0dda1786-22b5-456e-b415-18a1ad35521b]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2016/398/schedule) Form 3: in the heading, the words “Sections 170(1)(e), 171(1)(i)” substituted for “Section 170(1)(e) and (i)” (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2017/136/regulation/3/2/d)
+
+[^M_F_6341eb86-bf1d-424e-f0bf-361b4d5f9c9c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2016/398/schedule) Form 5: the words “Section 184(1)(b) and (2)(a) and section 184B” substituted for “Section 184(1)(b) and (2)(a)” (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2024/198/regulation/7/3/a)
+
+[^M_F_d215c5f4-defa-4f5e-8524-7e4ad65172de]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2016/398/schedule) Form 5: the words “, OR i. It is my opinion that, due to extenuating circumstances affecting the debtor \*he/she/it is no longer able to fulfil \*his/her/its obligations under the trust deed; there is no reasonable prospect of the debtor being able to resume meeting those obligations; and the debtor should be discharged under the terms of section 184B, and ii. I certify that a notice has been sent to each of the known creditors and the creditors who have objected in writing to the discharge of the debtor do not constitute a majority in number or more than 1/3 in value” inserted after “ii. the debtor has co-operated with the administration of the trust” (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2024/198/regulation/7/3/b)
+
+[^key-acbe4f76e4673467f63caa565ec290a3]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2016/398/schedule) table substituted (1.5.2017) by [The Bankruptcy and Protected Trust Deeds (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/136)](https://www.legislation.gov.uk/ssi/2017/136), [regs. 1](https://www.legislation.gov.uk/ssi/2017/136/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2017/136/regulation/3/2/a)
+
+[^key-166f7f6d442e1e25e93582437b690742]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2016/398/schedule) table substituted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2024/198/regulation/7/2/a)
+
+[^key-41c9064e644663b074f64e437cdebfef]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2016/398/schedule) table inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2024/198/regulation/7/2/b)
+
+[^key-705149b88ffc0c26239073f3594e4609]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2016/398/schedule) Form 5A inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2024/198/schedule)

@@ -1,0 +1,179 @@
+---
+title: The Firefighters’ Pension Scheme (Amendment and Transitional Provision) (Scotland) Regulations 2017
+id: ssi/2017/435
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2017-12-12'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2017/435
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2017/435/pdfs/ssipn_20170435_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/435/pdfs/ssi_20170435_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/435/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Firefighters’ Pension Scheme (Amendment and Transitional Provision) (Scotland) Regulations 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 435
+
+Public Service Pensions
+
+The Firefighters’ Pension Scheme (Amendment and Transitional Provision) (Scotland) Regulations 2017
+
+Made
+
+12th December 2017
+
+Laid before the Scottish Parliament
+
+14th December 2017
+
+Coming into force
+
+30th January 2018
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 26(1) to (5) of the Fire Services Act 1947[^f00001], section 12 of the Superannuation Act 1972[^f00002] and sections 1(1) and (2)(f) and 3(2)(b), (3)(a) and (3)(b) of, and paragraph 6(c) of schedule 2 of, the Public Service Pensions Act 2013[^f00003] and all other powers enabling them to do so.
+
+In accordance with section 21 of the Public Service Pensions Act 2013, the Scottish Ministers have consulted the representatives of such persons as appear to the Scottish Ministers likely to be affected by these Regulations.
+
+## 1. Citation, commencement and effect
+
+(1) These Regulations may be cited as the Firefighters’ Pension Scheme (Amendment and Transitional Provision) (Scotland) Regulations 2017.
+
+(2) These Regulations come into force on 30th January 2018.
+
+(3) Regulations 2 to 7 of these Regulations have effect from 1st April 2015.
+
+(4) Regulation 8 of these Regulations has effect from 6th February 2017.
+
+## 2. Amendment of the Firefighters’ Pension Scheme (Scotland) Regulations 2015
+
+The Firefighters’ Pension Scheme (Scotland) Regulations 2015[^f00004] are amended in accordance with regulations 3 to 7.
+
+## 3. Amendments to Part 5 (retirement benefits)
+
+(1) Part 5 (retirement benefits) is amended as follows.
+
+(2) In regulation 71 (option to commute part of pension) in paragraph (4)—
+
+- (a) in the opening words, after “exchange” insert “for a lump sum under this regulation”; and
+- (b) in sub-paragraph (a), omit “for a lump sum under this regulation”.
+
+(3) In regulation 71A[^f00005] (option to commute part of an equivalent amount)—
+
+- (a) in the opening words of paragraph (3) for “rule” substitute “regulation”; and
+- (b) after paragraph (3) insert—
+
+  > (4) Where the person is entitled to the immediate payment of an equivalent amount to the 1992 Scheme lower tier ill-health pension and exercises the option to commute under this regulation, the lump sum is calculated in accordance with rule B7 (commutation-general provision) of the 1992 Scheme.
+
+  .
+
+## 4. Amendments to Part 6 (death benefits)
+
+(1) Part 6 (death benefits) is amended as follows.
+
+(2) In regulation 78(1) (surviving partner’s pension payable on death of active member), for “more than” substitute “at least”.
+
+(3) In regulation 92 (bereavement pension: eligible child), in paragraphs (3) and (4) for “surviving partner’s pension”, in each place where the words occur, substitute “eligible child’s pension”.
+
+## 5. Amendments to Part 8 (contributions)
+
+(1) Part 8 (contributions) is amended as follows.
+
+(2) In regulation 111 (contributions during absence from work due to illness, injury, trade dispute or authorised absence), in paragraph (2) after “may” insert “elect to”.
+
+(3) In regulation 119(5) (refund of employer additional contribution for ill health award following review)—
+
+- (a) for “instalments of higher tier ill-health pension or lower tier ill-health pension”, substitute “instalments of higher tier ill-health additional contributions or lower tier ill-health additional contributions”; and
+- (b) after “in respect of P”, in the first place where those words occur, insert “from the date that the entitlement ceased”.
+
+## 6. Amendment to Part 11 (appeals and determinations)
+
+In Part 11 (appeals and determinations), in regulation 144(4)(b) (appeals against determinations based on medical evidence), for “rule” substitute “regulation”.
+
+## 7. Amendments to Schedule 2 (transitional provisions)
+
+(1) Schedule 2 is amended as follows.
+
+(2) In Part 3A[^f00006] (payment of ill-health benefits to transition members), in paragraph 22(2)(a) (transition member who has not reached normal pension age under the NFPS), after “(awards on ill-health retirement)”, insert “of Part 3 (personal awards)”.
+
+(3) In Part 3C[^f00007] (transitional provisions relating to the NFPS and the 1992 Scheme)—
+
+- (a) in paragraph 37 (scheme manager determines member of the NFPS is not entitled to an ill-health award)—
+  - (i) for the heading substitute “Authority determines the entitlement of a member of the NFPS to an ill-health award”;
+  - (ii) in the opening words of sub-paragraph (2), for “If this paragraph applies” substitute “If the authority subsequently determines that the member of the NFPS is not entitled to an ill-health award”; and
+  - (iii) after sub-paragraph (2), insert—
+
+    > (3) If the authority subsequently determines that the member of the NFPS is entitled to an ill-health award—
+    >
+    > - (a) the member shall not join this scheme;
+    > - (b) the member shall continue to be a member of the NFPS; and
+    > - (c) the ill-health award shall be payable under rule 2 of Part 3 (awards on ill-health retirement) of the NFPS.
+
+    ; and
+- (b) in paragraph 38 (scheme manager determines member of the 1992 scheme is not entitled to an ill-health award)—
+  - (i) for the heading substitute “Authority determines the entitlement of a member of the 1992 Scheme to an ill-health award”; and
+  - (ii) in sub-paragraph (2), for “If this paragraph applies” substitute “If the authority subsequently determines that the member of the 1992 Scheme is not entitled to an ill-health award”; and
+  - (iii) after sub-paragraph (2), insert—
+
+    > (3) If the authority subsequently determines that the member of the 1992 Scheme is entitled to an ill-health award—
+    >
+    > - (a) the member shall not join this scheme;
+    > - (b) the member shall continue to be a member of the 1992 Scheme; and
+    > - (c) the ill-health award shall be payable under rule B3 (ill health awards) of the 1992 Scheme.
+
+    .
+
+## 8. Amendment of the Firemen’s Pension Scheme (Amendment and Transitional Provisions) (Scotland) Order 2016
+
+In the description of “A” in paragraph (3) of article 3 (transitional provision), of the Firemen’s Pension Scheme (Amendment and Transitional Provisions) (Scotland) Order 2016[^f00008], after “contribution”, the first time that it appears, insert “(not including any contribution in relation to an additional pension benefit),”.
+
+DEREK MACKAY
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+12th December 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Regulations 2 to 7 of these Regulations amend the Firefighters’ Pension Scheme (Scotland) Regulations 2015 ([S.S.I. 2015/19](https://www.legislation.gov.uk/ssi/2015/19)) (“the 2015 Regulations”), which established a scheme for the payment of pensions and other benefits to firefighters in Scotland from 1st April 2015.
+
+Regulations 3, 4, 5, 6 and 7(1) and (2) make minor amendments to clarify the provisions of the 2015 Regulations.
+
+Regulation 7(3) amends paragraphs 37 and 38 of schedule 2 of the 2015 Regulations to clarify the transitional arrangements in the event that the authority decides to obtain the written opinion of an independent qualified medical practitioner (as defined in the 2015 Regulations) before making a determination about a member’s entitlement to an ill-health award and the determination has not been made before the member’s transition date. The amendments provide that members who are subsequently granted an ill health award shall remain in their existing pension scheme.
+
+Regulation 8 amends the transitional provision made by the Firemen’s Pension Scheme (Amendment and Transitional Provisions) (Scotland) Order 2016 ([S.S.I. 2016/431](https://www.legislation.gov.uk/ssi/2016/431)) to make it clear that payments made by a fire and rescue authority under that provision do not include any sum in respect of a firefighter’s contribution in relation to an additional pension benefit.
+
+A business and regulatory impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen and the impact on the public sector is minimal.
+
+## Annotations
+
+[^f00001]: Footnote: [1947 c.41](https://www.legislation.gov.uk/ukpga/1947/41) (“the 1947 Act”); section 26 was repealed by sections 52 and 54 and schedule 2 of the Fire and Rescue Services Act [2004 (c.21)](https://www.legislation.gov.uk/ukpga/2004/21). Subsections (1) to (5) of section 26 continue to have effect for the purposes of the Firefighters’ Pension Scheme, in relation to England and Scotland by virtue of [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306). The name of the scheme was changed to the Firefighters’ Pension Scheme by [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306). The Secretary of State’s functions under section 26 of the 1947 Act, in so far as exercisable in relation to Scotland, were transferred to the Scottish Ministers by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750) and [S.I. 2006/304](https://www.legislation.gov.uk/uksi/2006/304).
+
+[^f00002]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11); section 16 applies section 12 with the necessary modifications to orders under section 26 of the Fire Services Act 1947. Section 16 is repealed by section 52 and schedule 2 of the Fire and Rescue Services Act 2004, but continues to have certain effect by virtue of [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306).
+
+[^f00003]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
+
+[^f00004]: Footnote: [S.S.I. 2015/19](https://www.legislation.gov.uk/ssi/2015/19) was amended by [S.S.I. 2015/141](https://www.legislation.gov.uk/ssi/2015/141) and [S.S.I. 2016/78](https://www.legislation.gov.uk/ssi/2016/78).
+
+[^f00005]: Footnote: Regulation 71A was inserted by the Firefighters’ Pension Schemes (Amendment) (Scotland) Regulations 2015 ([S.S.I. 2015/141](https://www.legislation.gov.uk/ssi/2015/141)) Part 2 regulation 12.
+
+[^f00006]: Footnote: Part 3A was inserted by [S.S.I. 2015/141](https://www.legislation.gov.uk/ssi/2015/141).
+
+[^f00007]: Footnote: Part 3C was inserted by [S.S.I. 2015/141](https://www.legislation.gov.uk/ssi/2015/141).
+
+[^f00008]: Footnote: [S.S.I. 2016/431](https://www.legislation.gov.uk/ssi/2016/431).

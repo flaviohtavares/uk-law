@@ -1,0 +1,1250 @@
+---
+title: The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022
+id: ssi/2022/32
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2022-01-27'
+text_date: '2024-08-30'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2022/32
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2022/32/pdfs/ssipn_20220032_en.pdf
+- http://www.legislation.gov.uk/ssi/2022/32/pdfs/ssi_20220032_en.pdf
+- http://www.legislation.gov.uk/ssi/2022/32/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022
+
+> Text as at 2024-08-30.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2022 No. 32
+
+Licences And Licensing
+
+The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022
+
+Made
+
+27th January 2022
+
+Coming into force
+
+1st March 2022
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 3A, 44(1)(b), 44(2)(a), (b) and (d), and 136(2) of the Civic Government (Scotland) Act 1982[^f00001], and all other powers enabling them to do so.
+
+In accordance with sections 3A(3) and 44(3) of that Act[^f00002], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement[^key-0093e583197de0e8cbc7456b998ebbc6]
+
+This Order may be cited as the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 and comes into force on 1 March 2022.
+
+## 2. Interpretation[^key-bba44b49f7f3f5e5f036830bd761c5c8]
+
+(1) In this Order—
+
+- “**1982 Act**” means the Civic Government (Scotland) Act 1982,
+- “**accommodation**” includes the whole or any part of a premises,
+- “**commercial consideration**” includes—
+  - (a) money,
+  - (b) a benefit in kind (such as the[^key-2d587e41be403e45debc9b33b9eab898] reciprocal use of accommodation),
+- “**excluded accommodation**” means accommodation described in paragraph 1 of schedule 1,
+- “**excluded tenancy**” means a tenancy described in paragraph 2 of schedule 1,
+- “[^key-680765a13377749bf4eb4829a3e4f176]**foster child**” has the same meaning as in section 1 of the Foster Children (Scotland) Act 1984 as read with section 2 of that Act,
+- “**guest**” means a person who occupies accommodation under a short-term let,
+- “**host**” means a person who is the owner, tenant, or person who otherwise exercises control over occupation and use, of the accommodation which is the subject of a short-term let,
+- “**unique licence number**” means a unique number which—
+  - (a) is assigned to each application or licence, and
+  - (b) contains a number or letters which—
+    - (i) identifies the licensing authority, and
+    - (ii) is used in every licence number assigned by the licensing authority.
+
+(2) Where the accommodation is let to more than one person under a short-term let, references in this Order to the guest are to any one of those persons.
+
+(3) For the purposes of Article 3, a person (“**A**”) is an immediate family member of another person (“**B**”) if A is—
+
+- (a) in a qualifying relationship with B,
+- (b) a qualifying relative of B,
+- (c) a qualifying relative of a person who is in a qualifying relationship with B, or
+- (d) in a qualifying relationship with a qualifying relative of B.
+
+(4) For the purposes of paragraph (3)—
+
+- (a) two people are in a qualifying relationship with one another if they are—
+  - (i) married to each other,
+  - (ii) in a civil partnership with each other, or
+  - (iii) living together as though they were married,
+- (b) a “**qualifying relative**” means a parent, grandparent, child, grandchild or sibling,
+- (c) two people are to be regarded as siblings if they have at least one parent in common,
+- (d) a person’s stepchild or foster child[^key-45877c6f93becdf0cb8b5701267209f6] is to be regarded as the person’s child,
+- (e) a person (“**C**”) is to be regarded as the child of another person (“**D**”), if C is being or has been treated by D as D’s child.
+
+(5) Schedule 1 has effect.
+
+## 3. Definition of short-term let and short-term let licence[^key-08c5454666138b3abe31d27fee374b13]
+
+In this Order—
+
+- “**short-term let**” means the use of residential accommodation provided by a host in the course of business to a guest, where all of the following criteria are met—
+  - (a) the guest does not use the accommodation as their only or principal home,
+  - (b) the short-term let is entered into for commercial consideration,
+  - (c) the guest is not—
+    - (i) an immediate family member of the host,
+    - (ii) sharing the accommodation with the host for the principal purpose of advancing the guest’s education as part of an arrangement made or approved by a school, college, or further or higher educational institution, or
+    - (iii) an owner or part-owner of the accommodation,
+  - (d) the accommodation is not provided for the principal purpose of facilitating the provision of work or services by the guest to the host or to another member of the host’s household,
+  - (e) the accommodation is not excluded accommodation (see schedule 1), and
+  - (f) the short-term let does not constitute an excluded tenancy (see schedule 1),
+- “**short-term let licence**” means a licence granted for the activity designated in article 4.
+
+## 4. Designation of activity[^key-791d566363165ed600cc76d447181a84]
+
+(1) The activity specified in paragraph (2) is designated as an activity for which a licence under Part 1 of the 1982 Act is required.
+
+(2) The activity referred to in paragraph (1) is a short-term let on or after 1 October 2022.
+
+(3) Accommodation that is on a single premises requires only one short-term let licence.
+
+(4)[^key-4aff581fa420968a9f10f277477ef381] Where a short-term let licence application is submitted in respect of multiple accommodation on a single premises, the licensing authority may grant the licence in respect of some or all of that accommodation.
+
+## 5. Application of Part 1 of the 1982 Act[^key-7c1f9198a18b038ed47e91c30113d6e1]
+
+For the purposes of the licensing of the activity designated by article 4, the following have effect subject to the modifications in schedule 2—
+
+- (a) Part 1 of the 1982 Act, and
+- (b) Schedule 1 of the 1982 Act.
+
+## 6. Mandatory licence conditions[^key-a4ab518a7e0cb61cb6ba5216382dea88]
+
+A short-term let licence granted by a licensing authority is subject to the conditions specified in schedule 3.
+
+## 7. Transitional provision[^key-5911ccd2082169eed4da1a7e7759aba7]
+
+(1) A relevant person does not commit an offence under section 7(1) of the 1982 Act[^f00003] if—
+
+- (a) before 1 October 2023[^key-920cb3953f2b5dc8fbd385377f214b25], that person makes an application to the licensing authority for the grant of a licence under Part I of that Act in respect of the activity being carried on by the person, and
+- (b) that application has not yet been finally determined.
+
+(2) For applications received by a licensing authority prior to 1 October 2023[^key-4d94858396bb51c0c7c8aa765d5024fa] from a relevant person, section 3 of the 1982 Act[^f00004] is to be read as if—
+
+- (a) for subsection (1), there were substituted—
+
+  > (1) For the purpose of the discharge of their functions under this Part of this Act, every licensing authority must, subject to the following provisions of this section, reach a final decision on the application within the period of 12 months beginning on the day on which the application was made.
+
+  ,
+- (b) for subsection (2), there were substituted—
+
+  > (2) On summary application by the licensing authority within the 12 month period referred to in subsection (1), the sheriff may, if it appears to them that there is good reason to do so, extend that period as they think fit.
+
+  , and
+- (c) for subsection (4)(a), there were substituted—
+
+  > - (a) the 12 month period referred to in subsection (1), or
+
+  .
+
+(3) Paragraphs (4) to (7) apply to applications received by a licensing authority prior to 1 October 2023[^key-df6947f85a38315b370f4f0891330b6c] from a relevant person where the licensing authority considers that use of the premises for a short-term let would constitute a breach of planning control for the purposes of the Town and Country Planning (Scotland) Act 1997[^f00005] by virtue of section 123(1)(a) or (b) of that Act.
+
+(4) The licensing authority may, as soon as reasonably practicable after receipt of the application, notify the relevant person that—
+
+- (a) the licensing authority will suspend their consideration of the application for a period of three months beginning on the date of the notice,
+- (b) the relevant person must, within that three month period, submit an application for planning permission or apply for a certificate of lawfulness of use or development which would, if granted, remedy the considered breach, and
+- (c) the relevant person must notify the licensing authority that an application has been made in accordance with sub-paragraph (b).
+
+(5) Where the licensing authority notifies the relevant person under paragraph (4), the licensing authority may only refuse to consider the application under paragraph 2A of schedule 1 of the 1982 Act where—
+
+- (a) the relevant person has not submitted an application for planning permission or a certificate of lawfulness of use or development, which would remedy the considered breach of planning control, within the period of three months referred to in paragraph (4)(a), or
+- (b) the planning authority refuses the application for planning permission or a certificate of lawfulness of use or development and the relevant person does not appeal against that refusal or cannot appeal against that refusal.
+
+(6) Where the licensing authority does not notify the relevant person under paragraph (4), paragraph 2A of schedule 1 of the 1982 Act does not apply.
+
+(7) Where the licensing authority notifies the relevant person under paragraph (4), section 3(1) of the 1982 Act applies to the application as if the 12 month period begins on the earlier of—
+
+- (a) the date on which the relevant person notifies the licensing authority in accordance with paragraph (4)(c), or
+- (b) 1 January 2024[^key-15159380f7592d1350a76e8477f47564].
+
+(8) For the purpose of paragraph (1)(b), an application is finally determined when—
+
+- (a) the application is granted,
+- (b) the application is withdrawn by the relevant person,
+- (c) the licensing authority refuses to consider the application on the basis of paragraph 2A of schedule 1 of the 1982 Act,
+- (d) the application is refused by the licensing authority and the period of 28 days specified in paragraph 18(4) of schedule 1 of the 1982 Act expires without an appeal against the refusal being made to the sheriff, or
+- (e) where an appeal is made against a refusal by a licensing authority to grant the application, that appeal is disposed of.
+
+(9) For the purposes of paragraph (8)(e), an appeal is disposed of when—
+
+- (a) it is abandoned by the appellant,
+- (b) a decision is made by the sheriff or a higher court and any period for making a subsequent appeal to a higher court expires without such a subsequent appeal being made, or
+- (c) no subsequent appeal is possible.
+
+(10) For the purposes of this article—
+
+- “a relevant person” is a person who—
+  - (a) carries on the activity designated by article 4 without a short-term let licence under Part I of the 1982 Act, and
+  - (b) carried on the activity before 1 October 2022,
+- “**a certificate of lawfulness of use or development**” means a certificate under section 150 or 151 of the Town and Country Planning (Scotland) Act 1997.
+
+## 8. Consequential amendments[^key-7d3ccb10cccb1fdc12e4902043da22d6]
+
+Schedule 4 has effect.
+
+SHONA ROBISON
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+27th January 2022
+
+## SCHEDULE 1 — Excluded accommodation and tenancies
+
+Article 2
+
+### 1. Excluded accommodation[^key-4655a913fc37339f65ee0c41f0891c4b]
+
+Excluded accommodation means accommodation which is, or is part of—
+
+- (a) an aparthotel,
+- (b) premises in respect of which a premises licence within the meaning of section 17 of the Licensing (Scotland) Act 2005[^f00006] has effect and where the provision of accommodation is an activity listed in the operating plan as defined in section 20(4) of that Act,
+- (c) a hotel which has planning permission granted for use as a hotel,
+- (d) a hostel,
+- (e)[^key-9a2b7ae4a7f9cff0645409b4ea7b25ff] residential accommodation where personal care is provided to residents, including guest rooms provided at that accommodation for the purposes of visiting residents,
+- (f)[^key-47af608bab0e2fd77c97d6f5fb2432e2] a hospital or nursing home, including guest rooms provided at the hospital or nursing home for the purposes of visiting residents of the hospital or nursing home,
+- (g) a residential school, college or training centre,
+- (h) secure residential accommodation (including a prison, young offenders institution, detention centre, secure training centre, custody centre, short-term holding centre, secure hospital, secure local authority accommodation, or accommodation used as military barracks),
+- (i) a refuge,
+- (j) student accommodation,
+- (k) accommodation which otherwise requires a licence for use for hire for overnight stays,
+- (l) accommodation which is provided by the guest,
+- (m) accommodation which is capable, without modification, of transporting guests to another location,
+- (n) a bothy, [^key-baa81674f3cbb8ff0aa4ce8f52f1efbd]...
+- (o) accommodation owned by an employer and provided to an employee in terms of a contract of employment or for the better performance of the employee’s duties or,[^key-357cbfce4f52afad25a2509089e01322]
+- (p) guest rooms in sheltered housing which are provided for the purposes of visiting residents of that housing.
+
+### 2. Excluded tenancies[^key-c7919368a3545822437e4513fb8c1ecc]
+
+An excluded tenancy means a tenancy which falls within any of the following definitions—
+
+- (a) a protected tenancy (within the meaning of section 1 of the Rent (Scotland) Act 1984[^f00007]),
+- (b) an assured tenancy (within the meaning of section 12 of the 1988 Act),
+- (c) a short assured tenancy (within the meaning of section 32 of the 1988 Act),
+- (d) a tenancy of a croft (within the meaning of section 3 the 1993 Act),
+- (e) a tenancy of a holding situated outwith the crofting counties (within the meaning of section 61 of the 1993 Act) to which any provisions of the Small Landholders (Scotland) Acts, 1886 to 1931[^f00008]) applies,
+- (f) a Scottish secure tenancy (within the meaning of section 11 of the 2001 Act),
+- (g) a short Scottish secure tenancy (within the meaning of section 34 of the 2001 Act),
+- (h) a 1991 Act tenancy (within the meaning of section 1(4) of the 2003 Act),
+- (i) a limited duration tenancy (within the meaning of section 93 of the 2003 Act),
+- (j) a modern limited duration tenancy (within the meaning of section 5A of the 2003 Act),
+- (k) a short limited duration tenancy (within the meaning of section 4 of the 2003 Act),
+- (l) a tenancy under a lease under which agricultural land is let for the purpose of its being used only for grazing or mowing during some specified period of the year (as described in section 3 of the 2003 Act),
+- (m) a private residential tenancy (within the meaning of section 1 of the 2016 Act), or
+- (n) a student residential tenancy.
+
+### 3. Interpretation[^key-abefb083206b3ceefbff8acae6f40521]
+
+(1) In this schedule—
+
+- “**the 1988 Act**” means the Housing (Scotland) Act 1988[^f00009],
+- “**the 1993 Act**” means the Crofters (Scotland) Act 1993[^f00010],
+- “**the 2001 Act**” means the Housing (Scotland) Act 2001[^f00011],
+- “**the 2003 Act**” means the Agricultural Holdings (Scotland) Act 2003[^f00012],
+- “**the 2016 Act**” means the Private Housing (Tenancies) (Scotland) Act 2016[^f00013],
+- “**aparthotel**” means a residential building containing serviced apartments where—
+  - (a) the whole building is owned by the same person,
+  - (b) a minimum number of 5 serviced apartments are managed and operated as a single business,
+  - (c) the building has a shared entrance for the serviced apartments, and
+  - (d) the serviced apartments do not share an entrance with any other flat or residential unit within the building,
+- “**bothy**” means a building of no more than two storeys which—
+  - (a) does not have any form of—
+    - (i) mains electricity,
+    - (ii) piped fuel supply, and
+    - (iii) piped mains water supply,
+  - (b) is 100 metres or more from the nearest public road (within the meaning of section 151 of the Roads (Scotland) Act 1984[^f00014]), and
+  - (c) is 100 metres or more from the nearest habitable building,
+- “**hostel**” means a building, other than a dwellinghouse, in which there is provided for persons generally or for any class or classes of persons—
+  - (a) residential accommodation, and
+  - (b) either or both—
+    - (i) meals,
+    - (ii) cooking facilities,
+- “**personal care**” has the same meaning as in paragraph 20 of schedule 12 of the Public Services Reform (Scotland) Act 2010[^f00015],
+- “**refuge**” means accommodation used wholly or mainly for persons who have been subject to any incident or pattern of incidents, of—
+  - (a) controlling, coercive or threatening behaviour,
+  - (b) physical violence,
+  - (c) abuse of any other description (whether physical or mental in nature), or
+  - (d) threats of any such violence or abuse.
+- “**serviced apartment**” means a flat or residential unit in respect of which—
+  - (a) services are provided to guests (such as housekeeping, a telephone desk, reception, or laundry),
+  - (b) each flat or unit contains its own washing, cooking and dining facilities separate from each of the other flats or units, and
+  - (c) there is a management system in place to prevent anti-social behaviour and to impose limits in respect of the maximum occupancy of the flats or units,
+- “[^key-58095581efef6caa069940c5b3645184]**sheltered housing**” means accommodation—
+  - (a) which is purpose built or designed to accommodate vulnerable adults,
+  - (b) which enables those vulnerable adults to live independently, and
+  - (c) where assistance or support is provided for those vulnerable adults,
+- “**student residential tenancy**” means a tenancy—
+  - (a) the purpose of which is to confer on the tenant the right to occupy the let property while the tenant is a student, and
+  - (b) to which sub-paragraph (2) or (3) of paragraph 5 of schedule 1 (tenancies which cannot be private residential tenancies) of the 2016 Act applies,
+- “**student accommodation**” means residential accommodation which has been built or converted predominantly for the purpose of being provided to students.
+- “[^key-c6b93dca75aa872b52ffdb21bb7cc02d]**vulnerable adult**” has the same meaning as in section 25 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016.
+
+(2) In paragraph 1(k), “**licence**” does not include an HMO licence granted under section 129 of the Housing (Scotland) Act 2006[^f00016].
+
+## SCHEDULE 2
+
+Article 5
+
+### PART 1 — Modification of Part 1 of the 1982 Act
+
+#### 1. Modification of Part I of the 1982 Act[^key-0172b24ff42279219e2e5b9a92aee0c5]
+
+Part I of the 1982 Act is to be read as if modified in accordance with paragraphs 2 and 3.
+
+#### 2. Standard licence conditions[^key-870ec24cf22306e3168f60f41397bdcf]
+
+After subsection (5) of section 3B (Mandatory licence conditions), insert—
+
+> (5A) Standard conditions determined in respect of a short-term let licence must not impose a limit on the number of nights for which premises may be used for secondary letting.
+
+.
+
+#### 3. Warrants authorising entry and inspection[^key-64a54029fe963b16c958b088bb790a87]
+
+After section 5 (Rights of entry and inspection), insert—
+
+> **5A. Warrants authorising entry and inspection**
+>
+> (1) A sheriff or a justice of the peace may by warrant authorise any person entitled to exercise a right conferred by section 5(1) to do so, if necessary using reasonable force, in accordance with the warrant.
+>
+> (2) A warrant may be granted under subsection (1) only if the sheriff or justice is satisfied by evidence on oath that there are reasonable grounds for the exercise of the right in relation to the premises concerned, and that one of the conditions at subsection (3) is met.
+>
+> (3) The conditions are that—
+>
+> - (a) the exercise of the right in relation to the premises has been refused,
+> - (b) the case is one of urgency,
+> - (c) a request for entry to the premises, made to a holder of the licence, would defeat the object of the proposed entry,
+> - (d) the sheriff or justice of the peace is satisfied that the notice of intention to apply for a warrant has been given to a holder of the licence for the premises concerned, and that,
+>   - (i) refusal of the exercise of the right in relation to the premises is reasonably expected,
+>   - (ii) the land is, or premises are, unoccupied, or
+>   - (iii) the occupier is temporarily absent.
+>
+> (4) This section applies only to the exercise of a right conferred by section 5(1) where that right is exercised in relation to a short-term let.
+
+.
+
+### PART 2 — Modification of Schedule 1 of the 1982 Act
+
+#### 4. Modification of schedule 1 of the 1982 Act[^key-611863ffac24bb74c81e02fa3a215ccd]
+
+Schedule 1 of the 1982 Act is to be read as if modified in accordance with paragraphs 5 to 17.
+
+#### 5. Applications[^key-a71a7e35f719d9e9c0b32417220cd6ee]
+
+In paragraph 1 (Applications for the grant and renewal of licences)—
+
+- (a) after sub-paragraph (2)(a), insert—
+
+  > - (aa) the type of short-term let licence being applied for, being either—
+  >   - (i) secondary letting,
+  >   - (ii) home letting,
+  >   - (iii) home sharing, or
+  >   - (iv) home letting and home sharing,
+
+  ,
+- (b) in sub-paragraph (2)(b), after “address” at both places it occurs insert “, any other address held within the previous 5 years, e-mail address, telephone number”,
+- (c) after sub-paragraph (2)(d), insert—
+
+  > - (da) where the applicant is not the owner of the premises, or the land on which the premises are located—
+  >   - (i) the name and address of the owner (or, as the case may be, each owner), and
+  >   - (ii) a declaration from the owner (or, as the case may be, each owner), or a person authorised to act on their behalf, that they consent to the application,
+  > - (db) where the applicant shares ownership of the premises, or the land on which the premises are located—
+  >   - (i) the name and address of each other owner, and
+  >   - (ii) a declaration from each other owner, or a person authorised to act on their behalf, that they consent to the application,
+  > - (dc) the number of bedrooms in the premises,
+  > - (dd) details of any other short-term let licence granted to the applicant, and
+
+  .
+- (d) Omit sub-paragraph (3).
+
+#### 6. Temporary exemption from the requirement to have a licence[^key-320ef595952175b8b72faf30c4526b59]
+
+After paragraph 1 (applications for the grant and renewal of licences) insert—
+
+> **1A.** (1)[^key-28b0ef33709ca1babde4e64e71d91155] Subject to sub-paragraph (1A), a licensing authority may, on application made to it, grant a temporary exemption from the requirement to obtain a short-term let licence in relation to a specified property or properties.
+>
+> (1A) A temporary exemption from the requirement to obtain a short-term let licence may only be granted in relation to a specified property or properties if, in one calendar year—
+>
+> - (a) there are no more than three separate periods of temporary exemption for that property or those properties, and
+> - (b) the total period of temporary exemption for that property or those properties (whether one, two or three periods of exemption are granted) is 6 weeks or less.
+>
+> (2) A licensing authority may consult the chief constable and the Scottish Fire and Rescue Service in relation to an application made under sub-paragraph (1).
+>
+> (3) A licensing authority may attach conditions to an exemption granted under sub-paragraph (1), and the provisions of Part I of this Act relating to the attaching of conditions to licences apply to the attaching of conditions to exemptions under this subsection.
+>
+> (4) A licensing authority may elect not to grant exemptions under sub-paragraph (1) for—
+>
+> - (a) any premises, or
+> - (b) for a class or classes of premises.
+>
+> (5) A licensing authority must publish, and keep under review, a statement of its policy in relation to the exercise of its functions under this paragraph.
+>
+> (6) A licensing authority must publish a policy statement under sub-paragraph (5)—
+>
+> - (a) on or before 1 October 2022, and
+> - (b) on or before 1 October every three years thereafter.
+>
+> (7) In preparing and reviewing a policy statement under sub-paragraph (5), a licensing authority must consult with such persons as the licensing authority considers appropriate.
+>
+> (8) A policy statement published under sub-paragraph (5) must include information regarding—
+>
+> - (a) the fees chargeable for a temporary exemption application, and
+> - (b) the time period within which the licensing authority will reach a final decision on a temporary exemption application.
+>
+> (9) The policy statement published under sub-paragraph (5) must be made available on the licensing authority’s website.
+
+.
+
+#### 7. Publicity[^key-ce4fc1c722d44eb44e0c6f9cd25d1319]
+
+In paragraph 2—
+
+- (a) after sub-paragraph (1), insert—
+
+  > (1A) As soon as is reasonably practicable after receiving an application for the grant of a short-term let licence, a licensing authority must issue a unique licence number to the applicant which may be used as a temporary licence number.
+
+  ,
+- (b) for sub-paragraph (3)(b) substitute—
+
+  > - (b) the particulars required under paragraph 1(2) to be specified in the application, other than—
+  >   - (i) any address held by a person within the previous 5 years (other than their current address),
+  >   - (ii) the e-mail address or telephone number of any person, and
+  >   - (iii) the date and place of birth of any person,
+
+  ,
+- (c) for sub-paragraphs (7), (8) and (9) substitute—
+
+  > (7) The licensing authority—
+  >
+  > - (a) must, in accordance with sub-paragraph (8), cause public notice to be given of an application made to them for the grant or renewal of a short-term let licence if the application contains a declaration that the applicant has been unable to comply with the requirements of sub-paragraph (2), and
+  > - (b) may, in accordance with sub-paragraph (8), cause public notice to be given of every application made to them for the grant or renewal of a short-term let licence.
+  >
+  > (8) For the purposes of sub-paragraph (7), public notice of an application for a short-term let licence must be given by publication of a notice—
+  >
+  > - (a) in a newspaper or newspapers circulating in the area of the authority, or
+  > - (b) on the licensing authority’s website or other website established and maintained for that purpose.
+  >
+  > (9) For the purposes of sub-paragraph (7), a public notice of an application for a short-term let licence must contain the information stated at paragraph 2(3).
+
+  .
+
+#### 8. Preliminary refusal[^key-057ee309952c70c6aa12cfe5d7c812b4]
+
+After paragraph 2, insert—
+
+> **2A. Preliminary refusal: breach of planning control**
+>
+> (1) A licensing authority may, within 21 days of receipt of an application for a licence, refuse to consider the application where it considers that use of the premises for a short-term let would constitute a breach of planning control for the purposes of the Town and Country Planning (Scotland) Act 1997 (“**the 1997 Act**”)[^f00017] by virtue of section 123(1)(a) or (b) of that Act.
+>
+> (2) The licensing authority must, within 7 days of deciding to refuse to consider an application for a short-term let licence, serve notice of its decision on—
+>
+> - (a) the applicant,
+> - (b) the relevant planning authority, and
+> - (c) the chief constable.
+>
+> (3) The notice must—
+>
+> - (a) give the licensing authority’s reason for refusing to consider the application, and
+> - (b) in the case of a notice to the applicant, inform the applicant of the effect of sub-paragraph (4).
+>
+> (4) No fee may be charged in respect of a further application for a licence in relation to the premises concerned made within 28 days of the applicant subsequently obtaining—
+>
+> - (a) planning permission under Part III of the 1997 Act, or
+> - (b) a certificate of lawfulness of use or development under section 150 or 151 of the 1997 Act,
+>
+> in respect of the use of the premises for short-term lets.
+>
+> (5) A refusal to consider an application under sub-paragraph (1) is not to be treated as a refusal to grant a licence under paragraph 5.
+
+.
+
+#### 9. Grant and renewal of licences[^key-e39f64962577e3619c7f5bc7ca027f18]
+
+In paragraph 5 (disposal of applications for the grant and renewal of licences)[^f00018]—
+
+- (a) after sub-paragraph (2A), insert—
+
+  > (2B) The conditions referred to in sub-paragraph (1A)(b) must not impose any limit on the number of nights for which premises may be used for secondary letting.
+
+  ,
+- (b) after sub-paragraph (3)(c), insert—
+
+  > - (ca) the applicant would not be able to secure compliance with—
+  >   - (i) the mandatory licence conditions, and
+  >   - (ii) the standard conditions and any further conditions under sub-paragraph (1A)(b) to which the licence is to be subject,
+  > - (cb) the application does not contain the information required under paragraph 1(2)(da), or (db) (the consent of the owners of the premises), or
+
+  .
+
+#### 9A. Provisional licences[^key-334434b31cd28b001ca3eaa188b791df]
+
+After paragraph 7, insert—
+
+> **7A. Provisional Short-term Let Licences**
+>
+> (1) A short-term let licence application may be made in relation to any premises despite the fact that, at the time the application is made, the premises are yet to be, or are in the course of being, constructed for use as a short-term let.
+>
+> (2) A short-term let licence application in respect of any such premises is referred to in this paragraph and paragraph 7B as a “provisional short-term let licence application”.
+>
+> (3) A short-term let licence issued in respect of any such premises and which has not been confirmed in accordance with paragraph 7B is referred to in this paragraph and paragraph 7B as a “provisional short-term let licence”.
+>
+> (4) A provisional short-term let licence is of no effect unless and until it is confirmed by the licensing authority which issued it in accordance with paragraph 7B.
+>
+> (5) A provisional short-term let licence application must be accompanied by a provisional planning certificate in respect of the premises.
+>
+> (6) A provisional short-term let licence is treated as revoked if it is not confirmed within 3 years after the date on which it was issued.
+>
+> (7) On the application of the holder of a provisional short-term let licence, the licensing authority which issued the licence may, where sub-paragraph (8) applies, extend the period mentioned in sub-paragraph (6) by such period as that authority considers appropriate.
+>
+> (8) This sub-paragraph applies where the licensing authority is satisfied that—
+>
+> - (a) completion of the construction of the premises to which the licence relates has been delayed, and
+> - (b) the delay has been caused by factors outwith the provisional short-term let licence holder’s control.
+>
+> (9) A provisional planning certificate is a certificate signed on behalf of the appropriate authority and stating—
+>
+> - (a) that planning permission, planning permission in principle or outline planning permission under the Town and Country Planning (Scotland) Act 1997 has been obtained in respect of the construction of the premises, or
+> - (b) that no such planning permission is required.
+>
+> (10) In this paragraph, “**construct**” has the same meaning as it has for the purposes of section 56 of the Building (Scotland) Act 2003.
+>
+> **7B. Confirmation of provisional short-term let licence**
+>
+> (1) The holder of a provisional short-term let licence may apply to the licensing authority which issued the provisional licence for confirmation of the licence.
+>
+> (2) An application under sub-paragraph (1) must be accompanied by—
+>
+> - (a) the provisional short-term let licence,
+> - (b) if the provisional planning certificate which accompanied the provisional premises licence application in respect of the premises consisted of outline planning permission or planning permission in principle, a planning certificate,
+> - (c) a building standards certificate, and
+> - (d) such other information as the licensing authority may reasonably require.
+>
+> (3) Where a licensing authority receives an application under sub-paragraph (1), the authority must, where sub-paragraph (4) applies, confirm the licence.
+>
+> (4) This sub-paragraph applies where the licensing authority is satisfied that, following the construction of the premises, the applicant would be able to secure compliance with—
+>
+> - (a) the mandatory licence conditions, and
+> - (b) the standard conditions and any further conditions under paragraph 5(1A)(b) to which the licence is to be subject.
+>
+> (5) A “planning certificate” is a certificate signed on behalf of the appropriate authority and stating—
+>
+> - (a) that planning permission under the Town and Country Planning (Scotland) Act 1997 in respect of any development of the subject premises in connection with their proposed use as a short-term let has been obtained, or
+> - (b) that no such planning permission is required.
+>
+> (6) A “building standards certificate” is a certificate signed on behalf of the appropriate authority and stating—
+>
+> - (a) that a completion certificate has been accepted under section 18 of the 2003 Act in respect of any construction of the subject premises in connection with their proposed use as a short-term let,
+> - (b) that permission for the temporary occupation or use of the premises has been granted under section 21(3) of the 2003 Act, or
+> - (c) that no such completion certificate or permission is required.
+>
+> (7) In this paragraph—
+>
+> - “**the 2003 Act**” means the Building (Scotland) Act 2003,
+> - “**appropriate authority**” means—
+>   - (a) in relation to a planning certificate or provisional planning certificate, the planning authority (within the meaning of the Town and Country Planning (Scotland) Act 1997) for the area in which the subject premises are situated,
+>   - (b) in relation to a building standards certificate, the local authority for that area.
+
+#### 10. Duration of licences[^key-6e06b2c65e788c75e743afda76784133]
+
+In paragraph 8 (duration of licences)—
+
+- (a) omit “or” following sub-paragraph (2)(a),
+- (b) after sub-paragraph (2)(b), omit “.” and insert—
+
+  > , or
+  >
+  > - (c) for such longer period as the licensing authority may decide at the time when they renew a short-term let licence.
+
+  .
+- (c) after sub-paragraph (2), insert—
+
+  > (2A) A licensing authority may decide to renew a short-term let licence for such longer period under sub-paragraph (2)(c)—
+  >
+  > - (a) in respect of different licences, or different types of licence,
+  > - (b) otherwise for different purposes, circumstances or cases.
+  >
+  > (2B) A licensing authority must publish, in such manner as they think appropriate, the circumstances (if any) in which they will renew a licence for such longer period under sub-paragraph (2)(c).
+
+  .
+
+#### 10A. Transfer of short-term let licence[^key-f2e656829528b27e01dde2c980044c64]
+
+After paragraph 9, insert—
+
+> **9A. Transfer on application of licence holder**
+>
+> (1) A short-term let licence holder may apply to the appropriate licensing authority for the transfer of the licence to such person as is specified in the application.
+>
+> (2) In this paragraph—
+>
+> - (a) an application under sub-paragraph (1) is referred to as a “**transfer application**”, and
+> - (b) the person to whom the licence is to be transferred under a transfer application is referred to as the “**transferee**”.
+>
+> (3) A transfer application must be accompanied by—
+>
+> - (a) the short-term let licence to which the application relates or, if that is not possible, a statement of the reasons for failure to produce the licence,
+> - (b) where the applicant is not the owner of the premises or the land on which the premises are located—
+>   - (i) the name and address of the owner (or, as the case may be, each owner), and
+>   - (ii) a declaration from the owner (or, as the case may be, each owner), or a person authorised to act on their behalf, that they consent to the application,
+> - (c) where the applicant shares ownership of the premises or the land on which the premises are located—
+>   - (i) the name and address of each other owner, and
+>   - (ii) a declaration from each other owner, or a person authorised to act on their behalf, that they consent to the application,
+> - (d) where the short-term let licence is held in joint names—
+>   - (i) the name and address of each licence holder, and
+>   - (ii) a declaration from each licence holder, or a person authorised to act on their behalf, that they consent to the application,
+> - (e) such other information as the licensing authority may reasonably require.
+>
+> (4) Where a licensing authority receives a transfer application, the licensing authority must give notice of it, together with a copy of the application, to the chief constable.
+>
+> (5) The chief constable may, within 28 days of the date of receipt of a notice under sub-paragraph (4), make objections or representations to the licensing authority in relation to the transfer application.
+>
+> (6) Paragraph 3 applies to any objection or representation made by the chief constable under sub-paragraph (5) as it applies to an objection or representation relating to an application for the grant or renewal of a licence but as if—
+>
+> - (a) in paragraph 3(1), head (e) was repealed, and
+> - (b) in paragraph 3(2), “Notwithstanding sub-paragraph (1)(e) above,” were repealed.
+>
+> (7) Where the chief constable does not make any objection or representation under sub-paragraph (5), the licensing authority must grant the transfer application.
+>
+> (8) Where the chief constable makes an objection or representation under sub-paragraph (5), paragraphs 4 and 5 apply to the transfer application—
+>
+> - (a) as those paragraphs apply to an application for the grant or renewal of a licence, and
+> - (b) subject to the modifications in sub-paragraph (9).
+>
+> (9) Paragraph 5 applies to a transfer application as if—
+>
+> - (a) in paragraph 5(1), for heads (a) and (c) there were substituted “grant or refuse to grant the transfer application”.
+> - (b) in paragraph 5(1A) for “In granting or renewing a licence under sub-paragraph (1)(a)” there were substituted “In granting or refusing to grant a transfer application under sub-paragraph (1)”,
+> - (c) in paragraph 5(1A)(a), after “licence” insert “which is the subject of the transfer application”,
+> - (d) for paragraph 5(2), (2A) and (2ZA) there were substituted “(2) The conditions referred to in sub-paragraph (1A)(b) are such reasonable conditions as the licensing authority think fit.”,
+> - (e) in paragraph 5(3)(a) and (b), references to the “**applicant**” were references to the transferee,
+> - (f) paragraph 5(3)(c), (4) and (5)(c) and (d) were repealed,
+> - (g) in paragraph 5(7) for “granted” there were substituted “transferred”, and
+> - (h) paragraph 5(8) were repealed.
+
+#### 11. Enforcement[^key-907993e8bb0ba79faa847feb3005c633]
+
+After paragraph 10 (variation of licences), insert—
+
+> **10A. Power to require rectification of breach of licence**
+>
+> (1) This paragraph applies where a licensing authority considers that any condition included in a short-term let licence has been, or is likely to be, breached (regardless of whether the licensing authority has taken any other action, or of whether criminal proceedings have been commenced, in respect of that breach).
+>
+> (2) Where this paragraph applies, a licensing authority may serve notice (an “**enforcement notice**”) on a holder of a licence.
+>
+> (3) An enforcement notice must specify—
+>
+> - (a) the matters constituting the breach or likely breach,
+> - (b) the action to be taken by the licence holder which the licensing authority considers necessary for the purposes of rectifying or, as the case may be, preventing the breach,
+> - (c) the date by which the action must be taken.
+>
+> (4) A condition of an enforcement notice is deemed to be a condition of a licence.
+>
+> (5) A licensing authority may serve an enforcement notice on a licence holder requiring the rectification or prevention of any breach of a condition of a licence other than the breach of a condition of an enforcement notice.
+
+.
+
+#### 12. Simplified process following surrender[^key-4d5992ec2f38833c1ac658936d931629]
+
+In paragraph 13 (surrender of licence), after sub-paragraph (4)[^f00019] insert—
+
+> (5) Where a holder of a short-term let licence has surrendered the licence under sub-paragraph (1), a licensing authority may grant an equivalent licence to the person who surrendered the licence if it receives an application within 12 months of the date of the surrender in respect of the same premises.
+>
+> (6) A licensing authority may exercise the power in sub-paragraph (5) notwithstanding that it has not complied with the following paragraphs—
+>
+> - (a) paragraph 1 (applications for the grant and renewal of licences), or
+> - (b) paragraph 2 (consultation).
+
+.
+
+#### 13. Public register[^key-b2d7a5fde4451821a4fe868c4cc856e9]
+
+In paragraph 14 (register of applications)—
+
+- (a) after sub-paragraph (2)(b), insert—
+
+  > - (c) where the application is made by or on behalf of a person other than a natural person—
+  >   - (i) the full name of the person, and
+  >   - (ii) the address of its registered or principal office,
+  > - (d) the full address of the premises which are the subject of the application (including a postcode),
+  > - (e) the council ward in which the premises are located,
+  > - (f) the date of the application,
+  > - (g) the status of the application (granted, refused, being determined, revoked, lapsed etc.),
+  > - (h) the type of premises,
+  > - (i) the type of short-term let,
+  > - (j) the maximum number of guests permitted to reside on the premises,
+  > - (k) whether the premises are within either Loch Lomond and the Trossachs National Park or the Cairngorms National Park,
+  > - (l) the unique licence number allocated to the application,
+  > - (m) where the licensing authority has required its inclusion in the application—
+  >   - (i) the number of bedrooms in the premises,
+  >   - (ii) information on availability and occupancy,
+  >   - (iii) contact details for the manager of the premises, if different from the applicant or where the application is for secondary letting, and
+  >   - (iv) the Energy Performance Certificate rating.
+
+  .
+- (b) after sub-paragraph (2), insert—
+
+  > (2A) Nothing in this paragraph requires a licensing authority to include on the register—
+  >
+  > - (a) particulars relating to a short-term let licence (including applications and any other information relating to the licence) if a period longer than 12 months has passed beginning with the date on which the licence was revoked under paragraph 11,
+  > - (b) particulars relating to a licence which has been surrendered under paragraph 13, or
+  > - (c) particulars relating to a licence which has expired.
+
+  ,
+- (c) after sub-paragraph (4) insert—
+
+  > (5) From 1 October 2022, the licensing authority must on a quarterly basis share the content of the register, in relation to short-term let licences only, with the Scottish Ministers in a format which enables analysis of the information.
+  >
+  > (6) From 1 October 2022, the licensing authority must publish the content of the register, in relation to short-term let licences only, on their website or other website established and maintained for that purpose and provide access free of charge.
+
+  .
+
+#### 14. Sharing of information[^key-42bee18d0f426b38b3d1d9cf79d7d9bf]
+
+After paragraph 14, insert—
+
+> **14A. Sharing of information in respect of short-term let licences and applications**
+>
+> (1) Subject to sub-paragraphs (2) and (3), a licensing authority may, following a request from a local authority or otherwise, share information with—
+>
+> - (a) a licensing authority, or
+> - (b) a person who advertises or lists short-term lets.
+>
+> (2) The only information which may be shared under sub-paragraph (1) is any information in relation to—
+>
+> - (a) the suspension, variation or revocation of a short-term let licence,
+> - (b) the decision to refuse a short-term let licence application, or
+> - (c) an individual operating a short-term let without a licence.
+>
+> (3) A licensing authority may only share information under sub-paragraph (1) for purposes in connection with—
+>
+> - (a) the licensing of short-term lets, and
+> - (b) the prevention of an offence under section 7(1).
+
+.
+
+#### 15. Fees[^key-1735cdc944a9ea6c46d4b137c3c89992]
+
+For paragraph 15 (fees), substitute—
+
+> **15.** (1) A licensing authority may, subject to sub-paragraphs (2) and (3), charge such reasonable fees as they may determine in respect of—
+>
+> - (a) applications made to them under this schedule,
+> - (b) the issue of certified duplicate licences under paragraph 5(7),
+> - (c) their consideration of a material change of circumstances or in premises under paragraph 9 and their disposal of the matter,
+> - (d) the issue under paragraph 14 of certified true copies,
+> - (e) an inspection of premises following—
+>   - (i) a failure to comply with a licence condition, or
+>   - (ii) a complaint relating to the premises (unless the complaint is frivolous or vexatious).
+>
+> (2) In determining the amount of the different fees under sub-paragraph (1), the licensing authority—
+>
+> - (a) must seek to ensure that the total amount of fees receivable by the authority is sufficient to meet the expenses of the authority in exercising their functions under Parts I and II of this Act and this schedule,
+> - (b) may determine different fees for different purposes,
+> - (c) may take into account the following criteria—
+>   - (i) the size of the premises,
+>   - (ii) the number of bedrooms at the premises,
+>   - (iii) the number of guests who can reside at the premises,
+>   - (iv) the type of short-term let,
+>   - (v) the duration of the period for which the premises are made available for use as a short-term let, and
+>   - (vi) the extent to which the licence holder has complied with the conditions of the licence.
+>
+> (3) A licensing authority may provide for annual or other recurring fees.
+>
+> (4) Where a local authority charges a fee in respect of an inspection, the licensing authority must—
+>
+> - (a) produce a report of its finding to the licence holder within 28 days of the inspection, or
+> - (b) where a report is not provided within 28 days of the inspection, refund the fee charged to the licence holder.
+
+.
+
+#### 16. Giving of reasons[^key-33f1660a04ff255bb10de5fd0bc5a8dd]
+
+In paragraph 17 (notification of the decisions and giving of reasons)—
+
+- (a) after sub-paragraph (1)(c), insert—
+
+  > - (ca) to refuse an application made under paragraph 1A or to grant such an application subject to conditions,
+  > - (cb) to serve an enforcement notice under paragraph 10A,
+
+  .
+
+#### 17. Interpretation[^key-2d2602ce6332e8b09cde4e6e19f8c714]
+
+After paragraph 19 (interpretation), insert—
+
+> **19A.** In this schedule—
+>
+> - “**Energy Performance Certificate**” means a certificate which complies with regulation 6 of the Energy Performance of Buildings (Scotland) Regulations 2008[^f00020],
+> - “**home letting**” means a short-term let consisting of the entering into of an agreement for the use, while the host is absent, of accommodation which is, or is part of, the host’s only or principal home,
+> - “**home sharing**” means a short-term let consisting of the entering into of an agreement for the use, while the host is present, of accommodation which is, or is part of, the host’s only or principal home,
+> - “**premises**” means the accommodation which is the subject of an application for a short-term licence or the subject of a short-term licence,
+> - “**secondary letting**” means a short-term let consisting of the entering into of an agreement for the use of accommodation which is not, or is not part of, the licence holder’s only or principal home,
+> - “**short-term let**” has the same meaning as in article 3 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022,
+> - “**short-term let licence**” means a licence for a short-term let,
+> - “**type of short-term let**” means one of the following purposes—
+>   - (a) secondary letting,
+>   - (b) home letting,
+>   - (c) home sharing, or
+>   - (d) home letting and home sharing,
+> - “**unique licence number**” means a unique number which—
+>   - (a) is assigned to each application or licence, and
+>   - (b) contains a number or letters which—
+>     - (i) identifies the licensing authority, and
+>     - (ii) is used in every licence number assigned by the licensing authority.
+
+.
+
+## SCHEDULE 3 — Mandatory licence conditions
+
+Article 6
+
+### 1. Agents[^key-43c129ffee8f105f31f3a798689ca9a2]
+
+Only those named as a holder of the licence can carry out the day to day management of the short-term let of the premises.
+
+### 2. Type of licence[^key-3ac8df6da2727dd9efb703691f315a4c]
+
+The holder of the licence may only offer the type of short-term let for which the licence has been granted.
+
+### 3. Fire safety[^key-3bf405ffd7bb25f92d82580db519b94d]
+
+The holder of the licence must ensure the premises has satisfactory equipment installed for detecting, and for giving warning of—
+
+- (a) fire or suspected fire, and
+- (b) the presence of carbon monoxide in a concentration that is hazardous to health.
+
+**4.**[^key-74f610174a62d72319eb4f9e44ca2fe3] The holder of the licence must keep records showing that all upholstered furnishings and mattresses within the parts of the premises which are for guest use, or to which the guests are otherwise permitted to have access, comply with the Furniture and Furnishings (Fire Safety) Regulations 1988[^f00021].
+
+### 5. Gas safety[^key-067be5b93b45ae094b7232004318032a]
+
+Where the premises has a gas supply—
+
+- (a) the holder of the licence must arrange for an annual gas safety inspection of all gas pipes, flues and appliances in the premises,
+- (b) if, after an annual inspection, any appliance does not meet the required safety standard, the holder of the licence must not allow a short-term let of the premises until the works necessary to bring the appliance to the required safety standard have been carried out.
+
+### 6. Electrical safety[^key-27cce4879b181308d3b909faca0f134d]
+
+Where there are electrical fittings or items within the parts of the premises which are for guest use, or to which the guests are permitted to have access, the holder of the licence must—
+
+- (a) ensure that any electrical fittings and items are in—
+  - (i) a reasonable state of repair, and
+  - (ii) proper and safe working order,
+- (b) arrange for an electrical safety inspection to be carried out by a competent person at least every five years or more frequently if directed by the competent person,
+- (c) ensure that, following an electrical safety inspection, the competent person produces an Electrical Installation Condition Report on any fixed installations,
+- (d) arrange for a competent person to—
+  - (i) produce a Portable Appliance Testing Report on moveable appliances to which a guest has access, and
+  - (ii) date label and sign all moveable appliances which have been inspected.
+
+**7.**[^key-880bef59b71cab6f37c21be10834e8ee] In determining who is competent, the holder of the licence must have regard to guidance issued by the Scottish Ministers under section 19B(4) of the Housing (Scotland) Act 2006[^f00022].
+
+### 8. Water safety: private water supplies[^key-c60e185d8086452b2f5618b57cdcfd05]
+
+Where the premises are served by a private water supply, the licence holder must comply with the requirements on the owners of private dwellings set out in the Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017[^f00023].
+
+### 9. Water safety: legionella[^key-721fabf66722ce7fb94238dda141bd05]
+
+The holder of the licence must assess the risk from exposure to legionella within the premises, whether or not the premises are served by a private water supply.
+
+### 10. Safety & repair standards[^key-1b3bdaa23fce631ee545dc88af8cccb8]
+
+(1) The holder of the licence must take all reasonable steps to ensure the premises are safe for residential use.
+
+(2) Where the premises are subject to the requirements of Chapter 4 of Part 1 of the Housing (Scotland) Act 2006, the holder of the licence must ensure that the premises meet the repairing standard.
+
+### 11. Maximum Occupancy[^key-6b1aa0ef87debf086cc420264803efbb]
+
+The licence holder must ensure that the number of guests residing on the premises does not exceed the number specified in the licence.
+
+### 12. Information to be displayed[^key-60eab010514e1eb368596e046043788f]
+
+The holder of the licence must make the following information available within the premises in a place where it is accessible to all guests—
+
+- (a) a certified copy of the licence and the licence conditions,
+- (b) fire, gas and electrical safety information,
+- (c) details of how to summon the assistance of emergency services,
+- (d) a copy of the gas safety report,
+- (e) a copy of the Electrical Installation Condition Report, and
+- (f) a copy of the Portable Appliance Testing Report.
+- (g)[^key-b63cf1674f412d3a1f85ba8f2fb37b16] instructions as to what guests should do in the event that the carbon monoxide alarm sounds,
+- (h) if there is a mobile gas cabinet heater in the premises, safety instructions as to the operation and movement of that mobile heater.
+
+### 13. Planning Permission[^key-3d568295f8478794c22c94ddcdb2e0a4]
+
+Where the premises is in a short-term let control area for the purposes of section 26B of the Town and Country Planning (Scotland) Act 1997[^f00024] (“**the 1997 Act**”), the holder of the licence must, where the use of the premises for a short-term let requires planning permission under the 1997 Act, ensure that either—
+
+- (a) an application has been made for planning permission under the 1997 Act and has not yet been determined, or
+- (b) planning permission under the 1997 Act is in force.
+
+### 14. Listings[^key-de8c9f0c9b188c80d95d77912f724f3e]
+
+(1) The holder of the licence must ensure that any listing or advert (whether electronic or otherwise) for the short-term let of the premises includes—
+
+- (a) the licence number, and
+- (b) a valid Energy Performance Certificate rating if an Energy Performance Certificate is required for the premises, in accordance with the Energy Performance of Buildings (Scotland) Regulations 2008[^f00025].
+
+(2) The holder of the licence must ensure that any listing or advert (whether electronic or otherwise) for the short-term let of the premises is consistent with the terms of the short-term let licence.
+
+### 15. Insurance[^key-5e6b3a2c7d6870f872d1ecaea399da15]
+
+The holder of the licence must ensure that there is in place for the premises—
+
+- (a) valid buildings insurance for the duration of the licence, and
+- (b) valid public liability insurance for the duration of each short-term let agreement.
+
+### 16. Payment of fees[^key-f3afb1a2666f4aeba1f516941ee7b087]
+
+The holder of the licence must pay any fees due to the licensing authority in respect of the licence on demand.
+
+### 17. False or misleading information[^key-c824d4f3ae2e06e9b6084989676fda79]
+
+The holder of the licence must not provide any false or misleading information to the licensing authority.
+
+### 18. Interpretation[^key-a3c2007288963467c8c259bfb1179a68]
+
+In this schedule—
+
+- “**Electrical Installation Condition Report**” means a report containing the following information—
+  - (a) the date on which the inspection was carried out,
+  - (b) the address of the premises inspected,
+  - (c) the name, address and relevant qualifications of the person who carried out the inspection,
+  - (d) a description, and the location, of each installation, fixture, fitting and appliance inspected,
+  - (e) any defect identified,
+  - (f) any action taken to remedy a defect,
+- “**Energy Performance Certificate**” means a certificate which complies with regulation 6 of the Energy Performance of Buildings (Scotland) Regulations 2008[^f00026],
+- “**gas safety report**” means a report containing the following information—
+  - (a) the date on which the appliance or flue was checked,
+  - (b) the address of the premises at which the appliance or flue is installed,
+  - (c) a description of and the location of each appliance or flue checked,
+  - (d) any safety defect identified,
+  - (e) any remedial action taken,
+  - (f) confirmation that the check undertaken complies with the requirements of an examination of—
+    - (i) the effectiveness of any flue,
+    - (ii) the supply of combustion air,
+    - (iii) subject to head (iv), its operating pressure or heat input or, where necessary, both,
+    - (iv) if it is not reasonably practicable to examine its operating pressure or heat input (or, where necessary, both), its combustion performance,
+    - (v) its operation so as to ensure its safe functioning,
+  - (g) the name and signature of the individual carrying out the check, and
+  - (h) the registration number with which that individual, or that individual’s employer, is registered with a body approved by the Health and Safety Executive for the purposes of regulation 3(3) of the Gas Safety (Installation and Use) Regulations 1998[^f00027],
+- “**holder of the licence**” means any person to whom a short-term let licence has been granted or jointly granted,
+- “**home letting**” means a short-term let consisting of the entering into of an agreement for the use, while the host is absent, of accommodation which is, or is part of, the host’s only or principal home,
+- “**home sharing**” means a short-term let consisting of the entering into of an agreement for the use, while the host is present, of accommodation which is, or is part of, the host’s only or principal home,
+- “**premises**” means the accommodation which is the subject of an application for a short-term licence or the subject of a short-term licence,
+- “**repairing standard**” means the steps which the holder of the licence is required to take to comply with the obligations placed on the holder by Chapter 4 of Part 1 of the Housing (Scotland) Act 2006[^f00028],
+- “**secondary letting**” means a short-term let consisting of the entering into of an agreement for the use of accommodation which is not, or is not part of, the licence holder’s only or principal home,
+- “**short-term let**” has the same meaning as in article 3 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022,
+- “**short-term let licence**” means a licence for a short-term let, and
+- “**type of short-term let**” means one of the following purposes—
+  - (a) secondary letting,
+  - (b) home letting,
+  - (c) home sharing, or
+  - (d) home letting and home sharing.
+
+## SCHEDULE 4 — Consequential amendments
+
+Article 8
+
+### 1. Antisocial Behaviour etc. (Scotland) Act 2004[^key-46585afdd3fc7ab28192a46ff5790e49]
+
+(1) Section 83 (application for registration) of the Antisocial Behaviour etc. (Scotland) Act 2004[^f00029] is amended in accordance with this paragraph.
+
+(2) In subsection (6)—
+
+- (a) omit “or “ from the end of paragraph (l),
+- (b) at the end of paragraph (m), replace “.” with “; or”, and
+- (c) after paragraph (m) insert—
+
+  > - (n) the house is being used for a short-term let as defined in article 3 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022.
+
+  .
+
+### 2. Housing (Scotland) Act 2006[^key-18d542f8d8133ae36401f1a959aa8deb]
+
+(1) Section 12 (tenancies to which repairing standard duty applies) of the Housing (Scotland) Act 2006[^f00030] is amended in accordance with this paragraph.
+
+(2) In subsection (1)(f), after “holiday” insert “unless the tenancy is a short-term let”.
+
+(3) After subsection (2), insert—
+
+> (3) For the purposes of this Chapter, a short-term let is a type of tenancy (and the terms landlord, let and tenant are to be construed accordingly).
+>
+> (4) In this section, a short-term let has the same meaning as in article 3 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022.
+
+.
+
+### 3. Private Housing (Tenancies) (Scotland) Act 2016[^key-37a9a5423144afbc1d7d9cc351e254f1]
+
+(1) Schedule 1 (tenancies which cannot be private residential tenancies) of the Private Housing (Tenancies) (Scotland) Act 2016[^f00031] is amended in accordance with this paragraph.
+
+(2) In paragraph 6 (holiday let), the existing words become sub-paragraph (1).
+
+(3) After that sub-paragraph insert—
+
+> (2) A tenancy cannot be a private residential tenancy if it is a short-term let within the meaning of article 3 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022.
+
+.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order designates a “short-term let” as the use of residential accommodation provided by a host in the course of business to a guest where certain criteria are met as an activity for which a licence is required under the Civic Government (Scotland) Act 1982 (“**the Act**”), modifies the procedures in the Act in relation to short-term let licences, provides mandatory conditions which will be required in respect of all short-term let licences, and makes consequential amendments to a number of enactments.
+
+Article 3 provides a definition of short-term let and excludes certain types of accommodation and certain types of tenancy (as described in schedule 1 of the Order) from that definition. Article 4 specifies that a short-term let after 1 October 2022 is an activity which requires a licence under the Act. Article 5 provides that Part 1 of the Act (including schedule 1 of the Act as introduced by section 4 of the Act) has effect, for the purposes of the licensing of a short-term let, subject to the modifications specified in schedule 2 of the Order. Article 6 provides that a short-term let licence is subject to the mandatory conditions specified in schedule 3 of the Order.
+
+Article 7 makes transitional provision whereby the offence of operating without a licence (section 7(1) of the Act) is not committed in circumstances where a person used a property for a short-term let before 1 October 2022 and submitted an application for a short-term let licence before 1 April 2023 which has not yet been finally determined. It also provides for a procedure to be followed during the transitional period in respect of licence applications where the licensing authority considers that use of the premises for a short-term let would constitute a breach of planning control.
+
+The provisions in Part 1 of the Act (including schedule 1) will apply to short-term let licences with the modifications set out in schedule 2 of the Order which are as follows:
+
+Paragraph 1 provides that any standard conditions determined must not impose a limit upon the number of nights for which the premises may be used for secondary letting.
+
+Paragraph 2 creates a procedure for an authorised officer of the licensing authority, an authorised civilian employee (as defined in section 8 of the Act) or a constable to obtain a warrant to gain entry to the premises, and includes a set of conditions of which one must be met in order for a warrant to be granted.
+
+Paragraph 3 requires the inclusion of additional information in application forms.
+
+Paragraph 4 enables the licensing authority to exempt premises from the requirement to have a licence for a specified period which cannot exceed 6 weeks per year. It also sets out the requirements for the licensing authority to publish and review a statement of their policy in relation to the granting of temporary exemptions and sets out what information it must include.
+
+Paragraph 5 provides a process for the licensing authority to provide a temporary licence number to the applicant and to publicise the application.
+
+Paragraph 6 allows the licensing authority to refuse to consider the application if it considers the use of the premises for a short-term let would breach planning control, and further sets out how this can be remedied by the applicant.
+
+Paragraph 7 provides for additional grounds on which the licensing authority may refuse an application.
+
+Paragraph 8 allows the licensing authority to renew a licence for longer than 3 years.
+
+Paragraph 9 creates a process for the licensing authority to serve an enforcement notice where there has been a breach of the licence conditions, which includes setting out what constitutes the breach (or likely breach), what action can be taken to rectify or otherwise prevent the breach, and the date by which the action must be taken.
+
+Paragraph 10 creates a simplified process for a licence holder to apply for a licence within 12 months of having surrendered an equivalent licence.
+
+Paragraph 11 provides for the inclusion of additional information about short-term let licence applications on the public register of applications. Paragraph 11 also obliges the licensing authority to share the content of the register in relation to short-term lets with the Scottish Ministers on a quarterly basis, as well as to publish the content of the register on a website.
+
+Paragraph 12 provides for licensing authorities to share specified information with either another licensing authority or a person who advertises short-term lets for the purposes of licensing of short-term lets and to prevent the commission of offences under section 7(1) of the 1982 Act.
+
+Paragraph 13 sets out the process by which fees may be set by the licensing authority and the criteria it may take into account whilst doing so.
+
+Paragraph 14 requires the licensing authority to give reasons for the issue of an enforcement notice. Paragraph 14 also obliges the licensing authority to provide reasons for the refusal of an application for a temporary exemption from the requirement to obtain a short-term lets licence or the grant of such an application subject to conditions. That has the effect of allowing an appeal against these decisions of a licensing authority under paragraph 18 of schedule 1 of the Act.
+
+Schedule 3 of the Order sets out certain mandatory licence conditions which must be included in a short-term let licence. In addition, the licensing authority has discretion under paragraph 5(1A)(b) of schedule 1 of the Act to include other licence conditions.
+
+Schedule 4 of the Order makes consequential amendments to:
+
+- (a) the Antisocial Behaviour etc. (Scotland) Act 2004 in order to amend the landlord registration scheme under that Act and thereby ensure that the Tenancy Deposit Schemes (Scotland) Regulations 2011 ([S.S.I. 2011/176](https://www.legislation.gov.uk/ssi/2011/176)) do not apply to short-term lets as defined by this Order;
+- (b) the Housing (Scotland) Act 2006, in order to clarify that the repairing standard applies to short-term lets which are offered in respect of houses, as defined by this Order;
+- (c) the Private Housing (Tenancies) (Scotland) Act 2016, in order to establish that a short-term let cannot be a private residential tenancy.
+
+A regulatory impact assessment has been prepared in respect of this Order. A copy of it can be obtained from the Scottish Government Housing and Social Justice Directorate, Victoria Quay, Edinburgh, EH6 6QQ. A copy has also been published on the Scottish Government website at www.gov.scot.
+
+## Annotations
+
+[^f00001]: Footnote: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45). The functions conferred upon the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 3A was inserted by section 172(3) of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13). The powers to make this Order are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Order is subject to the affirmative procedure by virtue of section 33(3) of that Act.
+
+[^f00002]: Footnote: Section 44(3) has been modified by paragraph 5 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
+
+[^key-0093e583197de0e8cbc7456b998ebbc6]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-bba44b49f7f3f5e5f036830bd761c5c8]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2022/32/article/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-2d587e41be403e45debc9b33b9eab898]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/ssi/2022/32/article/2/1) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2024/227/article/2/2/a/i)
+
+[^key-680765a13377749bf4eb4829a3e4f176]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2022/32/article/2/1) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/227/article/2/2/a/ii)
+
+[^key-45877c6f93becdf0cb8b5701267209f6]: Textual amendment: Words in [art. 2(4)(d)](https://www.legislation.gov.uk/ssi/2022/32/article/2/4/d) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/227/article/2/2/b)
+
+[^key-08c5454666138b3abe31d27fee374b13]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2022/32/article/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-791d566363165ed600cc76d447181a84]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2022/32/article/4) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-4aff581fa420968a9f10f277477ef381]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/ssi/2022/32/article/4/4) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/227/article/2/3) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2024/227/article/4/1))
+
+[^key-7c1f9198a18b038ed47e91c30113d6e1]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2022/32/article/5) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-a4ab518a7e0cb61cb6ba5216382dea88]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2022/32/article/6) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-5911ccd2082169eed4da1a7e7759aba7]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2022/32/article/7) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00003]: Footnote: Section 7(1) was relevantly amended by section 59 of the Custodial Sentences and Weapons (Scotland) Act [2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17) and section 289G of the Criminal Procedure (Scotland) Act [1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21).
+
+[^key-920cb3953f2b5dc8fbd385377f214b25]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/ssi/2022/32/article/7/1/a) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/a)
+
+[^key-4d94858396bb51c0c7c8aa765d5024fa]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/ssi/2022/32/article/7/2) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/b)
+
+[^f00004]: Footnote: Section 3 was relevantly amended by section 172(2) of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) and section 77(2) of the Air Weapons and Licensing (Scotland) Act [2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10).
+
+[^key-df6947f85a38315b370f4f0891330b6c]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/ssi/2022/32/article/7/3) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/c)
+
+[^f00005]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 123(1) was relevantly amended by section 6(2) of the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17).
+
+[^key-15159380f7592d1350a76e8477f47564]: Textual amendment: Words in [art. 7(7)(b)](https://www.legislation.gov.uk/ssi/2022/32/article/7/7/b) substituted (31.3.2023) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) (Amendment) Order 2023 (S.S.I. 2023/73)](https://www.legislation.gov.uk/ssi/2023/73), [arts. 1](https://www.legislation.gov.uk/ssi/2023/73/article/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2023/73/article/2/2/d)
+
+[^key-7d3ccb10cccb1fdc12e4902043da22d6]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2022/32/article/8) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-4655a913fc37339f65ee0c41f0891c4b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00006]: Footnote: [2005 asp 16](https://www.legislation.gov.uk/asp/2005/16).
+
+[^key-9a2b7ae4a7f9cff0645409b4ea7b25ff]: Textual amendment: [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/e) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/a)
+
+[^key-47af608bab0e2fd77c97d6f5fb2432e2]: Textual amendment: [Sch. 1 para. 1(f)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/f) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/b)
+
+[^key-baa81674f3cbb8ff0aa4ce8f52f1efbd]: Textual amendment: Word in [sch. 1 para. 1(n)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/n) revoked (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/c)
+
+[^key-357cbfce4f52afad25a2509089e01322]: Textual amendment: [Sch. 1 para. 1(p)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/1/p) and word inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2024/227/article/2/4/d)
+
+[^key-c7919368a3545822437e4513fb8c1ecc]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00007]: Footnote: [1984 c. 58](https://www.legislation.gov.uk/ukpga/1984/58).
+
+[^f00008]: Footnote: [1931 c. 44](https://www.legislation.gov.uk/ukpga/1931/44). See section 26 of the Small Landholders and Agricultural Holdings (Scotland) Act 1931. Section 26(2) was substituted by the Agricultural Holdings (Scotland) Act [1949 (c. 75)](https://www.legislation.gov.uk/ukpga/1949/75), Schedule 7.
+
+[^key-abefb083206b3ceefbff8acae6f40521]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00009]: Footnote: [1988 c. 43](https://www.legislation.gov.uk/ukpga/1988/43).
+
+[^f00010]: Footnote: [1993 c. 44](https://www.legislation.gov.uk/ukpga/1993/44). Section 3 was relevantly amended by section 21 of the Crofting Reform etc. Act [2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7) and section 22 of the Crofting Reform (Scotland) Act [2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14).
+
+[^f00011]: Footnote: [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10). Section 11 was relevantly amended by The Water Industry (Scotland) Act 2002 (Consequential Provisions) Order 2003 ([S.S.I. 2003/331](https://www.legislation.gov.uk/ssi/2003/331)) and section 12 of the Housing (Scotland) Act [2914 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), and section 34 was relevantly amended by sections 7 and 9 of the Housing (Scotland) Act 2014.
+
+[^f00012]: Footnote: [2003 asp 11](https://www.legislation.gov.uk/asp/2003/11). Section 5A of the 2003 Act was inserted by section 85(3) of the Land Reform (Scotland) Act [2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18).
+
+[^f00013]: Footnote: [2016 asp 19](https://www.legislation.gov.uk/asp/2016/19).
+
+[^f00014]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
+
+[^f00015]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
+
+[^key-58095581efef6caa069940c5b3645184]: Textual amendment: Words in [sch. 1 para. 3(1)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/3/1) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2024/227/article/2/5/a)
+
+[^key-c6b93dca75aa872b52ffdb21bb7cc02d]: Textual amendment: Words in [sch. 1 para. 3(1)](https://www.legislation.gov.uk/ssi/2022/32/schedule/1/paragraph/3/1) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2024/227/article/2/5/b)
+
+[^f00016]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
+
+[^key-0172b24ff42279219e2e5b9a92aee0c5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-870ec24cf22306e3168f60f41397bdcf]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-64a54029fe963b16c958b088bb790a87]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-611863ffac24bb74c81e02fa3a215ccd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/4) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-a71a7e35f719d9e9c0b32417220cd6ee]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/5) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-320ef595952175b8b72faf30c4526b59]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/6) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-28b0ef33709ca1babde4e64e71d91155]: Textual amendment: Words in [sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/6) substituted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2024/227/article/2/6) (with [art. 4(2)(3)](https://www.legislation.gov.uk/ssi/2024/227/article/4/2/3))
+
+[^key-ce4fc1c722d44eb44e0c6f9cd25d1319]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/7) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-057ee309952c70c6aa12cfe5d7c812b4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/8) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00017]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 123(1) was relevantly amended by section 6(2) of the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17).
+
+[^key-e39f64962577e3619c7f5bc7ca027f18]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/9) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00018]: Footnote: Paragraph 5 was relevantly amended by [S.S.I. 2006/475](https://www.legislation.gov.uk/ssi/2006/475).
+
+[^key-334434b31cd28b001ca3eaa188b791df]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/9A) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2024/227/article/2/7)
+
+[^key-6e06b2c65e788c75e743afda76784133]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/10) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-f2e656829528b27e01dde2c980044c64]: Textual amendment: [Sch. 2 para. 10A](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/10A) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2024/227/article/2/8)
+
+[^key-907993e8bb0ba79faa847feb3005c633]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/11) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-4d5992ec2f38833c1ac658936d931629]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/12) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00019]: Footnote: Paragraphs 13 and 14 were relevantly amended by section 78(3) of the Air Weapons and Licensing (Scotland) Act 2015.
+
+[^key-b2d7a5fde4451821a4fe868c4cc856e9]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/13) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-42bee18d0f426b38b3d1d9cf79d7d9bf]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/14) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-1735cdc944a9ea6c46d4b137c3c89992]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/15) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-33f1660a04ff255bb10de5fd0bc5a8dd]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/16) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-2d2602ce6332e8b09cde4e6e19f8c714]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/paragraph/17) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00020]: Footnote: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309). Regulation 6 is amended by [S.S.I. 2012/208](https://www.legislation.gov.uk/ssi/2012/208) and [S.S.I. 2013/12](https://www.legislation.gov.uk/ssi/2013/12).
+
+[^key-43c129ffee8f105f31f3a798689ca9a2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-3ac8df6da2727dd9efb703691f315a4c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-3bf405ffd7bb25f92d82580db519b94d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-74f610174a62d72319eb4f9e44ca2fe3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/4) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00021]: Footnote: [S.I. 1988/1324](https://www.legislation.gov.uk/uksi/1988/1324).
+
+[^key-067be5b93b45ae094b7232004318032a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/5) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-27cce4879b181308d3b909faca0f134d]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/6) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-880bef59b71cab6f37c21be10834e8ee]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/7) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00022]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1). Section 19B was inserted by section 23(2) of the Housing (Scotland) Act [2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14).
+
+[^key-c60e185d8086452b2f5618b57cdcfd05]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/8) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00023]: Footnote: [S.S.I. 2017/282](https://www.legislation.gov.uk/ssi/2017/282).
+
+[^key-721fabf66722ce7fb94238dda141bd05]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/9) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-1b3bdaa23fce631ee545dc88af8cccb8]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/10) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-6b1aa0ef87debf086cc420264803efbb]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/11) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-60eab010514e1eb368596e046043788f]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/12) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-b63cf1674f412d3a1f85ba8f2fb37b16]: Textual amendment: [Sch. 3 para. 12(g)](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/12/g)[(h)](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/12/h) inserted (30.8.2024) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Amendment Order 2024 (S.S.I. 2024/227)](https://www.legislation.gov.uk/ssi/2024/227), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/227/article/1/1), [2(9)](https://www.legislation.gov.uk/ssi/2024/227/article/2/9)
+
+[^key-3d568295f8478794c22c94ddcdb2e0a4]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/13) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00024]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 26B was inserted by section 17 of the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13).
+
+[^key-de8c9f0c9b188c80d95d77912f724f3e]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/14) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00025]: Footnote: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309).
+
+[^key-5e6b3a2c7d6870f872d1ecaea399da15]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/15) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-f3afb1a2666f4aeba1f516941ee7b087]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/16) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-c824d4f3ae2e06e9b6084989676fda79]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/17) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^key-a3c2007288963467c8c259bfb1179a68]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ssi/2022/32/schedule/3/paragraph/18) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00026]: Footnote: [S.S.I. 2008/309](https://www.legislation.gov.uk/ssi/2008/309). Regulation 6 is amended by [S.S.I. 2012/208](https://www.legislation.gov.uk/ssi/2012/208) and [S.S.I. 2013/12](https://www.legislation.gov.uk/ssi/2013/12).
+
+[^f00027]: Footnote: [S.I. 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
+
+[^f00028]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
+
+[^key-46585afdd3fc7ab28192a46ff5790e49]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/1) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00029]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8). Section 83 was relevantly amended by [S.I. 2009/33](https://www.legislation.gov.uk/uksi/2009/33).
+
+[^key-18d542f8d8133ae36401f1a959aa8deb]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/2) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00030]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
+
+[^key-37a9a5423144afbc1d7d9cc351e254f1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2022/32/schedule/4/paragraph/3) in force at 1.3.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1)
+
+[^f00031]: Footnote: [2016 asp 19](https://www.legislation.gov.uk/asp/2016/19).

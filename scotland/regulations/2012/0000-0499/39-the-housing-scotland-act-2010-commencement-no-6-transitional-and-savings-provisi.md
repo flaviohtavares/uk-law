@@ -1,0 +1,473 @@
+---
+title: The Housing (Scotland) Act 2010 (Commencement No. 6, Transitional and Savings Provisions) Order 2012
+id: ssi/2012/39
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-02-09'
+text_date: '2012-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2012/39
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2012/39/pdfs/ssien_20120039_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/39/pdfs/ssi_20120039_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/39/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Housing (Scotland) Act 2010 (Commencement No. 6, Transitional and Savings Provisions) Order 2012
+
+> Text as at 2012-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2012 No. 39 (C. 8)
+
+Housing
+
+The Housing (Scotland) Act 2010 (Commencement No. 6, Transitional and Savings Provisions) Order 2012
+
+Made
+
+9th February 2012
+
+Laid before the Scottish Parliament
+
+13th February 2012
+
+Coming into force
+
+1st April 2012
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 161(2)(a) and (c) and 166(2) of the Housing (Scotland) Act 2010[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation[^key-25eaa7f5f77a023cad783230b76a73f4]
+
+(1) This Order may be cited as the Housing (Scotland) Act 2010 (Commencement No. 6, Transitional and Savings Provisions) Order 2012 and comes into force on 1st April 2012.
+
+(2) In this Order “the Act” means the Housing (Scotland) Act 2010.
+
+## 2. Appointed day[^key-32fbfa13f05dd336c12444548ff2ccff]
+
+(1) Subject to paragraph (2), 1st April 2012 is the day appointed for the provisions of the Act specified in column 1 of Schedule 1 to come into force, in so far as not already in force.
+
+(2) Where a purpose is specified in column 3 of Schedule 1, a provision specified in column 1 comes into force in accordance with paragraph (1) only for that purpose.
+
+## 3. Transitional and savings provisions[^key-fb50d1f1eeb3122547c26145abda594a]
+
+Schedule 2 makes transitional and savings provisions in connection with the provisions of the Act commenced in this Order.
+
+KEITH BROWN
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+9th February 2012
+
+## SCHEDULE 1[^key-97f7b4bd871e855abbf0836ecd315170]
+
+Article 2
+
+| *Column 1*<br>*Provisions of the Act* | *Column 2*<br>*Subject matter* | *Column 3*<br>*Purpose* |
+| --- | --- | --- |
+| Part 1 (sections 1 to 19) | The Scottish Housing Regulator |  |
+| Part 2 (sections 20 to 30) | Registered social landlords |  |
+| Part 3 (sections 31 to 41) | Performance of social landlords |  |
+| Part 4 (sections 42 to 51) | Inquiries and information |  |
+| Part 5 (sections 52 to 67) | Regulatory intervention |  |
+| Part 6 (sections 68 to 72) | Registered social landlords: accounts and audit |  |
+| Part 7 (sections 73 to 91) | Registered social landlords: insolvency etc. |  |
+| Part 8 (sections 92 to 106) | Registered social landlords: organisational change etc. |  |
+| Part 9 (sections 107 to 112) | Disposal of land or assets by registered social landlords | Section 110 is commenced only for the purpose of applying to a proposed disposal of land other than a disposal by way of granting security over the land or any interest in it |
+| Part 10 (sections 113 to 124) | Special procedure for disposals and restructuring resulting in change of landlord |  |
+| Part 11 (sections 125 to 136) | Change of landlord: secure tenants |  |
+| Part 12 (section 137) | Charitable registered social landlords |  |
+| Part 17 (sections 159 to 167) | Supplementary and final provisions |  |
+| Schedule 1 | Transitional provisions |  |
+| Schedule 2 | Modifications of enactments |  |
+
+## SCHEDULE 2 — Transitional and savings provisions
+
+Article 3
+
+### 1. Interpretation[^key-1fa8dba6fb4124cc9bd199546827e229]
+
+In this Schedule—
+
+- “the 2001 Act” means the Housing (Scotland) Act 2001[^f00002];
+- “the 2010 Act” means the Housing (Scotland) Act 2010; and
+- “the appointed day” means 1st April 2012.
+
+### 2. Registration of social landlords[^key-82c4d24f33f7578f235a536b5041dc91]
+
+(1) Any application for registration under section 59 of the 2001 Act which is made, but not determined, before the appointed day is, on and after that day, to be treated as an application to the Regulator for inclusion in the register kept under section 20 of the 2010 Act.
+
+(2) The Regulator, before determining the application, may require the applicant to provide such further information as the Regulator may request.
+
+### 3.[^key-9accb368229c71bccee284f99b3c41af]
+
+Any request to the Scottish Ministers under section 60(4) of the 2001 Act which is made, but not determined, before the appointed day is, on and after that day, to be treated as a request made to the Regulator under section 28(2) of the 2010 Act.
+
+### 4.[^key-4223ea8907c74dd2746eac2780a4c020]
+
+(1) This paragraph applies to any decision which, immediately before the appointed day, is appealable under section 62 of the 2001 Act.
+
+(2) Section 62 of the 2001 Act is to continue to have effect in respect of an appeal against a decision to which this paragraph applies which is brought, but not determined, before the appointed day except that, on and after that day—
+
+- (a) the decision appealed against is to be treated as having been made—
+  - (i) by the Regulator rather than by the Scottish Ministers; and
+  - (ii) in relation to the register kept under section 20 of the 2010 Act rather than in relation to the register maintained under section 57 of the 2001 Act; and
+- (b) anything done by or in relation to the Scottish Ministers in respect of the appeal before the appointed day is to be regarded as having been done by or in relation to the Regulator.
+
+(3) Where an appeal against a decision to which this paragraph applies has not been brought before the appointed day—
+
+- (a) the decision is, on and after that day, to be to be treated as having been made—
+  - (i) by the Regulator rather than by the Scottish Ministers; and
+  - (ii) in relation to the register kept under section 20 of the 2010 Act rather than in relation to the register maintained under section 57 of the 2001 Act;
+- (b) the body concerned is accordingly entitled to appeal against the decision under section 29(1) of the 2010 Act; and
+- (c) where an appeal is subsequently made against a decision to remove the body from the register, section 29(3) of the 2010 Act applies.
+
+(4) Sub-paragraph (3) does not allow any appeal to be made which could not have been made under section 62 of the 2001 Act had that section continued to have effect in respect of the decision concerned.
+
+### 5. Inspections and inquiries[^key-01efd4d685cc67afd36ff6ec7bdf5fb7]
+
+Where an inspection under section 69 or 72 of the 2001 Act has been, or is being, carried out before the appointed day, on and after that day—
+
+- (a) where the inspection is not completed before the appointed day, section 69 or, as the case may be, 72 of the 2001 Act is to continue to apply in relation to the inspection except that anything done by or in relation to the Scottish Ministers before the appointed day in relation to the inspection (including the appointment of the inspector) is to be regarded as having been done by or in relation to the Regulator; and
+- (b) section 70 or, as the case may be, 73 of the 2001 Act is (in so far as not complied with before the appointed day) to continue to apply in relation to the inspection except that the reference in the relevant section to the Scottish Ministers is to be treated as a reference to the Regulator.
+
+### 6.[^key-340b9c76cc469243942e94847ec23106]
+
+(1) Any inquiry or audit which has been carried out before the appointed day under paragraph 16 or 17 of schedule 7 to the 2001 Act is, on and after that day, to be treated as inquiries which have been made under section 42 of the 2010 Act.
+
+(2) Where any such inquiry or audit is being carried out immediately before the appointed day, on and after that day—
+
+- (a) the inquiry or audit may be continued as inquiries made under section 42 of the 2010 Act;
+- (b) paragraph 16 of schedule 7 to the 2001 Act is to continue to have effect in respect of any requirement made under that paragraph before the appointed day (except that the requirement is to be treated as having been made by the Regulator or a person appointed by it when making inquiries under section 42 of the 2010 Act); and
+- (c) anything else done by or in relation to the Scottish Ministers or the person carrying out the inquiry or audit before the appointed day is to be treated as having been done by or in relation to the Regulator or a person appointed by it when making inquiries under section 42 of the 2010 Act.
+
+### 7. Powers to obtain information[^key-32b1ecb92a4025b0fe7a860074855aa8]
+
+Any notice served by the Scottish Ministers under section 77 of the 2001 Act before the appointed day is, on and after that day, to be treated as requiring information or documents to be provided or produced to the Regulator rather than to the Scottish Ministers or a person authorised by them.
+
+### 8. Regulatory interventions[^key-a614080d1df48acfd47b6fb8a763580f]
+
+Any appointment or requirement made, and any direction given, by the Scottish Ministers under section 71 of the 2001 Act before the appointed day is, on and after that day, to be treated as having been made or given by the Regulator under section 58(2) or, as the case may be, section 59(4) of the 2010 Act.
+
+### 9.[^key-ca05e768017bb94fdac3b65759c3639c]
+
+(1) Where a person is removed under paragraph 4(1) of schedule 7 to the 2001 Act before the appointed day, on and after that day—
+
+- (a) paragraph 4(5) of schedule 7 to the 2001 Act is to continue to have effect in relation to the removal; and
+- (b) the removal, and anything done by or in relation to the Scottish Ministers in relation to the removal before the appointed day (including anything done in respect of an appeal brought, but not determined, before that day), is to be treated as having been done by or in relation to the Regulator.
+
+(2) Where, before the appointed day, the Scottish Ministers have given a notice under paragraph 4(3) of schedule 7 to the 2001 Act but have not yet removed the person to whom the notice relates, the notice is, on and after that day, to be treated as a notice given by the Regulator under section 60(2) of the 2010 Act of its intention to remove the person under section 60(1) of the 2010 Act.
+
+### 10.[^key-530d40380c9d5e5ec9ee3bcf019751a0]
+
+(1) This paragraph applies to any appointment made by the Scottish Ministers under paragraph 5 or 6 of schedule 7 to the 2001 Act before the appointed day.
+
+(2) On and after that day—
+
+- (a) an appointment to which this paragraph applies is to be treated as having been made by the Regulator under section 65(1) of the 2010 Act, but
+- (b) the Regulator is not entitled to make a requirement under section 65(3) of the 2010 Act in relation to the person appointed.
+
+### 11.[^key-6de9bd66c3a79ea0fe2d1f9a58714c03]
+
+(1) Any person removed by the Scottish Ministers under paragraph 18(1)(a) of schedule 7 to the 2001 Act before the appointed day is, on and after the appointed day, to be treated as having been removed by the Regulator under section 62(1) of the 2010 Act.
+
+(2) Where, before the appointed day, the Scottish Ministers have given a notice under paragraph 18(3) of schedule 7 to the 2001 Act but have not yet removed the person concerned, the notice is, on and after that day, to be treated as a notice given by the Regulator under section 62(2) of the 2010 Act of its intention to remove the person under section 62(1) of the 2010 Act.
+
+(3) Paragraph 18(5) of schedule 7 to the 2001 Act is to continue to have effect in respect of an appeal against a removal which is brought, but not determined, before the appointed day except that, on and after that day, anything done by or in relation to the Scottish Ministers in respect of the appeal before the appointed day is to be treated as having been done by or in relation to the Regulator.
+
+### 12.[^key-ee8d0ac58d3487036d0d7d92e92fc946]
+
+(1) Any suspension imposed under paragraph 18(1)(b) of schedule 7 to the 2001 Act which has effect immediately before the appointed day is, on and after that day, to be treated as a suspension imposed by the Regulator under section 61(1) of the 2010 Act.
+
+(2) Where a suspension is so treated—
+
+- (a) the day referred to in section 61(3)(b) of the 2010 Act is to be regarded as the day on which the suspension would have ceased to have effect under paragraph 18(1)(b) of schedule 7 to the 2001 Act; and
+- (b) any directions given by the Scottish Ministers under paragraph 18(6) of schedule 7 to the 2001 Act in relation to the suspension before the appointed day are, on and after that day, to be treated as having been given by the Regulator under section 61(4) of the 2010 Act.
+
+(3) Paragraph 18(5) of schedule 7 to the 2001 Act is to continue to have effect in respect of an appeal against a suspension which is brought, but not determined, before the appointed day except that, on and after that day, anything done by or in relation to the Scottish Ministers in respect of the appeal before the appointed day is to be treated as having been done by or in relation to the Regulator.
+
+### 13.[^key-f6aa312238e2ef220970150f4d07ca6d]
+
+Any direction not to act without the approval of the Scottish Ministers which is given under paragraph 18(1)(c) of schedule 7 to the 2001 Act before the appointed day is, on and after that day, to be treated as a direction not to so act without the Regulator’s consent given under section 66(2)(b) of the 2010 Act.
+
+### 14.[^key-5c1b94ae71805e6920bc931323d012fc]
+
+Any restriction not to act without the approval of the Scottish Ministers which is made under paragraph 18(1)(d) of schedule 7 to the 2001 Act before the appointed day is, on and after that day, to be treated as a direction not to so act without the Regulator’s consent given under section 66(2)(a) of the 2010 Act.
+
+### 15.[^key-9e133f36da1c9dc409d57f8ef1fd16b6]
+
+Where the Scottish Ministers have given a direction under paragraph 19(1) of schedule 7 to the 2001 Act before the appointed day, on and after that day—
+
+- (a) the direction is to continue to have effect (but is to be treated as having been given by the Regulator rather than by the Scottish Ministers);
+- (b) paragraph 19(3) and (4) of schedule 7 to the 2001 Act is to continue to have effect in relation to the direction (except that references in sub-paragraph (4) to the Scottish Ministers are to be treated as references to the Regulator); and
+- (c) anything done by or in relation to the Scottish Ministers before the appointed day in relation to the direction is to be regarded as having been done by or in relation to the Regulator.
+
+### 16. Accounts and audit[^key-b4cfdfa6f80673d649121c8bddc78c6d]
+
+(1) Sections 69 to 71 of the 2010 Act do not to apply in relation to any accounting period of a registered social landlord beginning before the appointed day.
+
+(2) Paragraphs 13 to 15 of schedule 7 to the 2001 Act (and any order made under paragraph 13) are, on and after the appointed day, to continue to apply in relation to any accounting period of a registered social landlord which begins before that day except that—
+
+- (a) the saving of paragraph 13(1) does not allow the Scottish Ministers to make or revoke any order under that paragraph after the appointed day; and
+- (b) the references in paragraphs 13(4) and 15(2) to the Scottish Ministers are to be treated as references to the Regulator.
+
+### 17. Code of good practice[^key-22b95d71b70fd0f03a85398a96730337]
+
+Any statement published by the Scottish Ministers under section 80 of the 2001 Act before the appointed day is, on and after that day, to continue to have effect until 30th September 2012.
+
+### 18. Insolvency etc.[^key-6c90cfda81adce35e777651b086e2202]
+
+Where a moratorium is in place under paragraph 4 of schedule 8 to the 2001 Act immediately before the appointed day, on and after the appointed day—
+
+- (a) the moratorium is to be treated as a moratorium under section 75(1) of the 2010 Act which is deemed for the purposes of sections 76(1) and 78(3)(a) of that Act to have begun when the action mentioned in paragraph 3 of schedule 8 to the 2001 Act was taken;
+- (b) the action mentioned in paragraph 3 of schedule 8 to the 2001 Act to which the moratorium relates is to be treated as the step in respect of which the moratorium began (and the person who took that action is to be treated as the person who took that step);
+- (c) any extension of the moratorium under paragraph 5(3) of schedule 8 to the 2001 Act made before the appointed day is to be treated as having been made under section 76(2) of the 2010 Act;
+- (d) any consent given by the Scottish Ministers under paragraph 4(2) of schedule 8 to the 2001 Act in relation to the moratorium before the appointed day is to be treated as having been given by the Regulator under section 78 of the 2010 Act;
+- (e) any proposals made by the Scottish Ministers under paragraph 6(1) of schedule 8 to the 2001 Act in relation to the moratorium before the appointed day are to be treated as having been made by the Regulator under section 80 of the 2010 Act;
+- (f) where, before the appointed day, the Scottish Ministers have consulted under paragraph 6(2) of schedule 8[^key-df3c27cb6f90c565cb583f09e5843226] to the 2001 Act but have not yet made the proposals concerned, the consultation is to be regarded as having been undertaken by the Regulator under section 80(2) of the 2010 Act in relation to its power to make proposals under section 80(1) of the 2010 Act;
+- (g) where, immediately before the appointed day, a copy of proposals has been served by the Scottish Ministers on secured creditors in accordance with paragraph 6(5)(b) of schedule 8 to the 2001 Act but those proposals are not yet binding under paragraph 7(1) of schedule 8 to the 2001 Act, the Regulator is to be treated as having submitted the proposals to those secured creditors under section 81 of the 2010 Act;
+- (h) any proposals which are, immediately before the appointed day, binding under paragraph 7(1) of schedule 8 to the 2001 Act are to be treated for the purposes of sections 83 to 90 of the 2010 Act as having been agreed under section 82(1) of the 2010 Act (with any amendments made before the appointed day under paragraph 7(5) of schedule 8 to the 2010 Act being regarded as having been modifications made under section 83 of the 2010 Act);
+- (i) where, before the appointed day, the Scottish Ministers have not yet complied with paragraph 7(4) of schedule 8 to the 2001 Act in respect of proposals or amendments to proposals, sections 82(3) and 83(2) of the 2010 Act apply in relation to them as if they were proposals agreed under section 82(1) or, as the case may be, modified under section 83(1) of the 2010 Act;
+- (j) any manager appointed by the Scottish Ministers under paragraph 8(1) or (5) of schedule 8 to the 2001 Act before the appointed day is to be treated as having been appointed by the Regulator under section 85(1) of the 2010 Act;
+- (k) any directions given by the Scottish Ministers under paragraph 8(3) of schedule 8 to the 2001 Act before the appointed day are (in so far as not superseded by a direction of the Court of Session) to be treated as directions given by the Regulator under section 85(2) of the 2010 Act;
+- (l) any directions given by the Court of Session in pursuance of paragraph 8(4) of schedule 8 to the 2001 Act before the appointed day are to be treated as having been given in pursuance of section 85(3) of the 2010 Act (and any application for directions under said paragraph 8(4) which is made but not determined before the appointed day is to be treated as an application for directions under said section 85(3));
+- (m) paragraph 12 of schedule 8 to the 2001 Act continues to have effect in respect of any application to the Court of Session under that paragraph which is made but not determined before the appointed day (except that anything done by or in relation to the Scottish Ministers in respect of such an application, including the making of such an application, before the appointed day is to be regarded as having been done by or in relation to the Regulator).
+
+### 19. Organisational changes: notices and consents[^key-232771942103fe90cec56d44cd0027ab]
+
+(1) Section 92 of the 2010 Act does not apply in relation to a change made before the appointed day in respect of which notice has been sent to the Scottish Ministers in accordance with paragraph 7(2) or 8(2) of schedule 7 to the 2001 Act.
+
+(2) Where, before the appointed day, the Scottish Ministers give consent to an alteration or amendment under paragraph 7(3) or 8(3) of schedule 7 to the 2001 Act—
+
+- (a) sections 93 to 95 of the 2010 Act do not apply in relation to the alteration or amendment, but
+- (b) where relevant, paragraph 7(4) of schedule 7 to the 2001 Act continues to apply in relation to the consent.
+
+### 20.[^key-9e48c4e79e99a8d43c98c7c0a5086e28]
+
+(1) Sub-paragraph (2) applies where a registered social landlord which is a registered society has, before the appointed day—
+
+- (a) applied to the Scottish Ministers for consent for the purposes of paragraph 9 of schedule 7 to the 2001 Act; or
+- (b) taken steps to consult tenants for the purposes of sub-paragraph (6) of that paragraph.
+
+(2) Where this sub-paragraph applies, on and after the appointed day—
+
+- (a) sections 96 to 99 of the 2010 Act do not apply in relation to the matter to which the application or consultation relates but paragraph 9 of schedule 7 to the 2001 Act is to continue to apply in relation to that matter with the following modifications—
+  - (i) references in that paragraph to the Scottish Ministers are to be treated as references to the Regulator;
+  - (ii) the reference in paragraph 9(3) to being deemed to be registered as a social landlord is to be treated as a reference to being included in the register kept under section 20 of the 2010 Act (without prejudice to the Regulator’s power to remove the body under section 27 or 28 of the 2010 Act); and
+- (b) anything done by or in relation to the Scottish Ministers before the appointed day in relation to the matter (including any consent given by them) is to be regarded as having been done by or in relation to the Regulator.
+
+(3) Sub-paragraph (2) ceases to have effect on 1st October 2012 if—
+
+- (a) the Scottish Ministers had not given consent in relation to the matter before the appointed day; and
+- (b) the Regulator is, on 1st October 2012, not satisfied that the registered social landlord has consulted its tenants for the purposes of paragraph 9(6) of schedule 7 to the 2001 Act.
+
+### 21.[^key-52b0aff85ca88a0ab902c3a53c50b771]
+
+(1) Sub-paragraph (2) applies where a registered social landlord which is a registered company has, before the appointed day—
+
+- (a) applied to the Scottish Ministers for consent for the purposes of paragraph 10 of schedule 7 to the 2001 Act; or
+- (b) taken steps to consult tenants for the purposes of sub-paragraph (7) of that paragraph.
+
+(2) Where this sub-paragraph applies, on and after the appointed day—
+
+- (a) sections 100 to 104 of the 2010 Act do not apply in relation to the matter to which the application or consultation relates but paragraph 10 of schedule 7 to the 2001 Act is to continue to apply in relation to that matter with the following modifications—
+  - (i) references in that paragraph to the Scottish Ministers are to be treated as references to the Regulator;
+  - (ii) the reference in paragraph 10(9) to being deemed to be registered as a social landlord is to be treated as a reference to being included in the register kept under section 20 of the 2010 Act (without prejudice to the Regulator’s power to removed the body under section 27 or 28 of the 2010 Act); and
+- (b) anything done by or in relation to the Scottish Ministers before the appointed day in relation to the matter (including any consent given by them) is to be regarded as having been done by or in relation to the Regulator.
+
+(3) Sub-paragraph (2) ceases to have effect on 1st October 2012 if—
+
+- (a) the Scottish Ministers had not given consent in relation to the matter before the appointed day; and
+- (b) the Regulator is, on 1st October 2012, not satisfied that the registered social landlord has consulted its tenants for the purposes of paragraph 10(7) of schedule 7 to the 2001 Act.
+
+### 22.[^key-eb9a1e652fd6914bd2864dae7602373a]
+
+Where the Scottish Ministers have presented a petition under paragraph 11 of schedule 7 to the 2001 Act before the appointed day, on and after that day—
+
+- (a) the petition is to be treated as having been presented by the Regulator rather than by the Scottish Ministers; and
+- (b) anything done by or in relation to the Scottish Ministers before the appointed day in relation to the petition is to be regarded as having been done by or in relation to the Regulator.
+
+### 23.[^key-674c7bdeb2c9daa57b9fa28f9d500174]
+
+(1) This paragraph applies to any direction given by the Scottish Ministers under paragraph 12(2) of schedule 7 to the 2001 Act before the appointed day.
+
+(2) On and after the appointed day—
+
+- (a) a direction to which this paragraph applies is to be treated as having been given by the Regulator under section 106(2) of the 2010 Act; and
+- (b) anything done by or in relation to the Scottish Ministers before the appointed day in relation to the direction is to be regarded as having been done by or in relation to the Regulator.
+
+(3) Where, before the appointed day, the Scottish Ministers have consulted tenants under paragraph 12(5) of schedule 7 to the 2001 Act but have not yet given a direction in relation to that transfer under paragraph 12(2) of that schedule, the consultation is, on and after that day, to be regarded as having been undertaken by the Regulator under section 106(3) of the 2010 Act in relation to its power to make a direction under section 106(2) of the 2010 Act.
+
+### 24. Consent: disposal of land[^key-8148895b24737ab81cbd7f3856ebc978]
+
+Any consent which is given by the Scottish Ministers under section 66(1) of the 2001 Act before the appointed day is, on and after that day, to be treated as having been given by the Regulator under Part 9 of the 2010 Act.
+
+### 25.[^key-b651b1c7d1d4797c45dcac09f56a2681]
+
+(1) This paragraph applies where—
+
+- (a) an application for consent under section 66(1) of the 2001 Act is made, but not determined, before the appointed day; and
+- (b) the proposed disposal is not one to which schedule 9 of the 2001 Act applied.
+
+(2) On and after the appointed day—
+
+- (a) the application is to be treated as an application for consent under Part 9 of the 2010 Act; and
+- (b) anything done before the appointed day in pursuance of section 68(2) of the 2001 Act is to be treated as having been done in pursuance of section 110(2) of the 2010 Act (except that anything so done by or in relation to the Scottish Ministers is to be regarded as having been done by or in relation to the Regulator).
+
+### 26.[^key-989ad108259ce8d24ce1349d4855fd23]
+
+(1) Sub-paragraph (2) applies in relation to a disposal by a registered social landlord if, before the appointed day—
+
+- (a) schedule 9 to the 2001 Act applied to the disposal; and
+- (b) the registered social landlord has—
+  - (i) served a notice under paragraph 3(2) of schedule 9 to the 2001 Act in relation to the disposal; or
+  - (ii) given the Scottish Ministers notice that it proposes to make the disposal (by applying for consent under section 66(1) of the 2001 Act or otherwise).
+
+(2) Where this sub-paragraph applies, on and after the appointed day—
+
+- (a) section 110 and Part 10 of the 2010 Act do not apply to the disposal but section 76 and schedule 9 of the 2001 Act are to continue to apply to the disposal with the following modifications—
+  - (i) references in those provisions to the Scottish Ministers are to be treated as references to the Regulator; and
+  - (ii) references in those provisions to consent under section 66 of the 2001 Act are to be treated as references to consent under Part 9 of the 2010 Act; and
+- (b) anything done by or in relation to the Scottish Ministers before the appointed day in relation to the disposal is to be regarded as having been so done by or in relation to the Regulator.
+
+(3) Sub-paragraph (2) ceases to have effect in relation to a disposal to which it would otherwise apply if the registered social landlord which proposes to make the disposal does not provide the certification required under paragraph 2(1) of schedule 9 of the 2001 Act before 1st October 2012.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order brings into force various provisions of the Housing (Scotland) Act 2010 (“the 2010 Act”).
+
+Article 2(1) and Schedule 1 appoint 1st April 2012 for the coming into force of those provisions of Parts 1 to 12, 17 and schedules 1 and 2 of the 2010 Act which are not already in force. Parts 1 and 2 confer powers and duties on the Scottish Housing Regulator and provide for the establishment and maintenance of a register of social landlords. Parts 3-12 make provision relating to the performance of social landlords and regulatory intervention in their activities, including restructuring and disposal of land. Part 17 makes supplementary provision.
+
+Schedule 1 to the 2010 Act provides for the transfer of staff and property from the Executive Agency of the Scottish Ministers known as the Scottish Housing Regulator to a body corporate of the same name. Schedule 2 to that Act makes various amendments and repeals as a consequence of the provisions of the Act commenced in this Order. These include amendment and repeal of the Scottish Ministers’ powers and duties to regulate social housing in the Housing (Scotland) Act [2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10) (“the 2001 Act”).
+
+The provisions specified in Schedule 1 to this Order are commenced for all purposes, with the exception of section 110 of the 2010 Act. Section 110 requires a registered social landlord proposing to make a disposal of land in certain circumstances to consult the tenants of any houses included in the proposed disposal. Section 110 is commenced on 1st April 2012 only for the purpose of applying to a proposed disposal of land other than a disposal by way of granting security over the land or any interest in it.
+
+Article 3 and Schedule 2 to this Order make transitional and savings provisions in connection with the provisions of the 2010 Act commenced in this Order.
+
+Paragraphs 2 to 4 of Schedule 2 provide for any undetermined applications for registration as a social landlord (or for removal from the register) made under the 2001 Act before the appointed day to be determined under the 2010 Act. The appointed day is 1st April 2012. These paragraphs also provide for the continuation of any appeal against a decision of the Scottish Ministers relating to registration or removal under the 2001 Act.
+
+Paragraph 5 saves certain sections of the 2001 Act in relation to inspections carried out but not completed before the appointed day, and transfers the functions of the Scottish Ministers under those sections to the Regulator. Paragraph 6 provides for an inquiry or audit carried out, or being carried out, under the 2001 Act before the appointed day to be treated as inquiries made under the 2010 Act. Paragraph 7 provides for information or documents required by the Scottish Ministers under the 2001 Act to be provided to the Regulator.
+
+Paragraphs 8 to 14 make provision for certain regulatory interventions by the Scottish Ministers under the 2001 Act before the appointed day to be treated as having been made by the Regulator under the 2010 Act, and, where applicable, to be continued or concluded under that Act. By virtue of paragraphs 9(1), 11(3) and 12(3), any appeal against a decision of the Scottish Ministers to remove or suspend an officer of a registered social landlord is continued under the 2001 Act, with any functions of the Scottish Ministers relating to such an appeal being transferred to the Regulator. Paragraph 15 saves the effect of any direction given by the Scottish Ministers before the appointed day to transfer a registered social landlord’s land under paragraph 19 of schedule 7 to the 2001 Act. The Scottish Ministers’ functions in relation to such a direction are transferred to the Regulator.
+
+Paragraph 16 saves the 2001 Act requirements on registered social landlord accounts and audit in relation to any accounting period which begins before the appointed day. Paragraph 17 provides that the code of good practice published by the Scottish Ministers under section 80 of the 2001 Act is to continue in effect until 30th September 2012.
+
+Paragraph 18 makes transitional provision relating to the insolvency of a registered social landlord. Sub-paragraph (a) provides for a moratorium in place under schedule 8 of the 2001 Act before the appointed day to be treated as a moratorium under the 2010 Act. By virtue of sub-paragraphs (c) to (k), steps taken by the Scottish Ministers under schedule 8 of the 2001 Act before the appointed day, including agreement of proposals as to the future ownership and management of a registered social landlord’s land and the appointment of a manager to implement agreed proposals, are to be treated as steps taken by the Regulator under the 2010 Act. Sub‑paragraph (m) provides for paragraph 12 of schedule 8 to the 2001 Act to continue to have effect in respect of any application to the Court of Session made but not determined before the appointed day. The functions of the Scottish Ministers in relation to such an application are transferred to the Regulator.
+
+Paragraph 19 has the effect that where a registered social landlord has notified, or received the Scottish Ministers’ consent to, a change of its name, office or constitution under the 2001 Act, it is not required to notify or obtain the consent of the Regulator under the equivalent provisions of the 2010 Act.
+
+Paragraph 9 of schedule 7 to the 2001 Act requires the Scottish Ministers’ consent to be obtained to the restructuring, winding up or dissolution of a registered social landlord which is an industrial and provident society. Paragraph 20 of Schedule 2 saves that paragraph in cases where a registered social landlord has, before the appointed day, applied for consent or taken steps to consult tenants for the purpose of obtaining consent, provided that the Regulator is satisfied by 1st October 2012 that tenant consultation has taken place. Paragraph 21 of Schedule 2 makes equivalent provision in respect of paragraph 10 of schedule 7 to the 2001 Act, which provides for consent to be obtained to the restructuring or winding up of a registered social landlord which is a registered company.
+
+Paragraph 22 provides for the continuation by the Regulator of any petition for winding up presented by the Scottish Ministers under paragraph 11 of schedule 7 to the 2001 Act before the appointed day. Paragraph 23 provides for any direction given by the Scottish Ministers before the appointed day to transfer a registered social landlord’s land on the dissolution or winding up of the landlord to be treated as a direction given by the Regulator under the 2010 Act.
+
+Paragraph 24 saves the effect of any consent given under section 66(1) of the 2001 Act before the appointed day by the Scottish Ministers to the disposal of land by a registered social landlord. Paragraph 25 provides for any undetermined applications for such consent made before the appointed day to be determined under the equivalent 2010 Act provisions, other than where schedule 9 to the 2001 Act would have applied to the proposed disposal (that is, where the proposed disposal would result in a change in landlord for tenants of the registered social landlord proposing to make the disposal). Paragraph 26 provides that in cases where schedule 9 would have applied, where an RSL has begun tenant consultation before the appointed day or given the Scottish Ministers notice before the appointed day that it proposes to make the disposal, the relevant provisions of the 2001 Act continue to apply, provided that the registered social landlord certifies before 1st October 2012 that the requirements as to tenant consultation have been carried out.
+
+The 2010 Act received Royal Assent on 9th December 2010. Sections 161, 163 and 165 to 167 came into force on Royal Assent.
+
+On the coming into force of this Order, the following provisions of the 2010 Act will remain uncommenced:
+
+- (a) section 110 (partially) (tenant consultation: other disposals);
+- (b) sections 145 to 147 (duties to collect and publish information);
+- (c) section 153 (partially) (tenant protection: repossession orders);
+- (d) section 155 (partially) (Scottish secure tenancy: rent arrears pre-action requirements); and
+- (e) section 158 (partially) (housing support).
+
+NOTE AS TO EARLIER COMMENCEMENT ORDERS
+
+(This note is not part of the Order)
+
+| *Provision* | *Date of Commencement* | *S.S.I. No.* |
+| --- | --- | --- |
+| Section 143 (partially) | 3rd January 2011 | [S.S.I. 2010/444](https://www.legislation.gov.uk/ssi/2010/444) |
+| Sections 138 to 141, 143 (in so far as not already in force), 144*,* 148 to 151, 152(1) and (2), 154, 156 and 164, and schedule 2, paragraph 2 | 1st March 2011 | [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96) |
+| Section 162 (partially) | 1st March 2011 | [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96) |
+| Section 153(a) (partially) | 20th March 2011 | [S.S.I. 2011/181](https://www.legislation.gov.uk/ssi/2011/181) |
+| Sections 1, 2, 3(2), 5(1)(a), (2) and (3), 6(2), 7 to 12, 15 to 17, 18(1) and (2), 19, 31 to 33, 39, 46(2) and 47(2), and schedule 2, paragraphs 6, 8, 9 and 10 | 1st April 2011 | [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96) |
+| Partially, sections 4, 24 to 26, 28, 35, 36, 50, 51, 54, 68, 73(3), 108(3), 109(4) and 162 | 1st April 2011 | [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96) |
+| Section 152(3) | 4th April 2011 | [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96) |
+| Section 142 | 30th June 2011 | [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96) |
+| Section 157 and section 158 (partially) | 7th October 2011 | [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339) |
+| Partially, sections 153 and 155 | 22nd February 2012 | [S.S.I. 2012/19](https://www.legislation.gov.uk/ssi/2012/19) |
+
+## Annotations
+
+[^f00001]: Footnote: [2010 asp 17](https://www.legislation.gov.uk/asp/2010/17).
+
+[^key-25eaa7f5f77a023cad783230b76a73f4]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2012/39/article/1) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-32fbfa13f05dd336c12444548ff2ccff]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-fb50d1f1eeb3122547c26145abda594a]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2012/39/article/3) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-97f7b4bd871e855abbf0836ecd315170]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-1fa8dba6fb4124cc9bd199546827e229]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/1) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^f00002]: Footnote: [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10).
+
+[^key-82c4d24f33f7578f235a536b5041dc91]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/2) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-9accb368229c71bccee284f99b3c41af]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/3) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-4223ea8907c74dd2746eac2780a4c020]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/4) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-01efd4d685cc67afd36ff6ec7bdf5fb7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/5) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-340b9c76cc469243942e94847ec23106]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/6) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-32b1ecb92a4025b0fe7a860074855aa8]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/7) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-a614080d1df48acfd47b6fb8a763580f]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/8) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-ca05e768017bb94fdac3b65759c3639c]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/9) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-530d40380c9d5e5ec9ee3bcf019751a0]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/10) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-6de9bd66c3a79ea0fe2d1f9a58714c03]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/11) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-ee8d0ac58d3487036d0d7d92e92fc946]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/12) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-f6aa312238e2ef220970150f4d07ca6d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/13) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-5c1b94ae71805e6920bc931323d012fc]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/14) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-9e133f36da1c9dc409d57f8ef1fd16b6]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/15) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-b4cfdfa6f80673d649121c8bddc78c6d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/16) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-22b95d71b70fd0f03a85398a96730337]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/17) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-6c90cfda81adce35e777651b086e2202]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/18) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-df3c27cb6f90c565cb583f09e5843226]: Textual amendment: Words in [sch. 2 para. 18(f)](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/18/f) substituted (1.4.2012) by [The Housing (Scotland) Act 2010 (Commencement No. 7 and Transitional Provision) Order 2012 (S.S.I. 2012/91)](https://www.legislation.gov.uk/ssi/2012/91), [arts. 1](https://www.legislation.gov.uk/ssi/2012/91/article/1), [4](https://www.legislation.gov.uk/ssi/2012/91/article/4)
+
+[^key-232771942103fe90cec56d44cd0027ab]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/19) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-9e48c4e79e99a8d43c98c7c0a5086e28]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/20) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-52b0aff85ca88a0ab902c3a53c50b771]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/21) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-eb9a1e652fd6914bd2864dae7602373a]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/22) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-674c7bdeb2c9daa57b9fa28f9d500174]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/23) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-8148895b24737ab81cbd7f3856ebc978]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/24) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-b651b1c7d1d4797c45dcac09f56a2681]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/25) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)
+
+[^key-989ad108259ce8d24ce1349d4855fd23]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ssi/2012/39/schedule/2/paragraph/26) in force at 1.4.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/39/article/1/1)

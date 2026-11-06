@@ -1,0 +1,42 @@
+---
+title: Sexual Offences (Scotland) Act 2009, section 3
+act: Sexual Offences (Scotland) Act 2009
+section: '3'
+status: revised-with-pending-changes
+text_date: '2021-06-29'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2009/9/section/3
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Sexual Offences (Scotland) Act 2009, section 3
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2021-06-29. See https://www.legislation.gov.uk/changes/affected/asp/2009/9
+>
+> Extent: Scotland.
+
+## 3. Sexual assault
+
+*Extent: S*
+
+(1) If a person (“A”)—
+
+- (a) without another person (“B”) consenting, and
+- (b) without any reasonable belief that B consents,
+
+does any of the things mentioned in subsection (2), then A commits an offence, to be known as the offence of sexual assault.
+
+(2) Those things are, that A—
+
+- (a) penetrates sexually, by any means and to any extent, either intending to do so or reckless as to whether there is penetration, the vagina, anus or mouth of B,
+- (b) intentionally or recklessly touches B sexually,
+- (c) engages in any other form of sexual activity in which A, intentionally or recklessly, has physical contact (whether bodily contact or contact by means of an implement and whether or not through clothing) with B,
+- (d) intentionally or recklessly ejaculates semen onto B,
+- (e) intentionally or recklessly emits urine or saliva onto B sexually.
+
+(3) For the purposes of paragraph (a) of subsection (2), penetration is a continuing act from entry until withdrawal of whatever is intruded; but this subsection is subject to subsection (4).
+
+(4) In a case where penetration is initially consented to but at some point of time the consent is withdrawn, subsection (3) is to be construed as if the reference in it to a continuing act from entry were a reference to a continuing act from that point of time.
+
+(5) Without prejudice to the generality of paragraph (a) of subsection (2), the reference in the paragraph to penetration by any means is to be construed as including a reference to penetration with A's penis.

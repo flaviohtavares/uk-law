@@ -1,0 +1,141 @@
+---
+title: The Criminal Justice (Scotland) Act 2016 (Support for Vulnerable Persons) Regulations 2019
+id: ssi/2019/437
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-12-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2019/437
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2019/437/pdfs/ssipn_20190437_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/437/pdfs/ssi_20190437_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/437/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Criminal Justice (Scotland) Act 2016 (Support for Vulnerable Persons) Regulations 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2019 No. 437
+
+Criminal Procedure
+
+The Criminal Justice (Scotland) Act 2016 (Support for Vulnerable Persons) Regulations 2019
+
+Made
+
+19th December 2019
+
+Coming into force
+
+10th January 2020
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 98(1)(b) and (2), 99, 100(a), 101(a)(i) and (b) and 104(1) and (2) of the Criminal Justice (Scotland) Act 2016[^f00001] and all other powers enabling them to do so.
+
+The Scottish Ministers have consulted publicly in accordance with section 105(2) of that Act.
+
+In accordance with section 105(1) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Criminal Justice (Scotland) Act 2016 (Support for Vulnerable Persons) Regulations 2019 and come into force on 10 January 2020.
+
+## 2. Interpretation
+
+In these Regulations—
+
+- “the 2016 Act” means the Criminal Justice (Scotland) Act 2016,
+- “constable” has the meaning given in section 62 of the 2016 Act,
+- “officially accused” has the meaning given in section 63 of the 2016 Act,
+- “police” means any—
+  - (a) constable, or
+  - (b) person appointed as a member of police staff under section 26(1) of the Police and Fire Reform (Scotland) Act 2012[^f00002],
+- “provider of appropriate adult support” means the local authority upon whom the function has been conferred by regulation 4(1) or any person with whom the local authority has entered into a contract under regulation 4(2),
+- “Social Care and Social Work Improvement Scotland” means the body established by section 44 of the Public Services Reform (Scotland) Act 2010[^f00003].
+
+## 3. Meaning of appropriate adult support
+
+(1) For the purposes of Chapter 2 of Part 6 of the 2016 Act and these Regulations, “appropriate adult support” includes support of the sort mentioned in paragraph (2) for vulnerable persons during a criminal investigation by the police where—
+
+- (a) The vulnerable person—
+  - (i) is or appears to be the victim of an offence or alleged offence,
+  - (ii) is a witness or potential witness in relation to an offence or alleged offence,
+  - (iii) is suspected of committing an offence or alleged offence or,
+  - (iv) is officially accused of committing an offence or alleged offence,
+- (b) a constable believes that the vulnerable person is 16 years of age or over and,
+- (c) intimation of the matters mentioned in paragraph (3) is sent by the police to a provider of appropriate adult support.
+
+(2) That is, support to—
+
+- (a) help the vulnerable person to understand what is happening, and
+- (b) facilitate effective communication between the vulnerable person and the police.
+
+(3) Those matters are—
+
+- (a) that appropriate adult support is, in the view of the constable, required by the vulnerable person, and
+- (b) the place where the appropriate adult support is required.
+
+## 4. Responsibility for ensuring availability of appropriate adults
+
+(1) Each local authority has the function of ensuring that people are available to provide appropriate adult support when it is required within that local authority area.
+
+(2) In discharging the function referred to in paragraph (1), a local authority may enter into a contract with another person.
+
+(3) In discharging the function referred to in paragraph (1), local authorities must have regard to guidance issued by the Scottish Ministers in accordance with section 104(2)(b) of the 2016 Act.
+
+## 5. Assessment of quality of appropriate adult support
+
+Social Care and Social Work Improvement Scotland has the functions of—
+
+- (a) assessing the quality of whatever arrangements may be in place to ensure that people are available to provide appropriate adult support, and
+- (b) assessing the quality of any appropriate adult support that is provided.
+
+## 6. Training for appropriate adults
+
+(1) Each local authority has the function of giving to people who provide, or wish to provide, appropriate adult support in that local authority area training in how to provide that support.
+
+(2) In discharging the function referred to in paragraph (1), a local authority may enter into a contract with another person.
+
+(3) In discharging the function referred to in paragraph (1), local authorities must have regard to guidance issued by the Scottish Ministers in accordance with section 104(2)(b) of the 2016 Act.
+
+H YOUSAF
+
+A member of the Scottish Government
+
+St Andrew’s House
+
+Edinburgh
+
+19th December 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations extend the definition of “appropriate adult support” in section 98 of the Criminal Justice (Scotland) Act 2016 (“the 2016 Act”) and support the commencement of section 42 of the 2016 Act by conferring functions under sections 99, 100 and 101 of that Act.
+
+Regulation 3 extends the meaning of appropriate adult support. Appropriate adult support for the purposes of chapter 2 of Part 6 of the 2016 Act and these Regulations now includes support at any stage during a police investigation for victims, witnesses and those suspected or accused of committing an offence.
+
+Regulation 4 confers the function of ensuring that people are available to provide appropriate adult support on local authorities.
+
+Regulation 5 confers the function of assessing the quality of appropriate adult support on Social Care and Social Work Improvement Scotland (commonly known as “the Care Inspectorate”).
+
+Regulation 6 confers the function of giving training in how to provide appropriate adult support on local authorities.
+
+In discharging the functions under regulations 4 and 6, each local authority is permitted to enter into contracts with others.
+
+In discharging the functions under regulations 4 and 6, there is a requirement for local authorities to have regard to guidance issued by the Scottish Ministers in accordance with section 104(2)(b) of the 2016 Act.
+
+## Annotations
+
+[^f00001]: Footnote: [2016 asp 1](https://www.legislation.gov.uk/asp/2016/1).
+
+[^f00002]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
+
+[^f00003]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).

@@ -1,0 +1,48 @@
+---
+title: Coronavirus (Scotland) Act 2020, section 15
+act: Coronavirus (Scotland) Act 2020
+section: '15'
+status: revised
+text_date: '2023-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2020/7/section/15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Coronavirus (Scotland) Act 2020, section 15
+
+> Text as at 2023-04-01.
+>
+> Extent: Scotland.
+
+## 15. Reports by the Scottish Ministers on status of provisions
+
+*Extent: S*
+
+(1) The Scottish Ministers must, in respect of each reporting period—
+
+- (a) undertake a review of the operation of the provisions of Part 1 with a view to considering whether those provisions remain necessary, and
+- (b) prepare a report on that review.
+
+(2) A report prepared under subsection (1) must—
+
+- (a) set out how any powers conferred by the provisions of Part 1 have been exercised, and
+- (b) include—
+  - (i) the status of the provisions of Part 1 (whether or not any power under a provision has been exercised), and
+  - (ii) a statement that the Scottish Ministers are satisfied that the status of those provisions is appropriate.
+
+(3) The references in subsection (2) to the “status” of a provision are to—
+
+- (a) whether the provision is in force at the end of the reporting period, and
+- (b) whether any power under the following provisions has been exercised by the Scottish Ministers in relation to it during that period (and, if so, which and how)—
+  - (i) section 11 (regulations suspending or reviving provision),
+  - (ii) section 13 (regulations altering expiry date of provision),
+  - (iii) section 17(2) (regulations bringing provision into force).
+
+(4) Each of the following is a “reporting period”—
+
+- (a) the period beginning with the day after Royal Assent and ending on 31 May 2020,
+- (b) each successive period of 2 months that ends during the period before Part 1 of this Act expires by virtue of section 12(1).
+
+(5) The Scottish Ministers must lay each report prepared under subsection (1) before the Scottish Parliament no later than 14 days after the end of a reporting period.

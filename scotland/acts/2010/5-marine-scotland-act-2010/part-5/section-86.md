@@ -1,0 +1,56 @@
+---
+title: Marine (Scotland) Act 2010, section 86
+act: Marine (Scotland) Act 2010
+section: '86'
+status: revised-with-pending-changes
+text_date: '2026-08-09'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2010/5/section/86
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Marine (Scotland) Act 2010, section 86
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-08-09. See https://www.legislation.gov.uk/changes/affected/asp/2010/5
+>
+> Extent: Scotland.
+
+## 86. Example provisions for marine conservation orders[^key-b7958e38ac5638ef2512093014ba093e]
+
+*Extent: S*
+
+(1) The provision that may be made by a marine conservation order includes provision prohibiting, restricting or regulating—
+
+- (a) entry into or movement, activity or works in the area protected by the order (“the protected area”) by a—
+  - (i) person,
+  - (ii) animal,
+  - (iii) vessel (or a specified type of vessel), or
+  - (iv) vehicle or thing (or a specified type of vehicle or thing),
+- (b) the anchoring of any vessel (or types of vessel) within the protected area (including the fixing of moorings or anchors to the seabed),
+- (c) the killing, taking, destruction, molestation or disturbance of animals or plants of any description in the protected area,
+- (d) the removal of all or part of any thing (or category of things) from the protected area, including in particular all or part of a marine historic asset,
+- (e) the depositing (by any means) of anything in a protected area,
+- (f) the doing of anything in the protected area which, in the opinion of the Scottish Ministers, may—
+  - (i) interfere with or damage the seabed,
+  - (ii) damage or disturb any object in the protected area (including a marine historic asset),
+  - (iii) otherwise cause harm to the protected area.
+
+(2) The provision that may be made may also—
+
+- (a) restrict the speed at which any vessel or vehicle may move in the protected area or in any specified area outside the protected area where that movement might hinder—
+  - (i) where the protected area is a Nature Conservation MPA, the stated conservation objectives for it,
+  - (ii) where the protected area is a Demonstration and Research MPA, a stated purpose for it,
+  - (iii) where the protected area is a Historic MPA, the stated preservation objectives for it,
+  - (iv) where the protected area is a European marine site, the conservation objectives for it,
+- (b) include provision prohibiting or restricting entry into, or any movement or other activity on, any part of the seashore that adjoins the protected area by persons, animals or vehicles.
+
+(3) For the purposes of subsection (1)(a), the reference to works or activities includes reference to—
+
+- (a) the use of equipment (or types of equipment),
+- (b) surveying or exploring a site (whether or not by intrusive methods),
+- (c) fixing or attaching anything to the seabed or (if appropriate) the seashore.
+
+## Annotations
+
+[^key-b7958e38ac5638ef2512093014ba093e]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/5/section/86) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

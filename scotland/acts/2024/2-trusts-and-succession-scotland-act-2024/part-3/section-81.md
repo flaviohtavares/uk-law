@@ -1,0 +1,73 @@
+---
+title: Trusts and Succession (Scotland) Act 2024, section 81
+act: Trusts and Succession (Scotland) Act 2024
+section: '81'
+status: revised
+text_date: '2024-06-26'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2024/2/section/81
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Trusts and Succession (Scotland) Act 2024, section 81
+
+> Text as at 2024-06-26.
+>
+> Extent: Scotland.
+
+## 81. Interpretation[^key-86ab4988e493613955337f9c297938b3][^key-8cdf2d0ccefc23dc255b98586d6eee8f]
+
+*Extent: S*
+
+(1) In this Act, unless the context otherwise requires—
+
+- “**beneficiary**”, in relation to a trust, means a person having, whether directly or indirectly, a vested or contingent interest under the trust,
+- “**the court**” means the Court of Session except that in sections 1, 7, 8, 66, 67, 70, 71, 73 and 74 the expression includes the appropriate sheriff court,
+- “**guardian**” includes a person’s continuing attorney,
+- “**potential beneficiary**” means a person (whether or not an ascertained person) who—
+  - (a) is not a beneficiary, but
+  - (b) may become a beneficiary on being, at a future date or on the happening of a future event, a person of some specified description or a member of some specified class of persons,
+- “**private purpose trust**” is to be construed in accordance with section 46,
+- “**protector**” is to be construed in accordance with section 53(1)(a),
+- “**supervisor**” is to be construed in accordance with section 49(1),
+- “**trust**” means any trust (whether or not constituted by deed or other writing, by or by virtue of Act of Parliament or of the Scottish Parliament, by Royal Charter, or by resolution of any corporation, public body or ecclesiastical body) but does not include any pension scheme established under a trust,
+- “**trust deed**” means any—
+  - (a) deed or other writing,
+  - (b) enactment,
+  - (c) Royal Charter, or
+  - (d) resolution of any corporation, public body or ecclesiastical body,
+
+  which constitutes any trust, and
+- “**trustee**” means a trustee under any trust but includes an executor nominate and, except in sections 3 and 5, an executor dative.
+
+(2) In this Act, “**appropriate person**” means—
+
+- (a) in relation to a beneficiary or, as the case may be, potential beneficiary, who has not attained the age of 16 years—
+  - (i) a parent or guardian who has the parental responsibility or parental right to act as that person’s legal representative under section 1(1)(d) or 2(1)(d) of the Children (Scotland) Act 1995 (“**the 1995 Act**”),
+  - (ii) a person in whom that parental responsibility or parental right is vested by virtue of section 11(2)(b) of the 1995 Act,
+  - (iii) a person having that parental responsibility or parental right by virtue of section 11(12) of the 1995 Act,
+  - (iv) a person in whom that parental responsibility or parental right is vested by virtue of a permanence order (as defined in section 80(2) of the Adoption and Children (Scotland) Act 2007),
+  - (v) a parent or guardian who has the right, in relation to the beneficiary or potential beneficiary, to act as that person’s legal representative, by virtue of having parental responsibility for that person under Part 1 of the Children Act 1989 (“**the 1989 Act**”),
+  - (vi) a person having that right, in relation to the beneficiary or potential beneficiary, by virtue of having parental responsibility for that person by virtue of—
+    - (A) section 12(2) of the 1989 Act,
+    - (B) section 14C of the 1989 Act, or
+    - (C) section 25(3) of the Adoption and Children Act 2002,
+  - (vii) a parent or guardian who has that right, in relation to the beneficiary or potential beneficiary, by virtue of having parental responsibility for that person under Part 2 or Part 15 of the Children (Northern Ireland) Order 1995 ([S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755)) (“**the 1995 Order**”),
+  - (viii) a person having that right, in relation to the beneficiary or potential beneficiary, by virtue of having parental responsibility for that person under Article 12(2) of the 1995 Order, or
+- (b) in relation to a beneficiary or, as the case may be, potential beneficiary, who is incapable, that person’s guardian.
+
+(3) In the definition of “the court” in subsection (1), “**the appropriate sheriff court**” means—
+
+- (a) where the sole trustee is, or a majority of the trustees are, habitually resident in a particular sheriffdom—
+  - (i) a sheriff court of that sheriffdom, or
+  - (ii) where a majority of the trustees consent, a sheriff court of any other sheriffdom in which at least one of the trustees is habitually resident, or
+- (b) where paragraph (a) is not applicable, the sheriff court at Edinburgh.
+
+(4) In the definition of “guardian” in subsection (1), “**continuing attorney**” is to be construed in accordance with section 15(2) of the Adults with Incapacity (Scotland) Act 2000 (creation of continuing power of attorney).
+
+## Annotations
+
+[^key-86ab4988e493613955337f9c297938b3]: Commencement: S. 81 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+
+[^key-8cdf2d0ccefc23dc255b98586d6eee8f]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2024/2/section/81) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

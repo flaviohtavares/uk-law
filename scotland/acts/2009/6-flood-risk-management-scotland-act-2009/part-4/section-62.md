@@ -1,0 +1,51 @@
+---
+title: Flood Risk Management (Scotland) Act 2009, section 62
+act: Flood Risk Management (Scotland) Act 2009
+section: '62'
+status: not-yet-in-force
+text_date: '2024-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2009/6/section/62
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Flood Risk Management (Scotland) Act 2009, section 62
+
+> This provision is not yet in force.
+>
+> Extent: Scotland.
+
+## 62. Registers of flood protection schemes
+
+*Extent: S*
+
+**Not yet in force.**
+
+(1) Every local authority must keep a register of flood protection schemes.
+
+(2) A local authority must enter into its register—
+
+- (a) details of each relevant scheme including—
+  - (i) a summary of the operations described in the scheme,
+  - (ii) a description (by reference to a map) of the land affected by those operations, and
+  - (iii) a note of the date on which notice of the scheme is first published under paragraph 1(1)(a) of schedule 2,
+- (b) a note of the following in relation to each such scheme—
+  - (i) any decision made under paragraph 4(1), 5(1), 7(4), or 9(1) of schedule 2,
+  - (ii) the fact that notice has been given to the Scottish Ministers under paragraph 5(5) of that schedule including whether any relevant objector is a local authority or a National Park authority,
+  - (iii) the fact that notice has been given of proposed modifications under paragraph 7(5)(a) or 9(3)(a) of that schedule,
+- (c) where such a scheme is confirmed with modifications, the information specified in paragraph (a)(i) and (ii) in relation to the modified scheme, and
+- (d) a note of any suspension of the operation of such a scheme under paragraph 12(6) of schedule 2.
+
+(3) For the purposes of subsection (2)(a), a relevant scheme is a scheme—
+
+- (a) proposed by the local authority, or
+- (b) in relation to which it is notified under paragraph 1(1)(f)(iii) of schedule 2.
+
+(4) A local authority may remove information from its register relating to a scheme if the scheme is rejected under paragraph 4(1)(b), 7(4)(c) or 9(1)(c) of schedule 2.
+
+(5) A local authority must amend its register to reflect any decision of a sheriff under paragraph 12(7) of schedule 2 to quash a scheme recorded in its register in whole or in part.
+
+(6) Where a local authority enters information in its register about a scheme in relation to which it notified another local authority under paragraph 1(1)(f)(iii) of schedule 2, it must notify that authority of the information entered.
+
+(7) A local authority must make available its register for public inspection and may charge a reasonable fee for doing so.

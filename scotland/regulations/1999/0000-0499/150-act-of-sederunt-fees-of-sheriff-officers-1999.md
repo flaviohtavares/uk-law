@@ -1,0 +1,140 @@
+---
+title: Act of Sederunt (Fees of Sheriff Officers) 1999
+id: ssi/1999/150
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '1999-11-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/1999/150
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/1999/150/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Fees of Sheriff Officers) 1999
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+1999 No. 150
+
+SHERIFF COURT, SCOTLAND
+
+Act of Sederunt (Fees of Sheriff Officers) 1999
+
+Made
+
+19th November 1999
+
+Laid before the Scottish Parliament
+
+26th November 1999
+
+Coming into force
+
+1st January 2000
+
+The Lords of Council and Session, under and by virtue of the powers conferred on them by section 40 of the Sheriff Courts (Scotland) Act 1907[^f00001], section 6 of the Execution of Diligence (Scotland) Act 1926[^f00002] and of all other powers enabling them in that behalf, do hereby enact and declare:—
+
+## 1. Citation and commencement
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Fees of Sheriff Officers) 1999 and shall come into force on 1st January 2000.
+
+(2) This Act of Sederunt shall be inserted in the Books of Sederunt.
+
+## 2. Amendment of fees
+
+(1) Subject to sub-paragraph (2) below, the Table of Fees in the Schedule to this Act of Sederunt shall be substituted for the Table in Schedule 1 to the Act of Sederunt (Fees of Sheriff Officers) 1994[^f00003] and shall apply to work carried out by a sheriff officer on or after the date on which this Act of Sederunt comes into force.
+
+(2) Sub-paragraph (1) above does not affect the fees payable as respects any work so carried out before the date mentioned in that sub-paragraph.
+
+Rodger of Earlsferry
+
+Lord President, I.P.D.
+
+Edinburgh
+
+19th November 1999
+
+## SCHEDULE — TABLE OF FEES
+
+Para.2(1)
+
+<table>
+<thead>
+<tr><th></th><th colspan="3">Summary Cause</th><th colspan="3">Ordinary Cause</th></tr>
+<tr><th>Item</th><th>Band 1</th><th>Band 2</th><th>Band 3</th><th>Band 1</th><th>Band 2</th><th>Band 3</th></tr>
+</thead>
+<tbody>
+<tr><td>1. <em>Service or intimation of a document</em><br>(a) Service<br>(i) each person at a different address</td><td>£21.20</td><td>£32.75</td><td>£42.35</td><td>£34.70</td><td>£51.00</td><td>£66.45</td></tr>
+<tr><td>(ii) each additional person at the same address or additional copy required to be served or intimated under the Act of 1987</td><td>£7.10</td><td>£7.10</td><td>£7.10</td><td>£11.60</td><td>£11.60</td><td>£11.60</td></tr>
+<tr><td>(b) Postal service</td><td>£10.25</td><td>£10.25</td><td>£10.25</td><td>£17.10</td><td>£17.10</td><td>£17.10</td></tr>
+<tr><td>(c) Postal diligence</td><td>£15.65</td><td>£15.65</td><td>£15.65</td><td>£25.75</td><td>£25.75</td><td>£25.75</td></tr>
+<tr><td>2. <em>Interdicts</em><br>(a) Interdict only<br>(i) each person at a different address</td><td></td><td></td><td></td><td>£95.40</td><td>£95.40</td><td>£95.40</td></tr>
+<tr><td>(ii) each additional person at the same address</td><td></td><td></td><td></td><td>£20.95</td><td>£20.95</td><td>£20.95</td></tr>
+<tr><td>(b) Interdict and service<br>(i) each person at a different address</td><td></td><td></td><td></td><td>£107.10</td><td>£107.10</td><td>£107.10</td></tr>
+<tr><td>(ii) each additional person at the same address</td><td></td><td></td><td></td><td>£32.65</td><td>£32.65</td><td>£32.65</td></tr>
+<tr><td>3. <em>Poindings</em><br>(a) Serving notice of entry</td><td>£4.70</td><td>£4.70</td><td>£4.70</td><td>£7.20</td><td>£7.20</td><td>£7.20</td></tr>
+<tr><td>(b) Arranging poinding and endeavouring, but being unable, to execute it for whatever reason</td><td>£36.90</td><td>£36.90</td><td>£36.90</td><td>£54.05</td><td>£54.05</td><td>£54.05</td></tr>
+<tr><td>(c) Arranging and executing poinding where appraised value is –<br>(i) £445 or under</td><td>£63.25</td><td>£63.25</td><td>£63.25</td><td>£63.25</td><td>£63.25</td><td>£63.25</td></tr>
+<tr><td>(ii) Over £445 and up to £1,788</td><td>£98.00</td><td>£98.00</td><td>£98.00</td><td>£98.00</td><td>£98.00</td><td>£98.00</td></tr>
+<tr><td>(iii) Over £1,788 and up to £18,008 – 10% of the appraised value</td></tr>
+<tr><td>(iv) Over £18,008 and up to £90,028 – 10% of the first £18,008, 5% thereafter</td></tr>
+<tr><td>(v) Over £90,028 – 10% of the first £18,008, 5% thereafter up to £90,028 and 1% thereafter</td></tr>
+<tr><td>(d) Reporting poinding</td><td>£6.10</td><td>£6.10</td><td>£6.10</td><td>£6.10</td><td>£6.10</td><td>£6.10</td></tr>
+<tr><td>4. <em>Poindings of motor vehicles, heavy plant or machinery</em><br>(a) Arranging and executing poinding where appraised value is –<br>(i) £445 or under</td><td>£63.25</td><td>£63.25</td><td>£63.25</td><td>£63.25</td><td>£63.25</td><td>£63.25</td></tr>
+<tr><td>(ii) Over £445 and up to £1,978</td><td>£98.00</td><td>£98.00</td><td>£98.00</td><td>£98.00</td><td>£98.00</td><td>£98.00</td></tr>
+<tr><td>(iii) Over £1,978 and up to £90,028 – 5% of the appraised value</td></tr>
+<tr><td>(iv) Over £90,028 – 5% of the first £90,028, and 1% thereafter</td></tr>
+<tr><td>(b) Reporting poinding</td><td>£6.10</td><td>£6.10</td><td>£6.10</td><td>£6.10</td><td>£6.10</td><td>£6.10</td></tr>
+<tr><td>5. <em>Sequestrations for rent, poinding of ground</em><br>(a) Arranging for the sequestration or poinding of the ground and endeavouring, but being unable, to execute it for whatever reason</td><td>£34.40</td><td>£34.40</td><td>£34.40</td><td>£51.55</td><td>£51.55</td><td>£51.55</td></tr>
+<tr><td>(b) Arranging and effecting sequestration where the appraised value is –<br>(i) £445 or under</td><td>£60.70</td><td>£60.70</td><td>£60.70</td></tr>
+<tr><td>(ii) Over £445 and up to £1,788</td><td>£95.40</td><td>£95.40</td><td>£95.40</td></tr>
+<tr><td>(iii) Over £1,788 as in item 3(c)(iii) above</td></tr>
+<tr><td>(c) Arranging and effecting ordinary sequestration or poinding of the ground</td><td></td><td></td><td></td><td>£95.40</td><td>£95.40</td><td>£95.40</td></tr>
+<tr><td>(d) Service – as in item 1(a) or (b) above, as the case may be</td></tr>
+<tr><td>6. <em>Sales</em><br>(a) (i) Application for warrant of sale or variation of warrant of sale</td><td>£9.95</td><td>£9.95</td><td>£9.95</td><td>£9.95</td><td>£9.95</td><td>£9.95</td></tr>
+<tr><td>(ii) Intimating application – as in item 1(a) or (b) above, as the case may be</td></tr>
+<tr><td>(b) (i) Arranging warrant sale, preparing advertisement and giving public notice</td><td>£15.60</td><td>£15.60</td><td>£15.60</td><td>£15.60</td><td>£15.60</td><td>£15.60</td></tr>
+<tr><td>(ii) Serving copy of warrant of sale and intimating the place and date of sale and if necessary the date of removal of poinded effects – as in item 1(a) or (b) above, as the case may be</td></tr>
+<tr><td>(c) Officer attending warrant sale alone conducted by auctioneer</td><td>£27.15</td><td>£46.00</td><td>£58.10</td><td>£27.15</td><td>£46.00</td><td>£58.10</td></tr>
+<tr><td>(d) (i) Officer and witness attending warrant sale and being unable to execute it for whatever reason</td><td>£34.40</td><td>£34.40</td><td>£34.40</td><td>£51.55</td><td>£51.55</td><td>£51.55</td></tr>
+<tr><td>(ii) Officer and witness conducting sale where the appraised value is £445 or under</td><td>£60.70</td><td>£60.70</td><td>£60.70</td><td>£60.70</td><td>£60.70</td><td>£60.70</td></tr>
+<tr><td>(iii) And where it is over £445</td><td>£95.40</td><td>£95.40</td><td>£95.40</td><td>£95.40</td><td>£95.40</td><td>£95.40</td></tr>
+<tr><td>7. <em>Ejections</em><br>(a) Arranging ejection</td><td>£34.40</td><td>£34.40</td><td>£34.40</td><td>£51.55</td><td>£51.55</td><td>£51.55</td></tr>
+<tr><td>(b) Arranging and executing ejection</td><td>£70.60</td><td>£70.60</td><td>£70.60</td><td>£80.10</td><td>£80.10</td><td>£80.10</td></tr>
+<tr><td>8. <em>Taking possession of effects</em><br>(a) Arranging possession</td><td>£34.40</td><td>£34.40</td><td>£34.40</td><td>£51.55</td><td>£51.55</td><td>£51.55</td></tr>
+<tr><td>(b) Arranging and effecting possession</td><td>£70.60</td><td>£70.60</td><td>£70.60</td><td>£95.40</td><td>£95.40</td><td>£95.40</td></tr>
+<tr><td>9. <em>Apprehensions</em><br>(a) Arranging apprehension</td><td></td><td></td><td></td><td>£51.55</td><td>£51.55</td><td>£51.55</td></tr>
+<tr><td>(b) Arranging and apprehending</td><td></td><td></td><td></td><td>£95.40</td><td>£95.40</td><td>£95.40</td></tr>
+<tr><td>10. <em>Taking possession of children</em><br>(a) Arranging to take possession</td><td></td><td></td><td></td><td>£51.55</td><td>£51.55</td><td>£51.55</td></tr>
+<tr><td>(b) Arranging and taking possession of each child</td><td></td><td></td><td></td><td>£95.40</td><td>£95.40</td><td>£95.40</td></tr>
+<tr><td>11. <em>Arresting vessels, aircraft and cargo</em><br>(a) Arranging to arrest</td><td>£34.40</td><td>£34.40</td><td>£34.40</td><td>£51.55</td><td>£51.55</td><td>£51.55</td></tr>
+<tr><td>(b) Arranging and effecting arrestment</td><td>£86.75</td><td>£86.75</td><td>£86.75</td><td>£157.70</td><td>£157.70</td><td>£157.70</td></tr>
+<tr><td>12. <em>Miscellaneous</em><br>(a) Making any report or application under the Act of 1987 with the exception of reporting a poinding</td><td>£11.95</td><td>£11.95</td><td>£11.95</td><td>£11.95</td><td>£11.95</td><td>£11.95</td></tr>
+<tr><td>(b) Granting any receipt required to be issued under the Act of 1987</td><td>£6.10</td><td>£6.10</td><td>£6.10</td><td>£6.10</td><td>£6.10</td><td>£6.10</td></tr>
+<tr><td>(c) Arranging for locksmith or tradesman to be in attendance</td><td>£3.85</td><td>£3.85</td><td>£3.85</td><td>£3.85</td><td>£3.85</td><td>£3.85</td></tr>
+<tr><td>(d) Granting certificate of displenishment or providing any other certificate or report, registering any document or making any application to a court or the creditor</td><td>£11.95</td><td>£11.95</td><td>£11.95</td><td>£11.95</td><td>£11.95</td><td>£11.95</td></tr>
+<tr><td>(e) Executing warrant to open lockfast places</td><td>£11.95</td><td>£11.95</td><td>£11.95</td><td>£11.95</td><td>£11.95</td><td>£11.95</td></tr>
+<tr><td>(f) Time<br>(i) with witness – £19.15 per unit</td></tr>
+<tr><td>(ii) without witness – £14.30 per unit</td></tr>
+<tr><td>(g) Photocopies<br>(i) first page of document – £1.35</td></tr>
+<tr><td>(ii) subsequent pages – per page – £0.60</td></tr>
+</tbody>
+</table>
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt amends the Act of Sederunt (Fees of Sheriff Officers) 1994 (S.I. [1994/392](https://www.legislation.gov.uk/uksi/1994/392)) by increasing the fees payable to Sheriff Officers by about 3.25%. The last increase was in the Act of Sederunt (Fees of Sheriff Officers) 1998 (S.I. [1998/2669](https://www.legislation.gov.uk/uksi/1998/2669)).
+
+## Annotations
+
+[^f00001]: Footnote: [1907 c. 51](https://www.legislation.gov.uk/ukpga/1907/51); section 40 as amended by section 1(3) of the Secretaries of State Act [1926 (c. 18)](https://www.legislation.gov.uk/ukpga/1926/18), by the Schedule to the Administration of Justice (Scotland) Act [1933 (c. 41)](https://www.legislation.gov.uk/ukpga/1933/41) and by paragraph 7 of Schedule 1 to and Schedule 2 to the Divorce Jurisdiction, Court Fees and Legal Aid (Scotland) Act [1983 (c. 12)](https://www.legislation.gov.uk/ukpga/1983/12).
+
+[^f00002]: Footnote: [1926 c. 16](https://www.legislation.gov.uk/ukpga/1926/16).
+
+[^f00003]: Footnote: S.I. [1994/392](https://www.legislation.gov.uk/uksi/1994/392), as amended by S.I. [1994/3267](https://www.legislation.gov.uk/uksi/1994/3267), S.I. [1995/3095](https://www.legislation.gov.uk/uksi/1995/3095), S.I. [1996/2858](https://www.legislation.gov.uk/uksi/1996/2858), S.I. [1997/2824](https://www.legislation.gov.uk/uksi/1997/2824) and S.I. [1998/2669](https://www.legislation.gov.uk/uksi/1998/2669)

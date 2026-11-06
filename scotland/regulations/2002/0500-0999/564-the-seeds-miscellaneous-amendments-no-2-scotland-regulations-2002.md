@@ -1,0 +1,103 @@
+---
+title: The Seeds (Miscellaneous Amendments) (No. 2) (Scotland) Regulations 2002
+id: ssi/2002/564
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2002-12-19'
+text_date: '2005-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2002/564
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2002/564/pdfs/ssi_20020564_en.pdf
+- http://www.legislation.gov.uk/ssi/2002/564/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Seeds (Miscellaneous Amendments) (No. 2) (Scotland) Regulations 2002
+
+> Text as at 2005-07-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+This Scottish Statutory Instrument has been made in consequence of defects in [S.S.I. 2002/520](https://www.legislation.gov.uk/ssi/2002/520) and is being issued free of charge to all known recipients of that instrument.
+
+2002 No. 564
+
+SEEDS
+
+The Seeds (Miscellaneous Amendments) (No. 2) (Scotland) Regulations 2002
+
+Made
+
+19th December 2002
+
+Laid before the Scottish Parliament
+
+23rd December 2002
+
+Coming into force in accordance with regulation 1(2)
+
+The Scottish Ministers, in exercise of the powers conferred by sections 16(1), (1A), (2) and (3) and 36 of the Plant Varieties and Seeds Act 1964[^f00001] and of all other powers enabling them in that behalf, after consultation in accordance with section 16(1) of that Act with representatives of such interests as appear to them to be concerned, hereby make the following Regulations:
+
+## 1. Citation, commencement and extent[^key-e8257d3f263aafba6e775834316a8b6d][^key-e8257d3f263aafba6e775834316a8b6d]
+
+(1) These Regulations may be cited as the Seeds (Miscellaneous Amendments) (No. 2) (Scotland) Regulations 2002.
+
+(2) These Regulations shall come into force in accordance with the following sub paragraphs:–
+
+- (a) regulations 1 and 2 shall come into force on 31st December 2002;
+- (b) regulations 3 and 4 shall come into force on 1st January 2003.
+
+(3) These Regulations extend to Scotland only.
+
+## 2. Revocation of the Seeds (Miscellaneous Amendments) (Scotland) Regulations 2002[^key-c7e1a35d82cfe4ef38c598cc92d3e0bb][^key-c7e1a35d82cfe4ef38c598cc92d3e0bb]
+
+The Seeds (Miscellaneous Amendments) (Scotland) Regulations 2002[^f00002] are revoked.
+
+## 3. Amendment of the Cereal Seeds Regulations 1993[^key-dbc267fd23b6666692ef497477b465e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Amendment of the Fodder Plant Seeds Regulations 1993[^key-bbf2182227c07e0c1aba237e3ea1b96c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ALLAN WILSON
+
+A member of the Scottish Executive
+
+Pentland House,
+
+Edinburgh
+
+19th December 2002
+
+(This note is not part of the Regulations)
+
+These Regulations, which extend to Scotland only, further amend the provisions of the Cereal Seeds Regulations 1993 (“the cereal seeds Regulations”) and the Fodder Plant Seeds Regulations 1993 (“the fodder seeds Regulations”).
+
+The Regulations revoke the Seeds (Miscellaneous Amendments) (Scotland) Regulations 2002 which were defective (regulation 2).
+
+The Regulations exempt certain types of seed marketed in bulk from the labelling and packaging requirements in the cereal seeds Regulations and the fodder seeds Regulations (regulations 3(2) to (4) and 4(2) to (4)). These are derogation’s respectively from Council Directive [66/402/EEC](https://www.legislation.gov.uk/european/directive/1966/0402) (O.J. No. L 125, 11.7 66, p.2309) as amended and Council Directive [66/401/EEC](https://www.legislation.gov.uk/european/directive/1966/0401) (O.J. No. L 125, 11.7.66, p.2298/66) as amended. The derogation’s are permitted by Council Directive [2001/64/EC](https://www.legislation.gov.uk/european/directive/2001/0064).
+
+The Regulations specify the conditions for the exemption, in implementation of Council Directive [2001/64/EC](https://www.legislation.gov.uk/european/directive/2001/0064) and Commission Decision [94/650/EC](https://www.legislation.gov.uk/european/decision/1994/0650) (O.J. No. L 234, 1.9.01 p.60) as relevantly amended by Commission Decision [1998/174/EC](https://www.legislation.gov.uk/european/decision/1998/0174) (O.J. No. L 63, 4.3.98, p.31) and Commission Decision [2000/441/EC](https://www.legislation.gov.uk/european/decision/2000/0441) (O.J. No. L 176, 15.7.00, p.50) (regulations 3(2), (5) and (6) and 4(2), (5) and (6)).
+
+## Annotations
+
+[^f00001]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14). Section 16 was amended by the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), section 4(1) and Schedule 4, paragraph 5(1), (2) and (3); see section 38(1) for the definition of “the Minister”. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-e8257d3f263aafba6e775834316a8b6d]: Commencement: Reg. 1 in force at 31.12.2002, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2002/564/regulation/1/2/a)
+
+[^key-c7e1a35d82cfe4ef38c598cc92d3e0bb]: Commencement: Reg. 2 in force at 31.12.2002, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2002/564/regulation/1/2/a)
+
+[^f00002]: Footnote: [S.S.I. 2002/520](https://www.legislation.gov.uk/ssi/2002/520).
+
+[^key-dbc267fd23b6666692ef497477b465e3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2002/564/regulation/3) revoked (1.7.2005) by [The Cereal Seed (Scotland) Regulations 2005 (S.S.I. 2005/328)](https://www.legislation.gov.uk/ssi/2005/328), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1), [sch. 8](https://www.legislation.gov.uk/ssi/2005/328/schedule/8)
+
+[^key-bbf2182227c07e0c1aba237e3ea1b96c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2002/564/regulation/4) revoked (1.7.2005) by [The Fodder Plant Seed (Scotland) Regulations 2005 (S.S.I. 2005/329)](https://www.legislation.gov.uk/ssi/2005/329), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/2), [sch. 8](https://www.legislation.gov.uk/ssi/2005/329/schedule/8)

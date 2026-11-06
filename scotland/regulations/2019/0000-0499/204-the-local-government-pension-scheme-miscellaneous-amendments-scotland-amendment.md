@@ -1,0 +1,83 @@
+---
+title: The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Amendment Regulations 2019
+id: ssi/2019/204
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2019-06-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2019/204
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2019/204/pdfs/ssipn_20190204_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/204/pdfs/ssi_20190204_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/204/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Amendment Regulations 2019
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+This SSI has been made in consequence of a defect in [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161) and is being issued free of charge to all known recipients of that instrument.
+
+2019 No. 204
+
+Public Service Pensions
+
+The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Amendment Regulations 2019
+
+Made
+
+At 11.00am on 11th June 2019
+
+Laid before the Scottish Parliament
+
+At 4.15pm 11th June 2019
+
+Coming into force
+
+28th June 2019
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 1, 2 and 3 and schedule 2, paragraph 3(b) of the Public Service Pensions Act 2013[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 21(1) of the Public Service Pensions Act 2013, the Scottish Ministers consulted such persons or the representatives of such persons as appeared to the Scottish Ministers likely to be affected by these Regulations.
+
+## 1. Citation, commencement and effect
+
+(1) These Regulations may be cited as the Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Amendment Regulations 2019 and come into force on 28 June 2019.
+
+(2) These Regulations have effect from 1 June 2018.
+
+## 2. Amendment of the Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019
+
+(1) The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019[^f00002] are amended in accordance with paragraphs (2) and (3).
+
+(2) In regulation 2(12)(b) for “penultimate” substitute “the third”.
+
+(3) Regulation 2(27) is revoked.
+
+KATE FORBES
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+At 11.00am on 11th June 2019
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 to amend two minor errors. These Regulations amend regulation 2 of those Regulations and come into force on the same date as regulation 2 and have effect from the date that regulation 2 has effect.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
+
+[^f00002]: Footnote: [S.S.I. 2019/161](https://www.legislation.gov.uk/ssi/2019/161).

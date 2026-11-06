@@ -1,0 +1,190 @@
+---
+title: The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016
+id: ssi/2016/53
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2016-01-26'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2016/53
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/53/pdfs/ssipn_20160053_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/53/pdfs/ssi_20160053_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/53/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2016 No. 53
+
+National Health Service
+
+The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016
+
+Made
+
+26th January 2016
+
+Laid before the Scottish Parliament
+
+28th January 2016
+
+Coming into force
+
+1st April 2016
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 25(1), (2) and (2A), 105(7) and 108(1) of the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation
+
+(1) These Regulations may be cited as the National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016 and come into force on 1st April 2016.
+
+(2) In these Regulations, “the 2010 Regulations” means the National Health Service (General Dental Services) (Scotland) Regulations 2010[^f00002].
+
+## 2. Amendment of the 2010 Regulations
+
+(1) The 2010 Regulations are amended in accordance with paragraphs (2) to (6).
+
+(2) In regulation 5 (application for inclusion in the dental list and notification of changes)—
+
+- (a) in paragraph (15) omit “Subject to paragraph (16),”; and
+- (b) omit paragraph (16).
+
+(3) In regulation 23(6) (approval of payments)—
+
+- (a) omit “in cases of orthodontic care and treatment”; and
+- (b) for “that” substitute “any”.
+
+(4) In Schedule 1 (terms of service for dentists)—
+
+- (a) in paragraph 4 (a continuing care arrangement)—
+  - (i) for sub-paragraph (1)(a) substitute—
+
+    > - (a) at the time at which the contractor accepts the patient—
+    >   - (i) provide the patient with the information about care and treatment under general dental services which is set out in Schedule 3 and with a form of acceptance supplied by the Health Board, or form to like effect, which shall specify the matters listed in sub-paragraph (1A); and
+    >   - (ii) ensure that a dentist examines the patient in order to chart the patient’s decayed, missing or filled teeth on the patient record;
+
+    ;
+  - (ii) after sub-paragraph (1) insert—
+
+    > (1A) The matters to be specified in the form mentioned in sub-paragraph (1)(a)(i) are—
+    >
+    > - (a) the name of the patient;
+    > - (b) the name of the dentist who will carry out the care and treatment;
+    > - (c) particulars of the places where the patient will receive care and treatment; and
+    > - (d) the telephone number at which the dentist who will provide the care and treatment to the patient, or a deputy, may be contacted during normal surgery hours, or at other times in an emergency if different.
+
+    ; and
+  - (iii) in sub-paragraph (4) for “(1)(a)(ii) to (iv)” substitute “(1A)(b) to (d)”;
+- (b) in paragraph 5 (a capitation arrangement), in sub-paragraph (1)(a), for “form supplied by the Health Board, or a form to like effect” substitute “patient record”;
+- (c) in paragraph 10 (termination of a continuing care arrangement or a capitation arrangement), before sub-paragraph (1) insert—
+
+  > (A1) A contractor may terminate a continuing care arrangement or a capitation arrangement in accordance with this paragraph only on grounds which do not relate to the patient’s race, gender, social class, age, religion, sexual orientation, appearance, disability or medical condition.
+
+  ;
+- (d) in paragraph 27 (records), in sub-paragraph (4), omit “(other than the practice record form)”;
+- (e) in paragraph 40 (clinical audit activities)—
+  - (i) in sub-paragraph (1), after “on” insert “sub-part A of the first part or the second part of”; and
+  - (ii) in sub-paragraph (4), in paragraph (b) of the definition of “clinical audit activities”, after “months apart” insert “(or such other period as may be agreed with NHS Education for Scotland or, as the case may be, the Health Board)”;
+- (f) in paragraph 41 (patient information leaflets)—
+  - (i) in sub-paragraph (1) omit “Subject to sub-paragraph (4)”; and
+  - (ii) omit sub-paragraph (4);
+- (g) in paragraph 42 (premises and equipment)—
+  - (i) in sub-paragraph (1) for “from a mobile surgery only” substitute “only at the place where a patient normally resides or from a mobile surgery”;
+  - (ii) in sub-paragraph (2) after “general dental services” insert “at the place where a patient normally resides or”;
+  - (iii) in sub-paragraph (4) after “staff training” insert “, so as to enable the Health Board to assure itself that the contractor meets the standards set out in sub-paragraphs (1) to (3)”; and
+  - (iv) after sub-paragraph (4) insert—
+
+    > (5) A contractor shall at all reasonable times admit a dental officer or a person authorised by the Health Board for the purpose of inspecting any equipment or practice premises, dental surgery, mobile surgery or waiting-room under the contractor’s control and reviewing the procedures and staff training where—
+    >
+    > - (a) concerns about patient safety were raised during an inspection under sub-paragraph (4) and further investigation by the Health Board of those concerns is necessary; or
+    > - (b) information has come to the attention of the Health Board which necessitates immediate further investigation by it using powers under this sub-paragraph.
+    >
+    > (6) A dental officer or a person authorised by the Health Board shall not require to give notice of an inspection under sub-paragraph (5).
+
+    ; and
+- (h) in paragraph 44 (deputies and assistants)—
+  - (i) in sub-paragraph (1) for “dentist” substitute “contractor”; and
+  - (ii) in sub-paragraph (2) for “principal” substitute “contractor”.
+
+(5) In Schedule 2, in Part IA (information, declarations, certificate, applications, disclosure requests etc.), after paragraph (1)(u) insert—
+
+> - (v) in the case of a dentist applying for inclusion in sub-part A of the first part or the second part of the dental list for the first time, or on returning to clinical practice in Scotland after an absence of less than 5 years, a certificate from NHS Education for Scotland confirming that the applicant has satisfactorily completed training including in the content and application of these Regulations;
+> - (w) in the case of a dentist applying for inclusion in sub-part A of the first part or the second part of the dental list on returning to clinical practice in Scotland after an absence of 5 years or more, a certificate from NHS Education for Scotland confirming that the applicant has satisfactorily completed return to work training.
+
+.
+
+(6) In Schedule 4 (prior approval of care and treatment), in Part II (care and treatment)—
+
+- (a) in paragraphs 1 and 2 for “£350” substitute “the amount set out in Determination I of the Statement of Dental Remuneration[^f00003]”;
+- (b) omit the word “and” immediately after paragraph 3(b); and
+- (c) after paragraph 3(b) insert—
+
+  > - (ba) in the case of care and treatment which is not orthodontic care and treatment, fees for diagnosis and domiciliary visits; and
+
+  .
+
+## 3. Savings provision
+
+The amendments made by regulation 2(2) and (5) have no effect in relation to any application received by a Health Board for inclusion in a dental list (defined in regulation 4 of the 2010 Regulations) prior to 1st April 2016.
+
+MAUREEN WATT
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+26th January 2016
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations, which extend to Scotland only, amend the National Health Service (General Dental Services) (Scotland) Regulations 2010 (“the 2010 Regulations”). The 2010 Regulations provide for arrangements under which general dental services are provided by Health Boards in terms of the National Health Service (Scotland) Act 1978.
+
+Regulation 2(2) amends regulation 5 of the 2010 Regulations to reflect changes to the arrangements under which a dentist who provides only orthodontic treatment is provided with a vocational training number.
+
+Regulation 2(3) amends regulation 23 of the 2010 Regulations to increase the discretion of the Scottish Dental Practice Board to authorise payment on account made to dentists pending the completion of care and treatment.
+
+Regulation 2(4) amends Schedule 1 to the 2010 Regulations, which sets out the terms of service applicable to dentists providing general dental services.
+
+Paragraph 4 of Schedule 1 is amended to add a requirement to the terms of service that where a contractor accepts a person under a continuing care arrangement they shall make arrangements for a dentist to examine the person and to chart the patient’s decayed, missing or filled teeth and amend the patient’s record.
+
+Paragraph 5 of Schedule 1 is amended to alter the requirement in the terms of service where a contractor accepts a person for care and treatment under a capitation arrangement. The amendment requires that when the person is first examined by a dentist, the contractor ensures that a chart of the patient’s decayed, missing or filled teeth is made in the patient record.
+
+Paragraph 10 of Schedule 1 is amended to insert a new provision which affects when a contractor may terminate a continuing care arrangement or a capitation arrangement. The amendment will make it clear that they may only do so on grounds which do not relate to the patient’s race, gender, social class, age, religion, sexual orientation, appearance, disability or medical condition.
+
+Paragraph 27 of Schedule 1 is amended so that a contractor may keep records including the practice record form in computerised form.
+
+Paragraph 40 of Schedule 1 is amended to make it clear which dentist on the dental list (which is prepared and maintained by Health Boards under regulation 4 of the 2010 Regulations) must undertake clinical audit activities. The definition of clinical audit activities is also amended.
+
+Paragraph 41 of Schedule 1 is amended to remove the exclusion from the requirement for dentists to compile and make available patient information leaflets where the dentist provides general dental services only to persons detained in a prison or young offenders institution.
+
+Paragraph 42 of Schedule 1 is amended to make provision about the standards applicable to the provision of premises and equipment where general dental services are provided to a patient in their own home. It adjusts the existing powers of inspection to clarify their purpose and also introduces new powers to inspect dental premises where no prior notice of an inspection has been given.
+
+Paragraph 44 of Schedule 1 is amended to make minor adjustments to certain references in the 2010 Regulations.
+
+Regulation 2(5) makes amendments to Part 1A of Schedule 2 to the 2010 Regulations, which deals with applications made for inclusion in sub-part A of the dental list.
+
+Regulation 2(6) amends Schedule 4 to the 2010 Regulations, which deals with prior approval of care and treatment provided under the 2010 Regulations.
+
+Regulation 3 provides that the amendments made to the 2010 Regulations which relate to any application for inclusion in a dental list which was received by a Health Board prior to 1st April 2016 will continue to be treated as if the amendments made in these Regulations were of no effect.
+
+No business and regulatory impact assessment has been prepared for these Regulations as no impact upon business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29); section 25(1) was amended by the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13) (“the 2005 Act”), section 15; section 25(2) and (2A) were substituted by the 2005 Act, section 17; section 105(7) was amended by the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 6, paragraph 5 and Schedule 7, by the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), section 29(1) and Schedule 9, paragraph 24 and by the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4, paragraph 60; section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [S.S.I. 2010/208](https://www.legislation.gov.uk/ssi/2010/208), as amended by [S.S.I. 2010/378](https://www.legislation.gov.uk/ssi/2010/378), [S.S.I. 2012/36](https://www.legislation.gov.uk/ssi/2012/36) and [S.S.I. 2013/235](https://www.legislation.gov.uk/ssi/2013/235). Amendments were also made by [S.S.I. 2010/229](https://www.legislation.gov.uk/ssi/2010/229) which inserted amendments to the 2010 Regulations into [S.S.I. 2004/292](https://www.legislation.gov.uk/ssi/2004/292).
+
+[^f00003]: Footnote: “Statement of Dental Remuneration” is defined in regulation 2(1) of the 2010 Regulations as being the Statement published from time to time by the Scottish Ministers in accordance with regulation 22.

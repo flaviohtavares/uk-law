@@ -1,0 +1,47 @@
+---
+title: Aquaculture and Fisheries (Scotland) Act 2013, section 37
+act: Aquaculture and Fisheries (Scotland) Act 2013
+section: '37'
+status: revised-with-pending-changes
+text_date: '2024-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2013/7/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Aquaculture and Fisheries (Scotland) Act 2013, section 37
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/asp/2013/7
+>
+> Extent: Scotland.
+
+## 37. Release of vessel detained under section 36[^key-aa4939b4a25a83ee73e7c12388043ce4]
+
+*Extent: S*
+
+(1) This section applies where a vessel is being detained under section 36.
+
+(2) The vessel ceases to be detained under that section if one of the following things occurs—
+
+- (a) the notice of detention is withdrawn,
+- (b) a sheriff orders the release of the vessel under section 38,
+- (c) any proceedings taken against the master, owner or charterer of the vessel have concluded,
+- (d) the court referred to in section 36(1)(b)(ii) exercises any power it has to order the vessel to be detained.
+
+(3) A notice of detention is withdrawn by the service by a British sea-fishery officer of a further notice on the person who is for the time being in charge of the vessel, stating that the vessel is released.
+
+(4) If any of the grounds of release mentioned in subsection (5) applies, then any notice of detention must be withdrawn as soon as possible.
+
+(5) The grounds of release are—
+
+- (a) that a procurator fiscal has decided not to take any proceedings against the master, owner or charterer of the vessel in respect of any offence in relation to which the vessel was detained,
+- (b) where a fixed penalty notice has been issued in respect of such an offence, that the appropriate fixed penalty has been paid,
+- (c) that there are no grounds for believing that any person referred to in paragraph (a) against whom proceedings have been, or may be, taken will fail to attend court,
+- (d) that there are no grounds for believing that the court referred to in section 36(1)(b)(ii) will order the vessel to be detained.
+
+(6) In this section, “**notice of detention**” means a notice served under section 36(4).
+
+## Annotations
+
+[^key-aa4939b4a25a83ee73e7c12388043ce4]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2013/7/section/37) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -1,0 +1,222 @@
+---
+title: The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011
+id: ssi/2011/217
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-03-16'
+text_date: '2019-04-12'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/217
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/217/pdfs/ssien_20110217_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/217/pdfs/ssi_20110217_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/217/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011
+
+> Text as at 2019-04-12.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 217
+
+Legal Aid And Advice
+
+The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011
+
+Made
+
+16th March 2011
+
+Coming into force
+
+11th April 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 8A, 11(2), 17(2)(a) and 36(2)(b) of the Legal Aid (Scotland) Act 1986[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 37(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation, commencement and interpretation[^key-3d8904dd1fd318ef100a9b907e57c8e5]
+
+These Regulations may be cited as the Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 and come into force on 11th April 2011.
+
+## 2.[^key-1af0e9c37130cef7fe1923e597334c80]
+
+In these Regulations “the Act” means the Legal Aid (Scotland) Act 1986.
+
+## 3. Application[^key-3514d2b73e45843fbd3341140160f3f9]
+
+(1) Paragraphs (2) to (4) of regulation 4 and regulations 6, 7 and 8 apply only in relation to any case where an application for advice and assistance is made on or after 11th April 2011.
+
+(2) Paragraphs (5) to (8) of regulation 4 and regulation 5 apply only in relation to any case where an application for civil legal aid is made on or after 11th April 2011.
+
+## 4. Amendment of the Act[^key-3abe7ee93ef942c98c8341a2570dd745]
+
+(1) The Act is amended in accordance with paragraphs (2) to (8)[^f00002].
+
+(2) In section 8(a) (which specifies the weekly disposable income limit for advice and assistance), for “£238” substitute “£245”.
+
+(3) In section 8 (which specifies the disposable capital limit for advice and assistance), for “£1,664” substitute “£1,716”.
+
+(4) In section 11(2)(a) (which specifies the weekly disposable income threshold for payment in respect of advice and assistance), for “£102” substitute “£105”.
+
+(5) In section 15(1) (which specifies the annual disposable income limit for civil legal aid), for “£25,450” substitute “£26,239”.
+
+(6) In section 15(2)(a) (which specifies the disposable capital limit for civil legal aid), for “£12,626” substitute “£13,017”.
+
+(7) In section 17(2)(a) (which, amongst other things, specifies the annual disposable income threshold for contributions in respect of civil legal aid), for “£3,415” substitute “£3,521”.
+
+(8) In section 17(2)(b) (which specifies the disposable capital threshold for contributions in respect of civil legal aid), for “£7,617” substitute “£7,853”.
+
+## 5. Liability to contribute to the Fund under section 17(2)(a) of the Act[^key-e770d838cd3ea4d71938fce212e1ef5b]
+
+For the purposes of section 17(2)(a) of the Act (which, amongst other things, specifies the proportion of disposable income which an income contribution in respect of civil legal aid cannot exceed), the proportion of the excess prescribed is 67.1%[^f00003].
+
+## 6. Liability to pay fees or outlays under section 11(2) of the Act[^key-8746d58ad22bb8b39e74632c172837ff]
+
+Unless regulation 7 applies, the maximum amount of fees or outlays which a client is liable to pay under section 11(2) of the Act[^f00004] (under which clients are liable to pay fees and outlays in respect of advice and assistance), where that client’s weekly disposable income falls within a range specified in the first column of the following table, is the corresponding amount specified in the second column:—
+
+| *Weekly disposable income* | *Maximum contribution* |
+| --- | --- |
+| Exceeding £105 but not exceeding £112 a week | £7 |
+| Exceeding £112 but not exceeding £119 a week | £14 |
+| Exceeding £119 but not exceeding £126 a week | £21 |
+| Exceeding £126 but not exceeding £133 a week | £28 |
+| Exceeding £133 but not exceeding £140 a week | £35 |
+| Exceeding £140 but not exceeding £147 a week | £42 |
+| Exceeding £147 but not exceeding £154 a week | £49 |
+| Exceeding £154 but not exceeding £161 a week | £56 |
+| Exceeding £161 but not exceeding £168 a week | £63 |
+| Exceeding £168 but not exceeding £175 a week | £70 |
+| Exceeding £175 but not exceeding £182 a week | £77 |
+| Exceeding £182 but not exceeding £189 a week | £84 |
+| Exceeding £189 but not exceeding £196 a week | £91 |
+| Exceeding £196 but not exceeding £203 a week | £98 |
+| Exceeding £203 but not exceeding £210 a week | £105 |
+| Exceeding £210 but not exceeding £217 a week | £112 |
+| Exceeding £217 but not exceeding £224 a week | £119 |
+| Exceeding £224 but not exceeding £231 a week | £126 |
+| Exceeding £231 but not exceeding £245 a week | £135 |
+| Exceeding £245 a week | £142 |
+
+## 7.[^key-8f745a01bc93d91d6b32257d5b07a2a2]
+
+(1) Subject to paragraph (2), this regulation applies where a solicitor has approved and proceeded to provide advice and assistance by way of a diagnostic interview and the work undertaken is made up solely of a diagnostic interview.
+
+(2) This regulation does not apply where, pursuant to the solicitor’s application, the Board determines that the subject matter of the diagnostic interview should be treated as if it were a distinct matter.
+
+(3) In this regulation “diagnostic interview” has the meaning given in regulation 2(1) of the Advice and Assistance (Scotland) Regulations 1996[^f00005] and “distinct matter” is to be construed in accordance with regulation 8A(2) of those Regulations.
+
+(4) Where this regulation applies, the maximum amount of fees or outlays which a client is liable to pay under section 11(2) of the Act, where that client’s weekly disposable income falls within a range specified in the first column of the following table, is the corresponding amount specified in the second column:—
+
+| *Weekly disposable income* | *Maximum contribution* |
+| --- | --- |
+| Exceeding £105 but not exceeding £134 a week | £7 |
+| Exceeding £134 but not exceeding £163 a week | £14 |
+| Exceeding £163 but not exceeding £193 a week | £21 |
+| Exceeding £193 but not exceeding £222 a week | £28 |
+| Exceeding £222 but not exceeding £245 a week | £35 |
+
+## 8. Criminal advice and assistance: automatic availability in certain circumstances[^key-e36b939796102e8ce90d4a55456b3556]
+
+Advice and assistance is to be available without reference to the financial limits in section 8 of the Act for any person—
+
+- (a)[^key-a962e4b2917b1eb70a7fd74a205d55aa] to whom section 32 (right to have solicitor present) of the Criminal Justice (Scotland) Act 2016 applies , or[^key-4e9048219ab79ab1b073369d0100f5d0]
+- (b) who is detained—
+  - (i) under section 41 of, or Schedule 7 to, the Terrorism Act 2000, or
+  - (ii) under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019.
+
+## 8A. Exception from liability for client’s contribution[^key-08e7ccc619cd42d1b2b50809e872d25a]
+
+Section 11(2) of the Act is not to apply in respect of advice and assistance made available to a relevant client (within the meaning of section 8A(2) of the Act) in the circumstances referred to in regulation 8.
+
+## 9. Revocation[^key-37800daa9160a3f77f2d7523141dd0dc]
+
+(1) The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2010[^f00007] are revoked.
+
+(2) Despite paragraph (1), those Regulations continue to apply in relation to advice and assistance, or as the case may be civil legal aid, for which the relative application was made before 11th April 2011.
+
+KENNY MACASKILL
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+16th March 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations—
+
+- (a) amend the Legal Aid (Scotland) Act 1986 (“the Act”) to increase the financial limits of eligibility for advice and assistance and civil legal aid;
+- (b) amend the Act to increase the financial thresholds beyond which a person may be required to make payments in respect of advice and assistance and contributions in respect of civil legal aid;
+- (c) prescribe the maximum amount of those payments and, in respect of income, contributions; and
+- (d) allow advice and assistance to be made available in certain circumstances without reference to the financial limits of eligibility.
+
+In particular, the increases in relation to advice and assistance are as follows—
+
+The disposable income limit for eligibility is increased from £238 a week to £245 a week and the disposable capital limit is increased from £1,664 to £1,716. The disposable income threshold, above which a person is liable to pay fees or outlays in respect of advice and assistance received, is increased from £102 a week to £105 a week (paragraphs (2) to (4) of regulation 4).
+
+The maximum liability of a person for fees and outlays in respect of advice and assistance, having regard to his or her disposable income, is prescribed by regulations 6 and 7. Regulation 7 applies where the advice and assistance provided in a civil matter is limited to a diagnostic interview and the Board have not made a determination under regulation 8B(3) of the Advice and Assistance (Scotland) Regulations 1996 that the subject matter of that diagnostic interview should be treated as if it were a distinct matter. The scale prescribed in regulation 6 applies in any other case.
+
+The increases in relation to civil legal aid are as follows—
+
+The disposable income limit is increased from £25,450 a year to £26,239 and the disposable capital limit from £12,626 to £13,017. The disposable income threshold, above which a person may be required to contribute to the Scottish Legal Aid Fund (“the Fund”) in respect of income, is increased from £3,415 a year to £3,521 a year. The disposable capital threshold, above which a person may be required to contribute to the Fund in respect of capital, is increased from £7,617 to £7,853 (paragraphs (5) to (8) of regulation 4).
+
+Regulation 5 prescribes the maximum proportion of the excess of annual disposable income which a person may be required to contribute to the Fund in respect of civil legal aid. The excess is the amount by which a person’s annual disposable income exceeds the threshold specified in section 17(2)(a) of the Act (increased by regulation 4(7) to £3,521). The maximum contributable proportion of income prescribed remains 67.1%, as it has been since the Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2009 ([S.S.I. 2009/143](https://www.legislation.gov.uk/ssi/2009/143)).
+
+The increases described in relation to advice and assistance and civil legal aid only apply in relation to advice and assistance and civil legal aid applied for on or after 11th April 2011 (regulation 3).
+
+The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2010, which dealt with the foregoing matters in relation to cases where advice and assistance, or as the case may be civil legal aid, was applied for on or after 12th April 2010, are revoked. That revocation does not have effect in relation to advice and assistance and civil legal aid applied for before 11th April 2011 (regulation 9).
+
+Regulation 8 provides for advice and assistance to be available to any person to whom section 15A of the Criminal Procedure (Scotland) Act 1995 applies regardless of that person’s financial circumstances. Section 15A applies to any person suspected of committing an offence who (i) attends a police station or other place on a voluntary basis for questioning, (ii) any person detained within the meaning of section 14 of the Criminal Procedure (Scotland) Act 1995 and (iii) any person arrested but not charged who is being detained for the purposes of questioning. Regulation 8 has effect in relation to advice and assistance applied for on or after 11th April 2011.
+
+## Annotations
+
+[^f00001]: Footnote: [1986 c.47](https://www.legislation.gov.uk/ukpga/1986/47); section 8A was inserted by the Criminal Procedure (Legal Assistance, Detention and Appeals) (Scotland) Act [2010 (asp 15)](https://www.legislation.gov.uk/asp/2010/15), section 2(3). Section 11(2) was amended, other than by a substitution of figures, by the Social Security Act [1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50), Schedule 10 paragraph 61, by the Jobseekers Act [1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18), Schedule 2 paragraph 9, by the Access to Justice Act [1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22), section 33, by the Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21), Schedule 13 paragraph 12 and by the Welfare Reform Act [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5), Schedule 3 paragraph 4. Section 36(2)(b) was amended by the Legal Aid Act [1988 (c.34)](https://www.legislation.gov.uk/ukpga/1988/34), Schedule 4 paragraph 6. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-3d8904dd1fd318ef100a9b907e57c8e5]: Commencement: Reg. 1 in force at 11.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1)
+
+[^key-1af0e9c37130cef7fe1923e597334c80]: Commencement: Reg. 2 in force at 11.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1)
+
+[^key-3514d2b73e45843fbd3341140160f3f9]: Commencement: Reg. 3 in force at 11.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1)
+
+[^key-3abe7ee93ef942c98c8341a2570dd745]: Commencement: Reg. 4 in force at 11.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1)
+
+[^f00002]: Footnote: The figures in the Act amended by regulation 4 of these Regulations were last amended by [S.S.I. 2010/139](https://www.legislation.gov.uk/ssi/2010/139).
+
+[^key-e770d838cd3ea4d71938fce212e1ef5b]: Commencement: Reg. 5 in force at 11.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1)
+
+[^f00003]: Footnote: The proportion of the excess for the purposes of section 17(2)(a) was previously prescribed as 67.1% in [S.S.I. 2010/139](https://www.legislation.gov.uk/ssi/2010/139).
+
+[^key-8746d58ad22bb8b39e74632c172837ff]: Commencement: Reg. 6 in force at 11.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1)
+
+[^f00004]: Footnote: The maximum contribution payable in accordance with section 11(2) was previously prescribed by [S.S.I. 2010/139](https://www.legislation.gov.uk/ssi/2010/139).
+
+[^key-8f745a01bc93d91d6b32257d5b07a2a2]: Commencement: Reg. 7 in force at 11.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1)
+
+[^f00005]: Footnote: [S.I. 1996/2447](https://www.legislation.gov.uk/uksi/1996/2447); the definition of “diagnostic interview” and regulation 8A(2) were inserted by [S.S.I. 2007/60](https://www.legislation.gov.uk/ssi/2007/60).
+
+[^key-e36b939796102e8ce90d4a55456b3556]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/217/regulation/8) substituted (25.1.2018) by [The Criminal Legal Assistance (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/466)](https://www.legislation.gov.uk/ssi/2017/466), [regs. 1](https://www.legislation.gov.uk/ssi/2017/466/regulation/1), [10](https://www.legislation.gov.uk/ssi/2017/466/regulation/10)
+
+[^key-a962e4b2917b1eb70a7fd74a205d55aa]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/ssi/2011/217/regulation/8) renumbered as [reg. 8(a)](https://www.legislation.gov.uk/ssi/2011/217/regulation/8/a) (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 27(1)(a)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/27/1/a) (with [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/27/2))
+
+[^key-4e9048219ab79ab1b073369d0100f5d0]: Textual amendment: [Reg. 8(b)](https://www.legislation.gov.uk/ssi/2011/217/regulation/8/b) and word inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 27(1)(b)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/27/1/b) (with [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/27/2))
+
+[^key-08e7ccc619cd42d1b2b50809e872d25a]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/ssi/2011/217/regulation/8A) inserted (1.4.2016 with application in accordance with reg. 2 of the amending S.S.I.) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/136)](https://www.legislation.gov.uk/ssi/2016/136), [regs. 1](https://www.legislation.gov.uk/ssi/2016/136/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/136/regulation/3)
+
+[^key-37800daa9160a3f77f2d7523141dd0dc]: Commencement: Reg. 9 in force at 11.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1)
+
+[^f00007]: Footnote: [S.S.I. 2010/139](https://www.legislation.gov.uk/ssi/2010/139).

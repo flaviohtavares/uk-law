@@ -1,0 +1,33 @@
+---
+title: Courts Reform (Scotland) Act 2014, section 4
+act: Courts Reform (Scotland) Act 2014
+section: '4'
+status: revised-with-pending-changes
+text_date: '2026-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2014/18/section/4
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Courts Reform (Scotland) Act 2014, section 4
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/asp/2014/18
+>
+> Extent: Scotland.
+
+## 4. Sheriffs[^key-2f34ac02c04f7ac3f7cbc83a50c62fc1]
+
+*Extent: S*
+
+(1) For each sheriffdom, there are to continue to be judicial officers each to be known as a “sheriff” of the sheriffdom.
+
+(2) It is for Her Majesty to appoint an individual to the office of sheriff.
+
+(3) The First Minister may, under section 95(4) of the Scotland Act 1998, recommend to Her Majesty the appointment of an individual to the office of sheriff only if the individual is qualified for appointment (see section 14).
+
+(4) Subsection (3) does not affect the operation of section 11 of the Judiciary and Courts (Scotland) Act 2008 (recommendation by the Judicial Appointments Board for Scotland).
+
+## Annotations
+
+[^key-2f34ac02c04f7ac3f7cbc83a50c62fc1]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2014/18/section/4) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

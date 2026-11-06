@@ -1,0 +1,436 @@
+---
+title: The Non-Domestic Rates (Retail, Hospitality and Leisure Relief) (Scotland) Regulations 2026
+id: ssi/2026/69
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2026-02-10'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2026/69
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2026/69/pdfs/ssipn_20260069_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2026/69/pdfs/ssi_20260069_en.pdf
+- http://www.legislation.gov.uk/ssi/2026/69/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rates (Retail, Hospitality and Leisure Relief) (Scotland) Regulations 2026
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2026 No. 69
+
+Rating And Valuation
+
+The Non-Domestic Rates (Retail, Hospitality and Leisure Relief) (Scotland) Regulations 2026
+
+Made
+
+10th February 2026
+
+Laid before the Scottish Parliament
+
+12th February 2026
+
+Coming into force
+
+1st April 2026
+
+The Scottish Ministers make the following Regulations in exercise of the power conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement[^key-9a4b8a3877986da8bbff230e9822c13e]
+
+These Regulations may be cited as the Non-Domestic Rates (Retail, Hospitality and Leisure Relief) (Scotland) Regulations 2026 and come into force on 1 April 2026.
+
+## 2. Interpretation[^key-3993cf7cf455006b17784b71dcf375e7]
+
+(1) In these Regulations—
+
+- “**island**” means a naturally formed area of land in Scotland which is—
+  - (a) surrounded on all sides by the sea (ignoring artificial structures such as bridges), and
+  - (b) above water at high tide,
+- “**lands and heritages**” has the meaning prescribed by section 42 (interpretation clause) of the Lands Valuation (Scotland) Act 1854[^f00002],
+- “**rates**” means non-domestic rates levied under section 7B (provisions as to setting of non-domestic rates) of the Local Government (Scotland) Act 1975[^f00003],
+- “**the 2022 Regulations**” means the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2022[^f00004], and
+- “**the 2026 Regulations**” means the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026[^f00005].
+
+(2) For the purposes of class 13 in schedule 1, “**park**” includes any recreation ground or pleasure ground.
+
+## 3. Applications for relief[^key-00ae1a91957d5bf9f0a3ab6e1bb99406]
+
+(1) An application for relief under these Regulations must—
+
+- (a) be signed by the ratepayer or a person authorised to sign on behalf of the ratepayer, and
+- (b) be made to the rating authority in whose roll the entry for the lands and heritages appears by—
+  - (i) addressing it to the authority, and
+  - (ii) delivering it or sending it to the authority’s office by post or electronic communication.
+
+(2) For the purposes of paragraph (1)—
+
+- “**electronic communication**” has the meaning given to it by section 15(1) (general interpretation) of the Electronic Communications Act 2000 (“**the 2000 Act**”)[^f00006],
+- “**person authorised to sign on behalf of the ratepayer**” means—
+  - (a) where the ratepayer is a partnership, a partner of that partnership or any other person authorised by it,
+  - (b) where the ratepayer is a trust, a trustee of that trust or any other person authorised by it,
+  - (c) where the ratepayer is a body corporate, a director of that body corporate or any other person authorised by it,
+- “sign” or “**signed**”, in relation to an application made by electronic communication, means an electronic signature, as defined in section 7(2) (electronic signatures and related certificates) of the 2000 Act[^f00007].
+
+## 4A. Relief for lands and heritages used for certain hospitality or music purposes where the rateable value is no more than £100,000[^key-fbed0da5a83918b1ffcb3f8c4fa15eaa]
+
+(1) A person liable to pay rates in respect of lands and heritages on a day in the 2026-2027 financial year is entitled to the relief described in paragraph (3) in respect of the lands and heritages where the conditions described in paragraph (2) are met.
+
+(2) The conditions are—
+
+- (a) the lands and heritages are wholly or mainly used on that day for a purpose specified in the classes in schedule 1A,
+- (b) the lands and heritages have a rateable value of £100,000 or less,
+- (c) the person is not granted relief in respect of the lands and heritages under regulation 5, and
+- (d) an application for relief is made in accordance with regulation 3(1).
+
+(3) Subject to paragraph (8) and regulation 6, the relief is that the rates payable in respect of the lands and heritages for the day are reduced by an amount equivalent to 40% of the daily gross rates payable.
+
+(4) In this regulation “**the daily gross rates payable**” means, subject to paragraphs (5) to (7)—
+
+- (a) where the rateable value of the lands and heritages is £51,000 or less, the rateable value of the lands and heritages, multiplied by 0.481, and then divided by 365,
+- (b) where the rateable value of the lands and heritages is more than £51,000, the rateable value of the lands and heritages, multiplied by 0.535, and then divided by 365.
+
+(5) Where, in respect of any day on which a person is granted relief under this regulation—
+
+- (a) the person is also granted relief under Part 3 (improved property) of the 2022 Regulations, and
+- (b) regulation 7 (amount payable as rates) of the 2026 Regulations does not apply to the lands and heritages,
+
+- “**the daily gross rates payable**” means the rateable value of the lands and heritages minus the reference amount (see paragraph (9)), multiplied by—
+  - (a) 0.481, and then divided by 365, where the rateable value is £51,000 or less,
+  - (b) 0.535, and then divided by 365, where the rateable value is more than £51,000 but less than £100,000.
+
+(6) Where, in respect of any day on which a person is granted relief under this regulation—
+
+- (a) the person is also granted relief under Part 3 of the 2022 Regulations, and
+- (b) regulation 7 of the 2026 Regulations does apply to the lands and heritages,
+
+- “**the daily gross rates payable**” means the transitional limit calculated in accordance with regulation 10C(5) (relief granted – financial year 2026-2027 – lands and heritages in respect of which a relevant increase has been made within the previous 12 months) of the 2022 Regulations[^f00003].
+
+(7) Where, in respect of any day on which a person is granted relief under this regulation—
+
+- (a) the person is not granted relief under Part 3 of the 2022 Regulations, but
+- (b) regulation 7 of the 2026 Regulations does apply to the lands and heritages,
+
+- “**the daily gross rates payable**” means the transitional limit calculated in accordance with regulation 9 of the 2026 Regulations.
+
+(8) Relief granted by this regulation does not apply to the extent that it would reduce the rates payable to an amount less than nil.
+
+(9) In this regulation “**the reference amount**” means the total amount of any relevant increases under section 2A(5) (mark in valuation roll for new or improved properties) of the Local Government (Scotland) Act 1975[^f00004] made in respect of the lands and heritages taking effect on a day within the previous 12 months.
+
+## 4. Relief for lands and heritages used for retail, hospitality or leisure purposes where the rateable value is no more than £100, 000[^key-7edaf79bcb6f13bb5b7b5e52fd2f6a76]
+
+(1) A person liable to pay rates in respect of lands and heritages on a day in the 2026-2027 financial year is entitled to the relief described in paragraph (3) in respect of the lands and heritages where the conditions described in paragraph (2) are met.
+
+(2) The conditions are—
+
+- (a) the lands and heritages are wholly or mainly used on that day for a purpose specified in the classes in schedule 1,
+- (b) where the lands and heritages are wholly or mainly used on that day for a purpose for which a short-term let licence is required, in accordance with article 4 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022[^f00008], such a licence has been obtained,
+- (c) the lands and heritages have a rateable value of £100,000 or less,
+- (d) the person is not granted relief in respect of the lands and heritages under regulation 5, and
+- (e) an application for relief is made in accordance with regulation 3(1).
+
+(3) Subject to paragraph (8) and to regulation 6, the relief is that the rates payable in respect of the lands and heritages for the day are reduced by an amount equivalent to 15% of the daily gross rates payable.
+
+(4) In this regulation “**the daily gross rates payable**” means, subject to paragraphs (5) to (7)—
+
+- (a) where the rateable value of the lands and heritages is £51,000 or less, the rateable value of the lands and heritages, multiplied by 0.481, and then divided by 365,
+- (b) where the rateable value of the lands and heritages is more than £51,000, the rateable value of the lands and heritages, multiplied by 0.535 and then divided by 365.
+
+(5) Where, in respect of any day on which a person is granted relief under this regulation—
+
+- (a) the person is also granted relief under Part 3 (improved property) of the 2022 Regulations, and
+- (b) regulation 7 (amount payable as rates) of the 2026 Regulations does not apply to the lands and heritages,
+  - “**the daily gross rates payable**” means the rateable value of the lands and heritages minus the reference amount (see paragraph (9), multiplied by—
+    - (a) 0.481, and then divided by 365, where the rateable value is £51,000 or less,
+    - (b) 0.535, and then divided by 365, where the rateable value is more than £51,000 but less than £100,000.
+
+(6) Where, in respect of any day on which a person is granted relief under this regulation—
+
+- (a) the person is also granted relief under Part 3 of the 2022 Regulations, and
+- (b) regulation 7 of the 2026 Regulations does apply to the lands and heritages,
+  - “**the daily gross rates payable**” means the transitional limit calculated in accordance with regulation 10C(5) (relief granted – financial year 2026-2027 – lands and heritages in respect of which a relevant increase has been made within the past 12 months) of the 2022 Regulations.
+
+(7) Where, in respect of any day on which a person is granted relief under this regulation—
+
+- (a) the person is not granted relief under Part 3 of the 2022 Regulations, but
+- (b) regulation 7 of the 2026 Regulations does apply to the lands and heritages,
+  - “**the daily gross rates payable**” means the transitional limit calculated in accordance with regulation 9 of the 2026 Regulations.
+
+(8) Relief granted by this regulation does not apply to the extent that it would reduce the rates payable to an amount less than nil.
+
+(9) In this regulation “**the reference amount**” means the total amount of any relevant increases under section 2A(5) (mark in valuation roll for new or improved properties) of the Local Government (Scotland) Act 1975[^f00009] made in respect of the lands and heritages taking effect on a day within the previous 12 months.
+
+## 5. Relief for lands and heritages used for retail, hospitality or leisure purposes on islands and in specified remote areas[^key-47690f98c02a1bc1f942b63a2b08fae9]
+
+(1) This regulation grants relief to a person liable to pay rates in respect of lands and heritages on a day in the 2026-2027 financial year where—
+
+- (a) the lands and heritages are situated—
+  - (i) on an island, or
+  - (ii) in one of the following—
+    - (aa) that part of the area known as Cape Wrath which is enclosed by the boundary described in Part 1 of schedule 2,
+    - (bb) that part of the area known as Knoydart which is enclosed by the boundary described in Part 2 of schedule 2,
+    - (cc) that part of the area known as Scoraig which is enclosed by the boundary described in Part 3 of schedule 2,
+- (b) the lands and heritages are wholly or mainly used on that day for a purpose specified in the classes in schedule 1 or schedule 1A[^key-b633a19d018c8105986e58e11f1ecf67],
+- (c) where the lands and heritages are wholly or mainly used on that day for a purpose for which a short-term let licence is required, in accordance with article 4 of the Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022[^f00010], such a licence has been obtained, and
+- (d) an application for relief is made in accordance with regulation 3(1).
+
+(2) Subject to regulation 6, the relief granted is that the rates payable in respect of the lands and heritages described in paragraph (1) for the day are reduced to nil.
+
+## 6. Limitation on reduction in liability[^key-f55f313d3a2f3d9ab1eaa8555388d151][^key-f55f313d3a2f3d9ab1eaa8555388d151][^key-f7d05c189bbf24d4aebcbf41ae83c259]
+
+The maximum amount by which the liability of any person to pay rates may be reduced under regulation 4, 4A or 5, or any combination of those regulations, is £110,000.
+
+IVAN MCKEE
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+10th February 2026
+
+## SCHEDULE 1 — Specified Purposes[^key-55d545625df2baa0ebd0a8f7e0c34dc9][^key-d4221e6108a476f090fe36ff0391862f]
+
+Regulations 4(2)(a) and 5(1)(b)
+
+### Class 1 Bed and breakfast accommodation or guest house
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as bed and breakfast accommodation or as a guest house.
+
+### Class 2 Camping site
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a camping site.
+
+### Class 3 Caravan
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a caravan (within the meaning of Part 1 of the Caravan Sites and Control of Development Act 1960).
+
+### Class 4 Caravan site
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a caravan site (within the meaning of Part 1 of the Caravan Sites and Control of Development Act 1960).
+
+### Class 5 Chalet, holiday hut or bothy
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a chalet, holiday hut or bothy.
+
+### Class 6 Self-catering holiday accommodation
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as self-catering holiday accommodation.
+
+### Class 7 Timeshare accommodation
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as timeshare accommodation.
+
+### Class 8 Market
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a market place on which goods are exhibited for sale to members of the public.
+
+### Class 9 Retail shop
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a shop, being a building or part of a building that is used for the retail sale of goods to members of the public who visit the building to buy goods for consumption or use elsewhere, whether or not by the buyer, for purposes unconnected with a trade or business.
+
+### Class 10 Leisure
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as an art gallery or centre, sports club, sports centre, sports ground, clubhouse, gymnasium, museum, cinema, theatre, ticket office, recreational centre, recreational ground, park, bingo hall, tourist attraction or tourist facility.
+
+Use as an amusement arcade, but excluding any lands and heritages on which any licence allows the operation of a sub-category B2 gaming machine, within the meaning of regulation 5(5) of the Categories of Gaming Machine Regulations 2007.
+
+Use as a theme park, soft play centre, or as a venue for recreational activities such as ten pin bowling, laser tag, paintballing, escape rooms or miniature golf.
+
+Use as a venue for lectures or lessons undertaken for recreational purposes, such as language lessons, music and dance lessons, or pottery and arts lessons.
+
+### Class 11 Service providers
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use to provide hair and beauty services, shoe repairs, key cutting, photo processing, laundry services, car or tool hire, car washing or repair of domestic/electrical goods.
+
+### Class 12 Massage parlour or health spa
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a massage parlour or a health spa.
+
+### Class 13 Funeral parlour
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a funeral parlour.
+
+### Class 14 Travel agency
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a travel agency or by a tour operator.
+
+### Class 15 Meeting, event or activity space
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a public hall or venue for hire for events or activities, where the events or activities are principally for the benefit of visiting members of the public.
+
+Use as a venue for meetings of voluntary associations.
+
+### Class 16 Use as a facility for youth organisations
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]
+
+Use as a venue for meetings and activities of youth organisations, such as a scout hut.
+
+## SCHEDULE 1A — Specified Purposes – Hospitality and Music
+
+Regulation 4A(2)(a) and 5(1)(b)
+
+### Class 1 Hotel or hostel
+
+Use as a hotel or hostel, where no significant element of care is provided.
+
+### Class 2 Live music venue
+
+Use as a venue to host live music events where both of the following conditions is satisfied—
+
+- (a) the premises are used as an indoor, permanent venue operating all-year round, and
+- (b) the venue is used to host live music events for a public audience.
+
+### Class 3 Public house or night club
+
+Use as a public house or nightclub where each of the following conditions are satisfied—
+
+- (a) a premises licence authorising the sale of alcohol for consumption both on and off the premises has been issued by a licensing board under section 26 (issue of licence and summary) of the Licensing (Scotland) Act 2005,
+- (b) the premises are used for such sales to members of the public, principally for consumption on the premises, in accordance with the operating plan contained in the premises licence, and
+- (c) the operating plan contained in the premises licence does not include any provision that such sales are made subject to those members of the public residing at, or consuming food on, the premises.
+
+### Class 4 Restaurant
+
+Use for the sale of food or refreshments to members of the public for consumption on those premises, including any café, coffee shop, bistro, fast food restaurant or snack bar that is so used.
+
+## SCHEDULE 2 — Description of areas – boundaries
+
+Regulation 5(1)
+
+### PART 1 — Cape Wrath[^key-2c4836113b9f58188cd9968c91b10c58]
+
+From OS Grid Reference NC 28476 60018, the boundary follows Abhainn an t-Strathann in a westerly, then north-westerly direction to OS Grid Reference NC 23085 63339. (B) The boundary then follows the Sandwood Loch to OS Grid Reference NC 22556 65099, (C) from which point it follows the high water coastline in a northerly, then easterly, then southerly direction to OS Grid Reference NC 35227 62844. (D) From this point, the boundary follows the Grudie River in a westerly, then south-westerly direction to OS Grid Reference NC 31694 61853, (E) and then in a south-westerly direction to the starting point at OS Grid Reference NC 28476 60018.
+
+### PART 2 — Knoydart[^key-2c1afe2178899d4c13489610e78119fa]
+
+From OS Grid Reference NM 91245 93007, the boundary follows Amhain Ceann-loch-morair in a west-south-westerly direction to OS Grid Reference to OS Grid Reference NM 86389 90774, (B) and then the northern shore of Loch Morar to OS Grid Reference NM 73795 91798. (C) From here, the boundary follows Allt an Inbhire Chruaidh, Lochan a’ chuirn Duibh, and Lochan Stole in a northerly direction to OS Grid Reference NM 74476 93867. (D) The boundary then follows a north-westerly direction to OS Grid Reference NM 75283 94662, (E) from which it continues in an easterly, northerly, westerly, north-westerly, north-easterly, and then easterly direction, along the high water coastline, to OS Grid Reference NG 92820 07243. (F) From here, the boundary continues in a south-south-easterly direction to OS Grid Reference NG 96593 01169, (G) following which it follows the northern shore of Loch Cuaich in a westerly direction to OS Grid Reference NM 93224 99081, (H) and then Allt Coire nan Gall in a southerly direction to OS Grid Reference NM 92709 97505. (I) The boundary then goes in a southerly direction to the starting point at OS Grid Reference NM 91245 93007.
+
+### PART 3 — Scoraig[^key-e6935ae6fb9476bb63484f255e45d7ea]
+
+From OS Grid Reference NH 08429 96166, the boundary follows Allt Uisge na Feith to OS Grid Reference NH 06951 93952, (B) and then in a southerly direction to OS Grid Reference NH 05456 91758. (C) The boundary then follows the high water coastline in a north-westerly, northerly, south-easterly, and north-easterly direction to the starting point at OS Grid Reference NH 08429 96166.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for relief from liability to pay non-domestic rates for lands and heritages used for certain purposes, for the financial year 2026-2027.
+
+Regulation 3 makes provision for how an application to obtain the relief in regulation 4 must be made.
+
+Regulation 4 and schedule 1 provide for relief from liability to pay rates in respect of use of lands and heritages wholly or mainly for retail, hospitality or leisure purposes, where the lands and heritages have a rateable value of no more than £100,000. The relief applies to lands and heritages which have a rateable value no higher than that threshold, other than those granted relief under regulation 5.
+
+Regulation 4(3) sets out that in respect of any day in the financial year 2026-2027, the rates payable are reduced by an amount equivalent to 15% of the gross rates payable in respect of the lands and heritages for the day. Regulation 4(4) to (7) sets out how the figure to be taken to represent the gross rates payable in respect of a day is to be arrived at, this depending on whether or not relief under either or both of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2026 and the Non-Domestic Rates (Relief for New and Improved Properties) (Scotland) Regulations 2022 is also granted, in addition to relief under these Regulations. The relief given to any particular ratepayer under these Regulations may not reduce the amount of rates that are payable to less than nil. Further, entitlement to the relief is excluded where lands and heritages are used wholly or mainly for a purpose for which a short-term let licence is required, but no such licence has been obtained.
+
+Regulation 5 and schedules 1 and 2 provide for relief from liability to pay rates in respect of lands and heritages used wholly or mainly for retail, hospitality and leisure purposes where they are situated on an island falling within the definition in regulation 2 or in remote areas falling within the boundaries described in schedule 2. The boundaries in schedule 2 are described using Ordnance Survey National Grid references, along with a topographical description of the course of the boundary between each grid reference. Together these boundaries enclose the three areas in question. The areas form part of peninsulas, namely Cape Wrath, Knoydart, and Scoraig, which are not accessible via the public road network. Illustrative maps of the areas falling within the boundaries accompany this explanatory note. Copies are also available for inspection at the Scottish Government Local Government and Analytical Services Division, Victoria Quay, Edinburgh, EH6 6QQ. Regulation 5(2) provides that 100% relief is granted in respect of any day in the financial year 2026-2027. Entitlement to the relief is excluded where lands and heritages are used wholly or mainly for a purpose for which a short-term let licence is required, but no such licence has been obtained.
+
+Regulation 6 provides that the maximum amount by which the rates liability of a particular ratepayer may be reduced under these regulations is £110,000. This will apply to relief under regulation 4 or 5, where only one applies, or to the combined effect of relief under both regulations, where a ratepayer has lands and heritages eligible for relief under regulation 4 and other lands and heritages eligible for relief under regulation 5.
+
+This map depicts the area described in part 1 of schedule 2 (Cape Wrath) for illustrative purposes only and has no legal effect.
+
+[image: see source](https://www.legislation.gov.uk/ssi/2026/69/images/ssi_20260069_en_001)
+
+Reproduced by permission of Ordnance Survey on behalf of HMSO. © Crown copyright and database right 2026. All rights reserved. Ordnance Survey Licence number AC0000849451.
+
+This map depicts the area described in part 2 of schedule 2 (Knoydart) for illustrative purposes only and has no legal effect.
+
+[image: see source](https://www.legislation.gov.uk/ssi/2026/69/images/ssi_20260069_en_002)
+
+Reproduced by permission of Ordnance Survey on behalf of HMSO. © Crown copyright and database right 2026. All rights reserved. Ordnance Survey Licence number AC0000849451.
+
+This map depicts the area described in Part 3 of schedule 2 (Scoraig) for illustrative purposes only and has no legal effect.
+
+[image: see source](https://www.legislation.gov.uk/ssi/2026/69/images/ssi_20260069_en_003)
+
+Reproduced by permission of Ordnance Survey on behalf of HMSO. © Crown copyright and database right 2026. All rights reserved. Ordnance Survey Licence number AC0000849451.
+
+## Annotations
+
+[^f00001]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 153 was amended by section 67 of the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12) and section 15 of the Non-Domestic Rates (Scotland) Act [2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-9a4b8a3877986da8bbff230e9822c13e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1)
+
+[^key-3993cf7cf455006b17784b71dcf375e7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/69/regulation/2) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1)
+
+[^f00002]: Footnote: [1854 c. 91](https://www.legislation.gov.uk/ukpga/1854/91) (17 & 18 Vict.). Section 42 was amended by the Statute Law Revision Act [1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19), section 1 of the Lands Valuation (Scotland) Amendment Act [1902 (c. 25)](https://www.legislation.gov.uk/ukpga/1902/25) and section 152(2) of the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^f00003]: Footnote: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30). Section 7B was inserted by section 110(2) of the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) and amended by paragraph 100(4) of schedule 13 of the Local Government etc. (Scotland) Act 1994.
+
+[^f00004]: Footnote: [S.S.I. 2022/49](https://www.legislation.gov.uk/ssi/2022/49), amended by [S.S.I. 2023/30](https://www.legislation.gov.uk/ssi/2023/30), [S.S.I. 2023/31](https://www.legislation.gov.uk/ssi/2023/31), [S.S.I. 2024/5](https://www.legislation.gov.uk/ssi/2024/5), [S.S.I. 2025/39](https://www.legislation.gov.uk/ssi/2025/39) and [S.S.I. 2026/70](https://www.legislation.gov.uk/ssi/2026/70).
+
+[^f00005]: Footnote: [S.S.I. 2026/70](https://www.legislation.gov.uk/ssi/2026/70).
+
+[^key-00ae1a91957d5bf9f0a3ab6e1bb99406]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/69/regulation/3) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1)
+
+[^f00006]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
+
+[^f00007]: Footnote: Section 7(2) was amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696).
+
+[^key-fbed0da5a83918b1ffcb3f8c4fa15eaa]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2026/69/regulation/4A) inserted (31.3.2026) by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/135/regulation/2/2)
+
+[^key-7edaf79bcb6f13bb5b7b5e52fd2f6a76]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/69/regulation/4) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1)
+
+[^f00008]: Footnote: [S.S.I. 2022/32](https://www.legislation.gov.uk/ssi/2022/32). Article 4 was amended by [S.S.I. 2024/227](https://www.legislation.gov.uk/ssi/2024/227).
+
+[^f00009]: Footnote: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30). Section 2A was inserted by section 3 of the Non-Domestic Rates (Scotland) Act [2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4) and amended by [S.S.I. 2022/126](https://www.legislation.gov.uk/ssi/2022/126).
+
+[^key-47690f98c02a1bc1f942b63a2b08fae9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2026/69/regulation/5) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1)
+
+[^key-b633a19d018c8105986e58e11f1ecf67]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/ssi/2026/69/regulation/5/1/b) inserted (31.3.2026) by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/135/regulation/2/3)
+
+[^f00010]: Footnote: [S.S.I. 2022/32](https://www.legislation.gov.uk/ssi/2022/32). Article 4 was amended by [S.S.I. 2024/227](https://www.legislation.gov.uk/ssi/2024/227).
+
+[^key-f55f313d3a2f3d9ab1eaa8555388d151]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2026/69/regulation/6) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1)
+
+[^key-f7d05c189bbf24d4aebcbf41ae83c259]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2026/69/regulation/6) substituted (31.3.2026) by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2026/135/regulation/2/4)
+
+[^key-55d545625df2baa0ebd0a8f7e0c34dc9]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/69/schedule/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1)
+
+[^key-d4221e6108a476f090fe36ff0391862f]: Textual amendment: [Schs. 1](https://www.legislation.gov.uk/ssi/2026/69/schedule/1), [sch. 1A](https://www.legislation.gov.uk/ssi/2026/69/schedule/1A) substituted for [sch. 1](https://www.legislation.gov.uk/ssi/2026/69/schedule/1) (31.3.2026) by [The Non-Domestic Rates (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/135)](https://www.legislation.gov.uk/ssi/2026/135), [regs. 1](https://www.legislation.gov.uk/ssi/2026/135/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2026/135/regulation/2/5)
+
+[^key-2c4836113b9f58188cd9968c91b10c58]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2026/69/schedule/2/part/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1)
+
+[^key-2c1afe2178899d4c13489610e78119fa]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2026/69/schedule/2/part/2) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1)
+
+[^key-e6935ae6fb9476bb63484f255e45d7ea]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/ssi/2026/69/schedule/2/part/3) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/69/regulation/1)

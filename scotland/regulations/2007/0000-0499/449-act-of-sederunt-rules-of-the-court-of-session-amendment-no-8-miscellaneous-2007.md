@@ -1,0 +1,223 @@
+---
+title: Act of Sederunt (Rules of the Court of Session Amendment No. 8) (Miscellaneous) 2007
+id: ssi/2007/449
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-10-04'
+text_date: '2025-01-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2007/449
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2007/449/pdfs/ssi_20070449_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/449/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Rules of the Court of Session Amendment No. 8) (Miscellaneous) 2007
+
+> Text as at 2025-01-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2007 No. 449
+
+COURT OF SESSION
+
+Act of Sederunt (Rules of the Court of Session Amendment No. 8) (Miscellaneous) 2007
+
+Made
+
+4th October 2007
+
+Coming into force
+
+25th October 2007
+
+The Lords of Council and Session, under and by virtue of the powers conferred by section 5 of the Court of Session Act 1988[^f00001], and, these rules making provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appearing to the Lords of Council and Session that it is expedient for the reference to Council Regulation (E.C.) No. 1348/2000 of 29th May 2000 on service in the Member States of judicial and extrajudicial documents in civil and commercial matters and Council Regulation (E.C.) No. 1346/2000 of 29th May 2000 on insolvency proceedings to be construed as a reference to those instruments as amended from time to time, under and by virtue of the powers conferred by paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00002], and under and by virtue of all other powers enabling them in that behalf, do hereby enact and declare:
+
+## 1. Citation and commencement[^key-88d49fe445d867b8da62ef60f897b572]
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session Amendment No. 8) (Miscellaneous) 2007 and shall come into force on 25th October 2007.
+
+(2) This Act of Sederunt shall be inserted in the Books of Sederunt.
+
+## 2. Amendment of the Rules of the Court of Session[^key-8b0f0e48a84683c5f24cffafe9458640]
+
+(1) The Rules of the Court of Session 1994[^f00003] shall be amended in accordance with the following sub paragraphs.
+
+(2) In rule 16.2A(1) (service under the Council Regulation)[^f00004] for the definition of “Council Regulation” there shall be substituted the following:–
+
+> - “Council Regulation” means Council Regulation (E.C.) No. 1348/2000 of 29th May 2000 on service in the Member States of judicial and extrajudicial documents in civil and commercial matters as amended from time to time and as applied by the Agreement of 19th October 2005 between the European Community and the Kingdom of Denmark on the service of judicial and extrajudicial documents in civil and commercial matters[^f00005].
+
+.
+
+(3) In rule 42.2(1A) (diet of taxation: note of objection)[^f00006] for “3 working days prior to” there shall be substituted “4.00pm on the fourth business day before”.
+
+(4) After rule 42.2(2) (diet of taxation: duty to provide vouching) there shall be inserted the following:–
+
+> (3) In this rule, a “business day” means any day other than a Saturday, Sunday, or public holiday as directed by the Lord President of the Court of Session.
+
+.
+
+(5) After rule 58.8(2) (compearing parties)[^f00007] there shall be inserted the following:–
+
+> (3) For the purposes of paragraph (2) above, the Commission for Equality and Human Rights shall be regarded as directly affected by an issue raised where it has, in relation to that issue, title and interest by virtue of section 30(2) of the Equality Act 2006[^f00008].
+
+.
+
+(6) For rule 72.1(1) (interpretation)[^f00009] there shall be substituted the following:–
+
+> (1) In this Chapter–
+>
+> - “the Act of 1985” means the Bankruptcy (Scotland) Act 1985[^f00010];
+> - “the Council Regulation” means Council Regulation (E.C.) No. 1346/2000 of 29th May 2000 on insolvency proceedings as it may be amended from time to time[^f00011];
+> - “centre of main interests” has the same meaning as in the Council Regulation;
+> - “establishment” has the same meaning as in Article 2(h) of the Council Regulation;
+> - “main proceedings” means proceedings opened in accordance with Article 3(1) of the Council Regulation and falling within the definition of insolvency proceedings in Article 2(a) of the Council Regulation and–
+>   - (a) in relation to England and Wales and Scotland, set out in Annex A to the Council Regulation under the heading “United Kingdom”; and
+>   - (b) in relation to another Member State, set out in Annex A to the Council Regulation under the heading relating to that Member State;
+> - “Member State” means a Member State of the European Community that has adopted the Council Regulation;
+> - “territorial proceedings” means proceedings opened in accordance with Article 3(2) and 3(4) of the Council Regulation and falling within the definition of insolvency proceedings in Article 2(a) of the Council Regulation and–
+>   - (a) in relation to England and Wales and Scotland, set out in Annex A to the Council Regulation under the heading “United Kingdom”; and
+>   - (b) in relation to another Member State, set out in Annex A to the Council Regulation under the heading relating to that Member State;
+
+.
+
+(7) For rule 72.1A (application of EU regulation)[^f00012] there shall be substituted the following:–
+
+> **72.1A. Application of the Council Regulation**
+>
+> A petition for sequestration to which section 12 of the Act of 1985 (petition for sequestration of debtor’s estate) applies shall include averments stating the basis for jurisdiction under the Council Regulation, in particular stating, so far as known to the petitioner–
+>
+> - (a) where the centre of main interests of the debtor is and whether the debtor has any other establishments in another Member State; and
+> - (b) whether there are insolvency proceedings elsewhere in respect of the debtor and whether those proceedings are main or territorial.
+
+.
+
+(8) In rule 74.1(2) (companies: application and interpretation of this Chapter)[^f00013]–
+
+- (a) for “the EC Regulation” to “insolvency proceedings” there shall be substituted the following:–
+
+  > - “the Council Regulation” means Council Regulation (E.C.) No. 1346/2000 of 29th May 2000 on insolvency proceedings as it may be amended from time to time;
+  > - “centre of main interests” has the same meaning as in the Council Regulation;
+  > - “establishment” has the same meaning as in Article 2(h) of the Council Regulation;
+  > - “main proceedings” means proceedings opened in accordance with Article 3(1) of the Council Regulation and falling within the definition of insolvency proceedings in Article 2(a) of the Council Regulation and–
+  >   - (a) in relation to England and Wales and Scotland, set out in Annex A to the Council Regulation under the heading “United Kingdom”; and
+  >   - (b) in relation to another Member State, set out in Annex A to the Council Regulation under the heading relating to that Member State;
+  > - “Member State” means a Member State of the European Community that has adopted the Council Regulation;
+
+  .
+- (b) at the end there shall be inserted the following:–
+
+  > - “territorial proceedings” means proceedings opened in accordance with Article 3(2) and 3(4) of the Council Regulation and falling within the definition of insolvency proceedings in Article 2(a) of the Council Regulation and–
+  >   - (a) in relation to England and Wales and Scotland, set out in Annex A to the Council Regulation under the heading “United Kingdom”; and
+  >   - (b) in relation to another Member State, set out in Annex A to the Council Regulation under the heading relating to that Member State.
+
+  .
+
+(9) For rule 74.10(2)(j) (averments in petition for administration)[^f00014] there shall be substituted the following:–
+
+> - (j) in the case of a petition under the Act of 1986[^f00015], jurisdiction under the Council Regulation, in particular stating, so far as known to the petitioner–
+>   - (i) where the centre of main interests of the company is and whether the company has any other establishments in another Member State; and
+>   - (ii) whether there are insolvency proceedings elsewhere in respect of the company and whether those proceedings are main or territorial proceedings;
+
+.
+
+(10) In rule 74.21 (petition to wind up a company)–
+
+- (a) after sub paragraph (b)(iii) there shall be inserted the following:–
+
+  > - (iv) where the centre of main interests of the company is and whether the company has any other establishments in another Member State;
+
+  ; and
+- (b) at the end there shall be inserted the following:–
+
+  > - (f) whether there are insolvency proceedings elsewhere in respect of the company and whether those proceedings are main or territorial proceedings.
+
+  .
+
+(11) For rule 74.34(2)(a) (intimation of petition for disqualification order)[^f00016] there shall be substituted the following:–
+
+> - (a) to the Secretary of State for Business, Enterprise and Regulatory Reform; or
+
+.
+
+(12)[^key-bbd086c722c35bcc7d53384491dfe47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13)[^key-bbd086c722c35bcc7d53384491dfe47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+A C HAMILTON
+
+Lord President, I.P.D.
+
+Edinburgh
+
+4th October 2007
+
+## SCHEDULE[^key-ab0005e8539a716f6e7a3dfcbc9795d4]
+
+Paragraph 2(13)
+
+ 
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt makes miscellaneous amendments to the Rules of the Court of Session 1994 (S.I. [1994/1443](https://www.legislation.gov.uk/uksi/1994/1443)).
+
+Paragraph 2(2) amends the definition of Council Regulation (E.C.) No. 1348/2000 of 29th May 2000 on service of judicial and extrajudicial documents to take account of the extension of the Council Regulation to Denmark by an Agreement between the European Community and the Kingdom of Denmark of 19th October 2005 and to incorporate references to any future amendments of the Council Regulation.
+
+Amendments are also made to the rule on diets of taxation to clarify the time limits within which any note of objection must be received within the offices of the Auditor of Court: see paragraphs 2(3) and (4).
+
+Further, amendments are made to the rules on petitions for sequestration and for administration or winding up of a company to provide further requirements for averments relating to jurisdiction in light of Council Regulation (E.C.) No. 1346/2000 of 29th May 2000 on insolvency proceedings. Also, an amendment is made to incorporate references to any future amendments of Council Regulation (E.C.) No. 1346/2000: see paragraphs 2(6) to (10).
+
+Paragraph 2(11) amends rule 74.34 on intimation of petitions for a disqualification order for a company director to take account of the transfer of certain functions from the Secretary of State for Trade and Industry to the Secretary of State for Business, Enterprise and Regulatory Reform.
+
+Finally, paragraphs 2(5), (12) and (13) make provision for interventions by the Commission for Equality and Human Rights in proceedings as a consequence of the coming into force of section 30 of the Equality Act [2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3).
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36). Section 5 was amended by the Civil Evidence (Scotland) Act [1988 c. 32](https://www.legislation.gov.uk/ukpga/1988/32), section 2(3), the Children (Scotland) Act [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 45 and by the [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(1).
+
+[^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
+
+[^key-88d49fe445d867b8da62ef60f897b572]: Commencement: Para. 1 in force at 25.10.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/1/1)
+
+[^key-8b0f0e48a84683c5f24cffafe9458640]: Commencement: Para. 2 in force at 25.10.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/1/1)
+
+[^f00003]: Footnote: S.I. [1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2007/360](https://www.legislation.gov.uk/ssi/2007/360).
+
+[^f00004]: Footnote: Rule 16.2A was inserted by [S.S.I. 2004/52](https://www.legislation.gov.uk/ssi/2004/52).
+
+[^f00005]: Footnote: O.J. No. L 160, 30.6.2000 p.37-52 and O.J. No. L 300, 17.11.2005 p.55-60.
+
+[^f00006]: Footnote: Rule 41.2(1A) was inserted by [S.S.I. 2001/305](https://www.legislation.gov.uk/ssi/2001/305).
+
+[^f00007]: Footnote: Rule 58.8(2) was amended by [S.S.I. 2000/317](https://www.legislation.gov.uk/ssi/2000/317).
+
+[^f00008]: Footnote: [2006 c. 3](https://www.legislation.gov.uk/ukpga/2006/3).
+
+[^f00009]: Footnote: Rule 72.1 was amended by [S.S.I. 2004/514](https://www.legislation.gov.uk/ssi/2004/514) and substituted by [S.S.I. 2005/268](https://www.legislation.gov.uk/ssi/2005/268).
+
+[^f00010]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66).
+
+[^f00011]: Footnote: O.J. L 160, 30/06/2000 P. 0001-0018.
+
+[^f00012]: Footnote: Rule 72.1A was inserted by [S.S.I. 2005/268](https://www.legislation.gov.uk/ssi/2005/268).
+
+[^f00013]: Footnote: Rule 74.1(2) was amended by [S.S.I. 2003/385](https://www.legislation.gov.uk/ssi/2003/385).
+
+[^f00014]: Footnote: Rule 74.10(2)(j) was inserted by [S.S.I. 2003/385](https://www.legislation.gov.uk/ssi/2003/385) and amended by [S.S.I. 2006/83](https://www.legislation.gov.uk/ssi/2006/83).
+
+[^f00015]: Footnote: Insolvency Act [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^f00016]: Footnote: Rule 74.34(2) was substituted by [S.S.I. 2005/521](https://www.legislation.gov.uk/ssi/2005/521).
+
+[^key-bbd086c722c35bcc7d53384491dfe47d]: Textual amendment: [Para. 2(12)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/2/12)[(13)](https://www.legislation.gov.uk/ssi/2007/449/paragraph/2/13) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(a)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/a)
+
+[^key-ab0005e8539a716f6e7a3dfcbc9795d4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2007/449/schedule) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(a)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/a)

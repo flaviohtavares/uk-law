@@ -1,0 +1,181 @@
+---
+title: The Water Environment (Miscellaneous) (Scotland) Regulations 2017
+id: ssi/2017/389
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-11-07'
+text_date: '2025-11-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2017/389
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2017/389/pdfs/ssipn_20170389_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/389/pdfs/ssi_20170389_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/389/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Environment (Miscellaneous) (Scotland) Regulations 2017
+
+> Text as at 2025-11-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2017 No. 389
+
+Environmental Protection
+
+Water
+
+The Water Environment (Miscellaneous) (Scotland) Regulations 2017
+
+Made
+
+7th November 2017
+
+Laid before the Scottish Parliament
+
+9th November 2017
+
+Coming into force
+
+1st January 2018
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 20 and 36(2) and schedule 2 of the Water Environment and Water Services (Scotland) Act 2003[^f00001] (“the Act”) and section 2(2) of the European Communities Act 1972[^f00002] and of all other powers enabling them to do so.
+
+In accordance with section 21(1) of the Act, they have consulted the persons required.
+
+In accordance with section 21(2) of the Act, they have published a draft of the proposed general binding rules, publicised the opportunity to make representations, and made copies of the proposed rules available for public inspection.
+
+In accordance with section 21(4) of the Act, they have had regard to the representations on the proposed rules received by them.
+
+## PART I — GENERAL
+
+### 1. Citation and commencement[^key-7e69a549fb2654f5953626a78a29f2c9]
+
+These Regulations may be cited as the Water Environment (Miscellaneous) (Scotland) Regulations 2017 and come into force on 1st January 2018.
+
+### 2. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-2c5a23d6aed667d2140624571302e8a6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART II — AMENDMENT TO GENERAL BINDING RULES
+
+### 3. Amendment of schedule 3[^key-2c5a23d6aed667d2140624571302e8a6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART III — MISCELLANEOUS AMENDMENTS OF THE WATER ENVIRONMENT (CONTROLLED ACTIVITIES) (SCOTLAND) REGULATIONS 2011
+
+### 4. Amendment of regulation 8 (water use licence)[^key-2c5a23d6aed667d2140624571302e8a6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Amendment of regulation 15 (determination of application)[^key-2c5a23d6aed667d2140624571302e8a6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Amendment of part 2 of schedule 4 (relevant legislation)[^key-2c5a23d6aed667d2140624571302e8a6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Amendment of schedule 8 (register)[^key-2c5a23d6aed667d2140624571302e8a6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART IV — OTHER AMENDMENTS AND REVOCATION
+
+### 8. Amendment of the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^key-feb6547b72112dc18903aa6cfb645d4f]
+
+After regulation 13(4) of the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^f00010], insert—
+
+> (4A) In implementing any measure pursuant to paragraph (4), the Scottish Ministers, SEPA or a responsible authority, as the case may be, must—
+>
+> - (a) ensure that the application of measures taken pursuant to paragraph (1) does not lead directly or indirectly to increased pollution of surface waters;
+> - (b) take all appropriate steps not to increase pollution of marine waters; and
+> - (c) periodically review and, where necessary, update the controls, requirements or measures in paragraph (1)(e) to (i).
+
+.
+
+### 9. Revocation of the Water Environment (Oil Storage) (Scotland) Regulations 2006[^key-28111c6f864d3da7c8c96c7eba62fbed]
+
+The Water Environment (Oil Storage) (Scotland) Regulations 2006[^f00011] are revoked.
+
+R CUNNINGHAM
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+7th November 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Water Environment (Controlled Activities) (Scotland) Regulations 2011 (“the Principal Regulations”).
+
+Regulation 3 amends existing general binding rules 3, 9 to 13, 15, 17 to 20, 23 and 24 in Part 1 of schedule 3, and inserts new general binding rules 25 to 28 in that Part of that schedule.
+
+The following changes are made to the existing general binding rules listed above-
+
+- Activity 3 is revised to include the construction, extension and the on-going operation of a well, borehole or other works by which water may be abstracted; rule (a) is revised to specify that it applies to other works by which water may be abstracted, and that the entry of pollutants or water of a different chemical composition into the water environment must be avoided; rule (e) is new and provides that the depth of any well or borehole must not exceed 200 metres.
+- Activity 9 is widened to apply to all activities within schedule 3, and to the maintenance of existing man-made structures in or near any surface water or wetland; rules (b), (c) and (e) are revised to improve clarity regarding how distances are to be measured; rule (h) is revised to apply to the operation of machinery in any surface water or wetland; rule (i) is new and provides for the repair of damage caused by an operation.
+- Activity 10(a) sets out in greater detail the areas where drainage is authorised and activity 10(b) provides that the activity covers all water run-off from specified construction sites; a new rule (f) is inserted and provides that all parts of a site must be drained (not just areas where actual construction is taking place); existing rules (f) and (g) are renumbered (g) and (h); existing rule (h) is deleted.
+- Activity 11 – rule (d) is revised to provide that in carrying out activity 10 the area of, and the period of time for which, soil is exposed must be minimised.
+- Activity 12 relating to the removal and return of sediment, is revised to require the return of certain sediment in accordance with the rules – rule (a) is revised to provide that sediment may only be removed within 10 metres upstream of the weir; new rules (c) to (h) replace rules (c) to (g) and provide improved clarity.
+- Activity 13 – rule (h)(iv) is renumbered (i) to improve clarity.
+- Activity 15 – rule (b) is revised to provide that groundwater must not be extracted within 250m of any surface water unless the abstracted water is discharged at the nearest part of the surface water and in accordance with rule (f).
+- Activity 17 is widened to include the abstraction and subsequent return of groundwater as part of a cooling system; rule (c) is revised to clarify that pollutants must not be added to the abstracted water; rule (f) is new and provides that the activity must not prevent any other authorised abstraction of water or be within 250m of abstraction of water intended for human consumption.
+- Activity 18 is revised for clarity and to separate out the storage of fertiliser and the application of fertiliser; the rules are extensively amended and extend to the storage, transfer, and application of fertiliser.
+- Activity 19 – rules (a) and (c) are revised to clarify how distances from surface waters are to be measured; rule (d) is new and provides that run-off must be intercepted (by a buffer zone or otherwise) to prevent faeces, urine or soil from entering any spring, well, borehole, surface water or wetland.
+- Activity 20 – rule (a) is revised to clarify how distances from surface waters are to be measured; rule (b) is revised for clarity; rule (c) provides land must be cultivated in a way that minimises the risk of pollution to the water environment.
+- Activity 23 is revised so that it applies only to the storage and application of pesticides that are plan protection products. Rules (a), (b) and (c) are revised to include all methods of application; rule (g) is new and allows the application of herbicide to control non-native invasive species of plants on river banks. Existing rules (g) and (h) are renumbered (h) and (i) and existing rule (h)(iv) is renumbered (j).
+- Activity 24 is revised to include the activity of operating sheep handling facilities in which sheep are held during or after treatment with pour-on chemicals; rules (a) and (b) are amended to reflect this.
+
+General binding rule 25 is new and provides for the activity of the placement of trees or parts of trees in a river, burn or ditch to protect eroding banks. The rules to which this activity are to be subject are designed to ensure that the trees used are properly secured in place; the protection does not increase erosion of the bed or banks; the risk of soils and other sediments entering the river as a result of the works are minimised; and the risk to freshwater pearl mussel are taken into consideration.
+
+General binding rules 26, 27 and 28 are new and provide detailed requirements for the storage of oil. They restate the provisions of regulations 4, 5 and 6 of the Water Environment (Oil Storage) (Scotland) Regulations 2006 (“the 2006 Regulations”). General binding rule 28 extends the scope of regulation 6 of the 2006 Regulations in that it does not reproduce the exception in regulation 6(1)(d) of the 2006 Regulations. General binding rule 28 therefore applies to premises used as an oil distribution depot for the onward distribution of oil to other places.
+
+Regulation 9 revokes the 2006 Regulations.
+
+Regulation 3(h) inserts new definitions in Part 2 of schedule 3 of the Principal Regulations.
+
+Regulation 3(i) inserts a new Part 3 in schedule 3 of the Principal Regulations, which provides for the recognition of equipment as meeting the standards required by Part 1 of that schedule, where the equipment meets the standards of an EEA state or Turkey which require an equivalent level of performance.
+
+Regulation 4 amends regulations 8(2) of the Principal Regulations to specify that licence conditions may include conditions for the purpose of protecting or enhancing the water environment or protecting the interests of other users of the water environment (if SEPA considers such conditions necessary or expedient).
+
+Regulation 5 amends regulation 15(6) of the Principal Regulations, to provide that SEPA must make the listed information available to the public as soon as reasonably practicable, and amends sub-paragraph (d) to provide that details of any licence conditions must be made available. Regulation 7 amends paragraph 1(g) of schedule 8 of the Principal Regulations to cross-refer to Regulation 15(6)(b)-(d), for clarity.
+
+Regulation 6 amends part 2 of schedule 4 of the Principal Regulations to remove legislation to which SEPA is to have regard before determining an application under the Principal Regulations, where that application is in respect of an activity that SEPA considers has or is likely to have a significant adverse impact on the water environment.
+
+Regulation 8 relies on the power in section 2(2) of the European Communities Act 1972 to amend the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013 to fully transpose Article 11(6) of Directive 2000/60 of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy.
+
+These Regulations were notified in draft to the European Commission in accordance with Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services.
+
+No business and regulatory impact assessment has been prepared for these Regulations, as no impact upon business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3). Section 20 was amended by regulation 3 of [S.S.I. 2005/348](https://www.legislation.gov.uk/ssi/2005/348).
+
+[^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), schedule, Part 1. The functions conferred on a Minister of the Crown under section 2(2) of the European Communities Act 1972 are, so far as they are exercisable within devolved competence, exercisable by the Scottish Ministers by virtue of section 53 of the 1998 Act. Section 2(2) is cited so far as is necessary to enable the making of the amendments to [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323) in regulation 8.
+
+[^key-7e69a549fb2654f5953626a78a29f2c9]: Commencement: Reg. 1 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1)
+
+[^key-2c5a23d6aed667d2140624571302e8a6]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/ssi/2017/389/regulation/2) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+
+[^key-feb6547b72112dc18903aa6cfb645d4f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/389/regulation/8) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1)
+
+[^f00010]: Footnote: [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323), as amended by [S.S.I. 2015/211](https://www.legislation.gov.uk/ssi/2015/211).
+
+[^key-28111c6f864d3da7c8c96c7eba62fbed]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/389/regulation/9) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1)
+
+[^f00011]: Footnote: [S.S.I. 2006/133](https://www.legislation.gov.uk/ssi/2006/133), as amended by [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360).

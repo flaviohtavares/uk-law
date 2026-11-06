@@ -1,0 +1,90 @@
+---
+title: The Water and Sewerage Services Undertaking (Borrowing) (Scotland) Order 2020
+id: ssi/2020/341
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-10-29'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2020/341
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/341/pdfs/ssipn_20200341_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/341/pdfs/ssi_20200341_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/341/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water and Sewerage Services Undertaking (Borrowing) (Scotland) Order 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 341
+
+Water Industry
+
+The Water and Sewerage Services Undertaking (Borrowing) (Scotland) Order 2020
+
+Made
+
+29th October 2020
+
+Laid before the Scottish Parliament
+
+30th October 2020
+
+Coming into force
+
+1st January 2021
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 14(2) of the Water Services etc. (Scotland) Act 2005[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+This Order may be cited as the Water and Sewerage Services Undertaking (Borrowing) (Scotland) Order 2020 and comes into force on 1 January 2021.
+
+## 2. Interpretation
+
+In this Order—
+
+- (a) “the Act” means the Water Services etc. (Scotland) Act 2005,
+- (b) “the undertaking” means the water and sewerage services undertaking established for the purposes of section 13 of the Act[^f00002], and
+- (c) “subsidiary” has the meaning given by section 1159 of the Companies Act 2006[^f00003].
+
+## 3. Borrowing by the undertaking from persons other than the Scottish Ministers
+
+The circumstances specified for the purposes of section 14(2)(b) of the Act (the circumstances in which the undertaking may borrow money from any other person) are—
+
+- (a) where sums are borrowed for the purpose of enabling the undertaking to perform activities authorised by a water services or sewerage services licence granted to it under section 6(1) or (3) of the Act[^f00004], or activities it engages in by virtue of section 13(7) of the Act, and
+- (b) the lender is Scottish Water or a subsidiary of Scottish Water.
+
+R CUNNINGHAM
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+29th October 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order specifies the circumstances in which the water and sewerage undertaking (“the undertaking”) established by Scottish Water under section 13 of the Water Services etc. (Scotland) Act 2005 (“the Act”) may borrow money from persons other than the Scottish Ministers, pursuant to section 14(2)(b) of the Act. The undertaking is permitted to borrow in the circumstances specified in Article 3.
+
+This Order supplements the Water and Sewerage Services Undertaking (Lending by the Scottish Ministers) Order 2008 ([S.S.I. 2008/44](https://www.legislation.gov.uk/ssi/2008/44)), which specifies the circumstances in which the undertaking may borrow from the Scottish Ministers.
+
+## Annotations
+
+[^f00001]: Footnote: [2005 asp 3](https://www.legislation.gov.uk/asp/2005/3). Section 14(2) was amended by section 28(2) of the Water Resources (Scotland) Act [2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5).
+
+[^f00002]: Footnote: Section 13(3) was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
+
+[^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
+
+[^f00004]: Footnote: Section 6(1) and (3) was amended by section 7(3) of the Water Act [2014 (c.21)](https://www.legislation.gov.uk/ukpga/2014/21).

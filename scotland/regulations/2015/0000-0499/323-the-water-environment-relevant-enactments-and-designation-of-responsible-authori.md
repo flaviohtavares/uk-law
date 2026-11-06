@@ -1,0 +1,95 @@
+---
+title: The Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Amendment Order 2015
+id: ssi/2015/323
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2015-09-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2015/323
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/323/pdfs/ssipn_20150323_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/323/pdfs/ssi_20150323_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/323/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Amendment Order 2015
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2015 No. 323
+
+Environmental Protection
+
+The Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Amendment Order 2015
+
+Made
+
+7th September 2015
+
+Laid before the Scottish Parliament
+
+9th September 2015
+
+Coming into force
+
+10th October 2015
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by sections 2(8) of the Water Environment and Water Services (Scotland) Act 2003[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Amendment Order 2015 and comes into force on 10th October 2015.
+
+(2) In this Order, “Schedule 2” means Schedule 2 to the Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Order 2011[^f00002].
+
+## 2. Amendment of Schedule 2
+
+In the table in Schedule 2, omit the row relating to District Salmon Fishery Boards.
+
+AILEEN McLEOD
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+7th September 2015
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends Schedule 2 to the Water Environment (Relevant Enactments and Designation of Responsible Authorities and Functions) (Scotland) Order 2011 to omit the entry relating to District Salmon Fishery Boards (constituted in terms of section 43 of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003[^f00003]) (“the Boards”).
+
+This amendment removes the Boards from the list of bodies which are designated as responsible authorities for the purposes of Part 1 of the Water Environment and Water Services (Scotland) Act 2003 (“the Act”). Accordingly, the Boards will no longer be subject to the general duty in section 2(2) of the Act[^f00004] to exercise their functions under the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 so as to secure compliance with the requirements of—
+
+- [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy[^f00005],
+- [Directive 2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration[^f00006], and
+- [Directive 2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council on environmental quality standards in the field of water policy[^f00007].
+
+In addition, the Boards will no longer need to be consulted as a responsible authority, in accordance with section 21(1)(b) of the Act, before regulations are made under section 20 (regulation of controlled activities) of the Act.
+
+No business and regulatory impact assessment has been prepared for this Order as no impact upon business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3), to which there are amendments not relevant to this Order.
+
+[^f00002]: Footnote: [S.S.I. 2011/368](https://www.legislation.gov.uk/ssi/2011/368).
+
+[^f00003]: Footnote: [2003 asp 15](https://www.legislation.gov.uk/asp/2003/15).
+
+[^f00004]: Footnote: Section 2(2) of the Act was modified by the Water Environment and Water Services (Scotland) Act 2003 (Modification of Part 1) Regulations 2015 ([S.S.I. 2015/270](https://www.legislation.gov.uk/ssi/2015/270)) to require responsible authorities to exercise their designated functions so as to secure compliance with the three Directives referred to in this Explanatory Note.
+
+[^f00005]: Footnote: OJ L 327, 22.12.2000, p.1, as amended by Decision No [2455/2001/EC](https://www.legislation.gov.uk/european/decision/2001/2455) of the European Parliament and of the Council (OJ L 331, 15.12.2001, p.1), [Directive 2008/32/EC](https://www.legislation.gov.uk/european/directive/2008/0032) of the European Parliament and of the Council (OJ L 81, 20.3.2008, p.60), [Directive 2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council (OJ L 348, 24.12.2008, p.84), [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council (OJ L 140, 5.6.2009, p.114), Directive 2013/39/EU of the European Parliament and of the Council (OJ L 226, 24.8.2013, p.1) and Commission Directive 2014/101/EU (OJ L 311, 31.10.2014, p.32).
+
+[^f00006]: Footnote: OJ L 372, 27.12.2006, p.19, as amended by Commission Directive 2014/80/EU (OJ L 182, 21.6.2014, p.52).
+
+[^f00007]: Footnote: OJ L 348, 24.12.2008, p.84, as amended by Directive 2013/39/EU of the European Parliament and of the Council (OJ L 226, 24.8.2013, p.1).

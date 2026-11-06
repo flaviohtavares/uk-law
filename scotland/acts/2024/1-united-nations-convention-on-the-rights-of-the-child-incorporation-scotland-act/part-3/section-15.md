@@ -1,0 +1,65 @@
+---
+title: United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024, section 15
+act: United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024
+section: '15'
+status: revised-with-pending-changes
+text_date: '2024-07-16'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2024/1/section/15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024, section 15
+
+> **Warning: changes not yet applied to this text (9).** Text as at 2024-07-16. See https://www.legislation.gov.uk/changes/affected/asp/2024/1
+>
+> Extent: Scotland.
+
+## 15. Procedure for making, amending and remaking the Scheme[^key-b747eac1ca745afff529137251e9c8d5]
+
+*Extent: S*
+
+(1) In this section, a reference to the proposal is a reference to (as the case may be) a proposal to—
+
+- (a) make the first scheme under section 14(1),
+- (b) amend the Scheme, or
+- (c) make a new scheme to replace the Scheme.
+
+(2) In preparing the proposal, the Scottish Ministers—
+
+- (a) must have regard to—
+  - (i) any report of the United Nations Committee on the Rights of the Child under paragraph 5 of article 44 of the Convention that the Scottish Ministers consider to be relevant, and
+  - (ii) any other reports, suggestions, general recommendations or other documents issued by the United Nations Committee on the Rights of the Child relating to the implementation of the Convention, the first optional protocol or the second optional protocol by the United Kingdom that the Scottish Ministers consider to be relevant,
+- (b) may have regard to any international law or comparative law that they consider to be relevant, and
+- (c) may have regard to any other document or matter that they consider to be relevant.
+
+(3) The Scottish Ministers must publish the proposal and consult—
+
+- (a) children,
+- (b) the Commissioner for Children and Young People in Scotland,
+- (c) the Scottish Commission for Human Rights, and
+- (d) such other persons as the Scottish Ministers consider appropriate.
+
+(4) The Scottish Ministers may make such changes to the proposal as they consider appropriate following the consultation under subsection (3).
+
+(5) The Scottish Ministers may not—
+
+- (a) make the Scheme,
+- (b) make an amendment to the Scheme, or
+- (c) make a new scheme to replace the Scheme,
+
+until the proposal has been laid before the Scottish Parliament.
+
+(6) A proposal may not be laid before the Scottish Parliament under subsection (5) unless a period of at least 28 days, beginning with the day on which the proposal was published under subsection (3), has elapsed.
+
+(7) The Scottish Ministers must publish the Scheme, the Scheme as amended or (as the case may be) the Scheme as remade in such manner as they consider appropriate.
+
+(8) It is immaterial that anything done by way of preparation of, or consultation in relation to, the first scheme under this section was done—
+
+- (a) before the Bill for this Act was passed, or
+- (b) after that but before this section comes into force.
+
+## Annotations
+
+[^key-b747eac1ca745afff529137251e9c8d5]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/1/section/15) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

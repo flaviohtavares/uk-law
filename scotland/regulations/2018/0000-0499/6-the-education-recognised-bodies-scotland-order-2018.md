@@ -1,0 +1,270 @@
+---
+title: The Education (Recognised Bodies) (Scotland) Order 2018
+id: ssi/2018/6
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2018-01-11'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2018/6
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2018/6/pdfs/ssipn_20180006_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/6/pdfs/ssi_20180006_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/6/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Education (Recognised Bodies) (Scotland) Order 2018
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2018 No. 6
+
+Education
+
+The Education (Recognised Bodies) (Scotland) Order 2018
+
+Made
+
+11th January 2018
+
+Laid before the Scottish Parliament
+
+15th January 2018
+
+Coming into force
+
+31st January 2018
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 216(1) of the Education Reform Act 1988[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement and extent
+
+(1) This Order may be cited as the Education (Recognised Bodies) (Scotland) Order 2018 and comes into force on 31st January 2018.
+
+(2) This Order extends to Scotland only.
+
+## 2. Recognised bodies
+
+The bodies listed in the schedule comprise all those bodies which appear to the Scottish Ministers to be recognised bodies.
+
+## 3. Revocation
+
+The Education (Recognised Bodies) (Scotland) Order 2007[^f00002] and the Education (Recognised Bodies) (Scotland) Amendment Order 2009[^f00003] are revoked.
+
+S SOMERVILLE
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+11th January 2018
+
+## SCHEDULE
+
+Article 2
+
+- Aberystwyth University (Prifysgol Aberystwyth)
+- AECC University College
+- Anglia Ruskin University
+- The Archbishop of Canterbury
+- Arden University
+- Arts University Bournemouth
+- The Ashridge Trust Business School
+- Aston University
+- Bangor University (Prifysgol Bangor)
+- Bath Spa University
+- Birmingham City University
+- Bishop Grosseteste University
+- Bournemouth University
+- BPP University Limited
+- The British School of Osteopathy
+- Brunel University London
+- Buckinghamshire New University
+- Canterbury Christ Church University
+- Cardiff Metropolitan University (Prifysgol Fetropolitan Caerdydd)
+- Cardiff University (Prifysgol Caerdydd)
+- Coventry University
+- Cranfield University
+- De Montfort University
+- Edge Hill University
+- Edinburgh Napier University
+- Falmouth University
+- Glasgow Caledonian University
+- Glyndŵr University (Prifysgol Glyndŵr)
+- Guildhall School of Music and Drama
+- Harper Adams University
+- Heriot-Watt University
+- Imperial College of Science, Technology and Medicine
+- Kingston University
+- Leeds Arts University
+- Leeds Beckett University
+- Leeds Trinity University
+- Liverpool Hope University
+- Liverpool John Moores University
+- The London Institute of Banking and Finance
+- London Metropolitan University
+- London South Bank University
+- Loughborough University
+- Manchester Metropolitan University
+- Middlesex University
+- NCG
+- Newman University, Birmingham
+- Norwich University of the Arts
+- Nottingham Trent University
+- The Open University
+- Oxford Brookes University
+- Queen Margaret University, Edinburgh
+- Queen’s University Belfast
+- Regent’s University London
+- The Robert Gordon University
+- Roehampton University
+- Royal Agricultural University
+- The Royal College of Art
+- Royal College of Music
+- Royal College of Nursing
+- Royal Conservatoire of Scotland
+- Royal Northern College of Music
+- Sheffield Hallam University
+- Southampton Solent University
+- St Mary’s University, Twickenham
+- Staffordshire University
+- Swansea University (Prifysgol Abertawe)
+- Teeside University
+- Trinity Laban Conservatoire of Music and Dance
+- Ulster University
+- University of Aberdeen
+- University of Abertay Dundee
+- University of the Arts, London
+- The University of Bath
+- University of Bedfordshire
+- The University of Birmingham
+- The University of Bolton
+- The University of Bradford
+- University of Brighton
+- University of Bristol
+- The University of Buckingham
+- University of Cambridge
+- University of Central Lancashire
+- University of Chester
+- The University of Chichester
+- University College Birmingham
+- University College of Estate Management
+- University College of Osteopathy
+- University for the Creative Arts
+- The University of Cumbria
+- University of Derby
+- University of Dundee
+- University of Durham
+- The University of East Anglia
+- University of East London
+- University of Edinburgh
+- The University of Essex
+- University of Exeter
+- University of Glasgow
+- University of Gloucestershire
+- University of Greenwich
+- University of Hertfordshire
+- University of the Highlands and Islands
+- The University of Huddersfield
+- The University of Hull
+- The University of Keele
+- The University of Kent
+- University of Lancaster
+- The University of Law Limited
+- The University of Leeds
+- The University of Leicester
+- University of Lincoln
+- The University of Liverpool
+- University of London
+- The University of Manchester
+- University of Newcastle
+- The University of Northampton
+- University of Northumbria at Newcastle
+- The University of Nottingham
+- University of Oxford
+- University of Plymouth
+- University of Portsmouth
+- University of Reading
+- The University of Salford
+- The University of Sheffield
+- University of South Wales (Prifysgol de Cymru)
+- University of Southampton
+- University of St Andrews
+- University of St Mark & St John
+- University of Stirling
+- University of Strathclyde
+- University of Suffolk
+- University of Sunderland
+- The University of Surrey
+- University of Sussex
+- University of Wales (Prifysgol Cymru)
+- University of Wales: Trinity Saint David (Prifysgol Cymru: Y Drindod Dewi Sant)
+- The University of Warwick
+- University of the West of England, Bristol
+- The University of West London
+- University of the West of Scotland
+- The University of Westminster
+- University of Winchester
+- University of Wolverhampton
+- University of Worcester
+- University of York
+- Writtle University College
+- York St John University
+
+### Schools, Colleges and Institutes of the University of London permitted by the University to award University of London degrees[^f00004]
+
+- Birkbeck, University of London
+- City, University of London
+- Goldsmiths, University of London
+- King’s College London
+- London Business School
+- London School of Economics and Political Science
+- London School of Hygiene and Tropical Medicine
+- Queen Mary, University of London
+- The Royal Academy of Music
+- Royal Central School of Speech and Drama,
+- Royal Holloway, University of London
+- The Royal Veterinary College
+- The School of Oriental and African Studies
+- St George’s, University of London
+- University College London
+
+### Institutions granted foundation degree awarding powers
+
+- Blackpool and the Fylde College
+- Grimsby Institute of Further and Higher Education
+- Hull College Group
+- New College Durham
+- Warwickshire College
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order lists by name all those bodies appearing to the Scottish Ministers to be recognised bodies for the purposes of section 214(2)(a) and (b) of the Education Reform Act 1988.
+
+Recognised bodies are:
+
+- (a) universities, colleges or other bodies which are authorised by Royal Charter or by or under Act of Parliament to grant degrees; or
+- (b) other bodies for the time being permitted by any body falling within paragraph (a) to act on their behalf in the granting of degrees.
+
+This Order updates and replaces the list of bodies contained in the Education (Recognised Bodies) (Scotland) Order 2007 as amended by the Education (Recognised Bodies) (Scotland) Amendment Order 2009, which are revoked.
+
+There are omitted from the schedule of this Order a number of bodies that were listed in previous Orders but which have merged with other bodies. A number of new bodies, that were not listed in previous Orders, have been included in the schedule, as those bodies now appear to the Scottish Ministers to fall within either (a) or (b) above. The schedule also takes account of name changes since the Education (Recognised Bodies) (Scotland) Amendment Order 2009 was made.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40). Relevant modifications to that Act are contained in [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [S.S.I. 2007/557](https://www.legislation.gov.uk/ssi/2007/557).
+
+[^f00003]: Footnote: [S.S.I. 2009/61](https://www.legislation.gov.uk/ssi/2009/61).
+
+[^f00004]: Footnote: The schools, colleges and institutes included in the list are constituent colleges of the University of London which also have their own degree awarding powers.

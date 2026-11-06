@@ -1,0 +1,119 @@
+---
+title: The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020
+id: ssi/2020/246
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-08-19'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2020/246
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/246/pdfs/ssipn_20200246_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/246/pdfs/ssi_20200246_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/246/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 246
+
+Mental Health
+
+Rehabilitation Of Offenders
+
+The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020
+
+Made
+
+19th August 2020
+
+Laid before the Scottish Parliament
+
+21st August 2020
+
+Coming into force
+
+30th November 2020
+
+The Scottish Ministers make the following Rules in exercise of the powers conferred by sections 21(4) and 326 and paragraph 10 of schedule 2 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+These Rules may be cited as the Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2020 and come into force on 30 November 2020.
+
+## 2. Amendment of the Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Rules 2005
+
+The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Rules 2005[^f00002] are amended in accordance with rules 3 to 6.
+
+**3.** In rule 2(1) (interpretation)[^f00003], in the definition of “party”—
+
+- (a) at the end of paragraph (f), omit “and”,
+- (b) after paragraph (g), insert—
+
+  > and
+  >
+  > - (h) the patient’s responsible medical officer in any proceedings in relation to an application under section 164A of the Act[^f00004];
+
+  .
+
+**4.** In rule 13 (applications under certain sections)[^f00005]—
+
+- (a) in the heading, after “section 164 of the Act” insert “, to end the disclosure period for a compulsion order under section 164A of the Act”,
+- (b) in paragraph (1), for “or for revocation and variation of a compulsion order under section 164 of the Act” substitute “, for revocation and variation of a compulsion order under section 164 of the Act or to end the disclosure period applicable to a compulsion order under section 164A of the Act”.
+
+**5.** In rule 20(1) (withdrawal of application), after “164,” insert “164A,”.
+
+**6.** In rule 72(5A)(a) (decision of the Tribunal)[^f00006], after “164(2),” insert “164A(2),”.
+
+H YOUSAF
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+19th August 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules amend the Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Rules 2005 (“the 2005 Rules”) to take into account amendments made by the Management of Offenders (Scotland) Act 2019 (“the 2019 Act”) to the Mental Health (Care and Treatment) (Scotland) Act 2003 (“the 2003 Act”). These Rules come into force on 30 November 2020.
+
+The Rehabilitation of Offenders Act 1974 (“the 1974 Act”) sets out the rules as to when a conviction is considered “spent”. Whether a conviction is spent or not has implications for disclosure of that conviction in different contexts. Section 6 of the 1974 Act sets out the rules that apply to determine when a conviction becomes spent. These rules depend on the disclosure period applicable to the sentence(s) imposed in respect of the conviction.
+
+Section 5G of the 1974 Act (inserted by section 26 of the 2019 Act) provides that the disclosure period applicable to a compulsion order is the period beginning with the date of conviction and ending on the date the order ceases to have effect. However, this disclosure period will be subject to a new process which will allow an application to be made to the Mental Health Tribunal for Scotland (“the Tribunal”) to ask for the disclosure period applicable to the compulsion order to end. This application process is provided for under section 164A of the 2003 Act, which is also inserted by section 26 of the 2019 Act.
+
+An application under section 164A of the 2003 Act can be made by a patient or the patient’s named person. Section 26 of the 2019 Act also amends section 257A(3) of the 2003 Act to apply to applications under section 164A. This means that the persons listed in section 257A(9)(a) to (d) can initiate an application where the patient does not have a named person, where the patient has attained the age of 16 and where the patient is incapable in relation to a decision as to whether to initiate an application.
+
+Section 26 of the 2019 Act also inserts sections 167A and 167B of the 2003 Act, which relate to the new application process under section 164A.
+
+Rule 3 of these Rules amends the definition of “party” in rule 2 of the 2005 Rules. This means that the patient’s responsible medical officer will be a party in any proceedings in relation to an application under section 164A of the 2003 Act.
+
+Rule 4 of these Rules amends rule 13(1) of the 2005 Rules to include applications under section 164A of the 2003 Act. This means that the procedure set out in rule 13 applies to such applications.
+
+Rule 5 of these Rules amends rule 20(1) of the 2005 Rules to include applications under section 164A of the 2003 Act. Rule 20 sets out the circumstances in which an application may be withdrawn.
+
+Rule 6 of these Rules amends rule 72(5A) of the 2005 Rules to include applications under section 164A of the 2003 Act. This amendment means that, by virtue of the operation of Rule 72(5A) and (5B), the Clerk to the Tribunal must send a copy of the application, along with the Tribunal’s decision in relation to an application, to the Mental Welfare Commission for Scotland.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13) (“the 2003 Act”). There are amendments to section 326 which are not relevant to this instrument.
+
+[^f00002]: Footnote: [S.S.I. 2005/519](https://www.legislation.gov.uk/ssi/2005/519), as amended by [S.S.I. 2006/171](https://www.legislation.gov.uk/ssi/2006/171), [S.S.I. 2008/396](https://www.legislation.gov.uk/ssi/2008/396), [S.S.I. 2012/132](https://www.legislation.gov.uk/ssi/2012/132), [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042), [S.S.I. 2015/334](https://www.legislation.gov.uk/ssi/2015/334) and [S.S.I. 2017/172](https://www.legislation.gov.uk/ssi/2017/172).
+
+[^f00003]: Footnote: Rule 2 is relevantly amended by [S.S.I. 2015/334](https://www.legislation.gov.uk/ssi/2015/334).
+
+[^f00004]: Footnote: Section 164A of the 2003 Act is inserted by section 26(3) and (4) of the Management of Offenders (Scotland) Act [2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14).
+
+[^f00005]: Footnote: Rule 13 is amended by [S.S.I. 2017/172](https://www.legislation.gov.uk/ssi/2017/172).
+
+[^f00006]: Footnote: Rule 72(5A) was inserted by [S.S.I. 2008/396](https://www.legislation.gov.uk/ssi/2008/396).

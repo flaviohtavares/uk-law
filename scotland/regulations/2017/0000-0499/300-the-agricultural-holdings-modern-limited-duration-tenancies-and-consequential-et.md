@@ -1,0 +1,344 @@
+---
+title: The Agricultural Holdings (Modern Limited Duration Tenancies and Consequential etc. Provisions) (Scotland) Regulations 2017
+id: ssi/2017/300
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2017-09-14'
+text_date: '2017-11-30'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2017/300
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2017/300/pdfs/ssipn_20170300_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/300/pdfs/ssi_20170300_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/300/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Agricultural Holdings (Modern Limited Duration Tenancies and Consequential etc. Provisions) (Scotland) Regulations 2017
+
+> Text as at 2017-11-30.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2017 No. 300
+
+Landlord And Tenant
+
+The Agricultural Holdings (Modern Limited Duration Tenancies and Consequential etc. Provisions) (Scotland) Regulations 2017
+
+Made
+
+14th September 2017
+
+Laid before the Scottish Parliament
+
+19th September 2017
+
+Coming into force
+
+30th November 2017
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 5B(3) of the Agricultural Holdings (Scotland) Act 2003[^f00001], section 127(1) of the Land Reform (Scotland) Act 2016[^f00002] and all other powers enabling them to do so.
+
+## PART 1 — Introductory
+
+### 1. Citation, commencement and interpretation[^key-f01ebb67ac121505f55eeada9fc4b515]
+
+(1) These Regulations may be cited as the Agricultural Holdings (Modern Limited Duration Tenancies and Consequential etc. Provisions) (Scotland) Regulations 2017 and come into force on 30th November 2017.
+
+(2) In these Regulations—
+
+- “the 1991 Act” means the Agricultural Holdings (Scotland) Act 1991[^f00003];
+- “the 2003 Act” means the Agricultural Holdings (Scotland) Act 2003; and
+- “the 2016 Act” means the Land Reform (Scotland) Act 2016.
+
+## PART 2 — Modern limited duration tenancies: new entrants to farming
+
+### 2. Interpretation of Part 2[^key-130ed8c89fa9a0fb8fd36ac5ce3c3b63]
+
+In this Part—
+
+- “relevant date” means the date on which a contract giving rise to a modern limited duration tenancy under which T is the tenant is concluded;
+- “shared lease” means—
+  - (a) a lease where the tenants under that lease are tenants in common; or
+  - (b) a lease where the tenants under that lease are joint tenants; and
+- “T” means a tenant under a lease to which regulation 3 applies.
+
+### 3. New entrants to farming: non-shared lease[^key-b15f53a7b3a7e9e25dc7e876fd4e616b]
+
+(1) This regulation applies to a lease constituting a modern limited duration tenancy which is not a shared lease.
+
+(2) T is a new entrant to farming for the purposes of section 5B of the 2003 Act unless paragraph (3), (4) or (5) applies to T.
+
+(3) This paragraph applies to T if, at any point in the five years preceding the relevant date, T—
+
+- (a) was—
+  - (i) a tenant under a lease constituting a limited duration tenancy;
+  - (ii) a tenant under a lease constituting a modern limited duration tenancy;
+  - (iii) a tenant under a lease constituting a 1991 Act tenancy;
+  - (iv) a small landholder (construed in accordance with section 124(3) of the 2016 Act); or
+  - (v) a crofter (within the meaning of section 3(3) of the Crofters (Scotland) Act 1993[^f00004]);
+- (b) was, for a continuous period of three years or more within the five years preceding the relevant date, a tenant under a lease constituting a short limited duration tenancy;
+- (c) owned more than three hectares of agricultural land in aggregate, wherever such land is located; or
+- (d) had control of a legal person to whom sub-paragraph (a), (b) or (c) would apply if that legal person were T.
+
+(4) This paragraph applies to T if—
+
+- (a) T is a legal person; and
+- (b) paragraph (3) would apply to the person who has control of T on the relevant date if that person were T.
+
+(5) This paragraph applies to T if—
+
+- (a) T is a legal person;
+- (b) no one person has control of T on the relevant date; and
+- (c) paragraph (3) applies to each of the persons who between them—
+  - (i) hold or control, directly or indirectly, more than 50% of the voting rights in T;
+  - (ii) hold or control, directly or indirectly, the right to appoint or remove the majority of the board of directors of T; or
+  - (iii) have the right to exercise (or actually exercise) a greater degree of influence or control over T than persons to which paragraph (3) does not apply.
+
+(6) For the purposes of paragraph (5)(c), paragraph (3) is to be taken to apply to a person if paragraph (3) would apply to that person if that person were T.
+
+(7) In paragraph (3), “tenant” does not include—
+
+- (a) the executor, guardian or legal representative (within the meaning of Part 1 of the Children (Scotland) Act 1995[^f00005]) of a tenant, or the trustee or interim trustee in the sequestration of a tenant’s estate;
+- (b) a person to whom a lease constituting a 1991 Act tenancy is bequeathed in accordance with section 11(1)[^f00006] of the 1991 Act, where—
+  - (i) that person does not accept the bequest;
+  - (ii) the bequest is declared null and void under section 12A(6)(a) or 12B(2)(a) of the 1991 Act[^f00007]; or
+  - (iii) the will or other testamentary writing containing the bequest was made before 23rd December 2016 and the bequest is declared null and void under section 11(6) of the 1991 Act[^f00008]; or
+- (c) a person to whom a lease constituting a short limited duration tenancy, a limited duration tenancy or a modern limited duration tenancy is bequeathed in accordance with section 21(1)[^f00009] of the 2003 Act, where—
+  - (i) that person does not accept the bequest;
+  - (ii) the bequest is declared null and void under section 12A(6)(a) or 12B(2)(a) of the 1991 Act; or
+  - (iii) the will or other testamentary writing containing the bequest was made before 23rd December 2016 and the bequest is declared null and void under section 11(6) of the 1991 Act[^f00010].
+
+### 4. New entrants to farming: shared lease[^key-ebbe69188cce9f269a28a86814616327]
+
+(1) This regulation applies to a lease constituting a modern limited duration tenancy which is a shared lease.
+
+(2) The tenants under a lease to which this regulation applies are new entrants to farming for the purposes of section 5B of the 2003 Act unless the majority of the tenants are disqualified.
+
+(3) For the purposes of paragraph (2), a tenant is disqualified if regulation 3(3), (4) or (5) would apply to that tenant if that tenant were T.
+
+### 5. New entrants to farming: supplemental[^key-baccf7dbe823873040cd811a8f493aa7]
+
+(1) For the purposes of regulation 3, a person has control of a legal person (“L”) if that person—
+
+- (a) holds or controls, directly or indirectly, more than 50% of the voting rights in L;
+- (b) holds or controls the right, directly or indirectly, to appoint or remove more than 50% of the board of directors of L; or
+- (c) otherwise has the right to exercise, or actually exercises, dominant influence or control over L.
+
+(2) In this Part—
+
+- (a) references to voting rights in L or T (as the case may be) are to the rights conferred on shareholders in respect of their shares (or, in the case of L or T not having a share capital, on members or equivalent persons) to vote at a general meeting of L or T on all or substantially all matters;
+- (b) where L or T (as the case may be) does not have general meetings at which matters are decided by the exercise of voting rights, references to voting rights in L or T are to be read as references to rights in relation to L or T that are equivalent to those of a person entitled to exercise voting rights in a company;
+- (c) references to the board of directors of L or T (as the case may be), where L or T does not have such a board, are to be read as references to the equivalent management body of L or T; and
+- (d) references to the right to appoint or remove a majority of the board of directors of L or T (as the case may be) are to the right to appoint or remove directors holding a majority of the voting rights at meetings of the board on all or substantially all matters.
+
+## PART 3 — Land Reform (Scotland) Act 2016: consequential, transitory and saving provisions
+
+### 6. Consequential modifications[^key-5c34328dad0b5f445be5225f66d8da4e]
+
+Schedule 1 (consequential modifications) has effect.
+
+### 7. Transitory and saving provisions[^key-a2d9f96271be66966143deb27dcd8fd3]
+
+Schedule 2 (transitory and saving provisions) has effect.
+
+FERGUS EWING
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+14th September 2017
+
+## SCHEDULE 1 — CONSEQUENTIAL MODIFICATIONS
+
+Regulation 6
+
+### 1. The Rural Stewardship Scheme (Scotland) Regulations 2001[^key-fa10a27aee624b79b6ac690b82521376]
+
+(1) The Rural Stewardship Scheme (Scotland) Regulations 2001[^f00011] are modified as follows.
+
+(2) In regulation 2(1) (interpretation)[^f00012]—
+
+- (a) in paragraph (b) of the definition of “landlord”, for “or short limited duration tenancy” substitute “, short limited duration tenancy, modern limited duration tenancy or repairing tenancy”; and
+- (b) in paragraph (b) of the definition of “tenant”, for “or short limited duration tenancy” substitute “, short limited duration tenancy, modern limited duration tenancy or repairing tenancy”.
+
+### 2. The Organic Aid (Scotland) Regulations 2004[^key-03e71e2b4c7b26d450dfa2eb210c894f]
+
+(1) The Organic Aid (Scotland) Regulations 2004[^f00013] are modified as follows.
+
+(2) In regulation 2(1) (interpretation)[^f00014]—
+
+- (a) in paragraph (b) of the definition of “landlord”, for “or short limited duration tenancy” substitute “, short limited duration tenancy, modern limited duration tenancy or repairing tenancy”; and
+- (b) in paragraph (b) of the definition of “tenant”, for “or short limited duration tenancy” substitute “, short limited duration tenancy, modern limited duration tenancy or repairing tenancy”.
+
+(3) In regulation 16(8) (change of occupation), for sub-paragraph (b) substitute—
+
+> - (b) the death of the former occupier, where that former occupier occupied that farm or part as a tenant, and following the death of that former occupier—
+>   - (i) the tenancy or lease under which the former occupier occupied that farm or part was the subject of a bequest which was declared null and void under section 12A(6)(a) or 12B(2)(a) of the 1991 Act or section 21(2) of the 2003 Act; or
+>   - (ii) the tenancy or lease under which the former occupier occupied that farm or part was terminated under section 12A(6)(b) or 12B(2)(b) of the 1991 Act or section 22(2) of the 2003 Act;
+
+.
+
+### 3. The Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^key-78b7c505eae4969d0864e183a12dcd3f]
+
+(1) The Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^f00015] are modified as follows.
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) in paragraph (b) of the definition of “landlord”, for “or short limited duration tenancy” substitute “, short limited duration tenancy, modern limited duration tenancy or repairing tenancy”; and
+- (b) in paragraph (b) of the definition of “tenant”, for “or short limited duration tenancy” substitute “, short limited duration tenancy, modern limited duration tenancy or repairing tenancy”.
+
+### 4. The Scheduled Monument Consent Procedure (Scotland) Regulations 2015[^key-96e5936463b2f45914dc280165468819]
+
+(1) The Scheduled Monument Consent Procedure (Scotland) Regulations 2015[^f00016] are modified as follows.
+
+(2) In regulation 5(4) (certificates and notices), in paragraph (b) of the definition of “agricultural tenant”, for “or a limited duration tenancy” substitute “, a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy”.
+
+## SCHEDULE 2 — TRANSITORY AND SAVING PROVISIONS
+
+Regulation 7
+
+### 1. Interpretation of schedule 2[^key-4671f3bf19a13673c4e3b4fafea078dd]
+
+In this schedule—
+
+- “1991 Act tenancy” has the same meaning as in section 93 of the 2003 Act (interpretation);
+- “limited duration tenancy” has the same meaning as in section 93 of the 2003 Act[^f00017];
+- “relevant lease” means a lease constituting a limited duration tenancy or a lease constituting a short limited duration tenancy; and
+- “short limited duration tenancy” has the same meaning as in section 93 of the 2003 Act.
+
+### 2. Transitory provision: The Rural Stewardship Scheme (Scotland) Regulations 2001[^key-943951e5f09b7fbc2e2e916d8ddb66c3]
+
+Until the coming into force of section 92 of the 2016 Act (repairing tenancies: creation) for all purposes, regulation 2(1) of the Rural Stewardship Scheme (Scotland) Regulations 2001 (interpretation) is to be read as if—
+
+- (a) in paragraph (b) of the definition of “landlord”, for “, modern limited duration tenancy or repairing tenancy” there were substituted “or modern limited duration tenancy”; and
+- (b) in paragraph (b) of the definition of “tenant”, for “, modern limited duration tenancy or repairing tenancy” there were substituted “or modern limited duration tenancy”.
+
+### 3. Transitory provision: The Organic Aid (Scotland) Regulations 2004
+
+Until the coming into force of section 92 of the 2016 Act for all purposes, regulation 2(1) of the Organic Aid (Scotland) Regulations 2004 (interpretation) is to be read as if—
+
+- (a) in paragraph (b) of the definition of “landlord”, for “, modern limited duration tenancy or repairing tenancy” there were substituted “or modern limited duration tenancy”; and
+- (b) in paragraph (b) of the definition of “tenant”, for “, modern limited duration tenancy or repairing tenancy” there were substituted “or modern limited duration tenancy”.
+
+### 4. Saving provisions: The Organic Aid (Scotland) Regulations 2004[^key-3b72b684727d76f1aff654ede859ff85]
+
+(1) The modification made by paragraph 2(3) of schedule 1 has no effect in relation to—
+
+- (a) a lease constituting a 1991 Act tenancy which is bequeathed in accordance with section 11 of the 1991 Act (bequest of lease), where the will or other testamentary writing containing the bequest was made before 23rd December 2016;
+- (b) a relevant lease which is bequeathed in accordance with section 21 of the 2003 Act (bequest of lease), where the will or other testamentary writing containing the bequest was made before 23rd December 2016.
+
+(2) The modification made by paragraph 2(3) of schedule 1 has no effect in relation to an interest of a tenant under a lease constituting a 1991 Act tenancy where—
+
+- (a) that interest is comprised in the estate of a deceased person;
+- (b) that person died before 23rd December 2016; and
+- (c) at the time of that person’s death, that person had made no will or other testamentary writing containing a bequest of that lease.
+
+(3) The modification made by paragraph 2(3) of schedule 1 has no effect in relation to an interest of a tenant under a relevant lease where—
+
+- (a) that interest is comprised in the estate of a deceased person;
+- (b) that person died before 23rd December 2016; and
+- (c) at the time of that person’s death, that person had made no will or other testamentary writing containing a bequest of that lease.
+
+### 5. Transitory provision: The Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^key-b8969967745f70799595e6eef29d233e]
+
+Until the coming into force of section 92 of the 2016 Act for all purposes, regulation 2(1) of the Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005 (interpretation) is to be read as if—
+
+- (a) in paragraph (b) of the definition of “landlord”, for “, modern limited duration tenancy or repairing tenancy” there were substituted “or modern limited duration tenancy”; and
+- (b) in paragraph (b) of the definition of “tenant”, for “, modern limited duration tenancy or repairing tenancy” there were substituted “or modern limited duration tenancy”.
+
+### 6. Transitory provision: The Scheduled Monument Consent Procedure (Scotland) Regulations 2015
+
+Until the coming into force of section 92 of the 2016 Act for all purposes, regulation 5(4) of the Scheduled Monument Consent Procedure (Scotland) Regulations 2015 (certificates and notices) is to be read as if, in paragraph (b) of the definition of “agricultural tenant”, for “, a modern limited duration tenancy or a repairing tenancy” there were substituted “or a modern limited duration tenancy”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Land Reform (Scotland) 2016 Act (“the 2016 Act”) amends the Agricultural Holdings (Scotland) Act 2003 (“the 2003 Act”) to provide for the creation of a new type of agricultural tenancy to be known as a modern limited duration tenancy (“MLDT”). New section 5B of the 2003 Act enables the Scottish Ministers to make provision about the tenants who are new entrants to farming for the purposes of section 5B. Under section 5B(1) of the 2003 Act, where the tenant under a lease constituting an MLDT is a new entrant to farming, the lease may contain provision that the tenancy may be terminated after five years in accordance with section 8D of the 2003 Act (a “break clause”). Section 5B of the 2003 Act is inserted by section 85(3) of the 2016 Act. That section was commenced for the purposes of making regulations under the new section 5B(3) of the 2003 Act on 23rd December 2016, by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365). Section 5B is being commenced for all remaining purposes with effect on 30th November 2017, by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299).
+
+Regulations 2 to 5 of these Regulations make provision as to who is a new entrant to farming for these purposes. Regulation 3 applies where a lease of an MLDT is entered into by a single tenant (“T”). T is a new entrant to farming unless one of the exclusions in regulation 3(3), (4) or (5) apply to T. Where T is a legal person, the question as to whether or not T is a new entrant to farming turns on the status of the person controlling T. Regulation 5(1) makes provision as to what is meant by control. Where no one person controls T, the question as to whether or not T is a new entrant to farming or not turns on the status of the persons who between them control T. Regulation 3(5) makes provision as to how this is to be determined.
+
+Regulation 4 makes provision where a lease of an MLDT is entered into jointly or in common. If the majority of the joint tenants or tenants in common (as the case may be) are disqualified then the tenants are not new entrants to farming. A person is disqualified if they would not be a new entrant to farming if they alone were the tenant.
+
+As well as providing for the creation of MLDTs, the 2016 Act also provides for the creation of another new type of agricultural tenancy to be known as a repairing tenancy. The relevant provisions of the 2016 Act which provide for the creation of a repairing tenancy are not yet in force. Schedule 1 contains provisions which modify various instruments to insert references to MLDTs and repairing tenancies. Paragraph 2 of schedule 1 modifies the Organic Aid (Scotland) Regulations 2004 to insert references to MLDTs and repairing tenancies. That paragraph also modifies those Regulations to update references to the Agricultural Holdings (Scotland) Act 1991 (“the 1991 Act”) following changes made by the 2016 Act to the provisions of the 1991 Act which govern the process of succession to agricultural tenancies. The amendments to the relevant provisions of the 1991 Act were commenced with effect on 23rd December 2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), subject to savings.
+
+Schedule 2 contains transitory and saving provisions in connection with the modifications made by schedule 1. Paragraphs 2, 3, 5 and 6 of schedule 2 make transitory provision to the effect that the references to a “repairing tenancy” inserted into various instruments by the provisions of schedule 1 are to be ignored until such time as section 92 of the 2016 Act comes into force for all purposes. That section provides for the creation of repairing tenancies and it is currently only in force for the purpose of making regulations in relation to repairing tenancies.
+
+Paragraph 4 of schedule 2 makes saving provisions so that the modifications made to the Organic Aid (Scotland) Regulations 2004 by paragraph 2(3) of schedule 1 do not apply in respect of bequests of certain categories of agricultural tenancies made before 23rd December 2016 or to the succession to certain categories of agricultural tenancies where the deceased died before 23rd December 2016 and at the time of death had not made a will or other testamentary writing which bequeathed that lease.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 asp 11](https://www.legislation.gov.uk/asp/2003/11). Section 5B was inserted by section 85(3) of the Land Reform (Scotland) Act [2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18). Section 85(3) of that Act was commenced for the purpose of making regulations by [S.S.I 2016/365](https://www.legislation.gov.uk/ssi/2016/365) and for all remaining purposes by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299).
+
+[^f00002]: Footnote: [2016 asp 18](https://www.legislation.gov.uk/asp/2016/18).
+
+[^key-f01ebb67ac121505f55eeada9fc4b515]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/300/regulation/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^f00003]: Footnote: [1991 c.55](https://www.legislation.gov.uk/ukpga/1991/55).
+
+[^key-130ed8c89fa9a0fb8fd36ac5ce3c3b63]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/300/regulation/2) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^key-b15f53a7b3a7e9e25dc7e876fd4e616b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/300/regulation/3) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^f00004]: Footnote: [1993 c.44](https://www.legislation.gov.uk/ukpga/1993/44). Section 3(3) was amended by section 22(1)(b) of the Crofting Reform (Scotland) Act [2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14).
+
+[^f00005]: Footnote: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^f00006]: Footnote: Section 11(1) was amended by section 107(a) and 109(2)(a) of the Land Reform (Scotland) Act 2016 (“the 2016 Act”).
+
+[^f00007]: Footnote: Sections 12A and 12B were inserted into the Agricultural Holdings (Scotland) Act 1991 by section 109(4) of the 2016 Act.
+
+[^f00008]: Footnote: Section 11(6) was repealed by section 109(2)(d) of the 2016 Act. That repeal was subject to the saving provision contained in regulation 5 of [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365).
+
+[^f00009]: Footnote: Section 21(1) was amended by section 108(3)(a)(ii) of the 2016 Act.
+
+[^f00010]: Footnote: The repeal of section 11(6) by section 109(2)(d) of the 2016 Act was subject to the saving provision contained in regulation 7 of [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365).
+
+[^key-ebbe69188cce9f269a28a86814616327]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/300/regulation/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^key-baccf7dbe823873040cd811a8f493aa7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/300/regulation/5) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^key-5c34328dad0b5f445be5225f66d8da4e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/300/regulation/6) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^key-a2d9f96271be66966143deb27dcd8fd3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/300/regulation/7) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^key-fa10a27aee624b79b6ac690b82521376]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^f00011]: Footnote: [S.S.I. 2001/300](https://www.legislation.gov.uk/ssi/2001/300).
+
+[^f00012]: Footnote: Regulation 2(1) was relevantly amended by [S.S.I. 2005/620](https://www.legislation.gov.uk/ssi/2005/620).
+
+[^key-03e71e2b4c7b26d450dfa2eb210c894f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/2) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^f00013]: Footnote: [S.S.I. 2004/143](https://www.legislation.gov.uk/ssi/2004/143).
+
+[^f00014]: Footnote: Regulation 2(1) was relevantly amended by [S.S.I. 2005/619](https://www.legislation.gov.uk/ssi/2005/619).
+
+[^key-78b7c505eae4969d0864e183a12dcd3f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/3) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^f00015]: Footnote: [S.S.I. 2005/225](https://www.legislation.gov.uk/ssi/2005/225) to which there are amendments not relevant to these Regulations.
+
+[^key-96e5936463b2f45914dc280165468819]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^f00016]: Footnote: [S.S.I. 2015/229](https://www.legislation.gov.uk/ssi/2015/229).
+
+[^key-4671f3bf19a13673c4e3b4fafea078dd]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2017/300/schedule/2/paragraph/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^f00017]: Footnote: The definition of “limited duration tenancy” in section 93 of the Agricultural Holdings (Scotland) Act 2003 was substituted by paragraph 7(30)(a) of schedule 2 of the Land Reform (Scotland) Act 2016. That paragraph is commenced by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299).
+
+[^key-943951e5f09b7fbc2e2e916d8ddb66c3]: Textual amendment: Sch. 2 paras. 2, 3 substituted (30.11.2017) for Sch. 2 paras. 2, 3 by [The Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) (Modern Limited Duration Tenancies) Miscellaneous Amendments Regulations 2017 (S.S.I. 2017/370)](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [6](https://www.legislation.gov.uk/ssi/2017/370/regulation/6)
+
+[^key-3b72b684727d76f1aff654ede859ff85]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2017/300/schedule/2/paragraph/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+
+[^key-b8969967745f70799595e6eef29d233e]: Textual amendment: Sch. 2 paras. 5, 6 substituted (30.11.2017) for Sch. 2 paras. 5, 6 by [The Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) (Modern Limited Duration Tenancies) Miscellaneous Amendments Regulations 2017 (S.S.I. 2017/370)](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [7](https://www.legislation.gov.uk/ssi/2017/370/regulation/7)

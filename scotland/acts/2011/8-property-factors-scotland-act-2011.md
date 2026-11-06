@@ -1,0 +1,1051 @@
+---
+title: Property Factors (Scotland) Act 2011
+id: asp/2011/8
+type: ScottishAct
+category: primary
+status: revised
+made_date: '2011-04-07'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2011/8
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2011/8/pdfs/aspen_20110008_en.pdf
+- http://www.legislation.gov.uk/asp/2011/8/pdfs/asp_20110008_en.pdf
+- http://www.legislation.gov.uk/asp/2011/8/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Property Factors (Scotland) Act 2011
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Property Factors (Scotland) Act 2011
+
+2011 asp 8
+
+An Act of the Scottish Parliament to establish a register of property factors and require property factors to be registered; to make provision in relation to the resolution of disputes between homeowners and property factors; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 3rd March 2011 and received Royal Assent on 7th April 2011
+
+## Part 1 — Registration of property factors
+
+### Establishment of register etc.
+
+#### 1. Register of property factors
+
+(1)[^key-5c543684dd894c6734af72b6ed5df2ed] The Scottish Ministers are to prepare and maintain a register of property factors for the purposes of this Part (“**the register**”).
+
+(2)[^key-8f250872e60345bbc0cc5e70e0ff5d94] The register must be available for public inspection at all reasonable times.
+
+(2A)[^key-e02b412d37dc3cbcf04b020d94255d62] The Scottish Ministers may omit any material which falls within section 5(2) from the register made available for public inspection if they consider it appropriate to do so.
+
+(3)[^key-036aa1102551c48804da81056eb3133a] In this Part, “**registered**” means registered in the register, and “**unregistered**” means not registered in the register.
+
+#### 2. Meaning of “property factor”[^key-aa271889f4cea4b67a32ee7f8c39fd47]
+
+(1) In this Act, “**property factor**” means––
+
+- (a) a person who, in the course of that person's business, manages the common parts of land owned by two or more other persons and used to any extent for residential purposes,
+- (b) a local authority or housing association which manages the common parts of land used to any extent for residential purposes and owned—
+  - (i) by two or more other persons, or
+  - (ii) by the local authority or housing association and one or more other person,
+- (c) a person who, in the course of that person's business, manages or maintains land which is available for use by the owners of any two or more adjoining or neighbouring residential properties (but only where the owners of those properties are required by the terms of the title deeds relating to the properties to pay for the cost of the management or maintenance of that land), and
+- (d) a local authority or housing association which manages or maintains land which is available for use by—
+  - (i) the owners of any two or more adjoining or neighbouring residential properties, or
+  - (ii) the local authority or housing association and the owners of any one or more such properties,
+
+  but only where the owners of those properties are required by the terms of the title deeds relating to the properties to pay for the cost of the management or maintenance of that land.
+
+(2) Despite subsection (1), the following are not property factors for the purposes of this Act—
+
+- (a) a person so far as managing or maintaining land on behalf of the Crown that was acquired by virtue of Her Majesty's prerogative rights in relation to unclaimed or ownerless land,
+- (b) an owners' association established by the development management scheme (within the meaning of the Title Conditions (Scotland) Act 2003 (asp 9)) so far as managing or maintaining common parts or land in accordance with the scheme,
+- (c) a person so far as managing or maintaining common parts or land on behalf of another person who is a property factor in relation to the same common parts or land.
+
+(3) The Scottish Ministers may by order modify either or both of subsections (1) and (2).
+
+(4) An order under subsection (3) may make such consequential modifications of any other provision of this Act as may be necessary or appropriate.
+
+(5) An order under subsection (3) is not to be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Scottish Parliament.
+
+(6) In this Part—
+
+- “**housing association**” has the meaning given by section 1 of the Housing Associations Act 1985 (c.69),
+- “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c.39).
+
+### Registration
+
+#### 3. Application for registration[^key-5a21a2ec36d0712b444a85d918a5e74d][^key-801a138b35dd22c53e33b6e594adf9d2]
+
+(1) A person who is, or intends to become, a property factor may apply to the Scottish Ministers for entry in the register.
+
+(2) An application under subsection (1) must specify––
+
+- (a) the full name and business address of the person, and if formed and registered under the Companies Acts, the company's registered number,
+- (b) whether the person is trading as a sole trader, partnership or company or has some other legal status,
+- (c) where the person is not trading as a sole trader, the full name and business address of the individual who holds the most senior position within the management structure of the partnership, company or body which is (or is to be) directly concerned with the control or governance of the property factor,
+- (d) the full name and address of any other person who is (or is to be) directly concerned with the control or governance of the property factor,
+- (e) any dwelling houses, flats or land in relation to which the person acts, or expects to act, as a property factor, and
+- (f) such other information as the Scottish Ministers may by regulations prescribe.
+
+(3) An application under subsection (1) must be—
+
+- (a) signed by the responsible person, and
+- (b) subject to subsection (4), accompanied by such fee as the Scottish Ministers may determine.
+
+(4) Subject to subsection (5), the Scottish Ministers may by regulations prescribe for the purposes of subsection (3)(b)––
+
+- (a) fees,
+- (b) how fees are to be arrived at,
+- (c) cases in which no fee is payable.
+
+(5) The Scottish Ministers must secure that, taking one financial year with another, the income from fees under this section and section 7 does not exceed the total cost incurred in exercising their functions under this Part.
+
+(6) A person who, in an application under this section––
+
+- (a) specifies information which the person knows is false in a material particular, or
+- (b) knowingly fails to specify information required by subsection (2),
+
+is guilty of an offence.
+
+(7) A person guilty of an offence under subsection (6) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(8) For the purposes of subsection (2)(d) and section 5, persons who are directly concerned in the control or governance of a property factor include any person who owns 25% or more of the equity in a business which is a property factor.
+
+(9) In this Part, the “responsible person” is—
+
+- (a) where the person making the application under subsection (1) is a sole trader, that person,
+- (b) in any other case, the person specified in the application by virtue of subsection (2)(c).
+
+#### 4. Registration[^key-bf74eed09e71fd3939d8f0b3e19c8a3f]
+
+(1) This section applies where a person makes an application to the Scottish Ministers in accordance with section 3.
+
+(2) In any case where the Scottish Ministers are considering refusing to enter a person in the register, they must before doing so—
+
+- (a) give notice to the responsible person that refusal is under consideration, and
+- (b) allow the person who made the application under section 3(1) an opportunity to make representations to them.
+
+(3) Notice under subsection (2) must be accompanied by a written statement of the Scottish Ministers' reasons for proposing to refuse to enter the person in the register.
+
+(4) The Scottish Ministers must enter the person in the register if, having considered the application and taken account of any representations made by virtue of subsection (2), they are satisfied—
+
+- (a) where the person has not previously been registered, that the person is a fit and proper person to be a property factor,
+- (b) where the person is, or has previously been, registered, that—
+  - (i) the person is a fit and proper person to be a property factor,
+  - (ii) the person has demonstrated compliance with section 13(3),
+  - (iii) the person has, while registered, demonstrated compliance with the property factor code of conduct, and
+  - (iv) the person has demonstrated compliance with a property factor enforcement order made against the person by the First-tier Tribunal[^key-2b1f72d2f43ad8733b865b51b338f6d1] .
+
+(5) Otherwise, the Scottish Ministers must refuse to enter the person in the register.
+
+(6) An entry under subsection (4) must include the information specified in the application by virtue of paragraphs (a) to (f) of section 3(2).
+
+(7) Subject to section 8, where the Scottish Ministers make an entry under subsection (4), they must remove the entry from the register—
+
+- (a) on the expiry of the period of 3 years beginning with the day on which the entry is made, or
+- (b) where the person to whom the entry relates—
+  - (i) has made a further application for entry in the register under section 3(1), and
+  - (ii) that application has not been determined on the expiry of the period mentioned in paragraph (a),
+
+  on the determination of that further application.
+
+(8) For the purposes of––
+
+- (a) subsection (7)(b), an application is determined only when—
+  - (i) the period within which any appeal under section 11(2) in relation to the application may be made expires (without such an appeal being made), or
+  - (ii) any such appeal is concluded,
+- (b) paragraph (a)(ii), an appeal is concluded only when—
+  - (i) the period within which an appeal under section 11(9) may be made has expired without such an appeal being made, or
+  - (ii) any such appeal has been concluded.
+
+(9)[^key-1c8a8ea54cbd1add008e6ecd788ded49] In this Act, “First-tier Tribunal” means the First-tier Tribunal for Scotland Housing and Property Chamber.
+
+#### 5. Section 4: considerations[^key-1adf93072500eb5d63a68b3028a2a6d4]
+
+(1) In deciding for the purposes of section 4(4)(a) or (b)(i) whether a person is a fit and proper person to be a property factor, the Scottish Ministers are to have regard (among other things) to any material falling within subsections (2) to (4).
+
+(2) Material falls within this subsection if it shows that any person who is (or is to be) directly concerned with the control or governance of the property factor, has––
+
+- (a) been convicted of any offence involving––
+  - (i) fraud or other dishonesty,
+  - (ii) violence, [^key-a8521d5f6b836d844ef6a61db5537246]...
+  - (iii) drugs, or[^key-8f1b97f8afbe01d0b8d273aff40dcb4b]
+  - (iv) firearms,
+- (aa)[^key-beced0fef93b7478d91f440f89f9f476] been convicted of a sexual offence within the meaning of section 210A(10) of the Criminal Procedure (Scotland) Act 1995,
+- (b) practised unlawful discrimination on the grounds of any of the protected characteristics in Part 2 of the Equality Act 2010 (c.15), or
+- (c) contravened any provision of —[^key-e9703b1aa6d3f42d537fde7262885730]
+  - (i) the law relating to housing,
+  - (ii) landlord and tenant law,
+  - (iii) the law relating to property (including tenements),
+  - (iv) the law relating to debt.
+
+(3) Material falls within this subsection if it shows the extent to which any other property factor with which the person (or any other person who is, or is to be, directly concerned with the control or governance of the property factor) is or has previously been involved demonstrates or demonstrated compliance with—
+
+- (a) the property factor code of conduct, and
+- (b) any property factor enforcement order made against that other property factor by the First-tier Tribunal[^key-3417a2d635016b6ac9a365a40278fe0d].
+
+(3A)[^key-e1955076347cb3defab98a504d178351] Material falls within this subsection if it shows the extent to which any person mentioned in subsection (1) has—
+
+- (a) failed to provide information in accordance with section 14A or 14B(2)(d)(i),
+- (b) obstructed a person acting in the proper exercise of the person’s functions under sections 14B to 14D,
+- (c) failed to comply with a requirement made by a person who is so acting.
+
+(4) Where the person is, or has previously been, registered, material falls within this subsection if it shows that the person has failed to pay any charges imposed by virtue of section 26.
+
+(5)[^key-d70d1bc263c8941b55149ab1700fa353] The Scottish Ministers may by regulations modify this section by adding to, removing or varying any material in subsections (2) to (4).
+
+(6) Regulations under subsection (5) are subject to the affirmative procedure.
+
+#### 6. Notification of registration, refusal to register or removal[^key-c551fb7c1e61d1a199a44656859dc17f]
+
+Where the Scottish Ministers—
+
+- (a) enter a person in the register under section 4(4),
+- (b) refuse to enter a person in the register under section 4(5), or
+- (c) remove an entry under section 4(7),
+
+they must, as soon as practicable after doing so, give notice to the responsible person of that fact and, in a case mentioned in paragraph (a) or (c), the date of entry or, as the case may be, removal.
+
+#### 7. Duty of responsible person to provide information[^key-d5eb20eea0e82a5e82cb5dc212021b2c][^key-f6b549ca8ec7802fee6ac7df5167e0c3]
+
+(1) This section applies where a property factor is registered.
+
+(2) Where in consequence of a change in circumstances any information provided by the property factor to the Scottish Ministers by virtue of section 3(2)(a) to (d) or, as the case may be, this subsection, becomes inaccurate, the responsible person must, as soon as practicable after the inaccuracy arises, give notice to the Scottish Ministers of the change that has occurred.
+
+(3) The property factor must, no later than three months after the end of each financial year, give notice to the Scottish Ministers—
+
+- (a) of any dwelling houses, flats or land in relation to which the property factor has acted as property factor during that financial year, or
+- (b) if there has been no change in that information since—
+  - (i) the date of the last notice given under this subsection, or
+  - (ii) if the person became registered as a property factor during the financial year, the date on which the person provided the information referred to in section 3(2)(e),
+
+  that there has been no change in that information.
+
+(4) Subject to subsection (5), any notice given under subsection (2) or (3) must be accompanied by such fee as the Scottish Ministers may determine.
+
+(5) Subject to section 3(5), the Scottish Ministers may by regulations prescribe for the purposes of subsection (4)––
+
+- (a) fees,
+- (b) how fees are to be arrived at,
+- (c) cases in which no fee is payable.
+
+(6) A person who, without reasonable excuse, fails to comply with subsection (2) or (3) is guilty of an offence.
+
+(7) A person who, in a notice under subsection (2) or (3), provides information which the person knows is false in a material particular, is guilty of an offence.
+
+(8) A person guilty of an offence under subsection (6) or (7) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### Removal from register etc.
+
+#### 8. Revocation of registration[^key-227e7be0f1c01763839ea943fbe5dbbd][^key-a6241ba9b8c813cc4436f093db183860]
+
+(1) Subject to subsections (4) and (6), the Scottish Ministers may remove a property factor from the register if subsection (2) , (3) or (3A)[^key-fed88028ed909d6115a03baa3695e8a3] applies.
+
+(2) This subsection applies where a property factor is registered by virtue of section 4(4)(a) and the Scottish Ministers consider that—
+
+- (a) the property factor is no longer a fit and proper person to be registered as a property factor,
+- (b) the property factor has failed to comply with section 13(3), or
+- (c) the property factor has failed to demonstrate compliance with—
+  - (i) the property factor code of conduct, or
+  - (ii) any property factor enforcement order made against the property factor by the First-tier Tribunal[^key-510c62fcd6c7d733daca326b09fd9a43] .
+
+(3) This subsection applies where a property factor is registered by virtue of section 4(4)(b) and the Scottish Ministers consider that one or more of the conditions specified in sub-paragraphs (i) to (iv) of that section is no longer met.
+
+(3A)[^key-0fca27887a5c7e3d061c5e9aaab375ee] This subsection applies where a property factor is registered by virtue of section 4(4)(a) or (b) and the Scottish Ministers consider that the property factor no longer exists.
+
+(4) Before removing a property factor from the register under subsection (1) the Scottish Ministers must (if possible)[^key-36f355f06f785673cb7e8df590b2e680]––
+
+- (a) give notice to the responsible person that removal under that subsection is under consideration, and
+- (b) allow the property factor an opportunity to make representations to them.
+
+(5) Notice under subsection (4) must be accompanied by a written statement of the Scottish Ministers' reasons for proposing to remove the property factor from the register under subsection (1).
+
+(6) The Scottish Ministers must not remove the property factor from the register under subsection (1) unless they are satisfied, after taking account of any representations made to them under subsection (4)(b), that subsection (2) , (3) or (3A)[^key-4585d38891798ee9d40d64288d930cc3] applies.
+
+(7) Where the Scottish Ministers decide to remove a property factor from the register under subsection (1), they must (if possible)[^key-ae2995b65e941ac17146d6489358f987], as soon as practicable after doing so, give notice of that fact (and the date of removal, which must be a date no less than 21 days after the date notice is given under this subsection) to the responsible person [^key-05692d4e4b5c3490b2dbc3389b9952cf]....
+
+#### 8A. Removal from register following application[^key-c3af5aa7df616fb90471d56784a3b342]
+
+(1) A registered property factor may apply to the Scottish Ministers to be removed from the register.
+
+(2) The application must be accompanied by a fee of such amount (if any) as the Scottish Ministers may determine.
+
+(3) The Scottish Ministers must remove a registered property factor from the register if, having considered an application under this section, they are satisfied that—
+
+- (a) the registered property factor is no longer carrying out the activities of a property factor, and
+- (b) it is otherwise appropriate to remove that property factor from the register.
+
+(4) The Scottish Ministers must (if possible), as soon as practicable after making their decision under this section, notify the property factor who made the application of—
+
+- (a) their decision, and
+- (b) either—
+  - (i) in the case of a decision to remove the property factor from the register, the date of removal from the register,
+  - (ii) in the case of a decision not to remove the property factor from the register, their reasons for that decision.
+
+### Consequences of refusal or removal[^key-81ff409e63dcfe53f281a8470e8f50d8]
+
+#### 8B. Note in register following refusal to enter or removal
+
+(1) If the Scottish Ministers refuse to enter a person in the register under section 4(5), they must, after the date of final refusal, note that fact in the register.
+
+(2) If the Scottish Ministers remove a person from the register under section 8(1) they must, after the date of final refusal, note that fact in the register.
+
+(3) For the purposes of this section, the date of final refusal is the later of the date on which—
+
+- (a) the period mentioned in section 11(2) expires without an appeal being made,
+- (b) where such an appeal has been made, the appeal is finally determined or abandoned.
+
+(4) Where a fact is noted by virtue of subsection (1) or (2) it must—
+
+- (a) remain on the register for the period of 3 years beginning with the date on which the Scottish Ministers are required to note it in the register, and
+- (b) be removed from the register at the end of that period.
+
+(5) But where a person in respect of whom the Scottish Ministers note a fact by virtue of subsection (1) or (2) is subsequently entered in the register before the end of the period mentioned in subsection (4)(a), the Scottish Ministers must remove the fact from the register.
+
+#### 9. Effect of refusal to enter in register or removal from register[^key-59f872b9e72350acc6db50bd2d3fe5de]
+
+(1) Subsection (2) applies where the Scottish Ministers—
+
+- (a) refuse under section 4(5) an application for entry in the register by a person who is operating as a property factor on the day on which section 3 comes into force,
+- (b) remove a property factor from the register under section 4(7), [^key-fa37df0cdb670b24d8dab157575b78cd]...
+- (c) remove a property factor from the register under section 8(1) , or[^key-efa5d82375d48b13055234ed9c7e084d]
+- (d) remove a property factor from the register under section 8A(3).
+
+(2) After the relevant date––
+
+- (a) no costs incurred by the property factor in respect of work instructed after the relevant date are recoverable,
+- (b) no charge imposed by the property factor which relates to a period after the relevant date is recoverable,
+- (c) homeowners may appoint new property factors (or decide to manage their properties without appointing a property factor) in accordance with the procedures made in relation to such decisions in their title deeds or, as the case may be, the Tenement Management Scheme,
+- (d) the property factor may not lodge a notice of potential liability for costs under section 13(1) of the Tenements (Scotland) Act 2004 (asp 11) in respect of work instructed after the relevant date.
+
+(3) The Scottish Ministers must, as soon as practicable after the relevant date, publish in such manner as they think fit a[^key-726f88b0dbbf40526405252ed731ce61] notice of—
+
+- (a) the refusal or removal mentioned in subsection (1)[^key-06501b875be640a54d555baba3b35bb4],
+- (b) the relevant date, and
+- (c) the effect of subsection (2).
+
+#### 10. Section 9: interpretation etc.
+
+(1)[^key-70bc68544c47cbf596a65a02672bd2a5] For the purposes of section 9(1)(b), a property factor is not removed from the register where the entry removed under section 4(7) is replaced, before or at the time of the removal, by another entry made by virtue of a further application for entry in the register under section 3(1) by the person to whom the entry removed under section 4(7) relates.
+
+(2)[^key-70bc68544c47cbf596a65a02672bd2a5] In section 9, “**relevant date**” means—
+
+- (a) in relation to a case mentioned in section 9(1)(a) or (c), the day after the day on which––
+  - (i) the period within which any appeal under section 11(2) may be made expires (without such an appeal being made), or
+  - (ii) any such appeal is concluded (without the Scottish Ministers being required to enter the applicant in the register),
+- (b) in relation to a case mentioned in section 9(1)(b), the day after the day on which the entry in the register is removed under section 4(7).
+
+(3)[^key-70bc68544c47cbf596a65a02672bd2a5] For the purposes of subsection (2), an appeal is concluded only when—
+
+- (a) the period within which an appeal under section 11(9) may be made has expired without such an appeal being made, or
+- (b) any such appeal has been concluded.
+
+(4)[^key-70bc68544c47cbf596a65a02672bd2a5] In section 9(2)(c), “**Tenement Management Scheme**” has the meaning given by section 29(1) of the Tenements (Scotland) Act 2004.
+
+(5)[^key-363902b642e0ea66204973a07fea95cf] In this Act, “**homeowner**” means—
+
+- (a) an owner of land used to any extent for residential purposes the common parts of which are managed by a property factor, or
+- (b) an owner of residential property adjoining or neighbouring land which is—
+  - (i) managed or maintained by a property factor, and
+  - (ii) available for use by the owner.
+
+### Appeals
+
+#### 11. Appeal against refusal to register or removal from register[^key-d25024e1d391b60d1331cfaa8a1e8cb8]
+
+(1) This section applies where the Scottish Ministers––
+
+- (a) refuse to enter a person in the register under section 4(5), or
+- (b) remove a property factor from the register under section 8(1).
+
+(2) A person mentioned in subsection (1)(a) or (b) (“**the applicant**”) may, not later than 21 days after the day on which the responsible person receives notice under section 6 or 8(7), appeal to the sheriff against the refusal or, as the case may be, removal.
+
+(3) After giving the parties an opportunity to be heard, the court may, if it considers that it is reasonable to do so having regard to the factors mentioned in subsection (4), require the Scottish Ministers to enter the applicant in the register.
+
+(4) The factors are—
+
+- (a) in a case where the applicant has not previously been registered, that the applicant is a fit and proper person to be a property factor,
+- (b) in any other case, the conditions mentioned in section 4(4)(b).
+
+(5) Section 5 applies for the purposes of this section as it applies for the purposes of section 4, but with the references to the Scottish Ministers being read as references to the court.
+
+(6) The court is to give reasons for its decision under subsection (3) in writing.
+
+(7) An entry made by virtue of subsection (3) is to be treated as if—
+
+- (a) in a case where the applicant has not previously been registered, it is an entry made by virtue of section 4(4)(a),
+- (b) in any other case, it is an entry made by virtue of section 4(4)(b).
+
+(8) An appeal under subsection (2) is to be made by summary application to the sheriff.
+
+(9) An appeal on a point of law only against the decision of a sheriff on an application under subsection (2) may be made to the sheriff principal.
+
+(10) An appeal under subsection (9) must be made not later than 21 days after the day on which the decision appealed against is made.
+
+(11) The decision of the sheriff principal on an appeal under subsection (9) is final.
+
+### Enforcement
+
+#### 12. Offence of operating as a property factor without registration[^key-e4dee9443630d2f30da0b5c33e2ee53e]
+
+(1) Except where subsection (2) or (3) applies, a person who operates as a property factor while unregistered is guilty of an offence.
+
+(2) This subsection applies where––
+
+- (a) a person who is operating as a property factor on the day on which section 3 comes into force has made an application for entry in the register, and
+- (b) the application has not yet been determined by the Scottish Ministers under section 4.
+
+(3) This subsection applies where a property factor has been removed from the register under section 8(1) but only until—
+
+- (a) the period within which any appeal under section 11(2) in relation to the removal may be made expires (without such an appeal being made), or
+- (b) any such appeal is concluded.
+
+(4) It is a defence for a person charged with an offence under subsection (1) to show that there was a reasonable excuse for acting in the way charged.
+
+(5) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale, or to imprisonment for a term not exceeding six months or to both.
+
+(6) Where—
+
+- (a) an offence under subsection (1) has been committed by a body corporate or a Scottish partnership or other unincorporated association, and
+- (b) it is proved that the offence was committed with the consent or connivance of, or was attributable to any neglect on the part of—
+  - (i) a relevant individual, or
+  - (ii) an individual purporting to act in the capacity of a relevant individual,
+
+that individual, as well as the body corporate, Scottish partnership or other unincorporated association, is guilty of the offence and is liable to be proceeded against and punished accordingly.
+
+(7) In subsection (6), “**relevant individual**” means—
+
+- (a) in relation to a body corporate—
+  - (i) a director, manager, secretary or other similar officer of the body,
+  - (ii) where the affairs of the body are managed by its members, a member,
+- (b) in relation to a Scottish partnership, a partner,
+- (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
+
+(8) For the purposes of––
+
+- (a) subsection (2)(b), an application is determined only when—
+  - (i) the period within which any appeal under section 11(2) in relation to the application may be made expires (without such an appeal being made), or
+  - (ii) any such appeal is concluded,
+- (b) subsection (3)(b) and paragraph (a)(ii) of this subsection, an appeal is concluded only when—
+  - (i) the period within which an appeal under section 11(9) may be made has expired without such an appeal being made, or
+  - (ii) any such appeal has been concluded.
+
+### Property factor registered numbers
+
+#### 13. Property factor registered numbers[^key-45c84d6aff3971cc0da756c2cc022dcc][^key-8f626d77f3e19a7b7a01d4b3c2182268]
+
+(1) The Scottish Ministers must allocate a number to each registered property factor (the “property factor registered number”).
+
+(2) The property factor registered number may be in such form, consisting of one or more sequences of letters or numbers, as the Scottish Ministers may determine.
+
+(3) A registered property factor must take all reasonable steps to ensure that the property factor registered number is included in—
+
+- (a) any document sent to a homeowner,
+- (aa)[^key-9b1cdef1add4fdd474ad5d93ecba5610] any other communication in relation to the activities of the property factor, and
+- (b) any other document or communication of such type as the Scottish Ministers may by order specify.
+
+(4) Any person other than a registered property factor who, without reasonable excuse, uses a number purporting to be a property factor registered number in any document or communication commits an offence.
+
+(5) Subsection (4) does not apply to a person who has been removed from the register under section 8(1) until—
+
+- (a) the period within which any appeal under section 11(2) in relation to the removal may be made expires (without such an appeal being made), or
+- (b) any such appeal is concluded.
+
+(6) A person guilty of an offence under subsection (4) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(7) For the purposes of subsection (5)(b), an appeal is concluded only when––
+
+- (a) the period within which an appeal under section 11(9) may be made has expired without such an appeal being made, or
+- (b) any such appeal has been concluded.
+
+(8)[^key-3662963a26e4cb98b02bdbae6ed9659e] In this section,
+
+“communication” includes electronic communications sent to or placed on a web page on a website by or on behalf of the registered property factor.
+
+### Code of conduct
+
+#### 14. Code of conduct[^key-89e0a292da4358443f757fdb0e828ab6]
+
+(1) The Scottish Ministers must from time to time prepare a code of conduct setting out minimum standards of practice for registered property factors (a “property factor code of conduct”).
+
+(2) After preparing a property factor code of conduct, the Scottish Ministers––
+
+- (a) must—
+  - (i) publish a draft of the code,
+  - (ii) consult with such bodies as they consider appropriate and also with the general public about the draft, and
+  - (iii) consider any representations about the draft made to them as a result of such consultation, and
+- (b) may amend the draft accordingly.
+
+(3) After complying with subsection (2), the Scottish Ministers must, in the following order—
+
+- (a) lay the property factor code of conduct before the Scottish Parliament,
+- (b) publish the code, and
+- (c) bring the code into force on such day as they may by order appoint.
+
+(4) An order under subsection (3)(c) is not to be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Scottish Parliament.
+
+(5) A registered property factor must ensure compliance with the property factor code of conduct for the time being in force.
+
+### Monitoring of compliance[^key-aebab51deac20cfea32c5a3935f908ec]
+
+#### 14A. Power to obtain information
+
+(1) The Scottish Ministers may, for the purpose of monitoring compliance with the provisions of this Part, serve a notice on a person who appears to be a property factor requiring the person to provide them with information specified in the notice.
+
+(2) The Scottish Ministers may by regulations make further provision about the requiring of information under subsection (1) and, in particular, may make provision about—
+
+- (a) the form of the notice and the manner of service,
+- (b) the time within which information must be provided.
+
+(3) Any requirement for a person to provide information in accordance with a notice under subsection (1) does not have effect to the extent that the person would be entitled to refuse to provide the information in, or for the purposes of, proceedings in a court in Scotland.
+
+#### 14B. Power to carry out inspections
+
+(1) For the purpose of monitoring compliance with the provisions of this Part, an authorised person may carry out an inspection of premises which appear to be being used for the purpose of carrying out the activities of a property factor.
+
+(2) For the purposes of carrying out the inspection, the authorised person may—
+
+- (a) enter and inspect the premises,
+- (b) require the production of any book, document, data or record (in whatever form it is held) and inspect it, and take copies of or extracts from it,
+- (c) take possession of any book, document, data or record (in whatever form it is held) which is on the premises and retain it for as long as the authorised person considers necessary,
+- (d) require any person to—
+  - (i) give the authorised person such information as the authorised person considers necessary,
+  - (ii) afford the authorised person such facilities and assistance as the authorised person considers necessary.
+
+(3) Any requirement for a person to give information in accordance with subsection (2)(d)(i) does not have effect to the extent that the person would be entitled to refuse to give the information in, or for the purposes of, proceedings in a court in Scotland.
+
+(4) In this section—
+
+- “**authorised person**” means a person authorised by the Scottish Ministers,
+- “**premises**” includes any place and any vehicle, vessel, or moveable structure.
+
+#### 14C. Warrants for entry
+
+(1) A sheriff may by warrant authorise a person to enter premises (if necessary using reasonable force) for the purpose of carrying out an inspection under section 14B.
+
+(2) A warrant may be granted under subsection (1) only if the sheriff is satisfied by evidence on oath—
+
+- (a) that there are reasonable grounds for entering the premises in question, and
+- (b) that—
+  - (i) entry to the premises has been or is likely to be refused and that notice of the intention to apply for a warrant under this section has been given to the occupier,
+  - (ii) a request for entry, or the giving of such notice, would defeat the object of the proposed entry,
+  - (iii) the premises are unoccupied, or
+  - (iv) the occupier is temporarily absent and it might defeat the object of the entry to await the occupier’s return.
+
+#### 14D. Inspections: supplementary
+
+(1) A person entering any premises under section 14B(2)(a) or in accordance with a warrant granted under section 14C may take on to the premises such other persons and such equipment as the person considers necessary.
+
+(2) A right to enter any premises conferred by section 14B(2)(a) may be exercised only at a reasonable time.
+
+(3) The occupier of the premises concerned must be given at least 24 hours’ notice before a person carries out an inspection under section 14B unless the person carrying out the inspection considers that giving such notice would defeat the object of the proposed inspection.
+
+(4) A person carrying out an inspection under section 14B must, if required to do so, produce written evidence of the person’s authorisation to carry out the inspection.
+
+(5) On leaving any premises which a person is authorised to enter by a warrant granted under section 14C, the person must, if the premises are unoccupied or the occupier is temporarily absent, leave the premises as effectively secured against trespassers as the person found them.
+
+(6) A person who takes possession of any item under section 14B(2)(c) must leave a statement on the premises from which the item was removed—
+
+- (a) giving particulars of what has been taken, and
+- (b) stating that the person has taken possession of it.
+
+#### 14E. Information and inspection: offence
+
+(1) It is an offence for a person who has been required to provide information in accordance with section 14A or 14B(2)(d)(i)—
+
+- (a) without reasonable excuse, to fail or refuse to provide the information,
+- (b) to knowingly or recklessly make any statement in respect of that information which is false or misleading in a material particular.
+
+(2) It is an offence for a person—
+
+- (a) to intentionally obstruct a person acting in the proper exercise of the person’s functions under sections 14B to 14D,
+- (b) without reasonable excuse, to fail to comply with any requirement made under section 14B(2)(b) or (d)(ii) by a person who is so acting.
+
+(3) A person who commits an offence under subsection (1) or (2) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### General
+
+#### 15. Service of notices etc.[^key-c171b25610f4aedbcebccd9209d6ec1b]
+
+(1) Any notice to be given to a responsible person under this Part may be––
+
+- (a) sent by post, by the recorded delivery service, to, or
+- (b) given by personal service by a sheriff officer at,
+
+the address specified in the property factor's application for entry in the register by virtue of section 3(2)(a).
+
+(2) A notice sent as mentioned in subsection (1)(a) is, unless the contrary is proved, to be treated as having been received on the next working day after the day on which it is sent.
+
+(3)[^key-f15e3b01f732185432310dd1bc709415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 2 — Dispute resolution
+
+### ...[^key-e2a1abc28f00bec7ef3e6c56ea1f1361]
+
+#### 16.[^key-e0ddbd626611dc0c41cd5aa74db95dca]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Application and referral
+
+#### 17. Application to the First-tier Tribunal[^key-777c25b309e52d94ac2c3d18543274ad][^key-48e71549a03e8052550945c8585b1005]
+
+(1) A homeowner may apply to the First-tier Tribunal[^key-63ff2465c86cb0ee3671362a2ac0afe9] for determination of whether a property factor has failed—
+
+- (a) to carry out the property factor's duties,
+- (b) to ensure compliance with the property factor code of conduct as required by section 14(5) (the “section 14 duty”).
+
+(2) An application under subsection (1) must set out the homeowner's reasons for considering that the property factor has failed to carry out the property factor's duties or, as the case may be, to comply with the section 14 duty.
+
+(3) No such application may be made unless––
+
+- (a) the homeowner has notified the property factor in writing as to why the homeowner considers that the property factor has failed to carry out the property factor's duties or, as the case may be, to comply with the section 14 duty, and
+- (b) the property factor has refused to resolve, or unreasonably delayed in attempting to resolve, the homeowner's concern.
+
+(4) References in this Act to a failure to carry out a property factor's duties include references to a failure to carry them out to a reasonable standard.
+
+(5) In this Act, “**property factor's duties**” means, in relation to a homeowner—
+
+- (a) duties in relation to the management of the common parts of land owned by the homeowner, or
+- (b) duties in relation to the management or maintenance of land—
+  - (i) adjoining or neighbouring residential property owned by the homeowner, and
+  - (ii) available for use by the homeowner.
+
+#### 18. Referral to the First-tier Tribunal[^key-05c168051555898287a959b0a20fbaf9][^key-4f466bb33453fa4a2762bd9c086be9fe]
+
+(1) The Chamber President[^key-a5dccaf5781a2d2d9baa1452b3d43bcd] must decide whether to––
+
+- (a) refer an application under section 17(1) to the First-tier Tribunal[^key-7b74e4659634f1deda787c2848b05f78] , or
+- (b) reject the application.
+
+(2) The Chamber President[^key-0752e97dab91420d8e77e408f1e6a62b] may reject an application only if the Chamber President considers––
+
+- (a) that it is vexatious or frivolous,
+- (b) that the homeowner has not afforded the property factor a reasonable opportunity to resolve the dispute,
+- (c) where the homeowner has previously made an identical or substantially similar application in relation to the same property, that a reasonable period of time has not elapsed between the applications, or
+- (d) that the dispute to which the application relates has been resolved.
+
+(3) The Chamber President[^key-4ce22d99ed7d5f839f97f05f363ce23d] must make a decision under subsection (1)––
+
+- (a) within 14 days of the First-tier Tribunal’s[^key-f29e6f7ca2c8981a28572917c04c173f] receipt of the application concerned, or
+- (b) where the Chamber President considers––
+  - (i) that the decision cannot be made without further information, or
+  - (ii) that there is a reasonable prospect of the dispute being resolved by the parties,
+
+  by such later date as the Chamber President considers reasonable.
+
+(4) The Chamber President[^key-db3af75311db854f17e2b7fa14cf05a7] must, as soon as practicable after rejecting an application, give notice of the rejection––
+
+- (a) to the homeowner, and
+- (b) where the Chamber President is aware of the name and address of a person who acts for the homeowner in relation to the application, to that person.
+
+(5) Such a notice must––
+
+- (a) set out the reasons for the rejection, and
+- (b) explain the procedure for appealing against it.
+
+(6)[^key-fd2eadf8553a61165e8d4be8050d5441] In this Act, “Chamber President” means Chamber President of the First-tier Tribunal for Scotland Housing and Property Chamber.
+
+#### 18A. Delegation of Chamber President’s powers[^key-43bbdef7a559272887e66b82b7f6dc31]
+
+(1) The Chamber President may delegate the Chamber President’s functions under section 18 to any legal or ordinary member of the First-tier Tribunal.
+
+(2) A delegation under this section does not affect the Chamber President’s—
+
+- (a) responsibility for the carrying out of delegated functions, or
+- (b) ability to carry out delegated functions.
+
+### Property factor enforcement orders
+
+#### 19. Determination by the First-tier Tribunal[^key-d3a37b11d223ba15b38e5f35f5e15a0a][^key-4f2442e993baa92b11ebf7530ba55fbc]
+
+(1) The First-tier Tribunal must, in relation to a homeowner’s application referred to it under section 18(1)(a),[^key-38c07d09e15ff1048f4111f35da994f2] decide—
+
+- (a) whether the property factor has failed to carry out the property factor's duties or, as the case may be, to comply with the section 14 duty, and
+- (b) if so, whether to make a property factor enforcement order.
+
+(2) In any case where the First-tier Tribunal[^key-108af805c5dc4d16fe2ba046734e5b6a] proposes to make a property factor enforcement order, it[^key-0f21796718cab4f12ae02375970c4f94] must before doing so––
+
+- (a) give notice of the proposal to the property factor, and
+- (b) allow the parties an opportunity to make representations to it[^key-f5b8a46b10f0474574281fb2a1237540] .
+
+(3) If the First-tier Tribunal is[^key-d4caaeab20a21f54ba48374ff50ce828] satisfied, after taking account of any representations made under subsection (2)(b), that the property factor has failed to carry out the property factor's duties or, as the case may be, to comply with the section 14 duty, the First-tier Tribunal[^key-fc91b174fae50b17cadb3bf2101fe795] must make a property factor enforcement order.
+
+(4) Subject to section 22, no matter adjudicated on by the First-tier Tribunal[^key-8d2f8cd18b1a1736da384d54db9475f6] may be adjudicated on by another court or tribunal.
+
+#### 20. Property factor enforcement orders[^key-03366e010803d6daceccb10ee683f976]
+
+(1) A property factor enforcement order is an order requiring the property factor to––
+
+- (a) execute such action as the First-tier Tribunal[^key-4426eeea120c6bebef3abfdb9b00ab1e] considers necessary,
+- (b) where appropriate, make such payment to the homeowner as the First-tier Tribunal[^key-203a587bbce6aea09f2dd7a720b2f3e4] considers reasonable.
+
+(2) A property factor enforcement order must specify the period within which any action required must be executed or any payment required must be made.
+
+(3) A property factor enforcement order may specify particular steps which the property factor must take.
+
+#### 21. Variation and revocation of property factor enforcement orders[^key-cc58629b56a3e0aa30f502a5d01918b6]
+
+(1) Where the First-tier Tribunal has made a property factor enforcement order it[^key-66f84c7c015ea740359686b276e606d2] may, at any time––
+
+- (a) vary the order in such manner as it considers[^key-9ef598d27a82661d3befead78e3b1d53] reasonable, or
+- (b) where it considers[^key-efe5f40f91e2c57ae1e6a787445aeef4] that the action required by the order is no longer necessary, revoke it.
+
+(2) Where subsection (3) applies, the First-tier Tribunal[^key-ba4f35a87e67efdf1287265bdcb3926f] must vary the property factor enforcement order––
+
+- (a) so as to extend, or further extend, the period within which any action required by the order must be executed, and
+- (b) in such other manner as it thinks[^key-06f9699dfe70db97cc3d9c885d53537b] fit.
+
+(3) This subsection applies where––
+
+- (a) the First-tier Tribunal considers[^key-00202cd9ba3607c03a6eda7adee40b0b] , on the submission of the property factor or otherwise, that any action required by a property factor enforcement order has not been, or will not be, executed during the period within which the order requires the work to be executed, and
+- (b) the First-tier Tribunal[^key-f27d6900d80ce88e889e27e4ea41c2bc] ––
+  - (i) considers[^key-005a5b2921046e6add557992c7d5957f] that satisfactory progress has been made in executing the action required, or
+  - (ii) has[^key-901938eda3899eb4d5a946a4a76903cf] received a written undertaking from the property factor stating that the action required will be executed by a later date which the First-tier Tribunal considers satisfactory.
+
+(4) References in this Act to a property factor enforcement order or to action required by such an order are, where the order has been varied under this section, to be treated as references to the order as so varied or, as the case may be, to action required by the order as so varied.
+
+### Appeals
+
+#### 22. Appeals[^key-9e65001ffba8bea32c7805c48b94003c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Effect of failure to comply with property factor enforcement order
+
+#### 23. Effect of failure to comply with property factor enforcement order[^key-3dfccd959c89f27446ad91bb62565957]
+
+(1) It is for the First-tier Tribunal[^key-2404f42b7f1a4eff8cb34eb180766708] to decide whether a property factor has failed to comply with a property factor enforcement order made by the First-tier Tribunal[^key-d1d23475e5ab14498cd988996543d75c] .
+
+(2) Where the First-tier Tribunal[^key-51beb0b9de0b8b40ab1cc1d46e8cecee] decides[^key-51a99b3fb4f8a265d247a433fae03c23] that a property factor has failed to comply with the property factor enforcement order, the First-tier Tribunal must serve notice of the failure on the Scottish Ministers.
+
+(3) The First-tier Tribunal[^key-ebdb8d379455ec098c3661b9ed56b4ca] may not decide that a property factor has failed to comply with a property factor enforcement order––
+
+- (a) unless the period within which the order requires any work to be executed has ended, or
+- (b) if the First-tier Tribunal is[^key-6168864fd53f284827500a7665143fef] satisfied, on the submission of the property factor or otherwise––
+  - (i) that the property factor is unable to comply with the order because of a lack of necessary rights (of access or otherwise) despite having taken reasonable steps for the purposes of acquiring those rights, or
+  - (ii) that any action required by the order is likely to endanger any person.
+
+(4) Where the First-tier Tribunal is[^key-1005d59b02b3c1b43d4f192d8b4538a8] prevented by reason only of subsection (3)(b) from deciding that a property factor has failed to comply with a property factor enforcement order, the First-tier Tribunal[^key-34b886acabc2852811778bc27bfe5c78] must serve notice on the Scottish Ministers stating that it considers[^key-10350fde2123dd9cb9e631aa9c7a2e96] the property factor to be unable to comply with the property factor enforcement order.
+
+#### 24. Property factor enforcement order: offences[^key-3374fd282b8dce837bed3e32863c0a8c]
+
+(1) A person who, without reasonable excuse, fails to comply with a property factor enforcement order commits an offence.
+
+(2) For the purposes of subsection (1), a person has reasonable excuse for failing to comply with a property factor enforcement order if––
+
+- (a) the person is unable to comply with the order because of a lack of necessary rights (of access or otherwise) despite having taken reasonable steps for the purposes of acquiring those rights, or
+- (b) any action required by the order is likely to endanger any person.
+
+(3) Subsection (2) does not affect the generality of the defence of reasonable excuse.
+
+(4) A person cannot be guilty of an offence under subsection (1) unless the First-tier Tribunal[^key-8acc4f2da8a841c597e0c14495cbe0ed] which made the property factor enforcement order in question has decided under section 23(1) that the property factor has failed to comply with it (but such a decision does not establish a presumption that the person has committed an offence under subsection (1)).
+
+(5) A person who is guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+### General
+
+#### 25. Power to make further provision about applications etc.[^key-07221692f0fac65690496197633ddc21]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 26. Recovery of costs from property factors in relation to certain applications and orders[^key-99acb5633e39f5663e2c61d182c080b5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 27. Annual report[^key-9ebbd1d8e44be13671d40cf0b5940e61]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part 3 — Miscellaneous and general
+
+### 28. Delegation of functions
+
+(1) The Scottish Ministers may by order provide that any of their functions under this Act are to be performed on their behalf by such other person as may be specified in the order.
+
+(2) An order under subsection (1) is not to be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Scottish Parliament.
+
+(3) Subsection (1) does not apply in relation to Scottish Ministers' functions under that subsection and sections 2(3), 3(2)(f), (3)(b), (4) and (5), 7(4) and (5), 13(3), 14(3)(a) and (c), [^key-329b38b96c328363db6d6e36181bf7f1]... 29(1) and 33(2).
+
+### 29. Ancillary provision
+
+(1) The Scottish Ministers may by order make such incidental, supplementary, consequential, transitional, transitory or saving provision as they consider appropriate for the purposes of, in consequence of, or for giving full effect to, any provision of this Act.
+
+(2) An order under subsection (1) may modify any enactment (including this Act).
+
+(3) An order under subsection (1) is not to be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Scottish Parliament.
+
+### 30. Orders and regulations
+
+(1) Any power of the Scottish Ministers under this Act to make an order or regulations is exercisable by statutory instrument.
+
+(2) Any such power includes power to make––
+
+- (a) different provision for different cases or different classes of case, and
+- (b) such incidental, supplementary, consequential, transitional, transitory or saving provision as the Scottish Ministers think necessary or expedient.
+
+(3) A statutory instrument containing an order or regulations made under this Act (except an order under section 2(3), 14(3)(c), 28(1), 29(1) or 33(2) or regulations under section 5(5)[^key-bdabf8dba7968791c8056bbd75ecb94d] [^key-959effc3a71d961e496cdb460135b901] ...) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+### 31. Interpretation
+
+In this Act—
+
+- “**applicant**” has the meaning given by section 11(2),
+- “Chamber President” has the meaning given by section 18(6),[^key-3ab51451e6438dc8169e6909a4bea8bc]
+- “First-tier Tribunal” has the meaning given by section 4(9),[^key-52e25c4b3f77b88204eb5ba9c08b7676]
+- “**homeowner**” has the meaning given by section 10(5),
+- “legal member” has the same meaning as in section 15(2) of the Tribunals (Scotland) Act 2014.[^key-d034a2f40f5764712d2a10a7a6c07667]
+- “**local authority**” has the meaning given by section 2(6),
+- “ordinary member” has the same meaning as in section 15(1) of the Tribunals (Scotland) Act 2014.[^key-762da85301a465c700d4e2973cf70e2f]
+- “**relevant date**” has the meaning given by section 10(2),
+- “**property factor**” has the meaning given by section 2(1),
+- “**property factor code of conduct**” has the meaning given by section 14(1),
+- “**property factor enforcement order**” has the meaning given by section 20(1),
+- “**property factor's duties**” has the meaning given by section 17(5),
+- “register” (and “registered” and “unregistered”) has the meaning given by section 1,
+- “**section 14 duty**” has the meaning given by section 14(5),
+- “**Tenement Management Scheme**” has the meaning given by section 10(4).
+
+### 32. Crown application
+
+(1) No contravention by the Crown of any provision of this Act makes the Crown criminally liable.
+
+(2) However, the Court of Session may, on the application of the Scottish Ministers, declare unlawful any act or omission of the Crown which constitutes such a contravention.
+
+### 33. Short title and commencement
+
+(1) This Act may be cited as the Property Factors (Scotland) Act 2011.
+
+(2) This Act (except this Part) comes into force on 1 October 2012 or such earlier date as the Scottish Ministers may by order appoint.
+
+(3) This Part comes into force at the beginning of the day after the day on which the Bill for this Act receives Royal Assent.
+
+(4) An order under subsection (2) may appoint different days for different purposes.
+
+## Annotations
+
+[^key-5c543684dd894c6734af72b6ed5df2ed]: Commencement: S. 1(1) in force at 1.7.2012 by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-8f250872e60345bbc0cc5e70e0ff5d94]: Commencement: S. 1(2) in force at 1.10.2012, see [s. 33(2)](https://www.legislation.gov.uk/asp/2011/8/section/33/2)
+
+[^key-e02b412d37dc3cbcf04b020d94255d62]: Textual amendment: [S. 1(2A)](https://www.legislation.gov.uk/asp/2011/8/section/1/2A) inserted (3.10.2012) by [The Property Factors (Scotland) Act 2011 (Modification) Order 2012 (S.S.I. 2012/269)](https://www.legislation.gov.uk/ssi/2012/269), [arts. 1](https://www.legislation.gov.uk/ssi/2012/269/article/1), [2](https://www.legislation.gov.uk/ssi/2012/269/article/2)
+
+[^key-036aa1102551c48804da81056eb3133a]: Commencement: S. 1(3) in force at 23.9.2011 by [S.S.I. 2011/328](https://www.legislation.gov.uk/ssi/2011/328), [art. 2](https://www.legislation.gov.uk/ssi/2011/328/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/328/schedule)
+
+[^key-aa271889f4cea4b67a32ee7f8c39fd47]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/8/section/2) in force at 23.9.2011 by [S.S.I. 2011/328](https://www.legislation.gov.uk/ssi/2011/328), [art. 2](https://www.legislation.gov.uk/ssi/2011/328/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/328/schedule)
+
+[^key-5a21a2ec36d0712b444a85d918a5e74d]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/8/section/3) in force at 23.9.2011 for specified purposes by [S.S.I. 2011/328](https://www.legislation.gov.uk/ssi/2011/328), [art. 2](https://www.legislation.gov.uk/ssi/2011/328/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/328/schedule)
+
+[^key-801a138b35dd22c53e33b6e594adf9d2]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/8/section/3) in force at 1.7.2012 in so far as not already in force by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-bf74eed09e71fd3939d8f0b3e19c8a3f]: Commencement: S. 4 in force at 1.7.2012 by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-2b1f72d2f43ad8733b865b51b338f6d1]: Textual amendment: Words in [s. 4(4)(b)(iv)](https://www.legislation.gov.uk/asp/2011/8/section/4/4/b/iv) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 2(a)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/2/a) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-1c8a8ea54cbd1add008e6ecd788ded49]: Textual amendment: [S. 4(9)](https://www.legislation.gov.uk/asp/2011/8/section/4/9) inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 2(b)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/2/b) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-1adf93072500eb5d63a68b3028a2a6d4]: Commencement: S. 5 in force at 1.7.2012 by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-a8521d5f6b836d844ef6a61db5537246]: Textual amendment: Word in s. 5(2)(a)(ii) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 64(2)(a)(i)](https://www.legislation.gov.uk/asp/2025/13/section/64/2/a/i), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-8f1b97f8afbe01d0b8d273aff40dcb4b]: Textual amendment: S. 5(2)(a)(iv) and word inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 64(2)(a)(ii)](https://www.legislation.gov.uk/asp/2025/13/section/64/2/a/ii), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-beced0fef93b7478d91f440f89f9f476]: Textual amendment: S. 5(2)(aa) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 64(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/64/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-e9703b1aa6d3f42d537fde7262885730]: Textual amendment: Words in s. 5(2)(c) substituted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 64(2)(c)](https://www.legislation.gov.uk/asp/2025/13/section/64/2/c), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-3417a2d635016b6ac9a365a40278fe0d]: Textual amendment: Words in s. 5(3)(b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/3) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-e1955076347cb3defab98a504d178351]: Textual amendment: S. 5(3A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 64(2)(d)](https://www.legislation.gov.uk/asp/2025/13/section/64/2/d), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-d70d1bc263c8941b55149ab1700fa353]: Textual amendment: S. 5(5)(6) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 64(2)(e)](https://www.legislation.gov.uk/asp/2025/13/section/64/2/e), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-c551fb7c1e61d1a199a44656859dc17f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/8/section/6) in force at 1.7.2012 by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-d5eb20eea0e82a5e82cb5dc212021b2c]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/8/section/7) in force at 23.9.2011 for specified purposes by [S.S.I. 2011/328](https://www.legislation.gov.uk/ssi/2011/328), [art. 2](https://www.legislation.gov.uk/ssi/2011/328/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/328/schedule)
+
+[^key-f6b549ca8ec7802fee6ac7df5167e0c3]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/8/section/7) in force at 1.7.2012 in so far as not already in force by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-227e7be0f1c01763839ea943fbe5dbbd]: Commencement: S. 8 in force at 1.7.2012 by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-a6241ba9b8c813cc4436f093db183860]: Textual amendment: [S. 8 heading](https://www.legislation.gov.uk/asp/2011/8/part/1/crossheading/removal-from-register-etc) substituted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2), [sch. para. 5(2)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/5/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-fed88028ed909d6115a03baa3695e8a3]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/asp/2011/8/section/8/1) substituted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 65(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/65/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-510c62fcd6c7d733daca326b09fd9a43]: Textual amendment: Words in [s. 8(2)(c)](https://www.legislation.gov.uk/asp/2011/8/section/8/2/c) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/4) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-0fca27887a5c7e3d061c5e9aaab375ee]: Textual amendment: [S. 8(3A)](https://www.legislation.gov.uk/asp/2011/8/section/8/3A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 65(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/65/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-36f355f06f785673cb7e8df590b2e680]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/asp/2011/8/section/8/4) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 65(2)(c)](https://www.legislation.gov.uk/asp/2025/13/section/65/2/c), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-4585d38891798ee9d40d64288d930cc3]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/asp/2011/8/section/8/6) substituted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 65(2)(d)](https://www.legislation.gov.uk/asp/2025/13/section/65/2/d), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-ae2995b65e941ac17146d6489358f987]: Textual amendment: Words in [s. 8(7)](https://www.legislation.gov.uk/asp/2011/8/section/8/7) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 65(2)(e)(i)](https://www.legislation.gov.uk/asp/2025/13/section/65/2/e/i), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-05692d4e4b5c3490b2dbc3389b9952cf]: Textual amendment: Words in [s. 8(7)](https://www.legislation.gov.uk/asp/2011/8/section/8/7) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 65(2)(e)(ii)](https://www.legislation.gov.uk/asp/2025/13/section/65/2/e/ii), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-c3af5aa7df616fb90471d56784a3b342]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/asp/2011/8/section/8A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 66(2)](https://www.legislation.gov.uk/asp/2025/13/section/66/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-81ff409e63dcfe53f281a8470e8f50d8]: Textual amendment: [S. 8B](https://www.legislation.gov.uk/asp/2011/8/section/8B) and cross-heading inserted (1.4.2026 for specified purposes) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 67(2)](https://www.legislation.gov.uk/asp/2025/13/section/67/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-59f872b9e72350acc6db50bd2d3fe5de]: Commencement: S. 9 in force at 1.7.2012 by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-fa37df0cdb670b24d8dab157575b78cd]: Textual amendment: Word in s. 9(1) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 66(3)(a)(i)](https://www.legislation.gov.uk/asp/2025/13/section/66/3/a/i), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-efa5d82375d48b13055234ed9c7e084d]: Textual amendment: S. 9(1)(d) and word inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 66(3)(a)(ii)](https://www.legislation.gov.uk/asp/2025/13/section/66/3/a/ii), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-726f88b0dbbf40526405252ed731ce61]: Textual amendment: Words in s. 9(3) substituted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2), [sch. para. 5(3)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/5/3); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-06501b875be640a54d555baba3b35bb4]: Textual amendment: Word in s. 9(3)(a) substituted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 66(3)(b)](https://www.legislation.gov.uk/asp/2025/13/section/66/3/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-70bc68544c47cbf596a65a02672bd2a5]: Commencement: [S. 10(1)-(4)](https://www.legislation.gov.uk/asp/2011/8/section/10/1) in force at 1.7.2012 by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-363902b642e0ea66204973a07fea95cf]: Commencement: [S. 10(5)](https://www.legislation.gov.uk/asp/2011/8/section/10/5) in force at 23.9.2011 by [S.S.I. 2011/328](https://www.legislation.gov.uk/ssi/2011/328), [art. 2](https://www.legislation.gov.uk/ssi/2011/328/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/328/schedule)
+
+[^key-d25024e1d391b60d1331cfaa8a1e8cb8]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/8/section/11) in force at 1.7.2012 by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-e4dee9443630d2f30da0b5c33e2ee53e]: Commencement: S. 12 in force at 1.10.2012, see [s. 33(2)](https://www.legislation.gov.uk/asp/2011/8/section/33/2)
+
+[^key-45c84d6aff3971cc0da756c2cc022dcc]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/8/section/13) in force at 23.9.2011 for specified purposes by [S.S.I. 2011/328](https://www.legislation.gov.uk/ssi/2011/328), [art. 2](https://www.legislation.gov.uk/ssi/2011/328/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/328/schedule)
+
+[^key-8f626d77f3e19a7b7a01d4b3c2182268]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/8/section/13) in force at 1.7.2012 in so far as not already in force by [S.S.I. 2012/149](https://www.legislation.gov.uk/ssi/2012/149), [art. 2](https://www.legislation.gov.uk/ssi/2012/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/149/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/149/article/3))
+
+[^key-9b1cdef1add4fdd474ad5d93ecba5610]: Textual amendment: [S. 13(3)(aa)](https://www.legislation.gov.uk/asp/2011/8/section/13/3/aa) inserted (for the purposes of communication sent or placed on or after 1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 68(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/68/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-3662963a26e4cb98b02bdbae6ed9659e]: Textual amendment: [S. 13(8)](https://www.legislation.gov.uk/asp/2011/8/section/13/8) inserted (for the purposes of communication sent or placed on or after 1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 68(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/68/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-89e0a292da4358443f757fdb0e828ab6]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/8/section/14) in force at 23.9.2011 by [S.S.I. 2011/328](https://www.legislation.gov.uk/ssi/2011/328), [art. 2](https://www.legislation.gov.uk/ssi/2011/328/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/328/schedule)
+
+[^key-aebab51deac20cfea32c5a3935f908ec]: Textual amendment: [Ss. 14A-14E](https://www.legislation.gov.uk/asp/2011/8/section/14A) and cross-heading inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 69(2)](https://www.legislation.gov.uk/asp/2025/13/section/69/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-c171b25610f4aedbcebccd9209d6ec1b]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/8/section/15) in force at 23.9.2011 by [S.S.I. 2011/328](https://www.legislation.gov.uk/ssi/2011/328), [art. 2](https://www.legislation.gov.uk/ssi/2011/328/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/328/schedule)
+
+[^key-f15e3b01f732185432310dd1bc709415]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/asp/2011/8/section/15/3) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2), [sch. para. 5(4)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/5/4); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-e2a1abc28f00bec7ef3e6c56ea1f1361]: Textual amendment: S. 16 cross-heading repealed (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/9)
+
+[^key-e0ddbd626611dc0c41cd5aa74db95dca]: Textual amendment: S. 16 repealed (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/9)
+
+[^key-777c25b309e52d94ac2c3d18543274ad]: Commencement: S. 17 in force at 1.10.2012, see s. 33(2)
+
+[^key-48e71549a03e8052550945c8585b1005]: Textual amendment: S. 17 title substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/3)
+
+[^key-63ff2465c86cb0ee3671362a2ac0afe9]: Textual amendment: Words in s. 17(1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/2)
+
+[^key-05c168051555898287a959b0a20fbaf9]: Commencement: S. 18 in force at 1.10.2012, see s. 33(2)
+
+[^key-4f466bb33453fa4a2762bd9c086be9fe]: Textual amendment: S. 18 title substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/6) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-a5dccaf5781a2d2d9baa1452b3d43bcd]: Textual amendment: Words in s. 18(1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 4(a)](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/4/a)
+
+[^key-7b74e4659634f1deda787c2848b05f78]: Textual amendment: Words in s. 18(1)(a) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/5) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-0752e97dab91420d8e77e408f1e6a62b]: Textual amendment: Words in s. 18(2) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 4(b)](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/4/b)
+
+[^key-4ce22d99ed7d5f839f97f05f363ce23d]: Textual amendment: Words in s. 18(3) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 4(b)](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/4/b)
+
+[^key-f29e6f7ca2c8981a28572917c04c173f]: Textual amendment: Words in s. 18(3)(a) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 4(c)](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/4/c)
+
+[^key-db3af75311db854f17e2b7fa14cf05a7]: Textual amendment: Words in s. 18(4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 4(b)](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/4/b)
+
+[^key-fd2eadf8553a61165e8d4be8050d5441]: Textual amendment: S. 18(6) inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 4(d)](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/4/d)
+
+[^key-43bbdef7a559272887e66b82b7f6dc31]: Textual amendment: [S. 18A](https://www.legislation.gov.uk/asp/2011/8/section/18A) inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/5)
+
+[^key-d3a37b11d223ba15b38e5f35f5e15a0a]: Commencement: S. 19 in force at 1.10.2012, see s. 33(2)
+
+[^key-4f2442e993baa92b11ebf7530ba55fbc]: Textual amendment: S. 19 title substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/8) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-38c07d09e15ff1048f4111f35da994f2]: Textual amendment: Words in s. 19(1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 7(a)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/7/a) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-108af805c5dc4d16fe2ba046734e5b6a]: Textual amendment: Words in s. 19(2) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 7(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/7/b/aa) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-0f21796718cab4f12ae02375970c4f94]: Textual amendment: Word in s. 19(2) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 7(b)(i)(bb)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/7/b/bb) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-f5b8a46b10f0474574281fb2a1237540]: Textual amendment: Word in s. 19(2)(b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 7(b)(ii)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/7/b/ii) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-d4caaeab20a21f54ba48374ff50ce828]: Textual amendment: Words in s. 19(3) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 7(c)(i)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/7/c/i) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-fc91b174fae50b17cadb3bf2101fe795]: Textual amendment: Words in s. 19(3) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 7(c)(ii)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/7/c/ii) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-8d2f8cd18b1a1736da384d54db9475f6]: Textual amendment: Words in s. 19(4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 7(d)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/7/d) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-03366e010803d6daceccb10ee683f976]: Commencement: S. 20 in force at 1.10.2012, see s. 33(2)
+
+[^key-4426eeea120c6bebef3abfdb9b00ab1e]: Textual amendment: Words in [s. 20(1)(a)](https://www.legislation.gov.uk/asp/2011/8/section/20/1/a) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 9(a)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/9/a) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-203a587bbce6aea09f2dd7a720b2f3e4]: Textual amendment: Words in [s. 20(1)(b)](https://www.legislation.gov.uk/asp/2011/8/section/20/1/b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 9(b)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/9/b) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-cc58629b56a3e0aa30f502a5d01918b6]: Commencement: S. 21 in force at 1.10.2012, see s. 33(2)
+
+[^key-66f84c7c015ea740359686b276e606d2]: Textual amendment: Words in s. 21(1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 10(a)(i)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/10/a/i) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-9ef598d27a82661d3befead78e3b1d53]: Textual amendment: Words in s. 21(1)(a) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 10(a)(ii)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/10/a/ii) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-efe5f40f91e2c57ae1e6a787445aeef4]: Textual amendment: Words in s. 21(1)(b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 10(a)(iii)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/10/a/iii) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-ba4f35a87e67efdf1287265bdcb3926f]: Textual amendment: Words in s. 21(2) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 10(b)(i)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/10/b/i) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-06f9699dfe70db97cc3d9c885d53537b]: Textual amendment: Words in s. 21(2)(b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 10(b)(ii)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/10/b/ii) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-00202cd9ba3607c03a6eda7adee40b0b]: Textual amendment: Words in s. 21(3)(a) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 10(c)(i)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/10/c/i) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-f27d6900d80ce88e889e27e4ea41c2bc]: Textual amendment: Words in s. 21(3)(b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 10(c)(ii)(aa)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/10/c/aa) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-005a5b2921046e6add557992c7d5957f]: Textual amendment: Word in s. 21(3)(b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 10(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/10/c/bb) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-901938eda3899eb4d5a946a4a76903cf]: Textual amendment: Word in s. 21(3)(b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 10(c)(ii)(cc)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/10/c/cc) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-9e65001ffba8bea32c7805c48b94003c]: Textual amendment: [S. 22](https://www.legislation.gov.uk/asp/2011/8/section/22) repealed (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/9)
+
+[^key-3dfccd959c89f27446ad91bb62565957]: Commencement: S. 23 in force at 1.10.2012, see s. 33(2)
+
+[^key-2404f42b7f1a4eff8cb34eb180766708]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/8/section/23/1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 11(a)(i)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/11/a/i) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-d1d23475e5ab14498cd988996543d75c]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/asp/2011/8/section/23/1) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 11(a)(ii)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/11/a/ii) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-51beb0b9de0b8b40ab1cc1d46e8cecee]: Textual amendment: Words in [s. 23(2)](https://www.legislation.gov.uk/asp/2011/8/section/23/2) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 11(b)(i)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/11/b/i) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-51a99b3fb4f8a265d247a433fae03c23]: Textual amendment: Word in [s. 23(2)](https://www.legislation.gov.uk/asp/2011/8/section/23/2) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 11(b)(ii)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/11/b/ii) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-ebdb8d379455ec098c3661b9ed56b4ca]: Textual amendment: Words in [s. 23(3)](https://www.legislation.gov.uk/asp/2011/8/section/23/3) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 11(c)(i)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/11/c/i) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-6168864fd53f284827500a7665143fef]: Textual amendment: Words in [s. 23(3)(b)](https://www.legislation.gov.uk/asp/2011/8/section/23/3/b) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 11(c)(ii)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/11/c/ii) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-1005d59b02b3c1b43d4f192d8b4538a8]: Textual amendment: Words in [s. 23(4)](https://www.legislation.gov.uk/asp/2011/8/section/23/4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 11(d)(i)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/11/d/i) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-34b886acabc2852811778bc27bfe5c78]: Textual amendment: Words in [s. 23(4)](https://www.legislation.gov.uk/asp/2011/8/section/23/4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 11(d)(ii)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/11/d/ii) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-10350fde2123dd9cb9e631aa9c7a2e96]: Textual amendment: Words in [s. 23(4)](https://www.legislation.gov.uk/asp/2011/8/section/23/4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 11(d)(iii)](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/11/d/iii) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-3374fd282b8dce837bed3e32863c0a8c]: Commencement: S. 24 in force at 1.10.2012, see s. 33(2)
+
+[^key-8acc4f2da8a841c597e0c14495cbe0ed]: Textual amendment: Words in [s. 24(4)](https://www.legislation.gov.uk/asp/2011/8/section/24/4) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/12) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-07221692f0fac65690496197633ddc21]: Textual amendment: [S. 25](https://www.legislation.gov.uk/asp/2011/8/section/25) repealed (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/9)
+
+[^key-99acb5633e39f5663e2c61d182c080b5]: Textual amendment: [S. 26](https://www.legislation.gov.uk/asp/2011/8/section/26) repealed (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/9)
+
+[^key-9ebbd1d8e44be13671d40cf0b5940e61]: Textual amendment: [S. 27](https://www.legislation.gov.uk/asp/2011/8/section/27) repealed (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/9)
+
+[^key-329b38b96c328363db6d6e36181bf7f1]: Textual amendment: Words in [s. 28(3)](https://www.legislation.gov.uk/asp/2011/8/section/28/3) repealed (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/6)
+
+[^key-bdabf8dba7968791c8056bbd75ecb94d]: Textual amendment: Words in s. 30(3) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2), [sch. para. 5(5)](https://www.legislation.gov.uk/asp/2025/13/schedule/paragraph/5/5); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+
+[^key-959effc3a71d961e496cdb460135b901]: Textual amendment: Words in s. 30(3) repealed (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/7)
+
+[^key-3ab51451e6438dc8169e6909a4bea8bc]: Textual amendment: Words in s. 31 inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 8(a)](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/8/a)
+
+[^key-52e25c4b3f77b88204eb5ba9c08b7676]: Textual amendment: Words in s. 31 inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Committees) Regulations 2016 (S.S.I. 2016/335)](https://www.legislation.gov.uk/ssi/2016/335), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/335/regulation/1/2), [sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2016/335/schedule/2/paragraph/13) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/335/schedule/1/paragraph/5))
+
+[^key-d034a2f40f5764712d2a10a7a6c07667]: Textual amendment: Words in s. 31 inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 8(b)](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/8/b)
+
+[^key-762da85301a465c700d4e2973cf70e2f]: Textual amendment: Words in s. 31 inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Homeowner Housing Panel) Regulations 2016 (S.S.I. 2016/336)](https://www.legislation.gov.uk/ssi/2016/336), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/336/regulation/1/2), [sch. 2 para. 8(c)](https://www.legislation.gov.uk/ssi/2016/336/schedule/2/paragraph/8/c)

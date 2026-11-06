@@ -1,0 +1,106 @@
+---
+title: The Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (Commencement No. 3) Regulations 2020
+id: ssi/2020/167
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2020-06-02'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2020/167
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2020/167/pdfs/ssi_20200167_en.pdf
+- http://www.legislation.gov.uk/ssi/2020/167/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (Commencement No. 3) Regulations 2020
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2020 No. 167 (C. 16)
+
+Court Of Session
+
+Scottish Courts And Tribunals Service
+
+The Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (Commencement No. 3) Regulations 2020
+
+Made
+
+2nd June 2020
+
+Laid before the Scottish Parliament
+
+4th June 2020
+
+Coming into force
+
+31st July 2020
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 27(3) of the Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018[^f00001].
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (Commencement No. 3) Regulations 2020 and come into force on 31 July 2020.
+
+## 2. Appointed day
+
+31 July 2020 is the day appointed for the coming into force of section 20(1) to (6), (9) and (10) (group proceedings) of the Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018.
+
+ASH DENHAM
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+2nd June 2020
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Regulation 2 of these Regulations brings into force certain provisions of the Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (“the 2018 Act”).
+
+Section 20(1) to (6), (9) and (10) relates to group proceedings and comes into force on 31 July 2020.
+
+The Bill for the 2018 Act received Royal Assent on 5 June 2018. Sections 24 to 28 came into force on the following day and section 23 came into force on 5 August 2018.
+
+NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
+
+(This note is not part of the Regulations)
+
+The following provisions of the Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 have been brought into force by commencement regulations made before the date of these Regulations.
+
+| Provision | Date of Commencement | Instrument No. |
+| --- | --- | --- |
+| Section 4(1) and (2) | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 5 | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 6(8) | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 7(3) and (4) | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 12(1), (3) and (4) | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 14 | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 15 | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 16 | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 17 | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 18 | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 19 | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 20(7) and (8) | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 21 | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 22 | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| The schedule | 30 January 2019 | [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368) |
+| Section 1 | 27 April 2020 | [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23) |
+| Section 2 | 27 April 2020 | [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23) |
+| Section 3 | 27 April 2020 | [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23) |
+| Section 4(3) to (5) | 27 April 2020 | [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23) |
+| Section 6(1) to (7), (9) and (10) | 27 April 2020 | [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23) |
+| Section 7(1) and (2) | 27 April 2020 | [S.S.I. 2020/23](https://www.legislation.gov.uk/ssi/2020/23) |
+
+## Annotations
+
+[^f00001]: Footnote: [2018 asp 10](https://www.legislation.gov.uk/asp/2018/10).

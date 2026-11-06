@@ -1,0 +1,207 @@
+---
+title: The Abolition of the Intervention Board for Agricultural Produce (Consequential Provisions) (Scotland) Regulations 2001
+id: ssi/2001/390
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2001-10-23'
+text_date: '2018-09-17'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2001/390
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2001/390/pdfs/ssi_20010390_en.pdf
+- http://www.legislation.gov.uk/ssi/2001/390/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Abolition of the Intervention Board for Agricultural Produce (Consequential Provisions) (Scotland) Regulations 2001
+
+> Text as at 2018-09-17.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2001 No. 390
+
+AGRICULTURE
+
+COMMON AGRICULTURAL POLICY
+
+The Abolition of the Intervention Board for Agricultural Produce (Consequential Provisions) (Scotland) Regulations 2001
+
+Made
+
+23rd October 2001
+
+Laid before the Scottish Parliament
+
+23rd October 2001
+
+Coming into force in accordance with regulation 1(1)
+
+The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^c15972341], and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the Abolition of the Intervention Board for Agricultural Produce (Consequential Provisions) (Scotland) Regulations 2001 and shall come into force on the day on which the Intervention Board for Agricultural Produce (Abolition) Regulations 2001 [^c15972351] come into force.
+
+(2) These Regulations extend to Scotland only.
+
+## 2. Agency arrangements
+
+(1) The Scottish Ministers may, with the agreement of the Secretary of State, enter into an arrangement for the exercise by the Secretary of State on behalf of the Scottish Ministers of–
+
+- (a) any function in connection with the carrying out of the obligations of the United Kingdom under the common agricultural policy; or
+- (b) any other relevant function,
+
+other than a power to legislate by means of orders, rules, regulations or other subordinate instrument.
+
+(2) Any such arrangement shall be in writing and be signed by or on behalf of the Scottish Ministers and the Secretary of State and may be subject to such conditions (including conditions as to the costs) as may be agreed.
+
+(3) In paragraph (1) above, “relevant function” means any function which has been exercisable by the Intervention Board for Agricultural Produce, established by section 6(1) of the European Communities Act 1972, but which has ceased to be so exercisable at any time before the coming into force of these Regulations.
+
+## 3. Amendments consequential to the abolition of the Intervention Board for Agricultural Produce
+
+(1) In article 3(1) of the Foot-and-Mouth Disease Order 1983 [^c15972361], in the definition of “certification centre”, for “Intervention Board for Agricultural Produce” there shall be substituted “ Scottish Ministers ”.
+
+(2) In the Home-Grown Cereals Authority Levy Scheme (Approval) Order 1987 [^c15972371], in the Scheme set out in the Schedule to that Order, in paragraph 2(1), the definition of “Intervention Board” shall be omitted and for any other reference to “Intervention Board”, there shall be substituted “ Scottish Ministers ”.
+
+(3)[^key-0b727e25fb45af1763c244e4000bb7d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In the Beef Special Premium (Protection of Payments) Order 1989 [^c15972391]–
+
+- (a) in article 2(1), the definitions of “the Board” and “the Ministers” shall be omitted;
+- (b) for any other reference to “the Board”, there shall be substituted “ the Scottish Ministers ”;
+- (c) for article 2(2) there shall be substituted the following paragraph:–
+
+  > (2) Any reference in this Order to the Scottish Ministers other than in article 9 shall include a reference to the Meat and Livestock Commission when acting for them.
+
+  ;
+
+  and
+- (d) in article 9(1) the words “or of one of the Ministers” shall be omitted.
+
+(5) In the Beef Special Premium (Recovery Powers) Regulations 1989 [^c15972401] for any reference to “Board”, there shall be substituted “ Scottish Ministers ”.
+
+(6)[^key-a4709c62067c6320c2a260587cb3061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In the Home-Grown Cereals Authority Oilseeds Levy Scheme (Approval) Order 1990 [^c15972421], in the Scheme set out in the Schedule to that Order, in paragraph 2(1), the definition of “Intervention Board” shall be omitted and for any other reference to “Intervention Board” there shall be substituted “ Scottish Ministers ”.
+
+(8) In the Common Agricultural Policy (Protection of Community Arrangements) Regulations 1992 [^c15972431]–
+
+- (a) in regulation 2(1), the definition of “the Board” shall be omitted;
+- (b) for any other reference to “the Board”, there shall be substituted “ the Scottish Ministers ”;
+- (c) in regulation 2(1) in the definition of “authorised officer”, after the word “Regulations”, there shall be inserted–
+
+  > or, for the purposes of any action taken under these Regulations in relation to a Community debt, so authorised by the enforcement authority in a case where that Community debt was paid by them or which is payable to them
+
+  ;
+- (d) in regulation 2(1) for the definition of “enforcement authority”, there shall be substituted the following definition:–
+
+  > “enforcement authority” means the Scottish Ministers
+
+  ;
+- (e) in regulation 3, for the words “London, Edinburgh and Belfast Gazettes”, there shall be substituted the words “ Edinburgh Gazette ”;
+- (f) regulation 9 shall be omitted; and
+- (g) in regulation 11, after “owed”, there shall be inserted “ to them ”.
+
+(9) In regulation 2(1) of the Surplus Foods Regulations 1995 [^c15972441]–
+
+- (a) the definition of “the Board” shall be omitted; and
+- (b) for the definition of “enforcement authority” there shall be substituted the following definition:–
+
+  > “enforcement authority” means the Scottish Ministers;
+
+  .
+
+(10) In the Arable Area Payments Regulations 1996 [^c15972451]–
+
+- (a) in regulation 2(1), for the definition of “the Minister”, there shall be substituted the following definition:–
+
+  > “the Minister” means the Scottish Ministers
+
+  ;
+
+  and
+- (b) in paragraph 3(1) of Schedule 3, for “the Intervention Board for Agricultural Produce”, there shall be substituted “ them ”.
+
+(11)[^key-d7933ee8042fc4eca7ea25c557b55426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12)[^key-d7933ee8042fc4eca7ea25c557b55426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13) In the Common Agricultural Policy Support Schemes (Modulation) (Scotland) Regulations 2000 [^c15972491]–
+
+- (a) in regulation 2, “the Intervention Board or” shall be omitted;
+- (b) in regulation 3(1), the definition of “Intervention Board” shall be omitted; and
+- (c) in regulation 4(1), “or (in the case of payments under support schemes in relation to which the Intervention Board is responsible for making payments) the Intervention Board,” shall be omitted.
+
+## 4. Transitional provisions
+
+(1) Anything (including any legal proceedings) which, immediately before the coming into force of these Regulations, is in the process of being done by or in relation to the Board may, so far as it relates to any function transferred by virtue of these Regulations, be continued by or in relation to the Scottish Ministers.
+
+(2) Anything done by or in relation to the Board for the purposes of or in connection with any function transferred by virtue of these Regulations shall, if in force immediately before the coming into force of these Regulations, have effect as if done by or in relation to the Scottish Ministers in so far as that is required for continuing its effect on or after that date.
+
+(3) These Regulations shall not affect the validity of anything done by the Board before the coming into force of these Regulations.
+
+(4) Any enactment, instrument, agreement (whether or not in writing) or other document, which was made before the coming into force of these Regulations, shall have effect, so far as may be necessary for the purposes of, or in consequence of–
+
+- (a) any transfer effected by virtue of these Regulations; or
+- (b) the abolition of the Board,
+
+as if any references to the Board were references to the Scottish Ministers.
+
+(5) This regulation is subject to any specific provision made by virtue of these Regulations.
+
+(6) In this regulation, “the Board” means the Intervention Board for Agricultural Produce, established by section 6(1) of the European Communities Act 1972.
+
+ROSS FINNIE
+
+A member of the Scottish Executive
+
+St Andrew’s House, Edinburgh
+
+*(This note is not part of the Regulations)*
+
+The Intervention Board for Agricultural Produce, established by section 6(1) of the European Communities Act 1972, is to be abolished by virtue of the Intervention Board for Agricultural Produce (Abolition) Regulations 2001 (S.I. 2001/3686). Following abolition, its functions in relation to Scotland (so far as within devolved competence) are intended to be carried out on behalf of the Scottish Ministers by an executive agency of the Department for Environment, Food and Rural Affairs (DEFRA), to be known as the Rural Payments Agency.
+
+These Regulations–
+
+**a)** empower the Scottish Ministers to enter into agency arrangements with DEFRA for the exercise of those functions formerly carried out by the Board to be carried out by Rural Payments Agency on their behalf;
+
+**b)** make amendments to secondary legislation, in relation to Scotland, which are consequential to the abolition of the Board; and
+
+make transitional provisions to ensure continuity in the arrangements in place at present in connection with the functions transferred, insofar as they relate to those consequential provisions.
+
+## Annotations
+
+[^c15972341]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8/paragraph/15/3). The functions conferred on the Minister of the Crown by section 2(2) were transferred, so far as within devolved competence, to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^c15972351]: Marginal citation: [S.I. 2001/3686](https://www.legislation.gov.uk/uksi/2001/3686).
+
+[^c15972361]: Marginal citation: [S.I. 1983/1950](https://www.legislation.gov.uk/uksi/1983/1950), amended by [S.I. 1993/3119](https://www.legislation.gov.uk/uksi/1993/3119), [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922) and, as regards Scotland, by [S.S.I. 2001/52](https://www.legislation.gov.uk/ssi/2001/52), [55](https://www.legislation.gov.uk/ssi/2001/55) and [101](https://www.legislation.gov.uk/ssi/2001/101).
+
+[^c15972371]: Marginal citation: [S.I. 1987/671](https://www.legislation.gov.uk/uksi/1987/671) approved (with modifications) the Home-Grown Cereals Authority Levy Scheme. That Scheme was varied by the Home-Grown Cereals Authority Levy (Variation) Scheme 1990 which was approved (with a modification) by the [Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1990 (S.I. 1990/1316)](https://www.legislation.gov.uk/uksi/1990/1316), the Home-Grown Cereals Authority Levy (Variation) Scheme 1991 which was approved by the [Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1991 (S.I. 1991/1302)](https://www.legislation.gov.uk/uksi/1991/1302) and the Home-Grown Cereals Authority Levy (Variation) Scheme 1996 which was approved (with modifications) by the [Home-Grown Cereals Authority Levy (Variation) Scheme (Approval) Order 1996 (S.I. 1996/2843)](https://www.legislation.gov.uk/uksi/1996/2843).
+
+[^key-0b727e25fb45af1763c244e4000bb7d8]: Textual amendment: Reg. 3(3) revoked (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [46(d)](https://www.legislation.gov.uk/uksi/2018/942/regulation/46/d)
+
+[^c15972391]: Marginal citation: [S.I. 1989/574](https://www.legislation.gov.uk/uksi/1989/574).
+
+[^c15972401]: Marginal citation: [S.I. 1989/575](https://www.legislation.gov.uk/uksi/1989/575).
+
+[^key-a4709c62067c6320c2a260587cb3061f]: Textual amendment: Reg. 3(6) revoked (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [46(d)](https://www.legislation.gov.uk/uksi/2018/942/regulation/46/d)
+
+[^c15972421]: Marginal citation: [S.I. 1990/1317](https://www.legislation.gov.uk/uksi/1990/1317).
+
+[^c15972431]: Marginal citation: [S.I. 1992/314](https://www.legislation.gov.uk/uksi/1992/314), amended by [S.I. 2001/3198](https://www.legislation.gov.uk/uksi/2001/3198).
+
+[^c15972441]: Marginal citation: [S.I. 1995/184](https://www.legislation.gov.uk/uksi/1995/184).
+
+[^c15972451]: Marginal citation: [S.I. 1996/3142](https://www.legislation.gov.uk/uksi/1996/3142), amended by [S.I. 1997/2969](https://www.legislation.gov.uk/uksi/1997/2969), [1998/3169](https://www.legislation.gov.uk/uksi/1998/3169), [1999/8](https://www.legislation.gov.uk/uksi/1999/8) and [2000/2573](https://www.legislation.gov.uk/uksi/1999/8).
+
+[^key-d7933ee8042fc4eca7ea25c557b55426]: Textual amendment: Reg. 3(11)(12) revoked (31.3.2002) by [The Dairy Produce Quotas (Scotland) Regulations 2002 (S.S.I. 2002/110)](https://www.legislation.gov.uk/ssi/2002/110), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/110/regulation/1/1), [34(1)(e)](https://www.legislation.gov.uk/ssi/2002/110/regulation/34/1/e)
+
+[^c15972491]: Marginal citation: [S.S.I. 2000/429](https://www.legislation.gov.uk/ssi/2000/429).

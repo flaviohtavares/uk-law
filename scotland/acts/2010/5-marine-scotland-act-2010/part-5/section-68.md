@@ -1,0 +1,74 @@
+---
+title: Marine (Scotland) Act 2010, section 68
+act: Marine (Scotland) Act 2010
+section: '68'
+status: revised-with-pending-changes
+text_date: '2026-08-09'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2010/5/section/68
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Marine (Scotland) Act 2010, section 68
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2026-08-09. See https://www.legislation.gov.uk/changes/affected/asp/2010/5
+>
+> Extent: Scotland.
+
+## 68. Nature Conservation MPAs: additional requirements relating to designation[^key-6b68cbe0e115dceea3aedc102cd5659a]
+
+*Extent: S*
+
+(1) An area may be designated by a designation order as a Nature Conservation MPA if the Scottish Ministers consider it desirable to do so for any of the following purposes—
+
+- (a) conserving marine flora or fauna,
+- (b) conserving—
+  - (i) marine habitats or types of such habitat,
+  - (ii) features of geological or geomorphological interest.
+
+(2) The Scottish Ministers must—
+
+- (a) prepare and publish guidance setting out scientific criteria to inform consideration of whether an area should be designated a Nature Conservation MPA, and
+- (b) have regard to such guidance in exercising their functions under section 67.
+
+(3) The designation order must state—
+
+- (a) the protected feature or features in,
+- (b) the conservation objectives for,
+
+the Nature Conservation MPA.
+
+(4) Before designating an area as a Nature Conservation MPA, the Scottish Ministers must have regard to the extent to which the designation of the area would contribute towards the development of a network of conservation sites (namely a network referred to in section 79(2)).
+
+(5) For the purposes of subsection (1)(a), conserving marine flora or fauna includes (in particular) conserving any species that is rare or threatened because of—
+
+- (a) the limited number of individuals of that species,
+- (b) the limited number of locations in which that species is present.
+
+(6) For the purposes of subsection (1)(a) and (b)(i), conserving marine flora or fauna, or (as the case may be) marine habitat or types of such habitat includes conserving the diversity of such flora or fauna or (as the case may be) such habitats or types of such habitats, whether or not any or all of them are rare or threatened.
+
+(7) In considering whether to designate an area, the Scottish Ministers may have regard to the extent to which doing so will contribute to the mitigation of climate change.
+
+(8) In considering whether it is desirable to designate an area as a Nature Conservation MPA, the Scottish Ministers may have regard to any social or economic consequences of designation.
+
+(9) In considering whether to designate an area, the Scottish Ministers may have regard in particular to the views of any relevant delegate as to the desirability of conserving—
+
+- (a) marine flora or fauna,
+- (b) marine habitats or types of such habitat,
+- (c) features of geological or geomorphological interest,
+
+in the area.
+
+(10) In considering whether to designate a Nature Conservation MPA for a purpose referred to in subsection (1)(b), the matters to which the Scottish Ministers may have regard include the degree to which a marine habitat or type of such habitat or (as the case may be) a feature of geological or geomorphological interest is representative of its type.
+
+(11) For the purposes of—
+
+- (a) this section, conserving a thing includes—
+  - (i) assisting in its conservation,
+  - (ii) enabling or facilitating its recovery or increase,
+- (b) subsection (9), a “**relevant delegate**” means any delegate designated in a direction under section 12(1)(b) to exercise functions in relation to a regional marine plan for the Scottish marine region in which any part of the proposed Nature Conservation MPA lies.
+
+## Annotations
+
+[^key-6b68cbe0e115dceea3aedc102cd5659a]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2010/5/section/68) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

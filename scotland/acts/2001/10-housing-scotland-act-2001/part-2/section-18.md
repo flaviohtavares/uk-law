@@ -1,0 +1,47 @@
+---
+title: Housing (Scotland) Act 2001, section 18
+act: Housing (Scotland) Act 2001
+section: '18'
+status: revised-with-pending-changes
+text_date: '2026-08-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2001/10/section/18
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing (Scotland) Act 2001, section 18
+
+> **Warning: changes not yet applied to this text (10).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/asp/2001/10
+>
+> Extent: Scotland.
+
+## 18. Repossession[^c484690]
+
+*Extent: S*
+
+(1) A landlord wishing to take possession of a house under section 17(4) must serve on the tenant a notice—
+
+- (a) stating that the landlord has reason to believe that the house is unoccupied and that the tenant does not intend to occupy it as the tenant’s home,
+- (b) requiring the tenant to inform the landlord in writing within 4 weeks of service of the notice if the tenant intends to occupy the house as the tenant’s home, and
+- (c) informing the tenant that, if it appears to the landlord at the end of that period that the tenant does not intend so to occupy the house, the tenancy will be terminated with immediate effect.
+
+(2) Where—
+
+- (a) the landlord has—
+  - (i) served on the tenant a notice complying with subsection (1), and
+  - (ii) made such inquiries as may be necessary to satisfy the landlord that the house is unoccupied and that the tenant does not intend to occupy it as the tenant’s home, and
+- (b) at the end of the period mentioned in subsection (1)(b) the landlord is so satisfied,
+
+the landlord may serve a further notice on the tenant bringing the tenancy to an end with immediate effect.
+
+(3) Where a tenancy has been terminated in accordance with this section the landlord is entitled to take possession of the house without any further proceedings.
+
+(4) The Scottish Ministers may by order make provision for the landlord, in taking possession of the house, to secure the safe custody and delivery to the tenant of any property which is found in a house to which this section applies and, in particular—
+
+- (a) for requiring charges to be paid in respect of such property before it is delivered to the tenant, and
+- (b) for authorising the disposal of such property, if the tenant has not arranged for its delivery to the tenant before the expiry of such period as the order may specify, and the application of any proceeds towards any costs incurred by the landlord and any rent due but unpaid by the tenant to the landlord.
+
+## Annotations
+
+[^c484690]: Commencement: S. 18 wholly in force at 30.9.2002, see s. 113(1)(2) and [S.S.I. 2002/321](https://www.legislation.gov.uk/ssi/2002/321), [art. 2](https://www.legislation.gov.uk/ssi/2002/321/article/2) (subject to transitional provisions and savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2002/321/article/3))

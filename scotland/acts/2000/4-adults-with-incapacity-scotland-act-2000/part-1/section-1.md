@@ -1,0 +1,63 @@
+---
+title: Adults with Incapacity (Scotland) Act 2000, section 1
+act: Adults with Incapacity (Scotland) Act 2000
+section: '1'
+status: revised-with-pending-changes
+text_date: '2021-09-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2000/4/section/1
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Adults with Incapacity (Scotland) Act 2000, section 1
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2021-09-30. See https://www.legislation.gov.uk/changes/affected/asp/2000/4
+>
+> Extent: Scotland.
+
+## 1. General principles and fundamental definitions
+
+*Extent: S*
+
+(1) The principles set out in subsections (2) to (4) shall be given effect to in relation to any intervention in the affairs of an adult under or in pursuance of this Act, including any order made in or for the purpose of any proceedings under this Act for or in connection with an adult.
+
+(2) There shall be no intervention in the affairs of an adult unless the person responsible for authorising or effecting the intervention is satisfied that the intervention will benefit the adult and that such benefit cannot reasonably be achieved without the intervention.
+
+(3) Where it is determined that an intervention as mentioned in subsection (1) is to be made, such intervention shall be the least restrictive option in relation to the freedom of the adult, consistent with the purpose of the intervention.
+
+(4) In determining if an intervention is to be made and, if so, what intervention is to be made, account shall be taken of—
+
+- (a) the present and past wishes and feelings of the adult so far as they can be ascertained by any means of communication, whether human or by mechanical aid (whether of an interpretative nature or otherwise) appropriate to the adult;
+- (b) the views of the nearest relative , named person[^c18182131] and the primary carer of the adult, in so far as it is reasonable and practicable to do so;
+- (c) the views of—
+  - (i) any guardian, continuing attorney or welfare attorney of the adult who has powers relating to the proposed intervention; and
+  - (ii) any person whom the sheriff has directed to be consulted,
+
+  in so far as it is reasonable and practicable to do so; and
+- (d) the views of any other person appearing to the person responsible for authorising or effecting the intervention to have an interest in the welfare of the adult or in the proposed intervention, where these views have been made known to the person responsible, in so far as it is reasonable and practicable to do so.
+
+(5) Any guardian, continuing attorney, welfare attorney or manager of an establishment exercising functions under this Act or under any order of the sheriff in relation to an adult shall, in so far as it is reasonable and practicable to do so, encourage the adult to exercise whatever skills he has concerning his property, financial affairs or personal welfare, as the case may be, and to develop new such skills.
+
+(6) For the purposes of this Act, and unless the context otherwise requires—
+
+- “**adult**” means a person who has attained the age of 16 years;
+- “**incapable**” means incapable of—
+  - (a) acting; or
+  - (b) making decisions; or
+  - (c) communicating decisions; or
+  - (d) understanding decisions; or
+  - (e) retaining the memory of decisions,
+
+  as mentioned in any provision of this Act, by reason of mental disorder or of inability to communicate because of physical disability; but a person shall not fall within this definition by reason only of a lack or deficiency in a faculty of communication if that lack or deficiency can be made good by human or mechanical aid (whether of an interpretative nature or otherwise); and
+- “**incapacity**” shall be construed accordingly.
+
+(7) In subsection (4)(c)(i) any reference to—
+
+- (a) a guardian shall include a reference to a guardian (however called) appointed under the law of any country to, or entitled under the law of any country to act for, an adult during his incapacity, if the guardianship is recognised by the law of Scotland;
+- (b) a continuing attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed), relating to the granter’s property or financial affairs and having continuing effect notwithstanding the granter’s incapacity;
+- (c) a welfare attorney shall include a reference to a person granted, under a contract, grant or appointment governed by the law of any country, powers (however expressed) relating to the granter’s personal welfare and having effect during the granter’s incapacity.
+
+## Annotations
+
+[^c18182131]: Textual amendment: Words in s. 1(4)(b) inserted (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 2](https://www.legislation.gov.uk/ssi/2005/465/article/2) {Sch. 1 para. 28(2)}

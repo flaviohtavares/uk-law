@@ -1,0 +1,65 @@
+---
+title: Animal Health and Welfare (Scotland) Act 2006, section 15
+act: Animal Health and Welfare (Scotland) Act 2006
+section: '15'
+status: revised-with-pending-changes
+text_date: '2024-10-17'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2006/11/section/15
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Animal Health and Welfare (Scotland) Act 2006, section 15
+
+> **Warning: changes not yet applied to this text (4).** Text as at 2024-10-17. See https://www.legislation.gov.uk/changes/affected/asp/2006/11
+>
+> Extent: Scotland.
+
+## 15. Electronic communication[^key-94f010cac776dc1ca0911891b3c50208]
+
+*Extent: S*
+
+After section 83 of the 1981 Act there is inserted—
+
+> **83A. Electronic communication: Scotland**
+>
+> (1) Any requirement in the provisions mentioned in subsection (3) for something to be done in writing may be met by doing that thing as described in subsection (2).
+>
+> (2) That is, by using a document—
+>
+> - (a) transmitted by electronic means; and
+> - (b) capable of being reproduced in legible form.
+>
+> (3) Those provisions are—
+>
+> - (a) sections 3(2), 30(1), 36Q(1) and (6), 40(1)(b), 41(1)(b), 47, 60(9), 63(4) and 65(1) of, and paragraph 2(4) of Schedule 3 to, this Act;
+> - (b) sections 17(3), 22(7)(a), 62G(5) and 81 (each as read with section 83(1)) of this Act.
+>
+> (4) But subsection (1) applies in relation to section 17(3), 22(7)(a), 30(1), 36Q(1) or (6) or 62G(5) only if—
+>
+> - (a) the recipient has consented to receive electronic communication for the purpose; and
+> - (b) transmission is to an email address provided by the recipient.
+>
+> (5) For the purposes of sections 17(3), 22(7)(a), 30(1) and 36Q(1), a document transmitted under subsection (1) shall be taken to be received on the day after the day of its transmission.
+>
+> (6) The Scottish Ministers may, for the purposes of this Act, by order make further provision for the purposes of or in connection with—
+>
+> - (a) using electronic communication (including the use of electronic signatures);
+> - (b) using documents in electronic form.
+>
+> (7) An order under subsection (6)—
+>
+> - (a) may make provision by amending this Act or otherwise;
+> - (b) shall be made by statutory instrument subject to annulment in pursuance of a resolution of the Scottish Parliament.
+>
+> (8) In this section—
+>
+> - “**electronic communication**” is to be construed in accordance with section 15(1) of the Electronic Communications Act 2000 (c. 7);
+> - “**electronic signature**” is to be construed in accordance with section 7(2) of that Act.
+
+.
+
+## Annotations
+
+[^key-94f010cac776dc1ca0911891b3c50208]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2006/11/section/15) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

@@ -1,0 +1,120 @@
+---
+title: The Personal Injuries (NHS Charges) (Amounts) (Scotland) Amendment (No. 2) Regulations 2024
+id: ssi/2024/225
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2024-08-28'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2024/225
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2024/225/pdfs/ssipn_20240225_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2024/225/pdfs/ssi_20240225_en.pdf
+- http://www.legislation.gov.uk/ssi/2024/225/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Personal Injuries (NHS Charges) (Amounts) (Scotland) Amendment (No. 2) Regulations 2024
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2024 No. 225
+
+National Health Service
+
+The Personal Injuries (NHS Charges) (Amounts) (Scotland) Amendment (No. 2) Regulations 2024
+
+Made
+
+28th August 2024
+
+Laid before the Scottish Parliament
+
+30th August 2024
+
+Coming into force
+
+1st October 2024
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 153(2) and (5), 163(1) and 195(1) and (2) of the Health and Social Care (Community Health and Standards) Act 2003[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Personal Injuries (NHS Charges) (Amounts) (Scotland) Amendment (No. 2) Regulations 2024 and come into force on 1 October 2024.
+
+## 2. Amendment of the Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006
+
+(1) The Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006[^f00002] are amended in accordance with paragraphs (2) to (5).
+
+(2) In regulation 2R(1) (amount of NHS charges – injuries occurring on or after 1 April 2024)[^f00003], after “1 April 2024” insert “and before 1 October 2024”.
+
+(3) After regulation 2R insert—
+
+> **2S. Amount of NHS charges – injuries occurring on or after 1 October 2024**
+>
+> (1) Subject to the following paragraphs and regulations 3 and 3A, a certificate relating to an injury which occurs on or after 1 October 2024 must, for the purposes of section 153(2), specify—
+>
+> - (a) the sum of £256 for each occasion on which, as a result of such an injury, the injured person was provided with NHS ambulance services for the purpose of taking the injured person to a hospital for NHS treatment, and
+> - (b) where the injured person received NHS treatment at a hospital in respect of the injury, if the injured person was—
+>   - (i) not admitted to hospital, the sum of £848, or
+>   - (ii) admitted to hospital, the sum of £1,042 for each day or part day of the admission.
+>
+> (2) For the purposes of paragraph (1)(a), the reference to taking an injured person to a hospital includes taking that person from one hospital to another.
+>
+> (3) Where the injured person was admitted to hospital on one day and discharged on another day, the day of the discharge is to be disregarded for the purpose of paragraph (1)(b)(ii).
+>
+> (4) The amount which a certificate may specify under paragraph (1)(a) or (1)(b), or both, must not exceed £62,272 (“the maximum”).
+>
+> (5) Where—
+>
+> - (a) amounts fall to be specified under both paragraph (1)(a) and paragraph (1)(b), and
+> - (b) the aggregate of those amount would exceed the maximum,
+>
+> the amount to be specified under paragraph (1)(b) is to be reduced by the difference between the maximum and the aggregate of those amounts.
+
+.
+
+(4) In regulation 3(2) (amount of NHS charges: further provision)[^f00004], for “or 2R” substitute “, 2R or 2S”.
+
+(5) In regulation 6 (adjustment of amounts where certificates are issued by the Scottish Ministers and the Secretary of State)—
+
+- (a) in paragraph (1)(b)[^f00005], for “or 2R(4)” substitute “, 2R(4) or 2S(4)”, and
+- (b) in paragraph (2)(a)[^f00006], for “or 2R(4) and (5)” substitute “, 2R(4) and (5) or 2S(4) and (5)”.
+
+NEIL GRAY
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+28th August 2024
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Personal Injuries (NHS Charges) (Amounts) (Scotland) Regulations 2006 (“**the principal Regulations**”) which make provision in relation to the amount of NHS charges which can be recovered from a person who pays compensation to an injured person where that injured person has received National Health Service treatment or ambulance services.
+
+Regulation 2 amends regulation 2R of the principal Regulations and inserts regulation 2S into the principal Regulations to increase the charges in respect of injuries which occur on or after 1 October 2024. Where the injured person is provided with NHS ambulance services, the charge is increased from £249 to £256 for each occasion on which the service is provided. Where the injured person receives NHS treatment but is not admitted to hospital, the charge is increased from £825 to £848 The daily charge for NHS inpatient treatment is increased from £1,014 to £1,042. The maximum charge in respect of an injury is increased from £60,610 to £62,272.
+
+Regulation 2 also makes consequential amendments, by way of inserting references to the increased charges in new regulation 2S, to provisions in the principal Regulations in relation to situations where (a) a person makes more than one compensation payment to an injured person and (b) a person is due to pay NHS charges to both the Scottish Ministers and the Secretary of State.
+
+## Annotations
+
+[^f00001]: Footnote: [2003 c. 43](https://www.legislation.gov.uk/ukpga/2003/43) (“**the 2003 Act**”), relevantly amended by paragraph 1 of schedule 4 of the National Health Service (Consequential Provisions) Act [2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43). By virtue of section 167(1) of the 2003 Act any power to make regulations in relation to the recovery of NHS charges is exercisable in relation to Scotland by the Scottish Ministers. Section 168 of the 2003 Act contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made.
+
+[^f00002]: Footnote: [S.S.I. 2006/588](https://www.legislation.gov.uk/ssi/2006/588), as relevantly amended by [S.S.I. 2008/96](https://www.legislation.gov.uk/ssi/2008/96), [S.S.I. 2009/193](https://www.legislation.gov.uk/ssi/2009/193), [S.S.I. 2010/42](https://www.legislation.gov.uk/ssi/2010/42), [S.S.I. 2011/71](https://www.legislation.gov.uk/ssi/2011/71), [S.S.I. 2012/76](https://www.legislation.gov.uk/ssi/2012/76), [S.S.I. 2013/53](https://www.legislation.gov.uk/ssi/2013/53), [S.S.I. 2014/57](https://www.legislation.gov.uk/ssi/2014/57), [S.S.I. 2015/81](https://www.legislation.gov.uk/ssi/2015/81), [S.S.I. 2016/59](https://www.legislation.gov.uk/ssi/2016/59), [S.S.I. 2017/58](https://www.legislation.gov.uk/ssi/2017/58), [S.S.I. 2018/47](https://www.legislation.gov.uk/ssi/2018/47), [S.S.I. 2019/27](https://www.legislation.gov.uk/ssi/2019/27), [S.S.I. 2020/16](https://www.legislation.gov.uk/ssi/2020/16), [S.S.I. 2021/60](https://www.legislation.gov.uk/ssi/2021/60), [S.S.I. 2022/45](https://www.legislation.gov.uk/ssi/2022/45), [S.S.I. 2023/34](https://www.legislation.gov.uk/ssi/2023/34), [S.S.I. 2023/243](https://www.legislation.gov.uk/ssi/2023/243) and [S.S.I. 2024/44](https://www.legislation.gov.uk/ssi/2024/44).
+
+[^f00003]: Footnote: Regulation 2R was inserted by [S.S.I. 2024/44](https://www.legislation.gov.uk/ssi/2024/44).
+
+[^f00004]: Footnote: Regulation 3(2) was most recently amended by [S.S.I. 2024/44](https://www.legislation.gov.uk/ssi/2024/44).
+
+[^f00005]: Footnote: Regulation 6(1)(b) was most recently amended by [S.S.I. 2024/44](https://www.legislation.gov.uk/ssi/2024/44).
+
+[^f00006]: Footnote: Regulation 6(2)(a) was most recently amended by [S.S.I. 2024/44](https://www.legislation.gov.uk/ssi/2024/44).

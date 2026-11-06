@@ -1,0 +1,91 @@
+---
+title: The Existing Facilities in Quality Partnership Schemes (Scotland) Regulations 2001
+id: ssi/2001/218
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2001-06-08'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2001/218
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2001/218/pdfs/ssi_20010218_en.pdf
+- http://www.legislation.gov.uk/ssi/2001/218/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Existing Facilities in Quality Partnership Schemes (Scotland) Regulations 2001
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2001 No. 218
+
+PUBLIC PASSENGER TRANSPORT
+
+The Existing Facilities in Quality Partnership Schemes (Scotland) Regulations 2001
+
+Made
+
+8th June 2001
+
+Laid before the Scottish Parliament
+
+8th June 2001
+
+Coming into force
+
+1st July 2001
+
+The Scottish Ministers, in exercise of the powers conferred by section 4 of the Transport (Scotland) Act 2001[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Existing Facilities in Quality Partnership Schemes (Scotland) Regulations 2001 and shall come into force on 1st July 2001.
+
+## 2. Interpretation
+
+In these Regulations–
+
+- “the 2001 Act” means the Transport (Scotland) Act 2001; and
+- “scheme” means a quality partnership scheme.
+
+## 3. Specification of existing facilities
+
+Subject to regulation 4 below, existing facilities[^f00002] may not be specified in a scheme if those facilities were provided more than five years before the date on which the scheme is proposed.
+
+**4.** (1) Notwithstanding regulation 3 above, existing facilities which were provided for more than five, but no more than ten, years before the scheme is proposed may be specified in a scheme but only with the consent of all operators who, at the time of the relevant proposal, customarily use those facilities in the provision of local services.
+
+(2) The consent mentioned in paragraph (1) above must be detailed in the scheme when made.
+
+**5.** Section 5 of the 2001 Act shall apply, in relation to proposed schemes which specify existing facilities, subject to the modification that, at the end of subsection (4), there is inserted–
+
+> (5) Where the proposed scheme specifies existing facilities the authority shall, in consultation with operators under subsection (4)(a), inform them of when the existing facilities were provided.
+
+SARAH BOYACK
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+8th June 2001
+
+(This note is not part of the Regulations)
+
+These Regulations make provision for existing facilities to form part of a quality partnership scheme. Quality partnership schemes were introduced by Part II of the Transport (Scotland) Act 2001.
+
+Regulation 3 provides that existing facilities may form part of a quality partnership scheme where they were provided for no more than 5 years before the scheme is proposed.
+
+Regulation 4 provides that existing facilities which were provided for more than 5 years but less than 10 years before the date the scheme is proposed may form part of a quality partnership scheme, but only where the consent of all bus operators using those facilities has been obtained.
+
+Regulation 5 provides that a local transport authority must, in carrying out the consultation process, specify the date on which the existing facilities were provided.
+
+## Annotations
+
+[^f00001]: Footnote: [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2).
+
+[^f00002]: Footnote: Section 4(1) of the 2001 Act provides that “existing facilities” are facilities which are provided before quality partnership schemes are proposed.

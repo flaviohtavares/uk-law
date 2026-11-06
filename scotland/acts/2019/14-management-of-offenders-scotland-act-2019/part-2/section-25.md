@@ -1,0 +1,56 @@
+---
+title: Management of Offenders (Scotland) Act 2019, section 25
+act: Management of Offenders (Scotland) Act 2019
+section: '25'
+status: revised-with-pending-changes
+text_date: '2023-07-03'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2019/14/section/25
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Management of Offenders (Scotland) Act 2019, section 25
+
+> **Warning: changes not yet applied to this text (2).** Text as at 2023-07-03. See https://www.legislation.gov.uk/changes/affected/asp/2019/14
+>
+> Extent: Scotland.
+
+## 25. Disclosure period: mental health orders[^key-44ff025260fdfd01df17e349772ba885]
+
+*Extent: S*
+
+(1) The 1974 Act is amended as follows.
+
+(2) After section 5E (inserted by section 24) there is inserted—
+
+> **5F. Disclosure period for certain mental health orders**
+>
+> (1) Subsection (2) applies where, further to the making of a compulsion order as mentioned in subsection (1) of section 59 of the Criminal Procedure (Scotland) Act 1995 in relation to a person, a restriction order under that section is made in respect of the person.
+>
+> (2) The disclosure period applicable to the restriction order is a period beginning with the date of the person's conviction in respect of which the compulsion order was made and ending on the date the restriction order ceases or ceased to have effect.
+>
+> (3) Subsection (4) applies where, by virtue of subsection (1)(b) of section 57 of the Criminal Procedure (Scotland) Act 1995—
+>
+> - (a) a compulsion order is made under subsection (2)(a) of that section in relation to a person authorising the person's detention in a hospital, and
+> - (b) a restriction order under subsection (2)(b) of that section is, in addition to the compulsion order, made in respect of the person.
+>
+> (4) The disclosure period applicable to the restriction order is a period beginning with the date of the person's conviction in respect of which the compulsion order was made and ending on the date the restriction order ceases or ceased to have effect.
+>
+> (5) Where, in respect of a conviction, an order listed in subsection (6) was made in relation to a person, the disclosure period applicable to the sentence is a period beginning with the date of the conviction and ending on the date a relevant sentence in respect of the conviction is imposed on the person.
+>
+> (6) The orders are—
+>
+> - (a) an assessment order under section 52D or 52E of the Criminal Procedure (Scotland) Act 1995,
+> - (b) a treatment order under section 52M or 52N of that Act, or
+> - (c) an interim compulsion order—
+>   - (i) under section 53 of that Act, or
+>   - (ii) if arising by virtue of subsection (1)(b) of section 57 of that Act, under subsection (2)(bb) of that section.
+>
+> (7) In subsection (5), a “relevant sentence” is any sentence other than an order mentioned in subsection (6) (or, where applicable, a further such order).
+
+.
+
+## Annotations
+
+[^key-44ff025260fdfd01df17e349772ba885]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/14/section/25) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

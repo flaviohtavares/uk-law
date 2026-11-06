@@ -1,0 +1,69 @@
+---
+title: Land Reform (Scotland) Act 2016, section 67
+act: Land Reform (Scotland) Act 2016
+section: '67'
+status: revised-with-pending-changes
+text_date: '2026-03-16'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/18/section/67
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Reform (Scotland) Act 2016, section 67
+
+> **Warning: changes not yet applied to this text (63).** Text as at 2026-03-16. See https://www.legislation.gov.uk/changes/affected/asp/2016/18
+>
+> Extent: Scotland.
+
+## 67. Compensation[^key-a6746d10ef5b0cd32f3cbd8a80c61997]
+
+*Extent: S*
+
+(1) Where an application made under section 54 does not nominate a third party purchaser, any person (including an owner or former owner of land, and, where an application is to buy a tenant's interest, a tenant) who has incurred loss or expense—
+
+- (a) in complying with the requirements of this Part following the making of the application by the Part 5 community body,
+- (b) as a result of the withdrawal by the Part 5 community body of the application under section 62(3)(a),
+- (c) as a result of the withdrawal by the Part 5 community body of its confirmation of intention to proceed under section 62(3)(b), or its failure otherwise to complete the purchase after having so confirmed its intention under that section, or
+- (d) as a result of the failure of the Part 5 community body to complete the purchase,
+
+is entitled to recover the amount of that loss or expense from the Part 5 community body.
+
+(2) Where an application made under section 54 nominates a third party purchaser—
+
+- (a) any person (including an owner or former owner of land, and, where an application is to buy a tenant's interest, a tenant) who has incurred loss or expense—
+  - (i) in complying with the requirements of this Part following the making of the application by the Part 5 community body,
+  - (ii) as a result of the withdrawal by the Part 5 community body or, as the case may be, third party purchaser of its confirmation of intention to proceed under section 62(4)(b) or its failure otherwise to complete the purchase after having so confirmed its intention under that section, or
+  - (iii) as a result of the failure of the Part 5 community body or, as the case may be, third party purchaser to complete the purchase,
+
+  is entitled to recover the amount of that loss or expense from the third party purchaser,
+- (b) any such person who has incurred loss or expense as a result of the withdrawal by the Part 5 community body of the application under section 62(4)(a) is entitled to recover the amount of that loss or expense from the Part 5 community body.
+
+(3) There is no such entitlement under subsections (1) and (2) where the application made under section 54 is refused.
+
+(4) Where such an application has been refused, an owner of the land or a tenant who has incurred loss or expense as mentioned in subsection (1)(a) or (2)(a)(i) is entitled to recover the amount of that loss or expense from the Scottish Ministers.
+
+(5) The Scottish Ministers may by regulations make provision for or in connection with specifying—
+
+- (a) amounts payable in respect of loss or expense incurred as mentioned in subsections (1) and (2),
+- (b) amounts payable in respect of loss or expense incurred by virtue of this Part by a person of such other description as may be specified,
+- (c) the person who is liable to pay those amounts,
+- (d) the procedure under which claims for compensation under this section are to be made.
+
+(6) Where, at the expiry of such period of time as may be fixed for the purposes of this subsection by regulations under subsection (5)(d), any question as to whether compensation is payable or as to the amount of any compensation payable has not been settled as between the parties, either of them may refer the question to the Lands Tribunal.
+
+(7) Where either of the parties refers a question to the Lands Tribunal as mentioned in subsection (6), the party so referring the question must (unless that party is the Scottish Ministers), within 7 days of the date of referring it, notify the Scottish Ministers in writing of—
+
+- (a) the reference, and
+- (b) the date of reference.
+
+(8) The Lands Tribunal must send a copy of its findings on a question referred to it under subsection (6) to the Scottish Ministers.
+
+(9) Failure to comply with subsection (7) or (8) has no effect on—
+
+- (a) the right to buy of the Part 5 community body or, as the case may be, of the third party purchaser, or
+- (b) the validity of the reference of the question under subsection (6).
+
+## Annotations
+
+[^key-a6746d10ef5b0cd32f3cbd8a80c61997]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2016/18/section/67) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

@@ -1,0 +1,152 @@
+---
+title: Digital Assets (Scotland) Act 2026
+id: asp/2026/12
+type: ScottishAct
+category: primary
+status: revised
+made_date: '2026-04-16'
+text_date: '2026-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2026/12
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2026/12/pdfs/aspen_20260012_en.pdf
+- http://www.legislation.gov.uk/asp/2026/12/pdfs/asp_20260012_en.pdf
+- http://www.legislation.gov.uk/asp/2026/12/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Digital Assets (Scotland) Act 2026
+
+> Text as at 2026-07-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Digital Assets (Scotland) Act 2026
+
+2026 asp 12
+
+An Act of the Scottish Parliament to make provision about the nature of certain digital assets as objects of property in Scots law; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 5th March 2026 and received Royal Assent on 16th April 2026
+
+## 1. Meaning of digital asset[^key-d8b02f936c6478354bcfe2d7080038f3][^key-0e47f5ed164daa4203da31e974325114]
+
+(1) For the purposes of this Act, a digital asset is a thing that—
+
+- (a) arises from an electronic system that makes it rivalrous, and
+- (b) exists independently from the legal system.
+
+(2) An electronic system makes a thing rivalrous if—
+
+- (a) the system maintains an immutable record of transactions in relation to the thing, and
+- (b) that record is used to ensure that when, within the system, a person transacts in relation to the thing in a certain way (for example by transferring or spending it), the person loses the ability to transact in relation to the thing in that way again.
+
+(3) An electronic trade document within the meaning of section 2 of the Electronic Trade Documents Act 2023 is not a digital asset for the purposes of this Act.
+
+## 2. Nature of digital assets in Scots law[^key-937c426c1a56fb6754089478ad7c0ce0][^key-fbe3b0f524282c09d5c380cc17e7e524]
+
+In the law of Scotland, digital assets are incorporeal moveables and (so far as consistent with their nature) the law applies in relation to them on that basis.
+
+## 3. Presumption of ownership[^key-69a781d562e01a5844412c503de5d425][^key-9b76f26bed25dbde2df9d413f50c1722]
+
+A person that has control of a digital asset is presumed to own the asset (unless the contrary can be shown).
+
+## 4. Acquisition of ownership[^key-569955e7038597ccbe7a03991364e830][^key-a819a665d44443da9a83358d29a46ac1]
+
+(1) Any rule of law in relation to the acquisition of ownership applies, in connection with digital assets, on the basis that—
+
+- (a) a digital asset is to be treated as though it were a corporeal moveable (despite section 2),
+- (b) control of a digital asset is to be treated as physical possession of it.
+
+(2) But a person (“**the transferee**”) becomes the owner of a digital asset, despite the person who transferred control of the asset to the transferee (“the transferor”) not being the asset’s owner, if—
+
+- (a) the circumstances of the transfer were such that, but for the transferor not being the asset’s owner, it would have resulted in the transferee becoming the asset’s owner, and
+- (b) the transferee took the asset in good faith and for value.
+
+(3) Where a person (“**the transferee**”) acquires ownership of a digital asset from a person whose title as owner of the asset is defective, the transferee’s title is free from that defect provided the transferee took the asset in good faith and for value.
+
+(4) In subsection (1), “**rule of law**” does not include an enactment.
+
+## 5. Meaning of control[^key-e19160094088a03eeaebd899deecf0d0][^key-57d0bc053828e42173f9d8449940bca6]
+
+(1) This section makes provision about determining who has control of a digital asset for the purposes of this Act.
+
+(2) A person has control of a digital asset if the person has the ability to initiate in relation to it—
+
+- (a) a transfer transaction within the electronic system giving rise to the asset, or
+- (b) if the system does not facilitate transfer transactions, a divestiture transaction within the system.
+
+(3) In this section—
+
+- “**divestiture transaction**” means a transaction that results in no person being able to initiate any further transaction in relation to the asset,
+- “**transfer transaction**” means a transaction that results in—
+  - (a) the person who initiated the transaction losing the ability to initiate a transfer transaction in relation to the asset, and
+  - (b) another person gaining (directly or indirectly) the ability to initiate a transfer transaction in relation to the asset or some quantity of that type of asset.
+
+## 6. Sections 2 to 4 subject to other enactments[^key-61ca53eefd12b669842bfb31709b715e][^key-44e8271cf9cb99cdd10713d44daaf5c4]
+
+Sections 2 to 4 are subject to any enactment whenever passed or made.
+
+## 7. Ancillary provision[^key-f3ac5d214ed5fd6f8344afcd70f11321]
+
+(1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with, or for giving full effect to this Act or any provision made under it.
+
+(2) Regulations under this section may modify any enactment (including this Act).
+
+## 8. Regulation-making powers[^key-24865be118e16facc06d236e099a1e69]
+
+(1) A power to make regulations conferred by this Act includes the power to make different provision for different purposes.
+
+(2) Regulations under section 7—
+
+- (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act, but
+- (b) otherwise, are subject to the negative procedure.
+
+## 9. Commencement[^key-18e793fef3624975580b0ebbac756f45]
+
+(1) The following provisions come into force the day after Royal Assent: this section and sections 7, 8 and 10.
+
+(2) The other provisions of this Act come into force on such day as the Scottish Ministers may by regulations appoint.
+
+## 10. Short title[^key-05af07827b6d7e170629510924a3dee6]
+
+The short title of this Act is the Digital Assets (Scotland) Act 2026.
+
+## Annotations
+
+[^key-d8b02f936c6478354bcfe2d7080038f3]: Commencement: S. 1 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/12/section/9/2)
+
+[^key-0e47f5ed164daa4203da31e974325114]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2026/12/section/1) in force at 1.7.2026 by [S.S.I. 2026/197](https://www.legislation.gov.uk/ssi/2026/197), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/197/regulation/2/a)
+
+[^key-937c426c1a56fb6754089478ad7c0ce0]: Commencement: S. 2 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/12/section/9/2)
+
+[^key-fbe3b0f524282c09d5c380cc17e7e524]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2026/12/section/2) in force at 1.7.2026 by [S.S.I. 2026/197](https://www.legislation.gov.uk/ssi/2026/197), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2026/197/regulation/2/b)
+
+[^key-69a781d562e01a5844412c503de5d425]: Commencement: S. 3 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/12/section/9/2)
+
+[^key-9b76f26bed25dbde2df9d413f50c1722]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/12/section/3) in force at 1.7.2026 by [S.S.I. 2026/197](https://www.legislation.gov.uk/ssi/2026/197), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/197/regulation/2/c)
+
+[^key-569955e7038597ccbe7a03991364e830]: Commencement: S. 4 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/12/section/9/2)
+
+[^key-a819a665d44443da9a83358d29a46ac1]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2026/12/section/4) in force at 1.7.2026 by [S.S.I. 2026/197](https://www.legislation.gov.uk/ssi/2026/197), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2026/197/regulation/2/d)
+
+[^key-e19160094088a03eeaebd899deecf0d0]: Commencement: S. 5 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/12/section/9/2)
+
+[^key-57d0bc053828e42173f9d8449940bca6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2026/12/section/5) in force at 1.7.2026 by [S.S.I. 2026/197](https://www.legislation.gov.uk/ssi/2026/197), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2026/197/regulation/2/e)
+
+[^key-61ca53eefd12b669842bfb31709b715e]: Commencement: S. 6 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/12/section/9/2)
+
+[^key-44e8271cf9cb99cdd10713d44daaf5c4]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2026/12/section/6) in force at 1.7.2026 by [S.S.I. 2026/197](https://www.legislation.gov.uk/ssi/2026/197), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2026/197/regulation/2/f)
+
+[^key-f3ac5d214ed5fd6f8344afcd70f11321]: Commencement: S. 7 in force at 17.4.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/12/section/9/1)
+
+[^key-24865be118e16facc06d236e099a1e69]: Commencement: S. 8 in force at 17.4.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/12/section/9/1)
+
+[^key-18e793fef3624975580b0ebbac756f45]: Commencement: S. 9 in force at 17.4.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/12/section/9/1)
+
+[^key-05af07827b6d7e170629510924a3dee6]: Commencement: S. 10 in force at 17.4.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/12/section/9/1)

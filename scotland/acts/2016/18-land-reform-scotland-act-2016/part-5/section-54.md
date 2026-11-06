@@ -1,0 +1,71 @@
+---
+title: Land Reform (Scotland) Act 2016, section 54
+act: Land Reform (Scotland) Act 2016
+section: '54'
+status: revised-with-pending-changes
+text_date: '2026-03-16'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/18/section/54
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Land Reform (Scotland) Act 2016, section 54
+
+> **Warning: changes not yet applied to this text (63).** Text as at 2026-03-16. See https://www.legislation.gov.uk/changes/affected/asp/2016/18
+>
+> Extent: Scotland.
+
+## 54. Right to buy: application for consent[^key-c36bae3b4380d65fc9068eae9528b503]
+
+*Extent: S*
+
+(1) The right to buy under this Part may be exercised only by—
+
+- (a) a Part 5 community body, or
+- (b) where a Part 5 community body nominates in its application another person to exercise the right to buy, that person (a “third party purchaser”).
+
+(2) That right may be so exercised only with the consent of the Scottish Ministers given on the written application of the Part 5 community body.
+
+(3) That right may be exercised in relation to more than one holding of land or more than one tenancy but in order so to exercise the right an application must be made in respect of each such holding or tenancy and applications so made may be differently disposed of.
+
+(4) In subsection (3)—
+
+- (a) a “holding” of land is land in the ownership of one person or in common or joint ownership, and
+- (b) a “tenancy” is one where one person is entitled to the tenant's interest or there is a common or joint entitlement to that interest.
+
+(5) Such an application—
+
+- (a) must be made in such form as the Scottish Ministers may by regulations require,
+- (b) must specify—
+  - (i) the owner of the land,
+  - (ii) where the application is to buy a tenant's interest, the tenant, and
+  - (iii) any creditor in a standard security over the land or any part of it, and
+- (c) must include or be accompanied by such information as the Scottish Ministers may by regulations specify including information (provided, where appropriate, by or by reference to maps or drawings) about the matters mentioned in subsection (6).
+
+(6) The matters are—
+
+- (a) the reasons the Part 5 community body considers that its proposals for the land satisfy the sustainable development conditions set out in section 56(2) (or, where the application is to buy a tenant's interest, those conditions as modified by section 56(6)(a)),
+- (b) the location and boundaries of the land in respect of which the right to buy is sought to be exercised (including, as the case may be, the land to which any tenant's interest relates),
+- (c) all rights and interests in the land known to the Part 5 community body,
+- (d) the proposed use, development and management of the land (including, as the case may be, the land to which any tenant's interest relates).
+
+(7) A Part 5 community body applying under this section must, at the same time as it applies—
+
+- (a) send a copy of its application and the accompanying information to the owner of the land to which the application relates,
+- (b) where its application is to buy a tenant's interest, send a copy of the application and the accompanying information to the tenant,
+- (c) where the Part 5 community body nominates a third party purchaser, send a copy of the application and the accompanying information to the third party purchaser,
+- (d) where there is a standard security in relation to the land or any part of it, send a copy of the application and the accompanying information to the creditor who holds the standard security and invite the creditor—
+  - (i) to notify the Part 5 community body and the Scottish Ministers, within 60 days of the sending of the invitation, if any of the circumstances set out in subsection (8) has arisen (or arises within 60 days of the sending of the invitation), and
+  - (ii) if such notice is given, to provide the Scottish Ministers, within that time, with the creditor's views in writing on the application.
+
+(8) Those circumstances are that—
+
+- (a) a calling-up notice has been served by the creditor under section 19 of the Conveyancing and Feudal Reform (Scotland) Act 1970 in relation to the land which the Part 5 community body is seeking to exercise its right to buy or any part of the land and that notice has not been complied with,
+- (b) a notice of default served by the creditor under section 21 of that Act in relation to the land or any part of the land has not been complied with and the person on whom the notice was served has not, within the period specified in section 22 of that Act, objected to the notice by way of application to the court,
+- (c) where that person has so objected, the court has upheld or varied the notice of default,
+- (d) the court has granted the creditor a warrant under section 24 of that Act in relation to the land or any part of the land.
+
+## Annotations
+
+[^key-c36bae3b4380d65fc9068eae9528b503]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2016/18/section/54) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

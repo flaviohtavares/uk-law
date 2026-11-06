@@ -1,0 +1,37 @@
+---
+title: Sexual Offences (Scotland) Act 2009, section 37
+act: Sexual Offences (Scotland) Act 2009
+section: '37'
+status: revised-with-pending-changes
+text_date: '2021-06-29'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2009/9/section/37
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Sexual Offences (Scotland) Act 2009, section 37
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2021-06-29. See https://www.legislation.gov.uk/changes/affected/asp/2009/9
+>
+> Extent: Scotland.
+
+## 37. Older children engaging in sexual conduct with each other
+
+*Extent: S*
+
+(1) If a child (“A”), being a child mentioned in subsection (2), does any of the things mentioned in subsection (3), “B” being in each case a child mentioned in subsection (2), then A commits an offence, to be known as the offence of engaging while an older child in sexual conduct with or towards another older child.
+
+(2) The child is a child who—
+
+- (a) has attained the age of 13 years, but
+- (b) has not attained the age of 16 years.
+
+(3) The things are that A—
+
+- (a) penetrates sexually, with A's penis and to any extent, either intending to do so or reckless as to whether there is penetration, the vagina, anus or mouth of B,
+- (b) intentionally or recklessly touches the vagina, anus or penis of B sexually with A's mouth.
+
+(4) In the circumstances specified in subsection (1), if B engages by consent in the conduct in question, then B commits an offence, to be known as the offence of engaging while an older child in consensual sexual conduct with another older child.
+
+(5) In paragraph (b) of subsection (3), the reference to A's mouth is to be construed as including a reference to A's tongue or teeth.

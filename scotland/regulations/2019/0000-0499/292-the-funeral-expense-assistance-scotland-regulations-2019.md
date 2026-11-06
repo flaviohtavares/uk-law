@@ -1,0 +1,485 @@
+---
+title: The Funeral Expense Assistance (Scotland) Regulations 2019
+id: ssi/2019/292
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2019-09-12'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2019/292
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2019/292/pdfs/ssipn_20190292_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/292/pdfs/ssi_20190292_en.pdf
+- http://www.legislation.gov.uk/ssi/2019/292/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Funeral Expense Assistance (Scotland) Regulations 2019
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2019 No. 292
+
+Social Security
+
+The Funeral Expense Assistance (Scotland) Regulations 2019
+
+Made
+
+12th September 2019
+
+Coming into force in accordance with regulation 1
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 34, 41(4)(a), 43(5) and 52 of the Social Security (Scotland) Act 2018 [^c23844601] and all other powers enabling them to do so.
+
+In accordance with section 96(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+In accordance with section 98 of that Act, no consultation with the Scottish Commission on Social Security was required.
+
+## PART 1 — Introductory
+
+### 1. Citation and commencement[^key-c23532e60ba8af1f962de12b9ca33db0]
+
+These Regulations may be cited as the Funeral Expense Assistance (Scotland) Regulations 2019 and come into force on the first Monday after the day on which they are made.
+
+## PART 2 — Interpretation
+
+### 2. Interpretation[^key-c08935d47c3903a5e87ff894c4a3f644]
+
+In these Regulations—
+
+- “**applicant**” means a person who has applied for funeral expense assistance,
+- “**backdated award**” means an award of assistance for a day, or a period that begins on a day, that falls before the day the decision to make the award was taken,
+- “[^key-6f8258e0421c4d4330f3e3f377a216d4]**burial**” does not include—
+  - (a) burial of ashes, where a person’s remains have been cremated,
+  - (b) burial of powder,
+- “**determination**” means a determination of an individual's entitlement under section 37 of the Social Security (Scotland) Act 2018,
+- [^key-9e3bf31383474d9ebcbfa64b72596b2d]...
+- “[^key-cd1cd039eec1403720a91ab598c113bd]**funeral**” means a burial, cremation or [^key-4a53ee76312898ebd1e75e4b40852b23]...hydrolysis of a deceased person or still-born child,
+- “[^key-01b8b75c0aef8dad1bad5e2912cb3e36]**hydrolysis**” has the meaning given by section 107 of the Burial and Cremation (Scotland) Act 2016,
+- “**partner**” means—
+  - (i) where a person is living together with a spouse or civil partner, that other person,
+  - (ii) where a person is living together with a person as a married couple, that other person,
+- “[^key-c5c8b3f22da732fcf2074cf3493d9baa]**powder**” has the meaning given by section 107 of the Burial and Cremation (Scotland) Act 2016,
+- “**still-born child**” has the meaning given by section 56(1) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 [^c23844611],
+- “**working day**” means a day other than a Saturday, a Sunday or a bank holiday in Scotland under the Banking and Financial Dealings Act 1971 [^c23844621].
+
+## PART 3 — Procedural matters
+
+### 3. Applications[^key-2b013d69ef73b4825aa621321af89dd6]
+
+(1) A person who applies for funeral expense assistance is entitled to receive it if that person—
+
+- (a) applies within the period described in regulation 5, and
+- (b) meets the eligibility conditions prescribed in these Regulations.
+
+(2) Regulation 4 sets out circumstances in which the Scottish Ministers are to determine an individual's entitlement to funeral expense assistance without receiving an application.
+
+(3) Regulations 7 and 8 describe eligibility conditions relating to the applicant's relationship to the deceased person and multiple applications.
+
+(4) Regulation 9 describes eligibility conditions relating to the applicant's residence, the last residence of the deceased person and the place where the funeral takes place.
+
+(5) Regulation 10 describes[^key-82bccbcbe388f68f10acc8d19fb582ce] eligibility conditions relating to the financial means of the applicant, based on receipt of income related benefits [^key-7a32799bd354a62b73553a78a22f412f]....
+
+(6) An application is to be treated as made—
+
+- (a) on the day it is received by the Scottish Ministers, or
+- (b) if applicable, on the day nominated by the Scottish Ministers under regulation 5(5).
+
+(7) For the avoidance of doubt, a thing that purports to be an application is not an application unless it is—
+
+- (a) made to the Scottish Ministers in the form, and
+- (b) accompanied by the evidence,
+
+required by the Scottish Ministers under section 38(1) of the Social Security (Scotland) Act 2018.
+
+### 4. Determinations without application[^key-f8b31593fe21d86fe5b5b6b350483952]
+
+(1) The Scottish Ministers are to make a determination of an individual's entitlement to funeral expense assistance without receiving an application where—
+
+- (a) they have previously made a determination of the individual's entitlement to that assistance (“the original determination”),
+- (b) they establish that due to an official error the original determination was wrongly made resulting in the individual—
+  - (i) not being given funeral expense assistance for which the individual was eligible, or
+  - (ii) being given less such assistance than that to which the individual was entitled,
+- (c) the Scottish Ministers are not considering a request for re-determination of the individual's entitlement to such assistance, and
+- (d) the individual has not appealed to the First-tier Tribunal for Scotland against the Scottish Ministers' determination of the individual's entitlement to such assistance.
+
+(2) The Scottish Ministers are also to determine an individual's entitlement to funeral expense assistance without receiving an application where—
+
+- (a) a determination has previously been made that the individual is not entitled to that assistance (“the original determination”), and
+- (b) the Scottish Ministers establish that—
+  - (i) following an appeal, a backdated award of assistance described in regulation 10(1) has been made, and
+  - (ii) had that award been made before the original determination, a determination that the individual is entitled to funeral expense assistance would have been made instead.
+
+(3) In making a determination required by paragraph (1) or (2) the Scottish Ministers are to use—
+
+- (a) the information provided in the application that led to the original determination, and
+- (b) any other information they obtained in connection with that application.
+
+(4) Where a determination is to be, or has been, made without an application by virtue of this regulation, references in these Regulations to the day the application is made are to be read as references to the day the application that led to the original determination was made.
+
+(5) In paragraph (1) “**official error**” means an error made by someone acting on behalf of the Scottish Ministers or on behalf of a Minister of the Crown that was not materially contributed to by anyone not so acting.
+
+### 5. Period for applications[^key-3ffca60e0afaf012a17712aecc65a2e7]
+
+(1) A person is not entitled to funeral expense assistance unless an application for that assistance is made within a period starting when the person whose funeral is being arranged dies and ending as calculated in paragraphs (3) and (4) (“the period for applications”).
+
+(2) No application for funeral expense assistance may be made while the person whose funeral is being arranged is alive.
+
+(3) No application for funeral expense assistance may be made after the day falling six months after the day on which the funeral takes place, unless paragraph (5) applies.
+
+(4) In calculating the end of the period for applications where the day of the month on which the funeral takes place is the 29th, 30th or 31st, and the month falling six months after that month does not have such a date, the period ends on the last day of the later month.
+
+(5) The Scottish Ministers may nominate the date on which an application will be treated as made for the purposes of regulation 3(6)(b) if—
+
+- (a) the award of assistance described in regulation 10(1) that the applicant is relying on to meet that eligibility condition is a backdated award,
+- (b) the backdated award is an award of assistance for—
+  - (i) a day that falls within the period for applications, or
+  - (ii) a period that includes at least 1 day that falls within the period for applications, and
+- (c) the application is received by the Scottish Ministers—
+  - (i) not more than 20 working days after the last day of the period for applications, and
+  - (ii) within 3 months of the applicant being informed of the backdated award by or on behalf of the public authority who made it.
+
+(6) The date nominated by the Scottish Ministers under paragraph (5)—
+
+- (a) must be a day for which the backdated award is made, and
+- (b) must not be a day that falls outside the period for applications.
+
+### 6. Periods for redetermination requests[^key-be047365f4fc89df2560563b68814afd]
+
+(1) The period for requesting a re-determination of entitlement to funeral expense assistance, under section 41 of the Social Security (Scotland) Act 2018, is 31 days beginning with the day that the applicant is informed, in accordance with section 40 of that Act, of the right to make the request.
+
+(2) Where such a request is validly made, the period allowed for re-determination (within the meaning of section 43 of that Act) is 16 working days beginning with—
+
+- (a) the day the request is received by the Scottish Ministers, [^key-8f9967338fb8386e8e7f532fdd268df2]...
+- (b) where the request is received by the Scottish Ministers later than the period prescribed by paragraph (1), the day on which the Scottish Ministers, or on appeal the First-tier Tribunal for Scotland, decide that the applicant has a good reason for not requesting the re-determination sooner , or[^key-58f2fa6b84b1a7e5a694b7c2ddde716f]
+- (c) in a case where the Scottish Ministers have informed the applicant of their decision that the request for a re-determination was not made in such form as the Scottish Ministers require, the day on which it is subsequently decided by the First-Tier Tribunal for Scotland that the applicant in question has made the request in such form as the Scottish Ministers require.
+
+## PART 4 — Eligibility
+
+### 7. Relationship to deceased person[^key-c1aab005df2019e75805b8cc736e2793]
+
+(1) To qualify for funeral expense assistance the applicant, or the partner of the applicant, must have accepted responsibility for the expenses of the funeral, and the Scottish Ministers must consider it to be reasonable for that responsibility to have been accepted.
+
+(2) In determining whether it was reasonable to accept responsibility, the Scottish Ministers must consider—
+
+- (a) whether someone other than the applicant, or the partner of the applicant, would be the nearest relative of the deceased person in terms of section 65(3) to (6) (arrangements on death of adult) of the Burial and Cremation (Scotland) Act 2016 [^c23844631], and
+- (b) any other relevant circumstances that the applicant brings to their attention.
+
+(3) For the purposes of paragraph (2)(a), instead of section 65(3) to (6) of that Act regard is to be had to—
+
+- (a) section 66(3) to (5) (arrangements on death of a child) where the deceased person was under 16 years of age on the day of his or her death,
+- (b) section 74(3), (7) and (8) in relation to a still-born child.
+
+### 8. Multiple applications[^key-162702b40ca2de0c5aee796f744218aa]
+
+(1) Where two or more persons accept responsibility for the expenses of the funeral, and each applies for funeral expense assistance, the Scottish Ministers must consider which of the persons is the nearer (or nearest) relative of the deceased person, applying the approach described in regulation 7(2)(a).
+
+(2) The Scottish Ministers must determine the application by the nearer relative before they determine any other application for assistance.
+
+(3) Where, in applying paragraph (1), two or more applicants for assistance rank equally as the nearer relative and are not in agreement as to which application is to be progressed, the Scottish Ministers must decide which application is to be progressed first.
+
+(4) Where a determination is made to give a person funeral expense assistance in respect of a funeral, only that person is eligible for such assistance in respect of the expenses of a funeral of the deceased person.
+
+(5) Where the Secretary of State decides to make a funeral payment within the meaning of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005 [^c23844641] or the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 [^c23844651], no person is eligible for funeral expense assistance to meet, or help meet, expenses of a funeral in respect of the deceased person.
+
+### 9. Residence conditions, place of funeral and status[^key-83a6e5502b59136060e045590d3f7b0b]
+
+(1) To qualify for funeral expense assistance, the applicant must be ordinarily resident in Scotland at the date of their application for that assistance.
+
+(2) The applicant is not entitled to that assistance unless—
+
+- (a) the deceased person was ordinarily resident in the United Kingdom at the date of his or her death, and
+- (b)[^key-25a45be63e557956d358a68718d80b73] the place of the funeral is—
+  - (i) in the United Kingdom,
+  - (ii) in a member state of the EU, Iceland, Liechtenstein, Norway or Switzerland and paragraph (3) applies,
+  - (iii) outside the United Kingdom and paragraph (3B) applies.
+
+(3)[^key-e0d49f0887bb593a3cea12f7664abd88] This paragraph applies where the applicant or, where the applicant has a partner, the applicant’s partner—
+
+- (a) was prior to IP completion day—
+  - (i) a qualified person within the meaning of regulation 6(1)(b) (worker) or (c) (self-employed person) of the EEA Regulations,
+  - (ii) a person who retained the status referred to in head (i) pursuant to regulation 6(2) or (4) of the EEA Regulations,
+  - (iii) a person who is a family member of a person referred to in head (i) or (ii) within the meaning of regulation 7(1) of the EEA Regulations,
+  - (iv) a person who had a right to reside permanently in the United Kingdom by virtue of regulation 15(1)(c), (d) or (e) of the EEA Regulations,
+- (b) is a person granted indefinite or limited leave to enter, or remain in, the United Kingdom under the Immigration Act 1971 by virtue of Appendix EU to the immigration rules made under section 3(2) of that Act (“**the EU Settlement Scheme**”),
+- (c) is a person who has made a valid application for indefinite or limited leave to enter, or remain in, the United Kingdom under the EU Settlement Scheme and that application is pending a final decision,
+- (d) is a person who is a family member within the meaning of Article 9 of the EU withdrawal agreement.
+
+(3A) In paragraph (3) “**EEA Regulations**” means the Immigration (European Economic Area) Regulations 2016, as in force on 30 December 2020.
+
+(3B) This paragraph applies where the Scottish Ministers consider that there are exceptional circumstances which merit entitlement to assistance for a funeral outside the United Kingdom.
+
+(4)[^key-9cb4e7203bcbfeaea48c91e263beb7ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) A person is not entitled to funeral expense assistance if, at the time the application is made, the person is subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act 1999 [^c23844671], unless the person falls within a category or description of persons specified in Part 2 of the schedule of the Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (persons not excluded under section 115 of that Act from entitlement to various social security benefits) [^c23844681].
+
+(6) Paragraph (2)(a) does not apply in respect of the funeral of a still-born child.
+
+### 10. Qualifying benefits[^key-75d65804ebb6cc185e052065c09cc4a7]
+
+(1) To qualify for funeral expense assistance the applicant, or the partner of the applicant, must have been properly awarded in respect of the relevant day—
+
+- (a) income support under section 124 of the Social Security Contributions and Benefits Act 1992 [^c23844691],
+- (b) state pension credit within the meaning given by section 1(1) of the State Pension Credit Act 2002 [^c23844701],
+- (c) income-based jobseeker's allowance within the meaning of the Jobseekers Act 1995 [^c23844711],
+- (d)[^key-c834104e108cffb2bebc1c8fe3d718b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-536b3e5829af19731ee37b1b2d49ba35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) housing benefit within the meaning of section 123 of the Social Security Contributions and Benefits Act 1992,
+- (g) income-related employment and support allowance under Part 1 of the Welfare Reform Act 2007 [^c23844741], or
+- (h) universal credit under Part 1 of the Welfare Reform Act 2012 [^c23844751].
+
+(2) An applicant, or the partner of the applicant, is not to be regarded as having been properly awarded assistance if—
+
+- (a) the award for the relevant day was made in error (whether or not induced by the individual),
+- (b) the award for the relevant day or the period that includes the relevant day is £0.
+
+(3) In this paragraph “the relevant day” is—
+
+- (a) the day the application is received by the Scottish Ministers, or
+- (b) if applicable, the day nominated by the Scottish Ministers under regulation 5(5).
+
+(4) For the purpose of paragraph (1)(h), the applicant, or the partner of the applicant, is awarded universal credit in respect of the relevant day if—
+
+- (a) the assessment period for their award includes the relevant day, or
+- (b) they had an award of universal credit for the assessment period that ended immediately before the start of the assessment period mentioned in sub-paragraph (a).
+
+(5) In calculating the sum awarded for the purpose of paragraph (2)(b) where a deduction has been made from the award in respect of any liability to another person or by way of a sanction, the sum awarded is the sum that would have been awarded had the deduction not been made.
+
+### 11. Estate of deceased person[^key-0b022d145590ec260c573bb4f8457475]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Assistance to be given
+
+### 12. Calculation and form of funeral expense assistance[^key-63c86efd57dd2d53123d3107020d26e0]
+
+(1) The funeral expense assistance to be given is an amount calculated in accordance with regulation 13, less any applicable deductions provided for by regulation 14.
+
+(2) Funeral expense assistance is to be given as money (subject to paragraph (3)).
+
+(3) If—
+
+- (a) the Scottish Ministers offer to give an individual some or all of the value of funeral assistance in a form other than money, and
+- (b) the individual accepts the offer,
+
+the assistance is to be given in the form offered.
+
+### 13. Amount of funeral expense assistance[^key-7e88b67c15c515fba9484d1b5383d0b5]
+
+(1) The amount of funeral expense assistance is—
+
+- (a) an amount calculated by reference to the costs which the person assisted incurs in arranging the funeral, so far as reasonable and of the types described in paragraphs (2) to (4A)[^key-84bb01b0cd45e83a2f7ea3781661bf72],
+- (b) a payment of £1327.75[^key-af6a80bb34379a15ee25ad29c483d944], except where paragraph (6) applies, and
+- (c) transport costs, so far as reasonable and of the types described in paragraph (7).
+
+(2) The types of funeral costs for which assistance is given are the costs of—
+
+- (a) burial (see paragraph (3)) , cremation (see paragraph 4) or[^key-b30f013e4e859fef49e3f0cc962a6642] [^key-0867b9b3890ada9e578c14b11ac318b4]... hydrolysis (see paragraph (4A)),),
+- (b) if required, any medical references and certificates from a registered medical practitioner, and
+- (c) obtaining any documents to release assets of the deceased person for the purposes of regulation 14 (deductions from an award).
+
+(3) For a burial, the costs are—
+
+- (a) the cost of a new burial plot with a right of burial in it,
+- (b) fees levied by the local authority or person responsible for the operation of burials in the area where the burial takes place,
+- (c) the cost of grave-digging.
+
+(4) For a cremation, the costs are—
+
+- (a) fees levied by the local authority or person responsible for the operation of crematoriums in the area where the cremation takes place,
+- (b) the fee for removal of any active implantable medical device, within the meaning of the Medical Devices Regulations 2002 [^c23844761], subject to a limit of £26.80[^key-faf69d01e66b9ee866d7d3dc55aac907] where the removal is not carried out by a registered medical practitioner.
+
+(4A)[^key-d6f20cad2e4a637e72a542606208b540] For a[^key-b6055f1c744db8c00f6a4e26ff0a7ea1] hydrolysis, the costs are fees levied by the local authority or person responsible for the operation of hydrolyses in the area where the hydrolysis[^key-d41d7c2436326b3e3491b6cc1cc9bce4] takes place.
+
+(5)[^key-cbcffce58232e847659688397130fe6d] Where the place of the funeral is outside the United Kingdom and the cost of the funeral (including transport costs) exceeds those that would have applied had the funeral taken place in the local authority area where the deceased was ordinarily resident, no assistance is to be given for those additional costs.
+
+(6) The payment in paragraph (1)(b) is £162.05[^key-353b704b8b9ad7c17a209ccc95f206e2] where the deceased person—
+
+- (a)[^key-11e00c363feeb2c58f75ddde31eaf54f] has left in place a pre-paid funeral plan or analogous arrangement paid for in full prior to the death of the deceased[^key-a5a0c156e57e53bea4511f9ec14f74ab], and
+- (b) was aged 18 or over on the day of his or her death.
+
+(7) The types of transport costs for which assistance is given are the costs of—
+
+- (a) transport within the United Kingdom from the place where the body is situated to a funeral director's premises, to the deceased person's last residence, or to another place where it is appropriate for the body to lie prior to the funeral, plus a return journey, but not including the first 80 kilometres of travel,
+- (b) subject to paragraph (8), vehicular transport for the coffin and bearers, and one additional vehicle, from the funeral director's premises or place where the body is lying to the funeral, plus a return journey, but not including the first 80 kilometres of travel,
+- (c) one return journey by the person assisted either for the purpose of making arrangements for the funeral or for attendance at the funeral, but not exceeding the cost of a return journey from the person's home to the place of the funeral[^key-cae925344dd906eab10d835827effb49].
+
+(8) Where assistance is given under paragraph (2)(a) for the costs of a funeral[^key-68c37d807d541348ffb31e5fc04da125], no assistance is to be given for transport costs under paragraph (7)(b) unless—
+
+- (a) the distance travelled necessarily exceeds 80 kilometres, or
+- (b) in the case of a burial, where no costs have been incurred for purchase of a burial plot, the distance travelled exceeds 80 kilometres.
+
+### 14. Deductions from an award of funeral expense assistance[^key-eebc2f650e1671feae77fa08830e480c]
+
+(1) There is to be deducted from the amount of funeral expense assistance calculated in accordance with regulation 13 any funds or contributions which are available towards meeting the expense of the funeral from—
+
+- (a) any assets of the deceased person [^key-75cd671cf0dcd0aa3f613d958bf47020]..., but ignoring any assets described in paragraph (3),
+- (b) any [^key-f13c5aa54abf6707438db193bb277302]... insurance policy, burial club, occupational pension scheme, or any similar scheme or arrangement, unless the Scottish Ministers have made a contribution into that [^key-ede5d905c6a9e5a53bd4e54049535e64]... policy, club, scheme or arrangement,
+- (c) a funeral grant, made out of public funds, in respect of the deceased person having been entitled to a war disablement pension within the meaning of section 17 of the State Pension Credit Act 2002,
+- (d)[^key-72e2bb4d3fcc0ff1b8393e6b2c61e60d] a pre-paid funeral plan or analogous arrangement—
+  - (i) where the plan or arrangement has not been paid in full prior to the death of the deceased, the amount of any sum payable under that plan or arrangement, or
+  - (ii) where the plan or arrangement has been paid for in full prior to the death of the deceased, the amount of any sum payable under that plan or arrangement for the types of costs described in regulation 13.
+
+(2) No deduction is to be made under paragraph (1) if the deceased person was under the age of 18 on the day of his or her death.
+
+(3) For the purposes of paragraph (1)(a), the following sums payable to the estate of the deceased person are to be ignored—
+
+- (a) arrears of any benefit under any enactment relating to social security in any part of the United Kingdom,
+- (b) arrears of any assistance provided for by regulations under Parts 2 or 3 of the Social Security (Scotland) Act 2018, or under section 81 (carer's allowance supplement) of that Act.
+
+SHIRLEY-ANNE SOMERVILLE
+
+A member of the Scottish Government
+
+St Andrew's House,
+
+Edinburgh
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for payments to be made to help eligible persons to meet funeral expenses. They are made under the Social Security (Scotland) Act 2018.
+
+Regulation 3 provides that applications are required, except as set out in regulation 4.
+
+Regulation 5 describes the period within which applications can be made.
+
+Regulation 6 provides for re-determination requests, where a person wishes a determination of their entitlement to be looked at again. It sets out the timescales for dealing with such requests.
+
+Part 4 sets out eligibility rules. These rules are based on the closeness of the relationship the applicant had with the deceased person, whether anyone else is seeking assistance and conditions relating to the place of the funeral and whether the applicant or the applicant's partner is in receipt of a qualifying benefit on a date (as described in regulation 10). Regulation 11 provides that no assistance will be provided if the deceased person left assets that are available to cover the cost of the funeral, unless the person was under 18 years old when he or she died.
+
+Part 5 sets out how the amount of funeral expense assistance is to be calculated. It describes deductions that can be made from an award of assistance and sets out circumstances in which no such deduction is to be made.
+
+A Business and Regulatory Impact Assessment has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from the Scottish Government Social Security Directorate, and online at www.legislation.gov.uk.
+
+## Annotations
+
+[^c23844601]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9). The regulation-making powers conferred by the Act include the power to make different provision for different purposes by virtue of section 96(1). The powers to make these Regulations are exercised together by virtue of section 33(2) of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
+
+[^key-c23532e60ba8af1f962de12b9ca33db0]: Commencement: Reg. 1 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^key-c08935d47c3903a5e87ff894c4a3f644]: Commencement: Reg. 2 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^key-6f8258e0421c4d4330f3e3f377a216d4]: Textual amendment: Words in reg. 2 substituted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-9e3bf31383474d9ebcbfa64b72596b2d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2019/292/regulation/2) omitted (2.3.2026) by virtue of [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/ssi/2026/50/regulation/13/2/a)
+
+[^key-cd1cd039eec1403720a91ab598c113bd]: Textual amendment: Words in reg. 2 substituted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-4a53ee76312898ebd1e75e4b40852b23]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2019/292/regulation/2) omitted (2.3.2026) by virtue of [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/ssi/2026/50/regulation/13/2/b)
+
+[^key-01b8b75c0aef8dad1bad5e2912cb3e36]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2019/292/regulation/2) inserted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [13(2)(c)](https://www.legislation.gov.uk/ssi/2026/50/regulation/13/2/c)
+
+[^key-c5c8b3f22da732fcf2074cf3493d9baa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2019/292/regulation/2) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [13(2)(d)](https://www.legislation.gov.uk/ssi/2026/50/regulation/13/2/d)
+
+[^c23844611]: Marginal citation: [1965 c.49](https://www.legislation.gov.uk/ukpga/1965/49), which is amended by section 1(2) of the Still-[Birth (Definition) Act 1992 (c.29)](https://www.legislation.gov.uk/ukpga/1992/29).
+
+[^c23844621]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Schedule 1, paragraph 2 sets out the Scottish bank holidays; it is amended by the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2), [section 1](https://www.legislation.gov.uk/asp/2007/2/section/1).
+
+[^key-2b013d69ef73b4825aa621321af89dd6]: Commencement: Reg. 3 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^key-82bccbcbe388f68f10acc8d19fb582ce]: Textual amendment: Words in reg. 3(5) substituted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/3/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-7a32799bd354a62b73553a78a22f412f]: Textual amendment: Words in reg. 3(5) omitted (2.12.2024) by virtue of [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/3/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-f8b31593fe21d86fe5b5b6b350483952]: Commencement: Reg. 4 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^key-3ffca60e0afaf012a17712aecc65a2e7]: Commencement: Reg. 5 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^key-be047365f4fc89df2560563b68814afd]: Commencement: Reg. 6 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^key-8f9967338fb8386e8e7f532fdd268df2]: Textual amendment: Word in [reg. 6(2)(a)](https://www.legislation.gov.uk/ssi/2019/292/regulation/6/2/a) omitted (9.2.2022) by virtue of [The Social Security (Period for Re-determination Requests) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/469)](https://www.legislation.gov.uk/ssi/2021/469), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/469/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2021/469/regulation/3/2/a)
+
+[^key-58f2fa6b84b1a7e5a694b7c2ddde716f]: Textual amendment: [Reg. 6(2)(c)](https://www.legislation.gov.uk/ssi/2019/292/regulation/6/2/c) and word inserted (9.2.2022) by [The Social Security (Period for Re-determination Requests) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/469)](https://www.legislation.gov.uk/ssi/2021/469), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/469/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2021/469/regulation/3/2/b)
+
+[^key-c1aab005df2019e75805b8cc736e2793]: Commencement: Reg. 7 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^c23844631]: Marginal citation: [2016 asp 20](https://www.legislation.gov.uk/asp/2016/20).
+
+[^key-162702b40ca2de0c5aee796f744218aa]: Commencement: Reg. 8 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^c23844641]: Marginal citation: [S.I. 2005/3061](https://www.legislation.gov.uk/uksi/2005/3061). There are amendments that are not relevant to this regulation.
+
+[^c23844651]: Marginal citation: [S.I. 2005/506](https://www.legislation.gov.uk/uksi/2005/506). There are amendments that are not relevant to this regulation.
+
+[^key-83a6e5502b59136060e045590d3f7b0b]: Commencement: Reg. 9 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^key-25a45be63e557956d358a68718d80b73]: Textual amendment: Reg. 9(2)(b) substituted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-e0d49f0887bb593a3cea12f7664abd88]: Textual amendment: Reg. 9(3)-(3B) substituted for reg. 9(3) (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-9cb4e7203bcbfeaea48c91e263beb7ce]: Textual amendment: Reg. 9(4) omitted (1.4.2021) by virtue of [The Social Security (Up-rating) (Miscellaneous Amendment) (Scotland) Regulations 2021 (S.S.I. 2021/170)](https://www.legislation.gov.uk/ssi/2021/170), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/170/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2021/170/regulation/4/2)
+
+[^c23844671]: Marginal citation: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33). There are amendments to section 115 that are not relevant to these Regulations.
+
+[^c23844681]: Marginal citation: [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636).
+
+[^key-75d65804ebb6cc185e052065c09cc4a7]: Commencement: Reg. 10 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^c23844691]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
+
+[^c23844701]: Marginal citation: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^c23844711]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^key-c834104e108cffb2bebc1c8fe3d718b1]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/ssi/2019/292/regulation/10/1/d) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/4/2) (with [reg. 12](https://www.legislation.gov.uk/ssi/2025/195/regulation/12))
+
+[^key-536b3e5829af19731ee37b1b2d49ba35]: Textual amendment: [Reg. 10(1)(e)](https://www.legislation.gov.uk/ssi/2019/292/regulation/10/1/e) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/4/2) (with [reg. 12](https://www.legislation.gov.uk/ssi/2025/195/regulation/12))
+
+[^c23844741]: Marginal citation: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
+
+[^c23844751]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
+
+[^key-0b022d145590ec260c573bb4f8457475]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2019/292/regulation/11) omitted (2.12.2024) by virtue of [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-63c86efd57dd2d53123d3107020d26e0]: Commencement: Reg. 12 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^key-7e88b67c15c515fba9484d1b5383d0b5]: Commencement: Reg. 13 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^key-84bb01b0cd45e83a2f7ea3781661bf72]: Textual amendment: Word in reg. 13(1)(a) substituted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/6/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-af6a80bb34379a15ee25ad29c483d944]: Textual amendment: Sum in reg. 13(1)(b) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2026/170/regulation/5/a) (with [sch. para. 3](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/3))
+
+[^key-b30f013e4e859fef49e3f0cc962a6642]: Textual amendment: Words in reg. 13(2)(a) substituted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-0867b9b3890ada9e578c14b11ac318b4]: Textual amendment: Words in [reg. 13(2)(a)](https://www.legislation.gov.uk/ssi/2019/292/regulation/13/2/a) omitted (2.3.2026) by virtue of [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/ssi/2026/50/regulation/13/3/a)
+
+[^c23844761]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618).
+
+[^key-faf69d01e66b9ee866d7d3dc55aac907]: Textual amendment: Sum in reg. 13(4)(b) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2026/170/regulation/5/b) (with [sch. para. 3](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/3))
+
+[^key-d6f20cad2e4a637e72a542606208b540]: Textual amendment: Reg. 13(4A) inserted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/6/c) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-b6055f1c744db8c00f6a4e26ff0a7ea1]: Textual amendment: Word in [reg. 13(4A)](https://www.legislation.gov.uk/ssi/2019/292/regulation/13/4A) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [13(3)(b)(i)](https://www.legislation.gov.uk/ssi/2026/50/regulation/13/3/b/i)
+
+[^key-d41d7c2436326b3e3491b6cc1cc9bce4]: Textual amendment: Words in [reg. 13(4A)](https://www.legislation.gov.uk/ssi/2019/292/regulation/13/4A) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [13(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2026/50/regulation/13/3/b/ii)
+
+[^key-cbcffce58232e847659688397130fe6d]: Textual amendment: Reg. 13(5) substituted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/6/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-353b704b8b9ad7c17a209ccc95f206e2]: Textual amendment: Sum in reg. 13(6) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [5(c)](https://www.legislation.gov.uk/ssi/2026/170/regulation/5/c) (with [sch. para. 3](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/3))
+
+[^key-11e00c363feeb2c58f75ddde31eaf54f]: Textual amendment: Reg. 13(6)(a) substituted (1.4.2020) by [The Funeral Expense Assistance and Young Carer Grants (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/99)](https://www.legislation.gov.uk/ssi/2020/99), [regs. 1](https://www.legislation.gov.uk/ssi/2020/99/regulation/1), [5(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/99/regulation/5/3/c/ii) (with [reg. 6(1)(b)](https://www.legislation.gov.uk/ssi/2020/99/regulation/6/1/b)[(2)](https://www.legislation.gov.uk/ssi/2020/99/regulation/6/2)[(3)](https://www.legislation.gov.uk/ssi/2020/99/regulation/6/3))
+
+[^key-a5a0c156e57e53bea4511f9ec14f74ab]: Textual amendment: Words in reg. 13(6)(a) substituted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(6)(e)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/6/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-cae925344dd906eab10d835827effb49]: Textual amendment: Words in reg. 13(7)(c) substituted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(6)(f)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/6/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-68c37d807d541348ffb31e5fc04da125]: Textual amendment: Word in reg. 13(8) substituted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(6)(g)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/6/g) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-eebc2f650e1671feae77fa08830e480c]: Commencement: Reg. 14 in force at 16.9.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/292/regulation/1)
+
+[^key-75cd671cf0dcd0aa3f613d958bf47020]: Textual amendment: Words in reg. 14(1)(a) omitted (2.12.2024) by virtue of [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/7/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))
+
+[^key-f13c5aa54abf6707438db193bb277302]: Textual amendment: Words in reg. 14(1)(b) omitted (1.4.2020) by virtue of [The Funeral Expense Assistance and Young Carer Grants (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/99)](https://www.legislation.gov.uk/ssi/2020/99), [regs. 1](https://www.legislation.gov.uk/ssi/2020/99/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2020/99/regulation/5/4/a)
+
+[^key-ede5d905c6a9e5a53bd4e54049535e64]: Textual amendment: Word in reg. 14(1)(b) omitted (1.4.2020) by virtue of [The Funeral Expense Assistance and Young Carer Grants (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/99)](https://www.legislation.gov.uk/ssi/2020/99), [regs. 1](https://www.legislation.gov.uk/ssi/2020/99/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2020/99/regulation/5/4/b)
+
+[^key-72e2bb4d3fcc0ff1b8393e6b2c61e60d]: Textual amendment: Reg. 14(1)(d) inserted (2.12.2024) by [The Funeral Expense Assistance (Scotland) Amendment Regulations 2024 (S.S.I. 2024/363)](https://www.legislation.gov.uk/ssi/2024/363), [regs. 1](https://www.legislation.gov.uk/ssi/2024/363/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2024/363/regulation/2/7/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/363/regulation/3))

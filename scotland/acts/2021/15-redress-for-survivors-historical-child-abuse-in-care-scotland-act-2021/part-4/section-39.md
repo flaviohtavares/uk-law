@@ -1,0 +1,56 @@
+---
+title: Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021, section 39
+act: Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021
+section: '39'
+status: revised
+text_date: '2022-02-09'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2021/15/section/39
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021, section 39
+
+> Text as at 2022-02-09.
+>
+> Extent: Scotland.
+
+## 39. Individually assessed payment[^key-d3747900d3522b3a7b63935f42347483]
+
+*Extent: S*
+
+(1) An individually assessed payment is a payment, based on an assessment of the matters raised by an application, of—
+
+- (a) the fixed rate payment, and
+- (b) if the panel appointed under section 35 to determine the application considers a further sum to be appropriate, the further sum of—
+  - (i) £10,000,
+  - (ii) £30,000,
+  - (iii) £50,000,
+  - (iv) £70,000, or
+  - (v) £90,000,
+
+  as the panel considers appropriate.
+
+(2) Accordingly, depending on what (if any) further sum is considered appropriate, an individually assessed payment is a payment in total of—
+
+- (a) £10,000 for a fixed rate payment,
+- (b) £20,000 (a level 1 payment),
+- (c) £40,000 (a level 2 payment),
+- (d) £60,000 (a level 3 payment),
+- (e) £80,000 (a level 4 payment), or
+- (f) £100,000 (a level 5 payment).
+
+(3) But where—
+
+- (a) a fixed rate payment has previously been paid to an applicant, no further fixed rate payment is payable to that applicant when determining an application for an individually assessed payment made by virtue of section 30(2),
+- (b) the application is an application for an individually assessed payment made by virtue of section 30(3), any redress payment (other than a next of kin payment) which has previously been paid to the applicant is to be deducted from the individually assessed payment for which the applicant is eligible.
+
+(4) In considering what further sum, if any, is appropriate for the purpose of subsection (1)(b), the panel—
+
+- (a) must have regard to the nature, severity, frequency and duration of the abuse to which the application relates, and
+- (b) may have regard to any other matter it considers relevant.
+
+## Annotations
+
+[^key-d3747900d3522b3a7b63935f42347483]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2021/15/section/39) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

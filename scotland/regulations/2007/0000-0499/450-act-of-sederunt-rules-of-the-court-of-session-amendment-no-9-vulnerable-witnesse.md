@@ -1,0 +1,272 @@
+---
+title: Act of Sederunt (Rules of the Court of Session Amendment No. 9) (Vulnerable Witnesses (Scotland) Act 2004) 2007
+id: ssi/2007/450
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2007-10-04'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2007/450
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2007/450/pdfs/ssi_20070450_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/450/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Rules of the Court of Session Amendment No. 9) (Vulnerable Witnesses (Scotland) Act 2004) 2007
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2007 No. 450
+
+COURT OF SESSION
+
+Act of Sederunt (Rules of the Court of Session Amendment No. 9) (Vulnerable Witnesses (Scotland) Act 2004) 2007
+
+Made
+
+4th October 2007
+
+Coming into force
+
+1st November 2007
+
+The Lords of Council and Session, under and by virtue of the powers conferred by section 5 of the Court of Session Act 1988[^f00001], and of all other powers enabling them in that behalf, do hereby enact and declare:
+
+## 1. Citation and commencement
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session Amendment No. 9) (Vulnerable Witnesses (Scotland) Act 2004) 2007 and shall come into force on 1st November 2007.
+
+(2) This Act of Sederunt shall be inserted in the Books of Sederunt.
+
+## 2. Amendment of the Rules of the Court of Session
+
+(1) The Rules of the Court of Session 1994[^f00002] shall be amended in accordance with the following sub-paragraphs.
+
+(2) After Chapter 35 (recovery of evidence) there shall be inserted the following:–
+
+> **CHAPTER 35A — VULNERABLE WITNESSES (SCOTLAND) ACT 2004**
+>
+> **35A.1. Interpretation**
+>
+> In this Chapter–
+>
+> - “the Act of 2004” means the Vulnerable Witness (Scotland) Act 2004[^f00003];
+> - “child witness notice” has the meaning given in section 12(2) of the Act of 2004;
+> - “review application” means an application for review of arrangements for vulnerable witnesses pursuant to section 13 of the Act of 2004;
+> - “vulnerable witness application” has the meaning given in section 12(6) of the Act of 2004.
+>
+> **35A.2. Child Witness Notice**
+>
+> A child witness notice lodged in accordance with section 12(2) of the Act of 2004 shall be in Form 35A.2.
+>
+> **35A.3. Vulnerable Witness Application**
+>
+> A vulnerable witness application lodged in accordance with section 12(6) of the Act of 2004 shall be in Form 35A.3.
+>
+> **35A.4. Intimation**
+>
+> (1) The party lodging a child witness notice or vulnerable witness application shall intimate a copy of the child witness notice or vulnerable witness application to all the other parties to the proceedings and complete a certificate of intimation.
+>
+> (2) A certificate of intimation referred to in paragraph (1) shall be in Form 35A.4 and shall be lodged with the child witness notice or vulnerable witness application.
+>
+> **35A.5. Procedure on lodging child witness notice or vulnerable witness application**
+>
+> (1) On receipt of a child witness notice or vulnerable witness application, the Lord Ordinary may–
+>
+> - (a) make an order under section 12(1) or (6) of the Act of 2004 without holding a hearing;
+> - (b) require further information from any of the parties before making any further order;
+> - (c) fix a date for a hearing of the child witness notice or vulnerable witness application.
+>
+> (2) The Lord Ordinary may, subject to any statutory time limits, make an order altering the date of the proof or other hearing at which the child or vulnerable witness is to give evidence and make such provision for intimation of such alteration to all parties concerned as he deems appropriate.
+>
+> (3) An order fixing a hearing for a child witness notice or vulnerable witness application shall be intimated by the Deputy Principal Clerk–
+>
+> - (a) on the day the order is made; and
+> - (b) in such manner as may be prescribed by the Lord Ordinary,
+>
+> to all parties to the proceedings and such other persons as are named in the order where such parties or persons are not present at the time the order is made.
+>
+> **35A.6. Review of arrangements for vulnerable witnesses**
+>
+> (1) A review application shall be in Form 35A.6.
+>
+> (2) Where the review application is made orally, the Lord Ordinary may dispense with the requirements of paragraph (1).
+>
+> **35A.7. Intimation of review application**
+>
+> (1) Where a review application is lodged, the applicant shall intimate a copy of the review application to all other parties to the proceedings and complete a certificate of intimation.
+>
+> (2) A certificate of intimation referred to in paragraph (1) shall be in Form 35A.7 and shall be lodged together with the review application.
+>
+> **35A.8. Procedure on lodging a review application**
+>
+> (1) On receipt of a review application, a Lord Ordinary may–
+>
+> - (a) if he is satisfied that he may properly do so, make an order under section 13(2) of the Act of 2004 without holding a hearing or, if he is not so satisfied, make such an order after giving the parties an opportunity to be heard;
+> - (b) require of any of the parties further information before making any further order;
+> - (c) fix a date for a hearing of the review application.
+>
+> (2) The Lord Ordinary may, subject to any statutory time limits, make an order altering the date of the proof or other hearing at which the child or vulnerable witness is to give evidence and make such provision for intimation of such alteration to all parties concerned as he deems appropriate.
+>
+> (3) An order fixing a hearing for a review application shall be intimated by the Deputy Principal Clerk–
+>
+> - (a) on the day the order is made; and
+> - (b) in such manner as may be prescribed by the Lord Ordinary,
+>
+> to all parties to the proceedings and such other persons as are named in the order where such parties or persons are not present at the time the order is made.
+>
+> **35A.9. Determination of special measures**
+>
+> When making an order under section 12(1) or (6) or 13(2) of the Act of 2004 a Lord Ordinary may, in light thereof, make such further orders as he deems appropriate in all the circumstances.
+>
+> **35A.10. Intimation of an order under section 12(1) or (6) or 13(2)**
+>
+> An order under section 12(1) or (6) or 13(2) of the Act of 2004 shall be intimated by the Deputy Principal Clerk–
+>
+> - (a) on the day the order is made; and
+> - (b) in such manner as may be prescribed by the Lord Ordinary,
+>
+> to all parties to the proceedings and such other persons as are named in the order where such parties or persons are not present at the time the order is made.
+>
+> **35A.11. Taking of evidence by commissioner**
+>
+> (1) An interlocutor authorising the special measure of taking evidence by a commissioner shall be sufficient authority for the citing the vulnerable witness to appear before the commissioner.
+>
+> (2) A vulnerable witness shall be cited to give evidence at a commission by service on him of a citation in Form 35.11-A–
+>
+> - (a) by registered post or the first class recorded delivery service; or
+> - (b) personally, by a messenger-at-arms.
+>
+> (3) The certificate of citation of a witness–
+>
+> - (a) under paragraph 2(a) shall be in Form 35.11-B; and
+> - (b) under paragraph 2(b) shall be in Form 35.11-C.
+>
+> (4) The agent for a party, or a party litigant, as the case may be, shall be personally liable in the first instance for the fees and expenses of a witness cited to appear at a commission for that party.
+>
+> (5) At the commission the commissioner shall–
+>
+> - (a) administer the oath de fideli administratione to the clerk appointed for the commission; and
+> - (b) administer to the witness the oath in Form 35.4-D, or where the witness elects to affirm, the affirmation in Form 35.4-E.
+>
+> (3) Where a commission is granted as a special measure, the court may, on the motion of any party and on cause shown, dispense with interrogatories.
+>
+> **35A.12. Commission on interrogatories**
+>
+> (1) Where interrogatories have not been dispensed with, the party citing or intending to cite the vulnerable witness shall lodge draft interrogatories to be adjusted at the sight of the clerk of court.
+>
+> (2) Any other party may lodge cross-interrogatories to be adjusted at the sight of the clerk of court.
+>
+> (3) The interrogatories and cross-interrogatories, when adjusted, shall be extended and returned to the clerk of court for approval.
+>
+> (4) The party who cited the vulnerable witness shall–
+>
+> - (a) provide the commissioner with a copy of the pleadings (including any adjustments and amendments), the approved interrogatories and any cross-interrogatories and a certified copy of the interlocutor of his appointment;
+> - (b) instruct the clerk; and
+> - (c) be responsible in the first instance for the fee of the commissioner and his clerk.
+>
+> (5) The commissioner shall, in consultation with the parties, fix a diet for the execution of the commission to examine the witness.
+>
+> **35A.13. Commission without interrogatories**
+>
+> (1) Where interrogatories have been dispensed with, the party citing or intending to cite the vulnerable witness shall–
+>
+> - (a) provide the commissioner with a copy of the pleadings (including any adjustments and amendments) and a certified copy of the interlocutor of his appointment;
+> - (b) fix a diet for the execution of the commission in consultation with the commissioner and every other party;
+> - (c) instruct the clerk; and
+> - (d) be responsible in the first instance for the fees of the commissioner and his clerk.
+>
+> (2) All parties shall be entitled to be represented by counsel or other person having a right of audience, or agent, at the execution of the commission.
+>
+> **34A.14. Lodging of video record and documents**
+>
+> (1) Where evidence is taken on commission pursuant to an order made under section 12(1) or (6) or 13(2) of the Act of 2004 the commissioner shall lodge the video record of the commission and relevant documents with the Deputy Principal Clerk.
+>
+> (2) Not later than the day after the date on which the video record and any documents are received by the Deputy Principal Clerk, he shall–
+>
+> - (a) note–
+>   - (i) the documents lodged;
+>   - (ii) by whom they were lodged; and
+>   - (iii) the date on which they were lodged, and
+> - (b) give written intimation of what he has noted to all parties concerned.
+>
+> **35A.15. Custody of video record and documents**
+>
+> (1) The video record and documents referred to in rule 35A.14 shall, subject to paragraph (2), be kept in the custody of the Deputy Principal Clerk.
+>
+> (2) Where the video record of the evidence of a witness is in the custody of the Deputy Principal Clerk under this rule and where intimation has been given to that effect under rule 35A.14(2), the name and address of that witness and the record of his evidence shall be treated as being in the knowledge of the parties; and no party shall be required, notwithstanding any enactment to the contrary–
+>
+> - (a) to include the name of that witness in any list of witnesses; or
+> - (b) to include the record of his evidence in any list of productions.
+>
+> **35A.16. Application for leave for party to be present at the commission**
+>
+> An application for leave for a party to be present in the room where the commission proceedings are taking place shall be by motion.
+
+.
+
+(3) In the Appendix–
+
+- (a) after Form 35.16-C[^f00004], there shall be inserted the forms set out in Part 1 of the Schedule to this Act of Sederunt;
+- (b) for Form 36.2-A[^f00005], there shall be substituted the form set out in Part 2 of the Schedule to this Act of Sederunt.
+
+A C HAMILTON
+
+Lord President, I.P.D.
+
+Edinburgh
+
+4th October 2007
+
+## SCHEDULE
+
+Paragraph 2(3)
+
+### Part 1
+
+#### FORM 35A.2 — Form of child witness notice
+
+[image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_001) [image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_002)
+
+### FORM 35A.3 — Form of vulnerable witness application
+
+[image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_003) [image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_004)
+
+### FORM 35A.4 — Form of certificate of intimation
+
+[image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_005)
+
+### FORM 35A.6 — Form of application for review
+
+[image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_006) [image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_007)
+
+### FORM 35A.7 — Form of certificate of intimation
+
+[image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_008)
+
+### Part 2
+
+#### FORM 36.2-A — Form of citation of witness to proof or jury trial
+
+[image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_009) [image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_010) [image: see source](https://www.legislation.gov.uk/ssi/2007/450/images/ssi_20070450_en_011)
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt makes amendments to the Rules of the Court of Session 1994 (S.I. [1994/1443](https://www.legislation.gov.uk/uksi/1994/1443)). These amendments are a consequence of the implementation of the [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3) to civil proceedings. A new Chapter 35A is inserted to provide procedure and forms for dealing with child witness notices, vulnerable witness applications and applications to review orders specifying the special measures to be used when taking evidence from a vulnerable witness. It also sets out the procedure for the special measure of taking evidence by a commissioner. The witness citation form is also amended to give a witness some information about the possibility of giving evidence with a special measure if they are a vulnerable witness.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36); section 5 was amended by the Civil Evidence (Scotland) Act [1988 c. 32](https://www.legislation.gov.uk/ukpga/1988/32), section 2(3), the Children (Scotland) Act [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 45 and by the [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(1).
+
+[^f00002]: Footnote: S.I. [1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2007/449](https://www.legislation.gov.uk/ssi/2007/449)
+
+[^f00003]: Footnote: [2004 asp 3](https://www.legislation.gov.uk/asp/2004/3).
+
+[^f00004]: Footnote: Form 35.16-C was inserted by [S.S.I. 2004/514](https://www.legislation.gov.uk/ssi/2004/514).
+
+[^f00005]: Footnote: Form 36.2-A was amended by S.I. [1994/2901](https://www.legislation.gov.uk/uksi/1994/2901).

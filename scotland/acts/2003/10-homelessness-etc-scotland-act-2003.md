@@ -1,0 +1,419 @@
+---
+title: Homelessness etc. (Scotland) Act 2003
+id: asp/2003/10
+type: ScottishAct
+category: primary
+status: revised-with-pending-changes
+made_date: '2003-04-09'
+text_date: '2019-11-07'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2003/10
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2003/10/pdfs/aspen_20030010_en.pdf
+- http://www.legislation.gov.uk/asp/2003/10/pdfs/asp_20030010_en.pdf
+- http://www.legislation.gov.uk/asp/2003/10/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Homelessness etc. (Scotland) Act 2003
+
+> **Warning: changes not yet applied to this text (1).** Text as at 2019-11-07. See https://www.legislation.gov.uk/changes/affected/asp/2003/10
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Homelessness etc. (Scotland) Act 2003
+
+2003 asp 10
+
+An Act of the Scottish Parliament to make further provision about homelessness; to provide for the giving of notice to local authorities of proceedings for possession and enforcement of standard securities; to amend section 18 of the Housing (Scotland) Act 1988 in relation to recovery of possession of assured tenancies for non-payment of rent; and for connected purposes.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 5th March 2003 and received Royal Assent on 9th April 2003
+
+## Homelessness: priority need for accommodation
+
+### 1. Amendment of section 25 of the 1987 Act[^key-c550e11c2c38465c91a23fa6501a65ba][^key-b6fe7ac88be7d3443a8dfcda1cf8fb02]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2. Abolition of priority need test[^key-e1ab315650837503f4da55480465ef1d]
+
+(1) From such day as the Scottish Ministers may by order made by statutory instrument appoint, the question whether an applicant has a priority need is to be left out of account in determining the duties of a local authority under—
+
+- (a) section 31 (duties to persons found to be homeless), and
+- (b) section 32 (duties to persons found to be threatened with homelessness),
+
+of the 1987 Act.
+
+(2) The day to be appointed under subsection (1) is the earliest day on which, in the view of the Scottish Ministers, all local authorities can reasonably be expected to perform the duties under sections 31 and 32 of the 1987 Act as modified by that subsection.
+
+(3) An order under subsection (1) may make—
+
+- (a) such modifications of Part II of the 1987 Act and any other enactment, and
+- (b) such incidental, supplemental, consequential, transitional, transitory or saving provision,
+
+as the Scottish Ministers think necessary or expedient in consequence or for the purposes of that subsection.
+
+(4) Except where subsection (5) applies, a statutory instrument containing an order under subsection (1) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(5) No order under subsection (1) containing provisions which add to, replace or omit any part of the text of an Act is to be made unless a draft of it has been laid before, and approved by resolution of, the Parliament.
+
+### 3. Statement on abolition of priority need test[^key-c28aa7e794f79008eab299ac2bd97a9f][^key-4cd88198f785f9aef77332c0b74a3f77]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Intentional homelessness
+
+### 4. Inquiries as to intentional homelessness[^key-f2efcdff37d795cc1156d709310373b9]
+
+(1) In section 28(2) (further inquiries in cases of homelessness or threatened homelessness) of the 1987 Act, for the words from “shall” to “(b)” substitute—
+
+> [^key-3b788d88487c6e95d6ce1cb380a38034]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> - (b) may, if they think fit, make any further inquiries necessary to satisfy themselves as to
+
+.
+
+(2) In section 30(3)(a) (notification of decision on intentional homelessness) of that Act, at the beginning insert “where they have made inquiries under section 28(2)(b),”.
+
+### 5. Accommodation for intentionally homeless persons with priority need[^key-e9cdfd42913c507061ea94487dd335d0]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Intentionally homeless persons: short Scottish secure tenancies[^key-3519db4974c8e6a97bba75481fc60a4f]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Local connection
+
+### 7. Application of section 27 of the 1987 Act to refugees[^key-22e0281d02d328518350aed01199bede]
+
+In section 27(2)(a) (circumstances in which residence in a district is not of a person’s own choice) of the 1987 Act, after sub-paragraph (ii) insert
+
+> or
+>
+> - (iii) was resident in accommodation provided in pursuance of section 95 (provision of support for asylum-seekers and dependants) of the Immigration and Asylum Act 1999 (c. 33),
+
+.
+
+## Restriction of power of referral
+
+### 8. Power to modify section 33 of the 1987 Act[^key-929218cce3c02b7f17099197559dae0f]
+
+After section 33 (referral of application to another local authority) of the 1987 Act insert—
+
+> **33A. Power to modify section 33**
+>
+> (1) The Scottish Ministers may by order made by statutory instrument provide that, for so long as the order is in force, the power of a local authority under subsection (1) of section 33 to notify another local authority of the matters referred to in that subsection—
+>
+> - (a) shall not be exercisable by such local authorities or such descriptions of local authority as are specified in the order, or shall be exercisable by such local authorities or descriptions of local authority as are specified in the order only in such circumstances, or with such modifications, as are specified in the order;
+> - (b) shall not be exercisable in relation to such local authorities or such descriptions of local authority as are specified in the order, or shall be exercisable in relation to such local authorities or descriptions of local authority as are specified in the order only in such circumstances, or with such modifications, as are specified in the order.
+>
+> (2) An order under this section may—
+>
+> - (a) provide for this Part to apply with such modifications, and
+> - (b) make such transitional, transitory or saving provision,
+>
+> as the Scottish Ministers think necessary or expedient in consequence of the order.
+>
+> (3) A statutory instrument containing an order under this section is, if made without a draft having been laid before, and approved by a resolution of, the Scottish Parliament, subject to annulment in pursuance of a resolution of the Scottish Parliament.
+>
+> **33B. Statement on exercise of power to modify section 33**
+>
+> (1) The Scottish Ministers must, before the expiry of the period of 12 months beginning with the coming into force of this section, prepare and publish a statement setting out the circumstances in which, and the general criteria by reference to which, the power under section 33A is to be exercised.
+>
+> (2) The Scottish Ministers—
+>
+> - (a) must keep the statement under review;
+> - (b) may from time to time modify the statement; and
+> - (c) must publish any modified statement.
+>
+> (3) Before preparing or modifying the statement, the Scottish Ministers must consult—
+>
+> - (a) such associations representing local authorities; and
+> - (b) such other persons,
+>
+> as they think fit.
+
+## Homeless persons: accommodation
+
+### 9. Suitability of accommodation for homeless persons[^key-3ec72d31afd04f5972b6f7a82009ff63]
+
+(1) In section 29 (interim duty to accommodate) of the 1987 Act—
+
+- (a) in subsection (1), after paragraph (b) insert—
+
+  > - (c) where, by virtue of a decision referred to in paragraph (a) or (b), the authority have a duty under section 31 to secure that accommodation of a particular description becomes available for the applicant’s occupation, until such accommodation becomes available.
+
+  ,
+- (b) after subsection (2) insert—
+
+  > (3) In subsection (1), “accommodation”, in the first place where the expression occurs, does not include accommodation of such description as the Scottish Ministers may, by order made by statutory instrument, specify.
+  >
+  > (4) Such an order may—
+  >
+  > - (a) specify any description of accommodation subject to conditions or exceptions,
+  > - (b) make different provision for different purposes and different areas.
+  >
+  > (5) A statutory instrument containing an order under subsection (3) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(2) In section 32(8) (duty to have regard to best interests of dependent children) of the 1987 Act, at the end insert “and shall, without prejudice to subsection (5) above and section 41, ensure that accommodation provided for such a person’s occupation is suitable for occupation by such children, so far as consistent with their best interests”.
+
+## Persons at risk of domestic abuse
+
+### 10. Persons at risk of domestic abuse[^key-0402ba26d6e753ab026865d59446f1f6]
+
+(1) In section 20(2)(aa)(vi) of the 1987 Act (which provides that no account is to be taken, in the allocation of housing, of whether the applicant is resident in the area of a local authority or registered social landlord if the applicant runs the risk of domestic violence), for “violence” substitute “abuse”.
+
+(2) In section 24(3) of that Act (circumstances in which a person with accommodation is homeless)—
+
+- (a) in paragraph (b), for the words from “violence”, in the first place where it occurs, to the end substitute “abuse (within the meaning of the Protection from Abuse (Scotland) Act 2001 (asp 14)),”,
+- (b) in paragraph (bb), for sub-paragraphs (i) and (ii) substitute “abuse (within the meaning of that Act)”.
+
+(3) In section 33 of that Act (referral of applications from homeless persons to another local authority)—
+
+- (a) in subsection (2)(c), for “violence” substitute “abuse”,
+- (b) in subsection (3)—
+  - (i) for “violence” in the first and third places where it occurs substitute “abuse”,
+  - (ii) for “violence” in the second place where it occurs substitute “abuse (within the meaning of the Protection from Abuse (Scotland) Act 2001 (asp 14))”,
+  - (iii) paragraph (b) and the word “or” immediately preceding it are repealed.
+
+## Notices to local authorities
+
+### 11. Notice to local authorities of proceedings for possession and enforcement of standard securities[^key-b10cc474cb8861567930f5dd2eabaf6e][^key-db0ac182232f7b6b4ad9ec4717da72a1]
+
+(1) Where a landlord raises proceedings for possession of a dwellinghouse, the landlord must give notice of the raising of the proceedings to the local authority in whose area the dwellinghouse is situated, unless the landlord—
+
+- (a) is the local authority, or
+- (b) is required to give such notice to the local authority under any other enactment.
+
+(2) The schedule to this Act (which makes modifications of enactments for the purpose of requiring that local authorities are given notice of certain proceedings for possession of houses and of steps taken to enforce certain standard securities) has effect.
+
+(3)[^key-e788867d8da80d4f11e36a11614578d3] The Scottish Ministers may by regulations made by statutory instrument prescribe—
+
+- (a) the forms of notices to be given under subsection (1) and under the enactments specified in subsection (5) (which include[^key-735ae811125f434bffd551776c7de6b8] the enactments modified by the schedule to this Act), and
+- (b) the manner in which such notices are to be given.
+
+(4) Such regulations may make different provision in relation to different such notices.
+
+(5) The enactments referred to in subsection (3)(a) are—
+
+- (za)[^key-802cb227eb4ca1d20bde8060135d55fa] section 5A(2)(c) (notice to local authority of proceedings to eject proprietor in personal occupancy) of the Heritable Securities (Scotland) Act 1894 (c. 44),
+- (a) section 19B(1) (notice to local authority of calling-up of standard security) of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35),
+- (b) section 24(3)(c) (notice to local authority of application to court for remedies on default of standard security) of that Act,
+- (c) section 12A(1) (notice to local authority of proceedings for possession of dwelling-house let on protected tenancy or subject to statutory tenancy) of the Rent (Scotland) Act 1984 (c. 58),
+- (d) section 19A(1) (notice to local authority of proceedings for possession of house let on assured tenancy) of the Housing (Scotland) Act 1988 (c. 43),
+- (e) section 14(5A) (notice to local authority of proceedings for possession of house let on Scottish secure tenancy) of the 2001 Act,
+- (f) section 36(6A) (notice to local authority of proceedings for possession of house let on short Scottish secure tenancy) of that Act,
+- (fa)[^key-4339ffed81d67fed087f9a9c8a24dbe6] section 245ZA(2) of the Proceeds of Crime Act 2002 (notice to local authority of application for decree of removing and warrant for ejection),
+- (g)[^key-155e9afa56f81d7b8bf36c5bef65b95d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^key-dd961d13951a08a4f3bbd79c400da8de] section 56 of the Private Housing (Tenancies) (Scotland) Act 2016.
+
+(6) A statutory instrument containing regulations under subsection (3) is subject to annulment in pursuance of a resolution of the Parliament.
+
+(7) In section 79 (issue of guidance by the Scottish Ministers) of the 2001 Act, in subsection (2), after paragraph (b) insert—
+
+> - (ba) the action which should be taken by local authorities on receipt of notices under—
+>   - (i) subsection (1) of section 11 of the Homelessness etc. (Scotland) Act 2003 (asp 10),
+>   - (ii) the enactments specified in subsection (5) of that section,
+
+.
+
+(8) In subsection (1)—
+
+- “**dwellinghouse**” means any building, or part of a building, which is occupied or intended to be occupied as a separate dwelling, and in particular includes a flat,
+- “**proceedings for possession**” means any proceedings in which decree of removing or warrant of ejection or other like order is sought.
+
+(9) This section binds the Crown.
+
+## Assured tenancies: recovery of possession
+
+### 12. Assured tenancies: recovery of possession for non-payment of rent[^key-ec22a31474cf3159cecd0658ff49cdbe]
+
+(1) Section 18 (orders for possession) of the Housing (Scotland) Act 1988 (c. 43) is amended as follows.
+
+(2) In subsection (3), for “subsection (6)” substitute “subsections (3A) and (6)”.
+
+(3) After that subsection, insert—
+
+> (3A) If the sheriff is satisfied—
+>
+> - (a) that Ground 8 in Part I of Schedule 5 to this Act is established; and
+> - (b) that rent is in arrears as mentioned in that Ground as a consequence of a delay or failure in the payment of relevant housing benefit,
+>
+> he shall not make an order for possession unless he considers it reasonable to do so.
+
+(4) After subsection (4) insert—
+
+> (4A) In considering for the purposes of subsection (4) above whether it is reasonable to make an order for possession on Ground 11 or 12 in Part II of Schedule 5 to this Act, the sheriff shall have regard, in particular, to the extent to which any delay or failure to pay rent taken into account by the sheriff in determining that the Ground is established is or was a consequence of a delay or failure in the payment of relevant housing benefit.
+
+(5) At the end insert—
+
+> (8) In subsections (3A) and (4A) above—
+>
+> - (a) “**relevant housing benefit**” means—
+>   - (i) any rent allowance or rent rebate to which the tenant was entitled in respect of the rent under the Housing Benefit (General) Regulations 1987 (S.I. 1987/1971); or
+>   - (ii) any payment on account of any such entitlement awarded under Regulation 91 of those Regulations;
+> - (b) references to delay or failure in the payment of relevant housing benefit do not include such delay or failure so far as referable to any act or omission of the tenant.
+
+(6) In section 20 (extended discretion of court in possession claims) of that Act, in subsection (6), at the end insert “except Ground 8 in a case where the sheriff is satisfied as mentioned in section 18(3A) above”.
+
+## General
+
+### 13. Interpretation
+
+(1) In this Act—
+
+- “**the 1987 Act**” means the Housing (Scotland) Act 1987 (c. 26),
+- “**the 2001 Act**” means the Housing (Scotland) Act 2001 (asp 10).
+
+(2) Except where the context otherwise requires, any word or expression used in section 2 or 3 of this Act and in Part II of the 1987 Act has the same meaning in that section as it has for the purposes of that Part.
+
+### 14. Commencement and short title
+
+(1) Except for section 13 and this section, the provisions of this Act come into force on such day as the Scottish Ministers may by order made by statutory instrument appoint.
+
+(2) Different days may be appointed under this section for different purposes.
+
+(3) An order under this section may contain such transitional, transitory and saving provision as the Scottish Ministers think necessary or expedient in connection with the provisions brought into force by the order.
+
+(4) This Act may be cited as the Homelessness etc. (Scotland) Act 2003.
+
+## SCHEDULE — Notice to local authorities of proceedings for possession and steps for enforcement of standard securities: modification of enactments
+
+(introduced by section 11)
+
+**1.**[^M_I_366c1e9e-6876-451f-8002-cdbf8280e085][^M_I_4008c065-bb37-4901-c0a4-9508ad07b1be] (1) The Conveyancing and Feudal Reform (Scotland) Act 1970 is amended as follows.
+
+(2) After section 19A (notice to occupier of calling-up), insert—
+
+> **19B. Notice to local authority of calling-up**
+>
+> (1) Where a creditor in a standard security over an interest in land used to any extent for residential purposes serves a calling-up notice, the creditor shall give notice of that fact to the local authority in whose area the security subjects are situated, unless the creditor is that local authority.
+>
+> (2) Notice under subsection (1) shall be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003 (asp 10).
+
+(3) In section 21 (notice of default), in subsection (2A)—
+
+- (a) for “Section 19A of this Act applies” substitute , “ “Sections 19A and 19B of this Act apply” ”
+- (b) for “it applies” substitute “they apply”.
+
+(4) In section 24 (application by creditor to court for remedies on default)—
+
+- (a) in subsection (3)—
+  - (i) at the end of paragraph (a), the word “and” is repealed, and
+  - (ii) at the end insert
+
+    > , and
+    >
+    > - (c) give notice of the application to the local authority in whose area the security subjects are situated, unless the creditor is that local authority.
+
+    ,
+- (b) in subsection (4), for “(3)” substitute , “ “(3)(a) or (b)” ”
+- (c) after subsection (4), insert—
+
+  > (4A) Notice under subsection (3)(c) above shall be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003 (asp 10).
+
+**2.**[^M_I_3986c4b8-9784-4bb2-9cec-ec67a057cdbe][^M_I_d7d4b2bc-900e-4a05-de02-3594f1546502] After section 12 (extended discretion of court in claims for possession of certain dwelling-houses) of the Rent (Scotland) Act 1984, insert—
+
+> **12A. Requirement to notify local authority of proceedings for possession**
+>
+> (1) Where a landlord raises proceedings for possession of a dwelling-house which is let on a protected tenancy or subject to a statutory tenancy, the landlord shall give notice of the raising of the proceedings to the local authority in whose area the dwelling-house is situated.
+>
+> (2) Notice under subsection (1) shall be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003 (asp 10).
+
+**3.**[^M_I_8cc4d4d9-8cac-4234-cc0d-49d88c29ac09][^M_I_2ae18c02-4ec6-4c69-e406-e14bcdc2d698] After section 19 (notice of proceedings for possession of house let on assured tenancy) of the Housing (Scotland) Act 1988, insert—
+
+> **19A. Requirement to notify local authority of proceedings for possession**
+>
+> (1) Where a landlord raises proceedings for possession of a house let on an assured tenancy, the landlord shall give notice of the raising of the proceedings to the local authority in whose area the house is situated, unless the landlord is that local authority.
+>
+> (2) Notice under subsection (1) above shall be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003 (asp 10).
+
+**4.**[^M_I_f50a1eb8-6def-4d52-eb1d-2b98d0010d66][^M_I_e8e1cc6e-5538-4144-d264-775ed5d4a5dd] (1) The 2001 Act is amended as follows.
+
+(2) In section 14 (proceedings for possession of house let on Scottish secure tenancy), after subsection (5), insert—
+
+> (5A) Where a landlord raises proceedings under this section, the landlord must give notice of the raising of the proceedings to the local authority in whose area the house in question is situated, unless the landlord is that local authority.
+>
+> (5B) Notice under subsection (5A) is to be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003 (asp 10).
+
+(3) In section 36 (proceedings for possession of house let on short Scottish secure tenancy), after subsection (6), insert—
+
+> (6A) Where a landlord raises proceedings under this section, the landlord must give notice of the raising of the proceedings to the local authority in whose area the house in question is situated, unless the landlord is that local authority.
+>
+> (6B) Notice under subsection (6A) is to be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003 (asp 10).
+
+**5.**[^key-828bfe7e5cb24b112d3f2522c4303105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-c550e11c2c38465c91a23fa6501a65ba]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2003/10/section/1) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [13](https://www.legislation.gov.uk/ssi/2012/330/article/13)
+
+[^key-b6fe7ac88be7d3443a8dfcda1cf8fb02]: Commencement: S. 1 in force at 30.1.2004 by [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
+
+[^key-e1ab315650837503f4da55480465ef1d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2003/10/section/2) in force at 30.1.2004 by [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
+
+[^key-c28aa7e794f79008eab299ac2bd97a9f]: Textual amendment: [S. 3](https://www.legislation.gov.uk/asp/2003/10/section/3) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [13](https://www.legislation.gov.uk/ssi/2012/330/article/13)
+
+[^key-4cd88198f785f9aef77332c0b74a3f77]: Commencement: S. 3 in force at 30.1.2004 by [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
+
+[^key-f2efcdff37d795cc1156d709310373b9]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2003/10/section/4) in force at 7.11.2019 by [S.S.I. 2019/316](https://www.legislation.gov.uk/ssi/2019/316), [art. 2](https://www.legislation.gov.uk/ssi/2019/316/article/2)
+
+[^key-3b788d88487c6e95d6ce1cb380a38034]: Textual amendment: Words in s. 4(1) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [14](https://www.legislation.gov.uk/ssi/2012/330/article/14)
+
+[^key-e9cdfd42913c507061ea94487dd335d0]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2003/10/section/5) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [13](https://www.legislation.gov.uk/ssi/2012/330/article/13)
+
+[^key-3519db4974c8e6a97bba75481fc60a4f]: Textual amendment: [S. 6](https://www.legislation.gov.uk/asp/2003/10/section/6) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [13](https://www.legislation.gov.uk/ssi/2012/330/article/13)
+
+[^key-22e0281d02d328518350aed01199bede]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2003/10/section/7) in force at 30.1.2004 by [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
+
+[^key-929218cce3c02b7f17099197559dae0f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2003/10/section/8) in force at 7.11.2019 by [S.S.I. 2019/316](https://www.legislation.gov.uk/ssi/2019/316), [art. 2](https://www.legislation.gov.uk/ssi/2019/316/article/2)
+
+[^key-3ec72d31afd04f5972b6f7a82009ff63]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2003/10/section/9) in force at 30.1.2004 by [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
+
+[^key-0402ba26d6e753ab026865d59446f1f6]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2003/10/section/10) in force at 30.1.2004 by [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
+
+[^key-b10cc474cb8861567930f5dd2eabaf6e]: Commencement: S. 11 in force at 2.10.2008 for specified purposes by [S.S.I. 2008/313](https://www.legislation.gov.uk/ssi/2008/313), [art. 2(a)](https://www.legislation.gov.uk/ssi/2008/313/article/2/a)
+
+[^key-db0ac182232f7b6b4ad9ec4717da72a1]: Commencement: S. 11 in force at 1.4.2009 in so far as not already in force by [S.S.I. 2008/313](https://www.legislation.gov.uk/ssi/2008/313), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/313/article/2/b)
+
+[^key-e788867d8da80d4f11e36a11614578d3]: Modification: S. 11(3) applied by 2002 c. 29, s. 245ZA(3) (as inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/2), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
+
+[^key-735ae811125f434bffd551776c7de6b8]: Textual amendment: Words in s. 11(3)(a) substituted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 8(5)(a)(i)](https://www.legislation.gov.uk/asp/2010/6/section/8/5/a/i), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 5)
+
+[^key-802cb227eb4ca1d20bde8060135d55fa]: Textual amendment: S. 11(5)(za) inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 8(5)(a)(ii)](https://www.legislation.gov.uk/asp/2010/6/section/8/5/a/ii), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 5)
+
+[^key-4339ffed81d67fed087f9a9c8a24dbe6]: Textual amendment: S. 11(5)(fa) inserted (27.4.2017 for specified purposes, 31.10.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 89](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/89); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/w)
+
+[^key-155e9afa56f81d7b8bf36c5bef65b95d]: Textual amendment: S. 11(5)(g) repealed (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 8(5)(a)(iii)](https://www.legislation.gov.uk/asp/2010/6/section/8/5/a/iii), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 5)
+
+[^key-dd961d13951a08a4f3bbd79c400da8de]: Textual amendment: S. 11(5)(h) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 8](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/8); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+
+[^key-ec22a31474cf3159cecd0658ff49cdbe]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2003/10/section/12) in force at 2.7.2004 by [S.S.I. 2004/288](https://www.legislation.gov.uk/ssi/2004/288), [art. 2](https://www.legislation.gov.uk/ssi/2004/288/article/2)
+
+[^M_I_366c1e9e-6876-451f-8002-cdbf8280e085]: Commencement: Sch. para 1 in force at 2.10.2008 for specified purposes by [S.S.I. 2008/313](https://www.legislation.gov.uk/ssi/2008/313), [art. 2(a)](https://www.legislation.gov.uk/ssi/2008/313/article/2/a)
+
+[^M_I_4008c065-bb37-4901-c0a4-9508ad07b1be]: Commencement: Sch. para 1 in force at 1.4.2009 in so far as not already in force by [S.S.I. 2008/313](https://www.legislation.gov.uk/ssi/2008/313), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/313/article/2/b)
+
+[^M_I_3986c4b8-9784-4bb2-9cec-ec67a057cdbe]: Commencement: Sch. para 2 in force at 2.10.2008 for specified purposes by [S.S.I. 2008/313](https://www.legislation.gov.uk/ssi/2008/313), [art. 2(a)](https://www.legislation.gov.uk/ssi/2008/313/article/2/a)
+
+[^M_I_d7d4b2bc-900e-4a05-de02-3594f1546502]: Commencement: Sch. para 2 in force at 1.4.2009 in so far as not already in force by [S.S.I. 2008/313](https://www.legislation.gov.uk/ssi/2008/313), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/313/article/2/b)
+
+[^M_I_8cc4d4d9-8cac-4234-cc0d-49d88c29ac09]: Commencement: Sch. para 3 in force at 2.10.2008 for specified purposes by [S.S.I. 2008/313](https://www.legislation.gov.uk/ssi/2008/313), [art. 2(a)](https://www.legislation.gov.uk/ssi/2008/313/article/2/a)
+
+[^M_I_2ae18c02-4ec6-4c69-e406-e14bcdc2d698]: Commencement: Sch. para 3 in force at 1.4.2009 in so far as not already in force by [S.S.I. 2008/313](https://www.legislation.gov.uk/ssi/2008/313), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/313/article/2/b)
+
+[^M_I_f50a1eb8-6def-4d52-eb1d-2b98d0010d66]: Commencement: Sch. para 4 in force at 2.10.2008 for specified purposes by [S.S.I. 2008/313](https://www.legislation.gov.uk/ssi/2008/313), [art. 2(a)](https://www.legislation.gov.uk/ssi/2008/313/article/2/a)
+
+[^M_I_e8e1cc6e-5538-4144-d264-775ed5d4a5dd]: Commencement: Sch. para 4 in force at 1.4.2009 in so far as not already in force by [S.S.I. 2008/313](https://www.legislation.gov.uk/ssi/2008/313), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/313/article/2/b)
+
+[^key-828bfe7e5cb24b112d3f2522c4303105]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/asp/2003/10/schedule/paragraph/5) repealed (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 8(5)(b)](https://www.legislation.gov.uk/asp/2010/6/section/8/5/b), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 5)

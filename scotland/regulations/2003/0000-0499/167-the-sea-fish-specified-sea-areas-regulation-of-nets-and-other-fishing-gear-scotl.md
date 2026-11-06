@@ -1,0 +1,76 @@
+---
+title: The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2003
+id: ssi/2003/167
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-03-10'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2003/167
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2003/167/pdfs/ssi_20030167_en.pdf
+- http://www.legislation.gov.uk/ssi/2003/167/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 167
+
+SEA FISHERIES
+
+CONSERVATION OF SEA FISH
+
+The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2003
+
+Made
+
+10th March 2003
+
+Laid before the Scottish Parliament
+
+10th March 2003
+
+Coming into force
+
+11th March 2003
+
+The Scottish Ministers, in exercise of the powers conferred by sections 3 and 22(2) of the Sea Fish (Conservation) Act 1967[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
+
+## 1. Citation and commencement
+
+This Order may be cited as the Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2003 and shall come into force on 11th March 2003.
+
+## 2. Amendment of the Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Order 2000
+
+(1) The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Order 2000[^f00002] is amended in accordance with this article.
+
+(2) In article 5(2) (twine thickness requirements)[^f00003], for “99 millimetres” there is substituted “94 millimetres”.
+
+ROSS FINNIE
+
+A member of the Scottish Executive
+
+St Andrew’s House, Edinburgh
+
+10th March 2003
+
+(This note is not part of the Order)
+
+This Order amends the Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Order 2000 as amended (S.S.I. [2000/227](https://www.legislation.gov.uk/ssi/2000/227)) (“the principal Order”). This Order like the principal Order is made pursuant to Article 46 of Council Regulation [(EEC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) of 30th March 1998 for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms (O.J. No. L 125, 27.4.98, p.1). This Order forms part of the law of Scotland only.
+
+The Order amends article 5(2) of the principal Order which makes provision in relation to twine thickness of nets carried or used for the purpose of fishing for Norway lobsters. The Order amends article 5(2) to provide that the twine thickness provisions specified apply to nets with a mesh size of between 70 and 94 millimetres (formerly they applied to nets with a mesh size between 70 and 99 millimetres) (article 2).
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84). Relevant modifications are contained in the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999 (S.I. [1999/1748](https://www.legislation.gov.uk/uksi/1999/1748)), article 5 and the Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756)), articles 3, 5 and 6. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 22(2), which contains a definition of “the Ministers”, was modified in relation to Scotland by section 22A(12)(b) of the 1967 Act, as inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 43(13).
+
+[^f00002]: Footnote: S.S.I. [2000/227](https://www.legislation.gov.uk/ssi/2000/227), amended by S.S.I. [2001/250](https://www.legislation.gov.uk/ssi/2001/250).
+
+[^f00003]: Footnote: Article 5(2) was substituted by S.S.I. [2001/250](https://www.legislation.gov.uk/ssi/2001/250), article 5.

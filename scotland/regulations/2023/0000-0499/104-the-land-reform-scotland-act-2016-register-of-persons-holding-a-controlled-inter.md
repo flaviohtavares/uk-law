@@ -1,0 +1,83 @@
+---
+title: The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2023
+id: ssi/2023/104
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2023-03-23'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2023/104
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2023/104/pdfs/ssipn_20230104_en.pdf
+- http://www.legislation.gov.uk/ssi/2023/104/pdfs/ssi_20230104_en.pdf
+- http://www.legislation.gov.uk/ssi/2023/104/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2023
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2023 No. 104
+
+Land Reform
+
+The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2023
+
+Made
+
+23rd March 2023
+
+Coming into force
+
+1st April 2023
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 39(1) to (4) of the Land Reform (Scotland) Act 2016[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 39(7) of that Act, they have consulted the Keeper and such other persons as they consider appropriate.
+
+In accordance with section 126(3)(b) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Amendment Regulations 2023 and come into force on 1 April 2023.
+
+## 2. Amendment of the Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Regulations 2021
+
+(1) The Land Reform (Scotland) Act 2016 (Register of Persons Holding a Controlled Interest in Land) Regulations 2021[^f00002] are amended in accordance with paragraph (2).
+
+(2) In regulation 26(4) (application of these Regulations) for sub-paragraph (4)(b) substitute—
+
+> - (b) ending on 1 April 2024.
+
+.
+
+MAIRI McALLAN
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+23rd March 2023
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Land Reform (Scotland) 2016 (Register of Persons Holding a Controlled Interest in Land) Regulations 2021 (“**the Principal Regulations**”) and come into force on 1 April 2023.
+
+Regulation 2(2) substitutes a new sub-paragraph (4)(b) in regulation 26(4) (application of these Regulations) of the Principal Regulations. The effect of the amendment is to extend the transitional period to 1 April 2024.
+
+No business and regulatory impact assessment has been prepared for these Regulations.
+
+## Annotations
+
+[^f00001]: Footnote: [2016 asp 18](https://www.legislation.gov.uk/asp/2016/18).
+
+[^f00002]: Footnote: [S.S.I. 2021/85](https://www.legislation.gov.uk/ssi/2021/85).

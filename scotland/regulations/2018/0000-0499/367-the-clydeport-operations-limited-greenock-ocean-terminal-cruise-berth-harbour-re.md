@@ -1,0 +1,301 @@
+---
+title: The Clydeport Operations Limited (Greenock Ocean Terminal Cruise Berth) Harbour Revision Order 2018
+id: ssi/2018/367
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2018-11-29'
+text_date: '2021-10-13'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2018/367
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2018/367/pdfs/ssi_20180367_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/367/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Clydeport Operations Limited (Greenock Ocean Terminal Cruise Berth) Harbour Revision Order 2018
+
+> Text as at 2021-10-13.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2018 No. 367
+
+Harbours, Docks, Piers And Ferries
+
+The Clydeport Operations Limited (Greenock Ocean Terminal Cruise Berth) Harbour Revision Order 2018
+
+Made
+
+29th November 2018
+
+Coming into force
+
+30th November 2018
+
+The Scottish Ministers (“the Ministers”) make the following Order in exercise of the powers conferred by section 14(1) and (3) of the Harbours Act 1964[^f00001] and all other powers enabling Ministers to do so.
+
+In accordance with section 14(1) of that Act, this Order is made in relation to a harbour which is being improved, maintained or managed by a harbour authority in the exercise and performance of statutory powers and duties, for achieving objects specified in schedule 2 of that Act[^f00002].
+
+In accordance with section 14(2) of that Act—
+
+- (a)
+- (b)
+
+In accordance with paragraph 4 of schedule 3 to that Act[^f00003], Ministers have decided that the application relates to a project which falls within Annex II to [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092)[^f00004] of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment.
+
+In accordance with paragraph 5 of that schedule[^f00005], Ministers have informed the Company in writing that the application relates to a project which falls within Annex II to that Directive but is not a relevant project.
+
+Notice has been published by the Company in accordance with the requirements of paragraph 10 of that schedule[^f00006]. No objections to the application have been made.[^key-51ae2bffc869599f8a2fa0541cce55c2]
+
+In accordance with paragraph 19(6) of that schedule[^f00007], Ministers have decided to make this Order with modifications which do not appear to Ministers substantially to affect the character of the Order.[^key-51ae2bffc869599f8a2fa0541cce55c2]
+
+## PART 1 — PRELIMINARY
+
+### 1. Citation and commencement[^key-307c81e386aeae43d224dc4dc5fe7350]
+
+This Order may be cited as the Clydeport Operations Limited (Greenock Ocean Terminal Cruise Berth) Harbour Revision Order 2018 and comes into force on the day after the day on which it is made.
+
+### 2. Interpretation[^key-3330dd022dcda26c36a7b5e551dda5a4]
+
+(1) In this Order—
+
+- “Chart Datum” means 1.62 metres below Ordnance Datum;
+- “Commissioners of Northern Lighthouses” means the general lighthouse authority for Scotland, a body corporate constituted by section 193 and schedule 8 of the Merchant Shipping Act 1995[^f00008];
+- “the Company” means Clydeport Operations Limited (registered company number SC134759);
+- “deposited plans and sections” means the plans and sections which have been signed in duplicate with reference to this Order and marked “The Clydeport Operations Limited (Greenock Ocean Terminal Cruise Berth) Harbour Revision Order 2018 Plans and Sections”, one copy of which is deposited at the Scottish Government, Transport Scotland, AMFC Directorate, 2D North, Victoria Quay, Edinburgh, EH6 6QQ and the other copy of which is deposited at the offices of the Company, 16 Robertson Street, Glasgow G2 8DS;
+- “government department” includes any part of, or member of staff of the Scottish Administration (within the meaning of section 126(6) of the Scotland Act 1998);
+- “level of high water” means the level of mean high water springs;
+- “limits of deviation” means the limits of deviation shown on the deposited plans and sections;
+- “Ordnance Datum” means the datum line or mean sea level to which all heights are referred in the Ordnance Survey;
+- “port” means the port within the limits defined in section 14 (jurisdiction of Port Authority) of the Clyde Port Authority Order Confirmation Act 1965[^f00009];
+- “relevant person” in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies means the person who managed that property or those rights and interests;
+- “tidal work” means so much of any work authorised by this Order as is on, under or over tidal waters or tidal lands below the level of high water;
+- “undertaking” means the undertaking of the Company as for the time being authorised; and
+- “works” means the works and operations authorised by this Order, or as the case may require, any part thereof and includes any work constructed under article 3 (power to construct) or article 5 (subsidiary works).
+
+(2) In this Order all areas, directions, distances, lengths, widths, heights and grid references as stated in any description of works, powers or lands other than article 4 (power to deviate) are to be construed as if the words “or thereabouts” were inserted after each such area, direction, distance, length, width, height or grid reference and any reference in a description of works to a point is a reference to that point as shown on the deposited plans and sections.
+
+(3) Any reference in this Order to a work identified by the number of such work is to be construed as a reference to the work of that number authorised by this Order.
+
+## PART 2 — THE WORKS
+
+### 3. Power to construct[^key-0d231682e09ada53e1420f392555c162]
+
+(1) Subject to the provisions of this Order, the Company may in the lines and situations and upon the lands delineated on the deposited plans and sections and within the limits of deviation shown on them and according to the levels shown, construct, operate and maintain in the port the following works along with all necessary works and conveniences connected with them—
+
+- **Work No. 1** — Dredging works in front of the existing quay wall to provide the required water depth of up to 11 metres below Chart Datum, as shown hatched black on Drawing No. 185055/SK03 of the deposited plans and sections.
+- **Work No. 2A** — The construction of mono piles set into the river bed, commencing at a point at NS27932, 76894 proceeding in a south-easterly direction, terminating at a point at NS28039, 76725 as shown coloured red on Drawing No. 185055/SK04 of the deposited plans and sections.
+- **Work No. 2B** — The construction of a floating pontoon connected to mono piles, commencing at a point at NS27929, 76891, proceeding in a south-easterly direction, terminating at a point at NS28035, 76725 as shown coloured green on Drawing No. 185055/SK05 of the deposited plans and sections.
+- **Work No. 3** — The construction of a means of access for pedestrian and vehicular use, as shown coloured orange on Drawing No. 185005/SK06 of the deposited plans and sections, commencing at a point at NS27944, 76770 and terminating at a point at NS27986, 76797 so as to connect the new floating pontoon at Work No. 2B with Greenock Ocean Terminal quayside.
+- **Work No. 4** — The construction of a means of access for pedestrian use, as shown coloured pink on Drawing No. 185005/SK07 of the deposited plans and sections, commencing at a point at NS27965, 76736 and terminating at a point at NS28007, 76763 so as to connect the new floating pontoon at Work No. 2B with Greenock Ocean Terminal quayside.
+
+(2) The Company may, within the limits of deviation, reconstruct, extend, enlarge, replace or relay the works authorised by paragraph (1) and may maintain the same as reconstructed, extended, enlarged, replaced, or re-laid.
+
+### 4. Power to deviate[^key-450f51ec7c100dc095092859effa880e]
+
+Subject to the provisions of this Order, in carrying out the works authorised by article 3 (power to construct works) the Company—
+
+- (a) may deviate laterally from the lines or situations of those works as shown on the deposited plans and sections to any extent not exceeding the limits of deviation;
+- (b) may deviate vertically from the levels of the works as shown to any extent not exceeding 12 metres upwards above Chart Datum; and
+- (c) may deviate vertically in a downwards direction from the levels of the works as shown to such extent downwards as may be found necessary or convenient.
+
+### 5. Subsidiary works[^key-b3ab192c75a160db9a2b45e0990b85e1]
+
+(1) The Company may from time to time within the limits of deviation construct, maintain and operate, whether temporarily or permanently, such other works as may be necessary or convenient for the purposes of the works, or in connection with or in consequence of the construction, operation and maintenance or use of the works including—
+
+- (a) works for the accommodation or convenience of vessels or for the loading and unloading of goods and the embarking and loading of passengers;
+- (b) works to alter the position of apparatus, including mains, sewers, drains, pipes, conduits, cables, electrical substations, electrical lines and telecommunications apparatus;
+- (c) works to remove, demolish or decommission the works as the Company deems appropriate;
+- (d) carrying out and maintaining works for the benefit or protection of persons or premises affected by any of the works; and
+- (e) landscaping and constructing such other works as the Company may deem necessary or desirable to mitigate any adverse effects of the construction, maintenance or operation of the works.
+
+(2) In the course of erecting, constructing, laying down, placing, removing and replacing the works the Company may carry out construction activity including the temporary placing of plant and equipment within the tidal waters adjoining the limits of deviation.
+
+### 6. Power to dredge[^key-eaf7f61f4871a00f6e3ece1cd6283b26]
+
+(1) Without affecting any other powers which may be exercisable by the Company within the port the Company may, for the purposes of constructing and maintaining the works and of affording access to the works by vessels from time to time deepen, dredge, scour, blast rock, cleanse, alter and improve so much of the bed, shores and channels of the sea as lie within the limits of the port and may use, appropriate or dispose of the materials (other than wreck within the meaning of Part IX of the Merchant Shipping Act 1995[^f00010], from time to time dredged by them.
+
+(2) No such materials shall be laid down or deposited—
+
+- (a) in contravention of the provisions of any enactment as respects the disposal of waste; or
+- (b) in any place below the level of high water otherwise than in such position and under such conditions and restrictions as may be approved or prescribed by the Ministers.
+
+### 7. Obstruction of works[^key-df4db28db70770a23ff0f7e2ac2e2332]
+
+Any person who intentionally—
+
+- (a) obstructs any person acting under the authority of the Company in constructing, using or maintaining the works; or
+- (b) interferes with, moves or removes any plant or equipment used in the construction, maintenance or use of the works,
+
+will be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale and shall in addition be liable to repay to the Company as a debt any expenses incurred by it in making good any damage resulting from such obstruction, moving or removal.
+
+### 8. Works to be deemed part of undertaking[^key-a05b31770d21975ab6bf068d4bdda62f]
+
+The works are deemed for all purposes to be part of the undertaking and all byelaws, directions, rules and regulations of the Company for the time being in force relating to the undertaking apply to the works and may be enforced by the Company accordingly.
+
+### 9. Survey of tidal works[^key-9d088e811da7f2af814fdda65b74aeba]
+
+The Ministers may at any time if they deem it necessary or expedient order a survey and examination of a tidal work or a site upon which it is proposed to construct such a work and any expense incurred by them in such a survey and examination will be recoverable from the Company.
+
+### 10. Provision against danger to navigation[^key-63f9ce7fc54d635868d2a8f12d1f0f36]
+
+(1) In the case of injury to, or destruction or decay of, a tidal work or any part thereof, the Company must as soon as reasonably practicable notify the Commissioners of Northern Lighthouses and must lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as the Commissioners of Northern Lighthouses may from time to time direct.
+
+(2) If the Company fails to comply in any respect with the provisions of this article, the Company will be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+### 11. Abatement of works abandoned or decayed[^key-cd802a40044c49e482b5f57967f45e87]
+
+(1) Where a tidal work is abandoned or suffered to fall into decay the Ministers may by notice in writing require the Company at the Company’s own expense either to repair and restore the work, or any part of it, or to remove the work and restore the site of the work to its former condition, to such an extent and within such limits as the Ministers think appropriate.
+
+(2) Where a work authorised by this Order and consisting partly of a tidal work and partly of works on or over land above the level of high water is abandoned or suffered to fall into decay and that part of the work on or over land above the level of high water is in such condition as to interfere or to cause reasonable apprehension that it may interfere with the right of navigation or other public rights over the foreshore, the Ministers may include that part of the work, or any portion of it, in any notice under this article.
+
+(3) If, on the expiry of one month from the date when a notice under this article is served upon the Company, it fails to comply with the requirements of the notice, the Ministers may execute the works specified in the notice and any expenditure incurred by them in so doing will be recoverable from the Company.
+
+### 12. Lights on tidal works during construction[^key-c03500be618a5a7f5ad869fe4193587a]
+
+(1) During the whole time of the demolition, construction, renewal, reconstruction or alteration of a tidal work the Company must at the outer extremity thereof every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses may from time to time direct.
+
+(2) If the Company fails to comply in any respect with a direction given under this article the Company will be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+### 13. Permanent lights on tidal works[^key-2cba101b50830cb068639242eb528b1f]
+
+(1) After completion of a tidal work the Company must at the outer extremity thereof every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses may from time to time direct.
+
+(2) If the Company fails to comply in any respect with a direction given under this article the Company will be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
+
+### 14. Period for completion of works[^key-879b9586242d1f5427bf9e569cc161c2]
+
+(1) If all the works are not completed within 10 years from the coming into force of this Order or such extended time as the Ministers may, on the application of the Company, allow by consent in writing, the powers by this Order granted to the Company for constructing and maintaining the works will cease to have effect except as to so much of them as is then substantially commenced.
+
+(2) As soon as reasonably practicable after any consent is given under paragraph (1), the Company must arrange for a notice to be published in the Edinburgh Gazette and in a local newspaper circulating in the area where the port is situated and the notice must contain a summary of the effect of that consent.
+
+(3) During the period of one month beginning with the date on which any notice is published in a local newspaper under paragraph (2), the Company must keep a copy of the consent referred to in that notice open to public inspection at their principal office at all reasonable hours, without payment.
+
+(4) Paragraph (1) does not apply to any works carried out under article 3(2) or article 5 (subsidiary works).
+
+(5) The works shall be deemed to have been substantially commenced for the purposes of paragraph (1) where so much of Work No. 1 has been carried out as is necessary to enable other works to be constructed, maintained and managed as a port for the efficient and economic transport of goods or passengers by sea.
+
+## PART 3 — MISCELLANEOUS
+
+### 15. Power to grant rights[^key-fdf0a7b80af56a03ce21729c0e862b51]
+
+(1) The Company may make arrangements to lease or otherwise grant the exclusive, partial or preferential use of, or occupation of, or any right or interest in, over or relating to any lands, works, buildings, equipment or other property forming part of the undertaking shown within the limits of deviation on the deposited plans and sections for such period or such periods, and at such rents and other considerations and on such terms and conditions as it thinks fit.
+
+(2) Any arrangements made under paragraph (1) are, and in their terms must be expressly declared to be, entirely without prejudice to the functions and statutory duties of the Company.
+
+### 16. Defence of due diligence[^key-d39383d4f25745f936b71051c2873ff3]
+
+(1) In proceedings for an offence under any provision of this Order mentioned in paragraph (2) it shall be a defence for the Company to prove that they took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence.
+
+(2) The provisions referred to in paragraph (1) are—
+
+- (a) article 10 (provision against danger to navigation);
+- (b) article 12 (lights on tidal works during construction); and
+- (c) article 13 (permanent lights on tidal works).
+
+(3) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, the Company shall not, without leave of the court, be entitled to rely on that defence unless, within a period of 7 clear days before the hearing, they have served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, that other person as was then in their possession.
+
+### 17. Crown rights[^key-10895f0871282d0623a791cdab4a46c8]
+
+(1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to that generality, nothing in this Order authorises the Company or any other person to take, use, enter upon or in any manner interfere with any land or any rights of whatsoever description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)—
+
+- (a) belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, without the consent in writing of the Crown Estate Commissioners;
+- (b) belonging to Her Majesty in right of the Crown and not forming part of the Crown Estate, without the consent in writing of the government department having the management of that land or (as the case may be) the relevant person; or
+- (c) belonging to a government department or held in trust for Her Majesty for the purposes of a government department, without the consent in writing of that government department.
+
+(2) A consent under paragraph (1) may be given unconditionally or subject to terms and conditions; and is deemed to have been given in writing where it is sent electronically.
+
+### 18. Saving for Commissioners of Northern Lighthouses[^key-2175c37317259909d6677fcae333e656]
+
+Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
+
+F PACITTI
+
+A member of the staff of the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order empowers Clydeport Operations Limited (“the Company”) to construct, operate and maintain works at the Port of Greenock on the River Clyde. The works will consist of—
+
+- (a) dredging in front of the existing quay wall;
+- (b) the construction of mono piles set into the river bed;
+- (c) the construction of a floating pontoon;
+- (d) the construction of a means of access for pedestrian and vehicular use; and
+- (e) the construction of a means of access for pedestrian use,
+
+along with other ancillary works.
+
+In addition the Order authorises the Company to lease or otherwise grant rights over the works for such period and on such terms as it considers appropriate, subject to certain restrictions.
+
+## Annotations
+
+[^f00001]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40). Section 14 was relevantly amended by the Transport Act [1981 (c.56)](https://www.legislation.gov.uk/ukpga/1981/56), Schedule 6, paragraphs 2, 3, 4(1) and 14 and Schedule 12 and the Transport and Works Act [1992 (c.42)](https://www.legislation.gov.uk/ukpga/1992/42), Schedule 3, paragraph 1. See section 14(7) and 57(1) of the Harbours Act 1964 for the definitions of “the appropriate Minister” and “the Minister”. The functions of the Minister of the Crown were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: Schedule 2 was relevantly amended by the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), Schedule 3, paragraph 9.
+
+[^f00003]: Footnote: Paragraph 4 of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445).
+
+[^f00004]: Footnote: O.J. L. 26, 28.1.2012, p.1. [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) repealed and recast the provisions contained in Council [Directive 85/337/EC](https://www.legislation.gov.uk/european/directive/1985/0337) (O/J. L 175, 5.7.1985, p.40, as amended by Council [Directive 97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011) (O.J. L 73, 14.3.1997, p.5) and [Directive 2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035) of the European Parliament and of the Council (O.J. L 140, 5.6.2009, p.114)).
+
+[^f00005]: Footnote: Paragraph 5 of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445).
+
+[^f00006]: Footnote: Paragraph 10 of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445) and is amended by the Transport and Works (Scotland) Act [2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), section 25(5)(b) and (c).
+
+[^key-51ae2bffc869599f8a2fa0541cce55c2]: Modification: Order applied (with modifications) (temp.) (13.10.2021) by [The Clydeport (COP 26 etc.) Harbour Revision Order 2021 (S.S.I. 2021/358)](https://www.legislation.gov.uk/ssi/2021/358), [arts. 16](https://www.legislation.gov.uk/ssi/2021/358/article/16), [17](https://www.legislation.gov.uk/ssi/2021/358/article/17) (with [art. 18](https://www.legislation.gov.uk/ssi/2021/358/article/18))
+
+[^f00007]: Footnote: Paragraph 19(2) of Schedule 3 was substituted by [S.I. 1999/3445](https://www.legislation.gov.uk/uksi/1999/3445).
+
+[^key-307c81e386aeae43d224dc4dc5fe7350]: Commencement: Art. 1 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-3330dd022dcda26c36a7b5e551dda5a4]: Commencement: Art. 2 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^f00008]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Schedule 8 was amended by section 55 of the Scotland Act [2016 c.11](https://www.legislation.gov.uk/ukpga/2016/11).
+
+[^f00009]: Footnote: [1965 c.xlv](https://www.legislation.gov.uk/ukla/1965/45).
+
+[^key-0d231682e09ada53e1420f392555c162]: Commencement: Art. 3 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-450f51ec7c100dc095092859effa880e]: Commencement: Art. 4 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-b3ab192c75a160db9a2b45e0990b85e1]: Commencement: Art. 5 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-eaf7f61f4871a00f6e3ece1cd6283b26]: Commencement: Art. 6 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^f00010]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21); see section 255(1).
+
+[^key-df4db28db70770a23ff0f7e2ac2e2332]: Commencement: Art. 7 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-a05b31770d21975ab6bf068d4bdda62f]: Commencement: Art. 8 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-9d088e811da7f2af814fdda65b74aeba]: Commencement: Art. 9 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-63f9ce7fc54d635868d2a8f12d1f0f36]: Commencement: Art. 10 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-cd802a40044c49e482b5f57967f45e87]: Commencement: Art. 11 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-c03500be618a5a7f5ad869fe4193587a]: Commencement: Art. 12 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-2cba101b50830cb068639242eb528b1f]: Commencement: Art. 13 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-879b9586242d1f5427bf9e569cc161c2]: Commencement: Art. 14 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-fdf0a7b80af56a03ce21729c0e862b51]: Commencement: Art. 15 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-d39383d4f25745f936b71051c2873ff3]: Commencement: Art. 16 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-10895f0871282d0623a791cdab4a46c8]: Commencement: Art. 17 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)
+
+[^key-2175c37317259909d6677fcae333e656]: Commencement: Art. 18 in force at 30.11.2018, see [art. 1](https://www.legislation.gov.uk/ssi/2018/367/article/1)

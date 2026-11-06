@@ -1,0 +1,163 @@
+---
+title: The Tweed Regulation (Salmon Conservation) (No. 2) Order 2016
+id: ssi/2016/391
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-11-23'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/391
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/391/pdfs/ssipn_20160391_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/391/pdfs/ssi_20160391_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/391/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Tweed Regulation (Salmon Conservation) (No. 2) Order 2016
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2016 No. 391
+
+Constitutional Law
+
+Devolution, Scotland
+
+River, Scotland
+
+River, England And Wales
+
+The Tweed Regulation (Salmon Conservation) (No. 2) Order 2016
+
+Made
+
+23rd November 2016
+
+Laid before the Scottish Parliament
+
+24th November 2016
+
+Coming into force
+
+1st April 2017
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by article 54(1) and (6)(c) and paragraphs 5(b) and 12(1) of schedule 2 of the Scotland Act 1998 (River Tweed) Order 2006[^f00001] and all other powers enabling them to do so.
+
+In accordance with paragraphs 8, 9, 10 and 12(1) of schedule 2 of that Order they have consulted such persons as they considered appropriate, directed that notice be given of the general effect of the Order and considered representations and objections made.
+
+## 1. Citation, commencement and interpretation[^key-aad8e20cdca79392f12b5fe233ed68fb]
+
+(1) This Order may be cited as the Tweed Regulation (Salmon Conservation) (No. 2) Order 2016 and comes into force on 1st April 2017.
+
+(2) In this Order—
+
+- “fish farming” means the breeding, rearing or cultivating of fish, whether or not for the purpose of producing food for human consumption but does not include fish bred, reared or cultivated in captivity which have later been released to the wild;
+- “grid reference” means Ordnance Survey National Grid reference[^f00002]; and
+- “salmon” means fish of the species *Salmo salar* (commonly known as salmon) or any part of such fish and excludes the migratory fish of the species *Salmo trutta* (commonly known as sea trout) or any part of such fish.
+
+## 2. Conservation status assessment[^key-e2d179b6b4b30a977b9c1de401573eb9]
+
+(1) The Scottish Ministers must carry out, or arrange for the carrying out of, an assessment of the conservation status of salmon in—
+
+- (a) the Tweed and all inland waters[^f00003] which drain, or drain to some extent, to the outflow point at grid reference NU 0100 5228 east of Berwick; and
+- (b) all other inland waters within the Tweed district[^f00004].
+
+(2) In making the assessment, or making arrangements for the assessment, in respect of the inland waters mentioned in paragraph (1)(a), the Scottish Ministers must have regard to the conservation objectives for the River Tweed special area of conservation[^f00005].
+
+(3) For the purposes of this article—
+
+- (a) “conservation status” means, in relation to salmon—
+  - (i) the stock levels of the salmon; and
+  - (ii) the condition of the salmon;
+- (b) “salmon” does not include any salmon produced by fish farming; and
+- (c) “special area of conservation” means an area designated as a special area of conservation within the meaning of [^key-049f483ef4e7a8d5ef225664c4b70bbe]... the Conservation (Natural Habitats, &c.) Regulations 1994[^f00007].
+
+## 3. Prohibition on retaining salmon[^key-08dd84f2aa20144cd46056bb350541b6]
+
+(1) No person may retain any salmon caught in any coastal waters in the Tweed district.
+
+(2) No person may retain any salmon caught in any inland waters in the Tweed district except for any salmon caught in the area described in article 2(1)(a).
+
+(3) This article does not apply where a salmon is retained—
+
+- (a) for a purpose mentioned in article 48(1)(a) of the Scotland Act 1998 (River Tweed) Order 2006 (exemption from certain offences of acts done for scientific and other purposes: salmon) and permission to take the salmon has been granted in accordance with article 48(1)(b) of that Order; or
+- (b) within, and in the course of the operation of, a fish farm.
+
+(4) For the purposes of this article—
+
+- “coastal waters” means waters other than inland waters; and
+- “retain” means failing to return the fish at once to the river or other water from which it came and with the least possible injury.
+
+## 4. Conservation plans[^key-6635f2a799afd08aba67a23bc1cfdef9]
+
+(1) The Scottish Ministers may agree a conservation plan in respect of the Tweed district with the Commission[^f00008].
+
+(2) For the purposes of this article—
+
+- (a) “conservation plan” means a plan setting out the objectives, priorities and management measures with respect to—
+  - (i) the management of salmon fisheries in the Tweed district; and
+  - (ii) the conservation of salmon in that district; and
+- (b) “salmon” does not include any salmon produced by fish farming.
+
+## 5. Revocation[^key-364e66393e48d4885f6e8cf1982389c9]
+
+The Tweed Regulation (Salmon Conservation) Order 2016 is revoked[^f00009].
+
+R CUNNINGHAM
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order makes provision to regulate the taking of salmon in the Tweed district. The Tweed district is defined in article 2 of the Scotland Act 1998 (River Tweed) Order 2006 (“the 2006 Order”). This Order places the Scottish Ministers under a duty to make, or make arrangements for, an assessment of the conservation status of salmon in the areas within the district described in article 2(1). Article 4 provides that the Scottish Ministers may agree a conservation plan with the River Tweed Commission.
+
+Article 3(1) prohibits the retention of salmon in coastal waters. Article 3(2) prohibits the retention of salmon caught in any inland waters in the Tweed district except salmon caught in the area described in article 2(1)(a) of this Order. By virtue of article 54(7) of the 2006 Order failure to comply with these prohibitions is an offence. Any person found guilty of such an offence is liable, on summary conviction, to a fine not exceeding level 4 on the standard scale.
+
+Article 5 revokes the Tweed Regulation (Salmon Conservation) Order 2016.
+
+A Business and Regulatory Impact Assessment in relation to this Order has been prepared and placed in the Scottish Parliament Information Centre. Copies of it can be obtained from Marine Scotland, Victoria Quay, Leith, Edinburgh EH6 6QQ and online at www.legislation.gov.uk.
+
+## Annotations
+
+[^f00001]: Footnote: [S.I 2006/2913](https://www.legislation.gov.uk/uksi/2006/2913) as amended by [S.I. 2015/203](https://www.legislation.gov.uk/uksi/2015/203).
+
+[^key-aad8e20cdca79392f12b5fe233ed68fb]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2016/391/article/1) in force at 1.4.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/391/article/1/1)
+
+[^f00002]: Footnote: The National Grid is the map reference system used on all Ordnance Survey maps to identify the position of a feature. Further information may be found at www.ordnancesurvey.co.uk.
+
+[^key-e2d179b6b4b30a977b9c1de401573eb9]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2016/391/article/2) in force at 1.4.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/391/article/1/1)
+
+[^f00003]: Footnote: “Inland waters” is defined in article 4(1) of the Scotland Act 1998 (River Tweed) Order 2006 and includes all rivers above estuary limits and their tributary streams, and all waters, watercourses and lochs whether natural or artificial which drain or drain to some extent into the sea. “Estuary limits” is defined in article 3 of that Order as the limits which divide each river including the river mouth or estuary from the sea. The estuary limits for the Tweed are fixed by article 3(3) and (4). The estuary limits for all other rivers within the Tweed district may be fixed by an estuary limits order made under article 3(5). Where no order is made under article 3(5), the estuary limits for a river are the natural limits which divide a river (including its mouth or estuary) from the sea (article 3(2)).
+
+[^f00004]: Footnote: The Tweed district is defined in article 2(1) of the Scotland Act 1998 (River Tweed) Order 2006.
+
+[^f00005]: Footnote: The conservation objectives for the River Tweed special area of conservation may be found at https://gateway.snh.gov.uk/sitelink/siteinfo.jsp?pa\_code=8369.
+
+[^key-049f483ef4e7a8d5ef225664c4b70bbe]: Textual amendment: Words in [art. 2(3)(c)](https://www.legislation.gov.uk/ssi/2016/391/article/2/3/c) omitted (31.12.2020) by virtue of [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [28(2)](https://www.legislation.gov.uk/ssi/2019/113/regulation/28/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^f00007]: Footnote: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716) to which there are amendments not relevant to these Regulations.
+
+[^key-08dd84f2aa20144cd46056bb350541b6]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2016/391/article/3) in force at 1.4.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/391/article/1/1)
+
+[^key-6635f2a799afd08aba67a23bc1cfdef9]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2016/391/article/4) in force at 1.4.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/391/article/1/1)
+
+[^f00008]: Footnote: Articles 4(1) and 5(1) of the Scotland Act 1998 (River Tweed) Order 2006 define “the Commission” as the body corporate known as the River Tweed Commission.
+
+[^key-364e66393e48d4885f6e8cf1982389c9]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2016/391/article/5) in force at 1.4.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/391/article/1/1)
+
+[^f00009]: Footnote: [S.S.I. 2016/118](https://www.legislation.gov.uk/ssi/2016/118).

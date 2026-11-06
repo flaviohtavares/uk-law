@@ -1,0 +1,454 @@
+---
+title: The National Waste Management Plan for Scotland Regulations 2007
+id: ssi/2007/251
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2007-03-22'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2007/251
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2007/251/pdfs/ssien_20070251_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/251/pdfs/ssi_20070251_en.pdf
+- http://www.legislation.gov.uk/ssi/2007/251/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Waste Management Plan for Scotland Regulations 2007
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2007 No. 251
+
+ENVIRONMENTAL PROTECTION
+
+The National Waste Management Plan for Scotland Regulations 2007
+
+Made
+
+22nd March 2007
+
+Coming into force in accordance with regulation 1(1)
+
+The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c18472061] and of all other powers enabling them in that behalf, hereby make the following Regulations, a draft of which has, in accordance with paragraph 2(2) of Schedule 2 to that Act, been laid before and approved by resolution of the Scottish Parliament:
+
+## PART 1 — General
+
+### 1. Citation, commencement and extent
+
+(1) These Regulations may be cited as the National Waste Management Plan for Scotland Regulations 2007 and come into force on the day after the day on which they are made.
+
+(2) These Regulations extend to Scotland only.
+
+### 2. Interpretation
+
+In these Regulations–
+
+- “**the 1990 Act**” means the Environmental Protection Act 1990 [^c18472071];
+- “best available techniques” has the meaning given in Article 2(2), as read with Article 2(3), of[^key-6267028af8003216dfa003017f8b4457] [Decision 2012/134/EU](https://www.legislation.gov.uk/european/decision/2012/0134) establishing the best available techniques (BAT) conclusions under [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075) of the European Parliament and of the Council on industrial emissions for the manufacture of glass,
+- “hazardous waste” means any waste which is “special waste” as defined in regulation 2 of the Special Waste Regulations 1996,[^key-d549764aef8822380f26c399a031e648]
+- “[^key-e33ad25b73ec652b983062c5372d18d3]**the Landfill Capacity Report**” means the document “Landfill Capacity Report for Scotland, 2008” published by SEPA in 2010;
+- “**the National Capacity Report**” means the document “National Waste Capacity Report for Scotland 2008” published by SEPA in November 2009;
+- “**the National Planning Framework**” means the document “the National Planning Framework for Scotland” published by the Scottish Executive on 1 April 2003 [^c18472091];
+- [^key-05411d4c2bad2b3a6e913a80ddd54bf6]...
+- “**national waste management plan**” means the plan mentioned in regulation 3(1);
+- [^key-05411d4c2bad2b3a6e913a80ddd54bf6]...
+- “**the Packaging Waste Directive**” means the European Parliament and Council Directive [94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) of 20th December 1994 on packaging and packaging waste[^c18472111] , as last amended by[^key-efe9b91099602dcae07c0034041dfcae] Directive (EU) 2018/852[^key-4d921ef9f3fccc42b90033211f7180f5] of the European Parliament and of the Council,;
+- “**Planning Advice Note 63**” means the document “Planning Advice Note (PAN) 63 – Waste Management Planning” published by the Scottish Executive in February 2002 [^c18472121];
+- “**public consultees**” means the persons to whose attention proposals for the national waste management plan are brought by the Scottish Ministers pursuant to regulation 6(1)(b);
+- “[^key-8a4a130a0538120c6fec839dfd25c237]**Scottish Planning Policy**” means the statement of the Scottish Government's policy on important land use planning matters published in February 2010;
+- “**Scotland**” includes the Scottish marine area as defined in section 1 of the Marine (Scotland) Act 2010;
+- “**SEPA**” means the Scottish Environment Protection Agency; [^key-03d2a97be7d639b40c59e8344bbb6672]...
+- “[^key-51ec851f4a65459e6aea07305c354b36] **the Special-Hazardous Waste Data Summary**” means the documents “Special waste consigned 2002-2006”; “Special waste recovered 2002-2006” and “Special waste disposed 2002-2006”, all published by SEPA in 2008;
+- “**the Waste Data Digest**” means the document “Waste Data Digest 10: Key facts and trends” published by SEPA in 2010;
+- “**the Waste Statistics Regulation Scotland Report**” means the document “EU Waste Statistics Regulation Scotland Report 2006” published by SEPA in November 2008; and
+- “**Zero Waste Plan**” means the document “Scotland's zero waste plan” published by the Scottish Government in June 2010.
+
+### 2A. Interpretation: the Waste Directive[^key-30310d513b49fbb82388e755e5f31739]
+
+In these Regulations—
+
+- (a)[^key-34bc4cd8c603fcb9d794db067e5b4421] “the Waste Directive” means [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste and repealing certain Directives, as last amended by[^key-959cbc9dff1a84955805feb27003e924] Directive (EU) 2018/851 of the European Parliament and of the Council[^key-26077941d207ff130d861ce82cfd4555], and
+- (b) other expressions used in the Waste Directive have the same meanings as in that Directive.
+
+## PART 2 — National waste management plan for Scotland
+
+### 3. National waste management plan for Scotland
+
+(1) The Scottish Ministers must have a national waste management plan containing their policies in relation to waste prevention, preparation for re-use and waste management[^key-67e8f45e899be1acf82c4457fb23079c] in Scotland.
+
+(2) The national waste management plan or any modification of it must include[^key-381551ffcaa4c2dc8d3ebb542848d0bc]–
+
+- (a) a statement which relates to the whole of Scotland; or
+- (b) two or more statements which together relate to the whole of Scotland.
+
+(3) The national waste management plan or any modification of it must include–
+
+- (aza)[^key-ce1f5d9478d3c12572944e25d4ba1306] an analysis of the current waste management situation, including existing waste collection schemes and major disposal and recovery installations;
+- (azb) a description of measures to be taken to improve environmentally sound preparing for re-use, recycling, recovery and disposal of waste;
+- (azc) the matters listed in Article 28(3) of the Waste Directive;
+- (a) a statement of the Scottish Ministers' policies for attaining the objectives specified in schedule 1[^key-89b528610347e4d45ca40f0c6b23b72b] to these Regulations;
+- (zaa)[^key-37f5b64f1a466822e6b128b12c1165dd] a statement of the Scottish Ministers’ policies for attaining, as a minimum, the waste prevention measures set out in schedule 2 of these Regulations,
+- (aa)[^key-d79ed3c28607410c5edf69116d6bbb05] in pursuance of the objectives and provisions of the Waste Directive, an evaluation of how the plan will support the implementation of those objectives and provisions; and
+- (b) in pursuance of the objectives and measures referred to in the Packaging Waste Directive, a chapter on the management of packaging and packaging waste, including measures taken pursuant to Articles 4 and 5 of that Directive; [^key-7033d3f6ed0d73162a3a1a6982016f30]...
+- (c)[^key-13d6b83f1fd3dfb6348cd545807cdb2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^key-4a132dcf026a3bdd02de81617b8d91e5] targets for—
+  - (i) achieving an increase in the preparing for re-use and the recycling of waste materials such as at least paper, metal, plastic and glass from households and other similar waste streams,
+  - (ii) achieving an increase in the preparing for re-use, recycling and other material recovery, including backfilling operations using waste to substitute other materials, of non-hazardous construction and demolition waste (excluding naturally occurring material defined in category 17 05 04 in the list of wastes established by Commission Decision 2000/532/EC, and
+  - (iii) achieving an increase in preparing for re-use and recycling of municipal waste,
+- (e) a statement of the Scottish Ministers’ policies for achieving the targets specified in paragraph (d).
+
+(3A)[^key-0069bfe00ecbb767578912465ff34d54] The Scottish Ministers must have regard to the following when preparing the national waste management plan or any modification of it relating to litter prevention—
+
+- (a) any plan made in accordance with section 5 of the Marine Scotland Act 2010,
+- (b) any plan made in accordance with section 10 of the Water Environment and Water Services (Scotland) Act 2003.
+
+(4) The Scottish Ministers must review the national waste management plan at least once every six years and[^key-a59ad3f6a1730886a1d00527bddfa64e] may from time to time modify the national waste management plan.
+
+(5) In preparing the national waste management plan, or any modification of it, the Scottish Ministers must consult–
+
+- (a) SEPA;
+- (b) Scottish Natural Heritage;
+- (c) such bodies or persons appearing to them to be representative of the interests of local government and industry respectively as they think fit; and
+- (d) such other persons as they think fit.
+
+(6)[^key-6755bd7661be0dedc61c0042bc40474f] The following documents form part of the national waste management plan:—
+
+- (a) Zero Waste Plan;
+- (b) the waste management policies set out in Scottish Planning Policy, the National Planning Framework and Planning Advice Note 63;
+- (c) the Landfill Capacity Report;
+- (d) the National Capacity Report;
+- (e) the Special-Hazardous Waste Data Summary;
+- (f) the Waste Data Digest; and
+- (g) the Waste Statistics Regulation Scotland Report.
+
+### 4. Directions to SEPA
+
+(1) Without prejudice to any power to give directions conferred by section 40 of the Environment Act 1995 [^c18472201], the Scottish Ministers may give directions to SEPA requiring it–
+
+- (a) to advise them on the policies which are to be included in the national waste management plan or any modification of it;
+- (b) to carry out a survey or investigation into any other matter in connection with the Scottish Ministers' preparation of that plan or any modification of it and to report its findings to them;
+- (c) to provide such other advice and assistance as Ministers consider appropriate as regards the promotion, development, implementation, monitoring and review of that plan or any modification of it.
+
+(2) A direction under paragraph (1)(b)–
+
+- (a) must specify or describe the matters or the areas which are to be the subject of the survey or investigation;
+- (b) may specify bodies or persons to be consulted before carrying out the survey or investigation; and
+- (c) may make provision in relation to the manner in which–
+  - (i) the survey or investigation is to be carried out, or
+  - (ii) the findings are to be reported or made available.
+
+(3) Where a direction is given under paragraph (1)(b), SEPA may also consult any body or person that it considers appropriate but is not specified in the direction.
+
+(4) SEPA must make its findings available to any bodies or persons it consults.
+
+## PART 3 — Procedures for the preparation or modification of the national waste management plan
+
+### 5. Application of this Part
+
+(1) This Part applies to the modification of the national waste management plan as it applies to the preparation of such a plan.
+
+(2) This Part does not apply to–
+
+- (a) a national waste management plan or any part of such a plan designed for the sole purpose of serving national defence or civil emergencies; or
+- (b) a national waste management plan for which a public participation procedure is carried out under the Environmental Assessment (Scotland) Act 2005 [^c18472211].
+
+### 6. Public participation procedures
+
+(1) As soon as reasonably practicable after preparing proposals for the national waste management plan or its modification the Scottish Ministers must–
+
+- (a) send a copy of the proposals to the persons or bodies mentioned in regulation 3(5);
+- (b) take such steps as they consider appropriate to bring the proposals to the attention of the persons who in their opinion–
+  - (i) are affected by,
+  - (ii) are likely to be affected by; or
+  - (iii) have an interest in,
+
+  the plan;
+- (c) inform the public consultees of the address (which may include a website)–
+  - (i) at which a copy of the proposals may be viewed,
+  - (ii) from which a copy of the proposals may be obtained;
+- (d) invite the persons or bodies mentioned in regulation 3(5) and the public consultees to express their opinion on the proposals, specifying the address to which, and the period within which, opinions must be sent.
+
+(2) The period referred to in paragraph (1)(d) must be of such length as will ensure that the persons or bodies mentioned in regulation 3(5) and the public consultees are given an early and effective opportunity to express their opinion on the proposals.
+
+(3) During the period referred to in paragraph (1)(d), the Scottish Ministers must keep a copy of the proposals for inspection by the public at all reasonable times free of charge.
+
+(4) Nothing in paragraph (1)(c) requires the Scottish Ministers to provide copies free of charge; but where a charge is made, it must be of a reasonable amount.
+
+### 7. Procedures following public participation
+
+(1) Before decisions on the national waste management plan or its modification are made the Scottish Ministers must take account of any opinions expressed in accordance with regulation 6(1)(d).
+
+(2) As soon as reasonably practicable after making decisions on the national waste management plan the Scottish Ministers must–
+
+- (a) inform–
+  - (i) the persons or bodies mentioned in regulation 3(5), and
+  - (ii) the public consultees,
+
+  of the matters set out in paragraph (3);
+- (b) take such steps as they consider appropriate to bring the matters in paragraph (3) to the attention of the public;
+- (c) if they have adopted the national waste management plan, make a copy of the plan available for inspection by the public at all reasonable times and free of charge.
+
+(3) The matters are–
+
+- (a) the decisions made by the Scottish Ministers on the national waste management plan;
+- (b) the reasons and considerations upon which those decisions are based; and
+- (c) information about the public participation procedures.
+
+## PART 4 — Consequential repeals and amendments
+
+### 8. Consequential repeals and amendments
+
+(1) In the 1990 Act–
+
+- (a) section 44B of, and Schedule 2A to, that Act [^c18472221]are repealed; and
+- (b) in section 44ZA [^c18472231]–
+  - (i) in subsection (2)(a), for “the National Waste Strategy” substitute “ national waste management plan ”; and
+  - (ii) in subsection (6), for the definition of “National Waste Strategy” there is substituted the following definition–
+
+    > “**national waste management plan**” means the plan mentioned in regulation 3(1) of the National Waste Management Plan for Scotland Regulations 2007 (S.S.I. 2007/251), however constituted at the time and as modified from time to time.
+
+    .
+
+(2) In Part I of Schedule 4 to the Waste Management Licensing Regulations 1994 [^c18472241](waste framework directive etc.)–
+
+- (a) in paragraph 1, in the definition of “plan-making provisions”,
+  - (i) omit “section 44B of that Act”, and
+  - (ii) substitute “ the National Waste Management Plan for Scotland Regulations 2007 (S.S.I. 2007/ 251) ”; and
+- (b) in paragraph 3, in Table 5–
+  - (i) in the first column of the second row of that table, at the end insert “ or the Scottish Ministers ”, and
+  - (ii) in the second column of the second row of that table–
+    - (aa) omit “or 44B”, and
+    - (bb) at the end insert “ and preparing the national waste management plan, or any modification of it, in accordance with the National Waste Management Plan for Scotland Regulations 2007 (S.S.I. 2007/251) ”.
+
+ROSS FINNIE
+
+A member of the Scottish Executive
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — Objectives for the purposes of the national waste management plan[^key-dc4f1a9fd37c40eb5d568d58c16ba6fc]
+
+Regulation 3(3)(a)
+
+**1.** Ensuring that waste is managed[^key-6430e4c917f1a26ce38bb9bceb16c150] without endangering human health and without using processes or methods which could harm the environment and, in particular, without–
+
+- (a) risk to water, air, soil, plants or animals;
+- (b) causing nuisance through noise or odours;
+- (c) adversely affecting the countryside or places of special interest.
+
+**1A.**[^key-be6a60e0716a8e584d701552963f4c38] Applying the following waste hierarchy:
+
+- (a) prevention;
+- (b) preparing for re-use;
+- (c) recycling;
+- (d) other recovery, including energy recovery;
+- (e) disposal
+
+in a way which delivers the best overall environmental outcome. The hierarchy may be departed from for particular types of waste where justified in order to ensure this outcome and by reference to the overall impact of the generation and management of such types of waste.
+
+**1B.**[^key-b6c3d882af54e0dd15afbc277e36b142] Making use of economic instruments and other measures to provide incentives for the application of the waste hierarchy, such as those listed in Annex IVa of the Waste Directive or other appropriate instruments and measures.
+
+**2.**[^key-9454812d7683ae771d4447609222b4e8] Establishing an integrated and adequate network of waste disposal installations and of installations for the recovery of all mixed municipal waste which includes waste collected from private households, taking into account best available techniques.
+
+**3.** Ensuring that the network referred to in paragraph 2 enables–
+
+- (a) Scotland to move towards the aim of becoming[^key-1d7ffdeaf3ac367253dd27d65f41b288] self-sufficient in waste disposal and in the recovery of the municipal waste referred to in paragraph 2,[^key-31cbf3c326fa7f00977532e70228b828] [^key-15c6a3d2ae47ebee73afbc257aabed5f]... taking into account geographical circumstances or the need for specialised installations for certain types of waste; and
+- (b) waste to be disposed of , and the municipal waste referred to in paragraph 2 to be recovered,[^key-b694e31aa164b8423a6a5185224e1a41] in one of the nearest appropriate installations, by means of the most appropriate methods and technologies in order to ensure a high level of protection for the environment and public health.
+
+**4.** Encouraging the prevention or reduction of waste production and its harmfulness, in particular by–
+
+- (a) the development of clean technologies more sparing in their use of natural resources;
+- (aa)[^M_F_fcddd200-2ddc-4a50-d56c-e2125d41a72d] reducing the quantity of waste produced through the re-use of products or the extension of their life spans;
+- (b) the technical development and marketing of products designed so as to make no contribution or to make the smallest possible contribution, by the nature of their manufacture, use or final disposal, to increasing the amount of harmfulness of waste and pollution hazards; and
+- (c) the development of appropriate techniques for the final disposal of dangerous substances contained in waste destined for recovery.
+
+### 4A.[^key-51ba99440395deb04e14929e2170882a]
+
+Promoting the [^key-71bc49fc786201e6ef3ade956843394f]... preparation of products for re-use activities[^key-f480a4825b73591e930c2ab5f5c0209d], in particular and where appropriate by—
+
+- (a) encouraging the establishment of and supporting preparation for[^key-2788779d25940b65333e64c349652a86] re-use and repair networks;
+- (aa)[^key-54aa6ac16bb7e2ebadb63ba2212f2a2b] encouraging and facilitating, where compatible with proper waste management, the access of preparing for re-use and repair networks to waste held by collection schemes or facilities that can be prepared for re-use but is not destined for preparing for re-use by those schemes or facilities,
+- (b) use of economic incentives;
+- (c) use of procurement criteria; and
+- (d) use of quantitative objectives.
+
+### 4B.
+
+Encouraging—
+
+- (a) the separate collection of bio-waste with a view to its composting and digestion;
+- (b) the treatment of bio-waste in a way that fulfils a high level of environmental protection; and
+- (c) the use of environmentally safe materials produced from bio-waste.
+
+**5.** Encouraging–
+
+- (a) the recovery of waste by means of recycling, reuse or reclamation or any other process with a view to extracting secondary raw materials; and
+- (b) the use of waste as a source of energy.
+
+  (a)
+
+## SCHEDULE 2 — Waste prevention measures[^key-3107913c303361c6b54c4adb9ae16e18]
+
+Regulation 3(3)(zaa)
+
+**1.** The waste prevention measures referred to in regulation 3(3)(zaa) are measures to—
+
+- (a) promote and support sustainable production and consumption models,
+- (b) encourage the design, manufacturing and use of products that are resource-efficient, durable (including in terms of life span and absence of planned obsolescence), reparable, re-usable and upgradable,
+- (c) target products containing critical raw materials to prevent those materials from becoming waste,
+- (d) encourage the re-use of products and the setting up of systems promoting repair and re-use activities, including in particular for—
+  - (i) electrical and electronic equipment,
+  - (ii) textiles,
+  - (iii) furniture,
+  - (iv) packaging, and
+  - (v) construction materials and products,
+- (e) encourage, as appropriate and without prejudice to intellectual property rights, the availability of spare parts, instruction manuals, technical information, or other instruments, equipment or software enabling the repair and re-use of products without compromising their quality and safety,
+- (f) reduce waste generation in processes related to industrial production, extraction of minerals, manufacturing, construction and demolition, taking into account best available techniques,
+- (g) reduce the generation of food waste in primary production, in processing and manufacturing, in retail and other distribution of food, in restaurants and food services as well as in households,
+- (h) encourage food donation and other redistribution for human consumption, prioritising human use over animal feed and the reprocessing into non-food products,
+- (i) promote the reduction of the content of hazardous substances in materials and products,
+- (j) reduce the generation of waste, in particular waste that is not suitable for preparing for re-use or recycling,
+- (k) identify products that are the main sources of littering and take appropriate measures to prevent and reduce litter from such products,
+- (l) aim to halt the generation of marine litter,
+- (m) develop and support information campaigns to raise awareness about waste prevention and littering,
+- (n) promote selective demolition in order to enable removal and safe handling of hazardous substances and facilitate re-use and high-quality recycling by selective removal of materials, and to ensure the establishment of sorting systems for construction and demolition waste at least for wood, mineral fractions (concrete, bricks, tiles and ceramics, stones), metal, glass, plastic and plaster.
+
+*(This note is not part of the Regulations)*
+
+These Regulations make provision for the purpose of implementing:
+
+- Article 7 of Directive [2006/12/EC](https://www.legislation.gov.uk/european/directive/2006/0012) of the European Parliament and of the Council on waste (O.J. No. L 114, 27.04.2006, p.21);
+- Article 6 of Council Directive [91/689/EEC](https://www.legislation.gov.uk/european/directive/1991/0689) on hazardous waste (O.J. No. L 377, 31.12.1991, p. 20) as amended by Council Directive [94/31/EC](https://www.legislation.gov.uk/european/directive/1994/0031) (O.J. No. L 168, 02.07.1994, p.28), Corrigendum to Directive [91/689/EC](https://www.legislation.gov.uk/european/directive/1991/0689) (O.J. No. L 23, 30.01.1998, p.39) and Regulation [(EC) No. 166/2006](https://www.legislation.gov.uk/european/regulation/2006/0166) of the European Parliament and of the Council of 18 January 2006 (O.J. No. L 33, 04.02.2006, p.1);
+- Article 14 of Directive [94/62/EC](https://www.legislation.gov.uk/european/directive/1994/0062) of the European Parliament and of the Council on packaging and packaging waste (O.J. No. L 365, 31.12.1994, p.10) as amended by Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) of the European Parliament and of the Council (O.J. No. L 284, 31.10.2003, p.1), Directive [2004/12/EC](https://www.legislation.gov.uk/european/directive/2004/0012) of the European Parliament and of the Council (O.J. No. L 47, 18.02.2004, p. 26) and Directive [2005/20/EC](https://www.legislation.gov.uk/european/directive/2005/0020) of the European Parliament and of the Council (O.J. No. L 70, 16.03.2005, p.17); and
+- Article 2 of Directive [2003/35/EC](https://www.legislation.gov.uk/european/directive/2003/0035) of the European Parliament and of the Council providing for public participation in respect of the drawing up of certain plans and programmes relating to the environment (O.J. No. L 156, 25.06.2003), in so far as it relates to waste planning.
+
+Section 44B of the Environmental Protection Act 1990 (“**the 1990 Act**”) requires SEPA to produce a national waste strategy for Scotland. Schedule 2A to the 1990 Act sets out the objectives for the purposes of that strategy. These Regulations replace section 44B with a requirement for the Scottish Ministers to have a national waste management plan for Scotland.
+
+Regulation 3(1) requires the Scottish Ministers to have a national waste management plan containing their policies in relation to the recovery and disposal of waste in Scotland and satisfying the requirements specified in regulation 3(2) and (3). Until Ministers prepare that plan, the documents specified in regulation 3(6) will constitute that plan, insofar as they contain policies and text that satisfy those requirements.
+
+Regulation 4 enables the Scottish Ministers to give directions to SEPA requiring it to advise and assist them in relation to the national waste management plan.
+
+Regulation 5 applies Part 3 of the Regulations to the preparation or modification of the national waste management plan, except where the plan or any part of it is designed for the sole purpose of serving national defence or civil emergencies or is subject to a public participation procedure under the Environmental Assessment (Scotland) Act 2005.
+
+Regulation 6 sets out the public participation procedures to be followed when preparing or modifying the national waste management plan to which Part 3 applies.
+
+Regulation 7 sets out the procedures to be followed after public participation has taken place.
+
+Regulation 8 contains consequential repeals and amendments. These include the repeal of section 44B of, and Schedule 2A to, the 1990 Act.
+
+The Schedule sets out the objectives for the purposes of the national waste management plan.
+
+## Annotations
+
+[^c18472061]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The functions conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^c18472071]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
+
+[^key-6267028af8003216dfa003017f8b4457]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/251/regulation/2/1) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/436/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-d549764aef8822380f26c399a031e648]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/251/regulation/2/1) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-e33ad25b73ec652b983062c5372d18d3]: Textual amendment: Words in reg. 2 inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/2/c)
+
+[^c18472091]: Marginal citation: ISBN 0-7 559-4195-0.
+
+[^key-05411d4c2bad2b3a6e913a80ddd54bf6]: Textual amendment: Words in reg. 2 omitted (27.3.2011) by virtue of [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/2/a)
+
+[^c18472111]: Marginal citation: O.J. No. L 365, 31.12.1994, p.10; as amended by Regulation (EC) No. 1882/2003 of the European Parliament and of the Council (O.J. No. L 284, 31.10.2003, p.1), Directive 2004/12/EC of the European Parliament and of the Council (O.J. No. L 47, 18.2.2004, p.26) and Directive 2005/20/EC of the European Parliament and of the Council (O.J. No. L 70, 16.03.2005, p.17).
+
+[^key-efe9b91099602dcae07c0034041dfcae]: Textual amendment: Words in reg. 2 inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [14(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/14/2)
+
+[^key-4d921ef9f3fccc42b90033211f7180f5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2007/251/regulation/2) substituted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/2)
+
+[^c18472121]: Marginal citation: ISBN 0 7559 3330 3.
+
+[^key-8a4a130a0538120c6fec839dfd25c237]: Textual amendment: Words in reg. 2 inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(2)(d)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/2/d)
+
+[^key-03d2a97be7d639b40c59e8344bbb6672]: Textual amendment: Word in reg. 2 omitted (27.3.2011) by virtue of [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(2)(e)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/2/e)
+
+[^key-51ec851f4a65459e6aea07305c354b36]: Textual amendment: Words in reg. 2 substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(2)(f)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/2/f)
+
+[^key-30310d513b49fbb82388e755e5f31739]: Textual amendment: Reg. 2A inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/3)
+
+[^key-34bc4cd8c603fcb9d794db067e5b4421]: Textual amendment: Reg. 2A(a) substituted (1.7.2016) by [The Waste (Meaning of Recovery) (Miscellaneous Amendments) (Scotland) Order 2015 (S.S.I. 2015/438)](https://www.legislation.gov.uk/ssi/2015/438), [arts. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1), [4](https://www.legislation.gov.uk/ssi/2015/438/article/4)
+
+[^key-959cbc9dff1a84955805feb27003e924]: Textual amendment: Words in [reg. 2A(a)](https://www.legislation.gov.uk/ssi/2007/251/regulation/2A/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [14(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/14/3)
+
+[^key-26077941d207ff130d861ce82cfd4555]: Textual amendment: Words in [reg. 2A(a)](https://www.legislation.gov.uk/ssi/2007/251/regulation/2A/a) substituted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/3)
+
+[^key-67e8f45e899be1acf82c4457fb23079c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/1) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/4/a)
+
+[^key-381551ffcaa4c2dc8d3ebb542848d0bc]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/2) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/4/b)
+
+[^key-ce1f5d9478d3c12572944e25d4ba1306]: Textual amendment: [Reg. 3(3)(aza)-(azc)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/3/aza) inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(4)(c)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/4/c)
+
+[^key-89b528610347e4d45ca40f0c6b23b72b]: Textual amendment: Words in [reg. 3(3)(a)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/3/a) substituted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(4)(a)(i)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/4/a/i)
+
+[^key-37f5b64f1a466822e6b128b12c1165dd]: Textual amendment: [Reg. 3(3)(zaa)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/3/zaa) inserted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/4/a/ii)
+
+[^key-d79ed3c28607410c5edf69116d6bbb05]: Textual amendment: [Reg. 3(3)(aa)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/3/aa) inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(4)(d)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/4/d)
+
+[^key-7033d3f6ed0d73162a3a1a6982016f30]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/3) omitted (27.3.2011) by virtue of [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(4)(e)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/4/e)
+
+[^key-13d6b83f1fd3dfb6348cd545807cdb2b]: Textual amendment: [Reg. 3(3)(c)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/3/c) omitted (27.3.2011) by virtue of [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(4)(f)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/4/f)
+
+[^key-4a132dcf026a3bdd02de81617b8d91e5]: Textual amendment: [Reg. 3(3)(d)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/3/d)[(e)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/3/e) inserted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(4)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/4/a/iii)
+
+[^key-0069bfe00ecbb767578912465ff34d54]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/3A) inserted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/4/b)
+
+[^key-a59ad3f6a1730886a1d00527bddfa64e]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/4) inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(4)(g)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/4/g)
+
+[^key-6755bd7661be0dedc61c0042bc40474f]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/ssi/2007/251/regulation/3/6) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(4)(h)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/4/h)
+
+[^c18472201]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c18472211]: Marginal citation: asp 15.
+
+[^c18472221]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 44B and Schedule 2A were inserted into the 1990 Act by section 92(1) of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
+
+[^c18472231]: Marginal citation: Section 44ZA was inserted into the 1990 Act by section 34(1) of the Local Government in [Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1).
+
+[^c18472241]: Marginal citation: [S.I. 1994/1056](https://www.legislation.gov.uk/uksi/1994/1056); the definition of “plan-making provisions” has been amended by paragraph 10(5)(a) of Schedule 2 to [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593).
+
+[^key-dc4f1a9fd37c40eb5d568d58c16ba6fc]: Textual amendment: Sch. renumbered as sch. 1 (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(5)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/5)
+
+[^key-6430e4c917f1a26ce38bb9bceb16c150]: Textual amendment: Word in sch. para. 1 substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(5)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/5)
+
+[^key-be6a60e0716a8e584d701552963f4c38]: Textual amendment: Sch. para. 1A inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(6)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/6)
+
+[^key-b6c3d882af54e0dd15afbc277e36b142]: Textual amendment: [Sch. 1 para. 1B](https://www.legislation.gov.uk/ssi/2007/251/schedule/1/paragraph/1B) inserted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(6)(a)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/6/a)
+
+[^key-9454812d7683ae771d4447609222b4e8]: Textual amendment: Sch. para. 2 substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(7)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/7)
+
+[^key-1d7ffdeaf3ac367253dd27d65f41b288]: Textual amendment: Words in [sch. para. 3(a)](https://www.legislation.gov.uk/ssi/2007/251/schedule/paragraph/3/a) substituted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2019/436/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-31cbf3c326fa7f00977532e70228b828]: Textual amendment: Words in sch. para. 3(a) inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(8)(a)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/8/a)
+
+[^key-15c6a3d2ae47ebee73afbc257aabed5f]: Textual amendment: Words in [sch. para. 3(a)](https://www.legislation.gov.uk/ssi/2007/251/schedule/paragraph/3/a) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2019/436/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-b694e31aa164b8423a6a5185224e1a41]: Textual amendment: Words in sch. para. 3(b) inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(8)(b)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/8/b)
+
+[^M_F_fcddd200-2ddc-4a50-d56c-e2125d41a72d]: Textual amendment: Sch. para. 4(aa) inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), regs. 1(1), 5(9)
+
+[^key-51ba99440395deb04e14929e2170882a]: Textual amendment: Sch. paras. 4A, 4B inserted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [5(10)](https://www.legislation.gov.uk/ssi/2011/226/regulation/5/10)
+
+[^key-71bc49fc786201e6ef3ade956843394f]: Textual amendment: Words in [sch. 1 para. 4A](https://www.legislation.gov.uk/ssi/2007/251/schedule/1/paragraph/4A) omitted (4.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(6)(b)(i)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/6/b/i)
+
+[^key-f480a4825b73591e930c2ab5f5c0209d]: Textual amendment: Word in [sch. 1 para. 4A](https://www.legislation.gov.uk/ssi/2007/251/schedule/1/paragraph/4A) inserted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/6/b/ii)
+
+[^key-2788779d25940b65333e64c349652a86]: Textual amendment: Words in [sch. 1 para. 4A(a)](https://www.legislation.gov.uk/ssi/2007/251/schedule/1/paragraph/4A/a) inserted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(6)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/6/b/iii)
+
+[^key-54aa6ac16bb7e2ebadb63ba2212f2a2b]: Textual amendment: [Sch. 1 para. 4A(aa)](https://www.legislation.gov.uk/ssi/2007/251/schedule/1/paragraph/4A/aa) inserted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(6)(b)(iv)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/6/b/iv)
+
+[^key-3107913c303361c6b54c4adb9ae16e18]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2007/251/schedule/2) inserted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [5(7)](https://www.legislation.gov.uk/ssi/2020/314/regulation/5/7)

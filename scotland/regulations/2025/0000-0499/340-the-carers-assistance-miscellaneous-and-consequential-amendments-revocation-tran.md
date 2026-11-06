@@ -1,0 +1,1208 @@
+---
+title: The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025
+id: ssi/2025/340
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-11-06'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2025/340
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2025/340/pdfs/ssipn_20250340_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2025/340/pdfs/ssi_20250340_en.pdf
+- http://www.legislation.gov.uk/ssi/2025/340/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2025 No. 340
+
+Social Security
+
+The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025
+
+Made
+
+6th November 2025
+
+Coming into force in accordance with regulation 1
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 28(2), 41(4)(a), 43(5), 51(1), 52, 81(8) and 95 of the Social Security (Scotland) Act 2018 [^f00001] and all other powers enabling them to do so.
+
+In accordance with section 96(2) of that Act, a draft of these Regulations has been laid before and approved by resolution of the Scottish Parliament.
+
+In accordance with section 97(2) of that Act, the Scottish Ministers have informed the Scottish Commission on Social Security of their proposals, notified the Scottish Parliament that they have done so and made their proposals publicly available by such means as they consider appropriate.
+
+## PART 1 — Introductory and interpretation
+
+### 1. Citation, commencement and interpretation[^key-844154d976d7230a0719b6c62c5732c5]
+
+(1) These Regulations may be cited as the Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025.
+
+(2) Subject to paragraph (3), these Regulations come into force on 15 March 2026.
+
+(3) Regulations 1, 2(1), 2(2), 2(4), 3(1), 3(7), 3(10), 3(16)(b), 3(21)(b), 3(22)(c), 3(24)(d)(i) and (iv), 3(29)(b), (c) and (e) come into force on 16 November 2025.
+
+(4) In these Regulations—
+
+- “**the 2018 Act**” means the Social Security (Scotland) Act 2018,
+- “**the 2023 Regulations**” means the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^f00002].
+
+## PART 2 — Young Carer Grants
+
+### 2. Amendment of the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019[^key-c4255c20eb88f491f0d8ef5b8fcc4ce8][^key-cf9d1deb53b1d7003e4cbfc459ff9a26]
+
+(1)[^key-c4255c20eb88f491f0d8ef5b8fcc4ce8] The Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019[^f00003] are amended in accordance with paragraphs (2) to (4).
+
+(2)[^key-c4255c20eb88f491f0d8ef5b8fcc4ce8] In regulation 4(1) (making of applications) for “19” substitute “20”.
+
+(3)[^key-cf9d1deb53b1d7003e4cbfc459ff9a26] For regulation 6(3)(a) (conditions relating to the person or persons being cared for) substitute—
+
+> - (a) the Carer Support Payment component of Carer Support payable under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023, or
+
+.
+
+(4)[^key-c4255c20eb88f491f0d8ef5b8fcc4ce8] In regulation 7(6) (further eligibility conditions) for “three” substitute “4”.
+
+## PART 3 — Carer Support
+
+### 3. Amendment of the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^key-8edef39ee9262720440916ff5190e13f][^key-5f0d75539d5d1e5d6ae6ebc1c47a7878]
+
+(1)[^key-8edef39ee9262720440916ff5190e13f] The 2023 Regulations are amended in accordance with paragraphs (2) to (30).
+
+(2)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 2 (interpretation)—
+
+- (a) after the definition of “the 1992 Act” insert—
+
+  > - “additional cared for person” is a person described in regulation 14B(1)(b),
+
+  ,
+- (b) in the definition of “cared for person” after “cared for person” insert “, other than where those words appear within the term “additional cared for person”,”,
+- (c) after the definition of “cared for person” insert—
+
+  > - “**Carer Additional Person Payment**” means the Carer Additional Person Payment component of Carer Support provided for in regulation 14B,
+
+  ,
+- (d) after the definition of “carer element of Universal Credit” insert—
+
+  > - “**Carer Support**” means carer’s assistance given in accordance with these  Regulations,
+
+  ,
+- (e) for the definition of “Carer Support Payment” substitute—
+
+  > - “**Carer Support Payment**” means the Carer Support Payment component of Carer Support provided for in regulation 4A,
+
+  ,
+- (f) after the definition of “Scottish Adult Disability Living Allowance” insert—
+
+  > - “**Scottish Carer Supplement**” means the Scottish Carer Supplement component of Carer Support provided for in regulation 14A,
+
+  .
+
+(3)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In Part 2 (carer support payment) for the heading substitute—
+
+> Part 2
+>
+> Carer Support
+
+.
+
+(4)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] For regulation 3 (overview) substitute—
+
+> **3. Overview**
+>
+> (1) Carer Support is to consist of the following components—
+>
+> - (a) Carer Support Payment,
+> - (b) Scottish Carer Supplement, and
+> - (c) Carer Additional Person Payment.
+>
+> (2) An individual is entitled to Carer Support in accordance with these Regulations if they meet the eligibility rules in—
+>
+> - (a) regulation 4 (age criteria),
+> - (b) regulations 6 to 11 (residence and presence conditions),
+> - (c) regulation 13 (individuals in education), and
+> - (d) one or more of the following—
+>   - (i) regulation 4A (Carer Support Payment),
+>   - (ii) regulation 14A (Scottish Carer Supplement),
+>   - (iii) regulation 14B (Carer Additional Person Payment).
+
+.
+
+(5)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In the following provisions, for “Carer Support Payment” in each place it occurs substitute “Carer Support”—
+
+- (a) regulation 4 (age criteria),
+- (b) regulation 6 (residence and presence conditions),
+- (c) regulation 10 (persons residing in the United Kingdom to whom a relevant EU regulation applies),
+- (d) regulation 11 (persons residing outside the United Kingdom to whom a relevant EU regulation applies),
+- (e) regulation 13 (individuals in education),
+- (f) regulation 15 (making payments),
+- (g) regulation 18 (when an application is to be treated as made and beginning of entitlement to assistance),
+- (h) regulation 22 (time of payment),
+- (i) regulation 23 (temporary stop in entitlement),
+- (j) regulation 25 (continuing eligibility),
+- (k) regulation 26 (form of payment – giving Carer Support by way of deduction),
+- (l) regulation 28 (when an increase in amount of entitlement takes effect),
+- (m) regulation 29 (circumstances in which assistance may be suspended),
+- (n) regulation 30 (having regard to financial circumstances),
+- (o) regulation 31 (information to be given following suspension),
+- (p) regulation 32 (right to review suspension),
+- (q) regulation 34 (effect of suspension ending),
+- (r) regulation 35 (consideration of entitlement after specified period),
+- (s) regulation 37 (determination following official error – underpayments),
+- (t) regulation 38 (determination following error – overpayments),
+- (u) regulation 39 (determination to effect a deduction decision),
+- (v) regulation 41 (individuals in respect of whom Carer’s Allowance is paid in another part of the United Kingdom immediately before moving to Scotland),
+- (w) regulation 42 (individuals in respect of whom Carer Support is paid at the time of moving to another part of the United Kingdom),
+- (x) regulation 43 (periods in respect of a re-determination request).
+
+(6)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] After regulation 4 (age criteria) insert—
+
+> **4A. Carer Support Payment**
+>
+> An individual is entitled to Carer Support Payment if they meet the conditions set out in—
+>
+> - (a) regulation 5 (provision of care to a cared for person),
+> - (b) regulation 12 (entitlement to other benefits), and
+> - (c) regulation 14 (earnings limit).
+
+.
+
+(7)[^key-8edef39ee9262720440916ff5190e13f] In regulation 5(6) (provision of care to a cared for person), for “paragraph (2)” substitute “paragraph (1)”.
+
+(8)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 6 (residence and presence conditions)—
+
+- (a) in paragraph (6)(b) in the opening words, after “person” insert “or additional cared for person”,
+- (b) in paragraph (7) in the opening words, for “individual or a cared for person” substitute “individual, cared for person or additional cared for person”.
+
+(9)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 7 (temporary absence from the common travel area) after each occurrence of “cared for person” insert “or additional cared for person”.
+
+(10)[^key-8edef39ee9262720440916ff5190e13f] In regulation 14(1) (earnings limit), for “that award” substitute “the immediately preceding award”.
+
+(11)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] After regulation 14 (earnings limit) insert—
+
+> **14A. Scottish Carer Supplement**
+>
+> An individual is entitled to Scottish Carer Supplement for each award week in which Carer Support Payment is payable to the individual.
+>
+> **14B. Carer Additional Person Payment**
+>
+> (1) An individual is entitled to Carer Additional Person Payment for each award week in which—
+>
+> - (a) Carer Support Payment is payable to the individual, and
+> - (b) the individual provides regular and substantial care to a person (an “additional cared for person”)—
+>   - (i) who is not the cared for person in respect of whom they receive the Carer Support Payment referred to in sub-paragraph (a), and
+>   - (ii) to whom a qualifying disability benefit is normally payable.
+>
+> (2) An individual may be entitled to Carer Additional Person Payment in respect of more than one additional cared for person in respect of the same period.
+>
+> (3) For the purposes of paragraph (1)(b), an individual shall only be treated as being regularly and substantially engaged in caring for an additional cared for person on every day in a week if they are, or are likely to be, regularly engaged for at least 20 hours in an award week in caring for that additional cared for person.
+>
+> (4) An individual may be entitled to Carer Additional Person Payment in respect of an additional cared for person notwithstanding that another individual is entitled to—
+>
+> - (a) Carer Support Payment,
+> - (b) Carer’s Allowance,
+> - (c) the carer element of Universal Credit, or
+> - (d) Young Carer Grant,
+>
+> in respect of that additional cared for person.
+>
+> (5) The hours caring for—
+>
+> - (a) a cared for person in accordance with regulation 5(2) (provision of care to a cared for person), and
+> - (b) one or more additional cared for persons under paragraph (3),
+>
+> may run concurrently.
+>
+> (6) The care for the additional cared for person must not be provided by an individual—
+>
+> - (a) under or by virtue of a contract, unless the contract is of a kind specified by regulations made under section 1(3)(a) of the Carers (Scotland) Act 2016[^f00004] as not to be regarded as a contract for the purposes of that Act, or
+> - (b) as voluntary work done for a charity or other not-for-profit organisation for which no payment is received other than reasonable expenses.
+>
+> (7) No individual can be entitled to Carer Additional Person Payment in respect of an additional cared for person where another individual is entitled to Carer Additional Personal Payment in respect of that additional cared for person.
+
+.
+
+(12)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 16 (amount and form of Carer Support Payment)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] for the heading substitute—
+
+  > Amount and form of Carer Support
+
+  ,
+- (b)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (1) for “Subject to regulation 21 (amount and form of carer support payment where payments are backdated), the” substitute “The”,
+- (c)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] after paragraph (1) insert—
+
+  > (1A) The weekly rate of payment of Scottish Carer Supplement is £11.29.
+  >
+  > (1B) The weekly rate of payment of Carer Additional Person Payment is £10.00.
+
+  ,
+- (d)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (4)—
+  - (i) for both occurrences of “Carer Support Payment” substitute “Carer Support”,
+  - (ii) for sub-paragraph (b) substitute—
+
+    > - (b) the expiry of the period of 12 award weeks after the first day of the award week following the award week in which the cared for person died.
+
+    ,
+- (e)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] after paragraph (4) insert—
+
+  > (4A) When an additional cared for person dies and an individual was entitled to Carer Additional Person Payment in respect of that additional cared for person immediately before their death, the individual’s entitlement to Carer Additional Person Payment in respect of that person will continue to be paid until whichever of the following comes first—
+  >
+  > - (a) the first day of the award week following the award week in which the individual ceases to satisfy the eligibility requirement set out in regulation 14B(1)(a), or
+  > - (b) the expiry of the period of 12 award weeks after the first day of the award week following the award week in which the additional cared for person died.
+
+  ,
+- (f)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (5)—
+  - (i) in the opening words omit “Payment”,
+  - (ii) in sub-paragraph (a) after “(abatement in respect of a relevant individual)” insert “in relation to Carer Support Payment”.
+
+(13)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 17(1)(a) (abatement in respect of a relevant benefit), omit “Payment”.
+
+(14)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 18 (when an application is to be treated as made and beginning of entitlement to assistance)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (2)(b)(ii) for “Part 3” substitute “regulation 3(2) (overview)”,
+- (b)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (3) in each place it occurs, for “Part 3” substitute “regulation 3(2) (overview)”.
+
+(15)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 19 (applications made within 13 weeks of a qualifying disability benefit decision)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] for paragraph (1) substitute—
+
+  > (1) Where an individual makes an application for Carer Support within 13 weeks of a relevant qualifying disability benefit decision in respect of a cared for person, the Scottish Ministers may determine that entitlement to Carer Support begins on the first day of the award week in which, as a result of that relevant qualifying disability benefit decision, entitlement to that benefit begins, provided the individual satisfied the eligibility requirements set out in regulation 3(2) (overview) of these Regulations on that date.
+
+  ,
+- (b)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (2)—
+  - (i) in the opening words—
+    - (aa) for “Part 3” substitute “regulation 3(2) (overview)”,
+    - (bb) after “decision” insert “in respect of a cared for person”,
+  - (ii) in sub-paragraph (a) for “Part 3” substitute “regulation 3(2) (overview)”.
+
+(16)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 23 (temporary stop in entitlement)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] for “Part 3” in each place it occurs substitute “regulation 3(2) (overview)”,
+- (b)[^key-8edef39ee9262720440916ff5190e13f] in paragraph (1), in the opening words for “the Scottish Ministers have made a determination without application under regulation 36 (determination following a change of circumstances etc.)” substitute “a determination has been made”,
+- (c) after paragraph (1)(e) insert—
+
+  > ,
+  >
+  > - (f) the individual is temporarily absent in terms of regulation 7(2)(a) (temporary absence from the common travel area) and no longer treated as present in the common travel area in terms of regulation 7(1)
+
+  ,
+- (d) in paragraph (4)(b) after “ended” insert “or the payment has stopped”,
+- (e) after paragraph (4)(b)(ii) insert—
+
+  > - (iii) temporarily absent and no longer treated as present in the common travel area,
+
+  ,
+- (f) after paragraph (11) insert—
+
+  > (12) For the purposes of paragraph (1) a determination of an individual’s entitlement has the same meaning as in section 25 of the 2018 Act.
+
+  .
+
+(17)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] After regulation 23 (temporary stop in entitlement) insert—
+
+> **23A. Determination following change in qualifying disability benefit – additional cared for person**
+>
+> (1) The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support, without receiving an application, where the individual—
+>
+> - (a) has ongoing entitlement to Carer Additional Person Payment, and
+> - (b) cares for an additional cared for person whose qualifying disability benefit has—
+>   - (i) been reduced to £0,
+>   - (ii) stopped being payable in the circumstances set out in regulation 23(4)(b) (temporary stop in entitlement), or
+>   - (iii) been suspended as a result of the circumstances set out in regulation 23(4)(c).
+>
+> (2) Where a determination is made under paragraph (1), it must determine that the individual is no longer entitled to the Carer Additional Person Payment in respect of the additional cared for person referred to in paragraph (1)(b).
+>
+> (3) Where paragraph (1)(a), (b)(i) or (b)(ii) applies, the determination comes into effect on the first day of the award week following the award week in which the additional cared for person’s qualifying disability benefit has been reduced to £0 or stopped being payable.
+>
+> (4) Where paragraph (1)(b)(iii) applies, the determination comes into effect on the first day of the award week following the day on which the additional cared for person’s qualifying disability benefit has been suspended for 4 weeks.
+
+.
+
+(18)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 24(1) (multiple applications involving the same cared for person) omit “Payment”.
+
+(19)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] After regulation 24 (multiple applications involving the same cared for person) insert—
+
+> **24A. Multiple applications involving the same additional cared for person**
+>
+> (1) Where the Scottish Ministers are required under these Regulations to make a determination of the entitlement of two or more individuals to Carer Support in respect of the same additional cared for person, the Scottish Ministers must determine the entitlement of the individual whose entitlement first fell to be determined in accordance with section 37 of the 2018 Act (whether on receipt of an application from the individual or by virtue of any provision of these Regulations) before making any other determination.
+>
+> (2) Where, but for regulation 14B(7) (Carer Additional Person Payment), two or more individuals would be entitled to Carer Additional Person Payment in respect of the same additional cared for person for the same period, only one of them may be entitled, being either—
+>
+> - (a) one of them as they may jointly agree in accordance with paragraph (3), or
+> - (b) in absence of such agreement, one of them as may be determined by the Scottish Ministers in accordance with paragraph (4).
+>
+> (3) An agreement under paragraph (2)(a) is to be made by giving the Scottish Ministers a notice in writing signed by the individuals mentioned in paragraph (2), specifying one of them as the individual to be entitled to assistance.
+>
+> (4) When making a determination under paragraph (2)(b), the Scottish Ministers must have regard to factors including but not limited to—
+>
+> - (a) the best interests of the additional cared for person,
+> - (b) whether any of the individuals mentioned in paragraph (2)—
+>   - (i) are family members of the additional cared for person,
+>   - (ii) live with or near the additional cared for person,
+>   - (iii) receive any benefits on behalf of, or as a result of their responsibility for, the additional cared for person.
+>
+> (5) The Scottish Ministers may, having considered the factors set out in paragraph (4), make a determination without application that one of the individuals mentioned in paragraph (2), who has ongoing entitlement to Carer Support in respect of the additional cared for person referred to in paragraph (1), is no longer entitled to the Carer Additional Person Payment component of Carer Support in respect of the additional cared for person.
+>
+> (6) Where paragraph (2) applies at the same time as regulation 24(2), (3) or (4) (multiple applications involving the same cared for person), the Scottish Ministers must make a determination under regulation 24(2), (3) or (4) before making a determination under paragraph (2)(b).
+
+.
+
+(20)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 26 (form of payment – giving Carer Support Payment by way of deduction) for the heading substitute—
+
+> Form of payment – giving Carer Support by way of deduction
+
+.
+
+(21)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 27(1) (when a decrease in amount or cessation of entitlement takes effect)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in the opening words—
+  - (i) in the first place it occurs, omit “Payment”,
+  - (ii) for “Carer Support Payment ceases” substitute “a component is ceased”,
+- (b)[^key-8edef39ee9262720440916ff5190e13f] after sub-paragraph (a), insert—
+
+  > - (ab) in the case of a decrease pursuant to a determination made under regulation 36(f) or 36(g) (determination following change of circumstances etc.), on the day on which the individual’s entitlement to Carer’s Allowance ceased,
+
+  .
+
+(22) In regulation 28(1) (when an increase in amount of entitlement takes effect)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in the opening words, after “is increased” insert “or their entitlement to a component is awarded”,
+- (b)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in sub-paragraph (a)—
+  - (i) in the opening words, after “in the case of” insert “an award of entitlement to a component or”,
+  - (ii) in head (i) after “requirements for” insert “an award of entitlement to a component or”,
+- (c)[^key-8edef39ee9262720440916ff5190e13f] after sub-paragraph (a), insert—
+
+  > - (ab) in the case of an increase pursuant to a determination made under regulation 36(f) or 36(g) (determination following change of circumstances etc.) on the day on which the individual’s entitlement to Carer’s Allowance ceased,
+
+  .
+
+(23)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In Part 6 (re-consideration of entitlement to Carer Support Payment: determination without application) for the heading substitute—
+
+> Part 6
+>
+> Re-consideration of entitlement to Carer Support: determination without application
+
+.
+
+(24) In regulation 36 (determination following change of circumstances etc.)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in the opening words, omit “Payment” in each place it occurs,
+- (b)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (b)—
+  - (i) omit “Payment” in each place it occurs,
+  - (ii) after “amount” insert “or the component”,
+- (c)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] after paragraph (d), insert—
+
+  > - (da) that an additional cared for person has died,
+
+  ,
+- (d) in paragraph (e)—
+  - (i)[^key-8edef39ee9262720440916ff5190e13f] for sub-paragraph (i) substitute—
+
+    > - (i) the date chosen by the individual—
+    >   - (aa) is no earlier than 19 November 2023 where regulation 18A(1) (entitlement beginning before individual satisfied the residence requirements in regulation 46) applies to that individual,
+    >   - (bb) is no earlier than 23 June 2024 where regulation 18B(1) (entitlement beginning before individual satisfied the residence requirements in regulation 46 – individuals in education mentioned in regulation 13(2)) applies to that individual, or
+    >   - (cc) in any other case, no more than 13 weeks prior to the day on which their application is treated as made,
+
+    ,
+  - (ii)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in sub-paragraph (i) omit heads (aa) and (bb),
+  - (iii)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in sub-paragraph (ii) for “Part 3” substitute “regulation 3(2) (overview)”,
+  - (iv)[^key-8edef39ee9262720440916ff5190e13f] after sub-paragraph (ii), insert—
+
+    > , and
+    >
+    > - (iii) the individual notifies the Scottish Ministers—
+    >   - (aa) within 13 weeks of the date on which their entitlement to Carer Support Payment was determined on the basis of an application, or
+    >   - (bb) where the Scottish Ministers consider that the individual has good reason for not notifying that they wish for their entitlement to assistance to begin on a date prior to the day on which their application was treated as made within the period referred to in head (aa), on a later date.
+
+    ,
+  - (v) in sub-paragraph (iii)(aa) omit “Payment”,
+- (e) after paragraph (f), insert—
+
+  > - (fa) of an alteration of the award of Carer Support Payment which the individual was entitled to immediately before the date of transfer to Carer Support in accordance with schedule 2 (transfer from Carer Support Payment to Carer Support) of the Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025[^f00005], as a result of—
+  >   - (i) a determination under regulation 24 (multiple applications involving the same cared for person),
+  >   - (ii) a determination under regulation 35 (consideration of entitlement after specified period),
+  >   - (iii) a determination under regulation 36 (determination following change of circumstances etc.),
+  >   - (iv) a determination under regulation 37 (determination following official error – underpayments),
+  >   - (v) a determination under regulation 38 (determination following error – overpayments),
+  >   - (vi) a determination under section 43 (duty to re-determine) of the 2018 Act,
+  >   - (vii) a determination under section 49 (First-tier Tribunal’s power to determine entitlement) of the 2018 Act, or
+  >   - (viii) a decision pursuant to an appeal to the Upper Tribunal under section 47 of the Tribunals (Scotland) Act 2014[^f00006],
+
+  .
+
+(25)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] For regulation 40 (temporary break in care) substitute—
+
+> **40. Temporary break in care**
+>
+> (1) An award week in respect of which an individual fails to satisfy the requirement of regulation 5(2) (provision of care to a cared for person) is to be treated as an award week in respect of which that individual satisfies that requirement if—
+>
+> - (a) the individual only temporarily ceased to satisfy that requirement, and
+> - (b) the conditions in paragraphs (2) and (3) are met.
+>
+> (2) The condition is that the individual has not failed to satisfy the requirement of regulation 5(2) (provision of care to a cared for person)—
+>
+> - (a) for a period of more than 12 weeks in the 26 weeks ending with the first week of the temporary break in care, where—
+>   - (i) that individual was undergoing medical or other treatment as an in-patient in a hospital or similar institution, or
+>   - (ii) the cared for person was undergoing medical or other treatment as an in-patient in a hospital or similar institution, or
+> - (b) for a period of more than 4 weeks in a period of 26 weeks ending with the first week of the temporary break in care, where the temporary break in care is for any other reason.
+>
+> (3) The condition is that the individual has not failed to satisfy the requirement of regulation 5(2) (provision of care to a cared for person) for more than 12 weeks in the 26 weeks ending with the award week in which an individual fails to satisfy the requirement of regulation 5(2) (provision of care to a cared for person).
+>
+> (4) Regulation 14 (earnings limit) does not apply to an individual in respect of an award week mentioned in paragraph (1).
+>
+> (5) Paragraph (1) applies to an individual who fails to satisfy the requirement of regulation 5(2) because they are in legal detention, provided the individual satisfies the requirements of this regulation.
+>
+> (6) Paragraphs (1), (2), (3) and (5) apply to Carer Additional Person Payment with the following modifications—
+>
+> - (a) the references to “cared for person” are to be read as “additional cared for person”,
+> - (b) the references to regulation “5(2)” are to be read as “14B(3)”.
+
+.
+
+(26)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 41 (individuals in respect of whom Carer’s Allowance is paid in another part of the United Kingdom immediately before moving to Scotland)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] for paragraph (3) substitute—
+
+  > (3) Where an application is received by Scottish Ministers within 26 weeks of the date of the move, entitlement to Carer Support begins—
+  >
+  > - (a) on the first day of the award week in which the individual’s entitlement to Carer’s Allowance ceased, or
+  > - (b) 15 March 2026,
+  >
+  > whichever is later.
+
+  ,
+- (b)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] after paragraph (3) insert—
+
+  > (3A) Where—
+  >
+  > - (a) entitlement begins in accordance with paragraph (3), and
+  > - (b) the individual would have been entitled to any payment of Scottish Carer Supplement or Carer Additional Person Payment, had their entitlement to Carer Support started on a date between—
+  >   - (i) the date of the move, and
+  >   - (ii) the date their entitlement to Carer Support begins,
+  >
+  >   the value of the first payment of Carer Support to be given to the individual is to be increased by the value of any payment of Scottish Carer Supplement or Carer Additional Person Payment that they would have been entitled to for each award week between the dates referred to in heads (i) and (ii).
+
+  ,
+- (c)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (6) for “(3)” substitute “(3)(a)”.
+
+(27)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 41A (individuals in respect of whom Carer’s Allowance was paid before 6 November 2025)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (1)(b) after “Carer Support Payment” insert “(before 15 March 2026) or Carer Support”,
+- (b)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (2) omit “Payment”,
+- (c)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] for paragraph (3) substitute—
+
+  > (3) Where an application is received by the Scottish Ministers within 26 weeks of the date on which the Scottish Ministers become aware that the individual’s previous entitlement to Carer’s Allowance was not transferred to an entitlement to Carer Support Payment, entitlement to Carer Support begins on—
+  >
+  > - (a) the first day of the award week in which the individual’s entitlement to Carer’s Allowance ceased, or
+  > - (b) 15 March 2026,
+  >
+  > whichever is later.
+
+  ,
+- (d)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] after paragraph (3) insert—
+
+  > (3A) Where—
+  >
+  > - (a) entitlement begins in accordance with paragraph (3), and
+  > - (b) the individual would have been entitled to any payment of Scottish Carer Supplement or Carer Additional Person Payment, had their entitlement to Carer Support started on a date between—
+  >   - (i) 15 March 2026, and
+  >   - (ii) the date their entitlement to Carer Support begins,
+  >
+  > the value of the first payment of Carer Support to be given to the individual is to be increased by the value of any payment of Scottish Carer Supplement or Carer Additional Person Payment that they would have been entitled to for each award week between the dates referred to in heads (i) and (ii).
+
+  ,
+- (e)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (4) omit “Payment” in second place it occurs,
+- (f)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (6) for “(3)” substitute “(3)(a)”.
+
+(28)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 41B (individuals with entitlement to Carer Support Payment in respect of whom Carer’s Allowance was paid before 6 November 2025)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] for the title substitute—
+
+  > Individuals with entitlement to Carer Support in respect of whom Carer’s Allowance was paid before 6 November 2025
+- (b)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (1)(c) omit “Payment”,
+- (c)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] for paragraphs (2) and (3) substitute—
+
+  > (2) The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support, without receiving an application, where—
+  >
+  > - (a) they become aware that paragraph (1) applies to that individual, and
+  > - (b) that individual was not entitled to Carer Support Payment on 14 March 2026.
+  >
+  > (3) Subject to paragraph (4), where a determination is made under paragraph (2) that an individual is entitled to Carer Support, their entitlement is to begin on—
+  >
+  > - (a) the first day of the award week in which the individual’s entitlement to Carer’s Allowance ceased, or
+  > - (b) 15 March 2026,
+  >
+  > whichever is later.
+
+  ,
+- (d)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] after paragraph (3) insert—
+
+  > (3A) Where—
+  >
+  > - (a) paragraph (3) applies, and
+  > - (b) the individual would have been entitled to any payment of Scottish Carer Supplement or Carer Additional Person Payment, had their entitlement to Carer Support started on a date between—
+  >   - (i) 15 March 2026, and
+  >   - (ii) the date their entitlement to Carer’s Allowance ends,
+  >
+  > the value of the payment of Carer Support to be given to the individual is to be increased by the value of any payment of Scottish Carer Supplement or Carer Additional Person Payment that they would have been entitled to for each award week between the dates referred in heads (i) and (ii).
+
+  ,
+- (e)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] in paragraph (5) for “(3)” substitute “(3)(a)”.
+
+(29)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In regulation 42 (individuals in respect of whom Carer Support Payment is paid at the time of moving to another part of the United Kingdom)—
+
+- (a)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] for the heading substitute—
+
+  > Individuals in respect of whom Carer Support is paid at the time of moving to another part of the United Kingdom
+
+  ,
+- (b)[^key-8edef39ee9262720440916ff5190e13f] in paragraph (1) for “Where” substitute “Subject to paragraph (1A), where”,
+- (c)[^key-8edef39ee9262720440916ff5190e13f] after paragraph (1) insert—
+
+  > (1A) Where the cared for person dies within the period of 13 weeks referred to in paragraph (1), the individual is to be treated as though the individual meets the condition under regulation 6(1)(a) of being ordinarily resident in Scotland for a period of 8 award weeks after the first day of the award week following the award week in which the cared for person died.
+
+  ,
+- (d) in paragraph (1A) for “8” substitute “12”,
+- (e)[^key-8edef39ee9262720440916ff5190e13f] for paragraph (3) substitute—
+
+  > (3)  Where before the end of the 13-week period, the Scottish Ministers become aware that—
+  >
+  > - (a) the individual is no longer to move to become resident in another part of the United Kingdom, or
+  > - (b) the cared for person has died,
+  >
+  > the duty in paragraph (2) does not apply.
+
+  .
+
+(30)[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878] In paragraph 14(k) of schedule 2 (calculation of earnings), for “Part 3” substitute “regulation 3(2) (overview).
+
+## PART 4 — Consequential amendments
+
+### 4. Consequential amendments[^key-12abcd6f3c0f63ed0b49bb1c38ddb24c]
+
+The amendments specified in schedule 1 have effect.
+
+## PART 5 — Revocation and saving provisions
+
+### 5. Revocation and savings provisions - the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023[^key-85da00cb102eaf903b8b4e83c96a1950]
+
+(1) Despite the revocations and amendments made by these Regulations, the 2023 Regulations apply as they did prior to 15 March 2026—
+
+- (a) in respect of an individual’s entitlement to Carer Support Payment for any period before that date,
+- (b) for the purposes of determining—
+  - (i) except where regulation 8 (applications for Carer Support Payment) applies, an application for Carer Support Payment made before 15 March 2026 which has not been determined before that date, or
+  - (ii) entitlement to Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026 in respect of any period before 15 March 2026.
+
+(2) Despite the amendment by regulation 3(26), regulation 41 (individuals in respect of whom Carer’s Allowance is paid in another part of the United Kingdom immediately before moving to Scotland) of the 2023 Regulations applies as it did prior to 15 March 2026 where the individual becomes resident in Scotland on or before 14 March 2026.
+
+(3) Despite the amendment by regulation 3(28), regulation 41B (individuals with entitlement to Carer Support Payment in respect of whom Carer’s Allowance was paid before 6 November 2025) of the 2023 Regulations applies as it did prior to 15 March 2026 where—
+
+- (a) the Scottish Ministers become aware that paragraph 41B(1) would have applied to the individual as it did prior to 15 March 2026, and
+- (b) that individual has continuing entitlement to Carer Support.
+
+(4) Despite the amendment by regulation 3(29)(a) and (d), regulation 42 (individuals in respect of whom Carer Support Payment is paid at the time of moving to another part of the United Kingdom) of the 2023 Regulations applies as it did before 15 March 2026 in respect of an individual who moved to become resident in another part of the United Kingdom before 15 March 2026.
+
+(5) The following provisions of the 2023 Regulations are revoked—
+
+- (a) regulation 18A (entitlement beginning before individual satisfied the residence requirements in regulation 46),
+- (b) regulation 18B (entitlement beginning before individual satisfied residence requirements in regulation 46 – individuals in education mentioned in regulation 13(2)),
+- (c) regulation 20 (entitlement beginning before the commencement of these Regulations),
+- (d) regulation 21 (amount and form of Carer Support Payment where payments are backdated),
+- (e) Part 1A of schedule 1 (relevant date).
+
+(6) Despite the revocations in paragraph (5)(c) and (d), regulations 20 and 21 continue to have effect on and after 15 March 2026, where on or after 15 March 2026, it is determined under regulation 19 (applications made within 13 weeks of a qualifying disability benefit decision) as it applied before that date that an individual’s entitlement to Carer Support Payment would begin on a date before 19 November 2023.
+
+### 6. Section 81 of the 2018 Act[^key-c8eb8f989f3a3822df626c1ef0080df8]
+
+Despite paragraph 2 of schedule 1 of these Regulations, section 81 of the 2018 Act continues to have effect on and after 15 March 2026 as it had effect immediately before that date in relation to an individual who is entitled to Carer Support Payment under regulation 16(4) (amount and form of Carer Support Payment) or 42 (individuals in respect of whom Carer Support Payment is paid at the time of moving to another part of the United Kingdom) of the 2023 Regulations on 14 March 2026.
+
+### 7. Section 70(7B) of the Social Security Contributions and Benefits Act 1992[^key-06560f917cc23670b783a4755627f0fa]
+
+Despite paragraph 1 of schedule 1 of these Regulations, section 70(7B) (carer’s allowance) of the Social Security Contributions and Benefits Act 1992 continues to have effect on and after 15 March 2026 as it had effect immediately before that date in respect of any period of entitlement to Carer Support Payment under the 2023 Regulations prior to 15 March 2026.
+
+## PART 6 — Transitional provisions
+
+### 8. Applications for Carer Support Payment[^key-352939089514d2a5526e28bb1c5ad804]
+
+(1) This paragraph applies where—
+
+- (a) an individual—
+  - (i) made an application for Carer Support Payment before 15 March 2026 which was not determined before that date, and
+  - (ii) does not satisfy the eligibility requirements set out in Part 3 of the 2023 Regulations on any day before 15 March 2026,
+- (b) it is likely that the Scottish Ministers would determine that the individual is entitled to Carer Support on a date on or after 15 March 2026 (“the later date”), and
+- (c) that later date is no more than 13 weeks after the day on which their application is treated as made in accordance with regulation 18(1) (when an application is to be treated as made and beginning of entitlement to assistance) of the 2023 Regulations.
+
+(2) Where paragraph (1) applies, the Scottish Ministers—
+
+- (a) may treat the application for Carer Support Payment as an application for Carer Support, and,
+- (b) may make a determination of the individual’s entitlement to Carer Support to begin on the first day of the award week in which the later date mentioned in paragraph (1)(b) falls.
+
+### 9. Outstanding requests to provide information[^key-9e8475bd5a2e248db7ac82f35d1c8201]
+
+(1) This regulation applies where—
+
+- (a) a request for information under section 54(1) of the 2018 Act in respect of a determination of entitlement to Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026, was made to an individual before 15 March 2026,
+- (b) the individual has not yet provided the requested information on or after 15 March 2026, and
+- (c) the Scottish Ministers have not yet made the determination referred to in sub-paragraph (a),
+
+(2) Where paragraph (1) applies, the request referred to in paragraph (1)(a) is also to be treated as a request for information in relation to Carer Support under the 2023 Regulations as amended by these Regulations.
+
+### 10. Temporary absence from the common travel area[^key-005404858538663dcef56d0c89cd498e]
+
+Where an individual has been awarded Carer Support and they are treated as present in the common travel area on 15 March 2026 under regulation 7 (temporary absence from the common travel area) of the 2023 Regulations as amended by these Regulations, any period of absence from the common travel area immediately preceding that date, that counted for the purpose of Carer Support Payment prior to that date, is be counted towards the period of absence referred to in regulation 7 for the purposes of Carer Support.
+
+### 11. Beginning of entitlement to assistance[^key-9e980a00157eb4ce661c0d2bf07b24b6]
+
+(1) This paragraph applies where—
+
+- (a) an individual makes an application for Carer Support, under the 2023 Regulations as amended by these Regulations,
+- (b) the individual has notified the Scottish Ministers that they wish their entitlement to assistance to begin on a date prior to the day on which their application for Carer Support is treated as made in accordance with regulation 18(1) (when an application is to be treated as made and beginning of entitlement to assistance) of the 2023 Regulations as amended by these Regulations,
+- (c) the date chosen by the individual is before 15 March 2026, and
+- (d) it is likely that the Scottish Ministers would determine that the individual is entitled to Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026 on the first day of the award week in which that chosen date falls.
+
+(2) This paragraph applies where—
+
+- (a) an individual makes an application for Carer Support in respect of a cared for person within 13 weeks of a relevant qualifying disability benefit decision under regulation 19 (applications made within 13 weeks of a qualifying disability benefit decision) of the 2023 Regulations as amended by these Regulations,
+- (b) entitlement to that qualifying disability benefit begins before 15 March 2026, and
+- (c) it is likely that the Scottish Ministers would determine that the individual is entitled to Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026 and entitlement would begin on—
+  - (i) the first day of the award week in which the date mentioned in sub-paragraph (b) falls, or
+  - (ii) a later date chosen by the Scottish Ministers, provided that date is before 15 March 2026.
+
+(3) Where paragraph (1) or (2) applies, the Scottish Ministers—
+
+- (a) may treat the application for Carer Support mentioned in paragraph (1) or (2) as an application for Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026,
+- (b) are to make a determination of the individual’s entitlement to—
+  - (i) Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026, and
+  - (ii) Carer Support in accordance with schedule 2 (determination without application of entitlement to Carer Support) of these Regulations.
+
+### 12. Death of cared for person[^key-b828f6e49aa93d13321dfee691cfd904]
+
+Despite the amendment by regulation 3(12) of these Regulations, where—
+
+- (a) a cared for person has died before 15 March 2026, and
+- (b) an individual would as a result, on 14 March 2026, have been entitled to Carer Support Payment in respect of that cared for person in terms of regulation 16(4) (amount and form of Carer Support Payment) of the 2023 Regulations as it applied before 15 March 2026,
+
+regulation 16(4) will apply to the individual as it did prior to 15 March 2026.
+
+### 13. Temporary stop in entitlement[^key-8b52450b67d27d62853a2a5aab1136e0]
+
+(1) Where—
+
+- (a) the Scottish Ministers have made a determination without application under the 2023 Regulations as they applied before 15 March 2026 that an individual is no longer entitled to Carer Support Payment in circumstances set out in regulation 23(1)(a) to (e) (temporary stop in entitlement) of the 2023 Regulations as it applied before 15 March 2026, and
+- (b) within 26 weeks of the determination mentioned in paragraph (1)(a), the Scottish Ministers establish that the individual satisfies the eligibility requirements set out in regulation 3(2) (overview) of the 2023 Regulations as amended by these Regulations on or after 15 March 2026,
+
+regulation 23(2) (temporary stop in entitlement) as amended by these Regulations applies.
+
+(2) Where—
+
+- (a) the Scottish Ministers have made a determination under regulation 23(5) of the 2023 Regulations as it applied before 15 March 2026, and
+- (b) within 26 weeks of the determination mentioned in paragraph (2)(a), the Scottish Ministers establish that the individual satisfies the eligibility requirements set out in regulation 3(2) (overview) of the 2023 Regulations as amended by these Regulations on or after 15 March 2026,
+
+regulation 23(8) (temporary stop in entitlement) of the 2023 Regulations as amended by these Regulations applies.
+
+### 14. Suspensions[^key-2262ec259ee51435ce05f084ac9a1082]
+
+Despite the amendment by regulation 3(5) of these Regulations, Part 5 of the 2023 Regulations applies as it did prior to 15 March 2026 in relation to any suspension of Carer Support Payment which was ongoing under that Part of the 2023 Regulations on 14 March 2026.
+
+### 15. Individuals in respect of whom Carer’s Allowance is paid in another part of the United Kingdom immediately before moving to Scotland[^key-e4a14b6c271eb8ee37119c3dfcf0f25e]
+
+(1) This regulation applies where—
+
+- (a) an individual becomes resident in Scotland before 15 March 2026,
+- (b) that individual’s entitlement to Carer’s Allowance ceased before that date,
+- (c) the individual makes an application for Carer Support within 26 weeks of the date of the move, and
+- (d) it is likely that the Scottish Ministers would determine that the individual is entitled to Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026 and entitlement would begin on the first day of the award week in which the individual’s entitlement to Carer’s Allowance ceased.
+
+(2) Where paragraph (1) applies, the Scottish Ministers—
+
+- (a) may treat the application for Carer Support mentioned in paragraph (1) as an application for Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026, and
+- (b) are to make a determination of the individual’s entitlement to—
+  - (i) Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026, and
+  - (ii) Carer Support in accordance with schedule 2 (transfer from Carer Support Payment to Carer Support) of these Regulations.
+
+(3) For the purposes of paragraph (1)(d), “**award week**” has the same meaning as in regulation 41(6) of the 2023 Regulations.
+
+### 16. Individuals in respect of whom Carer’s Allowance was paid before 6 November 2025[^key-02e117929cad4307146ad0261d0e32aa]
+
+(1) This paragraph applies where—
+
+- (a) an application for Carer Support is received by the Scottish Ministers within the period described in regulation 41A(3) (individuals in respect of whom Carer’s Allowance was paid before 6 November 2025) as amended by these Regulations, and
+- (b) the individual’s entitlement to Carer’s Allowance ceased before 15 March 2026, and
+- (c) it is likely that the Scottish Ministers would determine that the individual is entitled to Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026 and entitlement would begin on the first day of the award week in which the individual’s entitlement to Carer’s Allowance ceased.
+
+(2) Where paragraph (1) applies, the Scottish Ministers—
+
+- (a) may treat the application for Carer Support mentioned in paragraph (1) as an application for Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026,
+- (b) are to make a determination of the individual’s entitlement to—
+  - (i) Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026, and
+  - (ii) Carer Support in accordance with schedule 2 (transfer from Carer Support Payment to Carer Support) of these Regulations.
+
+(3) For the purposes of paragraph (1)(c), “**award week**” has the same meaning as in regulation 41A(6) of the 2023 Regulations.
+
+### 17. Individuals with entitlement to Carer Support in respect of whom Carer’s Allowance was paid before 6 November 2025[^key-0acfa62f858175a0191fd21de83d638a]
+
+(1) The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026, without receiving an application, where—
+
+- (a) they become aware that regulation 41B(1) (individuals with entitlement to Carer Support Payment in respect of whom Carer’s Allowance was paid before 6 November 2025) as amended by these Regulations, applies to that individual, and
+- (b) the individual’s entitlement to Carer’s Allowance ceased before 15 March 2026[^key-361313aef823f07b6d80635f720cac87].
+
+(2) Subject to paragraph (3), where a determination is made under paragraph (1) that an individual is entitled to Carer Support Payment under the 2023 Regulations as they applied before 15 March 2026, their entitlement is to begin on the first day of the award week in which their entitlement to Carer’s Allowance ceased.
+
+(3) Where the individual—
+
+- (a) does not satisfy the eligibility requirements set out in Part 3 of the 2023 Regulations as they applied before 15 March 2026 on the date referred to in paragraph (2), and
+- (b) will satisfy those requirements on a date within 13 weeks of the date referred to in paragraph (2),
+
+their entitlement begins on the first day of the award week in which they satisfy those requirements.
+
+(4) For the purposes of paragraphs (2) and (3), “**award week**” has the same meaning as in regulation 41B(5) of the 2023 Regulations.
+
+### 18. Transfer from Carer Support Payment to Carer Support[^key-e0a871f07de501a271af323c69fab48f]
+
+Schedule 2 makes provision about transferring from Carer Support Payment to Carer Support.
+
+SHIRLEY-ANNE SOMERVILLE
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+6th November 2025
+
+## SCHEDULE 1 — Consequential amendments
+
+Regulation 4
+
+### 1. Amendment of the Social Security Contributions and Benefits Act 1992[^key-ecaa9148614d9f7e4524ac8a63ed3c3f]
+
+(1) The Social Security Contributions and Benefits Act 1992[^f00007] is amended in accordance with sub-paragraph (2).
+
+(2) In section 70(7B) (carer’s allowance) for “carer’s assistance” substitute “the Carer Support Payment component of Carer Support”.
+
+### 2. Amendment of the Social Security (Scotland) Act 2018[^key-b49e8009bc175a7a1f9cb066c40a21b4]
+
+(1) Section 81 (Carer’s allowance supplement) of the 2018 Act is amended in accordance with sub-paragraphs (2) to (5).
+
+(2) In subsection (2), for paragraph (a) and the word “and” immediately following it, substitute—
+
+> - (a) in receipt of a carer’s allowance under section 70 of the Social Security Contributions and Benefits Act 1992 by virtue of article 4 (transitional provision) of the Regulatory Reform (Carer’s Allowance) Order 2002[^f00008], and
+
+.
+
+(3) In subsection (9)(a)—
+
+- (a) before “in receipt” insert the word “was”,
+- (b) sub-paragraph (ii) and the word “or” immediately preceding it are repealed.
+
+(4) In subsection (11)(a)—
+
+- (a) before “in receipt” insert the word “was”,
+- (b) sub-paragraph (ii) and the word “or” immediately preceding it are repealed.
+
+(5) In subsection (13)(a)—
+
+- (a) before “in receipt” insert the word “was”,
+- (b) sub-paragraph (ii) and the word “or” immediately preceding it are repealed.
+
+### 3. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^key-cd18fb766b2084fe646759f6d95e9d74]
+
+(1) The Social Security (Invalid Care Allowance) Regulations 1976[^f00009] are amended in accordance with sub-paragraph (2).
+
+(2) In regulation 7(4) (manner of electing the person entitled to carer’s allowance in respect of a severely disabled person where more than one person would be entitled) for “a payment made” substitute “the Carer Support Payment component of Carer Support”.
+
+### 4. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^key-1d797a729f5b7fd41fb21868f227d657]
+
+(1) The National Assistance (Assessment of Resources) Regulations 1992[^f00010] are amended in accordance with sub-paragraphs (2) and (3).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) in the definition of “carer support payment”, for “carer’s assistance” substitute “the Carer Support Payment component of Carer Support”,
+- (b) after the definition of “attendance allowance” insert—
+
+  > - “**Carer Additional Person Payment**” means the Carer Additional Person Payment component of Carer Support payable under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023,
+
+  ,
+- (c) after the definition of “Scottish Adult Disability Living Allowance Regulations” insert—
+
+  > - “**Scottish Carer Supplement**” means the Scottish Carer Supplement component of Carer Support payable under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023,
+
+  .
+
+(3) After paragraph 28J in Part I of schedule 3 (sums to be disregarded in the calculation of income other than earnings) insert—
+
+> (28K) Any payment of—
+>
+> - (a) Carer Additional Person Payment
+> - (b) Scottish Carer Supplement.
+
+.
+
+### 5. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^key-78daffbaf60b691836f5faf08b49b0eb]
+
+(1) The Advice and Assistance (Scotland) Regulations 1996[^f00011] are amended in accordance with sub-paragraphs (2) to (4).
+
+(2) In regulation 2(1) (interpretation) in the definition of “carer support payment” omit “payment” where it first appears.
+
+(3) In regulation 16(2)(cd) (payment of fees and outlays from property recovered or preserved) omit “payment” where it first appears.
+
+(4) In paragraph 5(d)(aze) of schedule 2 (assessment of disposable capital and disposable income) omit “payment” where it first appears.
+
+### 6. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^key-c1ba489041c7fefdd9ca26890e419ca4]
+
+(1) The Civil Legal Aid (Scotland) Regulations 2002[^f00012] are amended in accordance with sub-paragraphs (2) to (5).
+
+(2) In regulation 2(1) (interpretation) in the definition of “carer support payment” omit “payment” where it first appears.
+
+(3) In regulation 33(a)(xxv) (payments out of property recovered or preserved: exceptions) for “a carer support payment” substitute “Carer Support”.
+
+(4) In paragraph 7(o) of schedule 2 (rules for computing disposable income) omit “payment”.
+
+(5) In paragraph 8(k) of schedule 3 (rules for computing disposable capital) omit “payment”.
+
+### 7. Amendment of the Individual Learning Account (Scotland) Regulations 2011[^key-e1c87311cce7f329e8f1ef65a5e4fce6]
+
+(1) The Individual Learning Account (Scotland) Regulations 2011[^f00013] are amended in accordance with sub-paragraph (2).
+
+(2) In regulation 3(6)(b)(iiia) (qualifying persons (training account holders)) after “payment” insert “component of Carer Support”.
+
+### 8. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-c1da4c006e41cb6cc3b9fd188038e66a]
+
+(1) The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00014] are amended in accordance with sub-paragraphs (2) to (5).
+
+(2) In regulation 2(1) (interpretation) in the definition of “carer support payment” for “carer’s assistance” substitute “the Carer Support Payment component of Carer Support”.
+
+(3) After regulation 27(1)(j)(xxi) (meaning of “**income**”) insert—
+
+> - (xxia) the Carer Additional Person Payment component of Carer Support given under section 28 and schedule 2 of the Social Security (Scotland) Act 2018;
+> - (xxib) the Scottish Carer Supplement component of Carer Support given under section 28 and schedule 2 of the Social Security (Scotland) Act 2018;
+
+.
+
+(4) In schedule 1 (applicable amount)—
+
+- (a) in paragraph 6(1)(ab) for “16” substitute “16(2)”,
+- (b) in paragraph 10—
+  - (i) in sub-paragraph (2)(a) omit “or carer support payment”,
+  - (ii) after sub-paragraph (2) insert—
+
+    > (2A) Where a carer premium has been awarded, but the person in respect of whose care the carer support payment has been awarded dies, the condition for the award of the premium is be treated as satisfied for a period of—
+    >
+    > - (a) 8 weeks from the relevant date specified in sub-paragraph (3) where that person died on or before 14 March 2026,
+    > - (b) 12 weeks from the relevant date specified in sub-paragraph (3) where that person died on or after 15 March 2026.
+
+    ,
+  - (iii) in sub-paragraph (3) in the opening words, after “(2)” insert “and (2A)”,
+  - (iv) in sub-paragraph (3)(a) after “(2)(a)” insert “or (2A)”.
+
+(5) In paragraph 21(2) of schedule 4 (capital disregards)—
+
+- (a) at the end of head (q) omit “or”,
+- (b) after head (r) insert—
+
+  > - (s) the Carer Additional Person Payment component of Carer Support given under section 28 and schedule 2 of the Social Security (Scotland) Act 2018; or
+  > - (t) the Scottish Carer Supplement component of Carer Support given under section 28 and schedule 2 of the Social Security (Scotland) Act 2018.
+
+  .
+
+### 9. Amendment of the Children’s Legal Assistance (Scotland) Regulations 2013[^key-55a16c81cbfaae2aa72db11d854545ed]
+
+(1) The Children’s Legal Assistance (Scotland) Regulations 2013[^f00015] are amended in accordance with sub-paragraphs (2) to (4).
+
+(2) In regulation 2(1) (interpretation) in the definition of “carer support payment” omit “payment” where it first appears.
+
+(3) In paragraph 5(q) of schedule 1 (assessment of disposable income for the purposes of children’s legal aid) for “any carer support payment” substitute “carer support”.
+
+(4) In paragraph 8(k) of schedule 2 (assessment of disposable capital for the purposes of children’s legal aid) for “any carer support payment” substitute “any payment of carer support”.
+
+### 10. Amendment of the Council Tax Reduction (Scotland) Regulations 2021[^key-145fe775c028379f365b516b56b96972]
+
+(1) The Council Tax Reduction (Scotland) Regulations 2021[^f00016] are amended in accordance with sub-paragraphs (2) to (5).
+
+(2) In regulation 4(1) (interpretation) in the definition of “carer support payment” for “carer’s assistance” substitute “the Carer Support Payment component of Carer Support”.
+
+(3) In schedule 1 (applicable amount)—
+
+- (a) in paragraph 5(1) for “(8)” substitute “(9)”,
+- (b) in paragraph 5(4)(c) after “16” insert “(2)”,
+- (c) in paragraph 5(5) at the end insert “or, if longer, the period for which the person continues to be entitled to carer support payment”,
+- (d) in paragraph 5(6)(a) omit “carer support payment”,
+- (e) after paragraph 5(6) insert—
+
+  > (6A) Where a carer premium is awarded to a person other than a person described in sub-paragraph (5), but the person in respect of whose care the carer support payment has been awarded dies, the condition for the award of the premium is to be treated as satisfied for a period of—
+  >
+  > - (a) 8 weeks from the relevant date specified in sub-paragraph (7) where that person died on or before 14 March 2026,
+  > - (b) 12 weeks from the relevant date specified in sub-paragraph (7) where that person died on or after 15 March 2026.
+
+  ,
+- (f) in paragraph 5(7)—
+  - (i) in the opening words for “sub-paragraph (6)” substitute “sub-paragraphs (6) and (6A)”,
+  - (ii) in head (a) after “(6)(a)” insert “or (6A)”,
+- (g) in paragraph 5(8)(a) before “the person” insert “except where sub-paragraph (9) applies,”,
+- (h) after paragraph 5(8) insert—
+
+  > (9) Where a person who has had regular and substantial caring responsibilities for a severely disabled person ceases to have such caring responsibilities and makes an application for council tax reduction, the condition for the award of the carer premium is to be treated as satisfied for a period of 12 weeks from the date on which the person in respect of whom the person had such caring responsibilities dies on or after 15 March 2026, where that brought the caring responsibilities to an end.
+
+  ,
+- (i) in paragraph 6(2)(b) for “5(5) and (6)” substitute “5(5), (6) and (6A)”.
+
+(4) In paragraph 6(1)(a) of schedule 3 (sums to be disregarded in the calculation of earnings) for “5(5) or (6)” substitute “5(5), (6) or (6A)”.
+
+(5) In paragraph 24 of schedule 4 (capital to be disregarded) after sub-paragraph (c) insert—
+
+> ,
+>
+> - (d) the Carer Additional Person Payment component of Carer Support given by virtue of regulations under section 28 and schedule 2 of the Social Security (Scotland) Act 2018,
+> - (e) the Scottish Carer Supplement component of Carer Support given by virtue of regulations under section 28 and schedule 2 of the Social Security (Scotland) Act 2018.
+
+.
+
+## SCHEDULE 2 — Transfer from Carer Support Payment to Carer Support
+
+Regulation 18
+
+### 1. Determination without application of entitlement to Carer Support[^key-f9da5fe13da7ae387f6582330804947c]
+
+(1) Subject to paragraph 2(1), the Scottish Ministers must make a determination of an individual’s entitlement to Carer Support, without receiving an application, where—
+
+- (a) the individual had an ongoing entitlement to Carer Support Payment on 14 March 2026, or
+- (b) on or after 15 March 2026, the individual is awarded Carer Support Payment in respect of a period that includes 14 March 2026.
+
+(2) Entitlement to Carer Support by virtue of a determination under sub-paragraph (1) begins on 15 March 2026.
+
+(3) Subject to sub-paragraph (4), the determination under sub-paragraph (1) is to be made on the basis of—
+
+- (a) such information as is available to the Scottish Ministers in respect of the individual’s entitlement to Carer Support Payment on 14 March 2026, and
+- (b) any other information available to the Scottish Ministers that appears to them to be relevant.
+
+(4) A determination under sub-paragraph (1) does not need to be made on the basis of the information mentioned in sub-paragraph (3)(b) where—
+
+- (a) before a determination is made under sub-paragraph (1)—
+  - (i) the individual reported a change of circumstances to the Scottish Ministers, which has not been taken into account in the latest determination of the individual’s entitlement to Carer Support Payment,
+  - (ii) the Scottish Ministers otherwise became aware of information in relation to the individual’s entitlement to Carer Support Payment which had not been taken into account in the latest determination of their entitlement to Carer Support Payment, or
+  - (iii) it appears to the Scottish Ministers from that information that the individual may be entitled to Carer Additional Person Payment on or after 15 March 2026, and
+- (b) following a determination under sub-paragraph (1) a further determination is to be made under paragraph 4.
+
+(5) A determination under sub-paragraph (1) must be made on the basis that the individual is entitled to the amount of the Carer Support Payment component of Carer Support that is equivalent to the amount of Carer Support Payment to which the individual was entitled on or in respect of 14 March 2026.
+
+(6) A determination under sub-paragraph (1) may be made on the assumption that whatever can be discerned about the individual’s circumstances from the information mentioned in sub-paragraph (3) remains accurate on the date on which the determination is made.
+
+(7) Where—
+
+- (a) on 14 March 2026 an individual was receiving Carer Support Payment by way of deduction under regulation 26 (form of payment – giving Carer Support Payment by way of deduction) of the 2023 Regulations as it applied on that date, and
+- (b) the Scottish Ministers make a determination under sub-paragraph (1),
+
+Carer Support may also be given by way of deduction.
+
+### 2. Exceptions to paragraph 1(1)[^key-942e57aca6ec9a053f0403998f388fe0]
+
+The duty on the Scottish Ministers to make a determination without application mentioned in paragraph 1(1) does not apply where—
+
+- (a) the cared for person died on or before 14 March 2026 and the individual is entitled to Carer Support Payment under regulation 16(4) (amount and form of Carer Support Payment) of the 2023 Regulations on or before that date,
+- (b) an individual is treated as being ordinarily resident in Scotland under regulation 42(1) (individuals in respect of whom Carer Support Payment is paid at the time of moving to another part of the United Kingdom) of the 2023 Regulations on or before 14 March 2026, or
+- (c) the Scottish Ministers made a decision under regulation 29 (circumstances in which assistance may be suspended) of the 2023 Regulations as they applied before 15 March 2026 to suspend an individual’s Carer Support Payment and in terms of regulation 14 of these Regulations their entitlement to Carer Support Payment is still suspended.
+
+### 3. Determination without application of entitlement to Carer Support following the end of a suspension[^key-4cceec2074c871507c3d5475d5b11aaa]
+
+The Scottish Ministers are to make a determination of an individual’s entitlement to Carer Support, without receiving application, where—
+
+- (a) the Scottish Ministers make a decision to end a suspension under regulation 33 (ending suspension) of the 2023 Regulations as it applied before 15 March 2026, and
+- (b) the individual has an ongoing entitlement to Carer Support Payment in respect of 14 March 2026.
+
+### 4. Review determination[^key-855642ac9afa6a478a51f9832ff3283d]
+
+(1) The Scottish Ministers must make a determination of an individual’s entitlement to Carer Support, without receiving an application, where—
+
+- (a) either—
+  - (i) the individual, before a determination under paragraph 1(1) is made, reported a change of circumstances to the Scottish Ministers, which had not yet been taken into account for the individual’s entitlement to Carer Support Payment, or
+  - (ii) the Scottish Ministers—
+    - (aa) before a determination under paragraph 1(1) is made, otherwise became aware of information in relation to the individual’s entitlement to Carer Support Payment which had not yet been taken into account in the latest determination of their entitlement to Carer Support Payment, or
+    - (bb) become aware that the individual met the condition in regulation 14B(1)(b) (Carer Additional Person Payment) of the 2023 Regulations as inserted by these Regulations on 15 March 2026,
+- (b) the Scottish Ministers have made a determination under paragraph 1(1), and
+- (c) the individual has not requested a re-determination under section 41 of the 2018 Act, or an appeal under section 46 of the 2018 Act, in relation to the determination under paragraph 1(1).
+
+(2) The determination under sub-paragraph (1) is to be made as soon as reasonably practicable after the determination under paragraph 1(1).
+
+(3) The information mentioned in paragraph 1(3)(b) is to be taken into account by the Scottish Ministers in making a determination under sub-paragraph (1).
+
+(4) Subject to sub-paragraph (6), where an individual’s entitlement to Carer Support is determined under sub-paragraph (1) to be at a higher rate than the determination under paragraph 1(1), entitlement will begin—
+
+- (a) where the individual—
+  - (i) reports the change within 13 weeks of the change occurring, or
+  - (ii) provides the information demonstrating that they would have met the condition in regulation 14B(1) of the 2023 Regulations as inserted by these Regulations on 15 March 2026 within 13 weeks of the determination under 1(1),
+
+  on the first day of the award week in which the individual first satisfies the requirements for an increased amount of Carer Support,
+- (b) in any other case, on the first day of the award week in which the individual reports the change or provides the information.
+
+(5) Where, in accordance with sub-paragraph (4), an individual’s entitlement to Carer Support would begin before 15 March 2026, their entitlement to Carer Support is instead to begin on 15 March 2026.
+
+(6) Where the Scottish Ministers are satisfied that there is a good reason why the individual reports the change or provides the information demonstrating that they met the condition in regulation 14B(1) of the 2023 Regulations as inserted by these Regulations on 15 March 2026 more than 13 weeks after the expiry of the relevant period mentioned in sub-paragraph (4)(a) or (b), entitlement begins on the first day of the award week in which the individual first satisfies the requirements for an increased amount of Carer Support.
+
+(7) Where an individual’s entitlement to Carer Support is determined under sub-paragraph (1) to be at a lower rate than or at the same rate as awarded by the determination under paragraph 1(1), entitlement will begin on the first day of the award week following the award week in which—
+
+- (a) the individual should have notified the Scottish Ministers of the change, where the individual was required to notify a change under section 56 of the 2018 Act, if the individual—
+  - (i) knowingly fails to notify a change, or
+  - (ii) fails to notify the change as soon as reasonably practicable after it occurred, or
+- (b) in any other case, the Scottish Ministers make a determination under sub-paragraph (1).
+
+(8) Where the Scottish Ministers consider that in all the circumstances it would be unjust not to do so, they may, when making their determination, set a later date for the purposes of sub-paragraph (6).
+
+(9) Where an individual has previously received Carer Support for a period and a determination is subsequently made under sub-paragraph (1) that the individual is entitled to Carer Support at a higher rate for that period by virtue of this paragraph, the individual will be entitled to the difference between the value of entitlement to Carer Support under the subsequent determination and the value of Carer Support to which that individual was previously entitled for that period.
+
+### 5. Interpretation[^key-f1a2f67568017a1145c360023b8c3dc9]
+
+In this schedule—
+
+- (a) “**Carer Support Payment**” means Carer Support Payment under the 2023 Regulations as they had effect immediately prior to 15 March 2026, and
+- (b) “**Carer Support**” means Carer Support under the 2023 Regulations as amended by these Regulations.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (“**the principal Regulations**”) to make provision for the introduction of Carer Support consisting of three components: Carer Support Payment, Carer Additional Person Payment and Scottish Carer Supplement. These Regulations also make miscellaneous amendments to the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019 and the principal Regulations, including consequential, revocation, transitional and saving provisions.
+
+Part 2 makes amendments to the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019 to:
+
+- provide for the extension of eligibility for Young Carer Grant to 19-year-olds, and
+- amend the definition of carer support payment for the introduction of Carer Support.
+
+Part 3 makes provision for the introduction of Carer Support consisting of three components – Carer Support Payment, Carer Additional Person Payment and the Scottish Carer Supplement. Regulation 4A sets out the eligibility criteria for Carer Support Payment. The new regulations 14A and 14B inserted by regulation 3(11) outline the eligibility rules for Scottish Carer Supplement and Carer Additional Person Payment. An individual is entitled to Scottish Carer Supplement for every award week in which they are entitled to be paid Carer Support Payment. An individual is entitled under regulation 14B to Carer Additional Person Payment where they are in receipt of Carer Support Payment and they provide regular and substantial care to a person (an “additional cared for person”) who is not the cared for person in respect of whom they receive the Carer Support Payment.
+
+Regulation 3 makes provision to amend the principal Regulations to specify how they will apply to Carer Support and each component. It also makes miscellaneous amendments to the principal Regulations to:
+
+- extend the period a carer continues to receive support after the death of a cared for person (“the bereavement run-on”) from 8 to 12 weeks,
+- provide a separate bereavement run-on following the death of any additional cared for person for whom the carer receives Carer Additional Person Payment,
+- remove the requirements for carers to have been providing care for at least 14 or 22 of the past 26 weeks to become entitled to continue to be paid during a temporary break in care,
+- amend the provisions in relation to temporary absence from the common travel area, so that they apply to absences in connection with caring for the additional cared for person in the same way as they apply to a cared for person,
+- enable the Scottish Ministers to make a determination without an application of entitlement to Carer Support where an individual’s entitlement has ended as a result of being absent and no longer treated as present in the common travel area, or the qualifying disability benefit for the cared for person ending due to a temporary absence,
+- provide that an individual is not entitled to Carer Support Payment in any award week in which their earnings in respect of the immediately preceding week exceeded the earnings threshold set out in regulation 14 of the principal Regulations,
+- make other minor amendments to the principal Regulations.
+
+Part 4 and schedule 1 make provision for consequential amendments to primary and secondary legislation in connection with the introduction of Carer Support and the extension of the bereavement run-on.
+
+Part 5 makes revocation provisions. Part 6 makes transitional provisions in consequence of the amendments made by these Regulations.
+
+Regulation 18 and schedule 2 make provision to transfer in connection with individuals who are entitled to Carer Support Payment on 14 March 2026, so that their entitlement to Carer Support Payment becomes entitlement to Carer Support.
+
+A Child Rights and Wellbeing Impact Assessment has been prepared and is available online at legislation.gov.
+
+## Annotations
+
+[^f00001]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9) (“**the 2018 Act**”). Schedules 2 and 11 of the 2018 Act respectively make provision about the exercise of powers under sections 28 and 51. Section 41 of the 2018 Act was relevantly amended by paragraph 2 of schedule 7 of the Coronavirus (Scotland) Act [2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7). Section 51 was relevantly amended by section 12(2) of the Social Security Administration and Tribunal Membership (Scotland) Act [2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18) (“**the 2020 Act**”). Schedule 11 of the 2018 Act was inserted by section 12(4) of the 2020 Act. The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
+
+[^key-844154d976d7230a0719b6c62c5732c5]: Commencement: Reg. 1 in force at 16.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3)
+
+[^f00002]: Footnote: [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302), relevantly amended by [S.S.I. 2024/141](https://www.legislation.gov.uk/ssi/2024/141), [S.S.I. 2024/173](https://www.legislation.gov.uk/ssi/2024/173), [S.S.I. 2024/311](https://www.legislation.gov.uk/ssi/2024/311), [S.S.I. 2025/250](https://www.legislation.gov.uk/ssi/2025/250) and [S.S.I. 2025/336](https://www.legislation.gov.uk/ssi/2025/336). This instrument additionally makes relevant amendments to [S.S.I. 2023/302](https://www.legislation.gov.uk/ssi/2023/302) to come into force on 16 November 2025 in accordance with regulation 1(3).
+
+[^key-c4255c20eb88f491f0d8ef5b8fcc4ce8]: Commencement: Reg. 2(1)(2)(4) in force at 16.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3)
+
+[^key-cf9d1deb53b1d7003e4cbfc459ff9a26]: Commencement: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/2/3) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00003]: Footnote: [S.S.I. 2019/324](https://www.legislation.gov.uk/ssi/2019/324), relevantly amended by [S.S.I. 2023/258](https://www.legislation.gov.uk/ssi/2023/258).
+
+[^key-8edef39ee9262720440916ff5190e13f]: Commencement: Reg. 3(1)(7)(10)(16)(b)(21)(b)(22)(c)(24)(d)(i)(iv)(29)(b)(c)(e) in force at 16.11.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/3)
+
+[^key-5f0d75539d5d1e5d6ae6ebc1c47a7878]: Commencement: [Reg. 3(2)-(6)](https://www.legislation.gov.uk/ssi/2025/340/regulation/3/2)(8)(9)(11)-(16)(a)(17)-(21)(a)(22)(a)(b)(23)(24)(a)-(c)(d)(ii)(iii)(v)(e)(25)-(29)(a)(30) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00004]: Footnote: [2016 asp 9](https://www.legislation.gov.uk/asp/2016/9).
+
+[^f00005]: Footnote: [S.S.I. 2025/340](https://www.legislation.gov.uk/ssi/2025/340).
+
+[^f00006]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
+
+[^key-12abcd6f3c0f63ed0b49bb1c38ddb24c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/340/regulation/4) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-85da00cb102eaf903b8b4e83c96a1950]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/340/regulation/5) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-c8eb8f989f3a3822df626c1ef0080df8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/340/regulation/6) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-06560f917cc23670b783a4755627f0fa]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/340/regulation/7) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-352939089514d2a5526e28bb1c5ad804]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2025/340/regulation/8) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-9e8475bd5a2e248db7ac82f35d1c8201]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2025/340/regulation/9) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-005404858538663dcef56d0c89cd498e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2025/340/regulation/10) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-9e980a00157eb4ce661c0d2bf07b24b6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2025/340/regulation/11) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-b828f6e49aa93d13321dfee691cfd904]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2025/340/regulation/12) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-8b52450b67d27d62853a2a5aab1136e0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2025/340/regulation/13) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-2262ec259ee51435ce05f084ac9a1082]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2025/340/regulation/14) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-e4a14b6c271eb8ee37119c3dfcf0f25e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2025/340/regulation/15) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-02e117929cad4307146ad0261d0e32aa]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2025/340/regulation/16) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-0acfa62f858175a0191fd21de83d638a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2025/340/regulation/17) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-361313aef823f07b6d80635f720cac87]: Textual amendment: Word in [reg. 17(1)(b)](https://www.legislation.gov.uk/ssi/2025/340/regulation/17/1/b) inserted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2026/170/regulation/17)
+
+[^key-e0a871f07de501a271af323c69fab48f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2025/340/regulation/18) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-ecaa9148614d9f7e4524ac8a63ed3c3f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/1) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00007]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 70(7B) was inserted by the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 ([S.I. 2023/1214](https://www.legislation.gov.uk/uksi/2023/1214)).
+
+[^key-b49e8009bc175a7a1f9cb066c40a21b4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/2) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00008]: Footnote: [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457).
+
+[^key-cd18fb766b2084fe646759f6d95e9d74]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/3) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00009]: Footnote: [S.I. 1976/409](https://www.legislation.gov.uk/uksi/1976/409), relevantly amended by [S.S.I. 2023/258](https://www.legislation.gov.uk/ssi/2023/258).
+
+[^key-1d797a729f5b7fd41fb21868f227d657]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/4) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00010]: Footnote: [S.I. 1992/2977](https://www.legislation.gov.uk/uksi/1992/2977), relevantly amended by [S.S.I. 2023/258](https://www.legislation.gov.uk/ssi/2023/258) and [S.S.I. 2024/311](https://www.legislation.gov.uk/ssi/2024/311).
+
+[^key-78daffbaf60b691836f5faf08b49b0eb]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/5) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00011]: Footnote: [S.I. 1996/2447](https://www.legislation.gov.uk/uksi/1996/2447), relevantly amended by [S.S.I. 2023/258](https://www.legislation.gov.uk/ssi/2023/258).
+
+[^key-c1ba489041c7fefdd9ca26890e419ca4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/6) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00012]: Footnote: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494), relevantly amended by [S.S.I. 2023/313](https://www.legislation.gov.uk/ssi/2023/313) and [S.S.I. 2024/178](https://www.legislation.gov.uk/ssi/2024/178).
+
+[^key-e1c87311cce7f329e8f1ef65a5e4fce6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/7) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00013]: Footnote: [S.S.I. 2011/107](https://www.legislation.gov.uk/ssi/2011/107) as relevantly amended by [S.S.I. 2017/288](https://www.legislation.gov.uk/ssi/2017/288) and [S.S.I. 2023/258](https://www.legislation.gov.uk/ssi/2023/258).
+
+[^key-c1da4c006e41cb6cc3b9fd188038e66a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/8) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00014]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), relevantly amended by [S.S.I. 2018/211](https://www.legislation.gov.uk/ssi/2018/211), [S.S.I. 2020/413](https://www.legislation.gov.uk/ssi/2020/413) and [S.S.I. 2023/258](https://www.legislation.gov.uk/ssi/2023/258).
+
+[^key-55a16c81cbfaae2aa72db11d854545ed]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/9) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00015]: Footnote: [S.S.I. 2013/200](https://www.legislation.gov.uk/ssi/2013/200), relevantly amended by [S.S.I. 2023/313](https://www.legislation.gov.uk/ssi/2023/313) and [S.S.I. 2024/178](https://www.legislation.gov.uk/ssi/2024/178).
+
+[^key-145fe775c028379f365b516b56b96972]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/10) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^f00016]: Footnote: [S.S.I. 2021/249](https://www.legislation.gov.uk/ssi/2021/249), relevantly amended by [S.S.I. 2023/258](https://www.legislation.gov.uk/ssi/2023/258) and [S.S.I. 2025/24](https://www.legislation.gov.uk/ssi/2025/24).
+
+[^key-f9da5fe13da7ae387f6582330804947c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2025/340/schedule/2/paragraph/1) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-942e57aca6ec9a053f0403998f388fe0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2025/340/schedule/2/paragraph/2) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-4cceec2074c871507c3d5475d5b11aaa]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2025/340/schedule/2/paragraph/3) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-855642ac9afa6a478a51f9832ff3283d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2025/340/schedule/2/paragraph/4) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)
+
+[^key-f1a2f67568017a1145c360023b8c3dc9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2025/340/schedule/2/paragraph/5) in force at 15.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2)

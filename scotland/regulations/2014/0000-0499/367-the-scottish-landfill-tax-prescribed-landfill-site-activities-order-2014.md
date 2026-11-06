@@ -1,0 +1,138 @@
+---
+title: The Scottish Landfill Tax (Prescribed Landfill Site Activities) Order 2014
+id: ssi/2014/367
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-12-16'
+text_date: '2022-07-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2014/367
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2014/367/pdfs/ssipn_20140367_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/367/pdfs/ssi_20140367_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/367/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Scottish Landfill Tax (Prescribed Landfill Site Activities) Order 2014
+
+> Text as at 2022-07-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2014 No. 367
+
+Landfill Tax
+
+The Scottish Landfill Tax (Prescribed Landfill Site Activities) Order 2014
+
+Approved by the Scottish Parliament
+
+Made
+
+16th December 2014
+
+Laid before the Scottish Parliament
+
+18th December 2014
+
+Coming into force
+
+1st April 2015
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by section 6 of the Landfill Tax (Scotland) Act 2014[^f00001].
+
+## 1. Citation and commencement[^key-90f0570c4137382e870e3d048807fc38]
+
+This Order may be cited as the Scottish Landfill Tax (Prescribed Landfill Site Activities) Order 2014 and comes into force on 1st April 2015.
+
+## 2. Interpretation[^key-6b787a4ec87d78787c8bd528c8d82a20]
+
+In this Order—
+
+- “cell bund” or “[^key-7a760de04b4d4b039a4b7d0305be43d9]**cell wall**” means a structure within a disposal area which separates or contains units of waste;
+- “disposal area” means any area of a landfill site where any landfill disposal takes place;
+- “hard standing” means a base within a landfill site on which any landfill site activity[^f00002] such as sorting, treatment, processing, storage or recycling is carried out;
+- “haul road” means any road within a landfill site which gives access to a disposal area;
+- “[^key-359ee50859c090732b3897914bfd9ec5]**impermeable layer**” means the geological barrier, whether formed of a single mineral layer or such mineral layer combined with an artificial sealing liner or cap, located at the external facing perimeter of a landfill cell, that has the function of preventing the escape of liquids or gases from that landfill cell;
+- “**landfill cell**” means a unit or structure within a landfill site formed of an impermeable layer at its base and sides and, save where the cell only contains inert material, at the top of the unit or structure;
+- “LT(S) Act 2014” means the Landfill Tax (Scotland) Act 2014; and
+- “screening bund” means any structure on a landfill site (whether below or above ground) put in place to protect or conceal any landfill site activity or to reduce nuisance from noise.
+
+## 3. Prescribed landfill site activities[^key-6b43421915982b1838a9b971ecfb59ac]
+
+(1) The following landfill site activities are prescribed for the purposes of section 6 of the LT(S) Act 2014 (prescribed landfill site activities to be treated as disposals)—
+
+- (a) the use of material to cover the disposal area during a short term cessation in landfill disposal activity;
+- (b) the use of material to create or maintain a temporary haul road;
+- (c) the use of material to create or maintain temporary hard standing;
+- (d) the use of material to create or maintain a cell bund or cell wall[^key-88c1723cb4fc008f85972f3c58cee9f7];
+- (e) the use of material to create or maintain a temporary screening bund except where the material so used is naturally occurring material extracted from the landfill site in which the temporary screening bund is located;
+- (f) the temporary storage of ashes (including pulverised flue ash and furnace bottom ash);
+- (g) the use of material placed against the drainage layer or liner of the landfill cell[^key-c36ef0b9d59cb564a26c644900ab31b7] to prevent damage to that layer or liner; [^key-f60d4c7f056a2559e47519f7522ecb97]...
+- (h)[^key-2f7cbd522e9195cbf700dff05d013a99] any other use of material in a landfill cell, other than—
+  - (i) the use of material to form a layer immediately above the base of that cell and which performs the function of drainage,
+  - (ii) the insertion of pipes, pumps or associated infrastructure into a landfill cell for the purposes of the extraction or control of surplus liquid or gas from or within that cell,
+  - (iii) the use of plant or equipment for waste or environmental management purposes; and
+- (i)[^key-ca45c0322a085fc2bc1578de1bf7ab84] any other landfill site activity to which paragraph (2) applies.
+
+(2) This paragraph applies to an activity if—
+
+- (a) the activity is one which gives rise to a requirement—
+  - (i) for notification or the giving of information under section 31 of the LT(S) Act 2014 (information: site restoration)[^f00003]; or
+  - (ii) imposed by Regulations under section 30 of the LT(S) Act 2014 (information: material at landfill sites)[^f00004] for the designation of a part of a landfill site as a non-disposal area or the giving of information or the maintenance of a record in respect of the area; and
+- (b) that requirement is not complied with.
+
+(3) Paragraph (1) does not apply to any landfill site activity if, or to the extent that, it involves material that is or has been otherwise chargeable to Scottish landfill tax or exempted from that tax.
+
+JOHN SWINNEY
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+16th December 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order prescribes landfill site activities for the purposes of section 6 of the Landfill Tax (Scotland) Act 2014. The effect of this is that the prescribed activities will be treated as disposals and will be subject to Scottish landfill tax.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 2](https://www.legislation.gov.uk/asp/2014/2).
+
+[^key-90f0570c4137382e870e3d048807fc38]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/367/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/367/article/1)
+
+[^key-6b787a4ec87d78787c8bd528c8d82a20]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/367/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/367/article/1)
+
+[^key-7a760de04b4d4b039a4b7d0305be43d9]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2014/367/article/2) substituted (1.7.2022 at 5:00 p.m.) by [The Scottish Landfill Tax (Prescribed Landfill Site Activities) Amendment Order 2022 (S.S.I. 2022/233)](https://www.legislation.gov.uk/ssi/2022/233), [arts. 1](https://www.legislation.gov.uk/ssi/2022/233/article/1), [3(a)](https://www.legislation.gov.uk/ssi/2022/233/article/3/a)
+
+[^f00002]: Footnote: “landfill site activity” is defined in section 6(2) of the LT(S) Act 2014.
+
+[^key-359ee50859c090732b3897914bfd9ec5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2014/367/article/2) inserted (1.7.2022 at 5:00 p.m.) by [The Scottish Landfill Tax (Prescribed Landfill Site Activities) Amendment Order 2022 (S.S.I. 2022/233)](https://www.legislation.gov.uk/ssi/2022/233), [arts. 1](https://www.legislation.gov.uk/ssi/2022/233/article/1), [3(b)](https://www.legislation.gov.uk/ssi/2022/233/article/3/b)
+
+[^key-6b43421915982b1838a9b971ecfb59ac]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/367/article/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/367/article/1)
+
+[^key-88c1723cb4fc008f85972f3c58cee9f7]: Textual amendment: Words in [art. 3(1)(d)](https://www.legislation.gov.uk/ssi/2014/367/article/3/1/d) inserted (1.7.2022 at 5:00 p.m.) by [The Scottish Landfill Tax (Prescribed Landfill Site Activities) Amendment Order 2022 (S.S.I. 2022/233)](https://www.legislation.gov.uk/ssi/2022/233), [arts. 1](https://www.legislation.gov.uk/ssi/2022/233/article/1), [4(a)](https://www.legislation.gov.uk/ssi/2022/233/article/4/a)
+
+[^key-c36ef0b9d59cb564a26c644900ab31b7]: Textual amendment: Words in [art. 3(1)(g)](https://www.legislation.gov.uk/ssi/2014/367/article/3/1/g) substituted (1.7.2022 at 5:00 p.m.) by [The Scottish Landfill Tax (Prescribed Landfill Site Activities) Amendment Order 2022 (S.S.I. 2022/233)](https://www.legislation.gov.uk/ssi/2022/233), [arts. 1](https://www.legislation.gov.uk/ssi/2022/233/article/1), [4(b)](https://www.legislation.gov.uk/ssi/2022/233/article/4/b)
+
+[^key-f60d4c7f056a2559e47519f7522ecb97]: Textual amendment: Word in [art. 3(1)(g)](https://www.legislation.gov.uk/ssi/2014/367/article/3/1/g) omitted (1.7.2022 at 5:00 p.m.) by virtue of [The Scottish Landfill Tax (Prescribed Landfill Site Activities) Amendment Order 2022 (S.S.I. 2022/233)](https://www.legislation.gov.uk/ssi/2022/233), [arts. 1](https://www.legislation.gov.uk/ssi/2022/233/article/1), [4(c)](https://www.legislation.gov.uk/ssi/2022/233/article/4/c)
+
+[^key-2f7cbd522e9195cbf700dff05d013a99]: Textual amendment: [Art. 3(1)(h)](https://www.legislation.gov.uk/ssi/2014/367/article/3/1/h) substituted (1.7.2022 at 5:00 p.m.) by [The Scottish Landfill Tax (Prescribed Landfill Site Activities) Amendment Order 2022 (S.S.I. 2022/233)](https://www.legislation.gov.uk/ssi/2022/233), [arts. 1](https://www.legislation.gov.uk/ssi/2022/233/article/1), [4(d)](https://www.legislation.gov.uk/ssi/2022/233/article/4/d)
+
+[^key-ca45c0322a085fc2bc1578de1bf7ab84]: Textual amendment: [Art. 3(1)(i)](https://www.legislation.gov.uk/ssi/2014/367/article/3/1/i) inserted (1.7.2022 at 5:00 p.m.) by [The Scottish Landfill Tax (Prescribed Landfill Site Activities) Amendment Order 2022 (S.S.I. 2022/233)](https://www.legislation.gov.uk/ssi/2022/233), [arts. 1](https://www.legislation.gov.uk/ssi/2022/233/article/1), [4(e)](https://www.legislation.gov.uk/ssi/2022/233/article/4/e)
+
+[^f00003]: Footnote: Section 31 was amended by paragraph 10(12) of Schedule 4 to the Revenue Scotland and Tax Powers Act [2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16).
+
+[^f00004]: Footnote: Section 30 was amended by paragraph 10(11) of Schedule 4 to the Revenue Scotland and Tax Powers Act 2014.

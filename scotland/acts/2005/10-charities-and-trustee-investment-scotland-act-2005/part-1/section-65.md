@@ -1,0 +1,67 @@
+---
+title: Charities and Trustee Investment (Scotland) Act 2005, section 65
+act: Charities and Trustee Investment (Scotland) Act 2005
+section: '65'
+status: revised-with-pending-changes
+text_date: '2026-03-05'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2005/10/section/65
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Charities and Trustee Investment (Scotland) Act 2005, section 65
+
+> **Warning: changes not yet applied to this text (3).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/asp/2005/10
+>
+> Extent: Scotland.
+
+## 65. Designated religious charities[^key-32efa5fa6b6e22c4247183270798186a]
+
+*Extent: S*
+
+(1) OSCR may designate as a designated religious charity a charity which appears to it to have—
+
+- (a) the advancement of religion as its principal purpose,
+- (b) the regular holding of public worship as its principal activity,
+- (c) been established in Scotland for at least 10 years,
+- (d) a membership of at least 3,000 persons who are—
+  - (i) resident in Scotland, and
+  - (ii) at least 16 years of age, and
+- (e) an internal organisation such that—
+  - (i) one or more authorities in Scotland exercise supervisory and disciplinary functions in respect of the component elements of the charity, and
+  - (ii) those elements are subject to requirements as to keeping accounting records and audit of accounts which appear to OSCR to correspond to those required by section 44.
+
+(2) OSCR may determine that subsection (1)(c) need not be satisfied in the case of a charity—
+
+- (a) created by the amalgamation of 2 or more charities each of which, immediately before the amalgamation—
+  - (i) was a designated religious charity, or
+  - (ii) was, in OSCR's opinion, eligible for designation as such, or
+- (b) constituted by persons who have removed themselves from membership of a charity which, immediately before the removal—
+  - (i) was a designated religious charity, or
+  - (ii) was, in OSCR's opinion, eligible for designation as such.
+
+(3) The provisions set out in subsection (4) do not apply to—
+
+- (a) a designated religious charity,
+- (b) any component element of a designated religious charity which is itself a charity (whether or not having as its principal purpose the advancement of religion).
+
+(4) Those provisions are—
+
+- subsections (1) and (6) of section 16 (in so far as those subsections relate to any action set out in subsection (2)(b) to (d) of that section),
+- section 28(3),
+- section 30B,[^key-38199618697c224772ba1e04ccac47f0]
+- section 31(4) and (6),
+- section 34(5)(c) to (e),
+- section 69.
+
+(5) OSCR may, by notice served on a designated religious charity, withdraw the designation of the charity as such where—
+
+- (a) it appears to OSCR that one or more of paragraphs (a) to (e) of subsection (1) is no longer satisfied in relation to the charity, or
+- (b) in consequence of an investigation of any component element of the charity under section 28, OSCR has given a direction under section 31(5) in relation to the component element and considers that it is no longer appropriate for the charity to be a designated religious charity.
+
+## Annotations
+
+[^key-32efa5fa6b6e22c4247183270798186a]: Commencement: S. 65 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+
+[^key-38199618697c224772ba1e04ccac47f0]: Textual amendment: Words in [s. 65(4)](https://www.legislation.gov.uk/asp/2005/10/section/65/4) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 17(8)](https://www.legislation.gov.uk/asp/2023/5/section/17/8), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2024/63/regulation/4))

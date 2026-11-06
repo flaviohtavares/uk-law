@@ -1,0 +1,957 @@
+---
+title: Regulation of Investigatory Powers (Scotland) Act 2000
+id: asp/2000/11
+type: ScottishAct
+category: primary
+status: revised
+made_date: '2000-09-28'
+text_date: '2022-03-25'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2000/11
+pdf_urls:
+- http://www.legislation.gov.uk/asp/2000/11/pdfs/aspen_20000011_en.pdf
+- http://www.legislation.gov.uk/asp/2000/11/pdfs/asp_20000011_en.pdf
+- http://www.legislation.gov.uk/asp/2000/11/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Regulation of Investigatory Powers (Scotland) Act 2000
+
+> Text as at 2022-03-25.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+Regulation of Investigatory Powers (Scotland) Act 2000
+
+2000 asp 11
+
+An Act of the Scottish Parliament to regulate surveillance and the use of covert human intelligence sources.
+
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 7th September 2000 and received Royal Assent on 28th September 2000
+
+## Introductory
+
+### 1. Conduct to which this Act applies
+
+(1) This Act applies to the following conduct—
+
+- (a) directed surveillance;
+- (b) intrusive surveillance; and
+- (c) the conduct and use of covert human intelligence sources.
+
+(2) For the purposes of this Act surveillance is directed if it is covert but not intrusive and is undertaken—
+
+- (a) for the purposes of a specific investigation or a specific operation;
+- (b) in such a manner as is likely to result in the obtaining of private information about a person (whether or not one specifically identified for the purposes of the investigation or operation); and
+- (c) otherwise than by way of an immediate response to events or circumstances the nature of which is such that it would not be reasonably practicable for an authorisation under this Act to be sought for the carrying out of the surveillance.
+
+(3) Subject to subsections (4) and (5) below, surveillance is intrusive for the purposes of this Act if, and only if, it is covert surveillance that—
+
+- (a) is carried out in relation to anything taking place on any residential premises or in any private vehicle; and
+- (b) involves the presence of an individual on the premises or in the vehicle or is carried out by means of a surveillance device.
+
+(4) For the purposes of this Act surveillance is not intrusive to the extent that it is carried out by means only of a surveillance device designed or adapted principally for the purpose of providing information about the location of a vehicle.
+
+(5) For the purposes of this Act surveillance which—
+
+- (a) is carried out by means of a surveillance device in relation to anything taking place on any residential premises or in any private vehicle; but
+- (b) is carried out without that device being present on the premises or in the vehicle,
+
+is not intrusive unless the device is such that it consistently provides information of the same quality and detail as might be expected to be obtained from a device actually present on the premises or in the vehicle.
+
+(6) In this Act—
+
+- (a) references to the conduct of a covert human intelligence source are references to any conduct of such a source which falls within any of paragraphs (a) to (c) of subsection (7) below, or is incidental to anything falling within any of those paragraphs; and
+- (b) references to the use of a covert human intelligence source are references to inducing, asking or assisting a person to engage in the conduct of such a source, or to obtain information by means of the conduct of such a source.
+
+(7) For the purposes of this Act a person is a covert human intelligence source if the person—
+
+- (a) establishes or maintains a personal or other relationship with another person for the covert purpose of facilitating the doing of anything falling within paragraph (b) or (c) below;
+- (b) covertly uses such a relationship to obtain information or to provide access to any information to another person; or
+- (c) covertly discloses information obtained by the use of such a relationship or as a consequence of the existence of such a relationship.
+
+(8) For the purposes of this section—
+
+- (a) surveillance is covert if, and only if, it is carried out in a manner that is calculated to ensure that persons who are subject to the surveillance are unaware that it is or may be taking place;
+- (b) a purpose is covert, in relation to the establishment or maintenance of a personal or other relationship, if and only if the relationship is conducted in a manner that is calculated to ensure that one of the parties to the relationship is unaware of the purpose; and
+- (c) a relationship is used covertly, and information obtained as mentioned in subsection (7)(c) above is disclosed covertly, if and only if it is used or, as the case may be, disclosed in a manner that is calculated to ensure that one of the parties to the relationship is unaware of the use or disclosure in question.
+
+(9) In this section “**private information**”, in relation to a person, includes any information relating to the person’s private or family life.
+
+(10) References in this section, in relation to a vehicle, to the presence of a surveillance device in the vehicle include references to its being located on or under the vehicle and also include references to its being attached to it.
+
+## Judicial Commissioners[^key-fcea6602ceb3cd37fa144ca96e9cd003]
+
+### 2. Surveillance Commissioners
+
+(1)[^key-c2e0a53610b8b14fd1c3db3abb2f9753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2)[^key-c2e0a53610b8b14fd1c3db3abb2f9753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-c2e0a53610b8b14fd1c3db3abb2f9753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-c2e0a53610b8b14fd1c3db3abb2f9753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^key-c2e0a53610b8b14fd1c3db3abb2f9753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-c2e0a53610b8b14fd1c3db3abb2f9753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-c2e0a53610b8b14fd1c3db3abb2f9753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-c2e0a53610b8b14fd1c3db3abb2f9753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-c2e0a53610b8b14fd1c3db3abb2f9753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) The decisions of the Investigatory Powers Commissioner[^key-c781fc8b305241fa3786b1362e8c1fa6] or, subject to section 16 below, any other Judicial Commissioner[^key-c27da702ae0fafa283e1f5fbcc44251f] (including decisions as to jurisdiction) shall not be subject to appeal or liable to be questioned in any court.
+
+### 3. Assistant Surveillance Commissioners[^key-8d32bbe7e17a2fd5ddc4dc48691a5de5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Delegation of Commissioner’s functions[^key-702b0ffe611525dd23670228d9eeefcc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Authorisation of surveillance and human intelligence sources
+
+### 5. Lawful surveillance etc.
+
+(1) Conduct to which this Act applies shall be lawful for all purposes if—
+
+- (a) an authorisation under this Act confers an entitlement to engage in that conduct on the person whose conduct it is; and
+- (b) that person’s conduct is in accordance with the authorisation.
+
+(2) A person shall not be subject to any civil liability in respect of any conduct of that person which—
+
+- (a) is incidental to any conduct that is lawful by virtue of subsection (1) above; and
+- (b) is not itself conduct an authorisation or warrant for which is capable of being granted under a relevant enactment and might reasonably have been expected to have been sought in the case in question.
+
+(3) In this section “**relevant enactment**” means—
+
+- (a) an enactment contained in this Act;
+- (aa)[^key-3164e43b3ad7c82eed17a57027a429a4] an enactment contained in Part 5 of the Investigatory Powers Act 2016 (equipment interference) so far as relating to the Police Service; or
+- (b) an enactment contained in Part III of the Police Act 1997 (c.50) (authorisation of interference with property and wireless telegraphy) insofar as relating to the Police Service[^key-84f33addf06487e8039e04618a3f5c9a].
+
+### 6. Authorisation of directed surveillance
+
+(1) Subject to the following provisions of this Act, the persons designated for the purposes of this section shall each have power to grant authorisations for the carrying out of directed surveillance.
+
+(2) A person shall not grant an authorisation for the carrying out of directed surveillance unless that person is satisfied—
+
+- (a) that the authorisation is necessary on grounds falling within subsection (3) below; and
+- (b) that the authorised surveillance is proportionate to what is sought to be achieved by carrying it out.
+
+(3) An authorisation is necessary on grounds falling within this subsection if it is necessary—
+
+- (a) for the purpose of preventing or detecting crime or of preventing disorder;
+- (b) in the interests of public safety; or
+- (c) for the purpose of protecting public health.
+
+(4) The conduct that is authorised by an authorisation for the carrying out of directed surveillance is any conduct that—
+
+- (a) consists in the carrying out of directed surveillance of any such description as is specified in the authorisation; and
+- (b) is carried out in the circumstances described in the authorisation and for the purposes of the investigation or operation specified or described in the authorisation.
+
+### 7. Authorisation of covert human intelligence sources
+
+(1) Subject to the following provisions of this Act, the persons designated for the purposes of this section shall each have power to grant authorisations for the conduct or the use of a covert human intelligence source.
+
+(2) A person shall not grant an authorisation for the conduct or the use of a covert human intelligence source unless that person is satisfied—
+
+- (a) that the authorisation is necessary on grounds falling within subsection (3) below;
+- (b) that the authorised conduct or use is proportionate to what is sought to be achieved by that conduct or use; and
+- (c) that arrangements exist for the source’s case that satisfy the requirements of subsection (6) below and such other requirements as may be imposed by order made by the Scottish Ministers.
+
+(3) An authorisation is necessary on grounds falling within this subsection if it is necessary—
+
+- (a) for the purpose of preventing or detecting crime or of preventing disorder;
+- (b) in the interests of public safety; or
+- (c) for the purpose of protecting public health.
+
+(4) The Scottish Ministers may by order—
+
+- (a) prohibit the authorisation under this section of any such conduct or uses of covert human intelligence sources as may be described in the order; and
+- (b) impose requirements, in addition to those provided for by subsection (2) above, that must be satisfied before an authorisation is granted under this section for any such conduct or uses of covert human intelligence sources as may be described.
+
+(5) The conduct that is authorised by an authorisation for the conduct or the use of a covert human intelligence source is any conduct that—
+
+- (a) is comprised in any such activities involving conduct of a covert human intelligence source, or the use of a covert human intelligence source, as are specified or described in the authorisation;
+- (b) consists in conduct by or in relation to the person who is so specified or described as the person to whose actions as a covert human intelligence source the authorisation relates; and
+- (c) is carried out for the purposes of, or in connection with, the investigation or operation so specified or described.
+
+(6) For the purposes of this Act there are arrangements for the source’s case that satisfy the requirements of this subsection if such arrangements are in force as are necessary for ensuring—
+
+- (a) that there will at all times be a person holding an office, rank or position with the relevant investigating authority who will have day-to-day responsibility for dealing with the source on behalf of that authority, and for the source’s security and welfare;
+- (b) that there will at all times be another person holding an office, rank or position with the relevant investigating authority who will have general oversight of the use made of the source;
+- (c) that there will at all times be a person holding an office, rank or position with the relevant investigating authority who will have responsibility for maintaining a record of the use made of the source;
+- (d) that the records relating to the source that are maintained by the relevant investigating authority will always contain particulars of all such matters (if any) as may be specified for the purposes of this paragraph in regulations made by the Scottish Ministers; and
+- (e) that records maintained by the relevant investigating authority that disclose the identity of the source will not be available to persons except to the extent that there is a need for access to them to be made available to those persons.
+
+(7) In this section “**relevant investigating authority**”, in relation to an authorisation for the conduct or the use of an individual as a covert human intelligence source, means (subject to subsection (8) below) the public authority for whose benefit the activities of that individual as such a source are to take place.
+
+(8) In the case of any authorisation for the conduct or the use of a covert human intelligence source whose activities are to be for the benefit of more than one public authority, the references in subsection (6) above to the relevant investigating authority are references to one of them (whether or not the same one in the case of each reference).
+
+### 8. Persons entitled to grant authorisations under sections 6 and 7
+
+(1) Subject to subsection (2) below, the persons designated for the purposes of sections 6 and 7 above are the individuals holding such offices, ranks or positions with relevant public authorities as are prescribed for the purposes of this subsection by order made by the Scottish Ministers.
+
+(2) The Scottish Ministers may by order impose restrictions—
+
+- (a) on the authorisations under sections 6 and 7 above that may be granted by any individual holding an office, rank or position with a specified public authority; and
+- (b) on the circumstances in which, or the purposes for which, such authorisations may be granted by any such individual.
+
+(3) A public authority is a relevant public authority for the purposes of this section in relation to sections 6 and 7 above if it is—
+
+- (aa)[^key-a1b8ab9711bbad4e899772933f02ead1] the Police Service;
+- (b) the Scottish Administration;
+- (c) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c.39);
+- (ca)[^key-640b8013bbf8c58f203f4ed14abca091] the Police Investigations and Review Commissioner;
+- (d)[^key-a8f9779c4b3de34011fb2d7878520a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-a8f9779c4b3de34011fb2d7878520a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^key-a8f9779c4b3de34011fb2d7878520a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^key-a8f9779c4b3de34011fb2d7878520a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) the Scottish Environment Protection Agency.
+- (i)[^key-99d2b6a61e29b04c431f3739148554ce] the Common Services Agency for the Scottish Health Service.
+
+(4) The Scottish Ministers may by order amend subsection (3) above by—
+
+- (a) adding a public authority to those enumerated in that subsection;
+- (b) removing a public authority therefrom;
+- (c) making any change consequential on any change in the name of a public authority enumerated therein.
+
+(5) No order shall be made under subsection (4)(a) above unless it has been laid in draft before and approved by resolution of the Scottish Parliament.
+
+### 9. Special provision for the Scottish Crime and Drug Enforcement Agency[^key-836671c1c549a4c50b8063c618f5c2f3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Authorisation of intrusive surveillance
+
+(1) Subject to the following provisions of this Act, any of the persons mentioned in subsection (1A) may grant authorisations for the carrying out of intrusive surveillance.[^key-24e46f3356d7a28fa743dcac70557ff8]
+
+(1A)[^key-2ca6953337822c3c4a3fc79ddb089199] Those persons are—
+
+- (a) the chief constable of the Police Service and any other senior officer of the Police Service who is designated by the chief constable for the purposes of this section[^key-a16acb330a2304153436a39e898cf738],
+- (aa)[^key-5b2f91a273fa9c46d5680b08a31d25a9] the Police Investigations and Review Commissioner;
+- (b)[^key-18f7ca4d9084048417e4ef7d443d3767] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-18f7ca4d9084048417e4ef7d443d3767] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) No such authorisation shall be granted unless the person[^c2034716][^c2034716] granting it is satisfied—
+
+- (a) that the authorisation is necessary for the purpose of preventing or detecting serious crime; and
+- (b) that the authorised surveillance is proportionate to what is sought to be achieved by carrying it out.
+
+(3) The matters to be taken into account in considering whether the requirements of subsection (2) above are satisfied in the case of any authorisation shall include whether the information which it is thought necessary to obtain by the authorised conduct could reasonably be obtained by other means.
+
+(4) The conduct that is authorised by an authorisation for the carrying out of intrusive surveillance is any conduct that—
+
+- (a) consists in the carrying out of intrusive surveillance of any such description as is specified in the authorisation;
+- (b) is carried out in relation to the residential premises specified or described in the authorisation or in relation to the private vehicle so specified or described; and
+- (c) is carried out for the purposes of, or in connection with, the investigation or operation so specified or described.
+
+### 10A. Authorisation of surveillance: joint surveillance operations[^key-97725b8794cf0e1b303838496c47ada4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Rules for grant of authorisations
+
+(1) A person who is a designated person for the purposes of section 6 or 7 above by reference to the office, rank or position with the Police Service[^key-c7427474b6c2986dddfde8784a79dfee] held by that person shall not grant an authorisation under that section except on an application made by a constable of the Police Service[^key-d60906565a368113639d8fd2d412b3b1].
+
+(2)[^key-901f008a46ab963925932d85c9c5c5ff] An authorisation for the carrying out of intrusive surveillance shall not be granted by the chief constable or any other senior officer of the Police Service except on an application by a constable of the Police Service.
+
+(2A)[^key-be5891a4f9b0e7acf2f47aef39269110] The Police Investigations and Review Commissioner shall not grant an authorisation for the carrying out of intrusive surveillance except—
+
+- (a) on an application by one of the Commissioner's staff officers; and
+- (b) where the intrusive surveillance is to be carried out in relation to an investigation carried out in pursuance of paragraph (b)(i) of section 33A of the Police, Public Order and Criminal Justice (Scotland) Act 2006.
+
+(3)[^key-71e1057a5cfe712231c902b4b858c017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A single authorisation may combine both—
+
+- (a) an authorisation granted under this Act —[^key-1bdfb7fdc17c707576333cdcc335516b]
+- (i) by, or on the application of, a constable of the Police Service; and
+- (ii)[^key-b169346f07a947a7f09424648ca17546] by the Police Investigations and Review Commissioner; or
+- (iii) by, or on the application of, a staff officer of the Police Investigations and Review Commissioner
+- (b) an authorisation given by, or on the application of, that individual under Part III of the Police Act 1997 (c.50) (authorisation of interference with property and wireless telegraphy) insofar as relating to
+  - (i)[^c2034724] where that individual is a constable of the Police Service, the Police Service; or[^key-c337609efc1b987b6813a142390a49c2]
+  - (ia) where that individual is the Police Investigations and Review Commissioner or a staff officer of that Commissioner, the Commissioner,
+  - (ii)[^key-5aa150cfe2b3b1dfc22787cc175a9197] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+but the provisions of this Act or the 1997 Act that are applicable in the case of each of the authorisations shall apply separately in relation to the part of the combined authorisation to which they are applicable.
+
+(5)[^key-660ece26846b1e320aa520af6c69d30a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Grant of authorisations in cases of urgency[^key-58fd3745b44017763ec2e9ed0948627a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12ZA. Grant of authorisation in cases of urgency: Police Investigations and Review Commissioner[^key-8841535792b1acb560481a1716b4bed1]
+
+(1) This section applies in the case of an application to the Police Investigations and Review Commissioner for an authorisation for the carrying out of intrusive surveillance where the case is urgent.
+
+(2) If it is not reasonably practicable, having regard to the urgency of the case, for the application to be considered by the Police Investigations and Review Commissioner, the application may be made to and considered by any staff officer of the Commissioner whom the Commissioner designates for the purposes of this section.
+
+### 12A. Grant of authorisations in cases of urgency: Scottish Crime and Drug Enforcement Agency[^key-58fd3745b44017763ec2e9ed0948627a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Notification of authorisations for intrusive surveillance[^key-6a992f6585c1a901a43dad203f4135f7]
+
+(1) Where a person grants or cancels an authorisation for the carrying out of intrusive surveillance, the person shall give notice of the grant or cancellation to a Judicial Commissioner[^key-6a541c67e211dc0af4b3d98f6f3dc420] .
+
+(2) A notice given for the purposes of subsection (1) above—
+
+- (a) must be given in writing as soon as reasonably practicable after the grant or, as the case may be, cancellation of the authorisation to which it relates;
+- (b) must be given in accordance with any such arrangements made for the purposes of this paragraph by the Investigatory Powers Commissioner[^key-741a3c166715869fb1246cdf2ceb5fac] as are for the time being in force; and
+- (c) must specify such matters as the Scottish Ministers may by order prescribe.
+
+(3) A notice under this section of the grant of an authorisation shall, as the case may be, either—
+
+- (a) state that the approval of a Judicial Commissioner[^key-d6d558efb2c2c7ea28068a327a2cbba6] is required by section 14 below before the grant of the authorisation will take effect; or
+- (b) state that the case is one of urgency and set out the grounds on which the person granting the authorisation is satisfied that the case is one of urgency.
+
+(4) Where a notice for the purposes of subsection (1) above of the grant of an authorisation has been received by a Judicial Commissioner[^key-b23a3d66c5cd693413232bad11af3ae7] , the Commissioner shall, as soon as practicable—
+
+- (a) scrutinise the authorisation; and
+- (b) in a case where notice has been given in accordance with subsection (3)(a) above, decide whether or not to approve the authorisation.
+
+(5) Subject to subsection (6) below, the Scottish Ministers shall not make an order under subsection (2)(c) above unless a draft of the order has been laid before and approved by a resolution of the Scottish Parliament.
+
+(6) Subsection (5) above does not apply in the case of an order made on the first occasion on which the Scottish Ministers exercise their powers to make an order under subsection (2)(c) above.
+
+(7) The order made on that occasion shall cease to have effect at the end of the period of 40 days beginning with the day on which it was made unless, before the end of that period, it has been approved by resolution of the Scottish Parliament.
+
+(8) For the purposes of subsection (7) above—
+
+- (a) the order’s ceasing to have effect shall be without prejudice to anything previously done or to the making of a new order; and
+- (b) in reckoning the period of 40 days, no account shall be taken of any period during which the Scottish Parliament is dissolved or is in recess for more than 4 days.
+
+(9) Any notice that is required by any provision of this section to be given in writing may be given, instead, by being transmitted by electronic means.
+
+### 14. Approval required for authorisations to take effect[^key-2bf7560fafd59f36db1a31039ac8fedb]
+
+(1) Subject to subsection (2) below, an authorisation for the carrying out of intrusive surveillance shall not take effect until such time (if any) as—
+
+- (a) the grant of the authorisation has been approved by a Judicial Commissioner[^key-2748f8c867008235005bd787f5f075bf] ; and
+- (b) written notice of the decision of that approval by that Commissioner has been given, in accordance with subsection (3) below, to the person who granted the authorisation.
+
+(2) Where the person who grants the authorisation—
+
+- (a) is satisfied that the case is one of urgency; and
+- (b) gives notice in accordance with section 13(3)(b) above,
+
+subsection (1) above shall not apply to the authorisation, and the authorisation shall have effect from the time of its grant.
+
+(3) Where subsection (1) above applies to the authorisation—
+
+- (a) a Judicial Commissioner[^key-4b8bb6f0aa4de5d7b12c071187fd4f00] shall give approval under this section to the authorisation if, and only if, satisfied that there are reasonable grounds for being satisfied that the requirements of section 10(2)(a) and (b) above are satisfied in the case of the authorisation; and
+- (b) a Judicial Commissioner who makes a decision as to whether or not the authorisation should be approved shall, as soon as reasonably practicable after making that decision, give written notice of that decision to the person who granted the authorisation.
+
+(4) If a Judicial Commissioner[^key-810159438114feb932ae9d21e08fc547] decides not to approve an authorisation to which subsection (1) above applies, the Commissioner shall make a report of that decision and the Commissioner’s findings to the most senior relevant person.
+
+(5) In this section “ **the most senior relevant person** ” means—
+
+- (a) in relation to an authorisation granted on the application of a constable of the Police Service, the chief constable of the Police Service; and[^key-e81695c22929c362eb2f261257bce483]
+- (aa) in relation to an authorisation granted on an application by a staff officer of the Police Investigations and Review Commissioner, the Police Investigations and Review Commissioner.
+- (b)[^key-16f10f7163da5851ef4398d3fa1ed529] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Any notice that is required by any provision of this section to be given in writing may be given, instead, by being transmitted by electronic means.
+
+(7)[^key-359f7d9631be3882277e34c7cb0a19d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Quashing of authorisations etc.
+
+(1)[^key-4d9611de5c1e85b889e0e791a54b7f1e] Where a Judicial Commissioner[^key-531eb1e09b0e8946d085bc9485949af7] is at any time satisfied that, at the time the authorisation for the carrying out of intrusive surveillance was granted or at any time when it was renewed, there were no reasonable grounds for being satisfied that the requirements of section 10(2)(a) and (b) above were satisfied, the Commissioner may quash the authorisation with effect, as the Commissioner thinks fit, from the time of the grant of the authorisation or from the time of any renewal of the authorisation.
+
+(2)[^key-4d9611de5c1e85b889e0e791a54b7f1e] If a Judicial Commissioner is satisfied at any time while the authorisation is in force that there are no longer any reasonable grounds for being satisfied that the requirements of section 10(2)(a) and (b) above are satisfied in relation to the authorisation, he may cancel the authorisation with effect from such time as appears to the Commissioner to be the time from which those requirements ceased to be so satisfied.
+
+(3)[^key-4d9611de5c1e85b889e0e791a54b7f1e] Where, in the case of any authorisation of which notice has been given in accordance with section 13(3)(b) above, a Judicial Commissioner is at any time satisfied that, at the time of the grant or renewal of the authorisation to which that notice related, there were no reasonable grounds for being satisfied that the case was one of urgency, the Commissioner may quash the authorisation with effect, as the Commissioner thinks fit, from the time of the grant of the authorisation or from the time of any renewal of the authorisation.
+
+(4) Subject to subsection (6) below, where a Judicial Commissioner quashes an authorisation under this section, the Commissioner may order the destruction of any records relating wholly or partly to information obtained by the authorised conduct after the time from which the decision of the Commissioner takes effect.
+
+(5) Subject to subsection (6) below, where—
+
+- (a) an authorisation has ceased to have effect (otherwise than by virtue of subsection (1) or (3) above); and
+- (b) a Judicial Commissioner is satisfied that there was a time while the authorisation was in force when there were no reasonable grounds for being satisfied that the requirements of section 10(2)(a) and (b) above continued to be satisfied in relation to the authorisation,
+
+the Commissioner may order the destruction of any records relating, wholly or partly, to information obtained at such time by the authorised conduct.
+
+(6) No order shall be made under this section for the destruction of any records required for pending criminal or civil proceedings.
+
+(7) Where a Judicial Commissioner[^key-a7c60ea427af819799ed62be3277a9e8] exercises a power conferred by this section, the Commissioner shall, as soon as reasonably practicable, make a report of that exercise of that power and of the Commissioner’s reasons for doing so—
+
+- (a) to the most senior relevant person (within the meaning of section 14 above); and
+- (aa)[^key-c4f5959dc712efebcc26190629ab1ff4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) to the Investigatory Powers Commissioner (if the Commissioner is not that Commissioner)[^key-c00f1ecf150fc19440ba07e48a3c118e] .
+
+(8) Where an order for the destruction of records is made under this section, the order shall not become operative until such time (if any) as—
+
+- (a) the period for appealing against the decision to make the order has expired; and
+- (b) any appeal brought within that period has been dismissed by the Investigatory Powers Commissioner[^key-8a00d1bccecb214b1a83641a28814536] .
+
+(9) No notice shall be required to be given under section 13(1) above in the case of a cancellation under subsection (2) above.
+
+### 16. Appeals against decisions by Judicial Commissioners[^key-00d8797c40488297692b12d3875f2253][^key-e1d4b29364c117d020ab0cf9fd7dae13]
+
+(1) A person who granted an authorisation for the carrying out of intrusive surveillance[^key-a951c9029800aaef0f985b340037aa66] may appeal to the Investigatory Powers Commissioner[^key-da932a1105257a30ba81c9b86a3e5986] against any of the following—
+
+- (a) any refusal of a Judicial Commissioner (other than the Investigatory Powers Commissioner)[^key-0384ea93af9f9c597dce292c0da3eb2b] to approve the authorisation[^key-e06a75bfdb6edc3fddcde4890d307a35];
+- (b) any decision of such a Commissioner to quash or cancel the[^key-f34fed274bed6a202c9d543569bdfc0d] authorisation;
+- (c) any decision of such a Commissioner to make an order under section 15 above for the destruction of records.
+
+(1A)[^key-d74c67d95f83464c1c391c47c9f199e2] Where an authorisation for the carrying out of intrusive surveillance is granted by a senior officer of the Police Service designated by the chief constable under section 10(1A)(a), the chief constable shall also be entitled to appeal under this section.
+
+(1B) Where an authorisation for the carrying out of intrusive surveillance is granted by a staff officer designated by the Police Investigations and Review Commissioner under section 12ZA(2), the Commissioner shall also be entitled to appeal under this section.”.
+
+(2)[^key-b00fe488388375836ab5c2831826738f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) An appeal under this section must be brought within the period of seven days beginning with the day on which the refusal or decision appealed against is reported to the appellant.
+
+(4) Subject to subsection (5) below, the Investigatory Powers Commissioner[^key-875c1f66d8318b3698eef96febd2df41] , on an appeal under this section, shall allow the appeal—
+
+- (a) if satisfied that there were reasonable grounds for being satisfied that the requirements of section 10(2)(a) and (b) above were satisfied in relation to the authorisation at the time in question; or
+- (b) if not satisfied that the authorisation is one of which notice was given in accordance with section 13(3)(b) above without there being any reasonable grounds for being satisfied that the case was one of urgency.
+
+(5) If, on an appeal falling within subsection (1)(b) above, the Investigatory Powers Commissioner —
+
+- (a) is satisfied that grounds exist which justify the quashing or cancellation under section 15 above of the authorisation in question; but
+- (b) considers that the authorisation should have been quashed or cancelled from a different time from that from which it was quashed or cancelled by the Judicial Commissioner[^key-0d8f290ec97d012c63f6873e3d8beec1] against whose decision the appeal is brought,
+
+the Investigatory Powers Commissioner may modify the Judicial Commissioner's[^key-4085a50f7cb2bcd8dd173da15921a8fe] decision to quash or cancel the authorisation, and any related decision for the destruction of records, so as to give effect to the decision under section 15 above that the Investigatory Powers Commissioner considers should have been made.
+
+(6) Where, on appeal under this section against a decision to quash or cancel an authorisation, the Investigatory Powers Commissioner allows the appeal the Commissioner shall also quash any related order for the destruction of records relating to information obtained by the authorised conduct.
+
+(7)[^key-b00fe488388375836ab5c2831826738f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Appeals to the Investigatory Powers Commissioner : supplementary[^key-c6a994e7d4f9759a3354ec8104dae860]
+
+(1) On determining an appeal under section 16 above, the Investigatory Powers Commissioner[^key-7cbe750073a016cfc9be042d115ee841] shall give notice of the determination to both—
+
+- (a) the person by whom the appeal was brought; and
+- (b) the Judicial Commissioner[^key-dd2f4e317e49a8968ac52bf14fe8f6ae] whose decision was appealed against.
+
+(2) Where the determination of the Investigatory Powers Commissioner on an appeal under section 16 above is a determination to dismiss the appeal, the Investigatory Powers Commissioner shall make a report of the findings—
+
+- (a) to the persons mentioned in subsection (1) above; and
+- (b) to the Scottish Ministers.
+
+(3) Subject to subsection (2) above, the Investigatory Powers Commissioner shall not give any reasons for any determination of the Commissioner on an appeal under section 16 above.
+
+### 18. Information to be provided to Surveillance Commissioners[^key-cbd73cf87847924d044d9116a0fa9fec]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Grant, renewal and duration of authorisations
+
+### 19. General rules about grant, renewal and duration
+
+(1) An authorisation under this Act—
+
+- (a) may be granted or renewed orally in any urgent case in which the entitlement to act of the person granting or renewing it is not confined to urgent cases; and
+- (b) in any other case, must be in writing.
+
+(2) A single authorisation may combine two or more different authorisations under this Act; but the provisions of this Act that are applicable in the case of each of the authorisations shall apply separately in relation to the part of the combined authorisation to which they are applicable.
+
+(3)[^c449745] Subject to subsections (4) and (8) below, an authorisation under this Act shall cease to have effect at the end of the following period—
+
+- (a) in the case of an authorisation which—
+  - (i) has not been renewed and was granted either orally or by a person whose entitlement to act is confined to urgent cases; or
+  - (ii) was last renewed either orally or by such a person,
+
+  the period of 72 hours beginning with the time when the grant of the authorisation or, as the case may be, its latest renewal takes effect;
+- (b)[^key-849923fd37236c59182ea2380ee8d595][^key-6c769e79f8966ab8a75969b0ccec3ef2] in a case not falling within paragraph (a) above in which the authorisation is for the conduct or the use of a covert human intelligence source, the period of 12 months beginning with the day on which the grant of the authorisation or, as the case may be, its latest renewal takes effect; and
+- (c) in any case not falling within paragraph (a) or (b) above, the period of three months beginning with the day on which the grant of the authorisation or, as the case may be, its latest renewal takes effect.
+
+(4) Subject to subsection (6) below, an authorisation under this Act may be renewed, at any time before the time at which it ceases to have effect, by any person who would be entitled to grant a new authorisation in the same terms.
+
+(5) Sections 6 to 18 above shall have effect in relation to the renewal of an authorisation under this Act as if references to the grant of an authorisation included references to its renewal.
+
+(6) A person shall not renew an authorisation for the conduct or the use of a covert human intelligence source, unless the person—
+
+- (a) is satisfied that a review has been carried out of the matters mentioned in subsection (7) below; and
+- (b) has, for the purpose of deciding whether to renew the authorisation, considered the results of that review.
+
+(7) The matters mentioned in subsection (6) above are—
+
+- (a) the use made of the source in the period since the grant or, as the case may be, latest renewal of the authorisation; and
+- (b) the tasks given to the source during that period and the information obtained from the conduct or the use of the source.
+
+(8) The Scottish Ministers may by order provide, in relation to authorisations of such descriptions as may be specified in the order, that subsection (3) above is to have effect as if the period at the end of which an authorisation of a description so specified is to cease to have effect were such period, shorter than that provided for by that subsection, as may be fixed by or determined in accordance with that order.
+
+(9) References in this section to the time at which, or the day on which, the grant or renewal of an authorisation takes effect are references—
+
+- (a) in the case of the grant of an authorisation to which paragraph (c) below does not apply, to the time at which or, as the case may be, day on which the authorisation is granted;
+- (b) in the case of the grant of the renewal of an authorisation to which paragraph (c) below does not apply, to the time at which or, as the case may be, day on which the authorisation would cease to have effect but for the renewal; and
+- (c) in the case of any grant or renewal that takes effect under subsection (1) of section 14 above at a time or on a day later than that given in paragraph (a) or (b) above, to the time at which or, as the case may be, the day on which the grant or renewal takes effect in accordance with that subsection.
+
+### 20. Cancellation of authorisations[^c449755]
+
+(1) The person who granted or, as the case may be, last renewed an authorisation under this Act shall cancel it—
+
+- (a) if satisfied that the authorised conduct no longer satisfies the requirements of section 6(2)(a) and (b), 7(2)(a) and (b) or, as the case may be, 10(2)(a) and (b) above; or
+- (b) in the case of an authorisation under section 7 above, if satisfied that arrangements for the source’s case that satisfy the requirements of subsection (2)(c) of that section no longer exist.
+
+(2) Where an authorisation under this Act was granted or, as the case may be, last renewed—
+
+- (a) by a person entitled to act for any other person; or
+- (b) by the deputy of any other person,
+
+that other person shall cancel the authorisation if satisfied as to either of the matters mentioned in subsection (1) above.
+
+(2A)[^key-6f7c3cb9fde69cdd928aacc910c34ffb] Where an authorisation under this Act was granted or, as the case may be, last renewed by a senior officer of the Police Service and it is not reasonably practicable for that senior officer to cancel it under subsection (1) above, any senior officer of the Police Service designated by the chief constable for the purposes of section 10 above may cancel the authorisation if satisfied as to either of the matters mentioned in subsection (1) above.
+
+(2B) Where an authorisation under this Act was granted or, as the case may be, last renewed by the Police Investigations and Review Commissioner and it is not reasonably practicable for the Commissioner to cancel it under subsection (1) above, any person designated by the Commissioner for the purposes of section 12ZA above may cancel the authorisation if satisfied as to either of the matters mentioned in subsection (1) above.
+
+(3)[^key-e6beebb83395cedead651a3e57e29254] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The Scottish Ministers may by regulations provide for the person by whom any duty imposed by this section is to be performed in a case in which it would otherwise fall on a person who is no longer available to perform it.
+
+(5) Regulations under subsection (4) above may provide for the person on whom the duty is to fall to be a person appointed in accordance with the regulations.
+
+(6)[^key-aa813e8926913d20dc63a767eb619636] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-3394e373ad2af4bf3b5a1e31cdd0f791] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Investigatory Powers Commissioner[^key-8958dd5d1ae22df6f26c1ef418a264a1]
+
+### 21. Functions of Chief Surveillance Commissioner[^key-1a40573198b29b21702951f21fb52774]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Co-operation with and reports by Commissioner
+
+(1)[^key-bda44b89fb38b252a4716b05a70c1d08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) If it at any time appears to the Investigatory Powers Commissioner[^key-b1a888c813d0979379ea4eebae06ea99] —
+
+- (a) that there has been a contravention of the provisions of this Act in relation to any matter with which that Commissioner is concerned; and
+- (b) that the contravention has not been the subject of a report made to the Scottish Ministers by the Tribunal,
+
+that Commissioner shall make a report to the Scottish Ministers with respect to that contravention.
+
+(3) The Investigatory Powers Commissioner[^key-84fceda9326bf389622e5f4a22d1b3bd] shall make an annual report to the Scottish Ministers with respect to the carrying out of that Commissioner’s functions under , and in relation to,[^key-3699974a93a940449f89cca1ad3e2d8c] this Act.
+
+(4) The Scottish Ministers shall lay before the Scottish Parliament a copy of every annual report made by the Commissioner under subsection (3) above, together with a statement as to whether any matter has been excluded from that copy in pursuance of subsection (5) below.
+
+(5) If it appears to the Scottish Ministers, after consultation with the Commissioner, that the publication of any matter in an annual report would be contrary to the public interest or prejudicial to—
+
+- (a) the prevention or detection of serious crime; or
+- (b) the continued discharge of the functions of any public authority whose activities include activities that are subject to review by that Commissioner,
+
+the Scottish Ministers may exclude that matter from the copy of the report as laid before the Parliament.
+
+## Complaints by aggrieved persons
+
+### 23. Complaints to the Tribunal
+
+(1) In this section, the “ **Tribunal** ” means the tribunal established under section 65 of the Regulation of Investigatory Powers Act 2000 (c.23).
+
+(2) A person who is aggrieved by any conduct falling within subsection (3) below which the person believes—
+
+- (a) to have taken place in relation to that person or to any property of that person; and
+- (b) to have taken place in challengeable circumstances,
+
+is entitled to complain to the Tribunal.
+
+(3) Conduct falls within this subsection if (whenever it occurred) it is conduct to which this Act applies.
+
+(4) For the purposes of this section conduct takes place in challengeable circumstances if—
+
+- (a) it takes place with the authority, or purported authority, of anything falling within subsection (5) below; or
+- (b) the circumstances are such that (whether or not there is such authority) it would not have been appropriate for the conduct to take place without it, or at least without proper consideration having been given to whether such authority should be sought.
+
+(5) The following fall within this subsection—
+
+- (a) an authorisation under this Act;
+- (b) an authorisation under section 93 of the Police Act 1997 (c.50) insofar as relating to the Police Service[^key-d014556f5d3d5dc96f394c260ea2e717] or to the Police Investigations and Review Commissioner[^key-b1d41401445fbc55dd22c2a11ea06b9d] [^key-a1923fcc45fe814b21f965bd6f1e1466]....
+
+## Codes of practice
+
+### 24. Issue and revision of codes of practice
+
+(1) The Scottish Ministers shall issue one or more codes of practice relating to the exercise and performance of the powers and duties mentioned in subsection (2) below.
+
+(2) Those powers and duties are those (excluding any power to make subordinate legislation) that are conferred or imposed, by or under—
+
+- (a) this Act;
+- (aa)[^key-561c80a4f590840cb5cd9296b8c8eb88] Part 5 of the Investigatory Powers Act 2016 (equipment interference) so far as relating to the Police Service or the Police Investigations and Review Commissioner; and
+- (b) Part III of the Police Act 1997 (c.50) (authorisation of interference with property or wireless telegraphy) insofar as relating to the Police Service[^key-eca938e39397c1bd49fc282630fa6499] or to the Police Investigations and Review Commissioner[^key-779a45dd18c352c8ce656ed74af68d16] [^key-421a32050738e27144fbc2de882c6445]...,
+
+otherwise than on the Judicial Commissioners[^key-bba2c4ba753f0d12fcba9f0dc19d0adf] .
+
+(3) Before issuing a code of practice under subsection (1) above, the Scottish Ministers shall—
+
+- (a) prepare and publish a draft of that code; and
+- (b) consider any representations made to them about the draft,
+
+and the Scottish Ministers may incorporate in the code finally issued any modifications made by them to the draft after its publication.
+
+(4) The Scottish Ministers shall lay before the Scottish Parliament every draft code of practice prepared and published by them under this section.
+
+(5) A code of practice issued by the Scottish Ministers under this section shall not be brought into force except in accordance with an order made by them.
+
+(6) An order under subsection (5) above may contain such transitional provisions and savings as appear to the Scottish Ministers to be necessary or expedient in connection with the bringing into force of the code brought into force by that order.
+
+(7) The Scottish Ministers may from time to time—
+
+- (a) revise the whole or any part of a code issued under this section; and
+- (b) issue the revised code.
+
+(8) Subsections (3) to (6) above shall apply (with appropriate modifications) in relation to the issue of any revised code under this section as they apply in relation to the first issue of such a code.
+
+(9) The Scottish Ministers shall not make an order containing provision for any of the purposes of this section unless a draft of the order has been laid before, and approved by a resolution of the Parliament.
+
+### 25. Interim codes of practice
+
+(1) The Scottish Ministers may, notwithstanding the provisions of section 24 above, issue one or more interim codes of practice relating to the exercise and performance of the powers and duties mentioned in subsection (2) of that section.
+
+(2) An interim code issued under subsection (1) above shall have effect from its date of issue as if it were a code issued under subsection (1) of section 24 above which had been brought into force by an order under subsection (5) of that section.
+
+(3) An interim notice issued under subsection (1) above shall cease to have effect insofar as it is superseded by a code issued and brought into force under section 24 above.
+
+### 26. Effect of codes of practice
+
+(1) A person exercising or performing any power or duty in relation to which provision may be made by a code of practice under section 24 or 25 above shall, in doing so, have regard to the provisions (so far as they are applicable) of every code of practice for the time being in force under that section.
+
+(2) A failure on the part of any person to comply with any provision of a code of practice for the time being in force under section 24 or 25 above shall not of itself render the person liable to any criminal or civil proceedings.
+
+(3) A code of practice in force at any time under section 24 or 25 above shall be admissible in evidence in any criminal or civil proceedings.
+
+(4) If any provision of a code of practice issued under section 24 or 25 or revised under section 24(7) above appears to—
+
+- (a) the court or tribunal conducting any civil or criminal proceedings;
+- (b) the Investigatory Powers Commissioner[^key-718a99288787b2e207be4f3010677473] carrying out any of the functions of that Commissioner under this Act; or
+- (c) a Judicial Commissioner (other than the Investigatory Powers Commissioner)[^key-833c02e38d00ca3f7a2abfc2ec16b216] carrying out the functions of that Commissioner under this Act insofar as relating to the Police Service[^key-912c6126f778cd61384006329b2d050b] or the Police Investigations and Review Commissioner[^key-b37485c55c073016c88ca5a6299475d2],
+
+to be relevant to any question arising in the proceedings, or in connection with the exercise of that jurisdiction or the carrying out of those functions, in relation to a time when it was in force, that provision of the code shall be taken into account in determining that question.
+
+## Supplementary provisions
+
+### 27. Power to extend or modify authorisation provisions
+
+(1) The Scottish Ministers may by order do one or both of the following—
+
+- (a) apply this Act, with such modifications as they think fit, to any such surveillance, that is neither directed nor intrusive, as may be described in the order;
+- (b) provide for any description of directed surveillance to be treated for the purposes of this Act as intrusive surveillance.
+
+(2) No order shall be made under this section unless a draft of it has been laid before and approved by resolution of the Scottish Parliament.
+
+### 28. Orders and regulations
+
+(1) This section applies to any power of the Scottish Ministers to make any order or regulations under any provision of this Act.
+
+(2) The powers to which this section applies shall be exercisable by statutory instrument.
+
+(3) A statutory instrument containing any order or regulations made in exercise of a power to which this section applies, other than one containing—
+
+- (a) an order a draft of which has been approved for the purposes of section 8(5), 13(5) or (7), 24(9) and 27(2) above; or
+- (b) an order under section 32(2) below appointing a day,
+
+shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+
+(4) An order or regulations made in exercise of a power to which this section applies may—
+
+- (a) make different provisions for different cases; and
+- (b) contain such incidental, supplemental, consequential and transitional provisions as the Scottish Ministers think fit.
+
+### 29. Financial provision
+
+The Scottish Ministers shall pay to the Secretary of State such amount as is agreed between them to be appropriate to reimburse the expenditure or increased expenditure incurred by the Secretary of State in consequence of this Act.
+
+### 30. General saving for lawful conduct
+
+Nothing in any of the provisions of this Act by virtue of which conduct of any description is or may be authorised, or by virtue of which information may be obtained in any manner, shall be construed—
+
+- (a) as making it unlawful to engage in any conduct of that description which is not otherwise unlawful under this Act and would not be unlawful apart from this Act;
+- (b) as otherwise requiring—
+  - (i) the issue, grant or giving of such authorisation; or
+  - (ii) the taking of any step for or towards obtaining the authority of such authorisation,
+
+  before any such conduct of that description is engaged in; or
+- (c) as prejudicing any power to obtain information by any means not involving conduct that may be authorised under this Act.
+
+### 31. Interpretation
+
+(1) In this Act—
+
+- “ **apparatus** ” includes any equipment, machinery or device and any wire or cable;
+- “ **communication** ” includes—
+  - (a) anything comprising speech, music, sounds, visual images, or data of any description; and
+  - (b) signals serving either for the impartation of anything between persons, between a person and a thing or between things or for the actuation or control of any apparatus;
+- “ **covert human intelligence source** ” shall be construed in accordance with section 1(7) above;
+- “[^key-5d7c64ec0caba9ef289058368d03752c]**the Investigatory Powers Commissioner**” and “**Judicial Commissioner**” have the same meanings as in the Investigatory Powers Act 2016 (see section 263(1) of that Act);
+- “ **directed** ” and “ **intrusive** ”, in relation to surveillance, shall be construed in accordance with section 1(2) to (5) above;
+- [^key-15ee4348695468e659eb4c241bb98b57] ...
+- [^key-73cbe3712267cc43ee5f74cd11953298]...
+- “[^key-647d4079a03c29b5a863fcba414b14e4] **Police Service** ” means the Police Service of Scotland;
+- [^key-15ee4348695468e659eb4c241bb98b57]...
+- [^c2034863] “ **private vehicle** ” means (subject to subsection (9)(a) below) any vehicle which is used primarily for the private purposes of the person who owns it or of a person otherwise having the right to use it;
+- “ **residential premises** ” means (subject to subsection (9)(b) below) so much of any premises as is for the time being occupied or used by any person, however temporarily, for residential purposes or otherwise as living accommodation (including hotel or prison accommodation that is so occupied or used);
+- “[^key-3c9e160d581e425146b695eef768f864] **senior officer** ” has the same meaning as in the Police and Fire Reform (Scotland) Act 2012 (asp 8);
+- “ **surveillance** ” shall be construed in accordance with subsections (2) to (3) below;
+- [^key-73cbe3712267cc43ee5f74cd11953298]...
+- “ **surveillance device** ” means any apparatus designed or adapted for use in surveillance;
+- “ **the Tribunal** ” has the same meaning as in section 23(1) above.
+
+(2) Subject to subsection (3) below, in this Act “ **surveillance** ” includes—
+
+- (a) monitoring, observing or listening to persons, their movements, their conversations or their other activities or communications;
+- (b) recording anything monitored, observed or listened to in the course of surveillance; and
+- (c) surveillance by or with the assistance of a surveillance device.
+
+(3) References in this Act to surveillance do not include references to—
+
+- (a) any conduct of a covert human intelligence source for obtaining or recording (whether or not using a surveillance device) any information which is disclosed in the presence of the source;
+- (b) the use of a covert human intelligence source for so obtaining or recording information; or
+- (c) any such entry on or interference with property or with wireless telegraphy as would be unlawful unless authorised under Part III of the Police Act 1997 (c.50) (authorisation of interference with property or wireless telegraphy).
+
+(4) References in this Act to an individual holding an office or position with a public authority include references to any member, official or employee of that authority.
+
+(4A)[^key-03819f2297bdeee0b95e16d39fd1c882] References in this Act to a staff officer of the Police Investigations and Review Commissioner are references to any person who—
+
+- (a) is a member of the Commissioner's staff appointed under paragraph 7A of schedule 4 to the Police, Public Order and Criminal Justice (Scotland) Act 2006; or
+- (b) is a member of the Commissioner's staff appointed under paragraph 7 of that schedule to whom paragraph 7B(2) of that schedule applies.
+
+(5) For the purposes of this Act the activities of a covert human intelligence source which are to be taken as activities for the benefit of a particular public authority include any of that source’s conduct as such a source which is in response to inducements or requests made by or on behalf of that authority.
+
+(6) In this Act—
+
+- (a) references to crime are references to conduct which constitutes one or more criminal offences or is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom would constitute one or more criminal offences; and
+- (b) references to serious crime are references to crime that satisfies the test in subsection (7)(a) or (b) below.
+
+(7) Those tests are—
+
+- (a) that the offence or one of the offences that is or would be constituted by the conduct is an offence for which a person who has attained the age of 21 and has no previous convictions could reasonably be expected to be sentenced to imprisonment for a term of three years or more;
+- (b) that the conduct involves the use of violence, results in substantial financial gain or is conduct by a large number of persons in pursuit of a common purpose.
+
+(8) For the purposes of this Act, detecting crime shall be taken to include—
+
+- (a) establishing by whom, for what purpose, by what means and generally in what circumstances any crime was committed; and
+- (b) the apprehension of the person by whom any crime was committed,
+
+and any reference in this Act to preventing or detecting serious crime shall be construed accordingly.
+
+(9) In subsection (1) above—
+
+- (a) the reference to a person having the right to use a vehicle does not, in relation to a motor vehicle, include a reference to a person whose right to use the vehicle derives only from having paid, or undertaken to pay, for the use of the vehicle and its driver for a particular journey; and
+- (b) the reference to premises occupied or used by any person for residential purposes or otherwise as living accommodation does not include a reference to so much of any premises as constitutes any common area to which the person has or is allowed access in connection with the person’s use or occupation of any accommodation.
+
+(10) In this section—
+
+- “ **premises** ” includes any vehicle or moveable structure and any other place whatever, whether or not occupied as land;
+- “ **vehicle** ” includes any vessel, aircraft or hovercraft.
+
+### 32. Short title and commencement
+
+(1) This Act may be cited as the Regulation of Investigatory Powers (Scotland) Act 2000.
+
+(2)[^c56307] The provisions of this Act shall come into force on such day as the Scottish Ministers may by order appoint; and different days may be appointed under this subsection for different purposes.
+
+## Annotations
+
+[^key-fcea6602ceb3cd37fa144ca96e9cd003]: Textual amendment: Word in s. 2 [cross-heading](https://www.legislation.gov.uk/asp/2000/11/crossheading/surveillance-commissioners) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 85](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/85) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-c2e0a53610b8b14fd1c3db3abb2f9753]: Textual amendment: S. 2(1)-(9) repealed (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 240(2)(d)](https://www.legislation.gov.uk/ukpga/2016/25/section/240/2/d), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))
+
+[^key-c781fc8b305241fa3786b1362e8c1fa6]: Textual amendment: Words in s. 2(10) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 86(a)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/86/a) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-c27da702ae0fafa283e1f5fbcc44251f]: Textual amendment: Words in s. 2(10) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 86(b)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/86/b) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-8d32bbe7e17a2fd5ddc4dc48691a5de5]: Textual amendment: S. 3 repealed (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 240(2)(d)](https://www.legislation.gov.uk/ukpga/2016/25/section/240/2/d), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))
+
+[^key-702b0ffe611525dd23670228d9eeefcc]: Textual amendment: S. 4 repealed (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 240(2)(d)](https://www.legislation.gov.uk/ukpga/2016/25/section/240/2/d), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))
+
+[^key-3164e43b3ad7c82eed17a57027a429a4]: Textual amendment: [S. 5(3)(aa)](https://www.legislation.gov.uk/asp/2000/11/section/5/3/aa) inserted (5.12.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 68](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/68) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 3(l)(ii)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/3/l/ii)
+
+[^key-84f33addf06487e8039e04618a3f5c9a]: Textual amendment: Words in s. 5(3)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/2) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-a1b8ab9711bbad4e899772933f02ead1]: Textual amendment: S. 8(3)(aa) substituted (1.4.2013) for s. 8(3)(a) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(3)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/3/a) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-640b8013bbf8c58f203f4ed14abca091]: Textual amendment: S. 8(3)(ca) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(3)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/3/b) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-a8f9779c4b3de34011fb2d7878520a30]: Textual amendment: S. 8(3)(d)-(g) omitted (29.11.2010) by virtue of [The Regulation of Investigatory Powers (Prescription of Offices, etc. and Specification of Public Authorities) (Scotland) Order 2010 (S.S.I. 2010/350)](https://www.legislation.gov.uk/ssi/2010/350), [art. 4](https://www.legislation.gov.uk/ssi/2010/350/article/4)
+
+[^key-99d2b6a61e29b04c431f3739148554ce]: Textual amendment: S. 8(3)(i) inserted (29.11.2010) by [The Regulation of Investigatory Powers (Scotland) Amendment Order 2010 (S.S.I. 2010/420)](https://www.legislation.gov.uk/ssi/2010/420), [arts. 1](https://www.legislation.gov.uk/ssi/2010/420/article/1), [2](https://www.legislation.gov.uk/ssi/2010/420/article/2)
+
+[^key-836671c1c549a4c50b8063c618f5c2f3]: Textual amendment: S. 9 repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-24e46f3356d7a28fa743dcac70557ff8]: Textual amendment: Words in s. 10(1) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 106(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/106/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+
+[^key-2ca6953337822c3c4a3fc79ddb089199]: Textual amendment: S. 10(1A) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 106(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/106/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+
+[^key-a16acb330a2304153436a39e898cf738]: Textual amendment: Words in s. 10(1A)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(4)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/4/a) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-5b2f91a273fa9c46d5680b08a31d25a9]: Textual amendment: S. 10(1A)(aa) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(4)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/4/b) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-18f7ca4d9084048417e4ef7d443d3767]: Textual amendment: S. 10(1A)(b)(c) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) ); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^c2034716]: Textual amendment: Words in s. 10(2) substituted (1.4.2007) by Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp10), ss. 101, 104, Sch. 6 para. 9(3)(b); [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/84/article/3/3)
+
+[^key-97725b8794cf0e1b303838496c47ada4]: Textual amendment: S. 10A repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-c7427474b6c2986dddfde8784a79dfee]: Textual amendment: Words in s. 11(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(5)(a)(i)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/5/a/i) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-d60906565a368113639d8fd2d412b3b1]: Textual amendment: Words in s. 11(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(5)(a)(ii)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/5/a/ii) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-901f008a46ab963925932d85c9c5c5ff]: Textual amendment: S. 11(2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(5)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/5/b) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-be5891a4f9b0e7acf2f47aef39269110]: Textual amendment: S. 11(2A) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(5)(c)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/5/c) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-71e1057a5cfe712231c902b4b858c017]: Textual amendment: S. 11(3) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-1bdfb7fdc17c707576333cdcc335516b]: Textual amendment: Words in s. 11(4)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(d)(i)(A)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/A) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-b169346f07a947a7f09424648ca17546]: Textual amendment: Words in s. 11(4)(a) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(d)(i)(B)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/B) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^c2034724]: Textual amendment: Words in s. 11(4)(b) substituted (1.4.2007) by Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp10), ss. 101, 104, {Sch. 6 para. 9(4)(c)(ii)}; [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/84/article/3/3)
+
+[^key-c337609efc1b987b6813a142390a49c2]: Textual amendment: Words in s. 11(4)(b)(i) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(5)(d)(ii)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/5/d/ii) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-5aa150cfe2b3b1dfc22787cc175a9197]: Textual amendment: S. 11(4)(b)(ii) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-660ece26846b1e320aa520af6c69d30a]: Textual amendment: S. 11(5) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-58fd3745b44017763ec2e9ed0948627a]: Textual amendment: S. 12A repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-8841535792b1acb560481a1716b4bed1]: Textual amendment: S. 12ZA inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(6)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/6) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-6a992f6585c1a901a43dad203f4135f7]: Modification: S. 13 excluded (26.9.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 8 para. 26(a)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/8/paragraph/26/a) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/3/g/ii)
+
+[^key-6a541c67e211dc0af4b3d98f6f3dc420]: Textual amendment: Words in s. 13(1) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-741a3c166715869fb1246cdf2ceb5fac]: Textual amendment: Words in s. 13(2)(b) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-d6d558efb2c2c7ea28068a327a2cbba6]: Textual amendment: Words in s. 13(3)(a) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/c), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-b23a3d66c5cd693413232bad11af3ae7]: Textual amendment: Words in s. 13(4) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-2bf7560fafd59f36db1a31039ac8fedb]: Modification: [S. 14](https://www.legislation.gov.uk/asp/2000/11/section/14) excluded (26.9.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 8 para. 26(b)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/8/paragraph/26/b) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/3/g/ii)
+
+[^key-2748f8c867008235005bd787f5f075bf]: Textual amendment: Words in [s. 14(1)(a)](https://www.legislation.gov.uk/asp/2000/11/section/14/1/a) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-4b8bb6f0aa4de5d7b12c071187fd4f00]: Textual amendment: Words in [s. 14(3)(a)](https://www.legislation.gov.uk/asp/2000/11/section/14/3/a)[(b)](https://www.legislation.gov.uk/asp/2000/11/section/14/3/b) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/c), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-810159438114feb932ae9d21e08fc547]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/asp/2000/11/section/14/4) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-e81695c22929c362eb2f261257bce483]: Textual amendment: S. 14(5)(aa) and words substituted (1.4.2013) for words by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(7)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/7) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-16f10f7163da5851ef4398d3fa1ed529]: Textual amendment: S. 14(5)(b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-359f7d9631be3882277e34c7cb0a19d8]: Textual amendment: S. 14(7) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 106(6)(b)](https://www.legislation.gov.uk/asp/2010/13/section/106/6/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+
+[^key-4d9611de5c1e85b889e0e791a54b7f1e]: Modification: [S. 15(1)-(3)](https://www.legislation.gov.uk/asp/2000/11/section/15/1) excluded (26.9.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 8 para. 26(c)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/8/paragraph/26/c) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/3/g/ii)
+
+[^key-531eb1e09b0e8946d085bc9485949af7]: Textual amendment: Words in [s. 15(1)-(5)](https://www.legislation.gov.uk/asp/2000/11/section/15/1) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-a7c60ea427af819799ed62be3277a9e8]: Textual amendment: Words in [s. 15(7)](https://www.legislation.gov.uk/asp/2000/11/section/15/7) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-c4f5959dc712efebcc26190629ab1ff4]: Textual amendment: S. 15(7)(aa) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-c00f1ecf150fc19440ba07e48a3c118e]: Textual amendment: Words in [s. 15(7)(b)](https://www.legislation.gov.uk/asp/2000/11/section/15/7/b) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(d)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/d), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-8a00d1bccecb214b1a83641a28814536]: Textual amendment: Words in [s. 15(8)(b)](https://www.legislation.gov.uk/asp/2000/11/section/15/8/b) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-00d8797c40488297692b12d3875f2253]: Modification: [S. 16](https://www.legislation.gov.uk/asp/2000/11/section/16) excluded (26.9.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 8 para. 26(d)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/8/paragraph/26/d) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/3/g/ii)
+
+[^key-e1d4b29364c117d020ab0cf9fd7dae13]: Textual amendment: Words in s. 16 heading substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 87](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/87) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-a951c9029800aaef0f985b340037aa66]: Textual amendment: Words in s. 16(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(8)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/8/a) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-da932a1105257a30ba81c9b86a3e5986]: Textual amendment: Words in s. 16(1) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-0384ea93af9f9c597dce292c0da3eb2b]: Textual amendment: Words in s. 16(1)(a) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(e)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/e), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-e06a75bfdb6edc3fddcde4890d307a35]: Textual amendment: Words in s. 16(1)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(8)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/8/b) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-f34fed274bed6a202c9d543569bdfc0d]: Textual amendment: Word in s. 16(1)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(8)(c)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/8/c) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-d74c67d95f83464c1c391c47c9f199e2]: Textual amendment: S. 16(1A)(1B) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(8)(d)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/8/d) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-b00fe488388375836ab5c2831826738f]: Textual amendment: S. 16(2)(7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) ); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-875c1f66d8318b3698eef96febd2df41]: Textual amendment: Words in s. 16(4)-(6) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-0d8f290ec97d012c63f6873e3d8beec1]: Textual amendment: Words in s. 16(5)(b) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(f)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/f), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-4085a50f7cb2bcd8dd173da15921a8fe]: Textual amendment: Words in s. 16(5) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(g)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/g), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-c6a994e7d4f9759a3354ec8104dae860]: Textual amendment: Words in s. 17 heading substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-7cbe750073a016cfc9be042d115ee841]: Textual amendment: Words in s. 17 substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-dd2f4e317e49a8968ac52bf14fe8f6ae]: Textual amendment: Words in s. 17(1)(b) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 233(5)(f)](https://www.legislation.gov.uk/ukpga/2016/25/section/233/5/f), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/e)
+
+[^key-cbd73cf87847924d044d9116a0fa9fec]: Textual amendment: [S. 18](https://www.legislation.gov.uk/asp/2000/11/section/18) omitted (1.9.2017) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 88](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/88) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/859/regulation/9))
+
+[^c449745]: Modification: S. 19(3) modified (20.5.2002) by [S.S.I. 2002/206](https://www.legislation.gov.uk/ssi/2002/206) , [art. 6](https://www.legislation.gov.uk/ssi/2002/206/article/6)
+
+[^key-849923fd37236c59182ea2380ee8d595]: Modification: S. 19(3)(b) modified (2.2.2015) by [The Regulation of Investigatory Powers (Authorisation of Covert Human Intelligence Sources) (Scotland) Order 2014 (S.S.I. 2014/339)](https://www.legislation.gov.uk/ssi/2014/339), [arts. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1), [6](https://www.legislation.gov.uk/ssi/2014/339/article/6) (with [art. 14](https://www.legislation.gov.uk/ssi/2014/339/article/14))
+
+[^key-6c769e79f8966ab8a75969b0ccec3ef2]: Modification: S. 19(3)(b) modified (2.2.2015) by [The Regulation of Investigatory Powers (Authorisation of Covert Human Intelligence Sources) (Scotland) Order 2014 (S.S.I. 2014/339)](https://www.legislation.gov.uk/ssi/2014/339), [arts. 1](https://www.legislation.gov.uk/ssi/2014/339/article/1), [8](https://www.legislation.gov.uk/ssi/2014/339/article/8) (with [art. 14](https://www.legislation.gov.uk/ssi/2014/339/article/14))
+
+[^c449755]: Modification: S. 20 extended (20.5.2002) by [S.S.I. 2002/207](https://www.legislation.gov.uk/ssi/2002/207) , [reg. 2(1)](https://www.legislation.gov.uk/ssi/2002/207/regulation/2/1)
+
+[^key-6f7c3cb9fde69cdd928aacc910c34ffb]: Textual amendment: S. 20(2A)(2B) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(10)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/10) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-e6beebb83395cedead651a3e57e29254]: Textual amendment: S. 20(3) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-aa813e8926913d20dc63a767eb619636]: Textual amendment: S. 20(6) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-3394e373ad2af4bf3b5a1e31cdd0f791]: Textual amendment: S. 20(7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-8958dd5d1ae22df6f26c1ef418a264a1]: Textual amendment: Words in [cross-heading](https://www.legislation.gov.uk/asp/2000/11/crossheading/chief-surveillance-commissioner) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 89](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/89) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-1a40573198b29b21702951f21fb52774]: Textual amendment: S. 21 omitted (1.9.2017) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 90](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/90) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))
+
+[^key-bda44b89fb38b252a4716b05a70c1d08]: Textual amendment: S. 22(1) omitted (1.9.2017) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 91(2)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/91/2) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-b1a888c813d0979379ea4eebae06ea99]: Textual amendment: Words in s. 22(2) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 91(3)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/91/3) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-84fceda9326bf389622e5f4a22d1b3bd]: Textual amendment: Words in s. 22(3) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 91(4)(a)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/91/4/a) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-3699974a93a940449f89cca1ad3e2d8c]: Textual amendment: Words in s. 22(3) inserted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 91(4)(b)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/91/4/b) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-d014556f5d3d5dc96f394c260ea2e717]: Textual amendment: Words in s. 23(5)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(11)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/11/a) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-b1d41401445fbc55dd22c2a11ea06b9d]: Textual amendment: Words in s. 23(5)(b) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(11)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/11/b) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-a1923fcc45fe814b21f965bd6f1e1466]: Textual amendment: Words in s. 23(5)(b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(11)(c)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/11/c) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-561c80a4f590840cb5cd9296b8c8eb88]: Textual amendment: S. 24(2)(aa) inserted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 69](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/69) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-eca938e39397c1bd49fc282630fa6499]: Textual amendment: Words in s. 24(2)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(12)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/12/a) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-779a45dd18c352c8ce656ed74af68d16]: Textual amendment: Words in s. 24(2)(b) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(12)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/12/b) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-421a32050738e27144fbc2de882c6445]: Textual amendment: Words in s. 24(2)(b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(12)(c)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/12/c) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-bba2c4ba753f0d12fcba9f0dc19d0adf]: Textual amendment: Words in s. 24(2) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 92](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/92) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-718a99288787b2e207be4f3010677473]: Textual amendment: Words in [s. 26(4)(b)](https://www.legislation.gov.uk/asp/2000/11/section/26/4/b) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 93(a)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/93/a) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-833c02e38d00ca3f7a2abfc2ec16b216]: Textual amendment: Words in [s. 26(4)(c)](https://www.legislation.gov.uk/asp/2000/11/section/26/4/c) substituted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 93(b)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/93/b) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-912c6126f778cd61384006329b2d050b]: Textual amendment: Words in s. 26(4)(c) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(13)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/13/a) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-b37485c55c073016c88ca5a6299475d2]: Textual amendment: Words in s. 26(4)(c) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(13)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/13/b) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-5d7c64ec0caba9ef289058368d03752c]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/asp/2000/11/section/31/1) inserted (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 94(2)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/94/2) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-15ee4348695468e659eb4c241bb98b57]: Textual amendment: S. 31(1): entries repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-73cbe3712267cc43ee5f74cd11953298]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/asp/2000/11/section/31/1) omitted (1.9.2017) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 94(3)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/94/3) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/j)
+
+[^key-647d4079a03c29b5a863fcba414b14e4]: Textual amendment: Words in s. 31(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(14)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/14/a) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^c2034863]: Textual amendment: S. 31(1): definition of "police member" inserted (1.4.2007) by Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp10), ss. 101, 104, {Sch. 6 para. 9(14)}; [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/84/article/3/3)
+
+[^key-3c9e160d581e425146b695eef768f864]: Textual amendment: Words in s. 31(1) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(14)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/14/b) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^key-03819f2297bdeee0b95e16d39fd1c882]: Textual amendment: S. 31(4A) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8) , [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) , [Sch. 7 para. 15(14)(c)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/15/14/c) ; [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51) , [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121) )
+
+[^c56307]: Subordinate legislation: S. 32(2) power fully exercised: 29.9.2000 appointed by [S.S.I. 2000/341](https://www.legislation.gov.uk/ssi/2000/341) , [art. 2](https://www.legislation.gov.uk/ssi/2000/341/article/2)

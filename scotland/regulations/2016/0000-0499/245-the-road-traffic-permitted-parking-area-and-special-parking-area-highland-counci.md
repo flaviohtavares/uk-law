@@ -1,0 +1,573 @@
+---
+title: The Road Traffic (Permitted Parking Area and Special Parking Area) (Highland Council) Designation Order 2016
+id: ssi/2016/245
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2016-08-31'
+text_date: '2025-06-24'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/245
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/245/pdfs/ssipn_20160245_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/245/pdfs/ssi_20160245_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/245/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Road Traffic (Permitted Parking Area and Special Parking Area) (Highland Council) Designation Order 2016
+
+> Text as at 2025-06-24.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2016 No. 245
+
+Road Traffic
+
+The Road Traffic (Permitted Parking Area and Special Parking Area) (Highland Council) Designation Order 2016
+
+Made
+
+31st August 2016
+
+Laid before the Scottish Parliament
+
+2nd September 2016
+
+Coming into force
+
+3rd October 2016
+
+The Scottish Ministers make the following Order in exercise of the powers conferred by paragraphs 1(1), 2(1) and 3(3) of schedule 3 of the Road Traffic Act 1991[^f00001] and all other powers enabling them to do so.
+
+In accordance with paragraphs 1(1)(d) and 2(1)(c) of that schedule they have received an application for this Order from Highland Council.
+
+In accordance with paragraphs 1(3) and 2(3) of that schedule they have consulted the chief constable of the Police Service of Scotland.
+
+## 1. Citation and commencement[^key-6da6f0d5ec8d54e3e69d089a1d11d32b]
+
+This Order may be cited as the Road Traffic (Permitted Parking Area and Special Parking Area) (Highland Council) Designation Order 2016 and comes into force on 3rd October 2016.
+
+## 2. Interpretation[^key-b7583dda7e4193fb7938b426e18b13d4]
+
+In this Order—
+
+- “the 1991 Act” means the Road Traffic Act 1991; and
+- “the parking area” means the area designated as a permitted parking area and a special parking area by article 3.
+
+## 3. Designation as permitted parking area and special parking area[^key-3582dcfe1793a8ac2f8ef201039c1167]
+
+That part of the Highland local government area[^f00002] specified in schedule 1 is designated as—
+
+- (a) a permitted parking area; and
+- (b) a special parking area.
+
+## 4. Modifications and application of Part II of the 1991 Act[^key-fe3b18db3116ba3ebfeac0183975d8ea]
+
+Sections 66, 69 to 74, 79 and 82 and schedule 6 of the 1991 Act apply in relation to the parking area subject to the modifications specified in schedule 2.
+
+## 5. Modifications of the Road Traffic Regulation Act 1984[^key-c15a45a32a500e07151f01ee6d6ba750]
+
+The Road Traffic Regulation Act 1984[^f00003] is modified in relation to the parking area as specified in schedule 3.
+
+## 6. Disapplication of schedule 1 of the Tribunals and Inquiries Act 1992[^key-ef0aec12b68229c3a6cc5f4b9393a9d8]
+
+The reference in paragraph 40(b) of schedule 1 of the Tribunals and Inquiries Act 1992 to a parking adjudicator appointed under section 73(3) of the 1991 Act does not apply in relation to the parking area.
+
+H YOUSAF
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+31st August 2016
+
+## SCHEDULE 1 — SPECIFICATION OF PARKING AREA
+
+Article 3
+
+**1.**[^key-872abde6757a8f2bbc31fb62f9d67b9b] The Highland local government area, excluding such lengths of the following trunk roads, in so far as they fall within the Highland local government area, but not excluding the lengths of trunk road specified in paragraphs 2 to 27[^key-feebeb44b5b96d3ac3a4501e5eaf31b4]—
+
+- (a) A82 Dalnotter – Inverness;
+- (b) A86 Spean Bridge – Kingussie;
+- (c) A87 Invergarry – Kyle of Lochalsh – Borve – Uig;
+- (d) A828 Connel – South Ballachulish;
+- (e) A830 Fort William – Malliag;
+- (f) A835/A893 Tore – Ullapool;
+- (g) A887 Invermoriston – Moriston;
+- (h) A889 Dalwhinnie – Laggan Bridge;
+- (i) M9/A9 Edinburgh – Stirling – Thurso;
+- (j) A96 Aberdeen – Inverness;
+- (k) A99 Latheron – Wick.
+
+**2.**[^key-5575f2dcbbbcb37693eeb6cd4770071a] That length of the A82 Dalnottar – Inverness Trunk Road in Inverness from a point on Glenurquhart Road 215 metres west of its junction with the circulatory carriageway of Torvean Roundabout in a generally northeasterly direction to its junction with the circulatory carriageway of Longman Roundabout on the M9/A9 Edinburgh – Stirling – Thurso Trunk Road, a distance of 4.75 kilometres or thereby.
+
+**3.** That length of the A82 Dalnottar – Inverness Trunk Road in Fort William from a point on Achintore Road 2.99 kilometres or thereby southwest of its junction with the U1928 Ashburn Lane in a generally northeasterly direction to a point 357 metres or thereby northeast of the circulatory carriageway of the Road to the Isles Roundabout, a distance of 7.72 kilometres or thereby.
+
+**4.** That length of the A82 Dalnottar – Inverness Trunk Road near Balchraggan from a point 3.61 kilometres or thereby south-west of the southernmost access to The Clansman Hotel, generally in a northeasterly direction to a point 0.97 kilometres or thereby northeast of its junction with the C1072 Abriachan to Foxhole Road, a distance of 6.97 kilometres or thereby.
+
+**5.** That length of the A82 Dalnottar – Inverness Trunk Road near Lagnalean from a point 828 metres or thereby southwest of its junction with the Dochgarroch Lock access road generally in a northeasterly direction to a point 781 metres or thereby northeast of its junction with the Dochgarroch Lock access road, a distance of 1.61 kilometres or thereby.
+
+**6.** That length of the A82 Dalnottar – Inverness Trunk Road in Fort Augustus from a point 36 metres or thereby south of its junction with the U5079 Millfield Road generally in a north, east, north and then easterly direction to a point 192 metres or thereby northeast of the Riggs Car Park entrance, a distance of 1.65 kilometres or thereby.
+
+**7.** That length of the A82 Dalnottar – Inverness Trunk Road near Glen Coe from the centrepoint of the River Etive Bridge, generally in a westerly direction to its junction with the U1504 Old Glencoe Road, a distance of 12.71 kilometres or thereby.
+
+**8.** That length of the A82 Dalnottar – Inverness Trunk Road near Drumnadrochit from a point 953 metres or thereby south of the southern exit to Urquhart Castle car park, generally in a north, west, north then easterly direction to a point 323 metres or thereby east of its junciton with the A831 Dumnadrochit – Cannich – Beauly Toll Road, a distance of 4.87 kilometres or thereby.
+
+**9.** That length of the A86 Spean Bridge – Kingussie Trunk Road in Kingussie from a point 608 metres or thereby northeast of its junction with the U2575 Dunbarry Road generally in a south-westerly direction to a point 290 metres or thereby southwest of its junction with the U2529 Ardvonie Road, a distance of 1.6 kilometres or thereby.
+
+**10.** That length of the A86 Spean Bridge – Kingussie Trunk Road in Newtonmore from a point 524 metres or thereby northeast of its junction with the U2294 Strone Road, generally in a south-westerly direction to a point 233 metres or thereby southwest of its junction with the C1135 Station Road, a distance of 2.23 kilometres or thereby.
+
+**11.** That length of the A87 Invergarry – Kyle of Lochalsh – Borve – Uig Trunk Road around Broadford and Breakish from a point 608 metres or thereby southwest of its junction with the C1239 Lusa – Kylerhea Road generally in a westerly direction to a point 600 metres or thereby northwest of its junction with the U5000 Broadford Industrial Estate Road, a distance of 6.85 kilometres or thereby.
+
+**12.** That length of the A87 Invergarry – Kyle of Lochalsh – Borve – Uig Trunk Road near Dornie from a point 1.61 kilometres or thereby south-east of its junction with the unclassified Eilean Donan Castle Car Park access generally in a northwesterly direction to a point 1.61 kilometres or thereby north-west of its junction with the unclassified Eilean Donan Castle Car Park access, a distance of 3.22 kilometres or thereby.
+
+**13.** That length of the A87 Invergarry – Kyle of Lochalsh – Borve – Uig Trunk Road around Kyle of Lochalsh and the Skye Bridge from a point 648 metres or thereby southwest of the westerly junction with the C1232 Balmacara – Erbusaig – Kyle of Lochalsh Road generally in a westerly then south westerly direction across the Skye Bridge to and including the circulatory carriageway of the Kyleakin Roundabout, a distance of 6.25 kilometres or thereby.
+
+**14.** That length of the A830 Fort William – Mallaig Trunk Road in Mallaig from a point 101 metres or thereby south of its junction with the West Bay Industrial Units Road generally in a northeasterly direction to and including the circulatory carriageway of the Roundabout at the Mallaig Ferry Port entrance, a distance of 270 metres or thereby.
+
+**15.** That length of the A830 Fort William – Mallaig Trunk Road in Glenfinnan from a point 2.9 kilometres or thereby south-east of its junction with the U1191 Glenfinnan Pier Road (Slatach) generally in a north-west, west then north-west direction to a point 2.22 kilometres or thereby west of its junction with the U5397 Torr An Eas, Glenfinnan Road, a distance of 6.35 kilometres or thereby.
+
+**16.** That length of the A835/A893 Tore – Ullapool Trunk Road (Ben Wyvis) north of Garve from a point 1.6 kilometres or thereby south-west of its junction with the unclassified Ben Wyvis National Nature Reserve Car Park access generally in a northeasterly direction to a point 1.6 kilometres or thereby north of its junction with the unclassified Ben Wyvis National Nature Reserve Car Park access, a distance of 3.2 kilometres or thereby.
+
+**17.** That length of the A835/A893 Tore – Ullapool Trunk Road at Corrieshalloch Gorge from a point 800 metres or thereby south-east of its junction with the A832 generally in a northwest and northerly direction to a point 1.2 kilometres or thereby north of its junction with the A832, a distance of 2 kilometres or thereby.
+
+**18.** That length of the A835/A893 Tore – Ullapool Trunk Road (Rogie Falls) north of Contin from a point 1.5 kilometres or thereby south of its junction with the unclassified Rogie Falls Car Park access generally in a northwesterly direction to a point 500 metres or thereby northwest of its junction with the unclassified Rogie Falls Car Park access, a distance of 2 kilometres or thereby.
+
+**19.** That length of the A835/A893 Tore – Ullapool trunk road in Ullapool from a point on the south side of the section of that road known as Shore Street 19 metres or thereby east of Mill Street westwards to a point 9 metres or thereby east of the western gable of No. 2 West Shore Street, a distance of 400 metres or thereby.
+
+**20.** That length of the M9/A9 Edinburgh – Stirling – Thurso Trunk Road in Thurso and Scrabster from a point 126 metres or thereby south of its junction with Thurso Cemetery Road generally in a northeast, northwest and northerly direction to the Scrabster Ferry Port Entrance roundabout, a distance of 4.69 kilometres or thereby.
+
+**21.** That length of the M9/A9 Edinburgh – Stirling – Thurso Trunk Road in Brora from a point 122 metres or thereby south of its junction with the U2894 Dudgeon Park Road generally in a northeast, east and northerly direction to a point 119 metres or thereby north of its junction with Clynelish Road, a distance of 2.18 kilometres or thereby.
+
+**22.** That length of the M9/A9 Edinburgh – Stirling – Thurso Trunk Road in Golspie from a point 109 metres or thereby southwest of its junction with the U3517 Drummuie Brae generally in a northeasterly direction to a point 142 metres or thereby northeast of its junction with the East Gate Lodge access road at Dunrobin Castle, a distance of 3.95 kilometres or thereby.
+
+**23.** That length of the M9/A9 Edinburgh – Stirling – Thurso Trunk Road in Helmsdale from a point 327 metres or thereby southwest of its junction with the A897 Dunrobin Street generally in a northeasterly direction to a point 162 metres or thereby north of the northern exit from the A9 circulatory carriageway of the Navidale Roundabout, a distance of 1.66 kilometres or thereby.
+
+**24.** That length of the M9/A9 Edinburgh – Stirling – Thurso Trunk Road in North Kessock from a point 1.3 kilometres or thereby southeast of the North Kessock on-slip road generally in a westerly direction to a point 800 metres or thereby southeast of the North Kessock on-slip road, a distance of 495 metres or thereby.
+
+**25.** That length of the A96 Aberdeen – Inverness trunk road in Nairn from its junction with Wellington Road in a generally north easterly then south easterly direction to its junction with the A939, a distance of 1.27 kilometres or thereby.
+
+**26.** That length of the A99 Latheron – Wick Trunk Road in Wick from a point 85 metres south of its junction with Harrow Road in a generally northerly direction to its junction with the southern kerbline of Thurso Street, a distance of 995 metres or thereby.
+
+**27.** That length of the A99 Latheron – Wick Trunk Road near Ulbster from a point 500 metres or thereby southwest of its junction with the U1202 Waternan Road generally in a northeasterly direction to a point 500 metres or thereby northeast of its junction with the U1202 Waternan Road, a distance of 1 kilometre or thereby.
+
+## SCHEDULE 2 — MODIFICATIONS OF PROVISIONS OF PART II OF THE ROAD TRAFFIC ACT 1991
+
+Article 4
+
+**1.**[^key-39a656d8dc781c85aa7ce17f08cf4364] (1) Section 66 is modified as follows.
+
+(2) In subsection (1) omit “in a designated parking place”.
+
+(3) In subsection (2) omit—
+
+- (a) “For the purposes of this Part of the Act”; and
+- (b) paragraphs (a)(i), (b) and (c).
+
+(4) In subsection (3)—
+
+- (a) in paragraph (d) for “the specified proportion” substitute “one half”; and
+- (b) in paragraph (e) for “London” substitute “parking”.
+
+(5) Omit subsection (4).
+
+(6) For subsection (5)(b) substitute—
+
+> - (b) the parking authority.
+
+.
+
+**2.**[^key-16019d075de4b6776e77aceed2973c52] (1) Section 69 is modified as follows.
+
+(2) In subsection (1)—
+
+- (a) omit “in a designated parking place”; and
+- (b) for “specified in section 66(2)(a), (b) or (c) of this Act” substitute “in which a penalty charge is payable”.
+
+(3) In subsection (8) for the words from “London” to the end substitute “parking authority”.
+
+**3.**[^key-cf755c687c17e6e581ae65af8a37625c] (1) Section 71 is modified as follows.
+
+(2) In subsection (1) for “a London” substitute “the parking”.
+
+(3) For subsection (4) substitute—
+
+> (4) The grounds are—
+>
+> - (a) that there were no reasonable grounds for the parking attendant concerned to believe that the vehicle had been permitted to remain at rest in the parking area in circumstances in which a penalty charge was payable;
+> - (b) that the vehicle had been permitted to remain at rest in the place where it was by a person who was in control of the vehicle without the consent of the owner;
+> - (c) that the place where the vehicle was at rest was not in the parking area;
+> - (d) in a case within subsection (1)(d) above, that, by virtue of an exemption given by section 70 of this Act, section 69 of this Act did not apply to the vehicle in question at the time in question; or
+> - (e) that the penalty or other charge in question exceeded the amount applicable in the circumstances of the case.
+
+.
+
+(4)[^key-b2765c7e4830478cef23c51e39e9c1fd] In subsection (8)—
+
+- (a) in paragraph (a) for “a parking adjudicator” substitute “the First-tier Tribunal”; and
+- (b) in paragraph (b)—
+  - (i) for “a parking adjudicator’s” substitute “the First-tier Tribunal’s”;
+  - (ii) for “costs” substitute “expenses”; and
+  - (iii) for “him” substitute “it”.
+
+**3A.**[^key-a78a5cbce618556459c7d35d8f3fd44b] (1) Section 72 (appeals to parking adjudicator in relation to decisions under section 71) is modified as follows.
+
+(2) In subsection (1) for “a parking adjudicator” in both places where it occurs substitute “the First-tier Tribunal”.
+
+(3) Omit subsections (2) and (3).
+
+(4) The heading of the section becomes “Appeals to the First-tier tribunal in relation to decisions under section 71”.
+
+**4.**[^key-ca09ad71dc917c2f837b4b91d579732b] (1) Section 73 is modified as follows.
+
+(2) Omit subsections (1), (1A) , (2), (3), (4), (5), (6), (7), (8), (9), (10), (11), (12), (13) and (14)[^key-3fac617f2c04508e7be0a53876ba92ff].
+
+(3)[^key-3141399611a810b0157ed8bc24896a4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4)[^key-f66446ce4e91eb1431a409d047cedc3d] After subsection (3) insert—
+
+> (3A) The parking authority must meet the costs incurred by the Scottish Courts and Tribunals Service—
+>
+> - (a) for the provision of all accommodation and administrative staff and facilities; and
+> - (b) in relation to the remuneration and expenses of legal members,
+>
+> required for the operation of the First-tier Tribunal exercising the functions set out in section 72(2) and 73(3) of the 1991 Act and paragraph 5(2) of schedule 6 of that Act.
+
+.
+
+(5)[^key-e77d0b6755b80a5208be8f0a07d6641c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^key-b94a60d5392e077ed9ce5840dcba490f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-97278f771a5465f62c61581db7787910] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8)[^key-20ec17651860cddc3fda617cc36b37f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9)[^key-26683ce561c574d685f617b7dc19e082] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^key-70afe508278fc7455f66026e815661fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^key-88480e2397a307acdf14f7296a8224b6] In subsection (17)—
+
+- (a) for “Joint Committee”, wherever it occurs, substitute “parking authority”;
+- (b) for “each parking adjudicator” substitute “the First-tier Tribunal and the Upper Tribunal”; and
+- (c) for “him” substitute “their”.
+
+(12) In subsection (18)—
+
+- (a) for “Joint Committee” substitute “parking authority”; and
+- (b) for “the Secretary of State” substitute “the Scottish Ministers”;
+- (c)[^key-a139644d5e096aebe203d7fc542eb0bd] for “parking adjudicators” substitute “First-tier Tribunal and the Upper Tribunal”.
+
+(13)[^key-7af6d2ec3e6f46e8f7e529ac58edd4be] The heading of the section becomes “Parking Authority Costs and Administration”.
+
+**5.**[^key-42b3c93e729b8db51ead08871b6c164a] For section 74 substitute—
+
+> **74. Fixing of certain parking and other charges for parking area**
+>
+> (1) It shall be the duty of the parking authority to set the levels of additional parking charges to apply in the parking area.
+>
+> (2) Different levels may be set for different parts of the parking area.
+>
+> (3) The levels of additional parking charges set by the parking authority under this section shall accord with any guidance given by the Scottish Ministers whether such guidance is given specifically to the parking authority or to local authorities generally.
+>
+> (4) Any guidance given by the Scottish Ministers under subsection (3) above may be varied at any time by them.
+>
+> (5) The parking authority must publish, in such manner as the Scottish Ministers may determine, the levels of additional parking charges which have been set under this section.
+>
+> (6) In this section “additional parking charges” means penalty charges, charges made by the parking authority for the removal, storage and disposal of vehicles and charges for the release of vehicles from immobilisation devices fixed under section 69 of this Act.
+
+.
+
+**6.**[^key-5c08ecd7237f6a073c2c92d8e0419250] (1) Section 82 is modified as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) In this section and sections 66, 69 to 74 and 79 and schedule 6 of this Act[^f00005]—
+>
+> - “First-tier Tribunal” means the First-tier Tribunal for Scotland;[^key-16531a96d9a98629761f5f6b46b8c586]
+> - “hiring agreement” and “vehicle‑hire firm” have the same meanings as in section 66 of the Road Traffic Offenders Act 1988[^f00006];
+> - “immobilisation device” has the same meaning as in section 104(9) of the Road Traffic Regulation Act 1984[^f00007];
+> - “parking area” means the area designated as a permitted parking area and a special parking area by the Road Traffic (Permitted Parking Area and Special Parking Area) (Highland Council) Designation Order 2016[^f00008];
+> - “parking attendant” has the same meaning as in section 63A[^f00009] of the Road Traffic Regulation Act 1984;
+> - “parking authority” means—
+>   - (a) in relation to a parking place which was provided or authorised under section 32(1) of the Road Traffic Regulation Act 1984, the local authority as defined by section 32(4)(a) of that Act in relation to the parking place;
+>   - (b) in any other case, the traffic authority (other than the Scottish Ministers) as defined by section 121A[^f00010] of that Act;
+> - “penalty charge” means a penalty charge which is payable by virtue of paragraph 3(1) and (2) of schedule 3 of this Act;
+> - “prescribed” means prescribed by regulations made by the Scottish Ministers; [^key-be3a368b461ff4011a84f6fb8b4d898c]...
+> - “traffic commissioner” means the traffic commissioner appointed for the Scottish Traffic Area under section 4 of the Public Passenger Vehicles Act 1981[^f00011] ; and[^key-fdbb4a2bb5777b4b8a1a26543b4e6d5b]
+> - “Upper Tribunal” means the Upper Tribunal for Scotland;[^key-63067a06b771f59c10087bceba171288]
+
+.
+
+(3) In subsection (5) for “London authority concerned” substitute “parking authority”.
+
+(4) In subsection (6) for “a Minister of the Crown” substitute “the Scottish Ministers”.
+
+(5) In subsection (7) for “either House of Parliament” substitute “the Scottish Parliament”.
+
+**7.**[^key-3ffe5b77a44cbac91ff8bd9c9aabd9d3] (1) Schedule 6 is modified as follows.
+
+(2) In paragraph 1(1) for “London authority concerned” substitute “parking authority”.
+
+(3) In paragraph 2—
+
+- (a) in subparagraph (1) for the words from “London” to the end substitute “parking authority”;
+- (b) in subparagraph (2) for the words from “such” to the end substitute “writing”;
+- (c) in subparagraph (3) after “The”, where it first occurs, insert “parking”;
+- (d) in subparagraph (4)(c) for “place” substitute “area”; and
+- (e) in subparagraph (7) for “an authority to whom representations are duly made” substitute “the parking authority when representations are duly made to it”.
+
+(4) In paragraph 3(1) and (2) for “London authority concerned”, in each place where it occurs, substitute “parking authority”.
+
+(5) In paragraph 4—
+
+- (a) For “London authority concerned” substitute “parking authority”;
+- (aa)[^key-9eaad596a9a7b60294d4da51f12d48e6] for “a parking adjudicator”, wherever it occurs, substitute “the First-tier Tribunal”;
+- (b)[^key-16d2553820b438240a5358471c70a3ed] in subparagraph (b)—
+  - (i) for “a parking adjudicator’s” substitute “the First-tier Tribunal’s”;
+  - (ii) for “costs” substitute “expenses”; and
+  - (iii) for “him” substitute “it”; and
+- (c) for “authority consider appropriate” substitute “parking authority consider appropriate”.
+
+(6) In paragraph 5—
+
+- (a) in subparagraph (1)—
+  - (i) for “an authority” substitute “the parking authority”; [^key-c6f2df53d4159aee926d674031f732ff]...
+  - (ia)[^key-694b312ddc915043a0fe4d7aa9e9cdb6] for “a parking adjudicator” substitute “the First-tier Tribunal”; and
+  - (ii) for “authority’s decision” substitute “parking authority’s decision”;
+- (b)[^key-a0aaaa750d54d9738c47fc20c144dec4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^key-a0aaaa750d54d9738c47fc20c144dec4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In paragraph 6—
+
+- (a) in subparagraph (1) for “authority serving the notice” substitute “parking authority”; [^key-95a8cee82180363f43a961f5e77b254c]...
+- (b) in subparagraph (2)(b)(ii) for “authority concerned” substitute “parking authority” ;[^key-f2ef82d6f42704ed983faac9958511c6]
+- (c)[^key-9888a2ecd978e6f73a3bcacd8cae15eb] in subparagraph (2)(c) for “adjudicator’s” substitute “First-tier Tribunal’s”; and
+- (d) in subparagraph (3) for “adjudicator” substitute “First-tier Tribunal” and for “his” substitute “its”.
+
+(8) In paragraph 7 for the words from “authority concerned” to the end substitute “parking authority may recover the increased charge as if the charge certificate were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court in any sheriffdom in Scotland”.
+
+(9) Omit paragraphs 8 and 9[^key-b14476def8bed6dcfa9f86b90f1ffbca].
+
+## SCHEDULE 3 — MODIFICATIONS OF THE ROAD TRAFFIC REGULATION ACT 1984
+
+Article 5
+
+**1.**[^key-7ced2e55dd8ced2e6667f715dd78a40b] In section 46(1A)[^f00012] for “Greater London” substitute “the parking area”.
+
+**2.**[^key-5fd7e30cf85e9f2e2f659ba720dc11d9] (1) Section 55 is modified as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) A local authority must keep an account—
+>
+> - (a) of their income and expenditure in respect of designated parking places for which they are the local authority and which are in the permitted parking area; and
+> - (b) of their income from additional parking charges (as defined in section 74(6) of the Road Traffic Act 1991) received by them in respect of vehicles found within the special parking area and the expenditure incurred by them in relation to that area by virtue of any provision of Part II of the Road Traffic Act 1991 as it applies in relation to that area.
+>
+> (1A) As soon as reasonably practicable after the end of each financial year, the local authority must send to the Scottish Ministers a copy of the account for that year.
+
+.
+
+(3) Omit subsections (3A) and (3B)[^f00013].
+
+**3.**[^key-a064190d0df0bedaa5eb7e69a8ca5043] In section 63A(4)[^f00014]—
+
+- (a) for “Greater London”, where it first occurs, substitute “the parking area”; and
+- (b) for “Greater London Authority” substitute “Scottish Ministers”.
+
+**4.**[^key-73a16ed2a6560ee27f7336ff0f2b927d] (1) Section 101 is modified as follows.
+
+(2) Omit subsection (4).
+
+(3) In subsection (4A)[^f00015] for “Greater London” substitute “the parking area”.
+
+(4) Omit subsection (5).
+
+(5) In subsection (5A)[^f00016] for “Greater London” substitute “the parking area”.
+
+**5.**[^key-db94343cd6c88e5cd298d07cc5aa70ec] (1) Section 102 is modified as follows.
+
+(2) For subsection (1) substitute—
+
+> (1) If a vehicle is removed by the local authority in circumstances in which an offence would have been committed but for the provisions of paragraph 1(4) or 2(4) of schedule 3 of the Road Traffic Act 1991, the local authority will be entitled to recover from any persons responsible such charges in respect of the removal, storage and disposal of the vehicle as they may require.
+
+.
+
+(3) Omit subsections (2) and (3).
+
+(4) For subsection (4) substitute—
+
+> (4) Without prejudice to subsection (1) above, where any sum is recoverable in respect of a vehicle by a local authority in whose custody the vehicle is, the local authority shall be entitled to retain custody of it until that sum has been paid.
+
+.
+
+(5) In subsection (5) for “an authority” substitute “the local authority”.
+
+(6) Omit subsections (6) and (7).
+
+(7) In subsection (8), in paragraph (b) of the definition of “appropriate authority”, for the words “outside Greater London” substitute “within the parking area”.
+
+**6.**[^key-26698c3af531da1fdd83d90195976935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^key-d5abf1778e1533bdfb28d1a0c6738452] In section 142(1)—
+
+- (a) after the definition of “owner” insert—
+
+  > - “parking area” means the area designated as a permitted parking area and a special parking area by the Road Traffic (Permitted Parking Area and Special Parking Area) (Highland Council) Designation Order 2016; and “permitted parking area” and “special parking area” are to be read accordingly;
+
+  ; and
+- (b) in the definition of “prescribed” for “the Secretary of State” substitute “the Scottish Ministers”.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order extends to the area of Highland Council, arrangements for enforcing parking controls already available in London and certain other areas in England and in Edinburgh, Glasgow, Perth and Kinross, Aberdeen, Dundee, South Lanarkshire, Renfrewshire, East Renfrewshire, East Ayrshire, South Ayrshire, Fife, East Dunbartonshire, Argyll and Bute, and Inverclyde.
+
+The Order designates Highland local government area (with certain specified exceptions) as a permitted parking area and as a special parking area in accordance with schedule 3 of the Road Traffic Act 1991 (“the 1991 Act”). The Order applies, to the designated area, various provisions of the 1991 Act and modifies them where necessary. It also makes consequential modifications to certain provisions of the Road Traffic Regulation Act 1984 (“the 1984 Act”) dealing with parking and related matters.
+
+While the Order is in force, certain specified offences will be decriminalised: for example, in the case of the permitted parking area, breaches of orders relating to free on‑street parking places and in the case of the special parking area orders prohibiting or restricting waiting, loading and unloading.
+
+Enforcement will be carried out by parking attendants provided under section 63A of the 1984 Act. A system of parking adjudicators will deal with disputes.
+
+## Annotations
+
+[^f00001]: Footnote: [1991 c.40](https://www.legislation.gov.uk/ukpga/1991/40); paragraphs 1(1) and 2(1) of schedule 3 were relevantly amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), schedule 13, paragraph 171. The functions of the Secretary of State under that schedule, so far as they are exercisable within devolved competence, were transferred to the Scottish Ministers by section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-6da6f0d5ec8d54e3e69d089a1d11d32b]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-b7583dda7e4193fb7938b426e18b13d4]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2016/245/article/2) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-3582dcfe1793a8ac2f8ef201039c1167]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2016/245/article/3) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^f00002]: Footnote: Highland local government area was established by section 1(2) and (4) and schedule 1 of the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^key-fe3b18db3116ba3ebfeac0183975d8ea]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2016/245/article/4) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-c15a45a32a500e07151f01ee6d6ba750]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2016/245/article/5) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^f00003]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^key-ef0aec12b68229c3a6cc5f4b9393a9d8]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/ssi/2016/245/article/6) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(2)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/2) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-872abde6757a8f2bbc31fb62f9d67b9b]: Commencement: Sch. 1 para. 1 in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-feebeb44b5b96d3ac3a4501e5eaf31b4]: Textual amendment: Words in sch. 1 para. 1 substituted (24.6.2025) by [The Road Traffic (Permitted Parking Area and Special Parking Area) (Highland Council) Designation Amendment Order 2025 (S.S.I. 2025/148)](https://www.legislation.gov.uk/ssi/2025/148), [arts. 1](https://www.legislation.gov.uk/ssi/2025/148/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/148/article/2/2)
+
+[^key-5575f2dcbbbcb37693eeb6cd4770071a]: Textual amendment: [Sch. 1 paras. 2-27](https://www.legislation.gov.uk/ssi/2016/245/schedule/1/paragraph/2) substituted for sch. 1 paras. 2-7 (24.6.2025) by [The Road Traffic (Permitted Parking Area and Special Parking Area) (Highland Council) Designation Amendment Order 2025 (S.S.I. 2025/148)](https://www.legislation.gov.uk/ssi/2025/148), [arts. 1](https://www.legislation.gov.uk/ssi/2025/148/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/148/article/2/3)
+
+[^key-39a656d8dc781c85aa7ce17f08cf4364]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/1) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-16019d075de4b6776e77aceed2973c52]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/2) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-cf755c687c17e6e581ae65af8a37625c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/3) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-b2765c7e4830478cef23c51e39e9c1fd]: Textual amendment: [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/3/4) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-a78a5cbce618556459c7d35d8f3fd44b]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/3A) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(b)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-ca09ad71dc917c2f837b4b91d579732b]: Commencement: Sch. 2 para. 4 in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-3fac617f2c04508e7be0a53876ba92ff]: Textual amendment: Words in sch. 2 para. 4(2) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(i)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/i) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-3141399611a810b0157ed8bc24896a4e]: Textual amendment: Sch. 2 para. 4(3) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-f66446ce4e91eb1431a409d047cedc3d]: Textual amendment: Sch. 2 para. 4(4) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/iii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-e77d0b6755b80a5208be8f0a07d6641c]: Textual amendment: Sch. 2 para. 4(5) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-b94a60d5392e077ed9ce5840dcba490f]: Textual amendment: Sch. 2 para. 4(6) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-97278f771a5465f62c61581db7787910]: Textual amendment: Sch. 2 para. 4(7) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-20ec17651860cddc3fda617cc36b37f7]: Textual amendment: Sch. 2 para. 4(8) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-26683ce561c574d685f617b7dc19e082]: Textual amendment: Sch. 2 para. 4(9) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-70afe508278fc7455f66026e815661fd]: Textual amendment: Sch. 2 para. 4(10) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-88480e2397a307acdf14f7296a8224b6]: Textual amendment: Sch. 2 para. 4(11) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(iv)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-a139644d5e096aebe203d7fc542eb0bd]: Textual amendment: Words in sch. 2 para. 4(12) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(v)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/v) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-7af6d2ec3e6f46e8f7e529ac58edd4be]: Textual amendment: [Sch. 2 para. 4(13)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/4/13) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(c)(vi)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/c/vi) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-42b3c93e729b8db51ead08871b6c164a]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/5) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-5c08ecd7237f6a073c2c92d8e0419250]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/6) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^f00005]: Footnote: Road Traffic Act [1991 c.40](https://www.legislation.gov.uk/ukpga/1991/40).
+
+[^key-16531a96d9a98629761f5f6b46b8c586]: Textual amendment: Words in [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/6/2) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(d)(i)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/d/i) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^f00006]: Footnote: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53).
+
+[^f00007]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27).
+
+[^f00008]: Footnote: [S.S.I. 2016/245](https://www.legislation.gov.uk/ssi/2016/245).
+
+[^f00009]: Footnote: Section 63A was inserted by the 1991 Act, section 44(1).
+
+[^f00010]: Footnote: Section 121A was inserted by the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22), schedule 8, paragraph 70.
+
+[^key-be3a368b461ff4011a84f6fb8b4d898c]: Textual amendment: Word in [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/6/2) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/d/ii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^f00011]: Footnote: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14).
+
+[^key-fdbb4a2bb5777b4b8a1a26543b4e6d5b]: Textual amendment: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/6/2) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/d/iii) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-63067a06b771f59c10087bceba171288]: Textual amendment: Words in [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/6/2) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(d)(iv)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/d/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-3ffe5b77a44cbac91ff8bd9c9aabd9d3]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/7) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-9eaad596a9a7b60294d4da51f12d48e6]: Textual amendment: [Sch. 2 para. 7(5)(aa)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/7/5/aa) inserted (1.4.2020) by The First-tier [Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(e)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/e/i/aa) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-16d2553820b438240a5358471c70a3ed]: Textual amendment: [Sch. 2 para. 7(5)(b)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/7/5/b) substituted (1.4.2020) by The First-tier [Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(e)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/e/i/bb) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-c6f2df53d4159aee926d674031f732ff]: Textual amendment: Word in [sch. 2 para. 7(6)(a)(i)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/7/6/a/i) omitted (1.4.2020) by virtue of The First-tier [Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(e)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/e/ii/aa) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-694b312ddc915043a0fe4d7aa9e9cdb6]: Textual amendment: [Sch. 2 para. 7(6)(a)(ia)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/7/6/a/ia) inserted (1.4.2020) by The First-tier [Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(e)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/e/ii/bb) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-a0aaaa750d54d9738c47fc20c144dec4]: Textual amendment: [Sch. 2 para. 7(6)(b)(c)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/7/6/b/c) omitted (1.4.2020) by virtue of The First-tier [Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(e)(ii)(cc)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/e/ii/cc) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-95a8cee82180363f43a961f5e77b254c]: Textual amendment: Word in [sch. 2 para. 7(7)(a)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/7/7/a) omitted (1.4.2020) by virtue of The First-tier [Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(e)(iii)(aa)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/e/iii/aa) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-f2ef82d6f42704ed983faac9958511c6]: Textual amendment: [Sch. 2 para. 7(7)(b)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/7/7/b): semicolon substituted for full stop (1.4.2020) by The First-tier [Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(e)(iii)(bb)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/e/iii/bb) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-9888a2ecd978e6f73a3bcacd8cae15eb]: Textual amendment: [Sch. 2 para. 7(7)(b)(c)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/7/7/b/c) inserted (1.4.2020) by The First-tier [Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(e)(iii)(cc)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/e/iii/cc) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-b14476def8bed6dcfa9f86b90f1ffbca]: Textual amendment: Words in [sch. 2 para. 7(9)](https://www.legislation.gov.uk/ssi/2016/245/schedule/2/paragraph/7/9) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(3)(e)(iv)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/3/e/iv) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-7ced2e55dd8ced2e6667f715dd78a40b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2016/245/schedule/3/paragraph/1) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^f00012]: Footnote: Section 46(1A) was inserted by the Road Traffic Act 1991 (“the 1991 Act”), section 64(2).
+
+[^key-5fd7e30cf85e9f2e2f659ba720dc11d9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2016/245/schedule/3/paragraph/2) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^f00013]: Footnote: Section 55 (3A) and (3B) were inserted by the 1991 Act, schedule 7, paragraph 5.
+
+[^key-a064190d0df0bedaa5eb7e69a8ca5043]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2016/245/schedule/3/paragraph/3) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^f00014]: Footnote: Section 63A was inserted by the 1991 Act, section 44(1).
+
+[^key-73a16ed2a6560ee27f7336ff0f2b927d]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2016/245/schedule/3/paragraph/4) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^f00015]: Footnote: Section 101(4A) was inserted by the 1991 Act, section 67(4).
+
+[^f00016]: Footnote: Section 101(5A) was inserted by the 1991 Act, section 67(6).
+
+[^key-db94343cd6c88e5cd298d07cc5aa70ec]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2016/245/schedule/3/paragraph/5) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)
+
+[^key-26698c3af531da1fdd83d90195976935]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2016/245/schedule/3/paragraph/6) omitted (1.4.2020) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 2 para. 7(4)(a)](https://www.legislation.gov.uk/ssi/2020/95/schedule/2/paragraph/7/4/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+
+[^key-d5abf1778e1533bdfb28d1a0c6738452]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2016/245/schedule/3/paragraph/7) in force at 3.10.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/245/article/1)

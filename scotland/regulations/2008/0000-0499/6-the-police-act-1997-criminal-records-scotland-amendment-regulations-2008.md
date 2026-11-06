@@ -1,0 +1,194 @@
+---
+title: The Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2008
+id: ssi/2008/6
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2008-01-14'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2008/6
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2008/6/pdfs/ssien_20080006_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/6/pdfs/ssi_20080006_en.pdf
+- http://www.legislation.gov.uk/ssi/2008/6/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2008
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2008 No. 6
+
+POLICE
+
+The Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2008
+
+Made
+
+14th January 2008
+
+Laid before the Scottish Parliament
+
+15th January 2008
+
+Coming into force
+
+6th February 2008
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 113B(2)(b), (5A), (9) and (11)(c), 118(2A)(e) and 119(7) of the Police Act 1997[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation, commencement, extent and interpretation
+
+(1) These Regulations may be cited as the Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2008 and come into force on 6th February 2008.
+
+(2) These Regulations extend to Scotland and, in so far as regulations 3 to 8 extend beyond Scotland, they do so only as a matter of Scots law.
+
+(3) In these Regulations, “the principal Regulations” means the Police Act 1997 (Criminal Records) (Scotland) Regulations 2006[^f00002].
+
+## 2. Amendment of the Police Act 1997 (Criminal Records) (Scotland) Regulations 2006
+
+The principal Regulations are amended in accordance with regulations 3 to 8.
+
+## 3. Insertion of regulation 7A (enhanced criminal record certificates: police forces)
+
+After regulation 7 (central records: prescribed details) insert–
+
+> **7A. Enhanced criminal record certificates: police forces**
+>
+> For the purposes of section 113B(11)(c) the following departments or bodies are prescribed as police forces–
+>
+> - (a) the Scottish Crime and Drug Enforcement Agency; and
+> - (b) the Child Exploitation and Online Protection Centre.
+
+.
+
+## 4. Amendment of regulation 8 (enhanced criminal record certificates: relevant police forces)
+
+(1) In regulation 8 (enhanced criminal record certificates: relevant police forces) in paragraph (1)(h) omit “if the Agency has indicated on central records that it holds non-conviction information relating to the applicant”.
+
+(2) In regulation 8 at the end of paragraph (1)(i)(ii) omit “and” and for paragraph (1)(j) substitute–
+
+> - (j) the Scottish Crime and Drug Enforcement Agency if the Agency has indicated on central records that it holds non-conviction information relating to the applicant;
+> - (k) the Child Exploitation and Online Protection Centre; and
+> - (l) such other police force as the chief officer of police of a police force identified as a relevant police force by virtue of paragraph (a) to (k) determines.
+
+.
+
+(3) In regulation 8 in paragraph (2) for “(1)(j)” substitute “(1)(l)”.
+
+## 5. Amendment of regulation 11 (enhanced criminal record certificates – matters)
+
+(1) In regulation 11 (enhanced criminal record certificates – matters) for paragraphs (a) to (c) substitute–
+
+> - (a) obtaining or holding an operating licence under Part 5 of the Gambling Act 2005[^f00003] for the purposes of that Act;
+> - (b) obtaining or holding a personal licence under Part 6 of the Gambling Act 2005 for the purposes of that Act;
+
+.
+
+(2) In regulation 11 after paragraph (o) insert–
+
+> or;
+>
+> - (p) proceedings before the Sheriff in respect of applications for intervention orders or guardianship orders within the meaning of the Adults with Incapacity (Scotland) Act 2000[^f00004].
+
+.
+
+## 6. Amendment of regulation 12 (enhanced criminal record certificates – individuals)
+
+(1) In regulation 12 (enhanced criminal record certificates – individuals) in paragraph (1) for “8” substitute “10”.
+
+(2) In regulation 12 at the end of paragraph (5)(a) omit “or” and after paragraph (5)(b) insert–
+
+> - (c) as a member of any Management Board established to assist either Her Majesty’s inspectors or any such person in sub paragraph (b); or
+> - (d) to any employment or work for Her Majesty’s inspectors or any such person in sub paragraph (b) in relation to the carrying out of inspections under section 66 of the Education (Scotland) Act 1980[^f00005], section 9 of the Standards in Scotland’s Schools etc. Act 2000[^f00006] or section 1 of the Joint Inspection of Children’s Services and Inspection of Social Work Services (Scotland) Act 2006[^f00007], or otherwise in regard to matters associated with such inspections.
+
+.
+
+(3) In regulation 12 after paragraph (8) insert–
+
+> (9) An individual appointed or seeking appointment–
+>
+> - (a) to any office, employment or work which is concerned with the administration of, or is otherwise normally carried out wholly or partly within the precincts of a prison, remand centre, young offenders institution, detention centre or removal centre;
+> - (b) as a member of a visiting committee for prisons appointed under rules made under section 39 of the Prisons (Scotland) Act 1989[^f00008]; or
+> - (c) as a member of a visiting committee for remand centres and young offenders institutions appointed under section 19(3) of the Prisons (Scotland) Act 1989.
+>
+> (10) An individual appointed or seeking appointment–
+>
+> - (a) as a social work inspector appointed under section 4 of the Joint Inspection of Children’s Services and Inspection of Social Work Services (Scotland) Act 2006;
+> - (b) as a member of any Management Board established to assist a social work inspector;
+> - (c) to any employment or work for a social work inspector in relation to the carrying out of inspections, or otherwise in regard to matters associated with such inspections.
+
+.
+
+## 7. Insertion of regulation 16A (evidence of identity: obtaining data)
+
+After regulation 16 (evidence of identity: fingerprinting) insert–
+
+> **16A. Evidence of identity: obtaining data**
+>
+> For the purposes of section 118(2A)(e)[^f00009] the Borders and Immigration Agency is prescribed.
+
+.
+
+## 8. Amendment of regulation 17 (appropriate bodies to pay fee for information provided to the Scottish Ministers)
+
+In regulation 17 (appropriate bodies to pay fee for information provided to the Scottish Ministers) at the end of regulation 17(g) omit “and” and after regulation 17(h) insert–
+
+> - (i) the Home Affairs Committee for the States of Jersey Police Force;
+> - (j) the Home Department for the salaried police force of the Island of Guernsey;
+> - (k) the Department of Home Affairs for the Isle of Man Constabulary;
+> - (l) the Department of Justice, Equality and Law Reform of the Government of Ireland for the Garda Síochána; and
+> - (m) the Scottish Police Services Authority for the Scottish Crime and Drug Enforcement Agency.
+
+.
+
+FIONA HYSLOP
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+14th January 2008
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Police Act 1997 (Criminal Records) (Scotland) Regulations 2006 (“the principal Regulations”). The principal Regulations make detailed provision in relation to applications for criminal conviction certificates, criminal record certificates and enhanced criminal record certificates under Part 5 of the Police Act 1997 (“the 1997 Act”).
+
+Regulation 3 inserts new regulation 7A into the principal Regulations and prescribes the Scottish Crime and Drug Enforcement Agency and the Child Exploitation and Online Protection Centre as police forces for the purposes of section 113B(11)(c) of the 1997 Act, which concerns enhanced criminal record certificates.
+
+Regulation 4 amends regulation 8 of the principal Regulations to provide that the Scottish Crime and Drug Enforcement Agency and the Child Exploitation and Online Protection Centre are included within the definition of “relevant police force” for the purposes of applications for enhanced criminal record certificates.
+
+Regulation 5 amends regulation 11 of the principal Regulations, which sets out the matters for which purposes exempted questions can be asked, to update references to gambling legislation and to prescribe applications for orders under the Adults with Incapacity (Scotland) Act 2000 as a matter for which an exempted question can be asked.
+
+Regulation 6 amends regulation 12 of the principal Regulations, which sets out the individuals in relation to whom an exempted question can be asked, to: extend references to individuals working as or for school inspectors; include individuals working in prisons and other detention centres; and include individuals working as or for social work inspectors.
+
+Regulation 7 inserts new regulation 16A into the principal Regulations and prescribes the Borders and Immigration Agency for the purposes of section 118(2A)(e) of the 1997 Act, which ensures that, for the purpose of verifying evidence of identity, the Scottish Ministers may obtain information from the Borders and Immigration Agency.
+
+Regulation 8 amends regulation 17 of the principal Regulations, which prescribes the bodies to which fees payable under section 119(3) of the 1997 Act may be paid, to provide that the Scottish Ministers can also pay the bodies in regulation 8 for information provided by them to Ministers.
+
+## Annotations
+
+[^f00001]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50) (“the 1997 Act”). Section 113B(5A) was inserted by section 80 of the [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14) (“the 2007 Act”). Section 80 of the 2007 Act was commenced on 11th January 2008 by [S.S.I. 2007/564](https://www.legislation.gov.uk/ssi/2007/564). Section 118(2A)(e) was inserted by section 164(3) of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) (“the 2005 Act”). Section 119(7) was inserted by section 165(1)(b) of the 2005 Act. See section 125(1) of the Police Act 1997 for a definition of “prescribed”. By virtue of section 126(3) and (4) of the 1997 Act, as inserted by section 166(2) of the 2005 Act, in the application of Part 5 of the 1997 Act to Scotland references to the Secretary of State must be construed as references to the Scottish Ministers (except in section 118(2A)(d) or 124A(1) and (2) of the 1997 Act).
+
+[^f00002]: Footnote: [S.S.I. 2006/96](https://www.legislation.gov.uk/ssi/2006/96); amended by [S.S.I. 2006/521](https://www.legislation.gov.uk/ssi/2006/521) and [2007/112](https://www.legislation.gov.uk/ssi/2007/112). [S.S.I. 2006/521](https://www.legislation.gov.uk/ssi/2006/521) was made in exercise of the powers conferred by section 112(1)(a), 113A(1)(a), 113B(1)(a), 114(1)(a) and 116(1)(a) of the 1997 Act. All these powers were repealed by section 79(1) of the 2007 Act, commenced on 11th January 2008 by [S.S.I. 2007/564](https://www.legislation.gov.uk/ssi/2007/564).
+
+[^f00003]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19).
+
+[^f00004]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
+
+[^f00005]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44).
+
+[^f00006]: Footnote: [2000 asp 6](https://www.legislation.gov.uk/asp/2000/6).
+
+[^f00007]: Footnote: [2006 asp 3](https://www.legislation.gov.uk/asp/2006/3).
+
+[^f00008]: Footnote: [1989 c. 45](https://www.legislation.gov.uk/ukpga/1989/45).
+
+[^f00009]: Footnote: Section 118(2A) was inserted by section 164(3) of the 2005 Act.

@@ -1,0 +1,242 @@
+---
+title: The Private Storage Aid Scheme (Pigmeat) (Scotland) Regulations 2021
+id: ssi/2021/398
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2021-11-04'
+text_date: '2022-01-15'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2021/398
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/398/pdfs/ssipn_20210398_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/398/pdfs/ssi_20210398_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/398/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Private Storage Aid Scheme (Pigmeat) (Scotland) Regulations 2021
+
+> Text as at 2022-01-15.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2021 No. 398
+
+Agriculture
+
+The Private Storage Aid Scheme (Pigmeat) (Scotland) Regulations 2021
+
+Made
+
+4th November 2021
+
+Laid before the Scottish Parliament
+
+5th November 2021
+
+Coming into force
+
+8th November 2021
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by Article 4(2) of Council [Regulation (EU) No. 1370/2013](https://www.legislation.gov.uk/european/regulation/2013/1370) of 16 December 2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products[^f00001], Articles 18 and 20 of [Regulation (EU) No. 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No. 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), (EEC) No. 234/79, [(EC) No. 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) (“**the CMO Regulation**”)[^f00002] and all other powers enabling them to do so.
+
+In accordance with Article 18(1) and (2)[^f00003] of the CMO Regulation, the Scottish Ministers have taken into account the need to respond in a timely way to a particularly difficult market situation or economic developments having a significant negative impact on the margins in the sector.
+
+## 1. Citation, commencement and extent[^key-263fc4f0a20e73618cad5972e358439a]
+
+(1) These Regulations may be cited as the Private Storage Aid Scheme (Pigmeat) (Scotland) Regulations 2021 and come into force on 8 November 2021.
+
+(2) These Regulations extend to Scotland.
+
+## 2. Interpretation[^key-e8933969c3496a33f1e064ceed9d925c]
+
+In these Regulations—
+
+- “**CMO Regulation**” means [Regulation (EU) No. 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No. 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), (EEC) No. 234/79, [(EC) No. 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No. 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234),
+- “**pigmeat**” means pigmeat products which fall within CN code 0203 as provided for in Part XVII of Annex I of the CMO Regulation,
+- “Regulation (EU) No. 2016/1238” means Commission Delegated Regulation (EU) No. 2016/1238 supplementing [Regulation (EU) No. 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council with regard to public intervention and aid for private storage[^f00004], and
+- “Regulation (EU) No. 2016/1240” means Commission Implementing Regulation (EU) No. 2016/1240 of 18 May 2016 laying down rules for the application of Regulation (EU) No. 1308/2013 of the European Parliament and the Council with regard to public intervention and aid for private storage[^f00005].
+
+## 3. Aid for Private Storage[^key-43abb5af1a79db8ac0604cf6476d1836]
+
+(1) The Scottish Ministers may grant private storage aid for pigmeat[^f00006] in accordance with the conditions specified in these Regulations.
+
+(2) The private storage aid may be granted for storage periods of—
+
+- (a) 60 days,
+- (b) 90 days,
+- (c) 120 days,
+- (d) 150 days, or
+- (e) 180 days.
+
+(3) The amount of aid payable by storage period per tonne of product stored is set out in Table 1 in the schedule.
+
+(4) The categories of pigmeat for which aid may be granted are set out in Table 2 in the schedule.
+
+(5) No aid may be granted for pigmeat which has been placed into storage before the date on which these Regulations come into force.
+
+(6) The overall maximum quantity of pigmeat for which the Scottish Ministers may grant private storage aid under these Regulations is 1000 tonnes.
+
+(7) The requirements and conditions set out in—
+
+- (a) Regulation (EU) No. 2016/1238, and
+- (b) Regulation (EU) No. 2016/1240,
+
+apply, save as otherwise provided in these Regulations, to the private storage aid referred to in paragraph (1).
+
+## 4. Procedure to be followed[^key-2592237993125881f077dda1da27c93a]
+
+(1) A person who wishes to apply for private storage aid referred to in regulation 3(1) must—
+
+- (a) be established in Scotland,
+- (b) manage premises situated in Scotland at which pigmeat is stored, and
+- (c) apply in the period beginning on the day after the day on which these Regulations come into force and ending on 31 March[^key-ea23039296c37ec59a333763c976f8ec] 2022.
+
+(2) An application must—
+
+- (a) relate to a storage period of 60, 90, 120, 150 or 180 days,
+- (b) relate only to the categories of pigmeat set out in Table 2 in the schedule, and
+- (c) cover a minimum quantity of 15 tonnes of pigmeat (which may be bone in or bone out).
+
+(3) A person may make more than one application for private storage aid referred to in regulation 3(1).
+
+(4) This regulation is subject to Article 45 of Regulation (EU) No. 2016/1240[^f00007] (decisions on applications for aid for private storage fixed in advance) as modified by regulation 6.
+
+## 5. Waiver of security requirement[^key-d06e1a500326e35d20ae1506ae591fbb]
+
+A person making an application for private storage aid referred to in regulation 3(1) is not required to lodge a security in favour of the relevant paying agency in accordance with Section 2 of Chapter IV of Commission Delegated [Regulation (EU) No. 907/2014](https://www.legislation.gov.uk/european/regulation/2014/0907) of 11 March 2014 supplementing [Regulation (EU) No. 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro[^f00008].
+
+## 6. Decisions on applications[^key-12389d96cf3c00a4f044e6b4ef7c4cb3]
+
+(1) Article 45 of Regulation (EU) No. 2016/1240 (decisions on applications for aid for private storage aid fixed in advance) has effect in connection with decisions on applications for private storage aid referred to in regulation 3(1) with the modifications specified in paragraph (2).
+
+(2) The modifications mentioned in paragraph (1) are—
+
+- (a) paragraph 1 is omitted,
+- (b) in paragraph 2, for the words from “appropriate authority” to “paragraph 3” there is substituted “PSA threshold has not been met”,
+- (c) after paragraph 2 there is inserted—
+
+  > **2A.** For the avoidance of doubt, PSA applications submitted after the PSA threshold is met must not be accepted.
+  >
+  > **2B.** The appropriate authority must reject PSA applications made before the PSA threshold is met the acceptance of which would have been decided after that threshold is met.
+
+  , and
+- (d) for paragraph 3 there is substituted—
+
+  > **3.** Paragraph 4 applies where a PSA application is submitted which, if accepted by the appropriate authority in the form in which it is submitted, would mean that the PSA threshold was exceeded.
+  >
+  > **4.** Where this paragraph applies, the appropriate authority—
+  >
+  > - (a) may reduce the quantity in the PSA application to not less than 15 tonnes, if—
+  >   - (i) the quantity in the application as submitted is more than 15 tonnes, and
+  >   - (ii) making the reduction would mean that the PSA threshold is not exceeded;
+  > - (b) otherwise, must reject the application.
+  >
+  > By way of derogation from Article 2(6), the person who made the relevant PSA application may, if the appropriate authority reduces the quantity in the application, withdraw the application by the end of the relevant day.
+  >
+  > For the purposes of this paragraph “the relevant day” is the next working day after the day on which the appropriate authority notifies the applicant that the appropriate authority has decided to make the reduction.
+  >
+  > **5.** In this Article—
+  >
+  > - (a) “**PSA application**” has the meaning given in the Private Storage Aid Scheme (Pigmeat) (Scotland) Regulations 2021;
+  > - (b) “**the PSA threshold**” means the threshold specified in regulation 3(6) of those Regulations.
+
+  .
+
+SHONA ROBISON
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+## SCHEDULE[^key-a12e895abd835975c408955931039cc4]
+
+Regulation 3
+
+Table 1
+
+|  |  |
+| --- | --- |
+| Storage duration (days) | Storage rates (£ sterling per tonne) |
+| 60 | £150 |
+| 90 | £185 |
+| 120 | £220 |
+| 150 | £255 |
+| 180 | £290 |
+
+Table 2
+
+|  |  |
+| --- | --- |
+| CN Code[^key-761e28e8b0a561b1f129d8be71253bf4] | Product in respect of which aid is available |
+| ex 0203 12 11 | Legs (bone in) |
+| ex 0203 12 19 | Shoulders (bone in) |
+| ex 0203 19 15 | Middles, loins or bellies, with or without rind or fat (bone in) |
+| ex 0203 19 55 | Legs (bone out) |
+| ex 0203 19 55 | Shoulders (bone out) |
+| ex 0203 19 55 | Loins, with or without neck-ends (bone out) |
+| ex 0203 19 55 | Loins, with or without chump (bone out) |
+| ex 0203 19 55 | Bellies, with or without rind or fat (bone out) |
+| ex 0203 19 55 | Middles, with or without rind fat (bone out) |
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations grant private storage aid for pigmeat under powers conferred by Articles 18 and 20 of [Regulation (EU) No. 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products. EUR 2013/1308 is retained EU law, as defined in section 6(7) of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16). These Regulations come into force on 8 November 2022.
+
+Regulation 2 provides for the interpretation of terms used in these Regulations.
+
+Regulation 3 provides the Scottish Ministers with the power to make grants for private storage aid. It also provides for the periods for which aid can be granted, the rate at which it will be granted and sets out the minimum tonnage of pigmeat for which aid may be applied.
+
+Regulation 4 provides conditions which a person applying for private storage aid and an application for private storage aid must meet.
+
+Regulation 5 removes the requirement for security to be lodged in respect of private storage aid granted under the scheme established by these Regulations.
+
+Regulation 6 modifies Article 45 of Commission Delegated Regulation (EU) No. 2016/1240 as it applies for the purposes of this scheme, to make clear the circumstances in which the appropriate authority (defined in Article 1A of that Regulation to mean, in relation to Scotland, the Scottish Ministers) may reduce the quantity in an application for private storage aid and the circumstances in which applications for private storage aid are to be rejected.
+
+A Business and Regulatory Impact Assessment has not been produced for this instrument as no, or no significant, impact on business, charities or voluntary bodies is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: EUR 2013/1370, incorporated into domestic law on IP completion day by section 3 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) and relevantly amended by [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821) and [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831).
+
+[^f00002]: Footnote: EUR 2013/1308 (“**the CMO Regulation**”) was incorporated into domestic law on IP completion day by section 3 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16). The CMO Regulation was relevantly amended by [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821) and [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831), and is modified by section 12 and schedule 1 of the Agriculture (Retained EU Law and Data) (Scotland) Act [2020 (asp 17)](https://www.legislation.gov.uk/asp/2020/17). The term “**appropriate authority**” in relation to Scotland means the Scottish Ministers as per Article 3(5)(c) of the CMO Regulation.
+
+[^f00003]: Footnote: Relevantly amended by [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831).
+
+[^key-263fc4f0a20e73618cad5972e358439a]: Commencement: Reg. 1 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+
+[^key-e8933969c3496a33f1e064ceed9d925c]: Commencement: Reg. 2 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+
+[^f00004]: Footnote: EUR 2016/1238, incorporated into domestic law on IP completion day by section 3 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) and relevantly amended by [S.I. 2019/823](https://www.legislation.gov.uk/uksi/2019/823).
+
+[^f00005]: Footnote: EUR 2016/1240, incorporated into domestic law on IP completion day by section 3 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) and relevantly amended by 2019/823.
+
+[^key-43abb5af1a79db8ac0604cf6476d1836]: Commencement: Reg. 3 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+
+[^f00006]: Footnote: Article 17(h) of the CMO Regulation provides that aid for private storage may be granted in respect of pigmeat.
+
+[^key-2592237993125881f077dda1da27c93a]: Commencement: Reg. 4 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+
+[^key-ea23039296c37ec59a333763c976f8ec]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/ssi/2021/398/regulation/4/1/c) substituted (15.1.2022) by [The Private Storage Aid Scheme (Pigmeat) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/492)](https://www.legislation.gov.uk/ssi/2021/492), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/492/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/492/regulation/2/2)
+
+[^f00007]: Footnote: Relevantly amended by [S.I. 2019/823](https://www.legislation.gov.uk/uksi/2019/823).
+
+[^key-d06e1a500326e35d20ae1506ae591fbb]: Commencement: Reg. 5 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+
+[^f00008]: Footnote: EUR 2014/907, incorporated into domestic law on IP completion day by section 3 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) and relevantly amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765).
+
+[^key-12389d96cf3c00a4f044e6b4ef7c4cb3]: Commencement: Reg. 6 in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+
+[^key-a12e895abd835975c408955931039cc4]: Commencement: Sch. in force at 8.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1)
+
+[^key-761e28e8b0a561b1f129d8be71253bf4]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2021/398/schedule) substituted (15.1.2022) by [The Private Storage Aid Scheme (Pigmeat) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/492)](https://www.legislation.gov.uk/ssi/2021/492), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/492/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/492/regulation/2/3)

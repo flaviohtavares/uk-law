@@ -1,0 +1,552 @@
+---
+title: Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscellaneous) 2010
+id: ssi/2010/205
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2010-05-18'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2010/205
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/205/pdfs/ssi_20100205_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/205/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscellaneous) 2010
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2010 No. 205
+
+Court Of Session
+
+Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscellaneous) 2010
+
+Made
+
+18th May 2010
+
+Coming into force in accordance with paragraph 1(1) and (2)
+
+The Lords of Council and Session, under and by virtue of the powers conferred by section 5 of the Court of Session Act 1988[^f00001], sections 108 and 114 of the Adoption and Children (Scotland) Act 2007[^f00002] as modified and applied in relation to parental orders under section 54 of the Human Fertilisation and Embryology Act 2008[^f00003] and applications for such orders by regulation 4 of, and Schedule 3 to, the Human Fertilisation and Embryology (Parental Orders) Regulations 2010[^f00004], sections 12(4) and 26(5) of the Energy Act 2008[^f00005] and of all other powers enabling them in that behalf, do hereby enact and declare:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscellaneous) 2010 and, subject to subparagraph (2), comes into force on 7th June 2010.
+
+(2) Paragraphs 2 to 9 come into force on 15th June 2010.
+
+(3) This Act of Sederunt is to be inserted in the Books of Sederunt.
+
+(4) In this Act of Sederunt, “the Rules” means the Rules of the Court of Session 1994[^f00006].
+
+## 2. Relief from compliance with rules
+
+(1) The Rules are amended in accordance with the following subparagraph.
+
+(2) After rule 2.1 (relief from failure to comply with rules), insert—
+
+> **2.2. Circumstance where aspect of procedure unsuitable**
+>
+> (1) Subparagraph (2) applies where, for any reason, the Lord President is of the opinion that an aspect of the procedure which would otherwise apply to particular proceedings, or proceedings of a particular description, is unsuitable for the efficient disposal of those proceedings.
+>
+> (2) The Lord President may direct that that aspect of the procedure is not to apply in respect of those proceedings and that such other procedure as he directs is to apply instead.
+>
+> (3) Before making such a direction the Lord President must consult—
+>
+> - (a) in the case of particular proceedings, the parties;
+> - (b) in the case of proceedings of a particular description, the parties of any proceedings falling within the description which have already been raised.
+
+.
+
+## 3. Lay support for party litigants
+
+(1) The Rules are amended in accordance with the following subparagraphs.
+
+(2) After Chapter 12 (assessors) insert the following Chapter—
+
+> **CHAPTER 12A — LAY SUPPORT FOR PARTY LITIGANTS**
+>
+> **12A.1. Lay support**
+>
+> (1) At any time during proceedings a party litigant may apply to the court for permission to have a named individual assist the litigant in the conduct of the proceedings by sitting beside or behind (as the litigant chooses) the litigant at hearings in court or in chambers and doing such of the following for the litigant as he or she requires—
+>
+> - (a) providing moral support;
+> - (b) helping to manage the court documents and other papers;
+> - (c) taking notes of the proceedings;
+> - (d) quietly advising on—
+>   - (i) points of law and procedure;
+>   - (ii) issues which the litigant might wish to raise with the court;
+>   - (iii) questions which the litigant might wish to ask witnesses.
+>
+> (2) It is a condition of such permission that the named individual does not receive from the litigant, whether directly or indirectly, any remuneration for his or her assistance.
+>
+> (3) The court may refuse an application under paragraph (1) only if—
+>
+> - (a) it is of the opinion that the named individual is an unsuitable person to act in that capacity (whether generally or in the proceedings concerned); or
+> - (b) it is of the opinion that it would be contrary to the efficient administration of justice to grant it.
+>
+> (4) An application under paragraph (1) is to be made by motion and accompanied by a document, signed by the litigant and the named individual, in Form 12.A-A.
+>
+> (5) Permission granted under paragraph (1) endures until the proceedings finish or it is withdrawn under paragraph (6); but it is not effective during any period when the litigant is represented.
+>
+> (6) The court may, of its own accord or on the motion of a party to the proceedings, withdraw permission granted under paragraph (1); but it must first be of the opinion that it would be contrary to the efficient administration of justice for the permission to continue.
+>
+> (7) Where permission has been granted under paragraph (1), the litigant may—
+>
+> - (a) show the named individual any document (including a court document); or
+> - (b) impart to the named individual any information,
+>
+> which is in his or her possession in connection with the proceedings without being taken to contravene any prohibition or restriction on the disclosure of the document or the information; but the named individual is then to be taken to be subject to any such prohibition or restriction as if he or she were the litigant.
+>
+> (8) Any expenses incurred by the litigant as a result of the support of an individual under paragraph (1) are not recoverable expenses in the proceedings.
+
+.
+
+(3) At the appropriate place in the Appendix insert the form set out at Schedule 1 to this Act of Sederunt.
+
+## 4. UK Supreme Court
+
+(1) The Rules are amended in accordance with the following subparagraphs.
+
+(2) In rule 16.3 (service by messengers-at-arms), for paragraph (6) substitute—
+
+> (6) In the application of this rule to service in England and Wales, reference to a messengers-at-arms shall be construed as a reference to a person entitled to serve Senior Courts writs; and in the application of this rule to service in Northern Ireland, reference to a messenger-at-arms shall be construed as a reference to a person entitled to serve Court of Judicature writs.
+
+.
+
+(3) In rule 53.2 (action of reduction: intimation to clerk of inferior court or tribunal)—
+
+- (a) in paragraph (5)—
+  - (i) for “House of Lords” (in the first place) substitute “Supreme Court”;
+  - (ii) for “the petition of appeal to the House of Lords has been lodged” substitute “the notice of appeal to the Supreme Court has been filed”;
+- (b) in paragraph (6), for “House of Lords” substitute “Supreme Court”.
+
+(4) For Chapter 56 (Judgments of the House of Lords) substitute—
+
+> **CHAPTER 56A — JUDGMENTS OF THE SUPREME COURT**
+>
+> **56A.1. Applications to apply judgments of the Supreme Court**
+>
+> (1) An application to apply a judgment of the Supreme Court in a cause shall be made by motion in the Single Bills.
+>
+> (2) On enrolling a motion under paragraph (1), a party shall lodge four copies of the Supreme Court judgment in process.
+
+.
+
+## 5. Admiralty proceedings
+
+(1) The Rules are amended in accordance with the following subparagraphs.
+
+(2) In rule 16.13 (arrestment of ships and arrestment *in rem* of cargo on board ship), in paragraph (3)—
+
+- (a) after “owners” insert “or demise charterers”;
+- (b) after “ship or” (in the second place) insert “the owners of the”.
+
+(3) In rule 46.1 (interpretation), in the definition of “Admiralty action” omit “or in respect of a contract of *respondentia*”.
+
+(4) In rule 46.2 (forms of action)—
+
+- (a) after “owners” insert “or demise charterers”;
+- (b) before “parties” insert “other”;
+- (c) before “cargo” (in the first place) insert “the owners of the”.
+
+(5) In paragraph (1) of rule 46.3 (actions *in rem*)—
+
+- (a) after “owners” (in all places) insert “or demise charterers”;
+- (b) before “parties” (in both places) insert “other”;
+- (c) before “cargo” (in both places) insert “the owners of the”.
+
+(6) In rule 46.4 (actions *in personam*)—
+
+- (a) in paragraph (1) for “of a ship or cargo, such owners” substitute “or demise charterers, or other parties interested in a ship, or the owners of cargo, the defenders”;
+- (b) in paragraph (2), after “owners” (in both places) insert “or demise charterers”;
+- (c) in paragraph (5)—
+  - (i) after “owner” (in both places) insert “or demise charterer”;
+  - (ii) for “a” (in the second place) substitute “other”;
+  - (iii) before “cargo” insert “the owner of the”;
+  - (iv) before “party” (in the second place) insert “other”.
+
+(7) For rule 16.14 (arrestment of cargo) substitute—
+
+> **16.14. Arrestment of cargo**
+>
+> (1) An arrestment of cargo on board a ship shall be executed by a messenger-at-arms who shall serve the schedule of arrestment on—
+>
+> - (a) the master of the ship;
+> - (b) any other person in charge of the ship or cargo; or
+> - (c) other proper arrestee.
+>
+> (2) Where the schedule of arrestment cannot be executed in accordance with paragraph (1), the arrestment may be executed as provided for in rule 16.13(4) and (5).
+>
+> (3) A person who has an interest in a ship or cargo which is the subject of an arrestment under this rule may apply by motion for a warrant authorising the movement of the ship or cargo and rule 13.11 shall apply to such a motion.
+
+.
+
+(8) In rule 46.5 (sale of ship or cargo), after paragraph (1) insert—
+
+> (1A) Where section 47E of the Administration of Justice Act 1956[^f00007] applies, the pursuer may apply for an order for the sale of the ship by public auction or private bargain.
+>
+> (1B) Where the owner or demise charterer of the ship has made payment of the sum due under section 47E(2)(a) of the Administration of Justice Act 1956[^f00008], or has tendered the sum due under section 47E(2)(b) of that Act and that tender has not been accepted within a reasonable time, the owner or demise charterer may apply to the court for an order declaring that the arrestment ceased to have effect from a specified date.
+
+.
+
+## 6. Interim payments of damages in personal injuries actions
+
+(1) The Rules are amended in accordance with the following subparagraph.
+
+(2) In rule 43.11 (applications for interim payments of damages)[^f00009], after paragraph (9) insert—
+
+> (10) For the purposes of this rule, the reference in paragraph (5)(a) to a person who is insured in respect of the claim of a pursuer includes a reference to a person in respect of whose liability an insurer under section 151 of the Road Traffic Act 1988[^f00010] will be liable to make payment.
+
+.
+
+## 7. European Enforcement Orders
+
+(1) The Rules are amended in accordance with the following subparagraphs.
+
+(2) In rule 62.2 (certificate of currency conversion)—
+
+- (a) in paragraph (1), for “Where” substitute “Subject to paragraph (4), where”;
+- (b) after paragraph (3) insert—
+
+  > (4) This rule does not apply in relation to an application for registration of a judgment, court settlement or authentic instrument on uncontested claims certified as a European Enforcement Order under the Regulation, as defined in rule 62.81(1).
+
+  .
+
+(3) In rule 62.81(1) (interpretation and application of Part XII of Chapter 62), after the definition of “judgment” insert—
+
+> - “Member State of origin” has the same meaning as in Article 4(4) of the Regulation.
+
+.
+
+(4) In rule 62.88(1) (registration for enforcement)[^f00011], for subparagraph (d) substitute—
+
+> - (d) where the European Enforcement Order is expressed in a currency other than sterling, a certificate issued by a competent authority of a Member State of origin of the sterling equivalent of—
+>   - (i) the principal sum,
+>   - (ii) interest, and
+>   - (iii) expenses,
+>
+>   contained in the judgment, court settlement or authentic instrument, as the case may be, at the rate of exchange prevailing at a date specified under the law of the Member State of origin for obtaining currency conversion in judicial matters.
+
+.
+
+## 8. Human Fertilisation and Embryology Act 2008
+
+(1) Chapter 97 (applications for parental orders under the Human Fertilisation and Embryology Act 2008)[^f00012] of the Rules is amended in accordance with the following subparagraph.
+
+(2) In rules 97.9(1) (duties of reporting officer and curator *ad litem*), 97.10(2)(a) (agreement) and 97.12(3)(b) (hearing) for each reference to “rule 97.8(1)” substitute “rule 97.8”.
+
+## 9. Energy Act 2008
+
+(1) The Rules are amended in accordance with the following subparagraph.
+
+(2) After Chapter 98 (Coroners and Justice Act 1999)[^f00013] insert—
+
+> **CHAPTER 99 — ENERGY ACT 2008 – INTERDICTS**
+>
+> **99.1. Applications for interdict against unknown persons**
+>
+> (1) Paragraph (2) applies to applications for interdict under sections 12 or 26 of the Energy Act 2008.
+>
+> (2) Interdict may be granted against a person whose identity is unknown to the applicant and “the respondent” is the person against whom interdict is sought.
+>
+> (3) Paragraphs (4) to (8) apply where an interdict is sought against such a person.
+>
+> (4) An application for interdict under this Chapter is to be made by petition.
+>
+> (5) The statement of facts must include averments stating—
+>
+> - (a) that the applicant has been unable to ascertain the respondent’s identity within the time reasonably available to the applicant;
+> - (b) the steps taken by the applicant to ascertain the respondent’s identity;
+> - (c) a description of the respondent and, where relevant, the means by which the respondent is described in the petition;
+> - (d) that the description of the respondent is the best the applicant is able to provide.
+>
+> (6) The court shall order the taking of such steps to make the respondent aware of the application as the court considers appropriate in the circumstances, having regard to the importance of the respondent being so aware; and the taking of such steps will constitute service.
+>
+> (7) Such steps may include—
+>
+> - (a) service in accordance with Part I of Chapter 16 (service and intimation)[^f00014];
+> - (b) intimation to a person;
+> - (c) publication in a newspaper;
+> - (d) publication using electronic means; or
+> - (e) affixing relevant documentation prominently in a particular place or on a particular structure, vehicle or vessel.
+>
+> (8) The applicant must lodge in process such documentary evidence as may be ordered by the court to show that those steps have been carried out.
+
+.
+
+## 10. Arbitration
+
+(1) The Rules are amended in accordance with the following subparagraphs.
+
+(2) For Part IX of Chapter 62 (recognition and enforcement of arbitral awards under the Model Law on International Commercial Arbitration) substitute—
+
+> **PART IX — ENFORCEMENT OF ARBITRAL AWARDS UNDER THE NEW YORK CONVENTION ON THE RECOGNITION AND ENFORCEMENT OF FOREIGN ARBITRAL AWARDS**
+>
+> **62.56. Interpretation and application of this Part**
+>
+> (1) In this Part—
+>
+> - “the 2010 Act” means the Arbitration (Scotland) Act 2010[^f00015];
+> - “the Convention” means the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards;
+> - “Convention award” means an award made in pursuance of a written arbitration agreement in a territory of a state (other than the United Kingdom) which is a party to the Convention.
+>
+> (2) This Part applies to an application under section 19 of the 2010 Act (recognition and enforcement of New York Convention awards).
+>
+> **62.57. Applications for enforcement of a Convention award**
+>
+> (1) An application for enforcement of a Convention award under section 19(2) of the 2010 Act shall be made by petition or, where there are proceedings depending before the court under the 2010 Act in relation to the same arbitration process, by note in the process of the petition.
+>
+> (2) There shall be produced with such a petition or note—
+>
+> - (a) the duly authenticated original award or a certified copy of it;
+> - (b) the original agreement referred to in article II of the Convention or a certified copy of it;
+> - (c) a translation of any award or agreement which is in a language other than English, certified by an official or sworn translator or by a diplomatic or consular agent;
+> - (d) an affidavit stating—
+>   - (i) the full name, title, trade or business and the usual or last known place of residence or, where appropriate, of the business of the petitioner or noter and the party against whom the Convention award was made;
+>   - (ii) the amount of the Convention award which is unsatisfied; and
+>   - (iii) that the Convention award has become binding on the parties and has not been set aside or suspended by a court of the country which, or under the law of which, the award was made.
+>
+> **62.58. Registration of Convention award**
+>
+> (1) The court, on being satisfied that the Convention award may be registered, shall grant warrant for registration.
+>
+> (2) Where the court pronounces an interlocutor under paragraph (1), the Deputy Principal Clerk shall enter the Convention award in a register of Convention awards.
+>
+> (3) Where the Keeper of the Registers receives from the petitioner or noter the documents referred to in paragraph (4), he or she shall register them in the register of judgments of the Books of Council and Session.
+>
+> (4) The documents are—
+>
+> - (a) a certified copy of the interlocutor of the warrant of registration,
+> - (b) a certified copy of the Convention award to be registered, and any translation of it, and
+> - (c) any certificate of currency conversion under rule 62.2(1)(b).
+>
+> (5) An extract of a registered Convention award with warrant for execution shall not be issued by the Keeper of the Registers until a certificate of service under rule 62.59 (service on party against whom Convention award made) is produced to him or her.
+>
+> **62.59. Service on party against whom Convention award made**
+>
+> On registration under rule 62.58, the petitioner or noter shall forthwith serve a notice of registration on the party against whom the Convention award was made in Form 62.59.
+>
+> **62.60. Application for refusal of recognition or enforcement of a Convention award**
+>
+> (1) An application under article V of the Convention (request by party against whom Convention award made for refusal of recognition or enforcement) shall be made by note.
+>
+> (2) A note referred to in paragraph (1) may crave—
+>
+> - (a) suspension or interdict of any past or future steps in the execution of the Convention award, including registration or enforcement of the award; and
+> - (b) recall of the interlocutor pronounced under rule 62.58(1) (registration under the Convention).
+>
+> (3) The note shall be supported by affidavit and any relevant documentary evidence.
+>
+> (4) Where any interlocutor pronounced under rule 62.59(1) is recalled, a certificate to that effect issued by the Deputy Principal Clerk shall be sufficient warrant to the Keeper of the Registers to cancel the registration and return the documents registered to the petitioner or noter on whose application the interlocutor under that rule was pronounced.
+
+.
+
+(3) At the appropriate place in the Appendix insert the form set out at Schedule 2 to this Act of Sederunt.
+
+(4) After Chapter 99 (Energy Act 2008 - interdicts)[^f00016], insert —
+
+> **CHAPTER 100 — ARBITRATION**
+>
+> **100.1. Interpretation and application**
+>
+> (1) In this Chapter—
+>
+> - “the 2010 Act” means the Arbitration (Scotland) Act 2010;
+> - “Convention award” means an award made in pursuance of a written arbitration agreement in a territory of a state (other than the United Kingdom) which is a party to the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards;
+> - “Scottish Arbitration Rules” means the Scottish Arbitration Rules set out in schedule 1 to the 2010 Act;
+> - “tribunal” means a sole arbitrator or panel of arbitrators.
+>
+> (2) Subject to paragraph (3), this Chapter applies to applications and appeals made under the 2010 Act (including applications and appeals made under the Scottish Arbitration Rules).
+>
+> (3) Rules 100.5 and 100.7 do not apply to an application under section 19(2) of the 2010 for enforcement of a Convention award.
+>
+> **100.2. Proceedings before a nominated judge**
+>
+> All proceedings in the Outer House in a cause to which this Chapter applies shall be brought before a judge of the court nominated by the Lord President as an arbitration judge or, where no such judge is available, any other judge of the court (including the vacation judge).
+>
+> **100.3. Procedure in causes under the 2010 Act**
+>
+> Subject to the provisions of the Scottish Arbitration Rules and this Chapter, the procedure in a cause under the Scottish Arbitration Rules shall be such as the judge dealing with the cause shall determine.
+>
+> **100.4. Disapplication of certain rules**
+>
+> The following rules shall not apply to a cause under this Part—
+>
+> - rule 6.2 (fixing and allocation of diets in Outer House);
+>
+>   rule 14.5 (first order in petitions);
+>
+>   rule 14.6 (period of notice for lodging answers);
+>
+>   rule 14.8 (procedure where answers lodged).
+>
+> **100.5. Application or appeal under the 2010 Act**
+>
+> (1) Subject to paragraph (2), an application or appeal under the 2010 Act shall be made by petition.
+>
+> (2) If proceedings are depending before the court under paragraph (1) in relation to the same arbitration process, an application under the 2010 Act shall be made by note in the process of the petition.
+>
+> (3) Upon lodging a petition or note under paragraph (1) or (2), the petitioner or noter must enrol a motion for intimation and service of the petition or note and the court may make such order as is appropriate in the circumstances of the case.
+>
+> (4) The court may make an order for intimation and service of the petition or note at the address of a party’s agent or other person acting for that party in the arbitration process and the service will be effective if carried out in accordance with that order.
+>
+> (5) Upon expiry of any period of notice following intimation and service of the petition or note, the petitioner or noter shall enrol a motion for further procedure and the court may make such order as is appropriate in the circumstances of the case, including, where appropriate, an order disposing of the petition or note.
+>
+> **100.6. Application for attendance of witnesses or disclosure of evidence**
+>
+> In relation to a petition or note lodged under rule 45 of the Scottish Arbitration Rules (court’s power to order attendance of witnesses and disclosure of evidence), intimation and service of the petition or note is not required.
+>
+> **100.7. Averments in petitions and notes under the 2010 Act**
+>
+> (1) The petitioner or noter must set out in the petition or note the facts and circumstances on which the petition or note is founded and the relief claimed.
+>
+> (2) In particular, any—
+>
+> - (a) application under rule 22 (referral of point of jurisdiction) or rule 41 (referral of point of law) of the Scottish Arbitration Rules, or
+> - (b) appeal under rule 67(1) (jurisdictional appeal), rule 68(1) (serious irregularity appeal) or rule 69(1) (legal error appeal) of the Scottish Arbitration Rules,
+>
+> should, so far as is necessary, identify the matters referred to in paragraph (3).
+>
+> (3) The following matters should be identified—
+>
+> - (a) the parties to the cause and the arbitration from which the cause arises;
+> - (b) the relevant rule of the Scottish Arbitration Rules or other provision of the 2010 Act under which the petition or note has been lodged;
+> - (c) any special capacity in which the petitioner or noter is acting or any special capacity in which any other party to the proceedings is acting;
+> - (d) a summary of the circumstances out of which the application or appeal arises;
+> - (e) the grounds on which the application or appeal proceeds;
+> - (f) in the case of an appeal under rule 67(1), whether the appellant seeks the variation or the setting aside of an award (or part of it);
+> - (g) in the case of an appeal under rule 69(1), whether the appeal is made with the agreement of the parties to the arbitration;
+> - (h) any relevant requirements of the Scottish Arbitration Rules which have been met.
+>
+> **100.8. Appeals against arbitral award on ground of legal error**
+>
+> (1) In addition to complying with rule 100.5(3) and (5), upon lodging a petition or note under rule 69 of the Scottish Arbitration Rules (legal error appeal), the petitioner or noter shall at the same time—
+>
+> - (a) except in a case where an appeal is made with the agreement of the parties, enrol a motion for leave to appeal; and
+> - (b) lodge any documents that the petitioner or noter intends to rely on in the application for leave (if applicable) and in the appeal.
+>
+> (2) A motion for leave to appeal under paragraph (1) shall—
+>
+> - (a) identify the point of law concerned; and
+> - (b) set out the grounds that are relied on for the giving of leave.
+>
+> (3) Within 14 days of service of the petition or note, or such other time as the court may allow, a respondent may lodge and intimate to all other parties grounds of opposition, including any evidence to be relied upon in opposition to the application for leave.
+>
+> (4) The application for leave to appeal shall be dealt with without a hearing unless the court considers that a hearing is required.
+>
+> (5) Where the court considers that a hearing is required, it may give such further directions as it considers necessary.
+>
+> (6) Rule 41.2 (applications for leave to appeal), rule 41.3 (determination of applications for leave to appeal) and rule 41.3A (competency of appeals) do not apply to an application for leave to appeal under this rule.
+>
+> **100.9. Anonymity in legal proceedings**
+>
+> (1) Where a petition or note is lodged under the 2010 Act, any application to the court under section 15 of the 2010 Act (anonymity in legal proceedings) shall be made not later than the hearing of a motion for further procedure under rule 100.5(5).
+>
+> (2) Until an application under section 15 of the 2010 Act has been determined or, where no such application has been made, the time at which a motion for further procedure is made under rule 100.5(5) and, thereafter, if the court grants an order under section 15 of the 2010 Act—
+>
+> - (a) the petition or note shall not be available for inspection, except by court staff and the parties;
+> - (b) the petition or note shall be referred to publicly, including in the rolls of court, as “Arbitration Application” or “Arbitration Appeal” (as the case may be) and by reference to a number and the year in which it was lodged;
+> - (c) the court proceedings shall be heard in private.
+>
+> (3) Unless the court grants an order under section 15 of the 2010 Act, all applications and appeals made under the 2010 Act shall be heard in public.
+>
+> **100.10. Applications for enforcement of a tribunal’s award under the 2010 Act**
+>
+> (1) A petition or note under section 12 of the 2010 Act for enforcement of a tribunal’s award shall—
+>
+> - (a) identify the parties to the cause and the arbitration process from which the cause arises;
+> - (b) specify that the award is not currently the subject of—
+>   - (i) an appeal under Part 8 of the Scottish Arbitration Rules (challenging awards);
+>   - (ii) any arbitral process of appeal or review; or
+>   - (iii) a process of correction under rule 58 of the Scottish Arbitration Rules; and
+> - (c) specify the basis on which the tribunal had jurisdiction to make the award.
+>
+> (2) There shall be produced with such a petition or note—
+>
+> - (a) the original tribunal’s award or a certified copy of it; and
+> - (b) the documents founded upon or adopted as incorporated in the petition or note.
+
+.
+
+A.C. HAMILTON
+
+Lord President
+
+I.P.D.
+
+Edinburgh
+
+18th May 2010
+
+## SCHEDULE 1
+
+Paragraph 3(3)
+
+## SCHEDULE 2
+
+Paragraph 10(3)
+
+EXPLANATORY NOTE
+
+(This note is not part of the Act of Sederunt)
+
+This Act of Sederunt makes amendments to the Rules of the Court of Session 1994.
+
+Paragraph 2 makes provision whereby procedural provision may be disapplied, and alternative provision substituted, where it is apparent in advance that the provision is unsuitable.
+
+Paragraph 3 introduces a new Chapter 12A into the Rules. This regulates the provision of lay support to party litigants in the conduct of proceedings.
+
+Paragraph 4 makes amendments to the Rules, including the insertion of a new Chapter 56A, in consequence of the transfer to the UK Supreme Court of the jurisdiction of the House of Lords to hear appeals from cases decided by the Court of Session.
+
+Paragraph 5 makes minor amendments to the Rules in consequence of the amendments of admiralty legislation made by schedule 4 to the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3).
+
+Paragraph 6 makes a minor amendment to the rule relating to applications for interim payments of damages in personal injuries cases.
+
+Paragraph 7 makes amendments to the rules relating to applications for registration of enforcement of a judgment, court settlement or authentic instrument certified as a European Enforcement Order, so as to remove the requirement under rule 62.2 to apply to the court for a certificate of currency conversion. Provision is made instead for such a certificate to be presented to the Keeper of the Registers when making the application.
+
+Paragraph 8 makes minor amendments to Chapter 97 (applications for parental orders under the Human Fertilisation and Embryology Act 2008).
+
+Paragraph 9 makes new procedural rules for applications in the Court of Session for interdict against unknown persons under sections 12 or 26 of the Energy Act 2008. It inserts a new Chapter 99 of the Court of Session in consequence of the commencement of sections 12 and 26 of the 2008 Act.
+
+Paragraph 10 introduces new rules of procedure relating to causes under the Arbitration (Scotland) Act 2010, by inserting a new Chapter 100 into the Rules and substituting a new Part IX of Chapter 62.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c.36](https://www.legislation.gov.uk/ukpga/1988/36); section 5 was amended by the Civil Evidence (Scotland) Act [1988 (c.32)](https://www.legislation.gov.uk/ukpga/1988/32), section 2(3); the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c.40)](https://www.legislation.gov.uk/ukpga/1990/40), Schedule 9; the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 45; the [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(1); and the [Judiciary and Courts (Scotland) Act 2008, (asp 6)](https://www.legislation.gov.uk/asp/2008/6), section 46(3).
+
+[^f00002]: Footnote: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
+
+[^f00003]: Footnote: [2008 c.22](https://www.legislation.gov.uk/ukpga/2008/22).
+
+[^f00004]: Footnote: [S.I. 2010/985](https://www.legislation.gov.uk/uksi/2010/985).
+
+[^f00005]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32).
+
+[^f00006]: Footnote: [S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2010/136](https://www.legislation.gov.uk/ssi/2010/136).
+
+[^f00007]: Footnote: [1956 c.46](https://www.legislation.gov.uk/ukpga/1956/46)
+
+[^f00008]: Footnote: [1956 c.46](https://www.legislation.gov.uk/ukpga/1956/46)
+
+[^f00009]: Footnote: Rule 43.11 was amended by [S.S.I. 2002/570](https://www.legislation.gov.uk/ssi/2002/570), [2004/331](https://www.legislation.gov.uk/ssi/2004/331) and [2006/83](https://www.legislation.gov.uk/ssi/2006/83).
+
+[^f00010]: Footnote: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52). Section 151 was amended by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8, paragraph 1 and by [S.I. 2007/1426](https://www.legislation.gov.uk/uksi/2007/1426).
+
+[^f00011]: Footnote: Rule 62.88 was inserted by [S.S.I. 2005/521](https://www.legislation.gov.uk/ssi/2005/521).
+
+[^f00012]: Footnote: Chapter 97 was inserted by [S.S.I. 2010/136](https://www.legislation.gov.uk/ssi/2010/136).
+
+[^f00013]: Footnote: Chapter 98 was inserted by [S.S.I. 2010/136](https://www.legislation.gov.uk/ssi/2010/136).
+
+[^f00014]: Footnote: Chapter 16 was last amended by [S.S.I. 2008/349](https://www.legislation.gov.uk/ssi/2008/349).
+
+[^f00015]: Footnote: [2010 asp 1](https://www.legislation.gov.uk/asp/2010/1).
+
+[^f00016]: Footnote: Chapter 99 is inserted by paragraph 9 of this Act of Sederunt.

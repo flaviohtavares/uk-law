@@ -1,0 +1,57 @@
+---
+title: Bankruptcy (Scotland) Act 2016, section 26
+act: Bankruptcy (Scotland) Act 2016
+section: '26'
+status: revised-with-pending-changes
+text_date: '2025-06-25'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2016/21/section/26
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Bankruptcy (Scotland) Act 2016, section 26
+
+> **Warning: changes not yet applied to this text (17).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2016/21
+>
+> Extent: Scotland.
+
+## 26. Registration of warrant or determination of debtor application[^key-c289e8a020f8a12afb021bd61635101d]
+
+*Extent: S*
+
+(1) On the sheriff granting warrant under section 22(3) the sheriff clerk must forthwith send—
+
+- (a) a certified copy of the order granting the warrant to the Keeper of the Register of Inhibitions for recording in that register,
+- (b) a copy of that order to AiB, and
+- (c) where the debtor is taking part in a debt payment programme under Part 1 of the 2002 Act, a copy of that order to the DAS administrator (“DAS administrator” having the meaning given by regulation 2(1) of the Debt Arrangement Scheme (Scotland) Regulations 2011 (S.S.I. 2011/141)).
+
+(2) On awarding sequestration on a debtor application AiB must forthwith send a certified copy of AiB's determination of the application to the Keeper of the Register of Inhibitions for recording in that register.
+
+(3) Recording under subsection (1)(a) or (2) has the effect, as from the date of sequestration, of an inhibition and of a citation in an adjudication of the debtor's heritable estate at the instance of the creditors who subsequently have claims in the sequestration accepted under section 126.
+
+(4) The effect mentioned in subsection (3) expires—
+
+- (a) on the recording by virtue of section 27(11)(a) of a certified copy of an order refusing to award sequestration or by virtue of section 30(9)(a) of a certified copy of an order recalling an award of sequestration,
+- (b) on the recording by virtue of section 18(7), 34(4) or 35(7) of a certified copy of a decision, or
+- (c) if the effect has not earlier expired by virtue of paragraph (a) or (b), at the end of 3 years beginning with the date of sequestration.
+
+(5) But subsection (4)(c) is subject to subsections (6) and (7).
+
+(6) The trustee may if not discharged send a memorandum, in a form prescribed by act of sederunt, to the Keeper of the Register of Inhibitions for recording in that register before the expiry of—
+
+- (a) the 3 years mentioned in subsection (4)(c), or
+- (b) a period for which the effect mentioned in subsection (3) has been renewed by virtue of subsection (7).
+
+(7) The recording of a memorandum sent in accordance with subsection (6) renews the effect mentioned in subsection (3) for 3 years beginning with the expiry of—
+
+- (a) the 3 years mentioned in subsection (4)(c), or
+- (b) as the case may be, the period mentioned in subsection (6)(b).
+
+(8) The trustee may, if appointed or reappointed under section 152, send a memorandum in a form prescribed by act of sederunt to the Keeper of the Register of Inhibitions for recording in that register before the expiry of that appointment.
+
+(9) The recording of a memorandum sent in accordance with subsection (8) imposes the effect mentioned in subsection (3) for 3 years beginning with the day of notification in accordance with section 153(1).
+
+## Annotations
+
+[^key-c289e8a020f8a12afb021bd61635101d]: Commencement: S. 26 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

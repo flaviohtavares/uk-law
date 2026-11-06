@@ -1,0 +1,48 @@
+---
+title: Police and Fire Reform (Scotland) Act 2012, section 96
+act: Police and Fire Reform (Scotland) Act 2012
+section: '96'
+status: revised-with-pending-changes
+text_date: '2025-12-29'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2012/8/section/96
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police and Fire Reform (Scotland) Act 2012, section 96
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2025-12-29. See https://www.legislation.gov.uk/changes/affected/asp/2012/8
+>
+> Extent: Scotland.
+
+## 96. Interpretation of Chapter 16[^key-267d1a8911b52f2245d2aaff00cfc3c6]
+
+*Extent: S*
+
+(1) For the purposes of this Chapter, a reference to a detainee is a reference to a person in the lawful custody of a person (“A”) acting in a capacity mentioned in subsection (2) or a person assisting A while A is acting in such a capacity.
+
+(2) The capacities are—
+
+- (a) that of a constable,
+- (b) that of a police custody and security officer,
+- (c) that of a member of a relevant police force when such member is executing a warrant or is otherwise acting in Scotland by virtue of any enactment conferring powers on the member in Scotland,
+- (d) that of a person who—
+  - (i) is a member of an international joint investigation team that is led by a person acting in a capacity mentioned in paragraph (a) or (c), and
+  - (ii) is carrying out functions as a member of that team.
+
+(3) For the purpose of subsection (2) a reference to a member of a relevant police force is a reference to a member of—
+
+- (a) a police force maintained under section 2 of the Police Act 1996 (c.16),
+- (b) the metropolitan police force,
+- (c) the City of London police force, or
+- (d) the Police Service of Northern Ireland.
+
+(4) In this Chapter—
+
+- “**SPT**” means the Subcommittee on Prevention of Torture and other Cruel, Inhuman or Degrading Treatment or Punishment established under Article 2 of OPCAT, and
+- “**OPCAT**” means the Optional Protocol to the Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment adopted on 18 December 2002 at the fifty-seventh session of the General Assembly of the United Nations by resolution A/RES/57/199.
+
+## Annotations
+
+[^key-267d1a8911b52f2245d2aaff00cfc3c6]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2012/8/section/96) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

@@ -1,0 +1,95 @@
+---
+title: The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2005
+id: ssi/2005/320
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2005-06-07'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2005/320
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2005/320/pdfs/ssi_20050320_en.pdf
+- http://www.legislation.gov.uk/ssi/2005/320/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2005
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2005 No. 320
+
+RATING AND VALUATION
+
+The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2005
+
+Made
+
+7th June 2005
+
+Laid before the Scottish Parliament
+
+9th June 2005
+
+Coming into force
+
+1st July 2005
+
+The Scottish Ministers, in exercise of the powers conferred by section 6A(1)(aa) of the Valuation and Rating (Scotland) Act 1956[^f00001] and of all other powers enabling them in that behalf, and after consultation with such associations of local authorities and such other persons as they think appropriate in accordance with section 6A(1D) of the Valuation and Rating (Scotland) Act 1956[^f00002] hereby make the following Order:
+
+## 1. Citation, commencement and interpretation
+
+(1) This Order may be cited as the Non Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2005 and shall come into force on 1st July 2005.
+
+(2) Any reference in this Order to–
+
+- (a) lands and heritages occupied by a person includes a reference to lands and heritages which, if unoccupied, are owned by that person; and
+- (b) lands and heritages used for any purpose includes a reference to lands and heritages which are unused but in relation to which it appears that, when next used, they will be used for such a purpose.
+
+## 2. Amendment of the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005
+
+The Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005[^f00003] is amended in accordance with the following provisions of this Order.
+
+## 3. Gas
+
+(1) For paragraph (1) of article 4, substitute–
+
+> (1) Any lands and heritages (other than the lands and heritages mentioned in paragraph (2)) which would (apart from this Order) be treated as justifying separate entries in two or more valuation rolls shall be treated for all purposes of the Valuation Acts as justifying only one entry in the valuation roll for West Dunbartonshire in respect of each Company, if they are occupied by that Company and used for any of the purposes of production, treatment, transmission, distribution or storage of gas, including plant and equipment installed therein or thereon and, without prejudice to the foregoing generality, gas terminals, gas research stations, pressure reduction stations, governor stations, holder stations, mains, services and radio stations, insofar as any of them is used for any of the foregoing purposes.
+
+.
+
+(2) In paragraph (3) of article 4, before ““gas”” insert–
+
+> - “Company” means either the company registered at the date of this Order with the number 02006000 and with the name of Transco plc, or the company registered at the date of this Order with the number SC 264065 and with the name of Scotland Gas Networks Limited, as the case may be;
+
+.
+
+TOM McCABE
+
+A member of the Scottish Executive
+
+St Andrew’s House, Edinburgh
+
+7th June 2005
+
+(This note is not part of the Order)
+
+This Order amends the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005 (“the 2005 Order”) and comes into force on 1st July 2005.
+
+The 2005 Order put in place a new regime for the valuation of certain utilities whose values were previously prescribed in various orders made under section 6 of the Local Government (Scotland) Act 1975.
+
+Article 4 of the 2005 Order specifies the lands and heritages to be valued within the gas industry, where these are occupied, or if unoccupied, owned, by Transco plc. Where these lands and heritages would (apart from the 2005 Order) be treated as justifying separate entries in two or more valuation rolls, they are treated as justifying one entry in the valuation roll for West Dunbartonshire.
+
+This amendment is required as a consequence of the transfer of the gas distribution and storage network from Transco plc to Scotland Gas Networks Limited. The amendment provides that the lands and heritages where these are occupied, or if unoccupied, owned, by either Transco plc or Scotland Gas Networks Limited, as the case may be, will be treated as justifying one entry in the valuation roll, in respect of each company. The position is the same for Transco plc and Scotland Gas Networks Limited, so that these lands and heritages include those used for the purposes of production, treatment, transmission, distribution or storage of gas, during periods when such lands and heritages are occupied, or if unoccupied, owned, by those companies.
+
+## Annotations
+
+[^f00001]: Footnote: [1956 c. 60](https://www.legislation.gov.uk/ukpga/1956/60); section 6A(1)(aa) was inserted by section 32(1)(a) of the [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: Section 6A(1D) was inserted by section 32(1)(b) of the [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1).
+
+[^f00003]: Footnote: [S.S.I. 2005/127](https://www.legislation.gov.uk/ssi/2005/127)

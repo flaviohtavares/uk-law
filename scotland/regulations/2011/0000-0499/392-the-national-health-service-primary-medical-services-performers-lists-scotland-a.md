@@ -1,0 +1,358 @@
+---
+title: The National Health Service (Primary Medical Services Performers Lists) (Scotland) Amendment Regulations 2011
+id: ssi/2011/392
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2011-11-08'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2011/392
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2011/392/pdfs/ssien_20110392_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/392/pdfs/ssi_20110392_en.pdf
+- http://www.legislation.gov.uk/ssi/2011/392/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Primary Medical Services Performers Lists) (Scotland) Amendment Regulations 2011
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2011 No. 392
+
+National Health Service
+
+The National Health Service (Primary Medical Services Performers Lists) (Scotland) Amendment Regulations 2011
+
+Made
+
+8th November 2011
+
+Laid before the Scottish Parliament
+
+10th November 2011
+
+Coming into force
+
+21st December 2011
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 17P, 32E, 105(7) and 108(1) of the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement[^key-10b78052936d4bb21396e53d83a8fe9c]
+
+These Regulations may be cited as the National Health Service (Primary Medical Services Performers Lists) (Scotland) Amendment Regulations 2011 and come into force on 21st December 2011.
+
+## 2. Amendment of the National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^key-78bc285bfed69ec8f0c02d1714536475]
+
+(1) The National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^f00002] are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+- (a) at the appropriate places insert the following definitions—
+
+  > - “the 2007 Act” means the Protection of Vulnerable Groups (Scotland) Act 2007[^f00003];
+  > - “the Agency” means the Common Services Agency for the Scottish Health Service constituted under section 10 (Common Services Agency) of the Act[^f00004];
+  > - “barred from regulated work” means barred from regulated work with children or adults within the meaning of section 92(1) or (2) (individuals barred from regulated work) of the 2007 Act;
+  > - “considered for listing” means considered for listing by the Scottish Ministers in the children’s list or adults’ list or in both lists in pursuance of section 10, 11, 12 or 13 (consideration whether to list) of the 2007 Act;
+  > - “disclosure record” has the meaning given in section 97(1) (general interpretation) of the 2007 Act;
+  > - “disclosure request” has the meaning given in section 97(1) of the 2007 Act;
+  > - [^key-d7cee06f2e5390ec26180e081b38c25c]...
+  > - “partnership” includes a limited liability partnership;
+  > - “relevant Health Board” means a Health Board on whose primary medical services performers list a performer is already included, or a Health Board which an applicant has specified by virtue of regulation 6(2);
+  > - “scheme member” means a member of the Scheme, established by section 44 (the Scheme) of the 2007 Act, in relation to both—
+  >   - (a) regulated work with children, as defined in section 91(2) (regulated work) of the 2007 Act; and
+  >   - (b) regulated work with adults, as defined in section 91(3) of the 2007 Act;
+  > - “Tribunal” means the NHS Tribunal constituted in accordance with section 29 of, and Schedule 8 to, the Act;
+
+  ;
+- (b) omit the definition of “Committee on Professional Performance”;
+- (c) in the definition of “fraud” for “article 3(o) of the National Health Service (Functions of the Common Services Agency) (Scotland) Order 1974” substitute “article 2 (functions of the Agency) of the National Health Service (Functions of the Common Services Agency) (Scotland) Order 2008[^f00006]”;
+- (d) in the definition of “provider of primary medical services”—
+  - (i) after “partner in” insert “or member of”; and
+  - (ii) after “partnership” insert “or company”; and
+- (e) for the definition of “suspended” substitute—
+
+  > - “suspended by a Health Board” means suspended by a Health Board in terms of regulation 8A;
+  > - “suspended by direction of the Tribunal” means suspended as respects the performance of primary medical services by a direction of the Tribunal made pursuant to section 32A(2)[^f00007] (applications for interim suspension) or section 32B(1)[^f00008] (suspension pending appeal) of the Act or suspended under any provisions in force in England, Wales or Northern Ireland corresponding (whether or not exactly) to those provisions;
+
+  .
+
+(3) For regulation 6 (application for inclusion in the primary medical services performers list) substitute—
+
+> **6. Application for inclusion in the primary medical services performers list and notification of changes**
+>
+> (1) An application by a person for inclusion in a primary medical services performers list shall be made in writing and shall include the information, declarations, undertakings, consents, disclosure request and disclosure record specified in Schedule 1.
+>
+> (2) An application may specify other Health Boards on whose primary medical services performers list the applicant wishes to be included.
+>
+> (3) Before determining an application a Health Board shall—
+>
+> - (a) check so far as practicable, the information provided by the applicant and any documents which the applicant is required to produce in terms of these Regulations;
+> - (b) seek and examine references from the referees that the applicant has provided in accordance with paragraph 1(g) of Schedule 1;
+> - (c) ask the Agency whether the applicant has any record of fraud, or is currently, or at any time has been, the subject of any investigation by the Agency, which information the Agency shall supply unless it would prejudice any criminal proceedings or the prevention, detection or investigation of fraud;
+> - (d) obtain a disclosure record; and
+> - (e) notify any other Health Board which the applicant has specified in the application for the purposes of paragraph (2).
+>
+> (4) If a Health Board considers that further information to that provided by the applicant in accordance with paragraph (1) is necessary to determine the application, the Health Board shall require the applicant to provide it.
+>
+> (5) Where the Health Board considers that there may be grounds for referral to the Tribunal, then the Health Board may refer the matter to the Tribunal.
+>
+> (6) Notwithstanding paragraphs (3) and (4), where an applicant is already included on another Health Board’s primary medical services performers list, the Health Board to whom the application has been made may include that applicant in its primary medical services performers list without further enquiry.
+>
+> (7) An applicant shall notify the Health Board in writing if there is a change to any of the information which that applicant has provided as soon as possible.
+
+.
+
+(4) In regulation 7 (decisions and grounds for refusal and deferral)—
+
+- (a) in paragraph (1)—
+  - (i) omit the “or” immediately following sub-paragraph (e);
+  - (ii) after sub-paragraph (f) insert—
+
+    > ; or
+    >
+    > - (g) the applicant is not a scheme member.
+
+    ;
+- (b) in paragraph (3), after “applicant”, where it second occurs, insert “and any relevant Health Board”;
+- (c) after paragraph (3) insert—
+
+  > (3A) When a Health Board includes an applicant in its primary medical services performers list, any other Health Board which that applicant has specified by virtue of regulation 6(2) may include the applicant in its primary medical services performers list without further enquiry.
+
+  ; and
+- (d) in paragraph (4)—
+  - (i) omit the “or” immediately following sub-paragraph (b);
+  - (ii) after sub-paragraph (c) insert—
+
+    > ;
+    >
+    > - (d) the applicant is suspended by a Health Board, or is suspended from an equivalent list by an equivalent body; or
+    > - (e) the applicant is being considered for listing and the Health Board is satisfied that it is necessary for the protection of members of the public that the application is deferred,
+
+    ;
+  - (iii) after “applicant”, where it last occurs, insert “and any relevant Health Board”;
+- (e) in paragraph (7), after “applicant” insert “and any relevant Health Board”;
+- (f) in paragraph (8), for “(c)” substitute “(e)”.
+
+(5) After regulation 8 insert—
+
+> **8A. Suspension**
+>
+> (1) If a Health Board is satisfied that it is necessary to do so for the protection of members of the public or is otherwise in the public interest, it may suspend a medical practitioner from its primary medical services performers list in accordance with this regulation—
+>
+> - (a) while it considers whether to remove that person from its primary medical services performers list under regulation 9 or 10;
+> - (b) while it waits for a decision affecting that person of a court anywhere in the world, or of a licensing or regulatory body;
+> - (c) while it considers whether to refer that person to the Tribunal;
+> - (d) while it awaits a finding by the Tribunal or other equivalent body;
+> - (e) where it has decided to remove that person from its primary medical services performers list but before that decision takes effect;
+> - (f) while it awaits a decision on any appeal under regulation 13(1)(b);
+> - (g) while that person is being considered for listing.
+>
+> (2) In paragraph (1)(b), “decision” means the final determination of the relevant proceedings, after any appeal or other review procedure has been exhausted.
+>
+> (3) In a case falling within paragraph (1)(a) or (c), the Health Board must specify a period, not exceeding six months, as the period of suspension, and such period may be extended so long as the aggregate period of suspension does not exceed six months.
+>
+> (4) In a case falling within paragraph (1)(b), the Health Board may specify that the medical practitioner remains suspended after the decision referred to in that paragraph has been made for an additional period, not exceeding six months and such period may be extended, so long as the aggregate additional period of suspension does not exceed six months.
+>
+> (5) If the Health Board suspends a medical practitioner in a case falling within paragraph (1)(e) the suspension has effect from the date the Board informs that person of the suspension.
+>
+> (6) A medical practitioner who is suspended by a Health Board is to be treated as not being included in the primary medical services performers list during the period of suspension.
+>
+> (7) The Health Board may at any time revoke the suspension and notify the medical practitioner of its decision.
+>
+> (8) Except for a case falling within paragraph (1)(e), where a Health Board is considering suspending a medical practitioner or varying the period of suspension under this regulation, it shall give the medical practitioner—
+>
+> - (a) notice of any allegation against that person;
+> - (b) notice of what action it is considering and on what grounds; and
+> - (c) the opportunity to attend a hearing before the Health Board, on a specified day, provided that at least 24 hours’ notice of the hearing is given.
+>
+> (9) If the medical practitioner does not wish to have a hearing or does not attend the hearing without a reasonable excuse, the Health Board may suspend that person with immediate effect.
+>
+> (10) The Health Board may suspend the medical practitioner with immediate effect following the hearing.
+>
+> (11) The Health Board shall notify the medical practitioner of its decision and the reasons for it within 7 days of making that decision.
+
+.
+
+(6) In regulation 9(1) (removal from the primary medical services performers lists)—
+
+- (a) after “suspended” insert “by direction of the Tribunal”;
+- (b) omit the “or” immediately following sub-paragraph (d); and
+- (c) after sub-paragraph (e) insert—
+
+  > ;
+  >
+  > - (f) is barred from regulated work; or
+  > - (g) is no longer a scheme member,
+
+  .
+
+(7) In regulation 10(2)(b) (removal from the primary medical services performers list of medical practitioners not performing primary medical services), after “suspended” insert “by direction of the Tribunal or was suspended by a Health Board”.
+
+(8) In regulation 12(1) (amendment or withdrawal from primary medical services performers lists)—
+
+- (a) in paragraph (1), for “30” substitute “7”;
+- (b) in paragraph (3) omit “from any performer”.
+
+(9) In regulation 14 (disclosure of information)—
+
+- (a) after paragraph (1)(b) insert—
+
+  > - (c) suspend a performer from that list, or end a suspension under regulation 8A;
+
+  ;
+- (b) in paragraph (2)(g) omit “where an allegation of fraud is being considered,”;
+- (c)[^key-10eb79131efa476ebcc8e3aff88dc4de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) in paragraph (8)—
+  - (i) in sub-paragraph (g) omit “where an allegation of fraud is being considered,”;
+  - (ii) omit the “and” immediately following sub-paragraph (i);
+  - (iii)[^key-68a134665b24ca6a47e0ca828449c198] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In regulation 15 (payments to suspended medical practitioners)—
+
+- (a) for paragraph (1) substitute—
+
+  > (1) A Health Board shall make payments to any performer who is suspended by a Health Board or suspended by direction of the Tribunal, in accordance with any determination by the Scottish Ministers.
+
+  ;
+- (b) after paragraph (4), insert—
+
+  > (5) If a payment is made pursuant to a determination under paragraph (1), but the payee was not entitled to receive all or any part of that payment, the amount overpaid shall be recoverable as a debt by any lawful means.
+  >
+  > (6) If a performer is dissatisfied with a decision of a Health Board (“the original decision”)—
+  >
+  > - (a) pursuant to a determination under paragraph (1); or
+  > - (b) in respect of recovery of what the Health Board considers to be an overpayment,
+  >
+  > that performer may ask the Health Board to review the original decision, and the Health Board shall reconsider that decision and notify the performer in writing of the outcome of that reconsideration (“the reconsidered decision”).
+  >
+  > (7) If the performer remains dissatisfied, that performer may appeal to the Scottish Ministers by giving them a notice of appeal within 28 days beginning on the day that the Health Board notified the performer of the reconsidered decision.
+  >
+  > (8) The notice of appeal must include—
+  >
+  > - (a) the names and addresses of the parties to the disputed decision;
+  > - (b) a copy of the reconsidered decision; and
+  > - (c) a statement of the grounds for appeal.
+  >
+  > (9) The Scottish Ministers must thereafter send a written request to the parties to make, in writing and within a specified period, any representations about the matter.
+  >
+  > (10) Once the period specified pursuant to paragraph (9) has elapsed, the Scottish Ministers must—
+  >
+  > - (a) give a copy of any representations received from a party to any other party; and
+  > - (b) request within a specified period any written observations which that party wishes to make on those representations.
+  >
+  > (11) The Scottish Ministers may determine the appeal themselves or, if they consider it appropriate appoint another person or panel (referred to as “the panel”) to consider and determine the appeal.
+  >
+  > (12) Once the period specified pursuant to paragraph (10)(b) has elapsed, the Scottish Ministers or the panel, must, as soon as is reasonably practicable, determine the appeal, and give notice of the determination to both parties.
+
+  .
+
+(11) In Schedule 1 (information, declarations, and undertakings to be included in an application for inclusion in a primary medical services performers’ list)—
+
+- (a) in the title, omit “AND” and after “UNDERTAKINGS” insert “, CONSENTS, DISCLOSURE REQUEST AND DISCLOSURE RECORD”;
+- (b) after paragraph 1(e) insert—
+
+  > - (ea) whether the applicant is included on another Health Board’s primary medical services performers list;
+
+  ;
+- (c) in paragraph 2—
+  - (i) in sub-paragraph (e), after “proceedings” insert “anywhere in the world”;
+  - (ii) in sub-paragraph (g), for “procurator fiscal fine” substitute “fixed penalty”;
+  - (iii) omit sub-paragraph (p);
+- (d) in paragraph 3—
+  - (i) in sub-paragraph (b)(v), for “procurator fiscal fine” substitute “fixed penalty”; and
+  - (ii) after sub-paragraph (j) insert—
+
+    > ;
+    >
+    > - (k) that the performer shall consent to disclosure of information in terms of regulation 14;
+    > - (l) that the performer will remain a scheme member.
+
+    ; and
+- (e) after paragraph 4 insert—
+
+  > **5.** An application shall include—
+  >
+  > - (a) a disclosure request for any disclosure record required under regulation 6(3)(d); and
+  > - (b) where required by the Health Board under that regulation, any existing disclosure record the applicant holds.
+
+  .
+
+## 3. Transitional provision[^key-d830c5844dd30944932b209e2188efe6]
+
+Where any application to join the primary medical services performers list is received by a Health Board prior to the coming into force of these Regulations and that application has not been determined by the Health Board by the time these Regulations come into force, the Health Board shall continue to deal with the application under the law as it applied before these Regulations came into force, but must before determining the application—
+
+- (a) require the applicant to provide a disclosure request and, where required by the Health Board, any existing disclosure record that the applicant holds; and
+- (b) obtain a disclosure record.
+
+NICOLA STURGEON
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+8th November 2011
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004 (“the principal Regulations”).
+
+Regulation 2(2) makes amendments to, and inserts new definitions in, the principal Regulations, in particular with regard to the implementation of the new vetting and disclosure scheme under section 44 of the Protection of Vulnerable Groups (Scotland) Act 2007 (“the PVG Scheme”).
+
+Regulation 2(3) substitutes regulation 6 of the principal Regulations to insert a revised procedure for making an application for inclusion in the primary medical services performers list. Regulation 2(3) also amends the procedure to be followed by a Health Board in considering an application.
+
+Regulation 2(4) introduces new grounds on which a Health Board may refuse or defer an application for inclusion on its primary medical services performers list. The amendments recognise the implementation of the PVG Scheme and the power of Health Boards to suspend performers under regulation 8A. Regulation 2(4) also requires a Health Board to inform other Boards of its decision on whether to include an applicant in its primary medical services performers list and where the decision is that the applicant should be included, allows for inclusion by other Health Boards without further enquiry.
+
+Regulation 2(5) sets out the grounds on which a Health Board may suspend a medical practitioner from the primary medical services performers list, and the procedure to be followed.
+
+Regulation 2(6) inserts two new grounds of removal from the performers list in implementation of the PVG Scheme.
+
+Regulation 2(7) amends the principal Regulations to recognise that a medical practitioner may now be suspended by a Health Board in terms of regulation 8A. Any such period of suspension is to be disregarded for the purposes of calculating the period of 12 months referred to in regulation 10(1) of the principal Regulations.
+
+Regulation 2(8) amends regulation 12(1) of the principal Regulations to reduce the number of days in which a performer must give notice to the Health Board of any occurrence requiring a change in the information recorded on a performer’s list.
+
+Regulation 2(9) amends the list of persons to whom certain information regarding a Health Board’s decisions in relation to its primary medical services performers list must be disclosed. Regulation 2(10) amends the principal Regulations to provide for the payment of performers who are suspended by a Health Board. The amendments also provide for an appeal mechanism in the event that a performer is dissatisfied with a decision of a Health Board in relation to the payments to be made when the performer has been suspended.
+
+Regulation 2(11) amends Schedule 1 to the principal Regulations in implementation of the PVG Scheme. Regulation 2(11) also adds a new undertaking that a medical practitioner must consent to disclosure of information in terms of regulation 14 of the principal Regulations.
+
+Regulation 3 makes transitional provision for an application to join a primary medical services performers list which was received by a Health Board prior to the coming into force of these Regulations but which has yet to be determined. It obliges Health Boards to seek disclosure records under the 2007 Act for such applications.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29) (“the 1978 Act”); section 17P was inserted by the Primary Medical Services (Scotland) Act [2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), section 5(2); section 32E was inserted by the National Health Service (Amendment) Act [1995 (c.31)](https://www.legislation.gov.uk/ukpga/1995/31) (“the 1995 Act”), section 8 and was amended by the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13) (“the 2005 Act”), schedule 2, paragraph 2(14); section 105(7) was amended by the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53) (“the 1980 Act”), Schedule 6, paragraph 5(1) and Schedule 7, the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), section 29(1) and Schedule 9, paragraph 24 and the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), Schedule 4, paragraph 60. Section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State so far as they are exercisable in Scotland were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
+
+[^key-10b78052936d4bb21396e53d83a8fe9c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1) in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1)
+
+[^key-78bc285bfed69ec8f0c02d1714536475]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/392/regulation/2) in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1)
+
+[^f00002]: Footnote: [S.S.I. 2004/114](https://www.legislation.gov.uk/ssi/2004/114), amended by [S.S.I. 2004/216](https://www.legislation.gov.uk/ssi/2004/216), [2005/333](https://www.legislation.gov.uk/ssi/2005/333), [2006/136](https://www.legislation.gov.uk/ssi/2006/136), [2007/207](https://www.legislation.gov.uk/ssi/2007/207) and [413](https://www.legislation.gov.uk/ssi/2007/413), [2008/27](https://www.legislation.gov.uk/ssi/2008/27), [2010/93](https://www.legislation.gov.uk/ssi/2010/93) and [2011/55](https://www.legislation.gov.uk/ssi/2011/55) and [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [2010/234](https://www.legislation.gov.uk/uksi/2010/234).
+
+[^f00003]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
+
+[^f00004]: Footnote: Section 10 of the 1978 Act was amended by the 1980 Act, Schedule 6, paragraph 2, the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), section 66(2) and Schedule 10, the 1999 Act, Schedule 4, paragraph 44 and the 2005 Act, schedule 2, paragraph 2(4).
+
+[^key-d7cee06f2e5390ec26180e081b38c25c]: Textual amendment: Words in reg. 2(2)(a) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 15(a)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/15/a) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^f00006]: Footnote: [S.S.I. 2008/312](https://www.legislation.gov.uk/ssi/2008/312); to which there are amendments not relevant to these Regulations.
+
+[^f00007]: Footnote: Section 32A(2) was inserted by the 1995 Act, section 8 and amended by the 1999 Act, Schedule 4, paragraph 51 and by the 2005 Act, section 26(7)(a).
+
+[^f00008]: Footnote: Section 32B(1) was inserted by the 1995 Act, section 8 and amended by the 1999 Act, Schedule 4, paragraph 52, and by the 2005 Act, schedule 3, paragraph 1.
+
+[^key-10eb79131efa476ebcc8e3aff88dc4de]: Textual amendment: Reg. 2(9)(c) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 15(b)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/15/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-68a134665b24ca6a47e0ca828449c198]: Textual amendment: Reg. 2(9)(d)(iii) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 15(b)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/15/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-d830c5844dd30944932b209e2188efe6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/392/regulation/3) in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1)

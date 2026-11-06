@@ -1,0 +1,79 @@
+---
+title: The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2018
+id: ssi/2018/5
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2018-01-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2018/5
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2018/5/pdfs/ssipn_20180005_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/5/pdfs/ssi_20180005_en.pdf
+- http://www.legislation.gov.uk/ssi/2018/5/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2018
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2018 No. 5
+
+Public Records
+
+The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2018
+
+Made
+
+9th January 2018
+
+Coming into force
+
+12th January 2018
+
+The Scottish Ministers make the following Order in exercise of the powers conferred on them by section 2(2) of the Public Records (Scotland) Act 2011[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 2(8) of that Act, a draft of this Order has been laid before and approved by resolution of the Scottish Parliament[^f00002].
+
+## 1. Citation and commencement
+
+This Order may be cited as the Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2018 and comes into force on 12th January 2018.
+
+## 2. Amendments to the schedule to the Public Records (Scotland) Act 2011
+
+In the schedule of the Public Records (Scotland) Act 2011 (authorities to which Part 1 of that Act applies), under the heading “Others”, in the appropriate place according to alphabetical order, add the following entries—
+
+> - First-tier Tribunal for Scotland
+
+; and
+
+> - Upper Tribunal for Scotland
+
+.
+
+ANNABELLE EWING
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+9th January 2018
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order amends the schedule of the Public Records (Scotland) Act 2011, which lists the bodies, office-holders and other persons that are subject to Part 1 of that Act, to add the First-tier Tribunal for Scotland and the Upper Tribunal for Scotland. Part 1 of that Act makes provision for records management plans.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 asp 12](https://www.legislation.gov.uk/asp/2011/12).
+
+[^f00002]: Footnote: Section 2(8) has been modified by paragraph 5(2) of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act 2010.

@@ -1,0 +1,106 @@
+---
+title: The Police and Police (Special Constables) (Scotland) Amendment Regulations 2003
+id: ssi/2003/21
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2003-01-17'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2003/21
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2003/21/pdfs/ssi_20030021_en.pdf
+- http://www.legislation.gov.uk/ssi/2003/21/made/data.pdf
+pending_changes: 2
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Police and Police (Special Constables) (Scotland) Amendment Regulations 2003
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2003 No. 21
+
+POLICE
+
+The Police and Police (Special Constables) (Scotland) Amendment Regulations 2003
+
+Made
+
+17th January 2003
+
+Laid before the Scottish Parliament
+
+20th January 2003
+
+Coming into force
+
+3rd February 2003
+
+The Scottish Ministers, in exercise of the powers conferred by section 26 of the Police (Scotland) Act 1967[^f00001] and section 82(4) of the Police Reform Act 2002[^f00002] and of all other powers enabling them in that behalf and after taking into consideration any representations made by the Police Advisory Board for Scotland following the submission of a draft of the Regulations in accordance with section 26(9) of the said Act of 1967, hereby make the following Regulations:
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Police and Police (Special Constables) (Scotland) Amendment Regulations 2003 and shall come into force on 3rd February 2003.
+
+## 2. Amendment of regulation 6 of the Police (Scotland) Regulations 1976
+
+In regulation 6 of the Police (Scotland) Regulations 1976[^f00003] (qualifications for appointment of constables)–
+
+- (a) after paragraph (a) there is inserted–
+
+  > - (aa) if not a national of a State which is a Contracting Party[^f00004] to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00005] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00006], has leave to enter or remain in the United Kingdom for an indefinite period;
+
+  ; and
+- (b) in paragraph (c) after “sufficiently educated” there is inserted “, including being sufficiently competent in written and spoken English and sufficiently numerate,”.
+
+## 3. Amendment of regulation 4 of the Police (Special Constables) (Scotland) Regulations 1966
+
+In regulation 4 of the Police (Special Constables) (Scotland) Regulations 1966[^f00007] (qualifications for appointment)–
+
+- (a) for paragraph (b) there is substituted–
+
+  > - (b) he, if not a national of a State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993, has leave to enter or remain in the United Kingdom for an indefinite period
+
+  ; and
+- (b) for paragraph (e) there is substituted–
+
+  > - (e) he has satisfied the chief constable that he has attained a reasonable standard of education, including being sufficiently competent in written and spoken English
+
+  .
+
+JAMES WALLACE
+
+A member of the Scottish Executive
+
+St Andrew’s House, Edinburgh
+
+17th January 2003
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Police (Scotland) Regulations 1976 (“the 1976 Regulations”) and the Police (Special Constables) (Scotland) Regulations 1966 (“the 1966 Regulations”) in relation to the qualifications for appointment as a constable or special constable.
+
+Regulation 6 of the 1976 Regulations is amended to provide that in addition to being satisfied that candidates for appointment as constables are sufficiently educated through the passing of an examination, the chief constable also requires to be satisfied that they are sufficiently competent in written and spoken English and sufficiently numerate (regulation 2(b)).
+
+Regulation 4 of the 1966 Regulations is amended to provide that the chief constable is to be satisfied that candidates for appointment as special constables have attained a reasonable standard of education which includes being sufficiently competent in written and spoken English (regulation 3(b)).
+
+Regulation 6 of the 1976 Regulations and regulation 4 of the 1966 Regulations are amended to provide that candidates for appointment as constables or special constables who are not nationals of a member state of the European Economic Area must have indefinite leave to enter or remain in the United Kingdom. As a consequence of this, the existing restriction in regulation 4 of the 1966 which requires special constables to be British subjects is also removed (regulations 2(a) and 3(a)).
+
+## Annotations
+
+[^f00001]: Footnote: [1967 c. 77](https://www.legislation.gov.uk/ukpga/1967/77); section 26(9) was amended by the Police Negotiating Board Act [1980 (c. 10)](https://www.legislation.gov.uk/ukpga/1980/10), section 2(4) and by the Police Act [1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16) (“the 1996 Act”), Schedule 7, paragraph 14(3); section 26(1A) and (10) was inserted by the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), section 111; section 26(1) was amended by the Police and Magistrates' Courts Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29) (“the 1994 Act”), section 53(1); section 26(2) was amended by the 1994 Act, sections 47(5) and 52(2) and Schedule 9 and by the 1996 Act, Schedule 7, paragraph 14(2); section 26(2B) was inserted by the 1994 Act, section 52(3); section 26(7) was repealed by the 1994 Act, section 52(4) and Schedule 9. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
+
+[^f00003]: Footnote: S.I. [1976/1073](https://www.legislation.gov.uk/uksi/1976/1073) relevantly amended by S.I. [1992/3170](https://www.legislation.gov.uk/uksi/1992/3170).
+
+[^f00004]: Footnote: The current members of the European Economic Area are Austria, Belgium, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Liechtenstein, Luxembourg, The Netherlands, Norway, Portugal, Spain, Sweden and the United Kingdom.
+
+[^f00005]: Footnote: O.J. No. L 1, 3.1.94, p.3.
+
+[^f00006]: Footnote: O.J. No. L 1, 3.1.94, p.571.
+
+[^f00007]: Footnote: S.I. [1966/97](https://www.legislation.gov.uk/uksi/1966/97), amended by S.I. [1994/3039](https://www.legislation.gov.uk/uksi/1994/3039).

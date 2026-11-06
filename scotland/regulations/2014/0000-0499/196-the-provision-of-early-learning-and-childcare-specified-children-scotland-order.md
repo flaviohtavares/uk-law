@@ -1,0 +1,211 @@
+---
+title: The Provision of Early Learning and Childcare (Specified Children) (Scotland) Order 2014
+id: ssi/2014/196
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2014-06-30'
+text_date: '2025-04-06'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2014/196
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2014/196/pdfs/ssipn_20140196_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/196/pdfs/ssi_20140196_en.pdf
+- http://www.legislation.gov.uk/ssi/2014/196/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Provision of Early Learning and Childcare (Specified Children) (Scotland) Order 2014
+
+> Text as at 2025-04-06.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2014 No. 196
+
+Education
+
+The Provision of Early Learning and Childcare (Specified Children) (Scotland) Order 2014
+
+Made
+
+30th June 2014
+
+Coming into force in accordance with article 1(1)
+
+The Scottish Ministers make the following order in exercise of the powers conferred on them by sections 47(2)(c)(ii) and (4) and 99(1) of the Children and Young People (Scotland) Act 2014[^f00001], and all other powers enabling them to do so.
+
+In accordance with section 99(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
+
+## 1. Citation, commencement, interpretation and application[^key-23fc1f45bdbb656de35873d0fe1a8b94]
+
+(1) This Order may be cited as the Provision of Early Learning and Childcare (Specified Children) (Scotland) Order 2014 and shall come into force—
+
+- (a) for all purposes (other than article 2(2) to (5)), on 1st August 2014; and
+- (b) for the purposes of article 2(2) to (5), on 31st October 2014.
+
+(2) In this Order—
+
+- “assessment period” means the assessment period for the purposes of universal credit as specified in regulation 21 of the Universal Credit Regulations 2013;[^key-f80df08f51048336afe22fe0c642dafa]
+- “couple” has the meaning given in section 39 of the Welfare Reform Act 2012;
+- “earned income” means the person’s earned income within the meaning of Chapter 2 of Part 6 of the Universal Credit Regulations 2013;
+- “single person” has the meaning given in section 1(2)(a) of the Welfare Reform Act 2012;
+- “parent” has the meaning given in section 135(1) of the 1980 Act[^f00002];
+- “qualifying benefit” means—
+  - (a) income support under the Social Security Contributions and Benefits Act 1992[^f00003];
+  - (b) an income-based jobseeker’s allowance (payable under the Jobseekers Act 1995[^f00004]);
+  - (c) income-related employment and support allowance under Part 1 of the Welfare Reform Act 2007[^f00005];
+  - (d) incapacity benefit under Part II of the Social Security Contributions and Benefits Act 1992[^f00006];
+  - (e) severe disablement allowance under the Social Security Contributions and Benefits Act 1992[^f00007];
+  - (f) state pension credit payable under the State Pension Credit Act 2002[^f00008];
+  - (g) [^key-7270279baecc4c1e65e0d76b50348aae]...
+  - (h) support provided under Part VI of the Immigration and Asylum Act 1999;[^key-c18a74b90d9f6e2332d1c23d4e09aff9]
+  - (i) universal credit payable under Part 1 of the Welfare Reform Act 2012, where the parent is in receipt of universal credit, either—[^key-e74d607b704a4759430421528b4ed4bd]
+    - (i) as a single person, where the single person has earned income not exceeding £850[^key-0fc793887a4f2b0147680dccb2463feb], or
+    - (ii) as a member of a couple, where the couple have a combined earned income not exceeding £850,
+
+    in the assessment period immediately preceding the application for early learning and childcare being made;
+- “school year” means a period of 12 months commencing on 1st August of any year;
+- “specified description” means specified description for the purposes of section 47(2)(c)(ii) of the 2014 Act (power to specify a description of children under school age and who have not commenced attendance at primary school (other than at a nursery class in such a school) who are entitled to be provided with early learning and childcare);
+- “starting point for 3 year olds”, in relation to a child, means—
+  - (a) where a child’s third birthday falls in the period beginning 1st March and ending on 31st August, the first day of the autumn term occurring in that year;
+  - (b) where a child’s third birthday falls in the period beginning 1st September and ending on 31st December, the first day of the spring term immediately following that birthday; and
+  - (c) where a child’s third birthday falls in the period beginning 1st January and ending on the last day of February, the first day of the summer term immediately following that birthday;
+- “starting point for 2 year olds”, in relation to a child, means—
+  - (a) subject to paragraph (5), where a child’s second birthday falls in the period beginning 1st March and ending on 31st August, the first day of the autumn term occurring in that year;
+  - (b) where a child’s second birthday falls in the period beginning 1st September and ending on 31st December, the first day of the spring term immediately following that birthday; and
+  - (c) where a child’s second birthday falls in the period beginning 1st January and ending on the last day of February, the first day of the summer term immediately following that birthday;
+- “the[^key-db267bb2cd4b2ea39a4551f85e325419] 2002 Act” means the Tax Credits Act 2002;
+- “the 2014 Act” means the Children and Young People (Scotland) Act 2014;
+- “the relevant income” has the meaning given by section 7(3) of the[^key-bb8442d0339056f893037f611fb18363] 2002 Act.
+
+(3) For the purposes of this Order the terms of a school year shall be taken to commence during the following periods—
+
+- as respects the autumn term, the period beginning 1st August and ending on 31st December;
+- as respects the spring term, the period beginning 1st January and ending on the last day of February; and
+- as respects the summer term, the period beginning 1st March and ending on 31st July.
+
+(4) Article 2(2) and (3) of this Order apply to a child where their second birthday falls on or after 1st March 2014.
+
+(5) Where a child’s second birthday falls in the period beginning 1st March 2014 and ending on 31st August 2014, the starting point for 2 year olds in relation to that child means (other than for the purposes of article 2(2)(b) and (3)(b)) 31st October 2014.
+
+## 2. Description of children entitled to be provided with mandatory amount of early learning and childcare[^key-16154f7e83cb471c2c0cfe543b0709ac][^key-16154f7e83cb471c2c0cfe543b0709ac]
+
+(1)[^key-c26a5032ec5abae05e743e87a0dc8469] A child is of a specified description if the child has attained the starting point for 3 year olds.
+
+(2)[^key-a9ff07f349063496dac4ecbea56ae438] A child is of a specified description if—
+
+- (a) the child has attained the starting point for 2 year olds but has not attained the starting point for 3 year olds; and
+- (b) the child’s parent is in receipt of one or more qualifying benefits on the day on which the child attains the starting point for 2 year olds.
+
+(3)[^key-a9ff07f349063496dac4ecbea56ae438] A child is of a specified description if—
+
+- (a) the child has attained the starting point for 2 year olds but has not attained the starting point for 3 year olds; and
+- (b) the child’s parent starts receiving one or more qualifying benefits after the starting point for 2 year olds.
+
+(4)[^key-a9ff07f349063496dac4ecbea56ae438] Where paragraph (3) of this article applies the child shall be of a specified description from the first day of the term of the school year commencing immediately after the child’s parent first receives one or more qualifying benefits.
+
+(5)[^key-a9ff07f349063496dac4ecbea56ae438] A child shall remain of a specified description by virtue of paragraphs (2) and (3) of this article notwithstanding that a child’s parent ceases to be in receipt of one or more qualifying benefits.
+
+(6)[^key-8b90d0c5c0f7fff87a49a306e7d83fc4][^key-16154f7e83cb471c2c0cfe543b0709ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Circumstances in which child does not (or is no longer to) fall within section 47(3) of the 2014 Act[^key-d698d83bb206b8e048c19ea4e7e9fc66]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Revocation[^key-0f072ad02d8d8a527fd89a22b87ee9ba]
+
+The Provision of School Education for Children Under School Age (Prescribed Children) (Scotland) Order 2002[^f00009] and the Provision of School Education for Children under School Age (Prescribed Children) (Scotland) Amendment Order 2007[^f00010] are revoked.
+
+AILEEN CAMPBELL
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+30th June 2014
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+Section 47(1) of the Children and Young People (Scotland) Act 2014 (the 2014 Act) imposes a duty on an education authority to secure, in pursuance of its duty under section 1(1) of the Education (Scotland) Act 1980 (the 1980 Act), that the mandatory amount (as defined in section 48 of the 2014 Act) of early learning and childcare is made available for each eligible pre-school child belonging to its area.
+
+Section 47(2) of the 2014 Act defines “eligible pre-school child”. It means a child who is under school age, has not commenced attendance at a primary school, and either falls within subsection 47(3) of the 2014 Act or is within such age range, or is of such other description, as the Scottish Ministers may by order specify. This Order specifies those children who are eligible pre-school children for the purposes of section 47(2)(c)(ii) of the 2014 Act and therefore entitled to the mandatory amount of early learning and childcare. The Order also sets out the circumstances when a child is no longer an eligible pre-school child and therefore stops being entitled to the mandatory amount of early learning and childcare.
+
+Article 1(1)(a) provides that the Order comes into force for all purposes (other than article 2(2) to (5)) on 1st August 2014. Article 1(1)(b) provides that the Order comes into force for the purposes of article 2(2) to (5) (which relates to children who are aged 2 and whose parents are in receipt of certain qualifying benefits) on 31st October 2014.
+
+Article 2 describes an eligible pre-school child. Article 2(1) provides that children will be eligible pre-school children from the first term after their 3rd birthday (unless the child’s birthday falls in August when they will be eligible from the autumn term). Therefore, those children who turned 3 between 1st March 2014 and 31st August 2014 will be entitled to early learning and childcare from the first day of the autumn term 2014. Those children who were entitled to pre-school education by virtue of being a child of a prescribed description under the Provision of School Education for Children under School Age (Prescribed Children) (Scotland) Order 2002 (which is revoked by article 4 of this Order) will be eligible pre-school children under article 2(1) and therefore entitled to early learning and childcare from August 2014; this is so because such children will satisfy the requirements in article 2(1)(a).
+
+Article 2(2) provides that children are also eligible pre-school children from the start of the term following their second birthday where their parents are in receipt of certain qualifying benefits (as defined in article 1(2)). Article 2(3) provides that children are eligible pre-school children from the start of the term following their second birthday where their parents only start receiving one or more qualifying benefits after the starting point for 2 year olds has occurred and in those circumstances the child will be eligible the term after their parent starts receiving those qualifying benefits (article 2(4)).
+
+Article 1(4) provides that article 2(2) and (3) apply to a child who had their second birthday on or after 1st March 2014. Article 1(5) makes provision in relation to those children whose second birthday falls in the period beginning 1st March 2014 and 31st August 2014; the effect is that the starting point for 2 year olds for those children will be 31st October 2014, albeit that the point at which the parent is in receipt of (or starts receiving) one or more qualifying benefits remains on (or after) the first day of the autumn term occurring in that year.
+
+Article 2(5) provides that a child remains an eligible pre-school child by virtue of article 2(2) and (3) even if the child’s parent, subsequent to the child commencing early learning and childcare, ceases to be in receipt of qualifying benefits.
+
+In terms of section 47(2)(a) and (b) of the 2014 Act, a child remains an eligible pre-school child whilst they are under school age and have not commenced attendance at a primary school. “School age” is defined in section 97(3) of the 2014 Act by reference to section 135(1) of the 1980 Act which requires the term to be construed in accordance with section 31 of the 1980 Act. Section 31 of the 1980 Act defines “school age” as being between the ages of 5 and 16 but is qualified by section 32(3) of the 1980 Act which provides that children who turn 5 during the course of a school year are deemed to be under 5 until the start of the school year following their 5th birthday.
+
+Article 2(6) deals with the situation where children do not attend primary school when they are first eligible to do so. The effect of section 32(6) of the 1980 Act is that children may start school younger than 5 (generally those who turn 5 between August and February) where the child’s parent chooses to do so. Article 2(6) makes provision in relation to children who have their fifth birthday on or after the start of the school year and whose parents opt to defer entry to primary school to the following school year. The effect is that those children whose 5th birthday falls in the period beginning on 1st August and ending on 31st December are not eligible pre-school children and therefore not entitled to early learning and childcare for the deferred year. Those children whose 5th birthday falls in January or February will continue to be eligible pre-school children and entitled to the mandatory amount of early learning and childcare during the deferred year given that they will still be under school age (or deemed to be still be under school age by virtue of section 32(3) of the 1980 Act) and not have commenced attendance at primary school, in accordance with section 47(2)(a) and (b) of the 2014 Act.
+
+Section 47(3) of the 2014 Act provides that subject to subsection (4), a child falls within subsection (3) (and therefore is an eligible pre-school child and entitled to early learning and childcare) if the child is aged 2 or over and is or has been at any time since the child’s 2nd birthday looked after by the local authority, the subject of a kinship care order (defined in section 72(1) of the 2014 Act) or a child falling within section 71(3)(f) of the 2014 Act (that is a child who has a guardian by virtue of an appointment under section 7 of the Children (Scotland) Act 1995).
+
+Subsection (4) of section 47 of the 2014 Act enables the Scottish Ministers by order to provide that a child aged 4 or over does not (or is no longer to) fall within subsection (3) in such circumstances as may be specified in the order. Article 3 specifies the circumstances when a child no longer falls within subsection (3) of section 47. The circumstances are the same as those children who derive eligibility under article 2(1), namely the circumstances set out in article 2(6) of the Order (those children whose 5th birthday falls in the period beginning on 1st August and ending on 31st December will no longer be eligible pre-school children and therefore not entitled to early learning and childcare for the deferred year).
+
+Article 4 revokes the Provision of School Education for Children under School Age (Prescribed Children) (Scotland) Order 2002 and the Provision of School Education for Children under School Age (Prescribed Children) (Scotland) Amendment Order 2007.
+
+## Annotations
+
+[^f00001]: Footnote: [2014 asp 8](https://www.legislation.gov.uk/asp/2014/8).
+
+[^key-23fc1f45bdbb656de35873d0fe1a8b94]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) in force at 1.8.2014, see [art. 1(1)(a)](https://www.legislation.gov.uk/ssi/2014/196/article/1/1/a)
+
+[^key-f80df08f51048336afe22fe0c642dafa]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2) inserted (1.8.2017) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/182)](https://www.legislation.gov.uk/ssi/2017/182), [regs. 1](https://www.legislation.gov.uk/ssi/2017/182/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2017/182/regulation/3/2)
+
+[^f00002]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44); the definition of “parent” was amended by the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 28(5)(a).
+
+[^f00003]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); section 124 (which provides for income support) was amended by the Jobseekers Act [1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18), section 41 and Schedules 2 and 3 and by the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), section 70 and Schedule 8, Part IV, paragraph 28.
+
+[^f00004]: Footnote: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
+
+[^f00005]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5); income-related employment and support allowance is defined in section 1 of the Welfare Reform Act 2007.
+
+[^f00006]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); sections 30A to E (which deal with incapacity benefit) were inserted into the Social Security Contributions and Benefits Act 1992 by the Social Security (Incapacity for Work) Act [1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18).
+
+[^f00007]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); severe disablement allowance under section 68 of the Social Security Contributions and Benefits Act 1992 (SSCBA). It was abolished for new claims in April 2001 by virtue of the repeal of sections 68 and 69 of the SSCBA, effected by section 65 of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) (WRPA 1999). Article 4(a) of the WRPA 1999 (Commencement No. 9, and Transitional and Savings Provisions) Order 2000 ([S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958)) provided for entitlement to severe disablement allowance to remain in place for persons aged over 20 on 6th April 2001 on any day of incapacity for work in that period of incapacity for work. Under regulation 19 of the Social Security (Incapacity Benefit) Regulations 1994 ([S.I. 1994/2946](https://www.legislation.gov.uk/uksi/1994/2946)), severe disablement allowance claimants who were below the age of 20 years on 6th April 2001 were transferred to long-term incapacity benefit from 6th April 2002. No claim was required. Older claimants remained on severe disablement allowance.
+
+[^f00008]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
+
+[^key-7270279baecc4c1e65e0d76b50348aae]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2) omitted (6.4.2025) by virtue of [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2025 (S.S.I. 2025/82)](https://www.legislation.gov.uk/ssi/2025/82), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/82/article/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2025/82/article/2/a)
+
+[^key-c18a74b90d9f6e2332d1c23d4e09aff9]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) inserted (1.8.2015) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 (S.S.I. 2015/268)](https://www.legislation.gov.uk/ssi/2015/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/268/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/268/article/2/2/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/268/article/1/2))
+
+[^key-e74d607b704a4759430421528b4ed4bd]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2/i) substituted (1.8.2017) by virtue of [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/182)](https://www.legislation.gov.uk/ssi/2017/182), [regs. 1](https://www.legislation.gov.uk/ssi/2017/182/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2017/182/regulation/3/3)
+
+[^key-0fc793887a4f2b0147680dccb2463feb]: Textual amendment: Sum in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2) substituted (1.4.2025) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2025 (S.S.I. 2025/82)](https://www.legislation.gov.uk/ssi/2025/82), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/82/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2025/82/article/2/b)
+
+[^key-db267bb2cd4b2ea39a4551f85e325419]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) inserted (1.8.2015) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 (S.S.I. 2015/268)](https://www.legislation.gov.uk/ssi/2015/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/268/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/268/article/2/2/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/268/article/1/2))
+
+[^key-bb8442d0339056f893037f611fb18363]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) inserted (1.8.2015) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 (S.S.I. 2015/268)](https://www.legislation.gov.uk/ssi/2015/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/268/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2015/268/article/2/2/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/268/article/1/2))
+
+[^key-16154f7e83cb471c2c0cfe543b0709ac]: Commencement: [Art. 2(1)](https://www.legislation.gov.uk/ssi/2014/196/article/2/1)[(6)](https://www.legislation.gov.uk/ssi/2014/196/article/2/6) in force at 1.8.2014, see [art. 1(1)(a)](https://www.legislation.gov.uk/ssi/2014/196/article/1/1/a)
+
+[^key-c26a5032ec5abae05e743e87a0dc8469]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/ssi/2014/196/article/2/1) substituted (1.8.2023) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2021 (S.S.I. 2021/67)](https://www.legislation.gov.uk/ssi/2021/67), [arts. 1](https://www.legislation.gov.uk/ssi/2021/67/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2021/67/article/2/2/a)
+
+[^key-a9ff07f349063496dac4ecbea56ae438]: Commencement: [Art. 2(2)-(5)](https://www.legislation.gov.uk/ssi/2014/196/article/2/2) in force at 31.10.2014, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2014/196/article/1/b)
+
+[^key-8b90d0c5c0f7fff87a49a306e7d83fc4]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/ssi/2014/196/article/2/6) omitted (1.8.2023) by virtue of [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2021 (S.S.I. 2021/67)](https://www.legislation.gov.uk/ssi/2021/67), [arts. 1](https://www.legislation.gov.uk/ssi/2021/67/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2021/67/article/2/2/b)
+
+[^key-d698d83bb206b8e048c19ea4e7e9fc66]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2014/196/article/3) omitted (1.8.2023) by virtue of [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2021 (S.S.I. 2021/67)](https://www.legislation.gov.uk/ssi/2021/67), [arts. 1](https://www.legislation.gov.uk/ssi/2021/67/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/67/article/2/3)
+
+[^key-0f072ad02d8d8a527fd89a22b87ee9ba]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/196/article/4) in force at 1.8.2014, see [art. 1(1)(a)](https://www.legislation.gov.uk/ssi/2014/196/article/1/1/a)
+
+[^f00009]: Footnote: [S.S.I. 2002/90](https://www.legislation.gov.uk/ssi/2002/90) as amended by [S.S.I. 2007/396](https://www.legislation.gov.uk/ssi/2007/396).
+
+[^f00010]: Footnote: [S.S.I. 2007/396](https://www.legislation.gov.uk/ssi/2007/396).

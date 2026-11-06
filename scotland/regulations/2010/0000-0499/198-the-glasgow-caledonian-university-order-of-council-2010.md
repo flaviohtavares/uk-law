@@ -1,0 +1,527 @@
+---
+title: The Glasgow Caledonian University Order of Council 2010
+id: ssi/2010/198
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2010-05-25'
+text_date: '2020-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2010/198
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2010/198/pdfs/ssien_20100198_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/198/pdfs/ssi_20100198_en.pdf
+- http://www.legislation.gov.uk/ssi/2010/198/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Glasgow Caledonian University Order of Council 2010
+
+> Text as at 2020-10-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2010 No. 198
+
+Education
+
+The Glasgow Caledonian University Order of Council 2010
+
+Made
+
+25th May 2010
+
+Laid before the Scottish Parliament
+
+26th May 2010
+
+Coming into force
+
+*17*th June 2010
+
+At the Council Chamber, Whitehall, the 25th day of May 2010
+
+By the Lords of Her Majesty’s Most Honourable Privy Council
+
+Their Lordships make the following Order in exercise of the powers conferred by sections 45 and 60(3) of the Further and Higher Education (Scotland) Act 1992[^f00001] and all other powers enabling them to do so.
+
+## PART 1 — Citation, commencement and interpretation
+
+### 1. Citation and commencement[^key-3e99f31907e5b8a39ba69a80525385a2]
+
+This Order may be cited as the Glasgow Caledonian University Order of Council 2010 and comes into force on 17th June 2010.
+
+### 2. Interpretation[^key-122ef24e39f66a310b2624516e2a36b2]
+
+In this Order—
+
+- “the 1993 Order” means the Glasgow Caledonian University (Scotland) Order of Council 1993[^f00002];
+- “the 2016 Act” means the Higher Education Governance (Scotland) Act 2016;[^key-65bde76ae48ba8d0edd989ed84235e21]
+- [^key-62d4b8f864c735e954d21c7f4d6a1a15]...
+- “the Act” means the Further and Higher Education (Scotland) Act 1992;
+- “Chair” means the governor referred to in article 10(a);[^key-f1ca1d7a32fc02da637a804736590c2b]
+- “governor” means a member of the University Court referred to in article 10;
+- “the Senate” means the body of persons appointed in accordance with article 30;
+- [^key-62d4b8f864c735e954d21c7f4d6a1a15]...
+- [^key-62d4b8f864c735e954d21c7f4d6a1a15]...
+- “the University” means Glasgow Caledonian University established by the Glasgow Caledonian University (Establishment) (Scotland) Order 1993[^f00003]; and
+- “the University Court” means the University Court of Glasgow Caledonian University constituted by article[^key-de9ce21d62aca91b57a755c9e75cf682] 3 of the 1993 Order and incorporated under section 45(2) of the Act.
+
+## PART 2 — Objects of the University
+
+### 3. Objects of the University[^key-bc6bba00164a11334abab1fe281785b0]
+
+The objects of the University are to advance learning and knowledge through teaching and research and to enable students to obtain the advantages of higher education.
+
+## PART 3 — Functions and Powers of the University Court
+
+### 4. Functions of the University Court[^key-025d4e7c9b183ee114d48eefdccfa978]
+
+(1) The University Court is to conduct the affairs of[^key-f2d149d14a27e31f5d502881ddea6c23] the University, carry out and promote its objects and ensure the sustainability[^key-8b728f9296caa145f638e8cdf2ffe4ca] of the University.
+
+(2) In so doing, the University Court’s responsibilities include—
+
+- (a) overseeing the University’s activities, determining its vision, mission and future direction, fostering an environment in which the University’s objects are achieved and providing strategic input on all material policy or other matters affecting the University (including the adoption and publication of a statement of the primary responsibilities of the University Court);
+- (b) appointing and regulating committees of Governors and, where appropriate, others;
+- (c) setting up departments, schools, faculties and other units of organisation within the University;
+- (d) employing staff and regulating their employment and engaging contractors;
+- (e) appointing a Chancellor as the titular head of the University;
+- (f) appointing a Principal and Vice-Chancellor as the chief academic and executive officer of the University;
+- (g) appointing one or more Vice-Principal and Pro-Vice-Chancellor or office holders of a similar standing[^key-022494d87fdf46724f6dbc6461e4c22f], a Secretary to the University Court and other office holders to have such powers as the University Court considers appropriate;
+- (h) providing facilities to carry on any activities which are necessary or desirable to enable the University to fulfil its objects;
+- (i) establishing and monitoring systems of control and accountability including financial and operational controls and risk assessment; and
+- (j) reviewing and monitoring the management of the University and its performance.
+
+### 5. General powers of the University Court[^key-ed30323da260ebe713bbde0593b540a0]
+
+(1) The University Court has all the rights, powers and privileges necessary or expedient to conduct the affairs of[^key-761f0a2fb35fb3c272ffc00bd2a2cfe0] the University***,*** to carry out or promote its objects and to ensure its well-being.
+
+(2) Without prejudice to the foregoing generality it is in the power of the University Court for the advancement of the objects of the University—
+
+- (a) to form relationships, associations or affiliations with other educational institutions, and such other public and private bodies;
+- (b) to initiate, establish, maintain, acquire or dispose of any companies or any other legal entities, whether charitable or commercial, alone or in association with any other persons or entities;
+- (c) to provide research, design, development, testing, laboratory, consultancy and such other services, in such manner and on such terms and conditions as the University Court may determine;
+- (d) to undertake, acquire or dispose of any trade or business whatsoever;
+- (e) to create and maintain codes of conduct required for the maintenance of standards and good order within the University;
+- (f) to enter into contracts;
+- (g) to acquire, hold and dispose of any undertakings, rights, assets or liabilities;
+- (h) to buy, hold, lease, construct and sell any heritable or moveable property (including stocks, shares, loans and intellectual property rights) and to borrow and to give and take security of all types;
+- (i) to invest University monies and assets as it considers appropriate;
+- (j) to approve student bodies, entities and associations;
+- (k) to create and own intellectual property, and make and own discoveries and inventions of any type and to exploit these commercially;
+- (l) to establish and maintain an alumni association;
+- (m) to employ staff;
+- (n) to sue and be sued in the name of the University;
+- (o) to admit persons to, and manage all aspects of their education at and relationship with, the University and prescribe in its rules the requirements for matriculation and the conditions under which students shall be admitted to the University or to any particular course of study;
+- (p) subject to consultation with the Senate, to grant degrees, diplomas***,*** certificates and other academic awards pursuant to section 48(2) and (3) of the Act to persons who have met the prescribed conditions;
+- (q) subject to consultation with the Senate, to grant fellowships***,*** scholarships, studentships and other distinctions as it deems appropriate provided that all fellowships, scholarships, studentships and other distinctions so granted shall be granted and held subject to prescribed conditions; and
+- (r) subject to consultation with the Senate, to deprive persons of any degrees, diplomas, certificates, fellowships, scholarships, studentships or other awards granted to them by the University Court.
+
+(3) The University Court shall exercise its powers—
+
+- (a) in accordance with the provisions of this Order; and
+- (b) solely to conduct the affairs of[^key-91d166cbe30bc920ce60f594da598311] the University, carry out or promote its objects and ensure its sustainability[^key-2a497d32f70db1acb7deae607b99c37b].
+
+### 6. Financial control and arrangements[^key-44af4468ea59bbd0258e2bd97e491997]
+
+(1) The University Court is to make such arrangements as it considers appropriate for the conduct of the financial affairs of the University.
+
+(2) The University Court must comply with any conditions imposed by the Scottish Further and Higher Education Funding Council for the payment of grant to it.
+
+(3) The University Court may receive donations, legacies, annuities, subscriptions and other gifts to further the objects of the University.
+
+(4) All donations, legacies, annuities, subscriptions and other gifts must be applied in accordance with the directions of the respective testators or donors but in the absence of any specific directions, the University Court may determine the manner in which any such donation, legacy, annuity, subscription or other gift in whole or in part shall be used to further the objects of the University.
+
+(5) The University Court may receive and expend recurrent and capital funds, lend money (with or without security), borrow or raise money, guarantee and give security for the payment of money by the University, the University Court, or any other person, firm, company or body corporate (including any such person or entity associated with the University or University Court).
+
+(6) The University Court must cause accounts to be kept of income and expenditure and shall appoint external auditors to audit these annually.
+
+(7) The University Court may make any borrowing of money or other financial arrangements subject to ancillary contracts, instruments, agreements and other arrangements (including without limitation, any contracts, instruments or agreements relating to hedging arrangements for borrowed monies) intended to protect the University against adverse movements in inflation, interest or currency rates.
+
+(8) The University Court may levy and receive fees for all services, including the provision of courses (whether or not leading to a degree or other academic distinction).
+
+(9) The University Court may reimburse any member of the University Court for their reasonable travel and subsistence expenses.
+
+(10) The University Court must make provision for the remuneration of staff appointed in accordance with articles 27 and 28.
+
+(11) The University Court may make provision for the superannuation of staff and the provision of benefits to them, their spouses, dependants and others.
+
+(12) The University Court must approve a business plan and budget for the University for each 12 month financial period.
+
+### 7. Delegation[^key-9ccdbb5cf5a475d5183545adf17becad]
+
+Subject to article 8, the University Court may delegate any of its functions, powers and duties to any person or body that it considers appropriate, provided that such delegation is approved by a two-thirds majority of the University Court members present at the meeting.
+
+**8.**[^key-97252e021721e6bff7ad4d4d3e7bf568] The University Court may not delegate—
+
+- (a) its responsibility for ensuring the University remains solvent;
+- (b) the approval of strategic direction or significant policy matters affecting the University;
+- (c) the employment arrangements and monitoring of performance of the Principal and Vice-Chancellor[^key-b0c7ad6fa09c4e5b83c0a3e2e1a72389];
+- (ca)[^key-0cb6ebdf35b9668a4dfa6fce7915a6fc] the responsibility for appointing or dismissing the Secretary to the University Court;
+- (d) its role in relation to the variation, amendment or revocation of this Order;
+- (e) the approval of an annual business plan and annual budget;
+- (f) the approval of the strategy for risk management;
+- (g) the review and the monitoring of the management of the University and its performance;
+- (h) the approval of the University’s annual audited accounts; or
+- (i) any matter which is material to—
+  - (i) safeguarding the property, assets or undertaking of the University;
+  - (ii) approving any significant commercial activities involving the University;
+  - (iii) establishing and monitoring systems of control and accountability within the University; or
+  - (iv) strategy for establishing and monitoring of any entity with which the University is involved.
+
+### 9. University rules[^key-72ee6afc185938b2078120019e3d956a]
+
+(1) The University Court may make rules (including those designed as standing orders or regulations) regulating its own procedures and the conduct of the University.
+
+(2) The University Court may vary, revoke and replace such rules.
+
+## PART 4 — Membership of the University Court
+
+### 10. Membership of the University Court[^key-a4e065e2a13f100b173792a6ea044e0f]
+
+The membership of the University Court is to be composed of—
+
+- (a) the Chair, being the person appointed by the University Court to the position of senior lay member by virtue of section 8 of the 2016 Act,
+- (b) the Principal and Vice-Chancellor, being the person appointed by the University Court in accordance with article 27,
+- (c) two governors appointed by being elected by the staff of the University from among their own number,
+- (d) one governor appointed by being elected by the Senate from among the members of the academic staff who are members of the Senate,
+- (e) one governor appointed by being nominated by a trade union from among the academic staff of the University who are members of a branch of a trade union that has a connection with the University in accordance with section 10(2) of the 2016 Act,
+- (f) one governor appointed by being nominated by a trade union from among the support staff of the University who are members of a branch of a trade union that has a connection with the University in accordance with section 10(2) of the 2016 Act,
+- (g) two governors appointed by being nominated by the Students’ Association of the University from among the students of the University,
+- (h) 9 to 17 governors appointed by the University Court from time to time, in accordance with its rules and procedures, with the aim of the membership having the skills and experience that the University Court determines to be relevant, but who may not be members of staff or students of the University.
+
+### 11. Elections to the University Court
+
+(1) The governors referred to in article 10(c) are to be elected in accordance with rules made by the University Court in accordance with section 11 of the 2016 Act.
+
+(2) The governor referred to in article 10(d) is to be elected in accordance with rules made by the University Court after consultation with the Senate.
+
+### 11A. Nominations to the University Court
+
+(1) The governors referred to in articles 10(e), (f) and (g) are to be nominated in accordance with rules made by the University Court in accordance with section 12 of the 2016 Act.
+
+(2) Before making or modifying rules under paragraph (1), the University Court must consult the representatives of anyone with a right of nomination under and affected by the proposed rules or (as the case may be) modification.
+
+### 11B. Appointment of Chair of the University Court
+
+(1) The Chair is to be appointed in accordance with sections 3 to 8 of the 2016 Act and an appointment process prescribed by the University Court.
+
+(2) Subject to article 13, the University Court is to prescribe the duties, responsibilities and terms and conditions of the Chair which may include such remuneration and allowances as the Court considers to be reasonable in accordance with section 9 of the 2016 Act.
+
+### 11C. Appointment and role of Vice-Chair
+
+(1) The University Court is to make rules for the appointment of a Vice-Chair from among the members appointed under article 10(h).
+
+(2) The Vice-Chair is to preside at meetings of the University Court and is to exercise the functions of the Chair in the absence of the Chair or while the position is vacant.
+
+(3) In the absence of both the Chair and the Vice-Chair at any meeting, the governors present may appoint a chair from among the governors appointed under article 10(h) who are present at the meeting.
+
+(4) The Vice-Chair may be removed from office as Vice-Chair in accordance with rules made by the University Court.
+
+### 12. Period of office of governors[^key-2fad101e88d2dc3fb2439de8be7d7156]
+
+The governor appointed under article 10(b) holds office for the duration of that person’s appointment as Principal and Vice-Chancellor.
+
+**13.**[^key-e369ace1d17ce4d0e39aff2c98fb17c4] (1) Subject to the provisions of article 14, the University Court may make rules as to the duration of the term of office of governors appointed under article 10(a) and (c) to (h)[^key-5c250556b67db2d77409888eb0532a8b], and may vary or revoke and replace such rules.
+
+(2) No variation or revocation of rules as to the duration of the term of office of governors may supersede the rules prevailing at the time of a governor’s original appointment [^key-19ba7e8c46195d0d477ff5c67bf8136a]... to the University Court.
+
+(3) Any governor re-appointed [^key-ed9fc0a749a0fc483571e1ea28bf4506]... to the University Court subsequent to a variation or revocation and replacement of the rules as to the duration of the term of office of governors, shall be subject to the rules as varied or replaced.
+
+**14.**[^key-d5a40fbd842ed579043509a40278c253] (1)[^key-f42c6b9e62b1aa90da54c3c71ef496c7] This article applies to the term of office of governors appointed under article 10(a) and (c) to (h).
+
+(1A) A governor is to hold office for an initial term not exceeding 4 years.
+
+(2) A[^key-7fa5460057ef8016d57cf8cfb42ea68c] governor may be re-appointed [^key-cc5c61e7583c2f87a21665572041db43]... on the expiry of his or her term of office unless the aggregate of his or her intended term of office and any previous term of office would result in that governor serving for an overall term of more than 9 years, save in the circumstances described in articles 13(2) and 14(4).
+
+(3) For the purpose of paragraph (2), a governor’s overall term of office shall include any term of office as a governor appointed under article 10(a), (c) to (h) but not any term of office served under article 10(b)[^key-2d18414b0d738989c01b3e1a26df39cd].
+
+(4) The University Court may, where it considers that there are exceptional circumstances, extend the term of office served by a[^key-ca804e4063b6b4c5a974500bfc3552fa] governor by a further period of up to 3 years, provided that the extended term, if aggregated with any previous term of office would not result in that governor serving an overall term of more than 12 years.
+
+**15.**[^key-cb426c4f44ec6884babb97934f9078f0] Where, in the opinion of two thirds of the ordinary membership of the University Court (excluding the governor in question) it is reasonable to do so, the University Court may suspend a governor.
+
+### 16. Resignation and removal of governors[^key-f66640cfd7002267f8db93563573196c]
+
+The University Court may make rules about the procedure for the resignation and removal of governors in accordance with section 13 of the 2016 Act.
+
+### 19. Proceedings of the University Court[^key-6d719d938f4bffaf0340b17bf53e645b]
+
+The University Court shall hold at least four ordinary meetings in each academic year and shall draw up a scheme of standing orders to regulate the conduct of business, the transmission of agenda and minutes, and the rules for calling meetings.
+
+### 20. Reserved areas of business[^key-679d36b925d36da64c25c43cd5655b89]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Conflict of Interest[^key-1808f082d411455d0e4545968797226b]
+
+At any meeting of the University Court, or a committee of the University Court, any governor who has a conflict of interest (as defined in the standing orders made by the University Court) shall withdraw from the whole meeting or the relevant part of the meeting unless invited to remain by the remainder of the University Court or committee.
+
+### 22. Validity of proceedings of University Court[^key-f0ff8c36ea8d8954b7cdc0b14eeee4ed]
+
+No failure or defect in the appointment [^key-1a03a7d6f160bd55b07b96a64b832bf2]... of any governor and no vacancy in the office of governor shall prevent the University Court from acting in the execution of its functions, nor is any act or proceeding of the University Court or of any committee appointed by it invalidated or illegal by reason of or in consequence of any such vacancy or of any such defect in the appointment [^key-1a03a7d6f160bd55b07b96a64b832bf2]... of any one or more governors.
+
+### 23. Responsibilities of governors[^key-d06651a59c07fe903c54e1cf7272ed70]
+
+Governors have a responsibility to adhere to the highest standards of public life.
+
+### 24. Governors as delegates[^key-705d7973867fddb2907eae3a95c7bbf5]
+
+No governor may be bound when speaking or voting at meetings of the University Court by mandates given by others except when acting under approved arrangements as a proxy for another member of the University Court (where the rules or standing orders made by the University Court under article 9 permit a governor to appoint a proxy).
+
+### 25. Appointment of committees[^key-6af54f90b205936ffdca515948ce487e]
+
+(1) The University Court may appoint such committees of its own number as it considers appropriate, and may appoint, as additional members of any committee, persons, not being governors, whom it considers to be specially fitted to assist the work of the committee.
+
+(2) The University may delegate such of its functions to any committee appointed under paragraph (1) in accordance with the provisions of article 7, provided that those functions shall be discharged by such committees subject to the general control and direction of the University Court.
+
+## PART 5 — Administration of the University
+
+### 26. Chancellor and Pro-Chancellors[^key-4f1b6e8e8797a9a67fae81eb7a963dec][^key-ec2dd67fb95bd90d11e9a0817b84aec3]
+
+(1) There is to be a Chancellor of the University appointed in a manner and for a period to be determined by the University Court who is the titular head of the University.
+
+(2) The University Court may from time to time determine the duties, rights and privileges associated with the office of Chancellor.
+
+(3)[^key-f74283e80a2173c2a78a45638a7500a9] The University Court may appoint one or more Pro-Chancellor in a manner and for a period to be determined by the University Court.
+
+(4) Without limitation to article 27, in the absence of the Chancellor, or during a vacancy in that office, a Pro-Chancellor may exercise functions of the Chancellor in accordance with rules made by the University Court.
+
+### 27. Principal and Vice-Chancellor[^key-7bd59f7de9de3ce94b6d4b357b8355dd]
+
+(1) There is to be a Principal of the University who is also the Vice-Chancellor. The Principal and Vice-Chancellor is the chief academic and executive officer of the University. In the absence of the Chancellor or during a vacancy in that office, the Principal and Vice-Chancellor may exercise and perform all the functions of the Chancellor.
+
+(2) The Principal and Vice-Chancellor is[^key-e6fb3c1c9527c02ee594cbe9e7bbf421] to be appointed by the University Court in a manner to be determined by the University Court from time to time.
+
+(3) The Principal and Vice-Chancellor has[^key-cf06052dccb081df5325a1c3dbd389ab] responsibility for the organisation and management of the University and the appointment, promotion and discipline of staff and such other functions as the University Court may delegate to him or her in accordance with article 7, provided that those functions must be discharged by the Principal and Vice-Chancellor subject to the general control and direction of the University Court.
+
+### 28. Staff[^key-850aabbd644210d56ae8460c410637d9]
+
+The University Court may , in discharging its responsibilities under articles 4(2)(d) and (g),[^key-1127c0aaf465cd2b33731a2c944a3b95] after consultation with the Principal and Vice-Chancellor, appoint such Vice-Principals,[^key-c15693f6890ebb36e86a17cb65b9bf69] Pro-Vice-Chancellors, Assistant Principals, a Secretary to the University Court, and such other staff as the University Court may consider necessary for the discharge of its functions.
+
+### 29. Students’ Association[^key-7067ac5f6950e2703c7c2779f9310116]
+
+The University Court must, in consultation with representatives of students attending the University, make a scheme for the constitution and functions of the Students’ Association which scheme must include rules under which that Association is entitled to make representations to the University Court.
+
+## PART 6 — University Senate
+
+### 30. Appointment of Senate[^key-58c021562902e1ce2ad50a1c8e36a56e]
+
+(1) The University Court is to appoint, and maintain by further appointment, a Senate constituted and appointed in accordance with Chapter 2 of Part 1 of the 2016 Act.
+
+(2) The University Court is to make rules relating to the term of office of members of the Senate and the rules may make different provision for different categories of member.
+
+(3) Rules made under paragraph (2) are to prescribe (in particular)—
+
+- (a) terms of office, but no term is to be longer than 4 years, and
+- (b) eligibility for re-appointment.
+
+(4) The Principal and Vice-Chancellor of the University is the chair of the Senate.
+
+### 30A. Functions of the Senate
+
+(1) The University Court is to delegate to the Senate—
+
+- (a) the powers and functions of the University Court relating to the overall planning, co-ordination, development and supervision of the academic work of the University,
+- (b) any other functions of the University Court that the University Court may determine,
+
+provided that all such powers functions of the Senate are subject to the general control and direction of the University Court.
+
+(2) In discharging the functions specified in paragraph (1), the Senate has all the powers and duties of the University Court in relation to those functions and has the power to make any recommendations to the University Court on any matters relating to those functions as the Senate considers appropriate.
+
+### 30B. Proceedings of the Senate
+
+The proceedings of the Senate are to be regulated by rules made by the Senate and approved by the University Court, and the rules—
+
+- (a) must provide for—
+  - (i) the appointment of a Vice-Chair,
+  - (ii) a minimum number of meetings of the Senate each year,
+- (b) may provide for—
+  - (i) the appointment by the Senate of any committees it considers appropriate,
+  - (ii) any other matters connected with the functions of the Senate.
+
+## PART 7 — Saving and transitional provisions and revocation
+
+### 31. Saving and transitional provisions[^key-29d67adb3b73777167c83ff222d76892]
+
+(1) A person who, immediately prior to the commencement of this Order, is a governor by virtue of article 8 or 9 of the 1993 Order continues for the remainder of their period of office as if they had become a governor under article 10.
+
+(2) A person who, immediately prior to the commencement of this Order, is a member of the Senate appointed under article 25 of the 1993 Order continues for the remainder of their period of appointment as if appointed under article 30.
+
+(3) For the avoidance of doubt, nothing in this Order shall affect the constitution of the University Court.
+
+### 32. Revocation of the 1993 Order[^key-3e469e8ca09f647435efffa56e4c7b5d]
+
+The 1993 Order, except article 3 of that Order, is revoked.
+
+Judith Simpson
+
+Clerk of the Privy Council
+
+## SCHEDULE — UNIVERSITY SENATE[^key-2e913f582dd1b70b623e99230d96006a]
+
+**No longer in force.**
+
+Article 30
+
+### PART 1 — Appointment[^key-2e913f582dd1b70b623e99230d96006a]
+
+**1.**[^key-2e913f582dd1b70b623e99230d96006a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-2e913f582dd1b70b623e99230d96006a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^key-2e913f582dd1b70b623e99230d96006a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^key-2e913f582dd1b70b623e99230d96006a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Proceedings[^key-2e913f582dd1b70b623e99230d96006a]
+
+**5.**[^key-2e913f582dd1b70b623e99230d96006a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^key-2e913f582dd1b70b623e99230d96006a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
+This Order replaces all of the provisions of the Glasgow Caledonian University (Scotland) Order of Council 1993 which is revoked.
+
+Part 1 (articles 1 and 2) sets out provision as to commencement and interpretation.
+
+Part 2 (article 3) sets out the objects of the University.
+
+Part 3 (articles 4 to 9) sets out the principal function of the University Court to conduct the University and to carry out and promote its objects. It also provides for the general powers of the University Court and its powers with respect to financial matters, University rules and the delegation of its functions, powers and duties.
+
+Part 4 (articles 10 to 25) sets out the composition, membership and proceedings of the University Court.
+
+Part 5 (articles 26 to 29) sets out the administration of the University. It includes provision for the appointment of a Chancellor and provision for the delegation to the Principal and Vice-Chancellor of responsibility for discharging most of the functions of the University Court relating to the organisation and management of the University (subject to the provisions of articles 7 and 8).
+
+Part 6 (article 30) provides for appointment of the Senate and for delegation to it of the functions of the University Court relating to academic matters.
+
+Part 7 (articles 31 and 32) makes a consequential revocation and makes saving and transitional provisions.
+
+## Annotations
+
+[^f00001]: Footnote: [1992 c.37](https://www.legislation.gov.uk/ukpga/1992/37); to which there are amendments not relevant to this Order.
+
+[^key-3e99f31907e5b8a39ba69a80525385a2]: Commencement: Art. 1 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-122ef24e39f66a310b2624516e2a36b2]: Commencement: Art. 2 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^f00002]: Footnote: [S.I. 1993/556](https://www.legislation.gov.uk/uksi/1993/556).
+
+[^key-65bde76ae48ba8d0edd989ed84235e21]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2010/198/article/2) inserted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/172/article/2/2/a)
+
+[^key-62d4b8f864c735e954d21c7f4d6a1a15]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2010/198/article/2) omitted (1.10.2020) by virtue of [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/172/article/2/2/b)
+
+[^key-f1ca1d7a32fc02da637a804736590c2b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2010/198/article/2) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2020/172/article/2/2/c)
+
+[^f00003]: Footnote: [S.I. 1993/423](https://www.legislation.gov.uk/uksi/1993/423).
+
+[^key-de9ce21d62aca91b57a755c9e75cf682]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2010/198/article/2) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2020/172/article/2/2/d)
+
+[^key-bc6bba00164a11334abab1fe281785b0]: Commencement: Art. 3 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-025d4e7c9b183ee114d48eefdccfa978]: Commencement: Art. 4 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-f2d149d14a27e31f5d502881ddea6c23]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/ssi/2010/198/article/4/1) inserted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2020/172/article/2/3/a/i)
+
+[^key-8b728f9296caa145f638e8cdf2ffe4ca]: Textual amendment: Word in [art. 4(1)](https://www.legislation.gov.uk/ssi/2010/198/article/4/1) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/172/article/2/3/a/ii)
+
+[^key-022494d87fdf46724f6dbc6461e4c22f]: Textual amendment: Words in [art. 4(2)(g)](https://www.legislation.gov.uk/ssi/2010/198/article/4/2/g) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2020/172/article/2/3/b)
+
+[^key-ed30323da260ebe713bbde0593b540a0]: Commencement: Art. 5 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-761f0a2fb35fb3c272ffc00bd2a2cfe0]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/ssi/2010/198/article/5/1) inserted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/172/article/2/4/a)
+
+[^key-91d166cbe30bc920ce60f594da598311]: Textual amendment: Words in [art. 5(3)(b)](https://www.legislation.gov.uk/ssi/2010/198/article/5/3/b) inserted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/172/article/2/4/a)
+
+[^key-2a497d32f70db1acb7deae607b99c37b]: Textual amendment: Word in [art. 5(3)(b)](https://www.legislation.gov.uk/ssi/2010/198/article/5/3/b) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/172/article/2/4/b)
+
+[^key-44af4468ea59bbd0258e2bd97e491997]: Commencement: Art. 6 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-9ccdbb5cf5a475d5183545adf17becad]: Commencement: Art. 7 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-97252e021721e6bff7ad4d4d3e7bf568]: Commencement: Art. 8 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-b0c7ad6fa09c4e5b83c0a3e2e1a72389]: Textual amendment: Words in [art. 8(c)](https://www.legislation.gov.uk/ssi/2010/198/article/8/c) inserted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2020/172/article/2/5/a)
+
+[^key-0cb6ebdf35b9668a4dfa6fce7915a6fc]: Textual amendment: [Art. 8(ca)](https://www.legislation.gov.uk/ssi/2010/198/article/8/ca) inserted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2020/172/article/2/5/b)
+
+[^key-72ee6afc185938b2078120019e3d956a]: Commencement: Art. 9 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-a4e065e2a13f100b173792a6ea044e0f]: Textual amendment: [Arts. 10-11C](https://www.legislation.gov.uk/ssi/2010/198/article/10) substituted for arts. 10, 11 (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/172/article/2/6) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/172/article/3))
+
+[^key-2fad101e88d2dc3fb2439de8be7d7156]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/ssi/2010/198/article/12) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/172/article/2/7)
+
+[^key-e369ace1d17ce4d0e39aff2c98fb17c4]: Commencement: Art. 13 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-5c250556b67db2d77409888eb0532a8b]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/ssi/2010/198/article/13/1) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2020/172/article/2/8/a)
+
+[^key-19ba7e8c46195d0d477ff5c67bf8136a]: Textual amendment: Words in [art. 13(2)](https://www.legislation.gov.uk/ssi/2010/198/article/13/2) omitted (1.10.2020) by virtue of [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2020/172/article/2/8/b)
+
+[^key-ed9fc0a749a0fc483571e1ea28bf4506]: Textual amendment: Words in [art. 13(3)](https://www.legislation.gov.uk/ssi/2010/198/article/13/3) omitted (1.10.2020) by virtue of [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(8)(c)](https://www.legislation.gov.uk/ssi/2020/172/article/2/8/c)
+
+[^key-d5a40fbd842ed579043509a40278c253]: Commencement: Art. 14 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-f42c6b9e62b1aa90da54c3c71ef496c7]: Textual amendment: [Art. 14(1)](https://www.legislation.gov.uk/ssi/2010/198/article/14/1)[(1A)](https://www.legislation.gov.uk/ssi/2010/198/article/14/1A) substituted for [art. 14(1)](https://www.legislation.gov.uk/ssi/2010/198/article/14/1) (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2020/172/article/2/9/a)
+
+[^key-7fa5460057ef8016d57cf8cfb42ea68c]: Textual amendment: Word in [art. 14(2)](https://www.legislation.gov.uk/ssi/2010/198/article/14/2) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(9)(b)(i)](https://www.legislation.gov.uk/ssi/2020/172/article/2/9/b/i)
+
+[^key-cc5c61e7583c2f87a21665572041db43]: Textual amendment: Words in [art. 14(2)](https://www.legislation.gov.uk/ssi/2010/198/article/14/2) omitted (1.10.2020) by virtue of [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/172/article/2/9/b/ii)
+
+[^key-2d18414b0d738989c01b3e1a26df39cd]: Textual amendment: Words in [art. 14(3)](https://www.legislation.gov.uk/ssi/2010/198/article/14/3) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(9)(c)](https://www.legislation.gov.uk/ssi/2020/172/article/2/9/c)
+
+[^key-ca804e4063b6b4c5a974500bfc3552fa]: Textual amendment: Word in [art. 14(4)](https://www.legislation.gov.uk/ssi/2010/198/article/14/4) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(9)(d)](https://www.legislation.gov.uk/ssi/2020/172/article/2/9/d)
+
+[^key-cb426c4f44ec6884babb97934f9078f0]: Commencement: Art. 15 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-f66640cfd7002267f8db93563573196c]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/ssi/2010/198/article/16) substituted for arts. 16-18 (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(10)](https://www.legislation.gov.uk/ssi/2020/172/article/2/10)
+
+[^key-6d719d938f4bffaf0340b17bf53e645b]: Commencement: Art. 19 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-679d36b925d36da64c25c43cd5655b89]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/ssi/2010/198/article/20) omitted (1.10.2020) by virtue of [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(11)](https://www.legislation.gov.uk/ssi/2020/172/article/2/11)
+
+[^key-1808f082d411455d0e4545968797226b]: Commencement: Art. 21 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-f0ff8c36ea8d8954b7cdc0b14eeee4ed]: Commencement: Art. 22 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-1a03a7d6f160bd55b07b96a64b832bf2]: Textual amendment: Words in [art. 22](https://www.legislation.gov.uk/ssi/2010/198/article/22) omitted (1.10.2020) by virtue of [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(12)](https://www.legislation.gov.uk/ssi/2020/172/article/2/12)
+
+[^key-d06651a59c07fe903c54e1cf7272ed70]: Commencement: Art. 23 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-705d7973867fddb2907eae3a95c7bbf5]: Commencement: Art. 24 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-6af54f90b205936ffdca515948ce487e]: Commencement: Art. 25 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-4f1b6e8e8797a9a67fae81eb7a963dec]: Commencement: Art. 26 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-ec2dd67fb95bd90d11e9a0817b84aec3]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/ssi/2010/198/article/26) heading substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(13)(b)](https://www.legislation.gov.uk/ssi/2020/172/article/2/13/b)
+
+[^key-f74283e80a2173c2a78a45638a7500a9]: Textual amendment: [Art. 26(3)](https://www.legislation.gov.uk/ssi/2010/198/article/26/3)[(4)](https://www.legislation.gov.uk/ssi/2010/198/article/26/4) inserted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(13)(a)](https://www.legislation.gov.uk/ssi/2020/172/article/2/13/a)
+
+[^key-7bd59f7de9de3ce94b6d4b357b8355dd]: Commencement: Art. 27 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-e6fb3c1c9527c02ee594cbe9e7bbf421]: Textual amendment: Word in [art. 27(2)](https://www.legislation.gov.uk/ssi/2010/198/article/27/2) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(14)(a)](https://www.legislation.gov.uk/ssi/2020/172/article/2/14/a)
+
+[^key-cf06052dccb081df5325a1c3dbd389ab]: Textual amendment: Word in [art. 27(3)](https://www.legislation.gov.uk/ssi/2010/198/article/27/3) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(14)(b)](https://www.legislation.gov.uk/ssi/2020/172/article/2/14/b)
+
+[^key-850aabbd644210d56ae8460c410637d9]: Commencement: Art. 28 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-1127c0aaf465cd2b33731a2c944a3b95]: Textual amendment: Words in [art. 28](https://www.legislation.gov.uk/ssi/2010/198/article/28) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(15)(a)](https://www.legislation.gov.uk/ssi/2020/172/article/2/15/a)
+
+[^key-c15693f6890ebb36e86a17cb65b9bf69]: Textual amendment: Word in [art. 28](https://www.legislation.gov.uk/ssi/2010/198/article/28) substituted (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(15)(b)](https://www.legislation.gov.uk/ssi/2020/172/article/2/15/b)
+
+[^key-7067ac5f6950e2703c7c2779f9310116]: Commencement: Art. 29 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-58c021562902e1ce2ad50a1c8e36a56e]: Textual amendment: [Arts. 30-30B](https://www.legislation.gov.uk/ssi/2010/198/article/30) substituted for [art. 30](https://www.legislation.gov.uk/ssi/2010/198/article/30) (1.10.2020) by [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(16)](https://www.legislation.gov.uk/ssi/2020/172/article/2/16)
+
+[^key-29d67adb3b73777167c83ff222d76892]: Commencement: Art. 31 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-3e469e8ca09f647435efffa56e4c7b5d]: Commencement: Art. 32 in force at 17.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/198/article/1)
+
+[^key-2e913f582dd1b70b623e99230d96006a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2010/198/schedule) omitted (1.10.2020) by virtue of [The Glasgow Caledonian University Amendment Order of Council 2020 (S.S.I. 2020/172)](https://www.legislation.gov.uk/ssi/2020/172), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/172/article/1/1), [2(17)](https://www.legislation.gov.uk/ssi/2020/172/article/2/17)

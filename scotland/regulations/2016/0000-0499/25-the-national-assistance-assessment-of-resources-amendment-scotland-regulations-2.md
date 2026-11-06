@@ -1,0 +1,79 @@
+---
+title: The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2016
+id: ssi/2016/25
+type: ScottishStatutoryInstrument
+category: secondary
+status: repealed
+made_date: '2016-01-14'
+text_date: '2016-04-03'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2016/25
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2016/25/pdfs/ssipn_20160025_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/25/pdfs/ssi_20160025_en.pdf
+- http://www.legislation.gov.uk/ssi/2016/25/data.pdf
+pending_changes: 0
+repealed_on: unknown
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2016
+
+> This law has been repealed or revoked.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+**No longer in force.**
+
+2016 No. 25
+
+National Assistance Services
+
+The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2016 (revoked)[^key-beac22059e12a34fa254b40cf532eafa]
+
+Made
+
+14th January 2016
+
+Laid before the Scottish Parliament
+
+18th January 2016
+
+Coming into force
+
+4th April 2016
+
+[^key-beac22059e12a34fa254b40cf532eafa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 1. Citation, commencement and extent[^key-beac22059e12a34fa254b40cf532eafa]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 2. Amendment of Schedule 3 to the National Assistance (Assessment of Resources) Regulations 1992[^key-beac22059e12a34fa254b40cf532eafa]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Revocation[^key-beac22059e12a34fa254b40cf532eafa]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^key-beac22059e12a34fa254b40cf532eafa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**May not be in force at this date. Check the source.**
+
+[^key-beac22059e12a34fa254b40cf532eafa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-beac22059e12a34fa254b40cf532eafa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2016/25) revoked (3.4.2016) by [The National Assistance (Assessment of Resources) Amendment (Scotland) (No. 2) Regulations 2016 (S.S.I. 2016/80)](https://www.legislation.gov.uk/ssi/2016/80), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/80/regulation/1), [3(1)](https://www.legislation.gov.uk/ssi/2016/80/regulation/3)

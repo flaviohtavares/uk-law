@@ -1,0 +1,421 @@
+---
+title: The Honey (Scotland) Regulations 2015
+id: ssi/2015/208
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2015-05-21'
+text_date: '2023-10-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2015/208
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2015/208/pdfs/ssipn_20150208_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/208/pdfs/ssi_20150208_en.pdf
+- http://www.legislation.gov.uk/ssi/2015/208/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Honey (Scotland) Regulations 2015
+
+> Text as at 2023-10-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2015 No. 208
+
+Food
+
+The Honey (Scotland) Regulations 2015
+
+Made
+
+21st May 2015
+
+Laid before the Scottish Parliament
+
+26th May 2015
+
+Coming into force
+
+24th June 2015
+
+[^c22581131][^c22581141][^c22581151][^c22581161][^c22581171]The Scottish Ministers, in exercise of the powers conferred by sections 6(4) , 16(1)(a) and (e) , 17(1) , 26(1) and (3) and 48(1) of the Food Safety Act 1990 and all other powers enabling them to do, make the following Regulations.
+
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22581181], during the preparation and evaluation of the following Regulations.[^key-45a3db26fc86c1e3b31249ec53dc01ea]
+
+## 1. Citation, application and commencement
+
+(1) These Regulations may be cited as the Honey (Scotland) Regulations 2015 and apply in Scotland only.
+
+(2) These Regulations come into force on 24th June 2015.
+
+## 2. General interpretation
+
+(1) In these Regulations—
+
+- “**the Act**” means the Food Safety Act 1990;
+- “**bulk containers**” has the same meaning as in Article 3 of the Honey Directive;
+- “**FIC**” means Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission Directive [87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council Directive [90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission Directive [1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and Commission Regulation [(EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608) [^c22581191];
+- “**food authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c22581201]”;
+- “**Honey Directive**” means Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey [^c22581211];
+- “**ingredient**” has the meaning given in Article 2(2)(f) of FIC, as read with Article 2(5) of the Honey Directive;
+- “**in trade**” has the same meaning as in the Honey Directive and “trade in” and “trading in” are to be construed accordingly;
+- “[^key-ccf382843204e4c0bf12dbb55e0da694]**trading bloc**” means a group of nations united by trade agreements,
+- “**labelling**” has the meaning given in Article 2(2)(j) of FIC;
+- “**packs**” has the same meaning as in Article 3 of the Honey Directive;
+- “**trade documents**” has the same meaning as in Article 3 of the Honey Directive; and
+- “**specific quality criteria**” has the same meaning as in the third indented paragraph of paragraph (b) of the second sub-paragraph of point 2 of Article 2 of the Honey Directive.
+
+(2) Any other expression used in these Regulations has the same meaning as in the Honey Directive.
+
+## 3. Definition of “honey” and different types of honey
+
+In these Regulations—
+
+- “**honey**” means the natural sweet substance produced by *Apis mellifera* bees from the nectar of plants or from secretions of living parts of plants or excretions of plant-sucking insects on the living parts of plants, which the bees collect, transform by combining with specific substances of their own, deposit, dehydrate, store and leave in honeycombs to ripen and mature.
+- “**baker's honey**” means honey that is suitable for industrial use or as an ingredient in another foodstuff which is then processed;
+- “blossom honey” and “nectar honey” mean honey obtained from the nectar of plants;
+- “chunk honey” and “cut comb in honey” mean honey which contains one or more pieces of comb honey;
+- “**comb honey**” means honey stored by bees in the cells of freshly built broodless combs or thin comb foundation sheets made solely of beeswax and sold in sealed whole combs or sections of such combs;
+- “**drained honey**” means honey obtained by draining de-capped broodless combs;
+- “**extracted honey**” means honey obtained by centrifuging de-capped broodless combs;
+- “**filtered honey**” means honey obtained by removing foreign inorganic or organic matters in such a way to result in the significant removal of pollen;
+- “**honeydew honey**” means honey obtained mainly from excretions of plant sucking insects (*Hemiptera*)on the living part of plants or secretions of living parts of plants; and
+- “**pressed honey**” means honey obtained by pressing broodless combs with or without the application of moderate heat not exceeding 45° Celsius.
+
+## 4. Application of the naming requirements
+
+Where two or more provisions of these Regulations apply in determining the name to be used in trade in respect of a particular honey, a person trading in that honey must use a name or combination name which complies with the requirements of each of those provisions.
+
+## 5. Honey
+
+(1) A person trading in honey, except honey listed in paragraph (2), must use the name “honey” in trade as the name of the product.
+
+(2) This paragraph applies to—
+
+- (a) baker's honey;
+- (b) comb honey;
+- (c) filtered honey;
+- (d) chunk honey; and
+- (e) cut comb in honey.
+
+(3) A person must not use the name “honey” in trade as the name of a product if the product is not honey or is listed in paragraph (2).
+
+## 6. Baker's honey
+
+(1) A person trading in baker's honey must use the name “baker's honey”, in trade, as the name of the product.
+
+(2) A person must not use the name “baker's honey” in trade as the name of a product if the product is not baker's honey.
+
+(3) A person trading in baker's honey must not provide information relating to the floral, vegetable, regional, territorial or topographical origin of the product.
+
+(4) A person trading in baker's honey must not provide information relating to specific quality criteria for the product.
+
+(5) A person must not trade in baker's honey unless the words “intended for cooking only” appear on the label of the product in close proximity to the product name.
+
+(6) A person must not trade in baker's honey in bulk containers or packs unless the product name “baker's honey” is indicated—
+
+- (a) on those containers and packs; and
+- (b) on the trade documents relating to the product.
+
+(7) Where baker's honey is used as an ingredient in a compound foodstuff, the product name “honey” may be used, in trade, in the product name of the compound foodstuff instead of “baker's honey”.
+
+(8) Where baker's honey is used as an ingredient in a compound foodstuff and the name “honey” is used in the product name of the compound foodstuff, a person must not trade in that foodstuff unless the list of ingredients for that foodstuff identifies that honey ingredient using the name “baker's honey”.
+
+## 7. Blossom honey and nectar honey
+
+(1) A person trading in a honey obtained from the nectar of plants must use the name “honey”, “blossom honey” or “nectar honey” in trade as the name of the product.
+
+(2) A person must not use the name “blossom honey” or “nectar honey” in trade as the name of a product if the product is not honey obtained from the nectar of plants.
+
+## 8. Chunk honey and cut comb in honey
+
+(1) A person trading in a honey that contains one or more pieces of comb honey must use the name “chunk honey” or “cut comb in honey” in trade as the name of the product.
+
+(2) A person must not use the name “chunk honey” or “cut comb in honey” in trade as the name of a product if the product does not contain one or more pieces of comb honey.
+
+## 9. Comb honey
+
+(1) A person trading in a comb honey must use the name “comb honey” in trade as the name of the product.
+
+(2) A person must not use the name “comb honey” in trade as the name of a product if the product is not comb honey.
+
+## 10. Drained honey
+
+(1) A person trading in drained honey must use the name “honey” or “drained honey” in trade as the name of the product.
+
+(2) A person must not use the name “drained honey” in trade as the name of a product if the product is not drained honey.
+
+## 11. Extracted honey
+
+(1) A person trading in extracted honey must use the name “honey” or “extracted honey” in trade as the name of the product.
+
+(2) A person must not use the name “extracted honey” in trade as the name of a product if the product is not extracted honey.
+
+## 12. Filtered honey
+
+(1) A person trading in filtered honey must use the name “filtered honey” in trade as the name of the product.
+
+(2) A person must not use the name “filtered honey” in trade as the name of a product if the product is not filtered honey.
+
+(3) A person trading in filtered honey must not provide information relating to the floral, vegetable, regional, territorial or topographical origin of the product.
+
+(4) A person trading in filtered honey must not provide information relating to specific quality criteria for the product.
+
+(5) A person must not trade in filtered honey in bulk containers or packs unless the product name “filtered honey” is clearly indicated—
+
+- (a) on those containers and packs; and
+- (b) on the trade documents relating to the product.
+
+## 13. Honeydew honey
+
+(1) A person trading in a honeydew honey must use the name “honey” or “honeydew honey” in trade as the name of the product.
+
+(2) A person must not use the name “honeydew honey” in trade as the name of a product if the product is not honeydew honey.
+
+## 14. Pressed honey
+
+(1) A person trading in pressed honey must use the name “honey” or “pressed honey” in trade as the name of the product.
+
+(2) A person must not use the name “pressed honey” in trade as the name of a product if the product is not pressed honey.
+
+## 15. Compositional requirements
+
+(1) A person must not place any product on the market as “honey” unless it meets the general and appropriate detailed compositional criteria for “honey” specified in Parts 1 and 2 of the Schedule (compositional criteria).
+
+(2) A person must not place any product on the market using a product name listed in paragraph (5) unless it meets the general and appropriate detailed compositional criteria for that type of honey specified in Parts 1 and 2 of the Schedule.
+
+(3) A person must not use a product (“the honey ingredient”) as “honey” in a product intended to be placed on the market for human consumption unless the honey ingredient meets the general and appropriate detailed compositional criteria for “honey” specified in Parts 1 and 2 of the Schedule.
+
+(4) A person must not use a product (“the honey ingredient”) as honey of a type listed in one of the sub-paragraphs of paragraph (5) in a product intended to be placed on the market for human consumption unless the honey ingredient meets the general and appropriate detailed compositional criteria for that type of honey specified in Parts 1 and 2 of the Schedule.
+
+(5) The product names and types of honey are—
+
+- (a) baker's honey;
+- (b) blossom honey;
+- (c) chunk honey;
+- (d) comb honey;
+- (e) cut comb in honey;
+- (f) drained honey;
+- (g) extracted honey;
+- (h) filtered honey;
+- (i) honeydew honey;
+- (j) nectar honey; and
+- (k) pressed honey.
+
+## 16. Additional labelling requirements
+
+(1)[^key-a14e01a65d5952a2f68a2691ddebc8ea] No person may trade in honey unless the country or countries of origin where the honey has been harvested is indicated on the label except that if the honey originates in more than one country, the countries may be replaced with one of the following indications (or similar wording) as appropriate—
+
+“blends of honeys from more than one country”,
+
+“blend of honeys from (*insert name of a specified continent or trading bloc*)”,
+
+“blend of honeys from outwith (*insert name of a specified continent or trading bloc*)”,
+
+“blend of honeys from (*insert name of a specified country*) and (*other countries*)”,
+
+“blend of honeys from (*insert name of a specified continent or trading bloc)* and outwith *(insert name of a specified continent or trading bloc*)”, or
+
+“blend of honeys from (*insert name of a specified country or specified continent or trading bloc)* and (*other countries*”).
+
+(2) In paragraphs (3) to (5), “**relevant honey**” means honey except for baker's honey and filtered honey.
+
+(3) The product name of a relevant honey may be supplemented by information relating to its floral or vegetable origin but no person may trade in a relevant honey for which such supplemental information is provided unless the product comes wholly or mainly from the indicated source and possesses the organoleptic, physico-chemical and microscopic characteristics of the source.
+
+(4) The product name of a relevant honey may be supplemented by information relating to its regional, territorial or topographical origin but no person may trade in a relevant honey for which such supplemental information is provided unless the product comes entirely from the indicated origin.
+
+(5) The product name of a relevant honey may be supplemented by information relating to its specific quality criteria.
+
+## 17. Penalties and Enforcement
+
+(1) Any person who contravenes regulations 4 to 16 of these Regulations is guilty of an offence.
+
+(2) Any person found guilty of an offence under paragraph (1) shall be liable on summary conviction to a fine not exceeding level five on the standard scale.
+
+(3) Each food authority must enforce and execute these Regulations in its area.
+
+## 17A. Methods of analysis[^key-406075b70fe246a9c05a3bf8e8f4fed2]
+
+In carrying out its obligations under regulation 17, a food authority must, whenever possible, use internationally recognised validated methods of analysis such as those approved by the Codex Alimentarius.
+
+## 18. Application and modification of provisions of the Act
+
+(1) Sections 3, 20, 21, 30(8), 33, 35(1), 36, 36A and 44 of the Act apply, with the modifications specified in paragraph (2), for the purposes of these Regulations.
+
+(2) The modifications are—
+
+- (a) in section 3(1) (presumptions that food is intended for human consumption) for “this Act” substitute “ the Honey (Scotland) Regulations 2015 ”;
+- (b) in section 20 (offences due to fault of another person) for “any of the preceding provisions of this Part” substitute “ regulation 17 of Honey (Scotland) Regulations 2015 ”;
+- (c) in section 21 (defence of due diligence) [^c22581221]—
+  - (i) in subsection (1) for “any of the preceding provisions of this Part” substitute “ regulation 17 of the Honey (Scotland) Regulations 2015 ”; and
+  - (ii) subsections (2) to (4) apply in relation to an offence under regulation 17 as they apply in relation to an offence under section 8, 14 or 15 of the Act;
+- (d) in section 30(8) (evidence of certificates given by a food analyst or examiner) for “this Act” substitute “ the Honey (Scotland) Regulations 2015 ”;
+- (e) in section 33(1) (obstruction etc. of officers) for “this Act” (in each place where it occurs) substitute “ the Honey Regulations (Scotland) 2015 ”;
+- (f) in section 35(1) (punishment of offences) for “section 33(1)” substitute “ the Honey (Scotland) Regulations 2015 ”;
+- (g) in section 36(1) (offences by bodies corporate) for “this Act” substitute “ the Honey (Scotland) Regulations 2015 ”;
+- (h) in section 36A(1) (offences by Scottish partnerships) [^c22581231] for “this Act” substitute “ the Honey (Scotland) Regulations 2015 ”; and
+- (i) in section 44 (protection of officers acting in good faith) for “this Act” substitute “ the Honey (Scotland) Regulations 2015 ”.
+
+## 19. Revocations
+
+The Honey (Scotland) Regulations 2003 [^c22581241] and the Honey (Scotland) Amendments Regulations 2005 [^c22581251] are revoked.
+
+## 20. Amendment of the Food Information (Scotland) Regulations 2014
+
+Omit paragraph 10 of Schedule 5 to the Food Information (Scotland) Regulations 2014 [^c22581261].
+
+## 21. Transitional provision
+
+In any proceedings for an offence under these Regulations it is a defence for the person charged to prove that—
+
+- (a) the product was placed on the market or labelled before 24th June 2015; and
+- (b) the matters constituting the alleged contravention would not have constituted an offence under the Honey (Scotland) Regulations 2003 as they stood immediately before 24th June 2015.
+
+MAUREEN WATT
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE — Compositional criteria
+
+Regulation 15
+
+### PART 1 — General compositional criteria
+
+**1.** The honey consists essentially of different sugars, predominantly fructose and glucose as well as other substances such as organic acids, enzymes and solid particles derived from honey collection.
+
+**2.** The colour varies from nearly colourless to dark brown.
+
+**3.** The consistency can be fluid, viscous or partly or entirely crystallised.
+
+**4.** The flavour and aroma vary but are derived from the plant origin.
+
+**5.** No food ingredient has been added, including any food additive.
+
+**6.** No other additions have been made to the honey except for other honey.
+
+**7.** It must, as far as possible, be free from organic or inorganic matters foreign to its composition.
+
+**8.** It must not—
+
+- (a) have any foreign tastes or odours;
+- (b) have begun to ferment;
+- (c) have an artificially changed acidity;
+- (d) have been heated in such a way that the natural enzymes have been either destroyed or significantly inactivated.
+
+**9.** Paragraph 8 does not apply to baker's honey.
+
+**10.** No pollen or constituent particular to honey may be removed except where this is unavoidable in the removal of foreign inorganic or organic matter.
+
+**11.** Paragraph 10 does not apply to filtered honey.
+
+### PART 2 — Detailed compositional criteria
+
+<table>
+<tbody>
+<tr><th><em>Criteria</em></th><th><em>Amount</em></th></tr>
+<tr><th colspan="2"><strong>Sugar content</strong></th></tr>
+<tr><td colspan="2"><strong>1.</strong>—(1) Fructose and glucose content (sum of both)—</td></tr>
+<tr><td>(a) blossom honey</td><td>not less than 60g/100g</td></tr>
+<tr><td>(b) honeydew honey and a blend of honeydew honey with blossom honey</td><td>not less than 45g/100g</td></tr>
+<tr><td colspan="2">(2) Sucrose content—</td></tr>
+<tr><td>(a) all honey except for honey to which paragraph (b) or (c) applies</td><td>not more than 5g/100g</td></tr>
+<tr><td>(b) false acacia (<em>Robinia pseudoacacia</em>) honey, alfalfa (<em>Medicago sativa</em>) honey, Menzies Banksia (<em>Banksia menziesii</em>) honey, French honeysuckle (<em>Hedysarum</em>) honey, red gum (<em>Eucalyptus camadulensis</em>) honey, leatherwood (<em>Eucryphia lucida, Eucryphia milliganii</em>) honey, <em>Citrus</em> spp. honey</td><td>not more than 10g/100g</td></tr>
+<tr><td>(c) lavender (<em>Lavandula</em> spp.) honey, borage (<em>Borago officinalis</em>) honey</td><td>not more than 15g/100g</td></tr>
+<tr><th colspan="2"><strong>Moisture content</strong></th></tr>
+<tr><td colspan="2"><strong>2</strong>. Moisture content—</td></tr>
+<tr><td>(a) all honey except for honey to which paragraph (b), (c) or (d) applies</td><td>not more than 20%</td></tr>
+<tr><td>(b) honey from heather (<em>Calluna</em>)</td><td>not more than 23%</td></tr>
+<tr><td>(c) baker's honey except for baker's honey from heather (<em>Calluna</em>)</td><td>not more than 23%</td></tr>
+<tr><td>(d) baker's honey from heather (<em>Calluna</em>)</td><td>not more than 25%</td></tr>
+<tr><td colspan="2"><strong>Water-insoluble content</strong></td></tr>
+<tr><td colspan="2"><strong>3.</strong> Water-insoluble content—</td></tr>
+<tr><td>(a) all honey except pressed honey</td><td>not more than 0.1g/100g</td></tr>
+<tr><td>(b) pressed honey</td><td>not more than 0.5g/100g</td></tr>
+<tr><td colspan="2"><strong>Electrical conductivity</strong></td></tr>
+<tr><td><strong>4.</strong> Electrical conductivity—</td><td></td></tr>
+<tr><td>(a) all honey except for bell heather (<em>Erica</em>) honey, chestnut honey, eucalyptus honey, honeydew honey, lime (<em>Tilia</em> spp.) honey, ling heather (<em>Calluna vulgaris</em>) honey, manuka or jelly bush (<em>Leptospermum</em>) honey, strawberry tree (<em>Arbutus unedo</em>) honey and tea tree (<em>Melaleuca</em> spp.) honey</td><td>not more than 0.8mS/cm</td></tr>
+<tr><td>(b) blends of honeys to which paragraph (a) applies</td><td>not more than 0.8mS/cm</td></tr>
+<tr><td>(c) honeydew honey</td><td>not less than 0.8mS/cm</td></tr>
+<tr><td>(d) blends of honeydew honey except blends of that honey with bell heather (<em>Erica</em>) honey, eucalyptus honey, lime (<em>Tilia</em> spp.) honey, ling heather (<em>Calluna vulgaris</em>) honey, manuka or jelly bush (<em>Leptospermum</em>) honey, strawberry tree (<em>Arbutus unedo</em>) honey and tea tree (<em>Melaleuca</em> spp.) honey</td><td>not less than 0.8mS/cm</td></tr>
+<tr><td>(e) chestnut honey</td><td>not less than 0.8mS/cm</td></tr>
+<tr><td>(f) blends of chestnut honey except blends of that honey with bell heather (<em>Erica</em>) honey, eucalyptus honey, lime (<em>Tilia</em> spp.) honey, ling heather (<em>Calluna vulgaris</em>) honey, manuka or jelly bush (<em>Leptospermum</em>) honey, strawberry tree (<em>Arbutus unedo</em>) honey and tea tree (<em>Melaleuca</em> spp.) honey</td><td>not less than 0.8mS/cm</td></tr>
+<tr><td colspan="2"><strong>Free acid</strong></td></tr>
+<tr><td colspan="2"><strong>5</strong>. Free acid—</td></tr>
+<tr><td>(a) all honey except for baker's honey</td><td>not more than 50 milli-equivalents acid per 1,000 grams</td></tr>
+<tr><td>(b) baker's honey</td><td>not more than 80 milli-equivalents acid per 1,000 grams</td></tr>
+<tr><td colspan="2"><strong>Diastase activity and hydroxymethylfurfural content</strong></td></tr>
+<tr><td><strong>6</strong>. Diastase activity and hydroxymethylfurfural content (HMF) determined after processing and blending—</td><td></td></tr>
+<tr><td colspan="2">(a) diastase activity (Schade scale)—</td></tr>
+<tr><td>(i) all honey except baker's honey and honey to which sub-paragraph (ii) applies</td><td>not less than 8</td></tr>
+<tr><td>(ii) honey with a low natural enzyme content (e.g. citrus honey) and an HMF content of not more than 15mg/kg</td><td>not less than 3</td></tr>
+<tr><td colspan="2">(b) HMF—</td></tr>
+<tr><td>(i) all honey except baker's honey and honey to which sub-paragraph (ii) applies</td><td>not more than 40mg/kg</td></tr>
+<tr><td>(ii) honey of a declared origin from a region with a tropical climate and blends of these honeys</td><td>not more than 80mg/kg</td></tr>
+</tbody>
+</table>
+
+*(This note is not part of the Regulations)*
+
+These Regulations, which apply in Scotland, implement Council Directive [2001/110/EC](https://www.legislation.gov.uk/european/directive/2001/0110) relating to honey (OJ No L 10, 12.1.2002, p.47) as amended by European Parliament and Council Directive 2014/631/EU relating to honey (OJ No L 164, 3.6.2014, p.1). They revoke and replace the Honey (Scotland) Regulations 2003 (S.S.I. 2003/569) as amended by the Honey (Scotland) Amendment Regulations 2005 (S.S.I. 2005/307).
+
+The Regulations regulate the labelling of honey, and the use of the names “honey” (regulation 5), “baker's honey” (regulation 6), “blossom honey” and “nectar honey” (regulation 7), “chunk honey” and “cut comb in honey” (regulation 8), “comb honey” (regulation 9) “drained honey” (regulation 10), “extracted honey” (regulation 11), “filtered honey” (regulation 12), “honeydew honey” (regulation 13) and “pressed honey” (regulation 14).
+
+Regulation 15 and the Schedule prescribe compositional criteria with which these products must comply when placed on the market as honey and when used as honey as an ingredient in a compound foodstuff that is placed on the market and intended for human consumption.
+
+Regulation 16 prescribes additional labelling requirements for the honey products regulated by these Regulations.
+
+Regulation 17 imposes an obligation on food authorities to enforce the Regulations.
+
+As well as revoking the Honey (Scotland) Regulations 2003, regulation 19 revokes the Honey (Scotland) Amendment Regulations 2005 and specified provisions of the Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312) relating to the Honey (Scotland) Regulations 2003.
+
+Regulation 21 makes a transitional provision in respect of food placed on the market or labelled before 24th June 2015, providing a defence in legal proceedings in relation to such food if it would have been compliant with the Honey (Scotland) Regulations 2003, as amended.
+
+A full Business and Regulatory Impact Assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector has been prepared and placed in the Scottish Parliament Information Centre. Copies may be obtained from Food Standards Scotland, Pilgrim House, Old Ford Road, Aberdeen, AB11 5RL.
+
+## Annotations
+
+[^c22581131]: Marginal citation: [Section 1(1)](https://www.legislation.gov.uk/ssi/2015/208/section/1/1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Section 6(4) was amended by paragraph 6 of Schedule 9 to the [Deregulation and Contracting Out Act 1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), [paragraph 10(3)](https://www.legislation.gov.uk/ukpga/1994/40/paragraph/10/3) of Schedule 5 to the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28) (“**the 1999 Act**”), and Schedule 2 to the [Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794). Sections 16(1)(e) and (f) were amended by paragraph 8 of Schedule 5 to the 1999 Act. Sections 17 and 48 were amended by paragraphs 12 and 21 respectively of Schedule 5 to the 1999 Act. Section 17(2) was amended by section 40(1) of and paragraphs 7, 8 and 12 of Schedule 5 to the 1999 Act and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 26(3) was amended by, and partially repealed by, paragraph 1 of Schedule 6 to the 1999 Act. Section 48 was also amended by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990). Section 48(1) was amended by paragraphs 7 and 8 of Schedule 5 to the 1999 Act. Section 53(2) was amended by paragraph 19 of Schedule 16 to the Deregulation and Contracting Out Act 1994, Schedule 6 to the 1999 Act, [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990) and [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279). Amendments made by Schedule 5 to the 1999 Act which extend to Scotland shall be taken as pre-commencement enactments for the purposes of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) by virtue of section 49(2) of the 1999 Act. The functions of the Secretary of State, so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998. In so far as not transferred, those functions were transferred to the Scottish Ministers by the [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849).
+
+[^c22581141]: Marginal citation: [Section 16(1)](https://www.legislation.gov.uk/ssi/2015/208/section/16/1) was amended by paragraph 8 of Schedule 5 to the 1999 [Act and the Minister of Agriculture, Fisheries and Food Dissolution Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794).
+
+[^c22581151]: Marginal citation: [Section 17(1)](https://www.legislation.gov.uk/ssi/2015/208/section/17/1) was amended by paragraphs 8 and 12(a) of Schedule 5 to the 1999 Act.
+
+[^c22581161]: Marginal citation: [Section 26(3)](https://www.legislation.gov.uk/ssi/2015/208/section/26/3) was amended by Schedule 6 to the 1999 Act.
+
+[^c22581171]: Marginal citation: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16).
+
+[^c22581181]: Marginal citation: OJ No L 31, 1.2.2002, p.1, last amended by regulation (EU) No 652/2014 (OJ No L 189, 27.6.2014, p.1).
+
+[^key-45a3db26fc86c1e3b31249ec53dc01ea]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+
+[^c22581191]: Marginal citation: OJ No L 304, 22.11.2011, p.18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p.7).
+
+[^c22581201]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
+
+[^c22581211]: Marginal citation: OJ No L 10, 12.1.2002, p.47, last amended by Directive 2014/63/EU of the European Parliament and of the Council (OJ No 164, 3.6.2014, p.1).
+
+[^key-ccf382843204e4c0bf12dbb55e0da694]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2015/208/regulation/2) inserted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a14e01a65d5952a2f68a2691ddebc8ea]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/ssi/2015/208/regulation/16/1) substituted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/3) (as amended by [S.S.I. 2020/372](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(5)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-406075b70fe246a9c05a3bf8e8f4fed2]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/ssi/2015/208/regulation/17A) inserted (31.12.2020) by [The Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/285)](https://www.legislation.gov.uk/ssi/2019/285), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/285/regulation/1/1), [5(4)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^c22581221]: Marginal citation: [Section 21](https://www.legislation.gov.uk/ssi/2015/208/section/21) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
+
+[^c22581231]: Marginal citation: [Section 36A(1)](https://www.legislation.gov.uk/ssi/2015/208/section/36A/1) was inserted by paragraphs 7 and 16 of Schedule 5 to the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
+
+[^c22581241]: Marginal citation: [S.S.I. 2003/569](https://www.legislation.gov.uk/ssi/2003/569), amended by [S.S.I. 2005/307](https://www.legislation.gov.uk/ssi/2005/307).
+
+[^c22581251]: Marginal citation: [S.S.I. 2005/307](https://www.legislation.gov.uk/ssi/2005/307).
+
+[^c22581261]: Marginal citation: [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312).

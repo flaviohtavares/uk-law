@@ -1,0 +1,101 @@
+---
+title: The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2017
+id: ssi/2017/393
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2017-11-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2017/393
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2017/393/pdfs/ssipn_20170393_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/393/pdfs/ssi_20170393_en.pdf
+- http://www.legislation.gov.uk/ssi/2017/393/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2017
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2017 No. 393
+
+Prisons
+
+The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2017
+
+Made
+
+9th November 2017
+
+Laid before the Scottish Parliament
+
+13th November 2017
+
+Coming into force
+
+8th January 2018
+
+The Scottish Ministers make the following Rules in exercise of the powers conferred by section 39 of the Prisons (Scotland) Act 1989[^f00001] and all other powers enabling them to do so.
+
+## 1. Citation and commencement
+
+These Rules may be cited as the Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2017 and come into force on 8th January 2018.
+
+## 2. Amendment of the Prisons and Young Offenders Institutions (Scotland) Rules 2011
+
+(1) The Prisons and Young Offenders Institutions (Scotland) Rules 2011[^f00002] are amended as follows.
+
+(2) In rule 2 (Interpretation) for the definition of “smoke” substitute—
+
+> - “smoke”—
+>   - (a) in respect of tobacco or products containing or mixed with tobacco, has the meaning assigned to it in section 4(1) of the Smoking, Health and Social Care (Scotland) Act 2005[^f00003]; and
+>   - (b) in respect of a nicotine vapour product as defined in in section 35A of the Tobacco and Primary Medical Services (Scotland) Act 2010[^f00004] means inhaling vapour from a nicotine vapour product.
+
+.
+
+(3) In rule 36 (Smoking)—
+
+- (a) in paragraph (1) for “Prisoners” substitute “Subject to paragraph (2A) prisoners”;
+- (b) after paragraph (2) insert—
+
+  > (2A) Before commencing a check of a cell or a room to ensure that it is secure, safe and habitable, the Governor may instruct a prisoner, that for a period starting 30 minutes before the check is to proceed and ending when the check is complete, the prisoner must—
+  >
+  > - (a) not smoke in the cell or room; and
+  > - (b) open any windows or vents in the cell or room.
+
+  .
+
+MICHAEL MATHESON
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+9th November 2017
+
+EXPLANATORY NOTE
+
+(This note is not part of the Rules)
+
+These Rules amend the Prisons and Young Offenders Institutions (Scotland) Rules 2011.
+
+Rule 2(2) extends the definition of “smoke” to include nicotine vapour products, as defined in the Tobacco and Primary Medical Services (Scotland) Act 2010. This will allow prisoners to use vaping products as well as smoke tobacco.
+
+Rule 2(3) amends rule 36 to allow Governors to instruct prisoners, who would otherwise be able to smoke in their cells, to desist from doing so and to open all vents and windows in their cell before and whilst certain cell checks are being carried out in their cell. By stopping smoking and opening windows and vents it is hoped that officers carrying out the cell checks will be exposed to reduced or minimal second hand smoke.
+
+## Annotations
+
+[^f00001]: Footnote: [1989 c.45](https://www.legislation.gov.uk/ukpga/1989/45); section 39 was amended by the Prisoners and Criminal Proceedings (Scotland) Act [1993 (c.9)](https://www.legislation.gov.uk/ukpga/1993/9) (“the 1993 Act”), sections 24 and 25, schedule 5, paragraph 6(6)(b) and schedule 7, paragraph 1; the Criminal Justice and Public Order Act [1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33) (“the 1994 Act”), section 116(4); the Criminal Procedure (Consequential Provisions) (Scotland) Act [1995 (c.40)](https://www.legislation.gov.uk/ukpga/1995/40), schedule 4, paragraph 75(4)(a), and the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), schedule 8, paragraph 71 and schedule 10, paragraph 1. Section 39 is to be read with the following sections of the Prisons (Scotland) Act 1989: 20A (which was inserted by the 1993 Act, section 23); 41(2B) (which was inserted by the 1994 Act section 153(3) and amended by the Criminal Justice and Licensing (Scotland) Act 2010, section 34(1)); 41B(1) (which was inserted by the 1994 Act, section 151(2) and amended by the Management of Offenders etc. (Scotland) Act [2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), section 16); and 41C(1) (which was inserted by the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48), section 42). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), section 53.
+
+[^f00002]: Footnote: [S.S.I. 2011/331](https://www.legislation.gov.uk/ssi/2011/331) as amended by [S.S.I. 2011/356](https://www.legislation.gov.uk/ssi/2011/356) and [S.S.I. 2012/26](https://www.legislation.gov.uk/ssi/2012/26).
+
+[^f00003]: Footnote: [2005 asp 13](https://www.legislation.gov.uk/asp/2005/13).
+
+[^f00004]: Footnote: [2010 asp 3](https://www.legislation.gov.uk/asp/2010/3).

@@ -1,0 +1,57 @@
+---
+title: Housing (Scotland) Act 2010, section 154
+act: Housing (Scotland) Act 2010
+section: '154'
+status: revised-with-pending-changes
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2010/17/section/154
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Housing (Scotland) Act 2010, section 154
+
+> **Warning: changes not yet applied to this text (7).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/asp/2010/17
+>
+> Extent: Scotland.
+
+## 154. Police accommodation not to be Scottish secure tenancy[^key-6628e7ddaa3ab9b1d40e73d6b7ba5683]
+
+*Extent: S*
+
+In paragraph 2 of schedule 1 to the Housing (Scotland) Act 2001 (asp 10)—
+
+- (a) sub-paragraph (a) is repealed,
+- (b) in sub-paragraph (c), for the words “a police force or” substitute “ an ”,
+- (c) at the end of the paragraph insert—
+
+  > (2) A tenancy is not a Scottish secure tenancy if the landlord is a local authority landlord and—
+  >
+  > - (a) the house occupied by the tenant is held by the landlord for the purposes of a police force, or
+  > - (b) the tenant is let the house expressly on a temporary basis pending its being required for the purposes of a police force.
+  >
+  > (3) Sub-paragraph (2)(a) does not prevent a tenancy from being a Scottish secure tenancy if—
+  >
+  > - (a) the tenancy was created before the relevant day,
+  > - (b) the tenant moved to the house in pursuance of—
+  >   - (i) an order for recovery of possession made under section 16(2) of the Housing (Scotland) Act 2001 (asp 10), on any of the grounds set out in paragraphs 9 to 13 and 15 of schedule 2 to that Act, in respect of a house subject to a Scottish secure tenancy created before the relevant day, or
+  >   - (ii) the operation of section 19(3)(b), 21(3)(b) or 22(6) of that Act following termination of a Scottish secure tenancy created before the relevant day,
+  > - (c) the tenant moved to the house from a house subject to a Scottish secure tenancy created before the relevant day in pursuance of a decision by the landlord to demolish that other house as a result of which—
+  >   - (i) the tenancy of that other house was terminated by written agreement between the landlord and the tenant, and
+  >   - (ii) the house was made available to the tenant,
+  > - (d) the tenant occupied the house immediately before the relevant day under a short Scottish secure tenancy which has, since that day, been converted into a Scottish secure tenancy under section 37, or
+  > - (e) the tenant—
+  >   - (i) occupied the house (or any other house held by the landlord for the purposes of a police force) under a Scottish secure tenancy immediately before the creation of the tenancy, and
+  >   - (ii) agreed to terminate that Scottish secure tenancy without having been notified by the landlord of the effect of sub-paragraph (2)(a) at least 28 days before so agreeing.
+  >
+  > (4) In this paragraph—
+  >
+  > - “**police force**” has the same meaning as in the Police (Scotland) Act 1967 (c.77),
+  > - “**relevant day**” means the day on which section 154 of the Housing (Scotland) Act 2010 (asp 17) comes into force.
+
+  .
+
+## Annotations
+
+[^key-6628e7ddaa3ab9b1d40e73d6b7ba5683]: Commencement: S. 154 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

@@ -1,0 +1,176 @@
+---
+title: The Motor Vehicles (Competitions and Trials) (Miscellaneous Amendment) (Scotland) Regulations 2025
+id: ssi/2025/245
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2025-09-02'
+text_date: '2025-12-09'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2025/245
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2025/245/pdfs/ssipn_20250245_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2025/245/pdfs/ssi_20250245_en.pdf
+- http://www.legislation.gov.uk/ssi/2025/245/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Motor Vehicles (Competitions and Trials) (Miscellaneous Amendment) (Scotland) Regulations 2025
+
+> Text as at 2025-12-09.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2025 No. 245
+
+Road Traffic
+
+The Motor Vehicles (Competitions and Trials) (Miscellaneous Amendment) (Scotland) Regulations 2025
+
+Made
+
+2nd September 2025
+
+Laid before the Scottish Parliament
+
+4th September 2025
+
+Coming into force
+
+30th October 2025
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 13(2) and 13A(1) of the Road Traffic Act 1988[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 195(2A)[^f00002] of that Act, they have consulted with such representative organisations as they think fit.
+
+## 1. Citation and commencement[^key-5d2c931a3845abac6e6d50ea3dbfb941]
+
+These Regulations may be cited as the Motor Vehicles (Competitions and Trials) (Miscellaneous Amendment) (Scotland) Regulations 2025 and come into force on 30 October 2025.
+
+## 2. Amendments to the Motor Vehicles (Competitions and Trials) (Scotland) Regulations 1976[^key-440962a558a476ef813411c24ed5d1e7]
+
+(1) The Motor Vehicles (Competitions and Trials) (Scotland) Regulations 1976[^f00003] are amended in accordance with paragraphs (2) to (8).
+
+(2) In regulation 2(1) (interpretation)—
+
+- (a) after the definition of “event” insert—
+
+  > - “**Motorsport UK Association Limited**” means the company limited by guarantee registered in England and Wales with company number 01344829.
+
+  ,
+- (b) after the definition of “route” insert—
+
+  > - “**RSAC Motorsport Limited**” means the company limited by guarantee registered in Scotland with company number SC078564;
+
+  ,
+- (c)[^key-916c0257af7592724a780f59277b9537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) For the words “Royal Scottish Automobile Club” wherever they occur, substitute “RSAC Motorsport Limited”.
+
+(4) For the words “Royal Automobile Club” wherever they occur, substitute “Motorsport UK Association Limited”.
+
+(5) For regulation 7 (fees), substitute—
+
+> **7. Fees**
+>
+> (1) The fee that must accompany an application for authorisation under regulation 6 is—
+>
+> - (a) for a tier one event—
+>   - (i) where the route of the event comprises 50 miles or less, £92 (“the tier one basic fee”),
+>   - (ii) where the route of the event comprises more than 50 miles, the tier one basic fee for the first 50 miles of the route plus £52 for each subsequent 50 miles or part thereof of the length of the event on the public highway,
+> - (b) for a tier two event—
+>   - (i) where the route of the event comprises 50 miles or less, £115 (“the tier two basic fee”),
+>   - (ii) where the route of the event comprises more than 50 miles, the tier two basic fee for the first 50 miles of the route plus £65 for each subsequent 50 miles or part thereof of the length of the event on the public highway.
+>
+> (2) If any event is not authorised, or is cancelled, the fee specified in paragraph (1) is to be reduced to £30.
+>
+> (3) In this regulation—
+>
+> - “**a tier one event**” means an event in which the total number of vehicles driven by competitors is not greater than 25,
+> - “**a tier two event**” means an event in which the total number of vehicles driven by competitors is greater than 25 and not greater than 180; or a specified event, and
+>
+> all references to miles are to miles of the route on the public way.
+
+.
+
+(6) For regulation 10 (measurement of distance) substitute—
+
+> **10.** (1) The length of the route, or any part thereof, of an event and the distance from such route of any point shall for the purposes of these regulations be calculated by reference to the most recent edition of the 1:250,000 Ordnance Survey Map of the area concerned.
+>
+> (2) Any requirement in these Regulations to provide copies of the Ordnance Survey Map showing the route of an event may be satisfied by provision in paper or electronic form.
+
+.
+
+(7) In Schedule 1 (particulars to be given in the application for authorisation)—
+
+- (a) omit paragraph (9),
+- (b) in paragraph (14), for the wording from “quarter” to “equivalent”, substitute “1:250,000 Ordnance Survey Map”.
+
+(8) Schedule 3 (Specified events) is omitted.
+
+## 3. Amendment to the Motor Vehicles (Off Road Events) Regulations 1995[^key-d103538087bf7190e828eb3eb07321d2]
+
+In regulation 3 (authorising bodies) of the Motor Vehicles (Off Road Events) Regulations 1995[^f00004] for “the Royal Automobile Club” substitute “Motorsport UK Association Limited”.
+
+## 4. Revocation[^key-b5ea0ff87bfaa71409a400b05b099563]
+
+The Motor Vehicles (Competitions and Trials) (Scotland) Amendment Regulations 2002[^f00005] are revoked.
+
+FIONA HYSLOP
+
+A member of the Scottish Government
+
+St Andrew’s House,
+
+Edinburgh
+
+2nd September 2025
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Motor Vehicles (Competitions and Trials) (Scotland) Regulations 1976 (“**the Principal Regulations**”) which regulate the system of rally control on public roads in Scotland. The Regulations provide a new fee structure for rallies and make minor amendments to update various references.
+
+Regulation 2 amends certain provisions of the Principal Regulations. It inserts a new definition for “RSAC Motorsport Limited” and “Motorsport UK Association Limited”. RSAC Motorsport Limited is the authorising agent which receives and processes applications under the Principal Regulations in Scotland. They must consult with Motorsport UK Association Limited where an event takes place partly in Scotland and partly in England. Regulation 2 updates references to each of these bodies in the Principal Regulations.
+
+Regulation 2 also introduces a new fee structure to be applied in relation to applications submitted to RSAC Motorsport Limited for the authorisation of events. It also sets a new fee of £30 for those events which are not authorised or those which are cancelled after being authorised. The changes in fees are shown in the table:
+
+|  | First 50 Miles or part thereof | Each subsequent 50 miles or part thereof |
+| --- | --- | --- |
+| Current fees for all relevant events | £65 | £37 |
+| New tier one event (25 or less vehicles) | £92 | £52 |
+| New tier two event (26 or more vehicles) | £115 | £65 |
+
+Regulation 2 also updates references relating to the Ordnance Survey Maps and makes provision for maps to be submitted electronically.
+
+Regulation 3 revokes the Motor Vehicles (Competitions and Trials) (Scotland) Amendment Regulations 2002.
+
+A minor amendment is made by regulation 4 to the Motor Vehicles (Off Road Events) Regulations 1995 to reflect the change in name of the Royal Automobile Club to Motorsport UK Association Limited.
+
+## Annotations
+
+[^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)), article 2 and schedule 1.
+
+[^f00002]: Footnote: Section 195(2A) was inserted by the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), section 20(9).
+
+[^key-5d2c931a3845abac6e6d50ea3dbfb941]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
+
+[^key-440962a558a476ef813411c24ed5d1e7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/245/regulation/2) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
+
+[^f00003]: Footnote: [S.I. 1976/2019](https://www.legislation.gov.uk/uksi/1976/2019), relevantly amended by [S.I. 1992/747](https://www.legislation.gov.uk/uksi/1992/747), [S.I. 1994/2653](https://www.legislation.gov.uk/uksi/1994/2653) and [S.S.I. 2002/14](https://www.legislation.gov.uk/ssi/2002/14).
+
+[^key-916c0257af7592724a780f59277b9537]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/245/regulation/2/2/c) revoked (9.12.2025) by [The Motor Vehicles (Competitions and Trials) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/300)](https://www.legislation.gov.uk/ssi/2025/300), [regs. 1](https://www.legislation.gov.uk/ssi/2025/300/regulation/1), [3](https://www.legislation.gov.uk/ssi/2025/300/regulation/3)
+
+[^key-d103538087bf7190e828eb3eb07321d2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/245/regulation/3) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
+
+[^f00004]: Footnote: [S.I. 1995/1371](https://www.legislation.gov.uk/uksi/1995/1371), to which there are amendments not relevant to these Regulations.
+
+[^key-b5ea0ff87bfaa71409a400b05b099563]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/245/regulation/4) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
+
+[^f00005]: Footnote: [S.S.I 2002/14](https://www.legislation.gov.uk/ssi/2002/14).

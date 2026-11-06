@@ -1,0 +1,123 @@
+---
+title: The National Health Service (Pharmaceutical Services) (Scotland) Amendment (No. 2) Regulations 2006
+id: ssi/2006/245
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2006-05-09'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2006/245
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2006/245/pdfs/ssien_20060245_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/245/pdfs/ssi_20060245_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/245/made/data.pdf
+pending_changes: 1
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (Pharmaceutical Services) (Scotland) Amendment (No. 2) Regulations 2006
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2006 No. 245
+
+NATIONAL HEALTH SERVICE
+
+The National Health Service (Pharmaceutical Services) (Scotland) Amendment (No. 2) Regulations 2006
+
+Made
+
+9th May 2006
+
+Laid before the Scottish Parliament
+
+9th May 2006
+
+Coming into force
+
+31st May 2006
+
+The Scottish Ministers in exercise of the powers conferred by sections 27(1) and 27(2), 105(7) and 108(1) of the National Health Service (Scotland) Act 1978[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## 1. Citation, commencement and interpretation
+
+These Regulations may be cited as the National Health Service (Pharmaceutical Services) (Scotland) Amendment (No. 2) Regulations 2006 and shall come into force on 31st May 2006.
+
+## 2. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995
+
+In regulation 2(1) (interpretation) of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995[^f00002]–
+
+- (a) for the definition of “independent nurse prescriber”[^f00003] substitute–
+
+  > - “independent nurse prescriber” means a person–
+  >   - (a) who is registered in the Nursing and Midwifery Register; and
+  >   - (b) against whose name is recorded in that register an annotation signifying that he or she is qualified to order drugs, medicines and appliances as a community practitioner nurse prescriber, a nurse independent prescriber or a nurse independent/supplementary prescriber;
+
+  ;
+- (b) for the definition of “nurses and midwives' professional register”[^f00004] substitute–
+
+  > - “Nursing and Midwifery Register” means the register maintained by the Nursing and Midwifery Council under article 5 of the Nursing and Midwifery Order 2001[^f00005];
+
+  ; and
+- (c) for the definition of “supplementary prescriber”[^f00006] substitute–
+
+  > - “supplementary prescriber” means a person whose name is registered in–
+  >   - (a) the Nursing and Midwifery Register;
+  >   - (b) the Register of Pharmaceutical Chemists maintained in pursuance of section 2(1) of the Pharmacy Act 1954[^f00007];
+  >   - (c) the register maintained in pursuance of Articles 6 and 9 of the Pharmacy (Northern Ireland) Order 1976[^f00008];
+  >   - (d) the part of the register maintained by the Health Professions Council in pursuance of article 5 of the Health Professions Order 2001[^f00009] relating to–
+  >     - (i) chiropodists and podiatrists;
+  >     - (ii) physiotherapists; or
+  >     - (iii) diagnostic or therapeutic radiographers; or
+  >   - (e) the register of optometrists maintained by the General Optical Council in pursuance of section 7 of the Opticians Act 1989[^f00010],
+  >
+  >   and against whose name is recorded in the relevant register an annotation signifying that he or she is qualified to order drugs, medicines and appliances as a supplementary prescriber or, in the case of the Nursing and Midwifery Register, a nurse independent/supplementary prescriber;
+
+  .
+
+LEWIS MACDONALD
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+9th May 2006
+
+(This note is not part of the Regulations)
+
+These Regulations amend the National Health Service (Pharmaceutical Services) (Scotland) Regulations 1995 (“the principal Regulations”) which regulate the provision of pharmaceutical services under the National Health Service (Scotland) Act 1978.
+
+These Regulations make changes to the principal Regulations as a consequence of new arrangements for the independent prescribing of drugs, medicines and appliances by nurses. Independent nurse prescribers, unless they are community practitioner nurse prescribers, will no longer be limited to prescribing from a particular formulary.
+
+Regulation 2(a) substitutes a new definition of “independent nurse prescriber”.
+
+Regulation 2(b) substitutes a new definition of “Nursing and Midwifery Register” in place of the existing definition of “nurses and midwives professional register”.
+
+Regulation 2(c) substitutes a new definition of “supplementary prescriber”.
+
+## Annotations
+
+[^f00001]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); section 27(1) was amended by the Health Services Act [1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53) (“the 1980 Act”), section 20(2), the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), Schedule 9, paragraph 19(7)(a), the Medicinal Products: Prescription by Nurses etc. Act [1992 (c. 28)](https://www.legislation.gov.uk/ukpga/1992/28), section 3, the National Health Services (Primary Care) Act [1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), Schedule 2, Part 1, paragraph 44, and the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15), section 44(2); section 27(2) was substituted by the National Health Service (Amendment) Act [1986 (c. 66)](https://www.legislation.gov.uk/ukpga/1986/66), section 3(3) and amended by the 1990 Act, Schedule 9, paragraph 19(7)(b); section 105(7) was amended by the 1980 Act, Schedule 6, paragraph 5(1) and Schedule 7, the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), Schedule 9, Part I, paragraph 24 and the Health Act [1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4, paragraph 60; section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^f00002]: Footnote: S.I. [1995/414](https://www.legislation.gov.uk/uksi/1995/414); relevant amending instruments are [S.S.I. 2003/296](https://www.legislation.gov.uk/ssi/2003/296), S.I. [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.S.I. 2005/327](https://www.legislation.gov.uk/ssi/2005/327) and [2006/143](https://www.legislation.gov.uk/ssi/2006/143).
+
+[^f00003]: Footnote: The definition of “independent nurse prescriber” was inserted by [S.S.I. 2003/296](https://www.legislation.gov.uk/ssi/2003/296) and substituted by S.I. [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771).
+
+[^f00004]: Footnote: The definition of “nurses and midwives professional register” was inserted by [S.S.I. 2003/296](https://www.legislation.gov.uk/ssi/2003/296) and amended by S.I. [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771).
+
+[^f00005]: Footnote: S.I. [2002/253](https://www.legislation.gov.uk/uksi/2002/253) to which there are no relevant amending instruments.
+
+[^f00006]: Footnote: The definition of “supplementary prescriber” was inserted by [S.S.I. 2003/296](https://www.legislation.gov.uk/ssi/2003/296) and amended by S.I. [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.S.I. 2005/327](https://www.legislation.gov.uk/ssi/2005/327) and [2006/143](https://www.legislation.gov.uk/ssi/2006/143).
+
+[^f00007]: Footnote: [1954 c. 61](https://www.legislation.gov.uk/ukpga/1954/61).
+
+[^f00008]: Footnote: S.I. [1976/1213 (NI 22)](https://www.legislation.gov.uk/nisi/1976/1213).
+
+[^f00009]: Footnote: S.I. [2002/254](https://www.legislation.gov.uk/uksi/2002/254) to which there are no relevant amending instruments.
+
+[^f00010]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44); section 7 was amended by S.I. [2005/848](https://www.legislation.gov.uk/uksi/2005/848), Art 7.

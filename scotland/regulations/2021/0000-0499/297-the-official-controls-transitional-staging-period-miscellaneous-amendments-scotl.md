@@ -1,0 +1,100 @@
+---
+title: The Official Controls (Transitional Staging Period) (Miscellaneous Amendments) (Scotland) Regulations 2021
+id: ssi/2021/297
+type: ScottishStatutoryInstrument
+category: secondary
+status: as-enacted
+made_date: '2021-08-31'
+text_date: null
+extent: null
+source_url: https://www.legislation.gov.uk/ssi/2021/297
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2021/297/pdfs/ssipn_20210297_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/297/pdfs/ssi_20210297_en.pdf
+- http://www.legislation.gov.uk/ssi/2021/297/made/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Official Controls (Transitional Staging Period) (Miscellaneous Amendments) (Scotland) Regulations 2021
+
+> This is the text as originally enacted or made. It may have been changed since; check legislation.gov.uk for the current version.
+
+2021 No. 297
+
+Animals
+
+Food
+
+Agriculture
+
+The Official Controls (Transitional Staging Period) (Miscellaneous Amendments) (Scotland) Regulations 2021
+
+Made
+
+31st August 2021
+
+Laid before the Scottish Parliament
+
+2nd September 2021
+
+Coming into force
+
+1st October 2021
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by Article 144(6) of, and paragraph 2 of Annex 6 to, Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^f00001], paragraphs 1(1) and (3) of schedule 2 and paragraph 21(b) of schedule 7 of the European Union (Withdrawal) Act 2018[^f00002] and of all other powers enabling them to do so.
+
+In accordance with Article 144(7) of Regulation (EU) 2017/625, before making these Regulations, the Scottish Ministers consulted such bodies or persons as appeared to them to be representative of the interests likely to be substantially affected by the regulations and such other bodies or persons as they considered appropriate.
+
+## 1. Citation and commencement
+
+These Regulations may be cited as the Official Controls (Transitional Staging Period) (Miscellaneous Amendments) (Scotland) Regulations 2021 and come into force on 1 October 2021.
+
+## 2. Amendment of the Official Controls (Extension of Transitional Periods) Regulations 2021
+
+(1) The Official Controls (Extension of Transitional Periods) Regulations 2021[^f00003] are amended as follows.
+
+(2) In regulation 2 (end of the transitional staging period) omit paragraphs (a) and (b)(i).
+
+## 3. Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012
+
+(1) The Trade in Animals and Related Products (Scotland) Regulations 2012[^f00004] are amended as follows.
+
+(2) In schedule 5 (application of, derogations from, and modifications to Part 3, on importation from a third country, in relation to certain territories subject to transitional import arrangements)—
+
+- (a) in paragraph 4(6)(a) for “place of destination” substitute “place where the controls are to be carried out”, and
+- (b) in paragraph 5(5) for “place of destination indicated in the relevant accompanying importation documentation” substitute “place where the controls are to be carried out”.
+
+MAIRI GOUGEON
+
+A member of the Scottish Government
+
+St Andrews’s House,
+
+Edinburgh
+
+31st August 2021
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend the Official Controls (Extension of Transitional Periods) Regulations 2021 (“the 2021 Regulations”) and the Trade in Animals and Related Products (Scotland) Regulations 2012 (“the 2012 Regulations”). The amendments relate to official controls on certain animals and goods which originate from certain third countries during the transitional staging period provided for by Annex 6 to Regulation (EU) 2017/625 (EUR 2017/625).
+
+Regulation 2 amends regulation 2 of the 2021 Regulations, which appoints the end date for the transitional staging period as 28 February 2022, but appoints earlier dates in respect of certain checks for certain products. Regulation 2 of the 2021 Regulations is amended to provide that the transitional staging period will not end on earlier dates in respect of checks for products of animal origin, germinal products, animal by-products and derived products, and that for those products the transitional staging period, including in respect of checks, will end on 28 February 2022.
+
+Regulation 3 amends schedule 5 of the 2012 Regulations. Schedule 5 of the 2012 Regulations was made in exercise of powers conferred by the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) in order to address failures of retained EU law to operate effectively and other deficiencies arising from the withdrawal of the UK from the European Union and makes provision regarding the importation of animals and related products during the transitional staging period. Regulation 3 amends paragraphs 4(6)(a) and 5(5) of schedule 5 of the 2012 Regulations to provide that during the transitional staging period official controls need not take place at the place of destination indicated in the relevant accompanying importation documentation, and that notification of importation through the appropriate computerised information system be given to the authority responsible for performing official controls at the place where official controls are to be carried out.
+
+A Business and Regulatory Impact Assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
+
+## Annotations
+
+[^f00001]: Footnote: EUR 2017/625. Article 144 was substituted, and Annex 6 inserted, by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481). The Scottish Ministers are the appropriate authority in relation to Scotland by virtue of Article 3(2A)(c).
+
+[^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); paragraph 21 of schedule 7 was amended by paragraph 53 of schedule 5 of the European Union (Withdrawal Agreement) Act 2020.
+
+[^f00003]: Footnote: [S.I. 2021/809](https://www.legislation.gov.uk/uksi/2021/809).
+
+[^f00004]: Footnote: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177). Schedule 5 was inserted by [S.S.I. 2020/458](https://www.legislation.gov.uk/ssi/2020/458). Paragraphs 4 and 5 were amended by [S.I. 2021/429](https://www.legislation.gov.uk/uksi/2021/429) and [809](https://www.legislation.gov.uk/uksi/2021/809).

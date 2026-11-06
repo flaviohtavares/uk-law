@@ -1,0 +1,1955 @@
+---
+title: The National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006
+id: ssi/2006/135
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2006-03-10'
+text_date: '2026-04-01'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2006/135
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2006/135/pdfs/ssien_20060135_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/135/pdfs/ssi_20060135_en.pdf
+- http://www.legislation.gov.uk/ssi/2006/135/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006
+
+> Text as at 2026-04-01.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2006 No. 135
+
+NATIONAL HEALTH SERVICE
+
+The National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006
+
+Made
+
+10th March 2006
+
+Laid before the Scottish Parliament
+
+10th March 2006
+
+Coming into force
+
+1st April 2006
+
+The Scottish Ministers, in exercise of the powers conferred by sections 26, 28A, 32A(7), 32D, 34, 105(7), 106(a) and 108(1) of the National Health Service (Scotland) Act 1978 [^c15350341] and of all other powers enabling them in that behalf, hereby make the following Regulations:
+
+## PART I — GENERAL
+
+### 1. Citation and commencement
+
+These Regulations may be cited as the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006 and shall come into force on 1st April 2006.
+
+### 2. Interpretation
+
+(1) In these Regulations–
+
+- “**the Act**” means the National Health Service (Scotland) Act 1978;
+- “the 2007 Act” means the Protection of Vulnerable Groups (Scotland) Act 2007;[^key-4b3f5e9cd46767dfdfc9ae3c25efdaec]
+- “**the Agency**” means the Common Services Agency for the Scottish Health Service constituted under section 10 of the Act [^c15350351];
+- “[^key-7932643f37f709e296b5d7e5fd4261a4]**anterior eye condition**” means any one of—
+  - (a) anterior uveitis;
+  - (b) blepharitis;
+  - (c) corneal foreign body;
+  - (d) episcleritis;
+  - (e) herpes simplex keratitis;
+  - (f) herpes zoster ophthalmicus;
+  - (g) infective conjunctivitis;
+  - (h) marginal keratitis;
+  - (i) ocular allergy;
+  - (j) ocular rosacea.
+- “**area medical committee**” means the committee of that name for the area of a Health Board recognised under section 9 of the Act [^c15350361];
+- “**area optical committee**” means the committee of that name for the area of a Health Board recognised under section 9 of the Act;
+- “[^key-6878a3194ecf48587e37f47b876f71f6]**barred from regulated roles**” means barred from regulated roles with children or adults within the meaning of section 92(1) or (2) (individuals barred from regulated roles) of the 2007 Act,
+- “**Board**” means a Health Board constituted for any area under section 2 of the Act [^c15350371];
+- “**body corporate**” means a body corporate registered in the register of bodies corporate maintained under section 9 of the Opticians Act 1989 [^c15350381] carrying on business as an optometrist and includes a partnership and a limited liability partnership, and in relation to such partnerships, the reference to a director or other officer of a body corporate is a reference to a member;
+- “**complex appliance**” means an optical appliance at least one lens of which–
+  - (a) has a power in any one meridian of plus or minus 10 or more dioptres, or
+  - (b) is a prism controlled bifocal lens;
+- “**condition for disqualification**” means the first, second or third condition for disqualification in section 29 of the Act [^c15350391];
+- “**conditional disqualification**” has the same meaning as in section 29C(1) of the Act [^c15350401] and includes a decision under provisions in force in England, Wales or Northern Ireland corresponding (whether or not exactly) to a conditional disqualification, and “**conditionally disqualified**” shall be construed accordingly;
+- “considered for listing” means considered for listing by the Scottish Ministers in the children’s list or adult’s list or in both lists in pursuance of section 10, 11, 12 or 13 (consideration whether to list) of the 2007 Act;
+- “**contractor**” means a person who has undertaken to provide general ophthalmic services and whose name is included in the first part of the Ophthalmic List;
+- “**corresponding decision**” has the same meaning as in section 32D [^c15350411] of the Act;
+- “**day centre**” means an establishment attended by patients and accepted by the Board as suitable for the provision of general ophthalmic services in the Board's area for those patients who would have difficulty in obtaining such services from practice premises because of physical or mental illness or disability or because of difficulties in communicating their health needs unaided;
+- “**deputy**” means an ophthalmic medical practitioner or optician, whether or not a contractor, who provides general ophthalmic services on behalf of a contractor otherwise than as a director or salaried employee of that contractor;
+- “**director**” means–
+  - (a) a director of a body corporate; or
+  - (b) a member of the body of persons controlling a body corporate;
+- “[^key-4fc40d04b75c8545796e3634238f5913]**Disclosure Act**” means the Disclosure (Scotland) Act 2020,
+- [^key-cf13b6388679f45bc50bea7f54f77766]...
+- [^key-cf13b6388679f45bc50bea7f54f77766]...
+- “**disqualification**” means disqualification by the Tribunal, (or a corresponding decision under provisions in force in England, Wales or Northern Ireland corresponding to disqualification), but does not include conditional disqualification, and “**disqualified**” shall be construed accordingly;
+- “**doctor**” means a registered medical practitioner;
+- “EEA state” means a member State, Norway, Iceland or Lichtenstein;[^key-00b4c0e6769f7710dd590768d51a28b8]
+- “electronic communication” has the meaning given by section 15(1) of the Electronic Communications Act 2000;[^key-f62b86bd3e4c7374ab678b4bc20a2716]
+- “emergency eye examination” means an eye examination carried out, in circumstances that in the professional judgement of an ophthalmic medical practitioner or optician constitute an emergency, on the day that a person presents under regulation 21B or within a reasonable period thereof;[^key-e7614d70612dd8031f173cc02a5ccaf7]
+- “**enactment**” includes an enactment comprised in, or an instrument made under, an Act of the Scottish Parliament;
+- [^key-cf13b6388679f45bc50bea7f54f77766]...
+- “**equivalent body**” means–
+  - (a) in England, NHS England[^key-766916f68157fcacb922e7d0db2495e5];
+  - (b) in Wales, a Local Health Board;
+  - (c) in Northern Ireland, a Health and Social Services Board;
+  - (ca) in relation to any time prior to 1st April 2013 and after 30th September 2002, a Primary Care Trust in England;[^key-fc605112db03a67538ab2582b3d1668b]
+  - (d) in relation to any time prior to 1st October 2002, a Health Authority in England; or
+  - (e) in relation to any time prior to 1st April 2003, a Health Authority in Wales,
+
+  or any successor body;
+- “**equivalent list**” means a list kept by an equivalent body;
+- “**eye examination**” means a primary eye examination or a supplementary eye examination or both;
+- “**eye examination form**” means an electronic form supplied by the Agency[^key-621b6e1f03bcc67ce35e461389cd67bc] which is to be completed for the purposes of payment in respect of an eye examination;
+- “**fraud**” means matters which it is the function of the Agency to prevent, detect or investigate by virtue of article 3(o) of the National Health Service (Functions of the Common Services Agency) (Scotland) Order 1974; [^c15350451]
+- “**general ophthalmic services**” means the services which a contractor must provide pursuant to paragraph 14 of Schedule 1;
+- “Goldmann type tonometer” includes a Perkins type tonometer;[^key-50c751637be5c09257e56bef0bca7e1f]
+- “[^key-28abb9be5d960810a5378ac7805748cd]**Level 2 disclosure**” has the meaning given in section 8(1) of the Disclosure Act,
+- “**Level 2 disclosure application**” means an application under section 11 of the Disclosure Act,
+- “**licensing or regulatory body**” means a body that licenses or regulates any profession of which the ophthalmic medical practitioner, or the optician (as the case may be) is, or has been a member, including a body regulating or licensing the education, training or qualifications of that profession, and includes any body which licenses or regulates any such profession, its education, training or qualifications, outside the United Kingdom;
+- “list” has, unless the context otherwise requires, the same meaning as in section 29(8) [^c15350461] of the Act;
+- “**mobile practice**” means a contractor who does not have practice premises in the Board's area but who has undertaken to provide general ophthalmic services for a patient who is[^key-c750b7ca646770c4e188fc67e2bf6396] at a day or residential centre or[^key-82dff871c1f86ebc252cfaa45ac5f262] for a patient who is[^key-0f5826dd40cd7c4808dd461b0fc7569c] at a place where the patient normally resides in that part of the Board's area;
+- “**ophthalmic hospital**” includes an ophthalmic department of a hospital;
+- “**Ophthalmic List**” has the meaning assigned to it by regulation 6;
+- “**ophthalmic medical practitioner**” means a registered medical practitioner whose qualifications have been approved in accordance with regulation 4 or 5 as being prescribed qualifications;
+- “**ophthalmic officer**” means an ophthalmic medical practitioner, ophthalmic optician or ophthalmologist in the service of the Agency;
+- “**Ophthalmic Qualifications Committee**” means such committee appointed by organisations representative of the medical profession as may be recognised for the purposes of approving–
+  - (a) ophthalmic hospitals, academic degrees, academic or post graduate courses in ophthalmology and appointments affording special opportunities for acquiring the necessary skill and experience of the kind required for the provision of general ophthalmic services; and
+  - (b) the qualifications of doctors for the purpose of general ophthalmic services;
+- “**optical appliance**” means an appliance designed to correct, remedy or relieve a defect of sight;
+- “**optician**” means an ophthalmic optician as defined in section 108(1) of the Act [^c15350471];
+- “**optometrist**” means a person registered in the register of optometrists maintained under section 7 of the Opticians Act 1989 [^c15350481] [^key-7ab930485d104b63c7d1f35e5c2472c7]... or a body corporate;
+- “[^key-09981d820219c16318273078dc7801f6]**optometrist independent prescriber**” means an optometrist who is a person against whose name is recorded in the register an annotation signifying that the person is qualified to order drugs, medicines and appliances;
+- “**patient**” means any person for whom a contractor has agreed to provide general ophthalmic services, or in respect of whom an ophthalmic medical practitioner or optician has agreed to assist in the provision of general ophthalmic services;
+- [^key-5001dd4bcf15865f913684255f853679]...
+- “practice premises” means a place to which the public has unrestricted access during normal business hours and at[^key-ea7cb74140a017166473ae84510856b6] or from[^key-1a7194376e25135c8be18d7049803e5f] which general ophthalmic services are provided;
+- “primary eye examination” means a general eye health check which includes a sight test, an internal and external examination of the eye as well as other tests and procedures appropriate to the needs of the patient;[^key-d1fd7f8f472ac4b4b1caf3347a733268]
+- “**professional conduct**” includes matters relating both to professional conduct and professional performance;
+- “**professional registration number**” means the number against the ophthalmic medical practitioner or optician's name in the register;
+- “[^key-aea87d9b56f27a7437ed3e82c4ab9a99]**PVG Scheme Level 2 disclosure**” means a Level 2 disclosure to which section 17 of the Disclosure Act applies,
+- “**qualifications**” includes qualifications as to experience;
+- [^key-13fe70aaff181ea8a16fab052019862a]...
+- “records” means records kept in accordance with paragraph 8 of Schedule 1[^key-ca6f50353793d04f112f32b5efbccd8a] [^key-20ee3d71adf5b6562a610823d92c93fb]...;
+- “register”–
+  - (a) in the case of an ophthalmic medical practitioner has the meaning given to it in section 2(2) of the Medical Act 1983 [^c15350491];
+  - (b) in the case of an optician means a person registered in the register of optometrists maintained under section 7 of the Opticians Act 1989 [^key-d782c6970ed9bffe8129924ed3395c4d]..., or, in the case of a body corporate, the register of bodies corporate carrying on business as an optometrist maintained under section 9 of that Act;
+- “**relevant service in the armed forces**” means whole time service in the armed forces of the Crown in a national emergency, as a volunteer or otherwise, or a compulsory whole-time service in those forces, including any service resulting from any reserve liability, or any equivalent service by a person liable for compulsory whole-time service in those forces;
+- “[^key-a920cdcec5a87ee1ce0a5d858e6d823f]**remote facilities**” means any equipment or facility which—
+  - (a) enables persons who are not in the same place to provide and receive general ophthalmic services, and
+  - (b) enables those persons to speak to and be heard by each other (whether or not it enables those persons to see and be seen by each other).
+- [^key-0ae7ae7446110e6ec98fff5241fc1e04]...
+- “**residential centre**” means an establishment in the Board's area for patients who normally reside in that establishment and who are unable to leave the establishment unaccompanied because of physical or mental illness or disability;
+- “scheme member” means a member of the Scheme, established by section 44 of the 2007 Act, in relation to both—
+  - (a) a regulated role with children, as defined in section 91(2) (regulated roles) of the 2007 Act[^key-427875dfc2ca3fafc3cb33e70f5ed7b0]; and
+  - (b) a regulated role[^key-347e694c52fe01638d21f63ebcc636c6] with adults, as defined in section 91(3) of the 2007 Act.
+- “[^key-20ebb07a93395882d5df9787bbdf906f]**scheme record**” means a document disclosed by the Scottish Ministers under section 52 of the 2007 Act which—
+  - (a) sets out the type of regulated work (with children or adults) in relation to which the individual is a scheme member,
+  - (b) confirms that the scheme member is not barred from doing that work,
+  - (c) states if the Scottish Ministers are considering whether to list the scheme member, and
+  - (d) contains vetting information about the scheme member which the Scottish Ministers discovered as a result of enquiries or arrangements made under section 47 of the 2007 Act,
+- “**sight test**” means a refraction to measure and correct the refractive error of the eyes by means of an optical appliance;
+- “[^key-705c10bc055646b0e66d9a47cb9d1059]**specialist ophthalmic medical practitioner**” has the meaning given in paragraph 14A of schedule 1;
+- “**specialist optometrist independent prescriber**” has the meaning given in paragraph 14A of schedule 1;
+- “**the Statement**” means the Statement prepared pursuant to the provisions of regulation 17;
+- “**supplements**” means prisms, tints, photochromic lenses, small glasses and complex appliances;
+- “supplementary eye examination” means an eye health check which is either carried out—[^key-f90ef877a52c9cd940b006cb8b9ce553]
+  - (a) after a primary eye examination for a particular reason which has arisen during the primary eye examination; or
+  - (b) in circumstances set out in regulation 22A(2)[^key-19ee31441333830ea3185c63af775c3e],
+
+    and includes the tests and procedures appropriate to the clinical needs of the patient;
+- “**suspended**” means suspended as respects the provision of general ophthalmic services to patients or as respects assisting in the provision of such services by a direction of the Tribunal made pursuant to section 32A(2) (applications for interim suspension) [^c15350511] or section 32B(1) suspension pending appeal) [^c15350521] of the Act or to any provisions in force in England and Wales or Northern Ireland (corresponding whether or not exactly) to those provisions;
+- “**terms of service**” means the terms set out in Schedule 1;
+- “**Tribunal**” means the Tribunal constituted in accordance with the provisions of section 29 of, and Schedule 8 [^c15350531] to, the Act;
+- “**working day**” means a period of 7 hours 30 minutes on any day of the week, usually between the hours of 9.00am and 5.30pm with a 1 hour lunch break;
+- “**writing**” includes, except in regulation 7(1) electronic communication[^key-ddd23919fd1a3a067f24326c89120dfe] and “**written**” shall be construed accordingly.
+
+(2) A reference to “the Agency” in these Regulations includes a reference to the Agency acting on behalf of a Board.
+
+(3) Unless the context otherwise requires, any reference in these regulations to a numbered regulation or Schedule is to the regulation in or Schedule to these regulations which bears that number, any reference in a regulation or Schedule to a numbered paragraph is to the paragraph bearing that number in that regulation or Schedule, and any reference in a paragraph of Schedule 1 to a numbered sub paragraph is to the sub paragraph bearing that number in that paragraph.
+
+## PART II — QUALIFICATIONS OF OPHTHALMIC MEDICAL PRACTITIONERS
+
+### 3. Qualifications
+
+(1) The prescribed qualifications which a doctor is to possess for the purposes of section 26 of the Act (general ophthalmic services) are that the doctor has (at the date of consideration of the doctor's application under regulation 4) recent experience and either–
+
+- (a) has–
+  - (i) held an appointment in the health service, otherwise than under Part II of the Act, with the status of consultant ophthalmologist, or an appointment for a period of not less than two years of equivalent status as ophthalmic surgeon or assistant ophthalmic surgeon on the staff of an approved ophthalmic hospital; and
+  - (ii) had adequate experience; or
+- (b) has–
+  - (i) held an ophthalmic appointment or an appointment in an approved ophthalmic hospital, for a period totalling not less than two years, including therein tenure for a period of not less than 6 months of a residential appointment or an appointment with duties comparable with those of a residential appointment (provided that such tenure for 6 months of a residential or comparable appointment shall not be required in the case of a doctor who has been fully registered for at least seven years and whose experience is such as to make that requirement unnecessary);
+  - (ii) obtained the Membership of the Royal College of Ophthalmologists, or any approved higher degree or qualification; and
+  - (iii) had adequate experience.
+
+(2) “For the purposes of this regulation, “**approved**” means approved by the Ophthalmic Qualifications Committee.
+
+### 4. Approval of qualifications
+
+(1) A doctor who wishes to establish his or her status as an ophthalmic medical practitioner shall apply to the Ophthalmic Qualifications Committee for approval of his or her qualifications and experience, and shall give to that Committee such particulars of his or her qualifications and experience as it shall require.
+
+(2) The Ophthalmic Qualifications Committee shall consider such application and within one month after the date thereof shall inform the applicant of its determination.
+
+(3) If the Ophthalmic Qualifications Committee is satisfied that the doctor possesses the qualifications prescribed by regulation 3, he or she shall be an ophthalmic medical practitioner.
+
+(4) Notwithstanding the provisions of regulation 3 and paragraph (1), a doctor who has the prescribed qualifications for the purposes of providing general ophthalmic services in England and Wales under the National Health Service Act 1977 [^c15350541] or in Northern Ireland under the Health and Personal Social Services (Northern Ireland) Order 1972 [^c15350551], shall be an ophthalmic medical practitioner.
+
+### 5. Appeals against determinations of Ophthalmic Qualifications Committee
+
+(1) Any person aggrieved by a determination of the Ophthalmic Qualifications Committee that the person is not qualified to be an ophthalmic medical practitioner may, within one month from the date on which he or she received notice of that decision or such longer period as the Scottish Ministers may at any time allow, appeal against the determination by sending to the Scottish Ministers a notice of appeal stating the facts and contentions on which that person relies.
+
+(2) The Scottish Ministers shall appoint to determine the appeal an appeal committee of five persons of whom at least three shall be appointed after consultation with such bodies or organisations representing doctors as appear to them to be concerned and shall refer the appeal to that appeal committee.
+
+(3) The Scottish Ministers shall send a copy of the notice of appeal to the Ophthalmic Qualifications Committee and to such other persons as may appear to them to be interested in the appeal and shall inform the appellant, the Ophthalmic Qualifications Committee and any such other persons that the appeal has been referred and of the address to which communications to the appeal committee shall be sent.
+
+(4) The appeal committee may, and if requested so to do by the appellant or the Ophthalmic Qualifications Committee shall, hold a hearing in connection with an appeal at such time and place as it may direct, and notice of such hearing shall, not less than 28 days before the date of the hearing be sent by the recorded delivery service to the appellant, the Ophthalmic Qualifications Committee and any other person to whom the Scottish Ministers have under paragraph (3) sent notice of appeal.
+
+(5) Either the appellant or the Ophthalmic Qualifications Committee may within 28 days of being informed that the appeal has been referred to an appeal committee, or of being informed that a hearing of such appeal will be held, give notice that he, she or it desires to appear before the appeal committee.
+
+(6) The Ophthalmic Qualifications Committee shall be entitled to appear by a member or by their clerk or other officer duly appointed for the purpose; the appellant shall be entitled to appear in person, by any member of the appellant's family, by any friend, or by an officer or member of any organisation of which the appellant is a member; and any party to an appeal shall be entitled to appear and be heard by counsel or solicitor.
+
+(7) Subject to the foregoing provisions of this regulation the procedure of the appeal committee in determining the appeal shall be such as the appeal committee thinks proper.
+
+(8) An appeal committee shall have all the powers of the Ophthalmic Qualifications Committee including in particular the power of approval and, if satisfied that the appellant possesses the qualifications prescribed by regulation 3, it shall so determine and accordingly the appellant shall be an ophthalmic medical practitioner.
+
+(9) The appeal committee shall as soon as practicable notify its determination to the appellant, the Ophthalmic Qualifications Committee, the Scottish Ministers and any other person to whom the Scottish Ministers have under paragraph (3) sent notice of the appeal.
+
+## PART III — OPHTHALMIC LIST
+
+### 6. Ophthalmic List
+
+(1) Each Board shall prepare and maintain in accordance with these Regulations a list called “the Ophthalmic List” of those persons–
+
+- (a) who, pursuant to the provisions of regulation 7, have undertaken to provide, or who are approved by the Board to assist in the provision of, general ophthalmic services in its area, and
+- (b) who are not disqualified from inclusion in the Ophthalmic List by virtue of the provisions of sections 29B(2) [^c15350561], 30(2) [^c15350571], (5) [^c15350581], 32A(3) [^c15350591] or 32B(1) [^c15350601] of the Act or by a corresponding decision or who may not be added to the Ophthalmic List by virtue of the provisions of regulation 26 (practitioner subject to an inquiry) of the National Health Service (Tribunal) (Scotland) Regulations 2004 [^c15350611].
+
+(2) The Ophthalmic List shall be divided into two parts–
+
+- (a) the first part of which shall be of ophthalmic medical practitioners and opticians who have undertaken to provide general ophthalmic services under arrangements with the Board in terms of these Regulations, and
+- (b) the second part of which shall be of ophthalmic medical practitioners and opticians who are approved by the Board to assist in the provision of such services.
+
+(3) The first part of the Ophthalmic List shall contain the following information:–
+
+- (a) the names of persons who are included therein;
+- (b) the addresses of any practice premises[^key-352da84f0c86f6e81131a5e55101bff9] in the Board's area at or from[^key-7f6060bc8fa9ddd69de7180871354759] which they have undertaken to provide general ophthalmic services, or in the case of a mobile practice, the address to which correspondence in connection with such provision may be sent and the addresses of any day centre or residential centre to be visited more than once;
+- (c) particulars of the days on which and hours between which general ophthalmic services will normally be available at or from[^key-761698b8a99b9771419c9640f8704b4f] such addresses, or in the case of visits to day centres or residential centres by a mobile practice, the months in which visits are intended to take place and the planned interval between such visits;
+- (d) the name of each ophthalmic medical practitioner or optician who is regularly engaged as a deputy, director or employee in the provision of general ophthalmic services at or from[^key-911237e58a7f46263176bbd65a440a7f] any of these addresses;
+- (e) whether the contractor has undertaken [^key-f6b4dc436ae9505e9db3512db7fcb4ab]...to provide general ophthalmic services at a place where the patient normally resides (in accordance with paragraph 4(2)(a) of Schedule 1),[^key-a6c62dc409c99841a8716a96cfd5760d] in addition to providing general ophthalmic services at or from[^key-4c40c1e93ac373830c23ac0f4b66e80f] the addresses specified in sub paragraph (b) above;
+- (f) whether the contractor has undertaken [^key-3dd20fc259e2659637af51d8f7207172]... to provide general ophthalmic services only at a place where the patient normally resides (in accordance with paragraph 4(2)(a) of Schedule 1)[^key-1b8bc01752c42e622168ab02ce28b37f];
+- (g) whether there is wheelchair access to the premises the addresses of which are specified under sub paragraph (b) above;
+- (h) whether the premises the addresses of which are specified under sub paragraph (b) are accessible without the use of stairs.
+- (i) each such person's professional registration number;
+- (j) the date of that person's first registration , and any subsequent registration,[^key-cd2bda7c81358b3539c926e5750891fc] as an optician by the General Optical Council, or as a medical practitioner by the General Medical Council; and
+- (k) the date on which that person's name was included in the first part of the Ophthalmic List.
+
+(4) The second part of the Ophthalmic List shall contain the following information:–
+
+- (a) the names of persons who are included therein;
+- (b) the professional registration number of each such person;
+- (c) the date of that person's first registration , and any subsequent registration,[^key-f24170a8f8df66a6b489644fe89f250c] as an optician by the General Optical Council, or as a medical practitioner by the General Medical Council; and
+- (d) the date on which that person's name was included in the second part of the Ophthalmic List.
+
+(5) Subject to regulation 26(8)–
+
+- (a) an ophthalmic medical practitioner or optician may not provide general ophthalmic services in the area of a Board unless that person's name is included in the first part of the Ophthalmic List of that Board; and
+- (b) an ophthalmic medical practitioner or optician may not assist in the provision of general ophthalmic services in the area of a Board unless that person's name is included in the first or second part of the Ophthalmic List of that Board.
+
+(6) The Board shall–
+
+- (a) send to the Scottish Ministers, the Agency, the area medical committee and the area optical committee, as appropriate, a copy of its Ophthalmic List as soon as possible after its preparation; and
+- (b) notify the Agency within 7 days and the Scottish Ministers, area medical committee and area optical committee within 14 days, of any alterations to its Ophthalmic List.
+
+(7) The Board shall, if necessary, prepare an updated Ophthalmic List each year and send a copy to the Scottish Ministers.
+
+### 7. Application for inclusion in Ophthalmic List and notification of changes
+
+(1) An ophthalmic medical practitioner or optician who wishes to be included in the Ophthalmic List of a Board shall submit to that Board a written application to that effect, which shall state whether the applicant is an ophthalmic medical practitioner, a person registered in the register of optometrists maintained under section 7 of the Opticians Act 1989, or a body corporate registered in the register of bodies corporate maintained under section 9 of that Act carrying on business as an optometrist, and whether the applicant wishes to be included in the first part of the Ophthalmic List, or in the second part of that list, and shall include–
+
+- (a) in the case of an application to be included in the first part of that list an undertaking to provide general ophthalmic services and to comply with the terms of service;
+- (b) in the case of an application to be included in the second part of that list, an undertaking to comply with paragraphs 1, 2, 3, 3A[^key-b9adb2f915e3b47cc189756b8fc1168a], 4(2), 8(1) and (2), 12, 13(4) and (4A)[^key-069a5fe9a6a28e8b9a10d101c8e4a2f4], and 14 of the terms of service.
+- (c) the information, as respect the matters specified in regulation 6(3) or (4) (as the case may be), which it is proposed shall be contained in the Ophthalmic List;
+- (d) in the case of an application to be included in the first part of that list, the information, certificates, applications for such certificates as the case may be[^key-f3f6d6afce28d49449f634f90c4c2392] , Level 2 disclosures[^key-1fcd8fe40150be61f7b1d7e99d70b320] ,[^key-8f396ad379361df0a70d7c131252033d] Level 2 disclosure applications, PVG Scheme Level 2 disclosures[^key-55680f982ba3faacc7b6428a348b2b72], undertakings, consents and declarations set out in Part A of Schedule 2; or
+- (e) in the case of an application to be included in the second part of that list, the information, certificates, applications for such certificates as the case may be[^key-6de7120d188af87545f776c0e1913585] , Level 2 disclosures[^key-b57efa600d3cd1a2345a4a40964f5e32] ,[^key-2e1291a0d88ecc0684f4aeddfb96947b] Level 2 disclosure applications, PVG Scheme Level 2 disclosures[^key-b932a2953660e01e3a0b965e90b9239f], undertakings, consents and declarations set out in Part B of Schedule 2.
+
+(1A)[^key-d49a0442794f15d25122ced0d15aac30] An application may specify other Boards on whose Ophthalmic List the applicant wishes to be included and such an application shall include an undertaking to provide general ophthalmic services and comply with the terms of service in the areas of the Boards so specified.
+
+(1B)[^key-a93707afab984305f7983b452be9a0b4] An application shall, in the case of an application by an optician that is a body corporate, be signed by all the directors of that body corporate.
+
+(2)[^key-660a5c1ed658a5788c3812e6df8d5485] An optician or ophthalmic medical practitioner who is included in a Board’s Ophthalmic List shall—
+
+- (a) notify the Board in writing if there is a change to any of the information which that optician or ophthalmic medical practitioner has provided in terms of regulation 7(1) together with that changed information within 7 days of the occurrence of the relevant change;
+- (b) supply any declarations, certificates, applications, Level 2 disclosure applications, PVG Scheme Level 2 disclosures[^key-3d087c8843368d2c3df70e1c25ab03cb] undertakings and consents either at the same time as it supplies the information in terms of sub-paragraph (a) or by such date as the Board may determine, if the change to the information is such that, had the information been part of an application it would have required any of the declarations, certificates, applications, Level 2 disclosure applications, PVG Scheme Level 2 disclosures undertakings and consents required by regulation 7(1) to be supplied;
+- (c) if the optician or ophthalmic medical practitioner is included in the Ophthalmic List of more than one Board, send the notification and information referred to in sub‑paragraph[^key-faa5554f246dfde0554536d884870f09] (a) to each Board on whose Ophthalmic List that optician or ophthalmic medical practitioner is included, and—
+  - (i) to the Board in whose area the optician or ophthalmic medical practitioner derives most income from general ophthalmic services: the original declarations, certificate or application, PVG Scheme Level 2 disclosure and Level 2 disclosure application,[^key-d73e7f07e5329608ba581166977862b9] undertakings and consents required in terms of sub-paragraph (b); and
+  - (ii) a copy of such originals to each other Board on whose Ophthalmic List that optician or ophthalmic medical practitioner is included.
+
+(3) Before determining an application submitted under paragraph (1), a Board shall–
+
+- (a) check the information provided by the applicant and any documents which the applicant is required to produce in terms of these Regulations;
+- (b) examine references obtained from the referees, the names and addresses of whom[^key-5ac618c0b037c17b7c929ef6e1e15aab] the applicant has provided in accordance with paragraph l(l) of Part A, or 1(g) of Part B, of Schedule 2; [^key-cddb835b4903a3ce765caa3b9f051d90]...
+- (c) check with the Agency whether the applicant has any record of fraud, or is currently, or at any time has been, the subject of any investigation by the Agency, which information the Agency shall supply unless it would prejudice any criminal proceedings or the prevention, detection or investigation of fraud;[^key-5502496c4ba86cabeb7961c77e1c56e3] [^key-454e64c0abf0f7398aab0e114d221258]...
+- (d) notify any other Boards on whose Ophthalmic List the applicant wishes to be included on the application ;[^key-84c5399f5000426c9cd860ae656a002a] [^key-967b594101ecd2b5658cedd6f68a3066]...
+- (e)[^key-4056a2d06cf46046259135f481148d38] obtain any Level 2 disclosure required in respect of the application if such disclosure was not included with the application, and
+- (f) obtain any PVG Scheme Level 2 disclosure[^key-a32993fa16694ff0fe38066246ea8239] it requires in respect of the application.
+
+(4) If a Board considers that further information or documents, in addition to the documents, information and undertakings provided by the applicant in accordance with paragraph (1), are necessary to determine the applicant's application, the Board shall require the applicant to provide such further information or documents as are necessary before the Board shall determine an application in accordance with this regulation.
+
+(4A)[^key-4d0fd39a0945f2261f36c6cc491f3f41] If a Board considers that it requires to meet with—
+
+- (a) the applicant; or
+- (b) where the applicant is an optician that is a body corporate, any of its directors,
+
+in order to properly determine the application, it shall require the applicant or director as the case may be, to attend a meeting at a reasonable time and place to discuss the application, and the applicant or director as the case may be shall comply with such a request.
+
+(4B) A Board may, if it considers that the proposed practice premises of an applicant should be inspected, inspect such premises.
+
+(4C) Where the proposed practice premises of an applicant have never been inspected by a Board, it shall inspect the proposed practice premises before determining the application.
+
+(4D) Any inspection made pursuant to paragraphs (4B) or (4C) shall be made no later than 14 days after the date of receipt of the application.
+
+(4E) Following any inspection made pursuant to paragraphs (4B) or (4C), a Board may specify that the applicant shall carry out such work within a reasonable period of time in order to comply with the provisions of paragraph 6 of Schedule 1.
+
+(5) Where information about an applicant's previous conviction, including information disclosed by means of a Level 2 disclosure or PVG Scheme Level 2 disclosure[^key-cb7c1d3f0c570b79ee55308512d761e2], or any other information or documents disclosed or provided to, or the investigations carried out by, the Board in terms of this regulation lead the Board to consider that there may be grounds for referral to the Tribunal then the Board may refer the matter to the Tribunal.
+
+(6) In the case of an application to a Board by a ophthalmic medical practitioner or optician who is included in either part of the Ophthalmic List for inclusion in the other part of that list, that person shall only be required to provide the information required by paragraphs (1), (2),[^key-36942b1bf5d2ebebec0e8af7e3c08f7d] (3) and (4) insofar as–
+
+- (a) that person has not already supplied such information to that Board; or
+- (b) the information has changed since it was provided.
+
+(7) Any person who is not an optician, but expects to become so on successful completion of that person's training, may make an application to a Board to be included in either part of its Ophthalmic List not more than 4[^key-e92f63c392634fa5ddb247708360a8b2]... months before that person anticipates being registered in the register of optometrists maintained under section 7 of the Opticians Act 1989.
+
+(8) An application under paragraph (7) shall contain–
+
+- (a) all information, certificates, applications for such certificates as the case may be[^key-813c10b5b8c4607b2b4f7981ccc6e6cf] , Level 2 disclosure applications, PVG Scheme Level 2 disclosures,[^key-ead7fc2b6cb8e51e380994fc8803607e] undertakings, consents and declarations mentioned in paragraph (1), except that required by sub paragraphs 1(b) and (c) and 3 of Part A, or paragraphs 1(b) and (c) and 3 of Part B of Schedule 2;
+- (b) the undertakings and consents required by Schedule 2; and
+- (c) any declaration required under Schedule 2.
+
+(9) In the application of these Regulations to any application under paragraph (7), any reference to an optician shall be taken as being a reference to an applicant under paragraph (7).
+
+(10) An applicant under paragraph (7) shall provide the information required by paragraphs 1(b) and (c) and 3 of Part A, or 1(b) and (c) and 3 of Part B, of Schedule 2 as soon as the applicant has been notified by the General Optical Council that the applicant has been admitted to the register, and the Board shall then, provided–
+
+- (a) the requirements of paragraphs (7) and (8) have been complied with;
+- (b) the Board has not sought further information, references or documentation under regulation 7(4); and
+- (c) the Board has not deferred the application under regulation 9[^key-f60f897ea6204da94dd888c9865cef4c],
+
+decide the application within 7 days of receiving the information required under paragraphs 1(b)(c) and 3 of Part A, or 1(b)(c) and 3 of Part B, of Schedule 2.
+
+(11)[^key-a2f54c981dc4a3a0b5b2103ffa695026] Where an applicant for inclusion in a Board’s Ophthalmic List is already included on another Board’s Ophthalmic List and has specified such inclusion in the application, notwithstanding paragraphs (1), (3) and (6), the Board to which the application has been made may add the applicant to its Ophthalmic List without further enquiry.
+
+(12)[^key-1ecaf6ac5ecf9e717ad510b6013d8cb0] An optician or ophthalmic medical practitioner who has made an application for inclusion in a Board’s Ophthalmic List shall notify the Board that is considering the application in writing if there is a change to any of the information which that optician or ophthalmic medical practitioner has provided in terms of this regulation as soon as such change occurs.
+
+### 8. Grounds for refusal of application
+
+(1) The grounds on which a Board must refuse to include an ophthalmic medical practitioner or optician in its Ophthalmic List are that–
+
+- (a) the applicant is not an ophthalmic medical practitioner or an optician;
+- (b) the applicant has been convicted in the British Islands of murder;
+- (c) the applicant is[^key-763dcb5cf97ad0d96044789bb4b4440f] disqualified;
+- (d) the applicant is suspended from the Ophthalmic List or equivalent list[^key-54ef8accc36a7978f051898a8a142717];
+- (e) the applicant has not updated the application in accordance with regulation 9(4)(a);
+- (f) the applicant has been refused entry to, or removed from, an equivalent list by an equivalent body on grounds corresponding (whether or not exactly) to a condition for disqualification and, at the time of the application, the decision of that equivalent body remains in force[^key-4f98a177828282a16220ac27f2dbc807];
+- (g) any order has been made or any direction has been given in terms of the Medical Act 1983 (in the case of an ophthalmic medical practitioner) or the Opticians Act 1989 (in the case of an optician) that the applicant's registration in the register should be erased, removed or suspended and, at the time of the application, such order or direction remains in force[^key-5da87140ca8e204a86b43b2967a410b2] ;[^key-97f378742787ca2a5c2c2412388c36d7]
+- (h) the Board is not satisfied, after an inspection of the premises where the applicant intends to provide general ophthalmic services, that the premises comply with the provisions of paragraph 6 of Schedule 1;
+- (i) the Board is not satisfied that the applicant (except where the applicant is a body corporate) has the knowledge of English which, in the interests of the applicant and of patients who may receive general ophthalmic services from the applicant, is necessary for providing, or assisting with the provision of general ophthalmic services ;[^key-a985432a9414f1067a3854208f99ce01]
+- (j) the applicant (except where the applicant is a body corporate) is not a scheme member;
+- (k) the applicant (except where the applicant is a body corporate) is barred from regulated roles[^key-2f29cb777a144bc4e9b67dd6bc486637].
+
+(2) Paragraph (1) is without prejudice to any duty on a Board not to add the applicant to an Ophthalmic List by virtue of regulation 26 (practitioners subject to inquiry) of the National Health Service (Tribunal) (Scotland) Regulations 2004 [^c15350621].
+
+(3) When the Board has decided whether or not to include an applicant in its Ophthalmic List, it shall notify the applicant and any other Board which the applicant has specified in the application[^key-994141d7af2a63ba47772a489f352ec0] within 7 days of that decision of–
+
+- (a) the decision; and,
+- (b) if the Board has decided not to include the applicant, the grounds for the decision.
+
+(4)[^key-6eb5f15025fcd935e68ef77ebd4a4d71] When the Board has decided to include an applicant in the Ophthalmic List, and has notified another Board of that decision in accordance with paragraph (3), notwithstanding regulation 7(1), (3) and (6), that other Board may include the applicant in that Board’s Ophthalmic List without further enquiry.
+
+### 9. Deferment of decision on application
+
+(1) Without prejudice to the Board's power under section 29 of the Act (the NHS Tribunal) to make representations to the Tribunal that an applicant meets a condition for disqualification, a Board may defer a decision on any application to be included in its Ophthalmic List, where–
+
+- (a) there are, in respect of the applicant–
+  - (i) criminal proceedings in the British Islands conviction in respect of which would be likely to lead to refusal to include the applicant in, or the removal of the applicant from, an Ophthalmic List, or would be likely to lead the Tribunal (if representations were made to it) to be of the opinion that the applicant meets a condition for disqualification, or
+  - (ii) proceedings elsewhere in the world relating to conduct, which, if it had occurred in the British Islands, would constitute a criminal offence,
+
+  the outcome of which would be likely to lead to refusal to include the applicant in, or the removal of the applicant from, an Ophthalmic List, or would be likely to lead the Tribunal (if representations were made to it) to be of the opinion that the applicant meets a condition for disqualification;
+- (b) in respect of a body corporate of which the applicant is, has in the preceding 6 months been, or was at the time of the originating events, a director or one of the body of persons with control of that body corporate, there are–
+  - (i) criminal proceedings in the British Islands conviction in respect of which would be likely to lead to refusal to include the applicant in, or the removal of the applicant from, an Ophthalmic List, or would be likely to lead the Tribunal (if representations were made to it) to be of the opinion that the applicant meets a condition for disqualification, or
+  - (ii) proceedings elsewhere in the world relating to conduct which, if it had occurred in the British Islands, would constitute a criminal offence,
+
+  the outcome of which would be likely to lead to refusal to include the applicant in, or the removal of the applicant from, an Ophthalmic List, or would be likely to lead the Tribunal (if representations were made to it) to be of the opinion that the applicant meets a condition for disqualification;
+- (c) the applicant or a body corporate of which the applicant is, or has in the preceding 6 months been, or was at the time of the originating events, a director or one of the body of persons with control of that body corporate, is the subject of an investigation or proceedings relating to the professional conduct of the applicant or the body corporate by any licensing or regulatory body (including one by the Agency or another Health Board or equivalent body) in the United Kingdom or elsewhere in the world, the outcome of which would be likely to lead to refusal to include in, or removal from, an Ophthalmic List or would be likely to lead the Tribunal (if representations were made to it) to be of the opinion that the applicant meets a condition for disqualification;
+- (d) where the applicant is a body corporate, the applicant is the subject of an investigation or proceedings relating to the professional conduct of the applicant by any licensing or regulatory body (including one by the Agency or another Health Board or equivalent body) in the United Kingdom or elsewhere in the world, the outcome of which would be likely to lead to refusal to include in, or removal from, an Ophthalmic List or would be likely to lead the Tribunal (if representations were made to it) to be of the opinion that the applicant meets a condition for disqualification;
+- (e) a body corporate of which the applicant is, has in the preceding 6 months been, or was at the time of the originating events, a director, or one of the body of persons with control of that body corporate, is suspended from any list or equivalent list;
+- (f) the applicant is being investigated by the Agency in relation to any fraud, where the result, if adverse, would be likely to lead to the applicant's removal from the Board's Ophthalmic List if the applicant were to be included in it;
+- (g) a body corporate, of which the applicant is, has in the preceding 6 months been, or was at the time of the originating events a director, or one of the body of persons with control of that body corporate, is being investigated by the Agency in relation to any fraud, where the result, if adverse, would be likely to lead to the applicant's removal from the Board's Ophthalmic List if the applicant were to be included in it;
+- (h) the Tribunal is considering an application from a Board for disqualification of the applicant or of a body corporate of which the applicant is, has in the preceding 6 months been, or was at the time of the originating events, a director or one of the body of persons with control of that body corporate; [^key-5a4b42f5724b1c14f56ab5ac9c461786]...
+- (i) the applicant has been suspended from a list by a Health Board, or from an equivalent list by an equivalent body ;[^key-89dc72d2160f97915cd10708d2301952] [^key-00d91c028f7b0d1cfaf7af3d142ff053]...
+- (j) after an inspection of the premises for the purposes of regulation 7(4B)-(4E), the Board provided the applicant with a reasonable period of time to carry out such work as the Board has specified in order to ensure that the premises meet the required standard to comply with the provisions of paragraph 6 of Schedule 1; or[^key-63bea2410174b145f249650286cd66be]
+- (k) the applicant is being considered for listing and the Board is satisfied that it is necessary for the protection of members of the public for the application to be deferred.
+
+(2) A Board may only defer a decision under paragraph (1) until the outcome of the relevant event mentioned in any of sub paragraphs (a) to (k)[^key-e3472ab18b0c22247e4cc0ff3e04939a] of that paragraph is known.
+
+(3) The Board must notify the applicant that it has deferred a decision on the application and the grounds for the deferral.
+
+(4) Once the outcome of the relevant event mentioned in paragraph (1) is known, the Board shall notify the applicant in writing that the applicant must within 28 days of the date of the notification (or such longer period as the Board may agree)–
+
+- (a) update the applicant's application; and
+- (b) confirm in writing that the applicant wishes to proceed with the application,
+
+and the provisions of regulations 7, 8 and 9 shall apply to the application.
+
+(5) Provided any additional information required by paragraph (4) has been received by it within the period of 28 days specified in paragraph (4) or any longer period agreed, the Board shall notify the applicant as soon as possible–
+
+- (a) that the application has been successful; or
+- (b) that the Board has decided to refuse the application and the grounds for that decision.
+
+(6) In this regulation, “**the outcome of the relevant event**” means the final determination of any proceedings (including proceedings pending the determination of which the applicant is suspended) or investigation referred to in regulation[^key-4987c75aa5b59aaf84b0c1b929f3e212] 9(1)(a) to (i).
+
+### 10. Withdrawal from Ophthalmic List
+
+(1) Where a person whose name appears on a Board's Ophthalmic List gives notice in writing to the Board that that person desires to withdraw from the Board's Ophthalmic List, that person's name shall, with the agreement of the Board, be removed therefrom at the expiration of 90 days from the date of such notice or of such shorter period as the Board may agree, except that–
+
+- (a) if representations are made to the Tribunal in terms of section 29 of the Act (the NHS Tribunal), or a request for review has been made to the Tribunal or a review is to be made by the Tribunal under section 30 of the Act (review etc. of disqualification) [^c15350631], that person shall not, except with the consent of the Scottish Ministers and subject to such conditions, if any, as the Scottish Ministers may impose, be entitled to have that person's name removed from the Ophthalmic List pending the determination of the proceedings on those representations, request for review or review;
+- (b) the Board shall not agree to a contractor's withdrawal from the Board's Ophthalmic List unless and until the Board is satisfied that satisfactory arrangements have been made for the completion of any general ophthalmic services which such contractor has undertaken to provide.
+
+(2) The Board shall, on receiving notice from any person pursuant to paragraph (1), as soon as practicable so amend the Board's Ophthalmic List–
+
+- (a) on the date which falls 90 days after the date the notice was received, or, if later, the date on which that person has indicated in the notice that that person intends to withdraw; or
+- (b) on the date from which the Board has agreed with that person that the withdrawal shall take effect,
+
+whichever is the earlier.
+
+(3) Any notice given pursuant to paragraph (1) may not be withdrawn by the person giving that notice except with the consent of the Board.
+
+(4) A contractor shall give notice in writing to the Board that he or she intends to withdraw from the first part of its Ophthalmic List if the contractor is accepted on to the second part of its Ophthalmic List.
+
+(5) An ophthalmic medical practitioner or optician who assists in the provision of general ophthalmic services shall give notice in writing to the Board that he or she intends to withdraw from the second part of its Ophthalmic List if he or she is accepted on to the first part of its Ophthalmic List.
+
+### 11. Suspension
+
+(1) If a Board is satisfied that it is necessary to do so for the protection of members of the public or is otherwise in the public interest, it may suspend an ophthalmic medical practitioner or an optician from its Ophthalmic List in accordance with this regulation–
+
+- (a) while it considers whether to remove that person from its Ophthalmic List under regulation 12;
+- (b) while it waits for a decision affecting that person of a court anywhere in the world, or of a licensing or regulatory body;
+- (c) while it considers whether to refer that person to the Tribunal;
+- (d) while it awaits a finding by the Tribunal or equivalent body[^key-809bc4a0479ed8e56a2d74b111e52432];
+- (e) where it has decided to remove that person from its Ophthalmic List but before that decision takes effect ;[^key-7ac03fd05fd2085f72d646999b25e0c1]
+- (f) while that person is being considered for listing.
+
+(2) In a case falling within paragraph (1)(a) or (c), the Board must specify a period, not exceeding six months, as the period of suspension.
+
+(3) In a case falling within paragraph (1)(b), the Board may specify that the ophthalmic medical practitioner or optician (as the case may be) remains suspended after the decision referred to in that paragraph has been made for an additional period, not exceeding six months.
+
+(4) In a case falling within paragraph (1)(b), (d) or (f)[^key-cbfb73714a7506f86d239eda6e12c843], the term of suspension may exceed six months.
+
+(5) If the Board suspends an ophthalmic medical practitioner or an optician in a case falling within paragraph (1)(e) the suspension has effect from the date the Board informed that person of the suspension.
+
+(6) The Board may extend the period of suspension under paragraph (2) or impose a further period of suspension under paragraph (3), so long as the aggregate period of suspension does not exceed 6 months.
+
+(7) The effect of a suspension is that, while an ophthalmic medical practitioner or optician is suspended under these Regulations, that person is to be treated as not being included in the Ophthalmic List even though that person's name appears in it.
+
+(8) The Board may at any time revoke the suspension and notify the ophthalmic medical practitioner or optician (as the case may be) of its decision.
+
+(9) Where a Board is considering suspending an ophthalmic medical practitioner or an optician or varying the period of suspension under this regulation, it shall give the ophthalmic medical practitioner or optician (as the case may be)–
+
+- (a) notice of any allegation against that person;
+- (b) notice of what action it is considering and on what grounds; and
+- (c) the opportunity to put that person's case at an oral hearing before the Board, on a specified day, provided that at least 24 hours' notice of the hearing is given.
+
+(10) If the ophthalmic medical practitioner or optician (as the case may be) does not wish to have an oral hearing or does not attend the oral hearing, the Board may suspend that person with immediate effect.
+
+(11) If an oral hearing does take place, the Board shall take into account any representations made at the hearing before it reaches its decision.
+
+(12) The Board may suspend the ophthalmic medical practitioner or optician (as the case may be) with immediate effect following the hearing.
+
+(13) The Board shall notify the ophthalmic medical practitioner or optician (as the case may be) of its decision and the reasons for it (including any facts relied upon) within 7 days of making that decision.
+
+(14) During a period of suspension, payments shall be made to or in respect of the ophthalmic medical practitioner or optician (as the case may be) in accordance with regulation 21.
+
+(15) If an ophthalmic medical practitioner or optician (as the case may be) is dissatisfied with a decision of a Board (“**the original decision**”)–
+
+- (a) not to authorise the Agency to make a payment to or in respect of that person pursuant to a determination under regulation 21;
+- (b) to authorise the Agency to make a payment to or in respect of that person pursuant to a determination under regulation 21, but at a lower level than the level to which the suspended ophthalmic medical practitioner or optician (as the case may be) considers to be correct; or
+- (c) in respect of recovery of what the Board considers to be an overpayment,
+
+that person may ask the Board to review the original decision and, if that person does so, the Board shall reconsider the original decision, and once it has done so, it must notify that person in writing of the outcome of that reconsideration (“the reconsidered decision”) and give that person notice of the reasons for the reconsidered decision.
+
+### 12. Removal from Ophthalmic List
+
+(1) Where a Board has determined that a person whose name has been included in its Ophthalmic List–
+
+- (a) has died;
+- (b) has ceased to be an ophthalmic medical practitioner or optician;
+- (c) has been convicted in the British Islands of murder;
+- (d) is[^key-9dbac6bf163d958cf0e4efa965efce13] disqualified;
+- (e) has been refused entry to, or removed from, an equivalent list by an equivalent body on grounds corresponding (whether or not exactly) to a condition for disqualification (and that refusal or removal is still in force)[^key-33bfdaeab9c31fc3eaf5918394998aaa]; [^key-0e9447ecee219046d3f44d4e27ffd837]...
+- (f) any order has been made or any direction has been given in terms of the Medical Act 1983 (in the case of an ophthalmic medical practitioner) or the Opticians Act 1989 (in the case of an optician) that the applicant's registration in the register should be erased, removed or suspended (and that erasure, removal or suspension is still in force)[^key-566d16362c7e2847d4f9da20bf5c489b] ;[^key-1e65fa33d949fd76fd0156b69b2accb9]
+- (g) is barred from regulated roles[^key-bd14d5d79e309bcf36f30ad94ccdd4ba]; or
+- (h) is no longer a scheme member,
+
+it shall remove that person's name from the Ophthalmic List with effect from the date of its determination or, in the case of (d) above, the date on which the disqualification takes effect if that date is later than the date of the Board's determination, and shall notify that person as soon as practicable of the removal and the grounds for the removal.
+
+(2) Where a Board determines [^key-a4b0f79e2ef33e1cd4f9a2a71aeefadb]... that a person whose name has been included for the preceding 12[^key-172718fb636a9ec0e8c300658c94a2f0] months in the first part of the Ophthalmic List of the Board has not during that period provided general ophthalmic services for persons in the Board's area, the Board shall remove the name of that person from its Ophthalmic List.
+
+(3) Where a Board determines [^key-83f335f71e608a6c199f42e938b2b885]... that a person whose name has been included for the preceding 12 months in the second part of the Ophthalmic List of the Board has not during that period assisted with the provision of general ophthalmic services for persons in the Board's area, the Board may remove the name of that person from its Ophthalmic List.
+
+(4) In calculating the periods of 6 and 12 months referred to in paragraphs (2) and (3) the Board shall disregard any period during which the ophthalmic medical practitioner or optician (or the case may be)–
+
+- (a) was not included in its Ophthalmic List;
+- (b) was suspended;
+- (c) was performing a period of relevant service in the armed forces;
+- (d) was suspended from the Ophthalmic List by the Health Board;
+- (e) was suspended from the register.
+
+(5) Before making any determination under paragraphs (2) or (3) the Health Board shall give the contractor or the ophthalmic medical practitioner or optician assisting with the provision of general ophthalmic services 28 days' notice of its intention so to do and shall afford that person an opportunity of making representations to the Board orally or in writing, if he or she so wishes.
+
+(6) No determination under this regulation shall be made in respect of any ophthalmic medical practitioner or optician who has completed a period of relevant service in the armed forces until 12 months after the date when that person completed that period of relevant service in the armed forces.
+
+(7) Nothing in this regulation shall prejudice the right of a person to have that person's name included again in a Board's Ophthalmic List.
+
+(8) Any document which is required or authorised to be given to any person under these Regulations[^key-98a80bddd0917a351f6e937cd94238c8] may be given by delivering it to that person or by sending it by recorded delivery service to that person's usual or last known practice premises[^key-5e4fd5150249a83f1b16268f0812b2b5] as recorded in the Ophthalmic List or in the case of an ophthalmic medical practitioner or optician who assists in the provision of general ophthalmic services to his or her home address.
+
+(9) Paragraph (1) is without prejudice to any duty on a Board to remove an ophthalmic medical practitioner or an optician from an Ophthalmic List by virtue of that person being suspended under section 32A or 32B of the Act.
+
+(10) Where information about the conviction(s) of any person on an Ophthalmic List or any other information relating to such a person is disclosed to a Board, including by means of a Level 2 disclosure[^key-4d5b1fea7aaff4d5789137086b330e68], and the Board considers that the disclosure may be grounds for removal of that person from the Board's Ophthalmic List (other than under paragraph (1), (2) or (3)) then the Board may refer the matter to the Tribunal.
+
+### 13. Re inclusion in Ophthalmic List
+
+(1) Where an ophthalmic medical practitioner or optician has been removed from a Board's Ophthalmic List under regulation 12, and the occurrence that led to that removal is overturned either on appeal, or for any other reason, the Board may include that person in its Ophthalmic List without an application being made in accordance with regulation 7 if the Board is satisfied that there is no further information which it should consider, and provided that the Board receives undertakings from that person to comply with these Regulations.
+
+(2) Where the Board considers that further information is required, a person who wishes to be re-included in the Ophthalmic List will be required to complete a full application in accordance with regulation 7.
+
+### 14. Disclosure of information
+
+(1) Where a Board decides to–
+
+- (a) refuse to admit a person to the Board's Ophthalmic List on the grounds specified in regulation 8(1)[^key-44650e5bf8f4bb91fc93bc3740336df4];
+- (b) remove an ophthalmic medical practitioner or optician from that list on the grounds specified in regulation 12(1)[^key-62d1e3e5c5a7d6e95e9737d6c085331d]; or
+- (c) suspend a person from that list, or end a suspension under regulation 11,
+
+the Board shall notify the persons or bodies specified in paragraph (2), and shall additionally notify those specified in paragraph (3), if requested to do so by those persons or bodies in writing, of the matters set out in paragraph (4).
+
+(2) Where paragraph (1) applies, a Board shall notify within 7 days of that decision–
+
+- (a) the Scottish Ministers;
+- (b) the Agency;
+- (c) any other Board or equivalent body that, to the knowledge of the notifying Board–
+  - (i) has that person on any list or equivalent list,
+  - (ii) is considering an application by that person for inclusion in any list or equivalent list; or
+  - (iii) is investigating an allegation against that person;
+- (d) the Secretary of State;
+- (e) the National Assembly for Wales;
+- (f) the Northern Ireland Executive;
+- (g) the General Medical Council in respect of an ophthalmic medical practitioner, or the General Optical Council in respect of an optician, or any other appropriate regulatory body;
+- (h)[^key-a8fac7983cfee352a28a7488bbefac95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The persons or bodies to be additionally notified in accordance with paragraph (1) are–
+
+- (a) persons or bodies that can establish that they are employing that person or using that person's services to provide or assist in the provision of general ophthalmic services[^key-ae7f698c7cec0aa2ea4bd51f1631f44a];
+- (b) a body corporate which provides general ophthalmic services and which can establish that the person is one of the body of persons which governs or controls the body corporate.
+
+(4) The matters referred to in paragraph (1) are–
+
+- (a) the person's name;
+- (b) the person's professional registration number;
+- (c) the date and a copy of the Board's decision; and
+- (d) a contact name of a person in the Board for further enquiries.
+
+(5) The Board shall send to the person concerned a copy of any information about that person provided to the persons or bodies listed in paragraphs (2) or (3), and any correspondence with that person or body relating to that information.
+
+(6) Where the Board has notified any of the persons or bodies specified in paragraphs (2) or (3) of the matters set out in paragraph (4), it may, in addition, if requested by that person or body, notify that person or body of any information that was considered by the Board, including any representations from the ophthalmic medical practitioner or optician (as the case may be).
+
+(7) A Board may disclose information about an ophthalmic medical practitioner or optician supplied to it or acquired by the Board pursuant to these Regulations, or about references by the Board to the Tribunal, to any of the following–
+
+- (a) the Scottish Ministers;
+- (b) the Agency;
+- (c) any other Board or equivalent body, which–
+  - (i) has the person to whom the information relates on any list or equivalent list;
+  - (ii) is considering an application from such a person for inclusion in any list or equivalent list;
+  - (iii) is investigating an allegation against that person;
+- (d) the Secretary of State;
+- (e) the National Assembly for Wales;
+- (f) the Northern Ireland Executive;
+- (g) the General Medical Council in respect of an ophthalmic medical practitioner or any other licensing or regulatory body;
+- (h) the General Optical Council in respect of an optician or any other licensing or regulatory body;
+- (i) persons or bodies that can establish that they are employing that person or using that person's services;
+- (j) a body corporate which provides general ophthalmic services, and can establish that the person is one of the body of persons which governs or controls the body corporate;
+- (k)[^key-e269a1d63e3e6883f034d999f634bab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Requirements with which an ophthalmic medical practitioner or optician included in an Ophthalmic List must comply
+
+(1) An ophthalmic medical practitioner or an optician included in an Ophthalmic List shall–
+
+- (a) exercise a reasonable standard of professional and clinical judgement, behaviour, skill, knowledge and care towards patients who receive general ophthalmic services from that person;
+- (b) comply with the terms of service appropriate to the part of the Ophthalmic List on which his or her name appears; and
+- (c) comply with the undertakings specified in Schedule 2 appropriate to the part of the Ophthalmic List on which his or her name appears and any other requirement of these Regulations whether or not those undertakings were included in an application by that person under regulation 7[^key-12eb0cbe8343d63db4e7459aa3c97ae3].
+
+(2)[^key-f21ac9a3bacb07d274f0ef50a690958a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) An ophthalmic medical practitioner or an optician shall not give, promise or offer, or cause to be given, promised or offered, to any person any incentive, gift or reward as an inducement to, or in consideration of, the provision of any general ophthalmic services.
+
+### 16. Effect to be given to corresponding decisions in England, Wales and Northern Ireland
+
+(1) Where any corresponding decision is made in England, Wales or Northern Ireland by an equivalent body that–
+
+- (a) a person is to be included in an equivalent list subject to conditions;
+- (b) a person is to be removed from an equivalent list contingent on conditions;
+- (c) a person is to be disqualified from an equivalent list subject to conditions; or
+- (d) any conditions so imposed are varied,
+
+a Health Board shall impose those conditions in relation to the provision, or the assistance in the provision, by that person of general ophthalmic services in the area of the Health Board.
+
+(2) The Health Board may make such modifications of the conditions referred to in paragraph (1) as it considers necessary for them to have the like effect in[^key-a6f8091bf845db40ecbeb38e3776587e] relation to Scotland as they do in relation to England, Wales or (as the case may be) Northern Ireland, but only if the Health Board has previously given the person concerned written notice of the proposed modifications and an opportunity to make representations about them.
+
+## PART IV — GENERAL ARRANGEMENTS
+
+### 17. The Statement
+
+(1) The Scottish Ministers shall, after consultation with such organisations as appear to them to be representative of contractors providing general ophthalmic services, make provision in a determination (in these Regulations referred to as “**the Statement**”) as to–
+
+- (a) the fees to be paid by a Board to ophthalmic medical practitioners and opticians for providing general ophthalmic services;
+- (b) the allowances to be paid by the Board for continuing professional development[^key-5f4533cbede46e303425c53d3a004505] undertaken by ophthalmic medical practitioners and opticians other than a body corporate registered in the register of bodies corporate maintained under section 9 of the Opticians Act 1989 carrying on business as an optometrist; and
+- (c) the allowances, or reimbursement of expenses, to be paid by the Board for the provision of services by ophthalmic medical practitioners and opticians.
+
+(2) Any such determination–
+
+- (a) shall be published;
+- (b) may be amended, in whole or in part, after consultation with those organisations referred to in paragraph (1).
+
+(3) A determination or an amendment to a determination shall be in respect of a period beginning on or after a date specified in the determination or the amendment to a determination, which may be the date of the determination or an amendment to the determination or an earlier or later date, but may be an earlier date only if it, taking the determination as a whole, it is not detrimental to the person to whose remuneration it relate.
+
+### 18. Terms of service
+
+The arrangements for the provision of general ophthalmic services made by a Board shall incorporate the terms of service and the Statement.
+
+### 19. Arrangements for particular districts
+
+Where it appears to a Board that provision is required to meet the needs of the residents of any particular district in the Board area, the Board may, after consultation with the area optical committee and with the approval of the Scottish Ministers, make arrangements with an optician or an ophthalmic medical practitioner whereby the optician or the ophthalmic medical practitioner undertakes to provide general ophthalmic services at suitable centres in that district on such terms as may be specified in the arrangements.
+
+### 20. Payment
+
+(1) Each Board shall make or cause to be made by the Agency to contractors within its area payments in accordance with the Statement, and any payments which may become due to contractors by virtue of arrangements made under regulation 19.
+
+(2) Where the Agency considers that it has made a payment to a contractor owing to an error or in circumstances where it was not due, it shall, except to the extent that the Scottish Ministers on the application of the Board direct otherwise, draw the overpayment to the attention of the contractor and the amount overpaid shall be recoverable as a debt by any lawful means.
+
+(3) Recovery of an overpayment under the provisions of this regulation shall be without prejudice to the investigation of an alleged breach of the terms of service.
+
+(4) A contractor who is unable to complete for a patient the general ophthalmic services which he or she[^key-864d85b2f0d84cf9915e7beba98074ad] has undertaken to provide shall inform the Agency accordingly in writing, and if the Agency is satisfied that the inability is due to a reasonable cause it shall make payment in accordance with the Statement to the contractor for such part of those services as he or she shall have provided.
+
+### 21. Payments to ophthalmic medical practitioners and opticians suspended
+
+(1) A Board shall authorise the Agency to make payments to any ophthalmic medical practitioner or optician who is suspended by direction of the Tribunal or by the Board in accordance with regulation 11 in accordance with the Scottish Ministers' determination for the time being in force in relation to such payments.
+
+(2) The Scottish Ministers shall make the determination in accordance with paragraphs (3) and (4) after consultation with the organisations referred to in regulation 17(1), and it shall be published with the Statement there referred to.
+
+(3) Any determination under paragraph (1)–
+
+- (a) shall determine any sum payable by reference to remuneration which the ophthalmic medical practitioner or optician might have received during the period that person was suspended and may provide that the assessment of such remuneration shall take into account such factors and evidence as may be specified[^key-4bf2017a92543e9f46ee5bca61d48fbf]; and
+- (b) may also determine any sum payable by reference to any other payment received or which might have been received by the ophthalmic medical practitioner or optician had that person not been suspended and may provide that the assessment of such remuneration shall take into account such factors and evidence as may be specified.
+
+(4) The Scottish Ministers' determination may include provision that payments in accordance with the determination are not to exceed a specified amount in any specified period.
+
+(5) Regulation 17(2) shall apply to determinations under this regulation as it applies to determinations under that regulation.
+
+(6)[^key-c19fd4f2ca0d954323bd5e55aaad6a4c] Where the Agency considers that it has made a payment to an ophthalmic medical practitioner or optician owing to an error or in circumstances where it was not due, it shall, except to the extent that the Scottish Ministers on the application of the Board direct otherwise, draw the overpayment to the attention of the ophthalmic medical practitioner or optician and the amount overpaid shall be recoverable as a debt by any lawful means.
+
+### 21A. Inspection of Practice Premises[^key-e0483bab43216f02ddc96798b09e680f]
+
+Each Board must inspect at intervals not exceeding three years, all practice premises of every contractor who is included on the Ophthalmic List for its area (where such practices are located within its area).
+
+## PART V — PROCEDURE FOR CHOOSING CONTRACTOR
+
+### 21B. Emergency eye examination[^key-c7e61aee181d8e4da342ab5d389676a9]
+
+(1) Where a person presents to an ophthalmic medical practitioner or optician included in an Ophthalmic List in circumstances where that ophthalmic medical practitioner or optician considers it to be an emergency, that ophthalmic medical practitioner or optician—
+
+- (a) must carry out an emergency eye examination; or
+- (b) if unable to carry out an emergency eye examination, must, with the person’s agreement, take all reasonable steps to make an arrangement with—
+  - (i) another ophthalmic medical practitioner or optician on the Ophthalmic List to carry out an emergency eye examination; or
+  - (ii) a hospital or GP practice to examine the person,
+
+and when making the arrangement, must indicate the degree of urgency.
+
+(2) Before an ophthalmic medical practitioner or optician carries out an emergency eye examination under paragraph (1)(a) or (b)(i), the person must make an application for an eye examination under regulation 22(1).
+
+### 22. Application for an eye examination
+
+(1) A person who wishes to have an eye examination under general ophthalmic services must[^key-9fc1199518348de8d18f60a7e0643762] make an application to any ophthalmic medical practitioner or optician on the Ophthalmic List for an eye examination.
+
+(2)[^key-4aacc1d39da2c6ef1f5b7a1957c4fb41] The application must be made on an eye examination form [^key-e9772511bab5baa9e9ceec2db746cea5]....
+
+(2A)[^key-8914f9541130fcfeb7d3f8879ed41c9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2B)[^key-f86292cd507549c3066c1ace4a5ad8f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) An ophthalmic medical practitioner or optician to whom an application for an eye examination is made shall, before carrying out an eye examination–
+
+- (a) ensure that particulars of the patient and the approximate date of the patient's last eye examination, if any, are inserted in an eye examination form by the patient or on his or her behalf; and
+- (b)[^key-997cb927ed092fde8fb6f5f208ec9856] unless the eye examination is an emergency eye examination, be satisfied that it is necessary.
+
+(3A)[^key-2920fe664eec931e5fd000e148f811c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3B)[^key-2920fe664eec931e5fd000e148f811c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3C)[^key-2920fe664eec931e5fd000e148f811c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Where the ophthalmic medical practitioner or optician has provided the eye examination at a place where the patient resides, the ophthalmic medical practitioner or optician shall record on the eye examination form the physical or mental illness or disability given by or on behalf of the patient as the reason for the patient not being able to leave home unaccompanied.
+
+### 22A. Frequency of eye examinations[^key-4e8fba2432c2c2adfa29a779e8e7ac7f]
+
+(1) Where an eye examination is a primary eye examination, that examination must not be carried out more frequently than permitted as a condition of remuneration by the Statement.
+
+(2) Where an eye examination is carried out more frequently than permitted as a condition of remuneration by the Statement, it must be undertaken as a supplementary eye examination.
+
+### 23. Application on behalf of children or incapable persons
+
+(1) [^key-fef9e1b817f01542603730c0536a19c4]... an application for an eye examination under regulation 22(1) must be made[^key-b4596dd1a67e8cb89ef17833fc2beb83] [^key-75a5e1e78e9a6a73bd6d74468229bca5]...–
+
+- (a) on behalf of any person under 16 years of age by either parent, or in the absence of both parents, the guardian or other adult person who has the care of the child;
+- (b) on behalf of any other person who is incapable of making such an application [^key-785441c9d3e3ae81c462987aefe4c01b]... by–
+  - (i) an adult relative,
+  - (ii) any other adult who has the care of that person, or
+  - (iii) any other adult competent to make such an application [^key-a48bec7e7a96e5eba8d89704f3c6b309]... in accordance with any rule of law;
+- (c) on behalf of any person under the age of 18–
+  - (i) who is looked after by a local authority within the meaning of section 17(6) of the Children (Scotland) Act 1995 [^c15350641], by a person duly authorised by that authority;
+  - (ii) in the care of a voluntary organisation, by that organisation or by a person authorised by it.
+
+(2)[^key-24d5a2aa3665839c1b3662d218b73cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-377fc7c89966359deb4e3d219c2b3972] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART VI — MISCELLANEOUS
+
+### 24. Publication of particulars
+
+Copies of the Ophthalmic List, these Regulations, the terms of service and the Statement shall be made available for inspection at the offices of the Board and at such other places in the Board's area as appear to be convenient for informing any person interested, and shall be kept revised and up to date
+
+### 25. Service of documents
+
+Subject to regulation 12(8), any document which is required or authorised under these regulations or under the terms of service to be given to an ophthalmic medical practitioner or optician may be given by delivering it to such a person or by sending it addressed to that person at any address notified by him or her to the Board for inclusion in the Ophthalmic List as a practice premises[^key-f5e75b4e182ee60a8e4b927bf69354cb], or in the case of a mobile practice, the address notified to the Board as the address to which correspondence may be sent or in the case of an ophthalmic medical practitioner or optician who assists in the provision of general ophthalmic services to his or her home address.
+
+### 26. Revocation, savings and transitional provisions
+
+(1) Subject to paragraphs (2) and (3), the regulations specified in Schedule 6 (“**the revoked Regulations**”) are hereby revoked.
+
+(2) In respect of any general ophthalmic services provided under the revoked Regulations for which arrangements were made before 1st April 2006, payments shall be made as though the revoked Regulations and determinations made under them and in force on 31st March 2006 continue to be in force.
+
+(3) The first part of a Board's Ophthalmic List on 1st April 2006 shall be deemed to include the name of any person whose name was included in the Ophthalmic List of that Board kept under regulation 6 (Ophthalmic List) of the National Health Service (General Ophthalmic Services) (Scotland) Regulations 1986 [^c15350651] (“the previous Ophthalmic List”) on 31st March 2006, together with all the information relating to that person which is contained in the previous Ophthalmic List.
+
+(4) Any action taken by or on behalf of a Board prior to 1st April 2006 in relation to its previous Ophthalmic List, (or in relation to the persons or entries thereon), shall have effect on and after 1st April 2006 as if such action had been taken by that Board in relation to the first part of the Ophthalmic List maintained by that Board on 1st April 2006 or in relation to the persons or entries thereon.
+
+(5) Any action taken by or on behalf of any other person prior to 1st April 2006 in relation to the previous Ophthalmic List of a Board (or in relation to the persons or entries thereon) shall have effect on and after 1st April 2006 as if such action had been taken in relation to the first part of the Ophthalmic List maintained by that Board on 1st April 2006 or in relation to the persons or entries thereon.
+
+(6) Any person whose name is deemed to be included in the Ophthalmic List of a Board in terms of paragraph (3) shall no later than 30th June 2006–
+
+- (a) submit to the Board an enhanced criminal certificate in relation to himself or herself or, where the optician is a body corporate carrying on business as an optometrist, in relation to each director of or person controlling that body corporate, dated not earlier than 28 days before the date of submission to the Board; and
+- (b) provide the Board with the declarations specified in Part C of Schedule 2; and
+- (c) consent in writing to a request being made by the Health Board to the Agency, any employer or former employer, licensing, regulatory or other body in the United Kingdom or elsewhere for information relating to a current investigation, or an investigation where the outcome was adverse, into that person or a body corporate referred to in Part C of Schedule 2, and for the purposes of this paragraph “**employer**” includes any partnership of which that person is, or was, a member.
+
+(7) The Health Board may extend the period prescribed in paragraph[^key-99643df906b4bcababf047f61ec5b9b3] (6) for such time as it considers appropriate in the circumstances of the case if it thinks it is not reasonably practicable for that ophthalmic medical practitioner or optician to provide it with such certificates, declarations and consent within the prescribed period.
+
+(8) Any person who wishes to be included in the second part of a Board's Ophthalmic List shall be entitled to assist in the provision of general ophthalmic services in the Board's area without that person's name being included in that list until 30th June 2006, provided that that person is an ophthalmic medical practitioner or optician.
+
+RHONA BRANKIN
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew's House,
+
+Edinburgh
+
+## SCHEDULE 1 — TERMS OF SERVICE
+
+Regulations 2(1) and 18
+
+### 1. Interpretation
+
+In this Schedule–
+
+- (a) the expression “**the regulations**” means the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006;
+- (b) any reference to a numbered regulation is a reference to the regulation bearing that number in the regulations;
+- (c) any reference to a numbered paragraph is a reference to the paragraph bearing that number in this Schedule, and any reference in a paragraph to a numbered sub paragraph is a reference to the sub paragraph bearing that number in that paragraph;
+- (d) other words and expressions have the same meaning as in the Regulations.
+
+### 2. Incorporation of provisions
+
+Any provisions of the following affecting the rights and obligations of contractors and ophthalmic medical practitioners and opticians assisting in the provision of general ophthalmic services shall form part of the terms of service–
+
+- (a) the regulations;
+- (b) the National Health Service (Tribunal) (Scotland) Regulations 2004 [^c15350661];
+- (c) so much of the National Health Service (Discipline Committees) (Scotland) Regulations 2006[^key-9c6d235a76ad77babdccd24fab164fb0] as relates to–
+  - (i) the investigation of questions arising between ophthalmic medical practitioners or opticians and their patients, other investigations to be made by a discipline committee and the action which may be taken by the Board as a result of such investigations, including the withholding of remuneration where there has been a breach of the terms of service;
+  - (ii) appeal to the Scottish Ministers from decisions of the Board;
+  - (iii) the investigation of the excessive–
+    - (aa) undertaking of eye examinations;
+    - (bb) issuing of optical vouchers;
+    - (cc) prescribing of supplements;
+- (d) regulation 9 of the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998 [^c15350681];
+- (e) the Statement;
+- (f) the General Optical Council's Rules Relating to Injury or Disease[^key-56ca4cc7dbc64df4758c3be8abf8625f] of the Eye; [^key-2fcaff1c926ae037fcec2fac93a73c54]...
+- (g)[^key-539c4305a89ad8844e47ebd331eeca69] the College of Optometrists’ Guidance for Professional Practice;[^key-5c56457a8ee0f8b384bee12cef5b1cb1]...
+- (h) the Patient Rights (Scotland) Act 2011 and any regulations or directions made under that Act, so far as relevant to contractors and ophthalmic medical practitioners and opticians as providers of services under the health service; and[^key-367a80e0373d1d90f560794b82aa0afc]
+- (i) Scottish Intercollegiate Guidance Network 144: Glaucoma Referral and Safe Discharge.
+
+### 3. Certificate of training
+
+(1) Except in the case of a body corporate, an ophthalmic medical practitioner or optician providing, or assisting in the provision of, general ophthalmic services shall undertake a course of training in the use of slit lamp biomicroscopy, condensing lens biomicroscopy, contact applanation tonometry using a Goldmann type tonometer[^key-a6ff00cd7eca5d3c899468a5bb28ef07] and threshold visual fields from a training provider approved by the Agency[^key-0b34890af6c9554799a14563560d068b] and shall provide to the Board a certificate from the provider of that training that that person has completed the training satisfactorily
+
+(2) Except in the case of a body corporate, any application for inclusion in the Ophthalmic List must be accompanied by such a certificate.
+
+(3) Except in the case of a body corporate, in the case of any person to whom regulation 26(6) applies, that person shall provide such a certificate to the Board no later than 30 June 2006, or by such later date as the Board considers appropriate in the circumstances of the case if it thinks it is not reasonably practicable for that person to provide such certificate by 30 June 2006
+
+### 3A. Mandatory training[^key-73e377898caba99b1da69d977d0f53e0]
+
+(1) Except in the case of a body corporate, in each relevant period an ophthalmic medical practitioner or optician providing or assisting in the provision of general ophthalmic services must—
+
+- (a) undertake and satisfactorily complete[^key-972fdabffb014fe4a8ddd9261191628e] a course of training provided by the Agency[^key-0ab9c224f3a48fc4da4e5aba5064d69d] which comprises training on any or all of the following topics:—
+  - (i) the content and application of these Regulations and other relevant rules and law;
+  - (ii) record keeping;
+  - (iii) leadership, managing and working within an ophthalmic practice;
+  - (iv) clinical skills and governance;
+  - (v) managing ocular conditions;
+  - (vi) ethical and professional obligations;
+  - (vii) best practice guidance; [^key-04e0235dd601b811f03fd2de6b14b326]...
+- (b)[^key-04e0235dd601b811f03fd2de6b14b326] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In this paragraph “relevant period” means each of the following periods—
+
+- (a) 1st October 2018 until 31st December 2020;
+- (b) 1st January 2021 until 31st December 2021; and
+- (c) each successive period of 12 months after the period specified in head (b).
+
+(3)[^key-6dbdde683b1173588206748cd9d9c229] Where an ophthalmic medical practitioner or optician is first included in the Ophthalmic List of any Board after 31st October in any relevant period, the requirement in paragraph (1) does not apply to that ophthalmic medical practitioner or optician for that relevant period.
+
+### 4. Premises at which general ophthalmic services are to be provided
+
+(1) Subject to sub paragraph (2), a contractor shall provide general ophthalmic services or cause such services to be provided by an ophthalmic medical practitioner or optician who assists in the provision of general ophthalmic services at the addresses of all the practice premises which are[^key-fc7accf7be8b9d62158d7e388dfb0f31] included in relation to the contractor in the Ophthalmic List.
+
+(1A)[^key-826c8d3ca5c880f3209aa0ddc8c02d78] A contractor described in sub-paragraph (1) may, from time to time, provide general ophthalmic services or cause such services to be provided from the practice premises using remote facilities.
+
+(2) An ophthalmic medical practitioner or optician on the Ophthalmic List may, where requested to do so by or on behalf of a patient, who is–
+
+- (a) unable to leave home unaccompanied because of physical or mental illness or disability, agree to provide general ophthalmic services or assist in the provision of general ophthalmic services at the place at which the patient normally resides; or
+- (b) attending a day centre, agree to provide general ophthalmic services or assist in the provision of general ophthalmic services at that day centre.
+
+(2A)[^key-4f1afe1479a9436779dbda3df6ca15f8] An ophthalmic medical practitioner or optician described in sub-paragraph (2) may, from time to time, provide general ophthalmic services or assist in the provision of general ophthalmic services using remote facilities.
+
+### 5. Visits[^key-133d799d1647cad9e5a9635859e0b8cd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Premises and equipment
+
+(1)[^key-c145634b01a164b3fb72421295e6ccb1] Subject to sub-paragraph (2), a contractor shall provide proper, sufficient and appropriate premises, equipment and procedures for the provision of general ophthalmic services at or from[^key-fab44dc86d72fb2ecb9692088131a881] the practice premises.
+
+(2) A contractor who provides general ophthalmic services for a patient who is[^key-368e2c152125202511b7036249453e7d] at a day centre, residential centre or[^key-7fd8e3c5ea3e1ca270073be06d57f661] for a patient who is[^key-93f60c6bc38522c59e9cb123af98be22] at a place where the patient normally resides shall provide proper, sufficient and appropriate [^key-55a9543ca01bb513863c96812709d877]... equipment and procedures for the provision of general ophthalmic services.
+
+(3) Subject to sub paragraph (4), a contractor, on receipt of a written request from the Board, shall admit at all reasonable times for the purposes of inspecting such accommodation or equipment and reviewing procedures an ophthalmic officer or any authorised officer of the Scottish Ministers or the Board or member of the Board.
+
+(4) In the case of a mobile practice, the contractor, on receipt of a written request from the Board to do so, shall arrange for an ophthalmic officer or any authorised officer of the Scottish Ministers or the Board or member of the Board to be allowed to inspect at a reasonable time the facilities and equipment that the contractor or an ophthalmic medical practitioner or opticians who assists the provider in the provision of general ophthalmic services uses.
+
+### 7. Notices
+
+A contractor shall secure that at each place at which the contractor provides general ophthalmic services or an ophthalmic medical practitioner or optician assists the contractor in the provision of general ophthalmic services there is prominently displayed notices and leaflets[^key-333b5561aec3f1d055355aeef01c96cd] supplied or approved by the Board or the Agency[^key-c96d0b0f6b804582280426b9cf74b103], indicating the services available under general ophthalmic services and indicating to which descriptions of the contractor's patients a payment may be made under the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998.
+
+### 8. Records
+
+(1) A contractor or ophthalmic medical practitioner or optician who assists the contractor in the provision of general ophthalmic services shall keep proper, complete, accurate and up-to-date records in respect of each patient to whom general ophthalmic services are provided, giving appropriate details of eye examinations carried out.
+
+(2) A contractor or ophthalmic medical practitioner or optician who assists the contractor in the provision of general ophthalmic services may keep the records referred to in sub paragraph (1) in computerised form.
+
+(3) A contractor shall retain all such records for a period of 7 years.
+
+(4) A contractor shall, when requested to do so by any authorised officer of the Scottish Ministers, the Agency or the Board during the period in which the contractor is required to retain such records–
+
+- (a) produce them to such authorised officer of the Scottish Ministers, the Agency or the Board; or
+- (b) send them to such authorised officer of the Scottish Ministers, the Agency or the Board within such period as may be specified by the authorised officer not being less than 14 days from the date of request.
+
+### 9. Deputies
+
+(1) An ophthalmic medical practitioner or optician may arrange for eye examinations to be carried out on his or her behalf by another ophthalmic medical practitioner or optician[^key-91072363519b217e64e313b6f4384aa4], provided that such other ophthalmic medical practitioner or optician is included in the Ophthalmic List of the Board for the area in which such eye examinations are to be carried out.
+
+(2) Any contractor who makes an arrangement for the regular provision of services by a deputy in terms of sub-paragraph[^key-4ea9fd0cc1e022ab0b9ecb79c4a0e98a] (1) shall notify the Board of the arrangements.
+
+### 10. Employees
+
+(1)[^key-822ee7762387550ced3b1373488d32de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) An optician or ophthalmic medical practitioner[^key-471292eb43b7d5cf364acc426673756c] who employs a person to carry out eye examinations shall employ only–
+
+- (a) another optician or ophthalmic medical practitioner[^key-cc3d4186e0c08f44a9600e736bc76b0d] on the Ophthalmic List of the Board for the area in which such eye examinations are to be carried out; or
+- (b) a person acting under his or her[^key-f11f5ebb1475adc639cf3d854bf29589] continuous personal supervision who is authorised to carry out eye examinations by rules made under section 24(3) of the Opticians Act 1989.
+
+(3) Any contractor who makes an arrangement for the regular provision of services by an employee in terms of sub-paragraphs[^key-7eab9635554c61820f95e59c00908ddc] (1) or (2) shall notify the Board of the arrangement.
+
+(4) In this paragraph “**employee**” includes, in the case of a body corporate, a director and “employ” is to be interpreted accordingly.
+
+### 11. Complaints, concerns, comments, feedback[^key-e59595634018f6e2920837611a12a622]
+
+A contractor must have arrangements in place which operate in accordance with section 15 of the Patient Rights (Scotland) Act 2011, and any regulations or directions made under that Act.
+
+### 12. Co-operation with investigations
+
+(1) A contractor or an ophthalmic medical practitioner or optician who assists the contractor in the provision of general ophthalmic services shall cooperate with any investigation of a complaint by the Board in accordance with the procedures which it operates in accordance with section[^key-f6c6c30283191857133df556c08b39f7] 15 of the Patient Rights (Scotland) Act 2011, whether the investigation follows one under the contractor's complaints procedure or not.
+
+(2) The co operation required by sub paragraph (1) includes–
+
+- (a) answering questions reasonably put to the contractor by the Board;
+- (b) providing any information relating to the complaint reasonably required by the Board; and
+- (c) attending any meeting to consider the complaint (if held at a reasonably accessible place and at a reasonable hour, and due notice has been given), if the contractor's presence or the presence of an ophthalmic medical practitioner or optician who assists that contractor in the provision of general ophthalmic services at the meeting is reasonably required by the Board.
+
+### 13. Payments
+
+(1) Any claim by a contractor for fees in respect of the provision of general ophthalmic services shall be made by completing or securing the completion of an eye examination form and sending it to the Agency within 3[^key-5e01aaf9cb3140e85900330c2ab538d9] months after the date of completion of such provision of the services.
+
+(1A)[^key-cd910a7f195849006ebd8c3f3d55525a] Any such claim shall be submitted in accordance with [^key-bff095aed72bfb39471bc9e6add41458]... sub-paragraphs (3A) and (3B).
+
+(2)[^key-33ecf07dfafffed71bb3e8ee9ba7f4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^key-33ecf07dfafffed71bb3e8ee9ba7f4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3A)[^key-c3436286e9cfdffb0dab9eb4fe983493] The claim shall be submitted by electronic communication and—
+
+- (a) if the service was provided on behalf of a contractor by a deputy or employee who is also a contractor, the claim shall contain the PIN allocated to that deputy or employee;
+- (b) if the service was provided on behalf of a contractor by a person whose name is included in the second part of the Ophthalmic List, the claim shall contain the PIN allocated to that person; and
+- (c) in all other cases, the claim shall contain the PIN allocated to the contractor providing the service.
+
+(3B) When submitting a claim [^key-782462a9679c811d2e80c6addb1bbb0b]... under sub-paragraph (3A) or (4A)[^key-f631da81b99d0bca38a77e72a9442eef] a person shall make use only of such computer programme as the Agency has approved as suitable for that purpose.
+
+(3C) In this paragraph, “PIN” means the personal identification number allocated by the Agency.
+
+(4) Where an eye examination is undertaken by an ophthalmic medical practitioner or optician who assists the contractor in the provision of general ophthalmic services that ophthalmic medical practitioner or optician shall complete a claim for remuneration in respect of that eye examination which–
+
+- (a) is separate from any claim form in respect of eye examinations given by the contractor personally; and
+- (b) identifies the ophthalmic medical practitioner or optician who undertook the eye examination and his or her status as an ophthalmic medical practitioner or optician who assists the contractor in the provision of general ophthalmic services.
+
+(4A)[^key-a54a82def780b6f57b6d03d890060b99] The claim referred to in sub-paragraph (4) must be submitted to the Agency by electronic communication and must contain the PIN allocated to the ophthalmic medical practitioner or optician who assists the contractor in the provision of general ophthalmic services.
+
+(5) Except as provided in the regulations, in the Statement, or in the National Health Service (Charges for Overseas Visitors) (Scotland) Regulations 1989 [^c15350691], [^key-3ffc4c2c72e7fc1a1c093cbf9362b610]... a contractor shall not demand or accept or cause to be demanded or accepted from any patient or from other persons the payment of any fee or other remuneration in respect of the provision of general ophthalmic services.
+
+(6)[^key-dd8245678772a15b7179d8234c6c46ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7)[^key-dd8245678772a15b7179d8234c6c46ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Eye examinations
+
+(1) An ophthalmic medical practitioner or optician who accepts in accordance with these regulations–
+
+- (a) an application from a patient for a primary eye examination; or
+- (b) an application from a patient for a supplementary eye examination [^key-7543c9f31b5a58ed40d85a202f8aa628]...,[^key-68ccafc2f3257e7c8609f8443d36db41]
+
+shall carry out an eye examination.
+
+(1A)[^key-e971309c16c4f2bd626335d6dc6abbfb] An eye examination carried out by an ophthalmic medical practitioner or optician in accordance with these Regulations shall consist of every test or procedure appropriate to the presenting signs, symptoms and[^key-ee59257d1b99d75b2126d7d9593a3ac2] needs of the patient for the purpose of that examination unless—
+
+- (a) the ophthalmic medical practitioner or optician considers that the patient has a physical or mental condition which would make the carrying out of any such test or procedure clinically inappropriate; [^key-75f1d81b01b800b3e1d992431f057de2]...
+- (aa)[^key-50dc705700fb694678bb24ac6532c6c0] in the judgement of the ophthalmic medical practitioner or optician, the test or procedure is clinically inappropriate for any other reason; or
+- (b) the patient has refused to undertake any such test or procedure.
+
+(2)[^key-f7a3dd938381e447488039de9db3b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where an ophthalmic medical practitioner or optician carries out a sight test, he or she shall fulfil any duty imposed on him or her by, or in regulations made under, the Opticians Act 1989.
+
+(4) Where an ophthalmic medical practitioner or optician is of the opinion that a patient whose eyes he or she has examined in accordance with sub paragraph (1)–
+
+- (a) shows signs of injury, disease or abnormality in the eye or elsewhere which may require medical treatment; or
+- (b) is not likely to attain a satisfactory standard of vision notwithstanding the application of corrective lenses,
+
+he or she shall, if appropriate, and with the consent of the patient–
+
+- (i)[^key-6ba98d1c4664aa2a450dc0a130bd9bfa] refer the patient to any of an optometrist independent prescriber, another ophthalmic medical practitioner,[^key-4bd5123c6c60270fcc798bd5f7502624] his or her doctor or to an ophthalmic hospital;
+- (ii) in the case of a referral to an ophthalmic hospital,[^key-84c419553532b75265334251cc7c9420] inform the patient's doctor or GP practice that he or she has done so; and
+- (iii) give the patient a written statement that he or she has done so, with details of the referral.
+
+(4A)[^key-2181f030a26e802972908d6f0a273405] Where a patient shows signs of an anterior eye condition, a referral under sub paragraph (4)(i) to another ophthalmic medical practitioner or an optometrist independent prescriber may only be made in circumstances where—
+
+- (a) the ophthalmic medical practitioner or optometrist independent prescriber is, as the case may be, a specialist ophthalmic medical practitioner or a specialist optometrist independent prescriber, and
+- (b) the specialist ophthalmic medical practitioner or specialist optometrist independent prescriber has agreed to accept the referral.
+
+(4B) In making a referral under sub paragraph (4)(i) to a specialist ophthalmic medical practitioner or a specialist optometrist independent prescriber in accordance with sub paragraph (4A), the referring ophthalmic medical practitioner or optician is to take into account the place where the patient normally resides.
+
+(4C) Where, in accordance with sub paragraph (4A), a specialist ophthalmic medical practitioner or specialist optometrist independent prescriber receives a request to accept a referral under sub paragraph 14(4)(i) the specialist ophthalmic medical practitioner or specialist optometrist independent prescriber may agree to accept the referral where they reasonably anticipate that they or another specialist ophthalmic medical practitioner or specialist optometrist independent prescriber providing general ophthalmic services at the same practice premises will be able to carry out any necessary eye examination.
+
+(5)[^key-7007366b5287c83a7403789f14035e50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) A prescription for glasses issued following an eye examination which includes a sight test shall be completed by the method recommended in Appendix A to British Standard 2738-3:2004[^key-302a9f8d248cb90988f28ed8c824ef62] (Glossary of Terms relating to Ophthalmic Lenses and Spectacle Frames) published by the British Standards Institution, as effective on the date of its publication, and shall comply with any requirements as to its form specified in the Statement for the purposes of payment in respect of the eye examination.
+
+(7) An ophthalmic medical practitioner or optician shall carry out a maximum of 20 eye examinations in any working day.
+
+(8) Following a primary eye examination or a supplementary eye examination the ophthalmic medical practitioner or optician who carried out the examination shall give a statement of the outcome of the examination to the patient.
+
+### 14A. General ophthalmic services for anterior eye conditions[^key-7dd31c2c0355fe213fcafbbfccca6d82]
+
+(1) A Board may enter into an arrangement with an ophthalmic medical practitioner or an optometrist independent prescriber for the provision, in the Board’s area, of general ophthalmic services for specified anterior eye conditions and such an ophthalmic medical practitioner or optometrist independent prescriber, having entered into an arrangement, is referred to in this paragraph as a “**specialist ophthalmic medical practitioner**” or, as the case may be, “specialist optometrist independent prescriber”.
+
+(2) An arrangement under sub paragraph (1)—
+
+- (a) may only be entered into with an ophthalmic medical practitioner or, as the case may be, optometrist independent prescriber who is on the Board’s List, and
+- (b) is to be on a form supplied by the Agency.
+
+(3) In this paragraph, “**specified**” means specified in the arrangement referred to in sub paragraph (1).
+
+### 15. Use of disqualified name
+
+(1) Subject to sub paragraph (2), a contractor shall not use in any manner whatsoever the name or part of the name, either alone or in combination with any other words or letters, of or used by, any person so long as that person is disqualified from inclusion in any Ophthalmic List.
+
+(2) Nothing in sub paragraph (1) shall prevent a contractor other than a body corporate from using his or her[^key-ff0d150556fda4e9fd1574a5dad93b5b] own name or being a body corporate, from using the name by which it is enrolled in the register maintained pursuant to the provisions of the Opticians Act 1989.
+
+## SCHEDULE 2
+
+Regulation 7 and 26(1)
+
+### PART A — INFORMATION, CERTIFICATES, LEVEL 2 DISCLOSURES, LEVEL 2 DISCLOSURE APPLICATIONS, PVG SCHEME LEVEL 2 DISCLOSURES, CONSENTS, DECLARATIONS AND UNDERTAKINGS TO BE INCLUDED IN AN APPLICATION FOR INCLUSION IN THE FIRST PART OF THE OPHTHALMIC LIST[^key-8b96a538cc43f68488d447179ecc3e90]
+
+**1.** An application shall contain the following information:–
+
+- (a) except where the applicant is an optician that is a body corporate,[^key-3f81a36d9cfc0e14204d38c19220432f] the applicant's full name, sex, date of birth and private address and telephone number;
+- (b) except where the applicant is an optician that is a body corporate,[^key-a514ea0b3d2c49543d2e044ecd4d749a] a full description of the applicant's qualifications including the institution which awarded them;
+- (c) the applicant's professional registration number and date of first registration;
+- (d) whether the applicant is an ophthalmic medical practitioner, a registered optometrist or a body corporate;
+- (e) address of proposed practice[^key-1e086b3c366279aca62c72faae8d5528] premises and, in the case of any mobile practice, the address to which correspondence may be sent and the addresses of any day centres and residential centres to be visited more than once;
+- (f) whether the practice[^key-bc0fc561648930b301734d6c4c2323a6] premises may be reached without use of stairs;
+- (g) whether the practice[^key-c39652b70a73b8186d70786913ce1dbd] premises have wheelchair access;
+- (h) proposed days and hours of attendance at these practice[^key-1d91176bd5f338c51c044279ac345513] premises or, in the case of any mobile practice, the months in which visits to day centres or residential centres[^key-1e25fc04669d75ad403f0e7ea4bc9cb1] are intended to take place and the planned interval between such visits;
+- (i) the name of each ophthalmic medical practitioner or optician who is regularly engaged as a deputy, director or employee in the provision of general ophthalmic services;
+- (j) except where the applicant is an optician that is a body corporate,[^key-e6f1dbf3f564bcbafa6ef1fc5adc1ee6] chronological details of the applicant's professional experience (including the starting and finishing dates of each appointment together with explanation of any gaps between appointments) with any additional supporting particulars, and an explanation of why the applicant was dismissed from any post;
+- (k) details of any list or equivalent list from which the applicant (and, where the applicant is an optician that is a body corporate, all directors of the body corporate)[^key-8a4650106d5302ddc69a7b390d0a1798] has ever been disqualified, conditionally disqualified, removed, suspended, contingently removed or suspended or to which admission was refused or conditionally granted together with reasons for such disqualification, conditional disqualification, removal, suspension or refusal;
+- (l) except where the applicant is an optician that is a body corporate,[^key-b5fb980efad86a982de4cc3e93d22a7a] name and addresses of two referees who are willing to provide clinical references relating to two recent posts as an ophthalmic medical practitioner or optometrist each of which lasted at least 3 months without a significant break and which may include a current post, or, where this is not possible a full explanation and name and address of an alternative referee or referees;
+- (m) except where the applicant is an optician that is a body corporate,[^key-542c1a7d3f517e25a655a6d1d03668e5] if the applicant is a national of an EEA state, evidence that the applicant has a knowledge of English which, in the interests of the applicant and of patients who may receive general ophthalmic services from the applicant, is necessary for providing general ophthalmic services;
+- (n) if the applicant is the director or one of the persons with control of a corporate body, or, if the applicant is an optician that is a body corporate, the body corporate’s name, registered office and registered number, telephone number, e-mail address and a list of the full names, dates of birth, private addresses and (if they have one) the national insurance numbers, of all the directors and the secretary[^key-3669f29e2d9ed4497b8fb28f7bae6510];
+- (o) if the applicant (and, where the applicant is an optician that is a body corporate, all directors of the body corporate)[^key-fa799eaa681f0a36e9e870449ce0f26c] is, or has been where the outcome was adverse, the subject of any investigation [^key-c6e45819547d98d0b975b7ed87f2043e]... in relation to fraud;
+- (p) whether the applicant has–
+  - (i) had sequestration of the applicant's estate awarded, or been adjudged bankrupt;
+  - (ii) been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986 [^c15350701];
+  - (iii) made a composition or arrangement with, or granted a trust deed for, the applicant's creditors;
+- (q) where the applicant is a body corporate, whether–
+  - (i) an administrator, administrative receiver or receiver has been appointed in respect of it; or
+  - (ii) an administration order has been made in respect of it under Schedule B1 to the Insolvency Act 1986; or
+  - (iii) it has been wound up under Part IV of the Insolvency Act 1986; or
+- (r) whether the applicant is subject to a disqualification order under the Company Directors Disqualification Act 1986 [^c15350711], the Companies (Northern Ireland) Order 1986 [^c15350721] or to an order made under section 429(2)(b) of the Insolvency Act 1986 [^c15350731] (failure to pay under county court administration order).
+
+**2.** An application shall contain the following declarations as to whether or not the applicant:–
+
+- (a) has been convicted of a criminal offence in the British Islands or has been convicted elsewhere of an offence which would constitute a criminal offence if committed in the British Islands;
+- (b) is currently the subject of any proceedings anywhere in the world which might lead to a conviction specified in sub-paragraph (a);
+- (c) has in summary proceedings in respect of an offence, been the subject of an order discharging the applicant absolutely (without proceeding to conviction);
+- (d) has accepted and agreed to pay either a procurator fiscal fine under section 302 of the Criminal Procedure (Scotland) Act 1995 [^c15350741] or a penalty under section 115A of the Social Security Administration Act 1992 [^c15350751];
+- (e) has accepted a police caution in the British Islands;
+- (f) has been bound over following a criminal conviction in the British Islands;
+- (g) has been subject to any investigation into the applicant's professional conduct by any licensing, regulatory or other body anywhere in the world where the outcome was adverse;
+- (h) is currently subject to any investigation into the applicant's professional conduct by any licensing, regulatory or other body anywhere in the world;
+- (i) is the subject of any investigation or proceedings by another Health Board or equivalent body which might result in the applicant being disqualified, conditionally disqualified, refused entry, granted entry subject to conditions, removed, contingently removed or suspended from a list, or equivalent list;
+- (j) is, or has been, where the outcome was adverse, the subject of any investigation into the applicant's professional conduct in respect of any previous or current employment;
+- (k) is, or has in the preceding 6 months been, or was at the time of the events that gave rise to conviction, proceedings or investigation, a director or one of the body of persons with control of a body corporate, or a member of a partnership (including a limited liability partnership) which–
+  - (i) has been convicted of a criminal offence in the British Islands;
+  - (ii) has been convicted elsewhere of an offence which would constitute a criminal offence if committed in the British Islands;
+  - (iii) is currently the subject of any proceeding anywhere in the world which might lead to such a conviction;
+  - (iv) has been subject to any investigation into its provision of professional services by any licensing, regulatory or other body anywhere in the world; or
+  - (v) is, to the applicant's knowledge, or has been, where the outcome was adverse, the subject of any investigation by the Agency in relation to fraud;
+- (l) has had sequestration of the applicant's estate awarded or been adjudged bankrupt;
+- (m) has been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986;
+- (n) has made a composition or arrangement with, or granted a trust deed for, the applicant's creditors;
+- (o) if a body corporate–
+  - (aa) has had an administrator, administrative receiver or receiver appointed in respect of it; or
+  - (bb) has had an administration order made in respect of it under Schedule B1 to the Insolvency Act 1986;
+  - (cc) has been wound up under Part IV of the Insolvency Act 1986;
+- (p) is subject to a disqualification order under the Company Directors Disqualification Act 1986, the Companies (Northern Ireland) Order 1986 or to an order made under section 429(2)(b) of the Insolvency Act 1986 (failure to pay under county court administration order).
+
+**3.** An applicant must include:
+
+- (a)[^key-f3490d6db6fa17bb7676bcae8d78d5e4] where the applicant is an ophthalmic medical practitioner or an optician (except where the optician is a body corporate)—
+  - (i) a Level 2 disclosure application for a PVG Scheme Level 2 disclosure[^key-ee8a7a00b31b1949b74faa462c2c4017] required under regulation 7(3)(f); and
+  - (ii)[^key-0c81eca762c92dc6f862c8959cca430b] where required by the Board under that regulation, any existing PVG Level 2 disclosure or scheme record the applicant holds,
+- (aa) where the applicant is a body corporate, a Level 2 disclosure[^key-3c06128bb5875930f8b934d69e639468] in relation to each director, dated not earlier than 28 days before the date of the application, or a Level 2 disclosure application[^key-c18d16f6bd19fa74fb6804ebc953c833] completed and signed by each director who is not already on the Board’s Ophthalmic List; and
+- (b) except in the case of a body corporate carrying on business as an optometrist, a certificate , dated not earlier than 2 years before the date of the application where the applicant has not worked in Scotland within that 2 year period,[^key-7576d71eda3a08ae63c1c7fc25a2779e] from a provider of training approved by the Agency[^key-507b5adbd8414b18741f584d93f8d6f9] that the applicant has satisfactorily completed a course of training in the use of slit lamp biomicroscopy, condensing lens biomicroscopy, contact applanation tonometry using a Goldmann type tonometer[^key-37e7c437fea72b21139c3b6c21e3234a] and threshold visual fields.
+
+**4.** An application shall include the following undertakings:–
+
+- (a) the applicant will participate in appropriate and relevant NHS audit procedures;
+- (b) that applicant will be bound by the terms of service;
+- (c) that the applicant will notify the Board in writing within 7 days of its occurrence if the applicant–
+  - (i) is charged in the British Islands with a criminal offence, the sentence for which could be a term of imprisonment or is charged elsewhere with an offence which, if committed in the British Islands would constitute such a criminal offence;
+  - (ii) is convicted of a criminal offence in the British Islands or is convicted elsewhere of an offence which would constitute a criminal offence if committed in the British Islands;
+  - (iii) has, in summary proceedings, in respect of an offence, been the subject of an order discharging him or her absolutely (without proceeding to conviction);
+  - (iv) has accepted and agreed to pay either a procurator fiscal fine under section 302 of the Criminal Procedure (Scotland) Act 1995 or a penalty under section 115A of the Social Security Administration Act 1992;
+  - (v) has accepted a police caution in the British Islands;
+  - (vi) is bound over following a criminal conviction in the British Islands;
+  - (vii) becomes the subject of any investigation into the applicant's professional conduct by any licensing, regulatory or other body anywhere in the world;
+  - (viii) is informed by any licensing, regulatory or other body anywhere in the world of the outcome of any investigation into the applicant's professional conduct, and there is a finding against the applicant;
+  - (ix) becomes, to the applicant's knowledge, the subject of any investigation by the Agency in relation to fraud, or is informed of the outcome of any such investigation, where it is adverse;
+  - (x) becomes the subject of any investigation or proceedings by another Health Board or equivalent body, which might result in the applicant being disqualified, conditionally disqualified, refused entry, allowed entry subject to conditions, removed, contingently removed or suspended from a list, or equivalent list;
+  - (xi) is disqualified, conditionally disqualified, refused entry, allowed entry subject to conditions, removed or suspended from or refused admission or contingently removed from to any list or equivalent list;
+  - (xii) is, was in the preceding 6 months, or was at the time of the events that gave rise to the charge, conviction or investigation , a director or one of the persons with control of a body corporate and that body corporate–
+    - (aa) is charged in the British Islands with a criminal offence, or is charged elsewhere with an offence which, if committed in the British Islands would constitute a criminal offence;
+    - (bb) is convicted of a criminal offence in the British Islands;
+    - (cc) is convicted elsewhere of an offence which, if committed in the British Islands would constitute a criminal offence;
+    - (dd) becomes the subject of any investigation into its provision of professional services by any licensing, regulatory or other body anywhere in the world;
+    - (ee) is informed by any licensing, regulatory or other body anywhere in the world of the outcome of any investigation into its provision of professional services, and there is a finding against it; or
+    - (ff) becomes, to his or her knowledge, the subject of any investigation by the Agency in relation to fraud, or is informed of the outcome of any such investigation, if adverse,
+
+    together with details of the occurrence, including approximate dates, and where any investigation or proceedings were or are to be brought, the nature of that investigation or proceedings, and any outcome;
+  - (xiii) has sequestration of the applicant's estate awarded or is adjudged bankrupt;
+  - (xiv) is made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986;
+  - (xv) makes a composition or arrangement with, or grants a trust deed for, the applicant's creditors;
+  - (xvi) if a body corporate–
+    - (aa) has an administrator, administrative receiver or receiver appointed in respect of it; or
+    - (bb) has an administration order made in respect of it under Schedule B1 to the Insolvency Act 1986;
+    - (cc) is wound up under Part IV of the Insolvency Act 1986;
+  - (xvii) is made subject to a disqualification order under the Company Directors Disqualification Act 1986), the Companies (Northern Ireland) Order 1986 or to an order made under section 429(2)(b) of the Insolvency Act 1986 (failure to pay under county court administration order);
+- (d) that the applicant and, where the applicant is an optician that is a body corporate, all directors of the body corporate,[^key-03d241e64577a600e805285017a84089] consents to a request being made by the Board to the Agency, any employer or former employer of the applicant or of any director as the case may be[^key-a68e7d57460b42909c6fe75404deace8], licensing, regulatory or other body in the United Kingdom or elsewhere, for information relating to a current investigation, or an investigation where the outcome was adverse, into the applicant or a body corporate referred to in this paragraph and, for the purposes of this sub paragraph, “**employer**” includes any partnership of which the applicant is or was a member;
+- (e) that the applicant consents to disclosure of information in terms of regulation 14; [^key-8a92e7dbd1ff5af364dfdb57f0e91467]...
+- (f)[^key-9b7c037b8d6694dca446f05eac3c54a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^key-6d05f6bf063efff25f9ec7b4f045d0ac] that the applicant (except where the applicant is a body corporate) will remain a scheme member.
+
+### PART B — INFORMATION, CONSENTS, DECLARATIONS, CERTIFICATES, LEVEL 2 DISCLOSURES, LEVEL 2 DISCLOSURE APPLICATIONS, PVG SCHEME LEVEL 2 DISCLOSURES AND UNDERTAKINGS TO BE INCLUDED IN AN APPLICATION FOR INCLUSION IN THE SECOND PART OF THE OPHTHALMIC LIST[^key-e4bb4e82fd3042733535ba62e27a4ccb]
+
+**1.** An application shall contain the following information:–
+
+- (a) except where the applicant is an optician that is a body corporate,[^key-60a398bf700e0b67e4de3ab4bfb0d8b5] the applicant's full name, sex, date of birth and private address and telephone number;
+- (b) except where the applicant is an optician that is a body corporate,[^key-0e695a1452eec69f49cb305ae8f41845] a full description of the applicant's qualifications including the institution which awarded them;
+- (c) the applicant's professional registration number and date of first registration;
+- (d) an indication of whether the applicant is an ophthalmic medical practitioner, a registered optometrist or a body corporate;
+- (e) except where the applicant is an optician that is a body corporate,[^key-647337f5b9909bdd23ecc5549b853a0c] chronological details of the applicant's professional experience (including the starting and finishing dates of each appointment together with explanation of any gaps between appointments) with any additional supporting particulars, and an explanation of why the applicant was dismissed from any post;
+- (f) details of any list or equivalent list from which the applicant (and, where the applicant is an optician that is a body corporate, all directors of the body corporate)[^key-375c591cd92ec44fd26e67ee37a2df3b] has ever been disqualified, conditionally disqualified, removed, suspended, contingently removed or suspended or to which admission was refused or granted subject to conditions together with reasons for such disqualification, conditional disqualification, removal, suspension or refusal or imposition of conditions;
+- (g) except where the applicant is an optician that is a body corporate,[^key-c72d9f00403824d01f39bff325b235e3] name and addresses of two referees who are willing to provide clinical references relating to two recent posts as an ophthalmic medical practitioner or optometrist which lasted at least 3 months without a significant break and which may include a current post, or, where this is not possible a full explanation and name and address of an alternative referee or referees;
+- (h) except where the applicant is an optician that is a body corporate,[^key-b2f55fa0959dc58324413888856c8fb9] if the applicant is a national of an EEA state, evidence that the applicant has a knowledge of English which, in the interests of the applicant and of patients who may receive general ophthalmic services from the applicant, is necessary for providing general ophthalmic services;
+- (i) if the applicant [^key-65768b9b718c0ecc71fa0089f86fdd79]... is the director or one of the persons with control of a corporate body, or, if the applicant is an optician that is a body corporate, the body corporate’s name, registered office and registered number, telephone number, e-mail address and a list of the full names, dates of birth, private addresses and (if they have one) the national insurance numbers, of all the directors and the secretary[^key-491051da8fba1ad225f8335a03bd9c5e];
+- (j) if the applicant (and, where the applicant is an optician that is a body corporate, all directors of the body corporate)[^key-0f5687c2d50dd6e4c37c4d64b2b391ec] is, or has been where the outcome was adverse, the subject of any investigation [^key-d0b70665b940f2f55fc747c8978670ee]... in relation to fraud.
+
+**2.** An application shall contain the following declarations as to whether or not the applicant:–
+
+- (a) has been convicted of a criminal offence in the British Islands or has been convicted elsewhere of an offence which would constitute a criminal offence if committed in Scotland;
+- (b) is currently the subject of any proceedings anywhere in the world which might lead to a conviction specified in sub-paragraph (a);
+- (c) has in summary proceedings in respect of an offence, been the subject of an order discharging the applicant absolutely (without proceeding to conviction);
+- (d) has accepted and agreed to pay either a procurator fiscal fine under section 302 of the Criminal Procedure (Scotland) Act 1995 or a penalty under section 115A of the Social Security Administration Act 1992;
+- (e) has accepted a police caution in the British Islands;
+- (f) has been bound over following a criminal conviction in the British Islands;
+- (g) has been subject to any investigation into the applicant's professional conduct by any licensing, regulatory or other body anywhere in the world where the outcome was adverse;
+- (h) is currently subject to any investigation into the applicant's professional conduct by any licensing, regulatory or other body anywhere in the world;
+- (i) is the subject of any investigation or proceedings by another Board or equivalent body which might result in the applicant being disqualified, conditionally disqualified, refused entry, granted entry subject to conditions, removed, contingently removed or suspended from a list, or equivalent list;
+- (j) is, or has been, where the outcome was adverse, the subject of any investigation into applicant's professional conduct in respect of any previous or current employment;
+- (k) is, or has in the preceding 6 months been, or was at the time of the events that gave rise to conviction, proceedings or investigation, a director or one of the body of persons with control of a body corporate, which–
+  - (i) has been convicted of a criminal offence in the British Islands;
+  - (ii) has been convicted elsewhere of an offence which would constitute a criminal offence if committed in the British Islands;
+  - (iii) is currently the subject of any proceeding anywhere in the world which might lead to such a conviction;
+  - (iv) has been subject to any investigation into its provision of professional services by any licensing, regulatory or other body anywhere in the world; or
+  - (v) is, to the applicant's knowledge, or has been, where the outcome was adverse, the subject of any investigation by the Agency in relation to fraud;
+
+**3.** An applicant must include with the application–
+
+- (a)[^key-8de6688760dd723efbde235592f1f073] where the applicant is an ophthalmic medical practitioner or an optician (except where the optician is a body corporate)—
+  - (i) a a Level 2 disclosure application for a PVG Scheme Level 2 disclosure[^key-c34641bb786699e4ad7547227a40e089] required under regulation 7(3)(f); and
+  - (ii)[^key-2ea19a1715d2c2214bb7677e543e46cf] where required by the Board under that regulation, any existing PVG Level 2 disclosure or scheme record the applicant holds,
+- (aa) where the applicant is a body corporate, a Level 2 disclosure[^key-7ffc97b6d5d3346d3f0039e592460bca] in relation to each director, dated not earlier than 28 days before the date of the application, or a Level 2 disclosure application[^key-c9528681cbef9c109bb58a6ec0fbc288] completed and signed by each director who is not already on the Board’s Ophthalmic List; and
+- (b) a certificate , dated not earlier than 2 years before the date of the application where the applicant has not worked in Scotland within that 2 year period,[^key-a6f9a73da0c239003314aedc9f960802] from a provider of training approved by the Agency[^key-3d159de3140d2090ed392bf97e478b5f] that the applicant has satisfactorily completed a course of training in the use of slit lamp biomicroscopy, condensing lens biomicroscopy, contact applanation tonometry using a Goldmann type tonometer[^key-b803db562e8fbdf730ec7999be81a58a] and threshold visual fields
+
+**4.** An application shall include the following consent and undertakings:–
+
+- (a) that the applicant will participate in appropriate and relevant NHS audit procedures;
+- (b) that the applicant will be bound by the terms of service;
+- (c) that the applicant will notify the Health Board in writing within 7 days of its occurrence if he or she–
+  - (i) is charged in the British Islands with a criminal offence, the sentence for which could be a term of imprisonment or is charged elsewhere with an offence which, if committed in Scotland, would constitute such a criminal offence;
+  - (ii) is convicted of a criminal offence in the British Islands or is convicted elsewhere of an offence which would constitute a criminal offence if committed in Scotland;
+  - (iii) has, in summary proceedings, in respect of an offence, been the subject of an order discharging him or her absolutely (without proceeding to conviction);
+  - (iv) has accepted and agreed to pay either a procurator fiscal fine under section 302 of the Criminal Procedure (Scotland) Act 1995 or a penalty under section 115A of the Social Security Administration Act 1992;
+  - (v) has accepted a police caution in the British Islands;
+  - (vi) is bound over following a criminal conviction in the British Islands;
+  - (vii) becomes the subject of any investigation into the applicant's professional conduct by any licensing, regulatory or other body anywhere in the world;
+  - (viii) is informed by any licensing, regulatory or other body anywhere in the world of the outcome of any investigation into his or her professional conduct, and there is a finding against the applicant;
+  - (ix) becomes, to the applicant's knowledge, the subject of any investigation by the Agency in relation to fraud, or is informed of the outcome of any such investigation, where it is adverse;
+  - (x) becomes the subject of any investigation or proceedings by another Board or equivalent body, which might result in the applicant being disqualified, conditionally disqualified, refused entry, allowed entry subject to conditions, removed, contingently removed or suspended from a list, or equivalent list;
+  - (xi) is disqualified, conditionally disqualified, refused entry, allowed entry subject to conditions, removed or contingently removed or suspended from or refused admission to any list or equivalent list;
+  - (xii) is, was in the preceding 6 months, or was at the time of the events that gave rise to the charge, conviction or investigation , a director or one of the persons with control of a body corporate and that body corporate–
+    - (aa) is charged in the British Islands with a criminal offence, or is charged elsewhere with an offence which, if committed in the British Islands, would constitute a criminal offence;
+    - (bb) is convicted of a criminal offence in the British Islands;
+    - (cc) is convicted elsewhere of an offence which, if committed in the British Islands, would constitute a criminal offence;
+    - (dd) becomes the subject of any investigation into its provision of professional services by any licensing, regulatory or other body anywhere in the world;
+    - (ee) is informed by any licensing, regulatory or other body anywhere in the world of the outcome of any investigation into its provision of professional services, and there is a finding against it; or
+    - (ff) becomes, to his or her knowledge, the subject of any investigation by the Agency in relation to fraud, or is informed of the outcome of any such investigation, if adverse,
+
+    together with details of the occurrence, including approximate dates, and where any investigation or proceedings were or are to be brought, the nature of that investigation or proceedings, and any outcome;
+- (d) that the applicant and, where the applicant is an optician that is a body corporate, all directors of the body corporate,[^key-4920151b9d3f145e82ee4dedeb687524] shall consent to a request being made by the Health Board to the Agency, any employer or former employer of the applicant or of any director as the case may be[^key-9230e07fac04c41ebf29c530bc2007bb], licensing, regulatory or other body in the United Kingdom or elsewhere, for information relating to a current investigation, or an investigation where the outcome was adverse, into the applicant or a body corporate referred to in this paragraph and, for the purposes of this sub-paragraph, “**employer**” includes any partnership of which the applicant is or was a member;
+- (e) that the applicant consents to disclosure of information in terms of regulation 14; [^key-dc60cee1cc64e146deef9c7b4a10a417]...
+- (f)[^key-4411257a3eb21353bfa7b3aa8a68a0ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^key-9495d672e744f5883a6c22d5cae04162] that the applicant (except where the applicant is a body corporate) will remain a scheme member.
+
+### PART C — DECLARATIONS TO BE PROVIDED IN TERMS OF REGULATION 26(6)
+
+**1.** A declaration as to whether or not the person who is included in the Ophthalmic List in terms of regulation 26(3)–
+
+- (a) has been convicted of a criminal offence in the British Islands or has been convicted elsewhere of an offence which would constitute a criminal offence if committed in the British Islands;
+- (b) is currently the subject of any proceedings anywhere in the world which might lead to a conviction specified in sub-paragraph (a);
+- (c) has in summary proceedings in respect of an offence, been the subject of an order discharging the applicant absolutely (without proceeding to conviction);
+- (d) has accepted and agreed to pay either a procurator fiscal fine under section 302 of the Criminal Procedure (Scotland) Act 1995 or a penalty under section 115A of the Social Security Administration Act 1992;
+- (e) has accepted a police caution in the British Islands;
+- (f) has been bound over following a criminal conviction in the British Islands;
+- (g) has been subject to any investigation into that person's professional conduct by any licensing, regulatory or other body anywhere in the world where the outcome was adverse;
+- (h) is currently subject to any investigation into that person's professional conduct by any licensing, regulatory or other body anywhere in the world;
+- (i) is the subject of any investigation or proceedings by another Health Board or equivalent body which might result in that person being disqualified, conditionally disqualified, refused entry, granted entry subject to conditions, removed, contingently removed or suspended from a list, or equivalent list;
+- (j) is, or has been, where the outcome was adverse, the subject of any investigation into that person's professional conduct in respect of any previous or current employment;
+- (k) is, or has in the preceding 6 months been, or was at the time of the events that gave rise to conviction, proceedings or investigation, a director or one of the body of persons with control of a body corporate, or a member of a partnership (including a limited liability partnership) which–
+  - (i) has been convicted of a criminal offence in the British Islands;
+  - (ii) has been convicted elsewhere of an offence which would constitute a criminal offence if committed in the British Islands;
+  - (iii) is currently the subject of any proceeding anywhere in the world which might lead to such a conviction;
+  - (iv) has been subject to any investigation into its provision of professional services by any licensing, regulatory or other body anywhere in the world; or
+  - (v) is, to that person's knowledge, or has been, where the outcome was adverse, the subject of any investigation by the Agency in relation to fraud.
+
+**2.** A declaration that–
+
+- (a) that person consents to a request being made by the Health Board to the Agency, any employer or former employer, licensing, regulatory or other body in the United Kingdom or elsewhere, for information relating to a current investigation, or an investigation where the outcome was adverse, into that person or a body corporate referred to in this paragraph and, for the purposes of this sub paragraph, “**employer**” includes any partnership of which that person is or was a member;
+- (b)[^key-43c8a934bfb64c17f7e76214e81f1b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) –
+  - (i) no sequestration of the person's estate has been awarded and that the person has not been adjudged bankrupt, unless (in either case) the person has been discharged or the bankruptcy order has been annulled;
+  - (ii) the person has not been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986, unless that order has ceased to have effect or has been annulled;
+  - (iii) the person has not made a composition or arrangement with, or granted a trust deed for, the person 's creditors unless the person has been discharged in respect of it;
+  - (iv) where the person is a body corporate–
+    - (aa) an administrator, administrative receiver or receiver has not been appointed in respect of it;
+    - (bb) an administration order has not been made in respect of it under Schedule B1 to the Insolvency Act 1986;
+    - (cc) it has been not been wound up under Part IV of the Insolvency Act 1986;
+- (d) the person is not subject to a disqualification order under the Company Directors Disqualification Act 1986, the Companies (Northern Ireland) Order 1986 or to an order made under section 429(2)(b) of the Insolvency Act 1986 (failure to pay under county court administration order); and
+- (e) the person undertakes to notify the Health Board in writing within 7 days of the occurrence of any event specified in paragraph 1, or sub paragraphs (c) and (d) of this paragraph.
+
+## SCHEDULE 3 — PRIMARY EYE EXAMINATION[^key-e5bba7f1b0d5ca088a1b9eda8cd9aec2]
+
+**No longer in force.**
+
+Regulation 22
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — SUPPLEMENTARY EYE EXAMINATION[^key-3620a0ee6d36c6cd425e264543f9730c]
+
+**No longer in force.**
+
+Regulation 2(1)
+
+### THE TESTS AND PROCEDURES SPECIFIED FOR THE PURPOSE OF THE DEFINITION OF SUPPLEMENTARY EYE EXAMINATION IN REGULATION 2(1)[^key-3620a0ee6d36c6cd425e264543f9730c]
+
+**1.**[^key-3620a0ee6d36c6cd425e264543f9730c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^key-3620a0ee6d36c6cd425e264543f9730c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — RECORDS[^key-3620a0ee6d36c6cd425e264543f9730c]
+
+**No longer in force.**
+
+Regulation 2(1)
+
+**1.**[^key-3620a0ee6d36c6cd425e264543f9730c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — REGULATIONS REVOKED
+
+Regulation 26
+
+| *Orders and Regulations revoked* | *References* | *Extent of revocation* |
+| --- | --- | --- |
+| The National Health Service (General Ophthalmic Services) (Scotland) Regulations 1986 | S.I. 1986/965 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 1988 | S.I. 1988/543 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 1989 | S.I. 1989/387 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment (No. 2) Regulations 1989 | S.I. 1989/1177 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 1990 | S.I. 1990/1048 | The whole Regulations |
+| The National Health Service (Optical Charges and Payments) (Miscellaneous Amendments (Scotland) Regulations 1991 | S.I. 1991/534 | Regulation 19 |
+| The National Health Service (Optical Charges and Payments) (Miscellaneous Amendments (Scotland) Regulations 1992 | S.I. 1992/531 | Regulation 5 |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 1995 | S.I. 1995/704 | The whole regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 1996 | S.I. 1995/843 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment (No) Regulations 1996 | S.I. 1996/2353 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 1999 | S.I. 1999/725 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment (No. 2) Regulations 1999 | S.S.I. 1999/55 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2001 | S.S.I. 2001/62 | The whole Regulations |
+| The National Health Service (Optical Charges and Payments) and (General Ophthalmic Services (Scotland) Amendment Regulations 2002 | S.S.I. 2002/86 | Regulation 4 |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2003 | S.S.I. 2003/201 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment (No) Regulations 2003 | S.S.I. 2003/432 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2004 | S.S.I. 2004/36 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment (No) Regulations 2004 | S.S.I. 2004/98 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment (No) Regulations 2004 | S.S.I. 2004/169 | The whole Regulations |
+| The Primary Medical Services (Consequential and Ancillary Amendments) (Scotland) Order 2004 | S.S.I. 2004/212 | Schedule 1, paragraph 2 |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2005 | S.S.I. 2005/128 | The whole Regulations |
+| The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2006 | S.S.I. 2006/42 | The whole Regulations |
+
+*(This note is not part of the Regulations)*
+
+These regulations provide for arrangements for the provision of general ophthalmic services under the National Health Service in Scotland, and for the preparation and maintenance by each Health Board in Scotland of an Ophthalmic List. The regulations define general ophthalmic services under the NHS in Scotland, and provide for a new eye examination. They supersede and revoke the National Health Service (General Ophthalmic Services) (Scotland) Regulations 1986 (“**the 1986 Regulations**”).
+
+These regulations are consequential on the coming into force of amendments made by the Smoking, Health and Social Care (Scotland) Act 2005 (“**the 2005 Act**”) to the sections of the National Health Service (Scotland) Act 1978 (“**the 1978 Act**”) dealing with general ophthalmic services and the disqualification of practitioners.
+
+Those provisions of the 2005 Act were commenced on 1st April\] 2006 by the Smoking, Health and Social Care (Scotland) Act 2005 (Commencement No. 4) Order 2006 (S.S.I. 2006/ ).
+
+The changes to the 1978 Act made by the 2005 Act include changes to the structure and content of the Ophthalmic List, the introduction of free eye examinations and sight tests under the National Health Service in Scotland, powers and duties for the NHS Tribunal to enquire into representations that a practitioner meets a third condition for disqualification (which are referred to in Act as “unsuitability cases”) and changes to the way in which effect is to be given in Scotland to disciplinary decisions in England, Wales or Northern Ireland which correspond to decisions which can be made by the NHS Tribunal in Scotland. These regulations make provision consequential upon these changes.
+
+Part I of these regulations makes general provisions for the purpose of these regulations. Regulation 2 defines the terms used in the regulations.
+
+Part II of the regulations consolidates the provisions of the 1986 regulations relating to qualifications which a doctor must possess for the purposes of general ophthalmic services.
+
+Part III of the regulations makes provisions for the Ophthalmic List which is to be prepared and maintained by each Health Board.
+
+Regulation 6 provides that each Health Board is to prepare and maintain an Ophthalmic List, which will be divided into 2 parts. The first part will contain the names and other details of ophthalmic medical practitioners and opticians who have undertaken to provide general ophthalmic services under arrangements with the Health Board in terms of the regulations. The second part will contain the names and other details of ophthalmic medical practitioners and opticians who are approved by the Health Board to assist in the provision of such services. In terms of regulation 2(1) an “**ophthalmic medical practitioner**” means a registered medical practitioner whose qualifications have been approved in accordance with Part II of the regulations as being prescribed qualifications. An “**optician**” means an ophthalmic optician, which is defined in section 108(1) of the 1978 Act as a person registered in the Register of Optometrists maintained under section 7 of the Opticians Act 1989, or a body corporate registered in the Register of bodies corporate maintained under section 9 of that Act to carry on business as an optometrist.
+
+Regulation 6(5) provides that (subject to regulation 26(8) (transitional provisions)), an ophthalmic medical practitioner or optician may not provide general ophthalmic services in the area of the Health Board unless that person's name is included in the first part of the Ophthalmic List of that Health Board, and an ophthalmic medical practitioner or optician may not assist in the provision of general ophthalmic services in the area of a Health Board unless that person's name is included in the first or second part of that Health Board's Ophthalmic List.
+
+Regulation 7 sets out the requirements and procedure for making an application for inclusion in an Ophthalmic List, and for the notification of any changes in the information provided. Paragraphs (7) to (10) contain provisions for applications by opticians in training. Regulation 7 also sets out the procedure to be followed by a Health Board in considering an application.
+
+Regulation 7(5) provides that where information disclosed by, provided to, or the investigations carried out by the Health Board in terms of regulation 7 lead the Board to consider that there may be grounds for referral to the NHS Tribunal, then the Board may refer the matter to the Tribunal.
+
+Regulation 8 sets out mandatory grounds for refusal to include an ophthalmic medical practitioner or optician in an Ophthalmic List.
+
+Regulation 9 set out circumstances in which a Health Board may defer a decision on an application to include an ophthalmic medical practitioner or optician in the Ophthalmic List, and the procedure to be followed.
+
+Regulation 10 sets out the circumstances in which a person whose name appears on a Health Board's Ophthalmic List may withdraw from the Ophthalmic List, and the procedure to be followed.
+
+Regulation 11 sets out the grounds on which a Health Board may suspend an ophthalmic medical practitioner or optician from its Ophthalmic List, and the procedure to be followed.
+
+Regulation 12 sets out the grounds of removal of a person's name from a Health Board's Ophthalmic List. Paragraph (1) sets out mandatory grounds of removal. Paragraph (2) provides that a person who has not provided general ophthalmic services within a Health Board's area for the preceding 6 months shall be removed from the Ophthalmic List. Paragraph (3) provides that a person whose name is included in the second part of the Ophthalmic List has not assisted with the provision of general ophthalmic services in the Health Board's area for a period of 12 months may be removed from the Ophthalmic List. Regulation 12 also provides for the procedure to be followed with regard to the removal of a person's name from a Health Board's Ophthalmic List.
+
+Regulation 13 contains provisions regarding the re inclusion of an ophthalmic medical practitioner or optician in a Health Board's Ophthalmic List where the occurrence which led to the removal of that person's name is overturned on appeal or for any other reason.
+
+Regulation 14 provides for certain information regarding the Health Board's decisions in relation to its Ophthalmic List to be disclosed to the parties specified in that regulation.
+
+Regulation 15 sets out the requirements with which an ophthalmic medical practitioner or an optician included in an Ophthalmic List must comply.
+
+Regulation 16 makes provision for effect to be given by a Health Board to a decision made in England, Wales or Northern Ireland which corresponds to a decision which may be made by the NHS Tribunal in Scotland under sections 29 to 32B of the 1978 Act. The definitions of “disqualification” and “suspended” in regulation 2(1) include decisions in England, Wales and Northern Ireland corresponding to disqualification and suspension by the NHS Tribunal in Scotland. Regulation 16 makes provision for decisions in England, Wales and Northern Ireland which correspond to conditional disqualification by the NHS Tribunal in Scotland.
+
+Part IV of the Regulations sets out the general arrangements relating to the provision of general ophthalmic services, including payments to ophthalmic medical practitioners and opticians.
+
+Part V of the Regulations (Regulations 22 and 23)sets out the procedure for applying for an eye examination.
+
+Part VI of the Regulations contains miscellaneous provisions.
+
+Regulation 24 provides for the publication of copies of the Ophthalmic List.
+
+Regulation 25 provides for service of documents.
+
+Regulation 26 and Schedule 6 repeals the 1986 regulations, and the regulations which subsequently amended those regulations, and makes transitional provisions.
+
+Regulation 26 (3) provides that the names of those persons who are on a Board's previous ophthalmic list in terms of the 1986 Regulations on 31 March 2006 will be automatically transferred to the first part of the Board's Ophthalmic List on 1 April 2006. Such persons must provide the information specified in paragraph (6) by 30 June 2006, or such later date as the Board may permit. Paragraph (8) provides that an ophthalmic medical practitioner or optician who wishes to be included in the second part of a Board's Ophthalmic List can assist in the provision of ophthalmic services until 30 June 2006.
+
+Schedule 1 sets out the terms of service for those providing or assisting in the provision of general ophthalmic services.
+
+Paragraph 1 deals with interpretation of terms used in the Schedule.
+
+Paragraph 2 incorporates the provisions of other documents into the terms of service.
+
+Paragraph 3 provides that, except in the case of a body corporate, any ophthalmic medical practitioner or optician providing, or assisting in the provision of, general ophthalmic services, must undergo certain training, and provide a certificate to the Board to that effect.
+
+Paragraphs 4, 5 and 6 contain provisions relating to the premises and locations at which general ophthalmic services are provided, and the equipment used.
+
+Paragraph 7 provides for notices to be displayed at such places.
+
+Paragraph 8 provides for the records to be kept by those providing, or assisting in the provision of, general ophthalmic services. The data to be kept in the records are specified in Schedule 5.
+
+Paragraphs 9 and 10 set out the circumstances in which general ophthalmic services can be carried out by deputies and employees of persons on the Ophthalmic List.
+
+Paragraphs 11 and 12 set out the procedure for dealing with complaints regarding the provision of general ophthalmic services.
+
+Paragraph 13 sets out the procedure for claiming and making payment of charges for the provision of general ophthalmic services.
+
+Paragraph 14 sets out the requirements for carrying out the eye examination.
+
+Paragraph 14 prohibits the use of a name of a person who is disqualified from inclusion in an Ophthalmic List.
+
+Schedule 2 contains the information and undertakings to be included in an application for inclusion in an Ophthalmic List. Regulation 7(1)(d) provides that an application to be included in the first part of the list shall include the information, undertakings, consents and declarations set out in Part A of Schedule 2 Regulation 7(1)(e) provides that an application to be included in the second part of the list shall include the information, undertakings, consents and declarations set out in Part B of Schedule 2.
+
+Part C of Schedule 2 lists the information to be provided in terms of regulation 26(6) by persons who are deemed to be included in a Health Board's Ophthalmic List in terms of regulation 26(3), that is persons who were included in that Health Board's Ophthalmic List maintained under the 1986 Regulations.
+
+Schedule 3 provides the definition of a primary eye examination. It specifies the tests and procedures in a primary eye examination. Table A sets out the mandatory requirements for a primary eye examination, and Table B sets out additional tests and procedures which must offered to specified categories of patients.
+
+Schedule 4 provides the definition of a supplementary eye examination. It specifies the tests and procedures in a supplementary eye examination.
+
+Schedule 5 provides the definition of records. Table A specifies the data to be included in records.
+
+Schedule 6 specifies the regulations revoked by these regulations.
+
+British Standard 3521:1962, referred to in paragraph 14(6) of Schedule 1 may be obtained from any of the sales outlets operated by the British Standards Institution or direct by post from the Institution at Linford Wood, Milton Keynes, MK14 6LE.
+
+## Annotations
+
+[^c15350341]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 26 was amended by the [Health and Social Security Act 1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48), [section 1(5)](https://www.legislation.gov.uk/ukpga/1984/48/section/1/5) and Schedule 1, Part II, paragraphs 1 and 4 and Schedule 8, the [Health and Medicines Act 1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), [section 13(4)](https://www.legislation.gov.uk/ukpga/1988/49/section/13/4) and is amended by the Smoking, Health and Social Care (Scotland) Act 2005 (“**the 2005 Act**”) (asp 13), sections 13(2) and 19 with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121); [section 28A](https://www.legislation.gov.uk/ssi/2006/135/section/28A) was inserted by the [Health and Social Security Act 1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48), [section 7(2)](https://www.legislation.gov.uk/ukpga/1984/48/section/7/2) and 27(1); [section 32A(7)](https://www.legislation.gov.uk/ssi/2006/135/section/32A/7) is inserted by the 2005 Act, section 26(7)(d) with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [section 32D](https://www.legislation.gov.uk/ssi/2006/121/section/32D) is substituted by the 2005 Act, section 27 with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [section 34](https://www.legislation.gov.uk/ssi/2006/121/section/34) was amended by the [National Health Service (Primary Care) Act 1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), [section 41(3)](https://www.legislation.gov.uk/ukpga/1997/46/section/41/3) and (10) and Schedule 2, Part I, paragraph 46, section 105(7) was amended by the [Health Services Act 1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), [Schedule 6](https://www.legislation.gov.uk/ukpga/1980/53/schedule/6), [paragraph 5(1)](https://www.legislation.gov.uk/ukpga/1980/53/paragraph/5/1) and Schedule 7, the [Health and Social Services and Social Security Adjudications Act 1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), [Schedule 9](https://www.legislation.gov.uk/ukpga/1983/41/schedule/9), [Part 1](https://www.legislation.gov.uk/ukpga/1983/41/part/1), [paragraph 24](https://www.legislation.gov.uk/ukpga/1983/41/paragraph/24) and the [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) (“**the 1999 Act**”), Schedule 4, paragraph 60; [section 108(1)](https://www.legislation.gov.uk/ssi/2006/135/section/108/1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
+
+[^key-4b3f5e9cd46767dfdfc9ae3c25efdaec]: Textual amendment: Words in reg. 2(1) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^c15350351]: Marginal citation: Section 10 was amended by the [National Health Service and Community Care Act 1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“**the 1990 Act**”), section 66(2) and Schedule 10; the 1999 Act section 65(1) and Schedule 4, paragraph 44(a); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [Art 2(a)(b)](https://www.legislation.gov.uk/ssi/1999/90/article/2/a/b) and Schedule 1, and is amended by the 2005 Act, Schedule 2, paragraph 2(a) with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121).
+
+[^key-7932643f37f709e296b5d7e5fd4261a4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/135/regulation/2/1) inserted (1.1.2026) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/337)](https://www.legislation.gov.uk/ssi/2025/337), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/337/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/337/regulation/2/2)
+
+[^c15350361]: Marginal citation: Section 9 was amended by the 1990 Act, section 29, the 1999 Act, section 65 and Schedule 4, paragraph 43, and the [Primary Medical Services (Scotland) Act 2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7), [Schedule 2](https://www.legislation.gov.uk/asp/2004/7/schedule/2).
+
+[^key-6878a3194ecf48587e37f47b876f71f6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/135/regulation/2/1) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(2)(a)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/2/a); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^c15350371]: Marginal citation: Section 2(1) was amended by the [Health and Social Services and Social Security Adjudications Act 1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41), [Schedule 7](https://www.legislation.gov.uk/ukpga/1983/41/schedule/7), [paragraph 1](https://www.legislation.gov.uk/ukpga/1983/41/paragraph/1), and the 1990 Act, section 28.
+
+[^c15350381]: Marginal citation: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44); section 9 was amended by [S.S.I. 2005/848](https://www.legislation.gov.uk/ssi/2005/848), [Art 9](https://www.legislation.gov.uk/ssi/2005/848/article/9).
+
+[^c15350391]: Marginal citation: Section 29 was substituted by the 1999 Act, section 58, a relevant amendment is the 2005 Act, section 26 with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121).
+
+[^c15350401]: Marginal citation: Section 29C(1) was inserted by the [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [section 58](https://www.legislation.gov.uk/ukpga/1999/8/section/58), and amended by [S.S.I. 2004/167](https://www.legislation.gov.uk/ssi/2004/167) and the 2005 Act, section 26 with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121).
+
+[^c15350411]: Marginal citation: Section 32D is substituted by the 2005 Act, section 27, with effect from 1st April 2006, in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121).
+
+[^key-4fc40d04b75c8545796e3634238f5913]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/135/regulation/2/1) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(2)(b)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/2/b); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-cf13b6388679f45bc50bea7f54f77766]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/135/regulation/2/1) omitted (1.4.2025) by virtue of [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(2)(g)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/2/g); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+
+[^key-00b4c0e6769f7710dd590768d51a28b8]: Textual amendment: Words in reg. 2(1) substituted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 17](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/17)
+
+[^key-f62b86bd3e4c7374ab678b4bc20a2716]: Textual amendment: Words in reg. 2(1) inserted (1.7.2015) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/219)](https://www.legislation.gov.uk/ssi/2015/219), [regs. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2015/219/regulation/3/2/a)
+
+[^key-e7614d70612dd8031f173cc02a5ccaf7]: Textual amendment: Words in reg. 2(1) inserted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2018/212/regulation/3/a)
+
+[^key-766916f68157fcacb922e7d0db2495e5]: Textual amendment: Words in reg. 2(1) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/20/2)
+
+[^key-fc605112db03a67538ab2582b3d1668b]: Textual amendment: Words in reg. 2(1) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 102(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/102/b)
+
+[^key-621b6e1f03bcc67ce35e461389cd67bc]: Textual amendment: Words in reg. 2(1) substituted (1.4.2019) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [3(b)](https://www.legislation.gov.uk/ssi/2018/212/regulation/3/b)
+
+[^c15350451]: Marginal citation: [S.I. 1974/467](https://www.legislation.gov.uk/uksi/1974/467). Relevant amending instruments are [S.I. 1991/900](https://www.legislation.gov.uk/uksi/1991/900), [S.S.I. 2000/224](https://www.legislation.gov.uk/ssi/2000/224) and 2003/306.
+
+[^key-50c751637be5c09257e56bef0bca7e1f]: Textual amendment: Words in reg. 2(1) inserted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [3(c)](https://www.legislation.gov.uk/ssi/2018/212/regulation/3/c)
+
+[^key-28abb9be5d960810a5378ac7805748cd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/135/regulation/2/1) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(2)(c)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/2/c); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^c15350461]: Marginal citation: Section 29(8) was amended by the [Community Care and Health (Scotland) Act 2002 (asp 5)](https://www.legislation.gov.uk/asp/2002/5) (“**the 2002 Act**”), sections 25 and 27(2) and Schedule 2, paragraph 2(4)(b), and the 2005 Act, section 26(2)(e), with effect from 1st April 2006, in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121).
+
+[^key-c750b7ca646770c4e188fc67e2bf6396]: Textual amendment: Words in reg. 2(1) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [9(a)(i)](https://www.legislation.gov.uk/ssi/2022/169/regulation/9/a/i)
+
+[^key-82dff871c1f86ebc252cfaa45ac5f262]: Textual amendment: Words in reg. 2(1) inserted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2013/355/regulation/3/a)
+
+[^key-0f5826dd40cd7c4808dd461b0fc7569c]: Textual amendment: Words in reg. 2(1) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [9(a)(ii)](https://www.legislation.gov.uk/ssi/2022/169/regulation/9/a/ii)
+
+[^c15350471]: Marginal citation: The definition of “ophthalmic optician” was substituted by the Opticians Act 1989 (Amendment) Order 2005/848, Schedule 1(2), paragraph 10.
+
+[^c15350481]: Marginal citation: (c.44); section 7 was amended by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848), [Art 7](https://www.legislation.gov.uk/uksi/2005/848/article/7).
+
+[^key-7ab930485d104b63c7d1f35e5c2472c7]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 21(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/21/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-09981d820219c16318273078dc7801f6]: Textual amendment: Words in reg. 2(1) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2022/169/regulation/9/b)
+
+[^key-5001dd4bcf15865f913684255f853679]: Textual amendment: Words in reg. 2(1) omitted (1.4.2024) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2024/38/regulation/8)
+
+[^key-ea7cb74140a017166473ae84510856b6]: Textual amendment: Words in reg. 2(1) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/2/b)
+
+[^key-1a7194376e25135c8be18d7049803e5f]: Textual amendment: Words in reg. 2(1) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [9(c)](https://www.legislation.gov.uk/ssi/2022/169/regulation/9/c)
+
+[^key-d1fd7f8f472ac4b4b1caf3347a733268]: Textual amendment: Words in reg. 2(1) substituted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2013/355/regulation/3/b)
+
+[^key-aea87d9b56f27a7437ed3e82c4ab9a99]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/135/regulation/2/1) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(2)(d)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/2/d); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-13fe70aaff181ea8a16fab052019862a]: Textual amendment: Words in reg. 2 omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 3(2)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/3/2)
+
+[^key-ca6f50353793d04f112f32b5efbccd8a]: Textual amendment: Words in reg. 2(1) substituted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/2/b)
+
+[^key-20ee3d71adf5b6562a610823d92c93fb]: Textual amendment: Words in reg. 2(1) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2013/355/regulation/3/c)
+
+[^c15350491]: Marginal citation: (c.54); section 2(2) was amended by [S.I. 1996/1591](https://www.legislation.gov.uk/uksi/1996/1591) Regulation 7 and Schedule 2, paragraph 1 and by the Medical Act 1983 (Amendment) Order 2002/3135, article 9(1).
+
+[^key-d782c6970ed9bffe8129924ed3395c4d]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 21(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/21/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-a920cdcec5a87ee1ce0a5d858e6d823f]: Textual amendment: Words in reg. 2(1) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [9(d)](https://www.legislation.gov.uk/ssi/2022/169/regulation/9/d)
+
+[^key-0ae7ae7446110e6ec98fff5241fc1e04]: Textual amendment: Words in reg. 2(1) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2013/355/regulation/3/d)
+
+[^key-427875dfc2ca3fafc3cb33e70f5ed7b0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/135/regulation/2/1) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(2)(e)(i)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/2/e/i); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-347e694c52fe01638d21f63ebcc636c6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/135/regulation/2/1) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(2)(e)(ii)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/2/e/ii); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-20ebb07a93395882d5df9787bbdf906f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/135/regulation/2/1) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(2)(f)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/2/f); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-705c10bc055646b0e66d9a47cb9d1059]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/135/regulation/2/1) inserted (1.1.2026) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/337)](https://www.legislation.gov.uk/ssi/2025/337), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/337/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/337/regulation/2/3)
+
+[^key-f90ef877a52c9cd940b006cb8b9ce553]: Textual amendment: Words in reg. 2(1) substituted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [3(e)](https://www.legislation.gov.uk/ssi/2013/355/regulation/3/e)
+
+[^key-19ee31441333830ea3185c63af775c3e]: Textual amendment: Word in reg. 2(1) substituted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [3(d)](https://www.legislation.gov.uk/ssi/2018/212/regulation/3/d)
+
+[^c15350511]: Marginal citation: Section 32A(2) was inserted by the [National Health Service (Amendment) Act 1995 (c. 31)](https://www.legislation.gov.uk/ukpga/1995/31) (“**the 1995 Act**”) section 1 amended by the 1999 Act, section 65 and Schedule 4, paragraph 51 and the 2005 Act, section 26(7)(b), with effect from 1st April 2006, in terms of S.S.I. 2006/ .
+
+[^c15350521]: Marginal citation: Section 32B(1) was substituted by the 1995 Act, section 8 and amended by the 1999 Act, section 65 and Schedule 4, paragraph 52, and by the 2005 Act, Schedule 3 with effect from 1st April 2006, in terms of S.S.I. 2006/ .
+
+[^c15350531]: Marginal citation: Schedule 8 was amended by the 1995 Act, section 12, [S.I. 1995/3214](https://www.legislation.gov.uk/uksi/1995/3214); the [National Health Service (Primary Care) Act 1997 (c. 46)](https://www.legislation.gov.uk/ukpga/1997/46), [section 41(10)](https://www.legislation.gov.uk/ukpga/1997/46/section/41/10), and Schedule 2, Part II, paragraph 58; [S.I. 1998/631](https://www.legislation.gov.uk/uksi/1998/631); the 1999 Act, sections 653 and Schedule 4, paragraph 64, and by the 2005 Act, Schedule 2, paragraph 2 with effect from 1st April 2006, in terms of [S.S.I. 2006/122](https://www.legislation.gov.uk/ssi/2006/122).
+
+[^key-ddd23919fd1a3a067f24326c89120dfe]: Textual amendment: Word in reg. 2(1) substituted (1.7.2015) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/219)](https://www.legislation.gov.uk/ssi/2015/219), [regs. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2015/219/regulation/3/2/c)
+
+[^c15350541]: Marginal citation: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
+
+[^c15350551]: Marginal citation: [S.I. 1972/1265](https://www.legislation.gov.uk/uksi/1972/1265).
+
+[^c15350561]: Marginal citation: Section 29B(2) was added by the 1999 Act, section 58, and amended by the 2002 Act, Schedule 2, paragraph 2, the 2004 Act, Schedule 1, paragraph 1, and the 2005 Act, section 26(4) and Schedule 3 with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121).
+
+[^c15350571]: Marginal citation: Section 30(2) was substituted by the 1999 Act, section 58 and amended by the 2005 Act, Schedule 3 with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121).
+
+[^c15350581]: Marginal citation: Section 30(5) was substituted by the 1999 Act, section 58 and amended by the 2005 Act, Schedule 3 with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121).
+
+[^c15350591]: Marginal citation: Section 32A(3) was inserted by the [National Health Service (Amendment) Act 1995 (c. 31)](https://www.legislation.gov.uk/ukpga/1995/31), [section 8](https://www.legislation.gov.uk/ukpga/1995/31/section/8), amended by the 1999 Act, section 65 and Schedule 4, paragraph 51 and the 2005 Act, Schedule 3 with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121).
+
+[^c15350601]: Marginal citation: Section 32B(1) was substituted by the 1999 Act, section 65 and Schedule 4, paragraph 52, and the 2005 Act, Schedule 3 with effect from 1st April 2006 in terms of S.S.I. 2006/ .
+
+[^c15350611]: Marginal citation: [S.S.I. 2004/38](https://www.legislation.gov.uk/ssi/2004/38); regulation 26 is amended with effect from 1st April 2006 by the [National Health Service (Tribunal) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/122)](https://www.legislation.gov.uk/ssi/2006/122).
+
+[^key-352da84f0c86f6e81131a5e55101bff9]: Textual amendment: Words in reg. 6(3)(b) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/3/a)
+
+[^key-7f6060bc8fa9ddd69de7180871354759]: Textual amendment: Words in [reg. 6(3)(b)](https://www.legislation.gov.uk/ssi/2006/135/regulation/6/3/b) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [10(a)](https://www.legislation.gov.uk/ssi/2022/169/regulation/10/a)
+
+[^key-761698b8a99b9771419c9640f8704b4f]: Textual amendment: Words in [reg. 6(3)(c)](https://www.legislation.gov.uk/ssi/2006/135/regulation/6/3/c) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [10(b)](https://www.legislation.gov.uk/ssi/2022/169/regulation/10/b)
+
+[^key-911237e58a7f46263176bbd65a440a7f]: Textual amendment: Words in [reg. 6(3)(d)](https://www.legislation.gov.uk/ssi/2006/135/regulation/6/3/d) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [10(c)](https://www.legislation.gov.uk/ssi/2022/169/regulation/10/c)
+
+[^key-f6b4dc436ae9505e9db3512db7fcb4ab]: Textual amendment: Words in [reg. 6(3)(e)](https://www.legislation.gov.uk/ssi/2006/135/regulation/6/3/e) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2013/355/regulation/4/a/i)
+
+[^key-a6c62dc409c99841a8716a96cfd5760d]: Textual amendment: Words in [reg. 6(3)(e)](https://www.legislation.gov.uk/ssi/2006/135/regulation/6/3/e) inserted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2013/355/regulation/4/a/ii)
+
+[^key-4c40c1e93ac373830c23ac0f4b66e80f]: Textual amendment: Words in [reg. 6(3)(e)](https://www.legislation.gov.uk/ssi/2006/135/regulation/6/3/e) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [10(d)](https://www.legislation.gov.uk/ssi/2022/169/regulation/10/d)
+
+[^key-3dd20fc259e2659637af51d8f7207172]: Textual amendment: Words in [reg. 6(3)(f)](https://www.legislation.gov.uk/ssi/2006/135/regulation/6/3/f) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/ssi/2013/355/regulation/4/b/i)
+
+[^key-1b8bc01752c42e622168ab02ce28b37f]: Textual amendment: Words in [reg. 6(3)(f)](https://www.legislation.gov.uk/ssi/2006/135/regulation/6/3/f) inserted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/ssi/2013/355/regulation/4/b/ii)
+
+[^key-cd2bda7c81358b3539c926e5750891fc]: Textual amendment: Words in reg. 6(3)(j) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/3/b)
+
+[^key-f24170a8f8df66a6b489644fe89f250c]: Textual amendment: Words in reg. 6(4)(c) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/3/b)
+
+[^key-b9adb2f915e3b47cc189756b8fc1168a]: Textual amendment: Words in reg. 7(1)(b) substituted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2018/212/regulation/4)
+
+[^key-069a5fe9a6a28e8b9a10d101c8e4a2f4]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/1/b) substituted (1.4.2019) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [5](https://www.legislation.gov.uk/ssi/2018/212/regulation/5)
+
+[^key-f3f6d6afce28d49449f634f90c4c2392]: Textual amendment: Words in reg. 7(1)(d) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/3/a)
+
+[^key-1fcd8fe40150be61f7b1d7e99d70b320]: Textual amendment: Words in [reg. 7(1)(d)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/1/d) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(3)(a)(i)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/3/a/i); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-8f396ad379361df0a70d7c131252033d]: Textual amendment: Words in reg. 7(1)(d) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/3/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-55680f982ba3faacc7b6428a348b2b72]: Textual amendment: Words in [reg. 7(1)(d)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/1/d) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/3/a/ii); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-6de7120d188af87545f776c0e1913585]: Textual amendment: Words in reg. 7(1)(e) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/3/a)
+
+[^key-b57efa600d3cd1a2345a4a40964f5e32]: Textual amendment: Words in [reg. 7(1)(e)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/1/e) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(3)(a)(i)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/3/a/i); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-2e1291a0d88ecc0684f4aeddfb96947b]: Textual amendment: Words in reg. 7(1)(e) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/3/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-b932a2953660e01e3a0b965e90b9239f]: Textual amendment: Words in [reg. 7(1)(e)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/1/e) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/3/a/ii); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-d49a0442794f15d25122ced0d15aac30]: Textual amendment: Reg. 7(1A) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/4/a)
+
+[^key-a93707afab984305f7983b452be9a0b4]: Textual amendment: Reg. 7(1B) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/3/b)
+
+[^key-660a5c1ed658a5788c3812e6df8d5485]: Textual amendment: Reg. 7(2) substituted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/3/c)
+
+[^key-3d087c8843368d2c3df70e1c25ab03cb]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/2/b) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(3)(b)(i)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/3/b/i); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-faa5554f246dfde0554536d884870f09]: Textual amendment: Reg. 7(2)(c) substituted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/3/c) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-d73e7f07e5329608ba581166977862b9]: Textual amendment: Words in [reg. 7(2)(c)(i)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/2/c/i) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/3/b/ii); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-5ac618c0b037c17b7c929ef6e1e15aab]: Textual amendment: Words in reg. 7(3)(b) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(4)(b)(i)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/4/b/i)
+
+[^key-cddb835b4903a3ce765caa3b9f051d90]: Textual amendment: Word in reg. 7(3)(b) omitted (1.4.2007) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/4/b/ii)
+
+[^key-5502496c4ba86cabeb7961c77e1c56e3]: Textual amendment: Reg. 7(3)(d) and word inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/4/c)
+
+[^key-454e64c0abf0f7398aab0e114d221258]: Textual amendment: Word in reg. 7(3)(c) omitted (1.4.2010) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(3)(d)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/3/d)
+
+[^key-84c5399f5000426c9cd860ae656a002a]: Textual amendment: Reg. 7(3)(e) and word inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(3)(e)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/3/e)
+
+[^key-967b594101ecd2b5658cedd6f68a3066]: Textual amendment: Word in reg. 7(3)(d) omitted (28.2.2011) by virtue of [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/3/d) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-4056a2d06cf46046259135f481148d38]: Textual amendment: [Reg. 7(3)(e)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/3/e) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(3)(c)(i)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/3/c/i); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-a32993fa16694ff0fe38066246ea8239]: Textual amendment: Words in [reg. 7(3)(f)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/3/f) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/3/c/ii); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-4d0fd39a0945f2261f36c6cc491f3f41]: Textual amendment: Reg. 7(4A)-(4E) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(3)(f)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/3/f)
+
+[^key-cb7c1d3f0c570b79ee55308512d761e2]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/5) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(3)(d)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/3/d); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-36942b1bf5d2ebebec0e8af7e3c08f7d]: Textual amendment: Reg. 7(6) punctuation mark inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/4/d)
+
+[^key-e92f63c392634fa5ddb247708360a8b2]: Textual amendment: Words in reg. 7(7) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2013/355/regulation/5/a)
+
+[^key-813c10b5b8c4607b2b4f7981ccc6e6cf]: Textual amendment: Words in reg. 7(8)(a) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/3/a)
+
+[^key-ead7fc2b6cb8e51e380994fc8803607e]: Textual amendment: Words in [reg. 7(8)(a)](https://www.legislation.gov.uk/ssi/2006/135/regulation/7/8/a) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(3)(e)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/3/e); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-f60f897ea6204da94dd888c9865cef4c]: Textual amendment: Words in reg. 7(10)(c) substituted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2013/355/regulation/5/b)
+
+[^key-a2f54c981dc4a3a0b5b2103ffa695026]: Textual amendment: Reg. 7(11) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(4)(e)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/4/e)
+
+[^key-1ecaf6ac5ecf9e717ad510b6013d8cb0]: Textual amendment: Reg. 7(12) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(3)(g)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/3/g)
+
+[^key-763dcb5cf97ad0d96044789bb4b4440f]: Textual amendment: Word in reg. 8(1)(c) substituted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/4/a)
+
+[^key-54ef8accc36a7978f051898a8a142717]: Textual amendment: Reg. 8(1)(d) substituted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/4/b)
+
+[^key-4f98a177828282a16220ac27f2dbc807]: Textual amendment: Words in reg. 8(1)(f) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/4/c)
+
+[^key-5da87140ca8e204a86b43b2967a410b2]: Textual amendment: Words in reg. 8(1)(g) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(4)(d)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/4/d)
+
+[^key-97f378742787ca2a5c2c2412388c36d7]: Textual amendment: Reg. 8(1)(h)(i) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(4)(e)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/4/e)
+
+[^key-a985432a9414f1067a3854208f99ce01]: Textual amendment: [Reg. 8(1)(j)](https://www.legislation.gov.uk/ssi/2006/135/regulation/8/1/j)[(k)](https://www.legislation.gov.uk/ssi/2006/135/regulation/8/1/k) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/4) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-2f29cb777a144bc4e9b67dd6bc486637]: Textual amendment: Word in [reg. 8(1)(k)](https://www.legislation.gov.uk/ssi/2006/135/regulation/8/1/k) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(4)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/4); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^c15350621]: Marginal citation: [S.S.I. 2004/38](https://www.legislation.gov.uk/ssi/2004/38) as amended by [S.S.I. 2004/122](https://www.legislation.gov.uk/ssi/2004/122) and 271, 2005/335 and 2006/122.
+
+[^key-994141d7af2a63ba47772a489f352ec0]: Textual amendment: Words in reg. 8(3) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/5/a)
+
+[^key-6eb5f15025fcd935e68ef77ebd4a4d71]: Textual amendment: Reg. 8(4) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/5/b)
+
+[^key-5a4b42f5724b1c14f56ab5ac9c461786]: Textual amendment: Word in reg. 9(1)(h) omitted (1.4.2010) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/5/a)
+
+[^key-89dc72d2160f97915cd10708d2301952]: Textual amendment: Reg. 9(1)(j) and word inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/5/b)
+
+[^key-00d91c028f7b0d1cfaf7af3d142ff053]: Textual amendment: Word in [reg. 9(1)(i)](https://www.legislation.gov.uk/ssi/2006/135/regulation/9/1/i) omitted (28.2.2011) by virtue of [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/5/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-63bea2410174b145f249650286cd66be]: Textual amendment: [Reg. 9(1)(k)](https://www.legislation.gov.uk/ssi/2006/135/regulation/9/1/k) and word inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/5/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-e3472ab18b0c22247e4cc0ff3e04939a]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2006/135/regulation/9/2) substituted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/5/c) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-4987c75aa5b59aaf84b0c1b929f3e212]: Textual amendment: Word in reg. 9(6) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/6)
+
+[^c15350631]: Marginal citation: [Section 30](https://www.legislation.gov.uk/ssi/2006/135/section/30) was substituted by the 1999 Act, section 58 and amended by the 2002 Act, Schedule 2, paragraph 2, and by the 2005 Act, Schedule 2, paragraph 2, and Schedule 3 with effect from 1st April 2006 in terms of [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121).
+
+[^key-809bc4a0479ed8e56a2d74b111e52432]: Textual amendment: Words in reg. 11(1)(d) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(6)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/6)
+
+[^key-7ac03fd05fd2085f72d646999b25e0c1]: Textual amendment: Reg. 11(1)(f) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/6/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-cbfb73714a7506f86d239eda6e12c843]: Textual amendment: Words in reg. 11(4) substituted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/6/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-9dbac6bf163d958cf0e4efa965efce13]: Textual amendment: Word in reg. 12(1)(d) substituted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/7/a)
+
+[^key-33bfdaeab9c31fc3eaf5918394998aaa]: Textual amendment: Words in reg. 12(1)(e) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/7/b)
+
+[^key-0e9447ecee219046d3f44d4e27ffd837]: Textual amendment: Word in reg. 12(1)(e) omitted (28.2.2011) by virtue of [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/7/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-566d16362c7e2847d4f9da20bf5c489b]: Textual amendment: Words in reg. 12(1)(f) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/7/c)
+
+[^key-1e65fa33d949fd76fd0156b69b2accb9]: Textual amendment: Reg. 12(1)(g)[(h)](https://www.legislation.gov.uk/ssi/2006/135/regulation/12/1/h) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-bd14d5d79e309bcf36f30ad94ccdd4ba]: Textual amendment: Word in [reg. 12(1)(g)](https://www.legislation.gov.uk/ssi/2006/135/regulation/12/1/g) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(5)(a)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/5/a); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-a4b0f79e2ef33e1cd4f9a2a71aeefadb]: Textual amendment: Words in reg. 12(2) omitted (1.4.2024) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [9(a)(i)](https://www.legislation.gov.uk/ssi/2024/38/regulation/9/a/i)
+
+[^key-172718fb636a9ec0e8c300658c94a2f0]: Textual amendment: Word in reg. 12(2) substituted (1.4.2024) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [9(a)(ii)](https://www.legislation.gov.uk/ssi/2024/38/regulation/9/a/ii)
+
+[^key-83f335f71e608a6c199f42e938b2b885]: Textual amendment: Words in reg. 12(3) omitted (1.4.2024) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2024/38/regulation/9/b)
+
+[^key-98a80bddd0917a351f6e937cd94238c8]: Textual amendment: Words in reg. 12(8) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/7/a)
+
+[^key-5e4fd5150249a83f1b16268f0812b2b5]: Textual amendment: Words in reg. 12(8) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/7/b)
+
+[^key-4d5b1fea7aaff4d5789137086b330e68]: Textual amendment: Words in [reg. 12(10)](https://www.legislation.gov.uk/ssi/2006/135/regulation/12/10) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(5)(b)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/5/b); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-44650e5bf8f4bb91fc93bc3740336df4]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/ssi/2006/135/regulation/14/1/a) substituted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [6(a)(i)](https://www.legislation.gov.uk/ssi/2013/355/regulation/6/a/i)
+
+[^key-62d1e3e5c5a7d6e95e9737d6c085331d]: Textual amendment: Words in reg. 14(1)(b) substituted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [6(a)(ii)](https://www.legislation.gov.uk/ssi/2013/355/regulation/6/a/ii)
+
+[^key-a8fac7983cfee352a28a7488bbefac95]: Textual amendment: Reg. 14(2)(h) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 9(a)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/9/a) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-ae7f698c7cec0aa2ea4bd51f1631f44a]: Textual amendment: Words in reg. 14(3)(a) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/8)
+
+[^key-e269a1d63e3e6883f034d999f634bab5]: Textual amendment: Reg. 14(7)(k) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 9(a)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/9/a) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-12eb0cbe8343d63db4e7459aa3c97ae3]: Textual amendment: Words in [reg. 15(1)(c)](https://www.legislation.gov.uk/ssi/2006/135/regulation/15/1/c) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/9/a)
+
+[^key-f21ac9a3bacb07d274f0ef50a690958a]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/ssi/2006/135/regulation/15/2) omitted (1.4.2007) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/9/b)
+
+[^key-a6f8091bf845db40ecbeb38e3776587e]: Textual amendment: Word in [reg. 16(2)](https://www.legislation.gov.uk/ssi/2006/135/regulation/16/2) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(10)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/10)
+
+[^key-5f4533cbede46e303425c53d3a004505]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/ssi/2006/135/regulation/17/1/b) substituted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2022/169/regulation/11)
+
+[^key-864d85b2f0d84cf9915e7beba98074ad]: Textual amendment: Words in reg. 20(4) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(11)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/11)
+
+[^key-4bf2017a92543e9f46ee5bca61d48fbf]: Textual amendment: Words in reg. 21(3) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/12/a)
+
+[^key-c19fd4f2ca0d954323bd5e55aaad6a4c]: Textual amendment: Reg. 21(6) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/12/b)
+
+[^key-e0483bab43216f02ddc96798b09e680f]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/ssi/2006/135/regulation/21A) inserted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [7](https://www.legislation.gov.uk/ssi/2013/355/regulation/7)
+
+[^key-c7e61aee181d8e4da342ab5d389676a9]: Textual amendment: Reg. 21B inserted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2018/212/regulation/6)
+
+[^key-9fc1199518348de8d18f60a7e0643762]: Textual amendment: Word in reg. 22(1) substituted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/ssi/2018/212/regulation/7/1/a)
+
+[^key-4aacc1d39da2c6ef1f5b7a1957c4fb41]: Textual amendment: Reg. 22(2) substituted (1.4.2019) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [7(1)(c)](https://www.legislation.gov.uk/ssi/2018/212/regulation/7/1/c)
+
+[^key-e9772511bab5baa9e9ceec2db746cea5]: Textual amendment: Words in reg. 22(2) omitted (1.4.2024) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2024/38/regulation/10)
+
+[^key-8914f9541130fcfeb7d3f8879ed41c9f]: Textual amendment: Reg. 22(2A) omitted (1.4.2019) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [7(1)(e)](https://www.legislation.gov.uk/ssi/2018/212/regulation/7/1/e)
+
+[^key-f86292cd507549c3066c1ace4a5ad8f4]: Textual amendment: Reg. 22(2B) omitted (1.4.2019) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [7(1)(g)](https://www.legislation.gov.uk/ssi/2018/212/regulation/7/1/g)
+
+[^key-997cb927ed092fde8fb6f5f208ec9856]: Textual amendment: Reg. 22(3)(b) substituted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [7(1)(h)](https://www.legislation.gov.uk/ssi/2018/212/regulation/7/1/h)
+
+[^key-2920fe664eec931e5fd000e148f811c5]: Textual amendment: Reg. 22(3A)-(3C) omitted (1.10.2018) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [7(1)(i)](https://www.legislation.gov.uk/ssi/2018/212/regulation/7/1/i)
+
+[^key-4e8fba2432c2c2adfa29a779e8e7ac7f]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/ssi/2006/135/regulation/22A) inserted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2018/212/regulation/8)
+
+[^key-fef9e1b817f01542603730c0536a19c4]: Textual amendment: Words in reg. 23(1) omitted (1.4.2024) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [11(a)(i)](https://www.legislation.gov.uk/ssi/2024/38/regulation/11/a/i)
+
+[^key-b4596dd1a67e8cb89ef17833fc2beb83]: Textual amendment: Words in reg. 23(1) substituted (1.4.2019) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [9(a)](https://www.legislation.gov.uk/ssi/2018/212/regulation/9/a)
+
+[^key-75a5e1e78e9a6a73bd6d74468229bca5]: Textual amendment: Words in reg. 23(1) omitted (1.4.2024) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [11(a)(ii)](https://www.legislation.gov.uk/ssi/2024/38/regulation/11/a/ii)
+
+[^key-785441c9d3e3ae81c462987aefe4c01b]: Textual amendment: Words in reg. 23(1)(b) omitted (1.4.2024) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [11(a)(iii)](https://www.legislation.gov.uk/ssi/2024/38/regulation/11/a/iii)
+
+[^key-a48bec7e7a96e5eba8d89704f3c6b309]: Textual amendment: Words in reg. 23(1)(b)(iii) omitted (1.4.2024) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [11(a)(iv)](https://www.legislation.gov.uk/ssi/2024/38/regulation/11/a/iv)
+
+[^c15350641]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
+
+[^key-24d5a2aa3665839c1b3662d218b73cc7]: Textual amendment: Reg. 23(2) omitted (1.4.2024) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [11(b)](https://www.legislation.gov.uk/ssi/2024/38/regulation/11/b)
+
+[^key-377fc7c89966359deb4e3d219c2b3972]: Textual amendment: Reg. 23(3) omitted (1.4.2019) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [9(c)](https://www.legislation.gov.uk/ssi/2018/212/regulation/9/c)
+
+[^key-f5e75b4e182ee60a8e4b927bf69354cb]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/ssi/2006/135/regulation/25) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(13)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/13)
+
+[^c15350651]: Marginal citation: [S.I. 1986/965](https://www.legislation.gov.uk/uksi/1986/965); regulation 6 was substituted by [S.I. 1988/543](https://www.legislation.gov.uk/uksi/1988/543), 1991/534, 1996/843, 1999/725, [S.S.I. 1999/55](https://www.legislation.gov.uk/ssi/1999/55), 2001/62, 2004/36, and 2004/169.
+
+[^key-99643df906b4bcababf047f61ec5b9b3]: Textual amendment: Word in [reg. 26(7)](https://www.legislation.gov.uk/ssi/2006/135/regulation/26/7) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(14)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/14)
+
+[^c15350661]: Marginal citation: [S.S.I. 2004/38](https://www.legislation.gov.uk/ssi/2004/38) as amended by [S.S.I. 2004/122](https://www.legislation.gov.uk/ssi/2004/122) and 271, 2005/335 and 2006/122.
+
+[^key-9c6d235a76ad77babdccd24fab164fb0]: Textual amendment: Words in sch. 1 para. 2(c) substituted (1.7.2006) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2006 (S.S.I. 2006/329)](https://www.legislation.gov.uk/ssi/2006/329), [regs. 1](https://www.legislation.gov.uk/ssi/2006/329/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2006/329/regulation/2/3)
+
+[^c15350681]: Marginal citation: [S.I. 1998/642](https://www.legislation.gov.uk/uksi/1998/642). Regulation 9 was amended by [S.I. 1999/748](https://www.legislation.gov.uk/uksi/1999/748).
+
+[^key-56ca4cc7dbc64df4758c3be8abf8625f]: Textual amendment: Words in [sch. 1 para. 2(f)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/2/f) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [14(a)](https://www.legislation.gov.uk/ssi/2022/169/regulation/14/a)
+
+[^key-2fcaff1c926ae037fcec2fac93a73c54]: Textual amendment: Word in sch. 1 para. 2(f) omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 3(3)(a)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/3/3/a)
+
+[^key-539c4305a89ad8844e47ebd331eeca69]: Textual amendment: Sch. 1 para. 2(g) substituted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/2/a)
+
+[^key-5c56457a8ee0f8b384bee12cef5b1cb1]: Textual amendment: Word in [sch. 1 para. 2(g)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/2/g) omitted (1.10.2018) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/2/b)
+
+[^key-367a80e0373d1d90f560794b82aa0afc]: Textual amendment: Sch. 1 para. 2(i) and word inserted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [10(2)(c)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/2/c)
+
+[^key-a6ff00cd7eca5d3c899468a5bb28ef07]: Textual amendment: Words in [sch. 1 para. 3(1)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/3/1) substituted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [10(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/3)
+
+[^key-0b34890af6c9554799a14563560d068b]: Textual amendment: Words in [sch. 1 para. 3(1)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/3/1) substituted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 9(b)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/9/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-73e377898caba99b1da69d977d0f53e0]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/3A) inserted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [10(4)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/4)
+
+[^key-972fdabffb014fe4a8ddd9261191628e]: Textual amendment: Words in [sch. 1 para. 3A(1)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/3A/1) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [14(b)(i)(aa)](https://www.legislation.gov.uk/ssi/2022/169/regulation/14/b/i/aa)
+
+[^key-0ab9c224f3a48fc4da4e5aba5064d69d]: Textual amendment: Words in [sch. 1 para. 3A(1)(a)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/3A/1/a) substituted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 9(b)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/9/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-04e0235dd601b811f03fd2de6b14b326]: Textual amendment: Sch. 1 para. 3A(1)(b) and word omitted (1.7.2022) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [14(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2022/169/regulation/14/a/i/bb)
+
+[^key-6dbdde683b1173588206748cd9d9c229]: Textual amendment: [Sch. 1 para. 3A(3)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/3A/3) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [14(b)(ii)](https://www.legislation.gov.uk/ssi/2022/169/regulation/14/b/ii)
+
+[^key-fc7accf7be8b9d62158d7e388dfb0f31]: Textual amendment: Words in sch. 1 para. 4(1) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/a)
+
+[^key-826c8d3ca5c880f3209aa0ddc8c02d78]: Textual amendment: [Sch. 1 para. 4(1A)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/4/1A) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [14(c)(i)](https://www.legislation.gov.uk/ssi/2022/169/regulation/14/c/i)
+
+[^key-4f1afe1479a9436779dbda3df6ca15f8]: Textual amendment: [Sch. 1 para. 4(2A)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/4/2A) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [14(c)(ii)](https://www.legislation.gov.uk/ssi/2022/169/regulation/14/c/ii)
+
+[^key-133d799d1647cad9e5a9635859e0b8cd]: Textual amendment: Sch. 1 para. 5 omitted (1.4.2024) by virtue of [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [12(a)](https://www.legislation.gov.uk/ssi/2024/38/regulation/12/a)
+
+[^key-c145634b01a164b3fb72421295e6ccb1]: Textual amendment: Sch. 1 para. 6(1)(2) substituted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(9)(a)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/9/a)
+
+[^key-fab44dc86d72fb2ecb9692088131a881]: Textual amendment: Words in [sch. 1 para. 6(1)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/6/1) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [14(d)(i)](https://www.legislation.gov.uk/ssi/2022/169/regulation/14/d/i)
+
+[^key-368e2c152125202511b7036249453e7d]: Textual amendment: Words in [sch. 1 para. 6(2)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/6/2) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [14(d)(ii)(aa)](https://www.legislation.gov.uk/ssi/2022/169/regulation/14/d/ii/aa)
+
+[^key-7fd8e3c5ea3e1ca270073be06d57f661]: Textual amendment: Words in sch. 1 para. 6(2) substituted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [8(1)(a)](https://www.legislation.gov.uk/ssi/2013/355/regulation/8/1/a)
+
+[^key-93f60c6bc38522c59e9cb123af98be22]: Textual amendment: Words in [sch. 1 para. 6(2)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/6/2) inserted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [14(d)(ii)(bb)](https://www.legislation.gov.uk/ssi/2022/169/regulation/14/d/ii/bb)
+
+[^key-55a9543ca01bb513863c96812709d877]: Textual amendment: Words in sch. 1 para. 6(2) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [8(1)(b)](https://www.legislation.gov.uk/ssi/2013/355/regulation/8/1/b)
+
+[^key-333b5561aec3f1d055355aeef01c96cd]: Textual amendment: Words in sch. 1 para. 7 substituted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(9)(b)(i)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/9/b/i)
+
+[^key-c96d0b0f6b804582280426b9cf74b103]: Textual amendment: Words in sch. 1 para. 7 inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/9/b/ii)
+
+[^key-91072363519b217e64e313b6f4384aa4]: Textual amendment: Words in sch. 1 para. 9(1) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(c)(i)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/c/i)
+
+[^key-4ea9fd0cc1e022ab0b9ecb79c4a0e98a]: Textual amendment: Word in sch. 1 para. 9(2) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(c)(ii)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/c/ii)
+
+[^key-822ee7762387550ced3b1373488d32de]: Textual amendment: Sch. 1 para. 10(1) omitted (1.4.2007) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(d)(i)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/d/i)
+
+[^key-471292eb43b7d5cf364acc426673756c]: Textual amendment: Words in sch. 1 para. 10(2) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(d)(ii)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/d/ii)
+
+[^key-cc3d4186e0c08f44a9600e736bc76b0d]: Textual amendment: Words in sch. 1 para. 10(2)(a) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(d)(iii)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/d/iii)
+
+[^key-f11f5ebb1475adc639cf3d854bf29589]: Textual amendment: Words in sch. 1 para. 10(2)(b) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(d)(iv)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/d/iv)
+
+[^key-7eab9635554c61820f95e59c00908ddc]: Textual amendment: Word in sch. 1 para. 10(3) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(d)(v)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/d/v)
+
+[^key-e59595634018f6e2920837611a12a622]: Textual amendment: Sch. 1 para. 11 substituted (1.4.2012) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 3(4)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/3/4)
+
+[^key-f6c6c30283191857133df556c08b39f7]: Textual amendment: Words in sch. 1 para. 12 substituted (1.4.2012) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 3(5)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/3/5)
+
+[^key-5e01aaf9cb3140e85900330c2ab538d9]: Textual amendment: Word in sch. 1 para. 13(1) substituted (1.4.2024) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/38)](https://www.legislation.gov.uk/ssi/2024/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/38/regulation/1/1), [12(b)](https://www.legislation.gov.uk/ssi/2024/38/regulation/12/b)
+
+[^key-cd910a7f195849006ebd8c3f3d55525a]: Textual amendment: Sch. 1 para. 13(1A) inserted (1.7.2015) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/219)](https://www.legislation.gov.uk/ssi/2015/219), [regs. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2015/219/regulation/3/5/a)
+
+[^key-bff095aed72bfb39471bc9e6add41458]: Textual amendment: Words in sch. 1 para. 13(1A) omitted (1.4.2019) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [10(5)(a)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/5/a)
+
+[^key-33ecf07dfafffed71bb3e8ee9ba7f4d5]: Textual amendment: Sch. 1 para. 13(2)(3) omitted (1.4.2019) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [10(5)(b)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/5/b)
+
+[^key-c3436286e9cfdffb0dab9eb4fe983493]: Textual amendment: Sch. 1 para. 13(3A)-(3C) inserted (1.7.2015) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/219)](https://www.legislation.gov.uk/ssi/2015/219), [regs. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1), [3(5)(c)](https://www.legislation.gov.uk/ssi/2015/219/regulation/3/5/c)
+
+[^key-782462a9679c811d2e80c6addb1bbb0b]: Textual amendment: Words in sch. 1 para. 13(3B) omitted (1.4.2019) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [10(5)(c)(i)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/5/c/i)
+
+[^key-f631da81b99d0bca38a77e72a9442eef]: Textual amendment: Words in sch. 1 para. 13(3B) inserted (1.4.2019) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [10(5)(c)(ii)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/5/c/ii)
+
+[^key-a54a82def780b6f57b6d03d890060b99]: Textual amendment: Sch. 1 para. 13(4A) inserted (1.4.2019) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/3), [10(5)(d)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/5/d)
+
+[^c15350691]: Marginal citation: [S.I. 1989/364](https://www.legislation.gov.uk/uksi/1989/364), amended by [S.I. 1992/411](https://www.legislation.gov.uk/uksi/1992/411), 1994/1770, 1998/251, [S.S.I. 2004/369](https://www.legislation.gov.uk/ssi/2004/369), and [S.S.I. 2006/141](https://www.legislation.gov.uk/ssi/2006/141) with effect from 1st April 2006.
+
+[^key-3ffc4c2c72e7fc1a1c093cbf9362b610]: Textual amendment: Words in sch. 1 para. 13(5) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2013/355/regulation/8/2/a)
+
+[^key-dd8245678772a15b7179d8234c6c46ed]: Textual amendment: Sch. 1 para. 13(6)(7) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/ssi/2013/355/regulation/8/2/b)
+
+[^key-7543c9f31b5a58ed40d85a202f8aa628]: Textual amendment: Words in sch. 1 para. 14(1)(b) omitted (1.4.2010) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(9)(c)(i)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/9/c/i)
+
+[^key-68ccafc2f3257e7c8609f8443d36db41]: Textual amendment: Words in sch. 1 para. 14(1)(b) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(g)(i)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/g/i)
+
+[^key-e971309c16c4f2bd626335d6dc6abbfb]: Textual amendment: Sch. 1 para. 14(1A) substituted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2013/355/regulation/8/3)
+
+[^key-ee59257d1b99d75b2126d7d9593a3ac2]: Textual amendment: Words in [sch. 1 para. 14(1A)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/14/1A) inserted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [10(6)(a)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/6/a)
+
+[^key-75f1d81b01b800b3e1d992431f057de2]: Textual amendment: Word in [sch. 1 para. 14(1A)(a)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/14/1A/a) omitted (1.10.2018) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [10(6)(b)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/6/b)
+
+[^key-50dc705700fb694678bb24ac6532c6c0]: Textual amendment: [Sch. 1 para. 14(1A)(aa)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/14/1A/aa) inserted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [10(6)(c)](https://www.legislation.gov.uk/ssi/2018/212/regulation/10/6/c)
+
+[^key-f7a3dd938381e447488039de9db3b1eb]: Textual amendment: Sch. 1 para. 14(2) omitted (1.4.2010) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(9)(c)(iii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/9/c/iii)
+
+[^key-6ba98d1c4664aa2a450dc0a130bd9bfa]: Textual amendment: Sch. 1 para. 14(4)(i) substituted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(9)(aa)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/9/aa)[(c)(iv)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/9/c/iv)
+
+[^key-4bd5123c6c60270fcc798bd5f7502624]: Textual amendment: Words in sch. 1 para. 14(4)(i) substituted (1.7.2022) by [The National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/169)](https://www.legislation.gov.uk/ssi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/169/regulation/1/1), [14(e)](https://www.legislation.gov.uk/ssi/2022/169/regulation/14/e)
+
+[^key-84c419553532b75265334251cc7c9420]: Textual amendment: Words in sch. 1 para. 14(4)(ii) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(9)(bb)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/9/bb)[(c)(iv)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/9/c/iv)
+
+[^key-2181f030a26e802972908d6f0a273405]: Textual amendment: [Sch. 1 para. 14(4A)-(4C)](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/14/4A) inserted (1.1.2026) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/337)](https://www.legislation.gov.uk/ssi/2025/337), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/337/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2025/337/regulation/3)
+
+[^key-7007366b5287c83a7403789f14035e50]: Textual amendment: Sch. 1 para. 14(5) omitted (1.4.2010) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(9)(c)(v)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/9/c/v)
+
+[^key-302a9f8d248cb90988f28ed8c824ef62]: Textual amendment: Word in sch. 1 para. 14(6) substituted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(g)(ii)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/g/ii)
+
+[^key-7dd31c2c0355fe213fcafbbfccca6d82]: Textual amendment: [Sch. 1 para. 14A](https://www.legislation.gov.uk/ssi/2006/135/schedule/1/paragraph/14A) inserted (1.1.2026) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/337)](https://www.legislation.gov.uk/ssi/2025/337), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/337/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2025/337/regulation/4)
+
+[^key-ff0d150556fda4e9fd1574a5dad93b5b]: Textual amendment: Words in sch. 1 para. 15 inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(15)(h)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/15/h)
+
+[^key-8b96a538cc43f68488d447179ecc3e90]: Textual amendment: [Sch. 2 Pt. A](https://www.legislation.gov.uk/ssi/2006/135/schedule/2/part/A) heading substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(6)(b)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/6/b); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-3f81a36d9cfc0e14204d38c19220432f]: Textual amendment: Words in sch. 2 Pt. A para. 1(a) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(10)(a)(i)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/10/a/i)
+
+[^key-a514ea0b3d2c49543d2e044ecd4d749a]: Textual amendment: Words in sch. 2 Pt. A para. 1(b) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(10)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/10/a/ii)
+
+[^key-1e086b3c366279aca62c72faae8d5528]: Textual amendment: Word in sch. 2 Pt. A para. 1(e) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(16)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/16/a)
+
+[^key-bc0fc561648930b301734d6c4c2323a6]: Textual amendment: Word in sch. 2 Pt. A para. 1(f) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(16)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/16/a)
+
+[^key-c39652b70a73b8186d70786913ce1dbd]: Textual amendment: Word in sch. 2 Pt. A para. 1(g) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(16)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/16/a)
+
+[^key-1d91176bd5f338c51c044279ac345513]: Textual amendment: Word in sch. 2 Pt. A para. 1(h) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(16)(a)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/16/a)
+
+[^key-1e25fc04669d75ad403f0e7ea4bc9cb1]: Textual amendment: Words in sch. 2 Pt. A para. 1(h) substituted (3.2.2014) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2013/355/regulation/9/a)
+
+[^key-e6f1dbf3f564bcbafa6ef1fc5adc1ee6]: Textual amendment: Words in sch. 2 Pt. A para. 1(j) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(10)(a)(iii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/10/a/iii)
+
+[^key-8a4650106d5302ddc69a7b390d0a1798]: Textual amendment: Words in sch. 2 Pt. A para. 1(k) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(10)(a)(iv)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/10/a/iv)
+
+[^key-b5fb980efad86a982de4cc3e93d22a7a]: Textual amendment: Words in sch. 2 Pt. A para. 1(l) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(10)(a)(v)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/10/a/v)
+
+[^key-542c1a7d3f517e25a655a6d1d03668e5]: Textual amendment: Words in sch. 2 Pt. A para. 1(m) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(10)(a)(vi)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/10/a/vi)
+
+[^key-3669f29e2d9ed4497b8fb28f7bae6510]: Textual amendment: Words in sch. 2 Pt. A para. 1(n) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(10)(a)(vii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/10/a/vii)
+
+[^key-fa799eaa681f0a36e9e870449ce0f26c]: Textual amendment: Words in sch. 2 Pt. A para. 1(o) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(10)(a)(viii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/10/a/viii)
+
+[^key-c6e45819547d98d0b975b7ed87f2043e]: Textual amendment: Words in sch. 2 Pt. A para. 1(o) omitted (1.4.2007) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(16)(b)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/16/b)
+
+[^c15350701]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^c15350711]: Marginal citation: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46) as amended by the [Insolvency Act 2000 (2000 c. 39)](https://www.legislation.gov.uk/ukpga/2000/39).
+
+[^c15350721]: Marginal citation: [S.I. 1986/1032](https://www.legislation.gov.uk/uksi/1986/1032) (N.1.6).
+
+[^c15350731]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
+
+[^c15350741]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
+
+[^c15350751]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5);. section 115A was inserted by section 15 of the [Social Security Administration (Fraud) Act 1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47).
+
+[^key-f3490d6db6fa17bb7676bcae8d78d5e4]: Textual amendment: Sch. 2 Pt. A para. 3(a)(aa) substituted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/8/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-ee8a7a00b31b1949b74faa462c2c4017]: Textual amendment: Words in sch. 2 Pt. A para. 3(a)(i) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(6)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/6/a/i/aa); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-0c81eca762c92dc6f862c8959cca430b]: Textual amendment: Sch. 2 Pt. A para. 3(a)(ii) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(6)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/6/a/i/bb); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-3c06128bb5875930f8b934d69e639468]: Textual amendment: Words in [sch. 2 Pt. A para. 3(aa)](https://www.legislation.gov.uk/ssi/2006/135/schedule/2/part/A/paragraph/3/aa) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(6)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/6/a/ii/aa); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-c18d16f6bd19fa74fb6804ebc953c833]: Textual amendment: Words in sch. 2 Pt. A para. 3(aa) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/6/a/ii/bb); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-7576d71eda3a08ae63c1c7fc25a2779e]: Textual amendment: Words in sch. 2 Pt. A para. 3(b) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/16/c)
+
+[^key-507b5adbd8414b18741f584d93f8d6f9]: Textual amendment: Words in [sch. 2 Pt. A para. 3(b)](https://www.legislation.gov.uk/ssi/2006/135/schedule/2/part/A/paragraph/3/b) substituted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 9(c)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/9/c) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-37e7c437fea72b21139c3b6c21e3234a]: Textual amendment: Words in sch. 2 Pt. A para. 3(b) substituted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2018/212/regulation/11)
+
+[^key-03d241e64577a600e805285017a84089]: Textual amendment: Words in sch. 2 Pt. A para. 4(d) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(10)(c)(i)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/10/c/i)
+
+[^key-a68e7d57460b42909c6fe75404deace8]: Textual amendment: Words in sch. 2 Pt. A para. 4(d) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(10)(c)(ii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/10/c/ii)
+
+[^key-8a92e7dbd1ff5af364dfdb57f0e91467]: Textual amendment: Word in sch. 2 Pt. A para. 4(e) omitted (28.2.2011) by virtue of [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(8)(c)(i)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/8/c/i) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-9b7c037b8d6694dca446f05eac3c54a2]: Textual amendment: [Sch. 2 Pt. A para. 4(f)](https://www.legislation.gov.uk/ssi/2006/135/schedule/2/paragraph/4/f) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2013/355/regulation/9/b)
+
+[^key-6d05f6bf063efff25f9ec7b4f045d0ac]: Textual amendment: Sch. 2 Pt. A para. 4(g) and word inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(8)(c)(ii)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/8/c/ii) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-e4bb4e82fd3042733535ba62e27a4ccb]: Textual amendment: [Sch. 2 Pt. B](https://www.legislation.gov.uk/ssi/2006/135/schedule/2/part/B) heading substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(6)(d)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/6/d); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-60a398bf700e0b67e4de3ab4bfb0d8b5]: Textual amendment: Words in sch. 2 Pt. B para. 1(a) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(11)(a)(i)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/11/a/i)
+
+[^key-0e695a1452eec69f49cb305ae8f41845]: Textual amendment: Words in sch. 2 Pt. B para. 1(b) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/11/a/ii)
+
+[^key-647337f5b9909bdd23ecc5549b853a0c]: Textual amendment: Words in sch. 2 Pt. B para. 1(e) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(11)(a)(iii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/11/a/iii)
+
+[^key-375c591cd92ec44fd26e67ee37a2df3b]: Textual amendment: Words in sch. 2 Pt. B para. 1(f) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(11)(a)(iv)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/11/a/iv)
+
+[^key-c72d9f00403824d01f39bff325b235e3]: Textual amendment: Words in sch. 2 Pt. B para. 1(g) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(11)(a)(v)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/11/a/v)
+
+[^key-b2f55fa0959dc58324413888856c8fb9]: Textual amendment: Words in sch. 2 Pt. B para. 1(h) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(11)(a)(vi)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/11/a/vi)
+
+[^key-65768b9b718c0ecc71fa0089f86fdd79]: Textual amendment: Words in sch. 2 Pt. B para. 1(i) omitted (28.2.2011) by virtue of [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(9)(b)(i)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/9/b/i) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-491051da8fba1ad225f8335a03bd9c5e]: Textual amendment: Words in sch. 2 Pt. B para. 1(i) substituted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(11)(a)(vii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/11/a/vii)
+
+[^key-0f5687c2d50dd6e4c37c4d64b2b391ec]: Textual amendment: Words in sch. 2 Pt. B para. 1(j) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/9/b/ii) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-d0b70665b940f2f55fc747c8978670ee]: Textual amendment: Words in sch. 2 Pt. B para. 1(j) omitted (1.4.2007) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(16)(b)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/16/b)
+
+[^key-8de6688760dd723efbde235592f1f073]: Textual amendment: Sch. 2 Pt. B para. 3(a)(aa) substituted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(9)(c)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/9/c) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-c34641bb786699e4ad7547227a40e089]: Textual amendment: Words in sch. 2 Pt. B para. 3(a)(i) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(6)(c)(i)(aa)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/6/c/i/aa); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-2ea19a1715d2c2214bb7677e543e46cf]: Textual amendment: Sch. 2 Pt. B para. 3(a)(ii) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(6)(c)(i)(bb)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/6/c/i/bb); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-7ffc97b6d5d3346d3f0039e592460bca]: Textual amendment: Words in sch. 2 Pt. B para. 3(aa) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(6)(c)(ii)(aa)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/6/c/ii/aa); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-c9528681cbef9c109bb58a6ec0fbc288]: Textual amendment: Words in sch. 2 Pt. B para. 3(aa) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 11(6)(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/11/6/c/ii/bb); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+
+[^key-a6f9a73da0c239003314aedc9f960802]: Textual amendment: Words in sch. 2 Pt. B para. 3(b) inserted (1.4.2007) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2007 (S.S.I. 2007/193)](https://www.legislation.gov.uk/ssi/2007/193), [regs. 1](https://www.legislation.gov.uk/ssi/2007/193/regulation/1), [2(16)(c)](https://www.legislation.gov.uk/ssi/2007/193/regulation/2/16/c)
+
+[^key-3d159de3140d2090ed392bf97e478b5f]: Textual amendment: Words in [sch. 2 Pt. B para. 3(b)](https://www.legislation.gov.uk/ssi/2006/135/schedule/2/part/B/paragraph/3/b) substituted (1.4.2026) by [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 9(c)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/9/c) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+
+[^key-b803db562e8fbdf730ec7999be81a58a]: Textual amendment: Words in sch. 2 Pt. B para. 3(b) substituted (1.10.2018) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2018/212/regulation/12)
+
+[^key-4920151b9d3f145e82ee4dedeb687524]: Textual amendment: Words in sch. 2 Pt. B para. 4(d) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(11)(b)(i)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/11/b/i)
+
+[^key-9230e07fac04c41ebf29c530bc2007bb]: Textual amendment: Words in sch. 2 Pt. B para. 4(d) inserted (1.4.2010) by [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/86)](https://www.legislation.gov.uk/ssi/2010/86), [regs. 1](https://www.legislation.gov.uk/ssi/2010/86/regulation/1), [3(11)(b)(ii)](https://www.legislation.gov.uk/ssi/2010/86/regulation/3/11/b/ii)
+
+[^key-dc60cee1cc64e146deef9c7b4a10a417]: Textual amendment: Word in sch. 2 Pt. B para. 4(e) omitted (28.2.2011) by virtue of [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(9)(d)(i)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/9/d/i) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-4411257a3eb21353bfa7b3aa8a68a0ad]: Textual amendment: [Sch. 2 Pt. B para. 4(f)](https://www.legislation.gov.uk/ssi/2006/135/schedule/2/paragraph/4/f) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [9(c)](https://www.legislation.gov.uk/ssi/2013/355/regulation/9/c)
+
+[^key-9495d672e744f5883a6c22d5cae04162]: Textual amendment: Sch. 2 Pt. B para. 4(g) and word inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [2(9)(d)(ii)](https://www.legislation.gov.uk/ssi/2010/378/regulation/2/9/d/ii) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+
+[^key-43c8a934bfb64c17f7e76214e81f1b25]: Textual amendment: [Sch. 2 Pt. C para. 2(b)](https://www.legislation.gov.uk/ssi/2006/135/schedule/2/paragraph/2/b) omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [9(d)](https://www.legislation.gov.uk/ssi/2013/355/regulation/9/d)
+
+[^key-e5bba7f1b0d5ca088a1b9eda8cd9aec2]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2006/135/schedule/3) omitted (1.10.2018) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/212)](https://www.legislation.gov.uk/ssi/2018/212), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/212/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2018/212/regulation/13)
+
+[^key-3620a0ee6d36c6cd425e264543f9730c]: Textual amendment: Schs. 4, 5 omitted (3.2.2014) by virtue of [The National Health Service (General Ophthalmic Services) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/355)](https://www.legislation.gov.uk/ssi/2013/355), [regs. 1](https://www.legislation.gov.uk/ssi/2013/355/regulation/1), [11](https://www.legislation.gov.uk/ssi/2013/355/regulation/11)

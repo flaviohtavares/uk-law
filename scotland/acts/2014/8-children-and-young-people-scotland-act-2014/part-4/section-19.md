@@ -1,0 +1,29 @@
+---
+title: Children and Young People (Scotland) Act 2014, section 19
+act: Children and Young People (Scotland) Act 2014
+section: '19'
+status: repealed
+text_date: '2026-09-30'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2014/8/section/19
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Children and Young People (Scotland) Act 2014, section 19
+
+> This provision is no longer in force.
+>
+> Extent: Scotland.
+
+## 19. Named person service[^key-60fd33fc3e644a5ac25185cc9c4fbc5d]
+
+*Extent: S*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Annotations
+
+[^key-60fd33fc3e644a5ac25185cc9c4fbc5d]: Textual amendment: Pt. 4 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 32(a)](https://www.legislation.gov.uk/asp/2024/5/section/32/a), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/c)

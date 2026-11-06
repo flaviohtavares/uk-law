@@ -1,0 +1,1978 @@
+---
+title: The Firefighters’ Pensions (Remediable Service) (Scotland) Regulations 2023
+id: ssi/2023/242
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2023-08-30'
+text_date: '2025-10-03'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2023/242
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2023/242/pdfs/ssipn_20230242_en_001.pdf
+- http://www.legislation.gov.uk/ssi/2023/242/pdfs/ssi_20230242_en.pdf
+- http://www.legislation.gov.uk/ssi/2023/242/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Firefighters’ Pensions (Remediable Service) (Scotland) Regulations 2023
+
+> Text as at 2025-10-03.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2023 No. 242
+
+Public Service Pensions
+
+The Firefighters’ Pensions (Remediable Service) (Scotland) Regulations 2023
+
+Made
+
+at 11.28 a.m. on 30th August 2023
+
+Laid before the Scottish Parliament
+
+at 4.30 p.m. on 30th August 2023
+
+Coming into force
+
+1st October 2023
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 1(1) and (2)(f), 2(1) (together with paragraph 6(a) of schedule 2) and 3(1) and (2)(a) (together with paragraph 13 of schedule 3) and (c) and (3) of the Public Service Pensions Act 2013[^f00001] (“**the 2013 Act**”) and sections 5(1) and (5), 6(1), 7(3), 8(1) and (3), 10(1), 11(1) and (5), 12(1) and (3), 18(1) to (3), (5), (6) and (8), 19(1), (4) and (5), 20(1), (4) and (5), 21, 22(1), (2) and (6), 24(1), 25(1) and (4), 26(1) and (2), 29(1), (7) and (8) and 31(2) and (3) of the Public Service Pensions and Judicial Offices Act 2022[^f00002] (“PSPJOA 2022”).
+
+To the extent required by section 27 of PSPJOA 2022, these Regulations are made in accordance with Treasury Directions made under that section.
+
+In accordance with section 21(1) of the 2013 Act, the Scottish Ministers consulted the representatives of such persons as appeared to them likely to be affected by these Regulations.
+
+## PART 1 — Introductory Provisions
+
+### 1. Citation and commencement[^key-a828bb7eaa9bd0c81c9afc46c745cb50]
+
+These Regulations—
+
+- (a) may be cited as the Firefighters’ Pensions (Remediable Service) (Scotland) Regulations 2023; and
+- (b) come into force on 1 October 2023.
+
+### 2. Interpretation[^key-28fb94ffa65f8783b69d5dbb8855a842]
+
+(1) In these Regulations—
+
+- “**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
+- “**the 1992 Order**” means the Firemen’s Pension Scheme Order 1992[^f00003] and the scheme created by the 1992 Order is “the 1992 scheme”;
+- “**the 2007 Order**” means the Firefighters’ Pension Scheme (Scotland) Order 2007[^f00004] and the scheme created by the 2007 Order is “the 2007 scheme”;
+- “**the 2015 Regulations**” means the Firefighters’ Pension Scheme (Scotland) Regulations 2015[^f00005];
+- “**the PSP Directions 2022**” means the Public Service Pensions (Exercise of Powers, Compensation and Information) Directions 2022[^f00006];
+- “**deferred choice decision**” has the meaning given in regulation 12(1);
+- “**deferred choice decision-maker**” means the person who may make a deferred choice decision under regulation 12(2);
+- “**deferred choice member**” means a member with remediable service as a firefighter who, immediately before 1 October 2023, was—
+  - (a) an active or deferred member in relation to that service, and
+  - (b) is not a pensioner member[^f00007] in relation to that service;
+- “**eligible child**” means, in relation to—
+  - (a) the 1992 scheme, the meaning given in Part D of schedule 2 of the 1992 Order[^key-6a5b56877c8a76866ee706e5764d6509];
+  - (b) the 2007 scheme, the meaning given in schedule 1 of the 2007 Order;
+  - (c) the reformed scheme[^key-a74260f41019939c84a175fcff7ca742] , the meaning given in regulation 85 of the 2015 Regulations[^key-ea85a843878ef034f5e08a2562aad6e2];
+- “**end of the section 10 election period**”, in relation to a deferred choice member, means the time determined in accordance with—
+  - (a) where the member is the deferred choice decision-maker, regulation 13(3)(b);
+  - (b) where a person other than the member is the deferred choice decision-maker, regulation 14(2)(b);
+- “**firefighters’ pension scheme**” means the 1992 scheme, the 2007 scheme or the reformed scheme;
+- “**immediate choice decision**” has the meaning given in regulation 8(1);
+- “**immediate choice decision-maker**” means the person who may make an immediate choice decision under regulation 8(2);
+- “**immediate choice member**” means a member with remediable[^key-910a2bf1d8e4e0f960e456f77887a081] service as a firefighter who, immediately before 1 October 2023, was—
+  - (a) a pensioner member in relation to that service, or
+  - (b) a deceased member;
+- “**the legacy scheme**”, in relation to a member, means whichever of the 1992 scheme or the 2007 scheme is the relevant Chapter 1 legacy scheme[^f00008] for the member, and “**legacy scheme benefits**” means benefits calculated in accordance with that scheme;
+- “**member**” means an active, deferred, deceased or pensioner member of a firefighters’ pension scheme;
+- “**opted-out[^key-e76306ef9baf048f5d89d848259d2e18] service election**” has the meaning given in regulation 6(1);
+- “**the reformed scheme**” means the pension scheme established by the 2015 Regulations, and “**reformed scheme benefits**” means the new scheme[^f00009] benefits under the reformed scheme;
+- “**remediable service as a firefighter**” means, in relation to a member, the member’s remediable service[^f00010] in an employment or office that is pensionable service under a firefighters’ pension scheme;
+- “**remedy member**” means a deferred choice member or an immediate choice member;
+- “**section 6 election**” has the meaning given in regulation 8(1)(a);
+- “**section 10 election**” has the meaning given in regulation 12(1)(a).
+
+(2) For the purposes of these Regulations, a reference in PSPJOA 2022 to section 2(1) of that Act coming into force is to be understood as a reference to that section coming into force in relation to members of a firefighters’ pension scheme.
+
+(3) A term used in these Regulations which—
+
+- (a) is defined in, or for the purposes of, a provision in Chapter 1 of Part 1 of PSPJOA 2022, and
+- (b) is not defined differently in these Regulations,
+
+has the meaning given in, or for the purposes of, that provision.
+
+(4) A term used in these Regulations which—
+
+- (a) is defined in the 1992 Order, the 2007 Order or the 2015 Regulations (“**the relevant Regulations**”), and
+- (b) is not defined differently—
+  - (i) in these Regulations, or
+  - (ii) in, or for the purposes of, a provision in Chapter 1 of Part 1 to PSPJOA 2022,
+
+has, in relation to the scheme established by the relevant Regulations, the meaning given in those Regulations.
+
+(5) In these Regulations, a reference to a provision of the PSP Directions 2022 is a reference to that provision as amended from time to time.
+
+### 3. Delegation[^key-9a5512822d9fd0225ba88a946493e3e7]
+
+The scheme manager may delegate any functions of the scheme manager under these Regulations, including this power to delegate.
+
+## PART 2 — Remediable service statements
+
+### 4. Requirements relating to remediable service statements[^key-914f2526dbb2f678da847f5fbd176da3]
+
+(1) The scheme manager must provide a remediable service statement in respect of a remedy member (“**M**”) in accordance with—
+
+- (a) section 29 of PSPJOA 2022,
+- (b) any Treasury directions made under section 29(6) of that Act, and
+- (c) this regulation.
+
+(2) A remediable service statement must be provided in respect of M—
+
+- (a) on or before the relevant date[^f00011],
+- (b) where M is, in relation to their remediable service as a firefighter, for the time being—
+  - (i) an active member, at least once in each year ending with the anniversary of the relevant date;
+  - (ii) a deferred member, within three months of receipt of a written request by the member[^f00012], and
+- (c) where M is a deferred choice member, as soon as is reasonably practicable following receipt of notification—
+  - (i) under regulation 13(2) that M intends to claim benefits in relation to M’s remediable service as a firefighter, or
+  - (ii) that M has died.
+
+(3) The remediable service statement must be provided—
+
+- (a) to M, or
+- (b) where—
+  - (i) M is deceased, and
+  - (ii) the eligible decision maker is a person other than the scheme manager,
+
+to the person who is for the time being the eligible decision-maker in relation to M’s remediable service as a firefighter under the schedule.
+
+(4) The remediable service statement must include—
+
+- (a) where the scheme manager has determined that any information to be provided in connection with M’s remediable service as a firefighter must be communicated in a particular form and manner, information about that form and manner;
+- (b) where M is an immediate choice member, information about the irrevocability of an immediate choice decision;
+- (c) where M is a deferred choice member, information about the circumstances in which a deferred choice is revocable, and the circumstances in which it is irrevocable.
+
+(5) For further provision about—
+
+- (a) what a remediable service statement must include, see—
+  - (i) section 29(5) of the PSPJOA 2022;
+  - (ii) direction 20(1) of the PSP Directions 2022;
+- (b) when a remediable service statement must be combined with a benefit information statement provided under section 14 of the Public Service Pensions Act 2013, see direction 20(2) of the PSP Directions 2022.
+
+## PART 3 — Decisions about the treatment of remediable service as a firefighter
+
+### CHAPTER 1 — Opted-out service elections
+
+#### 5. Application and interpretation of Chapter 1[^key-ea82c7204cde33acf8c343f82d1ea3f3]
+
+(1) This Chapter applies to and in respect of a member (“**M**”) with opted-out service in an employment or office in relation to M’s legacy scheme[^f00013].
+
+(2) In this Chapter—
+
+- “**opted-out service decision-maker**” means the person who may make an opted-out service election in accordance with regulation 6(2);
+- “**relevant opted-out service**” means the service referred to in paragraph (1).
+
+#### 6. Election in relation to opted-out service[^key-7aeb996221c82acac5b9ae5efffea17e]
+
+(1) An election (an “opted-out service election”) may be made in relation to M’s relevant opted-out service in accordance with this Chapter and section 5 of PSPJOA 2022.
+
+(2) An opted-out service election may be made—
+
+- (a) by M, or
+- (b) where M is deceased, by the eligible decision-maker determined in accordance with the schedule.
+
+(3) Where a person (“**P**”) other than M is the opted-out service decision-maker, an opted-out service election may only be made after the scheme manager determines an application which is—
+
+- (a) made by or on behalf of M,
+- (b) in a form and manner determined by the scheme manager,
+- (c) received by the scheme manager during the period of 12 months beginning with the day on which a remediable service statement is provided in relation to M under regulation 4(2)(a), and
+- (d) accompanied by such information—
+  - (i) which is information within P’s possession, or
+  - (ii) which P may reasonably be expected to obtain,
+
+  that the scheme manager may by written notice require the person to provide in relation to the decision which caused the service in question to become opted-out service.
+
+(4) As soon as is reasonably practicable after receipt of an application, the scheme manager must—
+
+- (a) determine whether an opted-out service election may be made in relation to M, and
+- (b) notify the person who made the application whether such an opted-out service election may be made.
+
+(5) Except where M meets the third condition in section 1(5) of PSPJOA 2022 by virtue of falling into section 1(5)(b) of that Act, the scheme manager must refuse an application where either of the following conditions are not met—
+
+- (a) the decision by virtue of which M’s service became opted-out service was communicated to the scheme manager on or after 12 March 2012;
+- (b) the decision by virtue of which M’s service became opted-out service was made pursuant to a relevant breach of a non-discrimination rule[^f00014].
+
+(6) But the scheme manager must not refuse an application where the decision by virtue of which M’s service became opted-out service was communicated to the scheme manager during the period—
+
+- (a) beginning on the day six months before M would have (but for the opt-out decision) become a member of the reformed scheme, and
+- (b) ending at the end of 28 February 2022.
+
+(7) Where the scheme manager is the opted-out service decision-maker, the scheme manager must, as soon as is reasonably practicable after determining that they are the opted-out service decision-maker, determine whether to make an opted-out service election in relation to M.
+
+(8) An opted-out service election to be made by—
+
+- (a) a person other than the scheme manager is made when the person confirms that an opted-out service election is to be made following receipt of the notification mentioned in paragraph (4)(b);
+- (b) the scheme manager is made at the time determined by the scheme manager.
+
+(9) See section 5(2) to (4) of the PSPJOA 2022 about the effect, timing and irrevocability of an opted-out service election.
+
+### CHAPTER 2 — Immediate choice decision for reformed scheme or legacy scheme benefits
+
+#### 7. Application and interpretation of Chapter 2[^key-4ee31c792eca01f8caaf186023fe4f95]
+
+(1) This Chapter applies in respect of the remediable service as a firefighter of an immediate choice member (“**M**”).
+
+(2) Where M has remediable service as a firefighter in multiple employments or offices, this Chapter applies separately in relation to the remediable service as a firefighter in each employment or office.
+
+#### 8. Immediate choice decision for reformed scheme or legacy scheme benefits[^key-b01c011f3101d993c973c941b28daa22]
+
+(1) A decision (“an immediate choice decision”) may be made in accordance with this Chapter—
+
+- (a) to make an election (“a section 6 election”) by virtue of section 6 of PSPJOA 2022 in relation to M’s remediable service as a firefighter, or
+- (b) that no section 6 election is to be made in relation to that service.
+
+(2) An immediate choice decision may be made—
+
+- (a) by M, or
+- (b) where M is deceased, by the eligible decision-maker determined in accordance with the schedule.
+
+(3) An immediate choice decision made by—
+
+- (a) a person other than the scheme manager is made when it is received by the scheme manager in a form and manner determined by the scheme manager;
+- (b) the scheme manager is made at the time determined by the scheme manager.
+
+(4) An immediate choice decision may only be made before the end of the section 6 election period[^f00015].
+
+(5) An immediate choice decision is irrevocable.
+
+(6) An immediate choice decision to make a section 6 election takes effect as a section 6 election (see sections 6(5) and (7), 7(1)(b) and 9 of PSPJOA 2022 about the effect of a section 6 election).
+
+(7) Where—
+
+- (a) immediately before 1 October 2023, M has remediable service as a firefighter in the reformed scheme (“reformed scheme service”), and
+- (b) an immediate choice decision is made that no section 6 election is to be made in relation to M’s remediable service as a firefighter,
+
+section 6(4) of PSPJOA 2022 does not apply in relation to M’s reformed scheme service (and, accordingly, section 2(1) of PSPJOA 2022 has effect in relation to M’s reformed scheme service for the purposes mentioned in section 2(3)(b) of that Act from the time the immediate choice decision is made).
+
+(8) The following provisions of PSPJOA 2022 have effect in relation to an immediate choice decision that no section 6 election is to be made as they have effect in relation to a section 6 election—
+
+- (a) section 6(7) (section 6 election has effect in respect of all remediable service in the employment or office);
+- (b) section 7(1)(b) (provision about when a section 6 election is to be treated as having taken effect);
+- (c) section 9 (provision about persons with remediable service in more than one Chapter 1 legacy scheme).
+
+#### 9. Immediate choice decision: additional requirements[^key-574058a92a53d1c8e313a4253d52d8c3]
+
+(1) This regulation applies where the immediate choice decision-maker (“**D**”) is a person other than the scheme manager.
+
+(2) An immediate choice decision may not be made unless a remediable service statement has been provided in accordance with regulation 4(2)(a).
+
+(3) An immediate choice decision is to be treated as having been made only if D provides any information specified in a written request from the scheme manager that is—
+
+- (a) information in D’s possession, or
+- (b) information which D can reasonably be expected to obtain.
+
+#### 10. Immediate choice decision: deemed section 6 election[^key-6c933378ee2731feb916e15f8da0e875]
+
+Where—
+
+- (a) the end of the section 6 election period in relation to M has passed,
+- (b) no immediate choice decision has been communicated to the scheme manager, and
+- (c) it appears to the scheme manager, having consulted the scheme actuary, that the value of reformed scheme benefits payable if a section 6 election[^key-863455e5bdfaf551226b3bec63487bdc] is made is greater than the value of legacy scheme benefits payable if a section 6 election is not made,
+
+a section 6 election is treated as having been made immediately before the end of the section 6 election period.
+
+### CHAPTER 3 — Deferred choice decision for reformed scheme or legacy scheme benefits
+
+#### 11. Application and interpretation of Chapter 3[^key-a5e0e5e2191bba976ded9dc4f113e8fc]
+
+(1) This Chapter applies in respect of the remediable service as a firefighter of a deferred choice member (“**M**”).
+
+(2) Where M has remediable service as a firefighter in multiple employments or offices, this Chapter applies separately in relation to the remediable service as a firefighter in each employment or office.
+
+#### 12. Deferred choice decision for reformed scheme or legacy scheme benefits: general[^key-c898e1bd0c8695b18cb98750f1f169ed]
+
+(1) A decision (a “deferred choice decision”) may be made—
+
+- (a) to make an election (“a section 10 election”) by virtue of section 10 of PSPJOA 2022 in relation to M’s remediable service as a firefighter, or
+- (b) that no section 10 election is to be made in relation to that service.
+
+(2) A deferred choice decision may be made—
+
+- (a) by M, or
+- (b) where M is deceased, by the eligible decision-maker determined in accordance with the schedule.
+
+(3) A deferred choice decision made by—
+
+- (a) a person other than the scheme manager is made when it is received by the scheme manager in a form and manner determined by the scheme manager;
+- (b) the scheme manager is made at a time determined by the scheme manager.
+
+(4) A deferred choice decision may only be made before the end of the section 10 election period.
+
+(5) A deferred choice decision to make a section 10 election takes effect as a section 10 election (see sections 10(4) and (5), 11(3)(b), (4) and (7) and 13 of PSPJOA 2022 about the effect of a section 10 election).
+
+(6) Where the deferred choice decision is that no section 10 election is to be made, the benefits payable to or in respect of M, so far as they are determined by reference to M’s remediable service as a firefighter, are legacy scheme benefits.
+
+(7) The following provisions of PSPJOA 2022 have effect in relation to a decision that no section 10 election is to be made as they have effect in relation to a section 10 election—
+
+- (a) section 10(5) (section 10 election has effect in respect of all remediable service in the employment or office);
+- (b) section 11(3)(b), (4) and (7) (provision about when a section 10 election takes effect, and the effect of lapse or revocation of a section 10 election);
+- (c) section 13 (persons with remediable service in more than one Chapter 1 legacy scheme).
+
+(8) No benefits are payable under the legacy scheme in respect of M’s pensionable service under that scheme unless—
+
+- (a) a deferred choice decision is made in relation to M’s remediable service,
+- (b) a section 10 election is deemed to have been made under regulation 16[^key-132f50e251f392d9220b49fa0d9ee506] in relation to that service, or
+- (c) M has notified the scheme manager that they intend to claim benefits under a firefighters’ pension scheme in respect of their remediable service as a firefighter and it was not reasonably practicable for the scheme manager to provide a remediable service statement in respect of M in accordance with regulation 4(2)(c)(i) before the date on which such benefits become payable, or
+- (d) M is deceased.
+
+(9) Where M is a person described in paragraph (8)(c) or (d), the scheme manager may, before a deferred choice decision is made or a section 10 election is deemed to have been made in relation to M’s remediable service as a firefighter, pay to any person (“**the beneficiary**”) who is, or is to be, entitled to receive death benefits in relation to M’s pensionable service such benefits (whether by way of lump sum or otherwise) to which the beneficiary would be entitled if no section 10 election is made, or deemed to be made, in relation to M’s remediable service as a firefighter.
+
+(10) The scheme manager may not pay benefits under paragraph (9) which are determined by reference to any voluntary contribution[^f00016] paid by M pursuant to an arrangement which commenced during the period of M’s remediable service as a firefighter.
+
+(11) Where, at the operative time—
+
+- (a) the aggregate of the lump sum or pension benefits that have been paid pursuant to paragraph (9) to a beneficiary, exceeds
+- (b) the aggregate of the lump sum or pension benefits to which (after taking into account the effect, if any, of paragraph (6) of this regulation or section 10(4) of PSPJOA 2022) the beneficiary is entitled under a firefighters’ pension scheme in respect of M’s pensionable service,
+
+the beneficiary must pay an amount equal to the difference to the scheme manager[^key-989b5eead14002b075d140a45dd1ca84].
+
+(12) Where, at the operative time—
+
+- (a) the amount mentioned in paragraph (11)(a), is less than
+- (b) the amount mentioned in paragraph (11)(b),
+
+the scheme manager must pay an amount equal to the difference to the beneficiary.
+
+(13) In this regulation, “**the operative time**” means—
+
+- (a) if—
+  - (i) a deferred choice decision is made, or
+  - (ii) a section 10 election is deemed to have been made,
+
+in relation to M’s remediable service as a firefighter, the time the decision or election is made;
+
+- (b) otherwise, the end of the section 10 election period in relation to M.
+
+#### 13. Deferred choice decision to be made by M[^key-35e687a8c14f74ee7aafee5c986577e2]
+
+(1) This regulation applies where M is the deferred choice decision-maker.
+
+(2) M must notify the scheme manager in a form and manner determined by the scheme manager that M intends to claim benefits in relation to M’s remediable service as a firefighter—
+
+- (a) during the period between 12 and 6 months before the date M intends such benefits to become payable, or
+- (b) during such other period that the scheme manager considers reasonable in all the circumstances.
+
+(3) A deferred choice decision may only be made during the period—
+
+- (a) beginning on the date a remediable service statement is issued under regulation 4(2)(c)(i), and
+- (b) ending—
+  - (i) at the end of the day 12 weeks after that date;
+  - (ii) subject to paragraph (5), at the end of such other day as the scheme manager considers reasonable in all the circumstances;
+  - (iii) if earlier than the time which applies by virtue of paragraph (i) or (ii), at the end of the day before benefits become payable in relation to M’s remediable service as a firefighter.
+
+(4) The end of the period during which a deferred choice decision[^key-d39bb0d52119c0849c91f74602dae0d9] may be made must not be more than one year before the day on which it is reasonably expected that, if a section 10 election were made, reformed scheme benefits would become payable to or in respect of M.
+
+(5) A deferred choice decision made by M may be revoked—
+
+- (a) up to 10 working days before benefits become payable in relation to M’s remediable service as a firefighter, and
+- (b) by M communicating to the scheme manager notice of the revocation in a form and manner determined by the scheme manager.
+
+(6) Where the scheme manager receives notice that M has died before any benefits have become payable in relation to M’s remediable service as a firefighter—
+
+- (a) any deferred choice decision made by M lapses, and
+- (b) any period that has begun (whether or not it has also ended) in accordance with paragraph (3) is to be treated as never having begun (or ended).
+
+#### 14. Deferred choice decision to be made by a person other than M[^key-fc50ee89d39791bcdfd1c9aa4f55c99a]
+
+(1) This regulation applies where a person other than M is the deferred choice decision-maker.
+
+(2) A deferred choice decision may only be made during the period—
+
+- (a) beginning, where the deferred choice decision-maker is—
+  - (i) a person other than the scheme manager, on the date a remediable[^key-95ea811f53bc4b39e4eb9e36bac52852] service statement is issued under regulation 4(2)(c)(ii);
+  - (ii) the scheme manager, on the date the scheme manager receives notice that M has died, and
+- (b) ending—
+  - (i) at the end of the day 12 weeks after that date;
+  - (ii) except where the scheme manager is the deferred choice decision-maker, at such other time as the scheme manager considers reasonable in all the circumstances;
+  - (iii) if earlier than the time which applies under paragraph (i) or (ii), immediately after a deferred choice decision is made.
+
+(3) A deferred choice decision made by a person other than M is irrevocable.
+
+#### 15. Deferred choice decision: additional requirements[^key-de386cc0c22bb2f09b22e9d38f33d228]
+
+Where the deferred choice decision-maker (“**D**”) is a person other than the scheme manager, a deferred choice decision is to be treated as having been made only if D provides any information specified in a written request from the scheme manager that is—
+
+- (a) information in D’s possession, or
+- (b) information which D can reasonably be expected to obtain.
+
+#### 16. Deferred choice election: deemed election[^key-9b1d00b598b8d57aa7d113b9c9dd5fa5]
+
+Where—
+
+- (a) the end of the section 10 election period in relation to M has passed,
+- (b) no deferred choice [^key-693a16e79307d08172299aef09dd23f6]... decision has been made, and
+- (c) it appears to the scheme manager, having consulted the scheme actuary, that the value of reformed scheme benefits payable if a deferred choice election is made is greater than the value legacy scheme benefits payable if a deferred choice election is not made,
+
+a deferred choice election is treated as having been made immediately before the end of the section 10 election period.
+
+## PART 4 — Provision about divorce and dissolution arrangements
+
+### CHAPTER 1 — Pension credit and pension debit members
+
+#### SECTION 1 — Application and interpretation of Chapter 1
+
+##### 17. Application and interpretation of Chapter 1[^key-bdc2d17af202aa4907473c45e5700719]
+
+(1) This Chapter applies in relation to—
+
+- (a) a pension credit member (“**C**”),
+- (b) the corresponding pension debit member (“**D**”), and
+- (c) the pension sharing agreement or pension sharing order by virtue of which C became a pension credit member in relation to D’s remediable service as a firefighter (the “relevant pension sharing arrangement”).
+
+(2) In this Chapter—
+
+- [^key-b7d5ed2dc5fa0a515227f1892ebbd08a]...
+- “**C**” means the pension credit member mentioned in paragraph (1)(a);
+- “**cash equivalent**” means an amount calculated in accordance with regulations made under section 30 of WRPA 1999[^f00017];
+- “**corresponding pension debit member**” means the member referred to in sub-paragraph (c) of the definition of “pension credit member”;
+- “**D**” means the corresponding debit member mentioned in paragraph (1)(b);
+- “**pension credit member**” means a member of a firefighters‘ pension scheme who has rights under the scheme—
+  - (a) which are attributable (directly or indirectly) to a pension credit[^f00018];
+  - (b) which arise by virtue of a pension sharing arrangement with a transfer day on or after 1 April 2015, and
+  - (c) the value of which was determined (to any extent) by reference to the value of benefits payable in respect of the remediable service as a firefighter of another member;
+- “**pension sharing agreement**” means an agreement to which section 28 of WRPA 1999 applies in relation to a pension credit member and the corresponding pension debit member;
+- “**pension sharing order**” means the order or provision by virtue of which section 29 of WRPA 1999 applies in relation to a pension credit member and the corresponding pension debit member;
+- “**relevant pension sharing arrangement**” has the meaning given in paragraph (1)(c);
+- “**remediable relevant benefits**” means the benefits or future benefits described in section 29(4) and (5) of WRPA 1999 to which D is entitled by virtue of remediable shareable rights;
+- “**remediable shareable rights**” means D’s shareable rights secured by virtue of D’s remediable service as a firefighter during the period beginning on 1 April 2015 and ending on the earlier of—
+  - (a) the day before the transfer day[^key-f0440fc5142c2cb3ecc915df0eed9a96], or
+  - (b) the last day of D’s remediable service as a firefighter;
+- “**shareable rights**” has the meaning given in section 27(2) of WRPA 1999;
+- “**transfer day**” means the day on which the relevant pension sharing arrangement takes effect;
+- “**valuation day**” has the meaning given in section 29(7) of WRPA 1999.
+
+#### SECTION 2 — Pension sharings orders and agreements: information provided before 1 October 2023
+
+##### 18. Application and interpretation of Section 2[^key-1b975f3fba423ec041caa2bef4dc5f6a]
+
+(1) This Section applies where, before 1 October 2023, the scheme manager has provided information for the purpose of determining amounts under section 29 of WRPA 1999 in respect of a remedy member’s remediable[^key-af234a1051f448e782925b891174a6df] service as a firefighter.
+
+(2) In this Section—
+
+- “**alternative amount**” has the meaning given in regulation 19;
+- “alternative reduction amount” and “alternative reduction amounts” have the meanings given in, respectively, regulation 22(3) and (4);
+- “**alternative scheme**”, in relation to a relevant pension sharing arrangement that does not relate to mixed service, means—
+  - (a) where the initial scheme is D’s legacy scheme, the reformed scheme;
+  - (b) where the initial scheme is the reformed scheme, D’s legacy scheme;
+- “**C’s pension account**” has the meaning given in regulation 21(4);
+- “**initial amount**” means the total amount determined for the purposes of the relevant pension sharing arrangement under section 29(2) and (3) of WRPA 1999 in relation to D’s remediable shareable rights;
+- “**initial reduction amount**” means the amount by which D’s remediable relevant benefits were reduced pursuant to the relevant pension sharing arrangement;
+- “**initial scheme**”, in relation to a relevant pension sharing arrangement that does not relate to mixed service, means the firefighters’ pension scheme in respect of which an initial amount or an initial reduction amount was determined;
+- “**remediable credit adjustment**” has the meaning given in regulation 20(2).
+
+(3) For the purposes of this Section, a relevant pension sharing arrangement relates to mixed service if it specifies an appropriate amount in accordance with section 29(2) or (3) of WRPA 1999 by reference to the value of remediable relevant benefits to which D is entitled by virtue of remediable shareable rights secured in both D’s legacy scheme and the reformed scheme (and, accordingly, a relevant pension sharing arrangement does not relate to mixed service if it specifies an appropriate amount by reference to remediable shareable rights secured in only one of those schemes).
+
+##### 19. Meaning of “alternative amount”[^key-b1d8d28bee95cf8beabab3d1348c7442]
+
+(1) “**Alternative amount**” means—
+
+- (a) in relation to a relevant pension sharing arrangement that does not relate to mixed service—
+  - (i) where an initial amount was determined under section 29(2) of WRPA 1999 in relation to a percentage value to be transferred from the initial scheme, the amount that would have been determined applying the relevant percentage value under section 29(2) on the valuation day if the remediable relevant benefits had been secured in the alternative scheme;
+  - (ii) where an initial amount was determined under section 29(3) of WRPA 1999 in relation to an amount to be transferred from the initial scheme, the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all of those benefits had been secured in the alternative scheme;
+- (b) in relation to a relevant pension sharing arrangement that relates to mixed service, the greater of—
+  - (i) the legacy scheme amount, and
+  - (ii) the reformed scheme amount.
+
+(2) In paragraph (1)(b)—
+
+- “**legacy scheme amount**” means, where the initial amount was determined in relation to—
+  - (a) a percentage value to be transferred from both the legacy scheme and the reformed scheme, the amount that would have been determined applying—
+    - (i) in relation to pre-taper date remediable relevant benefits, the legacy scheme percentage value, and
+    - (ii) in relation to post-taper date remediable relevant benefits, the reformed scheme percentage value,
+
+    under section 29(2) of WRPA 1999 on the valuation day if all of the remediable relevant benefits had been secured in the legacy scheme;
+  - (b) an amount to be transferred from both the legacy scheme and the reformed scheme, the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all the remediable relevant benefits had been secured in the legacy scheme;
+- “**reformed scheme amount**” means, where the initial amount was determined under section 29(2) of WRPA[^key-7a5ea2bddbd8da4d187f3bb6de384094] 1999 in relation to—
+  - (a) a percentage value to be transferred from both the legacy scheme and the reformed scheme, the amount that would have been determined applying—
+    - (i) in relation to pre-taper date remediable relevant benefits, the legacy scheme percentage value; and
+    - (ii) in relation to post-taper date remediable relevant benefits, the reformed scheme percentage value;
+
+    under that section on the valuation day if all of the remediable relevant benefits had been secured in the reformed scheme;
+  - (b) an amount to be transferred from both the legacy scheme and the reformed scheme, the amount equal to the implied percentage of the cash equivalent of the remediable relevant benefits on the valuation day determined as if all the remediable relevant benefits had been secured in the reformed scheme.
+
+(3) In this regulation—
+
+- “**implied percentage**” in relation to the value of benefits under a firefighter pension scheme, means the percentage that an initial amount determined under section 29(3) of WRPA represented of the cash equivalent of the remediable relevant benefits under that scheme on valuation day;
+- “**legacy scheme percentage value**” means the percentage value specified in a relevant pension sharing arrangement in relation to D’s legacy scheme for the purpose of determining an amount under section 29(2) of WRPA 1999;
+- “**post-taper date remediable relevant benefits**” means remediable relevant benefits to which a corresponding pension debit member (“**D**”) is entitled by virtue of remediable shareable rights secured by virtue of D’s remediable service as a firefighter after D’s tapered protection closing date;
+- “**pre-taper date remediable relevant benefits**” means remediable relevant benefits to which D is entitled by virtue of remediable shareable rights secured by virtue of D’s remediable service as a firefighter on or before D’s tapered protection closing date;
+- “**reformed scheme percentage value**” means the percentage value specified in a relevant pension sharing arrangement in relation to the reformed scheme for the purpose of determining an amount under section 29(2) of WRPA 1999;
+- “**relevant percentage value**” means—
+  - (a) where the relevant pension sharing arrangement specifies a percentage value in relation to only the initial scheme for the purpose of determining an amount under section 29(2) of WRPA 1999, that percentage value;
+  - (b) otherwise, the percentage value that is specified in relation to the alternative scheme;
+- “**tapered protection closing date**”, in relation to D, has the meaning given in paragraph 3 of schedule 2 of[^key-44685491358958d85926757792adbfba] the 2015 Regulations.
+
+##### 20. Information provided before 1 October 2023: calculating a remediable credit adjustment[^key-5f760c2e25e9ed25aec7fd15cb57a482]
+
+(1) The scheme manager must determine the alternative amount in relation to C’s pension credit—
+
+- (a) as soon as reasonably practicable after 30 September 2023, and
+- (b) having consulted the scheme actuary.
+
+(2) Where—
+
+- (a) the alternative amount is greater than the initial amount, or
+- (b) the relevant pension sharing arrangement relates to mixed service and the alternative amount is lower than the initial amount,
+
+C’s pension account is subject to an adjustment (a “remediable credit adjustment”) equal to the difference.
+
+(3) The scheme manager must, by the end of 30 September 2024, provide C with a statement setting out—
+
+- (a) the alternative amount,
+- (b) any remediable credit adjustment, and
+- (c) where regulation 21(4)(b) applies in relation to C, an explanation of the request that may be made in accordance with regulation 21(5) and the consequences of making, or not making, such a request.
+
+##### 21. Information provided before 1 October 2023: applying a remediable credit adjustment[^key-31a194d007ce67531c07898550ec29e8]
+
+(1) This regulation applies where C’s pension credit account is subject to a remediable credit adjustment.
+
+(2) The scheme manager must adjust C’s pension account by an amount equal to the remediable credit adjustment.
+
+(3) An adjustment made under paragraph (2) has effect as if it had been made on the transfer day.
+
+(4) In paragraph (2), “**C’s pension account**” means, where C has, in relation to the relevant pension sharing arrangement—
+
+- (a) a pension credit in only one firefighter pension scheme, C’s pension credit member account under that scheme;
+- (b) a pension credit in D’s legacy scheme and the reformed scheme—
+  - (i) the pension credit member account identified by C in a request made in accordance with paragraph (5), or
+  - (ii) if no request is made in accordance with paragraph (5), C’s pension credit member account under the legacy scheme.
+
+(5) A request is made in accordance with this paragraph if—
+
+- (a) it is made in writing to the scheme manager for the purpose of paragraph (4)(b),
+- (b) it is in a form determined by the scheme manager,
+- (c) it unambiguously identifies only one of C’s pension credit member accounts, and
+- (d) it is received by the scheme manager by—
+  - (i) the end of the day 6 months after the date the statement required by regulation 20(3) was provided to C, or
+  - (ii) the end of such later day that the scheme manager considers reasonable in all the circumstances.
+
+(6) A request made in accordance with paragraph (5) is irrevocable.
+
+(7) Section 14(3) to (6) of PSPJOA 2022 applies in relation to C as it applies in relation to a member described in section 14(1) as if—
+
+- (a) a reference to a Chapter 1 legacy scheme were a reference to the firefighters’ pension scheme in which C has a pension credit;
+- (b) a reference to M’s remediable service in an employment or office were a reference to C’s pension credit;
+- (c) a reference to the effect, if any, of sections 2(1) and 6(4) were a reference to the effect, if any, of this regulation;
+- (d) the term “**operative time**” means the time at which the adjustment mentioned in paragraph (2) is made (disregarding paragraph (3)).
+
+##### 22. Information provided before 1 October 2023: recalculating D’s reduction of benefit[^key-87cb2e47a4b965e12878dacbd2f3e630]
+
+(1) This regulation applies where D’s remediable relevant benefits have been reduced by an initial reduction amount.
+
+(2) The scheme manager must determine the alternative reduction amount or, where the relevant pension sharing arrangement relates to mixed service, the alternative reduction amounts, in relation to D’s remediable relevant benefits—
+
+- (a) as soon as reasonably practicable after 30 September 2023, and
+- (b) having consulted the scheme actuary.
+
+(3) Where the relevant pension sharing arrangement does not relate to mixed service, the “alternative reduction amount” is such amount as the scheme manager considers appropriate having regard to—
+
+- (a) the cash equivalent of the remediable relevant benefits on the valuation day as if they had been secured in the alternative scheme.
+- (b) the percentage value or the amount to be transferred specified in the relevant pension sharing arrangement, and
+- (c) the provisions of sections 29 and 31 of WRPA 1999.
+
+(4) Where the relevant pension sharing arrangement relates to mixed service, the “alternative reduction amounts” are such amounts as the scheme manager considers appropriate having regard to—
+
+- (a) the cash equivalent of the remediable relevant benefits on the valuation day as if they had all been secured in—
+  - (i) the legacy scheme, and separately,
+  - (ii) the reformed scheme, and
+- (b) the matters mentioned in paragraph (3)(b) and (c).
+
+#### SECTION 3 — Information provided on or after 1 October 2023
+
+##### 23. Application and interpretation of Section 3[^key-ab37be068263b2b15fa2dd4686fa960e]
+
+(1) This Section applies where, on or after 1 October 2023, the scheme manager provides information for the purpose of determining amounts under section 29 of WRPA 1999 in respect of a remedy member’s remediable service as a firefighter.
+
+(2) In this Section—
+
+- “**alternative reduction amount**” has the meaning given in regulation 25(3);
+- “**appropriate amount**” means an amount calculated for the purposes of section 29(1) of WRPA 1999;
+- “**immediate choice pensioner member**” means an immediate choice member who is, immediately before these Regulations come into force, a pensioner member in relation to their remediable service as a firefighter;
+- “**legacy scheme cash equivalent**” has the meaning given in regulation 24(2)(a);
+- “**reformed scheme cash equivalent**” has the meaning given in regulation 24(2)(b).
+
+##### 24. Information provided on or after 1 October 2023: calculation of pension credits and debits[^key-3bc0fb5c386fa3ce57d77c48d9a6f272]
+
+(1) This regulation applies where D is—
+
+- (a) a deferred choice member and no pension benefits have become payable in relation to D’s remediable service as a firefighter, or
+- (b) an immediate choice pension member, and—
+  - (i) the end [^key-21a113e706a3f211358eaaab7a3fa3d6]... of the section 6 election period in relation to D has not passed, and
+  - (ii) no immediate choice decision has been made in relation to D’s remediable service as a firefighter.
+
+(2) For the purpose of calculating the appropriate amount, the scheme manager must determine—
+
+- (a) the cash equivalent of D’s remediable relevant benefits on the valuation day as if those remediable relevant benefits were in D’s legacy scheme (“the legacy scheme cash equivalent”), and
+- (b) the cash equivalent of those benefits on valuation day as if they were in the reformed scheme (“the reformed scheme cash equivalent”).
+
+(3) For the purpose of calculating the pension credit and the pension debit, the scheme manager must use the greater of—
+
+- (a) the legacy scheme cash equivalent, or
+- (b) the reformed scheme cash equivalent.
+
+##### 25. Information provided on or after 1st October 2023: recalculating D’s reduction of benefit[^key-c27aea6ab53bc5c3e4aaa13752495696]
+
+(1) This regulation applies where D’s remediable relevant benefits are to be reduced in relation to a pension debit calculated under regulation 24(3).
+
+(2) The scheme manager must determine the alternative reduction amount in relation to D’s remediable relevant benefits—
+
+- (a) as soon as reasonably practicable after the transfer day, and
+- (b) having consulted the scheme actuary.
+
+(3) The “alternative reduction amount” is such amount as the scheme manager considers appropriate having regard to—
+
+- (a) the cash equivalent of the remediable relevant benefits on valuation day as if they had been remediable relevant benefits secured in—
+  - (i) where the pension debit mentioned in paragraph (1) was calculated on the basis of the legacy scheme cash equivalent, the reformed scheme;
+  - (ii) where the pension debit was calculated on the basis of the reformed scheme cash equivalent, the legacy scheme;
+- (b) the percentage value or the amount to be transferred specified in the relevant pension sharing arrangement, and
+- (c) the provisions of sections 29 and 31 of WRPA 1999.
+
+### CHAPTER 2 — Arrangements on divorce, annulment or dissolution other than a pension sharing arrangement
+
+#### 26. Arrangements other than a pension sharing arrangement: calculating the value of pension benefits[^key-2d8c2b678be5b12f3f4c73796b282f05]
+
+(1) This regulation applies where—
+
+- (a) the value of the remediable rights of a member (“**M**”) must be determined for the purpose of proceedings connected to M’s divorce, annulment or the dissolution of M’s civil partnership,
+- (b) the divorce, annulment or dissolution is to take effect—
+  - (i) on or after 1 October 2023, and
+  - (ii) before the earlier of—
+    - (aa) a decision taking effect in relation to M’s remediable service as a firefighter, or
+    - (bb) the end of the relevant election period, and
+- (c) the value of M’s remediable rights is not to be subject to a pension sharing arrangement.
+
+(2) The value of M’s remediable rights for the purpose of the proceedings is the greater of those rights valued by the scheme manager, having consulted the scheme actuary, as if they were—
+
+- (a) secured in M’s legacy scheme, or
+- (b) secured in the reformed scheme.
+
+(3) In this regulation—
+
+- “**decision**” means an immediate choice decision or a deferred choice decision;
+- “**pension sharing arrangement**” means an agreement, order or provision by virtue of which section 29 of WRPA 1999 applies in relation to M’s remediable rights;
+- “**relevant election period**” means, where M is—
+  - (a) a deferred choice member, the section 10 election period in relation to M;
+  - (b) an immediate choice pensioner member, the section 6 election period in relation to M;
+- “**remediable rights**” means the rights secured by virtue of M’s remediable service as a firefighter.
+
+## PART 5 — Voluntary contributions
+
+### 27. Treatment of reformed scheme added pension payments[^key-84a38aed3fd2bca34a03caac55a0b147]
+
+(1) This regulation applies in relation to a remediable added pension payment made by a remedy member (“M”).
+
+(2) The scheme manager must, as soon as reasonably practicable after 30 September 2023 and having consulted the scheme actuary, determine the “compensatable amount”, being an amount by way of compensation which is equal to—
+
+- (a) the aggregate of all of M’s remediable added pension payments, less
+- (b) an amount in respect of the value of tax relief in accordance with directions 5(5) to (9) of the PSP Directions 2022.
+
+(3) Where a determination is made in accordance with direction 5(8) of the PSP Directions 2022, the following apply—
+
+- (a) direction 5(10) (provision of explanation);
+- (b) direction 5(11) and (12) (appeals).
+
+(4) The scheme manager owes to M or, where M is deceased, M’s personal representatives the compensatable amount.
+
+(5) The rights to benefits that would otherwise have been secured by the remediable added pension payment are extinguished.
+
+(6) Where a person has received any pension benefits under the reformed scheme by virtue of rights secured by a remediable added pension payment, that person owes to the scheme manager an amount equal to the aggregate of all such pension benefits.
+
+(7) In this regulation, “**remediable added pension payment**” means—
+
+- (a) a periodical payment for added pension made under an arrangement pursuant to Chapter 2 of Part 2 of schedule 1 of the 2015 Regulations which commenced during the period of M’s remediable service as a firefighter;
+- (b) a lump sum payment for added pension made pursuant to Chapter 3 of Part 2 of schedule 1 of the 2015 Regulations during the period of M’s remediable service as a firefighter.
+
+### 28. Treatment of legacy scheme added years payments[^key-3ce46074de7a267e10ecc06d7148d6df]
+
+(1) This regulation applies in relation to a remediable added years payment made by a remedy member (“M”).
+
+(2) The scheme manager must, as soon as reasonably practicable after 30 September 2023 and having consulted the scheme actuary, determine the “compensatable amount”, being an amount by way of compensation which is equal to—
+
+- (a) the aggregate of all of M’s remediable added years payments, less
+- (b) an amount in respect of the value of tax relief in accordance with directions 5(5) to (9) of the PSP Directions 2022.
+
+(3) Where a determination is made in accordance with direction 5(8) of the PSP Directions 2022, the following apply—
+
+- (a) direction 5(10) (provision of explanation);
+- (b) direction 5(11) and (12) (appeals).
+
+(4) Where, by virtue of a section 6 election (including a deemed section 6 election) or a section 10 election, the benefits payable in relation to M’s remediable service as a firefighter are reformed scheme benefits—
+
+- (a) the scheme manager owes M or, where M is deceased, M’s personal representatives the compensatable amount, and
+- (b) the rights to benefits that would otherwise have been secured by the remediable added years payment are extinguished.
+
+(5) In this regulation, “**remediable added years payment**” means a payment to secure increased benefits under the 1992 Order or the 2007 Order which is—
+
+- (a) a lump sum payment made during the period of M’s remediable service as a firefighter,
+- (b) a periodical contribution made pursuant to an arrangement which commenced during the period of M’s remediable service as a firefighter, or
+- (c) a lump sum payment or a periodical contribution made pursuant to a remedial arrangement under regulation 29.
+
+### 29. Remedial arrangements to pay voluntary contributions to secure legacy scheme added years[^key-0f997f582bee5110365fe4f85b236cfe]
+
+(1) This regulation applies to a remedy member (“**M**”) who—
+
+- (a) is not a deceased member, and
+- (b) was, immediately before 1 April 2022, not a full protection member of the 1992 scheme or the 2007 scheme within the meaning of paragraph 9 of schedule 2 of the 2015 Regulations.
+
+(2) M may elect to enter into an arrangement (a “remediable arrangement”) to pay voluntary contributions to M’s legacy scheme for added benefits in accordance with—
+
+- (a) where M’s legacy scheme is—
+  - (i) the 1992 scheme, the 1992 Order;
+  - (ii) the 2007 scheme, the 2007 Order, and
+- (b) this regulation.
+
+(3) M may only enter into a remediable arrangement—
+
+- (a) in respect of a period of M’s remediable service as a firefighter,
+- (b) if the scheme manager is satisfied that it is more likely than not that, but for a relevant breach of a non-discrimination rule, M would, during the period of M’s remediable service as a firefighter, have entered into the same or a similar arrangement,
+- (c) before—
+  - (i) the end of the period of one year beginning with the day on which a remediable service statement is first provided in respect of M, or
+  - (ii) such later time as the scheme manager considers reasonable in all the circumstances, and
+- (d) after an application made in accordance with paragraph (4) is approved by the scheme manager.
+
+(4) An application is made in accordance with this paragraph where—
+
+- (a) it is in writing in a form and manner determined by the scheme manager,
+- (b) it is accompanied by any information the scheme manager reasonably requires to be provided for the purposes of—
+  - (i) determining the matters mentioned in paragraph (3)(b);
+  - (ii) complying with any requirement imposed by the 1992 Order or (as the case may be) the 2007 Order in connection with making an election to pay voluntary contributions for added benefits, and
+- (c) it is received by the scheme manager—
+  - (i) before the end of the period of six months beginning with the day on which a remediable service statement is first provided in respect of M, or
+  - (ii) such later time as the scheme manager considers reasonable in all the circumstances.
+
+(5) Where M enters into a remediable arrangement, M owes to the scheme manager an amount equal to—
+
+- (a) the aggregate of the voluntary contributions which M would have owed had M entered into the remediable arrangement at the time M would have entered into the same or a similar arrangement but for a relevant breach of a non-discrimination rule, less
+- (b) tax relief amounts calculated in accordance with direction 12(2) to (7) of the PSP Directions 2022.
+
+(6) Where a determination is made in accordance with direction 12(6) of the PSP Directions 2022, the following apply—
+
+- (a) direction 12(8) (provision of explanation);
+- (b) direction 12(9) and (10) (appeals).
+
+### 30. Disapplication of restriction on lump sum payments for reformed scheme added pension[^key-89045e3bb6c526183674eac7219d3f8c]
+
+Paragraph 5(5) of schedule 1 of the 2015 Regulations does not apply in relation to an option to make a lump sum payment for added pension that was exercised by a remedy member during the period beginning on 1 April 2022 and ending at the end of 31 March 2023.
+
+## PART 6 — Transfers
+
+### CHAPTER 1 — General
+
+#### 31. Interpretation of Part 6[^key-55f6f1a961697648c920fa0cf0b47e9d]
+
+(1) In this Part—
+
+- “**public service pension scheme**” means—
+  - (a) a Chapter 1 scheme[^f00019];
+  - (b) a judicial scheme within the meaning of section 70(1) of PSPJOA 2022;
+  - (c) a local government scheme within the meaning of section 86(1) of PSPJOA 2022;
+- “**receiving scheme**”, in relation to a remediable value, means the scheme to which the remediable value was, or is to be, paid;
+- “**remediable club transfer value**”, in relation to a member, means the payment or acceptance by the scheme manager of—
+  - (a) a transfer value payment under interchange arrangements in accordance with Part F of schedule 2 of the 1992 Order;
+  - (b) a transfer value payment under the public sector transfer arrangements in accordance with Part 10 or Part 11 of schedule 1 of the 2007 Order;
+  - (c) a club transfer value payment under Part 9 of the 2015 Regulations,
+
+    so far as the transfer value relates to the member’s remediable rights;
+- “**remediable rights**”, in relation to a member, means the member’s rights to benefits under a public service pension scheme secured by virtue of the member’s remediable service;
+- “**remediable transfer value**”, in relation to a member, means the payment or acceptance by the scheme manager of a transfer value other than a remediable club transfer value under—
+  - (a) Part F of schedule 2 of the 1992 Order;
+  - (b) Part 10 or Part 11 of schedule 1 of the 2007 Order;
+  - (c) Part 9 of the 2015 Regulations,
+
+  so far as the transfer value relates to the member’s remediable rights;
+- “**remediable value**” means, except in Chapter 4, a remediable club transfer value or a remediable transfer value;
+- “**sending scheme**”, in relation to a remediable value, means the scheme which paid, or is to pay, the remediable value.
+
+(2) In this Part, the overall rights in relation to a remediable value in the legacy scheme are—
+
+- (a) where the member’s legacy scheme would have permitted the transfer in of the entire remediable value (including, where relevant, any payment accepted under regulation 34(3) or any adjustment accepted under regulation 39(2)) had the transfer taken place immediately before 1 April 2022, the rights to legacy scheme benefits that would have been secured if the remediable value had been transferred into that scheme;
+- (b) otherwise, the rights to legacy scheme benefits that would have been secured if that portion of the remediable value that the legacy scheme would have permitted to be transferred in had been transferred into that scheme, together with—
+  - (i) where the member has service in an employment or office on or after 1 April 2022 which is pensionable service under the reformed scheme (“relevant reformed scheme service”), the rights to reformed scheme benefits if the remaining portion of the remediable value had been transferred into that scheme;
+  - (ii) where the member does not have relevant reformed scheme service, the right to payment of an amount by way of compensation equal to the value of rights to reformed scheme benefits if the remaining portion of the remediable value had been transferred into that scheme.
+
+(3) Where a provision of this Part requires the scheme manager to calculate a club transfer value or a transfer value (including a remediable club transfer value or a remediable transfer value) in relation to rights secured in a firefighters’ pension scheme, that value is to be calculated in accordance with—
+
+- (a) the provisions of the firefighters’ pension scheme which apply to the calculation of values of that type, and
+- (b) the guidance and tables provided by the Government Actuary for the purpose of calculating such values that were, or are, in use on the date used for the calculation.
+
+#### 32. Transferred out remediable service statements[^key-b9884a6c73b055d565feeee2b74f7391]
+
+Where a remedy member has transferred any rights in respect of remediable service out of a firefighters’ pension scheme, the scheme manager must provide a transferred out remediable service statement in accordance with direction 6(2) to (4) of the PSP Directions 2022 (and direction 6(4) applies as if the reference to “any provision made by virtue of section 29(1) of PSPJOA 2022” were a reference to regulation 4).
+
+### CHAPTER 2 — Transfers on a cash equivalent basis
+
+#### SECTION 1 — Transfers before 1 October 2023
+
+##### 33. Transfers out before 1 October 2023[^key-bdad73171512be2453ae90b871ce2de8]
+
+(1) This regulation applies in relation to each member (“**M**”) in respect of whom the scheme manager paid a remediable transfer value before 1 October 2023.
+
+(2) The scheme manager, having consulted the scheme actuary, must calculate the transfer value of M’s remediable rights as if they were secured in—
+
+- (a) M’s legacy scheme;
+- (b) the reformed scheme.
+
+(3) The scheme manager must notify the receiving scheme of the results of the calculation mentioned in paragraph (2).
+
+(4) Where—
+
+- (a) the greater of the amounts calculated under paragraph (2) (“x”) is greater than
+- (b) the amount of the remediable transfer value (“y“),
+
+the scheme manager must take reasonable steps to pay the receiving scheme an amount (“the remediable amount”) equal to x - y.
+
+(5) A payment made under paragraph (4) is subject to the same conditions as the remediable transfer value.
+
+(6) Where—
+
+- (a) paragraph (4) applies, and
+- (b) the scheme manager, having taken reasonable steps, is unable to make the payment required by that paragraph,
+
+the scheme manager owes M or, where M is deceased, M’s personal representatives an amount by way of compensation equal to x – y (“the compensatable amount”) reduced in accordance with paragraph (7).
+
+(7) Where, if the compensatable amount was paid immediately after the requirement to pay it arose, the payment—
+
+- (a) would be a payment described in regulation 6 of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00020] (“**the 2009 Regulations**”) as if regulation 6(1) of those Regulations were omitted, the compensatable amount is to be reduced by the amount equal to the income tax that would be chargeable on it as if regulation 3(b) of the 2009 Regulations applied to it;
+- (b) would not be a payment so described, the compensatable amount is to be reduced by an amount equal to the income tax that would be charged on the amount at M’s marginal rate under the Income Tax Acts.
+
+##### 34. Transfers in before 1 October 2023[^key-81c00216b4468bb1e636abba92b312c3]
+
+(1) This regulation applies in relation to each payment of a remediable transfer value in respect of a member (“**M**”) which was accepted by the scheme manager before 1 October 2023.
+
+(2) The scheme manager must determine M’s—
+
+- (a) overall rights in relation to the remediable transfer value in the legacy scheme;
+- (b) benefits if the remediable transfer value, together with any payment accepted under paragraph (4), were applied in respect of rights in the reformed scheme.
+
+(3) Where the sending scheme was a public service pension scheme, the scheme manager may accept a payment—
+
+- (a) in respect of the remediable rights to which the remediable transfer value relates, and
+- (b) which is made by the sending scheme pursuant to, or to provision made under, PSPJOA 2022.
+
+(4) A payment accepted under paragraph (3) is to be used for the purpose of determining M’s benefits under a firefighters’ pension scheme on the same terms as the remediable transfer value.
+
+#### SECTION 2 — Transfers on or after 1 October 2023
+
+##### 35. Application of Section 2[^key-27eec13f5addb484effb5e53e3017117]
+
+This Section applies in respect of a member (“**M**”) who is—
+
+- (a) a deferred choice member, and no pension benefits have become payable in relation to M’s remediable service as a firefighter, or
+- (b) an immediate choice member, and—
+  - (i) the end of the section 6 election period has not passed in relation to M, and
+  - (ii) no immediate choice decision has been made in relation to M’s remediable service as a firefighter.
+
+##### 36. Transfers out on or after 1 October 2023[^key-e8cc74ddc099d531789c21933d05a09e]
+
+(1) This regulation applies to a remediable transfer value payment to be made in relation to M by the scheme manager on or after 1 October 2023.
+
+(2) The scheme manager, having consulted the scheme actuary, must calculate the transfer value of M’s remediable rights as if those rights had been in—
+
+- (a) M’s legacy scheme;
+- (b) the reformed scheme.
+
+(3) The amount of the remediable transfer value is the greater of the amounts calculated under paragraph (2).
+
+##### 37. Transfers in from a public service pension scheme on or after 1 October 2023[^key-a55e535d10f3a65189ef1b50326ae38c]
+
+(1) This regulation applies in relation to a remediable transfer value payment—
+
+- (a) which is accepted by the scheme manager on or after 1 October 2023; and
+- (b) where the sending scheme is a public service pension scheme.
+
+(2) The scheme manager, having consulted the scheme actuary, must determine—
+
+- (a) M’s overall rights in relation to the remediable transfer value in the legacy scheme;
+- (b) M’s benefits if the remediable transfer value were applied in respect of rights in the reformed scheme.
+
+### CHAPTER 3 — Transfers on a club basis
+
+#### SECTION 1 — Club transfers before 1 October 2023
+
+##### 38. Club transfers out before 1 October 2023[^key-d52950e612acf8d86614841990fa0dc9]
+
+(1) This regulation applies in relation to each member (“**M**”) in respect of whom a remediable club transfer value was paid by the scheme manager before 1 October 2023.
+
+(2) The scheme manager, having consulted the scheme actuary, must calculate the following amounts—
+
+- (a) the club transfer value of M’s rights under a firefighters’ pension scheme as if M’s remediable rights had been secured in M’s legacy scheme;
+- (b) the club transfer value of M’s rights under a firefighters’ pension scheme as if M’s remediable rights had been secured in the reformed scheme.
+
+(3) The scheme manager must provide to the receiving scheme the result of the calculations mentioned in paragraph (2).
+
+(4) Where the receiving scheme is a local government scheme (within the meaning of section 86(1) of PSPJOA 2022) and—
+
+- (a) the greater of the amounts calculated under paragraph (2) (“x”) is greater than
+- (b) the amount of the remediable club transfer value (“y”),
+
+the scheme manager must pay the receiving scheme an amount equal to x - y.
+
+(5) A payment made under paragraph (4) is subject to the same conditions as the remediable club transfer value.
+
+##### 39. Club transfers in before 1 October 2023[^key-3ff95f6591999087f4ffd04f6c08b5c5]
+
+(1) This regulation applies in relation to each remediable club transfer payment value in respect of a member (“**M**”) which was accepted by the scheme manager before 1 October 2023.
+
+(2) The scheme manager may accept an adjustment in the value of a remediable club transfer value—
+
+- (a) in respect of the remediable rights to which the remediable club transfer value relates, and
+- (b) which is made by the sending scheme pursuant to, or to provision made under, PSPJOA 2022.
+
+(3) An adjustment accepted under paragraph (2) is to be used for the purpose of determining M’s benefits under a firefighters’ pension scheme on the same terms as the remediable club transfer value.
+
+(4) The scheme manager must determine—
+
+- (a) M’s overall rights in relation to the remediable transfer value in the legacy scheme;
+- (b) M’s benefits if the remediable club transfer value, together with any adjustment accepted under paragraph (2), were applied in respect of rights in the reformed scheme.
+
+#### SECTION 2 — Club transfers on or after 1 October 2023
+
+##### 40. Application of Section 2[^key-36c3852c0bb352d47fdd59089c68f1be]
+
+This Section applies in respect of a member (“**M**”) who is a deferred choice member, and no pension benefits have become payable in relation to M’s remediable service as a firefighter.
+
+##### 41. Club transfers out on or after 1 October 2023[^key-39e5d533d5a4b6d6d0109a7ce82a73c7]
+
+(1) This regulation applies in relation to a remediable club transfer value payment to be made in respect of a member by the scheme manager on or after 1 October 2023.
+
+(2) The scheme manager must calculate the following amounts—
+
+- (a) the club transfer value of M’s rights under a firefighters’ pension scheme as if M’s remediable rights had been secured in M’s legacy scheme;
+- (b) the club transfer value of M’s rights under a firefighters’ pension scheme as if M’s remediable rights had been secured in the reformed scheme.
+
+(3) The amount of the remediable club transfer value is the greater of the amounts calculated under paragraph (2).
+
+(4) The scheme manager must provide to the receiving scheme the result of the calculations mentioned in paragraph (2).
+
+##### 42. Club transfers in on or after 1 October 2023[^key-ad9cbefb88258281e6b0f56a280c63eb]
+
+(1) This regulation applies in relation to a remediable club transfer value payment which is accepted by the scheme manager on or after 1 October 2023.
+
+(2) The scheme manager, having consulted the scheme actuary, must determine—
+
+- (a) M’s overall rights in relation to the remediable club transfer value in the legacy scheme;
+- (b) M’s benefits if the remediable club transfer value were applied in respect of rights in the reformed scheme.
+
+#### SECTION 3 — Variation of the club transfer application period
+
+##### 43. Variation of the club transfer application period[^key-88a6e740d97ab2da7e2b6db5386197a4]
+
+Regulation 131(3) of the 2015 Regulations applies in relation to—
+
+- (a) a remedy member who is not a full protection member within the meaning of paragraph 1 of schedule 2 of those Regulations, and
+- (b) a transfer payment request for a club transfer value payment in respect of such a member,
+
+  as if for “the day on which the member becomes an active member” there were substituted “1 October 2023”.
+
+### CHAPTER 4 — Treatment of rights secured by virtue of a remediable value
+
+#### 44. Application and interpretation of Chapter 4[^key-d31b7761927f9954b00d076f006517e7]
+
+(1) This regulation applies in relation to a remediable value.
+
+(2) In this Chapter, “**remediable value**” means the following accepted by the scheme manager in respect of a member (“**M**”)—
+
+- (a) a remediable transfer value, together with any payment accepted under regulation 34(3);
+- (b) a remediable club transfer value, together with any adjustment accepted under regulation 39(2).
+
+#### 45. Remediable value treated as being in the legacy scheme[^key-25c6aab6962f94a35c12a82392992ca1]
+
+(1) This regulation applies where—
+
+- (a) a remediable value was accepted into the reformed scheme by the scheme manager in respect of M during the period of M’s remediable service as a firefighter, and
+- (b) the benefits payable in relation to M’s remediable service as a firefighter are, by virtue of the operation of these Regulations or PSPJOA 2022, legacy scheme benefits.
+
+(2) The remediable value—
+
+- (a) is not, and is treated as never having been, accepted into the[^key-b2bf8ebf50a9515d84359eb43248e5bb] reformed scheme, and
+- (b) is treated as being, and as always having been, accepted in M’s legacy scheme.
+
+(3) Paragraph (1) has effect—
+
+- (a) for the purposes of determining which firefighters’ pension scheme is (or at any time was) required to pay benefits to or in respect of the remediable value, and
+- (b) subject to regulation 46, for all other purposes.
+
+#### 46. Treatment of rights to benefits secured by virtue of a remediable value[^key-80bee401b1f054969aed99c7bc47b739]
+
+(1) Paragraphs (2) and (4) apply where a remediable value is treated as being accepted into M’s legacy scheme by virtue of regulation 45.
+
+(2) The scheme manager must confer rights to benefits under the legacy scheme in relation to the remediable value that are equivalent to—
+
+- (a) where M’s legacy scheme would have permitted the transfer in of the entire remediable value had the transfer taken place immediately before 1 April 2022, the rights to legacy scheme benefits that would have been secured if the remediable value had been transferred into that scheme in the same relevant pension year in which the remediable value was accepted;
+- (b) otherwise—
+  - (i) where M has relevant reformed scheme service (within the meaning of regulation 31(2)(b)(i)), the rights to legacy scheme benefits that would have been secured if that portion of the remediable value that the legacy scheme would have permitted to be transferred in were transferred into that scheme in the same relevant pension year in which the remediable value was accepted, together with the rights to reformed scheme benefits if the remaining portion of the remediable value had been transferred into the reformed scheme in the same relevant pension year in which the remediable value was accepted;
+  - (ii) where M does not have relevant reformed scheme service, the rights to legacy scheme benefits that would have been secured if that portion of the remediable value that the legacy scheme would have permitted to be transferred in were transferred into that scheme in the same relevant pension year in which the remediable value was accepted.
+
+(3) Where paragraph (2)(b)(ii) applies, the scheme manager owes to M or, where M is deceased, to M’s personal representatives an amount by way of compensation equal to the value of rights to reformed scheme benefits that would have been secured if the portion of the remediable value that M’s legacy scheme would not have permitted to be transferred in had been transferred into the reformed scheme.
+
+(4) The rights to benefits that would otherwise have been secured by the remediable value are extinguished.
+
+(5) Where—
+
+- (a) the benefits payable to or in respect of M’s remediable service as a firefighter are reformed scheme benefits by virtue of a section 6 election or a section 10 election (including, in either case, a deemed election), and
+- (b) the rights to benefits payable in relation to M’s remediable value would otherwise be legacy scheme benefits,
+
+the scheme manager must, having consulted the scheme actuary, where the remediable value is a remediable transfer value, vary the value of those rights so that they are of an equivalent value to rights M would have secured under the reformed scheme if the remediable value had been transferred into that scheme in the same relevant pension year that the remediable value was accepted.
+
+(6) In this regulation, “**relevant pension year**” has the meaning given by direction 5(16)(c)(i) of the PSP Directions 2022.
+
+#### 47. Benefits already paid in relation to transferred in remediable rights[^key-8909b34307aca0e5bf730daa0b545257]
+
+(1) Paragraph (2) applies in relation to any benefits (“the paid benefits”) that the reformed scheme has at any time paid to a person (“**P**”) so far as—
+
+- (a) they are calculated by reference to a remediable value, and
+- (b) they are benefits that, as a result of regulation 45(2)(a), P was not entitled to receive from the scheme.
+
+(2) The paid benefits are to be treated for all purposes—
+
+- (a) as not having been paid to P by the reformed scheme, but
+- (b) as having been paid to P instead by the legacy scheme.
+
+#### 48. Pension benefits and lump sum benefits in relation to a remediable value[^key-658f909ece60ac88245b78199a3cf733]
+
+(1) This regulation applies in relation to any benefits that have been in relation to a remediable value accepted in relation to an immediate choice member.
+
+(2) Where, at the operative time—
+
+- (a) the aggregate of benefits that (after taking into account the effect, if any, of regulation 47) have been paid under the legacy scheme to any person (“**the beneficiary**”) in respect of M’s transferred in remediable rights, exceeds
+- (b) the aggregate of the benefits to which (after taking into account the effect, if any, of regulation 45 in relation to the rights) the beneficiary is entitled under the scheme in respect of the rights,
+
+the beneficiary must pay an amount equal to the difference to the scheme.
+
+(3) Where, at the operative time—
+
+- (a) the amount mentioned in paragraph (2)(a), is less than
+- (b) the amount mentioned[^key-4f7089c5f2f5033a97826ba837d8b53f] in paragraph (2)(b),
+
+the scheme manager must pay an amount equal to the difference to the beneficiary.
+
+(4) In this regulation, “**the operative time**” means—
+
+- (a) if an immediate choice decision is made in relation to M’s remediable service as a firefighter, the time the decision is made;
+- (b) otherwise, the end of the section 6 election period in relation to M.
+
+## PART 7 — Provision about special cases
+
+### CHAPTER 1 — Ill-health retirement
+
+#### 49. ... Interpretation of Chapter 1[^key-78fbbc1b34604144fad82e0645cec5b3][^key-d11b0c769d273ebd39a7a83c9c3b7efa]
+
+(1) In this Chapter—
+
+- “**1992 IHR member**” means a member entitled to an ill-health award under rule B3[^f00021] of Schedule 2 of the 1992 Order;
+- “**2007 IHR member**” means a member entitled to an ill-health pension under rule 2 of Part 3 of schedule 1 of the 2007 Order;
+- “**2015 IHR member**” means a member entitled to an ill-health pension under regulation 65 of the 2015 Regulations;
+- “**alternative scheme**” means in relation to—
+  - (a) a 1992 IHR member or a 2007 IHR member[^key-b97af63aabe127221183e209bf2d6fe2], the reformed scheme; and
+  - (b) a 2015 IHR member, the legacy scheme.
+- “**higher tier award**” means, in relation to—
+  - (a) the 1992 scheme, an award determined in accordance with rule B3(5)(b) of Schedule 2 of the 1992 Order;
+  - (b) the 2007 scheme, an award determined in accordance with rule 2(4) of Part 3 of schedule 1 of the 2007 Order;
+  - (c) the reformed scheme, an ill-health pension payable under regulation 65(2) of the 2015 Regulations;
+- “**authority**” has the meaning given in regulation 3 of the 2015 Regulations;
+- “**ill-health benefits**” means benefits to which a 1992 IHR member, a[^key-b6ee4c5f27a69a6eaa3b1c18d543d5f7] 2007 IHR member or a 2015 IHR member is entitled;
+- “**IQMP**” has the meaning given in regulation 3 of the 2015 Regulations;
+- “**lower tier award**” means, in relation to—
+  - (a) the 1992 scheme, an award determined in accordance with rule B3(5)(a) of schedule 2 of the 1992 Order;
+  - (b) the 2007 scheme, an award determined in accordance with rule 2(2) of Part 3 of schedule 1 of the 2007 Order;
+  - (c) the reformed scheme, an ill-health pension payable under regulation 65(1) of the 2015 Regulations;
+- “**remediable ill-health benefits**” means ill-health benefits payable in relation to the member’s remediable service as a firefighter.
+
+#### 50. M’s entitlement to ill-health benefits to be treated as equivalent in M’s alternative scheme[^key-a9c95b7618bc6affa07b628f61d46cd3]
+
+(1) This regulation applies in relation to an immediate choice member (“**M**”) who, during the period beginning on 1 April 2015 and ending on 31 March 2022 was—
+
+- (a) A 2007 IHR member;
+- (b) A 2015 IHR member.
+
+(2) For the purposes of PSPJOA 2022 and these Regulations, M is to be treated as meeting the requirements for an equivalent ill-health award in M’s alternative scheme.
+
+(3) In paragraph (2), “**equivalent ill-health award in M’s alternative scheme**” means, where M is entitled to—
+
+- (a) a lower tier award under the 2007 scheme, a lower tier award under the reformed scheme;
+- (b) a higher tier award under the 2007 scheme, a higher tier award under the reformed scheme;
+- (c) a lower tier award under the reformed scheme, and—
+  - (i) M’s legacy scheme is the 1992 scheme, a lower tier award under that scheme;
+  - (ii) M’s legacy scheme is the 2007 scheme, a lower tier award under that scheme;
+- (d) a higher tier award under the reformed scheme, and—
+  - (i) M’s legacy scheme is the 1992 scheme, a higher tier award under that scheme;
+  - (ii) M’s legacy scheme is the 2007 scheme, a higher tier award under that scheme;
+
+(4) No question relating to M’s entitlement to ill-health benefits that has been decided following referral to an IQMP is to be re-opened by virtue of any provision of PSPJOA 2022 or of these Regulations.
+
+#### 51. Entitlement to ill-health benefits where a remedy member’s legacy scheme is the 1992 scheme[^key-8d6a6e65d96a62bab2816acc4b7233e1]
+
+(1) Paragraph (2) applies where—
+
+- (a) a remedy member (“**M**”) is a 1992 IHR member, and
+- (b) M’s entitlement to an ill-health award has not been assessed under regulation 65 of the 2015 Regulations.
+
+(2) The authority must obtain the opinion of an IQMP on the following questions—
+
+- (a) whether M would, at any time during the relevant period, have met the criteria to be entitled to a lower tier award under the reformed scheme, and
+- (b) whether M would, at any time during the relevant period, have met the criteria to be entitled to a higher tier award under the reformed scheme.
+
+(3) Paragraph (4) applies where—
+
+- (a) a remedy member’s (“M’s”) legacy scheme is the 1992 scheme,
+- (b) M’s entitlement to an ill-health award was assessed under regulation 65 of the 2015 Regulations,
+- (c) it was determined in accordance with that regulation that—
+  - (i) M was not entitled to a lower tier award, or
+  - (ii) M was entitled to a lower tier award but was not entitled to a higher tier award, and
+- (d) M is a deferred or pensioner member of the reformed scheme.
+
+(4) The authority must obtain the opinion of an IQMP on the following questions—
+
+- (a) Where it was determined that M was not entitled to a lower tier award—
+  - (i) whether M would, at any time during the relevant period, have met the criteria to be entitled to a lower tier ill health award under the 1992 scheme, and
+  - (ii) whether M would, at any time during the relevant period, have met the criteria to be entitled to an higher tier ill health award under the 1992 scheme;
+- (b) where it was determined that M was entitled to a lower tier award but not to a higher tier award, whether M would, at any time during the relevant period, have met the criteria to be entitled to an higher tier ill health award under the 1992 scheme.
+
+(5) An IQMP who is to provide an opinion on a question in accordance with this regulation may—
+
+- (a) examine or interview M if the IQMP thinks it is necessary to provide an opinion on the question, and
+- (b) give the authority and M a written opinion containing a decision on the question.
+
+(6) For the purpose of providing an opinion in accordance with this paragraph, the IQMP may only have regard to information that was available or could have been produced during the relevant period.
+
+(7) Where, in an opinion provided in accordance with this paragraph, the IQMP concludes that M would have been entitled to an ill health award—
+
+- (a) that conclusion is to be treated as if it were a determination by the scheme manager in accordance with regulation 141 of the 2015 Regulations that M is entitled to that ill-health award, and
+- (b) M is to be treated for the purposes of the PSPJOA 2022 and of these Regulations as being entitled to that ill-health award from the time during the relevant period when they would first have become entitled to it.
+
+(8) In this regulation—
+
+- “**original decision**” means —
+  - (a) for the purposes of paragraphs (1) and (2), the decision under Part H of schedule 2 of the 1992 Order by virtue of which M became entitled to that ill-health award, and
+  - (b) for the purposes of paragraphs (3) and (4), the decision under Chapter 4 of Part 5 of the 2015 Regulations by virtue of which it was determined that M was not entitled to a lower tier award or, as the case may be, a higher tier award under the reformed scheme;
+- “**relevant period**” means the period—
+  - (a) beginning with the time of the original decision, and
+  - (b) ending on the earlier of—
+    - (i) five years after the time of the original decision;
+    - (ii) the beginning of the day on which M reaches 60 years of age;
+    - (iii) the time when an immediate choice decision or a deferred choice decision is made.
+
+#### 51A. Entitlement to ill-health benefits where a remedy member's legacy scheme is the 2007 scheme[^key-671f10c0fd2c6229dd3b38811d4be691]
+
+(1) Paragraph (2) applies where a 2007 IHR member ( “M”) is—
+
+- (a) a special member, and
+- (b) either—
+  - (i) a full protection member, or
+  - (ii) a tapered protection member whose entitlement to an ill-health award was assessed before the transition date (as defined in Part 1 of schedule 1[^key-2cc1f28631186372e08f1bdbb300ff36] of the 2007 Order).
+
+(2) The scheme manager must obtain the opinion of an IQMP on the following questions—
+
+- (a) where it was determined that M was entitled to a lower tier award, whether M would, at the time of the original decision, have met the criteria to be entitled to a lower tier award under the reformed scheme,
+- (b) where it was determined that M was entitled to a lower tier and to a higher tier award—
+  - (i) whether M would, at the time of the original decision, have met the criteria to be entitled to a lower tier award under the reformed scheme, and
+  - (ii) whether M would, at the time of the original decision, have met the criteria to be entitled to a higher tier award under the reformed scheme.
+
+(3) Paragraph (4) applies where—
+
+- (a) a remedy member (“**M**”) is—
+  - (i) a special member of the 2007 scheme, and
+  - (ii) a transition member,
+- (b) M's entitlement to an ill-health award was assessed under the reformed scheme, and
+- (c) it was determined in accordance with that regulation that—
+  - (i) M was not entitled to either a lower tier or a higher tier award, or
+  - (ii) M was entitled to a lower tier award.
+
+(4) The scheme manager must obtain the opinion of an IQMP on the following questions—
+
+- (a) where it was determined that M was not entitled to either a lower tier or a higher tier award—
+  - (i) whether M would, at the time of the original decision, have met the criteria to be entitled to a lower tier award under rule 2 of Part 3 of Schedule 1 to the 2007 Order, and
+  - (ii) whether M would, at the time of the original decision, have met the criteria to be entitled to a higher tier award under rule 2 of Part 3 of Schedule 1 to the 2007 Order,
+- (b) where it was determined that M was entitled to a lower tier award, whether M would, at the time of the original decision, have met the criteria to be entitled to a higher tier award under rule 2 of Part 3 of Schedule 1 to the 2007 Order[^key-3e30eb9c508549e669e3b5326323c368].
+
+(5) An IQMP who is to provide an opinion on a question in accordance with this regulation must—
+
+- (a) examine or interview M if the IQMP thinks it is necessary to provide an opinion on the question, and
+- (b) give the scheme manager and M a written opinion containing a decision on the question.
+
+(6) For the purpose of providing an opinion in accordance with this regulation and subject to paragraph (5)(a), the IQMP may only have regard to information that was available or could have been produced at the time of the original decision.
+
+(7) The scheme manager must determine whether M is entitled to an ill-health award, and the provisions of Part 12 of the 2015 Regulations apply to—
+
+- (a) a determination under this paragraph as if it were a determination under regulation 141 of the 2015 Regulations, and
+- (b) an opinion of the IQMP obtained under this regulation as if it were an opinion of the IQMP obtained in accordance with Part 11 of the 2015 Regulations[^key-efc9b6419b15d7477ce1638571a0f4a2].
+
+(8) Where it is determined that M is entitled to an ill-health award, M is to be treated for the purposes of PSPJOA 2022 and of these Regulations as being entitled to that ill-health award from the time of the original decision.
+
+(9) In this regulation, “**original decision**” means—
+
+- (a) for the purposes of paragraphs (1) and (2), the decision under rule 2 of Part 3 of Schedule 1 to the 2007 Order by virtue of which M became entitled to an ill-health award under the 2007 scheme,
+- (b) for the purposes of paragraphs (3) and (4), the decision under Chapter 4 of Part 5 of the 2015 Regulations by virtue of which—
+  - (i) M became entitled to an ill-health award under the reformed scheme, or
+  - (ii) it was determined that M was not entitled to a lower tier or a higher tier award under the reformed scheme.
+
+#### 52. Assessment and reassessment of certain transitional ill-health cases[^key-b199fd4d541d3b42d50a4fa60cbb6d2c]
+
+(1) This regulation applies where—
+
+- (a) a remedy member (“**M**”) was, immediately before 1 April 2022, not a full protection member of the 1992 scheme or a full protection member of the 2007 scheme;
+- (b) an assessment (“the transitional assessment”) of M’s entitlement to an ill-health award under the reformed scheme began before 1 April 2022; and
+- (c) a determination had not been made by the scheme manager in relation to the transitional assessment by the end of 31 March 2022.
+
+(2) Where the transitional assessment has not been determined before 1 October 2023, the authority must secure that—
+
+- (a) the transitional assessment is undertaken on the basis that M’s normal pension age is 55, and
+- (b) any steps in relation to the transitional assessment the outcome of which might have been different had they been taken on the basis that M’s normal pension age is 55 are retaken.
+
+(3) Paragraph (4) applies where—
+
+- (a) the transitional assessment has been determined before 1 October 2023, and
+- (b) it was determined that—
+  - (i) M was not entitled to a lower tier award in the reformed scheme, or
+  - (ii) M was entitled to a lower tier award in the reformed scheme, but not a higher tier award in that scheme.
+
+(4) Where this paragraph applies, the authority must secure that—
+
+- (a) M is assessed for entitlement to a relevant award under the reformed scheme on the basis that M’s normal pension age is 55, and
+- (b) M is treated as if the transitional assessment had not been undertaken so far as it relates to the relevant award.
+
+(5) In this regulation—
+
+- “**full protection member of the 1992 scheme**” means a full protection member of the 1992 scheme within the meaning of paragraph 9 of schedule 2 of the 2015 Regulations;
+- “**relevant award**” means—
+  - (a) where paragraph (3)(b)(i) applies, a lower tier award and a higher tier award; and
+  - (b) where paragraph (3)(b)(ii) applies, a higher tier award.
+
+#### 53. Determining the value of M’s remediable ill-health benefits[^key-46c0c449f1b603268dd6e80514cdd463]
+
+The scheme manager must, as soon as reasonably practicable after 1 October 2023 and having consulted the scheme actuary, determine the value of M’s remediable ill-health benefits as if they had been secured in M’s alternative scheme.
+
+### CHAPTER 2 — Child pensions in payment
+
+#### 54. Protection of the amount of pension payable to an eligible child[^key-80e3c7d8b913a80eeaf4b1cabbb8e459]
+
+(1) This regulation applies where—
+
+- (a) immediately before 1 October 2023, benefits are in payment to an eligible child (“**E**”) in respect of the remediable service as a firefighter of a deceased member,
+- (b) there is a surviving partner as defined in regulation 76 of the 2015 Regulations[^key-9e671b4c456765c1fa0c249f9613940a] (“**S**”) in relation to the deceased member,
+- (c) S does not have parental responsibility for E, and
+- (d) S makes an immediate choice decision which would (disregarding this regulation) result in a decrease in the amount of benefits payable to E in relation to M’s remediable service as a firefighter.
+
+(2) Where this regulation applies—
+
+- (a) E does not owe the scheme manager a liability under section 14(3) of PSPJOA in respect of benefits received in relation to M’s remediable service as a firefighter, and
+- (b) the amount of benefits payable continues to be the amount that was payable before the election was made.
+
+#### 55. Payment of annual allowance tax charges and provision of information[^key-35406d1798c024b7af14be01221cc746]
+
+Where a remedy member is unable to give an effective notice to the scheme administrator under section 237B(3) of FA 2004[^f00022] in relation to an in-scope tax year (within the meaning of direction 7(7) of the PSP Directions 2022) because the time limit in section 237BA[^f00023] has passed, direction 7(2) to (6) of the PSP Directions 2022 applies in relation to the remedy member.
+
+## PART 8 — Liabilities and payment
+
+### CHAPTER 1 — Application of Part 8
+
+#### 56. Application of Part 8[^key-8d82a9e815e42bf862c69709037fef08]
+
+This Part applies in relation to a relevant amount[^f00024] owed in respect of the remediable service as a firefighter of a remedy member.
+
+### CHAPTER 2 — Interest, compensation and netting off
+
+#### 57. Interest[^key-8e650005bddb375ae4e487b33132f124]
+
+(1) The scheme manager must calculate interest on a relevant amount described in direction 15 of the PSP Directions 2022 in accordance with the provisions of directions 14 and 15 which apply to that description of relevant amount.
+
+(2) In relation to a relevant amount not described in direction 15 of the PSP Directions 2022, the scheme manager must determine whether interest is paid and, if so, what rate of interest applies and how it is calculated.
+
+(3) The following provisions of the PSP Directions 2022 apply in relation to a determination under paragraph (2) as if it were a determination under direction 16(1) of those Directions—
+
+- (a) direction 16(2) (provision of explanation);
+- (b) direction 16(3) and (4) (appeals).
+
+#### 58. Indirect compensation[^key-37dd442ce2ccbd25a5e8a04b96226cbe]
+
+(1) This regulation applies where, pursuant to an application under regulation 59, the scheme manager determines that an immediate choice member (“**M**”) has incurred a compensatable loss[^f00025] that is a Part 4 tax loss[^f00026] (a “relevant loss”).
+
+(2) M is not to be paid an amount under section 23[^key-ba295f63f17d7a22c0c003e134639046] of PSPJOA 2022 by way of compensation in respect of the relevant loss.
+
+(3) Instead, the amount of benefit payable under a firefighters’ pension scheme is to be increased to reflect the amount of the relevant loss in such manner as determined by the scheme manager in accordance with direction 10(2) to (4) of the PSP Directions 2022.
+
+#### 59. Applications for compensation or indirect compensation[^key-9afa016a9bf9d14a8238bd6ddce346a7]
+
+(1) This regulation applies in relation to—
+
+- (a) the payment of a relevant amount by way of compensation under section 23(1) of PSPJOA 2022;
+- (b) the increase of benefits by way of indirect compensation under regulation 58.
+
+(2) The relevant amount is not payable, or (as the case may be) the benefits are not to be increased, except where—
+
+- (a) an application is made in accordance with direction 18(1) and (2) of the PSP Directions 2022,
+- (b) the application is accompanied by such information that the scheme manager by written notice requires the person making the application (“**P**”) to provide in relation to the proposed compensation which is—
+  - (i) information within P’s possession, or
+  - (ii) information which P may reasonably be expected to obtain, and
+- (c) the scheme manager makes a determination in accordance with direction 18(3) of those Directions.
+
+(3) The following apply in relation to a determination under direction 18(3) of the PSP Directions 2022—
+
+- (a) direction 18(4) (provision of explanation);
+- (b) direction 18(5) and (6) (appeals).
+
+#### 60. Netting off[^key-abcac40818ea5ef7092a98588dc39308]
+
+(1) This regulation applies where—
+
+- (a) relevant amounts owed by and to a person (“**P**”) fall to be paid at the same time or similar times, and
+- (b) the scheme manager has—
+  - (i) determined the interest (if any) that is to be paid in the relevant amounts in accordance with regulation 57, and
+  - (ii) reduced the relevant amounts by tax relief amounts in accordance with regulation 61.
+
+(2) The scheme manager may determine, in accordance with direction 19(2) to (5) of the PSP Directions 2022, that the relevant amounts (and any interest on them) must be aggregated and that the difference must be paid by P to the scheme or (as the case may be) by the scheme to P.
+
+(3) The following provisions of the PSP Directions 2022 apply to a determination under paragraph (2) as if it were a determination under direction 19(1) of those Directions—
+
+- (a) direction 19(6) (provision of explanation);
+- (b) direction 19(7) and (8) (appeals).
+
+### CHAPTER 3 — Reduction and waiver of liabilities
+
+#### 61. Requirement to reduce liabilities by tax relief amounts[^key-8f251815eacd9b8a270ecfc60fda9374]
+
+(1) This regulation applies where—
+
+- (a) a person owes a liability to pay pension contributions in relation to the remediable service as a firefighter of a remedy member, or
+- (b) the scheme manager owes a liability to pay compensation in relation to such service,
+
+under section 15, 16 or 17 of PSPJOA 2022.
+
+(2) The scheme manager must reduce the liability by tax relief amounts—
+
+- (a) determined in accordance with direction 4(5) to (9) of the PSP Directions 2022, and
+- (b) before the liability is netted off in accordance with regulation 60.
+
+(3) The following provisions of the PSP Directions 2022 apply where the scheme manager makes a determination under direction 4(8)—
+
+- (a) direction 4(10) (provision of explanation);
+- (b) direction 4(11) and (12) (appeals).
+
+#### 62. Power to reduce or waive amounts owed by a person to the scheme manager[^key-ee5470108f3a8be02ffa019e8b6d27ac]
+
+(1) The scheme manager may reduce or waive an amount owed by a person to the scheme under—
+
+- (a) section 14, 15, 16 or 17 (“**the corrections provisions**”) of PSPJOA 2022, or
+- (b) these Regulations.
+
+(2) When reducing or waiving an amount under paragraph (1), the scheme manager must comply with the requirements set out in direction 4(1)(a) to (c) of the PSP Directions 2022 (and the reference in direction 4(1)(c) to “any scheme regulations made by virtue of section 26(1)(b) of PSPJOA 2022” is to be read as a reference to regulation 65[^key-3cedaacf9995fa8a0d0cb0bff409af50] ).
+
+#### 63. Agreement to waive a liability owed by the scheme manager in respect of an immediate correction[^key-da4c053a3de704023140cb049d1b25bf]
+
+(1) This regulation applies where the scheme manager owes a liability to pay compensation to a person (“**P**”) under section 16(3) of PSPJOA 2022.
+
+(2) The scheme manager and P may agree to waive the liability.
+
+(3) Such agreement—
+
+- (a) must be in writing,
+- (b) may be rescinded with the agreement of the scheme manager and P, and
+- (c) in any event ceases to apply where—
+  - (i) the end of the section 10 election period in relation to the remediable service as a firefighter in respect of which compensation is payable has passed, and
+  - (ii) no section 10 election has been made (or deemed to have been made) in relation to that service.
+
+(4) Where an agreement is rescinded or otherwise ceases to apply, the scheme manager owes P the liability mentioned in paragraph (1).
+
+### CHAPTER 4 — Payment of net liabilities
+
+#### 64. Application of Chapter 4[^key-2e0d8e0881d428575c5fd9e36cec68d3]
+
+This Chapter applies in respect of a relevant amount (together with any interest on that amount) owed after taking into account the effect, if any, of regulations 57 to 63 (“a net liability”).
+
+#### 65. Payment of amounts owed to the scheme manager[^key-dc933d7ff0787416ccb2d81538617512]
+
+(1) This regulation applies where a person (“**P**”) owes a net liability to the scheme manager.
+
+(2) The scheme manager must send notice in writing to P setting out—
+
+- (a) how the net liability has been calculated,
+- (b) an explanation of the circumstances in which the net liability may be reduced or waived under regulation 62,
+- (c) where the net liability has been calculated by reference to an amount by way of compensation under section 16(3) of PSPJOA 2022, an explanation of the agreement that may be made under regulation 63,
+- (d) when and how the net liability must be paid, and
+- (e) the consequences of not paying the net liability.
+
+(3) Where—
+
+- (a) the scheme manager has sent a notice under paragraph (2), and
+- (b) the amount of the net liability is subsequently adjusted,
+
+the scheme manager must send another notice in writing to P under paragraph (2).
+
+(4) P must pay the amount of the net liability to the scheme manager—
+
+- (a) where the net liability relates to the remediable service as a firefighter of—
+  - (i) an immediate choice member, before the end of the period of six months beginning with the day after the day on which P receives the most recent notice under paragraph (2);
+  - (ii) a deferred choice member, in accordance with paragraph (5),
+- (b) where a net liability includes an amount owed by way of corrections to pension contributions that are owed by virtue of an opted-out service election, in accordance with an agreement under paragraph (6), or
+- (c) in accordance with an agreement under paragraph (7).
+
+(5) Where paragraph (4)(a)(ii) applies, P must pay the full amount of the net liability—
+
+- (a) before the end of the period of three months beginning with the day on which any remediable service statement is provided under regulation 4(2)(a) or (b) in relation to the remediable service as a firefighter[^key-203081a5293e37cb54b090fe154455c3] in respect of which the net liability is owed;
+- (b) where paragraph (4)(b) also applies, in accordance with an agreement under paragraph (6);
+- (c) in any event, before benefits become payable in relation to the remediable service as a firefighter[^key-d4d0c442dceec9657c7fc65c25b36c38] in respect of which the liability is owed.
+
+(6) Where paragraph (4)(b) applies, P and the scheme manager may agree that the net liability is to be paid in full by way of instalments over the period—
+
+- (a) beginning on a date specified in the agreement (“the start date”), and
+- (b) ending on the earlier of—
+  - (i) the day 14 years after the start date;
+  - (ii) the day before it is reasonably expected that, if a section 10 election were made in relation to the remediable service as a firefighter[^key-108e38d6959e425050906d0680cb3bac] to which the net liability relates, reformed scheme benefits would become payable to or in respect of that member.
+
+(7) P and the scheme manager (or the employer where responsibility is delegated) may agree that the net liability is to be paid in part or in full by way of—
+
+- (a) deductions from any benefits (including a lump sum benefit) to which P is entitled under a firefighters’ pension scheme;
+- (b) instalments over the period—
+  - (i) beginning on the date specified in the agreement (“the start date”), and
+  - (ii) a day agreed between P and the scheme manager (or, where relevant, the employer) that is no later than the day five years after the start date, or
+  - (iii) where it occurs sooner, the day before it is reasonably expected that, if a section 10 election were made in relation to the remediable service as a firefighter[^key-088f86084159e43ccd8a7d8effc7b060] to which the net liability relates, reformed scheme benefits would become payable to or in respect of that member.
+
+(8) The amount of each instalment to be paid in accordance with an agreement under paragraph (6) is to be determined having consulted the scheme actuary.
+
+(9) P and the scheme manager may agree to vary an agreement under paragraphs (6) and (7)[^key-4101263e1e332795e5a9718b22805266].
+
+(10) Where P does not pay any part of a net liability by the time specified in paragraph (4)(a)(i) or (5)(c), or in accordance with an agreement under paragraph (6) or (7), the scheme manager may deduct such sums from benefits payable to P under a firefighters’ pension scheme as seem reasonable to the scheme manager for the purpose of discharging P’s liability.
+
+(11) P has no liability to pay an amount on account of the net liability until the time for payment arises in accordance with this regulation or an agreement under this regulation, and until that time the scheme manager has no cause of action for the recovery of any such amount (whether for the purposes of the Prescription and Limitation (Scotland) Act 1973[^f00027] or otherwise).
+
+#### 66. Payment of amounts owed to a person[^key-954e0c854860761283e24a6053f97543]
+
+(1) This regulation applies where the scheme manager owes a net liability to a person (“**P**”).
+
+(2) The scheme manager must pay the amount of the net liability to P—
+
+- (a) as soon as reasonably practicable after the scheme manager determines the amount of the net liability, or
+- (b) where the scheme manager requires P to provide information in accordance with paragraph (3), as soon as reasonably practicable after receipt of that information.
+
+(3) Before paying the amount of a net liability owed to P, the scheme manager may, by written notice given as soon as reasonably practicable after the scheme manager determines the amount of the net liability, require P to provide information in relation to the payment of the net liability which is—
+
+- (a) information within P’s possession, or
+- (b) information which P may reasonably be expected to obtain.
+
+TOM ARTHUR
+
+Authorised to sign by the Scottish Ministers
+
+St Andrew’s House,
+
+Edinburgh
+
+At 11.28 a.m. on 30th August 2023
+
+## SCHEDULE — Eligible decision-makers for deceased members
+
+Regulations 4(3), 6(2), 8(2) and 12(2)
+
+### 1. Interpretation[^key-51239ca4b590e805e8dc23ab326801f2]
+
+(1) In this schedule —
+
+- “**beneficiary**” means a person who has become entitled to receive any death benefit;
+- “child”, except in the term “eligible child”, means a person under the age of 18;
+- “**death benefit**” means a benefit payable under a firefighters’ pension scheme following the death of a member of that scheme;
+- “**election**” means an opted-out service election, an immediate choice decision[^key-e03890a7ab8ab582406455516fb1e786] or a deferred choice decision[^key-133fb68ea864956b58b27421dda453e2];
+- “**eligible decision-maker**” means the person who may make—
+  - (a) an opted-out service election as mentioned in regulation 6(2)(b)[^key-70782ffbb94bd91d0d3b168b9adf185d];
+  - (b) an immediate choice decision[^key-09a381ca7bbb7fc19728ad31aab21130] as mentioned in regulation 8(2)(b)[^key-c672ed32b9be7106556edc4b18cb32c4];
+  - (c) a deferred choice [^key-7a2a4b894c4031bff9ac4f4d9814bbd5]... decision as mentioned in regulation 12(2)(b)[^key-2bbe6c124e66174ec7a3e7085eaf1f8f].
+- [^key-175d95bc53d986730070db0672f04554]...
+
+(2) In this schedule, a reference to—
+
+- (a) a beneficiary is[^key-7e15ee733e69b9da2ade4f3886a383bf] a reference to—
+  - (i) a person who is a beneficiary of death benefits in relation to M’s remediable service as a firefighter, or
+  - (ii) where the benefits in relation to M’s remediable service as a firefighter are legacy scheme benefits, a person who would be a beneficiary of death benefits in relation to M’s remediable service as a firefighter if the benefits in relation to that service were reformed scheme benefits;
+- (b) an eligible child is a reference to an eligible child of M;
+- (c) a surviving adult is a reference to a surviving adult in relation to M.
+
+### 2. Sole beneficiary: an adult[^key-6b01a4d9ee01961efbced6b169a53218]
+
+Where a person is—
+
+- (a) the sole beneficiary, and
+- (b) an adult,
+
+the eligible decision-maker is that person.
+
+### 3. Sole beneficiary: a child[^key-315f76e1ccc2e56ff6de47eb301bd054]
+
+Where a person (“**C**”) is—
+
+- (a) the sole beneficiary, and
+- (b) a child,
+
+the eligible decision-maker is C’s parent or[^key-300881abf14c74a3e192cc0db3d4d927] guardian.
+
+### 4. Sole beneficiary: a body[^key-058176a0853662e59da5afba195a50e8]
+
+Where a body (whether corporate or unincorporate) is the sole beneficiary, the eligible decision-maker is—
+
+- (a) M’s personal representative, or
+- (b) where M has no personal representative, the scheme manager.
+
+### 5. Sole beneficiary: M’s estate[^key-026ce52d92f1b7c3a684da7bf2454112]
+
+Where M’s estate is the sole beneficiary, the eligible decision-maker is M’s personal representative.
+
+### 6. Multiple beneficiaries: including a surviving adult[^key-50c02eafd209b0dae487a55a27da7153]
+
+Where—
+
+- (a) two or more adults are the only beneficiaries, and
+- (b) one of those adults is a surviving adult (“**A**”), the eligible decision-maker is A.
+
+### 7. Multiple beneficiaries: including adult eligible children[^key-fb0a67836032d73a7503d5b2c9de68d6]
+
+(1) Where—
+
+- (a) two or more adults are the only beneficiaries,
+- (b) none of those adults is a surviving adult, and
+- (c) two or more of those adults are eligible children,
+
+the eligible decision-maker is determined in accordance with sub-paragraph (2).
+
+(2) The eligible decision-maker is—
+
+- (a) the person agreed upon by the adult eligible children, or
+- (b) where no decision about whether to make an election has been received by the scheme manager by the day four weeks before an election must, in accordance with these Regulations, be received by the scheme manager.
+
+### 8. Multiple beneficiaries: nominated individuals only[^key-67250cb3caf62783733acd08e5046462]
+
+(1) Where—
+
+- (a) two or more adults (the “nominated adults”) are beneficiaries of a lump sum death benefit, and
+- (b) none of the following are beneficiaries—
+  - (i) a surviving adult, or
+  - (ii) an eligible child (whether or not an adult),
+
+the eligible decision-maker is determined in accordance with sub-paragraph (2).
+
+(2) The eligible decision-maker is—
+
+- (a) M’s personal representative;
+- (b) where M has no personal representative, the person agreed upon by the nominated adults;
+- (c) where—
+  - (i) M has no personal representative, and
+  - (ii) no decision about whether to make an election has been received by the scheme manager by the day four weeks before an election must, in accordance with these Regulations, be received by the scheme manager,
+
+  the scheme manager.
+
+### 9. Multiple beneficiaries: non-adult eligible children[^key-b41983f2805f9af4681cacfb22cd709e]
+
+Where the only beneficiaries are children, two or more of which are eligible children, the eligible decision-maker is—
+
+- (a) where one person has parental responsibility for all the eligible children, that person;
+- (b) otherwise—
+  - (i) M’s personal representative, or
+  - (ii) where M has no personal representative, the scheme manager.
+
+### 10. Multiple beneficiaries: nominated children only[^key-fd0bccb2b1058c4507f43368e45fd4a5]
+
+Where the only beneficiaries of lump sum death benefits are two or more children who are not eligible children, the eligible decision-maker is—
+
+- (a) where one person has parental responsibility for all the children that person;
+- (b) otherwise—
+  - (i) M’s personal representative, or
+  - (ii) where M has no personal representative, the scheme manager.
+
+### 11. Multiple beneficiaries: one or more adults and one or more children[^key-a96073f6bffcaf271c1ba3325371992e]
+
+(1) Where the beneficiaries include one or more adults and one or more children—
+
+- (a) M’s personal representative is the eligible decision-maker;
+- (b) where M has no personal representative, and—
+  - (i) one of the beneficiaries is a surviving adult, that surviving adult is the eligible decision-maker;
+  - (ii) none of the beneficiaries is a surviving adult and—
+    - (aa) one or more of the beneficiaries is an eligible child, or
+    - (bb) one of the beneficiaries is a surviving adult or an eligible child,
+
+  the eligible decision-maker is determined in accordance with sub-paragraph (2).
+
+(2) Where sub-paragraph (1)(b)(ii) applies, and—
+
+- (a) all relevant children are under 18 and—
+  - (i) have the same guardian, the eligible-decision maker is that guardian;
+  - (ii) do not have the same guardian, the eligible decision-maker is the scheme manager;
+- (b) all relevant children are 18 or over, the eligible decision-maker is—
+  - (i) the person agreed upon by those relevant children, or
+  - (ii) where no decision about whether to make an election has been received by [^key-14f8ccdfc21e779698c89ab62dd3c6bc]... the scheme manager by the day four weeks before an election must in accordance with these Regulations, be received by the scheme manager , the scheme manager[^key-b3bf4be5844225996a3b5102b27c77b2];
+- (c) one or more relevant children are under 18 and one or more of the relevant children are 18 or over, the eligible decision-maker is the person agreed upon by—
+  - (i) the relevant children who are 18 or over, and
+  - (ii) the guardian (or guardians) of the relevant children who are under 18.
+
+(3) In sub-paragraph (2), a relevant child is—
+
+- (a) where sub-paragraph (1)(b)(ii)(aa) applies, an eligible child;
+- (b) where sub-paragraph (1)(b)(ii)(bb) applies, a person who meets one of the conditions in regulation 85(3) to (5) of the 2015 Regulations.
+
+### 12. Other cases[^key-96e40fc2f549ff064e111cfafb1e434e]
+
+In any case not covered by paragraphs 2 to 11, the eligible decision-maker is the scheme manager.
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Public Service Pensions Act [2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25) (“PSPA 2013”) makes provision, and confers powers to make further provision (in the form of “**scheme regulations**” as defined in section 1 of PSPA 2013) about the establishment of public service pension schemes. The Firefighters’ Pension Scheme (Scotland) Regulations 2015 (“**the 2015 Regulations**”) are the scheme regulations establishing the successor firefighters’ pension scheme (“**the reformed scheme**”) to the schemes established by the Firemen’s Pension Scheme Order 1992 and the Firefighters’ Pension Scheme (Scotland) Order 2007 (“the legacy schemes”). The 2015 Regulations provided for transitional protection for certain cohorts of legacy scheme members. Transitional protection of this sort was subsequently found to unlawfully discriminate between legacy scheme members on the basis of age.
+
+The Public Service Pensions and Judicial Offices Act 2022 (“PSPJOA 2022”), at Chapter 1, makes provision, and confers powers for scheme regulations under PSPA 2013 to make further provision, in relation to specified service (“**remediable service**” as defined in section 1 of PSPJOA 2022) of members who had the benefit from transitional protection, and of members who did not benefit from transitional protection only by reason of their age. Section 27 of PSPJOA 2022 requires certain powers to make scheme regulations to be exercised in accordance with Treasury directions.
+
+These Regulations are scheme regulations under PSPA 2013 and in accordance with PSPJOA 2022 in relation to a member’s remediable service in a firefighters’ pension scheme. They are, to the extent required by section 27 of PSPJOA 2022, made in accordance with Treasury directions under that section (in the form of the Public Service Pensions (Exercise of Powers, Compensation and Information) Directions 2022). These Regulations have retrospective effect, which is authorised by section 3(3)(b) of PSPA 2013.
+
+Part 2 of these Regulations makes provision about when and to whom a remediable service statement is to be provided by the scheme manager, as well as the contents of the remediable service statement.
+
+Part 3 makes provision about the principal decisions that may be made in relation to a member’s remediable service—
+
+- a) Chapter 1 makes provision about when and how an election may be made for service in respect of which a member opted-out of a firefighters’ pension scheme to be reinstated and treated as remediable service;
+- b) Chapter 2 makes provision about when and how a decision may be made, or be deemed to have been made, about whether the remediable service of a pensioner or deceased member (an “immediate choice member”) is to be treated as service in the member’s legacy scheme or in the reformed scheme;
+- c) Chapter 3 makes provision similar to Chapter 2, but in relation to the remediable service of an active or deferred member (a “deferred choice member”).
+
+Part 4 makes provision about cases in which the pension rights secured by virtue of a member’s remediable service are at issue in proceedings relating to the member’s separation from a spouse or civil partner—
+
+- a) Chapter 1 makes provision about sharing the value of such rights under a pension sharing agreement or order where they are subject to a pension debit under section 29 of the Welfare Reform Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30). It provides, in particular, for the calculation or, where appropriate, the re-calculation of the value of a pension debit and a pension credit in relation to the rights;
+- b) Chapter 2 makes provision about the calculation of the value of rights for the purposes of sharing those rights under an arrangement other than a pension sharing order or agreement.
+
+Part 5 makes provision about lump sum voluntary contributions paid by a member during the period of their remediable service, and periodical contributions paid by a member under an arrangement which commenced during the period of their remediable service, to secure further pension rights—
+
+- a) regulation 27 makes provision under which compensation is to be paid in relation to voluntary contributions used to secure rights to reformed scheme added pension during the period of their remediable service;
+- b) regulation 28 makes provision under which compensation is to be paid in relation to voluntary contributions used to secure rights to legacy scheme added years during the period of their remediable service where the benefits to be paid in relation to a member’s remediable service are reformed scheme benefits;
+- c) regulation 29 makes provision under which a member who has remediable service in the reformed scheme may elect to enter into a retrospective arrangement to secure added years in the member’s legacy scheme in respect of that remediable service.
+
+Part 6 makes provision about transfers in and out of a firefighter’s pension scheme of pension rights during the period of a member’s remediable service—
+
+- a) Chapter 1 makes provision about, among other things, the provision of a remediable service statement to a person who has transferred out rights in respect of remediable service and in respect of whom a remediable service statement is not otherwise required to be provided;
+- b) Chapter 2 makes provision about transfers in and out of a firefighters’ pension scheme on a cash equivalent basis, including provision about the calculation (and, where appropriate, the recalculation) of the value of a cash equivalent transfer value, and the making and accepting of payments in relation to the transfer value of rights secured by virtue of remediable service;
+- c) Chapter 3 makes provision similar to Chapter 2, but in relation to transfers in and out of a firefighters’ pension scheme on a club basis;
+- d) Chapter 4 makes provision for—
+  - transfers into the reformed scheme in respect of rights secured by virtue of remediable service to be treated as being transferred into the member’s legacy scheme where the benefits which become payable in respect of the member’s remediable service are legacy scheme benefits;
+  - the conferring or variation of rights in a member’s legacy scheme to reflect a change in the value of those rights by virtue of PSPJOA 2022 and these Regulations;
+  - financial corrections of any pension benefits paid in respect of the transferred-in rights of an immediate choice member.
+
+Part 7 makes provision about special cases—
+
+- a) Chapter 2 makes provision about protecting the amount of any child pension which is already in payment so that it will not be reduced as a result of the PSPJOA 2022 or these Regulations;
+- b) Chapter 1 makes provision about ill-health retirement—
+  - regulation 50 makes provision about the cases in which a member who met the requirements for an ill-health retirement award in one firefighters’ pension scheme is to be deemed as meeting the requirements in their alternative firefighters’ pension scheme;
+  - regulation 51 makes provision under which a member who has received an ill-health retirement award under the Firemen’s Pension Scheme Order 1992 is to be assessed for eligibility for a higher tier award in the reformed scheme.
+
+Part 8 makes provision about any amounts (“relevant amounts”) owed to or by a person as a result of PSPJOA 2022 or these Regulations—
+
+- a) Chapter 2 makes provision for the calculation of interest on relevant amounts, for the increase of benefits instead of the payment of a relevant amount, for the making of an application where a person wishes to claim compensation, and for the netting off of relevant amounts owed to and by a person;
+- b) Chapter 3 makes provision about the reduction and waiver of relevant amounts, in particular a requirement for the scheme manager to reduce some relevant amounts by tax relief amounts, the discretion of the scheme manager to reduce or waive relevant amounts owed by a person to a scheme in certain circumstances, and the option to defer payment of certain relevant amounts owed to a member until an election is made in relation to the member’s remediable service;
+- c) Chapter 4 makes provision about when and how relevant amounts must be paid.
+
+## Annotations
+
+[^f00001]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25). Section 3(1) was amended by section 94(2) of PSPJOA 2022, and section 3(2)(c) was inserted by section 94(3) of that Act.
+
+[^f00002]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7).
+
+[^key-a828bb7eaa9bd0c81c9afc46c745cb50]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/242/regulation/1) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-28fb94ffa65f8783b69d5dbb8855a842]: Commencement: Reg. 2 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^f00003]: Footnote: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129).
+
+[^f00004]: Footnote: [S.S.I. 2007/199](https://www.legislation.gov.uk/ssi/2007/199).
+
+[^f00005]: Footnote: [S.S.I. 2015/19](https://www.legislation.gov.uk/ssi/2015/19).
+
+[^f00006]: Footnote: Published on 15 December 2022 and accessible online at https://www.gov.uk/government/publications/public-service-pensions-and-judicial-offices-act-2022-treasury-directions. A hard copy is available on written request to His Majesty’s Treasury, 1 Horse Guards Road, London, SW1A 2HQ.
+
+[^f00007]: Footnote: See section 109(3) of PSPJOA 2022 for the meaning of “pensioner member”.
+
+[^key-6a5b56877c8a76866ee706e5764d6509]: Textual amendment: Words in reg. 2(1) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/2/a)
+
+[^key-a74260f41019939c84a175fcff7ca742]: Textual amendment: Words in reg. 2(1) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/2/b)
+
+[^key-ea85a843878ef034f5e08a2562aad6e2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/242/regulation/2/1) inserted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/2/a)
+
+[^key-910a2bf1d8e4e0f960e456f77887a081]: Textual amendment: Word in reg. 2(1) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/3)
+
+[^f00008]: Footnote: See section 4 of PSPJOA 2022 for the meaning of “relevant Chapter 1 legacy scheme”.
+
+[^key-e76306ef9baf048f5d89d848259d2e18]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/242/regulation/2/1) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/2/b)
+
+[^f00009]: Footnote: See section 34 of PSPJOA 2022 for the meaning of “new scheme benefits”.
+
+[^f00010]: Footnote: See section 1 of PSPJOA 2022 for the meaning of “remediable service”.
+
+[^key-9a5512822d9fd0225ba88a946493e3e7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/242/regulation/3) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-914f2526dbb2f678da847f5fbd176da3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/242/regulation/4) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^f00011]: Footnote: See section 29(10) of PSPJOA 2022 for the meaning of “the relevant date”.
+
+[^f00012]: Footnote: In accordance with section 29(9) of PSPJOA 2022, only one request under regulation 4(2)(b)(ii) may be made during any period of 12 months.
+
+[^key-ea82c7204cde33acf8c343f82d1ea3f3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2023/242/regulation/5) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^f00013]: Footnote: See sections 5(7) (read with section 4) and 36 of the PSPJOA 2022 for the meaning of relevant opted-out service in relation to a Chapter 1 legacy scheme (such as the 1992 and 2007 schemes).
+
+[^key-7aeb996221c82acac5b9ae5efffea17e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2023/242/regulation/6) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^f00014]: Footnote: See section 25(8) of PSPJOA 2022 for the meaning of “non-discrimination rule” and section 25(9) for the circumstances in which breach of a non-discrimination rule is “relevant”.
+
+[^key-4ee31c792eca01f8caaf186023fe4f95]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/242/regulation/7) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-b01c011f3101d993c973c941b28daa22]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2023/242/regulation/8) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^f00015]: Footnote: See section 7(2) of the PSPJOA 2022 for the meaning of “the end of the section 6 election period”.
+
+[^key-574058a92a53d1c8e313a4253d52d8c3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2023/242/regulation/9) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-6c933378ee2731feb916e15f8da0e875]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2023/242/regulation/10) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-863455e5bdfaf551226b3bec63487bdc]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/ssi/2023/242/regulation/10) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/4)
+
+[^key-a5e0e5e2191bba976ded9dc4f113e8fc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2023/242/regulation/11) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-c898e1bd0c8695b18cb98750f1f169ed]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2023/242/regulation/12) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-132f50e251f392d9220b49fa0d9ee506]: Textual amendment: Words in [reg. 12(8)(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/12/8/b) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/5/a)
+
+[^f00016]: Footnote: See section 110(1) of the PSPJOA 2022 for the meaning of “voluntary contributions”.
+
+[^key-989b5eead14002b075d140a45dd1ca84]: Textual amendment: Words in [reg. 12(11)](https://www.legislation.gov.uk/ssi/2023/242/regulation/12/11) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/3)
+
+[^key-35e687a8c14f74ee7aafee5c986577e2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2023/242/regulation/13) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-d39bb0d52119c0849c91f74602dae0d9]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/ssi/2023/242/regulation/13/4) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/6)
+
+[^key-fc50ee89d39791bcdfd1c9aa4f55c99a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2023/242/regulation/14) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-95ea811f53bc4b39e4eb9e36bac52852]: Textual amendment: Word in [reg. 14(2)(a)(i)](https://www.legislation.gov.uk/ssi/2023/242/regulation/14/2/a/i) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(7)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/7)
+
+[^key-de386cc0c22bb2f09b22e9d38f33d228]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2023/242/regulation/15) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-9b1d00b598b8d57aa7d113b9c9dd5fa5]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2023/242/regulation/16) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-693a16e79307d08172299aef09dd23f6]: Textual amendment: Word in [reg. 16(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/16/b) omitted (23.6.2025 with effect from 1.10.2023) by virtue of [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/8)
+
+[^key-bdc2d17af202aa4907473c45e5700719]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2023/242/regulation/17) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-b7d5ed2dc5fa0a515227f1892ebbd08a]: Textual amendment: Words in reg. 17(2) omitted (23.6.2025 with effect from 1.10.2023) by virtue of [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/9/a)
+
+[^f00017]: Footnote: In accordance with section 110(1) of the PSPJOA 2022, “**WRPA 1999**” means the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
+
+[^f00018]: Footnote: See section 19(7) of the PSPJOA 2022 for the meanings of “pension debit” and “pension credit”.
+
+[^key-f0440fc5142c2cb3ecc915df0eed9a96]: Textual amendment: Words in reg. 17(2) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/9/b)
+
+[^key-1b975f3fba423ec041caa2bef4dc5f6a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2023/242/regulation/18) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-af234a1051f448e782925b891174a6df]: Textual amendment: Word in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2023/242/regulation/18/1) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(10)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/10)
+
+[^key-b1d8d28bee95cf8beabab3d1348c7442]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2023/242/regulation/19) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-7a5ea2bddbd8da4d187f3bb6de384094]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/ssi/2023/242/regulation/19/2) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/4/a)
+
+[^key-44685491358958d85926757792adbfba]: Textual amendment: Word in [reg. 19(3)](https://www.legislation.gov.uk/ssi/2023/242/regulation/19/3) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/4/b)
+
+[^key-5f760c2e25e9ed25aec7fd15cb57a482]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2023/242/regulation/20) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-31a194d007ce67531c07898550ec29e8]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2023/242/regulation/21) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-87cb2e47a4b965e12878dacbd2f3e630]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2023/242/regulation/22) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-ab37be068263b2b15fa2dd4686fa960e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2023/242/regulation/23) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-3bc0fb5c386fa3ce57d77c48d9a6f272]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2023/242/regulation/24) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-21a113e706a3f211358eaaab7a3fa3d6]: Textual amendment: Word in [reg. 24(1)(b)(i)](https://www.legislation.gov.uk/ssi/2023/242/regulation/24/1/b/i) omitted (23.6.2025 with effect from 1.10.2023) by virtue of [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(11)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/11)
+
+[^key-c27aea6ab53bc5c3e4aaa13752495696]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2023/242/regulation/25) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-2d8c2b678be5b12f3f4c73796b282f05]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2023/242/regulation/26) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-84a38aed3fd2bca34a03caac55a0b147]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2023/242/regulation/27) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-3ce46074de7a267e10ecc06d7148d6df]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2023/242/regulation/28) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-0f997f582bee5110365fe4f85b236cfe]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2023/242/regulation/29) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-89045e3bb6c526183674eac7219d3f8c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2023/242/regulation/30) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-55f6f1a961697648c920fa0cf0b47e9d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2023/242/regulation/31) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^f00019]: Footnote: See section 33 of PSPJOA 2022 for the meaning of “Chapter 1 scheme”.
+
+[^key-b9884a6c73b055d565feeee2b74f7391]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2023/242/regulation/32) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-bdad73171512be2453ae90b871ce2de8]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2023/242/regulation/33) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^f00020]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171). Regulation 6 was amended by section 42(6)(a) of the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
+
+[^key-81c00216b4468bb1e636abba92b312c3]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2023/242/regulation/34) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-27eec13f5addb484effb5e53e3017117]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2023/242/regulation/35) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-e8cc74ddc099d531789c21933d05a09e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2023/242/regulation/36) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-a55e535d10f3a65189ef1b50326ae38c]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2023/242/regulation/37) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-d52950e612acf8d86614841990fa0dc9]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2023/242/regulation/38) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-3ff95f6591999087f4ffd04f6c08b5c5]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2023/242/regulation/39) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-36c3852c0bb352d47fdd59089c68f1be]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2023/242/regulation/40) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-39e5d533d5a4b6d6d0109a7ce82a73c7]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2023/242/regulation/41) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-ad9cbefb88258281e6b0f56a280c63eb]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2023/242/regulation/42) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-88a6e740d97ab2da7e2b6db5386197a4]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2023/242/regulation/43) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-d31b7761927f9954b00d076f006517e7]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2023/242/regulation/44) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-25c6aab6962f94a35c12a82392992ca1]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2023/242/regulation/45) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-b2bf8ebf50a9515d84359eb43248e5bb]: Textual amendment: Word in [reg. 45(2)(a)](https://www.legislation.gov.uk/ssi/2023/242/regulation/45/2/a) inserted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/5)
+
+[^key-80bee401b1f054969aed99c7bc47b739]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2023/242/regulation/46) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-8909b34307aca0e5bf730daa0b545257]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2023/242/regulation/47) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-658f909ece60ac88245b78199a3cf733]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2023/242/regulation/48) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-4f7089c5f2f5033a97826ba837d8b53f]: Textual amendment: Word in [reg. 48(3)(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/48/3/b) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/6)
+
+[^key-78fbbc1b34604144fad82e0645cec5b3]: Commencement: Reg. 49 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-d11b0c769d273ebd39a7a83c9c3b7efa]: Textual amendment: Words in reg. 49 heading omitted (23.6.2025 with effect from 1.10.2023) by virtue of [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/12/a)
+
+[^f00021]: Footnote: Regulation B3 was amended by [S.S.I. 2006/342](https://www.legislation.gov.uk/ssi/2006/342), [S.S.I. 2007/200](https://www.legislation.gov.uk/ssi/2007/200), [S.S.I. 2010/332](https://www.legislation.gov.uk/ssi/2010/332), [2015/141](https://www.legislation.gov.uk/ssi/2015/141) and [S.S.I. 2018/216](https://www.legislation.gov.uk/ssi/2018/216).
+
+[^key-b97af63aabe127221183e209bf2d6fe2]: Textual amendment: Words in [reg. 49(1)](https://www.legislation.gov.uk/ssi/2023/242/regulation/49/1) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(7)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/7)
+
+[^key-b6ee4c5f27a69a6eaa3b1c18d543d5f7]: Textual amendment: Words in reg. 49(1) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/12/b)
+
+[^key-a9c95b7618bc6affa07b628f61d46cd3]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2023/242/regulation/50) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-8d6a6e65d96a62bab2816acc4b7233e1]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2023/242/regulation/51) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-671f10c0fd2c6229dd3b38811d4be691]: Textual amendment: [Reg. 51A](https://www.legislation.gov.uk/ssi/2023/242/regulation/51A) inserted (23.6.2025 with effect from 1.10.2023) by The Firefighters’ [Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(13)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/13)
+
+[^key-2cc1f28631186372e08f1bdbb300ff36]: Textual amendment: Words in [reg. 51A(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/242/regulation/51A/1/b/ii) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/8/a)
+
+[^key-3e30eb9c508549e669e3b5326323c368]: Textual amendment: Word in [reg. 51A(4)(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/51A/4/b) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/8/b)
+
+[^key-efc9b6419b15d7477ce1638571a0f4a2]: Textual amendment: Words in [reg. 51A(7)(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/51A/7/b) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(8)(c)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/8/c)
+
+[^key-b199fd4d541d3b42d50a4fa60cbb6d2c]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2023/242/regulation/52) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-46c0c449f1b603268dd6e80514cdd463]: Commencement: [Reg. 53](https://www.legislation.gov.uk/ssi/2023/242/regulation/53) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-80e3c7d8b913a80eeaf4b1cabbb8e459]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2023/242/regulation/54) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-9e671b4c456765c1fa0c249f9613940a]: Textual amendment: Words in [reg. 54(1)(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/54/1/b) inserted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(9)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/9)
+
+[^key-35406d1798c024b7af14be01221cc746]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2023/242/regulation/55) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^f00022]: Footnote: In accordance with section 110(1) of PSPJOA 2022, “**FA 2004**” means the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12). Section 237B was inserted by paragraph 15 of schedule 17 of the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
+
+[^f00023]: Footnote: Section 237BA was inserted by section 9(3) of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
+
+[^key-8d82a9e815e42bf862c69709037fef08]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2023/242/regulation/56) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^f00024]: Footnote: See section 26(3) of PSPJOA 2022 for the meaning of “relevant amounts”.
+
+[^key-8e650005bddb375ae4e487b33132f124]: Commencement: [Reg. 57](https://www.legislation.gov.uk/ssi/2023/242/regulation/57) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-37dd442ce2ccbd25a5e8a04b96226cbe]: Commencement: [Reg. 58](https://www.legislation.gov.uk/ssi/2023/242/regulation/58) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^f00025]: Footnote: See section 23 of PSPJOA 2022 and direction 11 of the PSP Directions 2022 for the meaning of “compensatable loss”.
+
+[^f00026]: Footnote: See section 23(9) of PSPJOA 2022 for the meaning of “Part 4 tax loss”.
+
+[^key-ba295f63f17d7a22c0c003e134639046]: Textual amendment: Word in [reg. 58(2)](https://www.legislation.gov.uk/ssi/2023/242/regulation/58/2) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(14)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/14)
+
+[^key-9afa016a9bf9d14a8238bd6ddce346a7]: Commencement: [Reg. 59](https://www.legislation.gov.uk/ssi/2023/242/regulation/59) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-abcac40818ea5ef7092a98588dc39308]: Commencement: [Reg. 60](https://www.legislation.gov.uk/ssi/2023/242/regulation/60) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-8f251815eacd9b8a270ecfc60fda9374]: Commencement: [Reg. 61](https://www.legislation.gov.uk/ssi/2023/242/regulation/61) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-ee5470108f3a8be02ffa019e8b6d27ac]: Commencement: [Reg. 62](https://www.legislation.gov.uk/ssi/2023/242/regulation/62) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-3cedaacf9995fa8a0d0cb0bff409af50]: Textual amendment: Word in [reg. 62(2)](https://www.legislation.gov.uk/ssi/2023/242/regulation/62/3) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(15)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/15)
+
+[^key-da4c053a3de704023140cb049d1b25bf]: Commencement: [Reg. 63](https://www.legislation.gov.uk/ssi/2023/242/regulation/63) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-2e0d8e0881d428575c5fd9e36cec68d3]: Commencement: [Reg. 64](https://www.legislation.gov.uk/ssi/2023/242/regulation/64) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-dc933d7ff0787416ccb2d81538617512]: Commencement: [Reg. 65](https://www.legislation.gov.uk/ssi/2023/242/regulation/65) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-203081a5293e37cb54b090fe154455c3]: Textual amendment: Words in [reg. 65(5)(a)](https://www.legislation.gov.uk/ssi/2023/242/regulation/65/5/a) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(10)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/10)
+
+[^key-d4d0c442dceec9657c7fc65c25b36c38]: Textual amendment: Words in [reg. 65(5)(c)](https://www.legislation.gov.uk/ssi/2023/242/regulation/65/5/c) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(10)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/10)
+
+[^key-108e38d6959e425050906d0680cb3bac]: Textual amendment: Words in [reg. 65(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/242/regulation/65/6/b/ii) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(10)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/10)
+
+[^key-088f86084159e43ccd8a7d8effc7b060]: Textual amendment: Words in [reg. 65(7)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/242/regulation/65/7/b/iii) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(10)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/10)
+
+[^key-4101263e1e332795e5a9718b22805266]: Textual amendment: Words in [reg. 65(9)](https://www.legislation.gov.uk/ssi/2023/242/regulation/65/9) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(16)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/16)
+
+[^f00027]: Footnote: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52).
+
+[^key-954e0c854860761283e24a6053f97543]: Commencement: [Reg. 66](https://www.legislation.gov.uk/ssi/2023/242/regulation/66) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-51239ca4b590e805e8dc23ab326801f2]: Commencement: Sch. para. 1 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-e03890a7ab8ab582406455516fb1e786]: Textual amendment: Words in sch. para. 1(1) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(17)(a)(i)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/17/a/i)
+
+[^key-133fb68ea864956b58b27421dda453e2]: Textual amendment: Words in [sch. para. 1(1)](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/1/1) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(11)(a)(i)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/11/a/i)
+
+[^key-70782ffbb94bd91d0d3b168b9adf185d]: Textual amendment: Words in sch. para. 1(1) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(17)(a)(iii)(aa)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/17/a/iii/aa)
+
+[^key-09a381ca7bbb7fc19728ad31aab21130]: Textual amendment: Words in [sch. para. 1(1)](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/1/1) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(11)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/11/a/ii/aa)
+
+[^key-c672ed32b9be7106556edc4b18cb32c4]: Textual amendment: Words in sch. para. 1(1) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(17)(a)(iii)(bb)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/17/a/iii/bb)
+
+[^key-7a2a4b894c4031bff9ac4f4d9814bbd5]: Textual amendment: Word in [sch. para. 1(1)](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/1/1) omitted (3.10.2025) by virtue of [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(11)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/11/a/ii/bb)
+
+[^key-2bbe6c124e66174ec7a3e7085eaf1f8f]: Textual amendment: Words in sch. para. 1(1) substituted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(17)(a)(iii)(cc)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/17/a/iii/cc)
+
+[^key-175d95bc53d986730070db0672f04554]: Textual amendment: Words in [sch. para. 1(1)](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/1/1) omitted (3.10.2025) by virtue of [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(11)(a)(iii)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/11/a/iii)
+
+[^key-7e15ee733e69b9da2ade4f3886a383bf]: Textual amendment: Word in [sch. para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/1/2/a) substituted (3.10.2025) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/187)](https://www.legislation.gov.uk/ssi/2025/187), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/187/regulation/1/2), [2(11)(b)](https://www.legislation.gov.uk/ssi/2025/187/regulation/2/11/b)
+
+[^key-6b01a4d9ee01961efbced6b169a53218]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/2) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-315f76e1ccc2e56ff6de47eb301bd054]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/3) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-300881abf14c74a3e192cc0db3d4d927]: Textual amendment: Words in [sch. para. 3](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/3) inserted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/17/b)
+
+[^key-058176a0853662e59da5afba195a50e8]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/4) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-026ce52d92f1b7c3a684da7bf2454112]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/5) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-50c02eafd209b0dae487a55a27da7153]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/6) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-fb0a67836032d73a7503d5b2c9de68d6]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/7) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-67250cb3caf62783733acd08e5046462]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/8) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-b41983f2805f9af4681cacfb22cd709e]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/9) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-fd0bccb2b1058c4507f43368e45fd4a5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/10) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-a96073f6bffcaf271c1ba3325371992e]: Commencement: Sch. para. 11 in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)
+
+[^key-14f8ccdfc21e779698c89ab62dd3c6bc]: Textual amendment: Word in sch. para. 11(2)(b)(ii) omitted (23.6.2025 with effect from 1.10.2023) by virtue of [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(17)(c)(i)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/17/c/i)
+
+[^key-b3bf4be5844225996a3b5102b27c77b2]: Textual amendment: Words in sch. para. 11(2)(b)(ii) inserted (23.6.2025 with effect from 1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/113)](https://www.legislation.gov.uk/ssi/2025/113), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/113/regulation/1/2), [2(17)(c)(ii)](https://www.legislation.gov.uk/ssi/2025/113/regulation/2/17/c/ii)
+
+[^key-96e40fc2f549ff064e111cfafb1e434e]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2023/242/schedule/paragraph/12) in force at 1.10.2023, see [reg. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b)

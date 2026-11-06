@@ -1,0 +1,27 @@
+---
+title: Police and Fire Reform (Scotland) Act 2012, section 43
+act: Police and Fire Reform (Scotland) Act 2012
+section: '43'
+status: revised-with-pending-changes
+text_date: '2025-12-29'
+extent: S
+source_url: https://www.legislation.gov.uk/asp/2012/8/section/43
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# Police and Fire Reform (Scotland) Act 2012, section 43
+
+> **Warning: changes not yet applied to this text (13).** Text as at 2025-12-29. See https://www.legislation.gov.uk/changes/affected/asp/2012/8
+>
+> Extent: Scotland.
+
+## 43. Examinations of Scottish Police Authority by Auditor General[^key-7e1adef6e377c559e8adf3abc3801be8]
+
+*Extent: S*
+
+The reference in section 23 of the Public Finance and Accountability (Scotland) Act 2000 to examinations into the economy, efficiency and effectiveness with which resources have been used is, in relation to the Authority, to include a reference to examinations into the arrangements made by the Authority under section 37(1).
+
+## Annotations
+
+[^key-7e1adef6e377c559e8adf3abc3801be8]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2012/8/section/43) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

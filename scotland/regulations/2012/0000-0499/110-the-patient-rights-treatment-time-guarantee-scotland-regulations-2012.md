@@ -1,0 +1,246 @@
+---
+title: The Patient Rights (Treatment Time Guarantee) (Scotland) Regulations 2012
+id: ssi/2012/110
+type: ScottishStatutoryInstrument
+category: secondary
+status: revised
+made_date: '2012-03-29'
+text_date: '2020-12-31'
+extent: S
+source_url: https://www.legislation.gov.uk/ssi/2012/110
+pdf_urls:
+- http://www.legislation.gov.uk/ssi/2012/110/pdfs/ssi_20120110_en.pdf
+- http://www.legislation.gov.uk/ssi/2012/110/data.pdf
+pending_changes: 0
+repealed_on: null
+attribution: © Crown and database right. Derived from content available under the Open Government Licence v3.0 from legislation.gov.uk.
+summary: ''
+---
+
+# The Patient Rights (Treatment Time Guarantee) (Scotland) Regulations 2012
+
+> Text as at 2020-12-31.
+>
+> Extent: Scotland.
+
+*Extent: S*
+
+2012 No. 110
+
+National Health Service
+
+The Patient Rights (Treatment Time Guarantee) (Scotland) Regulations 2012
+
+Made
+
+29th March 2012
+
+Coming into force
+
+1st October 2012
+
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 9(1) and (3) and 25(1) of the Patient Rights (Scotland) Act 2011[^f00001] and all other powers enabling them to do so.
+
+In accordance with section 25(2)(b) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament[^f00002].
+
+## 1. Citation, commencement and interpretation[^key-38105f8b03b4ba2fe40074e54ee0e2c7]
+
+(1) These Regulations may be cited as the Patient Rights (Treatment Time Guarantee) (Scotland) Regulations 2012 and come into force on 1st October 2012.
+
+(2) In these Regulations—
+
+- “assisted reproduction” means a treatment designed to lead to conception by means other than sexual intercourse;
+- “authorised provider” means a provider of surgical or medical services in an EEA state (other than the United Kingdom), or Switzerland who is lawfully providing such services in the territory of that state;
+- “dental practitioner” means a person registered in the dentists register under the Dentists Act 1984[^f00003];
+- “designated national specialist services” means services which are commissioned by the Common Services Agency[^f00004] on a national basis;
+- “EEA State”, in relation to any time, means—
+  - (a) a state which at that time is a member State; or
+  - (b) any other state which at that time is a party to the agreement on the European Economic Area signed at Oporto on 2nd May 1992, together with the Protocol adjusting that Agreement signed at Brussels on 17th March 1993, as modified or supplemented from time to time;
+- “ophthalmic medical practitioner” means an ophthalmic[^key-ecc64a47e0c955babeb0cdb296564283] medical practitioner within the meaning of regulation 2 of the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006[^f00005];
+- “ophthalmic optician” means a person registered in the register of optometrists maintained under section 7 of the Opticians Act 1989[^f00006] [^key-cca7736388b4b88d851ada569b843ac6]..., but excluding for the purposes of these Regulations a body corporate registered in the register of bodies corporate maintained under section 9 of that Act carrying on business as an optometrist;
+- “referring clinician” means the dental practitioner, ophthalmic medical practitioner, ophthalmic optician or registered medical practitioner who referred the patient to the Health Board;
+- “responsible Health Board” means, subject to regulation 9, the Health Board which agrees the specific treatment with an eligible patient.
+
+## 2. Patients eligible for the treatment time guarantee[^key-590c23ff85c388ee7511e5ad21078cb9]
+
+(1) Patients who are eligible for the treatment time guarantee are those patients due to receive planned treatment on a day case basis or an inpatient basis.
+
+(2) In this regulation—
+
+- “day case basis” means the treatment has been assessed as requiring the patient to remain in the place of treatment for a period of time after the treatment for the purposes of that patient’s supervised recovery, but does not require an overnight stay;
+- “inpatient basis” means the treatment requires the patient to be admitted to and remain in the place of treatment overnight;
+- “planned treatment” means treatment which is pre-arranged and non-emergency.
+
+## 3. Calculation of waiting time – when calculation starts[^key-acfe19288692b822ea22ff0c9fc48feb]
+
+(1) Waiting times are to be calculated by a responsible Health Board in accordance with this regulation and regulations 4 to 6.
+
+(2) The calculation of waiting time starts from the date on which the patient agrees to proceed with the agreed treatment.
+
+(3) However, where a patient is indefinitely unavailable for such treatment—
+
+- (a) the calculation of waiting time will not start; or
+- (b) where the calculation of waiting time has already started, the calculation will stop and the treatment time guarantee will cease to apply to that patient (without prejudice to any future applicability of the treatment time guarantee to that patient).
+
+## 4. Calculation of waiting time – periods of time not to be counted[^key-18b3a484444428c6dfea56db6b4c0020]
+
+(1) The following periods of time do not count towards the calculation of waiting time—
+
+- (a) periods of time when the patient is unavailable for the agreed treatment for a known period—
+  - (i) because a registered medical practitioner has advised that the patient has another medical condition which prevents the agreed treatment from proceeding for that period of time; or
+  - (ii) because the patient has advised the Health Board that he or she is unavailable for treatment for that period of time;
+- (b) periods of time when the treatment time guarantee is suspended in accordance with a direction or an order made under section 12(2) or (4) of the Patient Rights (Scotland) Act 2011.
+
+(2) Without prejudice to paragraph (1), the specified period in paragraph (3) does not count towards the calculation of waiting time when all of the following circumstances apply—
+
+- (a) an agreed treatment was due to be delivered in the commissioning Health Board area through a scheduled visiting practitioner service (as agreed between an eligible patient and the commissioning Health Board);
+- (b) the visiting practitioner has been unable to deliver the agreed treatment in the commissioning Health Board area due to severe weather conditions which prevented the practitioner from being able to travel to the commissioning Health Board area;
+- (c) the commissioning Health Board has accordingly offered the patient another appointment for the agreed treatment within the treatment time guarantee, but outwith the commissioning Health Board area; and
+- (d) the patient has decided, rather than to attend an appointment for the agreed treatment outwith the commissioning Health Board area, to wait until the next scheduled visiting practitioner service.
+
+(3) The specified period is the period from the date when the commissioning Health Board is made aware of the patient’s decision under paragraph (2)(d), until the date of the next scheduled visiting practitioner service.
+
+(4) In this regulation, “visiting practitioner service” means a service whereby a registered medical practitioner (a “practitioner”), who is employed by a Health Board, is scheduled to travel periodically to another Health Board (“the commissioning Health Board”) area in order to [^key-2468d7915c52dad7a8de9622758c9094]... treat patients in the commissioning Health Board area.
+
+## 4A. Calculation of waiting time – specific practitioner and specific location[^key-16fd4fa7ae54496bd6103bc9cec9e4f5]
+
+(1) The specified period in paragraph (2) does not count towards the calculation of waiting time when all of the following circumstances apply—
+
+- (a) the patient has declined an offer of an appointment for the agreed treatment within the maximum waiting time (“the original offer”) because either—
+  - (i) the patient wants the agreed treatment to be carried out by a specific registered medical practitioner; or
+  - (ii) the patient wants the agreed treatment to be carried out in a specific location;
+- (b) the responsible Health Board has agreed that, taking into account the patient’s health and wellbeing, it is reasonable and clinically appropriate to offer the patient an alternative appointment for the agreed treatment to be carried out by a specific registered medical practitioner or in a specific location (“the alternative offer”); and
+- (c) the responsible Health Board has advised the patient and he or she has accepted that the specified period will not count towards the calculation of waiting time.
+
+(2) The specified period is the period between the date of the original offer and the date of the alternative offer.
+
+(3) In this regulation—
+
+- “specific location” means a location within the area of the responsible Health Board where the original offer was for treatment outside of that area.
+
+## 5. Resetting the calculation of waiting time[^key-f8586617a0b852d4b0c8ef7e196d6a75]
+
+Where it is reasonable and clinically appropriate, the responsible Health Board may reset the calculation of waiting time to zero in either of the following circumstances—
+
+- (a) the patient has given the Health Board reasonable notice that he or she will not attend an appointment for the agreed treatment;
+- (b) the responsibility for the agreed treatment has transferred to a different Health Board in accordance with regulation 9.
+
+## 6. Referral back to referring clinician[^key-40e93c89553acffb72b3976377a67338]
+
+(1) Where the calculation of waiting time has started, the responsible Health Board may refer a patient back to that patient’s referring clinician (and the treatment time guarantee will cease to apply to that patient without prejudice to the applicability of the treatment time guarantee in any future referral) in any of the following circumstances, where it is reasonable and clinically appropriate—
+
+- (a) the patient did not attend an appointment for the agreed treatment and had not given the Health Board reasonable notice that he or she would not attend;
+- (b) the patient has refused two or more offers of an appointment for the agreed treatment;
+- (c) the patient has on three or more occasions cancelled an agreed appointment for the agreed treatment.
+
+(2) In circumstances where it is not reasonable and clinically appropriate to refer a patient back to that patient’s referring clinician in accordance with paragraph (1), the responsible Health Board may reset the calculation of waiting time to zero unless that would not be reasonable or clinically appropriate.
+
+## 7. Exceptions to the treatment time guarantee[^key-c79e850ec63bd0d663c2c972ba47b625]
+
+The treatment time guarantee does not apply to the following treatments and services—
+
+- (a) assisted reproduction;
+- (b) obstetrics services;
+- (c) organ, tissue or cell transplantation whether from a living or deceased donor;
+- (d)[^key-86c24f84b2d62ebe6665f1a9308e9bc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^key-8822c9d47df92928dc54caa4cfe61d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Health Board compliance with the treatment time guarantee[^key-fbe5e41f6d6367a077baa0a6ad2f1e56]
+
+(1) Where a Health Board is unable to meet the treatment time guarantee within its own area, it must take all reasonably practicable steps to arrange for the provision of the agreed treatment by—
+
+- (a) another Health Board;
+- (b) the National Health Service in England, Wales or Northern Ireland;
+- (c) an authorised provider; or
+- (d) another suitable alternative provider in the United Kingdom.
+
+(2) In deciding whether to pursue option (a), (b), (c) or (d) above, a Health Board must have regard to the importance of securing the effective and efficient use of the health service organisation and resources.
+
+(3) Where a patient is treated outside of the area of the responsible Health Board in accordance with an arrangement made under paragraph (1), without prejudice to any agreement which may exist between Health Boards or between a Health Board and the provider of the treatment (if not a Health Board), the responsible Health Board is responsible for the cost of any transport and accommodation arrangements necessarily and reasonably incurred as a result of any such arrangement.
+
+## 9. Transfer to a different Health Board[^key-b48515915bcae307b6544565a0a8e1b4]
+
+The responsibility for a treatment time guarantee transfers to a different Health Board when a patient’s ordinary residence changes to a different Health Board area and that patient requests to be treated in that different Health Board area.
+
+## 10. Provision of information to patients[^key-acbfcac68896cb5c30590a33b1b32647]
+
+A Health Board must provide patients with clear and accurate information about how waiting time is calculated, and in particular a Health Board must inform patients of the consequences if they—
+
+- (a) are indefinitely unavailable for the agreed treatment;
+- (b) are unavailable for the agreed treatment for a known period;
+- (c) make a decision in accordance with regulation 4(2)(d);
+- (d) do not attend an agreed appointment for the agreed treatment (both where they have given reasonable notice to the Health Board, and where they have not);
+- (e) refuse two or more offers of an appointment for the agreed treatment;
+- (f) request to be treated in a different Health Board area in accordance with regulation 9.
+
+NICOLA STURGEON
+
+A member of the Scottish Executive
+
+St Andrew’s House,
+
+Edinburgh
+
+EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make further provision about the treatment time guarantee established by virtue of section 8 of the Patient Rights (Scotland) Act 2011 (“the Act”) and set out how that guarantee is to operate in practice.
+
+Regulation 2 provides that patients who are eligible for the treatment time guarantee are those patients due to receive planned treatment on an inpatient or day case basis.
+
+Regulations 3, 4, 5 and 6 set out how waiting time is to be calculated for the purposes of the treatment time guarantee. Regulation 3 provides that the calculation of waiting time is to start from the date on which the patient agrees to proceed with the agreed treatment. Regulations 4, 5 and 6 set out periods of time which may be disregarded for the purposes of calculating the waiting time, as well as the circumstances when the calculation of waiting time may be reset to zero, or where a patient may be referred back to the referring clinician (in which case the particular treatment time guarantee will cease to apply), where that is reasonable and clinically appropriate in all the circumstances.
+
+Regulation 7 sets out the treatments and services in respect of which the treatment time guarantee does not apply.
+
+Regulation 8 provides for the steps which a Health Board must take where it is unable to meet the treatment time guarantee within its own area.
+
+Regulation 9 provides for the circumstances in which the responsibility for a treatment time guarantee transfers to a different Health Board area.
+
+Regulation 10 places an obligation on Health Boards to provide patients with clear and accurate information about how waiting time is calculated.
+
+## Annotations
+
+[^f00001]: Footnote: [2011 asp 5](https://www.legislation.gov.uk/asp/2011/5).
+
+[^f00002]: Footnote: Section 25(2)(b) has been modified by paragraph 5 of Schedule 3 to the Interpretation and Legislative Reform (Scotland) Act [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
+
+[^key-38105f8b03b4ba2fe40074e54ee0e2c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/110/regulation/1) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/1)
+
+[^f00003]: Footnote: [1984 c.24](https://www.legislation.gov.uk/ukpga/1984/24).
+
+[^f00004]: Footnote: The Common Services Agency is constituted under section 10 of the National Health Service (Scotland) Act [1978 (c.29)](https://www.legislation.gov.uk/ukpga/1978/29).
+
+[^key-ecc64a47e0c955babeb0cdb296564283]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/ssi/2012/110/regulation/1) substituted (1.4.2014) by [The Patient Rights (Treatment Time Guarantee) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/93)](https://www.legislation.gov.uk/ssi/2014/93), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/93/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2014/93/regulation/2/2)
+
+[^f00005]: Footnote: [S.S.I. 2006/135](https://www.legislation.gov.uk/ssi/2006/135), to which there are amendments not relevant to these Regulations.
+
+[^f00006]: Footnote: [1989 c.44](https://www.legislation.gov.uk/ukpga/1989/44). Section 7 was amended by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848); section 8B was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101); section 9 was amended by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
+
+[^key-cca7736388b4b88d851ada569b843ac6]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 23](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/23) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+
+[^key-590c23ff85c388ee7511e5ad21078cb9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/110/regulation/2) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/1)
+
+[^key-acfe19288692b822ea22ff0c9fc48feb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/110/regulation/3) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/1)
+
+[^key-18b3a484444428c6dfea56db6b4c0020]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/110/regulation/4) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/1)
+
+[^key-2468d7915c52dad7a8de9622758c9094]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/ssi/2012/110/regulation/4/4) omitted (1.4.2014) by virtue of [The Patient Rights (Treatment Time Guarantee) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/93)](https://www.legislation.gov.uk/ssi/2014/93), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/93/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2014/93/regulation/2/3)
+
+[^key-16fd4fa7ae54496bd6103bc9cec9e4f5]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2012/110/regulation/4A) inserted (1.4.2014) by [The Patient Rights (Treatment Time Guarantee) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/93)](https://www.legislation.gov.uk/ssi/2014/93), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/93/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2014/93/regulation/2/4)
+
+[^key-f8586617a0b852d4b0c8ef7e196d6a75]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/110/regulation/5) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/1)
+
+[^key-40e93c89553acffb72b3976377a67338]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2012/110/regulation/6) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/1)
+
+[^key-c79e850ec63bd0d663c2c972ba47b625]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/110/regulation/7) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/1)
+
+[^key-86c24f84b2d62ebe6665f1a9308e9bc7]: Textual amendment: [Reg. 7(d)](https://www.legislation.gov.uk/ssi/2012/110/regulation/7/d) omitted (1.10.2014) by virtue of [The Patient Rights (Treatment Time Guarantee) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/93)](https://www.legislation.gov.uk/ssi/2014/93), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2014/93/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/ssi/2014/93/regulation/2/5/a)
+
+[^key-8822c9d47df92928dc54caa4cfe61d68]: Textual amendment: [Reg. 7(e)](https://www.legislation.gov.uk/ssi/2012/110/regulation/7/e) omitted (1.4.2014) by virtue of [The Patient Rights (Treatment Time Guarantee) (Scotland) Amendment Regulations 2014 (S.S.I. 2014/93)](https://www.legislation.gov.uk/ssi/2014/93), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/93/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/ssi/2014/93/regulation/2/5/b)
+
+[^key-fbe5e41f6d6367a077baa0a6ad2f1e56]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2012/110/regulation/8) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/1)
+
+[^key-b48515915bcae307b6544565a0a8e1b4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2012/110/regulation/9) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/1)
+
+[^key-acbfcac68896cb5c30590a33b1b32647]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2012/110/regulation/10) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/110/regulation/1/1)
